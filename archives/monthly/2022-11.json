@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1668949089764,
+  "endTime": 1668950958481,
   "band_list": [
     {
       "raw_hot": 8596020,
@@ -305,6 +305,14 @@
       "onboard_time": 1668305250,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2817246,
+      "num": 2817246,
+      "word": "王冰冰自我介绍",
+      "onboard_time": 1668949109,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 2803500,
@@ -923,6 +931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1895666,
+      "num": 1895666,
+      "word": "世界杯开幕式提前一小时",
+      "onboard_time": 1668937588,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1894312,
       "num": 1024316,
       "word": "女生在校遭霸凌致精神失常",
@@ -1480,14 +1496,6 @@
       "word": "刘氏兄弟母亲确认两人将入籍中国",
       "onboard_time": 1668219691,
       "rank": 47,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1604436,
-      "num": 1604436,
-      "word": "世界杯开幕式提前一小时",
-      "onboard_time": 1668937588,
-      "rank": 5,
       "category": "体育"
     },
     {
@@ -5155,6 +5163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 790914,
+      "num": 790914,
+      "word": "刘德华演唱会",
+      "onboard_time": 1668947008,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 787794,
       "num": 448787,
       "word": "齐溪让王鹤棣拿一下奖杯",
@@ -5785,6 +5801,14 @@
       "onboard_time": 1667742271,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 729081,
+      "num": 729081,
+      "word": "内马尔 帅",
+      "onboard_time": 1668692549,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 727948,
@@ -7531,6 +7555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 610220,
+      "num": 610220,
+      "word": "单亲妈妈带3娃千里投奔网恋对象",
+      "onboard_time": 1668945988,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 609678,
       "num": 609678,
       "word": "王海回应打假疯狂小杨哥",
@@ -7633,14 +7665,6 @@
       "onboard_time": 1668863190,
       "rank": 26,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 602588,
-      "num": 602588,
-      "word": "刘德华演唱会",
-      "onboard_time": 1668947008,
-      "rank": 21,
-      "category": "音乐"
     },
     {
       "raw_hot": 601926,
@@ -9027,6 +9051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 538146,
+      "num": 538146,
+      "word": "在重庆的一天有多令人羡慕",
+      "onboard_time": 1668947248,
+      "rank": 43,
+      "category": "美食"
+    },
+    {
       "raw_hot": 537729,
       "num": 537729,
       "word": "阿瑟 撕日历",
@@ -9297,6 +9329,14 @@
       "onboard_time": 1668162875,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 524522,
+      "num": 524522,
+      "word": "鹿晗给化疗粉丝送演唱会门票",
+      "onboard_time": 1668950729,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 524379,
@@ -9625,6 +9665,14 @@
       "onboard_time": 1668422909,
       "rank": 12,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 513899,
+      "num": 513899,
+      "word": "吴宣仪翻跳Jennie新歌",
+      "onboard_time": 1668948688,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 513580,
@@ -10915,14 +10963,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 470053,
-      "num": 470053,
-      "word": "单亲妈妈带3娃千里投奔网恋对象",
-      "onboard_time": 1668945988,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 469942,
       "num": 469942,
       "word": "个人养老金资金账户内资产可继承",
@@ -11185,6 +11225,14 @@
       "onboard_time": 1668940707,
       "rank": 11,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 462311,
+      "num": 333307,
+      "word": "王冰冰最新状态",
+      "onboard_time": 1668949588,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 462282,
@@ -11523,14 +11571,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 451731,
-      "num": 451731,
-      "word": "吴宣仪翻跳Jennie新歌",
-      "onboard_time": 1668948688,
-      "rank": 14,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 451594,
       "num": 451594,
       "word": "田柾国将在卡塔尔世界杯开幕式表演",
@@ -11633,14 +11673,6 @@
       "onboard_time": 1667656108,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 448061,
-      "num": 448061,
-      "word": "内马尔 帅",
-      "onboard_time": 1668692549,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 447137,
@@ -11833,14 +11865,6 @@
       "onboard_time": 1667276189,
       "rank": 12,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 439560,
-      "num": 439560,
-      "word": "在重庆的一天有多令人羡慕",
-      "onboard_time": 1668947248,
-      "rank": 43,
-      "category": "美食"
     },
     {
       "raw_hot": 439513,
@@ -13435,6 +13459,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 399145,
+      "num": 399145,
+      "word": "世界杯开幕",
+      "onboard_time": 1668950128,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 398982,
       "num": 398982,
       "word": "毕业生藏200个小煤球给学弟学妹",
@@ -15017,6 +15049,14 @@
       "onboard_time": 1667229985,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 359958,
+      "num": 330473,
+      "word": "财阀家的小儿子 重生爽文",
+      "onboard_time": 1668950190,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 359830,
@@ -18051,6 +18091,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 301265,
+      "num": 301265,
+      "word": "世界杯赛程",
+      "onboard_time": 1668801132,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 301187,
       "num": 301187,
       "word": "唐诗逸海岸边跳舞好美",
@@ -18569,14 +18617,6 @@
       "onboard_time": 1668302971,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 290834,
-      "num": 262423,
-      "word": "世界杯赛程",
-      "onboard_time": 1668801132,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 290802,
@@ -20067,6 +20107,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 268236,
+      "num": 255077,
+      "word": "我们的歌",
+      "onboard_time": 1668351034,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 268226,
       "num": 268226,
       "word": "命运关上了李峋所有的窗",
@@ -20809,14 +20857,6 @@
       "onboard_time": 1668063025,
       "rank": 14,
       "category": "影视"
-    },
-    {
-      "raw_hot": 255077,
-      "num": 255077,
-      "word": "我们的歌",
-      "onboard_time": 1668351034,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 254789,
@@ -23024,6 +23064,14 @@
       "word": "马嘉祺宋亚轩万水朝东明天公演见",
       "onboard_time": 1668656189,
       "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 224364,
+      "num": 150283,
+      "word": "李薇误伤尹峥",
+      "onboard_time": 1668948448,
+      "rank": 40,
       "category": "影视"
     },
     {
@@ -26619,6 +26667,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 185754,
+      "num": 185754,
+      "word": "C罗球场训练大秀肌肉",
+      "onboard_time": 1668947727,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 185731,
       "num": 167920,
       "word": "张真源侧脸是3的形状",
@@ -26641,6 +26697,14 @@
       "onboard_time": 1667456784,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 185460,
+      "num": 185460,
+      "word": "本泽马已离开卡塔尔",
+      "onboard_time": 1668948627,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 185345,
@@ -28291,14 +28355,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 168770,
-      "num": 168770,
-      "word": "C罗球场训练大秀肌肉",
-      "onboard_time": 1668947727,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 168602,
       "num": 165657,
       "word": "宋祖儿reaction白宇谢谢你医生",
@@ -29699,6 +29755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 156739,
+      "num": 156739,
+      "word": "卡塔尔世界杯上的中国制造如满天繁星",
+      "onboard_time": 1668948569,
+      "rank": 46,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 156723,
       "num": 156723,
       "word": "深圳校服上新了",
@@ -30355,6 +30419,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 150385,
+      "num": 150385,
+      "word": "卡塔尔vs厄瓜多尔",
+      "onboard_time": 1668949769,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 150337,
       "num": 126563,
       "word": "长相思",
@@ -30393,6 +30465,14 @@
       "onboard_time": 1668827788,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 150155,
+      "num": 150155,
+      "word": "父母为什么理解不了我们的累",
+      "onboard_time": 1668950369,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 150054,
@@ -34139,14 +34219,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 122099,
-      "num": 122099,
-      "word": "卡塔尔世界杯上的中国制造如满天繁星",
-      "onboard_time": 1668948569,
-      "rank": 46,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 122041,
       "num": 122041,
       "word": "樊振东3比0薛飞",
@@ -35099,14 +35171,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 113833,
-      "num": 113833,
-      "word": "本泽马已离开卡塔尔",
-      "onboard_time": 1668948627,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 113828,
       "num": 113828,
       "word": "沈月入选2022星辰大海",
@@ -35961,6 +36025,14 @@
       "onboard_time": 1668639981,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 106908,
+      "num": 122483,
+      "word": "世界杯彩票",
+      "onboard_time": 1668950911,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 106845,
@@ -40396,7 +40468,7 @@
     },
     {
       "raw_hot": 69188,
-      "num": 1265487,
+      "num": 1319525,
       "word": "绝美视角看神十四太空漫步",
       "onboard_time": 1668927566,
       "rank": 2,
