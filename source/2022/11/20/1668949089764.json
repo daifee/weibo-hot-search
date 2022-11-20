@@ -1,0 +1,410 @@
+{
+  "runTime": 1668949089764,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1604436,
+        "num": 1604436,
+        "word": "世界杯开幕式提前一小时",
+        "onboard_time": 1668937588,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1362115,
+        "num": 1362115,
+        "word": "世界杯直播",
+        "onboard_time": 1668946349,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30601,
+        "num": 742609,
+        "word": "绝美视角看神十四太空漫步",
+        "onboard_time": 1668927566,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 740315,
+        "num": 740315,
+        "word": "EDG",
+        "onboard_time": 1668944309,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 713600,
+        "num": 713600,
+        "word": "郑州通报4个月大女婴夭折",
+        "onboard_time": 1668938367,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 652285,
+        "num": 652285,
+        "word": "点燃我温暖你连发7条花絮",
+        "onboard_time": 1668946708,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 609691,
+        "num": 609691,
+        "word": "北京加大全市统筹实行区自为战",
+        "onboard_time": 1668941128,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 602588,
+        "num": 602588,
+        "word": "刘德华演唱会",
+        "onboard_time": 1668947008,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 578174,
+        "num": 578174,
+        "word": "朝阳一小区半地下室供暖水泄露致2死",
+        "onboard_time": 1668943949,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 564252,
+        "num": 564252,
+        "word": "江西16岁失联男孩已找到",
+        "onboard_time": 1668928105,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1677489,
+        "num": 555630,
+        "word": "妻子流产抑郁加重男子申请撤销婚姻",
+        "onboard_time": 1668942689,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1161611,
+        "num": 553433,
+        "word": "菅田将晖变样了",
+        "onboard_time": 1668946768,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 540878,
+        "num": 540878,
+        "word": "尹峥李薇吵架",
+        "onboard_time": 1668944070,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 470053,
+        "num": 470053,
+        "word": "单亲妈妈带3娃千里投奔网恋对象",
+        "onboard_time": 1668945988,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 451731,
+        "num": 451731,
+        "word": "吴宣仪翻跳Jennie新歌",
+        "onboard_time": 1668948688,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 439560,
+        "num": 439560,
+        "word": "在重庆的一天有多令人羡慕",
+        "onboard_time": 1668947248,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 411161,
+        "num": 411161,
+        "word": "芒果好像在做一种很新的恋综",
+        "onboard_time": 1668940166,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 388867,
+        "num": 388867,
+        "word": "31省平均工资发布",
+        "onboard_time": 1668937467,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 386903,
+        "num": 386903,
+        "word": "男子出车祸600私了6天后大出血死亡",
+        "onboard_time": 1668923787,
+        "rank": 18,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 381577,
+        "num": 381577,
+        "word": "霍华德背靠背砍61分",
+        "onboard_time": 1668946829,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 397148,
+        "num": 366602,
+        "word": "宋雨琦发文说我没事",
+        "onboard_time": 1668946169,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 322487,
+        "num": 322487,
+        "word": "宋舞桃花开了",
+        "onboard_time": 1668948387,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 309971,
+        "num": 309971,
+        "word": "李峋向朱韵求婚",
+        "onboard_time": 1668938848,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 305989,
+        "num": 305989,
+        "word": "JDG",
+        "onboard_time": 1668945925,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 262423,
+        "num": 262423,
+        "word": "世界杯赛程",
+        "onboard_time": 1668947785,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 304147,
+        "num": 255585,
+        "word": "白敬亭六少主府今日终于开府迎客",
+        "onboard_time": 1668947188,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 243859,
+        "num": 243859,
+        "word": "北京新增516例本土感染者",
+        "onboard_time": 1668936447,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240770,
+        "num": 240770,
+        "word": "32岁全职妈妈自学化妆2月气质大变",
+        "onboard_time": 1668935786,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231472,
+        "num": 231472,
+        "word": "忘掉很爱的人需要多久",
+        "onboard_time": 1668944189,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 217640,
+        "num": 217640,
+        "word": "男生上课犯困班主任抱怀里哄睡",
+        "onboard_time": 1668941068,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217534,
+        "num": 217534,
+        "word": "孙怡看王子异刘维上菜的反应",
+        "onboard_time": 1668945628,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204682,
+        "num": 204682,
+        "word": "陈飞宇张婧仪最新芭莎花絮",
+        "onboard_time": 1668944669,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 201966,
+        "num": 201966,
+        "word": "ruler",
+        "onboard_time": 1668942446,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 189464,
+        "num": 189464,
+        "word": "超市店主悬赏千元寻找抢烟男子",
+        "onboard_time": 1668944367,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174735,
+        "num": 174735,
+        "word": "卿卿日常全员女团",
+        "onboard_time": 1668946288,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 168770,
+        "num": 168770,
+        "word": "C罗球场训练大秀肌肉",
+        "onboard_time": 1668947727,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165007,
+        "num": 165007,
+        "word": "RNG",
+        "onboard_time": 1668940707,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 164118,
+        "num": 164118,
+        "word": "出现哪些症状提示心梗了",
+        "onboard_time": 1668943048,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160900,
+        "num": 160900,
+        "word": "大鹅混进天鹅群蹭饭被一眼认出",
+        "onboard_time": 1668941908,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151155,
+        "num": 151155,
+        "word": "北京疫情防控",
+        "onboard_time": 1668939557,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165271,
+        "num": 149762,
+        "word": "唐代簪花仕女走出了画卷",
+        "onboard_time": 1668944729,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163102,
+        "num": 149255,
+        "word": "李峋要开始复仇了",
+        "onboard_time": 1668942446,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 147302,
+        "num": 147302,
+        "word": "世界杯",
+        "onboard_time": 1668907471,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137883,
+        "num": 137883,
+        "word": "千万不要用皮蛋做馄饨",
+        "onboard_time": 1668935668,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 127140,
+        "num": 127140,
+        "word": "纸盒对猫咪的诱惑有多大",
+        "onboard_time": 1668946470,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 123320,
+        "num": 123320,
+        "word": "为什么有人不喜欢过生日",
+        "onboard_time": 1668935424,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 122099,
+        "num": 122099,
+        "word": "卡塔尔世界杯上的中国制造如满天繁星",
+        "onboard_time": 1668948569,
+        "rank": 46,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 121286,
+        "num": 121286,
+        "word": "NEST决赛EDG对战FPX",
+        "onboard_time": 1668945925,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 117792,
+        "num": 117792,
+        "word": "北京朝阳倡议周一继续减少流动",
+        "onboard_time": 1668938546,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113833,
+        "num": 113833,
+        "word": "本泽马已离开卡塔尔",
+        "onboard_time": 1668948627,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#2分钟回顾神舟一号发射#"
+    }
+  }
+}

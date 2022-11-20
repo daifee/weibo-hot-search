@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/01 00:36:21 ~ 2022/11/20 20:37:38
+本榜单时间：2022/11/01 00:36:21 ~ 2022/11/20 20:58:09
 </p>
 </blockquote>
 <p>
@@ -1125,6 +1125,12 @@ Faker（热度：1632969）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%9D%AF%E5%BC%80%E5%B9%95%E5%BC%8F%E6%8F%90%E5%89%8D%E4%B8%80%E5%B0%8F%E6%97%B6%23" target="weibo">
+世界杯开幕式提前一小时（热度：1604436）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E5%B7%9E%E9%80%9A%E6%8A%A54%E4%B8%AA%E6%9C%88%E5%A4%A7%E5%A5%B3%E5%A9%B4%E5%A4%AD%E6%8A%98%23" target="weibo">
 郑州通报4个月大女婴夭折（热度：1603100）
 </a>
@@ -1565,6 +1571,12 @@ Faker（热度：1632969）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%8B%E5%8F%8B%E5%9C%88%E8%AE%BE%E7%BD%AE%E4%B8%89%E5%A4%A9%E5%8F%AF%E8%A7%81%E7%9A%84%E7%90%86%E7%94%B1%23" target="weibo">
 朋友圈设置三天可见的理由（热度：1363339）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%9D%AF%E7%9B%B4%E6%92%AD%23" target="weibo">
+世界杯直播（热度：1362115）
 </a>
 </li>
 
@@ -2043,6 +2055,12 @@ TVB余子明去世（热度：1187677）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8F%85%E7%94%B0%E5%B0%86%E6%99%96%E5%8F%98%E6%A0%B7%E4%BA%86%23" target="weibo">
+菅田将晖变样了（热度：1161611）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%AE%B6%E5%8C%BB%E9%99%A2%E4%B8%8D%E5%86%8D%E5%90%91%E7%A4%BE%E4%BC%9A%E6%8F%90%E4%BE%9B%E6%84%BF%E6%A3%80%E5%B0%BD%E6%A3%80%E6%9C%8D%E5%8A%A1%23" target="weibo">
 多家医院不再向社会提供愿检尽检服务（热度：1160847）
 </a>
@@ -2487,12 +2505,6 @@ iPhone折叠屏（热度：1140020）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8F%85%E7%94%B0%E5%B0%86%E6%99%96%E5%8F%98%E6%A0%B7%E4%BA%86%23" target="weibo">
-菅田将晖变样了（热度：1030781）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E8%A7%84%E5%88%92%E6%96%B9%E8%88%B1%E5%8F%8A%E9%9A%94%E7%A6%BB%E7%82%B9%E5%BA%8A%E4%BD%8D24%E4%B8%87%E5%BC%A0%23" target="weibo">
 广州规划方舱及隔离点床位24万张（热度：1030609）
 </a>
@@ -2783,12 +2795,6 @@ EXO六人合体视频（热度：1003777）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9F%A5%E5%90%8D%E7%B3%95%E7%82%B9%E9%97%A8%E5%BA%97%E8%80%81%E9%BC%A0%E5%9C%A8%E5%B1%95%E6%9F%9C%E6%97%81%E4%B9%B1%E7%AA%9C%23" target="weibo">
 知名糕点门店老鼠在展柜旁乱窜（热度：979347）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%9D%AF%E5%BC%80%E5%B9%95%E5%BC%8F%E6%8F%90%E5%89%8D%E4%B8%80%E5%B0%8F%E6%97%B6%23" target="weibo">
-世界杯开幕式提前一小时（热度：976859）
 </a>
 </li>
 
@@ -4251,6 +4257,12 @@ Jennie演唱会中途脚伤复发（热度：742614）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23EDG%23" target="weibo">
+EDG（热度：740315）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E6%94%B6%E9%9B%861%E5%B9%B4%E6%8E%89%E5%8F%91%E7%BB%91%E6%88%905%E5%8E%98%E7%B1%B3%E7%B2%97%E9%A9%AC%E5%B0%BE%23" target="weibo">
 女生收集1年掉发绑成5厘米粗马尾（热度：740107）
 </a>
@@ -4809,12 +4821,6 @@ T1对战DRX（热度：692544）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23EDG%23" target="weibo">
-EDG（热度：681671）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%80%A1%E8%AF%B4%E5%A5%B9%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%BD%91%E8%B4%AD%E5%A2%9E%E9%AB%98%E9%9E%8B%23" target="weibo">
 孙怡说她第一次网购增高鞋（热度：681356）
 </a>
@@ -5151,6 +5157,12 @@ hybe将明年推出泡泡（热度：657725）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%82%B9%E7%87%83%E6%88%91%E6%B8%A9%E6%9A%96%E4%BD%A0%E8%BF%9E%E5%8F%917%E6%9D%A1%E8%8A%B1%E7%B5%AE%23" target="weibo">
+点燃我温暖你连发7条花絮（热度：652285）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%81%B6%E6%84%8F%E5%85%A5%E4%BE%B5%E7%BD%91%E8%AF%BE%E5%8F%AF%E8%83%BD%E6%B6%89%E5%AB%8C%E7%8A%AF%E7%BD%AA%23" target="weibo">
 恶意入侵网课可能涉嫌犯罪（热度：652118）
 </a>
@@ -5381,12 +5393,6 @@ iPhone14中美之外全球涨价（热度：638215）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E8%BF%9E%E8%AF%B4%E4%BA%869%E4%B8%AA%E7%9C%9F%E7%9A%84%E5%BE%88%E6%83%B3%E4%BD%A0%E4%BB%AC%23" target="weibo">
 张艺兴连说了9个真的很想你们（热度：634011）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%82%B9%E7%87%83%E6%88%91%E6%B8%A9%E6%9A%96%E4%BD%A0%E8%BF%9E%E5%8F%917%E6%9D%A1%E8%8A%B1%E7%B5%AE%23" target="weibo">
-点燃我温暖你连发7条花絮（热度：633609）
 </a>
 </li>
 
@@ -5733,6 +5739,12 @@ iPhone14Pro息屏可不显示壁纸（热度：625106）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%BE%B7%E5%8D%8E%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
+刘德华演唱会（热度：602588）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%91%98%E8%93%9D%E5%A4%A9%E9%87%8E%E5%90%8D%E5%AD%97%E6%98%AF%E5%BD%93%E5%9C%B0%E4%B8%8B%E5%85%9A%E4%BA%A4%E9%80%9A%E5%91%98%E6%97%B6%E5%8F%96%E7%9A%84%23" target="weibo">
 演员蓝天野名字是当地下党交通员时取的（热度：601926）
 </a>
@@ -5999,18 +6011,6 @@ DRX翻中翻中翻（热度：583763）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A2%9C%E5%AE%81%23" target="weibo">
 颜宁（热度：580763）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%80%AA%E5%A6%AE%E9%87%91%E9%B8%A1%E5%A5%96%E7%BB%BF%E9%87%8E%E4%BB%99%E8%B8%AA%E9%80%A0%E5%9E%8B%23" target="weibo">
-倪妮金鸡奖绿野仙踪造型（热度：580664）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E9%83%A8%E9%97%A8%E8%81%94%E5%90%88%E8%B0%83%E6%9F%A5%E5%A5%B3%E8%80%81%E5%B8%88%E4%B8%8A%E7%BD%91%E8%AF%BE%E5%90%8E%E5%8E%BB%E4%B8%96%23" target="weibo">
-多部门联合调查女老师上网课后去世（热度：580225）
 </a>
 </li>
 
