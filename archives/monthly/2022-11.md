@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/01 00:36:21 ~ 2022/11/20 12:27:16
+本榜单时间：2022/11/01 00:36:21 ~ 2022/11/20 12:44:33
 </p>
 </blockquote>
 <p>
@@ -4575,6 +4575,12 @@ T1对战DRX（热度：692544）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%87%AF%E6%AD%8C%E8%AF%B4%E9%99%88%E9%A3%9E%E5%AE%87%E6%98%AF%E6%9E%81%E7%AB%AF%E7%9A%84%E5%AE%8C%E7%BE%8E%E4%B8%BB%E4%B9%89%E8%80%85%23" target="weibo">
+陈凯歌说陈飞宇是极端的完美主义者（热度：687953）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%B3%8B%E4%B8%89%E5%A8%83%E7%88%B9%23" target="weibo">
 李峋三娃爹（热度：686490）
 </a>
@@ -5643,6 +5649,12 @@ iPhone14Pro息屏可不显示壁纸（热度：625106）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%B3%AF%E8%AF%B4%E6%89%93%E7%AE%97%E6%BC%94%E6%88%8F%E5%88%B080%E5%B2%81%23" target="weibo">
+林峯说打算演戏到80岁（热度：595399）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%B9%B4%E7%BA%A7%E5%A5%B3%E5%AD%A9%E7%94%A8%E6%89%8B%E6%89%AB%E6%8F%8F%E4%B9%A6%E6%8C%89%E8%BF%9B%E5%A4%A7%E8%84%91%23" target="weibo">
 一年级女孩用手扫描书按进大脑（热度：594538）
 </a>
@@ -5999,18 +6011,6 @@ C罗炮轰曼联（热度：578960）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%BF%9E%E5%90%83%E5%8D%81%E5%87%A0%E5%8F%AA%E8%9E%83%E8%9F%B9%E7%AA%81%E5%8F%91%E8%83%B0%E8%85%BA%E7%82%8E%23" target="weibo">
 女子连吃十几只螃蟹突发胰腺炎（热度：567375）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%A4%96%E5%8D%96%E8%A2%AB%E5%81%B7%E5%AB%8C%E7%96%91%E4%BA%BA%E4%B8%8B%E8%B7%AA%E9%81%93%E6%AD%89%23" target="weibo">
-女子外卖被偷嫌疑人下跪道歉（热度：566450）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BB%A4%E4%BA%BA%E5%BF%83%E5%8A%A8%E7%9A%84offer4%E5%BB%BA%E7%AD%91%E5%B8%88%E5%AD%A3%E5%AE%98%E5%AE%A3%23" target="weibo">
-令人心动的offer4建筑师季官宣（热度：566442）
 </a>
 </li>
 

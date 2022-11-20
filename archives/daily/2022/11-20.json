@@ -1,6 +1,6 @@
 {
   "startTime": 1668875307469,
-  "endTime": 1668918436862,
+  "endTime": 1668919473956,
   "band_list": [
     {
       "raw_hot": 3531288,
@@ -123,6 +123,14 @@
       "category": "综艺,幽默"
     },
     {
+      "raw_hot": 687953,
+      "num": 316193,
+      "word": "陈凯歌说陈飞宇是极端的完美主义者",
+      "onboard_time": 1668914009,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 682077,
       "num": 682077,
       "word": "奶奶将1.5米粉红豹改成40厘米",
@@ -145,6 +153,14 @@
       "onboard_time": 1668906928,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 595399,
+      "num": 595399,
+      "word": "林峯说打算演戏到80岁",
+      "onboard_time": 1668918747,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 592425,
@@ -187,12 +203,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 526537,
-      "num": 316193,
-      "word": "陈凯歌说陈飞宇是极端的完美主义者",
-      "onboard_time": 1668914009,
-      "rank": 25,
-      "category": "作品衍生"
+      "raw_hot": 510741,
+      "num": 510741,
+      "word": "两公羊争斗迎头相撞一只当场死亡",
+      "onboard_time": 1668915627,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 509886,
@@ -243,11 +259,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 438490,
-      "num": 438490,
-      "word": "两公羊争斗迎头相撞一只当场死亡",
-      "onboard_time": 1668915627,
-      "rank": 5,
+      "raw_hot": 444411,
+      "num": 309596,
+      "word": "小伙单手拿几十万现金站马路墩子上",
+      "onboard_time": 1668916226,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -315,6 +331,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 354953,
+      "num": 354953,
+      "word": "世界杯",
+      "onboard_time": 1668907471,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 354035,
       "num": 354035,
       "word": "卡塔尔世界杯创下多个第一次",
@@ -379,28 +403,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 324567,
-      "num": 309596,
-      "word": "小伙单手拿几十万现金站马路墩子上",
-      "onboard_time": 1668916226,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 323994,
       "num": 122604,
       "word": "你好星期六下期致敬中国动画百年",
       "onboard_time": 1668872192,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 317475,
-      "num": 317475,
-      "word": "世界杯",
-      "onboard_time": 1668907471,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 316123,
@@ -435,8 +443,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 294110,
+      "num": 223819,
+      "word": "原来在河南随便吃一口都是非遗",
+      "onboard_time": 1668918086,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 293431,
-      "num": 201269,
+      "num": 220026,
       "word": "孟佳跳舞拿到S评价",
       "onboard_time": 1668917785,
       "rank": 21,
@@ -481,6 +497,14 @@
       "onboard_time": 1668849208,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 277712,
+      "num": 130883,
+      "word": "林允儿又唱红豆",
+      "onboard_time": 1668919346,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 277040,
@@ -539,6 +563,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 224062,
+      "num": 224062,
+      "word": "美典当行将日军侵华罪行相册捐给中国",
+      "onboard_time": 1668917425,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 222404,
       "num": 222404,
       "word": "热奶宝",
@@ -553,6 +585,22 @@
       "onboard_time": 1668903384,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 207514,
+      "num": 139133,
+      "word": "王梓薇新剧手撕渣男",
+      "onboard_time": 1668914907,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 206646,
+      "num": 103834,
+      "word": "周杰伦哥友会高清纯享版上线",
+      "onboard_time": 1668918562,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 201912,
@@ -595,14 +643,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 183880,
-      "num": 139133,
-      "word": "王梓薇新剧手撕渣男",
-      "onboard_time": 1668914907,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 179226,
       "num": 179226,
       "word": "11月19日新增本土无症状22011例",
@@ -625,14 +665,6 @@
       "onboard_time": 1668867452,
       "rank": 33,
       "category": "影视,动漫"
-    },
-    {
-      "raw_hot": 172067,
-      "num": 111634,
-      "word": "原来在河南随便吃一口都是非遗",
-      "onboard_time": 1668918086,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 170941,
@@ -763,14 +795,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 132872,
-      "num": 132872,
-      "word": "美典当行将日军侵华罪行相册捐给中国",
-      "onboard_time": 1668917425,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 130705,
       "num": 130705,
       "word": "Kpop视角看世界杯",
@@ -800,6 +824,14 @@
       "word": "女子称荒地露营1天内被村民收费4次",
       "onboard_time": 1668856410,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 116527,
+      "num": 116527,
+      "word": "剖腹产黑猩猩首次见娃抱紧呜咽",
+      "onboard_time": 1668918747,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -897,6 +929,14 @@
       "onboard_time": 1668856648,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 92202,
+      "num": 92202,
+      "word": "仙气乐蕴",
+      "onboard_time": 1668919166,
+      "rank": 45,
+      "category": "社会负面"
     },
     {
       "raw_hot": 91945,
