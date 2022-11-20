@@ -1,6 +1,6 @@
 {
   "startTime": 1668875307469,
-  "endTime": 1668950958481,
+  "endTime": 1668951655887,
   "band_list": [
     {
       "raw_hot": 3531288,
@@ -11,8 +11,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2817246,
-      "num": 2817246,
+      "raw_hot": 2833885,
+      "num": 2833885,
       "word": "王冰冰自我介绍",
       "onboard_time": 1668949109,
       "rank": 0,
@@ -35,8 +35,8 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 1895666,
-      "num": 1895666,
+      "raw_hot": 1994161,
+      "num": 1994161,
       "word": "世界杯开幕式提前一小时",
       "onboard_time": 1668937588,
       "rank": 5,
@@ -113,6 +113,14 @@
       "onboard_time": 1668873090,
       "rank": 3,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 1362893,
+      "num": 516592,
+      "word": "世界杯开幕",
+      "onboard_time": 1668950128,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 1362115,
@@ -203,20 +211,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 854037,
+      "num": 854037,
+      "word": "内马尔 帅",
+      "onboard_time": 1668949229,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 820645,
+      "num": 820645,
+      "word": "刘德华演唱会",
+      "onboard_time": 1668947008,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 802416,
       "num": 714852,
       "word": "宋雨琦因状态不佳缺席今日签售活动",
       "onboard_time": 1668920006,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 790914,
-      "num": 790914,
-      "word": "刘德华演唱会",
-      "onboard_time": 1668947008,
-      "rank": 21,
-      "category": "音乐"
     },
     {
       "raw_hot": 781210,
@@ -289,14 +305,6 @@
       "onboard_time": 1668921207,
       "rank": 3,
       "category": "影视"
-    },
-    {
-      "raw_hot": 729081,
-      "num": 729081,
-      "word": "内马尔 帅",
-      "onboard_time": 1668949229,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 716309,
@@ -443,6 +451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 588738,
+      "num": 588738,
+      "word": "在重庆的一天有多令人羡慕",
+      "onboard_time": 1668947248,
+      "rank": 43,
+      "category": "美食"
+    },
+    {
       "raw_hot": 581751,
       "num": 581751,
       "word": "芒果好像在做一种很新的恋综",
@@ -475,6 +491,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 569777,
+      "num": 569777,
+      "word": "财阀家的小儿子 重生爽文",
+      "onboard_time": 1668950190,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 565099,
       "num": 565099,
       "word": "北方女子南方点外卖遇巴掌大炒饭",
@@ -497,14 +521,6 @@
       "onboard_time": 1668901461,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 538146,
-      "num": 538146,
-      "word": "在重庆的一天有多令人羡慕",
-      "onboard_time": 1668947248,
-      "rank": 43,
-      "category": "美食"
     },
     {
       "raw_hot": 529923,
@@ -755,14 +771,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 399145,
-      "num": 399145,
-      "word": "世界杯开幕",
-      "onboard_time": 1668950128,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 393343,
       "num": 393343,
       "word": "南瓜自己滚进锅里还盖上了盖",
@@ -864,14 +872,6 @@
       "word": "白敬亭六少主府今日终于开府迎客",
       "onboard_time": 1668947188,
       "rank": 20,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 359958,
-      "num": 330473,
-      "word": "财阀家的小儿子 重生爽文",
-      "onboard_time": 1668950190,
-      "rank": 22,
       "category": "影视"
     },
     {
@@ -1195,7 +1195,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 268236,
+      "raw_hot": 271367,
       "num": 205814,
       "word": "我们的歌",
       "onboard_time": 1668949828,
@@ -1332,7 +1332,7 @@
     },
     {
       "raw_hot": 224364,
-      "num": 150283,
+      "num": 190269,
       "word": "李薇误伤尹峥",
       "onboard_time": 1668948448,
       "rank": 40,
@@ -1345,6 +1345,14 @@
       "onboard_time": 1668854487,
       "rank": 13,
       "category": "美食"
+    },
+    {
+      "raw_hot": 220830,
+      "num": 220830,
+      "word": "父母为什么理解不了我们的累",
+      "onboard_time": 1668950369,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 219383,
@@ -1523,12 +1531,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190930,
+      "num": 190930,
+      "word": "本泽马已离开卡塔尔",
+      "onboard_time": 1668948627,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 190723,
       "num": 190723,
       "word": "求求你陪狗玩一会吧",
       "onboard_time": 1668921927,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 187749,
+      "num": 187749,
+      "word": "卡塔尔世界杯上的中国制造如满天繁星",
+      "onboard_time": 1668948569,
+      "rank": 46,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 186980,
@@ -1543,14 +1567,6 @@
       "num": 185754,
       "word": "C罗球场训练大秀肌肉",
       "onboard_time": 1668947727,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 185460,
-      "num": 185460,
-      "word": "本泽马已离开卡塔尔",
-      "onboard_time": 1668948627,
       "rank": 49,
       "category": "体育"
     },
@@ -1675,6 +1691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 169696,
+      "num": 169696,
+      "word": "卡塔尔vs厄瓜多尔",
+      "onboard_time": 1668949769,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 165338,
       "num": 112058,
       "word": "杨洋黑西装拍摄花絮",
@@ -1723,14 +1747,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 156739,
-      "num": 156739,
-      "word": "卡塔尔世界杯上的中国制造如满天繁星",
-      "onboard_time": 1668948569,
-      "rank": 46,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 156320,
       "num": 141415,
       "word": "阳华搬到秦施家对门",
@@ -1753,22 +1769,6 @@
       "onboard_time": 1668872013,
       "rank": 26,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 150385,
-      "num": 150385,
-      "word": "卡塔尔vs厄瓜多尔",
-      "onboard_time": 1668949769,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 150155,
-      "num": 150155,
-      "word": "父母为什么理解不了我们的累",
-      "onboard_time": 1668950369,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 149644,
@@ -2220,7 +2220,7 @@
     },
     {
       "raw_hot": 69188,
-      "num": 1319525,
+      "num": 1326398,
       "word": "绝美视角看神十四太空漫步",
       "onboard_time": 1668927566,
       "rank": 2,

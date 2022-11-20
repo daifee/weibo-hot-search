@@ -1,0 +1,410 @@
+{
+  "runTime": 1668951655887,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2833885,
+        "num": 2833885,
+        "word": "王冰冰自我介绍",
+        "onboard_time": 1668949109,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1994161,
+        "num": 1994161,
+        "word": "世界杯开幕式提前一小时",
+        "onboard_time": 1668937588,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32292,
+        "num": 1326398,
+        "word": "绝美视角看神十四太空漫步",
+        "onboard_time": 1668927566,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1070898,
+        "num": 1070898,
+        "word": "世界杯直播",
+        "onboard_time": 1668946349,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 854037,
+        "num": 854037,
+        "word": "内马尔 帅",
+        "onboard_time": 1668949229,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 820645,
+        "num": 820645,
+        "word": "刘德华演唱会",
+        "onboard_time": 1668947008,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 602320,
+        "num": 602320,
+        "word": "单亲妈妈带3娃千里投奔网恋对象",
+        "onboard_time": 1668945988,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 588738,
+        "num": 588738,
+        "word": "在重庆的一天有多令人羡慕",
+        "onboard_time": 1668947248,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 569777,
+        "num": 569777,
+        "word": "财阀家的小儿子 重生爽文",
+        "onboard_time": 1668950190,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 524831,
+        "num": 524831,
+        "word": "郑州通报4个月大女婴夭折",
+        "onboard_time": 1668938367,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1445693,
+        "num": 517301,
+        "word": "妻子流产抑郁加重男子申请撤销婚姻",
+        "onboard_time": 1668942689,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1362893,
+        "num": 516592,
+        "word": "世界杯开幕",
+        "onboard_time": 1668950128,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 824787,
+        "num": 514543,
+        "word": "菅田将晖变样了",
+        "onboard_time": 1668946768,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 496165,
+        "num": 496165,
+        "word": "鹿晗给化疗粉丝送演唱会门票",
+        "onboard_time": 1668950729,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 471277,
+        "num": 471277,
+        "word": "点燃我温暖你连发7条花絮",
+        "onboard_time": 1668946708,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 461647,
+        "num": 461647,
+        "word": "北京加大全市统筹实行区自为战",
+        "onboard_time": 1668941128,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 459241,
+        "num": 459241,
+        "word": "EDG",
+        "onboard_time": 1668944309,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 410823,
+        "num": 410823,
+        "word": "江西16岁失联男孩已找到",
+        "onboard_time": 1668928105,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 408089,
+        "num": 408089,
+        "word": "朝阳一小区半地下室供暖水泄露致2死",
+        "onboard_time": 1668943949,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304853,
+        "num": 304853,
+        "word": "男子出车祸600私了6天后大出血死亡",
+        "onboard_time": 1668923787,
+        "rank": 19,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 434645,
+        "num": 303936,
+        "word": "吴宣仪翻跳Jennie新歌",
+        "onboard_time": 1668948688,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 385131,
+        "num": 301240,
+        "word": "王冰冰最新状态",
+        "onboard_time": 1668949588,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 333382,
+        "num": 300134,
+        "word": "李峋向朱韵求婚",
+        "onboard_time": 1668938848,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 297331,
+        "num": 297331,
+        "word": "31省平均工资发布",
+        "onboard_time": 1668937467,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292450,
+        "num": 292450,
+        "word": "世界杯赛程",
+        "onboard_time": 1668947785,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 290681,
+        "num": 290681,
+        "word": "霍华德背靠背砍61分",
+        "onboard_time": 1668946829,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 224655,
+        "num": 224655,
+        "word": "JDG",
+        "onboard_time": 1668945925,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 220830,
+        "num": 220830,
+        "word": "父母为什么理解不了我们的累",
+        "onboard_time": 1668950369,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 213656,
+        "num": 213656,
+        "word": "32岁全职妈妈自学化妆2月气质大变",
+        "onboard_time": 1668935786,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206464,
+        "num": 206464,
+        "word": "北京新增516例本土感染者",
+        "onboard_time": 1668936447,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325574,
+        "num": 205446,
+        "word": "尹峥李薇吵架",
+        "onboard_time": 1668944070,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 271367,
+        "num": 200427,
+        "word": "我们的歌",
+        "onboard_time": 1668949828,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 265368,
+        "num": 196519,
+        "word": "芒果好像在做一种很新的恋综",
+        "onboard_time": 1668940166,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223165,
+        "num": 194311,
+        "word": "宋舞桃花开了",
+        "onboard_time": 1668948387,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 190930,
+        "num": 190930,
+        "word": "本泽马已离开卡塔尔",
+        "onboard_time": 1668948627,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 217251,
+        "num": 190269,
+        "word": "李薇误伤尹峥",
+        "onboard_time": 1668948448,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 187749,
+        "num": 187749,
+        "word": "卡塔尔世界杯上的中国制造如满天繁星",
+        "onboard_time": 1668948569,
+        "rank": 36,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 178723,
+        "num": 178723,
+        "word": "男生上课犯困班主任抱怀里哄睡",
+        "onboard_time": 1668941068,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170453,
+        "num": 170453,
+        "word": "忘掉很爱的人需要多久",
+        "onboard_time": 1668944189,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 169696,
+        "num": 169696,
+        "word": "卡塔尔vs厄瓜多尔",
+        "onboard_time": 1668949769,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202882,
+        "num": 168423,
+        "word": "白敬亭六少主府今日终于开府迎客",
+        "onboard_time": 1668947188,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 157736,
+        "num": 157736,
+        "word": "C罗球场训练大秀肌肉",
+        "onboard_time": 1668947727,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148859,
+        "num": 148859,
+        "word": "RNG",
+        "onboard_time": 1668940707,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 141289,
+        "num": 141289,
+        "word": "出现哪些症状提示心梗了",
+        "onboard_time": 1668943048,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140888,
+        "num": 140888,
+        "word": "北京疫情防控",
+        "onboard_time": 1668939557,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137511,
+        "num": 137511,
+        "word": "世界杯",
+        "onboard_time": 1668907471,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128014,
+        "num": 128014,
+        "word": "超市店主悬赏千元寻找抢烟男子",
+        "onboard_time": 1668944367,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118601,
+        "num": 118601,
+        "word": "大鹅混进天鹅群蹭饭被一眼认出",
+        "onboard_time": 1668941908,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101890,
+        "num": 101890,
+        "word": "世界杯彩票",
+        "onboard_time": 1668950911,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101161,
+        "num": 101161,
+        "word": "ruler",
+        "onboard_time": 1668942446,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#2分钟回顾神舟一号发射#"
+    }
+  }
+}
