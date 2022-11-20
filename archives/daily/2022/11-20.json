@@ -1,6 +1,6 @@
 {
   "startTime": 1668875307469,
-  "endTime": 1668932749131,
+  "endTime": 1668933636733,
   "band_list": [
     {
       "raw_hot": 3531288,
@@ -171,12 +171,28 @@
       "category": "综艺,幽默"
     },
     {
+      "raw_hot": 745658,
+      "num": 384707,
+      "word": "虞书欣欧阳娜娜徐璐今日营业照",
+      "onboard_time": 1668933447,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 732677,
       "num": 732677,
       "word": "陈飞宇片场勾张婧仪下巴",
       "onboard_time": 1668921207,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 716309,
+      "num": 716309,
+      "word": "赵丽颖说张艺兴比较呆萌",
+      "onboard_time": 1668931708,
+      "rank": 4,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 714292,
@@ -201,14 +217,6 @@
       "onboard_time": 1668919706,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 693176,
-      "num": 693176,
-      "word": "赵丽颖说张艺兴比较呆萌",
-      "onboard_time": 1668931708,
-      "rank": 4,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 687953,
@@ -291,6 +299,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 567542,
+      "num": 380961,
+      "word": "李峋误会朱韵结婚",
+      "onboard_time": 1668932487,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 565099,
       "num": 565099,
       "word": "北方女子南方点外卖遇巴掌大炒饭",
@@ -337,6 +353,14 @@
       "onboard_time": 1668869493,
       "rank": 11,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 477668,
+      "num": 477668,
+      "word": "男子请工人疏通下水道被收1600元",
+      "onboard_time": 1668929668,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 477422,
@@ -403,14 +427,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 418951,
-      "num": 418951,
-      "word": "男子请工人疏通下水道被收1600元",
-      "onboard_time": 1668929668,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 417247,
       "num": 417247,
       "word": "点燃我温暖你希望大家理性追剧",
@@ -443,6 +459,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 393343,
+      "num": 393343,
+      "word": "南瓜自己滚进锅里还盖上了盖",
+      "onboard_time": 1668928824,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 387951,
       "num": 387951,
       "word": "特朗普账号重回推特",
@@ -465,6 +489,14 @@
       "onboard_time": 1668882316,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 373288,
+      "num": 186221,
+      "word": "内马尔预测巴西是冠军",
+      "onboard_time": 1668932726,
+      "rank": 47,
+      "category": "体育,综艺"
     },
     {
       "raw_hot": 370260,
@@ -563,14 +595,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 331688,
-      "num": 331688,
-      "word": "南瓜自己滚进锅里还盖上了盖",
-      "onboard_time": 1668928824,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 326631,
       "num": 326631,
       "word": "世界杯离美军基地只有20多公里",
@@ -601,6 +625,14 @@
       "onboard_time": 1668918747,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 319270,
+      "num": 319270,
+      "word": "世界杯男模",
+      "onboard_time": 1668931407,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 316527,
@@ -731,14 +763,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 266097,
-      "num": 125544,
-      "word": "李峋误会朱韵结婚",
-      "onboard_time": 1668932487,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 254619,
       "num": 119446,
       "word": "羡慕王勉",
@@ -785,14 +809,6 @@
       "onboard_time": 1668874887,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 223518,
-      "num": 81727,
-      "word": "内马尔预测巴西是冠军",
-      "onboard_time": 1668932726,
-      "rank": 47,
-      "category": "体育,综艺"
     },
     {
       "raw_hot": 222404,
@@ -857,14 +873,6 @@
       "onboard_time": 1668914907,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 207470,
-      "num": 207470,
-      "word": "世界杯男模",
-      "onboard_time": 1668931407,
-      "rank": 21,
-      "category": "体育"
     },
     {
       "raw_hot": 203144,
@@ -947,6 +955,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 184029,
+      "num": 184029,
+      "word": "中国球迷给梅西的迷惑建议",
+      "onboard_time": 1668932784,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 181259,
       "num": 181259,
       "word": "仙气乐蕴",
@@ -979,6 +995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 174686,
+      "num": 174686,
+      "word": "原来居家也能有效减肥",
+      "onboard_time": 1668932307,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 173741,
       "num": 112843,
       "word": "安室透",
@@ -993,6 +1017,14 @@
       "onboard_time": 1668922527,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 172020,
+      "num": 124301,
+      "word": "命韵峋环恋爱循环",
+      "onboard_time": 1668932906,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 170941,
@@ -1049,6 +1081,22 @@
       "onboard_time": 1668877040,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 158048,
+      "num": 158048,
+      "word": "马斯克发布与推特员工凌晨加班照",
+      "onboard_time": 1668932067,
+      "rank": 43,
+      "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 157301,
+      "num": 157301,
+      "word": "世界杯上满满中国设计小巧思",
+      "onboard_time": 1668930987,
+      "rank": 25,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 154450,
@@ -1145,14 +1193,6 @@
       "onboard_time": 1668928105,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 136958,
-      "num": 136958,
-      "word": "世界杯上满满中国设计小巧思",
-      "onboard_time": 1668930987,
-      "rank": 25,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 136184,
@@ -1283,12 +1323,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 105468,
-      "num": 105468,
-      "word": "原来居家也能有效减肥",
-      "onboard_time": 1668932307,
-      "rank": 36,
-      "category": "体育"
+      "raw_hot": 105536,
+      "num": 105536,
+      "word": "把自己的心情永远置顶",
+      "onboard_time": 1668929726,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 101762,
@@ -1323,14 +1363,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 96914,
-      "num": 96914,
-      "word": "把自己的心情永远置顶",
-      "onboard_time": 1668929726,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 94459,
       "num": 94459,
       "word": "你还有随时可以打扰的人吗",
@@ -1361,14 +1393,6 @@
       "onboard_time": 1668858447,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 87266,
-      "num": 87266,
-      "word": "马斯克发布与推特员工凌晨加班照",
-      "onboard_time": 1668932067,
-      "rank": 43,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 85480,
@@ -1473,6 +1497,14 @@
       "onboard_time": 1668931644,
       "rank": 49,
       "category": "科技"
+    },
+    {
+      "raw_hot": 55178,
+      "num": 75880,
+      "word": "大熊猫福宝被韩国保育员爷爷宠上天",
+      "onboard_time": 1668933627,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 49665,
