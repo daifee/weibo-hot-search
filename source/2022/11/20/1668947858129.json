@@ -1,0 +1,410 @@
+{
+  "runTime": 1668947858129,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 976859,
+        "num": 976859,
+        "word": "世界杯开幕式提前一小时",
+        "onboard_time": 1668937588,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 854314,
+        "num": 854314,
+        "word": "郑州通报4个月大女婴夭折",
+        "onboard_time": 1668938367,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30988,
+        "num": 778631,
+        "word": "绝美视角看神十四太空漫步",
+        "onboard_time": 1668927566,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 747688,
+        "num": 747688,
+        "word": "北京加大全市统筹实行区自为战",
+        "onboard_time": 1668941128,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 681671,
+        "num": 681671,
+        "word": "EDG",
+        "onboard_time": 1668944309,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 668754,
+        "num": 668754,
+        "word": "尹峥李薇吵架",
+        "onboard_time": 1668944070,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 633609,
+        "num": 633609,
+        "word": "点燃我温暖你连发7条花絮",
+        "onboard_time": 1668946708,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 627288,
+        "num": 627288,
+        "word": "江西16岁失联男孩已找到",
+        "onboard_time": 1668928105,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 506115,
+        "num": 506115,
+        "word": "世界杯直播",
+        "onboard_time": 1668946349,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 467956,
+        "num": 467956,
+        "word": "芒果好像在做一种很新的恋综",
+        "onboard_time": 1668940166,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1836098,
+        "num": 465853,
+        "word": "妻子流产抑郁加重男子申请撤销婚姻",
+        "onboard_time": 1668942689,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1030781,
+        "num": 463585,
+        "word": "菅田将晖变样了",
+        "onboard_time": 1668946768,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 490873,
+        "num": 460483,
+        "word": "朝阳一小区半地下室供暖水泄露致2死",
+        "onboard_time": 1668943949,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 456247,
+        "num": 456247,
+        "word": "宋雨琦发文说我没事",
+        "onboard_time": 1668946169,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 432666,
+        "num": 432666,
+        "word": "孙怡看王子异刘维上菜的反应",
+        "onboard_time": 1668945628,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 390651,
+        "num": 390651,
+        "word": "男子出车祸600私了6天后大出血死亡",
+        "onboard_time": 1668923787,
+        "rank": 15,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 382385,
+        "num": 382385,
+        "word": "31省平均工资发布",
+        "onboard_time": 1668937467,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 364189,
+        "num": 364189,
+        "word": "JDG",
+        "onboard_time": 1668945925,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 349236,
+        "num": 349236,
+        "word": "单亲妈妈带3娃千里投奔网恋对象",
+        "onboard_time": 1668945988,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317591,
+        "num": 317591,
+        "word": "ruler",
+        "onboard_time": 1668942446,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 360476,
+        "num": 315719,
+        "word": "白敬亭六少主府今日终于开府迎客",
+        "onboard_time": 1668947188,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 353632,
+        "num": 313990,
+        "word": "刘德华演唱会",
+        "onboard_time": 1668947008,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 347656,
+        "num": 311918,
+        "word": "李峋向朱韵求婚",
+        "onboard_time": 1668938848,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 309774,
+        "num": 309774,
+        "word": "霍华德背靠背砍61分",
+        "onboard_time": 1668946829,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 309008,
+        "num": 309008,
+        "word": "男生上课犯困班主任抱怀里哄睡",
+        "onboard_time": 1668941068,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272712,
+        "num": 272712,
+        "word": "忘掉很爱的人需要多久",
+        "onboard_time": 1668944189,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 265448,
+        "num": 265448,
+        "word": "32岁全职妈妈自学化妆2月气质大变",
+        "onboard_time": 1668935786,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261524,
+        "num": 261524,
+        "word": "北京新增516例本土感染者",
+        "onboard_time": 1668936447,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199474,
+        "num": 199474,
+        "word": "大鹅混进天鹅群蹭饭被一眼认出",
+        "onboard_time": 1668941908,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194547,
+        "num": 194547,
+        "word": "超市店主悬赏千元寻找抢烟男子",
+        "onboard_time": 1668944367,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290834,
+        "num": 193992,
+        "word": "世界杯赛程",
+        "onboard_time": 1668947785,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 236929,
+        "num": 191410,
+        "word": "陈飞宇张婧仪最新芭莎花絮",
+        "onboard_time": 1668944669,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 196214,
+        "num": 188678,
+        "word": "唐代簪花仕女走出了画卷",
+        "onboard_time": 1668944729,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 232209,
+        "num": 185357,
+        "word": "李峋要开始复仇了",
+        "onboard_time": 1668942446,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 185119,
+        "num": 185119,
+        "word": "出现哪些症状提示心梗了",
+        "onboard_time": 1668943048,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182031,
+        "num": 182031,
+        "word": "RNG",
+        "onboard_time": 1668940707,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 173381,
+        "num": 173381,
+        "word": "被Adele退场方式美到了",
+        "onboard_time": 1668937405,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 164199,
+        "num": 164199,
+        "word": "为什么有人不喜欢过生日",
+        "onboard_time": 1668935424,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 163993,
+        "num": 163993,
+        "word": "NEST决赛EDG对战FPX",
+        "onboard_time": 1668945925,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 162356,
+        "num": 162356,
+        "word": "千万不要用皮蛋做馄饨",
+        "onboard_time": 1668935668,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 156771,
+        "num": 156771,
+        "word": "北京疫情防控",
+        "onboard_time": 1668939557,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154926,
+        "num": 154926,
+        "word": "世界杯",
+        "onboard_time": 1668907471,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153567,
+        "num": 153567,
+        "word": "北京朝阳倡议周一继续减少流动",
+        "onboard_time": 1668938546,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151298,
+        "num": 151298,
+        "word": "在重庆的一天有多令人羡慕",
+        "onboard_time": 1668947248,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 149967,
+        "num": 149967,
+        "word": "世界杯上10号球衣名场面",
+        "onboard_time": 1668940768,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143265,
+        "num": 143265,
+        "word": "卿卿日常全员女团",
+        "onboard_time": 1668946288,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 132624,
+        "num": 132624,
+        "word": "李峋误会朱韵结婚",
+        "onboard_time": 1668932487,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 132301,
+        "num": 132301,
+        "word": "纸盒对猫咪的诱惑有多大",
+        "onboard_time": 1668946470,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 125437,
+        "num": 125437,
+        "word": "山西朔州有居民没做核酸就出结果",
+        "onboard_time": 1668937947,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118686,
+        "num": 118686,
+        "word": "C罗球场训练大秀肌肉",
+        "onboard_time": 1668947727,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#2分钟回顾神舟一号发射#"
+    }
+  }
+}

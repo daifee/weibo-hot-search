@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1668944020379,
+  "endTime": 1668947858129,
   "band_list": [
     {
       "raw_hot": 8596020,
@@ -1056,6 +1056,14 @@
       "word": "厦门海关截获1只活体黑寡妇",
       "onboard_time": 1667805806,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1836098,
+      "num": 563690,
+      "word": "妻子流产抑郁加重男子申请撤销婚姻",
+      "onboard_time": 1668942689,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -2387,14 +2395,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1248701,
-      "num": 563690,
-      "word": "妻子流产抑郁加重男子申请撤销婚姻",
-      "onboard_time": 1668942689,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1248390,
       "num": 1248390,
       "word": "伊藤美诚11比0",
@@ -3299,6 +3299,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1030781,
+      "num": 463585,
+      "word": "菅田将晖变样了",
+      "onboard_time": 1668946768,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1030609,
       "num": 1030609,
       "word": "广州规划方舱及隔离点床位24万张",
@@ -3691,6 +3699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 976859,
+      "num": 976859,
+      "word": "世界杯开幕式提前一小时",
+      "onboard_time": 1668937588,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 973914,
       "num": 973914,
       "word": "全网围观下的石家庄",
@@ -3761,14 +3777,6 @@
       "onboard_time": 1668247409,
       "rank": 17,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 964016,
-      "num": 964016,
-      "word": "世界杯开幕式提前一小时",
-      "onboard_time": 1668937588,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 960450,
@@ -5555,6 +5563,14 @@
       "category": "综艺,幽默"
     },
     {
+      "raw_hot": 747688,
+      "num": 747688,
+      "word": "北京加大全市统筹实行区自为战",
+      "onboard_time": 1668941128,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 746216,
       "num": 605833,
       "word": "刺猬被人用绳绑死结勒脖烂肉",
@@ -6379,6 +6395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 681671,
+      "num": 681671,
+      "word": "EDG",
+      "onboard_time": 1668944309,
+      "rank": 4,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 681356,
       "num": 258415,
       "word": "孙怡说她第一次网购增高鞋",
@@ -6585,6 +6609,14 @@
       "onboard_time": 1668242970,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 668754,
+      "num": 668754,
+      "word": "尹峥李薇吵架",
+      "onboard_time": 1668944070,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 668484,
@@ -7129,6 +7161,14 @@
       "onboard_time": 1668236249,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 633609,
+      "num": 633609,
+      "word": "点燃我温暖你连发7条花絮",
+      "onboard_time": 1668946708,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 632907,
@@ -8249,14 +8289,6 @@
       "onboard_time": 1667351067,
       "rank": 7,
       "category": "影视"
-    },
-    {
-      "raw_hot": 565765,
-      "num": 565765,
-      "word": "北京加大全市统筹实行区自为战",
-      "onboard_time": 1668941128,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 565443,
@@ -9779,6 +9811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 506115,
+      "num": 506115,
+      "word": "世界杯直播",
+      "onboard_time": 1668946349,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 506038,
       "num": 506038,
       "word": "点燃我温暖你22集暂停的原因",
@@ -10208,6 +10248,14 @@
       "word": "男女街边消费148元开宝马逃单",
       "onboard_time": 1668519392,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 490873,
+      "num": 460483,
+      "word": "朝阳一小区半地下室供暖水泄露致2死",
+      "onboard_time": 1668943949,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -11363,6 +11411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 456247,
+      "num": 456247,
+      "word": "宋雨琦发文说我没事",
+      "onboard_time": 1668946169,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 455765,
       "num": 455765,
       "word": "中国球迷给梅西的迷惑建议",
@@ -12145,6 +12201,14 @@
       "onboard_time": 1667810605,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 432666,
+      "num": 432666,
+      "word": "孙怡看王子异刘维上菜的反应",
+      "onboard_time": 1668945628,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 432219,
@@ -14691,6 +14755,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 364189,
+      "num": 364189,
+      "word": "JDG",
+      "onboard_time": 1668945925,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 364037,
       "num": 269509,
       "word": "Meiko看五月天演出",
@@ -14848,6 +14920,14 @@
       "word": "郭晓婷涂山雅雅盼重逢",
       "onboard_time": 1667792665,
       "rank": 24,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 360476,
+      "num": 315719,
+      "word": "白敬亭六少主府今日终于开府迎客",
+      "onboard_time": 1668947188,
+      "rank": 20,
       "category": "影视"
     },
     {
@@ -15139,6 +15219,14 @@
       "category": "社会负面,教育"
     },
     {
+      "raw_hot": 353632,
+      "num": 313990,
+      "word": "刘德华演唱会",
+      "onboard_time": 1668947008,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 353616,
       "num": 326014,
       "word": "苏有朋为陈妍希整理裙摆",
@@ -15360,6 +15448,14 @@
       "word": "乘务员连夜翻遍垃圾袋找回小耳朵",
       "onboard_time": 1667800348,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 349236,
+      "num": 349236,
+      "word": "单亲妈妈带3娃千里投奔网恋对象",
+      "onboard_time": 1668945988,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -17555,6 +17651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 309774,
+      "num": 309774,
+      "word": "霍华德背靠背砍61分",
+      "onboard_time": 1668946829,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 309621,
       "num": 309621,
       "word": "杨颖喊白鹿应援口号",
@@ -18441,6 +18545,14 @@
       "onboard_time": 1668302971,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 290834,
+      "num": 193992,
+      "word": "世界杯赛程",
+      "onboard_time": 1668801132,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 290802,
@@ -19593,6 +19705,14 @@
       "onboard_time": 1667970987,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 272712,
+      "num": 272712,
+      "word": "忘掉很爱的人需要多久",
+      "onboard_time": 1668944189,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 272650,
@@ -21747,6 +21867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 236929,
+      "num": 191410,
+      "word": "陈飞宇张婧仪最新芭莎花絮",
+      "onboard_time": 1668944669,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 236635,
       "num": 236635,
       "word": "陈飞宇叠衣服",
@@ -22145,6 +22273,14 @@
       "onboard_time": 1667550330,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 232209,
+      "num": 197671,
+      "word": "李峋要开始复仇了",
+      "onboard_time": 1668942446,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 232068,
@@ -23081,14 +23217,6 @@
       "onboard_time": 1667872586,
       "rank": 32,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 221937,
-      "num": 197671,
-      "word": "李峋要开始复仇了",
-      "onboard_time": 1668942446,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 221800,
@@ -25099,6 +25227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 199474,
+      "num": 199474,
+      "word": "大鹅混进天鹅群蹭饭被一眼认出",
+      "onboard_time": 1668941908,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 199328,
       "num": 199328,
       "word": "北京11月8日新增32例本土确诊",
@@ -25387,6 +25523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 196214,
+      "num": 188678,
+      "word": "唐代簪花仕女走出了画卷",
+      "onboard_time": 1668944729,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 196197,
       "num": 196197,
       "word": "任嘉伦终于在嗨放派打上了乒乓球",
@@ -25577,6 +25721,14 @@
       "onboard_time": 1667548948,
       "rank": 16,
       "category": "教育"
+    },
+    {
+      "raw_hot": 194547,
+      "num": 194547,
+      "word": "超市店主悬赏千元寻找抢烟男子",
+      "onboard_time": 1668944367,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 194129,
@@ -26483,6 +26635,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 185119,
+      "num": 185119,
+      "word": "出现哪些症状提示心梗了",
+      "onboard_time": 1668943048,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 185043,
       "num": 185043,
       "word": "竟然被一只猫咪鄙视了",
@@ -26737,14 +26897,6 @@
       "onboard_time": 1667349025,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 182470,
-      "num": 182470,
-      "word": "出现哪些症状提示心梗了",
-      "onboard_time": 1668943048,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 182460,
@@ -27691,14 +27843,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 172859,
-      "num": 172859,
-      "word": "大鹅混进天鹅群蹭饭被一眼认出",
-      "onboard_time": 1668941908,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 172826,
       "num": 164831,
       "word": "杨幂律政风造型三宫格",
@@ -28617,6 +28761,14 @@
       "onboard_time": 1667630124,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 163993,
+      "num": 163993,
+      "word": "NEST决赛EDG对战FPX",
+      "onboard_time": 1668945925,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 163899,
@@ -30075,6 +30227,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 151298,
+      "num": 151298,
+      "word": "在重庆的一天有多令人羡慕",
+      "onboard_time": 1668947248,
+      "rank": 43,
+      "category": "美食"
+    },
+    {
       "raw_hot": 151290,
       "num": 151290,
       "word": "Meta裁员13%",
@@ -31129,6 +31289,14 @@
       "onboard_time": 1668834866,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 143265,
+      "num": 143265,
+      "word": "卿卿日常全员女团",
+      "onboard_time": 1668946288,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 143257,
@@ -32639,6 +32807,14 @@
       "num": 132412,
       "word": "花得最开心的一块钱",
       "onboard_time": 1668939506,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 132301,
+      "num": 132301,
+      "word": "纸盒对猫咪的诱惑有多大",
+      "onboard_time": 1668946470,
       "rank": 47,
       "category": "幽默"
     },
@@ -34425,6 +34601,14 @@
       "onboard_time": 1667733266,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 118686,
+      "num": 118686,
+      "word": "C罗球场训练大秀肌肉",
+      "onboard_time": 1668947727,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 118657,
@@ -42025,14 +42209,6 @@
       "onboard_time": 1668395608,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 13032,
-      "num": 13032,
-      "word": "世界杯赛程",
-      "onboard_time": 1668801132,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 12971,
