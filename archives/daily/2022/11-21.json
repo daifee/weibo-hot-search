@@ -1,6 +1,6 @@
 {
   "startTime": 1668961718135,
-  "endTime": 1668965748555,
+  "endTime": 1668968678354,
   "band_list": [
     {
       "raw_hot": 4068058,
@@ -75,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 622179,
+      "num": 622179,
+      "word": "不能在朋友圈分享的喜悦",
+      "onboard_time": 1668963025,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 580854,
       "num": 580854,
       "word": "开幕式日本球迷",
@@ -137,14 +145,6 @@
       "onboard_time": 1668962126,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 465798,
-      "num": 465798,
-      "word": "不能在朋友圈分享的喜悦",
-      "onboard_time": 1668963025,
-      "rank": 18,
-      "category": "幽默"
     },
     {
       "raw_hot": 413165,
@@ -243,8 +243,16 @@
       "category": "体育"
     },
     {
-      "raw_hot": 281280,
-      "num": 281280,
+      "raw_hot": 286440,
+      "num": 132220,
+      "word": "卡塔尔世界杯第一粒进球",
+      "onboard_time": 1668965297,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 282518,
+      "num": 282518,
       "word": "管泽元 世界杯",
       "onboard_time": 1668963145,
       "rank": 19,
@@ -339,6 +347,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 179461,
+      "num": 140366,
+      "word": "摩根弗里曼 手",
+      "onboard_time": 1668964461,
+      "rank": 32,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 175244,
       "num": 163732,
       "word": "朝阳一小区半地下室供暖水泄露致2死",
@@ -395,20 +411,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 147826,
-      "num": 140366,
-      "word": "摩根弗里曼 手",
-      "onboard_time": 1668964461,
-      "rank": 32,
-      "category": "体育,艺人"
-    },
-    {
       "raw_hot": 145523,
       "num": 145523,
       "word": "本泽马已离开卡塔尔",
       "onboard_time": 1668948627,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 144963,
+      "num": 131428,
+      "word": "25岁小伙辞去公职去看世界杯",
+      "onboard_time": 1668960630,
+      "rank": 15,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 124449,
@@ -451,6 +467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 114958,
+      "num": 114958,
+      "word": "杭州的外卖能有多精致",
+      "onboard_time": 1668965061,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 109921,
       "num": 109921,
       "word": "维特尔",
@@ -475,11 +499,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 103396,
-      "num": 103396,
-      "word": "卡塔尔世界杯第一粒进球",
-      "onboard_time": 1668965297,
-      "rank": 29,
+      "raw_hot": 102788,
+      "num": 77454,
+      "word": "世界杯东道主揭幕战92年首败",
+      "onboard_time": 1668968116,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -499,12 +523,44 @@
       "category": "体育"
     },
     {
+      "raw_hot": 92250,
+      "num": 92250,
+      "word": "卡塔尔0比2厄瓜多尔",
+      "onboard_time": 1668967818,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 83695,
+      "num": 75930,
+      "word": "卿卿日常思思有亿点钱",
+      "onboard_time": 1668966138,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 78300,
+      "num": 78300,
+      "word": "厄瓜多尔进球被吹",
+      "onboard_time": 1668965899,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 78155,
       "num": 78155,
       "word": "于和伟说世界杯开幕我又活了",
       "onboard_time": 1668964223,
       "rank": 42,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 69587,
+      "num": 69587,
+      "word": "厄瓜多尔门将长啥样",
+      "onboard_time": 1668968116,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 68356,
@@ -523,12 +579,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 58420,
-      "num": 58420,
-      "word": "杭州的外卖能有多精致",
-      "onboard_time": 1668965061,
-      "rank": 49,
-      "category": "美食"
+      "raw_hot": 58802,
+      "num": 58802,
+      "word": "世界杯 唱歌",
+      "onboard_time": 1668967937,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 49850,
+      "num": 49850,
+      "word": "世界杯开幕式上的特殊少年",
+      "onboard_time": 1668967097,
+      "rank": 43,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
