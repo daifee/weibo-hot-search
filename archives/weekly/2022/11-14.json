@@ -1,6 +1,6 @@
 {
   "startTime": 1668357004606,
-  "endTime": 1668926513635,
+  "endTime": 1668928720252,
   "band_list": [
     {
       "raw_hot": 4694011,
@@ -219,6 +219,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 2128843,
+      "num": 2128843,
+      "word": "男子出车祸600私了6天后大出血死亡",
+      "onboard_time": 1668923787,
+      "rank": 0,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 2084393,
       "num": 2084393,
       "word": "鸟鸟 文本",
@@ -273,14 +281,6 @@
       "onboard_time": 1668667887,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1896345,
-      "num": 1896345,
-      "word": "男子出车祸600私了6天后大出血死亡",
-      "onboard_time": 1668923787,
-      "rank": 0,
-      "category": "社会负面"
     },
     {
       "raw_hot": 1894312,
@@ -667,19 +667,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1457078,
+      "num": 1457078,
+      "word": "武汉疫情防控",
+      "onboard_time": 1668924326,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1453941,
       "num": 1315010,
       "word": "韩第一夫人怀抱患儿照片被指模仿赫本",
       "onboard_time": 1668430046,
       "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1442113,
-      "num": 1442113,
-      "word": "武汉疫情防控",
-      "onboard_time": 1668924326,
-      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -2107,6 +2107,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 711316,
+      "num": 711316,
+      "word": "在公厕被殴打女子回应",
+      "onboard_time": 1668925167,
+      "rank": 35,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 708470,
       "num": 708470,
       "word": "法证先锋5尺度有多大",
@@ -2323,6 +2331,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 658206,
+      "num": 379112,
+      "word": "95后四小花首轮推荐结果",
+      "onboard_time": 1668922527,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 657646,
       "num": 657646,
       "word": "北京新增48例社会面",
@@ -2353,6 +2369,14 @@
       "onboard_time": 1668611731,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 654200,
+      "num": 375406,
+      "word": "汪小菲深夜直播唱过火",
+      "onboard_time": 1668926487,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 654071,
@@ -2443,14 +2467,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 646146,
-      "num": 297301,
-      "word": "95后四小花首轮推荐结果",
-      "onboard_time": 1668922527,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 644165,
       "num": 260642,
       "word": "陈楚生王栎鑫陆虎张远唱思念是一种病",
@@ -2529,6 +2545,14 @@
       "onboard_time": 1668778828,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 621609,
+      "num": 621609,
+      "word": "2父亲因炫耀孩子大打出手",
+      "onboard_time": 1668924687,
+      "rank": 34,
+      "category": "社会负面"
     },
     {
       "raw_hot": 619620,
@@ -2825,6 +2849,14 @@
       "onboard_time": 1668576505,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 576406,
+      "num": 576406,
+      "word": "轻伤二级",
+      "onboard_time": 1668924445,
+      "rank": 9,
+      "category": "社会负面"
     },
     {
       "raw_hot": 574646,
@@ -4355,14 +4387,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 437296,
-      "num": 437296,
-      "word": "轻伤二级",
-      "onboard_time": 1668924445,
-      "rank": 9,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 437038,
       "num": 437038,
       "word": "退钱哥卡塔尔街头大秀球技",
@@ -4473,14 +4497,6 @@
       "onboard_time": 1668410848,
       "rank": 26,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 424214,
-      "num": 247655,
-      "word": "2父亲因炫耀孩子大打出手",
-      "onboard_time": 1668924687,
-      "rank": 34,
-      "category": "社会负面"
     },
     {
       "raw_hot": 424115,
@@ -5347,6 +5363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 367074,
+      "num": 367074,
+      "word": "全国医院排行榜",
+      "onboard_time": 1668926246,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 366631,
       "num": 366631,
       "word": "中美元首会晤结束",
@@ -5505,14 +5529,6 @@
       "onboard_time": 1668768868,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 359110,
-      "num": 245722,
-      "word": "在公厕被殴打女子回应",
-      "onboard_time": 1668925167,
-      "rank": 35,
-      "category": "社会负面"
     },
     {
       "raw_hot": 359101,
@@ -6841,14 +6857,6 @@
       "onboard_time": 1668914066,
       "rank": 22,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 289273,
-      "num": 86136,
-      "word": "汪小菲深夜直播唱过火",
-      "onboard_time": 1668926487,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 289070,
@@ -8537,6 +8545,14 @@
       "onboard_time": 1668396028,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 223706,
+      "num": 223706,
+      "word": "江西16岁失联男孩已找到",
+      "onboard_time": 1668928105,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 223456,
@@ -10387,6 +10403,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 173101,
+      "num": 173101,
+      "word": "景区猴子拿金箍棒装齐天大圣",
+      "onboard_time": 1668922527,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 172769,
       "num": 172769,
       "word": "中东地区迎来的首对大熊猫",
@@ -10609,14 +10633,6 @@
       "onboard_time": 1668419908,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 166677,
-      "num": 166677,
-      "word": "景区猴子拿金箍棒装齐天大圣",
-      "onboard_time": 1668922527,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 166600,
@@ -11891,6 +11907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 139907,
+      "num": 99889,
+      "word": "王源呼吁尊重每一位儿童",
+      "onboard_time": 1668928105,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 139761,
       "num": 133834,
       "word": "山峥海薇情侣装",
@@ -12041,6 +12065,14 @@
       "onboard_time": 1668586048,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 137731,
+      "num": 137731,
+      "word": "当emoji学会跳kpop",
+      "onboard_time": 1668927025,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 137477,
@@ -12963,12 +12995,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 117813,
-      "num": 117813,
-      "word": "全国医院排行榜",
-      "onboard_time": 1668926246,
-      "rank": 37,
-      "category": "社会新闻"
+      "raw_hot": 117494,
+      "num": 117494,
+      "word": "澳洲赛石宇奇男单夺冠",
+      "onboard_time": 1668925645,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 117489,
@@ -13995,14 +14027,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 90521,
-      "num": 90521,
-      "word": "澳洲赛石宇奇男单夺冠",
-      "onboard_time": 1668925645,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 90352,
       "num": 90352,
       "word": "勇士战胜尼克斯",
@@ -14203,6 +14227,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 79533,
+      "num": 79533,
+      "word": "男生宿舍内跪地遭多人殴打",
+      "onboard_time": 1668928585,
+      "rank": 48,
+      "category": "社会负面,教育"
+    },
+    {
       "raw_hot": 77715,
       "num": 77715,
       "word": "兰州一街道干部被曝酒后辱骂志愿者",
@@ -14273,6 +14305,14 @@
       "onboard_time": 1668615265,
       "rank": 46,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 72795,
+      "num": 72795,
+      "word": "卡塔尔熊猫饲养员在努力学四川话",
+      "onboard_time": 1668927505,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 72495,
@@ -14457,6 +14497,14 @@
       "onboard_time": 1668335731,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 52195,
+      "num": 869835,
+      "word": "绝美视角看神十四太空漫步",
+      "onboard_time": 1668927566,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 51147,

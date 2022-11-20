@@ -1,6 +1,6 @@
 {
   "startTime": 1668875307469,
-  "endTime": 1668926513635,
+  "endTime": 1668928720252,
   "band_list": [
     {
       "raw_hot": 3531288,
@@ -11,8 +11,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1896345,
-      "num": 1896345,
+      "raw_hot": 2128843,
+      "num": 2128843,
       "word": "男子出车祸600私了6天后大出血死亡",
       "onboard_time": 1668923787,
       "rank": 0,
@@ -51,8 +51,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 1442113,
-      "num": 1442113,
+      "raw_hot": 1457078,
+      "num": 1457078,
       "word": "武汉疫情防控",
       "onboard_time": 1668924326,
       "rank": 3,
@@ -171,6 +171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 711316,
+      "num": 711316,
+      "word": "在公厕被殴打女子回应",
+      "onboard_time": 1668925167,
+      "rank": 35,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 698359,
       "num": 599397,
       "word": "李峋出狱预告",
@@ -195,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 658206,
+      "num": 379112,
+      "word": "95后四小花首轮推荐结果",
+      "onboard_time": 1668922527,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 655965,
       "num": 655965,
       "word": "男子养儿10年发现非亲生起诉前妻",
@@ -203,11 +219,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 646146,
-      "num": 297301,
-      "word": "95后四小花首轮推荐结果",
-      "onboard_time": 1668922527,
-      "rank": 47,
+      "raw_hot": 654200,
+      "num": 375406,
+      "word": "汪小菲深夜直播唱过火",
+      "onboard_time": 1668926487,
+      "rank": 48,
       "category": "艺人"
     },
     {
@@ -217,6 +233,14 @@
       "onboard_time": 1668906928,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 621609,
+      "num": 621609,
+      "word": "2父亲因炫耀孩子大打出手",
+      "onboard_time": 1668924687,
+      "rank": 34,
+      "category": "社会负面"
     },
     {
       "raw_hot": 595399,
@@ -241,6 +265,14 @@
       "onboard_time": 1668870513,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 576406,
+      "num": 576406,
+      "word": "轻伤二级",
+      "onboard_time": 1668924445,
+      "rank": 9,
+      "category": "社会负面"
     },
     {
       "raw_hot": 565099,
@@ -339,28 +371,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 437296,
-      "num": 437296,
-      "word": "轻伤二级",
-      "onboard_time": 1668924445,
-      "rank": 9,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 432077,
       "num": 432077,
       "word": "天黑黑",
       "onboard_time": 1668902664,
       "rank": 9,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 424214,
-      "num": 247655,
-      "word": "2父亲因炫耀孩子大打出手",
-      "onboard_time": 1668924687,
-      "rank": 34,
-      "category": "社会负面"
     },
     {
       "raw_hot": 417247,
@@ -427,6 +443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 367074,
+      "num": 367074,
+      "word": "全国医院排行榜",
+      "onboard_time": 1668926246,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 363119,
       "num": 164510,
       "word": "周杰伦哥友会",
@@ -441,14 +465,6 @@
       "onboard_time": 1668870813,
       "rank": 23,
       "category": "其它"
-    },
-    {
-      "raw_hot": 359110,
-      "num": 245722,
-      "word": "在公厕被殴打女子回应",
-      "onboard_time": 1668925167,
-      "rank": 35,
-      "category": "社会负面"
     },
     {
       "raw_hot": 354035,
@@ -611,14 +627,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 289273,
-      "num": 86136,
-      "word": "汪小菲深夜直播唱过火",
-      "onboard_time": 1668926487,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 285844,
       "num": 285844,
       "word": "成都马拉松",
@@ -721,6 +729,14 @@
       "onboard_time": 1668874887,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 223706,
+      "num": 223706,
+      "word": "江西16岁失联男孩已找到",
+      "onboard_time": 1668928105,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 222404,
@@ -891,6 +907,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 173101,
+      "num": 173101,
+      "word": "景区猴子拿金箍棒装齐天大圣",
+      "onboard_time": 1668922527,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 170941,
       "num": 93807,
       "word": "祝绪丹晒与迪丽热巴奇怪可爱视频",
@@ -904,14 +928,6 @@
       "word": "国台办称对团团病逝感到痛心和惋惜",
       "onboard_time": 1668869430,
       "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 166677,
-      "num": 166677,
-      "word": "景区猴子拿金箍棒装齐天大圣",
-      "onboard_time": 1668922527,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -1035,6 +1051,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 139907,
+      "num": 99889,
+      "word": "王源呼吁尊重每一位儿童",
+      "onboard_time": 1668928105,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 137731,
+      "num": 137731,
+      "word": "当emoji学会跳kpop",
+      "onboard_time": 1668927025,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 136184,
       "num": 136184,
       "word": "11月19日新增本土确诊2204例",
@@ -1083,12 +1115,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 117813,
-      "num": 117813,
-      "word": "全国医院排行榜",
-      "onboard_time": 1668926246,
-      "rank": 37,
-      "category": "社会新闻"
+      "raw_hot": 117494,
+      "num": 117494,
+      "word": "澳洲赛石宇奇男单夺冠",
+      "onboard_time": 1668925645,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 114293,
@@ -1227,14 +1259,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 90521,
-      "num": 90521,
-      "word": "澳洲赛石宇奇男单夺冠",
-      "onboard_time": 1668925645,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 85480,
       "num": 85480,
       "word": "一起看2022世界杯",
@@ -1275,6 +1299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 79533,
+      "num": 79533,
+      "word": "男生宿舍内跪地遭多人殴打",
+      "onboard_time": 1668928585,
+      "rank": 48,
+      "category": "社会负面,教育"
+    },
+    {
       "raw_hot": 77849,
       "num": 91746,
       "word": "龙傲天ber丝地瓜",
@@ -1299,12 +1331,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 72795,
+      "num": 72795,
+      "word": "卡塔尔熊猫饲养员在努力学四川话",
+      "onboard_time": 1668927505,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 61863,
       "num": 61863,
       "word": "阳华早就认定秦施了",
       "onboard_time": 1668900559,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 52195,
+      "num": 869835,
+      "word": "绝美视角看神十四太空漫步",
+      "onboard_time": 1668927566,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 49665,
