@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/21 00:28:38 ~ 2022/11/21 03:33:47
+本榜单时间：2022/11/21 00:28:38 ~ 2022/11/21 04:21:20
 </p>
 </blockquote>
 <p>
@@ -441,6 +441,12 @@ FIFA世界杯（热度：125052）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%9D%AF%E5%8E%86%E5%8F%B2%E4%B8%8A%E4%B8%9C%E9%81%93%E4%B8%BB%E9%A6%96%E6%88%98%E4%BB%8E%E6%9C%AA%E8%BE%93%E7%90%83%23" target="weibo">
+世界杯历史上东道主首战从未输球（热度：72749）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%93%A6%E4%BC%A6%E8%A5%BF%E4%BA%9A%E6%A2%85%E5%BC%80%E4%BA%8C%E5%BA%A6%23" target="weibo">
 瓦伦西亚梅开二度（热度：68356）
 </a>
@@ -459,8 +465,8 @@ FIFA世界杯（热度：125052）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%9D%AF%E5%8E%86%E5%8F%B2%E4%B8%8A%E4%B8%9C%E9%81%93%E4%B8%BB%E9%A6%96%E6%88%98%E4%BB%8E%E6%9C%AA%E8%BE%93%E7%90%83%23" target="weibo">
-世界杯历史上东道主首战从未输球（热度：51689）
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%86%B0%E5%86%B0%E7%AC%91%E5%BE%97%E5%A5%BD%E7%94%9C%23" target="weibo">
+王冰冰笑得好甜（热度：54169）
 </a>
 </li>
 
