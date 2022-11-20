@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1668957635404,
+  "endTime": 1668958638746,
   "band_list": [
     {
       "raw_hot": 10543272,
@@ -89,6 +89,14 @@
       "onboard_time": 1668865109,
       "rank": 1,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 4027864,
+      "num": 4027864,
+      "word": "田柾国",
+      "onboard_time": 1668957578,
+      "rank": 47,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 4027161,
@@ -873,14 +881,6 @@
       "onboard_time": 1667735010,
       "rank": 10,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1966511,
-      "num": 136813,
-      "word": "田柾国",
-      "onboard_time": 1668957578,
-      "rank": 47,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 1965522,
@@ -3940,7 +3940,7 @@
     },
     {
       "raw_hot": 950996,
-      "num": 2564295,
+      "num": 2857030,
       "word": "卡塔尔世界杯有哪些中国元素",
       "onboard_time": 1668952761,
       "rank": 2,
@@ -4025,6 +4025,14 @@
       "onboard_time": 1667920289,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 936640,
+      "num": 741863,
+      "word": "女子备孕13年生龙凤胎取名天佑佑心",
+      "onboard_time": 1668955296,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 935001,
@@ -4707,14 +4715,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 850743,
-      "num": 741863,
-      "word": "女子备孕13年生龙凤胎取名天佑佑心",
-      "onboard_time": 1668955296,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 849606,
       "num": 784388,
       "word": "父母让25岁女儿第4次当姐姐",
@@ -4872,6 +4872,14 @@
       "word": "丁俊晖",
       "onboard_time": 1668783628,
       "rank": 4,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 834292,
+      "num": 834292,
+      "word": "C罗",
+      "onboard_time": 1667779227,
+      "rank": 29,
       "category": "体育"
     },
     {
@@ -5513,14 +5521,6 @@
       "onboard_time": 1667305407,
       "rank": 7,
       "category": "影视"
-    },
-    {
-      "raw_hot": 760652,
-      "num": 760652,
-      "word": "C罗",
-      "onboard_time": 1667779227,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 760247,
@@ -11283,6 +11283,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 464090,
+      "num": 440488,
+      "word": "开幕式 中东文化",
+      "onboard_time": 1668956920,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 463871,
       "num": 463871,
       "word": "没事不要随随便便去拆结婚照",
@@ -12105,6 +12113,14 @@
       "onboard_time": 1668387450,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 437878,
+      "num": 437878,
+      "word": "卡塔尔vs厄瓜多尔",
+      "onboard_time": 1668949769,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 437658,
@@ -14427,6 +14443,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 378412,
+      "num": 313548,
+      "word": "演员薛中锐去世",
+      "onboard_time": 1668956497,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 378365,
       "num": 378365,
       "word": "福原爱方否认介入他人婚姻",
@@ -14793,6 +14817,14 @@
       "onboard_time": 1667663546,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 366887,
+      "num": 204637,
+      "word": "马凡舒好美",
+      "onboard_time": 1668957940,
+      "rank": 31,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 366722,
@@ -15249,14 +15281,6 @@
       "onboard_time": 1667492364,
       "rank": 35,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 357914,
-      "num": 313548,
-      "word": "演员薛中锐去世",
-      "onboard_time": 1668956497,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 357725,
@@ -17899,6 +17923,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 308787,
+      "num": 204748,
+      "word": "世界杯唱歌",
+      "onboard_time": 1668957640,
+      "rank": 30,
+      "category": "体育,音乐"
+    },
+    {
       "raw_hot": 308289,
       "num": 308289,
       "word": "1型糖尿病一般青少年期发病",
@@ -18225,6 +18257,14 @@
       "onboard_time": 1668597989,
       "rank": 24,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 301369,
+      "num": 204281,
+      "word": "麻辣鸡",
+      "onboard_time": 1668958416,
+      "rank": 33,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 301265,
@@ -21385,6 +21425,14 @@
       "onboard_time": 1668610412,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 249135,
+      "num": 249135,
+      "word": "两个人为什么会慢慢走散",
+      "onboard_time": 1668957102,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 248942,
@@ -24699,14 +24747,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 207216,
-      "num": 207216,
-      "word": "卡塔尔vs厄瓜多尔",
-      "onboard_time": 1668949769,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 207203,
       "num": 191360,
       "word": "张伟丽出场BGM沧海一声笑",
@@ -25905,6 +25945,14 @@
       "onboard_time": 1667892326,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 194939,
+      "num": 138745,
+      "word": "朴振英ANTIFRAGILE舞蹈挑战",
+      "onboard_time": 1668958594,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 194854,
@@ -27577,14 +27625,6 @@
       "onboard_time": 1668130048,
       "rank": 34,
       "category": "财经"
-    },
-    {
-      "raw_hot": 178307,
-      "num": 178307,
-      "word": "开幕式 中东文化",
-      "onboard_time": 1668956920,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 178304,
@@ -29363,14 +29403,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 161158,
-      "num": 161158,
-      "word": "两个人为什么会慢慢走散",
-      "onboard_time": 1668957102,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
       "raw_hot": 161139,
       "num": 114870,
       "word": "阳华给秦施拉拉链",
@@ -29603,6 +29635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 160035,
+      "num": 160035,
+      "word": "卡塔尔世界杯开幕式现场有多燃",
+      "onboard_time": 1668958058,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 159998,
       "num": 159998,
       "word": "张超回应激情执教风格",
@@ -29689,6 +29729,14 @@
       "onboard_time": 1667827767,
       "rank": 35,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 159352,
+      "num": 159352,
+      "word": "世界杯 热闹",
+      "onboard_time": 1668958299,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 159314,
@@ -32139,6 +32187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 139418,
+      "num": 139418,
+      "word": "开幕式好短",
+      "onboard_time": 1668958416,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 139387,
       "num": 134903,
       "word": "宋亚轩新歌百忧戒花絮照",
@@ -32720,6 +32776,14 @@
       "word": "活塞vs湖人",
       "onboard_time": 1668833367,
       "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 135523,
+      "num": 135523,
+      "word": "历届世界杯歌曲再唱响",
+      "onboard_time": 1668958239,
+      "rank": 49,
       "category": "体育"
     },
     {
