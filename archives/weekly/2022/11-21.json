@@ -1,6 +1,6 @@
 {
   "startTime": 1668961718135,
-  "endTime": 1668964684818,
+  "endTime": 1668965748555,
   "band_list": [
     {
       "raw_hot": 4068058,
@@ -99,20 +99,20 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 555674,
+      "num": 555674,
+      "word": "刘畊宏说C罗体脂率跟我差不多",
+      "onboard_time": 1668962665,
+      "rank": 22,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 549776,
       "num": 549776,
       "word": "LWX",
       "onboard_time": 1668953791,
       "rank": 7,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 548672,
-      "num": 455415,
-      "word": "刘畊宏说C罗体脂率跟我差不多",
-      "onboard_time": 1668962665,
-      "rank": 22,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 496860,
@@ -136,6 +136,22 @@
       "word": "世界杯首球",
       "onboard_time": 1668962126,
       "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 465798,
+      "num": 465798,
+      "word": "不能在朋友圈分享的喜悦",
+      "onboard_time": 1668963025,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 413165,
+      "num": 372949,
+      "word": "C罗梅西合影是PS的",
+      "onboard_time": 1668963145,
+      "rank": 14,
       "category": "体育"
     },
     {
@@ -168,14 +184,6 @@
       "word": "C罗",
       "onboard_time": 1668954934,
       "rank": 9,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 372949,
-      "num": 372949,
-      "word": "C罗梅西合影是PS的",
-      "onboard_time": 1668963145,
-      "rank": 14,
       "category": "体育"
     },
     {
@@ -217,14 +225,6 @@
       "onboard_time": 1668957102,
       "rank": 17,
       "category": "情感"
-    },
-    {
-      "raw_hot": 294042,
-      "num": 294042,
-      "word": "不能在朋友圈分享的喜悦",
-      "onboard_time": 1668963025,
-      "rank": 18,
-      "category": "幽默"
     },
     {
       "raw_hot": 290847,
@@ -395,20 +395,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 147826,
+      "num": 140366,
+      "word": "摩根弗里曼 手",
+      "onboard_time": 1668964461,
+      "rank": 32,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 145523,
       "num": 145523,
       "word": "本泽马已离开卡塔尔",
       "onboard_time": 1668948627,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 140366,
-      "num": 140366,
-      "word": "摩根弗里曼 手",
-      "onboard_time": 1668964461,
-      "rank": 32,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 124449,
@@ -475,6 +475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 103396,
+      "num": 103396,
+      "word": "卡塔尔世界杯第一粒进球",
+      "onboard_time": 1668965297,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 101810,
       "num": 72770,
       "word": "王后伞下",
@@ -491,7 +499,15 @@
       "category": "体育"
     },
     {
-      "raw_hot": 63727,
+      "raw_hot": 78155,
+      "num": 78155,
+      "word": "于和伟说世界杯开幕我又活了",
+      "onboard_time": 1668964223,
+      "rank": 42,
+      "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 68356,
       "num": 72704,
       "word": "瓦伦西亚梅开二度",
       "onboard_time": 1668963623,
@@ -505,6 +521,14 @@
       "onboard_time": 1668964344,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 58420,
+      "num": 58420,
+      "word": "杭州的外卖能有多精致",
+      "onboard_time": 1668965061,
+      "rank": 49,
+      "category": "美食"
     }
   ],
   "hotgov_list": [
