@@ -1,7 +1,15 @@
 {
   "startTime": 1668875307469,
-  "endTime": 1668900979363,
+  "endTime": 1668909578543,
   "band_list": [
+    {
+      "raw_hot": 3266458,
+      "num": 3266458,
+      "word": "北京新增一例死亡病例",
+      "onboard_time": 1668905066,
+      "rank": 0,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1814816,
       "num": 1814816,
@@ -9,6 +17,22 @@
       "onboard_time": 1668867276,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1806702,
+      "num": 1806702,
+      "word": "西安核酸系统",
+      "onboard_time": 1668906374,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1654421,
+      "num": 1222689,
+      "word": "罗晋删除天下长河相关微博",
+      "onboard_time": 1668899537,
+      "rank": 0,
+      "category": "影视"
     },
     {
       "raw_hot": 1634474,
@@ -35,20 +59,20 @@
       "category": "网红,艺人"
     },
     {
-      "raw_hot": 1222689,
-      "num": 1222689,
-      "word": "罗晋删除天下长河相关微博",
-      "onboard_time": 1668899537,
-      "rank": 0,
-      "category": "影视"
-    },
-    {
       "raw_hot": 926164,
-      "num": 167775,
+      "num": 200211,
       "word": "华晨宇 假发",
       "onboard_time": 1668863490,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 891172,
+      "num": 891172,
+      "word": "邓超让鹿晗给他一个解释",
+      "onboard_time": 1668908610,
+      "rank": 3,
+      "category": "音乐"
     },
     {
       "raw_hot": 865232,
@@ -67,12 +91,44 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 682077,
+      "num": 682077,
+      "word": "奶奶将1.5米粉红豹改成40厘米",
+      "onboard_time": 1668902484,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 592425,
+      "num": 592425,
+      "word": "央视曝光抱团养老陷阱",
+      "onboard_time": 1668905006,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 581310,
       "num": 581310,
       "word": "郑州市中原区疫情防控",
       "onboard_time": 1668870513,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 551674,
+      "num": 551674,
+      "word": "交警回应大白送核酸样本时被撞",
+      "onboard_time": 1668901461,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 497388,
+      "num": 423333,
+      "word": "孟美岐翻跳nxde",
+      "onboard_time": 1668906928,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 486679,
@@ -91,6 +147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 455714,
+      "num": 455714,
+      "word": "成都疫情防控",
+      "onboard_time": 1668900905,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 438201,
       "num": 370153,
       "word": "男子当街暴打边牧还跳起双脚踩头",
@@ -99,12 +163,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 432077,
+      "num": 432077,
+      "word": "天黑黑",
+      "onboard_time": 1668902664,
+      "rank": 9,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 401359,
       "num": 166458,
       "word": "王一栩评论TF家族三代版诀爱",
       "onboard_time": 1668873090,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 385430,
+      "num": 385430,
+      "word": "广东新增本土无症状8381例",
+      "onboard_time": 1668907410,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 380656,
+      "num": 380656,
+      "word": "女子6200元变卖闺蜜手机报警称被抢",
+      "onboard_time": 1668882316,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 363119,
@@ -131,6 +219,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 339671,
+      "num": 339671,
+      "word": "女子认为被全家嫌弃带儿子跳河",
+      "onboard_time": 1668870453,
+      "rank": 37,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 326631,
+      "num": 326631,
+      "word": "世界杯离美军基地只有20多公里",
+      "onboard_time": 1668891432,
+      "rank": 31,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 325906,
       "num": 325906,
       "word": "大学生已经开始过年了",
@@ -147,6 +251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 313579,
+      "num": 313579,
+      "word": "男生穿渔网袜上场拔河",
+      "onboard_time": 1668907946,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 303910,
       "num": 191975,
       "word": "王鹤棣被何炅占便宜了",
@@ -155,12 +267,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 289314,
-      "num": 289314,
-      "word": "女子6200元变卖闺蜜手机报警称被抢",
-      "onboard_time": 1668882316,
-      "rank": 25,
-      "category": "社会新闻"
+      "raw_hot": 290808,
+      "num": 290808,
+      "word": "世界杯",
+      "onboard_time": 1668907471,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 285844,
@@ -179,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 285288,
+      "num": 285288,
+      "word": "羡慕祝绪丹",
+      "onboard_time": 1668901700,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 282236,
       "num": 282236,
       "word": "女生卖热奶宝7元1个15元俩",
@@ -187,12 +307,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 258817,
-      "num": 258817,
-      "word": "女子认为被全家嫌弃带儿子跳河",
-      "onboard_time": 1668870453,
-      "rank": 37,
-      "category": "社会负面"
+      "raw_hot": 281421,
+      "num": 281421,
+      "word": "九城不排除重新接盘暴雪魔兽世界",
+      "onboard_time": 1668905727,
+      "rank": 21,
+      "category": "游戏,财经"
     },
     {
       "raw_hot": 254619,
@@ -203,8 +323,24 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 252167,
+      "num": 252167,
+      "word": "男子养儿10年发现非亲生起诉前妻",
+      "onboard_time": 1668908487,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 241725,
+      "num": 241725,
+      "word": "剧组拍摄后未清干净人造雪惹怒商户",
+      "onboard_time": 1668891012,
+      "rank": 24,
+      "category": "社会新闻,影视"
+    },
+    {
       "raw_hot": 237588,
-      "num": 143523,
+      "num": 209789,
       "word": "西安一医院ICU门口设陪护睡眠仓",
       "onboard_time": 1668892152,
       "rank": 45,
@@ -217,6 +353,22 @@
       "onboard_time": 1668863190,
       "rank": 9,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 232583,
+      "num": 232583,
+      "word": "唐诗逸海岸边跳舞好美",
+      "onboard_time": 1668906749,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 231651,
+      "num": 207985,
+      "word": "命韵峋环的甜场面",
+      "onboard_time": 1668906266,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 227408,
@@ -235,12 +387,44 @@
       "category": "美食"
     },
     {
+      "raw_hot": 211860,
+      "num": 211860,
+      "word": "7旬母亲整理衣物给独女交代后事",
+      "onboard_time": 1668903384,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 201912,
+      "num": 201912,
+      "word": "詹雯婷巡演",
+      "onboard_time": 1668904528,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 198757,
       "num": 198757,
       "word": "护士成功从冒烟微波炉掏出红薯炸弹",
       "onboard_time": 1668867817,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 196377,
+      "num": 196377,
+      "word": "你有坚持了十年的事情吗",
+      "onboard_time": 1668881176,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 194444,
+      "num": 194444,
+      "word": "原来狗狗也会期待放学",
+      "onboard_time": 1668908249,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 194096,
@@ -299,12 +483,12 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 157814,
-      "num": 142602,
-      "word": "世界杯离美军基地只有20多公里",
-      "onboard_time": 1668891432,
-      "rank": 31,
-      "category": "体育,社会新闻"
+      "raw_hot": 158081,
+      "num": 158081,
+      "word": "女子攒20年硬币欲买房",
+      "onboard_time": 1668877040,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 154450,
@@ -315,14 +499,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 153622,
-      "num": 139831,
-      "word": "剧组拍摄后未清干净人造雪惹怒商户",
-      "onboard_time": 1668891012,
-      "rank": 24,
-      "category": "社会新闻,影视"
-    },
-    {
       "raw_hot": 151572,
       "num": 151572,
       "word": "猫猫教的入教仪式",
@@ -331,12 +507,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 149934,
-      "num": 149934,
-      "word": "女子攒20年硬币欲买房",
-      "onboard_time": 1668877040,
-      "rank": 35,
-      "category": "社会新闻"
+      "raw_hot": 148710,
+      "num": 145113,
+      "word": "女明星待播古偶剧造型大赏",
+      "onboard_time": 1668902062,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 146778,
+      "num": 146778,
+      "word": "大学标语把物理给我讲明白了",
+      "onboard_time": 1668907471,
+      "rank": 39,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 145822,
@@ -355,12 +539,44 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 139942,
+      "num": 139942,
+      "word": "2022杭州马拉松开跑",
+      "onboard_time": 1668909090,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 130705,
+      "num": 130705,
+      "word": "Kpop视角看世界杯",
+      "onboard_time": 1668900199,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130521,
       "num": 55322,
       "word": "你好星期六",
       "onboard_time": 1668878242,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 130034,
+      "num": 130034,
+      "word": "瘸腿流浪汉钱被拿一跃而起放狠话",
+      "onboard_time": 1668909149,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 126182,
+      "num": 126182,
+      "word": "北方女子南方点外卖遇巴掌大炒饭",
+      "onboard_time": 1668909330,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 125681,
@@ -371,12 +587,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 117130,
+      "num": 117130,
+      "word": "卡塔尔世界杯创下多个第一次",
+      "onboard_time": 1668908910,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 110601,
       "num": 110601,
       "word": "2022斯诺克英锦赛",
       "onboard_time": 1668874767,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 110592,
+      "num": 110592,
+      "word": "没见过这么懂事的南瓜",
+      "onboard_time": 1668909330,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 110534,
+      "num": 110534,
+      "word": "音乐会返场小朋友大喊想听孤勇者",
+      "onboard_time": 1668906687,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 110151,
@@ -403,28 +643,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 102071,
-      "num": 98589,
-      "word": "你有坚持了十年的事情吗",
-      "onboard_time": 1668881176,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 100231,
       "num": 100231,
       "word": "成绩进步班主任请全班62人吃鸡腿",
       "onboard_time": 1668866914,
       "rank": 38,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 98528,
-      "num": 98528,
-      "word": "成都疫情防控",
-      "onboard_time": 1668900905,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 98491,
@@ -515,14 +739,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 54769,
-      "num": 54769,
-      "word": "Kpop视角看世界杯",
-      "onboard_time": 1668900199,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 49665,
       "num": 91581,
       "word": "北京堂食",
@@ -555,7 +771,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 32047,
+      "raw_hot": 33766,
       "num": 1347526,
       "word": "高清回顾神十四第3次出舱任务",
       "onboard_time": 1668863912,
@@ -582,6 +798,9 @@
   "hotgov_list": [
     {
       "word": "#中国方案续写亚太奇迹#"
+    },
+    {
+      "word": "#既提出中国主张又拿出中国行动#"
     }
   ]
 }

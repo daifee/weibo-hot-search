@@ -1,0 +1,410 @@
+{
+  "runTime": 1668909578543,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3266458,
+        "num": 3266458,
+        "word": "北京新增一例死亡病例",
+        "onboard_time": 1668905066,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1806702,
+        "num": 1806702,
+        "word": "西安核酸系统",
+        "onboard_time": 1668906374,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33766,
+        "num": 1037757,
+        "word": "高清回顾神十四第3次出舱任务",
+        "onboard_time": 1668863912,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 891172,
+        "num": 891172,
+        "word": "邓超让鹿晗给他一个解释",
+        "onboard_time": 1668908610,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 682077,
+        "num": 682077,
+        "word": "奶奶将1.5米粉红豹改成40厘米",
+        "onboard_time": 1668902484,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 643334,
+        "num": 643334,
+        "word": "王冰冰更博了",
+        "onboard_time": 1668867276,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 592425,
+        "num": 592425,
+        "word": "央视曝光抱团养老陷阱",
+        "onboard_time": 1668905006,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 551674,
+        "num": 551674,
+        "word": "交警回应大白送核酸样本时被撞",
+        "onboard_time": 1668901461,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 455714,
+        "num": 455714,
+        "word": "成都疫情防控",
+        "onboard_time": 1668900905,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 432077,
+        "num": 432077,
+        "word": "天黑黑",
+        "onboard_time": 1668902664,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 497388,
+        "num": 423333,
+        "word": "孟美岐翻跳nxde",
+        "onboard_time": 1668906928,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 385430,
+        "num": 385430,
+        "word": "广东新增本土无症状8381例",
+        "onboard_time": 1668907410,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 380656,
+        "num": 380656,
+        "word": "女子6200元变卖闺蜜手机报警称被抢",
+        "onboard_time": 1668882316,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347657,
+        "num": 347657,
+        "word": "本泽马因伤退出世界杯",
+        "onboard_time": 1668899477,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 339671,
+        "num": 339671,
+        "word": "女子认为被全家嫌弃带儿子跳河",
+        "onboard_time": 1668870453,
+        "rank": 14,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 326631,
+        "num": 326631,
+        "word": "世界杯离美军基地只有20多公里",
+        "onboard_time": 1668891432,
+        "rank": 15,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 1654421,
+        "num": 325700,
+        "word": "罗晋删除天下长河相关微博",
+        "onboard_time": 1668899537,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 320284,
+        "num": 320284,
+        "word": "重庆市民可免费观看世界杯",
+        "onboard_time": 1668873090,
+        "rank": 17,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 313579,
+        "num": 313579,
+        "word": "男生穿渔网袜上场拔河",
+        "onboard_time": 1668907946,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290808,
+        "num": 290808,
+        "word": "世界杯",
+        "onboard_time": 1668907471,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 285288,
+        "num": 285288,
+        "word": "羡慕祝绪丹",
+        "onboard_time": 1668901700,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 281421,
+        "num": 281421,
+        "word": "九城不排除重新接盘暴雪魔兽世界",
+        "onboard_time": 1668905727,
+        "rank": 21,
+        "category": "游戏,财经"
+      },
+      {
+        "raw_hot": 266216,
+        "num": 266216,
+        "word": "晴天yyds",
+        "onboard_time": 1668870993,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 262590,
+        "num": 262590,
+        "word": "大学生已经开始过年了",
+        "onboard_time": 1668864929,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 252167,
+        "num": 252167,
+        "word": "男子养儿10年发现非亲生起诉前妻",
+        "onboard_time": 1668908487,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241725,
+        "num": 241725,
+        "word": "剧组拍摄后未清干净人造雪惹怒商户",
+        "onboard_time": 1668891012,
+        "rank": 25,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 232583,
+        "num": 232583,
+        "word": "唐诗逸海岸边跳舞好美",
+        "onboard_time": 1668906749,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229398,
+        "num": 229398,
+        "word": "男子当街暴打边牧还跳起双脚踩头",
+        "onboard_time": 1668878958,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211860,
+        "num": 211860,
+        "word": "7旬母亲整理衣物给独女交代后事",
+        "onboard_time": 1668903384,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209789,
+        "num": 209789,
+        "word": "西安一医院ICU门口设陪护睡眠仓",
+        "onboard_time": 1668892152,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231651,
+        "num": 207985,
+        "word": "命韵峋环的甜场面",
+        "onboard_time": 1668906266,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 201912,
+        "num": 201912,
+        "word": "詹雯婷巡演",
+        "onboard_time": 1668904528,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 200211,
+        "num": 200211,
+        "word": "华晨宇 假发",
+        "onboard_time": 1668863490,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 196377,
+        "num": 196377,
+        "word": "你有坚持了十年的事情吗",
+        "onboard_time": 1668881176,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194444,
+        "num": 194444,
+        "word": "原来狗狗也会期待放学",
+        "onboard_time": 1668908249,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 193826,
+        "num": 193826,
+        "word": "成都马拉松",
+        "onboard_time": 1668872612,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158982,
+        "num": 158982,
+        "word": "13岁女孩每天1杯奶茶患糖尿病",
+        "onboard_time": 1668860429,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158081,
+        "num": 158081,
+        "word": "女子攒20年硬币欲买房",
+        "onboard_time": 1668877040,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152292,
+        "num": 152292,
+        "word": "无尽夏",
+        "onboard_time": 1668870813,
+        "rank": 38,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 146778,
+        "num": 146778,
+        "word": "大学标语把物理给我讲明白了",
+        "onboard_time": 1668907471,
+        "rank": 39,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 163607,
+        "num": 146566,
+        "word": "赵丽颖黄磊为张艺兴打call",
+        "onboard_time": 1668869672,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148710,
+        "num": 145113,
+        "word": "女明星待播古偶剧造型大赏",
+        "onboard_time": 1668902062,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 139942,
+        "num": 139942,
+        "word": "2022杭州马拉松开跑",
+        "onboard_time": 1668909090,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130705,
+        "num": 130705,
+        "word": "Kpop视角看世界杯",
+        "onboard_time": 1668900199,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130034,
+        "num": 130034,
+        "word": "瘸腿流浪汉钱被拿一跃而起放狠话",
+        "onboard_time": 1668909149,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126182,
+        "num": 126182,
+        "word": "北方女子南方点外卖遇巴掌大炒饭",
+        "onboard_time": 1668909330,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117130,
+        "num": 117130,
+        "word": "卡塔尔世界杯创下多个第一次",
+        "onboard_time": 1668908910,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113910,
+        "num": 113910,
+        "word": "护士成功从冒烟微波炉掏出红薯炸弹",
+        "onboard_time": 1668867817,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110592,
+        "num": 110592,
+        "word": "没见过这么懂事的南瓜",
+        "onboard_time": 1668909330,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 110534,
+        "num": 110534,
+        "word": "音乐会返场小朋友大喊想听孤勇者",
+        "onboard_time": 1668906687,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#既提出中国主张又拿出中国行动#"
+    }
+  }
+}
