@@ -1,6 +1,6 @@
 {
   "startTime": 1668875307469,
-  "endTime": 1668940708372,
+  "endTime": 1668943005969,
   "band_list": [
     {
       "raw_hot": 3531288,
@@ -59,6 +59,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1603100,
+      "num": 1603100,
+      "word": "郑州通报4个月大女婴夭折",
+      "onboard_time": 1668938367,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1457078,
       "num": 1457078,
       "word": "武汉疫情防控",
@@ -115,12 +123,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1076314,
-      "num": 1076314,
-      "word": "郑州通报4个月大女婴夭折",
-      "onboard_time": 1668938367,
-      "rank": 10,
-      "category": "社会新闻"
+      "raw_hot": 964016,
+      "num": 964016,
+      "word": "世界杯开幕式提前一小时",
+      "onboard_time": 1668937588,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 926164,
@@ -161,14 +169,6 @@
       "onboard_time": 1668871290,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 840498,
-      "num": 840498,
-      "word": "世界杯开幕式提前一小时",
-      "onboard_time": 1668937588,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 802416,
@@ -219,6 +219,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 735630,
+      "num": 735630,
+      "word": "李峋向朱韵求婚",
+      "onboard_time": 1668938848,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 732677,
       "num": 732677,
       "word": "陈飞宇片场勾张婧仪下巴",
@@ -267,6 +275,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 684368,
+      "num": 684368,
+      "word": "31省平均工资发布",
+      "onboard_time": 1668937467,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 682077,
       "num": 682077,
       "word": "奶奶将1.5米粉红豹改成40厘米",
@@ -283,12 +299,12 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 660357,
-      "num": 660357,
-      "word": "李峋向朱韵求婚",
-      "onboard_time": 1668938848,
-      "rank": 19,
-      "category": "影视"
+      "raw_hot": 674284,
+      "num": 674284,
+      "word": "李晨吴尊孙怡做菜是懂配合的",
+      "onboard_time": 1668940227,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 658206,
@@ -379,14 +395,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 547279,
-      "num": 547279,
-      "word": "李晨吴尊孙怡做菜是懂配合的",
-      "onboard_time": 1668940227,
-      "rank": 9,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 524200,
       "num": 524200,
       "word": "北京疫情发布会",
@@ -425,6 +433,14 @@
       "onboard_time": 1668869493,
       "rank": 11,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 485356,
+      "num": 485356,
+      "word": "北京朝阳倡议周一继续减少流动",
+      "onboard_time": 1668938546,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 484965,
@@ -475,12 +491,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 457850,
-      "num": 457850,
-      "word": "31省平均工资发布",
-      "onboard_time": 1668937467,
-      "rank": 15,
-      "category": "社会新闻"
+      "raw_hot": 462920,
+      "num": 462920,
+      "word": "RNG",
+      "onboard_time": 1668940707,
+      "rank": 11,
+      "category": "游戏"
     },
     {
       "raw_hot": 455765,
@@ -513,6 +529,14 @@
       "onboard_time": 1668926246,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 438375,
+      "num": 438375,
+      "word": "芒果好像在做一种很新的恋综",
+      "onboard_time": 1668940166,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 438201,
@@ -553,14 +577,6 @@
       "onboard_time": 1668914546,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 407979,
-      "num": 407979,
-      "word": "北京朝阳倡议周一继续减少流动",
-      "onboard_time": 1668938546,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 404660,
@@ -640,6 +656,14 @@
       "word": "美典当行将日军侵华罪行相册捐给中国",
       "onboard_time": 1668917425,
       "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 369752,
+      "num": 369752,
+      "word": "北京加大全市统筹实行区自为战",
+      "onboard_time": 1668941128,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -787,6 +811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 318839,
+      "num": 318839,
+      "word": "被Adele退场方式美到了",
+      "onboard_time": 1668937405,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 316527,
       "num": 237656,
       "word": "没想到对一只狐狸心动了",
@@ -811,6 +843,14 @@
       "category": "游戏,财经"
     },
     {
+      "raw_hot": 312182,
+      "num": 312182,
+      "word": "时代少年团有你的季节海报",
+      "onboard_time": 1668940586,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 303910,
       "num": 191975,
       "word": "王鹤棣被何炅占便宜了",
@@ -832,6 +872,14 @@
       "word": "婚车车队占满3车道不让超车",
       "onboard_time": 1668919527,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 298097,
+      "num": 298097,
+      "word": "山西朔州有居民没做核酸就出结果",
+      "onboard_time": 1668937947,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -931,12 +979,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 277039,
-      "num": 277039,
-      "word": "被Adele退场方式美到了",
-      "onboard_time": 1668937405,
-      "rank": 24,
-      "category": "音乐"
+      "raw_hot": 272386,
+      "num": 272386,
+      "word": "男生上课犯困班主任抱怀里哄睡",
+      "onboard_time": 1668941068,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 265731,
@@ -977,6 +1025,22 @@
       "onboard_time": 1668936209,
       "rank": 30,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 238645,
+      "num": 238645,
+      "word": "卿卿日常粘土版父母爱情",
+      "onboard_time": 1668941247,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 238003,
+      "num": 238003,
+      "word": "ruler",
+      "onboard_time": 1668942446,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 237588,
@@ -1027,12 +1091,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 222601,
-      "num": 222601,
-      "word": "山西朔州有居民没做核酸就出结果",
-      "onboard_time": 1668937947,
-      "rank": 35,
-      "category": "社会新闻"
+      "raw_hot": 226027,
+      "num": 226027,
+      "word": "鞠婧祎晒小提琴库存vlog",
+      "onboard_time": 1668942568,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 222404,
@@ -1043,12 +1107,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 220935,
-      "num": 204427,
-      "word": "时代少年团有你的季节海报",
-      "onboard_time": 1668940586,
-      "rank": 32,
-      "category": "作品衍生"
+      "raw_hot": 219683,
+      "num": 192792,
+      "word": "李峋要开始复仇了",
+      "onboard_time": 1668942446,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 219383,
@@ -1057,14 +1121,6 @@
       "onboard_time": 1668927025,
       "rank": 26,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 218882,
-      "num": 204373,
-      "word": "芒果好像在做一种很新的恋综",
-      "onboard_time": 1668940166,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 217405,
@@ -1123,6 +1179,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 205008,
+      "num": 205008,
+      "word": "马拉多纳会保佑梅西夺冠",
+      "onboard_time": 1668939628,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 203144,
       "num": 140978,
       "word": "冯提莫足球衣六宫格随拍",
@@ -1161,6 +1225,14 @@
       "onboard_time": 1668908249,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 199240,
+      "num": 199240,
+      "word": "妻子流产抑郁加重男子申请撤销婚姻",
+      "onboard_time": 1668942689,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 198879,
@@ -1243,6 +1315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 176906,
+      "num": 176906,
+      "word": "男子用矿泉水瓶给流浪猫做猫窝",
+      "onboard_time": 1668937288,
+      "rank": 42,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 173741,
       "num": 112843,
       "word": "安室透",
@@ -1315,14 +1395,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 164250,
-      "num": 164250,
-      "word": "男子用矿泉水瓶给流浪猫做猫窝",
-      "onboard_time": 1668937288,
-      "rank": 42,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 163018,
       "num": 163018,
       "word": "官方回应合肥步行街现尸体",
@@ -1347,12 +1419,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 156320,
+      "num": 136781,
+      "word": "阳华搬到秦施家对门",
+      "onboard_time": 1668942509,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 154450,
       "num": 154450,
       "word": "慢热和不喜欢的区别是什么",
       "onboard_time": 1668859589,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 153923,
+      "num": 153923,
+      "word": "世界杯上10号球衣名场面",
+      "onboard_time": 1668940768,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 151572,
@@ -1451,20 +1539,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 136883,
-      "num": 136883,
-      "word": "马拉多纳会保佑梅西夺冠",
-      "onboard_time": 1668939628,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 136184,
       "num": 136184,
       "word": "11月19日新增本土确诊2204例",
       "onboard_time": 1668911188,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 133425,
+      "num": 133425,
+      "word": "大鹅混进天鹅群蹭饭被一眼认出",
+      "onboard_time": 1668941908,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132412,
+      "num": 132412,
+      "word": "花得最开心的一块钱",
+      "onboard_time": 1668939506,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 130705,
@@ -1601,14 +1697,6 @@
       "onboard_time": 1668929726,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 105400,
-      "num": 105400,
-      "word": "花得最开心的一块钱",
-      "onboard_time": 1668939506,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 101762,
