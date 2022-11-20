@@ -1,6 +1,6 @@
 {
   "startTime": 1668875307469,
-  "endTime": 1668929615904,
+  "endTime": 1668932749131,
   "band_list": [
     {
       "raw_hot": 3531288,
@@ -8,6 +8,14 @@
       "word": "北京新增一例死亡病例",
       "onboard_time": 1668905066,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2210215,
+      "num": 2210215,
+      "word": "江西16岁失联男孩已找到",
+      "onboard_time": 1668928105,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -99,14 +107,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1172792,
-      "num": 1172792,
-      "word": "江西16岁失联男孩已找到",
-      "onboard_time": 1668928105,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 926164,
       "num": 200211,
       "word": "华晨宇 假发",
@@ -188,7 +188,7 @@
     },
     {
       "raw_hot": 699381,
-      "num": 375489,
+      "num": 410223,
       "word": "汪小菲深夜直播唱过火",
       "onboard_time": 1668926487,
       "rank": 48,
@@ -201,6 +201,14 @@
       "onboard_time": 1668919706,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 693176,
+      "num": 693176,
+      "word": "赵丽颖说张艺兴比较呆萌",
+      "onboard_time": 1668931708,
+      "rank": 4,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 687953,
@@ -228,7 +236,7 @@
     },
     {
       "raw_hot": 658206,
-      "num": 379112,
+      "num": 408553,
       "word": "95后四小花首轮推荐结果",
       "onboard_time": 1668922527,
       "rank": 47,
@@ -371,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 443580,
+      "num": 443580,
+      "word": "全国医院排行榜",
+      "onboard_time": 1668926246,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 438201,
       "num": 370153,
       "word": "男子当街暴打边牧还跳起双脚踩头",
@@ -385,6 +401,14 @@
       "onboard_time": 1668902664,
       "rank": 9,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 418951,
+      "num": 418951,
+      "word": "男子请工人疏通下水道被收1600元",
+      "onboard_time": 1668929668,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 417247,
@@ -411,12 +435,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 392078,
-      "num": 392078,
-      "word": "全国医院排行榜",
-      "onboard_time": 1668926246,
-      "rank": 37,
-      "category": "社会新闻"
+      "raw_hot": 399641,
+      "num": 399641,
+      "word": "当男朋友看了卿卿日常",
+      "onboard_time": 1668929846,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 387951,
@@ -537,6 +561,14 @@
       "onboard_time": 1668914127,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 331688,
+      "num": 331688,
+      "word": "南瓜自己滚进锅里还盖上了盖",
+      "onboard_time": 1668928824,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 326631,
@@ -699,6 +731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 266097,
+      "num": 125544,
+      "word": "李峋误会朱韵结婚",
+      "onboard_time": 1668932487,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 254619,
       "num": 119446,
       "word": "羡慕王勉",
@@ -747,12 +787,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 223518,
+      "num": 81727,
+      "word": "内马尔预测巴西是冠军",
+      "onboard_time": 1668932726,
+      "rank": 47,
+      "category": "体育,综艺"
+    },
+    {
       "raw_hot": 222404,
       "num": 222404,
       "word": "热奶宝",
       "onboard_time": 1668854487,
       "rank": 13,
       "category": "美食"
+    },
+    {
+      "raw_hot": 219383,
+      "num": 219383,
+      "word": "当emoji学会跳kpop",
+      "onboard_time": 1668927025,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 217405,
@@ -803,6 +859,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 207470,
+      "num": 207470,
+      "word": "世界杯男模",
+      "onboard_time": 1668931407,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 203144,
       "num": 140978,
       "word": "冯提莫足球衣六宫格随拍",
@@ -825,6 +889,14 @@
       "onboard_time": 1668921507,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 200393,
+      "num": 200393,
+      "word": "粉丝做的蔡徐坤现象emoji手势舞",
+      "onboard_time": 1668930386,
+      "rank": 23,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 199684,
@@ -939,6 +1011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 165338,
+      "num": 112058,
+      "word": "杨洋黑西装拍摄花絮",
+      "onboard_time": 1668932188,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 164547,
       "num": 164547,
       "word": "世界杯预言家已上线",
@@ -983,14 +1063,6 @@
       "num": 151572,
       "word": "猫猫教的入教仪式",
       "onboard_time": 1668872013,
-      "rank": 26,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 149722,
-      "num": 149722,
-      "word": "当emoji学会跳kpop",
-      "onboard_time": 1668927025,
       "rank": 26,
       "category": "幽默"
     },
@@ -1073,6 +1145,14 @@
       "onboard_time": 1668928105,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 136958,
+      "num": 136958,
+      "word": "世界杯上满满中国设计小巧思",
+      "onboard_time": 1668930987,
+      "rank": 25,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 136184,
@@ -1203,12 +1283,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 102249,
-      "num": 102249,
-      "word": "南瓜自己滚进锅里还盖上了盖",
-      "onboard_time": 1668928824,
-      "rank": 38,
-      "category": "社会新闻"
+      "raw_hot": 105468,
+      "num": 105468,
+      "word": "原来居家也能有效减肥",
+      "onboard_time": 1668932307,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 101762,
@@ -1243,6 +1323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 96914,
+      "num": 96914,
+      "word": "把自己的心情永远置顶",
+      "onboard_time": 1668929726,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 94459,
       "num": 94459,
       "word": "你还有随时可以打扰的人吗",
@@ -1273,6 +1361,14 @@
       "onboard_time": 1668858447,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 87266,
+      "num": 87266,
+      "word": "马斯克发布与推特员工凌晨加班照",
+      "onboard_time": 1668932067,
+      "rank": 43,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 85480,
@@ -1347,6 +1443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 69188,
+      "num": 1265487,
+      "word": "绝美视角看神十四太空漫步",
+      "onboard_time": 1668927566,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 61863,
       "num": 61863,
       "word": "阳华早就认定秦施了",
@@ -1363,12 +1467,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 59493,
-      "num": 1265487,
-      "word": "绝美视角看神十四太空漫步",
-      "onboard_time": 1668927566,
-      "rank": 2,
-      "category": "国内要闻"
+      "raw_hot": 59758,
+      "num": 81205,
+      "word": "会飞的汽车来了",
+      "onboard_time": 1668931644,
+      "rank": 49,
+      "category": "科技"
     },
     {
       "raw_hot": 49665,

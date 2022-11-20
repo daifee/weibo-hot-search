@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1668929615904,
+  "endTime": 1668932749131,
   "band_list": [
     {
       "raw_hot": 8596020,
@@ -609,6 +609,14 @@
       "onboard_time": 1667312489,
       "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 2210215,
+      "num": 2210215,
+      "word": "江西16岁失联男孩已找到",
+      "onboard_time": 1668928105,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2209947,
@@ -2617,14 +2625,6 @@
       "onboard_time": 1667744673,
       "rank": 11,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1172792,
-      "num": 1172792,
-      "word": "江西16岁失联男孩已找到",
-      "onboard_time": 1668928105,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1171499,
@@ -6012,7 +6012,7 @@
     },
     {
       "raw_hot": 699381,
-      "num": 375489,
+      "num": 410223,
       "word": "汪小菲深夜直播唱过火",
       "onboard_time": 1668926487,
       "rank": 48,
@@ -6073,6 +6073,14 @@
       "onboard_time": 1668830546,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 693176,
+      "num": 693176,
+      "word": "赵丽颖说张艺兴比较呆萌",
+      "onboard_time": 1668931708,
+      "rank": 4,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 692544,
@@ -6628,7 +6636,7 @@
     },
     {
       "raw_hot": 658206,
-      "num": 379112,
+      "num": 408553,
       "word": "95后四小花首轮推荐结果",
       "onboard_time": 1668922527,
       "rank": 47,
@@ -11483,6 +11491,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 443580,
+      "num": 443580,
+      "word": "全国医院排行榜",
+      "onboard_time": 1668926246,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 443305,
       "num": 443305,
       "word": "业内称今年古偶爆款仅有梦华录",
@@ -12435,6 +12451,14 @@
       "category": "动漫,影视"
     },
     {
+      "raw_hot": 418951,
+      "num": 418951,
+      "word": "男子请工人疏通下水道被收1600元",
+      "onboard_time": 1668929668,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 418123,
       "num": 418123,
       "word": "更换电池会提升手机的体验感吗",
@@ -13123,6 +13147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 399641,
+      "num": 399641,
+      "word": "当男朋友看了卿卿日常",
+      "onboard_time": 1668929846,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 399478,
       "num": 399478,
       "word": "李峋找徐黎娜刺激朱韵分手",
@@ -13425,14 +13457,6 @@
       "onboard_time": 1668665785,
       "rank": 44,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 392078,
-      "num": 392078,
-      "word": "全国医院排行榜",
-      "onboard_time": 1668926246,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 392035,
@@ -16032,6 +16056,14 @@
       "word": "哪些内容千万别晒朋友圈",
       "onboard_time": 1667284826,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 331688,
+      "num": 331688,
+      "word": "南瓜自己滚进锅里还盖上了盖",
+      "onboard_time": 1668928824,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -19715,6 +19747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 266097,
+      "num": 125544,
+      "word": "李峋误会朱韵结婚",
+      "onboard_time": 1668932487,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 265852,
       "num": 238800,
       "word": "赵丽颖沈璃打戏镜头",
@@ -22587,6 +22627,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 223518,
+      "num": 81727,
+      "word": "内马尔预测巴西是冠军",
+      "onboard_time": 1668932726,
+      "rank": 47,
+      "category": "体育,综艺"
+    },
+    {
       "raw_hot": 223456,
       "num": 223456,
       "word": "穆里尼奥称C罗需排梅西之后",
@@ -22905,6 +22953,14 @@
       "onboard_time": 1668690750,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 219383,
+      "num": 219383,
+      "word": "当emoji学会跳kpop",
+      "onboard_time": 1668927025,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 219338,
@@ -23923,6 +23979,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 207470,
+      "num": 207470,
+      "word": "世界杯男模",
+      "onboard_time": 1668931407,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 207467,
       "num": 173710,
       "word": "县委大院下证",
@@ -24633,6 +24697,14 @@
       "onboard_time": 1668150222,
       "rank": 43,
       "category": "社会新闻,军事"
+    },
+    {
+      "raw_hot": 200393,
+      "num": 200393,
+      "word": "粉丝做的蔡徐坤现象emoji手势舞",
+      "onboard_time": 1668930386,
+      "rank": 23,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 200056,
@@ -28003,6 +28075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 165338,
+      "num": 112058,
+      "word": "杨洋黑西装拍摄花絮",
+      "onboard_time": 1668932188,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 165225,
       "num": 165225,
       "word": "上海男团全锦赛夺冠",
@@ -29763,14 +29843,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 149722,
-      "num": 149722,
-      "word": "当emoji学会跳kpop",
-      "onboard_time": 1668927025,
-      "rank": 26,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 149679,
       "num": 149679,
       "word": "罗晋新剧大婚狂炫花生",
@@ -31505,6 +31577,14 @@
       "onboard_time": 1667903672,
       "rank": 33,
       "category": "自然"
+    },
+    {
+      "raw_hot": 136958,
+      "num": 136958,
+      "word": "世界杯上满满中国设计小巧思",
+      "onboard_time": 1668930987,
+      "rank": 25,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 136955,
@@ -35435,6 +35515,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 105468,
+      "num": 105468,
+      "word": "原来居家也能有效减肥",
+      "onboard_time": 1668932307,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 105418,
       "num": 1318127,
       "word": "那些被平凡暖意感动的瞬间",
@@ -35817,14 +35905,6 @@
       "onboard_time": 1668344668,
       "rank": 46,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 102249,
-      "num": 102249,
-      "word": "南瓜自己滚进锅里还盖上了盖",
-      "onboard_time": 1668928824,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 102100,
@@ -36553,6 +36633,14 @@
       "onboard_time": 1668861928,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 96914,
+      "num": 96914,
+      "word": "把自己的心情永远置顶",
+      "onboard_time": 1668929726,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 96910,
@@ -37953,6 +38041,14 @@
       "onboard_time": 1667819366,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 87266,
+      "num": 87266,
+      "word": "马斯克发布与推特员工凌晨加班照",
+      "onboard_time": 1668932067,
+      "rank": 43,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 87008,
@@ -39627,6 +39723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 69188,
+      "num": 1265487,
+      "word": "绝美视角看神十四太空漫步",
+      "onboard_time": 1668927566,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 68958,
       "num": 1415259,
       "word": "第五届进口博览会",
@@ -40163,20 +40267,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 59758,
+      "num": 81205,
+      "word": "会飞的汽车来了",
+      "onboard_time": 1668931644,
+      "rank": 49,
+      "category": "科技"
+    },
+    {
       "raw_hot": 59703,
       "num": 59703,
       "word": "李荣浩登billboard中国十月封面",
       "onboard_time": 1667259380,
       "rank": 45,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 59493,
-      "num": 1265487,
-      "word": "绝美视角看神十四太空漫步",
-      "onboard_time": 1668927566,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 59373,
