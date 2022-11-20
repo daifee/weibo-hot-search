@@ -1,10 +1,10 @@
 {
   "startTime": 1668875307469,
-  "endTime": 1668954907206,
+  "endTime": 1668957635404,
   "band_list": [
     {
-      "raw_hot": 4429428,
-      "num": 4429428,
+      "raw_hot": 10543272,
+      "num": 10543272,
       "word": "世界杯开幕式",
       "onboard_time": 1668950128,
       "rank": 3,
@@ -51,8 +51,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1966511,
+      "num": 136813,
+      "word": "田柾国",
+      "onboard_time": 1668957578,
+      "rank": 47,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 1836098,
-      "num": 598909,
+      "num": 737915,
       "word": "妻子流产抑郁加重男子申请撤销婚姻",
       "onboard_time": 1668942689,
       "rank": 28,
@@ -75,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1676322,
+      "num": 1676322,
+      "word": "内马尔 帅",
+      "onboard_time": 1668949229,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1654421,
       "num": 1222689,
       "word": "罗晋删除天下长河相关微博",
@@ -92,7 +108,7 @@
     },
     {
       "raw_hot": 1603100,
-      "num": 2703450,
+      "num": 4705804,
       "word": "郑州通报4个月大女婴夭折",
       "onboard_time": 1668938367,
       "rank": 10,
@@ -121,6 +137,14 @@
       "onboard_time": 1668873090,
       "rank": 3,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 1364596,
+      "num": 1364596,
+      "word": "摩根弗里曼",
+      "onboard_time": 1668956744,
+      "rank": 5,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 1362893,
@@ -179,20 +203,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1129538,
-      "num": 1129538,
-      "word": "内马尔 帅",
-      "onboard_time": 1668949229,
-      "rank": 5,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1114734,
       "num": 1114734,
       "word": "财阀家的小儿子 重生爽文",
       "onboard_time": 1668950190,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 950996,
+      "num": 2564295,
+      "word": "卡塔尔世界杯有哪些中国元素",
+      "onboard_time": 1668952761,
+      "rank": 2,
+      "category": "体育"
     },
     {
       "raw_hot": 926164,
@@ -235,6 +259,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 850743,
+      "num": 741863,
+      "word": "女子备孕13年生龙凤胎取名天佑佑心",
+      "onboard_time": 1668955296,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 842999,
+      "num": 842999,
+      "word": "LWX",
+      "onboard_time": 1668953791,
+      "rank": 7,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 820645,
       "num": 820645,
       "word": "刘德华演唱会",
@@ -273,6 +313,14 @@
       "onboard_time": 1668870993,
       "rank": 4,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 760652,
+      "num": 760652,
+      "word": "C罗",
+      "onboard_time": 1668954934,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 748035,
@@ -323,6 +371,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 719969,
+      "num": 719969,
+      "word": "刘德华哽咽再唱17岁",
+      "onboard_time": 1668954510,
+      "rank": 11,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 716309,
       "num": 716309,
       "word": "赵丽颖说张艺兴比较呆萌",
@@ -355,6 +411,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 688239,
+      "num": 688239,
+      "word": "世界杯吉祥物",
+      "onboard_time": 1668955651,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 687953,
       "num": 321718,
       "word": "陈凯歌说陈飞宇是极端的完美主义者",
@@ -364,7 +428,7 @@
     },
     {
       "raw_hot": 684368,
-      "num": 684368,
+      "num": 751125,
       "word": "31省平均工资发布",
       "onboard_time": 1668937467,
       "rank": 15,
@@ -393,14 +457,6 @@
       "onboard_time": 1668940227,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 670666,
-      "num": 594042,
-      "word": "刘德华哽咽再唱17岁",
-      "onboard_time": 1668954510,
-      "rank": 11,
-      "category": "音乐"
     },
     {
       "raw_hot": 668754,
@@ -459,14 +515,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 606123,
-      "num": 606123,
-      "word": "LWX",
-      "onboard_time": 1668953791,
-      "rank": 7,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 595399,
       "num": 595399,
       "word": "林峯说打算演戏到80岁",
@@ -523,6 +571,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 569251,
+      "num": 569251,
+      "word": "宋舞宋武成亲",
+      "onboard_time": 1668954093,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 565099,
       "num": 565099,
       "word": "北方女子南方点外卖遇巴掌大炒饭",
@@ -547,20 +603,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 533785,
-      "num": 533785,
-      "word": "宋舞宋武成亲",
-      "onboard_time": 1668954093,
-      "rank": 13,
-      "category": "影视"
-    },
-    {
       "raw_hot": 529923,
       "num": 529923,
       "word": "ruler",
       "onboard_time": 1668942446,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 527822,
+      "num": 757876,
+      "word": "重庆30元蔬菜包里有什么",
+      "onboard_time": 1668953369,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 524522,
@@ -787,6 +843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 411060,
+      "num": 411060,
+      "word": "世界杯彩票",
+      "onboard_time": 1668950911,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 404660,
       "num": 404660,
       "word": "内马尔预测巴西是冠军",
@@ -809,6 +873,14 @@
       "onboard_time": 1668929846,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 398071,
+      "num": 317684,
+      "word": "马嘉祺假装网卡",
+      "onboard_time": 1668956861,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 393343,
@@ -841,14 +913,6 @@
       "onboard_time": 1668919527,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 381815,
-      "num": 381815,
-      "word": "世界杯彩票",
-      "onboard_time": 1668950911,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 381577,
@@ -921,6 +985,22 @@
       "onboard_time": 1668947188,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 359439,
+      "num": 359439,
+      "word": "世界杯开幕式直播",
+      "onboard_time": 1668955175,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 357914,
+      "num": 313548,
+      "word": "演员薛中锐去世",
+      "onboard_time": 1668956497,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 354035,
@@ -1131,14 +1211,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 300784,
-      "num": 300784,
-      "word": "重庆30元蔬菜包里有什么",
-      "onboard_time": 1668953369,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 300739,
       "num": 300739,
       "word": "婚车车队占满3车道不让超车",
@@ -1153,14 +1225,6 @@
       "onboard_time": 1668937947,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 298050,
-      "num": 2284304,
-      "word": "卡塔尔世界杯有哪些中国元素",
-      "onboard_time": 1668952761,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 295204,
@@ -1699,6 +1763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 178307,
+      "num": 178307,
+      "word": "开幕式 中东文化",
+      "onboard_time": 1668956920,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 177293,
       "num": 140380,
       "word": "NCTDREAM新歌Candy抢听",
@@ -1817,6 +1889,22 @@
       "onboard_time": 1668841465,
       "rank": 24,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 161158,
+      "num": 161158,
+      "word": "两个人为什么会慢慢走散",
+      "onboard_time": 1668957102,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 160796,
+      "num": 160796,
+      "word": "这嘴在南京还没闲下来过",
+      "onboard_time": 1668952709,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 158962,
@@ -1971,6 +2059,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 136895,
+      "num": 136895,
+      "word": "世界杯花式打call大赛",
+      "onboard_time": 1668957520,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 136184,
       "num": 136184,
       "word": "11月19日新增本土确诊2204例",
@@ -1993,6 +2089,14 @@
       "onboard_time": 1668946470,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 132002,
+      "num": 132002,
+      "word": "拉伊卜 可爱",
+      "onboard_time": 1668957344,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 130705,
@@ -2025,14 +2129,6 @@
       "onboard_time": 1668856410,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 125130,
-      "num": 125130,
-      "word": "这嘴在南京还没闲下来过",
-      "onboard_time": 1668952709,
-      "rank": 49,
-      "category": "美食"
     },
     {
       "raw_hot": 121503,

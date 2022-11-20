@@ -1,0 +1,410 @@
+{
+  "runTime": 1668957635404,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 10543272,
+        "num": 10543272,
+        "word": "世界杯开幕式",
+        "onboard_time": 1668950128,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 717885,
+        "num": 4705804,
+        "word": "郑州通报4个月大女婴夭折",
+        "onboard_time": 1668938367,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 950996,
+        "num": 2564295,
+        "word": "卡塔尔世界杯有哪些中国元素",
+        "onboard_time": 1668952761,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2001238,
+        "num": 2001238,
+        "word": "王冰冰自我介绍",
+        "onboard_time": 1668949109,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1676322,
+        "num": 1676322,
+        "word": "内马尔 帅",
+        "onboard_time": 1668949229,
+        "rank": 4,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 1364596,
+        "num": 1364596,
+        "word": "摩根弗里曼",
+        "onboard_time": 1668956744,
+        "rank": 5,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 842999,
+        "num": 842999,
+        "word": "LWX",
+        "onboard_time": 1668953791,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 760652,
+        "num": 760652,
+        "word": "C罗",
+        "onboard_time": 1668954934,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 527822,
+        "num": 757876,
+        "word": "重庆30元蔬菜包里有什么",
+        "onboard_time": 1668953369,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224761,
+        "num": 751125,
+        "word": "31省平均工资发布",
+        "onboard_time": 1668937467,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 850743,
+        "num": 741863,
+        "word": "女子备孕13年生龙凤胎取名天佑佑心",
+        "onboard_time": 1668955296,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 823935,
+        "num": 737915,
+        "word": "妻子流产抑郁加重男子申请撤销婚姻",
+        "onboard_time": 1668942689,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 735596,
+        "num": 735596,
+        "word": "财阀家的小儿子 重生爽文",
+        "onboard_time": 1668950190,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 719969,
+        "num": 719969,
+        "word": "刘德华哽咽再唱17岁",
+        "onboard_time": 1668954510,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 688239,
+        "num": 688239,
+        "word": "世界杯吉祥物",
+        "onboard_time": 1668955651,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 687969,
+        "num": 687969,
+        "word": "世界杯直播",
+        "onboard_time": 1668946349,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 569251,
+        "num": 569251,
+        "word": "宋舞宋武成亲",
+        "onboard_time": 1668954093,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 411060,
+        "num": 411060,
+        "word": "世界杯彩票",
+        "onboard_time": 1668950911,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 359439,
+        "num": 359439,
+        "word": "世界杯开幕式直播",
+        "onboard_time": 1668955175,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 321672,
+        "num": 321672,
+        "word": "北京加大全市统筹实行区自为战",
+        "onboard_time": 1668941128,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 560350,
+        "num": 321114,
+        "word": "菅田将晖变样了",
+        "onboard_time": 1668946768,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 398071,
+        "num": 317684,
+        "word": "马嘉祺假装网卡",
+        "onboard_time": 1668956861,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 357914,
+        "num": 313548,
+        "word": "演员薛中锐去世",
+        "onboard_time": 1668956497,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 308231,
+        "num": 308231,
+        "word": "在重庆的一天有多令人羡慕",
+        "onboard_time": 1668947248,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 264176,
+        "num": 264176,
+        "word": "父母为什么理解不了我们的累",
+        "onboard_time": 1668950369,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 256942,
+        "num": 256942,
+        "word": "江西16岁失联男孩已找到",
+        "onboard_time": 1668928105,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231920,
+        "num": 231920,
+        "word": "世界杯",
+        "onboard_time": 1668907471,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 228230,
+        "num": 228230,
+        "word": "世界杯赛程",
+        "onboard_time": 1668947785,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203322,
+        "num": 203322,
+        "word": "卡塔尔世界杯上的中国制造如满天繁星",
+        "onboard_time": 1668948569,
+        "rank": 28,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 201211,
+        "num": 201211,
+        "word": "卡塔尔vs厄瓜多尔",
+        "onboard_time": 1668949769,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 284776,
+        "num": 200944,
+        "word": "朝阳一小区半地下室供暖水泄露致2死",
+        "onboard_time": 1668943949,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271204,
+        "num": 200067,
+        "word": "李峋向朱韵求婚",
+        "onboard_time": 1668938848,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 228267,
+        "num": 198713,
+        "word": "吴宣仪翻跳Jennie新歌",
+        "onboard_time": 1668948688,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 213726,
+        "num": 198255,
+        "word": "你可以永远相信鸟鸟的文本",
+        "onboard_time": 1668953072,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197752,
+        "num": 197752,
+        "word": "单亲妈妈带3娃千里投奔网恋对象",
+        "onboard_time": 1668945988,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188742,
+        "num": 188742,
+        "word": "点燃我温暖你连发7条花絮",
+        "onboard_time": 1668946708,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 178307,
+        "num": 178307,
+        "word": "开幕式 中东文化",
+        "onboard_time": 1668956920,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173838,
+        "num": 173838,
+        "word": "霍华德背靠背砍61分",
+        "onboard_time": 1668946829,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172194,
+        "num": 172194,
+        "word": "本泽马已离开卡塔尔",
+        "onboard_time": 1668948627,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167041,
+        "num": 167041,
+        "word": "男子出车祸600私了6天后大出血死亡",
+        "onboard_time": 1668923787,
+        "rank": 39,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 177308,
+        "num": 167006,
+        "word": "王冰冰最新状态",
+        "onboard_time": 1668949588,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166767,
+        "num": 166767,
+        "word": "EDG",
+        "onboard_time": 1668944309,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 162716,
+        "num": 162716,
+        "word": "32岁全职妈妈自学化妆2月气质大变",
+        "onboard_time": 1668935786,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161158,
+        "num": 161158,
+        "word": "两个人为什么会慢慢走散",
+        "onboard_time": 1668957102,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 160796,
+        "num": 160796,
+        "word": "这嘴在南京还没闲下来过",
+        "onboard_time": 1668952709,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 143193,
+        "num": 143193,
+        "word": "忘掉很爱的人需要多久",
+        "onboard_time": 1668944189,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 136895,
+        "num": 136895,
+        "word": "世界杯花式打call大赛",
+        "onboard_time": 1668957520,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1966511,
+        "num": 136813,
+        "word": "田柾国",
+        "onboard_time": 1668957578,
+        "rank": 47,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 135898,
+        "num": 135898,
+        "word": "北京新增516例本土感染者",
+        "onboard_time": 1668936447,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132002,
+        "num": 132002,
+        "word": "拉伊卜 可爱",
+        "onboard_time": 1668957344,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#这份国礼承载着中泰两国人民的美好期待#"
+    }
+  }
+}

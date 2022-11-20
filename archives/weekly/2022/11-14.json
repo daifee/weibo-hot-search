@@ -1,7 +1,15 @@
 {
   "startTime": 1668357004606,
-  "endTime": 1668954907206,
+  "endTime": 1668957635404,
   "band_list": [
+    {
+      "raw_hot": 10543272,
+      "num": 10543272,
+      "word": "世界杯开幕式",
+      "onboard_time": 1668950128,
+      "rank": 3,
+      "category": "体育"
+    },
     {
       "raw_hot": 4694011,
       "num": 3545777,
@@ -17,14 +25,6 @@
       "onboard_time": 1668680188,
       "rank": 6,
       "category": "网红"
-    },
-    {
-      "raw_hot": 4429428,
-      "num": 4429428,
-      "word": "世界杯开幕式",
-      "onboard_time": 1668950128,
-      "rank": 3,
-      "category": "体育"
     },
     {
       "raw_hot": 4058434,
@@ -299,6 +299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1966511,
+      "num": 136813,
+      "word": "田柾国",
+      "onboard_time": 1668957578,
+      "rank": 47,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 1965522,
       "num": 497099,
       "word": "广州核酸",
@@ -380,7 +388,7 @@
     },
     {
       "raw_hot": 1836098,
-      "num": 598909,
+      "num": 737915,
       "word": "妻子流产抑郁加重男子申请撤销婚姻",
       "onboard_time": 1668942689,
       "rank": 28,
@@ -507,6 +515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1676322,
+      "num": 1676322,
+      "word": "内马尔 帅",
+      "onboard_time": 1668692549,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1660356,
       "num": 1660356,
       "word": "欠债4600万大叔认真卖烤肠还债",
@@ -572,7 +588,7 @@
     },
     {
       "raw_hot": 1603100,
-      "num": 2703450,
+      "num": 4705804,
       "word": "郑州通报4个月大女婴夭折",
       "onboard_time": 1668938367,
       "rank": 10,
@@ -793,6 +809,14 @@
       "onboard_time": 1668389290,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1364596,
+      "num": 1364596,
+      "word": "摩根弗里曼",
+      "onboard_time": 1668956744,
+      "rank": 5,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 1362893,
@@ -1073,14 +1097,6 @@
       "onboard_time": 1668500852,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1129538,
-      "num": 1129538,
-      "word": "内马尔 帅",
-      "onboard_time": 1668692549,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 1122845,
@@ -1395,6 +1411,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 950996,
+      "num": 2564295,
+      "word": "卡塔尔世界杯有哪些中国元素",
+      "onboard_time": 1668952761,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 940656,
       "num": 413433,
       "word": "消费者质疑淘宝88VIP会员杀熟",
@@ -1691,6 +1715,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 850743,
+      "num": 741863,
+      "word": "女子备孕13年生龙凤胎取名天佑佑心",
+      "onboard_time": 1668955296,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 849606,
       "num": 784388,
       "word": "父母让25岁女儿第4次当姐姐",
@@ -1721,6 +1753,14 @@
       "onboard_time": 1668756567,
       "rank": 17,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 842999,
+      "num": 842999,
+      "word": "LWX",
+      "onboard_time": 1668953791,
+      "rank": 7,
+      "category": "游戏"
     },
     {
       "raw_hot": 839251,
@@ -2011,6 +2051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 760652,
+      "num": 760652,
+      "word": "C罗",
+      "onboard_time": 1668954934,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 759979,
       "num": 759979,
       "word": "北京新增515例本土感染者",
@@ -2219,6 +2267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 719969,
+      "num": 719969,
+      "word": "刘德华哽咽再唱17岁",
+      "onboard_time": 1668954510,
+      "rank": 11,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 719822,
       "num": 719822,
       "word": "睡觉时猛抖一下究竟是什么原因",
@@ -2379,6 +2435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 688239,
+      "num": 688239,
+      "word": "世界杯吉祥物",
+      "onboard_time": 1668955651,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 687953,
       "num": 321718,
       "word": "陈凯歌说陈飞宇是极端的完美主义者",
@@ -2404,7 +2468,7 @@
     },
     {
       "raw_hot": 684368,
-      "num": 684368,
+      "num": 751125,
       "word": "31省平均工资发布",
       "onboard_time": 1668937467,
       "rank": 15,
@@ -2489,14 +2553,6 @@
       "onboard_time": 1668641844,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 670666,
-      "num": 594042,
-      "word": "刘德华哽咽再唱17岁",
-      "onboard_time": 1668954510,
-      "rank": 11,
-      "category": "音乐"
     },
     {
       "raw_hot": 669779,
@@ -2875,14 +2931,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 606123,
-      "num": 606123,
-      "word": "LWX",
-      "onboard_time": 1668953791,
-      "rank": 7,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 606076,
       "num": 606076,
       "word": "小狗夭折狗妈妈死死含住不让埋",
@@ -3137,6 +3185,14 @@
       "onboard_time": 1668356066,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 569251,
+      "num": 569251,
+      "word": "宋舞宋武成亲",
+      "onboard_time": 1668954093,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 569250,
@@ -3467,14 +3523,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 533785,
-      "num": 533785,
-      "word": "宋舞宋武成亲",
-      "onboard_time": 1668954093,
-      "rank": 13,
-      "category": "影视"
-    },
-    {
       "raw_hot": 533672,
       "num": 533672,
       "word": "陈飞宇回应网友考古",
@@ -3529,6 +3577,14 @@
       "onboard_time": 1668730049,
       "rank": 7,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 527822,
+      "num": 757876,
+      "word": "重庆30元蔬菜包里有什么",
+      "onboard_time": 1668953369,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 527485,
@@ -5051,6 +5107,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 411060,
+      "num": 411060,
+      "word": "世界杯彩票",
+      "onboard_time": 1668950911,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 410070,
       "num": 410070,
       "word": "小细胞肺癌是中国烟民头号夺命癌",
@@ -5265,6 +5329,14 @@
       "onboard_time": 1668608378,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 398071,
+      "num": 317684,
+      "word": "马嘉祺假装网卡",
+      "onboard_time": 1668956861,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 397996,
@@ -5505,14 +5577,6 @@
       "onboard_time": 1668684809,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 381815,
-      "num": 381815,
-      "word": "世界杯彩票",
-      "onboard_time": 1668950911,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 381577,
@@ -5963,6 +6027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 359439,
+      "num": 359439,
+      "word": "世界杯开幕式直播",
+      "onboard_time": 1668955175,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 359101,
       "num": 310742,
       "word": "陈采尼金鸡奖点评",
@@ -5977,6 +6049,14 @@
       "onboard_time": 1668748828,
       "rank": 24,
       "category": "教育"
+    },
+    {
+      "raw_hot": 357914,
+      "num": 313548,
+      "word": "演员薛中锐去世",
+      "onboard_time": 1668956497,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 355792,
@@ -7179,14 +7259,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 300784,
-      "num": 300784,
-      "word": "重庆30元蔬菜包里有什么",
-      "onboard_time": 1668953369,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 300739,
       "num": 300739,
       "word": "婚车车队占满3车道不让超车",
@@ -7225,14 +7297,6 @@
       "onboard_time": 1668937947,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 298050,
-      "num": 2284304,
-      "word": "卡塔尔世界杯有哪些中国元素",
-      "onboard_time": 1668952761,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 297486,
@@ -10995,6 +11059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 178307,
+      "num": 178307,
+      "word": "开幕式 中东文化",
+      "onboard_time": 1668956920,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 178304,
       "num": 178304,
       "word": "你还有随时可以打扰的人吗",
@@ -11731,12 +11803,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 161158,
+      "num": 161158,
+      "word": "两个人为什么会慢慢走散",
+      "onboard_time": 1668957102,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 161139,
       "num": 114870,
       "word": "阳华给秦施拉拉链",
       "onboard_time": 1668430106,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 160796,
+      "num": 160796,
+      "word": "这嘴在南京还没闲下来过",
+      "onboard_time": 1668952709,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 160696,
@@ -13027,6 +13115,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 136895,
+      "num": 136895,
+      "word": "世界杯花式打call大赛",
+      "onboard_time": 1668957520,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 136651,
       "num": 128247,
       "word": "椰树女郎穿羽绒服直播跳拉货操",
@@ -13281,6 +13377,14 @@
       "onboard_time": 1668779970,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132002,
+      "num": 132002,
+      "word": "拉伊卜 可爱",
+      "onboard_time": 1668957344,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 131927,
@@ -13601,14 +13705,6 @@
       "onboard_time": 1668659492,
       "rank": 49,
       "category": "科技"
-    },
-    {
-      "raw_hot": 125130,
-      "num": 125130,
-      "word": "这嘴在南京还没闲下来过",
-      "onboard_time": 1668952709,
-      "rank": 49,
-      "category": "美食"
     },
     {
       "raw_hot": 125128,
