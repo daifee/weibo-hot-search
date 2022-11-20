@@ -1,6 +1,6 @@
 {
   "startTime": 1668875307469,
-  "endTime": 1668939738517,
+  "endTime": 1668940708372,
   "band_list": [
     {
       "raw_hot": 3531288,
@@ -115,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1076314,
+      "num": 1076314,
+      "word": "郑州通报4个月大女婴夭折",
+      "onboard_time": 1668938367,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 926164,
       "num": 200211,
       "word": "华晨宇 假发",
@@ -155,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 840498,
+      "num": 840498,
+      "word": "世界杯开幕式提前一小时",
+      "onboard_time": 1668937588,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 802416,
       "num": 714852,
       "word": "宋雨琦因状态不佳缺席今日签售活动",
@@ -177,14 +193,6 @@
       "onboard_time": 1668925167,
       "rank": 35,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 768457,
-      "num": 768457,
-      "word": "世界杯开幕式提前一小时",
-      "onboard_time": 1668937588,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 765880,
@@ -275,12 +283,12 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 664345,
-      "num": 420875,
-      "word": "郑州通报4个月大女婴夭折",
-      "onboard_time": 1668938367,
-      "rank": 10,
-      "category": "社会新闻"
+      "raw_hot": 660357,
+      "num": 660357,
+      "word": "李峋向朱韵求婚",
+      "onboard_time": 1668938848,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 658206,
@@ -307,8 +315,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 598500,
-      "num": 598500,
+      "raw_hot": 616868,
+      "num": 616868,
       "word": "32岁全职妈妈自学化妆2月气质大变",
       "onboard_time": 1668935786,
       "rank": 42,
@@ -371,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 547279,
+      "num": 547279,
+      "word": "李晨吴尊孙怡做菜是懂配合的",
+      "onboard_time": 1668940227,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 524200,
       "num": 524200,
       "word": "北京疫情发布会",
@@ -395,12 +411,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 491935,
+      "num": 491935,
+      "word": "北京疫情防控",
+      "onboard_time": 1668939557,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 486679,
       "num": 229142,
       "word": "今晚真的爷青回",
       "onboard_time": 1668869493,
       "rank": 11,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 484965,
+      "num": 484965,
+      "word": "为什么有人不喜欢过生日",
+      "onboard_time": 1668935424,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 477668,
@@ -427,11 +459,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 465253,
+      "num": 465253,
+      "word": "张艺兴王鹤棣檀健次跳面纱",
+      "onboard_time": 1668940227,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 465101,
       "num": 465101,
       "word": "男生穿渔网袜上场拔河",
       "onboard_time": 1668907946,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 457850,
+      "num": 457850,
+      "word": "31省平均工资发布",
+      "onboard_time": 1668937467,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -491,22 +539,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 421853,
-      "num": 421853,
-      "word": "北京疫情防控",
-      "onboard_time": 1668939557,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 418902,
-      "num": 418902,
-      "word": "为什么有人不喜欢过生日",
-      "onboard_time": 1668935424,
-      "rank": 36,
-      "category": "情感"
-    },
-    {
       "raw_hot": 417247,
       "num": 417247,
       "word": "点燃我温暖你希望大家理性追剧",
@@ -521,6 +553,14 @@
       "onboard_time": 1668914546,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 407979,
+      "num": 407979,
+      "word": "北京朝阳倡议周一继续减少流动",
+      "onboard_time": 1668938546,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 404660,
@@ -643,14 +683,6 @@
       "category": "社会负面,教育"
     },
     {
-      "raw_hot": 353637,
-      "num": 353637,
-      "word": "31省平均工资发布",
-      "onboard_time": 1668937467,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 351657,
       "num": 351657,
       "word": "福州警方通报轿车占车位被扔进河",
@@ -712,14 +744,6 @@
       "word": "陈飞宇片场夸张婧仪可爱",
       "onboard_time": 1668938125,
       "rank": 17,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 332650,
-      "num": 290677,
-      "word": "李峋向朱韵求婚",
-      "onboard_time": 1668938848,
-      "rank": 19,
       "category": "影视"
     },
     {
@@ -907,6 +931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 277039,
+      "num": 277039,
+      "word": "被Adele退场方式美到了",
+      "onboard_time": 1668937405,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 265731,
       "num": 265731,
       "word": "老兵立功证书上主要事迹一栏是空白",
@@ -915,27 +947,11 @@
       "category": "社会新闻,军事"
     },
     {
-      "raw_hot": 261040,
-      "num": 261040,
-      "word": "北京朝阳倡议周一继续减少流动",
-      "onboard_time": 1668938546,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 254619,
       "num": 119446,
       "word": "羡慕王勉",
       "onboard_time": 1668863850,
       "rank": 31,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 249448,
-      "num": 249448,
-      "word": "被Adele退场方式美到了",
-      "onboard_time": 1668937405,
-      "rank": 24,
       "category": "音乐"
     },
     {
@@ -979,6 +995,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 233221,
+      "num": 204488,
+      "word": "张柏芝紫色长裙随拍",
+      "onboard_time": 1668939326,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 231651,
       "num": 207985,
       "word": "命韵峋环的甜场面",
@@ -1003,6 +1027,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 222601,
+      "num": 222601,
+      "word": "山西朔州有居民没做核酸就出结果",
+      "onboard_time": 1668937947,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 222404,
       "num": 222404,
       "word": "热奶宝",
@@ -1011,12 +1043,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 220935,
+      "num": 204427,
+      "word": "时代少年团有你的季节海报",
+      "onboard_time": 1668940586,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 219383,
       "num": 219383,
       "word": "当emoji学会跳kpop",
       "onboard_time": 1668927025,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 218882,
+      "num": 204373,
+      "word": "芒果好像在做一种很新的恋综",
+      "onboard_time": 1668940166,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 217405,
@@ -1163,14 +1211,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 183258,
-      "num": 183258,
-      "word": "山西朔州有居民没做核酸就出结果",
-      "onboard_time": 1668937947,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 181259,
       "num": 181259,
       "word": "仙气乐蕴",
@@ -1259,14 +1299,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 169321,
-      "num": 169321,
-      "word": "张柏芝紫色长裙随拍",
-      "onboard_time": 1668939326,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 165338,
       "num": 112058,
       "word": "杨洋黑西装拍摄花絮",
@@ -1281,6 +1313,14 @@
       "onboard_time": 1668876443,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 164250,
+      "num": 164250,
+      "word": "男子用矿泉水瓶给流浪猫做猫窝",
+      "onboard_time": 1668937288,
+      "rank": 42,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 163018,
@@ -1387,6 +1427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 140600,
+      "num": 140600,
+      "word": "广西一醉汉偷开警车撞伤三轮车司机",
+      "onboard_time": 1668940467,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 139942,
       "num": 139942,
       "word": "2022杭州马拉松开跑",
@@ -1401,6 +1449,14 @@
       "onboard_time": 1668928105,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 136883,
+      "num": 136883,
+      "word": "马拉多纳会保佑梅西夺冠",
+      "onboard_time": 1668939628,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 136184,
@@ -1435,14 +1491,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 126678,
-      "num": 126678,
-      "word": "男子用矿泉水瓶给流浪猫做猫窝",
-      "onboard_time": 1668937288,
-      "rank": 42,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 125681,
       "num": 125681,
       "word": "女子称荒地露营1天内被村民收费4次",
@@ -1465,14 +1513,6 @@
       "onboard_time": 1668920127,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 118362,
-      "num": 118362,
-      "word": "马拉多纳会保佑梅西夺冠",
-      "onboard_time": 1668939628,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 117494,
@@ -1563,6 +1603,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 105400,
+      "num": 105400,
+      "word": "花得最开心的一块钱",
+      "onboard_time": 1668939506,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 101762,
       "num": 101762,
       "word": "世界杯预测",
@@ -1577,6 +1625,14 @@
       "onboard_time": 1668866914,
       "rank": 38,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 99018,
+      "num": 99018,
+      "word": "原来仓鼠也会爬墙",
+      "onboard_time": 1668940347,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 98784,
