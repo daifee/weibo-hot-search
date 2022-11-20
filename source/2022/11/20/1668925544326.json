@@ -1,0 +1,410 @@
+{
+  "runTime": 1668925544326,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1426798,
+        "num": 1426798,
+        "word": "男子出车祸600私了6天后大出血死亡",
+        "onboard_time": 1668923787,
+        "rank": 0,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1411973,
+        "num": 1411973,
+        "word": "初中生花900元文身清洗要6万",
+        "onboard_time": 1668919647,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 6001,
+        "num": 1290202,
+        "word": "高清回顾神十四第3次出舱任务",
+        "onboard_time": 1668863912,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1222354,
+        "num": 1222354,
+        "word": "武汉疫情防控",
+        "onboard_time": 1668924326,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 714852,
+        "num": 714852,
+        "word": "宋雨琦因状态不佳缺席今日签售活动",
+        "onboard_time": 1668920006,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 714292,
+        "num": 714292,
+        "word": "王鹤棣又跳Gwalla",
+        "onboard_time": 1668920845,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 422698,
+        "num": 422698,
+        "word": "李峋出狱预告",
+        "onboard_time": 1668919706,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 311735,
+        "num": 311735,
+        "word": "顾客为抢免费猪肉大包排队2小时",
+        "onboard_time": 1668919527,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300739,
+        "num": 300739,
+        "word": "婚车车队占满3车道不让超车",
+        "onboard_time": 1668919527,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299948,
+        "num": 299948,
+        "word": "轻伤二级",
+        "onboard_time": 1668924445,
+        "rank": 9,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 737615,
+        "num": 298806,
+        "word": "北京新增一例死亡病例",
+        "onboard_time": 1668905066,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 417446,
+        "num": 298224,
+        "word": "为什么越来越多人开倍速追剧",
+        "onboard_time": 1668911670,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 553106,
+        "num": 297301,
+        "word": "95后四小花首轮推荐结果",
+        "onboard_time": 1668922527,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 404832,
+        "num": 295095,
+        "word": "陈飞宇片场勾张婧仪下巴",
+        "onboard_time": 1668921207,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 294656,
+        "num": 294656,
+        "word": "世界杯",
+        "onboard_time": 1668907471,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 392334,
+        "num": 292576,
+        "word": "警方通报一女子在公厕被人殴打",
+        "onboard_time": 1668912749,
+        "rank": 15,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 285106,
+        "num": 285106,
+        "word": "妹妹打针哭泣3岁哥哥抱头安慰",
+        "onboard_time": 1668921147,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275730,
+        "num": 275730,
+        "word": "两公羊争斗迎头相撞一只当场死亡",
+        "onboard_time": 1668915627,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229119,
+        "num": 229119,
+        "word": "美典当行将日军侵华罪行相册捐给中国",
+        "onboard_time": 1668917425,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194421,
+        "num": 194421,
+        "word": "剖腹产黑猩猩首次见娃抱紧呜咽",
+        "onboard_time": 1668918747,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348129,
+        "num": 193236,
+        "word": "田柾国卡塔尔世界杯主题曲MV预告",
+        "onboard_time": 1668923127,
+        "rank": 20,
+        "category": "音乐,体育"
+      },
+      {
+        "raw_hot": 306729,
+        "num": 190171,
+        "word": "没想到对一只狐狸心动了",
+        "onboard_time": 1668921627,
+        "rank": 21,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 294287,
+        "num": 186046,
+        "word": "点燃我温暖你希望大家理性追剧",
+        "onboard_time": 1668923905,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 176103,
+        "num": 176103,
+        "word": "求求你陪狗玩一会吧",
+        "onboard_time": 1668921927,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 171159,
+        "num": 171159,
+        "word": "男子养儿10年发现非亲生起诉前妻",
+        "onboard_time": 1668908487,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170288,
+        "num": 170288,
+        "word": "小伙单手拿几十万现金站马路墩子上",
+        "onboard_time": 1668916226,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165574,
+        "num": 165574,
+        "word": "仙气乐蕴",
+        "onboard_time": 1668919166,
+        "rank": 26,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 155335,
+        "num": 155335,
+        "word": "无畏高情商发言",
+        "onboard_time": 1668920786,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 154449,
+        "num": 154449,
+        "word": "景区猴子拿金箍棒装齐天大圣",
+        "onboard_time": 1668922527,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145986,
+        "num": 145986,
+        "word": "北方女子南方点外卖遇巴掌大炒饭",
+        "onboard_time": 1668909330,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263077,
+        "num": 145217,
+        "word": "邓超让鹿晗给他一个解释",
+        "onboard_time": 1668908610,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 177293,
+        "num": 140380,
+        "word": "NCTDREAM新歌Candy抢听",
+        "onboard_time": 1668925105,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 169593,
+        "num": 138328,
+        "word": "张元英发带造型",
+        "onboard_time": 1668920426,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 157303,
+        "num": 134342,
+        "word": "金智秀卡妹合作舞台彩排",
+        "onboard_time": 1668914066,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 154194,
+        "num": 131041,
+        "word": "2父亲因炫耀孩子大打出手",
+        "onboard_time": 1668924687,
+        "rank": 34,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 130273,
+        "num": 130273,
+        "word": "在公厕被殴打女子回应",
+        "onboard_time": 1668925167,
+        "rank": 35,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 126882,
+        "num": 126882,
+        "word": "金球奖得主44年来首次无缘世界杯",
+        "onboard_time": 1668913409,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120689,
+        "num": 120689,
+        "word": "货车隧道翻车2000只鸭子四散逃窜",
+        "onboard_time": 1668920127,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118616,
+        "num": 118616,
+        "word": "妈妈情绪崩溃萌娃哭着说我爱你",
+        "onboard_time": 1668910528,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115954,
+        "num": 115954,
+        "word": "卡塔尔世界杯创下多个第一次",
+        "onboard_time": 1668908910,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146862,
+        "num": 115757,
+        "word": "原来在河南随便吃一口都是非遗",
+        "onboard_time": 1668918086,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146306,
+        "num": 115220,
+        "word": "冯提莫足球衣六宫格随拍",
+        "onboard_time": 1668922945,
+        "rank": 41,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 111716,
+        "num": 111716,
+        "word": "轿车占车位男子叫叉车将其丢河里",
+        "onboard_time": 1668921385,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109271,
+        "num": 109271,
+        "word": "米饭的软硬度和啥有关",
+        "onboard_time": 1668922887,
+        "rank": 43,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 104214,
+        "num": 104214,
+        "word": "奶奶将1.5米粉红豹改成40厘米",
+        "onboard_time": 1668902484,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102459,
+        "num": 102459,
+        "word": "马斯克说将解封特朗普推特账号",
+        "onboard_time": 1668910409,
+        "rank": 45,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 97353,
+        "num": 97353,
+        "word": "广东新增本土无症状8381例",
+        "onboard_time": 1668907410,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148042,
+        "num": 96225,
+        "word": "龚俊川西大片",
+        "onboard_time": 1668925527,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 90358,
+        "num": 90358,
+        "word": "世界杯预测",
+        "onboard_time": 1668921328,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89810,
+        "num": 89810,
+        "word": "成都疫情防控",
+        "onboard_time": 1668900905,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#既提出中国主张又拿出中国行动#"
+    }
+  }
+}

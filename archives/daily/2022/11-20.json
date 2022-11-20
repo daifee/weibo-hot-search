@@ -1,6 +1,6 @@
 {
   "startTime": 1668875307469,
-  "endTime": 1668922540730,
+  "endTime": 1668925544326,
   "band_list": [
     {
       "raw_hot": 3531288,
@@ -43,6 +43,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1426798,
+      "num": 1426798,
+      "word": "男子出车祸600私了6天后大出血死亡",
+      "onboard_time": 1668923787,
+      "rank": 0,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 1411973,
+      "num": 1411973,
+      "word": "初中生花900元文身清洗要6万",
+      "onboard_time": 1668919647,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1372431,
       "num": 1372431,
       "word": "重庆市民可免费观看世界杯",
@@ -59,14 +75,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 1328189,
-      "num": 1328189,
-      "word": "初中生花900元文身清洗要6万",
-      "onboard_time": 1668919647,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1299883,
       "num": 234190,
       "word": "痞幼和陈飞宇合拍视频",
@@ -81,6 +89,14 @@
       "onboard_time": 1668911670,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1222354,
+      "num": 1222354,
+      "word": "武汉疫情防控",
+      "onboard_time": 1668924326,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 926164,
@@ -116,7 +132,7 @@
     },
     {
       "raw_hot": 802416,
-      "num": 349493,
+      "num": 714852,
       "word": "宋雨琦因状态不佳缺席今日签售活动",
       "onboard_time": 1668920006,
       "rank": 11,
@@ -147,6 +163,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 714292,
+      "num": 714292,
+      "word": "王鹤棣又跳Gwalla",
+      "onboard_time": 1668920845,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 698359,
       "num": 599397,
       "word": "李峋出狱预告",
@@ -161,14 +185,6 @@
       "onboard_time": 1668914009,
       "rank": 25,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 682656,
-      "num": 682656,
-      "word": "王鹤棣又跳Gwalla",
-      "onboard_time": 1668920845,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 682077,
@@ -233,6 +249,14 @@
       "onboard_time": 1668910409,
       "rank": 48,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 553106,
+      "num": 297301,
+      "word": "95后四小花首轮推荐结果",
+      "onboard_time": 1668922527,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 551674,
@@ -411,6 +435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 348129,
+      "num": 193236,
+      "word": "田柾国卡塔尔世界杯主题曲MV预告",
+      "onboard_time": 1668923127,
+      "rank": 20,
+      "category": "音乐,体育"
+    },
+    {
       "raw_hot": 344228,
       "num": 328530,
       "word": "参加韩版999选秀的中国选手",
@@ -515,6 +547,30 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 300739,
+      "num": 300739,
+      "word": "婚车车队占满3车道不让超车",
+      "onboard_time": 1668919527,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 299948,
+      "num": 299948,
+      "word": "轻伤二级",
+      "onboard_time": 1668924445,
+      "rank": 9,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 294287,
+      "num": 186046,
+      "word": "点燃我温暖你希望大家理性追剧",
+      "onboard_time": 1668923905,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 294110,
       "num": 223819,
       "word": "原来在河南随便吃一口都是非遗",
@@ -563,6 +619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 285106,
+      "num": 285106,
+      "word": "妹妹打针哭泣3岁哥哥抱头安慰",
+      "onboard_time": 1668921147,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 282236,
       "num": 282236,
       "word": "女生卖热奶宝7元1个15元俩",
@@ -585,14 +649,6 @@
       "onboard_time": 1668913409,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 256689,
-      "num": 256689,
-      "word": "婚车车队占满3车道不让超车",
-      "onboard_time": 1668919527,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 254619,
@@ -676,7 +732,7 @@
     },
     {
       "raw_hot": 210842,
-      "num": 130635,
+      "num": 138328,
       "word": "张元英发带造型",
       "onboard_time": 1668920426,
       "rank": 34,
@@ -755,12 +811,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 177293,
+      "num": 140380,
+      "word": "NCTDREAM新歌Candy抢听",
+      "onboard_time": 1668925105,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 177072,
       "num": 177072,
       "word": "北京朝阳说希望明天大家继续宅一宅",
       "onboard_time": 1668853826,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 176103,
+      "num": 176103,
+      "word": "求求你陪狗玩一会吧",
+      "onboard_time": 1668921927,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 173741,
@@ -785,14 +857,6 @@
       "onboard_time": 1668869430,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 166035,
-      "num": 85041,
-      "word": "95后四小花首轮推荐结果",
-      "onboard_time": 1668922527,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 164547,
@@ -835,6 +899,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 154449,
+      "num": 154449,
+      "word": "景区猴子拿金箍棒装齐天大圣",
+      "onboard_time": 1668922527,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 154194,
+      "num": 131041,
+      "word": "2父亲因炫耀孩子大打出手",
+      "onboard_time": 1668924687,
+      "rank": 34,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 151572,
       "num": 151572,
       "word": "猫猫教的入教仪式",
@@ -859,12 +939,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 148042,
+      "num": 96225,
+      "word": "龚俊川西大片",
+      "onboard_time": 1668925527,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 146778,
       "num": 146778,
       "word": "大学标语把物理给我讲明白了",
       "onboard_time": 1668907471,
       "rank": 39,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 146306,
+      "num": 115220,
+      "word": "冯提莫足球衣六宫格随拍",
+      "onboard_time": 1668922945,
+      "rank": 41,
+      "category": "体育,网红"
     },
     {
       "raw_hot": 145822,
@@ -931,6 +1027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 130273,
+      "num": 130273,
+      "word": "在公厕被殴打女子回应",
+      "onboard_time": 1668925167,
+      "rank": 35,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 130034,
       "num": 130034,
       "word": "瘸腿流浪汉钱被拿一跃而起放狠话",
@@ -947,16 +1051,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 121878,
-      "num": 121878,
-      "word": "妹妹打针哭泣3岁哥哥抱头安慰",
-      "onboard_time": 1668921147,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 118059,
-      "num": 118059,
+      "raw_hot": 120689,
+      "num": 120689,
       "word": "货车隧道翻车2000只鸭子四散逃窜",
       "onboard_time": 1668920127,
       "rank": 40,
@@ -969,6 +1065,14 @@
       "onboard_time": 1668913284,
       "rank": 48,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 111716,
+      "num": 111716,
+      "word": "轿车占车位男子叫叉车将其丢河里",
+      "onboard_time": 1668921385,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 110601,
@@ -1001,6 +1105,14 @@
       "onboard_time": 1668850528,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 109271,
+      "num": 109271,
+      "word": "米饭的软硬度和啥有关",
+      "onboard_time": 1668922887,
+      "rank": 43,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 108657,
@@ -1043,14 +1155,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 96445,
-      "num": 96445,
-      "word": "轿车占车位男子叫叉车将其丢河里",
-      "onboard_time": 1668921385,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 94459,
       "num": 94459,
       "word": "你还有随时可以打扰的人吗",
@@ -1083,14 +1187,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 91075,
-      "num": 91075,
-      "word": "求求你陪狗玩一会吧",
-      "onboard_time": 1668921927,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 85480,
       "num": 85480,
       "word": "一起看2022世界杯",
@@ -1104,14 +1200,6 @@
       "word": "被传白天救狗晚上卖狗当事人发声",
       "onboard_time": 1668859293,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 83808,
-      "num": 83808,
-      "word": "景区猴子拿金箍棒装齐天大圣",
-      "onboard_time": 1668922527,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
