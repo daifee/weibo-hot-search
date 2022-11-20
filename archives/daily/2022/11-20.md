@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/20 00:28:27 ~ 2022/11/20 13:18:55
+本榜单时间：2022/11/20 00:28:27 ~ 2022/11/20 13:35:40
 </p>
 </blockquote>
 <p>
@@ -57,6 +57,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%9D%E4%B8%AD%E7%94%9F%E8%8A%B1900%E5%85%83%E6%96%87%E8%BA%AB%E6%B8%85%E6%B4%97%E8%A6%816%E4%B8%87%23" target="weibo">
+初中生花900元文身清洗要6万（热度：1328189）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%97%9E%E5%B9%BC%E5%92%8C%E9%99%88%E9%A3%9E%E5%AE%87%E5%90%88%E6%8B%8D%E8%A7%86%E9%A2%91%23" target="weibo">
 痞幼和陈飞宇合拍视频（热度：1299883）
 </a>
@@ -93,14 +99,8 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%9D%E4%B8%AD%E7%94%9F%E8%8A%B1900%E5%85%83%E6%96%87%E8%BA%AB%E6%B8%85%E6%B4%97%E8%A6%816%E4%B8%87%23" target="weibo">
-初中生花900元文身清洗要6万（热度：859916）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E9%9B%A8%E7%90%A6%E5%9B%A0%E7%8A%B6%E6%80%81%E4%B8%8D%E4%BD%B3%E7%BC%BA%E5%B8%AD%E4%BB%8A%E6%97%A5%E7%AD%BE%E5%94%AE%E6%B4%BB%E5%8A%A8%23" target="weibo">
-宋雨琦因状态不佳缺席今日签售活动（热度：793766）
+宋雨琦因状态不佳缺席今日签售活动（热度：802416）
 </a>
 </li>
 
@@ -131,6 +131,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%87%AF%E6%AD%8C%E8%AF%B4%E9%99%88%E9%A3%9E%E5%AE%87%E6%98%AF%E6%9E%81%E7%AB%AF%E7%9A%84%E5%AE%8C%E7%BE%8E%E4%B8%BB%E4%B9%89%E8%80%85%23" target="weibo">
 陈凯歌说陈飞宇是极端的完美主义者（热度：687953）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%8F%88%E8%B7%B3Gwalla%23" target="weibo">
+王鹤棣又跳Gwalla（热度：682656）
 </a>
 </li>
 
@@ -201,12 +207,6 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%8F%88%E8%B7%B3Gwalla%23" target="weibo">
-王鹤棣又跳Gwalla（热度：508003）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E6%99%9A%E7%9C%9F%E7%9A%84%E7%88%B7%E9%9D%92%E5%9B%9E%23" target="weibo">
 今晚真的爷青回（热度：486679）
 </a>
@@ -273,20 +273,26 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%AE%A2%E4%B8%BA%E6%8A%A2%E5%85%8D%E8%B4%B9%E7%8C%AA%E8%82%89%E5%A4%A7%E5%8C%85%E6%8E%92%E9%98%9F2%E5%B0%8F%E6%97%B6%23" target="weibo">
+顾客为抢免费猪肉大包排队2小时（热度：387404）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%906200%E5%85%83%E5%8F%98%E5%8D%96%E9%97%BA%E8%9C%9C%E6%89%8B%E6%9C%BA%E6%8A%A5%E8%AD%A6%E7%A7%B0%E8%A2%AB%E6%8A%A2%23" target="weibo">
 女子6200元变卖闺蜜手机报警称被抢（热度：380656）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%9D%AF%23" target="weibo">
-世界杯（热度：367497）
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%85%B8%E5%BD%93%E8%A1%8C%E5%B0%86%E6%97%A5%E5%86%9B%E4%BE%B5%E5%8D%8E%E7%BD%AA%E8%A1%8C%E7%9B%B8%E5%86%8C%E6%8D%90%E7%BB%99%E4%B8%AD%E5%9B%BD%23" target="weibo">
+美典当行将日军侵华罪行相册捐给中国（热度：370260）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%85%B8%E5%BD%93%E8%A1%8C%E5%B0%86%E6%97%A5%E5%86%9B%E4%BE%B5%E5%8D%8E%E7%BD%AA%E8%A1%8C%E7%9B%B8%E5%86%8C%E6%8D%90%E7%BB%99%E4%B8%AD%E5%9B%BD%23" target="weibo">
-美典当行将日军侵华罪行相册捐给中国（热度：367160）
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%9D%AF%23" target="weibo">
+世界杯（热度：367497）
 </a>
 </li>
 
@@ -299,12 +305,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A0%E5%B0%BD%E5%A4%8F%23" target="weibo">
 无尽夏（热度：362740）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%AE%A2%E4%B8%BA%E6%8A%A2%E5%85%8D%E8%B4%B9%E7%8C%AA%E8%82%89%E5%A4%A7%E5%8C%85%E6%8E%92%E9%98%9F2%E5%B0%8F%E6%97%B6%23" target="weibo">
-顾客为抢免费猪肉大包排队2小时（热度：355251）
 </a>
 </li>
 
@@ -359,6 +359,18 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD%E4%B8%8B%E6%9C%9F%E8%87%B4%E6%95%AC%E4%B8%AD%E5%9B%BD%E5%8A%A8%E7%94%BB%E7%99%BE%E5%B9%B4%23" target="weibo">
 你好星期六下期致敬中国动画百年（热度：323994）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%89%96%E8%85%B9%E4%BA%A7%E9%BB%91%E7%8C%A9%E7%8C%A9%E9%A6%96%E6%AC%A1%E8%A7%81%E5%A8%83%E6%8A%B1%E7%B4%A7%E5%91%9C%E5%92%BD%23" target="weibo">
+剖腹产黑猩猩首次见娃抱紧呜咽（热度：321362）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B2%A1%E6%83%B3%E5%88%B0%E5%AF%B9%E4%B8%80%E5%8F%AA%E7%8B%90%E7%8B%B8%E5%BF%83%E5%8A%A8%E4%BA%86%23" target="weibo">
+没想到对一只狐狸心动了（热度：316527）
 </a>
 </li>
 
@@ -441,20 +453,14 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%89%96%E8%85%B9%E4%BA%A7%E9%BB%91%E7%8C%A9%E7%8C%A9%E9%A6%96%E6%AC%A1%E8%A7%81%E5%A8%83%E6%8A%B1%E7%B4%A7%E5%91%9C%E5%92%BD%23" target="weibo">
-剖腹产黑猩猩首次见娃抱紧呜咽（热度：258988）
+<a href="https://s.weibo.com/weibo?q=%23%E5%A9%9A%E8%BD%A6%E8%BD%A6%E9%98%9F%E5%8D%A0%E6%BB%A13%E8%BD%A6%E9%81%93%E4%B8%8D%E8%AE%A9%E8%B6%85%E8%BD%A6%23" target="weibo">
+婚车车队占满3车道不让超车（热度：256689）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%A1%E6%85%95%E7%8E%8B%E5%8B%89%23" target="weibo">
 羡慕王勉（热度：254619）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A9%9A%E8%BD%A6%E8%BD%A6%E9%98%9F%E5%8D%A0%E6%BB%A13%E8%BD%A6%E9%81%93%E4%B8%8D%E8%AE%A9%E8%B6%85%E8%BD%A6%23" target="weibo">
-婚车车队占满3车道不让超车（热度：243874）
 </a>
 </li>
 
@@ -561,6 +567,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%99%E6%B0%94%E4%B9%90%E8%95%B4%23" target="weibo">
+仙气乐蕴（热度：181259）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2311%E6%9C%8819%E6%97%A5%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E6%97%A0%E7%97%87%E7%8A%B622011%E4%BE%8B%23" target="weibo">
 11月19日新增本土无症状22011例（热度：179226）
 </a>
@@ -591,6 +603,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2395%E5%90%8E%E5%9B%9B%E5%B0%8F%E8%8A%B1%E9%A6%96%E8%BD%AE%E6%8E%A8%E8%8D%90%E7%BB%93%E6%9E%9C%23" target="weibo">
+95后四小花首轮推荐结果（热度：166035）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A2%84%E8%A8%80%E5%AE%B6%E5%B7%B2%E4%B8%8A%E7%BA%BF%23" target="weibo">
 世界杯预言家已上线（热度：164547）
 </a>
@@ -603,8 +621,8 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BB%99%E6%B0%94%E4%B9%90%E8%95%B4%23" target="weibo">
-仙气乐蕴（热度：162482）
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A0%E7%95%8F%E9%AB%98%E6%83%85%E5%95%86%E5%8F%91%E8%A8%80%23" target="weibo">
+无畏高情商发言（热度：158962）
 </a>
 </li>
 
@@ -705,6 +723,18 @@ Kpop视角看世界杯（热度：130705）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A6%B9%E5%A6%B9%E6%89%93%E9%92%88%E5%93%AD%E6%B3%A33%E5%B2%81%E5%93%A5%E5%93%A5%E6%8A%B1%E5%A4%B4%E5%AE%89%E6%85%B0%23" target="weibo">
+妹妹打针哭泣3岁哥哥抱头安慰（热度：121878）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B4%A7%E8%BD%A6%E9%9A%A7%E9%81%93%E7%BF%BB%E8%BD%A62000%E5%8F%AA%E9%B8%AD%E5%AD%90%E5%9B%9B%E6%95%A3%E9%80%83%E7%AA%9C%23" target="weibo">
+货车隧道翻车2000只鸭子四散逃窜（热度：118059）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AE%A1%E6%B2%B9%E8%83%9C%E5%A4%BA%E6%88%90%E9%83%BD%E9%A9%AC%E6%8B%89%E6%9D%BE%E7%94%B7%E5%AD%90%E5%86%A0%E5%86%9B%23" target="weibo">
 管油胜夺成都马拉松男子冠军（热度：114293）
 </a>
@@ -747,14 +777,14 @@ KPL（热度：108657）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E7%BB%A9%E8%BF%9B%E6%AD%A5%E7%8F%AD%E4%B8%BB%E4%BB%BB%E8%AF%B7%E5%85%A8%E7%8F%AD62%E4%BA%BA%E5%90%83%E9%B8%A1%E8%85%BF%23" target="weibo">
-成绩进步班主任请全班62人吃鸡腿（热度：100231）
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A2%84%E6%B5%8B%23" target="weibo">
+世界杯预测（热度：101762）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B4%A7%E8%BD%A6%E9%9A%A7%E9%81%93%E7%BF%BB%E8%BD%A62000%E5%8F%AA%E9%B8%AD%E5%AD%90%E5%9B%9B%E6%95%A3%E9%80%83%E7%AA%9C%23" target="weibo">
-货车隧道翻车2000只鸭子四散逃窜（热度：98675）
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E7%BB%A9%E8%BF%9B%E6%AD%A5%E7%8F%AD%E4%B8%BB%E4%BB%BB%E8%AF%B7%E5%85%A8%E7%8F%AD62%E4%BA%BA%E5%90%83%E9%B8%A1%E8%85%BF%23" target="weibo">
+成绩进步班主任请全班62人吃鸡腿（热度：100231）
 </a>
 </li>
 
@@ -765,8 +795,8 @@ KPL（热度：108657）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A0%E7%95%8F%E9%AB%98%E6%83%85%E5%95%86%E5%8F%91%E8%A8%80%23" target="weibo">
-无畏高情商发言（热度：94529）
+<a href="https://s.weibo.com/weibo?q=%23%E8%BD%BF%E8%BD%A6%E5%8D%A0%E8%BD%A6%E4%BD%8D%E7%94%B7%E5%AD%90%E5%8F%AB%E5%8F%89%E8%BD%A6%E5%B0%86%E5%85%B6%E4%B8%A2%E6%B2%B3%E9%87%8C%23" target="weibo">
+轿车占车位男子叫叉车将其丢河里（热度：96445）
 </a>
 </li>
 
@@ -795,14 +825,8 @@ KPL（热度：108657）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A6%B9%E5%A6%B9%E6%89%93%E9%92%88%E5%93%AD%E6%B3%A33%E5%B2%81%E5%93%A5%E5%93%A5%E6%8A%B1%E5%A4%B4%E5%AE%89%E6%85%B0%23" target="weibo">
-妹妹打针哭泣3岁哥哥抱头安慰（热度：88711）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BD%BF%E8%BD%A6%E5%8D%A0%E8%BD%A6%E4%BD%8D%E7%94%B7%E5%AD%90%E5%8F%AB%E5%8F%89%E8%BD%A6%E5%B0%86%E5%85%B6%E4%B8%A2%E6%B2%B3%E9%87%8C%23" target="weibo">
-轿车占车位男子叫叉车将其丢河里（热度：87204）
+<a href="https://s.weibo.com/weibo?q=%23%E6%B1%82%E6%B1%82%E4%BD%A0%E9%99%AA%E7%8B%97%E7%8E%A9%E4%B8%80%E4%BC%9A%E5%90%A7%23" target="weibo">
+求求你陪狗玩一会吧（热度：91075）
 </a>
 </li>
 
@@ -819,8 +843,14 @@ KPL（热度：108657）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A2%84%E6%B5%8B%23" target="weibo">
-世界杯预测（热度：81596）
+<a href="https://s.weibo.com/weibo?q=%23%E6%99%AF%E5%8C%BA%E7%8C%B4%E5%AD%90%E6%8B%BF%E9%87%91%E7%AE%8D%E6%A3%92%E8%A3%85%E9%BD%90%E5%A4%A9%E5%A4%A7%E5%9C%A3%23" target="weibo">
+景区猴子拿金箍棒装齐天大圣（热度：83808）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%2320%E5%B9%B4%E5%89%8D%E6%88%91%E4%BB%AC%E7%9C%8B%E5%9B%BD%E8%B6%B3%E8%B8%A2%E4%B8%96%E7%95%8C%E6%9D%AF%23" target="weibo">
+20年前我们看国足踢世界杯（热度：83616）
 </a>
 </li>
 

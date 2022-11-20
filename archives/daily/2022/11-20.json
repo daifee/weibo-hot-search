@@ -1,6 +1,6 @@
 {
   "startTime": 1668875307469,
-  "endTime": 1668921535363,
+  "endTime": 1668922540730,
   "band_list": [
     {
       "raw_hot": 3531288,
@@ -59,6 +59,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 1328189,
+      "num": 1328189,
+      "word": "初中生花900元文身清洗要6万",
+      "onboard_time": 1668919647,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1299883,
       "num": 234190,
       "word": "痞幼和陈飞宇合拍视频",
@@ -107,15 +115,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 859916,
-      "num": 859916,
-      "word": "初中生花900元文身清洗要6万",
-      "onboard_time": 1668919647,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 793766,
+      "raw_hot": 802416,
       "num": 349493,
       "word": "宋雨琦因状态不佳缺席今日签售活动",
       "onboard_time": 1668920006,
@@ -148,7 +148,7 @@
     },
     {
       "raw_hot": 698359,
-      "num": 456067,
+      "num": 599397,
       "word": "李峋出狱预告",
       "onboard_time": 1668919706,
       "rank": 6,
@@ -156,11 +156,19 @@
     },
     {
       "raw_hot": 687953,
-      "num": 316193,
+      "num": 321718,
       "word": "陈凯歌说陈飞宇是极端的完美主义者",
       "onboard_time": 1668914009,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 682656,
+      "num": 682656,
+      "word": "王鹤棣又跳Gwalla",
+      "onboard_time": 1668920845,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 682077,
@@ -251,14 +259,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 508003,
-      "num": 342626,
-      "word": "王鹤棣又跳Gwalla",
-      "onboard_time": 1668920845,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 486679,
       "num": 229142,
       "word": "今晚真的爷青回",
@@ -347,11 +347,27 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 387404,
+      "num": 387404,
+      "word": "顾客为抢免费猪肉大包排队2小时",
+      "onboard_time": 1668919527,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 380656,
       "num": 380656,
       "word": "女子6200元变卖闺蜜手机报警称被抢",
       "onboard_time": 1668882316,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 370260,
+      "num": 370260,
+      "word": "美典当行将日军侵华罪行相册捐给中国",
+      "onboard_time": 1668917425,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -361,14 +377,6 @@
       "onboard_time": 1668907471,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 367160,
-      "num": 335549,
-      "word": "美典当行将日军侵华罪行相册捐给中国",
-      "onboard_time": 1668917425,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 363119,
@@ -385,14 +393,6 @@
       "onboard_time": 1668870813,
       "rank": 23,
       "category": "其它"
-    },
-    {
-      "raw_hot": 355251,
-      "num": 355251,
-      "word": "顾客为抢免费猪肉大包排队2小时",
-      "onboard_time": 1668919527,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 354035,
@@ -465,6 +465,22 @@
       "onboard_time": 1668872192,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 321362,
+      "num": 321362,
+      "word": "剖腹产黑猩猩首次见娃抱紧呜咽",
+      "onboard_time": 1668918747,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 316527,
+      "num": 200976,
+      "word": "没想到对一只狐狸心动了",
+      "onboard_time": 1668921627,
+      "rank": 20,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 316123,
@@ -571,11 +587,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 258988,
-      "num": 258988,
-      "word": "剖腹产黑猩猩首次见娃抱紧呜咽",
-      "onboard_time": 1668918747,
-      "rank": 36,
+      "raw_hot": 256689,
+      "num": 256689,
+      "word": "婚车车队占满3车道不让超车",
+      "onboard_time": 1668919527,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -585,14 +601,6 @@
       "onboard_time": 1668863850,
       "rank": 31,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 243874,
-      "num": 243874,
-      "word": "婚车车队占满3车道不让超车",
-      "onboard_time": 1668919527,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 241725,
@@ -652,7 +660,7 @@
     },
     {
       "raw_hot": 212396,
-      "num": 119668,
+      "num": 133298,
       "word": "周杰伦哥友会高清纯享版上线",
       "onboard_time": 1668918562,
       "rank": 41,
@@ -668,7 +676,7 @@
     },
     {
       "raw_hot": 210842,
-      "num": 118090,
+      "num": 130635,
       "word": "张元英发带造型",
       "onboard_time": 1668920426,
       "rank": 34,
@@ -731,6 +739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 181259,
+      "num": 181259,
+      "word": "仙气乐蕴",
+      "onboard_time": 1668919166,
+      "rank": 45,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 179226,
       "num": 179226,
       "word": "11月19日新增本土无症状22011例",
@@ -771,6 +787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 166035,
+      "num": 85041,
+      "word": "95后四小花首轮推荐结果",
+      "onboard_time": 1668922527,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 164547,
       "num": 164547,
       "word": "世界杯预言家已上线",
@@ -787,12 +811,12 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 162482,
-      "num": 162482,
-      "word": "仙气乐蕴",
-      "onboard_time": 1668919166,
-      "rank": 45,
-      "category": "社会负面"
+      "raw_hot": 158962,
+      "num": 158962,
+      "word": "无畏高情商发言",
+      "onboard_time": 1668920786,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 158081,
@@ -923,6 +947,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 121878,
+      "num": 121878,
+      "word": "妹妹打针哭泣3岁哥哥抱头安慰",
+      "onboard_time": 1668921147,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 118059,
+      "num": 118059,
+      "word": "货车隧道翻车2000只鸭子四散逃窜",
+      "onboard_time": 1668920127,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 114293,
       "num": 114293,
       "word": "管油胜夺成都马拉松男子冠军",
@@ -979,20 +1019,20 @@
       "category": "科技"
     },
     {
+      "raw_hot": 101762,
+      "num": 101762,
+      "word": "世界杯预测",
+      "onboard_time": 1668921328,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 100231,
       "num": 100231,
       "word": "成绩进步班主任请全班62人吃鸡腿",
       "onboard_time": 1668866914,
       "rank": 38,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 98675,
-      "num": 98675,
-      "word": "货车隧道翻车2000只鸭子四散逃窜",
-      "onboard_time": 1668920127,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 98491,
@@ -1003,12 +1043,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 94529,
-      "num": 94529,
-      "word": "无畏高情商发言",
-      "onboard_time": 1668920786,
-      "rank": 42,
-      "category": "游戏"
+      "raw_hot": 96445,
+      "num": 96445,
+      "word": "轿车占车位男子叫叉车将其丢河里",
+      "onboard_time": 1668921385,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 94459,
@@ -1043,20 +1083,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 88711,
-      "num": 88711,
-      "word": "妹妹打针哭泣3岁哥哥抱头安慰",
-      "onboard_time": 1668921147,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 87204,
-      "num": 87204,
-      "word": "轿车占车位男子叫叉车将其丢河里",
-      "onboard_time": 1668921385,
-      "rank": 46,
-      "category": "社会新闻"
+      "raw_hot": 91075,
+      "num": 91075,
+      "word": "求求你陪狗玩一会吧",
+      "onboard_time": 1668921927,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 85480,
@@ -1075,10 +1107,18 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 81596,
-      "num": 81596,
-      "word": "世界杯预测",
-      "onboard_time": 1668921328,
+      "raw_hot": 83808,
+      "num": 83808,
+      "word": "景区猴子拿金箍棒装齐天大圣",
+      "onboard_time": 1668922527,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 83616,
+      "num": 83616,
+      "word": "20年前我们看国足踢世界杯",
+      "onboard_time": 1668922167,
       "rank": 49,
       "category": "体育"
     },

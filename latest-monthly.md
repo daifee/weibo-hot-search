@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/01 00:36:21 ~ 2022/11/20 13:18:55
+本榜单时间：2022/11/01 00:36:21 ~ 2022/11/20 13:35:40
 </p>
 </blockquote>
 <p>
@@ -1595,6 +1595,12 @@ Faker（热度：1632969）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8D%E5%86%8D%E5%88%A4%E5%AE%9A%E5%AF%86%E6%8E%A5%E7%9A%84%E5%AF%86%E6%8E%A5%23" target="weibo">
 不再判定密接的密接（热度：1328658）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%9D%E4%B8%AD%E7%94%9F%E8%8A%B1900%E5%85%83%E6%96%87%E8%BA%AB%E6%B8%85%E6%B4%97%E8%A6%816%E4%B8%87%23" target="weibo">
+初中生花900元文身清洗要6万（热度：1328189）
 </a>
 </li>
 
@@ -3387,12 +3393,6 @@ Kingen获FMVP（热度：869944）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%9D%E4%B8%AD%E7%94%9F%E8%8A%B1900%E5%85%83%E6%96%87%E8%BA%AB%E6%B8%85%E6%B4%97%E8%A6%816%E4%B8%87%23" target="weibo">
-初中生花900元文身清洗要6万（热度：859916）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E8%80%83%E8%AF%95%E4%BB%8E18%E5%88%86%E8%BF%9B%E6%AD%A5%E5%88%B060%E5%88%86%E7%88%B8%E7%88%B8%E6%91%86%E5%B8%AD%E5%BA%86%E7%A5%9D%23" target="weibo">
 男孩考试从18分进步到60分爸爸摆席庆祝（热度：857968）
 </a>
@@ -3729,6 +3729,12 @@ cheerup 弃剧（热度：822139）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E9%9B%A8%E7%90%A6%E5%9B%A0%E7%8A%B6%E6%80%81%E4%B8%8D%E4%BD%B3%E7%BC%BA%E5%B8%AD%E4%BB%8A%E6%97%A5%E7%AD%BE%E5%94%AE%E6%B4%BB%E5%8A%A8%23" target="weibo">
+宋雨琦因状态不佳缺席今日签售活动（热度：802416）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A6%BB%E5%AD%90%E4%B8%B4%E4%BA%A7%E4%B8%88%E5%A4%AB%E8%AE%A2%E8%8A%B1%E5%AF%84%E8%AF%AD%E4%B8%8D%E5%BF%85%E4%B8%BA%E6%AF%8D%E5%88%99%E5%88%9A%23" target="weibo">
 妻子临产丈夫订花寄语不必为母则刚（热度：801480）
 </a>
@@ -3779,12 +3785,6 @@ cheerup 弃剧（热度：822139）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AF%E5%89%AF%E6%80%BB%E8%A3%81%E5%B7%B2%E6%8B%85%E4%BB%BB%E4%B8%AD%E5%9B%BD%E8%81%94%E9%80%9A%E8%91%A3%E4%BA%8B%23" target="weibo">
 腾讯副总裁已担任中国联通董事（热度：793830）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E9%9B%A8%E7%90%A6%E5%9B%A0%E7%8A%B6%E6%80%81%E4%B8%8D%E4%BD%B3%E7%BC%BA%E5%B8%AD%E4%BB%8A%E6%97%A5%E7%AD%BE%E5%94%AE%E6%B4%BB%E5%8A%A8%23" target="weibo">
-宋雨琦因状态不佳缺席今日签售活动（热度：793766）
 </a>
 </li>
 
@@ -4667,6 +4667,12 @@ T1对战DRX（热度：692544）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E5%B8%A6%E7%94%B7%E7%AB%A5%E8%BF%9B%E5%A5%B3%E6%B5%B4%E5%AE%A4%E9%81%AD%E6%8A%95%E8%AF%89%E5%8F%8D%E4%B8%8D%E6%BB%A1%23" target="weibo">
 妈妈带男童进女浴室遭投诉反不满（热度：682980）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%8F%88%E8%B7%B3Gwalla%23" target="weibo">
+王鹤棣又跳Gwalla（热度：682656）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ C罗炮轰曼联（热度：578960）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%95%86%E6%88%B7%E5%9B%A0%E4%BD%93%E6%B8%A9%E6%9E%AA%E6%B2%A1%E7%94%B5%E8%A2%AB%E8%A6%81%E6%B1%82%E5%81%9C%E4%B8%9A1%E5%A4%A9%23" target="weibo">
 商户因体温枪没电被要求停业1天（热度：569745）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8D%81%E5%9B%9B%E4%BA%BF%E4%BA%BA%E9%87%8C%E6%8C%91%E4%B8%8D%E5%87%BA%E5%A5%BD%E7%90%83%E5%91%98%23" target="weibo">
-为什么十四亿人里挑不出好球员（热度：569250）
 </a>
 </li>
 
