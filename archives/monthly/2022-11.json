@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1668969624217,
+  "endTime": 1668971774015,
   "band_list": [
     {
       "raw_hot": 10543272,
@@ -30683,6 +30683,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 151876,
+      "num": 151876,
+      "word": "世界杯东道主揭幕战92年首败",
+      "onboard_time": 1668968116,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 151787,
       "num": 151787,
       "word": "流浪猫在CBD拥有豪华猫舍引关注",
@@ -34339,6 +34347,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 125052,
+      "num": 125052,
+      "word": "FIFA世界杯",
+      "onboard_time": 1668971413,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 125037,
       "num": 125037,
       "word": "柯南万圣节的新娘观后感",
@@ -35121,14 +35137,6 @@
       "onboard_time": 1668237089,
       "rank": 36,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 119012,
-      "num": 119012,
-      "word": "世界杯东道主揭幕战92年首败",
-      "onboard_time": 1668968116,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 118881,
@@ -41355,6 +41363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 63017,
+      "num": 63017,
+      "word": "世界杯 唱歌",
+      "onboard_time": 1668967937,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 62953,
       "num": 62953,
       "word": "背不出课文时你有哪些绝招",
@@ -41593,14 +41609,6 @@
       "onboard_time": 1667266106,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 58802,
-      "num": 58802,
-      "word": "世界杯 唱歌",
-      "onboard_time": 1668967937,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 58493,
@@ -42219,6 +42227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 38714,
+      "num": 38714,
+      "word": "世界杯历史上东道主首战从未输球",
+      "onboard_time": 1668970395,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 37244,
       "num": 37244,
       "word": "AC米兰4比0萨尔茨堡红牛",
@@ -42377,6 +42393,14 @@
       "onboard_time": 1668008964,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 32586,
+      "num": 32586,
+      "word": "刘维何超莲下班就解散的友情",
+      "onboard_time": 1668963507,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 32134,
