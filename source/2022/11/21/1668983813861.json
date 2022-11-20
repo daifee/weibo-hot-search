@@ -1,0 +1,410 @@
+{
+  "runTime": 1668983813861,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 725819,
+        "num": 725819,
+        "word": "卡塔尔vs厄瓜多尔",
+        "onboard_time": 1668949769,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 437228,
+        "num": 437228,
+        "word": "田柾国",
+        "onboard_time": 1668957578,
+        "rank": 1,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 49653,
+        "num": 359864,
+        "word": "卡塔尔世界杯有哪些中国元素",
+        "onboard_time": 1668952761,
+        "rank": 2,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 294447,
+        "num": 294447,
+        "word": "25岁小伙辞去公职去看世界杯",
+        "onboard_time": 1668960630,
+        "rank": 3,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 190405,
+        "num": 190405,
+        "word": "世界杯东道主揭幕战92年首败",
+        "onboard_time": 1668968116,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183247,
+        "num": 183247,
+        "word": "世界杯岳云鹏",
+        "onboard_time": 1668961226,
+        "rank": 5,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 178866,
+        "num": 178866,
+        "word": "不能在朋友圈分享的喜悦",
+        "onboard_time": 1668963025,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 144284,
+        "num": 144284,
+        "word": "头顶一块布 全球我最富",
+        "onboard_time": 1668959792,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122998,
+        "num": 122998,
+        "word": "实验用菌不生长被研究生怒批",
+        "onboard_time": 1668961468,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113705,
+        "num": 113705,
+        "word": "刘畊宏说C罗体脂率跟我差不多",
+        "onboard_time": 1668962665,
+        "rank": 9,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 231079,
+        "num": 111972,
+        "word": "女子备孕13年生龙凤胎取名天佑佑心",
+        "onboard_time": 1668955296,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160351,
+        "num": 105904,
+        "word": "世界杯历史上东道主首战从未输球",
+        "onboard_time": 1668970395,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158430,
+        "num": 95881,
+        "word": "妻子流产抑郁加重男子申请撤销婚姻",
+        "onboard_time": 1668942689,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125043,
+        "num": 92939,
+        "word": "李钟硕新冠检测出阳性反应",
+        "onboard_time": 1668960030,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89328,
+        "num": 89328,
+        "word": "卡塔尔0比2厄瓜多尔",
+        "onboard_time": 1668967818,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89053,
+        "num": 89053,
+        "word": "王冰冰自我介绍",
+        "onboard_time": 1668949109,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84779,
+        "num": 84779,
+        "word": "原来真有人装户外空调",
+        "onboard_time": 1668976451,
+        "rank": 16,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 79762,
+        "num": 79762,
+        "word": "厄瓜多尔门将长啥样",
+        "onboard_time": 1668968116,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 62647,
+        "num": 62647,
+        "word": "天空飘来好大的馄饨皮",
+        "onboard_time": 1668959672,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 57453,
+        "num": 57453,
+        "word": "卡塔尔世界杯第一粒进球",
+        "onboard_time": 1668965297,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 56539,
+        "num": 56539,
+        "word": "刘维何超莲下班就解散的友情",
+        "onboard_time": 1668963507,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 56273,
+        "num": 56273,
+        "word": "C罗梅西合影是PS的",
+        "onboard_time": 1668963145,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 55733,
+        "num": 55733,
+        "word": "北京加大全市统筹实行区自为战",
+        "onboard_time": 1668941128,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55380,
+        "num": 55380,
+        "word": "开幕式 没有夏奇拉",
+        "onboard_time": 1668962184,
+        "rank": 23,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 54842,
+        "num": 54842,
+        "word": "郑州通报4个月大女婴夭折",
+        "onboard_time": 1668938367,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48029,
+        "num": 48029,
+        "word": "重庆30元蔬菜包里有什么",
+        "onboard_time": 1668953369,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47903,
+        "num": 47903,
+        "word": "LWX",
+        "onboard_time": 1668953791,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 47111,
+        "num": 47111,
+        "word": "摩根弗里曼 手",
+        "onboard_time": 1668964461,
+        "rank": 27,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 46743,
+        "num": 46743,
+        "word": "江西16岁失联男孩已找到",
+        "onboard_time": 1668928105,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46428,
+        "num": 46428,
+        "word": "内马尔 帅",
+        "onboard_time": 1668949229,
+        "rank": 29,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 57429,
+        "num": 46386,
+        "word": "朝阳一小区半地下室供暖水泄露致2死",
+        "onboard_time": 1668943949,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45134,
+        "num": 45134,
+        "word": "管泽元 世界杯",
+        "onboard_time": 1668963145,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43309,
+        "num": 43309,
+        "word": "世界杯开幕式",
+        "onboard_time": 1668950128,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 39333,
+        "num": 39333,
+        "word": "财阀家的小儿子 重生爽文",
+        "onboard_time": 1668950190,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 39285,
+        "num": 39285,
+        "word": "两个人为什么会慢慢走散",
+        "onboard_time": 1668957102,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 37181,
+        "num": 37181,
+        "word": "开幕式日本球迷",
+        "onboard_time": 1668959134,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 36286,
+        "num": 36286,
+        "word": "菅田将晖变样了",
+        "onboard_time": 1668946768,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35155,
+        "num": 35155,
+        "word": "马凡舒好美",
+        "onboard_time": 1668957940,
+        "rank": 37,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 32940,
+        "num": 32940,
+        "word": "卿卿日常思思有亿点钱",
+        "onboard_time": 1668966138,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 29874,
+        "num": 29874,
+        "word": "在重庆的一天有多令人羡慕",
+        "onboard_time": 1668947248,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 27636,
+        "num": 27636,
+        "word": "厄瓜多尔进球被吹",
+        "onboard_time": 1668965899,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26903,
+        "num": 26903,
+        "word": "越位",
+        "onboard_time": 1668961289,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25948,
+        "num": 25948,
+        "word": "瓦伦西亚梅开二度",
+        "onboard_time": 1668963623,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24865,
+        "num": 24865,
+        "word": "杭州的外卖能有多精致",
+        "onboard_time": 1668965061,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 23261,
+        "num": 23261,
+        "word": "世界杯 唱歌",
+        "onboard_time": 1668967937,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22852,
+        "num": 22852,
+        "word": "杨洋晒黑色墨镜自拍",
+        "onboard_time": 1668978012,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22264,
+        "num": 22264,
+        "word": "潘粤明作画对比卡塔尔和厄瓜多尔实力",
+        "onboard_time": 1668983535,
+        "rank": 46,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 20932,
+        "num": 20932,
+        "word": "本泽马已离开卡塔尔",
+        "onboard_time": 1668948627,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19575,
+        "num": 19575,
+        "word": "维特尔",
+        "onboard_time": 1668961406,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16885,
+        "num": 19377,
+        "word": "FIFA世界杯",
+        "onboard_time": 1668971413,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#2分钟回顾神舟一号发射#"
+    }
+  }
+}
