@@ -1,6 +1,6 @@
 {
   "startTime": 1668961718135,
-  "endTime": 1668961718135,
+  "endTime": 1668962904075,
   "band_list": [
     {
       "raw_hot": 4068058,
@@ -11,8 +11,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 2915872,
-      "num": 2915872,
+      "raw_hot": 4013058,
+      "num": 4013058,
       "word": "卡塔尔vs厄瓜多尔",
       "onboard_time": 1668949769,
       "rank": 1,
@@ -27,6 +27,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 1216281,
+      "num": 402228,
+      "word": "李钟硕新冠检测出阳性反应",
+      "onboard_time": 1668960030,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1118375,
       "num": 1118375,
       "word": "王冰冰自我介绍",
@@ -35,8 +43,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 933237,
-      "num": 933237,
+      "raw_hot": 1094942,
+      "num": 1094942,
       "word": "越位",
       "onboard_time": 1668961289,
       "rank": 5,
@@ -51,24 +59,32 @@
       "category": "体育,网红"
     },
     {
-      "raw_hot": 775322,
-      "num": 392066,
-      "word": "李钟硕新冠检测出阳性反应",
-      "onboard_time": 1668960030,
-      "rank": 10,
-      "category": "艺人"
+      "raw_hot": 844190,
+      "num": 844190,
+      "word": "世界杯岳云鹏",
+      "onboard_time": 1668961226,
+      "rank": 20,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 719350,
-      "num": 382224,
+      "num": 401819,
       "word": "女子备孕13年生龙凤胎取名天佑佑心",
       "onboard_time": 1668955296,
       "rank": 11,
       "category": "社会新闻"
     },
     {
+      "raw_hot": 580854,
+      "num": 580854,
+      "word": "开幕式日本球迷",
+      "onboard_time": 1668959134,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 576051,
-      "num": 368520,
+      "num": 401528,
       "word": "麻辣鸡",
       "onboard_time": 1668958416,
       "rank": 12,
@@ -92,27 +108,11 @@
     },
     {
       "raw_hot": 496860,
-      "num": 346354,
+      "num": 401521,
       "word": "妻子流产抑郁加重男子申请撤销婚姻",
       "onboard_time": 1668942689,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 468286,
-      "num": 244231,
-      "word": "世界杯岳云鹏",
-      "onboard_time": 1668961226,
-      "rank": 20,
-      "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 463927,
-      "num": 463927,
-      "word": "开幕式日本球迷",
-      "onboard_time": 1668959134,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 407478,
@@ -121,6 +121,14 @@
       "onboard_time": 1668956744,
       "rank": 21,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 402281,
+      "num": 402281,
+      "word": "天空飘来好大的馄饨皮",
+      "onboard_time": 1668959672,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 400893,
@@ -156,19 +164,11 @@
     },
     {
       "raw_hot": 334768,
-      "num": 170438,
+      "num": 220099,
       "word": "菅田将晖变样了",
       "onboard_time": 1668946768,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 320298,
-      "num": 320298,
-      "word": "天空飘来好大的馄饨皮",
-      "onboard_time": 1668959672,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 294718,
@@ -195,6 +195,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 278162,
+      "num": 213337,
+      "word": "刘畊宏说C罗体脂率跟我差不多",
+      "onboard_time": 1668962665,
+      "rank": 22,
+      "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 274008,
+      "num": 274008,
+      "word": "头顶一块布 全球我最富",
+      "onboard_time": 1668959792,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 273769,
       "num": 167632,
       "word": "演员薛中锐去世",
@@ -211,6 +227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 238753,
+      "num": 142773,
+      "word": "实验用菌不生长被研究生怒批",
+      "onboard_time": 1668961468,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 235648,
       "num": 235648,
       "word": "重庆30元蔬菜包里有什么",
@@ -219,12 +243,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 226224,
+      "num": 226224,
+      "word": "世界杯首球",
+      "onboard_time": 1668962126,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 213538,
       "num": 213538,
       "word": "在重庆的一天有多令人羡慕",
       "onboard_time": 1668947248,
       "rank": 24,
       "category": "美食"
+    },
+    {
+      "raw_hot": 204900,
+      "num": 133930,
+      "word": "开幕式 沙丘",
+      "onboard_time": 1668959315,
+      "rank": 40,
+      "category": "体育,影视"
     },
     {
       "raw_hot": 204621,
@@ -251,20 +291,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 192586,
+      "raw_hot": 195320,
       "num": 165642,
       "word": "节气姑娘红名",
       "onboard_time": 1668960272,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 192143,
-      "num": 121897,
-      "word": "开幕式 沙丘",
-      "onboard_time": 1668959315,
-      "rank": 40,
-      "category": "体育,影视"
     },
     {
       "raw_hot": 183667,
@@ -387,18 +419,18 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 101060,
-      "num": 101060,
-      "word": "实验用菌不生长被研究生怒批",
-      "onboard_time": 1668961468,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 95635,
       "num": 95635,
       "word": "英国骆驼预测世界杯比赛结果",
       "onboard_time": 1668961406,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 69103,
+      "num": 91654,
+      "word": "卡塔尔世界杯32强巨型球衣",
+      "onboard_time": 1668962847,
       "rank": 49,
       "category": "体育"
     }
@@ -406,6 +438,9 @@
   "hotgov_list": [
     {
       "word": "#既提出中国主张又拿出中国行动#"
+    },
+    {
+      "word": "#2分钟回顾神舟一号发射#"
     }
   ]
 }
