@@ -1,6 +1,6 @@
 {
   "startTime": 1668875307469,
-  "endTime": 1668915170168,
+  "endTime": 1668918436862,
   "band_list": [
     {
       "raw_hot": 3531288,
@@ -51,12 +51,28 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 1358672,
+      "num": 824599,
+      "word": "警方通报一女子在公厕被人殴打",
+      "onboard_time": 1668912749,
+      "rank": 11,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1299883,
       "num": 234190,
       "word": "痞幼和陈飞宇合拍视频",
       "onboard_time": 1668867452,
       "rank": 10,
       "category": "网红,艺人"
+    },
+    {
+      "raw_hot": 1267009,
+      "num": 1267009,
+      "word": "为什么越来越多人开倍速追剧",
+      "onboard_time": 1668911670,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 926164,
@@ -91,14 +107,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 824599,
-      "num": 824599,
-      "word": "警方通报一女子在公厕被人殴打",
-      "onboard_time": 1668912749,
-      "rank": 11,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 765880,
       "num": 765880,
       "word": "晴天yyds",
@@ -107,12 +115,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 696022,
-      "num": 696022,
-      "word": "为什么越来越多人开倍速追剧",
-      "onboard_time": 1668911670,
-      "rank": 3,
-      "category": "影视"
+      "raw_hot": 748035,
+      "num": 748035,
+      "word": "杨坤亲自认证马嘉祺是最靓的仔",
+      "onboard_time": 1668915805,
+      "rank": 1,
+      "category": "综艺,幽默"
     },
     {
       "raw_hot": 682077,
@@ -179,6 +187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 526537,
+      "num": 316193,
+      "word": "陈凯歌说陈飞宇是极端的完美主义者",
+      "onboard_time": 1668914009,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 509886,
       "num": 509886,
       "word": "妈妈情绪崩溃萌娃哭着说我爱你",
@@ -227,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 438490,
+      "num": 438490,
+      "word": "两公羊争斗迎头相撞一只当场死亡",
+      "onboard_time": 1668915627,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 438201,
       "num": 370153,
       "word": "男子当街暴打边牧还跳起双脚踩头",
@@ -257,6 +281,14 @@
       "onboard_time": 1668873090,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 387951,
+      "num": 387951,
+      "word": "特朗普账号重回推特",
+      "onboard_time": 1668913106,
+      "rank": 33,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 380656,
@@ -307,14 +339,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 343527,
-      "num": 259116,
-      "word": "陈凯歌说陈飞宇是极端的完美主义者",
-      "onboard_time": 1668914009,
-      "rank": 25,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 341751,
       "num": 262844,
       "word": "卿卿日常",
@@ -331,8 +355,8 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 336377,
-      "num": 254445,
+      "raw_hot": 338383,
+      "num": 311106,
       "word": "命韵峋环联手夺回LP",
       "onboard_time": 1668914127,
       "rank": 23,
@@ -355,12 +379,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 324567,
+      "num": 309596,
+      "word": "小伙单手拿几十万现金站马路墩子上",
+      "onboard_time": 1668916226,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 323994,
       "num": 122604,
       "word": "你好星期六下期致敬中国动画百年",
       "onboard_time": 1668872192,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 317475,
+      "num": 317475,
+      "word": "世界杯",
+      "onboard_time": 1668907471,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 316123,
@@ -395,12 +435,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 290808,
-      "num": 290808,
-      "word": "世界杯",
-      "onboard_time": 1668907471,
-      "rank": 19,
-      "category": "体育"
+      "raw_hot": 293431,
+      "num": 201269,
+      "word": "孟佳跳舞拿到S评价",
+      "onboard_time": 1668917785,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 289371,
@@ -441,6 +481,14 @@
       "onboard_time": 1668849208,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 277040,
+      "num": 277040,
+      "word": "金球奖得主44年来首次无缘世界杯",
+      "onboard_time": 1668913409,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 254619,
@@ -499,14 +547,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 216875,
-      "num": 216875,
-      "word": "特朗普账号重回推特",
-      "onboard_time": 1668913106,
-      "rank": 33,
-      "category": "社会新闻,科技"
-    },
-    {
       "raw_hot": 211860,
       "num": 211860,
       "word": "7旬母亲整理衣物给独女交代后事",
@@ -555,6 +595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 183880,
+      "num": 139133,
+      "word": "王梓薇新剧手撕渣男",
+      "onboard_time": 1668914907,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 179226,
       "num": 179226,
       "word": "11月19日新增本土无症状22011例",
@@ -577,6 +625,14 @@
       "onboard_time": 1668867452,
       "rank": 33,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 172067,
+      "num": 111634,
+      "word": "原来在河南随便吃一口都是非遗",
+      "onboard_time": 1668918086,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 170941,
@@ -667,14 +723,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 144010,
-      "num": 144010,
-      "word": "金球奖得主44年来首次无缘世界杯",
-      "onboard_time": 1668913409,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 143905,
       "num": 136119,
       "word": "杨九郎长在了敖子逸的笑点上",
@@ -712,6 +760,14 @@
       "word": "11月19日新增本土确诊2204例",
       "onboard_time": 1668911188,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132872,
+      "num": 132872,
+      "word": "美典当行将日军侵华罪行相册捐给中国",
+      "onboard_time": 1668917425,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -851,6 +907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 85480,
+      "num": 85480,
+      "word": "一起看2022世界杯",
+      "onboard_time": 1668918265,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 85112,
       "num": 91863,
       "word": "被传白天救狗晚上卖狗当事人发声",
@@ -865,6 +929,14 @@
       "onboard_time": 1668861149,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 80395,
+      "num": 80395,
+      "word": "世界杯今晚开幕",
+      "onboard_time": 1668916466,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 77849,
