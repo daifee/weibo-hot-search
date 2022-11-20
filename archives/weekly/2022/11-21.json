@@ -1,6 +1,6 @@
 {
   "startTime": 1668961718135,
-  "endTime": 1668962904075,
+  "endTime": 1668964684818,
   "band_list": [
     {
       "raw_hot": 4068058,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1216281,
-      "num": 402228,
+      "num": 463239,
       "word": "李钟硕新冠检测出阳性反应",
       "onboard_time": 1668960030,
       "rank": 10,
@@ -51,20 +51,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 953291,
+      "num": 953291,
+      "word": "世界杯岳云鹏",
+      "onboard_time": 1668961226,
+      "rank": 20,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 867285,
       "num": 867285,
       "word": "内马尔 帅",
       "onboard_time": 1668949229,
       "rank": 6,
       "category": "体育,网红"
-    },
-    {
-      "raw_hot": 844190,
-      "num": 844190,
-      "word": "世界杯岳云鹏",
-      "onboard_time": 1668961226,
-      "rank": 20,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 719350,
@@ -107,12 +107,36 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 548672,
+      "num": 455415,
+      "word": "刘畊宏说C罗体脂率跟我差不多",
+      "onboard_time": 1668962665,
+      "rank": 22,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 496860,
       "num": 401521,
       "word": "妻子流产抑郁加重男子申请撤销婚姻",
       "onboard_time": 1668942689,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 489230,
+      "num": 489230,
+      "word": "头顶一块布 全球我最富",
+      "onboard_time": 1668959792,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 478625,
+      "num": 478625,
+      "word": "世界杯首球",
+      "onboard_time": 1668962126,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 407478,
@@ -147,6 +171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 372949,
+      "num": 372949,
+      "word": "C罗梅西合影是PS的",
+      "onboard_time": 1668963145,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 345251,
       "num": 345251,
       "word": "世界杯直播",
@@ -171,12 +203,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 303689,
+      "num": 303689,
+      "word": "实验用菌不生长被研究生怒批",
+      "onboard_time": 1668961468,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 294718,
       "num": 294718,
       "word": "两个人为什么会慢慢走散",
       "onboard_time": 1668957102,
       "rank": 17,
       "category": "情感"
+    },
+    {
+      "raw_hot": 294042,
+      "num": 294042,
+      "word": "不能在朋友圈分享的喜悦",
+      "onboard_time": 1668963025,
+      "rank": 18,
+      "category": "幽默"
     },
     {
       "raw_hot": 290847,
@@ -195,19 +243,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 278162,
-      "num": 213337,
-      "word": "刘畊宏说C罗体脂率跟我差不多",
-      "onboard_time": 1668962665,
-      "rank": 22,
-      "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 274008,
-      "num": 274008,
-      "word": "头顶一块布 全球我最富",
-      "onboard_time": 1668959792,
-      "rank": 16,
+      "raw_hot": 281280,
+      "num": 281280,
+      "word": "管泽元 世界杯",
+      "onboard_time": 1668963145,
+      "rank": 19,
       "category": "体育"
     },
     {
@@ -227,14 +267,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 238753,
-      "num": 142773,
-      "word": "实验用菌不生长被研究生怒批",
-      "onboard_time": 1668961468,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 235648,
       "num": 235648,
       "word": "重庆30元蔬菜包里有什么",
@@ -243,12 +275,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 226224,
-      "num": 226224,
-      "word": "世界杯首球",
-      "onboard_time": 1668962126,
-      "rank": 19,
-      "category": "体育"
+      "raw_hot": 219423,
+      "num": 219423,
+      "word": "开幕式 没有夏奇拉",
+      "onboard_time": 1668962184,
+      "rank": 23,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 213538,
@@ -355,12 +387,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 148070,
+      "num": 148070,
+      "word": "厄瓜多尔越位",
+      "onboard_time": 1668961827,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 145523,
       "num": 145523,
       "word": "本泽马已离开卡塔尔",
       "onboard_time": 1668948627,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 140366,
+      "num": 140366,
+      "word": "摩根弗里曼 手",
+      "onboard_time": 1668964461,
+      "rank": 32,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 124449,
@@ -385,6 +433,14 @@
       "onboard_time": 1668945988,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 119142,
+      "num": 119142,
+      "word": "卡塔尔世界杯32强巨型球衣",
+      "onboard_time": 1668962847,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 116845,
@@ -419,6 +475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 101810,
+      "num": 72770,
+      "word": "王后伞下",
+      "onboard_time": 1668964641,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 95635,
       "num": 95635,
       "word": "英国骆驼预测世界杯比赛结果",
@@ -427,10 +491,18 @@
       "category": "体育"
     },
     {
-      "raw_hot": 69103,
-      "num": 91654,
-      "word": "卡塔尔世界杯32强巨型球衣",
-      "onboard_time": 1668962847,
+      "raw_hot": 63727,
+      "num": 72704,
+      "word": "瓦伦西亚梅开二度",
+      "onboard_time": 1668963623,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 61613,
+      "num": 72680,
+      "word": "黄健翔 解说",
+      "onboard_time": 1668964344,
       "rank": 49,
       "category": "体育"
     }
