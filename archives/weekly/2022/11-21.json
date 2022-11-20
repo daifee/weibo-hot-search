@@ -1,6 +1,6 @@
 {
   "startTime": 1668961718135,
-  "endTime": 1668975680607,
+  "endTime": 1668976573090,
   "band_list": [
     {
       "raw_hot": 4068058,
@@ -571,8 +571,8 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 72749,
-      "num": 38714,
+      "raw_hot": 74893,
+      "num": 42684,
       "word": "世界杯历史上东道主首战从未输球",
       "onboard_time": 1668970395,
       "rank": 33,
@@ -604,7 +604,7 @@
     },
     {
       "raw_hot": 54169,
-      "num": 36819,
+      "num": 39088,
       "word": "王冰冰笑得好甜",
       "onboard_time": 1668974171,
       "rank": 12,
@@ -625,6 +625,14 @@
       "onboard_time": 1668963507,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 13357,
+      "num": 14672,
+      "word": "原来真有人装户外空调",
+      "onboard_time": 1668976451,
+      "rank": 49,
+      "category": "体育,社会新闻"
     }
   ],
   "hotgov_list": [
