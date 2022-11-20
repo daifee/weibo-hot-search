@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1668976573090,
+  "endTime": 1668979075270,
   "band_list": [
     {
       "raw_hot": 10543272,
@@ -42307,6 +42307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 35084,
+      "num": 35084,
+      "word": "原来真有人装户外空调",
+      "onboard_time": 1668976451,
+      "rank": 49,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 35078,
       "num": 47416,
       "word": "8岁截瘫女孩忍痛训练2年重新奔跑",
@@ -42899,20 +42907,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 13357,
-      "num": 14672,
-      "word": "原来真有人装户外空调",
-      "onboard_time": 1668976451,
-      "rank": 49,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 13355,
       "num": 1090436,
       "word": "200秒速览G20峰会看点",
       "onboard_time": 1668395608,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 13080,
+      "num": 13624,
+      "word": "杨洋晒黑色墨镜自拍",
+      "onboard_time": 1668978012,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 12971,
