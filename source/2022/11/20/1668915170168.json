@@ -1,0 +1,410 @@
+{
+  "runTime": 1668915170168,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 854484,
+        "num": 854484,
+        "word": "邓超让鹿晗给他一个解释",
+        "onboard_time": 1668908610,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 824599,
+        "num": 824599,
+        "word": "警方通报一女子在公厕被人殴打",
+        "onboard_time": 1668912749,
+        "rank": 1,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 21276,
+        "num": 823110,
+        "word": "高清回顾神十四第3次出舱任务",
+        "onboard_time": 1668863912,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 822100,
+        "num": 822100,
+        "word": "点燃我温暖你开启职场戏",
+        "onboard_time": 1668911910,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 696022,
+        "num": 696022,
+        "word": "为什么越来越多人开倍速追剧",
+        "onboard_time": 1668911670,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 530029,
+        "num": 530029,
+        "word": "男子养儿10年发现非亲生起诉前妻",
+        "onboard_time": 1668908487,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 520224,
+        "num": 520224,
+        "word": "北方女子南方点外卖遇巴掌大炒饭",
+        "onboard_time": 1668909330,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 516432,
+        "num": 516432,
+        "word": "马斯克说将解封特朗普推特账号",
+        "onboard_time": 1668910409,
+        "rank": 7,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 476705,
+        "num": 476705,
+        "word": "妈妈情绪崩溃萌娃哭着说我爱你",
+        "onboard_time": 1668910528,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 344281,
+        "num": 344281,
+        "word": "奶奶将1.5米粉红豹改成40厘米",
+        "onboard_time": 1668902484,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2354662,
+        "num": 340332,
+        "word": "北京新增一例死亡病例",
+        "onboard_time": 1668905066,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 520608,
+        "num": 334534,
+        "word": "王冰冰更博了",
+        "onboard_time": 1668867276,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 415351,
+        "num": 329984,
+        "word": "徐璐晒今日穿搭live图",
+        "onboard_time": 1668914546,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 404845,
+        "num": 316792,
+        "word": "孟美岐翻跳nxde",
+        "onboard_time": 1668906928,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 316123,
+        "num": 316123,
+        "word": "粉笔模考",
+        "onboard_time": 1668914186,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 305650,
+        "num": 305650,
+        "word": "卡塔尔世界杯创下多个第一次",
+        "onboard_time": 1668908910,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 278098,
+        "num": 278098,
+        "word": "广东新增本土无症状8381例",
+        "onboard_time": 1668907410,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275775,
+        "num": 275775,
+        "word": "西安核酸系统",
+        "onboard_time": 1668906374,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268129,
+        "num": 268129,
+        "word": "男生穿渔网袜上场拔河",
+        "onboard_time": 1668907946,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267486,
+        "num": 267486,
+        "word": "成都疫情防控",
+        "onboard_time": 1668900905,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343527,
+        "num": 259116,
+        "word": "陈凯歌说陈飞宇是极端的完美主义者",
+        "onboard_time": 1668914009,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 336377,
+        "num": 254445,
+        "word": "命韵峋环联手夺回LP",
+        "onboard_time": 1668914127,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 322363,
+        "num": 254275,
+        "word": "参加韩版999选秀的中国选手",
+        "onboard_time": 1668910528,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 239132,
+        "num": 239132,
+        "word": "世界杯",
+        "onboard_time": 1668907471,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 232194,
+        "num": 232194,
+        "word": "交警回应大白送核酸样本时被撞",
+        "onboard_time": 1668901461,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226200,
+        "num": 226200,
+        "word": "本泽马因伤退出世界杯",
+        "onboard_time": 1668899477,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 216875,
+        "num": 216875,
+        "word": "特朗普账号重回推特",
+        "onboard_time": 1668913106,
+        "rank": 26,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 209835,
+        "num": 209835,
+        "word": "女子6200元变卖闺蜜手机报警称被抢",
+        "onboard_time": 1668882316,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201423,
+        "num": 201423,
+        "word": "重庆市民可免费观看世界杯",
+        "onboard_time": 1668873090,
+        "rank": 28,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 179226,
+        "num": 179226,
+        "word": "11月19日新增本土无症状22011例",
+        "onboard_time": 1668910948,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 337652,
+        "num": 178780,
+        "word": "罗晋删除天下长河相关微博",
+        "onboard_time": 1668899537,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 279375,
+        "num": 177981,
+        "word": "金智秀卡妹合作舞台彩排",
+        "onboard_time": 1668914066,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 249211,
+        "num": 176732,
+        "word": "卿卿日常",
+        "onboard_time": 1668913945,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 179380,
+        "num": 175815,
+        "word": "天黑黑",
+        "onboard_time": 1668902664,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 175407,
+        "num": 175407,
+        "word": "女子认为被全家嫌弃带儿子跳河",
+        "onboard_time": 1668870453,
+        "rank": 34,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 148174,
+        "num": 148174,
+        "word": "致敬本泽马",
+        "onboard_time": 1668910890,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145546,
+        "num": 145546,
+        "word": "原来狗狗也会期待放学",
+        "onboard_time": 1668908249,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 144010,
+        "num": 144010,
+        "word": "金球奖得主44年来首次无缘世界杯",
+        "onboard_time": 1668913409,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141991,
+        "num": 141991,
+        "word": "成都马拉松",
+        "onboard_time": 1668872612,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140706,
+        "num": 140706,
+        "word": "世界杯离美军基地只有20多公里",
+        "onboard_time": 1668891432,
+        "rank": 39,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 144461,
+        "num": 136602,
+        "word": "唐诗逸海岸边跳舞好美",
+        "onboard_time": 1668906749,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143905,
+        "num": 136119,
+        "word": "杨九郎长在了敖子逸的笑点上",
+        "onboard_time": 1668914845,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132140,
+        "num": 132140,
+        "word": "大学生已经开始过年了",
+        "onboard_time": 1668864929,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 131886,
+        "num": 131886,
+        "word": "西安一医院ICU门口设陪护睡眠仓",
+        "onboard_time": 1668892152,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129390,
+        "num": 129390,
+        "word": "央视曝光抱团养老陷阱",
+        "onboard_time": 1668905006,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117617,
+        "num": 117617,
+        "word": "无尽夏",
+        "onboard_time": 1668870813,
+        "rank": 45,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 115673,
+        "num": 115673,
+        "word": "13岁女孩每天1杯奶茶患糖尿病",
+        "onboard_time": 1668860429,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114293,
+        "num": 114293,
+        "word": "管油胜夺成都马拉松男子冠军",
+        "onboard_time": 1668913284,
+        "rank": 47,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 90925,
+        "num": 90925,
+        "word": "九城不排除重新接盘暴雪魔兽世界",
+        "onboard_time": 1668905727,
+        "rank": 48,
+        "category": "游戏,财经"
+      },
+      {
+        "raw_hot": 85289,
+        "num": 85289,
+        "word": "Kpop视角看世界杯",
+        "onboard_time": 1668900199,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#既提出中国主张又拿出中国行动#"
+    }
+  }
+}

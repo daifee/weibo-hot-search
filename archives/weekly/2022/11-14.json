@@ -1,6 +1,6 @@
 {
   "startTime": 1668357004606,
-  "endTime": 1668914627611,
+  "endTime": 1668915170168,
   "band_list": [
     {
       "raw_hot": 4694011,
@@ -1667,6 +1667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 824599,
+      "num": 824599,
+      "word": "警方通报一女子在公厕被人殴打",
+      "onboard_time": 1668912749,
+      "rank": 11,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 824010,
       "num": 824010,
       "word": "高见鸿的结局是癌症去世",
@@ -2075,6 +2083,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 696022,
+      "num": 696022,
+      "word": "为什么越来越多人开倍速追剧",
+      "onboard_time": 1668911670,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 695757,
       "num": 695757,
       "word": "13岁女孩每天1杯奶茶患糖尿病",
@@ -2323,14 +2339,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 650236,
-      "num": 365127,
-      "word": "警方通报一女子在公厕被人殴打",
-      "onboard_time": 1668912749,
-      "rank": 11,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 649125,
       "num": 500966,
       "word": "武汉快递",
@@ -2401,14 +2409,6 @@
       "onboard_time": 1668906928,
       "rank": 10,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 630028,
-      "num": 630028,
-      "word": "为什么越来越多人开倍速追剧",
-      "onboard_time": 1668911670,
-      "rank": 3,
-      "category": "影视"
     },
     {
       "raw_hot": 628965,
@@ -4499,6 +4499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 415351,
+      "num": 356789,
+      "word": "徐璐晒今日穿搭live图",
+      "onboard_time": 1668914546,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 415280,
       "num": 415280,
       "word": "吴磊你好星期六录制路透",
@@ -5016,14 +5024,6 @@
       "word": "宋亚轩说我是演员宋亚轩",
       "onboard_time": 1668762386,
       "rank": 12,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 379768,
-      "num": 356789,
-      "word": "徐璐晒今日穿搭live图",
-      "onboard_time": 1668914546,
-      "rank": 13,
       "category": "艺人"
     },
     {
@@ -5595,6 +5595,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 343527,
+      "num": 259116,
+      "word": "陈凯歌说陈飞宇是极端的完美主义者",
+      "onboard_time": 1668914009,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 343481,
       "num": 343481,
       "word": "孩子玩8小时手机父亲陪罚跪80分钟",
@@ -5737,6 +5745,14 @@
       "onboard_time": 1668687328,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 336377,
+      "num": 254445,
+      "word": "命韵峋环联手夺回LP",
+      "onboard_time": 1668914127,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 335622,
@@ -6153,6 +6169,14 @@
       "onboard_time": 1668608911,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 316123,
+      "num": 316123,
+      "word": "粉笔模考",
+      "onboard_time": 1668914186,
+      "rank": 28,
+      "category": "教育"
     },
     {
       "raw_hot": 315872,
@@ -6851,14 +6875,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 279149,
-      "num": 250557,
-      "word": "命韵峋环联手夺回LP",
-      "onboard_time": 1668914127,
-      "rank": 23,
-      "category": "影视"
-    },
-    {
       "raw_hot": 278822,
       "num": 222982,
       "word": "杨幂在播剧角色反差感",
@@ -6921,14 +6937,6 @@
       "onboard_time": 1668777685,
       "rank": 35,
       "category": "科技"
-    },
-    {
-      "raw_hot": 276996,
-      "num": 248350,
-      "word": "陈凯歌说陈飞宇是极端的完美主义者",
-      "onboard_time": 1668914009,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 276393,
@@ -7979,14 +7987,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 233160,
-      "num": 233160,
-      "word": "粉笔模考",
-      "onboard_time": 1668914186,
-      "rank": 28,
-      "category": "教育"
-    },
-    {
       "raw_hot": 233098,
       "num": 233098,
       "word": "TheShy",
@@ -8513,6 +8513,14 @@
       "onboard_time": 1668393866,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 216875,
+      "num": 216875,
+      "word": "特朗普账号重回推特",
+      "onboard_time": 1668913106,
+      "rank": 33,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 216657,
@@ -9819,14 +9827,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 179842,
-      "num": 179842,
-      "word": "特朗普账号重回推特",
-      "onboard_time": 1668913106,
-      "rank": 33,
-      "category": "社会新闻,科技"
-    },
-    {
       "raw_hot": 179697,
       "num": 179697,
       "word": "男孩扣开关触点为外婆买蛋糕",
@@ -9857,6 +9857,14 @@
       "onboard_time": 1668580827,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 179226,
+      "num": 179226,
+      "word": "11月19日新增本土无症状22011例",
+      "onboard_time": 1668910948,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 179064,
@@ -10153,14 +10161,6 @@
       "onboard_time": 1668702384,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 171040,
-      "num": 171040,
-      "word": "11月19日新增本土无症状22011例",
-      "onboard_time": 1668910948,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 170434,
@@ -11075,6 +11075,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 148174,
+      "num": 148174,
+      "word": "致敬本泽马",
+      "onboard_time": 1668910890,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 147757,
       "num": 147757,
       "word": "越狱失败还被抱住的小猫",
@@ -11219,11 +11227,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 144010,
+      "num": 144010,
+      "word": "金球奖得主44年来首次无缘世界杯",
+      "onboard_time": 1668913409,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 143944,
       "num": 143944,
       "word": "林志炫杨丞琳许靖韵黄霄雲破茧",
       "onboard_time": 1668357923,
       "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 143905,
+      "num": 136119,
+      "word": "杨九郎长在了敖子逸的笑点上",
+      "onboard_time": 1668914845,
+      "rank": 41,
       "category": "综艺"
     },
     {
@@ -12019,14 +12043,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 131379,
-      "num": 131379,
-      "word": "致敬本泽马",
-      "onboard_time": 1668910890,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 131336,
       "num": 131336,
       "word": "关于我和鬼变成家人的那件事首映",
@@ -12297,14 +12313,6 @@
       "onboard_time": 1668774386,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 126309,
-      "num": 126309,
-      "word": "金球奖得主44年来首次无缘世界杯",
-      "onboard_time": 1668913409,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 126240,
@@ -12737,6 +12745,14 @@
       "onboard_time": 1668384566,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 114293,
+      "num": 114293,
+      "word": "管油胜夺成都马拉松男子冠军",
+      "onboard_time": 1668913284,
+      "rank": 48,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 114191,
@@ -13177,14 +13193,6 @@
       "onboard_time": 1668828267,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 105217,
-      "num": 105217,
-      "word": "管油胜夺成都马拉松男子冠军",
-      "onboard_time": 1668913284,
-      "rank": 48,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 105128,

@@ -1,6 +1,6 @@
 {
   "startTime": 1668875307469,
-  "endTime": 1668914627611,
+  "endTime": 1668915170168,
   "band_list": [
     {
       "raw_hot": 3531288,
@@ -91,12 +91,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 824599,
+      "num": 824599,
+      "word": "警方通报一女子在公厕被人殴打",
+      "onboard_time": 1668912749,
+      "rank": 11,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 765880,
       "num": 765880,
       "word": "晴天yyds",
       "onboard_time": 1668870993,
       "rank": 4,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 696022,
+      "num": 696022,
+      "word": "为什么越来越多人开倍速追剧",
+      "onboard_time": 1668911670,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 682077,
@@ -115,28 +131,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 650236,
-      "num": 365127,
-      "word": "警方通报一女子在公厕被人殴打",
-      "onboard_time": 1668912749,
-      "rank": 11,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 631022,
       "num": 447809,
       "word": "孟美岐翻跳nxde",
       "onboard_time": 1668906928,
       "rank": 10,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 630028,
-      "num": 630028,
-      "word": "为什么越来越多人开倍速追剧",
-      "onboard_time": 1668911670,
-      "rank": 3,
-      "category": "影视"
     },
     {
       "raw_hot": 592425,
@@ -243,6 +243,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 415351,
+      "num": 356789,
+      "word": "徐璐晒今日穿搭live图",
+      "onboard_time": 1668914546,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 401359,
       "num": 166458,
       "word": "王一栩评论TF家族三代版诀爱",
@@ -257,14 +265,6 @@
       "onboard_time": 1668882316,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 379768,
-      "num": 356789,
-      "word": "徐璐晒今日穿搭live图",
-      "onboard_time": 1668914546,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 363119,
@@ -307,6 +307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 343527,
+      "num": 259116,
+      "word": "陈凯歌说陈飞宇是极端的完美主义者",
+      "onboard_time": 1668914009,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 341751,
       "num": 262844,
       "word": "卿卿日常",
@@ -321,6 +329,14 @@
       "onboard_time": 1668870453,
       "rank": 37,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 336377,
+      "num": 254445,
+      "word": "命韵峋环联手夺回LP",
+      "onboard_time": 1668914127,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 326631,
@@ -345,6 +361,14 @@
       "onboard_time": 1668872192,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 316123,
+      "num": 316123,
+      "word": "粉笔模考",
+      "onboard_time": 1668914186,
+      "rank": 28,
+      "category": "教育"
     },
     {
       "raw_hot": 315743,
@@ -419,22 +443,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 279149,
-      "num": 250557,
-      "word": "命韵峋环联手夺回LP",
-      "onboard_time": 1668914127,
-      "rank": 23,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 276996,
-      "num": 248350,
-      "word": "陈凯歌说陈飞宇是极端的完美主义者",
-      "onboard_time": 1668914009,
-      "rank": 25,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 254619,
       "num": 119446,
       "word": "羡慕王勉",
@@ -467,14 +475,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 233160,
-      "num": 233160,
-      "word": "粉笔模考",
-      "onboard_time": 1668914186,
-      "rank": 28,
-      "category": "教育"
-    },
-    {
       "raw_hot": 231651,
       "num": 207985,
       "word": "命韵峋环的甜场面",
@@ -497,6 +497,14 @@
       "onboard_time": 1668854487,
       "rank": 13,
       "category": "美食"
+    },
+    {
+      "raw_hot": 216875,
+      "num": 216875,
+      "word": "特朗普账号重回推特",
+      "onboard_time": 1668913106,
+      "rank": 33,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 211860,
@@ -547,12 +555,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 179842,
-      "num": 179842,
-      "word": "特朗普账号重回推特",
-      "onboard_time": 1668913106,
-      "rank": 33,
-      "category": "社会新闻,科技"
+      "raw_hot": 179226,
+      "num": 179226,
+      "word": "11月19日新增本土无症状22011例",
+      "onboard_time": 1668910948,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 177072,
@@ -569,14 +577,6 @@
       "onboard_time": 1668867452,
       "rank": 33,
       "category": "影视,动漫"
-    },
-    {
-      "raw_hot": 171040,
-      "num": 171040,
-      "word": "11月19日新增本土无症状22011例",
-      "onboard_time": 1668910948,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 170941,
@@ -643,6 +643,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 148174,
+      "num": 148174,
+      "word": "致敬本泽马",
+      "onboard_time": 1668910890,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 146778,
       "num": 146778,
       "word": "大学标语把物理给我讲明白了",
@@ -657,6 +665,22 @@
       "onboard_time": 1668869912,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 144010,
+      "num": 144010,
+      "word": "金球奖得主44年来首次无缘世界杯",
+      "onboard_time": 1668913409,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 143905,
+      "num": 136119,
+      "word": "杨九郎长在了敖子逸的笑点上",
+      "onboard_time": 1668914845,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 143178,
@@ -691,14 +715,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 131379,
-      "num": 131379,
-      "word": "致敬本泽马",
-      "onboard_time": 1668910890,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 130705,
       "num": 130705,
       "word": "Kpop视角看世界杯",
@@ -723,20 +739,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 126309,
-      "num": 126309,
-      "word": "金球奖得主44年来首次无缘世界杯",
-      "onboard_time": 1668913409,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 125681,
       "num": 125681,
       "word": "女子称荒地露营1天内被村民收费4次",
       "onboard_time": 1668856410,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 114293,
+      "num": 114293,
+      "word": "管油胜夺成都马拉松男子冠军",
+      "onboard_time": 1668913284,
+      "rank": 48,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 110601,
@@ -785,14 +801,6 @@
       "onboard_time": 1668858691,
       "rank": 36,
       "category": "科技"
-    },
-    {
-      "raw_hot": 105217,
-      "num": 105217,
-      "word": "管油胜夺成都马拉松男子冠军",
-      "onboard_time": 1668913284,
-      "rank": 48,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 100231,
