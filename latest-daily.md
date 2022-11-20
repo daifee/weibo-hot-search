@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/20 00:28:27 ~ 2022/11/20 09:59:38
+本榜单时间：2022/11/20 00:28:27 ~ 2022/11/20 10:28:10
 </p>
 </blockquote>
 <p>
@@ -16,7 +16,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E6%96%B0%E5%A2%9E%E4%B8%80%E4%BE%8B%E6%AD%BB%E4%BA%A1%E7%97%85%E4%BE%8B%23" target="weibo">
-北京新增一例死亡病例（热度：3266458）
+北京新增一例死亡病例（热度：3531288）
 </a>
 </li>
 
@@ -64,7 +64,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E8%B6%85%E8%AE%A9%E9%B9%BF%E6%99%97%E7%BB%99%E4%BB%96%E4%B8%80%E4%B8%AA%E8%A7%A3%E9%87%8A%23" target="weibo">
-邓超让鹿晗给他一个解释（热度：891172）
+邓超让鹿晗给他一个解释（热度：914109）
 </a>
 </li>
 
@@ -87,6 +87,18 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%85%BB%E5%84%BF10%E5%B9%B4%E5%8F%91%E7%8E%B0%E9%9D%9E%E4%BA%B2%E7%94%9F%E8%B5%B7%E8%AF%89%E5%89%8D%E5%A6%BB%23" target="weibo">
+男子养儿10年发现非亲生起诉前妻（热度：655965）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%9F%E7%BE%8E%E5%B2%90%E7%BF%BB%E8%B7%B3nxde%23" target="weibo">
+孟美岐翻跳nxde（热度：631022）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E6%8A%B1%E5%9B%A2%E5%85%BB%E8%80%81%E9%99%B7%E9%98%B1%23" target="weibo">
 央视曝光抱团养老陷阱（热度：592425）
 </a>
@@ -105,12 +117,6 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%9F%E7%BE%8E%E5%B2%90%E7%BF%BB%E8%B7%B3nxde%23" target="weibo">
-孟美岐翻跳nxde（热度：497388）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E6%99%9A%E7%9C%9F%E7%9A%84%E7%88%B7%E9%9D%92%E5%9B%9E%23" target="weibo">
 今晚真的爷青回（热度：486679）
 </a>
@@ -119,6 +125,18 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E9%BB%84%E7%A3%8A%E4%B8%BA%E5%BC%A0%E8%89%BA%E5%85%B4%E6%89%93call%23" target="weibo">
 赵丽颖黄磊为张艺兴打call（热度：477422）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E6%97%A0%E7%97%87%E7%8A%B68381%E4%BE%8B%23" target="weibo">
+广东新增本土无症状8381例（热度：474297）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E7%A9%BF%E6%B8%94%E7%BD%91%E8%A2%9C%E4%B8%8A%E5%9C%BA%E6%8B%94%E6%B2%B3%23" target="weibo">
+男生穿渔网袜上场拔河（热度：465101）
 </a>
 </li>
 
@@ -147,8 +165,8 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E6%97%A0%E7%97%87%E7%8A%B68381%E4%BE%8B%23" target="weibo">
-广东新增本土无症状8381例（热度：385430）
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E6%96%B9%E5%A5%B3%E5%AD%90%E5%8D%97%E6%96%B9%E7%82%B9%E5%A4%96%E5%8D%96%E9%81%87%E5%B7%B4%E6%8E%8C%E5%A4%A7%E7%82%92%E9%A5%AD%23" target="weibo">
+北方女子南方点外卖遇巴掌大炒饭（热度：385602）
 </a>
 </li>
 
@@ -183,6 +201,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%82%E5%8A%A0%E9%9F%A9%E7%89%88999%E9%80%89%E7%A7%80%E7%9A%84%E4%B8%AD%E5%9B%BD%E9%80%89%E6%89%8B%23" target="weibo">
+参加韩版999选秀的中国选手（热度：328530）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%9D%AF%E7%A6%BB%E7%BE%8E%E5%86%9B%E5%9F%BA%E5%9C%B0%E5%8F%AA%E6%9C%8920%E5%A4%9A%E5%85%AC%E9%87%8C%23" target="weibo">
 世界杯离美军基地只有20多公里（热度：326631）
 </a>
@@ -201,14 +225,26 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E7%A9%BF%E6%B8%94%E7%BD%91%E8%A2%9C%E4%B8%8A%E5%9C%BA%E6%8B%94%E6%B2%B3%23" target="weibo">
-男生穿渔网袜上场拔河（热度：313579）
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%A1%E5%A1%94%E5%B0%94%E4%B8%96%E7%95%8C%E6%9D%AF%E5%88%9B%E4%B8%8B%E5%A4%9A%E4%B8%AA%E7%AC%AC%E4%B8%80%E6%AC%A1%23" target="weibo">
+卡塔尔世界杯创下多个第一次（热度：322670）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B9%9D%E5%9F%8E%E4%B8%8D%E6%8E%92%E9%99%A4%E9%87%8D%E6%96%B0%E6%8E%A5%E7%9B%98%E6%9A%B4%E9%9B%AA%E9%AD%94%E5%85%BD%E4%B8%96%E7%95%8C%23" target="weibo">
+九城不排除重新接盘暴雪魔兽世界（热度：315743）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E8%A2%AB%E4%BD%95%E7%82%85%E5%8D%A0%E4%BE%BF%E5%AE%9C%E4%BA%86%23" target="weibo">
 王鹤棣被何炅占便宜了（热度：303910）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E8%AF%97%E9%80%B8%E6%B5%B7%E5%B2%B8%E8%BE%B9%E8%B7%B3%E8%88%9E%E5%A5%BD%E7%BE%8E%23" target="weibo">
+唐诗逸海岸边跳舞好美（热度：301187）
 </a>
 </li>
 
@@ -243,20 +279,8 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B9%9D%E5%9F%8E%E4%B8%8D%E6%8E%92%E9%99%A4%E9%87%8D%E6%96%B0%E6%8E%A5%E7%9B%98%E6%9A%B4%E9%9B%AA%E9%AD%94%E5%85%BD%E4%B8%96%E7%95%8C%23" target="weibo">
-九城不排除重新接盘暴雪魔兽世界（热度：281421）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%A1%E6%85%95%E7%8E%8B%E5%8B%89%23" target="weibo">
 羡慕王勉（热度：254619）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%85%BB%E5%84%BF10%E5%B9%B4%E5%8F%91%E7%8E%B0%E9%9D%9E%E4%BA%B2%E7%94%9F%E8%B5%B7%E8%AF%89%E5%89%8D%E5%A6%BB%23" target="weibo">
-男子养儿10年发现非亲生起诉前妻（热度：252167）
 </a>
 </li>
 
@@ -275,12 +299,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%80%E8%BF%91%E7%9A%84%E5%B9%BF%E5%B7%9E%E5%A4%A7%E5%AD%A6%E7%94%9F%23" target="weibo">
 最近的广州大学生（热度：236181）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E8%AF%97%E9%80%B8%E6%B5%B7%E5%B2%B8%E8%BE%B9%E8%B7%B3%E8%88%9E%E5%A5%BD%E7%BE%8E%23" target="weibo">
-唐诗逸海岸边跳舞好美（热度：232583）
 </a>
 </li>
 
@@ -315,6 +333,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E7%8B%97%E7%8B%97%E4%B9%9F%E4%BC%9A%E6%9C%9F%E5%BE%85%E6%94%BE%E5%AD%A6%23" target="weibo">
+原来狗狗也会期待放学（热度：199684）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8A%A4%E5%A3%AB%E6%88%90%E5%8A%9F%E4%BB%8E%E5%86%92%E7%83%9F%E5%BE%AE%E6%B3%A2%E7%82%89%E6%8E%8F%E5%87%BA%E7%BA%A2%E8%96%AF%E7%82%B8%E5%BC%B9%23" target="weibo">
 护士成功从冒烟微波炉掏出红薯炸弹（热度：198757）
 </a>
@@ -323,12 +347,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E6%9C%89%E5%9D%9A%E6%8C%81%E4%BA%86%E5%8D%81%E5%B9%B4%E7%9A%84%E4%BA%8B%E6%83%85%E5%90%97%23" target="weibo">
 你有坚持了十年的事情吗（热度：196377）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E7%8B%97%E7%8B%97%E4%B9%9F%E4%BC%9A%E6%9C%9F%E5%BE%85%E6%94%BE%E5%AD%A6%23" target="weibo">
-原来狗狗也会期待放学（热度：194444）
 </a>
 </li>
 
@@ -371,6 +389,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%90%88%E8%82%A5%E6%AD%A5%E8%A1%8C%E8%A1%97%E7%8E%B0%E5%B0%B8%E4%BD%93%23" target="weibo">
 官方回应合肥步行街现尸体（热度：163018）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E6%83%85%E7%BB%AA%E5%B4%A9%E6%BA%83%E8%90%8C%E5%A8%83%E5%93%AD%E7%9D%80%E8%AF%B4%E6%88%91%E7%88%B1%E4%BD%A0%23" target="weibo">
+妈妈情绪崩溃萌娃哭着说我爱你（热度：159426）
 </a>
 </li>
 
@@ -423,6 +447,18 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2311%E6%9C%8819%E6%97%A5%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E6%97%A0%E7%97%87%E7%8A%B622011%E4%BE%8B%23" target="weibo">
+11月19日新增本土无症状22011例（热度：136550）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%2311%E6%9C%8819%E6%97%A5%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A2204%E4%BE%8B%23" target="weibo">
+11月19日新增本土确诊2204例（热度：136184）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23Kpop%E8%A7%86%E8%A7%92%E7%9C%8B%E4%B8%96%E7%95%8C%E6%9D%AF%23" target="weibo">
 Kpop视角看世界杯（热度：130705）
 </a>
@@ -441,20 +477,8 @@ Kpop视角看世界杯（热度：130705）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E6%96%B9%E5%A5%B3%E5%AD%90%E5%8D%97%E6%96%B9%E7%82%B9%E5%A4%96%E5%8D%96%E9%81%87%E5%B7%B4%E6%8E%8C%E5%A4%A7%E7%82%92%E9%A5%AD%23" target="weibo">
-北方女子南方点外卖遇巴掌大炒饭（热度：126182）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A7%B0%E8%8D%92%E5%9C%B0%E9%9C%B2%E8%90%A51%E5%A4%A9%E5%86%85%E8%A2%AB%E6%9D%91%E6%B0%91%E6%94%B6%E8%B4%B94%E6%AC%A1%23" target="weibo">
 女子称荒地露营1天内被村民收费4次（热度：125681）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%A1%E5%A1%94%E5%B0%94%E4%B8%96%E7%95%8C%E6%9D%AF%E5%88%9B%E4%B8%8B%E5%A4%9A%E4%B8%AA%E7%AC%AC%E4%B8%80%E6%AC%A1%23" target="weibo">
-卡塔尔世界杯创下多个第一次（热度：117130）
 </a>
 </li>
 
@@ -483,6 +507,12 @@ Kpop视角看世界杯（热度：130705）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%87%B4%E6%95%AC%E6%9C%AC%E6%B3%BD%E9%A9%AC%23" target="weibo">
+致敬本泽马（热度：109773）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23KPL%23" target="weibo">
 KPL（热度：108657）
 </a>
@@ -491,6 +521,12 @@ KPL（热度：108657）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%93%AA%E5%AE%B6%E6%89%8B%E6%9C%BA%E7%B3%BB%E7%BB%9F%E5%B9%BF%E5%91%8A%E5%A4%9A%23" target="weibo">
 哪家手机系统广告多（热度：106993）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E8%AF%B4%E5%B0%86%E8%A7%A3%E5%B0%81%E7%89%B9%E6%9C%97%E6%99%AE%E6%8E%A8%E7%89%B9%E8%B4%A6%E5%8F%B7%23" target="weibo">
+马斯克说将解封特朗普推特账号（热度：102061）
 </a>
 </li>
 
