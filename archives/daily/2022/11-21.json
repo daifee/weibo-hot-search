@@ -1,6 +1,6 @@
 {
   "startTime": 1668961718135,
-  "endTime": 1668986540199,
+  "endTime": 1668987435789,
   "band_list": [
     {
       "raw_hot": 4068058,
@@ -67,8 +67,8 @@
       "category": "体育,网红"
     },
     {
-      "raw_hot": 765349,
-      "num": 765349,
+      "raw_hot": 784834,
+      "num": 784834,
       "word": "25岁小伙辞去公职去看世界杯",
       "onboard_time": 1668960630,
       "rank": 15,
@@ -89,6 +89,14 @@
       "onboard_time": 1668963025,
       "rank": 18,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 604687,
+      "num": 325052,
+      "word": "刘暖曦自述案发当天经过",
+      "onboard_time": 1668986482,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 580854,
@@ -131,6 +139,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 506528,
+      "num": 506528,
+      "word": "世界杯东道主揭幕战92年首败",
+      "onboard_time": 1668968116,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 496860,
       "num": 401521,
       "word": "妻子流产抑郁加重男子申请撤销婚姻",
@@ -152,14 +168,6 @@
       "word": "世界杯首球",
       "onboard_time": 1668962126,
       "rank": 19,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 470394,
-      "num": 470394,
-      "word": "世界杯东道主揭幕战92年首败",
-      "onboard_time": 1668968116,
-      "rank": 30,
       "category": "体育"
     },
     {
@@ -201,6 +209,14 @@
       "onboard_time": 1668954934,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 356309,
+      "num": 313473,
+      "word": "暴雪CEO回应续约事件",
+      "onboard_time": 1668984856,
+      "rank": 15,
+      "category": "游戏"
     },
     {
       "raw_hot": 352851,
@@ -307,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 225107,
+      "num": 225107,
+      "word": "海信",
+      "onboard_time": 1668985763,
+      "rank": 37,
+      "category": "体育,科技"
+    },
+    {
       "raw_hot": 219423,
       "num": 219423,
       "word": "开幕式 没有夏奇拉",
@@ -321,6 +345,14 @@
       "onboard_time": 1668947248,
       "rank": 24,
       "category": "美食"
+    },
+    {
+      "raw_hot": 208651,
+      "num": 208651,
+      "word": "人还活着却被人网络祭奠4.3万次",
+      "onboard_time": 1668986662,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 204900,
@@ -355,14 +387,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 201239,
-      "num": 201239,
-      "word": "暴雪CEO回应续约事件",
-      "onboard_time": 1668984856,
-      "rank": 15,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 195320,
       "num": 165642,
       "word": "节气姑娘红名",
@@ -385,6 +409,22 @@
       "onboard_time": 1668964461,
       "rank": 32,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 179100,
+      "num": 179100,
+      "word": "北京加大全市统筹实行区自为战",
+      "onboard_time": 1668941128,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 178623,
+      "num": 178623,
+      "word": "厄瓜多尔门将长啥样",
+      "onboard_time": 1668968116,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 175244,
@@ -419,14 +459,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 163220,
-      "num": 163220,
-      "word": "北京加大全市统筹实行区自为战",
-      "onboard_time": 1668941128,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 154128,
       "num": 154128,
       "word": "31省平均工资发布",
@@ -459,12 +491,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 142352,
-      "num": 142352,
-      "word": "厄瓜多尔门将长啥样",
-      "onboard_time": 1668968116,
-      "rank": 37,
+      "raw_hot": 139937,
+      "num": 139937,
+      "word": "厄瓜多尔将进球献给已故队友",
+      "onboard_time": 1668985460,
+      "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 134028,
+      "num": 134028,
+      "word": "石家庄六区开展全员核酸检测",
+      "onboard_time": 1668987145,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132624,
+      "num": 132624,
+      "word": "刘维何超莲下班就解散的友情",
+      "onboard_time": 1668963507,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 125052,
@@ -507,6 +555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 117116,
+      "num": 117116,
+      "word": "原来真有人装户外空调",
+      "onboard_time": 1668976451,
+      "rank": 49,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 116845,
       "num": 116845,
       "word": "谢谢你维特尔",
@@ -521,14 +577,6 @@
       "onboard_time": 1668965061,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 113522,
-      "num": 113522,
-      "word": "原来真有人装户外空调",
-      "onboard_time": 1668976451,
-      "rank": 49,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 109921,
@@ -555,20 +603,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 102974,
-      "num": 91598,
-      "word": "刘维何超莲下班就解散的友情",
-      "onboard_time": 1668963507,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 101810,
       "num": 72770,
       "word": "王后伞下",
       "onboard_time": 1668964641,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 101256,
+      "num": 101256,
+      "word": "潘粤明作画对比卡塔尔和厄瓜多尔实力",
+      "onboard_time": 1668983535,
+      "rank": 46,
+      "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 99262,
+      "num": 99262,
+      "word": "pgc2022",
+      "onboard_time": 1668987026,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 95635,
@@ -579,12 +635,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 90689,
+      "num": 90689,
+      "word": "德约科维奇总决赛六冠王",
+      "onboard_time": 1668987326,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 83695,
       "num": 75930,
       "word": "卿卿日常思思有亿点钱",
       "onboard_time": 1668966138,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 81752,
+      "num": 81752,
+      "word": "Jennie新歌",
+      "onboard_time": 1668987326,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 80435,
+      "num": 80435,
+      "word": "我在CCTV5追星",
+      "onboard_time": 1668987085,
+      "rank": 46,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 78300,
@@ -603,36 +683,20 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 76381,
-      "num": 76381,
-      "word": "海信",
-      "onboard_time": 1668985763,
-      "rank": 37,
-      "category": "体育,科技"
-    },
-    {
-      "raw_hot": 75691,
-      "num": 75691,
-      "word": "厄瓜多尔将进球献给已故队友",
-      "onboard_time": 1668985460,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 70441,
-      "num": 70441,
-      "word": "潘粤明作画对比卡塔尔和厄瓜多尔实力",
-      "onboard_time": 1668983535,
-      "rank": 46,
-      "category": "体育,艺人"
-    },
-    {
       "raw_hot": 68356,
       "num": 72704,
       "word": "瓦伦西亚梅开二度",
       "onboard_time": 1668963623,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 65008,
+      "num": 65008,
+      "word": "卡塔尔国旗是世界最长国旗",
+      "onboard_time": 1668987388,
+      "rank": 49,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 63017,
@@ -681,14 +745,6 @@
       "onboard_time": 1668986002,
       "rank": 48,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 40197,
-      "num": 40197,
-      "word": "刘暖曦自述案发当天经过",
-      "onboard_time": 1668986482,
-      "rank": 49,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
