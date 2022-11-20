@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1668971774015,
+  "endTime": 1668972827876,
   "band_list": [
     {
       "raw_hot": 10543272,
@@ -41851,6 +41851,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 51689,
+      "num": 38714,
+      "word": "世界杯历史上东道主首战从未输球",
+      "onboard_time": 1668970395,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 51262,
       "num": 51262,
       "word": "花店每日闭店仪式",
@@ -42227,14 +42235,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 38714,
-      "num": 38714,
-      "word": "世界杯历史上东道主首战从未输球",
-      "onboard_time": 1668970395,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 37244,
       "num": 37244,
       "word": "AC米兰4比0萨尔茨堡红牛",
@@ -42289,6 +42289,14 @@
       "onboard_time": 1668618977,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 35220,
+      "num": 32586,
+      "word": "刘维何超莲下班就解散的友情",
+      "onboard_time": 1668963507,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 35078,
@@ -42393,14 +42401,6 @@
       "onboard_time": 1668008964,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 32586,
-      "num": 32586,
-      "word": "刘维何超莲下班就解散的友情",
-      "onboard_time": 1668963507,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 32134,
