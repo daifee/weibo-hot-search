@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1668958638746,
+  "endTime": 1668961718135,
   "band_list": [
     {
       "raw_hot": 10543272,
@@ -320,6 +320,14 @@
       "word": "张伟丽",
       "onboard_time": 1668305250,
       "rank": 7,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2915872,
+      "num": 2915872,
+      "word": "卡塔尔vs厄瓜多尔",
+      "onboard_time": 1668949769,
+      "rank": 39,
       "category": "体育"
     },
     {
@@ -4043,6 +4051,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 933237,
+      "num": 933237,
+      "word": "越位",
+      "onboard_time": 1668961289,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 932483,
       "num": 932483,
       "word": "李宇春以强直患者视角写的歌",
@@ -5393,6 +5409,14 @@
       "onboard_time": 1667215764,
       "rank": 6,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 775322,
+      "num": 392066,
+      "word": "李钟硕新冠检测出阳性反应",
+      "onboard_time": 1668960030,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 774120,
@@ -8267,6 +8291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 576051,
+      "num": 368520,
+      "word": "麻辣鸡",
+      "onboard_time": 1668958416,
+      "rank": 33,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 574729,
       "num": 574729,
       "word": "外公地里挖出1万多存款救济外孙",
@@ -8393,6 +8425,14 @@
       "onboard_time": 1668575728,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 567435,
+      "num": 360464,
+      "word": "马凡舒好美",
+      "onboard_time": 1668957940,
+      "rank": 31,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 567375,
@@ -11123,6 +11163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 468286,
+      "num": 244231,
+      "word": "世界杯岳云鹏",
+      "onboard_time": 1668961226,
+      "rank": 20,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 468275,
       "num": 468275,
       "word": "美得州两架飞机航展上相撞坠毁",
@@ -11288,6 +11336,14 @@
       "word": "开幕式 中东文化",
       "onboard_time": 1668956920,
       "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 463927,
+      "num": 463927,
+      "word": "开幕式日本球迷",
+      "onboard_time": 1668959134,
+      "rank": 8,
       "category": "体育"
     },
     {
@@ -12113,14 +12169,6 @@
       "onboard_time": 1668387450,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 437878,
-      "num": 437878,
-      "word": "卡塔尔vs厄瓜多尔",
-      "onboard_time": 1668949769,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 437658,
@@ -14819,14 +14867,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 366887,
-      "num": 204637,
-      "word": "马凡舒好美",
-      "onboard_time": 1668957940,
-      "rank": 31,
-      "category": "体育,艺人"
-    },
-    {
       "raw_hot": 366722,
       "num": 366722,
       "word": "波司登股价一年跌超四成",
@@ -17179,6 +17219,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 320298,
+      "num": 320298,
+      "word": "天空飘来好大的馄饨皮",
+      "onboard_time": 1668959672,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 319783,
       "num": 316603,
       "word": "命韵峋环沙发咚",
@@ -18259,14 +18307,6 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 301369,
-      "num": 204281,
-      "word": "麻辣鸡",
-      "onboard_time": 1668958416,
-      "rank": 33,
-      "category": "体育,艺人"
-    },
-    {
       "raw_hot": 301265,
       "num": 301265,
       "word": "世界杯赛程",
@@ -18585,6 +18625,14 @@
       "onboard_time": 1668245249,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 294718,
+      "num": 294718,
+      "word": "两个人为什么会慢慢走散",
+      "onboard_time": 1668957102,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 294605,
@@ -21425,14 +21473,6 @@
       "onboard_time": 1668610412,
       "rank": 32,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 249135,
-      "num": 249135,
-      "word": "两个人为什么会慢慢走散",
-      "onboard_time": 1668957102,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 248942,
@@ -25011,6 +25051,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 204265,
+      "num": 204265,
+      "word": "我想养猫的都懂吧",
+      "onboard_time": 1668958896,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 204093,
       "num": 184840,
       "word": "李峋说朱韵和我在一起会很幸福",
@@ -26163,6 +26211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 192586,
+      "num": 165642,
+      "word": "节气姑娘红名",
+      "onboard_time": 1668960272,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 192354,
       "num": 192354,
       "word": "杨丞琳庆祝出道22周年",
@@ -26193,6 +26249,14 @@
       "onboard_time": 1667897006,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 192143,
+      "num": 121897,
+      "word": "开幕式 沙丘",
+      "onboard_time": 1668959315,
+      "rank": 40,
+      "category": "体育,影视"
     },
     {
       "raw_hot": 192101,
@@ -27073,6 +27137,14 @@
       "onboard_time": 1668460931,
       "rank": 38,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 183667,
+      "num": 121807,
+      "word": "李薇醉酒vs尹峥醉酒",
+      "onboard_time": 1668961529,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 183649,
@@ -28057,6 +28129,14 @@
       "onboard_time": 1667979926,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 174398,
+      "num": 174398,
+      "word": "卡塔尔世界杯开幕式现场有多燃",
+      "onboard_time": 1668958058,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 174325,
@@ -29635,14 +29715,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 160035,
-      "num": 160035,
-      "word": "卡塔尔世界杯开幕式现场有多燃",
-      "onboard_time": 1668958058,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 159998,
       "num": 159998,
       "word": "张超回应激情执教风格",
@@ -30880,6 +30952,14 @@
       "word": "秋冬跑步如何避免十跑九伤",
       "onboard_time": 1667534064,
       "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 148399,
+      "num": 105392,
+      "word": "F1阿布扎比大奖赛",
+      "onboard_time": 1668961709,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -35147,6 +35227,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 116845,
+      "num": 116845,
+      "word": "谢谢你维特尔",
+      "onboard_time": 1668961107,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 116822,
       "num": 116822,
       "word": "这是一条不能燃的视频",
@@ -35937,6 +36025,14 @@
       "onboard_time": 1668756627,
       "rank": 45,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 109921,
+      "num": 109921,
+      "word": "维特尔",
+      "onboard_time": 1668961406,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 109814,
@@ -37019,6 +37115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 101060,
+      "num": 101060,
+      "word": "实验用菌不生长被研究生怒批",
+      "onboard_time": 1668961468,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 100991,
       "num": 94329,
       "word": "李峋嘴硬",
@@ -37799,6 +37903,14 @@
       "num": 95772,
       "word": "杜兰特28分11助攻",
       "onboard_time": 1667613507,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 95635,
+      "num": 95635,
+      "word": "英国骆驼预测世界杯比赛结果",
+      "onboard_time": 1668961406,
       "rank": 49,
       "category": "体育"
     },
