@@ -1,0 +1,410 @@
+{
+  "runTime": 1668929615904,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2007792,
+        "num": 2007792,
+        "word": "男子出车祸600私了6天后大出血死亡",
+        "onboard_time": 1668923787,
+        "rank": 0,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1405605,
+        "num": 1405605,
+        "word": "武汉疫情防控",
+        "onboard_time": 1668924326,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59493,
+        "num": 1265487,
+        "word": "绝美视角看神十四太空漫步",
+        "onboard_time": 1668927566,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1172792,
+        "num": 1172792,
+        "word": "江西16岁失联男孩已找到",
+        "onboard_time": 1668928105,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 774120,
+        "num": 774120,
+        "word": "在公厕被殴打女子回应",
+        "onboard_time": 1668925167,
+        "rank": 4,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 675291,
+        "num": 675291,
+        "word": "2父亲因炫耀孩子大打出手",
+        "onboard_time": 1668924687,
+        "rank": 5,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 619256,
+        "num": 619256,
+        "word": "初中生花900元文身清洗要6万",
+        "onboard_time": 1668919647,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 501300,
+        "num": 501300,
+        "word": "轻伤二级",
+        "onboard_time": 1668924445,
+        "rank": 7,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 412051,
+        "num": 412051,
+        "word": "宋雨琦因状态不佳缺席今日签售活动",
+        "onboard_time": 1668920006,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 392078,
+        "num": 392078,
+        "word": "全国医院排行榜",
+        "onboard_time": 1668926246,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 699381,
+        "num": 375489,
+        "word": "汪小菲深夜直播唱过火",
+        "onboard_time": 1668926487,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 615414,
+        "num": 374148,
+        "word": "95后四小花首轮推荐结果",
+        "onboard_time": 1668922527,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 447528,
+        "num": 373949,
+        "word": "北京新增一例死亡病例",
+        "onboard_time": 1668905066,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 356952,
+        "num": 356952,
+        "word": "点燃我温暖你希望大家理性追剧",
+        "onboard_time": 1668923905,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 351696,
+        "num": 351696,
+        "word": "王鹤棣又跳Gwalla",
+        "onboard_time": 1668920845,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 354025,
+        "num": 347880,
+        "word": "男生宿舍内跪地遭多人殴打",
+        "onboard_time": 1668928585,
+        "rank": 15,
+        "category": "社会负面,教育"
+      },
+      {
+        "raw_hot": 318214,
+        "num": 318214,
+        "word": "陈飞宇片场勾张婧仪下巴",
+        "onboard_time": 1668921207,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 232858,
+        "num": 232858,
+        "word": "世界杯",
+        "onboard_time": 1668907471,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180359,
+        "num": 180359,
+        "word": "妹妹打针哭泣3岁哥哥抱头安慰",
+        "onboard_time": 1668921147,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168490,
+        "num": 168490,
+        "word": "两公羊争斗迎头相撞一只当场死亡",
+        "onboard_time": 1668915627,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240164,
+        "num": 165195,
+        "word": "为什么越来越多人开倍速追剧",
+        "onboard_time": 1668911670,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 196925,
+        "num": 164923,
+        "word": "李峋出狱预告",
+        "onboard_time": 1668919706,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 196457,
+        "num": 163807,
+        "word": "田柾国卡塔尔世界杯主题曲MV预告",
+        "onboard_time": 1668923127,
+        "rank": 22,
+        "category": "音乐,体育"
+      },
+      {
+        "raw_hot": 149722,
+        "num": 149722,
+        "word": "当emoji学会跳kpop",
+        "onboard_time": 1668927025,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 146899,
+        "num": 146899,
+        "word": "景区猴子拿金箍棒装齐天大圣",
+        "onboard_time": 1668922527,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144602,
+        "num": 144602,
+        "word": "婚车车队占满3车道不让超车",
+        "onboard_time": 1668919527,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138682,
+        "num": 138682,
+        "word": "剖腹产黑猩猩首次见娃抱紧呜咽",
+        "onboard_time": 1668918747,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127706,
+        "num": 127706,
+        "word": "仙气乐蕴",
+        "onboard_time": 1668919166,
+        "rank": 27,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 127065,
+        "num": 127065,
+        "word": "美典当行将日军侵华罪行相册捐给中国",
+        "onboard_time": 1668917425,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126571,
+        "num": 126571,
+        "word": "顾客为抢免费猪肉大包排队2小时",
+        "onboard_time": 1668919527,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181878,
+        "num": 126097,
+        "word": "没想到对一只狐狸心动了",
+        "onboard_time": 1668921627,
+        "rank": 30,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 164789,
+        "num": 124170,
+        "word": "文俊辉说seventeen刀群舞的秘诀",
+        "onboard_time": 1668925888,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156441,
+        "num": 123553,
+        "word": "金智秀卡妹合作舞台彩排",
+        "onboard_time": 1668914066,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 156062,
+        "num": 121866,
+        "word": "邓超让鹿晗给他一个解释",
+        "onboard_time": 1668908610,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 121128,
+        "num": 121128,
+        "word": "男子养儿10年发现非亲生起诉前妻",
+        "onboard_time": 1668908487,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112989,
+        "num": 112989,
+        "word": "澳洲赛石宇奇男单夺冠",
+        "onboard_time": 1668925645,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111982,
+        "num": 111982,
+        "word": "警方通报一女子在公厕被人殴打",
+        "onboard_time": 1668912749,
+        "rank": 36,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 102896,
+        "num": 102896,
+        "word": "求求你陪狗玩一会吧",
+        "onboard_time": 1668921927,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 102249,
+        "num": 102249,
+        "word": "南瓜自己滚进锅里还盖上了盖",
+        "onboard_time": 1668928824,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102114,
+        "num": 102114,
+        "word": "卡塔尔世界杯创下多个第一次",
+        "onboard_time": 1668908910,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137740,
+        "num": 99874,
+        "word": "冯提莫足球衣六宫格随拍",
+        "onboard_time": 1668922945,
+        "rank": 40,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 120818,
+        "num": 99409,
+        "word": "NCTDREAM新歌Candy抢听",
+        "onboard_time": 1668925105,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 60034,
+        "num": 97018,
+        "word": "好像在滑一种很新的雪",
+        "onboard_time": 1668929245,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96717,
+        "num": 96717,
+        "word": "无畏高情商发言",
+        "onboard_time": 1668920786,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 92106,
+        "num": 92106,
+        "word": "北方女子南方点外卖遇巴掌大炒饭",
+        "onboard_time": 1668909330,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91734,
+        "num": 91734,
+        "word": "小伙单手拿几十万现金站马路墩子上",
+        "onboard_time": 1668916226,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85065,
+        "num": 85065,
+        "word": "货车隧道翻车2000只鸭子四散逃窜",
+        "onboard_time": 1668920127,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82948,
+        "num": 82948,
+        "word": "米饭的软硬度和啥有关",
+        "onboard_time": 1668922887,
+        "rank": 47,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 82401,
+        "num": 82401,
+        "word": "轿车占车位男子叫叉车将其丢河里",
+        "onboard_time": 1668921385,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78108,
+        "num": 78108,
+        "word": "金球奖得主44年来首次无缘世界杯",
+        "onboard_time": 1668913409,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国方案续写亚太奇迹#"
+    }
+  }
+}

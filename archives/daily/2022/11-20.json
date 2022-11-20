@@ -1,6 +1,6 @@
 {
   "startTime": 1668875307469,
-  "endTime": 1668928720252,
+  "endTime": 1668929615904,
   "band_list": [
     {
       "raw_hot": 3531288,
@@ -99,6 +99,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1172792,
+      "num": 1172792,
+      "word": "江西16岁失联男孩已找到",
+      "onboard_time": 1668928105,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 926164,
       "num": 200211,
       "word": "华晨宇 假发",
@@ -139,6 +147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 774120,
+      "num": 774120,
+      "word": "在公厕被殴打女子回应",
+      "onboard_time": 1668925167,
+      "rank": 35,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 765880,
       "num": 765880,
       "word": "晴天yyds",
@@ -171,12 +187,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 711316,
-      "num": 711316,
-      "word": "在公厕被殴打女子回应",
-      "onboard_time": 1668925167,
-      "rank": 35,
-      "category": "社会负面"
+      "raw_hot": 699381,
+      "num": 375489,
+      "word": "汪小菲深夜直播唱过火",
+      "onboard_time": 1668926487,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 698359,
@@ -203,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 675291,
+      "num": 675291,
+      "word": "2父亲因炫耀孩子大打出手",
+      "onboard_time": 1668924687,
+      "rank": 34,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 658206,
       "num": 379112,
       "word": "95后四小花首轮推荐结果",
@@ -219,28 +243,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 654200,
-      "num": 375406,
-      "word": "汪小菲深夜直播唱过火",
-      "onboard_time": 1668926487,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 631022,
       "num": 447809,
       "word": "孟美岐翻跳nxde",
       "onboard_time": 1668906928,
       "rank": 10,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 621609,
-      "num": 621609,
-      "word": "2父亲因炫耀孩子大打出手",
-      "onboard_time": 1668924687,
-      "rank": 34,
-      "category": "社会负面"
     },
     {
       "raw_hot": 595399,
@@ -403,6 +411,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 392078,
+      "num": 392078,
+      "word": "全国医院排行榜",
+      "onboard_time": 1668926246,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 387951,
       "num": 387951,
       "word": "特朗普账号重回推特",
@@ -443,14 +459,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 367074,
-      "num": 367074,
-      "word": "全国医院排行榜",
-      "onboard_time": 1668926246,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 363119,
       "num": 164510,
       "word": "周杰伦哥友会",
@@ -473,6 +481,14 @@
       "onboard_time": 1668908910,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 354025,
+      "num": 347880,
+      "word": "男生宿舍内跪地遭多人殴打",
+      "onboard_time": 1668928585,
+      "rank": 48,
+      "category": "社会负面,教育"
     },
     {
       "raw_hot": 351413,
@@ -731,14 +747,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 223706,
-      "num": 223706,
-      "word": "江西16岁失联男孩已找到",
-      "onboard_time": 1668928105,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 222404,
       "num": 222404,
       "word": "热奶宝",
@@ -979,6 +987,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 149722,
+      "num": 149722,
+      "word": "当emoji学会跳kpop",
+      "onboard_time": 1668927025,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 148710,
       "num": 145113,
       "word": "女明星待播古偶剧造型大赏",
@@ -1057,14 +1073,6 @@
       "onboard_time": 1668928105,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 137731,
-      "num": 137731,
-      "word": "当emoji学会跳kpop",
-      "onboard_time": 1668927025,
-      "rank": 26,
-      "category": "幽默"
     },
     {
       "raw_hot": 136184,
@@ -1195,6 +1203,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 102249,
+      "num": 102249,
+      "word": "南瓜自己滚进锅里还盖上了盖",
+      "onboard_time": 1668928824,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 101762,
       "num": 101762,
       "word": "世界杯预测",
@@ -1299,14 +1315,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 79533,
-      "num": 79533,
-      "word": "男生宿舍内跪地遭多人殴打",
-      "onboard_time": 1668928585,
-      "rank": 48,
-      "category": "社会负面,教育"
-    },
-    {
       "raw_hot": 77849,
       "num": 91746,
       "word": "龙傲天ber丝地瓜",
@@ -1347,8 +1355,16 @@
       "category": "影视"
     },
     {
-      "raw_hot": 52195,
-      "num": 869835,
+      "raw_hot": 60034,
+      "num": 97018,
+      "word": "好像在滑一种很新的雪",
+      "onboard_time": 1668929245,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 59493,
+      "num": 1265487,
       "word": "绝美视角看神十四太空漫步",
       "onboard_time": 1668927566,
       "rank": 2,
