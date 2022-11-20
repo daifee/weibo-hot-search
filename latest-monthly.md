@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/01 00:36:21 ~ 2022/11/21 06:36:53
+本榜单时间：2022/11/01 00:36:21 ~ 2022/11/21 07:22:20
 </p>
 </blockquote>
 <p>
@@ -4149,6 +4149,12 @@ iPhone14Pro满电无法开机（热度：775953）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2325%E5%B2%81%E5%B0%8F%E4%BC%99%E8%BE%9E%E5%8E%BB%E5%85%AC%E8%81%8C%E5%8E%BB%E7%9C%8B%E4%B8%96%E7%95%8C%E6%9D%AF%23" target="weibo">
+25岁小伙辞去公职去看世界杯（热度：765349）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9F%BA%E9%87%91%E7%BB%8F%E7%90%86%E7%BD%91%E6%81%8B%E8%A2%AB%E5%B7%A5%E5%8E%82%E5%A5%B3%E5%B7%A5%E9%AA%97%E8%BF%9130%E4%B8%87%23" target="weibo">
 基金经理网恋被工厂女工骗近30万（热度：764379）
 </a>
@@ -6005,12 +6011,6 @@ iPhone14Pro息屏可不显示壁纸（热度：625106）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2334%E5%B2%81%E7%94%B7%E5%AD%90%E6%8A%B1%E7%88%B6%E6%AF%8D%E4%B8%89%E8%83%8E%E8%A2%AB%E8%AF%AF%E5%BD%93%E6%8A%B1%E5%A5%B3%E5%84%BF%23" target="weibo">
 34岁男子抱父母三胎被误当抱女儿（热度：590172）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E8%A6%81%E6%B1%82%E4%BB%8A%E5%86%AC%E6%98%8E%E6%98%A5%E5%81%9A%E5%A5%BD%E9%98%B2%E5%A4%A7%E7%96%AB%E5%87%86%E5%A4%87%23" target="weibo">
-河南要求今冬明春做好防大疫准备（热度：589969）
 </a>
 </li>
 

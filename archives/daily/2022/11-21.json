@@ -1,6 +1,6 @@
 {
   "startTime": 1668961718135,
-  "endTime": 1668983813861,
+  "endTime": 1668986540199,
   "band_list": [
     {
       "raw_hot": 4068058,
@@ -65,6 +65,14 @@
       "onboard_time": 1668949229,
       "rank": 6,
       "category": "体育,网红"
+    },
+    {
+      "raw_hot": 765349,
+      "num": 765349,
+      "word": "25岁小伙辞去公职去看世界杯",
+      "onboard_time": 1668960630,
+      "rank": 15,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 719350,
@@ -147,6 +155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 470394,
+      "num": 470394,
+      "word": "世界杯东道主揭幕战92年首败",
+      "onboard_time": 1668968116,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 413165,
       "num": 372949,
       "word": "C罗梅西合影是PS的",
@@ -187,6 +203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 352851,
+      "num": 352851,
+      "word": "世界杯历史上东道主首战从未输球",
+      "onboard_time": 1668970395,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 345251,
       "num": 345251,
       "word": "世界杯直播",
@@ -211,8 +235,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 303689,
-      "num": 303689,
+      "raw_hot": 334135,
+      "num": 334135,
       "word": "实验用菌不生长被研究生怒批",
       "onboard_time": 1668961468,
       "rank": 48,
@@ -225,14 +249,6 @@
       "onboard_time": 1668957102,
       "rank": 17,
       "category": "情感"
-    },
-    {
-      "raw_hot": 294447,
-      "num": 294447,
-      "word": "25岁小伙辞去公职去看世界杯",
-      "onboard_time": 1668960630,
-      "rank": 15,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 291014,
@@ -339,20 +355,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 201239,
+      "num": 201239,
+      "word": "暴雪CEO回应续约事件",
+      "onboard_time": 1668984856,
+      "rank": 15,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 195320,
       "num": 165642,
       "word": "节气姑娘红名",
       "onboard_time": 1668960272,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 190405,
-      "num": 190405,
-      "word": "世界杯东道主揭幕战92年首败",
-      "onboard_time": 1668968116,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 183667,
@@ -395,20 +411,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 171374,
+      "num": 171374,
+      "word": "卡塔尔0比2厄瓜多尔",
+      "onboard_time": 1668967818,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 163220,
       "num": 163220,
       "word": "北京加大全市统筹实行区自为战",
       "onboard_time": 1668941128,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 160351,
-      "num": 105904,
-      "word": "世界杯历史上东道主首战从未输球",
-      "onboard_time": 1668970395,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 154128,
@@ -443,8 +459,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 134576,
-      "num": 134576,
+      "raw_hot": 142352,
+      "num": 142352,
       "word": "厄瓜多尔门将长啥样",
       "onboard_time": 1668968116,
       "rank": 37,
@@ -507,6 +523,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 113522,
+      "num": 113522,
+      "word": "原来真有人装户外空调",
+      "onboard_time": 1668976451,
+      "rank": 49,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 109921,
       "num": 109921,
       "word": "维特尔",
@@ -531,6 +555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 102974,
+      "num": 91598,
+      "word": "刘维何超莲下班就解散的友情",
+      "onboard_time": 1668963507,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 101810,
       "num": 72770,
       "word": "王后伞下",
@@ -539,27 +571,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 98160,
-      "num": 84779,
-      "word": "原来真有人装户外空调",
-      "onboard_time": 1668976451,
-      "rank": 49,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 95635,
       "num": 95635,
       "word": "英国骆驼预测世界杯比赛结果",
       "onboard_time": 1668961406,
       "rank": 49,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 92250,
-      "num": 92250,
-      "word": "卡塔尔0比2厄瓜多尔",
-      "onboard_time": 1668967818,
-      "rank": 24,
       "category": "体育"
     },
     {
@@ -587,6 +603,30 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 76381,
+      "num": 76381,
+      "word": "海信",
+      "onboard_time": 1668985763,
+      "rank": 37,
+      "category": "体育,科技"
+    },
+    {
+      "raw_hot": 75691,
+      "num": 75691,
+      "word": "厄瓜多尔将进球献给已故队友",
+      "onboard_time": 1668985460,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 70441,
+      "num": 70441,
+      "word": "潘粤明作画对比卡塔尔和厄瓜多尔实力",
+      "onboard_time": 1668983535,
+      "rank": 46,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 68356,
       "num": 72704,
       "word": "瓦伦西亚梅开二度",
@@ -611,14 +651,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 56539,
-      "num": 56539,
-      "word": "刘维何超莲下班就解散的友情",
-      "onboard_time": 1668963507,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 54169,
       "num": 39088,
       "word": "王冰冰笑得好甜",
@@ -635,20 +667,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 22852,
-      "num": 22852,
+      "raw_hot": 42799,
+      "num": 42799,
       "word": "杨洋晒黑色墨镜自拍",
       "onboard_time": 1668978012,
       "rank": 48,
       "category": "艺人"
     },
     {
-      "raw_hot": 22264,
-      "num": 22264,
-      "word": "潘粤明作画对比卡塔尔和厄瓜多尔实力",
-      "onboard_time": 1668983535,
-      "rank": 46,
-      "category": "体育,艺人"
+      "raw_hot": 40730,
+      "num": 40730,
+      "word": "熬夜看球后建议直接补觉",
+      "onboard_time": 1668986002,
+      "rank": 48,
+      "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 40197,
+      "num": 40197,
+      "word": "刘暖曦自述案发当天经过",
+      "onboard_time": 1668986482,
+      "rank": 49,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
