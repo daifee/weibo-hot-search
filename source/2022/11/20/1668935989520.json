@@ -1,0 +1,410 @@
+{
+  "runTime": 1668935989520,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1796887,
+        "num": 1796887,
+        "word": "江西16岁失联男孩已找到",
+        "onboard_time": 1668928105,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1492940,
+        "num": 1492940,
+        "word": "男子出车祸600私了6天后大出血死亡",
+        "onboard_time": 1668923787,
+        "rank": 1,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 41983,
+        "num": 900572,
+        "word": "绝美视角看神十四太空漫步",
+        "onboard_time": 1668927566,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 780200,
+        "num": 780200,
+        "word": "李峋误会朱韵结婚",
+        "onboard_time": 1668932487,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 665596,
+        "num": 665596,
+        "word": "武汉疫情防控",
+        "onboard_time": 1668924326,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 506083,
+        "num": 506083,
+        "word": "赵丽颖说张艺兴比较呆萌",
+        "onboard_time": 1668931708,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 455765,
+        "num": 455765,
+        "word": "中国球迷给梅西的迷惑建议",
+        "onboard_time": 1668932784,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 436775,
+        "num": 436775,
+        "word": "世界杯男模",
+        "onboard_time": 1668931407,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 424491,
+        "num": 424491,
+        "word": "男子请工人疏通下水道被收1600元",
+        "onboard_time": 1668929668,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 400650,
+        "num": 400650,
+        "word": "内马尔预测巴西是冠军",
+        "onboard_time": 1668932726,
+        "rank": 9,
+        "category": "体育,综艺"
+      },
+      {
+        "raw_hot": 547229,
+        "num": 394894,
+        "word": "虞书欣欧阳娜娜徐璐今日营业照",
+        "onboard_time": 1668933447,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 366132,
+        "num": 366132,
+        "word": "初中生花900元文身清洗要6万",
+        "onboard_time": 1668919647,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343945,
+        "num": 343945,
+        "word": "2父亲因炫耀孩子大打出手",
+        "onboard_time": 1668924687,
+        "rank": 12,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 339780,
+        "num": 339780,
+        "word": "北京奥运媒体包再现卡塔尔",
+        "onboard_time": 1668933805,
+        "rank": 13,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 321511,
+        "num": 321511,
+        "word": "马斯克发布与推特员工凌晨加班照",
+        "onboard_time": 1668932067,
+        "rank": 14,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 316118,
+        "num": 316118,
+        "word": "汪小菲深夜直播唱过火",
+        "onboard_time": 1668926487,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 314952,
+        "num": 314952,
+        "word": "当男朋友看了卿卿日常",
+        "onboard_time": 1668929846,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 283487,
+        "num": 283487,
+        "word": "南瓜自己滚进锅里还盖上了盖",
+        "onboard_time": 1668928824,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247321,
+        "num": 247321,
+        "word": "全国医院排行榜",
+        "onboard_time": 1668926246,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228956,
+        "num": 228956,
+        "word": "北京新增一例死亡病例",
+        "onboard_time": 1668905066,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 642445,
+        "num": 228678,
+        "word": "在公厕被殴打女子回应",
+        "onboard_time": 1668925167,
+        "rank": 20,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 229560,
+        "num": 228441,
+        "word": "陈飞宇晋江男主适配度",
+        "onboard_time": 1668934527,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 227638,
+        "num": 227638,
+        "word": "世界杯",
+        "onboard_time": 1668907471,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 217077,
+        "num": 217077,
+        "word": "原来居家也能有效减肥",
+        "onboard_time": 1668932307,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205997,
+        "num": 205997,
+        "word": "95后四小花首轮推荐结果",
+        "onboard_time": 1668922527,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202164,
+        "num": 202164,
+        "word": "王鹤棣又跳Gwalla",
+        "onboard_time": 1668920845,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194335,
+        "num": 194335,
+        "word": "老兵立功证书上主要事迹一栏是空白",
+        "onboard_time": 1668934765,
+        "rank": 26,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 178570,
+        "num": 178570,
+        "word": "南京一小区多条流浪猫接连死亡",
+        "onboard_time": 1668934888,
+        "rank": 27,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 172989,
+        "num": 172989,
+        "word": "世界杯上满满中国设计小巧思",
+        "onboard_time": 1668930987,
+        "rank": 28,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 135835,
+        "num": 172797,
+        "word": "看恐怖片被吓到就这样做",
+        "onboard_time": 1668934947,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 197356,
+        "num": 172774,
+        "word": "秦施怼前男友太拼了",
+        "onboard_time": 1668935367,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 172625,
+        "num": 172625,
+        "word": "没想到对一只狐狸心动了",
+        "onboard_time": 1668921627,
+        "rank": 31,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 162202,
+        "num": 162202,
+        "word": "鹿晗是懂解释的",
+        "onboard_time": 1668932964,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 147117,
+        "num": 147117,
+        "word": "点燃我温暖你希望大家理性追剧",
+        "onboard_time": 1668923905,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 134396,
+        "num": 134396,
+        "word": "千万不要用皮蛋做馄饨",
+        "onboard_time": 1668935668,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 118705,
+        "num": 118705,
+        "word": "当emoji学会跳kpop",
+        "onboard_time": 1668927025,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112402,
+        "num": 112402,
+        "word": "为什么有人不喜欢过生日",
+        "onboard_time": 1668935424,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 109826,
+        "num": 109826,
+        "word": "轻伤二级",
+        "onboard_time": 1668924445,
+        "rank": 37,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 107622,
+        "num": 107622,
+        "word": "北京疫情发布会",
+        "onboard_time": 1668935727,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100292,
+        "num": 100292,
+        "word": "把自己的心情永远置顶",
+        "onboard_time": 1668929726,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 143111,
+        "num": 100232,
+        "word": "命韵峋环恋爱循环",
+        "onboard_time": 1668932906,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 141041,
+        "num": 99904,
+        "word": "宋雨琦因状态不佳缺席今日签售活动",
+        "onboard_time": 1668920006,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99113,
+        "num": 99113,
+        "word": "32岁全职妈妈自学化妆2月气质大变",
+        "onboard_time": 1668935786,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93248,
+        "num": 93248,
+        "word": "仙气乐蕴",
+        "onboard_time": 1668919166,
+        "rank": 43,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 91615,
+        "num": 91615,
+        "word": "两公羊争斗迎头相撞一只当场死亡",
+        "onboard_time": 1668915627,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85781,
+        "num": 85781,
+        "word": "福州警方通报轿车占车位被扔进河",
+        "onboard_time": 1668935306,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85346,
+        "num": 85346,
+        "word": "剖腹产黑猩猩首次见娃抱紧呜咽",
+        "onboard_time": 1668918747,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81935,
+        "num": 81935,
+        "word": "海鸥喜欢去昆明的原因",
+        "onboard_time": 1668935908,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 80187,
+        "num": 80187,
+        "word": "婚车车队占满3车道不让超车",
+        "onboard_time": 1668919527,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79897,
+        "num": 79897,
+        "word": "美典当行将日军侵华罪行相册捐给中国",
+        "onboard_time": 1668917425,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#既提出中国主张又拿出中国行动#"
+    }
+  }
+}
