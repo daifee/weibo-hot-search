@@ -1,0 +1,410 @@
+{
+  "runTime": 1669022502807,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2602231,
+        "num": 2602231,
+        "word": "卡塔尔王子",
+        "onboard_time": 1669017937,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1138853,
+        "num": 1138853,
+        "word": "退钱哥",
+        "onboard_time": 1668999090,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206070,
+        "num": 1092223,
+        "word": "中国水下考古又一大发现",
+        "onboard_time": 1669002092,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1077791,
+        "num": 1077791,
+        "word": "欧阳娜娜品牌定价",
+        "onboard_time": 1669018652,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 809086,
+        "num": 809086,
+        "word": "卡塔尔在当一种很新的东道主",
+        "onboard_time": 1669018952,
+        "rank": 4,
+        "category": "体育,幽默"
+      },
+      {
+        "raw_hot": 704566,
+        "num": 704566,
+        "word": "奶茶店老板娘回应穿着性感被举报",
+        "onboard_time": 1669013614,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 444713,
+        "num": 444713,
+        "word": "罗一舟说九个人可以成团非常难得",
+        "onboard_time": 1669020095,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 418320,
+        "num": 418320,
+        "word": "李峋朱韵被误以为有办公室恋情",
+        "onboard_time": 1669019495,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 397272,
+        "num": 397272,
+        "word": "儿女考满分爸爸奖励60秒超市随便买",
+        "onboard_time": 1669014813,
+        "rank": 8,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 388718,
+        "num": 388718,
+        "word": "无疫情地区不得扩大核酸检测范围",
+        "onboard_time": 1669016913,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 619275,
+        "num": 388152,
+        "word": "王鹤棣吻戏摘眼镜",
+        "onboard_time": 1669017152,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 378019,
+        "num": 378019,
+        "word": "金晨合作郑晓龙新剧今日开机",
+        "onboard_time": 1669021714,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 369829,
+        "num": 369829,
+        "word": "00后妻子嫌丈夫吃独食欲跳车轻生",
+        "onboard_time": 1669011093,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335489,
+        "num": 335489,
+        "word": "日本岳云鹏募捐393万带孩子看世界杯",
+        "onboard_time": 1669016194,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 322468,
+        "num": 322468,
+        "word": "在线收留卡塔尔心碎王子",
+        "onboard_time": 1669020636,
+        "rank": 14,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 307585,
+        "num": 307585,
+        "word": "新冠肺炎疫情风险区划定及管控方案",
+        "onboard_time": 1669012651,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296868,
+        "num": 296868,
+        "word": "手机APP为什么越做越大",
+        "onboard_time": 1669015955,
+        "rank": 16,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 280371,
+        "num": 280371,
+        "word": "柯南史上最be剧情",
+        "onboard_time": 1669020813,
+        "rank": 17,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 274978,
+        "num": 274978,
+        "word": "中药和美式的区别",
+        "onboard_time": 1669011392,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 263558,
+        "num": 263558,
+        "word": "女儿1个电话爸爸骑车20公里送鸡腿",
+        "onboard_time": 1669015295,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268888,
+        "num": 257264,
+        "word": "行尸走肉全剧大结局",
+        "onboard_time": 1669020273,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 249403,
+        "num": 249403,
+        "word": "卡塔尔是懂分组的",
+        "onboard_time": 1669009472,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 232809,
+        "num": 232809,
+        "word": "体测完像被吸干了阳气",
+        "onboard_time": 1669019616,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 232146,
+        "num": 232146,
+        "word": "世界杯最贵球队登场",
+        "onboard_time": 1669020514,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207664,
+        "num": 207664,
+        "word": "7岁女童偷吃燃脂巧克力进ICU",
+        "onboard_time": 1669008694,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207124,
+        "num": 207124,
+        "word": "240斤男子为结婚5个月减90斤",
+        "onboard_time": 1669012772,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202834,
+        "num": 202834,
+        "word": "GAI王斯然真夫妻真糖真好嗑",
+        "onboard_time": 1669014631,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 198109,
+        "num": 198109,
+        "word": "中村一叶ZICO合跳challenge视频",
+        "onboard_time": 1669022135,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 193428,
+        "num": 193428,
+        "word": "业主嫌回家如上朝要求换小区大门",
+        "onboard_time": 1669013495,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161805,
+        "num": 193403,
+        "word": "你的背包背到现在还没烂",
+        "onboard_time": 1669016133,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221198,
+        "num": 193401,
+        "word": "高见鸿故意激怒李峋",
+        "onboard_time": 1669021654,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 197329,
+        "num": 193399,
+        "word": "卿卿日常不是白露是霜降",
+        "onboard_time": 1669017394,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 193398,
+        "num": 193398,
+        "word": "朱韵关于李峋的朋友圈都是仅自己可见",
+        "onboard_time": 1669016074,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 162628,
+        "num": 162628,
+        "word": "北中医1名学生核酸阳性",
+        "onboard_time": 1669010129,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157372,
+        "num": 157372,
+        "word": "单臂舅舅冒雨跪地摘葡萄救患癌外甥",
+        "onboard_time": 1669014691,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155792,
+        "num": 155792,
+        "word": "英格兰队战伊朗前将单膝下跪",
+        "onboard_time": 1669007498,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154217,
+        "num": 154217,
+        "word": "张婧仪看到陈飞宇受伤时的眼神",
+        "onboard_time": 1669018535,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 150571,
+        "num": 150571,
+        "word": "居家隔离期间赋码管理",
+        "onboard_time": 1669017336,
+        "rank": 37,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 148086,
+        "num": 148086,
+        "word": "符合哪些条件可停止全员核酸",
+        "onboard_time": 1669013972,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68536,
+        "num": 145689,
+        "word": "镜头里的卡塔尔",
+        "onboard_time": 1669021235,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143676,
+        "num": 143676,
+        "word": "新冠肺炎疫情居家健康监测指南",
+        "onboard_time": 1669017336,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139445,
+        "num": 139445,
+        "word": "钮祜禄李峋",
+        "onboard_time": 1669022376,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 137763,
+        "num": 137763,
+        "word": "伊朗",
+        "onboard_time": 1669004193,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136967,
+        "num": 136967,
+        "word": "财阀家的小儿子 财阀家的小孙子",
+        "onboard_time": 1669011872,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 136488,
+        "num": 136488,
+        "word": "穆里尼奥称C罗将斩获金靴",
+        "onboard_time": 1669016313,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108636,
+        "num": 108636,
+        "word": "世界杯摄影师能有多稳",
+        "onboard_time": 1669022074,
+        "rank": 45,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 105161,
+        "num": 105161,
+        "word": "京沪非私营单位平均工资超19万",
+        "onboard_time": 1669014753,
+        "rank": 46,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 100875,
+        "num": 100875,
+        "word": "西班牙队7名球员吹空调感冒",
+        "onboard_time": 1669022315,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100650,
+        "num": 100650,
+        "word": "预测还是得看管泽元",
+        "onboard_time": 1669020212,
+        "rank": 48,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 99735,
+        "num": 99735,
+        "word": "室友被子长蘑菇小伙帮忙剪掉",
+        "onboard_time": 1669005514,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国的神舟之路将留下更多精彩#"
+    }
+  }
+}

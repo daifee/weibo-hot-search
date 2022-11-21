@@ -1,6 +1,6 @@
 {
   "startTime": 1668961718135,
-  "endTime": 1669020176130,
+  "endTime": 1669022502807,
   "band_list": [
     {
       "raw_hot": 4068058,
@@ -16,6 +16,14 @@
       "word": "卡塔尔vs厄瓜多尔",
       "onboard_time": 1668949769,
       "rank": 1,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2602231,
+      "num": 2602231,
+      "word": "卡塔尔王子",
+      "onboard_time": 1669017937,
+      "rank": 4,
       "category": "体育"
     },
     {
@@ -41,14 +49,6 @@
       "onboard_time": 1668996210,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1888282,
-      "num": 1888282,
-      "word": "卡塔尔王子",
-      "onboard_time": 1669017937,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 1822592,
@@ -129,6 +129,14 @@
       "onboard_time": 1668998608,
       "rank": 8,
       "category": "体育,幽默"
+    },
+    {
+      "raw_hot": 1077791,
+      "num": 1077791,
+      "word": "欧阳娜娜品牌定价",
+      "onboard_time": 1669018652,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 1050384,
@@ -227,6 +235,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 809086,
+      "num": 809086,
+      "word": "卡塔尔在当一种很新的东道主",
+      "onboard_time": 1669018952,
+      "rank": 34,
+      "category": "体育,幽默"
+    },
+    {
       "raw_hot": 798238,
       "num": 798238,
       "word": "7岁女童偷吃燃脂巧克力进ICU",
@@ -284,7 +300,7 @@
     },
     {
       "raw_hot": 708311,
-      "num": 365626,
+      "num": 388152,
       "word": "王鹤棣吻戏摘眼镜",
       "onboard_time": 1669017152,
       "rank": 10,
@@ -329,14 +345,6 @@
       "onboard_time": 1668963025,
       "rank": 18,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 601056,
-      "num": 601056,
-      "word": "欧阳娜娜品牌定价",
-      "onboard_time": 1669018652,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 580854,
@@ -507,12 +515,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 449164,
-      "num": 449164,
-      "word": "卡塔尔在当一种很新的东道主",
-      "onboard_time": 1669018952,
-      "rank": 34,
-      "category": "体育,幽默"
+      "raw_hot": 444713,
+      "num": 444713,
+      "word": "罗一舟说九个人可以成团非常难得",
+      "onboard_time": 1669020095,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 442698,
@@ -571,8 +579,16 @@
       "category": "影视"
     },
     {
+      "raw_hot": 418320,
+      "num": 418320,
+      "word": "李峋朱韵被误以为有办公室恋情",
+      "onboard_time": 1669019495,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 414154,
-      "num": 1081543,
+      "num": 1092223,
       "word": "中国水下考古又一大发现",
       "onboard_time": 1669002092,
       "rank": 2,
@@ -627,6 +643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 388718,
+      "num": 388718,
+      "word": "无疫情地区不得扩大核酸检测范围",
+      "onboard_time": 1669016913,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 387349,
       "num": 387349,
       "word": "英格兰队战伊朗前将单膝下跪",
@@ -641,6 +665,14 @@
       "onboard_time": 1669002688,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 378019,
+      "num": 378019,
+      "word": "金晨合作郑晓龙新剧今日开机",
+      "onboard_time": 1669021714,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 373725,
@@ -747,6 +779,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 335489,
+      "num": 335489,
+      "word": "日本岳云鹏募捐393万带孩子看世界杯",
+      "onboard_time": 1669016194,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 334768,
       "num": 220099,
       "word": "菅田将晖变样了",
@@ -793,6 +833,14 @@
       "onboard_time": 1669000587,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 322468,
+      "num": 322468,
+      "word": "在线收留卡塔尔心碎王子",
+      "onboard_time": 1669020636,
+      "rank": 14,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 311378,
@@ -851,14 +899,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 284224,
-      "num": 284224,
-      "word": "日本岳云鹏募捐393万带孩子看世界杯",
-      "onboard_time": 1669016194,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 282518,
       "num": 282518,
       "word": "管泽元 世界杯",
@@ -883,6 +923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 280371,
+      "num": 280371,
+      "word": "柯南史上最be剧情",
+      "onboard_time": 1669020813,
+      "rank": 17,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 274666,
       "num": 274666,
       "word": "奥地利2比0意大利",
@@ -897,6 +945,14 @@
       "onboard_time": 1668956497,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 268888,
+      "num": 257264,
+      "word": "行尸走肉全剧大结局",
+      "onboard_time": 1669020273,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 267605,
@@ -979,14 +1035,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 253876,
-      "num": 253876,
-      "word": "无疫情地区不得扩大核酸检测范围",
-      "onboard_time": 1669016913,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 251089,
       "num": 251089,
       "word": "朱韵关于李峋的朋友圈都是仅自己可见",
@@ -1019,14 +1067,6 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 237916,
-      "num": 225403,
-      "word": "李峋朱韵被误以为有办公室恋情",
-      "onboard_time": 1669019495,
-      "rank": 23,
-      "category": "影视"
-    },
-    {
       "raw_hot": 235648,
       "num": 235648,
       "word": "重庆30元蔬菜包里有什么",
@@ -1041,6 +1081,22 @@
       "onboard_time": 1669006898,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 232809,
+      "num": 232809,
+      "word": "体测完像被吸干了阳气",
+      "onboard_time": 1669019616,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 232146,
+      "num": 232146,
+      "word": "世界杯最贵球队登场",
+      "onboard_time": 1669020514,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 228293,
@@ -1065,6 +1121,14 @@
       "onboard_time": 1668985763,
       "rank": 37,
       "category": "体育,科技"
+    },
+    {
+      "raw_hot": 221198,
+      "num": 193401,
+      "word": "高见鸿故意激怒李峋",
+      "onboard_time": 1669021654,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 219423,
@@ -1145,6 +1209,22 @@
       "onboard_time": 1669004731,
       "rank": 42,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 198109,
+      "num": 198109,
+      "word": "中村一叶ZICO合跳challenge视频",
+      "onboard_time": 1669022135,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 197329,
+      "num": 193399,
+      "word": "卿卿日常不是白露是霜降",
+      "onboard_time": 1669017394,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 196446,
@@ -1259,14 +1339,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 173248,
-      "num": 173248,
-      "word": "卿卿日常不是白露是霜降",
-      "onboard_time": 1669017394,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 171767,
       "num": 171767,
       "word": "世界杯彩票",
@@ -1281,14 +1353,6 @@
       "onboard_time": 1668967818,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 170481,
-      "num": 170481,
-      "word": "体测完像被吸干了阳气",
-      "onboard_time": 1669019616,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 169465,
@@ -1336,14 +1400,6 @@
       "word": "陈飞宇张婧仪隔空玩游戏",
       "onboard_time": 1669006596,
       "rank": 43,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 159001,
-      "num": 159001,
-      "word": "罗一舟说九个人可以成团非常难得",
-      "onboard_time": 1669020095,
-      "rank": 35,
       "category": "作品衍生"
     },
     {
@@ -1443,6 +1499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 143676,
+      "num": 143676,
+      "word": "新冠肺炎疫情居家健康监测指南",
+      "onboard_time": 1669017336,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 142659,
       "num": 142659,
       "word": "张艺兴演唱会旧金山站彩排照",
@@ -1457,6 +1521,14 @@
       "onboard_time": 1668985460,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139445,
+      "num": 139445,
+      "word": "钮祜禄李峋",
+      "onboard_time": 1669022376,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 138743,
@@ -1481,14 +1553,6 @@
       "onboard_time": 1669010072,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 133387,
-      "num": 133387,
-      "word": "新冠肺炎疫情居家健康监测指南",
-      "onboard_time": 1669017336,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 133302,
@@ -1683,6 +1747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 108636,
+      "num": 108636,
+      "word": "世界杯摄影师能有多稳",
+      "onboard_time": 1669022074,
+      "rank": 45,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 107984,
       "num": 107984,
       "word": "许凯爱的二八定律大学球衣路透",
@@ -1753,6 +1825,22 @@
       "onboard_time": 1668983535,
       "rank": 46,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 100875,
+      "num": 100875,
+      "word": "西班牙队7名球员吹空调感冒",
+      "onboard_time": 1669022315,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 100650,
+      "num": 100650,
+      "word": "预测还是得看管泽元",
+      "onboard_time": 1669020212,
+      "rank": 48,
+      "category": "游戏,体育"
     },
     {
       "raw_hot": 100497,
@@ -1857,6 +1945,14 @@
       "onboard_time": 1668964223,
       "rank": 42,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 68536,
+      "num": 145689,
+      "word": "镜头里的卡塔尔",
+      "onboard_time": 1669021235,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 68356,
