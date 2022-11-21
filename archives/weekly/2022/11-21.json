@@ -1,6 +1,6 @@
 {
   "startTime": 1668961718135,
-  "endTime": 1669048272938,
+  "endTime": 1669049524414,
   "band_list": [
     {
       "raw_hot": 4068058,
@@ -379,6 +379,14 @@
       "category": "体育,幽默"
     },
     {
+      "raw_hot": 806139,
+      "num": 806139,
+      "word": "别再踩公厕马桶圈了",
+      "onboard_time": 1669046794,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 798238,
       "num": 798238,
       "word": "7岁女童偷吃燃脂巧克力进ICU",
@@ -473,6 +481,14 @@
       "onboard_time": 1669034982,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 655424,
+      "num": 655424,
+      "word": "13岁女孩全身颤抖向店员求助",
+      "onboard_time": 1669047394,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 655041,
@@ -1179,6 +1195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 344666,
+      "num": 344666,
+      "word": "女子工作5年前后对比判若两人",
+      "onboard_time": 1669046319,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 341195,
       "num": 341195,
       "word": "这就是寄猫篱下吧",
@@ -1323,6 +1347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 300283,
+      "num": 300283,
+      "word": "格拉利什 庆祝动作",
+      "onboard_time": 1669046020,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 299708,
       "num": 288034,
       "word": "柯南史上最be剧情",
@@ -1337,14 +1369,6 @@
       "onboard_time": 1669015955,
       "rank": 44,
       "category": "科技"
-    },
-    {
-      "raw_hot": 297604,
-      "num": 297604,
-      "word": "别再踩公厕马桶圈了",
-      "onboard_time": 1669046794,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 294718,
@@ -1395,6 +1419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 286074,
+      "num": 286074,
+      "word": "大叔球场上给小伙展示账户余额",
+      "onboard_time": 1669045364,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 285097,
       "num": 285097,
       "word": "3万度电能干什么",
@@ -1409,14 +1441,6 @@
       "onboard_time": 1668963145,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 282496,
-      "num": 282496,
-      "word": "大叔球场上给小伙展示账户余额",
-      "onboard_time": 1669045364,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 281412,
@@ -1547,14 +1571,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 254358,
-      "num": 254358,
-      "word": "格拉利什 庆祝动作",
-      "onboard_time": 1669046020,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 254165,
       "num": 254165,
       "word": "Jennie新歌",
@@ -1619,14 +1635,6 @@
       "category": "体育,幽默"
     },
     {
-      "raw_hot": 245494,
-      "num": 181012,
-      "word": "13岁女孩全身颤抖向店员求助",
-      "onboard_time": 1669047394,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 245041,
       "num": 245041,
       "word": "世界杯",
@@ -1657,14 +1665,6 @@
       "onboard_time": 1668998189,
       "rank": 31,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 239603,
-      "num": 239603,
-      "word": "女子工作5年前后对比判若两人",
-      "onboard_time": 1669046319,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 235648,
@@ -1705,6 +1705,14 @@
       "onboard_time": 1668995011,
       "rank": 34,
       "category": "体育,音乐"
+    },
+    {
+      "raw_hot": 226417,
+      "num": 226417,
+      "word": "命韵峋环",
+      "onboard_time": 1669046915,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 225998,
@@ -1777,14 +1785,6 @@
       "onboard_time": 1668947248,
       "rank": 24,
       "category": "美食"
-    },
-    {
-      "raw_hot": 212732,
-      "num": 178968,
-      "word": "命韵峋环",
-      "onboard_time": 1669046915,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 211057,
@@ -2491,6 +2491,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 128253,
+      "num": 128253,
+      "word": "边牧和萨摩耶的区别",
+      "onboard_time": 1669047334,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 126770,
       "num": 126770,
       "word": "加满一箱油将少花7元",
@@ -2521,14 +2529,6 @@
       "onboard_time": 1668997647,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 125529,
-      "num": 125529,
-      "word": "边牧和萨摩耶的区别",
-      "onboard_time": 1669047334,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 125052,
@@ -2584,6 +2584,14 @@
       "word": "卡塔尔世界杯32强巨型球衣",
       "onboard_time": 1668962847,
       "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 117859,
+      "num": 117859,
+      "word": "懒人瘦肚子真的很简单",
+      "onboard_time": 1669047513,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -2665,6 +2673,14 @@
       "onboard_time": 1669010974,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 110034,
+      "num": 110034,
+      "word": "卿卿日常好笑又好哭",
+      "onboard_time": 1669046376,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 109921,
@@ -2811,14 +2827,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 99555,
-      "num": 112949,
-      "word": "懒人瘦肚子真的很简单",
-      "onboard_time": 1669047513,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 99262,
       "num": 99262,
       "word": "pgc2022",
@@ -2881,6 +2889,14 @@
       "onboard_time": 1669046675,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 85743,
+      "num": 85743,
+      "word": "听八卦真的不分年龄",
+      "onboard_time": 1669048767,
+      "rank": 47,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 84221,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/01 00:36:21 ~ 2022/11/22 00:31:12
+本榜单时间：2022/11/01 00:36:21 ~ 2022/11/22 00:52:04
 </p>
 </blockquote>
 <p>
@@ -4113,6 +4113,12 @@ cheerup 弃剧（热度：822139）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%AB%E5%86%8D%E8%B8%A9%E5%85%AC%E5%8E%95%E9%A9%AC%E6%A1%B6%E5%9C%88%E4%BA%86%23" target="weibo">
+别再踩公厕马桶圈了（热度：806139）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A2%A8%E6%B3%B0%E9%99%A2%E8%B8%A9%E8%B8%8F%E4%BA%8B%E6%95%85%E8%B0%83%E6%9F%A5%E6%96%B0%E8%BF%9B%E5%B1%95%23" target="weibo">
 梨泰院踩踏事故调查新进展（热度：803437）
 </a>
@@ -5511,6 +5517,12 @@ hybe将明年推出泡泡（热度：657725）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2313%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%85%A8%E8%BA%AB%E9%A2%A4%E6%8A%96%E5%90%91%E5%BA%97%E5%91%98%E6%B1%82%E5%8A%A9%23" target="weibo">
+13岁女孩全身颤抖向店员求助（热度：655424）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E5%9B%9E%E5%A4%8D%E9%80%80%E9%92%B1%E5%93%A5%E8%AF%B4%E4%B8%96%E7%95%8C%E6%9D%AF%E7%BB%93%E6%9D%9F%E7%BA%A6%E4%B8%80%E5%9C%BA%23" target="weibo">
 鹿晗回复退钱哥说世界杯结束约一场（热度：655041）
 </a>
@@ -5999,18 +6011,6 @@ iPhone14Pro息屏可不显示壁纸（热度：625106）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9B%B4%E6%92%AD%E9%97%B49%E5%9D%979%E6%8A%A2%E4%BA%94%E6%A1%B6%E6%B3%A1%E9%9D%A2%E4%BB%85%E6%8B%87%E6%8C%87%E5%A4%A7%23" target="weibo">
 直播间9块9抢五桶泡面仅拇指大（热度：618130）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E8%B4%AD%E9%A6%A5%E8%95%BE%E8%AF%97%E4%BF%9D%E6%B9%BF%E6%B0%B4%E5%86%85%E6%9C%89%E4%B8%80%E5%8F%AA%E8%99%AB%23" target="weibo">
-网购馥蕾诗保湿水内有一只虫（热度：618069）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%8C%E8%8A%B1%E9%A1%BA%23" target="weibo">
-同花顺（热度：617957）
 </a>
 </li>
 
