@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/01 00:36:21 ~ 2022/11/21 07:37:15
+本榜单时间：2022/11/01 00:36:21 ~ 2022/11/21 09:55:47
 </p>
 </blockquote>
 <p>
@@ -485,6 +485,12 @@ T1和DRX决胜局（热度：3699608）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%93%81%23" target="weibo">
 上海地铁（热度：2231994）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E6%9A%96%E6%9B%A6%E5%9B%9E%E5%BA%94%E6%B1%9F%E6%AD%8C%E9%81%97%E4%BD%93%E7%85%A7%E7%89%87%E7%96%91%E9%81%AD%E6%B3%84%E9%9C%B2%23" target="weibo">
+刘暖曦回应江歌遗体照片疑遭泄露（热度：2231921）
 </a>
 </li>
 
@@ -1335,6 +1341,12 @@ Faker（热度：1632969）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E6%9A%96%E6%9B%A6%E8%87%AA%E8%BF%B0%E6%A1%88%E5%8F%91%E5%BD%93%E5%A4%A9%E7%BB%8F%E8%BF%87%23" target="weibo">
+刘暖曦自述案发当天经过（热度：1518851）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E7%88%B1%E5%86%B2%E9%94%8B%E7%9A%84%E5%8B%87%E5%A3%AB%23" target="weibo">
 为爱冲锋的勇士（热度：1516741）
 </a>
@@ -1343,6 +1355,12 @@ Faker（热度：1632969）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AF%B7%E5%85%81%E8%AE%B8%E5%9B%BD%E4%BA%A7%E7%94%B5%E8%A7%86%E5%89%A7%E9%87%8C%E6%9C%89%E4%B8%AD%E5%A5%B3%E7%9A%84%E5%AD%98%E5%9C%A8%23" target="weibo">
 请允许国产电视剧里有中女的存在（热度：1515387）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E8%BF%98%E6%B4%BB%E7%9D%80%E5%8D%B4%E8%A2%AB%E4%BA%BA%E7%BD%91%E7%BB%9C%E7%A5%AD%E5%A5%A04.3%E4%B8%87%E6%AC%A1%23" target="weibo">
+人还活着却被人网络祭奠4.3万次（热度：1514550）
 </a>
 </li>
 
@@ -1869,6 +1887,12 @@ gemini（热度：1285265）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%99%A4%E4%BA%86%E4%B8%AD%E5%9B%BD%E9%98%9F%E6%B2%A1%E5%8E%BB%E5%85%B6%E4%BB%96%E9%83%BD%E5%8E%BB%E4%BA%86%23" target="weibo">
+中国除了中国队没去其他都去了（热度：1246040）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%8C%AB%E5%8F%BC%E5%B7%A8%E5%9E%8B%E8%9F%91%E8%9E%82%E5%9B%9E%E5%AE%B6%E8%BA%BA%E5%BA%8A%E6%8A%B1%E7%9D%80%E7%8E%A9%23" target="weibo">
 小猫叼巨型蟑螂回家躺床抱着玩（热度：1242915）
 </a>
@@ -1985,6 +2009,12 @@ Deft世界赛首冠（热度：1226043）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E9%A3%9E%E5%AE%87%E6%91%87%E5%A4%B4%E8%AE%A9%E7%AB%99%E5%A7%90%E4%B8%8D%E8%A6%81%E6%8B%8D%E4%BA%86%23" target="weibo">
 陈飞宇摇头让站姐不要拍了（热度：1203821）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E9%AB%98%E4%BC%B0%E4%BA%86%E8%87%AA%E5%B7%B1%E4%B9%9F%E4%BD%8E%E4%BC%B0%E4%BA%86%E4%B8%AD%E5%9B%BD%23" target="weibo">
+美国高估了自己也低估了中国（热度：1200298）
 </a>
 </li>
 
@@ -3135,6 +3165,12 @@ GEN官宣ruler离队（热度：944685）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E6%98%A8%E6%97%A5%E6%96%B0%E5%A2%9E2%E4%BE%8B%E6%AD%BB%E4%BA%A1%E7%97%85%E4%BE%8B%23" target="weibo">
+北京昨日新增2例死亡病例（热度：922293）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E8%B0%B7%E7%88%B1%E5%87%8C%E5%86%B0%E9%9B%AA%E4%B9%8B%E7%BA%A6%E7%B1%B3%E5%85%B0%E8%8E%B7%E5%A5%96%23" target="weibo">
 易烊千玺谷爱凌冰雪之约米兰获奖（热度：921048）
 </a>
@@ -4221,6 +4257,12 @@ Rookie发文恭喜DRX（热度：759563）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9F%B3%E5%AE%B6%E5%BA%84%E5%85%AD%E5%8C%BA%E5%BC%80%E5%B1%95%E5%85%A8%E5%91%98%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%23" target="weibo">
+石家庄六区开展全员核酸检测（热度：756864）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E5%8E%95%E6%89%80%E7%8E%A9%E6%89%8B%E6%9C%BA%E5%AE%B9%E6%98%93%E5%BC%95%E5%8F%91%E5%A4%9A%E7%A7%8D%E7%96%BE%E7%97%85%23" target="weibo">
 上厕所玩手机容易引发多种疾病（热度：755945）
 </a>
@@ -4325,6 +4367,12 @@ Rookie发文恭喜DRX（热度：759563）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E8%E4%B8%AA%E5%8C%BA%E5%85%A8%E9%9D%A2%E5%81%9C%E8%AF%BE%23" target="weibo">
 广州8个区全面停课（热度：745170）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%AE%B6%E8%B6%85%E7%A1%AE%E8%AF%8A%23" target="weibo">
+李家超确诊（热度：745055）
 </a>
 </li>
 
@@ -5307,6 +5355,12 @@ hybe将明年推出泡泡（热度：657725）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%20%E4%B8%96%E7%95%8C%E6%9D%AF%E8%A7%A3%E8%AF%B4%23" target="weibo">
+鹿晗 世界杯解说（热度：649781）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%A5%BF%E9%A6%96%E6%AC%A1%E5%8F%91%E7%8E%B0%E5%A5%A5%E5%AF%86%E5%85%8B%E6%88%8EBF.7%E5%8F%98%E5%BC%82%E6%A0%AA%23" target="weibo">
 山西首次发现奥密克戎BF.7变异株（热度：649550）
 </a>
@@ -5381,6 +5435,12 @@ hybe将明年推出泡泡（热度：657725）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Gemini%E6%BE%84%E6%B8%85%E5%A3%B0%E6%98%8E%23" target="weibo">
 Gemini澄清声明（热度：643192）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%A1%E5%A1%94%E5%B0%94%E5%9B%BD%E6%97%97%E6%98%AF%E4%B8%96%E7%95%8C%E6%9C%80%E9%95%BF%E5%9B%BD%E6%97%97%23" target="weibo">
+卡塔尔国旗是世界最长国旗（热度：642788）
 </a>
 </li>
 
@@ -5847,12 +5907,6 @@ iPhone14Pro息屏可不显示壁纸（热度：625106）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E6%9A%96%E6%9B%A6%E8%87%AA%E8%BF%B0%E6%A1%88%E5%8F%91%E5%BD%93%E5%A4%A9%E7%BB%8F%E8%BF%87%23" target="weibo">
-刘暖曦自述案发当天经过（热度：604687）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E9%B8%A1%E5%A5%96%23" target="weibo">
 金鸡奖（热度：603954）
 </a>
@@ -5957,60 +6011,6 @@ iPhone14Pro息屏可不显示壁纸（热度：625106）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC12345%E5%9B%9E%E5%BA%94%23" target="weibo">
 北京12345回应（热度：595404）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%B3%AF%E8%AF%B4%E6%89%93%E7%AE%97%E6%BC%94%E6%88%8F%E5%88%B080%E5%B2%81%23" target="weibo">
-林峯说打算演戏到80岁（热度：595399）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%B9%B4%E7%BA%A7%E5%A5%B3%E5%AD%A9%E7%94%A8%E6%89%8B%E6%89%AB%E6%8F%8F%E4%B9%A6%E6%8C%89%E8%BF%9B%E5%A4%A7%E8%84%91%23" target="weibo">
-一年级女孩用手扫描书按进大脑（热度：594538）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E7%A7%B0%E6%B3%A2%E5%85%B0%E7%88%86%E7%82%B8%E5%AF%BC%E5%BC%B9%E5%8F%AF%E8%83%BD%E4%B8%8D%E6%98%AF%E4%BB%8E%E4%BF%84%E5%8F%91%E5%B0%84%23" target="weibo">
-拜登称波兰爆炸导弹可能不是从俄发射（热度：592973）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E6%8A%B1%E5%9B%A2%E5%85%BB%E8%80%81%E9%99%B7%E9%98%B1%23" target="weibo">
-央视曝光抱团养老陷阱（热度：592425）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E9%83%8E%E4%B8%BA%E6%81%8B%E7%88%B19%E5%B9%B4%E5%A5%B3%E5%8F%8B%E6%89%93%E9%80%A0%E7%A8%BB%E7%94%B0%E5%A9%9A%E7%A4%BC%23" target="weibo">
-新郎为恋爱9年女友打造稻田婚礼（热度：592419）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E5%85%AB%23" target="weibo">
-肖八（热度：591582）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A9%B4%E5%84%BF%E5%9D%A0%E6%A5%BC00%E5%90%8E%E8%AD%A6%E6%A0%A1%E7%94%9F%E8%B7%B33%E7%B1%B3%E5%A2%99%E8%90%A5%E6%95%91%23" target="weibo">
-婴儿坠楼00后警校生跳3米墙营救（热度：591470）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E4%B8%80%E5%A5%B6%E8%8C%B6%E5%BA%97%E6%9C%AA%E5%85%88%E8%AF%B4%E6%89%AB%E7%A0%81%E8%A2%AB%E5%B0%81%23" target="weibo">
-官方回应网传一奶茶店未先说扫码被封（热度：591186）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AD%A6%E6%B1%89%E4%B8%80%E9%A4%90%E9%A6%86%E5%A4%A7%E7%99%BD%E4%B8%8A%E9%97%A8%E9%A1%BE%E5%AE%A2%E9%9B%86%E4%BD%93%E8%B7%91%E5%8D%95%23" target="weibo">
-武汉一餐馆大白上门顾客集体跑单（热度：591126）
 </a>
 </li>
 

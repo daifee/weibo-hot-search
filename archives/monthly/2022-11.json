@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1668987435789,
+  "endTime": 1668995747504,
   "band_list": [
     {
       "raw_hot": 10543272,
@@ -632,6 +632,14 @@
       "word": "上海地铁",
       "onboard_time": 1668126504,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2231921,
+      "num": 470600,
+      "word": "刘暖曦回应江歌遗体照片疑遭泄露",
+      "onboard_time": 1668991115,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -1763,6 +1771,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1518851,
+      "num": 371181,
+      "word": "刘暖曦自述案发当天经过",
+      "onboard_time": 1668986482,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1516741,
       "num": 1516741,
       "word": "为爱冲锋的勇士",
@@ -1777,6 +1793,14 @@
       "onboard_time": 1668520231,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1514550,
+      "num": 1514550,
+      "word": "人还活着却被人网络祭奠4.3万次",
+      "onboard_time": 1668986662,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1503793,
@@ -2475,6 +2499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1246040,
+      "num": 1246040,
+      "word": "中国除了中国队没去其他都去了",
+      "onboard_time": 1668989973,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1242915,
       "num": 1242915,
       "word": "小猫叼巨型蟑螂回家躺床抱着玩",
@@ -2633,6 +2665,14 @@
       "onboard_time": 1668248616,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1200298,
+      "num": 1200298,
+      "word": "美国高估了自己也低估了中国",
+      "onboard_time": 1668991533,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1199900,
@@ -4163,6 +4203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 922293,
+      "num": 922293,
+      "word": "北京昨日新增2例死亡病例",
+      "onboard_time": 1668989493,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 921048,
       "num": 729790,
       "word": "易烊千玺谷爱凌冰雪之约米兰获奖",
@@ -5611,6 +5659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 756864,
+      "num": 756864,
+      "word": "石家庄六区开展全员核酸检测",
+      "onboard_time": 1668987145,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 755945,
       "num": 755945,
       "word": "上厕所玩手机容易引发多种疾病",
@@ -5753,6 +5809,14 @@
       "onboard_time": 1667989349,
       "rank": 26,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 745055,
+      "num": 239786,
+      "word": "李家超确诊",
+      "onboard_time": 1668993391,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 744929,
@@ -7059,6 +7123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 649781,
+      "num": 649781,
+      "word": "鹿晗 世界杯解说",
+      "onboard_time": 1668988892,
+      "rank": 7,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 649550,
       "num": 649550,
       "word": "山西首次发现奥密克戎BF.7变异株",
@@ -7161,6 +7233,14 @@
       "onboard_time": 1667380344,
       "rank": 13,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 642788,
+      "num": 642788,
+      "word": "卡塔尔国旗是世界最长国旗",
+      "onboard_time": 1668987388,
+      "rank": 49,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 642657,
@@ -7777,14 +7857,6 @@
       "onboard_time": 1667277450,
       "rank": 35,
       "category": "财经,科技"
-    },
-    {
-      "raw_hot": 604687,
-      "num": 325052,
-      "word": "刘暖曦自述案发当天经过",
-      "onboard_time": 1668986482,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 603954,
@@ -11099,6 +11171,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 473239,
+      "num": 473239,
+      "word": "孩子书包鼓鼓的没一本书全是战利品",
+      "onboard_time": 1668992611,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 473087,
       "num": 473087,
       "word": "库里47分8篮板",
@@ -11339,6 +11419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 465497,
+      "num": 465497,
+      "word": "广州新增本土感染者8181例",
+      "onboard_time": 1668993331,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 465485,
       "num": 465485,
       "word": "中戏教师说朱一龙获奖实至名归",
@@ -11505,6 +11593,14 @@
       "onboard_time": 1667264307,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 461496,
+      "num": 461496,
+      "word": "外卖小哥深夜送餐猝死清晨才被发现",
+      "onboard_time": 1668987689,
+      "rank": 13,
+      "category": "社会负面"
     },
     {
       "raw_hot": 460861,
@@ -12531,6 +12627,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 431575,
+      "num": 431575,
+      "word": "男子陪妻子逛超市一门心思择豆角",
+      "onboard_time": 1668991172,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 431233,
       "num": 431233,
       "word": "苏慎原型是苏培盛",
@@ -12745,6 +12849,14 @@
       "onboard_time": 1668216570,
       "rank": 12,
       "category": "教育"
+    },
+    {
+      "raw_hot": 424616,
+      "num": 424616,
+      "word": "2022卡塔尔世界杯",
+      "onboard_time": 1668683788,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 424332,
@@ -12969,6 +13081,14 @@
       "onboard_time": 1667695586,
       "rank": 13,
       "category": "动漫,影视"
+    },
+    {
+      "raw_hot": 418582,
+      "num": 418582,
+      "word": "命韵峋环终于回来了",
+      "onboard_time": 1668993991,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 418123,
@@ -14729,6 +14849,14 @@
       "onboard_time": 1667278711,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 373041,
+      "num": 373041,
+      "word": "厄瓜多尔球迷搓钱动作挑衅东道主",
+      "onboard_time": 1668993752,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 373021,
@@ -16673,6 +16801,14 @@
       "onboard_time": 1668581667,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 332696,
+      "num": 332696,
+      "word": "原来有钱人也有不快乐的时候",
+      "onboard_time": 1668990935,
+      "rank": 21,
+      "category": "体育,情感"
     },
     {
       "raw_hot": 332630,
@@ -19011,6 +19147,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 289565,
+      "num": 289565,
+      "word": "岳云鹏也去卡塔尔看开幕式了吗",
+      "onboard_time": 1668995490,
+      "rank": 23,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 289416,
       "num": 289416,
       "word": "电影坠落太刺激了",
@@ -19024,6 +19168,14 @@
       "word": "金智秀卡妹合作舞台彩排",
       "onboard_time": 1668914066,
       "rank": 22,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 289290,
+      "num": 289290,
+      "word": "SEVENTEEN演唱会现场对比",
+      "onboard_time": 1668995490,
+      "rank": 24,
       "category": "音乐"
     },
     {
@@ -20739,6 +20891,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 263787,
+      "num": 263787,
+      "word": "重庆新增本土确诊231例无症状5898例",
+      "onboard_time": 1668993153,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 263553,
+      "num": 263553,
+      "word": "我在CCTV5追星",
+      "onboard_time": 1668987085,
+      "rank": 46,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 263506,
       "num": 263506,
       "word": "赵丽颖新剧眼神戏",
@@ -21267,6 +21435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 253983,
+      "num": 253983,
+      "word": "广州白云区疫情防控",
+      "onboard_time": 1668988589,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 253890,
       "num": 253890,
       "word": "上海迪士尼辟谣将正式停止运营",
@@ -21673,6 +21849,14 @@
       "onboard_time": 1668162694,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 247046,
+      "num": 247046,
+      "word": "女孩陷传销数月塞救命纸条求助",
+      "onboard_time": 1668993931,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 246890,
@@ -22217,6 +22401,14 @@
       "onboard_time": 1668619217,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 238160,
+      "num": 238160,
+      "word": "Jennie新歌",
+      "onboard_time": 1668987326,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 238121,
@@ -23089,6 +23281,14 @@
       "onboard_time": 1667926101,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 227671,
+      "num": 227671,
+      "word": "田柾国Dreamers直拍",
+      "onboard_time": 1668995011,
+      "rank": 34,
+      "category": "体育,音乐"
     },
     {
       "raw_hot": 227602,
@@ -24769,14 +24969,6 @@
       "onboard_time": 1668343827,
       "rank": 30,
       "category": "旅游,艺人"
-    },
-    {
-      "raw_hot": 208651,
-      "num": 208651,
-      "word": "人还活着却被人网络祭奠4.3万次",
-      "onboard_time": 1668986662,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 208556,
@@ -26673,6 +26865,14 @@
       "onboard_time": 1668682589,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 189896,
+      "num": 189896,
+      "word": "刘维何超莲下班就解散的友情",
+      "onboard_time": 1668963507,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 189852,
@@ -30203,6 +30403,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 156948,
+      "num": 156948,
+      "word": "卡塔尔全场0射正",
+      "onboard_time": 1668994473,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 156923,
       "num": 156923,
       "word": "全锦赛",
@@ -33227,14 +33435,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 134028,
-      "num": 134028,
-      "word": "石家庄六区开展全员核酸检测",
-      "onboard_time": 1668987145,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 133871,
       "num": 113945,
       "word": "大湾仔的夜",
@@ -33377,14 +33577,6 @@
       "onboard_time": 1668493408,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 132624,
-      "num": 132624,
-      "word": "刘维何超莲下班就解散的友情",
-      "onboard_time": 1668963507,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 132619,
@@ -33731,6 +33923,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 130270,
+      "num": 130270,
+      "word": "女子大扫除意外发现丢失6年金手镯",
+      "onboard_time": 1668995068,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 130058,
       "num": 86314,
       "word": "陈飞宇新剧怼脸镜头",
@@ -33809,6 +34009,14 @@
       "onboard_time": 1668760167,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 129656,
+      "num": 129656,
+      "word": "NCTDREAM全员荧光绿造型",
+      "onboard_time": 1668992252,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 129613,
@@ -34385,6 +34593,14 @@
       "onboard_time": 1668163831,
       "rank": 38,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 125314,
+      "num": 125314,
+      "word": "勇士vs火箭",
+      "onboard_time": 1668991653,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 125176,
@@ -38379,14 +38595,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 94126,
-      "num": 94126,
-      "word": "2022卡塔尔世界杯",
-      "onboard_time": 1668683788,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 94068,
       "num": 94068,
       "word": "MRC第一轮循环全胜",
@@ -40139,14 +40347,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 81752,
-      "num": 81752,
-      "word": "Jennie新歌",
-      "onboard_time": 1668987326,
-      "rank": 45,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 81746,
       "num": 81746,
       "word": "这家没猫不行吧",
@@ -40241,14 +40441,6 @@
       "onboard_time": 1668123502,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 80435,
-      "num": 80435,
-      "word": "我在CCTV5追星",
-      "onboard_time": 1668987085,
-      "rank": 46,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 80431,
@@ -41417,14 +41609,6 @@
       "onboard_time": 1667301569,
       "rank": 49,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 65008,
-      "num": 65008,
-      "word": "卡塔尔国旗是世界最长国旗",
-      "onboard_time": 1668987388,
-      "rank": 49,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 64682,
