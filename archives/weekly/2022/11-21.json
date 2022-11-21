@@ -1,6 +1,6 @@
 {
   "startTime": 1668961718135,
-  "endTime": 1669008977390,
+  "endTime": 1669012123855,
   "band_list": [
     {
       "raw_hot": 4068058,
@@ -131,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 954756,
+      "num": 442613,
+      "word": "王鹤棣白鹿以爱为营吻戏路透",
+      "onboard_time": 1669009711,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 953291,
       "num": 953291,
       "word": "世界杯岳云鹏",
@@ -251,12 +259,36 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 628950,
+      "num": 628950,
+      "word": "王海称小杨哥质检报告是假的",
+      "onboard_time": 1669007853,
+      "rank": 32,
+      "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 622354,
+      "num": 622354,
+      "word": "7岁女童偷吃燃脂巧克力进ICU",
+      "onboard_time": 1669008694,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 622179,
       "num": 622179,
       "word": "不能在朋友圈分享的喜悦",
       "onboard_time": 1668963025,
       "rank": 18,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 592919,
+      "num": 592919,
+      "word": "北中医1名学生核酸阳性",
+      "onboard_time": 1669010129,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 580854,
@@ -323,12 +355,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 515387,
-      "num": 403323,
-      "word": "王海称小杨哥质检报告是假的",
-      "onboard_time": 1669007853,
-      "rank": 32,
-      "category": "社会新闻,网红"
+      "raw_hot": 511563,
+      "num": 511563,
+      "word": "当上海洋女婿去到卡塔尔后",
+      "onboard_time": 1669010432,
+      "rank": 8,
+      "category": "幽默,体育"
     },
     {
       "raw_hot": 508376,
@@ -385,6 +417,14 @@
       "onboard_time": 1668962126,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 476991,
+      "num": 476991,
+      "word": "网传倪妮刘诗诗三搭出演新剧",
+      "onboard_time": 1669011694,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 461496,
@@ -499,6 +539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 387349,
+      "num": 387349,
+      "word": "英格兰队战伊朗前将单膝下跪",
+      "onboard_time": 1669007498,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 381910,
       "num": 381910,
       "word": "刘令姿古装vs旗袍",
@@ -523,6 +571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 364693,
+      "num": 364693,
+      "word": "00后妻子嫌丈夫吃独食欲跳车轻生",
+      "onboard_time": 1669011093,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 358260,
       "num": 358260,
       "word": "北京疫情防控",
@@ -544,6 +600,14 @@
       "word": "世界杯历史上东道主首战从未输球",
       "onboard_time": 1668970395,
       "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 352614,
+      "num": 352614,
+      "word": "卡塔尔是懂分组的",
+      "onboard_time": 1669009472,
+      "rank": 14,
       "category": "体育"
     },
     {
@@ -609,6 +673,14 @@
       "onboard_time": 1669000587,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 311378,
+      "num": 311378,
+      "word": "合肥质检研究院回应被指造假",
+      "onboard_time": 1669008576,
+      "rank": 40,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 294718,
@@ -875,12 +947,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 194383,
+      "num": 194383,
+      "word": "中药和美式的区别",
+      "onboard_time": 1669011392,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 189896,
       "num": 189896,
       "word": "刘维何超莲下班就解散的友情",
       "onboard_time": 1668963507,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 186325,
+      "num": 186202,
+      "word": "YERI将出演电视剧清潭国际高中",
+      "onboard_time": 1669011933,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 186152,
+      "num": 186152,
+      "word": "超6成年轻人对目前工作较满意",
+      "onboard_time": 1669009409,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 183667,
@@ -979,12 +1075,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 164296,
-      "num": 133149,
-      "word": "合肥质检研究院回应被指造假",
-      "onboard_time": 1669008576,
-      "rank": 40,
-      "category": "社会新闻,网红"
+      "raw_hot": 167037,
+      "num": 167037,
+      "word": "卡塔尔世界杯足球内置传感器",
+      "onboard_time": 1669008210,
+      "rank": 45,
+      "category": "体育,科技"
+    },
+    {
+      "raw_hot": 160108,
+      "num": 160108,
+      "word": "学鸟走路的猫咪",
+      "onboard_time": 1669008335,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 159333,
@@ -1011,20 +1115,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 154075,
-      "num": 154075,
-      "word": "英格兰队战伊朗前将单膝下跪",
-      "onboard_time": 1669007498,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 152708,
       "num": 152708,
       "word": "注会",
       "onboard_time": 1669002151,
       "rank": 44,
       "category": "教育"
+    },
+    {
+      "raw_hot": 151978,
+      "num": 151978,
+      "word": "男孩被卷车底路人30秒极速救援",
+      "onboard_time": 1669008934,
+      "rank": 49,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 148399,
@@ -1099,12 +1203,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 138730,
-      "num": 138730,
-      "word": "学鸟走路的猫咪",
-      "onboard_time": 1669008335,
-      "rank": 37,
-      "category": "幽默"
+      "raw_hot": 138743,
+      "num": 138743,
+      "word": "蔡明大张伟加盟喜剧大赛2",
+      "onboard_time": 1669010129,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 137479,
@@ -1113,6 +1217,14 @@
       "onboard_time": 1668997290,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 136686,
+      "num": 136686,
+      "word": "以爱为营",
+      "onboard_time": 1669010072,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 133302,
@@ -1139,6 +1251,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 129231,
+      "num": 111436,
+      "word": "财阀家的小儿子 财阀家的小孙子",
+      "onboard_time": 1669011872,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 126505,
       "num": 126505,
       "word": "南来北往",
@@ -1153,14 +1273,6 @@
       "onboard_time": 1668997647,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 125967,
-      "num": 125967,
-      "word": "7岁女童偷吃燃脂巧克力进ICU",
-      "onboard_time": 1669008694,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 125052,
@@ -1184,6 +1296,14 @@
       "word": "江西16岁失联男孩已找到",
       "onboard_time": 1668928105,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 119814,
+      "num": 119814,
+      "word": "李白的诗有画面了",
+      "onboard_time": 1669010612,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -1219,14 +1339,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 116430,
-      "num": 116430,
-      "word": "卡塔尔世界杯足球内置传感器",
-      "onboard_time": 1669008210,
-      "rank": 45,
-      "category": "体育,科技"
-    },
-    {
       "raw_hot": 115604,
       "num": 115604,
       "word": "马刺vs湖人",
@@ -1243,6 +1355,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 112182,
+      "num": 112182,
+      "word": "退钱哥名场面",
+      "onboard_time": 1669011933,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 110816,
+      "num": 110816,
+      "word": "偶遇陈飞宇青岛拍戏",
+      "onboard_time": 1669010974,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 109921,
       "num": 109921,
       "word": "维特尔",
@@ -1251,12 +1379,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 107053,
-      "num": 107053,
-      "word": "男孩被卷车底路人30秒极速救援",
-      "onboard_time": 1669008934,
-      "rank": 49,
-      "category": "社会正能量"
+      "raw_hot": 106950,
+      "num": 106950,
+      "word": "世界杯分组",
+      "onboard_time": 1669011574,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 106406,
@@ -1299,6 +1427,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 100497,
+      "num": 100497,
+      "word": "初冬晨雾皖南山村像水彩画",
+      "onboard_time": 1669011810,
+      "rank": 46,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 99262,
       "num": 99262,
       "word": "pgc2022",
@@ -1321,6 +1457,14 @@
       "onboard_time": 1669000291,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 96790,
+      "num": 96790,
+      "word": "P型血男子驱车200公里救4岁男童",
+      "onboard_time": 1669010731,
+      "rank": 48,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 95635,

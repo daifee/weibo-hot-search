@@ -1,0 +1,410 @@
+{
+  "runTime": 1669012123855,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1696439,
+        "num": 1696439,
+        "word": "退钱哥",
+        "onboard_time": 1668999090,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 667396,
+        "num": 667396,
+        "word": "室友被子长蘑菇小伙帮忙剪掉",
+        "onboard_time": 1669005514,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211186,
+        "num": 645158,
+        "word": "中国水下考古又一大发现",
+        "onboard_time": 1669002092,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 694120,
+        "num": 637854,
+        "word": "天娱新男团以华晨宇为目标",
+        "onboard_time": 1669007255,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 628950,
+        "num": 628950,
+        "word": "王海称小杨哥质检报告是假的",
+        "onboard_time": 1669007853,
+        "rank": 4,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 622354,
+        "num": 622354,
+        "word": "7岁女童偷吃燃脂巧克力进ICU",
+        "onboard_time": 1669008694,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 592919,
+        "num": 592919,
+        "word": "北中医1名学生核酸阳性",
+        "onboard_time": 1669010129,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 544701,
+        "num": 544701,
+        "word": "伊朗",
+        "onboard_time": 1669004193,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 511563,
+        "num": 511563,
+        "word": "当上海洋女婿去到卡塔尔后",
+        "onboard_time": 1669010432,
+        "rank": 8,
+        "category": "幽默,体育"
+      },
+      {
+        "raw_hot": 476991,
+        "num": 476991,
+        "word": "网传倪妮刘诗诗三搭出演新剧",
+        "onboard_time": 1669011694,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 954756,
+        "num": 442613,
+        "word": "王鹤棣白鹿以爱为营吻戏路透",
+        "onboard_time": 1669009711,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 387349,
+        "num": 387349,
+        "word": "英格兰队战伊朗前将单膝下跪",
+        "onboard_time": 1669007498,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 373795,
+        "num": 373795,
+        "word": "迪丽热巴三登精彩OK封面",
+        "onboard_time": 1669007909,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 364693,
+        "num": 364693,
+        "word": "00后妻子嫌丈夫吃独食欲跳车轻生",
+        "onboard_time": 1669011093,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352614,
+        "num": 352614,
+        "word": "卡塔尔是懂分组的",
+        "onboard_time": 1669009472,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 324507,
+        "num": 324507,
+        "word": "绵阳三台打人学生被全部抓获",
+        "onboard_time": 1669001850,
+        "rank": 15,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 311378,
+        "num": 311378,
+        "word": "合肥质检研究院回应被指造假",
+        "onboard_time": 1669008576,
+        "rank": 16,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 261835,
+        "num": 261835,
+        "word": "美国高估了自己也低估了中国",
+        "onboard_time": 1668991533,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194383,
+        "num": 194383,
+        "word": "中药和美式的区别",
+        "onboard_time": 1669011392,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 186317,
+        "num": 186317,
+        "word": "原来中国队分到了施工组",
+        "onboard_time": 1668998608,
+        "rank": 19,
+        "category": "体育,幽默"
+      },
+      {
+        "raw_hot": 237077,
+        "num": 186259,
+        "word": "阿信微博评论区回复好走心",
+        "onboard_time": 1669005757,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198182,
+        "num": 186234,
+        "word": "点燃我温暖你全国九城飘雪告白",
+        "onboard_time": 1669007376,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 186325,
+        "num": 186202,
+        "word": "YERI将出演电视剧清潭国际高中",
+        "onboard_time": 1669011933,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 186152,
+        "num": 186152,
+        "word": "超6成年轻人对目前工作较满意",
+        "onboard_time": 1669009409,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169477,
+        "num": 169477,
+        "word": "人还活着却被人网络祭奠4.3万次",
+        "onboard_time": 1668986662,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167037,
+        "num": 167037,
+        "word": "卡塔尔世界杯足球内置传感器",
+        "onboard_time": 1669008210,
+        "rank": 25,
+        "category": "体育,科技"
+      },
+      {
+        "raw_hot": 160108,
+        "num": 160108,
+        "word": "学鸟走路的猫咪",
+        "onboard_time": 1669008335,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 151978,
+        "num": 151978,
+        "word": "男孩被卷车底路人30秒极速救援",
+        "onboard_time": 1669008934,
+        "rank": 27,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 147970,
+        "num": 147970,
+        "word": "奥地利2比0意大利",
+        "onboard_time": 1669003711,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147948,
+        "num": 147948,
+        "word": "女子大扫除意外发现丢失6年金手镯",
+        "onboard_time": 1668995068,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181474,
+        "num": 147061,
+        "word": "徐璐陈都灵2分钟预告换46套衣服",
+        "onboard_time": 1668998369,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 148698,
+        "num": 146609,
+        "word": "霉霉AMA全美音乐奖6提6中",
+        "onboard_time": 1669006898,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 144675,
+        "num": 144675,
+        "word": "英格兰vs伊朗",
+        "onboard_time": 1669005635,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138743,
+        "num": 138743,
+        "word": "蔡明大张伟加盟喜剧大赛2",
+        "onboard_time": 1669010129,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136686,
+        "num": 136686,
+        "word": "以爱为营",
+        "onboard_time": 1669010072,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 119814,
+        "num": 119814,
+        "word": "李白的诗有画面了",
+        "onboard_time": 1669010612,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117636,
+        "num": 117636,
+        "word": "卡塔尔国旗是世界最长国旗",
+        "onboard_time": 1668987388,
+        "rank": 36,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 116379,
+        "num": 116379,
+        "word": "重庆新增本土确诊231例无症状5898例",
+        "onboard_time": 1668993153,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114592,
+        "num": 114592,
+        "word": "原来有钱人也有不快乐的时候",
+        "onboard_time": 1668990935,
+        "rank": 38,
+        "category": "体育,情感"
+      },
+      {
+        "raw_hot": 112182,
+        "num": 112182,
+        "word": "退钱哥名场面",
+        "onboard_time": 1669011933,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144286,
+        "num": 111777,
+        "word": "鹿晗将参与解说2场世界杯比赛",
+        "onboard_time": 1669006120,
+        "rank": 40,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 129231,
+        "num": 111436,
+        "word": "财阀家的小儿子 财阀家的小孙子",
+        "onboard_time": 1669011872,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 110816,
+        "num": 110816,
+        "word": "偶遇陈飞宇青岛拍戏",
+        "onboard_time": 1669010974,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 108924,
+        "num": 108924,
+        "word": "北京昨日新增2例死亡病例",
+        "onboard_time": 1668989493,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106950,
+        "num": 106950,
+        "word": "世界杯分组",
+        "onboard_time": 1669011574,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103045,
+        "num": 103045,
+        "word": "这就是寄猫篱下吧",
+        "onboard_time": 1669003651,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 100497,
+        "num": 100497,
+        "word": "初冬晨雾皖南山村像水彩画",
+        "onboard_time": 1669011810,
+        "rank": 46,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 99734,
+        "num": 99734,
+        "word": "CPA",
+        "onboard_time": 1668996690,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 96790,
+        "num": 96790,
+        "word": "P型血男子驱车200公里救4岁男童",
+        "onboard_time": 1669010731,
+        "rank": 48,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 90808,
+        "num": 90808,
+        "word": "广州新增本土感染者8181例",
+        "onboard_time": 1668993331,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国的神舟之路将留下更多精彩#"
+    }
+  }
+}
