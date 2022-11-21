@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1669036091707,
+  "endTime": 1669038196039,
   "band_list": [
     {
       "raw_hot": 10543272,
@@ -841,6 +841,14 @@
       "onboard_time": 1667376147,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2035783,
+      "num": 2035783,
+      "word": "英格兰vs伊朗",
+      "onboard_time": 1669005635,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 2026265,
@@ -2923,14 +2931,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1153143,
-      "num": 1153143,
-      "word": "英格兰vs伊朗",
-      "onboard_time": 1669005635,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1151859,
       "num": 1151859,
       "word": "马斯克突然开除80%推特合同工",
@@ -3803,6 +3803,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1005826,
+      "num": 1005826,
+      "word": "鹿晗解说",
+      "onboard_time": 1669037920,
+      "rank": 3,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 1005497,
       "num": 622115,
       "word": "张元英走台步",
@@ -4641,6 +4649,14 @@
       "onboard_time": 1668581428,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 880888,
+      "num": 431094,
+      "word": "中国千万资产家庭达206万户",
+      "onboard_time": 1669034564,
+      "rank": 11,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 880547,
@@ -6995,6 +7011,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 673426,
+      "num": 673426,
+      "word": "节气姑娘酒楼没了",
+      "onboard_time": 1669034982,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 672826,
       "num": 672826,
       "word": "警方回应男子上门掌掴男童",
@@ -8305,6 +8329,14 @@
       "onboard_time": 1667318425,
       "rank": 11,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 591406,
+      "num": 591406,
+      "word": "晋江崩了",
+      "onboard_time": 1669032941,
+      "rank": 35,
+      "category": "科技"
     },
     {
       "raw_hot": 591186,
@@ -9793,6 +9825,14 @@
       "onboard_time": 1668730049,
       "rank": 7,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 528053,
+      "num": 528053,
+      "word": "贝克汉姆",
+      "onboard_time": 1669036779,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 527978,
@@ -12419,6 +12459,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 444666,
+      "num": 444666,
+      "word": "太快确定关系的恋爱会长久吗",
+      "onboard_time": 1669033239,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 444524,
       "num": 386381,
       "word": "红通人员屈健玲被遣返回国",
@@ -12505,14 +12553,6 @@
       "onboard_time": 1667561428,
       "rank": 27,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 442523,
-      "num": 368212,
-      "word": "中国千万资产家庭达206万户",
-      "onboard_time": 1669034564,
-      "rank": 11,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 441998,
@@ -15211,6 +15251,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 378530,
+      "num": 378530,
+      "word": "1岁宝宝不吃奶却爱吃土",
+      "onboard_time": 1669032701,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 378412,
       "num": 313548,
       "word": "演员薛中锐去世",
@@ -15513,14 +15561,6 @@
       "onboard_time": 1667327173,
       "rank": 39,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 369059,
-      "num": 369059,
-      "word": "晋江崩了",
-      "onboard_time": 1669032941,
-      "rank": 35,
-      "category": "科技"
     },
     {
       "raw_hot": 368987,
@@ -17067,14 +17107,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 339190,
-      "num": 232003,
-      "word": "节气姑娘酒楼没了",
-      "onboard_time": 1669034982,
-      "rank": 20,
-      "category": "影视"
-    },
-    {
       "raw_hot": 339132,
       "num": 339132,
       "word": "秦施是小三克星吧",
@@ -17297,14 +17329,6 @@
       "onboard_time": 1667573131,
       "rank": 26,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 334880,
-      "num": 334880,
-      "word": "太快确定关系的恋爱会长久吗",
-      "onboard_time": 1669033239,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 334727,
@@ -18707,14 +18731,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 312000,
-      "num": 312000,
-      "word": "1岁宝宝不吃奶却爱吃土",
-      "onboard_time": 1669032701,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 311951,
       "num": 311951,
       "word": "北京新增本土感染者44例",
@@ -18777,6 +18793,14 @@
       "onboard_time": 1669008576,
       "rank": 40,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 311213,
+      "num": 241029,
+      "word": "陈飞宇张婧仪用嘴放烟花花絮",
+      "onboard_time": 1669036181,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 310980,
@@ -20521,6 +20545,22 @@
       "onboard_time": 1668272665,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 280417,
+      "num": 280417,
+      "word": "央视揭大牌尾货骨折价背后猫腻",
+      "onboard_time": 1669033057,
+      "rank": 31,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 280346,
+      "num": 234442,
+      "word": "李薇趴尹峥腿上",
+      "onboard_time": 1669037678,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 280278,
@@ -23739,14 +23779,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 232337,
-      "num": 232337,
-      "word": "央视揭大牌尾货骨折价背后猫腻",
-      "onboard_time": 1669033057,
-      "rank": 31,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 232289,
       "num": 177705,
       "word": "阿瑟文学之我是你爸",
@@ -26163,6 +26195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 205786,
+      "num": 205786,
+      "word": "伊朗门将伤退",
+      "onboard_time": 1669037564,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 205768,
       "num": 205768,
       "word": "2022MMA最佳新人提名名单",
@@ -26456,6 +26496,14 @@
       "word": "俩娃走失被狗吸引后获救",
       "onboard_time": 1667467705,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 202806,
+      "num": 202806,
+      "word": "两男子凌晨持刀脱鞋在居民楼乱窜",
+      "onboard_time": 1669036479,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -31411,6 +31459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 157788,
+      "num": 157788,
+      "word": "正常人谁买这玩意儿",
+      "onboard_time": 1669036904,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 157742,
       "num": 157742,
       "word": "猫有多享受被挠下巴",
@@ -31448,6 +31504,14 @@
       "word": "阳华脸上有秦施的口红印",
       "onboard_time": 1668516152,
       "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 157492,
+      "num": 157492,
+      "word": "阳华妈妈突击查房",
+      "onboard_time": 1669037803,
+      "rank": 33,
       "category": "影视"
     },
     {
@@ -36265,6 +36329,14 @@
       "onboard_time": 1668057626,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 121974,
+      "num": 121974,
+      "word": "光腿神器能有多逼真",
+      "onboard_time": 1669037140,
+      "rank": 41,
+      "category": "时尚"
     },
     {
       "raw_hot": 121950,
