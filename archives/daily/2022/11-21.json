@@ -1,6 +1,6 @@
 {
   "startTime": 1668961718135,
-  "endTime": 1669001527816,
+  "endTime": 1669005000914,
   "band_list": [
     {
       "raw_hot": 4068058,
@@ -19,20 +19,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2569916,
+      "num": 2569916,
+      "word": "退钱哥",
+      "onboard_time": 1668999090,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2231921,
       "num": 470600,
       "word": "刘暖曦回应江歌遗体照片疑遭泄露",
       "onboard_time": 1668991115,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1990984,
-      "num": 1990984,
-      "word": "退钱哥",
-      "onboard_time": 1668999090,
-      "rank": 1,
-      "category": "体育"
     },
     {
       "raw_hot": 1913128,
@@ -107,6 +107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1092090,
+      "num": 1092090,
+      "word": "原来中国队分到了施工组",
+      "onboard_time": 1668998608,
+      "rank": 8,
+      "category": "体育,幽默"
+    },
+    {
       "raw_hot": 1050384,
       "num": 1050384,
       "word": "岳云鹏也去卡塔尔看开幕式了吗",
@@ -163,14 +171,6 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 780190,
-      "num": 780190,
-      "word": "原来中国队分到了施工组",
-      "onboard_time": 1668998608,
-      "rank": 8,
-      "category": "体育,幽默"
-    },
-    {
       "raw_hot": 756864,
       "num": 756864,
       "word": "石家庄六区开展全员核酸检测",
@@ -185,6 +185,14 @@
       "onboard_time": 1668993391,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 744038,
+      "num": 744038,
+      "word": "绵阳三台打人学生被全部抓获",
+      "onboard_time": 1669001850,
+      "rank": 3,
+      "category": "社会负面"
     },
     {
       "raw_hot": 719350,
@@ -299,6 +307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 490870,
+      "num": 490870,
+      "word": "朱韵出的是520",
+      "onboard_time": 1668999806,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 489230,
       "num": 489230,
       "word": "头顶一块布 全球我最富",
@@ -337,6 +353,14 @@
       "onboard_time": 1668999330,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 431603,
+      "num": 431603,
+      "word": "财阀家的小儿子宋仲基演技",
+      "onboard_time": 1668999150,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 431575,
@@ -411,6 +435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 381910,
+      "num": 381910,
+      "word": "刘令姿古装vs旗袍",
+      "onboard_time": 1669002688,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 370617,
       "num": 370617,
       "word": "女孩陷传销数月塞救命纸条求助",
@@ -451,6 +483,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 341499,
+      "num": 341499,
+      "word": "毛不易爱的二八定律片尾曲MV",
+      "onboard_time": 1669004550,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 341263,
+      "num": 805968,
+      "word": "中国水下考古又一大发现",
+      "onboard_time": 1669002092,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 339865,
       "num": 237958,
       "word": "刘德华哽咽再唱17岁",
@@ -465,14 +513,6 @@
       "onboard_time": 1668946768,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 334352,
-      "num": 334352,
-      "word": "朱韵出的是520",
-      "onboard_time": 1668999806,
-      "rank": 18,
-      "category": "影视"
     },
     {
       "raw_hot": 334135,
@@ -563,6 +603,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 276065,
+      "num": 276065,
+      "word": "这就是寄猫篱下吧",
+      "onboard_time": 1669003651,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 273769,
       "num": 167632,
       "word": "演员薛中锐去世",
@@ -633,6 +681,14 @@
       "onboard_time": 1668953369,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 228293,
+      "num": 228293,
+      "word": "柯南足球水平",
+      "onboard_time": 1669003892,
+      "rank": 25,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 227671,
@@ -707,6 +763,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 202726,
+      "num": 202726,
+      "word": "奥地利2比0意大利",
+      "onboard_time": 1669003711,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 200265,
+      "num": 200265,
+      "word": "伊朗",
+      "onboard_time": 1669004193,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 195320,
       "num": 165642,
       "word": "节气姑娘红名",
@@ -721,14 +793,6 @@
       "onboard_time": 1668963507,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 185780,
-      "num": 185780,
-      "word": "财阀家的小儿子宋仲基演技",
-      "onboard_time": 1668999150,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 183667,
@@ -803,12 +867,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 169225,
+      "num": 169225,
+      "word": "AMA",
+      "onboard_time": 1669002092,
+      "rank": 39,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 168923,
       "num": 168923,
       "word": "卡塔尔全场0射正",
       "onboard_time": 1668994473,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 157670,
+      "num": 157670,
+      "word": "篮网主场为渡边雄太欢呼",
+      "onboard_time": 1669003349,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 157483,
+      "num": 157483,
+      "word": "成毅平江慢生活大片",
+      "onboard_time": 1669004731,
+      "rank": 42,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 156791,
@@ -825,6 +913,14 @@
       "onboard_time": 1668937467,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152108,
+      "num": 152108,
+      "word": "注会",
+      "onboard_time": 1669002151,
+      "rank": 44,
+      "category": "教育"
     },
     {
       "raw_hot": 148399,
@@ -968,6 +1064,14 @@
       "word": "谢谢你维特尔",
       "onboard_time": 1668961107,
       "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 115604,
+      "num": 115604,
+      "word": "马刺vs湖人",
+      "onboard_time": 1669002810,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -1164,6 +1268,9 @@
     },
     {
       "word": "#这份国礼承载着中泰两国人民的美好期待#"
+    },
+    {
+      "word": "#中国的神舟之路将留下更多精彩#"
     }
   ]
 }
