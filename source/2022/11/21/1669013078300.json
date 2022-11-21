@@ -1,0 +1,410 @@
+{
+  "runTime": 1669013078300,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1575135,
+        "num": 1575135,
+        "word": "退钱哥",
+        "onboard_time": 1668999090,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 798238,
+        "num": 798238,
+        "word": "7岁女童偷吃燃脂巧克力进ICU",
+        "onboard_time": 1669008694,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184457,
+        "num": 709923,
+        "word": "中国水下考古又一大发现",
+        "onboard_time": 1669002092,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 690258,
+        "num": 690258,
+        "word": "00后妻子嫌丈夫吃独食欲跳车轻生",
+        "onboard_time": 1669011093,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 650132,
+        "num": 650132,
+        "word": "北中医1名学生核酸阳性",
+        "onboard_time": 1669010129,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 579556,
+        "num": 579556,
+        "word": "天娱新男团以华晨宇为目标",
+        "onboard_time": 1669007255,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 541726,
+        "num": 541726,
+        "word": "王海称小杨哥质检报告是假的",
+        "onboard_time": 1669007853,
+        "rank": 6,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 522950,
+        "num": 522950,
+        "word": "室友被子长蘑菇小伙帮忙剪掉",
+        "onboard_time": 1669005514,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 519776,
+        "num": 519776,
+        "word": "当上海洋女婿去到卡塔尔后",
+        "onboard_time": 1669010432,
+        "rank": 8,
+        "category": "幽默,体育"
+      },
+      {
+        "raw_hot": 491777,
+        "num": 491777,
+        "word": "网传倪妮刘诗诗三搭出演新剧",
+        "onboard_time": 1669011694,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 813197,
+        "num": 475322,
+        "word": "王鹤棣白鹿以爱为营吻戏路透",
+        "onboard_time": 1669009711,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 398609,
+        "num": 398609,
+        "word": "伊朗",
+        "onboard_time": 1669004193,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 393524,
+        "num": 393524,
+        "word": "卡塔尔是懂分组的",
+        "onboard_time": 1669009472,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 384941,
+        "num": 384941,
+        "word": "英格兰队战伊朗前将单膝下跪",
+        "onboard_time": 1669007498,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 346485,
+        "num": 346485,
+        "word": "迪丽热巴三登精彩OK封面",
+        "onboard_time": 1669007909,
+        "rank": 14,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 313155,
+        "num": 313155,
+        "word": "中药和美式的区别",
+        "onboard_time": 1669011392,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 299612,
+        "num": 299612,
+        "word": "合肥质检研究院回应被指造假",
+        "onboard_time": 1669008576,
+        "rank": 16,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 296931,
+        "num": 296931,
+        "word": "绵阳三台打人学生被全部抓获",
+        "onboard_time": 1669001850,
+        "rank": 17,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 222645,
+        "num": 222645,
+        "word": "美国高估了自己也低估了中国",
+        "onboard_time": 1668991533,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216872,
+        "num": 216872,
+        "word": "超6成年轻人对目前工作较满意",
+        "onboard_time": 1669009409,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197289,
+        "num": 197289,
+        "word": "阿信微博评论区回复好走心",
+        "onboard_time": 1669005757,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195435,
+        "num": 195435,
+        "word": "龚俊成毅罗一舟封面大片",
+        "onboard_time": 1669013011,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 185485,
+        "num": 185485,
+        "word": "卡塔尔世界杯足球内置传感器",
+        "onboard_time": 1669008210,
+        "rank": 22,
+        "category": "体育,科技"
+      },
+      {
+        "raw_hot": 173634,
+        "num": 173634,
+        "word": "点燃我温暖你全国九城飘雪告白",
+        "onboard_time": 1669007376,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 163878,
+        "num": 163878,
+        "word": "男孩被卷车底路人30秒极速救援",
+        "onboard_time": 1669008934,
+        "rank": 24,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 162862,
+        "num": 162862,
+        "word": "徐璐陈都灵2分钟预告换46套衣服",
+        "onboard_time": 1668998369,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 151963,
+        "num": 151963,
+        "word": "原来中国队分到了施工组",
+        "onboard_time": 1668998608,
+        "rank": 26,
+        "category": "体育,幽默"
+      },
+      {
+        "raw_hot": 146135,
+        "num": 146135,
+        "word": "学鸟走路的猫咪",
+        "onboard_time": 1669008335,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 137538,
+        "num": 137538,
+        "word": "奥地利2比0意大利",
+        "onboard_time": 1669003711,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130971,
+        "num": 130971,
+        "word": "英格兰vs伊朗",
+        "onboard_time": 1669005635,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184436,
+        "num": 129464,
+        "word": "新冠肺炎疫情风险区划定及管控方案",
+        "onboard_time": 1669012651,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149612,
+        "num": 127161,
+        "word": "YERI将出演电视剧清潭国际高中",
+        "onboard_time": 1669011933,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 132984,
+        "num": 125882,
+        "word": "霉霉AMA全美音乐奖6提6中",
+        "onboard_time": 1669006898,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 132076,
+        "num": 123143,
+        "word": "幼童在幼儿园被殴打致轻微伤",
+        "onboard_time": 1669012233,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122697,
+        "num": 122697,
+        "word": "女子大扫除意外发现丢失6年金手镯",
+        "onboard_time": 1668995068,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124520,
+        "num": 121924,
+        "word": "财阀家的小儿子 财阀家的小孙子",
+        "onboard_time": 1669011872,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 120034,
+        "num": 120034,
+        "word": "P型血男子驱车200公里救4岁男童",
+        "onboard_time": 1669010731,
+        "rank": 36,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 110091,
+        "num": 110091,
+        "word": "240斤男子为结婚5个月减90斤",
+        "onboard_time": 1669012772,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108596,
+        "num": 108596,
+        "word": "退钱哥名场面",
+        "onboard_time": 1669011933,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106547,
+        "num": 106547,
+        "word": "这就是寄猫篱下吧",
+        "onboard_time": 1669003651,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 113569,
+        "num": 105644,
+        "word": "以爱为营",
+        "onboard_time": 1669010072,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 102841,
+        "num": 102841,
+        "word": "原来有钱人也有不快乐的时候",
+        "onboard_time": 1668990935,
+        "rank": 41,
+        "category": "体育,情感"
+      },
+      {
+        "raw_hot": 101264,
+        "num": 101264,
+        "word": "李白的诗有画面了",
+        "onboard_time": 1669010612,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99646,
+        "num": 99646,
+        "word": "重庆新增本土确诊231例无症状5898例",
+        "onboard_time": 1668993153,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98758,
+        "num": 98758,
+        "word": "北京昨日新增2例死亡病例",
+        "onboard_time": 1668989493,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96201,
+        "num": 96201,
+        "word": "卡塔尔国旗是世界最长国旗",
+        "onboard_time": 1668987388,
+        "rank": 45,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 92001,
+        "num": 92001,
+        "word": "CPA",
+        "onboard_time": 1668996690,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 89085,
+        "num": 89085,
+        "word": "蔡明大张伟加盟喜剧大赛2",
+        "onboard_time": 1669010129,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85140,
+        "num": 85140,
+        "word": "广州新增本土感染者8181例",
+        "onboard_time": 1668993331,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84221,
+        "num": 84221,
+        "word": "世界杯落选选手",
+        "onboard_time": 1669012772,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#这份国礼承载着中泰两国人民的美好期待#"
+    }
+  }
+}
