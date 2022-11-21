@@ -1,6 +1,6 @@
 {
   "startTime": 1668961718135,
-  "endTime": 1669007986387,
+  "endTime": 1669008977390,
   "band_list": [
     {
       "raw_hot": 4068058,
@@ -139,12 +139,28 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 946164,
+      "num": 946164,
+      "word": "室友被子长蘑菇小伙帮忙剪掉",
+      "onboard_time": 1669005514,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 906461,
       "num": 906461,
       "word": "徐璐陈都灵2分钟预告换46套衣服",
       "onboard_time": 1668998369,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 889519,
+      "num": 889519,
+      "word": "伊朗",
+      "onboard_time": 1669004193,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 867285,
@@ -155,20 +171,20 @@
       "category": "体育,网红"
     },
     {
+      "raw_hot": 855771,
+      "num": 855771,
+      "word": "天娱新男团以华晨宇为目标",
+      "onboard_time": 1669007255,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 850411,
       "num": 850411,
       "word": "CPA",
       "onboard_time": 1668996690,
       "rank": 22,
       "category": "教育"
-    },
-    {
-      "raw_hot": 838968,
-      "num": 838968,
-      "word": "室友被子长蘑菇小伙帮忙剪掉",
-      "onboard_time": 1669005514,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 784834,
@@ -185,14 +201,6 @@
       "onboard_time": 1669001850,
       "rank": 3,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 769663,
-      "num": 769663,
-      "word": "伊朗",
-      "onboard_time": 1669004193,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 756864,
@@ -267,6 +275,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 573174,
+      "num": 573174,
+      "word": "迪丽热巴三登精彩OK封面",
+      "onboard_time": 1669007909,
+      "rank": 12,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 571159,
       "num": 571159,
       "word": "重庆新增本土确诊231例无症状5898例",
@@ -291,14 +307,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 557819,
-      "num": 557819,
-      "word": "天娱新男团以华晨宇为目标",
-      "onboard_time": 1669007255,
-      "rank": 6,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 555674,
       "num": 555674,
       "word": "刘畊宏说C罗体脂率跟我差不多",
@@ -313,6 +321,22 @@
       "onboard_time": 1668953791,
       "rank": 7,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 515387,
+      "num": 403323,
+      "word": "王海称小杨哥质检报告是假的",
+      "onboard_time": 1669007853,
+      "rank": 32,
+      "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 508376,
+      "num": 508376,
+      "word": "白鹿以爱为营最新上班路透",
+      "onboard_time": 1669006417,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 506528,
@@ -427,16 +451,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 415439,
-      "num": 415439,
-      "word": "白鹿以爱为营最新上班路透",
-      "onboard_time": 1669006417,
-      "rank": 9,
-      "category": "影视"
-    },
-    {
       "raw_hot": 414154,
-      "num": 813164,
+      "num": 917816,
       "word": "中国水下考古又一大发现",
       "onboard_time": 1669002092,
       "rank": 2,
@@ -449,14 +465,6 @@
       "onboard_time": 1668963145,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 408418,
-      "num": 408418,
-      "word": "迪丽热巴三登精彩OK封面",
-      "onboard_time": 1669007909,
-      "rank": 12,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 407478,
@@ -659,20 +667,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 274666,
+      "num": 274666,
+      "word": "奥地利2比0意大利",
+      "onboard_time": 1669003711,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 273769,
       "num": 167632,
       "word": "演员薛中锐去世",
       "onboard_time": 1668956497,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 272711,
-      "num": 272711,
-      "word": "奥地利2比0意大利",
-      "onboard_time": 1669003711,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 264253,
@@ -691,12 +699,28 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 255969,
+      "raw_hot": 260796,
+      "num": 243667,
+      "word": "鹿晗将参与解说2场世界杯比赛",
+      "onboard_time": 1669006120,
+      "rank": 22,
+      "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 257710,
       "num": 243580,
       "word": "点燃我温暖你全国九城飘雪告白",
       "onboard_time": 1669007376,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 257572,
+      "num": 257572,
+      "word": "英格兰vs伊朗",
+      "onboard_time": 1669005635,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 254165,
@@ -715,28 +739,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 248172,
-      "num": 243667,
-      "word": "鹿晗将参与解说2场世界杯比赛",
-      "onboard_time": 1669006120,
-      "rank": 22,
-      "category": "体育,艺人"
-    },
-    {
       "raw_hot": 247064,
       "num": 247064,
       "word": "钱不是万能的",
       "onboard_time": 1668996869,
       "rank": 41,
       "category": "体育,幽默"
-    },
-    {
-      "raw_hot": 246829,
-      "num": 246829,
-      "word": "英格兰vs伊朗",
-      "onboard_time": 1669005635,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 245041,
@@ -849,14 +857,6 @@
       "onboard_time": 1668954093,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 202867,
-      "num": 180926,
-      "word": "王海称小杨哥质检报告是假的",
-      "onboard_time": 1669007853,
-      "rank": 32,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 198431,
@@ -979,6 +979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 164296,
+      "num": 133149,
+      "word": "合肥质检研究院回应被指造假",
+      "onboard_time": 1669008576,
+      "rank": 40,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 159333,
       "num": 136398,
       "word": "陈飞宇张婧仪隔空玩游戏",
@@ -1003,6 +1011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 154075,
+      "num": 154075,
+      "word": "英格兰队战伊朗前将单膝下跪",
+      "onboard_time": 1669007498,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 152708,
       "num": 152708,
       "word": "注会",
@@ -1024,6 +1040,14 @@
       "word": "厄瓜多尔越位",
       "onboard_time": 1668961827,
       "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 147847,
+      "num": 147847,
+      "word": "卡塔尔吉祥物",
+      "onboard_time": 1669007614,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -1075,20 +1099,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 138730,
+      "num": 138730,
+      "word": "学鸟走路的猫咪",
+      "onboard_time": 1669008335,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 137479,
       "num": 137479,
       "word": "11月20日新增本土确诊2277例",
       "onboard_time": 1668997290,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 136428,
-      "num": 136428,
-      "word": "英格兰队战伊朗前将单膝下跪",
-      "onboard_time": 1669007498,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 133302,
@@ -1105,14 +1129,6 @@
       "onboard_time": 1669005998,
       "rank": 49,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 130871,
-      "num": 130871,
-      "word": "卡塔尔吉祥物",
-      "onboard_time": 1669007614,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 129656,
@@ -1137,6 +1153,14 @@
       "onboard_time": 1668997647,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 125967,
+      "num": 125967,
+      "word": "7岁女童偷吃燃脂巧克力进ICU",
+      "onboard_time": 1669008694,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 125052,
@@ -1195,6 +1219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 116430,
+      "num": 116430,
+      "word": "卡塔尔世界杯足球内置传感器",
+      "onboard_time": 1669008210,
+      "rank": 45,
+      "category": "体育,科技"
+    },
+    {
       "raw_hot": 115604,
       "num": 115604,
       "word": "马刺vs湖人",
@@ -1217,6 +1249,14 @@
       "onboard_time": 1668961406,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 107053,
+      "num": 107053,
+      "word": "男孩被卷车底路人30秒极速救援",
+      "onboard_time": 1669008934,
+      "rank": 49,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 106406,
