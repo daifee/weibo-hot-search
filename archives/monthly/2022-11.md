@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/01 00:36:21 ~ 2022/11/21 23:22:57
+本榜单时间：2022/11/01 00:36:21 ~ 2022/11/21 23:39:25
 </p>
 </blockquote>
 <p>
@@ -861,6 +861,12 @@ IU（热度：2015592）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E9%98%9F%E5%BC%80%E5%9C%BA%E6%9C%AA%E5%94%B1%E5%9B%BD%E6%AD%8C%23" target="weibo">
+伊朗队开场未唱国歌（热度：1857954）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%23" target="weibo">
 南京大学回应（热度：1856736）
 </a>
@@ -917,12 +923,6 @@ IU（热度：2015592）
 <li>
 <a href="https://s.weibo.com/weibo?q=%235%E4%BD%8D%E5%A5%BD%E5%8F%8B%23" target="weibo">
 5位好友（热度：1815034）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E9%98%9F%E5%BC%80%E5%9C%BA%E6%9C%AA%E5%94%B1%E5%9B%BD%E6%AD%8C%23" target="weibo">
-伊朗队开场未唱国歌（热度：1814764）
 </a>
 </li>
 
@@ -1565,6 +1565,12 @@ Faker（热度：1632969）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%AE%89%E8%AD%A6%E6%96%B9%E7%A7%B0%E5%B7%B2%E5%A4%84%E7%BD%AE%E5%AE%8C%E9%93%B6%E8%A1%8C%E5%8A%AB%E6%A1%88%23" target="weibo">
 泰安警方称已处置完银行劫案（热度：1435906）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E6%A0%BC%E5%85%B06%E6%AF%942%E4%BC%8A%E6%9C%97%23" target="weibo">
+英格兰6比2伊朗（热度：1431901）
 </a>
 </li>
 
@@ -3945,6 +3951,12 @@ Doinb（热度：828666）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E5%9B%A0%E4%B8%BA%E6%9B%BC%E8%81%94%E6%94%AF%E6%8C%81%E8%8B%B1%E6%A0%BC%E5%85%B0%23" target="weibo">
+鹿晗因为曼联支持英格兰（热度：828455）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%89%BF%E9%93%89%E6%88%9A%E8%96%87%E4%BA%8C%E8%83%8E%E5%8F%ABseven%23" target="weibo">
 李承铉戚薇二胎叫seven（热度：828335）
 </a>
@@ -4949,6 +4961,12 @@ iPhone15仅Pro的C口支持高速传输（热度：732221）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%88%B7%E5%81%B76000%E5%85%83%E5%BD%93%E5%9C%BA%E8%A2%AB%E9%80%AE%E4%B8%8B%E8%B7%AA%E6%B1%82%E9%A5%B6%23" target="weibo">
 大爷偷6000元当场被逮下跪求饶（热度：703653）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%96%86%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E7%94%B7%E5%AD%90%E8%A2%AB%E5%8E%8B%E5%9C%A8%E5%9C%B0%E4%B8%8A%23" target="weibo">
+新疆回应网传男子被压在地上（热度：702789）
 </a>
 </li>
 
@@ -5993,24 +6011,6 @@ iPhone14Pro息屏可不显示壁纸（热度：625106）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2332%E5%B2%81%E5%85%A8%E8%81%8C%E5%A6%88%E5%A6%88%E8%87%AA%E5%AD%A6%E5%8C%96%E5%A6%862%E6%9C%88%E6%B0%94%E8%B4%A8%E5%A4%A7%E5%8F%98%23" target="weibo">
 32岁全职妈妈自学化妆2月气质大变（热度：616868）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E6%84%9F%E6%9F%93%E8%80%854160%E4%BE%8B%23" target="weibo">
-广东新增本土感染者4160例（热度：616276）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%86%E6%9F%AF%E7%87%83%E5%AE%98%E5%AE%A3%E7%AD%BE%E7%BA%A6%E7%B4%A2%E5%B0%BC%E9%9F%B3%E4%B9%90%23" target="weibo">
-陆柯燃官宣签约索尼音乐（热度：616173）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9F%AF%E5%8D%97%E5%85%A8%E5%91%98%E5%A9%9A%E7%A4%BC%E9%80%A0%E5%9E%8B%23" target="weibo">
-柯南全员婚礼造型（热度：615982）
 </a>
 </li>
 

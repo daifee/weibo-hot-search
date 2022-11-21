@@ -1,6 +1,6 @@
 {
   "startTime": 1668961718135,
-  "endTime": 1669044177193,
+  "endTime": 1669045165103,
   "band_list": [
     {
       "raw_hot": 4068058,
@@ -75,20 +75,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1857954,
+      "num": 1857954,
+      "word": "伊朗队开场未唱国歌",
+      "onboard_time": 1669040325,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1822592,
       "num": 1822592,
       "word": "田柾国",
       "onboard_time": 1668957578,
       "rank": 3,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 1814764,
-      "num": 1814764,
-      "word": "伊朗队开场未唱国歌",
-      "onboard_time": 1669040325,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 1589317,
@@ -129,6 +129,14 @@
       "onboard_time": 1669037920,
       "rank": 3,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 1431901,
+      "num": 1431901,
+      "word": "英格兰6比2伊朗",
+      "onboard_time": 1669044224,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 1264594,
@@ -347,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 828455,
+      "num": 828455,
+      "word": "鹿晗因为曼联支持英格兰",
+      "onboard_time": 1669044283,
+      "rank": 8,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 809086,
       "num": 809086,
       "word": "卡塔尔在当一种很新的东道主",
@@ -433,6 +449,14 @@
       "onboard_time": 1669017152,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 702789,
+      "num": 652327,
+      "word": "新疆回应网传男子被压在地上",
+      "onboard_time": 1669042724,
+      "rank": 15,
+      "category": "社会负面"
     },
     {
       "raw_hot": 673426,
@@ -739,6 +763,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 449557,
+      "num": 449557,
+      "word": "塞内加尔vs荷兰",
+      "onboard_time": 1669043032,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 449223,
       "num": 449223,
       "word": "太快确定关系的恋爱会长久吗",
@@ -859,8 +891,16 @@
       "category": "影视"
     },
     {
+      "raw_hot": 416762,
+      "num": 416762,
+      "word": "方舒苗在何以琛的律所工作",
+      "onboard_time": 1669043930,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 414154,
-      "num": 1475394,
+      "num": 1559187,
       "word": "中国水下考古又一大发现",
       "onboard_time": 1669002092,
       "rank": 2,
@@ -881,6 +921,14 @@
       "onboard_time": 1669036479,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 412698,
+      "num": 412698,
+      "word": "高校老师自曝被同事投毒百草枯",
+      "onboard_time": 1669043327,
+      "rank": 40,
+      "category": "社会负面,教育"
     },
     {
       "raw_hot": 411009,
@@ -937,14 +985,6 @@
       "onboard_time": 1669025616,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 393388,
-      "num": 393388,
-      "word": "新疆回应网传男子被压在地上",
-      "onboard_time": 1669042724,
-      "rank": 15,
-      "category": "社会负面"
     },
     {
       "raw_hot": 389232,
@@ -1065,14 +1105,6 @@
       "onboard_time": 1669041584,
       "rank": 16,
       "category": "影视"
-    },
-    {
-      "raw_hot": 361978,
-      "num": 361978,
-      "word": "塞内加尔vs荷兰",
-      "onboard_time": 1669043032,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 358260,
@@ -1267,6 +1299,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 300306,
+      "num": 300306,
+      "word": "伊朗守门员",
+      "onboard_time": 1669043571,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 299708,
       "num": 288034,
       "word": "柯南史上最be剧情",
@@ -1291,6 +1331,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 292194,
+      "num": 292194,
+      "word": "世界杯首日一医院收治20多位球迷",
+      "onboard_time": 1669039727,
+      "rank": 39,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 291014,
       "num": 291014,
       "word": "卡塔尔世界杯第一粒进球",
@@ -1313,14 +1361,6 @@
       "onboard_time": 1668995490,
       "rank": 24,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 288720,
-      "num": 288720,
-      "word": "世界杯首日一医院收治20多位球迷",
-      "onboard_time": 1669039727,
-      "rank": 39,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 287387,
@@ -1395,6 +1435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 273725,
+      "num": 273725,
+      "word": "3万度电能干什么",
+      "onboard_time": 1669042182,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 267605,
       "num": 267605,
       "word": "王霏霏终于跳舞了",
@@ -1443,27 +1491,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 259869,
-      "num": 259869,
-      "word": "3万度电能干什么",
-      "onboard_time": 1669042182,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 259439,
       "num": 259439,
       "word": "张婧仪看到陈飞宇受伤时的眼神",
       "onboard_time": 1669018535,
       "rank": 20,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 258660,
-      "num": 258660,
-      "word": "方舒苗在何以琛的律所工作",
-      "onboard_time": 1669043930,
-      "rank": 22,
       "category": "影视"
     },
     {
@@ -1473,14 +1505,6 @@
       "onboard_time": 1669007376,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 254916,
-      "num": 254916,
-      "word": "伊朗守门员",
-      "onboard_time": 1669043571,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 254678,
@@ -1563,6 +1587,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 240884,
+      "num": 240884,
+      "word": "给女朋友安利英格兰队的方式",
+      "onboard_time": 1669043202,
+      "rank": 28,
+      "category": "体育,幽默"
+    },
+    {
       "raw_hot": 239973,
       "num": 239973,
       "word": "小伙自费百元拍到高清中国空间站",
@@ -1611,12 +1643,12 @@
       "category": "体育,音乐"
     },
     {
-      "raw_hot": 226266,
-      "num": 226266,
-      "word": "给女朋友安利英格兰队的方式",
-      "onboard_time": 1669043202,
-      "rank": 28,
-      "category": "体育,幽默"
+      "raw_hot": 225998,
+      "num": 225998,
+      "word": "霍华德将因伤休战两周",
+      "onboard_time": 1669043026,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 225107,
@@ -1827,28 +1859,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 193971,
-      "num": 193971,
-      "word": "高校老师自曝被同事投毒百草枯",
-      "onboard_time": 1669043327,
-      "rank": 40,
-      "category": "社会负面,教育"
-    },
-    {
       "raw_hot": 193060,
-      "num": 221585,
+      "num": 226670,
       "word": "9人捕捞极危长江鲟吃了3尾养死3尾",
       "onboard_time": 1669038225,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 191161,
-      "num": 191161,
-      "word": "霍华德将因伤休战两周",
-      "onboard_time": 1669043026,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 189896,
@@ -1929,6 +1945,14 @@
       "onboard_time": 1668968116,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 177594,
+      "num": 177594,
+      "word": "邱瑞是懂吐槽的",
+      "onboard_time": 1669042305,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 177169,
@@ -2033,14 +2057,6 @@
       "onboard_time": 1668994473,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 166336,
-      "num": 166336,
-      "word": "邱瑞是懂吐槽的",
-      "onboard_time": 1669042305,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 163878,
@@ -2251,6 +2267,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 141584,
+      "num": 135967,
+      "word": "英格兰世界杯首战告捷",
+      "onboard_time": 1669045131,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141082,
       "num": 141082,
       "word": "世界杯和奥运会哪个更赚钱",
@@ -2441,6 +2465,14 @@
       "onboard_time": 1668928105,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 121270,
+      "num": 121270,
+      "word": "威马汽车上海全员工资打五到七折",
+      "onboard_time": 1669044999,
+      "rank": 49,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 119814,
