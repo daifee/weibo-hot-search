@@ -1,0 +1,410 @@
+{
+  "runTime": 1669016090135,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1515976,
+        "num": 1515976,
+        "word": "新冠肺炎疫情风险区划定及管控方案",
+        "onboard_time": 1669012651,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1132549,
+        "num": 1132549,
+        "word": "退钱哥",
+        "onboard_time": 1668999090,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195971,
+        "num": 1041671,
+        "word": "中国水下考古又一大发现",
+        "onboard_time": 1669002092,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 958737,
+        "num": 958737,
+        "word": "00后妻子嫌丈夫吃独食欲跳车轻生",
+        "onboard_time": 1669011093,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 490395,
+        "num": 490395,
+        "word": "中药和美式的区别",
+        "onboard_time": 1669011392,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 427005,
+        "num": 427005,
+        "word": "卡塔尔是懂分组的",
+        "onboard_time": 1669009472,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 424902,
+        "num": 424902,
+        "word": "7岁女童偷吃燃脂巧克力进ICU",
+        "onboard_time": 1669008694,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 409189,
+        "num": 409189,
+        "word": "240斤男子为结婚5个月减90斤",
+        "onboard_time": 1669012772,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 396498,
+        "num": 396498,
+        "word": "网传倪妮刘诗诗三搭出演新剧",
+        "onboard_time": 1669011694,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 345838,
+        "num": 345838,
+        "word": "幼童在幼儿园被殴打致轻微伤",
+        "onboard_time": 1669012233,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 527653,
+        "num": 344997,
+        "word": "王鹤棣白鹿以爱为营吻戏路透",
+        "onboard_time": 1669009711,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 521050,
+        "num": 340653,
+        "word": "奶茶店老板娘回应穿着性感被举报",
+        "onboard_time": 1669013614,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 503220,
+        "num": 334935,
+        "word": "北中医1名学生核酸阳性",
+        "onboard_time": 1669010129,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 369187,
+        "num": 332409,
+        "word": "GAI王斯然真夫妻真糖真好嗑",
+        "onboard_time": 1669014631,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 329507,
+        "num": 329507,
+        "word": "财阀家的小儿子 财阀家的小孙子",
+        "onboard_time": 1669011872,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 302675,
+        "num": 302675,
+        "word": "业主嫌回家如上朝要求换小区大门",
+        "onboard_time": 1669013495,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275635,
+        "num": 275635,
+        "word": "天娱新男团以华晨宇为目标",
+        "onboard_time": 1669007255,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266363,
+        "num": 266363,
+        "word": "英格兰队战伊朗前将单膝下跪",
+        "onboard_time": 1669007498,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 262466,
+        "num": 262466,
+        "word": "符合哪些条件可停止全员核酸",
+        "onboard_time": 1669013972,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259973,
+        "num": 259973,
+        "word": "陈飞宇张婧仪吻戏拍摄花絮",
+        "onboard_time": 1669014873,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 241105,
+        "num": 241105,
+        "word": "王海称小杨哥质检报告是假的",
+        "onboard_time": 1669007853,
+        "rank": 20,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 227155,
+        "num": 227155,
+        "word": "伊朗",
+        "onboard_time": 1669004193,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 224590,
+        "num": 224590,
+        "word": "室友被子长蘑菇小伙帮忙剪掉",
+        "onboard_time": 1669005514,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221932,
+        "num": 221932,
+        "word": "儿女考满分爸爸奖励60秒超市随便买",
+        "onboard_time": 1669014813,
+        "rank": 23,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 189427,
+        "num": 189427,
+        "word": "王霏霏终于跳舞了",
+        "onboard_time": 1669014573,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 177850,
+        "num": 177850,
+        "word": "卡塔尔世界杯足球内置传感器",
+        "onboard_time": 1669008210,
+        "rank": 25,
+        "category": "体育,科技"
+      },
+      {
+        "raw_hot": 177648,
+        "num": 177648,
+        "word": "绵阳三台打人学生被全部抓获",
+        "onboard_time": 1669001850,
+        "rank": 26,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 168850,
+        "num": 168850,
+        "word": "迪丽热巴三登精彩OK封面",
+        "onboard_time": 1669007909,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 158761,
+        "num": 158761,
+        "word": "超6成年轻人对目前工作较满意",
+        "onboard_time": 1669009409,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155828,
+        "num": 155828,
+        "word": "单臂舅舅冒雨跪地摘葡萄救患癌外甥",
+        "onboard_time": 1669014691,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151958,
+        "num": 151958,
+        "word": "P型血男子驱车200公里救4岁男童",
+        "onboard_time": 1669010731,
+        "rank": 30,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 140711,
+        "num": 140711,
+        "word": "合肥质检研究院回应被指造假",
+        "onboard_time": 1669008576,
+        "rank": 31,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 132953,
+        "num": 132953,
+        "word": "龚俊成毅罗一舟封面大片",
+        "onboard_time": 1669013011,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 130340,
+        "num": 130340,
+        "word": "美国高估了自己也低估了中国",
+        "onboard_time": 1668991533,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124913,
+        "num": 124913,
+        "word": "奥地利2比0意大利",
+        "onboard_time": 1669003711,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114958,
+        "num": 114958,
+        "word": "点燃我温暖你全国九城飘雪告白",
+        "onboard_time": 1669007376,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 114667,
+        "num": 114667,
+        "word": "京沪非私营单位平均工资超19万",
+        "onboard_time": 1669014753,
+        "rank": 36,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 107459,
+        "num": 107459,
+        "word": "这就是寄猫篱下吧",
+        "onboard_time": 1669003651,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 105124,
+        "num": 105124,
+        "word": "徐璐陈都灵2分钟预告换46套衣服",
+        "onboard_time": 1668998369,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 104054,
+        "num": 104054,
+        "word": "李白的诗有画面了",
+        "onboard_time": 1669010612,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103938,
+        "num": 103938,
+        "word": "女儿1个电话爸爸骑车20公里送鸡腿",
+        "onboard_time": 1669015295,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103091,
+        "num": 103091,
+        "word": "谁能拒绝会飞的饺子皮呢",
+        "onboard_time": 1669015594,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 100718,
+        "num": 100718,
+        "word": "男孩被卷车底路人30秒极速救援",
+        "onboard_time": 1669008934,
+        "rank": 42,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 100498,
+        "num": 100498,
+        "word": "阿信微博评论区回复好走心",
+        "onboard_time": 1669005757,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91522,
+        "num": 91522,
+        "word": "手机APP为什么越做越大",
+        "onboard_time": 1669015955,
+        "rank": 44,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 83959,
+        "num": 83959,
+        "word": "当上海洋女婿去到卡塔尔后",
+        "onboard_time": 1669010432,
+        "rank": 45,
+        "category": "幽默,体育"
+      },
+      {
+        "raw_hot": 82524,
+        "num": 82524,
+        "word": "杭州造亮相卡塔尔世界杯",
+        "onboard_time": 1669015655,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94612,
+        "num": 82522,
+        "word": "朱韵关于李峋的朋友圈都是仅自己可见",
+        "onboard_time": 1669016074,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 82514,
+        "num": 82514,
+        "word": "原来中国队分到了施工组",
+        "onboard_time": 1668998608,
+        "rank": 48,
+        "category": "体育,幽默"
+      },
+      {
+        "raw_hot": 79610,
+        "num": 79610,
+        "word": "重庆新增本土确诊231例无症状5898例",
+        "onboard_time": 1668993153,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国的神舟之路将留下更多精彩#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1668961718135,
-  "endTime": 1669015190255,
+  "endTime": 1669016090135,
   "band_list": [
     {
       "raw_hot": 4068058,
@@ -67,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1515976,
+      "num": 1515976,
+      "word": "新冠肺炎疫情风险区划定及管控方案",
+      "onboard_time": 1669012651,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1264594,
       "num": 1264594,
       "word": "美国高估了自己也低估了中国",
@@ -81,14 +89,6 @@
       "onboard_time": 1668989973,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1228955,
-      "num": 1228955,
-      "word": "新冠肺炎疫情风险区划定及管控方案",
-      "onboard_time": 1669012651,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1216281,
@@ -139,8 +139,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 958020,
-      "num": 958020,
+      "raw_hot": 958737,
+      "num": 958737,
       "word": "00后妻子嫌丈夫吃独食欲跳车轻生",
       "onboard_time": 1669011093,
       "rank": 13,
@@ -371,6 +371,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 521050,
+      "num": 340653,
+      "word": "奶茶店老板娘回应穿着性感被举报",
+      "onboard_time": 1669013614,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 519776,
       "num": 519776,
       "word": "当上海洋女婿去到卡塔尔后",
@@ -417,6 +425,14 @@
       "onboard_time": 1668999806,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 490395,
+      "num": 490395,
+      "word": "中药和美式的区别",
+      "onboard_time": 1669011392,
+      "rank": 18,
+      "category": "幽默"
     },
     {
       "raw_hot": 489230,
@@ -491,14 +507,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 426029,
-      "num": 426029,
-      "word": "中药和美式的区别",
-      "onboard_time": 1669011392,
-      "rank": 18,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 425679,
       "num": 425679,
       "word": "女子大扫除意外发现丢失6年金手镯",
@@ -537,6 +545,14 @@
       "onboard_time": 1668963145,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 409189,
+      "num": 409189,
+      "word": "240斤男子为结婚5个月减90斤",
+      "onboard_time": 1669012772,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 407478,
@@ -587,14 +603,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 377475,
-      "num": 153139,
-      "word": "奶茶店老板娘回应穿着性感被举报",
-      "onboard_time": 1669013614,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 372650,
       "num": 372650,
       "word": "毛不易爱的二八定律片尾曲MV",
@@ -609,6 +617,14 @@
       "onboard_time": 1668993931,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 369187,
+      "num": 332409,
+      "word": "GAI王斯然真夫妻真糖真好嗑",
+      "onboard_time": 1669014631,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 358260,
@@ -635,11 +651,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 347323,
-      "num": 347323,
-      "word": "240斤男子为结婚5个月减90斤",
-      "onboard_time": 1669012772,
-      "rank": 37,
+      "raw_hot": 345838,
+      "num": 345838,
+      "word": "幼童在幼儿园被殴打致轻微伤",
+      "onboard_time": 1669012233,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -699,6 +715,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 329507,
+      "num": 329507,
+      "word": "财阀家的小儿子 财阀家的小孙子",
+      "onboard_time": 1669011872,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 328607,
       "num": 328607,
       "word": "王艺瑾MV在欧阳娜娜展览拍的",
@@ -707,20 +731,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 322233,
-      "num": 322233,
-      "word": "幼童在幼儿园被殴打致轻微伤",
-      "onboard_time": 1669012233,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 311378,
       "num": 311378,
       "word": "合肥质检研究院回应被指造假",
       "onboard_time": 1669008576,
       "rank": 40,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 302675,
+      "num": 302675,
+      "word": "业主嫌回家如上朝要求换小区大门",
+      "onboard_time": 1669013495,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 294718,
@@ -779,14 +803,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 280549,
-      "num": 280549,
-      "word": "业主嫌回家如上朝要求换小区大门",
-      "onboard_time": 1669013495,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 274666,
       "num": 274666,
       "word": "奥地利2比0意大利",
@@ -827,12 +843,28 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 262466,
+      "num": 262466,
+      "word": "符合哪些条件可停止全员核酸",
+      "onboard_time": 1669013972,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 260796,
       "num": 243667,
       "word": "鹿晗将参与解说2场世界杯比赛",
       "onboard_time": 1669006120,
       "rank": 22,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 259973,
+      "num": 259973,
+      "word": "陈飞宇张婧仪吻戏拍摄花絮",
+      "onboard_time": 1669014873,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 257710,
@@ -865,14 +897,6 @@
       "onboard_time": 1668988589,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 249708,
-      "num": 249708,
-      "word": "GAI王斯然真夫妻真糖真好嗑",
-      "onboard_time": 1669014631,
-      "rank": 19,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 247064,
@@ -937,6 +961,14 @@
       "onboard_time": 1668985763,
       "rank": 37,
       "category": "体育,科技"
+    },
+    {
+      "raw_hot": 221932,
+      "num": 221932,
+      "word": "儿女考满分爸爸奖励60秒超市随便买",
+      "onboard_time": 1669014813,
+      "rank": 37,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 219423,
@@ -1123,22 +1155,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 171187,
-      "num": 171187,
-      "word": "符合哪些条件可停止全员核酸",
-      "onboard_time": 1669013972,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 170424,
-      "num": 170424,
-      "word": "财阀家的小儿子 财阀家的小孙子",
-      "onboard_time": 1669011872,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
       "raw_hot": 169465,
       "num": 169465,
       "word": "广州地铁",
@@ -1161,14 +1177,6 @@
       "onboard_time": 1668994473,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 166948,
-      "num": 150511,
-      "word": "陈飞宇张婧仪吻戏拍摄花絮",
-      "onboard_time": 1669014873,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 163878,
@@ -1209,6 +1217,14 @@
       "onboard_time": 1669010731,
       "rank": 48,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 155828,
+      "num": 155828,
+      "word": "单臂舅舅冒雨跪地摘葡萄救患癌外甥",
+      "onboard_time": 1669014691,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 154128,
@@ -1347,14 +1363,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 127454,
-      "num": 127454,
-      "word": "单臂舅舅冒雨跪地摘葡萄救患癌外甥",
-      "onboard_time": 1669014691,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 126505,
       "num": 126505,
       "word": "南来北往",
@@ -1419,14 +1427,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 117874,
-      "num": 117874,
-      "word": "儿女考满分爸爸奖励60秒超市随便买",
-      "onboard_time": 1669014813,
-      "rank": 37,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 117116,
       "num": 117116,
       "word": "原来真有人装户外空调",
@@ -1457,6 +1457,14 @@
       "onboard_time": 1668965061,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 114667,
+      "num": 114667,
+      "word": "京沪非私营单位平均工资超19万",
+      "onboard_time": 1669014753,
+      "rank": 43,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 112182,
@@ -1523,12 +1531,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 102755,
-      "num": 102755,
-      "word": "京沪非私营单位平均工资超19万",
-      "onboard_time": 1669014753,
-      "rank": 43,
-      "category": "社会新闻,财经"
+      "raw_hot": 103938,
+      "num": 103938,
+      "word": "女儿1个电话爸爸骑车20公里送鸡腿",
+      "onboard_time": 1669015295,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 103091,
+      "num": 103091,
+      "word": "谁能拒绝会飞的饺子皮呢",
+      "onboard_time": 1669015594,
+      "rank": 41,
+      "category": "美食"
     },
     {
       "raw_hot": 101810,
@@ -1587,12 +1603,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 94612,
+      "num": 82522,
+      "word": "朱韵关于李峋的朋友圈都是仅自己可见",
+      "onboard_time": 1669016074,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 93974,
       "num": 93974,
       "word": "水花兄弟合砍74分",
       "onboard_time": 1669001490,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 91522,
+      "num": 91522,
+      "word": "手机APP为什么越做越大",
+      "onboard_time": 1669015955,
+      "rank": 44,
+      "category": "科技"
     },
     {
       "raw_hot": 90689,
@@ -1617,6 +1649,14 @@
       "onboard_time": 1668966138,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 82524,
+      "num": 82524,
+      "word": "杭州造亮相卡塔尔世界杯",
+      "onboard_time": 1669015655,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 78300,
