@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/01 00:36:21 ~ 2022/11/21 09:55:47
+本榜单时间：2022/11/01 00:36:21 ~ 2022/11/21 10:25:15
 </p>
 </blockquote>
 <p>
@@ -1185,6 +1185,12 @@ Faker（热度：1632969）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E8%BF%98%E6%B4%BB%E7%9D%80%E5%8D%B4%E8%A2%AB%E4%BA%BA%E7%BD%91%E7%BB%9C%E7%A5%AD%E5%A5%A04.3%E4%B8%87%E6%AC%A1%23" target="weibo">
+人还活着却被人网络祭奠4.3万次（热度：1589317）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%8E%9F%E7%88%B1%E8%A2%AB%E7%94%B7%E5%8F%8B%E5%89%8D%E5%A6%BB%E8%B5%B7%E8%AF%89%23" target="weibo">
 福原爱被男友前妻起诉（热度：1586990）
 </a>
@@ -1355,12 +1361,6 @@ Faker（热度：1632969）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AF%B7%E5%85%81%E8%AE%B8%E5%9B%BD%E4%BA%A7%E7%94%B5%E8%A7%86%E5%89%A7%E9%87%8C%E6%9C%89%E4%B8%AD%E5%A5%B3%E7%9A%84%E5%AD%98%E5%9C%A8%23" target="weibo">
 请允许国产电视剧里有中女的存在（热度：1515387）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E8%BF%98%E6%B4%BB%E7%9D%80%E5%8D%B4%E8%A2%AB%E4%BA%BA%E7%BD%91%E7%BB%9C%E7%A5%AD%E5%A5%A04.3%E4%B8%87%E6%AC%A1%23" target="weibo">
-人还活着却被人网络祭奠4.3万次（热度：1514550）
 </a>
 </li>
 
@@ -1857,6 +1857,12 @@ gemini（热度：1285265）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E9%AB%98%E4%BC%B0%E4%BA%86%E8%87%AA%E5%B7%B1%E4%B9%9F%E4%BD%8E%E4%BC%B0%E4%BA%86%E4%B8%AD%E5%9B%BD%23" target="weibo">
+美国高估了自己也低估了中国（热度：1264594）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E6%B3%B0%E5%A6%8D%E7%A1%AE%E8%AF%8A%E6%84%9F%E6%9F%93%E6%96%B0%E5%86%A0%23" target="weibo">
 金泰妍确诊感染新冠（热度：1257641）
 </a>
@@ -2009,12 +2015,6 @@ Deft世界赛首冠（热度：1226043）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E9%A3%9E%E5%AE%87%E6%91%87%E5%A4%B4%E8%AE%A9%E7%AB%99%E5%A7%90%E4%B8%8D%E8%A6%81%E6%8B%8D%E4%BA%86%23" target="weibo">
 陈飞宇摇头让站姐不要拍了（热度：1203821）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E9%AB%98%E4%BC%B0%E4%BA%86%E8%87%AA%E5%B7%B1%E4%B9%9F%E4%BD%8E%E4%BC%B0%E4%BA%86%E4%B8%AD%E5%9B%BD%23" target="weibo">
-美国高估了自己也低估了中国（热度：1200298）
 </a>
 </li>
 
@@ -2523,6 +2523,12 @@ iPhone折叠屏（热度：1140020）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B2%B3%E4%BA%91%E9%B9%8F%E4%B9%9F%E5%8E%BB%E5%8D%A1%E5%A1%94%E5%B0%94%E7%9C%8B%E5%BC%80%E5%B9%95%E5%BC%8F%E4%BA%86%E5%90%97%23" target="weibo">
+岳云鹏也去卡塔尔看开幕式了吗（热度：1050384）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E5%90%83%E6%9D%A8%E5%9B%BD%E7%A6%8F1%E5%B9%B4%E5%8F%91%E7%8E%B0%E7%AB%9F%E6%98%AF%E6%9D%A8%E5%9B%B4%E7%A6%8F%23" target="weibo">
 男生吃杨国福1年发现竟是杨围福（热度：1044920）
 </a>
@@ -2801,6 +2807,12 @@ iPhone折叠屏（热度：1140020）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23EXO%E5%85%AD%E4%BA%BA%E5%90%88%E4%BD%93%E8%A7%86%E9%A2%91%23" target="weibo">
 EXO六人合体视频（热度：1003777）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E6%98%A8%E6%97%A5%E6%96%B0%E5%A2%9E2%E4%BE%8B%E6%AD%BB%E4%BA%A1%E7%97%85%E4%BE%8B%23" target="weibo">
+北京昨日新增2例死亡病例（热度：1002657）
 </a>
 </li>
 
@@ -3161,12 +3173,6 @@ GEN官宣ruler离队（热度：944685）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%91%86%E7%83%82%20%E8%AE%BA%E6%96%87%23" target="weibo">
 摆烂 论文（热度：922407）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E6%98%A8%E6%97%A5%E6%96%B0%E5%A2%9E2%E4%BE%8B%E6%AD%BB%E4%BA%A1%E7%97%85%E4%BE%8B%23" target="weibo">
-北京昨日新增2例死亡病例（热度：922293）
 </a>
 </li>
 
@@ -4659,6 +4665,12 @@ iPhone15仅Pro的C口支持高速传输（热度：732221）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%84%E7%93%9C%E5%A4%9A%E5%B0%94%E7%90%83%E8%BF%B7%E6%90%93%E9%92%B1%E5%8A%A8%E4%BD%9C%E6%8C%91%E8%A1%85%E4%B8%9C%E9%81%93%E4%B8%BB%23" target="weibo">
+厄瓜多尔球迷搓钱动作挑衅东道主（热度：713999）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B1%E7%9A%84%E4%BA%8C%E5%85%AB%E5%AE%9A%E5%BE%8B%E5%BC%80%E6%92%AD%E8%BF%BD%E5%89%A7%E6%97%A5%E5%8E%86%23" target="weibo">
 爱的二八定律开播追剧日历（热度：713623）
 </a>
@@ -4793,6 +4805,12 @@ iPhone15仅Pro的C口支持高速传输（热度：732221）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E4%B8%A4%E5%90%8D15%E5%B2%81%E5%AD%A6%E7%94%9F%E8%A2%AB%E6%B8%85%E5%8D%8E%E5%BD%95%E5%8F%96%E6%9C%AC%E7%A1%95%E5%8D%9A%E8%BF%9E%E8%AF%BB%23" target="weibo">
 成都两名15岁学生被清华录取本硕博连读（热度：695567）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E9%91%AB%E8%87%AA%E7%A7%B0%E6%A1%88%E5%8F%91%E5%90%8E%E5%B7%B2%E7%A4%BE%E4%BC%9A%E6%80%A7%E6%AD%BB%E4%BA%A1%23" target="weibo">
+刘鑫自称案发后已社会性死亡（热度：694622）
 </a>
 </li>
 
@@ -5993,24 +6011,6 @@ iPhone14Pro息屏可不显示壁纸（热度：625106）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%9B%9E%E5%BA%94%E8%A2%AB%E9%99%8C%E7%94%9F%E5%A5%B3%E5%AD%90%E8%B7%9F%E8%B8%AA%E9%AA%9A%E6%89%B01%E5%B9%B4%23" target="weibo">
 男子回应被陌生女子跟踪骚扰1年（热度：597314）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%84%B1%E5%8F%A3%E7%A7%80%E5%A4%A7%E4%BC%9A5%E6%80%BB%E5%86%B3%E8%B5%9B%E5%AE%98%E5%AE%A3%E9%B9%BF%E6%99%97%23" target="weibo">
-脱口秀大会5总决赛官宣鹿晗（热度：596942）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%A2%E7%83%9F%E5%A4%B4%E5%BC%95%E9%9D%92%E5%B2%9B%E5%B1%B1%E7%81%AB%E7%94%B7%E5%AD%90%E8%A2%AB%E5%88%A44%E5%B9%B4%E5%8D%8A%23" target="weibo">
-丢烟头引青岛山火男子被判4年半（热度：596346）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC12345%E5%9B%9E%E5%BA%94%23" target="weibo">
-北京12345回应（热度：595404）
 </a>
 </li>
 

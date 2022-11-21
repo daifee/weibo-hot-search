@@ -1,6 +1,6 @@
 {
   "startTime": 1668961718135,
-  "endTime": 1668995747504,
+  "endTime": 1668997515338,
   "band_list": [
     {
       "raw_hot": 4068058,
@@ -35,6 +35,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 1589317,
+      "num": 1589317,
+      "word": "人还活着却被人网络祭奠4.3万次",
+      "onboard_time": 1668986662,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1518851,
       "num": 371181,
       "word": "刘暖曦自述案发当天经过",
@@ -43,11 +51,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1514550,
-      "num": 1514550,
-      "word": "人还活着却被人网络祭奠4.3万次",
-      "onboard_time": 1668986662,
-      "rank": 18,
+      "raw_hot": 1264594,
+      "num": 1264594,
+      "word": "美国高估了自己也低估了中国",
+      "onboard_time": 1668991533,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -67,14 +75,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1200298,
-      "num": 1200298,
-      "word": "美国高估了自己也低估了中国",
-      "onboard_time": 1668991533,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1118375,
       "num": 1118375,
       "word": "王冰冰自我介绍",
@@ -91,20 +91,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1050384,
+      "num": 1050384,
+      "word": "岳云鹏也去卡塔尔看开幕式了吗",
+      "onboard_time": 1668995490,
+      "rank": 23,
+      "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 1002657,
+      "num": 1002657,
+      "word": "北京昨日新增2例死亡病例",
+      "onboard_time": 1668989493,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 953291,
       "num": 953291,
       "word": "世界杯岳云鹏",
       "onboard_time": 1668961226,
       "rank": 20,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 922293,
-      "num": 922293,
-      "word": "北京昨日新增2例死亡病例",
-      "onboard_time": 1668989493,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 867285,
@@ -140,10 +148,26 @@
     },
     {
       "raw_hot": 719350,
-      "num": 463204,
+      "num": 486475,
       "word": "女子备孕13年生龙凤胎取名天佑佑心",
       "onboard_time": 1668955296,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 713999,
+      "num": 713999,
+      "word": "厄瓜多尔球迷搓钱动作挑衅东道主",
+      "onboard_time": 1668993752,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 694622,
+      "num": 561721,
+      "word": "刘鑫自称案发后已社会性死亡",
+      "onboard_time": 1668996210,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -187,12 +211,28 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 571159,
+      "num": 571159,
+      "word": "重庆新增本土确诊231例无症状5898例",
+      "onboard_time": 1668993153,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 567435,
       "num": 360464,
       "word": "马凡舒好美",
       "onboard_time": 1668957940,
       "rank": 13,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 561823,
+      "num": 561823,
+      "word": "孩子书包鼓鼓的没一本书全是战利品",
+      "onboard_time": 1668992611,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 555674,
@@ -235,28 +275,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 482082,
+      "num": 482082,
+      "word": "广州新增本土感染者8181例",
+      "onboard_time": 1668993331,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 478625,
       "num": 478625,
       "word": "世界杯首球",
       "onboard_time": 1668962126,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 473239,
-      "num": 473239,
-      "word": "孩子书包鼓鼓的没一本书全是战利品",
-      "onboard_time": 1668992611,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 465497,
-      "num": 465497,
-      "word": "广州新增本土感染者8181例",
-      "onboard_time": 1668993331,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 461496,
@@ -331,12 +363,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 373041,
-      "num": 373041,
-      "word": "厄瓜多尔球迷搓钱动作挑衅东道主",
-      "onboard_time": 1668993752,
-      "rank": 17,
-      "category": "体育"
+      "raw_hot": 370617,
+      "num": 370617,
+      "word": "女孩陷传销数月塞救命纸条求助",
+      "onboard_time": 1668993931,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 358260,
@@ -403,6 +435,22 @@
       "category": "体育,情感"
     },
     {
+      "raw_hot": 330228,
+      "num": 330228,
+      "word": "女子大扫除意外发现丢失6年金手镯",
+      "onboard_time": 1668995068,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 316939,
+      "num": 316939,
+      "word": "CPA",
+      "onboard_time": 1668996690,
+      "rank": 22,
+      "category": "教育"
+    },
+    {
       "raw_hot": 294718,
       "num": 294718,
       "word": "两个人为什么会慢慢走散",
@@ -425,14 +473,6 @@
       "onboard_time": 1668950190,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 289565,
-      "num": 289565,
-      "word": "岳云鹏也去卡塔尔看开幕式了吗",
-      "onboard_time": 1668995490,
-      "rank": 23,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 289290,
@@ -459,20 +499,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 275684,
+      "num": 275684,
+      "word": "尹峥给李薇带了绿豆糕",
+      "onboard_time": 1668996630,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 273769,
       "num": 167632,
       "word": "演员薛中锐去世",
       "onboard_time": 1668956497,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 263787,
-      "num": 263787,
-      "word": "重庆新增本土确诊231例无症状5898例",
-      "onboard_time": 1668993153,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 263553,
@@ -483,19 +523,19 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 254165,
+      "num": 254165,
+      "word": "Jennie新歌",
+      "onboard_time": 1668987326,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 253983,
       "num": 253983,
       "word": "广州白云区疫情防控",
       "onboard_time": 1668988589,
       "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 247046,
-      "num": 247046,
-      "word": "女孩陷传销数月塞救命纸条求助",
-      "onboard_time": 1668993931,
-      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -505,14 +545,6 @@
       "onboard_time": 1668907471,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 238160,
-      "num": 238160,
-      "word": "Jennie新歌",
-      "onboard_time": 1668987326,
-      "rank": 45,
-      "category": "音乐"
     },
     {
       "raw_hot": 235648,
@@ -585,6 +617,14 @@
       "onboard_time": 1668938367,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 203636,
+      "num": 203636,
+      "word": "宋舞宋武成亲",
+      "onboard_time": 1668954093,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 195320,
@@ -675,12 +715,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 156948,
-      "num": 156948,
+      "raw_hot": 168923,
+      "num": 168923,
       "word": "卡塔尔全场0射正",
       "onboard_time": 1668994473,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 156791,
+      "num": 156791,
+      "word": "徐明浩又更新演唱会视频了",
+      "onboard_time": 1668997170,
+      "rank": 38,
+      "category": "音乐"
     },
     {
       "raw_hot": 154128,
@@ -715,6 +763,30 @@
       "category": "体育"
     },
     {
+      "raw_hot": 145355,
+      "num": 145355,
+      "word": "钱不是万能的",
+      "onboard_time": 1668996869,
+      "rank": 41,
+      "category": "体育,幽默"
+    },
+    {
+      "raw_hot": 144640,
+      "num": 144640,
+      "word": "11月20日新增本土无症状24547例",
+      "onboard_time": 1668997408,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 144414,
+      "num": 144414,
+      "word": "勇士vs火箭",
+      "onboard_time": 1668991653,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 139937,
       "num": 139937,
       "word": "厄瓜多尔将进球献给已故队友",
@@ -723,11 +795,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 130270,
-      "num": 130270,
-      "word": "女子大扫除意外发现丢失6年金手镯",
-      "onboard_time": 1668995068,
-      "rank": 45,
+      "raw_hot": 137479,
+      "num": 137479,
+      "word": "11月20日新增本土确诊2277例",
+      "onboard_time": 1668997290,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -745,14 +817,6 @@
       "onboard_time": 1668995610,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 125314,
-      "num": 125314,
-      "word": "勇士vs火箭",
-      "onboard_time": 1668991653,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 125052,
