@@ -1,6 +1,6 @@
 {
   "startTime": 1669048272938,
-  "endTime": 1669055215978,
+  "endTime": 1669056161478,
   "band_list": [
     {
       "raw_hot": 1172928,
@@ -99,19 +99,19 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 447121,
+      "num": 447121,
+      "word": "美国vs威尔士",
+      "onboard_time": 1669052180,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 426621,
       "num": 426621,
       "word": "塞内加尔vs荷兰",
       "onboard_time": 1669043032,
       "rank": 8,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 377338,
-      "num": 377338,
-      "word": "美国vs威尔士",
-      "onboard_time": 1669052180,
-      "rank": 48,
       "category": "体育"
     },
     {
@@ -235,6 +235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 196587,
+      "num": 96198,
+      "word": "梅西说这是最后一次世界杯",
+      "onboard_time": 1669052478,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 193251,
       "num": 178010,
       "word": "施情华意领证了",
@@ -248,14 +256,6 @@
       "word": "霍华德将因伤休战两周",
       "onboard_time": 1669043026,
       "rank": 26,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 190593,
-      "num": 96198,
-      "word": "梅西说这是最后一次世界杯",
-      "onboard_time": 1669052478,
-      "rank": 10,
       "category": "体育"
     },
     {
@@ -305,6 +305,14 @@
       "onboard_time": 1669041584,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 164519,
+      "num": 164519,
+      "word": "重庆寸滩方舱医院正加紧建设",
+      "onboard_time": 1669053377,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 159165,
@@ -419,14 +427,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 110704,
-      "num": 110704,
-      "word": "重庆寸滩方舱医院正加紧建设",
-      "onboard_time": 1669053377,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 110034,
       "num": 110034,
       "word": "卿卿日常好笑又好哭",
@@ -475,8 +475,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 53455,
-      "num": 53455,
+      "raw_hot": 60092,
+      "num": 60092,
       "word": "塞内加尔0比2荷兰",
       "onboard_time": 1669054816,
       "rank": 24,
