@@ -1,6 +1,6 @@
 {
   "startTime": 1668961718135,
-  "endTime": 1669016090135,
+  "endTime": 1669019271490,
   "band_list": [
     {
       "raw_hot": 4068058,
@@ -139,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 965138,
+      "num": 965138,
+      "word": "奶茶店老板娘回应穿着性感被举报",
+      "onboard_time": 1669013614,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 958737,
       "num": 958737,
       "word": "00后妻子嫌丈夫吃独食欲跳车轻生",
@@ -184,6 +192,14 @@
       "word": "伊朗",
       "onboard_time": 1669004193,
       "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 883852,
+      "num": 883852,
+      "word": "卡塔尔王子",
+      "onboard_time": 1669017937,
+      "rank": 4,
       "category": "体育"
     },
     {
@@ -265,6 +281,14 @@
       "onboard_time": 1668993752,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 708311,
+      "num": 352491,
+      "word": "王鹤棣吻戏摘眼镜",
+      "onboard_time": 1669017152,
+      "rank": 10,
+      "category": "影视"
     },
     {
       "raw_hot": 650132,
@@ -369,14 +393,6 @@
       "onboard_time": 1668953791,
       "rank": 7,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 521050,
-      "num": 340653,
-      "word": "奶茶店老板娘回应穿着性感被举报",
-      "onboard_time": 1669013614,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 519776,
@@ -595,11 +611,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 384532,
+      "num": 384532,
+      "word": "儿女考满分爸爸奖励60秒超市随便买",
+      "onboard_time": 1669014813,
+      "rank": 37,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 381910,
       "num": 381910,
       "word": "刘令姿古装vs旗袍",
       "onboard_time": 1669002688,
       "rank": 12,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 373725,
+      "num": 346647,
+      "word": "GAI王斯然真夫妻真糖真好嗑",
+      "onboard_time": 1669014631,
+      "rank": 19,
       "category": "作品衍生"
     },
     {
@@ -619,12 +651,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 369187,
-      "num": 332409,
-      "word": "GAI王斯然真夫妻真糖真好嗑",
-      "onboard_time": 1669014631,
-      "rank": 19,
-      "category": "作品衍生"
+      "raw_hot": 368118,
+      "num": 368118,
+      "word": "业主嫌回家如上朝要求换小区大门",
+      "onboard_time": 1669013495,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 358260,
@@ -632,6 +664,14 @@
       "word": "北京疫情防控",
       "onboard_time": 1668990869,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 356627,
+      "num": 356627,
+      "word": "符合哪些条件可停止全员核酸",
+      "onboard_time": 1669013972,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -699,6 +739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 333182,
+      "num": 333182,
+      "word": "财阀家的小儿子 财阀家的小孙子",
+      "onboard_time": 1669011872,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 332696,
       "num": 332696,
       "word": "原来有钱人也有不快乐的时候",
@@ -712,14 +760,6 @@
       "word": "尹峥给李薇带了绿豆糕",
       "onboard_time": 1668996630,
       "rank": 26,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 329507,
-      "num": 329507,
-      "word": "财阀家的小儿子 财阀家的小孙子",
-      "onboard_time": 1669011872,
-      "rank": 41,
       "category": "影视"
     },
     {
@@ -739,12 +779,20 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 302675,
-      "num": 302675,
-      "word": "业主嫌回家如上朝要求换小区大门",
-      "onboard_time": 1669013495,
-      "rank": 15,
+      "raw_hot": 300797,
+      "num": 300797,
+      "word": "女儿1个电话爸爸骑车20公里送鸡腿",
+      "onboard_time": 1669015295,
+      "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 299315,
+      "num": 299315,
+      "word": "手机APP为什么越做越大",
+      "onboard_time": 1669015955,
+      "rank": 44,
+      "category": "科技"
     },
     {
       "raw_hot": 294718,
@@ -787,6 +835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 284224,
+      "num": 284224,
+      "word": "日本岳云鹏募捐393万带孩子看世界杯",
+      "onboard_time": 1669016194,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 282518,
       "num": 282518,
       "word": "管泽元 世界杯",
@@ -803,6 +859,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 280672,
+      "num": 280672,
+      "word": "穆里尼奥称C罗将斩获金靴",
+      "onboard_time": 1669016313,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 274666,
       "num": 274666,
       "word": "奥地利2比0意大利",
@@ -816,6 +880,14 @@
       "word": "演员薛中锐去世",
       "onboard_time": 1668956497,
       "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 268911,
+      "num": 268911,
+      "word": "欧阳娜娜品牌定价",
+      "onboard_time": 1669018652,
+      "rank": 19,
       "category": "艺人"
     },
     {
@@ -843,14 +915,6 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 262466,
-      "num": 262466,
-      "word": "符合哪些条件可停止全员核酸",
-      "onboard_time": 1669013972,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 260796,
       "num": 243667,
       "word": "鹿晗将参与解说2场世界杯比赛",
@@ -864,6 +928,14 @@
       "word": "陈飞宇张婧仪吻戏拍摄花絮",
       "onboard_time": 1669014873,
       "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 259439,
+      "num": 259439,
+      "word": "张婧仪看到陈飞宇受伤时的眼神",
+      "onboard_time": 1669018535,
+      "rank": 20,
       "category": "影视"
     },
     {
@@ -923,6 +995,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 237775,
+      "num": 237775,
+      "word": "无疫情地区不得扩大核酸检测范围",
+      "onboard_time": 1669016913,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 235648,
       "num": 235648,
       "word": "重庆30元蔬菜包里有什么",
@@ -963,20 +1043,20 @@
       "category": "体育,科技"
     },
     {
-      "raw_hot": 221932,
-      "num": 221932,
-      "word": "儿女考满分爸爸奖励60秒超市随便买",
-      "onboard_time": 1669014813,
-      "rank": 37,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 219423,
       "num": 219423,
       "word": "开幕式 没有夏奇拉",
       "onboard_time": 1668962184,
       "rank": 23,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 217070,
+      "num": 217070,
+      "word": "朱韵关于李峋的朋友圈都是仅自己可见",
+      "onboard_time": 1669016074,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 216872,
@@ -1051,6 +1131,14 @@
       "category": "体育,科技"
     },
     {
+      "raw_hot": 195695,
+      "num": 195695,
+      "word": "你的背包背到现在还没烂",
+      "onboard_time": 1669016133,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 195435,
       "num": 195435,
       "word": "龚俊成毅罗一舟封面大片",
@@ -1073,6 +1161,14 @@
       "onboard_time": 1668963507,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 186898,
+      "num": 186898,
+      "word": "单臂舅舅冒雨跪地摘葡萄救患癌外甥",
+      "onboard_time": 1669014691,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186325,
@@ -1113,6 +1209,14 @@
       "onboard_time": 1668968116,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 178463,
+      "num": 178463,
+      "word": "京沪非私营单位平均工资超19万",
+      "onboard_time": 1669014753,
+      "rank": 43,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 176436,
@@ -1219,12 +1323,12 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 155828,
-      "num": 155828,
-      "word": "单臂舅舅冒雨跪地摘葡萄救患癌外甥",
-      "onboard_time": 1669014691,
-      "rank": 35,
-      "category": "社会新闻"
+      "raw_hot": 155315,
+      "num": 155315,
+      "word": "卿卿日常不是白露是霜降",
+      "onboard_time": 1669017394,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 154128,
@@ -1241,6 +1345,22 @@
       "onboard_time": 1669002151,
       "rank": 44,
       "category": "教育"
+    },
+    {
+      "raw_hot": 152117,
+      "num": 152117,
+      "word": "居家隔离期间赋码管理",
+      "onboard_time": 1669017336,
+      "rank": 33,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 150267,
+      "num": 150267,
+      "word": "卡塔尔在当一种很新的东道主",
+      "onboard_time": 1669018952,
+      "rank": 34,
+      "category": "体育,幽默"
     },
     {
       "raw_hot": 148399,
@@ -1339,6 +1459,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 133387,
+      "num": 133387,
+      "word": "新冠肺炎疫情居家健康监测指南",
+      "onboard_time": 1669017336,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 133302,
       "num": 133302,
       "word": "退钱哥揭幕战现场举国旗",
@@ -1369,6 +1497,14 @@
       "onboard_time": 1668995610,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 126491,
+      "num": 126491,
+      "word": "3岁以下婴幼儿跨省出行免查核酸",
+      "onboard_time": 1669018535,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 126261,
@@ -1459,12 +1595,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 114667,
-      "num": 114667,
-      "word": "京沪非私营单位平均工资超19万",
-      "onboard_time": 1669014753,
-      "rank": 43,
-      "category": "社会新闻,财经"
+      "raw_hot": 114584,
+      "num": 114584,
+      "word": "命韵峋环职场重逢",
+      "onboard_time": 1669018652,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 112182,
@@ -1499,6 +1635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 107843,
+      "num": 107843,
+      "word": "泸沽湖里的水藻和鱼群清晰可见",
+      "onboard_time": 1669017514,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 106950,
       "num": 106950,
       "word": "世界杯分组",
@@ -1531,20 +1675,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 103938,
-      "num": 103938,
-      "word": "女儿1个电话爸爸骑车20公里送鸡腿",
-      "onboard_time": 1669015295,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 103091,
       "num": 103091,
       "word": "谁能拒绝会飞的饺子皮呢",
       "onboard_time": 1669015594,
       "rank": 41,
       "category": "美食"
+    },
+    {
+      "raw_hot": 102370,
+      "num": 102370,
+      "word": "世界杯现场氛围有多燃",
+      "onboard_time": 1669018895,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 101810,
@@ -1603,14 +1747,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 94612,
-      "num": 82522,
-      "word": "朱韵关于李峋的朋友圈都是仅自己可见",
-      "onboard_time": 1669016074,
-      "rank": 47,
-      "category": "影视"
-    },
-    {
       "raw_hot": 93974,
       "num": 93974,
       "word": "水花兄弟合砍74分",
@@ -1619,12 +1755,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 91522,
-      "num": 91522,
-      "word": "手机APP为什么越做越大",
-      "onboard_time": 1669015955,
-      "rank": 44,
-      "category": "科技"
+      "raw_hot": 93639,
+      "num": 93639,
+      "word": "许凯在线修复二八心碎剧粉心情",
+      "onboard_time": 1669016735,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 90689,
