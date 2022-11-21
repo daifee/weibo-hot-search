@@ -1,6 +1,6 @@
 {
   "startTime": 1668961718135,
-  "endTime": 1669065645260,
+  "endTime": 1669066599613,
   "band_list": [
     {
       "raw_hot": 4068058,
@@ -2563,20 +2563,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125469,
+      "num": 125469,
+      "word": "特朗普推特24小时涨粉近亿",
+      "onboard_time": 1669060573,
+      "rank": 17,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 125052,
       "num": 125052,
       "word": "FIFA世界杯",
       "onboard_time": 1668971413,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 124560,
-      "num": 124560,
-      "word": "特朗普推特24小时涨粉近亿",
-      "onboard_time": 1669060573,
-      "rank": 17,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 124451,
@@ -3019,19 +3019,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 72025,
+      "num": 39142,
+      "word": "贝尔点球破门",
+      "onboard_time": 1669065372,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 68356,
       "num": 72704,
       "word": "瓦伦西亚梅开二度",
       "onboard_time": 1668963623,
       "rank": 48,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 66930,
-      "num": 19016,
-      "word": "贝尔点球破门",
-      "onboard_time": 1669065372,
-      "rank": 30,
       "category": "体育"
     },
     {
@@ -3084,7 +3084,7 @@
     },
     {
       "raw_hot": 48667,
-      "num": 38434,
+      "num": 38483,
       "word": "城管局回应郑州3人当街打商贩",
       "onboard_time": 1669060272,
       "rank": 10,
@@ -3099,12 +3099,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 46025,
+      "num": 20840,
+      "word": "贝尔世界杯首秀",
+      "onboard_time": 1669065432,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 42799,
       "num": 42799,
       "word": "杨洋晒黑色墨镜自拍",
       "onboard_time": 1668978012,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 40996,
+      "num": 37991,
+      "word": "37岁C罗大腿恐怖肌肉",
+      "onboard_time": 1669064173,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 40730,
@@ -3115,14 +3131,6 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 38823,
-      "num": 19015,
-      "word": "贝尔世界杯首秀",
-      "onboard_time": 1669065432,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 38292,
       "num": 38292,
       "word": "世界上的另一个三少主",
@@ -3131,8 +3139,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 30160,
-      "num": 19015,
+      "raw_hot": 33772,
+      "num": 20822,
       "word": "卡塔尔世界杯能赚多少钱",
       "onboard_time": 1669061352,
       "rank": 47,
@@ -3145,14 +3153,6 @@
       "onboard_time": 1669028438,
       "rank": 14,
       "category": "美食"
-    },
-    {
-      "raw_hot": 22017,
-      "num": 22017,
-      "word": "37岁C罗大腿恐怖肌肉",
-      "onboard_time": 1669064173,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 21288,
@@ -3171,8 +3171,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 17926,
-      "num": 17926,
+      "raw_hot": 20020,
+      "num": 20020,
       "word": "英格兰球迷有多疯狂",
       "onboard_time": 1669064653,
       "rank": 39,

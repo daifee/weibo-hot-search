@@ -1,6 +1,6 @@
 {
   "startTime": 1669048272938,
-  "endTime": 1669065645260,
+  "endTime": 1669066599613,
   "band_list": [
     {
       "raw_hot": 1172928,
@@ -379,8 +379,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 124560,
-      "num": 124560,
+      "raw_hot": 125469,
+      "num": 125469,
       "word": "特朗普推特24小时涨粉近亿",
       "onboard_time": 1669060573,
       "rank": 17,
@@ -483,8 +483,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 66930,
-      "num": 19016,
+      "raw_hot": 72025,
+      "num": 39142,
       "word": "贝尔点球破门",
       "onboard_time": 1669065372,
       "rank": 30,
@@ -500,7 +500,7 @@
     },
     {
       "raw_hot": 48667,
-      "num": 38434,
+      "num": 38483,
       "word": "城管局回应郑州3人当街打商贩",
       "onboard_time": 1669060272,
       "rank": 10,
@@ -515,11 +515,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 38823,
-      "num": 19015,
+      "raw_hot": 46025,
+      "num": 20840,
       "word": "贝尔世界杯首秀",
       "onboard_time": 1669065432,
       "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 40996,
+      "num": 37991,
+      "word": "37岁C罗大腿恐怖肌肉",
+      "onboard_time": 1669064173,
+      "rank": 24,
       "category": "体育"
     },
     {
@@ -531,8 +539,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 30160,
-      "num": 19015,
+      "raw_hot": 33772,
+      "num": 20822,
       "word": "卡塔尔世界杯能赚多少钱",
       "onboard_time": 1669061352,
       "rank": 47,
@@ -555,14 +563,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 22017,
-      "num": 22017,
-      "word": "37岁C罗大腿恐怖肌肉",
-      "onboard_time": 1669064173,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 21288,
       "num": 21288,
       "word": "范戴克解围",
@@ -579,8 +579,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 17926,
-      "num": 17926,
+      "raw_hot": 20020,
+      "num": 20020,
       "word": "英格兰球迷有多疯狂",
       "onboard_time": 1669064653,
       "rank": 39,

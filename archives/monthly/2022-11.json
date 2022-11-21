@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1669065645260,
+  "endTime": 1669066599613,
   "band_list": [
     {
       "raw_hot": 10543272,
@@ -36363,6 +36363,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 125469,
+      "num": 125469,
+      "word": "特朗普推特24小时涨粉近亿",
+      "onboard_time": 1669060573,
+      "rank": 17,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 125334,
       "num": 125334,
       "word": "宝可梦旅途决赛篇",
@@ -36449,14 +36457,6 @@
       "onboard_time": 1667288967,
       "rank": 35,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 124560,
-      "num": 124560,
-      "word": "特朗普推特24小时涨粉近亿",
-      "onboard_time": 1669060573,
-      "rank": 17,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 124541,
@@ -43187,6 +43187,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 72025,
+      "num": 39142,
+      "word": "贝尔点球破门",
+      "onboard_time": 1669065372,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 71952,
       "num": 71952,
       "word": "这就是终极社牛吧",
@@ -43513,14 +43521,6 @@
       "onboard_time": 1668702443,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 66930,
-      "num": 19016,
-      "word": "贝尔点球破门",
-      "onboard_time": 1669065372,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 66872,
@@ -44356,7 +44356,7 @@
     },
     {
       "raw_hot": 48667,
-      "num": 38434,
+      "num": 38483,
       "word": "城管局回应郑州3人当街打商贩",
       "onboard_time": 1669060272,
       "rank": 10,
@@ -44448,6 +44448,14 @@
       "word": "韦筱圆卫冕世锦赛高低杠金牌",
       "onboard_time": 1667690958,
       "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 46025,
+      "num": 20840,
+      "word": "贝尔世界杯首秀",
+      "onboard_time": 1669065432,
+      "rank": 31,
       "category": "体育"
     },
     {
@@ -44563,6 +44571,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 40996,
+      "num": 37991,
+      "word": "37岁C罗大腿恐怖肌肉",
+      "onboard_time": 1669064173,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 40730,
       "num": 40730,
       "word": "熬夜看球后建议直接补觉",
@@ -44649,14 +44665,6 @@
       "onboard_time": 1667949921,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 38823,
-      "num": 19015,
-      "word": "贝尔世界杯首秀",
-      "onboard_time": 1669065432,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 38292,
@@ -44779,6 +44787,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 33772,
+      "num": 20822,
+      "word": "卡塔尔世界杯能赚多少钱",
+      "onboard_time": 1669061352,
+      "rank": 47,
+      "category": "财经,体育"
+    },
+    {
       "raw_hot": 33527,
       "num": 45967,
       "word": "养孩子对狗狗不好",
@@ -44881,14 +44897,6 @@
       "onboard_time": 1668189977,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 30160,
-      "num": 19015,
-      "word": "卡塔尔世界杯能赚多少钱",
-      "onboard_time": 1669061352,
-      "rank": 47,
-      "category": "财经,体育"
     },
     {
       "raw_hot": 30130,
@@ -45115,14 +45123,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 22017,
-      "num": 22017,
-      "word": "37岁C罗大腿恐怖肌肉",
-      "onboard_time": 1669064173,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 21951,
       "num": 21951,
       "word": "这是天庭运动会吗",
@@ -45168,6 +45168,14 @@
       "word": "克拉森补射破门",
       "onboard_time": 1669057093,
       "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 20020,
+      "num": 20020,
+      "word": "英格兰球迷有多疯狂",
+      "onboard_time": 1669064653,
+      "rank": 39,
       "category": "体育"
     },
     {
@@ -45233,14 +45241,6 @@
       "onboard_time": 1668715872,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 17926,
-      "num": 17926,
-      "word": "英格兰球迷有多疯狂",
-      "onboard_time": 1669064653,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 16975,
