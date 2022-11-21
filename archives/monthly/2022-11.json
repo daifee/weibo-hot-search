@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1669000813624,
+  "endTime": 1669001527816,
   "band_list": [
     {
       "raw_hot": 10543272,
@@ -880,6 +880,14 @@
       "word": "世界杯开幕式提前一小时",
       "onboard_time": 1668937588,
       "rank": 5,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1990984,
+      "num": 1990984,
+      "word": "退钱哥",
+      "onboard_time": 1668999090,
+      "rank": 1,
       "category": "体育"
     },
     {
@@ -2617,14 +2625,6 @@
       "onboard_time": 1668960030,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1214772,
-      "num": 1214772,
-      "word": "退钱哥",
-      "onboard_time": 1668999090,
-      "rank": 1,
-      "category": "体育"
     },
     {
       "raw_hot": 1214387,
@@ -4827,6 +4827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 850411,
+      "num": 850411,
+      "word": "CPA",
+      "onboard_time": 1668748828,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
       "raw_hot": 849606,
       "num": 784388,
       "word": "父母让25岁女儿第4次当姐姐",
@@ -5451,6 +5459,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 780190,
+      "num": 780190,
+      "word": "原来中国队分到了施工组",
+      "onboard_time": 1668998608,
+      "rank": 8,
+      "category": "体育,幽默"
+    },
+    {
       "raw_hot": 779453,
       "num": 779453,
       "word": "母亲半夜发现1岁萌娃偷吃东西",
@@ -5649,14 +5665,6 @@
       "onboard_time": 1668217770,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 760074,
-      "num": 760074,
-      "word": "CPA",
-      "onboard_time": 1668748828,
-      "rank": 24,
-      "category": "教育"
     },
     {
       "raw_hot": 759979,
@@ -7569,14 +7577,6 @@
       "onboard_time": 1668611789,
       "rank": 44,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 622980,
-      "num": 622980,
-      "word": "原来中国队分到了施工组",
-      "onboard_time": 1668998608,
-      "rank": 8,
-      "category": "体育,幽默"
     },
     {
       "raw_hot": 622822,
@@ -12171,6 +12171,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 442698,
+      "num": 442698,
+      "word": "汤普森10记三分砍41分",
+      "onboard_time": 1668999330,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 442676,
       "num": 382392,
       "word": "德国总理访华",
@@ -14081,14 +14089,6 @@
       "onboard_time": 1668384989,
       "rank": 16,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 395314,
-      "num": 395314,
-      "word": "汤普森10记三分砍41分",
-      "onboard_time": 1668999330,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 395221,
@@ -17129,6 +17129,14 @@
       "onboard_time": 1668650488,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 328607,
+      "num": 328607,
+      "word": "王艺瑾MV在欧阳娜娜展览拍的",
+      "onboard_time": 1669000587,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 327998,
@@ -20731,14 +20739,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 267608,
-      "num": 267608,
-      "word": "王艺瑾MV在欧阳娜娜展览拍的",
-      "onboard_time": 1669000587,
-      "rank": 26,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 267283,
       "num": 267283,
       "word": "朱紫",
@@ -20931,6 +20931,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 264253,
+      "num": 1033514,
+      "word": "世界杯中国小护旗手",
+      "onboard_time": 1668998850,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 264193,
       "num": 264193,
       "word": "男孩反复录作业崩溃大哭又抹泪坚持",
@@ -21072,14 +21080,6 @@
       "word": "库里随手就是个半场三分",
       "onboard_time": 1668231751,
       "rank": 23,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 262020,
-      "num": 1033514,
-      "word": "世界杯中国小护旗手",
-      "onboard_time": 1668998850,
-      "rank": 2,
       "category": "体育"
     },
     {
@@ -22369,6 +22369,14 @@
       "onboard_time": 1667638707,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 239973,
+      "num": 239973,
+      "word": "小伙自费百元拍到高清中国空间站",
+      "onboard_time": 1668998189,
+      "rank": 31,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 239892,
@@ -23969,14 +23977,6 @@
       "onboard_time": 1667542345,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 221265,
-      "num": 221265,
-      "word": "小伙自费百元拍到高清中国空间站",
-      "onboard_time": 1668998189,
-      "rank": 31,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 221159,
@@ -27395,6 +27395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 185780,
+      "num": 185780,
+      "word": "财阀家的小儿子宋仲基演技",
+      "onboard_time": 1668999150,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 185754,
       "num": 185754,
       "word": "C罗球场训练大秀肌肉",
@@ -28504,14 +28512,6 @@
       "word": "卿卿日常海外评价",
       "onboard_time": 1668410729,
       "rank": 29,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 174989,
-      "num": 174989,
-      "word": "财阀家的小儿子宋仲基演技",
-      "onboard_time": 1668999150,
-      "rank": 36,
       "category": "影视"
     },
     {
@@ -38051,6 +38051,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 98990,
+      "num": 98990,
+      "word": "看世界杯如何科学熬夜",
+      "onboard_time": 1669001425,
+      "rank": 47,
+      "category": "体育,情感"
+    },
+    {
       "raw_hot": 98879,
       "num": 98879,
       "word": "北纬38度线延时拍摄有多绝",
@@ -38761,6 +38769,14 @@
       "onboard_time": 1667655627,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 93974,
+      "num": 93974,
+      "word": "水花兄弟合砍74分",
+      "onboard_time": 1669001490,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 93946,
