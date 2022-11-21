@@ -1,0 +1,410 @@
+{
+  "runTime": 1669026236751,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1827009,
+        "num": 1827009,
+        "word": "卡塔尔王子",
+        "onboard_time": 1669017937,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1291744,
+        "num": 1291744,
+        "word": "网友留差评8年后收到店家道歉",
+        "onboard_time": 1669022972,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143621,
+        "num": 1243026,
+        "word": "中国水下考古又一大发现",
+        "onboard_time": 1669002092,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1229182,
+        "num": 1229182,
+        "word": "退钱哥背鹿晗logo背包看世界杯",
+        "onboard_time": 1669023753,
+        "rank": 3,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 772752,
+        "num": 772752,
+        "word": "退钱哥",
+        "onboard_time": 1668999090,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 713889,
+        "num": 713889,
+        "word": "欧阳娜娜品牌定价",
+        "onboard_time": 1669018652,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 583957,
+        "num": 583957,
+        "word": "奶茶店老板娘回应穿着性感被举报",
+        "onboard_time": 1669013614,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 578602,
+        "num": 578602,
+        "word": "西班牙队7名球员吹空调感冒",
+        "onboard_time": 1669022315,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 513644,
+        "num": 513644,
+        "word": "今晚调油价",
+        "onboard_time": 1669024117,
+        "rank": 8,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 506184,
+        "num": 506184,
+        "word": "世界杯最贵球队登场",
+        "onboard_time": 1669020514,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 436197,
+        "num": 436197,
+        "word": "卡塔尔在当一种很新的东道主",
+        "onboard_time": 1669018952,
+        "rank": 10,
+        "category": "体育,幽默"
+      },
+      {
+        "raw_hot": 406742,
+        "num": 406742,
+        "word": "王鹤棣吻戏摘眼镜",
+        "onboard_time": 1669017152,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 384633,
+        "num": 384633,
+        "word": "北京增社会面42例",
+        "onboard_time": 1669023574,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 355470,
+        "num": 355470,
+        "word": "李峋朱韵被误以为有办公室恋情",
+        "onboard_time": 1669019495,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 334963,
+        "num": 334963,
+        "word": "北京倡导疫情严重区域实行弹性上班",
+        "onboard_time": 1669024655,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330666,
+        "num": 330666,
+        "word": "行尸走肉全剧大结局",
+        "onboard_time": 1669020273,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 324649,
+        "num": 324649,
+        "word": "钮祜禄李峋",
+        "onboard_time": 1669022376,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 304278,
+        "num": 304278,
+        "word": "00后妻子嫌丈夫吃独食欲跳车轻生",
+        "onboard_time": 1669011093,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295835,
+        "num": 295835,
+        "word": "女子婚礼前夜被告知婚庆公司跑路",
+        "onboard_time": 1669024539,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291007,
+        "num": 291007,
+        "word": "在线收留卡塔尔心碎王子",
+        "onboard_time": 1669020636,
+        "rank": 19,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 299915,
+        "num": 290415,
+        "word": "李峋对朱韵最口是心非的一次",
+        "onboard_time": 1669025616,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 288034,
+        "num": 288034,
+        "word": "柯南史上最be剧情",
+        "onboard_time": 1669020813,
+        "rank": 21,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 261568,
+        "num": 261568,
+        "word": "这是一个没有穷人的国家",
+        "onboard_time": 1669025138,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 240171,
+        "num": 240171,
+        "word": "金晨合作郑晓龙新剧今日开机",
+        "onboard_time": 1669021714,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 235006,
+        "num": 235006,
+        "word": "儿女考满分爸爸奖励60秒超市随便买",
+        "onboard_time": 1669014813,
+        "rank": 24,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 224753,
+        "num": 224753,
+        "word": "这猫是吃了云南菌子吧",
+        "onboard_time": 1669022736,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 189126,
+        "num": 189126,
+        "word": "卡塔尔是懂分组的",
+        "onboard_time": 1669009472,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182013,
+        "num": 182013,
+        "word": "男子街头买4箱冷冻海鲜全是空壳注水",
+        "onboard_time": 1669024475,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180625,
+        "num": 180625,
+        "word": "中药和美式的区别",
+        "onboard_time": 1669011392,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 168365,
+        "num": 168365,
+        "word": "体测完像被吸干了阳气",
+        "onboard_time": 1669019616,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 205282,
+        "num": 164418,
+        "word": "罗一舟说九个人可以成团非常难得",
+        "onboard_time": 1669020095,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 155120,
+        "num": 155120,
+        "word": "无疫情地区不得扩大核酸检测范围",
+        "onboard_time": 1669016913,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154472,
+        "num": 154472,
+        "word": "7岁女童偷吃燃脂巧克力进ICU",
+        "onboard_time": 1669008694,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153684,
+        "num": 153684,
+        "word": "陈飞宇职场峋即将上线",
+        "onboard_time": 1669025073,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 149047,
+        "num": 149047,
+        "word": "240斤男子为结婚5个月减90斤",
+        "onboard_time": 1669012772,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148549,
+        "num": 148549,
+        "word": "在钞能力面前和解有多快",
+        "onboard_time": 1669022617,
+        "rank": 35,
+        "category": "体育,幽默"
+      },
+      {
+        "raw_hot": 145166,
+        "num": 145166,
+        "word": "手机APP为什么越做越大",
+        "onboard_time": 1669015955,
+        "rank": 36,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 143368,
+        "num": 143368,
+        "word": "犯错后被赶出家门的猫咪",
+        "onboard_time": 1669025316,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 140230,
+        "num": 140230,
+        "word": "女儿1个电话爸爸骑车20公里送鸡腿",
+        "onboard_time": 1669015295,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136803,
+        "num": 136803,
+        "word": "英格兰名宿欧文预测法国夺冠",
+        "onboard_time": 1669025671,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135310,
+        "num": 135310,
+        "word": "男子花8小时鼻烟壶内画世界杯吉祥物",
+        "onboard_time": 1669025914,
+        "rank": 40,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 131740,
+        "num": 131740,
+        "word": "高见鸿故意激怒李峋",
+        "onboard_time": 1669021654,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 127410,
+        "num": 127410,
+        "word": "日本岳云鹏募捐393万带孩子看世界杯",
+        "onboard_time": 1669016194,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126770,
+        "num": 126770,
+        "word": "加满一箱油将少花7元",
+        "onboard_time": 1669026098,
+        "rank": 43,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 118516,
+        "num": 118516,
+        "word": "新冠肺炎疫情风险区划定及管控方案",
+        "onboard_time": 1669012651,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113480,
+        "num": 113480,
+        "word": "业主嫌回家如上朝要求换小区大门",
+        "onboard_time": 1669013495,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108541,
+        "num": 108541,
+        "word": "北京疫情发布会",
+        "onboard_time": 1669025138,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140131,
+        "num": 105803,
+        "word": "GEN与Peanut续约",
+        "onboard_time": 1669026217,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 102776,
+        "num": 102776,
+        "word": "北中医1名学生核酸阳性",
+        "onboard_time": 1669010129,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102072,
+        "num": 102072,
+        "word": "世界杯和奥运会哪个更赚钱",
+        "onboard_time": 1669025552,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国的神舟之路将留下更多精彩#"
+    }
+  }
+}

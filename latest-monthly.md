@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/01 00:36:21 ~ 2022/11/21 17:37:31
+本榜单时间：2022/11/01 00:36:21 ~ 2022/11/21 18:23:56
 </p>
 </blockquote>
 <p>
@@ -1809,6 +1809,12 @@ TheShy确诊（热度：1303284）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E7%95%99%E5%B7%AE%E8%AF%848%E5%B9%B4%E5%90%8E%E6%94%B6%E5%88%B0%E5%BA%97%E5%AE%B6%E9%81%93%E6%AD%89%23" target="weibo">
+网友留差评8年后收到店家道歉（热度：1291744）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E7%A6%BB%E4%B8%96%E6%97%A0%E7%BB%A7%E6%89%BF%E4%BA%BA%E9%81%97%E4%BA%A7%E5%BD%92%E5%9B%BD%E5%AE%B6%23" target="weibo">
 老人离世无继承人遗产归国家（热度：1287546）
 </a>
@@ -1967,6 +1973,12 @@ gemini（热度：1285265）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%AC%A0%20%E5%B0%B4%E5%B0%AC%23" target="weibo">
 杨笠 尴尬（热度：1231771）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%80%80%E9%92%B1%E5%93%A5%E8%83%8C%E9%B9%BF%E6%99%97logo%E8%83%8C%E5%8C%85%E7%9C%8B%E4%B8%96%E7%95%8C%E6%9D%AF%23" target="weibo">
+退钱哥背鹿晗logo背包看世界杯（热度：1229182）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ iPhone14Pro息屏可不显示壁纸（热度：625106）
 <li>
 <a href="https://s.weibo.com/weibo?q=%235%E7%A7%92%E4%B8%80%E4%B8%AA%E6%A2%97%23" target="weibo">
 5秒一个梗（热度：607764）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B9%B0%E5%B0%8F%E5%90%83%E8%A2%AB%E5%A5%97%E8%B7%AF%E4%B8%80%E5%B0%8F%E6%9D%A1%E5%8F%98%E5%8D%8A%E8%A2%8B%23" target="weibo">
-女子买小吃被套路一小条变半袋（热度：606920）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%8B%97%E5%A4%AD%E6%8A%98%E7%8B%97%E5%A6%88%E5%A6%88%E6%AD%BB%E6%AD%BB%E5%90%AB%E4%BD%8F%E4%B8%8D%E8%AE%A9%E5%9F%8B%23" target="weibo">
-小狗夭折狗妈妈死死含住不让埋（热度：606076）
 </a>
 </li>
 

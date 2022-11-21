@@ -1,6 +1,6 @@
 {
   "startTime": 1668961718135,
-  "endTime": 1669023451598,
+  "endTime": 1669026236751,
   "band_list": [
     {
       "raw_hot": 4068058,
@@ -83,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1291744,
+      "num": 1291744,
+      "word": "网友留差评8年后收到店家道歉",
+      "onboard_time": 1669022972,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1264594,
       "num": 1264594,
       "word": "美国高估了自己也低估了中国",
@@ -97,6 +105,14 @@
       "onboard_time": 1668989973,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1229182,
+      "num": 1229182,
+      "word": "退钱哥背鹿晗logo背包看世界杯",
+      "onboard_time": 1669023753,
+      "rank": 3,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 1216281,
@@ -300,7 +316,7 @@
     },
     {
       "raw_hot": 708311,
-      "num": 388152,
+      "num": 406742,
       "word": "王鹤棣吻戏摘眼镜",
       "onboard_time": 1669017152,
       "rank": 10,
@@ -352,6 +368,14 @@
       "word": "开幕式日本球迷",
       "onboard_time": 1668959134,
       "rank": 8,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 578602,
+      "num": 578602,
+      "word": "西班牙队7名球员吹空调感冒",
+      "onboard_time": 1669022315,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -419,6 +443,14 @@
       "category": "幽默,体育"
     },
     {
+      "raw_hot": 513644,
+      "num": 513644,
+      "word": "今晚调油价",
+      "onboard_time": 1669024117,
+      "rank": 8,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 508376,
       "num": 508376,
       "word": "白鹿以爱为营最新上班路透",
@@ -432,6 +464,14 @@
       "word": "世界杯东道主揭幕战92年首败",
       "onboard_time": 1668968116,
       "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 506184,
+      "num": 506184,
+      "word": "世界杯最贵球队登场",
+      "onboard_time": 1669020514,
+      "rank": 23,
       "category": "体育"
     },
     {
@@ -588,7 +628,7 @@
     },
     {
       "raw_hot": 414154,
-      "num": 1092223,
+      "num": 1243026,
       "word": "中国水下考古又一大发现",
       "onboard_time": 1669002092,
       "rank": 2,
@@ -657,6 +697,14 @@
       "onboard_time": 1669007498,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 384633,
+      "num": 384633,
+      "word": "北京增社会面42例",
+      "onboard_time": 1669023574,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 381910,
@@ -795,6 +843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 334963,
+      "num": 334963,
+      "word": "北京倡导疫情严重区域实行弹性上班",
+      "onboard_time": 1669024655,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 334768,
       "num": 220099,
       "word": "菅田将晖变样了",
@@ -809,14 +865,6 @@
       "onboard_time": 1668961468,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 333488,
-      "num": 333488,
-      "word": "世界杯最贵球队登场",
-      "onboard_time": 1669020514,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 333182,
@@ -851,6 +899,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 324649,
+      "num": 324649,
+      "word": "钮祜禄李峋",
+      "onboard_time": 1669022376,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 324400,
       "num": 324400,
       "word": "在线收留卡塔尔心碎王子",
@@ -867,8 +923,16 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 299915,
+      "num": 290415,
+      "word": "李峋对朱韵最口是心非的一次",
+      "onboard_time": 1669025616,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 299708,
-      "num": 280371,
+      "num": 288034,
       "word": "柯南史上最be剧情",
       "onboard_time": 1669020813,
       "rank": 17,
@@ -881,6 +945,14 @@
       "onboard_time": 1669015955,
       "rank": 44,
       "category": "科技"
+    },
+    {
+      "raw_hot": 295835,
+      "num": 295835,
+      "word": "女子婚礼前夜被告知婚庆公司跑路",
+      "onboard_time": 1669024539,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 294718,
@@ -993,6 +1065,14 @@
       "onboard_time": 1669019616,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 261568,
+      "num": 261568,
+      "word": "这是一个没有穷人的国家",
+      "onboard_time": 1669025138,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 260796,
@@ -1123,19 +1203,19 @@
       "category": "体育,科技"
     },
     {
+      "raw_hot": 224753,
+      "num": 224753,
+      "word": "这猫是吃了云南菌子吧",
+      "onboard_time": 1669022736,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 221782,
       "num": 221782,
       "word": "高见鸿故意激怒李峋",
       "onboard_time": 1669021654,
       "rank": 30,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 220992,
-      "num": 218585,
-      "word": "钮祜禄李峋",
-      "onboard_time": 1669022376,
-      "rank": 41,
       "category": "影视"
     },
     {
@@ -1291,6 +1371,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 182013,
+      "num": 182013,
+      "word": "男子街头买4箱冷冻海鲜全是空壳注水",
+      "onboard_time": 1669024475,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 179507,
       "num": 179507,
       "word": "京沪非私营单位平均工资超19万",
@@ -1427,14 +1515,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 156190,
-      "num": 156190,
-      "word": "西班牙队7名球员吹空调感冒",
-      "onboard_time": 1669022315,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 156154,
       "num": 156154,
       "word": "P型血男子驱车200公里救4岁男童",
@@ -1451,12 +1531,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 153684,
+      "num": 153684,
+      "word": "陈飞宇职场峋即将上线",
+      "onboard_time": 1669025073,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 152708,
       "num": 152708,
       "word": "注会",
       "onboard_time": 1669002151,
       "rank": 44,
       "category": "教育"
+    },
+    {
+      "raw_hot": 148549,
+      "num": 148549,
+      "word": "在钞能力面前和解有多快",
+      "onboard_time": 1669022617,
+      "rank": 38,
+      "category": "体育,幽默"
     },
     {
       "raw_hot": 148399,
@@ -1515,20 +1611,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 144180,
-      "num": 144180,
-      "word": "网友留差评8年后收到店家道歉",
-      "onboard_time": 1669022972,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 143676,
       "num": 143676,
       "word": "新冠肺炎疫情居家健康监测指南",
       "onboard_time": 1669017336,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 143368,
+      "num": 143368,
+      "word": "犯错后被赶出家门的猫咪",
+      "onboard_time": 1669025316,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 142659,
@@ -1539,12 +1635,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 140591,
-      "num": 140591,
-      "word": "这猫是吃了云南菌子吧",
-      "onboard_time": 1669022736,
-      "rank": 36,
-      "category": "情感"
+      "raw_hot": 140131,
+      "num": 105803,
+      "word": "GEN与Peanut续约",
+      "onboard_time": 1669026217,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 139937,
@@ -1571,6 +1667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 136803,
+      "num": 136803,
+      "word": "英格兰名宿欧文预测法国夺冠",
+      "onboard_time": 1669025671,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 136686,
       "num": 136686,
       "word": "以爱为营",
@@ -1579,12 +1683,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 136491,
-      "num": 136491,
-      "word": "在钞能力面前和解有多快",
-      "onboard_time": 1669022617,
-      "rank": 38,
-      "category": "体育,幽默"
+      "raw_hot": 135310,
+      "num": 135310,
+      "word": "男子花8小时鼻烟壶内画世界杯吉祥物",
+      "onboard_time": 1669025914,
+      "rank": 40,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 133302,
@@ -1617,6 +1721,14 @@
       "onboard_time": 1668992252,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 126770,
+      "num": 126770,
+      "word": "加满一箱油将少花7元",
+      "onboard_time": 1669026098,
+      "rank": 43,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 126505,
@@ -1795,6 +1907,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 108541,
+      "num": 108541,
+      "word": "北京疫情发布会",
+      "onboard_time": 1669025138,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 107984,
       "num": 107984,
       "word": "许凯爱的二八定律大学球衣路透",
@@ -1848,6 +1968,14 @@
       "word": "世界杯现场氛围有多燃",
       "onboard_time": 1669018895,
       "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 102072,
+      "num": 102072,
+      "word": "世界杯和奥运会哪个更赚钱",
+      "onboard_time": 1669025552,
+      "rank": 49,
       "category": "体育"
     },
     {
