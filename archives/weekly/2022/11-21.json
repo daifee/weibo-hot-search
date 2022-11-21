@@ -1,6 +1,6 @@
 {
   "startTime": 1668961718135,
-  "endTime": 1669022502807,
+  "endTime": 1669023451598,
   "band_list": [
     {
       "raw_hot": 4068058,
@@ -107,6 +107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1139967,
+      "num": 1077791,
+      "word": "欧阳娜娜品牌定价",
+      "onboard_time": 1669018652,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1118375,
       "num": 1118375,
       "word": "王冰冰自我介绍",
@@ -129,14 +137,6 @@
       "onboard_time": 1668998608,
       "rank": 8,
       "category": "体育,幽默"
-    },
-    {
-      "raw_hot": 1077791,
-      "num": 1077791,
-      "word": "欧阳娜娜品牌定价",
-      "onboard_time": 1669018652,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 1050384,
@@ -515,6 +515,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 448032,
+      "num": 448032,
+      "word": "李峋朱韵被误以为有办公室恋情",
+      "onboard_time": 1669019495,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 444713,
       "num": 444713,
       "word": "罗一舟说九个人可以成团非常难得",
@@ -576,14 +584,6 @@
       "word": "命韵峋环终于回来了",
       "onboard_time": 1668993991,
       "rank": 16,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 418320,
-      "num": 418320,
-      "word": "李峋朱韵被误以为有办公室恋情",
-      "onboard_time": 1669019495,
-      "rank": 23,
       "category": "影视"
     },
     {
@@ -667,8 +667,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 378019,
-      "num": 378019,
+      "raw_hot": 381093,
+      "num": 381093,
       "word": "金晨合作郑晓龙新剧今日开机",
       "onboard_time": 1669021714,
       "rank": 11,
@@ -779,6 +779,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 337100,
+      "num": 337100,
+      "word": "行尸走肉全剧大结局",
+      "onboard_time": 1669020273,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 335489,
       "num": 335489,
       "word": "日本岳云鹏募捐393万带孩子看世界杯",
@@ -801,6 +809,14 @@
       "onboard_time": 1668961468,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 333488,
+      "num": 333488,
+      "word": "世界杯最贵球队登场",
+      "onboard_time": 1669020514,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 333182,
@@ -835,8 +851,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 322468,
-      "num": 322468,
+      "raw_hot": 324400,
+      "num": 324400,
       "word": "在线收留卡塔尔心碎王子",
       "onboard_time": 1669020636,
       "rank": 14,
@@ -849,6 +865,14 @@
       "onboard_time": 1669008576,
       "rank": 40,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 299708,
+      "num": 280371,
+      "word": "柯南史上最be剧情",
+      "onboard_time": 1669020813,
+      "rank": 17,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 299315,
@@ -923,14 +947,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 280371,
-      "num": 280371,
-      "word": "柯南史上最be剧情",
-      "onboard_time": 1669020813,
-      "rank": 17,
-      "category": "影视,动漫"
-    },
-    {
       "raw_hot": 274666,
       "num": 274666,
       "word": "奥地利2比0意大利",
@@ -945,14 +961,6 @@
       "onboard_time": 1668956497,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 268888,
-      "num": 257264,
-      "word": "行尸走肉全剧大结局",
-      "onboard_time": 1669020273,
-      "rank": 20,
-      "category": "影视"
     },
     {
       "raw_hot": 267605,
@@ -977,6 +985,14 @@
       "onboard_time": 1668987085,
       "rank": 46,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 262043,
+      "num": 262043,
+      "word": "体测完像被吸干了阳气",
+      "onboard_time": 1669019616,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 260796,
@@ -1083,22 +1099,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 232809,
-      "num": 232809,
-      "word": "体测完像被吸干了阳气",
-      "onboard_time": 1669019616,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 232146,
-      "num": 232146,
-      "word": "世界杯最贵球队登场",
-      "onboard_time": 1669020514,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 228293,
       "num": 228293,
       "word": "柯南足球水平",
@@ -1123,11 +1123,19 @@
       "category": "体育,科技"
     },
     {
-      "raw_hot": 221198,
-      "num": 193401,
+      "raw_hot": 221782,
+      "num": 221782,
       "word": "高见鸿故意激怒李峋",
       "onboard_time": 1669021654,
       "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 220992,
+      "num": 218585,
+      "word": "钮祜禄李峋",
+      "onboard_time": 1669022376,
+      "rank": 41,
       "category": "影视"
     },
     {
@@ -1419,6 +1427,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 156190,
+      "num": 156190,
+      "word": "西班牙队7名球员吹空调感冒",
+      "onboard_time": 1669022315,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 156154,
       "num": 156154,
       "word": "P型血男子驱车200公里救4岁男童",
@@ -1499,6 +1515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 144180,
+      "num": 144180,
+      "word": "网友留差评8年后收到店家道歉",
+      "onboard_time": 1669022972,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 143676,
       "num": 143676,
       "word": "新冠肺炎疫情居家健康监测指南",
@@ -1515,20 +1539,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 140591,
+      "num": 140591,
+      "word": "这猫是吃了云南菌子吧",
+      "onboard_time": 1669022736,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 139937,
       "num": 139937,
       "word": "厄瓜多尔将进球献给已故队友",
       "onboard_time": 1668985460,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 139445,
-      "num": 139445,
-      "word": "钮祜禄李峋",
-      "onboard_time": 1669022376,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 138743,
@@ -1555,12 +1579,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 136491,
+      "num": 136491,
+      "word": "在钞能力面前和解有多快",
+      "onboard_time": 1669022617,
+      "rank": 38,
+      "category": "体育,幽默"
+    },
+    {
       "raw_hot": 133302,
       "num": 133302,
       "word": "退钱哥揭幕战现场举国旗",
       "onboard_time": 1669007736,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 131484,
+      "num": 131484,
+      "word": "沉没百余年的古船已出水600件文物",
+      "onboard_time": 1669022972,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 131411,
@@ -1827,14 +1867,6 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 100875,
-      "num": 100875,
-      "word": "西班牙队7名球员吹空调感冒",
-      "onboard_time": 1669022315,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 100650,
       "num": 100650,
       "word": "预测还是得看管泽元",
@@ -1931,6 +1963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 78804,
+      "num": 145689,
+      "word": "镜头里的卡塔尔",
+      "onboard_time": 1669021235,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 78300,
       "num": 78300,
       "word": "厄瓜多尔进球被吹",
@@ -1945,14 +1985,6 @@
       "onboard_time": 1668964223,
       "rank": 42,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 68536,
-      "num": 145689,
-      "word": "镜头里的卡塔尔",
-      "onboard_time": 1669021235,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 68356,

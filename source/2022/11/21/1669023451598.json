@@ -1,0 +1,410 @@
+{
+  "runTime": 1669023451598,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2373164,
+        "num": 2373164,
+        "word": "卡塔尔王子",
+        "onboard_time": 1669017937,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1115426,
+        "num": 1115426,
+        "word": "退钱哥",
+        "onboard_time": 1668999090,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 214225,
+        "num": 876654,
+        "word": "中国水下考古又一大发现",
+        "onboard_time": 1669002092,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1139967,
+        "num": 848596,
+        "word": "欧阳娜娜品牌定价",
+        "onboard_time": 1669018652,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 779023,
+        "num": 779023,
+        "word": "卡塔尔在当一种很新的东道主",
+        "onboard_time": 1669018952,
+        "rank": 4,
+        "category": "体育,幽默"
+      },
+      {
+        "raw_hot": 689858,
+        "num": 689858,
+        "word": "奶茶店老板娘回应穿着性感被举报",
+        "onboard_time": 1669013614,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 448032,
+        "num": 448032,
+        "word": "李峋朱韵被误以为有办公室恋情",
+        "onboard_time": 1669019495,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 381093,
+        "num": 381093,
+        "word": "金晨合作郑晓龙新剧今日开机",
+        "onboard_time": 1669021714,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 357888,
+        "num": 357888,
+        "word": "儿女考满分爸爸奖励60秒超市随便买",
+        "onboard_time": 1669014813,
+        "rank": 8,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 352080,
+        "num": 352080,
+        "word": "00后妻子嫌丈夫吃独食欲跳车轻生",
+        "onboard_time": 1669011093,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 543306,
+        "num": 351907,
+        "word": "王鹤棣吻戏摘眼镜",
+        "onboard_time": 1669017152,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 365765,
+        "num": 351675,
+        "word": "罗一舟说九个人可以成团非常难得",
+        "onboard_time": 1669020095,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 351402,
+        "num": 351402,
+        "word": "无疫情地区不得扩大核酸检测范围",
+        "onboard_time": 1669016913,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 337100,
+        "num": 337100,
+        "word": "行尸走肉全剧大结局",
+        "onboard_time": 1669020273,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 333488,
+        "num": 333488,
+        "word": "世界杯最贵球队登场",
+        "onboard_time": 1669020514,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 324400,
+        "num": 324400,
+        "word": "在线收留卡塔尔心碎王子",
+        "onboard_time": 1669020636,
+        "rank": 15,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 262043,
+        "num": 262043,
+        "word": "体测完像被吸干了阳气",
+        "onboard_time": 1669019616,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 257311,
+        "num": 257311,
+        "word": "日本岳云鹏募捐393万带孩子看世界杯",
+        "onboard_time": 1669016194,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 243474,
+        "num": 243474,
+        "word": "中药和美式的区别",
+        "onboard_time": 1669011392,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 240435,
+        "num": 240435,
+        "word": "手机APP为什么越做越大",
+        "onboard_time": 1669015955,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 299708,
+        "num": 231843,
+        "word": "柯南史上最be剧情",
+        "onboard_time": 1669020813,
+        "rank": 20,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 221782,
+        "num": 221782,
+        "word": "高见鸿故意激怒李峋",
+        "onboard_time": 1669021654,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 218620,
+        "num": 218620,
+        "word": "新冠肺炎疫情风险区划定及管控方案",
+        "onboard_time": 1669012651,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220992,
+        "num": 218585,
+        "word": "钮祜禄李峋",
+        "onboard_time": 1669022376,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 218544,
+        "num": 218544,
+        "word": "女儿1个电话爸爸骑车20公里送鸡腿",
+        "onboard_time": 1669015295,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210695,
+        "num": 210695,
+        "word": "卡塔尔是懂分组的",
+        "onboard_time": 1669009472,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197582,
+        "num": 197582,
+        "word": "240斤男子为结婚5个月减90斤",
+        "onboard_time": 1669012772,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191709,
+        "num": 191709,
+        "word": "7岁女童偷吃燃脂巧克力进ICU",
+        "onboard_time": 1669008694,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165590,
+        "num": 165590,
+        "word": "业主嫌回家如上朝要求换小区大门",
+        "onboard_time": 1669013495,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156190,
+        "num": 156190,
+        "word": "西班牙队7名球员吹空调感冒",
+        "onboard_time": 1669022315,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180193,
+        "num": 154340,
+        "word": "财阀家的小儿子 财阀家的小孙子",
+        "onboard_time": 1669011872,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 172589,
+        "num": 154030,
+        "word": "卿卿日常不是白露是霜降",
+        "onboard_time": 1669017394,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 163340,
+        "num": 153737,
+        "word": "GAI王斯然真夫妻真糖真好嗑",
+        "onboard_time": 1669014631,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 149917,
+        "num": 149917,
+        "word": "北中医1名学生核酸阳性",
+        "onboard_time": 1669010129,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147602,
+        "num": 147602,
+        "word": "中村一叶ZICO合跳challenge视频",
+        "onboard_time": 1669022135,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 144180,
+        "num": 144180,
+        "word": "网友留差评8年后收到店家道歉",
+        "onboard_time": 1669022972,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140591,
+        "num": 140591,
+        "word": "这猫是吃了云南菌子吧",
+        "onboard_time": 1669022736,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138599,
+        "num": 138599,
+        "word": "你的背包背到现在还没烂",
+        "onboard_time": 1669016133,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136491,
+        "num": 136491,
+        "word": "在钞能力面前和解有多快",
+        "onboard_time": 1669022617,
+        "rank": 38,
+        "category": "体育,幽默"
+      },
+      {
+        "raw_hot": 78804,
+        "num": 136440,
+        "word": "镜头里的卡塔尔",
+        "onboard_time": 1669021235,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141436,
+        "num": 136207,
+        "word": "朱韵关于李峋的朋友圈都是仅自己可见",
+        "onboard_time": 1669016074,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 135973,
+        "num": 135973,
+        "word": "居家隔离期间赋码管理",
+        "onboard_time": 1669017336,
+        "rank": 41,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 146762,
+        "num": 135903,
+        "word": "张婧仪看到陈飞宇受伤时的眼神",
+        "onboard_time": 1669018535,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 134579,
+        "num": 134579,
+        "word": "英格兰队战伊朗前将单膝下跪",
+        "onboard_time": 1669007498,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131484,
+        "num": 131484,
+        "word": "沉没百余年的古船已出水600件文物",
+        "onboard_time": 1669022972,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128481,
+        "num": 128481,
+        "word": "单臂舅舅冒雨跪地摘葡萄救患癌外甥",
+        "onboard_time": 1669014691,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121054,
+        "num": 121054,
+        "word": "新冠肺炎疫情居家健康监测指南",
+        "onboard_time": 1669017336,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118805,
+        "num": 118805,
+        "word": "符合哪些条件可停止全员核酸",
+        "onboard_time": 1669013972,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104797,
+        "num": 104797,
+        "word": "伊朗",
+        "onboard_time": 1669004193,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103750,
+        "num": 103750,
+        "word": "穆里尼奥称C罗将斩获金靴",
+        "onboard_time": 1669016313,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#这份国礼承载着中泰两国人民的美好期待#"
+    }
+  }
+}
