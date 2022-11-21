@@ -1,0 +1,410 @@
+{
+  "runTime": 1669036091707,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2110634,
+        "num": 2110634,
+        "word": "郝葭怀孕",
+        "onboard_time": 1669034382,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1167975,
+        "num": 1167975,
+        "word": "卡塔尔王子",
+        "onboard_time": 1669017937,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 58332,
+        "num": 1156276,
+        "word": "中国水下考古又一大发现",
+        "onboard_time": 1669002092,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1153143,
+        "num": 1153143,
+        "word": "英格兰vs伊朗",
+        "onboard_time": 1669033110,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 739948,
+        "num": 739948,
+        "word": "李峋从垃圾桶捡吃的",
+        "onboard_time": 1669030058,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 595130,
+        "num": 595130,
+        "word": "台湾电价是什么水平",
+        "onboard_time": 1669027358,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 544755,
+        "num": 544755,
+        "word": "卡塔尔把公交开出了跑车感",
+        "onboard_time": 1669030180,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 473889,
+        "num": 473889,
+        "word": "陶昕然说如果我天天跟孙俪比就只能跳楼",
+        "onboard_time": 1669034382,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 447340,
+        "num": 447340,
+        "word": "iPhone14Pro发货延期至2023年",
+        "onboard_time": 1669031801,
+        "rank": 8,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 369059,
+        "num": 369059,
+        "word": "晋江崩了",
+        "onboard_time": 1669032941,
+        "rank": 9,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 655041,
+        "num": 368939,
+        "word": "鹿晗回复退钱哥说世界杯结束约一场",
+        "onboard_time": 1669031563,
+        "rank": 10,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 442523,
+        "num": 368212,
+        "word": "中国千万资产家庭达206万户",
+        "onboard_time": 1669034564,
+        "rank": 11,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 374801,
+        "num": 367922,
+        "word": "赤木刚宪配音去世",
+        "onboard_time": 1669032162,
+        "rank": 12,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 366972,
+        "num": 366972,
+        "word": "太太团将入住10亿镑豪华游轮",
+        "onboard_time": 1669027719,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 366888,
+        "num": 366888,
+        "word": "李峋入狱三年归来仍是醋坛子",
+        "onboard_time": 1669031680,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 334880,
+        "num": 334880,
+        "word": "太快确定关系的恋爱会长久吗",
+        "onboard_time": 1669033239,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 323388,
+        "num": 323388,
+        "word": "网友留差评8年后收到店家道歉",
+        "onboard_time": 1669022972,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312000,
+        "num": 312000,
+        "word": "1岁宝宝不吃奶却爱吃土",
+        "onboard_time": 1669032701,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294978,
+        "num": 294978,
+        "word": "新娘坐婚车内临出发时仍在谈生意",
+        "onboard_time": 1669027540,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232337,
+        "num": 232337,
+        "word": "央视揭大牌尾货骨折价背后猫腻",
+        "onboard_time": 1669033057,
+        "rank": 19,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 339190,
+        "num": 232003,
+        "word": "节气姑娘酒楼没了",
+        "onboard_time": 1669034982,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 319901,
+        "num": 223222,
+        "word": "欧阳娜娜品牌定价",
+        "onboard_time": 1669018652,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212012,
+        "num": 212012,
+        "word": "这是一个没有穷人的国家",
+        "onboard_time": 1669025138,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 200716,
+        "num": 200716,
+        "word": "徐黎娜高见鸿cp名",
+        "onboard_time": 1669029818,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 190705,
+        "num": 190705,
+        "word": "太原疫情防控",
+        "onboard_time": 1669029102,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183496,
+        "num": 183496,
+        "word": "LBL对战JDG",
+        "onboard_time": 1669032403,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 182915,
+        "num": 182915,
+        "word": "校招研究生简历连续5年占比超7成",
+        "onboard_time": 1669027419,
+        "rank": 26,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 175356,
+        "num": 175356,
+        "word": "太原一家化工厂发生爆炸",
+        "onboard_time": 1669034143,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173376,
+        "num": 173376,
+        "word": "西班牙队7名球员吹空调感冒",
+        "onboard_time": 1669022315,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171591,
+        "num": 171591,
+        "word": "奶茶店老板娘回应穿着性感被举报",
+        "onboard_time": 1669013614,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195532,
+        "num": 170484,
+        "word": "李峋傲娇怪",
+        "onboard_time": 1669035221,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 174060,
+        "num": 170037,
+        "word": "想坐王鹤棣时宴的副驾",
+        "onboard_time": 1669028079,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 168276,
+        "num": 168276,
+        "word": "22日起进返京人员落地三天三检",
+        "onboard_time": 1669028381,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165608,
+        "num": 165608,
+        "word": "今晚调油价",
+        "onboard_time": 1669024117,
+        "rank": 33,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 155264,
+        "num": 155264,
+        "word": "女子婚礼前夜被告知婚庆公司跑路",
+        "onboard_time": 1669024539,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150520,
+        "num": 150520,
+        "word": "好喜欢这种慢慢来的恋爱",
+        "onboard_time": 1669030299,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 149174,
+        "num": 149174,
+        "word": "脱离华为两年后荣耀现状如何",
+        "onboard_time": 1669031500,
+        "rank": 36,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 137378,
+        "num": 137378,
+        "word": "在线收留卡塔尔心碎王子",
+        "onboard_time": 1669020636,
+        "rank": 37,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 136222,
+        "num": 136222,
+        "word": "这小子是刘星吧",
+        "onboard_time": 1669031079,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 132231,
+        "num": 132231,
+        "word": "k4",
+        "onboard_time": 1669030478,
+        "rank": 39,
+        "category": "科技,艺人"
+      },
+      {
+        "raw_hot": 131311,
+        "num": 131311,
+        "word": "卡塔尔在当一种很新的东道主",
+        "onboard_time": 1669018952,
+        "rank": 40,
+        "category": "体育,幽默"
+      },
+      {
+        "raw_hot": 124903,
+        "num": 124903,
+        "word": "柯南史上最be剧情",
+        "onboard_time": 1669020813,
+        "rank": 41,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 120790,
+        "num": 120790,
+        "word": "北京倡导疫情严重区域实行弹性上班",
+        "onboard_time": 1669024655,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116610,
+        "num": 116610,
+        "word": "女子买猫粮获赠蟑螂虫干",
+        "onboard_time": 1669028198,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113759,
+        "num": 113759,
+        "word": "英格兰首发",
+        "onboard_time": 1669032403,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111545,
+        "num": 111545,
+        "word": "哼唧声很特别的小狗",
+        "onboard_time": 1669035400,
+        "rank": 45,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 111299,
+        "num": 111299,
+        "word": "世界杯最贵球队登场",
+        "onboard_time": 1669020514,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 230420,
+        "num": 110879,
+        "word": "世界杯直播",
+        "onboard_time": 1669036062,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107225,
+        "num": 107225,
+        "word": "男子街头买4箱冷冻海鲜全是空壳注水",
+        "onboard_time": 1669024475,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103430,
+        "num": 103430,
+        "word": "狗狗去日托班上学也有校车",
+        "onboard_time": 1669032340,
+        "rank": 49,
+        "category": "情感,幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#神十五将择机发射#"
+    }
+  }
+}
