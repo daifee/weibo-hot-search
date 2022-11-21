@@ -1,6 +1,6 @@
 {
   "startTime": 1668961718135,
-  "endTime": 1669029469160,
+  "endTime": 1669030430754,
   "band_list": [
     {
       "raw_hot": 4068058,
@@ -251,6 +251,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 829857,
+      "num": 829857,
+      "word": "台湾电价是什么水平",
+      "onboard_time": 1669027358,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 809086,
       "num": 809086,
       "word": "卡塔尔在当一种很新的东道主",
@@ -369,14 +377,6 @@
       "onboard_time": 1669007853,
       "rank": 32,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 628628,
-      "num": 628628,
-      "word": "台湾电价是什么水平",
-      "onboard_time": 1669027358,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 622179,
@@ -707,6 +707,14 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 400262,
+      "num": 400262,
+      "word": "新娘坐婚车内临出发时仍在谈生意",
+      "onboard_time": 1669027540,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 396181,
       "num": 396181,
       "word": "C罗",
@@ -747,6 +755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 382446,
+      "num": 382446,
+      "word": "校招研究生简历连续5年占比超7成",
+      "onboard_time": 1669027419,
+      "rank": 23,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 381910,
       "num": 381910,
       "word": "刘令姿古装vs旗袍",
@@ -785,6 +801,14 @@
       "onboard_time": 1668993931,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 370472,
+      "num": 370472,
+      "word": "徐黎娜高见鸿cp名",
+      "onboard_time": 1669029818,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 368118,
@@ -851,6 +875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 342033,
+      "num": 342033,
+      "word": "太太团将入住10亿镑豪华游轮",
+      "onboard_time": 1669027719,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 341195,
       "num": 341195,
       "word": "这就是寄猫篱下吧",
@@ -865,6 +897,14 @@
       "onboard_time": 1668954510,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 339132,
+      "num": 339132,
+      "word": "秦施是小三克星吧",
+      "onboard_time": 1669029341,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 337100,
@@ -947,20 +987,28 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 320722,
+      "num": 320722,
+      "word": "22日起进返京人员落地三天三检",
+      "onboard_time": 1669028381,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 313397,
+      "num": 313397,
+      "word": "想坐王鹤棣时宴的副驾",
+      "onboard_time": 1669028079,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 311378,
       "num": 311378,
       "word": "合肥质检研究院回应被指造假",
       "onboard_time": 1669008576,
       "rank": 40,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 307000,
-      "num": 307000,
-      "word": "想坐王鹤棣时宴的副驾",
-      "onboard_time": 1669028079,
-      "rank": 15,
-      "category": "影视"
     },
     {
       "raw_hot": 299708,
@@ -985,14 +1033,6 @@
       "onboard_time": 1668957102,
       "rank": 17,
       "category": "情感"
-    },
-    {
-      "raw_hot": 294529,
-      "num": 294529,
-      "word": "新娘坐婚车内临出发时仍在谈生意",
-      "onboard_time": 1669027540,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 291014,
@@ -1051,11 +1091,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 279555,
-      "num": 279555,
-      "word": "秦施是小三克星吧",
-      "onboard_time": 1669029341,
-      "rank": 17,
+      "raw_hot": 277252,
+      "num": 277252,
+      "word": "尹峥李薇吵不过1天就和好",
+      "onboard_time": 1669029700,
+      "rank": 21,
       "category": "影视"
     },
     {
@@ -1081,14 +1121,6 @@
       "onboard_time": 1669014573,
       "rank": 17,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 264622,
-      "num": 264622,
-      "word": "太太团将入住10亿镑豪华游轮",
-      "onboard_time": 1669027719,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 264253,
@@ -1187,14 +1219,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 249512,
-      "num": 249512,
-      "word": "22日起进返京人员落地三天三检",
-      "onboard_time": 1669028381,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 247064,
       "num": 247064,
       "word": "钱不是万能的",
@@ -1209,14 +1233,6 @@
       "onboard_time": 1668907471,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 240025,
-      "num": 240025,
-      "word": "校招研究生简历连续5年占比超7成",
-      "onboard_time": 1669027419,
-      "rank": 23,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 239973,
@@ -1328,6 +1344,14 @@
       "word": "丁禹兮彭小苒新剧过审",
       "onboard_time": 1669026937,
       "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 205309,
+      "num": 199153,
+      "word": "李峋从垃圾桶捡吃的",
+      "onboard_time": 1669030058,
+      "rank": 27,
       "category": "影视"
     },
     {
@@ -1523,6 +1547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 169867,
+      "num": 169867,
+      "word": "女子买猫粮获赠蟑螂虫干",
+      "onboard_time": 1669028198,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 169465,
       "num": 169465,
       "word": "广州地铁",
@@ -1569,6 +1601,14 @@
       "onboard_time": 1669008335,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 160024,
+      "num": 160024,
+      "word": "卡塔尔为何花这么多钱举办世界杯",
+      "onboard_time": 1669029879,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 159333,
@@ -1699,6 +1739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 143699,
+      "num": 143699,
+      "word": "太原疫情防控",
+      "onboard_time": 1669029102,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 143676,
       "num": 143676,
       "word": "新冠肺炎疫情居家健康监测指南",
@@ -1721,6 +1769,14 @@
       "onboard_time": 1668999508,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 141082,
+      "num": 141082,
+      "word": "世界杯和奥运会哪个更赚钱",
+      "onboard_time": 1669025552,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 139937,
@@ -1763,14 +1819,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 136447,
-      "num": 136447,
-      "word": "世界杯和奥运会哪个更赚钱",
-      "onboard_time": 1669025552,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 135310,
       "num": 135310,
       "word": "男子花8小时鼻烟壶内画世界杯吉祥物",
@@ -1803,11 +1851,11 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 131305,
-      "num": 131305,
-      "word": "女子买猫粮获赠蟑螂虫干",
-      "onboard_time": 1669028198,
-      "rank": 40,
+      "raw_hot": 130994,
+      "num": 130994,
+      "word": "卡塔尔把公交开出了跑车感",
+      "onboard_time": 1669030180,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -1955,20 +2003,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 111701,
-      "num": 111701,
-      "word": "太原疫情防控",
-      "onboard_time": 1669029102,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 111334,
       "num": 111334,
       "word": "我们的当打之年",
       "onboard_time": 1669014691,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 110956,
+      "num": 110956,
+      "word": "好喜欢这种慢慢来的恋爱",
+      "onboard_time": 1669030299,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 110816,
@@ -2251,6 +2299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 56771,
+      "num": 141268,
+      "word": "深夜看球吃泡面有多爽",
+      "onboard_time": 1669028438,
+      "rank": 39,
+      "category": "情感,体育"
+    },
+    {
       "raw_hot": 54169,
       "num": 39088,
       "word": "王冰冰笑得好甜",
@@ -2265,14 +2321,6 @@
       "onboard_time": 1668967097,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 45466,
-      "num": 131984,
-      "word": "深夜看球吃泡面有多爽",
-      "onboard_time": 1669028438,
-      "rank": 39,
-      "category": "情感,体育"
     },
     {
       "raw_hot": 42799,
@@ -2292,7 +2340,7 @@
     },
     {
       "raw_hot": 25960,
-      "num": 316119,
+      "num": 353156,
       "word": "这次又被臭宝装到了",
       "onboard_time": 1669028438,
       "rank": 14,

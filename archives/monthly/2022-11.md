@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/01 00:36:21 ~ 2022/11/21 19:17:49
+本榜单时间：2022/11/01 00:36:21 ~ 2022/11/21 19:33:50
 </p>
 </blockquote>
 <p>
@@ -3861,6 +3861,12 @@ C罗（热度：834292）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E7%94%B5%E4%BB%B7%E6%98%AF%E4%BB%80%E4%B9%88%E6%B0%B4%E5%B9%B3%23" target="weibo">
+台湾电价是什么水平（热度：829857）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9D%A1%E7%9C%A0%E8%B6%8510%E5%B0%8F%E6%97%B6%E5%B0%8F%E5%BF%83%E5%BC%95%E5%8F%91%E5%BF%83%E8%A1%80%E7%AE%A1%E7%96%BE%E7%97%85%23" target="weibo">
 睡眠超10小时小心引发心血管疾病（热度：829505）
 </a>
@@ -5753,12 +5759,6 @@ QQ内测微信登录功能（热度：629846）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%B5%B7%E7%A7%B0%E5%B0%8F%E6%9D%A8%E5%93%A5%E8%B4%A8%E6%A3%80%E6%8A%A5%E5%91%8A%E6%98%AF%E5%81%87%E7%9A%84%23" target="weibo">
 王海称小杨哥质检报告是假的（热度：628950）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E7%94%B5%E4%BB%B7%E6%98%AF%E4%BB%80%E4%B9%88%E6%B0%B4%E5%B9%B3%23" target="weibo">
-台湾电价是什么水平（热度：628628）
 </a>
 </li>
 
