@@ -1,6 +1,6 @@
 {
   "startTime": 1668961718135,
-  "endTime": 1669069226629,
+  "endTime": 1669070273679,
   "band_list": [
     {
       "raw_hot": 4068058,
@@ -2251,6 +2251,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 153438,
+      "num": 153438,
+      "word": "特朗普推特24小时涨粉近亿",
+      "onboard_time": 1669060573,
+      "rank": 17,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 152708,
       "num": 152708,
       "word": "注会",
@@ -2563,14 +2571,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 125469,
-      "num": 125469,
-      "word": "特朗普推特24小时涨粉近亿",
-      "onboard_time": 1669060573,
-      "rank": 17,
-      "category": "社会新闻,科技"
-    },
-    {
       "raw_hot": 125052,
       "num": 125052,
       "word": "FIFA世界杯",
@@ -2827,6 +2827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 105288,
+      "num": 82683,
+      "word": "英格兰球迷有多疯狂",
+      "onboard_time": 1669064653,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 105280,
       "num": 105280,
       "word": "中国蹴鞠走进卡塔尔世界杯",
@@ -2907,6 +2915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 96664,
+      "num": 82539,
+      "word": "美国1比1威尔士",
+      "onboard_time": 1669067473,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 95635,
       "num": 95635,
       "word": "英国骆驼预测世界杯比赛结果",
@@ -2937,6 +2953,14 @@
       "onboard_time": 1669016735,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 90937,
+      "num": 90937,
+      "word": "00后男生中奖后计划裸辞看球",
+      "onboard_time": 1669066634,
+      "rank": 16,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 90689,
@@ -2971,6 +2995,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 82920,
+      "num": 82920,
+      "word": "城管局回应郑州3人当街打商贩",
+      "onboard_time": 1669060272,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 82524,
       "num": 82524,
       "word": "杭州造亮相卡塔尔世界杯",
@@ -2979,16 +3011,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 80469,
-      "num": 68357,
-      "word": "英格兰球迷有多疯狂",
-      "onboard_time": 1669064653,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 78845,
-      "num": 78845,
+      "raw_hot": 80906,
+      "num": 80906,
       "word": "塞内加尔0比2荷兰",
       "onboard_time": 1669054816,
       "rank": 24,
@@ -3027,20 +3051,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 72336,
+      "num": 72336,
+      "word": "37岁C罗大腿恐怖肌肉",
+      "onboard_time": 1669064173,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 72025,
-      "num": 53628,
+      "num": 56892,
       "word": "贝尔点球破门",
       "onboard_time": 1669065372,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 69927,
-      "num": 69927,
-      "word": "城管局回应郑州3人当街打商贩",
-      "onboard_time": 1669060272,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 68356,
@@ -3075,14 +3099,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 60686,
-      "num": 60686,
-      "word": "美国1比1威尔士",
-      "onboard_time": 1669067473,
-      "rank": 11,
-      "category": "体育"
-    },
-    {
       "raw_hot": 56771,
       "num": 141268,
       "word": "深夜看球吃泡面有多爽",
@@ -3091,28 +3107,12 @@
       "category": "情感,体育"
     },
     {
-      "raw_hot": 55122,
-      "num": 55122,
-      "word": "37岁C罗大腿恐怖肌肉",
-      "onboard_time": 1669064173,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 54169,
       "num": 39088,
       "word": "王冰冰笑得好甜",
       "onboard_time": 1668974171,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 53391,
-      "num": 53391,
-      "word": "00后男生中奖后计划裸辞看球",
-      "onboard_time": 1669066634,
-      "rank": 16,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 49850,
@@ -3132,7 +3132,7 @@
     },
     {
       "raw_hot": 46025,
-      "num": 31712,
+      "num": 34512,
       "word": "贝尔世界杯首秀",
       "onboard_time": 1669065432,
       "rank": 31,

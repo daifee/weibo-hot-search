@@ -1,6 +1,6 @@
 {
   "startTime": 1669048272938,
-  "endTime": 1669069226629,
+  "endTime": 1669070273679,
   "band_list": [
     {
       "raw_hot": 1172928,
@@ -323,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 153438,
+      "num": 153438,
+      "word": "特朗普推特24小时涨粉近亿",
+      "onboard_time": 1669060573,
+      "rank": 17,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 148367,
       "num": 148367,
       "word": "新娘坐婚车内临出发时仍在谈生意",
@@ -377,14 +385,6 @@
       "onboard_time": 1669047334,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 125469,
-      "num": 125469,
-      "word": "特朗普推特24小时涨粉近亿",
-      "onboard_time": 1669060573,
-      "rank": 17,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 124451,
@@ -443,12 +443,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 105288,
+      "num": 82683,
+      "word": "英格兰球迷有多疯狂",
+      "onboard_time": 1669064653,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 96664,
+      "num": 82539,
+      "word": "美国1比1威尔士",
+      "onboard_time": 1669067473,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 94813,
       "num": 94813,
       "word": "听八卦真的不分年龄",
       "onboard_time": 1669048767,
       "rank": 47,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 90937,
+      "num": 90937,
+      "word": "00后男生中奖后计划裸辞看球",
+      "onboard_time": 1669066634,
+      "rank": 16,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 88112,
@@ -467,16 +491,16 @@
       "category": "体育"
     },
     {
-      "raw_hot": 80469,
-      "num": 68357,
-      "word": "英格兰球迷有多疯狂",
-      "onboard_time": 1669064653,
-      "rank": 39,
-      "category": "体育"
+      "raw_hot": 82920,
+      "num": 82920,
+      "word": "城管局回应郑州3人当街打商贩",
+      "onboard_time": 1669060272,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 78845,
-      "num": 78845,
+      "raw_hot": 80906,
+      "num": 80906,
       "word": "塞内加尔0比2荷兰",
       "onboard_time": 1669054816,
       "rank": 24,
@@ -491,20 +515,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 72336,
+      "num": 72336,
+      "word": "37岁C罗大腿恐怖肌肉",
+      "onboard_time": 1669064173,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 72025,
-      "num": 53628,
+      "num": 56892,
       "word": "贝尔点球破门",
       "onboard_time": 1669065372,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 69927,
-      "num": 69927,
-      "word": "城管局回应郑州3人当街打商贩",
-      "onboard_time": 1669060272,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 64836,
@@ -513,30 +537,6 @@
       "onboard_time": 1669047930,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 60686,
-      "num": 60686,
-      "word": "美国1比1威尔士",
-      "onboard_time": 1669067473,
-      "rank": 11,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 55122,
-      "num": 55122,
-      "word": "37岁C罗大腿恐怖肌肉",
-      "onboard_time": 1669064173,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 53391,
-      "num": 53391,
-      "word": "00后男生中奖后计划裸辞看球",
-      "onboard_time": 1669066634,
-      "rank": 16,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 47423,
@@ -548,7 +548,7 @@
     },
     {
       "raw_hot": 46025,
-      "num": 31712,
+      "num": 34512,
       "word": "贝尔世界杯首秀",
       "onboard_time": 1669065432,
       "rank": 31,
@@ -571,6 +571,14 @@
       "category": "财经,体育"
     },
     {
+      "raw_hot": 28742,
+      "num": 28742,
+      "word": "鹿晗回复退钱哥说世界杯结束约一场",
+      "onboard_time": 1669031563,
+      "rank": 18,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 28122,
       "num": 28122,
       "word": "小维阿破门",
@@ -585,14 +593,6 @@
       "onboard_time": 1669068374,
       "rank": 39,
       "category": "游戏,影视"
-    },
-    {
-      "raw_hot": 27239,
-      "num": 27239,
-      "word": "鹿晗回复退钱哥说世界杯结束约一场",
-      "onboard_time": 1669031563,
-      "rank": 18,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 25106,
