@@ -1,6 +1,6 @@
 {
   "startTime": 1668961718135,
-  "endTime": 1669070273679,
+  "endTime": 1669073011527,
   "band_list": [
     {
       "raw_hot": 4068058,
@@ -795,6 +795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 462167,
+      "num": 462167,
+      "word": "女子工作5年前后对比判若两人",
+      "onboard_time": 1669046319,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 461496,
       "num": 461496,
       "word": "外卖小哥深夜送餐猝死清晨才被发现",
@@ -969,6 +977,14 @@
       "onboard_time": 1669036479,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 411681,
+      "num": 411681,
+      "word": "特朗普推特24小时涨粉近亿",
+      "onboard_time": 1669060573,
+      "rank": 17,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 411009,
@@ -1203,14 +1219,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 344666,
-      "num": 344666,
-      "word": "女子工作5年前后对比判若两人",
-      "onboard_time": 1669046319,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 341195,
       "num": 341195,
       "word": "这就是寄猫篱下吧",
@@ -1299,6 +1307,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 329241,
+      "num": 329241,
+      "word": "美国1比1威尔士",
+      "onboard_time": 1669067473,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 328607,
       "num": 328607,
       "word": "王艺瑾MV在欧阳娜娜展览拍的",
@@ -1379,12 +1395,28 @@
       "category": "科技"
     },
     {
+      "raw_hot": 296664,
+      "num": 296664,
+      "word": "00后男生中奖后计划裸辞看球",
+      "onboard_time": 1669066634,
+      "rank": 16,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 294718,
       "num": 294718,
       "word": "两个人为什么会慢慢走散",
       "onboard_time": 1668957102,
       "rank": 17,
       "category": "情感"
+    },
+    {
+      "raw_hot": 292939,
+      "num": 229525,
+      "word": "警方辟谣失联男孩胡鑫宇河里被找到",
+      "onboard_time": 1669070778,
+      "rank": 10,
+      "category": "社会负面"
     },
     {
       "raw_hot": 292194,
@@ -1787,6 +1819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 215943,
+      "num": 215943,
+      "word": "塞内加尔0比2荷兰",
+      "onboard_time": 1669054816,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 213538,
       "num": 213538,
       "word": "在重庆的一天有多令人羡慕",
@@ -1801,6 +1841,14 @@
       "onboard_time": 1669016133,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 209286,
+      "num": 209286,
+      "word": "城管局回应郑州3人当街打商贩",
+      "onboard_time": 1669060272,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 209181,
@@ -2155,6 +2203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 165127,
+      "num": 165127,
+      "word": "懒人瘦肚子真的很简单",
+      "onboard_time": 1669047513,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 164519,
       "num": 164519,
       "word": "重庆寸滩方舱医院正加紧建设",
@@ -2249,14 +2305,6 @@
       "onboard_time": 1669025073,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 153438,
-      "num": 153438,
-      "word": "特朗普推特24小时涨粉近亿",
-      "onboard_time": 1669060573,
-      "rank": 17,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 152708,
@@ -2571,6 +2619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125895,
+      "num": 125895,
+      "word": "李峋好狠的心",
+      "onboard_time": 1669071740,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 125052,
       "num": 125052,
       "word": "FIFA世界杯",
@@ -2609,14 +2665,6 @@
       "onboard_time": 1669044999,
       "rank": 49,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 120415,
-      "num": 120415,
-      "word": "懒人瘦肚子真的很简单",
-      "onboard_time": 1669047513,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 119814,
@@ -2779,6 +2827,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 108587,
+      "num": 108587,
+      "word": "英格兰球迷有多疯狂",
+      "onboard_time": 1669064653,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 108541,
       "num": 108541,
       "word": "北京疫情发布会",
@@ -2825,14 +2881,6 @@
       "onboard_time": 1668935786,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 105288,
-      "num": 82683,
-      "word": "英格兰球迷有多疯狂",
-      "onboard_time": 1669064653,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 105280,
@@ -2915,14 +2963,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 96664,
-      "num": 82539,
-      "word": "美国1比1威尔士",
-      "onboard_time": 1669067473,
-      "rank": 11,
-      "category": "体育"
-    },
-    {
       "raw_hot": 95635,
       "num": 95635,
       "word": "英国骆驼预测世界杯比赛结果",
@@ -2953,14 +2993,6 @@
       "onboard_time": 1669016735,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 90937,
-      "num": 90937,
-      "word": "00后男生中奖后计划裸辞看球",
-      "onboard_time": 1669066634,
-      "rank": 16,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 90689,
@@ -2995,12 +3027,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 82920,
-      "num": 82920,
-      "word": "城管局回应郑州3人当街打商贩",
-      "onboard_time": 1669060272,
-      "rank": 10,
-      "category": "社会新闻"
+      "raw_hot": 82554,
+      "num": 82554,
+      "word": "37岁C罗大腿恐怖肌肉",
+      "onboard_time": 1669064173,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 82524,
@@ -3011,12 +3043,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 80906,
-      "num": 80906,
-      "word": "塞内加尔0比2荷兰",
-      "onboard_time": 1669054816,
-      "rank": 24,
-      "category": "体育"
+      "raw_hot": 80909,
+      "num": 80909,
+      "word": "李峋口中的小白脸是自己",
+      "onboard_time": 1669072642,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 78804,
@@ -3051,16 +3083,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 72336,
-      "num": 72336,
-      "word": "37岁C罗大腿恐怖肌肉",
-      "onboard_time": 1669064173,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 72025,
-      "num": 56892,
+      "raw_hot": 73105,
+      "num": 73105,
       "word": "贝尔点球破门",
       "onboard_time": 1669065372,
       "rank": 30,
@@ -3073,6 +3097,14 @@
       "onboard_time": 1668963623,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 66376,
+      "num": 66376,
+      "word": "小雪",
+      "onboard_time": 1669073006,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 64836,
@@ -3099,6 +3131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 60323,
+      "num": 60323,
+      "word": "卡塔尔世界杯能赚多少钱",
+      "onboard_time": 1669061352,
+      "rank": 47,
+      "category": "财经,体育"
+    },
+    {
       "raw_hot": 56771,
       "num": 141268,
       "word": "深夜看球吃泡面有多爽",
@@ -3123,18 +3163,18 @@
       "category": "体育"
     },
     {
-      "raw_hot": 47423,
-      "num": 47423,
-      "word": "塞内加尔vs荷兰首发",
-      "onboard_time": 1669052000,
+      "raw_hot": 48728,
+      "num": 54101,
+      "word": "贝尔世界杯首秀",
+      "onboard_time": 1669065432,
       "rank": 31,
       "category": "体育"
     },
     {
-      "raw_hot": 46025,
-      "num": 34512,
-      "word": "贝尔世界杯首秀",
-      "onboard_time": 1669065432,
+      "raw_hot": 47423,
+      "num": 47423,
+      "word": "塞内加尔vs荷兰首发",
+      "onboard_time": 1669052000,
       "rank": 31,
       "category": "体育"
     },
@@ -3161,14 +3201,6 @@
       "onboard_time": 1669052478,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 33772,
-      "num": 29276,
-      "word": "卡塔尔世界杯能赚多少钱",
-      "onboard_time": 1669061352,
-      "rank": 47,
-      "category": "财经,体育"
     },
     {
       "raw_hot": 28122,

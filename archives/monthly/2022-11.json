@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1669070273679,
+  "endTime": 1669073011527,
   "band_list": [
     {
       "raw_hot": 10543272,
@@ -12083,6 +12083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 462167,
+      "num": 462167,
+      "word": "女子工作5年前后对比判若两人",
+      "onboard_time": 1669046319,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 462152,
       "num": 462152,
       "word": "男孩看电视不睡觉父母罚通宵看",
@@ -13985,6 +13993,14 @@
       "onboard_time": 1667266225,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 411681,
+      "num": 411681,
+      "word": "特朗普推特24小时涨粉近亿",
+      "onboard_time": 1669060573,
+      "rank": 17,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 411634,
@@ -16979,14 +16995,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 344666,
-      "num": 344666,
-      "word": "女子工作5年前后对比判若两人",
-      "onboard_time": 1669046319,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 344546,
       "num": 344546,
       "word": "洞庭湖底现神秘图案",
@@ -17889,6 +17897,14 @@
       "onboard_time": 1668160835,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 329241,
+      "num": 329241,
+      "word": "美国1比1威尔士",
+      "onboard_time": 1669067473,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 329185,
@@ -19715,6 +19731,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 296664,
+      "num": 296664,
+      "word": "00后男生中奖后计划裸辞看球",
+      "onboard_time": 1669066634,
+      "rank": 16,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 296592,
       "num": 296592,
       "word": "王鹤棣新剧围读上班路透",
@@ -19921,6 +19945,14 @@
       "onboard_time": 1667916149,
       "rank": 41,
       "category": "其它"
+    },
+    {
+      "raw_hot": 292939,
+      "num": 229525,
+      "word": "警方辟谣失联男孩胡鑫宇河里被找到",
+      "onboard_time": 1669070778,
+      "rank": 10,
+      "category": "社会负面"
     },
     {
       "raw_hot": 292661,
@@ -25595,6 +25627,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 215943,
+      "num": 215943,
+      "word": "塞内加尔0比2荷兰",
+      "onboard_time": 1669054816,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 215926,
       "num": 215926,
       "word": "衢州要求高中生取得急救证书",
@@ -26145,6 +26185,14 @@
       "onboard_time": 1668824248,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 209286,
+      "num": 209286,
+      "word": "城管局回应郑州3人当街打商贩",
+      "onboard_time": 1669060272,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 209270,
@@ -30827,6 +30875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 165127,
+      "num": 165127,
+      "word": "懒人瘦肚子真的很简单",
+      "onboard_time": 1669047513,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 165100,
       "num": 165100,
       "word": "C罗说曼联任命朗尼克很荒谬",
@@ -32329,14 +32385,6 @@
       "onboard_time": 1668152678,
       "rank": 32,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 153438,
-      "num": 153438,
-      "word": "特朗普推特24小时涨粉近亿",
-      "onboard_time": 1669060573,
-      "rank": 17,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 153437,
@@ -36283,6 +36331,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 125895,
+      "num": 125895,
+      "word": "李峋好狠的心",
+      "onboard_time": 1669071740,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 125869,
       "num": 125869,
       "word": "emoji原型好像被我找到了",
@@ -36985,14 +37041,6 @@
       "onboard_time": 1667558069,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 120415,
-      "num": 120415,
-      "word": "懒人瘦肚子真的很简单",
-      "onboard_time": 1669047513,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 120414,
@@ -38539,6 +38587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 108587,
+      "num": 108587,
+      "word": "英格兰球迷有多疯狂",
+      "onboard_time": 1669064653,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 108405,
       "num": 108405,
       "word": "李薇助攻节气姑娘们做生意",
@@ -38985,14 +39041,6 @@
       "onboard_time": 1667548171,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 105288,
-      "num": 82683,
-      "word": "英格兰球迷有多疯狂",
-      "onboard_time": 1669064653,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 105280,
@@ -40211,14 +40259,6 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 96664,
-      "num": 82539,
-      "word": "美国1比1威尔士",
-      "onboard_time": 1669067473,
-      "rank": 11,
-      "category": "体育"
-    },
-    {
       "raw_hot": 96635,
       "num": 96635,
       "word": "穿着睡衣拖鞋的护士变身女侠",
@@ -41057,14 +41097,6 @@
       "onboard_time": 1667269046,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 90937,
-      "num": 90937,
-      "word": "00后男生中奖后计划裸辞看球",
-      "onboard_time": 1669066634,
-      "rank": 16,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 90829,
@@ -42251,14 +42283,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 82920,
-      "num": 82920,
-      "word": "城管局回应郑州3人当街打商贩",
-      "onboard_time": 1669060272,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 82819,
       "num": 82819,
       "word": "收到快递后的我",
@@ -42297,6 +42321,14 @@
       "onboard_time": 1668271046,
       "rank": 49,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 82554,
+      "num": 82554,
+      "word": "37岁C罗大腿恐怖肌肉",
+      "onboard_time": 1669064173,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 82524,
@@ -42467,12 +42499,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 80906,
-      "num": 80906,
-      "word": "塞内加尔0比2荷兰",
-      "onboard_time": 1669054816,
-      "rank": 24,
-      "category": "体育"
+      "raw_hot": 80909,
+      "num": 80909,
+      "word": "李峋口中的小白脸是自己",
+      "onboard_time": 1669072642,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 80877,
@@ -43123,6 +43155,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 73105,
+      "num": 73105,
+      "word": "贝尔点球破门",
+      "onboard_time": 1669065372,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 73098,
       "num": 73098,
       "word": "千方百计促进高校毕业生多渠道就业创业",
@@ -43211,28 +43251,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 72336,
-      "num": 72336,
-      "word": "37岁C罗大腿恐怖肌肉",
-      "onboard_time": 1669064173,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 72192,
       "num": 72192,
       "word": "AG男团王者cos走秀",
       "onboard_time": 1668255572,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 72025,
-      "num": 56892,
-      "word": "贝尔点球破门",
-      "onboard_time": 1669065372,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 71952,
@@ -43611,6 +43635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 66376,
+      "num": 66376,
+      "word": "小雪",
+      "onboard_time": 1669073006,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 66246,
       "num": 302797,
       "word": "退伍老兵帮70余户村民垫电费",
@@ -43961,6 +43993,14 @@
       "onboard_time": 1667540367,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 60323,
+      "num": 60323,
+      "word": "卡塔尔世界杯能赚多少钱",
+      "onboard_time": 1669061352,
+      "rank": 47,
+      "category": "财经,体育"
     },
     {
       "raw_hot": 60068,
@@ -44395,6 +44435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 48728,
+      "num": 54101,
+      "word": "贝尔世界杯首秀",
+      "onboard_time": 1669065432,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 48443,
       "num": 48443,
       "word": "体育老师课上帮解物理题",
@@ -44480,14 +44528,6 @@
       "word": "韦筱圆卫冕世锦赛高低杠金牌",
       "onboard_time": 1667690958,
       "rank": 40,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 46025,
-      "num": 34512,
-      "word": "贝尔世界杯首秀",
-      "onboard_time": 1669065432,
-      "rank": 31,
       "category": "体育"
     },
     {
@@ -44809,14 +44849,6 @@
       "onboard_time": 1668014597,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 33772,
-      "num": 29276,
-      "word": "卡塔尔世界杯能赚多少钱",
-      "onboard_time": 1669061352,
-      "rank": 47,
-      "category": "财经,体育"
     },
     {
       "raw_hot": 33527,
