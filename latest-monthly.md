@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/01 00:36:21 ~ 2022/11/21 12:46:52
+本榜单时间：2022/11/01 00:36:21 ~ 2022/11/21 13:19:46
 </p>
 </blockquote>
 <p>
@@ -3747,6 +3747,12 @@ LWX（热度：842999）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%A4%E5%8F%8B%E8%A2%AB%E5%AD%90%E9%95%BF%E8%98%91%E8%8F%87%E5%B0%8F%E4%BC%99%E5%B8%AE%E5%BF%99%E5%89%AA%E6%8E%89%23" target="weibo">
+室友被子长蘑菇小伙帮忙剪掉（热度：838968）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%9D%E5%A6%88%E5%B8%A62%E5%B2%81%E5%84%BF%E5%AD%90%E8%BF%9B%E5%A5%B3%E5%8E%95%E8%A2%AB%E9%AA%82%E6%B2%A1%E7%B4%A0%E8%B4%A8%23" target="weibo">
 宝妈带2岁儿子进女厕被骂没素质（热度：838783）
 </a>
@@ -4193,6 +4199,12 @@ iPhone14Pro满电无法开机（热度：775953）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%86%89%E6%B1%89%E8%B6%81%E6%83%85%E4%BE%A3%E5%90%B5%E6%9E%B6%E4%B8%8A%E5%89%8D%E6%90%AD%E8%AE%AA%E8%A2%AB%E6%89%93%23" target="weibo">
 醉汉趁情侣吵架上前搭讪被打（热度：771234）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%23" target="weibo">
+伊朗（热度：769663）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ iPhone14Pro息屏可不显示壁纸（热度：625106）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E8%AE%A2%E5%A9%9A%E5%AE%B4%E7%9A%84%E8%8F%9C%E4%B9%9F%E5%A4%AA%E7%A1%AC%E4%BA%86%23" target="weibo">
 这订婚宴的菜也太硬了（热度：600713）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%A1%E5%A1%94%E5%B0%94%E4%B8%BA%E4%B8%BE%E5%8A%9E%E4%B8%96%E7%95%8C%E6%9D%AF%E9%80%A0%E4%BA%86%E4%B8%80%E5%BA%A7%E5%9F%8E%23" target="weibo">
-卡塔尔为举办世界杯造了一座城（热度：600622）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%BD%91%E6%81%8B%E8%A2%AB%E9%AA%97%E7%99%BE%E4%B8%87%E5%90%8E%E6%8A%8A%E9%AA%97%E5%AD%90%E9%AA%97%E5%9B%9E%E5%9B%BD%23" target="weibo">
-女子网恋被骗百万后把骗子骗回国（热度：600478）
 </a>
 </li>
 

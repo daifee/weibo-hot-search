@@ -1,6 +1,6 @@
 {
   "startTime": 1668961718135,
-  "endTime": 1669006012227,
+  "endTime": 1669007986387,
   "band_list": [
     {
       "raw_hot": 4068058,
@@ -163,6 +163,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 838968,
+      "num": 838968,
+      "word": "室友被子长蘑菇小伙帮忙剪掉",
+      "onboard_time": 1669005514,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 784834,
       "num": 784834,
       "word": "25岁小伙辞去公职去看世界杯",
@@ -177,6 +185,14 @@
       "onboard_time": 1669001850,
       "rank": 3,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 769663,
+      "num": 769663,
+      "word": "伊朗",
+      "onboard_time": 1669004193,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 756864,
@@ -275,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 557819,
+      "num": 557819,
+      "word": "天娱新男团以华晨宇为目标",
+      "onboard_time": 1669007255,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 555674,
       "num": 555674,
       "word": "刘畊宏说C罗体脂率跟我差不多",
@@ -347,14 +371,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 460166,
-      "num": 460166,
-      "word": "伊朗",
-      "onboard_time": 1669004193,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 442698,
       "num": 442698,
       "word": "汤普森10记三分砍41分",
@@ -377,6 +393,14 @@
       "onboard_time": 1668991172,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 427150,
+      "num": 414610,
+      "word": "阿信微博评论区回复好走心",
+      "onboard_time": 1669005757,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 425679,
@@ -403,6 +427,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 415439,
+      "num": 415439,
+      "word": "白鹿以爱为营最新上班路透",
+      "onboard_time": 1669006417,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 414154,
       "num": 813164,
       "word": "中国水下考古又一大发现",
@@ -417,6 +449,14 @@
       "onboard_time": 1668963145,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 408418,
+      "num": 408418,
+      "word": "迪丽热巴三登精彩OK封面",
+      "onboard_time": 1669007909,
+      "rank": 12,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 407478,
@@ -627,6 +667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 272711,
+      "num": 272711,
+      "word": "奥地利2比0意大利",
+      "onboard_time": 1669003711,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 264253,
       "num": 1033514,
       "word": "世界杯中国小护旗手",
@@ -641,6 +689,14 @@
       "onboard_time": 1668987085,
       "rank": 46,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 255969,
+      "num": 243580,
+      "word": "点燃我温暖你全国九城飘雪告白",
+      "onboard_time": 1669007376,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 254165,
@@ -659,6 +715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 248172,
+      "num": 243667,
+      "word": "鹿晗将参与解说2场世界杯比赛",
+      "onboard_time": 1669006120,
+      "rank": 22,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 247064,
       "num": 247064,
       "word": "钱不是万能的",
@@ -667,19 +731,19 @@
       "category": "体育,幽默"
     },
     {
+      "raw_hot": 246829,
+      "num": 246829,
+      "word": "英格兰vs伊朗",
+      "onboard_time": 1669005635,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 245041,
       "num": 245041,
       "word": "世界杯",
       "onboard_time": 1668907471,
       "rank": 19,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 240699,
-      "num": 240699,
-      "word": "奥地利2比0意大利",
-      "onboard_time": 1669003711,
-      "rank": 29,
       "category": "体育"
     },
     {
@@ -699,20 +763,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 234293,
+      "num": 181044,
+      "word": "霉霉AMA全美音乐奖6提6中",
+      "onboard_time": 1669006898,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 228293,
       "num": 228293,
       "word": "柯南足球水平",
       "onboard_time": 1669003892,
       "rank": 25,
       "category": "影视,动漫"
-    },
-    {
-      "raw_hot": 227698,
-      "num": 227698,
-      "word": "室友被子长蘑菇小伙帮忙剪掉",
-      "onboard_time": 1669005514,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 227671,
@@ -787,20 +851,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 202867,
+      "num": 180926,
+      "word": "王海称小杨哥质检报告是假的",
+      "onboard_time": 1669007853,
+      "rank": 32,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 198431,
       "num": 198431,
       "word": "成毅平江慢生活大片",
       "onboard_time": 1669004731,
       "rank": 42,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 196529,
-      "num": 196529,
-      "word": "阿信微博评论区回复好走心",
-      "onboard_time": 1669005757,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 195320,
@@ -915,6 +979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 159333,
+      "num": 136398,
+      "word": "陈飞宇张婧仪隔空玩游戏",
+      "onboard_time": 1669006596,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 156791,
       "num": 156791,
       "word": "徐明浩又更新演唱会视频了",
@@ -955,11 +1027,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 147939,
-      "num": 147939,
-      "word": "英格兰vs伊朗",
-      "onboard_time": 1669005635,
-      "rank": 44,
+      "raw_hot": 147331,
+      "num": 147331,
+      "word": "浓眉30分18篮板",
+      "onboard_time": 1669007736,
+      "rank": 37,
       "category": "体育"
     },
     {
@@ -1011,12 +1083,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 136428,
+      "num": 136428,
+      "word": "英格兰队战伊朗前将单膝下跪",
+      "onboard_time": 1669007498,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 133302,
+      "num": 133302,
+      "word": "退钱哥揭幕战现场举国旗",
+      "onboard_time": 1669007736,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 131411,
       "num": 131411,
       "word": "青岛球迷海上拼出巨幅球星海报",
       "onboard_time": 1669005998,
       "rank": 49,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 130871,
+      "num": 130871,
+      "word": "卡塔尔吉祥物",
+      "onboard_time": 1669007614,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 129656,
