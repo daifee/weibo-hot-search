@@ -1,6 +1,6 @@
 {
   "startTime": 1668961718135,
-  "endTime": 1669062972221,
+  "endTime": 1669065645260,
   "band_list": [
     {
       "raw_hot": 4068058,
@@ -2571,6 +2571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124560,
+      "num": 124560,
+      "word": "特朗普推特24小时涨粉近亿",
+      "onboard_time": 1669060573,
+      "rank": 17,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 124451,
       "num": 118470,
       "word": "蔡徐坤前东家晒练习生整形费用",
@@ -3019,6 +3027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 66930,
+      "num": 19016,
+      "word": "贝尔点球破门",
+      "onboard_time": 1669065372,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 64836,
       "num": 64836,
       "word": "香芋精什么时候下线",
@@ -3041,14 +3057,6 @@
       "onboard_time": 1668964344,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 57104,
-      "num": 57104,
-      "word": "特朗普推特24小时涨粉近亿",
-      "onboard_time": 1669060573,
-      "rank": 17,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 56771,
@@ -3075,20 +3083,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 48667,
+      "num": 38434,
+      "word": "城管局回应郑州3人当街打商贩",
+      "onboard_time": 1669060272,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 47423,
       "num": 47423,
       "word": "塞内加尔vs荷兰首发",
       "onboard_time": 1669052000,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 44806,
-      "num": 38434,
-      "word": "城管局回应郑州3人当街打商贩",
-      "onboard_time": 1669060272,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 42799,
@@ -3107,6 +3115,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 38823,
+      "num": 19015,
+      "word": "贝尔世界杯首秀",
+      "onboard_time": 1669065432,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 38292,
       "num": 38292,
       "word": "世界上的另一个三少主",
@@ -3115,12 +3131,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 30160,
+      "num": 19015,
+      "word": "卡塔尔世界杯能赚多少钱",
+      "onboard_time": 1669061352,
+      "rank": 47,
+      "category": "财经,体育"
+    },
+    {
       "raw_hot": 25960,
       "num": 353156,
       "word": "这次又被臭宝装到了",
       "onboard_time": 1669028438,
       "rank": 14,
       "category": "美食"
+    },
+    {
+      "raw_hot": 22017,
+      "num": 22017,
+      "word": "37岁C罗大腿恐怖肌肉",
+      "onboard_time": 1669064173,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 21288,
@@ -3139,20 +3171,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 17926,
+      "num": 17926,
+      "word": "英格兰球迷有多疯狂",
+      "onboard_time": 1669064653,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 15118,
       "num": 15118,
       "word": "卡塔尔门将",
       "onboard_time": 1669055775,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 13541,
-      "num": 13541,
-      "word": "卡塔尔世界杯能赚多少钱",
-      "onboard_time": 1669061352,
-      "rank": 47,
-      "category": "财经,体育"
     }
   ],
   "hotgov_list": [
