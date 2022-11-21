@@ -1,6 +1,6 @@
 {
   "startTime": 1668961718135,
-  "endTime": 1669038834154,
+  "endTime": 1669040345725,
   "band_list": [
     {
       "raw_hot": 4068058,
@@ -19,8 +19,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 2885158,
-      "num": 2885158,
+      "raw_hot": 3185937,
+      "num": 3185937,
       "word": "英格兰vs伊朗",
       "onboard_time": 1669005635,
       "rank": 44,
@@ -40,6 +40,14 @@
       "word": "退钱哥",
       "onboard_time": 1668999090,
       "rank": 1,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2383893,
+      "num": 2383893,
+      "word": "贝克汉姆",
+      "onboard_time": 1669036779,
+      "rank": 8,
       "category": "体育"
     },
     {
@@ -107,7 +115,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1403755,
+      "raw_hot": 1458438,
       "num": 1403755,
       "word": "鹿晗解说",
       "onboard_time": 1669037920,
@@ -121,14 +129,6 @@
       "onboard_time": 1668991533,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1261317,
-      "num": 1261317,
-      "word": "贝克汉姆",
-      "onboard_time": 1669036779,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 1246040,
@@ -195,6 +195,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 1044400,
+      "num": 471163,
+      "word": "中国千万资产家庭达206万户",
+      "onboard_time": 1669034564,
+      "rank": 11,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 1018058,
       "num": 1018058,
       "word": "李峋从垃圾桶捡吃的",
@@ -249,14 +257,6 @@
       "onboard_time": 1669005514,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 941405,
-      "num": 436311,
-      "word": "中国千万资产家庭达206万户",
-      "onboard_time": 1669034564,
-      "rank": 11,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 906461,
@@ -337,6 +337,14 @@
       "onboard_time": 1669001850,
       "rank": 3,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 758963,
+      "num": 758963,
+      "word": "成都疫情防控",
+      "onboard_time": 1669039061,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 756864,
@@ -443,6 +451,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 625869,
+      "num": 444838,
+      "word": "英格兰半场3比0伊朗",
+      "onboard_time": 1669040085,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 622179,
       "num": 622179,
       "word": "不能在朋友圈分享的喜悦",
@@ -500,7 +516,7 @@
     },
     {
       "raw_hot": 562692,
-      "num": 473889,
+      "num": 555339,
       "word": "陶昕然说如果我天天跟孙俪比就只能跳楼",
       "onboard_time": 1669034382,
       "rank": 33,
@@ -529,6 +545,14 @@
       "onboard_time": 1668953791,
       "rank": 7,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 549539,
+      "num": 549539,
+      "word": "贝克汉姆 帅",
+      "onboard_time": 1669038403,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 544755,
@@ -803,6 +827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 411009,
+      "num": 411009,
+      "word": "陈飞宇张婧仪用嘴放烟花花絮",
+      "onboard_time": 1669036181,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 409189,
       "num": 409189,
       "word": "240斤男子为结婚5个月减90斤",
@@ -851,6 +883,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 389232,
+      "num": 389232,
+      "word": "伊朗门将伤退",
+      "onboard_time": 1669037564,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 388718,
       "num": 388718,
       "word": "无疫情地区不得扩大核酸检测范围",
@@ -872,6 +912,14 @@
       "word": "北京增社会面42例",
       "onboard_time": 1669023574,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 383434,
+      "num": 383434,
+      "word": "两男子凌晨持刀脱鞋在居民楼乱窜",
+      "onboard_time": 1669036479,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -953,14 +1001,6 @@
       "onboard_time": 1669027719,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 362501,
-      "num": 337920,
-      "word": "陈飞宇张婧仪用嘴放烟花花絮",
-      "onboard_time": 1669036181,
-      "rank": 20,
-      "category": "影视"
     },
     {
       "raw_hot": 358260,
@@ -1243,6 +1283,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 278978,
+      "num": 278978,
+      "word": "被尹嵩气死",
+      "onboard_time": 1669039124,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 277252,
       "num": 277252,
       "word": "尹峥李薇吵不过1天就和好",
@@ -1280,14 +1328,6 @@
       "word": "世界杯中国小护旗手",
       "onboard_time": 1668998850,
       "rank": 2,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 263862,
-      "num": 263862,
-      "word": "伊朗门将伤退",
-      "onboard_time": 1669037564,
-      "rank": 25,
       "category": "体育"
     },
     {
@@ -1411,14 +1451,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 243379,
-      "num": 243379,
-      "word": "两男子凌晨持刀脱鞋在居民楼乱窜",
-      "onboard_time": 1669036479,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 239973,
       "num": 239973,
       "word": "小伙自费百元拍到高清中国空间站",
@@ -1441,6 +1473,14 @@
       "onboard_time": 1669006898,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 233450,
+      "num": 233450,
+      "word": "做头发比整容还贵",
+      "onboard_time": 1669038942,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 228293,
@@ -1523,6 +1563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 209181,
+      "num": 209181,
+      "word": "正常人谁买这玩意儿",
+      "onboard_time": 1669036904,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 206095,
       "num": 206095,
       "word": "丁禹兮彭小苒新剧过审",
@@ -1572,7 +1620,7 @@
     },
     {
       "raw_hot": 200965,
-      "num": 157493,
+      "num": 196253,
       "word": "阳华妈妈突击查房",
       "onboard_time": 1669037803,
       "rank": 33,
@@ -1603,12 +1651,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 197434,
+      "num": 197434,
+      "word": "辱母案当事人于欢现状",
+      "onboard_time": 1669039552,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 197329,
       "num": 193399,
       "word": "卿卿日常不是白露是霜降",
       "onboard_time": 1669017394,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 197251,
+      "num": 197251,
+      "word": "光腿神器能有多逼真",
+      "onboard_time": 1669037140,
+      "rank": 41,
+      "category": "时尚"
     },
     {
       "raw_hot": 196446,
@@ -1667,6 +1731,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 185376,
+      "num": 185376,
+      "word": "9人捕捞极危长江鲟吃了3尾养死3尾",
+      "onboard_time": 1669038225,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 185313,
       "num": 185313,
       "word": "这小子是刘星吧",
@@ -1689,14 +1761,6 @@
       "onboard_time": 1668961529,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 179513,
-      "num": 179513,
-      "word": "贝克汉姆 帅",
-      "onboard_time": 1669038403,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 179507,
@@ -1819,14 +1883,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 167969,
-      "num": 167969,
-      "word": "正常人谁买这玩意儿",
-      "onboard_time": 1669036904,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 163878,
       "num": 163878,
       "word": "男孩被卷车底路人30秒极速救援",
@@ -1865,6 +1921,14 @@
       "onboard_time": 1669006596,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 158864,
+      "num": 158864,
+      "word": "世界杯首日一医院收治20多位球迷",
+      "onboard_time": 1669039727,
+      "rank": 39,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 158691,
@@ -1921,14 +1985,6 @@
       "onboard_time": 1669002151,
       "rank": 44,
       "category": "教育"
-    },
-    {
-      "raw_hot": 151388,
-      "num": 151388,
-      "word": "光腿神器能有多逼真",
-      "onboard_time": 1669037140,
-      "rank": 41,
-      "category": "时尚"
     },
     {
       "raw_hot": 148549,
@@ -2043,6 +2099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 139455,
+      "num": 139455,
+      "word": "贝林厄姆世界杯首球",
+      "onboard_time": 1669040085,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 139231,
       "num": 139231,
       "word": "狗狗去日托班上学也有校车",
@@ -2083,6 +2147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 137098,
+      "num": 137098,
+      "word": "贝林厄姆头球破门",
+      "onboard_time": 1669040270,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 136803,
       "num": 136803,
       "word": "英格兰名宿欧文预测法国夺冠",
@@ -2115,6 +2187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 132908,
+      "num": 132908,
+      "word": "李薇端水",
+      "onboard_time": 1669039606,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 131484,
       "num": 131484,
       "word": "沉没百余年的古船已出水600件文物",
@@ -2137,14 +2217,6 @@
       "onboard_time": 1668992252,
       "rank": 46,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 127302,
-      "num": 127302,
-      "word": "9人捕捞极危长江鲟吃了3尾养死3尾",
-      "onboard_time": 1669038225,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 126770,
@@ -2176,6 +2248,14 @@
       "word": "汤普森首节20分",
       "onboard_time": 1668997647,
       "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 125291,
+      "num": 125291,
+      "word": "伊朗队开场未唱国歌",
+      "onboard_time": 1669040325,
+      "rank": 49,
       "category": "体育"
     },
     {

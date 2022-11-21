@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1669038834154,
+  "endTime": 1669040345725,
   "band_list": [
     {
       "raw_hot": 10543272,
@@ -259,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3185937,
+      "num": 3185937,
+      "word": "英格兰vs伊朗",
+      "onboard_time": 1669005635,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 3169070,
       "num": 370279,
       "word": "143",
@@ -328,14 +336,6 @@
       "word": "张伟丽",
       "onboard_time": 1668305250,
       "rank": 7,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 2885158,
-      "num": 2885158,
-      "word": "英格兰vs伊朗",
-      "onboard_time": 1669005635,
-      "rank": 44,
       "category": "体育"
     },
     {
@@ -561,6 +561,14 @@
       "onboard_time": 1668676588,
       "rank": 32,
       "category": "教育"
+    },
+    {
+      "raw_hot": 2383893,
+      "num": 2383893,
+      "word": "贝克汉姆",
+      "onboard_time": 1669036779,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 2381567,
@@ -1963,6 +1971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1458438,
+      "num": 1403755,
+      "word": "鹿晗解说",
+      "onboard_time": 1669037920,
+      "rank": 3,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 1457078,
       "num": 1457078,
       "word": "武汉疫情防控",
@@ -2137,14 +2153,6 @@
       "onboard_time": 1668501271,
       "rank": 25,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1403755,
-      "num": 1403755,
-      "word": "鹿晗解说",
-      "onboard_time": 1669037920,
-      "rank": 3,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 1400156,
@@ -2529,14 +2537,6 @@
       "onboard_time": 1668991533,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1261317,
-      "num": 1261317,
-      "word": "贝克汉姆",
-      "onboard_time": 1669036779,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 1257641,
@@ -3467,6 +3467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1044400,
+      "num": 471163,
+      "word": "中国千万资产家庭达206万户",
+      "onboard_time": 1669034564,
+      "rank": 11,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 1043920,
       "num": 241679,
       "word": "关晓彤发型",
@@ -4209,14 +4217,6 @@
       "onboard_time": 1668070828,
       "rank": 1,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 941405,
-      "num": 436311,
-      "word": "中国千万资产家庭达206万户",
-      "onboard_time": 1669034564,
-      "rank": 11,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 940656,
@@ -5849,6 +5849,14 @@
       "onboard_time": 1667717846,
       "rank": 10,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 758963,
+      "num": 758963,
+      "word": "成都疫情防控",
+      "onboard_time": 1667868450,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 758879,
@@ -7763,6 +7771,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 625869,
+      "num": 444838,
+      "word": "英格兰半场3比0伊朗",
+      "onboard_time": 1669040085,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 625743,
       "num": 487297,
       "word": "特斯拉潮州失控事故家属视频回应",
@@ -8956,7 +8972,7 @@
     },
     {
       "raw_hot": 562692,
-      "num": 473889,
+      "num": 555339,
       "word": "陶昕然说如果我天天跟孙俪比就只能跳楼",
       "onboard_time": 1669034382,
       "rank": 33,
@@ -9376,6 +9392,14 @@
       "word": "勇士 累死库里",
       "onboard_time": 1667530645,
       "rank": 6,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 549539,
+      "num": 549539,
+      "word": "贝克汉姆 帅",
+      "onboard_time": 1669038403,
+      "rank": 27,
       "category": "体育"
     },
     {
@@ -10440,14 +10464,6 @@
       "word": "男生疑食堂秤有问题用饮料自测证实",
       "onboard_time": 1667313270,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 508592,
-      "num": 508592,
-      "word": "成都疫情防控",
-      "onboard_time": 1667868450,
-      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -13851,6 +13867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 411009,
+      "num": 411009,
+      "word": "陈飞宇张婧仪用嘴放烟花花絮",
+      "onboard_time": 1669036181,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 410429,
       "num": 410429,
       "word": "两男子深夜追赶女子被学生喝止",
@@ -14739,6 +14763,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 389232,
+      "num": 389232,
+      "word": "伊朗门将伤退",
+      "onboard_time": 1669037564,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 389118,
       "num": 389118,
       "word": "薛之谦想看梅西拿奖杯",
@@ -14985,6 +15017,14 @@
       "onboard_time": 1667735967,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 383434,
+      "num": 383434,
+      "word": "两男子凌晨持刀脱鞋在居民楼乱窜",
+      "onboard_time": 1669036479,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 383378,
@@ -15905,14 +15945,6 @@
       "onboard_time": 1668440128,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 362501,
-      "num": 337920,
-      "word": "陈飞宇张婧仪用嘴放烟花花絮",
-      "onboard_time": 1669036181,
-      "rank": 20,
-      "category": "影视"
     },
     {
       "raw_hot": 362418,
@@ -20627,6 +20659,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 278978,
+      "num": 278978,
+      "word": "被尹嵩气死",
+      "onboard_time": 1669039124,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 278903,
       "num": 148031,
       "word": "王鹤棣唱情歌",
@@ -21689,14 +21729,6 @@
       "onboard_time": 1668859949,
       "rank": 21,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 263862,
-      "num": 263862,
-      "word": "伊朗门将伤退",
-      "onboard_time": 1669037564,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 263810,
@@ -22963,14 +22995,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 243379,
-      "num": 243379,
-      "word": "两男子凌晨持刀脱鞋在居民楼乱窜",
-      "onboard_time": 1669036479,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 243155,
       "num": 243155,
       "word": "11月7日新增本土无症状6632例",
@@ -23721,6 +23745,14 @@
       "onboard_time": 1667705907,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 233450,
+      "num": 233450,
+      "word": "做头发比整容还贵",
+      "onboard_time": 1669038942,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 233332,
@@ -25891,6 +25923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 209181,
+      "num": 209181,
+      "word": "正常人谁买这玩意儿",
+      "onboard_time": 1669036904,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 209162,
       "num": 209162,
       "word": "老父爱子同患重症80后男子崩溃大哭",
@@ -26684,7 +26724,7 @@
     },
     {
       "raw_hot": 200965,
-      "num": 157493,
+      "num": 196253,
       "word": "阳华妈妈突击查房",
       "onboard_time": 1669037803,
       "rank": 33,
@@ -27043,6 +27083,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 197434,
+      "num": 197434,
+      "word": "辱母案当事人于欢现状",
+      "onboard_time": 1669039552,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 197422,
       "num": 197422,
       "word": "新东方烹饪学校直播招生",
@@ -27065,6 +27113,14 @@
       "onboard_time": 1669017394,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 197251,
+      "num": 197251,
+      "word": "光腿神器能有多逼真",
+      "onboard_time": 1669037140,
+      "rank": 41,
+      "category": "时尚"
     },
     {
       "raw_hot": 197188,
@@ -28371,6 +28427,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 185376,
+      "num": 185376,
+      "word": "9人捕捞极危长江鲟吃了3尾养死3尾",
+      "onboard_time": 1669038225,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 185345,
       "num": 185345,
       "word": "感情之间分享欲重要吗",
@@ -29017,14 +29081,6 @@
       "onboard_time": 1668504510,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 179513,
-      "num": 179513,
-      "word": "贝克汉姆 帅",
-      "onboard_time": 1669038403,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 179507,
@@ -30169,14 +30225,6 @@
       "onboard_time": 1668685950,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 167969,
-      "num": 167969,
-      "word": "正常人谁买这玩意儿",
-      "onboard_time": 1669036904,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 167938,
@@ -31379,6 +31427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 158864,
+      "num": 158864,
+      "word": "世界杯首日一医院收治20多位球迷",
+      "onboard_time": 1669039727,
+      "rank": 39,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 158832,
       "num": 96778,
       "word": "朱韵问李峋什么是公主",
@@ -32201,14 +32257,6 @@
       "onboard_time": 1667526686,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 151388,
-      "num": 151388,
-      "word": "光腿神器能有多逼真",
-      "onboard_time": 1669037140,
-      "rank": 41,
-      "category": "时尚"
     },
     {
       "raw_hot": 151379,
@@ -33947,6 +33995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 139455,
+      "num": 139455,
+      "word": "贝林厄姆世界杯首球",
+      "onboard_time": 1669040085,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 139418,
       "num": 139418,
       "word": "开幕式好短",
@@ -34281,6 +34337,14 @@
       "onboard_time": 1668676470,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 137098,
+      "num": 137098,
+      "word": "贝林厄姆头球破门",
+      "onboard_time": 1669040270,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 137061,
@@ -34897,6 +34961,14 @@
       "onboard_time": 1668094045,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 132908,
+      "num": 132908,
+      "word": "李薇端水",
+      "onboard_time": 1669039606,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 132815,
@@ -35715,14 +35787,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 127302,
-      "num": 127302,
-      "word": "9人捕捞极危长江鲟吃了3尾养死3尾",
-      "onboard_time": 1669038225,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 127299,
       "num": 127299,
       "word": "一个人住可以有多爽",
@@ -36001,6 +36065,14 @@
       "onboard_time": 1668163831,
       "rank": 38,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 125291,
+      "num": 125291,
+      "word": "伊朗队开场未唱国歌",
+      "onboard_time": 1669040325,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 125176,
