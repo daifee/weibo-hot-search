@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1669030430754,
+  "endTime": 1669034547646,
   "band_list": [
     {
       "raw_hot": 10543272,
@@ -3643,6 +3643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1018058,
+      "num": 1018058,
+      "word": "李峋从垃圾桶捡吃的",
+      "onboard_time": 1669030058,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1017802,
       "num": 613110,
       "word": "韩剧cheerup男二未上位",
@@ -5745,6 +5753,14 @@
       "onboard_time": 1668223950,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 763681,
+      "num": 763681,
+      "word": "郝葭怀孕",
+      "onboard_time": 1669034382,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 763194,
@@ -8259,6 +8275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 592411,
+      "num": 405172,
+      "word": "鹿晗回复退钱哥说世界杯结束约一场",
+      "onboard_time": 1669031563,
+      "rank": 10,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 591582,
       "num": 591582,
       "word": "肖八",
@@ -9417,6 +9441,14 @@
       "onboard_time": 1668480809,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 544008,
+      "num": 544008,
+      "word": "卡塔尔把公交开出了跑车感",
+      "onboard_time": 1669030180,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 543699,
@@ -12643,6 +12675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 438172,
+      "num": 438172,
+      "word": "新娘坐婚车内临出发时仍在谈生意",
+      "onboard_time": 1669027540,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 437989,
       "num": 437989,
       "word": "台北故宫文物毁损视频首曝光",
@@ -12907,6 +12947,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 433085,
+      "num": 433085,
+      "word": "李峋入狱三年归来仍是醋坛子",
+      "onboard_time": 1669031680,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 432811,
       "num": 432811,
       "word": "10岁女孩遇诈骗9岁妹妹劝阻报警",
@@ -13075,12 +13123,28 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 428131,
+      "num": 402324,
+      "word": "赤木刚宪配音去世",
+      "onboard_time": 1669032162,
+      "rank": 11,
+      "category": "动漫,影视"
+    },
+    {
       "raw_hot": 428007,
       "num": 428007,
       "word": "这就是小说里的一眼万年吗",
       "onboard_time": 1667790266,
       "rank": 17,
       "category": "情感,艺人"
+    },
+    {
+      "raw_hot": 427842,
+      "num": 427842,
+      "word": "iPhone14Pro发货延期至2023年",
+      "onboard_time": 1669031801,
+      "rank": 9,
+      "category": "科技"
     },
     {
       "raw_hot": 427417,
@@ -14171,14 +14235,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 400262,
-      "num": 400262,
-      "word": "新娘坐婚车内临出发时仍在谈生意",
-      "onboard_time": 1669027540,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 400159,
       "num": 400159,
       "word": "徐志胜说吾与鹿晗孰美",
@@ -15043,6 +15099,14 @@
       "category": "教育,科技"
     },
     {
+      "raw_hot": 379941,
+      "num": 379941,
+      "word": "英格兰vs伊朗",
+      "onboard_time": 1669005635,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 379915,
       "num": 379915,
       "word": "王鹤棣发文庆出道五周年",
@@ -15889,6 +15953,14 @@
       "onboard_time": 1668689845,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 360324,
+      "num": 360324,
+      "word": "太太团将入住10亿镑豪华游轮",
+      "onboard_time": 1669027719,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 360161,
@@ -16825,14 +16897,6 @@
       "onboard_time": 1667823448,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 342033,
-      "num": 342033,
-      "word": "太太团将入住10亿镑豪华游轮",
-      "onboard_time": 1669027719,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 342023,
@@ -21963,14 +22027,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 257572,
-      "num": 257572,
-      "word": "英格兰vs伊朗",
-      "onboard_time": 1669005635,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 257060,
       "num": 257060,
       "word": "李泳知rap",
@@ -22235,6 +22291,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 252578,
+      "num": 245914,
+      "word": "张婧仪戏里戏外都在安慰陈飞宇",
+      "onboard_time": 1669033110,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 252215,
       "num": 252215,
       "word": "跨省旅游经营活动不再与风险区实施联动管理",
@@ -22427,6 +22491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 249480,
+      "num": 249480,
+      "word": "LBL对战JDG",
+      "onboard_time": 1669032403,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 249447,
       "num": 230803,
       "word": "杨幂秦施时装秀",
@@ -22545,6 +22617,14 @@
       "onboard_time": 1668179792,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 247767,
+      "num": 247767,
+      "word": "太原疫情防控",
+      "onboard_time": 1669029102,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 247642,
@@ -23385,6 +23465,14 @@
       "onboard_time": 1668858747,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 234672,
+      "num": 234672,
+      "word": "太快确定关系的恋爱会长久吗",
+      "onboard_time": 1669033239,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 234627,
@@ -25819,6 +25907,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 207728,
+      "num": 207728,
+      "word": "1岁宝宝不吃奶却爱吃土",
+      "onboard_time": 1669032701,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 207716,
       "num": 199013,
       "word": "王一博的舞台后劲有多大",
@@ -26041,14 +26137,6 @@
       "onboard_time": 1667789726,
       "rank": 27,
       "category": "科技"
-    },
-    {
-      "raw_hot": 205309,
-      "num": 199153,
-      "word": "李峋从垃圾桶捡吃的",
-      "onboard_time": 1669030058,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 205283,
@@ -26521,6 +26609,14 @@
       "onboard_time": 1667893046,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 200816,
+      "num": 185028,
+      "word": "k4",
+      "onboard_time": 1669030478,
+      "rank": 30,
+      "category": "科技,艺人"
     },
     {
       "raw_hot": 200805,
@@ -28179,12 +28275,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 185313,
+      "num": 185313,
+      "word": "这小子是刘星吧",
+      "onboard_time": 1669031079,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 185304,
       "num": 168538,
       "word": "点燃我温暖你校园感",
       "onboard_time": 1668007468,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 185239,
+      "num": 185239,
+      "word": "脱离华为两年后荣耀现状如何",
+      "onboard_time": 1669031500,
+      "rank": 29,
+      "category": "科技"
     },
     {
       "raw_hot": 185119,
@@ -28545,6 +28657,14 @@
       "onboard_time": 1667809588,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 181579,
+      "num": 181579,
+      "word": "央视揭大牌尾货骨折价背后猫腻",
+      "onboard_time": 1669033057,
+      "rank": 31,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 181520,
@@ -29571,6 +29691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 171766,
+      "num": 171766,
+      "word": "陶昕然说如果我天天跟孙俪比就只能跳楼",
+      "onboard_time": 1669034382,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 171759,
       "num": 171759,
       "word": "梅西与阿根廷国家队会合",
@@ -29617,6 +29745,14 @@
       "onboard_time": 1667441543,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 171429,
+      "num": 171429,
+      "word": "好喜欢这种慢慢来的恋爱",
+      "onboard_time": 1669030299,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 171399,
@@ -30001,6 +30137,14 @@
       "onboard_time": 1667988086,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167347,
+      "num": 167347,
+      "word": "晋江崩了",
+      "onboard_time": 1669032941,
+      "rank": 35,
+      "category": "科技"
     },
     {
       "raw_hot": 167312,
@@ -32963,14 +33107,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 143699,
-      "num": 143699,
-      "word": "太原疫情防控",
-      "onboard_time": 1669029102,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 143676,
       "num": 143676,
       "word": "新冠肺炎疫情居家健康监测指南",
@@ -33731,6 +33867,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 139231,
+      "num": 139231,
+      "word": "狗狗去日托班上学也有校车",
+      "onboard_time": 1669032340,
+      "rank": 40,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 139120,
       "num": 139120,
       "word": "这钢化膜到底好还是不好",
@@ -33849,6 +33993,14 @@
       "onboard_time": 1667790448,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 138077,
+      "num": 138077,
+      "word": "英格兰首发",
+      "onboard_time": 1669032403,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 137977,
@@ -34961,14 +35113,6 @@
       "onboard_time": 1668411748,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 130994,
-      "num": 130994,
-      "word": "卡塔尔把公交开出了跑车感",
-      "onboard_time": 1669030180,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 130968,
@@ -37467,14 +37611,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 110956,
-      "num": 110956,
-      "word": "好喜欢这种慢慢来的恋爱",
-      "onboard_time": 1669030299,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
       "raw_hot": 110816,
       "num": 110816,
       "word": "偶遇陈飞宇青岛拍戏",
@@ -37488,6 +37624,14 @@
       "word": "聋哑母亲几十年如一日为家人擀面条",
       "onboard_time": 1668155739,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 110655,
+      "num": 110655,
+      "word": "太原一家化工厂发生爆炸",
+      "onboard_time": 1669034143,
+      "rank": 47,
       "category": "社会新闻"
     },
     {

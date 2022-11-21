@@ -1,0 +1,410 @@
+{
+  "runTime": 1669034547646,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1354224,
+        "num": 1354224,
+        "word": "卡塔尔王子",
+        "onboard_time": 1669017937,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1018058,
+        "num": 1018058,
+        "word": "李峋从垃圾桶捡吃的",
+        "onboard_time": 1669030058,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 64630,
+        "num": 803305,
+        "word": "中国水下考古又一大发现",
+        "onboard_time": 1669002092,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 763681,
+        "num": 763681,
+        "word": "郝葭怀孕",
+        "onboard_time": 1669034382,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 690426,
+        "num": 690426,
+        "word": "台湾电价是什么水平",
+        "onboard_time": 1669027358,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 544008,
+        "num": 544008,
+        "word": "卡塔尔把公交开出了跑车感",
+        "onboard_time": 1669030180,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 438172,
+        "num": 438172,
+        "word": "新娘坐婚车内临出发时仍在谈生意",
+        "onboard_time": 1669027540,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 434837,
+        "num": 434837,
+        "word": "网友留差评8年后收到店家道歉",
+        "onboard_time": 1669022972,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 433085,
+        "num": 433085,
+        "word": "李峋入狱三年归来仍是醋坛子",
+        "onboard_time": 1669031680,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 427842,
+        "num": 427842,
+        "word": "iPhone14Pro发货延期至2023年",
+        "onboard_time": 1669031801,
+        "rank": 9,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 592411,
+        "num": 405172,
+        "word": "鹿晗回复退钱哥说世界杯结束约一场",
+        "onboard_time": 1669031563,
+        "rank": 10,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 428131,
+        "num": 402324,
+        "word": "赤木刚宪配音去世",
+        "onboard_time": 1669032162,
+        "rank": 11,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 379941,
+        "num": 379941,
+        "word": "英格兰vs伊朗",
+        "onboard_time": 1669033110,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 373353,
+        "num": 373353,
+        "word": "欧阳娜娜品牌定价",
+        "onboard_time": 1669018652,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 360324,
+        "num": 360324,
+        "word": "太太团将入住10亿镑豪华游轮",
+        "onboard_time": 1669027719,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 288407,
+        "num": 288407,
+        "word": "校招研究生简历连续5年占比超7成",
+        "onboard_time": 1669027419,
+        "rank": 15,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 284157,
+        "num": 284157,
+        "word": "这是一个没有穷人的国家",
+        "onboard_time": 1669025138,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 265943,
+        "num": 265943,
+        "word": "西班牙队7名球员吹空调感冒",
+        "onboard_time": 1669022315,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 256207,
+        "num": 256207,
+        "word": "22日起进返京人员落地三天三检",
+        "onboard_time": 1669028381,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249480,
+        "num": 249480,
+        "word": "LBL对战JDG",
+        "onboard_time": 1669032403,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 257835,
+        "num": 248719,
+        "word": "徐黎娜高见鸿cp名",
+        "onboard_time": 1669029818,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 247767,
+        "num": 247767,
+        "word": "太原疫情防控",
+        "onboard_time": 1669029102,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252578,
+        "num": 245914,
+        "word": "张婧仪戏里戏外都在安慰陈飞宇",
+        "onboard_time": 1669033110,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 241087,
+        "num": 241087,
+        "word": "想坐王鹤棣时宴的副驾",
+        "onboard_time": 1669028079,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 234672,
+        "num": 234672,
+        "word": "太快确定关系的恋爱会长久吗",
+        "onboard_time": 1669033239,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 220531,
+        "num": 220531,
+        "word": "奶茶店老板娘回应穿着性感被举报",
+        "onboard_time": 1669013614,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208056,
+        "num": 208056,
+        "word": "今晚调油价",
+        "onboard_time": 1669024117,
+        "rank": 26,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 207728,
+        "num": 207728,
+        "word": "1岁宝宝不吃奶却爱吃土",
+        "onboard_time": 1669032701,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185313,
+        "num": 185313,
+        "word": "这小子是刘星吧",
+        "onboard_time": 1669031079,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 185239,
+        "num": 185239,
+        "word": "脱离华为两年后荣耀现状如何",
+        "onboard_time": 1669031500,
+        "rank": 29,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 200816,
+        "num": 185028,
+        "word": "k4",
+        "onboard_time": 1669030478,
+        "rank": 30,
+        "category": "科技,艺人"
+      },
+      {
+        "raw_hot": 181579,
+        "num": 181579,
+        "word": "央视揭大牌尾货骨折价背后猫腻",
+        "onboard_time": 1669033057,
+        "rank": 31,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 172089,
+        "num": 172089,
+        "word": "女子婚礼前夜被告知婚庆公司跑路",
+        "onboard_time": 1669024539,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171766,
+        "num": 171766,
+        "word": "陶昕然说如果我天天跟孙俪比就只能跳楼",
+        "onboard_time": 1669034382,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 171429,
+        "num": 171429,
+        "word": "好喜欢这种慢慢来的恋爱",
+        "onboard_time": 1669030299,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 167347,
+        "num": 167347,
+        "word": "晋江崩了",
+        "onboard_time": 1669032941,
+        "rank": 35,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 166205,
+        "num": 166205,
+        "word": "女子买猫粮获赠蟑螂虫干",
+        "onboard_time": 1669028198,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158233,
+        "num": 158233,
+        "word": "卡塔尔在当一种很新的东道主",
+        "onboard_time": 1669018952,
+        "rank": 37,
+        "category": "体育,幽默"
+      },
+      {
+        "raw_hot": 158003,
+        "num": 158003,
+        "word": "世界杯最贵球队登场",
+        "onboard_time": 1669020514,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141215,
+        "num": 141215,
+        "word": "尹峥李薇吵不过1天就和好",
+        "onboard_time": 1669029700,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 139231,
+        "num": 139231,
+        "word": "狗狗去日托班上学也有校车",
+        "onboard_time": 1669032340,
+        "rank": 40,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 138077,
+        "num": 138077,
+        "word": "英格兰首发",
+        "onboard_time": 1669032403,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136813,
+        "num": 136813,
+        "word": "北京倡导疫情严重区域实行弹性上班",
+        "onboard_time": 1669024655,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130849,
+        "num": 130849,
+        "word": "在线收留卡塔尔心碎王子",
+        "onboard_time": 1669020636,
+        "rank": 43,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 128428,
+        "num": 128428,
+        "word": "柯南史上最be剧情",
+        "onboard_time": 1669020813,
+        "rank": 44,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 112469,
+        "num": 112469,
+        "word": "卡塔尔为何花这么多钱举办世界杯",
+        "onboard_time": 1669029879,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112353,
+        "num": 112353,
+        "word": "男子街头买4箱冷冻海鲜全是空壳注水",
+        "onboard_time": 1669024475,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110655,
+        "num": 110655,
+        "word": "太原一家化工厂发生爆炸",
+        "onboard_time": 1669034143,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108045,
+        "num": 108045,
+        "word": "行尸走肉全剧大结局",
+        "onboard_time": 1669020273,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 106599,
+        "num": 106599,
+        "word": "秦施是小三克星吧",
+        "onboard_time": 1669029341,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#这份国礼承载着中泰两国人民的美好期待#"
+    }
+  }
+}
