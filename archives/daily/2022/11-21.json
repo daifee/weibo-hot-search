@@ -1,6 +1,6 @@
 {
   "startTime": 1668961718135,
-  "endTime": 1669038196039,
+  "endTime": 1669038834154,
   "band_list": [
     {
       "raw_hot": 4068058,
@@ -16,6 +16,14 @@
       "word": "卡塔尔vs厄瓜多尔",
       "onboard_time": 1668949769,
       "rank": 1,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2885158,
+      "num": 2885158,
+      "word": "英格兰vs伊朗",
+      "onboard_time": 1669005635,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -49,14 +57,6 @@
       "onboard_time": 1669034382,
       "rank": 3,
       "category": "影视"
-    },
-    {
-      "raw_hot": 2035783,
-      "num": 2035783,
-      "word": "英格兰vs伊朗",
-      "onboard_time": 1669005635,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 1913128,
@@ -107,12 +107,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1403755,
+      "num": 1403755,
+      "word": "鹿晗解说",
+      "onboard_time": 1669037920,
+      "rank": 3,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 1264594,
       "num": 1264594,
       "word": "美国高估了自己也低估了中国",
       "onboard_time": 1668991533,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1261317,
+      "num": 1261317,
+      "word": "贝克汉姆",
+      "onboard_time": 1669036779,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 1246040,
@@ -187,14 +203,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1005826,
-      "num": 1005826,
-      "word": "鹿晗解说",
-      "onboard_time": 1669037920,
-      "rank": 3,
-      "category": "体育,艺人"
-    },
-    {
       "raw_hot": 1002657,
       "num": 1002657,
       "word": "北京昨日新增2例死亡病例",
@@ -243,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 941405,
+      "num": 436311,
+      "word": "中国千万资产家庭达206万户",
+      "onboard_time": 1669034564,
+      "rank": 11,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 906461,
       "num": 906461,
       "word": "徐璐陈都灵2分钟预告换46套衣服",
@@ -257,14 +273,6 @@
       "onboard_time": 1669004193,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 880888,
-      "num": 431094,
-      "word": "中国千万资产家庭达206万户",
-      "onboard_time": 1669034564,
-      "rank": 11,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 867285,
@@ -491,6 +499,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 562692,
+      "num": 473889,
+      "word": "陶昕然说如果我天天跟孙俪比就只能跳楼",
+      "onboard_time": 1669034382,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 561823,
       "num": 561823,
       "word": "孩子书包鼓鼓的没一本书全是战利品",
@@ -529,14 +545,6 @@
       "onboard_time": 1669025138,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 528053,
-      "num": 528053,
-      "word": "贝克汉姆",
-      "onboard_time": 1669036779,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 519776,
@@ -643,14 +651,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 473889,
-      "num": 473889,
-      "word": "陶昕然说如果我天天跟孙俪比就只能跳楼",
-      "onboard_time": 1669034382,
-      "rank": 33,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 461496,
       "num": 461496,
       "word": "外卖小哥深夜送餐猝死清晨才被发现",
@@ -665,6 +665,14 @@
       "onboard_time": 1669014813,
       "rank": 37,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 449223,
+      "num": 449223,
+      "word": "太快确定关系的恋爱会长久吗",
+      "onboard_time": 1669033239,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 448032,
@@ -689,14 +697,6 @@
       "onboard_time": 1669020095,
       "rank": 35,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 444666,
-      "num": 444666,
-      "word": "太快确定关系的恋爱会长久吗",
-      "onboard_time": 1669033239,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 442698,
@@ -788,7 +788,7 @@
     },
     {
       "raw_hot": 414154,
-      "num": 1243026,
+      "num": 1475394,
       "word": "中国水下考古又一大发现",
       "onboard_time": 1669002092,
       "rank": 2,
@@ -953,6 +953,14 @@
       "onboard_time": 1669027719,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 362501,
+      "num": 337920,
+      "word": "陈飞宇张婧仪用嘴放烟花花絮",
+      "onboard_time": 1669036181,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 358260,
@@ -1139,14 +1147,6 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 311213,
-      "num": 241029,
-      "word": "陈飞宇张婧仪用嘴放烟花花絮",
-      "onboard_time": 1669036181,
-      "rank": 20,
-      "category": "影视"
-    },
-    {
       "raw_hot": 299708,
       "num": 288034,
       "word": "柯南史上最be剧情",
@@ -1283,6 +1283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 263862,
+      "num": 263862,
+      "word": "伊朗门将伤退",
+      "onboard_time": 1669037564,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 263553,
       "num": 263553,
       "word": "我在CCTV5追星",
@@ -1403,6 +1411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 243379,
+      "num": 243379,
+      "word": "两男子凌晨持刀脱鞋在居民楼乱窜",
+      "onboard_time": 1669036479,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 239973,
       "num": 239973,
       "word": "小伙自费百元拍到高清中国空间站",
@@ -1515,14 +1531,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 205786,
-      "num": 205786,
-      "word": "伊朗门将伤退",
-      "onboard_time": 1669037564,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 204900,
       "num": 133930,
       "word": "开幕式 沙丘",
@@ -1563,12 +1571,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 202806,
-      "num": 202806,
-      "word": "两男子凌晨持刀脱鞋在居民楼乱窜",
-      "onboard_time": 1669036479,
-      "rank": 26,
-      "category": "社会新闻"
+      "raw_hot": 200965,
+      "num": 157493,
+      "word": "阳华妈妈突击查房",
+      "onboard_time": 1669037803,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 200816,
@@ -1681,6 +1689,14 @@
       "onboard_time": 1668961529,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 179513,
+      "num": 179513,
+      "word": "贝克汉姆 帅",
+      "onboard_time": 1669038403,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 179507,
@@ -1803,6 +1819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 167969,
+      "num": 167969,
+      "word": "正常人谁买这玩意儿",
+      "onboard_time": 1669036904,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 163878,
       "num": 163878,
       "word": "男孩被卷车底路人30秒极速救援",
@@ -1848,22 +1872,6 @@
       "word": "陈飞宇碰瓷式撒娇",
       "onboard_time": 1669027114,
       "rank": 32,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 157788,
-      "num": 157788,
-      "word": "正常人谁买这玩意儿",
-      "onboard_time": 1669036904,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 157492,
-      "num": 157492,
-      "word": "阳华妈妈突击查房",
-      "onboard_time": 1669037803,
-      "rank": 33,
       "category": "影视"
     },
     {
@@ -1915,6 +1923,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 151388,
+      "num": 151388,
+      "word": "光腿神器能有多逼真",
+      "onboard_time": 1669037140,
+      "rank": 41,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 148549,
       "num": 148549,
       "word": "在钞能力面前和解有多快",
@@ -1953,6 +1969,14 @@
       "onboard_time": 1669007736,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 146130,
+      "num": 146130,
+      "word": "会动的饺子皮表情包来了",
+      "onboard_time": 1669038643,
+      "rank": 35,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 145523,
@@ -2035,6 +2059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 138321,
+      "num": 138321,
+      "word": "好想要只等我回家的小狗",
+      "onboard_time": 1669038344,
+      "rank": 38,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 138077,
       "num": 138077,
       "word": "英格兰首发",
@@ -2107,6 +2139,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 127302,
+      "num": 127302,
+      "word": "9人捕捞极危长江鲟吃了3尾养死3尾",
+      "onboard_time": 1669038225,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 126770,
       "num": 126770,
       "word": "加满一箱油将少花7元",
@@ -2161,14 +2201,6 @@
       "onboard_time": 1668928105,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 121974,
-      "num": 121974,
-      "word": "光腿神器能有多逼真",
-      "onboard_time": 1669037140,
-      "rank": 41,
-      "category": "时尚"
     },
     {
       "raw_hot": 119814,
