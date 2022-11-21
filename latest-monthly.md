@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/01 00:36:21 ~ 2022/11/21 12:30:00
+本榜单时间：2022/11/01 00:36:21 ~ 2022/11/21 12:46:52
 </p>
 </blockquote>
 <p>
@@ -4119,6 +4119,12 @@ kp 退团（热度：791639）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BB%B5%E9%98%B3%E4%B8%89%E5%8F%B0%E6%89%93%E4%BA%BA%E5%AD%A6%E7%94%9F%E8%A2%AB%E5%85%A8%E9%83%A8%E6%8A%93%E8%8E%B7%23" target="weibo">
+绵阳三台打人学生被全部抓获（热度：778994）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%B3%8B%E6%9C%B1%E9%9F%B5%E9%87%8D%E9%80%A2%23" target="weibo">
 李峋朱韵重逢（热度：778511）
 </a>
@@ -4421,12 +4427,6 @@ Rookie发文恭喜DRX（热度：759563）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E9%B9%A4%E4%B8%80%E5%92%8C%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%BC%94%E8%BF%87%E5%AF%B9%E6%89%8B%E6%88%8F%23" target="weibo">
 陈鹤一和迪丽热巴演过对手戏（热度：744330）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BB%B5%E9%98%B3%E4%B8%89%E5%8F%B0%E6%89%93%E4%BA%BA%E5%AD%A6%E7%94%9F%E8%A2%AB%E5%85%A8%E9%83%A8%E6%8A%93%E8%8E%B7%23" target="weibo">
-绵阳三台打人学生被全部抓获（热度：744038）
 </a>
 </li>
 

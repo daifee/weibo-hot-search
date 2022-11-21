@@ -1,6 +1,6 @@
 {
   "startTime": 1668961718135,
-  "endTime": 1669005000914,
+  "endTime": 1669006012227,
   "band_list": [
     {
       "raw_hot": 4068058,
@@ -171,6 +171,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 778994,
+      "num": 778994,
+      "word": "绵阳三台打人学生被全部抓获",
+      "onboard_time": 1669001850,
+      "rank": 3,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 756864,
       "num": 756864,
       "word": "石家庄六区开展全员核酸检测",
@@ -185,14 +193,6 @@
       "onboard_time": 1668993391,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 744038,
-      "num": 744038,
-      "word": "绵阳三台打人学生被全部抓获",
-      "onboard_time": 1669001850,
-      "rank": 3,
-      "category": "社会负面"
     },
     {
       "raw_hot": 719350,
@@ -347,6 +347,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 460166,
+      "num": 460166,
+      "word": "伊朗",
+      "onboard_time": 1669004193,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 442698,
       "num": 442698,
       "word": "汤普森10记三分砍41分",
@@ -393,6 +401,14 @@
       "onboard_time": 1668993991,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 414154,
+      "num": 813164,
+      "word": "中国水下考古又一大发现",
+      "onboard_time": 1669002092,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 413165,
@@ -443,6 +459,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 372650,
+      "num": 372650,
+      "word": "毛不易爱的二八定律片尾曲MV",
+      "onboard_time": 1669004550,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 370617,
       "num": 370617,
       "word": "女孩陷传销数月塞救命纸条求助",
@@ -483,20 +507,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 341499,
-      "num": 341499,
-      "word": "毛不易爱的二八定律片尾曲MV",
-      "onboard_time": 1669004550,
-      "rank": 14,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 341263,
-      "num": 805968,
-      "word": "中国水下考古又一大发现",
-      "onboard_time": 1669002092,
-      "rank": 2,
-      "category": "国内要闻"
+      "raw_hot": 341195,
+      "num": 341195,
+      "word": "这就是寄猫篱下吧",
+      "onboard_time": 1669003651,
+      "rank": 19,
+      "category": "幽默"
     },
     {
       "raw_hot": 339865,
@@ -603,14 +619,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 276065,
-      "num": 276065,
-      "word": "这就是寄猫篱下吧",
-      "onboard_time": 1669003651,
-      "rank": 19,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 273769,
       "num": 167632,
       "word": "演员薛中锐去世",
@@ -667,6 +675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 240699,
+      "num": 240699,
+      "word": "奥地利2比0意大利",
+      "onboard_time": 1669003711,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 239973,
       "num": 239973,
       "word": "小伙自费百元拍到高清中国空间站",
@@ -689,6 +705,14 @@
       "onboard_time": 1669003892,
       "rank": 25,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 227698,
+      "num": 227698,
+      "word": "室友被子长蘑菇小伙帮忙剪掉",
+      "onboard_time": 1669005514,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 227671,
@@ -763,20 +787,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 202726,
-      "num": 202726,
-      "word": "奥地利2比0意大利",
-      "onboard_time": 1669003711,
-      "rank": 29,
-      "category": "体育"
+      "raw_hot": 198431,
+      "num": 198431,
+      "word": "成毅平江慢生活大片",
+      "onboard_time": 1669004731,
+      "rank": 42,
+      "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 200265,
-      "num": 200265,
-      "word": "伊朗",
-      "onboard_time": 1669004193,
-      "rank": 32,
-      "category": "体育"
+      "raw_hot": 196529,
+      "num": 196529,
+      "word": "阿信微博评论区回复好走心",
+      "onboard_time": 1669005757,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 195320,
@@ -824,6 +848,14 @@
       "word": "厄瓜多尔门将长啥样",
       "onboard_time": 1668968116,
       "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 176436,
+      "num": 176436,
+      "word": "篮网主场为渡边雄太欢呼",
+      "onboard_time": 1669003349,
+      "rank": 41,
       "category": "体育"
     },
     {
@@ -883,22 +915,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 157670,
-      "num": 157670,
-      "word": "篮网主场为渡边雄太欢呼",
-      "onboard_time": 1669003349,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 157483,
-      "num": 157483,
-      "word": "成毅平江慢生活大片",
-      "onboard_time": 1669004731,
-      "rank": 42,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 156791,
       "num": 156791,
       "word": "徐明浩又更新演唱会视频了",
@@ -915,8 +931,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 152108,
-      "num": 152108,
+      "raw_hot": 152708,
+      "num": 152708,
       "word": "注会",
       "onboard_time": 1669002151,
       "rank": 44,
@@ -936,6 +952,14 @@
       "word": "厄瓜多尔越位",
       "onboard_time": 1668961827,
       "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 147939,
+      "num": 147939,
+      "word": "英格兰vs伊朗",
+      "onboard_time": 1669005635,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -985,6 +1009,14 @@
       "onboard_time": 1668997290,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 131411,
+      "num": 131411,
+      "word": "青岛球迷海上拼出巨幅球星海报",
+      "onboard_time": 1669005998,
+      "rank": 49,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 129656,
