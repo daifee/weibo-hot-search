@@ -1,0 +1,410 @@
+{
+  "runTime": 1669055215978,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 445906,
+        "num": 445906,
+        "word": "别再踩公厕马桶圈了",
+        "onboard_time": 1669046794,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 377338,
+        "num": 377338,
+        "word": "美国vs威尔士",
+        "onboard_time": 1669052180,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 8106,
+        "num": 358755,
+        "word": "中国水下考古又一大发现",
+        "onboard_time": 1669002092,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 358200,
+        "num": 358200,
+        "word": "塞内加尔vs荷兰",
+        "onboard_time": 1669043032,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 216158,
+        "num": 216158,
+        "word": "伊朗队开场未唱国歌",
+        "onboard_time": 1669040325,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128205,
+        "num": 128205,
+        "word": "女子工作5年前后对比判若两人",
+        "onboard_time": 1669046319,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119779,
+        "num": 119779,
+        "word": "大叔球场上给小伙展示账户余额",
+        "onboard_time": 1669045364,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115418,
+        "num": 115418,
+        "word": "李现说早买早享受",
+        "onboard_time": 1669045839,
+        "rank": 7,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 110704,
+        "num": 110704,
+        "word": "重庆寸滩方舱医院正加紧建设",
+        "onboard_time": 1669053377,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100226,
+        "num": 100226,
+        "word": "鹿晗因为曼联支持英格兰",
+        "onboard_time": 1669044283,
+        "rank": 9,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 190593,
+        "num": 96198,
+        "word": "梅西说这是最后一次世界杯",
+        "onboard_time": 1669052478,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144048,
+        "num": 92815,
+        "word": "加克波头球破门",
+        "onboard_time": 1669054337,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87865,
+        "num": 87865,
+        "word": "贝克汉姆 帅",
+        "onboard_time": 1669038403,
+        "rank": 12,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 342588,
+        "num": 87185,
+        "word": "13岁女孩全身颤抖向店员求助",
+        "onboard_time": 1669047394,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86414,
+        "num": 86414,
+        "word": "蔡徐坤前东家晒练习生整形费用",
+        "onboard_time": 1669049545,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82576,
+        "num": 82576,
+        "word": "格拉利什 庆祝动作",
+        "onboard_time": 1669046020,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 81991,
+        "num": 81991,
+        "word": "懒人瘦肚子真的很简单",
+        "onboard_time": 1669047513,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 79362,
+        "num": 79362,
+        "word": "命韵峋环",
+        "onboard_time": 1669046915,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 72211,
+        "num": 72211,
+        "word": "成都疫情防控",
+        "onboard_time": 1669039061,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71903,
+        "num": 71903,
+        "word": "太快确定关系的恋爱会长久吗",
+        "onboard_time": 1669033239,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 71650,
+        "num": 71650,
+        "word": "卡塔尔王子",
+        "onboard_time": 1669017937,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 66651,
+        "num": 66651,
+        "word": "方舒苗在何以琛的律所工作",
+        "onboard_time": 1669043930,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 64168,
+        "num": 64168,
+        "word": "3万度电能干什么",
+        "onboard_time": 1669042182,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61155,
+        "num": 61155,
+        "word": "郝葭怀孕",
+        "onboard_time": 1669034382,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 53455,
+        "num": 53455,
+        "word": "塞内加尔0比2荷兰",
+        "onboard_time": 1669054816,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 52681,
+        "num": 52681,
+        "word": "卡塔尔把公交开出了跑车感",
+        "onboard_time": 1669030180,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52033,
+        "num": 52033,
+        "word": "郭晓婷晒C罗签名球服",
+        "onboard_time": 1669045243,
+        "rank": 26,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 51501,
+        "num": 51501,
+        "word": "辱母案当事人于欢现状",
+        "onboard_time": 1669039552,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51225,
+        "num": 51225,
+        "word": "李峋从垃圾桶捡吃的",
+        "onboard_time": 1669030058,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 42147,
+        "num": 50911,
+        "word": "9人捕捞极危长江鲟吃了3尾养死3尾",
+        "onboard_time": 1669038225,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50791,
+        "num": 50791,
+        "word": "网友留差评8年后收到店家道歉",
+        "onboard_time": 1669022972,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47423,
+        "num": 47423,
+        "word": "塞内加尔vs荷兰首发",
+        "onboard_time": 1669052000,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 47262,
+        "num": 47262,
+        "word": "听八卦真的不分年龄",
+        "onboard_time": 1669048767,
+        "rank": 32,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 47022,
+        "num": 47022,
+        "word": "英格兰6比2伊朗",
+        "onboard_time": 1669044224,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 46725,
+        "num": 46725,
+        "word": "做头发比整容还贵",
+        "onboard_time": 1669038942,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45857,
+        "num": 45857,
+        "word": "英格兰vs伊朗",
+        "onboard_time": 1669033110,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 45515,
+        "num": 45515,
+        "word": "边牧和萨摩耶的区别",
+        "onboard_time": 1669047334,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 44803,
+        "num": 44803,
+        "word": "两男子凌晨持刀脱鞋在居民楼乱窜",
+        "onboard_time": 1669036479,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44414,
+        "num": 44414,
+        "word": "新娘坐婚车内临出发时仍在谈生意",
+        "onboard_time": 1669027540,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43580,
+        "num": 43580,
+        "word": "iPhone14Pro发货延期至2023年",
+        "onboard_time": 1669031801,
+        "rank": 39,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 43234,
+        "num": 43234,
+        "word": "伊朗守门员",
+        "onboard_time": 1669043571,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 38292,
+        "num": 38292,
+        "word": "世界上的另一个三少主",
+        "onboard_time": 1669052478,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 37149,
+        "num": 37149,
+        "word": "霍华德将因伤休战两周",
+        "onboard_time": 1669043026,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 36312,
+        "num": 36312,
+        "word": "制片人说陈飞宇就是天选李峋",
+        "onboard_time": 1669045364,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 34852,
+        "num": 34852,
+        "word": "台湾电价是什么水平",
+        "onboard_time": 1669027358,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34822,
+        "num": 34822,
+        "word": "秦施分手妈妈哭了三天",
+        "onboard_time": 1669045962,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 34761,
+        "num": 34761,
+        "word": "光腿神器能有多逼真",
+        "onboard_time": 1669037140,
+        "rank": 46,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 32334,
+        "num": 32334,
+        "word": "1岁宝宝不吃奶却爱吃土",
+        "onboard_time": 1669032701,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31908,
+        "num": 31908,
+        "word": "陶昕然说如果我天天跟孙俪比就只能跳楼",
+        "onboard_time": 1669034382,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 31431,
+        "num": 31431,
+        "word": "贝克汉姆",
+        "onboard_time": 1669036779,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#神十五将择机发射#"
+    }
+  }
+}

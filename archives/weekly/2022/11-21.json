@@ -1,6 +1,6 @@
 {
   "startTime": 1668961718135,
-  "endTime": 1669052317125,
+  "endTime": 1669055215978,
   "band_list": [
     {
       "raw_hot": 4068058,
@@ -1083,6 +1083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 377338,
+      "num": 377338,
+      "word": "美国vs威尔士",
+      "onboard_time": 1669052180,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 373725,
       "num": 346647,
       "word": "GAI王斯然真夫妻真糖真好嗑",
@@ -1939,6 +1947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 190593,
+      "num": 96198,
+      "word": "梅西说这是最后一次世界杯",
+      "onboard_time": 1669052478,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 189896,
       "num": 189896,
       "word": "刘维何超莲下班就解散的友情",
@@ -2312,6 +2328,14 @@
       "word": "勇士vs火箭",
       "onboard_time": 1668991653,
       "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 144048,
+      "num": 92815,
+      "word": "加克波头球破门",
+      "onboard_time": 1669054337,
+      "rank": 11,
       "category": "体育"
     },
     {
@@ -2691,6 +2715,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 110704,
+      "num": 110704,
+      "word": "重庆寸滩方舱医院正加紧建设",
+      "onboard_time": 1669053377,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 110034,
       "num": 110034,
       "word": "卿卿日常好笑又好哭",
@@ -3019,11 +3051,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 53455,
+      "num": 53455,
+      "word": "塞内加尔0比2荷兰",
+      "onboard_time": 1669054816,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 49850,
       "num": 49850,
       "word": "世界杯开幕式上的特殊少年",
       "onboard_time": 1668967097,
       "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 47423,
+      "num": 47423,
+      "word": "塞内加尔vs荷兰首发",
+      "onboard_time": 1669052000,
+      "rank": 31,
       "category": "体育"
     },
     {
@@ -3035,20 +3083,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 41927,
-      "num": 41927,
-      "word": "美国vs威尔士",
-      "onboard_time": 1669052180,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 40730,
       "num": 40730,
       "word": "熬夜看球后建议直接补觉",
       "onboard_time": 1668986002,
       "rank": 48,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 38292,
+      "num": 38292,
+      "word": "世界上的另一个三少主",
+      "onboard_time": 1669052478,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 25960,
