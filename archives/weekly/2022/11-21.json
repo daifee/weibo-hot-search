@@ -1,6 +1,6 @@
 {
   "startTime": 1668961718135,
-  "endTime": 1669045165103,
+  "endTime": 1669048272938,
   "band_list": [
     {
       "raw_hot": 4068058,
@@ -299,6 +299,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 904253,
+      "num": 904253,
+      "word": "鹿晗因为曼联支持英格兰",
+      "onboard_time": 1669044283,
+      "rank": 8,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 897245,
       "num": 897245,
       "word": "贝克汉姆 帅",
@@ -313,6 +321,14 @@
       "onboard_time": 1669004193,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 885269,
+      "num": 885269,
+      "word": "高校老师自曝被同事投毒百草枯",
+      "onboard_time": 1669043327,
+      "rank": 40,
+      "category": "社会负面,教育"
     },
     {
       "raw_hot": 885235,
@@ -353,14 +369,6 @@
       "onboard_time": 1669027358,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 828455,
-      "num": 828455,
-      "word": "鹿晗因为曼联支持英格兰",
-      "onboard_time": 1669044283,
-      "rank": 8,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 809086,
@@ -521,6 +529,14 @@
       "onboard_time": 1669007853,
       "rank": 32,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 626815,
+      "num": 626815,
+      "word": "李现说早买早享受",
+      "onboard_time": 1669045839,
+      "rank": 4,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 622179,
@@ -691,6 +707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 495026,
+      "num": 416762,
+      "word": "方舒苗在何以琛的律所工作",
+      "onboard_time": 1669043930,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 491777,
       "num": 491777,
       "word": "网传倪妮刘诗诗三搭出演新剧",
@@ -737,6 +761,14 @@
       "onboard_time": 1668993331,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 481491,
+      "num": 303983,
+      "word": "郭晓婷晒C罗签名球服",
+      "onboard_time": 1669045243,
+      "rank": 12,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 478625,
@@ -891,14 +923,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 416762,
-      "num": 416762,
-      "word": "方舒苗在何以琛的律所工作",
-      "onboard_time": 1669043930,
-      "rank": 22,
-      "category": "影视"
-    },
-    {
       "raw_hot": 414154,
       "num": 1559187,
       "word": "中国水下考古又一大发现",
@@ -921,14 +945,6 @@
       "onboard_time": 1669036479,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 412698,
-      "num": 412698,
-      "word": "高校老师自曝被同事投毒百草枯",
-      "onboard_time": 1669043327,
-      "rank": 40,
-      "category": "社会负面,教育"
     },
     {
       "raw_hot": 411009,
@@ -1323,6 +1339,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 297604,
+      "num": 297604,
+      "word": "别再踩公厕马桶圈了",
+      "onboard_time": 1669046794,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 294718,
       "num": 294718,
       "word": "两个人为什么会慢慢走散",
@@ -1371,12 +1395,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 285097,
+      "num": 285097,
+      "word": "3万度电能干什么",
+      "onboard_time": 1669042182,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 282518,
       "num": 282518,
       "word": "管泽元 世界杯",
       "onboard_time": 1668963145,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 282496,
+      "num": 282496,
+      "word": "大叔球场上给小伙展示账户余额",
+      "onboard_time": 1669045364,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 281412,
@@ -1433,14 +1473,6 @@
       "onboard_time": 1668956497,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 273725,
-      "num": 273725,
-      "word": "3万度电能干什么",
-      "onboard_time": 1669042182,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 267605,
@@ -1515,6 +1547,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 254358,
+      "num": 254358,
+      "word": "格拉利什 庆祝动作",
+      "onboard_time": 1669046020,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 254165,
       "num": 254165,
       "word": "Jennie新歌",
@@ -1536,6 +1576,14 @@
       "word": "张婧仪戏里戏外都在安慰陈飞宇",
       "onboard_time": 1669033110,
       "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 252278,
+      "num": 241517,
+      "word": "秦施分手妈妈哭了三天",
+      "onboard_time": 1669045962,
+      "rank": 21,
       "category": "影视"
     },
     {
@@ -1571,6 +1619,14 @@
       "category": "体育,幽默"
     },
     {
+      "raw_hot": 245494,
+      "num": 181012,
+      "word": "13岁女孩全身颤抖向店员求助",
+      "onboard_time": 1669047394,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 245041,
       "num": 245041,
       "word": "世界杯",
@@ -1601,6 +1657,14 @@
       "onboard_time": 1668998189,
       "rank": 31,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 239603,
+      "num": 239603,
+      "word": "女子工作5年前后对比判若两人",
+      "onboard_time": 1669046319,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 235648,
@@ -1713,6 +1777,14 @@
       "onboard_time": 1668947248,
       "rank": 24,
       "category": "美食"
+    },
+    {
+      "raw_hot": 212732,
+      "num": 178968,
+      "word": "命韵峋环",
+      "onboard_time": 1669046915,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 211057,
@@ -1873,6 +1945,14 @@
       "onboard_time": 1668963507,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 187078,
+      "num": 177806,
+      "word": "制片人说陈飞宇就是天选李峋",
+      "onboard_time": 1669045364,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 186898,
@@ -2443,6 +2523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125529,
+      "num": 125529,
+      "word": "边牧和萨摩耶的区别",
+      "onboard_time": 1669047334,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 125052,
       "num": 125052,
       "word": "FIFA世界杯",
@@ -2723,6 +2811,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 99555,
+      "num": 112949,
+      "word": "懒人瘦肚子真的很简单",
+      "onboard_time": 1669047513,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 99262,
       "num": 99262,
       "word": "pgc2022",
@@ -2779,6 +2875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 88112,
+      "num": 107579,
+      "word": "被忘年交可爱到了",
+      "onboard_time": 1669046675,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 84221,
       "num": 84221,
       "word": "世界杯落选选手",
@@ -2825,6 +2929,14 @@
       "onboard_time": 1668964223,
       "rank": 42,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 75025,
+      "num": 106008,
+      "word": "皮克福德今天用手的机会不多",
+      "onboard_time": 1669047871,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 68356,
