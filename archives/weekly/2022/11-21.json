@@ -1,6 +1,6 @@
 {
   "startTime": 1668961718135,
-  "endTime": 1669066599613,
+  "endTime": 1669069226629,
   "band_list": [
     {
       "raw_hot": 4068058,
@@ -2979,6 +2979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 80469,
+      "num": 68357,
+      "word": "英格兰球迷有多疯狂",
+      "onboard_time": 1669064653,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 78845,
       "num": 78845,
       "word": "塞内加尔0比2荷兰",
@@ -3020,11 +3028,19 @@
     },
     {
       "raw_hot": 72025,
-      "num": 39142,
+      "num": 53628,
       "word": "贝尔点球破门",
       "onboard_time": 1669065372,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 69927,
+      "num": 69927,
+      "word": "城管局回应郑州3人当街打商贩",
+      "onboard_time": 1669060272,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 68356,
@@ -3059,12 +3075,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 60686,
+      "num": 60686,
+      "word": "美国1比1威尔士",
+      "onboard_time": 1669067473,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 56771,
       "num": 141268,
       "word": "深夜看球吃泡面有多爽",
       "onboard_time": 1669028438,
       "rank": 39,
       "category": "情感,体育"
+    },
+    {
+      "raw_hot": 55122,
+      "num": 55122,
+      "word": "37岁C罗大腿恐怖肌肉",
+      "onboard_time": 1669064173,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 54169,
@@ -3075,20 +3107,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 53391,
+      "num": 53391,
+      "word": "00后男生中奖后计划裸辞看球",
+      "onboard_time": 1669066634,
+      "rank": 16,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 49850,
       "num": 49850,
       "word": "世界杯开幕式上的特殊少年",
       "onboard_time": 1668967097,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 48667,
-      "num": 38483,
-      "word": "城管局回应郑州3人当街打商贩",
-      "onboard_time": 1669060272,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 47423,
@@ -3100,7 +3132,7 @@
     },
     {
       "raw_hot": 46025,
-      "num": 20840,
+      "num": 31712,
       "word": "贝尔世界杯首秀",
       "onboard_time": 1669065432,
       "rank": 31,
@@ -3113,14 +3145,6 @@
       "onboard_time": 1668978012,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 40996,
-      "num": 37991,
-      "word": "37岁C罗大腿恐怖肌肉",
-      "onboard_time": 1669064173,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 40730,
@@ -3140,11 +3164,27 @@
     },
     {
       "raw_hot": 33772,
-      "num": 20822,
+      "num": 29276,
       "word": "卡塔尔世界杯能赚多少钱",
       "onboard_time": 1669061352,
       "rank": 47,
       "category": "财经,体育"
+    },
+    {
+      "raw_hot": 28122,
+      "num": 28122,
+      "word": "小维阿破门",
+      "onboard_time": 1669067593,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 28110,
+      "num": 28110,
+      "word": "英雄联盟双城之战纪录片上线",
+      "onboard_time": 1669068374,
+      "rank": 39,
+      "category": "游戏,影视"
     },
     {
       "raw_hot": 25960,
@@ -3168,14 +3208,6 @@
       "word": "克拉森补射破门",
       "onboard_time": 1669057093,
       "rank": 48,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 20020,
-      "num": 20020,
-      "word": "英格兰球迷有多疯狂",
-      "onboard_time": 1669064653,
-      "rank": 39,
       "category": "体育"
     },
     {
