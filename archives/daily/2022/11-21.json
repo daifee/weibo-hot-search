@@ -1,6 +1,6 @@
 {
   "startTime": 1668961718135,
-  "endTime": 1669040345725,
+  "endTime": 1669041391699,
   "band_list": [
     {
       "raw_hot": 4068058,
@@ -196,7 +196,7 @@
     },
     {
       "raw_hot": 1044400,
-      "num": 471163,
+      "num": 510527,
       "word": "中国千万资产家庭达206万户",
       "onboard_time": 1669034564,
       "rank": 11,
@@ -275,6 +275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 888428,
+      "num": 888428,
+      "word": "成都疫情防控",
+      "onboard_time": 1669039061,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 867285,
       "num": 867285,
       "word": "内马尔 帅",
@@ -339,14 +347,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 758963,
-      "num": 758963,
-      "word": "成都疫情防控",
-      "onboard_time": 1669039061,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 756864,
       "num": 756864,
       "word": "石家庄六区开展全员核酸检测",
@@ -403,6 +403,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 659720,
+      "num": 659720,
+      "word": "贝克汉姆 帅",
+      "onboard_time": 1669038403,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 655041,
       "num": 405172,
       "word": "鹿晗回复退钱哥说世界杯结束约一场",
@@ -443,20 +451,20 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 632208,
+      "num": 632208,
+      "word": "英格兰半场3比0伊朗",
+      "onboard_time": 1669040085,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 628950,
       "num": 628950,
       "word": "王海称小杨哥质检报告是假的",
       "onboard_time": 1669007853,
       "rank": 32,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 625869,
-      "num": 444838,
-      "word": "英格兰半场3比0伊朗",
-      "onboard_time": 1669040085,
-      "rank": 11,
-      "category": "体育"
     },
     {
       "raw_hot": 622179,
@@ -545,14 +553,6 @@
       "onboard_time": 1668953791,
       "rank": 7,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 549539,
-      "num": 549539,
-      "word": "贝克汉姆 帅",
-      "onboard_time": 1669038403,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 544755,
@@ -827,6 +827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 412726,
+      "num": 412726,
+      "word": "两男子凌晨持刀脱鞋在居民楼乱窜",
+      "onboard_time": 1669036479,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 411009,
       "num": 411009,
       "word": "陈飞宇张婧仪用嘴放烟花花絮",
@@ -912,14 +920,6 @@
       "word": "北京增社会面42例",
       "onboard_time": 1669023574,
       "rank": 12,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 383434,
-      "num": 383434,
-      "word": "两男子凌晨持刀脱鞋在居民楼乱窜",
-      "onboard_time": 1669036479,
-      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -1059,6 +1059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 343856,
+      "num": 343856,
+      "word": "辱母案当事人于欢现状",
+      "onboard_time": 1669039552,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 341195,
       "num": 341195,
       "word": "这就是寄猫篱下吧",
@@ -1107,6 +1115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 334587,
+      "num": 334587,
+      "word": "被尹嵩气死",
+      "onboard_time": 1669039124,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 334135,
       "num": 334135,
       "word": "实验用菌不生长被研究生怒批",
@@ -1147,6 +1163,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 325551,
+      "num": 325551,
+      "word": "施情华意领证了",
+      "onboard_time": 1669040567,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 324649,
       "num": 324649,
       "word": "钮祜禄李峋",
@@ -1185,6 +1209,14 @@
       "onboard_time": 1669008576,
       "rank": 40,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 308174,
+      "num": 260291,
+      "word": "做头发比整容还贵",
+      "onboard_time": 1669038942,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 299708,
@@ -1280,14 +1312,6 @@
       "word": "李薇趴尹峥腿上",
       "onboard_time": 1669037678,
       "rank": 22,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 278978,
-      "num": 278978,
-      "word": "被尹嵩气死",
-      "onboard_time": 1669039124,
-      "rank": 20,
       "category": "影视"
     },
     {
@@ -1435,6 +1459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 247341,
+      "num": 247341,
+      "word": "伊朗队开场未唱国歌",
+      "onboard_time": 1669040325,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 247064,
       "num": 247064,
       "word": "钱不是万能的",
@@ -1475,14 +1507,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 233450,
-      "num": 233450,
-      "word": "做头发比整容还贵",
-      "onboard_time": 1669038942,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 228293,
       "num": 228293,
       "word": "柯南足球水平",
@@ -1497,6 +1521,22 @@
       "onboard_time": 1668995011,
       "rank": 34,
       "category": "体育,音乐"
+    },
+    {
+      "raw_hot": 226400,
+      "num": 226400,
+      "word": "英格兰杀疯了",
+      "onboard_time": 1669040443,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 225672,
+      "num": 225672,
+      "word": "光腿神器能有多逼真",
+      "onboard_time": 1669037140,
+      "rank": 41,
+      "category": "时尚"
     },
     {
       "raw_hot": 225107,
@@ -1651,28 +1691,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 197434,
-      "num": 197434,
-      "word": "辱母案当事人于欢现状",
-      "onboard_time": 1669039552,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 197329,
       "num": 193399,
       "word": "卿卿日常不是白露是霜降",
       "onboard_time": 1669017394,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 197251,
-      "num": 197251,
-      "word": "光腿神器能有多逼真",
-      "onboard_time": 1669037140,
-      "rank": 41,
-      "category": "时尚"
     },
     {
       "raw_hot": 196446,
@@ -1707,6 +1731,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 193060,
+      "num": 193060,
+      "word": "9人捕捞极危长江鲟吃了3尾养死3尾",
+      "onboard_time": 1669038225,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189896,
       "num": 189896,
       "word": "刘维何超莲下班就解散的友情",
@@ -1731,12 +1763,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 185376,
-      "num": 185376,
-      "word": "9人捕捞极危长江鲟吃了3尾养死3尾",
-      "onboard_time": 1669038225,
-      "rank": 44,
-      "category": "社会新闻"
+      "raw_hot": 186115,
+      "num": 186115,
+      "word": "世界杯首日一医院收治20多位球迷",
+      "onboard_time": 1669039727,
+      "rank": 39,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 185313,
@@ -1792,6 +1824,14 @@
       "word": "厄瓜多尔门将长啥样",
       "onboard_time": 1668968116,
       "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 177169,
+      "num": 177169,
+      "word": "萨卡世界杯首球",
+      "onboard_time": 1669041283,
+      "rank": 41,
       "category": "体育"
     },
     {
@@ -1921,14 +1961,6 @@
       "onboard_time": 1669006596,
       "rank": 43,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 158864,
-      "num": 158864,
-      "word": "世界杯首日一医院收治20多位球迷",
-      "onboard_time": 1669039727,
-      "rank": 39,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 158691,
@@ -2075,6 +2107,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 143122,
+      "num": 143122,
+      "word": "贝林厄姆头球破门",
+      "onboard_time": 1669040270,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 142659,
       "num": 142659,
       "word": "张艺兴演唱会旧金山站彩排照",
@@ -2097,6 +2137,14 @@
       "onboard_time": 1668985460,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139907,
+      "num": 139907,
+      "word": "小雪养生指南",
+      "onboard_time": 1669040983,
+      "rank": 46,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 139455,
@@ -2145,14 +2193,6 @@
       "onboard_time": 1668997290,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 137098,
-      "num": 137098,
-      "word": "贝林厄姆头球破门",
-      "onboard_time": 1669040270,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 136803,
@@ -2248,14 +2288,6 @@
       "word": "汤普森首节20分",
       "onboard_time": 1668997647,
       "rank": 44,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 125291,
-      "num": 125291,
-      "word": "伊朗队开场未唱国歌",
-      "onboard_time": 1669040325,
-      "rank": 49,
       "category": "体育"
     },
     {
