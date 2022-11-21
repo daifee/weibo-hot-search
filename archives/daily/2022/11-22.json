@@ -1,7 +1,15 @@
 {
   "startTime": 1669048272938,
-  "endTime": 1669049524414,
+  "endTime": 1669051283633,
   "band_list": [
+    {
+      "raw_hot": 1172928,
+      "num": 1172928,
+      "word": "别再踩公厕马桶圈了",
+      "onboard_time": 1669046794,
+      "rank": 14,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 961699,
       "num": 961699,
@@ -19,28 +27,20 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 889193,
+      "num": 889193,
+      "word": "13岁女孩全身颤抖向店员求助",
+      "onboard_time": 1669047394,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 885269,
       "num": 885269,
       "word": "高校老师自曝被同事投毒百草枯",
       "onboard_time": 1669043327,
       "rank": 3,
       "category": "社会负面,教育"
-    },
-    {
-      "raw_hot": 806139,
-      "num": 806139,
-      "word": "别再踩公厕马桶圈了",
-      "onboard_time": 1669046794,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 655424,
-      "num": 655424,
-      "word": "13岁女孩全身颤抖向店员求助",
-      "onboard_time": 1669047394,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 626815,
@@ -131,8 +131,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 300283,
-      "num": 300283,
+      "raw_hot": 302058,
+      "num": 302058,
       "word": "格拉利什 庆祝动作",
       "onboard_time": 1669046020,
       "rank": 17,
@@ -347,6 +347,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 124451,
+      "num": 118470,
+      "word": "蔡徐坤前东家晒练习生整形费用",
+      "onboard_time": 1669049545,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 122351,
       "num": 122351,
       "word": "两男子凌晨持刀脱鞋在居民楼乱窜",
@@ -355,11 +363,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 117859,
-      "num": 117859,
+      "raw_hot": 119076,
+      "num": 119076,
       "word": "懒人瘦肚子真的很简单",
       "onboard_time": 1669047513,
       "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 114732,
+      "num": 114732,
+      "word": "世界杯赛程",
+      "onboard_time": 1669050743,
+      "rank": 25,
       "category": "体育"
     },
     {
@@ -387,20 +403,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 94813,
+      "num": 94813,
+      "word": "听八卦真的不分年龄",
+      "onboard_time": 1669048767,
+      "rank": 47,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 88112,
       "num": 107579,
       "word": "被忘年交可爱到了",
       "onboard_time": 1669046675,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 85743,
-      "num": 85743,
-      "word": "听八卦真的不分年龄",
-      "onboard_time": 1669048767,
-      "rank": 47,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 83875,
@@ -419,6 +435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 64836,
+      "num": 64836,
+      "word": "香芋精什么时候下线",
+      "onboard_time": 1669047930,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 25106,
       "num": 885612,
       "word": "中国水下考古又一大发现",
@@ -430,6 +454,9 @@
   "hotgov_list": [
     {
       "word": "#中国的神舟之路将留下更多精彩#"
+    },
+    {
+      "word": "#神十五将择机发射#"
     }
   ]
 }
