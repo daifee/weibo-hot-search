@@ -1,6 +1,6 @@
 {
   "startTime": 1669048272938,
-  "endTime": 1669056161478,
+  "endTime": 1669058233843,
   "band_list": [
     {
       "raw_hot": 1172928,
@@ -236,7 +236,7 @@
     },
     {
       "raw_hot": 196587,
-      "num": 96198,
+      "num": 133236,
       "word": "梅西说这是最后一次世界杯",
       "onboard_time": 1669052478,
       "rank": 10,
@@ -459,6 +459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 78845,
+      "num": 78845,
+      "word": "塞内加尔0比2荷兰",
+      "onboard_time": 1669054816,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 75025,
       "num": 106008,
       "word": "皮克福德今天用手的机会不多",
@@ -473,14 +481,6 @@
       "onboard_time": 1669047930,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 60092,
-      "num": 60092,
-      "word": "塞内加尔0比2荷兰",
-      "onboard_time": 1669054816,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 47423,
@@ -505,6 +505,22 @@
       "onboard_time": 1669002092,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 21288,
+      "num": 21288,
+      "word": "范戴克解围",
+      "onboard_time": 1669057034,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 19574,
+      "num": 19574,
+      "word": "克拉森补射破门",
+      "onboard_time": 1669057093,
+      "rank": 48,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
