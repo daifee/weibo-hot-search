@@ -1,6 +1,6 @@
 {
   "startTime": 1668961718135,
-  "endTime": 1669027231889,
+  "endTime": 1669029469160,
   "band_list": [
     {
       "raw_hot": 4068058,
@@ -347,6 +347,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 644925,
+      "num": 644925,
+      "word": "今晚调油价",
+      "onboard_time": 1669024117,
+      "rank": 8,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 642788,
       "num": 642788,
       "word": "卡塔尔国旗是世界最长国旗",
@@ -355,20 +363,20 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 631575,
-      "num": 631575,
-      "word": "今晚调油价",
-      "onboard_time": 1669024117,
-      "rank": 8,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 628950,
       "num": 628950,
       "word": "王海称小杨哥质检报告是假的",
       "onboard_time": 1669007853,
       "rank": 32,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 628628,
+      "num": 628628,
+      "word": "台湾电价是什么水平",
+      "onboard_time": 1669027358,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 622179,
@@ -443,12 +451,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 538634,
+      "num": 538634,
+      "word": "这是一个没有穷人的国家",
+      "onboard_time": 1669025138,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 519776,
       "num": 519776,
       "word": "当上海洋女婿去到卡塔尔后",
       "onboard_time": 1669010432,
       "rank": 8,
       "category": "幽默,体育"
+    },
+    {
+      "raw_hot": 512526,
+      "num": 512526,
+      "word": "北京倡导疫情严重区域实行弹性上班",
+      "onboard_time": 1669024655,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 508376,
@@ -479,14 +503,6 @@
       "num": 401521,
       "word": "妻子流产抑郁加重男子申请撤销婚姻",
       "onboard_time": 1668942689,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 492249,
-      "num": 492249,
-      "word": "北京倡导疫情严重区域实行弹性上班",
-      "onboard_time": 1669024655,
       "rank": 14,
       "category": "社会新闻"
     },
@@ -705,14 +721,6 @@
       "onboard_time": 1669025616,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 390554,
-      "num": 390554,
-      "word": "这是一个没有穷人的国家",
-      "onboard_time": 1669025138,
-      "rank": 22,
-      "category": "情感"
     },
     {
       "raw_hot": 388718,
@@ -947,6 +955,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 307000,
+      "num": 307000,
+      "word": "想坐王鹤棣时宴的副驾",
+      "onboard_time": 1669028079,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 299708,
       "num": 288034,
       "word": "柯南史上最be剧情",
@@ -969,6 +985,14 @@
       "onboard_time": 1668957102,
       "rank": 17,
       "category": "情感"
+    },
+    {
+      "raw_hot": 294529,
+      "num": 294529,
+      "word": "新娘坐婚车内临出发时仍在谈生意",
+      "onboard_time": 1669027540,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 291014,
@@ -1027,6 +1051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 279555,
+      "num": 279555,
+      "word": "秦施是小三克星吧",
+      "onboard_time": 1669029341,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 274666,
       "num": 274666,
       "word": "奥地利2比0意大利",
@@ -1049,6 +1081,14 @@
       "onboard_time": 1669014573,
       "rank": 17,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 264622,
+      "num": 264622,
+      "word": "太太团将入住10亿镑豪华游轮",
+      "onboard_time": 1669027719,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 264253,
@@ -1115,6 +1155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 254678,
+      "num": 254678,
+      "word": "李峋更博说我回来了",
+      "onboard_time": 1669026996,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 254165,
       "num": 254165,
       "word": "Jennie新歌",
@@ -1139,6 +1187,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 249512,
+      "num": 249512,
+      "word": "22日起进返京人员落地三天三检",
+      "onboard_time": 1669028381,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 247064,
       "num": 247064,
       "word": "钱不是万能的",
@@ -1153,6 +1209,14 @@
       "onboard_time": 1668907471,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 240025,
+      "num": 240025,
+      "word": "校招研究生简历连续5年占比超7成",
+      "onboard_time": 1669027419,
+      "rank": 23,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 239973,
@@ -1227,6 +1291,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 217070,
+      "num": 217070,
+      "word": "男子街头买4箱冷冻海鲜全是空壳注水",
+      "onboard_time": 1669024475,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 216872,
       "num": 216872,
       "word": "超6成年轻人对目前工作较满意",
@@ -1249,14 +1321,6 @@
       "onboard_time": 1669016133,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 208386,
-      "num": 208386,
-      "word": "男子街头买4箱冷冻海鲜全是空壳注水",
-      "onboard_time": 1669024475,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 206095,
@@ -1619,14 +1683,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 144948,
-      "num": 144948,
-      "word": "李峋更博说我回来了",
-      "onboard_time": 1669026996,
-      "rank": 34,
-      "category": "影视"
-    },
-    {
       "raw_hot": 144640,
       "num": 144640,
       "word": "11月20日新增本土无症状24547例",
@@ -1707,6 +1763,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 136447,
+      "num": 136447,
+      "word": "世界杯和奥运会哪个更赚钱",
+      "onboard_time": 1669025552,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 135310,
       "num": 135310,
       "word": "男子花8小时鼻烟壶内画世界杯吉祥物",
@@ -1737,6 +1801,14 @@
       "onboard_time": 1669005998,
       "rank": 49,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 131305,
+      "num": 131305,
+      "word": "女子买猫粮获赠蟑螂虫干",
+      "onboard_time": 1669028198,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 129656,
@@ -1875,20 +1947,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 112297,
-      "num": 112297,
-      "word": "世界杯和奥运会哪个更赚钱",
-      "onboard_time": 1669025552,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 112182,
       "num": 112182,
       "word": "退钱哥名场面",
       "onboard_time": 1669011933,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 111701,
+      "num": 111701,
+      "word": "太原疫情防控",
+      "onboard_time": 1669029102,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 111334,
@@ -1929,6 +2001,14 @@
       "onboard_time": 1669017514,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 108915,
+      "num": 108915,
+      "word": "听障女孩成功读古诗老师奖励鸡腿",
+      "onboard_time": 1669029401,
+      "rank": 48,
+      "category": "教育"
     },
     {
       "raw_hot": 108636,
@@ -2187,6 +2267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 45466,
+      "num": 131984,
+      "word": "深夜看球吃泡面有多爽",
+      "onboard_time": 1669028438,
+      "rank": 39,
+      "category": "情感,体育"
+    },
+    {
       "raw_hot": 42799,
       "num": 42799,
       "word": "杨洋晒黑色墨镜自拍",
@@ -2201,6 +2289,14 @@
       "onboard_time": 1668986002,
       "rank": 48,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 25960,
+      "num": 316119,
+      "word": "这次又被臭宝装到了",
+      "onboard_time": 1669028438,
+      "rank": 14,
+      "category": "美食"
     }
   ],
   "hotgov_list": [
