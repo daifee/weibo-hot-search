@@ -1,6 +1,6 @@
 {
   "startTime": 1668961718135,
-  "endTime": 1668997515338,
+  "endTime": 1669000813624,
   "band_list": [
     {
       "raw_hot": 4068058,
@@ -23,6 +23,14 @@
       "num": 470600,
       "word": "刘暖曦回应江歌遗体照片疑遭泄露",
       "onboard_time": 1668991115,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1913128,
+      "num": 881914,
+      "word": "刘鑫自称案发后已社会性死亡",
+      "onboard_time": 1668996210,
       "rank": 10,
       "category": "社会新闻"
     },
@@ -75,6 +83,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1214772,
+      "num": 1214772,
+      "word": "退钱哥",
+      "onboard_time": 1668999090,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1118375,
       "num": 1118375,
       "word": "王冰冰自我介绍",
@@ -115,6 +131,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 906461,
+      "num": 906461,
+      "word": "徐璐陈都灵2分钟预告换46套衣服",
+      "onboard_time": 1668998369,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 867285,
       "num": 867285,
       "word": "内马尔 帅",
@@ -129,6 +153,14 @@
       "onboard_time": 1668960630,
       "rank": 15,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 760074,
+      "num": 760074,
+      "word": "CPA",
+      "onboard_time": 1668996690,
+      "rank": 22,
+      "category": "教育"
     },
     {
       "raw_hot": 756864,
@@ -163,14 +195,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 694622,
-      "num": 561721,
-      "word": "刘鑫自称案发后已社会性死亡",
-      "onboard_time": 1668996210,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 649781,
       "num": 649781,
       "word": "鹿晗 世界杯解说",
@@ -185,6 +209,14 @@
       "onboard_time": 1668987388,
       "rank": 49,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 622980,
+      "num": 622980,
+      "word": "原来中国队分到了施工组",
+      "onboard_time": 1668998608,
+      "rank": 8,
+      "category": "体育,幽默"
     },
     {
       "raw_hot": 622179,
@@ -307,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 425679,
+      "num": 425679,
+      "word": "女子大扫除意外发现丢失6年金手镯",
+      "onboard_time": 1668995068,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 424616,
       "num": 424616,
       "word": "2022卡塔尔世界杯",
@@ -360,6 +400,14 @@
       "word": "C罗",
       "onboard_time": 1668954934,
       "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 395314,
+      "num": 395314,
+      "word": "汤普森10记三分砍41分",
+      "onboard_time": 1668999330,
+      "rank": 14,
       "category": "体育"
     },
     {
@@ -419,6 +467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 334352,
+      "num": 334352,
+      "word": "朱韵出的是520",
+      "onboard_time": 1668999806,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 334135,
       "num": 334135,
       "word": "实验用菌不生长被研究生怒批",
@@ -435,20 +491,12 @@
       "category": "体育,情感"
     },
     {
-      "raw_hot": 330228,
-      "num": 330228,
-      "word": "女子大扫除意外发现丢失6年金手镯",
-      "onboard_time": 1668995068,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 316939,
-      "num": 316939,
-      "word": "CPA",
-      "onboard_time": 1668996690,
-      "rank": 22,
-      "category": "教育"
+      "raw_hot": 331135,
+      "num": 331135,
+      "word": "尹峥给李薇带了绿豆糕",
+      "onboard_time": 1668996630,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 294718,
@@ -499,11 +547,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 275684,
-      "num": 275684,
-      "word": "尹峥给李薇带了绿豆糕",
-      "onboard_time": 1668996630,
-      "rank": 26,
+      "raw_hot": 281412,
+      "num": 281412,
+      "word": "今晚接李峋出狱",
+      "onboard_time": 1668998310,
+      "rank": 23,
       "category": "影视"
     },
     {
@@ -515,12 +563,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 267608,
+      "num": 267608,
+      "word": "王艺瑾MV在欧阳娜娜展览拍的",
+      "onboard_time": 1669000587,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 263553,
       "num": 263553,
       "word": "我在CCTV5追星",
       "onboard_time": 1668987085,
       "rank": 46,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 262020,
+      "num": 1033514,
+      "word": "世界杯中国小护旗手",
+      "onboard_time": 1668998850,
+      "rank": 2,
+      "category": "体育"
     },
     {
       "raw_hot": 254165,
@@ -537,6 +601,14 @@
       "onboard_time": 1668988589,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 247064,
+      "num": 247064,
+      "word": "钱不是万能的",
+      "onboard_time": 1668996869,
+      "rank": 41,
+      "category": "体育,幽默"
     },
     {
       "raw_hot": 245041,
@@ -569,6 +641,14 @@
       "onboard_time": 1668985763,
       "rank": 37,
       "category": "体育,科技"
+    },
+    {
+      "raw_hot": 221265,
+      "num": 221265,
+      "word": "小伙自费百元拍到高清中国空间站",
+      "onboard_time": 1668998189,
+      "rank": 31,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 219423,
@@ -683,6 +763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 174989,
+      "num": 174989,
+      "word": "财阀家的小儿子宋仲基演技",
+      "onboard_time": 1668999150,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 174398,
       "num": 174398,
       "word": "卡塔尔世界杯开幕式现场有多燃",
@@ -763,14 +851,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 145355,
-      "num": 145355,
-      "word": "钱不是万能的",
-      "onboard_time": 1668996869,
-      "rank": 41,
-      "category": "体育,幽默"
-    },
-    {
       "raw_hot": 144640,
       "num": 144640,
       "word": "11月20日新增本土无症状24547例",
@@ -785,6 +865,14 @@
       "onboard_time": 1668991653,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 142659,
+      "num": 142659,
+      "word": "张艺兴演唱会旧金山站彩排照",
+      "onboard_time": 1668999508,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 139937,
@@ -817,6 +905,14 @@
       "onboard_time": 1668995610,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 126261,
+      "num": 126261,
+      "word": "汤普森首节20分",
+      "onboard_time": 1668997647,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 125052,
@@ -899,6 +995,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 106261,
+      "num": 106261,
+      "word": "勇士战胜火箭",
+      "onboard_time": 1669000349,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 105404,
       "num": 105404,
       "word": "32岁全职妈妈自学化妆2月气质大变",
@@ -929,6 +1033,14 @@
       "onboard_time": 1668987026,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 98162,
+      "num": 98162,
+      "word": "水花连续三分终结比赛",
+      "onboard_time": 1669000291,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 95635,

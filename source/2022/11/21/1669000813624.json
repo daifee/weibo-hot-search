@@ -1,0 +1,410 @@
+{
+  "runTime": 1669000813624,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1235950,
+        "num": 1235950,
+        "word": "人还活着却被人网络祭奠4.3万次",
+        "onboard_time": 1668986662,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1214772,
+        "num": 1214772,
+        "word": "退钱哥",
+        "onboard_time": 1668999090,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 262020,
+        "num": 1033514,
+        "word": "世界杯中国小护旗手",
+        "onboard_time": 1668998850,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 906461,
+        "num": 906461,
+        "word": "徐璐陈都灵2分钟预告换46套衣服",
+        "onboard_time": 1668998369,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 899269,
+        "num": 899269,
+        "word": "美国高估了自己也低估了中国",
+        "onboard_time": 1668991533,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1913128,
+        "num": 881914,
+        "word": "刘鑫自称案发后已社会性死亡",
+        "onboard_time": 1668996210,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 760074,
+        "num": 760074,
+        "word": "CPA",
+        "onboard_time": 1668996690,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 624011,
+        "num": 624011,
+        "word": "厄瓜多尔球迷搓钱动作挑衅东道主",
+        "onboard_time": 1668993752,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 622980,
+        "num": 622980,
+        "word": "原来中国队分到了施工组",
+        "onboard_time": 1668998608,
+        "rank": 8,
+        "category": "体育,幽默"
+      },
+      {
+        "raw_hot": 449327,
+        "num": 579069,
+        "word": "卡塔尔国旗是世界最长国旗",
+        "onboard_time": 1668987388,
+        "rank": 9,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 562568,
+        "num": 562568,
+        "word": "岳云鹏也去卡塔尔看开幕式了吗",
+        "onboard_time": 1668995490,
+        "rank": 10,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 553327,
+        "num": 553327,
+        "word": "北京昨日新增2例死亡病例",
+        "onboard_time": 1668989493,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 444429,
+        "num": 444429,
+        "word": "重庆新增本土确诊231例无症状5898例",
+        "onboard_time": 1668993153,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 425679,
+        "num": 425679,
+        "word": "女子大扫除意外发现丢失6年金手镯",
+        "onboard_time": 1668995068,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 395314,
+        "num": 395314,
+        "word": "汤普森10记三分砍41分",
+        "onboard_time": 1668999330,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 389821,
+        "num": 389821,
+        "word": "中国除了中国队没去其他都去了",
+        "onboard_time": 1668989973,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 370560,
+        "num": 370560,
+        "word": "鹿晗 世界杯解说",
+        "onboard_time": 1668988892,
+        "rank": 16,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 364138,
+        "num": 364138,
+        "word": "女子备孕13年生龙凤胎取名天佑佑心",
+        "onboard_time": 1668955296,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334352,
+        "num": 334352,
+        "word": "朱韵出的是520",
+        "onboard_time": 1668999806,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 331135,
+        "num": 331135,
+        "word": "尹峥给李薇带了绿豆糕",
+        "onboard_time": 1668996630,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 320904,
+        "num": 320904,
+        "word": "女孩陷传销数月塞救命纸条求助",
+        "onboard_time": 1668993931,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302497,
+        "num": 302497,
+        "word": "广州新增本土感染者8181例",
+        "onboard_time": 1668993331,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284944,
+        "num": 284944,
+        "word": "孩子书包鼓鼓的没一本书全是战利品",
+        "onboard_time": 1668992611,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281412,
+        "num": 281412,
+        "word": "今晚接李峋出狱",
+        "onboard_time": 1668998310,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 279111,
+        "num": 279111,
+        "word": "石家庄六区开展全员核酸检测",
+        "onboard_time": 1668987145,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268671,
+        "num": 268671,
+        "word": "外卖小哥深夜送餐猝死清晨才被发现",
+        "onboard_time": 1668987689,
+        "rank": 25,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 267608,
+        "num": 267608,
+        "word": "王艺瑾MV在欧阳娜娜展览拍的",
+        "onboard_time": 1669000587,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 247064,
+        "num": 247064,
+        "word": "钱不是万能的",
+        "onboard_time": 1668996869,
+        "rank": 27,
+        "category": "体育,幽默"
+      },
+      {
+        "raw_hot": 231202,
+        "num": 231202,
+        "word": "25岁小伙辞去公职去看世界杯",
+        "onboard_time": 1668960630,
+        "rank": 28,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 219107,
+        "num": 228358,
+        "word": "2022卡塔尔世界杯",
+        "onboard_time": 1668993511,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 228292,
+        "num": 228292,
+        "word": "刘畊宏说C罗体脂率跟我差不多",
+        "onboard_time": 1668962665,
+        "rank": 30,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 221265,
+        "num": 221265,
+        "word": "小伙自费百元拍到高清中国空间站",
+        "onboard_time": 1668998189,
+        "rank": 31,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 211014,
+        "num": 211014,
+        "word": "李钟硕新冠检测出阳性反应",
+        "onboard_time": 1668960030,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184994,
+        "num": 184994,
+        "word": "Jennie新歌",
+        "onboard_time": 1668987326,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 181406,
+        "num": 181406,
+        "word": "原来有钱人也有不快乐的时候",
+        "onboard_time": 1668990935,
+        "rank": 34,
+        "category": "体育,情感"
+      },
+      {
+        "raw_hot": 178940,
+        "num": 178940,
+        "word": "男子陪妻子逛超市一门心思择豆角",
+        "onboard_time": 1668991172,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174989,
+        "num": 174989,
+        "word": "财阀家的小儿子宋仲基演技",
+        "onboard_time": 1668999150,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 164065,
+        "num": 164065,
+        "word": "我在CCTV5追星",
+        "onboard_time": 1668987085,
+        "rank": 37,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 163386,
+        "num": 163386,
+        "word": "不能在朋友圈分享的喜悦",
+        "onboard_time": 1668963025,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 160327,
+        "num": 160327,
+        "word": "实验用菌不生长被研究生怒批",
+        "onboard_time": 1668961468,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151212,
+        "num": 151212,
+        "word": "命韵峋环终于回来了",
+        "onboard_time": 1668993991,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 142659,
+        "num": 142659,
+        "word": "张艺兴演唱会旧金山站彩排照",
+        "onboard_time": 1668999508,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 137301,
+        "num": 137301,
+        "word": "北京疫情防控",
+        "onboard_time": 1668990869,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133145,
+        "num": 133145,
+        "word": "田柾国",
+        "onboard_time": 1668957578,
+        "rank": 43,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 126261,
+        "num": 126261,
+        "word": "汤普森首节20分",
+        "onboard_time": 1668997647,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125162,
+        "num": 125162,
+        "word": "卡塔尔vs厄瓜多尔",
+        "onboard_time": 1668949769,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110080,
+        "num": 110080,
+        "word": "LWX",
+        "onboard_time": 1668953791,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 109828,
+        "num": 109828,
+        "word": "卡塔尔全场0射正",
+        "onboard_time": 1668994473,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106261,
+        "num": 106261,
+        "word": "勇士战胜火箭",
+        "onboard_time": 1669000349,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98162,
+        "num": 98162,
+        "word": "水花连续三分终结比赛",
+        "onboard_time": 1669000291,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#这份国礼承载着中泰两国人民的美好期待#"
+    }
+  }
+}
