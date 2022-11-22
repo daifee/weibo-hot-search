@@ -1,0 +1,410 @@
+{
+  "runTime": 1669095380241,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2563164,
+        "num": 2563164,
+        "word": "刘强东发布京东全员信",
+        "onboard_time": 1669090656,
+        "rank": 0,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 707900,
+        "num": 707900,
+        "word": "郑恺苗苗官宣加盟妻子的浪漫旅行6",
+        "onboard_time": 1669089217,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19720,
+        "num": 659310,
+        "word": "中国水下考古又一大发现",
+        "onboard_time": 1669002092,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1738191,
+        "num": 659042,
+        "word": "母亲出家裸捐588万女儿贷款上大学",
+        "onboard_time": 1669090779,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 732172,
+        "num": 658971,
+        "word": "男子月挣4000怪妻子花680接头发",
+        "onboard_time": 1669080153,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 657734,
+        "num": 657734,
+        "word": "白敬亭田曦薇GQ合体",
+        "onboard_time": 1669093360,
+        "rank": 5,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 560290,
+        "num": 560290,
+        "word": "妹妹误将火碱当冰糖冲给姐姐喝",
+        "onboard_time": 1669092397,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 439244,
+        "num": 439244,
+        "word": "女心理师",
+        "onboard_time": 1669091139,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 415095,
+        "num": 415095,
+        "word": "梅西世界杯首秀",
+        "onboard_time": 1669085492,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 371768,
+        "num": 371768,
+        "word": "中国小伙晒出卡塔尔住宿条件",
+        "onboard_time": 1669078596,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 415792,
+        "num": 363832,
+        "word": "杜海涛为证明瘦了踩毛不易腿上",
+        "onboard_time": 1669080815,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 346243,
+        "num": 346243,
+        "word": "张婧仪说陈飞宇和李峋的反差感",
+        "onboard_time": 1669091560,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 339143,
+        "num": 339143,
+        "word": "卡塔尔版退钱哥",
+        "onboard_time": 1669093844,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 334951,
+        "num": 334951,
+        "word": "卡塔尔和迪拜哪个更富",
+        "onboard_time": 1669094314,
+        "rank": 13,
+        "category": "体育,旅游"
+      },
+      {
+        "raw_hot": 333823,
+        "num": 333823,
+        "word": "妻子的浪漫旅行6官宣定档1124",
+        "onboard_time": 1669087891,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 333556,
+        "num": 333556,
+        "word": "重庆新增本土确诊178例无症状6157例",
+        "onboard_time": 1669090537,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 328173,
+        "num": 328173,
+        "word": "马斯克恐失去世界首富位置",
+        "onboard_time": 1669087469,
+        "rank": 16,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 309475,
+        "num": 309475,
+        "word": "男子上厕所怕脏踩碎合租房马桶",
+        "onboard_time": 1669086213,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270543,
+        "num": 270543,
+        "word": "鹤壁校园欺凌事件涉事副校长被辞退",
+        "onboard_time": 1669094675,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267469,
+        "num": 267469,
+        "word": "将泡面拿进车里有多难",
+        "onboard_time": 1669090235,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 328047,
+        "num": 258594,
+        "word": "蔡徐坤GQ红毯飞行嘉宾",
+        "onboard_time": 1669093957,
+        "rank": 20,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 322824,
+        "num": 258035,
+        "word": "赵丽颖鞠婧祎新剧小雪海报",
+        "onboard_time": 1669087891,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 242481,
+        "num": 242481,
+        "word": "别再踩公厕马桶圈了",
+        "onboard_time": 1669046794,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240626,
+        "num": 240626,
+        "word": "妻子的浪漫旅行",
+        "onboard_time": 1669093360,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234966,
+        "num": 234966,
+        "word": "肉摊主见女子困难慷慨赠8斤肉和油",
+        "onboard_time": 1669092162,
+        "rank": 24,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 209190,
+        "num": 209190,
+        "word": "中石化与卡塔尔签史上最长液化天然气协议",
+        "onboard_time": 1669085309,
+        "rank": 25,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 202512,
+        "num": 202512,
+        "word": "原来这么多明星喜欢梅西",
+        "onboard_time": 1669094377,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202122,
+        "num": 202122,
+        "word": "安阳厂房火灾已致36人死亡",
+        "onboard_time": 1669074691,
+        "rank": 27,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 199600,
+        "num": 199600,
+        "word": "世界杯",
+        "onboard_time": 1669078057,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192594,
+        "num": 197786,
+        "word": "江母诉刘鑫案再开庭或不当庭宣判",
+        "onboard_time": 1669087593,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260842,
+        "num": 197333,
+        "word": "陆毅鲍蕾官宣加盟妻子的浪漫旅行6",
+        "onboard_time": 1669094555,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196051,
+        "num": 196051,
+        "word": "卿卿日常是懂取名字的",
+        "onboard_time": 1669087232,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 194523,
+        "num": 194523,
+        "word": "以爱为营错撩概念海报",
+        "onboard_time": 1669095036,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 182416,
+        "num": 182416,
+        "word": "女子花钱救狗反被咬网友说活该",
+        "onboard_time": 1669088672,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180270,
+        "num": 180270,
+        "word": "井柏然钱开逸限定返场",
+        "onboard_time": 1669094974,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 178451,
+        "num": 178451,
+        "word": "小雪的第一份炸鸡",
+        "onboard_time": 1669088313,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 167256,
+        "num": 167256,
+        "word": "卡塔尔世界杯带火国产桌面足球",
+        "onboard_time": 1669090475,
+        "rank": 36,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 159384,
+        "num": 159384,
+        "word": "村民称安阳着火厂房做工的多为女性",
+        "onboard_time": 1669093838,
+        "rank": 37,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 155786,
+        "num": 155786,
+        "word": "北京增207例社会面",
+        "onboard_time": 1669076736,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50968,
+        "num": 147573,
+        "word": "手机厂商为何执着自研芯片",
+        "onboard_time": 1669093240,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169720,
+        "num": 146521,
+        "word": "侃爷宣布参与2024美国总统大选",
+        "onboard_time": 1669077034,
+        "rank": 40,
+        "category": "国外要闻,艺人"
+      },
+      {
+        "raw_hot": 145123,
+        "num": 145123,
+        "word": "广州新增本土感染者8210例",
+        "onboard_time": 1669079975,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136662,
+        "num": 136662,
+        "word": "白鹿以爱为营开机应援",
+        "onboard_time": 1669088613,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 135971,
+        "num": 135971,
+        "word": "阿根廷vs沙特阿拉伯",
+        "onboard_time": 1669082733,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134372,
+        "num": 134372,
+        "word": "鹈鹕45分大胜勇士",
+        "onboard_time": 1669090598,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128185,
+        "num": 128185,
+        "word": "JDG官宣Yagao成为自由人",
+        "onboard_time": 1669095275,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 122412,
+        "num": 122412,
+        "word": "广西一高校请全校师生吃螺狮粉",
+        "onboard_time": 1669089338,
+        "rank": 46,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 119248,
+        "num": 119248,
+        "word": "小雪",
+        "onboard_time": 1669073006,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119151,
+        "num": 119151,
+        "word": "梅西发博晒训练照",
+        "onboard_time": 1669093898,
+        "rank": 48,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 113025,
+        "num": 113025,
+        "word": "大熊猫团团已于19日完成解剖",
+        "onboard_time": 1669094916,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#新时代新征程新伟业#"
+    }
+  }
+}

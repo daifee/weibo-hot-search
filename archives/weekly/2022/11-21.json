@@ -1,6 +1,6 @@
 {
   "startTime": 1668961718135,
-  "endTime": 1669094378008,
+  "endTime": 1669095380241,
   "band_list": [
     {
       "raw_hot": 4068058,
@@ -107,8 +107,8 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 1674121,
-      "num": 551530,
+      "raw_hot": 1738191,
+      "num": 659042,
       "word": "母亲出家裸捐588万女儿贷款上大学",
       "onboard_time": 1669090779,
       "rank": 31,
@@ -587,6 +587,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 657734,
+      "num": 657734,
+      "word": "白敬亭田曦薇GQ合体",
+      "onboard_time": 1669093360,
+      "rank": 10,
+      "category": "综艺,时尚"
+    },
+    {
       "raw_hot": 655041,
       "num": 405172,
       "word": "鹿晗回复退钱哥说世界杯结束约一场",
@@ -683,14 +691,6 @@
       "category": "科技,财经"
     },
     {
-      "raw_hot": 610998,
-      "num": 375114,
-      "word": "白敬亭田曦薇GQ合体",
-      "onboard_time": 1669093360,
-      "rank": 10,
-      "category": "综艺,时尚"
-    },
-    {
       "raw_hot": 591406,
       "num": 591406,
       "word": "晋江崩了",
@@ -752,6 +752,14 @@
       "word": "孩子书包鼓鼓的没一本书全是战利品",
       "onboard_time": 1668992611,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 560290,
+      "num": 560290,
+      "word": "妹妹误将火碱当冰糖冲给姐姐喝",
+      "onboard_time": 1669092397,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -1025,14 +1033,6 @@
       "onboard_time": 1668987689,
       "rank": 13,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 459884,
-      "num": 374705,
-      "word": "妹妹误将火碱当冰糖冲给姐姐喝",
-      "onboard_time": 1669092397,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 459100,
@@ -1499,6 +1499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 346243,
+      "num": 346243,
+      "word": "张婧仪说陈飞宇和李峋的反差感",
+      "onboard_time": 1669091560,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 345838,
       "num": 345838,
       "word": "幼童在幼儿园被殴打致轻微伤",
@@ -1547,6 +1555,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 339143,
+      "num": 339143,
+      "word": "卡塔尔版退钱哥",
+      "onboard_time": 1669093844,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 339132,
       "num": 339132,
       "word": "秦施是小三克星吧",
@@ -1569,6 +1585,14 @@
       "onboard_time": 1669016194,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 334951,
+      "num": 334951,
+      "word": "卡塔尔和迪拜哪个更富",
+      "onboard_time": 1669094314,
+      "rank": 48,
+      "category": "体育,旅游"
     },
     {
       "raw_hot": 334768,
@@ -1619,14 +1643,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 332797,
-      "num": 252712,
-      "word": "张婧仪说陈飞宇和李峋的反差感",
-      "onboard_time": 1669091560,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 332696,
       "num": 332696,
       "word": "原来有钱人也有不快乐的时候",
@@ -1657,6 +1673,14 @@
       "onboard_time": 1669000587,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 328047,
+      "num": 258594,
+      "word": "蔡徐坤GQ红毯飞行嘉宾",
+      "onboard_time": 1669093957,
+      "rank": 25,
+      "category": "综艺,时尚"
     },
     {
       "raw_hot": 324649,
@@ -1915,6 +1939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 270543,
+      "num": 270543,
+      "word": "鹤壁校园欺凌事件涉事副校长被辞退",
+      "onboard_time": 1669094675,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 267605,
       "num": 267605,
       "word": "王霏霏终于跳舞了",
@@ -1961,6 +1993,14 @@
       "onboard_time": 1669019616,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 260842,
+      "num": 197333,
+      "word": "陆毅鲍蕾官宣加盟妻子的浪漫旅行6",
+      "onboard_time": 1669094555,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 260796,
@@ -2131,6 +2171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 234966,
+      "num": 234966,
+      "word": "肉摊主见女子困难慷慨赠8斤肉和油",
+      "onboard_time": 1669092162,
+      "rank": 49,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 234293,
       "num": 181044,
       "word": "霉霉AMA全美音乐奖6提6中",
@@ -2145,14 +2193,6 @@
       "onboard_time": 1669041948,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 228959,
-      "num": 228959,
-      "word": "蔡徐坤GQ红毯飞行嘉宾",
-      "onboard_time": 1669093957,
-      "rank": 25,
-      "category": "综艺,时尚"
     },
     {
       "raw_hot": 228293,
@@ -2347,12 +2387,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 202263,
-      "num": 202263,
-      "word": "肉摊主见女子困难慷慨赠8斤肉和油",
-      "onboard_time": 1669092162,
-      "rank": 49,
-      "category": "社会正能量"
+      "raw_hot": 202512,
+      "num": 202512,
+      "word": "原来这么多明星喜欢梅西",
+      "onboard_time": 1669094377,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 200965,
@@ -2467,6 +2507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 194523,
+      "num": 194523,
+      "word": "以爱为营错撩概念海报",
+      "onboard_time": 1669095036,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 193060,
       "num": 226670,
       "word": "9人捕捞极危长江鲟吃了3尾养死3尾",
@@ -2569,6 +2617,14 @@
       "onboard_time": 1669080995,
       "rank": 40,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 180270,
+      "num": 180270,
+      "word": "井柏然钱开逸限定返场",
+      "onboard_time": 1669094974,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 179507,
@@ -2795,14 +2851,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 161372,
-      "num": 161372,
-      "word": "卡塔尔版退钱哥",
-      "onboard_time": 1669093844,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 160108,
       "num": 160108,
       "word": "学鸟走路的猫咪",
@@ -2817,6 +2865,14 @@
       "onboard_time": 1669029879,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 159384,
+      "num": 159384,
+      "word": "村民称安阳着火厂房做工的多为女性",
+      "onboard_time": 1669093838,
+      "rank": 42,
+      "category": "社会负面"
     },
     {
       "raw_hot": 159333,
@@ -2897,14 +2953,6 @@
       "onboard_time": 1669091919,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 150397,
-      "num": 150397,
-      "word": "村民称安阳着火厂房做工的多为女性",
-      "onboard_time": 1669093838,
-      "rank": 42,
-      "category": "社会负面"
     },
     {
       "raw_hot": 148563,
@@ -3219,14 +3267,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 129795,
-      "num": 129795,
-      "word": "卡塔尔和迪拜哪个更富",
-      "onboard_time": 1669094314,
-      "rank": 48,
-      "category": "体育,旅游"
-    },
-    {
       "raw_hot": 129656,
       "num": 129656,
       "word": "NCTDREAM全员荧光绿造型",
@@ -3241,6 +3281,14 @@
       "onboard_time": 1669047334,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 128185,
+      "num": 128185,
+      "word": "JDG官宣Yagao成为自由人",
+      "onboard_time": 1669095275,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 126770,
@@ -3417,6 +3465,14 @@
       "onboard_time": 1669072642,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 113025,
+      "num": 113025,
+      "word": "大熊猫团团已于19日完成解剖",
+      "onboard_time": 1669094916,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 112182,
