@@ -1,6 +1,6 @@
 {
   "startTime": 1669048272938,
-  "endTime": 1669105794016,
+  "endTime": 1669106710065,
   "band_list": [
     {
       "raw_hot": 2842712,
@@ -80,6 +80,14 @@
       "word": "江歌",
       "onboard_time": 1669103311,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1028010,
+      "num": 1028010,
+      "word": "儿子划伤豪车爸爸让其拿现金道歉",
+      "onboard_time": 1669104333,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -211,12 +219,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 630765,
+      "num": 630765,
+      "word": "女子欠千万网贷申请精神病鉴定",
+      "onboard_time": 1669103370,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 626815,
       "num": 626815,
       "word": "李现说早买早享受",
       "onboard_time": 1669045839,
       "rank": 4,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 623524,
+      "num": 623524,
+      "word": "国务院联防联控机制发布会",
+      "onboard_time": 1669102471,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 622515,
@@ -243,14 +267,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 611504,
-      "num": 611504,
-      "word": "儿子划伤豪车爸爸让其拿现金道歉",
-      "onboard_time": 1669104333,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 587421,
       "num": 587421,
       "word": "小学女生卫生间多了月经暖心盒",
@@ -267,20 +283,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 566901,
-      "num": 566901,
-      "word": "国务院联防联控机制发布会",
-      "onboard_time": 1669102471,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 560290,
       "num": 560290,
       "word": "妹妹误将火碱当冰糖冲给姐姐喝",
       "onboard_time": 1669092397,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 543896,
+      "num": 543896,
+      "word": "英雄联盟",
+      "onboard_time": 1669104571,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 542179,
@@ -403,14 +419,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 486006,
-      "num": 486006,
-      "word": "女子欠千万网贷申请精神病鉴定",
-      "onboard_time": 1669103370,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 481491,
       "num": 303983,
       "word": "郭晓婷晒C罗签名球服",
@@ -449,14 +457,6 @@
       "onboard_time": 1669083579,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 466147,
-      "num": 466147,
-      "word": "英雄联盟",
-      "onboard_time": 1669104571,
-      "rank": 9,
-      "category": "游戏"
     },
     {
       "raw_hot": 465546,
@@ -795,6 +795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 280028,
+      "num": 280028,
+      "word": "京东薪资水平",
+      "onboard_time": 1669105052,
+      "rank": 25,
+      "category": "科技"
+    },
+    {
       "raw_hot": 279992,
       "num": 279992,
       "word": "女子称休息日不去公司开会被辞退",
@@ -816,6 +824,14 @@
       "word": "卿卿日常是懂取名字的",
       "onboard_time": 1669087232,
       "rank": 23,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 271761,
+      "num": 271761,
+      "word": "朱韵命令李峋二十四小时随时待命",
+      "onboard_time": 1669105353,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -867,6 +883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 264684,
+      "num": 264684,
+      "word": "田曦薇李薇眼神变了",
+      "onboard_time": 1669105174,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 261274,
       "num": 261274,
       "word": "黄明昊九尾互关了",
@@ -888,6 +912,14 @@
       "word": "塞内加尔0比2荷兰",
       "onboard_time": 1669054816,
       "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 257558,
+      "num": 257558,
+      "word": "把球交给梅西",
+      "onboard_time": 1669104033,
+      "rank": 21,
       "category": "体育"
     },
     {
@@ -913,14 +945,6 @@
       "onboard_time": 1669104931,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 248790,
-      "num": 248790,
-      "word": "把球交给梅西",
-      "onboard_time": 1669104033,
-      "rank": 21,
-      "category": "体育"
     },
     {
       "raw_hot": 248072,
@@ -963,12 +987,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 241275,
+      "num": 241275,
+      "word": "孟美岐眼中粉丝和艺人的良性距离",
+      "onboard_time": 1669105834,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 240985,
       "num": 240985,
       "word": "陶昕然说如果我天天跟孙俪比就只能跳楼",
       "onboard_time": 1669034382,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 235406,
+      "num": 170174,
+      "word": "李峋得知朱韵给自己发工资",
+      "onboard_time": 1669106071,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 226417,
@@ -1051,26 +1091,18 @@
       "category": "影视"
     },
     {
-      "raw_hot": 213380,
-      "num": 213380,
-      "word": "京东薪资水平",
-      "onboard_time": 1669105052,
-      "rank": 25,
-      "category": "科技"
+      "raw_hot": 213585,
+      "num": 213585,
+      "word": "小伙入户抢劫失足女5千被判10年",
+      "onboard_time": 1669104872,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 211545,
       "num": 211545,
       "word": "阿凡达2水之道角色海报",
       "onboard_time": 1669080753,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 209590,
-      "num": 196198,
-      "word": "朱韵命令李峋二十四小时随时待命",
-      "onboard_time": 1669105353,
       "rank": 30,
       "category": "影视"
     },
@@ -1136,14 +1168,6 @@
       "word": "施情华意领证了",
       "onboard_time": 1669040567,
       "rank": 33,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 192416,
-      "num": 196308,
-      "word": "田曦薇李薇眼神变了",
-      "onboard_time": 1669105174,
-      "rank": 29,
       "category": "影视"
     },
     {
@@ -1283,6 +1307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 172562,
+      "num": 172562,
+      "word": "艾欧尼亚",
+      "onboard_time": 1669106255,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 172159,
       "num": 172159,
       "word": "蔡徐坤前东家晒练习生整形费用",
@@ -1371,14 +1403,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 158896,
-      "num": 158896,
-      "word": "小伙入户抢劫失足女5千被判10年",
-      "onboard_time": 1669104872,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 157738,
       "num": 157738,
       "word": "李峋好狠的心",
@@ -1427,6 +1451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 147638,
+      "num": 147638,
+      "word": "中国企业成本届世界杯最大金主",
+      "onboard_time": 1669103131,
+      "rank": 46,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 144048,
       "num": 92815,
       "word": "加克波头球破门",
@@ -1443,6 +1475,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 143620,
+      "num": 143620,
+      "word": "Fly刺痛神仙兄弟情",
+      "onboard_time": 1669106012,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 143238,
       "num": 143238,
       "word": "京东逐步为德邦员工缴齐五险一金",
@@ -1457,6 +1497,14 @@
       "onboard_time": 1669022972,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 140929,
+      "num": 140929,
+      "word": "被广西辣椒拌水果惊艳住了",
+      "onboard_time": 1669106494,
+      "rank": 42,
+      "category": "美食"
     },
     {
       "raw_hot": 139599,
@@ -1481,14 +1529,6 @@
       "onboard_time": 1669037140,
       "rank": 42,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 136290,
-      "num": 136290,
-      "word": "中国企业成本届世界杯最大金主",
-      "onboard_time": 1669103131,
-      "rank": 46,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 136079,
@@ -1619,12 +1659,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 118767,
+      "num": 118767,
+      "word": "这只海獭好有礼貌",
+      "onboard_time": 1669106613,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 117101,
       "num": 117101,
       "word": "原来跳高也很有观赏性",
       "onboard_time": 1669081832,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 115943,
+      "num": 121081,
+      "word": "如何提升独居幸福感",
+      "onboard_time": 1669105593,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 114732,
@@ -1892,6 +1948,9 @@
     },
     {
       "word": "#新时代新征程新伟业#"
+    },
+    {
+      "word": "#视频回顾习主席东南亚之行#"
     }
   ]
 }
