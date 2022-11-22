@@ -1,6 +1,6 @@
 {
   "startTime": 1668961718135,
-  "endTime": 1669083913622,
+  "endTime": 1669086882596,
   "band_list": [
     {
       "raw_hot": 4068058,
@@ -83,20 +83,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1830286,
+      "num": 981244,
+      "word": "男子月挣4000怪妻子花680接头发",
+      "onboard_time": 1669080153,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1822592,
       "num": 1822592,
       "word": "田柾国",
       "onboard_time": 1668957578,
       "rank": 3,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 1764816,
-      "num": 981244,
-      "word": "男子月挣4000怪妻子花680接头发",
-      "onboard_time": 1669080153,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1660063,
@@ -137,6 +137,14 @@
       "onboard_time": 1669012651,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1512191,
+      "num": 1512191,
+      "word": "杜海涛为证明瘦了踩毛不易腿上",
+      "onboard_time": 1669080815,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 1458438,
@@ -241,14 +249,6 @@
       "onboard_time": 1669040443,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1055023,
-      "num": 1055023,
-      "word": "杜海涛为证明瘦了踩毛不易腿上",
-      "onboard_time": 1669080815,
-      "rank": 9,
-      "category": "综艺"
     },
     {
       "raw_hot": 1050384,
@@ -723,6 +723,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 527090,
+      "num": 527090,
+      "word": "杨紫提醒大家注意冬季消防安全",
+      "onboard_time": 1669086632,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 523601,
       "num": 523601,
       "word": "女子工作5年前后对比判若两人",
@@ -819,6 +827,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 492845,
+      "num": 492845,
+      "word": "阿根廷vs沙特阿拉伯",
+      "onboard_time": 1669082733,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 491777,
       "num": 491777,
       "word": "网传倪妮刘诗诗三搭出演新剧",
@@ -897,6 +913,14 @@
       "onboard_time": 1668907471,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 469167,
+      "num": 405825,
+      "word": "陈都灵新剧亲徐璐的手背",
+      "onboard_time": 1669083579,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 461496,
@@ -1099,6 +1123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 411168,
+      "num": 411168,
+      "word": "交警破译男子咒语式停车电话",
+      "onboard_time": 1669081293,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 411009,
       "num": 411009,
       "word": "陈飞宇张婧仪用嘴放烟花花絮",
@@ -1209,6 +1241,14 @@
       "onboard_time": 1669002688,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 381436,
+      "num": 381436,
+      "word": "中石化与卡塔尔签史上最长液化天然气协议",
+      "onboard_time": 1669085309,
+      "rank": 11,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 381093,
@@ -1347,12 +1387,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 344816,
+      "num": 344816,
+      "word": "卡塔尔集装箱球迷村全部是中国制造",
+      "onboard_time": 1669081949,
+      "rank": 47,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 341195,
       "num": 341195,
       "word": "这就是寄猫篱下吧",
       "onboard_time": 1669003651,
       "rank": 19,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 340240,
+      "num": 340240,
+      "word": "安阳厂房火灾已致36人死亡",
+      "onboard_time": 1669074691,
+      "rank": 28,
+      "category": "社会负面"
     },
     {
       "raw_hot": 339865,
@@ -1683,14 +1739,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 269377,
-      "num": 269377,
-      "word": "交警破译男子咒语式停车电话",
-      "onboard_time": 1669081293,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 267605,
       "num": 267605,
       "word": "王霏霏终于跳舞了",
@@ -1761,6 +1809,22 @@
       "onboard_time": 1669054816,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 256904,
+      "num": 256904,
+      "word": "梅西世界杯首秀",
+      "onboard_time": 1669085492,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 255283,
+      "num": 255283,
+      "word": "A股上市公司数量突破5000家",
+      "onboard_time": 1669084770,
+      "rank": 23,
+      "category": "财经"
     },
     {
       "raw_hot": 254678,
@@ -1987,6 +2051,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 216577,
+      "num": 216577,
+      "word": "命韵峋环新情头",
+      "onboard_time": 1669086632,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 216218,
+      "num": 216218,
+      "word": "奶奶用胶带帮老伴提拉下垂眼皮",
+      "onboard_time": 1669084472,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 213538,
       "num": 213538,
       "word": "在重庆的一天有多令人羡慕",
@@ -2025,14 +2105,6 @@
       "onboard_time": 1669026937,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 205270,
-      "num": 205270,
-      "word": "安阳厂房火灾已致36人死亡",
-      "onboard_time": 1669074691,
-      "rank": 28,
-      "category": "社会负面"
     },
     {
       "raw_hot": 204900,
@@ -2177,22 +2249,6 @@
       "onboard_time": 1669038225,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 192593,
-      "num": 192593,
-      "word": "卡塔尔集装箱球迷村全部是中国制造",
-      "onboard_time": 1669081949,
-      "rank": 47,
-      "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 192003,
-      "num": 192003,
-      "word": "阿根廷vs沙特阿拉伯",
-      "onboard_time": 1669082733,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 189896,
@@ -2459,20 +2515,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 166908,
-      "num": 166908,
-      "word": "陈都灵新剧亲徐璐的手背",
-      "onboard_time": 1669083579,
-      "rank": 34,
-      "category": "影视"
-    },
-    {
       "raw_hot": 163878,
       "num": 163878,
       "word": "男孩被卷车底路人30秒极速救援",
       "onboard_time": 1669008934,
       "rank": 49,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 163354,
+      "num": 163354,
+      "word": "伴郎团化身财神爷天团接亲",
+      "onboard_time": 1669085671,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 162895,
@@ -2571,6 +2627,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 152528,
+      "num": 152528,
+      "word": "男子上厕所怕脏踩碎合租房马桶",
+      "onboard_time": 1669086213,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 148563,
       "num": 162517,
       "word": "手机厂商为何执着自研芯片",
@@ -2593,6 +2657,14 @@
       "onboard_time": 1668961709,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 148395,
+      "num": 148395,
+      "word": "王嘉尔的健身直播",
+      "onboard_time": 1669086512,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 148070,
@@ -2803,6 +2875,14 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 135252,
+      "num": 135252,
+      "word": "世界杯看台上的中国球迷",
+      "onboard_time": 1669085070,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 134337,
       "num": 134337,
       "word": "冬季第二个节气",
@@ -2841,6 +2921,14 @@
       "onboard_time": 1669005998,
       "rank": 49,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 131041,
+      "num": 131041,
+      "word": "微博视界大会官宣定档",
+      "onboard_time": 1669085972,
+      "rank": 41,
+      "category": "综艺,科技"
     },
     {
       "raw_hot": 129656,
@@ -2931,6 +3019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 119638,
+      "num": 119638,
+      "word": "3岁萌娃怕热吃汤饭汗如雨下",
+      "onboard_time": 1669086750,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 119621,
       "num": 119621,
       "word": "单亲妈妈带3娃千里投奔网恋对象",
@@ -3017,6 +3113,14 @@
       "onboard_time": 1669072642,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 112280,
+      "num": 112280,
+      "word": "张婧仪晒和曾可妮姜梓新三人合照",
+      "onboard_time": 1669086750,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 112182,

@@ -1,9 +1,9 @@
 {
   "startTime": 1669048272938,
-  "endTime": 1669083913622,
+  "endTime": 1669086882596,
   "band_list": [
     {
-      "raw_hot": 1764816,
+      "raw_hot": 1830286,
       "num": 981244,
       "word": "男子月挣4000怪妻子花680接头发",
       "onboard_time": 1669080153,
@@ -19,20 +19,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1512191,
+      "num": 1512191,
+      "word": "杜海涛为证明瘦了踩毛不易腿上",
+      "onboard_time": 1669080815,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1180241,
       "num": 1180241,
       "word": "别再踩公厕马桶圈了",
       "onboard_time": 1669046794,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1055023,
-      "num": 1055023,
-      "word": "杜海涛为证明瘦了踩毛不易腿上",
-      "onboard_time": 1669080815,
-      "rank": 9,
-      "category": "综艺"
     },
     {
       "raw_hot": 961699,
@@ -131,6 +131,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 527090,
+      "num": 527090,
+      "word": "杨紫提醒大家注意冬季消防安全",
+      "onboard_time": 1669086632,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 523601,
       "num": 523601,
       "word": "女子工作5年前后对比判若两人",
@@ -179,6 +187,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 492845,
+      "num": 492845,
+      "word": "阿根廷vs沙特阿拉伯",
+      "onboard_time": 1669082733,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 490569,
       "num": 490569,
       "word": "安阳厂房火灾犯罪嫌疑人已被控制",
@@ -201,6 +217,14 @@
       "onboard_time": 1669078057,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 469167,
+      "num": 405825,
+      "word": "陈都灵新剧亲徐璐的手背",
+      "onboard_time": 1669083579,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 456427,
@@ -243,6 +267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 411168,
+      "num": 411168,
+      "word": "交警破译男子咒语式停车电话",
+      "onboard_time": 1669081293,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 406929,
       "num": 406929,
       "word": "安阳厂房火灾已致38人失联",
@@ -251,12 +283,36 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 381436,
+      "num": 381436,
+      "word": "中石化与卡塔尔签史上最长液化天然气协议",
+      "onboard_time": 1669085309,
+      "rank": 11,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 373756,
       "num": 373756,
       "word": "王鹤棣拍吻戏看到粉丝的表情",
       "onboard_time": 1669077395,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 344816,
+      "num": 344816,
+      "word": "卡塔尔集装箱球迷村全部是中国制造",
+      "onboard_time": 1669081949,
+      "rank": 47,
+      "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 340240,
+      "num": 340240,
+      "word": "安阳厂房火灾已致36人死亡",
+      "onboard_time": 1669074691,
+      "rank": 28,
+      "category": "社会负面"
     },
     {
       "raw_hot": 334673,
@@ -347,20 +403,28 @@
       "category": "影视"
     },
     {
-      "raw_hot": 269377,
-      "num": 269377,
-      "word": "交警破译男子咒语式停车电话",
-      "onboard_time": 1669081293,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 257669,
       "num": 257669,
       "word": "塞内加尔0比2荷兰",
       "onboard_time": 1669054816,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 256904,
+      "num": 256904,
+      "word": "梅西世界杯首秀",
+      "onboard_time": 1669085492,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 255283,
+      "num": 255283,
+      "word": "A股上市公司数量突破5000家",
+      "onboard_time": 1669084770,
+      "rank": 23,
+      "category": "财经"
     },
     {
       "raw_hot": 252278,
@@ -435,20 +499,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 216577,
+      "num": 216577,
+      "word": "命韵峋环新情头",
+      "onboard_time": 1669086632,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 216218,
+      "num": 216218,
+      "word": "奶奶用胶带帮老伴提拉下垂眼皮",
+      "onboard_time": 1669084472,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 211545,
       "num": 211545,
       "word": "阿凡达2水之道角色海报",
       "onboard_time": 1669080753,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 205270,
-      "num": 205270,
-      "word": "安阳厂房火灾已致36人死亡",
-      "onboard_time": 1669074691,
-      "rank": 28,
-      "category": "社会负面"
     },
     {
       "raw_hot": 197458,
@@ -481,22 +553,6 @@
       "onboard_time": 1669040567,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 192593,
-      "num": 192593,
-      "word": "卡塔尔集装箱球迷村全部是中国制造",
-      "onboard_time": 1669081949,
-      "rank": 47,
-      "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 192003,
-      "num": 192003,
-      "word": "阿根廷vs沙特阿拉伯",
-      "onboard_time": 1669082733,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 191009,
@@ -635,12 +691,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 166908,
-      "num": 166908,
-      "word": "陈都灵新剧亲徐璐的手背",
-      "onboard_time": 1669083579,
-      "rank": 34,
-      "category": "影视"
+      "raw_hot": 163354,
+      "num": 163354,
+      "word": "伴郎团化身财神爷天团接亲",
+      "onboard_time": 1669085671,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 159165,
@@ -659,12 +715,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 152528,
+      "num": 152528,
+      "word": "男子上厕所怕脏踩碎合租房马桶",
+      "onboard_time": 1669086213,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 148563,
       "num": 162517,
       "word": "手机厂商为何执着自研芯片",
       "onboard_time": 1669083753,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 148395,
+      "num": 148395,
+      "word": "王嘉尔的健身直播",
+      "onboard_time": 1669086512,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 144048,
@@ -699,6 +771,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 135252,
+      "num": 135252,
+      "word": "世界杯看台上的中国球迷",
+      "onboard_time": 1669085070,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 134337,
       "num": 134337,
       "word": "冬季第二个节气",
@@ -715,6 +795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 131041,
+      "num": 131041,
+      "word": "微博视界大会官宣定档",
+      "onboard_time": 1669085972,
+      "rank": 41,
+      "category": "综艺,科技"
+    },
+    {
       "raw_hot": 128253,
       "num": 128253,
       "word": "边牧和萨摩耶的区别",
@@ -728,6 +816,14 @@
       "word": "两男子凌晨持刀脱鞋在居民楼乱窜",
       "onboard_time": 1669036479,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 119638,
+      "num": 119638,
+      "word": "3岁萌娃怕热吃汤饭汗如雨下",
+      "onboard_time": 1669086750,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -761,6 +857,14 @@
       "onboard_time": 1669072642,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 112280,
+      "num": 112280,
+      "word": "张婧仪晒和曾可妮姜梓新三人合照",
+      "onboard_time": 1669086750,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 110034,
