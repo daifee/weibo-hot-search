@@ -1,6 +1,6 @@
 {
   "startTime": 1668961718135,
-  "endTime": 1669124055157,
+  "endTime": 1669124725480,
   "band_list": [
     {
       "raw_hot": 13131209,
@@ -59,8 +59,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 3309989,
-      "num": 3309989,
+      "raw_hot": 3322442,
+      "num": 3322442,
       "word": "沙特赔率",
       "onboard_time": 1669119894,
       "rank": 13,
@@ -313,6 +313,14 @@
       "onboard_time": 1669107572,
       "rank": 13,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1292406,
+      "num": 1292406,
+      "word": "上海疫情防控",
+      "onboard_time": 1669123421,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1264594,
@@ -675,14 +683,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 831264,
-      "num": 831264,
-      "word": "上海疫情防控",
-      "onboard_time": 1669123421,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 829857,
       "num": 829857,
       "word": "台湾电价是什么水平",
@@ -713,6 +713,14 @@
       "onboard_time": 1669008694,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 795004,
+      "num": 795004,
+      "word": "沙特门将 身价暴涨",
+      "onboard_time": 1669120669,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 784834,
@@ -801,6 +809,14 @@
       "onboard_time": 1668955296,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 716862,
+      "num": 716862,
+      "word": "王鹤棣说我是时宴等候多时了",
+      "onboard_time": 1669123780,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 713999,
@@ -947,14 +963,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 643120,
-      "num": 643120,
-      "word": "沙特门将 身价暴涨",
-      "onboard_time": 1669120669,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 642788,
       "num": 642788,
       "word": "卡塔尔国旗是世界最长国旗",
@@ -1043,6 +1051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 593647,
+      "num": 593647,
+      "word": "Doinb爆料EDG",
+      "onboard_time": 1669123000,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 591406,
       "num": 591406,
       "word": "晋江崩了",
@@ -1091,20 +1107,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 570404,
-      "num": 570404,
-      "word": "王鹤棣说我是时宴等候多时了",
-      "onboard_time": 1669123780,
-      "rank": 13,
-      "category": "影视"
-    },
-    {
       "raw_hot": 567435,
       "num": 360464,
       "word": "马凡舒好美",
       "onboard_time": 1668957940,
       "rank": 13,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 564984,
+      "num": 564984,
+      "word": "警方回应男子夜钓时钓到一具浮尸",
+      "onboard_time": 1669121806,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 562692,
@@ -1321,14 +1337,6 @@
       "onboard_time": 1669103493,
       "rank": 6,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 497995,
-      "num": 497995,
-      "word": "警方回应男子夜钓时钓到一具浮尸",
-      "onboard_time": 1669121806,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 497290,
@@ -1635,14 +1643,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 434902,
-      "num": 434902,
-      "word": "Doinb爆料EDG",
-      "onboard_time": 1669123000,
-      "rank": 19,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 434874,
       "num": 434874,
       "word": "内蒙古惊现3个太阳幻日奇观",
@@ -1731,6 +1731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 419040,
+      "num": 419040,
+      "word": "砸电视",
+      "onboard_time": 1669121865,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 418582,
       "num": 418582,
       "word": "命韵峋环终于回来了",
@@ -1811,6 +1819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 408595,
+      "num": 408595,
+      "word": "德国队",
+      "onboard_time": 1669123122,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 407478,
       "num": 240236,
       "word": "摩根弗里曼",
@@ -1857,6 +1873,14 @@
       "onboard_time": 1669099592,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 402548,
+      "num": 402548,
+      "word": "陈紫函说郝葭的命我赵芳如来管",
+      "onboard_time": 1669124439,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 402281,
@@ -1992,6 +2016,14 @@
       "word": "阿根廷后防",
       "onboard_time": 1669118678,
       "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 374087,
+      "num": 374087,
+      "word": "法国vs澳大利亚",
+      "onboard_time": 1669123780,
+      "rank": 36,
       "category": "体育"
     },
     {
@@ -2419,6 +2451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 322150,
+      "num": 322150,
+      "word": "上海进一步加强来沪返沪人员健康管理",
+      "onboard_time": 1669124078,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 321528,
       "num": 321528,
       "word": "把球交给梅西",
@@ -2579,6 +2619,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 295611,
+      "num": 295611,
+      "word": "24日起抵沪不满5天者不得进入公共场所",
+      "onboard_time": 1669123361,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 294718,
       "num": 294718,
       "word": "两个人为什么会慢慢走散",
@@ -2587,20 +2635,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 292640,
+      "num": 292640,
+      "word": "一键查询梅西球迷精神状态",
+      "onboard_time": 1669123421,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 292194,
       "num": 292194,
       "word": "世界杯首日一医院收治20多位球迷",
       "onboard_time": 1669039727,
       "rank": 39,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 291912,
-      "num": 291912,
-      "word": "德国队",
-      "onboard_time": 1669123122,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 291014,
@@ -2675,12 +2723,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 284408,
-      "num": 284408,
-      "word": "砸电视",
-      "onboard_time": 1669121865,
-      "rank": 40,
-      "category": "体育"
+      "raw_hot": 283501,
+      "num": 283501,
+      "word": "郑州新增1例死亡病例",
+      "onboard_time": 1669123662,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 282518,
@@ -3283,14 +3331,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 217729,
-      "num": 217729,
-      "word": "法国vs澳大利亚",
-      "onboard_time": 1669123780,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 217461,
       "num": 217461,
       "word": "沙特 受伤",
@@ -3379,6 +3419,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 214373,
+      "num": 214373,
+      "word": "重庆籍艺人为家乡加油",
+      "onboard_time": 1669124623,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 213538,
       "num": 213538,
       "word": "在重庆的一天有多令人羡慕",
@@ -3417,14 +3465,6 @@
       "onboard_time": 1669115853,
       "rank": 47,
       "category": "美食"
-    },
-    {
-      "raw_hot": 207966,
-      "num": 207966,
-      "word": "24日起抵沪不满5天者不得进入公共场所",
-      "onboard_time": 1669123361,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 206095,
@@ -3505,6 +3545,14 @@
       "onboard_time": 1669030478,
       "rank": 30,
       "category": "科技,艺人"
+    },
+    {
+      "raw_hot": 200692,
+      "num": 200692,
+      "word": "赌狗末日",
+      "onboard_time": 1669124142,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 200460,
@@ -4131,14 +4179,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 163172,
-      "num": 163172,
-      "word": "郑州新增1例死亡病例",
-      "onboard_time": 1669123662,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 162895,
       "num": 162895,
       "word": "GEN与Peanut续约",
@@ -4376,6 +4416,14 @@
       "word": "当一个卡塔尔人是什么体验",
       "onboard_time": 1669113095,
       "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 147010,
+      "num": 147010,
+      "word": "埃里克森首发",
+      "onboard_time": 1669124679,
+      "rank": 49,
       "category": "体育"
     },
     {

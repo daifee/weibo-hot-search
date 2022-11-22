@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1669124055157,
+  "endTime": 1669124725480,
   "band_list": [
     {
       "raw_hot": 13131209,
@@ -275,8 +275,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 3309989,
-      "num": 3309989,
+      "raw_hot": 3322442,
+      "num": 3322442,
       "word": "沙特赔率",
       "onboard_time": 1669119894,
       "rank": 13,
@@ -2625,6 +2625,14 @@
       "onboard_time": 1668592829,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1292406,
+      "num": 1292406,
+      "word": "上海疫情防控",
+      "onboard_time": 1669123421,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1287546,
@@ -5531,14 +5539,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 831264,
-      "num": 831264,
-      "word": "上海疫情防控",
-      "onboard_time": 1669123421,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 830709,
       "num": 430890,
       "word": "杨超越跳了nxde",
@@ -5865,6 +5865,14 @@
       "onboard_time": 1668471757,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 795004,
+      "num": 795004,
+      "word": "沙特门将 身价暴涨",
+      "onboard_time": 1669120669,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 794904,
@@ -6809,6 +6817,14 @@
       "onboard_time": 1668350972,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 716862,
+      "num": 716862,
+      "word": "王鹤棣说我是时宴等候多时了",
+      "onboard_time": 1669123780,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 716309,
@@ -8027,14 +8043,6 @@
       "category": "游戏,网红"
     },
     {
-      "raw_hot": 643120,
-      "num": 643120,
-      "word": "沙特门将 身价暴涨",
-      "onboard_time": 1669120669,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 642788,
       "num": 642788,
       "word": "卡塔尔国旗是世界最长国旗",
@@ -8883,6 +8891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 593647,
+      "num": 593647,
+      "word": "Doinb爆料EDG",
+      "onboard_time": 1669123000,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 592973,
       "num": 575032,
       "word": "拜登称波兰爆炸导弹可能不是从俄发射",
@@ -9387,14 +9403,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 570404,
-      "num": 570404,
-      "word": "王鹤棣说我是时宴等候多时了",
-      "onboard_time": 1669123780,
-      "rank": 13,
-      "category": "影视"
-    },
-    {
       "raw_hot": 569745,
       "num": 569745,
       "word": "商户因体温枪没电被要求停业1天",
@@ -9520,6 +9528,14 @@
       "word": "北方女子南方点外卖遇巴掌大炒饭",
       "onboard_time": 1668909330,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 564984,
+      "num": 564984,
+      "word": "警方回应男子夜钓时钓到一具浮尸",
+      "onboard_time": 1669121806,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -11432,14 +11448,6 @@
       "word": "河北一银行窗台洒豆油防老人坐",
       "onboard_time": 1668693389,
       "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 497995,
-      "num": 497995,
-      "word": "警方回应男子夜钓时钓到一具浮尸",
-      "onboard_time": 1669121806,
-      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -13827,14 +13835,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 434902,
-      "num": 434902,
-      "word": "Doinb爆料EDG",
-      "onboard_time": 1669123000,
-      "rank": 19,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 434874,
       "num": 434874,
       "word": "内蒙古惊现3个太阳幻日奇观",
@@ -14507,6 +14507,14 @@
       "category": "动漫,影视"
     },
     {
+      "raw_hot": 419040,
+      "num": 419040,
+      "word": "砸电视",
+      "onboard_time": 1669121865,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 418582,
       "num": 418582,
       "word": "命韵峋环终于回来了",
@@ -14899,6 +14907,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 408595,
+      "num": 408595,
+      "word": "德国队",
+      "onboard_time": 1669123122,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 408410,
       "num": 408410,
       "word": "女子租房遇奇葩隔断房电梯在房内",
@@ -15169,6 +15185,14 @@
       "onboard_time": 1667226329,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 402548,
+      "num": 402548,
+      "word": "陈紫函说郝葭的命我赵芳如来管",
+      "onboard_time": 1669124439,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 402367,
@@ -16457,6 +16481,14 @@
       "onboard_time": 1668404789,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 374087,
+      "num": 374087,
+      "word": "法国vs澳大利亚",
+      "onboard_time": 1669123780,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 373756,
@@ -19347,6 +19379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 322150,
+      "num": 322150,
+      "word": "上海进一步加强来沪返沪人员健康管理",
+      "onboard_time": 1669124078,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 321841,
       "num": 321841,
       "word": "现在的年轻人为什么爱喝汤",
@@ -20939,6 +20979,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 295611,
+      "num": 295611,
+      "word": "24日起抵沪不满5天者不得进入公共场所",
+      "onboard_time": 1669123361,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 295204,
       "num": 295204,
       "word": "金智秀晒与卡妹的合照",
@@ -21091,6 +21139,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 292640,
+      "num": 292640,
+      "word": "一键查询梅西球迷精神状态",
+      "onboard_time": 1669123421,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 292600,
       "num": 292600,
       "word": "你是什么惠",
@@ -21137,14 +21193,6 @@
       "onboard_time": 1668157597,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 291912,
-      "num": 291912,
-      "word": "德国队",
-      "onboard_time": 1669123122,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 291707,
@@ -21683,14 +21731,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 284408,
-      "num": 284408,
-      "word": "砸电视",
-      "onboard_time": 1669121865,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 284359,
       "num": 284359,
       "word": "飞天奖红毯阵容官宣",
@@ -21753,6 +21793,14 @@
       "onboard_time": 1667874746,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 283501,
+      "num": 283501,
+      "word": "郑州新增1例死亡病例",
+      "onboard_time": 1669123662,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 283316,
@@ -26859,14 +26907,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 217729,
-      "num": 217729,
-      "word": "法国vs澳大利亚",
-      "onboard_time": 1669123780,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 217698,
       "num": 217698,
       "word": "林加德谈到C罗梅西时被吓坏",
@@ -27241,6 +27281,14 @@
       "onboard_time": 1668561447,
       "rank": 30,
       "category": "军事,国外要闻"
+    },
+    {
+      "raw_hot": 214373,
+      "num": 214373,
+      "word": "重庆籍艺人为家乡加油",
+      "onboard_time": 1669124623,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 214359,
@@ -27809,14 +27857,6 @@
       "onboard_time": 1668149441,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 207966,
-      "num": 207966,
-      "word": "24日起抵沪不满5天者不得进入公共场所",
-      "onboard_time": 1669123361,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 207954,
@@ -28593,6 +28633,14 @@
       "onboard_time": 1668921507,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 200692,
+      "num": 200692,
+      "word": "赌狗末日",
+      "onboard_time": 1669124142,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 200657,
@@ -32939,14 +32987,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 163172,
-      "num": 163172,
-      "word": "郑州新增1例死亡病例",
-      "onboard_time": 1669123662,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 163125,
       "num": 163125,
       "word": "用食堂阿姨打饭方式喂狗子",
@@ -35145,6 +35185,14 @@
       "onboard_time": 1668418707,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 147010,
+      "num": 147010,
+      "word": "埃里克森首发",
+      "onboard_time": 1669124679,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 147009,
