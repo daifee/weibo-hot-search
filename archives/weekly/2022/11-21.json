@@ -1,6 +1,6 @@
 {
   "startTime": 1668961718135,
-  "endTime": 1669151858670,
+  "endTime": 1669152815833,
   "band_list": [
     {
       "raw_hot": 13131209,
@@ -3411,6 +3411,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 251865,
+      "num": 251865,
+      "word": "法国4比1澳大利亚",
+      "onboard_time": 1669151832,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 251089,
       "num": 251089,
       "word": "朱韵关于李峋的朋友圈都是仅自己可见",
@@ -5251,14 +5259,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 127869,
-      "num": 16157,
-      "word": "法国4比1澳大利亚",
-      "onboard_time": 1669151832,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 127810,
       "num": 127810,
       "word": "WBG的周年心愿瓶",
@@ -6003,6 +6003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 73606,
+      "num": 26128,
+      "word": "姆巴佩头球破门",
+      "onboard_time": 1669151832,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 72221,
       "num": 72221,
       "word": "梅西也是巨蟹座",
@@ -6057,6 +6065,14 @@
       "onboard_time": 1669028438,
       "rank": 39,
       "category": "情感,体育"
+    },
+    {
+      "raw_hot": 54879,
+      "num": 26064,
+      "word": "男子在卡塔尔逛商场发现纯金手机",
+      "onboard_time": 1669149791,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 54169,
@@ -6115,28 +6131,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 42405,
-      "num": 16139,
-      "word": "姆巴佩头球破门",
-      "onboard_time": 1669151832,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 41713,
-      "num": 23051,
-      "word": "男子在卡塔尔逛商场发现纯金手机",
-      "onboard_time": 1669149791,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 40730,
       "num": 40730,
       "word": "熬夜看球后建议直接补觉",
       "onboard_time": 1668986002,
       "rank": 48,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 40357,
+      "num": 25708,
+      "word": "吉鲁追平亨利进球纪录",
+      "onboard_time": 1669151832,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 38292,
@@ -6148,7 +6156,7 @@
     },
     {
       "raw_hot": 38032,
-      "num": 23039,
+      "num": 23996,
       "word": "拉比奥头球破门",
       "onboard_time": 1669150752,
       "rank": 32,
@@ -6192,14 +6200,6 @@
       "word": "奥乔亚扑点",
       "onboard_time": 1669144633,
       "rank": 48,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 26272,
-      "num": 16116,
-      "word": "吉鲁追平亨利进球纪录",
-      "onboard_time": 1669151832,
-      "rank": 49,
       "category": "体育"
     },
     {
