@@ -1,0 +1,410 @@
+{
+  "runTime": 1669108881163,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1224341,
+        "num": 1224341,
+        "word": "儿子划伤豪车爸爸让其拿现金道歉",
+        "onboard_time": 1669104333,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 684094,
+        "num": 684094,
+        "word": "女子欠千万网贷申请精神病鉴定",
+        "onboard_time": 1669103370,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118549,
+        "num": 592751,
+        "word": "哪届世界杯吉祥物是你最爱",
+        "onboard_time": 1669098335,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1222950,
+        "num": 590372,
+        "word": "卡塔尔王子看了都愣住",
+        "onboard_time": 1669100494,
+        "rank": 3,
+        "category": "体育,幽默"
+      },
+      {
+        "raw_hot": 532988,
+        "num": 532988,
+        "word": "母亲出家裸捐588万女儿贷款上大学",
+        "onboard_time": 1669090779,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 429312,
+        "num": 429312,
+        "word": "国务院联防联控机制发布会",
+        "onboard_time": 1669102471,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 424314,
+        "num": 424314,
+        "word": "卡塔尔和迪拜哪个更富",
+        "onboard_time": 1669094314,
+        "rank": 6,
+        "category": "体育,旅游"
+      },
+      {
+        "raw_hot": 407866,
+        "num": 407866,
+        "word": "田曦薇李薇眼神变了",
+        "onboard_time": 1669105174,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 403100,
+        "num": 403100,
+        "word": "陈乔恩从女儿的恋爱到妻子的旅行",
+        "onboard_time": 1669107450,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 390821,
+        "num": 390821,
+        "word": "孟美岐眼中粉丝和艺人的良性距离",
+        "onboard_time": 1669105834,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1218163,
+        "num": 389140,
+        "word": "刘强东称对不起京东2000多名高管",
+        "onboard_time": 1669095930,
+        "rank": 10,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 1048708,
+        "num": 384833,
+        "word": "肖战打网球潜水冲浪vlog",
+        "onboard_time": 1669108111,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 495954,
+        "num": 383924,
+        "word": "李峋朱韵没有分手",
+        "onboard_time": 1669107989,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 472972,
+        "num": 380356,
+        "word": "海底捞4个人多少钱",
+        "onboard_time": 1669107572,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 378110,
+        "num": 378110,
+        "word": "英雄联盟",
+        "onboard_time": 1669104571,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 376976,
+        "num": 376976,
+        "word": "JDG Ruler",
+        "onboard_time": 1669103493,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 373227,
+        "num": 373227,
+        "word": "京东薪资水平",
+        "onboard_time": 1669105052,
+        "rank": 16,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 368374,
+        "num": 368374,
+        "word": "李峋得知朱韵给自己发工资",
+        "onboard_time": 1669106071,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 359930,
+        "num": 359930,
+        "word": "小伙入户抢劫失足女5千被判10年",
+        "onboard_time": 1669104872,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321784,
+        "num": 321784,
+        "word": "刘强东曾称克扣五险一金是可耻的",
+        "onboard_time": 1669107213,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 320871,
+        "num": 320871,
+        "word": "把球交给梅西",
+        "onboard_time": 1669104033,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 300971,
+        "num": 300971,
+        "word": "重庆核酸",
+        "onboard_time": 1669097914,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262658,
+        "num": 262658,
+        "word": "台湾问题是中美第一条不可逾越红线",
+        "onboard_time": 1669101812,
+        "rank": 22,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 252660,
+        "num": 252660,
+        "word": "郑恺苗苗首个合体综艺",
+        "onboard_time": 1669100733,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 251460,
+        "num": 251460,
+        "word": "小学女生卫生间多了月经暖心盒",
+        "onboard_time": 1669096293,
+        "rank": 24,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 244832,
+        "num": 244832,
+        "word": "朱韵命令李峋二十四小时随时待命",
+        "onboard_time": 1669105353,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 239159,
+        "num": 239159,
+        "word": "被广西辣椒拌水果惊艳住了",
+        "onboard_time": 1669106494,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 217422,
+        "num": 217422,
+        "word": "苏醒刘语熙打赌一年外卖",
+        "onboard_time": 1669107695,
+        "rank": 27,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 186311,
+        "num": 186311,
+        "word": "江母诉刘鑫案择期宣判",
+        "onboard_time": 1669107629,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171193,
+        "num": 171193,
+        "word": "男子称永辉超市买牛肉实为猪肉",
+        "onboard_time": 1669100014,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173572,
+        "num": 170905,
+        "word": "朱韵对李峋的双标现场",
+        "onboard_time": 1669108413,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 170194,
+        "num": 170194,
+        "word": "世界杯为什么没有英国队",
+        "onboard_time": 1669098932,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161152,
+        "num": 161152,
+        "word": "乱世佳人最后一名在世演员去世",
+        "onboard_time": 1669095454,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 159236,
+        "num": 159236,
+        "word": "郑钧让刘芸清理扔旧东西之前问他一声",
+        "onboard_time": 1669108773,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156623,
+        "num": 156623,
+        "word": "GQ红毯真人秀阵容公开",
+        "onboard_time": 1669103973,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151545,
+        "num": 151545,
+        "word": "李峋朱韵强强联手",
+        "onboard_time": 1669108594,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 142460,
+        "num": 142460,
+        "word": "官方辟谣荔枝园核酸检测造假",
+        "onboard_time": 1669108172,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139833,
+        "num": 139833,
+        "word": "中国企业成本届世界杯最大金主",
+        "onboard_time": 1669103131,
+        "rank": 37,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 137532,
+        "num": 137532,
+        "word": "街道回应小区喊话外来人员格杀勿论",
+        "onboard_time": 1669096895,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127843,
+        "num": 127843,
+        "word": "世界杯",
+        "onboard_time": 1669078057,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152451,
+        "num": 126720,
+        "word": "黄明昊九尾互关了",
+        "onboard_time": 1669101812,
+        "rank": 40,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 151314,
+        "num": 125671,
+        "word": "命韵峋环有点公平但不多",
+        "onboard_time": 1669108712,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 123808,
+        "num": 123808,
+        "word": "妹妹误将火碱当冰糖冲给姐姐喝",
+        "onboard_time": 1669092397,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121974,
+        "num": 121974,
+        "word": "要持续整治层层加码",
+        "onboard_time": 1669102771,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118307,
+        "num": 118307,
+        "word": "C罗希望击败梅西",
+        "onboard_time": 1669097195,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115147,
+        "num": 115147,
+        "word": "鹤壁校园欺凌事件涉事副校长被辞退",
+        "onboard_time": 1669094675,
+        "rank": 45,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 113113,
+        "num": 113113,
+        "word": "黑洞竟然向星系吐口水",
+        "onboard_time": 1669100793,
+        "rank": 46,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 111654,
+        "num": 111654,
+        "word": "刘强东发布京东全员信",
+        "onboard_time": 1669090656,
+        "rank": 47,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 110801,
+        "num": 110801,
+        "word": "原来动画片足球小子是真的",
+        "onboard_time": 1669108652,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 105210,
+        "num": 105210,
+        "word": "在卡塔尔看球还能看车展",
+        "onboard_time": 1669108773,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#新时代新征程新伟业#"
+    }
+  }
+}
