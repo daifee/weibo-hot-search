@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1669135879463,
+  "endTime": 1669137661620,
   "band_list": [
     {
       "raw_hot": 13131209,
@@ -267,6 +267,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 3352526,
+      "num": 3352526,
+      "word": "给国足道歉",
+      "onboard_time": 1669133015,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 3343958,
       "num": 3343958,
       "word": "周杰伦哥友会",
@@ -321,14 +329,6 @@
       "onboard_time": 1667546010,
       "rank": 10,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 3166173,
-      "num": 3166173,
-      "word": "给国足道歉",
-      "onboard_time": 1669133015,
-      "rank": 1,
-      "category": "体育"
     },
     {
       "raw_hot": 3150006,
@@ -4153,6 +4153,14 @@
       "onboard_time": 1668413428,
       "rank": 18,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 1012632,
+      "num": 1012632,
+      "word": "内娱一句话秒懂沙特赢了",
+      "onboard_time": 1669134929,
+      "rank": 16,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 1010892,
@@ -18195,14 +18203,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 346081,
-      "num": 346081,
-      "word": "内娱一句话秒懂沙特赢了",
-      "onboard_time": 1669134929,
-      "rank": 16,
-      "category": "体育,艺人"
-    },
-    {
       "raw_hot": 345838,
       "num": 345838,
       "word": "幼童在幼儿园被殴打致轻微伤",
@@ -19123,6 +19123,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 331089,
+      "num": 331089,
+      "word": "TES",
+      "onboard_time": 1668772587,
+      "rank": 20,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 331052,
       "num": 331052,
       "word": "男子脚踹2个月流浪猫致死",
@@ -19299,6 +19307,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 328600,
+      "num": 328600,
+      "word": "上海宝妈花140万将地下室改成魔法屋",
+      "onboard_time": 1669133195,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 328047,
       "num": 258594,
       "word": "蔡徐坤GQ红毯飞行嘉宾",
@@ -19313,14 +19329,6 @@
       "onboard_time": 1667832030,
       "rank": 17,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 327836,
-      "num": 327836,
-      "word": "TES",
-      "onboard_time": 1668772587,
-      "rank": 20,
-      "category": "游戏"
     },
     {
       "raw_hot": 327781,
@@ -20201,14 +20209,6 @@
       "onboard_time": 1669110337,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 314322,
-      "num": 314322,
-      "word": "上海宝妈花140万将地下室改成魔法屋",
-      "onboard_time": 1669133195,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 313944,
@@ -23627,6 +23627,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 262825,
+      "num": 262825,
+      "word": "沙特球迷庆祝胜利把家里门拆了",
+      "onboard_time": 1669134692,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 262782,
       "num": 262782,
       "word": "人教社回应日语教材插图争议",
@@ -26019,6 +26027,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 230119,
+      "num": 230119,
+      "word": "阿根廷出线",
+      "onboard_time": 1669122281,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 230101,
       "num": 222416,
       "word": "点燃方志靖温暖我",
@@ -28091,14 +28107,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 209472,
-      "num": 209472,
-      "word": "沙特球迷庆祝胜利把家里门拆了",
-      "onboard_time": 1669134692,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 209414,
       "num": 141300,
       "word": "文俊辉说seventeen刀群舞的秘诀",
@@ -29464,14 +29472,6 @@
       "word": "梅西说这是最后一次世界杯",
       "onboard_time": 1669052478,
       "rank": 10,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 196517,
-      "num": 196517,
-      "word": "阿根廷出线",
-      "onboard_time": 1669122281,
-      "rank": 47,
       "category": "体育"
     },
     {
@@ -39483,6 +39483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121759,
+      "num": 121759,
+      "word": "曾可妮说你们看球我看剧",
+      "onboard_time": 1669136127,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 121710,
       "num": 121710,
       "word": "这些小动物都是青训过的吧",
@@ -43267,6 +43275,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 95144,
+      "num": 95144,
+      "word": "淀粉心情",
+      "onboard_time": 1669137503,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 95130,
       "num": 95130,
       "word": "白术学学隔壁阳华吧",
@@ -44121,6 +44137,14 @@
       "onboard_time": 1668259720,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 89343,
+      "num": 89343,
+      "word": "杨幂汤晶媚新剧第一次联手",
+      "onboard_time": 1669135888,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 89335,

@@ -1,6 +1,6 @@
 {
   "startTime": 1668961718135,
-  "endTime": 1669135879463,
+  "endTime": 1669137661620,
   "band_list": [
     {
       "raw_hot": 13131209,
@@ -59,6 +59,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 3352526,
+      "num": 3352526,
+      "word": "给国足道歉",
+      "onboard_time": 1669133015,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 3322442,
       "num": 3322442,
       "word": "沙特赔率",
@@ -72,14 +80,6 @@
       "word": "英格兰vs伊朗",
       "onboard_time": 1669005635,
       "rank": 44,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 3166173,
-      "num": 3166173,
-      "word": "给国足道歉",
-      "onboard_time": 1669133015,
-      "rank": 1,
       "category": "体育"
     },
     {
@@ -593,6 +593,14 @@
       "onboard_time": 1669030058,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1012632,
+      "num": 1012632,
+      "word": "内娱一句话秒懂沙特赢了",
+      "onboard_time": 1669134929,
+      "rank": 16,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 1004054,
@@ -2523,14 +2531,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 346081,
-      "num": 346081,
-      "word": "内娱一句话秒懂沙特赢了",
-      "onboard_time": 1669134929,
-      "rank": 16,
-      "category": "体育,艺人"
-    },
-    {
       "raw_hot": 345838,
       "num": 345838,
       "word": "幼童在幼儿园被殴打致轻微伤",
@@ -2707,6 +2707,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 331089,
+      "num": 331089,
+      "word": "TES",
+      "onboard_time": 1669134212,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 329805,
       "num": 329805,
       "word": "原来这么多明星喜欢梅西",
@@ -2731,20 +2739,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 328600,
+      "num": 328600,
+      "word": "上海宝妈花140万将地下室改成魔法屋",
+      "onboard_time": 1669133195,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 328047,
       "num": 258594,
       "word": "蔡徐坤GQ红毯飞行嘉宾",
       "onboard_time": 1669093957,
       "rank": 25,
       "category": "综艺,时尚"
-    },
-    {
-      "raw_hot": 327836,
-      "num": 327836,
-      "word": "TES",
-      "onboard_time": 1669134212,
-      "rank": 41,
-      "category": "游戏"
     },
     {
       "raw_hot": 324649,
@@ -2817,14 +2825,6 @@
       "onboard_time": 1669110337,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 314322,
-      "num": 314322,
-      "word": "上海宝妈花140万将地下室改成魔法屋",
-      "onboard_time": 1669133195,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 313944,
@@ -3243,6 +3243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 262825,
+      "num": 262825,
+      "word": "沙特球迷庆祝胜利把家里门拆了",
+      "onboard_time": 1669134692,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 262043,
       "num": 262043,
       "word": "体测完像被吸干了阳气",
@@ -3579,6 +3587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 230119,
+      "num": 230119,
+      "word": "阿根廷出线",
+      "onboard_time": 1669122281,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 228293,
       "num": 228293,
       "word": "柯南足球水平",
@@ -3827,14 +3843,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 209472,
-      "num": 209472,
-      "word": "沙特球迷庆祝胜利把家里门拆了",
-      "onboard_time": 1669134692,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 209181,
       "num": 209181,
       "word": "正常人谁买这玩意儿",
@@ -4016,14 +4024,6 @@
       "word": "梅西说这是最后一次世界杯",
       "onboard_time": 1669052478,
       "rank": 10,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 196517,
-      "num": 196517,
-      "word": "阿根廷出线",
-      "onboard_time": 1669122281,
-      "rank": 47,
       "category": "体育"
     },
     {
@@ -5331,6 +5331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 121759,
+      "num": 121759,
+      "word": "曾可妮说你们看球我看剧",
+      "onboard_time": 1669136127,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 121270,
       "num": 121270,
       "word": "威马汽车上海全员工资打五到七折",
@@ -5803,6 +5811,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 95144,
+      "num": 95144,
+      "word": "淀粉心情",
+      "onboard_time": 1669137503,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 94813,
       "num": 94813,
       "word": "听八卦真的不分年龄",
@@ -5841,6 +5857,14 @@
       "onboard_time": 1669099295,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 89343,
+      "num": 89343,
+      "word": "杨幂汤晶媚新剧第一次联手",
+      "onboard_time": 1669135888,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 88498,

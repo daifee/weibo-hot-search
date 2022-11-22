@@ -1,10 +1,10 @@
 {
   "startTime": 1669134647959,
-  "endTime": 1669135879463,
+  "endTime": 1669137661620,
   "band_list": [
     {
-      "raw_hot": 3166173,
-      "num": 3166173,
+      "raw_hot": 3352526,
+      "num": 3352526,
       "word": "给国足道歉",
       "onboard_time": 1669133015,
       "rank": 1,
@@ -41,6 +41,14 @@
       "onboard_time": 1669120669,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1012632,
+      "num": 1012632,
+      "word": "内娱一句话秒懂沙特赢了",
+      "onboard_time": 1669134929,
+      "rank": 16,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 928698,
@@ -171,20 +179,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 346081,
-      "num": 346081,
-      "word": "内娱一句话秒懂沙特赢了",
-      "onboard_time": 1669134929,
-      "rank": 16,
-      "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 327836,
-      "num": 327836,
+      "raw_hot": 331089,
+      "num": 331089,
       "word": "TES",
       "onboard_time": 1669134212,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 328600,
+      "num": 328600,
+      "word": "上海宝妈花140万将地下室改成魔法屋",
+      "onboard_time": 1669133195,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 327761,
@@ -192,14 +200,6 @@
       "word": "警方回应男子夜钓时钓到一具浮尸",
       "onboard_time": 1669121806,
       "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 314322,
-      "num": 314322,
-      "word": "上海宝妈花140万将地下室改成魔法屋",
-      "onboard_time": 1669133195,
-      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -217,6 +217,14 @@
       "onboard_time": 1669134272,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 262825,
+      "num": 262825,
+      "word": "沙特球迷庆祝胜利把家里门拆了",
+      "onboard_time": 1669134692,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 257104,
@@ -267,6 +275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 230119,
+      "num": 230119,
+      "word": "阿根廷出线",
+      "onboard_time": 1669122281,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 225658,
       "num": 225658,
       "word": "郑州疫情防控",
@@ -291,27 +307,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 209472,
-      "num": 209472,
-      "word": "沙特球迷庆祝胜利把家里门拆了",
-      "onboard_time": 1669134692,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 203404,
       "num": 203404,
       "word": "世界杯 大冷门",
       "onboard_time": 1669119487,
       "rank": 34,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 196517,
-      "num": 196517,
-      "word": "阿根廷出线",
-      "onboard_time": 1669122281,
-      "rank": 47,
       "category": "体育"
     },
     {
@@ -411,12 +411,44 @@
       "category": "影视"
     },
     {
+      "raw_hot": 121759,
+      "num": 121759,
+      "word": "曾可妮说你们看球我看剧",
+      "onboard_time": 1669136127,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 110239,
+      "num": 110239,
+      "word": "苏醒最不快乐的一天",
+      "onboard_time": 1669120973,
+      "rank": 38,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 95531,
       "num": 95531,
       "word": "郑州最后一家家乐福停业",
       "onboard_time": 1669135829,
       "rank": 49,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 95144,
+      "num": 95144,
+      "word": "淀粉心情",
+      "onboard_time": 1669137503,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 89343,
+      "num": 89343,
+      "word": "杨幂汤晶媚新剧第一次联手",
+      "onboard_time": 1669135888,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 25366,
