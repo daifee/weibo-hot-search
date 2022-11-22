@@ -1,0 +1,410 @@
+{
+  "runTime": 1669127826222,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6007949,
+        "num": 6007949,
+        "word": "世界杯 大冷门",
+        "onboard_time": 1669119487,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2399751,
+        "num": 2399751,
+        "word": "梅西输球后刘畊宏哭了",
+        "onboard_time": 1669124862,
+        "rank": 1,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 78269,
+        "num": 1972533,
+        "word": "哪届世界杯吉祥物是你最爱",
+        "onboard_time": 1669098335,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1809097,
+        "num": 1809097,
+        "word": "沙特赔率",
+        "onboard_time": 1669119894,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1503189,
+        "num": 1503189,
+        "word": "上海疫情防控",
+        "onboard_time": 1669123421,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1490680,
+        "num": 1490680,
+        "word": "汪小菲口中的思诺思是什么药",
+        "onboard_time": 1669126423,
+        "rank": 5,
+        "category": "情感,艺人"
+      },
+      {
+        "raw_hot": 1291323,
+        "num": 1291323,
+        "word": "沙特门将 身价暴涨",
+        "onboard_time": 1669120669,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1024411,
+        "num": 1024411,
+        "word": "周峻纬 名学",
+        "onboard_time": 1669126124,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1000904,
+        "num": 1000904,
+        "word": "妈妈产后抑郁离世孩子才7个月",
+        "onboard_time": 1669126363,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 910337,
+        "num": 910337,
+        "word": "阿根廷输球一小时后无人走出更衣室",
+        "onboard_time": 1669125947,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 917136,
+        "num": 905027,
+        "word": "苏醒最不快乐的一天",
+        "onboard_time": 1669120973,
+        "rank": 10,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 863713,
+        "num": 863713,
+        "word": "梅西好像在这一刻释怀了",
+        "onboard_time": 1669112369,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 668140,
+        "num": 668140,
+        "word": "砸电视",
+        "onboard_time": 1669121865,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 643785,
+        "num": 643785,
+        "word": "郑州疫情防控",
+        "onboard_time": 1669117777,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 618097,
+        "num": 618097,
+        "word": "郑州新增1例死亡病例",
+        "onboard_time": 1669123662,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 613210,
+        "num": 613210,
+        "word": "阿根廷输了",
+        "onboard_time": 1669126724,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 580037,
+        "num": 580037,
+        "word": "德国队",
+        "onboard_time": 1669123122,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 574041,
+        "num": 574041,
+        "word": "郝葭生产",
+        "onboard_time": 1669119424,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 571036,
+        "num": 571036,
+        "word": "警方回应男子夜钓时钓到一具浮尸",
+        "onboard_time": 1669121806,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 525922,
+        "num": 525922,
+        "word": "贺峻霖说今天是发微博的好日子",
+        "onboard_time": 1669127682,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 518529,
+        "num": 518529,
+        "word": "王鹤棣说我是时宴等候多时了",
+        "onboard_time": 1669123780,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 488590,
+        "num": 488590,
+        "word": "一键查询梅西球迷精神状态",
+        "onboard_time": 1669123421,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 431345,
+        "num": 431345,
+        "word": "重庆籍艺人为家乡加油",
+        "onboard_time": 1669124623,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 419739,
+        "num": 419739,
+        "word": "梦华录首播收视",
+        "onboard_time": 1669125464,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 416034,
+        "num": 416034,
+        "word": "Viper",
+        "onboard_time": 1669125464,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 395405,
+        "num": 395405,
+        "word": "Doinb爆料EDG",
+        "onboard_time": 1669123000,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 354166,
+        "num": 354166,
+        "word": "沙特门将 牛",
+        "onboard_time": 1669117836,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 343798,
+        "num": 343798,
+        "word": "60岁大爷吃生蒜杀菌延误病情致癌",
+        "onboard_time": 1669119838,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 320202,
+        "num": 320202,
+        "word": "24日起抵沪不满5天者不得进入公共场所",
+        "onboard_time": 1669123361,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196480,
+        "num": 316550,
+        "word": "阿根廷队36场不败纪录被终止",
+        "onboard_time": 1669119782,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 621332,
+        "num": 312791,
+        "word": "丹麦突尼斯半场0比0",
+        "onboard_time": 1669127264,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 382431,
+        "num": 306940,
+        "word": "田曦薇新上错花轿嫁对郎路透视频",
+        "onboard_time": 1669123240,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 373857,
+        "num": 298037,
+        "word": "郝葭终于逃离二少主",
+        "onboard_time": 1669125762,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 297978,
+        "num": 297978,
+        "word": "心疼梅西",
+        "onboard_time": 1669119368,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 292932,
+        "num": 292932,
+        "word": "阿根廷1比2沙特阿拉伯",
+        "onboard_time": 1669119306,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 284571,
+        "num": 284571,
+        "word": "朱韵住院李峋急了",
+        "onboard_time": 1669114658,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 276704,
+        "num": 276704,
+        "word": "陈紫函说郝葭的命我赵芳如来管",
+        "onboard_time": 1669124439,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 274098,
+        "num": 274098,
+        "word": "刘强东十几年捐了60%的收入",
+        "onboard_time": 1669125041,
+        "rank": 37,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 274039,
+        "num": 274039,
+        "word": "梅西说输球无借口",
+        "onboard_time": 1669126841,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 258290,
+        "num": 258290,
+        "word": "北京新增2例新冠重症感染者均未接种加强针",
+        "onboard_time": 1669112432,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257735,
+        "num": 257735,
+        "word": "卿卿日常",
+        "onboard_time": 1669124982,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 250251,
+        "num": 250251,
+        "word": "世界杯天台开始排队",
+        "onboard_time": 1669121085,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 241007,
+        "num": 241007,
+        "word": "丹麦vs突尼斯",
+        "onboard_time": 1669119368,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 240432,
+        "num": 240432,
+        "word": "陈飞宇说李峋重新出发",
+        "onboard_time": 1669126664,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 208880,
+        "num": 208880,
+        "word": "小熊猫吃东西好斯文",
+        "onboard_time": 1669127326,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 206150,
+        "num": 206150,
+        "word": "足球反着买 别墅靠大海",
+        "onboard_time": 1669126602,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199913,
+        "num": 199913,
+        "word": "沙特守门员杀疯了",
+        "onboard_time": 1669119782,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195874,
+        "num": 195874,
+        "word": "内蒙古惊现3个太阳幻日奇观",
+        "onboard_time": 1669113513,
+        "rank": 47,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 193954,
+        "num": 193954,
+        "word": "还得是东北人的解读能力",
+        "onboard_time": 1669127505,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 189158,
+        "num": 189158,
+        "word": "熟悉的王冰冰回来了",
+        "onboard_time": 1669127443,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#视频回顾习主席东南亚之行#"
+    }
+  }
+}

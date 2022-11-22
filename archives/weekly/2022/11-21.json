@@ -1,6 +1,6 @@
 {
   "startTime": 1668961718135,
-  "endTime": 1669126777128,
+  "endTime": 1669127826222,
   "band_list": [
     {
       "raw_hot": 13131209,
@@ -99,6 +99,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2399751,
+      "num": 2399751,
+      "word": "梅西输球后刘畊宏哭了",
+      "onboard_time": 1669124862,
+      "rank": 3,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 2383893,
       "num": 2383893,
       "word": "贝克汉姆",
@@ -148,7 +156,7 @@
     },
     {
       "raw_hot": 2083167,
-      "num": 210058,
+      "num": 613210,
       "word": "阿根廷输了",
       "onboard_time": 1669126724,
       "rank": 47,
@@ -199,14 +207,6 @@
       "num": 1822592,
       "word": "田柾国",
       "onboard_time": 1668957578,
-      "rank": 3,
-      "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 1816487,
-      "num": 1816487,
-      "word": "梅西输球后刘畊宏哭了",
-      "onboard_time": 1669124862,
       "rank": 3,
       "category": "体育,艺人"
     },
@@ -299,6 +299,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1503189,
+      "num": 1503189,
+      "word": "上海疫情防控",
+      "onboard_time": 1669123421,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1490680,
+      "num": 1490680,
+      "word": "汪小菲口中的思诺思是什么药",
+      "onboard_time": 1669126423,
+      "rank": 21,
+      "category": "情感,艺人"
+    },
+    {
       "raw_hot": 1486787,
       "num": 1486787,
       "word": "阿根廷vs沙特",
@@ -329,14 +345,6 @@
       "onboard_time": 1669107572,
       "rank": 13,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1387663,
-      "num": 1387663,
-      "word": "上海疫情防控",
-      "onboard_time": 1669123421,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1305200,
@@ -507,6 +515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1024411,
+      "num": 1024411,
+      "word": "周峻纬 名学",
+      "onboard_time": 1669126124,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1018058,
       "num": 1018058,
       "word": "李峋从垃圾桶捡吃的",
@@ -528,6 +544,14 @@
       "word": "北京昨日新增2例死亡病例",
       "onboard_time": 1668989493,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1000904,
+      "num": 1000904,
+      "word": "妈妈产后抑郁离世孩子才7个月",
+      "onboard_time": 1669126363,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -609,6 +633,14 @@
       "onboard_time": 1669077034,
       "rank": 4,
       "category": "国外要闻,艺人"
+    },
+    {
+      "raw_hot": 910337,
+      "num": 910337,
+      "word": "阿根廷输球一小时后无人走出更衣室",
+      "onboard_time": 1669125947,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 906461,
@@ -1075,6 +1107,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 621332,
+      "num": 312791,
+      "word": "丹麦突尼斯半场0比0",
+      "onboard_time": 1669127264,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 618970,
       "num": 618970,
       "word": "马斯克恐失去世界首富位置",
@@ -1097,14 +1137,6 @@
       "onboard_time": 1669123000,
       "rank": 19,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 592179,
-      "num": 592179,
-      "word": "周峻纬 名学",
-      "onboard_time": 1669126124,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 591406,
@@ -1131,20 +1163,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 580037,
+      "num": 580037,
+      "word": "德国队",
+      "onboard_time": 1669123122,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 576051,
       "num": 401528,
       "word": "麻辣鸡",
       "onboard_time": 1668958416,
       "rank": 12,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 573992,
-      "num": 573992,
-      "word": "德国队",
-      "onboard_time": 1669123122,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 573174,
@@ -1291,6 +1323,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 525922,
+      "num": 525922,
+      "word": "贺峻霖说今天是发微博的好日子",
+      "onboard_time": 1669127682,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 523601,
       "num": 523601,
       "word": "女子工作5年前后对比判若两人",
@@ -1324,7 +1364,7 @@
     },
     {
       "raw_hot": 519224,
-      "num": 433823,
+      "num": 488590,
       "word": "一键查询梅西球迷精神状态",
       "onboard_time": 1669123421,
       "rank": 31,
@@ -1715,14 +1755,6 @@
       "category": "自然"
     },
     {
-      "raw_hot": 434013,
-      "num": 434013,
-      "word": "汪小菲口中的思诺思是什么药",
-      "onboard_time": 1669126423,
-      "rank": 21,
-      "category": "情感,艺人"
-    },
-    {
       "raw_hot": 433085,
       "num": 433085,
       "word": "李峋入狱三年归来仍是醋坛子",
@@ -1803,6 +1835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 419739,
+      "num": 419739,
+      "word": "梦华录首播收视",
+      "onboard_time": 1669125464,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 418582,
       "num": 418582,
       "word": "命韵峋环终于回来了",
@@ -1817,6 +1857,14 @@
       "onboard_time": 1669097881,
       "rank": 15,
       "category": "科技"
+    },
+    {
+      "raw_hot": 416034,
+      "num": 416034,
+      "word": "Viper",
+      "onboard_time": 1669125464,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 415161,
@@ -1873,14 +1921,6 @@
       "onboard_time": 1669104872,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 409360,
-      "num": 409360,
-      "word": "Viper",
-      "onboard_time": 1669125464,
-      "rank": 24,
-      "category": "游戏"
     },
     {
       "raw_hot": 409189,
@@ -2067,14 +2107,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 379347,
-      "num": 379347,
-      "word": "梦华录首播收视",
-      "onboard_time": 1669125464,
-      "rank": 26,
-      "category": "影视"
-    },
-    {
       "raw_hot": 378530,
       "num": 378530,
       "word": "1岁宝宝不吃奶却爱吃土",
@@ -2105,6 +2137,14 @@
       "onboard_time": 1669123780,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 373857,
+      "num": 323193,
+      "word": "郝葭终于逃离二少主",
+      "onboard_time": 1669125762,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 373756,
@@ -2419,14 +2459,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 336361,
-      "num": 323193,
-      "word": "郝葭终于逃离二少主",
-      "onboard_time": 1669125762,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 335489,
       "num": 335489,
       "word": "日本岳云鹏募捐393万带孩子看世界杯",
@@ -2481,14 +2513,6 @@
       "onboard_time": 1669011872,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 332872,
-      "num": 332872,
-      "word": "阿根廷输球一小时后无人走出更衣室",
-      "onboard_time": 1669125947,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 332696,
@@ -2915,6 +2939,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 274098,
+      "num": 274098,
+      "word": "刘强东十几年捐了60%的收入",
+      "onboard_time": 1669125041,
+      "rank": 49,
+      "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 274039,
+      "num": 274039,
+      "word": "梅西说输球无借口",
+      "onboard_time": 1669126841,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 273769,
       "num": 167632,
       "word": "演员薛中锐去世",
@@ -3129,14 +3169,6 @@
       "onboard_time": 1669045962,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 252219,
-      "num": 252219,
-      "word": "妈妈产后抑郁离世孩子才7个月",
-      "onboard_time": 1669126363,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 251089,
@@ -3555,12 +3587,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 208880,
+      "num": 208880,
+      "word": "小熊猫吃东西好斯文",
+      "onboard_time": 1669127326,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 208665,
       "num": 208665,
       "word": "南方人从天津回来的行李箱",
       "onboard_time": 1669115853,
       "rank": 47,
       "category": "美食"
+    },
+    {
+      "raw_hot": 206150,
+      "num": 206150,
+      "word": "足球反着买 别墅靠大海",
+      "onboard_time": 1669126602,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 206095,
@@ -3657,14 +3705,6 @@
       "onboard_time": 1669112672,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 199835,
-      "num": 199835,
-      "word": "刘强东十几年捐了60%的收入",
-      "onboard_time": 1669125041,
-      "rank": 49,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 198431,
@@ -3803,6 +3843,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 193954,
+      "num": 193954,
+      "word": "还得是东北人的解读能力",
+      "onboard_time": 1669127505,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 193060,
       "num": 226670,
       "word": "9人捕捞极危长江鲟吃了3尾养死3尾",
@@ -3865,6 +3913,14 @@
       "onboard_time": 1668963507,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 189158,
+      "num": 189158,
+      "word": "熟悉的王冰冰回来了",
+      "onboard_time": 1669127443,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 187576,
