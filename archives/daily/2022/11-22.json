@@ -1,10 +1,10 @@
 {
   "startTime": 1669048272938,
-  "endTime": 1669113598093,
+  "endTime": 1669115865357,
   "band_list": [
     {
-      "raw_hot": 3340476,
-      "num": 3340476,
+      "raw_hot": 3622364,
+      "num": 3622364,
       "word": "梅西进球",
       "onboard_time": 1669112252,
       "rank": 1,
@@ -17,6 +17,14 @@
       "onboard_time": 1669090656,
       "rank": 15,
       "category": "科技"
+    },
+    {
+      "raw_hot": 2238281,
+      "num": 2238281,
+      "word": "阿根廷 越位球",
+      "onboard_time": 1669114051,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 2045134,
@@ -107,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1163613,
+      "num": 1163613,
+      "word": "阿根廷半场1比0沙特",
+      "onboard_time": 1669115019,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1108386,
       "num": 1108386,
       "word": "江歌",
@@ -123,6 +139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1036603,
+      "num": 1036603,
+      "word": "北京新增2例新冠重症感染者均未接种加强针",
+      "onboard_time": 1669112432,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1026193,
       "num": 1026193,
       "word": "妻子的浪漫旅行6官宣定档1124",
@@ -137,6 +161,14 @@
       "onboard_time": 1669094314,
       "rank": 48,
       "category": "体育,旅游"
+    },
+    {
+      "raw_hot": 972658,
+      "num": 972658,
+      "word": "梅西好像在这一刻释怀了",
+      "onboard_time": 1669112369,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 961699,
@@ -169,6 +201,14 @@
       "onboard_time": 1669044283,
       "rank": 1,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 902213,
+      "num": 902213,
+      "word": "什么是越位",
+      "onboard_time": 1669114903,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 889193,
@@ -339,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 559605,
+      "num": 559605,
+      "word": "24日起北京进入公共场所查验48小时核酸证明",
+      "onboard_time": 1669112189,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 543896,
       "num": 543896,
       "word": "英雄联盟",
@@ -417,6 +465,14 @@
       "onboard_time": 1669079975,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 513525,
+      "num": 445779,
+      "word": "朱韵住院李峋急了",
+      "onboard_time": 1669114658,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 511882,
@@ -499,6 +555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 475291,
+      "num": 441949,
+      "word": "迪丽热巴制作爆米花花絮视频",
+      "onboard_time": 1669115496,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 472778,
       "num": 472778,
       "word": "檀健次金世佳猎罪图鉴明年1月日本播出",
@@ -531,6 +595,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 459351,
+      "num": 459351,
+      "word": "卡塔尔巨资办世界杯亏了吗",
+      "onboard_time": 1669110510,
+      "rank": 28,
+      "category": "体育,财经"
+    },
+    {
       "raw_hot": 456427,
       "num": 411599,
       "word": "李峋回来只办三件事",
@@ -555,28 +627,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 448096,
-      "num": 448096,
-      "word": "24日起北京进入公共场所查验48小时核酸证明",
-      "onboard_time": 1669112189,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 447121,
       "num": 447121,
       "word": "美国vs威尔士",
       "onboard_time": 1669052180,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 443497,
-      "num": 331528,
-      "word": "北京新增2例新冠重症感染者均未接种加强针",
-      "onboard_time": 1669112432,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 439281,
@@ -593,6 +649,14 @@
       "onboard_time": 1669110391,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 427830,
+      "num": 427830,
+      "word": "梅西加油",
+      "onboard_time": 1669115316,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 426621,
@@ -771,6 +835,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 347041,
+      "num": 347041,
+      "word": "男子买粘豆包被困秒变喜剧人",
+      "onboard_time": 1669110933,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 346243,
       "num": 346243,
       "word": "张婧仪说陈飞宇和李峋的反差感",
@@ -785,6 +857,14 @@
       "onboard_time": 1669081949,
       "rank": 47,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 344678,
+      "num": 344678,
+      "word": "助理裁判手够累的",
+      "onboard_time": 1669115377,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 338627,
@@ -843,10 +923,26 @@
       "category": "综艺,时尚"
     },
     {
+      "raw_hot": 326057,
+      "num": 326057,
+      "word": "内蒙古惊现3个太阳幻日奇观",
+      "onboard_time": 1669113513,
+      "rank": 20,
+      "category": "自然"
+    },
+    {
       "raw_hot": 321528,
       "num": 321528,
       "word": "把球交给梅西",
       "onboard_time": 1669104033,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 320489,
+      "num": 320489,
+      "word": "内马尔在世界杯前做医美",
+      "onboard_time": 1669114474,
       "rank": 21,
       "category": "体育"
     },
@@ -856,6 +952,14 @@
       "word": "英格兰vs伊朗",
       "onboard_time": 1669033110,
       "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 318890,
+      "num": 318890,
+      "word": "沙特防守",
+      "onboard_time": 1669114903,
+      "rank": 22,
       "category": "体育"
     },
     {
@@ -873,6 +977,22 @@
       "onboard_time": 1669079736,
       "rank": 22,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 311954,
+      "num": 311954,
+      "word": "白敬亭六少主撑伞剧照",
+      "onboard_time": 1669114297,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 311802,
+      "num": 311802,
+      "word": "梅西点射破门",
+      "onboard_time": 1669115736,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 306248,
@@ -913,14 +1033,6 @@
       "onboard_time": 1669090719,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 293233,
-      "num": 293233,
-      "word": "梅西好像在这一刻释怀了",
-      "onboard_time": 1669112369,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 285491,
@@ -1075,14 +1187,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 257221,
-      "num": 257221,
-      "word": "卡塔尔巨资办世界杯亏了吗",
-      "onboard_time": 1669110510,
-      "rank": 28,
-      "category": "体育,财经"
-    },
-    {
       "raw_hot": 255283,
       "num": 255283,
       "word": "A股上市公司数量突破5000家",
@@ -1105,6 +1209,14 @@
       "onboard_time": 1669104931,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 249711,
+      "num": 249711,
+      "word": "徐黎娜给李峋送饭送车送房",
+      "onboard_time": 1669113696,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 248072,
@@ -1227,6 +1339,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 220009,
+      "num": 220009,
+      "word": "阿根廷半场7次越位",
+      "onboard_time": 1669115496,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 219846,
       "num": 219846,
       "word": "英格兰杀疯了",
@@ -1241,6 +1361,14 @@
       "onboard_time": 1669077157,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 218555,
+      "num": 218555,
+      "word": "阳华吃醋",
+      "onboard_time": 1669115673,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 217422,
@@ -1283,20 +1411,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 215306,
-      "num": 215306,
-      "word": "男子买粘豆包被困秒变喜剧人",
-      "onboard_time": 1669110933,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 211545,
       "num": 211545,
       "word": "阿凡达2水之道角色海报",
       "onboard_time": 1669080753,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 202459,
+      "num": 155751,
+      "word": "梅西本届世界杯第一粒进球",
+      "onboard_time": 1669115377,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 200460,
@@ -1395,6 +1523,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 191409,
+      "num": 191409,
+      "word": "男子17年150万资助88名大学生",
+      "onboard_time": 1669110150,
+      "rank": 36,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 191009,
       "num": 191009,
       "word": "霍华德将因伤休战两周",
@@ -1425,14 +1561,6 @@
       "onboard_time": 1669045364,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 187002,
-      "num": 187002,
-      "word": "男子17年150万资助88名大学生",
-      "onboard_time": 1669110150,
-      "rank": 36,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 186993,
@@ -1467,6 +1595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 185145,
+      "num": 198551,
+      "word": "你的手机护眼吗",
+      "onboard_time": 1669115199,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 182582,
       "num": 182582,
       "word": "卡塔尔把公交开出了跑车感",
@@ -1481,6 +1617,14 @@
       "onboard_time": 1669113272,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 182127,
+      "num": 182127,
+      "word": "整栋楼看世界杯是什么体验",
+      "onboard_time": 1669115673,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 181072,
@@ -1715,6 +1859,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 152650,
+      "num": 152650,
+      "word": "南方人从天津回来的行李箱",
+      "onboard_time": 1669115853,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 152196,
       "num": 152196,
       "word": "别人家老公看球前的准备",
@@ -1777,6 +1929,22 @@
       "onboard_time": 1669113095,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 145865,
+      "num": 145865,
+      "word": "男子8天把大鱼海棠土楼搬进鱼缸",
+      "onboard_time": 1669115316,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 144954,
+      "num": 144954,
+      "word": "李峋嘴硬说不喜欢朱韵",
+      "onboard_time": 1669113813,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 144048,

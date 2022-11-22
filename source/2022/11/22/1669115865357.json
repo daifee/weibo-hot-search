@@ -1,0 +1,410 @@
+{
+  "runTime": 1669115865357,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3622364,
+        "num": 3622364,
+        "word": "梅西进球",
+        "onboard_time": 1669112252,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2238281,
+        "num": 2238281,
+        "word": "阿根廷 越位球",
+        "onboard_time": 1669114051,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95679,
+        "num": 1401429,
+        "word": "哪届世界杯吉祥物是你最爱",
+        "onboard_time": 1669098335,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1163613,
+        "num": 1163613,
+        "word": "阿根廷半场1比0沙特",
+        "onboard_time": 1669115019,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1036603,
+        "num": 1036603,
+        "word": "北京新增2例新冠重症感染者均未接种加强针",
+        "onboard_time": 1669112432,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 972658,
+        "num": 972658,
+        "word": "梅西好像在这一刻释怀了",
+        "onboard_time": 1669112369,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 941326,
+        "num": 941326,
+        "word": "阿根廷vs沙特阿拉伯",
+        "onboard_time": 1669109850,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 902213,
+        "num": 902213,
+        "word": "什么是越位",
+        "onboard_time": 1669114903,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 559605,
+        "num": 559605,
+        "word": "24日起北京进入公共场所查验48小时核酸证明",
+        "onboard_time": 1669112189,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 459351,
+        "num": 459351,
+        "word": "卡塔尔巨资办世界杯亏了吗",
+        "onboard_time": 1669110510,
+        "rank": 9,
+        "category": "体育,财经"
+      },
+      {
+        "raw_hot": 587180,
+        "num": 458608,
+        "word": "刘强东称对不起京东2000多名高管",
+        "onboard_time": 1669095930,
+        "rank": 10,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 513525,
+        "num": 445779,
+        "word": "朱韵住院李峋急了",
+        "onboard_time": 1669114658,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 475291,
+        "num": 441949,
+        "word": "迪丽热巴制作爆米花花絮视频",
+        "onboard_time": 1669115496,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 432437,
+        "num": 432437,
+        "word": "腾讯视频将上线韩国电影",
+        "onboard_time": 1669109373,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 427830,
+        "num": 427830,
+        "word": "梅西加油",
+        "onboard_time": 1669115316,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 396777,
+        "num": 396777,
+        "word": "陈乔恩从女儿的恋爱到妻子的旅行",
+        "onboard_time": 1669107450,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 370856,
+        "num": 370856,
+        "word": "李峋朱韵没有分手",
+        "onboard_time": 1669107989,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 362661,
+        "num": 362661,
+        "word": "肖战打网球潜水冲浪vlog",
+        "onboard_time": 1669108111,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 347041,
+        "num": 347041,
+        "word": "男子买粘豆包被困秒变喜剧人",
+        "onboard_time": 1669110933,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 344678,
+        "num": 344678,
+        "word": "助理裁判手够累的",
+        "onboard_time": 1669115377,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 326057,
+        "num": 326057,
+        "word": "内蒙古惊现3个太阳幻日奇观",
+        "onboard_time": 1669113513,
+        "rank": 20,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 320489,
+        "num": 320489,
+        "word": "内马尔在世界杯前做医美",
+        "onboard_time": 1669114474,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 318890,
+        "num": 318890,
+        "word": "沙特防守",
+        "onboard_time": 1669114903,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 311954,
+        "num": 311954,
+        "word": "白敬亭六少主撑伞剧照",
+        "onboard_time": 1669114297,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 311802,
+        "num": 311802,
+        "word": "梅西点射破门",
+        "onboard_time": 1669115736,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 262279,
+        "num": 262279,
+        "word": "刘强东曾称克扣五险一金是可耻的",
+        "onboard_time": 1669107213,
+        "rank": 25,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 252823,
+        "num": 252823,
+        "word": "英雄联盟",
+        "onboard_time": 1669104571,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 251605,
+        "num": 251605,
+        "word": "儿子划伤豪车爸爸让其拿现金道歉",
+        "onboard_time": 1669104333,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249711,
+        "num": 249711,
+        "word": "徐黎娜给李峋送饭送车送房",
+        "onboard_time": 1669113696,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 229445,
+        "num": 229445,
+        "word": "母亲出家裸捐588万女儿贷款上大学",
+        "onboard_time": 1669090779,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221452,
+        "num": 221452,
+        "word": "小伙入户抢劫失足女5千被判10年",
+        "onboard_time": 1669104872,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220009,
+        "num": 220009,
+        "word": "阿根廷半场7次越位",
+        "onboard_time": 1669115496,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 218555,
+        "num": 218555,
+        "word": "阳华吃醋",
+        "onboard_time": 1669115673,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 214076,
+        "num": 214076,
+        "word": "刘耀文说想考音乐类院校",
+        "onboard_time": 1669110452,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 185145,
+        "num": 198551,
+        "word": "你的手机护眼吗",
+        "onboard_time": 1669115199,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197731,
+        "num": 197731,
+        "word": "世界杯",
+        "onboard_time": 1669078057,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197665,
+        "num": 197665,
+        "word": "JDG Ruler",
+        "onboard_time": 1669103493,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 191409,
+        "num": 191409,
+        "word": "男子17年150万资助88名大学生",
+        "onboard_time": 1669110150,
+        "rank": 37,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 182127,
+        "num": 182127,
+        "word": "整栋楼看世界杯是什么体验",
+        "onboard_time": 1669115673,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176665,
+        "num": 176665,
+        "word": "重庆核酸",
+        "onboard_time": 1669097914,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160865,
+        "num": 160865,
+        "word": "JDG与Homme续约",
+        "onboard_time": 1669111532,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 160675,
+        "num": 160675,
+        "word": "小学女生卫生间多了月经暖心盒",
+        "onboard_time": 1669096293,
+        "rank": 41,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 158792,
+        "num": 158792,
+        "word": "台湾问题是中美第一条不可逾越红线",
+        "onboard_time": 1669101812,
+        "rank": 42,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 167569,
+        "num": 158485,
+        "word": "点球",
+        "onboard_time": 1669112970,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157097,
+        "num": 157097,
+        "word": "女子欠千万网贷申请精神病鉴定",
+        "onboard_time": 1669103370,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202459,
+        "num": 155751,
+        "word": "梅西本届世界杯第一粒进球",
+        "onboard_time": 1669115377,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153744,
+        "num": 153744,
+        "word": "宋亚轩说希望得到大家的认可和喜欢",
+        "onboard_time": 1669110391,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152650,
+        "num": 152650,
+        "word": "南方人从天津回来的行李箱",
+        "onboard_time": 1669115853,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 145865,
+        "num": 145865,
+        "word": "男子8天把大鱼海棠土楼搬进鱼缸",
+        "onboard_time": 1669115316,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144954,
+        "num": 144954,
+        "word": "李峋嘴硬说不喜欢朱韵",
+        "onboard_time": 1669113813,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#新时代新征程新伟业#"
+    }
+  }
+}
