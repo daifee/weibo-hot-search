@@ -1,6 +1,6 @@
 {
   "startTime": 1668961718135,
-  "endTime": 1669134647959,
+  "endTime": 1669135879463,
   "band_list": [
     {
       "raw_hot": 13131209,
@@ -72,6 +72,14 @@
       "word": "英格兰vs伊朗",
       "onboard_time": 1669005635,
       "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 3166173,
+      "num": 3166173,
+      "word": "给国足道歉",
+      "onboard_time": 1669133015,
+      "rank": 1,
       "category": "体育"
     },
     {
@@ -185,6 +193,14 @@
       "onboard_time": 1669095930,
       "rank": 10,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 1998653,
+      "num": 1998653,
+      "word": "沙特全国放假一天",
+      "onboard_time": 1669133433,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 1962461,
@@ -315,14 +331,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1517604,
-      "num": 1517604,
-      "word": "给国足道歉",
-      "onboard_time": 1669133015,
-      "rank": 1,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1515976,
       "num": 1515976,
       "word": "新冠肺炎疫情风险区划定及管控方案",
@@ -451,6 +459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1182269,
+      "num": 1182269,
+      "word": "meiko",
+      "onboard_time": 1669132660,
+      "rank": 4,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1180241,
       "num": 1180241,
       "word": "别再踩公厕马桶圈了",
@@ -521,14 +537,6 @@
       "onboard_time": 1668998608,
       "rank": 8,
       "category": "体育,幽默"
-    },
-    {
-      "raw_hot": 1082211,
-      "num": 1082211,
-      "word": "meiko",
-      "onboard_time": 1669132660,
-      "rank": 4,
-      "category": "游戏"
     },
     {
       "raw_hot": 1074347,
@@ -913,14 +921,6 @@
       "onboard_time": 1669086632,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 723582,
-      "num": 723582,
-      "word": "沙特全国放假一天",
-      "onboard_time": 1669133433,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 719350,
@@ -2235,6 +2235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 384954,
+      "num": 384954,
+      "word": "姆巴佩",
+      "onboard_time": 1669132235,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 384633,
       "num": 384633,
       "word": "北京增社会面42例",
@@ -2515,6 +2523,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 346081,
+      "num": 346081,
+      "word": "内娱一句话秒懂沙特赢了",
+      "onboard_time": 1669134929,
+      "rank": 16,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 345838,
       "num": 345838,
       "word": "幼童在幼儿园被殴打致轻微伤",
@@ -2723,6 +2739,14 @@
       "category": "综艺,时尚"
     },
     {
+      "raw_hot": 327836,
+      "num": 327836,
+      "word": "TES",
+      "onboard_time": 1669134212,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 324649,
       "num": 324649,
       "word": "钮祜禄李峋",
@@ -2795,6 +2819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 314322,
+      "num": 314322,
+      "word": "上海宝妈花140万将地下室改成魔法屋",
+      "onboard_time": 1669133195,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 313944,
       "num": 313944,
       "word": "小狗门口玩耍被人放2猎犬咬死",
@@ -2827,14 +2859,6 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 310419,
-      "num": 310419,
-      "word": "姆巴佩",
-      "onboard_time": 1669132235,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
       "raw_hot": 308380,
       "num": 302062,
       "word": "陈飞宇说李峋重新出发",
@@ -2849,6 +2873,14 @@
       "onboard_time": 1669121447,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 307058,
+      "num": 307058,
+      "word": "十一月讨厌的人都在这里了",
+      "onboard_time": 1669132958,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 306856,
@@ -3233,14 +3265,6 @@
       "onboard_time": 1669006120,
       "rank": 22,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 260404,
-      "num": 260404,
-      "word": "十一月讨厌的人都在这里了",
-      "onboard_time": 1669132958,
-      "rank": 24,
-      "category": "影视"
     },
     {
       "raw_hot": 260238,
@@ -3675,6 +3699,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 217892,
+      "num": 217892,
+      "word": "绵阳疫情防控",
+      "onboard_time": 1669133375,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 217461,
       "num": 217461,
       "word": "沙特 受伤",
@@ -3779,14 +3811,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 211568,
-      "num": 211568,
-      "word": "上海宝妈花140万将地下室改成魔法屋",
-      "onboard_time": 1669133195,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 211545,
       "num": 211545,
       "word": "阿凡达2水之道角色海报",
@@ -3800,6 +3824,14 @@
       "word": "你的背包背到现在还没烂",
       "onboard_time": 1669016133,
       "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 209472,
+      "num": 209472,
+      "word": "沙特球迷庆祝胜利把家里门拆了",
+      "onboard_time": 1669134692,
+      "rank": 28,
       "category": "体育"
     },
     {
@@ -3984,6 +4016,14 @@
       "word": "梅西说这是最后一次世界杯",
       "onboard_time": 1669052478,
       "rank": 10,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 196517,
+      "num": 196517,
+      "word": "阿根廷出线",
+      "onboard_time": 1669122281,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -4267,14 +4307,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 180507,
-      "num": 180507,
-      "word": "绵阳疫情防控",
-      "onboard_time": 1669133375,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 180456,
       "num": 180456,
       "word": "女子遇诈骗反赚骗子1千多",
@@ -4417,14 +4449,6 @@
       "onboard_time": 1668958058,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 174284,
-      "num": 174284,
-      "word": "TES",
-      "onboard_time": 1669134212,
-      "rank": 41,
-      "category": "游戏"
     },
     {
       "raw_hot": 173572,
@@ -4792,14 +4816,6 @@
       "word": "厄瓜多尔越位",
       "onboard_time": 1668961827,
       "rank": 26,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 147851,
-      "num": 147851,
-      "word": "阿根廷出线",
-      "onboard_time": 1669122281,
-      "rank": 47,
       "category": "体育"
     },
     {
@@ -5777,6 +5793,14 @@
       "onboard_time": 1668961406,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 95531,
+      "num": 95531,
+      "word": "郑州最后一家家乐福停业",
+      "onboard_time": 1669135829,
+      "rank": 49,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 94813,

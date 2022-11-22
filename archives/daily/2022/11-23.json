@@ -1,7 +1,23 @@
 {
   "startTime": 1669134647959,
-  "endTime": 1669134647959,
+  "endTime": 1669135879463,
   "band_list": [
+    {
+      "raw_hot": 3166173,
+      "num": 3166173,
+      "word": "给国足道歉",
+      "onboard_time": 1669133015,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1998653,
+      "num": 1998653,
+      "word": "沙特全国放假一天",
+      "onboard_time": 1669133433,
+      "rank": 8,
+      "category": "体育"
+    },
     {
       "raw_hot": 1908325,
       "num": 1908325,
@@ -11,12 +27,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1517604,
-      "num": 1517604,
-      "word": "给国足道歉",
-      "onboard_time": 1669133015,
-      "rank": 1,
-      "category": "体育"
+      "raw_hot": 1182269,
+      "num": 1182269,
+      "word": "meiko",
+      "onboard_time": 1669132660,
+      "rank": 4,
+      "category": "游戏"
     },
     {
       "raw_hot": 1088738,
@@ -25,14 +41,6 @@
       "onboard_time": 1669120669,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1082211,
-      "num": 1082211,
-      "word": "meiko",
-      "onboard_time": 1669132660,
-      "rank": 4,
-      "category": "游戏"
     },
     {
       "raw_hot": 928698,
@@ -57,14 +65,6 @@
       "onboard_time": 1669131704,
       "rank": 7,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 723582,
-      "num": 723582,
-      "word": "沙特全国放假一天",
-      "onboard_time": 1669133433,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 703516,
@@ -147,6 +147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 384954,
+      "num": 384954,
+      "word": "姆巴佩",
+      "onboard_time": 1669132235,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 380410,
       "num": 380410,
       "word": "郝葭终于逃离二少主",
@@ -163,6 +171,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 346081,
+      "num": 346081,
+      "word": "内娱一句话秒懂沙特赢了",
+      "onboard_time": 1669134929,
+      "rank": 16,
+      "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 327836,
+      "num": 327836,
+      "word": "TES",
+      "onboard_time": 1669134212,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 327761,
       "num": 327761,
       "word": "警方回应男子夜钓时钓到一具浮尸",
@@ -171,12 +195,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 310419,
-      "num": 310419,
-      "word": "姆巴佩",
-      "onboard_time": 1669132235,
-      "rank": 22,
-      "category": "体育"
+      "raw_hot": 314322,
+      "num": 314322,
+      "word": "上海宝妈花140万将地下室改成魔法屋",
+      "onboard_time": 1669133195,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 307058,
+      "num": 307058,
+      "word": "十一月讨厌的人都在这里了",
+      "onboard_time": 1669132958,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 305120,
@@ -184,14 +216,6 @@
       "word": "尹峥试鞋是白敬亭本人吧",
       "onboard_time": 1669134272,
       "rank": 23,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 260404,
-      "num": 260404,
-      "word": "十一月讨厌的人都在这里了",
-      "onboard_time": 1669132958,
-      "rank": 24,
       "category": "影视"
     },
     {
@@ -259,12 +283,20 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 211568,
-      "num": 211568,
-      "word": "上海宝妈花140万将地下室改成魔法屋",
-      "onboard_time": 1669133195,
-      "rank": 33,
+      "raw_hot": 217892,
+      "num": 217892,
+      "word": "绵阳疫情防控",
+      "onboard_time": 1669133375,
+      "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 209472,
+      "num": 209472,
+      "word": "沙特球迷庆祝胜利把家里门拆了",
+      "onboard_time": 1669134692,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 203404,
@@ -272,6 +304,14 @@
       "word": "世界杯 大冷门",
       "onboard_time": 1669119487,
       "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 196517,
+      "num": 196517,
+      "word": "阿根廷出线",
+      "onboard_time": 1669122281,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -299,14 +339,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 180507,
-      "num": 180507,
-      "word": "绵阳疫情防控",
-      "onboard_time": 1669133375,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 178225,
       "num": 178225,
       "word": "梦华录首播收视",
@@ -321,14 +353,6 @@
       "onboard_time": 1669114658,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 174284,
-      "num": 174284,
-      "word": "TES",
-      "onboard_time": 1669134212,
-      "rank": 41,
-      "category": "游戏"
     },
     {
       "raw_hot": 173847,
@@ -379,14 +403,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 147851,
-      "num": 147851,
-      "word": "阿根廷出线",
-      "onboard_time": 1669122281,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 132138,
       "num": 132138,
       "word": "爱的二八定律最新预告",
@@ -395,8 +411,16 @@
       "category": "影视"
     },
     {
+      "raw_hot": 95531,
+      "num": 95531,
+      "word": "郑州最后一家家乐福停业",
+      "onboard_time": 1669135829,
+      "rank": 49,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 25366,
-      "num": 1178277,
+      "num": 1650642,
       "word": "哪届世界杯吉祥物是你最爱",
       "onboard_time": 1669098335,
       "rank": 2,
@@ -406,6 +430,9 @@
   "hotgov_list": [
     {
       "word": "#新时代新征程新伟业#"
+    },
+    {
+      "word": "#视频回顾习主席东南亚之行#"
     }
   ]
 }

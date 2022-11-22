@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1669134647959,
+  "endTime": 1669135879463,
   "band_list": [
     {
       "raw_hot": 13131209,
@@ -321,6 +321,14 @@
       "onboard_time": 1667546010,
       "rank": 10,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 3166173,
+      "num": 3166173,
+      "word": "给国足道歉",
+      "onboard_time": 1669133015,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 3150006,
@@ -1025,6 +1033,14 @@
       "onboard_time": 1668835708,
       "rank": 5,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 1998653,
+      "num": 1998653,
+      "word": "沙特全国放假一天",
+      "onboard_time": 1669133433,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 1997765,
@@ -2049,14 +2065,6 @@
       "onboard_time": 1668986482,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1517604,
-      "num": 1517604,
-      "word": "给国足道歉",
-      "onboard_time": 1669133015,
-      "rank": 1,
-      "category": "体育"
     },
     {
       "raw_hot": 1516741,
@@ -3115,6 +3123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1182269,
+      "num": 1182269,
+      "word": "meiko",
+      "onboard_time": 1669132660,
+      "rank": 4,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1181054,
       "num": 1181054,
       "word": "陈玘",
@@ -3649,14 +3665,6 @@
       "onboard_time": 1668264996,
       "rank": 10,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1082211,
-      "num": 1082211,
-      "word": "meiko",
-      "onboard_time": 1669132660,
-      "rank": 4,
-      "category": "游戏"
     },
     {
       "raw_hot": 1080947,
@@ -6857,14 +6865,6 @@
       "onboard_time": 1668840986,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 723582,
-      "num": 723582,
-      "word": "沙特全国放假一天",
-      "onboard_time": 1669133433,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 723441,
@@ -16251,6 +16251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 384954,
+      "num": 384954,
+      "word": "姆巴佩",
+      "onboard_time": 1669132235,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 384777,
       "num": 212681,
       "word": "王宝强八角笼中先导预告",
@@ -18187,6 +18195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 346081,
+      "num": 346081,
+      "word": "内娱一句话秒懂沙特赢了",
+      "onboard_time": 1669134929,
+      "rank": 16,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 345838,
       "num": 345838,
       "word": "幼童在幼儿园被殴打致轻微伤",
@@ -19299,6 +19315,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 327836,
+      "num": 327836,
+      "word": "TES",
+      "onboard_time": 1668772587,
+      "rank": 20,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 327781,
       "num": 327781,
       "word": "原来好的恋爱是这样的",
@@ -20179,6 +20203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 314322,
+      "num": 314322,
+      "word": "上海宝妈花140万将地下室改成魔法屋",
+      "onboard_time": 1669133195,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 313944,
       "num": 313944,
       "word": "小狗门口玩耍被人放2猎犬咬死",
@@ -20467,14 +20499,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 310419,
-      "num": 310419,
-      "word": "姆巴佩",
-      "onboard_time": 1669132235,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
       "raw_hot": 310371,
       "num": 310371,
       "word": "供销社系统怎么突然火了",
@@ -20641,6 +20665,14 @@
       "onboard_time": 1669121447,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 307058,
+      "num": 307058,
+      "word": "十一月讨厌的人都在这里了",
+      "onboard_time": 1669132958,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 306955,
@@ -22531,14 +22563,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 277355,
-      "num": 277355,
-      "word": "TES",
-      "onboard_time": 1668772587,
-      "rank": 20,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 277341,
       "num": 277341,
       "word": "女子抽中万元奖品开心到当街跳舞",
@@ -23768,14 +23792,6 @@
       "word": "点燃我温暖你",
       "onboard_time": 1667568990,
       "rank": 33,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 260404,
-      "num": 260404,
-      "word": "十一月讨厌的人都在这里了",
-      "onboard_time": 1669132958,
-      "rank": 24,
       "category": "影视"
     },
     {
@@ -27227,6 +27243,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 217892,
+      "num": 217892,
+      "word": "绵阳疫情防控",
+      "onboard_time": 1669133375,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 217848,
       "num": 184381,
       "word": "周深要和迪士尼合作",
@@ -27851,14 +27875,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 211568,
-      "num": 211568,
-      "word": "上海宝妈花140万将地下室改成魔法屋",
-      "onboard_time": 1669133195,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 211545,
       "num": 211545,
       "word": "阿凡达2水之道角色海报",
@@ -28073,6 +28089,14 @@
       "onboard_time": 1668334889,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 209472,
+      "num": 209472,
+      "word": "沙特球迷庆祝胜利把家里门拆了",
+      "onboard_time": 1669134692,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 209414,
@@ -29440,6 +29464,14 @@
       "word": "梅西说这是最后一次世界杯",
       "onboard_time": 1669052478,
       "rank": 10,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 196517,
+      "num": 196517,
+      "word": "阿根廷出线",
+      "onboard_time": 1669122281,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -31417,14 +31449,6 @@
       "onboard_time": 1668525812,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 180507,
-      "num": 180507,
-      "word": "绵阳疫情防控",
-      "onboard_time": 1669133375,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 180456,
@@ -35433,14 +35457,6 @@
       "onboard_time": 1667719103,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 147851,
-      "num": 147851,
-      "word": "阿根廷出线",
-      "onboard_time": 1669122281,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 147847,
@@ -43185,6 +43201,14 @@
       "onboard_time": 1668496649,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 95531,
+      "num": 95531,
+      "word": "郑州最后一家家乐福停业",
+      "onboard_time": 1669135829,
+      "rank": 49,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 95441,
