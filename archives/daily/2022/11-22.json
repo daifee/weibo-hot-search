@@ -1,10 +1,26 @@
 {
   "startTime": 1669048272938,
-  "endTime": 1669073922696,
+  "endTime": 1669082249250,
   "band_list": [
     {
-      "raw_hot": 1172928,
-      "num": 1172928,
+      "raw_hot": 1503312,
+      "num": 1503312,
+      "word": "小雪",
+      "onboard_time": 1669073006,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1389181,
+      "num": 981244,
+      "word": "男子月挣4000怪妻子花680接头发",
+      "onboard_time": 1669080153,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1180241,
+      "num": 1180241,
       "word": "别再踩公厕马桶圈了",
       "onboard_time": 1669046794,
       "rank": 14,
@@ -17,6 +33,14 @@
       "onboard_time": 1669040325,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 946069,
+      "num": 946069,
+      "word": "侃爷宣布参与2024美国总统大选",
+      "onboard_time": 1669077034,
+      "rank": 4,
+      "category": "国外要闻,艺人"
     },
     {
       "raw_hot": 904253,
@@ -43,6 +67,14 @@
       "category": "社会负面,教育"
     },
     {
+      "raw_hot": 675267,
+      "num": 675267,
+      "word": "中国小伙晒出卡塔尔住宿条件",
+      "onboard_time": 1669078596,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 626815,
       "num": 626815,
       "word": "李现说早买早享受",
@@ -57,6 +89,14 @@
       "onboard_time": 1669044224,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 542179,
+      "num": 542179,
+      "word": "宝妈将宝宝放进手提篮被质疑不安全",
+      "onboard_time": 1669076315,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 537824,
@@ -115,12 +155,44 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 490569,
+      "num": 490569,
+      "word": "安阳厂房火灾犯罪嫌疑人已被控制",
+      "onboard_time": 1669075233,
+      "rank": 7,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 481491,
       "num": 303983,
       "word": "郭晓婷晒C罗签名球服",
       "onboard_time": 1669045243,
       "rank": 12,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 475390,
+      "num": 475390,
+      "word": "世界杯",
+      "onboard_time": 1669078057,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 455922,
+      "num": 455922,
+      "word": "杜海涛为证明瘦了踩毛不易腿上",
+      "onboard_time": 1669080815,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 452786,
+      "num": 452786,
+      "word": "北京昨增274例本土确诊",
+      "onboard_time": 1669076013,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 447121,
@@ -131,6 +203,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 439281,
+      "num": 439281,
+      "word": "北京增207例社会面",
+      "onboard_time": 1669076736,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 436699,
+      "num": 436699,
+      "word": "广州新增本土感染者8210例",
+      "onboard_time": 1669079975,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 426621,
       "num": 426621,
       "word": "塞内加尔vs荷兰",
@@ -139,12 +227,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 389007,
-      "num": 389007,
-      "word": "小雪",
-      "onboard_time": 1669073006,
-      "rank": 40,
-      "category": "社会新闻"
+      "raw_hot": 406929,
+      "num": 406929,
+      "word": "安阳厂房火灾已致38人失联",
+      "onboard_time": 1669073305,
+      "rank": 30,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 373756,
+      "num": 373756,
+      "word": "王鹤棣拍吻戏看到粉丝的表情",
+      "onboard_time": 1669077395,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 371904,
+      "num": 371904,
+      "word": "李峋回来只办三件事",
+      "onboard_time": 1669079253,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 334673,
@@ -179,20 +283,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 326206,
-      "num": 110646,
-      "word": "安阳厂房火灾已致38人失联",
-      "onboard_time": 1669073305,
-      "rank": 30,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 319775,
       "num": 319775,
       "word": "英格兰vs伊朗",
       "onboard_time": 1669033110,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 306248,
+      "num": 306248,
+      "word": "女子名叫马艳花仙波被人误当网名",
+      "onboard_time": 1669078775,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 302058,
@@ -251,12 +355,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 243298,
+      "num": 243298,
+      "word": "小狗门口玩耍被人放2猎犬咬死",
+      "onboard_time": 1669079736,
+      "rank": 22,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 242233,
       "num": 242233,
       "word": "辱母案当事人于欢现状",
       "onboard_time": 1669039552,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 241570,
+      "num": 241570,
+      "word": "马宁世界杯首秀",
+      "onboard_time": 1669076972,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 240985,
@@ -291,6 +411,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 219123,
+      "num": 219123,
+      "word": "格莱美官方ins关注李永钦",
+      "onboard_time": 1669077157,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 205270,
+      "num": 205270,
+      "word": "安阳厂房火灾已致36人死亡",
+      "onboard_time": 1669074691,
+      "rank": 28,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 197458,
       "num": 197458,
       "word": "卡塔尔王子",
@@ -300,7 +436,7 @@
     },
     {
       "raw_hot": 196587,
-      "num": 133236,
+      "num": 136659,
       "word": "梅西说这是最后一次世界杯",
       "onboard_time": 1669052478,
       "rank": 10,
@@ -355,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 180991,
+      "num": 180991,
+      "word": "阿凡达2水之道角色海报",
+      "onboard_time": 1669080753,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 178403,
       "num": 178403,
       "word": "重庆寸滩方舱医院正加紧建设",
@@ -363,12 +507,44 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 178092,
+      "num": 178092,
+      "word": "白敬亭新剧演乘警",
+      "onboard_time": 1669077998,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 177444,
+      "num": 177444,
+      "word": "卡塔尔世界杯能赚多少钱",
+      "onboard_time": 1669061352,
+      "rank": 47,
+      "category": "财经,体育"
+    },
+    {
       "raw_hot": 176861,
       "num": 176861,
       "word": "太快确定关系的恋爱会长久吗",
       "onboard_time": 1669033239,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 172159,
+      "num": 172159,
+      "word": "蔡徐坤前东家晒练习生整形费用",
+      "onboard_time": 1669049545,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 170088,
+      "num": 182563,
+      "word": "9人捕捞极危长江鲟吃了3尾养死3尾",
+      "onboard_time": 1669038225,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 169841,
@@ -411,12 +587,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 153195,
-      "num": 182563,
-      "word": "9人捕捞极危长江鲟吃了3尾养死3尾",
-      "onboard_time": 1669038225,
-      "rank": 29,
-      "category": "社会新闻"
+      "raw_hot": 155348,
+      "num": 155348,
+      "word": "女子遇诈骗反赚骗子1千多",
+      "onboard_time": 1669080995,
+      "rank": 40,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 144048,
@@ -451,6 +627,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 134337,
+      "num": 134337,
+      "word": "冬季第二个节气",
+      "onboard_time": 1669081234,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 132569,
       "num": 132569,
       "word": "1岁宝宝不吃奶却爱吃土",
@@ -467,12 +651,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 124451,
-      "num": 118470,
-      "word": "蔡徐坤前东家晒练习生整形费用",
-      "onboard_time": 1669049545,
-      "rank": 22,
-      "category": "艺人"
+      "raw_hot": 127996,
+      "num": 127996,
+      "word": "交警破译男子咒语式停车电话",
+      "onboard_time": 1669081293,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 123177,
+      "num": 123177,
+      "word": "卡塔尔集装箱球迷村全部是中国制造",
+      "onboard_time": 1669081949,
+      "rank": 47,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 122351,
@@ -481,6 +673,14 @@
       "onboard_time": 1669036479,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 117101,
+      "num": 117101,
+      "word": "原来跳高也很有观赏性",
+      "onboard_time": 1669081832,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 114732,
@@ -563,14 +763,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 76723,
-      "num": 76723,
-      "word": "卡塔尔世界杯能赚多少钱",
-      "onboard_time": 1669061352,
-      "rank": 47,
-      "category": "财经,体育"
-    },
-    {
       "raw_hot": 75104,
       "num": 75104,
       "word": "贝尔点球破门",
@@ -627,6 +819,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 36031,
+      "num": 981343,
+      "word": "中国水下考古又一大发现",
+      "onboard_time": 1669002092,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 28122,
       "num": 28122,
       "word": "小维阿破门",
@@ -641,14 +841,6 @@
       "onboard_time": 1669068374,
       "rank": 39,
       "category": "游戏,影视"
-    },
-    {
-      "raw_hot": 25106,
-      "num": 885612,
-      "word": "中国水下考古又一大发现",
-      "onboard_time": 1669002092,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 21288,
