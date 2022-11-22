@@ -1,6 +1,6 @@
 {
   "startTime": 1668961718135,
-  "endTime": 1669137661620,
+  "endTime": 1669138695283,
   "band_list": [
     {
       "raw_hot": 13131209,
@@ -539,6 +539,14 @@
       "category": "体育,幽默"
     },
     {
+      "raw_hot": 1089474,
+      "num": 1089474,
+      "word": "内娱一句话秒懂沙特赢了",
+      "onboard_time": 1669134929,
+      "rank": 16,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 1074347,
       "num": 1074347,
       "word": "英格兰杀疯了",
@@ -593,14 +601,6 @@
       "onboard_time": 1669030058,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1012632,
-      "num": 1012632,
-      "word": "内娱一句话秒懂沙特赢了",
-      "onboard_time": 1669134929,
-      "rank": 16,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 1004054,
@@ -5953,6 +5953,14 @@
       "onboard_time": 1669047871,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 69009,
+      "num": 69009,
+      "word": "破次元许愿季",
+      "onboard_time": 1669138281,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 68356,
