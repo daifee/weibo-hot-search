@@ -1,6 +1,6 @@
 {
   "startTime": 1669048272938,
-  "endTime": 1669102502062,
+  "endTime": 1669105794016,
   "band_list": [
     {
       "raw_hot": 2842712,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2045134,
-      "num": 449106,
+      "num": 463344,
       "word": "刘强东称对不起京东2000多名高管",
       "onboard_time": 1669095930,
       "rank": 10,
@@ -33,6 +33,14 @@
       "onboard_time": 1669090779,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1683391,
+      "num": 1683391,
+      "word": "卡塔尔王子看了都愣住",
+      "onboard_time": 1669100494,
+      "rank": 12,
+      "category": "体育,幽默"
     },
     {
       "raw_hot": 1660063,
@@ -64,6 +72,14 @@
       "word": "别再踩公厕马桶圈了",
       "onboard_time": 1669046794,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1108386,
+      "num": 1108386,
+      "word": "江歌",
+      "onboard_time": 1669103311,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -227,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 611504,
+      "num": 611504,
+      "word": "儿子划伤豪车爸爸让其拿现金道歉",
+      "onboard_time": 1669104333,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 587421,
       "num": 587421,
       "word": "小学女生卫生间多了月经暖心盒",
@@ -243,20 +267,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 566901,
+      "num": 566901,
+      "word": "国务院联防联控机制发布会",
+      "onboard_time": 1669102471,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 560290,
       "num": 560290,
       "word": "妹妹误将火碱当冰糖冲给姐姐喝",
       "onboard_time": 1669092397,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 545006,
-      "num": 545006,
-      "word": "卡塔尔王子看了都愣住",
-      "onboard_time": 1669100494,
-      "rank": 12,
-      "category": "体育,幽默"
     },
     {
       "raw_hot": 542179,
@@ -339,6 +363,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 502446,
+      "num": 502446,
+      "word": "JDG Ruler",
+      "onboard_time": 1669103493,
+      "rank": 6,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 498978,
       "num": 498978,
       "word": "阿根廷vs沙特阿拉伯",
@@ -369,6 +401,14 @@
       "onboard_time": 1669075233,
       "rank": 7,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 486006,
+      "num": 486006,
+      "word": "女子欠千万网贷申请精神病鉴定",
+      "onboard_time": 1669103370,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 481491,
@@ -411,12 +451,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 466147,
+      "num": 466147,
+      "word": "英雄联盟",
+      "onboard_time": 1669104571,
+      "rank": 9,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 465546,
       "num": 465546,
       "word": "世界杯为什么没有英国队",
       "onboard_time": 1669098932,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 460537,
+      "num": 460537,
+      "word": "台湾问题是中美第一条不可逾越红线",
+      "onboard_time": 1669101812,
+      "rank": 36,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 456427,
@@ -497,6 +553,14 @@
       "onboard_time": 1669073305,
       "rank": 30,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 405636,
+      "num": 405636,
+      "word": "男子称永辉超市买牛肉实为猪肉",
+      "onboard_time": 1669100014,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 405040,
@@ -595,6 +659,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 338627,
+      "num": 251529,
+      "word": "江歌母亲诉刘鑫案件回顾",
+      "onboard_time": 1669101391,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 334673,
       "num": 334673,
       "word": "大叔球场上给小伙展示账户余额",
@@ -691,14 +763,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 287407,
-      "num": 287407,
-      "word": "男子称永辉超市买牛肉实为猪肉",
-      "onboard_time": 1669100014,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 285491,
       "num": 285491,
       "word": "将泡面拿进车里有多难",
@@ -729,14 +793,6 @@
       "onboard_time": 1669093360,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 284697,
-      "num": 284697,
-      "word": "国务院联防联控机制发布会",
-      "onboard_time": 1669102471,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 279992,
@@ -811,6 +867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 261274,
+      "num": 261274,
+      "word": "黄明昊九尾互关了",
+      "onboard_time": 1669101812,
+      "rank": 34,
+      "category": "游戏,艺人"
+    },
+    {
       "raw_hot": 260238,
       "num": 260238,
       "word": "方舒苗问李峋现在还这么帅吗",
@@ -843,12 +907,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 251529,
-      "num": 251529,
-      "word": "江歌母亲诉刘鑫案件回顾",
-      "onboard_time": 1669101391,
-      "rank": 31,
+      "raw_hot": 250898,
+      "num": 250898,
+      "word": "低风险群众如何自我防护",
+      "onboard_time": 1669104931,
+      "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 248790,
+      "num": 248790,
+      "word": "把球交给梅西",
+      "onboard_time": 1669104033,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 248072,
@@ -979,10 +1051,26 @@
       "category": "影视"
     },
     {
+      "raw_hot": 213380,
+      "num": 213380,
+      "word": "京东薪资水平",
+      "onboard_time": 1669105052,
+      "rank": 25,
+      "category": "科技"
+    },
+    {
       "raw_hot": 211545,
       "num": 211545,
       "word": "阿凡达2水之道角色海报",
       "onboard_time": 1669080753,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 209590,
+      "num": 196198,
+      "word": "朱韵命令李峋二十四小时随时待命",
+      "onboard_time": 1669105353,
       "rank": 30,
       "category": "影视"
     },
@@ -1051,6 +1139,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 192416,
+      "num": 196308,
+      "word": "田曦薇李薇眼神变了",
+      "onboard_time": 1669105174,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 191009,
       "num": 191009,
       "word": "霍华德将因伤休战两周",
@@ -1107,20 +1203,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 183325,
-      "num": 183325,
-      "word": "黄明昊九尾互关了",
-      "onboard_time": 1669101812,
-      "rank": 34,
-      "category": "游戏,艺人"
-    },
-    {
       "raw_hot": 182582,
       "num": 182582,
       "word": "卡塔尔把公交开出了跑车感",
       "onboard_time": 1669030180,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 180924,
+      "num": 180924,
+      "word": "GQ红毯真人秀阵容公开",
+      "onboard_time": 1669103973,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 180456,
@@ -1195,14 +1291,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 171490,
-      "num": 171490,
-      "word": "台湾问题是中美第一条不可逾越红线",
-      "onboard_time": 1669101812,
-      "rank": 36,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 170088,
       "num": 182563,
       "word": "9人捕捞极危长江鲟吃了3尾养死3尾",
@@ -1259,6 +1347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 161479,
+      "num": 161479,
+      "word": "要持续整治层层加码",
+      "onboard_time": 1669102771,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 159384,
       "num": 159384,
       "word": "村民称安阳着火厂房做工的多为女性",
@@ -1275,12 +1371,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 158896,
+      "num": 158896,
+      "word": "小伙入户抢劫失足女5千被判10年",
+      "onboard_time": 1669104872,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 157738,
       "num": 157738,
       "word": "李峋好狠的心",
       "onboard_time": 1669071740,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 154156,
+      "num": 154156,
+      "word": "原来生命真的有奇迹",
+      "onboard_time": 1669103191,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 153801,
@@ -1371,6 +1483,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 136290,
+      "num": 136290,
+      "word": "中国企业成本届世界杯最大金主",
+      "onboard_time": 1669103131,
+      "rank": 46,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 136079,
       "num": 136079,
       "word": "应急管理部调度河南厂房火灾救援处置",
@@ -1411,6 +1531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 131916,
+      "num": 131916,
+      "word": "梅西的爱情故事有多甜",
+      "onboard_time": 1669105650,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 131401,
       "num": 131401,
       "word": "网红债基富荣中短债一天跌12%",
@@ -1449,6 +1577,14 @@
       "onboard_time": 1669047334,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 124987,
+      "num": 124987,
+      "word": "陈飞宇说命韵峋环肯定是真爱",
+      "onboard_time": 1669104152,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 123598,
@@ -1636,7 +1772,7 @@
     },
     {
       "raw_hot": 75857,
-      "num": 708146,
+      "num": 870939,
       "word": "我国深空探测将分哪几步",
       "onboard_time": 1669100131,
       "rank": 2,
