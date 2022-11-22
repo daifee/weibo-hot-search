@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1669149327759,
+  "endTime": 1669151858670,
   "band_list": [
     {
       "raw_hot": 13131209,
@@ -38683,6 +38683,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 127869,
+      "num": 16157,
+      "word": "法国4比1澳大利亚",
+      "onboard_time": 1669151832,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 127827,
       "num": 127827,
       "word": "Fallingyou一响命韵峋环上场",
@@ -47475,6 +47483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 42405,
+      "num": 16139,
+      "word": "姆巴佩头球破门",
+      "onboard_time": 1669151832,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 42157,
       "num": 133993,
       "word": "设计师建议带马桶上火星",
@@ -47497,6 +47513,14 @@
       "onboard_time": 1668168030,
       "rank": 39,
       "category": "科技"
+    },
+    {
+      "raw_hot": 41713,
+      "num": 23051,
+      "word": "男子在卡塔尔逛商场发现纯金手机",
+      "onboard_time": 1669149791,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 41233,
@@ -47601,6 +47625,14 @@
       "onboard_time": 1669052478,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 38032,
+      "num": 23039,
+      "word": "拉比奥头球破门",
+      "onboard_time": 1669150752,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 37244,
@@ -47929,6 +47961,14 @@
       "onboard_time": 1668894852,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 26272,
+      "num": 16116,
+      "word": "吉鲁追平亨利进球纪录",
+      "onboard_time": 1669151832,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 26208,
