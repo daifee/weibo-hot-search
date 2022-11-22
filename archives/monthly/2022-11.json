@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1669122260110,
+  "endTime": 1669124055157,
   "band_list": [
     {
       "raw_hot": 13131209,
@@ -273,6 +273,14 @@
       "onboard_time": 1668858447,
       "rank": 1,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 3309989,
+      "num": 3309989,
+      "word": "沙特赔率",
+      "onboard_time": 1669119894,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 3224754,
@@ -1321,14 +1329,6 @@
       "onboard_time": 1668852327,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1807608,
-      "num": 1807608,
-      "word": "沙特赔率",
-      "onboard_time": 1669119894,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 1806702,
@@ -5531,6 +5531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 831264,
+      "num": 831264,
+      "word": "上海疫情防控",
+      "onboard_time": 1669123421,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 830709,
       "num": 430890,
       "word": "杨超越跳了nxde",
@@ -6481,6 +6489,14 @@
       "onboard_time": 1669118561,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 742297,
+      "num": 742297,
+      "word": "丹麦vs突尼斯",
+      "onboard_time": 1669119368,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 740686,
@@ -7948,7 +7964,7 @@
     },
     {
       "raw_hot": 645698,
-      "num": 308378,
+      "num": 401920,
       "word": "世界杯天台开始排队",
       "onboard_time": 1669121085,
       "rank": 30,
@@ -8009,6 +8025,14 @@
       "onboard_time": 1667380344,
       "rank": 13,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 643120,
+      "num": 643120,
+      "word": "沙特门将 身价暴涨",
+      "onboard_time": 1669120669,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 642788,
@@ -8625,14 +8649,6 @@
       "onboard_time": 1668554241,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 609409,
-      "num": 609409,
-      "word": "丹麦vs突尼斯",
-      "onboard_time": 1669119368,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 609265,
@@ -9371,6 +9387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 570404,
+      "num": 570404,
+      "word": "王鹤棣说我是时宴等候多时了",
+      "onboard_time": 1669123780,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 569745,
       "num": 569745,
       "word": "商户因体温枪没电被要求停业1天",
@@ -9856,6 +9880,14 @@
       "word": "知情人士称国产新冠口服药药店将下架",
       "onboard_time": 1668831626,
       "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 553176,
+      "num": 553176,
+      "word": "60岁大爷吃生蒜杀菌延误病情致癌",
+      "onboard_time": 1669119838,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -11403,6 +11435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 497995,
+      "num": 497995,
+      "word": "警方回应男子夜钓时钓到一具浮尸",
+      "onboard_time": 1669121806,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 497722,
       "num": 497722,
       "word": "为什么恋爱长跑会容易分手",
@@ -12547,14 +12587,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 466732,
-      "num": 466732,
-      "word": "60岁大爷吃生蒜杀菌延误病情致癌",
-      "onboard_time": 1669119838,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 466453,
       "num": 252541,
       "word": "重庆警方回应一女子因家暴跳桥",
@@ -12721,6 +12753,14 @@
       "onboard_time": 1668940707,
       "rank": 11,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 462894,
+      "num": 462894,
+      "word": "田柾国参与了Dreamers词曲创作",
+      "onboard_time": 1669122944,
+      "rank": 17,
+      "category": "音乐"
     },
     {
       "raw_hot": 462311,
@@ -13785,6 +13825,14 @@
       "onboard_time": 1667272465,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 434902,
+      "num": 434902,
+      "word": "Doinb爆料EDG",
+      "onboard_time": 1669123000,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 434874,
@@ -17843,6 +17891,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 345738,
+      "num": 345738,
+      "word": "阿根廷赔率",
+      "onboard_time": 1669120786,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 345662,
       "num": 345662,
       "word": "女儿1个电话爸爸骑车20公里送鸡腿",
@@ -19755,6 +19811,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 314856,
+      "num": 314856,
+      "word": "阿根廷时隔32年再输世界杯首战",
+      "onboard_time": 1669123000,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 314802,
       "num": 314802,
       "word": "苹果混合现实头显或明年发布",
@@ -21075,6 +21139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 291912,
+      "num": 291912,
+      "word": "德国队",
+      "onboard_time": 1669123122,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 291707,
       "num": 291707,
       "word": "马嘉祺又在递麦",
@@ -21321,6 +21393,14 @@
       "onboard_time": 1667286506,
       "rank": 29,
       "category": "财经"
+    },
+    {
+      "raw_hot": 287776,
+      "num": 287776,
+      "word": "虽然我不懂球但我懂帅哥",
+      "onboard_time": 1669121683,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 287672,
@@ -21601,6 +21681,14 @@
       "onboard_time": 1668584009,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 284408,
+      "num": 284408,
+      "word": "砸电视",
+      "onboard_time": 1669121865,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 284359,
@@ -23147,14 +23235,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 263183,
-      "num": 263183,
-      "word": "警方回应男子夜钓时钓到一具浮尸",
-      "onboard_time": 1669121806,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 263114,
       "num": 263114,
       "word": "小狗连吧唧嘴都那么可爱",
@@ -24419,14 +24499,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 244593,
-      "num": 244593,
-      "word": "虽然我不懂球但我懂帅哥",
-      "onboard_time": 1669121683,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 244517,
       "num": 244517,
       "word": "绒山羊神似慢羊羊",
@@ -24481,14 +24553,6 @@
       "onboard_time": 1668486513,
       "rank": 40,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 243826,
-      "num": 243826,
-      "word": "砸电视",
-      "onboard_time": 1669121865,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 243693,
@@ -24801,6 +24865,14 @@
       "onboard_time": 1667460925,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 238910,
+      "num": 238910,
+      "word": "田曦薇新上错花轿嫁对郎路透视频",
+      "onboard_time": 1669123240,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 238902,
@@ -26787,6 +26859,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 217729,
+      "num": 217729,
+      "word": "法国vs澳大利亚",
+      "onboard_time": 1669123780,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 217698,
       "num": 217698,
       "word": "林加德谈到C罗梅西时被吓坏",
@@ -26969,6 +27049,14 @@
       "onboard_time": 1669086632,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 216571,
+      "num": 172745,
+      "word": "没有冷门的世界杯不是真正的世界杯",
+      "onboard_time": 1669122944,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 216492,
@@ -27721,6 +27809,14 @@
       "onboard_time": 1668149441,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 207966,
+      "num": 207966,
+      "word": "24日起抵沪不满5天者不得进入公共场所",
+      "onboard_time": 1669123361,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 207954,
@@ -28979,14 +29075,6 @@
       "category": "体育,科技"
     },
     {
-      "raw_hot": 196378,
-      "num": 196378,
-      "word": "沙特门将 身价暴涨",
-      "onboard_time": 1669120669,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 196377,
       "num": 196377,
       "word": "你有坚持了十年的事情吗",
@@ -29305,14 +29393,6 @@
       "onboard_time": 1669095036,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 194368,
-      "num": 194368,
-      "word": "阿根廷赔率",
-      "onboard_time": 1669120786,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 194129,
@@ -32515,6 +32595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 166261,
+      "num": 166261,
+      "word": "卡塔尔世界杯有毒",
+      "onboard_time": 1669123475,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 166234,
       "num": 166234,
       "word": "爸爸多少有点自讨没趣",
@@ -32849,6 +32937,14 @@
       "onboard_time": 1668492392,
       "rank": 32,
       "category": "网红"
+    },
+    {
+      "raw_hot": 163172,
+      "num": 163172,
+      "word": "郑州新增1例死亡病例",
+      "onboard_time": 1669123662,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 163125,

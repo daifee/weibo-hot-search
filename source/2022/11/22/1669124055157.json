@@ -1,0 +1,410 @@
+{
+  "runTime": 1669124055157,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9152536,
+        "num": 9152536,
+        "word": "世界杯 大冷门",
+        "onboard_time": 1669119487,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 3309989,
+        "num": 3309989,
+        "word": "沙特赔率",
+        "onboard_time": 1669119894,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1984237,
+        "num": 1984237,
+        "word": "苏醒最不快乐的一天",
+        "onboard_time": 1669120973,
+        "rank": 2,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 1977497,
+        "num": 1977497,
+        "word": "沙特反超",
+        "onboard_time": 1669116218,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1867629,
+        "num": 1867629,
+        "word": "沙特门将 牛",
+        "onboard_time": 1669117836,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1282330,
+        "num": 1282330,
+        "word": "梅西好像在这一刻释怀了",
+        "onboard_time": 1669112369,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1136299,
+        "num": 1136299,
+        "word": "郝葭生产",
+        "onboard_time": 1669119424,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 831264,
+        "num": 831264,
+        "word": "上海疫情防控",
+        "onboard_time": 1669123421,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1079824,
+        "num": 813728,
+        "word": "心疼梅西",
+        "onboard_time": 1669119368,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 767119,
+        "num": 767119,
+        "word": "郑州疫情防控",
+        "onboard_time": 1669117777,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 747466,
+        "num": 747466,
+        "word": "沙特守门员杀疯了",
+        "onboard_time": 1669119782,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 742297,
+        "num": 742297,
+        "word": "丹麦vs突尼斯",
+        "onboard_time": 1669119368,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 643120,
+        "num": 643120,
+        "word": "沙特门将 身价暴涨",
+        "onboard_time": 1669120669,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 570404,
+        "num": 570404,
+        "word": "王鹤棣说我是时宴等候多时了",
+        "onboard_time": 1669123780,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 553176,
+        "num": 553176,
+        "word": "60岁大爷吃生蒜杀菌延误病情致癌",
+        "onboard_time": 1669119838,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 508827,
+        "num": 508827,
+        "word": "阿根廷1比2沙特阿拉伯",
+        "onboard_time": 1669119306,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 497995,
+        "num": 497995,
+        "word": "警方回应男子夜钓时钓到一具浮尸",
+        "onboard_time": 1669121806,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 462894,
+        "num": 462894,
+        "word": "田柾国参与了Dreamers词曲创作",
+        "onboard_time": 1669122944,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 446645,
+        "num": 446645,
+        "word": "阿根廷队36场不败纪录被终止",
+        "onboard_time": 1669119782,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 434902,
+        "num": 434902,
+        "word": "Doinb爆料EDG",
+        "onboard_time": 1669123000,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 422091,
+        "num": 422091,
+        "word": "秦施被排挤",
+        "onboard_time": 1669119306,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 401920,
+        "num": 401920,
+        "word": "世界杯天台开始排队",
+        "onboard_time": 1669121085,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 384026,
+        "num": 384026,
+        "word": "银川通报男子被压控在地",
+        "onboard_time": 1669118561,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 369816,
+        "num": 369816,
+        "word": "朱韵住院李峋急了",
+        "onboard_time": 1669114658,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 348043,
+        "num": 348043,
+        "word": "北京新增2例新冠重症感染者均未接种加强针",
+        "onboard_time": 1669112432,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345738,
+        "num": 345738,
+        "word": "阿根廷赔率",
+        "onboard_time": 1669120786,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 314856,
+        "num": 314856,
+        "word": "阿根廷时隔32年再输世界杯首战",
+        "onboard_time": 1669123000,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 304772,
+        "num": 304772,
+        "word": "陈小纭郝葭想逃却逃不掉",
+        "onboard_time": 1669121865,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 302382,
+        "num": 302382,
+        "word": "阿根廷vs沙特阿拉伯",
+        "onboard_time": 1669109850,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 291912,
+        "num": 291912,
+        "word": "德国队",
+        "onboard_time": 1669123122,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 287776,
+        "num": 287776,
+        "word": "虽然我不懂球但我懂帅哥",
+        "onboard_time": 1669121683,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 284408,
+        "num": 284408,
+        "word": "砸电视",
+        "onboard_time": 1669121865,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 284353,
+        "num": 284353,
+        "word": "内蒙古惊现3个太阳幻日奇观",
+        "onboard_time": 1669113513,
+        "rank": 32,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 267759,
+        "num": 267759,
+        "word": "EDG",
+        "onboard_time": 1669117300,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 238910,
+        "num": 238910,
+        "word": "田曦薇新上错花轿嫁对郎路透视频",
+        "onboard_time": 1669123240,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 231666,
+        "num": 231666,
+        "word": "儿子划伤豪车爸爸让其拿现金道歉",
+        "onboard_time": 1669104333,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217729,
+        "num": 217729,
+        "word": "法国vs澳大利亚",
+        "onboard_time": 1669123780,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 212420,
+        "num": 212420,
+        "word": "沙特替补席狂欢庆祝",
+        "onboard_time": 1669117420,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 208977,
+        "num": 208977,
+        "word": "女子欠千万网贷申请精神病鉴定",
+        "onboard_time": 1669103370,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207966,
+        "num": 207966,
+        "word": "24日起抵沪不满5天者不得进入公共场所",
+        "onboard_time": 1669123361,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205488,
+        "num": 205488,
+        "word": "以爱为营阵容官宣",
+        "onboard_time": 1669119782,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 193260,
+        "num": 193260,
+        "word": "秦施阳华拍婚纱照",
+        "onboard_time": 1669118620,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 176449,
+        "num": 176449,
+        "word": "刘强东称对不起京东2000多名高管",
+        "onboard_time": 1669095930,
+        "rank": 42,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 216571,
+        "num": 172745,
+        "word": "没有冷门的世界杯不是真正的世界杯",
+        "onboard_time": 1669122944,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167816,
+        "num": 167816,
+        "word": "肖战打网球潜水冲浪vlog",
+        "onboard_time": 1669108111,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166261,
+        "num": 166261,
+        "word": "卡塔尔世界杯有毒",
+        "onboard_time": 1669123475,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163172,
+        "num": 163172,
+        "word": "郑州新增1例死亡病例",
+        "onboard_time": 1669123662,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161003,
+        "num": 161003,
+        "word": "李峋朱韵没有分手",
+        "onboard_time": 1669107989,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 154035,
+        "num": 154035,
+        "word": "陈乔恩从女儿的恋爱到妻子的旅行",
+        "onboard_time": 1669107450,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153438,
+        "num": 153438,
+        "word": "腾讯视频将上线韩国电影",
+        "onboard_time": 1669109373,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#视频回顾习主席东南亚之行#"
+    }
+  }
+}
