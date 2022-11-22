@@ -1,6 +1,6 @@
 {
   "startTime": 1669134647959,
-  "endTime": 1669152815833,
+  "endTime": 1669155709477,
   "band_list": [
     {
       "raw_hot": 3352526,
@@ -235,6 +235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 278501,
+      "num": 278501,
+      "word": "法国4比1澳大利亚",
+      "onboard_time": 1669151832,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 262825,
       "num": 262825,
       "word": "沙特球迷庆祝胜利把家里门拆了",
@@ -257,14 +265,6 @@
       "onboard_time": 1669128705,
       "rank": 26,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 251865,
-      "num": 251865,
-      "word": "法国4比1澳大利亚",
-      "onboard_time": 1669151832,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 246350,
@@ -508,7 +508,7 @@
     },
     {
       "raw_hot": 73606,
-      "num": 26128,
+      "num": 35674,
       "word": "姆巴佩头球破门",
       "onboard_time": 1669151832,
       "rank": 48,
@@ -523,6 +523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 71140,
+      "num": 34980,
+      "word": "男子在卡塔尔逛商场发现纯金手机",
+      "onboard_time": 1669149791,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 69009,
       "num": 69009,
       "word": "破次元许愿季",
@@ -531,16 +539,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 54879,
-      "num": 26064,
-      "word": "男子在卡塔尔逛商场发现纯金手机",
-      "onboard_time": 1669149791,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 53513,
-      "num": 29469,
+      "num": 34331,
       "word": "卡塔尔世界杯连续两场0比0",
       "onboard_time": 1669147633,
       "rank": 30,
@@ -617,6 +617,14 @@
       "onboard_time": 1669146613,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 20017,
+      "num": 20017,
+      "word": "男子刷信用卡6千打赏女主播被拉黑",
+      "onboard_time": 1669155495,
+      "rank": 47,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
