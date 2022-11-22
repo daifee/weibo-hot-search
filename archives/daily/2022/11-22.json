@@ -1,6 +1,6 @@
 {
   "startTime": 1669048272938,
-  "endTime": 1669124725480,
+  "endTime": 1669126777128,
   "band_list": [
     {
       "raw_hot": 13131209,
@@ -83,6 +83,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2083167,
+      "num": 210058,
+      "word": "阿根廷输了",
+      "onboard_time": 1669126724,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2045134,
       "num": 515477,
       "word": "刘强东称对不起京东2000多名高管",
@@ -105,6 +113,14 @@
       "onboard_time": 1669080153,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1816487,
+      "num": 1816487,
+      "word": "梅西输球后刘畊宏哭了",
+      "onboard_time": 1669124862,
+      "rank": 3,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 1738191,
@@ -179,12 +195,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1292406,
-      "num": 1292406,
+      "raw_hot": 1387663,
+      "num": 1387663,
       "word": "上海疫情防控",
       "onboard_time": 1669123421,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1305200,
+      "num": 1305200,
+      "word": "沙特门将 身价暴涨",
+      "onboard_time": 1669120669,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 1224341,
@@ -355,14 +379,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 795004,
-      "num": 795004,
-      "word": "沙特门将 身价暴涨",
-      "onboard_time": 1669120669,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 748992,
       "num": 748992,
       "word": "中石化与卡塔尔签史上最长液化天然气协议",
@@ -377,6 +393,14 @@
       "onboard_time": 1669095275,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 745117,
+      "num": 745117,
+      "word": "砸电视",
+      "onboard_time": 1669121865,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 742513,
@@ -483,6 +507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 638056,
+      "num": 638056,
+      "word": "警方回应男子夜钓时钓到一具浮尸",
+      "onboard_time": 1669121806,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 635353,
       "num": 635353,
       "word": "沙特替补席狂欢庆祝",
@@ -496,6 +528,14 @@
       "word": "男子上厕所怕脏踩碎合租房马桶",
       "onboard_time": 1669086213,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 630844,
+      "num": 630844,
+      "word": "郑州新增1例死亡病例",
+      "onboard_time": 1669123662,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -547,6 +587,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 592179,
+      "num": 592179,
+      "word": "周峻纬 名学",
+      "onboard_time": 1669126124,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 587421,
       "num": 587421,
       "word": "小学女生卫生间多了月经暖心盒",
@@ -555,20 +603,20 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 573992,
+      "num": 573992,
+      "word": "德国队",
+      "onboard_time": 1669123122,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 568279,
       "num": 568279,
       "word": "英格兰6比2伊朗",
       "onboard_time": 1669044224,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 564984,
-      "num": 564984,
-      "word": "警方回应男子夜钓时钓到一具浮尸",
-      "onboard_time": 1669121806,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 560290,
@@ -601,6 +649,14 @@
       "onboard_time": 1669104571,
       "rank": 9,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 543159,
+      "num": 543159,
+      "word": "重庆籍艺人为家乡加油",
+      "onboard_time": 1669124623,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 542179,
@@ -657,6 +713,14 @@
       "onboard_time": 1669090114,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 519224,
+      "num": 433823,
+      "word": "一键查询梅西球迷精神状态",
+      "onboard_time": 1669123421,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 517808,
@@ -883,6 +947,14 @@
       "category": "自然"
     },
     {
+      "raw_hot": 434013,
+      "num": 434013,
+      "word": "汪小菲口中的思诺思是什么药",
+      "onboard_time": 1669126423,
+      "rank": 21,
+      "category": "情感,艺人"
+    },
+    {
       "raw_hot": 429071,
       "num": 309742,
       "word": "宋亚轩说希望得到大家的认可和喜欢",
@@ -905,14 +977,6 @@
       "onboard_time": 1669088732,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 419040,
-      "num": 419040,
-      "word": "砸电视",
-      "onboard_time": 1669121865,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 416418,
@@ -947,12 +1011,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 408595,
-      "num": 408595,
-      "word": "德国队",
-      "onboard_time": 1669123122,
-      "rank": 29,
-      "category": "体育"
+      "raw_hot": 409360,
+      "num": 409360,
+      "word": "Viper",
+      "onboard_time": 1669125464,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 407313,
@@ -969,6 +1033,14 @@
       "onboard_time": 1669073305,
       "rank": 30,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 406883,
+      "num": 406883,
+      "word": "田曦薇新上错花轿嫁对郎路透视频",
+      "onboard_time": 1669123240,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 405636,
@@ -1027,6 +1099,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 379347,
+      "num": 379347,
+      "word": "梦华录首播收视",
+      "onboard_time": 1669125464,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 378041,
       "num": 378041,
       "word": "江母诉刘鑫案再开庭或不当庭宣判",
@@ -1067,6 +1147,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 373272,
+      "num": 373272,
+      "word": "24日起抵沪不满5天者不得进入公共场所",
+      "onboard_time": 1669123361,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 373227,
       "num": 373227,
       "word": "京东薪资水平",
@@ -1089,6 +1177,14 @@
       "onboard_time": 1669088313,
       "rank": 34,
       "category": "美食"
+    },
+    {
+      "raw_hot": 362809,
+      "num": 323643,
+      "word": "卿卿日常",
+      "onboard_time": 1669124982,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 360984,
@@ -1203,6 +1299,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 336361,
+      "num": 323193,
+      "word": "郝葭终于逃离二少主",
+      "onboard_time": 1669125762,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 334673,
       "num": 334673,
       "word": "大叔球场上给小伙展示账户余额",
@@ -1217,6 +1321,14 @@
       "onboard_time": 1669066634,
       "rank": 16,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 332872,
+      "num": 332872,
+      "word": "阿根廷输球一小时后无人走出更衣室",
+      "onboard_time": 1669125947,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 329805,
@@ -1323,6 +1435,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 308380,
+      "num": 302062,
+      "word": "陈飞宇说李峋重新出发",
+      "onboard_time": 1669126664,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 307379,
       "num": 307379,
       "word": "沙特胜了阿根廷",
@@ -1387,22 +1507,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 295611,
-      "num": 295611,
-      "word": "24日起抵沪不满5天者不得进入公共场所",
-      "onboard_time": 1669123361,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 292640,
-      "num": 292640,
-      "word": "一键查询梅西球迷精神状态",
-      "onboard_time": 1669123421,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 287776,
       "num": 287776,
       "word": "虽然我不懂球但我懂帅哥",
@@ -1441,14 +1545,6 @@
       "onboard_time": 1669093360,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 283501,
-      "num": 283501,
-      "word": "郑州新增1例死亡病例",
-      "onboard_time": 1669123662,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 279992,
@@ -1603,6 +1699,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 252219,
+      "num": 252219,
+      "word": "妈妈产后抑郁离世孩子才7个月",
+      "onboard_time": 1669126363,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 250898,
       "num": 250898,
       "word": "低风险群众如何自我防护",
@@ -1681,14 +1785,6 @@
       "onboard_time": 1669106494,
       "rank": 42,
       "category": "美食"
-    },
-    {
-      "raw_hot": 238910,
-      "num": 238910,
-      "word": "田曦薇新上错花轿嫁对郎路透视频",
-      "onboard_time": 1669123240,
-      "rank": 34,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 234802,
@@ -1867,12 +1963,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 214373,
-      "num": 214373,
-      "word": "重庆籍艺人为家乡加油",
-      "onboard_time": 1669124623,
-      "rank": 38,
-      "category": "艺人"
+      "raw_hot": 213646,
+      "num": 213646,
+      "word": "巴西队",
+      "onboard_time": 1669125281,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 211545,
@@ -1921,6 +2017,14 @@
       "onboard_time": 1669112672,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 199835,
+      "num": 199835,
+      "word": "刘强东十几年捐了60%的收入",
+      "onboard_time": 1669125041,
+      "rank": 49,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 198329,
@@ -2337,6 +2441,14 @@
       "onboard_time": 1669123475,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 163900,
+      "num": 260003,
+      "word": "vivo首发天玑9200芯片",
+      "onboard_time": 1669125643,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 163354,
