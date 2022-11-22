@@ -1,0 +1,410 @@
+{
+  "runTime": 1669101619404,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1061047,
+        "num": 1061047,
+        "word": "刘强东发布京东全员信",
+        "onboard_time": 1669090656,
+        "rank": 0,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 926540,
+        "num": 926540,
+        "word": "卡塔尔和迪拜哪个更富",
+        "onboard_time": 1669094314,
+        "rank": 1,
+        "category": "体育,旅游"
+      },
+      {
+        "raw_hot": 72484,
+        "num": 708146,
+        "word": "我国深空探测将分哪几步",
+        "onboard_time": 1669100131,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 955749,
+        "num": 696142,
+        "word": "母亲出家裸捐588万女儿贷款上大学",
+        "onboard_time": 1669090779,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 651061,
+        "num": 651061,
+        "word": "王鹤棣说抓紧时间干收工五点半",
+        "onboard_time": 1669097852,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 587421,
+        "num": 587421,
+        "word": "小学女生卫生间多了月经暖心盒",
+        "onboard_time": 1669096293,
+        "rank": 5,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 484158,
+        "num": 484158,
+        "word": "街道回应小区喊话外来人员格杀勿论",
+        "onboard_time": 1669096895,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 472778,
+        "num": 472778,
+        "word": "檀健次金世佳猎罪图鉴明年1月日本播出",
+        "onboard_time": 1669099592,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 404984,
+        "num": 404984,
+        "word": "鹤壁校园欺凌事件涉事副校长被辞退",
+        "onboard_time": 1669094675,
+        "rank": 8,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 396089,
+        "num": 396089,
+        "word": "JDG官宣Yagao成为自由人",
+        "onboard_time": 1669095275,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 2018517,
+        "num": 394606,
+        "word": "刘强东称对不起京东2000多名高管",
+        "onboard_time": 1669095930,
+        "rank": 10,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 374813,
+        "num": 374813,
+        "word": "白敬亭田曦薇GQ合体",
+        "onboard_time": 1669093360,
+        "rank": 11,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 372358,
+        "num": 372358,
+        "word": "卡塔尔王子看了都愣住",
+        "onboard_time": 1669100494,
+        "rank": 12,
+        "category": "体育,幽默"
+      },
+      {
+        "raw_hot": 366711,
+        "num": 366711,
+        "word": "街道办回应太原城管跪压司机头部",
+        "onboard_time": 1669099592,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 364717,
+        "num": 364717,
+        "word": "世界杯为什么没有英国队",
+        "onboard_time": 1669098932,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 364076,
+        "num": 364076,
+        "word": "刘强东投入数百亿给员工买房",
+        "onboard_time": 1669097881,
+        "rank": 15,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 357819,
+        "num": 357819,
+        "word": "C罗希望击败梅西",
+        "onboard_time": 1669097195,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 335329,
+        "num": 335329,
+        "word": "乱世佳人最后一名在世演员去世",
+        "onboard_time": 1669095454,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 318602,
+        "num": 318602,
+        "word": "胡彦斌对宋宁峰感同身受",
+        "onboard_time": 1669099952,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 314614,
+        "num": 314614,
+        "word": "男子月挣4000怪妻子花680接头发",
+        "onboard_time": 1669080153,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1363689,
+        "num": 314573,
+        "word": "重庆核酸",
+        "onboard_time": 1669097914,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313405,
+        "num": 313405,
+        "word": "妹妹误将火碱当冰糖冲给姐姐喝",
+        "onboard_time": 1669092397,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279992,
+        "num": 279992,
+        "word": "女子称休息日不去公司开会被辞退",
+        "onboard_time": 1669096955,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272158,
+        "num": 272158,
+        "word": "郑恺苗苗首个合体综艺",
+        "onboard_time": 1669100733,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 260238,
+        "num": 260238,
+        "word": "方舒苗问李峋现在还这么帅吗",
+        "onboard_time": 1669100613,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 213289,
+        "num": 213289,
+        "word": "75%未成年每周游戏少于3小时",
+        "onboard_time": 1669099473,
+        "rank": 25,
+        "category": "游戏,社会新闻"
+      },
+      {
+        "raw_hot": 215403,
+        "num": 212517,
+        "word": "陈飞宇中枪式摔倒",
+        "onboard_time": 1669100431,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 208620,
+        "num": 208620,
+        "word": "男子称永辉超市买牛肉实为猪肉",
+        "onboard_time": 1669100014,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208126,
+        "num": 208126,
+        "word": "卡塔尔版退钱哥",
+        "onboard_time": 1669093844,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 198289,
+        "num": 198289,
+        "word": "妻子的浪漫旅行6官宣定档1124",
+        "onboard_time": 1669087891,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193009,
+        "num": 193009,
+        "word": "黑洞竟然向星系吐口水",
+        "onboard_time": 1669100793,
+        "rank": 30,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 187580,
+        "num": 187580,
+        "word": "江歌母亲诉刘鑫案件回顾",
+        "onboard_time": 1669101391,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175213,
+        "num": 175213,
+        "word": "原来这么多明星喜欢梅西",
+        "onboard_time": 1669094377,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168578,
+        "num": 168578,
+        "word": "赵丽颖鞠婧祎新剧小雪海报",
+        "onboard_time": 1669087891,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 156263,
+        "num": 156263,
+        "word": "河南通报安阳火灾事故原因",
+        "onboard_time": 1669095454,
+        "rank": 34,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 172892,
+        "num": 156161,
+        "word": "梅西最后一次世界杯今晚启程",
+        "onboard_time": 1669101094,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155044,
+        "num": 155044,
+        "word": "重庆新增本土确诊178例无症状6157例",
+        "onboard_time": 1669090537,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153801,
+        "num": 153801,
+        "word": "李峋发型的三次变化",
+        "onboard_time": 1669100555,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 150469,
+        "num": 150469,
+        "word": "男子上厕所怕脏踩碎合租房马桶",
+        "onboard_time": 1669086213,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146387,
+        "num": 146387,
+        "word": "世界杯",
+        "onboard_time": 1669078057,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141206,
+        "num": 141206,
+        "word": "陆毅鲍蕾官宣加盟妻子的浪漫旅行6",
+        "onboard_time": 1669094555,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140355,
+        "num": 140355,
+        "word": "肉摊主见女子困难慷慨赠8斤肉和油",
+        "onboard_time": 1669092162,
+        "rank": 41,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 137388,
+        "num": 137388,
+        "word": "2022LOL冬季转会期",
+        "onboard_time": 1669096835,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 132488,
+        "num": 132488,
+        "word": "京东逐步为德邦员工缴齐五险一金",
+        "onboard_time": 1669101513,
+        "rank": 43,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 130025,
+        "num": 130025,
+        "word": "GQ新人选手以往红毯造型",
+        "onboard_time": 1669100494,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 128274,
+        "num": 128274,
+        "word": "安阳厂房火灾已致38人死亡",
+        "onboard_time": 1669095816,
+        "rank": 45,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 119143,
+        "num": 119143,
+        "word": "蔡徐坤GQ红毯飞行嘉宾",
+        "onboard_time": 1669093957,
+        "rank": 46,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 116214,
+        "num": 116214,
+        "word": "将泡面拿进车里有多难",
+        "onboard_time": 1669090235,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115605,
+        "num": 115605,
+        "word": "杜海涛为证明瘦了踩毛不易腿上",
+        "onboard_time": 1669080815,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114656,
+        "num": 114656,
+        "word": "中国小伙晒出卡塔尔住宿条件",
+        "onboard_time": 1669078596,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#神十五将择机发射#"
+    }
+  }
+}

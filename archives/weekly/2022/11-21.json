@@ -1,6 +1,6 @@
 {
   "startTime": 1668961718135,
-  "endTime": 1669099418697,
+  "endTime": 1669101619404,
   "band_list": [
     {
       "raw_hot": 4068058,
@@ -185,6 +185,14 @@
       "onboard_time": 1669044224,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1363689,
+      "num": 421417,
+      "word": "重庆核酸",
+      "onboard_time": 1669097914,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1264594,
@@ -739,6 +747,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 587421,
+      "num": 587421,
+      "word": "小学女生卫生间多了月经暖心盒",
+      "onboard_time": 1669096293,
+      "rank": 16,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 580854,
       "num": 580854,
       "word": "开幕式日本球迷",
@@ -768,14 +784,6 @@
       "word": "重庆新增本土确诊231例无症状5898例",
       "onboard_time": 1668993153,
       "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 568569,
-      "num": 421417,
-      "word": "重庆核酸",
-      "onboard_time": 1669097914,
-      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -1027,6 +1035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 484158,
+      "num": 484158,
+      "word": "街道回应小区喊话外来人员格杀勿论",
+      "onboard_time": 1669096895,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 482082,
       "num": 482082,
       "word": "广州新增本土感染者8181例",
@@ -1067,6 +1083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 472778,
+      "num": 472778,
+      "word": "檀健次金世佳猎罪图鉴明年1月日本播出",
+      "onboard_time": 1669099592,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 469167,
       "num": 405825,
       "word": "陈都灵新剧亲徐璐的手背",
@@ -1081,14 +1105,6 @@
       "onboard_time": 1668987689,
       "rank": 13,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 461484,
-      "num": 461484,
-      "word": "小学女生卫生间多了月经暖心盒",
-      "onboard_time": 1669096293,
-      "rank": 16,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 459100,
@@ -1475,6 +1491,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 372358,
+      "num": 372358,
+      "word": "卡塔尔王子看了都愣住",
+      "onboard_time": 1669100494,
+      "rank": 12,
+      "category": "体育,幽默"
+    },
+    {
       "raw_hot": 370617,
       "num": 370617,
       "word": "女孩陷传销数月塞救命纸条求助",
@@ -1507,12 +1531,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 366711,
+      "num": 366711,
+      "word": "街道办回应太原城管跪压司机头部",
+      "onboard_time": 1669099592,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 366424,
       "num": 366424,
       "word": "小雪的第一份炸鸡",
       "onboard_time": 1669088313,
       "rank": 34,
       "category": "美食"
+    },
+    {
+      "raw_hot": 364717,
+      "num": 364717,
+      "word": "世界杯为什么没有英国队",
+      "onboard_time": 1669098932,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 364076,
+      "num": 364076,
+      "word": "刘强东投入数百亿给员工买房",
+      "onboard_time": 1669097881,
+      "rank": 15,
+      "category": "科技"
     },
     {
       "raw_hot": 362822,
@@ -1529,6 +1577,14 @@
       "onboard_time": 1668990869,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 357819,
+      "num": 357819,
+      "word": "C罗希望击败梅西",
+      "onboard_time": 1669097195,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 356627,
@@ -1609,14 +1665,6 @@
       "onboard_time": 1669081949,
       "rank": 47,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 342942,
-      "num": 342942,
-      "word": "C罗希望击败梅西",
-      "onboard_time": 1669097195,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 341195,
@@ -1779,12 +1827,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 319722,
-      "num": 319722,
-      "word": "街道回应小区喊话外来人员格杀勿论",
-      "onboard_time": 1669096895,
-      "rank": 27,
-      "category": "社会新闻"
+      "raw_hot": 318602,
+      "num": 318602,
+      "word": "胡彦斌对宋宁峰感同身受",
+      "onboard_time": 1669099952,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 313944,
@@ -1801,14 +1849,6 @@
       "onboard_time": 1669028079,
       "rank": 15,
       "category": "影视"
-    },
-    {
-      "raw_hot": 312462,
-      "num": 312462,
-      "word": "刘强东投入数百亿给员工买房",
-      "onboard_time": 1669097881,
-      "rank": 15,
-      "category": "科技"
     },
     {
       "raw_hot": 311378,
@@ -1995,6 +2035,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 279992,
+      "num": 279992,
+      "word": "女子称休息日不去公司开会被辞退",
+      "onboard_time": 1669096955,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 277252,
       "num": 277252,
       "word": "尹峥李薇吵不过1天就和好",
@@ -2025,6 +2073,14 @@
       "onboard_time": 1668956497,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 272158,
+      "num": 272158,
+      "word": "郑恺苗苗首个合体综艺",
+      "onboard_time": 1669100733,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 271150,
@@ -2105,6 +2161,14 @@
       "onboard_time": 1669006120,
       "rank": 22,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 260238,
+      "num": 260238,
+      "word": "方舒苗问李峋现在还这么帅吗",
+      "onboard_time": 1669100613,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 259973,
@@ -2411,12 +2475,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 215403,
+      "num": 212517,
+      "word": "陈飞宇中枪式摔倒",
+      "onboard_time": 1669100431,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 213538,
       "num": 213538,
       "word": "在重庆的一天有多令人羡慕",
       "onboard_time": 1668947248,
       "rank": 24,
       "category": "美食"
+    },
+    {
+      "raw_hot": 213289,
+      "num": 213289,
+      "word": "75%未成年每周游戏少于3小时",
+      "onboard_time": 1669099473,
+      "rank": 25,
+      "category": "游戏,社会新闻"
     },
     {
       "raw_hot": 211545,
@@ -2443,20 +2523,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 208620,
+      "num": 208620,
+      "word": "男子称永辉超市买牛肉实为猪肉",
+      "onboard_time": 1669100014,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 206095,
       "num": 206095,
       "word": "丁禹兮彭小苒新剧过审",
       "onboard_time": 1669026937,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 205452,
-      "num": 205452,
-      "word": "女子称休息日不去公司开会被辞退",
-      "onboard_time": 1669096955,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 204900,
@@ -2627,6 +2707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 193009,
+      "num": 193009,
+      "word": "黑洞竟然向星系吐口水",
+      "onboard_time": 1669100793,
+      "rank": 30,
+      "category": "科技"
+    },
+    {
       "raw_hot": 190420,
       "num": 190420,
       "word": "广西一高校请全校师生吃螺狮粉",
@@ -2641,6 +2729,14 @@
       "onboard_time": 1668963507,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 187580,
+      "num": 187580,
+      "word": "江歌母亲诉刘鑫案件回顾",
+      "onboard_time": 1669101391,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 187576,
@@ -2851,6 +2947,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 172892,
+      "num": 156161,
+      "word": "梅西最后一次世界杯今晚启程",
+      "onboard_time": 1669101094,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 172159,
       "num": 172159,
       "word": "蔡徐坤前东家晒练习生整形费用",
@@ -2880,14 +2984,6 @@
       "word": "卡塔尔0比2厄瓜多尔",
       "onboard_time": 1668967818,
       "rank": 24,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 170822,
-      "num": 170822,
-      "word": "世界杯为什么没有英国队",
-      "onboard_time": 1669098932,
-      "rank": 33,
       "category": "体育"
     },
     {
@@ -3041,6 +3137,14 @@
       "onboard_time": 1668937467,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 153801,
+      "num": 153801,
+      "word": "李峋发型的三次变化",
+      "onboard_time": 1669100555,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 153684,
@@ -3291,6 +3395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 137388,
+      "num": 137388,
+      "word": "2022LOL冬季转会期",
+      "onboard_time": 1669096835,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 136803,
       "num": 136803,
       "word": "英格兰名宿欧文预测法国夺冠",
@@ -3363,6 +3475,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 132488,
+      "num": 132488,
+      "word": "京东逐步为德邦员工缴齐五险一金",
+      "onboard_time": 1669101513,
+      "rank": 43,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 131484,
       "num": 131484,
       "word": "沉没百余年的古船已出水600件文物",
@@ -3395,20 +3515,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 130025,
+      "num": 130025,
+      "word": "GQ新人选手以往红毯造型",
+      "onboard_time": 1669100494,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 129656,
       "num": 129656,
       "word": "NCTDREAM全员荧光绿造型",
       "onboard_time": 1668992252,
       "rank": 46,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 129566,
-      "num": 129566,
-      "word": "2022LOL冬季转会期",
-      "onboard_time": 1669096835,
-      "rank": 43,
-      "category": "游戏"
     },
     {
       "raw_hot": 129154,
@@ -4009,6 +4129,14 @@
       "onboard_time": 1669047871,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 72484,
+      "num": 708146,
+      "word": "我国深空探测将分哪几步",
+      "onboard_time": 1669100131,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 68356,
