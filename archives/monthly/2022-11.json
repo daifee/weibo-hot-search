@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1669138695283,
+  "endTime": 1669141591733,
   "band_list": [
     {
       "raw_hot": 13131209,
@@ -2105,6 +2105,14 @@
       "onboard_time": 1668071666,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1503317,
+      "num": 1503317,
+      "word": "曼联官宣C罗离队",
+      "onboard_time": 1669139240,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 1503189,
@@ -22371,6 +22379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 280145,
+      "num": 280145,
+      "word": "墨西哥0比0波兰",
+      "onboard_time": 1669141218,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 280043,
       "num": 76280,
       "word": "白敬亭尹峥终于表白了",
@@ -24771,6 +24787,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 246350,
+      "num": 246350,
+      "word": "阿根廷出线",
+      "onboard_time": 1669122281,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 246241,
       "num": 246241,
       "word": "黑龙",
@@ -26025,14 +26049,6 @@
       "onboard_time": 1668173311,
       "rank": 18,
       "category": "影视"
-    },
-    {
-      "raw_hot": 230119,
-      "num": 230119,
-      "word": "阿根廷出线",
-      "onboard_time": 1669122281,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 230101,
@@ -41819,6 +41835,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 105180,
+      "num": 105180,
+      "word": "淀粉心情",
+      "onboard_time": 1669137503,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 105128,
       "num": 105128,
       "word": "哥哥会带娃是什么体验",
@@ -43275,14 +43299,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 95144,
-      "num": 95144,
-      "word": "淀粉心情",
-      "onboard_time": 1669137503,
-      "rank": 44,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 95130,
       "num": 95130,
       "word": "白术学学隔壁阳华吧",
@@ -44337,6 +44353,14 @@
       "onboard_time": 1669046675,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 88111,
+      "num": 88111,
+      "word": "gidle新歌Nxde微醺live",
+      "onboard_time": 1669140078,
+      "rank": 24,
+      "category": "音乐"
     },
     {
       "raw_hot": 88052,
@@ -46059,6 +46083,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 72221,
+      "num": 72221,
+      "word": "梅西也是巨蟹座",
+      "onboard_time": 1669140918,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 72192,
       "num": 72192,
       "word": "AG男团王者cos走秀",
@@ -46225,6 +46257,14 @@
       "onboard_time": 1667566707,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 69489,
+      "num": 69489,
+      "word": "世界杯期间被女友上了一课",
+      "onboard_time": 1669140199,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 69432,
@@ -47331,6 +47371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 45303,
+      "num": 45303,
+      "word": "墨西哥半场0比0波兰",
+      "onboard_time": 1669141037,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 44840,
       "num": 86097,
       "word": "洒水车窄路工作抱娃女子跑车后躲避",
@@ -47433,6 +47481,14 @@
       "onboard_time": 1668168030,
       "rank": 39,
       "category": "科技"
+    },
+    {
+      "raw_hot": 41740,
+      "num": 41740,
+      "word": "法国vs澳大利亚首发",
+      "onboard_time": 1669141576,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 41233,
