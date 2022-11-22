@@ -1,7 +1,15 @@
 {
   "startTime": 1669048272938,
-  "endTime": 1669091194948,
+  "endTime": 1669092218189,
   "band_list": [
+    {
+      "raw_hot": 2175744,
+      "num": 2175744,
+      "word": "刘强东发布京东全员信",
+      "onboard_time": 1669090656,
+      "rank": 15,
+      "category": "科技"
+    },
     {
       "raw_hot": 1830286,
       "num": 981244,
@@ -35,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1095085,
+      "num": 551530,
+      "word": "母亲出家裸捐588万女儿贷款上大学",
+      "onboard_time": 1669090779,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1026193,
       "num": 1026193,
       "word": "妻子的浪漫旅行6官宣定档1124",
@@ -49,6 +65,14 @@
       "onboard_time": 1669040325,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 957212,
+      "num": 957212,
+      "word": "郑恺苗苗官宣加盟妻子的浪漫旅行6",
+      "onboard_time": 1669089217,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 946069,
@@ -81,14 +105,6 @@
       "onboard_time": 1669043327,
       "rank": 3,
       "category": "社会负面,教育"
-    },
-    {
-      "raw_hot": 807535,
-      "num": 706154,
-      "word": "郑恺苗苗官宣加盟妻子的浪漫旅行6",
-      "onboard_time": 1669089217,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 748992,
@@ -147,8 +163,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 588666,
-      "num": 588666,
+      "raw_hot": 618970,
+      "num": 618970,
       "word": "马斯克恐失去世界首富位置",
       "onboard_time": 1669087469,
       "rank": 49,
@@ -339,14 +355,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 416097,
-      "num": 416097,
-      "word": "刘强东发布京东全员信",
-      "onboard_time": 1669090656,
-      "rank": 15,
-      "category": "科技"
-    },
-    {
       "raw_hot": 411168,
       "num": 411168,
       "word": "交警破译男子咒语式停车电话",
@@ -387,6 +395,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 366424,
+      "num": 366424,
+      "word": "小雪的第一份炸鸡",
+      "onboard_time": 1669088313,
+      "rank": 34,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 361386,
+      "num": 361386,
+      "word": "女心理师",
+      "onboard_time": 1669091139,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 344816,
       "num": 344816,
       "word": "卡塔尔集装箱球迷村全部是中国制造",
@@ -411,14 +435,6 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 329353,
-      "num": 329353,
-      "word": "小雪的第一份炸鸡",
-      "onboard_time": 1669088313,
-      "rank": 34,
-      "category": "美食"
-    },
-    {
       "raw_hot": 329241,
       "num": 329241,
       "word": "美国1比1威尔士",
@@ -433,6 +449,14 @@
       "onboard_time": 1669034382,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 323851,
+      "num": 323851,
+      "word": "重庆新增本土确诊178例无症状6157例",
+      "onboard_time": 1669090537,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 319775,
@@ -465,6 +489,22 @@
       "onboard_time": 1669046020,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 296726,
+      "num": 296726,
+      "word": "贺顿的小可乐定档1123",
+      "onboard_time": 1669090719,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 287904,
+      "num": 235447,
+      "word": "张婧仪说陈飞宇和李峋的反差感",
+      "onboard_time": 1669091560,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 285224,
@@ -515,6 +555,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 264972,
+      "num": 264972,
+      "word": "女子花钱救狗反被咬网友说活该",
+      "onboard_time": 1669088672,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 257669,
       "num": 257669,
       "word": "塞内加尔0比2荷兰",
@@ -547,11 +595,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 243983,
+      "num": 243983,
+      "word": "卡塔尔世界杯带火国产桌面足球",
+      "onboard_time": 1669090475,
+      "rank": 35,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 242233,
       "num": 242233,
       "word": "辱母案当事人于欢现状",
       "onboard_time": 1669039552,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 241602,
+      "num": 241602,
+      "word": "将泡面拿进车里有多难",
+      "onboard_time": 1669090235,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -571,14 +635,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 237667,
-      "num": 237667,
-      "word": "女子花钱救狗反被咬网友说活该",
-      "onboard_time": 1669088672,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 226417,
       "num": 226417,
       "word": "命韵峋环",
@@ -593,14 +649,6 @@
       "onboard_time": 1669038942,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 221662,
-      "num": 188310,
-      "word": "母亲出家裸捐588万女儿贷款上大学",
-      "onboard_time": 1669090779,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 219846,
@@ -643,19 +691,19 @@
       "category": "影视"
     },
     {
-      "raw_hot": 204204,
-      "num": 186808,
-      "word": "贺顿的小可乐定档1123",
-      "onboard_time": 1669090719,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 197458,
       "num": 197458,
       "word": "卡塔尔王子",
       "onboard_time": 1669017937,
       "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 196828,
+      "num": 196828,
+      "word": "鹈鹕45分大胜勇士",
+      "onboard_time": 1669090598,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -691,20 +739,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 191954,
-      "num": 191954,
-      "word": "重庆新增本土确诊178例无症状6157例",
-      "onboard_time": 1669090537,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 191009,
       "num": 191009,
       "word": "霍华德将因伤休战两周",
       "onboard_time": 1669043026,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 190420,
+      "num": 190420,
+      "word": "广西一高校请全校师生吃螺狮粉",
+      "onboard_time": 1669089338,
+      "rank": 36,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 187078,
@@ -723,14 +771,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 186197,
-      "num": 186197,
-      "word": "卡塔尔世界杯带火国产桌面足球",
-      "onboard_time": 1669090475,
-      "rank": 35,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 185355,
       "num": 185355,
       "word": "11月21日新增本土无症状25754例",
@@ -745,14 +785,6 @@
       "onboard_time": 1669030180,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 181789,
-      "num": 181789,
-      "word": "广西一高校请全校师生吃螺狮粉",
-      "onboard_time": 1669089338,
-      "rank": 36,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 180456,
@@ -777,14 +809,6 @@
       "onboard_time": 1669077998,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 178056,
-      "num": 178056,
-      "word": "将泡面拿进车里有多难",
-      "onboard_time": 1669090235,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 177444,
@@ -891,10 +915,10 @@
       "category": "影视"
     },
     {
-      "raw_hot": 154536,
-      "num": 154536,
-      "word": "鹈鹕45分大胜勇士",
-      "onboard_time": 1669090598,
+      "raw_hot": 152196,
+      "num": 152196,
+      "word": "别人家老公看球前的准备",
+      "onboard_time": 1669091919,
       "rank": 44,
       "category": "体育"
     },
@@ -913,14 +937,6 @@
       "onboard_time": 1669086512,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 146018,
-      "num": 146018,
-      "word": "女心理师",
-      "onboard_time": 1669091139,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 144048,
@@ -1011,6 +1027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 120570,
+      "num": 120570,
+      "word": "肉摊主见女子困难慷慨赠8斤肉和油",
+      "onboard_time": 1669092162,
+      "rank": 49,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 119638,
       "num": 119638,
       "word": "3岁萌娃怕热吃汤饭汗如雨下",
@@ -1067,6 +1091,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 108831,
+      "num": 175347,
+      "word": "vivo这设计浪漫且有用",
+      "onboard_time": 1669089637,
+      "rank": 39,
+      "category": "科技"
+    },
+    {
       "raw_hot": 108587,
       "num": 108587,
       "word": "英格兰球迷有多疯狂",
@@ -1089,6 +1121,14 @@
       "onboard_time": 1669087709,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 102585,
+      "num": 421718,
+      "word": "中国品牌出海能力有多强",
+      "onboard_time": 1669090114,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 101514,
@@ -1115,14 +1155,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 85134,
-      "num": 175347,
-      "word": "vivo这设计浪漫且有用",
-      "onboard_time": 1669089637,
-      "rank": 39,
-      "category": "科技"
-    },
-    {
       "raw_hot": 83875,
       "num": 83875,
       "word": "马奎尔受伤",
@@ -1145,14 +1177,6 @@
       "onboard_time": 1669047871,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 73097,
-      "num": 417182,
-      "word": "中国品牌出海能力有多强",
-      "onboard_time": 1669090114,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 64836,

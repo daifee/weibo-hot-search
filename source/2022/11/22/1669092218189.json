@@ -1,0 +1,410 @@
+{
+  "runTime": 1669092218189,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2175744,
+        "num": 2175744,
+        "word": "刘强东发布京东全员信",
+        "onboard_time": 1669090656,
+        "rank": 0,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 957212,
+        "num": 957212,
+        "word": "郑恺苗苗官宣加盟妻子的浪漫旅行6",
+        "onboard_time": 1669089217,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25859,
+        "num": 834675,
+        "word": "中国水下考古又一大发现",
+        "onboard_time": 1669002092,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1315776,
+        "num": 812366,
+        "word": "男子月挣4000怪妻子花680接头发",
+        "onboard_time": 1669080153,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 758840,
+        "num": 758840,
+        "word": "妻子的浪漫旅行6官宣定档1124",
+        "onboard_time": 1669087891,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 618970,
+        "num": 618970,
+        "word": "马斯克恐失去世界首富位置",
+        "onboard_time": 1669087469,
+        "rank": 5,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 605382,
+        "num": 605382,
+        "word": "赵丽颖鞠婧祎新剧小雪海报",
+        "onboard_time": 1669087891,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 601891,
+        "num": 601891,
+        "word": "男子上厕所怕脏踩碎合租房马桶",
+        "onboard_time": 1669086213,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 589188,
+        "num": 589188,
+        "word": "梅西世界杯首秀",
+        "onboard_time": 1669085492,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 553472,
+        "num": 553472,
+        "word": "中石化与卡塔尔签史上最长液化天然气协议",
+        "onboard_time": 1669085309,
+        "rank": 9,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 1095085,
+        "num": 551530,
+        "word": "母亲出家裸捐588万女儿贷款上大学",
+        "onboard_time": 1669090779,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 547422,
+        "num": 547422,
+        "word": "杜海涛为证明瘦了踩毛不易腿上",
+        "onboard_time": 1669080815,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 535715,
+        "num": 535715,
+        "word": "中国小伙晒出卡塔尔住宿条件",
+        "onboard_time": 1669078596,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 483343,
+        "num": 483343,
+        "word": "令人心动的offer",
+        "onboard_time": 1669090114,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102585,
+        "num": 421718,
+        "word": "中国品牌出海能力有多强",
+        "onboard_time": 1669090114,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 409384,
+        "num": 409384,
+        "word": "别再踩公厕马桶圈了",
+        "onboard_time": 1669046794,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 376697,
+        "num": 376697,
+        "word": "江母诉刘鑫案再开庭或不当庭宣判",
+        "onboard_time": 1669087593,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 366424,
+        "num": 366424,
+        "word": "小雪的第一份炸鸡",
+        "onboard_time": 1669088313,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 361386,
+        "num": 361386,
+        "word": "女心理师",
+        "onboard_time": 1669091139,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 351385,
+        "num": 351385,
+        "word": "安阳厂房火灾已致36人死亡",
+        "onboard_time": 1669074691,
+        "rank": 19,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 359074,
+        "num": 343181,
+        "word": "杨紫提醒大家注意冬季消防安全",
+        "onboard_time": 1669086632,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 323851,
+        "num": 323851,
+        "word": "重庆新增本土确诊178例无症状6157例",
+        "onboard_time": 1669090537,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308672,
+        "num": 308672,
+        "word": "侃爷宣布参与2024美国总统大选",
+        "onboard_time": 1669077034,
+        "rank": 22,
+        "category": "国外要闻,艺人"
+      },
+      {
+        "raw_hot": 299738,
+        "num": 299738,
+        "word": "世界杯",
+        "onboard_time": 1669078057,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 296726,
+        "num": 296726,
+        "word": "贺顿的小可乐定档1123",
+        "onboard_time": 1669090719,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 264972,
+        "num": 264972,
+        "word": "女子花钱救狗反被咬网友说活该",
+        "onboard_time": 1669088672,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249392,
+        "num": 249392,
+        "word": "阿根廷vs沙特阿拉伯",
+        "onboard_time": 1669082733,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 243983,
+        "num": 243983,
+        "word": "卡塔尔世界杯带火国产桌面足球",
+        "onboard_time": 1669090475,
+        "rank": 27,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 241602,
+        "num": 241602,
+        "word": "将泡面拿进车里有多难",
+        "onboard_time": 1669090235,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235724,
+        "num": 235724,
+        "word": "广州新增本土感染者8210例",
+        "onboard_time": 1669079975,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287904,
+        "num": 235447,
+        "word": "张婧仪说陈飞宇和李峋的反差感",
+        "onboard_time": 1669091560,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 248257,
+        "num": 235321,
+        "word": "朝阳打歌中心全员秒切打歌时刻",
+        "onboard_time": 1669088732,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234911,
+        "num": 234911,
+        "word": "白鹿以爱为营开机应援",
+        "onboard_time": 1669088613,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 205367,
+        "num": 205367,
+        "word": "北京增207例社会面",
+        "onboard_time": 1669076736,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200014,
+        "num": 200014,
+        "word": "卿卿日常是懂取名字的",
+        "onboard_time": 1669087232,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 196828,
+        "num": 196828,
+        "word": "鹈鹕45分大胜勇士",
+        "onboard_time": 1669090598,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190420,
+        "num": 190420,
+        "word": "广西一高校请全校师生吃螺狮粉",
+        "onboard_time": 1669089338,
+        "rank": 36,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 183214,
+        "num": 183214,
+        "word": "小雪",
+        "onboard_time": 1669073006,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166064,
+        "num": 166064,
+        "word": "13岁女孩全身颤抖向店员求助",
+        "onboard_time": 1669047394,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108831,
+        "num": 164223,
+        "word": "vivo这设计浪漫且有用",
+        "onboard_time": 1669089637,
+        "rank": 39,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 187984,
+        "num": 164100,
+        "word": "李峋回来只办三件事",
+        "onboard_time": 1669079253,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 178835,
+        "num": 163837,
+        "word": "王鹤棣新剧开机上班路透",
+        "onboard_time": 1669083813,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 163270,
+        "num": 163270,
+        "word": "小狗门口玩耍被人放2猎犬咬死",
+        "onboard_time": 1669079736,
+        "rank": 42,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 159631,
+        "num": 159631,
+        "word": "A股上市公司数量突破5000家",
+        "onboard_time": 1669084770,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 152196,
+        "num": 152196,
+        "word": "别人家老公看球前的准备",
+        "onboard_time": 1669091919,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147870,
+        "num": 147870,
+        "word": "奶奶用胶带帮老伴提拉下垂眼皮",
+        "onboard_time": 1669084472,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133116,
+        "num": 133116,
+        "word": "安阳厂房火灾犯罪嫌疑人已被控制",
+        "onboard_time": 1669075233,
+        "rank": 46,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 128622,
+        "num": 128622,
+        "word": "交警破译男子咒语式停车电话",
+        "onboard_time": 1669081293,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121681,
+        "num": 121681,
+        "word": "卡塔尔集装箱球迷村全部是中国制造",
+        "onboard_time": 1669081949,
+        "rank": 48,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 120570,
+        "num": 120570,
+        "word": "肉摊主见女子困难慷慨赠8斤肉和油",
+        "onboard_time": 1669092162,
+        "rank": 49,
+        "category": "社会正能量"
+      }
+    ],
+    "hotgov": {
+      "word": "#神十五将择机发射#"
+    }
+  }
+}
