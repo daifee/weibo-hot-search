@@ -1,6 +1,6 @@
 {
   "startTime": 1668961718135,
-  "endTime": 1669131570412,
+  "endTime": 1669134647959,
   "band_list": [
     {
       "raw_hot": 13131209,
@@ -315,6 +315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1517604,
+      "num": 1517604,
+      "word": "给国足道歉",
+      "onboard_time": 1669133015,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1515976,
       "num": 1515976,
       "word": "新冠肺炎疫情风险区划定及管控方案",
@@ -513,6 +521,14 @@
       "onboard_time": 1668998608,
       "rank": 8,
       "category": "体育,幽默"
+    },
+    {
+      "raw_hot": 1082211,
+      "num": 1082211,
+      "word": "meiko",
+      "onboard_time": 1669132660,
+      "rank": 4,
+      "category": "游戏"
     },
     {
       "raw_hot": 1074347,
@@ -755,6 +771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 853157,
+      "num": 853157,
+      "word": "杨蒙恩的猫",
+      "onboard_time": 1669131704,
+      "rank": 7,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 850411,
       "num": 850411,
       "word": "CPA",
@@ -889,6 +913,14 @@
       "onboard_time": 1669086632,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 723582,
+      "num": 723582,
+      "word": "沙特全国放假一天",
+      "onboard_time": 1669133433,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 719350,
@@ -1259,6 +1291,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 569593,
+      "num": 569593,
+      "word": "原来穿婚纱这么好看啊",
+      "onboard_time": 1669131346,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 567761,
+      "num": 567761,
+      "word": "DK",
+      "onboard_time": 1669130623,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 567435,
       "num": 360464,
       "word": "马凡舒好美",
@@ -1320,14 +1368,6 @@
       "word": "LWX",
       "onboard_time": 1668953791,
       "rank": 7,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 547504,
-      "num": 547504,
-      "word": "DK",
-      "onboard_time": 1669130623,
-      "rank": 18,
       "category": "游戏"
     },
     {
@@ -1832,6 +1872,14 @@
       "word": "梅西加油",
       "onboard_time": 1669115316,
       "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 436480,
+      "num": 436480,
+      "word": "梅西希望球迷相信阿根廷队",
+      "onboard_time": 1669129969,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -2779,6 +2827,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 310419,
+      "num": 310419,
+      "word": "姆巴佩",
+      "onboard_time": 1669132235,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 308380,
       "num": 302062,
       "word": "陈飞宇说李峋重新出发",
@@ -2827,6 +2883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 305120,
+      "num": 305120,
+      "word": "尹峥试鞋是白敬亭本人吧",
+      "onboard_time": 1669134272,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 303793,
       "num": 303793,
       "word": "被足球奇葩知识冷到了",
@@ -2865,14 +2929,6 @@
       "onboard_time": 1669015955,
       "rank": 44,
       "category": "科技"
-    },
-    {
-      "raw_hot": 297454,
-      "num": 278088,
-      "word": "梅西希望球迷相信阿根廷队",
-      "onboard_time": 1669129969,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 296726,
@@ -3179,6 +3235,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 260404,
+      "num": 260404,
+      "word": "十一月讨厌的人都在这里了",
+      "onboard_time": 1669132958,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 260238,
       "num": 260238,
       "word": "方舒苗问李峋现在还这么帅吗",
@@ -3233,6 +3297,14 @@
       "onboard_time": 1669125585,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 257104,
+      "num": 278096,
+      "word": "世界杯史上第一个可拆卸球场",
+      "onboard_time": 1669131106,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 255283,
@@ -3409,6 +3481,14 @@
       "onboard_time": 1669106494,
       "rank": 42,
       "category": "美食"
+    },
+    {
+      "raw_hot": 236614,
+      "num": 236614,
+      "word": "沙特球迷赛后模仿C罗庆祝",
+      "onboard_time": 1669131943,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 235648,
@@ -3699,6 +3779,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 211568,
+      "num": 211568,
+      "word": "上海宝妈花140万将地下室改成魔法屋",
+      "onboard_time": 1669133195,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 211545,
       "num": 211545,
       "word": "阿凡达2水之道角色海报",
@@ -3737,14 +3825,6 @@
       "onboard_time": 1669115853,
       "rank": 47,
       "category": "美食"
-    },
-    {
-      "raw_hot": 206839,
-      "num": 278096,
-      "word": "世界杯史上第一个可拆卸球场",
-      "onboard_time": 1669131106,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 206095,
@@ -3841,14 +3921,6 @@
       "onboard_time": 1669112672,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 200293,
-      "num": 200293,
-      "word": "原来穿婚纱这么好看啊",
-      "onboard_time": 1669131346,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 198431,
@@ -4171,6 +4243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 181947,
+      "num": 181947,
+      "word": "元英下意识护住李薇",
+      "onboard_time": 1669134328,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 181072,
       "num": 181072,
       "word": "梅西卡塔尔世界杯首球",
@@ -4185,6 +4265,14 @@
       "onboard_time": 1669103973,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 180507,
+      "num": 180507,
+      "word": "绵阳疫情防控",
+      "onboard_time": 1669133375,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 180456,
@@ -4329,6 +4417,14 @@
       "onboard_time": 1668958058,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 174284,
+      "num": 174284,
+      "word": "TES",
+      "onboard_time": 1669134212,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 173572,
@@ -4696,6 +4792,14 @@
       "word": "厄瓜多尔越位",
       "onboard_time": 1668961827,
       "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 147851,
+      "num": 147851,
+      "word": "阿根廷出线",
+      "onboard_time": 1669122281,
+      "rank": 47,
       "category": "体育"
     },
     {

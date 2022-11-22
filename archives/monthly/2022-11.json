@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1669131570412,
+  "endTime": 1669134647959,
   "band_list": [
     {
       "raw_hot": 13131209,
@@ -2051,6 +2051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1517604,
+      "num": 1517604,
+      "word": "给国足道歉",
+      "onboard_time": 1669133015,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1516741,
       "num": 1516741,
       "word": "为爱冲锋的勇士",
@@ -3641,6 +3649,14 @@
       "onboard_time": 1668264996,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1082211,
+      "num": 1082211,
+      "word": "meiko",
+      "onboard_time": 1669132660,
+      "rank": 4,
+      "category": "游戏"
     },
     {
       "raw_hot": 1080947,
@@ -5435,6 +5451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 853157,
+      "num": 853157,
+      "word": "杨蒙恩的猫",
+      "onboard_time": 1669131704,
+      "rank": 7,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 850411,
       "num": 850411,
       "word": "CPA",
@@ -6833,6 +6857,14 @@
       "onboard_time": 1668840986,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 723582,
+      "num": 723582,
+      "word": "沙特全国放假一天",
+      "onboard_time": 1669133433,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 723441,
@@ -9555,6 +9587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 569593,
+      "num": 569593,
+      "word": "原来穿婚纱这么好看啊",
+      "onboard_time": 1669131346,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 569251,
       "num": 569251,
       "word": "宋舞宋武成亲",
@@ -9585,6 +9625,14 @@
       "onboard_time": 1667481807,
       "rank": 32,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 567761,
+      "num": 567761,
+      "word": "DK",
+      "onboard_time": 1669130623,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 567625,
@@ -10177,14 +10225,6 @@
       "onboard_time": 1668124405,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 547504,
-      "num": 547504,
-      "word": "DK",
-      "onboard_time": 1669130623,
-      "rank": 18,
-      "category": "游戏"
     },
     {
       "raw_hot": 547311,
@@ -13945,6 +13985,14 @@
       "onboard_time": 1668163533,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 436480,
+      "num": 436480,
+      "word": "梅西希望球迷相信阿根廷队",
+      "onboard_time": 1669129969,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 436414,
@@ -20419,6 +20467,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 310419,
+      "num": 310419,
+      "word": "姆巴佩",
+      "onboard_time": 1669132235,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 310371,
       "num": 310371,
       "word": "供销社系统怎么突然火了",
@@ -20721,6 +20777,14 @@
       "onboard_time": 1668495747,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 305120,
+      "num": 305120,
+      "word": "尹峥试鞋是白敬亭本人吧",
+      "onboard_time": 1669134272,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 305004,
@@ -21097,14 +21161,6 @@
       "onboard_time": 1667905710,
       "rank": 30,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 297454,
-      "num": 278088,
-      "word": "梅西希望球迷相信阿根廷队",
-      "onboard_time": 1669129969,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 297360,
@@ -23715,6 +23771,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 260404,
+      "num": 260404,
+      "word": "十一月讨厌的人都在这里了",
+      "onboard_time": 1669132958,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 260373,
       "num": 260373,
       "word": "广州荔湾区进一步强化管控措施",
@@ -23953,6 +24017,14 @@
       "onboard_time": 1669125585,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 257104,
+      "num": 278096,
+      "word": "世界杯史上第一个可拆卸球场",
+      "onboard_time": 1669131106,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 257060,
@@ -25321,6 +25393,14 @@
       "onboard_time": 1667646924,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 236614,
+      "num": 236614,
+      "word": "沙特球迷赛后模仿C罗庆祝",
+      "onboard_time": 1669131943,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 236418,
@@ -27771,6 +27851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 211568,
+      "num": 211568,
+      "word": "上海宝妈花140万将地下室改成魔法屋",
+      "onboard_time": 1669133195,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 211545,
       "num": 211545,
       "word": "阿凡达2水之道角色海报",
@@ -28249,14 +28337,6 @@
       "onboard_time": 1668178596,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 206839,
-      "num": 278096,
-      "word": "世界杯史上第一个可拆卸球场",
-      "onboard_time": 1669131106,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 206816,
@@ -28985,14 +29065,6 @@
       "onboard_time": 1668930386,
       "rank": 23,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 200293,
-      "num": 200293,
-      "word": "原来穿婚纱这么好看啊",
-      "onboard_time": 1669131346,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 200056,
@@ -31139,6 +31211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 181947,
+      "num": 181947,
+      "word": "元英下意识护住李薇",
+      "onboard_time": 1669134328,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 181826,
       "num": 181826,
       "word": "涵艺",
@@ -31337,6 +31417,14 @@
       "onboard_time": 1668525812,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 180507,
+      "num": 180507,
+      "word": "绵阳疫情防控",
+      "onboard_time": 1669133375,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 180456,
@@ -35345,6 +35433,14 @@
       "onboard_time": 1667719103,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 147851,
+      "num": 147851,
+      "word": "阿根廷出线",
+      "onboard_time": 1669122281,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 147847,
