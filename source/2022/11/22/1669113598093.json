@@ -1,0 +1,410 @@
+{
+  "runTime": 1669113598093,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3340476,
+        "num": 3340476,
+        "word": "梅西进球",
+        "onboard_time": 1669112252,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1419495,
+        "num": 1419495,
+        "word": "阿根廷vs沙特阿拉伯",
+        "onboard_time": 1669109850,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111879,
+        "num": 1318804,
+        "word": "哪届世界杯吉祥物是你最爱",
+        "onboard_time": 1669098335,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1313570,
+        "num": 1313570,
+        "word": "海底捞4个人多少钱",
+        "onboard_time": 1669107572,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 576275,
+        "num": 576275,
+        "word": "李峋朱韵没有分手",
+        "onboard_time": 1669107989,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 482468,
+        "num": 482468,
+        "word": "陈乔恩从女儿的恋爱到妻子的旅行",
+        "onboard_time": 1669107450,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 448096,
+        "num": 448096,
+        "word": "24日起北京进入公共场所查验48小时核酸证明",
+        "onboard_time": 1669112189,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 436632,
+        "num": 436632,
+        "word": "腾讯视频将上线韩国电影",
+        "onboard_time": 1669109373,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 352002,
+        "num": 352002,
+        "word": "儿子划伤豪车爸爸让其拿现金道歉",
+        "onboard_time": 1669104333,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306625,
+        "num": 351623,
+        "word": "母亲出家裸捐588万女儿贷款上大学",
+        "onboard_time": 1669090779,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 837239,
+        "num": 345403,
+        "word": "刘强东称对不起京东2000多名高管",
+        "onboard_time": 1669095930,
+        "rank": 10,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 448051,
+        "num": 336076,
+        "word": "肖战打网球潜水冲浪vlog",
+        "onboard_time": 1669108111,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 443497,
+        "num": 331528,
+        "word": "北京新增2例新冠重症感染者均未接种加强针",
+        "onboard_time": 1669112432,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327214,
+        "num": 327214,
+        "word": "刘强东曾称克扣五险一金是可耻的",
+        "onboard_time": 1669107213,
+        "rank": 13,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 317025,
+        "num": 317025,
+        "word": "刘耀文说想考音乐类院校",
+        "onboard_time": 1669110452,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 293233,
+        "num": 293233,
+        "word": "梅西好像在这一刻释怀了",
+        "onboard_time": 1669112369,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 276369,
+        "num": 276369,
+        "word": "田曦薇李薇眼神变了",
+        "onboard_time": 1669105174,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 257221,
+        "num": 257221,
+        "word": "卡塔尔巨资办世界杯亏了吗",
+        "onboard_time": 1669110510,
+        "rank": 17,
+        "category": "体育,财经"
+      },
+      {
+        "raw_hot": 253625,
+        "num": 253625,
+        "word": "世界杯",
+        "onboard_time": 1669078057,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 245682,
+        "num": 245682,
+        "word": "小伙入户抢劫失足女5千被判10年",
+        "onboard_time": 1669104872,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255178,
+        "num": 244571,
+        "word": "李峋得知朱韵给自己发工资",
+        "onboard_time": 1669106071,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 238495,
+        "num": 238495,
+        "word": "把球交给梅西",
+        "onboard_time": 1669104033,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 230776,
+        "num": 230776,
+        "word": "点球",
+        "onboard_time": 1669112970,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 218111,
+        "num": 218111,
+        "word": "JDG与Homme续约",
+        "onboard_time": 1669111532,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 215306,
+        "num": 215306,
+        "word": "男子买粘豆包被困秒变喜剧人",
+        "onboard_time": 1669110933,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206348,
+        "num": 206348,
+        "word": "英雄联盟",
+        "onboard_time": 1669104571,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 205832,
+        "num": 205832,
+        "word": "女子欠千万网贷申请精神病鉴定",
+        "onboard_time": 1669103370,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201252,
+        "num": 201252,
+        "word": "阿根廷vs沙特首发出炉",
+        "onboard_time": 1669109850,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199834,
+        "num": 199834,
+        "word": "卡塔尔和迪拜哪个更富",
+        "onboard_time": 1669094314,
+        "rank": 28,
+        "category": "体育,旅游"
+      },
+      {
+        "raw_hot": 144355,
+        "num": 193572,
+        "word": "江母诉刘鑫案择期宣判",
+        "onboard_time": 1669107629,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200460,
+        "num": 193022,
+        "word": "朱韵是懂李峋的",
+        "onboard_time": 1669112672,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 192279,
+        "num": 192279,
+        "word": "重庆核酸",
+        "onboard_time": 1669097914,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191557,
+        "num": 191557,
+        "word": "李峋不锈钢的嘴棉花糖的心",
+        "onboard_time": 1669112493,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 189907,
+        "num": 189907,
+        "word": "宋亚轩说希望得到大家的认可和喜欢",
+        "onboard_time": 1669110391,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189821,
+        "num": 189821,
+        "word": "京东薪资水平",
+        "onboard_time": 1669105052,
+        "rank": 34,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 187002,
+        "num": 187002,
+        "word": "男子17年150万资助88名大学生",
+        "onboard_time": 1669110150,
+        "rank": 35,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 182470,
+        "num": 182470,
+        "word": "公主要走的路是有李峋的路",
+        "onboard_time": 1669113272,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 181072,
+        "num": 181072,
+        "word": "梅西卡塔尔世界杯首球",
+        "onboard_time": 1669113449,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179356,
+        "num": 179356,
+        "word": "JDG Ruler",
+        "onboard_time": 1669103493,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 169477,
+        "num": 169477,
+        "word": "孟美岐眼中粉丝和艺人的良性距离",
+        "onboard_time": 1669105834,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 163795,
+        "num": 163795,
+        "word": "阿根廷首发",
+        "onboard_time": 1669111771,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158264,
+        "num": 158264,
+        "word": "马嘉祺哪怕嗓子哑掉了也要继续唱",
+        "onboard_time": 1669110337,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 152165,
+        "num": 152165,
+        "word": "严浩翔说想成为一个完美艺人",
+        "onboard_time": 1669110337,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150576,
+        "num": 150576,
+        "word": "球迷欢呼迎接梅西出场",
+        "onboard_time": 1669113272,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149181,
+        "num": 149181,
+        "word": "台湾问题是中美第一条不可逾越红线",
+        "onboard_time": 1669101812,
+        "rank": 44,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 147192,
+        "num": 147192,
+        "word": "当一个卡塔尔人是什么体验",
+        "onboard_time": 1669113095,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140793,
+        "num": 140793,
+        "word": "小学女生卫生间多了月经暖心盒",
+        "onboard_time": 1669096293,
+        "rank": 46,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 172482,
+        "num": 140459,
+        "word": "朱韵告诉李峋自己在国外经常喝酒",
+        "onboard_time": 1669111172,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 137976,
+        "num": 137976,
+        "word": "被广西辣椒拌水果惊艳住了",
+        "onboard_time": 1669106494,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 128580,
+        "num": 128580,
+        "word": "官方辟谣荔枝园核酸检测造假",
+        "onboard_time": 1669108172,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#新时代新征程新伟业#"
+    }
+  }
+}

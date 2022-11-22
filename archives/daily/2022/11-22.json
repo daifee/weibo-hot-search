@@ -1,7 +1,15 @@
 {
   "startTime": 1669048272938,
-  "endTime": 1669112584246,
+  "endTime": 1669113598093,
   "band_list": [
+    {
+      "raw_hot": 3340476,
+      "num": 3340476,
+      "word": "梅西进球",
+      "onboard_time": 1669112252,
+      "rank": 1,
+      "category": "体育"
+    },
     {
       "raw_hot": 2842712,
       "num": 2842712,
@@ -73,14 +81,6 @@
       "onboard_time": 1669080815,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1484589,
-      "num": 1484589,
-      "word": "梅西进球",
-      "onboard_time": 1669112252,
-      "rank": 1,
-      "category": "体育"
     },
     {
       "raw_hot": 1424659,
@@ -555,12 +555,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 448096,
+      "num": 448096,
+      "word": "24日起北京进入公共场所查验48小时核酸证明",
+      "onboard_time": 1669112189,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 447121,
       "num": 447121,
       "word": "美国vs威尔士",
       "onboard_time": 1669052180,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 443497,
+      "num": 331528,
+      "word": "北京新增2例新冠重症感染者均未接种加强针",
+      "onboard_time": 1669112432,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 439281,
@@ -716,7 +732,7 @@
     },
     {
       "raw_hot": 358132,
-      "num": 258219,
+      "num": 317025,
       "word": "刘耀文说想考音乐类院校",
       "onboard_time": 1669110452,
       "rank": 20,
@@ -899,6 +915,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 293233,
+      "num": 293233,
+      "word": "梅西好像在这一刻释怀了",
+      "onboard_time": 1669112369,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 285491,
       "num": 285491,
       "word": "将泡面拿进车里有多难",
@@ -1051,6 +1075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 257221,
+      "num": 257221,
+      "word": "卡塔尔巨资办世界杯亏了吗",
+      "onboard_time": 1669110510,
+      "rank": 28,
+      "category": "体育,财经"
+    },
+    {
       "raw_hot": 255283,
       "num": 255283,
       "word": "A股上市公司数量突破5000家",
@@ -1139,12 +1171,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 227844,
-      "num": 227844,
-      "word": "卡塔尔巨资办世界杯亏了吗",
-      "onboard_time": 1669110510,
-      "rank": 28,
-      "category": "体育,财经"
+      "raw_hot": 230776,
+      "num": 230776,
+      "word": "点球",
+      "onboard_time": 1669112970,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 226417,
@@ -1251,11 +1283,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 212438,
-      "num": 212438,
-      "word": "24日起北京进入公共场所查验48小时核酸证明",
-      "onboard_time": 1669112189,
-      "rank": 32,
+      "raw_hot": 215306,
+      "num": 215306,
+      "word": "男子买粘豆包被困秒变喜剧人",
+      "onboard_time": 1669110933,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -1263,6 +1295,14 @@
       "num": 211545,
       "word": "阿凡达2水之道角色海报",
       "onboard_time": 1669080753,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 200460,
+      "num": 193022,
+      "word": "朱韵是懂李峋的",
+      "onboard_time": 1669112672,
       "rank": 30,
       "category": "影视"
     },
@@ -1347,6 +1387,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 191557,
+      "num": 191557,
+      "word": "李峋不锈钢的嘴棉花糖的心",
+      "onboard_time": 1669112493,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 191009,
       "num": 191009,
       "word": "霍华德将因伤休战两周",
@@ -1377,6 +1425,14 @@
       "onboard_time": 1669045364,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 187002,
+      "num": 187002,
+      "word": "男子17年150万资助88名大学生",
+      "onboard_time": 1669110150,
+      "rank": 36,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 186993,
@@ -1417,6 +1473,22 @@
       "onboard_time": 1669030180,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 182470,
+      "num": 182470,
+      "word": "公主要走的路是有李峋的路",
+      "onboard_time": 1669113272,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 181072,
+      "num": 181072,
+      "word": "梅西卡塔尔世界杯首球",
+      "onboard_time": 1669113449,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 180924,
@@ -1475,14 +1547,6 @@
       "category": "财经,体育"
     },
     {
-      "raw_hot": 176965,
-      "num": 165580,
-      "word": "李峋不锈钢的嘴棉花糖的心",
-      "onboard_time": 1669112493,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 176861,
       "num": 176861,
       "word": "太快确定关系的恋爱会长久吗",
@@ -1521,14 +1585,6 @@
       "onboard_time": 1669106255,
       "rank": 29,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 172372,
-      "num": 172372,
-      "word": "男子17年150万资助88名大学生",
-      "onboard_time": 1669110150,
-      "rank": 36,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 172159,
@@ -1584,14 +1640,6 @@
       "word": "新娘坐婚车内临出发时仍在谈生意",
       "onboard_time": 1669027540,
       "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 168081,
-      "num": 168081,
-      "word": "男子买粘豆包被困秒变喜剧人",
-      "onboard_time": 1669110933,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -1691,6 +1739,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 150576,
+      "num": 150576,
+      "word": "球迷欢呼迎接梅西出场",
+      "onboard_time": 1669113272,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 148563,
       "num": 162517,
       "word": "手机厂商为何执着自研芯片",
@@ -1713,6 +1769,14 @@
       "onboard_time": 1669103131,
       "rank": 46,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 147192,
+      "num": 147192,
+      "word": "当一个卡塔尔人是什么体验",
+      "onboard_time": 1669113095,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 144048,
@@ -1793,14 +1857,6 @@
       "onboard_time": 1669093360,
       "rank": 46,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 135593,
-      "num": 123390,
-      "word": "梅西好像在这一刻释怀了",
-      "onboard_time": 1669112369,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 135252,
@@ -1929,14 +1985,6 @@
       "onboard_time": 1669102231,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 123409,
-      "num": 123409,
-      "word": "北京新增2例新冠重症感染者均未接种加强针",
-      "onboard_time": 1669112432,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 123345,
