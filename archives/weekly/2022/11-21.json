@@ -1,6 +1,6 @@
 {
   "startTime": 1668961718135,
-  "endTime": 1669145630605,
+  "endTime": 1669148451100,
   "band_list": [
     {
       "raw_hot": 13131209,
@@ -5891,6 +5891,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 89274,
+      "num": 89274,
+      "word": "世界杯期间被女友上了一课",
+      "onboard_time": 1669140199,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 88498,
       "num": 88498,
       "word": "2022中国国际智能传播论坛开场秀",
@@ -5913,14 +5921,6 @@
       "onboard_time": 1669140078,
       "rank": 24,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 85985,
-      "num": 85985,
-      "word": "世界杯期间被女友上了一课",
-      "onboard_time": 1669140199,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 84221,
@@ -6123,6 +6123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 36131,
+      "num": 29469,
+      "word": "卡塔尔世界杯连续两场0比0",
+      "onboard_time": 1669147633,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 28122,
       "num": 28122,
       "word": "小维阿破门",
@@ -6147,6 +6155,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 26721,
+      "num": 26721,
+      "word": "奥乔亚扑点",
+      "onboard_time": 1669144633,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 26047,
       "num": 26047,
       "word": "郝葭孩子乳名长乐",
@@ -6163,6 +6179,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 21294,
+      "num": 21294,
+      "word": "偶像梦幻祭国服遭玩家抵制",
+      "onboard_time": 1669146613,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 21288,
       "num": 21288,
       "word": "范戴克解围",
@@ -6175,14 +6199,6 @@
       "num": 20845,
       "word": "克拉森补射破门",
       "onboard_time": 1669057093,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 20743,
-      "num": 20743,
-      "word": "奥乔亚扑点",
-      "onboard_time": 1669144633,
       "rank": 48,
       "category": "体育"
     },

@@ -1,0 +1,410 @@
+{
+  "runTime": 1669148451100,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 281469,
+        "num": 281469,
+        "word": "曼联官宣C罗离队",
+        "onboard_time": 1669139240,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 226278,
+        "num": 226278,
+        "word": "给国足道歉",
+        "onboard_time": 1669133015,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 4049,
+        "num": 184133,
+        "word": "哪届世界杯吉祥物是你最爱",
+        "onboard_time": 1669098335,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158617,
+        "num": 158617,
+        "word": "姆巴佩",
+        "onboard_time": 1669132235,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136263,
+        "num": 136263,
+        "word": "沙特全国放假一天",
+        "onboard_time": 1669133433,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131833,
+        "num": 131833,
+        "word": "内娱一句话秒懂沙特赢了",
+        "onboard_time": 1669134929,
+        "rank": 5,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 128548,
+        "num": 128548,
+        "word": "阿根廷输球一小时后无人走出更衣室",
+        "onboard_time": 1669125947,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89907,
+        "num": 89907,
+        "word": "阿根廷出线",
+        "onboard_time": 1669122281,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89274,
+        "num": 89274,
+        "word": "世界杯期间被女友上了一课",
+        "onboard_time": 1669140199,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87893,
+        "num": 87893,
+        "word": "沙特门将 身价暴涨",
+        "onboard_time": 1669120669,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86040,
+        "num": 86040,
+        "word": "法国vs澳大利亚首发",
+        "onboard_time": 1669141576,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 77991,
+        "num": 77991,
+        "word": "法国vs澳大利亚",
+        "onboard_time": 1669123780,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 71809,
+        "num": 71809,
+        "word": "meiko",
+        "onboard_time": 1669132660,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 70593,
+        "num": 70593,
+        "word": "妈妈产后抑郁离世孩子才7个月",
+        "onboard_time": 1669126363,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50709,
+        "num": 50709,
+        "word": "郑州新增1例死亡病例",
+        "onboard_time": 1669123662,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49339,
+        "num": 49339,
+        "word": "沙特球迷庆祝胜利把家里门拆了",
+        "onboard_time": 1669134692,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 48057,
+        "num": 48057,
+        "word": "上海宝妈花140万将地下室改成魔法屋",
+        "onboard_time": 1669133195,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46726,
+        "num": 46726,
+        "word": "上海疫情防控",
+        "onboard_time": 1669123421,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46618,
+        "num": 46618,
+        "word": "墨西哥0比0波兰",
+        "onboard_time": 1669141218,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 42336,
+        "num": 42336,
+        "word": "绵阳疫情防控",
+        "onboard_time": 1669133375,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36577,
+        "num": 36577,
+        "word": "梅西输球后刘畊宏哭了",
+        "onboard_time": 1669124862,
+        "rank": 20,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 35665,
+        "num": 35665,
+        "word": "警方回应男子夜钓时钓到一具浮尸",
+        "onboard_time": 1669121806,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35040,
+        "num": 35040,
+        "word": "scout",
+        "onboard_time": 1669128283,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 35766,
+        "num": 34962,
+        "word": "梅西也是巨蟹座",
+        "onboard_time": 1669140918,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34748,
+        "num": 34748,
+        "word": "HLE官宣Viper回归",
+        "onboard_time": 1669128884,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 31914,
+        "num": 31914,
+        "word": "TES",
+        "onboard_time": 1669134212,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 31623,
+        "num": 31623,
+        "word": "郑州疫情防控",
+        "onboard_time": 1669117777,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30884,
+        "num": 30884,
+        "word": "沙特赔率",
+        "onboard_time": 1669119894,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29804,
+        "num": 29804,
+        "word": "世界杯 大冷门",
+        "onboard_time": 1669119487,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20742,
+        "num": 29523,
+        "word": "这张中国面孔被很多坦桑尼亚人记住",
+        "onboard_time": 1669144034,
+        "rank": 29,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 36131,
+        "num": 29469,
+        "word": "卡塔尔世界杯连续两场0比0",
+        "onboard_time": 1669147633,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29364,
+        "num": 29364,
+        "word": "杨蒙恩的猫",
+        "onboard_time": 1669131704,
+        "rank": 31,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 28528,
+        "num": 28528,
+        "word": "原来穿婚纱这么好看啊",
+        "onboard_time": 1669131346,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 27582,
+        "num": 27582,
+        "word": "Doinb爆料EDG",
+        "onboard_time": 1669123000,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 27253,
+        "num": 27253,
+        "word": "DK",
+        "onboard_time": 1669130623,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 26721,
+        "num": 26721,
+        "word": "奥乔亚扑点",
+        "onboard_time": 1669144633,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24486,
+        "num": 24486,
+        "word": "郝葭终于逃离二少主",
+        "onboard_time": 1669125762,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 23932,
+        "num": 23932,
+        "word": "60岁大爷吃生蒜杀菌延误病情致癌",
+        "onboard_time": 1669119838,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22502,
+        "num": 22502,
+        "word": "周峻纬 名学",
+        "onboard_time": 1669126124,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21294,
+        "num": 21294,
+        "word": "偶像梦幻祭国服遭玩家抵制",
+        "onboard_time": 1669146613,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 20705,
+        "num": 20705,
+        "word": "韩华",
+        "onboard_time": 1669129787,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 19125,
+        "num": 20704,
+        "word": "十一月讨厌的人都在这里了",
+        "onboard_time": 1669132958,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 18978,
+        "num": 20697,
+        "word": "gidle新歌Nxde微醺live",
+        "onboard_time": 1669140078,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 18069,
+        "num": 20689,
+        "word": "苏醒最不快乐的一天",
+        "onboard_time": 1669120973,
+        "rank": 43,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 18036,
+        "num": 20679,
+        "word": "孟川这人有点东西",
+        "onboard_time": 1669141817,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17333,
+        "num": 20666,
+        "word": "沙特球迷赛后模仿C罗庆祝",
+        "onboard_time": 1669131943,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17129,
+        "num": 20664,
+        "word": "王鹤棣说我是时宴等候多时了",
+        "onboard_time": 1669123780,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 16457,
+        "num": 20653,
+        "word": "郝葭孩子乳名长乐",
+        "onboard_time": 1669142773,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 16402,
+        "num": 20646,
+        "word": "淀粉心情",
+        "onboard_time": 1669137503,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 16264,
+        "num": 20638,
+        "word": "丹麦0比0突尼斯",
+        "onboard_time": 1669129849,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#新时代新征程新伟业#"
+    }
+  }
+}

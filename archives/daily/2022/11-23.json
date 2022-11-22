@@ -1,6 +1,6 @@
 {
   "startTime": 1669134647959,
-  "endTime": 1669145630605,
+  "endTime": 1669148451100,
   "band_list": [
     {
       "raw_hot": 3352526,
@@ -475,6 +475,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 89274,
+      "num": 89274,
+      "word": "世界杯期间被女友上了一课",
+      "onboard_time": 1669140199,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 88111,
       "num": 88111,
       "word": "gidle新歌Nxde微醺live",
@@ -483,11 +491,11 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 85985,
-      "num": 85985,
-      "word": "世界杯期间被女友上了一课",
-      "onboard_time": 1669140199,
-      "rank": 33,
+      "raw_hot": 77991,
+      "num": 77991,
+      "word": "法国vs澳大利亚",
+      "onboard_time": 1669123780,
+      "rank": 17,
       "category": "体育"
     },
     {
@@ -507,14 +515,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 51327,
-      "num": 51327,
-      "word": "法国vs澳大利亚",
-      "onboard_time": 1669123780,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 45303,
       "num": 45303,
       "word": "墨西哥半场0比0波兰",
@@ -531,12 +531,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 36131,
+      "num": 29469,
+      "word": "卡塔尔世界杯连续两场0比0",
+      "onboard_time": 1669147633,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 27737,
       "num": 42184,
       "word": "这张中国面孔被很多坦桑尼亚人记住",
       "onboard_time": 1669144034,
       "rank": 29,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 26721,
+      "num": 26721,
+      "word": "奥乔亚扑点",
+      "onboard_time": 1669144633,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 26047,
@@ -555,12 +571,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 20743,
-      "num": 20743,
-      "word": "奥乔亚扑点",
-      "onboard_time": 1669144633,
-      "rank": 48,
-      "category": "体育"
+      "raw_hot": 21294,
+      "num": 21294,
+      "word": "偶像梦幻祭国服遭玩家抵制",
+      "onboard_time": 1669146613,
+      "rank": 39,
+      "category": "游戏"
     }
   ],
   "hotgov_list": [
