@@ -1,0 +1,410 @@
+{
+  "runTime": 1669159215425,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1603815,
+        "num": 1603815,
+        "word": "给国足道歉",
+        "onboard_time": 1669133015,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1108538,
+        "num": 1108538,
+        "word": "曼联官宣C罗离队",
+        "onboard_time": 1669139240,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16128,
+        "num": 1104418,
+        "word": "哪届世界杯吉祥物是你最爱",
+        "onboard_time": 1669098335,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1100982,
+        "num": 1100982,
+        "word": "沙特全国放假一天",
+        "onboard_time": 1669133433,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 748740,
+        "num": 748740,
+        "word": "内娱一句话秒懂沙特赢了",
+        "onboard_time": 1669134929,
+        "rank": 4,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 693659,
+        "num": 693659,
+        "word": "法国4比1澳大利亚",
+        "onboard_time": 1669151832,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 684268,
+        "num": 684268,
+        "word": "阿根廷输球一小时后无人走出更衣室",
+        "onboard_time": 1669125947,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 442910,
+        "num": 442910,
+        "word": "男子刷信用卡6千打赏女主播被拉黑",
+        "onboard_time": 1669155495,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 436457,
+        "num": 436457,
+        "word": "妈妈产后抑郁离世孩子才7个月",
+        "onboard_time": 1669126363,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330268,
+        "num": 330268,
+        "word": "上海宝妈花140万将地下室改成魔法屋",
+        "onboard_time": 1669133195,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330187,
+        "num": 330187,
+        "word": "阿根廷出线",
+        "onboard_time": 1669122281,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 284899,
+        "num": 284899,
+        "word": "沙特球迷庆祝胜利把家里门拆了",
+        "onboard_time": 1669134692,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 280175,
+        "num": 280175,
+        "word": "上海疫情防控",
+        "onboard_time": 1669123421,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257531,
+        "num": 257531,
+        "word": "郑州新增1例死亡病例",
+        "onboard_time": 1669123662,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223486,
+        "num": 223486,
+        "word": "姆巴佩头球破门",
+        "onboard_time": 1669151832,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 218487,
+        "num": 218487,
+        "word": "梅西输球后刘畊宏哭了",
+        "onboard_time": 1669124862,
+        "rank": 15,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 215685,
+        "num": 215685,
+        "word": "meiko",
+        "onboard_time": 1669132660,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 212063,
+        "num": 212063,
+        "word": "沙特门将 身价暴涨",
+        "onboard_time": 1669120669,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177230,
+        "num": 177230,
+        "word": "警方回应男子夜钓时钓到一具浮尸",
+        "onboard_time": 1669121806,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158483,
+        "num": 158483,
+        "word": "墨西哥0比0波兰",
+        "onboard_time": 1669141218,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153495,
+        "num": 153495,
+        "word": "男子在卡塔尔逛商场发现纯金手机",
+        "onboard_time": 1669149791,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152289,
+        "num": 152289,
+        "word": "郝葭终于逃离二少主",
+        "onboard_time": 1669125762,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 151448,
+        "num": 151448,
+        "word": "阿根廷创48年最差开局纪录",
+        "onboard_time": 1669156035,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148982,
+        "num": 148982,
+        "word": "周峻纬 名学",
+        "onboard_time": 1669126124,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131454,
+        "num": 131454,
+        "word": "HLE官宣Viper回归",
+        "onboard_time": 1669128884,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 125408,
+        "num": 125408,
+        "word": "绵阳疫情防控",
+        "onboard_time": 1669133375,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111497,
+        "num": 111497,
+        "word": "原来穿婚纱这么好看啊",
+        "onboard_time": 1669131346,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 111468,
+        "num": 111468,
+        "word": "世界杯 大冷门",
+        "onboard_time": 1669119487,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109051,
+        "num": 109051,
+        "word": "杨蒙恩的猫",
+        "onboard_time": 1669131704,
+        "rank": 28,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 51379,
+        "num": 109031,
+        "word": "这张中国面孔被很多坦桑尼亚人记住",
+        "onboard_time": 1669144034,
+        "rank": 29,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 109013,
+        "num": 109013,
+        "word": "郑州疫情防控",
+        "onboard_time": 1669117777,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108893,
+        "num": 108893,
+        "word": "60岁大爷吃生蒜杀菌延误病情致癌",
+        "onboard_time": 1669119838,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106392,
+        "num": 106392,
+        "word": "世界杯期间被女友上了一课",
+        "onboard_time": 1669140199,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90001,
+        "num": 90001,
+        "word": "TES",
+        "onboard_time": 1669134212,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 87641,
+        "num": 87641,
+        "word": "卡塔尔世界杯连续两场0比0",
+        "onboard_time": 1669147633,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87218,
+        "num": 87218,
+        "word": "王鹤棣说我是时宴等候多时了",
+        "onboard_time": 1669123780,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 82176,
+        "num": 82176,
+        "word": "Doinb爆料EDG",
+        "onboard_time": 1669123000,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 79137,
+        "num": 79137,
+        "word": "沙特赔率",
+        "onboard_time": 1669119894,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 76380,
+        "num": 76380,
+        "word": "scout",
+        "onboard_time": 1669128283,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 74593,
+        "num": 74593,
+        "word": "杨幂汤晶媚新剧第一次联手",
+        "onboard_time": 1669135888,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 72782,
+        "num": 72782,
+        "word": "苏醒最不快乐的一天",
+        "onboard_time": 1669120973,
+        "rank": 40,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 72762,
+        "num": 72762,
+        "word": "江苏高中生奋力拉回坠楼男孩",
+        "onboard_time": 1669158080,
+        "rank": 41,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 72687,
+        "num": 72687,
+        "word": "元英下意识护住李薇",
+        "onboard_time": 1669134328,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 67935,
+        "num": 67935,
+        "word": "姆巴佩",
+        "onboard_time": 1669132235,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 65218,
+        "num": 65218,
+        "word": "DK",
+        "onboard_time": 1669130623,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 52581,
+        "num": 52581,
+        "word": "梅西也是巨蟹座",
+        "onboard_time": 1669140918,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 50406,
+        "num": 50406,
+        "word": "偶像梦幻祭国服遭玩家抵制",
+        "onboard_time": 1669146613,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 46974,
+        "num": 46974,
+        "word": "gidle新歌Nxde微醺live",
+        "onboard_time": 1669140078,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 42254,
+        "num": 42254,
+        "word": "丹麦0比0突尼斯",
+        "onboard_time": 1669129849,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 41431,
+        "num": 41431,
+        "word": "男子偷转走交往6年女友8.5万余元",
+        "onboard_time": 1669158922,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#新时代新征程新伟业#"
+    }
+  }
+}

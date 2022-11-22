@@ -1,6 +1,6 @@
 {
   "startTime": 1669134647959,
-  "endTime": 1669156663141,
+  "endTime": 1669159215425,
   "band_list": [
     {
       "raw_hot": 3352526,
@@ -91,6 +91,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 693659,
+      "num": 693659,
+      "word": "法国4比1澳大利亚",
+      "onboard_time": 1669151832,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 625073,
       "num": 625073,
       "word": "HLE官宣Viper回归",
@@ -121,6 +129,14 @@
       "onboard_time": 1669119894,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 442910,
+      "num": 442910,
+      "word": "男子刷信用卡6千打赏女主播被拉黑",
+      "onboard_time": 1669155495,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 438286,
@@ -195,12 +211,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 328600,
-      "num": 328600,
+      "raw_hot": 330268,
+      "num": 330268,
       "word": "上海宝妈花140万将地下室改成魔法屋",
       "onboard_time": 1669133195,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 330187,
+      "num": 330187,
+      "word": "阿根廷出线",
+      "onboard_time": 1669122281,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 327761,
@@ -227,11 +251,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 304513,
-      "num": 304513,
-      "word": "法国4比1澳大利亚",
-      "onboard_time": 1669151832,
-      "rank": 47,
+      "raw_hot": 284899,
+      "num": 284899,
+      "word": "沙特球迷庆祝胜利把家里门拆了",
+      "onboard_time": 1669134692,
+      "rank": 28,
       "category": "体育"
     },
     {
@@ -240,14 +264,6 @@
       "word": "墨西哥0比0波兰",
       "onboard_time": 1669141218,
       "rank": 7,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 262825,
-      "num": 262825,
-      "word": "沙特球迷庆祝胜利把家里门拆了",
-      "onboard_time": 1669134692,
-      "rank": 28,
       "category": "体育"
     },
     {
@@ -265,14 +281,6 @@
       "onboard_time": 1669128705,
       "rank": 26,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 246350,
-      "num": 246350,
-      "word": "阿根廷出线",
-      "onboard_time": 1669122281,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 241385,
@@ -321,6 +329,14 @@
       "onboard_time": 1669130148,
       "rank": 32,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 223486,
+      "num": 223486,
+      "word": "姆巴佩头球破门",
+      "onboard_time": 1669151832,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 217892,
@@ -435,6 +451,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 153495,
+      "num": 153495,
+      "word": "男子在卡塔尔逛商场发现纯金手机",
+      "onboard_time": 1669149791,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 151448,
+      "num": 151448,
+      "word": "阿根廷创48年最差开局纪录",
+      "onboard_time": 1669156035,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 138664,
       "num": 138664,
       "word": "法国vs澳大利亚",
@@ -467,6 +499,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 106392,
+      "num": 106392,
+      "word": "世界杯期间被女友上了一课",
+      "onboard_time": 1669140199,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 105180,
       "num": 105180,
       "word": "淀粉心情",
@@ -491,22 +531,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 89274,
-      "num": 89274,
-      "word": "世界杯期间被女友上了一课",
-      "onboard_time": 1669140199,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 88195,
-      "num": 88195,
-      "word": "姆巴佩头球破门",
-      "onboard_time": 1669151832,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 88111,
       "num": 88111,
       "word": "gidle新歌Nxde微醺live",
@@ -515,12 +539,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 73863,
-      "num": 51242,
-      "word": "男子在卡塔尔逛商场发现纯金手机",
-      "onboard_time": 1669149791,
-      "rank": 31,
-      "category": "社会新闻"
+      "raw_hot": 87641,
+      "num": 87641,
+      "word": "卡塔尔世界杯连续两场0比0",
+      "onboard_time": 1669147633,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 72762,
+      "num": 72762,
+      "word": "江苏高中生奋力拉回坠楼男孩",
+      "onboard_time": 1669158080,
+      "rank": 41,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 72221,
@@ -531,14 +563,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 69855,
-      "num": 51240,
-      "word": "男子刷信用卡6千打赏女主播被拉黑",
-      "onboard_time": 1669155495,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 69009,
       "num": 69009,
       "word": "破次元许愿季",
@@ -547,12 +571,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 54014,
-      "num": 54014,
-      "word": "卡塔尔世界杯连续两场0比0",
-      "onboard_time": 1669147633,
-      "rank": 30,
-      "category": "体育"
+      "raw_hot": 51379,
+      "num": 109031,
+      "word": "这张中国面孔被很多坦桑尼亚人记住",
+      "onboard_time": 1669144034,
+      "rank": 29,
+      "category": "社会正能量"
+    },
+    {
+      "raw_hot": 50406,
+      "num": 50406,
+      "word": "偶像梦幻祭国服遭玩家抵制",
+      "onboard_time": 1669146613,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 45303,
@@ -561,6 +593,14 @@
       "onboard_time": 1669141037,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 41431,
+      "num": 41431,
+      "word": "男子偷转走交往6年女友8.5万余元",
+      "onboard_time": 1669158922,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 40357,
@@ -587,36 +627,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 32581,
-      "num": 32581,
-      "word": "阿根廷创48年最差开局纪录",
-      "onboard_time": 1669156035,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 27737,
-      "num": 51244,
-      "word": "这张中国面孔被很多坦桑尼亚人记住",
-      "onboard_time": 1669144034,
-      "rank": 29,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 27398,
       "num": 27398,
       "word": "奥乔亚扑点",
       "onboard_time": 1669144633,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 26235,
-      "num": 26235,
-      "word": "偶像梦幻祭国服遭玩家抵制",
-      "onboard_time": 1669146613,
-      "rank": 39,
-      "category": "游戏"
     },
     {
       "raw_hot": 26047,
