@@ -1,6 +1,6 @@
 {
   "startTime": 1669048272938,
-  "endTime": 1669109827981,
+  "endTime": 1669112584246,
   "band_list": [
     {
       "raw_hot": 2842712,
@@ -51,6 +51,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1653660,
+      "num": 1653660,
+      "word": "阿根廷vs沙特阿拉伯",
+      "onboard_time": 1669082733,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1533189,
       "num": 421417,
       "word": "重庆核酸",
@@ -65,6 +73,22 @@
       "onboard_time": 1669080815,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1484589,
+      "num": 1484589,
+      "word": "梅西进球",
+      "onboard_time": 1669112252,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1424659,
+      "num": 1424659,
+      "word": "海底捞4个人多少钱",
+      "onboard_time": 1669107572,
+      "rank": 13,
+      "category": "幽默"
     },
     {
       "raw_hot": 1224341,
@@ -169,14 +193,6 @@
       "onboard_time": 1669107989,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 815408,
-      "num": 815408,
-      "word": "海底捞4个人多少钱",
-      "onboard_time": 1669107572,
-      "rank": 13,
-      "category": "幽默"
     },
     {
       "raw_hot": 748992,
@@ -419,12 +435,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 498978,
-      "num": 498978,
-      "word": "阿根廷vs沙特阿拉伯",
-      "onboard_time": 1669082733,
-      "rank": 26,
-      "category": "体育"
+      "raw_hot": 497290,
+      "num": 497290,
+      "word": "腾讯视频将上线韩国电影",
+      "onboard_time": 1669109373,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 495026,
@@ -523,6 +539,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 453292,
+      "num": 404455,
+      "word": "刘强东曾称克扣五险一金是可耻的",
+      "onboard_time": 1669107213,
+      "rank": 19,
+      "category": "科技"
+    },
+    {
       "raw_hot": 452786,
       "num": 452786,
       "word": "北京昨增274例本土确诊",
@@ -547,6 +571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 429071,
+      "num": 309742,
+      "word": "宋亚轩说希望得到大家的认可和喜欢",
+      "onboard_time": 1669110391,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 426621,
       "num": 426621,
       "word": "塞内加尔vs荷兰",
@@ -561,14 +593,6 @@
       "onboard_time": 1669088732,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 418845,
-      "num": 404455,
-      "word": "刘强东曾称克扣五险一金是可耻的",
-      "onboard_time": 1669107213,
-      "rank": 19,
-      "category": "科技"
     },
     {
       "raw_hot": 416418,
@@ -691,6 +715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 358132,
+      "num": 258219,
+      "word": "刘耀文说想考音乐类院校",
+      "onboard_time": 1669110452,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 357819,
       "num": 357819,
       "word": "C罗希望击败梅西",
@@ -795,8 +827,8 @@
       "category": "综艺,时尚"
     },
     {
-      "raw_hot": 320871,
-      "num": 320871,
+      "raw_hot": 321528,
+      "num": 321528,
       "word": "把球交给梅西",
       "onboard_time": 1669104033,
       "rank": 21,
@@ -809,6 +841,14 @@
       "onboard_time": 1669033110,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 314323,
+      "num": 257124,
+      "word": "严浩翔说想成为一个完美艺人",
+      "onboard_time": 1669110337,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 313944,
@@ -825,6 +865,14 @@
       "onboard_time": 1669078775,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 306052,
+      "num": 254963,
+      "word": "时代少年团纪录片象限上预告",
+      "onboard_time": 1669110510,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 303793,
@@ -883,20 +931,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 283850,
-      "num": 283850,
-      "word": "腾讯视频将上线韩国电影",
-      "onboard_time": 1669109373,
-      "rank": 20,
-      "category": "影视"
-    },
-    {
       "raw_hot": 279992,
       "num": 279992,
       "word": "女子称休息日不去公司开会被辞退",
       "onboard_time": 1669096955,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 279932,
+      "num": 279932,
+      "word": "阿根廷首发",
+      "onboard_time": 1669111771,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 279466,
@@ -985,6 +1033,14 @@
       "onboard_time": 1669100613,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 258452,
+      "num": 258452,
+      "word": "阿根廷vs沙特首发出炉",
+      "onboard_time": 1669109850,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 257669,
@@ -1083,12 +1139,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 227844,
+      "num": 227844,
+      "word": "卡塔尔巨资办世界杯亏了吗",
+      "onboard_time": 1669110510,
+      "rank": 28,
+      "category": "体育,财经"
+    },
+    {
       "raw_hot": 226417,
       "num": 226417,
       "word": "命韵峋环",
       "onboard_time": 1669046915,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 225650,
+      "num": 225650,
+      "word": "JDG与Homme续约",
+      "onboard_time": 1669111532,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 225419,
@@ -1179,6 +1251,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 212438,
+      "num": 212438,
+      "word": "24日起北京进入公共场所查验48小时核酸证明",
+      "onboard_time": 1669112189,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 211545,
       "num": 211545,
       "word": "阿凡达2水之道角色海报",
@@ -1235,6 +1315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 194605,
+      "num": 194605,
+      "word": "朱韵告诉李峋自己在国外经常喝酒",
+      "onboard_time": 1669111172,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 194523,
       "num": 194523,
       "word": "以爱为营错撩概念海报",
@@ -1249,6 +1337,14 @@
       "onboard_time": 1669040567,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 192748,
+      "num": 192748,
+      "word": "马嘉祺哪怕嗓子哑掉了也要继续唱",
+      "onboard_time": 1669110337,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 191009,
@@ -1379,6 +1475,14 @@
       "category": "财经,体育"
     },
     {
+      "raw_hot": 176965,
+      "num": 165580,
+      "word": "李峋不锈钢的嘴棉花糖的心",
+      "onboard_time": 1669112493,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 176861,
       "num": 176861,
       "word": "太快确定关系的恋爱会长久吗",
@@ -1417,6 +1521,14 @@
       "onboard_time": 1669106255,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 172372,
+      "num": 172372,
+      "word": "男子17年150万资助88名大学生",
+      "onboard_time": 1669110150,
+      "rank": 36,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 172159,
@@ -1475,6 +1587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 168081,
+      "num": 168081,
+      "word": "男子买粘豆包被困秒变喜剧人",
+      "onboard_time": 1669110933,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 167887,
       "num": 167887,
       "word": "官方辟谣荔枝园核酸检测造假",
@@ -1497,6 +1617,14 @@
       "onboard_time": 1669102771,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 160758,
+      "num": 160758,
+      "word": "杨颖分享小雪vlog",
+      "onboard_time": 1669111052,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 159384,
@@ -1636,7 +1764,7 @@
     },
     {
       "raw_hot": 138684,
-      "num": 817063,
+      "num": 1451809,
       "word": "哪届世界杯吉祥物是你最爱",
       "onboard_time": 1669098335,
       "rank": 47,
@@ -1665,6 +1793,14 @@
       "onboard_time": 1669093360,
       "rank": 46,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 135593,
+      "num": 123390,
+      "word": "梅西好像在这一刻释怀了",
+      "onboard_time": 1669112369,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 135252,
@@ -1763,6 +1899,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 126179,
+      "num": 126179,
+      "word": "未成年不玩游戏了会做哪些事",
+      "onboard_time": 1669111471,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 124987,
       "num": 124987,
       "word": "陈飞宇说命韵峋环肯定是真爱",
@@ -1785,6 +1929,14 @@
       "onboard_time": 1669102231,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 123409,
+      "num": 123409,
+      "word": "北京新增2例新冠重症感染者均未接种加强针",
+      "onboard_time": 1669112432,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 123345,
@@ -1904,6 +2056,14 @@
       "word": "梅西很自豪能代表阿根廷",
       "onboard_time": 1669088972,
       "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 110233,
+      "num": 123329,
+      "word": "假如中国队打进世界杯",
+      "onboard_time": 1669111891,
+      "rank": 49,
       "category": "体育"
     },
     {
