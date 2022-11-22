@@ -1,6 +1,6 @@
 {
   "startTime": 1669134647959,
-  "endTime": 1669142568520,
+  "endTime": 1669144631979,
   "band_list": [
     {
       "raw_hot": 3352526,
@@ -435,6 +435,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 112125,
+      "num": 112125,
+      "word": "法国vs澳大利亚首发",
+      "onboard_time": 1669141576,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 110239,
       "num": 110239,
       "word": "苏醒最不快乐的一天",
@@ -475,19 +483,11 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 76548,
-      "num": 76548,
+      "raw_hot": 82924,
+      "num": 82924,
       "word": "世界杯期间被女友上了一课",
       "onboard_time": 1669140199,
       "rank": 33,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 75707,
-      "num": 64802,
-      "word": "法国vs澳大利亚首发",
-      "onboard_time": 1669141576,
-      "rank": 49,
       "category": "体育"
     },
     {
@@ -521,6 +521,22 @@
       "onboard_time": 1669141817,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 27737,
+      "num": 42184,
+      "word": "这张中国面孔被很多坦桑尼亚人记住",
+      "onboard_time": 1669144034,
+      "rank": 29,
+      "category": "社会正能量"
+    },
+    {
+      "raw_hot": 26047,
+      "num": 26047,
+      "word": "郝葭孩子乳名长乐",
+      "onboard_time": 1669142773,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 25366,
