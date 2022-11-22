@@ -1,6 +1,6 @@
 {
   "startTime": 1668961718135,
-  "endTime": 1669095380241,
+  "endTime": 1669098445250,
   "band_list": [
     {
       "raw_hot": 4068058,
@@ -91,6 +91,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1837304,
+      "num": 449106,
+      "word": "刘强东称对不起京东2000多名高管",
+      "onboard_time": 1669095930,
+      "rank": 10,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 1830286,
       "num": 981244,
       "word": "男子月挣4000怪妻子花680接头发",
@@ -108,7 +116,7 @@
     },
     {
       "raw_hot": 1738191,
-      "num": 659042,
+      "num": 755688,
       "word": "母亲出家裸捐588万女儿贷款上大学",
       "onboard_time": 1669090779,
       "rank": 31,
@@ -483,6 +491,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 776137,
+      "num": 776137,
+      "word": "卡塔尔和迪拜哪个更富",
+      "onboard_time": 1669094314,
+      "rank": 48,
+      "category": "体育,旅游"
+    },
+    {
       "raw_hot": 765240,
       "num": 765240,
       "word": "辱母案当事人于欢现状",
@@ -505,6 +521,14 @@
       "onboard_time": 1669085309,
       "rank": 11,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 745839,
+      "num": 745839,
+      "word": "JDG官宣Yagao成为自由人",
+      "onboard_time": 1669095275,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 745055,
@@ -659,6 +683,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 627682,
+      "num": 627682,
+      "word": "王鹤棣说抓紧时间干收工五点半",
+      "onboard_time": 1669097852,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 626815,
       "num": 626815,
       "word": "李现说早买早享受",
@@ -689,6 +721,14 @@
       "onboard_time": 1669087469,
       "rank": 49,
       "category": "科技,财经"
+    },
+    {
+      "raw_hot": 617716,
+      "num": 617716,
+      "word": "鹤壁校园欺凌事件涉事副校长被辞退",
+      "onboard_time": 1669094675,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 591406,
@@ -1267,6 +1307,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 407313,
+      "num": 407313,
+      "word": "卡塔尔版退钱哥",
+      "onboard_time": 1669093844,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 406929,
       "num": 406929,
       "word": "安阳厂房火灾已致38人失联",
@@ -1499,6 +1547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 347752,
+      "num": 347752,
+      "word": "乱世佳人最后一名在世演员去世",
+      "onboard_time": 1669095454,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 346243,
       "num": 346243,
       "word": "张婧仪说陈飞宇和李峋的反差感",
@@ -1555,14 +1611,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 339143,
-      "num": 339143,
-      "word": "卡塔尔版退钱哥",
-      "onboard_time": 1669093844,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 339132,
       "num": 339132,
       "word": "秦施是小三克星吧",
@@ -1585,14 +1633,6 @@
       "onboard_time": 1669016194,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 334951,
-      "num": 334951,
-      "word": "卡塔尔和迪拜哪个更富",
-      "onboard_time": 1669094314,
-      "rank": 48,
-      "category": "体育,旅游"
     },
     {
       "raw_hot": 334768,
@@ -1659,6 +1699,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 329805,
+      "num": 329805,
+      "word": "原来这么多明星喜欢梅西",
+      "onboard_time": 1669094377,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 329241,
       "num": 329241,
       "word": "美国1比1威尔士",
@@ -1723,12 +1771,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 312462,
+      "num": 312462,
+      "word": "刘强东投入数百亿给员工买房",
+      "onboard_time": 1669097881,
+      "rank": 15,
+      "category": "科技"
+    },
+    {
       "raw_hot": 311378,
       "num": 311378,
       "word": "合肥质检研究院回应被指造假",
       "onboard_time": 1669008576,
       "rank": 40,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 308894,
+      "num": 308894,
+      "word": "小学女生卫生间多了月经暖心盒",
+      "onboard_time": 1669096293,
+      "rank": 16,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 306248,
@@ -1769,6 +1833,14 @@
       "onboard_time": 1669015955,
       "rank": 44,
       "category": "科技"
+    },
+    {
+      "raw_hot": 298904,
+      "num": 298904,
+      "word": "C罗希望击败梅西",
+      "onboard_time": 1669097195,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 296726,
@@ -1939,12 +2011,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 270543,
-      "num": 270543,
-      "word": "鹤壁校园欺凌事件涉事副校长被辞退",
-      "onboard_time": 1669094675,
-      "rank": 18,
-      "category": "社会新闻"
+      "raw_hot": 270790,
+      "num": 270790,
+      "word": "河南通报安阳火灾事故原因",
+      "onboard_time": 1669095454,
+      "rank": 19,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 269479,
+      "num": 269479,
+      "word": "陆毅鲍蕾官宣加盟妻子的浪漫旅行6",
+      "onboard_time": 1669094555,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 267605,
@@ -1993,14 +2073,6 @@
       "onboard_time": 1669019616,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 260842,
-      "num": 197333,
-      "word": "陆毅鲍蕾官宣加盟妻子的浪漫旅行6",
-      "onboard_time": 1669094555,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 260796,
@@ -2123,6 +2195,14 @@
       "category": "体育,幽默"
     },
     {
+      "raw_hot": 244209,
+      "num": 244209,
+      "word": "肉摊主见女子困难慷慨赠8斤肉和油",
+      "onboard_time": 1669092162,
+      "rank": 49,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 243983,
       "num": 243983,
       "word": "卡塔尔世界杯带火国产桌面足球",
@@ -2169,14 +2249,6 @@
       "onboard_time": 1668953369,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 234966,
-      "num": 234966,
-      "word": "肉摊主见女子困难慷慨赠8斤肉和油",
-      "onboard_time": 1669092162,
-      "rank": 49,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 234293,
@@ -2251,6 +2323,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 221019,
+      "num": 221019,
+      "word": "重庆核酸",
+      "onboard_time": 1669097914,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 220351,
+      "num": 220351,
+      "word": "安阳厂房火灾已致38人死亡",
+      "onboard_time": 1669095816,
+      "rank": 24,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 219423,
       "num": 219423,
       "word": "开幕式 没有夏奇拉",
@@ -2273,6 +2361,14 @@
       "onboard_time": 1669042549,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 217447,
+      "num": 217447,
+      "word": "街道回应小区喊话外来人员格杀勿论",
+      "onboard_time": 1669096895,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 217070,
@@ -2385,14 +2481,6 @@
       "onboard_time": 1668954093,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 202512,
-      "num": 202512,
-      "word": "原来这么多明星喜欢梅西",
-      "onboard_time": 1669094377,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 200965,
@@ -2955,6 +3043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 148896,
+      "num": 148896,
+      "word": "女子称休息日不去公司开会被辞退",
+      "onboard_time": 1669096955,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 148563,
       "num": 162517,
       "word": "手机厂商为何执着自研芯片",
@@ -3123,6 +3219,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 139599,
+      "num": 139599,
+      "word": "喜剧大赛2师哥师姐回归",
+      "onboard_time": 1669096955,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 139455,
       "num": 139455,
       "word": "贝林厄姆世界杯首球",
@@ -3267,6 +3371,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 130129,
+      "num": 130129,
+      "word": "智族GQ红毯背后阵容",
+      "onboard_time": 1669096174,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 129656,
       "num": 129656,
       "word": "NCTDREAM全员荧光绿造型",
@@ -3275,20 +3387,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 129566,
+      "num": 129566,
+      "word": "2022LOL冬季转会期",
+      "onboard_time": 1669096835,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 129154,
+      "num": 129154,
+      "word": "你认为下一个世界首富会是谁",
+      "onboard_time": 1669097795,
+      "rank": 44,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 128253,
       "num": 128253,
       "word": "边牧和萨摩耶的区别",
       "onboard_time": 1669047334,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 128185,
-      "num": 128185,
-      "word": "JDG官宣Yagao成为自由人",
-      "onboard_time": 1669095275,
-      "rank": 45,
-      "category": "游戏"
     },
     {
       "raw_hot": 126770,
@@ -3600,6 +3720,14 @@
       "word": "世界杯分组",
       "onboard_time": 1669011574,
       "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 106846,
+      "num": 106846,
+      "word": "哪届世界杯吉祥物是你最爱",
+      "onboard_time": 1669098335,
+      "rank": 47,
       "category": "体育"
     },
     {
