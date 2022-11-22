@@ -1,13 +1,29 @@
 {
   "startTime": 1669048272938,
-  "endTime": 1669116931739,
+  "endTime": 1669120966853,
   "band_list": [
     {
-      "raw_hot": 8465964,
-      "num": 8465964,
+      "raw_hot": 13131209,
+      "num": 13131209,
       "word": "沙特反超",
       "onboard_time": 1669116218,
       "rank": 0,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 11632834,
+      "num": 11632834,
+      "word": "世界杯 大冷门",
+      "onboard_time": 1669119487,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 8419594,
+      "num": 8419594,
+      "word": "沙特门将 牛",
+      "onboard_time": 1669117836,
+      "rank": 2,
       "category": "体育"
     },
     {
@@ -19,12 +35,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 3401994,
+      "num": 3401994,
+      "word": "阿根廷1比2沙特阿拉伯",
+      "onboard_time": 1669119306,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2842712,
       "num": 2842712,
       "word": "刘强东发布京东全员信",
       "onboard_time": 1669090656,
       "rank": 15,
       "category": "科技"
+    },
+    {
+      "raw_hot": 2321254,
+      "num": 2321254,
+      "word": "梅西好像在这一刻释怀了",
+      "onboard_time": 1669112369,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 2238281,
@@ -43,6 +75,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 1962461,
+      "num": 995671,
+      "word": "心疼梅西",
+      "onboard_time": 1669119368,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1830286,
       "num": 981244,
       "word": "男子月挣4000怪妻子花680接头发",
@@ -57,6 +97,14 @@
       "onboard_time": 1669090779,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1712400,
+      "num": 1712400,
+      "word": "阿根廷vs沙特阿拉伯",
+      "onboard_time": 1669082733,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 1683391,
@@ -75,11 +123,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1653660,
-      "num": 1653660,
-      "word": "阿根廷vs沙特阿拉伯",
-      "onboard_time": 1669082733,
-      "rank": 26,
+      "raw_hot": 1592601,
+      "num": 1592601,
+      "word": "沙特守门员杀疯了",
+      "onboard_time": 1669119782,
+      "rank": 6,
       "category": "体育"
     },
     {
@@ -115,14 +163,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1230986,
-      "num": 1230986,
-      "word": "梅西好像在这一刻释怀了",
-      "onboard_time": 1669112369,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1224341,
       "num": 1224341,
       "word": "儿子划伤豪车爸爸让其拿现金道歉",
@@ -153,6 +193,14 @@
       "onboard_time": 1669103311,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1070360,
+      "num": 1070360,
+      "word": "郝葭生产",
+      "onboard_time": 1669119424,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 1048708,
@@ -219,6 +267,14 @@
       "category": "国外要闻,艺人"
     },
     {
+      "raw_hot": 941307,
+      "num": 941307,
+      "word": "郑州疫情防控",
+      "onboard_time": 1669117777,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 904253,
       "num": 904253,
       "word": "鹿晗因为曼联支持英格兰",
@@ -251,6 +307,22 @@
       "category": "社会负面,教育"
     },
     {
+      "raw_hot": 858169,
+      "num": 858169,
+      "word": "沙特 亚洲之光",
+      "onboard_time": 1669116335,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 838554,
+      "num": 838554,
+      "word": "沙特赔率",
+      "onboard_time": 1669119894,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 822360,
       "num": 822360,
       "word": "李峋朱韵没有分手",
@@ -275,6 +347,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 742513,
+      "num": 742513,
+      "word": "银川通报男子被压控在地",
+      "onboard_time": 1669118561,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 737692,
       "num": 737692,
       "word": "杨紫提醒大家注意冬季消防安全",
@@ -283,11 +363,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 733988,
-      "num": 733988,
-      "word": "沙特 亚洲之光",
-      "onboard_time": 1669116335,
-      "rank": 9,
+      "raw_hot": 714479,
+      "num": 714479,
+      "word": "阿根廷队36场不败纪录被终止",
+      "onboard_time": 1669119782,
+      "rank": 16,
       "category": "体育"
     },
     {
@@ -323,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 676682,
+      "num": 676682,
+      "word": "内马尔在世界杯前做医美",
+      "onboard_time": 1669114474,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 675267,
       "num": 675267,
       "word": "中国小伙晒出卡塔尔住宿条件",
@@ -345,6 +433,14 @@
       "onboard_time": 1669093360,
       "rank": 10,
       "category": "综艺,时尚"
+    },
+    {
+      "raw_hot": 635353,
+      "num": 635353,
+      "word": "沙特替补席狂欢庆祝",
+      "onboard_time": 1669117420,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 632074,
@@ -547,6 +643,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 491391,
+      "num": 491391,
+      "word": "阿根廷爆冷",
+      "onboard_time": 1669120313,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 490569,
       "num": 490569,
       "word": "安阳厂房火灾犯罪嫌疑人已被控制",
@@ -715,6 +819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 424391,
+      "num": 424391,
+      "word": "秦施被排挤",
+      "onboard_time": 1669119306,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 416418,
       "num": 364076,
       "word": "刘强东投入数百亿给员工买房",
@@ -811,12 +923,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 376224,
+      "num": 376224,
+      "word": "阿根廷后防",
+      "onboard_time": 1669118678,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 373756,
       "num": 373756,
       "word": "王鹤棣拍吻戏看到粉丝的表情",
       "onboard_time": 1669077395,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 373527,
+      "num": 373527,
+      "word": "EDG",
+      "onboard_time": 1669117300,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 373227,
@@ -857,14 +985,6 @@
       "onboard_time": 1669110452,
       "rank": 20,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 358076,
-      "num": 358076,
-      "word": "内马尔在世界杯前做医美",
-      "onboard_time": 1669114474,
-      "rank": 21,
-      "category": "体育"
     },
     {
       "raw_hot": 357819,
@@ -931,12 +1051,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 342348,
+      "num": 342348,
+      "word": "梅西点射破门",
+      "onboard_time": 1669115736,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 338627,
       "num": 251529,
       "word": "江歌母亲诉刘鑫案件回顾",
       "onboard_time": 1669101391,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 336552,
+      "num": 336552,
+      "word": "以爱为营阵容官宣",
+      "onboard_time": 1669119782,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 334673,
@@ -987,6 +1123,14 @@
       "category": "综艺,时尚"
     },
     {
+      "raw_hot": 324109,
+      "num": 324109,
+      "word": "丹麦vs突尼斯",
+      "onboard_time": 1669119368,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 321528,
       "num": 321528,
       "word": "把球交给梅西",
@@ -1035,12 +1179,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 311802,
-      "num": 311802,
-      "word": "梅西点射破门",
-      "onboard_time": 1669115736,
-      "rank": 24,
-      "category": "体育"
+      "raw_hot": 306856,
+      "num": 306856,
+      "word": "以爱为营",
+      "onboard_time": 1669118800,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 306248,
@@ -1200,6 +1344,22 @@
       "word": "女子花钱救狗反被咬网友说活该",
       "onboard_time": 1669088672,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 263105,
+      "num": 293880,
+      "word": "看见了五彩斑斓的黑夜",
+      "onboard_time": 1669120907,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 262496,
+      "num": 262496,
+      "word": "60岁大爷吃生蒜杀菌延误病情致癌",
+      "onboard_time": 1669119838,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -1379,6 +1539,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 224939,
+      "num": 224939,
+      "word": "秦施阳华拍婚纱照",
+      "onboard_time": 1669118620,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 224413,
       "num": 224413,
       "word": "75%未成年每周游戏少于3小时",
@@ -1427,12 +1595,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 217461,
+      "num": 217461,
+      "word": "沙特 受伤",
+      "onboard_time": 1669120377,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 217422,
       "num": 217422,
       "word": "苏醒刘语熙打赌一年外卖",
       "onboard_time": 1669107695,
       "rank": 27,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 217275,
+      "num": 225850,
+      "word": "vivo推出能拍银河的手机",
+      "onboard_time": 1669119722,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 216801,
@@ -1491,6 +1675,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 208606,
+      "num": 208606,
+      "word": "詹俊",
+      "onboard_time": 1669120786,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 202459,
       "num": 155751,
       "word": "梅西本届世界杯第一粒进球",
@@ -1513,6 +1705,14 @@
       "onboard_time": 1669102411,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 197604,
+      "num": 197604,
+      "word": "梅西个人世界杯第七球",
+      "onboard_time": 1669120846,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 197458,
@@ -1547,6 +1747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 196378,
+      "num": 196378,
+      "word": "沙特门将 身价暴涨",
+      "onboard_time": 1669120669,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 195605,
       "num": 195605,
       "word": "二十四节气",
@@ -1577,6 +1785,14 @@
       "onboard_time": 1669095036,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 194368,
+      "num": 194368,
+      "word": "阿根廷赔率",
+      "onboard_time": 1669120786,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 193251,
@@ -2043,6 +2259,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 144833,
+      "num": 744869,
+      "word": "vivo十年最强旗舰",
+      "onboard_time": 1669118435,
+      "rank": 14,
+      "category": "科技"
+    },
+    {
       "raw_hot": 144048,
       "num": 92815,
       "word": "加克波头球破门",
@@ -2353,6 +2577,14 @@
       "onboard_time": 1669094916,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 111536,
+      "num": 597563,
+      "word": "vivoX90发布会",
+      "onboard_time": 1669119191,
+      "rank": 19,
+      "category": "科技"
     },
     {
       "raw_hot": 110801,
