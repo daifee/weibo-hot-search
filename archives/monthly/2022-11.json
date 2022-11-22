@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1669127826222,
+  "endTime": 1669130567910,
   "band_list": [
     {
       "raw_hot": 13131209,
@@ -595,6 +595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2436804,
+      "num": 2436804,
+      "word": "阿根廷输球一小时后无人走出更衣室",
+      "onboard_time": 1669125947,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2402771,
       "num": 2402771,
       "word": "王源MV女主黄思瑞",
@@ -785,6 +793,14 @@
       "onboard_time": 1667876727,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2201933,
+      "num": 2201933,
+      "word": "汪小菲口中的思诺思是什么药",
+      "onboard_time": 1669126423,
+      "rank": 21,
+      "category": "情感,艺人"
     },
     {
       "raw_hot": 2194596,
@@ -1667,6 +1683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1645823,
+      "num": 1645823,
+      "word": "HLE官宣Viper回归",
+      "onboard_time": 1669128884,
+      "rank": 5,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1639721,
       "num": 1269135,
       "word": "李栋旭确认出演哈尔滨",
@@ -1883,6 +1907,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1555959,
+      "num": 1555959,
+      "word": "妈妈产后抑郁离世孩子才7个月",
+      "onboard_time": 1669126363,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1555239,
       "num": 505082,
       "word": "李智汉为救被困小女孩遇难",
@@ -2089,14 +2121,6 @@
       "onboard_time": 1668782670,
       "rank": 10,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 1490680,
-      "num": 1490680,
-      "word": "汪小菲口中的思诺思是什么药",
-      "onboard_time": 1669126423,
-      "rank": 21,
-      "category": "情感,艺人"
     },
     {
       "raw_hot": 1487382,
@@ -2563,6 +2587,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1327286,
+      "num": 1327286,
+      "word": "沙特门将 身价暴涨",
+      "onboard_time": 1669120669,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1323768,
       "num": 1323768,
       "word": "大学生打麻将被罚画600个幺鸡",
@@ -2609,14 +2641,6 @@
       "onboard_time": 1668041370,
       "rank": 3,
       "category": "科技"
-    },
-    {
-      "raw_hot": 1305200,
-      "num": 1305200,
-      "word": "沙特门将 身价暴涨",
-      "onboard_time": 1669120669,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 1303284,
@@ -2825,6 +2849,14 @@
       "onboard_time": 1668396629,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1242437,
+      "num": 1242437,
+      "word": "丹麦0比0突尼斯",
+      "onboard_time": 1669129849,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 1239559,
@@ -3059,12 +3091,28 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1184226,
+      "num": 1184226,
+      "word": "周峻纬 名学",
+      "onboard_time": 1669126124,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1181054,
       "num": 1181054,
       "word": "陈玘",
       "onboard_time": 1668384091,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1180999,
+      "num": 1180999,
+      "word": "scout",
+      "onboard_time": 1669128283,
+      "rank": 11,
+      "category": "游戏"
     },
     {
       "raw_hot": 1180241,
@@ -3939,14 +3987,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1024411,
-      "num": 1024411,
-      "word": "周峻纬 名学",
-      "onboard_time": 1669126124,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1024059,
       "num": 1024059,
       "word": "女生戒碳水减肥暴瘦后局部秃头",
@@ -4184,14 +4224,6 @@
       "word": "银行以防疫为名让客户淋雨排队",
       "onboard_time": 1668221732,
       "rank": 12,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1000904,
-      "num": 1000904,
-      "word": "妈妈产后抑郁离世孩子才7个月",
-      "onboard_time": 1669126363,
-      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -4841,14 +4873,6 @@
       "onboard_time": 1667706864,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 910337,
-      "num": 910337,
-      "word": "阿根廷输球一小时后无人走出更衣室",
-      "onboard_time": 1669125947,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 909188,
@@ -6563,6 +6587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 741567,
+      "num": 741567,
+      "word": "丹麦突尼斯半场0比0",
+      "onboard_time": 1669127264,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 740686,
       "num": 740686,
       "word": "霍华德抵达中国台湾",
@@ -7075,6 +7107,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 701624,
+      "num": 701624,
+      "word": "郝葭终于逃离二少主",
+      "onboard_time": 1669125762,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 701024,
       "num": 701024,
       "word": "女子拒签快递被快递员私自代签",
@@ -7553,6 +7593,14 @@
       "onboard_time": 1667902529,
       "rank": 28,
       "category": "社会正能量,教育"
+    },
+    {
+      "raw_hot": 674610,
+      "num": 674610,
+      "word": "EDG官宣Viper离队",
+      "onboard_time": 1669128705,
+      "rank": 16,
+      "category": "游戏"
     },
     {
       "raw_hot": 674401,
@@ -8481,14 +8529,6 @@
       "onboard_time": 1667694984,
       "rank": 1,
       "category": "游戏,艺人"
-    },
-    {
-      "raw_hot": 621332,
-      "num": 312791,
-      "word": "丹麦突尼斯半场0比0",
-      "onboard_time": 1669127264,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 621304,
@@ -11163,6 +11203,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 512493,
+      "num": 512493,
+      "word": "还我吃货豆",
+      "onboard_time": 1669129728,
+      "rank": 21,
+      "category": "幽默,体育"
+    },
+    {
       "raw_hot": 512132,
       "num": 512132,
       "word": "永远不要试探父母的爱",
@@ -13451,6 +13499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 446413,
+      "num": 446413,
+      "word": "转发这个沙特门将",
+      "onboard_time": 1669129608,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 444842,
       "num": 444842,
       "word": "北京回应市民对进返京防疫政策关切",
@@ -14459,6 +14515,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 422469,
+      "num": 422469,
+      "word": "刘强东十几年捐了60%的收入",
+      "onboard_time": 1669125041,
+      "rank": 49,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 422364,
       "num": 422364,
       "word": "从30度降温到14度是什么体验",
@@ -14881,6 +14945,14 @@
       "onboard_time": 1668163233,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 412439,
+      "num": 412439,
+      "word": "梅西说输球无借口",
+      "onboard_time": 1669126841,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 412260,
@@ -15779,6 +15851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 392654,
+      "num": 392654,
+      "word": "白敬亭把人从天盛长歌踹到卿卿日常",
+      "onboard_time": 1669128705,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 392603,
       "num": 392603,
       "word": "马龙背头好帅",
@@ -16595,12 +16675,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 373857,
-      "num": 323193,
-      "word": "郝葭终于逃离二少主",
-      "onboard_time": 1669125762,
+      "raw_hot": 373958,
+      "num": 373958,
+      "word": "韩华",
+      "onboard_time": 1669129787,
       "rank": 32,
-      "category": "影视"
+      "category": "游戏"
     },
     {
       "raw_hot": 373756,
@@ -17057,6 +17137,14 @@
       "onboard_time": 1668164973,
       "rank": 17,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 364389,
+      "num": 364389,
+      "word": "足球反着买 别墅靠大海",
+      "onboard_time": 1669126602,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 364363,
@@ -22587,28 +22675,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 274098,
-      "num": 274098,
-      "word": "刘强东十几年捐了60%的收入",
-      "onboard_time": 1669125041,
-      "rank": 49,
-      "category": "社会新闻,科技"
-    },
-    {
       "raw_hot": 274052,
       "num": 274052,
       "word": "民警凭卫生纸锁定逃亡19年嫌犯",
       "onboard_time": 1667479828,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 274039,
-      "num": 274039,
-      "word": "梅西说输球无借口",
-      "onboard_time": 1669126841,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 273881,
@@ -22865,6 +22937,14 @@
       "onboard_time": 1668351034,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 271206,
+      "num": 271206,
+      "word": "叶舒华跳舞视频",
+      "onboard_time": 1669129728,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 271150,
@@ -23835,6 +23915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 257580,
+      "num": 257580,
+      "word": "爱的二八定律最新预告",
+      "onboard_time": 1669125585,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 257060,
       "num": 257060,
       "word": "李泳知rap",
@@ -24507,6 +24595,14 @@
       "category": "体育,幽默"
     },
     {
+      "raw_hot": 246990,
+      "num": 246990,
+      "word": "郝葭出逃失败",
+      "onboard_time": 1669129787,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 246890,
       "num": 246890,
       "word": "神农架会疯狂吸水的植物太神奇",
@@ -25089,6 +25185,14 @@
       "onboard_time": 1668138207,
       "rank": 44,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 238377,
+      "num": 238377,
+      "word": "梅西希望球迷相信阿根廷队",
+      "onboard_time": 1669129969,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 238352,
@@ -28185,14 +28289,6 @@
       "onboard_time": 1668505710,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 206150,
-      "num": 206150,
-      "word": "足球反着买 别墅靠大海",
-      "onboard_time": 1669126602,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 206110,
@@ -33076,7 +33172,7 @@
     },
     {
       "raw_hot": 163900,
-      "num": 260003,
+      "num": 272908,
       "word": "vivo首发天玑9200芯片",
       "onboard_time": 1669125643,
       "rank": 39,
