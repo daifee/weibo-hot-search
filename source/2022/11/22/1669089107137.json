@@ -1,0 +1,410 @@
+{
+  "runTime": 1669089107137,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1026193,
+        "num": 1026193,
+        "word": "妻子的浪漫旅行6官宣定档1124",
+        "onboard_time": 1669087891,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 948455,
+        "num": 948455,
+        "word": "杜海涛为证明瘦了踩毛不易腿上",
+        "onboard_time": 1669080815,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25604,
+        "num": 794725,
+        "word": "中国水下考古又一大发现",
+        "onboard_time": 1669002092,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1579142,
+        "num": 767257,
+        "word": "男子月挣4000怪妻子花680接头发",
+        "onboard_time": 1669080153,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 719555,
+        "num": 719555,
+        "word": "中石化与卡塔尔签史上最长液化天然气协议",
+        "onboard_time": 1669085309,
+        "rank": 4,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 707181,
+        "num": 707181,
+        "word": "小雪",
+        "onboard_time": 1669073006,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 670691,
+        "num": 670691,
+        "word": "赵丽颖鞠婧祎新剧小雪海报",
+        "onboard_time": 1669087891,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 548663,
+        "num": 548663,
+        "word": "中国小伙晒出卡塔尔住宿条件",
+        "onboard_time": 1669078596,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 537824,
+        "num": 537824,
+        "word": "梅西世界杯首秀",
+        "onboard_time": 1669085492,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 501064,
+        "num": 501064,
+        "word": "别再踩公厕马桶圈了",
+        "onboard_time": 1669046794,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 650999,
+        "num": 488958,
+        "word": "杨紫提醒大家注意冬季消防安全",
+        "onboard_time": 1669086632,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 441592,
+        "num": 441592,
+        "word": "男子上厕所怕脏踩碎合租房马桶",
+        "onboard_time": 1669086213,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 425650,
+        "num": 425650,
+        "word": "朝阳打歌中心全员秒切打歌时刻",
+        "onboard_time": 1669088732,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 394292,
+        "num": 394292,
+        "word": "阿根廷vs沙特阿拉伯",
+        "onboard_time": 1669082733,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 360777,
+        "num": 360777,
+        "word": "侃爷宣布参与2024美国总统大选",
+        "onboard_time": 1669077034,
+        "rank": 14,
+        "category": "国外要闻,艺人"
+      },
+      {
+        "raw_hot": 349324,
+        "num": 349324,
+        "word": "马斯克恐失去世界首富位置",
+        "onboard_time": 1669087469,
+        "rank": 15,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 339822,
+        "num": 339822,
+        "word": "安阳厂房火灾已致36人死亡",
+        "onboard_time": 1669074691,
+        "rank": 16,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 293778,
+        "num": 293778,
+        "word": "世界杯",
+        "onboard_time": 1669078057,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 272395,
+        "num": 272395,
+        "word": "广州新增本土感染者8210例",
+        "onboard_time": 1669079975,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249955,
+        "num": 249955,
+        "word": "北京增207例社会面",
+        "onboard_time": 1669076736,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274975,
+        "num": 247388,
+        "word": "卿卿日常是懂取名字的",
+        "onboard_time": 1669087232,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 265408,
+        "num": 245265,
+        "word": "张婧仪晒和曾可妮姜梓新三人合照",
+        "onboard_time": 1669086750,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 253259,
+        "num": 239438,
+        "word": "陈都灵新剧亲徐璐的手背",
+        "onboard_time": 1669083579,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 233289,
+        "num": 233289,
+        "word": "A股上市公司数量突破5000家",
+        "onboard_time": 1669084770,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 231622,
+        "num": 231622,
+        "word": "交警破译男子咒语式停车电话",
+        "onboard_time": 1669081293,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216165,
+        "num": 216165,
+        "word": "江母诉刘鑫案再开庭或不当庭宣判",
+        "onboard_time": 1669087593,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213266,
+        "num": 213266,
+        "word": "13岁女孩全身颤抖向店员求助",
+        "onboard_time": 1669047394,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212617,
+        "num": 212617,
+        "word": "小狗门口玩耍被人放2猎犬咬死",
+        "onboard_time": 1669079736,
+        "rank": 27,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 208055,
+        "num": 208055,
+        "word": "卡塔尔集装箱球迷村全部是中国制造",
+        "onboard_time": 1669081949,
+        "rank": 28,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 201026,
+        "num": 201026,
+        "word": "奶奶用胶带帮老伴提拉下垂眼皮",
+        "onboard_time": 1669084472,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195605,
+        "num": 195605,
+        "word": "二十四节气",
+        "onboard_time": 1669088914,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194346,
+        "num": 194346,
+        "word": "王鹤棣新剧开机上班路透",
+        "onboard_time": 1669083813,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 187900,
+        "num": 187900,
+        "word": "李峋回来只办三件事",
+        "onboard_time": 1669079253,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 189197,
+        "num": 187819,
+        "word": "白鹿以爱为营开机应援",
+        "onboard_time": 1669088613,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 187708,
+        "num": 187708,
+        "word": "小雪的第一份炸鸡",
+        "onboard_time": 1669088313,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 179921,
+        "num": 179921,
+        "word": "安阳厂房火灾犯罪嫌疑人已被控制",
+        "onboard_time": 1669075233,
+        "rank": 35,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 151296,
+        "num": 151296,
+        "word": "命韵峋环新情头",
+        "onboard_time": 1669086632,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 144108,
+        "num": 144108,
+        "word": "克隆大作战开启",
+        "onboard_time": 1669088853,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 140603,
+        "num": 140603,
+        "word": "女子工作5年前后对比判若两人",
+        "onboard_time": 1669046319,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137729,
+        "num": 137729,
+        "word": "女子花钱救狗反被咬网友说活该",
+        "onboard_time": 1669088672,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130847,
+        "num": 130847,
+        "word": "宝妈将宝宝放进手提篮被质疑不安全",
+        "onboard_time": 1669076315,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130156,
+        "num": 130156,
+        "word": "11月21日新增本土无症状25754例",
+        "onboard_time": 1669083634,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127849,
+        "num": 127849,
+        "word": "阿凡达2水之道角色海报",
+        "onboard_time": 1669080753,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 122853,
+        "num": 122853,
+        "word": "成都疫情防控",
+        "onboard_time": 1669039061,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122422,
+        "num": 122422,
+        "word": "微博视界大会官宣定档",
+        "onboard_time": 1669085972,
+        "rank": 44,
+        "category": "综艺,科技"
+      },
+      {
+        "raw_hot": 120153,
+        "num": 120153,
+        "word": "女子遇诈骗反赚骗子1千多",
+        "onboard_time": 1669080995,
+        "rank": 45,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 110405,
+        "num": 110405,
+        "word": "梅西很自豪能代表阿根廷",
+        "onboard_time": 1669088972,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110032,
+        "num": 110032,
+        "word": "大叔球场上给小伙展示账户余额",
+        "onboard_time": 1669045364,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108584,
+        "num": 108584,
+        "word": "世界杯看台上的中国球迷",
+        "onboard_time": 1669085070,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103316,
+        "num": 103316,
+        "word": "今晚看梅西阿根廷",
+        "onboard_time": 1669087709,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#神十五将择机发射#"
+    }
+  }
+}

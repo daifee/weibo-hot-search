@@ -1,6 +1,6 @@
 {
   "startTime": 1669048272938,
-  "endTime": 1669087478914,
+  "endTime": 1669089107137,
   "band_list": [
     {
       "raw_hot": 1830286,
@@ -33,6 +33,14 @@
       "onboard_time": 1669046794,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1026193,
+      "num": 1026193,
+      "word": "妻子的浪漫旅行6官宣定档1124",
+      "onboard_time": 1669087891,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 961699,
@@ -83,12 +91,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 719555,
+      "num": 719555,
+      "word": "中石化与卡塔尔签史上最长液化天然气协议",
+      "onboard_time": 1669085309,
+      "rank": 11,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 675267,
       "num": 675267,
       "word": "中国小伙晒出卡塔尔住宿条件",
       "onboard_time": 1669078596,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 670691,
+      "num": 670691,
+      "word": "赵丽颖鞠婧祎新剧小雪海报",
+      "onboard_time": 1669087891,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 626815,
@@ -123,20 +147,20 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 537824,
+      "num": 537824,
+      "word": "梅西世界杯首秀",
+      "onboard_time": 1669085492,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 535456,
       "num": 535456,
       "word": "成都疫情防控",
       "onboard_time": 1669039061,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 535110,
-      "num": 381436,
-      "word": "中石化与卡塔尔签史上最长液化天然气协议",
-      "onboard_time": 1669085309,
-      "rank": 11,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 527700,
@@ -259,6 +283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 441592,
+      "num": 441592,
+      "word": "男子上厕所怕脏踩碎合租房马桶",
+      "onboard_time": 1669086213,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 439281,
       "num": 439281,
       "word": "北京增207例社会面",
@@ -273,6 +305,14 @@
       "onboard_time": 1669043032,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 425650,
+      "num": 425650,
+      "word": "朝阳打歌中心全员秒切打歌时刻",
+      "onboard_time": 1669088732,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 411168,
@@ -299,12 +339,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 345256,
-      "num": 345256,
-      "word": "梅西世界杯首秀",
-      "onboard_time": 1669085492,
-      "rank": 22,
-      "category": "体育"
+      "raw_hot": 349324,
+      "num": 349324,
+      "word": "马斯克恐失去世界首富位置",
+      "onboard_time": 1669087469,
+      "rank": 49,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 344816,
@@ -395,6 +435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 274975,
+      "num": 247388,
+      "word": "卿卿日常是懂取名字的",
+      "onboard_time": 1669087232,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 271150,
       "num": 271150,
       "word": "城管局回应郑州3人当街打商贩",
@@ -409,6 +457,14 @@
       "onboard_time": 1669030058,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 265408,
+      "num": 245265,
+      "word": "张婧仪晒和曾可妮姜梓新三人合照",
+      "onboard_time": 1669086750,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 257669,
@@ -459,28 +515,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 240997,
-      "num": 240997,
-      "word": "卿卿日常是懂取名字的",
-      "onboard_time": 1669087232,
-      "rank": 23,
-      "category": "影视"
-    },
-    {
       "raw_hot": 240985,
       "num": 240985,
       "word": "陶昕然说如果我天天跟孙俪比就只能跳楼",
       "onboard_time": 1669034382,
       "rank": 22,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 230157,
-      "num": 161000,
-      "word": "男子上厕所怕脏踩碎合租房马桶",
-      "onboard_time": 1669086213,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 226417,
@@ -531,6 +571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 216165,
+      "num": 216165,
+      "word": "江母诉刘鑫案再开庭或不当庭宣判",
+      "onboard_time": 1669087593,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 211545,
       "num": 211545,
       "word": "阿凡达2水之道角色海报",
@@ -555,6 +603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 195605,
+      "num": 195605,
+      "word": "二十四节气",
+      "onboard_time": 1669088914,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 194940,
       "num": 194940,
       "word": "懒人瘦肚子真的很简单",
@@ -577,6 +633,22 @@
       "onboard_time": 1669043026,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 189197,
+      "num": 187819,
+      "word": "白鹿以爱为营开机应援",
+      "onboard_time": 1669088613,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 187708,
+      "num": 187708,
+      "word": "小雪的第一份炸鸡",
+      "onboard_time": 1669088313,
+      "rank": 34,
+      "category": "美食"
     },
     {
       "raw_hot": 187078,
@@ -747,12 +819,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 146850,
-      "num": 146850,
-      "word": "张婧仪晒和曾可妮姜梓新三人合照",
-      "onboard_time": 1669086750,
-      "rank": 47,
-      "category": "作品衍生"
+      "raw_hot": 144108,
+      "num": 144108,
+      "word": "克隆大作战开启",
+      "onboard_time": 1669088853,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 144048,
@@ -775,6 +847,14 @@
       "num": 142495,
       "word": "网友留差评8年后收到店家道歉",
       "onboard_time": 1669022972,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 137729,
+      "num": 137729,
+      "word": "女子花钱救狗反被咬网友说活该",
+      "onboard_time": 1669088672,
       "rank": 39,
       "category": "社会新闻"
     },
@@ -883,6 +963,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 110405,
+      "num": 110405,
+      "word": "梅西很自豪能代表阿根廷",
+      "onboard_time": 1669088972,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 110034,
       "num": 110034,
       "word": "卿卿日常好笑又好哭",
@@ -907,20 +995,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 103316,
+      "num": 103316,
+      "word": "今晚看梅西阿根廷",
+      "onboard_time": 1669087709,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 101514,
       "num": 67252,
       "word": "荷兰vs塞内加尔",
       "onboard_time": 1669073910,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 101276,
-      "num": 101276,
-      "word": "马斯克恐失去世界首富位置",
-      "onboard_time": 1669087469,
-      "rank": 49,
-      "category": "科技,财经"
     },
     {
       "raw_hot": 94813,
