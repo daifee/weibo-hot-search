@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1669120966853,
+  "endTime": 1669122260110,
   "band_list": [
     {
       "raw_hot": 13131209,
@@ -635,6 +635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2357039,
+      "num": 2357039,
+      "word": "苏醒最不快乐的一天",
+      "onboard_time": 1669120973,
+      "rank": 3,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 2355748,
       "num": 573236,
       "word": "37岁女子流产停胎26次后得女",
@@ -1020,7 +1028,7 @@
     },
     {
       "raw_hot": 1962461,
-      "num": 995671,
+      "num": 1151430,
       "word": "心疼梅西",
       "onboard_time": 1669119368,
       "rank": 10,
@@ -1313,6 +1321,14 @@
       "onboard_time": 1668852327,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1807608,
+      "num": 1807608,
+      "word": "沙特赔率",
+      "onboard_time": 1669119894,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 1806702,
@@ -3027,6 +3043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1178283,
+      "num": 1178283,
+      "word": "郝葭生产",
+      "onboard_time": 1669119424,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1177631,
       "num": 967906,
       "word": "于和伟 陪跑",
@@ -3579,14 +3603,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1070360,
-      "num": 1070360,
-      "word": "郝葭生产",
-      "onboard_time": 1669119424,
-      "rank": 8,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1070282,
       "num": 1070282,
       "word": "真实的石家庄到底是什么样",
@@ -4091,6 +4107,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1004054,
+      "num": 1004054,
+      "word": "郑州疫情防控",
+      "onboard_time": 1669117777,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1003777,
       "num": 517532,
       "word": "EXO六人合体视频",
@@ -4216,6 +4240,14 @@
       "word": "刘氏兄弟公开回应更改国籍",
       "onboard_time": 1668744869,
       "rank": 20,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 980438,
+      "num": 980438,
+      "word": "阿根廷队36场不败纪录被终止",
+      "onboard_time": 1669119782,
+      "rank": 16,
       "category": "体育"
     },
     {
@@ -4505,14 +4537,6 @@
       "onboard_time": 1668070828,
       "rank": 1,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 941307,
-      "num": 941307,
-      "word": "郑州疫情防控",
-      "onboard_time": 1669117777,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 940656,
@@ -5473,14 +5497,6 @@
       "onboard_time": 1667397446,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 838554,
-      "num": 838554,
-      "word": "沙特赔率",
-      "onboard_time": 1669119894,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 838365,
@@ -6811,14 +6827,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 714479,
-      "num": 714479,
-      "word": "阿根廷队36场不败纪录被终止",
-      "onboard_time": 1669119782,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 714292,
       "num": 714292,
       "word": "王鹤棣又跳Gwalla",
@@ -7939,6 +7947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 645698,
+      "num": 308378,
+      "word": "世界杯天台开始排队",
+      "onboard_time": 1669121085,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 645312,
       "num": 645312,
       "word": "王鹤棣张凌赫下凡历劫",
@@ -8609,6 +8625,14 @@
       "onboard_time": 1668554241,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 609409,
+      "num": 609409,
+      "word": "丹麦vs突尼斯",
+      "onboard_time": 1669119368,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 609265,
@@ -10859,6 +10883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 517217,
+      "num": 517217,
+      "word": "秦施被排挤",
+      "onboard_time": 1669119306,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 516709,
       "num": 516709,
       "word": "郑州航空港区全域静态管理",
@@ -12513,6 +12545,14 @@
       "onboard_time": 1668827187,
       "rank": 25,
       "category": "教育"
+    },
+    {
+      "raw_hot": 466732,
+      "num": 466732,
+      "word": "60岁大爷吃生蒜杀菌延误病情致癌",
+      "onboard_time": 1669119838,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 466453,
@@ -14193,14 +14233,6 @@
       "onboard_time": 1668683788,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 424391,
-      "num": 424391,
-      "word": "秦施被排挤",
-      "onboard_time": 1669119306,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 424332,
@@ -19083,12 +19115,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 324109,
-      "num": 324109,
-      "word": "丹麦vs突尼斯",
-      "onboard_time": 1669119368,
-      "rank": 33,
-      "category": "体育"
+      "raw_hot": 324089,
+      "num": 324089,
+      "word": "陈小纭郝葭想逃却逃不掉",
+      "onboard_time": 1669121865,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 324015,
@@ -20203,6 +20235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 307379,
+      "num": 307379,
+      "word": "沙特胜了阿根廷",
+      "onboard_time": 1669121447,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 306955,
       "num": 306955,
       "word": "GEN官宣世冠KIC阵容",
@@ -20297,6 +20337,14 @@
       "onboard_time": 1668785670,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 305946,
+      "num": 211744,
+      "word": "詹俊",
+      "onboard_time": 1669120786,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 305868,
@@ -23099,6 +23147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 263183,
+      "num": 263183,
+      "word": "警方回应男子夜钓时钓到一具浮尸",
+      "onboard_time": 1669121806,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 263114,
       "num": 263114,
       "word": "小狗连吧唧嘴都那么可爱",
@@ -23108,7 +23164,7 @@
     },
     {
       "raw_hot": 263105,
-      "num": 293880,
+      "num": 308566,
       "word": "看见了五彩斑斓的黑夜",
       "onboard_time": 1669120907,
       "rank": 36,
@@ -23144,14 +23200,6 @@
       "word": "武汉一人工湖中钓起鳄雀鳝",
       "onboard_time": 1667886506,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 262496,
-      "num": 262496,
-      "word": "60岁大爷吃生蒜杀菌延误病情致癌",
-      "onboard_time": 1669119838,
-      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -24371,6 +24419,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 244593,
+      "num": 244593,
+      "word": "虽然我不懂球但我懂帅哥",
+      "onboard_time": 1669121683,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 244517,
       "num": 244517,
       "word": "绒山羊神似慢羊羊",
@@ -24425,6 +24481,14 @@
       "onboard_time": 1668486513,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 243826,
+      "num": 243826,
+      "word": "砸电视",
+      "onboard_time": 1669121865,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 243693,
@@ -25043,6 +25107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 234802,
+      "num": 234802,
+      "word": "秦施阳华拍婚纱照",
+      "onboard_time": 1669118620,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 234784,
       "num": 234784,
       "word": "6岁男孩从墙缝里救出2岁男孩",
@@ -25313,6 +25385,14 @@
       "onboard_time": 1669041948,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 232069,
+      "num": 232069,
+      "word": "时代少年团三周年直播明天见",
+      "onboard_time": 1669121267,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 232068,
@@ -26040,14 +26120,6 @@
       "word": "杨幂白宇谢谢你医生豆瓣开分6.3分",
       "onboard_time": 1668773969,
       "rank": 25,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 224939,
-      "num": 224939,
-      "word": "秦施阳华拍婚纱照",
-      "onboard_time": 1669118620,
-      "rank": 41,
       "category": "影视"
     },
     {
@@ -27611,14 +27683,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 208606,
-      "num": 208606,
-      "word": "詹俊",
-      "onboard_time": 1669120786,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 208556,
       "num": 208556,
       "word": "司机家属逐一反驳特斯拉回应",
@@ -28065,6 +28129,14 @@
       "onboard_time": 1667769913,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 203941,
+      "num": 216233,
+      "word": "摄影师为什么迷上手机摄影",
+      "onboard_time": 1669121509,
+      "rank": 45,
+      "category": "科技"
     },
     {
       "raw_hot": 203891,
@@ -29673,6 +29745,14 @@
       "onboard_time": 1667621487,
       "rank": 49,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 190271,
+      "num": 201824,
+      "word": "不用脚架也能拍星空",
+      "onboard_time": 1669121509,
+      "rank": 49,
+      "category": "科技"
     },
     {
       "raw_hot": 190253,
@@ -40172,7 +40252,7 @@
     },
     {
       "raw_hot": 111536,
-      "num": 597563,
+      "num": 1010481,
       "word": "vivoX90发布会",
       "onboard_time": 1669119191,
       "rank": 19,

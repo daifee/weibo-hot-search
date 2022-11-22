@@ -1,6 +1,6 @@
 {
   "startTime": 1669048272938,
-  "endTime": 1669120966853,
+  "endTime": 1669122260110,
   "band_list": [
     {
       "raw_hot": 13131209,
@@ -51,6 +51,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 2357039,
+      "num": 2357039,
+      "word": "苏醒最不快乐的一天",
+      "onboard_time": 1669120973,
+      "rank": 3,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 2321254,
       "num": 2321254,
       "word": "梅西好像在这一刻释怀了",
@@ -76,7 +84,7 @@
     },
     {
       "raw_hot": 1962461,
-      "num": 995671,
+      "num": 1151430,
       "word": "心疼梅西",
       "onboard_time": 1669119368,
       "rank": 10,
@@ -89,6 +97,14 @@
       "onboard_time": 1669080153,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1807608,
+      "num": 1807608,
+      "word": "沙特赔率",
+      "onboard_time": 1669119894,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 1738191,
@@ -179,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1178283,
+      "num": 1178283,
+      "word": "郝葭生产",
+      "onboard_time": 1669119424,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1163613,
       "num": 1163613,
       "word": "阿根廷半场1比0沙特",
@@ -193,14 +217,6 @@
       "onboard_time": 1669103311,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1070360,
-      "num": 1070360,
-      "word": "郝葭生产",
-      "onboard_time": 1669119424,
-      "rank": 8,
-      "category": "影视"
     },
     {
       "raw_hot": 1048708,
@@ -227,6 +243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1004054,
+      "num": 1004054,
+      "word": "郑州疫情防控",
+      "onboard_time": 1669117777,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1000806,
       "num": 1000806,
       "word": "沙特 造越位",
@@ -241,6 +265,14 @@
       "onboard_time": 1669094314,
       "rank": 48,
       "category": "体育,旅游"
+    },
+    {
+      "raw_hot": 980438,
+      "num": 980438,
+      "word": "阿根廷队36场不败纪录被终止",
+      "onboard_time": 1669119782,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 961699,
@@ -265,14 +297,6 @@
       "onboard_time": 1669077034,
       "rank": 4,
       "category": "国外要闻,艺人"
-    },
-    {
-      "raw_hot": 941307,
-      "num": 941307,
-      "word": "郑州疫情防控",
-      "onboard_time": 1669117777,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 904253,
@@ -315,14 +339,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 838554,
-      "num": 838554,
-      "word": "沙特赔率",
-      "onboard_time": 1669119894,
-      "rank": 13,
-      "category": "体育"
-    },
-    {
       "raw_hot": 822360,
       "num": 822360,
       "word": "李峋朱韵没有分手",
@@ -361,14 +377,6 @@
       "onboard_time": 1669086632,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 714479,
-      "num": 714479,
-      "word": "阿根廷队36场不败纪录被终止",
-      "onboard_time": 1669119782,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 709688,
@@ -435,6 +443,14 @@
       "category": "综艺,时尚"
     },
     {
+      "raw_hot": 645698,
+      "num": 308378,
+      "word": "世界杯天台开始排队",
+      "onboard_time": 1669121085,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 635353,
       "num": 635353,
       "word": "沙特替补席狂欢庆祝",
@@ -489,6 +505,14 @@
       "onboard_time": 1669094675,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 609409,
+      "num": 609409,
+      "word": "丹麦vs突尼斯",
+      "onboard_time": 1669119368,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 587421,
@@ -592,6 +616,14 @@
       "word": "王鹤棣新剧开机上班路透",
       "onboard_time": 1669083813,
       "rank": 7,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 517217,
+      "num": 517217,
+      "word": "秦施被排挤",
+      "onboard_time": 1669119306,
+      "rank": 25,
       "category": "影视"
     },
     {
@@ -715,6 +747,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 466732,
+      "num": 466732,
+      "word": "60岁大爷吃生蒜杀菌延误病情致癌",
+      "onboard_time": 1669119838,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 465546,
       "num": 465546,
       "word": "世界杯为什么没有英国队",
@@ -819,14 +859,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 424391,
-      "num": 424391,
-      "word": "秦施被排挤",
-      "onboard_time": 1669119306,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
       "raw_hot": 416418,
       "num": 364076,
       "word": "刘强东投入数百亿给员工买房",
@@ -905,6 +937,14 @@
       "onboard_time": 1669074691,
       "rank": 28,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 385858,
+      "num": 385858,
+      "word": "卡塔尔",
+      "onboard_time": 1669121151,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 379820,
@@ -1123,12 +1163,12 @@
       "category": "综艺,时尚"
     },
     {
-      "raw_hot": 324109,
-      "num": 324109,
-      "word": "丹麦vs突尼斯",
-      "onboard_time": 1669119368,
-      "rank": 33,
-      "category": "体育"
+      "raw_hot": 324089,
+      "num": 324089,
+      "word": "陈小纭郝葭想逃却逃不掉",
+      "onboard_time": 1669121865,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 321528,
@@ -1179,6 +1219,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 307379,
+      "num": 307379,
+      "word": "沙特胜了阿根廷",
+      "onboard_time": 1669121447,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 306856,
       "num": 306856,
       "word": "以爱为营",
@@ -1201,6 +1249,14 @@
       "onboard_time": 1669110510,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 305946,
+      "num": 211744,
+      "word": "詹俊",
+      "onboard_time": 1669120786,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 303793,
@@ -1347,19 +1403,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 263105,
-      "num": 293880,
-      "word": "看见了五彩斑斓的黑夜",
-      "onboard_time": 1669120907,
-      "rank": 36,
+      "raw_hot": 263183,
+      "num": 263183,
+      "word": "警方回应男子夜钓时钓到一具浮尸",
+      "onboard_time": 1669121806,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 262496,
-      "num": 262496,
-      "word": "60岁大爷吃生蒜杀菌延误病情致癌",
-      "onboard_time": 1669119838,
-      "rank": 37,
+      "raw_hot": 263105,
+      "num": 308566,
+      "word": "看见了五彩斑斓的黑夜",
+      "onboard_time": 1669120907,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -1451,6 +1507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 244593,
+      "num": 244593,
+      "word": "虽然我不懂球但我懂帅哥",
+      "onboard_time": 1669121683,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 244209,
       "num": 244209,
       "word": "肉摊主见女子困难慷慨赠8斤肉和油",
@@ -1465,6 +1529,14 @@
       "onboard_time": 1669090475,
       "rank": 35,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 243826,
+      "num": 243826,
+      "word": "砸电视",
+      "onboard_time": 1669121865,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 242233,
@@ -1497,6 +1569,22 @@
       "onboard_time": 1669106494,
       "rank": 42,
       "category": "美食"
+    },
+    {
+      "raw_hot": 234802,
+      "num": 234802,
+      "word": "秦施阳华拍婚纱照",
+      "onboard_time": 1669118620,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 232069,
+      "num": 232069,
+      "word": "时代少年团三周年直播明天见",
+      "onboard_time": 1669121267,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 231939,
@@ -1537,14 +1625,6 @@
       "onboard_time": 1669100793,
       "rank": 30,
       "category": "科技"
-    },
-    {
-      "raw_hot": 224939,
-      "num": 224939,
-      "word": "秦施阳华拍婚纱照",
-      "onboard_time": 1669118620,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 224413,
@@ -1675,12 +1755,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 208606,
-      "num": 208606,
-      "word": "詹俊",
-      "onboard_time": 1669120786,
+      "raw_hot": 203941,
+      "num": 216233,
+      "word": "摄影师为什么迷上手机摄影",
+      "onboard_time": 1669121509,
       "rank": 45,
-      "category": "体育"
+      "category": "科技"
     },
     {
       "raw_hot": 202459,
@@ -1849,6 +1929,14 @@
       "onboard_time": 1669089338,
       "rank": 36,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 190271,
+      "num": 201824,
+      "word": "不用脚架也能拍星空",
+      "onboard_time": 1669121509,
+      "rank": 49,
+      "category": "科技"
     },
     {
       "raw_hot": 187576,
@@ -2580,7 +2668,7 @@
     },
     {
       "raw_hot": 111536,
-      "num": 597563,
+      "num": 1010481,
       "word": "vivoX90发布会",
       "onboard_time": 1669119191,
       "rank": 19,
