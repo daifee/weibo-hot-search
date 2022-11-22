@@ -1,6 +1,6 @@
 {
   "startTime": 1668961718135,
-  "endTime": 1669159215425,
+  "endTime": 1669160125509,
   "band_list": [
     {
       "raw_hot": 13131209,
@@ -883,6 +883,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 745981,
+      "num": 745981,
+      "word": "法国4比1澳大利亚",
+      "onboard_time": 1669151832,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 745839,
       "num": 745839,
       "word": "JDG官宣Yagao成为自由人",
@@ -1009,14 +1017,6 @@
       "onboard_time": 1669125762,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 693659,
-      "num": 693659,
-      "word": "法国4比1澳大利亚",
-      "onboard_time": 1669151832,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 688791,
@@ -1352,6 +1352,14 @@
       "word": "孩子书包鼓鼓的没一本书全是战利品",
       "onboard_time": 1668992611,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 561724,
+      "num": 561724,
+      "word": "男子刷信用卡6千打赏女主播被拉黑",
+      "onboard_time": 1669155495,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -1811,6 +1819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 449993,
+      "num": 449993,
+      "word": "阿根廷出线",
+      "onboard_time": 1669122281,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 449557,
       "num": 449557,
       "word": "塞内加尔vs荷兰",
@@ -1865,14 +1881,6 @@
       "onboard_time": 1669020095,
       "rank": 35,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 442910,
-      "num": 442910,
-      "word": "男子刷信用卡6千打赏女主播被拉黑",
-      "onboard_time": 1669155495,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 442698,
@@ -2257,6 +2265,14 @@
       "onboard_time": 1669007498,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 386309,
+      "num": 386309,
+      "word": "上海宝妈花140万将地下室改成魔法屋",
+      "onboard_time": 1669133195,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 385858,
@@ -2739,22 +2755,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 330268,
-      "num": 330268,
-      "word": "上海宝妈花140万将地下室改成魔法屋",
-      "onboard_time": 1669133195,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 330187,
-      "num": 330187,
-      "word": "阿根廷出线",
-      "onboard_time": 1669122281,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 329805,
       "num": 329805,
       "word": "原来这么多明星喜欢梅西",
@@ -3011,6 +3011,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 293847,
+      "num": 293847,
+      "word": "沙特球迷庆祝胜利把家里门拆了",
+      "onboard_time": 1669134692,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 292194,
       "num": 292194,
       "word": "世界杯首日一医院收治20多位球迷",
@@ -3081,14 +3089,6 @@
       "onboard_time": 1669042182,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 284899,
-      "num": 284899,
-      "word": "沙特球迷庆祝胜利把家里门拆了",
-      "onboard_time": 1669134692,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 284702,
@@ -3451,6 +3451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 250269,
+      "num": 250269,
+      "word": "WayV Phantom",
+      "onboard_time": 1669159344,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 249711,
       "num": 249711,
       "word": "徐黎娜给李峋送饭送车送房",
@@ -3497,6 +3505,14 @@
       "onboard_time": 1669116515,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 245289,
+      "num": 245289,
+      "word": "姆巴佩头球破门",
+      "onboard_time": 1669151832,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 244209,
@@ -3699,14 +3715,6 @@
       "category": "游戏,社会新闻"
     },
     {
-      "raw_hot": 223486,
-      "num": 223486,
-      "word": "姆巴佩头球破门",
-      "onboard_time": 1669151832,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 221782,
       "num": 221782,
       "word": "高见鸿故意激怒李峋",
@@ -3873,6 +3881,14 @@
       "onboard_time": 1669080753,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 211149,
+      "num": 211149,
+      "word": "男子在卡塔尔逛商场发现纯金手机",
+      "onboard_time": 1669149791,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 211057,
@@ -4209,6 +4225,14 @@
       "onboard_time": 1668963507,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 189803,
+      "num": 189803,
+      "word": "吉鲁破门",
+      "onboard_time": 1669159706,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 189158,
@@ -4627,6 +4651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 164149,
+      "num": 164149,
+      "word": "阿根廷创48年最差开局纪录",
+      "onboard_time": 1669156035,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 163900,
       "num": 278090,
       "word": "vivo首发天玑9200芯片",
@@ -4787,14 +4819,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 153495,
-      "num": 153495,
-      "word": "男子在卡塔尔逛商场发现纯金手机",
-      "onboard_time": 1669149791,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 152708,
       "num": 152708,
       "word": "注会",
@@ -4817,14 +4841,6 @@
       "onboard_time": 1669108594,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 151448,
-      "num": 151448,
-      "word": "阿根廷创48年最差开局纪录",
-      "onboard_time": 1669156035,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 151314,
@@ -5411,6 +5427,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 120422,
+      "num": 120422,
+      "word": "江苏高中生奋力拉回坠楼男孩",
+      "onboard_time": 1669158080,
+      "rank": 41,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 119814,
       "num": 119814,
       "word": "李白的诗有画面了",
@@ -5504,6 +5528,14 @@
       "word": "马刺vs湖人",
       "onboard_time": 1669002810,
       "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 115019,
+      "num": 115019,
+      "word": "世界杯期间被女友上了一课",
+      "onboard_time": 1669140199,
+      "rank": 33,
       "category": "体育"
     },
     {
@@ -5611,6 +5643,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 110673,
+      "num": 110673,
+      "word": "杨幂汤晶媚新剧第一次联手",
+      "onboard_time": 1669135888,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 110405,
       "num": 110405,
       "word": "梅西很自豪能代表阿根廷",
@@ -5699,6 +5739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 108324,
+      "num": 108324,
+      "word": "男子偷转走交往6年女友8.5万余元",
+      "onboard_time": 1669158922,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 107984,
       "num": 107984,
       "word": "许凯爱的二八定律大学球衣路透",
@@ -5731,19 +5779,19 @@
       "category": "情感"
     },
     {
-      "raw_hot": 106392,
-      "num": 106392,
-      "word": "世界杯期间被女友上了一课",
-      "onboard_time": 1669140199,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 106261,
       "num": 106261,
       "word": "勇士战胜火箭",
       "onboard_time": 1669000349,
       "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 105912,
+      "num": 105912,
+      "word": "卡塔尔世界杯连续两场0比0",
+      "onboard_time": 1669147633,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -5931,14 +5979,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 89343,
-      "num": 89343,
-      "word": "杨幂汤晶媚新剧第一次联手",
-      "onboard_time": 1669135888,
-      "rank": 47,
-      "category": "影视"
-    },
-    {
       "raw_hot": 88498,
       "num": 88498,
       "word": "2022中国国际智能传播论坛开场秀",
@@ -5961,14 +6001,6 @@
       "onboard_time": 1669140078,
       "rank": 24,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 87641,
-      "num": 87641,
-      "word": "卡塔尔世界杯连续两场0比0",
-      "onboard_time": 1669147633,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 84221,
@@ -6043,12 +6075,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 72762,
-      "num": 72762,
-      "word": "江苏高中生奋力拉回坠楼男孩",
-      "onboard_time": 1669158080,
-      "rank": 41,
-      "category": "社会正能量"
+      "raw_hot": 74578,
+      "num": 72061,
+      "word": "Doinb",
+      "onboard_time": 1669160069,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 72221,
@@ -6057,6 +6089,14 @@
       "onboard_time": 1669140918,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 71282,
+      "num": 71282,
+      "word": "女孩将筷子插电座致9根手指被切",
+      "onboard_time": 1669159950,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 69009,
@@ -6099,6 +6139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 58742,
+      "num": 130893,
+      "word": "这张中国面孔被很多坦桑尼亚人记住",
+      "onboard_time": 1669144034,
+      "rank": 29,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 56771,
       "num": 141268,
       "word": "深夜看球吃泡面有多爽",
@@ -6113,14 +6161,6 @@
       "onboard_time": 1668974171,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 51379,
-      "num": 109031,
-      "word": "这张中国面孔被很多坦桑尼亚人记住",
-      "onboard_time": 1669144034,
-      "rank": 29,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 50406,
@@ -6169,14 +6209,6 @@
       "onboard_time": 1668978012,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 41431,
-      "num": 41431,
-      "word": "男子偷转走交往6年女友8.5万余元",
-      "onboard_time": 1669158922,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 40730,

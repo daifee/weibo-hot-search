@@ -1,6 +1,6 @@
 {
   "startTime": 1669134647959,
-  "endTime": 1669159215425,
+  "endTime": 1669160125509,
   "band_list": [
     {
       "raw_hot": 3352526,
@@ -83,20 +83,20 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 745981,
+      "num": 745981,
+      "word": "法国4比1澳大利亚",
+      "onboard_time": 1669151832,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 703516,
       "num": 703516,
       "word": "scout",
       "onboard_time": 1669128283,
       "rank": 9,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 693659,
-      "num": 693659,
-      "word": "法国4比1澳大利亚",
-      "onboard_time": 1669151832,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 625073,
@@ -123,6 +123,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 561724,
+      "num": 561724,
+      "word": "男子刷信用卡6千打赏女主播被拉黑",
+      "onboard_time": 1669155495,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 500756,
       "num": 500756,
       "word": "沙特赔率",
@@ -131,12 +139,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 442910,
-      "num": 442910,
-      "word": "男子刷信用卡6千打赏女主播被拉黑",
-      "onboard_time": 1669155495,
+      "raw_hot": 449993,
+      "num": 449993,
+      "word": "阿根廷出线",
+      "onboard_time": 1669122281,
       "rank": 47,
-      "category": "社会新闻"
+      "category": "体育"
     },
     {
       "raw_hot": 438286,
@@ -179,6 +187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 386309,
+      "num": 386309,
+      "word": "上海宝妈花140万将地下室改成魔法屋",
+      "onboard_time": 1669133195,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 384954,
       "num": 384954,
       "word": "姆巴佩",
@@ -211,22 +227,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 330268,
-      "num": 330268,
-      "word": "上海宝妈花140万将地下室改成魔法屋",
-      "onboard_time": 1669133195,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 330187,
-      "num": 330187,
-      "word": "阿根廷出线",
-      "onboard_time": 1669122281,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 327761,
       "num": 327761,
       "word": "警方回应男子夜钓时钓到一具浮尸",
@@ -251,8 +251,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 284899,
-      "num": 284899,
+      "raw_hot": 293847,
+      "num": 293847,
       "word": "沙特球迷庆祝胜利把家里门拆了",
       "onboard_time": 1669134692,
       "rank": 28,
@@ -281,6 +281,22 @@
       "onboard_time": 1669128705,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 250269,
+      "num": 250269,
+      "word": "WayV Phantom",
+      "onboard_time": 1669159344,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 245289,
+      "num": 245289,
+      "word": "姆巴佩头球破门",
+      "onboard_time": 1669151832,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 241385,
@@ -331,14 +347,6 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 223486,
-      "num": 223486,
-      "word": "姆巴佩头球破门",
-      "onboard_time": 1669151832,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 217892,
       "num": 217892,
       "word": "绵阳疫情防控",
@@ -347,11 +355,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 211149,
+      "num": 211149,
+      "word": "男子在卡塔尔逛商场发现纯金手机",
+      "onboard_time": 1669149791,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 203404,
       "num": 203404,
       "word": "世界杯 大冷门",
       "onboard_time": 1669119487,
       "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 189803,
+      "num": 189803,
+      "word": "吉鲁破门",
+      "onboard_time": 1669159706,
+      "rank": 22,
       "category": "体育"
     },
     {
@@ -427,6 +451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 164149,
+      "num": 164149,
+      "word": "阿根廷创48年最差开局纪录",
+      "onboard_time": 1669156035,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 160474,
       "num": 160474,
       "word": "法国vs澳大利亚首发",
@@ -448,22 +480,6 @@
       "word": "梅西好像在这一刻释怀了",
       "onboard_time": 1669112369,
       "rank": 49,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 153495,
-      "num": 153495,
-      "word": "男子在卡塔尔逛商场发现纯金手机",
-      "onboard_time": 1669149791,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 151448,
-      "num": 151448,
-      "word": "阿根廷创48年最差开局纪录",
-      "onboard_time": 1669156035,
-      "rank": 41,
       "category": "体育"
     },
     {
@@ -491,6 +507,30 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 120422,
+      "num": 120422,
+      "word": "江苏高中生奋力拉回坠楼男孩",
+      "onboard_time": 1669158080,
+      "rank": 41,
+      "category": "社会正能量"
+    },
+    {
+      "raw_hot": 115019,
+      "num": 115019,
+      "word": "世界杯期间被女友上了一课",
+      "onboard_time": 1669140199,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 110673,
+      "num": 110673,
+      "word": "杨幂汤晶媚新剧第一次联手",
+      "onboard_time": 1669135888,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 110239,
       "num": 110239,
       "word": "苏醒最不快乐的一天",
@@ -499,11 +539,19 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 106392,
-      "num": 106392,
-      "word": "世界杯期间被女友上了一课",
-      "onboard_time": 1669140199,
-      "rank": 33,
+      "raw_hot": 108324,
+      "num": 108324,
+      "word": "男子偷转走交往6年女友8.5万余元",
+      "onboard_time": 1669158922,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 105912,
+      "num": 105912,
+      "word": "卡塔尔世界杯连续两场0比0",
+      "onboard_time": 1669147633,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -523,14 +571,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 89343,
-      "num": 89343,
-      "word": "杨幂汤晶媚新剧第一次联手",
-      "onboard_time": 1669135888,
-      "rank": 47,
-      "category": "影视"
-    },
-    {
       "raw_hot": 88111,
       "num": 88111,
       "word": "gidle新歌Nxde微醺live",
@@ -539,20 +579,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 87641,
-      "num": 87641,
-      "word": "卡塔尔世界杯连续两场0比0",
-      "onboard_time": 1669147633,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 72762,
-      "num": 72762,
-      "word": "江苏高中生奋力拉回坠楼男孩",
-      "onboard_time": 1669158080,
-      "rank": 41,
-      "category": "社会正能量"
+      "raw_hot": 74578,
+      "num": 72061,
+      "word": "Doinb",
+      "onboard_time": 1669160069,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 72221,
@@ -563,6 +595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 71282,
+      "num": 71282,
+      "word": "女孩将筷子插电座致9根手指被切",
+      "onboard_time": 1669159950,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 69009,
       "num": 69009,
       "word": "破次元许愿季",
@@ -571,8 +611,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 51379,
-      "num": 109031,
+      "raw_hot": 58742,
+      "num": 130893,
       "word": "这张中国面孔被很多坦桑尼亚人记住",
       "onboard_time": 1669144034,
       "rank": 29,
@@ -593,14 +633,6 @@
       "onboard_time": 1669141037,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 41431,
-      "num": 41431,
-      "word": "男子偷转走交往6年女友8.5万余元",
-      "onboard_time": 1669158922,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 40357,
