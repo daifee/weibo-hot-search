@@ -1,10 +1,10 @@
 {
   "startTime": 1669048272938,
-  "endTime": 1669092218189,
+  "endTime": 1669094378008,
   "band_list": [
     {
-      "raw_hot": 2175744,
-      "num": 2175744,
+      "raw_hot": 2842712,
+      "num": 2842712,
       "word": "刘强东发布京东全员信",
       "onboard_time": 1669090656,
       "rank": 15,
@@ -16,6 +16,14 @@
       "word": "男子月挣4000怪妻子花680接头发",
       "onboard_time": 1669080153,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1674121,
+      "num": 551530,
+      "word": "母亲出家裸捐588万女儿贷款上大学",
+      "onboard_time": 1669090779,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -40,14 +48,6 @@
       "word": "别再踩公厕马桶圈了",
       "onboard_time": 1669046794,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1095085,
-      "num": 551530,
-      "word": "母亲出家裸捐588万女儿贷款上大学",
-      "onboard_time": 1669090779,
-      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -171,6 +171,14 @@
       "category": "科技,财经"
     },
     {
+      "raw_hot": 610998,
+      "num": 375114,
+      "word": "白敬亭田曦薇GQ合体",
+      "onboard_time": 1669093360,
+      "rank": 10,
+      "category": "综艺,时尚"
+    },
+    {
       "raw_hot": 568279,
       "num": 568279,
       "word": "英格兰6比2伊朗",
@@ -291,6 +299,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 475813,
+      "num": 475813,
+      "word": "女心理师",
+      "onboard_time": 1669091139,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 475390,
       "num": 475390,
       "word": "世界杯",
@@ -305,6 +321,14 @@
       "onboard_time": 1669083579,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 459884,
+      "num": 374705,
+      "word": "妹妹误将火碱当冰糖冲给姐姐喝",
+      "onboard_time": 1669092397,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 456427,
@@ -403,12 +427,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 361386,
-      "num": 361386,
-      "word": "女心理师",
-      "onboard_time": 1669091139,
-      "rank": 47,
-      "category": "影视"
+      "raw_hot": 352690,
+      "num": 352690,
+      "word": "重庆新增本土确诊178例无症状6157例",
+      "onboard_time": 1669090537,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 344816,
@@ -435,6 +459,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 332797,
+      "num": 252712,
+      "word": "张婧仪说陈飞宇和李峋的反差感",
+      "onboard_time": 1669091560,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 329241,
       "num": 329241,
       "word": "美国1比1威尔士",
@@ -449,14 +481,6 @@
       "onboard_time": 1669034382,
       "rank": 13,
       "category": "影视"
-    },
-    {
-      "raw_hot": 323851,
-      "num": 323851,
-      "word": "重庆新增本土确诊178例无症状6157例",
-      "onboard_time": 1669090537,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 319775,
@@ -499,12 +523,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 287904,
-      "num": 235447,
-      "word": "张婧仪说陈飞宇和李峋的反差感",
-      "onboard_time": 1669091560,
-      "rank": 30,
-      "category": "影视"
+      "raw_hot": 285491,
+      "num": 285491,
+      "word": "将泡面拿进车里有多难",
+      "onboard_time": 1669090235,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 285224,
@@ -521,6 +545,14 @@
       "onboard_time": 1669042182,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 284702,
+      "num": 251084,
+      "word": "妻子的浪漫旅行",
+      "onboard_time": 1669093360,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 274975,
@@ -611,14 +643,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 241602,
-      "num": 241602,
-      "word": "将泡面拿进车里有多难",
-      "onboard_time": 1669090235,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 241570,
       "num": 241570,
       "word": "马宁世界杯首秀",
@@ -633,6 +657,14 @@
       "onboard_time": 1669034382,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 228959,
+      "num": 228959,
+      "word": "蔡徐坤GQ红毯飞行嘉宾",
+      "onboard_time": 1669093957,
+      "rank": 25,
+      "category": "综艺,时尚"
     },
     {
       "raw_hot": 226417,
@@ -689,6 +721,14 @@
       "onboard_time": 1669080753,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 202263,
+      "num": 202263,
+      "word": "肉摊主见女子困难慷慨赠8斤肉和油",
+      "onboard_time": 1669092162,
+      "rank": 49,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 197458,
@@ -755,6 +795,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 187576,
+      "num": 177578,
+      "word": "梅西说带着激情与梦想出战",
+      "onboard_time": 1669093302,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 187078,
       "num": 177806,
       "word": "制片人说陈飞宇就是天选李峋",
@@ -769,6 +817,14 @@
       "onboard_time": 1669043571,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 185973,
+      "num": 174120,
+      "word": "梅西发博晒训练照",
+      "onboard_time": 1669093898,
+      "rank": 35,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 185355,
@@ -899,6 +955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 161372,
+      "num": 161372,
+      "word": "卡塔尔版退钱哥",
+      "onboard_time": 1669093844,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 159165,
       "num": 159165,
       "word": "台湾电价是什么水平",
@@ -921,6 +985,14 @@
       "onboard_time": 1669091919,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 150397,
+      "num": 150397,
+      "word": "村民称安阳着火厂房做工的多为女性",
+      "onboard_time": 1669093838,
+      "rank": 42,
+      "category": "社会负面"
     },
     {
       "raw_hot": 148563,
@@ -971,6 +1043,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 136079,
+      "num": 136079,
+      "word": "应急管理部调度河南厂房火灾救援处置",
+      "onboard_time": 1669093360,
+      "rank": 46,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 135252,
       "num": 135252,
       "word": "世界杯看台上的中国球迷",
@@ -1003,6 +1083,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 131401,
+      "num": 131401,
+      "word": "网红债基富荣中短债一天跌12%",
+      "onboard_time": 1669093601,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 129795,
+      "num": 129795,
+      "word": "卡塔尔和迪拜哪个更富",
+      "onboard_time": 1669094314,
+      "rank": 48,
+      "category": "体育,旅游"
+    },
+    {
       "raw_hot": 128253,
       "num": 128253,
       "word": "边牧和萨摩耶的区别",
@@ -1025,14 +1121,6 @@
       "onboard_time": 1669036479,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 120570,
-      "num": 120570,
-      "word": "肉摊主见女子困难慷慨赠8斤肉和油",
-      "onboard_time": 1669092162,
-      "rank": 49,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 119638,
