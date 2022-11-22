@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/01 00:36:21 ~ 2022/11/22 11:14:42
+本榜单时间：2022/11/01 00:36:21 ~ 2022/11/22 11:24:38
 </p>
 </blockquote>
 <p>
@@ -4689,6 +4689,12 @@ EDG（热度：740315）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E6%8F%90%E9%86%92%E5%A4%A7%E5%AE%B6%E6%B3%A8%E6%84%8F%E5%86%AC%E5%AD%A3%E6%B6%88%E9%98%B2%E5%AE%89%E5%85%A8%23" target="weibo">
+杨紫提醒大家注意冬季消防安全（热度：737692）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%BA%9A%E5%B8%8C%20%E5%A6%86%23" target="weibo">
 李庚希 妆（热度：737452）
 </a>
@@ -6005,12 +6011,6 @@ iPhone14Pro息屏可不显示壁纸（热度：625106）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E5%8E%BB%E6%9C%89%E9%A3%8E%E7%9A%84%E5%9C%B0%E6%96%B9%23" target="weibo">
 刘亦菲去有风的地方（热度：621304）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B8%88%E7%94%A8%E5%8F%8D%E5%90%91%E7%AD%BE%E5%88%B0%E6%9F%A5%E5%87%BA%E9%80%83%E8%AF%BE%E5%AD%A6%E7%94%9F%23" target="weibo">
-老师用反向签到查出逃课学生（热度：620438）
 </a>
 </li>
 

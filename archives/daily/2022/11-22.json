@@ -1,6 +1,6 @@
 {
   "startTime": 1669048272938,
-  "endTime": 1669086882596,
+  "endTime": 1669087478914,
   "band_list": [
     {
       "raw_hot": 1830286,
@@ -75,6 +75,14 @@
       "category": "社会负面,教育"
     },
     {
+      "raw_hot": 737692,
+      "num": 737692,
+      "word": "杨紫提醒大家注意冬季消防安全",
+      "onboard_time": 1669086632,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 675267,
       "num": 675267,
       "word": "中国小伙晒出卡塔尔住宿条件",
@@ -123,20 +131,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 535110,
+      "num": 381436,
+      "word": "中石化与卡塔尔签史上最长液化天然气协议",
+      "onboard_time": 1669085309,
+      "rank": 11,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 527700,
       "num": 527700,
       "word": "贝克汉姆 帅",
       "onboard_time": 1669038403,
       "rank": 7,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 527090,
-      "num": 527090,
-      "word": "杨紫提醒大家注意冬季消防安全",
-      "onboard_time": 1669086632,
-      "rank": 5,
-      "category": "艺人"
     },
     {
       "raw_hot": 523601,
@@ -171,6 +179,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 498978,
+      "num": 498978,
+      "word": "阿根廷vs沙特阿拉伯",
+      "onboard_time": 1669082733,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 495026,
       "num": 385906,
       "word": "方舒苗在何以琛的律所工作",
@@ -185,14 +201,6 @@
       "onboard_time": 1669034564,
       "rank": 11,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 492845,
-      "num": 492845,
-      "word": "阿根廷vs沙特阿拉伯",
-      "onboard_time": 1669082733,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 490569,
@@ -283,20 +291,20 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 381436,
-      "num": 381436,
-      "word": "中石化与卡塔尔签史上最长液化天然气协议",
-      "onboard_time": 1669085309,
-      "rank": 11,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 373756,
       "num": 373756,
       "word": "王鹤棣拍吻戏看到粉丝的表情",
       "onboard_time": 1669077395,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 345256,
+      "num": 345256,
+      "word": "梅西世界杯首秀",
+      "onboard_time": 1669085492,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 344816,
@@ -411,14 +419,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 256904,
-      "num": 256904,
-      "word": "梅西世界杯首秀",
-      "onboard_time": 1669085492,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
       "raw_hot": 255283,
       "num": 255283,
       "word": "A股上市公司数量突破5000家",
@@ -459,12 +459,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 240997,
+      "num": 240997,
+      "word": "卿卿日常是懂取名字的",
+      "onboard_time": 1669087232,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 240985,
       "num": 240985,
       "word": "陶昕然说如果我天天跟孙俪比就只能跳楼",
       "onboard_time": 1669034382,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 230157,
+      "num": 161000,
+      "word": "男子上厕所怕脏踩碎合租房马桶",
+      "onboard_time": 1669086213,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 226417,
@@ -715,14 +731,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 152528,
-      "num": 152528,
-      "word": "男子上厕所怕脏踩碎合租房马桶",
-      "onboard_time": 1669086213,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 148563,
       "num": 162517,
       "word": "手机厂商为何执着自研芯片",
@@ -737,6 +745,14 @@
       "onboard_time": 1669086512,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 146850,
+      "num": 146850,
+      "word": "张婧仪晒和曾可妮姜梓新三人合照",
+      "onboard_time": 1669086750,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 144048,
@@ -787,6 +803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 133010,
+      "num": 133010,
+      "word": "微博视界大会官宣定档",
+      "onboard_time": 1669085972,
+      "rank": 41,
+      "category": "综艺,科技"
+    },
+    {
       "raw_hot": 132569,
       "num": 132569,
       "word": "1岁宝宝不吃奶却爱吃土",
@@ -795,20 +819,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 131041,
-      "num": 131041,
-      "word": "微博视界大会官宣定档",
-      "onboard_time": 1669085972,
-      "rank": 41,
-      "category": "综艺,科技"
-    },
-    {
       "raw_hot": 128253,
       "num": 128253,
       "word": "边牧和萨摩耶的区别",
       "onboard_time": 1669047334,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 123345,
+      "num": 123345,
+      "word": "小雪节气不是指雪下得小",
+      "onboard_time": 1669086993,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 122351,
@@ -859,14 +883,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 112280,
-      "num": 112280,
-      "word": "张婧仪晒和曾可妮姜梓新三人合照",
-      "onboard_time": 1669086750,
-      "rank": 47,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 110034,
       "num": 110034,
       "word": "卿卿日常好笑又好哭",
@@ -897,6 +913,14 @@
       "onboard_time": 1669073910,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 101276,
+      "num": 101276,
+      "word": "马斯克恐失去世界首富位置",
+      "onboard_time": 1669087469,
+      "rank": 49,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 94813,
