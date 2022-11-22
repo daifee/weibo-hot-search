@@ -1,6 +1,6 @@
 {
   "startTime": 1669048272938,
-  "endTime": 1669108881163,
+  "endTime": 1669109827981,
   "band_list": [
     {
       "raw_hot": 2842712,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 1048708,
-      "num": 384833,
+      "num": 407624,
       "word": "肖战打网球潜水冲浪vlog",
       "onboard_time": 1669108111,
       "rank": 11,
@@ -163,6 +163,22 @@
       "category": "社会负面,教育"
     },
     {
+      "raw_hot": 822360,
+      "num": 822360,
+      "word": "李峋朱韵没有分手",
+      "onboard_time": 1669107989,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 815408,
+      "num": 815408,
+      "word": "海底捞4个人多少钱",
+      "onboard_time": 1669107572,
+      "rank": 13,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 748992,
       "num": 748992,
       "word": "中石化与卡塔尔签史上最长液化天然气协议",
@@ -193,6 +209,14 @@
       "onboard_time": 1669087891,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 688791,
+      "num": 688791,
+      "word": "陈乔恩从女儿的恋爱到妻子的旅行",
+      "onboard_time": 1669107450,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 684094,
@@ -403,14 +427,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 495954,
-      "num": 383924,
-      "word": "李峋朱韵没有分手",
-      "onboard_time": 1669107989,
-      "rank": 12,
-      "category": "影视"
-    },
-    {
       "raw_hot": 495026,
       "num": 385906,
       "word": "方舒苗在何以琛的律所工作",
@@ -443,6 +459,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 476181,
+      "num": 476181,
+      "word": "田曦薇李薇眼神变了",
+      "onboard_time": 1669105174,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 475813,
       "num": 475813,
       "word": "女心理师",
@@ -457,14 +481,6 @@
       "onboard_time": 1669078057,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 472972,
-      "num": 380356,
-      "word": "海底捞4个人多少钱",
-      "onboard_time": 1669107572,
-      "rank": 13,
-      "category": "幽默"
     },
     {
       "raw_hot": 472778,
@@ -547,12 +563,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 418845,
+      "num": 404455,
+      "word": "刘强东曾称克扣五险一金是可耻的",
+      "onboard_time": 1669107213,
+      "rank": 19,
+      "category": "科技"
+    },
+    {
       "raw_hot": 416418,
       "num": 364076,
       "word": "刘强东投入数百亿给员工买房",
       "onboard_time": 1669097881,
       "rank": 15,
       "category": "科技"
+    },
+    {
+      "raw_hot": 415161,
+      "num": 405247,
+      "word": "孟美岐眼中粉丝和艺人的良性距离",
+      "onboard_time": 1669105834,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 411168,
@@ -563,12 +595,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 407866,
-      "num": 407866,
-      "word": "田曦薇李薇眼神变了",
-      "onboard_time": 1669105174,
-      "rank": 29,
-      "category": "影视"
+      "raw_hot": 410416,
+      "num": 410416,
+      "word": "小伙入户抢劫失足女5千被判10年",
+      "onboard_time": 1669104872,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 407313,
@@ -603,28 +635,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 403100,
-      "num": 403100,
-      "word": "陈乔恩从女儿的恋爱到妻子的旅行",
-      "onboard_time": 1669107450,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 400543,
       "num": 400543,
       "word": "安阳厂房火灾已致36人死亡",
       "onboard_time": 1669074691,
       "rank": 28,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 390821,
-      "num": 390821,
-      "word": "孟美岐眼中粉丝和艺人的良性距离",
-      "onboard_time": 1669105834,
-      "rank": 19,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 378041,
@@ -673,14 +689,6 @@
       "onboard_time": 1669100733,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 359930,
-      "num": 359930,
-      "word": "小伙入户抢劫失足女5千被判10年",
-      "onboard_time": 1669104872,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 357819,
@@ -787,14 +795,6 @@
       "category": "综艺,时尚"
     },
     {
-      "raw_hot": 321784,
-      "num": 321784,
-      "word": "刘强东曾称克扣五险一金是可耻的",
-      "onboard_time": 1669107213,
-      "rank": 19,
-      "category": "科技"
-    },
-    {
       "raw_hot": 320871,
       "num": 320871,
       "word": "把球交给梅西",
@@ -881,6 +881,14 @@
       "onboard_time": 1669093360,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 283850,
+      "num": 283850,
+      "word": "腾讯视频将上线韩国电影",
+      "onboard_time": 1669109373,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 279992,
@@ -1067,6 +1075,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 231939,
+      "num": 231939,
+      "word": "江母诉刘鑫案择期宣判",
+      "onboard_time": 1669107629,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 226417,
       "num": 226417,
       "word": "命韵峋环",
@@ -1145,6 +1161,14 @@
       "onboard_time": 1669084472,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 216140,
+      "num": 216140,
+      "word": "郑钧让刘芸清理扔旧东西之前问他一声",
+      "onboard_time": 1669108773,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 215403,
@@ -1259,20 +1283,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 186993,
+      "num": 149295,
+      "word": "陈飞宇被男粉丝整无奈了",
+      "onboard_time": 1669109191,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 186903,
       "num": 186903,
       "word": "伊朗守门员",
       "onboard_time": 1669043571,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 186311,
-      "num": 186311,
-      "word": "江母诉刘鑫案择期宣判",
-      "onboard_time": 1669107629,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 185973,
@@ -1320,6 +1344,14 @@
       "word": "井柏然钱开逸限定返场",
       "onboard_time": 1669094974,
       "rank": 34,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 179641,
+      "num": 139571,
+      "word": "山峥海薇撑伞回家",
+      "onboard_time": 1669109551,
+      "rank": 33,
       "category": "影视"
     },
     {
@@ -1443,6 +1475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 167887,
+      "num": 167887,
+      "word": "官方辟谣荔枝园核酸检测造假",
+      "onboard_time": 1669108172,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 163354,
       "num": 163354,
       "word": "伴郎团化身财神爷天团接亲",
@@ -1465,14 +1505,6 @@
       "onboard_time": 1669093838,
       "rank": 42,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 159236,
-      "num": 159236,
-      "word": "郑钧让刘芸清理扔旧东西之前问他一声",
-      "onboard_time": 1669108773,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 159165,
@@ -1595,20 +1627,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 142460,
-      "num": 142460,
-      "word": "官方辟谣荔枝园核酸检测造假",
-      "onboard_time": 1669108172,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 139599,
       "num": 139599,
       "word": "喜剧大赛2师哥师姐回归",
       "onboard_time": 1669096955,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 138684,
+      "num": 817063,
+      "word": "哪届世界杯吉祥物是你最爱",
+      "onboard_time": 1669098335,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 137388,
@@ -1707,6 +1739,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 128749,
+      "num": 128749,
+      "word": "还记得19岁的梅西吗",
+      "onboard_time": 1669109191,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 128253,
       "num": 128253,
       "word": "边牧和萨摩耶的区别",
@@ -1715,12 +1755,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 127810,
+      "num": 127810,
+      "word": "WBG的周年心愿瓶",
+      "onboard_time": 1669109610,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 124987,
       "num": 124987,
       "word": "陈飞宇说命韵峋环肯定是真爱",
       "onboard_time": 1669104152,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 124841,
+      "num": 124841,
+      "word": "在卡塔尔看球还能看车展",
+      "onboard_time": 1669108773,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 123598,
@@ -1763,14 +1819,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 118549,
-      "num": 592751,
-      "word": "哪届世界杯吉祥物是你最爱",
-      "onboard_time": 1669098335,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 117101,
       "num": 117101,
       "word": "原来跳高也很有观赏性",
@@ -1779,12 +1827,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 117009,
+      "num": 117009,
+      "word": "乌龙球比比赛更精彩",
+      "onboard_time": 1669109610,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 116194,
+      "num": 116194,
+      "word": "男友用追星的方式介绍球队",
+      "onboard_time": 1669109551,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 115943,
       "num": 121081,
       "word": "如何提升独居幸福感",
       "onboard_time": 1669105593,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 114956,
+      "num": 114956,
+      "word": "把钢琴弹出了古筝的样子",
+      "onboard_time": 1669109251,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 114732,
@@ -1859,19 +1931,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 107780,
+      "num": 107780,
+      "word": "足球场上的一堵墙",
+      "onboard_time": 1669109373,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 105874,
       "num": 105874,
       "word": "37岁C罗大腿恐怖肌肉",
       "onboard_time": 1669064173,
       "rank": 24,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 105210,
-      "num": 105210,
-      "word": "在卡塔尔看球还能看车展",
-      "onboard_time": 1669108773,
-      "rank": 49,
       "category": "体育"
     },
     {

@@ -1,6 +1,6 @@
 {
   "startTime": 1668961718135,
-  "endTime": 1669108881163,
+  "endTime": 1669109827981,
   "band_list": [
     {
       "raw_hot": 4068058,
@@ -316,7 +316,7 @@
     },
     {
       "raw_hot": 1048708,
-      "num": 384833,
+      "num": 407624,
       "word": "肖战打网球潜水冲浪vlog",
       "onboard_time": 1669108111,
       "rank": 11,
@@ -507,6 +507,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 822360,
+      "num": 822360,
+      "word": "李峋朱韵没有分手",
+      "onboard_time": 1669107989,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 815408,
+      "num": 815408,
+      "word": "海底捞4个人多少钱",
+      "onboard_time": 1669107572,
+      "rank": 13,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 809086,
       "num": 809086,
       "word": "卡塔尔在当一种很新的东道主",
@@ -633,6 +649,14 @@
       "onboard_time": 1669042724,
       "rank": 15,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 688791,
+      "num": 688791,
+      "word": "陈乔恩从女儿的恋爱到妻子的旅行",
+      "onboard_time": 1669107450,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 684094,
@@ -1051,14 +1075,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 495954,
-      "num": 383924,
-      "word": "李峋朱韵没有分手",
-      "onboard_time": 1669107989,
-      "rank": 12,
-      "category": "影视"
-    },
-    {
       "raw_hot": 495026,
       "num": 416762,
       "word": "方舒苗在何以琛的律所工作",
@@ -1139,6 +1155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 476181,
+      "num": 476181,
+      "word": "田曦薇李薇眼神变了",
+      "onboard_time": 1669105174,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 475813,
       "num": 475813,
       "word": "女心理师",
@@ -1153,14 +1177,6 @@
       "onboard_time": 1668907471,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 472972,
-      "num": 380356,
-      "word": "海底捞4个人多少钱",
-      "onboard_time": 1669107572,
-      "rank": 13,
-      "category": "幽默"
     },
     {
       "raw_hot": 472778,
@@ -1371,6 +1387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 418845,
+      "num": 404455,
+      "word": "刘强东曾称克扣五险一金是可耻的",
+      "onboard_time": 1669107213,
+      "rank": 19,
+      "category": "科技"
+    },
+    {
       "raw_hot": 418582,
       "num": 418582,
       "word": "命韵峋环终于回来了",
@@ -1385,6 +1409,14 @@
       "onboard_time": 1669097881,
       "rank": 15,
       "category": "科技"
+    },
+    {
+      "raw_hot": 415161,
+      "num": 405247,
+      "word": "孟美岐眼中粉丝和艺人的良性距离",
+      "onboard_time": 1669105834,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 414154,
@@ -1427,20 +1459,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 410416,
+      "num": 410416,
+      "word": "小伙入户抢劫失足女5千被判10年",
+      "onboard_time": 1669104872,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 409189,
       "num": 409189,
       "word": "240斤男子为结婚5个月减90斤",
       "onboard_time": 1669012772,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 407866,
-      "num": 407866,
-      "word": "田曦薇李薇眼神变了",
-      "onboard_time": 1669105174,
-      "rank": 29,
-      "category": "影视"
     },
     {
       "raw_hot": 407478,
@@ -1483,14 +1515,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 403100,
-      "num": 403100,
-      "word": "陈乔恩从女儿的恋爱到妻子的旅行",
-      "onboard_time": 1669107450,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 402281,
       "num": 402281,
       "word": "天空飘来好大的馄饨皮",
@@ -1529,14 +1553,6 @@
       "onboard_time": 1669025616,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 390821,
-      "num": 390821,
-      "word": "孟美岐眼中粉丝和艺人的良性距离",
-      "onboard_time": 1669105834,
-      "rank": 19,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 389232,
@@ -1705,14 +1721,6 @@
       "onboard_time": 1669100733,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 359930,
-      "num": 359930,
-      "word": "小伙入户抢劫失足女5千被判10年",
-      "onboard_time": 1669104872,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 358260,
@@ -1979,14 +1987,6 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 321784,
-      "num": 321784,
-      "word": "刘强东曾称克扣五险一金是可耻的",
-      "onboard_time": 1669107213,
-      "rank": 19,
-      "category": "科技"
-    },
-    {
       "raw_hot": 320871,
       "num": 320871,
       "word": "把球交给梅西",
@@ -2161,6 +2161,14 @@
       "onboard_time": 1669093360,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 283850,
+      "num": 283850,
+      "word": "腾讯视频将上线韩国电影",
+      "onboard_time": 1669109373,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 282518,
@@ -2555,6 +2563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 231939,
+      "num": 231939,
+      "word": "江母诉刘鑫案择期宣判",
+      "onboard_time": 1669107629,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 228293,
       "num": 228293,
       "word": "柯南足球水平",
@@ -2697,6 +2713,14 @@
       "onboard_time": 1669084472,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 216140,
+      "num": 216140,
+      "word": "郑钧让刘芸清理扔旧东西之前问他一声",
+      "onboard_time": 1669108773,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 215403,
@@ -2955,6 +2979,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 186993,
+      "num": 149295,
+      "word": "陈飞宇被男粉丝整无奈了",
+      "onboard_time": 1669109191,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 186898,
       "num": 186898,
       "word": "单臂舅舅冒雨跪地摘葡萄救患癌外甥",
@@ -2969,14 +3001,6 @@
       "onboard_time": 1669011933,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 186311,
-      "num": 186311,
-      "word": "江母诉刘鑫案择期宣判",
-      "onboard_time": 1669107629,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 185973,
@@ -3040,6 +3064,14 @@
       "word": "井柏然钱开逸限定返场",
       "onboard_time": 1669094974,
       "rank": 34,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 179641,
+      "num": 139571,
+      "word": "山峥海薇撑伞回家",
+      "onboard_time": 1669109551,
+      "rank": 33,
       "category": "影视"
     },
     {
@@ -3267,6 +3299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 167887,
+      "num": 167887,
+      "word": "官方辟谣荔枝园核酸检测造假",
+      "onboard_time": 1669108172,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 163878,
       "num": 163878,
       "word": "男孩被卷车底路人30秒极速救援",
@@ -3329,14 +3369,6 @@
       "onboard_time": 1669006596,
       "rank": 43,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 159236,
-      "num": 159236,
-      "word": "郑钧让刘芸清理扔旧东西之前问他一声",
-      "onboard_time": 1669108773,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 158691,
@@ -3603,14 +3635,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 142460,
-      "num": 142460,
-      "word": "官方辟谣荔枝园核酸检测造假",
-      "onboard_time": 1669108172,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 141584,
       "num": 135967,
       "word": "英格兰世界杯首战告捷",
@@ -3673,6 +3697,14 @@
       "onboard_time": 1669010129,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 138684,
+      "num": 817063,
+      "word": "哪届世界杯吉祥物是你最爱",
+      "onboard_time": 1669098335,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 138321,
@@ -3843,12 +3875,28 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 128749,
+      "num": 128749,
+      "word": "还记得19岁的梅西吗",
+      "onboard_time": 1669109191,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 128253,
       "num": 128253,
       "word": "边牧和萨摩耶的区别",
       "onboard_time": 1669047334,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 127810,
+      "num": 127810,
+      "word": "WBG的周年心愿瓶",
+      "onboard_time": 1669109610,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 126770,
@@ -3897,6 +3945,14 @@
       "onboard_time": 1669104152,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 124841,
+      "num": 124841,
+      "word": "在卡塔尔看球还能看车展",
+      "onboard_time": 1669108773,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 124449,
@@ -3979,14 +4035,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 118549,
-      "num": 592751,
-      "word": "哪届世界杯吉祥物是你最爱",
-      "onboard_time": 1669098335,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 117116,
       "num": 117116,
       "word": "原来真有人装户外空调",
@@ -4003,11 +4051,27 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 117009,
+      "num": 117009,
+      "word": "乌龙球比比赛更精彩",
+      "onboard_time": 1669109610,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 116845,
       "num": 116845,
       "word": "谢谢你维特尔",
       "onboard_time": 1668961107,
       "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 116194,
+      "num": 116194,
+      "word": "男友用追星的方式介绍球队",
+      "onboard_time": 1669109551,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -4033,6 +4097,14 @@
       "onboard_time": 1668965061,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 114956,
+      "num": 114956,
+      "word": "把钢琴弹出了古筝的样子",
+      "onboard_time": 1669109251,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 114732,
@@ -4203,6 +4275,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 107780,
+      "num": 107780,
+      "word": "足球场上的一堵墙",
+      "onboard_time": 1669109373,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 106950,
       "num": 106950,
       "word": "世界杯分组",
@@ -4247,14 +4327,6 @@
       "num": 105280,
       "word": "中国蹴鞠走进卡塔尔世界杯",
       "onboard_time": 1669026456,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 105210,
-      "num": 105210,
-      "word": "在卡塔尔看球还能看车展",
-      "onboard_time": 1669108773,
       "rank": 49,
       "category": "体育"
     },
