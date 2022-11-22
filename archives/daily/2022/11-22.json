@@ -1,6 +1,6 @@
 {
   "startTime": 1669048272938,
-  "endTime": 1669101619404,
+  "endTime": 1669102502062,
   "band_list": [
     {
       "raw_hot": 2842712,
@@ -43,20 +43,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1533189,
+      "num": 421417,
+      "word": "重庆核酸",
+      "onboard_time": 1669097914,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1512191,
       "num": 1512191,
       "word": "杜海涛为证明瘦了踩毛不易腿上",
       "onboard_time": 1669080815,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1363689,
-      "num": 421417,
-      "word": "重庆核酸",
-      "onboard_time": 1669097914,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1180241,
@@ -251,11 +251,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 545006,
+      "num": 545006,
+      "word": "卡塔尔王子看了都愣住",
+      "onboard_time": 1669100494,
+      "rank": 12,
+      "category": "体育,幽默"
+    },
+    {
       "raw_hot": 542179,
       "num": 542179,
       "word": "宝妈将宝宝放进手提篮被质疑不安全",
       "onboard_time": 1669076315,
       "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 538250,
+      "num": 538250,
+      "word": "街道回应小区喊话外来人员格杀勿论",
+      "onboard_time": 1669096895,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -355,14 +371,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 484158,
-      "num": 484158,
-      "word": "街道回应小区喊话外来人员格杀勿论",
-      "onboard_time": 1669096895,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 481491,
       "num": 303983,
       "word": "郭晓婷晒C罗签名球服",
@@ -401,6 +409,14 @@
       "onboard_time": 1669083579,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 465546,
+      "num": 465546,
+      "word": "世界杯为什么没有英国队",
+      "onboard_time": 1669098932,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 456427,
@@ -451,6 +467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 416418,
+      "num": 364076,
+      "word": "刘强东投入数百亿给员工买房",
+      "onboard_time": 1669097881,
+      "rank": 15,
+      "category": "科技"
+    },
+    {
       "raw_hot": 411168,
       "num": 411168,
       "word": "交警破译男子咒语式停车电话",
@@ -473,6 +497,14 @@
       "onboard_time": 1669073305,
       "rank": 30,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 405040,
+      "num": 366711,
+      "word": "街道办回应太原城管跪压司机头部",
+      "onboard_time": 1669099592,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 400543,
@@ -499,22 +531,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 372358,
-      "num": 372358,
-      "word": "卡塔尔王子看了都愣住",
-      "onboard_time": 1669100494,
-      "rank": 12,
-      "category": "体育,幽默"
-    },
-    {
-      "raw_hot": 366711,
-      "num": 366711,
-      "word": "街道办回应太原城管跪压司机头部",
-      "onboard_time": 1669099592,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 366424,
       "num": 366424,
       "word": "小雪的第一份炸鸡",
@@ -523,20 +539,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 364717,
-      "num": 364717,
-      "word": "世界杯为什么没有英国队",
-      "onboard_time": 1669098932,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 364076,
-      "num": 364076,
-      "word": "刘强东投入数百亿给员工买房",
-      "onboard_time": 1669097881,
-      "rank": 15,
-      "category": "科技"
+      "raw_hot": 360984,
+      "num": 360984,
+      "word": "郑恺苗苗首个合体综艺",
+      "onboard_time": 1669100733,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 357819,
@@ -545,6 +553,14 @@
       "onboard_time": 1669097195,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 355108,
+      "num": 355108,
+      "word": "胡彦斌对宋宁峰感同身受",
+      "onboard_time": 1669099952,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 352690,
@@ -635,14 +651,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 318602,
-      "num": 318602,
-      "word": "胡彦斌对宋宁峰感同身受",
-      "onboard_time": 1669099952,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 313944,
       "num": 313944,
       "word": "小狗门口玩耍被人放2猎犬咬死",
@@ -683,6 +691,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 287407,
+      "num": 287407,
+      "word": "男子称永辉超市买牛肉实为猪肉",
+      "onboard_time": 1669100014,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 285491,
       "num": 285491,
       "word": "将泡面拿进车里有多难",
@@ -715,6 +731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 284697,
+      "num": 284697,
+      "word": "国务院联防联控机制发布会",
+      "onboard_time": 1669102471,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 279992,
       "num": 279992,
       "word": "女子称休息日不去公司开会被辞退",
@@ -723,20 +747,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 279466,
+      "num": 279466,
+      "word": "孙怡再见爱人净说大实话",
+      "onboard_time": 1669102231,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 274975,
       "num": 247388,
       "word": "卿卿日常是懂取名字的",
       "onboard_time": 1669087232,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 272158,
-      "num": 272158,
-      "word": "郑恺苗苗首个合体综艺",
-      "onboard_time": 1669100733,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 271150,
@@ -819,6 +843,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 251529,
+      "num": 251529,
+      "word": "江歌母亲诉刘鑫案件回顾",
+      "onboard_time": 1669101391,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 248072,
       "num": 248072,
       "word": "贝克汉姆",
@@ -873,6 +905,22 @@
       "onboard_time": 1669046915,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 225419,
+      "num": 225419,
+      "word": "黑洞竟然向星系吐口水",
+      "onboard_time": 1669100793,
+      "rank": 30,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 224413,
+      "num": 224413,
+      "word": "75%未成年每周游戏少于3小时",
+      "onboard_time": 1669099473,
+      "rank": 25,
+      "category": "游戏,社会新闻"
     },
     {
       "raw_hot": 224198,
@@ -931,14 +979,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 213289,
-      "num": 213289,
-      "word": "75%未成年每周游戏少于3小时",
-      "onboard_time": 1669099473,
-      "rank": 25,
-      "category": "游戏,社会新闻"
-    },
-    {
       "raw_hot": 211545,
       "num": 211545,
       "word": "阿凡达2水之道角色海报",
@@ -947,12 +987,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 208620,
-      "num": 208620,
-      "word": "男子称永辉超市买牛肉实为猪肉",
-      "onboard_time": 1669100014,
-      "rank": 27,
-      "category": "社会新闻"
+      "raw_hot": 198329,
+      "num": 198329,
+      "word": "杨紫题字vlog",
+      "onboard_time": 1669102411,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 197458,
@@ -1011,14 +1051,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 193009,
-      "num": 193009,
-      "word": "黑洞竟然向星系吐口水",
-      "onboard_time": 1669100793,
-      "rank": 30,
-      "category": "科技"
-    },
-    {
       "raw_hot": 191009,
       "num": 191009,
       "word": "霍华德将因伤休战两周",
@@ -1033,14 +1065,6 @@
       "onboard_time": 1669089338,
       "rank": 36,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 187580,
-      "num": 187580,
-      "word": "江歌母亲诉刘鑫案件回顾",
-      "onboard_time": 1669101391,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 187576,
@@ -1081,6 +1105,14 @@
       "onboard_time": 1669083634,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 183325,
+      "num": 183325,
+      "word": "黄明昊九尾互关了",
+      "onboard_time": 1669101812,
+      "rank": 34,
+      "category": "游戏,艺人"
     },
     {
       "raw_hot": 182582,
@@ -1161,6 +1193,14 @@
       "onboard_time": 1669049545,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 171490,
+      "num": 171490,
+      "word": "台湾问题是中美第一条不可逾越红线",
+      "onboard_time": 1669101812,
+      "rank": 36,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 170088,
@@ -1291,6 +1331,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 143238,
+      "num": 143238,
+      "word": "京东逐步为德邦员工缴齐五险一金",
+      "onboard_time": 1669101513,
+      "rank": 43,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 142495,
       "num": 142495,
       "word": "网友留差评8年后收到店家道歉",
@@ -1363,14 +1411,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 132488,
-      "num": 132488,
-      "word": "京东逐步为德邦员工缴齐五险一金",
-      "onboard_time": 1669101513,
-      "rank": 43,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 131401,
       "num": 131401,
       "word": "网红债基富荣中短债一天跌12%",
@@ -1409,6 +1449,14 @@
       "onboard_time": 1669047334,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 123598,
+      "num": 123598,
+      "word": "施情华意的甜蜜对话",
+      "onboard_time": 1669102231,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 123345,
@@ -1587,6 +1635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 75857,
+      "num": 708146,
+      "word": "我国深空探测将分哪几步",
+      "onboard_time": 1669100131,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 75104,
       "num": 75104,
       "word": "贝尔点球破门",
@@ -1601,14 +1657,6 @@
       "onboard_time": 1669047871,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 72484,
-      "num": 708146,
-      "word": "我国深空探测将分哪几步",
-      "onboard_time": 1669100131,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 64836,
