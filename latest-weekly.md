@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/21 00:28:38 ~ 2022/11/23 04:20:51
+本榜单时间：2022/11/21 00:28:38 ~ 2022/11/23 04:35:27
 </p>
 </blockquote>
 <p>
@@ -4557,6 +4557,12 @@ gidle新歌Nxde微醺live（热度：88111）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%A1%E5%A1%94%E5%B0%94%E4%B8%96%E7%95%8C%E6%9D%AF%E8%BF%9E%E7%BB%AD%E4%B8%A4%E5%9C%BA0%E6%AF%940%23" target="weibo">
+卡塔尔世界杯连续两场0比0（热度：53513）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%9D%AF%E5%BC%80%E5%B9%95%E5%BC%8F%E4%B8%8A%E7%9A%84%E7%89%B9%E6%AE%8A%E5%B0%91%E5%B9%B4%23" target="weibo">
 世界杯开幕式上的特殊少年（热度：49850）
 </a>
@@ -4605,12 +4611,6 @@ gidle新歌Nxde微醺live（热度：88111）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%A1%E5%A1%94%E5%B0%94%E4%B8%96%E7%95%8C%E6%9D%AF%E8%BF%9E%E7%BB%AD%E4%B8%A4%E5%9C%BA0%E6%AF%940%23" target="weibo">
-卡塔尔世界杯连续两场0比0（热度：36131）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%BB%B4%E9%98%BF%E7%A0%B4%E9%97%A8%23" target="weibo">
 小维阿破门（热度：28122）
 </a>
@@ -4630,7 +4630,7 @@ gidle新歌Nxde微醺live（热度：88111）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%A5%E4%B9%94%E4%BA%9A%E6%89%91%E7%82%B9%23" target="weibo">
-奥乔亚扑点（热度：26721）
+奥乔亚扑点（热度：27398）
 </a>
 </li>
 
@@ -4648,7 +4648,7 @@ gidle新歌Nxde微醺live（热度：88111）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%81%B6%E5%83%8F%E6%A2%A6%E5%B9%BB%E7%A5%AD%E5%9B%BD%E6%9C%8D%E9%81%AD%E7%8E%A9%E5%AE%B6%E6%8A%B5%E5%88%B6%23" target="weibo">
-偶像梦幻祭国服遭玩家抵制（热度：21294）
+偶像梦幻祭国服遭玩家抵制（热度：23335）
 </a>
 </li>
 
