@@ -1,6 +1,6 @@
 {
   "startTime": 1669048272938,
-  "endTime": 1669130567910,
+  "endTime": 1669131570412,
   "band_list": [
     {
       "raw_hot": 13131209,
@@ -51,20 +51,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2922019,
+      "num": 2922019,
+      "word": "阿根廷输球一小时后无人走出更衣室",
+      "onboard_time": 1669125947,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2842712,
       "num": 2842712,
       "word": "刘强东发布京东全员信",
       "onboard_time": 1669090656,
       "rank": 15,
       "category": "科技"
-    },
-    {
-      "raw_hot": 2436804,
-      "num": 2436804,
-      "word": "阿根廷输球一小时后无人走出更衣室",
-      "onboard_time": 1669125947,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 2399751,
@@ -227,6 +227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1461408,
+      "num": 1461408,
+      "word": "沙特门将 身价暴涨",
+      "onboard_time": 1669120669,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1424659,
       "num": 1424659,
       "word": "海底捞4个人多少钱",
@@ -235,20 +243,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1327286,
-      "num": 1327286,
-      "word": "沙特门将 身价暴涨",
-      "onboard_time": 1669120669,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1242437,
-      "num": 1242437,
+      "raw_hot": 1336841,
+      "num": 1336841,
       "word": "丹麦0比0突尼斯",
       "onboard_time": 1669129849,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1314361,
+      "num": 1314361,
+      "word": "scout",
+      "onboard_time": 1669128283,
+      "rank": 11,
+      "category": "游戏"
     },
     {
       "raw_hot": 1224341,
@@ -265,14 +273,6 @@
       "onboard_time": 1669126124,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1180999,
-      "num": 1180999,
-      "word": "scout",
-      "onboard_time": 1669128283,
-      "rank": 11,
-      "category": "游戏"
     },
     {
       "raw_hot": 1180241,
@@ -531,6 +531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 685663,
+      "num": 685663,
+      "word": "韩华",
+      "onboard_time": 1669129787,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 684094,
       "num": 684094,
       "word": "女子欠千万网贷申请精神病鉴定",
@@ -635,6 +643,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 626513,
+      "num": 626513,
+      "word": "苏醒帮阿根廷在热搜上击败沙特门将",
+      "onboard_time": 1669131041,
+      "rank": 16,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 623524,
       "num": 623524,
       "word": "国务院联防联控机制发布会",
@@ -721,6 +737,14 @@
       "onboard_time": 1669119838,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 547504,
+      "num": 547504,
+      "word": "DK",
+      "onboard_time": 1669130623,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 543896,
@@ -1131,6 +1155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 407423,
+      "num": 407423,
+      "word": "足球反着买 别墅靠大海",
+      "onboard_time": 1669126602,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 407313,
       "num": 407313,
       "word": "卡塔尔版退钱哥",
@@ -1203,6 +1235,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 388660,
+      "num": 388660,
+      "word": "陆虎说一时不知道怎么安慰哥",
+      "onboard_time": 1669130148,
+      "rank": 26,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 385858,
       "num": 385858,
       "word": "卡塔尔",
@@ -1241,14 +1281,6 @@
       "onboard_time": 1669123780,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 373958,
-      "num": 373958,
-      "word": "韩华",
-      "onboard_time": 1669129787,
-      "rank": 32,
-      "category": "游戏"
     },
     {
       "raw_hot": 373756,
@@ -1297,14 +1329,6 @@
       "onboard_time": 1669088313,
       "rank": 34,
       "category": "美食"
-    },
-    {
-      "raw_hot": 364389,
-      "num": 364389,
-      "word": "足球反着买 别墅靠大海",
-      "onboard_time": 1669126602,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 362809,
@@ -1611,6 +1635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 297454,
+      "num": 278088,
+      "word": "梅西希望球迷相信阿根廷队",
+      "onboard_time": 1669129969,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 296726,
       "num": 296726,
       "word": "贺顿的小可乐定档1123",
@@ -1683,6 +1715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 275767,
+      "num": 275767,
+      "word": "叶舒华跳舞视频",
+      "onboard_time": 1669129728,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 274975,
       "num": 247388,
       "word": "卿卿日常是懂取名字的",
@@ -1697,14 +1737,6 @@
       "onboard_time": 1669105353,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 271206,
-      "num": 271206,
-      "word": "叶舒华跳舞视频",
-      "onboard_time": 1669129728,
-      "rank": 40,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 271150,
@@ -1915,14 +1947,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 238377,
-      "num": 238377,
-      "word": "梅西希望球迷相信阿根廷队",
-      "onboard_time": 1669129969,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 234802,
       "num": 234802,
       "word": "秦施阳华拍婚纱照",
@@ -1945,6 +1969,14 @@
       "onboard_time": 1669107629,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 231785,
+      "num": 231785,
+      "word": "田柾国Dreamers官方MV公开",
+      "onboard_time": 1669130984,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 230776,
@@ -2131,6 +2163,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 206839,
+      "num": 278096,
+      "word": "世界杯史上第一个可拆卸球场",
+      "onboard_time": 1669131106,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 203941,
       "num": 216233,
       "word": "摄影师为什么迷上手机摄影",
@@ -2161,6 +2201,14 @@
       "onboard_time": 1669112672,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 200293,
+      "num": 200293,
+      "word": "原来穿婚纱这么好看啊",
+      "onboard_time": 1669131346,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 198329,
@@ -2596,7 +2644,7 @@
     },
     {
       "raw_hot": 163900,
-      "num": 272908,
+      "num": 278090,
       "word": "vivo首发天玑9200芯片",
       "onboard_time": 1669125643,
       "rank": 39,
