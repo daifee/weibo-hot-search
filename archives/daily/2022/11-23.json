@@ -1,6 +1,6 @@
 {
   "startTime": 1669134647959,
-  "endTime": 1669144631979,
+  "endTime": 1669145630605,
   "band_list": [
     {
       "raw_hot": 3352526,
@@ -403,6 +403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 160474,
+      "num": 160474,
+      "word": "法国vs澳大利亚首发",
+      "onboard_time": 1669141576,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 156840,
       "num": 156840,
       "word": "一键查询梅西球迷精神状态",
@@ -433,14 +441,6 @@
       "onboard_time": 1669136127,
       "rank": 33,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 112125,
-      "num": 112125,
-      "word": "法国vs澳大利亚首发",
-      "onboard_time": 1669141576,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 110239,
@@ -483,8 +483,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 82924,
-      "num": 82924,
+      "raw_hot": 85985,
+      "num": 85985,
       "word": "世界杯期间被女友上了一课",
       "onboard_time": 1669140199,
       "rank": 33,
@@ -505,6 +505,14 @@
       "onboard_time": 1669138281,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 51327,
+      "num": 51327,
+      "word": "法国vs澳大利亚",
+      "onboard_time": 1669123780,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 45303,
@@ -544,6 +552,14 @@
       "word": "哪届世界杯吉祥物是你最爱",
       "onboard_time": 1669098335,
       "rank": 2,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 20743,
+      "num": 20743,
+      "word": "奥乔亚扑点",
+      "onboard_time": 1669144633,
+      "rank": 48,
       "category": "体育"
     }
   ],

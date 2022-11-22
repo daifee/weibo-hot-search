@@ -1,6 +1,6 @@
 {
   "startTime": 1668961718135,
-  "endTime": 1669144631979,
+  "endTime": 1669145630605,
   "band_list": [
     {
       "raw_hot": 13131209,
@@ -4651,6 +4651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 160474,
+      "num": 160474,
+      "word": "法国vs澳大利亚首发",
+      "onboard_time": 1669141576,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 160108,
       "num": 160108,
       "word": "学鸟走路的猫咪",
@@ -5523,14 +5531,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 112125,
-      "num": 112125,
-      "word": "法国vs澳大利亚首发",
-      "onboard_time": 1669141576,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 111545,
       "num": 111545,
       "word": "哼唧声很特别的小狗",
@@ -5915,6 +5915,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 85985,
+      "num": 85985,
+      "word": "世界杯期间被女友上了一课",
+      "onboard_time": 1669140199,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 84221,
       "num": 84221,
       "word": "世界杯落选选手",
@@ -5929,14 +5937,6 @@
       "onboard_time": 1668966138,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 82924,
-      "num": 82924,
-      "word": "世界杯期间被女友上了一课",
-      "onboard_time": 1669140199,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 82524,
@@ -6175,6 +6175,14 @@
       "num": 20845,
       "word": "克拉森补射破门",
       "onboard_time": 1669057093,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 20743,
+      "num": 20743,
+      "word": "奥乔亚扑点",
+      "onboard_time": 1669144633,
       "rank": 48,
       "category": "体育"
     },
