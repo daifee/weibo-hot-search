@@ -1,21 +1,21 @@
 {
   "startTime": 1669048272938,
-  "endTime": 1669082249250,
+  "endTime": 1669083913622,
   "band_list": [
     {
-      "raw_hot": 1503312,
-      "num": 1503312,
-      "word": "小雪",
-      "onboard_time": 1669073006,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1389181,
+      "raw_hot": 1764816,
       "num": 981244,
       "word": "男子月挣4000怪妻子花680接头发",
       "onboard_time": 1669080153,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1660063,
+      "num": 1660063,
+      "word": "小雪",
+      "onboard_time": 1669073006,
+      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -25,6 +25,14 @@
       "onboard_time": 1669046794,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1055023,
+      "num": 1055023,
+      "word": "杜海涛为证明瘦了踩毛不易腿上",
+      "onboard_time": 1669080815,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 961699,
@@ -131,6 +139,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 517808,
+      "num": 517808,
+      "word": "王鹤棣新剧开机上班路透",
+      "onboard_time": 1669083813,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 514882,
+      "num": 514882,
+      "word": "广州新增本土感染者8210例",
+      "onboard_time": 1669079975,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 511882,
       "num": 511882,
       "word": "警方辟谣失联男孩胡鑫宇河里被找到",
@@ -179,12 +203,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 455922,
-      "num": 455922,
-      "word": "杜海涛为证明瘦了踩毛不易腿上",
-      "onboard_time": 1669080815,
-      "rank": 9,
-      "category": "综艺"
+      "raw_hot": 456427,
+      "num": 411599,
+      "word": "李峋回来只办三件事",
+      "onboard_time": 1669079253,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 452786,
@@ -211,14 +235,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 436699,
-      "num": 436699,
-      "word": "广州新增本土感染者8210例",
-      "onboard_time": 1669079975,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 426621,
       "num": 426621,
       "word": "塞内加尔vs荷兰",
@@ -241,14 +257,6 @@
       "onboard_time": 1669077395,
       "rank": 15,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 371904,
-      "num": 371904,
-      "word": "李峋回来只办三件事",
-      "onboard_time": 1669079253,
-      "rank": 16,
-      "category": "影视"
     },
     {
       "raw_hot": 334673,
@@ -291,6 +299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 313944,
+      "num": 313944,
+      "word": "小狗门口玩耍被人放2猎犬咬死",
+      "onboard_time": 1669079736,
+      "rank": 22,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 306248,
       "num": 306248,
       "word": "女子名叫马艳花仙波被人误当网名",
@@ -331,6 +347,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 269377,
+      "num": 269377,
+      "word": "交警破译男子咒语式停车电话",
+      "onboard_time": 1669081293,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 257669,
       "num": 257669,
       "word": "塞内加尔0比2荷兰",
@@ -353,14 +377,6 @@
       "onboard_time": 1669036779,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 243298,
-      "num": 243298,
-      "word": "小狗门口玩耍被人放2猎犬咬死",
-      "onboard_time": 1669079736,
-      "rank": 22,
-      "category": "社会负面"
     },
     {
       "raw_hot": 242233,
@@ -419,6 +435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 211545,
+      "num": 211545,
+      "word": "阿凡达2水之道角色海报",
+      "onboard_time": 1669080753,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 205270,
       "num": 205270,
       "word": "安阳厂房火灾已致36人死亡",
@@ -436,7 +460,7 @@
     },
     {
       "raw_hot": 196587,
-      "num": 136659,
+      "num": 171245,
       "word": "梅西说这是最后一次世界杯",
       "onboard_time": 1669052478,
       "rank": 10,
@@ -457,6 +481,22 @@
       "onboard_time": 1669040567,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 192593,
+      "num": 192593,
+      "word": "卡塔尔集装箱球迷村全部是中国制造",
+      "onboard_time": 1669081949,
+      "rank": 47,
+      "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 192003,
+      "num": 192003,
+      "word": "阿根廷vs沙特阿拉伯",
+      "onboard_time": 1669082733,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 191009,
@@ -483,6 +523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 185355,
+      "num": 185355,
+      "word": "11月21日新增本土无症状25754例",
+      "onboard_time": 1669083634,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 182582,
       "num": 182582,
       "word": "卡塔尔把公交开出了跑车感",
@@ -491,12 +539,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 180991,
-      "num": 180991,
-      "word": "阿凡达2水之道角色海报",
-      "onboard_time": 1669080753,
-      "rank": 30,
-      "category": "影视"
+      "raw_hot": 180456,
+      "num": 180456,
+      "word": "女子遇诈骗反赚骗子1千多",
+      "onboard_time": 1669080995,
+      "rank": 40,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 178403,
@@ -531,6 +579,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 173030,
+      "num": 173030,
+      "word": "命韵峋环什么时候和好",
+      "onboard_time": 1669082311,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 172159,
       "num": 172159,
       "word": "蔡徐坤前东家晒练习生整形费用",
@@ -563,12 +619,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 169233,
+      "num": 169233,
+      "word": "11月21日新增2145例本土确诊",
+      "onboard_time": 1669083396,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 168877,
       "num": 168877,
       "word": "新娘坐婚车内临出发时仍在谈生意",
       "onboard_time": 1669027540,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 166908,
+      "num": 166908,
+      "word": "陈都灵新剧亲徐璐的手背",
+      "onboard_time": 1669083579,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 159165,
@@ -587,12 +659,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 155348,
-      "num": 155348,
-      "word": "女子遇诈骗反赚骗子1千多",
-      "onboard_time": 1669080995,
-      "rank": 40,
-      "category": "社会新闻,财经"
+      "raw_hot": 148563,
+      "num": 162517,
+      "word": "手机厂商为何执着自研芯片",
+      "onboard_time": 1669083753,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 144048,
@@ -649,22 +721,6 @@
       "onboard_time": 1669047334,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 127996,
-      "num": 127996,
-      "word": "交警破译男子咒语式停车电话",
-      "onboard_time": 1669081293,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 123177,
-      "num": 123177,
-      "word": "卡塔尔集装箱球迷村全部是中国制造",
-      "onboard_time": 1669081949,
-      "rank": 47,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 122351,
@@ -820,7 +876,7 @@
     },
     {
       "raw_hot": 36031,
-      "num": 981343,
+      "num": 982873,
       "word": "中国水下考古又一大发现",
       "onboard_time": 1669002092,
       "rank": 2,

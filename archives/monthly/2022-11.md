@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/01 00:36:21 ~ 2022/11/22 09:57:29
+本榜单时间：2022/11/01 00:36:21 ~ 2022/11/22 10:25:13
 </p>
 </blockquote>
 <p>
@@ -993,6 +993,12 @@ IU（热度：2015592）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%9C%88%E6%8C%A34000%E6%80%AA%E5%A6%BB%E5%AD%90%E8%8A%B1680%E6%8E%A5%E5%A4%B4%E5%8F%91%23" target="weibo">
+男子月挣4000怪妻子花680接头发（热度：1764816）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E9%A3%9E%E5%AE%87%E6%8B%8D%E5%AE%8C%E5%90%BB%E6%88%8F%E9%97%AE%E5%BC%A0%E5%A9%A7%E4%BB%AA%E5%AE%B3%E7%BE%9E%E4%BA%86%E5%90%97%23" target="weibo">
 陈飞宇拍完吻戏问张婧仪害羞了吗（热度：1760340）
 </a>
@@ -1115,6 +1121,12 @@ blue露脸（热度：1747178）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AC%A0%E5%80%BA4600%E4%B8%87%E5%A4%A7%E5%8F%94%E8%AE%A4%E7%9C%9F%E5%8D%96%E7%83%A4%E8%82%A0%E8%BF%98%E5%80%BA%23" target="weibo">
 欠债4600万大叔认真卖烤肠还债（热度：1660356）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%9B%AA%23" target="weibo">
+小雪（热度：1660063）
 </a>
 </li>
 
@@ -1425,12 +1437,6 @@ Faker（热度：1632969）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%9B%AA%23" target="weibo">
-小雪（热度：1503312）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E8%BE%9F%E8%B0%A3%E7%BD%91%E4%BC%A0%E5%88%98%E7%BA%A2%E8%8B%B1%E4%B8%BA%E6%9F%90%E7%A4%BE%E5%8C%BA%E4%B9%A6%E8%AE%B0%23" target="weibo">
 河南辟谣网传刘红英为某社区书记（热度：1496209）
 </a>
@@ -1667,12 +1673,6 @@ Faker（热度：1632969）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%81%E8%83%BD%E7%90%86%E8%A7%A3%E8%80%81%E5%B9%B4%E4%BA%BA%E7%9A%84%E6%80%A7%E7%94%9F%E6%B4%BB%E9%9C%80%E6%B1%82%23" target="weibo">
 谁能理解老年人的性生活需求（热度：1390938）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%9C%88%E6%8C%A34000%E6%80%AA%E5%A6%BB%E5%AD%90%E8%8A%B1680%E6%8E%A5%E5%A4%B4%E5%8F%91%23" target="weibo">
-男子月挣4000怪妻子花680接头发（热度：1389181）
 </a>
 </li>
 
@@ -2609,6 +2609,12 @@ iPhone折叠屏（热度：1140020）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E5%AE%98%E5%AE%A3%E5%8A%A0%E7%9B%9F%E4%BB%A4%E4%BA%BA%E5%BF%83%E5%8A%A8%E7%9A%84offer4%23" target="weibo">
 张杰官宣加盟令人心动的offer4（热度：1055153）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%9C%E6%B5%B7%E6%B6%9B%E4%B8%BA%E8%AF%81%E6%98%8E%E7%98%A6%E4%BA%86%E8%B8%A9%E6%AF%9B%E4%B8%8D%E6%98%93%E8%85%BF%E4%B8%8A%23" target="weibo">
+杜海涛为证明瘦了踩毛不易腿上（热度：1055023）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ iPhone14Pro息屏可不显示壁纸（热度：625106）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B8%88%E7%94%A8%E5%8F%8D%E5%90%91%E7%AD%BE%E5%88%B0%E6%9F%A5%E5%87%BA%E9%80%83%E8%AF%BE%E5%AD%A6%E7%94%9F%23" target="weibo">
 老师用反向签到查出逃课学生（热度：620438）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%97%A0%E8%AF%81%E7%A9%BF%E9%AB%98%E8%B7%9F%E9%9E%8B%E8%BF%9E%E7%BB%AD2%E6%AC%A1%E6%92%9E%E5%90%8C%E4%B8%80%E8%BD%A6%23" target="weibo">
-女子无证穿高跟鞋连续2次撞同一车（热度：620092）
 </a>
 </li>
 
