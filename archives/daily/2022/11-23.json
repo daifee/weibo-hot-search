@@ -1,6 +1,6 @@
 {
   "startTime": 1669134647959,
-  "endTime": 1669155709477,
+  "endTime": 1669156663141,
   "band_list": [
     {
       "raw_hot": 3352526,
@@ -227,19 +227,19 @@
       "category": "影视"
     },
     {
+      "raw_hot": 304513,
+      "num": 304513,
+      "word": "法国4比1澳大利亚",
+      "onboard_time": 1669151832,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 280145,
       "num": 280145,
       "word": "墨西哥0比0波兰",
       "onboard_time": 1669141218,
       "rank": 7,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 278501,
-      "num": 278501,
-      "word": "法国4比1澳大利亚",
-      "onboard_time": 1669151832,
-      "rank": 47,
       "category": "体育"
     },
     {
@@ -499,6 +499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 88195,
+      "num": 88195,
+      "word": "姆巴佩头球破门",
+      "onboard_time": 1669151832,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 88111,
       "num": 88111,
       "word": "gidle新歌Nxde微醺live",
@@ -507,12 +515,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 73606,
-      "num": 35674,
-      "word": "姆巴佩头球破门",
-      "onboard_time": 1669151832,
-      "rank": 48,
-      "category": "体育"
+      "raw_hot": 73863,
+      "num": 51242,
+      "word": "男子在卡塔尔逛商场发现纯金手机",
+      "onboard_time": 1669149791,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 72221,
@@ -523,11 +531,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 71140,
-      "num": 34980,
-      "word": "男子在卡塔尔逛商场发现纯金手机",
-      "onboard_time": 1669149791,
-      "rank": 31,
+      "raw_hot": 69855,
+      "num": 51240,
+      "word": "男子刷信用卡6千打赏女主播被拉黑",
+      "onboard_time": 1669155495,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -539,8 +547,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 53513,
-      "num": 34331,
+      "raw_hot": 54014,
+      "num": 54014,
       "word": "卡塔尔世界杯连续两场0比0",
       "onboard_time": 1669147633,
       "rank": 30,
@@ -556,7 +564,7 @@
     },
     {
       "raw_hot": 40357,
-      "num": 25708,
+      "num": 26786,
       "word": "吉鲁追平亨利进球纪录",
       "onboard_time": 1669151832,
       "rank": 49,
@@ -579,8 +587,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 32581,
+      "num": 32581,
+      "word": "阿根廷创48年最差开局纪录",
+      "onboard_time": 1669156035,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 27737,
-      "num": 42184,
+      "num": 51244,
       "word": "这张中国面孔被很多坦桑尼亚人记住",
       "onboard_time": 1669144034,
       "rank": 29,
@@ -593,6 +609,14 @@
       "onboard_time": 1669144633,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 26235,
+      "num": 26235,
+      "word": "偶像梦幻祭国服遭玩家抵制",
+      "onboard_time": 1669146613,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 26047,
@@ -609,22 +633,6 @@
       "onboard_time": 1669098335,
       "rank": 2,
       "category": "体育"
-    },
-    {
-      "raw_hot": 23335,
-      "num": 23335,
-      "word": "偶像梦幻祭国服遭玩家抵制",
-      "onboard_time": 1669146613,
-      "rank": 39,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 20017,
-      "num": 20017,
-      "word": "男子刷信用卡6千打赏女主播被拉黑",
-      "onboard_time": 1669155495,
-      "rank": 47,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
