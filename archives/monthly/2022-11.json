@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1669141591733,
+  "endTime": 1669142568520,
   "band_list": [
     {
       "raw_hot": 13131209,
@@ -45731,6 +45731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 76548,
+      "num": 76548,
+      "word": "世界杯期间被女友上了一课",
+      "onboard_time": 1669140199,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 76519,
       "num": 76519,
       "word": "当新疆雪岭遇上绝美金色夕阳",
@@ -45817,6 +45825,14 @@
       "onboard_time": 1667377769,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 75707,
+      "num": 64802,
+      "word": "法国vs澳大利亚首发",
+      "onboard_time": 1669141576,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 75309,
@@ -46257,14 +46273,6 @@
       "onboard_time": 1667566707,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 69489,
-      "num": 69489,
-      "word": "世界杯期间被女友上了一课",
-      "onboard_time": 1669140199,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 69432,
@@ -47483,14 +47491,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 41740,
-      "num": 41740,
-      "word": "法国vs澳大利亚首发",
-      "onboard_time": 1669141576,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 41233,
       "num": 41233,
       "word": "天冷了需要人参果羽绒服",
@@ -47609,6 +47609,14 @@
       "onboard_time": 1667230108,
       "rank": 48,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 37054,
+      "num": 37054,
+      "word": "孟川这人有点东西",
+      "onboard_time": 1669141817,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 36567,

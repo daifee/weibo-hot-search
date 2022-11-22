@@ -1,6 +1,6 @@
 {
   "startTime": 1668961718135,
-  "endTime": 1669141591733,
+  "endTime": 1669142568520,
   "band_list": [
     {
       "raw_hot": 13131209,
@@ -5955,12 +5955,28 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 76548,
+      "num": 76548,
+      "word": "世界杯期间被女友上了一课",
+      "onboard_time": 1669140199,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 75857,
       "num": 870939,
       "word": "我国深空探测将分哪几步",
       "onboard_time": 1669100131,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 75707,
+      "num": 64802,
+      "word": "法国vs澳大利亚首发",
+      "onboard_time": 1669141576,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 75104,
@@ -5984,14 +6000,6 @@
       "word": "梅西也是巨蟹座",
       "onboard_time": 1669140918,
       "rank": 31,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 69489,
-      "num": 69489,
-      "word": "世界杯期间被女友上了一课",
-      "onboard_time": 1669140199,
-      "rank": 33,
       "category": "体育"
     },
     {
@@ -6091,14 +6099,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 41740,
-      "num": 41740,
-      "word": "法国vs澳大利亚首发",
-      "onboard_time": 1669141576,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 40730,
       "num": 40730,
       "word": "熬夜看球后建议直接补觉",
@@ -6113,6 +6113,14 @@
       "onboard_time": 1669052478,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 37054,
+      "num": 37054,
+      "word": "孟川这人有点东西",
+      "onboard_time": 1669141817,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 28122,
