@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/21 00:28:38 ~ 2022/11/24 04:35:11
+本榜单时间：2022/11/21 00:28:38 ~ 2022/11/24 05:17:24
 </p>
 </blockquote>
 <p>
@@ -6789,6 +6789,12 @@ gidle新歌Nxde微醺live（热度：88111）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8A%A0%E7%BB%B4%E6%88%90%E4%B8%96%E7%95%8C%E6%9D%AF%E5%8E%86%E5%8F%B2%E7%AC%AC%E4%B8%89%E5%B9%B4%E8%BD%BB%E8%BF%9B%E7%90%83%E8%80%85%23" target="weibo">
+加维成世界杯历史第三年轻进球者（热度：53876）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E7%8F%AD%E7%89%99%E5%85%A8%E5%9C%BA%E4%BC%A0%E7%90%831043%E6%AC%A1%23" target="weibo">
 西班牙全场传球1043次（热度：50753）
 </a>
@@ -6911,12 +6917,6 @@ gidle新歌Nxde微醺live（热度：88111）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%8B%E6%8B%89%E6%A3%AE%E8%A1%A5%E5%B0%84%E7%A0%B4%E9%97%A8%23" target="weibo">
 克拉森补射破门（热度：20845）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8A%A0%E7%BB%B4%E6%88%90%E4%B8%96%E7%95%8C%E6%9D%AF%E5%8E%86%E5%8F%B2%E7%AC%AC%E4%B8%89%E5%B9%B4%E8%BD%BB%E8%BF%9B%E7%90%83%E8%80%85%23" target="weibo">
-加维成世界杯历史第三年轻进球者（热度：16086）
 </a>
 </li>
 
