@@ -1,0 +1,410 @@
+{
+  "runTime": 1669216857985,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 15128338,
+        "num": 15128338,
+        "word": "德国vs日本",
+        "onboard_time": 1669171891,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 7826866,
+        "num": 7826866,
+        "word": "日本反超",
+        "onboard_time": 1669215174,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 6812972,
+        "num": 7554308,
+        "word": "德国1比2日本",
+        "onboard_time": 1669215983,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2646677,
+        "num": 2646677,
+        "word": "日本 越位",
+        "onboard_time": 1669209873,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2361320,
+        "num": 2361320,
+        "word": "外交部回应韩剧在中国播放",
+        "onboard_time": 1669211745,
+        "rank": 4,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2184768,
+        "num": 2184768,
+        "word": "又一个大冷门",
+        "onboard_time": 1669216101,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2177220,
+        "num": 2177220,
+        "word": "日本门将",
+        "onboard_time": 1669211558,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1784144,
+        "num": 1784144,
+        "word": "四位中国公民在美遇害",
+        "onboard_time": 1669209033,
+        "rank": 7,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1421020,
+        "num": 1421020,
+        "word": "德国男模队 帅",
+        "onboard_time": 1669211618,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1374538,
+        "num": 1374538,
+        "word": "重庆15岁男生在宿舍被同学刺死",
+        "onboard_time": 1669214196,
+        "rank": 9,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1326092,
+        "num": 1326092,
+        "word": "郑州将进行5天流动性管理",
+        "onboard_time": 1669212461,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1197180,
+        "num": 1197180,
+        "word": "原来不懂球也是有好处的",
+        "onboard_time": 1669215110,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 788361,
+        "num": 788361,
+        "word": "女子花20万带爸爸看世界杯轮流睡着",
+        "onboard_time": 1669212278,
+        "rank": 12,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 769320,
+        "num": 769320,
+        "word": "德国进球",
+        "onboard_time": 1669210777,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 690916,
+        "num": 690916,
+        "word": "陈小纭发长文祝福郝葭",
+        "onboard_time": 1669206335,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 603436,
+        "num": 603436,
+        "word": "沙特后卫对梅西放狠话",
+        "onboard_time": 1669207535,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 650599,
+        "num": 599651,
+        "word": "李薇脸上的掌印",
+        "onboard_time": 1669210656,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 511200,
+        "num": 511200,
+        "word": "穆勒",
+        "onboard_time": 1669210355,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 506240,
+        "num": 506240,
+        "word": "管泽元解说世界杯",
+        "onboard_time": 1669210298,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 489750,
+        "num": 489750,
+        "word": "连花清瘟断货后出现涨价",
+        "onboard_time": 1669209391,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 422288,
+        "num": 422288,
+        "word": "没有克洛泽的德国队",
+        "onboard_time": 1669216219,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 405748,
+        "num": 405748,
+        "word": "国考",
+        "onboard_time": 1669213721,
+        "rank": 21,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 399731,
+        "num": 399731,
+        "word": "白敬亭追卿卿日常reaction",
+        "onboard_time": 1669215287,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 382910,
+        "num": 382910,
+        "word": "吕迪格 跨栏",
+        "onboard_time": 1669214493,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 380952,
+        "num": 380952,
+        "word": "网友吐槽银行每月只上2天班",
+        "onboard_time": 1669204900,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 372846,
+        "num": 372846,
+        "word": "日本 亚洲之光",
+        "onboard_time": 1669216565,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 370604,
+        "num": 370604,
+        "word": "德国1比2不敌日本",
+        "onboard_time": 1669216622,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 369132,
+        "num": 369132,
+        "word": "女子做水果馒头剥开全是细节",
+        "onboard_time": 1669214802,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365975,
+        "num": 365975,
+        "word": "郝葭跳河",
+        "onboard_time": 1669204530,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 356497,
+        "num": 356497,
+        "word": "日本2比1逆转德国",
+        "onboard_time": 1669216683,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1308099,
+        "num": 351720,
+        "word": "德国门将",
+        "onboard_time": 1669216741,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 335624,
+        "num": 335624,
+        "word": "诺伊尔的控制范围",
+        "onboard_time": 1669210471,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 315141,
+        "num": 315141,
+        "word": "日本鹦鹉预测日本队将输给德国",
+        "onboard_time": 1669216101,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 308812,
+        "num": 308812,
+        "word": "命韵峋环结婚证件照",
+        "onboard_time": 1669212821,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 285577,
+        "num": 285577,
+        "word": "ruler",
+        "onboard_time": 1669210234,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 277226,
+        "num": 277226,
+        "word": "10岁女孩买馕饼误付3万元",
+        "onboard_time": 1669200994,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274376,
+        "num": 274376,
+        "word": "杨幂白宇谢谢你医生评分降了",
+        "onboard_time": 1669215531,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 259340,
+        "num": 259340,
+        "word": "世界杯随处可见中国元素",
+        "onboard_time": 1669205557,
+        "rank": 37,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 247944,
+        "num": 247944,
+        "word": "济南疫情防控",
+        "onboard_time": 1669207352,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247061,
+        "num": 247061,
+        "word": "陈乔恩的一生都在被湖南台记录",
+        "onboard_time": 1669191156,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219139,
+        "num": 219139,
+        "word": "小腿想不瘦都难了",
+        "onboard_time": 1669212519,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 275250,
+        "num": 219013,
+        "word": "杨蒙恩的大白",
+        "onboard_time": 1669207296,
+        "rank": 41,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 218815,
+        "num": 218815,
+        "word": "日本门将四连扑",
+        "onboard_time": 1669216336,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209460,
+        "num": 209460,
+        "word": "陈飞宇提醒张婧仪写火军",
+        "onboard_time": 1669207416,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 191563,
+        "num": 191563,
+        "word": "这集世界杯昨天我看过",
+        "onboard_time": 1669216741,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191480,
+        "num": 191480,
+        "word": "男子就餐喝一斤半白酒后身亡",
+        "onboard_time": 1669203811,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190055,
+        "num": 190055,
+        "word": "顾客将高跟鞋穿黑后寄回退货",
+        "onboard_time": 1669208134,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187183,
+        "num": 187183,
+        "word": "德国被日本反超",
+        "onboard_time": 1669216741,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179798,
+        "num": 179798,
+        "word": "住家保姆发烧死亡家属索赔158万被驳回",
+        "onboard_time": 1669192117,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198741,
+        "num": 179564,
+        "word": "日本扳平",
+        "onboard_time": 1669214743,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#让互联网的发展成果更好地造福全人类#"
+    }
+  }
+}

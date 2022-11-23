@@ -1,7 +1,15 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1669214128347,
+  "endTime": 1669216857985,
   "band_list": [
+    {
+      "raw_hot": 15128338,
+      "num": 15128338,
+      "word": "德国vs日本",
+      "onboard_time": 1669171891,
+      "rank": 24,
+      "category": "体育"
+    },
     {
       "raw_hot": 13131209,
       "num": 13131209,
@@ -39,6 +47,22 @@
       "num": 8419594,
       "word": "沙特门将 牛",
       "onboard_time": 1669117836,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 7826866,
+      "num": 7826866,
+      "word": "日本反超",
+      "onboard_time": 1669215174,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 6812972,
+      "num": 7554308,
+      "word": "德国1比2日本",
+      "onboard_time": 1669215983,
       "rank": 2,
       "category": "体育"
     },
@@ -691,6 +715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2361320,
+      "num": 2361320,
+      "word": "外交部回应韩剧在中国播放",
+      "onboard_time": 1669211745,
+      "rank": 30,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 2357039,
       "num": 2357039,
       "word": "苏醒最不快乐的一天",
@@ -865,6 +897,22 @@
       "onboard_time": 1667999848,
       "rank": 10,
       "category": "网红"
+    },
+    {
+      "raw_hot": 2184768,
+      "num": 2184768,
+      "word": "又一个大冷门",
+      "onboard_time": 1669216101,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2177220,
+      "num": 2177220,
+      "word": "日本门将",
+      "onboard_time": 1669211558,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 2157819,
@@ -2459,6 +2507,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1421020,
+      "num": 1421020,
+      "word": "德国男模队 帅",
+      "onboard_time": 1669211618,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1420540,
       "num": 1420540,
       "word": "入境航班熔断机制取消",
@@ -2561,6 +2617,14 @@
       "onboard_time": 1668147644,
       "rank": 31,
       "category": "国内要闻,教育"
+    },
+    {
+      "raw_hot": 1374538,
+      "num": 1374538,
+      "word": "重庆15岁男生在宿舍被同学刺死",
+      "onboard_time": 1669214196,
+      "rank": 9,
+      "category": "社会负面"
     },
     {
       "raw_hot": 1372431,
@@ -2793,6 +2857,14 @@
       "onboard_time": 1667388147,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1308099,
+      "num": 351720,
+      "word": "德国门将",
+      "onboard_time": 1669216741,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 1305652,
@@ -3217,6 +3289,14 @@
       "onboard_time": 1667484148,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1197180,
+      "num": 1197180,
+      "word": "原来不懂球也是有好处的",
+      "onboard_time": 1669215110,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 1197179,
@@ -3881,14 +3961,6 @@
       "onboard_time": 1669178745,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1085077,
-      "num": 871747,
-      "word": "外交部回应韩剧在中国播放",
-      "onboard_time": 1669211745,
-      "rank": 30,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 1083566,
@@ -5235,14 +5307,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 904042,
-      "num": 904042,
-      "word": "日本门将",
-      "onboard_time": 1669211558,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 903776,
       "num": 903776,
       "word": "突然不认识西游记了",
@@ -5265,14 +5329,6 @@
       "onboard_time": 1668649348,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 899050,
-      "num": 899050,
-      "word": "德国vs日本",
-      "onboard_time": 1669171891,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 898771,
@@ -6379,6 +6435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 788361,
+      "num": 788361,
+      "word": "女子花20万带爸爸看世界杯轮流睡着",
+      "onboard_time": 1669212278,
+      "rank": 29,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 787794,
       "num": 448787,
       "word": "齐溪让王鹤棣拿一下奖杯",
@@ -6425,14 +6489,6 @@
       "onboard_time": 1668244590,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 783140,
-      "num": 783140,
-      "word": "德国男模队 帅",
-      "onboard_time": 1669211618,
-      "rank": 11,
-      "category": "体育"
     },
     {
       "raw_hot": 782729,
@@ -8491,6 +8547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 650599,
+      "num": 599651,
+      "word": "李薇脸上的掌印",
+      "onboard_time": 1669210656,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 650478,
       "num": 650478,
       "word": "方志靖把李峋姐姐害死",
@@ -9993,14 +10057,6 @@
       "onboard_time": 1668576505,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 577099,
-      "num": 577099,
-      "word": "李薇脸上的掌印",
-      "onboard_time": 1669210656,
-      "rank": 38,
-      "category": "影视"
     },
     {
       "raw_hot": 577059,
@@ -11995,6 +12051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 511200,
+      "num": 511200,
+      "word": "穆勒",
+      "onboard_time": 1669210355,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 511027,
       "num": 511027,
       "word": "波兰政府确认爆炸致两人死亡",
@@ -12128,6 +12192,14 @@
       "word": "世界杯东道主揭幕战92年首败",
       "onboard_time": 1668968116,
       "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 506240,
+      "num": 506240,
+      "word": "管泽元解说世界杯",
+      "onboard_time": 1669210298,
+      "rank": 46,
       "category": "体育"
     },
     {
@@ -12705,14 +12777,6 @@
       "onboard_time": 1668769948,
       "rank": 17,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 489412,
-      "num": 489412,
-      "word": "女子花20万带爸爸看世界杯轮流睡着",
-      "onboard_time": 1669212278,
-      "rank": 29,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 489230,
@@ -15443,6 +15507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 422288,
+      "num": 422288,
+      "word": "没有克洛泽的德国队",
+      "onboard_time": 1669216219,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 422204,
       "num": 353267,
       "word": "肖战如梦之梦",
@@ -16179,6 +16251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 405748,
+      "num": 405748,
+      "word": "国考",
+      "onboard_time": 1669213721,
+      "rank": 29,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 405712,
       "num": 405712,
       "word": "前苹果高管称iPad正走下坡路",
@@ -16491,6 +16571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 399731,
+      "num": 399731,
+      "word": "白敬亭追卿卿日常reaction",
+      "onboard_time": 1669215287,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 399705,
       "num": 399705,
       "word": "男子酒后遛狗被卡电梯致狗死亡",
@@ -16713,14 +16801,6 @@
       "onboard_time": 1668384989,
       "rank": 16,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 395373,
-      "num": 395373,
-      "word": "穆勒",
-      "onboard_time": 1669210355,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 395221,
@@ -17267,6 +17347,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 382910,
+      "num": 382910,
+      "word": "吕迪格 跨栏",
+      "onboard_time": 1669214493,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 382833,
       "num": 382833,
       "word": "许凯新剧给杨幂跪了",
@@ -17755,6 +17843,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 372846,
+      "num": 372846,
+      "word": "日本 亚洲之光",
+      "onboard_time": 1669216565,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 372734,
       "num": 441192,
       "word": "爱的二八定律 穿搭",
@@ -17827,6 +17923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 370604,
+      "num": 370604,
+      "word": "德国1比2不敌日本",
+      "onboard_time": 1669216622,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 370472,
       "num": 370472,
       "word": "徐黎娜高见鸿cp名",
@@ -17881,6 +17985,14 @@
       "onboard_time": 1667327173,
       "rank": 39,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 369132,
+      "num": 369132,
+      "word": "女子做水果馒头剥开全是细节",
+      "onboard_time": 1669214802,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 368987,
@@ -18585,6 +18697,14 @@
       "onboard_time": 1669013972,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 356497,
+      "num": 356497,
+      "word": "日本2比1逆转德国",
+      "onboard_time": 1669216683,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 356385,
@@ -21307,6 +21427,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 315141,
+      "num": 315141,
+      "word": "日本鹦鹉预测日本队将输给德国",
+      "onboard_time": 1669216101,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 315133,
       "num": 315133,
       "word": "女子冰奶茶配油炸小吃致酸中毒",
@@ -23619,14 +23747,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 281295,
-      "num": 281295,
-      "word": "国考",
-      "onboard_time": 1669213721,
-      "rank": 29,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 281254,
       "num": 281254,
       "word": "原来上课睡觉是这样的",
@@ -24153,6 +24273,14 @@
       "onboard_time": 1667733145,
       "rank": 33,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 274376,
+      "num": 274376,
+      "word": "杨幂白宇谢谢你医生评分降了",
+      "onboard_time": 1669215531,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 274293,
@@ -25315,6 +25443,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 259340,
+      "num": 2101846,
+      "word": "世界杯随处可见中国元素",
+      "onboard_time": 1669205557,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 258972,
       "num": 147169,
       "word": "点燃我温暖你将在北京举办见面会",
@@ -25457,14 +25593,6 @@
       "onboard_time": 1669125585,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 257488,
-      "num": 2101846,
-      "word": "世界杯随处可见中国元素",
-      "onboard_time": 1669205557,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 257104,
@@ -28699,6 +28827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 219139,
+      "num": 219139,
+      "word": "小腿想不瘦都难了",
+      "onboard_time": 1669212519,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 219123,
       "num": 219123,
       "word": "格莱美官方ins关注李永钦",
@@ -28737,6 +28873,14 @@
       "onboard_time": 1667292925,
       "rank": 26,
       "category": "财经,科技"
+    },
+    {
+      "raw_hot": 218815,
+      "num": 218815,
+      "word": "日本门将四连扑",
+      "onboard_time": 1669216336,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 218788,
@@ -30819,14 +30963,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 199917,
-      "num": 199917,
-      "word": "小腿想不瘦都难了",
-      "onboard_time": 1669212519,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 199749,
       "num": 199749,
       "word": "热依扎获飞天奖后首发博",
@@ -30945,6 +31081,14 @@
       "onboard_time": 1668083485,
       "rank": 17,
       "category": "其它"
+    },
+    {
+      "raw_hot": 198741,
+      "num": 179564,
+      "word": "日本扳平",
+      "onboard_time": 1669214743,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 198714,
@@ -31875,6 +32019,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 191563,
+      "num": 191563,
+      "word": "这集世界杯昨天我看过",
+      "onboard_time": 1669216741,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 191557,
       "num": 191557,
       "word": "李峋不锈钢的嘴棉花糖的心",
@@ -32488,6 +32640,14 @@
       "word": "孙颖莎22岁生日感言",
       "onboard_time": 1667568690,
       "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 187183,
+      "num": 187183,
+      "word": "德国被日本反超",
+      "onboard_time": 1669216741,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -34769,14 +34929,6 @@
       "onboard_time": 1667777424,
       "rank": 16,
       "category": "影视"
-    },
-    {
-      "raw_hot": 168305,
-      "num": 168305,
-      "word": "管泽元解说世界杯",
-      "onboard_time": 1669210298,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 168231,
@@ -51160,6 +51312,9 @@
     },
     {
       "word": "#在法治轨道上全面建设社会主义现代化国家#"
+    },
+    {
+      "word": "#让互联网的发展成果更好地造福全人类#"
     }
   ]
 }
