@@ -1,6 +1,6 @@
 {
   "startTime": 1669220901508,
-  "endTime": 1669242938835,
+  "endTime": 1669245606997,
   "band_list": [
     {
       "raw_hot": 2651843,
@@ -131,6 +131,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 554319,
+      "num": 297248,
+      "word": "西班牙净胜球赚麻了",
+      "onboard_time": 1669228516,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 553742,
       "num": 553742,
       "word": "赵芳如黑化",
@@ -144,6 +152,14 @@
       "word": "阿根廷和德国拿了一样的剧本",
       "onboard_time": 1669217447,
       "rank": 13,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 474476,
+      "num": 474476,
+      "word": "C罗成为本届世界杯唯一自由球员",
+      "onboard_time": 1669239852,
+      "rank": 11,
       "category": "体育"
     },
     {
@@ -259,12 +275,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 275407,
+      "num": 275407,
+      "word": "大爷吃网购神药后一天睡近20小时",
+      "onboard_time": 1669239552,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 272538,
+      "num": 272538,
+      "word": "西班牙7比0哥斯达黎加",
+      "onboard_time": 1669245322,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 260371,
       "num": 260371,
       "word": "没有克洛泽的德国队",
       "onboard_time": 1669216219,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 258738,
+      "num": 258738,
+      "word": "男子醉驾见女友丧命父母要求索赔",
+      "onboard_time": 1669228394,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 258312,
@@ -379,6 +419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 192456,
+      "num": 192456,
+      "word": "父母远行前为30岁女儿做好15天饭菜",
+      "onboard_time": 1669241715,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 185431,
       "num": 185431,
       "word": "日本反超",
@@ -411,14 +459,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 174262,
-      "num": 174262,
-      "word": "C罗成为本届世界杯唯一自由球员",
-      "onboard_time": 1669239852,
-      "rank": 11,
-      "category": "体育"
-    },
-    {
       "raw_hot": 172001,
       "num": 172001,
       "word": "德国队控球率",
@@ -435,6 +475,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 169682,
+      "num": 169682,
+      "word": "堂安律补射破门",
+      "onboard_time": 1669245084,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 165368,
       "num": 165368,
       "word": "郝葭跳河",
@@ -449,6 +497,14 @@
       "onboard_time": 1669200994,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 163803,
+      "num": 64473,
+      "word": "比利时1比0加拿大",
+      "onboard_time": 1669245564,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 162268,
@@ -507,14 +563,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 142895,
-      "num": 114443,
-      "word": "西班牙净胜球赚麻了",
-      "onboard_time": 1669228516,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 142519,
       "num": 142519,
       "word": "龚俊和狗狗终于同框合拍了",
@@ -539,12 +587,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 122970,
-      "num": 111542,
-      "word": "大爷吃网购神药后一天睡近20小时",
-      "onboard_time": 1669239552,
-      "rank": 15,
-      "category": "社会新闻"
+      "raw_hot": 129914,
+      "num": 129914,
+      "word": "郑恺妻子6说最怕听到苗苗说要不",
+      "onboard_time": 1669244119,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 127210,
+      "num": 127210,
+      "word": "日本球迷街头狂欢庆祝",
+      "onboard_time": 1669226479,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 122418,
@@ -552,14 +608,6 @@
       "word": "穆西亚拉 没写完作业的孩子",
       "onboard_time": 1669215857,
       "rank": 45,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 117664,
-      "num": 93781,
-      "word": "日本球迷街头狂欢庆祝",
-      "onboard_time": 1669226479,
-      "rank": 35,
       "category": "体育"
     },
     {
@@ -571,12 +619,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 106127,
-      "num": 102245,
-      "word": "男子醉驾见女友丧命父母要求索赔",
-      "onboard_time": 1669228394,
-      "rank": 47,
-      "category": "社会新闻"
+      "raw_hot": 103900,
+      "num": 81324,
+      "word": "卡塔尔世界杯最大分差",
+      "onboard_time": 1669229299,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 103732,
@@ -595,6 +643,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 100131,
+      "num": 81117,
+      "word": "比利时半场1比0加拿大",
+      "onboard_time": 1669238293,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 91099,
       "num": 66751,
       "word": "王鹤棣确认参加微博视界大会",
@@ -611,6 +667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 81049,
+      "num": 81049,
+      "word": "妈妈辅导哥哥作业被弟弟剪头发",
+      "onboard_time": 1669242075,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 69564,
       "num": 69564,
       "word": "没有勒夫的德国队",
@@ -625,14 +689,6 @@
       "onboard_time": 1669224800,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 57709,
-      "num": 36347,
-      "word": "卡塔尔世界杯最大分差",
-      "onboard_time": 1669229299,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 55565,
@@ -667,28 +723,60 @@
       "category": "体育"
     },
     {
-      "raw_hot": 38843,
-      "num": 38843,
-      "word": "比利时半场1比0加拿大",
-      "onboard_time": 1669238293,
-      "rank": 30,
+      "raw_hot": 42721,
+      "num": 65915,
+      "word": "北京最新核酸查验要求",
+      "onboard_time": 1669245381,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 41815,
+      "num": 65802,
+      "word": "库尔图瓦扑点",
+      "onboard_time": 1669245084,
+      "rank": 41,
       "category": "体育"
     },
     {
-      "raw_hot": 37374,
-      "num": 37374,
-      "word": "父母远行前为30岁女儿做好15天饭菜",
-      "onboard_time": 1669241715,
-      "rank": 46,
+      "raw_hot": 37531,
+      "num": 65654,
+      "word": "老人以88倍价格买下仅值5元膏药",
+      "onboard_time": 1669245443,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 20238,
-      "num": 22778,
-      "word": "妈妈辅导哥哥作业被弟弟剪头发",
-      "onboard_time": 1669242075,
+      "raw_hot": 36153,
+      "num": 64122,
+      "word": "原神3.3版本直播",
+      "onboard_time": 1669245564,
       "rank": 49,
-      "category": "社会新闻"
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 34434,
+      "num": 65429,
+      "word": "洛阳老君山银装素裹似天上宫阙",
+      "onboard_time": 1669245504,
+      "rank": 43,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 34141,
+      "num": 65250,
+      "word": "巴舒亚伊破门",
+      "onboard_time": 1669245084,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 30995,
+      "num": 64830,
+      "word": "柯南柯学名场面",
+      "onboard_time": 1669244420,
+      "rank": 46,
+      "category": "动漫,影视"
     }
   ],
   "hotgov_list": [
