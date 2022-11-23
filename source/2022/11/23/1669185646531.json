@@ -1,0 +1,410 @@
+{
+  "runTime": 1669185646531,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 975757,
+        "num": 975757,
+        "word": "海丝腾床垫最贵超400万",
+        "onboard_time": 1669179166,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 734756,
+        "num": 734756,
+        "word": "沙特王储用私人飞机送球员治伤",
+        "onboard_time": 1669176156,
+        "rank": 1,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 18741,
+        "num": 704165,
+        "word": "哪届世界杯吉祥物是你最爱",
+        "onboard_time": 1669098335,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1672168,
+        "num": 701637,
+        "word": "研究生嫖娼被开除起诉学校被驳回",
+        "onboard_time": 1669175856,
+        "rank": 3,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1297075,
+        "num": 700738,
+        "word": "汪小菲退出麻六记关联公司股东",
+        "onboard_time": 1669178503,
+        "rank": 4,
+        "category": "财经,艺人"
+      },
+      {
+        "raw_hot": 697678,
+        "num": 697678,
+        "word": "自曝被同事投毒百草枯高校老师发声",
+        "onboard_time": 1669181856,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 631728,
+        "num": 631728,
+        "word": "迪丽热巴张柏芝李沁今日封面大片",
+        "onboard_time": 1669184975,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 602305,
+        "num": 602305,
+        "word": "海贼王",
+        "onboard_time": 1669183354,
+        "rank": 7,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 554351,
+        "num": 554351,
+        "word": "星巴克",
+        "onboard_time": 1669183175,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 508952,
+        "num": 508952,
+        "word": "iPhone15或告别纯直边",
+        "onboard_time": 1669175915,
+        "rank": 9,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 864116,
+        "num": 503536,
+        "word": "刘暖曦称江母曾删改证据",
+        "onboard_time": 1669178745,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 540774,
+        "num": 503518,
+        "word": "郑恺说后悔没有早点遇到苗苗",
+        "onboard_time": 1669184794,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 427992,
+        "num": 427992,
+        "word": "妈妈在初三儿子书包发现拆封避孕套",
+        "onboard_time": 1669160188,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 376370,
+        "num": 376370,
+        "word": "德国vs日本",
+        "onboard_time": 1669171891,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 374524,
+        "num": 374524,
+        "word": "假如郝葭成为五少主夫人",
+        "onboard_time": 1669180123,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 335830,
+        "num": 335830,
+        "word": "湖人太阳冲突",
+        "onboard_time": 1669182456,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 316780,
+        "num": 316780,
+        "word": "命韵峋环今天合体直播",
+        "onboard_time": 1669180422,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 269932,
+        "num": 269932,
+        "word": "德国男模队今晚亮相",
+        "onboard_time": 1669181199,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 225736,
+        "num": 225736,
+        "word": "铅山通报高一学生胡某宇失联情况",
+        "onboard_time": 1669178022,
+        "rank": 18,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 222601,
+        "num": 222601,
+        "word": "大四女生为考研自己开自习室",
+        "onboard_time": 1669172792,
+        "rank": 19,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 268711,
+        "num": 221653,
+        "word": "贺顿钱开逸海边吻",
+        "onboard_time": 1669181320,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 218111,
+        "num": 218111,
+        "word": "饿了么挺阿根廷球迷",
+        "onboard_time": 1669179881,
+        "rank": 21,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 213986,
+        "num": 213986,
+        "word": "北京奥运会之后就看不了别的开幕式了",
+        "onboard_time": 1669183594,
+        "rank": 22,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 208723,
+        "num": 208723,
+        "word": "一家三口联手运冰毒8.7公斤",
+        "onboard_time": 1669178981,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200206,
+        "num": 200206,
+        "word": "狗狗因主人没帮忙而生气",
+        "onboard_time": 1669176818,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 198862,
+        "num": 198862,
+        "word": "赵丽颖许半夏周末不见不散",
+        "onboard_time": 1669185393,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 188352,
+        "num": 188352,
+        "word": "3岁女儿0度天要穿裙子妈妈放行",
+        "onboard_time": 1669168295,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186100,
+        "num": 186100,
+        "word": "苍兰诀是爱奇艺当期会员贡献TOP1",
+        "onboard_time": 1669176337,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 181651,
+        "num": 181651,
+        "word": "刘暖曦庭审后接受采访",
+        "onboard_time": 1669178381,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171731,
+        "num": 171731,
+        "word": "农民日报评农民毁菜事件",
+        "onboard_time": 1669170870,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169437,
+        "num": 169437,
+        "word": "13岁男孩患怪病皮肤发黑浑身奇痒",
+        "onboard_time": 1669178324,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163329,
+        "num": 163329,
+        "word": "男子7年与数百匹狼同吃同住成狼王",
+        "onboard_time": 1669173753,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155346,
+        "num": 155346,
+        "word": "卿卿日常又要断更了",
+        "onboard_time": 1669174412,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 151946,
+        "num": 151946,
+        "word": "歼15逼近至不足百米驱离外机",
+        "onboard_time": 1669184556,
+        "rank": 33,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 144694,
+        "num": 144694,
+        "word": "饺子皮",
+        "onboard_time": 1669172132,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139887,
+        "num": 139887,
+        "word": "刘耀文参与时代少年团新歌词曲制作",
+        "onboard_time": 1669178862,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 138238,
+        "num": 138238,
+        "word": "科比女儿被男子跟踪骚扰",
+        "onboard_time": 1669185393,
+        "rank": 36,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 126164,
+        "num": 136359,
+        "word": "安卓手机颜值哪家强",
+        "onboard_time": 1669185212,
+        "rank": 37,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 133753,
+        "num": 133753,
+        "word": "白居易诗刻现身800多年前金代墓葬",
+        "onboard_time": 1669181739,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130772,
+        "num": 130772,
+        "word": "方舱日记",
+        "onboard_time": 1669185154,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129293,
+        "num": 129293,
+        "word": "iOS16锁屏通知引入三种显示方式",
+        "onboard_time": 1669184194,
+        "rank": 40,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 128714,
+        "num": 128714,
+        "word": "张若昀大侦探8路透",
+        "onboard_time": 1669178079,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128560,
+        "num": 128560,
+        "word": "女方返还6万彩礼男方嫌少将其杀害",
+        "onboard_time": 1669164037,
+        "rank": 42,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 128083,
+        "num": 128083,
+        "word": "光与夜之恋",
+        "onboard_time": 1669183354,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 126523,
+        "num": 126523,
+        "word": "疫情交通梗阻成蔬菜滞销重要因素",
+        "onboard_time": 1669176275,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126105,
+        "num": 126105,
+        "word": "谢兴阳综艺之神又降临",
+        "onboard_time": 1669184014,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125676,
+        "num": 125676,
+        "word": "泰国版下一站是幸福预告",
+        "onboard_time": 1669176877,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 118500,
+        "num": 118500,
+        "word": "比亚迪涨价2000到6000元不等",
+        "onboard_time": 1669173631,
+        "rank": 47,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 116611,
+        "num": 116611,
+        "word": "微博视界大会阵容猜测",
+        "onboard_time": 1669182576,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106792,
+        "num": 106792,
+        "word": "72岁老人给鸡喝70块钱的牛奶",
+        "onboard_time": 1669164638,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#在法治轨道上全面建设社会主义现代化国家#"
+    }
+  }
+}
