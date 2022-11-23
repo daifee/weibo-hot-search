@@ -1,6 +1,6 @@
 {
   "startTime": 1668961718135,
-  "endTime": 1669228774402,
+  "endTime": 1669230941722,
   "band_list": [
     {
       "raw_hot": 15128338,
@@ -8187,6 +8187,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 117869,
+      "num": 53840,
+      "word": "西班牙净胜球赚麻了",
+      "onboard_time": 1669228516,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 117664,
+      "num": 93781,
+      "word": "日本球迷街头狂欢庆祝",
+      "onboard_time": 1669226479,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 117628,
       "num": 117628,
       "word": "94岁独居老人被邻居照顾30年",
@@ -8771,12 +8787,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 91870,
-      "num": 55247,
-      "word": "日本球迷街头狂欢庆祝",
-      "onboard_time": 1669226479,
-      "rank": 35,
-      "category": "体育"
+      "raw_hot": 93056,
+      "num": 93056,
+      "word": "男子醉驾见女友丧命父母要求索赔",
+      "onboard_time": 1669228394,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 90689,
@@ -8979,6 +8995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 57709,
+      "num": 33764,
+      "word": "卡塔尔世界杯最大分差",
+      "onboard_time": 1669229299,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 56771,
       "num": 141268,
       "word": "深夜看球吃泡面有多爽",
@@ -9003,11 +9027,11 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 53840,
-      "num": 53840,
-      "word": "西班牙净胜球赚麻了",
-      "onboard_time": 1669228516,
-      "rank": 32,
+      "raw_hot": 50753,
+      "num": 33517,
+      "word": "西班牙全场传球1043次",
+      "onboard_time": 1669228754,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -9113,22 +9137,6 @@
       "onboard_time": 1669141817,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 32977,
-      "num": 32977,
-      "word": "男子醉驾见女友丧命父母要求索赔",
-      "onboard_time": 1669228394,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 32417,
-      "num": 32417,
-      "word": "西班牙全场传球1043次",
-      "onboard_time": 1669228754,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 28122,
