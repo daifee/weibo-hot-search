@@ -1,6 +1,6 @@
 {
   "startTime": 1669134647959,
-  "endTime": 1669175181873,
+  "endTime": 1669177512417,
   "band_list": [
     {
       "raw_hot": 3352526,
@@ -9,6 +9,14 @@
       "onboard_time": 1669133015,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2089923,
+      "num": 2089923,
+      "word": "研究生嫖娼被开除起诉学校被驳回",
+      "onboard_time": 1669175856,
+      "rank": 0,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1998653,
@@ -48,6 +56,14 @@
       "word": "女孩将筷子插电座致9根手指被切",
       "onboard_time": 1669159950,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1243443,
+      "num": 1243443,
+      "word": "农民日报评农民毁菜事件",
+      "onboard_time": 1669170870,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -99,14 +115,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1055384,
-      "num": 1055384,
-      "word": "农民日报评农民毁菜事件",
-      "onboard_time": 1669170870,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 928698,
       "num": 928698,
       "word": "梅西输球后刘畊宏哭了",
@@ -155,20 +163,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 755133,
+      "num": 755133,
+      "word": "大四女生为考研自己开自习室",
+      "onboard_time": 1669172792,
+      "rank": 28,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 745981,
       "num": 745981,
       "word": "法国4比1澳大利亚",
       "onboard_time": 1669151832,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 726404,
-      "num": 514216,
-      "word": "大四女生为考研自己开自习室",
-      "onboard_time": 1669172792,
-      "rank": 28,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 703516,
@@ -201,6 +209,14 @@
       "onboard_time": 1669163016,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 640943,
+      "num": 640943,
+      "word": "迪丽热巴微醺妆四宫格",
+      "onboard_time": 1669176457,
+      "rank": 8,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 629163,
@@ -283,12 +299,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 529761,
+      "num": 529761,
+      "word": "比亚迪涨价2000到6000元不等",
+      "onboard_time": 1669173631,
+      "rank": 15,
+      "category": "财经,科技"
+    },
+    {
       "raw_hot": 523168,
       "num": 523168,
       "word": "王冰冰赖美云甜妹同框",
       "onboard_time": 1669165833,
       "rank": 14,
       "category": "综艺,体育"
+    },
+    {
+      "raw_hot": 517025,
+      "num": 517025,
+      "word": "饺子皮",
+      "onboard_time": 1669172132,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 500756,
@@ -299,20 +331,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 495991,
+      "num": 495991,
+      "word": "iPhone15或告别纯直边",
+      "onboard_time": 1669175915,
+      "rank": 13,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 491713,
+      "num": 491713,
+      "word": "苍兰诀是爱奇艺当期会员贡献TOP1",
+      "onboard_time": 1669176337,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 480963,
       "num": 480963,
       "word": "陈飞宇张婧仪小学生行为日常",
       "onboard_time": 1669172972,
       "rank": 34,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 470310,
-      "num": 470310,
-      "word": "饺子皮",
-      "onboard_time": 1669172132,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 468845,
@@ -379,14 +419,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 405941,
-      "num": 405941,
-      "word": "比亚迪涨价2000到6000元不等",
-      "onboard_time": 1669173631,
-      "rank": 15,
-      "category": "财经,科技"
-    },
-    {
       "raw_hot": 405712,
       "num": 405712,
       "word": "前苹果高管称iPad正走下坡路",
@@ -417,6 +449,14 @@
       "onboard_time": 1669125762,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 372196,
+      "num": 242663,
+      "word": "沙特王储用私人飞机送球员治伤",
+      "onboard_time": 1669176156,
+      "rank": 30,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 363295,
@@ -507,6 +547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 325038,
+      "num": 325038,
+      "word": "令人心动的offer4建筑师季实习生官宣",
+      "onboard_time": 1669174474,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 321060,
       "num": 321060,
       "word": "白鹿小香风造型上班路透",
@@ -563,6 +611,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 311942,
+      "num": 311942,
+      "word": "卿卿日常又要断更了",
+      "onboard_time": 1669174412,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 309136,
       "num": 309136,
       "word": "海上的大雪是这样的",
@@ -587,12 +643,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 299693,
-      "num": 231091,
-      "word": "令人心动的offer4建筑师季实习生官宣",
-      "onboard_time": 1669174474,
-      "rank": 30,
-      "category": "综艺"
+      "raw_hot": 294427,
+      "num": 294427,
+      "word": "男子7年与数百匹狼同吃同住成狼王",
+      "onboard_time": 1669173753,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 293847,
@@ -600,6 +656,14 @@
       "word": "沙特球迷庆祝胜利把家里门拆了",
       "onboard_time": 1669134692,
       "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 284908,
+      "num": 284908,
+      "word": "卢卡斯因伤退出世界杯",
+      "onboard_time": 1669173091,
+      "rank": 46,
       "category": "体育"
     },
     {
@@ -619,14 +683,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 265324,
-      "num": 210524,
-      "word": "卢卡斯因伤退出世界杯",
-      "onboard_time": 1669173091,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 257104,
       "num": 257104,
       "word": "世界杯史上第一个可拆卸球场",
@@ -641,6 +697,14 @@
       "onboard_time": 1669128705,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 254840,
+      "num": 224982,
+      "word": "疫情交通梗阻成蔬菜滞销重要因素",
+      "onboard_time": 1669176275,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 250349,
@@ -699,14 +763,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 238142,
-      "num": 238142,
-      "word": "男子7年与数百匹狼同吃同住成狼王",
-      "onboard_time": 1669173753,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 236690,
       "num": 236690,
       "word": "足球反着买 别墅靠大海",
@@ -724,7 +780,7 @@
     },
     {
       "raw_hot": 230168,
-      "num": 176634,
+      "num": 207256,
       "word": "卿卿日常李薇被扇耳光",
       "onboard_time": 1669174052,
       "rank": 40,
@@ -779,12 +835,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 217342,
+      "num": 217342,
+      "word": "狗狗因主人没帮忙而生气",
+      "onboard_time": 1669176818,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 216125,
       "num": 216125,
       "word": "张真源视频信庆出道三周年",
       "onboard_time": 1669171533,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 213117,
+      "num": 213117,
+      "word": "女子被骗2万怕被骂编造绑架大戏",
+      "onboard_time": 1669173452,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 211657,
@@ -811,12 +883,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 196576,
-      "num": 196576,
-      "word": "女子被骗2万怕被骂编造绑架大戏",
-      "onboard_time": 1669173452,
-      "rank": 37,
-      "category": "社会新闻"
+      "raw_hot": 196253,
+      "num": 196253,
+      "word": "足球黑话你都知道哪些",
+      "onboard_time": 1669177238,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 195912,
@@ -843,11 +915,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 190097,
+      "num": 190097,
+      "word": "泰国版下一站是幸福预告",
+      "onboard_time": 1669176877,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 189803,
       "num": 189803,
       "word": "吉鲁破门",
       "onboard_time": 1669159706,
       "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 188461,
+      "num": 193030,
+      "word": "为什么说大连是足球城",
+      "onboard_time": 1669176697,
+      "rank": 41,
       "category": "体育"
     },
     {
@@ -881,6 +969,14 @@
       "onboard_time": 1669125464,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 175372,
+      "num": 175372,
+      "word": "获得世界杯冠军最多的国家",
+      "onboard_time": 1669174954,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 174600,
@@ -947,6 +1043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 156868,
+      "num": 156868,
+      "word": "俄恶作剧博主冒充马克龙与波兰总统通话",
+      "onboard_time": 1669177364,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 156840,
       "num": 156840,
       "word": "一键查询梅西球迷精神状态",
@@ -961,14 +1065,6 @@
       "onboard_time": 1669169614,
       "rank": 41,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 155289,
-      "num": 155289,
-      "word": "获得世界杯冠军最多的国家",
-      "onboard_time": 1669174954,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 154061,
@@ -1073,6 +1169,14 @@
       "onboard_time": 1669175015,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 112801,
+      "num": 492217,
+      "word": "那些海外爆火的中国品牌",
+      "onboard_time": 1669176035,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 110239,
