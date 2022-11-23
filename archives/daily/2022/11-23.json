@@ -1,6 +1,6 @@
 {
   "startTime": 1669134647959,
-  "endTime": 1669203231390,
+  "endTime": 1669207189213,
   "band_list": [
     {
       "raw_hot": 3352526,
@@ -67,6 +67,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1522239,
+      "num": 1522239,
+      "word": "终究还是内马尔承受了一切",
+      "onboard_time": 1669203334,
+      "rank": 0,
+      "category": "体育,幽默"
+    },
+    {
       "raw_hot": 1512322,
       "num": 1512322,
       "word": "郑恺说后悔没有早点遇到苗苗",
@@ -89,6 +97,14 @@
       "onboard_time": 1669179166,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1326183,
+      "num": 1326183,
+      "word": "郝葭跳河",
+      "onboard_time": 1669204530,
+      "rank": 1,
+      "category": "影视"
     },
     {
       "raw_hot": 1320534,
@@ -219,6 +235,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 981701,
+      "num": 392531,
+      "word": "张兰不是麻六记股东",
+      "onboard_time": 1669203575,
+      "rank": 10,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 928698,
       "num": 928698,
       "word": "梅西输球后刘畊宏哭了",
@@ -259,6 +283,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 842015,
+      "num": 842015,
+      "word": "10岁女孩买馕饼误付3万元",
+      "onboard_time": 1669200994,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 828700,
       "num": 756377,
       "word": "汤唯IU同框",
@@ -297,6 +329,14 @@
       "onboard_time": 1669172792,
       "rank": 28,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 751116,
+      "num": 751116,
+      "word": "摩洛哥0比0战平克罗地亚",
+      "onboard_time": 1669205319,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 745981,
@@ -403,14 +443,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 632169,
-      "num": 632169,
-      "word": "10岁女孩买馕饼误付3万元",
-      "onboard_time": 1669200994,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 631728,
       "num": 631728,
       "word": "迪丽热巴张柏芝李沁今日封面大片",
@@ -441,6 +473,14 @@
       "onboard_time": 1669197696,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 616810,
+      "num": 616810,
+      "word": "男子就餐喝一斤半白酒后身亡",
+      "onboard_time": 1669203811,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 607674,
@@ -537,6 +577,14 @@
       "onboard_time": 1669155495,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 560063,
+      "num": 210107,
+      "word": "陈小纭发长文祝福郝葭",
+      "onboard_time": 1669206335,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 554351,
@@ -891,6 +939,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 373725,
+      "num": 373725,
+      "word": "男子性骚扰女同事被开除索赔21万",
+      "onboard_time": 1669204655,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 370452,
+      "num": 370452,
+      "word": "网友吐槽银行每月只上2天班",
+      "onboard_time": 1669204900,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 370038,
       "num": 370038,
       "word": "为什么90后还在单身",
@@ -1075,11 +1139,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 333058,
+      "num": 333058,
+      "word": "官方回应政务人员扇办事市民耳光",
+      "onboard_time": 1669201594,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 332609,
       "num": 290185,
       "word": "风吹半夏定档11月27日",
       "onboard_time": 1669170633,
       "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 332185,
+      "num": 158268,
+      "word": "陈飞宇喝水vs李峋喝水",
+      "onboard_time": 1669206212,
+      "rank": 39,
       "category": "影视"
     },
     {
@@ -1097,6 +1177,14 @@
       "onboard_time": 1669197335,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 330479,
+      "num": 330479,
+      "word": "魔笛",
+      "onboard_time": 1669205319,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 327761,
@@ -1225,6 +1313,14 @@
       "onboard_time": 1669162232,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 308868,
+      "num": 308868,
+      "word": "卿卿日常",
+      "onboard_time": 1669124982,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 307058,
@@ -1371,6 +1467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 268281,
+      "num": 268281,
+      "word": "DK官宣新赛季大名单",
+      "onboard_time": 1669202432,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 267856,
       "num": 267856,
       "word": "11月22日新增本土无症状26242例",
@@ -1385,6 +1489,22 @@
       "onboard_time": 1669176275,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 261423,
+      "num": 261423,
+      "word": "李峋对朱韵说老子谁也不怕",
+      "onboard_time": 1669202496,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 259554,
+      "num": 242148,
+      "word": "李峋再次被高见鸿陷害",
+      "onboard_time": 1669203030,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 257104,
@@ -1459,14 +1579,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 240876,
-      "num": 240876,
-      "word": "DK官宣新赛季大名单",
-      "onboard_time": 1669202432,
-      "rank": 22,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 239474,
       "num": 239474,
       "word": "梅西说之后必须赢",
@@ -1481,14 +1593,6 @@
       "onboard_time": 1669129728,
       "rank": 28,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 238450,
-      "num": 238450,
-      "word": "官方回应政务人员扇办事市民耳光",
-      "onboard_time": 1669201594,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 238376,
@@ -1595,6 +1699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 217897,
+      "num": 217897,
+      "word": "赵芳如被二少主下药",
+      "onboard_time": 1669206574,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 217892,
       "num": 217892,
       "word": "绵阳疫情防控",
@@ -1643,6 +1755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 211920,
+      "num": 211920,
+      "word": "张大仙守家五杀",
+      "onboard_time": 1669203994,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 211657,
       "num": 211657,
       "word": "林俊杰说回公司了",
@@ -1667,12 +1787,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 207078,
+      "num": 207078,
+      "word": "广东人看球能多有仪式感",
+      "onboard_time": 1669206635,
+      "rank": 31,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 203404,
       "num": 203404,
       "word": "世界杯 大冷门",
       "onboard_time": 1669119487,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 202318,
+      "num": 202318,
+      "word": "卿卿日常全员救郝葭",
+      "onboard_time": 1669206335,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 201700,
@@ -1705,6 +1841,14 @@
       "onboard_time": 1669194457,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 197166,
+      "num": 197166,
+      "word": "综艺算艺人作品吗",
+      "onboard_time": 1669206396,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 197101,
@@ -1827,20 +1971,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 183565,
-      "num": 181769,
-      "word": "李峋再次被高见鸿陷害",
-      "onboard_time": 1669203030,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 183056,
       "num": 183056,
       "word": "12月的电影票安排好了",
       "onboard_time": 1669178204,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 182590,
+      "num": 182590,
+      "word": "WHG对阵JT",
+      "onboard_time": 1669206815,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 182527,
@@ -1939,14 +2083,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 167332,
-      "num": 167332,
-      "word": "卿卿日常",
-      "onboard_time": 1669124982,
-      "rank": 44,
-      "category": "影视"
-    },
-    {
       "raw_hot": 167060,
       "num": 167060,
       "word": "德国队",
@@ -1995,6 +2131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 159060,
+      "num": 852310,
+      "word": "世界杯随处可见中国元素",
+      "onboard_time": 1669205557,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 158637,
       "num": 158637,
       "word": "假如滑跪有段位",
@@ -2041,6 +2185,14 @@
       "onboard_time": 1669169614,
       "rank": 41,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 155641,
+      "num": 155641,
+      "word": "大学生需要的课又多了一门",
+      "onboard_time": 1669205137,
+      "rank": 40,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 154444,
@@ -2259,6 +2411,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 121460,
+      "num": 121460,
+      "word": "本届世界杯F组首轮0比0",
+      "onboard_time": 1669206574,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 120422,
       "num": 120422,
       "word": "江苏高中生奋力拉回坠楼男孩",
@@ -2279,6 +2439,14 @@
       "num": 116594,
       "word": "78岁老人起诉3儿1女要求尽孝",
       "onboard_time": 1669192054,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 116517,
+      "num": 116517,
+      "word": "4岁男孩捡5角钱交给警察叔叔",
+      "onboard_time": 1669207118,
       "rank": 47,
       "category": "社会新闻"
     },
@@ -2369,6 +2537,14 @@
       "onboard_time": 1669137503,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 104177,
+      "num": 104177,
+      "word": "莫德里奇的最后一届世界杯",
+      "onboard_time": 1669205917,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 102135,
@@ -2497,6 +2673,14 @@
       "onboard_time": 1669142773,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1878,
+      "num": 333316,
+      "word": "赵明称国产屏幕已经站起来了",
+      "onboard_time": 1669204837,
+      "rank": 14,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
