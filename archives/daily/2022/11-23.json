@@ -1,6 +1,6 @@
 {
   "startTime": 1669134647959,
-  "endTime": 1669160125509,
+  "endTime": 1669167876848,
   "band_list": [
     {
       "raw_hot": 3352526,
@@ -27,12 +27,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1707563,
+      "num": 1207655,
+      "word": "妈妈在初三儿子书包发现拆封避孕套",
+      "onboard_time": 1669160188,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1503317,
       "num": 1503317,
       "word": "曼联官宣C罗离队",
       "onboard_time": 1669139240,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1257708,
+      "num": 1257708,
+      "word": "女孩将筷子插电座致9根手指被切",
+      "onboard_time": 1669159950,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1188880,
+      "num": 1188880,
+      "word": "女方返还6万彩礼男方嫌少将其杀害",
+      "onboard_time": 1669164037,
+      "rank": 4,
+      "category": "社会负面"
     },
     {
       "raw_hot": 1182269,
@@ -99,6 +123,30 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 671929,
+      "num": 671929,
+      "word": "72岁老人给鸡喝70块钱的牛奶",
+      "onboard_time": 1669164638,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 645128,
+      "num": 645128,
+      "word": "北京昨增388例本土确诊",
+      "onboard_time": 1669163016,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 629163,
+      "num": 629163,
+      "word": "梅西全场数据",
+      "onboard_time": 1669162899,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 625073,
       "num": 625073,
       "word": "HLE官宣Viper回归",
@@ -139,8 +187,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 449993,
-      "num": 449993,
+      "raw_hot": 468845,
+      "num": 468845,
       "word": "阿根廷出线",
       "onboard_time": 1669122281,
       "rank": 47,
@@ -187,6 +235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 401531,
+      "num": 401531,
+      "word": "王冰冰赖美云甜妹同框",
+      "onboard_time": 1669165833,
+      "rank": 14,
+      "category": "综艺,体育"
+    },
+    {
       "raw_hot": 386309,
       "num": 386309,
       "word": "上海宝妈花140万将地下室改成魔法屋",
@@ -211,12 +267,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 357228,
+      "num": 144936,
+      "word": "刘畊宏说跳操流汗滴到眼睛",
+      "onboard_time": 1669167871,
+      "rank": 47,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 354602,
       "num": 354602,
       "word": "郑州新增1例死亡病例",
       "onboard_time": 1669123662,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 342311,
+      "num": 342311,
+      "word": "时代少年团一封感谢信",
+      "onboard_time": 1669165900,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 337442,
+      "num": 337442,
+      "word": "梅西说打击非常大",
+      "onboard_time": 1669166557,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 331089,
@@ -232,6 +312,46 @@
       "word": "警方回应男子夜钓时钓到一具浮尸",
       "onboard_time": 1669121806,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 317056,
+      "num": 317056,
+      "word": "杨幂汤晶媚新剧第一次联手",
+      "onboard_time": 1669135888,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 314629,
+      "num": 314629,
+      "word": "Deft",
+      "onboard_time": 1669161574,
+      "rank": 20,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 313616,
+      "num": 313616,
+      "word": "男子偷转走交往6年女友8.5万余元",
+      "onboard_time": 1669158922,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 312888,
+      "num": 312888,
+      "word": "二审法庭调查刘鑫一方新证据",
+      "onboard_time": 1669163921,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 309136,
+      "num": 309136,
+      "word": "海上的大雪是这样的",
+      "onboard_time": 1669162232,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -283,6 +403,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 254362,
+      "num": 254362,
+      "word": "11月22日新增本土无症状26242例",
+      "onboard_time": 1669167632,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 250349,
+      "num": 250349,
+      "word": "世界杯期间被女友上了一课",
+      "onboard_time": 1669140199,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 250269,
       "num": 250269,
       "word": "WayV Phantom",
@@ -307,12 +443,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 239474,
+      "num": 239474,
+      "word": "梅西说之后必须赢",
+      "onboard_time": 1669165237,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 238626,
       "num": 238626,
       "word": "叶舒华跳舞视频",
       "onboard_time": 1669129728,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 238376,
+      "num": 238376,
+      "word": "男子在卡塔尔逛商场发现纯金手机",
+      "onboard_time": 1669149791,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 236690,
@@ -347,6 +499,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 218581,
+      "num": 212450,
+      "word": "卿卿日常尹岸变身耙耳朵",
+      "onboard_time": 1669165179,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 217892,
       "num": 217892,
       "word": "绵阳疫情防控",
@@ -355,11 +515,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 211149,
-      "num": 211149,
-      "word": "男子在卡塔尔逛商场发现纯金手机",
-      "onboard_time": 1669149791,
-      "rank": 31,
+      "raw_hot": 213342,
+      "num": 213342,
+      "word": "信用社回应储户称五万存款不翼而飞",
+      "onboard_time": 1669166674,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -369,6 +529,14 @@
       "onboard_time": 1669119487,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 191920,
+      "num": 191920,
+      "word": "Doinb",
+      "onboard_time": 1669160069,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 189803,
@@ -435,6 +603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 169263,
+      "num": 169263,
+      "word": "莱万点球被扑",
+      "onboard_time": 1669161334,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 167332,
       "num": 167332,
       "word": "卿卿日常",
@@ -483,6 +659,30 @@
       "category": "体育"
     },
     {
+      "raw_hot": 153868,
+      "num": 153868,
+      "word": "吴镇宇神扑",
+      "onboard_time": 1669162420,
+      "rank": 44,
+      "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 148054,
+      "num": 148054,
+      "word": "这张中国面孔被很多坦桑尼亚人记住",
+      "onboard_time": 1669144034,
+      "rank": 29,
+      "category": "社会正能量"
+    },
+    {
+      "raw_hot": 143132,
+      "num": 143132,
+      "word": "李峋别偷笑了",
+      "onboard_time": 1669167871,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 138664,
       "num": 138664,
       "word": "法国vs澳大利亚",
@@ -515,36 +715,12 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 115019,
-      "num": 115019,
-      "word": "世界杯期间被女友上了一课",
-      "onboard_time": 1669140199,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 110673,
-      "num": 110673,
-      "word": "杨幂汤晶媚新剧第一次联手",
-      "onboard_time": 1669135888,
-      "rank": 47,
-      "category": "影视"
-    },
-    {
       "raw_hot": 110239,
       "num": 110239,
       "word": "苏醒最不快乐的一天",
       "onboard_time": 1669120973,
       "rank": 38,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 108324,
-      "num": 108324,
-      "word": "男子偷转走交往6年女友8.5万余元",
-      "onboard_time": 1669158922,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 105912,
@@ -579,14 +755,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 74578,
-      "num": 72061,
-      "word": "Doinb",
-      "onboard_time": 1669160069,
-      "rank": 47,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 72221,
       "num": 72221,
       "word": "梅西也是巨蟹座",
@@ -595,28 +763,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 71282,
-      "num": 71282,
-      "word": "女孩将筷子插电座致9根手指被切",
-      "onboard_time": 1669159950,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 69009,
       "num": 69009,
       "word": "破次元许愿季",
       "onboard_time": 1669138281,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 58742,
-      "num": 130893,
-      "word": "这张中国面孔被很多坦桑尼亚人记住",
-      "onboard_time": 1669144034,
-      "rank": 29,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 50406,
@@ -659,6 +811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 28329,
+      "num": 1650642,
+      "word": "哪届世界杯吉祥物是你最爱",
+      "onboard_time": 1669098335,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 27398,
       "num": 27398,
       "word": "奥乔亚扑点",
@@ -673,14 +833,6 @@
       "onboard_time": 1669142773,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 25366,
-      "num": 1650642,
-      "word": "哪届世界杯吉祥物是你最爱",
-      "onboard_time": 1669098335,
-      "rank": 2,
-      "category": "体育"
     }
   ],
   "hotgov_list": [

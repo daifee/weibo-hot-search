@@ -1,6 +1,6 @@
 {
   "startTime": 1668961718135,
-  "endTime": 1669160125509,
+  "endTime": 1669167876848,
   "band_list": [
     {
       "raw_hot": 13131209,
@@ -259,6 +259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1707563,
+      "num": 1207655,
+      "word": "妈妈在初三儿子书包发现拆封避孕套",
+      "onboard_time": 1669160188,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1683391,
       "num": 1683391,
       "word": "卡塔尔王子看了都愣住",
@@ -427,6 +435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1257708,
+      "num": 1257708,
+      "word": "女孩将筷子插电座致9根手指被切",
+      "onboard_time": 1669159950,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1246040,
       "num": 1246040,
       "word": "中国除了中国队没去其他都去了",
@@ -457,6 +473,14 @@
       "onboard_time": 1668960030,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1188880,
+      "num": 1188880,
+      "word": "女方返还6万彩礼男方嫌少将其杀害",
+      "onboard_time": 1669164037,
+      "rank": 4,
+      "category": "社会负面"
     },
     {
       "raw_hot": 1184226,
@@ -1075,6 +1099,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 671929,
+      "num": 671929,
+      "word": "72岁老人给鸡喝70块钱的牛奶",
+      "onboard_time": 1669164638,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 669838,
       "num": 669838,
       "word": "王鹤棣说抓紧时间干收工五点半",
@@ -1121,6 +1153,14 @@
       "onboard_time": 1669121085,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 645128,
+      "num": 645128,
+      "word": "北京昨增388例本土确诊",
+      "onboard_time": 1669163016,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 644925,
@@ -1177,6 +1217,14 @@
       "onboard_time": 1669123662,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 629163,
+      "num": 629163,
+      "word": "梅西全场数据",
+      "onboard_time": 1669162899,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 628950,
@@ -1747,6 +1795,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 468845,
+      "num": 468845,
+      "word": "阿根廷出线",
+      "onboard_time": 1669122281,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 465546,
       "num": 465546,
       "word": "世界杯为什么没有英国队",
@@ -1817,14 +1873,6 @@
       "onboard_time": 1669076013,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 449993,
-      "num": 449993,
-      "word": "阿根廷出线",
-      "onboard_time": 1669122281,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 449557,
@@ -2195,6 +2243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 401531,
+      "num": 401531,
+      "word": "王冰冰赖美云甜妹同框",
+      "onboard_time": 1669165833,
+      "rank": 14,
+      "category": "综艺,体育"
+    },
+    {
       "raw_hot": 400893,
       "num": 1842618,
       "word": "卡塔尔世界杯有哪些中国元素",
@@ -2507,6 +2563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 357228,
+      "num": 144936,
+      "word": "刘畊宏说跳操流汗滴到眼睛",
+      "onboard_time": 1669167871,
+      "rank": 47,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 356627,
       "num": 356627,
       "word": "符合哪些条件可停止全员核酸",
@@ -2627,6 +2691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 342311,
+      "num": 342311,
+      "word": "时代少年团一封感谢信",
+      "onboard_time": 1669165900,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 341195,
       "num": 341195,
       "word": "这就是寄猫篱下吧",
@@ -2657,6 +2729,14 @@
       "onboard_time": 1669101391,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 337442,
+      "num": 337442,
+      "word": "梅西说打击非常大",
+      "onboard_time": 1669166557,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 337100,
@@ -2843,12 +2923,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 317056,
+      "num": 317056,
+      "word": "杨幂汤晶媚新剧第一次联手",
+      "onboard_time": 1669135888,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 314856,
       "num": 314856,
       "word": "阿根廷时隔32年再输世界杯首战",
       "onboard_time": 1669123000,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 314629,
+      "num": 314629,
+      "word": "Deft",
+      "onboard_time": 1669161574,
+      "rank": 20,
+      "category": "游戏"
     },
     {
       "raw_hot": 314323,
@@ -2867,12 +2963,28 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 313616,
+      "num": 313616,
+      "word": "男子偷转走交往6年女友8.5万余元",
+      "onboard_time": 1669158922,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 313397,
       "num": 313397,
       "word": "想坐王鹤棣时宴的副驾",
       "onboard_time": 1669028079,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 312888,
+      "num": 312888,
+      "word": "二审法庭调查刘鑫一方新证据",
+      "onboard_time": 1669163921,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 311954,
@@ -2889,6 +3001,14 @@
       "onboard_time": 1669008576,
       "rank": 40,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 309136,
+      "num": 309136,
+      "word": "海上的大雪是这样的",
+      "onboard_time": 1669162232,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 308380,
@@ -3395,6 +3515,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 254362,
+      "num": 254362,
+      "word": "11月22日新增本土无症状26242例",
+      "onboard_time": 1669167632,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 254165,
       "num": 254165,
       "word": "Jennie新歌",
@@ -3449,6 +3577,14 @@
       "onboard_time": 1669104931,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 250349,
+      "num": 250349,
+      "word": "世界杯期间被女友上了一课",
+      "onboard_time": 1669140199,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 250269,
@@ -3563,12 +3699,28 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 239474,
+      "num": 239474,
+      "word": "梅西说之后必须赢",
+      "onboard_time": 1669165237,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 239159,
       "num": 239159,
       "word": "被广西辣椒拌水果惊艳住了",
       "onboard_time": 1669106494,
       "rank": 42,
       "category": "美食"
+    },
+    {
+      "raw_hot": 238376,
+      "num": 238376,
+      "word": "男子在卡塔尔逛商场发现纯金手机",
+      "onboard_time": 1669149791,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 236614,
@@ -3755,6 +3907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 218581,
+      "num": 212450,
+      "word": "卿卿日常尹岸变身耙耳朵",
+      "onboard_time": 1669165179,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 217980,
       "num": 217980,
       "word": "陈飞宇李峋霸气宣言",
@@ -3875,20 +4035,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 213342,
+      "num": 213342,
+      "word": "信用社回应储户称五万存款不翼而飞",
+      "onboard_time": 1669166674,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 211545,
       "num": 211545,
       "word": "阿凡达2水之道角色海报",
       "onboard_time": 1669080753,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 211149,
-      "num": 211149,
-      "word": "男子在卡塔尔逛商场发现纯金手机",
-      "onboard_time": 1669149791,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 211057,
@@ -4177,6 +4337,14 @@
       "onboard_time": 1669110337,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 191920,
+      "num": 191920,
+      "word": "Doinb",
+      "onboard_time": 1669160069,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 191557,
@@ -4603,6 +4771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 169263,
+      "num": 169263,
+      "word": "莱万点球被扑",
+      "onboard_time": 1669161334,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 169233,
       "num": 169233,
       "word": "11月21日新增2145例本土确诊",
@@ -4803,6 +4979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 153868,
+      "num": 153868,
+      "word": "吴镇宇神扑",
+      "onboard_time": 1669162420,
+      "rank": 44,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 153801,
       "num": 153801,
       "word": "李峋发型的三次变化",
@@ -4897,6 +5081,14 @@
       "onboard_time": 1668961827,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 148054,
+      "num": 148054,
+      "word": "这张中国面孔被很多坦桑尼亚人记住",
+      "onboard_time": 1669144034,
+      "rank": 29,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 147847,
@@ -5041,6 +5233,14 @@
       "onboard_time": 1669101513,
       "rank": 43,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 143132,
+      "num": 143132,
+      "word": "李峋别偷笑了",
+      "onboard_time": 1669167871,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 143122,
@@ -5531,14 +5731,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 115019,
-      "num": 115019,
-      "word": "世界杯期间被女友上了一课",
-      "onboard_time": 1669140199,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 114958,
       "num": 114958,
       "word": "杭州的外卖能有多精致",
@@ -5643,14 +5835,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 110673,
-      "num": 110673,
-      "word": "杨幂汤晶媚新剧第一次联手",
-      "onboard_time": 1669135888,
-      "rank": 47,
-      "category": "影视"
-    },
-    {
       "raw_hot": 110405,
       "num": 110405,
       "word": "梅西很自豪能代表阿根廷",
@@ -5736,14 +5920,6 @@
       "word": "北京疫情发布会",
       "onboard_time": 1669025138,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 108324,
-      "num": 108324,
-      "word": "男子偷转走交往6年女友8.5万余元",
-      "onboard_time": 1669158922,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -6075,28 +6251,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 74578,
-      "num": 72061,
-      "word": "Doinb",
-      "onboard_time": 1669160069,
-      "rank": 47,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 72221,
       "num": 72221,
       "word": "梅西也是巨蟹座",
       "onboard_time": 1669140918,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 71282,
-      "num": 71282,
-      "word": "女孩将筷子插电座致9根手指被切",
-      "onboard_time": 1669159950,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 69009,
@@ -6137,14 +6297,6 @@
       "onboard_time": 1668964344,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 58742,
-      "num": 130893,
-      "word": "这张中国面孔被很多坦桑尼亚人记住",
-      "onboard_time": 1669144034,
-      "rank": 29,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 56771,

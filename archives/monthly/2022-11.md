@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/01 00:36:21 ~ 2022/11/23 07:35:25
+本榜单时间：2022/11/01 00:36:21 ~ 2022/11/23 09:44:36
 </p>
 </blockquote>
 <p>
@@ -1179,6 +1179,12 @@ blue露脸（热度：1747178）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E5%9C%A8%E5%88%9D%E4%B8%89%E5%84%BF%E5%AD%90%E4%B9%A6%E5%8C%85%E5%8F%91%E7%8E%B0%E6%8B%86%E5%B0%81%E9%81%BF%E5%AD%95%E5%A5%97%23" target="weibo">
+妈妈在初三儿子书包发现拆封避孕套（热度：1707563）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%A5%94%E4%B8%A7%E8%AF%B7%E5%81%874%E5%A4%A9%E8%A2%AB%E6%89%A33000%E5%85%83%E5%B7%A5%E8%B5%84%23" target="weibo">
 女子奔丧请假4天被扣3000元工资（热度：1706005）
 </a>
@@ -2139,6 +2145,12 @@ gemini（热度：1285265）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E5%B0%86%E7%AD%B7%E5%AD%90%E6%8F%92%E7%94%B5%E5%BA%A7%E8%87%B49%E6%A0%B9%E6%89%8B%E6%8C%87%E8%A2%AB%E5%88%87%23" target="weibo">
+女孩将筷子插电座致9根手指被切（热度：1257708）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E6%B3%B0%E5%A6%8D%E7%A1%AE%E8%AF%8A%E6%84%9F%E6%9F%93%E6%96%B0%E5%86%A0%23" target="weibo">
 金泰妍确诊感染新冠（热度：1257641）
 </a>
@@ -2327,6 +2339,12 @@ Deft世界赛首冠（热度：1226043）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E7%9B%B4%E6%92%AD%E7%8A%B6%E6%80%81%23" target="weibo">
 杨紫直播状态（热度：1189416）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%96%B9%E8%BF%94%E8%BF%986%E4%B8%87%E5%BD%A9%E7%A4%BC%E7%94%B7%E6%96%B9%E5%AB%8C%E5%B0%91%E5%B0%86%E5%85%B6%E6%9D%80%E5%AE%B3%23" target="weibo">
+女方返还6万彩礼男方嫌少将其杀害（热度：1188880）
 </a>
 </li>
 
@@ -5811,6 +5829,12 @@ EXO台历（热度：673804）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2372%E5%B2%81%E8%80%81%E4%BA%BA%E7%BB%99%E9%B8%A1%E5%96%9D70%E5%9D%97%E9%92%B1%E7%9A%84%E7%89%9B%E5%A5%B6%23" target="weibo">
+72岁老人给鸡喝70块钱的牛奶（热度：671929）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E8%AE%B8%E5%8D%8A%E5%A4%8F%E6%9C%89350%E5%A5%97%E6%9C%8D%E8%A3%85%23" target="weibo">
 赵丽颖许半夏有350套服装（热度：671276）
 </a>
@@ -5987,30 +6011,6 @@ hybe将明年推出泡泡（热度：657725）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BA%9E%E5%8D%9A%E5%91%8A%E5%88%AB%E8%84%B1%E5%8F%A3%E7%A7%80%E5%A4%A7%E4%BC%9A%23" target="weibo">
 庞博告别脱口秀大会（热度：655010）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E9%AB%98%E8%BF%9C%E7%8E%8B%E6%9B%BC%E6%98%B1%E6%B7%B7%E5%8F%8C%E5%A4%BA%E5%86%A0%23" target="weibo">
-林高远王曼昱混双夺冠（热度：654889）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E6%88%96%E8%A2%AB%E5%BC%BA%E5%88%B6%E5%BC%80%E6%94%BE%E7%AC%AC%E4%B8%89%E6%96%B9APP%23" target="weibo">
-苹果或被强制开放第三方APP（热度：654608）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6vs%E6%9E%97%E9%92%9F%E5%8B%8B%23" target="weibo">
-王楚钦vs林钟勋（热度：654071）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BB%A7%E7%BB%AD%E6%9A%82%E5%81%9C%E7%BB%8F%E8%90%A5%E5%87%BA%E5%85%A5%E5%A2%83%E5%9B%A2%E9%98%9F%E6%B8%B8%E4%B8%9A%E5%8A%A1%23" target="weibo">
-继续暂停经营出入境团队游业务（热度：653915）
 </a>
 </li>
 

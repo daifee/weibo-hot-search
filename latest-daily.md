@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/23 00:30:47 ~ 2022/11/23 07:35:25
+本榜单时间：2022/11/23 00:30:47 ~ 2022/11/23 09:44:36
 </p>
 </blockquote>
 <p>
@@ -33,8 +33,26 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E5%9C%A8%E5%88%9D%E4%B8%89%E5%84%BF%E5%AD%90%E4%B9%A6%E5%8C%85%E5%8F%91%E7%8E%B0%E6%8B%86%E5%B0%81%E9%81%BF%E5%AD%95%E5%A5%97%23" target="weibo">
+妈妈在初三儿子书包发现拆封避孕套（热度：1707563）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%BC%E8%81%94%E5%AE%98%E5%AE%A3C%E7%BD%97%E7%A6%BB%E9%98%9F%23" target="weibo">
 曼联官宣C罗离队（热度：1503317）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E5%B0%86%E7%AD%B7%E5%AD%90%E6%8F%92%E7%94%B5%E5%BA%A7%E8%87%B49%E6%A0%B9%E6%89%8B%E6%8C%87%E8%A2%AB%E5%88%87%23" target="weibo">
+女孩将筷子插电座致9根手指被切（热度：1257708）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%96%B9%E8%BF%94%E8%BF%986%E4%B8%87%E5%BD%A9%E7%A4%BC%E7%94%B7%E6%96%B9%E5%AB%8C%E5%B0%91%E5%B0%86%E5%85%B6%E6%9D%80%E5%AE%B3%23" target="weibo">
+女方返还6万彩礼男方嫌少将其杀害（热度：1188880）
 </a>
 </li>
 
@@ -87,6 +105,24 @@ scout（热度：703516）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2372%E5%B2%81%E8%80%81%E4%BA%BA%E7%BB%99%E9%B8%A1%E5%96%9D70%E5%9D%97%E9%92%B1%E7%9A%84%E7%89%9B%E5%A5%B6%23" target="weibo">
+72岁老人给鸡喝70块钱的牛奶（热度：671929）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E6%98%A8%E5%A2%9E388%E4%BE%8B%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A%23" target="weibo">
+北京昨增388例本土确诊（热度：645128）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E5%85%A8%E5%9C%BA%E6%95%B0%E6%8D%AE%23" target="weibo">
+梅西全场数据（热度：629163）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23HLE%E5%AE%98%E5%AE%A3Viper%E5%9B%9E%E5%BD%92%23" target="weibo">
 HLE官宣Viper回归（热度：625073）
 </a>
@@ -118,7 +154,7 @@ DK（热度：567761）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%A0%B9%E5%BB%B7%E5%87%BA%E7%BA%BF%23" target="weibo">
-阿根廷出线（热度：449993）
+阿根廷出线（热度：468845）
 </a>
 </li>
 
@@ -153,6 +189,12 @@ DK（热度：567761）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%86%B0%E5%86%B0%E8%B5%96%E7%BE%8E%E4%BA%91%E7%94%9C%E5%A6%B9%E5%90%8C%E6%A1%86%23" target="weibo">
+王冰冰赖美云甜妹同框（热度：401531）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%AE%9D%E5%A6%88%E8%8A%B1140%E4%B8%87%E5%B0%86%E5%9C%B0%E4%B8%8B%E5%AE%A4%E6%94%B9%E6%88%90%E9%AD%94%E6%B3%95%E5%B1%8B%23" target="weibo">
 上海宝妈花140万将地下室改成魔法屋（热度：386309）
 </a>
@@ -171,8 +213,26 @@ DK（热度：567761）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E7%95%8A%E5%AE%8F%E8%AF%B4%E8%B7%B3%E6%93%8D%E6%B5%81%E6%B1%97%E6%BB%B4%E5%88%B0%E7%9C%BC%E7%9D%9B%23" target="weibo">
+刘畊宏说跳操流汗滴到眼睛（热度：357228）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E5%B7%9E%E6%96%B0%E5%A2%9E1%E4%BE%8B%E6%AD%BB%E4%BA%A1%E7%97%85%E4%BE%8B%23" target="weibo">
 郑州新增1例死亡病例（热度：354602）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E4%B8%80%E5%B0%81%E6%84%9F%E8%B0%A2%E4%BF%A1%23" target="weibo">
+时代少年团一封感谢信（热度：342311）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E8%AF%B4%E6%89%93%E5%87%BB%E9%9D%9E%E5%B8%B8%E5%A4%A7%23" target="weibo">
+梅西说打击非常大（热度：337442）
 </a>
 </li>
 
@@ -185,6 +245,36 @@ TES（热度：331089）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E7%94%B7%E5%AD%90%E5%A4%9C%E9%92%93%E6%97%B6%E9%92%93%E5%88%B0%E4%B8%80%E5%85%B7%E6%B5%AE%E5%B0%B8%23" target="weibo">
 警方回应男子夜钓时钓到一具浮尸（热度：327761）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E6%B1%A4%E6%99%B6%E5%AA%9A%E6%96%B0%E5%89%A7%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%81%94%E6%89%8B%23" target="weibo">
+杨幂汤晶媚新剧第一次联手（热度：317056）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23Deft%23" target="weibo">
+Deft（热度：314629）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%81%B7%E8%BD%AC%E8%B5%B0%E4%BA%A4%E5%BE%806%E5%B9%B4%E5%A5%B3%E5%8F%8B8.5%E4%B8%87%E4%BD%99%E5%85%83%23" target="weibo">
+男子偷转走交往6年女友8.5万余元（热度：313616）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%8C%E5%AE%A1%E6%B3%95%E5%BA%AD%E8%B0%83%E6%9F%A5%E5%88%98%E9%91%AB%E4%B8%80%E6%96%B9%E6%96%B0%E8%AF%81%E6%8D%AE%23" target="weibo">
+二审法庭调查刘鑫一方新证据（热度：312888）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E4%B8%8A%E7%9A%84%E5%A4%A7%E9%9B%AA%E6%98%AF%E8%BF%99%E6%A0%B7%E7%9A%84%23" target="weibo">
+海上的大雪是这样的（热度：309136）
 </a>
 </li>
 
@@ -225,6 +315,18 @@ EDG官宣Viper离队（热度：255524）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2311%E6%9C%8822%E6%97%A5%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E6%97%A0%E7%97%87%E7%8A%B626242%E4%BE%8B%23" target="weibo">
+11月22日新增本土无症状26242例（热度：254362）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%9D%AF%E6%9C%9F%E9%97%B4%E8%A2%AB%E5%A5%B3%E5%8F%8B%E4%B8%8A%E4%BA%86%E4%B8%80%E8%AF%BE%23" target="weibo">
+世界杯期间被女友上了一课（热度：250349）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23WayV%20Phantom%23" target="weibo">
 WayV Phantom（热度：250269）
 </a>
@@ -243,8 +345,20 @@ WayV Phantom（热度：250269）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E8%AF%B4%E4%B9%8B%E5%90%8E%E5%BF%85%E9%A1%BB%E8%B5%A2%23" target="weibo">
+梅西说之后必须赢（热度：239474）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%B6%E8%88%92%E5%8D%8E%E8%B7%B3%E8%88%9E%E8%A7%86%E9%A2%91%23" target="weibo">
 叶舒华跳舞视频（热度：238626）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%9C%A8%E5%8D%A1%E5%A1%94%E5%B0%94%E9%80%9B%E5%95%86%E5%9C%BA%E5%8F%91%E7%8E%B0%E7%BA%AF%E9%87%91%E6%89%8B%E6%9C%BA%23" target="weibo">
+男子在卡塔尔逛商场发现纯金手机（热度：238376）
 </a>
 </li>
 
@@ -273,20 +387,32 @@ WayV Phantom（热度：250269）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%BF%E5%8D%BF%E6%97%A5%E5%B8%B8%E5%B0%B9%E5%B2%B8%E5%8F%98%E8%BA%AB%E8%80%99%E8%80%B3%E6%9C%B5%23" target="weibo">
+卿卿日常尹岸变身耙耳朵（热度：218581）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BB%B5%E9%98%B3%E7%96%AB%E6%83%85%E9%98%B2%E6%8E%A7%23" target="weibo">
 绵阳疫情防控（热度：217892）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%9C%A8%E5%8D%A1%E5%A1%94%E5%B0%94%E9%80%9B%E5%95%86%E5%9C%BA%E5%8F%91%E7%8E%B0%E7%BA%AF%E9%87%91%E6%89%8B%E6%9C%BA%23" target="weibo">
-男子在卡塔尔逛商场发现纯金手机（热度：211149）
+<a href="https://s.weibo.com/weibo?q=%23%E4%BF%A1%E7%94%A8%E7%A4%BE%E5%9B%9E%E5%BA%94%E5%82%A8%E6%88%B7%E7%A7%B0%E4%BA%94%E4%B8%87%E5%AD%98%E6%AC%BE%E4%B8%8D%E7%BF%BC%E8%80%8C%E9%A3%9E%23" target="weibo">
+信用社回应储户称五万存款不翼而飞（热度：213342）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%9D%AF%20%E5%A4%A7%E5%86%B7%E9%97%A8%23" target="weibo">
 世界杯 大冷门（热度：203404）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23Doinb%23" target="weibo">
+Doinb（热度：191920）
 </a>
 </li>
 
@@ -339,6 +465,12 @@ Doinb爆料EDG（热度：173847）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8E%B1%E4%B8%87%E7%82%B9%E7%90%83%E8%A2%AB%E6%89%91%23" target="weibo">
+莱万点球被扑（热度：169263）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%BF%E5%8D%BF%E6%97%A5%E5%B8%B8%23" target="weibo">
 卿卿日常（热度：167332）
 </a>
@@ -375,6 +507,24 @@ Doinb爆料EDG（热度：173847）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E9%95%87%E5%AE%87%E7%A5%9E%E6%89%91%23" target="weibo">
+吴镇宇神扑（热度：153868）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%BC%A0%E4%B8%AD%E5%9B%BD%E9%9D%A2%E5%AD%94%E8%A2%AB%E5%BE%88%E5%A4%9A%E5%9D%A6%E6%A1%91%E5%B0%BC%E4%BA%9A%E4%BA%BA%E8%AE%B0%E4%BD%8F%23" target="weibo">
+这张中国面孔被很多坦桑尼亚人记住（热度：148054）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%B3%8B%E5%88%AB%E5%81%B7%E7%AC%91%E4%BA%86%23" target="weibo">
+李峋别偷笑了（热度：143132）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BDvs%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%23" target="weibo">
 法国vs澳大利亚（热度：138664）
 </a>
@@ -399,26 +549,8 @@ Doinb爆料EDG（热度：173847）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%9D%AF%E6%9C%9F%E9%97%B4%E8%A2%AB%E5%A5%B3%E5%8F%8B%E4%B8%8A%E4%BA%86%E4%B8%80%E8%AF%BE%23" target="weibo">
-世界杯期间被女友上了一课（热度：115019）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E6%B1%A4%E6%99%B6%E5%AA%9A%E6%96%B0%E5%89%A7%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%81%94%E6%89%8B%23" target="weibo">
-杨幂汤晶媚新剧第一次联手（热度：110673）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E9%86%92%E6%9C%80%E4%B8%8D%E5%BF%AB%E4%B9%90%E7%9A%84%E4%B8%80%E5%A4%A9%23" target="weibo">
 苏醒最不快乐的一天（热度：110239）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%81%B7%E8%BD%AC%E8%B5%B0%E4%BA%A4%E5%BE%806%E5%B9%B4%E5%A5%B3%E5%8F%8B8.5%E4%B8%87%E4%BD%99%E5%85%83%23" target="weibo">
-男子偷转走交往6年女友8.5万余元（热度：108324）
 </a>
 </li>
 
@@ -447,32 +579,14 @@ gidle新歌Nxde微醺live（热度：88111）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23Doinb%23" target="weibo">
-Doinb（热度：74578）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E4%B9%9F%E6%98%AF%E5%B7%A8%E8%9F%B9%E5%BA%A7%23" target="weibo">
 梅西也是巨蟹座（热度：72221）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E5%B0%86%E7%AD%B7%E5%AD%90%E6%8F%92%E7%94%B5%E5%BA%A7%E8%87%B49%E6%A0%B9%E6%89%8B%E6%8C%87%E8%A2%AB%E5%88%87%23" target="weibo">
-女孩将筷子插电座致9根手指被切（热度：71282）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A0%B4%E6%AC%A1%E5%85%83%E8%AE%B8%E6%84%BF%E5%AD%A3%23" target="weibo">
 破次元许愿季（热度：69009）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%BC%A0%E4%B8%AD%E5%9B%BD%E9%9D%A2%E5%AD%94%E8%A2%AB%E5%BE%88%E5%A4%9A%E5%9D%A6%E6%A1%91%E5%B0%BC%E4%BA%9A%E4%BA%BA%E8%AE%B0%E4%BD%8F%23" target="weibo">
-这张中国面孔被很多坦桑尼亚人记住（热度：58742）
 </a>
 </li>
 
@@ -507,6 +621,12 @@ Doinb（热度：74578）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%93%AA%E5%B1%8A%E4%B8%96%E7%95%8C%E6%9D%AF%E5%90%89%E7%A5%A5%E7%89%A9%E6%98%AF%E4%BD%A0%E6%9C%80%E7%88%B1%23" target="weibo">
+哪届世界杯吉祥物是你最爱（热度：28329）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%A5%E4%B9%94%E4%BA%9A%E6%89%91%E7%82%B9%23" target="weibo">
 奥乔亚扑点（热度：27398）
 </a>
@@ -515,12 +635,6 @@ Doinb（热度：74578）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%9D%E8%91%AD%E5%AD%A9%E5%AD%90%E4%B9%B3%E5%90%8D%E9%95%BF%E4%B9%90%23" target="weibo">
 郝葭孩子乳名长乐（热度：26047）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%93%AA%E5%B1%8A%E4%B8%96%E7%95%8C%E6%9D%AF%E5%90%89%E7%A5%A5%E7%89%A9%E6%98%AF%E4%BD%A0%E6%9C%80%E7%88%B1%23" target="weibo">
-哪届世界杯吉祥物是你最爱（热度：25366）
 </a>
 </li>
 
