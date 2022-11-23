@@ -1,6 +1,6 @@
 {
   "startTime": 1669134647959,
-  "endTime": 1669216857985,
+  "endTime": 1669217851227,
   "band_list": [
     {
       "raw_hot": 15128338,
@@ -59,8 +59,24 @@
       "category": "体育"
     },
     {
-      "raw_hot": 2361320,
-      "num": 2361320,
+      "raw_hot": 2702402,
+      "num": 493820,
+      "word": "日本2比1逆转德国",
+      "onboard_time": 1669216683,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2388821,
+      "num": 2388821,
+      "word": "又一个大冷门",
+      "onboard_time": 1669216101,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2379084,
+      "num": 2379084,
       "word": "外交部回应韩剧在中国播放",
       "onboard_time": 1669211745,
       "rank": 30,
@@ -73,14 +89,6 @@
       "onboard_time": 1669209033,
       "rank": 10,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 2184768,
-      "num": 2184768,
-      "word": "又一个大冷门",
-      "onboard_time": 1669216101,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 2177220,
@@ -171,20 +179,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1422928,
+      "num": 1422928,
+      "word": "重庆15岁男生在宿舍被同学刺死",
+      "onboard_time": 1669214196,
+      "rank": 9,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1421020,
       "num": 1421020,
       "word": "德国男模队 帅",
       "onboard_time": 1669211618,
       "rank": 11,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1374538,
-      "num": 1374538,
-      "word": "重庆15岁男生在宿舍被同学刺死",
-      "onboard_time": 1669214196,
-      "rank": 9,
-      "category": "社会负面"
     },
     {
       "raw_hot": 1351917,
@@ -220,9 +228,17 @@
     },
     {
       "raw_hot": 1308099,
-      "num": 351720,
+      "num": 357957,
       "word": "德国门将",
       "onboard_time": 1669216741,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1290339,
+      "num": 370049,
+      "word": "足球反着买 别墅靠着海",
+      "onboard_time": 1669217209,
       "rank": 30,
       "category": "体育"
     },
@@ -259,8 +275,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1197180,
-      "num": 1197180,
+      "raw_hot": 1225284,
+      "num": 1225284,
       "word": "原来不懂球也是有好处的",
       "onboard_time": 1669215110,
       "rank": 11,
@@ -353,6 +369,14 @@
       "onboard_time": 1669178745,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1067357,
+      "num": 1067357,
+      "word": "西班牙vs哥斯达黎加",
+      "onboard_time": 1669217209,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 1062946,
@@ -459,8 +483,8 @@
       "category": "科技"
     },
     {
-      "raw_hot": 788361,
-      "num": 788361,
+      "raw_hot": 804388,
+      "num": 804388,
       "word": "女子花20万带爸爸看世界杯轮流睡着",
       "onboard_time": 1669212278,
       "rank": 29,
@@ -537,6 +561,14 @@
       "onboard_time": 1669181856,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 691822,
+      "num": 691822,
+      "word": "阿根廷和德国拿了一样的剧本",
+      "onboard_time": 1669217447,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 676992,
@@ -632,6 +664,14 @@
       "word": "莫德里奇",
       "onboard_time": 1669197696,
       "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 619495,
+      "num": 467601,
+      "word": "德国1比2不敌日本",
+      "onboard_time": 1669216622,
+      "rank": 26,
       "category": "体育"
     },
     {
@@ -755,6 +795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 560204,
+      "num": 560204,
+      "word": "日本 亚洲之光",
+      "onboard_time": 1669216565,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 554351,
       "num": 554351,
       "word": "星巴克",
@@ -824,6 +872,14 @@
       "word": "饺子皮",
       "onboard_time": 1669172132,
       "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 514610,
+      "num": 514610,
+      "word": "日本鹦鹉预测日本队将输给德国",
+      "onboard_time": 1669216101,
+      "rank": 32,
       "category": "体育"
     },
     {
@@ -939,6 +995,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 468656,
+      "num": 468656,
+      "word": "女子做水果馒头剥开全是细节",
+      "onboard_time": 1669214802,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 464369,
+      "num": 464369,
+      "word": "没有克洛泽的德国队",
+      "onboard_time": 1669216219,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 460091,
       "num": 460091,
       "word": "鹿晗从未停止过筹备三巡",
@@ -1051,14 +1123,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 422288,
-      "num": 422288,
-      "word": "没有克洛泽的德国队",
-      "onboard_time": 1669216219,
-      "rank": 20,
-      "category": "体育"
-    },
-    {
       "raw_hot": 419271,
       "num": 419271,
       "word": "韩华",
@@ -1073,6 +1137,22 @@
       "onboard_time": 1669176818,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 418877,
+      "num": 418877,
+      "word": "白敬亭追卿卿日常reaction",
+      "onboard_time": 1669215287,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 414620,
+      "num": 414620,
+      "word": "终于明白了什么叫世界杯死亡之组",
+      "onboard_time": 1669216916,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 414507,
@@ -1111,14 +1191,6 @@
       "num": 401749,
       "word": "命韵峋环对对方心动的时刻",
       "onboard_time": 1669198354,
-      "rank": 22,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 399731,
-      "num": 399731,
-      "word": "白敬亭追卿卿日常reaction",
-      "onboard_time": 1669215287,
       "rank": 22,
       "category": "影视"
     },
@@ -1195,20 +1267,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 372846,
-      "num": 372846,
-      "word": "日本 亚洲之光",
-      "onboard_time": 1669216565,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 370604,
-      "num": 370604,
-      "word": "德国1比2不敌日本",
-      "onboard_time": 1669216622,
-      "rank": 26,
-      "category": "体育"
+      "raw_hot": 372167,
+      "num": 372167,
+      "word": "命韵峋环结婚证件照",
+      "onboard_time": 1669212821,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 370038,
@@ -1217,22 +1281,6 @@
       "onboard_time": 1669192415,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 369132,
-      "num": 369132,
-      "word": "女子做水果馒头剥开全是细节",
-      "onboard_time": 1669214802,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 365992,
-      "num": 365992,
-      "word": "命韵峋环结婚证件照",
-      "onboard_time": 1669212821,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 363853,
@@ -1304,14 +1352,6 @@
       "word": "摩洛哥vs克罗地亚半场0比0",
       "onboard_time": 1669201299,
       "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 356497,
-      "num": 356497,
-      "word": "日本2比1逆转德国",
-      "onboard_time": 1669216683,
-      "rank": 29,
       "category": "体育"
     },
     {
@@ -1451,6 +1491,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 332126,
+      "num": 332126,
+      "word": "德国两届世界杯均负于亚洲球队",
+      "onboard_time": 1669216857,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 331089,
       "num": 331089,
       "word": "TES",
@@ -1537,14 +1585,6 @@
       "onboard_time": 1669201299,
       "rank": 22,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 315141,
-      "num": 315141,
-      "word": "日本鹦鹉预测日本队将输给德国",
-      "onboard_time": 1669216101,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 314629,
@@ -1707,6 +1747,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 286248,
+      "num": 286248,
+      "word": "亚洲球队连胜阿根廷德国",
+      "onboard_time": 1669217629,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 284908,
       "num": 284908,
       "word": "卢卡斯因伤退出世界杯",
@@ -1801,6 +1849,14 @@
       "onboard_time": 1669167632,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 264110,
+      "num": 264110,
+      "word": "日本战术",
+      "onboard_time": 1669217510,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 262608,
@@ -1899,6 +1955,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 247088,
+      "num": 247088,
+      "word": "格策",
+      "onboard_time": 1669217568,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 247009,
       "num": 247009,
       "word": "刘宇宁唱一个歌手的情书",
@@ -1955,6 +2019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 237420,
+      "num": 237420,
+      "word": "小腿想不瘦都难了",
+      "onboard_time": 1669212519,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 236690,
       "num": 236690,
       "word": "足球反着买 别墅靠大海",
@@ -1968,6 +2040,14 @@
       "word": "沙特球迷赛后模仿C罗庆祝",
       "onboard_time": 1669131943,
       "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 234261,
+      "num": 234261,
+      "word": "这集世界杯昨天我看过",
+      "onboard_time": 1669216741,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -2057,14 +2137,6 @@
       "onboard_time": 1669193676,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 219139,
-      "num": 219139,
-      "word": "小腿想不瘦都难了",
-      "onboard_time": 1669212519,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 218815,
@@ -2235,6 +2307,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 200625,
+      "num": 233572,
+      "word": "日本拿了沙特剧本",
+      "onboard_time": 1669217329,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 199008,
       "num": 199008,
       "word": "许半夏薛杉杉同款造型",
@@ -2297,6 +2377,14 @@
       "onboard_time": 1669160069,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 195781,
+      "num": 232999,
+      "word": "历史总是惊人的相似",
+      "onboard_time": 1669217809,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 194748,
@@ -2363,14 +2451,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 191563,
-      "num": 191563,
-      "word": "这集世界杯昨天我看过",
-      "onboard_time": 1669216741,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 190726,
       "num": 190726,
       "word": "风吹半夏钢三角打闹花絮",
@@ -2424,6 +2504,14 @@
       "word": "德国被日本反超",
       "onboard_time": 1669216741,
       "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 187155,
+      "num": 232719,
+      "word": "门将高质量扑救",
+      "onboard_time": 1669216857,
+      "rank": 49,
       "category": "体育"
     },
     {
