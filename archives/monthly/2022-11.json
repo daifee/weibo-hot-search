@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1669227856076,
+  "endTime": 1669228774402,
   "band_list": [
     {
       "raw_hot": 15128338,
@@ -5939,6 +5939,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 844532,
+      "num": 844532,
+      "word": "西班牙好稳",
+      "onboard_time": 1669225879,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 844114,
       "num": 844114,
       "word": "多家茶饮品牌联合抵制外卖满减",
@@ -7545,14 +7553,6 @@
       "onboard_time": 1669114658,
       "rank": 11,
       "category": "影视"
-    },
-    {
-      "raw_hot": 709057,
-      "num": 709057,
-      "word": "西班牙好稳",
-      "onboard_time": 1669225879,
-      "rank": 0,
-      "category": "体育"
     },
     {
       "raw_hot": 708470,
@@ -46603,6 +46603,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 91870,
+      "num": 55247,
+      "word": "日本球迷街头狂欢庆祝",
+      "onboard_time": 1669226479,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 91845,
       "num": 333371,
       "word": "四川人被美食治愈的立冬",
@@ -49987,11 +49995,11 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 53861,
-      "num": 53861,
-      "word": "日本球迷街头狂欢庆祝",
-      "onboard_time": 1669226479,
-      "rank": 35,
+      "raw_hot": 53840,
+      "num": 53840,
+      "word": "西班牙净胜球赚麻了",
+      "onboard_time": 1669228516,
+      "rank": 32,
       "category": "体育"
     },
     {
@@ -50667,6 +50675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 32977,
+      "num": 32977,
+      "word": "男子醉驾见女友丧命父母要求索赔",
+      "onboard_time": 1669228394,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32869,
       "num": 32869,
       "word": "与凤行",
@@ -50681,6 +50697,14 @@
       "onboard_time": 1668008964,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 32417,
+      "num": 32417,
+      "word": "西班牙全场传球1043次",
+      "onboard_time": 1669228754,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 32134,

@@ -1,6 +1,6 @@
 {
   "startTime": 1669220901508,
-  "endTime": 1669227856076,
+  "endTime": 1669228774402,
   "band_list": [
     {
       "raw_hot": 2651843,
@@ -51,6 +51,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 844532,
+      "num": 844532,
+      "word": "西班牙好稳",
+      "onboard_time": 1669225879,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 821656,
       "num": 821656,
       "word": "德国1比2日本",
@@ -72,14 +80,6 @@
       "word": "原来不懂球也是有好处的",
       "onboard_time": 1669215110,
       "rank": 7,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 709057,
-      "num": 709057,
-      "word": "西班牙好稳",
-      "onboard_time": 1669225879,
-      "rank": 0,
       "category": "体育"
     },
     {
@@ -555,6 +555,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 91870,
+      "num": 55247,
+      "word": "日本球迷街头狂欢庆祝",
+      "onboard_time": 1669226479,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 84607,
       "num": 84607,
       "word": "阿森西奥破门",
@@ -579,11 +587,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 53861,
-      "num": 53861,
-      "word": "日本球迷街头狂欢庆祝",
-      "onboard_time": 1669226479,
-      "rank": 35,
+      "raw_hot": 53840,
+      "num": 53840,
+      "word": "西班牙净胜球赚麻了",
+      "onboard_time": 1669228516,
+      "rank": 32,
       "category": "体育"
     },
     {
@@ -600,6 +608,22 @@
       "word": "费兰托雷斯梅开二度",
       "onboard_time": 1669226177,
       "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 32977,
+      "num": 32977,
+      "word": "男子醉驾见女友丧命父母要求索赔",
+      "onboard_time": 1669228394,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 32417,
+      "num": 32417,
+      "word": "西班牙全场传球1043次",
+      "onboard_time": 1669228754,
+      "rank": 49,
       "category": "体育"
     }
   ],
