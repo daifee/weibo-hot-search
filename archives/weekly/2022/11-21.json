@@ -1,6 +1,6 @@
 {
   "startTime": 1668961718135,
-  "endTime": 1669224812956,
+  "endTime": 1669227856076,
   "band_list": [
     {
       "raw_hot": 15128338,
@@ -1459,6 +1459,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 709057,
+      "num": 709057,
+      "word": "西班牙好稳",
+      "onboard_time": 1669225879,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 708311,
       "num": 406742,
       "word": "王鹤棣吻戏摘眼镜",
@@ -1972,7 +1980,7 @@
     },
     {
       "raw_hot": 579257,
-      "num": 340733,
+      "num": 569124,
       "word": "乌克兰全境停电",
       "onboard_time": 1669222346,
       "rank": 10,
@@ -2889,6 +2897,14 @@
       "onboard_time": 1669076736,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 438739,
+      "num": 438739,
+      "word": "西班牙队史世界杯第100球",
+      "onboard_time": 1669224561,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 438172,
@@ -5043,6 +5059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 258312,
+      "num": 258312,
+      "word": "西班牙vs哥斯达黎加首发",
+      "onboard_time": 1669220909,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 257710,
       "num": 243580,
       "word": "点燃我温暖你全国九城飘雪告白",
@@ -5185,14 +5209,6 @@
       "onboard_time": 1669220491,
       "rank": 26,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 249854,
-      "num": 249854,
-      "word": "西班牙vs哥斯达黎加首发",
-      "onboard_time": 1669220909,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 249711,
@@ -5400,6 +5416,14 @@
       "word": "这集世界杯昨天我看过",
       "onboard_time": 1669216741,
       "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 234108,
+      "num": 234108,
+      "word": "加维进球",
+      "onboard_time": 1669226658,
+      "rank": 10,
       "category": "体育"
     },
     {
@@ -6115,6 +6139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 197135,
+      "num": 197135,
+      "word": "西班牙 斗牛士",
+      "onboard_time": 1669226957,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 197101,
       "num": 197101,
       "word": "北京新增病例数持续高位增长",
@@ -6825,6 +6857,14 @@
       "onboard_time": 1669049545,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 172001,
+      "num": 172001,
+      "word": "德国队控球率",
+      "onboard_time": 1669223121,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 171767,
@@ -8483,6 +8523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 107360,
+      "num": 70432,
+      "word": "莫拉塔破门",
+      "onboard_time": 1669227435,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 106950,
       "num": 106950,
       "word": "世界杯分组",
@@ -8715,14 +8763,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 93766,
-      "num": 93766,
-      "word": "德国队控球率",
-      "onboard_time": 1669223121,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 93639,
       "num": 93639,
       "word": "许凯在线修复二八心碎剧粉心情",
@@ -8899,14 +8939,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 65419,
-      "num": 65419,
-      "word": "西班牙队史世界杯第100球",
-      "onboard_time": 1669224561,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 64836,
       "num": 64836,
       "word": "香芋精什么时候下线",
@@ -8963,6 +8995,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 53861,
+      "num": 53861,
+      "word": "日本球迷街头狂欢庆祝",
+      "onboard_time": 1669226479,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 50406,
       "num": 50406,
       "word": "偶像梦幻祭国服遭玩家抵制",
@@ -8987,11 +9027,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 47892,
+      "num": 47892,
+      "word": "最有喜感的车祸",
+      "onboard_time": 1669225279,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 47423,
       "num": 47423,
       "word": "塞内加尔vs荷兰首发",
       "onboard_time": 1669052000,
       "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 45490,
+      "num": 45490,
+      "word": "费兰托雷斯梅开二度",
+      "onboard_time": 1669226177,
+      "rank": 44,
       "category": "体育"
     },
     {

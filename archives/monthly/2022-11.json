@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1669224812956,
+  "endTime": 1669227856076,
   "band_list": [
     {
       "raw_hot": 15128338,
@@ -7547,6 +7547,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 709057,
+      "num": 709057,
+      "word": "西班牙好稳",
+      "onboard_time": 1669225879,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 708470,
       "num": 708470,
       "word": "法证先锋5尺度有多大",
@@ -10076,7 +10084,7 @@
     },
     {
       "raw_hot": 579257,
-      "num": 340733,
+      "num": 569124,
       "word": "乌克兰全境停电",
       "onboard_time": 1669222346,
       "rank": 10,
@@ -14849,6 +14857,14 @@
       "onboard_time": 1668588810,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 438739,
+      "num": 438739,
+      "word": "西班牙队史世界杯第100球",
+      "onboard_time": 1669224561,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 438621,
@@ -25643,6 +25659,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 258312,
+      "num": 258312,
+      "word": "西班牙vs哥斯达黎加首发",
+      "onboard_time": 1669220909,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 258294,
       "num": 258294,
       "word": "余承东称每卖两台折叠屏就有一台是华为",
@@ -26249,14 +26273,6 @@
       "onboard_time": 1668499770,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 249854,
-      "num": 249854,
-      "word": "西班牙vs哥斯达黎加首发",
-      "onboard_time": 1669220909,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 249744,
@@ -27497,6 +27513,14 @@
       "onboard_time": 1668737845,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 234108,
+      "num": 234108,
+      "word": "加维进球",
+      "onboard_time": 1669226658,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 233883,
@@ -31459,6 +31483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 197135,
+      "num": 197135,
+      "word": "西班牙 斗牛士",
+      "onboard_time": 1669226957,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 197127,
       "num": 197127,
       "word": "命韵峋环开虐了",
@@ -34721,6 +34753,14 @@
       "onboard_time": 1668699208,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 172001,
+      "num": 172001,
+      "word": "德国队控球率",
+      "onboard_time": 1669223121,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 171814,
@@ -44235,6 +44275,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 107360,
+      "num": 70432,
+      "word": "莫拉塔破门",
+      "onboard_time": 1669227435,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 107328,
       "num": 107328,
       "word": "骑士vs湖人",
@@ -46305,14 +46353,6 @@
       "onboard_time": 1667321120,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 93766,
-      "num": 93766,
-      "word": "德国队控球率",
-      "onboard_time": 1669223121,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 93734,
@@ -49395,14 +49435,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 65419,
-      "num": 65419,
-      "word": "西班牙队史世界杯第100球",
-      "onboard_time": 1669224561,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 65137,
       "num": 65137,
       "word": "宝妈买爱他美奶粉开罐遇活虫",
@@ -49955,6 +49987,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 53861,
+      "num": 53861,
+      "word": "日本球迷街头狂欢庆祝",
+      "onboard_time": 1669226479,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 53762,
       "num": 53762,
       "word": "全面加强练兵备战",
@@ -50179,6 +50219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 47892,
+      "num": 47892,
+      "word": "最有喜感的车祸",
+      "onboard_time": 1669225279,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 47860,
       "num": 411903,
       "word": "快充真的有改变生活吗",
@@ -50224,6 +50272,14 @@
       "word": "韦筱圆卫冕世锦赛高低杠金牌",
       "onboard_time": 1667690958,
       "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 45490,
+      "num": 45490,
+      "word": "费兰托雷斯梅开二度",
+      "onboard_time": 1669226177,
+      "rank": 44,
       "category": "体育"
     },
     {
