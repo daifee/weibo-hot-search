@@ -1,0 +1,410 @@
+{
+  "runTime": 1669181666069,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2778945,
+        "num": 2778945,
+        "word": "汪小菲退出麻六记关联公司股东",
+        "onboard_time": 1669178503,
+        "rank": 0,
+        "category": "财经,艺人"
+      },
+      {
+        "raw_hot": 1246679,
+        "num": 1246679,
+        "word": "沙特王储用私人飞机送球员治伤",
+        "onboard_time": 1669176156,
+        "rank": 1,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 19873,
+        "num": 1045625,
+        "word": "哪届世界杯吉祥物是你最爱",
+        "onboard_time": 1669098335,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2200284,
+        "num": 991884,
+        "word": "研究生嫖娼被开除起诉学校被驳回",
+        "onboard_time": 1669175856,
+        "rank": 3,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 928148,
+        "num": 928148,
+        "word": "刘暖曦称江母曾删改证据",
+        "onboard_time": 1669178745,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 753623,
+        "num": 753623,
+        "word": "妈妈在初三儿子书包发现拆封避孕套",
+        "onboard_time": 1669160188,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 667304,
+        "num": 667304,
+        "word": "iPhone15或告别纯直边",
+        "onboard_time": 1669175915,
+        "rank": 6,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 515243,
+        "num": 515243,
+        "word": "刘暖曦庭审后接受采访",
+        "onboard_time": 1669178381,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 487242,
+        "num": 487242,
+        "word": "农民日报评农民毁菜事件",
+        "onboard_time": 1669170870,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 457537,
+        "num": 457537,
+        "word": "迪丽热巴微醺妆四宫格",
+        "onboard_time": 1669176457,
+        "rank": 9,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1415722,
+        "num": 456590,
+        "word": "海丝腾床垫最贵超400万",
+        "onboard_time": 1669179166,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 451757,
+        "num": 451757,
+        "word": "时代少年团超话会掉落爆米花",
+        "onboard_time": 1669180840,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 449953,
+        "num": 449953,
+        "word": "德国vs日本",
+        "onboard_time": 1669171891,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 414507,
+        "num": 414507,
+        "word": "女孩疑外出晚回家被母亲脚踹扇脸",
+        "onboard_time": 1669177541,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102135,
+        "num": 399320,
+        "word": "李书福丁磊在哪看球",
+        "onboard_time": 1669179643,
+        "rank": 14,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 397213,
+        "num": 397213,
+        "word": "铅山通报高一学生胡某宇失联情况",
+        "onboard_time": 1669178022,
+        "rank": 15,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 370457,
+        "num": 370457,
+        "word": "有你的季节",
+        "onboard_time": 1669180422,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 358225,
+        "num": 358225,
+        "word": "假如郝葭成为五少主夫人",
+        "onboard_time": 1669180123,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 345196,
+        "num": 345196,
+        "word": "饿了么挺阿根廷球迷",
+        "onboard_time": 1669179881,
+        "rank": 18,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 334243,
+        "num": 334243,
+        "word": "狗狗因主人没帮忙而生气",
+        "onboard_time": 1669176818,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 315133,
+        "num": 315133,
+        "word": "命韵峋环今天合体直播",
+        "onboard_time": 1669180422,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 312263,
+        "num": 312263,
+        "word": "大四女生为考研自己开自习室",
+        "onboard_time": 1669172792,
+        "rank": 21,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 295690,
+        "num": 295690,
+        "word": "3岁女儿0度天要穿裙子妈妈放行",
+        "onboard_time": 1669168295,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283430,
+        "num": 283430,
+        "word": "苍兰诀是爱奇艺当期会员贡献TOP1",
+        "onboard_time": 1669176337,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 277059,
+        "num": 277059,
+        "word": "一家三口联手运冰毒8.7公斤",
+        "onboard_time": 1669178981,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254371,
+        "num": 254371,
+        "word": "卿卿日常又要断更了",
+        "onboard_time": 1669174412,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 243678,
+        "num": 243678,
+        "word": "女孩将筷子插电座致9根手指被切",
+        "onboard_time": 1669159950,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239520,
+        "num": 239520,
+        "word": "张若昀大侦探8路透",
+        "onboard_time": 1669178079,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236554,
+        "num": 236554,
+        "word": "女方返还6万彩礼男方嫌少将其杀害",
+        "onboard_time": 1669164037,
+        "rank": 28,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 228813,
+        "num": 228813,
+        "word": "疫情交通梗阻成蔬菜滞销重要因素",
+        "onboard_time": 1669176275,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238017,
+        "num": 225257,
+        "word": "张远神预言沙特爆冷",
+        "onboard_time": 1669171292,
+        "rank": 30,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 237131,
+        "num": 218776,
+        "word": "泰国版下一站是幸福预告",
+        "onboard_time": 1669176877,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 207394,
+        "num": 207394,
+        "word": "内娱一句话秒懂沙特赢了",
+        "onboard_time": 1669134929,
+        "rank": 32,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 206530,
+        "num": 206530,
+        "word": "贺顿钱开逸海边吻",
+        "onboard_time": 1669181320,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 206321,
+        "num": 206321,
+        "word": "梅西的球迷有多幸福",
+        "onboard_time": 1669174052,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204953,
+        "num": 204953,
+        "word": "饺子皮",
+        "onboard_time": 1669172132,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194748,
+        "num": 194748,
+        "word": "13岁男孩患怪病皮肤发黑浑身奇痒",
+        "onboard_time": 1669178324,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187545,
+        "num": 187545,
+        "word": "男子7年与数百匹狼同吃同住成狼王",
+        "onboard_time": 1669173753,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174798,
+        "num": 174798,
+        "word": "沙特全国放假一天",
+        "onboard_time": 1669133433,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174229,
+        "num": 174229,
+        "word": "比亚迪涨价2000到6000元不等",
+        "onboard_time": 1669173631,
+        "rank": 39,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 196587,
+        "num": 173933,
+        "word": "令人心动的offer4建筑师季实习生官宣",
+        "onboard_time": 1669174474,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195557,
+        "num": 173688,
+        "word": "阿凡达",
+        "onboard_time": 1669169854,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 170847,
+        "num": 170847,
+        "word": "72岁老人给鸡喝70块钱的牛奶",
+        "onboard_time": 1669164638,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135084,
+        "num": 135084,
+        "word": "获得世界杯冠军最多的国家",
+        "onboard_time": 1669174954,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133634,
+        "num": 133634,
+        "word": "梅西说打击非常大",
+        "onboard_time": 1669166557,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121811,
+        "num": 121811,
+        "word": "如果有来生我还要搞导弹",
+        "onboard_time": 1669180902,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114957,
+        "num": 114957,
+        "word": "这是超市里藏了个宿舍吧",
+        "onboard_time": 1669181438,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 114777,
+        "num": 114777,
+        "word": "德国男模队今晚亮相",
+        "onboard_time": 1669181199,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114019,
+        "num": 114019,
+        "word": "小伙在英国用中国舞表演花式射门",
+        "onboard_time": 1669181498,
+        "rank": 48,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 104863,
+        "num": 113910,
+        "word": "卢卡斯因伤退出世界杯",
+        "onboard_time": 1669173091,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#视频回顾习主席东南亚之行#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1669134647959,
-  "endTime": 1669180695381,
+  "endTime": 1669181666069,
   "band_list": [
     {
       "raw_hot": 3352526,
@@ -65,6 +65,14 @@
       "onboard_time": 1669139240,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1415722,
+      "num": 456590,
+      "word": "海丝腾床垫最贵超400万",
+      "onboard_time": 1669179166,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1257708,
@@ -139,20 +147,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 929858,
-      "num": 259318,
-      "word": "海丝腾床垫最贵超400万",
-      "onboard_time": 1669179166,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 928698,
       "num": 928698,
       "word": "梅西输球后刘畊宏哭了",
       "onboard_time": 1669124862,
       "rank": 5,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 928148,
+      "num": 928148,
+      "word": "刘暖曦称江母曾删改证据",
+      "onboard_time": 1669178745,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 914492,
@@ -185,14 +193,6 @@
       "onboard_time": 1669131704,
       "rank": 7,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 820676,
-      "num": 820676,
-      "word": "刘暖曦称江母曾删改证据",
-      "onboard_time": 1669178745,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 812890,
@@ -411,6 +411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 451757,
+      "num": 451757,
+      "word": "时代少年团超话会掉落爆米花",
+      "onboard_time": 1669180840,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 447656,
       "num": 447656,
       "word": "惠普宣布裁员6000人",
@@ -467,6 +475,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 414507,
+      "num": 414507,
+      "word": "女孩疑外出晚回家被母亲脚踹扇脸",
+      "onboard_time": 1669177541,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 406690,
       "num": 406690,
       "word": "周峻纬 名学",
@@ -481,6 +497,14 @@
       "onboard_time": 1669168773,
       "rank": 29,
       "category": "科技"
+    },
+    {
+      "raw_hot": 397213,
+      "num": 397213,
+      "word": "铅山通报高一学生胡某宇失联情况",
+      "onboard_time": 1669178022,
+      "rank": 36,
+      "category": "社会负面"
     },
     {
       "raw_hot": 386309,
@@ -499,28 +523,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 384085,
-      "num": 384085,
-      "word": "铅山通报高一学生胡某宇失联情况",
-      "onboard_time": 1669178022,
-      "rank": 36,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 380410,
       "num": 380410,
       "word": "郝葭终于逃离二少主",
       "onboard_time": 1669125762,
       "rank": 19,
       "category": "影视"
-    },
-    {
-      "raw_hot": 373076,
-      "num": 373076,
-      "word": "女孩疑外出晚回家被母亲脚踹扇脸",
-      "onboard_time": 1669177541,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 363295,
@@ -537,6 +545,14 @@
       "onboard_time": 1669166674,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 358225,
+      "num": 358225,
+      "word": "假如郝葭成为五少主夫人",
+      "onboard_time": 1669180123,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 357966,
@@ -577,6 +593,14 @@
       "onboard_time": 1669169372,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 345196,
+      "num": 345196,
+      "word": "饿了么挺阿根廷球迷",
+      "onboard_time": 1669179881,
+      "rank": 28,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 344332,
@@ -803,22 +827,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 261221,
-      "num": 261221,
-      "word": "饿了么挺阿根廷球迷",
-      "onboard_time": 1669179881,
-      "rank": 28,
-      "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 261204,
-      "num": 258804,
-      "word": "假如郝葭成为五少主夫人",
-      "onboard_time": 1669180123,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 257104,
       "num": 257104,
       "word": "世界杯史上第一个可拆卸球场",
@@ -1003,6 +1011,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 206530,
+      "num": 206530,
+      "word": "贺顿钱开逸海边吻",
+      "onboard_time": 1669181320,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 203404,
       "num": 203404,
       "word": "世界杯 大冷门",
@@ -1027,6 +1043,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 194748,
+      "num": 194748,
+      "word": "13岁男孩患怪病皮肤发黑浑身奇痒",
+      "onboard_time": 1669178324,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 194056,
       "num": 194056,
       "word": "风吹半夏",
@@ -1041,14 +1065,6 @@
       "onboard_time": 1669171352,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 192629,
-      "num": 192629,
-      "word": "13岁男孩患怪病皮肤发黑浑身奇痒",
-      "onboard_time": 1669178324,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 189803,
@@ -1291,6 +1307,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 121811,
+      "num": 121811,
+      "word": "如果有来生我还要搞导弹",
+      "onboard_time": 1669180902,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 121759,
       "num": 121759,
       "word": "曾可妮说你们看球我看剧",
@@ -1313,6 +1337,30 @@
       "onboard_time": 1669174412,
       "rank": 48,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 114957,
+      "num": 114957,
+      "word": "这是超市里藏了个宿舍吧",
+      "onboard_time": 1669181438,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 114777,
+      "num": 114777,
+      "word": "德国男模队今晚亮相",
+      "onboard_time": 1669181199,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 114019,
+      "num": 114019,
+      "word": "小伙在英国用中国舞表演花式射门",
+      "onboard_time": 1669181498,
+      "rank": 48,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 113772,
@@ -1347,6 +1395,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 102135,
+      "num": 399320,
+      "word": "李书福丁磊在哪看球",
+      "onboard_time": 1669179643,
+      "rank": 14,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 95531,
       "num": 95531,
       "word": "郑州最后一家家乐福停业",
@@ -1377,14 +1433,6 @@
       "onboard_time": 1669138281,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 67600,
-      "num": 385999,
-      "word": "李书福丁磊在哪看球",
-      "onboard_time": 1669179643,
-      "rank": 14,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 50406,
