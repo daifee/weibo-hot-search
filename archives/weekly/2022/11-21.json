@@ -1,6 +1,6 @@
 {
   "startTime": 1668961718135,
-  "endTime": 1669173341597,
+  "endTime": 1669175181873,
   "band_list": [
     {
       "raw_hot": 13131209,
@@ -531,6 +531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1137343,
+      "num": 1137343,
+      "word": "张远神预言沙特爆冷",
+      "onboard_time": 1669171292,
+      "rank": 6,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 1136086,
       "num": 1136086,
       "word": "成都疫情防控",
@@ -595,6 +603,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1055384,
+      "num": 1055384,
+      "word": "农民日报评农民毁菜事件",
+      "onboard_time": 1669170870,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1050384,
       "num": 1050384,
       "word": "岳云鹏也去卡塔尔看开幕式了吗",
@@ -617,14 +633,6 @@
       "onboard_time": 1669034564,
       "rank": 11,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 1038657,
-      "num": 1038657,
-      "word": "张远神预言沙特爆冷",
-      "onboard_time": 1669171292,
-      "rank": 6,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 1036603,
@@ -819,6 +827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 867400,
+      "num": 867400,
+      "word": "德国vs日本",
+      "onboard_time": 1669171891,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 867285,
       "num": 867285,
       "word": "内马尔 帅",
@@ -876,7 +892,7 @@
     },
     {
       "raw_hot": 812890,
-      "num": 126846,
+      "num": 225960,
       "word": "许半夏的事业心燃起来了",
       "onboard_time": 1669173332,
       "rank": 47,
@@ -1003,6 +1019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 726404,
+      "num": 514216,
+      "word": "大四女生为考研自己开自习室",
+      "onboard_time": 1669172792,
+      "rank": 28,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 719350,
       "num": 486475,
       "word": "女子备孕13年生龙凤胎取名天佑佑心",
@@ -1025,14 +1049,6 @@
       "onboard_time": 1668993752,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 713391,
-      "num": 713391,
-      "word": "农民日报评农民毁菜事件",
-      "onboard_time": 1669170870,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 710893,
@@ -1347,6 +1363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 594252,
+      "num": 594252,
+      "word": "梅西的球迷有多幸福",
+      "onboard_time": 1669174052,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 593647,
       "num": 593647,
       "word": "Doinb爆料EDG",
@@ -1595,14 +1619,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 532942,
-      "num": 532942,
-      "word": "德国vs日本",
-      "onboard_time": 1669171891,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 525922,
       "num": 525922,
       "word": "贺峻霖说今天是发微博的好日子",
@@ -1835,6 +1851,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 480963,
+      "num": 480963,
+      "word": "陈飞宇张婧仪小学生行为日常",
+      "onboard_time": 1669172972,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 478625,
       "num": 478625,
       "word": "世界杯首球",
@@ -1881,6 +1905,14 @@
       "onboard_time": 1669099592,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 470310,
+      "num": 470310,
+      "word": "饺子皮",
+      "onboard_time": 1669172132,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 469167,
@@ -2313,6 +2345,14 @@
       "onboard_time": 1669123240,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 405941,
+      "num": 405941,
+      "word": "比亚迪涨价2000到6000元不等",
+      "onboard_time": 1669173631,
+      "rank": 15,
+      "category": "财经,科技"
     },
     {
       "raw_hot": 405712,
@@ -2827,6 +2867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 344332,
+      "num": 344332,
+      "word": "周深加盟世界杯音乐盛典",
+      "onboard_time": 1669174954,
+      "rank": 17,
+      "category": "体育,音乐"
+    },
+    {
       "raw_hot": 342348,
       "num": 342348,
       "word": "梅西点射破门",
@@ -2945,14 +2993,6 @@
       "onboard_time": 1669011872,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 332713,
-      "num": 332713,
-      "word": "饺子皮",
-      "onboard_time": 1669172132,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 332696,
@@ -3155,6 +3195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 312433,
+      "num": 312433,
+      "word": "赵丽颖的新剧原声台词",
+      "onboard_time": 1669171772,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 311954,
       "num": 311954,
       "word": "白敬亭六少主撑伞剧照",
@@ -3273,6 +3321,14 @@
       "onboard_time": 1669020813,
       "rank": 17,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 299693,
+      "num": 231091,
+      "word": "令人心动的offer4建筑师季实习生官宣",
+      "onboard_time": 1669174474,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 299315,
@@ -3553,6 +3609,14 @@
       "onboard_time": 1669086750,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 265324,
+      "num": 210524,
+      "word": "卢卡斯因伤退出世界杯",
+      "onboard_time": 1669173091,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 264972,
@@ -3891,6 +3955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 238142,
+      "num": 238142,
+      "word": "男子7年与数百匹狼同吃同住成狼王",
+      "onboard_time": 1669173753,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 236614,
       "num": 236614,
       "word": "沙特球迷赛后模仿C罗庆祝",
@@ -3963,12 +4035,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 230168,
+      "num": 176634,
+      "word": "卿卿日常李薇被扇耳光",
+      "onboard_time": 1669174052,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 228293,
       "num": 228293,
       "word": "柯南足球水平",
       "onboard_time": 1669003892,
       "rank": 25,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 227868,
+      "num": 175070,
+      "word": "newjeans音乐喷泉跳HypeBoy",
+      "onboard_time": 1669175015,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 227671,
@@ -3993,14 +4081,6 @@
       "onboard_time": 1669046915,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 226302,
-      "num": 226302,
-      "word": "大四女生为考研自己开自习室",
-      "onboard_time": 1669172792,
-      "rank": 28,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 225998,
@@ -4227,14 +4307,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 211977,
-      "num": 210636,
-      "word": "陈飞宇张婧仪小学生行为日常",
-      "onboard_time": 1669172972,
-      "rank": 34,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 211657,
       "num": 211657,
       "word": "林俊杰说回公司了",
@@ -4449,6 +4521,14 @@
       "onboard_time": 1669052478,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 196576,
+      "num": 196576,
+      "word": "女子被骗2万怕被骂编造绑架大戏",
+      "onboard_time": 1669173452,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 196446,
@@ -5187,6 +5267,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 155289,
+      "num": 155289,
+      "word": "获得世界杯冠军最多的国家",
+      "onboard_time": 1669174954,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 154156,
       "num": 154156,
       "word": "原来生命真的有奇迹",
@@ -5264,6 +5352,14 @@
       "word": "球迷欢呼迎接梅西出场",
       "onboard_time": 1669113272,
       "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 149690,
+      "num": 149690,
+      "word": "神嘴鹦鹉预测德日首战",
+      "onboard_time": 1669174772,
+      "rank": 45,
       "category": "体育"
     },
     {
@@ -5731,14 +5827,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 129078,
-      "num": 129078,
-      "word": "卢卡斯因伤退出世界杯",
-      "onboard_time": 1669173091,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 128749,
       "num": 128749,
       "word": "还记得19岁的梅西吗",
@@ -5923,6 +6011,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 117628,
+      "num": 117628,
+      "word": "94岁独居老人被邻居照顾30年",
+      "onboard_time": 1669174412,
+      "rank": 48,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 117116,
       "num": 117116,
       "word": "原来真有人装户外空调",
@@ -6025,6 +6121,14 @@
       "onboard_time": 1669072642,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 113772,
+      "num": 113772,
+      "word": "沙特更衣室疯狂庆祝",
+      "onboard_time": 1669175015,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 113025,
