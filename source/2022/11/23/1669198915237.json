@@ -1,0 +1,410 @@
+{
+  "runTime": 1669198915237,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1594035,
+        "num": 1594035,
+        "word": "住家保姆发烧死亡家属索赔158万被驳回",
+        "onboard_time": 1669192117,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1006958,
+        "num": 1006958,
+        "word": "陈飞宇直播",
+        "onboard_time": 1669198411,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 23141,
+        "num": 853690,
+        "word": "10年前的今天我们认识了航母style",
+        "onboard_time": 1669164879,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 812199,
+        "num": 812199,
+        "word": "素媛案罪犯新家靠近小学引担忧",
+        "onboard_time": 1669196074,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 766667,
+        "num": 766667,
+        "word": "陈乔恩的一生都在被湖南台记录",
+        "onboard_time": 1669191156,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 756377,
+        "num": 756377,
+        "word": "汤唯IU同框",
+        "onboard_time": 1669197812,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 718346,
+        "num": 718346,
+        "word": "昆山不动产登记中心柜台人员扇市民耳光",
+        "onboard_time": 1669194337,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 564193,
+        "num": 564193,
+        "word": "北京新增本土感染者913例",
+        "onboard_time": 1669196793,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 538098,
+        "num": 538098,
+        "word": "研究生嫖娼被开除起诉学校被驳回",
+        "onboard_time": 1669175856,
+        "rank": 8,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 479819,
+        "num": 479819,
+        "word": "摩洛哥vs克罗地亚",
+        "onboard_time": 1669191034,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 662759,
+        "num": 477670,
+        "word": "小杨哥被打假事件消费者发声",
+        "onboard_time": 1669195540,
+        "rank": 10,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 527184,
+        "num": 474348,
+        "word": "时代少年团直播",
+        "onboard_time": 1669196316,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 514376,
+        "num": 474123,
+        "word": "点燃我温暖你",
+        "onboard_time": 1669194037,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 454605,
+        "num": 454605,
+        "word": "女生列公式算出蛋糕缺斤少两",
+        "onboard_time": 1669192835,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325417,
+        "num": 325417,
+        "word": "为什么90后还在单身",
+        "onboard_time": 1669192415,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 310675,
+        "num": 310675,
+        "word": "星巴克称已发起自动退款",
+        "onboard_time": 1669193374,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265522,
+        "num": 265522,
+        "word": "北京丰台部分社区推出核酸自采点",
+        "onboard_time": 1669194636,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256438,
+        "num": 256438,
+        "word": "德国vs日本",
+        "onboard_time": 1669171891,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 254639,
+        "num": 254639,
+        "word": "研究发现妊娠影响女性大脑结构与功能",
+        "onboard_time": 1669189834,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238324,
+        "num": 238324,
+        "word": "莫德里奇",
+        "onboard_time": 1669197696,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 373341,
+        "num": 237500,
+        "word": "命韵峋环心愿福利局",
+        "onboard_time": 1669194936,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 344576,
+        "num": 237057,
+        "word": "刘耀文直播怼脸wink",
+        "onboard_time": 1669197397,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 322848,
+        "num": 234262,
+        "word": "命韵峋环对对方心动的时刻",
+        "onboard_time": 1669198354,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 230994,
+        "num": 230994,
+        "word": "你还在露脚脖子吗",
+        "onboard_time": 1669192594,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230319,
+        "num": 230319,
+        "word": "iPhone15明年全系采用USBC接口",
+        "onboard_time": 1669195236,
+        "rank": 24,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 197673,
+        "num": 197673,
+        "word": "24岁小伙带19名战友做整理收纳师",
+        "onboard_time": 1669194457,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193884,
+        "num": 193884,
+        "word": "北京疫情发布会",
+        "onboard_time": 1669195719,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191532,
+        "num": 191532,
+        "word": "星巴克被曝抖音0.01元抢券不兑换",
+        "onboard_time": 1669188637,
+        "rank": 27,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 190042,
+        "num": 190042,
+        "word": "女童将铅笔扎入眼睛致永久视力损伤",
+        "onboard_time": 1669188875,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182527,
+        "num": 182527,
+        "word": "德国对战日本",
+        "onboard_time": 1669196015,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1096709,
+        "num": 182071,
+        "word": "宋亚轩直播表演wink",
+        "onboard_time": 1669198833,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 311130,
+        "num": 181046,
+        "word": "张婧仪说朱韵心里李峋第一位",
+        "onboard_time": 1669198532,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 302704,
+        "num": 180604,
+        "word": "鹿晗张凌赫张云龙今日封面大片",
+        "onboard_time": 1669194158,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 259819,
+        "num": 179498,
+        "word": "刘芸发火前会和郑钧预告",
+        "onboard_time": 1669197335,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178732,
+        "num": 178732,
+        "word": "妻子离家前为丈夫准备1个月食物",
+        "onboard_time": 1669197397,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246408,
+        "num": 177536,
+        "word": "海贼王",
+        "onboard_time": 1669183354,
+        "rank": 35,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 202149,
+        "num": 176075,
+        "word": "马苏不仅演了杨紫的姨还演了杨紫的妈",
+        "onboard_time": 1669190013,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 172712,
+        "num": 172712,
+        "word": "高校食堂大屏放世界杯学生爆满",
+        "onboard_time": 1669195657,
+        "rank": 37,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 152149,
+        "num": 152149,
+        "word": "重庆国考",
+        "onboard_time": 1669198532,
+        "rank": 38,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 150388,
+        "num": 150388,
+        "word": "男子提亲前夕25万彩礼被盗",
+        "onboard_time": 1669188573,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149731,
+        "num": 149731,
+        "word": "北京新增病例数持续高位增长",
+        "onboard_time": 1669196915,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149469,
+        "num": 149469,
+        "word": "怎么狗界也有这种酷刑",
+        "onboard_time": 1669197812,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 147190,
+        "num": 147190,
+        "word": "DK官宣Canna加入",
+        "onboard_time": 1669185813,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 143783,
+        "num": 143783,
+        "word": "真把拉伊卜做成饺子了",
+        "onboard_time": 1669198474,
+        "rank": 43,
+        "category": "体育,美食"
+      },
+      {
+        "raw_hot": 142151,
+        "num": 142151,
+        "word": "英格兰队长凯恩脚踝受伤",
+        "onboard_time": 1669197154,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138605,
+        "num": 138605,
+        "word": "用猕猴桃烤全羊能有多香",
+        "onboard_time": 1669198833,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 132326,
+        "num": 132326,
+        "word": "科比女儿被男子跟踪骚扰",
+        "onboard_time": 1669185393,
+        "rank": 46,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 128193,
+        "num": 128193,
+        "word": "他戴着心脏除颤器踏上世界杯赛场",
+        "onboard_time": 1669193676,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121286,
+        "num": 121286,
+        "word": "iPhone15或告别纯直边",
+        "onboard_time": 1669175915,
+        "rank": 48,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 112454,
+        "num": 112454,
+        "word": "长期运动可以改变形象吗",
+        "onboard_time": 1669198833,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#在法治轨道上全面建设社会主义现代化国家#"
+    }
+  }
+}
