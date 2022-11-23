@@ -1,6 +1,6 @@
 {
   "startTime": 1668961718135,
-  "endTime": 1669222052215,
+  "endTime": 1669223823697,
   "band_list": [
     {
       "raw_hot": 15128338,
@@ -347,6 +347,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 1767460,
+      "num": 1422382,
+      "word": "网曝一女教师上网课时遭家暴",
+      "onboard_time": 1669219655,
+      "rank": 10,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1738191,
       "num": 755688,
       "word": "母亲出家裸捐588万女儿贷款上大学",
@@ -417,14 +425,6 @@
       "onboard_time": 1669180422,
       "rank": 1,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1621363,
-      "num": 1422382,
-      "word": "网曝一女教师上网课时遭家暴",
-      "onboard_time": 1669219655,
-      "rank": 10,
-      "category": "社会负面"
     },
     {
       "raw_hot": 1592601,
@@ -1939,6 +1939,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 586532,
+      "num": 586532,
+      "word": "争吵后妻子昏倒在地丈夫无动于衷",
+      "onboard_time": 1669219537,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 580854,
       "num": 580854,
       "word": "开幕式日本球迷",
@@ -2105,6 +2113,14 @@
       "onboard_time": 1669183175,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 553742,
+      "num": 553742,
+      "word": "赵芳如黑化",
+      "onboard_time": 1669220314,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 553176,
@@ -3251,14 +3267,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 399862,
-      "num": 399862,
-      "word": "赵芳如黑化",
-      "onboard_time": 1669220314,
-      "rank": 23,
-      "category": "影视"
-    },
-    {
       "raw_hot": 398239,
       "num": 398239,
       "word": "诺伊尔的控制范围",
@@ -3899,6 +3907,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 340733,
+      "num": 340733,
+      "word": "乌克兰全境停电",
+      "onboard_time": 1669222346,
+      "rank": 10,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 340584,
       "num": 340584,
       "word": "张若昀大侦探8路透",
@@ -4299,6 +4315,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 311925,
+      "num": 311925,
+      "word": "Ruler直播哭了",
+      "onboard_time": 1669220969,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 311721,
       "num": 311721,
       "word": "256斤男生半年狂甩100斤颜值大变",
@@ -4480,14 +4504,6 @@
       "word": "退役缉毒犬悄悄离家躲进山中",
       "onboard_time": 1669200453,
       "rank": 31,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 295820,
-      "num": 295820,
-      "word": "争吵后妻子昏倒在地丈夫无动于衷",
-      "onboard_time": 1669219537,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -5051,12 +5067,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 256394,
-      "num": 256394,
-      "word": "Ruler直播哭了",
-      "onboard_time": 1669220969,
-      "rank": 22,
-      "category": "游戏"
+      "raw_hot": 256120,
+      "num": 256120,
+      "word": "卡塔尔大熊猫成功预测日本战胜德国",
+      "onboard_time": 1669221149,
+      "rank": 35,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 255283,
@@ -5169,6 +5185,14 @@
       "onboard_time": 1669220491,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 249854,
+      "num": 249854,
+      "word": "西班牙vs哥斯达黎加首发",
+      "onboard_time": 1669220909,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 249711,
@@ -5505,14 +5529,6 @@
       "onboard_time": 1669022736,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 224501,
-      "num": 224501,
-      "word": "西班牙vs哥斯达黎加首发",
-      "onboard_time": 1669220909,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 224413,
@@ -6811,6 +6827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 171556,
+      "num": 171556,
+      "word": "Jennie最新杂志海报",
+      "onboard_time": 1669223121,
+      "rank": 24,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 171429,
       "num": 171429,
       "word": "好喜欢这种慢慢来的恋爱",
@@ -7121,14 +7145,6 @@
       "onboard_time": 1669184014,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 157226,
-      "num": 157226,
-      "word": "卡塔尔大熊猫成功预测日本战胜德国",
-      "onboard_time": 1669221149,
-      "rank": 35,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 156868,
@@ -7987,6 +8003,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 124347,
+      "num": 124347,
+      "word": "李峋说朱韵太信任我了",
+      "onboard_time": 1669222764,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 123598,
       "num": 123598,
       "word": "施情华意的甜蜜对话",
@@ -8371,6 +8395,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 109865,
+      "num": 109865,
+      "word": "消息称富士康私自改动招工补贴金额",
+      "onboard_time": 1669223362,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 109172,
       "num": 109172,
       "word": "73岁退役军人跳江救轻生男子",
@@ -8729,6 +8761,30 @@
       "onboard_time": 1669212761,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 86602,
+      "num": 86602,
+      "word": "德国队控球率",
+      "onboard_time": 1669223121,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 86588,
+      "num": 86588,
+      "word": "GAI哥在做啥子",
+      "onboard_time": 1669223661,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 84607,
+      "num": 84607,
+      "word": "阿森西奥破门",
+      "onboard_time": 1669222764,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 84221,

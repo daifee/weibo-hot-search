@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/24 00:28:21 ~ 2022/11/24 00:47:32
+本榜单时间：2022/11/24 00:28:21 ~ 2022/11/24 01:17:03
 </p>
 </blockquote>
 <p>
@@ -27,14 +27,14 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E7%8F%AD%E7%89%99vs%E5%93%A5%E6%96%AF%E8%BE%BE%E9%BB%8E%E5%8A%A0%23" target="weibo">
-西班牙vs哥斯达黎加（热度：1663429）
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E6%9B%9D%E4%B8%80%E5%A5%B3%E6%95%99%E5%B8%88%E4%B8%8A%E7%BD%91%E8%AF%BE%E6%97%B6%E9%81%AD%E5%AE%B6%E6%9A%B4%23" target="weibo">
+网曝一女教师上网课时遭家暴（热度：1767460）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E6%9B%9D%E4%B8%80%E5%A5%B3%E6%95%99%E5%B8%88%E4%B8%8A%E7%BD%91%E8%AF%BE%E6%97%B6%E9%81%AD%E5%AE%B6%E6%9A%B4%23" target="weibo">
-网曝一女教师上网课时遭家暴（热度：1621363）
+<a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E7%8F%AD%E7%89%99vs%E5%93%A5%E6%96%AF%E8%BE%BE%E9%BB%8E%E5%8A%A0%23" target="weibo">
+西班牙vs哥斯达黎加（热度：1663429）
 </a>
 </li>
 
@@ -93,6 +93,18 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%89%E5%90%B5%E5%90%8E%E5%A6%BB%E5%AD%90%E6%98%8F%E5%80%92%E5%9C%A8%E5%9C%B0%E4%B8%88%E5%A4%AB%E6%97%A0%E5%8A%A8%E4%BA%8E%E8%A1%B7%23" target="weibo">
+争吵后妻子昏倒在地丈夫无动于衷（热度：586532）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E8%8A%B3%E5%A6%82%E9%BB%91%E5%8C%96%23" target="weibo">
+赵芳如黑化（热度：553742）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%A0%B9%E5%BB%B7%E5%92%8C%E5%BE%B7%E5%9B%BD%E6%8B%BF%E4%BA%86%E4%B8%80%E6%A0%B7%E7%9A%84%E5%89%A7%E6%9C%AC%23" target="weibo">
 阿根廷和德国拿了一样的剧本（热度：519752）
 </a>
@@ -117,12 +129,6 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E8%8A%B3%E5%A6%82%E9%BB%91%E5%8C%96%23" target="weibo">
-赵芳如黑化（热度：399862）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%81%9A%E6%B0%B4%E6%9E%9C%E9%A6%92%E5%A4%B4%E5%89%A5%E5%BC%80%E5%85%A8%E6%98%AF%E7%BB%86%E8%8A%82%23" target="weibo">
 女子做水果馒头剥开全是细节（热度：386624）
 </a>
@@ -131,6 +137,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%20%E4%BA%9A%E6%B4%B2%E4%B9%8B%E5%85%89%23" target="weibo">
 日本 亚洲之光（热度：356585）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B9%8C%E5%85%8B%E5%85%B0%E5%85%A8%E5%A2%83%E5%81%9C%E7%94%B5%23" target="weibo">
+乌克兰全境停电（热度：340733）
 </a>
 </li>
 
@@ -147,14 +159,14 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%96%87%E8%84%B8%E4%B8%8A%E7%9A%84%E6%8E%8C%E5%8D%B0%23" target="weibo">
-李薇脸上的掌印（热度：301493）
+<a href="https://s.weibo.com/weibo?q=%23Ruler%E7%9B%B4%E6%92%AD%E5%93%AD%E4%BA%86%23" target="weibo">
+Ruler直播哭了（热度：311925）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%89%E5%90%B5%E5%90%8E%E5%A6%BB%E5%AD%90%E6%98%8F%E5%80%92%E5%9C%A8%E5%9C%B0%E4%B8%88%E5%A4%AB%E6%97%A0%E5%8A%A8%E4%BA%8E%E8%A1%B7%23" target="weibo">
-争吵后妻子昏倒在地丈夫无动于衷（热度：295820）
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%96%87%E8%84%B8%E4%B8%8A%E7%9A%84%E6%8E%8C%E5%8D%B0%23" target="weibo">
+李薇脸上的掌印（热度：301493）
 </a>
 </li>
 
@@ -177,8 +189,8 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23Ruler%E7%9B%B4%E6%92%AD%E5%93%AD%E4%BA%86%23" target="weibo">
-Ruler直播哭了（热度：256394）
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%A1%E5%A1%94%E5%B0%94%E5%A4%A7%E7%86%8A%E7%8C%AB%E6%88%90%E5%8A%9F%E9%A2%84%E6%B5%8B%E6%97%A5%E6%9C%AC%E6%88%98%E8%83%9C%E5%BE%B7%E5%9B%BD%23" target="weibo">
+卡塔尔大熊猫成功预测日本战胜德国（热度：256120）
 </a>
 </li>
 
@@ -191,6 +203,12 @@ Ruler直播哭了（热度：256394）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%B2%89%E4%B8%9D%E7%94%A8%E4%B8%AD%E6%96%87%E8%AF%B4%E6%B1%A4%E5%94%AF%E5%A5%BD%E7%BE%8E%23" target="weibo">
 粉丝用中文说汤唯好美（热度：249947）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E7%8F%AD%E7%89%99vs%E5%93%A5%E6%96%AF%E8%BE%BE%E9%BB%8E%E5%8A%A0%E9%A6%96%E5%8F%91%23" target="weibo">
+西班牙vs哥斯达黎加首发（热度：249854）
 </a>
 </li>
 
@@ -215,12 +233,6 @@ Ruler直播哭了（热度：256394）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%20%E8%B6%8A%E4%BD%8D%23" target="weibo">
 日本 越位（热度：226573）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E7%8F%AD%E7%89%99vs%E5%93%A5%E6%96%AF%E8%BE%BE%E9%BB%8E%E5%8A%A0%E9%A6%96%E5%8F%91%23" target="weibo">
-西班牙vs哥斯达黎加首发（热度：224501）
 </a>
 </li>
 
@@ -273,6 +285,12 @@ Ruler直播哭了（热度：256394）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23Jennie%E6%9C%80%E6%96%B0%E6%9D%82%E5%BF%97%E6%B5%B7%E6%8A%A5%23" target="weibo">
+Jennie最新杂志海报（热度：171556）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%9D%E8%91%AD%E8%B7%B3%E6%B2%B3%23" target="weibo">
 郝葭跳河（热度：165368）
 </a>
@@ -297,14 +315,14 @@ Ruler直播哭了（热度：256394）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%A1%E5%A1%94%E5%B0%94%E5%A4%A7%E7%86%8A%E7%8C%AB%E6%88%90%E5%8A%9F%E9%A2%84%E6%B5%8B%E6%97%A5%E6%9C%AC%E6%88%98%E8%83%9C%E5%BE%B7%E5%9B%BD%23" target="weibo">
-卡塔尔大熊猫成功预测日本战胜德国（热度：157226）
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%9A%E6%B4%B2%E7%90%83%E9%98%9F%20%E5%B4%9B%E8%B5%B7%23" target="weibo">
+亚洲球队 崛起（热度：153461）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%9A%E6%B4%B2%E7%90%83%E9%98%9F%20%E5%B4%9B%E8%B5%B7%23" target="weibo">
-亚洲球队 崛起（热度：153461）
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%B7%E5%9B%BD%E9%97%A8%E5%B0%86%23" target="weibo">
+德国门将（热度：150731）
 </a>
 </li>
 
@@ -345,20 +363,44 @@ ruler（热度：141204）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%B3%8B%E8%AF%B4%E6%9C%B1%E9%9F%B5%E5%A4%AA%E4%BF%A1%E4%BB%BB%E6%88%91%E4%BA%86%23" target="weibo">
+李峋说朱韵太信任我了（热度：124347）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A9%86%E8%A5%BF%E4%BA%9A%E6%8B%89%20%E6%B2%A1%E5%86%99%E5%AE%8C%E4%BD%9C%E4%B8%9A%E7%9A%84%E5%AD%A9%E5%AD%90%23" target="weibo">
 穆西亚拉 没写完作业的孩子（热度：122418）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BE%B7%E5%9B%BD%E9%97%A8%E5%B0%86%23" target="weibo">
-德国门将（热度：116751）
+<a href="https://s.weibo.com/weibo?q=%23%E6%B6%88%E6%81%AF%E7%A7%B0%E5%AF%8C%E5%A3%AB%E5%BA%B7%E7%A7%81%E8%87%AA%E6%94%B9%E5%8A%A8%E6%8B%9B%E5%B7%A5%E8%A1%A5%E8%B4%B4%E9%87%91%E9%A2%9D%23" target="weibo">
+消息称富士康私自改动招工补贴金额（热度：109865）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A6%82%E6%9E%9C%E5%99%A9%E6%A2%A6%E5%8F%98%E6%88%90%E7%8E%B0%E5%AE%9E%E6%98%AF%E5%95%A5%E6%A0%B7%23" target="weibo">
 如果噩梦变成现实是啥样（热度：103732）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%B7%E5%9B%BD%E9%98%9F%E6%8E%A7%E7%90%83%E7%8E%87%23" target="weibo">
+德国队控球率（热度：86602）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23GAI%E5%93%A5%E5%9C%A8%E5%81%9A%E5%95%A5%E5%AD%90%23" target="weibo">
+GAI哥在做啥子（热度：86588）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%A3%AE%E8%A5%BF%E5%A5%A5%E7%A0%B4%E9%97%A8%23" target="weibo">
+阿森西奥破门（热度：84607）
 </a>
 </li>
 

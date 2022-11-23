@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/01 00:36:21 ~ 2022/11/24 00:47:32
+本榜单时间：2022/11/01 00:36:21 ~ 2022/11/24 01:17:03
 </p>
 </blockquote>
 <p>
@@ -1185,6 +1185,12 @@ IU（热度：2015592）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E6%9B%9D%E4%B8%80%E5%A5%B3%E6%95%99%E5%B8%88%E4%B8%8A%E7%BD%91%E8%AF%BE%E6%97%B6%E9%81%AD%E5%AE%B6%E6%9A%B4%23" target="weibo">
+网曝一女教师上网课时遭家暴（热度：1767460）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E9%A3%9E%E5%AE%87%E6%8B%8D%E5%AE%8C%E5%90%BB%E6%88%8F%E9%97%AE%E5%BC%A0%E5%A9%A7%E4%BB%AA%E5%AE%B3%E7%BE%9E%E4%BA%86%E5%90%97%23" target="weibo">
 陈飞宇拍完吻戏问张婧仪害羞了吗（热度：1760340）
 </a>
@@ -1421,12 +1427,6 @@ Faker（热度：1632969）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9A%B4%E9%9B%AA%E5%B0%86%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E6%9A%82%E5%81%9C%E5%A4%9A%E6%95%B0%E6%B8%B8%E6%88%8F%E6%9C%8D%E5%8A%A1%23" target="weibo">
 暴雪将在中国大陆暂停多数游戏服务（热度：1623207）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E6%9B%9D%E4%B8%80%E5%A5%B3%E6%95%99%E5%B8%88%E4%B8%8A%E7%BD%91%E8%AF%BE%E6%97%B6%E9%81%AD%E5%AE%B6%E6%9A%B4%23" target="weibo">
-网曝一女教师上网课时遭家暴（热度：1621363）
 </a>
 </li>
 
