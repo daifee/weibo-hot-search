@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/01 00:36:21 ~ 2022/11/24 00:28:21
+本榜单时间：2022/11/01 00:36:21 ~ 2022/11/24 00:47:32
 </p>
 </blockquote>
 <p>
@@ -1421,6 +1421,12 @@ Faker（热度：1632969）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9A%B4%E9%9B%AA%E5%B0%86%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E6%9A%82%E5%81%9C%E5%A4%9A%E6%95%B0%E6%B8%B8%E6%88%8F%E6%9C%8D%E5%8A%A1%23" target="weibo">
 暴雪将在中国大陆暂停多数游戏服务（热度：1623207）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E6%9B%9D%E4%B8%80%E5%A5%B3%E6%95%99%E5%B8%88%E4%B8%8A%E7%BD%91%E8%AF%BE%E6%97%B6%E9%81%AD%E5%AE%B6%E6%9A%B4%23" target="weibo">
+网曝一女教师上网课时遭家暴（热度：1621363）
 </a>
 </li>
 
@@ -4967,12 +4973,6 @@ kp 退团（热度：791639）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%80%E4%BA%BA%E7%8A%AF%E6%BD%9C%E9%80%8329%E5%B9%B4%E8%A2%AB%E6%8A%93%E6%97%B6%E6%88%90%E5%8D%83%E4%B8%87%E5%AF%8C%E7%BF%81%23" target="weibo">
 杀人犯潜逃29年被抓时成千万富翁（热度：777951）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E6%9B%9D%E4%B8%80%E5%A5%B3%E6%95%99%E5%B8%88%E4%B8%8A%E7%BD%91%E8%AF%BE%E6%97%B6%E9%81%AD%E5%AE%B6%E6%9A%B4%23" target="weibo">
-网曝一女教师上网课时遭家暴（热度：777516）
 </a>
 </li>
 

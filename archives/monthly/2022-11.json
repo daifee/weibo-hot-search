@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1669220901508,
+  "endTime": 1669222052215,
   "band_list": [
     {
       "raw_hot": 15128338,
@@ -1881,6 +1881,14 @@
       "onboard_time": 1668653127,
       "rank": 4,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1621363,
+      "num": 1422382,
+      "word": "网曝一女教师上网课时遭家暴",
+      "onboard_time": 1669219655,
+      "rank": 10,
+      "category": "社会负面"
     },
     {
       "raw_hot": 1618309,
@@ -6609,14 +6617,6 @@
       "onboard_time": 1668089368,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 777516,
-      "num": 648389,
-      "word": "网曝一女教师上网课时遭家暴",
-      "onboard_time": 1669219655,
-      "rank": 10,
-      "category": "社会负面"
     },
     {
       "raw_hot": 777461,
@@ -16683,6 +16683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 399862,
+      "num": 399862,
+      "word": "赵芳如黑化",
+      "onboard_time": 1669220314,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 399705,
       "num": 399705,
       "word": "男子酒后遛狗被卡电梯致狗死亡",
@@ -22779,6 +22787,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 295820,
+      "num": 295820,
+      "word": "争吵后妻子昏倒在地丈夫无动于衷",
+      "onboard_time": 1669219537,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 295644,
       "num": 295644,
       "word": "白敬亭说看看老六吧",
@@ -23187,6 +23203,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 289260,
+      "num": 289260,
+      "word": "楼上怎么天天敲木鱼",
+      "onboard_time": 1669219056,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 289186,
       "num": 289186,
       "word": "入境隔离放宽国际机票搜索量暴增",
@@ -23273,14 +23297,6 @@
       "onboard_time": 1667286506,
       "rank": 29,
       "category": "财经"
-    },
-    {
-      "raw_hot": 287800,
-      "num": 283098,
-      "word": "赵芳如黑化",
-      "onboard_time": 1669220314,
-      "rank": 23,
-      "category": "影视"
     },
     {
       "raw_hot": 287776,
@@ -25731,6 +25747,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 256394,
+      "num": 256394,
+      "word": "Ruler直播哭了",
+      "onboard_time": 1669220969,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 256350,
       "num": 233748,
       "word": "王源说年纪想说小点",
@@ -26433,14 +26457,6 @@
       "onboard_time": 1669207835,
       "rank": 23,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 247008,
-      "num": 238683,
-      "word": "楼上怎么天天敲木鱼",
-      "onboard_time": 1669219056,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 246990,
@@ -28441,6 +28457,14 @@
       "onboard_time": 1668184653,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 224501,
+      "num": 224501,
+      "word": "西班牙vs哥斯达黎加首发",
+      "onboard_time": 1669220909,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 224433,
@@ -36627,6 +36651,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 157226,
+      "num": 157226,
+      "word": "卡塔尔大熊猫成功预测日本战胜德国",
+      "onboard_time": 1669221149,
+      "rank": 35,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 157224,
       "num": 157224,
       "word": "男子乘摩托车多次朝路人泼不明液体",
@@ -37129,6 +37161,14 @@
       "onboard_time": 1668415589,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 153461,
+      "num": 153461,
+      "word": "亚洲球队 崛起",
+      "onboard_time": 1669216916,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 153444,
@@ -38001,6 +38041,14 @@
       "onboard_time": 1669007736,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 147222,
+      "num": 147222,
+      "word": "命韵峋环今天去录歌了",
+      "onboard_time": 1669221448,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 147206,
@@ -38921,14 +38969,6 @@
       "onboard_time": 1668498277,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 142031,
-      "num": 142031,
-      "word": "争吵后妻子昏倒在地丈夫无动于衷",
-      "onboard_time": 1669219537,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 141997,
@@ -41947,6 +41987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 122418,
+      "num": 122418,
+      "word": "穆西亚拉 没写完作业的孩子",
+      "onboard_time": 1669215857,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 122369,
       "num": 122369,
       "word": "原来拆螃蟹这么解压",
@@ -44681,6 +44729,14 @@
       "onboard_time": 1667877325,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 103732,
+      "num": 103732,
+      "word": "如果噩梦变成现实是啥样",
+      "onboard_time": 1669221927,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 103692,

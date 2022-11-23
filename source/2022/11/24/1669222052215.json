@@ -1,0 +1,410 @@
+{
+  "runTime": 1669222052215,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2600459,
+        "num": 2600459,
+        "word": "日本赔率",
+        "onboard_time": 1669217983,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1456834,
+        "num": 1456834,
+        "word": "西班牙vs哥斯达黎加",
+        "onboard_time": 1669217209,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120078,
+        "num": 1422911,
+        "word": "世界杯随处可见中国元素",
+        "onboard_time": 1669205557,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1621363,
+        "num": 1422382,
+        "word": "网曝一女教师上网课时遭家暴",
+        "onboard_time": 1669219655,
+        "rank": 3,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1413272,
+        "num": 1413272,
+        "word": "外交部回应韩剧在中国播放",
+        "onboard_time": 1669211745,
+        "rank": 4,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 703831,
+        "num": 703831,
+        "word": "终于明白了什么叫世界杯死亡之组",
+        "onboard_time": 1669216916,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 623058,
+        "num": 623058,
+        "word": "又一个大冷门",
+        "onboard_time": 1669216101,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 533218,
+        "num": 533218,
+        "word": "原来不懂球也是有好处的",
+        "onboard_time": 1669215110,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 502965,
+        "num": 502965,
+        "word": "德国两届世界杯均负于亚洲球队",
+        "onboard_time": 1669216857,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 483638,
+        "num": 483638,
+        "word": "四位中国公民在美遇害",
+        "onboard_time": 1669209033,
+        "rank": 9,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 544552,
+        "num": 479131,
+        "word": "虞书欣幼儿园时期旧照",
+        "onboard_time": 1669219237,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 461142,
+        "num": 461142,
+        "word": "阿根廷和德国拿了一样的剧本",
+        "onboard_time": 1669217447,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 423522,
+        "num": 423522,
+        "word": "足球反着买 别墅靠着海",
+        "onboard_time": 1669217209,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 399862,
+        "num": 399862,
+        "word": "赵芳如黑化",
+        "onboard_time": 1669220314,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 363283,
+        "num": 363283,
+        "word": "女子花20万带爸爸看世界杯轮流睡着",
+        "onboard_time": 1669212278,
+        "rank": 14,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 352294,
+        "num": 352294,
+        "word": "陈小纭发长文祝福郝葭",
+        "onboard_time": 1669206335,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 333467,
+        "num": 333467,
+        "word": "郑州将进行5天流动性管理",
+        "onboard_time": 1669212461,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327810,
+        "num": 327810,
+        "word": "德国1比2日本",
+        "onboard_time": 1669215983,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 303750,
+        "num": 303750,
+        "word": "女子做水果馒头剥开全是细节",
+        "onboard_time": 1669214802,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295820,
+        "num": 295820,
+        "word": "争吵后妻子昏倒在地丈夫无动于衷",
+        "onboard_time": 1669219537,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289260,
+        "num": 289260,
+        "word": "楼上怎么天天敲木鱼",
+        "onboard_time": 1669219056,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 258908,
+        "num": 258908,
+        "word": "日本 亚洲之光",
+        "onboard_time": 1669216565,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 256394,
+        "num": 256394,
+        "word": "Ruler直播哭了",
+        "onboard_time": 1669220969,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 243337,
+        "num": 243337,
+        "word": "李薇脸上的掌印",
+        "onboard_time": 1669210656,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 239130,
+        "num": 239130,
+        "word": "比利时vs加拿大",
+        "onboard_time": 1669217865,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 224501,
+        "num": 224501,
+        "word": "西班牙vs哥斯达黎加首发",
+        "onboard_time": 1669220909,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207758,
+        "num": 207758,
+        "word": "没有克洛泽的德国队",
+        "onboard_time": 1669216219,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195358,
+        "num": 195358,
+        "word": "德国男模队 帅",
+        "onboard_time": 1669211618,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195060,
+        "num": 195060,
+        "word": "国考",
+        "onboard_time": 1669213721,
+        "rank": 28,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 187402,
+        "num": 187402,
+        "word": "沙特后卫对梅西放狠话",
+        "onboard_time": 1669207535,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176790,
+        "num": 176790,
+        "word": "白敬亭追卿卿日常reaction",
+        "onboard_time": 1669215287,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 168770,
+        "num": 168770,
+        "word": "网友吐槽银行每月只上2天班",
+        "onboard_time": 1669204900,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164571,
+        "num": 164571,
+        "word": "张真源谈爱豆与粉丝的关系",
+        "onboard_time": 1669219303,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159721,
+        "num": 159721,
+        "word": "日本鹦鹉预测日本队将输给德国",
+        "onboard_time": 1669216101,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157526,
+        "num": 157526,
+        "word": "粉丝用中文说汤唯好美",
+        "onboard_time": 1669220491,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 157226,
+        "num": 157226,
+        "word": "卡塔尔大熊猫成功预测日本战胜德国",
+        "onboard_time": 1669221149,
+        "rank": 35,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 153461,
+        "num": 153461,
+        "word": "亚洲球队 崛起",
+        "onboard_time": 1669216916,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157225,
+        "num": 153444,
+        "word": "命韵峋环结婚证件照",
+        "onboard_time": 1669212821,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 153414,
+        "num": 153414,
+        "word": "日本 越位",
+        "onboard_time": 1669209873,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150482,
+        "num": 150482,
+        "word": "丁程鑫直播用手机打光",
+        "onboard_time": 1669219716,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147222,
+        "num": 147222,
+        "word": "命韵峋环今天去录歌了",
+        "onboard_time": 1669221448,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 142471,
+        "num": 142471,
+        "word": "10岁女孩买馕饼误付3万元",
+        "onboard_time": 1669200994,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136080,
+        "num": 136080,
+        "word": "连花清瘟断货后出现涨价",
+        "onboard_time": 1669209391,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128139,
+        "num": 128139,
+        "word": "郝葭跳河",
+        "onboard_time": 1669204530,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 125418,
+        "num": 125418,
+        "word": "马嘉祺每次和宋亚轩一起去小卖部",
+        "onboard_time": 1669219593,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122418,
+        "num": 122418,
+        "word": "穆西亚拉 没写完作业的孩子",
+        "onboard_time": 1669215857,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116751,
+        "num": 116751,
+        "word": "德国门将",
+        "onboard_time": 1669216741,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114625,
+        "num": 114625,
+        "word": "杨幂白宇谢谢你医生评分降了",
+        "onboard_time": 1669215531,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 110179,
+        "num": 110179,
+        "word": "日本反超",
+        "onboard_time": 1669215174,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103732,
+        "num": 103732,
+        "word": "如果噩梦变成现实是啥样",
+        "onboard_time": 1669221927,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#新时代新征程新伟业#"
+    }
+  }
+}
