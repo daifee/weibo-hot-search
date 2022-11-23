@@ -1,6 +1,6 @@
 {
   "startTime": 1669134647959,
-  "endTime": 1669185646531,
+  "endTime": 1669187877292,
   "band_list": [
     {
       "raw_hot": 3352526,
@@ -59,6 +59,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1512322,
+      "num": 1512322,
+      "word": "郑恺说后悔没有早点遇到苗苗",
+      "onboard_time": 1669184794,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1503317,
       "num": 1503317,
       "word": "曼联官宣C罗离队",
@@ -68,7 +76,7 @@
     },
     {
       "raw_hot": 1438230,
-      "num": 975757,
+      "num": 1024274,
       "word": "海丝腾床垫最贵超400万",
       "onboard_time": 1669179166,
       "rank": 30,
@@ -307,6 +315,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 622248,
+      "num": 395769,
+      "word": "科比女儿被男子跟踪骚扰",
+      "onboard_time": 1669185393,
+      "rank": 36,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 602305,
       "num": 602305,
       "word": "海贼王",
@@ -355,6 +371,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 561764,
+      "num": 387941,
+      "word": "DK官宣Canna加入",
+      "onboard_time": 1669185813,
+      "rank": 11,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 561724,
       "num": 561724,
       "word": "男子刷信用卡6千打赏女主播被拉黑",
@@ -377,14 +401,6 @@
       "onboard_time": 1669169912,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 540774,
-      "num": 503518,
-      "word": "郑恺说后悔没有早点遇到苗苗",
-      "onboard_time": 1669184794,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 536480,
@@ -603,6 +619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 360459,
+      "num": 360459,
+      "word": "刘语熙说不再穿阿根廷球衣",
+      "onboard_time": 1669186534,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 357966,
       "num": 249325,
       "word": "赵丽颖许半夏时装秀",
@@ -681,6 +705,14 @@
       "onboard_time": 1669178079,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 337934,
+      "num": 337934,
+      "word": "歼15逼近至不足百米驱离外机",
+      "onboard_time": 1669184556,
+      "rank": 49,
+      "category": "军事"
     },
     {
       "raw_hot": 337595,
@@ -843,6 +875,22 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 290856,
+      "num": 290856,
+      "word": "鹿晗想预知世界杯结果",
+      "onboard_time": 1669185931,
+      "rank": 16,
+      "category": "体育,作品衍生"
+    },
+    {
+      "raw_hot": 290439,
+      "num": 290439,
+      "word": "北京奥运会之后就看不了别的开幕式了",
+      "onboard_time": 1669183594,
+      "rank": 31,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 284908,
       "num": 284908,
       "word": "卢卡斯因伤退出世界杯",
@@ -888,6 +936,14 @@
       "word": "11月22日新增本土无症状26242例",
       "onboard_time": 1669167632,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 264216,
+      "num": 264216,
+      "word": "方舱日记",
+      "onboard_time": 1669185154,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -995,12 +1051,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 229642,
+      "num": 229642,
+      "word": "女子遛狗没牵住金毛追赶老人和小孩",
+      "onboard_time": 1669186117,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 227868,
       "num": 175070,
       "word": "newjeans音乐喷泉跳HypeBoy",
       "onboard_time": 1669175015,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 227454,
+      "num": 227454,
+      "word": "命韵峋环心愿福利局",
+      "onboard_time": 1669187372,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 226986,
@@ -1049,14 +1121,6 @@
       "onboard_time": 1669171533,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 213986,
-      "num": 213986,
-      "word": "北京奥运会之后就看不了别的开幕式了",
-      "onboard_time": 1669183594,
-      "rank": 31,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 213117,
@@ -1211,6 +1275,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 175132,
+      "num": 175132,
+      "word": "iOS16锁屏通知引入三种显示方式",
+      "onboard_time": 1669184194,
+      "rank": 41,
+      "category": "科技"
+    },
+    {
       "raw_hot": 174600,
       "num": 174600,
       "word": "朱韵住院李峋急了",
@@ -1347,20 +1419,20 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 151946,
-      "num": 151946,
-      "word": "歼15逼近至不足百米驱离外机",
-      "onboard_time": 1669184556,
-      "rank": 49,
-      "category": "军事"
-    },
-    {
       "raw_hot": 149690,
       "num": 149690,
       "word": "神嘴鹦鹉预测德日首战",
       "onboard_time": 1669174772,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 149652,
+      "num": 149652,
+      "word": "大爷用架子车拉老伴赶集",
+      "onboard_time": 1669187497,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 148054,
@@ -1403,22 +1475,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 138238,
-      "num": 138238,
-      "word": "科比女儿被男子跟踪骚扰",
-      "onboard_time": 1669185393,
-      "rank": 36,
-      "category": "社会新闻,体育"
-    },
-    {
-      "raw_hot": 136242,
-      "num": 136242,
-      "word": "iOS16锁屏通知引入三种显示方式",
-      "onboard_time": 1669184194,
-      "rank": 41,
-      "category": "科技"
-    },
-    {
       "raw_hot": 135227,
       "num": 135227,
       "word": "朱正廷星河长明打戏",
@@ -1443,12 +1499,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 130772,
-      "num": 130772,
-      "word": "方舱日记",
-      "onboard_time": 1669185154,
-      "rank": 39,
-      "category": "社会新闻"
+      "raw_hot": 130463,
+      "num": 130463,
+      "word": "田曦薇说我田曦薇誓死守护李薇",
+      "onboard_time": 1669186653,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 128868,
@@ -1539,6 +1595,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 108879,
+      "num": 108879,
+      "word": "空军航空兵暗夜出击训练大片",
+      "onboard_time": 1669187132,
+      "rank": 46,
+      "category": "军事"
+    },
+    {
       "raw_hot": 105912,
       "num": 105912,
       "word": "卡塔尔世界杯连续两场0比0",
@@ -1609,6 +1673,14 @@
       "onboard_time": 1669141037,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 43842,
+      "num": 799764,
+      "word": "10年前的今天我们认识了航母style",
+      "onboard_time": 1669164879,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 40357,
