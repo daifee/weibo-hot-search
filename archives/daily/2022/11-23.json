@@ -1,6 +1,6 @@
 {
   "startTime": 1669134647959,
-  "endTime": 1669172697203,
+  "endTime": 1669173341597,
   "band_list": [
     {
       "raw_hot": 3352526,
@@ -91,6 +91,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1038657,
+      "num": 1038657,
+      "word": "张远神预言沙特爆冷",
+      "onboard_time": 1669171292,
+      "rank": 6,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 928698,
       "num": 928698,
       "word": "梅西输球后刘畊宏哭了",
@@ -105,14 +113,6 @@
       "onboard_time": 1669168295,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 910866,
-      "num": 910866,
-      "word": "张远神预言沙特爆冷",
-      "onboard_time": 1669171292,
-      "rank": 6,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 872893,
@@ -131,12 +131,28 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 812890,
+      "num": 126846,
+      "word": "许半夏的事业心燃起来了",
+      "onboard_time": 1669173332,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 745981,
       "num": 745981,
       "word": "法国4比1澳大利亚",
       "onboard_time": 1669151832,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 713391,
+      "num": 713391,
+      "word": "农民日报评农民毁菜事件",
+      "onboard_time": 1669170870,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 703516,
@@ -188,7 +204,7 @@
     },
     {
       "raw_hot": 574148,
-      "num": 510345,
+      "num": 516453,
       "word": "点燃我温暖你今天更新一集又断更了",
       "onboard_time": 1669169971,
       "rank": 11,
@@ -209,6 +225,14 @@
       "onboard_time": 1669130623,
       "rank": 12,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 567734,
+      "num": 211968,
+      "word": "赵丽颖李光洁新剧跟人不熟跟钱熟",
+      "onboard_time": 1669172972,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 561724,
@@ -235,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 532942,
+      "num": 532942,
+      "word": "德国vs日本",
+      "onboard_time": 1669171891,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 523168,
       "num": 523168,
       "word": "王冰冰赖美云甜妹同框",
@@ -251,14 +283,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 485928,
-      "num": 485928,
-      "word": "农民日报评农民毁菜事件",
-      "onboard_time": 1669170870,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 468845,
       "num": 468845,
       "word": "阿根廷出线",
@@ -273,6 +297,14 @@
       "onboard_time": 1669169313,
       "rank": 45,
       "category": "科技,财经"
+    },
+    {
+      "raw_hot": 441909,
+      "num": 441909,
+      "word": "徐璐新剧婚礼现场扇出轨渣男巴掌",
+      "onboard_time": 1669171713,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 438286,
@@ -347,20 +379,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 363295,
+      "num": 333094,
+      "word": "杨紫说是时候叫上钱主播上班啦",
+      "onboard_time": 1669172792,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 362759,
       "num": 362759,
       "word": "信用社回应储户称五万存款不翼而飞",
       "onboard_time": 1669166674,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 361560,
-      "num": 361560,
-      "word": "徐璐新剧婚礼现场扇出轨渣男巴掌",
-      "onboard_time": 1669171713,
-      "rank": 18,
-      "category": "影视"
     },
     {
       "raw_hot": 357966,
@@ -403,6 +435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 332713,
+      "num": 332713,
+      "word": "饺子皮",
+      "onboard_time": 1669172132,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 332609,
       "num": 290185,
       "word": "风吹半夏定档11月27日",
@@ -427,8 +467,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 321060,
+      "num": 321060,
+      "word": "白鹿小香风造型上班路透",
+      "onboard_time": 1669172189,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 320657,
-      "num": 289000,
+      "num": 315233,
       "word": "朴敏英活动状态",
       "onboard_time": 1669168713,
       "rank": 38,
@@ -507,14 +555,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 274078,
-      "num": 274078,
-      "word": "德国vs日本",
-      "onboard_time": 1669171891,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 267856,
       "num": 267856,
       "word": "11月22日新增本土无症状26242例",
@@ -561,14 +601,6 @@
       "onboard_time": 1669151832,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 245199,
-      "num": 232657,
-      "word": "白鹿小香风造型上班路透",
-      "onboard_time": 1669172189,
-      "rank": 30,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 241385,
@@ -619,12 +651,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 228623,
-      "num": 228623,
-      "word": "饺子皮",
-      "onboard_time": 1669172132,
-      "rank": 31,
-      "category": "体育"
+      "raw_hot": 226986,
+      "num": 226986,
+      "word": "高二男生十几秒救下坠楼幼童",
+      "onboard_time": 1669171172,
+      "rank": 38,
+      "category": "社会正能量"
+    },
+    {
+      "raw_hot": 226302,
+      "num": 226302,
+      "word": "大四女生为考研自己开自习室",
+      "onboard_time": 1669172792,
+      "rank": 28,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 225658,
@@ -665,6 +705,14 @@
       "onboard_time": 1669171533,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 211977,
+      "num": 210636,
+      "word": "陈飞宇张婧仪小学生行为日常",
+      "onboard_time": 1669172972,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 211657,
@@ -753,14 +801,6 @@
       "onboard_time": 1669125464,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 174940,
-      "num": 174940,
-      "word": "高二男生十几秒救下坠楼幼童",
-      "onboard_time": 1669171172,
-      "rank": 38,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 174600,
@@ -905,6 +945,14 @@
       "onboard_time": 1669125585,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 129078,
+      "num": 129078,
+      "word": "卢卡斯因伤退出世界杯",
+      "onboard_time": 1669173091,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 121759,
