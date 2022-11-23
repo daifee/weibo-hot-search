@@ -1,6 +1,6 @@
 {
   "startTime": 1669220901508,
-  "endTime": 1669230941722,
+  "endTime": 1669232031322,
   "band_list": [
     {
       "raw_hot": 2651843,
@@ -523,19 +523,19 @@
       "category": "影视"
     },
     {
+      "raw_hot": 125401,
+      "num": 53840,
+      "word": "西班牙净胜球赚麻了",
+      "onboard_time": 1669228516,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 122418,
       "num": 122418,
       "word": "穆西亚拉 没写完作业的孩子",
       "onboard_time": 1669215857,
       "rank": 45,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 117869,
-      "num": 53840,
-      "word": "西班牙净胜球赚麻了",
-      "onboard_time": 1669228516,
-      "rank": 32,
       "category": "体育"
     },
     {
@@ -555,6 +555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 106127,
+      "num": 93056,
+      "word": "男子醉驾见女友丧命父母要求索赔",
+      "onboard_time": 1669228394,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 103732,
       "num": 103732,
       "word": "如果噩梦变成现实是啥样",
@@ -571,12 +579,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 93056,
-      "num": 93056,
-      "word": "男子醉驾见女友丧命父母要求索赔",
-      "onboard_time": 1669228394,
-      "rank": 47,
-      "category": "社会新闻"
+      "raw_hot": 91099,
+      "num": 66751,
+      "word": "王鹤棣确认参加微博视界大会",
+      "onboard_time": 1669231153,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 84607,
