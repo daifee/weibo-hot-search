@@ -1,6 +1,6 @@
 {
   "startTime": 1668961718135,
-  "endTime": 1669245606997,
+  "endTime": 1669246552897,
   "band_list": [
     {
       "raw_hot": 15128338,
@@ -1283,6 +1283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 797887,
+      "num": 797887,
+      "word": "西班牙7比0哥斯达黎加",
+      "onboard_time": 1669245322,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 784834,
       "num": 784834,
       "word": "25岁小伙辞去公职去看世界杯",
@@ -1417,6 +1425,14 @@
       "onboard_time": 1668955296,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 718893,
+      "num": 718893,
+      "word": "C罗成为本届世界杯唯一自由球员",
+      "onboard_time": 1669239852,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 718346,
@@ -1705,6 +1721,14 @@
       "onboard_time": 1669024117,
       "rank": 8,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 643925,
+      "num": 643925,
+      "word": "西班牙净胜球赚麻了",
+      "onboard_time": 1669228516,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 642788,
@@ -2129,14 +2153,6 @@
       "onboard_time": 1669183175,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 554319,
-      "num": 297248,
-      "word": "西班牙净胜球赚麻了",
-      "onboard_time": 1669228516,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 553742,
@@ -2657,14 +2673,6 @@
       "onboard_time": 1669115496,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 474476,
-      "num": 474476,
-      "word": "C罗成为本届世界杯唯一自由球员",
-      "onboard_time": 1669239852,
-      "rank": 11,
-      "category": "体育"
     },
     {
       "raw_hot": 472778,
@@ -4163,6 +4171,14 @@
       "category": "综艺,时尚"
     },
     {
+      "raw_hot": 327557,
+      "num": 327557,
+      "word": "男子醉驾见女友丧命父母要求索赔",
+      "onboard_time": 1669228394,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 325038,
       "num": 325038,
       "word": "令人心动的offer4建筑师季实习生官宣",
@@ -4707,6 +4723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 284520,
+      "num": 284520,
+      "word": "大爷吃网购神药后一天睡近20小时",
+      "onboard_time": 1669239552,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 284414,
       "num": 284414,
       "word": "德国男模队今晚亮相",
@@ -4835,14 +4859,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 275407,
-      "num": 275407,
-      "word": "大爷吃网购神药后一天睡近20小时",
-      "onboard_time": 1669239552,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 275313,
       "num": 267880,
       "word": "宋亚轩说跟粉丝的距离没有那么远",
@@ -4889,14 +4905,6 @@
       "onboard_time": 1669186117,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 272538,
-      "num": 272538,
-      "word": "西班牙7比0哥斯达黎加",
-      "onboard_time": 1669245322,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 271761,
@@ -5051,6 +5059,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 260007,
+      "num": 260007,
+      "word": "父母远行前为30岁女儿做好15天饭菜",
+      "onboard_time": 1669241715,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 259973,
       "num": 259973,
       "word": "陈飞宇张婧仪吻戏拍摄花絮",
@@ -5081,14 +5097,6 @@
       "onboard_time": 1669205557,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 258738,
-      "num": 258738,
-      "word": "男子醉驾见女友丧命父母要求索赔",
-      "onboard_time": 1669228394,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 258452,
@@ -5185,6 +5193,14 @@
       "onboard_time": 1669115673,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 252722,
+      "num": 252722,
+      "word": "比利时1比0加拿大",
+      "onboard_time": 1669245564,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 252578,
@@ -6003,6 +6019,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 204202,
+      "num": 204202,
+      "word": "北京最新核酸查验要求",
+      "onboard_time": 1669245381,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 203941,
       "num": 216233,
       "word": "摄影师为什么迷上手机摄影",
@@ -6401,14 +6425,6 @@
       "onboard_time": 1669110337,
       "rank": 35,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 192456,
-      "num": 192456,
-      "word": "父母远行前为30岁女儿做好15天饭菜",
-      "onboard_time": 1669241715,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 192253,
@@ -7083,14 +7099,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 163803,
-      "num": 64473,
-      "word": "比利时1比0加拿大",
-      "onboard_time": 1669245564,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 163354,
       "num": 163354,
       "word": "伴郎团化身财神爷天团接亲",
@@ -7193,6 +7201,14 @@
       "onboard_time": 1669029879,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 159743,
+      "num": 159743,
+      "word": "郑恺妻子6说最怕听到苗苗说要不",
+      "onboard_time": 1669244119,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 159384,
@@ -7635,6 +7651,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 143927,
+      "num": 143927,
+      "word": "老人以88倍价格买下仅值5元膏药",
+      "onboard_time": 1669245443,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 143676,
       "num": 143676,
       "word": "新冠肺炎疫情居家健康监测指南",
@@ -7827,6 +7851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 136237,
+      "num": 136237,
+      "word": "妈妈辅导哥哥作业被弟弟剪头发",
+      "onboard_time": 1669242075,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 136079,
       "num": 136079,
       "word": "应急管理部调度河南厂房火灾救援处置",
@@ -7969,14 +8001,6 @@
       "onboard_time": 1669100494,
       "rank": 44,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 129914,
-      "num": 129914,
-      "word": "郑恺妻子6说最怕听到苗苗说要不",
-      "onboard_time": 1669244119,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 129656,
@@ -8675,8 +8699,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 103900,
-      "num": 81324,
+      "raw_hot": 104943,
+      "num": 104943,
       "word": "卡塔尔世界杯最大分差",
       "onboard_time": 1669229299,
       "rank": 31,
@@ -8875,6 +8899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 90735,
+      "num": 90735,
+      "word": "女孩用银杏叶给奶奶做玫瑰花头套",
+      "onboard_time": 1669245685,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 90689,
       "num": 90689,
       "word": "德约科维奇总决赛六冠王",
@@ -8947,6 +8979,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 83276,
+      "num": 83276,
+      "word": "孩子的性教育该从几岁开始",
+      "onboard_time": 1669245864,
+      "rank": 41,
+      "category": "教育"
+    },
+    {
       "raw_hot": 82524,
       "num": 82524,
       "word": "杭州造亮相卡塔尔世界杯",
@@ -8961,14 +9001,6 @@
       "onboard_time": 1669190435,
       "rank": 14,
       "category": "科技"
-    },
-    {
-      "raw_hot": 81049,
-      "num": 81049,
-      "word": "妈妈辅导哥哥作业被弟弟剪头发",
-      "onboard_time": 1669242075,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 78804,
@@ -9027,6 +9059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 72037,
+      "num": 72037,
+      "word": "加维 帅",
+      "onboard_time": 1669245983,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 69564,
       "num": 69564,
       "word": "没有勒夫的德国队",
@@ -9049,6 +9089,14 @@
       "onboard_time": 1668963623,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 65826,
+      "num": 65826,
+      "word": "体彩",
+      "onboard_time": 1669246222,
+      "rank": 44,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 64836,
@@ -9083,6 +9131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 58462,
+      "num": 58462,
+      "word": "浙江降温有多离谱",
+      "onboard_time": 1669246166,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 56771,
       "num": 141268,
       "word": "深夜看球吃泡面有多爽",
@@ -9099,6 +9155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 55523,
+      "num": 64122,
+      "word": "原神3.3版本直播",
+      "onboard_time": 1669245564,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 54169,
       "num": 39088,
       "word": "王冰冰笑得好甜",
@@ -9112,6 +9176,14 @@
       "word": "10年前的今天我们认识了航母style",
       "onboard_time": 1669164879,
       "rank": 2,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 51900,
+      "num": 55522,
+      "word": "赵立坚有多宠云南",
+      "onboard_time": 1669245623,
+      "rank": 47,
       "category": "国内要闻"
     },
     {
@@ -9179,20 +9251,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 44655,
+      "num": 65429,
+      "word": "洛阳老君山银装素裹似天上宫阙",
+      "onboard_time": 1669245504,
+      "rank": 43,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 42799,
       "num": 42799,
       "word": "杨洋晒黑色墨镜自拍",
       "onboard_time": 1668978012,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 42721,
-      "num": 65915,
-      "word": "北京最新核酸查验要求",
-      "onboard_time": 1669245381,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 41815,
@@ -9219,6 +9291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 39173,
+      "num": 55515,
+      "word": "运20建造见不到一张纸质图纸",
+      "onboard_time": 1669245623,
+      "rank": 49,
+      "category": "军事"
+    },
+    {
       "raw_hot": 38292,
       "num": 38292,
       "word": "世界上的另一个三少主",
@@ -9235,36 +9315,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 37531,
-      "num": 65654,
-      "word": "老人以88倍价格买下仅值5元膏药",
-      "onboard_time": 1669245443,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 37054,
       "num": 37054,
       "word": "孟川这人有点东西",
       "onboard_time": 1669141817,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 36153,
-      "num": 64122,
-      "word": "原神3.3版本直播",
-      "onboard_time": 1669245564,
-      "rank": 49,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 34434,
-      "num": 65429,
-      "word": "洛阳老君山银装素裹似天上宫阙",
-      "onboard_time": 1669245504,
-      "rank": 43,
-      "category": "旅游"
     },
     {
       "raw_hot": 34141,

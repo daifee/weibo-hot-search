@@ -1,6 +1,6 @@
 {
   "startTime": 1669220901508,
-  "endTime": 1669245606997,
+  "endTime": 1669246552897,
   "band_list": [
     {
       "raw_hot": 2651843,
@@ -75,11 +75,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 797887,
+      "num": 797887,
+      "word": "西班牙7比0哥斯达黎加",
+      "onboard_time": 1669245322,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 794290,
       "num": 794290,
       "word": "原来不懂球也是有好处的",
       "onboard_time": 1669215110,
       "rank": 7,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 718893,
+      "num": 718893,
+      "word": "C罗成为本届世界杯唯一自由球员",
+      "onboard_time": 1669239852,
+      "rank": 11,
       "category": "体育"
     },
     {
@@ -96,6 +112,14 @@
       "word": "足球反着买 别墅靠着海",
       "onboard_time": 1669217209,
       "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 643925,
+      "num": 643925,
+      "word": "西班牙净胜球赚麻了",
+      "onboard_time": 1669228516,
+      "rank": 32,
       "category": "体育"
     },
     {
@@ -131,14 +155,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 554319,
-      "num": 297248,
-      "word": "西班牙净胜球赚麻了",
-      "onboard_time": 1669228516,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 553742,
       "num": 553742,
       "word": "赵芳如黑化",
@@ -152,14 +168,6 @@
       "word": "阿根廷和德国拿了一样的剧本",
       "onboard_time": 1669217447,
       "rank": 13,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 474476,
-      "num": 474476,
-      "word": "C罗成为本届世界杯唯一自由球员",
-      "onboard_time": 1669239852,
-      "rank": 11,
       "category": "体育"
     },
     {
@@ -209,6 +217,14 @@
       "onboard_time": 1669216565,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 327557,
+      "num": 327557,
+      "word": "男子醉驾见女友丧命父母要求索赔",
+      "onboard_time": 1669228394,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 326404,
@@ -275,20 +291,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 275407,
-      "num": 275407,
+      "raw_hot": 284520,
+      "num": 284520,
       "word": "大爷吃网购神药后一天睡近20小时",
       "onboard_time": 1669239552,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 272538,
-      "num": 272538,
-      "word": "西班牙7比0哥斯达黎加",
-      "onboard_time": 1669245322,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 260371,
@@ -299,11 +307,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 258738,
-      "num": 258738,
-      "word": "男子醉驾见女友丧命父母要求索赔",
-      "onboard_time": 1669228394,
-      "rank": 47,
+      "raw_hot": 260007,
+      "num": 260007,
+      "word": "父母远行前为30岁女儿做好15天饭菜",
+      "onboard_time": 1669241715,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -312,6 +320,14 @@
       "word": "西班牙vs哥斯达黎加首发",
       "onboard_time": 1669220909,
       "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 252722,
+      "num": 252722,
+      "word": "比利时1比0加拿大",
+      "onboard_time": 1669245564,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -379,6 +395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 204202,
+      "num": 204202,
+      "word": "北京最新核酸查验要求",
+      "onboard_time": 1669245381,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 203082,
       "num": 203082,
       "word": "丁程鑫直播用手机打光",
@@ -417,14 +441,6 @@
       "onboard_time": 1669219303,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 192456,
-      "num": 192456,
-      "word": "父母远行前为30岁女儿做好15天饭菜",
-      "onboard_time": 1669241715,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 185431,
@@ -499,14 +515,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 163803,
-      "num": 64473,
-      "word": "比利时1比0加拿大",
-      "onboard_time": 1669245564,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 162268,
       "num": 162268,
       "word": "马嘉祺每次和宋亚轩一起去小卖部",
@@ -521,6 +529,14 @@
       "onboard_time": 1669219655,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 159743,
+      "num": 159743,
+      "word": "郑恺妻子6说最怕听到苗苗说要不",
+      "onboard_time": 1669244119,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 153461,
@@ -563,6 +579,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 143927,
+      "num": 143927,
+      "word": "老人以88倍价格买下仅值5元膏药",
+      "onboard_time": 1669245443,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 142519,
       "num": 142519,
       "word": "龚俊和狗狗终于同框合拍了",
@@ -579,20 +603,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 136237,
+      "num": 136237,
+      "word": "妈妈辅导哥哥作业被弟弟剪头发",
+      "onboard_time": 1669242075,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 132467,
       "num": 132467,
       "word": "李峋说朱韵太信任我了",
       "onboard_time": 1669222764,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 129914,
-      "num": 129914,
-      "word": "郑恺妻子6说最怕听到苗苗说要不",
-      "onboard_time": 1669244119,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 127210,
@@ -619,8 +643,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 103900,
-      "num": 81324,
+      "raw_hot": 104943,
+      "num": 104943,
       "word": "卡塔尔世界杯最大分差",
       "onboard_time": 1669229299,
       "rank": 31,
@@ -659,6 +683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 90735,
+      "num": 90735,
+      "word": "女孩用银杏叶给奶奶做玫瑰花头套",
+      "onboard_time": 1669245685,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 84607,
       "num": 84607,
       "word": "阿森西奥破门",
@@ -667,12 +699,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 81049,
-      "num": 81049,
-      "word": "妈妈辅导哥哥作业被弟弟剪头发",
-      "onboard_time": 1669242075,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 83276,
+      "num": 83276,
+      "word": "孩子的性教育该从几岁开始",
+      "onboard_time": 1669245864,
+      "rank": 41,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 72037,
+      "num": 72037,
+      "word": "加维 帅",
+      "onboard_time": 1669245983,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 69564,
@@ -683,11 +723,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 65826,
+      "num": 65826,
+      "word": "体彩",
+      "onboard_time": 1669246222,
+      "rank": 44,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 60385,
       "num": 60385,
       "word": "让更多人才找到自己的舞台",
       "onboard_time": 1669224800,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 58462,
+      "num": 58462,
+      "word": "浙江降温有多离谱",
+      "onboard_time": 1669246166,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -697,6 +753,22 @@
       "onboard_time": 1669235472,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 55523,
+      "num": 64122,
+      "word": "原神3.3版本直播",
+      "onboard_time": 1669245564,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 51900,
+      "num": 55522,
+      "word": "赵立坚有多宠云南",
+      "onboard_time": 1669245623,
+      "rank": 47,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 50753,
@@ -723,12 +795,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 42721,
-      "num": 65915,
-      "word": "北京最新核酸查验要求",
-      "onboard_time": 1669245381,
-      "rank": 40,
-      "category": "社会新闻"
+      "raw_hot": 44655,
+      "num": 65429,
+      "word": "洛阳老君山银装素裹似天上宫阙",
+      "onboard_time": 1669245504,
+      "rank": 43,
+      "category": "旅游"
     },
     {
       "raw_hot": 41815,
@@ -739,28 +811,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 37531,
-      "num": 65654,
-      "word": "老人以88倍价格买下仅值5元膏药",
-      "onboard_time": 1669245443,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 36153,
-      "num": 64122,
-      "word": "原神3.3版本直播",
-      "onboard_time": 1669245564,
+      "raw_hot": 39173,
+      "num": 55515,
+      "word": "运20建造见不到一张纸质图纸",
+      "onboard_time": 1669245623,
       "rank": 49,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 34434,
-      "num": 65429,
-      "word": "洛阳老君山银装素裹似天上宫阙",
-      "onboard_time": 1669245504,
-      "rank": 43,
-      "category": "旅游"
+      "category": "军事"
     },
     {
       "raw_hot": 34141,
