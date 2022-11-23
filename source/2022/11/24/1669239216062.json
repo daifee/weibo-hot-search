@@ -1,0 +1,410 @@
+{
+  "runTime": 1669239216062,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 158038,
+        "num": 158038,
+        "word": "日本赔率",
+        "onboard_time": 1669217983,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113146,
+        "num": 113146,
+        "word": "四位中国公民在美遇害",
+        "onboard_time": 1669209033,
+        "rank": 1,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 22521,
+        "num": 110959,
+        "word": "世界杯随处可见中国元素",
+        "onboard_time": 1669205557,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 151131,
+        "num": 110548,
+        "word": "网曝一女教师上网课时遭家暴",
+        "onboard_time": 1669219655,
+        "rank": 3,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 109331,
+        "num": 109331,
+        "word": "西班牙vs哥斯达黎加",
+        "onboard_time": 1669217209,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95756,
+        "num": 95756,
+        "word": "争吵后妻子昏倒在地丈夫无动于衷",
+        "onboard_time": 1669219537,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94135,
+        "num": 94135,
+        "word": "乌克兰全境停电",
+        "onboard_time": 1669222346,
+        "rank": 6,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 61218,
+        "num": 61218,
+        "word": "外交部回应韩剧在中国播放",
+        "onboard_time": 1669211745,
+        "rank": 7,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 55713,
+        "num": 55713,
+        "word": "终于明白了什么叫世界杯死亡之组",
+        "onboard_time": 1669216916,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 54945,
+        "num": 54945,
+        "word": "男子醉驾见女友丧命父母要求索赔",
+        "onboard_time": 1669228394,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81182,
+        "num": 51565,
+        "word": "西班牙净胜球赚麻了",
+        "onboard_time": 1669228516,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 47591,
+        "num": 47591,
+        "word": "德国门将",
+        "onboard_time": 1669216741,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 45706,
+        "num": 45706,
+        "word": "消息称富士康私自改动招工补贴金额",
+        "onboard_time": 1669223362,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44962,
+        "num": 44962,
+        "word": "女子花20万带爸爸看世界杯轮流睡着",
+        "onboard_time": 1669212278,
+        "rank": 13,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 41755,
+        "num": 41755,
+        "word": "加维成世界杯历史第三年轻进球者",
+        "onboard_time": 1669235472,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 41736,
+        "num": 41736,
+        "word": "足球反着买 别墅靠着海",
+        "onboard_time": 1669217209,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 37905,
+        "num": 37905,
+        "word": "郑州将进行5天流动性管理",
+        "onboard_time": 1669212461,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36686,
+        "num": 36686,
+        "word": "卡塔尔大熊猫成功预测日本战胜德国",
+        "onboard_time": 1669221149,
+        "rank": 17,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 33256,
+        "num": 33256,
+        "word": "赵芳如黑化",
+        "onboard_time": 1669220314,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 32136,
+        "num": 32136,
+        "word": "Ruler直播哭了",
+        "onboard_time": 1669220969,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 30417,
+        "num": 30417,
+        "word": "日本球迷街头狂欢庆祝",
+        "onboard_time": 1669226479,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30102,
+        "num": 30102,
+        "word": "比利时vs加拿大",
+        "onboard_time": 1669217865,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29440,
+        "num": 29440,
+        "word": "连花清瘟断货后出现涨价",
+        "onboard_time": 1669209391,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28218,
+        "num": 28218,
+        "word": "李峋说朱韵太信任我了",
+        "onboard_time": 1669222764,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 28053,
+        "num": 28053,
+        "word": "楼上怎么天天敲木鱼",
+        "onboard_time": 1669219056,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 27900,
+        "num": 27900,
+        "word": "网友吐槽银行每月只上2天班",
+        "onboard_time": 1669204900,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26893,
+        "num": 26893,
+        "word": "女子做水果馒头剥开全是细节",
+        "onboard_time": 1669214802,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26568,
+        "num": 26568,
+        "word": "日本 亚洲之光",
+        "onboard_time": 1669216565,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25440,
+        "num": 25440,
+        "word": "阿根廷和德国拿了一样的剧本",
+        "onboard_time": 1669217447,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24927,
+        "num": 24927,
+        "word": "德国1比2日本",
+        "onboard_time": 1669215983,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30987,
+        "num": 24921,
+        "word": "比利时半场1比0加拿大",
+        "onboard_time": 1669238293,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24402,
+        "num": 24402,
+        "word": "卡塔尔世界杯最大分差",
+        "onboard_time": 1669229299,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23391,
+        "num": 23391,
+        "word": "10岁女孩买馕饼误付3万元",
+        "onboard_time": 1669200994,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22696,
+        "num": 22696,
+        "word": "德国两届世界杯均负于亚洲球队",
+        "onboard_time": 1669216857,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22500,
+        "num": 22500,
+        "word": "西班牙好稳",
+        "onboard_time": 1669225879,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22362,
+        "num": 22362,
+        "word": "陈小纭发长文祝福郝葭",
+        "onboard_time": 1669206335,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 21228,
+        "num": 21228,
+        "word": "加维进球",
+        "onboard_time": 1669226658,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21108,
+        "num": 21108,
+        "word": "虞书欣幼儿园时期旧照",
+        "onboard_time": 1669219237,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20962,
+        "num": 20962,
+        "word": "西班牙全场传球1043次",
+        "onboard_time": 1669228754,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19996,
+        "num": 19996,
+        "word": "李薇脸上的掌印",
+        "onboard_time": 1669210656,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 19829,
+        "num": 19829,
+        "word": "德国队控球率",
+        "onboard_time": 1669223121,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19487,
+        "num": 19487,
+        "word": "西班牙 斗牛士",
+        "onboard_time": 1669226957,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19082,
+        "num": 19082,
+        "word": "又一个大冷门",
+        "onboard_time": 1669216101,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17346,
+        "num": 17346,
+        "word": "GAI哥在做啥子",
+        "onboard_time": 1669223661,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 16882,
+        "num": 16882,
+        "word": "没有勒夫的德国队",
+        "onboard_time": 1669218580,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16304,
+        "num": 16304,
+        "word": "原来不懂球也是有好处的",
+        "onboard_time": 1669215110,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14503,
+        "num": 14503,
+        "word": "沙特后卫对梅西放狠话",
+        "onboard_time": 1669207535,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14406,
+        "num": 14406,
+        "word": "西班牙队史世界杯第100球",
+        "onboard_time": 1669224561,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14060,
+        "num": 14060,
+        "word": "命韵峋环今天去录歌了",
+        "onboard_time": 1669221448,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 13982,
+        "num": 13982,
+        "word": "最有喜感的车祸",
+        "onboard_time": 1669225279,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#新时代新征程新伟业#"
+    }
+  }
+}

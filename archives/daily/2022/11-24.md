@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/24 00:28:21 ~ 2022/11/24 05:17:24
+本榜单时间：2022/11/24 00:28:21 ~ 2022/11/24 05:33:36
 </p>
 </blockquote>
 <p>
@@ -497,6 +497,12 @@ GAI哥在做啥子（热度：102302）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B4%B9%E5%85%B0%E6%89%98%E9%9B%B7%E6%96%AF%E6%A2%85%E5%BC%80%E4%BA%8C%E5%BA%A6%23" target="weibo">
 费兰托雷斯梅开二度（热度：45490）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AF%94%E5%88%A9%E6%97%B6%E5%8D%8A%E5%9C%BA1%E6%AF%940%E5%8A%A0%E6%8B%BF%E5%A4%A7%23" target="weibo">
+比利时半场1比0加拿大（热度：30987）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1669220901508,
-  "endTime": 1669238244042,
+  "endTime": 1669239216062,
   "band_list": [
     {
       "raw_hot": 2651843,
@@ -648,6 +648,14 @@
       "word": "费兰托雷斯梅开二度",
       "onboard_time": 1669226177,
       "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 30987,
+      "num": 24921,
+      "word": "比利时半场1比0加拿大",
+      "onboard_time": 1669238293,
+      "rank": 30,
       "category": "体育"
     }
   ],

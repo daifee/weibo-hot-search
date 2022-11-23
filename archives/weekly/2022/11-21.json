@@ -1,6 +1,6 @@
 {
   "startTime": 1668961718135,
-  "endTime": 1669238244042,
+  "endTime": 1669239216062,
   "band_list": [
     {
       "raw_hot": 15128338,
@@ -9153,6 +9153,14 @@
       "onboard_time": 1669141817,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 30987,
+      "num": 24921,
+      "word": "比利时半场1比0加拿大",
+      "onboard_time": 1669238293,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 28122,
