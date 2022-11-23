@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1669210419053,
+  "endTime": 1669211073313,
   "band_list": [
     {
       "raw_hot": 13131209,
@@ -1209,6 +1209,14 @@
       "onboard_time": 1667578766,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1881905,
+      "num": 1881905,
+      "word": "日本 越位",
+      "onboard_time": 1669209873,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 1880614,
@@ -3595,6 +3603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1130053,
+      "num": 1130053,
+      "word": "陈小纭发长文祝福郝葭",
+      "onboard_time": 1669206335,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1122845,
       "num": 1122845,
       "word": "陈楚生龙丹妮世纪拥抱",
@@ -4467,6 +4483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 993777,
+      "num": 993777,
+      "word": "沙特后卫对梅西放狠话",
+      "onboard_time": 1669207535,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 993081,
       "num": 993081,
       "word": "石家庄新增本土感染544例",
@@ -5035,14 +5059,6 @@
       "category": "影视,网红"
     },
     {
-      "raw_hot": 916532,
-      "num": 916532,
-      "word": "陈小纭发长文祝福郝葭",
-      "onboard_time": 1669206335,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 915679,
       "num": 915679,
       "word": "大妈地铁上身体套塑料袋吃香蕉",
@@ -5163,6 +5179,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 905088,
+      "num": 547041,
+      "word": "四位中国公民在美遇害",
+      "onboard_time": 1669209033,
+      "rank": 10,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 904253,
       "num": 904253,
       "word": "鹿晗因为曼联支持英格兰",
@@ -5193,6 +5217,14 @@
       "onboard_time": 1668649348,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 899050,
+      "num": 899050,
+      "word": "德国vs日本",
+      "onboard_time": 1669171891,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 898771,
@@ -5553,14 +5585,6 @@
       "onboard_time": 1668762207,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 867400,
-      "num": 867400,
-      "word": "德国vs日本",
-      "onboard_time": 1669171891,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 866964,
@@ -6129,14 +6153,6 @@
       "onboard_time": 1669173332,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 811926,
-      "num": 811926,
-      "word": "沙特后卫对梅西放狠话",
-      "onboard_time": 1669207535,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 809196,
@@ -9275,6 +9291,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 608062,
+      "num": 608062,
+      "word": "陈飞宇提醒张婧仪写火军",
+      "onboard_time": 1669207416,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 607764,
       "num": 607764,
       "word": "5秒一个梗",
@@ -9769,14 +9793,6 @@
       "onboard_time": 1668870513,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 580933,
-      "num": 580933,
-      "word": "陈飞宇提醒张婧仪写火军",
-      "onboard_time": 1669207416,
-      "rank": 12,
-      "category": "影视"
     },
     {
       "raw_hot": 580854,
@@ -12411,14 +12427,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 495142,
-      "num": 469574,
-      "word": "四位中国公民在美遇害",
-      "onboard_time": 1669209033,
-      "rank": 10,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 495043,
       "num": 495043,
       "word": "陈紫函亲手撕碎反派剧本",
@@ -12825,6 +12833,14 @@
       "onboard_time": 1668935424,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 484565,
+      "num": 484565,
+      "word": "赵芳如被二少主下药",
+      "onboard_time": 1669206574,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 484509,
@@ -13337,14 +13353,6 @@
       "onboard_time": 1667969246,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 470297,
-      "num": 470297,
-      "word": "日本 越位",
-      "onboard_time": 1669209873,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 470281,
@@ -14427,6 +14435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 441751,
+      "num": 441751,
+      "word": "杨蒙恩的大白",
+      "onboard_time": 1669207296,
+      "rank": 40,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 441275,
       "num": 441275,
       "word": "老人地铁上不顾劝阻用刀削苹果",
@@ -15281,6 +15297,14 @@
       "onboard_time": 1668450314,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 424085,
+      "num": 424085,
+      "word": "德国进球",
+      "onboard_time": 1669210777,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 424081,
@@ -16467,6 +16491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 398239,
+      "num": 398239,
+      "word": "诺伊尔的控制范围",
+      "onboard_time": 1669210471,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 398186,
       "num": 398186,
       "word": "爱过的人可以做朋友吗",
@@ -17329,14 +17361,6 @@
       "onboard_time": 1668762386,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 379776,
-      "num": 379776,
-      "word": "杨蒙恩的大白",
-      "onboard_time": 1669207296,
-      "rank": 40,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 379398,
@@ -18699,6 +18723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 352753,
+      "num": 352753,
+      "word": "穆勒",
+      "onboard_time": 1669210355,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 352690,
       "num": 352690,
       "word": "重庆新增本土确诊178例无症状6157例",
@@ -19081,14 +19113,6 @@
       "onboard_time": 1667961626,
       "rank": 47,
       "category": "科技"
-    },
-    {
-      "raw_hot": 346483,
-      "num": 346483,
-      "word": "赵芳如被二少主下药",
-      "onboard_time": 1669206574,
-      "rank": 28,
-      "category": "影视"
     },
     {
       "raw_hot": 346339,
@@ -20385,6 +20409,14 @@
       "onboard_time": 1668517349,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 327297,
+      "num": 327297,
+      "word": "连花清瘟断货后出现涨价",
+      "onboard_time": 1669209391,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 327255,
@@ -21771,6 +21803,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 307835,
+      "num": 307835,
+      "word": "综艺算艺人作品吗",
+      "onboard_time": 1669206396,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 307793,
       "num": 307793,
       "word": "张婧仪说LP收复进度表快收好",
@@ -22537,14 +22577,6 @@
       "onboard_time": 1668859293,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 294539,
-      "num": 277618,
-      "word": "综艺算艺人作品吗",
-      "onboard_time": 1669206396,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 294511,
@@ -23419,14 +23451,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 282505,
-      "num": 113848,
-      "word": "穆勒",
-      "onboard_time": 1669210355,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 282339,
       "num": 219802,
       "word": "白术车内吻肖砚",
@@ -23825,6 +23849,14 @@
       "onboard_time": 1668919346,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 277609,
+      "num": 277609,
+      "word": "顾客将高跟鞋穿黑后寄回退货",
+      "onboard_time": 1669208134,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 277341,
@@ -25348,7 +25380,7 @@
     },
     {
       "raw_hot": 257488,
-      "num": 916868,
+      "num": 1128839,
       "word": "世界杯随处可见中国元素",
       "onboard_time": 1669205557,
       "rank": 2,
@@ -25489,6 +25521,14 @@
       "onboard_time": 1667398887,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 254746,
+      "num": 254746,
+      "word": "尹峥李薇不舍分别",
+      "onboard_time": 1669208254,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 254678,
@@ -26457,14 +26497,6 @@
       "onboard_time": 1667365352,
       "rank": 20,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 241623,
-      "num": 241623,
-      "word": "顾客将高跟鞋穿黑后寄回退货",
-      "onboard_time": 1669208134,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 241570,
@@ -27760,14 +27792,6 @@
       "word": "李峋也挡不住公主撒娇",
       "onboard_time": 1668157299,
       "rank": 19,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 227323,
-      "num": 227323,
-      "word": "尹峥李薇不舍分别",
-      "onboard_time": 1669208254,
-      "rank": 31,
       "category": "影视"
     },
     {
@@ -30315,14 +30339,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 202687,
-      "num": 202687,
-      "word": "连花清瘟断货后出现涨价",
-      "onboard_time": 1669209391,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 202526,
       "num": 104363,
       "word": "周冬雨金鸡奖造型路透",
@@ -31912,6 +31928,14 @@
       "word": "命韵峋环战歌是曾可妮唱的",
       "onboard_time": 1668766885,
       "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 190246,
+      "num": 190246,
+      "word": "爱的二八定律进阶小时代",
+      "onboard_time": 1669208315,
+      "rank": 41,
       "category": "影视"
     },
     {
@@ -33587,14 +33611,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 176929,
-      "num": 176929,
-      "word": "爱的二八定律进阶小时代",
-      "onboard_time": 1669208315,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
       "raw_hot": 176917,
       "num": 176917,
       "word": "命韵峋环名场面合集",
@@ -33881,6 +33897,14 @@
       "onboard_time": 1668683249,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 174510,
+      "num": 174510,
+      "word": "李薇脸上的掌印",
+      "onboard_time": 1669210656,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 174483,
@@ -34353,6 +34377,14 @@
       "onboard_time": 1668830968,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 170259,
+      "num": 140862,
+      "word": "日本首发",
+      "onboard_time": 1669211017,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 170232,
@@ -35675,6 +35707,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 160259,
+      "num": 160259,
+      "word": "中国空间站对所有联合国会员国开放",
+      "onboard_time": 1669207296,
+      "rank": 48,
+      "category": "科技"
+    },
+    {
       "raw_hot": 160187,
       "num": 160187,
       "word": "啥别克要68万",
@@ -35937,14 +35977,6 @@
       "onboard_time": 1668833788,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 158521,
-      "num": 158521,
-      "word": "中国空间站对所有联合国会员国开放",
-      "onboard_time": 1669207296,
-      "rank": 48,
-      "category": "科技"
     },
     {
       "raw_hot": 158479,
@@ -37099,6 +37131,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 149186,
+      "num": 149186,
+      "word": "管泽元解说世界杯",
+      "onboard_time": 1669210298,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 149053,
       "num": 124359,
       "word": "披荆斩棘",
@@ -37465,6 +37505,14 @@
       "onboard_time": 1669007736,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 147206,
+      "num": 147206,
+      "word": "SZ与imp晋级世冠小组赛",
+      "onboard_time": 1669210535,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 147192,
@@ -40691,6 +40739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 127581,
+      "num": 127581,
+      "word": "4岁男孩捡5角钱交给警察叔叔",
+      "onboard_time": 1669207118,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127574,
       "num": 127574,
       "word": "鸟鸟 你这是傻悲",
@@ -41739,14 +41795,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 120308,
-      "num": 120308,
-      "word": "4岁男孩捡5角钱交给警察叔叔",
-      "onboard_time": 1669207118,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 120303,
       "num": 120303,
       "word": "你好卡塔尔",
@@ -42545,14 +42593,6 @@
       "onboard_time": 1667647948,
       "rank": 36,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 114254,
-      "num": 114254,
-      "word": "管泽元解说世界杯",
-      "onboard_time": 1669210298,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 114191,

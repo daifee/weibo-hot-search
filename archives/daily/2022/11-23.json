@@ -1,6 +1,6 @@
 {
   "startTime": 1669134647959,
-  "endTime": 1669210419053,
+  "endTime": 1669211073313,
   "band_list": [
     {
       "raw_hot": 3352526,
@@ -40,6 +40,14 @@
       "word": "阿根廷输球一小时后无人走出更衣室",
       "onboard_time": 1669125947,
       "rank": 0,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1881905,
+      "num": 1881905,
+      "word": "日本 越位",
+      "onboard_time": 1669209873,
+      "rank": 9,
       "category": "体育"
     },
     {
@@ -187,6 +195,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 1130053,
+      "num": 1130053,
+      "word": "陈小纭发长文祝福郝葭",
+      "onboard_time": 1669206335,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1096709,
       "num": 188632,
       "word": "宋亚轩直播表演wink",
@@ -227,6 +243,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 993777,
+      "num": 993777,
+      "word": "沙特后卫对梅西放狠话",
+      "onboard_time": 1669207535,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 983538,
       "num": 983538,
       "word": "点燃我温暖你",
@@ -251,14 +275,6 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 916532,
-      "num": 916532,
-      "word": "陈小纭发长文祝福郝葭",
-      "onboard_time": 1669206335,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 914492,
       "num": 914492,
       "word": "3岁女儿0度天要穿裙子妈妈放行",
@@ -267,20 +283,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 905088,
+      "num": 547041,
+      "word": "四位中国公民在美遇害",
+      "onboard_time": 1669209033,
+      "rank": 10,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 899050,
+      "num": 899050,
+      "word": "德国vs日本",
+      "onboard_time": 1669171891,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 872893,
       "num": 872893,
       "word": "妈妈产后抑郁离世孩子才7个月",
       "onboard_time": 1669126363,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 867400,
-      "num": 867400,
-      "word": "德国vs日本",
-      "onboard_time": 1669171891,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 853157,
@@ -321,14 +345,6 @@
       "onboard_time": 1669173332,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 811926,
-      "num": 811926,
-      "word": "沙特后卫对梅西放狠话",
-      "onboard_time": 1669207535,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 809196,
@@ -515,6 +531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 608062,
+      "num": 608062,
+      "word": "陈飞宇提醒张婧仪写火军",
+      "onboard_time": 1669207416,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 607674,
       "num": 607674,
       "word": "李峋拿誓言伤害朱韵",
@@ -545,14 +569,6 @@
       "onboard_time": 1669196793,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 580933,
-      "num": 580933,
-      "word": "陈飞宇提醒张婧仪写火军",
-      "onboard_time": 1669207416,
-      "rank": 12,
-      "category": "影视"
     },
     {
       "raw_hot": 579457,
@@ -731,14 +747,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 495142,
-      "num": 469574,
-      "word": "四位中国公民在美遇害",
-      "onboard_time": 1669209033,
-      "rank": 10,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 494049,
       "num": 494049,
       "word": "王一博街舞5队长大秀幕后花絮",
@@ -752,6 +760,14 @@
       "word": "苍兰诀是爱奇艺当期会员贡献TOP1",
       "onboard_time": 1669176337,
       "rank": 15,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 484565,
+      "num": 484565,
+      "word": "赵芳如被二少主下药",
+      "onboard_time": 1669206574,
+      "rank": 28,
       "category": "影视"
     },
     {
@@ -777,14 +793,6 @@
       "onboard_time": 1669188637,
       "rank": 44,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 470297,
-      "num": 470297,
-      "word": "日本 越位",
-      "onboard_time": 1669209873,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 468845,
@@ -843,6 +851,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 441751,
+      "num": 441751,
+      "word": "杨蒙恩的大白",
+      "onboard_time": 1669207296,
+      "rank": 40,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 438286,
       "num": 438286,
       "word": "上海疫情防控",
@@ -887,6 +903,14 @@
       "num": 424427,
       "word": "丹麦0比0突尼斯",
       "onboard_time": 1669129849,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 424085,
+      "num": 424085,
+      "word": "德国进球",
+      "onboard_time": 1669210777,
       "rank": 16,
       "category": "体育"
     },
@@ -939,6 +963,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 398239,
+      "num": 398239,
+      "word": "诺伊尔的控制范围",
+      "onboard_time": 1669210471,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 397213,
       "num": 397213,
       "word": "铅山通报高一学生胡某宇失联情况",
@@ -985,14 +1017,6 @@
       "onboard_time": 1669125762,
       "rank": 19,
       "category": "影视"
-    },
-    {
-      "raw_hot": 379776,
-      "num": 379776,
-      "word": "杨蒙恩的大白",
-      "onboard_time": 1669207296,
-      "rank": 40,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 378141,
@@ -1099,6 +1123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 352753,
+      "num": 352753,
+      "word": "穆勒",
+      "onboard_time": 1669210355,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 351851,
       "num": 351851,
       "word": "湖人太阳冲突",
@@ -1113,14 +1145,6 @@
       "onboard_time": 1669185154,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 346483,
-      "num": 346483,
-      "word": "赵芳如被二少主下药",
-      "onboard_time": 1669206574,
-      "rank": 28,
-      "category": "影视"
     },
     {
       "raw_hot": 345838,
@@ -1251,6 +1275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 327297,
+      "num": 327297,
+      "word": "连花清瘟断货后出现涨价",
+      "onboard_time": 1669209391,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 325038,
       "num": 325038,
       "word": "令人心动的offer4建筑师季实习生官宣",
@@ -1281,6 +1313,14 @@
       "onboard_time": 1669168713,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 319379,
+      "num": 319379,
+      "word": "ruler",
+      "onboard_time": 1669210234,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 317178,
@@ -1379,6 +1419,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 307835,
+      "num": 307835,
+      "word": "综艺算艺人作品吗",
+      "onboard_time": 1669206396,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 307058,
       "num": 307058,
       "word": "十一月讨厌的人都在这里了",
@@ -1417,14 +1465,6 @@
       "onboard_time": 1669200453,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 294539,
-      "num": 277618,
-      "word": "综艺算艺人作品吗",
-      "onboard_time": 1669206396,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 293847,
@@ -1491,14 +1531,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 282505,
-      "num": 113848,
-      "word": "穆勒",
-      "onboard_time": 1669210355,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 281302,
       "num": 281302,
       "word": "一家三口联手运冰毒8.7公斤",
@@ -1513,6 +1545,14 @@
       "onboard_time": 1669141218,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 277609,
+      "num": 277609,
+      "word": "顾客将高跟鞋穿黑后寄回退货",
+      "onboard_time": 1669208134,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 276273,
@@ -1580,7 +1620,7 @@
     },
     {
       "raw_hot": 257488,
-      "num": 916868,
+      "num": 1128839,
       "word": "世界杯随处可见中国元素",
       "onboard_time": 1669205557,
       "rank": 2,
@@ -1601,6 +1641,14 @@
       "onboard_time": 1669128705,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 254746,
+      "num": 254746,
+      "word": "尹峥李薇不舍分别",
+      "onboard_time": 1669208254,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 250933,
@@ -1657,14 +1705,6 @@
       "onboard_time": 1669195839,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 241623,
-      "num": 241623,
-      "word": "顾客将高跟鞋穿黑后寄回退货",
-      "onboard_time": 1669208134,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 241385,
@@ -1737,14 +1777,6 @@
       "onboard_time": 1669175015,
       "rank": 41,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 227323,
-      "num": 227323,
-      "word": "尹峥李薇不舍分别",
-      "onboard_time": 1669208254,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 226986,
@@ -1907,14 +1939,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 202687,
-      "num": 202687,
-      "word": "连花清瘟断货后出现涨价",
-      "onboard_time": 1669209391,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 202318,
       "num": 202318,
       "word": "卿卿日常全员救郝葭",
@@ -1995,14 +2019,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 194560,
-      "num": 194560,
-      "word": "ruler",
-      "onboard_time": 1669210234,
-      "rank": 32,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 194056,
       "num": 194056,
       "word": "风吹半夏",
@@ -2032,6 +2048,14 @@
       "word": "女心理师开播一周年",
       "onboard_time": 1669171352,
       "rank": 36,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 190246,
+      "num": 190246,
+      "word": "爱的二八定律进阶小时代",
+      "onboard_time": 1669208315,
+      "rank": 41,
       "category": "影视"
     },
     {
@@ -2073,6 +2097,14 @@
       "onboard_time": 1669195657,
       "rank": 37,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 185843,
+      "num": 185843,
+      "word": "世界杯直播",
+      "onboard_time": 1669210900,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 185408,
@@ -2131,14 +2163,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 176929,
-      "num": 176929,
-      "word": "爱的二八定律进阶小时代",
-      "onboard_time": 1669208315,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
       "raw_hot": 175132,
       "num": 175132,
       "word": "iOS16锁屏通知引入三种显示方式",
@@ -2152,6 +2176,14 @@
       "word": "朱韵住院李峋急了",
       "onboard_time": 1669114658,
       "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 174510,
+      "num": 174510,
+      "word": "李薇脸上的掌印",
+      "onboard_time": 1669210656,
+      "rank": 38,
       "category": "影视"
     },
     {
@@ -2177,6 +2209,14 @@
       "onboard_time": 1669193918,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 170259,
+      "num": 140862,
+      "word": "日本首发",
+      "onboard_time": 1669211017,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 169965,
@@ -2251,20 +2291,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 160259,
+      "num": 160259,
+      "word": "中国空间站对所有联合国会员国开放",
+      "onboard_time": 1669207296,
+      "rank": 48,
+      "category": "科技"
+    },
+    {
       "raw_hot": 158637,
       "num": 158637,
       "word": "假如滑跪有段位",
       "onboard_time": 1669194519,
       "rank": 35,
       "category": "体育,幽默"
-    },
-    {
-      "raw_hot": 158521,
-      "num": 158521,
-      "word": "中国空间站对所有联合国会员国开放",
-      "onboard_time": 1669207296,
-      "rank": 48,
-      "category": "科技"
     },
     {
       "raw_hot": 157821,
@@ -2363,6 +2403,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 149186,
+      "num": 149186,
+      "word": "管泽元解说世界杯",
+      "onboard_time": 1669210298,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 148564,
       "num": 148564,
       "word": "卿卿日常二少主是洪洗象",
@@ -2377,6 +2425,14 @@
       "onboard_time": 1669144034,
       "rank": 29,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 147206,
+      "num": 147206,
+      "word": "SZ与imp晋级世冠小组赛",
+      "onboard_time": 1669210535,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 145603,
@@ -2491,6 +2547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 127581,
+      "num": 127581,
+      "word": "4岁男孩捡5角钱交给警察叔叔",
+      "onboard_time": 1669207118,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 126164,
       "num": 136359,
       "word": "安卓手机颜值哪家强",
@@ -2547,14 +2611,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 120308,
-      "num": 120308,
-      "word": "4岁男孩捡5角钱交给警察叔叔",
-      "onboard_time": 1669207118,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 119085,
       "num": 110241,
       "word": "白敬亭六少主肖像簿第十一册",
@@ -2600,14 +2656,6 @@
       "word": "詹俊解说",
       "onboard_time": 1669191516,
       "rank": 45,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 114254,
-      "num": 114254,
-      "word": "管泽元解说世界杯",
-      "onboard_time": 1669210298,
-      "rank": 46,
       "category": "体育"
     },
     {
