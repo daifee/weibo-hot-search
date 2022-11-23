@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1669223823697,
+  "endTime": 1669224812956,
   "band_list": [
     {
       "raw_hot": 15128338,
@@ -10075,6 +10075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 579257,
+      "num": 340733,
+      "word": "乌克兰全境停电",
+      "onboard_time": 1669222346,
+      "rank": 10,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 579120,
       "num": 475270,
       "word": "郑州社区书记同名公司老总女儿发声",
@@ -19819,14 +19827,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 340733,
-      "num": 340733,
-      "word": "乌克兰全境停电",
-      "onboard_time": 1669222346,
-      "rank": 10,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 340661,
       "num": 263103,
       "word": "孙俪被孩子打败的日常",
@@ -22521,6 +22521,14 @@
       "onboard_time": 1668919527,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 300706,
+      "num": 256120,
+      "word": "卡塔尔大熊猫成功预测日本战胜德国",
+      "onboard_time": 1669221149,
+      "rank": 35,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 300581,
@@ -25777,14 +25785,6 @@
       "onboard_time": 1668783928,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 256120,
-      "num": 256120,
-      "word": "卡塔尔大熊猫成功预测日本战胜德国",
-      "onboard_time": 1669221149,
-      "rank": 35,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 255875,
@@ -31833,6 +31833,14 @@
       "onboard_time": 1667984787,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 194792,
+      "num": 194792,
+      "word": "消息称富士康私自改动招工补贴金额",
+      "onboard_time": 1669223362,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 194748,
@@ -40523,6 +40531,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 132467,
+      "num": 132467,
+      "word": "李峋说朱韵太信任我了",
+      "onboard_time": 1669222764,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 132412,
       "num": 132412,
       "word": "花得最开心的一块钱",
@@ -41801,14 +41817,6 @@
       "onboard_time": 1668859169,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 124347,
-      "num": 124347,
-      "word": "李峋说朱韵太信任我了",
-      "onboard_time": 1669222764,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 124217,
@@ -43867,14 +43875,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 109865,
-      "num": 109865,
-      "word": "消息称富士康私自改动招工补贴金额",
-      "onboard_time": 1669223362,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 109814,
       "num": 109814,
       "word": "吴卓羲在沙漠独自一个人掉队",
@@ -44969,6 +44969,14 @@
       "onboard_time": 1669018895,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 102302,
+      "num": 102302,
+      "word": "GAI哥在做啥子",
+      "onboard_time": 1669223661,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 102135,
@@ -46299,6 +46307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 93766,
+      "num": 93766,
+      "word": "德国队控球率",
+      "onboard_time": 1669223121,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 93734,
       "num": 93734,
       "word": "原来AI喜欢这样的猫",
@@ -47361,22 +47377,6 @@
       "onboard_time": 1668528447,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 86602,
-      "num": 86602,
-      "word": "德国队控球率",
-      "onboard_time": 1669223121,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 86588,
-      "num": 86588,
-      "word": "GAI哥在做啥子",
-      "onboard_time": 1669223661,
-      "rank": 46,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 86516,
@@ -49067,6 +49067,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 69564,
+      "num": 69564,
+      "word": "没有勒夫的德国队",
+      "onboard_time": 1669218580,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 69548,
       "num": 69548,
       "word": "11月2日新增本土确诊531例",
@@ -49387,6 +49395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 65419,
+      "num": 65419,
+      "word": "西班牙队史世界杯第100球",
+      "onboard_time": 1669224561,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 65137,
       "num": 65137,
       "word": "宝妈买爱他美奶粉开罐遇活虫",
@@ -49657,6 +49673,14 @@
       "onboard_time": 1667540367,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 60385,
+      "num": 60385,
+      "word": "让更多人才找到自己的舞台",
+      "onboard_time": 1669224800,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 60068,

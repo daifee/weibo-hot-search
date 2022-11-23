@@ -1,6 +1,6 @@
 {
   "startTime": 1668961718135,
-  "endTime": 1669223823697,
+  "endTime": 1669224812956,
   "band_list": [
     {
       "raw_hot": 15128338,
@@ -1971,6 +1971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 579257,
+      "num": 340733,
+      "word": "乌克兰全境停电",
+      "onboard_time": 1669222346,
+      "rank": 10,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 576051,
       "num": 401528,
       "word": "麻辣鸡",
@@ -3907,14 +3915,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 340733,
-      "num": 340733,
-      "word": "乌克兰全境停电",
-      "onboard_time": 1669222346,
-      "rank": 10,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 340584,
       "num": 340584,
       "word": "张若昀大侦探8路透",
@@ -4449,6 +4449,14 @@
       "onboard_time": 1669046020,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 300706,
+      "num": 256120,
+      "word": "卡塔尔大熊猫成功预测日本战胜德国",
+      "onboard_time": 1669221149,
+      "rank": 35,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 300410,
@@ -5065,14 +5073,6 @@
       "onboard_time": 1669131106,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 256120,
-      "num": 256120,
-      "word": "卡塔尔大熊猫成功预测日本战胜德国",
-      "onboard_time": 1669221149,
-      "rank": 35,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 255283,
@@ -6225,6 +6225,14 @@
       "onboard_time": 1669047513,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 194792,
+      "num": 194792,
+      "word": "消息称富士康私自改动招工补贴金额",
+      "onboard_time": 1669223362,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 194748,
@@ -7795,6 +7803,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 132467,
+      "num": 132467,
+      "word": "李峋说朱韵太信任我了",
+      "onboard_time": 1669222764,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 131916,
       "num": 131916,
       "word": "梅西的爱情故事有多甜",
@@ -8001,14 +8017,6 @@
       "onboard_time": 1668950369,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 124347,
-      "num": 124347,
-      "word": "李峋说朱韵太信任我了",
-      "onboard_time": 1669222764,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 123598,
@@ -8395,14 +8403,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 109865,
-      "num": 109865,
-      "word": "消息称富士康私自改动招工补贴金额",
-      "onboard_time": 1669223362,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 109172,
       "num": 109172,
       "word": "73岁退役军人跳江救轻生男子",
@@ -8587,6 +8587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 102302,
+      "num": 102302,
+      "word": "GAI哥在做啥子",
+      "onboard_time": 1669223661,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 102135,
       "num": 399320,
       "word": "李书福丁磊在哪看球",
@@ -8707,6 +8715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 93766,
+      "num": 93766,
+      "word": "德国队控球率",
+      "onboard_time": 1669223121,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 93639,
       "num": 93639,
       "word": "许凯在线修复二八心碎剧粉心情",
@@ -8761,22 +8777,6 @@
       "onboard_time": 1669212761,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 86602,
-      "num": 86602,
-      "word": "德国队控球率",
-      "onboard_time": 1669223121,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 86588,
-      "num": 86588,
-      "word": "GAI哥在做啥子",
-      "onboard_time": 1669223661,
-      "rank": 46,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 84607,
@@ -8875,6 +8875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 69564,
+      "num": 69564,
+      "word": "没有勒夫的德国队",
+      "onboard_time": 1669218580,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 69009,
       "num": 69009,
       "word": "破次元许愿季",
@@ -8888,6 +8896,14 @@
       "word": "瓦伦西亚梅开二度",
       "onboard_time": 1668963623,
       "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 65419,
+      "num": 65419,
+      "word": "西班牙队史世界杯第100球",
+      "onboard_time": 1669224561,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -8913,6 +8929,14 @@
       "onboard_time": 1668964344,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 60385,
+      "num": 60385,
+      "word": "让更多人才找到自己的舞台",
+      "onboard_time": 1669224800,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 56771,
