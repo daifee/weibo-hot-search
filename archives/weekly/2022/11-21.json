@@ -1,6 +1,6 @@
 {
   "startTime": 1668961718135,
-  "endTime": 1669167876848,
+  "endTime": 1669169584033,
   "band_list": [
     {
       "raw_hot": 13131209,
@@ -1067,6 +1067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 676992,
+      "num": 676992,
+      "word": "72岁老人给鸡喝70块钱的牛奶",
+      "onboard_time": 1669164638,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 676682,
       "num": 676682,
       "word": "内马尔在世界杯前做医美",
@@ -1097,14 +1105,6 @@
       "onboard_time": 1669034982,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 671929,
-      "num": 671929,
-      "word": "72岁老人给鸡喝70块钱的牛奶",
-      "onboard_time": 1669164638,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 669838,
@@ -1323,6 +1323,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 586476,
+      "num": 586476,
+      "word": "梅西说打击非常大",
+      "onboard_time": 1669166557,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 580854,
       "num": 580854,
       "word": "开幕式日本球迷",
@@ -1529,6 +1537,14 @@
       "onboard_time": 1669046319,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 523168,
+      "num": 523168,
+      "word": "王冰冰赖美云甜妹同框",
+      "onboard_time": 1669165833,
+      "rank": 14,
+      "category": "综艺,体育"
     },
     {
       "raw_hot": 522717,
@@ -2067,6 +2083,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 419759,
+      "num": 419759,
+      "word": "3岁女儿0度天要穿裙子妈妈放行",
+      "onboard_time": 1669168295,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 419739,
       "num": 419739,
       "word": "梦华录首播收视",
@@ -2241,14 +2265,6 @@
       "onboard_time": 1668959672,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 401531,
-      "num": 401531,
-      "word": "王冰冰赖美云甜妹同框",
-      "onboard_time": 1669165833,
-      "rank": 14,
-      "category": "综艺,体育"
     },
     {
       "raw_hot": 400893,
@@ -2531,6 +2547,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 362759,
+      "num": 362759,
+      "word": "信用社回应储户称五万存款不翼而飞",
+      "onboard_time": 1669166674,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 360984,
       "num": 360984,
       "word": "郑恺苗苗首个合体综艺",
@@ -2643,6 +2667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 345838,
+      "num": 345838,
+      "word": "阴阳师",
+      "onboard_time": 1669169372,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 345738,
       "num": 345738,
       "word": "阿根廷赔率",
@@ -2729,14 +2761,6 @@
       "onboard_time": 1669101391,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 337442,
-      "num": 337442,
-      "word": "梅西说打击非常大",
-      "onboard_time": 1669166557,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 337100,
@@ -3115,6 +3139,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 298831,
+      "num": 298831,
+      "word": "女子婉拒HR后被斥做你的微商去",
+      "onboard_time": 1669168050,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 296726,
       "num": 296726,
       "word": "贺顿的小可乐定档1123",
@@ -3363,6 +3395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 267856,
+      "num": 267856,
+      "word": "11月22日新增本土无症状26242例",
+      "onboard_time": 1669167632,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 267605,
       "num": 267605,
       "word": "王霏霏终于跳舞了",
@@ -3513,14 +3553,6 @@
       "onboard_time": 1669026996,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 254362,
-      "num": 254362,
-      "word": "11月22日新增本土无症状26242例",
-      "onboard_time": 1669167632,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 254165,
@@ -3787,6 +3819,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 231134,
+      "num": 231134,
+      "word": "前苹果高管称iPad正走下坡路",
+      "onboard_time": 1669168773,
+      "rank": 29,
+      "category": "科技"
+    },
+    {
       "raw_hot": 230776,
       "num": 230776,
       "word": "点球",
@@ -4035,12 +4075,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 213342,
-      "num": 213342,
-      "word": "信用社回应储户称五万存款不翼而飞",
-      "onboard_time": 1669166674,
+      "raw_hot": 211657,
+      "num": 211657,
+      "word": "林俊杰说回公司了",
+      "onboard_time": 1669168652,
       "rank": 30,
-      "category": "社会新闻"
+      "category": "艺人"
     },
     {
       "raw_hot": 211545,
@@ -4081,6 +4121,14 @@
       "onboard_time": 1669115853,
       "rank": 47,
       "category": "美食"
+    },
+    {
+      "raw_hot": 208480,
+      "num": 208480,
+      "word": "李峋别偷笑了",
+      "onboard_time": 1669167871,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 206095,
@@ -4259,6 +4307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 195912,
+      "num": 195912,
+      "word": "Doinb",
+      "onboard_time": 1669160069,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 195605,
       "num": 195605,
       "word": "二十四节气",
@@ -4337,14 +4393,6 @@
       "onboard_time": 1669110337,
       "rank": 35,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 191920,
-      "num": 191920,
-      "word": "Doinb",
-      "onboard_time": 1669160069,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 191557,
@@ -4537,6 +4585,14 @@
       "onboard_time": 1669103973,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 180825,
+      "num": 180825,
+      "word": "朴敏英活动状态",
+      "onboard_time": 1669168713,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 180456,
@@ -4883,6 +4939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 160746,
+      "num": 160746,
+      "word": "惠普宣布裁员6000人",
+      "onboard_time": 1669169313,
+      "rank": 45,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 160474,
       "num": 160474,
       "word": "法国vs澳大利亚首发",
@@ -5155,6 +5219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 145603,
+      "num": 145603,
+      "word": "两黑衣男深夜居民楼内逐户试门锁",
+      "onboard_time": 1669168829,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145523,
       "num": 145523,
       "word": "本泽马已离开卡塔尔",
@@ -5203,6 +5275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 144009,
+      "num": 144009,
+      "word": "LESSERAFIM漫画主题曲MV预告",
+      "onboard_time": 1669168411,
+      "rank": 49,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 143676,
       "num": 143676,
       "word": "新冠肺炎疫情居家健康监测指南",
@@ -5233,14 +5313,6 @@
       "onboard_time": 1669101513,
       "rank": 43,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 143132,
-      "num": 143132,
-      "word": "李峋别偷笑了",
-      "onboard_time": 1669167871,
-      "rank": 48,
-      "category": "影视"
     },
     {
       "raw_hot": 143122,

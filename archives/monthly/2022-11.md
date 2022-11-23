@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/01 00:36:21 ~ 2022/11/23 09:44:36
+本榜单时间：2022/11/01 00:36:21 ~ 2022/11/23 10:13:04
 </p>
 </blockquote>
 <p>
@@ -5733,6 +5733,12 @@ T1对战DRX（热度：692544）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2372%E5%B2%81%E8%80%81%E4%BA%BA%E7%BB%99%E9%B8%A1%E5%96%9D70%E5%9D%97%E9%92%B1%E7%9A%84%E7%89%9B%E5%A5%B6%23" target="weibo">
+72岁老人给鸡喝70块钱的牛奶（热度：676992）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E9%A9%AC%E5%B0%94%E5%9C%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E5%89%8D%E5%81%9A%E5%8C%BB%E7%BE%8E%23" target="weibo">
 内马尔在世界杯前做医美（热度：676682）
 </a>
@@ -5825,12 +5831,6 @@ EXO台历（热度：673804）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%B3%8B%E5%93%84%E6%9C%B1%E9%9F%B5%E7%9D%A1%E8%A7%89%23" target="weibo">
 李峋哄朱韵睡觉（热度：672271）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2372%E5%B2%81%E8%80%81%E4%BA%BA%E7%BB%99%E9%B8%A1%E5%96%9D70%E5%9D%97%E9%92%B1%E7%9A%84%E7%89%9B%E5%A5%B6%23" target="weibo">
-72岁老人给鸡喝70块钱的牛奶（热度：671929）
 </a>
 </li>
 

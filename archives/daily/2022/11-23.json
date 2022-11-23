@@ -1,6 +1,6 @@
 {
   "startTime": 1669134647959,
-  "endTime": 1669167876848,
+  "endTime": 1669169584033,
   "band_list": [
     {
       "raw_hot": 3352526,
@@ -123,8 +123,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 671929,
-      "num": 671929,
+      "raw_hot": 676992,
+      "num": 676992,
       "word": "72岁老人给鸡喝70块钱的牛奶",
       "onboard_time": 1669164638,
       "rank": 8,
@@ -155,6 +155,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 586476,
+      "num": 586476,
+      "word": "梅西说打击非常大",
+      "onboard_time": 1669166557,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 569593,
       "num": 569593,
       "word": "原来穿婚纱这么好看啊",
@@ -177,6 +185,14 @@
       "onboard_time": 1669155495,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 523168,
+      "num": 523168,
+      "word": "王冰冰赖美云甜妹同框",
+      "onboard_time": 1669165833,
+      "rank": 14,
+      "category": "综艺,体育"
     },
     {
       "raw_hot": 500756,
@@ -219,6 +235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 419759,
+      "num": 419759,
+      "word": "3岁女儿0度天要穿裙子妈妈放行",
+      "onboard_time": 1669168295,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 419271,
       "num": 419271,
       "word": "韩华",
@@ -233,14 +257,6 @@
       "onboard_time": 1669126124,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 401531,
-      "num": 401531,
-      "word": "王冰冰赖美云甜妹同框",
-      "onboard_time": 1669165833,
-      "rank": 14,
-      "category": "综艺,体育"
     },
     {
       "raw_hot": 386309,
@@ -267,6 +283,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 362759,
+      "num": 362759,
+      "word": "信用社回应储户称五万存款不翼而飞",
+      "onboard_time": 1669166674,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 357228,
       "num": 144936,
       "word": "刘畊宏说跳操流汗滴到眼睛",
@@ -283,20 +307,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 345838,
+      "num": 345838,
+      "word": "阴阳师",
+      "onboard_time": 1669169372,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 342311,
       "num": 342311,
       "word": "时代少年团一封感谢信",
       "onboard_time": 1669165900,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 337442,
-      "num": 337442,
-      "word": "梅西说打击非常大",
-      "onboard_time": 1669166557,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 331089,
@@ -371,6 +395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 298831,
+      "num": 298831,
+      "word": "女子婉拒HR后被斥做你的微商去",
+      "onboard_time": 1669168050,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 293847,
       "num": 293847,
       "word": "沙特球迷庆祝胜利把家里门拆了",
@@ -387,6 +419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 267856,
+      "num": 267856,
+      "word": "11月22日新增本土无症状26242例",
+      "onboard_time": 1669167632,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 257104,
       "num": 257104,
       "word": "世界杯史上第一个可拆卸球场",
@@ -401,14 +441,6 @@
       "onboard_time": 1669128705,
       "rank": 26,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 254362,
-      "num": 254362,
-      "word": "11月22日新增本土无症状26242例",
-      "onboard_time": 1669167632,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 250349,
@@ -483,6 +515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 231134,
+      "num": 231134,
+      "word": "前苹果高管称iPad正走下坡路",
+      "onboard_time": 1669168773,
+      "rank": 29,
+      "category": "科技"
+    },
+    {
       "raw_hot": 225658,
       "num": 225658,
       "word": "郑州疫情防控",
@@ -515,12 +555,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 213342,
-      "num": 213342,
-      "word": "信用社回应储户称五万存款不翼而飞",
-      "onboard_time": 1669166674,
+      "raw_hot": 211657,
+      "num": 211657,
+      "word": "林俊杰说回公司了",
+      "onboard_time": 1669168652,
       "rank": 30,
-      "category": "社会新闻"
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 208480,
+      "num": 208480,
+      "word": "李峋别偷笑了",
+      "onboard_time": 1669167871,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 203404,
@@ -531,8 +579,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 191920,
-      "num": 191920,
+      "raw_hot": 195912,
+      "num": 195912,
       "word": "Doinb",
       "onboard_time": 1669160069,
       "rank": 47,
@@ -569,6 +617,14 @@
       "onboard_time": 1669134328,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 180825,
+      "num": 180825,
+      "word": "朴敏英活动状态",
+      "onboard_time": 1669168713,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 178225,
@@ -635,6 +691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 160746,
+      "num": 160746,
+      "word": "惠普宣布裁员6000人",
+      "onboard_time": 1669169313,
+      "rank": 45,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 160474,
       "num": 160474,
       "word": "法国vs澳大利亚首发",
@@ -675,12 +739,20 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 143132,
-      "num": 143132,
-      "word": "李峋别偷笑了",
-      "onboard_time": 1669167871,
+      "raw_hot": 145603,
+      "num": 145603,
+      "word": "两黑衣男深夜居民楼内逐户试门锁",
+      "onboard_time": 1669168829,
       "rank": 48,
-      "category": "影视"
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 144009,
+      "num": 144009,
+      "word": "LESSERAFIM漫画主题曲MV预告",
+      "onboard_time": 1669168411,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 138664,

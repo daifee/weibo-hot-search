@@ -1,0 +1,410 @@
+{
+  "runTime": 1669169584033,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1783188,
+        "num": 1783188,
+        "word": "沙特全国放假一天",
+        "onboard_time": 1669133433,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1033225,
+        "num": 1033225,
+        "word": "女孩将筷子插电座致9根手指被切",
+        "onboard_time": 1669159950,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22861,
+        "num": 837556,
+        "word": "哪届世界杯吉祥物是你最爱",
+        "onboard_time": 1669098335,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1564536,
+        "num": 823779,
+        "word": "妈妈在初三儿子书包发现拆封避孕套",
+        "onboard_time": 1669160188,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 754213,
+        "num": 754213,
+        "word": "内娱一句话秒懂沙特赢了",
+        "onboard_time": 1669134929,
+        "rank": 4,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 1665167,
+        "num": 735913,
+        "word": "给国足道歉",
+        "onboard_time": 1669133015,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 696688,
+        "num": 696688,
+        "word": "阿根廷输球一小时后无人走出更衣室",
+        "onboard_time": 1669125947,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 676992,
+        "num": 676992,
+        "word": "72岁老人给鸡喝70块钱的牛奶",
+        "onboard_time": 1669164638,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 586476,
+        "num": 586476,
+        "word": "梅西说打击非常大",
+        "onboard_time": 1669166557,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 566569,
+        "num": 566569,
+        "word": "曼联官宣C罗离队",
+        "onboard_time": 1669139240,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 523168,
+        "num": 523168,
+        "word": "王冰冰赖美云甜妹同框",
+        "onboard_time": 1669165833,
+        "rank": 10,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 419759,
+        "num": 419759,
+        "word": "3岁女儿0度天要穿裙子妈妈放行",
+        "onboard_time": 1669168295,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 419744,
+        "num": 419744,
+        "word": "北京昨增388例本土确诊",
+        "onboard_time": 1669163016,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 405951,
+        "num": 405951,
+        "word": "梅西全场数据",
+        "onboard_time": 1669162899,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 403239,
+        "num": 403239,
+        "word": "妈妈产后抑郁离世孩子才7个月",
+        "onboard_time": 1669126363,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 362759,
+        "num": 362759,
+        "word": "信用社回应储户称五万存款不翼而飞",
+        "onboard_time": 1669166674,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 357531,
+        "num": 357531,
+        "word": "阿根廷出线",
+        "onboard_time": 1669122281,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 345838,
+        "num": 345838,
+        "word": "阴阳师",
+        "onboard_time": 1669169372,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 298831,
+        "num": 298831,
+        "word": "女子婉拒HR后被斥做你的微商去",
+        "onboard_time": 1669168050,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294874,
+        "num": 294874,
+        "word": "沙特门将 身价暴涨",
+        "onboard_time": 1669120669,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1012595,
+        "num": 289970,
+        "word": "女方返还6万彩礼男方嫌少将其杀害",
+        "onboard_time": 1669164037,
+        "rank": 20,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 280665,
+        "num": 280665,
+        "word": "海上的大雪是这样的",
+        "onboard_time": 1669162232,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277447,
+        "num": 277447,
+        "word": "二审法庭调查刘鑫一方新证据",
+        "onboard_time": 1669163921,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267856,
+        "num": 267856,
+        "word": "11月22日新增本土无症状26242例",
+        "onboard_time": 1669167632,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256036,
+        "num": 256036,
+        "word": "时代少年团一封感谢信",
+        "onboard_time": 1669165900,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248565,
+        "num": 248565,
+        "word": "梅西输球后刘畊宏哭了",
+        "onboard_time": 1669124862,
+        "rank": 25,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 240420,
+        "num": 240420,
+        "word": "Deft",
+        "onboard_time": 1669161574,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 235507,
+        "num": 235507,
+        "word": "法国4比1澳大利亚",
+        "onboard_time": 1669151832,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 232609,
+        "num": 232609,
+        "word": "男子偷转走交往6年女友8.5万余元",
+        "onboard_time": 1669158922,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231134,
+        "num": 231134,
+        "word": "前苹果高管称iPad正走下坡路",
+        "onboard_time": 1669168773,
+        "rank": 29,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 211657,
+        "num": 211657,
+        "word": "林俊杰说回公司了",
+        "onboard_time": 1669168652,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210218,
+        "num": 210218,
+        "word": "上海宝妈花140万将地下室改成魔法屋",
+        "onboard_time": 1669133195,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208480,
+        "num": 208480,
+        "word": "李峋别偷笑了",
+        "onboard_time": 1669167871,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 195912,
+        "num": 195912,
+        "word": "Doinb",
+        "onboard_time": 1669160069,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 195285,
+        "num": 195285,
+        "word": "原来穿婚纱这么好看啊",
+        "onboard_time": 1669131346,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 192186,
+        "num": 192186,
+        "word": "男子在卡塔尔逛商场发现纯金手机",
+        "onboard_time": 1669149791,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187983,
+        "num": 187983,
+        "word": "郝葭终于逃离二少主",
+        "onboard_time": 1669125762,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 184058,
+        "num": 184058,
+        "word": "梅西说之后必须赢",
+        "onboard_time": 1669165237,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180825,
+        "num": 180825,
+        "word": "朴敏英活动状态",
+        "onboard_time": 1669168713,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178996,
+        "num": 178996,
+        "word": "世界杯期间被女友上了一课",
+        "onboard_time": 1669140199,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173577,
+        "num": 173577,
+        "word": "meiko",
+        "onboard_time": 1669132660,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 167886,
+        "num": 167886,
+        "word": "男子刷信用卡6千打赏女主播被拉黑",
+        "onboard_time": 1669155495,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167035,
+        "num": 167035,
+        "word": "杨蒙恩的猫",
+        "onboard_time": 1669131704,
+        "rank": 42,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 165109,
+        "num": 165109,
+        "word": "姆巴佩头球破门",
+        "onboard_time": 1669151832,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164884,
+        "num": 164884,
+        "word": "周峻纬 名学",
+        "onboard_time": 1669126124,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160746,
+        "num": 160746,
+        "word": "惠普宣布裁员6000人",
+        "onboard_time": 1669169313,
+        "rank": 45,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 158234,
+        "num": 158234,
+        "word": "卿卿日常尹岸变身耙耳朵",
+        "onboard_time": 1669165179,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 145929,
+        "num": 145929,
+        "word": "警方回应男子夜钓时钓到一具浮尸",
+        "onboard_time": 1669121806,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145603,
+        "num": 145603,
+        "word": "两黑衣男深夜居民楼内逐户试门锁",
+        "onboard_time": 1669168829,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144009,
+        "num": 144009,
+        "word": "LESSERAFIM漫画主题曲MV预告",
+        "onboard_time": 1669168411,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#视频回顾习主席东南亚之行#"
+    }
+  }
+}
