@@ -1,6 +1,6 @@
 {
   "startTime": 1669134647959,
-  "endTime": 1669187877292,
+  "endTime": 1669188824072,
   "band_list": [
     {
       "raw_hot": 3352526,
@@ -235,6 +235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 711843,
+      "num": 443693,
+      "word": "科比女儿被男子跟踪骚扰",
+      "onboard_time": 1669185393,
+      "rank": 36,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 703516,
       "num": 703516,
       "word": "scout",
@@ -315,14 +323,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 622248,
-      "num": 395769,
-      "word": "科比女儿被男子跟踪骚扰",
-      "onboard_time": 1669185393,
-      "rank": 36,
-      "category": "社会新闻,体育"
-    },
-    {
       "raw_hot": 602305,
       "num": 602305,
       "word": "海贼王",
@@ -372,7 +372,7 @@
     },
     {
       "raw_hot": 561764,
-      "num": 387941,
+      "num": 504191,
       "word": "DK官宣Canna加入",
       "onboard_time": 1669185813,
       "rank": 11,
@@ -481,6 +481,14 @@
       "onboard_time": 1669169313,
       "rank": 45,
       "category": "科技,财经"
+    },
+    {
+      "raw_hot": 446020,
+      "num": 446020,
+      "word": "刘语熙说不再穿阿根廷球衣",
+      "onboard_time": 1669186534,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 445332,
@@ -619,12 +627,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 360459,
-      "num": 360459,
-      "word": "刘语熙说不再穿阿根廷球衣",
-      "onboard_time": 1669186534,
+      "raw_hot": 362533,
+      "num": 362533,
+      "word": "2022LPL全明星",
+      "onboard_time": 1669188159,
       "rank": 12,
-      "category": "体育"
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 360309,
+      "num": 360309,
+      "word": "盘点汪小菲麻六记商业版图",
+      "onboard_time": 1669188457,
+      "rank": 13,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 357966,
@@ -665,6 +681,14 @@
       "onboard_time": 1669182456,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 351825,
+      "num": 351825,
+      "word": "方舱日记",
+      "onboard_time": 1669185154,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 345838,
@@ -723,6 +747,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 333140,
+      "num": 333140,
+      "word": "命韵峋环心愿福利局",
+      "onboard_time": 1669187372,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 332609,
       "num": 290185,
       "word": "风吹半夏定档11月27日",
@@ -753,6 +785,14 @@
       "onboard_time": 1669174474,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 324378,
+      "num": 324378,
+      "word": "TheShy年度最受欢迎选手",
+      "onboard_time": 1669188036,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 321060,
@@ -931,19 +971,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 272713,
+      "num": 272713,
+      "word": "女子遛狗没牵住金毛追赶老人和小孩",
+      "onboard_time": 1669186117,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 267856,
       "num": 267856,
       "word": "11月22日新增本土无症状26242例",
       "onboard_time": 1669167632,
       "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 264216,
-      "num": 264216,
-      "word": "方舱日记",
-      "onboard_time": 1669185154,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -1051,28 +1091,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 229642,
-      "num": 229642,
-      "word": "女子遛狗没牵住金毛追赶老人和小孩",
-      "onboard_time": 1669186117,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 227868,
       "num": 175070,
       "word": "newjeans音乐喷泉跳HypeBoy",
       "onboard_time": 1669175015,
       "rank": 41,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 227454,
-      "num": 227454,
-      "word": "命韵峋环心愿福利局",
-      "onboard_time": 1669187372,
-      "rank": 24,
-      "category": "影视"
     },
     {
       "raw_hot": 226986,
@@ -1339,6 +1363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 166083,
+      "num": 166083,
+      "word": "海丝腾床垫杭州销量国内最高",
+      "onboard_time": 1669188217,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 164149,
       "num": 164149,
       "word": "阿根廷创48年最差开局纪录",
@@ -1459,6 +1491,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 143585,
+      "num": 143585,
+      "word": "德国世界杯历史战绩",
+      "onboard_time": 1669188637,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 142147,
+      "num": 142147,
+      "word": "田曦薇说我田曦薇誓死守护李薇",
+      "onboard_time": 1669186653,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 138664,
       "num": 138664,
       "word": "法国vs澳大利亚",
@@ -1496,14 +1544,6 @@
       "word": "爱的二八定律最新预告",
       "onboard_time": 1669125585,
       "rank": 48,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 130463,
-      "num": 130463,
-      "word": "田曦薇说我田曦薇誓死守护李薇",
-      "onboard_time": 1669186653,
-      "rank": 40,
       "category": "影视"
     },
     {
@@ -1563,6 +1603,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 115509,
+      "num": 115509,
+      "word": "星巴克被曝抖音0.01元抢券不兑换",
+      "onboard_time": 1669188637,
+      "rank": 44,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 114957,
       "num": 114957,
       "word": "这是超市里藏了个宿舍吧",
@@ -1619,6 +1667,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 102466,
+      "num": 102466,
+      "word": "男子提亲前夕25万彩礼被盗",
+      "onboard_time": 1669188573,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 102135,
       "num": 399320,
       "word": "李书福丁磊在哪看球",
@@ -1659,6 +1715,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 53959,
+      "num": 799764,
+      "word": "10年前的今天我们认识了航母style",
+      "onboard_time": 1669164879,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 50406,
       "num": 50406,
       "word": "偶像梦幻祭国服遭玩家抵制",
@@ -1673,14 +1737,6 @@
       "onboard_time": 1669141037,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 43842,
-      "num": 799764,
-      "word": "10年前的今天我们认识了航母style",
-      "onboard_time": 1669164879,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 40357,
