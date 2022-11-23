@@ -1,0 +1,410 @@
+{
+  "runTime": 1669195163340,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1309972,
+        "num": 1309972,
+        "word": "陈乔恩的一生都在被湖南台记录",
+        "onboard_time": 1669191156,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1219159,
+        "num": 1219159,
+        "word": "住家保姆发烧死亡家属索赔158万被驳回",
+        "onboard_time": 1669192117,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30882,
+        "num": 1033555,
+        "word": "10年前的今天我们认识了航母style",
+        "onboard_time": 1669164879,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 983538,
+        "num": 983538,
+        "word": "点燃我温暖你",
+        "onboard_time": 1669194037,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 826767,
+        "num": 826767,
+        "word": "研究生嫖娼被开除起诉学校被驳回",
+        "onboard_time": 1669175856,
+        "rank": 4,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 607674,
+        "num": 607674,
+        "word": "李峋拿誓言伤害朱韵",
+        "onboard_time": 1669191575,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 530410,
+        "num": 530410,
+        "word": "研究发现妊娠影响女性大脑结构与功能",
+        "onboard_time": 1669189834,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 513708,
+        "num": 513708,
+        "word": "海丝腾床垫杭州销量国内最高",
+        "onboard_time": 1669188217,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 469956,
+        "num": 469956,
+        "word": "星巴克被曝抖音0.01元抢券不兑换",
+        "onboard_time": 1669188637,
+        "rank": 8,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 309438,
+        "num": 309438,
+        "word": "为什么90后还在单身",
+        "onboard_time": 1669192415,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 603156,
+        "num": 308830,
+        "word": "命韵峋环心愿福利局",
+        "onboard_time": 1669194936,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 495363,
+        "num": 306612,
+        "word": "鹿晗张凌赫张云龙今日封面大片",
+        "onboard_time": 1669194158,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 481007,
+        "num": 305232,
+        "word": "郑恺说后悔没有早点遇到苗苗",
+        "onboard_time": 1669184794,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 388611,
+        "num": 303925,
+        "word": "女生列公式算出蛋糕缺斤少两",
+        "onboard_time": 1669192835,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302820,
+        "num": 302820,
+        "word": "德国vs日本",
+        "onboard_time": 1669171891,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 298136,
+        "num": 298136,
+        "word": "女童将铅笔扎入眼睛致永久视力损伤",
+        "onboard_time": 1669188875,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292532,
+        "num": 292532,
+        "word": "科比女儿被男子跟踪骚扰",
+        "onboard_time": 1669185393,
+        "rank": 16,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 270032,
+        "num": 270032,
+        "word": "男子提亲前夕25万彩礼被盗",
+        "onboard_time": 1669188573,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266087,
+        "num": 266087,
+        "word": "星巴克称已发起自动退款",
+        "onboard_time": 1669193374,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265919,
+        "num": 265919,
+        "word": "你还在露脚脖子吗",
+        "onboard_time": 1669192594,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 416149,
+        "num": 265336,
+        "word": "命韵峋环在上海合体了",
+        "onboard_time": 1669190797,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 372310,
+        "num": 260873,
+        "word": "马苏不仅演了杨紫的姨还演了杨紫的妈",
+        "onboard_time": 1669190013,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 266879,
+        "num": 259212,
+        "word": "海贼王",
+        "onboard_time": 1669183354,
+        "rank": 22,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 241021,
+        "num": 241021,
+        "word": "DK官宣Canna加入",
+        "onboard_time": 1669185813,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 192139,
+        "num": 192139,
+        "word": "ksg",
+        "onboard_time": 1669190373,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 239792,
+        "num": 186621,
+        "word": "王一博街舞5队长大秀幕后花絮",
+        "onboard_time": 1669192176,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170838,
+        "num": 177334,
+        "word": "在打一种很新的电话",
+        "onboard_time": 1669193918,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169273,
+        "num": 169273,
+        "word": "iPhone15或告别纯直边",
+        "onboard_time": 1669175915,
+        "rank": 27,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 167894,
+        "num": 167894,
+        "word": "TheShy年度最受欢迎选手",
+        "onboard_time": 1669188036,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 166734,
+        "num": 166734,
+        "word": "沙特王储用私人飞机送球员治伤",
+        "onboard_time": 1669176156,
+        "rank": 29,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 223945,
+        "num": 166379,
+        "word": "李峋知道怎么伤朱韵最深",
+        "onboard_time": 1669193256,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 219342,
+        "num": 165483,
+        "word": "郑钧吃西红柿嘣刘芸脸上了",
+        "onboard_time": 1669193676,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215041,
+        "num": 164298,
+        "word": "失落詹青云被沙特球迷环绕",
+        "onboard_time": 1669194699,
+        "rank": 32,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 198339,
+        "num": 162619,
+        "word": "昆山不动产登记中心柜台人员扇市民耳光",
+        "onboard_time": 1669194337,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162162,
+        "num": 162162,
+        "word": "22岁第一天消防员带着生日帽去救火",
+        "onboard_time": 1669194879,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158637,
+        "num": 158637,
+        "word": "假如滑跪有段位",
+        "onboard_time": 1669194519,
+        "rank": 35,
+        "category": "体育,幽默"
+      },
+      {
+        "raw_hot": 153717,
+        "num": 153717,
+        "word": "北京丰台部分社区推出核酸自采点",
+        "onboard_time": 1669194636,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144795,
+        "num": 144795,
+        "word": "自曝被同事投毒百草枯高校老师发声",
+        "onboard_time": 1669181856,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139199,
+        "num": 139199,
+        "word": "荣耀",
+        "onboard_time": 1669192536,
+        "rank": 38,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 128167,
+        "num": 137244,
+        "word": "为何睡前玩手机容易失眠",
+        "onboard_time": 1669194576,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185408,
+        "num": 137154,
+        "word": "朱韵看出李峋在吃醋",
+        "onboard_time": 1669194818,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 166516,
+        "num": 135967,
+        "word": "盘点汪小菲麻六记商业版图",
+        "onboard_time": 1669188457,
+        "rank": 41,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 134529,
+        "num": 134529,
+        "word": "刘语熙说不再穿阿根廷球衣",
+        "onboard_time": 1669186534,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133637,
+        "num": 133637,
+        "word": "他戴着心脏除颤器踏上世界杯赛场",
+        "onboard_time": 1669193676,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130019,
+        "num": 130019,
+        "word": "歼15逼近至不足百米驱离外机",
+        "onboard_time": 1669184556,
+        "rank": 44,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 127240,
+        "num": 127240,
+        "word": "女子遛狗没牵住金毛追赶老人和小孩",
+        "onboard_time": 1669186117,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124935,
+        "num": 124935,
+        "word": "一家三口联手运冰毒8.7公斤",
+        "onboard_time": 1669178981,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124113,
+        "num": 124113,
+        "word": "方舱日记",
+        "onboard_time": 1669185154,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117227,
+        "num": 117227,
+        "word": "24岁小伙带19名战友做整理收纳师",
+        "onboard_time": 1669194457,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115748,
+        "num": 115748,
+        "word": "星巴克",
+        "onboard_time": 1669183175,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#在法治轨道上全面建设社会主义现代化国家#"
+    }
+  }
+}
