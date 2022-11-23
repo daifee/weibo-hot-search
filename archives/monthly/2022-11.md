@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/01 00:36:21 ~ 2022/11/23 16:25:40
+本榜单时间：2022/11/01 00:36:21 ~ 2022/11/23 16:40:12
 </p>
 </blockquote>
 <p>
@@ -5919,6 +5919,12 @@ EXO台历（热度：673804）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E4%B8%9D%E8%85%BE%E5%BA%8A%E5%9E%AB%E6%9D%AD%E5%B7%9E%E9%94%80%E9%87%8F%E5%9B%BD%E5%86%85%E6%9C%80%E9%AB%98%23" target="weibo">
+海丝腾床垫杭州销量国内最高（热度：673701）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%83%85%E4%BE%A3%E5%88%86%E6%89%8B%E5%89%8D%E9%83%BD%E6%9C%89%E4%BB%80%E4%B9%88%E5%BE%81%E5%85%86%23" target="weibo">
 情侣分手前都有什么征兆（热度：673557）
 </a>
@@ -6005,12 +6011,6 @@ EXO台历（热度：673804）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BD%91%E5%94%AF%E4%BA%8C%E7%9A%84%E8%A7%82%E4%BC%97%E5%B1%85%E7%84%B6%E8%AE%A4%E4%BA%B2%E4%BA%86%23" target="weibo">
 全网唯二的观众居然认亲了（热度：667561）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%A1%E6%8B%89vs%E5%BC%A0%E4%BC%9F%E4%B8%BD%23" target="weibo">
-卡拉vs张伟丽（热度：667419）
 </a>
 </li>
 

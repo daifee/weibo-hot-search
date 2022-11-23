@@ -1,0 +1,410 @@
+{
+  "runTime": 1669192812582,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 792008,
+        "num": 792008,
+        "word": "郑恺说后悔没有早点遇到苗苗",
+        "onboard_time": 1669184794,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 518340,
+        "num": 518340,
+        "word": "科比女儿被男子跟踪骚扰",
+        "onboard_time": 1669185393,
+        "rank": 1,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 38216,
+        "num": 506849,
+        "word": "10年前的今天我们认识了航母style",
+        "onboard_time": 1669164879,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 933514,
+        "num": 502413,
+        "word": "研究生嫖娼被开除起诉学校被驳回",
+        "onboard_time": 1669175856,
+        "rank": 3,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 673701,
+        "num": 499666,
+        "word": "海丝腾床垫杭州销量国内最高",
+        "onboard_time": 1669188217,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 496896,
+        "num": 496896,
+        "word": "荣耀",
+        "onboard_time": 1669192536,
+        "rank": 5,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 494049,
+        "num": 494049,
+        "word": "王一博街舞5队长大秀幕后花絮",
+        "onboard_time": 1669192176,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 478348,
+        "num": 478348,
+        "word": "星巴克被曝抖音0.01元抢券不兑换",
+        "onboard_time": 1669188637,
+        "rank": 7,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 390302,
+        "num": 390302,
+        "word": "女童将铅笔扎入眼睛致永久视力损伤",
+        "onboard_time": 1669188875,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 378731,
+        "num": 378731,
+        "word": "DK官宣Canna加入",
+        "onboard_time": 1669185813,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 562239,
+        "num": 378492,
+        "word": "命韵峋环在上海合体了",
+        "onboard_time": 1669190797,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 511746,
+        "num": 378480,
+        "word": "陈乔恩的一生都在被湖南台记录",
+        "onboard_time": 1669191156,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 408039,
+        "num": 378450,
+        "word": "研究发现妊娠影响女性大脑结构与功能",
+        "onboard_time": 1669189834,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 378141,
+        "num": 378141,
+        "word": "马苏不仅演了杨紫的姨还演了杨紫的妈",
+        "onboard_time": 1669190013,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 81632,
+        "num": 358258,
+        "word": "荣耀80发布会",
+        "onboard_time": 1669190435,
+        "rank": 14,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 351122,
+        "num": 351122,
+        "word": "李峋拿誓言伤害朱韵",
+        "onboard_time": 1669191575,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 343230,
+        "num": 343230,
+        "word": "男子提亲前夕25万彩礼被盗",
+        "onboard_time": 1669188573,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294805,
+        "num": 294805,
+        "word": "刘语熙说不再穿阿根廷球衣",
+        "onboard_time": 1669186534,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 278890,
+        "num": 278890,
+        "word": "德国vs日本",
+        "onboard_time": 1669171891,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 242221,
+        "num": 242221,
+        "word": "iPhone15或告别纯直边",
+        "onboard_time": 1669175915,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 332071,
+        "num": 240206,
+        "word": "鹿晗从未停止过筹备三巡",
+        "onboard_time": 1669189717,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 319887,
+        "num": 238351,
+        "word": "海贼王",
+        "onboard_time": 1669183354,
+        "rank": 21,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 234124,
+        "num": 234124,
+        "word": "TheShy年度最受欢迎选手",
+        "onboard_time": 1669188036,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 226866,
+        "num": 226866,
+        "word": "自曝被同事投毒百草枯高校老师发声",
+        "onboard_time": 1669181856,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200976,
+        "num": 200976,
+        "word": "方舱日记",
+        "onboard_time": 1669185154,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194030,
+        "num": 194030,
+        "word": "ksg",
+        "onboard_time": 1669190373,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 193558,
+        "num": 193558,
+        "word": "迪丽热巴张柏芝李沁今日封面大片",
+        "onboard_time": 1669184975,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 189079,
+        "num": 189079,
+        "word": "沙特王储用私人飞机送球员治伤",
+        "onboard_time": 1669176156,
+        "rank": 27,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 183216,
+        "num": 183216,
+        "word": "星巴克",
+        "onboard_time": 1669183175,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151363,
+        "num": 181438,
+        "word": "一家三口联手运冰毒8.7公斤",
+        "onboard_time": 1669178981,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296822,
+        "num": 181419,
+        "word": "住家保姆发烧死亡家属索赔158万被驳回",
+        "onboard_time": 1669192117,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183574,
+        "num": 181412,
+        "word": "假如郝葭成为五少主夫人",
+        "onboard_time": 1669180123,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 181368,
+        "num": 181368,
+        "word": "盘点汪小菲麻六记商业版图",
+        "onboard_time": 1669188457,
+        "rank": 32,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 175020,
+        "num": 175020,
+        "word": "女子遛狗没牵住金毛追赶老人和小孩",
+        "onboard_time": 1669186117,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160758,
+        "num": 160758,
+        "word": "许半夏薛杉杉同款造型",
+        "onboard_time": 1669188875,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 154811,
+        "num": 154811,
+        "word": "歼15逼近至不足百米驱离外机",
+        "onboard_time": 1669184556,
+        "rank": 35,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 148564,
+        "num": 148564,
+        "word": "卿卿日常二少主是洪洗象",
+        "onboard_time": 1669190074,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 148435,
+        "num": 148435,
+        "word": "妈妈在初三儿子书包发现拆封避孕套",
+        "onboard_time": 1669160188,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133491,
+        "num": 133491,
+        "word": "狗狗因主人没帮忙而生气",
+        "onboard_time": 1669176818,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 130891,
+        "num": 130891,
+        "word": "为什么90后还在单身",
+        "onboard_time": 1669192415,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 197047,
+        "num": 129940,
+        "word": "海丝腾床垫最贵超400万",
+        "onboard_time": 1669179166,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127081,
+        "num": 127081,
+        "word": "iOS16锁屏通知引入三种显示方式",
+        "onboard_time": 1669184194,
+        "rank": 41,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 125939,
+        "num": 125939,
+        "word": "摩洛哥vs克罗地亚",
+        "onboard_time": 1669191034,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122658,
+        "num": 122658,
+        "word": "湖人太阳冲突",
+        "onboard_time": 1669182456,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120667,
+        "num": 120667,
+        "word": "大四女生为考研自己开自习室",
+        "onboard_time": 1669172792,
+        "rank": 44,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 120357,
+        "num": 120357,
+        "word": "你还在露脚脖子吗",
+        "onboard_time": 1669192594,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119557,
+        "num": 119557,
+        "word": "2022LPL全明星",
+        "onboard_time": 1669188159,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 116594,
+        "num": 116594,
+        "word": "78岁老人起诉3儿1女要求尽孝",
+        "onboard_time": 1669192054,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110690,
+        "num": 110690,
+        "word": "德国男模队今晚亮相",
+        "onboard_time": 1669181199,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109900,
+        "num": 109900,
+        "word": "在东北吃到冻货才叫过冬",
+        "onboard_time": 1669191815,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#仰望星空脚踏实地是中国航天的密码#"
+    }
+  }
+}
