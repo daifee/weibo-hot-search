@@ -1,0 +1,410 @@
+{
+  "runTime": 1669210419053,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1276137,
+        "num": 1276137,
+        "word": "终究还是内马尔承受了一切",
+        "onboard_time": 1669203334,
+        "rank": 0,
+        "category": "体育,幽默"
+      },
+      {
+        "raw_hot": 1154309,
+        "num": 1154309,
+        "word": "郝葭跳河",
+        "onboard_time": 1669204530,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 257488,
+        "num": 916868,
+        "word": "世界杯随处可见中国元素",
+        "onboard_time": 1669205557,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 916532,
+        "num": 916532,
+        "word": "陈小纭发长文祝福郝葭",
+        "onboard_time": 1669206335,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 820426,
+        "num": 820426,
+        "word": "网友吐槽银行每月只上2天班",
+        "onboard_time": 1669204900,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 811926,
+        "num": 811926,
+        "word": "沙特后卫对梅西放狠话",
+        "onboard_time": 1669207535,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 618686,
+        "num": 618686,
+        "word": "济南疫情防控",
+        "onboard_time": 1669207352,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 580933,
+        "num": 580933,
+        "word": "陈飞宇提醒张婧仪写火军",
+        "onboard_time": 1669207416,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 499750,
+        "num": 499750,
+        "word": "男子就餐喝一斤半白酒后身亡",
+        "onboard_time": 1669203811,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 470297,
+        "num": 470297,
+        "word": "日本 越位",
+        "onboard_time": 1669209873,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 495142,
+        "num": 469574,
+        "word": "四位中国公民在美遇害",
+        "onboard_time": 1669209033,
+        "rank": 10,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 465103,
+        "num": 465103,
+        "word": "10岁女孩买馕饼误付3万元",
+        "onboard_time": 1669200994,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 444079,
+        "num": 444079,
+        "word": "住家保姆发烧死亡家属索赔158万被驳回",
+        "onboard_time": 1669192117,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 379776,
+        "num": 379776,
+        "word": "杨蒙恩的大白",
+        "onboard_time": 1669207296,
+        "rank": 13,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 373326,
+        "num": 373326,
+        "word": "男子性骚扰女同事被开除索赔21万",
+        "onboard_time": 1669204655,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368941,
+        "num": 368941,
+        "word": "德国vs日本",
+        "onboard_time": 1669171891,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 348269,
+        "num": 348269,
+        "word": "汤唯IU同框",
+        "onboard_time": 1669197812,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 346483,
+        "num": 346483,
+        "word": "赵芳如被二少主下药",
+        "onboard_time": 1669206574,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 291736,
+        "num": 291736,
+        "word": "长期运动可以改变形象吗",
+        "onboard_time": 1669198833,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 286586,
+        "num": 286586,
+        "word": "摩洛哥0比0战平克罗地亚",
+        "onboard_time": 1669205319,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 725436,
+        "num": 286319,
+        "word": "张兰不是麻六记股东",
+        "onboard_time": 1669203575,
+        "rank": 20,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 294539,
+        "num": 277618,
+        "word": "综艺算艺人作品吗",
+        "onboard_time": 1669206396,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253677,
+        "num": 253677,
+        "word": "素媛案罪犯新家靠近小学引担忧",
+        "onboard_time": 1669196074,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241623,
+        "num": 241623,
+        "word": "顾客将高跟鞋穿黑后寄回退货",
+        "onboard_time": 1669208134,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227323,
+        "num": 227323,
+        "word": "尹峥李薇不舍分别",
+        "onboard_time": 1669208254,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 225818,
+        "num": 225818,
+        "word": "魔笛",
+        "onboard_time": 1669205319,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 214328,
+        "num": 214328,
+        "word": "卿卿日常",
+        "onboard_time": 1669204174,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204839,
+        "num": 204839,
+        "word": "大学生需要的课又多了一门",
+        "onboard_time": 1669205137,
+        "rank": 27,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 202687,
+        "num": 202687,
+        "word": "连花清瘟断货后出现涨价",
+        "onboard_time": 1669209391,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199262,
+        "num": 199262,
+        "word": "北京新增本土感染者913例",
+        "onboard_time": 1669196793,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204539,
+        "num": 199089,
+        "word": "陈乔恩的一生都在被湖南台记录",
+        "onboard_time": 1669191156,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198115,
+        "num": 198115,
+        "word": "退役缉毒犬悄悄离家躲进山中",
+        "onboard_time": 1669200453,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194560,
+        "num": 194560,
+        "word": "ruler",
+        "onboard_time": 1669210234,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 190607,
+        "num": 190607,
+        "word": "秦施阳华办婚礼",
+        "onboard_time": 1669201831,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 189844,
+        "num": 189844,
+        "word": "重庆国考",
+        "onboard_time": 1669198532,
+        "rank": 34,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 188388,
+        "num": 188388,
+        "word": "iPhone15明年全系采用USBC接口",
+        "onboard_time": 1669195236,
+        "rank": 35,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 176929,
+        "num": 176929,
+        "word": "爱的二八定律进阶小时代",
+        "onboard_time": 1669208315,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 169161,
+        "num": 169161,
+        "word": "李峋对朱韵说老子谁也不怕",
+        "onboard_time": 1669202496,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 158521,
+        "num": 158521,
+        "word": "中国空间站对所有联合国会员国开放",
+        "onboard_time": 1669207296,
+        "rank": 38,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 148258,
+        "num": 148258,
+        "word": "DK官宣新赛季大名单",
+        "onboard_time": 1669202432,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 152809,
+        "num": 147967,
+        "word": "李峋再次被高见鸿陷害",
+        "onboard_time": 1669203030,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 145401,
+        "num": 145401,
+        "word": "官方回应政务人员扇办事市民耳光",
+        "onboard_time": 1669201594,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132874,
+        "num": 132874,
+        "word": "为什么90后还在单身",
+        "onboard_time": 1669192415,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 129102,
+        "num": 129102,
+        "word": "广东人看球能多有仪式感",
+        "onboard_time": 1669206635,
+        "rank": 43,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 127549,
+        "num": 127549,
+        "word": "256斤男生半年狂甩100斤颜值大变",
+        "onboard_time": 1669199796,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120308,
+        "num": 120308,
+        "word": "4岁男孩捡5角钱交给警察叔叔",
+        "onboard_time": 1669207118,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114254,
+        "num": 114254,
+        "word": "管泽元解说世界杯",
+        "onboard_time": 1669210298,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 282505,
+        "num": 113848,
+        "word": "穆勒",
+        "onboard_time": 1669210355,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112166,
+        "num": 112166,
+        "word": "张大仙守家五杀",
+        "onboard_time": 1669203994,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 119085,
+        "num": 110241,
+        "word": "白敬亭六少主肖像簿第十一册",
+        "onboard_time": 1669209698,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#仰望星空脚踏实地是中国航天的密码#"
+    }
+  }
+}
