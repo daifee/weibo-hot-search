@@ -1,6 +1,6 @@
 {
   "startTime": 1668961718135,
-  "endTime": 1669169584033,
+  "endTime": 1669172697203,
   "band_list": [
     {
       "raw_hot": 13131209,
@@ -587,6 +587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1062946,
+      "num": 1062946,
+      "word": "阿凡达",
+      "onboard_time": 1669169854,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1050384,
       "num": 1050384,
       "word": "岳云鹏也去卡塔尔看开幕式了吗",
@@ -729,6 +737,22 @@
       "onboard_time": 1669077034,
       "rank": 4,
       "category": "国外要闻,艺人"
+    },
+    {
+      "raw_hot": 914492,
+      "num": 914492,
+      "word": "3岁女儿0度天要穿裙子妈妈放行",
+      "onboard_time": 1669168295,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 910866,
+      "num": 910866,
+      "word": "张远神预言沙特爆冷",
+      "onboard_time": 1669171292,
+      "rank": 6,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 906461,
@@ -1099,6 +1123,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 674261,
+      "num": 674261,
+      "word": "梅西说打击非常大",
+      "onboard_time": 1669166557,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 673426,
       "num": 673426,
       "word": "节气姑娘酒楼没了",
@@ -1323,14 +1355,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 586476,
-      "num": 586476,
-      "word": "梅西说打击非常大",
-      "onboard_time": 1669166557,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 580854,
       "num": 580854,
       "word": "开幕式日本球迷",
@@ -1353,6 +1377,14 @@
       "onboard_time": 1668958416,
       "rank": 12,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 574148,
+      "num": 510345,
+      "word": "点燃我温暖你今天更新一集又断更了",
+      "onboard_time": 1669169971,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 573174,
@@ -1491,6 +1523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 542048,
+      "num": 500101,
+      "word": "阿凡达2内地定档12月16日",
+      "onboard_time": 1669169912,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 541227,
       "num": 541227,
       "word": "做头发比整容还贵",
@@ -1521,6 +1561,14 @@
       "onboard_time": 1669060573,
       "rank": 17,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 536480,
+      "num": 536480,
+      "word": "女子婉拒HR后被斥做你的微商去",
+      "onboard_time": 1669168050,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 525922,
@@ -1739,6 +1787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 485928,
+      "num": 485928,
+      "word": "农民日报评农民毁菜事件",
+      "onboard_time": 1669170870,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 482082,
       "num": 482082,
       "word": "广州新增本土感染者8181例",
@@ -1915,6 +1971,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 447656,
+      "num": 447656,
+      "word": "惠普宣布裁员6000人",
+      "onboard_time": 1669169313,
+      "rank": 45,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 447340,
       "num": 447340,
       "word": "iPhone14Pro发货延期至2023年",
@@ -2083,14 +2147,6 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 419759,
-      "num": 419759,
-      "word": "3岁女儿0度天要穿裙子妈妈放行",
-      "onboard_time": 1669168295,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 419739,
       "num": 419739,
       "word": "梦华录首播收视",
@@ -2225,6 +2281,14 @@
       "onboard_time": 1669123240,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 405712,
+      "num": 405712,
+      "word": "前苹果高管称iPad正走下坡路",
+      "onboard_time": 1669168773,
+      "rank": 29,
+      "category": "科技"
     },
     {
       "raw_hot": 405636,
@@ -2555,6 +2619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 361560,
+      "num": 361560,
+      "word": "徐璐新剧婚礼现场扇出轨渣男巴掌",
+      "onboard_time": 1669171713,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 360984,
       "num": 360984,
       "word": "郑恺苗苗首个合体综艺",
@@ -2577,6 +2649,14 @@
       "onboard_time": 1669110452,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 357966,
+      "num": 249325,
+      "word": "赵丽颖许半夏时装秀",
+      "onboard_time": 1669172551,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 357819,
@@ -2843,6 +2923,14 @@
       "category": "体育,情感"
     },
     {
+      "raw_hot": 332609,
+      "num": 290185,
+      "word": "风吹半夏定档11月27日",
+      "onboard_time": 1669170633,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 331135,
       "num": 331135,
       "word": "尹峥给李薇带了绿豆糕",
@@ -2937,6 +3025,14 @@
       "onboard_time": 1669028381,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 320657,
+      "num": 289000,
+      "word": "朴敏英活动状态",
+      "onboard_time": 1669168713,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 318890,
@@ -3137,14 +3233,6 @@
       "onboard_time": 1669015955,
       "rank": 44,
       "category": "科技"
-    },
-    {
-      "raw_hot": 298831,
-      "num": 298831,
-      "word": "女子婉拒HR后被斥做你的微商去",
-      "onboard_time": 1669168050,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 296726,
@@ -3352,6 +3440,14 @@
       "word": "奥地利2比0意大利",
       "onboard_time": 1669003711,
       "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 274078,
+      "num": 274078,
+      "word": "德国vs日本",
+      "onboard_time": 1669171891,
+      "rank": 24,
       "category": "体育"
     },
     {
@@ -3683,6 +3779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 245199,
+      "num": 232657,
+      "word": "白鹿小香风造型上班路透",
+      "onboard_time": 1669172189,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 244209,
       "num": 244209,
       "word": "肉摊主见女子困难慷慨赠8斤肉和油",
@@ -3819,19 +3923,19 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 231134,
-      "num": 231134,
-      "word": "前苹果高管称iPad正走下坡路",
-      "onboard_time": 1669168773,
-      "rank": 29,
-      "category": "科技"
-    },
-    {
       "raw_hot": 230776,
       "num": 230776,
       "word": "点球",
       "onboard_time": 1669112970,
       "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 228623,
+      "num": 228623,
+      "word": "饺子皮",
+      "onboard_time": 1669172132,
+      "rank": 31,
       "category": "体育"
     },
     {
@@ -4049,6 +4153,14 @@
       "onboard_time": 1669108773,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 216125,
+      "num": 216125,
+      "word": "张真源视频信庆出道三周年",
+      "onboard_time": 1669171533,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 215403,
@@ -4387,6 +4499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 192793,
+      "num": 192793,
+      "word": "女心理师开播一周年",
+      "onboard_time": 1669171352,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 192748,
       "num": 192748,
       "word": "马嘉祺哪怕嗓子哑掉了也要继续唱",
@@ -4587,14 +4707,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 180825,
-      "num": 180825,
-      "word": "朴敏英活动状态",
-      "onboard_time": 1669168713,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 180456,
       "num": 180456,
       "word": "女子遇诈骗反赚骗子1千多",
@@ -4721,6 +4833,14 @@
       "onboard_time": 1668943949,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 174940,
+      "num": 174940,
+      "word": "高二男生十几秒救下坠楼幼童",
+      "onboard_time": 1669171172,
+      "rank": 38,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 174761,
@@ -4939,14 +5059,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 160746,
-      "num": 160746,
-      "word": "惠普宣布裁员6000人",
-      "onboard_time": 1669169313,
-      "rank": 45,
-      "category": "科技,财经"
-    },
-    {
       "raw_hot": 160474,
       "num": 160474,
       "word": "法国vs澳大利亚首发",
@@ -5025,6 +5137,14 @@
       "onboard_time": 1669010731,
       "rank": 48,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 155648,
+      "num": 155648,
+      "word": "你见过沙漠上的雪吗",
+      "onboard_time": 1669169614,
+      "rank": 41,
+      "category": "旅游"
     },
     {
       "raw_hot": 154156,
@@ -5497,6 +5617,14 @@
       "onboard_time": 1669039606,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 132570,
+      "num": 132570,
+      "word": "成都海豹神预测世界杯",
+      "onboard_time": 1669171953,
+      "rank": 48,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 131916,
