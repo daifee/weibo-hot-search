@@ -1,6 +1,6 @@
 {
   "startTime": 1668961718135,
-  "endTime": 1669211073313,
+  "endTime": 1669213109480,
   "band_list": [
     {
       "raw_hot": 13131209,
@@ -107,6 +107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2854060,
+      "num": 2854060,
+      "word": "日本 越位",
+      "onboard_time": 1669209873,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2842712,
       "num": 2842712,
       "word": "刘强东发布京东全员信",
@@ -203,6 +211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2068560,
+      "num": 2068560,
+      "word": "四位中国公民在美遇害",
+      "onboard_time": 1669209033,
+      "rank": 10,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 2045134,
       "num": 515477,
       "word": "刘强东称对不起京东2000多名高管",
@@ -233,14 +249,6 @@
       "onboard_time": 1668996210,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1881905,
-      "num": 1881905,
-      "word": "日本 越位",
-      "onboard_time": 1669209873,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 1857954,
@@ -499,6 +507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1315705,
+      "num": 1315705,
+      "word": "沙特后卫对梅西放狠话",
+      "onboard_time": 1669207535,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1314361,
       "num": 1314361,
       "word": "scout",
@@ -521,6 +537,14 @@
       "onboard_time": 1668991533,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1263599,
+      "num": 1263599,
+      "word": "德国进球",
+      "onboard_time": 1669210777,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 1257708,
@@ -819,14 +843,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 993777,
-      "num": 993777,
-      "word": "沙特后卫对梅西放狠话",
-      "onboard_time": 1669207535,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 986710,
       "num": 986710,
       "word": "卡塔尔和迪拜哪个更富",
@@ -915,6 +931,22 @@
       "category": "国外要闻,艺人"
     },
     {
+      "raw_hot": 933680,
+      "num": 933680,
+      "word": "德国1比0日本",
+      "onboard_time": 1669211076,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 925842,
+      "num": 925842,
+      "word": "郑州将进行5天流动性管理",
+      "onboard_time": 1669212461,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 914492,
       "num": 914492,
       "word": "3岁女儿0度天要穿裙子妈妈放行",
@@ -931,20 +963,28 @@
       "category": "影视"
     },
     {
-      "raw_hot": 905088,
-      "num": 547041,
-      "word": "四位中国公民在美遇害",
-      "onboard_time": 1669209033,
-      "rank": 10,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 904253,
       "num": 904253,
       "word": "鹿晗因为曼联支持英格兰",
       "onboard_time": 1669044283,
       "rank": 8,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 904115,
+      "num": 904115,
+      "word": "连花清瘟断货后出现涨价",
+      "onboard_time": 1669209391,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 904042,
+      "num": 904042,
+      "word": "日本门将",
+      "onboard_time": 1669211558,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 902213,
@@ -1305,6 +1345,14 @@
       "onboard_time": 1669017152,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 706515,
+      "num": 706515,
+      "word": "德国男模队 帅",
+      "onboard_time": 1669211618,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 706022,
@@ -1699,6 +1747,14 @@
       "category": "动漫,影视"
     },
     {
+      "raw_hot": 596398,
+      "num": 262794,
+      "word": "外交部回应韩剧在中国播放",
+      "onboard_time": 1669211745,
+      "rank": 30,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 594252,
       "num": 594252,
       "word": "梅西的球迷有多幸福",
@@ -2081,6 +2137,14 @@
       "onboard_time": 1669123421,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 518966,
+      "num": 518966,
+      "word": "李薇脸上的掌印",
+      "onboard_time": 1669210656,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 517808,
@@ -2475,6 +2539,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 456263,
+      "num": 456263,
+      "word": "ruler",
+      "onboard_time": 1669210234,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 453292,
       "num": 404455,
       "word": "刘强东曾称克扣五险一金是可耻的",
@@ -2747,14 +2819,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 424085,
-      "num": 424085,
-      "word": "德国进球",
-      "onboard_time": 1669210777,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 422469,
       "num": 422469,
       "word": "刘强东十几年捐了60%的收入",
@@ -3008,6 +3072,14 @@
       "word": "C罗",
       "onboard_time": 1668954934,
       "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 395373,
+      "num": 395373,
+      "word": "穆勒",
+      "onboard_time": 1669210355,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -3411,6 +3483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 356385,
+      "num": 356385,
+      "word": "顾客将高跟鞋穿黑后寄回退货",
+      "onboard_time": 1669208134,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 356309,
       "num": 313473,
       "word": "暴雪CEO回应续约事件",
@@ -3440,14 +3520,6 @@
       "word": "世界杯历史上东道主首战从未输球",
       "onboard_time": 1668970395,
       "rank": 33,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 352753,
-      "num": 352753,
-      "word": "穆勒",
-      "onboard_time": 1669210355,
-      "rank": 47,
       "category": "体育"
     },
     {
@@ -3827,14 +3899,6 @@
       "category": "综艺,时尚"
     },
     {
-      "raw_hot": 327297,
-      "num": 327297,
-      "word": "连花清瘟断货后出现涨价",
-      "onboard_time": 1669209391,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 325038,
       "num": 325038,
       "word": "令人心动的offer4建筑师季实习生官宣",
@@ -3913,14 +3977,6 @@
       "onboard_time": 1669168713,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 319379,
-      "num": 319379,
-      "word": "ruler",
-      "onboard_time": 1669210234,
-      "rank": 32,
-      "category": "游戏"
     },
     {
       "raw_hot": 318890,
@@ -4443,14 +4499,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 277609,
-      "num": 277609,
-      "word": "顾客将高跟鞋穿黑后寄回退货",
-      "onboard_time": 1669208134,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 277252,
       "num": 277252,
       "word": "尹峥李薇吵不过1天就和好",
@@ -4587,6 +4635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 264692,
+      "num": 264692,
+      "word": "女子花20万带爸爸看世界杯轮流睡着",
+      "onboard_time": 1669212278,
+      "rank": 29,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 264253,
       "num": 1033514,
       "word": "世界杯中国小护旗手",
@@ -4716,7 +4772,7 @@
     },
     {
       "raw_hot": 257488,
-      "num": 1128839,
+      "num": 1445035,
       "word": "世界杯随处可见中国元素",
       "onboard_time": 1669205557,
       "rank": 2,
@@ -4849,6 +4905,14 @@
       "onboard_time": 1669032403,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 248041,
+      "num": 248041,
+      "word": "哈弗茨好帅",
+      "onboard_time": 1669212698,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 247767,
@@ -5067,6 +5131,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 229231,
+      "num": 229231,
+      "word": "命韵峋环结婚证件照",
+      "onboard_time": 1669212821,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 229021,
       "num": 229021,
       "word": "这是一种很新的评测",
@@ -5163,6 +5235,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 223041,
+      "num": 223041,
+      "word": "京多安点射破门",
+      "onboard_time": 1669212104,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 222016,
+      "num": 222016,
+      "word": "中国空间站对所有联合国会员国开放",
+      "onboard_time": 1669207296,
+      "rank": 48,
+      "category": "科技"
+    },
+    {
       "raw_hot": 221782,
       "num": 221782,
       "word": "高见鸿故意激怒李峋",
@@ -5209,6 +5297,14 @@
       "onboard_time": 1669077157,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 218788,
+      "num": 218788,
+      "word": "风吹半夏预约人数突破100万",
+      "onboard_time": 1669211866,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 218581,
@@ -5489,6 +5585,14 @@
       "onboard_time": 1669205137,
       "rank": 40,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 204672,
+      "num": 204672,
+      "word": "日本防守",
+      "onboard_time": 1669211678,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 204621,
@@ -5803,6 +5907,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 193744,
+      "num": 193744,
+      "word": "小腿想不瘦都难了",
+      "onboard_time": 1669212519,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 193578,
+      "num": 193578,
+      "word": "赵芳如全力护郝葭母女",
+      "onboard_time": 1669211558,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 193173,
       "num": 193173,
       "word": "罗渽民日本演唱会现场",
@@ -5819,6 +5939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 192965,
+      "num": 192965,
+      "word": "你分得清各种淀粉吗",
+      "onboard_time": 1669212939,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 192793,
       "num": 192793,
       "word": "女心理师开播一周年",
@@ -5833,6 +5961,14 @@
       "onboard_time": 1669110337,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 192253,
+      "num": 192253,
+      "word": "爱的二八定律进阶小时代",
+      "onboard_time": 1669208315,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 191557,
@@ -5859,6 +5995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190726,
+      "num": 190726,
+      "word": "风吹半夏钢三角打闹花絮",
+      "onboard_time": 1669212876,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 190420,
       "num": 190420,
       "word": "广西一高校请全校师生吃螺狮粉",
@@ -5873,14 +6017,6 @@
       "onboard_time": 1669121509,
       "rank": 49,
       "category": "科技"
-    },
-    {
-      "raw_hot": 190246,
-      "num": 190246,
-      "word": "爱的二八定律进阶小时代",
-      "onboard_time": 1669208315,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 189896,
@@ -6017,6 +6153,14 @@
       "onboard_time": 1668961529,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 183437,
+      "num": 183437,
+      "word": "日本首发",
+      "onboard_time": 1669211017,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 183056,
@@ -6235,14 +6379,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 174510,
-      "num": 174510,
-      "word": "李薇脸上的掌印",
-      "onboard_time": 1669210656,
-      "rank": 38,
-      "category": "影视"
-    },
-    {
       "raw_hot": 174398,
       "num": 174398,
       "word": "卡塔尔世界杯开幕式现场有多燃",
@@ -6329,14 +6465,6 @@
       "onboard_time": 1669193918,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 170259,
-      "num": 140862,
-      "word": "日本首发",
-      "onboard_time": 1669211017,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 169965,
@@ -6513,14 +6641,6 @@
       "onboard_time": 1669141576,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 160259,
-      "num": 160259,
-      "word": "中国空间站对所有联合国会员国开放",
-      "onboard_time": 1669207296,
-      "rank": 48,
-      "category": "科技"
     },
     {
       "raw_hot": 160108,
@@ -8393,6 +8513,14 @@
       "onboard_time": 1669141817,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 30590,
+      "num": 563691,
+      "word": "刘语熙揭秘卡塔尔物价",
+      "onboard_time": 1669212761,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 28122,

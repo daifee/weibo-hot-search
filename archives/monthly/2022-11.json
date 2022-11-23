@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1669211073313,
+  "endTime": 1669213109480,
   "band_list": [
     {
       "raw_hot": 13131209,
@@ -416,6 +416,14 @@
       "word": "阿根廷输球一小时后无人走出更衣室",
       "onboard_time": 1669125947,
       "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2854060,
+      "num": 2854060,
+      "word": "日本 越位",
+      "onboard_time": 1669209873,
+      "rank": 9,
       "category": "体育"
     },
     {
@@ -963,6 +971,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 2068560,
+      "num": 2068560,
+      "word": "四位中国公民在美遇害",
+      "onboard_time": 1669209033,
+      "rank": 10,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 2064925,
       "num": 2064925,
       "word": "次密接的阳性感染率",
@@ -1209,14 +1225,6 @@
       "onboard_time": 1667578766,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1881905,
-      "num": 1881905,
-      "word": "日本 越位",
-      "onboard_time": 1669209873,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 1880614,
@@ -2739,6 +2747,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1315705,
+      "num": 1315705,
+      "word": "沙特后卫对梅西放狠话",
+      "onboard_time": 1669207535,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1314829,
       "num": 1314829,
       "word": "疾控局通报群众反映较多的问题",
@@ -2929,6 +2945,14 @@
       "onboard_time": 1668991533,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1263599,
+      "num": 1263599,
+      "word": "德国进球",
+      "onboard_time": 1669210777,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 1257708,
@@ -4483,14 +4507,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 993777,
-      "num": 993777,
-      "word": "沙特后卫对梅西放狠话",
-      "onboard_time": 1669207535,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 993081,
       "num": 993081,
       "word": "石家庄新增本土感染544例",
@@ -4931,6 +4947,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 933680,
+      "num": 933680,
+      "word": "德国1比0日本",
+      "onboard_time": 1669211076,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 932483,
       "num": 932483,
       "word": "李宇春以强直患者视角写的歌",
@@ -4968,6 +4992,14 @@
       "word": "阿姨吐槽不理解00后消费观",
       "onboard_time": 1667656406,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 925842,
+      "num": 925842,
+      "word": "郑州将进行5天流动性管理",
+      "onboard_time": 1669212461,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -5179,20 +5211,28 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 905088,
-      "num": 547041,
-      "word": "四位中国公民在美遇害",
-      "onboard_time": 1669209033,
-      "rank": 10,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 904253,
       "num": 904253,
       "word": "鹿晗因为曼联支持英格兰",
       "onboard_time": 1669044283,
       "rank": 8,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 904115,
+      "num": 904115,
+      "word": "连花清瘟断货后出现涨价",
+      "onboard_time": 1669209391,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 904042,
+      "num": 904042,
+      "word": "日本门将",
+      "onboard_time": 1669211558,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 903776,
@@ -7411,6 +7451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 706515,
+      "num": 706515,
+      "word": "德国男模队 帅",
+      "onboard_time": 1669211618,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 706364,
       "num": 706364,
       "word": "郑州在重点文物单位建方舱被叫停",
@@ -9497,6 +9545,14 @@
       "onboard_time": 1668134546,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 596398,
+      "num": 262794,
+      "word": "外交部回应韩剧在中国播放",
+      "onboard_time": 1669211745,
+      "rank": 30,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 596346,
@@ -11640,6 +11696,14 @@
       "word": "秦施阳华无证离婚",
       "onboard_time": 1668432870,
       "rank": 24,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 518966,
+      "num": 518966,
+      "word": "李薇脸上的掌印",
+      "onboard_time": 1669210656,
+      "rank": 38,
       "category": "影视"
     },
     {
@@ -15299,14 +15363,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 424085,
-      "num": 424085,
-      "word": "德国进球",
-      "onboard_time": 1669210777,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 424081,
       "num": 424081,
       "word": "王楚钦2比3徐瑛彬",
@@ -16649,6 +16705,14 @@
       "onboard_time": 1668384989,
       "rank": 16,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 395373,
+      "num": 395373,
+      "word": "穆勒",
+      "onboard_time": 1669210355,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 395221,
@@ -18507,6 +18571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 356385,
+      "num": 356385,
+      "word": "顾客将高跟鞋穿黑后寄回退货",
+      "onboard_time": 1669208134,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 356332,
       "num": 356332,
       "word": "朔尔茨访华随行CEO名单凸显合作",
@@ -18721,14 +18793,6 @@
       "onboard_time": 1667357724,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 352753,
-      "num": 352753,
-      "word": "穆勒",
-      "onboard_time": 1669210355,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 352690,
@@ -20409,14 +20473,6 @@
       "onboard_time": 1668517349,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 327297,
-      "num": 327297,
-      "word": "连花清瘟断货后出现涨价",
-      "onboard_time": 1669209391,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 327255,
@@ -23851,14 +23907,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 277609,
-      "num": 277609,
-      "word": "顾客将高跟鞋穿黑后寄回退货",
-      "onboard_time": 1669208134,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 277341,
       "num": 277341,
       "word": "女子抽中万元奖品开心到当街跳舞",
@@ -24803,6 +24851,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 264692,
+      "num": 264692,
+      "word": "女子花20万带爸爸看世界杯轮流睡着",
+      "onboard_time": 1669212278,
+      "rank": 29,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 264573,
       "num": 264573,
       "word": "周深邓紫棋张栋梁时光音乐会2路透",
@@ -25380,7 +25436,7 @@
     },
     {
       "raw_hot": 257488,
-      "num": 1128839,
+      "num": 1445035,
       "word": "世界杯随处可见中国元素",
       "onboard_time": 1669205557,
       "rank": 2,
@@ -26049,6 +26105,14 @@
       "onboard_time": 1667827529,
       "rank": 16,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 248041,
+      "num": 248041,
+      "word": "哈弗茨好帅",
+      "onboard_time": 1669212698,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 247831,
@@ -27571,6 +27635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 229231,
+      "num": 229231,
+      "word": "命韵峋环结婚证件照",
+      "onboard_time": 1669212821,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 229155,
       "num": 229155,
       "word": "篮网vs湖人",
@@ -28275,6 +28347,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 223041,
+      "num": 223041,
+      "word": "京多安点射破门",
+      "onboard_time": 1669212104,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 222951,
       "num": 222951,
       "word": "两只猫咪爬墙头悬空打架",
@@ -28353,6 +28433,14 @@
       "onboard_time": 1667872586,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 222016,
+      "num": 222016,
+      "word": "中国空间站对所有联合国会员国开放",
+      "onboard_time": 1669207296,
+      "rank": 48,
+      "category": "科技"
     },
     {
       "raw_hot": 221800,
@@ -28641,6 +28729,14 @@
       "onboard_time": 1667292925,
       "rank": 26,
       "category": "财经,科技"
+    },
+    {
+      "raw_hot": 218788,
+      "num": 218788,
+      "word": "风吹半夏预约人数突破100万",
+      "onboard_time": 1669211866,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 218746,
@@ -30147,6 +30243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 204672,
+      "num": 204672,
+      "word": "日本防守",
+      "onboard_time": 1669211678,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 204581,
       "num": 204581,
       "word": "中国女排首夺世界冠军41周年",
@@ -31531,6 +31635,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 193744,
+      "num": 193744,
+      "word": "小腿想不瘦都难了",
+      "onboard_time": 1669212519,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 193578,
+      "num": 193578,
+      "word": "赵芳如全力护郝葭母女",
+      "onboard_time": 1669211558,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 193549,
       "num": 163030,
       "word": "GMA获奖名单",
@@ -31595,6 +31715,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 192965,
+      "num": 192965,
+      "word": "你分得清各种淀粉吗",
+      "onboard_time": 1669212939,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 192872,
       "num": 165865,
       "word": "查询火军精神状态",
@@ -31649,6 +31777,14 @@
       "onboard_time": 1668761549,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 192253,
+      "num": 192253,
+      "word": "爱的二八定律进阶小时代",
+      "onboard_time": 1669208315,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 192245,
@@ -31851,6 +31987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190726,
+      "num": 190726,
+      "word": "风吹半夏钢三角打闹花絮",
+      "onboard_time": 1669212876,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 190723,
       "num": 190723,
       "word": "求求你陪狗玩一会吧",
@@ -31928,14 +32072,6 @@
       "word": "命韵峋环战歌是曾可妮唱的",
       "onboard_time": 1668766885,
       "rank": 40,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 190246,
-      "num": 190246,
-      "word": "爱的二八定律进阶小时代",
-      "onboard_time": 1669208315,
-      "rank": 41,
       "category": "影视"
     },
     {
@@ -32745,6 +32881,14 @@
       "onboard_time": 1668069326,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 183437,
+      "num": 183437,
+      "word": "日本首发",
+      "onboard_time": 1669211017,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 183436,
@@ -33899,14 +34043,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 174510,
-      "num": 174510,
-      "word": "李薇脸上的掌印",
-      "onboard_time": 1669210656,
-      "rank": 38,
-      "category": "影视"
-    },
-    {
       "raw_hot": 174483,
       "num": 164798,
       "word": "LESSERAFIM新歌音银初舞台视频",
@@ -34377,14 +34513,6 @@
       "onboard_time": 1668830968,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 170259,
-      "num": 140862,
-      "word": "日本首发",
-      "onboard_time": 1669211017,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 170232,
@@ -35705,14 +35833,6 @@
       "onboard_time": 1667826626,
       "rank": 48,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 160259,
-      "num": 160259,
-      "word": "中国空间站对所有联合国会员国开放",
-      "onboard_time": 1669207296,
-      "rank": 48,
-      "category": "科技"
     },
     {
       "raw_hot": 160187,
@@ -50025,6 +50145,14 @@
       "onboard_time": 1668189977,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 30590,
+      "num": 563691,
+      "word": "刘语熙揭秘卡塔尔物价",
+      "onboard_time": 1669212761,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 30130,

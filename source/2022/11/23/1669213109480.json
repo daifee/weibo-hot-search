@@ -1,0 +1,410 @@
+{
+  "runTime": 1669213109480,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2854060,
+        "num": 2854060,
+        "word": "日本 越位",
+        "onboard_time": 1669209873,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2068560,
+        "num": 2068560,
+        "word": "四位中国公民在美遇害",
+        "onboard_time": 1669209033,
+        "rank": 1,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 248383,
+        "num": 1445035,
+        "word": "世界杯随处可见中国元素",
+        "onboard_time": 1669205557,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1315705,
+        "num": 1315705,
+        "word": "沙特后卫对梅西放狠话",
+        "onboard_time": 1669207535,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1263599,
+        "num": 1263599,
+        "word": "德国进球",
+        "onboard_time": 1669210777,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1036743,
+        "num": 1036743,
+        "word": "陈小纭发长文祝福郝葭",
+        "onboard_time": 1669206335,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 933680,
+        "num": 933680,
+        "word": "德国1比0日本",
+        "onboard_time": 1669211076,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 925842,
+        "num": 925842,
+        "word": "郑州将进行5天流动性管理",
+        "onboard_time": 1669212461,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 904115,
+        "num": 904115,
+        "word": "连花清瘟断货后出现涨价",
+        "onboard_time": 1669209391,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 904042,
+        "num": 904042,
+        "word": "日本门将",
+        "onboard_time": 1669211558,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 892441,
+        "num": 892441,
+        "word": "德国vs日本",
+        "onboard_time": 1669171891,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 706515,
+        "num": 706515,
+        "word": "德国男模队 帅",
+        "onboard_time": 1669211618,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 645808,
+        "num": 645808,
+        "word": "郝葭跳河",
+        "onboard_time": 1669204530,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 589341,
+        "num": 589341,
+        "word": "网友吐槽银行每月只上2天班",
+        "onboard_time": 1669204900,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30590,
+        "num": 563691,
+        "word": "刘语熙揭秘卡塔尔物价",
+        "onboard_time": 1669212761,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 563061,
+        "num": 563061,
+        "word": "终究还是内马尔承受了一切",
+        "onboard_time": 1669203334,
+        "rank": 15,
+        "category": "体育,幽默"
+      },
+      {
+        "raw_hot": 518966,
+        "num": 518966,
+        "word": "李薇脸上的掌印",
+        "onboard_time": 1669210656,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 498544,
+        "num": 498544,
+        "word": "济南疫情防控",
+        "onboard_time": 1669207352,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 456263,
+        "num": 456263,
+        "word": "ruler",
+        "onboard_time": 1669210234,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 442607,
+        "num": 442607,
+        "word": "陈飞宇提醒张婧仪写火军",
+        "onboard_time": 1669207416,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 422137,
+        "num": 422137,
+        "word": "赵芳如被二少主下药",
+        "onboard_time": 1669206574,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 395373,
+        "num": 395373,
+        "word": "穆勒",
+        "onboard_time": 1669210355,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 378935,
+        "num": 378935,
+        "word": "10岁女孩买馕饼误付3万元",
+        "onboard_time": 1669200994,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 374763,
+        "num": 374763,
+        "word": "杨蒙恩的大白",
+        "onboard_time": 1669207296,
+        "rank": 23,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 367201,
+        "num": 367201,
+        "word": "住家保姆发烧死亡家属索赔158万被驳回",
+        "onboard_time": 1669192117,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 356385,
+        "num": 356385,
+        "word": "顾客将高跟鞋穿黑后寄回退货",
+        "onboard_time": 1669208134,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313938,
+        "num": 313938,
+        "word": "男子就餐喝一斤半白酒后身亡",
+        "onboard_time": 1669203811,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283275,
+        "num": 283275,
+        "word": "综艺算艺人作品吗",
+        "onboard_time": 1669206396,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283131,
+        "num": 283131,
+        "word": "汤唯IU同框",
+        "onboard_time": 1669197812,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264692,
+        "num": 264692,
+        "word": "女子花20万带爸爸看世界杯轮流睡着",
+        "onboard_time": 1669212278,
+        "rank": 29,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 596398,
+        "num": 262794,
+        "word": "外交部回应韩剧在中国播放",
+        "onboard_time": 1669211745,
+        "rank": 30,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 259617,
+        "num": 259617,
+        "word": "越位",
+        "onboard_time": 1669212168,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 248041,
+        "num": 248041,
+        "word": "哈弗茨好帅",
+        "onboard_time": 1669212698,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 245488,
+        "num": 245488,
+        "word": "诺伊尔的控制范围",
+        "onboard_time": 1669210471,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 244961,
+        "num": 244961,
+        "word": "长期运动可以改变形象吗",
+        "onboard_time": 1669198833,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 229231,
+        "num": 229231,
+        "word": "命韵峋环结婚证件照",
+        "onboard_time": 1669212821,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 228645,
+        "num": 228645,
+        "word": "世界杯直播",
+        "onboard_time": 1669210900,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 223041,
+        "num": 223041,
+        "word": "京多安点射破门",
+        "onboard_time": 1669212104,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 222016,
+        "num": 222016,
+        "word": "中国空间站对所有联合国会员国开放",
+        "onboard_time": 1669207296,
+        "rank": 38,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 218788,
+        "num": 218788,
+        "word": "风吹半夏预约人数突破100万",
+        "onboard_time": 1669211866,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 206098,
+        "num": 206098,
+        "word": "男子性骚扰女同事被开除索赔21万",
+        "onboard_time": 1669204655,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204672,
+        "num": 204672,
+        "word": "日本防守",
+        "onboard_time": 1669211678,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196338,
+        "num": 196338,
+        "word": "陈乔恩的一生都在被湖南台记录",
+        "onboard_time": 1669191156,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193744,
+        "num": 193744,
+        "word": "小腿想不瘦都难了",
+        "onboard_time": 1669212519,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193578,
+        "num": 193578,
+        "word": "赵芳如全力护郝葭母女",
+        "onboard_time": 1669211558,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 193163,
+        "num": 193163,
+        "word": "素媛案罪犯新家靠近小学引担忧",
+        "onboard_time": 1669196074,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192965,
+        "num": 192965,
+        "word": "你分得清各种淀粉吗",
+        "onboard_time": 1669212939,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 192253,
+        "num": 192253,
+        "word": "爱的二八定律进阶小时代",
+        "onboard_time": 1669208315,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 190726,
+        "num": 190726,
+        "word": "风吹半夏钢三角打闹花絮",
+        "onboard_time": 1669212876,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 183437,
+        "num": 183437,
+        "word": "日本首发",
+        "onboard_time": 1669211017,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#在法治轨道上全面建设社会主义现代化国家#"
+    }
+  }
+}
