@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1669325614171,
+  "endTime": 1669328320118,
   "band_list": [
     {
       "raw_hot": 15128338,
@@ -15771,6 +15771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 438609,
+      "num": 438609,
+      "word": "巴西2比0塞尔维亚",
+      "onboard_time": 1669323674,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 438570,
       "num": 251738,
       "word": "香港首名侮辱国歌罪犯被判刑",
@@ -16721,14 +16729,6 @@
       "onboard_time": 1668149743,
       "rank": 7,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 419844,
-      "num": 419844,
-      "word": "巴西2比0塞尔维亚",
-      "onboard_time": 1669323674,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 419831,
@@ -53747,6 +53747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 32243,
+      "num": 32243,
+      "word": "熊孩子划伤多辆汽车奶奶说没钱赔",
+      "onboard_time": 1669327095,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32134,
       "num": 29772,
       "word": "苏有朋的第三部电影即将开机",
@@ -53883,6 +53891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 27525,
+      "num": 27525,
+      "word": "C罗好自律",
+      "onboard_time": 1669322172,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 27398,
       "num": 27398,
       "word": "奥乔亚扑点",
@@ -53953,14 +53969,6 @@
       "onboard_time": 1669323611,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 25508,
-      "num": 25508,
-      "word": "C罗好自律",
-      "onboard_time": 1669322172,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 24981,
