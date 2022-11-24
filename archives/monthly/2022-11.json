@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1669322085507,
+  "endTime": 1669324637835,
   "band_list": [
     {
       "raw_hot": 15128338,
@@ -7363,6 +7363,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 751449,
+      "num": 751449,
+      "word": "巴西vs塞尔维亚",
+      "onboard_time": 1669263032,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 751116,
       "num": 751116,
       "word": "摩洛哥0比0战平克罗地亚",
@@ -9795,14 +9803,6 @@
       "category": "游戏,艺人"
     },
     {
-      "raw_hot": 621426,
-      "num": 621426,
-      "word": "巴西vs塞尔维亚",
-      "onboard_time": 1669263032,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 621304,
       "num": 621304,
       "word": "刘亦菲去有风的地方",
@@ -10369,6 +10369,14 @@
       "onboard_time": 1668918747,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 594930,
+      "num": 594930,
+      "word": "里沙利松倒钩",
+      "onboard_time": 1669323674,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 594538,
@@ -16713,6 +16721,14 @@
       "onboard_time": 1668149743,
       "rank": 7,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 419844,
+      "num": 419844,
+      "word": "巴西2比0塞尔维亚",
+      "onboard_time": 1669323674,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 419831,
@@ -27507,6 +27523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 255488,
+      "num": 255488,
+      "word": "巴西半场0比0塞尔维亚",
+      "onboard_time": 1669320673,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 255339,
       "num": 255339,
       "word": "想减肥真的不能熬夜",
@@ -29833,6 +29857,14 @@
       "onboard_time": 1669199316,
       "rank": 22,
       "category": "幽默,社会新闻"
+    },
+    {
+      "raw_hot": 228927,
+      "num": 228927,
+      "word": "内马尔能进几球",
+      "onboard_time": 1669305394,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 228810,
@@ -37763,14 +37795,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 166177,
-      "num": 166177,
-      "word": "内马尔能进几球",
-      "onboard_time": 1669305394,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 166107,
       "num": 166107,
       "word": "LBL",
@@ -44233,14 +44257,6 @@
       "onboard_time": 1669026098,
       "rank": 43,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 126535,
-      "num": 32308,
-      "word": "巴西半场0比0塞尔维亚",
-      "onboard_time": 1669320673,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 126519,
@@ -53475,6 +53491,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 40029,
+      "num": 31447,
+      "word": "伊涅斯塔力挺梅西",
+      "onboard_time": 1669319715,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 39863,
       "num": 39863,
       "word": "糖尿病不能根治",
@@ -53851,14 +53875,6 @@
       "category": "游戏,影视"
     },
     {
-      "raw_hot": 27718,
-      "num": 26993,
-      "word": "伊涅斯塔力挺梅西",
-      "onboard_time": 1669319715,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 27573,
       "num": 373733,
       "word": "女子跪地10分钟施救晕倒老人",
@@ -53929,6 +53945,22 @@
       "onboard_time": 1669028438,
       "rank": 14,
       "category": "美食"
+    },
+    {
+      "raw_hot": 25742,
+      "num": 25742,
+      "word": "最美中轴线",
+      "onboard_time": 1669323611,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 25184,
+      "num": 25184,
+      "word": "C罗好自律",
+      "onboard_time": 1669322172,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 24981,

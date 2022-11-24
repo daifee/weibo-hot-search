@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/01 00:36:21 ~ 2022/11/25 04:34:45
+本榜单时间：2022/11/01 00:36:21 ~ 2022/11/25 05:17:17
 </p>
 </blockquote>
 <p>
@@ -5535,6 +5535,12 @@ Rookie发文恭喜DRX（热度：759563）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%A5%BFvs%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A%23" target="weibo">
+巴西vs塞尔维亚（热度：751449）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%91%A9%E6%B4%9B%E5%93%A50%E6%AF%940%E6%88%98%E5%B9%B3%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A%23" target="weibo">
 摩洛哥0比0战平克罗地亚（热度：751116）
 </a>
@@ -6005,12 +6011,6 @@ iPhone15仅Pro的C口支持高速传输（热度：732221）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B1%E7%9A%84%E4%BA%8C%E5%85%AB%E5%AE%9A%E5%BE%8B%E5%BC%80%E6%92%AD%E8%BF%BD%E5%89%A7%E6%97%A5%E5%8E%86%23" target="weibo">
 爱的二八定律开播追剧日历（热度：713623）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%B8%9F%E9%B8%9F%E8%84%B15%E5%B9%B4%E5%BA%A6%E7%AC%AC%E4%BA%8C%23" target="weibo">
-鸟鸟脱5年度第二（热度：713246）
 </a>
 </li>
 

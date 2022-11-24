@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/25 00:28:00 ~ 2022/11/25 04:34:45
+本榜单时间：2022/11/25 00:28:00 ~ 2022/11/25 05:17:17
 </p>
 </blockquote>
 <p>
@@ -105,6 +105,12 @@ C罗世界杯进球瞬间（热度：809896）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%A5%BFvs%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A%23" target="weibo">
+巴西vs塞尔维亚（热度：751449）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%96%E5%8F%ABC%E7%BD%97%E6%98%AF%E6%9C%89%E5%8E%9F%E5%9B%A0%E7%9A%84%23" target="weibo">
 他叫C罗是有原因的（热度：735756）
 </a>
@@ -141,6 +147,12 @@ C罗错失单刀（热度：596960）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%8C%E6%B2%99%E5%88%A9%E6%9D%BE%E5%80%92%E9%92%A9%23" target="weibo">
+里沙利松倒钩（热度：594930）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%91%A1%E8%90%84%E7%89%99%E9%97%A8%E5%B0%86%23" target="weibo">
 葡萄牙门将（热度：583532）
 </a>
@@ -149,12 +161,6 @@ C罗错失单刀（热度：596960）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%8C%E6%8B%89%E5%9C%AD%E6%95%99%E7%BB%83%E5%A5%BD%E5%B8%85%23" target="weibo">
 乌拉圭教练好帅（热度：580009）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%A5%BFvs%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A%23" target="weibo">
-巴西vs塞尔维亚（热度：557602）
 </a>
 </li>
 
@@ -191,6 +197,12 @@ C罗错失单刀（热度：596960）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%91%A1%E8%90%84%E7%89%99%E5%8D%8A%E5%9C%BA0%E6%AF%940%E5%8A%A0%E7%BA%B3%23" target="weibo">
 葡萄牙半场0比0加纳（热度：421939）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%A5%BF2%E6%AF%940%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A%23" target="weibo">
+巴西2比0塞尔维亚（热度：419844）
 </a>
 </li>
 
@@ -303,6 +315,12 @@ C罗连续十届大赛进球（热度：354805）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%A5%BF%E5%8D%8A%E5%9C%BA0%E6%AF%940%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A%23" target="weibo">
+巴西半场0比0塞尔维亚（热度：255488）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%8B%E5%8A%9B%E7%BB%99%E5%88%B0C%E7%BD%97%23" target="weibo">
 压力给到C罗（热度：255264）
 </a>
@@ -329,6 +347,12 @@ C罗连续十届大赛进球（热度：354805）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%A5%BFvs%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A%E9%A6%96%E5%8F%91%23" target="weibo">
 巴西vs塞尔维亚首发（热度：229190）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E9%A9%AC%E5%B0%94%E8%83%BD%E8%BF%9B%E5%87%A0%E7%90%83%23" target="weibo">
+内马尔能进几球（热度：228927）
 </a>
 </li>
 
@@ -411,12 +435,6 @@ C罗 直拍（热度：170754）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E9%A9%AC%E5%B0%94%E8%83%BD%E8%BF%9B%E5%87%A0%E7%90%83%23" target="weibo">
-内马尔能进几球（热度：166177）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E7%B4%AB%E5%87%BD%E8%AF%B4%E8%B5%B5%E8%8A%B3%E5%A6%82%E7%9F%BF%E5%A7%90%E5%8F%98%E6%8B%BD%E5%A7%90%23" target="weibo">
 陈紫函说赵芳如矿姐变拽姐（热度：165266）
 </a>
@@ -485,12 +503,6 @@ C罗37岁身材（热度：153898）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E6%8F%90%E5%90%8D%E5%B9%B4%E5%BA%A6%E8%8D%A3%E8%AA%89%E7%94%B7%E6%BC%94%E5%91%98%23" target="weibo">
 易烊千玺提名年度荣誉男演员（热度：130997）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%A5%BF%E5%8D%8A%E5%9C%BA0%E6%AF%940%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A%23" target="weibo">
-巴西半场0比0塞尔维亚（热度：126535）
 </a>
 </li>
 
@@ -574,7 +586,25 @@ C罗是葡萄牙赢球关键（热度：48653）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%B6%85%E6%96%AF%E5%A1%94%E5%8A%9B%E6%8C%BA%E6%A2%85%E8%A5%BF%23" target="weibo">
-伊涅斯塔力挺梅西（热度：27718）
+伊涅斯塔力挺梅西（热度：40029）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%9D%AF%23" target="weibo">
+世界杯（热度：31124）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%80%E7%BE%8E%E4%B8%AD%E8%BD%B4%E7%BA%BF%23" target="weibo">
+最美中轴线（热度：25742）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23C%E7%BD%97%E5%A5%BD%E8%87%AA%E5%BE%8B%23" target="weibo">
+C罗好自律（热度：25184）
 </a>
 </li>
 

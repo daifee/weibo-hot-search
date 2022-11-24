@@ -1,6 +1,6 @@
 {
   "startTime": 1669307280718,
-  "endTime": 1669322085507,
+  "endTime": 1669324637835,
   "band_list": [
     {
       "raw_hot": 5448624,
@@ -123,6 +123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 751449,
+      "num": 751449,
+      "word": "巴西vs塞尔维亚",
+      "onboard_time": 1669303303,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 735756,
       "num": 735756,
       "word": "他叫C罗是有原因的",
@@ -171,6 +179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 594930,
+      "num": 594930,
+      "word": "里沙利松倒钩",
+      "onboard_time": 1669323674,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 583532,
       "num": 583532,
       "word": "葡萄牙门将",
@@ -184,14 +200,6 @@
       "word": "乌拉圭教练好帅",
       "onboard_time": 1669297478,
       "rank": 7,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 557602,
-      "num": 557602,
-      "word": "巴西vs塞尔维亚",
-      "onboard_time": 1669303303,
-      "rank": 8,
       "category": "体育"
     },
     {
@@ -240,6 +248,14 @@
       "word": "葡萄牙半场0比0加纳",
       "onboard_time": 1669308932,
       "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 419844,
+      "num": 419844,
+      "word": "巴西2比0塞尔维亚",
+      "onboard_time": 1669323674,
+      "rank": 4,
       "category": "体育"
     },
     {
@@ -387,6 +403,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 255488,
+      "num": 255488,
+      "word": "巴西半场0比0塞尔维亚",
+      "onboard_time": 1669320673,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 255264,
       "num": 255264,
       "word": "压力给到C罗",
@@ -424,6 +448,14 @@
       "word": "巴西vs塞尔维亚首发",
       "onboard_time": 1669314499,
       "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 228927,
+      "num": 228927,
+      "word": "内马尔能进几球",
+      "onboard_time": 1669305394,
+      "rank": 46,
       "category": "体育"
     },
     {
@@ -531,14 +563,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 166177,
-      "num": 166177,
-      "word": "内马尔能进几球",
-      "onboard_time": 1669305394,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 165266,
       "num": 165266,
       "word": "陈紫函说赵芳如矿姐变拽姐",
@@ -633,14 +657,6 @@
       "onboard_time": 1669295433,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 126535,
-      "num": 32308,
-      "word": "巴西半场0比0塞尔维亚",
-      "onboard_time": 1669320673,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 123955,
@@ -747,11 +763,35 @@
       "category": "体育"
     },
     {
-      "raw_hot": 27718,
-      "num": 26993,
+      "raw_hot": 40029,
+      "num": 31447,
       "word": "伊涅斯塔力挺梅西",
       "onboard_time": 1669319715,
       "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 31124,
+      "num": 31124,
+      "word": "世界杯",
+      "onboard_time": 1669272872,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 25742,
+      "num": 25742,
+      "word": "最美中轴线",
+      "onboard_time": 1669323611,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 25184,
+      "num": 25184,
+      "word": "C罗好自律",
+      "onboard_time": 1669322172,
+      "rank": 41,
       "category": "体育"
     }
   ],
