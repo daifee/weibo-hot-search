@@ -1,6 +1,6 @@
 {
   "startTime": 1668961718135,
-  "endTime": 1669332082219,
+  "endTime": 1669332961463,
   "band_list": [
     {
       "raw_hot": 15128338,
@@ -99,19 +99,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 3955045,
+      "num": 4410091,
+      "word": "C罗创纪录",
+      "onboard_time": 1669311981,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 3943932,
       "num": 3943932,
       "word": "葡萄牙vs加纳",
       "onboard_time": 1669261774,
       "rank": 35,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 3690487,
-      "num": 3880974,
-      "word": "C罗创纪录",
-      "onboard_time": 1669311981,
-      "rank": 4,
       "category": "体育"
     },
     {
@@ -1019,6 +1019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1160487,
+      "num": 1160487,
+      "word": "内马尔受伤",
+      "onboard_time": 1669331904,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1154100,
       "num": 1154100,
       "word": "日本大叔说下次轮到中国赢德国",
@@ -1297,6 +1305,14 @@
       "onboard_time": 1669239852,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 966466,
+      "num": 966466,
+      "word": "来返沪不满5天可游玩迪士尼但不能室内就餐",
+      "onboard_time": 1669329797,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 965138,
@@ -2483,14 +2499,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 613160,
-      "num": 613160,
-      "word": "来返沪不满5天可游玩迪士尼但不能室内就餐",
-      "onboard_time": 1669329797,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 612763,
       "num": 612763,
       "word": "中国球迷世界杯现场痛哭",
@@ -3529,6 +3537,14 @@
       "onboard_time": 1669099592,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 471886,
+      "num": 471886,
+      "word": "内马尔被侵犯9次",
+      "onboard_time": 1669332027,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 469167,
@@ -4835,6 +4851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 360849,
+      "num": 360849,
+      "word": "白冰",
+      "onboard_time": 1669332326,
+      "rank": 13,
+      "category": "网红"
+    },
+    {
       "raw_hot": 360309,
       "num": 360309,
       "word": "盘点汪小菲麻六记商业版图",
@@ -5347,6 +5371,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 332279,
+      "num": 332279,
+      "word": "C罗37岁身材",
+      "onboard_time": 1669315096,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 332185,
       "num": 158268,
       "word": "陈飞宇喝水vs李峋喝水",
@@ -5801,14 +5833,6 @@
       "onboard_time": 1669162232,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 308819,
-      "num": 250263,
-      "word": "内马尔受伤",
-      "onboard_time": 1669331904,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 308414,
@@ -6395,6 +6419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 278955,
+      "num": 278955,
+      "word": "年轻人在健一种很新的身",
+      "onboard_time": 1669329136,
+      "rank": 48,
+      "category": "幽默,体育"
+    },
+    {
       "raw_hot": 278744,
       "num": 278744,
       "word": "时代少年团奔向30音乐分享会海报",
@@ -6811,6 +6843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 255753,
+      "num": 255753,
+      "word": "熊孩子划伤多辆汽车奶奶说没钱赔",
+      "onboard_time": 1669327095,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 255488,
       "num": 255488,
       "word": "巴西半场0比0塞尔维亚",
@@ -6987,6 +7027,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 248256,
+      "num": 248256,
+      "word": "武汉中心医院",
+      "onboard_time": 1669331603,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 247767,
       "num": 247767,
       "word": "太原疫情防控",
@@ -7041,14 +7089,6 @@
       "onboard_time": 1669129787,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 246702,
-      "num": 246702,
-      "word": "C罗37岁身材",
-      "onboard_time": 1669315096,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 246688,
@@ -7315,14 +7355,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 231118,
-      "num": 231118,
-      "word": "熊孩子划伤多辆汽车奶奶说没钱赔",
-      "onboard_time": 1669327095,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 231038,
       "num": 231038,
       "word": "日本赢球各国球迷祝贺中国小伙",
@@ -7529,14 +7561,6 @@
       "onboard_time": 1669021654,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 221449,
-      "num": 221449,
-      "word": "年轻人在健一种很新的身",
-      "onboard_time": 1669329136,
-      "rank": 48,
-      "category": "幽默,体育"
     },
     {
       "raw_hot": 220351,
@@ -8131,6 +8155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 202967,
+      "num": 202967,
+      "word": "杭州师大辟谣女生宿舍校园霸凌",
+      "onboard_time": 1669330945,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 202796,
       "num": 202796,
       "word": "女子搭同事电瓶车摔伤致残索赔23万",
@@ -8233,6 +8265,14 @@
       "onboard_time": 1669112672,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 199632,
+      "num": 137303,
+      "word": "男子中彩后女友携款与情夫私奔",
+      "onboard_time": 1669331844,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 199008,
@@ -8987,6 +9027,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 181736,
+      "num": 3309809,
+      "word": "这回夸父追到了太阳",
+      "onboard_time": 1669303779,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 181072,
       "num": 181072,
       "word": "梅西卡塔尔世界杯首球",
@@ -9137,6 +9185,14 @@
       "onboard_time": 1669003349,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 175633,
+      "num": 175633,
+      "word": "李现发博庆祝C罗进球",
+      "onboard_time": 1669332447,
+      "rank": 26,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 175356,
@@ -9305,6 +9361,14 @@
       "onboard_time": 1668967818,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 170974,
+      "num": 170974,
+      "word": "今冬以来最强寒潮",
+      "onboard_time": 1669331364,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 170838,
@@ -9779,6 +9843,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 155102,
+      "num": 155102,
+      "word": "C罗好自律",
+      "onboard_time": 1669322172,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 154547,
       "num": 154547,
       "word": "这是C罗最后一届世界杯了",
@@ -10217,14 +10289,6 @@
       "onboard_time": 1669188637,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 143502,
-      "num": 3309809,
-      "word": "这回夸父追到了太阳",
-      "onboard_time": 1669303779,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 143368,
@@ -10771,14 +10835,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 127241,
-      "num": 127241,
-      "word": "杭州师大辟谣女生宿舍校园霸凌",
-      "onboard_time": 1669330945,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 127210,
       "num": 127210,
       "word": "日本球迷街头狂欢庆祝",
@@ -10809,6 +10865,14 @@
       "onboard_time": 1669018535,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 126289,
+      "num": 126289,
+      "word": "武装台湾遏制中国大陆是痴人说梦",
+      "onboard_time": 1669331665,
+      "rank": 43,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 126261,
@@ -10867,12 +10931,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 124845,
+      "num": 124845,
+      "word": "BLACKPINK获得SSA歌手大赏",
+      "onboard_time": 1669331184,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 124841,
       "num": 124841,
       "word": "在卡塔尔看球还能看车展",
       "onboard_time": 1669108773,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 124626,
+      "num": 124626,
+      "word": "江苏九价HPV疫苗扩龄至9到45岁",
+      "onboard_time": 1669332148,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 124449,
@@ -10889,6 +10969,14 @@
       "onboard_time": 1669282409,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 124002,
+      "num": 124002,
+      "word": "陈飞宇周也电影倒数说爱你定档",
+      "onboard_time": 1669331665,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 123955,
@@ -10913,6 +11001,14 @@
       "onboard_time": 1669086993,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 122937,
+      "num": 122937,
+      "word": "孙兴慜出战或破韩国收视纪录",
+      "onboard_time": 1669331725,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 122910,
@@ -11040,6 +11136,14 @@
       "word": "单亲妈妈带3娃千里投奔网恋对象",
       "onboard_time": 1668945988,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 119500,
+      "num": 119500,
+      "word": "考古专家在山东发现4000多年前炊具",
+      "onboard_time": 1669330339,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -11371,6 +11475,14 @@
       "category": "体育,幽默"
     },
     {
+      "raw_hot": 109260,
+      "num": 109260,
+      "word": "巴黎世家因宣传照争议道歉",
+      "onboard_time": 1669313545,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 109172,
       "num": 109172,
       "word": "73岁退役军人跳江救轻生男子",
@@ -11699,14 +11811,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 95214,
-      "num": 95214,
-      "word": "巴黎世家因宣传照争议道歉",
-      "onboard_time": 1669313545,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 94813,
       "num": 94813,
       "word": "听八卦真的不分年龄",
@@ -11803,14 +11907,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 88072,
-      "num": 88072,
-      "word": "BLACKPINK获得SSA歌手大赏",
-      "onboard_time": 1669331184,
-      "rank": 31,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 87180,
       "num": 563691,
       "word": "刘语熙揭秘卡塔尔物价",
@@ -11867,14 +11963,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 82222,
-      "num": 82222,
-      "word": "考古专家在山东发现4000多年前炊具",
-      "onboard_time": 1669330339,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 81632,
       "num": 358258,
       "word": "荣耀80发布会",
@@ -11923,28 +12011,20 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 77389,
+      "num": 77389,
+      "word": "涉密接不集中隔离需交费是新型诈骗",
+      "onboard_time": 1669331545,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 75857,
       "num": 870939,
       "word": "我国深空探测将分哪几步",
       "onboard_time": 1669100131,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 75598,
-      "num": 75598,
-      "word": "陈飞宇周也电影倒数说爱你定档",
-      "onboard_time": 1669331665,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 75567,
-      "num": 75567,
-      "word": "今冬以来最强寒潮",
-      "onboard_time": 1669331364,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 75517,
@@ -11979,6 +12059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 72172,
+      "num": 72172,
+      "word": "内马尔哭着接受治疗",
+      "onboard_time": 1669332812,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 72037,
       "num": 72037,
       "word": "加维 帅",
@@ -12003,6 +12091,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 68726,
+      "num": 68726,
+      "word": "菲利克斯破门",
+      "onboard_time": 1669332690,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 68356,
       "num": 72704,
       "word": "瓦伦西亚梅开二度",
@@ -12017,14 +12113,6 @@
       "onboard_time": 1669310124,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 65730,
-      "num": 65730,
-      "word": "C罗好自律",
-      "onboard_time": 1669322172,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 64836,
@@ -12051,6 +12139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 60447,
+      "num": 60447,
+      "word": "日本队逆转后现场中国球迷哭了",
+      "onboard_time": 1669331485,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 60385,
       "num": 60385,
       "word": "让更多人才找到自己的舞台",
@@ -12067,28 +12163,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 57123,
-      "num": 39094,
-      "word": "内马尔被侵犯9次",
-      "onboard_time": 1669332027,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 56771,
       "num": 141268,
       "word": "深夜看球吃泡面有多爽",
       "onboard_time": 1669028438,
       "rank": 39,
       "category": "情感,体育"
-    },
-    {
-      "raw_hot": 56007,
-      "num": 56007,
-      "word": "武汉中心医院",
-      "onboard_time": 1669331603,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 55565,
@@ -12179,14 +12259,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 48661,
-      "num": 48661,
-      "word": "日本队逆转后现场中国球迷哭了",
-      "onboard_time": 1669331485,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 48653,
       "num": 48653,
       "word": "C罗是葡萄牙赢球关键",
@@ -12235,22 +12307,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 43563,
-      "num": 43563,
-      "word": "涉密接不集中隔离需交费是新型诈骗",
-      "onboard_time": 1669331545,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 43403,
-      "num": 43403,
-      "word": "武装台湾遏制中国大陆是痴人说梦",
-      "onboard_time": 1669331665,
-      "rank": 43,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 42799,
       "num": 42799,
       "word": "杨洋晒黑色墨镜自拍",
@@ -12281,14 +12337,6 @@
       "onboard_time": 1668986002,
       "rank": 48,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 40532,
-      "num": 40532,
-      "word": "男子中彩后女友携款与情夫私奔",
-      "onboard_time": 1669331844,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 40357,
@@ -12352,14 +12400,6 @@
       "word": "巴舒亚伊破门",
       "onboard_time": 1669245084,
       "rank": 44,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 32671,
-      "num": 38980,
-      "word": "孙兴慜出战或破韩国收视纪录",
-      "onboard_time": 1669331725,
-      "rank": 48,
       "category": "体育"
     },
     {

@@ -1,0 +1,410 @@
+{
+  "runTime": 1669332961463,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3955045,
+        "num": 4410091,
+        "word": "C罗创纪录",
+        "onboard_time": 1669311981,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1478608,
+        "num": 1478608,
+        "word": "C罗哭了",
+        "onboard_time": 1669306586,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 181736,
+        "num": 1195197,
+        "word": "这回夸父追到了太阳",
+        "onboard_time": 1669303779,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1160487,
+        "num": 1160487,
+        "word": "内马尔受伤",
+        "onboard_time": 1669331904,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1109558,
+        "num": 1109558,
+        "word": "巴西2比0塞尔维亚",
+        "onboard_time": 1669323674,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1076238,
+        "num": 1076238,
+        "word": "裁判 瞎了",
+        "onboard_time": 1669310423,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 966466,
+        "num": 966466,
+        "word": "来返沪不满5天可游玩迪士尼但不能室内就餐",
+        "onboard_time": 1669329797,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 598026,
+        "num": 598026,
+        "word": "葡萄牙3比2加纳",
+        "onboard_time": 1669313010,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 504320,
+        "num": 504320,
+        "word": "不挣钱的人是没有话语权的",
+        "onboard_time": 1669305754,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 502292,
+        "num": 502292,
+        "word": "韩国 小动作",
+        "onboard_time": 1669296273,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 471886,
+        "num": 471886,
+        "word": "内马尔被侵犯9次",
+        "onboard_time": 1669332027,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 451550,
+        "num": 451550,
+        "word": "婆婆为省奶粉钱给一岁孙女炒面粉",
+        "onboard_time": 1669302884,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 443980,
+        "num": 443980,
+        "word": "巴西vs塞尔维亚",
+        "onboard_time": 1669303303,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 360849,
+        "num": 360849,
+        "word": "白冰",
+        "onboard_time": 1669332326,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 332279,
+        "num": 332279,
+        "word": "C罗37岁身材",
+        "onboard_time": 1669315096,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 299514,
+        "num": 299514,
+        "word": "内马尔首秀",
+        "onboard_time": 1669305335,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 278955,
+        "num": 278955,
+        "word": "年轻人在健一种很新的身",
+        "onboard_time": 1669329136,
+        "rank": 16,
+        "category": "幽默,体育"
+      },
+      {
+        "raw_hot": 263721,
+        "num": 263721,
+        "word": "8旬老人得带状疱疹6年不敢盖被子",
+        "onboard_time": 1669295735,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262318,
+        "num": 262318,
+        "word": "卡塔尔王子回应被中国网友制成表情包",
+        "onboard_time": 1669290156,
+        "rank": 18,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 255753,
+        "num": 255753,
+        "word": "熊孩子划伤多辆汽车奶奶说没钱赔",
+        "onboard_time": 1669327095,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248256,
+        "num": 248256,
+        "word": "武汉中心医院",
+        "onboard_time": 1669331603,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239273,
+        "num": 239273,
+        "word": "外交部回应日方希望中方放松防疫措施",
+        "onboard_time": 1669288656,
+        "rank": 21,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 202967,
+        "num": 202967,
+        "word": "杭州师大辟谣女生宿舍校园霸凌",
+        "onboard_time": 1669330945,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181720,
+        "num": 181720,
+        "word": "C罗进球被吹",
+        "onboard_time": 1669307847,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178418,
+        "num": 178418,
+        "word": "台湾是中国的",
+        "onboard_time": 1669280670,
+        "rank": 24,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 177318,
+        "num": 177318,
+        "word": "葡萄牙vs加纳",
+        "onboard_time": 1669303127,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175633,
+        "num": 175633,
+        "word": "李现发博庆祝C罗进球",
+        "onboard_time": 1669332447,
+        "rank": 26,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 170974,
+        "num": 170974,
+        "word": "今冬以来最强寒潮",
+        "onboard_time": 1669331364,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155102,
+        "num": 155102,
+        "word": "C罗好自律",
+        "onboard_time": 1669322172,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140786,
+        "num": 140786,
+        "word": "绵阳警方回应女子及幼儿坠楼",
+        "onboard_time": 1669302058,
+        "rank": 29,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 199632,
+        "num": 137303,
+        "word": "男子中彩后女友携款与情夫私奔",
+        "onboard_time": 1669331844,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173405,
+        "num": 135496,
+        "word": "卡卡 帅",
+        "onboard_time": 1669311920,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132424,
+        "num": 132424,
+        "word": "敖厂长",
+        "onboard_time": 1669294354,
+        "rank": 32,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 127089,
+        "num": 127089,
+        "word": "女子做理疗被绑摇摆床扭成美人鱼",
+        "onboard_time": 1669302180,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126289,
+        "num": 126289,
+        "word": "武装台湾遏制中国大陆是痴人说梦",
+        "onboard_time": 1669331665,
+        "rank": 34,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 124845,
+        "num": 124845,
+        "word": "BLACKPINK获得SSA歌手大赏",
+        "onboard_time": 1669331184,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 124626,
+        "num": 124626,
+        "word": "江苏九价HPV疫苗扩龄至9到45岁",
+        "onboard_time": 1669332148,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124002,
+        "num": 124002,
+        "word": "陈飞宇周也电影倒数说爱你定档",
+        "onboard_time": 1669331665,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 122937,
+        "num": 122937,
+        "word": "孙兴慜出战或破韩国收视纪录",
+        "onboard_time": 1669331725,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119500,
+        "num": 119500,
+        "word": "考古专家在山东发现4000多年前炊具",
+        "onboard_time": 1669330339,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118810,
+        "num": 118810,
+        "word": "网传马嘉祺刘耀文严浩翔将发新歌",
+        "onboard_time": 1669305516,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 116549,
+        "num": 116549,
+        "word": "台媒你们是真的懂采访",
+        "onboard_time": 1669290454,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109260,
+        "num": 109260,
+        "word": "巴黎世家因宣传照争议道歉",
+        "onboard_time": 1669313545,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77389,
+        "num": 77389,
+        "word": "涉密接不集中隔离需交费是新型诈骗",
+        "onboard_time": 1669331545,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162164,
+        "num": 76196,
+        "word": "他叫C罗是有原因的",
+        "onboard_time": 1669312577,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 72172,
+        "num": 72172,
+        "word": "内马尔哭着接受治疗",
+        "onboard_time": 1669332812,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 68726,
+        "num": 68726,
+        "word": "菲利克斯破门",
+        "onboard_time": 1669332690,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 66623,
+        "num": 66623,
+        "word": "星汉灿烂角色号更新微博",
+        "onboard_time": 1669304855,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 66336,
+        "num": 66336,
+        "word": "秦施陶俊辉分手原因是秦施家庭",
+        "onboard_time": 1669311202,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 60447,
+        "num": 60447,
+        "word": "日本队逆转后现场中国球迷哭了",
+        "onboard_time": 1669331485,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国2021年专利数全球最高#"
+    }
+  }
+}
