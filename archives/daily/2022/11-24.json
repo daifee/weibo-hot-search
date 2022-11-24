@@ -1,10 +1,10 @@
 {
   "startTime": 1669220901508,
-  "endTime": 1669267090720,
+  "endTime": 1669268064043,
   "band_list": [
     {
-      "raw_hot": 2899023,
-      "num": 2899023,
+      "raw_hot": 3577628,
+      "num": 3577628,
       "word": "无大碍 已和好",
       "onboard_time": 1669263274,
       "rank": 33,
@@ -115,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1154100,
+      "num": 1154100,
+      "word": "日本大叔说下次轮到中国赢德国",
+      "onboard_time": 1669263632,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1081065,
       "num": 1081065,
       "word": "为什么真的不建议你去赌球",
@@ -147,14 +155,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 962858,
-      "num": 962858,
-      "word": "日本大叔说下次轮到中国赢德国",
-      "onboard_time": 1669263632,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 939263,
       "num": 939263,
       "word": "C罗世界杯首秀",
@@ -184,6 +184,14 @@
       "word": "女子跟老公在一起5年陪读4年",
       "onboard_time": 1669259673,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 883415,
+      "num": 883415,
+      "word": "北京新增1例死亡病例情况",
+      "onboard_time": 1669266158,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -355,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 556071,
+      "num": 556071,
+      "word": "谁还走不出于途乔晶晶雪地名场面",
+      "onboard_time": 1669265434,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 554317,
       "num": 554317,
       "word": "张艺兴彭昱畅张子枫为乌镇戏剧节打call",
@@ -395,20 +411,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 506187,
+      "num": 506187,
+      "word": "爸爸下班看到女儿开心到原地跺脚",
+      "onboard_time": 1669264178,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 479107,
       "num": 479107,
       "word": "陈飞宇念英文绿皮书台词",
       "onboard_time": 1669254811,
       "rank": 18,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 473462,
-      "num": 473462,
-      "word": "谁还走不出于途乔晶晶雪地名场面",
-      "onboard_time": 1669265434,
-      "rank": 12,
-      "category": "影视"
     },
     {
       "raw_hot": 463953,
@@ -425,14 +441,6 @@
       "onboard_time": 1669260330,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 443582,
-      "num": 443582,
-      "word": "爸爸下班看到女儿开心到原地跺脚",
-      "onboard_time": 1669264178,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 441670,
@@ -481,14 +489,6 @@
       "onboard_time": 1669248932,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 429389,
-      "num": 429389,
-      "word": "北京新增1例死亡病例情况",
-      "onboard_time": 1669266158,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 417878,
@@ -619,6 +619,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 320438,
+      "num": 320438,
+      "word": "世界杯预测",
+      "onboard_time": 1669267775,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 319909,
       "num": 319909,
       "word": "赵丽颖风吹半夏五大美德",
@@ -665,6 +673,14 @@
       "onboard_time": 1669257750,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 305102,
+      "num": 305102,
+      "word": "尹岐是新川最有种的男人",
+      "onboard_time": 1669265316,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 303197,
@@ -763,20 +779,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 281346,
+      "num": 281346,
+      "word": "原来周昊杉和周柯宇是亲兄弟",
+      "onboard_time": 1669263632,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 280757,
       "num": 280757,
       "word": "风吹半夏官宣OST阵容",
       "onboard_time": 1669261473,
       "rank": 24,
       "category": "影视"
-    },
-    {
-      "raw_hot": 280535,
-      "num": 280535,
-      "word": "原来周昊杉和周柯宇是亲兄弟",
-      "onboard_time": 1669263632,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 279587,
@@ -828,7 +844,7 @@
     },
     {
       "raw_hot": 265475,
-      "num": 145650,
+      "num": 228109,
       "word": "汪苏泷新歌为什么难过一直在重播预告",
       "onboard_time": 1669267055,
       "rank": 47,
@@ -840,6 +856,14 @@
       "word": "以岭药业回应药店连花清瘟涨价",
       "onboard_time": 1669247310,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 260551,
+      "num": 260551,
+      "word": "谢谢你们CZ3925",
+      "onboard_time": 1669263695,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -865,22 +889,6 @@
       "onboard_time": 1669220909,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 255906,
-      "num": 255906,
-      "word": "谢谢你们CZ3925",
-      "onboard_time": 1669263695,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 253804,
-      "num": 253804,
-      "word": "尹岐是新川最有种的男人",
-      "onboard_time": 1669265316,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 252722,
@@ -971,6 +979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 221064,
+      "num": 221064,
+      "word": "陕西老乔宣布儿子退出带货直播间",
+      "onboard_time": 1669267173,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 220195,
       "num": 220195,
       "word": "王源新歌粤语旁白是薛凯琪",
@@ -993,6 +1009,22 @@
       "onboard_time": 1669263032,
       "rank": 33,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 215511,
+      "num": 215511,
+      "word": "义乌老板娘能有多卷",
+      "onboard_time": 1669266635,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 215245,
+      "num": 215245,
+      "word": "杨幂说许凯生活中的声音就呆呆萌萌",
+      "onboard_time": 1669266454,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 214907,
@@ -1065,14 +1097,6 @@
       "onboard_time": 1669219716,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 202676,
-      "num": 202676,
-      "word": "杨幂说许凯生活中的声音就呆呆萌萌",
-      "onboard_time": 1669266454,
-      "rank": 31,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 200658,
@@ -1211,6 +1235,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 173895,
+      "num": 173895,
+      "word": "宝宝趴床边偷看世界杯被爸爸发现",
+      "onboard_time": 1669265617,
+      "rank": 38,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 172001,
       "num": 172001,
       "word": "德国队控球率",
@@ -1233,14 +1265,6 @@
       "onboard_time": 1669245084,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 168917,
-      "num": 168917,
-      "word": "宝宝趴床边偷看世界杯被爸爸发现",
-      "onboard_time": 1669265617,
-      "rank": 38,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 165368,
@@ -1363,14 +1387,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 149987,
-      "num": 149987,
-      "word": "义乌老板娘能有多卷",
-      "onboard_time": 1669266635,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 148081,
       "num": 1818774,
       "word": "世界杯随处可见中国元素",
@@ -1443,6 +1459,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 137794,
+      "num": 137794,
+      "word": "取材自真实家暴录音的短片",
+      "onboard_time": 1669265378,
+      "rank": 44,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 136237,
       "num": 136237,
       "word": "妈妈辅导哥哥作业被弟弟剪头发",
@@ -1473,6 +1497,14 @@
       "onboard_time": 1669222764,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 132321,
+      "num": 132321,
+      "word": "猫咪好像是坐电梯上来的",
+      "onboard_time": 1669267954,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 132013,
