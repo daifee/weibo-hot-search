@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/01 00:36:21 ~ 2022/11/24 23:20:49
+本榜单时间：2022/11/01 00:36:21 ~ 2022/11/24 23:36:56
 </p>
 </blockquote>
 <p>
@@ -875,6 +875,12 @@ LPL输得不冤（热度：2073824）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%8B%E5%8A%9B%E6%9D%A5%E5%88%B0%E9%9F%A9%E5%9B%BD%E8%BF%99%E8%BE%B9%23" target="weibo">
 压力来到韩国这边（热度：2058039）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%91%A1%E8%90%84%E7%89%99vs%E5%8A%A0%E7%BA%B3%23" target="weibo">
+葡萄牙vs加纳（热度：2045903）
 </a>
 </li>
 
@@ -5015,12 +5021,6 @@ iPhone15或告别纯直边（热度：809196）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E9%9B%A8%E7%90%A6%E5%9B%A0%E7%8A%B6%E6%80%81%E4%B8%8D%E4%BD%B3%E7%BC%BA%E5%B8%AD%E4%BB%8A%E6%97%A5%E7%AD%BE%E5%94%AE%E6%B4%BB%E5%8A%A8%23" target="weibo">
 宋雨琦因状态不佳缺席今日签售活动（热度：802416）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%91%A1%E8%90%84%E7%89%99vs%E5%8A%A0%E7%BA%B3%23" target="weibo">
-葡萄牙vs加纳（热度：802095）
 </a>
 </li>
 

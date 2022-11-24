@@ -1,6 +1,6 @@
 {
   "startTime": 1668961718135,
-  "endTime": 1669303249047,
+  "endTime": 1669304216462,
   "band_list": [
     {
       "raw_hot": 15128338,
@@ -360,6 +360,14 @@
       "word": "压力来到韩国这边",
       "onboard_time": 1669253074,
       "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2045903,
+      "num": 2045903,
+      "word": "葡萄牙vs加纳",
+      "onboard_time": 1669261774,
+      "rank": 35,
       "category": "体育"
     },
     {
@@ -1571,14 +1579,6 @@
       "category": "游戏,网红"
     },
     {
-      "raw_hot": 802095,
-      "num": 802095,
-      "word": "葡萄牙vs加纳",
-      "onboard_time": 1669261774,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 800208,
       "num": 800208,
       "word": "终于明白了什么叫世界杯死亡之组",
@@ -2297,6 +2297,14 @@
       "onboard_time": 1668963025,
       "rank": 18,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 621426,
+      "num": 621426,
+      "word": "巴西vs塞尔维亚",
+      "onboard_time": 1669263032,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 619495,
@@ -4411,6 +4419,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 372667,
+      "num": 372667,
+      "word": "乌拉圭遇到韩国队怎么老打门框",
+      "onboard_time": 1669302884,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 372650,
       "num": 372650,
       "word": "毛不易爱的二八定律片尾曲MV",
@@ -4731,6 +4747,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 348545,
+      "num": 348545,
+      "word": "虞书欣仙剑六明日杀青",
+      "onboard_time": 1669302529,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 347041,
       "num": 347041,
       "word": "男子买粘豆包被困秒变喜剧人",
@@ -4824,14 +4848,6 @@
       "word": "助理裁判手够累的",
       "onboard_time": 1669115377,
       "rank": 19,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 344608,
-      "num": 344608,
-      "word": "乌拉圭遇到韩国队怎么老打门框",
-      "onboard_time": 1669302884,
-      "rank": 21,
       "category": "体育"
     },
     {
@@ -5435,6 +5451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 312904,
+      "num": 312904,
+      "word": "婆婆为省奶粉钱给一岁孙女炒面粉",
+      "onboard_time": 1669302884,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 312888,
       "num": 312888,
       "word": "二审法庭调查刘鑫一方新证据",
@@ -5739,6 +5763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 296093,
+      "num": 243755,
+      "word": "绵阳警方回应女子及幼儿坠楼",
+      "onboard_time": 1669302058,
+      "rank": 31,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 294718,
       "num": 294718,
       "word": "两个人为什么会慢慢走散",
@@ -5960,14 +5992,6 @@
       "word": "泰国版下一站是幸福预告",
       "onboard_time": 1669176877,
       "rank": 43,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 282979,
-      "num": 282979,
-      "word": "虞书欣仙剑六明日杀青",
-      "onboard_time": 1669302529,
-      "rank": 26,
       "category": "影视"
     },
     {
@@ -6763,14 +6787,6 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 243755,
-      "num": 243755,
-      "word": "绵阳警方回应女子及幼儿坠楼",
-      "onboard_time": 1669302058,
-      "rank": 31,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 243702,
       "num": 243702,
       "word": "尹嵩精神状态",
@@ -6801,6 +6817,14 @@
       "onboard_time": 1669043202,
       "rank": 28,
       "category": "体育,幽默"
+    },
+    {
+      "raw_hot": 240397,
+      "num": 240397,
+      "word": "本届世界杯第4场0比0",
+      "onboard_time": 1669303127,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 239973,
@@ -6889,14 +6913,6 @@
       "onboard_time": 1669118620,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 234648,
-      "num": 234648,
-      "word": "本届世界杯第4场0比0",
-      "onboard_time": 1669303127,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 234329,
@@ -6993,6 +7009,14 @@
       "onboard_time": 1669280730,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 230829,
+      "num": 230829,
+      "word": "女子做理疗被绑摇摆床扭成美人鱼",
+      "onboard_time": 1669302180,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 230776,
@@ -7483,6 +7507,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 213795,
+      "num": 213795,
+      "word": "葡萄牙vs加纳首发",
+      "onboard_time": 1669303657,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 213646,
       "num": 213646,
       "word": "巴西队",
@@ -7569,14 +7601,6 @@
       "onboard_time": 1669263995,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 209671,
-      "num": 209671,
-      "word": "巴西vs塞尔维亚",
-      "onboard_time": 1669263032,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 209181,
@@ -8115,14 +8139,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 194460,
-      "num": 194460,
-      "word": "女子做理疗被绑摇摆床扭成美人鱼",
-      "onboard_time": 1669302180,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 194030,
       "num": 194030,
       "word": "ksg",
@@ -8475,14 +8491,6 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 184801,
-      "num": 184801,
-      "word": "婆婆为省奶粉钱给一岁孙女炒面粉",
-      "onboard_time": 1669302884,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 184577,
       "num": 184577,
       "word": "对美国女友讲一整天的英国口音",
@@ -8491,12 +8499,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 184491,
+      "num": 184491,
+      "word": "全世界到底有多少种饺子",
+      "onboard_time": 1669298859,
+      "rank": 45,
+      "category": "美食"
+    },
+    {
       "raw_hot": 183667,
       "num": 121807,
       "word": "李薇醉酒vs尹峥醉酒",
       "onboard_time": 1668961529,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 183602,
+      "num": 183602,
+      "word": "小鹿乱撞原来是这样的",
+      "onboard_time": 1669304078,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 183437,
@@ -8553,14 +8577,6 @@
       "onboard_time": 1669113272,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 182410,
-      "num": 182410,
-      "word": "全世界到底有多少种饺子",
-      "onboard_time": 1669298859,
-      "rank": 45,
-      "category": "美食"
     },
     {
       "raw_hot": 182248,
@@ -11041,6 +11057,14 @@
       "onboard_time": 1669064173,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 105797,
+      "num": 2182751,
+      "word": "这回夸父追到了太阳",
+      "onboard_time": 1669303779,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 105404,
