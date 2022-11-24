@@ -1,6 +1,6 @@
 {
   "startTime": 1669220901508,
-  "endTime": 1669255879619,
+  "endTime": 1669258532310,
   "band_list": [
     {
       "raw_hot": 2651843,
@@ -9,6 +9,14 @@
       "onboard_time": 1669217983,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2563717,
+      "num": 156780,
+      "word": "王源B面音源正式解锁",
+      "onboard_time": 1669257332,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 2137963,
@@ -35,6 +43,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 1761649,
+      "num": 1761649,
+      "word": "郑州将用5天时间打一场疫情防控歼灭战",
+      "onboard_time": 1669252235,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1663429,
       "num": 1663429,
       "word": "西班牙vs哥斯达黎加",
@@ -43,11 +59,27 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1212438,
-      "num": 1212438,
-      "word": "郑州将用5天时间打一场疫情防控歼灭战",
-      "onboard_time": 1669252235,
-      "rank": 9,
+      "raw_hot": 1202685,
+      "num": 1202685,
+      "word": "压力来到韩国这边",
+      "onboard_time": 1669253074,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1081065,
+      "num": 1081065,
+      "word": "为什么真的不建议你去赌球",
+      "onboard_time": 1669253495,
+      "rank": 28,
+      "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 982235,
+      "num": 982235,
+      "word": "女子深夜打110点奶茶民警秒懂",
+      "onboard_time": 1669255295,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -163,6 +195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 650095,
+      "num": 650095,
+      "word": "女生2天没出门猫咪叼金鱼投喂",
+      "onboard_time": 1669254211,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 643925,
       "num": 643925,
       "word": "西班牙净胜球赚麻了",
@@ -203,6 +243,22 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 571336,
+      "num": 571336,
+      "word": "退钱哥又让退钱了",
+      "onboard_time": 1669256908,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 571112,
+      "num": 571112,
+      "word": "父母让8岁孩子休学1周专打游戏",
+      "onboard_time": 1669254572,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 559779,
       "num": 559779,
       "word": "老人以88倍价格买下仅值5元膏药",
@@ -227,20 +283,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 542866,
-      "num": 542866,
-      "word": "为什么真的不建议你去赌球",
-      "onboard_time": 1669253495,
-      "rank": 28,
-      "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 527141,
-      "num": 527141,
+      "raw_hot": 547392,
+      "num": 547392,
       "word": "广州新增本土感染者7620例",
       "onboard_time": 1669253972,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 543360,
+      "num": 543360,
+      "word": "北京取消2022年度9项资格考试",
+      "onboard_time": 1669257091,
+      "rank": 13,
+      "category": "教育"
     },
     {
       "raw_hot": 519752,
@@ -249,6 +305,14 @@
       "onboard_time": 1669217447,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 479107,
+      "num": 479107,
+      "word": "陈飞宇念英文绿皮书台词",
+      "onboard_time": 1669254811,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 463953,
@@ -299,20 +363,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 403517,
-      "num": 403517,
+      "raw_hot": 417878,
+      "num": 417878,
       "word": "李一桐吊带鎏金裙",
       "onboard_time": 1669249296,
       "rank": 18,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 387496,
-      "num": 387496,
-      "word": "女生2天没出门猫咪叼金鱼投喂",
-      "onboard_time": 1669254211,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 386624,
@@ -347,14 +403,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 364599,
-      "num": 364599,
-      "word": "陈飞宇念英文绿皮书台词",
-      "onboard_time": 1669254811,
-      "rank": 18,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 359529,
       "num": 359529,
       "word": "体彩",
@@ -377,6 +425,22 @@
       "onboard_time": 1669216565,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 338043,
+      "num": 338043,
+      "word": "世界杯花式打call大赛",
+      "onboard_time": 1669257689,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 329782,
+      "num": 329782,
+      "word": "吴卓羲手抄100遍大湾仔口号",
+      "onboard_time": 1669256008,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 326404,
@@ -411,6 +475,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 310655,
+      "num": 310655,
+      "word": "这就是乡村新说唱海选现场吧",
+      "onboard_time": 1669257750,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 303197,
       "num": 303197,
       "word": "北京房山一饭店违反防疫政策承接婚宴被查",
@@ -443,12 +515,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 292176,
-      "num": 292176,
-      "word": "父母让8岁孩子休学1周专打游戏",
-      "onboard_time": 1669254572,
-      "rank": 25,
-      "category": "社会新闻"
+      "raw_hot": 298092,
+      "num": 298092,
+      "word": "张艺兴一年一度为戏剧而来",
+      "onboard_time": 1669258293,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 290395,
+      "num": 290395,
+      "word": "马斯克欲解封推特所有封禁账号",
+      "onboard_time": 1669254271,
+      "rank": 39,
+      "category": "科技"
     },
     {
       "raw_hot": 289260,
@@ -475,6 +555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 283889,
+      "num": 283889,
+      "word": "王鹤棣以爱为营棒球服造型上班路透",
+      "onboard_time": 1669256609,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 281889,
       "num": 281889,
       "word": "11月23日新增本土确诊3927例",
@@ -489,6 +577,14 @@
       "onboard_time": 1669252352,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 278744,
+      "num": 278744,
+      "word": "时代少年团奔向30音乐分享会海报",
+      "onboard_time": 1669256667,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 276995,
@@ -587,14 +683,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 234065,
-      "num": 234065,
-      "word": "女子深夜打110点奶茶民警秒懂",
-      "onboard_time": 1669255295,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 226573,
       "num": 226573,
       "word": "日本 越位",
@@ -611,12 +699,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 215875,
+      "num": 215875,
+      "word": "上海立法禁止群租",
+      "onboard_time": 1669257630,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 211035,
       "num": 211035,
       "word": "命韵峋环结婚证件照",
       "onboard_time": 1669212821,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 206379,
+      "num": 206379,
+      "word": "男孩被忘服务区家长让其步行追赶",
+      "onboard_time": 1669256250,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 204202,
@@ -633,6 +737,14 @@
       "onboard_time": 1669219716,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 200875,
+      "num": 200875,
+      "word": "赵丽颖风吹半夏五大美德",
+      "onboard_time": 1669258230,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 200658,
@@ -675,12 +787,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 191243,
-      "num": 191243,
-      "word": "马斯克欲解封推特所有封禁账号",
-      "onboard_time": 1669254271,
+      "raw_hot": 190510,
+      "num": 190510,
+      "word": "北大硕士当编剧主角是300个动物",
+      "onboard_time": 1669257932,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 188969,
+      "num": 188969,
+      "word": "陈小纭郝葭人设",
+      "onboard_time": 1669257151,
       "rank": 39,
-      "category": "科技"
+      "category": "影视"
     },
     {
       "raw_hot": 185431,
@@ -689,6 +809,14 @@
       "onboard_time": 1669215174,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 184833,
+      "num": 184833,
+      "word": "上海迪士尼度假区全面恢复运营",
+      "onboard_time": 1669257151,
+      "rank": 40,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 182869,
@@ -705,6 +833,14 @@
       "onboard_time": 1669214493,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 178769,
+      "num": 178769,
+      "word": "上海迪士尼乐园将于25日重新开放",
+      "onboard_time": 1669258350,
+      "rank": 43,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 177448,
@@ -745,6 +881,14 @@
       "onboard_time": 1669223121,
       "rank": 24,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 170770,
+      "num": 170770,
+      "word": "为什么卿卿日常不适合倍速看",
+      "onboard_time": 1669258350,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 169682,
@@ -811,14 +955,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 151739,
-      "num": 151739,
-      "word": "压力来到韩国这边",
-      "onboard_time": 1669253074,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 151460,
       "num": 151460,
       "word": "研究发现火星曾有300米深海洋",
@@ -832,6 +968,14 @@
       "word": "日本门将",
       "onboard_time": 1669211558,
       "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 149988,
+      "num": 149988,
+      "word": "网友开启拉伊卜DIY大赛",
+      "onboard_time": 1669257392,
+      "rank": 48,
       "category": "体育"
     },
     {
