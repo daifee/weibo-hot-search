@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1669311313008,
+  "endTime": 1669314322185,
   "band_list": [
     {
       "raw_hot": 15128338,
@@ -89,6 +89,14 @@
       "onboard_time": 1667787386,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 5448624,
+      "num": 5448624,
+      "word": "裁判 瞎了",
+      "onboard_time": 1669310423,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 5275273,
@@ -723,6 +731,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 2538534,
+      "num": 2538534,
+      "word": "葡萄牙3比2加纳",
+      "onboard_time": 1669313010,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2535917,
       "num": 2535917,
       "word": "呼和浩特通报女子坠楼事件",
@@ -857,6 +873,14 @@
       "onboard_time": 1668696751,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2344356,
+      "num": 2344356,
+      "word": "C罗创纪录",
+      "onboard_time": 1669311981,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 2341915,
@@ -5235,6 +5259,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 949336,
+      "num": 949336,
+      "word": "加纳 推人",
+      "onboard_time": 1669312825,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 948139,
       "num": 948139,
       "word": "楚子航",
@@ -6376,6 +6408,14 @@
       "word": "C罗",
       "onboard_time": 1667779227,
       "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 833241,
+      "num": 833241,
+      "word": "点球 剧本",
+      "onboard_time": 1669311501,
+      "rank": 8,
       "category": "体育"
     },
     {
@@ -7835,6 +7875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 719992,
+      "num": 719992,
+      "word": "他叫C罗是有原因的",
+      "onboard_time": 1669312577,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 719969,
       "num": 719969,
       "word": "刘德华哽咽再唱17岁",
@@ -7969,6 +8017,14 @@
       "onboard_time": 1667982327,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 712084,
+      "num": 712084,
+      "word": "C罗帅的很直接",
+      "onboard_time": 1669311323,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 711843,
@@ -10984,14 +11040,6 @@
       "word": "内马尔强调不要轻视对手",
       "onboard_time": 1669260694,
       "rank": 41,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 567808,
-      "num": 567808,
-      "word": "裁判 瞎了",
-      "onboard_time": 1669310423,
-      "rank": 10,
       "category": "体育"
     },
     {
@@ -14515,6 +14563,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 468179,
+      "num": 468179,
+      "word": "葡萄牙门将",
+      "onboard_time": 1669313484,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 467817,
       "num": 467817,
       "word": "网易公布致暴雪游戏玩家的一封信",
@@ -16313,6 +16369,14 @@
       "onboard_time": 1668506190,
       "rank": 32,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 426679,
+      "num": 426679,
+      "word": "朱广权押韵评C罗五战世界杯",
+      "onboard_time": 1669310539,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 426518,
@@ -18411,6 +18475,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 384303,
+      "num": 384303,
+      "word": "加纳门将",
+      "onboard_time": 1669308089,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 384158,
       "num": 384158,
       "word": "HYBE将2023年6月举办家族演唱会",
@@ -18425,6 +18497,14 @@
       "onboard_time": 1667305586,
       "rank": 24,
       "category": "科技"
+    },
+    {
+      "raw_hot": 383825,
+      "num": 383825,
+      "word": "C罗热身引全场球迷欢呼",
+      "onboard_time": 1669308384,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 383813,
@@ -20025,6 +20105,14 @@
       "onboard_time": 1667913091,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 354805,
+      "num": 354805,
+      "word": "C罗连续十届大赛进球",
+      "onboard_time": 1669311801,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 354640,
@@ -21963,14 +22051,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 325709,
-      "num": 325709,
-      "word": "加纳门将",
-      "onboard_time": 1669308089,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 325678,
       "num": 325678,
       "word": "男子拆德芙巧克力发现蠕动活虫",
@@ -23395,6 +23475,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 308325,
+      "num": 308325,
+      "word": "莱奥破门",
+      "onboard_time": 1669312519,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 308289,
       "num": 308289,
       "word": "1型糖尿病一般青少年期发病",
@@ -23513,6 +23601,14 @@
       "onboard_time": 1668306809,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 306760,
+      "num": 306760,
+      "word": "加纳换人",
+      "onboard_time": 1669312400,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 306731,
@@ -24601,6 +24697,14 @@
       "onboard_time": 1668866914,
       "rank": 36,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 289597,
+      "num": 289597,
+      "word": "卡卡 帅",
+      "onboard_time": 1669311920,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 289416,
@@ -26867,14 +26971,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 262652,
-      "num": 262652,
-      "word": "C罗热身引全场球迷欢呼",
-      "onboard_time": 1669308384,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 262608,
       "num": 262608,
       "word": "疫情交通梗阻成蔬菜滞销重要因素",
@@ -28520,14 +28616,6 @@
       "word": "马宁世界杯首秀",
       "onboard_time": 1669076972,
       "rank": 23,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 241545,
-      "num": 241545,
-      "word": "朱广权押韵评C罗五战世界杯",
-      "onboard_time": 1669310539,
-      "rank": 19,
       "category": "体育"
     },
     {
@@ -32347,6 +32435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 206407,
+      "num": 206407,
+      "word": "加纳 黄牌",
+      "onboard_time": 1669310482,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 206329,
       "num": 174839,
       "word": "点燃我温暖你今晚好虐",
@@ -34057,6 +34153,14 @@
       "onboard_time": 1669211558,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 193555,
+      "num": 193555,
+      "word": "还得是C罗",
+      "onboard_time": 1669312825,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 193549,
@@ -40681,14 +40785,6 @@
       "onboard_time": 1668405389,
       "rank": 40,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 146024,
-      "num": 146024,
-      "word": "加纳 黄牌",
-      "onboard_time": 1669310482,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 146001,
@@ -50115,6 +50211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 87089,
+      "num": 87089,
+      "word": "秦施陶俊辉分手原因是秦施家庭",
+      "onboard_time": 1669311202,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 87008,
       "num": 87008,
       "word": "这煎饼老板是懂艺术的",
@@ -50755,14 +50859,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 82906,
-      "num": 82906,
-      "word": "秦施陶俊辉分手原因是秦施家庭",
-      "onboard_time": 1669311202,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 82819,
       "num": 82819,
       "word": "收到快递后的我",
@@ -51001,6 +51097,14 @@
       "onboard_time": 1667891786,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 80789,
+      "num": 80789,
+      "word": "C罗第一粒进球",
+      "onboard_time": 1669312160,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 80678,
@@ -51851,6 +51955,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 70896,
+      "num": 70896,
+      "word": "C罗是喜剧人吗",
+      "onboard_time": 1669313726,
+      "rank": 41,
+      "category": "体育,幽默"
+    },
+    {
       "raw_hot": 70805,
       "num": 49783,
       "word": "流浪地球2好会整活儿",
@@ -52201,6 +52313,14 @@
       "onboard_time": 1668789383,
       "rank": 48,
       "category": "自然"
+    },
+    {
+      "raw_hot": 65962,
+      "num": 65962,
+      "word": "巴黎世家因宣传照争议道歉",
+      "onboard_time": 1669313545,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 65860,
@@ -52737,6 +52857,14 @@
       "onboard_time": 1669245564,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 55232,
+      "num": 55232,
+      "word": "C罗的任意球有多强",
+      "onboard_time": 1669314081,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 55178,

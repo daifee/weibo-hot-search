@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/25 00:28:00 ~ 2022/11/25 01:35:13
+本榜单时间：2022/11/25 00:28:00 ~ 2022/11/25 02:25:22
 </p>
 </blockquote>
 <p>
@@ -13,6 +13,12 @@
 热榜
 </h2>
 <ol>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A3%81%E5%88%A4%20%E7%9E%8E%E4%BA%86%23" target="weibo">
+裁判 瞎了（热度：5448624）
+</a>
+</li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23C%E7%BD%97%E5%93%AD%E4%BA%86%23" target="weibo">
@@ -29,6 +35,18 @@ C罗哭了（热度：4780092）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23C%E7%BD%97%E8%BF%9B%E7%90%83%E8%A2%AB%E5%90%B9%23" target="weibo">
 C罗进球被吹（热度：2899415）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%91%A1%E8%90%84%E7%89%993%E6%AF%942%E5%8A%A0%E7%BA%B3%23" target="weibo">
+葡萄牙3比2加纳（热度：2538534）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23C%E7%BD%97%E5%88%9B%E7%BA%AA%E5%BD%95%23" target="weibo">
+C罗创纪录（热度：2344356）
 </a>
 </li>
 
@@ -63,6 +81,18 @@ C罗点球破门（热度：1245113）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8A%A0%E7%BA%B3%20%E6%8E%A8%E4%BA%BA%23" target="weibo">
+加纳 推人（热度：949336）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%82%B9%E7%90%83%20%E5%89%A7%E6%9C%AC%23" target="weibo">
+点球 剧本（热度：833241）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23C%E7%BD%97%20%E5%B8%85%23" target="weibo">
 C罗 帅（热度：824520）
 </a>
@@ -71,6 +101,18 @@ C罗 帅（热度：824520）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23C%E7%BD%97%E4%B8%96%E7%95%8C%E6%9D%AF%E8%BF%9B%E7%90%83%E7%9E%AC%E9%97%B4%23" target="weibo">
 C罗世界杯进球瞬间（热度：809896）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%96%E5%8F%ABC%E7%BD%97%E6%98%AF%E6%9C%89%E5%8E%9F%E5%9B%A0%E7%9A%84%23" target="weibo">
+他叫C罗是有原因的（热度：719992）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23C%E7%BD%97%E5%B8%85%E7%9A%84%E5%BE%88%E7%9B%B4%E6%8E%A5%23" target="weibo">
+C罗帅的很直接（热度：712084）
 </a>
 </li>
 
@@ -105,12 +147,6 @@ C罗错失单刀（热度：596960）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A3%81%E5%88%A4%20%E7%9E%8E%E4%BA%86%23" target="weibo">
-裁判 瞎了（热度：567808）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8D%E6%8C%A3%E9%92%B1%E7%9A%84%E4%BA%BA%E6%98%AF%E6%B2%A1%E6%9C%89%E8%AF%9D%E8%AF%AD%E6%9D%83%E7%9A%84%23" target="weibo">
 不挣钱的人是没有话语权的（热度：513183）
 </a>
@@ -129,8 +165,20 @@ C罗错失单刀（热度：596960）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%91%A1%E8%90%84%E7%89%99%E9%97%A8%E5%B0%86%23" target="weibo">
+葡萄牙门将（热度：468179）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%238%E6%97%AC%E8%80%81%E4%BA%BA%E5%BE%97%E5%B8%A6%E7%8A%B6%E7%96%B1%E7%96%B96%E5%B9%B4%E4%B8%8D%E6%95%A2%E7%9B%96%E8%A2%AB%E5%AD%90%23" target="weibo">
 8旬老人得带状疱疹6年不敢盖被子（热度：464231）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E5%B9%BF%E6%9D%83%E6%8A%BC%E9%9F%B5%E8%AF%84C%E7%BD%97%E4%BA%94%E6%88%98%E4%B8%96%E7%95%8C%E6%9D%AF%23" target="weibo">
+朱广权押韵评C罗五战世界杯（热度：426679）
 </a>
 </li>
 
@@ -165,8 +213,26 @@ C罗弹跳（热度：410052）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8A%A0%E7%BA%B3%E9%97%A8%E5%B0%86%23" target="weibo">
+加纳门将（热度：384303）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23C%E7%BD%97%E7%83%AD%E8%BA%AB%E5%BC%95%E5%85%A8%E5%9C%BA%E7%90%83%E8%BF%B7%E6%AC%A2%E5%91%BC%23" target="weibo">
+C罗热身引全场球迷欢呼（热度：383825）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%90%83%E8%BF%B7%20%E5%90%B5%23" target="weibo">
 韩国球迷 吵（热度：369711）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23C%E7%BD%97%E8%BF%9E%E7%BB%AD%E5%8D%81%E5%B1%8A%E5%A4%A7%E8%B5%9B%E8%BF%9B%E7%90%83%23" target="weibo">
+C罗连续十届大赛进球（热度：354805）
 </a>
 </li>
 
@@ -177,14 +243,26 @@ C罗弹跳（热度：410052）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8A%A0%E7%BA%B3%E9%97%A8%E5%B0%86%23" target="weibo">
-加纳门将（热度：325709）
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E8%AF%AD%E7%86%99%E9%A2%84%E6%B5%8B%E9%9F%A9%E5%9B%BD%E4%B9%8C%E6%8B%89%E5%9C%AD%E6%89%93%E5%B9%B3%23" target="weibo">
+刘语熙预测韩国乌拉圭打平（热度：310009）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E8%AF%AD%E7%86%99%E9%A2%84%E6%B5%8B%E9%9F%A9%E5%9B%BD%E4%B9%8C%E6%8B%89%E5%9C%AD%E6%89%93%E5%B9%B3%23" target="weibo">
-刘语熙预测韩国乌拉圭打平（热度：310009）
+<a href="https://s.weibo.com/weibo?q=%23%E8%8E%B1%E5%A5%A5%E7%A0%B4%E9%97%A8%23" target="weibo">
+莱奥破门（热度：308325）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8A%A0%E7%BA%B3%E6%8D%A2%E4%BA%BA%23" target="weibo">
+加纳换人（热度：306760）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%A1%E5%8D%A1%20%E5%B8%85%23" target="weibo">
+卡卡 帅（热度：289597）
 </a>
 </li>
 
@@ -225,12 +303,6 @@ C罗弹跳（热度：410052）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23C%E7%BD%97%E7%83%AD%E8%BA%AB%E5%BC%95%E5%85%A8%E5%9C%BA%E7%90%83%E8%BF%B7%E6%AC%A2%E5%91%BC%23" target="weibo">
-C罗热身引全场球迷欢呼（热度：262652）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%8B%E5%8A%9B%E7%BB%99%E5%88%B0C%E7%BD%97%23" target="weibo">
 压力给到C罗（热度：255264）
 </a>
@@ -245,12 +317,6 @@ C罗热身引全场球迷欢呼（热度：262652）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E8%89%BA%E6%B4%8B%E5%88%86%E4%BA%AB%E4%B8%80%E7%BB%84%E6%96%B0%E7%9A%84%E7%85%A7%E7%89%87%23" target="weibo">
 徐艺洋分享一组新的照片（热度：242633）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E5%B9%BF%E6%9D%83%E6%8A%BC%E9%9F%B5%E8%AF%84C%E7%BD%97%E4%BA%94%E6%88%98%E4%B8%96%E7%95%8C%E6%9D%AF%23" target="weibo">
-朱广权押韵评C罗五战世界杯（热度：241545）
 </a>
 </li>
 
@@ -285,8 +351,20 @@ C罗热身引全场球迷欢呼（热度：262652）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8A%A0%E7%BA%B3%20%E9%BB%84%E7%89%8C%23" target="weibo">
+加纳 黄牌（热度：206407）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23C%E7%BD%97%E9%A6%96%E7%A7%80%E7%8A%B6%E6%80%81%23" target="weibo">
 C罗首秀状态（热度：197885）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%98%E5%BE%97%E6%98%AFC%E7%BD%97%23" target="weibo">
+还得是C罗（热度：193555）
 </a>
 </li>
 
@@ -369,12 +447,6 @@ C罗 直拍（热度：170754）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8A%A0%E7%BA%B3%20%E9%BB%84%E7%89%8C%23" target="weibo">
-加纳 黄牌（热度：146024）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E9%81%AD%E9%9C%B8%E5%87%8C%E6%AE%B4%E6%89%93%E8%A2%AB%E9%80%BC%E4%B8%8B%E8%B7%AA%E7%A3%95%E5%A4%B4%23" target="weibo">
 男孩遭霸凌殴打被逼下跪磕头（热度：142609）
 </a>
@@ -430,7 +502,13 @@ LESSERAFIM漫画主题曲MV公开（热度：110967）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A7%A6%E6%96%BD%E9%99%B6%E4%BF%8A%E8%BE%89%E5%88%86%E6%89%8B%E5%8E%9F%E5%9B%A0%E6%98%AF%E7%A7%A6%E6%96%BD%E5%AE%B6%E5%BA%AD%23" target="weibo">
-秦施陶俊辉分手原因是秦施家庭（热度：82906）
+秦施陶俊辉分手原因是秦施家庭（热度：87089）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23C%E7%BD%97%E7%AC%AC%E4%B8%80%E7%B2%92%E8%BF%9B%E7%90%83%23" target="weibo">
+C罗第一粒进球（热度：80789）
 </a>
 </li>
 
@@ -441,8 +519,26 @@ LESSERAFIM漫画主题曲MV公开（热度：110967）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23C%E7%BD%97%E6%98%AF%E5%96%9C%E5%89%A7%E4%BA%BA%E5%90%97%23" target="weibo">
+C罗是喜剧人吗（热度：70896）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9A%94%E7%A6%BB%E5%9C%A8%E6%9C%8B%E5%8F%8B%E5%AE%B6%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C%23" target="weibo">
 隔离在朋友家是什么体验（热度：67987）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E9%BB%8E%E4%B8%96%E5%AE%B6%E5%9B%A0%E5%AE%A3%E4%BC%A0%E7%85%A7%E4%BA%89%E8%AE%AE%E9%81%93%E6%AD%89%23" target="weibo">
+巴黎世家因宣传照争议道歉（热度：65962）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23C%E7%BD%97%E7%9A%84%E4%BB%BB%E6%84%8F%E7%90%83%E6%9C%89%E5%A4%9A%E5%BC%BA%23" target="weibo">
+C罗的任意球有多强（热度：55232）
 </a>
 </li>
 

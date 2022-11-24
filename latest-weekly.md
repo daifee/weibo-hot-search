@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/21 00:28:38 ~ 2022/11/25 01:35:13
+本榜单时间：2022/11/21 00:28:38 ~ 2022/11/25 02:25:22
 </p>
 </blockquote>
 <p>
@@ -59,6 +59,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%A1%E5%A1%94%E5%B0%94%E7%8E%8B%E5%AD%90%E6%84%9F%E8%B0%A2%E4%B8%AD%E5%9B%BD%E7%BD%91%E5%8F%8B%23" target="weibo">
 卡塔尔王子感谢中国网友（热度：6338884）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A3%81%E5%88%A4%20%E7%9E%8E%E4%BA%86%23" target="weibo">
+裁判 瞎了（热度：5448624）
 </a>
 </li>
 
@@ -213,6 +219,12 @@ C罗进球被吹（热度：2899415）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%91%A1%E8%90%84%E7%89%993%E6%AF%942%E5%8A%A0%E7%BA%B3%23" target="weibo">
+葡萄牙3比2加纳（热度：2538534）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E8%BE%93%E7%90%83%E5%90%8E%E5%88%98%E7%95%8A%E5%AE%8F%E5%93%AD%E4%BA%86%23" target="weibo">
 梅西输球后刘畊宏哭了（热度：2399751）
 </a>
@@ -239,6 +251,12 @@ C罗进球被吹（热度：2899415）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E9%86%92%E6%9C%80%E4%B8%8D%E5%BF%AB%E4%B9%90%E7%9A%84%E4%B8%80%E5%A4%A9%23" target="weibo">
 苏醒最不快乐的一天（热度：2357039）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23C%E7%BD%97%E5%88%9B%E7%BA%AA%E5%BD%95%23" target="weibo">
+C罗创纪录（热度：2344356）
 </a>
 </li>
 
@@ -993,6 +1011,12 @@ C罗成为本届世界杯唯一自由球员（热度：971929）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8A%A0%E7%BA%B3%20%E6%8E%A8%E4%BA%BA%23" target="weibo">
+加纳 推人（热度：949336）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%A4%E5%8F%8B%E8%A2%AB%E5%AD%90%E9%95%BF%E8%98%91%E8%8F%87%E5%B0%8F%E4%BC%99%E5%B8%AE%E5%BF%99%E5%89%AA%E6%8E%89%23" target="weibo">
 室友被子长蘑菇小伙帮忙剪掉（热度：946164）
 </a>
@@ -1157,6 +1181,12 @@ CPA（热度：850411）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2310%E5%B2%81%E5%A5%B3%E5%AD%A9%E4%B9%B0%E9%A6%95%E9%A5%BC%E8%AF%AF%E4%BB%983%E4%B8%87%E5%85%83%23" target="weibo">
 10岁女孩买馕饼误付3万元（热度：842015）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%82%B9%E7%90%83%20%E5%89%A7%E6%9C%AC%23" target="weibo">
+点球 剧本（热度：833241）
 </a>
 </li>
 
@@ -1401,6 +1431,12 @@ JDG官宣Yagao成为自由人（热度：745839）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%96%E5%8F%ABC%E7%BD%97%E6%98%AF%E6%9C%89%E5%8E%9F%E5%9B%A0%E7%9A%84%23" target="weibo">
+他叫C罗是有原因的（热度：719992）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%A4%87%E5%AD%9513%E5%B9%B4%E7%94%9F%E9%BE%99%E5%87%A4%E8%83%8E%E5%8F%96%E5%90%8D%E5%A4%A9%E4%BD%91%E4%BD%91%E5%BF%83%23" target="weibo">
 女子备孕13年生龙凤胎取名天佑佑心（热度：719350）
 </a>
@@ -1427,6 +1463,12 @@ JDG官宣Yagao成为自由人（热度：745839）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%84%E7%93%9C%E5%A4%9A%E5%B0%94%E7%90%83%E8%BF%B7%E6%90%93%E9%92%B1%E5%8A%A8%E4%BD%9C%E6%8C%91%E8%A1%85%E4%B8%9C%E9%81%93%E4%B8%BB%23" target="weibo">
 厄瓜多尔球迷搓钱动作挑衅东道主（热度：713999）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23C%E7%BD%97%E5%B8%85%E7%9A%84%E5%BE%88%E7%9B%B4%E6%8E%A5%23" target="weibo">
+C罗帅的很直接（热度：712084）
 </a>
 </li>
 
@@ -2003,12 +2045,6 @@ Doinb爆料EDG（热度：593647）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E9%A9%AC%E5%B0%94%E5%BC%BA%E8%B0%83%E4%B8%8D%E8%A6%81%E8%BD%BB%E8%A7%86%E5%AF%B9%E6%89%8B%23" target="weibo">
 内马尔强调不要轻视对手（热度：567882）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A3%81%E5%88%A4%20%E7%9E%8E%E4%BA%86%23" target="weibo">
-裁判 瞎了（热度：567808）
 </a>
 </li>
 
@@ -2619,6 +2655,12 @@ JDG Ruler（热度：502446）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%91%A1%E8%90%84%E7%89%99%E9%97%A8%E5%B0%86%23" target="weibo">
+葡萄牙门将（热度：468179）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B2%A1%E6%9C%89%E8%8B%B1%E5%9B%BD%E9%98%9F%23" target="weibo">
 世界杯为什么没有英国队（热度：465546）
 </a>
@@ -2903,6 +2945,12 @@ iphoneSE4售价有望控制在3000（热度：431515）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E4%BF%A1%E5%BE%AE%E5%8D%9A%E8%AF%84%E8%AE%BA%E5%8C%BA%E5%9B%9E%E5%A4%8D%E5%A5%BD%E8%B5%B0%E5%BF%83%23" target="weibo">
 阿信微博评论区回复好走心（热度：427150）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E5%B9%BF%E6%9D%83%E6%8A%BC%E9%9F%B5%E8%AF%84C%E7%BD%97%E4%BA%94%E6%88%98%E4%B8%96%E7%95%8C%E6%9D%AF%23" target="weibo">
+朱广权押韵评C罗五战世界杯（热度：426679）
 </a>
 </li>
 
@@ -3315,6 +3363,18 @@ C罗（热度：396181）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8A%A0%E7%BA%B3%E9%97%A8%E5%B0%86%23" target="weibo">
+加纳门将（热度：384303）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23C%E7%BD%97%E7%83%AD%E8%BA%AB%E5%BC%95%E5%85%A8%E5%9C%BA%E7%90%83%E8%BF%B7%E6%AC%A2%E5%91%BC%23" target="weibo">
+C罗热身引全场球迷欢呼（热度：383825）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%95%E8%BF%AA%E6%A0%BC%20%E8%B7%A8%E6%A0%8F%23" target="weibo">
 吕迪格 跨栏（热度：382910）
 </a>
@@ -3629,6 +3689,12 @@ C罗希望击败梅西（热度：357819）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%BD%A6%E6%96%8C%E5%AF%B9%E5%AE%8B%E5%AE%81%E5%B3%B0%E6%84%9F%E5%90%8C%E8%BA%AB%E5%8F%97%23" target="weibo">
 胡彦斌对宋宁峰感同身受（热度：355108）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23C%E7%BD%97%E8%BF%9E%E7%BB%AD%E5%8D%81%E5%B1%8A%E5%A4%A7%E8%B5%9B%E8%BF%9B%E7%90%83%23" target="weibo">
+C罗连续十届大赛进球（热度：354805）
 </a>
 </li>
 
@@ -4017,12 +4083,6 @@ TES（热度：331089）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8A%A0%E7%BA%B3%E9%97%A8%E5%B0%86%23" target="weibo">
-加纳门将（热度：325709）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E8%A7%86%E7%95%8C%E5%A4%A7%E4%BC%9A%E9%A6%96%E6%B3%A2%E9%98%B5%E5%AE%B9%23" target="weibo">
 微博视界大会首波阵容（热度：325578）
 </a>
@@ -4293,6 +4353,12 @@ Ruler直播哭了（热度：311925）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8E%B1%E5%A5%A5%E7%A0%B4%E9%97%A8%23" target="weibo">
+莱奥破门（热度：308325）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BB%BC%E8%89%BA%E7%AE%97%E8%89%BA%E4%BA%BA%E4%BD%9C%E5%93%81%E5%90%97%23" target="weibo">
 综艺算艺人作品吗（热度：307835）
 </a>
@@ -4313,6 +4379,12 @@ Ruler直播哭了（热度：311925）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%23" target="weibo">
 以爱为营（热度：306856）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8A%A0%E7%BA%B3%E6%8D%A2%E4%BA%BA%23" target="weibo">
+加纳换人（热度：306760）
 </a>
 </li>
 
@@ -4505,6 +4577,12 @@ C罗卡塔尔世界杯首秀（热度：302506）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E7%A1%95%E7%8F%8D%E5%B0%8612%E6%9C%8813%E6%97%A5%E5%85%A5%E4%BC%8D%23" target="weibo">
 金硕珍将12月13日入伍（热度：290089）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%A1%E5%8D%A1%20%E5%B8%85%23" target="weibo">
+卡卡 帅（热度：289597）
 </a>
 </li>
 
@@ -4905,12 +4983,6 @@ DK官宣新赛季大名单（热度：268281）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23C%E7%BD%97%E7%83%AD%E8%BA%AB%E5%BC%95%E5%85%A8%E5%9C%BA%E7%90%83%E8%BF%B7%E6%AC%A2%E5%91%BC%23" target="weibo">
-C罗热身引全场球迷欢呼（热度：262652）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%96%AB%E6%83%85%E4%BA%A4%E9%80%9A%E6%A2%97%E9%98%BB%E6%88%90%E8%94%AC%E8%8F%9C%E6%BB%9E%E9%94%80%E9%87%8D%E8%A6%81%E5%9B%A0%E7%B4%A0%23" target="weibo">
 疫情交通梗阻成蔬菜滞销重要因素（热度：262608）
 </a>
@@ -5243,12 +5315,6 @@ iPhone15明年全系采用USBC接口（热度：247665）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%AE%81%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E7%A7%80%23" target="weibo">
 马宁世界杯首秀（热度：241570）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E5%B9%BF%E6%9D%83%E6%8A%BC%E9%9F%B5%E8%AF%84C%E7%BD%97%E4%BA%94%E6%88%98%E4%B8%96%E7%95%8C%E6%9D%AF%23" target="weibo">
-朱广权押韵评C罗五战世界杯（热度：241545）
 </a>
 </li>
 
@@ -5895,6 +5961,12 @@ vivo推出能拍银河的手机（热度：217275）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8A%A0%E7%BA%B3%20%E9%BB%84%E7%89%8C%23" target="weibo">
+加纳 黄牌（热度：206407）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%A6%B9%E5%85%AE%E5%BD%AD%E5%B0%8F%E8%8B%92%E6%96%B0%E5%89%A7%E8%BF%87%E5%AE%A1%23" target="weibo">
 丁禹兮彭小苒新剧过审（热度：206095）
 </a>
@@ -6269,6 +6341,12 @@ ksg（热度：194030）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E8%8A%B3%E5%A6%82%E5%85%A8%E5%8A%9B%E6%8A%A4%E9%83%9D%E8%91%AD%E6%AF%8D%E5%A5%B3%23" target="weibo">
 赵芳如全力护郝葭母女（热度：193578）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%98%E5%BE%97%E6%98%AFC%E7%BD%97%23" target="weibo">
+还得是C罗（热度：193555）
 </a>
 </li>
 
@@ -7427,12 +7505,6 @@ SZ与imp晋级世冠小组赛（热度：147206）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BC%9A%E5%8A%A8%E7%9A%84%E9%A5%BA%E5%AD%90%E7%9A%AE%E8%A1%A8%E6%83%85%E5%8C%85%E6%9D%A5%E4%BA%86%23" target="weibo">
 会动的饺子皮表情包来了（热度：146130）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8A%A0%E7%BA%B3%20%E9%BB%84%E7%89%8C%23" target="weibo">
-加纳 黄牌（热度：146024）
 </a>
 </li>
 
@@ -8727,6 +8799,12 @@ gidle新歌Nxde微醺live（热度：88111）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A7%A6%E6%96%BD%E9%99%B6%E4%BF%8A%E8%BE%89%E5%88%86%E6%89%8B%E5%8E%9F%E5%9B%A0%E6%98%AF%E7%A7%A6%E6%96%BD%E5%AE%B6%E5%BA%AD%23" target="weibo">
+秦施陶俊辉分手原因是秦施家庭（热度：87089）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%A3%AE%E8%A5%BF%E5%A5%A5%E7%A0%B4%E9%97%A8%23" target="weibo">
 阿森西奥破门（热度：84607）
 </a>
@@ -8751,12 +8829,6 @@ gidle新歌Nxde微醺live（热度：88111）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A7%A6%E6%96%BD%E9%99%B6%E4%BF%8A%E8%BE%89%E5%88%86%E6%89%8B%E5%8E%9F%E5%9B%A0%E6%98%AF%E7%A7%A6%E6%96%BD%E5%AE%B6%E5%BA%AD%23" target="weibo">
-秦施陶俊辉分手原因是秦施家庭（热度：82906）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E9%80%A0%E4%BA%AE%E7%9B%B8%E5%8D%A1%E5%A1%94%E5%B0%94%E4%B8%96%E7%95%8C%E6%9D%AF%23" target="weibo">
 杭州造亮相卡塔尔世界杯（热度：82524）
 </a>
@@ -8765,6 +8837,12 @@ gidle新歌Nxde微醺live（热度：88111）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8D%A3%E8%80%8080%E5%8F%91%E5%B8%83%E4%BC%9A%23" target="weibo">
 荣耀80发布会（热度：81632）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23C%E7%BD%97%E7%AC%AC%E4%B8%80%E7%B2%92%E8%BF%9B%E7%90%83%23" target="weibo">
+C罗第一粒进球（热度：80789）
 </a>
 </li>
 
@@ -8823,6 +8901,12 @@ gidle新歌Nxde微醺live（热度：88111）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23C%E7%BD%97%E6%98%AF%E5%96%9C%E5%89%A7%E4%BA%BA%E5%90%97%23" target="weibo">
+C罗是喜剧人吗（热度：70896）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%A1%E6%9C%89%E5%8B%92%E5%A4%AB%E7%9A%84%E5%BE%B7%E5%9B%BD%E9%98%9F%23" target="weibo">
 没有勒夫的德国队（热度：69564）
 </a>
@@ -8843,6 +8927,12 @@ gidle新歌Nxde微醺live（热度：88111）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9A%94%E7%A6%BB%E5%9C%A8%E6%9C%8B%E5%8F%8B%E5%AE%B6%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C%23" target="weibo">
 隔离在朋友家是什么体验（热度：67987）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E9%BB%8E%E4%B8%96%E5%AE%B6%E5%9B%A0%E5%AE%A3%E4%BC%A0%E7%85%A7%E4%BA%89%E8%AE%AE%E9%81%93%E6%AD%89%23" target="weibo">
+巴黎世家因宣传照争议道歉（热度：65962）
 </a>
 </li>
 
@@ -8891,6 +8981,12 @@ gidle新歌Nxde微醺live（热度：88111）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E7%A5%9E3.3%E7%89%88%E6%9C%AC%E7%9B%B4%E6%92%AD%23" target="weibo">
 原神3.3版本直播（热度：55523）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23C%E7%BD%97%E7%9A%84%E4%BB%BB%E6%84%8F%E7%90%83%E6%9C%89%E5%A4%9A%E5%BC%BA%23" target="weibo">
+C罗的任意球有多强（热度：55232）
 </a>
 </li>
 
