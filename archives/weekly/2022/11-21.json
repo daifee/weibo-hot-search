@@ -1,6 +1,6 @@
 {
   "startTime": 1668961718135,
-  "endTime": 1669275204200,
+  "endTime": 1669278339665,
   "band_list": [
     {
       "raw_hot": 15128338,
@@ -385,6 +385,14 @@
       "onboard_time": 1668957578,
       "rank": 3,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 1769248,
+      "num": 1769248,
+      "word": "女子踩到一颗车厘子摔伤超市赔16万",
+      "onboard_time": 1669273653,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1767460,
@@ -1459,6 +1467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 793140,
+      "num": 313711,
+      "word": "杨幂回应粉丝催进组",
+      "onboard_time": 1669277430,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 784834,
       "num": 784834,
       "word": "25岁小伙辞去公职去看世界杯",
@@ -1473,14 +1489,6 @@
       "onboard_time": 1669001850,
       "rank": 3,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 769749,
-      "num": 769749,
-      "word": "女子踩到一颗车厘子摔伤超市赔16万",
-      "onboard_time": 1669273653,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 768999,
@@ -2011,6 +2019,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 626718,
+      "num": 359292,
+      "word": "宋轶把千金气质拿捏住了",
+      "onboard_time": 1669274611,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 626513,
       "num": 626513,
       "word": "苏醒帮阿根廷在热搜上击败沙特门将",
@@ -2427,14 +2443,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 551064,
-      "num": 359292,
-      "word": "宋轶把千金气质拿捏住了",
-      "onboard_time": 1669274611,
-      "rank": 11,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 549776,
       "num": 549776,
       "word": "LWX",
@@ -2457,6 +2465,14 @@
       "onboard_time": 1669030180,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 544251,
+      "num": 544251,
+      "word": "中国球迷世界杯现场痛哭",
+      "onboard_time": 1669274251,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 543896,
@@ -4619,6 +4635,14 @@
       "category": "综艺,时尚"
     },
     {
+      "raw_hot": 326978,
+      "num": 308855,
+      "word": "张婧仪说跟陈飞宇拍吻戏要踩苹果箱",
+      "onboard_time": 1669277007,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 326488,
       "num": 326488,
       "word": "张艺兴哈佛艺术交流会花絮照",
@@ -4707,6 +4731,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 321049,
+      "num": 321049,
+      "word": "俞灏明回归0713演唱会",
+      "onboard_time": 1669277369,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 320722,
       "num": 320722,
       "word": "22日起进返京人员落地三天三检",
@@ -4745,6 +4777,14 @@
       "onboard_time": 1669114903,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 318816,
+      "num": 318816,
+      "word": "群租和合租有什么区别",
+      "onboard_time": 1669272093,
+      "rank": 19,
+      "category": "社会议题"
     },
     {
       "raw_hot": 317178,
@@ -4905,6 +4945,14 @@
       "onboard_time": 1669162232,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 308414,
+      "num": 308414,
+      "word": "刘芸郑钧的旅行是从吵架开始的",
+      "onboard_time": 1669273653,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 308380,
@@ -5379,6 +5427,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 280305,
+      "num": 280305,
+      "word": "C罗卡塔尔世界杯首秀",
+      "onboard_time": 1669277430,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 280145,
       "num": 280145,
       "word": "墨西哥0比0波兰",
@@ -5481,14 +5537,6 @@
       "onboard_time": 1669202074,
       "rank": 23,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 275052,
-      "num": 275052,
-      "word": "刘芸郑钧的旅行是从吵架开始的",
-      "onboard_time": 1669273653,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 274975,
@@ -5827,14 +5875,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 254711,
-      "num": 254711,
-      "word": "群租和合租有什么区别",
-      "onboard_time": 1669272093,
-      "rank": 19,
-      "category": "社会议题"
-    },
-    {
       "raw_hot": 254678,
       "num": 254678,
       "word": "李峋更博说我回来了",
@@ -5977,6 +6017,14 @@
       "onboard_time": 1669195236,
       "rank": 38,
       "category": "科技"
+    },
+    {
+      "raw_hot": 247425,
+      "num": 226232,
+      "word": "12月的电影院燃起来了",
+      "onboard_time": 1669274068,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 247088,
@@ -6147,6 +6195,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 234585,
+      "num": 225925,
+      "word": "陈乔恩说没有女人想听到保养得好",
+      "onboard_time": 1669277552,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 234329,
       "num": 234329,
       "word": "世界杯上进球最多的国家",
@@ -6251,6 +6307,14 @@
       "category": "幽默,社会新闻"
     },
     {
+      "raw_hot": 228533,
+      "num": 228533,
+      "word": "巴西球星真的来堵管泽元的嘴了",
+      "onboard_time": 1669277189,
+      "rank": 19,
+      "category": "体育,幽默"
+    },
+    {
       "raw_hot": 228293,
       "num": 228293,
       "word": "柯南足球水平",
@@ -6347,11 +6411,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 223676,
+      "num": 223676,
+      "word": "郑恺苗苗的默契",
+      "onboard_time": 1669276772,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 223041,
       "num": 223041,
       "word": "京多安点射破门",
       "onboard_time": 1669212104,
       "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 222678,
+      "num": 222678,
+      "word": "葡萄牙vs加纳",
+      "onboard_time": 1669261774,
+      "rank": 35,
       "category": "体育"
     },
     {
@@ -6603,6 +6683,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 215829,
+      "num": 215829,
+      "word": "男孩从不及格逆袭到97分全班欢呼",
+      "onboard_time": 1669275151,
+      "rank": 49,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 215641,
       "num": 167258,
       "word": "汤唯出席韩国影评奖颁奖礼",
@@ -6617,6 +6705,14 @@
       "onboard_time": 1669266635,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 215427,
+      "num": 215427,
+      "word": "南京玄武湖网红猫萌到犯规",
+      "onboard_time": 1669273472,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 215403,
@@ -6723,6 +6819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 210340,
+      "num": 210340,
+      "word": "刘强东批评高管讲故事太多",
+      "onboard_time": 1669276472,
+      "rank": 29,
+      "category": "科技"
+    },
+    {
       "raw_hot": 209684,
       "num": 209684,
       "word": "刘雨昕鞠婧祎沈梦瑶东方风云榜彩排照",
@@ -6769,14 +6873,6 @@
       "onboard_time": 1669167871,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 207100,
-      "num": 207100,
-      "word": "葡萄牙vs加纳",
-      "onboard_time": 1669261774,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 207078,
@@ -6859,6 +6955,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 203897,
+      "num": 203897,
+      "word": "制片人说郝葭的第一人选就是陈小纭",
+      "onboard_time": 1669273353,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 203838,
       "num": 203838,
       "word": "鹿晗不插电live专辑上线",
@@ -6897,6 +7001,14 @@
       "onboard_time": 1669219716,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 202529,
+      "num": 202529,
+      "word": "穿搭瞬间就不好看了",
+      "onboard_time": 1669275510,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 202459,
@@ -6963,11 +7075,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 200582,
+      "num": 200582,
+      "word": "李峋的搜索栏内容都和朱韵有关",
+      "onboard_time": 1669277611,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 200460,
       "num": 193022,
       "word": "朱韵是懂李峋的",
       "onboard_time": 1669112672,
       "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 199524,
+      "num": 199524,
+      "word": "尹峥尹岐盯妻狂魔",
+      "onboard_time": 1669276291,
+      "rank": 35,
       "category": "影视"
     },
     {
@@ -7297,6 +7425,14 @@
       "onboard_time": 1669208315,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 191586,
+      "num": 191586,
+      "word": "消防员火场救出一窝熏黑的小白兔",
+      "onboard_time": 1669276052,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 191557,
@@ -7715,14 +7851,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 178237,
-      "num": 162800,
-      "word": "制片人说郝葭的第一人选就是陈小纭",
-      "onboard_time": 1669273353,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 178092,
       "num": 178092,
       "word": "白敬亭新剧演乘警",
@@ -7769,14 +7897,6 @@
       "onboard_time": 1669041283,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 177128,
-      "num": 177128,
-      "word": "12月的电影院燃起来了",
-      "onboard_time": 1669274068,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 176436,
@@ -7896,14 +8016,6 @@
       "word": "德国队控球率",
       "onboard_time": 1669223121,
       "rank": 45,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 171993,
-      "num": 171993,
-      "word": "中国球迷世界杯现场痛哭",
-      "onboard_time": 1669274251,
-      "rank": 48,
       "category": "体育"
     },
     {
@@ -8027,19 +8139,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 167976,
-      "num": 167976,
-      "word": "南京玄武湖网红猫萌到犯规",
-      "onboard_time": 1669273472,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 167887,
       "num": 167887,
       "word": "官方辟谣荔枝园核酸检测造假",
       "onboard_time": 1669108172,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 166728,
+      "num": 166728,
+      "word": "长春疫情防控",
+      "onboard_time": 1669278270,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -8057,6 +8169,14 @@
       "onboard_time": 1669213238,
       "rank": 46,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 165564,
+      "num": 165564,
+      "word": "C罗和内马尔今日首秀",
+      "onboard_time": 1669277490,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 164149,
@@ -8216,6 +8336,14 @@
       "word": "你好李焕英将在韩国上映",
       "onboard_time": 1669261354,
       "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 159760,
+      "num": 159760,
+      "word": "李峋看朱韵的眼神里都是爱意",
+      "onboard_time": 1669275212,
+      "rank": 40,
       "category": "影视"
     },
     {
@@ -8859,6 +8987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 140987,
+      "num": 140987,
+      "word": "巴西球迷求管泽元闭嘴",
+      "onboard_time": 1669277728,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 139937,
       "num": 139937,
       "word": "厄瓜多尔将进球献给已故队友",
@@ -8953,6 +9089,14 @@
       "onboard_time": 1669096835,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 136823,
+      "num": 136823,
+      "word": "研究表明创造力是可以训练的",
+      "onboard_time": 1669278093,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 136803,
@@ -9833,14 +9977,6 @@
       "onboard_time": 1669011574,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 106550,
-      "num": 106550,
-      "word": "男孩从不及格逆袭到97分全班欢呼",
-      "onboard_time": 1669275151,
-      "rank": 49,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 106406,
