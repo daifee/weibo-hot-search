@@ -1,0 +1,410 @@
+{
+  "runTime": 1669281558302,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1335723,
+        "num": 1335723,
+        "word": "女子踩到一颗车厘子摔伤超市赔16万",
+        "onboard_time": 1669273653,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 739088,
+        "num": 739088,
+        "word": "陈乔恩说没有女人想听到保养得好",
+        "onboard_time": 1669277552,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53301,
+        "num": 689423,
+        "word": "多视角记录空军女飞行员首次单飞",
+        "onboard_time": 1669262012,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 674689,
+        "num": 674689,
+        "word": "巴西球星真的来堵管泽元的嘴了",
+        "onboard_time": 1669277189,
+        "rank": 3,
+        "category": "体育,幽默"
+      },
+      {
+        "raw_hot": 645220,
+        "num": 645220,
+        "word": "日本队为14秒失误研究了一年",
+        "onboard_time": 1669279109,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 578723,
+        "num": 578723,
+        "word": "离个婚能有多不体面",
+        "onboard_time": 1669260694,
+        "rank": 5,
+        "category": "情感,影视"
+      },
+      {
+        "raw_hot": 558018,
+        "num": 558018,
+        "word": "长春疫情防控",
+        "onboard_time": 1669278270,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 486395,
+        "num": 486395,
+        "word": "中国球迷世界杯现场痛哭",
+        "onboard_time": 1669274251,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 464389,
+        "num": 464389,
+        "word": "谭松韵近五年90花收视冠军",
+        "onboard_time": 1669279890,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 454421,
+        "num": 454421,
+        "word": "日本大叔说下次轮到中国赢德国",
+        "onboard_time": 1669263632,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 824833,
+        "num": 441074,
+        "word": "宋轶把千金气质拿捏住了",
+        "onboard_time": 1669274611,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 634655,
+        "num": 440633,
+        "word": "刘强东3小时内部发言",
+        "onboard_time": 1669269872,
+        "rank": 11,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 584347,
+        "num": 430390,
+        "word": "台湾是中国的",
+        "onboard_time": 1669280670,
+        "rank": 12,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 398834,
+        "num": 398834,
+        "word": "朱韵救了李峋",
+        "onboard_time": 1669278571,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 391820,
+        "num": 391820,
+        "word": "杨幂回应粉丝催进组",
+        "onboard_time": 1669277430,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 344380,
+        "num": 344380,
+        "word": "C罗和内马尔今日首秀",
+        "onboard_time": 1669277490,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 317782,
+        "num": 317782,
+        "word": "世界杯",
+        "onboard_time": 1669272872,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 290808,
+        "num": 290808,
+        "word": "C罗说要让所有葡萄牙人骄傲",
+        "onboard_time": 1669269991,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 274588,
+        "num": 274588,
+        "word": "为什么经期前会莫名emo",
+        "onboard_time": 1669271012,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 267152,
+        "num": 267152,
+        "word": "C罗卡塔尔世界杯首秀",
+        "onboard_time": 1669277430,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 275255,
+        "num": 264105,
+        "word": "北京新增1例死亡病例情况",
+        "onboard_time": 1669266158,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257108,
+        "num": 257108,
+        "word": "张婧仪说跟陈飞宇拍吻戏要踩苹果箱",
+        "onboard_time": 1669277007,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 248349,
+        "num": 248349,
+        "word": "尹峥尹岐盯妻狂魔",
+        "onboard_time": 1669276291,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 236566,
+        "num": 236566,
+        "word": "穿搭瞬间就不好看了",
+        "onboard_time": 1669275510,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 223945,
+        "num": 223945,
+        "word": "瑞士vs喀麦隆",
+        "onboard_time": 1669279228,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 212319,
+        "num": 212319,
+        "word": "巴西球迷求管泽元闭嘴",
+        "onboard_time": 1669277728,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211955,
+        "num": 211955,
+        "word": "莫让赌球毁了年轻干部",
+        "onboard_time": 1669262073,
+        "rank": 26,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 209082,
+        "num": 209082,
+        "word": "12月的电影院燃起来了",
+        "onboard_time": 1669274068,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 208110,
+        "num": 208110,
+        "word": "消防员火场救出一窝熏黑的小白兔",
+        "onboard_time": 1669276052,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205955,
+        "num": 205955,
+        "word": "孕妇过度营养致胰腺炎血液像豆浆",
+        "onboard_time": 1669280309,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334309,
+        "num": 203337,
+        "word": "郑恺背苗苗爬楼梯",
+        "onboard_time": 1669280730,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199361,
+        "num": 199361,
+        "word": "俞灏明回归0713演唱会",
+        "onboard_time": 1669277369,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185223,
+        "num": 185223,
+        "word": "3块5在南昌实现拌粉自由",
+        "onboard_time": 1669279771,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 178519,
+        "num": 178519,
+        "word": "厌倦吃席女孩将农村婚礼办成游园会",
+        "onboard_time": 1669269033,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177844,
+        "num": 177844,
+        "word": "男孩从不及格逆袭到97分全班欢呼",
+        "onboard_time": 1669275151,
+        "rank": 34,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 172929,
+        "num": 172929,
+        "word": "群租和合租有什么区别",
+        "onboard_time": 1669272093,
+        "rank": 35,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 171871,
+        "num": 171871,
+        "word": "刘强东称将末位淘汰部分京东高管",
+        "onboard_time": 1669270412,
+        "rank": 36,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 169795,
+        "num": 169795,
+        "word": "妻子的浪漫旅行",
+        "onboard_time": 1669280071,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159728,
+        "num": 159728,
+        "word": "国防部回应美发布涉台报告",
+        "onboard_time": 1669281152,
+        "rank": 38,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 167320,
+        "num": 158389,
+        "word": "刘强东批评高管讲故事太多",
+        "onboard_time": 1669276472,
+        "rank": 39,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 151384,
+        "num": 151384,
+        "word": "制片人说郝葭的第一人选就是陈小纭",
+        "onboard_time": 1669273353,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 144606,
+        "num": 144606,
+        "word": "原来买毛衣要先看面料",
+        "onboard_time": 1669280850,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 141422,
+        "num": 141422,
+        "word": "刘芸郑钧的旅行是从吵架开始的",
+        "onboard_time": 1669273653,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140689,
+        "num": 140689,
+        "word": "日本赢球各国球迷祝贺中国小伙",
+        "onboard_time": 1669280730,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132477,
+        "num": 132477,
+        "word": "今晚打算熬夜看球吗",
+        "onboard_time": 1669280969,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127428,
+        "num": 127428,
+        "word": "葡萄牙vs加纳",
+        "onboard_time": 1669261774,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122689,
+        "num": 122689,
+        "word": "李峋的搜索栏内容都和朱韵有关",
+        "onboard_time": 1669277611,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 120938,
+        "num": 120938,
+        "word": "南京玄武湖网红猫萌到犯规",
+        "onboard_time": 1669273472,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119921,
+        "num": 119921,
+        "word": "男足失误名场面",
+        "onboard_time": 1669281451,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118503,
+        "num": 118503,
+        "word": "管泽元说巴西不夺冠剃光头",
+        "onboard_time": 1669281391,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国2021年专利数全球最高#"
+    }
+  }
+}
