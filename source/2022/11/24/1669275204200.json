@@ -1,0 +1,410 @@
+{
+  "runTime": 1669275204200,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 941017,
+        "num": 941017,
+        "word": "离个婚能有多不体面",
+        "onboard_time": 1669260694,
+        "rank": 0,
+        "category": "情感,影视"
+      },
+      {
+        "raw_hot": 769749,
+        "num": 769749,
+        "word": "女子踩到一颗车厘子摔伤超市赔16万",
+        "onboard_time": 1669273653,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93966,
+        "num": 649869,
+        "word": "多视角记录空军女飞行员首次单飞",
+        "onboard_time": 1669262012,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 3040459,
+        "num": 639868,
+        "word": "无大碍 已和好",
+        "onboard_time": 1669263274,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 890535,
+        "num": 639421,
+        "word": "为什么经期前会莫名emo",
+        "onboard_time": 1669271012,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 629740,
+        "num": 629740,
+        "word": "日本大叔说下次轮到中国赢德国",
+        "onboard_time": 1669263632,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 445126,
+        "num": 445126,
+        "word": "C罗说要让所有葡萄牙人骄傲",
+        "onboard_time": 1669269991,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 433309,
+        "num": 433309,
+        "word": "莫让赌球毁了年轻干部",
+        "onboard_time": 1669262073,
+        "rank": 7,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 377907,
+        "num": 377907,
+        "word": "厌倦吃席女孩将农村婚礼办成游园会",
+        "onboard_time": 1669269033,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368474,
+        "num": 368474,
+        "word": "世界杯",
+        "onboard_time": 1669272872,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1434114,
+        "num": 363902,
+        "word": "刘强东3小时内部发言",
+        "onboard_time": 1669269872,
+        "rank": 10,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 551064,
+        "num": 359292,
+        "word": "宋轶把千金气质拿捏住了",
+        "onboard_time": 1669274611,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 348559,
+        "num": 348559,
+        "word": "谁还走不出于途乔晶晶雪地名场面",
+        "onboard_time": 1669265434,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 524887,
+        "num": 324554,
+        "word": "刘强东称将末位淘汰部分京东高管",
+        "onboard_time": 1669270412,
+        "rank": 13,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 288227,
+        "num": 288227,
+        "word": "卡塔尔是懂指路的",
+        "onboard_time": 1669271611,
+        "rank": 14,
+        "category": "体育,幽默"
+      },
+      {
+        "raw_hot": 277592,
+        "num": 277592,
+        "word": "陕西老乔宣布儿子退出带货直播间",
+        "onboard_time": 1669267173,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275052,
+        "num": 275052,
+        "word": "刘芸郑钧的旅行是从吵架开始的",
+        "onboard_time": 1669273653,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 274916,
+        "num": 274916,
+        "word": "女子深夜打110点奶茶民警秒懂",
+        "onboard_time": 1669255295,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254845,
+        "num": 254845,
+        "word": "上海立法禁止群租",
+        "onboard_time": 1669257630,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254711,
+        "num": 254711,
+        "word": "群租和合租有什么区别",
+        "onboard_time": 1669272093,
+        "rank": 19,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 462698,
+        "num": 244531,
+        "word": "北京新增1例死亡病例情况",
+        "onboard_time": 1669266158,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233402,
+        "num": 233402,
+        "word": "压力来到韩国这边",
+        "onboard_time": 1669253074,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221155,
+        "num": 221155,
+        "word": "谢娜分享秋游vlog",
+        "onboard_time": 1669273411,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213645,
+        "num": 213645,
+        "word": "尹嵩精神状态",
+        "onboard_time": 1669271671,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 192944,
+        "num": 192944,
+        "word": "许佳琪官宣年末个人企划",
+        "onboard_time": 1669271071,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 190484,
+        "num": 190484,
+        "word": "沈月撕漫赛车手大片",
+        "onboard_time": 1669271431,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 190050,
+        "num": 190050,
+        "word": "巴西vs塞尔维亚",
+        "onboard_time": 1669263032,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188169,
+        "num": 188169,
+        "word": "马嘉祺我们的歌月亮直拍",
+        "onboard_time": 1669274552,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183577,
+        "num": 183577,
+        "word": "丈夫为妻子设计可穿高跟鞋的假肢",
+        "onboard_time": 1669268076,
+        "rank": 28,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 178525,
+        "num": 178525,
+        "word": "北京取消2022年度9项资格考试",
+        "onboard_time": 1669257091,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 185639,
+        "num": 178517,
+        "word": "白敬亭田曦薇救人戏花絮",
+        "onboard_time": 1669273653,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 177128,
+        "num": 177128,
+        "word": "12月的电影院燃起来了",
+        "onboard_time": 1669274068,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 171993,
+        "num": 171993,
+        "word": "中国球迷世界杯现场痛哭",
+        "onboard_time": 1669274251,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171686,
+        "num": 171686,
+        "word": "孩子打闹家长上门道歉被扇耳光",
+        "onboard_time": 1669261172,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169579,
+        "num": 169579,
+        "word": "司机捡手机执意索要500元感谢费",
+        "onboard_time": 1669271191,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167976,
+        "num": 167976,
+        "word": "南京玄武湖网红猫萌到犯规",
+        "onboard_time": 1669273472,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161392,
+        "num": 161392,
+        "word": "爸爸下班看到女儿开心到原地跺脚",
+        "onboard_time": 1669264178,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158325,
+        "num": 158325,
+        "word": "女子跟老公在一起5年陪读4年",
+        "onboard_time": 1669259673,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158206,
+        "num": 158206,
+        "word": "为什么卿卿日常不适合倍速看",
+        "onboard_time": 1669258350,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 137110,
+        "num": 137110,
+        "word": "郑州将用5天时间打一场疫情防控歼灭战",
+        "onboard_time": 1669252235,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147356,
+        "num": 137028,
+        "word": "制片人说郝葭的第一人选就是陈小纭",
+        "onboard_time": 1669273353,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 136784,
+        "num": 136784,
+        "word": "杨蒙恩的大白",
+        "onboard_time": 1669272634,
+        "rank": 41,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 135392,
+        "num": 135392,
+        "word": "义乌老板娘能有多卷",
+        "onboard_time": 1669266635,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 122963,
+        "num": 123326,
+        "word": "内存大手机就不会卡吗",
+        "onboard_time": 1669273353,
+        "rank": 43,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 122675,
+        "num": 122675,
+        "word": "放牛班的春天内地定档12月2日",
+        "onboard_time": 1669268549,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 120256,
+        "num": 120256,
+        "word": "为什么真的不建议你去赌球",
+        "onboard_time": 1669253495,
+        "rank": 45,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 120053,
+        "num": 120053,
+        "word": "猫咪好像是坐电梯上来的",
+        "onboard_time": 1669267954,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 111585,
+        "num": 111585,
+        "word": "世界杯预测",
+        "onboard_time": 1669267775,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108020,
+        "num": 108020,
+        "word": "葡萄牙vs加纳",
+        "onboard_time": 1669261774,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106550,
+        "num": 106550,
+        "word": "男孩从不及格逆袭到97分全班欢呼",
+        "onboard_time": 1669275151,
+        "rank": 49,
+        "category": "社会新闻,教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#让互联网的发展成果更好地造福全人类#"
+    }
+  }
+}

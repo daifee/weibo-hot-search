@@ -1,6 +1,6 @@
 {
   "startTime": 1669220901508,
-  "endTime": 1669274299407,
+  "endTime": 1669275204200,
   "band_list": [
     {
       "raw_hot": 3655570,
@@ -203,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 890535,
+      "num": 802248,
+      "word": "为什么经期前会莫名emo",
+      "onboard_time": 1669271012,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 844532,
       "num": 844532,
       "word": "西班牙好稳",
@@ -227,14 +235,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 802248,
-      "num": 802248,
-      "word": "为什么经期前会莫名emo",
-      "onboard_time": 1669271012,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
       "raw_hot": 800208,
       "num": 800208,
       "word": "终于明白了什么叫世界杯死亡之组",
@@ -257,6 +257,14 @@
       "onboard_time": 1669215110,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 769749,
+      "num": 769749,
+      "word": "女子踩到一颗车厘子摔伤超市赔16万",
+      "onboard_time": 1669273653,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 768999,
@@ -411,6 +419,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 551064,
+      "num": 359292,
+      "word": "宋轶把千金气质拿捏住了",
+      "onboard_time": 1669274611,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 547392,
       "num": 547392,
       "word": "广州新增本土感染者7620例",
@@ -472,6 +488,14 @@
       "word": "C罗今晚会取得进球吗",
       "onboard_time": 1669260330,
       "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 445126,
+      "num": 445126,
+      "word": "C罗说要让所有葡萄牙人骄傲",
+      "onboard_time": 1669269991,
+      "rank": 38,
       "category": "体育"
     },
     {
@@ -547,16 +571,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 403686,
-      "num": 403686,
-      "word": "C罗说要让所有葡萄牙人骄傲",
-      "onboard_time": 1669269991,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 396519,
-      "num": 356545,
+      "num": 377907,
       "word": "厌倦吃席女孩将农村婚礼办成游园会",
       "onboard_time": 1669269033,
       "rank": 29,
@@ -819,20 +835,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 288227,
+      "num": 288227,
+      "word": "卡塔尔是懂指路的",
+      "onboard_time": 1669271611,
+      "rank": 40,
+      "category": "体育,幽默"
+    },
+    {
       "raw_hot": 285242,
       "num": 285242,
       "word": "比利时vs加拿大",
       "onboard_time": 1669217865,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 284696,
-      "num": 284696,
-      "word": "女子踩到一颗车厘子摔伤超市赔16万",
-      "onboard_time": 1669273653,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 284520,
@@ -907,6 +923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 275052,
+      "num": 275052,
+      "word": "刘芸郑钧的旅行是从吵架开始的",
+      "onboard_time": 1669273653,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 269629,
       "num": 269629,
       "word": "内马尔被针对是有原因的",
@@ -971,6 +995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 254711,
+      "num": 254711,
+      "word": "群租和合租有什么区别",
+      "onboard_time": 1669272093,
+      "rank": 19,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 252722,
       "num": 252722,
       "word": "比利时1比0加拿大",
@@ -1003,14 +1035,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 249884,
-      "num": 249884,
-      "word": "群租和合租有什么区别",
-      "onboard_time": 1669272093,
-      "rank": 19,
-      "category": "社会议题"
-    },
-    {
       "raw_hot": 247915,
       "num": 247915,
       "word": "沙特后卫对梅西放狠话",
@@ -1041,14 +1065,6 @@
       "onboard_time": 1669271671,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 241173,
-      "num": 241173,
-      "word": "卡塔尔是懂指路的",
-      "onboard_time": 1669271611,
-      "rank": 40,
-      "category": "体育,幽默"
     },
     {
       "raw_hot": 234329,
@@ -1203,14 +1219,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 205807,
-      "num": 205807,
-      "word": "刘芸郑钧的旅行是从吵架开始的",
-      "onboard_time": 1669273653,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 204202,
       "num": 204202,
       "word": "北京最新核酸查验要求",
@@ -1323,6 +1331,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 188169,
+      "num": 188169,
+      "word": "马嘉祺我们的歌月亮直拍",
+      "onboard_time": 1669274552,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 186943,
       "num": 186943,
       "word": "勇士战胜快船",
@@ -1403,6 +1419,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 177128,
+      "num": 177128,
+      "word": "12月的电影院燃起来了",
+      "onboard_time": 1669274068,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 175037,
       "num": 175037,
       "word": "连花清瘟断货后出现涨价",
@@ -1435,6 +1459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 171993,
+      "num": 171993,
+      "word": "中国球迷世界杯现场痛哭",
+      "onboard_time": 1669274251,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 171556,
       "num": 171556,
       "word": "Jennie最新杂志海报",
@@ -1449,6 +1481,14 @@
       "onboard_time": 1669245084,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 167976,
+      "num": 167976,
+      "word": "南京玄武湖网红猫萌到犯规",
+      "onboard_time": 1669273472,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 165368,
@@ -1747,14 +1787,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 131124,
-      "num": 131124,
-      "word": "12月的电影院燃起来了",
-      "onboard_time": 1669274068,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 129524,
       "num": 129524,
       "word": "足球少年在雪山下的梦幻球场训练",
@@ -1769,14 +1801,6 @@
       "onboard_time": 1669263395,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 128259,
-      "num": 128259,
-      "word": "南京玄武湖网红猫萌到犯规",
-      "onboard_time": 1669273472,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 127210,
@@ -1819,20 +1843,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 114004,
-      "num": 114004,
-      "word": "中国球迷世界杯现场痛哭",
-      "onboard_time": 1669274251,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 107360,
       "num": 70432,
       "word": "莫拉塔破门",
       "onboard_time": 1669227435,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 106550,
+      "num": 106550,
+      "word": "男孩从不及格逆袭到97分全班欢呼",
+      "onboard_time": 1669275151,
+      "rank": 49,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 104943,
