@@ -1,6 +1,6 @@
 {
   "startTime": 1668961718135,
-  "endTime": 1669271100216,
+  "endTime": 1669272047535,
   "band_list": [
     {
       "raw_hot": 15128338,
@@ -75,8 +75,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 3577628,
-      "num": 3577628,
+      "raw_hot": 3620308,
+      "num": 3620308,
       "word": "无大碍 已和好",
       "onboard_time": 1669263274,
       "rank": 33,
@@ -873,6 +873,14 @@
       "onboard_time": 1669263632,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1151956,
+      "num": 413404,
+      "word": "刘强东3小时内部发言",
+      "onboard_time": 1669269872,
+      "rank": 10,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 1144683,
@@ -2123,14 +2131,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 594086,
-      "num": 413404,
-      "word": "刘强东3小时内部发言",
-      "onboard_time": 1669269872,
-      "rank": 10,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 593647,
       "num": 593647,
       "word": "Doinb爆料EDG",
@@ -2172,7 +2172,7 @@
     },
     {
       "raw_hot": 583581,
-      "num": 397108,
+      "num": 534541,
       "word": "陕西老乔宣布儿子退出带货直播间",
       "onboard_time": 1669267173,
       "rank": 25,
@@ -4259,6 +4259,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 345053,
+      "num": 345053,
+      "word": "为什么经期前会莫名emo",
+      "onboard_time": 1669271012,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 344816,
       "num": 344816,
       "word": "卡塔尔集装箱球迷村全部是中国制造",
@@ -4297,6 +4305,14 @@
       "onboard_time": 1669188573,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 342412,
+      "num": 342412,
+      "word": "许佳琪官宣年末个人企划",
+      "onboard_time": 1669271071,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 342348,
@@ -4705,6 +4721,14 @@
       "onboard_time": 1669201299,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 315072,
+      "num": 315072,
+      "word": "刘强东称将末位淘汰部分京东高管",
+      "onboard_time": 1669270412,
+      "rank": 23,
+      "category": "科技"
     },
     {
       "raw_hot": 314856,
@@ -5443,14 +5467,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 273325,
-      "num": 135099,
-      "word": "许佳琪官宣年末个人企划",
-      "onboard_time": 1669271071,
-      "rank": 47,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 272713,
       "num": 272713,
       "word": "女子遛狗没牵住金毛追赶老人和小孩",
@@ -6139,6 +6155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 230225,
+      "num": 230225,
+      "word": "丈夫为妻子设计可穿高跟鞋的假肢",
+      "onboard_time": 1669268076,
+      "rank": 24,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 230168,
       "num": 215943,
       "word": "卿卿日常李薇被扇耳光",
@@ -6169,6 +6193,14 @@
       "onboard_time": 1669175015,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 227791,
+      "num": 227791,
+      "word": "厌倦吃席女孩将农村婚礼办成游园会",
+      "onboard_time": 1669269033,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 227671,
@@ -6267,12 +6299,28 @@
       "category": "科技"
     },
     {
+      "raw_hot": 221990,
+      "num": 221990,
+      "word": "沈月撕漫赛车手大片",
+      "onboard_time": 1669271431,
+      "rank": 23,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 221782,
       "num": 221782,
       "word": "高见鸿故意激怒李峋",
       "onboard_time": 1669021654,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 221751,
+      "num": 221751,
+      "word": "C罗说要让所有葡萄牙人骄傲",
+      "onboard_time": 1669269991,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 220351,
@@ -6595,6 +6643,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 211480,
+      "num": 211480,
+      "word": "尹嵩精神状态",
+      "onboard_time": 1669271671,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 211057,
       "num": 211057,
       "word": "你的背包背到现在还没烂",
@@ -6617,6 +6673,14 @@
       "onboard_time": 1669263995,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 209671,
+      "num": 209671,
+      "word": "巴西vs塞尔维亚",
+      "onboard_time": 1669263032,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 209181,
@@ -7115,14 +7179,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 193087,
-      "num": 193087,
-      "word": "刘强东称将末位淘汰部分京东高管",
-      "onboard_time": 1669270412,
-      "rank": 23,
-      "category": "科技"
-    },
-    {
       "raw_hot": 193060,
       "num": 226670,
       "word": "9人捕捞极危长江鲟吃了3尾养死3尾",
@@ -7171,28 +7227,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 191833,
-      "num": 191833,
-      "word": "巴西vs塞尔维亚",
-      "onboard_time": 1669263032,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 191557,
       "num": 191557,
       "word": "李峋不锈钢的嘴棉花糖的心",
       "onboard_time": 1669112493,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 191430,
-      "num": 191430,
-      "word": "丈夫为妻子设计可穿高跟鞋的假肢",
-      "onboard_time": 1669268076,
-      "rank": 24,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 191409,
@@ -7329,6 +7369,14 @@
       "onboard_time": 1669109191,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 186943,
+      "num": 186943,
+      "word": "勇士战胜快船",
+      "onboard_time": 1669270890,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 186898,
@@ -7529,14 +7577,6 @@
       "onboard_time": 1669094974,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 180021,
-      "num": 180021,
-      "word": "厌倦吃席女孩将农村婚礼办成游园会",
-      "onboard_time": 1669269033,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 179641,
@@ -7971,14 +8011,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 162484,
-      "num": 162484,
-      "word": "勇士战胜快船",
-      "onboard_time": 1669270890,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 162268,
       "num": 162268,
       "word": "马嘉祺每次和宋亚轩一起去小卖部",
@@ -8203,11 +8235,11 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 155507,
-      "num": 155507,
-      "word": "C罗说要让所有葡萄牙人骄傲",
-      "onboard_time": 1669269991,
-      "rank": 38,
+      "raw_hot": 154547,
+      "num": 154547,
+      "word": "这是C罗最后一届世界杯了",
+      "onboard_time": 1669271671,
+      "rank": 34,
       "category": "体育"
     },
     {
@@ -8499,6 +8531,22 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 146001,
+      "num": 146001,
+      "word": "杨颖冲浪比心vlog",
+      "onboard_time": 1669269331,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 145999,
+      "num": 145999,
+      "word": "这家人是有点戏瘾在身上的",
+      "onboard_time": 1669271671,
+      "rank": 38,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 145865,
       "num": 145865,
       "word": "男子8天把大鱼海棠土楼搬进鱼缸",
@@ -8513,6 +8561,14 @@
       "onboard_time": 1669265497,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 145834,
+      "num": 145834,
+      "word": "司机捡手机执意索要500元感谢费",
+      "onboard_time": 1669271191,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 145603,
@@ -8593,6 +8649,14 @@
       "onboard_time": 1669168411,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 143721,
+      "num": 143721,
+      "word": "卡塔尔是懂指路的",
+      "onboard_time": 1669271611,
+      "rank": 40,
+      "category": "体育,幽默"
     },
     {
       "raw_hot": 143676,
@@ -8995,14 +9059,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 129567,
-      "num": 129567,
-      "word": "为什么经期前会莫名emo",
-      "onboard_time": 1669271012,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
       "raw_hot": 129524,
       "num": 129524,
       "word": "足球少年在雪山下的梦幻球场训练",
@@ -9041,14 +9097,6 @@
       "onboard_time": 1669109191,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 128741,
-      "num": 128741,
-      "word": "杨颖冲浪比心vlog",
-      "onboard_time": 1669269331,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 128624,
@@ -9233,6 +9281,14 @@
       "onboard_time": 1669136127,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 121490,
+      "num": 121490,
+      "word": "孙女订婚8旬爷爷提笔送祝福",
+      "onboard_time": 1669272030,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 121460,
@@ -10449,6 +10505,9 @@
     },
     {
       "word": "#让互联网的发展成果更好地造福全人类#"
+    },
+    {
+      "word": "#中国2021年专利数全球最高#"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1669271100216,
+  "endTime": 1669272047535,
   "band_list": [
     {
       "raw_hot": 15128338,
@@ -227,19 +227,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 3620308,
+      "num": 3620308,
+      "word": "无大碍 已和好",
+      "onboard_time": 1669263274,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 3608962,
       "num": 696639,
       "word": "奶茶店因服务员先说欢迎光临被封",
       "onboard_time": 1668155621,
       "rank": 12,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 3577628,
-      "num": 3577628,
-      "word": "无大碍 已和好",
-      "onboard_time": 1669263274,
-      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -3665,6 +3665,14 @@
       "onboard_time": 1667547991,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1151956,
+      "num": 413404,
+      "word": "刘强东3小时内部发言",
+      "onboard_time": 1669269872,
+      "rank": 10,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 1151859,
@@ -9955,14 +9963,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 594086,
-      "num": 413404,
-      "word": "刘强东3小时内部发言",
-      "onboard_time": 1669269872,
-      "rank": 10,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 593647,
       "num": 593647,
       "word": "Doinb爆料EDG",
@@ -10188,7 +10188,7 @@
     },
     {
       "raw_hot": 583581,
-      "num": 397108,
+      "num": 534541,
       "word": "陕西老乔宣布儿子退出带货直播间",
       "onboard_time": 1669267173,
       "rank": 25,
@@ -19931,6 +19931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 345053,
+      "num": 345053,
+      "word": "为什么经期前会莫名emo",
+      "onboard_time": 1669271012,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 344863,
       "num": 344863,
       "word": "邢菲活动好甜",
@@ -20129,6 +20137,14 @@
       "onboard_time": 1668593309,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 342412,
+      "num": 342412,
+      "word": "许佳琪官宣年末个人企划",
+      "onboard_time": 1669271071,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 342348,
@@ -21993,6 +22009,14 @@
       "onboard_time": 1667555430,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 315072,
+      "num": 315072,
+      "word": "刘强东称将末位淘汰部分京东高管",
+      "onboard_time": 1669270412,
+      "rank": 23,
+      "category": "科技"
     },
     {
       "raw_hot": 315015,
@@ -25081,14 +25105,6 @@
       "onboard_time": 1667745875,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 273325,
-      "num": 135099,
-      "word": "许佳琪官宣年末个人企划",
-      "onboard_time": 1669271071,
-      "rank": 47,
-      "category": "音乐"
     },
     {
       "raw_hot": 273133,
@@ -28515,6 +28531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 230225,
+      "num": 230225,
+      "word": "丈夫为妻子设计可穿高跟鞋的假肢",
+      "onboard_time": 1669268076,
+      "rank": 24,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 230200,
       "num": 230200,
       "word": "陈飞宇演的李峋好会",
@@ -28793,6 +28817,14 @@
       "onboard_time": 1667926101,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 227791,
+      "num": 227791,
+      "word": "厌倦吃席女孩将农村婚礼办成游园会",
+      "onboard_time": 1669269033,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 227671,
@@ -29451,6 +29483,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 221990,
+      "num": 221990,
+      "word": "沈月撕漫赛车手大片",
+      "onboard_time": 1669271431,
+      "rank": 23,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 221800,
       "num": 175060,
       "word": "林俊杰演唱会",
@@ -29465,6 +29505,14 @@
       "onboard_time": 1669021654,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 221751,
+      "num": 221751,
+      "word": "C罗说要让所有葡萄牙人骄傲",
+      "onboard_time": 1669269991,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 221465,
@@ -30611,6 +30659,14 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 211480,
+      "num": 211480,
+      "word": "尹嵩精神状态",
+      "onboard_time": 1669271671,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 211466,
       "num": 211466,
       "word": "山东省考",
@@ -30793,6 +30849,14 @@
       "onboard_time": 1669263995,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 209671,
+      "num": 209671,
+      "word": "巴西vs塞尔维亚",
+      "onboard_time": 1669263032,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 209640,
@@ -32875,14 +32939,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 193087,
-      "num": 193087,
-      "word": "刘强东称将末位淘汰部分京东高管",
-      "onboard_time": 1669270412,
-      "rank": 23,
-      "category": "科技"
-    },
-    {
       "raw_hot": 193060,
       "num": 226670,
       "word": "9人捕捞极危长江鲟吃了3尾养死3尾",
@@ -33011,14 +33067,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 191833,
-      "num": 191833,
-      "word": "巴西vs塞尔维亚",
-      "onboard_time": 1669263032,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 191782,
       "num": 191782,
       "word": "陪主人打麻将昏昏欲睡的狗",
@@ -33073,14 +33121,6 @@
       "onboard_time": 1668085462,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 191430,
-      "num": 191430,
-      "word": "丈夫为妻子设计可穿高跟鞋的假肢",
-      "onboard_time": 1669268076,
-      "rank": 24,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 191409,
@@ -33752,6 +33792,14 @@
       "word": "世界杯上10号球衣名场面",
       "onboard_time": 1668940768,
       "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 186943,
+      "num": 186943,
+      "word": "勇士战胜快船",
+      "onboard_time": 1669270890,
+      "rank": 34,
       "category": "体育"
     },
     {
@@ -34648,14 +34696,6 @@
       "word": "女童吃包子被噎民警小姐姐一招救回",
       "onboard_time": 1667989166,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 180021,
-      "num": 180021,
-      "word": "厌倦吃席女孩将农村婚礼办成游园会",
-      "onboard_time": 1669269033,
-      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -36763,14 +36803,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 162484,
-      "num": 162484,
-      "word": "勇士战胜快船",
-      "onboard_time": 1669270890,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 162467,
       "num": 162467,
       "word": "KPL",
@@ -37907,14 +37939,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 155507,
-      "num": 155507,
-      "word": "C罗说要让所有葡萄牙人骄傲",
-      "onboard_time": 1669269991,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 155503,
       "num": 155503,
       "word": "这就是小猫养小猫吧",
@@ -38009,6 +38033,14 @@
       "onboard_time": 1667741792,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 154547,
+      "num": 154547,
+      "word": "这是C罗最后一届世界杯了",
+      "onboard_time": 1669271671,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 154444,
@@ -39299,6 +39331,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 146001,
+      "num": 146001,
+      "word": "杨颖冲浪比心vlog",
+      "onboard_time": 1669269331,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 145999,
+      "num": 145999,
+      "word": "这家人是有点戏瘾在身上的",
+      "onboard_time": 1669271671,
+      "rank": 38,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 145989,
       "num": 145989,
       "word": "爷爷日记里有孙女20年的成长",
@@ -39345,6 +39393,14 @@
       "onboard_time": 1669265497,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 145834,
+      "num": 145834,
+      "word": "司机捡手机执意索要500元感谢费",
+      "onboard_time": 1669271191,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 145657,
@@ -39665,6 +39721,14 @@
       "onboard_time": 1668914845,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 143721,
+      "num": 143721,
+      "word": "卡塔尔是懂指路的",
+      "onboard_time": 1669271611,
+      "rank": 40,
+      "category": "体育,幽默"
     },
     {
       "raw_hot": 143676,
@@ -42131,14 +42195,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 129567,
-      "num": 129567,
-      "word": "为什么经期前会莫名emo",
-      "onboard_time": 1669271012,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
       "raw_hot": 129532,
       "num": 129532,
       "word": "挤在门缝里晒太阳的狗狗",
@@ -42273,14 +42329,6 @@
       "onboard_time": 1669109191,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 128741,
-      "num": 128741,
-      "word": "杨颖冲浪比心vlog",
-      "onboard_time": 1669269331,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 128740,
@@ -43353,6 +43401,14 @@
       "onboard_time": 1668936927,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 121490,
+      "num": 121490,
+      "word": "孙女订婚8旬爷爷提笔送祝福",
+      "onboard_time": 1669272030,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 121475,
@@ -52915,6 +52971,9 @@
     },
     {
       "word": "#让互联网的发展成果更好地造福全人类#"
+    },
+    {
+      "word": "#中国2021年专利数全球最高#"
     }
   ]
 }
