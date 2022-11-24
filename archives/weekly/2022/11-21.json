@@ -1,6 +1,6 @@
 {
   "startTime": 1668961718135,
-  "endTime": 1669286263328,
+  "endTime": 1669288589572,
   "band_list": [
     {
       "raw_hot": 15128338,
@@ -80,6 +80,14 @@
       "word": "梅西进球",
       "onboard_time": 1669112252,
       "rank": 1,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 3473360,
+      "num": 3473360,
+      "word": "卡塔尔王子感谢中国网友",
+      "onboard_time": 1669286197,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -2003,6 +2011,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 640559,
+      "num": 640559,
+      "word": "台湾单方面划设的线非法无效",
+      "onboard_time": 1669284393,
+      "rank": 30,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 638663,
       "num": 638663,
       "word": "EDG老板公司欠款849万成老赖",
@@ -2025,6 +2041,14 @@
       "onboard_time": 1669117420,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 632386,
+      "num": 632386,
+      "word": "妻子半夜喂奶丈夫帮盖毛毯当靠垫",
+      "onboard_time": 1669285416,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 632208,
@@ -2403,6 +2427,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 567549,
+      "num": 567549,
+      "word": "初恋",
+      "onboard_time": 1669282712,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 567435,
       "num": 360464,
       "word": "马凡舒好美",
@@ -2563,6 +2595,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 543466,
+      "num": 177283,
+      "word": "瑞士vs喀麦隆半场0比0",
+      "onboard_time": 1669287577,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 543159,
       "num": 543159,
       "word": "重庆籍艺人为家乡加油",
@@ -2627,14 +2667,6 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 537335,
-      "num": 435766,
-      "word": "台湾单方面划设的线非法无效",
-      "onboard_time": 1669284393,
-      "rank": 30,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 536480,
       "num": 536480,
       "word": "女子婉拒HR后被斥做你的微商去",
@@ -2665,6 +2697,14 @@
       "onboard_time": 1669173631,
       "rank": 15,
       "category": "财经,科技"
+    },
+    {
+      "raw_hot": 528564,
+      "num": 398809,
+      "word": "谢娜说努力了尽力了就好",
+      "onboard_time": 1669288416,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 527184,
@@ -2809,14 +2849,6 @@
       "onboard_time": 1669210355,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 509251,
-      "num": 509251,
-      "word": "初恋",
-      "onboard_time": 1669282712,
-      "rank": 11,
-      "category": "影视"
     },
     {
       "raw_hot": 508376,
@@ -4163,6 +4195,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 369416,
+      "num": 369416,
+      "word": "北京新增本土感染者863例",
+      "onboard_time": 1669283973,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 368374,
       "num": 368374,
       "word": "李峋得知朱韵给自己发工资",
@@ -4193,6 +4233,14 @@
       "onboard_time": 1669088313,
       "rank": 34,
       "category": "美食"
+    },
+    {
+      "raw_hot": 363993,
+      "num": 363993,
+      "word": "瑞士vs喀麦隆",
+      "onboard_time": 1669279228,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 363853,
@@ -4371,14 +4419,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 354244,
-      "num": 354244,
-      "word": "北京新增本土感染者863例",
-      "onboard_time": 1669283973,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 352851,
       "num": 352851,
       "word": "世界杯历史上东道主首战从未输球",
@@ -4523,6 +4563,14 @@
       "category": "体育,音乐"
     },
     {
+      "raw_hot": 343390,
+      "num": 343390,
+      "word": "易烊千玺黑白寻踪大片",
+      "onboard_time": 1669286795,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 343230,
       "num": 343230,
       "word": "男子提亲前夕25万彩礼被盗",
@@ -4625,6 +4673,14 @@
       "onboard_time": 1669180422,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 337562,
+      "num": 337562,
+      "word": "新疆C罗为偶像C罗打call",
+      "onboard_time": 1669286498,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 337100,
@@ -4737,6 +4793,14 @@
       "onboard_time": 1668996630,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 331099,
+      "num": 331099,
+      "word": "梅西长得好像黄金矿工",
+      "onboard_time": 1669286673,
+      "rank": 20,
+      "category": "体育,幽默"
     },
     {
       "raw_hot": 331089,
@@ -5089,6 +5153,14 @@
       "onboard_time": 1669008576,
       "rank": 40,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 310689,
+      "num": 310689,
+      "word": "郑恺分享对苗苗的沦陷时刻",
+      "onboard_time": 1669286316,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 310675,
@@ -5467,14 +5539,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 285777,
-      "num": 285777,
-      "word": "瑞士vs喀麦隆",
-      "onboard_time": 1669279228,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 285491,
       "num": 285491,
       "word": "将泡面拿进车里有多难",
@@ -5777,6 +5841,14 @@
       "onboard_time": 1669105353,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 271655,
+      "num": 271655,
+      "word": "周扬青说约会和恋爱是两回事",
+      "onboard_time": 1669286498,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 271150,
@@ -6297,6 +6369,14 @@
       "onboard_time": 1669092162,
       "rank": 49,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 244116,
+      "num": 244116,
+      "word": "点燃我温暖你29集有温泉戏",
+      "onboard_time": 1669286136,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 243983,
@@ -7715,14 +7795,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 190166,
-      "num": 190166,
-      "word": "妻子半夜喂奶丈夫帮盖毛毯当靠垫",
-      "onboard_time": 1669285416,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 190137,
       "num": 174848,
       "word": "U21日本2比1葡萄牙",
@@ -7771,6 +7843,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 188704,
+      "num": 175304,
+      "word": "阳华说对秦施一见钟情",
+      "onboard_time": 1669287759,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 188461,
       "num": 193030,
       "word": "为什么说大连是足球城",
@@ -7785,6 +7865,22 @@
       "onboard_time": 1669274552,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 188013,
+      "num": 126675,
+      "word": "瑞士进球",
+      "onboard_time": 1669288536,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 187725,
+      "num": 187725,
+      "word": "小米13预计涨价15%至20%",
+      "onboard_time": 1669287398,
+      "rank": 28,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 187576,
@@ -8331,6 +8427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 170167,
+      "num": 170167,
+      "word": "北马处罚违规选手",
+      "onboard_time": 1669287937,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 169965,
       "num": 169965,
       "word": "真把拉伊卜做成饺子了",
@@ -8571,6 +8675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 160120,
+      "num": 160120,
+      "word": "男子骑车拖行小狗1公里致皮开肉绽",
+      "onboard_time": 1669287218,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 160108,
       "num": 160108,
       "word": "学鸟走路的猫咪",
@@ -8692,7 +8804,7 @@
     },
     {
       "raw_hot": 156841,
-      "num": 1514186,
+      "num": 1552390,
       "word": "多视角记录空军女飞行员首次单飞",
       "onboard_time": 1669262012,
       "rank": 2,
@@ -8705,6 +8817,14 @@
       "onboard_time": 1668997170,
       "rank": 38,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 156589,
+      "num": 156589,
+      "word": "施情华意婚后生活",
+      "onboard_time": 1669288416,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 156577,
@@ -9523,6 +9643,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 132369,
+      "num": 132369,
+      "word": "世界杯表情包",
+      "onboard_time": 1669288172,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132013,
       "num": 132013,
       "word": "广东新增本土感染者8054例",
@@ -9539,12 +9667,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 131633,
-      "num": 131633,
-      "word": "卡塔尔王子感谢中国网友",
-      "onboard_time": 1669286197,
+      "raw_hot": 131502,
+      "num": 131502,
+      "word": "男孩遭霸凌殴打被逼下跪磕头",
+      "onboard_time": 1669287700,
       "rank": 44,
-      "category": "体育"
+      "category": "社会负面"
     },
     {
       "raw_hot": 131484,
@@ -9609,14 +9737,6 @@
       "onboard_time": 1669258772,
       "rank": 49,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 129259,
-      "num": 129259,
-      "word": "点燃我温暖你29集有温泉戏",
-      "onboard_time": 1669286136,
-      "rank": 45,
-      "category": "影视"
     },
     {
       "raw_hot": 129154,
@@ -9993,6 +10113,14 @@
       "onboard_time": 1669109610,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 116850,
+      "num": 116850,
+      "word": "KPL出征世界的战歌",
+      "onboard_time": 1669286854,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 116845,
@@ -10577,6 +10705,14 @@
       "onboard_time": 1669016735,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 91418,
+      "num": 370003,
+      "word": "加纳球衣撞衫外卖小哥",
+      "onboard_time": 1669287636,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 91099,
