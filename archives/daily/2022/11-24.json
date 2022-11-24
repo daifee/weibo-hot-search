@@ -1,6 +1,6 @@
 {
   "startTime": 1669220901508,
-  "endTime": 1669258532310,
+  "endTime": 1669259184504,
   "band_list": [
     {
       "raw_hot": 2651843,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2563717,
-      "num": 156780,
+      "num": 863971,
       "word": "王源B面音源正式解锁",
       "onboard_time": 1669257332,
       "rank": 47,
@@ -59,12 +59,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1202685,
-      "num": 1202685,
+      "raw_hot": 1298485,
+      "num": 1298485,
       "word": "压力来到韩国这边",
       "onboard_time": 1669253074,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1111788,
+      "num": 1111788,
+      "word": "女子深夜打110点奶茶民警秒懂",
+      "onboard_time": 1669255295,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1081065,
@@ -73,14 +81,6 @@
       "onboard_time": 1669253495,
       "rank": 28,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 982235,
-      "num": 982235,
-      "word": "女子深夜打110点奶茶民警秒懂",
-      "onboard_time": 1669255295,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 981001,
@@ -121,6 +121,14 @@
       "onboard_time": 1669214196,
       "rank": 46,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 857744,
+      "num": 627973,
+      "word": "北京取消2022年度9项资格考试",
+      "onboard_time": 1669257091,
+      "rank": 13,
+      "category": "教育"
     },
     {
       "raw_hot": 844532,
@@ -211,6 +219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 621572,
+      "num": 621572,
+      "word": "退钱哥又让退钱了",
+      "onboard_time": 1669256908,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 617308,
       "num": 617308,
       "word": "四位中国公民在美遇害",
@@ -241,14 +257,6 @@
       "onboard_time": 1669222346,
       "rank": 10,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 571336,
-      "num": 571336,
-      "word": "退钱哥又让退钱了",
-      "onboard_time": 1669256908,
-      "rank": 10,
-      "category": "体育"
     },
     {
       "raw_hot": 571112,
@@ -289,14 +297,6 @@
       "onboard_time": 1669253972,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 543360,
-      "num": 543360,
-      "word": "北京取消2022年度9项资格考试",
-      "onboard_time": 1669257091,
-      "rank": 13,
-      "category": "教育"
     },
     {
       "raw_hot": 519752,
@@ -371,6 +371,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 403448,
+      "num": 403448,
+      "word": "上海立法禁止群租",
+      "onboard_time": 1669257630,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 386624,
       "num": 386624,
       "word": "女子做水果馒头剥开全是细节",
@@ -425,6 +433,14 @@
       "onboard_time": 1669216565,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 356412,
+      "num": 356412,
+      "word": "为什么卿卿日常不适合倍速看",
+      "onboard_time": 1669258350,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 338043,
@@ -595,6 +611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 268328,
+      "num": 136118,
+      "word": "白鹿郑书意绿色毛衫造型上班路透",
+      "onboard_time": 1669259131,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 263407,
       "num": 263407,
       "word": "以岭药业回应药店连花清瘟涨价",
@@ -683,6 +707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 231854,
+      "num": 231854,
+      "word": "赵丽颖风吹半夏五大美德",
+      "onboard_time": 1669258230,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 226573,
       "num": 226573,
       "word": "日本 越位",
@@ -699,11 +731,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 215875,
-      "num": 215875,
-      "word": "上海立法禁止群租",
-      "onboard_time": 1669257630,
-      "rank": 32,
+      "raw_hot": 213486,
+      "num": 213486,
+      "word": "北大硕士当编剧主角是300个动物",
+      "onboard_time": 1669257932,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -715,8 +747,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 206379,
-      "num": 206379,
+      "raw_hot": 210769,
+      "num": 210769,
       "word": "男孩被忘服务区家长让其步行追赶",
       "onboard_time": 1669256250,
       "rank": 34,
@@ -739,12 +771,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 200875,
-      "num": 200875,
-      "word": "赵丽颖风吹半夏五大美德",
-      "onboard_time": 1669258230,
-      "rank": 35,
-      "category": "影视"
+      "raw_hot": 200957,
+      "num": 200957,
+      "word": "上海迪士尼乐园将于25日重新开放",
+      "onboard_time": 1669258350,
+      "rank": 43,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 200658,
@@ -787,14 +819,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 190510,
-      "num": 190510,
-      "word": "北大硕士当编剧主角是300个动物",
-      "onboard_time": 1669257932,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 188969,
       "num": 188969,
       "word": "陈小纭郝葭人设",
@@ -835,14 +859,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 178769,
-      "num": 178769,
-      "word": "上海迪士尼乐园将于25日重新开放",
-      "onboard_time": 1669258350,
-      "rank": 43,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 177448,
       "num": 177448,
       "word": "郝葭赤足离家",
@@ -881,14 +897,6 @@
       "onboard_time": 1669223121,
       "rank": 24,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 170770,
-      "num": 170770,
-      "word": "为什么卿卿日常不适合倍速看",
-      "onboard_time": 1669258350,
-      "rank": 44,
-      "category": "影视"
     },
     {
       "raw_hot": 169682,
@@ -945,6 +953,14 @@
       "onboard_time": 1669248633,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 155438,
+      "num": 155438,
+      "word": "做一件羊绒大衣要薅多少只小山羊",
+      "onboard_time": 1669259012,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 153461,
@@ -1049,6 +1065,22 @@
       "onboard_time": 1669222764,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 132013,
+      "num": 132013,
+      "word": "广东新增本土感染者8054例",
+      "onboard_time": 1669259068,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 129524,
+      "num": 129524,
+      "word": "足球少年在雪山下的梦幻球场训练",
+      "onboard_time": 1669258772,
+      "rank": 49,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 127210,
