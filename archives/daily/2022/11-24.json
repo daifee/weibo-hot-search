@@ -1,10 +1,10 @@
 {
   "startTime": 1669220901508,
-  "endTime": 1669299482238,
+  "endTime": 1669300478039,
   "band_list": [
     {
-      "raw_hot": 9715403,
-      "num": 9715403,
+      "raw_hot": 9868828,
+      "num": 9868828,
       "word": "韩国 小动作",
       "onboard_time": 1669296273,
       "rank": 6,
@@ -43,8 +43,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 2576270,
-      "num": 2576270,
+      "raw_hot": 2588045,
+      "num": 2588045,
       "word": "乌拉圭vs韩国",
       "onboard_time": 1669282230,
       "rank": 16,
@@ -80,6 +80,14 @@
       "word": "压力来到韩国这边",
       "onboard_time": 1669253074,
       "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2046019,
+      "num": 2046019,
+      "word": "乌拉圭教练好帅",
+      "onboard_time": 1669297478,
+      "rank": 4,
       "category": "体育"
     },
     {
@@ -147,11 +155,11 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 1476372,
-      "num": 1476372,
-      "word": "乌拉圭教练好帅",
-      "onboard_time": 1669297478,
-      "rank": 4,
+      "raw_hot": 1377300,
+      "num": 1377300,
+      "word": "韩国球迷 吵",
+      "onboard_time": 1669297842,
+      "rank": 5,
       "category": "体育"
     },
     {
@@ -201,14 +209,6 @@
       "onboard_time": 1669266158,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1011803,
-      "num": 1011803,
-      "word": "韩国球迷 吵",
-      "onboard_time": 1669297842,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 981001,
@@ -339,6 +339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 809727,
+      "num": 809727,
+      "word": "8旬老人得带状疱疹6年不敢盖被子",
+      "onboard_time": 1669295735,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 808351,
       "num": 808351,
       "word": "为什么卿卿日常不适合倍速看",
@@ -411,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 730199,
+      "num": 730199,
+      "word": "乌拉圭半场0比0韩国",
+      "onboard_time": 1669297965,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 727416,
       "num": 727416,
       "word": "沪上阿姨 光与夜之恋",
@@ -424,22 +440,6 @@
       "word": "女子溜冰被人推倒下巴缝十多针",
       "onboard_time": 1669250434,
       "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 705356,
-      "num": 705356,
-      "word": "乌拉圭半场0比0韩国",
-      "onboard_time": 1669297965,
-      "rank": 6,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 691843,
-      "num": 691843,
-      "word": "8旬老人得带状疱疹6年不敢盖被子",
-      "onboard_time": 1669295735,
-      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -457,6 +457,14 @@
       "onboard_time": 1669283371,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 662718,
+      "num": 552809,
+      "word": "刘语熙预测韩国乌拉圭打平",
+      "onboard_time": 1669300121,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 657010,
@@ -513,6 +521,14 @@
       "onboard_time": 1669282471,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 631824,
+      "num": 631824,
+      "word": "白敬亭宋轶长风渡路透",
+      "onboard_time": 1669297478,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 628117,
@@ -617,14 +633,6 @@
       "onboard_time": 1669290037,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 573751,
-      "num": 573751,
-      "word": "白敬亭宋轶长风渡路透",
-      "onboard_time": 1669297478,
-      "rank": 12,
-      "category": "影视"
     },
     {
       "raw_hot": 571112,
@@ -755,6 +763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 492238,
+      "num": 492238,
+      "word": "世界杯走红的小王子是这样被找到的",
+      "onboard_time": 1669295012,
+      "rank": 31,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 480680,
       "num": 480680,
       "word": "瑞士vs喀麦隆",
@@ -801,14 +817,6 @@
       "onboard_time": 1669281693,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 454303,
-      "num": 454303,
-      "word": "世界杯走红的小王子是这样被找到的",
-      "onboard_time": 1669295012,
-      "rank": 31,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 446616,
@@ -1113,6 +1121,14 @@
       "onboard_time": 1669271071,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 340541,
+      "num": 340541,
+      "word": "苏亚雷斯",
+      "onboard_time": 1669299040,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 339075,
@@ -1467,6 +1483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 281594,
+      "num": 281594,
+      "word": "乃万是懂修容的",
+      "onboard_time": 1669300370,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 281346,
       "num": 281346,
       "word": "原来周昊杉和周柯宇是亲兄弟",
@@ -1747,6 +1771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 233107,
+      "num": 233107,
+      "word": "绿萍是懂阴阳怪气的",
+      "onboard_time": 1669297781,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 232057,
       "num": 232057,
       "word": "乌拉圭vs韩国首发",
@@ -1915,6 +1947,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 214691,
+      "num": 214691,
+      "word": "女子用饺子皮捏出世界杯吉祥物",
+      "onboard_time": 1669296635,
+      "rank": 49,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 212319,
       "num": 212319,
       "word": "巴西球迷求管泽元闭嘴",
@@ -1953,6 +1993,14 @@
       "onboard_time": 1669263032,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 208849,
+      "num": 208849,
+      "word": "原来苍兰诀李熹子唱歌这么好听",
+      "onboard_time": 1669300184,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 208110,
@@ -2019,12 +2067,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 202174,
-      "num": 202174,
-      "word": "苏亚雷斯",
-      "onboard_time": 1669299040,
-      "rank": 35,
-      "category": "体育"
+      "raw_hot": 202653,
+      "num": 202653,
+      "word": "赵丽颖许半夏哈哈日常花絮",
+      "onboard_time": 1669299702,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 201413,
@@ -2097,14 +2145,6 @@
       "onboard_time": 1669219303,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 194162,
-      "num": 194162,
-      "word": "女子用饺子皮捏出世界杯吉祥物",
-      "onboard_time": 1669296635,
-      "rank": 49,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 192952,
@@ -2241,14 +2281,6 @@
       "onboard_time": 1669214493,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 180095,
-      "num": 180095,
-      "word": "绿萍是懂阴阳怪气的",
-      "onboard_time": 1669297781,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 178333,
@@ -2417,6 +2449,14 @@
       "onboard_time": 1669219593,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 162078,
+      "num": 162078,
+      "word": "孙兴慜鞋被踩掉",
+      "onboard_time": 1669300121,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 161176,
@@ -2776,6 +2816,14 @@
       "word": "世界杯表情包",
       "onboard_time": 1669288172,
       "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 132151,
+      "num": 132151,
+      "word": "支持的球队一直没输过",
+      "onboard_time": 1669300424,
+      "rank": 49,
       "category": "体育"
     },
     {
