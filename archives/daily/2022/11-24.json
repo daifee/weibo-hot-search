@@ -1,10 +1,10 @@
 {
   "startTime": 1669220901508,
-  "endTime": 1669272047535,
+  "endTime": 1669274299407,
   "band_list": [
     {
-      "raw_hot": 3620308,
-      "num": 3620308,
+      "raw_hot": 3655570,
+      "num": 3655570,
       "word": "无大碍 已和好",
       "onboard_time": 1669263274,
       "rank": 33,
@@ -91,6 +91,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1518956,
+      "num": 413404,
+      "word": "刘强东3小时内部发言",
+      "onboard_time": 1669269872,
+      "rank": 10,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 1301881,
       "num": 1301881,
       "word": "女子深夜打110点奶茶民警秒懂",
@@ -121,14 +129,6 @@
       "onboard_time": 1669263632,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1151956,
-      "num": 413404,
-      "word": "刘强东3小时内部发言",
-      "onboard_time": 1669269872,
-      "rank": 10,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 1081065,
@@ -225,6 +225,14 @@
       "onboard_time": 1669258350,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 802248,
+      "num": 802248,
+      "word": "为什么经期前会莫名emo",
+      "onboard_time": 1669271012,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 800208,
@@ -411,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 539601,
+      "num": 328637,
+      "word": "刘强东称将末位淘汰部分京东高管",
+      "onboard_time": 1669270412,
+      "rank": 23,
+      "category": "科技"
+    },
+    {
       "raw_hot": 535841,
       "num": 535841,
       "word": "朱韵戴戒指细节",
@@ -507,6 +523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 428661,
+      "num": 428661,
+      "word": "世界杯",
+      "onboard_time": 1669272872,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 417878,
       "num": 417878,
       "word": "李一桐吊带鎏金裙",
@@ -520,6 +544,22 @@
       "word": "做一件羊绒大衣要薅多少只小山羊",
       "onboard_time": 1669259012,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 403686,
+      "num": 403686,
+      "word": "C罗说要让所有葡萄牙人骄傲",
+      "onboard_time": 1669269991,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 396519,
+      "num": 356545,
+      "word": "厌倦吃席女孩将农村婚礼办成游园会",
+      "onboard_time": 1669269033,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -587,20 +627,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 345053,
-      "num": 345053,
-      "word": "为什么经期前会莫名emo",
-      "onboard_time": 1669271012,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
       "raw_hot": 342412,
       "num": 342412,
       "word": "许佳琪官宣年末个人企划",
       "onboard_time": 1669271071,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 339075,
+      "num": 339075,
+      "word": "谢娜分享秋游vlog",
+      "onboard_time": 1669273411,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 338043,
@@ -673,14 +713,6 @@
       "onboard_time": 1669216741,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 315072,
-      "num": 315072,
-      "word": "刘强东称将末位淘汰部分京东高管",
-      "onboard_time": 1669270412,
-      "rank": 23,
-      "category": "科技"
     },
     {
       "raw_hot": 315047,
@@ -793,6 +825,14 @@
       "onboard_time": 1669217865,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 284696,
+      "num": 284696,
+      "word": "女子踩到一颗车厘子摔伤超市赔16万",
+      "onboard_time": 1669273653,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 284520,
@@ -963,6 +1003,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 249884,
+      "num": 249884,
+      "word": "群租和合租有什么区别",
+      "onboard_time": 1669272093,
+      "rank": 19,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 247915,
       "num": 247915,
       "word": "沙特后卫对梅西放狠话",
@@ -985,6 +1033,22 @@
       "onboard_time": 1669216101,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 243702,
+      "num": 243702,
+      "word": "尹嵩精神状态",
+      "onboard_time": 1669271671,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 241173,
+      "num": 241173,
+      "word": "卡塔尔是懂指路的",
+      "onboard_time": 1669271611,
+      "rank": 40,
+      "category": "体育,幽默"
     },
     {
       "raw_hot": 234329,
@@ -1019,14 +1083,6 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 227791,
-      "num": 227791,
-      "word": "厌倦吃席女孩将农村婚礼办成游园会",
-      "onboard_time": 1669269033,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 226573,
       "num": 226573,
       "word": "日本 越位",
@@ -1051,14 +1107,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 221751,
-      "num": 221751,
-      "word": "C罗说要让所有葡萄牙人骄傲",
-      "onboard_time": 1669269991,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 220195,
       "num": 220195,
       "word": "王源新歌粤语旁白是薛凯琪",
@@ -1081,6 +1129,14 @@
       "onboard_time": 1669247130,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 216683,
+      "num": 216683,
+      "word": "白敬亭田曦薇救人戏花絮",
+      "onboard_time": 1669273653,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 216004,
@@ -1115,14 +1171,6 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 211480,
-      "num": 211480,
-      "word": "尹嵩精神状态",
-      "onboard_time": 1669271671,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
       "raw_hot": 211035,
       "num": 211035,
       "word": "命韵峋环结婚证件照",
@@ -1153,6 +1201,14 @@
       "onboard_time": 1669261774,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 205807,
+      "num": 205807,
+      "word": "刘芸郑钧的旅行是从吵架开始的",
+      "onboard_time": 1669273653,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 204202,
@@ -1195,6 +1251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 201084,
+      "num": 211429,
+      "word": "内存大手机就不会卡吗",
+      "onboard_time": 1669273353,
+      "rank": 26,
+      "category": "科技"
+    },
+    {
       "raw_hot": 200658,
       "num": 200658,
       "word": "网友吐槽银行每月只上2天班",
@@ -1209,6 +1273,14 @@
       "onboard_time": 1669226957,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 194910,
+      "num": 194910,
+      "word": "司机捡手机执意索要500元感谢费",
+      "onboard_time": 1669271191,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 194792,
@@ -1313,6 +1385,14 @@
       "onboard_time": 1669267954,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 178237,
+      "num": 162800,
+      "word": "制片人说郝葭的第一人选就是陈小纭",
+      "onboard_time": 1669273353,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 177448,
@@ -1491,6 +1571,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 151282,
+      "num": 151282,
+      "word": "杨蒙恩的大白",
+      "onboard_time": 1669272634,
+      "rank": 38,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 150381,
       "num": 150381,
       "word": "日本门将",
@@ -1563,28 +1651,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 145834,
-      "num": 145834,
-      "word": "司机捡手机执意索要500元感谢费",
-      "onboard_time": 1669271191,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 145064,
       "num": 145064,
       "word": "火箭军的健身房长啥样",
       "onboard_time": 1669260272,
       "rank": 47,
       "category": "军事,社会新闻"
-    },
-    {
-      "raw_hot": 143721,
-      "num": 143721,
-      "word": "卡塔尔是懂指路的",
-      "onboard_time": 1669271611,
-      "rank": 40,
-      "category": "体育,幽默"
     },
     {
       "raw_hot": 142772,
@@ -1651,6 +1723,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 133393,
+      "num": 133393,
+      "word": "一起看卡塔尔世界杯",
+      "onboard_time": 1669274129,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132467,
       "num": 132467,
       "word": "李峋说朱韵太信任我了",
@@ -1667,6 +1747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 131124,
+      "num": 131124,
+      "word": "12月的电影院燃起来了",
+      "onboard_time": 1669274068,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 129524,
       "num": 129524,
       "word": "足球少年在雪山下的梦幻球场训练",
@@ -1681,6 +1769,14 @@
       "onboard_time": 1669263395,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 128259,
+      "num": 128259,
+      "word": "南京玄武湖网红猫萌到犯规",
+      "onboard_time": 1669273472,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 127210,
@@ -1705,6 +1801,30 @@
       "onboard_time": 1669272030,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 120879,
+      "num": 120879,
+      "word": "张艺兴带国风音乐走进哈佛校园",
+      "onboard_time": 1669272330,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 120594,
+      "num": 120594,
+      "word": "狗子爱看三国一遇打打杀杀就哆嗦",
+      "onboard_time": 1669274010,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 114004,
+      "num": 114004,
+      "word": "中国球迷世界杯现场痛哭",
+      "onboard_time": 1669274251,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 107360,
