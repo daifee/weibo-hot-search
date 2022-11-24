@@ -1,0 +1,410 @@
+{
+  "runTime": 1669260576104,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1681133,
+        "num": 1681133,
+        "word": "压力来到韩国这边",
+        "onboard_time": 1669253074,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1470005,
+        "num": 1470005,
+        "word": "北京取消2022年度9项资格考试",
+        "onboard_time": 1669257091,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 63512,
+        "num": 1308023,
+        "word": "世界杯随处可见中国元素",
+        "onboard_time": 1669205557,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1301881,
+        "num": 1301881,
+        "word": "女子深夜打110点奶茶民警秒懂",
+        "onboard_time": 1669255295,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 968356,
+        "num": 968356,
+        "word": "上海立法禁止群租",
+        "onboard_time": 1669257630,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 889399,
+        "num": 889399,
+        "word": "郑州将用5天时间打一场疫情防控歼灭战",
+        "onboard_time": 1669252235,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 838619,
+        "num": 838619,
+        "word": "退钱哥又让退钱了",
+        "onboard_time": 1669256908,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 736225,
+        "num": 736225,
+        "word": "为什么真的不建议你去赌球",
+        "onboard_time": 1669253495,
+        "rank": 7,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 693212,
+        "num": 693212,
+        "word": "为什么卿卿日常不适合倍速看",
+        "onboard_time": 1669258350,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 492013,
+        "num": 492013,
+        "word": "女生2天没出门猫咪叼金鱼投喂",
+        "onboard_time": 1669254211,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 476554,
+        "num": 476554,
+        "word": "陈飞宇念英文绿皮书台词",
+        "onboard_time": 1669254811,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 475260,
+        "num": 475260,
+        "word": "C罗世界杯首秀",
+        "onboard_time": 1669252296,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 467864,
+        "num": 467864,
+        "word": "父母让8岁孩子休学1周专打游戏",
+        "onboard_time": 1669254572,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 428563,
+        "num": 428563,
+        "word": "重庆新增本土确诊409例无症状7437例",
+        "onboard_time": 1669252593,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 357107,
+        "num": 357107,
+        "word": "广州新增本土感染者7620例",
+        "onboard_time": 1669253972,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326488,
+        "num": 326488,
+        "word": "张艺兴哈佛艺术交流会花絮照",
+        "onboard_time": 1669259250,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 319909,
+        "num": 319909,
+        "word": "赵丽颖风吹半夏五大美德",
+        "onboard_time": 1669258230,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 314468,
+        "num": 314468,
+        "word": "成都健康码崩了",
+        "onboard_time": 1669248572,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303517,
+        "num": 303517,
+        "word": "日本赔率",
+        "onboard_time": 1669217983,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 287913,
+        "num": 287913,
+        "word": "C罗成为本届世界杯唯一自由球员",
+        "onboard_time": 1669239852,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 280279,
+        "num": 280279,
+        "word": "做一件羊绒大衣要薅多少只小山羊",
+        "onboard_time": 1669259012,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254555,
+        "num": 254555,
+        "word": "王鹤棣以爱为营棒球服造型上班路透",
+        "onboard_time": 1669256609,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 253461,
+        "num": 253461,
+        "word": "北大硕士当编剧主角是300个动物",
+        "onboard_time": 1669257932,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235761,
+        "num": 235761,
+        "word": "白鹿郑书意绿色毛衫造型上班路透",
+        "onboard_time": 1669259131,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 234323,
+        "num": 234323,
+        "word": "吴卓羲手抄100遍大湾仔口号",
+        "onboard_time": 1669256008,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 435260,
+        "num": 233470,
+        "word": "王源客厅狂欢MV像在幻境",
+        "onboard_time": 1669259973,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 231222,
+        "num": 231222,
+        "word": "李一桐吊带鎏金裙",
+        "onboard_time": 1669249296,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 223381,
+        "num": 223381,
+        "word": "男孩被忘服务区家长让其步行追赶",
+        "onboard_time": 1669256250,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218671,
+        "num": 218671,
+        "word": "女子溜冰被人推倒下巴缝十多针",
+        "onboard_time": 1669250434,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218375,
+        "num": 218375,
+        "word": "北京增社会面328例",
+        "onboard_time": 1669250076,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226797,
+        "num": 217455,
+        "word": "赵芳如黑化",
+        "onboard_time": 1669220314,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 215102,
+        "num": 215102,
+        "word": "女子跟老公在一起5年陪读4年",
+        "onboard_time": 1669259673,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206618,
+        "num": 206618,
+        "word": "马斯克欲解封推特所有封禁账号",
+        "onboard_time": 1669254271,
+        "rank": 32,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 206370,
+        "num": 206370,
+        "word": "孙兴慜将戴面具出战",
+        "onboard_time": 1669259311,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203121,
+        "num": 203121,
+        "word": "上海迪士尼乐园将于25日重新开放",
+        "onboard_time": 1669258350,
+        "rank": 34,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 202533,
+        "num": 202533,
+        "word": "陈紫函说还好郝葭身边有赵芳如",
+        "onboard_time": 1669260153,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 199833,
+        "num": 199833,
+        "word": "世界杯上进球最多的国家",
+        "onboard_time": 1669259673,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192587,
+        "num": 192587,
+        "word": "iphoneSE4售价有望控制在3000",
+        "onboard_time": 1669252235,
+        "rank": 37,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 181722,
+        "num": 181722,
+        "word": "重庆疫情防控",
+        "onboard_time": 1669252832,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172007,
+        "num": 172007,
+        "word": "外交部回应韩剧在中国播放",
+        "onboard_time": 1669211745,
+        "rank": 39,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 170292,
+        "num": 170292,
+        "word": "李明德说被拖欠工资",
+        "onboard_time": 1669247672,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165225,
+        "num": 165225,
+        "word": "老人以88倍价格买下仅值5元膏药",
+        "onboard_time": 1669245443,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164641,
+        "num": 164641,
+        "word": "C罗今晚会取得进球吗",
+        "onboard_time": 1669260330,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160261,
+        "num": 160261,
+        "word": "上海迪士尼度假区全面恢复运营",
+        "onboard_time": 1669257151,
+        "rank": 43,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 159357,
+        "num": 159357,
+        "word": "熊出没伴我熊芯2023春节上映",
+        "onboard_time": 1669259851,
+        "rank": 44,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 157381,
+        "num": 157381,
+        "word": "感恩节",
+        "onboard_time": 1669247130,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154673,
+        "num": 154673,
+        "word": "熬夜后怎么补觉",
+        "onboard_time": 1669259188,
+        "rank": 46,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 145064,
+        "num": 145064,
+        "word": "火箭军的健身房长啥样",
+        "onboard_time": 1669260272,
+        "rank": 47,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 141796,
+        "num": 141796,
+        "word": "今起乘坐北京地铁需48小时内核酸",
+        "onboard_time": 1669260451,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140184,
+        "num": 140184,
+        "word": "男子醉驾见女友丧命父母要求索赔",
+        "onboard_time": 1669228394,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#让互联网的发展成果更好地造福全人类#"
+    }
+  }
+}
