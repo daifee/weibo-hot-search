@@ -1,0 +1,410 @@
+{
+  "runTime": 1669293632550,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6338884,
+        "num": 6338884,
+        "word": "卡塔尔王子感谢中国网友",
+        "onboard_time": 1669286197,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2103492,
+        "num": 2103492,
+        "word": "乌拉圭vs韩国",
+        "onboard_time": 1669282230,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33045,
+        "num": 1841823,
+        "word": "多视角记录空军女飞行员首次单飞",
+        "onboard_time": 1669262012,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1665802,
+        "num": 1665802,
+        "word": "台湾是中国的",
+        "onboard_time": 1669280670,
+        "rank": 3,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 879495,
+        "num": 879495,
+        "word": "瑞士1比0喀麦隆",
+        "onboard_time": 1669291418,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 630158,
+        "num": 630158,
+        "word": "沪上阿姨 光与夜之恋",
+        "onboard_time": 1669289555,
+        "rank": 5,
+        "category": "美食,游戏"
+      },
+      {
+        "raw_hot": 628117,
+        "num": 628117,
+        "word": "杨洋迪丽热巴你是我的荣耀重回拉新年榜",
+        "onboard_time": 1669289916,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 573724,
+        "num": 573724,
+        "word": "妻子半夜喂奶丈夫帮盖毛毯当靠垫",
+        "onboard_time": 1669285416,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 564223,
+        "num": 564223,
+        "word": "卡塔尔王子回应被中国网友制成表情包",
+        "onboard_time": 1669290156,
+        "rank": 8,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 561838,
+        "num": 561838,
+        "word": "外交部回应日方希望中方放松防疫措施",
+        "onboard_time": 1669288656,
+        "rank": 9,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 685269,
+        "num": 549980,
+        "word": "台媒你们是真的懂采访",
+        "onboard_time": 1669290454,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 533680,
+        "num": 533680,
+        "word": "梅西长得好像黄金矿工",
+        "onboard_time": 1669286673,
+        "rank": 11,
+        "category": "体育,幽默"
+      },
+      {
+        "raw_hot": 460661,
+        "num": 460661,
+        "word": "女子煮墨鱼没放墨汁似熬沥青",
+        "onboard_time": 1669290037,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 408803,
+        "num": 408803,
+        "word": "李峋凌不疑古今两竖子",
+        "onboard_time": 1669289737,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 394237,
+        "num": 394237,
+        "word": "杨幂11月好忙",
+        "onboard_time": 1669291598,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 350741,
+        "num": 350741,
+        "word": "谢娜说努力了尽力了就好",
+        "onboard_time": 1669288416,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 321621,
+        "num": 321621,
+        "word": "日本足协正申请加入欧足联",
+        "onboard_time": 1669282230,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 318365,
+        "num": 318365,
+        "word": "周扬青说约会和恋爱是两回事",
+        "onboard_time": 1669286498,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 311696,
+        "num": 311696,
+        "word": "男孩遭霸凌殴打被逼下跪磕头",
+        "onboard_time": 1669287700,
+        "rank": 18,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 307949,
+        "num": 307949,
+        "word": "嫂子2胎后赚钱养一家9口",
+        "onboard_time": 1669283371,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300932,
+        "num": 300932,
+        "word": "卡塔尔王子表情包",
+        "onboard_time": 1669290634,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 282391,
+        "num": 282391,
+        "word": "赵露思黑框眼镜造型vlog",
+        "onboard_time": 1669291119,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267722,
+        "num": 267722,
+        "word": "我儿子不同意这门亲事",
+        "onboard_time": 1669292256,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242001,
+        "num": 242001,
+        "word": "宋轶把千金气质拿捏住了",
+        "onboard_time": 1669274611,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 238602,
+        "num": 238602,
+        "word": "点燃我温暖你29集有温泉戏",
+        "onboard_time": 1669286136,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 235182,
+        "num": 235182,
+        "word": "新娘出嫁邀8名乌克兰美女外援",
+        "onboard_time": 1669290277,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228184,
+        "num": 228184,
+        "word": "200块一碗面长啥样",
+        "onboard_time": 1669289437,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 225949,
+        "num": 225949,
+        "word": "台湾单方面划设的线非法无效",
+        "onboard_time": 1669284393,
+        "rank": 27,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 224402,
+        "num": 224402,
+        "word": "EDG老板公司欠款849万成老赖",
+        "onboard_time": 1669282471,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 208695,
+        "num": 208695,
+        "word": "EDG Scout",
+        "onboard_time": 1669284633,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 205291,
+        "num": 205291,
+        "word": "初恋",
+        "onboard_time": 1669282712,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 202796,
+        "num": 202796,
+        "word": "女子搭同事电瓶车摔伤致残索赔23万",
+        "onboard_time": 1669288597,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200128,
+        "num": 200128,
+        "word": "北京新增本土感染者863例",
+        "onboard_time": 1669283973,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197147,
+        "num": 197147,
+        "word": "瑞士vs喀麦隆",
+        "onboard_time": 1669279228,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190156,
+        "num": 190156,
+        "word": "郑恺分享对苗苗的沦陷时刻",
+        "onboard_time": 1669286316,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187561,
+        "num": 187561,
+        "word": "孙兴慜首发",
+        "onboard_time": 1669292914,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187288,
+        "num": 187288,
+        "word": "易烊千玺黑白寻踪大片",
+        "onboard_time": 1669286795,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 185749,
+        "num": 185749,
+        "word": "世界杯",
+        "onboard_time": 1669272872,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 181678,
+        "num": 181678,
+        "word": "小米13预计涨价15%至20%",
+        "onboard_time": 1669287398,
+        "rank": 38,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 177845,
+        "num": 177845,
+        "word": "乌拉圭vs韩国首发",
+        "onboard_time": 1669292557,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167653,
+        "num": 167653,
+        "word": "新疆C罗为偶像C罗打call",
+        "onboard_time": 1669286498,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165835,
+        "num": 165835,
+        "word": "朱韵救了李峋",
+        "onboard_time": 1669278571,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 163912,
+        "num": 163912,
+        "word": "阳华对秦施说我爱你",
+        "onboard_time": 1669293393,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 149707,
+        "num": 149707,
+        "word": "女子踩到一颗车厘子摔伤超市赔16万",
+        "onboard_time": 1669273653,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138335,
+        "num": 138335,
+        "word": "女儿告诉妈妈班上男生想跟她结婚",
+        "onboard_time": 1669292616,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136361,
+        "num": 136361,
+        "word": "777万C罗卡牌是炒作还是情怀",
+        "onboard_time": 1669293393,
+        "rank": 45,
+        "category": "体育,财经"
+      },
+      {
+        "raw_hot": 135122,
+        "num": 135122,
+        "word": "男子骑车拖行小狗1公里致皮开肉绽",
+        "onboard_time": 1669287218,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133403,
+        "num": 133403,
+        "word": "阳华不让陶俊辉碰秦施",
+        "onboard_time": 1669293575,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 127457,
+        "num": 127457,
+        "word": "日本队为14秒失误研究了一年",
+        "onboard_time": 1669279109,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121117,
+        "num": 121117,
+        "word": "瑞士进球",
+        "onboard_time": 1669288536,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#让互联网的发展成果更好地造福全人类#"
+    }
+  }
+}
