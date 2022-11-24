@@ -1,0 +1,410 @@
+{
+  "runTime": 1669264867304,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2058039,
+        "num": 2058039,
+        "word": "压力来到韩国这边",
+        "onboard_time": 1669253074,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2041439,
+        "num": 2041439,
+        "word": "离个婚能有多不体面",
+        "onboard_time": 1669260694,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 147767,
+        "num": 1499093,
+        "word": "多视角记录空军女飞行员首次单飞",
+        "onboard_time": 1669262012,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1266252,
+        "num": 1266252,
+        "word": "北京取消2022年度9项资格考试",
+        "onboard_time": 1669257091,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 945097,
+        "num": 945097,
+        "word": "上海立法禁止群租",
+        "onboard_time": 1669257630,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 892258,
+        "num": 892258,
+        "word": "女子深夜打110点奶茶民警秒懂",
+        "onboard_time": 1669255295,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 891639,
+        "num": 891639,
+        "word": "女子跟老公在一起5年陪读4年",
+        "onboard_time": 1669259673,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 749386,
+        "num": 749386,
+        "word": "退钱哥又让退钱了",
+        "onboard_time": 1669256908,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 738474,
+        "num": 738474,
+        "word": "莫让赌球毁了年轻干部",
+        "onboard_time": 1669262073,
+        "rank": 8,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 722260,
+        "num": 722260,
+        "word": "为什么卿卿日常不适合倍速看",
+        "onboard_time": 1669258350,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 610161,
+        "num": 610161,
+        "word": "孩子打闹家长上门道歉被扇耳光",
+        "onboard_time": 1669261172,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 567882,
+        "num": 567882,
+        "word": "内马尔强调不要轻视对手",
+        "onboard_time": 1669260694,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 538039,
+        "num": 538039,
+        "word": "孙兴慜将戴面具出战",
+        "onboard_time": 1669259311,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 535841,
+        "num": 535841,
+        "word": "朱韵戴戒指细节",
+        "onboard_time": 1669262732,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 455487,
+        "num": 455487,
+        "word": "郑州将用5天时间打一场疫情防控歼灭战",
+        "onboard_time": 1669252235,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 446616,
+        "num": 446616,
+        "word": "C罗今晚会取得进球吗",
+        "onboard_time": 1669260330,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 409626,
+        "num": 409626,
+        "word": "为什么真的不建议你去赌球",
+        "onboard_time": 1669253495,
+        "rank": 16,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 375149,
+        "num": 375149,
+        "word": "C罗世界杯首秀",
+        "onboard_time": 1669252296,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 353035,
+        "num": 353035,
+        "word": "重庆新增本土确诊409例无症状7437例",
+        "onboard_time": 1669252593,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327940,
+        "num": 327940,
+        "word": "日本大叔说下次轮到中国赢德国",
+        "onboard_time": 1669263632,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 321181,
+        "num": 321181,
+        "word": "父母让8岁孩子休学1周专打游戏",
+        "onboard_time": 1669254572,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304048,
+        "num": 304048,
+        "word": "广州新增本土感染者7620例",
+        "onboard_time": 1669253972,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276041,
+        "num": 276041,
+        "word": "做一件羊绒大衣要薅多少只小山羊",
+        "onboard_time": 1669259012,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269629,
+        "num": 269629,
+        "word": "内马尔被针对是有原因的",
+        "onboard_time": 1669261892,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 264135,
+        "num": 264135,
+        "word": "TWICE韩专销量突破1000万张",
+        "onboard_time": 1669261892,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 259267,
+        "num": 259267,
+        "word": "张艺兴哈佛艺术交流会花絮照",
+        "onboard_time": 1669259250,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253416,
+        "num": 253416,
+        "word": "原来周昊杉和周柯宇是亲兄弟",
+        "onboard_time": 1669263632,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232080,
+        "num": 232080,
+        "word": "风吹半夏官宣OST阵容",
+        "onboard_time": 1669261473,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 214907,
+        "num": 214907,
+        "word": "熬夜后怎么补觉",
+        "onboard_time": 1669259188,
+        "rank": 28,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 214074,
+        "num": 214074,
+        "word": "李峋是懂大学的",
+        "onboard_time": 1669264536,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 209684,
+        "num": 209684,
+        "word": "刘雨昕鞠婧祎沈梦瑶东方风云榜彩排照",
+        "onboard_time": 1669263995,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203777,
+        "num": 203777,
+        "word": "赵丽颖风吹半夏五大美德",
+        "onboard_time": 1669258230,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 199919,
+        "num": 199919,
+        "word": "金硕珍将12月13日入伍",
+        "onboard_time": 1669263214,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192899,
+        "num": 192899,
+        "word": "无大碍 已和好",
+        "onboard_time": 1669263274,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191833,
+        "num": 191833,
+        "word": "巴西vs塞尔维亚",
+        "onboard_time": 1669263032,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189428,
+        "num": 189428,
+        "word": "爸爸远赴湖北给远嫁女儿打造柜子",
+        "onboard_time": 1669264717,
+        "rank": 35,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 187877,
+        "num": 187877,
+        "word": "北大硕士当编剧主角是300个动物",
+        "onboard_time": 1669257932,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185361,
+        "num": 185361,
+        "word": "陈飞宇念英文绿皮书台词",
+        "onboard_time": 1669254811,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 182135,
+        "num": 184678,
+        "word": "航海王剧场版官宣定档1201",
+        "onboard_time": 1669263032,
+        "rank": 38,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 184434,
+        "num": 184434,
+        "word": "白鹿郑书意绿色毛衫造型上班路透",
+        "onboard_time": 1669259131,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 183360,
+        "num": 183360,
+        "word": "谢谢你们CZ3925",
+        "onboard_time": 1669263695,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178928,
+        "num": 178928,
+        "word": "李一桐吊带鎏金裙",
+        "onboard_time": 1669249296,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 178834,
+        "num": 178834,
+        "word": "上海迪士尼乐园将于25日重新开放",
+        "onboard_time": 1669258350,
+        "rank": 42,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 176461,
+        "num": 176461,
+        "word": "女生2天没出门猫咪叼金鱼投喂",
+        "onboard_time": 1669254211,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174737,
+        "num": 174737,
+        "word": "王源新歌粤语旁白是薛凯琪",
+        "onboard_time": 1669262313,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 168397,
+        "num": 168397,
+        "word": "爸爸下班看到女儿开心到原地跺脚",
+        "onboard_time": 1669264178,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165441,
+        "num": 165441,
+        "word": "日本赔率",
+        "onboard_time": 1669217983,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162142,
+        "num": 162142,
+        "word": "葡萄牙vs加纳",
+        "onboard_time": 1669261774,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153622,
+        "num": 153622,
+        "word": "北京增社会面328例",
+        "onboard_time": 1669250076,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142772,
+        "num": 142772,
+        "word": "这猫怎么还会偷伞啊",
+        "onboard_time": 1669264776,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#在法治轨道上全面建设社会主义现代化国家#"
+    }
+  }
+}

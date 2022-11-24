@@ -1,6 +1,6 @@
 {
   "startTime": 1669220901508,
-  "endTime": 1669263908322,
+  "endTime": 1669264867304,
   "band_list": [
     {
       "raw_hot": 2651843,
@@ -27,20 +27,28 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 2058039,
+      "num": 2058039,
+      "word": "压力来到韩国这边",
+      "onboard_time": 1669253074,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2041439,
+      "num": 2041439,
+      "word": "离个婚能有多不体面",
+      "onboard_time": 1669260694,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1970183,
       "num": 1970183,
       "word": "成都健康码崩了",
       "onboard_time": 1669248572,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1892205,
-      "num": 1892205,
-      "word": "压力来到韩国这边",
-      "onboard_time": 1669253074,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 1767460,
@@ -73,14 +81,6 @@
       "onboard_time": 1669257091,
       "rank": 13,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1403134,
-      "num": 1403134,
-      "word": "离个婚能有多不体面",
-      "onboard_time": 1669260694,
-      "rank": 19,
-      "category": "情感"
     },
     {
       "raw_hot": 1301881,
@@ -155,6 +155,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 891639,
+      "num": 891639,
+      "word": "女子跟老公在一起5年陪读4年",
+      "onboard_time": 1669259673,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 844532,
       "num": 844532,
       "word": "西班牙好稳",
@@ -195,14 +203,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 796176,
-      "num": 796176,
-      "word": "女子跟老公在一起5年陪读4年",
-      "onboard_time": 1669259673,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 794290,
       "num": 794290,
       "word": "原来不懂球也是有好处的",
@@ -217,6 +217,14 @@
       "onboard_time": 1669250076,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 738474,
+      "num": 738474,
+      "word": "莫让赌球毁了年轻干部",
+      "onboard_time": 1669262073,
+      "rank": 12,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 715234,
@@ -275,8 +283,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 596662,
-      "num": 596662,
+      "raw_hot": 610161,
+      "num": 610161,
       "word": "孩子打闹家长上门道歉被扇耳光",
       "onboard_time": 1669261172,
       "rank": 32,
@@ -315,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 567882,
+      "num": 567882,
+      "word": "内马尔强调不要轻视对手",
+      "onboard_time": 1669260694,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 559779,
       "num": 559779,
       "word": "老人以88倍价格买下仅值5元膏药",
@@ -347,28 +363,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 535841,
+      "num": 535841,
+      "word": "朱韵戴戒指细节",
+      "onboard_time": 1669262732,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 519752,
       "num": 519752,
       "word": "阿根廷和德国拿了一样的剧本",
       "onboard_time": 1669217447,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 515962,
-      "num": 515962,
-      "word": "内马尔强调不要轻视对手",
-      "onboard_time": 1669260694,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 484541,
-      "num": 484541,
-      "word": "莫让赌球毁了年轻干部",
-      "onboard_time": 1669262073,
-      "rank": 12,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 479107,
@@ -379,20 +387,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 473385,
-      "num": 473385,
-      "word": "朱韵戴戒指细节",
-      "onboard_time": 1669262732,
-      "rank": 14,
-      "category": "影视"
-    },
-    {
       "raw_hot": 463953,
       "num": 463953,
       "word": "郑州将进行5天流动性管理",
       "onboard_time": 1669212461,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 446616,
+      "num": 446616,
+      "word": "C罗今晚会取得进球吗",
+      "onboard_time": 1669260330,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 441670,
@@ -491,14 +499,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 367470,
-      "num": 367470,
-      "word": "C罗今晚会取得进球吗",
-      "onboard_time": 1669260330,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 359529,
       "num": 359529,
       "word": "体彩",
@@ -537,6 +537,14 @@
       "onboard_time": 1669256008,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 327940,
+      "num": 327940,
+      "word": "日本大叔说下次轮到中国赢德国",
+      "onboard_time": 1669263632,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 326488,
@@ -747,6 +755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 269629,
+      "num": 269629,
+      "word": "内马尔被针对是有原因的",
+      "onboard_time": 1669261892,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 268328,
       "num": 241180,
       "word": "白鹿郑书意绿色毛衫造型上班路透",
@@ -785,6 +801,14 @@
       "onboard_time": 1669220909,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 253416,
+      "num": 253416,
+      "word": "原来周昊杉和周柯宇是亲兄弟",
+      "onboard_time": 1669263632,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 252722,
@@ -867,14 +891,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 226347,
-      "num": 226347,
-      "word": "内马尔被针对是有原因的",
-      "onboard_time": 1669261892,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 224166,
       "num": 224166,
       "word": "男孩被忘服务区家长让其步行追赶",
@@ -889,14 +905,6 @@
       "onboard_time": 1669262313,
       "rank": 30,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 217757,
-      "num": 217757,
-      "word": "原来周昊杉和周柯宇是亲兄弟",
-      "onboard_time": 1669263632,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 216701,
@@ -915,12 +923,20 @@
       "category": "影视,动漫"
     },
     {
-      "raw_hot": 213991,
-      "num": 213991,
+      "raw_hot": 214907,
+      "num": 214907,
       "word": "熬夜后怎么补觉",
       "onboard_time": 1669259188,
       "rank": 46,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 214074,
+      "num": 214074,
+      "word": "李峋是懂大学的",
+      "onboard_time": 1669264536,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 211035,
@@ -929,6 +945,14 @@
       "onboard_time": 1669212821,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 209684,
+      "num": 209684,
+      "word": "刘雨昕鞠婧祎沈梦瑶东方风云榜彩排照",
+      "onboard_time": 1669263995,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 207100,
@@ -1011,6 +1035,30 @@
       "category": "影视"
     },
     {
+      "raw_hot": 192899,
+      "num": 192899,
+      "word": "无大碍 已和好",
+      "onboard_time": 1669263274,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 191833,
+      "num": 191833,
+      "word": "巴西vs塞尔维亚",
+      "onboard_time": 1669263032,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 189428,
+      "num": 189428,
+      "word": "爸爸远赴湖北给远嫁女儿打造柜子",
+      "onboard_time": 1669264717,
+      "rank": 35,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 188969,
       "num": 188969,
       "word": "陈小纭郝葭人设",
@@ -1035,6 +1083,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 183360,
+      "num": 183360,
+      "word": "谢谢你们CZ3925",
+      "onboard_time": 1669263695,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 182869,
       "num": 182869,
       "word": "历史总是惊人的相似",
@@ -1049,14 +1105,6 @@
       "onboard_time": 1669260572,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 181944,
-      "num": 181944,
-      "word": "巴西vs塞尔维亚",
-      "onboard_time": 1669263032,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 181903,
@@ -1115,11 +1163,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 167527,
-      "num": 167527,
-      "word": "谢谢你们CZ3925",
-      "onboard_time": 1669263695,
-      "rank": 43,
+      "raw_hot": 168397,
+      "num": 168397,
+      "word": "爸爸下班看到女儿开心到原地跺脚",
+      "onboard_time": 1669264178,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -1188,7 +1236,7 @@
     },
     {
       "raw_hot": 156841,
-      "num": 1411498,
+      "num": 1499093,
       "word": "多视角记录空军女飞行员首次单飞",
       "onboard_time": 1669262012,
       "rank": 2,
@@ -1267,6 +1315,14 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 142772,
+      "num": 142772,
+      "word": "这猫怎么还会偷伞啊",
+      "onboard_time": 1669264776,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 142519,
       "num": 142519,
       "word": "龚俊和狗狗终于同框合拍了",
@@ -1289,14 +1345,6 @@
       "onboard_time": 1669210234,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 136315,
-      "num": 136315,
-      "word": "日本大叔说下次轮到中国赢德国",
-      "onboard_time": 1669263632,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 136237,
