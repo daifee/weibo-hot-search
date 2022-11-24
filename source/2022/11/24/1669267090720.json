@@ -1,0 +1,410 @@
+{
+  "runTime": 1669267090720,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2899023,
+        "num": 2899023,
+        "word": "无大碍 已和好",
+        "onboard_time": 1669263274,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2177303,
+        "num": 2177303,
+        "word": "离个婚能有多不体面",
+        "onboard_time": 1669260694,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 127899,
+        "num": 1514186,
+        "word": "多视角记录空军女飞行员首次单飞",
+        "onboard_time": 1669262012,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1360803,
+        "num": 1360803,
+        "word": "压力来到韩国这边",
+        "onboard_time": 1669253074,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1279322,
+        "num": 1279322,
+        "word": "莫让赌球毁了年轻干部",
+        "onboard_time": 1669262073,
+        "rank": 4,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 962858,
+        "num": 962858,
+        "word": "日本大叔说下次轮到中国赢德国",
+        "onboard_time": 1669263632,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 858229,
+        "num": 858229,
+        "word": "北京取消2022年度9项资格考试",
+        "onboard_time": 1669257091,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 778734,
+        "num": 778734,
+        "word": "女子深夜打110点奶茶民警秒懂",
+        "onboard_time": 1669255295,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 559728,
+        "num": 559728,
+        "word": "女子跟老公在一起5年陪读4年",
+        "onboard_time": 1669259673,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 552641,
+        "num": 552641,
+        "word": "上海立法禁止群租",
+        "onboard_time": 1669257630,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 523293,
+        "num": 523293,
+        "word": "为什么卿卿日常不适合倍速看",
+        "onboard_time": 1669258350,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 474231,
+        "num": 474231,
+        "word": "孩子打闹家长上门道歉被扇耳光",
+        "onboard_time": 1669261172,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 473462,
+        "num": 473462,
+        "word": "谁还走不出于途乔晶晶雪地名场面",
+        "onboard_time": 1669265434,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 447201,
+        "num": 447201,
+        "word": "退钱哥又让退钱了",
+        "onboard_time": 1669256908,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 443582,
+        "num": 443582,
+        "word": "爸爸下班看到女儿开心到原地跺脚",
+        "onboard_time": 1669264178,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 429389,
+        "num": 429389,
+        "word": "北京新增1例死亡病例情况",
+        "onboard_time": 1669266158,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 425495,
+        "num": 425495,
+        "word": "朱韵戴戒指细节",
+        "onboard_time": 1669262732,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 409822,
+        "num": 409822,
+        "word": "内马尔强调不要轻视对手",
+        "onboard_time": 1669260694,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 378935,
+        "num": 378935,
+        "word": "薛凯琪说很开心能在源源新歌里吵了个架",
+        "onboard_time": 1669265856,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 330418,
+        "num": 330418,
+        "word": "郑州将用5天时间打一场疫情防控歼灭战",
+        "onboard_time": 1669252235,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302618,
+        "num": 302618,
+        "word": "为什么真的不建议你去赌球",
+        "onboard_time": 1669253495,
+        "rank": 20,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 280535,
+        "num": 280535,
+        "word": "原来周昊杉和周柯宇是亲兄弟",
+        "onboard_time": 1669263632,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264197,
+        "num": 264197,
+        "word": "孙兴慜将戴面具出战",
+        "onboard_time": 1669259311,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 256086,
+        "num": 256086,
+        "word": "C罗今晚会取得进球吗",
+        "onboard_time": 1669260330,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 255906,
+        "num": 255906,
+        "word": "谢谢你们CZ3925",
+        "onboard_time": 1669263695,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253804,
+        "num": 253804,
+        "word": "尹岐是新川最有种的男人",
+        "onboard_time": 1669265316,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 241234,
+        "num": 241234,
+        "word": "重庆新增本土确诊409例无症状7437例",
+        "onboard_time": 1669252593,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237878,
+        "num": 237878,
+        "word": "广州新增本土感染者7620例",
+        "onboard_time": 1669253972,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235546,
+        "num": 235546,
+        "word": "父母让8岁孩子休学1周专打游戏",
+        "onboard_time": 1669254572,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220391,
+        "num": 220391,
+        "word": "内马尔被针对是有原因的",
+        "onboard_time": 1669261892,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203838,
+        "num": 203838,
+        "word": "鹿晗不插电live专辑上线",
+        "onboard_time": 1669265913,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 202676,
+        "num": 202676,
+        "word": "杨幂说许凯生活中的声音就呆呆萌萌",
+        "onboard_time": 1669266454,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 195497,
+        "num": 195497,
+        "word": "陈紫函说还好郝葭身边有赵芳如",
+        "onboard_time": 1669260153,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 194965,
+        "num": 194965,
+        "word": "C罗世界杯首秀",
+        "onboard_time": 1669252296,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185389,
+        "num": 185389,
+        "word": "檀健次官宣微博视界大会",
+        "onboard_time": 1669265856,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182721,
+        "num": 182721,
+        "word": "做一件羊绒大衣要薅多少只小山羊",
+        "onboard_time": 1669259012,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178171,
+        "num": 178171,
+        "word": "巴西vs塞尔维亚",
+        "onboard_time": 1669263032,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176926,
+        "num": 176926,
+        "word": "TWICE韩专销量突破1000万张",
+        "onboard_time": 1669261892,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 168917,
+        "num": 168917,
+        "word": "宝宝趴床边偷看世界杯被爸爸发现",
+        "onboard_time": 1669265617,
+        "rank": 38,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 314218,
+        "num": 168528,
+        "word": "李峋是懂大学的",
+        "onboard_time": 1669264536,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 167702,
+        "num": 167702,
+        "word": "女生2天没出门猫咪叼金鱼投喂",
+        "onboard_time": 1669254211,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167285,
+        "num": 167285,
+        "word": "风吹半夏官宣OST阵容",
+        "onboard_time": 1669261473,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 154604,
+        "num": 154604,
+        "word": "熬夜后怎么补觉",
+        "onboard_time": 1669259188,
+        "rank": 42,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 154370,
+        "num": 154370,
+        "word": "刘雨昕说东方风云榜明天见",
+        "onboard_time": 1669266873,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151428,
+        "num": 151428,
+        "word": "葡萄牙vs加纳",
+        "onboard_time": 1669261774,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149987,
+        "num": 149987,
+        "word": "义乌老板娘能有多卷",
+        "onboard_time": 1669266635,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 145847,
+        "num": 145847,
+        "word": "死亡之组竞争有多激烈",
+        "onboard_time": 1669265497,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 265475,
+        "num": 145650,
+        "word": "汪苏泷新歌为什么难过一直在重播预告",
+        "onboard_time": 1669267055,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 144747,
+        "num": 144747,
+        "word": "上海迪士尼乐园将于25日重新开放",
+        "onboard_time": 1669258350,
+        "rank": 48,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 139756,
+        "num": 139756,
+        "word": "赵丽颖风吹半夏五大美德",
+        "onboard_time": 1669258230,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#让互联网的发展成果更好地造福全人类#"
+    }
+  }
+}
