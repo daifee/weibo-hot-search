@@ -1,6 +1,6 @@
 {
   "startTime": 1669307280718,
-  "endTime": 1669321216175,
+  "endTime": 1669322085507,
   "band_list": [
     {
       "raw_hot": 5448624,
@@ -187,20 +187,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 557602,
+      "num": 557602,
+      "word": "巴西vs塞尔维亚",
+      "onboard_time": 1669303303,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 513183,
       "num": 513183,
       "word": "不挣钱的人是没有话语权的",
       "onboard_time": 1669305754,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 512979,
-      "num": 512979,
-      "word": "巴西vs塞尔维亚",
-      "onboard_time": 1669303303,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 487109,
@@ -635,6 +635,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 126535,
+      "num": 32308,
+      "word": "巴西半场0比0塞尔维亚",
+      "onboard_time": 1669320673,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 123955,
       "num": 123955,
       "word": "当代球迷看球现状",
@@ -665,14 +673,6 @@
       "onboard_time": 1669313726,
       "rank": 41,
       "category": "体育,幽默"
-    },
-    {
-      "raw_hot": 100909,
-      "num": 32308,
-      "word": "巴西半场0比0塞尔维亚",
-      "onboard_time": 1669320673,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 88232,
@@ -747,8 +747,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 21197,
-      "num": 21197,
+      "raw_hot": 27718,
+      "num": 26993,
       "word": "伊涅斯塔力挺梅西",
       "onboard_time": 1669319715,
       "rank": 45,
