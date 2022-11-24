@@ -1,6 +1,6 @@
 {
   "startTime": 1668961718135,
-  "endTime": 1669281558302,
+  "endTime": 1669282494973,
   "band_list": [
     {
       "raw_hot": 15128338,
@@ -489,6 +489,14 @@
       "onboard_time": 1669180422,
       "rank": 1,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1615252,
+      "num": 1615252,
+      "word": "台湾是中国的",
+      "onboard_time": 1669280670,
+      "rank": 12,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 1592601,
@@ -1203,6 +1211,14 @@
       "category": "国外要闻,艺人"
     },
     {
+      "raw_hot": 940168,
+      "num": 940168,
+      "word": "日本队为14秒失误研究了一年",
+      "onboard_time": 1669279109,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 939263,
       "num": 939263,
       "word": "C罗世界杯首秀",
@@ -1313,6 +1329,14 @@
       "onboard_time": 1669042065,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 876157,
+      "num": 876157,
+      "word": "陈乔恩说没有女人想听到保养得好",
+      "onboard_time": 1669277552,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 867285,
@@ -1609,14 +1633,6 @@
       "onboard_time": 1669127264,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 739088,
-      "num": 739088,
-      "word": "陈乔恩说没有女人想听到保养得好",
-      "onboard_time": 1669277552,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 737692,
@@ -1931,14 +1947,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 645220,
-      "num": 645220,
-      "word": "日本队为14秒失误研究了一年",
-      "onboard_time": 1669279109,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 645128,
       "num": 645128,
       "word": "北京昨增388例本土确诊",
@@ -2171,6 +2179,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 605293,
+      "num": 605293,
+      "word": "长春疫情防控",
+      "onboard_time": 1669278270,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 602305,
       "num": 602305,
       "word": "海贼王",
@@ -2219,6 +2235,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 591223,
+      "num": 591223,
+      "word": "谭松韵近五年90花收视冠军",
+      "onboard_time": 1669279890,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 587421,
       "num": 587421,
       "word": "小学女生卫生间多了月经暖心盒",
@@ -2233,14 +2257,6 @@
       "onboard_time": 1669219537,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 584347,
-      "num": 430390,
-      "word": "台湾是中国的",
-      "onboard_time": 1669280670,
-      "rank": 12,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 583581,
@@ -2432,14 +2448,6 @@
       "word": "24日起北京进入公共场所查验48小时核酸证明",
       "onboard_time": 1669112189,
       "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 558018,
-      "num": 558018,
-      "word": "长春疫情防控",
-      "onboard_time": 1669278270,
-      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -3075,14 +3083,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 464389,
-      "num": 464389,
-      "word": "谭松韵近五年90花收视冠军",
-      "onboard_time": 1669279890,
-      "rank": 8,
-      "category": "影视"
-    },
-    {
       "raw_hot": 464369,
       "num": 464369,
       "word": "没有克洛泽的德国队",
@@ -3401,6 +3401,14 @@
       "onboard_time": 1669252235,
       "rank": 15,
       "category": "科技"
+    },
+    {
+      "raw_hot": 431430,
+      "num": 381723,
+      "word": "郑恺背苗苗爬楼梯",
+      "onboard_time": 1669280730,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 431169,
@@ -4331,6 +4339,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 345868,
+      "num": 345868,
+      "word": "C罗和内马尔今日首秀",
+      "onboard_time": 1669277490,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 345838,
       "num": 345838,
       "word": "幼童在幼儿园被殴打致轻微伤",
@@ -4401,14 +4417,6 @@
       "onboard_time": 1669197397,
       "rank": 21,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 344380,
-      "num": 344380,
-      "word": "C罗和内马尔今日首秀",
-      "onboard_time": 1669277490,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 344332,
@@ -4571,14 +4579,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 334309,
-      "num": 203337,
-      "word": "郑恺背苗苗爬楼梯",
-      "onboard_time": 1669280730,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 334135,
       "num": 334135,
       "word": "实验用菌不生长被研究生怒批",
@@ -4649,6 +4649,14 @@
       "onboard_time": 1669134212,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 330972,
+      "num": 330972,
+      "word": "乌拉圭vs韩国",
+      "onboard_time": 1669282230,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 330744,
@@ -4843,6 +4851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 320194,
+      "num": 320194,
+      "word": "孕妇过度营养致胰腺炎血液像豆浆",
+      "onboard_time": 1669280309,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 319909,
       "num": 319909,
       "word": "赵丽颖风吹半夏五大美德",
@@ -4865,6 +4881,14 @@
       "onboard_time": 1669272093,
       "rank": 19,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 317617,
+      "num": 249959,
+      "word": "酷云认证赵丽颖近五年85花收视TOP1",
+      "onboard_time": 1669281693,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 317178,
@@ -5345,6 +5369,14 @@
       "onboard_time": 1669121683,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 287537,
+      "num": 247942,
+      "word": "再就业男团思念是一种病reaction",
+      "onboard_time": 1669281872,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 287387,
@@ -7011,14 +7043,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 205955,
-      "num": 205955,
-      "word": "孕妇过度营养致胰腺炎血液像豆浆",
-      "onboard_time": 1669280309,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 204900,
       "num": 133930,
       "word": "开幕式 沙丘",
@@ -8139,6 +8163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 171741,
+      "num": 171741,
+      "word": "国防部回应美发布涉台报告",
+      "onboard_time": 1669281152,
+      "rank": 38,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 171556,
       "num": 171556,
       "word": "Jennie最新杂志海报",
@@ -8185,6 +8217,14 @@
       "onboard_time": 1669028198,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 169778,
+      "num": 169778,
+      "word": "原来买毛衣要先看面料",
+      "onboard_time": 1669280850,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 169682,
@@ -8273,6 +8313,14 @@
       "onboard_time": 1669213238,
       "rank": 46,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 165141,
+      "num": 165141,
+      "word": "日本赢球各国球迷祝贺中国小伙",
+      "onboard_time": 1669280730,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 164149,
@@ -8441,14 +8489,6 @@
       "onboard_time": 1669275212,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 159728,
-      "num": 159728,
-      "word": "国防部回应美发布涉台报告",
-      "onboard_time": 1669281152,
-      "rank": 38,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 159384,
@@ -8963,14 +9003,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 144606,
-      "num": 144606,
-      "word": "原来买毛衣要先看面料",
-      "onboard_time": 1669280850,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 144414,
       "num": 144414,
       "word": "勇士vs火箭",
@@ -8993,6 +9025,14 @@
       "onboard_time": 1669168411,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 143686,
+      "num": 143686,
+      "word": "日本足协正申请加入欧足联",
+      "onboard_time": 1669282230,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 143676,
@@ -9099,14 +9139,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 140689,
-      "num": 140689,
-      "word": "日本赢球各国球迷祝贺中国小伙",
-      "onboard_time": 1669280730,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 139937,
       "num": 139937,
       "word": "厄瓜多尔将进球献给已故队友",
@@ -9184,6 +9216,14 @@
       "word": "英格兰首发",
       "onboard_time": 1669032403,
       "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 138030,
+      "num": 138030,
+      "word": "管泽元说巴西不夺冠剃光头",
+      "onboard_time": 1669281391,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -9595,6 +9635,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 124087,
+      "num": 124087,
+      "word": "C罗今晚见",
+      "onboard_time": 1669282409,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 123598,
       "num": 123598,
       "word": "施情华意的甜蜜对话",
@@ -9731,6 +9779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 119358,
+      "num": 119358,
+      "word": "EDG老板公司欠款849万成老赖",
+      "onboard_time": 1669282471,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 119142,
       "num": 119142,
       "word": "卡塔尔世界杯32强巨型球衣",
@@ -9753,14 +9809,6 @@
       "onboard_time": 1669106613,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 118503,
-      "num": 118503,
-      "word": "管泽元说巴西不夺冠剃光头",
-      "onboard_time": 1669281391,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 117628,

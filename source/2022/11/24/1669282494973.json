@@ -1,0 +1,410 @@
+{
+  "runTime": 1669282494973,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1615252,
+        "num": 1615252,
+        "word": "台湾是中国的",
+        "onboard_time": 1669280670,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1185495,
+        "num": 1185495,
+        "word": "女子踩到一颗车厘子摔伤超市赔16万",
+        "onboard_time": 1669273653,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48874,
+        "num": 951008,
+        "word": "多视角记录空军女飞行员首次单飞",
+        "onboard_time": 1669262012,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 940168,
+        "num": 940168,
+        "word": "日本队为14秒失误研究了一年",
+        "onboard_time": 1669279109,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 876157,
+        "num": 876157,
+        "word": "陈乔恩说没有女人想听到保养得好",
+        "onboard_time": 1669277552,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 605293,
+        "num": 605293,
+        "word": "长春疫情防控",
+        "onboard_time": 1669278270,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 591223,
+        "num": 591223,
+        "word": "谭松韵近五年90花收视冠军",
+        "onboard_time": 1669279890,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 570625,
+        "num": 570625,
+        "word": "巴西球星真的来堵管泽元的嘴了",
+        "onboard_time": 1669277189,
+        "rank": 7,
+        "category": "体育,幽默"
+      },
+      {
+        "raw_hot": 501338,
+        "num": 501338,
+        "word": "离个婚能有多不体面",
+        "onboard_time": 1669260694,
+        "rank": 8,
+        "category": "情感,影视"
+      },
+      {
+        "raw_hot": 383981,
+        "num": 383981,
+        "word": "中国球迷世界杯现场痛哭",
+        "onboard_time": 1669274251,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 699606,
+        "num": 382224,
+        "word": "宋轶把千金气质拿捏住了",
+        "onboard_time": 1669274611,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 533680,
+        "num": 382171,
+        "word": "刘强东3小时内部发言",
+        "onboard_time": 1669269872,
+        "rank": 11,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 431430,
+        "num": 381723,
+        "word": "郑恺背苗苗爬楼梯",
+        "onboard_time": 1669280730,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 378436,
+        "num": 378436,
+        "word": "朱韵救了李峋",
+        "onboard_time": 1669278571,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 354952,
+        "num": 354952,
+        "word": "日本大叔说下次轮到中国赢德国",
+        "onboard_time": 1669263632,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 345868,
+        "num": 345868,
+        "word": "C罗和内马尔今日首秀",
+        "onboard_time": 1669277490,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 330972,
+        "num": 330972,
+        "word": "乌拉圭vs韩国",
+        "onboard_time": 1669282230,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 325096,
+        "num": 325096,
+        "word": "世界杯",
+        "onboard_time": 1669272872,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 320194,
+        "num": 320194,
+        "word": "孕妇过度营养致胰腺炎血液像豆浆",
+        "onboard_time": 1669280309,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261920,
+        "num": 261920,
+        "word": "C罗说要让所有葡萄牙人骄傲",
+        "onboard_time": 1669269991,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 317617,
+        "num": 249959,
+        "word": "酷云认证赵丽颖近五年85花收视TOP1",
+        "onboard_time": 1669281693,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 310570,
+        "num": 248361,
+        "word": "杨幂回应粉丝催进组",
+        "onboard_time": 1669277430,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 287537,
+        "num": 247942,
+        "word": "再就业男团思念是一种病reaction",
+        "onboard_time": 1669281872,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235686,
+        "num": 235686,
+        "word": "为什么经期前会莫名emo",
+        "onboard_time": 1669271012,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 231419,
+        "num": 231419,
+        "word": "C罗卡塔尔世界杯首秀",
+        "onboard_time": 1669277430,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 214279,
+        "num": 214279,
+        "word": "北京新增1例死亡病例情况",
+        "onboard_time": 1669266158,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206162,
+        "num": 206162,
+        "word": "巴西球迷求管泽元闭嘴",
+        "onboard_time": 1669277728,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193469,
+        "num": 193469,
+        "word": "消防员火场救出一窝熏黑的小白兔",
+        "onboard_time": 1669276052,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184989,
+        "num": 184989,
+        "word": "北京疫情发布会",
+        "onboard_time": 1669282293,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179908,
+        "num": 179908,
+        "word": "瑞士vs喀麦隆",
+        "onboard_time": 1669279228,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221975,
+        "num": 178518,
+        "word": "张婧仪说跟陈飞宇拍吻戏要踩苹果箱",
+        "onboard_time": 1669277007,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 194404,
+        "num": 178509,
+        "word": "12月的电影院燃起来了",
+        "onboard_time": 1669274068,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 171741,
+        "num": 171741,
+        "word": "国防部回应美发布涉台报告",
+        "onboard_time": 1669281152,
+        "rank": 32,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 170528,
+        "num": 170528,
+        "word": "3块5在南昌实现拌粉自由",
+        "onboard_time": 1669279771,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 169778,
+        "num": 169778,
+        "word": "原来买毛衣要先看面料",
+        "onboard_time": 1669280850,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 166199,
+        "num": 166199,
+        "word": "尹峥尹岐盯妻狂魔",
+        "onboard_time": 1669276291,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 165848,
+        "num": 165848,
+        "word": "莫让赌球毁了年轻干部",
+        "onboard_time": 1669262073,
+        "rank": 36,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 165141,
+        "num": 165141,
+        "word": "日本赢球各国球迷祝贺中国小伙",
+        "onboard_time": 1669280730,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158785,
+        "num": 158785,
+        "word": "厌倦吃席女孩将农村婚礼办成游园会",
+        "onboard_time": 1669269033,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158236,
+        "num": 158236,
+        "word": "穿搭瞬间就不好看了",
+        "onboard_time": 1669275510,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 154935,
+        "num": 154935,
+        "word": "男孩从不及格逆袭到97分全班欢呼",
+        "onboard_time": 1669275151,
+        "rank": 40,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 144847,
+        "num": 144847,
+        "word": "群租和合租有什么区别",
+        "onboard_time": 1669272093,
+        "rank": 41,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 143686,
+        "num": 143686,
+        "word": "日本足协正申请加入欧足联",
+        "onboard_time": 1669282230,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141281,
+        "num": 141281,
+        "word": "刘强东批评高管讲故事太多",
+        "onboard_time": 1669276472,
+        "rank": 43,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 138030,
+        "num": 138030,
+        "word": "管泽元说巴西不夺冠剃光头",
+        "onboard_time": 1669281391,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135596,
+        "num": 135596,
+        "word": "李峋的搜索栏内容都和朱韵有关",
+        "onboard_time": 1669277611,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 138095,
+        "num": 131698,
+        "word": "刘强东称将末位淘汰部分京东高管",
+        "onboard_time": 1669270412,
+        "rank": 46,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 124087,
+        "num": 124087,
+        "word": "C罗今晚见",
+        "onboard_time": 1669282409,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123835,
+        "num": 123835,
+        "word": "俞灏明回归0713演唱会",
+        "onboard_time": 1669277369,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119358,
+        "num": 119358,
+        "word": "EDG老板公司欠款849万成老赖",
+        "onboard_time": 1669282471,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国2021年专利数全球最高#"
+    }
+  }
+}
