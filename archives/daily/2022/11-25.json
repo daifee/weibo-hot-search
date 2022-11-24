@@ -1,6 +1,6 @@
 {
   "startTime": 1669307280718,
-  "endTime": 1669324637835,
+  "endTime": 1669325614171,
   "band_list": [
     {
       "raw_hot": 5448624,
@@ -763,7 +763,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 40029,
+      "raw_hot": 41555,
       "num": 31447,
       "word": "伊涅斯塔力挺梅西",
       "onboard_time": 1669319715,
@@ -787,8 +787,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 25184,
-      "num": 25184,
+      "raw_hot": 25508,
+      "num": 25508,
       "word": "C罗好自律",
       "onboard_time": 1669322172,
       "rank": 41,

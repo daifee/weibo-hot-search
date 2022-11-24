@@ -1,6 +1,6 @@
 {
   "startTime": 1668961718135,
-  "endTime": 1669324637835,
+  "endTime": 1669325614171,
   "band_list": [
     {
       "raw_hot": 15128338,
@@ -12139,6 +12139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 41555,
+      "num": 31447,
+      "word": "伊涅斯塔力挺梅西",
+      "onboard_time": 1669319715,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 40730,
       "num": 40730,
       "word": "熬夜看球后建议直接补觉",
@@ -12152,14 +12160,6 @@
       "word": "吉鲁追平亨利进球纪录",
       "onboard_time": 1669151832,
       "rank": 49,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 40029,
-      "num": 31447,
-      "word": "伊涅斯塔力挺梅西",
-      "onboard_time": 1669319715,
-      "rank": 45,
       "category": "体育"
     },
     {
@@ -12259,8 +12259,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 25184,
-      "num": 25184,
+      "raw_hot": 25508,
+      "num": 25508,
       "word": "C罗好自律",
       "onboard_time": 1669322172,
       "rank": 41,
