@@ -1,6 +1,6 @@
 {
   "startTime": 1669307280718,
-  "endTime": 1669328320118,
+  "endTime": 1669329325539,
   "band_list": [
     {
       "raw_hot": 5448624,
@@ -203,6 +203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 524925,
+      "num": 524925,
+      "word": "巴西2比0塞尔维亚",
+      "onboard_time": 1669323674,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 513183,
       "num": 513183,
       "word": "不挣钱的人是没有话语权的",
@@ -232,14 +240,6 @@
       "word": "卡卡 帅",
       "onboard_time": 1669311920,
       "rank": 23,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 438609,
-      "num": 438609,
-      "word": "巴西2比0塞尔维亚",
-      "onboard_time": 1669323674,
-      "rank": 4,
       "category": "体育"
     },
     {
@@ -739,6 +739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 71562,
+      "num": 71562,
+      "word": "熊孩子划伤多辆汽车奶奶说没钱赔",
+      "onboard_time": 1669327095,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 67987,
       "num": 77903,
       "word": "隔离在朋友家是什么体验",
@@ -771,16 +779,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 32243,
-      "num": 32243,
-      "word": "熊孩子划伤多辆汽车奶奶说没钱赔",
-      "onboard_time": 1669327095,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 31124,
-      "num": 31124,
+      "raw_hot": 40183,
+      "num": 40183,
       "word": "世界杯",
       "onboard_time": 1669272872,
       "rank": 31,
@@ -801,6 +801,22 @@
       "onboard_time": 1669323611,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 24701,
+      "num": 24701,
+      "word": "李薇是尹峥的暖宝宝",
+      "onboard_time": 1669329077,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 22233,
+      "num": 22233,
+      "word": "年轻人在健一种很新的身",
+      "onboard_time": 1669329136,
+      "rank": 48,
+      "category": "幽默,体育"
     }
   ],
   "hotgov_list": [
