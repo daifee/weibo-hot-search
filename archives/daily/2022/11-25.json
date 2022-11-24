@@ -1,10 +1,10 @@
 {
   "startTime": 1669307280718,
-  "endTime": 1669308395079,
+  "endTime": 1669310268983,
   "band_list": [
     {
-      "raw_hot": 3165210,
-      "num": 3165210,
+      "raw_hot": 4780092,
+      "num": 4780092,
       "word": "C罗哭了",
       "onboard_time": 1669306586,
       "rank": 3,
@@ -19,6 +19,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2383844,
+      "num": 2383844,
+      "word": "C罗进球被吹",
+      "onboard_time": 1669307847,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1536291,
       "num": 1536291,
       "word": "韩国 小动作",
@@ -27,11 +35,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 828838,
-      "num": 828838,
+      "raw_hot": 1043476,
+      "num": 1043476,
       "word": "内马尔首秀",
       "onboard_time": 1669305335,
       "rank": 10,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 934373,
+      "num": 934373,
+      "word": "葡萄牙 裁判",
+      "onboard_time": 1669308815,
+      "rank": 5,
       "category": "体育"
     },
     {
@@ -67,6 +83,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 596960,
+      "num": 596960,
+      "word": "C罗错失单刀",
+      "onboard_time": 1669307607,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 580009,
       "num": 580009,
       "word": "乌拉圭教练好帅",
@@ -75,11 +99,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 513183,
+      "num": 513183,
+      "word": "不挣钱的人是没有话语权的",
+      "onboard_time": 1669305754,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 512979,
       "num": 512979,
       "word": "巴西vs塞尔维亚",
       "onboard_time": 1669303303,
       "rank": 8,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 493455,
+      "num": 493455,
+      "word": "C罗犯规",
+      "onboard_time": 1669309823,
+      "rank": 9,
       "category": "体育"
     },
     {
@@ -99,20 +139,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 419292,
-      "num": 419292,
-      "word": "不挣钱的人是没有话语权的",
-      "onboard_time": 1669305754,
-      "rank": 24,
-      "category": "社会新闻"
+      "raw_hot": 405340,
+      "num": 405340,
+      "word": "C罗世界杯进球瞬间",
+      "onboard_time": 1669305992,
+      "rank": 20,
+      "category": "体育"
     },
     {
-      "raw_hot": 405385,
-      "num": 405385,
-      "word": "C罗进球被吹",
-      "onboard_time": 1669307847,
-      "rank": 11,
-      "category": "体育"
+      "raw_hot": 400271,
+      "num": 400271,
+      "word": "原来这些明星都是C罗球迷",
+      "onboard_time": 1669305158,
+      "rank": 35,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 393660,
@@ -131,6 +171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 374613,
+      "num": 374613,
+      "word": "C罗弹跳",
+      "onboard_time": 1669308570,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 369711,
       "num": 369711,
       "word": "韩国球迷 吵",
@@ -139,11 +187,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 366123,
-      "num": 366123,
-      "word": "C罗错失单刀",
-      "onboard_time": 1669307607,
-      "rank": 13,
+      "raw_hot": 359948,
+      "num": 359948,
+      "word": "葡萄牙半场0比0加纳",
+      "onboard_time": 1669308932,
+      "rank": 14,
       "category": "体育"
     },
     {
@@ -179,6 +227,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 283091,
+      "num": 283091,
+      "word": "加纳门将",
+      "onboard_time": 1669308089,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 281555,
       "num": 281555,
       "word": "敖厂长",
@@ -211,14 +267,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 255826,
-      "num": 255826,
-      "word": "C罗世界杯进球瞬间",
-      "onboard_time": 1669305992,
-      "rank": 20,
-      "category": "体育"
-    },
-    {
       "raw_hot": 255264,
       "num": 255264,
       "word": "压力给到C罗",
@@ -243,20 +291,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 241776,
+      "num": 241776,
+      "word": "C罗热身引全场球迷欢呼",
+      "onboard_time": 1669308384,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 234491,
       "num": 234491,
       "word": "本届世界杯第4场0比0",
       "onboard_time": 1669303127,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 224202,
-      "num": 224202,
-      "word": "原来这些明星都是C罗球迷",
-      "onboard_time": 1669305158,
-      "rank": 35,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 223601,
@@ -291,6 +339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 197885,
+      "num": 197885,
+      "word": "C罗首秀状态",
+      "onboard_time": 1669308384,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 189133,
       "num": 189133,
       "word": "卡塔尔王子回应被中国网友制成表情包",
@@ -313,6 +369,14 @@
       "onboard_time": 1669302529,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 170754,
+      "num": 170754,
+      "word": "C罗 直拍",
+      "onboard_time": 1669308089,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 169772,
@@ -379,14 +443,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 144850,
-      "num": 144850,
-      "word": "C罗 直拍",
-      "onboard_time": 1669308089,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 142609,
       "num": 142609,
       "word": "男孩遭霸凌殴打被逼下跪磕头",
@@ -404,19 +460,11 @@
     },
     {
       "raw_hot": 140550,
-      "num": 1599200,
+      "num": 2472332,
       "word": "这回夸父追到了太阳",
       "onboard_time": 1669303779,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 139131,
-      "num": 139131,
-      "word": "加纳门将",
-      "onboard_time": 1669308089,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 131169,
@@ -435,14 +483,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 125751,
-      "num": 113245,
-      "word": "C罗首秀状态",
-      "onboard_time": 1669308384,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 123955,
       "num": 123955,
       "word": "当代球迷看球现状",
@@ -459,12 +499,28 @@
       "category": "影视"
     },
     {
-      "raw_hot": 117861,
-      "num": 112646,
-      "word": "C罗热身引全场球迷欢呼",
-      "onboard_time": 1669308384,
-      "rank": 48,
-      "category": "体育"
+      "raw_hot": 110967,
+      "num": 110967,
+      "word": "LESSERAFIM漫画主题曲MV公开",
+      "onboard_time": 1669308633,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 88232,
+      "num": 88232,
+      "word": "这就是气质如兰吧",
+      "onboard_time": 1669308754,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 67987,
+      "num": 77903,
+      "word": "隔离在朋友家是什么体验",
+      "onboard_time": 1669310124,
+      "rank": 49,
+      "category": "情感"
     }
   ],
   "hotgov_list": [

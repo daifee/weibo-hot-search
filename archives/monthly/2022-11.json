@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1669308395079,
+  "endTime": 1669310268983,
   "band_list": [
     {
       "raw_hot": 15128338,
@@ -105,6 +105,14 @@
       "onboard_time": 1667712695,
       "rank": 0,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 4780092,
+      "num": 4780092,
+      "word": "C罗哭了",
+      "onboard_time": 1669306586,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 4760713,
@@ -393,14 +401,6 @@
       "onboard_time": 1667546010,
       "rank": 10,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 3165210,
-      "num": 3165210,
-      "word": "C罗哭了",
-      "onboard_time": 1669306586,
-      "rank": 3,
-      "category": "体育"
     },
     {
       "raw_hot": 3150006,
@@ -800,6 +800,14 @@
       "word": "贝克汉姆",
       "onboard_time": 1669036779,
       "rank": 8,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2383844,
+      "num": 2383844,
+      "word": "C罗进球被吹",
+      "onboard_time": 1669307847,
+      "rank": 11,
       "category": "体育"
     },
     {
@@ -4411,6 +4419,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1043476,
+      "num": 1043476,
+      "word": "内马尔首秀",
+      "onboard_time": 1669305335,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1041449,
       "num": 1041449,
       "word": "兰州急救中心回应三岁儿童死亡事件",
@@ -5313,6 +5329,14 @@
       "onboard_time": 1667712993,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 934373,
+      "num": 934373,
+      "word": "葡萄牙 裁判",
+      "onboard_time": 1669308815,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 932483,
@@ -6385,14 +6409,6 @@
       "onboard_time": 1668661530,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 828838,
-      "num": 828838,
-      "word": "内马尔首秀",
-      "onboard_time": 1669305335,
-      "rank": 10,
-      "category": "体育"
     },
     {
       "raw_hot": 828700,
@@ -10235,6 +10251,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 596960,
+      "num": 596960,
+      "word": "C罗错失单刀",
+      "onboard_time": 1669307607,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 596942,
       "num": 596942,
       "word": "脱口秀大会5总决赛官宣鹿晗",
@@ -12771,6 +12795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 513183,
+      "num": 513183,
+      "word": "不挣钱的人是没有话语权的",
+      "onboard_time": 1669305754,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 513123,
       "num": 513123,
       "word": "DK官宣deokdam离队",
@@ -13433,6 +13465,14 @@
       "onboard_time": 1668722534,
       "rank": 19,
       "category": "科技"
+    },
+    {
+      "raw_hot": 493455,
+      "num": 493455,
+      "word": "C罗犯规",
+      "onboard_time": 1669309823,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 493453,
@@ -16603,14 +16643,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 419292,
-      "num": 419292,
-      "word": "不挣钱的人是没有话语权的",
-      "onboard_time": 1669305754,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 419270,
       "num": 419270,
       "word": "疯狂动物城尼克朱迪",
@@ -17275,20 +17307,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 405385,
-      "num": 405385,
-      "word": "C罗进球被吹",
-      "onboard_time": 1669307847,
-      "rank": 11,
-      "category": "体育"
-    },
-    {
       "raw_hot": 405371,
       "num": 405371,
       "word": "马斯克睡在推特总部",
       "onboard_time": 1668486872,
       "rank": 45,
       "category": "科技"
+    },
+    {
+      "raw_hot": 405340,
+      "num": 405340,
+      "word": "C罗世界杯进球瞬间",
+      "onboard_time": 1669305992,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 405216,
@@ -17577,6 +17609,14 @@
       "onboard_time": 1667983826,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 400271,
+      "num": 400271,
+      "word": "原来这些明星都是C罗球迷",
+      "onboard_time": 1669305158,
+      "rank": 35,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 400159,
@@ -18835,6 +18875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 374613,
+      "num": 374613,
+      "word": "C罗弹跳",
+      "onboard_time": 1669308570,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 374404,
       "num": 374404,
       "word": "北京奥运媒体包再现卡塔尔",
@@ -19291,14 +19339,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 366123,
-      "num": 366123,
-      "word": "C罗错失单刀",
-      "onboard_time": 1669307607,
-      "rank": 13,
-      "category": "体育"
-    },
-    {
       "raw_hot": 366007,
       "num": 366007,
       "word": "烂尾8年交房业主被通知交续建费",
@@ -19665,6 +19705,14 @@
       "onboard_time": 1667229985,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 359948,
+      "num": 359948,
+      "word": "葡萄牙半场0比0加纳",
+      "onboard_time": 1669308932,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 359830,
@@ -25107,6 +25155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 283091,
+      "num": 283091,
+      "word": "加纳门将",
+      "onboard_time": 1669308089,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 282846,
       "num": 282846,
       "word": "吃麻辣烫还得看小区阿姨",
@@ -27307,14 +27363,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 255826,
-      "num": 255826,
-      "word": "C罗世界杯进球瞬间",
-      "onboard_time": 1669305992,
-      "rank": 20,
-      "category": "体育"
-    },
-    {
       "raw_hot": 255742,
       "num": 255742,
       "word": "卿卿日常全员营业好积极",
@@ -28409,6 +28457,14 @@
       "onboard_time": 1668512847,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 241776,
+      "num": 241776,
+      "word": "C罗热身引全场球迷欢呼",
+      "onboard_time": 1669308384,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 241725,
@@ -30185,14 +30241,6 @@
       "onboard_time": 1668948448,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 224202,
-      "num": 224202,
-      "word": "原来这些明星都是C罗球迷",
-      "onboard_time": 1669305158,
-      "rank": 35,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 224166,
@@ -33289,6 +33337,14 @@
       "onboard_time": 1667869468,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 197885,
+      "num": 197885,
+      "word": "C罗首秀状态",
+      "onboard_time": 1669308384,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 197788,
@@ -37033,6 +37089,14 @@
       "onboard_time": 1669193918,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 170754,
+      "num": 170754,
+      "word": "C罗 直拍",
+      "onboard_time": 1669308089,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 170639,
@@ -40787,14 +40851,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 144850,
-      "num": 144850,
-      "word": "C罗 直拍",
-      "onboard_time": 1669308089,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 144833,
       "num": 744869,
       "word": "vivo十年最强旗舰",
@@ -41580,7 +41636,7 @@
     },
     {
       "raw_hot": 140550,
-      "num": 2182751,
+      "num": 2472332,
       "word": "这回夸父追到了太阳",
       "onboard_time": 1669303779,
       "rank": 2,
@@ -41865,14 +41921,6 @@
       "onboard_time": 1669032340,
       "rank": 40,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 139131,
-      "num": 139131,
-      "word": "加纳门将",
-      "onboard_time": 1669308089,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 139120,
@@ -44155,14 +44203,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 125751,
-      "num": 113245,
-      "word": "C罗首秀状态",
-      "onboard_time": 1669308384,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 125725,
       "num": 125725,
       "word": "阮真真什么时候发现高峻身份",
@@ -45363,14 +45403,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 117861,
-      "num": 112646,
-      "word": "C罗热身引全场球迷欢呼",
-      "onboard_time": 1669308384,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 117732,
       "num": 117732,
       "word": "八一飞行表演队空中画出超圆大圈圈",
@@ -46321,6 +46353,14 @@
       "onboard_time": 1667731045,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 110967,
+      "num": 110967,
+      "word": "LESSERAFIM漫画主题曲MV公开",
+      "onboard_time": 1669308633,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 110889,
@@ -49835,6 +49875,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 88232,
+      "num": 88232,
+      "word": "这就是气质如兰吧",
+      "onboard_time": 1669308754,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 88192,
       "num": 88192,
       "word": "开发者称苹果追踪用户浏览AppStore",
@@ -51937,6 +51985,14 @@
       "onboard_time": 1667548229,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 67987,
+      "num": 77903,
+      "word": "隔离在朋友家是什么体验",
+      "onboard_time": 1669310124,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 67857,
