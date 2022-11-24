@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/21 00:28:38 ~ 2022/11/25 02:25:22
+本榜单时间：2022/11/21 00:28:38 ~ 2022/11/25 02:40:19
 </p>
 </blockquote>
 <p>
@@ -1419,6 +1419,12 @@ JDG官宣Yagao成为自由人（热度：745839）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%96%E5%8F%ABC%E7%BD%97%E6%98%AF%E6%9C%89%E5%8E%9F%E5%9B%A0%E7%9A%84%23" target="weibo">
+他叫C罗是有原因的（热度：735756）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%8C%E6%8B%89%E5%9C%AD%E5%8D%8A%E5%9C%BA0%E6%AF%940%E9%9F%A9%E5%9B%BD%23" target="weibo">
 乌拉圭半场0比0韩国（热度：730199）
 </a>
@@ -1427,12 +1433,6 @@ JDG官宣Yagao成为自由人（热度：745839）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%AA%E4%B8%8A%E9%98%BF%E5%A7%A8%20%E5%85%89%E4%B8%8E%E5%A4%9C%E4%B9%8B%E6%81%8B%23" target="weibo">
 沪上阿姨 光与夜之恋（热度：727416）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BB%96%E5%8F%ABC%E7%BD%97%E6%98%AF%E6%9C%89%E5%8E%9F%E5%9B%A0%E7%9A%84%23" target="weibo">
-他叫C罗是有原因的（热度：719992）
 </a>
 </li>
 
@@ -1973,6 +1973,12 @@ Doinb爆料EDG（热度：593647）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%95%E8%A5%BF%E8%80%81%E4%B9%94%E5%AE%A3%E5%B8%83%E5%84%BF%E5%AD%90%E9%80%80%E5%87%BA%E5%B8%A6%E8%B4%A7%E7%9B%B4%E6%92%AD%E9%97%B4%23" target="weibo">
 陕西老乔宣布儿子退出带货直播间（热度：583581）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%91%A1%E8%90%84%E7%89%99%E9%97%A8%E5%B0%86%23" target="weibo">
+葡萄牙门将（热度：583532）
 </a>
 </li>
 
@@ -2655,12 +2661,6 @@ JDG Ruler（热度：502446）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%91%A1%E8%90%84%E7%89%99%E9%97%A8%E5%B0%86%23" target="weibo">
-葡萄牙门将（热度：468179）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B2%A1%E6%9C%89%E8%8B%B1%E5%9B%BD%E9%98%9F%23" target="weibo">
 世界杯为什么没有英国队（热度：465546）
 </a>
@@ -2735,6 +2735,12 @@ ruler（热度：456263）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E6%98%A8%E5%A2%9E274%E4%BE%8B%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A%23" target="weibo">
 北京昨增274例本土确诊（热度：452786）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%A1%E5%8D%A1%20%E5%B8%85%23" target="weibo">
+卡卡 帅（热度：451902）
 </a>
 </li>
 
@@ -4577,12 +4583,6 @@ C罗卡塔尔世界杯首秀（热度：302506）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E7%A1%95%E7%8F%8D%E5%B0%8612%E6%9C%8813%E6%97%A5%E5%85%A5%E4%BC%8D%23" target="weibo">
 金硕珍将12月13日入伍（热度：290089）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%A1%E5%8D%A1%20%E5%B8%85%23" target="weibo">
-卡卡 帅（热度：289597）
 </a>
 </li>
 
@@ -7029,6 +7029,12 @@ AMA（热度：169225）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E9%A9%AC%E5%B0%94%E8%83%BD%E8%BF%9B%E5%87%A0%E7%90%83%23" target="weibo">
+内马尔能进几球（热度：166177）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B7%AF%E9%81%87%E8%BD%A6%E7%A5%B8%E4%B8%89%E5%90%8D%E5%8F%B8%E6%9C%BA%E7%A5%9E%E5%90%8C%E6%AD%A5%E6%95%91%E4%BA%BA%23" target="weibo">
 路遇车祸三名司机神同步救人（热度：165858）
 </a>
@@ -7953,12 +7959,6 @@ C罗4届世界杯共打入7球（热度：133251）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E9%A9%AC%E5%B0%94%E8%83%BD%E8%BF%9B%E5%87%A0%E7%90%83%23" target="weibo">
-内马尔能进几球（热度：131169）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%99%BA%E6%97%8FGQ%E7%BA%A2%E6%AF%AF%E8%83%8C%E5%90%8E%E9%98%B5%E5%AE%B9%23" target="weibo">
 智族GQ红毯背后阵容（热度：130129）
 </a>
@@ -8111,6 +8111,12 @@ FIFA世界杯（热度：125052）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B6%E6%AF%8D%E4%B8%BA%E4%BB%80%E4%B9%88%E7%90%86%E8%A7%A3%E4%B8%8D%E4%BA%86%E6%88%91%E4%BB%AC%E7%9A%84%E7%B4%AF%23" target="weibo">
 父母为什么理解不了我们的累（热度：124449）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%A5%BFvs%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A%E9%A6%96%E5%8F%91%23" target="weibo">
+巴西vs塞尔维亚首发（热度：124190）
 </a>
 </li>
 
@@ -8901,6 +8907,12 @@ C罗第一粒进球（热度：80789）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E9%BB%8E%E4%B8%96%E5%AE%B6%E5%9B%A0%E5%AE%A3%E4%BC%A0%E7%85%A7%E4%BA%89%E8%AE%AE%E9%81%93%E6%AD%89%23" target="weibo">
+巴黎世家因宣传照争议道歉（热度：71217）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23C%E7%BD%97%E6%98%AF%E5%96%9C%E5%89%A7%E4%BA%BA%E5%90%97%23" target="weibo">
 C罗是喜剧人吗（热度：70896）
 </a>
@@ -8927,12 +8939,6 @@ C罗是喜剧人吗（热度：70896）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9A%94%E7%A6%BB%E5%9C%A8%E6%9C%8B%E5%8F%8B%E5%AE%B6%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C%23" target="weibo">
 隔离在朋友家是什么体验（热度：67987）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E9%BB%8E%E4%B8%96%E5%AE%B6%E5%9B%A0%E5%AE%A3%E4%BC%A0%E7%85%A7%E4%BA%89%E8%AE%AE%E9%81%93%E6%AD%89%23" target="weibo">
-巴黎世家因宣传照争议道歉（热度：65962）
 </a>
 </li>
 
@@ -9033,6 +9039,12 @@ C罗的任意球有多强（热度：55232）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23C%E7%BD%97%E6%98%AF%E8%91%A1%E8%90%84%E7%89%99%E8%B5%A2%E7%90%83%E5%85%B3%E9%94%AE%23" target="weibo">
+C罗是葡萄牙赢球关键（热度：48653）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%80%E6%9C%89%E5%96%9C%E6%84%9F%E7%9A%84%E8%BD%A6%E7%A5%B8%23" target="weibo">
 最有喜感的车祸（热度：47892）
 </a>
@@ -9059,6 +9071,12 @@ C罗的任意球有多强（热度：55232）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B4%9B%E9%98%B3%E8%80%81%E5%90%9B%E5%B1%B1%E9%93%B6%E8%A3%85%E7%B4%A0%E8%A3%B9%E4%BC%BC%E5%A4%A9%E4%B8%8A%E5%AE%AB%E9%98%99%23" target="weibo">
 洛阳老君山银装素裹似天上宫阙（热度：44655）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23C%E7%BD%9737%E5%B2%81%E8%BA%AB%E6%9D%90%23" target="weibo">
+C罗37岁身材（热度：43433）
 </a>
 </li>
 

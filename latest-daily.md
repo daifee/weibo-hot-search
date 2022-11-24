@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/25 00:28:00 ~ 2022/11/25 02:25:22
+本榜单时间：2022/11/25 00:28:00 ~ 2022/11/25 02:40:19
 </p>
 </blockquote>
 <p>
@@ -106,7 +106,7 @@ C罗世界杯进球瞬间（热度：809896）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%96%E5%8F%ABC%E7%BD%97%E6%98%AF%E6%9C%89%E5%8E%9F%E5%9B%A0%E7%9A%84%23" target="weibo">
-他叫C罗是有原因的（热度：719992）
+他叫C罗是有原因的（热度：735756）
 </a>
 </li>
 
@@ -141,6 +141,12 @@ C罗错失单刀（热度：596960）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%91%A1%E8%90%84%E7%89%99%E9%97%A8%E5%B0%86%23" target="weibo">
+葡萄牙门将（热度：583532）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%8C%E6%8B%89%E5%9C%AD%E6%95%99%E7%BB%83%E5%A5%BD%E5%B8%85%23" target="weibo">
 乌拉圭教练好帅（热度：580009）
 </a>
@@ -165,14 +171,14 @@ C罗错失单刀（热度：596960）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%91%A1%E8%90%84%E7%89%99%E9%97%A8%E5%B0%86%23" target="weibo">
-葡萄牙门将（热度：468179）
+<a href="https://s.weibo.com/weibo?q=%238%E6%97%AC%E8%80%81%E4%BA%BA%E5%BE%97%E5%B8%A6%E7%8A%B6%E7%96%B1%E7%96%B96%E5%B9%B4%E4%B8%8D%E6%95%A2%E7%9B%96%E8%A2%AB%E5%AD%90%23" target="weibo">
+8旬老人得带状疱疹6年不敢盖被子（热度：464231）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%238%E6%97%AC%E8%80%81%E4%BA%BA%E5%BE%97%E5%B8%A6%E7%8A%B6%E7%96%B1%E7%96%B96%E5%B9%B4%E4%B8%8D%E6%95%A2%E7%9B%96%E8%A2%AB%E5%AD%90%23" target="weibo">
-8旬老人得带状疱疹6年不敢盖被子（热度：464231）
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%A1%E5%8D%A1%20%E5%B8%85%23" target="weibo">
+卡卡 帅（热度：451902）
 </a>
 </li>
 
@@ -257,12 +263,6 @@ C罗连续十届大赛进球（热度：354805）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8A%A0%E7%BA%B3%E6%8D%A2%E4%BA%BA%23" target="weibo">
 加纳换人（热度：306760）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%A1%E5%8D%A1%20%E5%B8%85%23" target="weibo">
-卡卡 帅（热度：289597）
 </a>
 </li>
 
@@ -405,6 +405,12 @@ C罗 直拍（热度：170754）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E9%A9%AC%E5%B0%94%E8%83%BD%E8%BF%9B%E5%87%A0%E7%90%83%23" target="weibo">
+内马尔能进几球（热度：166177）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E7%B4%AB%E5%87%BD%E8%AF%B4%E8%B5%B5%E8%8A%B3%E5%A6%82%E7%9F%BF%E5%A7%90%E5%8F%98%E6%8B%BD%E5%A7%90%23" target="weibo">
 陈紫函说赵芳如矿姐变拽姐（热度：165266）
 </a>
@@ -465,14 +471,14 @@ C罗 直拍（热度：170754）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E9%A9%AC%E5%B0%94%E8%83%BD%E8%BF%9B%E5%87%A0%E7%90%83%23" target="weibo">
-内马尔能进几球（热度：131169）
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E6%8F%90%E5%90%8D%E5%B9%B4%E5%BA%A6%E8%8D%A3%E8%AA%89%E7%94%B7%E6%BC%94%E5%91%98%23" target="weibo">
+易烊千玺提名年度荣誉男演员（热度：130997）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E6%8F%90%E5%90%8D%E5%B9%B4%E5%BA%A6%E8%8D%A3%E8%AA%89%E7%94%B7%E6%BC%94%E5%91%98%23" target="weibo">
-易烊千玺提名年度荣誉男演员（热度：130997）
+<a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%A5%BFvs%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A%E9%A6%96%E5%8F%91%23" target="weibo">
+巴西vs塞尔维亚首发（热度：124190）
 </a>
 </li>
 
@@ -519,6 +525,12 @@ C罗第一粒进球（热度：80789）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E9%BB%8E%E4%B8%96%E5%AE%B6%E5%9B%A0%E5%AE%A3%E4%BC%A0%E7%85%A7%E4%BA%89%E8%AE%AE%E9%81%93%E6%AD%89%23" target="weibo">
+巴黎世家因宣传照争议道歉（热度：71217）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23C%E7%BD%97%E6%98%AF%E5%96%9C%E5%89%A7%E4%BA%BA%E5%90%97%23" target="weibo">
 C罗是喜剧人吗（热度：70896）
 </a>
@@ -531,14 +543,20 @@ C罗是喜剧人吗（热度：70896）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E9%BB%8E%E4%B8%96%E5%AE%B6%E5%9B%A0%E5%AE%A3%E4%BC%A0%E7%85%A7%E4%BA%89%E8%AE%AE%E9%81%93%E6%AD%89%23" target="weibo">
-巴黎世家因宣传照争议道歉（热度：65962）
+<a href="https://s.weibo.com/weibo?q=%23C%E7%BD%97%E7%9A%84%E4%BB%BB%E6%84%8F%E7%90%83%E6%9C%89%E5%A4%9A%E5%BC%BA%23" target="weibo">
+C罗的任意球有多强（热度：55232）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23C%E7%BD%97%E7%9A%84%E4%BB%BB%E6%84%8F%E7%90%83%E6%9C%89%E5%A4%9A%E5%BC%BA%23" target="weibo">
-C罗的任意球有多强（热度：55232）
+<a href="https://s.weibo.com/weibo?q=%23C%E7%BD%97%E6%98%AF%E8%91%A1%E8%90%84%E7%89%99%E8%B5%A2%E7%90%83%E5%85%B3%E9%94%AE%23" target="weibo">
+C罗是葡萄牙赢球关键（热度：48653）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23C%E7%BD%9737%E5%B2%81%E8%BA%AB%E6%9D%90%23" target="weibo">
+C罗37岁身材（热度：43433）
 </a>
 </li>
 

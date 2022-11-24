@@ -1,6 +1,6 @@
 {
   "startTime": 1668961718135,
-  "endTime": 1669314322185,
+  "endTime": 1669315219417,
   "band_list": [
     {
       "raw_hot": 15128338,
@@ -1875,6 +1875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 735756,
+      "num": 735756,
+      "word": "他叫C罗是有原因的",
+      "onboard_time": 1669312577,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 730199,
       "num": 730199,
       "word": "乌拉圭半场0比0韩国",
@@ -1889,14 +1897,6 @@
       "onboard_time": 1669289555,
       "rank": 49,
       "category": "美食,游戏"
-    },
-    {
-      "raw_hot": 719992,
-      "num": 719992,
-      "word": "他叫C罗是有原因的",
-      "onboard_time": 1669312577,
-      "rank": 11,
-      "category": "体育"
     },
     {
       "raw_hot": 719350,
@@ -2617,6 +2617,14 @@
       "onboard_time": 1669267173,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 583532,
+      "num": 583532,
+      "word": "葡萄牙门将",
+      "onboard_time": 1669313484,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 580854,
@@ -3523,14 +3531,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 468179,
-      "num": 468179,
-      "word": "葡萄牙门将",
-      "onboard_time": 1669313484,
-      "rank": 15,
-      "category": "体育"
-    },
-    {
       "raw_hot": 465546,
       "num": 465546,
       "word": "世界杯为什么没有英国队",
@@ -3633,6 +3633,14 @@
       "onboard_time": 1669076013,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 451902,
+      "num": 451902,
+      "word": "卡卡 帅",
+      "onboard_time": 1669311920,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 451757,
@@ -6089,14 +6097,6 @@
       "onboard_time": 1669263214,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 289597,
-      "num": 289597,
-      "word": "卡卡 帅",
-      "onboard_time": 1669311920,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 289290,
@@ -9355,6 +9355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 166177,
+      "num": 166177,
+      "word": "内马尔能进几球",
+      "onboard_time": 1669305394,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 165858,
       "num": 165858,
       "word": "路遇车祸三名司机神同步救人",
@@ -10587,14 +10595,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 131169,
-      "num": 131169,
-      "word": "内马尔能进几球",
-      "onboard_time": 1669305394,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 130129,
       "num": 130129,
       "word": "智族GQ红毯背后阵容",
@@ -10801,6 +10801,14 @@
       "onboard_time": 1668950369,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 124190,
+      "num": 124190,
+      "word": "巴西vs塞尔维亚首发",
+      "onboard_time": 1669314499,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 124087,
@@ -11851,6 +11859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 71217,
+      "num": 71217,
+      "word": "巴黎世家因宣传照争议道歉",
+      "onboard_time": 1669313545,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 70896,
       "num": 70896,
       "word": "C罗是喜剧人吗",
@@ -11889,14 +11905,6 @@
       "onboard_time": 1669310124,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 65962,
-      "num": 65962,
-      "word": "巴黎世家因宣传照争议道歉",
-      "onboard_time": 1669313545,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 64836,
@@ -12027,6 +12035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 48653,
+      "num": 48653,
+      "word": "C罗是葡萄牙赢球关键",
+      "onboard_time": 1669314619,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 47892,
       "num": 47892,
       "word": "最有喜感的车祸",
@@ -12065,6 +12081,14 @@
       "onboard_time": 1669245504,
       "rank": 43,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 43433,
+      "num": 43433,
+      "word": "C罗37岁身材",
+      "onboard_time": 1669315096,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 42799,
