@@ -1,6 +1,6 @@
 {
   "startTime": 1669307280718,
-  "endTime": 1669317356997,
+  "endTime": 1669318414574,
   "band_list": [
     {
       "raw_hot": 5448624,
@@ -419,6 +419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 229190,
+      "num": 229190,
+      "word": "巴西vs塞尔维亚首发",
+      "onboard_time": 1669314499,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 223601,
       "num": 223601,
       "word": "原来浪漫真的不需要花钱",
@@ -472,14 +480,6 @@
       "word": "还得是C罗",
       "onboard_time": 1669312825,
       "rank": 27,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 191468,
-      "num": 191468,
-      "word": "巴西vs塞尔维亚首发",
-      "onboard_time": 1669314499,
-      "rank": 32,
       "category": "体育"
     },
     {
@@ -563,6 +563,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 153898,
+      "num": 153898,
+      "word": "C罗37岁身材",
+      "onboard_time": 1669315096,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 152232,
       "num": 152232,
       "word": "日本足协正申请加入欧足联",
@@ -593,14 +601,6 @@
       "onboard_time": 1669290037,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 149985,
-      "num": 149985,
-      "word": "C罗37岁身材",
-      "onboard_time": 1669315096,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 142609,
@@ -659,8 +659,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 97532,
-      "num": 97532,
+      "raw_hot": 102980,
+      "num": 102980,
       "word": "C罗是喜剧人吗",
       "onboard_time": 1669313726,
       "rank": 41,

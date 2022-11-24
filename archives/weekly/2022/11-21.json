@@ -1,6 +1,6 @@
 {
   "startTime": 1668961718135,
-  "endTime": 1669317356997,
+  "endTime": 1669318414574,
   "band_list": [
     {
       "raw_hot": 15128338,
@@ -7299,6 +7299,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 229190,
+      "num": 229190,
+      "word": "巴西vs塞尔维亚首发",
+      "onboard_time": 1669314499,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 229021,
       "num": 229021,
       "word": "这是一种很新的评测",
@@ -8513,14 +8521,6 @@
       "onboard_time": 1669112493,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 191468,
-      "num": 191468,
-      "word": "巴西vs塞尔维亚首发",
-      "onboard_time": 1669314499,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 191409,
@@ -9755,6 +9755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 153898,
+      "num": 153898,
+      "word": "C罗37岁身材",
+      "onboard_time": 1669315096,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 153868,
       "num": 153868,
       "word": "吴镇宇神扑",
@@ -9847,14 +9855,6 @@
       "num": 149988,
       "word": "网友开启拉伊卜DIY大赛",
       "onboard_time": 1669257392,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 149985,
-      "num": 149985,
-      "word": "C罗37岁身材",
-      "onboard_time": 1669315096,
       "rank": 48,
       "category": "体育"
     },
@@ -11491,6 +11491,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 102980,
+      "num": 102980,
+      "word": "C罗是喜剧人吗",
+      "onboard_time": 1669313726,
+      "rank": 41,
+      "category": "体育,幽默"
+    },
+    {
       "raw_hot": 102585,
       "num": 421718,
       "word": "中国品牌出海能力有多强",
@@ -11601,14 +11609,6 @@
       "onboard_time": 1669000291,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 97532,
-      "num": 97532,
-      "word": "C罗是喜剧人吗",
-      "onboard_time": 1669313726,
-      "rank": 41,
-      "category": "体育,幽默"
     },
     {
       "raw_hot": 96350,

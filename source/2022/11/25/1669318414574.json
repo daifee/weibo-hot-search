@@ -1,0 +1,410 @@
+{
+  "runTime": 1669318414574,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 822292,
+        "num": 822292,
+        "word": "裁判 瞎了",
+        "onboard_time": 1669310423,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 711708,
+        "num": 711708,
+        "word": "C罗创纪录",
+        "onboard_time": 1669311981,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16586,
+        "num": 669144,
+        "word": "这回夸父追到了太阳",
+        "onboard_time": 1669303779,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 628756,
+        "num": 628756,
+        "word": "C罗哭了",
+        "onboard_time": 1669306586,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 417664,
+        "num": 417664,
+        "word": "内马尔首秀",
+        "onboard_time": 1669305335,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 313995,
+        "num": 313995,
+        "word": "卡卡 帅",
+        "onboard_time": 1669311920,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 293906,
+        "num": 293906,
+        "word": "葡萄牙3比2加纳",
+        "onboard_time": 1669313010,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 256468,
+        "num": 256468,
+        "word": "葡萄牙门将",
+        "onboard_time": 1669313484,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 229190,
+        "num": 229190,
+        "word": "巴西vs塞尔维亚首发",
+        "onboard_time": 1669314499,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183477,
+        "num": 183477,
+        "word": "他叫C罗是有原因的",
+        "onboard_time": 1669312577,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153898,
+        "num": 153898,
+        "word": "C罗37岁身材",
+        "onboard_time": 1669315096,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137372,
+        "num": 137372,
+        "word": "巴西vs塞尔维亚",
+        "onboard_time": 1669303303,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102980,
+        "num": 102980,
+        "word": "C罗是喜剧人吗",
+        "onboard_time": 1669313726,
+        "rank": 12,
+        "category": "体育,幽默"
+      },
+      {
+        "raw_hot": 97935,
+        "num": 97935,
+        "word": "原来这些明星都是C罗球迷",
+        "onboard_time": 1669305158,
+        "rank": 13,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 83737,
+        "num": 83737,
+        "word": "韩国 小动作",
+        "onboard_time": 1669296273,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 80862,
+        "num": 80862,
+        "word": "C罗帅的很直接",
+        "onboard_time": 1669311323,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 76342,
+        "num": 76342,
+        "word": "不挣钱的人是没有话语权的",
+        "onboard_time": 1669305754,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76322,
+        "num": 76322,
+        "word": "被C罗刷屏了",
+        "onboard_time": 1669315636,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 74132,
+        "num": 74132,
+        "word": "C罗连续十届大赛进球",
+        "onboard_time": 1669311801,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 72650,
+        "num": 72650,
+        "word": "内马尔能进几球",
+        "onboard_time": 1669305394,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 70730,
+        "num": 70730,
+        "word": "C罗犯规",
+        "onboard_time": 1669309823,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 69281,
+        "num": 69281,
+        "word": "C罗点球破门",
+        "onboard_time": 1669311083,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 64196,
+        "num": 64196,
+        "word": "加纳 推人",
+        "onboard_time": 1669312825,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 62946,
+        "num": 62946,
+        "word": "点球 剧本",
+        "onboard_time": 1669311501,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 60998,
+        "num": 60998,
+        "word": "巴黎世家因宣传照争议道歉",
+        "onboard_time": 1669313545,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59686,
+        "num": 59686,
+        "word": "外交部回应日方希望中方放松防疫措施",
+        "onboard_time": 1669288656,
+        "rank": 25,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 58137,
+        "num": 58137,
+        "word": "婆婆为省奶粉钱给一岁孙女炒面粉",
+        "onboard_time": 1669302884,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57200,
+        "num": 57200,
+        "word": "卡塔尔王子回应被中国网友制成表情包",
+        "onboard_time": 1669290156,
+        "rank": 27,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 55991,
+        "num": 55991,
+        "word": "C罗弹跳",
+        "onboard_time": 1669308570,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 55519,
+        "num": 55519,
+        "word": "敖厂长",
+        "onboard_time": 1669294354,
+        "rank": 29,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 54934,
+        "num": 54934,
+        "word": "8旬老人得带状疱疹6年不敢盖被子",
+        "onboard_time": 1669295735,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54050,
+        "num": 54050,
+        "word": "葡萄牙vs加纳",
+        "onboard_time": 1669303127,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 51453,
+        "num": 51453,
+        "word": "朱广权押韵评C罗五战世界杯",
+        "onboard_time": 1669310539,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 51071,
+        "num": 51071,
+        "word": "C罗热身引全场球迷欢呼",
+        "onboard_time": 1669308384,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 41870,
+        "num": 41870,
+        "word": "加纳 黄牌",
+        "onboard_time": 1669310482,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 36981,
+        "num": 36981,
+        "word": "台湾是中国的",
+        "onboard_time": 1669280670,
+        "rank": 35,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 35679,
+        "num": 35679,
+        "word": "台媒你们是真的懂采访",
+        "onboard_time": 1669290454,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32225,
+        "num": 32225,
+        "word": "加纳换人",
+        "onboard_time": 1669312400,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31710,
+        "num": 31710,
+        "word": "C罗错失单刀",
+        "onboard_time": 1669307607,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29740,
+        "num": 29740,
+        "word": "葡萄牙 裁判",
+        "onboard_time": 1669308815,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29621,
+        "num": 29621,
+        "word": "女子做理疗被绑摇摆床扭成美人鱼",
+        "onboard_time": 1669302180,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29320,
+        "num": 29320,
+        "word": "还得是C罗",
+        "onboard_time": 1669312825,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28648,
+        "num": 28648,
+        "word": "C罗进球被吹",
+        "onboard_time": 1669307847,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28094,
+        "num": 28094,
+        "word": "沪上阿姨 光与夜之恋",
+        "onboard_time": 1669289555,
+        "rank": 43,
+        "category": "游戏,美食"
+      },
+      {
+        "raw_hot": 26948,
+        "num": 26948,
+        "word": "绵阳警方回应女子及幼儿坠楼",
+        "onboard_time": 1669302058,
+        "rank": 44,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 26344,
+        "num": 26344,
+        "word": "C罗首秀状态",
+        "onboard_time": 1669308384,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26231,
+        "num": 26231,
+        "word": "秦施陶俊辉分手原因是秦施家庭",
+        "onboard_time": 1669311202,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 23499,
+        "num": 23499,
+        "word": "星汉灿烂角色号更新微博",
+        "onboard_time": 1669304855,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 23097,
+        "num": 23097,
+        "word": "C罗第一粒进球",
+        "onboard_time": 1669312160,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22569,
+        "num": 22569,
+        "word": "网传马嘉祺刘耀文严浩翔将发新歌",
+        "onboard_time": 1669305516,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#航天新征程#"
+    }
+  }
+}
