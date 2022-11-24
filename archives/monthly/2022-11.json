@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1669246552897,
+  "endTime": 1669254504079,
   "band_list": [
     {
       "raw_hot": 15128338,
@@ -1177,6 +1177,14 @@
       "onboard_time": 1667735010,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1970183,
+      "num": 1970183,
+      "word": "成都健康码崩了",
+      "onboard_time": 1669248572,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1965522,
@@ -4795,6 +4803,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 971929,
+      "num": 971929,
+      "word": "C罗成为本届世界杯唯一自由球员",
+      "onboard_time": 1669239852,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 969346,
       "num": 969346,
       "word": "90后女子上班坚持12年装50岁大妈",
@@ -6707,6 +6723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 771170,
+      "num": 771170,
+      "word": "重庆新增本土确诊409例无症状7437例",
+      "onboard_time": 1669252593,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 769653,
       "num": 769653,
       "word": "西安一幼儿园教成人口水歌黑桃A",
@@ -6721,6 +6745,14 @@
       "onboard_time": 1668241896,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 768999,
+      "num": 768999,
+      "word": "北京增社会面328例",
+      "onboard_time": 1669250076,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 768951,
@@ -7427,14 +7459,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 718893,
-      "num": 718893,
-      "word": "C罗成为本届世界杯唯一自由球员",
-      "onboard_time": 1669239852,
-      "rank": 11,
-      "category": "体育"
-    },
-    {
       "raw_hot": 718346,
       "num": 718346,
       "word": "昆山不动产登记中心柜台人员扇市民耳光",
@@ -7560,6 +7584,14 @@
       "word": "西班牙队7名球员吹空调感冒",
       "onboard_time": 1669022315,
       "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 710814,
+      "num": 710814,
+      "word": "C罗世界杯首秀",
+      "onboard_time": 1669252296,
+      "rank": 7,
       "category": "体育"
     },
     {
@@ -8273,6 +8305,14 @@
       "onboard_time": 1668218070,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 671818,
+      "num": 671818,
+      "word": "女子溜冰被人推倒下巴缝十多针",
+      "onboard_time": 1669250434,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 671276,
@@ -9185,6 +9225,14 @@
       "onboard_time": 1669197696,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 623088,
+      "num": 623088,
+      "word": "郑州将用5天时间打一场疫情防控歼灭战",
+      "onboard_time": 1669252235,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 622822,
@@ -10659,6 +10707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 559779,
+      "num": 559779,
+      "word": "老人以88倍价格买下仅值5元膏药",
+      "onboard_time": 1669245443,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 559641,
       "num": 470249,
       "word": "以岭药业回应连花清瘟断货",
@@ -10857,6 +10913,14 @@
       "onboard_time": 1669183175,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 554317,
+      "num": 554317,
+      "word": "张艺兴彭昱畅张子枫为乌镇戏剧节打call",
+      "onboard_time": 1669250555,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 553742,
@@ -15331,6 +15395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 431169,
+      "num": 431169,
+      "word": "德国教练",
+      "onboard_time": 1669248932,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 430796,
       "num": 430796,
       "word": "王者荣耀新射手英雄",
@@ -15673,6 +15745,14 @@
       "onboard_time": 1669125041,
       "rank": 49,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 422442,
+      "num": 422442,
+      "word": "iphoneSE4售价有望控制在3000",
+      "onboard_time": 1669252235,
+      "rank": 15,
+      "category": "科技"
     },
     {
       "raw_hot": 422364,
@@ -17379,6 +17459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 385889,
+      "num": 385889,
+      "word": "李一桐吊带鎏金裙",
+      "onboard_time": 1669249296,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 385846,
       "num": 385846,
       "word": "赵丽颖与凤行沈璃正式杀青",
@@ -17563,6 +17651,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 382434,
+      "num": 382434,
+      "word": "男子醉驾见女友丧命父母要求索赔",
+      "onboard_time": 1669228394,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 381910,
       "num": 381910,
       "word": "刘令姿古装vs旗袍",
@@ -17617,6 +17713,14 @@
       "onboard_time": 1669021714,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 380868,
+      "num": 380868,
+      "word": "11月23日新增本土无症状27517例",
+      "onboard_time": 1669253551,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 380656,
@@ -18097,6 +18201,14 @@
       "onboard_time": 1669029818,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 370335,
+      "num": 370335,
+      "word": "李明德说被拖欠工资",
+      "onboard_time": 1669247672,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 370260,
@@ -18715,6 +18827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 359529,
+      "num": 359529,
+      "word": "体彩",
+      "onboard_time": 1669246222,
+      "rank": 44,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 359439,
       "num": 359439,
       "word": "世界杯开幕式直播",
@@ -18745,6 +18865,14 @@
       "onboard_time": 1668397949,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 358999,
+      "num": 358999,
+      "word": "2岁男孩站楼道哭被邻居带回照顾",
+      "onboard_time": 1669249533,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 358867,
@@ -20739,14 +20867,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 327557,
-      "num": 327557,
-      "word": "男子醉驾见女友丧命父母要求索赔",
-      "onboard_time": 1669228394,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 327341,
       "num": 226103,
       "word": "李蓝下线李峋就没亲人了",
@@ -22467,6 +22587,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 303197,
+      "num": 303197,
+      "word": "北京房山一饭店违反防疫政策承接婚宴被查",
+      "onboard_time": 1669247369,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 302848,
       "num": 302848,
       "word": "男子在井盖下为儿子建秘密基地",
@@ -22657,6 +22785,14 @@
       "onboard_time": 1669015955,
       "rank": 44,
       "category": "科技"
+    },
+    {
+      "raw_hot": 299255,
+      "num": 299255,
+      "word": "郑恺妻子6说最怕听到苗苗说要不",
+      "onboard_time": 1669244119,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 299099,
@@ -22969,6 +23105,14 @@
       "onboard_time": 1668488073,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 294008,
+      "num": 294008,
+      "word": "为什么真的不建议你去赌球",
+      "onboard_time": 1669253495,
+      "rank": 28,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 293910,
@@ -23881,6 +24025,14 @@
       "onboard_time": 1667488886,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 281889,
+      "num": 281889,
+      "word": "11月23日新增本土确诊3927例",
+      "onboard_time": 1669252832,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 281728,
@@ -25313,6 +25465,14 @@
       "onboard_time": 1667620705,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 263407,
+      "num": 263407,
+      "word": "以岭药业回应药店连花清瘟涨价",
+      "onboard_time": 1669247310,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 263234,
@@ -27451,6 +27611,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 234791,
+      "num": 234791,
+      "word": "广州新增本土感染者7620例",
+      "onboard_time": 1669253972,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 234784,
       "num": 234784,
       "word": "6岁男孩从墙缝里救出2岁男孩",
@@ -29411,6 +29579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 216701,
+      "num": 216701,
+      "word": "感恩节",
+      "onboard_time": 1669247130,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 216657,
       "num": 216657,
       "word": "SEVENTEEN首获EMA双冠王",
@@ -29681,6 +29857,14 @@
       "onboard_time": 1667843475,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 214192,
+      "num": 214192,
+      "word": "日本球迷在家疯狂庆祝吓跑猫咪",
+      "onboard_time": 1669252352,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 214149,
@@ -32187,6 +32371,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 192952,
+      "num": 192952,
+      "word": "陈小纭郝葭跳河花絮照",
+      "onboard_time": 1669253313,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 192872,
       "num": 165865,
       "word": "查询火军精神状态",
@@ -32369,6 +32561,14 @@
       "onboard_time": 1667870967,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 191243,
+      "num": 191243,
+      "word": "马斯克欲解封推特所有封禁账号",
+      "onboard_time": 1669254271,
+      "rank": 39,
+      "category": "科技"
     },
     {
       "raw_hot": 191229,
@@ -34163,6 +34363,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 177448,
+      "num": 177448,
+      "word": "郝葭赤足离家",
+      "onboard_time": 1669253313,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 177444,
       "num": 177444,
       "word": "卡塔尔世界杯能赚多少钱",
@@ -34571,6 +34779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 174156,
+      "num": 174156,
+      "word": "西班牙赔率",
+      "onboard_time": 1669247912,
+      "rank": 45,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 173808,
       "num": 141127,
       "word": "NMIXX翻跳VERYNICE视频",
@@ -34625,6 +34841,14 @@
       "onboard_time": 1669108413,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 173150,
+      "num": 173150,
+      "word": "女生2天没出门猫咪叼金鱼投喂",
+      "onboard_time": 1669254211,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 173101,
@@ -35883,6 +36107,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 162811,
+      "num": 162811,
+      "word": "哪一套广播体操陪伴了你的青春",
+      "onboard_time": 1669254152,
+      "rank": 48,
+      "category": "体育,情感"
+    },
+    {
       "raw_hot": 162700,
       "num": 162700,
       "word": "飞机掠过红月亮",
@@ -36483,14 +36715,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 159743,
-      "num": 159743,
-      "word": "郑恺妻子6说最怕听到苗苗说要不",
-      "onboard_time": 1669244119,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 159721,
       "num": 159721,
       "word": "谁都知道我爱你新预告是宋茜剪的",
@@ -36945,6 +37169,14 @@
       "onboard_time": 1668942509,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 156308,
+      "num": 156308,
+      "word": "RedVelvet新专辑配置",
+      "onboard_time": 1669248633,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 156189,
@@ -38721,14 +38953,6 @@
       "onboard_time": 1668357923,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 143927,
-      "num": 143927,
-      "word": "老人以88倍价格买下仅值5元膏药",
-      "onboard_time": 1669245443,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 143905,
@@ -49561,14 +49785,6 @@
       "onboard_time": 1667459067,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 65826,
-      "num": 65826,
-      "word": "体彩",
-      "onboard_time": 1669246222,
-      "rank": 44,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 65754,
