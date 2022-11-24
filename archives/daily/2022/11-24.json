@@ -1,6 +1,6 @@
 {
   "startTime": 1669220901508,
-  "endTime": 1669268064043,
+  "endTime": 1669271100216,
   "band_list": [
     {
       "raw_hot": 3577628,
@@ -131,6 +131,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 1066076,
+      "num": 1066076,
+      "word": "北京新增1例死亡病例情况",
+      "onboard_time": 1669266158,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 981001,
       "num": 981001,
       "word": "又一个大冷门",
@@ -184,14 +192,6 @@
       "word": "女子跟老公在一起5年陪读4年",
       "onboard_time": 1669259673,
       "rank": 31,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 883415,
-      "num": 883415,
-      "word": "北京新增1例死亡病例情况",
-      "onboard_time": 1669266158,
-      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -315,6 +315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 594086,
+      "num": 413404,
+      "word": "刘强东3小时内部发言",
+      "onboard_time": 1669269872,
+      "rank": 10,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 593637,
       "num": 593637,
       "word": "虞书欣幼儿园时期旧照",
@@ -328,6 +336,14 @@
       "word": "争吵后妻子昏倒在地丈夫无动于衷",
       "onboard_time": 1669219537,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 583581,
+      "num": 397108,
+      "word": "陕西老乔宣布儿子退出带货直播间",
+      "onboard_time": 1669267173,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -827,6 +843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 273325,
+      "num": 135099,
+      "word": "许佳琪官宣年末个人企划",
+      "onboard_time": 1669271071,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 269629,
       "num": 269629,
       "word": "内马尔被针对是有原因的",
@@ -907,6 +931,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 249970,
+      "num": 249970,
+      "word": "放牛班的春天内地定档12月2日",
+      "onboard_time": 1669268549,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 249947,
       "num": 249947,
       "word": "粉丝用中文说汤唯好美",
@@ -979,19 +1011,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 221064,
-      "num": 221064,
-      "word": "陕西老乔宣布儿子退出带货直播间",
-      "onboard_time": 1669267173,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 220195,
       "num": 220195,
       "word": "王源新歌粤语旁白是薛凯琪",
       "onboard_time": 1669262313,
       "rank": 30,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 219379,
+      "num": 219379,
+      "word": "王源空置状态歌词海报",
+      "onboard_time": 1669270471,
+      "rank": 20,
       "category": "音乐"
     },
     {
@@ -1131,6 +1163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 193087,
+      "num": 193087,
+      "word": "刘强东称将末位淘汰部分京东高管",
+      "onboard_time": 1669270412,
+      "rank": 23,
+      "category": "科技"
+    },
+    {
       "raw_hot": 192952,
       "num": 192952,
       "word": "陈小纭郝葭跳河花絮照",
@@ -1145,6 +1185,14 @@
       "onboard_time": 1669263032,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 191430,
+      "num": 191430,
+      "word": "丈夫为妻子设计可穿高跟鞋的假肢",
+      "onboard_time": 1669268076,
+      "rank": 24,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 189428,
@@ -1209,6 +1257,22 @@
       "onboard_time": 1669214493,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 180021,
+      "num": 180021,
+      "word": "厌倦吃席女孩将农村婚礼办成游园会",
+      "onboard_time": 1669269033,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 178333,
+      "num": 178333,
+      "word": "猫咪好像是坐电梯上来的",
+      "onboard_time": 1669267954,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 177448,
@@ -1291,6 +1355,22 @@
       "category": "体育,情感"
     },
     {
+      "raw_hot": 162528,
+      "num": 162528,
+      "word": "张艺兴受邀出席中西文化艺术交流专场论坛",
+      "onboard_time": 1669268613,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 162484,
+      "num": 162484,
+      "word": "勇士战胜快船",
+      "onboard_time": 1669270890,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 162268,
       "num": 162268,
       "word": "马嘉祺每次和宋亚轩一起去小卖部",
@@ -1347,6 +1427,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 155507,
+      "num": 155507,
+      "word": "C罗说要让所有葡萄牙人骄傲",
+      "onboard_time": 1669269991,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 154370,
       "num": 154370,
       "word": "刘雨昕说东方风云榜明天见",
@@ -1385,6 +1473,14 @@
       "onboard_time": 1669257392,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 149962,
+      "num": 149962,
+      "word": "取材自真实家暴录音的短片",
+      "onboard_time": 1669265378,
+      "rank": 44,
+      "category": "动漫"
     },
     {
       "raw_hot": 148081,
@@ -1459,20 +1555,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 137794,
-      "num": 137794,
-      "word": "取材自真实家暴录音的短片",
-      "onboard_time": 1669265378,
-      "rank": 44,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 136237,
       "num": 136237,
       "word": "妈妈辅导哥哥作业被弟弟剪头发",
       "onboard_time": 1669242075,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 135851,
+      "num": 135851,
+      "word": "毛不易唱风吹半夏同名主题曲",
+      "onboard_time": 1669270651,
+      "rank": 46,
+      "category": "影视,音乐"
     },
     {
       "raw_hot": 135344,
@@ -1499,20 +1595,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 132321,
-      "num": 132321,
-      "word": "猫咪好像是坐电梯上来的",
-      "onboard_time": 1669267954,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 132013,
       "num": 132013,
       "word": "广东新增本土感染者8054例",
       "onboard_time": 1669259068,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 129567,
+      "num": 129567,
+      "word": "为什么经期前会莫名emo",
+      "onboard_time": 1669271012,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 129524,
@@ -1529,6 +1625,14 @@
       "onboard_time": 1669263395,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 128741,
+      "num": 128741,
+      "word": "杨颖冲浪比心vlog",
+      "onboard_time": 1669269331,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 127210,
