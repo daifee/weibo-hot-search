@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1669285283937,
+  "endTime": 1669286263328,
   "band_list": [
     {
       "raw_hot": 15128338,
@@ -1899,6 +1899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1651923,
+      "num": 1651923,
+      "word": "乌拉圭vs韩国",
+      "onboard_time": 1669282230,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1645823,
       "num": 1645823,
       "word": "HLE官宣Viper回归",
@@ -2233,14 +2241,6 @@
       "onboard_time": 1667409976,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1532054,
-      "num": 1532054,
-      "word": "乌拉圭vs韩国",
-      "onboard_time": 1669282230,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 1528877,
@@ -5843,6 +5843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 872073,
+      "num": 872073,
+      "word": "日本足协正申请加入欧足联",
+      "onboard_time": 1669282230,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 871877,
       "num": 871877,
       "word": "男子交不起房租带妻儿住公园4月",
@@ -7363,14 +7371,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 740491,
-      "num": 740491,
-      "word": "日本足协正申请加入欧足联",
-      "onboard_time": 1669282230,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 740315,
       "num": 740315,
       "word": "EDG",
@@ -8529,6 +8529,14 @@
       "onboard_time": 1667448265,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 671106,
+      "num": 468246,
+      "word": "嫂子2胎后赚钱养一家9口",
+      "onboard_time": 1669283371,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 670991,
@@ -11043,14 +11051,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 558954,
-      "num": 468246,
-      "word": "嫂子2胎后赚钱养一家9口",
-      "onboard_time": 1669283371,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 557994,
       "num": 557994,
       "word": "宁波拟推出教师退出机制",
@@ -11721,6 +11721,14 @@
       "onboard_time": 1667528424,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 537335,
+      "num": 435766,
+      "word": "台湾单方面划设的线非法无效",
+      "onboard_time": 1669284393,
+      "rank": 30,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 536480,
@@ -12633,6 +12641,14 @@
       "onboard_time": 1668910528,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 509251,
+      "num": 509251,
+      "word": "初恋",
+      "onboard_time": 1669282712,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 509208,
@@ -14369,14 +14385,6 @@
       "onboard_time": 1668213511,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 462983,
-      "num": 462983,
-      "word": "初恋",
-      "onboard_time": 1669282712,
-      "rank": 11,
-      "category": "影视"
     },
     {
       "raw_hot": 462920,
@@ -16392,6 +16400,14 @@
       "word": "RNG恭喜Tangyuan登顶韩服",
       "onboard_time": 1667875288,
       "rank": 8,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 416817,
+      "num": 416817,
+      "word": "EDG Scout",
+      "onboard_time": 1669284633,
+      "rank": 26,
       "category": "游戏"
     },
     {
@@ -19577,6 +19593,14 @@
       "onboard_time": 1668840207,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 354244,
+      "num": 354244,
+      "word": "北京新增本土感染者863例",
+      "onboard_time": 1669283973,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 354035,
@@ -22891,14 +22915,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 307362,
-      "num": 307362,
-      "word": "北京新增本土感染者863例",
-      "onboard_time": 1669283973,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 307058,
       "num": 307058,
       "word": "十一月讨厌的人都在这里了",
@@ -23433,14 +23449,6 @@
       "onboard_time": 1667915789,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 298436,
-      "num": 187507,
-      "word": "台湾单方面划设的线非法无效",
-      "onboard_time": 1669284393,
-      "rank": 30,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 298401,
@@ -24312,6 +24320,14 @@
       "word": "成都马拉松",
       "onboard_time": 1668872612,
       "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 285777,
+      "num": 285777,
+      "word": "瑞士vs喀麦隆",
+      "onboard_time": 1669279228,
+      "rank": 24,
       "category": "体育"
     },
     {
@@ -28763,6 +28779,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 231722,
+      "num": 231722,
+      "word": "无限暖暖",
+      "onboard_time": 1669284996,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 231651,
       "num": 207985,
       "word": "命韵峋环的甜场面",
@@ -28803,6 +28827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 231038,
+      "num": 231038,
+      "word": "日本赢球各国球迷祝贺中国小伙",
+      "onboard_time": 1669280730,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 231015,
       "num": 231015,
       "word": "网传金鸡奖出席明星",
@@ -28841,14 +28873,6 @@
       "onboard_time": 1668934527,
       "rank": 21,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 230337,
-      "num": 230337,
-      "word": "日本赢球各国球迷祝贺中国小伙",
-      "onboard_time": 1669280730,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 230248,
@@ -29336,14 +29360,6 @@
       "word": "霍华德将因伤休战两周",
       "onboard_time": 1669043026,
       "rank": 41,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 225958,
-      "num": 225958,
-      "word": "瑞士vs喀麦隆",
-      "onboard_time": 1669279228,
-      "rank": 24,
       "category": "体育"
     },
     {
@@ -30379,6 +30395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 217135,
+      "num": 217135,
+      "word": "李现说C罗加油",
+      "onboard_time": 1669285536,
+      "rank": 26,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 217109,
       "num": 217109,
       "word": "宁艺卓练习室舞蹈视频",
@@ -30473,14 +30497,6 @@
       "onboard_time": 1667745336,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 216583,
-      "num": 216583,
-      "word": "EDG Scout",
-      "onboard_time": 1669284633,
-      "rank": 26,
-      "category": "游戏"
     },
     {
       "raw_hot": 216577,
@@ -31363,14 +31379,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 208657,
-      "num": 181868,
-      "word": "无限暖暖",
-      "onboard_time": 1669284996,
-      "rank": 31,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 208556,
       "num": 208556,
       "word": "司机家属逐一反驳特斯拉回应",
@@ -31569,6 +31577,14 @@
       "onboard_time": 1668178596,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 206892,
+      "num": 206892,
+      "word": "管泽元说巴西不夺冠剃光头",
+      "onboard_time": 1669281391,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 206816,
@@ -33755,6 +33771,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 190166,
+      "num": 190166,
+      "word": "妻子半夜喂奶丈夫帮盖毛毯当靠垫",
+      "onboard_time": 1669285416,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 190164,
       "num": 190164,
       "word": "秦施前男友是许幻山",
@@ -34097,14 +34121,6 @@
       "onboard_time": 1668407429,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 187625,
-      "num": 187625,
-      "word": "管泽元说巴西不夺冠剃光头",
-      "onboard_time": 1669281391,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 187599,
@@ -36600,6 +36616,14 @@
       "word": "华为招聘热线回应暂缓招聘",
       "onboard_time": 1668685950,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 168032,
+      "num": 168032,
+      "word": "男子骑摩托拖狗好心人追1公里救下",
+      "onboard_time": 1669286074,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -39955,6 +39979,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 145133,
+      "num": 145133,
+      "word": "国防部点赞厦门舰",
+      "onboard_time": 1669285298,
+      "rank": 37,
+      "category": "军事,国内要闻"
+    },
+    {
       "raw_hot": 145064,
       "num": 145064,
       "word": "火箭军的健身房长啥样",
@@ -41539,6 +41571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 136366,
+      "num": 136366,
+      "word": "狼撒娇是什么样的",
+      "onboard_time": 1669285655,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 136344,
       "num": 121243,
       "word": "马嘉祺在话剧万水朝东演机要员",
@@ -41633,6 +41673,14 @@
       "onboard_time": 1669093360,
       "rank": 46,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 136028,
+      "num": 136028,
+      "word": "李峋心里谁都比不了朱韵",
+      "onboard_time": 1669284213,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 135944,
@@ -42355,6 +42403,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 131633,
+      "num": 131633,
+      "word": "卡塔尔王子感谢中国网友",
+      "onboard_time": 1669286197,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 131607,
       "num": 131607,
       "word": "徐志胜的大学生活",
@@ -42539,14 +42595,6 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 130326,
-      "num": 130326,
-      "word": "李峋心里谁都比不了朱韵",
-      "onboard_time": 1669284213,
-      "rank": 46,
-      "category": "影视"
-    },
-    {
       "raw_hot": 130129,
       "num": 130129,
       "word": "智族GQ红毯背后阵容",
@@ -42728,6 +42776,14 @@
       "word": "命韵峋环还没牵手",
       "onboard_time": 1668227249,
       "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 129259,
+      "num": 129259,
+      "word": "点燃我温暖你29集有温泉戏",
+      "onboard_time": 1669286136,
+      "rank": 45,
       "category": "影视"
     },
     {
@@ -43899,6 +43955,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 121547,
+      "num": 121547,
+      "word": "李峋是嘴强王者",
+      "onboard_time": 1669285957,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 121503,
       "num": 121503,
       "word": "这样减肥有点费爸爸",
@@ -44961,6 +45025,14 @@
       "onboard_time": 1668501091,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 114008,
+      "num": 114008,
+      "word": "足球传着传着就没了",
+      "onboard_time": 1669285775,
+      "rank": 49,
+      "category": "体育,幽默"
     },
     {
       "raw_hot": 113900,
@@ -53044,7 +53116,7 @@
     },
     {
       "raw_hot": 13714,
-      "num": 402666,
+      "num": 404903,
       "word": "OPPO发布会",
       "onboard_time": 1669284033,
       "rank": 14,

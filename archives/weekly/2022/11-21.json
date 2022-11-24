@@ -1,6 +1,6 @@
 {
   "startTime": 1668961718135,
-  "endTime": 1669285283937,
+  "endTime": 1669286263328,
   "band_list": [
     {
       "raw_hot": 15128338,
@@ -475,6 +475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1651923,
+      "num": 1651923,
+      "word": "乌拉圭vs韩国",
+      "onboard_time": 1669282230,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1645823,
       "num": 1645823,
       "word": "HLE官宣Viper回归",
@@ -537,14 +545,6 @@
       "onboard_time": 1669097914,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1532054,
-      "num": 1532054,
-      "word": "乌拉圭vs韩国",
-      "onboard_time": 1669282230,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 1528877,
@@ -1347,6 +1347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 872073,
+      "num": 872073,
+      "word": "日本足协正申请加入欧足联",
+      "onboard_time": 1669282230,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 867285,
       "num": 867285,
       "word": "内马尔 帅",
@@ -1643,14 +1651,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 740491,
-      "num": 740491,
-      "word": "日本足协正申请加入欧足联",
-      "onboard_time": 1669282230,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 737692,
       "num": 737692,
       "word": "杨紫提醒大家注意冬季消防安全",
@@ -1865,6 +1865,14 @@
       "onboard_time": 1669034982,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 671106,
+      "num": 468246,
+      "word": "嫂子2胎后赚钱养一家9口",
+      "onboard_time": 1669283371,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 670325,
@@ -2475,14 +2483,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 558954,
-      "num": 468246,
-      "word": "嫂子2胎后赚钱养一家9口",
-      "onboard_time": 1669283371,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 556071,
       "num": 556071,
       "word": "谁还走不出于途乔晶晶雪地名场面",
@@ -2625,6 +2625,14 @@
       "onboard_time": 1669060573,
       "rank": 17,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 537335,
+      "num": 435766,
+      "word": "台湾单方面划设的线非法无效",
+      "onboard_time": 1669284393,
+      "rank": 30,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 536480,
@@ -2801,6 +2809,14 @@
       "onboard_time": 1669210355,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 509251,
+      "num": 509251,
+      "word": "初恋",
+      "onboard_time": 1669282712,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 508376,
@@ -3129,14 +3145,6 @@
       "onboard_time": 1669216219,
       "rank": 20,
       "category": "体育"
-    },
-    {
-      "raw_hot": 462983,
-      "num": 462983,
-      "word": "初恋",
-      "onboard_time": 1669282712,
-      "rank": 11,
-      "category": "影视"
     },
     {
       "raw_hot": 462894,
@@ -3593,6 +3601,14 @@
       "onboard_time": 1669249296,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 416817,
+      "num": 416817,
+      "word": "EDG Scout",
+      "onboard_time": 1669284633,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 416418,
@@ -4353,6 +4369,14 @@
       "onboard_time": 1669174412,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 354244,
+      "num": 354244,
+      "word": "北京新增本土感染者863例",
+      "onboard_time": 1669283973,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 352851,
@@ -5131,14 +5155,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 307362,
-      "num": 307362,
-      "word": "北京新增本土感染者863例",
-      "onboard_time": 1669283973,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 307058,
       "num": 307058,
       "word": "十一月讨厌的人都在这里了",
@@ -5273,14 +5289,6 @@
       "onboard_time": 1669244119,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 298436,
-      "num": 187507,
-      "word": "台湾单方面划设的线非法无效",
-      "onboard_time": 1669284393,
-      "rank": 30,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 298092,
@@ -5456,6 +5464,14 @@
       "word": "亚洲球队连胜阿根廷德国",
       "onboard_time": 1669217629,
       "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 285777,
+      "num": 285777,
+      "word": "瑞士vs喀麦隆",
+      "onboard_time": 1669279228,
+      "rank": 24,
       "category": "体育"
     },
     {
@@ -6467,19 +6483,27 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 231722,
+      "num": 231722,
+      "word": "无限暖暖",
+      "onboard_time": 1669284996,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 231038,
+      "num": 231038,
+      "word": "日本赢球各国球迷祝贺中国小伙",
+      "onboard_time": 1669280730,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 230776,
       "num": 230776,
       "word": "点球",
       "onboard_time": 1669112970,
       "rank": 22,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 230337,
-      "num": 230337,
-      "word": "日本赢球各国球迷祝贺中国小伙",
-      "onboard_time": 1669280730,
-      "rank": 43,
       "category": "体育"
     },
     {
@@ -6552,14 +6576,6 @@
       "word": "霍华德将因伤休战两周",
       "onboard_time": 1669043026,
       "rank": 41,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 225958,
-      "num": 225958,
-      "word": "瑞士vs喀麦隆",
-      "onboard_time": 1669279228,
-      "rank": 24,
       "category": "体育"
     },
     {
@@ -6811,6 +6827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 217135,
+      "num": 217135,
+      "word": "李现说C罗加油",
+      "onboard_time": 1669285536,
+      "rank": 26,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 217070,
       "num": 217070,
       "word": "男子街头买4箱冷冻海鲜全是空壳注水",
@@ -6849,14 +6873,6 @@
       "onboard_time": 1669273653,
       "rank": 24,
       "category": "影视"
-    },
-    {
-      "raw_hot": 216583,
-      "num": 216583,
-      "word": "EDG Scout",
-      "onboard_time": 1669284633,
-      "rank": 26,
-      "category": "游戏"
     },
     {
       "raw_hot": 216577,
@@ -7091,14 +7107,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 208657,
-      "num": 181868,
-      "word": "无限暖暖",
-      "onboard_time": 1669284996,
-      "rank": 31,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 208480,
       "num": 208480,
       "word": "李峋别偷笑了",
@@ -7121,6 +7129,14 @@
       "onboard_time": 1669206635,
       "rank": 31,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 206892,
+      "num": 206892,
+      "word": "管泽元说巴西不夺冠剃光头",
+      "onboard_time": 1669281391,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 206095,
@@ -7699,6 +7715,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 190166,
+      "num": 190166,
+      "word": "妻子半夜喂奶丈夫帮盖毛毯当靠垫",
+      "onboard_time": 1669285416,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 190137,
       "num": 174848,
       "word": "U21日本2比1葡萄牙",
@@ -7761,14 +7785,6 @@
       "onboard_time": 1669274552,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 187625,
-      "num": 187625,
-      "word": "管泽元说巴西不夺冠剃光头",
-      "onboard_time": 1669281391,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 187576,
@@ -8393,6 +8409,14 @@
       "onboard_time": 1668994473,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 168032,
+      "num": 168032,
+      "word": "男子骑摩托拖狗好心人追1公里救下",
+      "onboard_time": 1669286074,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 167887,
@@ -9059,6 +9083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 145133,
+      "num": 145133,
+      "word": "国防部点赞厦门舰",
+      "onboard_time": 1669285298,
+      "rank": 37,
+      "category": "军事,国内要闻"
+    },
+    {
       "raw_hot": 145064,
       "num": 145064,
       "word": "火箭军的健身房长啥样",
@@ -9339,6 +9371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 136366,
+      "num": 136366,
+      "word": "狼撒娇是什么样的",
+      "onboard_time": 1669285655,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 136237,
       "num": 136237,
       "word": "妈妈辅导哥哥作业被弟弟剪头发",
@@ -9353,6 +9393,14 @@
       "onboard_time": 1669093360,
       "rank": 46,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 136028,
+      "num": 136028,
+      "word": "李峋心里谁都比不了朱韵",
+      "onboard_time": 1669284213,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 135851,
@@ -9491,6 +9539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131633,
+      "num": 131633,
+      "word": "卡塔尔王子感谢中国网友",
+      "onboard_time": 1669286197,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 131484,
       "num": 131484,
       "word": "沉没百余年的古船已出水600件文物",
@@ -9513,14 +9569,6 @@
       "onboard_time": 1669093601,
       "rank": 47,
       "category": "财经"
-    },
-    {
-      "raw_hot": 130326,
-      "num": 130326,
-      "word": "李峋心里谁都比不了朱韵",
-      "onboard_time": 1669284213,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 130129,
@@ -9561,6 +9609,14 @@
       "onboard_time": 1669258772,
       "rank": 49,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 129259,
+      "num": 129259,
+      "word": "点燃我温暖你29集有温泉戏",
+      "onboard_time": 1669286136,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 129154,
@@ -9793,6 +9849,14 @@
       "onboard_time": 1669136127,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 121547,
+      "num": 121547,
+      "word": "李峋是嘴强王者",
+      "onboard_time": 1669285957,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 121490,
@@ -10049,6 +10113,14 @@
       "onboard_time": 1669181498,
       "rank": 48,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 114008,
+      "num": 114008,
+      "word": "足球传着传着就没了",
+      "onboard_time": 1669285775,
+      "rank": 49,
+      "category": "体育,幽默"
     },
     {
       "raw_hot": 113772,
@@ -11012,7 +11084,7 @@
     },
     {
       "raw_hot": 13714,
-      "num": 402666,
+      "num": 404903,
       "word": "OPPO发布会",
       "onboard_time": 1669284033,
       "rank": 14,

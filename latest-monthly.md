@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/01 00:36:21 ~ 2022/11/24 18:21:23
+本榜单时间：2022/11/01 00:36:21 ~ 2022/11/24 18:37:43
 </p>
 </blockquote>
 <p>
@@ -1437,6 +1437,12 @@ blue露脸（热度：1747178）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B9%8C%E6%8B%89%E5%9C%ADvs%E9%9F%A9%E5%9B%BD%23" target="weibo">
+乌拉圭vs韩国（热度：1651923）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23HLE%E5%AE%98%E5%AE%A3Viper%E5%9B%9E%E5%BD%92%23" target="weibo">
 HLE官宣Viper回归（热度：1645823）
 </a>
@@ -1685,12 +1691,6 @@ Faker（热度：1632969）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E8%B8%A9%E8%B8%8F%E4%BA%8B%E6%95%85%E5%89%8D4%E5%B0%8F%E6%97%B6%E4%B8%8D%E6%96%AD%E6%9C%89%E4%BA%BA%E6%8A%A5%E8%AD%A6%23" target="weibo">
 韩国踩踏事故前4小时不断有人报警（热度：1532856）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B9%8C%E6%8B%89%E5%9C%ADvs%E9%9F%A9%E5%9B%BD%23" target="weibo">
-乌拉圭vs韩国（热度：1532054）
 </a>
 </li>
 
@@ -4395,6 +4395,12 @@ C罗已被移出曼联群聊（热度：890456）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E8%B6%B3%E5%8D%8F%E6%AD%A3%E7%94%B3%E8%AF%B7%E5%8A%A0%E5%85%A5%E6%AC%A7%E8%B6%B3%E8%81%94%23" target="weibo">
+日本足协正申请加入欧足联（热度：872073）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%BA%A4%E4%B8%8D%E8%B5%B7%E6%88%BF%E7%A7%9F%E5%B8%A6%E5%A6%BB%E5%84%BF%E4%BD%8F%E5%85%AC%E5%9B%AD4%E6%9C%88%23" target="weibo">
 男子交不起房租带妻儿住公园4月（热度：871877）
 </a>
@@ -5531,12 +5537,6 @@ Jennie演唱会中途脚伤复发（热度：742614）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9C%8D%E5%8D%8E%E5%BE%B7%E6%8A%B5%E8%BE%BE%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE%23" target="weibo">
 霍华德抵达中国台湾（热度：740686）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E8%B6%B3%E5%8D%8F%E6%AD%A3%E7%94%B3%E8%AF%B7%E5%8A%A0%E5%85%A5%E6%AC%A7%E8%B6%B3%E8%81%94%23" target="weibo">
-日本足协正申请加入欧足联（热度：740491）
 </a>
 </li>
 

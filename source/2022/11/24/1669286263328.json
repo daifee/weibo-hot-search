@@ -1,0 +1,410 @@
+{
+  "runTime": 1669286263328,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2868847,
+        "num": 2868847,
+        "word": "台湾是中国的",
+        "onboard_time": 1669280670,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1651923,
+        "num": 1651923,
+        "word": "乌拉圭vs韩国",
+        "onboard_time": 1669282230,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 35648,
+        "num": 1159248,
+        "word": "多视角记录空军女飞行员首次单飞",
+        "onboard_time": 1669262012,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 872073,
+        "num": 872073,
+        "word": "日本足协正申请加入欧足联",
+        "onboard_time": 1669282230,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 693457,
+        "num": 693457,
+        "word": "日本队为14秒失误研究了一年",
+        "onboard_time": 1669279109,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 610690,
+        "num": 610690,
+        "word": "EDG老板公司欠款849万成老赖",
+        "onboard_time": 1669282471,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 576285,
+        "num": 576285,
+        "word": "女子踩到一颗车厘子摔伤超市赔16万",
+        "onboard_time": 1669273653,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 509251,
+        "num": 509251,
+        "word": "初恋",
+        "onboard_time": 1669282712,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 455734,
+        "num": 455734,
+        "word": "世界杯",
+        "onboard_time": 1669272872,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 453267,
+        "num": 453267,
+        "word": "酷云认证赵丽颖近五年85花收视TOP1",
+        "onboard_time": 1669281693,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 671106,
+        "num": 442653,
+        "word": "嫂子2胎后赚钱养一家9口",
+        "onboard_time": 1669283371,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 537335,
+        "num": 435766,
+        "word": "台湾单方面划设的线非法无效",
+        "onboard_time": 1669284393,
+        "rank": 11,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 416817,
+        "num": 416817,
+        "word": "EDG Scout",
+        "onboard_time": 1669284633,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 412774,
+        "num": 412774,
+        "word": "白鹿以爱为营红裙路透",
+        "onboard_time": 1669282589,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 2395,
+        "num": 404903,
+        "word": "OPPO发布会",
+        "onboard_time": 1669284033,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 404106,
+        "num": 404106,
+        "word": "宋轶把千金气质拿捏住了",
+        "onboard_time": 1669274611,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 354244,
+        "num": 354244,
+        "word": "北京新增本土感染者863例",
+        "onboard_time": 1669283973,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 319660,
+        "num": 319660,
+        "word": "孕妇过度营养致胰腺炎血液像豆浆",
+        "onboard_time": 1669280309,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312775,
+        "num": 312775,
+        "word": "90后小伙酷似C罗走红",
+        "onboard_time": 1669284033,
+        "rank": 18,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 285777,
+        "num": 285777,
+        "word": "瑞士vs喀麦隆",
+        "onboard_time": 1669279228,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 265319,
+        "num": 265319,
+        "word": "陈乔恩说没有女人想听到保养得好",
+        "onboard_time": 1669277552,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246362,
+        "num": 246362,
+        "word": "谭松韵近五年90花收视冠军",
+        "onboard_time": 1669279890,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 241089,
+        "num": 241089,
+        "word": "离个婚能有多不体面",
+        "onboard_time": 1669260694,
+        "rank": 22,
+        "category": "情感,影视"
+      },
+      {
+        "raw_hot": 231722,
+        "num": 231722,
+        "word": "无限暖暖",
+        "onboard_time": 1669284996,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 231038,
+        "num": 231038,
+        "word": "日本赢球各国球迷祝贺中国小伙",
+        "onboard_time": 1669280730,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221059,
+        "num": 221059,
+        "word": "朱韵救了李峋",
+        "onboard_time": 1669278571,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 217135,
+        "num": 217135,
+        "word": "李现说C罗加油",
+        "onboard_time": 1669285536,
+        "rank": 26,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 216755,
+        "num": 216755,
+        "word": "长春疫情防控",
+        "onboard_time": 1669278270,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206892,
+        "num": 206892,
+        "word": "管泽元说巴西不夺冠剃光头",
+        "onboard_time": 1669281391,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190166,
+        "num": 190166,
+        "word": "妻子半夜喂奶丈夫帮盖毛毯当靠垫",
+        "onboard_time": 1669285416,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176484,
+        "num": 176484,
+        "word": "C罗和内马尔今日首秀",
+        "onboard_time": 1669277490,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175509,
+        "num": 175509,
+        "word": "杨幂回应粉丝催进组",
+        "onboard_time": 1669277430,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 174845,
+        "num": 174845,
+        "word": "原来买毛衣要先看面料",
+        "onboard_time": 1669280850,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 168032,
+        "num": 168032,
+        "word": "男子骑摩托拖狗好心人追1公里救下",
+        "onboard_time": 1669286074,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165269,
+        "num": 165269,
+        "word": "巴西球星真的来堵管泽元的嘴了",
+        "onboard_time": 1669277189,
+        "rank": 34,
+        "category": "体育,幽默"
+      },
+      {
+        "raw_hot": 149593,
+        "num": 149593,
+        "word": "消防员火场救出一窝熏黑的小白兔",
+        "onboard_time": 1669276052,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145959,
+        "num": 145959,
+        "word": "国防部回应美发布涉台报告",
+        "onboard_time": 1669281152,
+        "rank": 36,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 145133,
+        "num": 145133,
+        "word": "国防部点赞厦门舰",
+        "onboard_time": 1669285298,
+        "rank": 37,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 139973,
+        "num": 139973,
+        "word": "再就业男团思念是一种病reaction",
+        "onboard_time": 1669281872,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139099,
+        "num": 139099,
+        "word": "中国球迷世界杯现场痛哭",
+        "onboard_time": 1669274251,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138145,
+        "num": 138145,
+        "word": "为什么经期前会莫名emo",
+        "onboard_time": 1669271012,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137522,
+        "num": 137522,
+        "word": "12月的电影院燃起来了",
+        "onboard_time": 1669274068,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 136366,
+        "num": 136366,
+        "word": "狼撒娇是什么样的",
+        "onboard_time": 1669285655,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 136028,
+        "num": 136028,
+        "word": "李峋心里谁都比不了朱韵",
+        "onboard_time": 1669284213,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 131633,
+        "num": 131633,
+        "word": "卡塔尔王子感谢中国网友",
+        "onboard_time": 1669286197,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129259,
+        "num": 129259,
+        "word": "点燃我温暖你29集有温泉戏",
+        "onboard_time": 1669286136,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 123602,
+        "num": 123602,
+        "word": "日本大叔说下次轮到中国赢德国",
+        "onboard_time": 1669263632,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122115,
+        "num": 122115,
+        "word": "U21日本2比1葡萄牙",
+        "onboard_time": 1669284633,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121547,
+        "num": 121547,
+        "word": "李峋是嘴强王者",
+        "onboard_time": 1669285957,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 114008,
+        "num": 114008,
+        "word": "足球传着传着就没了",
+        "onboard_time": 1669285775,
+        "rank": 49,
+        "category": "体育,幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#让互联网的发展成果更好地造福全人类#"
+    }
+  }
+}
