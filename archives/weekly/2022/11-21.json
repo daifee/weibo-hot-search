@@ -1,6 +1,6 @@
 {
   "startTime": 1668961718135,
-  "endTime": 1669282494973,
+  "endTime": 1669285283937,
   "band_list": [
     {
       "raw_hot": 15128338,
@@ -121,6 +121,14 @@
       "onboard_time": 1669178503,
       "rank": 0,
       "category": "财经,艺人"
+    },
+    {
+      "raw_hot": 3174063,
+      "num": 3174063,
+      "word": "台湾是中国的",
+      "onboard_time": 1669280670,
+      "rank": 12,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 2995913,
@@ -491,14 +499,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 1615252,
-      "num": 1615252,
-      "word": "台湾是中国的",
-      "onboard_time": 1669280670,
-      "rank": 12,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 1592601,
       "num": 1592601,
       "word": "沙特守门员杀疯了",
@@ -537,6 +537,14 @@
       "onboard_time": 1669097914,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1532054,
+      "num": 1532054,
+      "word": "乌拉圭vs韩国",
+      "onboard_time": 1669282230,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 1528877,
@@ -1635,6 +1643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 740491,
+      "num": 740491,
+      "word": "日本足协正申请加入欧足联",
+      "onboard_time": 1669282230,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 737692,
       "num": 737692,
       "word": "杨紫提醒大家注意冬季消防安全",
@@ -1977,6 +1993,14 @@
       "onboard_time": 1668987388,
       "rank": 49,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 638663,
+      "num": 638663,
+      "word": "EDG老板公司欠款849万成老赖",
+      "onboard_time": 1669282471,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 638056,
@@ -2448,6 +2472,14 @@
       "word": "24日起北京进入公共场所查验48小时核酸证明",
       "onboard_time": 1669112189,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 558954,
+      "num": 468246,
+      "word": "嫂子2胎后赚钱养一家9口",
+      "onboard_time": 1669283371,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -3043,6 +3075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 473713,
+      "num": 473713,
+      "word": "90后小伙酷似C罗走红",
+      "onboard_time": 1669284033,
+      "rank": 8,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 472778,
       "num": 472778,
       "word": "檀健次金世佳猎罪图鉴明年1月日本播出",
@@ -3091,6 +3131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 462983,
+      "num": 462983,
+      "word": "初恋",
+      "onboard_time": 1669282712,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 462894,
       "num": 462894,
       "word": "田柾国参与了Dreamers词曲创作",
@@ -3121,6 +3169,14 @@
       "onboard_time": 1669189717,
       "rank": 5,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 459803,
+      "num": 459803,
+      "word": "酷云认证赵丽颖近五年85花收视TOP1",
+      "onboard_time": 1669281693,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 459351,
@@ -3272,6 +3328,14 @@
       "word": "罗一舟说九个人可以成团非常难得",
       "onboard_time": 1669020095,
       "rank": 35,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 443311,
+      "num": 443311,
+      "word": "白鹿以爱为营红裙路透",
+      "onboard_time": 1669282589,
+      "rank": 13,
       "category": "作品衍生"
     },
     {
@@ -3801,6 +3865,14 @@
       "onboard_time": 1669128705,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 391711,
+      "num": 391711,
+      "word": "孕妇过度营养致胰腺炎血液像豆浆",
+      "onboard_time": 1669280309,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 390302,
@@ -4651,14 +4723,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 330972,
-      "num": 330972,
-      "word": "乌拉圭vs韩国",
-      "onboard_time": 1669282230,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 330744,
       "num": 228886,
       "word": "刘芸发火前会和郑钧预告",
@@ -4851,14 +4915,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 320194,
-      "num": 320194,
-      "word": "孕妇过度营养致胰腺炎血液像豆浆",
-      "onboard_time": 1669280309,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 319909,
       "num": 319909,
       "word": "赵丽颖风吹半夏五大美德",
@@ -4881,14 +4937,6 @@
       "onboard_time": 1669272093,
       "rank": 19,
       "category": "社会议题"
-    },
-    {
-      "raw_hot": 317617,
-      "num": 249959,
-      "word": "酷云认证赵丽颖近五年85花收视TOP1",
-      "onboard_time": 1669281693,
-      "rank": 20,
-      "category": "影视"
     },
     {
       "raw_hot": 317178,
@@ -5083,6 +5131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 307362,
+      "num": 307362,
+      "word": "北京新增本土感染者863例",
+      "onboard_time": 1669283973,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 307058,
       "num": 307058,
       "word": "十一月讨厌的人都在这里了",
@@ -5217,6 +5273,14 @@
       "onboard_time": 1669244119,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 298436,
+      "num": 187507,
+      "word": "台湾单方面划设的线非法无效",
+      "onboard_time": 1669284393,
+      "rank": 30,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 298092,
@@ -6411,6 +6475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 230337,
+      "num": 230337,
+      "word": "日本赢球各国球迷祝贺中国小伙",
+      "onboard_time": 1669280730,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 230225,
       "num": 230225,
       "word": "丈夫为妻子设计可穿高跟鞋的假肢",
@@ -6483,6 +6555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 225958,
+      "num": 225958,
+      "word": "瑞士vs喀麦隆",
+      "onboard_time": 1669279228,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 225650,
       "num": 225650,
       "word": "JDG与Homme续约",
@@ -6537,14 +6617,6 @@
       "onboard_time": 1669193256,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 223945,
-      "num": 223945,
-      "word": "瑞士vs喀麦隆",
-      "onboard_time": 1669279228,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 223676,
@@ -6779,6 +6851,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 216583,
+      "num": 216583,
+      "word": "EDG Scout",
+      "onboard_time": 1669284633,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 216577,
       "num": 216577,
       "word": "命韵峋环新情头",
@@ -7009,6 +7089,14 @@
       "onboard_time": 1669115853,
       "rank": 47,
       "category": "美食"
+    },
+    {
+      "raw_hot": 208657,
+      "num": 181868,
+      "word": "无限暖暖",
+      "onboard_time": 1669284996,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 208480,
@@ -7347,6 +7435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 196581,
+      "num": 196581,
+      "word": "原来买毛衣要先看面料",
+      "onboard_time": 1669280850,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 196446,
       "num": 196446,
       "word": "卡塔尔世界杯足球内置传感器",
@@ -7603,6 +7699,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 190137,
+      "num": 174848,
+      "word": "U21日本2比1葡萄牙",
+      "onboard_time": 1669284633,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 189896,
       "num": 189896,
       "word": "刘维何超莲下班就解散的友情",
@@ -7657,6 +7761,14 @@
       "onboard_time": 1669274552,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 187625,
+      "num": 187625,
+      "word": "管泽元说巴西不夺冠剃光头",
+      "onboard_time": 1669281391,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 187576,
@@ -8219,14 +8331,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 169778,
-      "num": 169778,
-      "word": "原来买毛衣要先看面料",
-      "onboard_time": 1669280850,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 169682,
       "num": 169682,
       "word": "堂安律补射破门",
@@ -8313,14 +8417,6 @@
       "onboard_time": 1669213238,
       "rank": 46,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 165141,
-      "num": 165141,
-      "word": "日本赢球各国球迷祝贺中国小伙",
-      "onboard_time": 1669280730,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 164149,
@@ -9027,14 +9123,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 143686,
-      "num": 143686,
-      "word": "日本足协正申请加入欧足联",
-      "onboard_time": 1669282230,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 143676,
       "num": 143676,
       "word": "新冠肺炎疫情居家健康监测指南",
@@ -9216,14 +9304,6 @@
       "word": "英格兰首发",
       "onboard_time": 1669032403,
       "rank": 41,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 138030,
-      "num": 138030,
-      "word": "管泽元说巴西不夺冠剃光头",
-      "onboard_time": 1669281391,
-      "rank": 49,
       "category": "体育"
     },
     {
@@ -9435,6 +9515,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 130326,
+      "num": 130326,
+      "word": "李峋心里谁都比不了朱韵",
+      "onboard_time": 1669284213,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 130129,
       "num": 130129,
       "word": "智族GQ红毯背后阵容",
@@ -9601,6 +9689,14 @@
       "onboard_time": 1669189958,
       "rank": 44,
       "category": "动漫,影视"
+    },
+    {
+      "raw_hot": 125379,
+      "num": 125379,
+      "word": "尹峥哄妻王者",
+      "onboard_time": 1669283614,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 125052,
@@ -9777,14 +9873,6 @@
       "onboard_time": 1668945988,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 119358,
-      "num": 119358,
-      "word": "EDG老板公司欠款849万成老赖",
-      "onboard_time": 1669282471,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 119142,
@@ -10921,6 +11009,14 @@
       "onboard_time": 1669055775,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 13714,
+      "num": 402666,
+      "word": "OPPO发布会",
+      "onboard_time": 1669284033,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1878,

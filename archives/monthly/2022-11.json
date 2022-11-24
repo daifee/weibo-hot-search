@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1669282494973,
+  "endTime": 1669285283937,
   "band_list": [
     {
       "raw_hot": 15128338,
@@ -361,6 +361,14 @@
       "onboard_time": 1667801010,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3174063,
+      "num": 3174063,
+      "word": "台湾是中国的",
+      "onboard_time": 1669280670,
+      "rank": 12,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 3169070,
@@ -1979,14 +1987,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1615252,
-      "num": 1615252,
-      "word": "台湾是中国的",
-      "onboard_time": 1669280670,
-      "rank": 12,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 1608917,
       "num": 1608917,
       "word": "北京部分感染者出现症状仍参加社会活动",
@@ -2233,6 +2233,14 @@
       "onboard_time": 1667409976,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1532054,
+      "num": 1532054,
+      "word": "乌拉圭vs韩国",
+      "onboard_time": 1669282230,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 1528877,
@@ -7355,6 +7363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 740491,
+      "num": 740491,
+      "word": "日本足协正申请加入欧足联",
+      "onboard_time": 1669282230,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 740315,
       "num": 740315,
       "word": "EDG",
@@ -9121,6 +9137,14 @@
       "onboard_time": 1668338310,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 638663,
+      "num": 638663,
+      "word": "EDG老板公司欠款849万成老赖",
+      "onboard_time": 1669282471,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 638215,
@@ -11016,6 +11040,14 @@
       "word": "小伙清理舌苔误吞18厘米长牙刷",
       "onboard_time": 1667863883,
       "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 558954,
+      "num": 468246,
+      "word": "嫂子2胎后赚钱养一家9口",
+      "onboard_time": 1669283371,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -13931,6 +13963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 473713,
+      "num": 473713,
+      "word": "90后小伙酷似C罗走红",
+      "onboard_time": 1669284033,
+      "rank": 8,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 473502,
       "num": 473502,
       "word": "王鹤棣抢镜是和沈腾学的吧",
@@ -14331,6 +14371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 462983,
+      "num": 462983,
+      "word": "初恋",
+      "onboard_time": 1669282712,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 462920,
       "num": 462920,
       "word": "RNG",
@@ -14457,6 +14505,14 @@
       "onboard_time": 1669189717,
       "rank": 5,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 459803,
+      "num": 459803,
+      "word": "酷云认证赵丽颖近五年85花收视TOP1",
+      "onboard_time": 1669281693,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 459695,
@@ -15065,6 +15121,14 @@
       "onboard_time": 1668926246,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 443311,
+      "num": 443311,
+      "word": "白鹿以爱为营红裙路透",
+      "onboard_time": 1669282589,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 443305,
@@ -17568,6 +17632,14 @@
       "word": "熊孩子喊饿趁妈妈睡觉点300多元外卖",
       "onboard_time": 1667830649,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 391711,
+      "num": 391711,
+      "word": "孕妇过度营养致胰腺炎血液像豆浆",
+      "onboard_time": 1669280309,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -21043,14 +21115,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 330972,
-      "num": 330972,
-      "word": "乌拉圭vs韩国",
-      "onboard_time": 1669282230,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 330926,
       "num": 330926,
       "word": "华为工程师回应问界M7安全性质疑",
@@ -21795,14 +21859,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 320194,
-      "num": 320194,
-      "word": "孕妇过度营养致胰腺炎血液像豆浆",
-      "onboard_time": 1669280309,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 319909,
       "num": 319909,
       "word": "赵丽颖风吹半夏五大美德",
@@ -21977,14 +22033,6 @@
       "onboard_time": 1668775046,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 317617,
-      "num": 249959,
-      "word": "酷云认证赵丽颖近五年85花收视TOP1",
-      "onboard_time": 1669281693,
-      "rank": 20,
-      "category": "影视"
     },
     {
       "raw_hot": 317479,
@@ -22843,6 +22891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 307362,
+      "num": 307362,
+      "word": "北京新增本土感染者863例",
+      "onboard_time": 1669283973,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 307058,
       "num": 307058,
       "word": "十一月讨厌的人都在这里了",
@@ -23377,6 +23433,14 @@
       "onboard_time": 1667915789,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 298436,
+      "num": 187507,
+      "word": "台湾单方面划设的线非法无效",
+      "onboard_time": 1669284393,
+      "rank": 30,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 298401,
@@ -28779,6 +28843,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 230337,
+      "num": 230337,
+      "word": "日本赢球各国球迷祝贺中国小伙",
+      "onboard_time": 1669280730,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 230248,
       "num": 230248,
       "word": "推特将从周五起全公司范围裁员",
@@ -29267,6 +29339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 225958,
+      "num": 225958,
+      "word": "瑞士vs喀麦隆",
+      "onboard_time": 1669279228,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 225912,
       "num": 225912,
       "word": "勇士四连败",
@@ -29537,14 +29617,6 @@
       "onboard_time": 1669193256,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 223945,
-      "num": 223945,
-      "word": "瑞士vs喀麦隆",
-      "onboard_time": 1669279228,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 223932,
@@ -30401,6 +30473,14 @@
       "onboard_time": 1667745336,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 216583,
+      "num": 216583,
+      "word": "EDG Scout",
+      "onboard_time": 1669284633,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 216577,
@@ -31281,6 +31361,14 @@
       "onboard_time": 1669115853,
       "rank": 47,
       "category": "美食"
+    },
+    {
+      "raw_hot": 208657,
+      "num": 181868,
+      "word": "无限暖暖",
+      "onboard_time": 1669284996,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 208556,
@@ -32739,6 +32827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 196581,
+      "num": 196581,
+      "word": "原来买毛衣要先看面料",
+      "onboard_time": 1669280850,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 196503,
       "num": 141097,
       "word": "这居然是玖月奇迹王小玮",
@@ -33675,6 +33771,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 190137,
+      "num": 174848,
+      "word": "U21日本2比1葡萄牙",
+      "onboard_time": 1669284633,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 190121,
       "num": 172234,
       "word": "今天好多剧杀青",
@@ -33993,6 +34097,14 @@
       "onboard_time": 1668407429,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 187625,
+      "num": 187625,
+      "word": "管泽元说巴西不夺冠剃光头",
+      "onboard_time": 1669281391,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 187599,
@@ -36283,14 +36395,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 169778,
-      "num": 169778,
-      "word": "原来买毛衣要先看面料",
-      "onboard_time": 1669280850,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 169682,
       "num": 169682,
       "word": "堂安律补射破门",
@@ -36857,14 +36961,6 @@
       "onboard_time": 1668337168,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 165141,
-      "num": 165141,
-      "word": "日本赢球各国球迷祝贺中国小伙",
-      "onboard_time": 1669280730,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 165100,
@@ -40099,14 +40195,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 143686,
-      "num": 143686,
-      "word": "日本足协正申请加入欧足联",
-      "onboard_time": 1669282230,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 143676,
       "num": 143676,
       "word": "新冠肺炎疫情居家健康监测指南",
@@ -41120,14 +41208,6 @@
       "word": "英格兰首发",
       "onboard_time": 1669032403,
       "rank": 41,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 138030,
-      "num": 138030,
-      "word": "管泽元说巴西不夺冠剃光头",
-      "onboard_time": 1669281391,
-      "rank": 49,
       "category": "体育"
     },
     {
@@ -42459,6 +42539,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 130326,
+      "num": 130326,
+      "word": "李峋心里谁都比不了朱韵",
+      "onboard_time": 1669284213,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 130129,
       "num": 130129,
       "word": "智族GQ红毯背后阵容",
@@ -43265,6 +43353,14 @@
       "onboard_time": 1669189958,
       "rank": 44,
       "category": "动漫,影视"
+    },
+    {
+      "raw_hot": 125379,
+      "num": 125379,
+      "word": "尹峥哄妻王者",
+      "onboard_time": 1669283614,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 125334,
@@ -44145,14 +44241,6 @@
       "onboard_time": 1667529625,
       "rank": 48,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 119358,
-      "num": 119358,
-      "word": "EDG老板公司欠款849万成老赖",
-      "onboard_time": 1669282471,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 119342,
@@ -52953,6 +53041,14 @@
       "onboard_time": 1667849711,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 13714,
+      "num": 402666,
+      "word": "OPPO发布会",
+      "onboard_time": 1669284033,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 13691,
