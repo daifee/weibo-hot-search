@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/21 00:28:38 ~ 2022/11/24 23:36:56
+本榜单时间：2022/11/21 00:28:38 ~ 2022/11/25 00:28:00
 </p>
 </blockquote>
 <p>
@@ -165,6 +165,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%91%A1%E8%90%84%E7%89%99vs%E5%8A%A0%E7%BA%B3%23" target="weibo">
+葡萄牙vs加纳（热度：2701620）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E8%B5%94%E7%8E%87%23" target="weibo">
 日本赔率（热度：2651843）
 </a>
@@ -281,12 +287,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%8B%E5%8A%9B%E6%9D%A5%E5%88%B0%E9%9F%A9%E5%9B%BD%E8%BF%99%E8%BE%B9%23" target="weibo">
 压力来到韩国这边（热度：2058039）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%91%A1%E8%90%84%E7%89%99vs%E5%8A%A0%E7%BA%B3%23" target="weibo">
-葡萄牙vs加纳（热度：2045903）
 </a>
 </li>
 
@@ -1023,6 +1023,12 @@ C罗世界杯首秀（热度：939263）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23C%E7%BD%97%E5%93%AD%E4%BA%86%23" target="weibo">
+C罗哭了（热度：895272）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A409%E4%BE%8B%E6%97%A0%E7%97%87%E7%8A%B67437%E4%BE%8B%23" target="weibo">
 重庆新增本土确诊409例无症状7437例（热度：892704）
 </a>
@@ -1637,6 +1643,12 @@ EDG老板公司欠款849万成老赖（热度：638663）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E7%94%B7%E5%AD%90%E5%A4%9C%E9%92%93%E6%97%B6%E9%92%93%E5%88%B0%E4%B8%80%E5%85%B7%E6%B5%AE%E5%B0%B8%23" target="weibo">
 警方回应男子夜钓时钓到一具浮尸（热度：638056）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A9%86%E5%A9%86%E4%B8%BA%E7%9C%81%E5%A5%B6%E7%B2%89%E9%92%B1%E7%BB%99%E4%B8%80%E5%B2%81%E5%AD%99%E5%A5%B3%E7%82%92%E9%9D%A2%E7%B2%89%23" target="weibo">
+婆婆为省奶粉钱给一岁孙女炒面粉（热度：636366）
 </a>
 </li>
 
@@ -2433,6 +2445,12 @@ JDG Ruler（热度：502446）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E9%A9%AC%E5%98%89%E7%A5%BA%E5%88%98%E8%80%80%E6%96%87%E4%B8%A5%E6%B5%A9%E7%BF%94%E5%B0%86%E5%8F%91%E6%96%B0%E6%AD%8C%23" target="weibo">
+网传马嘉祺刘耀文严浩翔将发新歌（热度：487109）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E8%8A%B3%E5%A6%82%E8%A2%AB%E4%BA%8C%E5%B0%91%E4%B8%BB%E4%B8%8B%E8%8D%AF%23" target="weibo">
 赵芳如被二少主下药（热度：484565）
 </a>
@@ -2513,6 +2531,12 @@ JDG Ruler（热度：502446）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2390%E5%90%8E%E5%B0%8F%E4%BC%99%E9%85%B7%E4%BC%BCC%E7%BD%97%E8%B5%B0%E7%BA%A2%23" target="weibo">
 90后小伙酷似C罗走红（热度：473713）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E9%A9%AC%E5%B0%94%E9%A6%96%E7%A7%80%23" target="weibo">
+内马尔首秀（热度：472803）
 </a>
 </li>
 
@@ -3137,6 +3161,12 @@ C罗（热度：396181）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%B3%8B%E5%AF%B9%E6%9C%B1%E9%9F%B5%E6%9C%80%E5%8F%A3%E6%98%AF%E5%BF%83%E9%9D%9E%E7%9A%84%E4%B8%80%E6%AC%A1%23" target="weibo">
 李峋对朱韵最口是心非的一次（热度：394737）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%9F%E6%B1%89%E7%81%BF%E7%83%82%E8%A7%92%E8%89%B2%E5%8F%B7%E6%9B%B4%E6%96%B0%E5%BE%AE%E5%8D%9A%23" target="weibo">
+星汉灿烂角色号更新微博（热度：393660）
 </a>
 </li>
 
@@ -4101,12 +4131,6 @@ Deft（热度：314629）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A9%86%E5%A9%86%E4%B8%BA%E7%9C%81%E5%A5%B6%E7%B2%89%E9%92%B1%E7%BB%99%E4%B8%80%E5%B2%81%E5%AD%99%E5%A5%B3%E7%82%92%E9%9D%A2%E7%B2%89%23" target="weibo">
-婆婆为省奶粉钱给一岁孙女炒面粉（热度：312904）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%8C%E5%AE%A1%E6%B3%95%E5%BA%AD%E8%B0%83%E6%9F%A5%E5%88%98%E9%91%AB%E4%B8%80%E6%96%B9%E6%96%B0%E8%AF%81%E6%8D%AE%23" target="weibo">
 二审法庭调查刘鑫一方新证据（热度：312888）
 </a>
@@ -4521,6 +4545,12 @@ SEVENTEEN演唱会现场对比（热度：289290）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23C%E7%BD%97%20%E5%B8%85%23" target="weibo">
+C罗 帅（热度：282019）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2311%E6%9C%8823%E6%97%A5%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A3927%E4%BE%8B%23" target="weibo">
 11月23日新增本土确诊3927例（热度：281889）
 </a>
@@ -4607,6 +4637,12 @@ SEVENTEEN演唱会现场对比（热度：289290）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E5%A5%94%E5%90%9130%E9%9F%B3%E4%B9%90%E5%88%86%E4%BA%AB%E4%BC%9A%E6%B5%B7%E6%8A%A5%23" target="weibo">
 时代少年团奔向30音乐分享会海报（热度：278744）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%81%9A%E7%90%86%E7%96%97%E8%A2%AB%E7%BB%91%E6%91%87%E6%91%86%E5%BA%8A%E6%89%AD%E6%88%90%E7%BE%8E%E4%BA%BA%E9%B1%BC%23" target="weibo">
+女子做理疗被绑摇摆床扭成美人鱼（热度：278367）
 </a>
 </li>
 
@@ -4803,6 +4839,12 @@ DK官宣新赛季大名单（热度：268281）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8D%E6%8C%A3%E9%92%B1%E7%9A%84%E4%BA%BA%E6%98%AF%E6%B2%A1%E6%9C%89%E8%AF%9D%E8%AF%AD%E6%9D%83%E7%9A%84%23" target="weibo">
+不挣钱的人是没有话语权的（热度：262542）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B313%E9%A2%84%E8%AE%A1%E6%B6%A8%E4%BB%B715%25%E8%87%B320%25%23" target="weibo">
 小米13预计涨价15%至20%（热度：262521）
 </a>
@@ -4983,6 +5025,12 @@ Jennie新歌（热度：254165）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%91%A1%E8%90%84%E7%89%99%E9%A6%96%E5%8F%91%23" target="weibo">
+葡萄牙首发（热度：250701）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%9D%AF%E6%9C%9F%E9%97%B4%E8%A2%AB%E5%A5%B3%E5%8F%8B%E4%B8%8A%E4%BA%86%E4%B8%80%E8%AF%BE%23" target="weibo">
 世界杯期间被女友上了一课（热度：250349）
 </a>
@@ -5111,6 +5159,12 @@ iPhone15明年全系采用USBC接口（热度：247665）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%89%E8%85%BF%E7%A5%9E%E5%99%A8%E8%83%BD%E6%9C%89%E5%A4%9A%E9%80%BC%E7%9C%9F%23" target="weibo">
 光腿神器能有多逼真（热度：242985）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E8%89%BA%E6%B4%8B%E5%88%86%E4%BA%AB%E4%B8%80%E7%BB%84%E6%96%B0%E7%9A%84%E7%85%A7%E7%89%87%23" target="weibo">
+徐艺洋分享一组新的照片（热度：242633）
 </a>
 </li>
 
@@ -5267,12 +5321,6 @@ iPhone15明年全系采用USBC接口（热度：247665）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E8%B5%A2%E7%90%83%E5%90%84%E5%9B%BD%E7%90%83%E8%BF%B7%E7%A5%9D%E8%B4%BA%E4%B8%AD%E5%9B%BD%E5%B0%8F%E4%BC%99%23" target="weibo">
 日本赢球各国球迷祝贺中国小伙（热度：231038）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%81%9A%E7%90%86%E7%96%97%E8%A2%AB%E7%BB%91%E6%91%87%E6%91%86%E5%BA%8A%E6%89%AD%E6%88%90%E7%BE%8E%E4%BA%BA%E9%B1%BC%23" target="weibo">
-女子做理疗被绑摇摆床扭成美人鱼（热度：230829）
 </a>
 </li>
 
@@ -5627,6 +5675,12 @@ vivo推出能拍银河的手机（热度：217275）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%B1%E8%90%BD%E8%A9%B9%E9%9D%92%E4%BA%91%E8%A2%AB%E6%B2%99%E7%89%B9%E7%90%83%E8%BF%B7%E7%8E%AF%E7%BB%95%23" target="weibo">
 失落詹青云被沙特球迷环绕（热度：215041）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E6%B5%AA%E6%BC%AB%E7%9C%9F%E7%9A%84%E4%B8%8D%E9%9C%80%E8%A6%81%E8%8A%B1%E9%92%B1%23" target="weibo">
+原来浪漫真的不需要花钱（热度：214918）
 </a>
 </li>
 
@@ -6267,6 +6321,12 @@ U21日本2比1葡萄牙（热度：190137）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E7%88%B1%E7%9A%84%E4%BA%8C%E5%85%AB%E5%AE%9A%E5%BE%8B%E7%A7%A6%E6%96%BD%E5%8F%8D%E5%B7%AE%E6%84%9F%23" target="weibo">
+杨幂爱的二八定律秦施反差感（热度：188037）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E8%AF%B4%E5%B8%A6%E7%9D%80%E6%BF%80%E6%83%85%E4%B8%8E%E6%A2%A6%E6%83%B3%E5%87%BA%E6%88%98%23" target="weibo">
 梅西说带着激情与梦想出战（热度：187576）
 </a>
@@ -6431,6 +6491,12 @@ YERI将出演电视剧清潭国际高中（热度：186325）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23WHG%E5%AF%B9%E9%98%B5JT%23" target="weibo">
 WHG对阵JT（热度：182590）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E8%BF%99%E4%BA%9B%E6%98%8E%E6%98%9F%E9%83%BD%E6%98%AFC%E7%BD%97%E7%90%83%E8%BF%B7%23" target="weibo">
+原来这些明星都是C罗球迷（热度：182532）
 </a>
 </li>
 
@@ -6801,6 +6867,12 @@ AMA（热度：169225）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E7%B4%AB%E5%87%BD%E8%AF%B4%E8%B5%B5%E8%8A%B3%E5%A6%82%E7%9F%BF%E5%A7%90%E5%8F%98%E6%8B%BD%E5%A7%90%23" target="weibo">
+陈紫函说赵芳如矿姐变拽姐（热度：165266）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%A0%B9%E5%BB%B7%E5%88%9B48%E5%B9%B4%E6%9C%80%E5%B7%AE%E5%BC%80%E5%B1%80%E7%BA%AA%E5%BD%95%23" target="weibo">
 阿根廷创48年最差开局纪录（热度：164149）
 </a>
@@ -6995,6 +7067,12 @@ GEN与Peanut续约（热度：162895）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%E8%A7%81%E8%AF%81%E4%B8%80%E4%B8%AA%E5%8F%88%E4%B8%80%E4%B8%AA%E7%B2%BE%E5%BD%A9%E7%9E%AC%E9%97%B4%23" target="weibo">
 中国制造见证一个又一个精彩瞬间（热度：157067）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E5%87%AF%E4%BB%99%E5%89%91%E5%85%AD%E7%A5%88%E4%BB%8A%E6%9C%9D%E6%9D%80%E9%9D%92%23" target="weibo">
+许凯仙剑六祈今朝杀青（热度：157017）
 </a>
 </li>
 
@@ -7437,6 +7515,12 @@ Fly刺痛神仙兄弟情（热度：143620）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%9B%9E%E5%A4%B8%E7%88%B6%E8%BF%BD%E5%88%B0%E4%BA%86%E5%A4%AA%E9%98%B3%23" target="weibo">
+这回夸父追到了太阳（热度：140550）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%84%E7%93%9C%E5%A4%9A%E5%B0%94%E5%B0%86%E8%BF%9B%E7%90%83%E7%8C%AE%E7%BB%99%E5%B7%B2%E6%95%85%E9%98%9F%E5%8F%8B%23" target="weibo">
 厄瓜多尔将进球献给已故队友（热度：139937）
 </a>
@@ -7701,6 +7785,12 @@ C罗4届世界杯共打入7球（热度：133251）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E9%A9%AC%E5%B0%94%E8%83%BD%E8%BF%9B%E5%87%A0%E7%90%83%23" target="weibo">
+内马尔能进几球（热度：131169）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%99%BA%E6%97%8FGQ%E7%BA%A2%E6%AF%AF%E8%83%8C%E5%90%8E%E9%98%B5%E5%AE%B9%23" target="weibo">
 智族GQ红毯背后阵容（热度：130129）
 </a>
@@ -7859,6 +7949,12 @@ FIFA世界杯（热度：125052）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23C%E7%BD%97%E4%BB%8A%E6%99%9A%E8%A7%81%23" target="weibo">
 C罗今晚见（热度：124087）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E4%BB%A3%E7%90%83%E8%BF%B7%E7%9C%8B%E7%90%83%E7%8E%B0%E7%8A%B6%23" target="weibo">
+当代球迷看球现状（热度：123955）
 </a>
 </li>
 
@@ -8303,12 +8399,6 @@ vivo这设计浪漫且有用（热度：108831）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2337%E5%B2%81C%E7%BD%97%E5%A4%A7%E8%85%BF%E6%81%90%E6%80%96%E8%82%8C%E8%82%89%23" target="weibo">
 37岁C罗大腿恐怖肌肉（热度：105874）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%9B%9E%E5%A4%B8%E7%88%B6%E8%BF%BD%E5%88%B0%E4%BA%86%E5%A4%AA%E9%98%B3%23" target="weibo">
-这回夸父追到了太阳（热度：105797）
 </a>
 </li>
 

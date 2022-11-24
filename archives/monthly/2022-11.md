@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/01 00:36:21 ~ 2022/11/24 23:36:56
+本榜单时间：2022/11/01 00:36:21 ~ 2022/11/25 00:28:00
 </p>
 </blockquote>
 <p>
@@ -431,6 +431,12 @@ T1和DRX决胜局（热度：3699608）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%91%BC%E5%92%8C%E6%B5%A9%E7%89%B9%E4%B8%80%E5%A5%B3%E5%AD%90%E5%9D%A0%E4%BA%A1%23" target="weibo">
 警方通报呼和浩特一女子坠亡（热度：2702343）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%91%A1%E8%90%84%E7%89%99vs%E5%8A%A0%E7%BA%B3%23" target="weibo">
+葡萄牙vs加纳（热度：2701620）
 </a>
 </li>
 
@@ -875,12 +881,6 @@ LPL输得不冤（热度：2073824）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%8B%E5%8A%9B%E6%9D%A5%E5%88%B0%E9%9F%A9%E5%9B%BD%E8%BF%99%E8%BE%B9%23" target="weibo">
 压力来到韩国这边（热度：2058039）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%91%A1%E8%90%84%E7%89%99vs%E5%8A%A0%E7%BA%B3%23" target="weibo">
-葡萄牙vs加纳（热度：2045903）
 </a>
 </li>
 
@@ -4233,6 +4233,12 @@ C罗世界杯首秀（热度：939263）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23C%E7%BD%97%E5%93%AD%E4%BA%86%23" target="weibo">
+C罗哭了（热度：895272）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AF%95%E8%8A%82%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E4%B8%80%E5%A5%B3%E5%AD%A9%E5%9D%A0%E6%A5%BC%E8%BA%AB%E4%BA%A1%23" target="weibo">
 毕节官方通报一女孩坠楼身亡（热度：893397）
 </a>
@@ -6005,12 +6011,6 @@ iPhone15仅Pro的C口支持高速传输（热度：732221）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%8E%8C%E6%8E%B4%E5%B9%BC%E7%AB%A5%E4%BA%8B%E4%BB%B631%E5%88%86%E9%92%9F%E7%9B%91%E6%8E%A7%E6%9B%9D%E5%85%89%23" target="weibo">
 男子掌掴幼童事件31分钟监控曝光（热度：704560）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E8%99%9E%E4%B9%A6%E6%AC%A3%E6%B9%96%E5%8D%97%E6%97%85%E6%B8%B8%E5%8F%91%E5%B1%95%E5%A4%A7%E4%BC%9AID%23" target="weibo">
-王鹤棣虞书欣湖南旅游发展大会ID（热度：704329）
 </a>
 </li>
 
