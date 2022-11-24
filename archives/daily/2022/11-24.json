@@ -1,6 +1,6 @@
 {
   "startTime": 1669220901508,
-  "endTime": 1669254504079,
+  "endTime": 1669255879619,
   "band_list": [
     {
       "raw_hot": 2651843,
@@ -43,6 +43,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1212438,
+      "num": 1212438,
+      "word": "郑州将用5天时间打一场疫情防控歼灭战",
+      "onboard_time": 1669252235,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 981001,
       "num": 981001,
       "word": "又一个大冷门",
@@ -57,6 +65,22 @@
       "onboard_time": 1669239852,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 939263,
+      "num": 939263,
+      "word": "C罗世界杯首秀",
+      "onboard_time": 1669252296,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 892704,
+      "num": 892704,
+      "word": "重庆新增本土确诊409例无症状7437例",
+      "onboard_time": 1669252593,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 891700,
@@ -107,14 +131,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 771170,
-      "num": 771170,
-      "word": "重庆新增本土确诊409例无症状7437例",
-      "onboard_time": 1669252593,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 768999,
       "num": 768999,
       "word": "北京增社会面328例",
@@ -123,16 +139,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 710814,
-      "num": 710814,
-      "word": "C罗世界杯首秀",
-      "onboard_time": 1669252296,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 671818,
-      "num": 671818,
+      "raw_hot": 715234,
+      "num": 715234,
       "word": "女子溜冰被人推倒下巴缝十多针",
       "onboard_time": 1669250434,
       "rank": 8,
@@ -161,14 +169,6 @@
       "onboard_time": 1669228516,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 623088,
-      "num": 623088,
-      "word": "郑州将用5天时间打一场疫情防控歼灭战",
-      "onboard_time": 1669252235,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 617308,
@@ -227,6 +227,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 542866,
+      "num": 542866,
+      "word": "为什么真的不建议你去赌球",
+      "onboard_time": 1669253495,
+      "rank": 28,
+      "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 527141,
+      "num": 527141,
+      "word": "广州新增本土感染者7620例",
+      "onboard_time": 1669253972,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 519752,
       "num": 519752,
       "word": "阿根廷和德国拿了一样的剧本",
@@ -267,6 +283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 431515,
+      "num": 431515,
+      "word": "iphoneSE4售价有望控制在3000",
+      "onboard_time": 1669252235,
+      "rank": 15,
+      "category": "科技"
+    },
+    {
       "raw_hot": 431169,
       "num": 431169,
       "word": "德国教练",
@@ -275,12 +299,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 422442,
-      "num": 422442,
-      "word": "iphoneSE4售价有望控制在3000",
-      "onboard_time": 1669252235,
-      "rank": 15,
-      "category": "科技"
+      "raw_hot": 403517,
+      "num": 403517,
+      "word": "李一桐吊带鎏金裙",
+      "onboard_time": 1669249296,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 387496,
+      "num": 387496,
+      "word": "女生2天没出门猫咪叼金鱼投喂",
+      "onboard_time": 1669254211,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 386624,
@@ -289,14 +321,6 @@
       "onboard_time": 1669214802,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 385889,
-      "num": 385889,
-      "word": "李一桐吊带鎏金裙",
-      "onboard_time": 1669249296,
-      "rank": 18,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 382434,
@@ -321,6 +345,14 @@
       "onboard_time": 1669247672,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 364599,
+      "num": 364599,
+      "word": "陈飞宇念英文绿皮书台词",
+      "onboard_time": 1669254811,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 359529,
@@ -411,12 +443,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 294008,
-      "num": 294008,
-      "word": "为什么真的不建议你去赌球",
-      "onboard_time": 1669253495,
-      "rank": 28,
-      "category": "体育,社会新闻"
+      "raw_hot": 292176,
+      "num": 292176,
+      "word": "父母让8岁孩子休学1周专打游戏",
+      "onboard_time": 1669254572,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 289260,
@@ -451,8 +483,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 273997,
-      "num": 273997,
+      "raw_hot": 279587,
+      "num": 279587,
+      "word": "日本球迷在家疯狂庆祝吓跑猫咪",
+      "onboard_time": 1669252352,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 276995,
+      "num": 276995,
       "word": "重庆疫情防控",
       "onboard_time": 1669252832,
       "rank": 30,
@@ -539,20 +579,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 234791,
-      "num": 234791,
-      "word": "广州新增本土感染者7620例",
-      "onboard_time": 1669253972,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 234108,
       "num": 234108,
       "word": "加维进球",
       "onboard_time": 1669226658,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 234065,
+      "num": 234065,
+      "word": "女子深夜打110点奶茶民警秒懂",
+      "onboard_time": 1669255295,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 226573,
@@ -569,14 +609,6 @@
       "onboard_time": 1669247130,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 214192,
-      "num": 214192,
-      "word": "日本球迷在家疯狂庆祝吓跑猫咪",
-      "onboard_time": 1669252352,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 211035,
@@ -699,14 +731,6 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 173150,
-      "num": 173150,
-      "word": "女生2天没出门猫咪叼金鱼投喂",
-      "onboard_time": 1669254211,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 172001,
       "num": 172001,
       "word": "德国队控球率",
@@ -787,6 +811,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 151739,
+      "num": 151739,
+      "word": "压力来到韩国这边",
+      "onboard_time": 1669253074,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 151460,
+      "num": 151460,
+      "word": "研究发现火星曾有300米深海洋",
+      "onboard_time": 1669255109,
+      "rank": 42,
+      "category": "科技"
+    },
+    {
       "raw_hot": 150381,
       "num": 150381,
       "word": "日本门将",
@@ -841,6 +881,22 @@
       "onboard_time": 1669242075,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 135344,
+      "num": 135344,
+      "word": "消防员17小时不停歇连出5次警",
+      "onboard_time": 1669255049,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 134506,
+      "num": 134506,
+      "word": "张朝阳计算月球远离地球的速度",
+      "onboard_time": 1669255774,
+      "rank": 48,
+      "category": "科技"
     },
     {
       "raw_hot": 132467,

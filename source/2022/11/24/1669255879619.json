@@ -1,0 +1,410 @@
+{
+  "runTime": 1669255879619,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1456722,
+        "num": 1456722,
+        "word": "成都健康码崩了",
+        "onboard_time": 1669248572,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1212438,
+        "num": 1212438,
+        "word": "郑州将用5天时间打一场疫情防控歼灭战",
+        "onboard_time": 1669252235,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108993,
+        "num": 1095936,
+        "word": "世界杯随处可见中国元素",
+        "onboard_time": 1669205557,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 980672,
+        "num": 980672,
+        "word": "日本赔率",
+        "onboard_time": 1669217983,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 939263,
+        "num": 939263,
+        "word": "C罗世界杯首秀",
+        "onboard_time": 1669252296,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 892704,
+        "num": 892704,
+        "word": "重庆新增本土确诊409例无症状7437例",
+        "onboard_time": 1669252593,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 881326,
+        "num": 881326,
+        "word": "网曝一女教师上网课时遭家暴",
+        "onboard_time": 1669219655,
+        "rank": 6,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 828313,
+        "num": 828313,
+        "word": "C罗成为本届世界杯唯一自由球员",
+        "onboard_time": 1669239852,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 715234,
+        "num": 715234,
+        "word": "女子溜冰被人推倒下巴缝十多针",
+        "onboard_time": 1669250434,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 559862,
+        "num": 559862,
+        "word": "北京增社会面328例",
+        "onboard_time": 1669250076,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 542866,
+        "num": 542866,
+        "word": "为什么真的不建议你去赌球",
+        "onboard_time": 1669253495,
+        "rank": 10,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 527141,
+        "num": 527141,
+        "word": "广州新增本土感染者7620例",
+        "onboard_time": 1669253972,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 450965,
+        "num": 450965,
+        "word": "张艺兴彭昱畅张子枫为乌镇戏剧节打call",
+        "onboard_time": 1669250555,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 443381,
+        "num": 443381,
+        "word": "老人以88倍价格买下仅值5元膏药",
+        "onboard_time": 1669245443,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 431515,
+        "num": 431515,
+        "word": "iphoneSE4售价有望控制在3000",
+        "onboard_time": 1669252235,
+        "rank": 14,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 403517,
+        "num": 403517,
+        "word": "李一桐吊带鎏金裙",
+        "onboard_time": 1669249296,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 387496,
+        "num": 387496,
+        "word": "女生2天没出门猫咪叼金鱼投喂",
+        "onboard_time": 1669254211,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 372179,
+        "num": 372179,
+        "word": "赵芳如黑化",
+        "onboard_time": 1669220314,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 364599,
+        "num": 364599,
+        "word": "陈飞宇念英文绿皮书台词",
+        "onboard_time": 1669254811,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 338101,
+        "num": 338101,
+        "word": "西班牙7比0哥斯达黎加",
+        "onboard_time": 1669245322,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 305385,
+        "num": 305385,
+        "word": "西班牙净胜球赚麻了",
+        "onboard_time": 1669228516,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 303922,
+        "num": 303922,
+        "word": "男子醉驾见女友丧命父母要求索赔",
+        "onboard_time": 1669228394,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301372,
+        "num": 301372,
+        "word": "李明德说被拖欠工资",
+        "onboard_time": 1669247672,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 298245,
+        "num": 298245,
+        "word": "德国教练",
+        "onboard_time": 1669248932,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 295416,
+        "num": 295416,
+        "word": "终于明白了什么叫世界杯死亡之组",
+        "onboard_time": 1669216916,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 292176,
+        "num": 292176,
+        "word": "父母让8岁孩子休学1周专打游戏",
+        "onboard_time": 1669254572,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281482,
+        "num": 281482,
+        "word": "外交部回应韩剧在中国播放",
+        "onboard_time": 1669211745,
+        "rank": 26,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 279587,
+        "num": 279587,
+        "word": "日本球迷在家疯狂庆祝吓跑猫咪",
+        "onboard_time": 1669252352,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 277589,
+        "num": 277589,
+        "word": "2岁男孩站楼道哭被邻居带回照顾",
+        "onboard_time": 1669249533,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276995,
+        "num": 276995,
+        "word": "重庆疫情防控",
+        "onboard_time": 1669252832,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261835,
+        "num": 261835,
+        "word": "体彩",
+        "onboard_time": 1669246222,
+        "rank": 30,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 240085,
+        "num": 240085,
+        "word": "乌克兰全境停电",
+        "onboard_time": 1669222346,
+        "rank": 31,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 234065,
+        "num": 234065,
+        "word": "女子深夜打110点奶茶民警秒懂",
+        "onboard_time": 1669255295,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215846,
+        "num": 215846,
+        "word": "郑恺妻子6说最怕听到苗苗说要不",
+        "onboard_time": 1669244119,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211943,
+        "num": 211943,
+        "word": "女子做水果馒头剥开全是细节",
+        "onboard_time": 1669214802,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210167,
+        "num": 210167,
+        "word": "争吵后妻子昏倒在地丈夫无动于衷",
+        "onboard_time": 1669219537,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203849,
+        "num": 203849,
+        "word": "感恩节",
+        "onboard_time": 1669247130,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202153,
+        "num": 202153,
+        "word": "北京房山一饭店违反防疫政策承接婚宴被查",
+        "onboard_time": 1669247369,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190057,
+        "num": 190057,
+        "word": "马斯克欲解封推特所有封禁账号",
+        "onboard_time": 1669254271,
+        "rank": 38,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 186218,
+        "num": 186218,
+        "word": "以岭药业回应药店连花清瘟涨价",
+        "onboard_time": 1669247310,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158464,
+        "num": 158464,
+        "word": "女子花20万带爸爸看世界杯轮流睡着",
+        "onboard_time": 1669212278,
+        "rank": 40,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 151739,
+        "num": 151739,
+        "word": "压力来到韩国这边",
+        "onboard_time": 1669253074,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151460,
+        "num": 151460,
+        "word": "研究发现火星曾有300米深海洋",
+        "onboard_time": 1669255109,
+        "rank": 42,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 144935,
+        "num": 144935,
+        "word": "郝葭赤足离家",
+        "onboard_time": 1669253313,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 139249,
+        "num": 139249,
+        "word": "RedVelvet新专辑配置",
+        "onboard_time": 1669248633,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 144633,
+        "num": 138690,
+        "word": "李薇脸上的掌印",
+        "onboard_time": 1669210656,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 136964,
+        "num": 136964,
+        "word": "足球反着买 别墅靠着海",
+        "onboard_time": 1669217209,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135344,
+        "num": 135344,
+        "word": "消防员17小时不停歇连出5次警",
+        "onboard_time": 1669255049,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134506,
+        "num": 134506,
+        "word": "张朝阳计算月球远离地球的速度",
+        "onboard_time": 1669255774,
+        "rank": 48,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 129063,
+        "num": 129063,
+        "word": "父母远行前为30岁女儿做好15天饭菜",
+        "onboard_time": 1669241715,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#让互联网的发展成果更好地造福全人类#"
+    }
+  }
+}
