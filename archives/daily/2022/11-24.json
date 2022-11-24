@@ -1,6 +1,6 @@
 {
   "startTime": 1669220901508,
-  "endTime": 1669296638938,
+  "endTime": 1669297340931,
   "band_list": [
     {
       "raw_hot": 6338884,
@@ -25,6 +25,14 @@
       "onboard_time": 1669280670,
       "rank": 12,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 2970205,
+      "num": 2970205,
+      "word": "韩国 小动作",
+      "onboard_time": 1669296273,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 2651843,
@@ -123,7 +131,7 @@
       "category": "教育"
     },
     {
-      "raw_hot": 1555685,
+      "raw_hot": 1557080,
       "num": 562299,
       "word": "台媒你们是真的懂采访",
       "onboard_time": 1669290454,
@@ -227,6 +235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 931426,
+      "num": 931426,
+      "word": "我儿子不同意这门亲事",
+      "onboard_time": 1669292256,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 892704,
       "num": 892704,
       "word": "重庆新增本土确诊409例无症状7437例",
@@ -289,14 +305,6 @@
       "onboard_time": 1669225879,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 843664,
-      "num": 843664,
-      "word": "我儿子不同意这门亲事",
-      "onboard_time": 1669292256,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 824833,
@@ -377,14 +385,6 @@
       "onboard_time": 1669250076,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 742644,
-      "num": 742644,
-      "word": "韩国 小动作",
-      "onboard_time": 1669296273,
-      "rank": 6,
-      "category": "体育"
     },
     {
       "raw_hot": 736955,
@@ -876,7 +876,7 @@
     },
     {
       "raw_hot": 410312,
-      "num": 221840,
+      "num": 388876,
       "word": "脱口秀大会6赛制怎么改",
       "onboard_time": 1669295975,
       "rank": 30,
@@ -963,6 +963,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 373502,
+      "num": 373502,
+      "word": "孙兴慜首发",
+      "onboard_time": 1669292914,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 370335,
       "num": 370335,
       "word": "李明德说被拖欠工资",
@@ -987,14 +995,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 359895,
-      "num": 359895,
-      "word": "孙兴慜首发",
-      "onboard_time": 1669292914,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 359529,
       "num": 359529,
       "word": "体彩",
@@ -1016,6 +1016,14 @@
       "word": "日本 亚洲之光",
       "onboard_time": 1669216565,
       "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 355946,
+      "num": 355946,
+      "word": "压力给到C罗",
+      "onboard_time": 1669295253,
+      "rank": 24,
       "category": "体育"
     },
     {
@@ -1131,6 +1139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 325185,
+      "num": 325185,
+      "word": "8旬老人得带状疱疹6年不敢盖被子",
+      "onboard_time": 1669295735,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 324990,
       "num": 324990,
       "word": "TWICE韩专销量突破1000万张",
@@ -1153,6 +1169,14 @@
       "onboard_time": 1669278931,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 322249,
+      "num": 322249,
+      "word": "世界杯走红的小王子是这样被找到的",
+      "onboard_time": 1669295012,
+      "rank": 31,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 321049,
@@ -1539,6 +1563,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 250314,
+      "num": 250314,
+      "word": "老公搂着自家狗子看世界杯",
+      "onboard_time": 1669294354,
+      "rank": 44,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 250059,
       "num": 250059,
       "word": "穿搭瞬间就不好看了",
@@ -1563,12 +1595,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 249431,
-      "num": 221739,
-      "word": "世界杯走红的小王子是这样被找到的",
-      "onboard_time": 1669295012,
-      "rank": 31,
-      "category": "体育,社会新闻"
+      "raw_hot": 248592,
+      "num": 244145,
+      "word": "刘恋说又体面地送走了一只鸡",
+      "onboard_time": 1669294296,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 247915,
@@ -1603,14 +1635,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 244145,
-      "num": 244145,
-      "word": "刘恋说又体面地送走了一只鸡",
-      "onboard_time": 1669294296,
-      "rank": 40,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 243702,
       "num": 243702,
       "word": "尹嵩精神状态",
@@ -1633,14 +1657,6 @@
       "onboard_time": 1669289437,
       "rank": 44,
       "category": "美食"
-    },
-    {
-      "raw_hot": 237013,
-      "num": 237013,
-      "word": "压力给到C罗",
-      "onboard_time": 1669295253,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 235151,
@@ -1811,14 +1827,6 @@
       "category": "影视,动漫"
     },
     {
-      "raw_hot": 215905,
-      "num": 215905,
-      "word": "老公搂着自家狗子看世界杯",
-      "onboard_time": 1669294354,
-      "rank": 44,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 215511,
       "num": 215511,
       "word": "义乌老板娘能有多卷",
@@ -1896,14 +1904,6 @@
       "word": "消防员火场救出一窝熏黑的小白兔",
       "onboard_time": 1669276052,
       "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 207267,
-      "num": 207267,
-      "word": "8旬老人得带状疱疹6年不敢盖被子",
-      "onboard_time": 1669295735,
-      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -2179,8 +2179,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 176169,
-      "num": 176169,
+      "raw_hot": 177231,
+      "num": 177231,
       "word": "女儿告诉妈妈班上男生想跟她结婚",
       "onboard_time": 1669292616,
       "rank": 44,
@@ -2372,7 +2372,7 @@
     },
     {
       "raw_hot": 156841,
-      "num": 1841823,
+      "num": 2396329,
       "word": "多视角记录空军女飞行员首次单飞",
       "onboard_time": 1669262012,
       "rank": 2,
@@ -2473,6 +2473,14 @@
       "onboard_time": 1669215531,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 146321,
+      "num": 146321,
+      "word": "Faker",
+      "onboard_time": 1669297176,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 146001,
@@ -2617,6 +2625,14 @@
       "onboard_time": 1669255774,
       "rank": 48,
       "category": "科技"
+    },
+    {
+      "raw_hot": 133793,
+      "num": 133793,
+      "word": "女子用饺子皮捏出世界杯吉祥物",
+      "onboard_time": 1669296635,
+      "rank": 49,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 133403,
