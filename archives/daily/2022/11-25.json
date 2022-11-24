@@ -1,6 +1,6 @@
 {
   "startTime": 1669307280718,
-  "endTime": 1669318414574,
+  "endTime": 1669321216175,
   "band_list": [
     {
       "raw_hot": 5448624,
@@ -667,6 +667,14 @@
       "category": "体育,幽默"
     },
     {
+      "raw_hot": 100909,
+      "num": 32308,
+      "word": "巴西半场0比0塞尔维亚",
+      "onboard_time": 1669320673,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 88232,
       "num": 88232,
       "word": "这就是气质如兰吧",
@@ -736,6 +744,14 @@
       "word": "C罗是葡萄牙赢球关键",
       "onboard_time": 1669314619,
       "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 21197,
+      "num": 21197,
+      "word": "伊涅斯塔力挺梅西",
+      "onboard_time": 1669319715,
+      "rank": 45,
       "category": "体育"
     }
   ],
