@@ -1,6 +1,6 @@
 {
   "startTime": 1668961718135,
-  "endTime": 1669293632550,
+  "endTime": 1669294856010,
   "band_list": [
     {
       "raw_hot": 15128338,
@@ -307,20 +307,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2131632,
+      "num": 2131632,
+      "word": "乌拉圭vs韩国",
+      "onboard_time": 1669282230,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2110634,
       "num": 2110634,
       "word": "郝葭怀孕",
       "onboard_time": 1669034382,
       "rank": 3,
       "category": "影视"
-    },
-    {
-      "raw_hot": 2103492,
-      "num": 2103492,
-      "word": "乌拉圭vs韩国",
-      "onboard_time": 1669282230,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 2083167,
@@ -673,6 +673,14 @@
       "onboard_time": 1669214196,
       "rank": 9,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 1421774,
+      "num": 549980,
+      "word": "台媒你们是真的懂采访",
+      "onboard_time": 1669290454,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1421020,
@@ -1555,6 +1563,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 769103,
+      "num": 769103,
+      "word": "卡塔尔王子回应被中国网友制成表情包",
+      "onboard_time": 1669290156,
+      "rank": 8,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 768999,
       "num": 768999,
       "word": "北京增社会面328例",
@@ -1681,6 +1697,14 @@
       "onboard_time": 1669285416,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 727416,
+      "num": 727416,
+      "word": "沪上阿姨 光与夜之恋",
+      "onboard_time": 1669289555,
+      "rank": 49,
+      "category": "美食,游戏"
     },
     {
       "raw_hot": 719350,
@@ -1817,14 +1841,6 @@
       "onboard_time": 1669129787,
       "rank": 32,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 685269,
-      "num": 549980,
-      "word": "台媒你们是真的懂采访",
-      "onboard_time": 1669290454,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 684094,
@@ -2097,14 +2113,6 @@
       "onboard_time": 1669123662,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 630158,
-      "num": 630158,
-      "word": "沪上阿姨 光与夜之恋",
-      "onboard_time": 1669289555,
-      "rank": 49,
-      "category": "美食,游戏"
     },
     {
       "raw_hot": 629163,
@@ -2395,6 +2403,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 575769,
+      "num": 575769,
+      "word": "女子煮墨鱼没放墨汁似熬沥青",
+      "onboard_time": 1669290037,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 574148,
       "num": 516453,
       "word": "点燃我温暖你今天更新一集又断更了",
@@ -2473,14 +2489,6 @@
       "onboard_time": 1668957940,
       "rank": 13,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 564223,
-      "num": 564223,
-      "word": "卡塔尔王子回应被中国网友制成表情包",
-      "onboard_time": 1669290156,
-      "rank": 8,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 562692,
@@ -3259,14 +3267,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 460661,
-      "num": 460661,
-      "word": "女子煮墨鱼没放墨汁似熬沥青",
-      "onboard_time": 1669290037,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 460537,
       "num": 460537,
       "word": "台湾问题是中美第一条不可逾越红线",
@@ -3305,6 +3305,14 @@
       "onboard_time": 1669014813,
       "rank": 37,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 458948,
+      "num": 458948,
+      "word": "我儿子不同意这门亲事",
+      "onboard_time": 1669292256,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 456427,
@@ -3627,6 +3635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 425931,
+      "num": 425931,
+      "word": "李峋凌不疑古今两竖子",
+      "onboard_time": 1669289737,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 425679,
       "num": 425679,
       "word": "女子大扫除意外发现丢失6年金手镯",
@@ -3811,14 +3827,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 408803,
-      "num": 408803,
-      "word": "李峋凌不疑古今两竖子",
-      "onboard_time": 1669289737,
-      "rank": 13,
-      "category": "影视"
-    },
-    {
       "raw_hot": 407478,
       "num": 240236,
       "word": "摩根弗里曼",
@@ -3899,6 +3907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 402607,
+      "num": 402607,
+      "word": "杨幂11月好忙",
+      "onboard_time": 1669291598,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 402548,
       "num": 402548,
       "word": "陈紫函说郝葭的命我赵芳如来管",
@@ -3921,6 +3937,14 @@
       "onboard_time": 1669198354,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 401671,
+      "num": 401671,
+      "word": "人民文娱对话罗一舟",
+      "onboard_time": 1669293756,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 400893,
@@ -3984,14 +4008,6 @@
       "word": "李峋对朱韵最口是心非的一次",
       "onboard_time": 1669025616,
       "rank": 20,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 394237,
-      "num": 394237,
-      "word": "杨幂11月好忙",
-      "onboard_time": 1669291598,
-      "rank": 14,
       "category": "影视"
     },
     {
@@ -4907,12 +4923,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 330615,
+      "num": 330615,
+      "word": "孙兴慜首发",
+      "onboard_time": 1669292914,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 330479,
       "num": 330479,
       "word": "魔笛",
       "onboard_time": 1669205319,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 330147,
+      "num": 330147,
+      "word": "新娘出嫁邀8名乌克兰美女外援",
+      "onboard_time": 1669290277,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 329805,
@@ -5001,6 +5033,14 @@
       "onboard_time": 1669261892,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 324718,
+      "num": 324718,
+      "word": "张杰弹吉他vlog",
+      "onboard_time": 1669294235,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 324649,
@@ -5145,6 +5185,14 @@
       "onboard_time": 1669201299,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 316074,
+      "num": 316074,
+      "word": "敖厂长",
+      "onboard_time": 1669294354,
+      "rank": 21,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 314856,
@@ -5417,6 +5465,14 @@
       "onboard_time": 1669046020,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 301895,
+      "num": 301895,
+      "word": "朱韵看到了李峋拼好的合照",
+      "onboard_time": 1669293877,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 300932,
@@ -6019,14 +6075,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 267722,
-      "num": 267722,
-      "word": "我儿子不同意这门亲事",
-      "onboard_time": 1669292256,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 267605,
       "num": 267605,
       "word": "王霏霏终于跳舞了",
@@ -6579,6 +6627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 238186,
+      "num": 238186,
+      "word": "200块一碗面长啥样",
+      "onboard_time": 1669289437,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
       "raw_hot": 237420,
       "num": 237420,
       "word": "小腿想不瘦都难了",
@@ -6600,14 +6656,6 @@
       "word": "重庆30元蔬菜包里有什么",
       "onboard_time": 1668953369,
       "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 235182,
-      "num": 235182,
-      "word": "新娘出嫁邀8名乌克兰美女外援",
-      "onboard_time": 1669290277,
-      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -6745,14 +6793,6 @@
       "onboard_time": 1669003892,
       "rank": 25,
       "category": "影视,动漫"
-    },
-    {
-      "raw_hot": 228184,
-      "num": 228184,
-      "word": "200块一碗面长啥样",
-      "onboard_time": 1669289437,
-      "rank": 44,
-      "category": "美食"
     },
     {
       "raw_hot": 227868,
@@ -8027,14 +8067,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 187561,
-      "num": 187561,
-      "word": "孙兴慜首发",
-      "onboard_time": 1669292914,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 187355,
       "num": 187355,
       "word": "高校食堂大屏放世界杯学生爆满",
@@ -8113,6 +8145,14 @@
       "onboard_time": 1669194818,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 185399,
+      "num": 163381,
+      "word": "刘恋说又体面地送走了一只鸡",
+      "onboard_time": 1669294296,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 185389,
@@ -8299,6 +8339,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 180049,
+      "num": 180049,
+      "word": "乌拉圭vs韩国首发",
+      "onboard_time": 1669292557,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 179641,
       "num": 139571,
       "word": "山峥海薇撑伞回家",
@@ -8361,14 +8409,6 @@
       "onboard_time": 1669077998,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 177845,
-      "num": 177845,
-      "word": "乌拉圭vs韩国首发",
-      "onboard_time": 1669292557,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 177709,
@@ -8792,6 +8832,14 @@
       "word": "22岁第一天消防员带着生日帽去救火",
       "onboard_time": 1669194879,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161510,
+      "num": 161510,
+      "word": "女儿告诉妈妈班上男生想跟她结婚",
+      "onboard_time": 1669292616,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -9595,20 +9643,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 138335,
-      "num": 138335,
-      "word": "女儿告诉妈妈班上男生想跟她结婚",
-      "onboard_time": 1669292616,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 138321,
       "num": 138321,
       "word": "好想要只等我回家的小狗",
       "onboard_time": 1669038344,
       "rank": 38,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 138262,
+      "num": 138262,
+      "word": "足球男孩立志带中国队打进世界杯",
+      "onboard_time": 1669294775,
+      "rank": 43,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 138077,
@@ -9649,6 +9697,14 @@
       "onboard_time": 1669025671,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 136467,
+      "num": 136467,
+      "word": "老公搂着自家狗子看世界杯",
+      "onboard_time": 1669294354,
+      "rank": 44,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 136366,
@@ -9776,6 +9832,14 @@
       "word": "退钱哥揭幕战现场举国旗",
       "onboard_time": 1669007736,
       "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 133251,
+      "num": 133251,
+      "word": "C罗4届世界杯共打入7球",
+      "onboard_time": 1669294654,
+      "rank": 46,
       "category": "体育"
     },
     {
