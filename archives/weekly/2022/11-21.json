@@ -1,6 +1,6 @@
 {
   "startTime": 1668961718135,
-  "endTime": 1669288589572,
+  "endTime": 1669289627077,
   "band_list": [
     {
       "raw_hot": 15128338,
@@ -51,6 +51,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 4308701,
+      "num": 4308701,
+      "word": "卡塔尔王子感谢中国网友",
+      "onboard_time": 1669286197,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 4068058,
       "num": 4068058,
       "word": "世界杯开幕式",
@@ -80,14 +88,6 @@
       "word": "梅西进球",
       "onboard_time": 1669112252,
       "rank": 1,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 3473360,
-      "num": 3473360,
-      "word": "卡塔尔王子感谢中国网友",
-      "onboard_time": 1669286197,
-      "rank": 44,
       "category": "体育"
     },
     {
@@ -1667,6 +1667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 736955,
+      "num": 736955,
+      "word": "妻子半夜喂奶丈夫帮盖毛毯当靠垫",
+      "onboard_time": 1669285416,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 719350,
       "num": 486475,
       "word": "女子备孕13年生龙凤胎取名天佑佑心",
@@ -2041,14 +2049,6 @@
       "onboard_time": 1669117420,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 632386,
-      "num": 632386,
-      "word": "妻子半夜喂奶丈夫帮盖毛毯当靠垫",
-      "onboard_time": 1669285416,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 632208,
@@ -2596,7 +2596,7 @@
     },
     {
       "raw_hot": 543466,
-      "num": 177283,
+      "num": 206678,
       "word": "瑞士vs喀麦隆半场0比0",
       "onboard_time": 1669287577,
       "rank": 30,
@@ -3011,6 +3011,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 489723,
+      "num": 489723,
+      "word": "梅西长得好像黄金矿工",
+      "onboard_time": 1669286673,
+      "rank": 20,
+      "category": "体育,幽默"
+    },
+    {
       "raw_hot": 489230,
       "num": 489230,
       "word": "头顶一块布 全球我最富",
@@ -3057,6 +3065,14 @@
       "onboard_time": 1669172972,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 480680,
+      "num": 480680,
+      "word": "瑞士vs喀麦隆",
+      "onboard_time": 1669279228,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 479819,
@@ -4203,6 +4219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 369353,
+      "num": 369353,
+      "word": "新疆C罗为偶像C罗打call",
+      "onboard_time": 1669286498,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 368374,
       "num": 368374,
       "word": "李峋得知朱韵给自己发工资",
@@ -4233,14 +4257,6 @@
       "onboard_time": 1669088313,
       "rank": 34,
       "category": "美食"
-    },
-    {
-      "raw_hot": 363993,
-      "num": 363993,
-      "word": "瑞士vs喀麦隆",
-      "onboard_time": 1669279228,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 363853,
@@ -4475,6 +4491,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 346198,
+      "num": 346198,
+      "word": "周扬青说约会和恋爱是两回事",
+      "onboard_time": 1669286498,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 345868,
       "num": 345868,
       "word": "C罗和内马尔今日首秀",
@@ -4675,20 +4699,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 337562,
-      "num": 337562,
-      "word": "新疆C罗为偶像C罗打call",
-      "onboard_time": 1669286498,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 337100,
       "num": 337100,
       "word": "行尸走肉全剧大结局",
       "onboard_time": 1669020273,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 336689,
+      "num": 336689,
+      "word": "瑞士进球",
+      "onboard_time": 1669288536,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 336552,
@@ -4795,14 +4819,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 331099,
-      "num": 331099,
-      "word": "梅西长得好像黄金矿工",
-      "onboard_time": 1669286673,
-      "rank": 20,
-      "category": "体育,幽默"
-    },
-    {
       "raw_hot": 331089,
       "num": 331089,
       "word": "TES",
@@ -4840,6 +4856,14 @@
       "word": "吴卓羲手抄100遍大湾仔口号",
       "onboard_time": 1669256008,
       "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 329336,
+      "num": 329336,
+      "word": "郑恺分享对苗苗的沦陷时刻",
+      "onboard_time": 1669286316,
+      "rank": 22,
       "category": "综艺"
     },
     {
@@ -5155,14 +5179,6 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 310689,
-      "num": 310689,
-      "word": "郑恺分享对苗苗的沦陷时刻",
-      "onboard_time": 1669286316,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 310675,
       "num": 310675,
       "word": "星巴克称已发起自动退款",
@@ -5177,6 +5193,14 @@
       "onboard_time": 1669257750,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 310442,
+      "num": 310442,
+      "word": "点燃我温暖你29集有温泉戏",
+      "onboard_time": 1669286136,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 309944,
@@ -5843,14 +5867,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 271655,
-      "num": 271655,
-      "word": "周扬青说约会和恋爱是两回事",
-      "onboard_time": 1669286498,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 271150,
       "num": 271150,
       "word": "城管局回应郑州3人当街打商贩",
@@ -5993,6 +6009,14 @@
       "onboard_time": 1669176275,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 262521,
+      "num": 262521,
+      "word": "小米13预计涨价15%至20%",
+      "onboard_time": 1669287398,
+      "rank": 28,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 262043,
@@ -6371,14 +6395,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 244116,
-      "num": 244116,
-      "word": "点燃我温暖你29集有温泉戏",
-      "onboard_time": 1669286136,
-      "rank": 45,
-      "category": "影视"
-    },
-    {
       "raw_hot": 243983,
       "num": 243983,
       "word": "卡塔尔世界杯带火国产桌面足球",
@@ -6737,6 +6753,14 @@
       "onboard_time": 1669261774,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 222593,
+      "num": 204270,
+      "word": "外交部回应日方希望中方放松防疫措施",
+      "onboard_time": 1669288656,
+      "rank": 31,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 222016,
@@ -7147,6 +7171,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 210314,
+      "num": 210314,
+      "word": "男孩遭霸凌殴打被逼下跪磕头",
+      "onboard_time": 1669287700,
+      "rank": 44,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 209684,
       "num": 209684,
       "word": "刘雨昕鞠婧祎沈梦瑶东方风云榜彩排照",
@@ -7353,6 +7385,14 @@
       "onboard_time": 1669195600,
       "rank": 40,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 201413,
+      "num": 201413,
+      "word": "男子骑车拖行小狗1公里致皮开肉绽",
+      "onboard_time": 1669287218,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 201084,
@@ -7865,22 +7905,6 @@
       "onboard_time": 1669274552,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 188013,
-      "num": 126675,
-      "word": "瑞士进球",
-      "onboard_time": 1669288536,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 187725,
-      "num": 187725,
-      "word": "小米13预计涨价15%至20%",
-      "onboard_time": 1669287398,
-      "rank": 28,
-      "category": "科技,财经"
     },
     {
       "raw_hot": 187576,
@@ -8603,6 +8627,14 @@
       "category": "体育,情感"
     },
     {
+      "raw_hot": 162674,
+      "num": 156589,
+      "word": "施情华意婚后生活",
+      "onboard_time": 1669288416,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 162528,
       "num": 162528,
       "word": "张艺兴受邀出席中西文化艺术交流专场论坛",
@@ -8673,14 +8705,6 @@
       "onboard_time": 1669141576,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 160120,
-      "num": 160120,
-      "word": "男子骑车拖行小狗1公里致皮开肉绽",
-      "onboard_time": 1669287218,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 160108,
@@ -8817,14 +8841,6 @@
       "onboard_time": 1668997170,
       "rank": 38,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 156589,
-      "num": 156589,
-      "word": "施情华意婚后生活",
-      "onboard_time": 1669288416,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 156577,
@@ -9667,14 +9683,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 131502,
-      "num": 131502,
-      "word": "男孩遭霸凌殴打被逼下跪磕头",
-      "onboard_time": 1669287700,
-      "rank": 44,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 131484,
       "num": 131484,
       "word": "沉没百余年的古船已出水600件文物",
@@ -9721,6 +9729,14 @@
       "onboard_time": 1669100494,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 129743,
+      "num": 129743,
+      "word": "女子搭同事电瓶车摔伤致残索赔23万",
+      "onboard_time": 1669288597,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 129656,
@@ -10083,6 +10099,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 118370,
+      "num": 118370,
+      "word": "200块一碗面长啥样",
+      "onboard_time": 1669289437,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
       "raw_hot": 117628,
       "num": 117628,
       "word": "94岁独居老人被邻居照顾30年",
@@ -10299,6 +10323,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 110889,
+      "num": 110889,
+      "word": "我国将对木星天王星进行穿越探测",
+      "onboard_time": 1669288833,
+      "rank": 47,
+      "category": "科技"
+    },
+    {
       "raw_hot": 110816,
       "num": 110816,
       "word": "偶遇陈飞宇青岛拍戏",
@@ -10361,6 +10393,14 @@
       "onboard_time": 1669278509,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 109635,
+      "num": 109635,
+      "word": "还以为是C罗原声",
+      "onboard_time": 1669289496,
+      "rank": 48,
+      "category": "体育,幽默"
     },
     {
       "raw_hot": 109172,
@@ -10441,6 +10481,14 @@
       "onboard_time": 1669109373,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 107459,
+      "num": 107459,
+      "word": "沪上阿姨 光与夜之恋",
+      "onboard_time": 1669289555,
+      "rank": 49,
+      "category": "美食,游戏"
     },
     {
       "raw_hot": 107360,
