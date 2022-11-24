@@ -1,7 +1,15 @@
 {
   "startTime": 1669220901508,
-  "endTime": 1669297340931,
+  "endTime": 1669299482238,
   "band_list": [
+    {
+      "raw_hot": 9715403,
+      "num": 9715403,
+      "word": "韩国 小动作",
+      "onboard_time": 1669296273,
+      "rank": 6,
+      "category": "体育"
+    },
     {
       "raw_hot": 6338884,
       "num": 6338884,
@@ -25,14 +33,6 @@
       "onboard_time": 1669280670,
       "rank": 12,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 2970205,
-      "num": 2970205,
-      "word": "韩国 小动作",
-      "onboard_time": 1669296273,
-      "rank": 6,
-      "category": "体育"
     },
     {
       "raw_hot": 2651843,
@@ -132,7 +132,7 @@
     },
     {
       "raw_hot": 1557080,
-      "num": 562299,
+      "num": 661801,
       "word": "台媒你们是真的懂采访",
       "onboard_time": 1669290454,
       "rank": 10,
@@ -145,6 +145,14 @@
       "onboard_time": 1669269872,
       "rank": 10,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 1476372,
+      "num": 1476372,
+      "word": "乌拉圭教练好帅",
+      "onboard_time": 1669297478,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 1301881,
@@ -193,6 +201,14 @@
       "onboard_time": 1669266158,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1011803,
+      "num": 1011803,
+      "word": "韩国球迷 吵",
+      "onboard_time": 1669297842,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 981001,
@@ -411,6 +427,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 705356,
+      "num": 705356,
+      "word": "乌拉圭半场0比0韩国",
+      "onboard_time": 1669297965,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 691843,
+      "num": 691843,
+      "word": "8旬老人得带状疱疹6年不敢盖被子",
+      "onboard_time": 1669295735,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 674689,
       "num": 674689,
       "word": "巴西球星真的来堵管泽元的嘴了",
@@ -531,6 +563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 597639,
+      "num": 597639,
+      "word": "压力给到C罗",
+      "onboard_time": 1669295253,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 593637,
       "num": 593637,
       "word": "虞书欣幼儿园时期旧照",
@@ -577,6 +617,14 @@
       "onboard_time": 1669290037,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 573751,
+      "num": 573751,
+      "word": "白敬亭宋轶长风渡路透",
+      "onboard_time": 1669297478,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 571112,
@@ -755,6 +803,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 454303,
+      "num": 454303,
+      "word": "世界杯走红的小王子是这样被找到的",
+      "onboard_time": 1669295012,
+      "rank": 31,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 446616,
       "num": 446616,
       "word": "C罗今晚会取得进球吗",
@@ -907,6 +963,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 398777,
+      "num": 398777,
+      "word": "Faker",
+      "onboard_time": 1669297176,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 396676,
       "num": 396676,
       "word": "朱韵看到了李峋拼好的合照",
@@ -1019,14 +1083,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 355946,
-      "num": 355946,
-      "word": "压力给到C罗",
-      "onboard_time": 1669295253,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 346198,
       "num": 346198,
       "word": "周扬青说约会和恋爱是两回事",
@@ -1065,6 +1121,14 @@
       "onboard_time": 1669273411,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 338145,
+      "num": 338145,
+      "word": "跟陈奕迅聊聊新歌",
+      "onboard_time": 1669298918,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 338043,
@@ -1139,14 +1203,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 325185,
-      "num": 325185,
-      "word": "8旬老人得带状疱疹6年不敢盖被子",
-      "onboard_time": 1669295735,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 324990,
       "num": 324990,
       "word": "TWICE韩专销量突破1000万张",
@@ -1169,14 +1225,6 @@
       "onboard_time": 1669278931,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 322249,
-      "num": 322249,
-      "word": "世界杯走红的小王子是这样被找到的",
-      "onboard_time": 1669295012,
-      "rank": 31,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 321049,
@@ -1467,6 +1515,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 276310,
+      "num": 276310,
+      "word": "老公搂着自家狗子看世界杯",
+      "onboard_time": 1669294354,
+      "rank": 44,
+      "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 271510,
+      "num": 271510,
+      "word": "陈飞宇跟保镖说对女生温柔点",
+      "onboard_time": 1669298079,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 269629,
       "num": 269629,
       "word": "内马尔被针对是有原因的",
@@ -1561,14 +1625,6 @@
       "onboard_time": 1669215287,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 250314,
-      "num": 250314,
-      "word": "老公搂着自家狗子看世界杯",
-      "onboard_time": 1669294354,
-      "rank": 44,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 250059,
@@ -1963,6 +2019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 202174,
+      "num": 202174,
+      "word": "苏亚雷斯",
+      "onboard_time": 1669299040,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 201413,
       "num": 201413,
       "word": "男子骑车拖行小狗1公里致皮开肉绽",
@@ -2033,6 +2097,14 @@
       "onboard_time": 1669219303,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 194162,
+      "num": 194162,
+      "word": "女子用饺子皮捏出世界杯吉祥物",
+      "onboard_time": 1669296635,
+      "rank": 49,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 192952,
@@ -2115,6 +2187,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 185127,
+      "num": 185127,
+      "word": "戈丁心里咯噔一下",
+      "onboard_time": 1669299163,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 184989,
       "num": 184989,
       "word": "北京疫情发布会",
@@ -2161,6 +2241,14 @@
       "onboard_time": 1669214493,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 180095,
+      "num": 180095,
+      "word": "绿萍是懂阴阳怪气的",
+      "onboard_time": 1669297781,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 178333,
@@ -2371,6 +2459,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 157067,
+      "num": 157067,
+      "word": "中国制造见证一个又一个精彩瞬间",
+      "onboard_time": 1669298566,
+      "rank": 43,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 156841,
       "num": 2396329,
       "word": "多视角记录空军女飞行员首次单飞",
@@ -2401,6 +2497,14 @@
       "onboard_time": 1669266873,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 154277,
+      "num": 154277,
+      "word": "全世界到底有多少种饺子",
+      "onboard_time": 1669298859,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 153461,
@@ -2475,14 +2579,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 146321,
-      "num": 146321,
-      "word": "Faker",
-      "onboard_time": 1669297176,
-      "rank": 44,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 146001,
       "num": 146001,
       "word": "杨颖冲浪比心vlog",
@@ -2521,6 +2617,14 @@
       "onboard_time": 1669260272,
       "rank": 47,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 143353,
+      "num": 143353,
+      "word": "流水的比赛铁打的中国背包",
+      "onboard_time": 1669298503,
+      "rank": 48,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 142772,
@@ -2625,14 +2729,6 @@
       "onboard_time": 1669255774,
       "rank": 48,
       "category": "科技"
-    },
-    {
-      "raw_hot": 133793,
-      "num": 133793,
-      "word": "女子用饺子皮捏出世界杯吉祥物",
-      "onboard_time": 1669296635,
-      "rank": 49,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 133403,
@@ -3039,6 +3135,9 @@
     },
     {
       "word": "#中国2021年专利数全球最高#"
+    },
+    {
+      "word": "#航天新征程#"
     }
   ]
 }
