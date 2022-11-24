@@ -1,10 +1,18 @@
 {
   "startTime": 1669307280718,
-  "endTime": 1669307280718,
+  "endTime": 1669308395079,
   "band_list": [
     {
-      "raw_hot": 2701620,
-      "num": 2701620,
+      "raw_hot": 3165210,
+      "num": 3165210,
+      "word": "C罗哭了",
+      "onboard_time": 1669306586,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2938255,
+      "num": 2938255,
       "word": "葡萄牙vs加纳",
       "onboard_time": 1669303127,
       "rank": 0,
@@ -19,11 +27,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 895272,
-      "num": 895272,
-      "word": "C罗哭了",
-      "onboard_time": 1669306586,
-      "rank": 3,
+      "raw_hot": 828838,
+      "num": 828838,
+      "word": "内马尔首秀",
+      "onboard_time": 1669305335,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 824520,
+      "num": 824520,
+      "word": "C罗 帅",
+      "onboard_time": 1669306468,
+      "rank": 19,
       "category": "体育"
     },
     {
@@ -75,20 +91,28 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 472803,
-      "num": 472803,
-      "word": "内马尔首秀",
-      "onboard_time": 1669305335,
-      "rank": 10,
-      "category": "体育"
-    },
-    {
       "raw_hot": 464231,
       "num": 464231,
       "word": "8旬老人得带状疱疹6年不敢盖被子",
       "onboard_time": 1669295735,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 419292,
+      "num": 419292,
+      "word": "不挣钱的人是没有话语权的",
+      "onboard_time": 1669305754,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 405385,
+      "num": 405385,
+      "word": "C罗进球被吹",
+      "onboard_time": 1669307847,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 393660,
@@ -112,6 +136,14 @@
       "word": "韩国球迷 吵",
       "onboard_time": 1669297842,
       "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 366123,
+      "num": 366123,
+      "word": "C罗错失单刀",
+      "onboard_time": 1669307607,
+      "rank": 13,
       "category": "体育"
     },
     {
@@ -147,14 +179,6 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 282019,
-      "num": 282019,
-      "word": "C罗 帅",
-      "onboard_time": 1669306468,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 281555,
       "num": 281555,
       "word": "敖厂长",
@@ -187,12 +211,12 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 262542,
-      "num": 262542,
-      "word": "不挣钱的人是没有话语权的",
-      "onboard_time": 1669305754,
-      "rank": 24,
-      "category": "社会新闻"
+      "raw_hot": 255826,
+      "num": 255826,
+      "word": "C罗世界杯进球瞬间",
+      "onboard_time": 1669305992,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 255264,
@@ -227,20 +251,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 224202,
+      "num": 224202,
+      "word": "原来这些明星都是C罗球迷",
+      "onboard_time": 1669305158,
+      "rank": 35,
+      "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 223601,
+      "num": 223601,
+      "word": "原来浪漫真的不需要花钱",
+      "onboard_time": 1669304439,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 219277,
       "num": 219277,
       "word": "乃万是懂修容的",
       "onboard_time": 1669300370,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 214918,
-      "num": 214918,
-      "word": "原来浪漫真的不需要花钱",
-      "onboard_time": 1669304439,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 211549,
@@ -275,20 +307,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 182532,
-      "num": 182532,
-      "word": "原来这些明星都是C罗球迷",
-      "onboard_time": 1669305158,
-      "rank": 35,
-      "category": "体育,艺人"
-    },
-    {
       "raw_hot": 182288,
       "num": 182288,
       "word": "虞书欣仙剑六明日杀青",
       "onboard_time": 1669302529,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 169772,
+      "num": 169772,
+      "word": "葡萄牙vs加纳首发",
+      "onboard_time": 1669303657,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 165266,
@@ -347,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 144850,
+      "num": 144850,
+      "word": "C罗 直拍",
+      "onboard_time": 1669308089,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 142609,
       "num": 142609,
       "word": "男孩遭霸凌殴打被逼下跪磕头",
@@ -364,11 +404,19 @@
     },
     {
       "raw_hot": 140550,
-      "num": 1081718,
+      "num": 1599200,
       "word": "这回夸父追到了太阳",
       "onboard_time": 1669303779,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 139131,
+      "num": 139131,
+      "word": "加纳门将",
+      "onboard_time": 1669308089,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 131169,
@@ -387,6 +435,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 125751,
+      "num": 113245,
+      "word": "C罗首秀状态",
+      "onboard_time": 1669308384,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 123955,
       "num": 123955,
       "word": "当代球迷看球现状",
@@ -401,11 +457,22 @@
       "onboard_time": 1669297781,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 117861,
+      "num": 112646,
+      "word": "C罗热身引全场球迷欢呼",
+      "onboard_time": 1669308384,
+      "rank": 48,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
     {
       "word": "#中国2021年专利数全球最高#"
+    },
+    {
+      "word": "#航天新征程#"
     }
   ]
 }
