@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1669329325539,
+  "endTime": 1669332082219,
   "band_list": [
     {
       "raw_hot": 15128338,
@@ -257,6 +257,14 @@
       "onboard_time": 1667709444,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 3690487,
+      "num": 3880974,
+      "word": "C罗创纪录",
+      "onboard_time": 1669311981,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 3655570,
@@ -873,14 +881,6 @@
       "onboard_time": 1668696751,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2344356,
-      "num": 2344356,
-      "word": "C罗创纪录",
-      "onboard_time": 1669311981,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 2341915,
@@ -4009,6 +4009,14 @@
       "onboard_time": 1669206335,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1123043,
+      "num": 1123043,
+      "word": "巴西2比0塞尔维亚",
+      "onboard_time": 1669323674,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 1122845,
@@ -9987,6 +9995,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 613160,
+      "num": 613160,
+      "word": "来返沪不满5天可游玩迪士尼但不能室内就餐",
+      "onboard_time": 1669329797,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 612974,
       "num": 612974,
       "word": "女子当当网买到半印刷半手抄书",
@@ -12433,14 +12449,6 @@
       "onboard_time": 1668162875,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 524925,
-      "num": 524925,
-      "word": "巴西2比0塞尔维亚",
-      "onboard_time": 1669323674,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 524522,
@@ -23467,6 +23475,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 308819,
+      "num": 250263,
+      "word": "内马尔受伤",
+      "onboard_time": 1669331904,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 308791,
       "num": 308791,
       "word": "十斤的猫有九斤的心眼子",
@@ -28267,6 +28283,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 246702,
+      "num": 246702,
+      "word": "C罗37岁身材",
+      "onboard_time": 1669315096,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 246688,
       "num": 246688,
       "word": "北京召开第421场疫情防控新闻发布会",
@@ -29611,6 +29635,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 231118,
+      "num": 231118,
+      "word": "熊孩子划伤多辆汽车奶奶说没钱赔",
+      "onboard_time": 1669327095,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 231072,
       "num": 231072,
       "word": "重庆九龙坡通报网传孕妇送医延误情况",
@@ -30689,6 +30721,14 @@
       "onboard_time": 1667542345,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 221449,
+      "num": 221449,
+      "word": "年轻人在健一种很新的身",
+      "onboard_time": 1669329136,
+      "rank": 48,
+      "category": "幽默,体育"
     },
     {
       "raw_hot": 221159,
@@ -39651,14 +39691,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 153898,
-      "num": 153898,
-      "word": "C罗37岁身材",
-      "onboard_time": 1669315096,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 153868,
       "num": 153868,
       "word": "吴镇宇神扑",
@@ -41299,6 +41331,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 143502,
+      "num": 3309809,
+      "word": "这回夸父追到了太阳",
+      "onboard_time": 1669303779,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 143498,
       "num": 143498,
       "word": "为什么很多人不愿意恋爱了",
@@ -41817,14 +41857,6 @@
       "onboard_time": 1668940467,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 140550,
-      "num": 3309809,
-      "word": "这回夸父追到了太阳",
-      "onboard_time": 1669303779,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 140516,
@@ -44169,6 +44201,14 @@
       "onboard_time": 1667620288,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 127241,
+      "num": 127241,
+      "word": "杭州师大辟谣女生宿舍校园霸凌",
+      "onboard_time": 1669330945,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 127210,
@@ -49011,6 +49051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 95214,
+      "num": 95214,
+      "word": "巴黎世家因宣传照争议道歉",
+      "onboard_time": 1669313545,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 95157,
       "num": 95157,
       "word": "第一次见这么豪华的三轮车",
@@ -50115,6 +50163,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 88072,
+      "num": 88072,
+      "word": "BLACKPINK获得SSA歌手大赏",
+      "onboard_time": 1669331184,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 88052,
       "num": 88052,
       "word": "小鸟落在老师同学身上蹭课",
@@ -50336,14 +50392,6 @@
       "word": "31只斑海豹在辽河入海口上岸",
       "onboard_time": 1668528447,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 86582,
-      "num": 86582,
-      "word": "巴黎世家因宣传照争议道歉",
-      "onboard_time": 1669313545,
-      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -51019,6 +51067,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 82222,
+      "num": 82222,
+      "word": "考古专家在山东发现4000多年前炊具",
+      "onboard_time": 1669330339,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 82135,
       "num": 82135,
       "word": "17国科学实验项目入选中国空间站",
@@ -51635,6 +51691,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 75598,
+      "num": 75598,
+      "word": "陈飞宇周也电影倒数说爱你定档",
+      "onboard_time": 1669331665,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 75567,
+      "num": 75567,
+      "word": "今冬以来最强寒潮",
+      "onboard_time": 1669331364,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 75517,
       "num": 75517,
       "word": "葡萄牙节奏",
@@ -51976,14 +52048,6 @@
       "word": "双十一支持20个地址合并下单",
       "onboard_time": 1667286027,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 71562,
-      "num": 71562,
-      "word": "熊孩子划伤多辆汽车奶奶说没钱赔",
-      "onboard_time": 1669327095,
-      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -52401,6 +52465,14 @@
       "onboard_time": 1667345120,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 65730,
+      "num": 65730,
+      "word": "C罗好自律",
+      "onboard_time": 1669322172,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 65669,
@@ -52859,6 +52931,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 57123,
+      "num": 39094,
+      "word": "内马尔被侵犯9次",
+      "onboard_time": 1669332027,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 56771,
       "num": 141268,
       "word": "深夜看球吃泡面有多爽",
@@ -52889,6 +52969,14 @@
       "onboard_time": 1668029832,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 56007,
+      "num": 56007,
+      "word": "武汉中心医院",
+      "onboard_time": 1669331603,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 55906,
@@ -53009,6 +53097,14 @@
       "onboard_time": 1667943132,
       "rank": 49,
       "category": "军事,国内要闻"
+    },
+    {
+      "raw_hot": 53650,
+      "num": 53650,
+      "word": "这真的不是人扮演的猪吗",
+      "onboard_time": 1669331485,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 53379,
@@ -53203,6 +53299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 48661,
+      "num": 48661,
+      "word": "日本队逆转后现场中国球迷哭了",
+      "onboard_time": 1669331485,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 48653,
       "num": 48653,
       "word": "C罗是葡萄牙赢球关键",
@@ -53387,6 +53491,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 43563,
+      "num": 43563,
+      "word": "涉密接不集中隔离需交费是新型诈骗",
+      "onboard_time": 1669331545,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 43403,
+      "num": 43403,
+      "word": "武装台湾遏制中国大陆是痴人说梦",
+      "onboard_time": 1669331665,
+      "rank": 43,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 43257,
       "num": 43257,
       "word": "流沙里勇救男孩的英雄找到了",
@@ -53467,6 +53587,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 40532,
+      "num": 40532,
+      "word": "男子中彩后女友携款与情夫私奔",
+      "onboard_time": 1669331844,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 40360,
       "num": 40360,
       "word": "猫咪粘上东西手速有多快",
@@ -53545,6 +53673,14 @@
       "onboard_time": 1669245623,
       "rank": 49,
       "category": "军事"
+    },
+    {
+      "raw_hot": 39159,
+      "num": 39159,
+      "word": "中国足协为马宁打气",
+      "onboard_time": 1669331545,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 39093,
@@ -53691,6 +53827,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 34229,
+      "num": 39127,
+      "word": "轰6K大象漫步画面压迫感拉满",
+      "onboard_time": 1669331545,
+      "rank": 46,
+      "category": "社会新闻,军事"
+    },
+    {
       "raw_hot": 34141,
       "num": 65250,
       "word": "巴舒亚伊破门",
@@ -53753,6 +53897,14 @@
       "onboard_time": 1668008964,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 32671,
+      "num": 38980,
+      "word": "孙兴慜出战或破韩国收视纪录",
+      "onboard_time": 1669331725,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 32134,
@@ -53891,12 +54043,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 27525,
-      "num": 27525,
-      "word": "C罗好自律",
-      "onboard_time": 1669322172,
-      "rank": 41,
-      "category": "体育"
+      "raw_hot": 27403,
+      "num": 38934,
+      "word": "30秒感受轰6K大象漫步大片",
+      "onboard_time": 1669331665,
+      "rank": 49,
+      "category": "社会新闻,军事"
     },
     {
       "raw_hot": 27398,
@@ -54097,14 +54249,6 @@
       "onboard_time": 1667240292,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 22233,
-      "num": 22233,
-      "word": "年轻人在健一种很新的身",
-      "onboard_time": 1669329136,
-      "rank": 48,
-      "category": "幽默,体育"
     },
     {
       "raw_hot": 21951,
