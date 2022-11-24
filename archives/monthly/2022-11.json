@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1669294856010,
+  "endTime": 1669296638938,
   "band_list": [
     {
       "raw_hot": 15128338,
@@ -595,6 +595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2576270,
+      "num": 2576270,
+      "word": "乌拉圭vs韩国",
+      "onboard_time": 1669282230,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2569916,
       "num": 2569916,
       "word": "退钱哥",
@@ -993,14 +1001,6 @@
       "onboard_time": 1667713354,
       "rank": 1,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 2131632,
-      "num": 2131632,
-      "word": "乌拉圭vs韩国",
-      "onboard_time": 1669282230,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 2130282,
@@ -2171,6 +2171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1555685,
+      "num": 562299,
+      "word": "台媒你们是真的懂采访",
+      "onboard_time": 1669290454,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1555239,
       "num": 505082,
       "word": "李智汉为救被困小女孩遇难",
@@ -2633,14 +2641,6 @@
       "onboard_time": 1669214196,
       "rank": 9,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 1421774,
-      "num": 549980,
-      "word": "台媒你们是真的懂采访",
-      "onboard_time": 1669290454,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1421755,
@@ -6187,6 +6187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 843664,
+      "num": 843664,
+      "word": "我儿子不同意这门亲事",
+      "onboard_time": 1669292256,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 843466,
       "num": 843466,
       "word": "你好星期六好六街新店开业",
@@ -6609,6 +6617,14 @@
       "onboard_time": 1667808747,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 802571,
+      "num": 802571,
+      "word": "敖厂长",
+      "onboard_time": 1669294354,
+      "rank": 21,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 802416,
@@ -7361,6 +7377,14 @@
       "onboard_time": 1667235860,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 742644,
+      "num": 742644,
+      "word": "韩国 小动作",
+      "onboard_time": 1669296273,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 742614,
@@ -8993,6 +9017,14 @@
       "onboard_time": 1667347645,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 649392,
+      "num": 649392,
+      "word": "易烊千玺提名年度荣誉男演员",
+      "onboard_time": 1669295433,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 649125,
@@ -14691,14 +14723,6 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 458948,
-      "num": 458948,
-      "word": "我儿子不同意这门亲事",
-      "onboard_time": 1669292256,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 458754,
       "num": 377687,
       "word": "张杰KTV唱忽然之间",
@@ -16795,6 +16819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 411068,
+      "num": 411068,
+      "word": "李晨白鹿周深陈卓璇组合名slxc",
+      "onboard_time": 1669296155,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 411060,
       "num": 411060,
       "word": "世界杯彩票",
@@ -16825,6 +16857,14 @@
       "onboard_time": 1669104872,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 410312,
+      "num": 221840,
+      "word": "脱口秀大会6赛制怎么改",
+      "onboard_time": 1669295975,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 410269,
@@ -17569,6 +17609,14 @@
       "onboard_time": 1669178022,
       "rank": 36,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 396676,
+      "num": 396676,
+      "word": "朱韵看到了李峋拼好的合照",
+      "onboard_time": 1669293877,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 396519,
@@ -19425,6 +19473,14 @@
       "onboard_time": 1667229985,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 359895,
+      "num": 359895,
+      "word": "孙兴慜首发",
+      "onboard_time": 1669292914,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 359830,
@@ -21339,14 +21395,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 330615,
-      "num": 330615,
-      "word": "孙兴慜首发",
-      "onboard_time": 1669292914,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 330479,
       "num": 330479,
       "word": "魔笛",
@@ -22411,14 +22459,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 316074,
-      "num": 316074,
-      "word": "敖厂长",
-      "onboard_time": 1669294354,
-      "rank": 21,
-      "category": "游戏,网红"
-    },
-    {
       "raw_hot": 316069,
       "num": 316069,
       "word": "巴基斯坦前总理伊姆兰汗中弹",
@@ -23481,14 +23521,6 @@
       "onboard_time": 1668003390,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 301895,
-      "num": 301895,
-      "word": "朱韵看到了李峋拼好的合照",
-      "onboard_time": 1669293877,
-      "rank": 22,
-      "category": "影视"
     },
     {
       "raw_hot": 301457,
@@ -27547,6 +27579,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 249431,
+      "num": 221739,
+      "word": "世界杯走红的小王子是这样被找到的",
+      "onboard_time": 1669295012,
+      "rank": 31,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 249381,
       "num": 249381,
       "word": "张凌赫唱星辰大海主题曲",
@@ -27953,6 +27993,14 @@
       "onboard_time": 1668088646,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 244145,
+      "num": 244145,
+      "word": "刘恋说又体面地送走了一只鸡",
+      "onboard_time": 1669294296,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 243983,
@@ -28475,6 +28523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 237013,
+      "num": 237013,
+      "word": "压力给到C罗",
+      "onboard_time": 1669295253,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 236929,
       "num": 204682,
       "word": "陈飞宇张婧仪最新芭莎花絮",
@@ -28625,6 +28681,14 @@
       "onboard_time": 1667483608,
       "rank": 46,
       "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 235151,
+      "num": 235151,
+      "word": "王源东方风云榜粉丝应援现场",
+      "onboard_time": 1669295314,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 235035,
@@ -28969,6 +29033,14 @@
       "onboard_time": 1668591030,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 232057,
+      "num": 232057,
+      "word": "乌拉圭vs韩国首发",
+      "onboard_time": 1669292557,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 231945,
@@ -30875,6 +30947,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 215905,
+      "num": 215905,
+      "word": "老公搂着自家狗子看世界杯",
+      "onboard_time": 1669294354,
+      "rank": 44,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 215886,
       "num": 215886,
       "word": "歼20穿云造洞忍不住看亿遍",
@@ -31785,6 +31865,14 @@
       "onboard_time": 1667958806,
       "rank": 24,
       "category": "科技"
+    },
+    {
+      "raw_hot": 207267,
+      "num": 207267,
+      "word": "8旬老人得带状疱疹6年不敢盖被子",
+      "onboard_time": 1669295735,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 207203,
@@ -34707,14 +34795,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 185399,
-      "num": 163381,
-      "word": "刘恋说又体面地送走了一只鸡",
-      "onboard_time": 1669294296,
-      "rank": 40,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 185389,
       "num": 185389,
       "word": "檀健次官宣微博视界大会",
@@ -35459,14 +35539,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 180049,
-      "num": 180049,
-      "word": "乌拉圭vs韩国首发",
-      "onboard_time": 1669292557,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 179943,
       "num": 388243,
       "word": "夫妻连续9年带孩子登山捡垃圾",
@@ -35955,6 +36027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 176169,
+      "num": 176169,
+      "word": "女儿告诉妈妈班上男生想跟她结婚",
+      "onboard_time": 1669292616,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 176156,
       "num": 176156,
       "word": "嗨放派",
@@ -36257,6 +36337,14 @@
       "onboard_time": 1669108413,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 173169,
+      "num": 173169,
+      "word": "罗一舟谈斜杠人生的多样选择",
+      "onboard_time": 1669295253,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 173101,
@@ -37761,14 +37849,6 @@
       "onboard_time": 1668594449,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 161510,
-      "num": 161510,
-      "word": "女儿告诉妈妈班上男生想跟她结婚",
-      "onboard_time": 1669292616,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 161479,
@@ -41881,14 +41961,6 @@
       "onboard_time": 1667455764,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 136467,
-      "num": 136467,
-      "word": "老公搂着自家狗子看世界杯",
-      "onboard_time": 1669294354,
-      "rank": 44,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 136412,

@@ -1,6 +1,6 @@
 {
   "startTime": 1669220901508,
-  "endTime": 1669294856010,
+  "endTime": 1669296638938,
   "band_list": [
     {
       "raw_hot": 6338884,
@@ -35,6 +35,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2576270,
+      "num": 2576270,
+      "word": "乌拉圭vs韩国",
+      "onboard_time": 1669282230,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2563717,
       "num": 863971,
       "word": "王源B面音源正式解锁",
@@ -57,14 +65,6 @@
       "onboard_time": 1669211745,
       "rank": 1,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 2131632,
-      "num": 2131632,
-      "word": "乌拉圭vs韩国",
-      "onboard_time": 1669282230,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 2058039,
@@ -123,20 +123,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1555685,
+      "num": 562299,
+      "word": "台媒你们是真的懂采访",
+      "onboard_time": 1669290454,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1518956,
       "num": 440633,
       "word": "刘强东3小时内部发言",
       "onboard_time": 1669269872,
       "rank": 10,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 1421774,
-      "num": 549980,
-      "word": "台媒你们是真的懂采访",
-      "onboard_time": 1669290454,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1301881,
@@ -291,6 +291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 843664,
+      "num": 843664,
+      "word": "我儿子不同意这门亲事",
+      "onboard_time": 1669292256,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 824833,
       "num": 441074,
       "word": "宋轶把千金气质拿捏住了",
@@ -313,6 +321,14 @@
       "onboard_time": 1669258350,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 802571,
+      "num": 802571,
+      "word": "敖厂长",
+      "onboard_time": 1669294354,
+      "rank": 21,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 800208,
@@ -361,6 +377,14 @@
       "onboard_time": 1669250076,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 742644,
+      "num": 742644,
+      "word": "韩国 小动作",
+      "onboard_time": 1669296273,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 736955,
@@ -425,6 +449,14 @@
       "onboard_time": 1669254211,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 649392,
+      "num": 649392,
+      "word": "易烊千玺提名年度荣誉男演员",
+      "onboard_time": 1669295433,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 643925,
@@ -723,14 +755,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 458948,
-      "num": 458948,
-      "word": "我儿子不同意这门亲事",
-      "onboard_time": 1669292256,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 446616,
       "num": 446616,
       "word": "C罗今晚会取得进球吗",
@@ -843,6 +867,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 411068,
+      "num": 411068,
+      "word": "李晨白鹿周深陈卓璇组合名slxc",
+      "onboard_time": 1669296155,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 410312,
+      "num": 221840,
+      "word": "脱口秀大会6赛制怎么改",
+      "onboard_time": 1669295975,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 402607,
       "num": 402607,
       "word": "杨幂11月好忙",
@@ -864,6 +904,14 @@
       "word": "朱韵救了李峋",
       "onboard_time": 1669278571,
       "rank": 36,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 396676,
+      "num": 396676,
+      "word": "朱韵看到了李峋拼好的合照",
+      "onboard_time": 1669293877,
+      "rank": 22,
       "category": "影视"
     },
     {
@@ -936,6 +984,14 @@
       "word": "新疆C罗为偶像C罗打call",
       "onboard_time": 1669286498,
       "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 359895,
+      "num": 359895,
+      "word": "孙兴慜首发",
+      "onboard_time": 1669292914,
+      "rank": 35,
       "category": "体育"
     },
     {
@@ -1016,14 +1072,6 @@
       "word": "瑞士进球",
       "onboard_time": 1669288536,
       "rank": 47,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 330615,
-      "num": 330615,
-      "word": "孙兴慜首发",
-      "onboard_time": 1669292914,
-      "rank": 35,
       "category": "体育"
     },
     {
@@ -1147,14 +1195,6 @@
       "category": "社会议题"
     },
     {
-      "raw_hot": 316074,
-      "num": 316074,
-      "word": "敖厂长",
-      "onboard_time": 1669294354,
-      "rank": 21,
-      "category": "游戏,网红"
-    },
-    {
       "raw_hot": 315047,
       "num": 315047,
       "word": "德国vs日本",
@@ -1233,14 +1273,6 @@
       "onboard_time": 1669277430,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 301895,
-      "num": 301895,
-      "word": "朱韵看到了李峋拼好的合照",
-      "onboard_time": 1669293877,
-      "rank": 22,
-      "category": "影视"
     },
     {
       "raw_hot": 301493,
@@ -1531,6 +1563,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 249431,
+      "num": 221739,
+      "word": "世界杯走红的小王子是这样被找到的",
+      "onboard_time": 1669295012,
+      "rank": 31,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 247915,
       "num": 247915,
       "word": "沙特后卫对梅西放狠话",
@@ -1563,6 +1603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 244145,
+      "num": 244145,
+      "word": "刘恋说又体面地送走了一只鸡",
+      "onboard_time": 1669294296,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 243702,
       "num": 243702,
       "word": "尹嵩精神状态",
@@ -1587,6 +1635,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 237013,
+      "num": 237013,
+      "word": "压力给到C罗",
+      "onboard_time": 1669295253,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 235151,
+      "num": 235151,
+      "word": "王源东方风云榜粉丝应援现场",
+      "onboard_time": 1669295314,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 234329,
       "num": 234329,
       "word": "世界杯上进球最多的国家",
@@ -1608,6 +1672,14 @@
       "word": "加维进球",
       "onboard_time": 1669226658,
       "rank": 10,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 232057,
+      "num": 232057,
+      "word": "乌拉圭vs韩国首发",
+      "onboard_time": 1669292557,
+      "rank": 39,
       "category": "体育"
     },
     {
@@ -1739,6 +1811,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 215905,
+      "num": 215905,
+      "word": "老公搂着自家狗子看世界杯",
+      "onboard_time": 1669294354,
+      "rank": 44,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 215511,
       "num": 215511,
       "word": "义乌老板娘能有多卷",
@@ -1816,6 +1896,14 @@
       "word": "消防员火场救出一窝熏黑的小白兔",
       "onboard_time": 1669276052,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 207267,
+      "num": 207267,
+      "word": "8旬老人得带状疱疹6年不敢盖被子",
+      "onboard_time": 1669295735,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -2011,14 +2099,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 185399,
-      "num": 163381,
-      "word": "刘恋说又体面地送走了一只鸡",
-      "onboard_time": 1669294296,
-      "rank": 40,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 185389,
       "num": 185389,
       "word": "檀健次官宣微博视界大会",
@@ -2083,14 +2163,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 180049,
-      "num": 180049,
-      "word": "乌拉圭vs韩国首发",
-      "onboard_time": 1669292557,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 178333,
       "num": 178333,
       "word": "猫咪好像是坐电梯上来的",
@@ -2105,6 +2177,14 @@
       "onboard_time": 1669253313,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 176169,
+      "num": 176169,
+      "word": "女儿告诉妈妈班上男生想跟她结婚",
+      "onboard_time": 1669292616,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 175037,
@@ -2129,6 +2209,14 @@
       "onboard_time": 1669265617,
       "rank": 38,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 173169,
+      "num": 173169,
+      "word": "罗一舟谈斜杠人生的多样选择",
+      "onboard_time": 1669295253,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 172001,
@@ -2241,14 +2329,6 @@
       "onboard_time": 1669219593,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 161510,
-      "num": 161510,
-      "word": "女儿告诉妈妈班上男生想跟她结婚",
-      "onboard_time": 1669292616,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 161176,
@@ -2481,14 +2561,6 @@
       "onboard_time": 1669278093,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 136467,
-      "num": 136467,
-      "word": "老公搂着自家狗子看世界杯",
-      "onboard_time": 1669294354,
-      "rank": 44,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 136366,
