@@ -1,6 +1,6 @@
 {
   "startTime": 1668961718135,
-  "endTime": 1669261380393,
+  "endTime": 1669263908322,
   "band_list": [
     {
       "raw_hot": 15128338,
@@ -339,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1892205,
+      "num": 1892205,
+      "word": "压力来到韩国这边",
+      "onboard_time": 1669253074,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1857954,
       "num": 1857954,
       "word": "伊朗队开场未唱国歌",
@@ -385,14 +393,6 @@
       "onboard_time": 1669090779,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1715153,
-      "num": 1715153,
-      "word": "压力来到韩国这边",
-      "onboard_time": 1669253074,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 1712400,
@@ -625,6 +625,14 @@
       "onboard_time": 1669211618,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1403134,
+      "num": 1403134,
+      "word": "离个婚能有多不体面",
+      "onboard_time": 1669260694,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 1351917,
@@ -1355,6 +1363,14 @@
       "category": "体育,幽默"
     },
     {
+      "raw_hot": 808351,
+      "num": 808351,
+      "word": "为什么卿卿日常不适合倍速看",
+      "onboard_time": 1669258350,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 804388,
       "num": 804388,
       "word": "女子花20万带爸爸看世界杯轮流睡着",
@@ -1387,6 +1403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 796176,
+      "num": 796176,
+      "word": "女子跟老公在一起5年陪读4年",
+      "onboard_time": 1669259673,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 784834,
       "num": 784834,
       "word": "25岁小伙辞去公职去看世界杯",
@@ -1401,14 +1425,6 @@
       "onboard_time": 1669001850,
       "rank": 3,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 771539,
-      "num": 771539,
-      "word": "为什么卿卿日常不适合倍速看",
-      "onboard_time": 1669258350,
-      "rank": 44,
-      "category": "影视"
     },
     {
       "raw_hot": 768999,
@@ -2019,6 +2035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 611013,
+      "num": 611013,
+      "word": "孙兴慜将戴面具出战",
+      "onboard_time": 1669259311,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 608062,
       "num": 608062,
       "word": "陈飞宇提醒张婧仪写火军",
@@ -2041,6 +2065,14 @@
       "onboard_time": 1669183354,
       "rank": 8,
       "category": "动漫,影视"
+    },
+    {
+      "raw_hot": 596662,
+      "num": 596662,
+      "word": "孩子打闹家长上门道歉被扇耳光",
+      "onboard_time": 1669261172,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 594252,
@@ -2523,6 +2555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 515962,
+      "num": 515962,
+      "word": "内马尔强调不要轻视对手",
+      "onboard_time": 1669260694,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 514882,
       "num": 514882,
       "word": "广州新增本土感染者8210例",
@@ -2747,6 +2787,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 484541,
+      "num": 484541,
+      "word": "莫让赌球毁了年轻干部",
+      "onboard_time": 1669262073,
+      "rank": 12,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 482082,
       "num": 482082,
       "word": "广州新增本土感染者8181例",
@@ -2833,6 +2881,14 @@
       "onboard_time": 1669115496,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 473385,
+      "num": 473385,
+      "word": "朱韵戴戒指细节",
+      "onboard_time": 1669262732,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 472778,
@@ -3555,14 +3611,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 392263,
-      "num": 392263,
-      "word": "孙兴慜将戴面具出战",
-      "onboard_time": 1669259311,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 390302,
       "num": 390302,
       "word": "女童将铅笔扎入眼睛致永久视力损伤",
@@ -3723,14 +3771,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 376941,
-      "num": 376941,
-      "word": "女子跟老公在一起5年陪读4年",
-      "onboard_time": 1669259673,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 376224,
       "num": 376224,
       "word": "阿根廷后防",
@@ -3849,6 +3889,14 @@
       "onboard_time": 1669013495,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 367470,
+      "num": 367470,
+      "word": "C罗今晚会取得进球吗",
+      "onboard_time": 1669260330,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 366972,
@@ -4451,12 +4499,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 325578,
+      "num": 325578,
+      "word": "微博视界大会首波阵容",
+      "onboard_time": 1669262732,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 325038,
       "num": 325038,
       "word": "令人心动的offer4建筑师季实习生官宣",
       "onboard_time": 1669174474,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 324990,
+      "num": 324990,
+      "word": "TWICE韩专销量突破1000万张",
+      "onboard_time": 1669261892,
+      "rank": 21,
+      "category": "音乐"
     },
     {
       "raw_hot": 324649,
@@ -4955,12 +5019,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 289548,
-      "num": 289548,
-      "word": "离个婚能有多不体面",
-      "onboard_time": 1669260694,
-      "rank": 19,
-      "category": "情感"
+      "raw_hot": 290089,
+      "num": 290089,
+      "word": "金硕珍将12月13日入伍",
+      "onboard_time": 1669263214,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 289290,
@@ -5113,6 +5177,14 @@
       "onboard_time": 1669178981,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 280757,
+      "num": 280757,
+      "word": "风吹半夏官宣OST阵容",
+      "onboard_time": 1669261473,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 280672,
@@ -5875,6 +5947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 234132,
+      "num": 234132,
+      "word": "陈紫函说还好郝葭身边有赵芳如",
+      "onboard_time": 1669260153,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 234108,
       "num": 234108,
       "word": "加维进球",
@@ -5969,6 +6049,14 @@
       "onboard_time": 1669171172,
       "rank": 38,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 226347,
+      "num": 226347,
+      "word": "内马尔被针对是有原因的",
+      "onboard_time": 1669261892,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 225998,
@@ -6067,6 +6155,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 220195,
+      "num": 220195,
+      "word": "王源新歌粤语旁白是薛凯琪",
+      "onboard_time": 1669262313,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 220009,
       "num": 220009,
       "word": "阿根廷半场7次越位",
@@ -6153,6 +6249,14 @@
       "onboard_time": 1669198775,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 217757,
+      "num": 217757,
+      "word": "原来周昊杉和周柯宇是亲兄弟",
+      "onboard_time": 1669263632,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 217461,
@@ -6251,6 +6355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 216004,
+      "num": 216004,
+      "word": "航海王剧场版官宣定档1201",
+      "onboard_time": 1669263032,
+      "rank": 33,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 215641,
       "num": 167258,
       "word": "汤唯出席韩国影评奖颁奖礼",
@@ -6281,6 +6393,14 @@
       "onboard_time": 1669194699,
       "rank": 32,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 213991,
+      "num": 213991,
+      "word": "熬夜后怎么补觉",
+      "onboard_time": 1669259188,
+      "rank": 46,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 213646,
@@ -6379,6 +6499,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 207100,
+      "num": 207100,
+      "word": "葡萄牙vs加纳",
+      "onboard_time": 1669261774,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 207078,
       "num": 207078,
       "word": "广东人看球能多有仪式感",
@@ -6443,6 +6571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 204105,
+      "num": 177649,
+      "word": "期待秦施李黛单干",
+      "onboard_time": 1669263154,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 203941,
       "num": 216233,
       "word": "摄影师为什么迷上手机摄影",
@@ -6481,14 +6617,6 @@
       "onboard_time": 1669219716,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 202533,
-      "num": 202533,
-      "word": "陈紫函说还好郝葭身边有赵芳如",
-      "onboard_time": 1669260153,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 202459,
@@ -6553,14 +6681,6 @@
       "onboard_time": 1669112672,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 199127,
-      "num": 199127,
-      "word": "孩子打闹家长上门道歉被扇耳光",
-      "onboard_time": 1669261172,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 199008,
@@ -6819,14 +6939,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 193796,
-      "num": 193796,
-      "word": "C罗今晚会取得进球吗",
-      "onboard_time": 1669260330,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 193578,
       "num": 193578,
       "word": "赵芳如全力护郝葭母女",
@@ -7035,14 +7147,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 186419,
-      "num": 186419,
-      "word": "熬夜后怎么补觉",
-      "onboard_time": 1669259188,
-      "rank": 46,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 186325,
       "num": 186202,
       "word": "YERI将出演电视剧清潭国际高中",
@@ -7193,6 +7297,14 @@
       "onboard_time": 1669134328,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 181944,
+      "num": 181944,
+      "word": "巴西vs塞尔维亚",
+      "onboard_time": 1669263032,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 181072,
@@ -7419,14 +7531,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 172266,
-      "num": 172266,
-      "word": "内马尔强调不要轻视对手",
-      "onboard_time": 1669260694,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 172159,
       "num": 172159,
       "word": "蔡徐坤前东家晒练习生整形费用",
@@ -7568,6 +7672,14 @@
       "word": "官方辟谣荔枝园核酸检测造假",
       "onboard_time": 1669108172,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167527,
+      "num": 167527,
+      "word": "谢谢你们CZ3925",
+      "onboard_time": 1669263695,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -7817,6 +7929,14 @@
       "onboard_time": 1669177364,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 156841,
+      "num": 1411498,
+      "word": "多视角记录空军女飞行员首次单飞",
+      "onboard_time": 1669262012,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 156791,
@@ -8419,6 +8539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 136315,
+      "num": 136315,
+      "word": "日本大叔说下次轮到中国赢德国",
+      "onboard_time": 1669263632,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 136237,
       "num": 136237,
       "word": "妈妈辅导哥哥作业被弟弟剪头发",
@@ -8617,6 +8745,14 @@
       "onboard_time": 1669097795,
       "rank": 44,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 129094,
+      "num": 129094,
+      "word": "欧文单节19分",
+      "onboard_time": 1669263395,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 128868,
