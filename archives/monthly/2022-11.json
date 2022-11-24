@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1669315219417,
+  "endTime": 1669317356997,
   "band_list": [
     {
       "raw_hot": 15128338,
@@ -34395,6 +34395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 191468,
+      "num": 191468,
+      "word": "巴西vs塞尔维亚首发",
+      "onboard_time": 1669314499,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 191409,
       "num": 191409,
       "word": "男子17年150万资助88名大学生",
@@ -40107,6 +40115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 149985,
+      "num": 149985,
+      "word": "C罗37岁身材",
+      "onboard_time": 1669315096,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 149982,
       "num": 149982,
       "word": "又被再就业男团的兄弟情暖到",
@@ -44595,14 +44611,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 124190,
-      "num": 124190,
-      "word": "巴西vs塞尔维亚首发",
-      "onboard_time": 1669314499,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 124087,
       "num": 124087,
       "word": "C罗今晚见",
@@ -48619,6 +48627,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 97532,
+      "num": 97532,
+      "word": "C罗是喜剧人吗",
+      "onboard_time": 1669313726,
+      "rank": 41,
+      "category": "体育,幽默"
+    },
+    {
       "raw_hot": 97375,
       "num": 97375,
       "word": "彭冠英新剧冒充高峻接近蔡文静",
@@ -50299,6 +50315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 86582,
+      "num": 86582,
+      "word": "巴黎世家因宣传照争议道歉",
+      "onboard_time": 1669313545,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 86516,
       "num": 86516,
       "word": "S12决赛观赛宣传片",
@@ -51275,6 +51299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 78790,
+      "num": 78790,
+      "word": "被C罗刷屏了",
+      "onboard_time": 1669315636,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 78783,
       "num": 78783,
       "word": "千年银杏身披金甲有多绝",
@@ -51961,22 +51993,6 @@
       "onboard_time": 1668677487,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 71217,
-      "num": 71217,
-      "word": "巴黎世家因宣传照争议道歉",
-      "onboard_time": 1669313545,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 70896,
-      "num": 70896,
-      "word": "C罗是喜剧人吗",
-      "onboard_time": 1669313726,
-      "rank": 41,
-      "category": "体育,幽默"
     },
     {
       "raw_hot": 70805,
@@ -53335,14 +53351,6 @@
       "num": 43791,
       "word": "马赛1比2热刺",
       "onboard_time": 1667345363,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 43433,
-      "num": 43433,
-      "word": "C罗37岁身材",
-      "onboard_time": 1669315096,
       "rank": 48,
       "category": "体育"
     },
