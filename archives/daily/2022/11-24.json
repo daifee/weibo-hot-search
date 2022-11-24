@@ -1,6 +1,6 @@
 {
   "startTime": 1669220901508,
-  "endTime": 1669260576104,
+  "endTime": 1669261380393,
   "band_list": [
     {
       "raw_hot": 2651843,
@@ -51,8 +51,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1681133,
-      "num": 1681133,
+      "raw_hot": 1715153,
+      "num": 1715153,
       "word": "压力来到韩国这边",
       "onboard_time": 1669253074,
       "rank": 41,
@@ -67,8 +67,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1470005,
-      "num": 1470005,
+      "raw_hot": 1630302,
+      "num": 1630302,
       "word": "北京取消2022年度9项资格考试",
       "onboard_time": 1669257091,
       "rank": 13,
@@ -79,6 +79,14 @@
       "num": 1301881,
       "word": "女子深夜打110点奶茶民警秒懂",
       "onboard_time": 1669255295,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1190020,
+      "num": 1190020,
+      "word": "上海立法禁止群租",
+      "onboard_time": 1669257630,
       "rank": 32,
       "category": "社会新闻"
     },
@@ -99,20 +107,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 976009,
+      "num": 976009,
+      "word": "退钱哥又让退钱了",
+      "onboard_time": 1669256908,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 971929,
       "num": 971929,
       "word": "C罗成为本届世界杯唯一自由球员",
       "onboard_time": 1669239852,
       "rank": 11,
       "category": "体育"
-    },
-    {
-      "raw_hot": 968356,
-      "num": 968356,
-      "word": "上海立法禁止群租",
-      "onboard_time": 1669257630,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 939263,
@@ -144,14 +152,6 @@
       "word": "西班牙好稳",
       "onboard_time": 1669225879,
       "rank": 0,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 838619,
-      "num": 838619,
-      "word": "退钱哥又让退钱了",
-      "onboard_time": 1669256908,
-      "rank": 10,
       "category": "体育"
     },
     {
@@ -187,6 +187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 771539,
+      "num": 771539,
+      "word": "为什么卿卿日常不适合倍速看",
+      "onboard_time": 1669258350,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 768999,
       "num": 768999,
       "word": "北京增社会面328例",
@@ -201,14 +209,6 @@
       "onboard_time": 1669250434,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 693212,
-      "num": 693212,
-      "word": "为什么卿卿日常不适合倍速看",
-      "onboard_time": 1669258350,
-      "rank": 44,
-      "category": "影视"
     },
     {
       "raw_hot": 657010,
@@ -395,6 +395,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 413507,
+      "num": 413507,
+      "word": "做一件羊绒大衣要薅多少只小山羊",
+      "onboard_time": 1669259012,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 392263,
+      "num": 392263,
+      "word": "孙兴慜将戴面具出战",
+      "onboard_time": 1669259311,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 386624,
       "num": 386624,
       "word": "女子做水果馒头剥开全是细节",
@@ -416,6 +432,14 @@
       "word": "11月23日新增本土无症状27517例",
       "onboard_time": 1669253551,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 376941,
+      "num": 376941,
+      "word": "女子跟老公在一起5年陪读4年",
+      "onboard_time": 1669259673,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -571,6 +595,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 289548,
+      "num": 289548,
+      "word": "离个婚能有多不体面",
+      "onboard_time": 1669260694,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 289260,
       "num": 289260,
       "word": "楼上怎么天天敲木鱼",
@@ -611,20 +643,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 280279,
-      "num": 280279,
-      "word": "做一件羊绒大衣要薅多少只小山羊",
-      "onboard_time": 1669259012,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 279587,
       "num": 279587,
       "word": "日本球迷在家疯狂庆祝吓跑猫咪",
       "onboard_time": 1669252352,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 279513,
+      "num": 279513,
+      "word": "北大硕士当编剧主角是300个动物",
+      "onboard_time": 1669257932,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 278744,
@@ -644,7 +676,7 @@
     },
     {
       "raw_hot": 268328,
-      "num": 235761,
+      "num": 241180,
       "word": "白鹿郑书意绿色毛衫造型上班路透",
       "onboard_time": 1669259131,
       "rank": 47,
@@ -681,14 +713,6 @@
       "onboard_time": 1669220909,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 253461,
-      "num": 253461,
-      "word": "北大硕士当编剧主角是300个动物",
-      "onboard_time": 1669257932,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 252722,
@@ -739,6 +763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 234329,
+      "num": 234329,
+      "word": "世界杯上进球最多的国家",
+      "onboard_time": 1669259673,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 234108,
       "num": 234108,
       "word": "加维进球",
@@ -755,8 +787,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 223381,
-      "num": 223381,
+      "raw_hot": 224166,
+      "num": 224166,
       "word": "男孩被忘服务区家长让其步行追赶",
       "onboard_time": 1669256250,
       "rank": 34,
@@ -771,28 +803,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 215102,
-      "num": 215102,
-      "word": "女子跟老公在一起5年陪读4年",
-      "onboard_time": 1669259673,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 211035,
       "num": 211035,
       "word": "命韵峋环结婚证件照",
       "onboard_time": 1669212821,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 206370,
-      "num": 206370,
-      "word": "孙兴慜将戴面具出战",
-      "onboard_time": 1669259311,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 204202,
@@ -835,12 +851,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 199833,
-      "num": 199833,
-      "word": "世界杯上进球最多的国家",
-      "onboard_time": 1669259673,
-      "rank": 36,
-      "category": "体育"
+      "raw_hot": 199127,
+      "num": 199127,
+      "word": "孩子打闹家长上门道歉被扇耳光",
+      "onboard_time": 1669261172,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 197135,
@@ -867,6 +883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 193796,
+      "num": 193796,
+      "word": "C罗今晚会取得进球吗",
+      "onboard_time": 1669260330,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 192952,
       "num": 192952,
       "word": "陈小纭郝葭跳河花絮照",
@@ -881,6 +905,14 @@
       "onboard_time": 1669257151,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 186419,
+      "num": 186419,
+      "word": "熬夜后怎么补觉",
+      "onboard_time": 1669259188,
+      "rank": 46,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 185431,
@@ -905,6 +937,14 @@
       "onboard_time": 1669217809,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 182720,
+      "num": 182720,
+      "word": "命韵峋环校园到职场剧照",
+      "onboard_time": 1669260572,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 181903,
@@ -937,6 +977,14 @@
       "onboard_time": 1669247912,
       "rank": 45,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 172266,
+      "num": 172266,
+      "word": "内马尔强调不要轻视对手",
+      "onboard_time": 1669260694,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 172001,
@@ -979,14 +1027,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 164641,
-      "num": 164641,
-      "word": "C罗今晚会取得进球吗",
-      "onboard_time": 1669260330,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 162811,
       "num": 162811,
       "word": "哪一套广播体操陪伴了你的青春",
@@ -1003,12 +1043,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 161176,
+      "num": 161176,
+      "word": "大叔日刨6000斤大葱月入近万元",
+      "onboard_time": 1669261354,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 160085,
       "num": 160085,
       "word": "时代少年团三周年有微电影",
       "onboard_time": 1669219655,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 159950,
+      "num": 150626,
+      "word": "你好李焕英将在韩国上映",
+      "onboard_time": 1669261354,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 159357,
@@ -1025,14 +1081,6 @@
       "onboard_time": 1669248633,
       "rank": 49,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 154673,
-      "num": 154673,
-      "word": "熬夜后怎么补觉",
-      "onboard_time": 1669259188,
-      "rank": 46,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 153461,
