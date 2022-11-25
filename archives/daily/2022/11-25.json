@@ -1,6 +1,6 @@
 {
   "startTime": 1669307280718,
-  "endTime": 1669389620072,
+  "endTime": 1669390583431,
   "band_list": [
     {
       "raw_hot": 36651023,
@@ -219,6 +219,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1747966,
+      "num": 1747966,
+      "word": "分手的决心赢麻了",
+      "onboard_time": 1669388528,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1681792,
       "num": 1681792,
       "word": "律师称吴亦凡需服刑完再被驱逐出境",
@@ -233,6 +241,14 @@
       "onboard_time": 1669362035,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1638055,
+      "num": 1638055,
+      "word": "卡塔尔1比3塞内加尔",
+      "onboard_time": 1669389365,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 1602453,
@@ -403,14 +419,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 934451,
-      "num": 934451,
-      "word": "卡塔尔1比3塞内加尔",
-      "onboard_time": 1669389365,
-      "rank": 5,
-      "category": "体育"
-    },
-    {
       "raw_hot": 893066,
       "num": 893066,
       "word": "兰州通报阳性转运群众核酸阴性",
@@ -441,14 +449,6 @@
       "onboard_time": 1669379755,
       "rank": 47,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 852111,
-      "num": 852111,
-      "word": "分手的决心赢麻了",
-      "onboard_time": 1669388528,
-      "rank": 6,
-      "category": "影视"
     },
     {
       "raw_hot": 848204,
@@ -489,6 +489,14 @@
       "onboard_time": 1669306468,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 810763,
+      "num": 484013,
+      "word": "吴永秀因涉嫌强制猥亵被起诉",
+      "onboard_time": 1669384688,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 809896,
@@ -585,14 +593,6 @@
       "onboard_time": 1669357774,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 736229,
-      "num": 484013,
-      "word": "吴永秀因涉嫌强制猥亵被起诉",
-      "onboard_time": 1669384688,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 735756,
@@ -987,6 +987,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 479215,
+      "num": 318739,
+      "word": "蒋龙 助演",
+      "onboard_time": 1669389067,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 473163,
       "num": 473163,
       "word": "女子扮算命大师骗室友260余万",
@@ -1000,6 +1008,14 @@
       "word": "巴西队这个倒挂金钩绝了",
       "onboard_time": 1669339718,
       "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 471218,
+      "num": 471218,
+      "word": "卡塔尔小王子",
+      "onboard_time": 1669389193,
+      "rank": 37,
       "category": "体育"
     },
     {
@@ -1163,6 +1179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 425243,
+      "num": 425243,
+      "word": "郑州疫情防控攻坚行动进行时",
+      "onboard_time": 1669388715,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 425095,
       "num": 425095,
       "word": "女生溜冰被推倒缝针肇事者拒赔偿",
@@ -1291,6 +1315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 402524,
+      "num": 314380,
+      "word": "赵丽颖新剧和王劲松演父女",
+      "onboard_time": 1669388284,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 400285,
       "num": 400285,
       "word": "小朋友问爸爸中国队呢",
@@ -1331,6 +1363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 393795,
+      "num": 302025,
+      "word": "财阀家的小儿子",
+      "onboard_time": 1669388829,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 393660,
       "num": 393660,
       "word": "星汉灿烂角色号更新微博",
@@ -1345,14 +1385,6 @@
       "onboard_time": 1669353219,
       "rank": 33,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 388282,
-      "num": 239557,
-      "word": "蒋龙 助演",
-      "onboard_time": 1669389067,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 385168,
@@ -1411,22 +1443,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 374690,
-      "num": 236439,
-      "word": "财阀家的小儿子",
-      "onboard_time": 1669388829,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 371953,
-      "num": 236115,
-      "word": "赵丽颖新剧和王劲松演父女",
-      "onboard_time": 1669388284,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 370671,
       "num": 370671,
       "word": "MAMA投票",
@@ -1449,6 +1465,14 @@
       "onboard_time": 1669379927,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 367384,
+      "num": 367384,
+      "word": "北京WB",
+      "onboard_time": 1669388595,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 367002,
@@ -1499,6 +1523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 350320,
+      "num": 350320,
+      "word": "现在瑜伽裤的模特是怎么回事",
+      "onboard_time": 1669386188,
+      "rank": 36,
+      "category": "其它"
+    },
+    {
       "raw_hot": 349071,
       "num": 349071,
       "word": "终于能安心看球了",
@@ -1516,7 +1548,7 @@
     },
     {
       "raw_hot": 347791,
-      "num": 233559,
+      "num": 272967,
       "word": "王源粉丝在谢幕时齐喊王源名字",
       "onboard_time": 1669388465,
       "rank": 33,
@@ -1643,6 +1675,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 323458,
+      "num": 323458,
+      "word": "男孩央求后妈别离婚会帮忙带弟弟",
+      "onboard_time": 1669387568,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 319511,
       "num": 319511,
       "word": "大龄程序员为了再就业有多拼",
@@ -1755,20 +1795,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 286833,
+      "num": 286833,
+      "word": "外卖小哥遇事故怒喊我没时间我要工作",
+      "onboard_time": 1669388715,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 285707,
       "num": 285707,
       "word": "乌拉圭教练被球砸脸",
       "onboard_time": 1669301386,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 284758,
-      "num": 284758,
-      "word": "现在瑜伽裤的模特是怎么回事",
-      "onboard_time": 1669386188,
-      "rank": 36,
-      "category": "其它"
     },
     {
       "raw_hot": 284655,
@@ -1931,14 +1971,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 261152,
-      "num": 231475,
-      "word": "外卖小哥遇事故怒喊我没时间我要工作",
-      "onboard_time": 1669388715,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 259826,
       "num": 192531,
       "word": "时代少年团百忧戒舞台连线",
@@ -2075,14 +2107,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 239620,
-      "num": 239620,
-      "word": "北京WB",
-      "onboard_time": 1669388595,
-      "rank": 29,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 237500,
       "num": 172273,
       "word": "何洛洛在台下偶像在台上",
@@ -2113,14 +2137,6 @@
       "onboard_time": 1669354175,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 231184,
-      "num": 231184,
-      "word": "郑州疫情防控攻坚行动进行时",
-      "onboard_time": 1669388715,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 230027,
@@ -2235,6 +2251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 219276,
+      "num": 183691,
+      "word": "单依纯终于唱如愿了",
+      "onboard_time": 1669390261,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 219115,
       "num": 219115,
       "word": "郑秀妍唱中文版goldensky",
@@ -2267,14 +2291,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 212846,
-      "num": 212846,
-      "word": "男孩央求后妈别离婚会帮忙带弟弟",
-      "onboard_time": 1669387568,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 212326,
       "num": 212326,
       "word": "加纳球员面对C罗做出siu",
@@ -2305,6 +2321,22 @@
       "onboard_time": 1669338398,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 207577,
+      "num": 207577,
+      "word": "官方回应北京一感染者求助安置猫咪",
+      "onboard_time": 1669389845,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 207473,
+      "num": 176294,
+      "word": "刘耀文百忧戒舞台镜头",
+      "onboard_time": 1669388225,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 207470,
@@ -2499,14 +2531,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 189087,
-      "num": 189087,
-      "word": "卡塔尔小王子",
-      "onboard_time": 1669389193,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 188349,
       "num": 188349,
       "word": "潘粤明预测葡萄牙vs加纳C罗进球",
@@ -2579,6 +2603,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 180961,
+      "num": 180961,
+      "word": "调音师第一次后悔接了这活",
+      "onboard_time": 1669389006,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 180812,
       "num": 180812,
       "word": "卡塔尔小王子学会中文问吃了吗",
@@ -2609,6 +2641,14 @@
       "onboard_time": 1669380888,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 177346,
+      "num": 148089,
+      "word": "除却巫山不是云现实版",
+      "onboard_time": 1669390561,
+      "rank": 47,
+      "category": "旅游"
     },
     {
       "raw_hot": 175387,
@@ -2665,14 +2705,6 @@
       "onboard_time": 1669308089,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 170682,
-      "num": 170682,
-      "word": "调音师第一次后悔接了这活",
-      "onboard_time": 1669389006,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 170597,
@@ -2793,6 +2825,14 @@
       "onboard_time": 1669345775,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 160715,
+      "num": 160715,
+      "word": "女子腹痛查出宫内宫外同时怀孕",
+      "onboard_time": 1669388164,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 160679,
@@ -2971,14 +3011,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 144456,
-      "num": 144456,
-      "word": "女子腹痛查出宫内宫外同时怀孕",
-      "onboard_time": 1669388164,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 144074,
       "num": 144074,
       "word": "名侦探柯南是懂配乐的",
@@ -3052,7 +3084,7 @@
     },
     {
       "raw_hot": 136178,
-      "num": 1577453,
+      "num": 1656254,
       "word": "来自中国空间站的出差邀请",
       "onboard_time": 1669381789,
       "rank": 2,
@@ -3363,20 +3395,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 34470,
+      "num": 185287,
+      "word": "如何轻松拥有智能家居",
+      "onboard_time": 1669388404,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 34229,
       "num": 39127,
       "word": "轰6K大象漫步画面压迫感拉满",
       "onboard_time": 1669331545,
       "rank": 46,
       "category": "社会新闻,军事"
-    },
-    {
-      "raw_hot": 33748,
-      "num": 177625,
-      "word": "如何轻松拥有智能家居",
-      "onboard_time": 1669388404,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 27403,
