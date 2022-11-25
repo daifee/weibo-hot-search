@@ -1,0 +1,410 @@
+{
+  "runTime": 1669376043358,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2837505,
+        "num": 2837505,
+        "word": "吴亦凡偷逃税被追缴并罚款6亿元",
+        "onboard_time": 1669367043,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1034634,
+        "num": 1034634,
+        "word": "吴亦凡一审被判13年",
+        "onboard_time": 1669362724,
+        "rank": 1,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 24259,
+        "num": 896177,
+        "word": "中国制造见证一个又一个精彩瞬间",
+        "onboard_time": 1669298566,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2021679,
+        "num": 852927,
+        "word": "夫妻洗澡去世留下8个孩子最新后续",
+        "onboard_time": 1669372614,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 788388,
+        "num": 788388,
+        "word": "广州没有静默的安排",
+        "onboard_time": 1669372491,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2170933,
+        "num": 780743,
+        "word": "吴亦凡偷税手法曝光",
+        "onboard_time": 1669368665,
+        "rank": 5,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 755590,
+        "num": 755590,
+        "word": "央行决定降准0.25个百分点",
+        "onboard_time": 1669370814,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 617451,
+        "num": 617451,
+        "word": "当卡塔尔小王子摘掉头巾后",
+        "onboard_time": 1669355856,
+        "rank": 7,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 490107,
+        "num": 490107,
+        "word": "老人让两只狗背菜被指虐待",
+        "onboard_time": 1669369385,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 457639,
+        "num": 457639,
+        "word": "北京新增本土感染者1119例",
+        "onboard_time": 1669369623,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2021477,
+        "num": 457282,
+        "word": "吴亦凡强奸聚众淫乱案细节披露",
+        "onboard_time": 1669364253,
+        "rank": 10,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 567494,
+        "num": 454607,
+        "word": "江宁婆婆谈吴亦凡案一审宣判",
+        "onboard_time": 1669370159,
+        "rank": 11,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 557407,
+        "num": 449028,
+        "word": "什么是聚众淫乱罪",
+        "onboard_time": 1669374052,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 544264,
+        "num": 447878,
+        "word": "本月少女chuu被退团",
+        "onboard_time": 1669372190,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 445746,
+        "num": 445746,
+        "word": "威尔士vs伊朗半场0比0",
+        "onboard_time": 1669373996,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 435408,
+        "num": 435408,
+        "word": "内马尔曾与白血病小男孩的约定",
+        "onboard_time": 1669371592,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 420701,
+        "num": 420701,
+        "word": "广州疫情防控",
+        "onboard_time": 1669367284,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 420030,
+        "num": 420030,
+        "word": "四千金妈妈发文称明日将出院",
+        "onboard_time": 1669372791,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 415156,
+        "num": 415156,
+        "word": "你陷入过假性亲密关系吗",
+        "onboard_time": 1669368735,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 291841,
+        "num": 291841,
+        "word": "泰国杀妻抛尸案被告获死刑",
+        "onboard_time": 1669363662,
+        "rank": 19,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 786148,
+        "num": 289440,
+        "word": "乌鲁木齐住宅楼火灾疑因插线板着火引发",
+        "onboard_time": 1669355497,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 416059,
+        "num": 278333,
+        "word": "脱口秀",
+        "onboard_time": 1669375915,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 381877,
+        "num": 264417,
+        "word": "吴亦凡商业版图盘点",
+        "onboard_time": 1669367221,
+        "rank": 22,
+        "category": "财经,艺人"
+      },
+      {
+        "raw_hot": 324677,
+        "num": 262993,
+        "word": "附加驱逐出境怎么执行",
+        "onboard_time": 1669368543,
+        "rank": 23,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 255193,
+        "num": 255193,
+        "word": "腿姐",
+        "onboard_time": 1669375072,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 322915,
+        "num": 251682,
+        "word": "吴亦凡案时间线",
+        "onboard_time": 1669363301,
+        "rank": 25,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 232264,
+        "num": 232264,
+        "word": "顺其自然24年捐款1469万",
+        "onboard_time": 1669366681,
+        "rank": 26,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 231789,
+        "num": 231789,
+        "word": "Viper发文告别EDG",
+        "onboard_time": 1669365610,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 222114,
+        "num": 222114,
+        "word": "猫的记忆就是一辈子",
+        "onboard_time": 1669367702,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 219798,
+        "num": 219798,
+        "word": "降准",
+        "onboard_time": 1669375013,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 316658,
+        "num": 219187,
+        "word": "东方风云榜",
+        "onboard_time": 1669375610,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 282932,
+        "num": 216795,
+        "word": "Ming不参加全明星",
+        "onboard_time": 1669375194,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 277809,
+        "num": 213882,
+        "word": "命韵峋环今天都穿了黑西装",
+        "onboard_time": 1669373270,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 271096,
+        "num": 211817,
+        "word": "柯南2023年剧场版海报",
+        "onboard_time": 1669375795,
+        "rank": 33,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 263381,
+        "num": 210173,
+        "word": "李明德要求公司正面回答问题",
+        "onboard_time": 1669373751,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257628,
+        "num": 209093,
+        "word": "吴亦凡获刑13年附加驱逐出境",
+        "onboard_time": 1669362977,
+        "rank": 35,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 207055,
+        "num": 207055,
+        "word": "新疆一高层住宅楼火灾致10人死亡",
+        "onboard_time": 1669334856,
+        "rank": 36,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 204745,
+        "num": 204745,
+        "word": "个人养老金",
+        "onboard_time": 1669360835,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203941,
+        "num": 203941,
+        "word": "男子顺路载女友回老家索要路费",
+        "onboard_time": 1669366263,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203443,
+        "num": 203443,
+        "word": "卡塔尔头上黑圈居然这样用",
+        "onboard_time": 1669365369,
+        "rank": 39,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 178696,
+        "num": 178696,
+        "word": "Faker或将加入LPL",
+        "onboard_time": 1669361375,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 178387,
+        "num": 178387,
+        "word": "男子在轿车门上写道歉信求原谅",
+        "onboard_time": 1669373033,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160679,
+        "num": 169301,
+        "word": "怎样的家是真正的智慧家",
+        "onboard_time": 1669375072,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164362,
+        "num": 164362,
+        "word": "南京辟谣将实施全城静默",
+        "onboard_time": 1669366743,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161806,
+        "num": 161806,
+        "word": "香饽饽的饽饽到底是个啥",
+        "onboard_time": 1669375555,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159635,
+        "num": 159635,
+        "word": "深夜看球吃泡面有多爽",
+        "onboard_time": 1669370458,
+        "rank": 45,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 147387,
+        "num": 147387,
+        "word": "南京疫情防控",
+        "onboard_time": 1669362035,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137354,
+        "num": 137354,
+        "word": "威尔士vs伊朗",
+        "onboard_time": 1669367587,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134702,
+        "num": 134702,
+        "word": "内马尔和球迷是双向奔赴吧",
+        "onboard_time": 1669375493,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134582,
+        "num": 134582,
+        "word": "无糖奶茶为什么是高热量饮品",
+        "onboard_time": 1669376033,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#扎实推进能源绿色低碳转型#"
+    }
+  }
+}
