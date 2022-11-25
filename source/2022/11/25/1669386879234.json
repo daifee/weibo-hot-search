@@ -1,0 +1,410 @@
+{
+  "runTime": 1669386879234,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3976314,
+        "num": 3976314,
+        "word": "汤唯获青龙奖影后",
+        "onboard_time": 1669384808,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1508893,
+        "num": 1508893,
+        "word": "少爷和我",
+        "onboard_time": 1669381311,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134905,
+        "num": 1260140,
+        "word": "来自中国空间站的出差邀请",
+        "onboard_time": 1669381789,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1184961,
+        "num": 1184961,
+        "word": "夫妻洗澡去世留下8个孩子最新后续",
+        "onboard_time": 1669372614,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 968298,
+        "num": 968298,
+        "word": "鞠婧祎恋爱告急全开麦舞台",
+        "onboard_time": 1669381431,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 828472,
+        "num": 828472,
+        "word": "卡塔尔vs塞内加尔",
+        "onboard_time": 1669379156,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 655230,
+        "num": 655230,
+        "word": "男孩说中国队去踢死他们爸爸无言以对",
+        "onboard_time": 1669379755,
+        "rank": 6,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 625054,
+        "num": 625054,
+        "word": "伊朗球员庆祝绝杀掐主教练脖子",
+        "onboard_time": 1669382519,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 582307,
+        "num": 582307,
+        "word": "什么是聚众淫乱罪",
+        "onboard_time": 1669374052,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 513203,
+        "num": 513203,
+        "word": "吹风机放床上引燃被褥烧了家",
+        "onboard_time": 1669382338,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1493356,
+        "num": 510675,
+        "word": "吴亦凡强奸聚众淫乱案细节披露",
+        "onboard_time": 1669364253,
+        "rank": 10,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 711426,
+        "num": 494789,
+        "word": "吴亦凡偷税手法曝光",
+        "onboard_time": 1669368665,
+        "rank": 11,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 657561,
+        "num": 471855,
+        "word": "张艺兴说一定会上岸",
+        "onboard_time": 1669386363,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 419873,
+        "num": 419873,
+        "word": "卡塔尔半场0比1塞内加尔",
+        "onboard_time": 1669385344,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 383930,
+        "num": 383930,
+        "word": "29岁男子为考央美复读10年",
+        "onboard_time": 1669384031,
+        "rank": 14,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 358745,
+        "num": 358745,
+        "word": "塞内加尔进球",
+        "onboard_time": 1669384511,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 353953,
+        "num": 353953,
+        "word": "广州没有静默的安排",
+        "onboard_time": 1669372491,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333486,
+        "num": 333486,
+        "word": "哈尔滨疫情防控",
+        "onboard_time": 1669377413,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317696,
+        "num": 317696,
+        "word": "为爱冲锋的勇士是场闹剧",
+        "onboard_time": 1669384688,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313042,
+        "num": 313042,
+        "word": "外交部回应英政府停用中国产摄像头",
+        "onboard_time": 1669384688,
+        "rank": 19,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 581101,
+        "num": 311994,
+        "word": "胡锡进",
+        "onboard_time": 1669377532,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 485957,
+        "num": 298436,
+        "word": "乌鲁木齐住宅楼火灾疑因插线板着火引发",
+        "onboard_time": 1669355497,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 471626,
+        "num": 295482,
+        "word": "原来刘波失忆了",
+        "onboard_time": 1669382645,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 435878,
+        "num": 285961,
+        "word": "吴永秀因涉嫌强制猥亵被起诉",
+        "onboard_time": 1669384688,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 413672,
+        "num": 280187,
+        "word": "马嘉祺说会坚持组合优先",
+        "onboard_time": 1669386065,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 276142,
+        "num": 276142,
+        "word": "本届世界杯第一张红牌",
+        "onboard_time": 1669378145,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 274254,
+        "num": 274254,
+        "word": "新疆一高层住宅楼火灾致10人死亡",
+        "onboard_time": 1669334856,
+        "rank": 26,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 252841,
+        "num": 252841,
+        "word": "裁判 不给点球",
+        "onboard_time": 1669385942,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 245935,
+        "num": 245935,
+        "word": "威尔士0比2伊朗",
+        "onboard_time": 1669378258,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 240803,
+        "num": 240803,
+        "word": "妻子回娘家丈夫喇叭广播还彩礼",
+        "onboard_time": 1669374414,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295584,
+        "num": 238511,
+        "word": "IU青龙奖红毯",
+        "onboard_time": 1669378201,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 290008,
+        "num": 238252,
+        "word": "百忧戒",
+        "onboard_time": 1669383365,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 278881,
+        "num": 234551,
+        "word": "朴海日获青龙奖影帝",
+        "onboard_time": 1669386789,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 261541,
+        "num": 231740,
+        "word": "吴亦凡偷逃税被追缴并罚款6亿元",
+        "onboard_time": 1669367043,
+        "rank": 33,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 231328,
+        "num": 231328,
+        "word": "卡塔尔解围失误",
+        "onboard_time": 1669384808,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 229361,
+        "num": 229361,
+        "word": "腿姐",
+        "onboard_time": 1669375072,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 211302,
+        "num": 211302,
+        "word": "现在瑜伽裤的模特是怎么回事",
+        "onboard_time": 1669386188,
+        "rank": 36,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 194608,
+        "num": 194608,
+        "word": "TES官宣Knight离队",
+        "onboard_time": 1669379336,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 192239,
+        "num": 192239,
+        "word": "你陷入过假性亲密关系吗",
+        "onboard_time": 1669368735,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 191975,
+        "num": 191975,
+        "word": "原来老年痴呆的世界是这样的",
+        "onboard_time": 1669379814,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 217262,
+        "num": 190411,
+        "word": "复活军团",
+        "onboard_time": 1669386128,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228424,
+        "num": 189762,
+        "word": "分手的决心青龙奖获最佳剧本奖",
+        "onboard_time": 1669386789,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 186152,
+        "num": 186152,
+        "word": "亚洲球队 牛",
+        "onboard_time": 1669379927,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175387,
+        "num": 175387,
+        "word": "卡塔尔后卫送大礼",
+        "onboard_time": 1669385763,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174535,
+        "num": 174535,
+        "word": "黄健翔说伊朗队配得上胜利",
+        "onboard_time": 1669386723,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171809,
+        "num": 171809,
+        "word": "沈阳疫情防控",
+        "onboard_time": 1669375795,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164148,
+        "num": 164148,
+        "word": "Meiko发文不参加全明星",
+        "onboard_time": 1669377831,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 228128,
+        "num": 163834,
+        "word": "朴赞郁青龙奖最佳导演",
+        "onboard_time": 1669386850,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 162103,
+        "num": 162103,
+        "word": "原神",
+        "onboard_time": 1669379273,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 154409,
+        "num": 154409,
+        "word": "老人让两只狗背菜被指虐待",
+        "onboard_time": 1669369385,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#正青春 再出发#"
+    }
+  }
+}

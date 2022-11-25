@@ -1,6 +1,6 @@
 {
   "startTime": 1669307280718,
-  "endTime": 1669385870871,
+  "endTime": 1669386879234,
   "band_list": [
     {
       "raw_hot": 36651023,
@@ -588,7 +588,7 @@
     },
     {
       "raw_hot": 681496,
-      "num": 555546,
+      "num": 582307,
       "word": "什么是聚众淫乱罪",
       "onboard_time": 1669374052,
       "rank": 18,
@@ -635,12 +635,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 657561,
+      "num": 471855,
+      "word": "张艺兴说一定会上岸",
+      "onboard_time": 1669386363,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 636366,
       "num": 636366,
       "word": "婆婆为省奶粉钱给一岁孙女炒面粉",
       "onboard_time": 1669302884,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 625054,
+      "num": 625054,
+      "word": "伊朗球员庆祝绝杀掐主教练脖子",
+      "onboard_time": 1669382519,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 613605,
@@ -851,6 +867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 513203,
+      "num": 513203,
+      "word": "吹风机放床上引燃被褥烧了家",
+      "onboard_time": 1669382338,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 513183,
       "num": 513183,
       "word": "不挣钱的人是没有话语权的",
@@ -1051,6 +1075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 435878,
+      "num": 285961,
+      "word": "吴永秀因涉嫌强制猥亵被起诉",
+      "onboard_time": 1669384688,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 435408,
       "num": 435408,
       "word": "内马尔曾与白血病小男孩的约定",
@@ -1065,14 +1097,6 @@
       "onboard_time": 1669347515,
       "rank": 14,
       "category": "影视"
-    },
-    {
-      "raw_hot": 427418,
-      "num": 427418,
-      "word": "伊朗球员庆祝绝杀掐主教练脖子",
-      "onboard_time": 1669382519,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 426679,
@@ -1099,14 +1123,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 422458,
-      "num": 422458,
-      "word": "吹风机放床上引燃被褥烧了家",
-      "onboard_time": 1669382338,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 421939,
       "num": 421939,
       "word": "葡萄牙半场0比0加纳",
@@ -1121,6 +1137,14 @@
       "onboard_time": 1669372791,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 419873,
+      "num": 419873,
+      "word": "卡塔尔半场0比1塞内加尔",
+      "onboard_time": 1669385344,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 419474,
@@ -1145,6 +1169,14 @@
       "onboard_time": 1669377413,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 413672,
+      "num": 280187,
+      "word": "马嘉祺说会坚持组合优先",
+      "onboard_time": 1669386065,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 412941,
@@ -1291,6 +1323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 383930,
+      "num": 383930,
+      "word": "29岁男子为考央美复读10年",
+      "onboard_time": 1669384031,
+      "rank": 28,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 383825,
       "num": 383825,
       "word": "C罗热身引全场球迷欢呼",
@@ -1304,14 +1344,6 @@
       "word": "C罗点球有多可怕",
       "onboard_time": 1669347634,
       "rank": 44,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 380969,
-      "num": 380969,
-      "word": "卡塔尔半场0比1塞内加尔",
-      "onboard_time": 1669385344,
-      "rank": 14,
       "category": "体育"
     },
     {
@@ -1377,6 +1409,14 @@
       "onboard_time": 1669349739,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 358745,
+      "num": 358745,
+      "word": "塞内加尔进球",
+      "onboard_time": 1669384511,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 357811,
@@ -1475,14 +1515,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 332998,
-      "num": 332998,
-      "word": "塞内加尔进球",
-      "onboard_time": 1669384511,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 332970,
       "num": 184528,
       "word": "宋亚轩百忧戒舞台皮衣造型",
@@ -1539,6 +1571,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 317696,
+      "num": 317696,
+      "word": "为爱冲锋的勇士是场闹剧",
+      "onboard_time": 1669384688,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 313042,
+      "num": 313042,
+      "word": "外交部回应英政府停用中国产摄像头",
+      "onboard_time": 1669384688,
+      "rank": 47,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 312045,
       "num": 312045,
       "word": "妈妈下班8个月宝宝开心到脚丫跳舞",
@@ -1569,14 +1617,6 @@
       "onboard_time": 1669312519,
       "rank": 21,
       "category": "体育"
-    },
-    {
-      "raw_hot": 307155,
-      "num": 307155,
-      "word": "为爱冲锋的勇士是场闹剧",
-      "onboard_time": 1669384688,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 306760,
@@ -1699,6 +1739,14 @@
       "category": "幽默,体育"
     },
     {
+      "raw_hot": 278881,
+      "num": 234551,
+      "word": "朴海日获青龙奖影帝",
+      "onboard_time": 1669386789,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 278367,
       "num": 278367,
       "word": "女子做理疗被绑摇摆床扭成美人鱼",
@@ -1777,14 +1825,6 @@
       "onboard_time": 1669375795,
       "rank": 33,
       "category": "影视,动漫"
-    },
-    {
-      "raw_hot": 264798,
-      "num": 264798,
-      "word": "29岁男子为考央美复读10年",
-      "onboard_time": 1669384031,
-      "rank": 28,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 264721,
@@ -1872,6 +1912,14 @@
       "word": "内马尔伤势没有大碍",
       "onboard_time": 1669346251,
       "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 252841,
+      "num": 252841,
+      "word": "裁判 不给点球",
+      "onboard_time": 1669385942,
+      "rank": 27,
       "category": "体育"
     },
     {
@@ -2019,12 +2067,28 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 228424,
+      "num": 189762,
+      "word": "分手的决心青龙奖获最佳剧本奖",
+      "onboard_time": 1669386789,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 228420,
       "num": 228420,
       "word": "连生四女当事人说不知能否留住丈夫心",
       "onboard_time": 1669359575,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 228128,
+      "num": 163834,
+      "word": "朴赞郁青龙奖最佳导演",
+      "onboard_time": 1669386850,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 224877,
@@ -2091,12 +2155,12 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 217927,
-      "num": 217927,
-      "word": "吴永秀因涉嫌强制猥亵被起诉",
-      "onboard_time": 1669384688,
-      "rank": 35,
-      "category": "艺人"
+      "raw_hot": 217262,
+      "num": 190411,
+      "word": "复活军团",
+      "onboard_time": 1669386128,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 216465,
@@ -2121,6 +2185,14 @@
       "onboard_time": 1669289555,
       "rank": 31,
       "category": "游戏,美食"
+    },
+    {
+      "raw_hot": 211302,
+      "num": 211302,
+      "word": "现在瑜伽裤的模特是怎么回事",
+      "onboard_time": 1669386188,
+      "rank": 36,
+      "category": "其它"
     },
     {
       "raw_hot": 208075,
@@ -2435,12 +2507,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 175387,
+      "num": 175387,
+      "word": "卡塔尔后卫送大礼",
+      "onboard_time": 1669385763,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 175060,
       "num": 175060,
       "word": "蓝码人员可在绿码采样点采样",
       "onboard_time": 1669368128,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 174535,
+      "num": 174535,
+      "word": "黄健翔说伊朗队配得上胜利",
+      "onboard_time": 1669386723,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 172782,
@@ -2587,14 +2675,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 161514,
-      "num": 161514,
-      "word": "外交部回应英政府停用中国产摄像头",
-      "onboard_time": 1669384688,
-      "rank": 47,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 161452,
       "num": 161452,
       "word": "张艺兴清唱最长的电影",
@@ -2617,14 +2697,6 @@
       "onboard_time": 1669283973,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 159059,
-      "num": 159059,
-      "word": "卡塔尔后卫送大礼",
-      "onboard_time": 1669385763,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 157017,
