@@ -1,6 +1,6 @@
 {
   "startTime": 1668961718135,
-  "endTime": 1669393663708,
+  "endTime": 1669394816217,
   "band_list": [
     {
       "raw_hot": 36651023,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 13715986,
-      "num": 1183900,
+      "num": 1315353,
       "word": "乌鲁木齐1124火灾事故发布会",
       "onboard_time": 1669392051,
       "rank": 3,
@@ -337,6 +337,14 @@
       "onboard_time": 1669368665,
       "rank": 33,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 2681751,
+      "num": 2681751,
+      "word": "内马尔无缘小组赛剩余比赛",
+      "onboard_time": 1669391877,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 2651843,
@@ -979,14 +987,6 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 1457298,
-      "num": 1457298,
-      "word": "内马尔无缘小组赛剩余比赛",
-      "onboard_time": 1669391877,
-      "rank": 1,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1439608,
       "num": 1439608,
       "word": "白冰",
@@ -1131,6 +1131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1279420,
+      "num": 1279420,
+      "word": "广州没有静默的安排",
+      "onboard_time": 1669372491,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1279322,
       "num": 1279322,
       "word": "莫让赌球毁了年轻干部",
@@ -1145,6 +1153,14 @@
       "onboard_time": 1669363364,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1267848,
+      "num": 1267848,
+      "word": "北京加快集中隔离场所和方舱医院储备建设",
+      "onboard_time": 1669392233,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1264594,
@@ -1715,6 +1731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 938393,
+      "num": 938393,
+      "word": "王嘉尔泰国演唱会上座率",
+      "onboard_time": 1669392530,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 931426,
       "num": 931426,
       "word": "我儿子不同意这门亲事",
@@ -1816,14 +1840,6 @@
       "word": "13岁女孩全身颤抖向店员求助",
       "onboard_time": 1669047394,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 885973,
-      "num": 885973,
-      "word": "广州没有静默的安排",
-      "onboard_time": 1669372491,
-      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -3091,14 +3107,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 607347,
-      "num": 607347,
-      "word": "王嘉尔泰国演唱会上座率",
-      "onboard_time": 1669392530,
-      "rank": 12,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 605293,
       "num": 605293,
       "word": "长春疫情防控",
@@ -3971,6 +3979,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 508323,
+      "num": 508323,
+      "word": "英格兰vs美国",
+      "onboard_time": 1669363045,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 507398,
       "num": 507398,
       "word": "TES官宣Knight离队",
@@ -4219,14 +4235,6 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 481213,
-      "num": 481213,
-      "word": "北京加快集中隔离场所和方舱医院储备建设",
-      "onboard_time": 1669392233,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 480963,
       "num": 480963,
       "word": "陈飞宇张婧仪小学生行为日常",
@@ -4361,6 +4369,14 @@
       "onboard_time": 1669389193,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 469842,
+      "num": 469842,
+      "word": "现在瑜伽裤的模特是怎么回事",
+      "onboard_time": 1669386188,
+      "rank": 36,
+      "category": "其它"
     },
     {
       "raw_hot": 469746,
@@ -4929,14 +4945,6 @@
       "onboard_time": 1669024539,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 425994,
-      "num": 425994,
-      "word": "现在瑜伽裤的模特是怎么回事",
-      "onboard_time": 1669386188,
-      "rank": 36,
-      "category": "其它"
     },
     {
       "raw_hot": 425931,
@@ -6075,14 +6083,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 361515,
-      "num": 361515,
-      "word": "英格兰vs美国",
-      "onboard_time": 1669363045,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 360984,
       "num": 360984,
       "word": "郑恺苗苗首个合体综艺",
@@ -6209,6 +6209,14 @@
       "onboard_time": 1669099952,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 354867,
+      "num": 354867,
+      "word": "卡塔尔小王子又去现场了",
+      "onboard_time": 1669391637,
+      "rank": 38,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 354805,
@@ -6473,6 +6481,14 @@
       "onboard_time": 1669383483,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 342676,
+      "num": 275473,
+      "word": "吴亦凡被驱逐后10年不得入境",
+      "onboard_time": 1669394383,
+      "rank": 30,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 342412,
@@ -7265,6 +7281,14 @@
       "onboard_time": 1669206396,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 307669,
+      "num": 307669,
+      "word": "洒水车为避让3学生撞路边幼儿园围墙",
+      "onboard_time": 1669390680,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 307379,
@@ -8145,14 +8169,6 @@
       "onboard_time": 1669202432,
       "rank": 22,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 268248,
-      "num": 268248,
-      "word": "洒水车为避让3学生撞路边幼儿园围墙",
-      "onboard_time": 1669390680,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 267856,
@@ -9163,14 +9179,6 @@
       "category": "体育,音乐"
     },
     {
-      "raw_hot": 227161,
-      "num": 227161,
-      "word": "卡塔尔小王子又去现场了",
-      "onboard_time": 1669391637,
-      "rank": 38,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 226986,
       "num": 226986,
       "word": "高二男生十几秒救下坠楼幼童",
@@ -9715,6 +9723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 212380,
+      "num": 168135,
+      "word": "陈飞宇跳舞",
+      "onboard_time": 1669392352,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 212326,
       "num": 212326,
       "word": "加纳球员面对C罗做出siu",
@@ -9945,6 +9961,14 @@
       "onboard_time": 1669340253,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 205237,
+      "num": 165222,
+      "word": "陈卓璇奔跑吧舞蹈solo",
+      "onboard_time": 1669393789,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 204900,
@@ -11071,6 +11095,14 @@
       "num": 181072,
       "word": "梅西卡塔尔世界杯首球",
       "onboard_time": 1669113449,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 181040,
+      "num": 181040,
+      "word": "卡塔尔来到淘汰边缘",
+      "onboard_time": 1669394620,
       "rank": 37,
       "category": "体育"
     },
@@ -13555,6 +13587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119888,
+      "num": 154482,
+      "word": "年底最想收到的礼物",
+      "onboard_time": 1669390921,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 119814,
       "num": 119814,
       "word": "李白的诗有画面了",
@@ -13689,14 +13729,6 @@
       "onboard_time": 1669393552,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 116392,
-      "num": 154482,
-      "word": "年底最想收到的礼物",
-      "onboard_time": 1669390921,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 116269,

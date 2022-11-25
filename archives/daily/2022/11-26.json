@@ -1,14 +1,22 @@
 {
   "startTime": 1669393663708,
-  "endTime": 1669393663708,
+  "endTime": 1669394816217,
   "band_list": [
     {
       "raw_hot": 13715986,
-      "num": 1183900,
+      "num": 1315353,
       "word": "乌鲁木齐1124火灾事故发布会",
       "onboard_time": 1669392051,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2681751,
+      "num": 2681751,
+      "word": "内马尔无缘小组赛剩余比赛",
+      "onboard_time": 1669391877,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 2393102,
@@ -19,12 +27,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1457298,
-      "num": 1457298,
-      "word": "内马尔无缘小组赛剩余比赛",
-      "onboard_time": 1669391877,
-      "rank": 1,
-      "category": "体育"
+      "raw_hot": 1279420,
+      "num": 1279420,
+      "word": "广州没有静默的安排",
+      "onboard_time": 1669372491,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1267848,
+      "num": 1267848,
+      "word": "北京加快集中隔离场所和方舱医院储备建设",
+      "onboard_time": 1669392233,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1084040,
@@ -43,12 +59,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 885973,
-      "num": 885973,
-      "word": "广州没有静默的安排",
-      "onboard_time": 1669372491,
-      "rank": 6,
-      "category": "社会新闻"
+      "raw_hot": 938393,
+      "num": 938393,
+      "word": "王嘉尔泰国演唱会上座率",
+      "onboard_time": 1669392530,
+      "rank": 12,
+      "category": "音乐"
     },
     {
       "raw_hot": 767561,
@@ -91,14 +107,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 607347,
-      "num": 607347,
-      "word": "王嘉尔泰国演唱会上座率",
-      "onboard_time": 1669392530,
-      "rank": 12,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 520246,
       "num": 520246,
       "word": "北京WB",
@@ -107,20 +115,28 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 481213,
-      "num": 481213,
-      "word": "北京加快集中隔离场所和方舱医院储备建设",
-      "onboard_time": 1669392233,
-      "rank": 14,
-      "category": "社会新闻"
+      "raw_hot": 508323,
+      "num": 508323,
+      "word": "英格兰vs美国",
+      "onboard_time": 1669392289,
+      "rank": 26,
+      "category": "体育"
     },
     {
-      "raw_hot": 471636,
+      "raw_hot": 491908,
       "num": 400488,
       "word": "胡锡进",
       "onboard_time": 1669377532,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 469842,
+      "num": 469842,
+      "word": "现在瑜伽裤的模特是怎么回事",
+      "onboard_time": 1669386188,
+      "rank": 16,
+      "category": "其它"
     },
     {
       "raw_hot": 469700,
@@ -137,14 +153,6 @@
       "onboard_time": 1669389193,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 425994,
-      "num": 425994,
-      "word": "现在瑜伽裤的模特是怎么回事",
-      "onboard_time": 1669386188,
-      "rank": 16,
-      "category": "其它"
     },
     {
       "raw_hot": 425301,
@@ -203,16 +211,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 361515,
-      "num": 361515,
-      "word": "英格兰vs美国",
-      "onboard_time": 1669392289,
-      "rank": 26,
-      "category": "体育"
+      "raw_hot": 354867,
+      "num": 354867,
+      "word": "卡塔尔小王子又去现场了",
+      "onboard_time": 1669391637,
+      "rank": 38,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 353758,
-      "num": 294446,
+      "num": 322068,
       "word": "吴亦凡偷税手法曝光",
       "onboard_time": 1669368665,
       "rank": 30,
@@ -243,12 +251,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 342676,
+      "num": 275473,
+      "word": "吴亦凡被驱逐后10年不得入境",
+      "onboard_time": 1669394383,
+      "rank": 30,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 317259,
       "num": 317259,
       "word": "男孩说中国队去踢死他们爸爸无言以对",
       "onboard_time": 1669379755,
       "rank": 28,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 307669,
+      "num": 307669,
+      "word": "洒水车为避让3学生撞路边幼儿园围墙",
+      "onboard_time": 1669390680,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 303235,
@@ -264,14 +288,6 @@
       "word": "什么是聚众淫乱罪",
       "onboard_time": 1669374052,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 268248,
-      "num": 268248,
-      "word": "洒水车为避让3学生撞路边幼儿园围墙",
-      "onboard_time": 1669390680,
-      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -307,14 +323,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 227161,
-      "num": 227161,
-      "word": "卡塔尔小王子又去现场了",
-      "onboard_time": 1669391637,
-      "rank": 38,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 222169,
       "num": 222169,
       "word": "吹风机放床上引燃被褥烧了家",
@@ -323,12 +331,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 212380,
+      "num": 168135,
+      "word": "陈飞宇跳舞",
+      "onboard_time": 1669392352,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 212064,
       "num": 212064,
       "word": "时代少年团的获奖感言",
       "onboard_time": 1669390921,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 205237,
+      "num": 165222,
+      "word": "陈卓璇奔跑吧舞蹈solo",
+      "onboard_time": 1669393789,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 181040,
+      "num": 181040,
+      "word": "卡塔尔来到淘汰边缘",
+      "onboard_time": 1669394620,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 172641,
@@ -371,20 +403,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119888,
+      "num": 154482,
+      "word": "年底最想收到的礼物",
+      "onboard_time": 1669390921,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 116456,
       "num": 154535,
       "word": "怎么会有小猫咪这样睡觉",
       "onboard_time": 1669393552,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 116392,
-      "num": 154482,
-      "word": "年底最想收到的礼物",
-      "onboard_time": 1669390921,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 114124,
@@ -395,8 +427,16 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 110417,
+      "num": 110417,
+      "word": "TES官宣Knight离队",
+      "onboard_time": 1669379336,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 74027,
-      "num": 1266349,
+      "num": 1349638,
       "word": "来自中国空间站的出差邀请",
       "onboard_time": 1669381789,
       "rank": 2,
