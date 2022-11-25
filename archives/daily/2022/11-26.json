@@ -1,6 +1,6 @@
 {
   "startTime": 1669393663708,
-  "endTime": 1669415745676,
+  "endTime": 1669418386976,
   "band_list": [
     {
       "raw_hot": 13715986,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1458970,
-      "num": 765609,
+      "num": 1111423,
       "word": "吴亦凡被驱逐后10年不得入境",
       "onboard_time": 1669394383,
       "rank": 30,
@@ -81,6 +81,14 @@
       "onboard_time": 1669392530,
       "rank": 12,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 935897,
+      "num": 935897,
+      "word": "英格兰vs美国",
+      "onboard_time": 1669392289,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 767561,
@@ -139,14 +147,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 508323,
-      "num": 508323,
-      "word": "英格兰vs美国",
-      "onboard_time": 1669392289,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 491908,
       "num": 400488,
       "word": "胡锡进",
@@ -179,11 +179,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 461779,
+      "num": 461779,
+      "word": "英格兰美国赛果决定了足球称呼",
+      "onboard_time": 1669409233,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 460616,
-      "num": 407152,
+      "num": 408842,
       "word": "卡塔尔国王是不用自己走路的",
       "onboard_time": 1669395639,
       "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 432054,
+      "num": 432054,
+      "word": "荷兰vs厄瓜多尔",
+      "onboard_time": 1669391995,
+      "rank": 19,
       "category": "体育"
     },
     {
@@ -193,14 +209,6 @@
       "onboard_time": 1669389845,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 416126,
-      "num": 416126,
-      "word": "荷兰vs厄瓜多尔",
-      "onboard_time": 1669391995,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 413843,
@@ -233,14 +241,6 @@
       "onboard_time": 1669389067,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 372768,
-      "num": 372768,
-      "word": "英格兰美国赛果决定了足球称呼",
-      "onboard_time": 1669409233,
-      "rank": 10,
-      "category": "体育"
     },
     {
       "raw_hot": 365546,
@@ -379,6 +379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 209211,
+      "num": 209211,
+      "word": "外卖员贪小便宜多次偷拿外卖被抓",
+      "onboard_time": 1669415176,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 205237,
       "num": 165222,
       "word": "陈卓璇奔跑吧舞蹈solo",
@@ -411,6 +419,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 174389,
+      "num": 174389,
+      "word": "荷兰1比1厄瓜多尔",
+      "onboard_time": 1669418005,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 172641,
       "num": 172641,
       "word": "哈尔滨疫情防控",
@@ -425,6 +441,14 @@
       "onboard_time": 1669384031,
       "rank": 43,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 155331,
+      "num": 155331,
+      "word": "英格兰0比0美国",
+      "onboard_time": 1669418126,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 154710,
@@ -443,19 +467,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 148462,
+      "num": 148462,
+      "word": "卡塔尔提前小组出局",
+      "onboard_time": 1669400422,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 133100,
       "num": 154633,
       "word": "裁判 不给点球",
       "onboard_time": 1669385942,
       "rank": 46,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 131184,
-      "num": 131184,
-      "word": "卡塔尔提前小组出局",
-      "onboard_time": 1669400422,
-      "rank": 30,
       "category": "体育"
     },
     {
@@ -491,6 +515,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 114639,
+      "num": 114639,
+      "word": "英美大战平局收场",
+      "onboard_time": 1669418126,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 114124,
       "num": 154417,
       "word": "四舍五入也算出国游了",
@@ -499,12 +531,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 110828,
+      "num": 110828,
+      "word": "北京疫情新增病例持续高位增长",
+      "onboard_time": 1669399823,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 110417,
       "num": 110417,
       "word": "TES官宣Knight离队",
       "onboard_time": 1669379336,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 107957,
+      "num": 107957,
+      "word": "小伙为了免费约美女被骗22万",
+      "onboard_time": 1669405995,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 106513,
@@ -555,14 +603,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 70853,
-      "num": 70853,
-      "word": "北京疫情新增病例持续高位增长",
-      "onboard_time": 1669399823,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 64705,
       "num": 84947,
       "word": "足坛里的那些意难平",
@@ -595,14 +635,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 58370,
-      "num": 58370,
-      "word": "小伙为了免费约美女被骗22万",
-      "onboard_time": 1669405995,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 44882,
       "num": 44882,
       "word": "当你的好朋友在一起了是什么体验",
@@ -633,14 +665,6 @@
       "onboard_time": 1669404135,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 25312,
-      "num": 25312,
-      "word": "外卖员贪小便宜多次偷拿外卖被抓",
-      "onboard_time": 1669415176,
-      "rank": 43,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/01 00:36:21 ~ 2022/11/26 06:35:45
+本榜单时间：2022/11/01 00:36:21 ~ 2022/11/26 07:19:46
 </p>
 </blockquote>
 <p>
@@ -4323,6 +4323,12 @@ C罗世界杯首秀（热度：939263）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E6%A0%BC%E5%85%B0vs%E7%BE%8E%E5%9B%BD%23" target="weibo">
+英格兰vs美国（热度：935897）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E9%B9%B0%E5%A5%96%23" target="weibo">
 金鹰奖（热度：935001）
 </a>
@@ -6005,12 +6011,6 @@ JDG官宣Yagao成为自由人（热度：745839）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E6%AC%A7%E9%98%B3%E5%A8%9C%E5%A8%9C%E5%BE%90%E7%92%90%E4%BB%8A%E6%97%A5%E8%90%A5%E4%B8%9A%E7%85%A7%23" target="weibo">
 虞书欣欧阳娜娜徐璐今日营业照（热度：745658）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E8%E4%B8%AA%E5%8C%BA%E5%85%A8%E9%9D%A2%E5%81%9C%E8%AF%BE%23" target="weibo">
-广州8个区全面停课（热度：745170）
 </a>
 </li>
 
