@@ -1,6 +1,6 @@
 {
   "startTime": 1668961718135,
-  "endTime": 1669411046527,
+  "endTime": 1669412011291,
   "band_list": [
     {
       "raw_hot": 36651023,
@@ -6547,6 +6547,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 340770,
+      "num": 340770,
+      "word": "英格兰美国赛果决定了足球称呼",
+      "onboard_time": 1669409233,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 340584,
       "num": 340584,
       "word": "张若昀大侦探8路透",
@@ -8856,14 +8864,6 @@
       "word": "本届世界杯第4场0比0",
       "onboard_time": 1669303127,
       "rank": 32,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 240376,
-      "num": 93969,
-      "word": "英格兰美国赛果决定了足球称呼",
-      "onboard_time": 1669409233,
-      "rank": 10,
       "category": "体育"
     },
     {
@@ -13555,6 +13555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 122105,
+      "num": 122105,
+      "word": "英格兰vs美国首发",
+      "onboard_time": 1669408394,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121811,
       "num": 121811,
       "word": "如果有来生我还要搞导弹",
@@ -13713,14 +13721,6 @@
       "onboard_time": 1669174412,
       "rank": 48,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 117429,
-      "num": 117429,
-      "word": "英格兰vs美国首发",
-      "onboard_time": 1669408394,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 117116,
@@ -15059,6 +15059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 31201,
+      "num": 31201,
+      "word": "娱乐圈里那些撞脸的艺人",
+      "onboard_time": 1669406235,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 30995,
       "num": 64830,
       "word": "柯南柯学名场面",
@@ -15161,14 +15169,6 @@
       "onboard_time": 1669329077,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 23071,
-      "num": 23071,
-      "word": "娱乐圈里那些撞脸的艺人",
-      "onboard_time": 1669406235,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 21288,

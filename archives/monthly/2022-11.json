@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1669411046527,
+  "endTime": 1669412011291,
   "band_list": [
     {
       "raw_hot": 36651023,
@@ -22419,6 +22419,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 340770,
+      "num": 340770,
+      "word": "英格兰美国赛果决定了足球称呼",
+      "onboard_time": 1669409233,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 340761,
       "num": 340761,
       "word": "黑洞king",
@@ -30416,14 +30424,6 @@
       "word": "本届世界杯第4场0比0",
       "onboard_time": 1669303127,
       "rank": 32,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 240376,
-      "num": 93969,
-      "word": "英格兰美国赛果决定了足球称呼",
-      "onboard_time": 1669409233,
-      "rank": 10,
       "category": "体育"
     },
     {
@@ -47491,6 +47491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 122105,
+      "num": 122105,
+      "word": "英格兰vs美国首发",
+      "onboard_time": 1669408394,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 122101,
       "num": 115735,
       "word": "这个村是现实版千里江山图吧",
@@ -48241,14 +48249,6 @@
       "onboard_time": 1668845787,
       "rank": 42,
       "category": "影视,动漫"
-    },
-    {
-      "raw_hot": 117429,
-      "num": 117429,
-      "word": "英格兰vs美国首发",
-      "onboard_time": 1669408394,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 117297,
@@ -56571,6 +56571,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 31201,
+      "num": 31201,
+      "word": "娱乐圈里那些撞脸的艺人",
+      "onboard_time": 1669406235,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 31142,
       "num": 31142,
       "word": "11月第一天",
@@ -56881,14 +56889,6 @@
       "onboard_time": 1668502830,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 23071,
-      "num": 23071,
-      "word": "娱乐圈里那些撞脸的艺人",
-      "onboard_time": 1669406235,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 23068,

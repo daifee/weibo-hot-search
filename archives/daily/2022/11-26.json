@@ -1,6 +1,6 @@
 {
   "startTime": 1669393663708,
-  "endTime": 1669411046527,
+  "endTime": 1669412011291,
   "band_list": [
     {
       "raw_hot": 13715986,
@@ -275,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 340770,
+      "num": 340770,
+      "word": "英格兰美国赛果决定了足球称呼",
+      "onboard_time": 1669409233,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 317259,
       "num": 317259,
       "word": "男孩说中国队去踢死他们爸爸无言以对",
@@ -329,14 +337,6 @@
       "onboard_time": 1669355497,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 240376,
-      "num": 93969,
-      "word": "英格兰美国赛果决定了足球称呼",
-      "onboard_time": 1669409233,
-      "rank": 10,
-      "category": "体育"
     },
     {
       "raw_hot": 237999,
@@ -459,20 +459,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 122105,
+      "num": 122105,
+      "word": "英格兰vs美国首发",
+      "onboard_time": 1669408394,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 119971,
       "num": 154482,
       "word": "年底最想收到的礼物",
       "onboard_time": 1669390921,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 117429,
-      "num": 117429,
-      "word": "英格兰vs美国首发",
-      "onboard_time": 1669408394,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 116606,
@@ -611,6 +611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 31201,
+      "num": 31201,
+      "word": "娱乐圈里那些撞脸的艺人",
+      "onboard_time": 1669406235,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 29002,
       "num": 29002,
       "word": "女子夜晚狗拉雪橇式遛7只哈士奇",
@@ -625,14 +633,6 @@
       "onboard_time": 1669404135,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 23071,
-      "num": 23071,
-      "word": "娱乐圈里那些撞脸的艺人",
-      "onboard_time": 1669406235,
-      "rank": 42,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
