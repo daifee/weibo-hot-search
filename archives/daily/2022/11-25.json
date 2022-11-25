@@ -1,6 +1,6 @@
 {
   "startTime": 1669307280718,
-  "endTime": 1669360658179,
+  "endTime": 1669361610859,
   "band_list": [
     {
       "raw_hot": 5705509,
@@ -147,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1264050,
+      "num": 1264050,
+      "word": "当卡塔尔小王子摘掉头巾后",
+      "onboard_time": 1669355856,
+      "rank": 19,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 1245113,
       "num": 1245113,
       "word": "C罗点球破门",
@@ -209,14 +217,6 @@
       "onboard_time": 1669312825,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 911694,
-      "num": 911694,
-      "word": "当卡塔尔小王子摘掉头巾后",
-      "onboard_time": 1669355856,
-      "rank": 19,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 893066,
@@ -331,6 +331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 730755,
+      "num": 730755,
+      "word": "百香果园里发现6只猴面鹰宝宝",
+      "onboard_time": 1669357774,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 712084,
       "num": 712084,
       "word": "C罗帅的很直接",
@@ -401,14 +409,6 @@
       "onboard_time": 1669323674,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 591028,
-      "num": 591028,
-      "word": "百香果园里发现6只猴面鹰宝宝",
-      "onboard_time": 1669357774,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 583532,
@@ -595,6 +595,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 455273,
+      "num": 455273,
+      "word": "电话录音短信微信都是家暴证据",
+      "onboard_time": 1669359455,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 452092,
       "num": 452092,
       "word": "内马尔球衣被扒",
@@ -635,7 +643,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 431984,
+      "raw_hot": 441357,
       "num": 431984,
       "word": "于正说赵丽颖的戏肯定要看",
       "onboard_time": 1669357595,
@@ -769,6 +777,14 @@
       "onboard_time": 1669340496,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 377121,
+      "num": 377121,
+      "word": "Scout没去HLE",
+      "onboard_time": 1669359814,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 370671,
@@ -955,6 +971,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 281272,
+      "num": 281272,
+      "word": "成年人为啥有话不直说",
+      "onboard_time": 1669356156,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 280135,
       "num": 280135,
       "word": "年轻人在健一种很新的身",
@@ -979,6 +1003,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 277488,
+      "num": 277488,
+      "word": "王鹤棣的包包是个球鞋",
+      "onboard_time": 1669357774,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 277478,
       "num": 277478,
       "word": "威尔士",
@@ -992,6 +1024,14 @@
       "word": "加纳老六差点偷家",
       "onboard_time": 1669333350,
       "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 276714,
+      "num": 276714,
+      "word": "米卢说敢接手现在的国足",
+      "onboard_time": 1669356935,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -1011,12 +1051,20 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 264852,
-      "num": 248105,
-      "word": "王鹤棣的包包是个球鞋",
-      "onboard_time": 1669357774,
-      "rank": 23,
-      "category": "艺人"
+      "raw_hot": 264721,
+      "num": 264721,
+      "word": "SBS歌谣大战阵容",
+      "onboard_time": 1669358314,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 262657,
+      "num": 262657,
+      "word": "朝阳打歌中心",
+      "onboard_time": 1669360174,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 262318,
@@ -1033,14 +1081,6 @@
       "onboard_time": 1669338100,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 261631,
-      "num": 249167,
-      "word": "SBS歌谣大战阵容",
-      "onboard_time": 1669358314,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 255753,
@@ -1081,14 +1121,6 @@
       "onboard_time": 1669305870,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 249188,
-      "num": 249188,
-      "word": "成年人为啥有话不直说",
-      "onboard_time": 1669356156,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 248256,
@@ -1139,22 +1171,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 232361,
-      "num": 232361,
-      "word": "米卢说敢接手现在的国足",
-      "onboard_time": 1669356935,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 229633,
-      "num": 229633,
-      "word": "电话录音短信微信都是家暴证据",
-      "onboard_time": 1669359455,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 229190,
       "num": 229190,
       "word": "巴西vs塞尔维亚首发",
@@ -1177,6 +1193,14 @@
       "onboard_time": 1669332447,
       "rank": 26,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 228420,
+      "num": 228420,
+      "word": "连生四女当事人说不知能否留住丈夫心",
+      "onboard_time": 1669359575,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 224877,
@@ -1203,22 +1227,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 221948,
-      "num": 221948,
-      "word": "Scout没去HLE",
-      "onboard_time": 1669359814,
-      "rank": 25,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 220057,
-      "num": 172188,
-      "word": "朝阳打歌中心",
-      "onboard_time": 1669360174,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 219277,
       "num": 219277,
       "word": "乃万是懂修容的",
@@ -1227,12 +1235,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 219115,
+      "num": 219115,
+      "word": "郑秀妍唱中文版goldensky",
+      "onboard_time": 1669361134,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 218250,
       "num": 3309809,
       "word": "这回夸父追到了太阳",
       "onboard_time": 1669303779,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 214167,
+      "num": 214167,
+      "word": "个人养老金",
+      "onboard_time": 1669360835,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 212326,
@@ -1329,6 +1353,14 @@
       "onboard_time": 1669330945,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 201989,
+      "num": 136156,
+      "word": "于文文说自己被铁刘海封印了",
+      "onboard_time": 1669361435,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 199936,
@@ -1441,6 +1473,14 @@
       "onboard_time": 1669356035,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 181360,
+      "num": 181360,
+      "word": "女生溜冰被推倒缝针肇事者拒赔偿",
+      "onboard_time": 1669360174,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 180812,
@@ -1683,14 +1723,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 144469,
-      "num": 144469,
-      "word": "连生四女当事人说不知能否留住丈夫心",
-      "onboard_time": 1669359575,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 144074,
       "num": 144074,
       "word": "名侦探柯南是懂配乐的",
@@ -1747,6 +1779,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 136196,
+      "num": 136196,
+      "word": "猫咪关闹钟害主人睡过头迟到",
+      "onboard_time": 1669360901,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 134965,
+      "num": 134965,
+      "word": "Faker或将加入LPL",
+      "onboard_time": 1669361375,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 130997,
       "num": 130997,
       "word": "易烊千玺提名年度荣誉男演员",
@@ -1795,12 +1843,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 123281,
-      "num": 123281,
-      "word": "女生溜冰被推倒缝针肇事者拒赔偿",
-      "onboard_time": 1669360174,
-      "rank": 44,
-      "category": "社会新闻"
+      "raw_hot": 123946,
+      "num": 123946,
+      "word": "足球明星们的爱情有多甜",
+      "onboard_time": 1669361375,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 122937,
@@ -1817,6 +1865,14 @@
       "onboard_time": 1669297781,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 120255,
+      "num": 120255,
+      "word": "个人养老金制度启动",
+      "onboard_time": 1669361435,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 119500,
