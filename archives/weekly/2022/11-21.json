@@ -1,6 +1,6 @@
 {
   "startTime": 1668961718135,
-  "endTime": 1669386879234,
+  "endTime": 1669389620072,
   "band_list": [
     {
       "raw_hot": 36651023,
@@ -801,6 +801,14 @@
       "onboard_time": 1668986662,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1573562,
+      "num": 1573562,
+      "word": "卡塔尔终于进球了",
+      "onboard_time": 1669387811,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 1557080,
@@ -1667,6 +1675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 934451,
+      "num": 934451,
+      "word": "卡塔尔1比3塞内加尔",
+      "onboard_time": 1669389365,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 931426,
       "num": 931426,
       "word": "我儿子不同意这门亲事",
@@ -1803,6 +1819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 873751,
+      "num": 488251,
+      "word": "张艺兴说一定会上岸",
+      "onboard_time": 1669386363,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 872073,
       "num": 872073,
       "word": "日本足协正申请加入欧足联",
@@ -1857,6 +1881,14 @@
       "onboard_time": 1669131704,
       "rank": 7,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 852111,
+      "num": 852111,
+      "word": "分手的决心赢麻了",
+      "onboard_time": 1669388528,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 850411,
@@ -2307,6 +2339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 736229,
+      "num": 484013,
+      "word": "吴永秀因涉嫌强制猥亵被起诉",
+      "onboard_time": 1669384688,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 735756,
       "num": 735756,
       "word": "他叫C罗是有原因的",
@@ -2587,6 +2627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 670572,
+      "num": 479403,
+      "word": "外交部回应英政府停用中国产摄像头",
+      "onboard_time": 1669384688,
+      "rank": 47,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 670325,
       "num": 670325,
       "word": "命韵峋环",
@@ -2649,14 +2697,6 @@
       "onboard_time": 1669093360,
       "rank": 10,
       "category": "综艺,时尚"
-    },
-    {
-      "raw_hot": 657561,
-      "num": 471855,
-      "word": "张艺兴说一定会上岸",
-      "onboard_time": 1669386363,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 657059,
@@ -2729,6 +2769,14 @@
       "onboard_time": 1669121085,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 645169,
+      "num": 410943,
+      "word": "少爷和小姐",
+      "onboard_time": 1669387332,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 645128,
@@ -4251,6 +4299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 469746,
+      "num": 469746,
+      "word": "29岁男子为考央美复读10年",
+      "onboard_time": 1669384031,
+      "rank": 28,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 469167,
       "num": 405825,
       "word": "陈都灵新剧亲徐璐的手背",
@@ -4673,14 +4729,6 @@
       "onboard_time": 1669129969,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 435878,
-      "num": 285961,
-      "word": "吴永秀因涉嫌强制猥亵被起诉",
-      "onboard_time": 1669384688,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 435479,
@@ -5467,6 +5515,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 388282,
+      "num": 239557,
+      "word": "蒋龙 助演",
+      "onboard_time": 1669389067,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 387349,
       "num": 387349,
       "word": "英格兰队战伊朗前将单膝下跪",
@@ -5521,14 +5577,6 @@
       "onboard_time": 1669308089,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 383930,
-      "num": 383930,
-      "word": "29岁男子为考央美复读10年",
-      "onboard_time": 1669384031,
-      "rank": 28,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 383825,
@@ -5659,6 +5707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 374690,
+      "num": 236439,
+      "word": "财阀家的小儿子",
+      "onboard_time": 1669388829,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 374087,
       "num": 374087,
       "word": "法国vs澳大利亚",
@@ -5736,6 +5792,14 @@
       "word": "命韵峋环结婚证件照",
       "onboard_time": 1669212821,
       "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 371953,
+      "num": 236115,
+      "word": "赵丽颖新剧和王劲松演父女",
+      "onboard_time": 1669388284,
+      "rank": 32,
       "category": "影视"
     },
     {
@@ -6131,6 +6195,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 347791,
+      "num": 233559,
+      "word": "王源粉丝在谢幕时齐喊王源名字",
+      "onboard_time": 1669388465,
+      "rank": 33,
+      "category": "综艺,幽默"
+    },
+    {
       "raw_hot": 347302,
       "num": 347302,
       "word": "卿卿日常空镜有多美",
@@ -6480,6 +6552,14 @@
       "word": "打完二价四价还要打九价HPV疫苗吗",
       "onboard_time": 1669337018,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 334190,
+      "num": 334190,
+      "word": "为爱冲锋的勇士是场闹剧",
+      "onboard_time": 1669384688,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -6851,14 +6931,6 @@
       "category": "社会议题"
     },
     {
-      "raw_hot": 317696,
-      "num": 317696,
-      "word": "为爱冲锋的勇士是场闹剧",
-      "onboard_time": 1669384688,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 317178,
       "num": 181937,
       "word": "刘耀文参与时代少年团新歌词曲制作",
@@ -6945,14 +7017,6 @@
       "onboard_time": 1669028079,
       "rank": 15,
       "category": "影视"
-    },
-    {
-      "raw_hot": 313042,
-      "num": 313042,
-      "word": "外交部回应英政府停用中国产摄像头",
-      "onboard_time": 1669384688,
-      "rank": 47,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 312888,
@@ -7491,6 +7555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 287373,
+      "num": 287373,
+      "word": "裁判 不给点球",
+      "onboard_time": 1669385942,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 286248,
       "num": 286248,
       "word": "亚洲球队连胜阿根廷德国",
@@ -7537,6 +7609,14 @@
       "onboard_time": 1669173091,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 284758,
+      "num": 284758,
+      "word": "现在瑜伽裤的模特是怎么回事",
+      "onboard_time": 1669386188,
+      "rank": 36,
+      "category": "其它"
     },
     {
       "raw_hot": 284702,
@@ -8115,6 +8195,14 @@
       "category": "游戏,艺人"
     },
     {
+      "raw_hot": 261152,
+      "num": 231475,
+      "word": "外卖小哥遇事故怒喊我没时间我要工作",
+      "onboard_time": 1669388715,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 260796,
       "num": 243667,
       "word": "鹿晗将参与解说2场世界杯比赛",
@@ -8329,14 +8417,6 @@
       "onboard_time": 1669115673,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 252841,
-      "num": 252841,
-      "word": "裁判 不给点球",
-      "onboard_time": 1669385942,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 252722,
@@ -8667,6 +8747,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 239620,
+      "num": 239620,
+      "word": "北京WB",
+      "onboard_time": 1669388595,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 239474,
       "num": 239474,
       "word": "梅西说之后必须赢",
@@ -8857,6 +8945,14 @@
       "onboard_time": 1669284996,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 231184,
+      "num": 231184,
+      "word": "郑州疫情防控攻坚行动进行时",
+      "onboard_time": 1669388715,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 231038,
@@ -9523,6 +9619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 212846,
+      "num": 212846,
+      "word": "男孩央求后妈别离婚会帮忙带弟弟",
+      "onboard_time": 1669387568,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 212326,
       "num": 212326,
       "word": "加纳球员面对C罗做出siu",
@@ -9561,14 +9665,6 @@
       "onboard_time": 1669080753,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 211302,
-      "num": 211302,
-      "word": "现在瑜伽裤的模特是怎么回事",
-      "onboard_time": 1669386188,
-      "rank": 36,
-      "category": "其它"
     },
     {
       "raw_hot": 211057,
@@ -10507,6 +10603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 189087,
+      "num": 189087,
+      "word": "卡塔尔小王子",
+      "onboard_time": 1669389193,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 188969,
       "num": 188969,
       "word": "陈小纭郝葭人设",
@@ -11283,6 +11387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 170682,
+      "num": 170682,
+      "word": "调音师第一次后悔接了这活",
+      "onboard_time": 1669389006,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 170597,
       "num": 170597,
       "word": "WB状态",
@@ -11867,6 +11979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 154818,
+      "num": 148579,
+      "word": "东道主首球",
+      "onboard_time": 1669389603,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 154547,
       "num": 154547,
       "word": "这是C罗最后一届世界杯了",
@@ -12001,6 +12121,14 @@
       "onboard_time": 1669108712,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 150895,
+      "num": 150895,
+      "word": "原来树懒是这样睡觉的",
+      "onboard_time": 1669389484,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 150576,
@@ -12328,6 +12456,14 @@
       "word": "11月20日新增本土无症状24547例",
       "onboard_time": 1668997408,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 144456,
+      "num": 144456,
+      "word": "女子腹痛查出宫内宫外同时怀孕",
+      "onboard_time": 1669388164,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -14603,6 +14739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 33748,
+      "num": 177625,
+      "word": "如何轻松拥有智能家居",
+      "onboard_time": 1669388404,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30995,
       "num": 64830,
       "word": "柯南柯学名场面",
@@ -14665,6 +14809,14 @@
       "onboard_time": 1669028438,
       "rank": 14,
       "category": "美食"
+    },
+    {
+      "raw_hot": 25855,
+      "num": 474714,
+      "word": "空气和水也能定制了",
+      "onboard_time": 1669388404,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 25742,

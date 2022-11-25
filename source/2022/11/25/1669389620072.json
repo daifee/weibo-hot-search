@@ -1,0 +1,410 @@
+{
+  "runTime": 1669389620072,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2487414,
+        "num": 2487414,
+        "word": "汤唯获青龙奖影后",
+        "onboard_time": 1669384808,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1573562,
+        "num": 1573562,
+        "word": "卡塔尔终于进球了",
+        "onboard_time": 1669387811,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 84549,
+        "num": 1276596,
+        "word": "来自中国空间站的出差邀请",
+        "onboard_time": 1669381789,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1162542,
+        "num": 1162542,
+        "word": "少爷和我",
+        "onboard_time": 1669381311,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 956848,
+        "num": 956848,
+        "word": "夫妻洗澡去世留下8个孩子最新后续",
+        "onboard_time": 1669372614,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 934451,
+        "num": 934451,
+        "word": "卡塔尔1比3塞内加尔",
+        "onboard_time": 1669389365,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 852111,
+        "num": 852111,
+        "word": "分手的决心赢麻了",
+        "onboard_time": 1669388528,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 650420,
+        "num": 650420,
+        "word": "卡塔尔vs塞内加尔",
+        "onboard_time": 1669379156,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 588490,
+        "num": 588490,
+        "word": "伊朗球员庆祝绝杀掐主教练脖子",
+        "onboard_time": 1669382519,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 493294,
+        "num": 493294,
+        "word": "男孩说中国队去踢死他们爸爸无言以对",
+        "onboard_time": 1669379755,
+        "rank": 9,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 1243725,
+        "num": 491442,
+        "word": "吴亦凡强奸聚众淫乱案细节披露",
+        "onboard_time": 1669364253,
+        "rank": 10,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 873751,
+        "num": 488251,
+        "word": "张艺兴说一定会上岸",
+        "onboard_time": 1669386363,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 736229,
+        "num": 484013,
+        "word": "吴永秀因涉嫌强制猥亵被起诉",
+        "onboard_time": 1669384688,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 670572,
+        "num": 479403,
+        "word": "外交部回应英政府停用中国产摄像头",
+        "onboard_time": 1669384688,
+        "rank": 13,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 25855,
+        "num": 474714,
+        "word": "空气和水也能定制了",
+        "onboard_time": 1669388404,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 732726,
+        "num": 471571,
+        "word": "鞠婧祎恋爱告急全开麦舞台",
+        "onboard_time": 1669381431,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 469746,
+        "num": 469746,
+        "word": "29岁男子为考央美复读10年",
+        "onboard_time": 1669384031,
+        "rank": 16,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 439166,
+        "num": 439166,
+        "word": "广州没有静默的安排",
+        "onboard_time": 1669372491,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 427590,
+        "num": 427590,
+        "word": "什么是聚众淫乱罪",
+        "onboard_time": 1669374052,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 413231,
+        "num": 413231,
+        "word": "吹风机放床上引燃被褥烧了家",
+        "onboard_time": 1669382338,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 645169,
+        "num": 410943,
+        "word": "少爷和小姐",
+        "onboard_time": 1669387332,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 557578,
+        "num": 382051,
+        "word": "吴亦凡偷税手法曝光",
+        "onboard_time": 1669368665,
+        "rank": 21,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 539232,
+        "num": 371407,
+        "word": "胡锡进",
+        "onboard_time": 1669377532,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 414227,
+        "num": 349846,
+        "word": "乌鲁木齐住宅楼火灾疑因插线板着火引发",
+        "onboard_time": 1669355497,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334190,
+        "num": 334190,
+        "word": "为爱冲锋的勇士是场闹剧",
+        "onboard_time": 1669384688,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 376842,
+        "num": 332258,
+        "word": "新疆一高层住宅楼火灾致10人死亡",
+        "onboard_time": 1669334856,
+        "rank": 25,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 311846,
+        "num": 311846,
+        "word": "哈尔滨疫情防控",
+        "onboard_time": 1669377413,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287373,
+        "num": 287373,
+        "word": "裁判 不给点球",
+        "onboard_time": 1669385942,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 284758,
+        "num": 284758,
+        "word": "现在瑜伽裤的模特是怎么回事",
+        "onboard_time": 1669386188,
+        "rank": 28,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 239620,
+        "num": 239620,
+        "word": "北京WB",
+        "onboard_time": 1669388595,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 388282,
+        "num": 239557,
+        "word": "蒋龙 助演",
+        "onboard_time": 1669389067,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 374690,
+        "num": 236439,
+        "word": "财阀家的小儿子",
+        "onboard_time": 1669388829,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 371953,
+        "num": 236115,
+        "word": "赵丽颖新剧和王劲松演父女",
+        "onboard_time": 1669388284,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 347791,
+        "num": 233559,
+        "word": "王源粉丝在谢幕时齐喊王源名字",
+        "onboard_time": 1669388465,
+        "rank": 33,
+        "category": "综艺,幽默"
+      },
+      {
+        "raw_hot": 261152,
+        "num": 231475,
+        "word": "外卖小哥遇事故怒喊我没时间我要工作",
+        "onboard_time": 1669388715,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231184,
+        "num": 231184,
+        "word": "郑州疫情防控攻坚行动进行时",
+        "onboard_time": 1669388715,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212846,
+        "num": 212846,
+        "word": "男孩央求后妈别离婚会帮忙带弟弟",
+        "onboard_time": 1669387568,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189087,
+        "num": 189087,
+        "word": "卡塔尔小王子",
+        "onboard_time": 1669389193,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187616,
+        "num": 187616,
+        "word": "本届世界杯第一张红牌",
+        "onboard_time": 1669378145,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33748,
+        "num": 177625,
+        "word": "如何轻松拥有智能家居",
+        "onboard_time": 1669388404,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228615,
+        "num": 177009,
+        "word": "原来刘波失忆了",
+        "onboard_time": 1669382645,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219116,
+        "num": 176116,
+        "word": "马嘉祺说会坚持组合优先",
+        "onboard_time": 1669386065,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170682,
+        "num": 170682,
+        "word": "调音师第一次后悔接了这活",
+        "onboard_time": 1669389006,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 156384,
+        "num": 156384,
+        "word": "TES官宣Knight离队",
+        "onboard_time": 1669379336,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 151831,
+        "num": 151831,
+        "word": "威尔士0比2伊朗",
+        "onboard_time": 1669378258,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150895,
+        "num": 150895,
+        "word": "原来树懒是这样睡觉的",
+        "onboard_time": 1669389484,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 149691,
+        "num": 149691,
+        "word": "腿姐",
+        "onboard_time": 1669375072,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 154818,
+        "num": 148579,
+        "word": "东道主首球",
+        "onboard_time": 1669389603,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144456,
+        "num": 144456,
+        "word": "女子腹痛查出宫内宫外同时怀孕",
+        "onboard_time": 1669388164,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144202,
+        "num": 144202,
+        "word": "妻子回娘家丈夫喇叭广播还彩礼",
+        "onboard_time": 1669374414,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#扎实推进能源绿色低碳转型#"
+    }
+  }
+}
