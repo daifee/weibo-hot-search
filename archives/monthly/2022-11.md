@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/01 00:36:21 ~ 2022/11/25 14:25:46
+本榜单时间：2022/11/01 00:36:21 ~ 2022/11/25 14:41:30
 </p>
 </blockquote>
 <p>
@@ -5109,6 +5109,12 @@ cheerup 弃剧（热度：822139）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B9%8C%E9%B2%81%E6%9C%A8%E9%BD%90%E4%BD%8F%E5%AE%85%E6%A5%BC%E7%81%AB%E7%81%BE%E7%96%91%E5%9B%A0%E6%8F%92%E7%BA%BF%E6%9D%BF%E7%9D%80%E7%81%AB%E5%BC%95%E5%8F%91%23" target="weibo">
+乌鲁木齐住宅楼火灾疑因插线板着火引发（热度：814548）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%81%E6%B3%A2%E4%B8%80%E5%A4%AB%E5%A6%BB%E5%90%B5%E6%9E%B6%E8%B5%8C%E6%B0%94%E5%B0%86%E5%A9%B4%E5%84%BF%E7%8B%AC%E8%87%AA%E7%95%99%E5%AE%B6%E4%B8%AD%23" target="weibo">
 宁波一夫妻吵架赌气将婴儿独自留家中（热度：813535）
 </a>
@@ -6005,12 +6011,6 @@ iPhone15仅Pro的C口支持高速传输（热度：732221）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%91%E7%88%B7%E5%92%8C%E6%88%91%E5%90%B8%E8%A1%80%E9%AC%BC%E7%AF%87%23" target="weibo">
 少爷和我吸血鬼篇（热度：724831）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9C%88%E8%96%AA6000%E7%8C%AB%E4%BF%9D%E5%A7%86%E5%9B%9E%E5%BA%94%E8%B4%A8%E7%96%91%23" target="weibo">
-月薪6000猫保姆回应质疑（热度：724715）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1668961718135,
-  "endTime": 1669357546061,
+  "endTime": 1669358490269,
   "band_list": [
     {
       "raw_hot": 15128338,
@@ -1747,6 +1747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 814548,
+      "num": 410988,
+      "word": "乌鲁木齐住宅楼火灾疑因插线板着火引发",
+      "onboard_time": 1669355497,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 812890,
       "num": 225960,
       "word": "许半夏的事业心燃起来了",
@@ -3019,14 +3027,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 560948,
-      "num": 334691,
-      "word": "乌鲁木齐住宅楼火灾疑因插线板着火引发",
-      "onboard_time": 1669355497,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 560290,
       "num": 560290,
       "word": "妹妹误将火碱当冰糖冲给姐姐喝",
@@ -3057,6 +3057,14 @@
       "onboard_time": 1669112189,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 557220,
+      "num": 557220,
+      "word": "刘备扮演者孙彦军悼念李靖飞",
+      "onboard_time": 1669354597,
+      "rank": 12,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 556071,
@@ -3529,14 +3537,6 @@
       "onboard_time": 1669198532,
       "rank": 38,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 497633,
-      "num": 330156,
-      "word": "刘备扮演者孙彦军悼念李靖飞",
-      "onboard_time": 1669354597,
-      "rank": 12,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 497325,
@@ -4483,6 +4483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 412298,
+      "num": 412298,
+      "word": "HLE",
+      "onboard_time": 1669358073,
+      "rank": 9,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 411474,
       "num": 263733,
       "word": "湖南疾控专家解答蓝码相关问题",
@@ -4545,6 +4553,14 @@
       "onboard_time": 1669308570,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 409419,
+      "num": 409419,
+      "word": "宋小宝卡塔尔分宝",
+      "onboard_time": 1669355673,
+      "rank": 20,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 409189,
@@ -4889,14 +4905,6 @@
       "onboard_time": 1669308384,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 383150,
-      "num": 230072,
-      "word": "宋小宝卡塔尔分宝",
-      "onboard_time": 1669355673,
-      "rank": 20,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 382910,
@@ -5353,6 +5361,14 @@
       "onboard_time": 1669099952,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 354849,
+      "num": 354849,
+      "word": "当卡塔尔小王子摘掉头巾后",
+      "onboard_time": 1669355856,
+      "rank": 19,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 354805,
@@ -6411,6 +6427,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 304390,
+      "num": 237881,
+      "word": "于正说赵丽颖的戏肯定要看",
+      "onboard_time": 1669357595,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 303793,
       "num": 303793,
       "word": "被足球奇葩知识冷到了",
@@ -6473,6 +6497,14 @@
       "onboard_time": 1669043571,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 299951,
+      "num": 299951,
+      "word": "腾讯最大股东投资20年赚超7000倍",
+      "onboard_time": 1669356751,
+      "rank": 45,
+      "category": "科技"
     },
     {
       "raw_hot": 299708,
@@ -7155,6 +7187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 264852,
+      "num": 236954,
+      "word": "王鹤棣的包包是个球鞋",
+      "onboard_time": 1669357774,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 264253,
       "num": 1033514,
       "word": "世界杯中国小护旗手",
@@ -7683,6 +7723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 242620,
+      "num": 191160,
+      "word": "SBS歌谣大战阵容",
+      "onboard_time": 1669358314,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 241570,
       "num": 241570,
       "word": "马宁世界杯首秀",
@@ -7835,12 +7883,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 232238,
-      "num": 232238,
-      "word": "当卡塔尔小王子摘掉头巾后",
-      "onboard_time": 1669355856,
-      "rank": 19,
-      "category": "体育,社会新闻"
+      "raw_hot": 232474,
+      "num": 232474,
+      "word": "雪王就是街溜子代表吧",
+      "onboard_time": 1669354175,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 232182,
@@ -8507,14 +8555,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 211579,
-      "num": 211579,
-      "word": "雪王就是街溜子代表吧",
-      "onboard_time": 1669354175,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 211545,
       "num": 211545,
       "word": "阿凡达2水之道角色海报",
@@ -8913,6 +8953,14 @@
       "onboard_time": 1669344874,
       "rank": 38,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 199528,
+      "num": 199528,
+      "word": "HLE官宣Zeka加入",
+      "onboard_time": 1669358314,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 199008,
@@ -10091,6 +10139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 170829,
+      "num": 170829,
+      "word": "遇到老六连C罗都震惊了",
+      "onboard_time": 1669355856,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 170754,
       "num": 170754,
       "word": "C罗 直拍",
@@ -10192,14 +10248,6 @@
       "word": "卡塔尔全场0射正",
       "onboard_time": 1668994473,
       "rank": 42,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 168613,
-      "num": 168613,
-      "word": "遇到老六连C罗都震惊了",
-      "onboard_time": 1669355856,
-      "rank": 34,
       "category": "体育"
     },
     {
@@ -11075,6 +11123,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 144828,
+      "num": 144828,
+      "word": "成年人为啥有话不直说",
+      "onboard_time": 1669356156,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144640,
       "num": 144640,
       "word": "11月20日新增本土无症状24547例",
@@ -11289,6 +11345,14 @@
       "onboard_time": 1669032340,
       "rank": 40,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 138814,
+      "num": 138814,
+      "word": "百香果园里发现6只猴面鹰宝宝",
+      "onboard_time": 1669357774,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 138743,
@@ -11659,14 +11723,6 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 129228,
-      "num": 129228,
-      "word": "腾讯最大股东投资20年赚超7000倍",
-      "onboard_time": 1669356751,
-      "rank": 45,
-      "category": "科技"
-    },
-    {
       "raw_hot": 129154,
       "num": 129154,
       "word": "你认为下一个世界首富会是谁",
@@ -11889,6 +11945,14 @@
       "onboard_time": 1669086993,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 123082,
+      "num": 123082,
+      "word": "米卢说敢接手现在的国足",
+      "onboard_time": 1669356935,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 122937,
@@ -12177,14 +12241,6 @@
       "onboard_time": 1669109251,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 114917,
-      "num": 114917,
-      "word": "成年人为啥有话不直说",
-      "onboard_time": 1669356156,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 114732,
@@ -12688,14 +12744,6 @@
       "word": "水花连续三分终结比赛",
       "onboard_time": 1669000291,
       "rank": 49,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 97536,
-      "num": 97536,
-      "word": "米卢说敢接手现在的国足",
-      "onboard_time": 1669356935,
-      "rank": 47,
       "category": "体育"
     },
     {
