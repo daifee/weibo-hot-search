@@ -1,6 +1,6 @@
 {
   "startTime": 1669393663708,
-  "endTime": 1669414719306,
+  "endTime": 1669415745676,
   "band_list": [
     {
       "raw_hot": 13715986,
@@ -235,8 +235,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 371662,
-      "num": 371662,
+      "raw_hot": 372768,
+      "num": 372768,
       "word": "英格兰美国赛果决定了足球称呼",
       "onboard_time": 1669409233,
       "rank": 10,
@@ -595,8 +595,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 50738,
-      "num": 50738,
+      "raw_hot": 58370,
+      "num": 58370,
       "word": "小伙为了免费约美女被骗22万",
       "onboard_time": 1669405995,
       "rank": 31,
@@ -633,6 +633,14 @@
       "onboard_time": 1669404135,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 25312,
+      "num": 25312,
+      "word": "外卖员贪小便宜多次偷拿外卖被抓",
+      "onboard_time": 1669415176,
+      "rank": 43,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
