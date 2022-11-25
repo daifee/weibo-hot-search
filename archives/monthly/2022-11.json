@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1669382920401,
+  "endTime": 1669383601815,
   "band_list": [
     {
       "raw_hot": 36651023,
@@ -1507,6 +1507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1911523,
+      "num": 1911523,
+      "word": "少爷和我",
+      "onboard_time": 1668093208,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1911082,
       "num": 488626,
       "word": "赛琳娜回应捐肾好友取关",
@@ -2289,14 +2297,6 @@
       "onboard_time": 1667720186,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1593305,
-      "num": 1593305,
-      "word": "少爷和我",
-      "onboard_time": 1668093208,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 1592601,
@@ -4059,6 +4059,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1151021,
+      "num": 1151021,
+      "word": "鞠婧祎恋爱告急全开麦舞台",
+      "onboard_time": 1669381431,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1150744,
       "num": 384080,
       "word": "赛琳娜给新肾脏命名",
@@ -4177,14 +4185,6 @@
       "onboard_time": 1669018652,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1139680,
-      "num": 1139680,
-      "word": "鞠婧祎恋爱告急全开麦舞台",
-      "onboard_time": 1669381431,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 1139027,
@@ -6427,6 +6427,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 860055,
+      "num": 860055,
+      "word": "男孩说中国队去踢死他们爸爸无言以对",
+      "onboard_time": 1669379755,
+      "rank": 47,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 858169,
       "num": 858169,
       "word": "沙特 亚洲之光",
@@ -7545,14 +7553,6 @@
       "onboard_time": 1669039552,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 765207,
-      "num": 765207,
-      "word": "男孩说中国队去踢死他们爸爸无言以对",
-      "onboard_time": 1669379755,
-      "rank": 47,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 764379,
@@ -9409,6 +9409,14 @@
       "onboard_time": 1668430949,
       "rank": 26,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 659347,
+      "num": 575221,
+      "word": "原来刘波失忆了",
+      "onboard_time": 1669382645,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 658886,
@@ -11361,14 +11369,6 @@
       "onboard_time": 1669290037,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 575221,
-      "num": 575221,
-      "word": "原来刘波失忆了",
-      "onboard_time": 1669382645,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 574729,
@@ -21987,6 +21987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 342983,
+      "num": 300504,
+      "word": "时代少年团最佳组合",
+      "onboard_time": 1669383483,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 342921,
       "num": 310561,
       "word": "三轮司机抢行致公交乘客死亡被判刑",
@@ -25195,6 +25203,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 300324,
+      "num": 300324,
+      "word": "原来老年痴呆的世界是这样的",
+      "onboard_time": 1669379814,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 300323,
       "num": 300323,
       "word": "特斯拉股价跌回一年半前",
@@ -27211,6 +27227,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 275124,
+      "num": 275124,
+      "word": "百忧戒",
+      "onboard_time": 1669383365,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 274975,
       "num": 247388,
       "word": "卿卿日常是懂取名字的",
@@ -28595,6 +28619,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 258656,
+      "num": 258656,
+      "word": "90后女生翻唱世界杯主题曲走红",
+      "onboard_time": 1669382583,
+      "rank": 32,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 258585,
       "num": 205987,
       "word": "陈小春XLeader",
@@ -28643,20 +28675,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 258098,
+      "num": 242281,
+      "word": "东榜盛典首唱浓度好高",
+      "onboard_time": 1669383186,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 258052,
       "num": 258052,
       "word": "欧文得到NBA总裁谅解",
       "onboard_time": 1667960906,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 257988,
-      "num": 257988,
-      "word": "原来老年痴呆的世界是这样的",
-      "onboard_time": 1669379814,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 257817,
@@ -30137,14 +30169,6 @@
       "onboard_time": 1668386730,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 239523,
-      "num": 239523,
-      "word": "90后女生翻唱世界杯主题曲走红",
-      "onboard_time": 1669382583,
-      "rank": 32,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 239474,
@@ -32097,6 +32121,14 @@
       "onboard_time": 1669021654,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 221634,
+      "num": 221634,
+      "word": "张真源百忧戒全开麦",
+      "onboard_time": 1669383425,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 221465,
@@ -36659,6 +36691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 187530,
+      "num": 187530,
+      "word": "吹风机放床上引燃被褥烧了家",
+      "onboard_time": 1669382338,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187465,
       "num": 187465,
       "word": "李峋是朱韵人生的第一次冒险",
@@ -38139,6 +38179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 177314,
+      "num": 177314,
+      "word": "伊朗球员庆祝绝杀掐主教练脖子",
+      "onboard_time": 1669382519,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 177293,
       "num": 140380,
       "word": "NCTDREAM新歌Candy抢听",
@@ -38841,14 +38889,6 @@
       "onboard_time": 1669223121,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 171819,
-      "num": 171819,
-      "word": "吹风机放床上引燃被褥烧了家",
-      "onboard_time": 1669382338,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 171814,
@@ -41171,6 +41211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 156510,
+      "num": 156510,
+      "word": "打奶嗝的狗狗有多可爱",
+      "onboard_time": 1669383483,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 156452,
       "num": 156452,
       "word": "这是上大学还是上大班",
@@ -41249,6 +41297,14 @@
       "onboard_time": 1667222905,
       "rank": 48,
       "category": "科技"
+    },
+    {
+      "raw_hot": 155934,
+      "num": 155934,
+      "word": "这回体育老师成功扳回一局",
+      "onboard_time": 1669383247,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 155812,
@@ -41713,14 +41769,6 @@
       "onboard_time": 1668858691,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 152608,
-      "num": 152608,
-      "word": "伊朗球员庆祝绝杀掐主教练脖子",
-      "onboard_time": 1669382519,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 152580,
@@ -46627,6 +46675,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 124432,
+      "num": 1577453,
+      "word": "来自中国空间站的出差邀请",
+      "onboard_time": 1669381789,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 124392,
       "num": 97961,
       "word": "中国外交繁忙的一周释放哪些信号",
@@ -49761,14 +49817,6 @@
       "onboard_time": 1668612213,
       "rank": 46,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 103978,
-      "num": 1148016,
-      "word": "来自中国空间站的出差邀请",
-      "onboard_time": 1669381789,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 103848,

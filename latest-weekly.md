@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/21 00:28:38 ~ 2022/11/25 21:28:40
+本榜单时间：2022/11/21 00:28:38 ~ 2022/11/25 21:40:01
 </p>
 </blockquote>
 <p>
@@ -453,6 +453,12 @@ C罗进球被吹（热度：2899415）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%91%E7%88%B7%E5%92%8C%E6%88%91%23" target="weibo">
+少爷和我（热度：1911523）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%91%A1%E8%90%84%E7%89%99%20%E8%A3%81%E5%88%A4%23" target="weibo">
 葡萄牙 裁判（热度：1874619）
 </a>
@@ -581,12 +587,6 @@ HLE官宣Viper回归（热度：1645823）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A8%81%E5%B0%94%E5%A3%ABvs%E4%BC%8A%E6%9C%97%E5%8D%8A%E5%9C%BA0%E6%AF%940%23" target="weibo">
 威尔士vs伊朗半场0比0（热度：1602453）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%91%E7%88%B7%E5%92%8C%E6%88%91%23" target="weibo">
-少爷和我（热度：1593305）
 </a>
 </li>
 
@@ -963,6 +963,12 @@ meiko（热度：1182269）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%E6%81%8B%E7%88%B1%E5%91%8A%E6%80%A5%E5%85%A8%E5%BC%80%E9%BA%A6%E8%88%9E%E5%8F%B0%23" target="weibo">
+鞠婧祎恋爱告急全开麦舞台（热度：1151021）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%8C%E9%B2%81%E6%9C%A8%E9%BD%90%E4%BD%8F%E5%AE%85%E6%A5%BC%E7%81%AB%E7%81%BE%E7%96%91%E5%9B%A0%E6%8F%92%E7%BA%BF%E6%9D%BF%E7%9D%80%E7%81%AB%E5%BC%95%E5%8F%91%23" target="weibo">
 乌鲁木齐住宅楼火灾疑因插线板着火引发（热度：1147909）
 </a>
@@ -983,12 +989,6 @@ meiko（热度：1182269）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AC%A7%E9%98%B3%E5%A8%9C%E5%A8%9C%E5%93%81%E7%89%8C%E5%AE%9A%E4%BB%B7%23" target="weibo">
 欧阳娜娜品牌定价（热度：1139967）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%E6%81%8B%E7%88%B1%E5%91%8A%E6%80%A5%E5%85%A8%E5%BC%80%E9%BA%A6%E8%88%9E%E5%8F%B0%23" target="weibo">
-鞠婧祎恋爱告急全开麦舞台（热度：1139680）
 </a>
 </li>
 
@@ -1377,6 +1377,12 @@ C罗世界杯首秀（热度：939263）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E8%AF%B4%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%8E%BB%E8%B8%A2%E6%AD%BB%E4%BB%96%E4%BB%AC%E7%88%B8%E7%88%B8%E6%97%A0%E8%A8%80%E4%BB%A5%E5%AF%B9%23" target="weibo">
+男孩说中国队去踢死他们爸爸无言以对（热度：860055）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%99%E7%89%B9%20%E4%BA%9A%E6%B4%B2%E4%B9%8B%E5%85%89%23" target="weibo">
 沙特 亚洲之光（热度：858169）
 </a>
@@ -1595,12 +1601,6 @@ C罗屠榜（热度：772556）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BE%B1%E6%AF%8D%E6%A1%88%E5%BD%93%E4%BA%8B%E4%BA%BA%E4%BA%8E%E6%AC%A2%E7%8E%B0%E7%8A%B6%23" target="weibo">
 辱母案当事人于欢现状（热度：765240）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E8%AF%B4%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%8E%BB%E8%B8%A2%E6%AD%BB%E4%BB%96%E4%BB%AC%E7%88%B8%E7%88%B8%E6%97%A0%E8%A8%80%E4%BB%A5%E5%AF%B9%23" target="weibo">
-男孩说中国队去踢死他们爸爸无言以对（热度：765207）
 </a>
 </li>
 
@@ -1979,6 +1979,12 @@ EDG官宣Viper离队（热度：674610）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E5%AE%81%E5%A9%86%E5%A9%86%E8%B0%88%E5%90%B4%E4%BA%A6%E5%87%A1%E6%A1%88%E4%B8%80%E5%AE%A1%E5%AE%A3%E5%88%A4%23" target="weibo">
 江宁婆婆谈吴亦凡案一审宣判（热度：661021）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%88%98%E6%B3%A2%E5%A4%B1%E5%BF%86%E4%BA%86%23" target="weibo">
+原来刘波失忆了（热度：659347）
 </a>
 </li>
 
@@ -2393,12 +2399,6 @@ Doinb爆料EDG（热度：593647）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%85%AE%E5%A2%A8%E9%B1%BC%E6%B2%A1%E6%94%BE%E5%A2%A8%E6%B1%81%E4%BC%BC%E7%86%AC%E6%B2%A5%E9%9D%92%23" target="weibo">
 女子煮墨鱼没放墨汁似熬沥青（热度：575769）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%88%98%E6%B3%A2%E5%A4%B1%E5%BF%86%E4%BA%86%23" target="weibo">
-原来刘波失忆了（热度：575221）
 </a>
 </li>
 
@@ -4671,6 +4671,12 @@ C罗和内马尔今日首秀（热度：345868）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E6%9C%80%E4%BD%B3%E7%BB%84%E5%90%88%23" target="weibo">
+时代少年团最佳组合（热度：342983）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E4%BD%B3%E7%90%AA%E5%AE%98%E5%AE%A3%E5%B9%B4%E6%9C%AB%E4%B8%AA%E4%BA%BA%E4%BC%81%E5%88%92%23" target="weibo">
 许佳琪官宣年末个人企划（热度：342412）
 </a>
@@ -5367,6 +5373,12 @@ C罗卡塔尔世界杯首秀（热度：302506）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E8%80%81%E5%B9%B4%E7%97%B4%E5%91%86%E7%9A%84%E4%B8%96%E7%95%8C%E6%98%AF%E8%BF%99%E6%A0%B7%E7%9A%84%23" target="weibo">
+原来老年痴呆的世界是这样的（热度：300324）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%AE%88%E9%97%A8%E5%91%98%23" target="weibo">
 伊朗守门员（热度：300306）
 </a>
@@ -5805,6 +5817,12 @@ Ming不参加全明星（热度：282932）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%99%BE%E5%BF%A7%E6%88%92%23" target="weibo">
+百忧戒（热度：275124）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%BF%E5%8D%BF%E6%97%A5%E5%B8%B8%E6%98%AF%E6%87%82%E5%8F%96%E5%90%8D%E5%AD%97%E7%9A%84%23" target="weibo">
 卿卿日常是懂取名字的（热度：274975）
 </a>
@@ -6057,6 +6075,12 @@ SBS歌谣大战阵容（热度：264721）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2390%E5%90%8E%E5%A5%B3%E7%94%9F%E7%BF%BB%E5%94%B1%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%BB%E9%A2%98%E6%9B%B2%E8%B5%B0%E7%BA%A2%23" target="weibo">
+90后女生翻唱世界杯主题曲走红（热度：258656）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%A0%B9%E5%BB%B7vs%E6%B2%99%E7%89%B9%E9%A6%96%E5%8F%91%E5%87%BA%E7%82%89%23" target="weibo">
 阿根廷vs沙特首发出炉（热度：258452）
 </a>
@@ -6069,8 +6093,8 @@ SBS歌谣大战阵容（热度：264721）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E8%80%81%E5%B9%B4%E7%97%B4%E5%91%86%E7%9A%84%E4%B8%96%E7%95%8C%E6%98%AF%E8%BF%99%E6%A0%B7%E7%9A%84%23" target="weibo">
-原来老年痴呆的世界是这样的（热度：257988）
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E6%A6%9C%E7%9B%9B%E5%85%B8%E9%A6%96%E5%94%B1%E6%B5%93%E5%BA%A6%E5%A5%BD%E9%AB%98%23" target="weibo">
+东榜盛典首唱浓度好高（热度：258098）
 </a>
 </li>
 
@@ -6405,12 +6429,6 @@ iPhone15明年全系采用USBC接口（热度：247665）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%2390%E5%90%8E%E5%A5%B3%E7%94%9F%E7%BF%BB%E5%94%B1%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%BB%E9%A2%98%E6%9B%B2%E8%B5%B0%E7%BA%A2%23" target="weibo">
-90后女生翻唱世界杯主题曲走红（热度：239523）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E8%AF%B4%E4%B9%8B%E5%90%8E%E5%BF%85%E9%A1%BB%E8%B5%A2%23" target="weibo">
 梅西说之后必须赢（热度：239474）
 </a>
@@ -6731,6 +6749,12 @@ JDG与Homme续约（热度：225650）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%A7%81%E9%B8%BF%E6%95%85%E6%84%8F%E6%BF%80%E6%80%92%E6%9D%8E%E5%B3%8B%23" target="weibo">
 高见鸿故意激怒李峋（热度：221782）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%9C%9F%E6%BA%90%E7%99%BE%E5%BF%A7%E6%88%92%E5%85%A8%E5%BC%80%E9%BA%A6%23" target="weibo">
+张真源百忧戒全开麦（热度：221634）
 </a>
 </li>
 
@@ -7791,6 +7815,12 @@ U21日本2比1葡萄牙（热度：190137）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%B9%E9%A3%8E%E6%9C%BA%E6%94%BE%E5%BA%8A%E4%B8%8A%E5%BC%95%E7%87%83%E8%A2%AB%E8%A4%A5%E7%83%A7%E4%BA%86%E5%AE%B6%23" target="weibo">
+吹风机放床上引燃被褥烧了家（热度：187530）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%A0%A1%E9%A3%9F%E5%A0%82%E5%A4%A7%E5%B1%8F%E6%94%BE%E4%B8%96%E7%95%8C%E6%9D%AF%E5%AD%A6%E7%94%9F%E7%88%86%E6%BB%A1%23" target="weibo">
 高校食堂大屏放世界杯学生爆满（热度：187355）
 </a>
@@ -8139,6 +8169,12 @@ GQ红毯真人秀阵容公开（热度：180924）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%90%83%E5%91%98%E5%BA%86%E7%A5%9D%E7%BB%9D%E6%9D%80%E6%8E%90%E4%B8%BB%E6%95%99%E7%BB%83%E8%84%96%E5%AD%90%23" target="weibo">
+伊朗球员庆祝绝杀掐主教练脖子（热度：177314）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF%E5%91%8A%E8%AF%89%E5%A6%88%E5%A6%88%E7%8F%AD%E4%B8%8A%E7%94%B7%E7%94%9F%E6%83%B3%E8%B7%9F%E5%A5%B9%E7%BB%93%E5%A9%9A%23" target="weibo">
 女儿告诉妈妈班上男生想跟她结婚（热度：177231）
 </a>
@@ -8267,12 +8303,6 @@ iOS16锁屏通知引入三种显示方式（热度：175132）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%B7%E5%9B%BD%E9%98%9F%E6%8E%A7%E7%90%83%E7%8E%87%23" target="weibo">
 德国队控球率（热度：172001）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%B9%E9%A3%8E%E6%9C%BA%E6%94%BE%E5%BA%8A%E4%B8%8A%E5%BC%95%E7%87%83%E8%A2%AB%E8%A4%A5%E7%83%A7%E4%BA%86%E5%AE%B6%23" target="weibo">
-吹风机放床上引燃被褥烧了家（热度：171819）
 </a>
 </li>
 
@@ -8721,6 +8751,12 @@ GEN与Peanut续约（热度：162895）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%89%93%E5%A5%B6%E5%97%9D%E7%9A%84%E7%8B%97%E7%8B%97%E6%9C%89%E5%A4%9A%E5%8F%AF%E7%88%B1%23" target="weibo">
+打奶嗝的狗狗有多可爱（热度：156510）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23RedVelvet%E6%96%B0%E4%B8%93%E8%BE%91%E9%85%8D%E7%BD%AE%23" target="weibo">
 RedVelvet新专辑配置（热度：156308）
 </a>
@@ -8729,6 +8765,12 @@ RedVelvet新专辑配置（热度：156308）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23P%E5%9E%8B%E8%A1%80%E7%94%B7%E5%AD%90%E9%A9%B1%E8%BD%A6200%E5%85%AC%E9%87%8C%E6%95%914%E5%B2%81%E7%94%B7%E7%AB%A5%23" target="weibo">
 P型血男子驱车200公里救4岁男童（热度：156154）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%9B%9E%E4%BD%93%E8%82%B2%E8%80%81%E5%B8%88%E6%88%90%E5%8A%9F%E6%89%B3%E5%9B%9E%E4%B8%80%E5%B1%80%23" target="weibo">
+这回体育老师成功扳回一局（热度：155934）
 </a>
 </li>
 
@@ -8813,12 +8855,6 @@ C罗好自律（热度：155102）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B3%A8%E4%BC%9A%23" target="weibo">
 注会（热度：152708）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%90%83%E5%91%98%E5%BA%86%E7%A5%9D%E7%BB%9D%E6%9D%80%E6%8E%90%E4%B8%BB%E6%95%99%E7%BB%83%E8%84%96%E5%AD%90%23" target="weibo">
-伊朗球员庆祝绝杀掐主教练脖子（热度：152608）
 </a>
 </li>
 
@@ -9699,6 +9735,12 @@ BLACKPINK获得SSA歌手大赏（热度：124845）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A5%E8%87%AA%E4%B8%AD%E5%9B%BD%E7%A9%BA%E9%97%B4%E7%AB%99%E7%9A%84%E5%87%BA%E5%B7%AE%E9%82%80%E8%AF%B7%23" target="weibo">
+来自中国空间站的出差邀请（热度：124432）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2300%E5%90%8E%E7%90%83%E8%BF%B7%E4%B8%BA%E7%8B%97%E7%8B%97%E5%B8%83%E7%BD%AE%E8%BF%B7%E4%BD%A0%E8%B6%B3%E7%90%83%E5%9C%BA%23" target="weibo">
 00后球迷为狗狗布置迷你足球场（热度：124315）
 </a>
@@ -10235,12 +10277,6 @@ vivo这设计浪漫且有用（热度：108831）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%A1%E5%A1%94%E5%B0%94%E4%B8%96%E7%95%8C%E6%9D%AF%E6%9C%80%E5%A4%A7%E5%88%86%E5%B7%AE%23" target="weibo">
 卡塔尔世界杯最大分差（热度：104943）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A5%E8%87%AA%E4%B8%AD%E5%9B%BD%E7%A9%BA%E9%97%B4%E7%AB%99%E7%9A%84%E5%87%BA%E5%B7%AE%E9%82%80%E8%AF%B7%23" target="weibo">
-来自中国空间站的出差邀请（热度：103978）
 </a>
 </li>
 
