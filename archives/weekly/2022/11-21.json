@@ -1,6 +1,6 @@
 {
   "startTime": 1668961718135,
-  "endTime": 1669365587042,
+  "endTime": 1669367961139,
   "band_list": [
     {
       "raw_hot": 36651023,
@@ -49,6 +49,14 @@
       "onboard_time": 1669296273,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 9636707,
+      "num": 9636707,
+      "word": "吴亦凡偷逃税被追缴并罚款6亿元",
+      "onboard_time": 1669367043,
+      "rank": 1,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 8419594,
@@ -227,8 +235,8 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 3091253,
-      "num": 232327,
+      "raw_hot": 3111652,
+      "num": 251859,
       "word": "吴亦凡强奸聚众淫乱案细节披露",
       "onboard_time": 1669364253,
       "rank": 30,
@@ -699,6 +707,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1606766,
+      "num": 1606766,
+      "word": "律师称吴亦凡需服刑完再被驱逐出境",
+      "onboard_time": 1669364724,
+      "rank": 31,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1592601,
       "num": 1592601,
       "word": "沙特守门员杀疯了",
@@ -1089,14 +1105,6 @@
       "onboard_time": 1668960030,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1215047,
-      "num": 686132,
-      "word": "律师称吴亦凡需服刑完再被驱逐出境",
-      "onboard_time": 1669364724,
-      "rank": 31,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1190020,
@@ -1803,6 +1811,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 828478,
+      "num": 828478,
+      "word": "泰国杀妻抛尸案被告获死刑",
+      "onboard_time": 1669363662,
+      "rank": 32,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 824833,
       "num": 441074,
       "word": "宋轶把千金气质拿捏住了",
@@ -1897,6 +1913,14 @@
       "onboard_time": 1669294354,
       "rank": 21,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 801653,
+      "num": 343589,
+      "word": "吴亦凡商业版图盘点",
+      "onboard_time": 1669367221,
+      "rank": 21,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 800208,
@@ -2345,14 +2369,6 @@
       "onboard_time": 1669129787,
       "rank": 32,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 685251,
-      "num": 685251,
-      "word": "泰国杀妻抛尸案被告获死刑",
-      "onboard_time": 1669363662,
-      "rank": 32,
-      "category": "社会负面"
     },
     {
       "raw_hot": 684094,
@@ -3443,6 +3459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 527700,
+      "num": 506336,
+      "word": "南京辟谣将实施全城静默",
+      "onboard_time": 1669366743,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 527184,
       "num": 474348,
       "word": "时代少年团直播",
@@ -3489,6 +3513,14 @@
       "onboard_time": 1669040567,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 522538,
+      "num": 522538,
+      "word": "Viper发文告别EDG",
+      "onboard_time": 1669365610,
+      "rank": 8,
+      "category": "游戏"
     },
     {
       "raw_hot": 522473,
@@ -3641,6 +3673,14 @@
       "onboard_time": 1669020514,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 503990,
+      "num": 503990,
+      "word": "广州疫情防控",
+      "onboard_time": 1669367284,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 502446,
@@ -3867,6 +3907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 480496,
+      "num": 480496,
+      "word": "卡塔尔头上黑圈居然这样用",
+      "onboard_time": 1669365369,
+      "rank": 47,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 479819,
       "num": 479819,
       "word": "摩洛哥vs克罗地亚",
@@ -3939,6 +3987,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 473163,
+      "num": 473163,
+      "word": "女子扮算命大师骗室友260余万",
+      "onboard_time": 1669362336,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 472778,
       "num": 472778,
       "word": "檀健次金世佳猎罪图鉴明年1月日本播出",
@@ -3953,6 +4009,14 @@
       "onboard_time": 1669339718,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 471483,
+      "num": 301656,
+      "word": "鞠婧祎红毯直播状态",
+      "onboard_time": 1669367882,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 469167,
@@ -4027,6 +4091,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 460340,
+      "num": 297754,
+      "word": "沈梦瑶说希望更多人认识SNH48",
+      "onboard_time": 1669367587,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 460091,
       "num": 460091,
       "word": "鹿晗从未停止过筹备三巡",
@@ -4057,14 +4129,6 @@
       "onboard_time": 1669014813,
       "rank": 37,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 459009,
-      "num": 459009,
-      "word": "女子扮算命大师骗室友260余万",
-      "onboard_time": 1669362336,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 456566,
@@ -4643,6 +4707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 412941,
+      "num": 249532,
+      "word": "脱口秀不能成脱缰野马",
+      "onboard_time": 1669366925,
+      "rank": 31,
+      "category": "社会新闻,综艺"
+    },
+    {
       "raw_hot": 412726,
       "num": 412726,
       "word": "两男子凌晨持刀脱鞋在居民楼乱窜",
@@ -4881,6 +4953,14 @@
       "onboard_time": 1669074691,
       "rank": 28,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 400285,
+      "num": 400285,
+      "word": "小朋友问爸爸中国队呢",
+      "onboard_time": 1669364664,
+      "rank": 47,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 400271,
@@ -5391,6 +5471,14 @@
       "num": 363846,
       "word": "妻子离家前为丈夫准备1个月食物",
       "onboard_time": 1669197397,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 363646,
+      "num": 363646,
+      "word": "生四女再生男孩母亲说恢复得很好",
+      "onboard_time": 1669362589,
       "rank": 34,
       "category": "社会新闻"
     },
@@ -6515,14 +6603,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 308757,
-      "num": 308757,
-      "word": "小朋友问爸爸中国队呢",
-      "onboard_time": 1669364664,
-      "rank": 47,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 308414,
       "num": 308414,
       "word": "刘芸郑钧的旅行是从吵架开始的",
@@ -6699,6 +6779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 299856,
+      "num": 299856,
+      "word": "妈妈下班8个月宝宝开心到脚丫跳舞",
+      "onboard_time": 1669365965,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 299708,
       "num": 288034,
       "word": "柯南史上最be剧情",
@@ -6761,6 +6849,14 @@
       "onboard_time": 1669302058,
       "rank": 31,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 296007,
+      "num": 240484,
+      "word": "宋小宝回应宋小宝卡塔尔分宝",
+      "onboard_time": 1669365965,
+      "rank": 35,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 294718,
@@ -6841,6 +6937,14 @@
       "onboard_time": 1669254271,
       "rank": 39,
       "category": "科技"
+    },
+    {
+      "raw_hot": 290209,
+      "num": 246456,
+      "word": "顺其自然24年捐款1469万",
+      "onboard_time": 1669366681,
+      "rank": 33,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 290089,
@@ -6977,6 +7081,14 @@
       "onboard_time": 1669256609,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 283887,
+      "num": 283887,
+      "word": "男子顺路载女友回老家索要路费",
+      "onboard_time": 1669366263,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 283752,
@@ -7169,14 +7281,6 @@
       "onboard_time": 1669346914,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 277387,
-      "num": 277387,
-      "word": "生四女再生男孩母亲说恢复得很好",
-      "onboard_time": 1669362589,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 277252,
@@ -8835,6 +8939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 209385,
+      "num": 209385,
+      "word": "威尔士vs伊朗",
+      "onboard_time": 1669367587,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 209181,
       "num": 209181,
       "word": "正常人谁买这玩意儿",
@@ -9779,6 +9891,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 187077,
+      "num": 187077,
+      "word": "猫的记忆就是一辈子",
+      "onboard_time": 1669367702,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 186993,
       "num": 149295,
       "word": "陈飞宇被男粉丝整无奈了",
@@ -10041,6 +10161,14 @@
       "onboard_time": 1669113449,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 180960,
+      "num": 180960,
+      "word": "多数足球运动员定期脱毛",
+      "onboard_time": 1669366141,
+      "rank": 41,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 180924,
@@ -10505,6 +10633,14 @@
       "onboard_time": 1668994473,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 168374,
+      "num": 168374,
+      "word": "宁波顺其自然又捐了106万",
+      "onboard_time": 1669367645,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 168032,
@@ -11929,14 +12065,6 @@
       "onboard_time": 1669354657,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 130134,
-      "num": 130134,
-      "word": "卡塔尔头上黑圈居然这样用",
-      "onboard_time": 1669365369,
-      "rank": 47,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 130129,
@@ -13681,6 +13809,14 @@
       "onboard_time": 1669144633,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 26684,
+      "num": 181294,
+      "word": "飞猪乌镇戏剧节推戏剧体验房",
+      "onboard_time": 1669366807,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 26047,
