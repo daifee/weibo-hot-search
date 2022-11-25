@@ -1,6 +1,6 @@
 {
   "startTime": 1669307280718,
-  "endTime": 1669379919761,
+  "endTime": 1669381054557,
   "band_list": [
     {
       "raw_hot": 36651023,
@@ -27,8 +27,8 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 6594223,
-      "num": 6594223,
+      "raw_hot": 6773488,
+      "num": 6773488,
       "word": "威尔士0比2伊朗",
       "onboard_time": 1669378258,
       "rank": 0,
@@ -155,7 +155,7 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 2034831,
+      "raw_hot": 2132040,
       "num": 2034831,
       "word": "夫妻洗澡去世留下8个孩子最新后续",
       "onboard_time": 1669372614,
@@ -548,7 +548,7 @@
     },
     {
       "raw_hot": 681496,
-      "num": 509340,
+      "num": 519544,
       "word": "什么是聚众淫乱罪",
       "onboard_time": 1669374052,
       "rank": 18,
@@ -664,6 +664,14 @@
       "word": "乌拉圭教练好帅",
       "onboard_time": 1669297478,
       "rank": 7,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 573552,
+      "num": 573552,
+      "word": "卡塔尔vs塞内加尔",
+      "onboard_time": 1669379156,
+      "rank": 16,
       "category": "体育"
     },
     {
@@ -809,6 +817,14 @@
       "onboard_time": 1669305754,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 507398,
+      "num": 507398,
+      "word": "TES官宣Knight离队",
+      "onboard_time": 1669379336,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 497387,
@@ -963,14 +979,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 446700,
-      "num": 446700,
-      "word": "卡塔尔vs塞内加尔",
-      "onboard_time": 1669379156,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 442534,
       "num": 442534,
       "word": "内马尔发博庆祝首胜",
@@ -985,6 +993,14 @@
       "onboard_time": 1669357595,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 438059,
+      "num": 438059,
+      "word": "原神",
+      "onboard_time": 1669379273,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 437479,
@@ -1017,6 +1033,14 @@
       "onboard_time": 1669310539,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 426302,
+      "num": 426302,
+      "word": "脱口秀",
+      "onboard_time": 1669375915,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 425095,
@@ -1057,14 +1081,6 @@
       "onboard_time": 1669354175,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 416059,
-      "num": 383564,
-      "word": "脱口秀",
-      "onboard_time": 1669375915,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 412941,
@@ -1251,6 +1267,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 368441,
+      "num": 368441,
+      "word": "亚洲球队 牛",
+      "onboard_time": 1669379927,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 368269,
+      "num": 368269,
+      "word": "Meiko发文不参加全明星",
+      "onboard_time": 1669377831,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 367002,
       "num": 233383,
       "word": "马嘉祺百忧戒舞台亮片外套造型",
@@ -1291,27 +1323,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 351892,
-      "num": 351892,
-      "word": "Meiko发文不参加全明星",
-      "onboard_time": 1669377831,
-      "rank": 26,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 350010,
-      "num": 350010,
-      "word": "原神",
-      "onboard_time": 1669379273,
-      "rank": 27,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 349071,
       "num": 349071,
       "word": "终于能安心看球了",
       "onboard_time": 1669352499,
       "rank": 24,
+      "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 348210,
+      "num": 348210,
+      "word": "男孩说中国队去踢死他们爸爸无言以对",
+      "onboard_time": 1669379755,
+      "rank": 47,
       "category": "体育,社会新闻"
     },
     {
@@ -1385,14 +1409,6 @@
       "onboard_time": 1669315096,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 330715,
-      "num": 330715,
-      "word": "TES官宣Knight离队",
-      "onboard_time": 1669379336,
-      "rank": 29,
-      "category": "游戏"
     },
     {
       "raw_hot": 330433,
@@ -1667,12 +1683,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 260766,
+      "num": 260766,
+      "word": "哈尔滨疫情防控",
+      "onboard_time": 1669377413,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 255753,
       "num": 255753,
       "word": "熊孩子划伤多辆汽车奶奶说没钱赔",
       "onboard_time": 1669327095,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 255615,
+      "num": 255615,
+      "word": "Uzi缺席全明星",
+      "onboard_time": 1669378797,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 255488,
@@ -1723,12 +1755,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 245887,
-      "num": 245887,
-      "word": "哈尔滨疫情防控",
-      "onboard_time": 1669377413,
-      "rank": 39,
-      "category": "社会新闻"
+      "raw_hot": 246581,
+      "num": 169804,
+      "word": "威尔士门将",
+      "onboard_time": 1669381013,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 245821,
@@ -1867,14 +1899,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 219309,
-      "num": 219309,
-      "word": "Uzi缺席全明星",
-      "onboard_time": 1669378797,
-      "rank": 44,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 219277,
       "num": 219277,
       "word": "乃万是懂修容的",
@@ -1936,6 +1960,14 @@
       "word": "点燃我温暖你好多细节",
       "onboard_time": 1669338398,
       "rank": 39,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 207470,
+      "num": 207470,
+      "word": "第43届青龙奖",
+      "onboard_time": 1669378082,
+      "rank": 40,
       "category": "影视"
     },
     {
@@ -2019,6 +2051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 202587,
+      "num": 202587,
+      "word": "原来老年痴呆的世界是这样的",
+      "onboard_time": 1669379814,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 201989,
       "num": 136156,
       "word": "于文文说自己被铁刘海封印了",
@@ -2067,6 +2107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 193991,
+      "num": 193991,
+      "word": "危笑到底有多恐怖",
+      "onboard_time": 1669380051,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 193555,
       "num": 193555,
       "word": "还得是C罗",
@@ -2075,12 +2123,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 193023,
-      "num": 193023,
-      "word": "男孩说中国队去踢死他们爸爸无言以对",
-      "onboard_time": 1669379755,
-      "rank": 47,
-      "category": "体育,社会新闻"
+      "raw_hot": 192543,
+      "num": 192543,
+      "word": "小猫咪也太有灵性了",
+      "onboard_time": 1669380953,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 191898,
@@ -2089,14 +2137,6 @@
       "onboard_time": 1669348413,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 190762,
-      "num": 190762,
-      "word": "原来老年痴呆的世界是这样的",
-      "onboard_time": 1669379814,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 190652,
@@ -2208,6 +2248,14 @@
       "word": "男子在轿车门上写道歉信求原谅",
       "onboard_time": 1669373033,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 178358,
+      "num": 178358,
+      "word": "小狗用尽全力想唤醒死去同伴",
+      "onboard_time": 1669380888,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -2539,6 +2587,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 138924,
+      "num": 470301,
+      "word": "原神3.3版本直播",
+      "onboard_time": 1669377649,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 138781,
       "num": 138781,
       "word": "为什么需要轮椅导航",
@@ -2673,14 +2729,6 @@
       "onboard_time": 1669330339,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 118243,
-      "num": 448812,
-      "word": "原神3.3版本直播",
-      "onboard_time": 1669377649,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 117091,

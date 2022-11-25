@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/25 00:28:00 ~ 2022/11/25 20:38:39
+本榜单时间：2022/11/25 00:28:00 ~ 2022/11/25 20:57:34
 </p>
 </blockquote>
 <p>
@@ -34,7 +34,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A8%81%E5%B0%94%E5%A3%AB0%E6%AF%942%E4%BC%8A%E6%9C%97%23" target="weibo">
-威尔士0比2伊朗（热度：6594223）
+威尔士0比2伊朗（热度：6773488）
 </a>
 </li>
 
@@ -130,7 +130,7 @@ C罗进球被吹（热度：2899415）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%AB%E5%A6%BB%E6%B4%97%E6%BE%A1%E5%8E%BB%E4%B8%96%E7%95%99%E4%B8%8B8%E4%B8%AA%E5%AD%A9%E5%AD%90%E6%9C%80%E6%96%B0%E5%90%8E%E7%BB%AD%23" target="weibo">
-夫妻洗澡去世留下8个孩子最新后续（热度：2034831）
+夫妻洗澡去世留下8个孩子最新后续（热度：2132040）
 </a>
 </li>
 
@@ -513,6 +513,12 @@ C罗错失单刀（热度：596960）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%A1%E5%A1%94%E5%B0%94vs%E5%A1%9E%E5%86%85%E5%8A%A0%E5%B0%94%23" target="weibo">
+卡塔尔vs塞内加尔（热度：573552）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AF%E6%9C%80%E5%A4%A7%E8%82%A1%E4%B8%9C%E6%8A%95%E8%B5%8420%E5%B9%B4%E8%B5%9A%E8%B6%857000%E5%80%8D%23" target="weibo">
 腾讯最大股东投资20年赚超7000倍（热度：562502）
 </a>
@@ -617,6 +623,12 @@ Viper发文告别EDG（热度：522538）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8D%E6%8C%A3%E9%92%B1%E7%9A%84%E4%BA%BA%E6%98%AF%E6%B2%A1%E6%9C%89%E8%AF%9D%E8%AF%AD%E6%9D%83%E7%9A%84%23" target="weibo">
 不挣钱的人是没有话语权的（热度：513183）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23TES%E5%AE%98%E5%AE%A3Knight%E7%A6%BB%E9%98%9F%23" target="weibo">
+TES官宣Knight离队（热度：507398）
 </a>
 </li>
 
@@ -735,12 +747,6 @@ siu（热度：449714）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%A1%E5%A1%94%E5%B0%94vs%E5%A1%9E%E5%86%85%E5%8A%A0%E5%B0%94%23" target="weibo">
-卡塔尔vs塞内加尔（热度：446700）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E9%A9%AC%E5%B0%94%E5%8F%91%E5%8D%9A%E5%BA%86%E7%A5%9D%E9%A6%96%E8%83%9C%23" target="weibo">
 内马尔发博庆祝首胜（热度：442534）
 </a>
@@ -749,6 +755,12 @@ siu（热度：449714）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%AD%A3%E8%AF%B4%E8%B5%B5%E4%B8%BD%E9%A2%96%E7%9A%84%E6%88%8F%E8%82%AF%E5%AE%9A%E8%A6%81%E7%9C%8B%23" target="weibo">
 于正说赵丽颖的戏肯定要看（热度：441357）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E7%A5%9E%23" target="weibo">
+原神（热度：438059）
 </a>
 </li>
 
@@ -773,6 +785,12 @@ siu（热度：449714）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E5%B9%BF%E6%9D%83%E6%8A%BC%E9%9F%B5%E8%AF%84C%E7%BD%97%E4%BA%94%E6%88%98%E4%B8%96%E7%95%8C%E6%9D%AF%23" target="weibo">
 朱广权押韵评C罗五战世界杯（热度：426679）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%84%B1%E5%8F%A3%E7%A7%80%23" target="weibo">
+脱口秀（热度：426302）
 </a>
 </li>
 
@@ -803,12 +821,6 @@ siu（热度：449714）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%92%8C%E5%B0%8F%E7%8B%97%E8%B4%B4%E8%B4%B4%23" target="weibo">
 迪丽热巴和小狗贴贴（热度：417467）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%84%B1%E5%8F%A3%E7%A7%80%23" target="weibo">
-脱口秀（热度：416059）
 </a>
 </li>
 
@@ -951,6 +963,18 @@ MAMA投票（热度：370671）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%9A%E6%B4%B2%E7%90%83%E9%98%9F%20%E7%89%9B%23" target="weibo">
+亚洲球队 牛（热度：368441）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23Meiko%E5%8F%91%E6%96%87%E4%B8%8D%E5%8F%82%E5%8A%A0%E5%85%A8%E6%98%8E%E6%98%9F%23" target="weibo">
+Meiko发文不参加全明星（热度：368269）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%98%89%E7%A5%BA%E7%99%BE%E5%BF%A7%E6%88%92%E8%88%9E%E5%8F%B0%E4%BA%AE%E7%89%87%E5%A4%96%E5%A5%97%E9%80%A0%E5%9E%8B%23" target="weibo">
 马嘉祺百忧戒舞台亮片外套造型（热度：367002）
 </a>
@@ -981,20 +1005,14 @@ C罗连续十届大赛进球（热度：354805）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23Meiko%E5%8F%91%E6%96%87%E4%B8%8D%E5%8F%82%E5%8A%A0%E5%85%A8%E6%98%8E%E6%98%9F%23" target="weibo">
-Meiko发文不参加全明星（热度：351892）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E7%A5%9E%23" target="weibo">
-原神（热度：350010）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E8%83%BD%E5%AE%89%E5%BF%83%E7%9C%8B%E7%90%83%E4%BA%86%23" target="weibo">
 终于能安心看球了（热度：349071）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E8%AF%B4%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%8E%BB%E8%B8%A2%E6%AD%BB%E4%BB%96%E4%BB%AC%E7%88%B8%E7%88%B8%E6%97%A0%E8%A8%80%E4%BB%A5%E5%AF%B9%23" target="weibo">
+男孩说中国队去踢死他们爸爸无言以对（热度：348210）
 </a>
 </li>
 
@@ -1049,12 +1067,6 @@ C罗 历史第一人（热度：339586）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23C%E7%BD%9737%E5%B2%81%E8%BA%AB%E6%9D%90%23" target="weibo">
 C罗37岁身材（热度：332279）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23TES%E5%AE%98%E5%AE%A3Knight%E7%A6%BB%E9%98%9F%23" target="weibo">
-TES官宣Knight离队（热度：330715）
 </a>
 </li>
 
@@ -1263,8 +1275,20 @@ SBS歌谣大战阵容（热度：264721）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%93%88%E5%B0%94%E6%BB%A8%E7%96%AB%E6%83%85%E9%98%B2%E6%8E%A7%23" target="weibo">
+哈尔滨疫情防控（热度：260766）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%86%8A%E5%AD%A9%E5%AD%90%E5%88%92%E4%BC%A4%E5%A4%9A%E8%BE%86%E6%B1%BD%E8%BD%A6%E5%A5%B6%E5%A5%B6%E8%AF%B4%E6%B2%A1%E9%92%B1%E8%B5%94%23" target="weibo">
 熊孩子划伤多辆汽车奶奶说没钱赔（热度：255753）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23Uzi%E7%BC%BA%E5%B8%AD%E5%85%A8%E6%98%8E%E6%98%9F%23" target="weibo">
+Uzi缺席全明星（热度：255615）
 </a>
 </li>
 
@@ -1305,8 +1329,8 @@ SBS歌谣大战阵容（热度：264721）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%93%88%E5%B0%94%E6%BB%A8%E7%96%AB%E6%83%85%E9%98%B2%E6%8E%A7%23" target="weibo">
-哈尔滨疫情防控（热度：245887）
+<a href="https://s.weibo.com/weibo?q=%23%E5%A8%81%E5%B0%94%E5%A3%AB%E9%97%A8%E5%B0%86%23" target="weibo">
+威尔士门将（热度：246581）
 </a>
 </li>
 
@@ -1413,12 +1437,6 @@ SBS歌谣大战阵容（热度：264721）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23Uzi%E7%BC%BA%E5%B8%AD%E5%85%A8%E6%98%8E%E6%98%9F%23" target="weibo">
-Uzi缺席全明星（热度：219309）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%83%E4%B8%87%E6%98%AF%E6%87%82%E4%BF%AE%E5%AE%B9%E7%9A%84%23" target="weibo">
 乃万是懂修容的（热度：219277）
 </a>
@@ -1463,6 +1481,12 @@ C罗当选全场MVP（热度：208075）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%82%B9%E7%87%83%E6%88%91%E6%B8%A9%E6%9A%96%E4%BD%A0%E5%A5%BD%E5%A4%9A%E7%BB%86%E8%8A%82%23" target="weibo">
 点燃我温暖你好多细节（热度：207871）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC43%E5%B1%8A%E9%9D%92%E9%BE%99%E5%A5%96%23" target="weibo">
+第43届青龙奖（热度：207470）
 </a>
 </li>
 
@@ -1527,6 +1551,12 @@ SUV刹车失灵高速狂奔近40公里（热度：206292）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E8%80%81%E5%B9%B4%E7%97%B4%E5%91%86%E7%9A%84%E4%B8%96%E7%95%8C%E6%98%AF%E8%BF%99%E6%A0%B7%E7%9A%84%23" target="weibo">
+原来老年痴呆的世界是这样的（热度：202587）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%96%87%E6%96%87%E8%AF%B4%E8%87%AA%E5%B7%B1%E8%A2%AB%E9%93%81%E5%88%98%E6%B5%B7%E5%B0%81%E5%8D%B0%E4%BA%86%23" target="weibo">
 于文文说自己被铁刘海封印了（热度：201989）
 </a>
@@ -1563,26 +1593,26 @@ C罗首秀状态（热度：197885）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%B1%E7%AC%91%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E6%81%90%E6%80%96%23" target="weibo">
+危笑到底有多恐怖（热度：193991）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%98%E5%BE%97%E6%98%AFC%E7%BD%97%23" target="weibo">
 还得是C罗（热度：193555）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E8%AF%B4%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%8E%BB%E8%B8%A2%E6%AD%BB%E4%BB%96%E4%BB%AC%E7%88%B8%E7%88%B8%E6%97%A0%E8%A8%80%E4%BB%A5%E5%AF%B9%23" target="weibo">
-男孩说中国队去踢死他们爸爸无言以对（热度：193023）
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%8C%AB%E5%92%AA%E4%B9%9F%E5%A4%AA%E6%9C%89%E7%81%B5%E6%80%A7%E4%BA%86%23" target="weibo">
+小猫咪也太有灵性了（热度：192543）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E8%A9%B9%E5%A7%86%E6%96%AF%E5%81%B7%E5%81%B7%E5%8E%BB%E8%B8%A2%E4%B8%96%E7%95%8C%E6%9D%AF%E4%BA%86%23" target="weibo">
 原来詹姆斯偷偷去踢世界杯了（热度：191898）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E8%80%81%E5%B9%B4%E7%97%B4%E5%91%86%E7%9A%84%E4%B8%96%E7%95%8C%E6%98%AF%E8%BF%99%E6%A0%B7%E7%9A%84%23" target="weibo">
-原来老年痴呆的世界是这样的（热度：190762）
 </a>
 </li>
 
@@ -1667,6 +1697,12 @@ GK对战WB（热度：182859）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%9C%A8%E8%BD%BF%E8%BD%A6%E9%97%A8%E4%B8%8A%E5%86%99%E9%81%93%E6%AD%89%E4%BF%A1%E6%B1%82%E5%8E%9F%E8%B0%85%23" target="weibo">
 男子在轿车门上写道歉信求原谅（热度：178387）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%8B%97%E7%94%A8%E5%B0%BD%E5%85%A8%E5%8A%9B%E6%83%B3%E5%94%A4%E9%86%92%E6%AD%BB%E5%8E%BB%E5%90%8C%E4%BC%B4%23" target="weibo">
+小狗用尽全力想唤醒死去同伴（热度：178358）
 </a>
 </li>
 
@@ -1917,6 +1953,12 @@ C罗表情包（热度：148913）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E7%A5%9E3.3%E7%89%88%E6%9C%AC%E7%9B%B4%E6%92%AD%23" target="weibo">
+原神3.3版本直播（热度：138924）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E9%9C%80%E8%A6%81%E8%BD%AE%E6%A4%85%E5%AF%BC%E8%88%AA%23" target="weibo">
 为什么需要轮椅导航（热度：138781）
 </a>
@@ -2015,12 +2057,6 @@ BLACKPINK获得SSA歌手大赏（热度：124845）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%83%E5%8F%A4%E4%B8%93%E5%AE%B6%E5%9C%A8%E5%B1%B1%E4%B8%9C%E5%8F%91%E7%8E%B04000%E5%A4%9A%E5%B9%B4%E5%89%8D%E7%82%8A%E5%85%B7%23" target="weibo">
 考古专家在山东发现4000多年前炊具（热度：119500）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E7%A5%9E3.3%E7%89%88%E6%9C%AC%E7%9B%B4%E6%92%AD%23" target="weibo">
-原神3.3版本直播（热度：118243）
 </a>
 </li>
 

@@ -1,0 +1,410 @@
+{
+  "runTime": 1669381054557,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6773488,
+        "num": 6773488,
+        "word": "威尔士0比2伊朗",
+        "onboard_time": 1669378258,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2029782,
+        "num": 2029782,
+        "word": "本届世界杯第一张红牌",
+        "onboard_time": 1669378145,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43820,
+        "num": 1351718,
+        "word": "中国制造见证一个又一个精彩瞬间",
+        "onboard_time": 1669298566,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2132040,
+        "num": 1304929,
+        "word": "夫妻洗澡去世留下8个孩子最新后续",
+        "onboard_time": 1669372614,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1119474,
+        "num": 1119474,
+        "word": "腿姐",
+        "onboard_time": 1669375072,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1300930,
+        "num": 1010207,
+        "word": "吴亦凡偷税手法曝光",
+        "onboard_time": 1669368665,
+        "rank": 5,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 806869,
+        "num": 806869,
+        "word": "吴亦凡偷逃税被追缴并罚款6亿元",
+        "onboard_time": 1669367043,
+        "rank": 6,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 573552,
+        "num": 573552,
+        "word": "卡塔尔vs塞内加尔",
+        "onboard_time": 1669379156,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 530803,
+        "num": 530803,
+        "word": "广州没有静默的安排",
+        "onboard_time": 1669372491,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 522869,
+        "num": 522869,
+        "word": "贝尔",
+        "onboard_time": 1669377049,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1891796,
+        "num": 519652,
+        "word": "吴亦凡强奸聚众淫乱案细节披露",
+        "onboard_time": 1669364253,
+        "rank": 10,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 627569,
+        "num": 519544,
+        "word": "什么是聚众淫乱罪",
+        "onboard_time": 1669374052,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 515223,
+        "num": 515223,
+        "word": "威尔士vs伊朗半场0比0",
+        "onboard_time": 1669373996,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 507398,
+        "num": 507398,
+        "word": "TES官宣Knight离队",
+        "onboard_time": 1669379336,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 138924,
+        "num": 470301,
+        "word": "原神3.3版本直播",
+        "onboard_time": 1669377649,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 469291,
+        "num": 469291,
+        "word": "IU青龙奖红毯",
+        "onboard_time": 1669378201,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 438059,
+        "num": 438059,
+        "word": "原神",
+        "onboard_time": 1669379273,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 459954,
+        "num": 432628,
+        "word": "汤唯亮相青龙奖红毯",
+        "onboard_time": 1669376450,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 426302,
+        "num": 426302,
+        "word": "脱口秀",
+        "onboard_time": 1669375915,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 391540,
+        "num": 391540,
+        "word": "妻子回娘家丈夫喇叭广播还彩礼",
+        "onboard_time": 1669374414,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1174790,
+        "num": 389568,
+        "word": "胡锡进",
+        "onboard_time": 1669377532,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 611953,
+        "num": 384633,
+        "word": "乌鲁木齐住宅楼火灾疑因插线板着火引发",
+        "onboard_time": 1669355497,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368441,
+        "num": 368441,
+        "word": "亚洲球队 牛",
+        "onboard_time": 1669379927,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 368269,
+        "num": 368269,
+        "word": "Meiko发文不参加全明星",
+        "onboard_time": 1669377831,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 360749,
+        "num": 360749,
+        "word": "沈阳疫情防控",
+        "onboard_time": 1669375795,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348210,
+        "num": 348210,
+        "word": "男孩说中国队去踢死他们爸爸无言以对",
+        "onboard_time": 1669379755,
+        "rank": 25,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 345233,
+        "num": 345233,
+        "word": "周深感谢粉丝好大声",
+        "onboard_time": 1669379755,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 306212,
+        "num": 306212,
+        "word": "央行决定降准0.25个百分点",
+        "onboard_time": 1669370814,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330887,
+        "num": 305142,
+        "word": "东方风云榜",
+        "onboard_time": 1669375610,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 302420,
+        "num": 302420,
+        "word": "吴亦凡一审被判13年",
+        "onboard_time": 1669362724,
+        "rank": 29,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 287338,
+        "num": 287338,
+        "word": "当卡塔尔小王子摘掉头巾后",
+        "onboard_time": 1669355856,
+        "rank": 30,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 279003,
+        "num": 279003,
+        "word": "老人让两只狗背菜被指虐待",
+        "onboard_time": 1669369385,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267291,
+        "num": 267291,
+        "word": "你陷入过假性亲密关系吗",
+        "onboard_time": 1669368735,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 260767,
+        "num": 260767,
+        "word": "吴亦凡商业版图盘点",
+        "onboard_time": 1669367221,
+        "rank": 33,
+        "category": "财经,艺人"
+      },
+      {
+        "raw_hot": 260766,
+        "num": 260766,
+        "word": "哈尔滨疫情防控",
+        "onboard_time": 1669377413,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258983,
+        "num": 258983,
+        "word": "北京新增本土感染者1119例",
+        "onboard_time": 1669369623,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255615,
+        "num": 255615,
+        "word": "Uzi缺席全明星",
+        "onboard_time": 1669378797,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 252759,
+        "num": 252759,
+        "word": "泰国杀妻抛尸案被告获死刑",
+        "onboard_time": 1669363662,
+        "rank": 37,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 245776,
+        "num": 245776,
+        "word": "鞠婧祎获东方风云榜年度人气歌手",
+        "onboard_time": 1669378383,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235655,
+        "num": 235655,
+        "word": "本月少女chuu被退团",
+        "onboard_time": 1669372190,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207470,
+        "num": 207470,
+        "word": "第43届青龙奖",
+        "onboard_time": 1669378082,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 202587,
+        "num": 202587,
+        "word": "原来老年痴呆的世界是这样的",
+        "onboard_time": 1669379814,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 202180,
+        "num": 202180,
+        "word": "命韵峋环今天都穿了黑西装",
+        "onboard_time": 1669373270,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 193991,
+        "num": 193991,
+        "word": "危笑到底有多恐怖",
+        "onboard_time": 1669380051,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 192543,
+        "num": 192543,
+        "word": "小猫咪也太有灵性了",
+        "onboard_time": 1669380953,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 178358,
+        "num": 178358,
+        "word": "小狗用尽全力想唤醒死去同伴",
+        "onboard_time": 1669380888,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170253,
+        "num": 170253,
+        "word": "四千金妈妈发文称明日将出院",
+        "onboard_time": 1669372791,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246581,
+        "num": 169804,
+        "word": "威尔士门将",
+        "onboard_time": 1669381013,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165504,
+        "num": 165504,
+        "word": "内马尔曾与白血病小男孩的约定",
+        "onboard_time": 1669371592,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155743,
+        "num": 164920,
+        "word": "伊朗进球被吹",
+        "onboard_time": 1669378441,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#航天新征程#"
+    }
+  }
+}

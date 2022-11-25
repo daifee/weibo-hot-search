@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1669379919761,
+  "endTime": 1669381054557,
   "band_list": [
     {
       "raw_hot": 36651023,
@@ -99,8 +99,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 6594223,
-      "num": 6594223,
+      "raw_hot": 6773488,
+      "num": 6773488,
       "word": "威尔士0比2伊朗",
       "onboard_time": 1669378258,
       "rank": 0,
@@ -1179,6 +1179,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 2132040,
+      "num": 2034831,
+      "word": "夫妻洗澡去世留下8个孩子最新后续",
+      "onboard_time": 1669372614,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2130282,
       "num": 2130282,
       "word": "热奶宝",
@@ -1313,14 +1321,6 @@
       "onboard_time": 1669095930,
       "rank": 10,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 2034831,
-      "num": 2034831,
-      "word": "夫妻洗澡去世留下8个孩子最新后续",
-      "onboard_time": 1669372614,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2033284,
@@ -8932,7 +8932,7 @@
     },
     {
       "raw_hot": 681496,
-      "num": 509340,
+      "num": 519544,
       "word": "什么是聚众淫乱罪",
       "onboard_time": 1669374052,
       "rank": 18,
@@ -11387,6 +11387,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 573552,
+      "num": 573552,
+      "word": "卡塔尔vs塞内加尔",
+      "onboard_time": 1669379156,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 573174,
       "num": 573174,
       "word": "迪丽热巴三登精彩OK封面",
@@ -13689,6 +13697,14 @@
       "onboard_time": 1668409409,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 507398,
+      "num": 507398,
+      "word": "TES官宣Knight离队",
+      "onboard_time": 1669379336,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 506961,
@@ -16131,14 +16147,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 446700,
-      "num": 446700,
-      "word": "卡塔尔vs塞内加尔",
-      "onboard_time": 1669379156,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 446616,
       "num": 446616,
       "word": "C罗今晚会取得进球吗",
@@ -16545,6 +16553,14 @@
       "onboard_time": 1669027540,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 438059,
+      "num": 438059,
+      "word": "原神",
+      "onboard_time": 1667211506,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 437989,
@@ -17187,6 +17203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 426302,
+      "num": 426302,
+      "word": "脱口秀",
+      "onboard_time": 1669375915,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 426189,
       "num": 373170,
       "word": "第14届金鹰节开幕式",
@@ -17673,14 +17697,6 @@
       "onboard_time": 1668420207,
       "rank": 22,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 416059,
-      "num": 383564,
-      "word": "脱口秀",
-      "onboard_time": 1669375915,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 416004,
@@ -20211,6 +20227,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 368441,
+      "num": 368441,
+      "word": "亚洲球队 牛",
+      "onboard_time": 1669379927,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 368374,
       "num": 368374,
       "word": "李峋得知朱韵给自己发工资",
@@ -20233,6 +20257,14 @@
       "onboard_time": 1667700506,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 368269,
+      "num": 368269,
+      "word": "Meiko发文不参加全明星",
+      "onboard_time": 1669377831,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 368118,
@@ -21235,14 +21267,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 351892,
-      "num": 351892,
-      "word": "Meiko发文不参加全明星",
-      "onboard_time": 1669377831,
-      "rank": 26,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 351851,
       "num": 351851,
       "word": "湖人太阳冲突",
@@ -21371,14 +21395,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 350010,
-      "num": 350010,
-      "word": "原神",
-      "onboard_time": 1667211506,
-      "rank": 34,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 349981,
       "num": 245359,
       "word": "杨幂白宇是真的笑场了吧",
@@ -21481,6 +21497,14 @@
       "onboard_time": 1667993490,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 348210,
+      "num": 348210,
+      "word": "男孩说中国队去踢死他们爸爸无言以对",
+      "onboard_time": 1669379755,
+      "rank": 47,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 348129,
@@ -22817,14 +22841,6 @@
       "onboard_time": 1669197335,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 330715,
-      "num": 330715,
-      "word": "TES官宣Knight离队",
-      "onboard_time": 1669379336,
-      "rank": 29,
-      "category": "游戏"
     },
     {
       "raw_hot": 330668,
@@ -28355,6 +28371,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 260766,
+      "num": 260766,
+      "word": "哈尔滨疫情防控",
+      "onboard_time": 1669377413,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 260551,
       "num": 260551,
       "word": "谢谢你们CZ3925",
@@ -28745,6 +28769,14 @@
       "onboard_time": 1668526472,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 255615,
+      "num": 255615,
+      "word": "Uzi缺席全明星",
+      "onboard_time": 1669378797,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 255539,
@@ -29531,6 +29563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 246581,
+      "num": 169804,
+      "word": "威尔士门将",
+      "onboard_time": 1669381013,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 246393,
       "num": 246393,
       "word": "田曦薇说拍卿卿日常很开心",
@@ -29561,14 +29601,6 @@
       "onboard_time": 1668525393,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 245887,
-      "num": 245887,
-      "word": "哈尔滨疫情防控",
-      "onboard_time": 1669377413,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 245821,
@@ -32267,14 +32299,6 @@
       "category": "美妆,社会新闻"
     },
     {
-      "raw_hot": 219309,
-      "num": 219309,
-      "word": "Uzi缺席全明星",
-      "onboard_time": 1669378797,
-      "rank": 44,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 219209,
       "num": 219209,
       "word": "周深模仿白鹿抓气球好搞笑",
@@ -33723,6 +33747,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 207470,
+      "num": 207470,
+      "word": "第43届青龙奖",
+      "onboard_time": 1669378082,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 207467,
       "num": 173710,
       "word": "县委大院下证",
@@ -34361,6 +34393,14 @@
       "onboard_time": 1669299702,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 202587,
+      "num": 202587,
+      "word": "原来老年痴呆的世界是这样的",
+      "onboard_time": 1669379814,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 202526,
@@ -35643,6 +35683,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 193991,
+      "num": 193991,
+      "word": "危笑到底有多恐怖",
+      "onboard_time": 1669380051,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 193954,
       "num": 193954,
       "word": "还得是东北人的解读能力",
@@ -35763,14 +35811,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 193023,
-      "num": 193023,
-      "word": "男孩说中国队去踢死他们爸爸无言以对",
-      "onboard_time": 1669379755,
-      "rank": 47,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 193008,
       "num": 145250,
       "word": "杨幂白宇片场有爱日常花絮",
@@ -35833,6 +35873,14 @@
       "onboard_time": 1669110337,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 192543,
+      "num": 192543,
+      "word": "小猫咪也太有灵性了",
+      "onboard_time": 1669380953,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 192354,
@@ -36057,14 +36105,6 @@
       "onboard_time": 1667599452,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 190762,
-      "num": 190762,
-      "word": "原来老年痴呆的世界是这样的",
-      "onboard_time": 1669379814,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 190737,
@@ -37880,6 +37920,14 @@
       "word": "男子在轿车门上写道歉信求原谅",
       "onboard_time": 1669373033,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 178358,
+      "num": 178358,
+      "word": "小狗用尽全力想唤醒死去同伴",
+      "onboard_time": 1669380888,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -43963,6 +44011,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 138924,
+      "num": 470301,
+      "word": "原神3.3版本直播",
+      "onboard_time": 1669245564,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 138781,
       "num": 138781,
       "word": "为什么需要轮椅导航",
@@ -47481,14 +47537,6 @@
       "onboard_time": 1668123561,
       "rank": 26,
       "category": "社会新闻,军事"
-    },
-    {
-      "raw_hot": 118243,
-      "num": 448812,
-      "word": "原神3.3版本直播",
-      "onboard_time": 1669245564,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 118176,
