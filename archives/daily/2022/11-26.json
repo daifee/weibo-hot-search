@@ -1,6 +1,6 @@
 {
   "startTime": 1669393663708,
-  "endTime": 1669407629862,
+  "endTime": 1669408491836,
   "band_list": [
     {
       "raw_hot": 13715986,
@@ -587,8 +587,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 35907,
-      "num": 35907,
+      "raw_hot": 43887,
+      "num": 43887,
       "word": "小伙为了免费约美女被骗22万",
       "onboard_time": 1669405995,
       "rank": 31,
@@ -617,6 +617,14 @@
       "onboard_time": 1669406235,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 17495,
+      "num": 19542,
+      "word": "英格兰vs美国首发",
+      "onboard_time": 1669408394,
+      "rank": 49,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
