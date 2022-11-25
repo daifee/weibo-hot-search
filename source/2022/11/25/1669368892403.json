@@ -1,0 +1,410 @@
+{
+  "runTime": 1669368892403,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 11605722,
+        "num": 11605722,
+        "word": "吴亦凡一审被判13年",
+        "onboard_time": 1669362724,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 9573409,
+        "num": 9573409,
+        "word": "吴亦凡偷逃税被追缴并罚款6亿元",
+        "onboard_time": 1669367043,
+        "rank": 1,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1681792,
+        "num": 1681792,
+        "word": "律师称吴亦凡需服刑完再被驱逐出境",
+        "onboard_time": 1669364724,
+        "rank": 2,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1159091,
+        "num": 1159091,
+        "word": "当卡塔尔小王子摘掉头巾后",
+        "onboard_time": 1669355856,
+        "rank": 3,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 1003463,
+        "num": 1003463,
+        "word": "广州疫情防控",
+        "onboard_time": 1669367284,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 849776,
+        "num": 849776,
+        "word": "南京疫情防控",
+        "onboard_time": 1669362035,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 754241,
+        "num": 754241,
+        "word": "泰国杀妻抛尸案被告获死刑",
+        "onboard_time": 1669363662,
+        "rank": 6,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 6653799,
+        "num": 612208,
+        "word": "吴亦凡获刑13年附加驱逐出境",
+        "onboard_time": 1669362977,
+        "rank": 7,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 4209336,
+        "num": 588784,
+        "word": "吴亦凡案时间线",
+        "onboard_time": 1669363301,
+        "rank": 8,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 459439,
+        "num": 459439,
+        "word": "个人养老金",
+        "onboard_time": 1669360835,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2820719,
+        "num": 459224,
+        "word": "吴亦凡强奸聚众淫乱案细节披露",
+        "onboard_time": 1669364253,
+        "rank": 10,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 458690,
+        "num": 458690,
+        "word": "卡塔尔头上黑圈居然这样用",
+        "onboard_time": 1669365369,
+        "rank": 11,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 445308,
+        "num": 445308,
+        "word": "Viper发文告别EDG",
+        "onboard_time": 1669365610,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 422443,
+        "num": 422443,
+        "word": "南京辟谣将实施全城静默",
+        "onboard_time": 1669366743,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 411655,
+        "num": 411655,
+        "word": "Faker或将加入LPL",
+        "onboard_time": 1669361375,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 396520,
+        "num": 396520,
+        "word": "女子扮算命大师骗室友260余万",
+        "onboard_time": 1669362336,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365063,
+        "num": 365063,
+        "word": "顺其自然24年捐款1469万",
+        "onboard_time": 1669366681,
+        "rank": 16,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 352500,
+        "num": 352500,
+        "word": "百香果园里发现6只猴面鹰宝宝",
+        "onboard_time": 1669357774,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345252,
+        "num": 345252,
+        "word": "小朋友问爸爸中国队呢",
+        "onboard_time": 1669364664,
+        "rank": 18,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 318942,
+        "num": 318942,
+        "word": "生四女再生男孩母亲说恢复得很好",
+        "onboard_time": 1669362589,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1762338,
+        "num": 318768,
+        "word": "吴亦凡商业版图盘点",
+        "onboard_time": 1669367221,
+        "rank": 20,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 687995,
+        "num": 318333,
+        "word": "新疆一高层住宅楼火灾致10人死亡",
+        "onboard_time": 1669334856,
+        "rank": 21,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 655282,
+        "num": 317957,
+        "word": "原来陈飞宇和王鹤棣演过同一个角色",
+        "onboard_time": 1669363364,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 599469,
+        "num": 317443,
+        "word": "中新网评吴亦凡案宣判",
+        "onboard_time": 1669363662,
+        "rank": 23,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 491021,
+        "num": 317101,
+        "word": "乌鲁木齐住宅楼火灾疑因插线板着火引发",
+        "onboard_time": 1669355497,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317022,
+        "num": 317022,
+        "word": "男子顺路载女友回老家索要路费",
+        "onboard_time": 1669366263,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314073,
+        "num": 314073,
+        "word": "蓝码",
+        "onboard_time": 1669339535,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312045,
+        "num": 312045,
+        "word": "妈妈下班8个月宝宝开心到脚丫跳舞",
+        "onboard_time": 1669365965,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246382,
+        "num": 246382,
+        "word": "卡塔尔王子有多受欢迎",
+        "onboard_time": 1669361914,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 222535,
+        "num": 222535,
+        "word": "英格兰vs美国",
+        "onboard_time": 1669363045,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 550647,
+        "num": 219415,
+        "word": "鞠婧祎红毯直播状态",
+        "onboard_time": 1669367882,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 407879,
+        "num": 215007,
+        "word": "脱口秀不能成脱缰野马",
+        "onboard_time": 1669366925,
+        "rank": 31,
+        "category": "社会新闻,综艺"
+      },
+      {
+        "raw_hot": 505670,
+        "num": 211560,
+        "word": "沈梦瑶说希望更多人认识SNH48",
+        "onboard_time": 1669367587,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 366793,
+        "num": 207171,
+        "word": "吴亦凡偷税手法曝光",
+        "onboard_time": 1669368665,
+        "rank": 33,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 206887,
+        "num": 206887,
+        "word": "猫的记忆就是一辈子",
+        "onboard_time": 1669367702,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 366294,
+        "num": 206587,
+        "word": "附加驱逐出境怎么执行",
+        "onboard_time": 1669368543,
+        "rank": 35,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 206281,
+        "num": 206281,
+        "word": "宁波顺其自然又捐了106万",
+        "onboard_time": 1669367645,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201041,
+        "num": 201041,
+        "word": "猫咪关闹钟害主人睡过头迟到",
+        "onboard_time": 1669360901,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185393,
+        "num": 185393,
+        "word": "威尔士vs伊朗",
+        "onboard_time": 1669367587,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24645,
+        "num": 184727,
+        "word": "飞猪乌镇戏剧节推戏剧体验房",
+        "onboard_time": 1669366807,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 332970,
+        "num": 184528,
+        "word": "宋亚轩百忧戒舞台皮衣造型",
+        "onboard_time": 1669368488,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 184129,
+        "num": 184129,
+        "word": "多数足球运动员定期脱毛",
+        "onboard_time": 1669366141,
+        "rank": 41,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 177088,
+        "num": 177088,
+        "word": "女生溜冰被推倒缝针肇事者拒赔偿",
+        "onboard_time": 1669360174,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175060,
+        "num": 175060,
+        "word": "蓝码人员可在绿码采样点采样",
+        "onboard_time": 1669368128,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147649,
+        "num": 147649,
+        "word": "印度球迷建十米高内马尔广告牌",
+        "onboard_time": 1669364428,
+        "rank": 44,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 139054,
+        "num": 139054,
+        "word": "腾讯最大股东投资20年赚超7000倍",
+        "onboard_time": 1669356751,
+        "rank": 45,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 136699,
+        "num": 136699,
+        "word": "你陷入过假性亲密关系吗",
+        "onboard_time": 1669368735,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 128612,
+        "num": 128612,
+        "word": "家长用发型帮老师区分三胞胎",
+        "onboard_time": 1669361134,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123317,
+        "num": 123317,
+        "word": "女子被松子噎住陌生人用海姆立克救下",
+        "onboard_time": 1669368246,
+        "rank": 48,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 108948,
+        "num": 108948,
+        "word": "Scout没去HLE",
+        "onboard_time": 1669359814,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#扎实推进能源绿色低碳转型#"
+    }
+  }
+}
