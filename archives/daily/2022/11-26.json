@@ -1,6 +1,6 @@
 {
   "startTime": 1669393663708,
-  "endTime": 1669394816217,
+  "endTime": 1669396669776,
   "band_list": [
     {
       "raw_hot": 13715986,
@@ -27,19 +27,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1742068,
+      "num": 1742068,
+      "word": "北京加快集中隔离场所和方舱医院储备建设",
+      "onboard_time": 1669392233,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1458970,
+      "num": 472607,
+      "word": "吴亦凡被驱逐后10年不得入境",
+      "onboard_time": 1669394383,
+      "rank": 30,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1279420,
       "num": 1279420,
       "word": "广州没有静默的安排",
       "onboard_time": 1669372491,
       "rank": 6,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1267848,
-      "num": 1267848,
-      "word": "北京加快集中隔离场所和方舱医院储备建设",
-      "onboard_time": 1669392233,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -65,6 +73,14 @@
       "onboard_time": 1669392530,
       "rank": 12,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 803987,
+      "num": 803987,
+      "word": "卡塔尔小王子又去现场了",
+      "onboard_time": 1669391637,
+      "rank": 38,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 767561,
@@ -163,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 416126,
+      "num": 416126,
+      "word": "荷兰vs厄瓜多尔",
+      "onboard_time": 1669391995,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 413843,
       "num": 390011,
       "word": "张艺兴说一定会上岸",
@@ -187,14 +211,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 400671,
-      "num": 400671,
-      "word": "荷兰vs厄瓜多尔",
-      "onboard_time": 1669391995,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 382956,
       "num": 382956,
       "word": "蒋龙 助演",
@@ -209,14 +225,6 @@
       "onboard_time": 1669388715,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 354867,
-      "num": 354867,
-      "word": "卡塔尔小王子又去现场了",
-      "onboard_time": 1669391637,
-      "rank": 38,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 353758,
@@ -251,12 +259,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 342676,
-      "num": 275473,
-      "word": "吴亦凡被驱逐后10年不得入境",
-      "onboard_time": 1669394383,
+      "raw_hot": 326351,
+      "num": 182070,
+      "word": "卡塔尔国王是不用自己走路的",
+      "onboard_time": 1669395639,
       "rank": 30,
-      "category": "社会新闻,艺人"
+      "category": "体育"
     },
     {
       "raw_hot": 317259,
@@ -403,7 +411,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 119888,
+      "raw_hot": 119971,
       "num": 154482,
       "word": "年底最想收到的礼物",
       "onboard_time": 1669390921,
@@ -435,8 +443,40 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 110158,
+      "num": 99352,
+      "word": "尹峥求李薇让他走个后门",
+      "onboard_time": 1669396649,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 104342,
+      "num": 104342,
+      "word": "内马尔颜值巅峰",
+      "onboard_time": 1669396591,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 99743,
+      "num": 99743,
+      "word": "情侣旅游的真相和朋友圈",
+      "onboard_time": 1669390495,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 97859,
+      "num": 97859,
+      "word": "卡塔尔 回家",
+      "onboard_time": 1669395518,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 74027,
-      "num": 1349638,
+      "num": 1388941,
       "word": "来自中国空间站的出差邀请",
       "onboard_time": 1669381789,
       "rank": 2,
@@ -446,6 +486,9 @@
   "hotgov_list": [
     {
       "word": "#扎实推进能源绿色低碳转型#"
+    },
+    {
+      "word": "#正青春 再出发#"
     }
   ]
 }
