@@ -1,6 +1,6 @@
 {
   "startTime": 1669307280718,
-  "endTime": 1669350285128,
+  "endTime": 1669351257243,
   "band_list": [
     {
       "raw_hot": 5705509,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 1998409,
-      "num": 671153,
+      "num": 698410,
       "word": "连生4女被离婚女子第五胎产下男孩",
       "onboard_time": 1669339718,
       "rank": 14,
@@ -91,7 +91,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1571275,
+      "raw_hot": 1737153,
       "num": 1571275,
       "word": "新疆一高层住宅楼火灾致10人死亡",
       "onboard_time": 1669334856,
@@ -203,8 +203,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 844543,
-      "num": 844543,
+      "raw_hot": 848204,
+      "num": 848204,
       "word": "重庆目前核酸检测结果整体真实可信",
       "onboard_time": 1669345534,
       "rank": 24,
@@ -241,6 +241,14 @@
       "onboard_time": 1669335519,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 770216,
+      "num": 770216,
+      "word": "名侦探学院",
+      "onboard_time": 1669349858,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 764134,
@@ -289,6 +297,14 @@
       "onboard_time": 1669312577,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 722581,
+      "num": 722581,
+      "word": "卡塔尔小王子学说中文有多可爱",
+      "onboard_time": 1669349978,
+      "rank": 33,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 712084,
@@ -483,20 +499,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 463409,
-      "num": 463409,
-      "word": "名侦探学院",
-      "onboard_time": 1669349858,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 456566,
       "num": 456566,
       "word": "男子中彩后女友携款与情夫私奔",
       "onboard_time": 1669331844,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 453550,
+      "num": 453550,
+      "word": "张飞扮演者李靖飞去世",
+      "onboard_time": 1669350942,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 452092,
@@ -555,6 +571,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 410357,
+      "num": 410357,
+      "word": "老人过生日将儿女给的120万全捐出",
+      "onboard_time": 1669347336,
+      "rank": 41,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 410052,
       "num": 410052,
       "word": "C罗弹跳",
@@ -600,6 +624,14 @@
       "word": "C罗热身引全场球迷欢呼",
       "onboard_time": 1669308384,
       "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 381643,
+      "num": 381643,
+      "word": "C罗点球有多可怕",
+      "onboard_time": 1669347634,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -715,14 +747,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 313435,
-      "num": 313435,
-      "word": "老人过生日将儿女给的120万全捐出",
-      "onboard_time": 1669347336,
-      "rank": 41,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 310009,
       "num": 310009,
       "word": "刘语熙预测韩国乌拉圭打平",
@@ -747,12 +771,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 306504,
+      "num": 306504,
+      "word": "特斯拉回应ModelY自燃致多辆豪车被烧毁",
+      "onboard_time": 1669350100,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 305360,
       "num": 305360,
       "word": "何其有幸领证结婚",
       "onboard_time": 1669338517,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 292470,
+      "num": 292470,
+      "word": "医学生考前做题崩溃边哭边学",
+      "onboard_time": 1669349739,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 290967,
+      "num": 279245,
+      "word": "内马尔发博庆祝首胜",
+      "onboard_time": 1669349138,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 285707,
@@ -811,6 +859,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 277478,
+      "num": 277478,
+      "word": "威尔士",
+      "onboard_time": 1669346914,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 276981,
       "num": 276981,
       "word": "加纳老六差点偷家",
@@ -833,14 +889,6 @@
       "onboard_time": 1669338699,
       "rank": 34,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 264784,
-      "num": 264784,
-      "word": "C罗点球有多可怕",
-      "onboard_time": 1669347634,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 262318,
@@ -899,14 +947,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 248866,
-      "num": 248866,
-      "word": "威尔士",
-      "onboard_time": 1669346914,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 248256,
       "num": 248256,
       "word": "武汉中心医院",
@@ -915,28 +955,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 244856,
+      "num": 244856,
+      "word": "东方风云榜好多舞台",
+      "onboard_time": 1669349557,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 242633,
       "num": 242633,
       "word": "徐艺洋分享一组新的照片",
       "onboard_time": 1669304258,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 236369,
-      "num": 236369,
-      "word": "医学生考前做题崩溃边哭边学",
-      "onboard_time": 1669349739,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 235162,
-      "num": 235162,
-      "word": "东方风云榜好多舞台",
-      "onboard_time": 1669349557,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 234491,
@@ -1003,14 +1035,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 213024,
-      "num": 213024,
-      "word": "卡塔尔小王子学说中文有多可爱",
-      "onboard_time": 1669349978,
-      "rank": 33,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 211549,
       "num": 211549,
       "word": "沪上阿姨 光与夜之恋",
@@ -1067,6 +1091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 201810,
+      "num": 201810,
+      "word": "这狗子脸上藏不住事啊",
+      "onboard_time": 1669350339,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 199936,
       "num": 199936,
       "word": "赞多新歌IAmFrom上线",
@@ -1091,6 +1123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 194692,
+      "num": 194692,
+      "word": "央视频专访表情包小王子",
+      "onboard_time": 1669351060,
+      "rank": 42,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 193555,
       "num": 193555,
       "word": "还得是C罗",
@@ -1099,12 +1139,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 191267,
-      "num": 191267,
-      "word": "内马尔发博庆祝首胜",
-      "onboard_time": 1669349138,
-      "rank": 38,
-      "category": "体育"
+      "raw_hot": 190652,
+      "num": 190652,
+      "word": "朱正廷说翼无忧期待羽你相见",
+      "onboard_time": 1669350700,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 190465,
@@ -1147,8 +1187,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 173263,
-      "num": 173263,
+      "raw_hot": 180125,
+      "num": 180125,
       "word": "新一小兰从小就甜",
       "onboard_time": 1669348535,
       "rank": 40,
@@ -1185,14 +1225,6 @@
       "onboard_time": 1669303657,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 169493,
-      "num": 169493,
-      "word": "特斯拉回应ModelY自燃致多辆豪车被烧毁",
-      "onboard_time": 1669350100,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 166980,
@@ -1331,6 +1363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 148464,
+      "num": 148464,
+      "word": "边牧走丢5小时到派出所求助",
+      "onboard_time": 1669351181,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 148246,
       "num": 148246,
       "word": "潘粤明手绘梅西",
@@ -1344,6 +1384,14 @@
       "word": "内马尔一瘸一拐离开球场",
       "onboard_time": 1669342116,
       "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 146742,
+      "num": 146742,
+      "word": "原来詹姆斯偷偷去踢世界杯了",
+      "onboard_time": 1669348413,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -1483,6 +1531,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 86187,
+      "num": 1575076,
+      "word": "中国制造见证一个又一个精彩瞬间",
+      "onboard_time": 1669298566,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 80789,
       "num": 80789,
       "word": "C罗第一粒进球",
@@ -1515,14 +1571,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 71196,
-      "num": 1575076,
-      "word": "中国制造见证一个又一个精彩瞬间",
-      "onboard_time": 1669298566,
-      "rank": 2,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 68726,
       "num": 68726,
       "word": "菲利克斯破门",
@@ -1539,20 +1587,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 60545,
+      "num": 199558,
+      "word": "阿里工程师开发轮椅导航",
+      "onboard_time": 1669348836,
+      "rank": 39,
+      "category": "科技"
+    },
+    {
       "raw_hot": 60447,
       "num": 60447,
       "word": "日本队逆转后现场中国球迷哭了",
       "onboard_time": 1669331485,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 59558,
-      "num": 178877,
-      "word": "阿里工程师开发轮椅导航",
-      "onboard_time": 1669348836,
-      "rank": 39,
-      "category": "科技"
     },
     {
       "raw_hot": 55232,
