@@ -1,6 +1,6 @@
 {
   "startTime": 1669307280718,
-  "endTime": 1669332961463,
+  "endTime": 1669340683334,
   "band_list": [
     {
       "raw_hot": 5448624,
@@ -16,6 +16,14 @@
       "word": "C罗哭了",
       "onboard_time": 1669306586,
       "rank": 3,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 4270507,
+      "num": 4270507,
+      "word": "内马尔被侵犯9次",
+      "onboard_time": 1669332027,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -59,6 +67,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1559175,
+      "num": 1475305,
+      "word": "新疆一高层住宅楼火灾致10人死亡",
+      "onboard_time": 1669334856,
+      "rank": 3,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1536291,
       "num": 1536291,
       "word": "韩国 小动作",
@@ -73,6 +89,22 @@
       "onboard_time": 1669309823,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1439608,
+      "num": 1439608,
+      "word": "白冰",
+      "onboard_time": 1669332326,
+      "rank": 13,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 1380471,
+      "num": 1380471,
+      "word": "石家庄新增确诊321例无症状2876例",
+      "onboard_time": 1669336902,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1245113,
@@ -107,6 +139,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1025925,
+      "num": 1025925,
+      "word": "蓝码",
+      "onboard_time": 1669339535,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1023036,
+      "num": 1023036,
+      "word": "女孩薅头发吃下胃里取出5斤毛球",
+      "onboard_time": 1669334255,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 966466,
       "num": 966466,
       "word": "来返沪不满5天可游玩迪士尼但不能室内就餐",
@@ -120,6 +168,14 @@
       "word": "加纳 推人",
       "onboard_time": 1669312825,
       "rank": 7,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 867561,
+      "num": 867561,
+      "word": "内马尔哭着接受治疗",
+      "onboard_time": 1669332812,
+      "rank": 45,
       "category": "体育"
     },
     {
@@ -144,6 +200,38 @@
       "word": "C罗世界杯进球瞬间",
       "onboard_time": 1669305992,
       "rank": 20,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 772556,
+      "num": 772556,
+      "word": "C罗屠榜",
+      "onboard_time": 1669335519,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 764134,
+      "num": 764134,
+      "word": "女性受侵害与穿着没有必然关系",
+      "onboard_time": 1669335698,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 762858,
+      "num": 762858,
+      "word": "北京增400例社会面",
+      "onboard_time": 1669337321,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 753483,
+      "num": 753483,
+      "word": "巴西队已20年没有拿世界杯冠军了",
+      "onboard_time": 1669334917,
+      "rank": 13,
       "category": "体育"
     },
     {
@@ -187,12 +275,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 629209,
+      "num": 629209,
+      "word": "连生4女被离婚女子第五胎产下男孩",
+      "onboard_time": 1669339718,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 613605,
       "num": 613605,
       "word": "卡塔尔王子感谢中国网友",
       "onboard_time": 1669286197,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 611015,
+      "num": 611015,
+      "word": "武汉疫情防控",
+      "onboard_time": 1669333954,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 596960,
@@ -243,12 +347,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 471886,
-      "num": 471886,
-      "word": "内马尔被侵犯9次",
-      "onboard_time": 1669332027,
-      "rank": 47,
-      "category": "体育"
+      "raw_hot": 484264,
+      "num": 484264,
+      "word": "西安疫情防控",
+      "onboard_time": 1669334074,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 464231,
@@ -259,12 +363,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 456566,
+      "num": 456566,
+      "word": "男子中彩后女友携款与情夫私奔",
+      "onboard_time": 1669331844,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 452092,
+      "num": 452092,
+      "word": "内马尔球衣被扒",
+      "onboard_time": 1669333292,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 451902,
       "num": 451902,
       "word": "卡卡 帅",
       "onboard_time": 1669311920,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 449714,
+      "num": 449714,
+      "word": "siu",
+      "onboard_time": 1669334497,
+      "rank": 20,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 426679,
@@ -339,20 +467,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 360849,
-      "num": 360849,
-      "word": "白冰",
-      "onboard_time": 1669332326,
-      "rank": 13,
-      "category": "网红"
-    },
-    {
       "raw_hot": 354805,
       "num": 354805,
       "word": "C罗连续十届大赛进球",
       "onboard_time": 1669311801,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 339586,
+      "num": 339586,
+      "word": "C罗 历史第一人",
+      "onboard_time": 1669338219,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 334438,
+      "num": 334438,
+      "word": "打完二价四价还要打九价HPV疫苗吗",
+      "onboard_time": 1669337018,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 332279,
@@ -369,6 +505,22 @@
       "onboard_time": 1669288656,
       "rank": 15,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 326833,
+      "num": 326833,
+      "word": "消除针对妇女暴力日",
+      "onboard_time": 1669340673,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 324049,
+      "num": 324049,
+      "word": "四川凉山现大片七彩祥云",
+      "onboard_time": 1669336179,
+      "rank": 26,
+      "category": "旅游"
     },
     {
       "raw_hot": 310009,
@@ -395,6 +547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 289751,
+      "num": 289751,
+      "word": "MAMA投票",
+      "onboard_time": 1669337980,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 285707,
       "num": 285707,
       "word": "乌拉圭教练被球砸脸",
@@ -411,6 +571,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 283752,
+      "num": 283752,
+      "word": "江苏九价HPV疫苗扩龄至9到45岁",
+      "onboard_time": 1669332148,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 281555,
       "num": 281555,
       "word": "敖厂长",
@@ -419,8 +587,8 @@
       "category": "游戏,网红"
     },
     {
-      "raw_hot": 278955,
-      "num": 278955,
+      "raw_hot": 280135,
+      "num": 280135,
       "word": "年轻人在健一种很新的身",
       "onboard_time": 1669329136,
       "rank": 48,
@@ -443,6 +611,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 276981,
+      "num": 276981,
+      "word": "加纳老六差点偷家",
+      "onboard_time": 1669333350,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 275117,
       "num": 275117,
       "word": "绵阳警方回应女子及幼儿坠楼",
@@ -457,6 +633,14 @@
       "onboard_time": 1669290156,
       "rank": 33,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 261858,
+      "num": 261858,
+      "word": "男孩自家超市假扮劫匪遇真警察",
+      "onboard_time": 1669338100,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 255753,
@@ -507,12 +691,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 236996,
+      "num": 236996,
+      "word": "原来猫咪侧脸可以这么可爱",
+      "onboard_time": 1669338699,
+      "rank": 34,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 234491,
       "num": 234491,
       "word": "本届世界杯第4场0比0",
       "onboard_time": 1669303127,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 232928,
+      "num": 232928,
+      "word": "何其有幸领证结婚",
+      "onboard_time": 1669338517,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 229190,
@@ -531,6 +731,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 228609,
+      "num": 228609,
+      "word": "李现发博庆祝C罗进球",
+      "onboard_time": 1669332447,
+      "rank": 26,
+      "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 224877,
+      "num": 224877,
+      "word": "11月24日新增本土确诊3041例",
+      "onboard_time": 1669339835,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 223601,
       "num": 223601,
       "word": "原来浪漫真的不需要花钱",
@@ -547,12 +763,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 218250,
+      "num": 3309809,
+      "word": "这回夸父追到了太阳",
+      "onboard_time": 1669303779,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 211549,
       "num": 211549,
       "word": "沪上阿姨 光与夜之恋",
       "onboard_time": 1669289555,
       "rank": 31,
       "category": "游戏,美食"
+    },
+    {
+      "raw_hot": 207871,
+      "num": 207871,
+      "word": "点燃我温暖你好多细节",
+      "onboard_time": 1669338398,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 206644,
@@ -571,19 +803,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 205237,
+      "num": 205237,
+      "word": "11月24日新增3041例本土确诊",
+      "onboard_time": 1669340253,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 202967,
       "num": 202967,
       "word": "杭州师大辟谣女生宿舍校园霸凌",
       "onboard_time": 1669330945,
       "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 199632,
-      "num": 137303,
-      "word": "男子中彩后女友携款与情夫私奔",
-      "onboard_time": 1669331844,
-      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -603,6 +835,30 @@
       "category": "体育"
     },
     {
+      "raw_hot": 192799,
+      "num": 192799,
+      "word": "海口海关查获5条巨人蜈蚣",
+      "onboard_time": 1669340434,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 190465,
+      "num": 190465,
+      "word": "11月24日新增本土无症状29654例",
+      "onboard_time": 1669339296,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 189391,
+      "num": 189391,
+      "word": "巴西队这个倒挂金钩绝了",
+      "onboard_time": 1669339718,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 188349,
       "num": 188349,
       "word": "潘粤明预测葡萄牙vs加纳C罗进球",
@@ -619,6 +875,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 184916,
+      "num": 184916,
+      "word": "默默努力的人真的在发光",
+      "onboard_time": 1669339475,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 182288,
       "num": 182288,
       "word": "虞书欣仙剑六明日杀青",
@@ -627,24 +891,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 181736,
-      "num": 3309809,
-      "word": "这回夸父追到了太阳",
-      "onboard_time": 1669303779,
-      "rank": 2,
-      "category": "国内要闻"
-    },
-    {
-      "raw_hot": 175633,
-      "num": 175633,
-      "word": "李现发博庆祝C罗进球",
-      "onboard_time": 1669332447,
-      "rank": 26,
-      "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 170974,
-      "num": 170974,
+      "raw_hot": 172782,
+      "num": 172782,
       "word": "今冬以来最强寒潮",
       "onboard_time": 1669331364,
       "rank": 34,
@@ -667,12 +915,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 165339,
+      "num": 165339,
+      "word": "武装台湾遏制中国大陆是痴人说梦",
+      "onboard_time": 1669331665,
+      "rank": 43,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 165266,
       "num": 165266,
       "word": "陈紫函说赵芳如矿姐变拽姐",
       "onboard_time": 1669306708,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 163419,
+      "num": 163419,
+      "word": "男子阳台不封窗被质疑不安全",
+      "onboard_time": 1669340496,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 159788,
@@ -755,28 +1019,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 126289,
-      "num": 126289,
-      "word": "武装台湾遏制中国大陆是痴人说梦",
-      "onboard_time": 1669331665,
-      "rank": 43,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 124845,
       "num": 124845,
       "word": "BLACKPINK获得SSA歌手大赏",
       "onboard_time": 1669331184,
       "rank": 31,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 124626,
-      "num": 124626,
-      "word": "江苏九价HPV疫苗扩龄至9到45岁",
-      "onboard_time": 1669332148,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 124002,
@@ -891,14 +1139,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 72172,
-      "num": 72172,
-      "word": "内马尔哭着接受治疗",
-      "onboard_time": 1669332812,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 68726,
       "num": 68726,
       "word": "菲利克斯破门",
@@ -1009,6 +1249,9 @@
     },
     {
       "word": "#航天新征程#"
+    },
+    {
+      "word": "#扎实推进能源绿色低碳转型#"
     }
   ]
 }
