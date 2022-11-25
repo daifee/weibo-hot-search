@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1669383601815,
+  "endTime": 1669385870871,
   "band_list": [
     {
       "raw_hot": 36651023,
@@ -193,6 +193,14 @@
       "onboard_time": 1667644105,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 4673335,
+      "num": 4673335,
+      "word": "汤唯获青龙奖影后",
+      "onboard_time": 1669384808,
+      "rank": 0,
+      "category": "影视"
     },
     {
       "raw_hot": 4620109,
@@ -6667,6 +6675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 840307,
+      "num": 840307,
+      "word": "卡塔尔vs塞内加尔",
+      "onboard_time": 1669379156,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 840107,
       "num": 351907,
       "word": "金鹰奖奖单",
@@ -7681,14 +7697,6 @@
       "onboard_time": 1668987145,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 756026,
-      "num": 756026,
-      "word": "卡塔尔vs塞内加尔",
-      "onboard_time": 1669379156,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 755945,
@@ -8956,7 +8964,7 @@
     },
     {
       "raw_hot": 681496,
-      "num": 519544,
+      "num": 555546,
       "word": "什么是聚众淫乱罪",
       "onboard_time": 1669374052,
       "rank": 18,
@@ -17147,6 +17155,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 427418,
+      "num": 427418,
+      "word": "伊朗球员庆祝绝杀掐主教练脖子",
+      "onboard_time": 1669382519,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 427417,
       "num": 427417,
       "word": "1岁宝宝误食安定药昏迷保姆未告知",
@@ -17409,6 +17425,14 @@
       "onboard_time": 1669125041,
       "rank": 49,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 422458,
+      "num": 422458,
+      "word": "吹风机放床上引燃被褥烧了家",
+      "onboard_time": 1669382338,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 422364,
@@ -19641,6 +19665,14 @@
       "onboard_time": 1669021714,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 380969,
+      "num": 380969,
+      "word": "卡塔尔半场0比1塞内加尔",
+      "onboard_time": 1669385344,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 380868,
@@ -22123,6 +22155,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 340816,
+      "num": 302037,
+      "word": "百忧戒",
+      "onboard_time": 1669383365,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 340761,
       "num": 340761,
       "word": "黑洞king",
@@ -22689,6 +22729,14 @@
       "onboard_time": 1667867489,
       "rank": 17,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 332998,
+      "num": 332998,
+      "word": "塞内加尔进球",
+      "onboard_time": 1669384511,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 332996,
@@ -24739,6 +24787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 307155,
+      "num": 307155,
+      "word": "为爱冲锋的勇士是场闹剧",
+      "onboard_time": 1669384688,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 307058,
       "num": 307058,
       "word": "十一月讨厌的人都在这里了",
@@ -25961,6 +26017,14 @@
       "onboard_time": 1668570087,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 288987,
+      "num": 288987,
+      "word": "卡塔尔解围失误",
+      "onboard_time": 1669384808,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 288730,
@@ -27227,14 +27291,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 275124,
-      "num": 275124,
-      "word": "百忧戒",
-      "onboard_time": 1669383365,
-      "rank": 25,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 274975,
       "num": 247388,
       "word": "卿卿日常是懂取名字的",
@@ -28065,6 +28121,14 @@
       "onboard_time": 1669088672,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 264798,
+      "num": 264798,
+      "word": "29岁男子为考央美复读10年",
+      "onboard_time": 1669384031,
+      "rank": 28,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 264797,
@@ -31131,6 +31195,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 230027,
+      "num": 228832,
+      "word": "周深最受欢迎男歌手",
+      "onboard_time": 1669384511,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 229959,
       "num": 229959,
       "word": "19年前女儿被救19年后他救人",
@@ -31289,6 +31361,14 @@
       "onboard_time": 1667952328,
       "rank": 21,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 228683,
+      "num": 228683,
+      "word": "伊朗绝杀",
+      "onboard_time": 1669378557,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 228609,
@@ -32555,6 +32635,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 217927,
+      "num": 217927,
+      "word": "吴永秀因涉嫌强制猥亵被起诉",
+      "onboard_time": 1669384688,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 217892,
       "num": 217892,
       "word": "绵阳疫情防控",
@@ -32809,6 +32897,14 @@
       "onboard_time": 1668148966,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 216465,
+      "num": 216465,
+      "word": "贺峻霖东方风云榜卷毛造型",
+      "onboard_time": 1669384327,
+      "rank": 36,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 216369,
@@ -33233,14 +33329,6 @@
       "onboard_time": 1667961865,
       "rank": 27,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 212401,
-      "num": 212401,
-      "word": "伊朗绝杀",
-      "onboard_time": 1669378557,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 212398,
@@ -36691,14 +36779,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 187530,
-      "num": 187530,
-      "word": "吹风机放床上引燃被褥烧了家",
-      "onboard_time": 1669382338,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 187465,
       "num": 187465,
       "word": "李峋是朱韵人生的第一次冒险",
@@ -38179,14 +38259,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 177314,
-      "num": 177314,
-      "word": "伊朗球员庆祝绝杀掐主教练脖子",
-      "onboard_time": 1669382519,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 177293,
       "num": 140380,
       "word": "NCTDREAM新歌Candy抢听",
@@ -39073,6 +39145,14 @@
       "onboard_time": 1667822546,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 170597,
+      "num": 170597,
+      "word": "WB状态",
+      "onboard_time": 1669385648,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 170549,
@@ -40299,6 +40379,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 161514,
+      "num": 161514,
+      "word": "外交部回应英政府停用中国产摄像头",
+      "onboard_time": 1669384688,
+      "rank": 47,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 161479,
       "num": 161479,
       "word": "要持续整治层层加码",
@@ -40841,6 +40929,14 @@
       "onboard_time": 1667291967,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 159059,
+      "num": 159059,
+      "word": "卡塔尔后卫送大礼",
+      "onboard_time": 1669385763,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 159046,
@@ -44691,6 +44787,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 136178,
+      "num": 1577453,
+      "word": "来自中国空间站的出差邀请",
+      "onboard_time": 1669381789,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 136163,
       "num": 123664,
       "word": "李峋眼神里的爱意",
@@ -46673,14 +46777,6 @@
       "onboard_time": 1667211326,
       "rank": 28,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 124432,
-      "num": 1577453,
-      "word": "来自中国空间站的出差邀请",
-      "onboard_time": 1669381789,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 124392,

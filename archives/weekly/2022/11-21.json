@@ -1,6 +1,6 @@
 {
   "startTime": 1668961718135,
-  "endTime": 1669383601815,
+  "endTime": 1669385870871,
   "band_list": [
     {
       "raw_hot": 36651023,
@@ -137,6 +137,14 @@
       "onboard_time": 1669306586,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 4673335,
+      "num": 4673335,
+      "word": "汤唯获青龙奖影后",
+      "onboard_time": 1669384808,
+      "rank": 0,
+      "category": "影视"
     },
     {
       "raw_hot": 4270507,
@@ -1883,6 +1891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 840307,
+      "num": 840307,
+      "word": "卡塔尔vs塞内加尔",
+      "onboard_time": 1669379156,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 833241,
       "num": 833241,
       "word": "点球 剧本",
@@ -2161,14 +2177,6 @@
       "onboard_time": 1668987145,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 756026,
-      "num": 756026,
-      "word": "卡塔尔vs塞内加尔",
-      "onboard_time": 1669379156,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 755133,
@@ -2492,7 +2500,7 @@
     },
     {
       "raw_hot": 681496,
-      "num": 519544,
+      "num": 555546,
       "word": "什么是聚众淫乱罪",
       "onboard_time": 1669374052,
       "rank": 18,
@@ -4747,6 +4755,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 427418,
+      "num": 427418,
+      "word": "伊朗球员庆祝绝杀掐主教练脖子",
+      "onboard_time": 1669382519,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 427150,
       "num": 414610,
       "word": "阿信微博评论区回复好走心",
@@ -4833,6 +4849,14 @@
       "onboard_time": 1669125041,
       "rank": 49,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 422458,
+      "num": 422458,
+      "word": "吹风机放床上引燃被褥烧了家",
+      "onboard_time": 1669382338,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 421939,
@@ -5521,6 +5545,14 @@
       "onboard_time": 1669021714,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 380969,
+      "num": 380969,
+      "word": "卡塔尔半场0比1塞内加尔",
+      "onboard_time": 1669385344,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 380868,
@@ -6251,6 +6283,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 340816,
+      "num": 302037,
+      "word": "百忧戒",
+      "onboard_time": 1669383365,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 340584,
       "num": 340584,
       "word": "张若昀大侦探8路透",
@@ -6433,6 +6473,14 @@
       "onboard_time": 1669201594,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 332998,
+      "num": 332998,
+      "word": "塞内加尔进球",
+      "onboard_time": 1669384511,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 332970,
@@ -7011,6 +7059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 307155,
+      "num": 307155,
+      "word": "为爱冲锋的勇士是场闹剧",
+      "onboard_time": 1669384688,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 307058,
       "num": 307058,
       "word": "十一月讨厌的人都在这里了",
@@ -7353,6 +7409,14 @@
       "onboard_time": 1669219056,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 288987,
+      "num": 288987,
+      "word": "卡塔尔解围失误",
+      "onboard_time": 1669384808,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 288227,
@@ -7739,14 +7803,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 275124,
-      "num": 275124,
-      "word": "百忧戒",
-      "onboard_time": 1669383365,
-      "rank": 25,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 274975,
       "num": 247388,
       "word": "卿卿日常是懂取名字的",
@@ -7913,6 +7969,14 @@
       "onboard_time": 1669088672,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 264798,
+      "num": 264798,
+      "word": "29岁男子为考央美复读10年",
+      "onboard_time": 1669384031,
+      "rank": 28,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 264721,
@@ -8779,6 +8843,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 230027,
+      "num": 228832,
+      "word": "周深最受欢迎男歌手",
+      "onboard_time": 1669384511,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 229190,
       "num": 229190,
       "word": "巴西vs塞尔维亚首发",
@@ -8800,6 +8872,14 @@
       "word": "内马尔能进几球",
       "onboard_time": 1669305394,
       "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 228683,
+      "num": 228683,
+      "word": "伊朗绝杀",
+      "onboard_time": 1669378557,
+      "rank": 45,
       "category": "体育"
     },
     {
@@ -9123,6 +9203,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 217927,
+      "num": 217927,
+      "word": "吴永秀因涉嫌强制猥亵被起诉",
+      "onboard_time": 1669384688,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 217892,
       "num": 217892,
       "word": "绵阳疫情防控",
@@ -9225,6 +9313,14 @@
       "onboard_time": 1669122944,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 216465,
+      "num": 216465,
+      "word": "贺峻霖东方风云榜卷毛造型",
+      "onboard_time": 1669384327,
+      "rank": 36,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 216218,
@@ -9361,14 +9457,6 @@
       "onboard_time": 1669173452,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 212401,
-      "num": 212401,
-      "word": "伊朗绝杀",
-      "onboard_time": 1669378557,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 212326,
@@ -10403,14 +10491,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 187530,
-      "num": 187530,
-      "word": "吹风机放床上引燃被褥烧了家",
-      "onboard_time": 1669382338,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 187355,
       "num": 187355,
       "word": "高校食堂大屏放世界杯学生爆满",
@@ -10875,14 +10955,6 @@
       "category": "财经,体育"
     },
     {
-      "raw_hot": 177314,
-      "num": 177314,
-      "word": "伊朗球员庆祝绝杀掐主教练脖子",
-      "onboard_time": 1669382519,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 177231,
       "num": 177231,
       "word": "女儿告诉妈妈班上男生想跟她结婚",
@@ -11121,6 +11193,14 @@
       "onboard_time": 1669308089,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 170597,
+      "num": 170597,
+      "word": "WB状态",
+      "onboard_time": 1669385648,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 170167,
@@ -11427,6 +11507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 161514,
+      "num": 161514,
+      "word": "外交部回应英政府停用中国产摄像头",
+      "onboard_time": 1669384688,
+      "rank": 47,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 161479,
       "num": 161479,
       "word": "要持续整治层层加码",
@@ -11553,6 +11641,14 @@
       "onboard_time": 1669006596,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 159059,
+      "num": 159059,
+      "word": "卡塔尔后卫送大礼",
+      "onboard_time": 1669385763,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 158691,
@@ -12499,6 +12595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 136178,
+      "num": 1577453,
+      "word": "来自中国空间站的出差邀请",
+      "onboard_time": 1669381789,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 136079,
       "num": 136079,
       "word": "应急管理部调度河南厂房火灾救援处置",
@@ -12961,14 +13065,6 @@
       "onboard_time": 1668950369,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 124432,
-      "num": 1577453,
-      "word": "来自中国空间站的出差邀请",
-      "onboard_time": 1669381789,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 124315,
