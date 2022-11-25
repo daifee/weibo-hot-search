@@ -1,6 +1,6 @@
 {
   "startTime": 1669307280718,
-  "endTime": 1669351257243,
+  "endTime": 1669353492510,
   "band_list": [
     {
       "raw_hot": 5705509,
@@ -67,12 +67,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2395503,
+      "num": 2395503,
+      "word": "张飞扮演者李靖飞去世",
+      "onboard_time": 1669350942,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1998409,
       "num": 698410,
       "word": "连生4女被离婚女子第五胎产下男孩",
       "onboard_time": 1669339718,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1909416,
+      "num": 1571275,
+      "word": "新疆一高层住宅楼火灾致10人死亡",
+      "onboard_time": 1669334856,
+      "rank": 3,
+      "category": "社会负面"
     },
     {
       "raw_hot": 1874619,
@@ -91,20 +107,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1737153,
-      "num": 1571275,
-      "word": "新疆一高层住宅楼火灾致10人死亡",
-      "onboard_time": 1669334856,
-      "rank": 3,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 1536291,
       "num": 1536291,
       "word": "韩国 小动作",
       "onboard_time": 1669296273,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1509787,
+      "num": 1509787,
+      "word": "卡塔尔小王子学说中文有多可爱",
+      "onboard_time": 1669349978,
+      "rank": 33,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 1458702,
@@ -299,14 +315,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 722581,
-      "num": 722581,
-      "word": "卡塔尔小王子学说中文有多可爱",
-      "onboard_time": 1669349978,
-      "rank": 33,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 712084,
       "num": 712084,
       "word": "C罗帅的很直接",
@@ -483,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 479193,
+      "num": 450622,
+      "word": "特斯拉回应ModelY自燃致多辆豪车被烧毁",
+      "onboard_time": 1669350100,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 471759,
       "num": 471759,
       "word": "巴西队这个倒挂金钩绝了",
@@ -507,14 +523,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 453550,
-      "num": 453550,
-      "word": "张飞扮演者李靖飞去世",
-      "onboard_time": 1669350942,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 452092,
       "num": 452092,
       "word": "内马尔球衣被扒",
@@ -537,6 +545,14 @@
       "onboard_time": 1669334497,
       "rank": 20,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 442534,
+      "num": 442534,
+      "word": "内马尔发博庆祝首胜",
+      "onboard_time": 1669349138,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 427500,
@@ -603,6 +619,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 388643,
+      "num": 388643,
+      "word": "央视频专访表情包小王子",
+      "onboard_time": 1669351060,
+      "rank": 42,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 385168,
       "num": 385168,
       "word": "台媒你们是真的懂采访",
@@ -665,6 +689,14 @@
       "onboard_time": 1669311801,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 353120,
+      "num": 353120,
+      "word": "医学生考前做题崩溃边哭边学",
+      "onboard_time": 1669349739,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 347302,
@@ -771,36 +803,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 306504,
-      "num": 306504,
-      "word": "特斯拉回应ModelY自燃致多辆豪车被烧毁",
-      "onboard_time": 1669350100,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 305360,
       "num": 305360,
       "word": "何其有幸领证结婚",
       "onboard_time": 1669338517,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 292470,
-      "num": 292470,
-      "word": "医学生考前做题崩溃边哭边学",
-      "onboard_time": 1669349739,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 290967,
-      "num": 279245,
-      "word": "内马尔发博庆祝首胜",
-      "onboard_time": 1669349138,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 285707,
@@ -963,6 +971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 243449,
+      "num": 243449,
+      "word": "终于能安心看球了",
+      "onboard_time": 1669352499,
+      "rank": 24,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 242633,
       "num": 242633,
       "word": "徐艺洋分享一组新的照片",
@@ -1011,6 +1027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 224202,
+      "num": 224202,
+      "word": "赵丽颖许半夏配音随拍",
+      "onboard_time": 1669351421,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 223601,
       "num": 223601,
       "word": "原来浪漫真的不需要花钱",
@@ -1033,6 +1057,14 @@
       "onboard_time": 1669303779,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 212186,
+      "num": 212186,
+      "word": "易烊千玺的国风造型",
+      "onboard_time": 1669353219,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 211549,
@@ -1083,20 +1115,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 204898,
+      "num": 204898,
+      "word": "这狗子脸上藏不住事啊",
+      "onboard_time": 1669350339,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 202967,
       "num": 202967,
       "word": "杭州师大辟谣女生宿舍校园霸凌",
       "onboard_time": 1669330945,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 201810,
-      "num": 201810,
-      "word": "这狗子脸上藏不住事啊",
-      "onboard_time": 1669350339,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 199936,
@@ -1123,19 +1155,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 194692,
-      "num": 194692,
-      "word": "央视频专访表情包小王子",
-      "onboard_time": 1669351060,
-      "rank": 42,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 193555,
       "num": 193555,
       "word": "还得是C罗",
       "onboard_time": 1669312825,
       "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 191898,
+      "num": 191898,
+      "word": "原来詹姆斯偷偷去踢世界杯了",
+      "onboard_time": 1669348413,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -1177,6 +1209,14 @@
       "onboard_time": 1669339475,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 183531,
+      "num": 183531,
+      "word": "许凯醉酒戏是开机第一天拍的",
+      "onboard_time": 1669352860,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 182288,
@@ -1387,12 +1427,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 146742,
-      "num": 146742,
-      "word": "原来詹姆斯偷偷去踢世界杯了",
-      "onboard_time": 1669348413,
-      "rank": 49,
-      "category": "体育"
+      "raw_hot": 144240,
+      "num": 144240,
+      "word": "SUV刹车失灵高速狂奔近40公里",
+      "onboard_time": 1669351539,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 144074,
+      "num": 144074,
+      "word": "名侦探柯南是懂配乐的",
+      "onboard_time": 1669353398,
+      "rank": 47,
+      "category": "动漫"
     },
     {
       "raw_hot": 143979,
@@ -1443,12 +1491,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 125833,
+      "num": 125833,
+      "word": "加纳球员面对C罗做出siu",
+      "onboard_time": 1669353339,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 124845,
       "num": 124845,
       "word": "BLACKPINK获得SSA歌手大赏",
       "onboard_time": 1669331184,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 124315,
+      "num": 124315,
+      "word": "00后球迷为狗狗布置迷你足球场",
+      "onboard_time": 1669352618,
+      "rank": 49,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 124002,
@@ -1692,6 +1756,9 @@
     },
     {
       "word": "#扎实推进能源绿色低碳转型#"
+    },
+    {
+      "word": "#正青春 再出发#"
     }
   ]
 }

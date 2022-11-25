@@ -1,0 +1,410 @@
+{
+  "runTime": 1669353492510,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3562744,
+        "num": 3562744,
+        "word": "蓝码",
+        "onboard_time": 1669339535,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2395503,
+        "num": 2395503,
+        "word": "张飞扮演者李靖飞去世",
+        "onboard_time": 1669350942,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 59376,
+        "num": 1521186,
+        "word": "中国制造见证一个又一个精彩瞬间",
+        "onboard_time": 1669298566,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1509787,
+        "num": 1509787,
+        "word": "卡塔尔小王子学说中文有多可爱",
+        "onboard_time": 1669349978,
+        "rank": 3,
+        "category": "体育,综艺"
+      },
+      {
+        "raw_hot": 995569,
+        "num": 995569,
+        "word": "内马尔被侵犯9次",
+        "onboard_time": 1669332027,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 838461,
+        "num": 838461,
+        "word": "沙特奖励球员每人一台劳斯莱斯",
+        "onboard_time": 1669341698,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 696830,
+        "num": 696830,
+        "word": "重庆目前核酸检测结果整体真实可信",
+        "onboard_time": 1669345534,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 682635,
+        "num": 682635,
+        "word": "兰州通报阳性转运群众核酸阴性",
+        "onboard_time": 1669344332,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 536852,
+        "num": 536852,
+        "word": "名侦探学院",
+        "onboard_time": 1669349858,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 455817,
+        "num": 455817,
+        "word": "自媒体年入几万是什么水平",
+        "onboard_time": 1669346737,
+        "rank": 9,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1909416,
+        "num": 452557,
+        "word": "新疆一高层住宅楼火灾致10人死亡",
+        "onboard_time": 1669334856,
+        "rank": 10,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 818471,
+        "num": 452178,
+        "word": "连生4女被离婚女子第五胎产下男孩",
+        "onboard_time": 1669339718,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 479193,
+        "num": 450622,
+        "word": "特斯拉回应ModelY自燃致多辆豪车被烧毁",
+        "onboard_time": 1669350100,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 442534,
+        "num": 442534,
+        "word": "内马尔发博庆祝首胜",
+        "onboard_time": 1669349138,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 397330,
+        "num": 397330,
+        "word": "老人过生日将儿女给的120万全捐出",
+        "onboard_time": 1669347336,
+        "rank": 14,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 388643,
+        "num": 388643,
+        "word": "央视频专访表情包小王子",
+        "onboard_time": 1669351060,
+        "rank": 15,
+        "category": "体育,综艺"
+      },
+      {
+        "raw_hot": 377525,
+        "num": 377525,
+        "word": "海口海关查获5条巨人蜈蚣",
+        "onboard_time": 1669340434,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353120,
+        "num": 353120,
+        "word": "医学生考前做题崩溃边哭边学",
+        "onboard_time": 1669349739,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 351204,
+        "num": 351204,
+        "word": "iPhone不送充电器被巴西扣押数百部",
+        "onboard_time": 1669346074,
+        "rank": 18,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 315582,
+        "num": 315582,
+        "word": "C罗点球有多可怕",
+        "onboard_time": 1669347634,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 337569,
+        "num": 309057,
+        "word": "陈飞宇公主裙",
+        "onboard_time": 1669344214,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 297845,
+        "num": 297845,
+        "word": "彭小苒新剧再穿异域装",
+        "onboard_time": 1669347515,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 271799,
+        "num": 271799,
+        "word": "女儿不满房产分配放火烧屋获刑",
+        "onboard_time": 1669342776,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246918,
+        "num": 246918,
+        "word": "女孩薅头发吃下胃里取出5斤毛球",
+        "onboard_time": 1669334255,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243449,
+        "num": 243449,
+        "word": "终于能安心看球了",
+        "onboard_time": 1669352499,
+        "rank": 24,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 232881,
+        "num": 232881,
+        "word": "大龄程序员为了再就业有多拼",
+        "onboard_time": 1669347098,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 231902,
+        "num": 231902,
+        "word": "北京增400例社会面",
+        "onboard_time": 1669337321,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227226,
+        "num": 227226,
+        "word": "威尔士",
+        "onboard_time": 1669346914,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 224202,
+        "num": 224202,
+        "word": "赵丽颖许半夏配音随拍",
+        "onboard_time": 1669351421,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 222527,
+        "num": 222527,
+        "word": "白冰",
+        "onboard_time": 1669332326,
+        "rank": 29,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 219525,
+        "num": 219525,
+        "word": "石家庄新增确诊321例无症状2876例",
+        "onboard_time": 1669336902,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214683,
+        "num": 214683,
+        "word": "凌不疑程少商看初雪了吗",
+        "onboard_time": 1669346434,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 213021,
+        "num": 213021,
+        "word": "内马尔受伤",
+        "onboard_time": 1669331904,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 212186,
+        "num": 212186,
+        "word": "易烊千玺的国风造型",
+        "onboard_time": 1669353219,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 208841,
+        "num": 208841,
+        "word": "网购也要小心社死",
+        "onboard_time": 1669344514,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 206036,
+        "num": 206036,
+        "word": "卿卿日常空镜有多美",
+        "onboard_time": 1669349615,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204898,
+        "num": 204898,
+        "word": "这狗子脸上藏不住事啊",
+        "onboard_time": 1669350339,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 199658,
+        "num": 199658,
+        "word": "星河长明定档1130",
+        "onboard_time": 1669341995,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 196826,
+        "num": 196826,
+        "word": "内马尔哭着接受治疗",
+        "onboard_time": 1669332812,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191898,
+        "num": 191898,
+        "word": "原来詹姆斯偷偷去踢世界杯了",
+        "onboard_time": 1669348413,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183531,
+        "num": 183531,
+        "word": "许凯醉酒戏是开机第一天拍的",
+        "onboard_time": 1669352860,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 170613,
+        "num": 170613,
+        "word": "东方风云榜好多舞台",
+        "onboard_time": 1669349557,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167463,
+        "num": 167463,
+        "word": "梅西和内马尔的神仙友情",
+        "onboard_time": 1669343496,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167400,
+        "num": 167400,
+        "word": "C罗屠榜",
+        "onboard_time": 1669335519,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164525,
+        "num": 164525,
+        "word": "巴西队这个倒挂金钩绝了",
+        "onboard_time": 1669339718,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154035,
+        "num": 154035,
+        "word": "王心凌说好久没有发美照了",
+        "onboard_time": 1669343735,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144240,
+        "num": 144240,
+        "word": "SUV刹车失灵高速狂奔近40公里",
+        "onboard_time": 1669351539,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144074,
+        "num": 144074,
+        "word": "名侦探柯南是懂配乐的",
+        "onboard_time": 1669353398,
+        "rank": 47,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 125833,
+        "num": 125833,
+        "word": "加纳球员面对C罗做出siu",
+        "onboard_time": 1669353339,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124315,
+        "num": 124315,
+        "word": "00后球迷为狗狗布置迷你足球场",
+        "onboard_time": 1669352618,
+        "rank": 49,
+        "category": "体育,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#正青春 再出发#"
+    }
+  }
+}
