@@ -1,6 +1,6 @@
 {
   "startTime": 1668961718135,
-  "endTime": 1669354455886,
+  "endTime": 1669357546061,
   "band_list": [
     {
       "raw_hot": 15128338,
@@ -443,6 +443,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 2033284,
+      "num": 1571275,
+      "word": "新疆一高层住宅楼火灾致10人死亡",
+      "onboard_time": 1669334856,
+      "rank": 3,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1998653,
       "num": 1998653,
       "word": "沙特全国放假一天",
@@ -457,14 +465,6 @@
       "onboard_time": 1669339718,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1993540,
-      "num": 1571275,
-      "word": "新疆一高层住宅楼火灾致10人死亡",
-      "onboard_time": 1669334856,
-      "rank": 3,
-      "category": "社会负面"
     },
     {
       "raw_hot": 1978467,
@@ -3019,6 +3019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 560948,
+      "num": 334691,
+      "word": "乌鲁木齐住宅楼火灾疑因插线板着火引发",
+      "onboard_time": 1669355497,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 560290,
       "num": 560290,
       "word": "妹妹误将火碱当冰糖冲给姐姐喝",
@@ -3523,6 +3531,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 497633,
+      "num": 330156,
+      "word": "刘备扮演者孙彦军悼念李靖飞",
+      "onboard_time": 1669354597,
+      "rank": 12,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 497325,
       "num": 497325,
       "word": "百位起点作家集体填坑",
@@ -3993,6 +4009,14 @@
       "onboard_time": 1669033239,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 448079,
+      "num": 448079,
+      "word": "杨幂许凯下班比耶合照",
+      "onboard_time": 1669354413,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 448032,
@@ -4865,6 +4889,14 @@
       "onboard_time": 1669308384,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 383150,
+      "num": 230072,
+      "word": "宋小宝卡塔尔分宝",
+      "onboard_time": 1669355673,
+      "rank": 20,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 382910,
@@ -7803,6 +7835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 232238,
+      "num": 232238,
+      "word": "当卡塔尔小王子摘掉头巾后",
+      "onboard_time": 1669355856,
+      "rank": 19,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 232182,
       "num": 232182,
       "word": "萨卡梅开二度",
@@ -8379,14 +8419,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 215223,
-      "num": 124861,
-      "word": "杨幂许凯下班比耶合照",
-      "onboard_time": 1669354413,
-      "rank": 47,
-      "category": "影视"
-    },
-    {
       "raw_hot": 215041,
       "num": 164298,
       "word": "失落詹青云被沙特球迷环绕",
@@ -8443,6 +8475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 212326,
+      "num": 212326,
+      "word": "加纳球员面对C罗做出siu",
+      "onboard_time": 1669353339,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 212319,
       "num": 212319,
       "word": "巴西球迷求管泽元闭嘴",
@@ -8465,6 +8505,14 @@
       "onboard_time": 1669168652,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 211579,
+      "num": 211579,
+      "word": "雪王就是街溜子代表吧",
+      "onboard_time": 1669354175,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 211545,
@@ -8601,6 +8649,14 @@
       "onboard_time": 1669310482,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 206292,
+      "num": 206292,
+      "word": "SUV刹车失灵高速狂奔近40公里",
+      "onboard_time": 1669351539,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 206095,
@@ -8969,6 +9025,14 @@
       "onboard_time": 1669196915,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 196947,
+      "num": 181789,
+      "word": "第29届东方风云榜节目单",
+      "onboard_time": 1669356873,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 196849,
@@ -9539,14 +9603,6 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 184657,
-      "num": 184657,
-      "word": "SUV刹车失灵高速狂奔近40公里",
-      "onboard_time": 1669351539,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 184577,
       "num": 184577,
       "word": "对美国女友讲一整天的英国口音",
@@ -9657,6 +9713,14 @@
       "onboard_time": 1669115673,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 181954,
+      "num": 181954,
+      "word": "诛仙斗罗大陆等作品宣布更新",
+      "onboard_time": 1669356035,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 181947,
@@ -9955,6 +10019,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 172229,
+      "num": 172229,
+      "word": "白敬亭尹峥厨房偷吃花絮",
+      "onboard_time": 1669356393,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 172159,
       "num": 172159,
       "word": "蔡徐坤前东家晒练习生整形费用",
@@ -10008,14 +10080,6 @@
       "word": "卡塔尔0比2厄瓜多尔",
       "onboard_time": 1668967818,
       "rank": 24,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 171122,
-      "num": 171122,
-      "word": "加纳球员面对C罗做出siu",
-      "onboard_time": 1669353339,
-      "rank": 48,
       "category": "体育"
     },
     {
@@ -10131,6 +10195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 168613,
+      "num": 168613,
+      "word": "遇到老六连C罗都震惊了",
+      "onboard_time": 1669355856,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 168032,
       "num": 168032,
       "word": "男子骑摩托拖狗好心人追1公里救下",
@@ -10195,6 +10267,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 165140,
+      "num": 165140,
+      "word": "金雪跳nxde",
+      "onboard_time": 1669357172,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 164490,
       "num": 164490,
       "word": "百部高清修复版港片上线",
@@ -10217,6 +10297,14 @@
       "onboard_time": 1669156035,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 164034,
+      "num": 164034,
+      "word": "星河长明",
+      "onboard_time": 1669355073,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 163912,
@@ -11523,6 +11611,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 130979,
+      "num": 130979,
+      "word": "众星给不要再见啊鱼花塘宣传",
+      "onboard_time": 1669354657,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 130129,
       "num": 130129,
       "word": "智族GQ红毯背后阵容",
@@ -11561,6 +11657,14 @@
       "onboard_time": 1669258772,
       "rank": 49,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 129228,
+      "num": 129228,
+      "word": "腾讯最大股东投资20年赚超7000倍",
+      "onboard_time": 1669356751,
+      "rank": 45,
+      "category": "科技"
     },
     {
       "raw_hot": 129154,
@@ -11617,14 +11721,6 @@
       "onboard_time": 1669109610,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 127698,
-      "num": 127698,
-      "word": "雪王就是街溜子代表吧",
-      "onboard_time": 1669354175,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 127581,
@@ -12081,6 +12177,14 @@
       "onboard_time": 1669109251,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 114917,
+      "num": 114917,
+      "word": "成年人为啥有话不直说",
+      "onboard_time": 1669356156,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 114732,
@@ -12584,6 +12688,14 @@
       "word": "水花连续三分终结比赛",
       "onboard_time": 1669000291,
       "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 97536,
+      "num": 97536,
+      "word": "米卢说敢接手现在的国足",
+      "onboard_time": 1669356935,
+      "rank": 47,
       "category": "体育"
     },
     {

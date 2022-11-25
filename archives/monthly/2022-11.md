@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/01 00:36:21 ~ 2022/11/25 13:34:15
+本榜单时间：2022/11/01 00:36:21 ~ 2022/11/25 14:25:46
 </p>
 </blockquote>
 <p>
@@ -939,6 +939,12 @@ LPL输得不冤（热度：2073824）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%96%86%E4%B8%80%E9%AB%98%E5%B1%82%E4%BD%8F%E5%AE%85%E6%A5%BC%E7%81%AB%E7%81%BE%E8%87%B410%E4%BA%BA%E6%AD%BB%E4%BA%A1%23" target="weibo">
+新疆一高层住宅楼火灾致10人死亡（热度：2033284）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E7%97%9B%E7%BB%8F%E5%81%87%E7%BB%8F%E7%A1%AE%E8%AF%8A%E5%8F%AF%E4%BC%911%E5%88%B02%E5%A4%A9%23" target="weibo">
 深圳痛经假经确诊可休1到2天（热度：2026265）
 </a>
@@ -995,12 +1001,6 @@ IU（热度：2015592）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%9D%AF%E5%BC%80%E5%B9%95%E5%BC%8F%E6%8F%90%E5%89%8D%E4%B8%80%E5%B0%8F%E6%97%B6%23" target="weibo">
 世界杯开幕式提前一小时（热度：1994161）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%96%86%E4%B8%80%E9%AB%98%E5%B1%82%E4%BD%8F%E5%AE%85%E6%A5%BC%E7%81%AB%E7%81%BE%E8%87%B410%E4%BA%BA%E6%AD%BB%E4%BA%A1%23" target="weibo">
-新疆一高层住宅楼火灾致10人死亡（热度：1993540）
 </a>
 </li>
 
