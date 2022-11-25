@@ -1,6 +1,6 @@
 {
   "startTime": 1669393663708,
-  "endTime": 1669397688900,
+  "endTime": 1669400694118,
   "band_list": [
     {
       "raw_hot": 13715986,
@@ -123,6 +123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 644121,
+      "num": 644121,
+      "word": "卡塔尔 回家",
+      "onboard_time": 1669395518,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 520246,
       "num": 520246,
       "word": "北京WB",
@@ -171,6 +179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 460616,
+      "num": 385931,
+      "word": "卡塔尔国王是不用自己走路的",
+      "onboard_time": 1669395639,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 425301,
       "num": 425301,
       "word": "官方回应北京一感染者求助安置猫咪",
@@ -209,14 +225,6 @@
       "onboard_time": 1669390680,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 385931,
-      "num": 385931,
-      "word": "卡塔尔国王是不用自己走路的",
-      "onboard_time": 1669395639,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 382956,
@@ -323,19 +331,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 237999,
+      "num": 237999,
+      "word": "内马尔颜值巅峰",
+      "onboard_time": 1669396591,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 234895,
       "num": 234895,
       "word": "伊朗球员庆祝绝杀掐主教练脖子",
       "onboard_time": 1669382519,
       "rank": 37,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 226791,
-      "num": 226791,
-      "word": "内马尔颜值巅峰",
-      "onboard_time": 1669396591,
-      "rank": 44,
       "category": "体育"
     },
     {
@@ -369,14 +377,6 @@
       "onboard_time": 1669393789,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 194069,
-      "num": 194069,
-      "word": "卡塔尔 回家",
-      "onboard_time": 1669395518,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 190791,
@@ -475,6 +475,30 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 105867,
+      "num": 103405,
+      "word": "卡塔尔提前小组出局",
+      "onboard_time": 1669400422,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 89680,
+      "num": 89680,
+      "word": "卡塔尔莫扎太后的传奇人生",
+      "onboard_time": 1669398506,
+      "rank": 32,
+      "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 77627,
+      "num": 77627,
+      "word": "原神",
+      "onboard_time": 1669379273,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 74027,
       "num": 1388941,
       "word": "来自中国空间站的出差邀请",
@@ -483,11 +507,35 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 73455,
+      "num": 73455,
+      "word": "陈都灵新剧好拽",
+      "onboard_time": 1669399464,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 64705,
       "num": 84947,
       "word": "足坛里的那些意难平",
       "onboard_time": 1669397189,
       "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 60187,
+      "num": 60187,
+      "word": "加克波连续两场进球",
+      "onboard_time": 1669399523,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 58857,
+      "num": 58857,
+      "word": "厄瓜多尔进球被吹",
+      "onboard_time": 1669400602,
+      "rank": 44,
       "category": "体育"
     }
   ],
