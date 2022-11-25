@@ -1,6 +1,6 @@
 {
   "startTime": 1669307280718,
-  "endTime": 1669346501666,
+  "endTime": 1669348083467,
   "band_list": [
     {
       "raw_hot": 5705509,
@@ -187,6 +187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 893066,
+      "num": 893066,
+      "word": "兰州通报阳性转运群众核酸阴性",
+      "onboard_time": 1669344332,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 867561,
       "num": 867561,
       "word": "内马尔哭着接受治疗",
@@ -283,7 +291,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 692630,
+      "raw_hot": 699560,
       "num": 377258,
       "word": "陈飞宇公主裙",
       "onboard_time": 1669344214,
@@ -299,11 +307,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 640263,
-      "num": 640263,
-      "word": "兰州通报阳性转运群众核酸阴性",
-      "onboard_time": 1669344332,
-      "rank": 23,
+      "raw_hot": 649856,
+      "num": 649856,
+      "word": "重庆目前核酸检测结果整体真实可信",
+      "onboard_time": 1669345534,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -395,6 +403,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 533250,
+      "num": 533250,
+      "word": "iPhone不送充电器被巴西扣押数百部",
+      "onboard_time": 1669346074,
+      "rank": 39,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 532885,
+      "num": 532885,
+      "word": "自媒体年入几万是什么水平",
+      "onboard_time": 1669346737,
+      "rank": 11,
+      "category": "科技"
+    },
+    {
       "raw_hot": 529614,
       "num": 500586,
       "word": "李明德再发文晒和公司聊天细节",
@@ -419,6 +443,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 492006,
+      "num": 492006,
+      "word": "梅西和内马尔的神仙友情",
+      "onboard_time": 1669343496,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 487109,
       "num": 487109,
       "word": "网传马嘉祺刘耀文严浩翔将发新歌",
@@ -433,14 +465,6 @@
       "onboard_time": 1669334074,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 482920,
-      "num": 482920,
-      "word": "梅西和内马尔的神仙友情",
-      "onboard_time": 1669343496,
-      "rank": 21,
-      "category": "体育"
     },
     {
       "raw_hot": 471759,
@@ -491,6 +515,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 427500,
+      "num": 427500,
+      "word": "彭小苒新剧再穿异域装",
+      "onboard_time": 1669347515,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 426679,
       "num": 426679,
       "word": "朱广权押韵评C罗五战世界杯",
@@ -508,7 +540,7 @@
     },
     {
       "raw_hot": 411474,
-      "num": 232264,
+      "num": 263733,
       "word": "湖南疾控专家解答蓝码相关问题",
       "onboard_time": 1669346193,
       "rank": 30,
@@ -643,12 +675,28 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 316247,
+      "num": 316247,
+      "word": "凌不疑程少商看初雪了吗",
+      "onboard_time": 1669346434,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 310009,
       "num": 310009,
       "word": "刘语熙预测韩国乌拉圭打平",
       "onboard_time": 1669300121,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 309066,
+      "num": 309066,
+      "word": "网购也要小心社死",
+      "onboard_time": 1669344514,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 308325,
@@ -681,14 +729,6 @@
       "onboard_time": 1669301386,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 284970,
-      "num": 284970,
-      "word": "重庆目前核酸检测结果整体真实可信",
-      "onboard_time": 1669345534,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 284655,
@@ -753,14 +793,6 @@
       "onboard_time": 1669302058,
       "rank": 23,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 272723,
-      "num": 272723,
-      "word": "网购也要小心社死",
-      "onboard_time": 1669344514,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 272420,
@@ -1003,6 +1035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 188663,
+      "num": 188663,
+      "word": "威尔士",
+      "onboard_time": 1669346914,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 188349,
       "num": 188349,
       "word": "潘粤明预测葡萄牙vs加纳C罗进球",
@@ -1024,6 +1064,14 @@
       "word": "默默努力的人真的在发光",
       "onboard_time": 1669339475,
       "rank": 44,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 182808,
+      "num": 182808,
+      "word": "大龄程序员为了再就业有多拼",
+      "onboard_time": 1669347098,
+      "rank": 34,
       "category": "情感"
     },
     {
@@ -1067,14 +1115,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 167992,
-      "num": 167992,
-      "word": "iPhone不送充电器被巴西扣押数百部",
-      "onboard_time": 1669346074,
-      "rank": 39,
-      "category": "科技"
-    },
-    {
       "raw_hot": 166980,
       "num": 166980,
       "word": "苏醒晒0713男团reaction",
@@ -1097,6 +1137,14 @@
       "onboard_time": 1669306708,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 164423,
+      "num": 164423,
+      "word": "老人过生日将儿女给的120万全捐出",
+      "onboard_time": 1669347336,
+      "rank": 41,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 164307,
@@ -1139,6 +1187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 152862,
+      "num": 152862,
+      "word": "谁还没听过内马尔唱歌",
+      "onboard_time": 1669347814,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 152232,
       "num": 152232,
       "word": "日本足协正申请加入欧足联",
@@ -1163,12 +1219,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 150417,
+      "num": 150417,
+      "word": "C罗点球有多可怕",
+      "onboard_time": 1669347634,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 150186,
       "num": 150186,
       "word": "女子煮墨鱼没放墨汁似熬沥青",
       "onboard_time": 1669290037,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 148913,
+      "num": 142335,
+      "word": "C罗表情包",
+      "onboard_time": 1669347876,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 148246,
+      "num": 148246,
+      "word": "潘粤明手绘梅西",
+      "onboard_time": 1669347515,
+      "rank": 45,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 147656,
@@ -1217,14 +1297,6 @@
       "onboard_time": 1669345474,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 136778,
-      "num": 136778,
-      "word": "凌不疑程少商看初雪了吗",
-      "onboard_time": 1669346434,
-      "rank": 49,
-      "category": "影视"
     },
     {
       "raw_hot": 130997,
