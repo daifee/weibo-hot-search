@@ -1,6 +1,6 @@
 {
   "startTime": 1669307280718,
-  "endTime": 1669372683163,
+  "endTime": 1669375027113,
   "band_list": [
     {
       "raw_hot": 36651023,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 3111652,
-      "num": 459224,
+      "num": 502857,
       "word": "吴亦凡强奸聚众淫乱案细节披露",
       "onboard_time": 1669364253,
       "rank": 30,
@@ -105,6 +105,14 @@
       "onboard_time": 1669307847,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2687463,
+      "num": 1794852,
+      "word": "吴亦凡偷税手法曝光",
+      "onboard_time": 1669368665,
+      "rank": 33,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 2538534,
@@ -163,20 +171,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1794852,
-      "num": 1794852,
-      "word": "吴亦凡偷税手法曝光",
-      "onboard_time": 1669368665,
-      "rank": 33,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 1762338,
       "num": 343589,
       "word": "吴亦凡商业版图盘点",
       "onboard_time": 1669367221,
       "rank": 21,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1739066,
+      "num": 1045786,
+      "word": "夫妻洗澡去世留下8个孩子最新后续",
+      "onboard_time": 1669372614,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1681792,
@@ -379,6 +387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 774057,
+      "num": 774057,
+      "word": "央行决定降准0.25个百分点",
+      "onboard_time": 1669370814,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 773220,
       "num": 773220,
       "word": "个人养老金",
@@ -483,12 +499,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 681838,
+      "num": 681838,
+      "word": "广州没有静默的安排",
+      "onboard_time": 1669372491,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 668126,
       "num": 668126,
       "word": "乌拉圭0比0韩国",
       "onboard_time": 1669302117,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 661021,
+      "num": 497937,
+      "word": "江宁婆婆谈吴亦凡案一审宣判",
+      "onboard_time": 1669370159,
+      "rank": 30,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 636366,
@@ -571,14 +603,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 564554,
-      "num": 353439,
-      "word": "央行决定降准0.25个百分点",
-      "onboard_time": 1669370814,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 562502,
       "num": 562502,
       "word": "腾讯最大股东投资20年赚超7000倍",
@@ -635,6 +659,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 542330,
+      "num": 487545,
+      "word": "本月少女chuu被退团",
+      "onboard_time": 1669372190,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 538033,
+      "num": 538033,
+      "word": "老人让两只狗背菜被指虐待",
+      "onboard_time": 1669369385,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 535994,
       "num": 535994,
       "word": "星河长明定档1130",
@@ -667,14 +707,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 524102,
-      "num": 289334,
-      "word": "本月少女chuu被退团",
-      "onboard_time": 1669372190,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 523379,
       "num": 523379,
       "word": "特斯拉回应ModelY自燃致多辆豪车被烧毁",
@@ -705,14 +737,6 @@
       "onboard_time": 1669305754,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 500290,
-      "num": 250564,
-      "word": "江宁婆婆谈吴亦凡案一审宣判",
-      "onboard_time": 1669370159,
-      "rank": 30,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 497387,
@@ -763,14 +787,6 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 478230,
-      "num": 478230,
-      "word": "老人让两只狗背菜被指虐待",
-      "onboard_time": 1669369385,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 473163,
       "num": 473163,
       "word": "女子扮算命大师骗室友260余万",
@@ -793,6 +809,14 @@
       "onboard_time": 1669351060,
       "rank": 42,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 466671,
+      "num": 466671,
+      "word": "北京新增本土感染者1119例",
+      "onboard_time": 1669369623,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 464231,
@@ -987,6 +1011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 401883,
+      "num": 401883,
+      "word": "四千金妈妈发文称明日将出院",
+      "onboard_time": 1669372791,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 400285,
       "num": 400285,
       "word": "小朋友问爸爸中国队呢",
@@ -1001,6 +1033,14 @@
       "onboard_time": 1669305158,
       "rank": 35,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 397829,
+      "num": 397829,
+      "word": "内马尔曾与白血病小男孩的约定",
+      "onboard_time": 1669371592,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 394613,
@@ -1073,6 +1113,14 @@
       "onboard_time": 1669359814,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 376111,
+      "num": 376111,
+      "word": "威尔士vs伊朗半场0比0",
+      "onboard_time": 1669373996,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 370671,
@@ -1179,6 +1227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 334694,
+      "num": 293379,
+      "word": "李明德要求公司正面回答问题",
+      "onboard_time": 1669373751,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 334438,
       "num": 334438,
       "word": "打完二价四价还要打九价HPV疫苗吗",
@@ -1233,6 +1289,14 @@
       "onboard_time": 1669336179,
       "rank": 26,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 322800,
+      "num": 322800,
+      "word": "什么是聚众淫乱罪",
+      "onboard_time": 1669374052,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 319511,
@@ -1475,14 +1539,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 253020,
-      "num": 253020,
-      "word": "北京新增本土感染者1119例",
-      "onboard_time": 1669369623,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 250701,
       "num": 250701,
       "word": "葡萄牙首发",
@@ -1499,12 +1555,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 245021,
+      "num": 409493,
+      "word": "深夜看球吃泡面有多爽",
+      "onboard_time": 1669370458,
+      "rank": 14,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 244856,
       "num": 244856,
       "word": "东方风云榜好多舞台",
       "onboard_time": 1669349557,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 243182,
+      "num": 174890,
+      "word": "命韵峋环今天都穿了黑西装",
+      "onboard_time": 1669373270,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 242633,
@@ -1819,14 +1891,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 189477,
-      "num": 189477,
-      "word": "内马尔曾与白血病小男孩的约定",
-      "onboard_time": 1669371592,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 188349,
       "num": 188349,
       "word": "潘粤明预测葡萄牙vs加纳C罗进球",
@@ -1867,19 +1931,19 @@
       "category": "影视"
     },
     {
+      "raw_hot": 182859,
+      "num": 182859,
+      "word": "GK对战WB",
+      "onboard_time": 1669374593,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 182764,
       "num": 182764,
       "word": "印度球迷建十米高内马尔广告牌",
       "onboard_time": 1669364428,
       "rank": 41,
-      "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 182403,
-      "num": 409493,
-      "word": "深夜看球吃泡面有多爽",
-      "onboard_time": 1669370458,
-      "rank": 14,
       "category": "体育,社会新闻"
     },
     {
@@ -1979,6 +2043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 168968,
+      "num": 168968,
+      "word": "男子在轿车门上写道歉信求原谅",
+      "onboard_time": 1669373033,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 166980,
       "num": 166980,
       "word": "苏醒晒0713男团reaction",
@@ -2075,12 +2147,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 155419,
+      "num": 155419,
+      "word": "妻子回娘家丈夫喇叭广播还彩礼",
+      "onboard_time": 1669374414,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 155102,
       "num": 155102,
       "word": "C罗好自律",
       "onboard_time": 1669322172,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 154439,
+      "num": 152004,
+      "word": "降准",
+      "onboard_time": 1669375013,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 153927,
@@ -2123,20 +2211,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 150789,
-      "num": 184228,
-      "word": "广州没有静默的安排",
-      "onboard_time": 1669372491,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 150186,
       "num": 150186,
       "word": "女子煮墨鱼没放墨汁似熬沥青",
       "onboard_time": 1669290037,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 149193,
+      "num": 145209,
+      "word": "内马尔的脚法有多准",
+      "onboard_time": 1669374535,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 148913,
@@ -2161,6 +2249,14 @@
       "onboard_time": 1669347515,
       "rank": 45,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 148122,
+      "num": 148122,
+      "word": "闺女呼叫爸爸回家腔调拿捏绝了",
+      "onboard_time": 1669374353,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 147656,
@@ -2209,14 +2305,6 @@
       "onboard_time": 1669353937,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 140257,
-      "num": 180640,
-      "word": "夫妻洗澡去世留下8个孩子最新后续",
-      "onboard_time": 1669372614,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 140191,
