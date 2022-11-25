@@ -1,6 +1,6 @@
 {
   "startTime": 1668961718135,
-  "endTime": 1669340683334,
+  "endTime": 1669342274665,
   "band_list": [
     {
       "raw_hot": 15128338,
@@ -137,6 +137,14 @@
       "onboard_time": 1669112252,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 3537796,
+      "num": 3537796,
+      "word": "蓝码",
+      "onboard_time": 1669339535,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3401994,
@@ -497,6 +505,14 @@
       "onboard_time": 1668957578,
       "rank": 3,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 1815623,
+      "num": 671153,
+      "word": "连生4女被离婚女子第五胎产下男孩",
+      "onboard_time": 1669339718,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1769248,
@@ -1257,14 +1273,6 @@
       "onboard_time": 1669087891,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1025925,
-      "num": 1025925,
-      "word": "蓝码",
-      "onboard_time": 1669339535,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1023036,
@@ -2464,14 +2472,6 @@
       "word": "郑州新增1例死亡病例",
       "onboard_time": 1669123662,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 629209,
-      "num": 629209,
-      "word": "连生4女被离婚女子第五胎产下男孩",
-      "onboard_time": 1669339718,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -4171,6 +4171,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 419684,
+      "num": 419684,
+      "word": "海口海关查获5条巨人蜈蚣",
+      "onboard_time": 1669340434,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 418935,
       "num": 418935,
       "word": "狗狗因主人没帮忙而生气",
@@ -4835,6 +4843,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 370671,
+      "num": 370671,
+      "word": "MAMA投票",
+      "onboard_time": 1669337980,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 370617,
       "num": 370617,
       "word": "女孩陷传销数月塞救命纸条求助",
@@ -5177,6 +5193,14 @@
       "onboard_time": 1669286498,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 346113,
+      "num": 346113,
+      "word": "巴西队这个倒挂金钩绝了",
+      "onboard_time": 1669339718,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 345868,
@@ -6075,6 +6099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 305360,
+      "num": 305360,
+      "word": "何其有幸领证结婚",
+      "onboard_time": 1669338517,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 305120,
       "num": 305120,
       "word": "尹峥试鞋是白敬亭本人吧",
@@ -6129,6 +6161,14 @@
       "onboard_time": 1669290634,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 300840,
+      "num": 300840,
+      "word": "男子阳台不封窗被质疑不安全",
+      "onboard_time": 1669340496,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 300706,
@@ -6305,14 +6345,6 @@
       "onboard_time": 1669263214,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 289751,
-      "num": 289751,
-      "word": "MAMA投票",
-      "onboard_time": 1669337980,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 289290,
@@ -6777,6 +6809,14 @@
       "onboard_time": 1669202432,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 268101,
+      "num": 268101,
+      "word": "沙特奖励球员每人一台劳斯莱斯",
+      "onboard_time": 1669341698,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 267856,
@@ -7315,6 +7355,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 243727,
+      "num": 243727,
+      "word": "原来猫咪侧脸可以这么可爱",
+      "onboard_time": 1669338699,
+      "rank": 34,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 243702,
       "num": 243702,
       "word": "尹嵩精神状态",
@@ -7419,14 +7467,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 236996,
-      "num": 236996,
-      "word": "原来猫咪侧脸可以这么可爱",
-      "onboard_time": 1669338699,
-      "rank": 34,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 236614,
       "num": 236614,
       "word": "沙特球迷赛后模仿C罗庆祝",
@@ -7497,14 +7537,6 @@
       "onboard_time": 1669226658,
       "rank": 10,
       "category": "体育"
-    },
-    {
-      "raw_hot": 232928,
-      "num": 232928,
-      "word": "何其有幸领证结婚",
-      "onboard_time": 1669338517,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 232182,
@@ -7793,6 +7825,14 @@
       "onboard_time": 1669262313,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 220036,
+      "num": 220036,
+      "word": "星河长明定档1130",
+      "onboard_time": 1669341995,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 220009,
@@ -8835,14 +8875,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 192799,
-      "num": 192799,
-      "word": "海口海关查获5条巨人蜈蚣",
-      "onboard_time": 1669340434,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 192793,
       "num": 192793,
       "word": "女心理师开播一周年",
@@ -8953,14 +8985,6 @@
       "onboard_time": 1669264717,
       "rank": 35,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 189391,
-      "num": 189391,
-      "word": "巴西队这个倒挂金钩绝了",
-      "onboard_time": 1669339718,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 189158,
@@ -9771,6 +9795,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 164307,
+      "num": 164307,
+      "word": "世界杯最佳进球",
+      "onboard_time": 1669338038,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 164149,
       "num": 164149,
       "word": "阿根廷创48年最差开局纪录",
@@ -9801,14 +9833,6 @@
       "onboard_time": 1669008934,
       "rank": 49,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 163419,
-      "num": 163419,
-      "word": "男子阳台不封窗被质疑不安全",
-      "onboard_time": 1669340496,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 163354,
@@ -9913,6 +9937,14 @@
       "onboard_time": 1669111052,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 160643,
+      "num": 160643,
+      "word": "C罗当选全场MVP",
+      "onboard_time": 1669341454,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 160474,
@@ -10347,6 +10379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 147656,
+      "num": 147656,
+      "word": "内马尔一瘸一拐离开球场",
+      "onboard_time": 1669342116,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 147638,
       "num": 147638,
       "word": "中国企业成本届世界杯最大金主",
@@ -10529,6 +10569,14 @@
       "onboard_time": 1669168411,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 143979,
+      "num": 143979,
+      "word": "陈飞宇李峋深藏不露的日常",
+      "onboard_time": 1669341095,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 143676,
