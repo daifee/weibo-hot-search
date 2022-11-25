@@ -1,6 +1,6 @@
 {
   "startTime": 1668961718135,
-  "endTime": 1669404805820,
+  "endTime": 1669407629862,
   "band_list": [
     {
       "raw_hot": 36651023,
@@ -14667,6 +14667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 70853,
+      "num": 70853,
+      "word": "北京疫情新增病例持续高位增长",
+      "onboard_time": 1669399823,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 69564,
       "num": 69564,
       "word": "没有勒夫的德国队",
@@ -14720,6 +14728,14 @@
       "word": "足坛里的那些意难平",
       "onboard_time": 1669397189,
       "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 63409,
+      "num": 38041,
+      "word": "普利希奇射门击中横梁",
+      "onboard_time": 1669406834,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -14995,6 +15011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 35907,
+      "num": 35907,
+      "word": "小伙为了免费约美女被骗22万",
+      "onboard_time": 1669405995,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 34470,
       "num": 185287,
       "word": "如何轻松拥有智能家居",
@@ -15017,14 +15041,6 @@
       "onboard_time": 1669245084,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 32340,
-      "num": 32340,
-      "word": "北京疫情新增病例持续高位增长",
-      "onboard_time": 1669399823,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 30995,
@@ -15129,6 +15145,14 @@
       "onboard_time": 1669329077,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 23071,
+      "num": 23071,
+      "word": "娱乐圈里那些撞脸的艺人",
+      "onboard_time": 1669406235,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 21288,

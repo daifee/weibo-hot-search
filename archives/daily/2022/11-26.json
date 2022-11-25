@@ -1,6 +1,6 @@
 {
   "startTime": 1669393663708,
-  "endTime": 1669404805820,
+  "endTime": 1669407629862,
   "band_list": [
     {
       "raw_hot": 13715986,
@@ -539,11 +539,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 70853,
+      "num": 70853,
+      "word": "北京疫情新增病例持续高位增长",
+      "onboard_time": 1669399823,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 64705,
       "num": 84947,
       "word": "足坛里的那些意难平",
       "onboard_time": 1669397189,
       "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 63409,
+      "num": 38041,
+      "word": "普利希奇射门击中横梁",
+      "onboard_time": 1669406834,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -571,11 +587,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 32340,
-      "num": 32340,
-      "word": "北京疫情新增病例持续高位增长",
-      "onboard_time": 1669399823,
-      "rank": 40,
+      "raw_hot": 35907,
+      "num": 35907,
+      "word": "小伙为了免费约美女被骗22万",
+      "onboard_time": 1669405995,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -593,6 +609,14 @@
       "onboard_time": 1669404135,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 23071,
+      "num": 23071,
+      "word": "娱乐圈里那些撞脸的艺人",
+      "onboard_time": 1669406235,
+      "rank": 42,
+      "category": "艺人"
     }
   ],
   "hotgov_list": [
