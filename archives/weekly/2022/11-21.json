@@ -1,6 +1,6 @@
 {
   "startTime": 1668961718135,
-  "endTime": 1669376043358,
+  "endTime": 1669379919761,
   "band_list": [
     {
       "raw_hot": 36651023,
@@ -80,6 +80,14 @@
       "word": "德国1比2日本",
       "onboard_time": 1669215983,
       "rank": 2,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 6594223,
+      "num": 6594223,
+      "word": "威尔士0比2伊朗",
+      "onboard_time": 1669378258,
+      "rank": 0,
       "category": "体育"
     },
     {
@@ -236,7 +244,7 @@
     },
     {
       "raw_hot": 3111652,
-      "num": 502857,
+      "num": 547949,
       "word": "吴亦凡强奸聚众淫乱案细节披露",
       "onboard_time": 1669364253,
       "rank": 30,
@@ -419,6 +427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2319389,
+      "num": 2319389,
+      "word": "本届世界杯第一张红牌",
+      "onboard_time": 1669378145,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2311949,
       "num": 2311949,
       "word": "当卡塔尔小王子摘掉头巾后",
@@ -507,20 +523,20 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 2034831,
+      "num": 2034831,
+      "word": "夫妻洗澡去世留下8个孩子最新后续",
+      "onboard_time": 1669372614,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2033284,
       "num": 1571275,
       "word": "新疆一高层住宅楼火灾致10人死亡",
       "onboard_time": 1669334856,
       "rank": 3,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 2021679,
-      "num": 1045786,
-      "word": "夫妻洗澡去世留下8个孩子最新后续",
-      "onboard_time": 1669372614,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1998653,
@@ -739,6 +755,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1602453,
+      "num": 1602453,
+      "word": "威尔士vs伊朗半场0比0",
+      "onboard_time": 1669373996,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1592601,
       "num": 1592601,
       "word": "沙特守门员杀疯了",
@@ -785,6 +809,14 @@
       "onboard_time": 1669349978,
       "rank": 33,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 1544037,
+      "num": 1544037,
+      "word": "腿姐",
+      "onboard_time": 1669375072,
+      "rank": 24,
+      "category": "教育"
     },
     {
       "raw_hot": 1533189,
@@ -984,6 +1016,14 @@
       "word": "江秋莲申请15枚江歌妈商标全被驳回",
       "onboard_time": 1669200573,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1316620,
+      "num": 392256,
+      "word": "胡锡进",
+      "onboard_time": 1669377532,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -2419,6 +2459,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 681496,
+      "num": 509340,
+      "word": "什么是聚众淫乱罪",
+      "onboard_time": 1669374052,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 679595,
+      "num": 508515,
+      "word": "IU青龙奖红毯",
+      "onboard_time": 1669378201,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 676992,
       "num": 676992,
       "word": "72岁老人给鸡喝70块钱的牛奶",
@@ -2521,6 +2577,14 @@
       "onboard_time": 1669195540,
       "rank": 22,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 662398,
+      "num": 662398,
+      "word": "贝尔",
+      "onboard_time": 1669377049,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 661021,
@@ -3251,14 +3315,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 557407,
-      "num": 449028,
-      "word": "什么是聚众淫乱罪",
-      "onboard_time": 1669374052,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 557220,
       "num": 557220,
       "word": "刘备扮演者孙彦军悼念李靖飞",
@@ -3465,6 +3521,14 @@
       "onboard_time": 1669369385,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 537959,
+      "num": 447922,
+      "word": "汤唯亮相青龙奖红毯",
+      "onboard_time": 1669376450,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 537824,
@@ -4251,6 +4315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 455048,
+      "num": 455048,
+      "word": "周深感谢粉丝好大声",
+      "onboard_time": 1669379755,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 453292,
       "num": 404455,
       "word": "刘强东曾称克扣五险一金是可耻的",
@@ -4363,6 +4435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 446700,
+      "num": 446700,
+      "word": "卡塔尔vs塞内加尔",
+      "onboard_time": 1669379156,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 446616,
       "num": 446616,
       "word": "C罗今晚会取得进球吗",
@@ -4384,14 +4464,6 @@
       "word": "刘语熙说不再穿阿根廷球衣",
       "onboard_time": 1669186534,
       "rank": 12,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 445746,
-      "num": 445746,
-      "word": "威尔士vs伊朗半场0比0",
-      "onboard_time": 1669373996,
-      "rank": 17,
       "category": "体育"
     },
     {
@@ -4731,6 +4803,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 419474,
+      "num": 419474,
+      "word": "妻子回娘家丈夫喇叭广播还彩礼",
+      "onboard_time": 1669374414,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 418935,
       "num": 418935,
       "word": "狗狗因主人没帮忙而生气",
@@ -4788,7 +4868,7 @@
     },
     {
       "raw_hot": 416059,
-      "num": 278333,
+      "num": 383564,
       "word": "脱口秀",
       "onboard_time": 1669375915,
       "rank": 21,
@@ -5131,6 +5211,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 398300,
+      "num": 387347,
+      "word": "东方风云榜",
+      "onboard_time": 1669375610,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 398239,
       "num": 398239,
       "word": "诺伊尔的控制范围",
@@ -5281,6 +5369,14 @@
       "onboard_time": 1669121151,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 385160,
+      "num": 385160,
+      "word": "沈阳疫情防控",
+      "onboard_time": 1669375795,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 384954,
@@ -5835,6 +5931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 351892,
+      "num": 351892,
+      "word": "Meiko发文不参加全明星",
+      "onboard_time": 1669377831,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 351851,
       "num": 351851,
       "word": "湖人太阳冲突",
@@ -5857,6 +5961,14 @@
       "onboard_time": 1669300121,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 350010,
+      "num": 350010,
+      "word": "原神",
+      "onboard_time": 1669379273,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 349218,
@@ -6323,6 +6435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 330715,
+      "num": 330715,
+      "word": "TES官宣Knight离队",
+      "onboard_time": 1669379336,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 330479,
       "num": 330479,
       "word": "魔笛",
@@ -6609,14 +6729,6 @@
       "onboard_time": 1669135888,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 316658,
-      "num": 219187,
-      "word": "东方风云榜",
-      "onboard_time": 1669375610,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 316165,
@@ -6929,6 +7041,14 @@
       "onboard_time": 1669247369,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 302567,
+      "num": 302567,
+      "word": "鞠婧祎获东方风云榜年度人气歌手",
+      "onboard_time": 1669378383,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 302506,
@@ -7292,7 +7412,7 @@
     },
     {
       "raw_hot": 282932,
-      "num": 216795,
+      "num": 226034,
       "word": "Ming不参加全明星",
       "onboard_time": 1669375194,
       "rank": 31,
@@ -7460,7 +7580,7 @@
     },
     {
       "raw_hot": 277809,
-      "num": 213882,
+      "num": 256447,
       "word": "命韵峋环今天都穿了黑西装",
       "onboard_time": 1669373270,
       "rank": 41,
@@ -7947,14 +8067,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 255193,
-      "num": 255193,
-      "word": "腿姐",
-      "onboard_time": 1669375072,
-      "rank": 24,
-      "category": "教育"
-    },
-    {
       "raw_hot": 254746,
       "num": 254746,
       "word": "尹峥李薇不舍分别",
@@ -8056,6 +8168,14 @@
       "word": "葡萄牙首发",
       "onboard_time": 1669305870,
       "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 250547,
+      "num": 250547,
+      "word": "伊朗进球被吹",
+      "onboard_time": 1669378441,
+      "rank": 38,
       "category": "体育"
     },
     {
@@ -8193,6 +8313,22 @@
       "onboard_time": 1669116515,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 245887,
+      "num": 245887,
+      "word": "哈尔滨疫情防控",
+      "onboard_time": 1669377413,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 245821,
+      "num": 245821,
+      "word": "于文文无刘海版Mojito",
+      "onboard_time": 1669379336,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 245289,
@@ -8433,6 +8569,14 @@
       "onboard_time": 1669226658,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 233935,
+      "num": 233935,
+      "word": "东方风云榜直播",
+      "onboard_time": 1669377118,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 232474,
@@ -8787,6 +8931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 219309,
+      "num": 219309,
+      "word": "Uzi缺席全明星",
+      "onboard_time": 1669378797,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 219123,
       "num": 219123,
       "word": "格莱美官方ins关注李永钦",
@@ -9097,6 +9249,14 @@
       "onboard_time": 1669173452,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 212401,
+      "num": 212401,
+      "word": "伊朗绝杀",
+      "onboard_time": 1669378557,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 212326,
@@ -9891,6 +10051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 193023,
+      "num": 193023,
+      "word": "男孩说中国队去踢死他们爸爸无言以对",
+      "onboard_time": 1669379755,
+      "rank": 47,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 192965,
       "num": 192965,
       "word": "你分得清各种淀粉吗",
@@ -9953,6 +10121,14 @@
       "onboard_time": 1669110150,
       "rank": 36,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 190762,
+      "num": 190762,
+      "word": "原来老年痴呆的世界是这样的",
+      "onboard_time": 1669379814,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 190737,
@@ -11345,14 +11521,6 @@
       "onboard_time": 1669169614,
       "rank": 41,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 155419,
-      "num": 155419,
-      "word": "妻子回娘家丈夫喇叭广播还彩礼",
-      "onboard_time": 1669374414,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 155102,
@@ -12843,6 +13011,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 118243,
+      "num": 448812,
+      "word": "原神3.3版本直播",
+      "onboard_time": 1669245564,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 117628,
       "num": 117628,
       "word": "94岁独居老人被邻居照顾30年",
@@ -13857,14 +14033,6 @@
       "onboard_time": 1669235472,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 55523,
-      "num": 64122,
-      "word": "原神3.3版本直播",
-      "onboard_time": 1669245564,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 55232,

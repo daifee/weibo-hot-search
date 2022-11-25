@@ -1,6 +1,6 @@
 {
   "startTime": 1669307280718,
-  "endTime": 1669376043358,
+  "endTime": 1669379919761,
   "band_list": [
     {
       "raw_hot": 36651023,
@@ -25,6 +25,14 @@
       "onboard_time": 1669367043,
       "rank": 1,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 6594223,
+      "num": 6594223,
+      "word": "威尔士0比2伊朗",
+      "onboard_time": 1669378258,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 6187946,
@@ -92,7 +100,7 @@
     },
     {
       "raw_hot": 3111652,
-      "num": 502857,
+      "num": 547949,
       "word": "吴亦凡强奸聚众淫乱案细节披露",
       "onboard_time": 1669364253,
       "rank": 30,
@@ -131,6 +139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2319389,
+      "num": 2319389,
+      "word": "本届世界杯第一张红牌",
+      "onboard_time": 1669378145,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2311949,
       "num": 2311949,
       "word": "当卡塔尔小王子摘掉头巾后",
@@ -139,20 +155,20 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 2034831,
+      "num": 2034831,
+      "word": "夫妻洗澡去世留下8个孩子最新后续",
+      "onboard_time": 1669372614,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2033284,
       "num": 1571275,
       "word": "新疆一高层住宅楼火灾致10人死亡",
       "onboard_time": 1669334856,
       "rank": 3,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 2021679,
-      "num": 1045786,
-      "word": "夫妻洗澡去世留下8个孩子最新后续",
-      "onboard_time": 1669372614,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1998409,
@@ -203,12 +219,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1602453,
+      "num": 1602453,
+      "word": "威尔士vs伊朗半场0比0",
+      "onboard_time": 1669373996,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1552735,
       "num": 1552735,
       "word": "卡塔尔小王子学说中文有多可爱",
       "onboard_time": 1669349978,
       "rank": 33,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 1544037,
+      "num": 1544037,
+      "word": "腿姐",
+      "onboard_time": 1669375072,
+      "rank": 24,
+      "category": "教育"
     },
     {
       "raw_hot": 1536291,
@@ -248,6 +280,14 @@
       "word": "石家庄新增确诊321例无症状2876例",
       "onboard_time": 1669336902,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1316620,
+      "num": 392256,
+      "word": "胡锡进",
+      "onboard_time": 1669377532,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -507,11 +547,35 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 681496,
+      "num": 509340,
+      "word": "什么是聚众淫乱罪",
+      "onboard_time": 1669374052,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 679595,
+      "num": 508515,
+      "word": "IU青龙奖红毯",
+      "onboard_time": 1669378201,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 668126,
       "num": 668126,
       "word": "乌拉圭0比0韩国",
       "onboard_time": 1669302117,
       "rank": 4,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 662398,
+      "num": 662398,
+      "word": "贝尔",
+      "onboard_time": 1669377049,
+      "rank": 8,
       "category": "体育"
     },
     {
@@ -611,14 +675,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 557407,
-      "num": 449028,
-      "word": "什么是聚众淫乱罪",
-      "onboard_time": 1669374052,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 557220,
       "num": 557220,
       "word": "刘备扮演者孙彦军悼念李靖飞",
@@ -681,6 +737,14 @@
       "onboard_time": 1669369385,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 537959,
+      "num": 447922,
+      "word": "汤唯亮相青龙奖红毯",
+      "onboard_time": 1669376450,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 535994,
@@ -851,6 +915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 455048,
+      "num": 455048,
+      "word": "周深感谢粉丝好大声",
+      "onboard_time": 1669379755,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 453063,
       "num": 453063,
       "word": "威尔士vs伊朗",
@@ -891,11 +963,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 445746,
-      "num": 445746,
-      "word": "威尔士vs伊朗半场0比0",
-      "onboard_time": 1669373996,
-      "rank": 17,
+      "raw_hot": 446700,
+      "num": 446700,
+      "word": "卡塔尔vs塞内加尔",
+      "onboard_time": 1669379156,
+      "rank": 16,
       "category": "体育"
     },
     {
@@ -971,6 +1043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 419474,
+      "num": 419474,
+      "word": "妻子回娘家丈夫喇叭广播还彩礼",
+      "onboard_time": 1669374414,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 417467,
       "num": 417467,
       "word": "迪丽热巴和小狗贴贴",
@@ -980,7 +1060,7 @@
     },
     {
       "raw_hot": 416059,
-      "num": 278333,
+      "num": 383564,
       "word": "脱口秀",
       "onboard_time": 1669375915,
       "rank": 21,
@@ -1067,6 +1147,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 398300,
+      "num": 387347,
+      "word": "东方风云榜",
+      "onboard_time": 1669375610,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 394613,
       "num": 394613,
       "word": "王源李汶翰确认不出席东方风云榜",
@@ -1097,6 +1185,14 @@
       "onboard_time": 1669290454,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 385160,
+      "num": 385160,
+      "word": "沈阳疫情防控",
+      "onboard_time": 1669375795,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 384303,
@@ -1195,6 +1291,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 351892,
+      "num": 351892,
+      "word": "Meiko发文不参加全明星",
+      "onboard_time": 1669377831,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 350010,
+      "num": 350010,
+      "word": "原神",
+      "onboard_time": 1669379273,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 349071,
       "num": 349071,
       "word": "终于能安心看球了",
@@ -1275,6 +1387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 330715,
+      "num": 330715,
+      "word": "TES官宣Knight离队",
+      "onboard_time": 1669379336,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 330433,
       "num": 330433,
       "word": "外交部回应日方希望中方放松防疫措施",
@@ -1313,14 +1433,6 @@
       "onboard_time": 1669347098,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 316658,
-      "num": 219187,
-      "word": "东方风云榜",
-      "onboard_time": 1669375610,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 312045,
@@ -1371,6 +1483,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 302567,
+      "num": 302567,
+      "word": "鞠婧祎获东方风云榜年度人气歌手",
+      "onboard_time": 1669378383,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 297619,
       "num": 297619,
       "word": "北京疫情发布会",
@@ -1412,7 +1532,7 @@
     },
     {
       "raw_hot": 282932,
-      "num": 216795,
+      "num": 226034,
       "word": "Ming不参加全明星",
       "onboard_time": 1669375194,
       "rank": 31,
@@ -1460,7 +1580,7 @@
     },
     {
       "raw_hot": 277809,
-      "num": 213882,
+      "num": 256447,
       "word": "命韵峋环今天都穿了黑西装",
       "onboard_time": 1669373270,
       "rank": 41,
@@ -1571,14 +1691,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 255193,
-      "num": 255193,
-      "word": "腿姐",
-      "onboard_time": 1669375072,
-      "rank": 24,
-      "category": "教育"
-    },
-    {
       "raw_hot": 254212,
       "num": 229821,
       "word": "内马尔伤势没有大碍",
@@ -1595,12 +1707,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 250547,
+      "num": 250547,
+      "word": "伊朗进球被吹",
+      "onboard_time": 1669378441,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 248256,
       "num": 248256,
       "word": "武汉中心医院",
       "onboard_time": 1669331603,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 245887,
+      "num": 245887,
+      "word": "哈尔滨疫情防控",
+      "onboard_time": 1669377413,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 245821,
+      "num": 245821,
+      "word": "于文文无刘海版Mojito",
+      "onboard_time": 1669379336,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 245021,
@@ -1649,6 +1785,14 @@
       "onboard_time": 1669303127,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 233935,
+      "num": 233935,
+      "word": "东方风云榜直播",
+      "onboard_time": 1669377118,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 232474,
@@ -1723,6 +1867,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 219309,
+      "num": 219309,
+      "word": "Uzi缺席全明星",
+      "onboard_time": 1669378797,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 219277,
       "num": 219277,
       "word": "乃万是懂修容的",
@@ -1745,6 +1897,14 @@
       "onboard_time": 1669303779,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 212401,
+      "num": 212401,
+      "word": "伊朗绝杀",
+      "onboard_time": 1669378557,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 212326,
@@ -1915,12 +2075,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 193023,
+      "num": 193023,
+      "word": "男孩说中国队去踢死他们爸爸无言以对",
+      "onboard_time": 1669379755,
+      "rank": 47,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 191898,
       "num": 191898,
       "word": "原来詹姆斯偷偷去踢世界杯了",
       "onboard_time": 1669348413,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 190762,
+      "num": 190762,
+      "word": "原来老年痴呆的世界是这样的",
+      "onboard_time": 1669379814,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 190652,
@@ -2211,14 +2387,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 155419,
-      "num": 155419,
-      "word": "妻子回娘家丈夫喇叭广播还彩礼",
-      "onboard_time": 1669374414,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 155102,
       "num": 155102,
       "word": "C罗好自律",
@@ -2505,6 +2673,14 @@
       "onboard_time": 1669330339,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 118243,
+      "num": 448812,
+      "word": "原神3.3版本直播",
+      "onboard_time": 1669377649,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 117091,
