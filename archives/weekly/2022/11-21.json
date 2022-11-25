@@ -1,7 +1,23 @@
 {
   "startTime": 1668961718135,
-  "endTime": 1669361610859,
+  "endTime": 1669364731028,
   "band_list": [
+    {
+      "raw_hot": 36651023,
+      "num": 36651023,
+      "word": "吴亦凡一审被判13年",
+      "onboard_time": 1669362724,
+      "rank": 0,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 31958134,
+      "num": 31958134,
+      "word": "吴亦凡获刑13年附加驱逐出境",
+      "onboard_time": 1669362977,
+      "rank": 1,
+      "category": "社会新闻,艺人"
+    },
     {
       "raw_hot": 15128338,
       "num": 15128338,
@@ -83,12 +99,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 5021800,
+      "num": 2046747,
+      "word": "中新网评吴亦凡案宣判",
+      "onboard_time": 1669363662,
+      "rank": 3,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 4780092,
       "num": 4780092,
       "word": "C罗哭了",
       "onboard_time": 1669306586,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 4567327,
+      "num": 438967,
+      "word": "吴亦凡案时间线",
+      "onboard_time": 1669363301,
+      "rank": 10,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 4270507,
@@ -411,6 +443,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2122549,
+      "num": 232327,
+      "word": "吴亦凡强奸聚众淫乱案细节披露",
+      "onboard_time": 1669364253,
+      "rank": 30,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 2121318,
+      "num": 2121318,
+      "word": "当卡塔尔小王子摘掉头巾后",
+      "onboard_time": 1669355856,
+      "rank": 19,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 2110634,
       "num": 2110634,
       "word": "郝葭怀孕",
@@ -609,6 +657,14 @@
       "onboard_time": 1669217209,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1662526,
+      "num": 1662526,
+      "word": "南京疫情防控",
+      "onboard_time": 1669362035,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1660063,
@@ -939,20 +995,20 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 1274033,
+      "num": 435219,
+      "word": "原来陈飞宇和王鹤棣演过同一个角色",
+      "onboard_time": 1669363364,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1264594,
       "num": 1264594,
       "word": "美国高估了自己也低估了中国",
       "onboard_time": 1668991533,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1264050,
-      "num": 1264050,
-      "word": "当卡塔尔小王子摘掉头巾后",
-      "onboard_time": 1669355856,
-      "rank": 19,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 1263599,
@@ -1297,6 +1353,14 @@
       "onboard_time": 1669305335,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1036605,
+      "num": 1036605,
+      "word": "Faker或将加入LPL",
+      "onboard_time": 1669361375,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 1036603,
@@ -1875,6 +1939,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 773220,
+      "num": 773220,
+      "word": "个人养老金",
+      "onboard_time": 1669360835,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 772556,
       "num": 772556,
       "word": "C罗屠榜",
@@ -2003,6 +2075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 745879,
+      "num": 745879,
+      "word": "百香果园里发现6只猴面鹰宝宝",
+      "onboard_time": 1669357774,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 745839,
       "num": 745839,
       "word": "JDG官宣Yagao成为自由人",
@@ -2081,14 +2161,6 @@
       "onboard_time": 1669312577,
       "rank": 11,
       "category": "体育"
-    },
-    {
-      "raw_hot": 730755,
-      "num": 730755,
-      "word": "百香果园里发现6只猴面鹰宝宝",
-      "onboard_time": 1669357774,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 730199,
@@ -2955,6 +3027,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 568086,
+      "num": 229745,
+      "word": "律师称吴亦凡需服刑完再被驱逐出境",
+      "onboard_time": 1669364724,
+      "rank": 31,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 567882,
       "num": 567882,
       "word": "内马尔强调不要轻视对手",
@@ -3169,6 +3249,14 @@
       "onboard_time": 1669253972,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 546406,
+      "num": 456003,
+      "word": "张元英淡妆",
+      "onboard_time": 1669358737,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 544755,
@@ -3987,14 +4075,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 456003,
-      "num": 456003,
-      "word": "张元英淡妆",
-      "onboard_time": 1669358737,
-      "rank": 12,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 455273,
       "num": 455273,
       "word": "电话录音短信微信都是家暴证据",
@@ -4315,6 +4395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 431241,
+      "num": 431241,
+      "word": "猫咪关闹钟害主人睡过头迟到",
+      "onboard_time": 1669360901,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 431169,
       "num": 431169,
       "word": "德国教练",
@@ -4393,6 +4481,14 @@
       "onboard_time": 1669088732,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 425095,
+      "num": 425095,
+      "word": "女生溜冰被推倒缝针肇事者拒赔偿",
+      "onboard_time": 1669360174,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 424766,
@@ -4707,6 +4803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 402912,
+      "num": 402912,
+      "word": "女子扮算命大师骗室友260余万",
+      "onboard_time": 1669362336,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 402607,
       "num": 402607,
       "word": "杨幂11月好忙",
@@ -4833,6 +4937,22 @@
       "onboard_time": 1669025616,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 394613,
+      "num": 394613,
+      "word": "王源李汶翰确认不出席东方风云榜",
+      "onboard_time": 1669362589,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 394045,
+      "num": 228255,
+      "word": "泰国杀妻抛尸案被告获死刑",
+      "onboard_time": 1669363662,
+      "rank": 32,
+      "category": "社会负面"
     },
     {
       "raw_hot": 393660,
@@ -5353,6 +5473,14 @@
       "onboard_time": 1668990869,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 358198,
+      "num": 262657,
+      "word": "朝阳打歌中心",
+      "onboard_time": 1669360174,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 358132,
@@ -6203,6 +6331,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 316883,
+      "num": 396803,
+      "word": "卡塔尔王子有多受欢迎",
+      "onboard_time": 1669361914,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 316165,
       "num": 245196,
       "word": "黄冠亨直播",
@@ -6963,6 +7099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 279904,
+      "num": 279904,
+      "word": "英格兰vs美国",
+      "onboard_time": 1669363045,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 279587,
       "num": 279587,
       "word": "日本球迷在家疯狂庆祝吓跑猫咪",
@@ -7297,14 +7441,6 @@
       "onboard_time": 1669120907,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 262657,
-      "num": 262657,
-      "word": "朝阳打歌中心",
-      "onboard_time": 1669360174,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 262608,
@@ -8219,6 +8355,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 223443,
+      "num": 223443,
+      "word": "生四女再生男孩母亲说恢复得很好",
+      "onboard_time": 1669362589,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 223041,
       "num": 223041,
       "word": "京多安点射破门",
@@ -8577,14 +8721,6 @@
       "onboard_time": 1669296635,
       "rank": 49,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 214167,
-      "num": 214167,
-      "word": "个人养老金",
-      "onboard_time": 1669360835,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 213795,
@@ -9177,6 +9313,14 @@
       "onboard_time": 1669356873,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 196852,
+      "num": 196852,
+      "word": "个人养老金先行城市名单",
+      "onboard_time": 1669363110,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 196849,
@@ -9875,14 +10019,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 181360,
-      "num": 181360,
-      "word": "女生溜冰被推倒缝针肇事者拒赔偿",
-      "onboard_time": 1669360174,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 181072,
       "num": 181072,
       "word": "梅西卡塔尔世界杯首球",
@@ -10096,6 +10232,14 @@
       "word": "西班牙赔率",
       "onboard_time": 1669247912,
       "rank": 45,
+      "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 173956,
+      "num": 173956,
+      "word": "印度球迷建十米高内马尔广告牌",
+      "onboard_time": 1669364428,
+      "rank": 41,
       "category": "体育,社会新闻"
     },
     {
@@ -11555,14 +11699,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 136196,
-      "num": 136196,
-      "word": "猫咪关闹钟害主人睡过头迟到",
-      "onboard_time": 1669360901,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 136079,
       "num": 136079,
       "word": "应急管理部调度河南厂房火灾救援处置",
@@ -11585,6 +11721,14 @@
       "onboard_time": 1669270651,
       "rank": 46,
       "category": "影视,音乐"
+    },
+    {
+      "raw_hot": 135395,
+      "num": 135395,
+      "word": "小朋友问爸爸中国队呢",
+      "onboard_time": 1669364664,
+      "rank": 47,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 135344,
@@ -11619,20 +11763,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 135060,
+      "num": 135060,
+      "word": "家长用发型帮老师区分三胞胎",
+      "onboard_time": 1669361134,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 135001,
       "num": 135001,
       "word": "出租车上捡钱包爸爸当儿子面偷钱",
       "onboard_time": 1669202733,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 134965,
-      "num": 134965,
-      "word": "Faker或将加入LPL",
-      "onboard_time": 1669361375,
-      "rank": 44,
-      "category": "游戏"
     },
     {
       "raw_hot": 134506,
@@ -11945,6 +12089,14 @@
       "onboard_time": 1669185212,
       "rank": 37,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 125499,
+      "num": 125499,
+      "word": "代号海手游",
+      "onboard_time": 1669359994,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 125401,
