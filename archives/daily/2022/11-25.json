@@ -1,10 +1,10 @@
 {
   "startTime": 1669307280718,
-  "endTime": 1669345526094,
+  "endTime": 1669346501666,
   "band_list": [
     {
-      "raw_hot": 5524381,
-      "num": 5524381,
+      "raw_hot": 5705509,
+      "num": 5705509,
       "word": "蓝码",
       "onboard_time": 1669339535,
       "rank": 7,
@@ -283,12 +283,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 692630,
+      "num": 377258,
+      "word": "陈飞宇公主裙",
+      "onboard_time": 1669344214,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 668126,
       "num": 668126,
       "word": "乌拉圭0比0韩国",
       "onboard_time": 1669302117,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 640263,
+      "num": 640263,
+      "word": "兰州通报阳性转运群众核酸阴性",
+      "onboard_time": 1669344332,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 636366,
@@ -339,6 +355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 582308,
+      "num": 582308,
+      "word": "朱正廷星河长明古装造型",
+      "onboard_time": 1669346251,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 580009,
       "num": 580009,
       "word": "乌拉圭教练好帅",
@@ -347,20 +371,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 570292,
-      "num": 377258,
-      "word": "陈飞宇公主裙",
-      "onboard_time": 1669344214,
-      "rank": 20,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 554072,
       "num": 501091,
       "word": "王心凌说好久没有发美照了",
       "onboard_time": 1669343735,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 542790,
+      "num": 542790,
+      "word": "女儿不满房产分配放火烧屋获刑",
+      "onboard_time": 1669342776,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 535994,
+      "num": 535994,
+      "word": "星河长明定档1130",
+      "onboard_time": 1669341995,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 529614,
@@ -377,14 +409,6 @@
       "onboard_time": 1669305754,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 506816,
-      "num": 506816,
-      "word": "星河长明定档1130",
-      "onboard_time": 1669341995,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 497325,
@@ -411,6 +435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 482920,
+      "num": 482920,
+      "word": "梅西和内马尔的神仙友情",
+      "onboard_time": 1669343496,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 471759,
       "num": 471759,
       "word": "巴西队这个倒挂金钩绝了",
@@ -432,14 +464,6 @@
       "word": "男子中彩后女友携款与情夫私奔",
       "onboard_time": 1669331844,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 454933,
-      "num": 454933,
-      "word": "女儿不满房产分配放火烧屋获刑",
-      "onboard_time": 1669342776,
-      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -467,14 +491,6 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 432053,
-      "num": 377258,
-      "word": "梅西和内马尔的神仙友情",
-      "onboard_time": 1669343496,
-      "rank": 21,
-      "category": "体育"
-    },
-    {
       "raw_hot": 426679,
       "num": 426679,
       "word": "朱广权押韵评C罗五战世界杯",
@@ -489,6 +505,14 @@
       "onboard_time": 1669308932,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 411474,
+      "num": 232264,
+      "word": "湖南疾控专家解答蓝码相关问题",
+      "onboard_time": 1669346193,
+      "rank": 30,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 410052,
@@ -561,14 +585,6 @@
       "onboard_time": 1669297842,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 357387,
-      "num": 357387,
-      "word": "兰州通报阳性转运群众核酸阴性",
-      "onboard_time": 1669344332,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 354805,
@@ -667,6 +683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 284970,
+      "num": 284970,
+      "word": "重庆目前核酸检测结果整体真实可信",
+      "onboard_time": 1669345534,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 284655,
       "num": 284655,
       "word": "世界杯走红的小王子是这样被找到的",
@@ -731,6 +755,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 272723,
+      "num": 272723,
+      "word": "网购也要小心社死",
+      "onboard_time": 1669344514,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 272420,
       "num": 272420,
       "word": "原来猫咪侧脸可以这么可爱",
@@ -776,6 +808,14 @@
       "word": "压力给到C罗",
       "onboard_time": 1669295253,
       "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 254212,
+      "num": 229821,
+      "word": "内马尔伤势没有大碍",
+      "onboard_time": 1669346251,
+      "rank": 31,
       "category": "体育"
     },
     {
@@ -867,14 +907,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 216961,
-      "num": 216961,
-      "word": "网购也要小心社死",
-      "onboard_time": 1669344514,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 211549,
       "num": 211549,
       "word": "沪上阿姨 光与夜之恋",
@@ -929,6 +961,14 @@
       "onboard_time": 1669330945,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 199936,
+      "num": 199936,
+      "word": "赞多新歌IAmFrom上线",
+      "onboard_time": 1669344874,
+      "rank": 38,
+      "category": "音乐"
     },
     {
       "raw_hot": 198746,
@@ -987,14 +1027,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 184087,
-      "num": 184087,
-      "word": "赞多新歌IAmFrom上线",
-      "onboard_time": 1669344874,
-      "rank": 38,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 182288,
       "num": 182288,
       "word": "虞书欣仙剑六明日杀青",
@@ -1035,6 +1067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 167992,
+      "num": 167992,
+      "word": "iPhone不送充电器被巴西扣押数百部",
+      "onboard_time": 1669346074,
+      "rank": 39,
+      "category": "科技"
+    },
+    {
       "raw_hot": 166980,
       "num": 166980,
       "word": "苏醒晒0713男团reaction",
@@ -1065,6 +1105,14 @@
       "onboard_time": 1669338038,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 161452,
+      "num": 161452,
+      "word": "张艺兴清唱最长的电影",
+      "onboard_time": 1669345775,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 159788,
@@ -1169,6 +1217,14 @@
       "onboard_time": 1669345474,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 136778,
+      "num": 136778,
+      "word": "凌不疑程少商看初雪了吗",
+      "onboard_time": 1669346434,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 130997,

@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1669345526094,
+  "endTime": 1669346501666,
   "band_list": [
     {
       "raw_hot": 15128338,
@@ -91,8 +91,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 5524381,
-      "num": 5524381,
+      "raw_hot": 5705509,
+      "num": 5705509,
       "word": "蓝码",
       "onboard_time": 1669339535,
       "rank": 7,
@@ -8403,6 +8403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 692630,
+      "num": 377258,
+      "word": "陈飞宇公主裙",
+      "onboard_time": 1669344214,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 692544,
       "num": 692544,
       "word": "T1对战DRX",
@@ -9553,6 +9561,14 @@
       "onboard_time": 1669284393,
       "rank": 30,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 640263,
+      "num": 640263,
+      "word": "兰州通报阳性转运群众核酸阴性",
+      "onboard_time": 1669344332,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 639111,
@@ -10811,6 +10827,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 582308,
+      "num": 582308,
+      "word": "朱正廷星河长明古装造型",
+      "onboard_time": 1669346251,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 581751,
       "num": 581751,
       "word": "芒果好像在做一种很新的恋综",
@@ -11137,14 +11161,6 @@
       "onboard_time": 1669254572,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 570292,
-      "num": 377258,
-      "word": "陈飞宇公主裙",
-      "onboard_time": 1669344214,
-      "rank": 20,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 569745,
@@ -12067,6 +12083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 542790,
+      "num": 542790,
+      "word": "女儿不满房产分配放火烧屋获刑",
+      "onboard_time": 1669342776,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 542351,
       "num": 542351,
       "word": "吴昕推荐赵晓卉上恋综",
@@ -12257,6 +12281,14 @@
       "onboard_time": 1667722765,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 535994,
+      "num": 535994,
+      "word": "星河长明定档1130",
+      "onboard_time": 1669341995,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 535868,
@@ -13275,14 +13307,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 506816,
-      "num": 506816,
-      "word": "星河长明定档1130",
-      "onboard_time": 1669341995,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 506655,
       "num": 438567,
       "word": "加快新冠肺炎治疗相关药物储备",
@@ -14145,6 +14169,14 @@
       "onboard_time": 1667562448,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 482920,
+      "num": 482920,
+      "word": "梅西和内马尔的神仙友情",
+      "onboard_time": 1669343496,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 482826,
@@ -15339,14 +15371,6 @@
       "category": "网红,社会新闻"
     },
     {
-      "raw_hot": 454933,
-      "num": 454933,
-      "word": "女儿不满房产分配放火烧屋获刑",
-      "onboard_time": 1669342776,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 454210,
       "num": 454210,
       "word": "马斯克称人口崩溃已是必然",
@@ -16403,14 +16427,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 432053,
-      "num": 377258,
-      "word": "梅西和内马尔的神仙友情",
-      "onboard_time": 1669343496,
-      "rank": 21,
-      "category": "体育"
-    },
-    {
       "raw_hot": 431644,
       "num": 431644,
       "word": "iPhone14Pro收货需要等待更长时间",
@@ -17337,6 +17353,14 @@
       "onboard_time": 1667226449,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 411474,
+      "num": 232264,
+      "word": "湖南疾控专家解答蓝码相关问题",
+      "onboard_time": 1669346193,
+      "rank": 30,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 411168,
@@ -20193,14 +20217,6 @@
       "onboard_time": 1667359587,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 357387,
-      "num": 357387,
-      "word": "兰州通报阳性转运群众核酸阴性",
-      "onboard_time": 1669344332,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 357228,
@@ -25435,6 +25451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 284970,
+      "num": 284970,
+      "word": "重庆目前核酸检测结果整体真实可信",
+      "onboard_time": 1669345534,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 284923,
       "num": 284923,
       "word": "台北故宫历年共计359件陶瓷器伤损破裂",
@@ -26457,6 +26481,14 @@
       "onboard_time": 1667970987,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 272723,
+      "num": 272723,
+      "word": "网购也要小心社死",
+      "onboard_time": 1669344514,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 272713,
@@ -27977,6 +28009,14 @@
       "onboard_time": 1668383667,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 254212,
+      "num": 229821,
+      "word": "内马尔伤势没有大碍",
+      "onboard_time": 1669346251,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 254165,
@@ -31619,14 +31659,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 216961,
-      "num": 216961,
-      "word": "网购也要小心社死",
-      "onboard_time": 1669344514,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 216872,
       "num": 216872,
       "word": "超6成年轻人对目前工作较满意",
@@ -33705,6 +33737,14 @@
       "onboard_time": 1668347306,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 199936,
+      "num": 199936,
+      "word": "赞多新歌IAmFrom上线",
+      "onboard_time": 1669344874,
+      "rank": 38,
+      "category": "音乐"
     },
     {
       "raw_hot": 199749,
@@ -35955,14 +35995,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 184087,
-      "num": 184087,
-      "word": "赞多新歌IAmFrom上线",
-      "onboard_time": 1669344874,
-      "rank": 38,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 184078,
       "num": 184078,
       "word": "金智秀卡妹Liarsolo舞台",
@@ -38043,6 +38075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 167992,
+      "num": 167992,
+      "word": "iPhone不送充电器被巴西扣押数百部",
+      "onboard_time": 1669346074,
+      "rank": 39,
+      "category": "科技"
+    },
+    {
       "raw_hot": 167938,
       "num": 167938,
       "word": "阿里发布2023财年第二季度财报",
@@ -38929,6 +38969,14 @@
       "onboard_time": 1668384508,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 161452,
+      "num": 161452,
+      "word": "张艺兴清唱最长的电影",
+      "onboard_time": 1669345775,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 161415,
@@ -43025,6 +43073,14 @@
       "onboard_time": 1667529324,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 136778,
+      "num": 136778,
+      "word": "凌不疑程少商看初雪了吗",
+      "onboard_time": 1669346434,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 136766,

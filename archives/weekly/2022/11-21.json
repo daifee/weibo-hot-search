@@ -1,6 +1,6 @@
 {
   "startTime": 1668961718135,
-  "endTime": 1669345526094,
+  "endTime": 1669346501666,
   "band_list": [
     {
       "raw_hot": 15128338,
@@ -67,8 +67,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 5524381,
-      "num": 5524381,
+      "raw_hot": 5705509,
+      "num": 5705509,
       "word": "蓝码",
       "onboard_time": 1669339535,
       "rank": 7,
@@ -2163,6 +2163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 692630,
+      "num": 377258,
+      "word": "陈飞宇公主裙",
+      "onboard_time": 1669344214,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 691822,
       "num": 691822,
       "word": "阿根廷和德国拿了一样的剧本",
@@ -2417,6 +2425,14 @@
       "onboard_time": 1669284393,
       "rank": 30,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 640263,
+      "num": 640263,
+      "word": "兰州通报阳性转运群众核酸阴性",
+      "onboard_time": 1669344332,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 638663,
@@ -2779,6 +2795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 582308,
+      "num": 582308,
+      "word": "朱正廷星河长明古装造型",
+      "onboard_time": 1669346251,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 580854,
       "num": 580854,
       "word": "开幕式日本球迷",
@@ -2857,14 +2881,6 @@
       "onboard_time": 1669254572,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 570292,
-      "num": 377258,
-      "word": "陈飞宇公主裙",
-      "onboard_time": 1669344214,
-      "rank": 20,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 569593,
@@ -3099,6 +3115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 542790,
+      "num": 542790,
+      "word": "女儿不满房产分配放火烧屋获刑",
+      "onboard_time": 1669342776,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 542179,
       "num": 542179,
       "word": "宝妈将宝宝放进手提篮被质疑不安全",
@@ -3161,6 +3185,14 @@
       "onboard_time": 1669168050,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 535994,
+      "num": 535994,
+      "word": "星河长明定档1130",
+      "onboard_time": 1669341995,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 535841,
@@ -3379,14 +3411,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 506816,
-      "num": 506816,
-      "word": "星河长明定档1130",
-      "onboard_time": 1669341995,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 506528,
       "num": 506528,
       "word": "世界杯东道主揭幕战92年首败",
@@ -3593,6 +3617,14 @@
       "onboard_time": 1669334074,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 482920,
+      "num": 482920,
+      "word": "梅西和内马尔的神仙友情",
+      "onboard_time": 1669343496,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 482082,
@@ -3833,14 +3865,6 @@
       "onboard_time": 1669210234,
       "rank": 32,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 454933,
-      "num": 454933,
-      "word": "女儿不满房产分配放火烧屋获刑",
-      "onboard_time": 1669342776,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 453292,
@@ -4099,14 +4123,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 432053,
-      "num": 377258,
-      "word": "梅西和内马尔的神仙友情",
-      "onboard_time": 1669343496,
-      "rank": 21,
-      "category": "体育"
-    },
-    {
       "raw_hot": 431603,
       "num": 431603,
       "word": "财阀家的小儿子宋仲基演技",
@@ -4353,6 +4369,14 @@
       "onboard_time": 1669126841,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 411474,
+      "num": 232264,
+      "word": "湖南疾控专家解答蓝码相关问题",
+      "onboard_time": 1669346193,
+      "rank": 30,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 411168,
@@ -5129,14 +5153,6 @@
       "onboard_time": 1669097195,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 357387,
-      "num": 357387,
-      "word": "兰州通报阳性转运群众核酸阴性",
-      "onboard_time": 1669344332,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 357228,
@@ -6507,6 +6523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 284970,
+      "num": 284970,
+      "word": "重庆目前核酸检测结果整体真实可信",
+      "onboard_time": 1669345534,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 284908,
       "num": 284908,
       "word": "卢卡斯因伤退出世界杯",
@@ -6809,6 +6833,14 @@
       "onboard_time": 1668956497,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 272723,
+      "num": 272723,
+      "word": "网购也要小心社死",
+      "onboard_time": 1669344514,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 272713,
@@ -7177,6 +7209,14 @@
       "onboard_time": 1669026996,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 254212,
+      "num": 229821,
+      "word": "内马尔伤势没有大碍",
+      "onboard_time": 1669346251,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 254165,
@@ -8043,14 +8083,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 216961,
-      "num": 216961,
-      "word": "网购也要小心社死",
-      "onboard_time": 1669344514,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 216872,
       "num": 216872,
       "word": "超6成年轻人对目前工作较满意",
@@ -8617,6 +8649,14 @@
       "onboard_time": 1669112672,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 199936,
+      "num": 199936,
+      "word": "赞多新歌IAmFrom上线",
+      "onboard_time": 1669344874,
+      "rank": 38,
+      "category": "音乐"
     },
     {
       "raw_hot": 199008,
@@ -9299,14 +9339,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 184087,
-      "num": 184087,
-      "word": "赞多新歌IAmFrom上线",
-      "onboard_time": 1669344874,
-      "rank": 38,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 183667,
       "num": 121807,
       "word": "李薇醉酒vs尹峥醉酒",
@@ -9851,6 +9883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 167992,
+      "num": 167992,
+      "word": "iPhone不送充电器被巴西扣押数百部",
+      "onboard_time": 1669346074,
+      "rank": 39,
+      "category": "科技"
+    },
+    {
       "raw_hot": 167887,
       "num": 167887,
       "word": "官方辟谣荔枝园核酸检测造假",
@@ -10009,6 +10049,14 @@
       "onboard_time": 1669102771,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161452,
+      "num": 161452,
+      "word": "张艺兴清唱最长的电影",
+      "onboard_time": 1669345775,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 161349,
@@ -10921,6 +10969,14 @@
       "onboard_time": 1669025671,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 136778,
+      "num": 136778,
+      "word": "凌不疑程少商看初雪了吗",
+      "onboard_time": 1669346434,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 136366,
