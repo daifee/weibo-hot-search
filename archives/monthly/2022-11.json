@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1669342274665,
+  "endTime": 1669345526094,
   "band_list": [
     {
       "raw_hot": 15128338,
@@ -88,6 +88,14 @@
       "word": "一位阳性密接外卖员的一天",
       "onboard_time": 1667787386,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 5524381,
+      "num": 5524381,
+      "word": "蓝码",
+      "onboard_time": 1669339535,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -296,14 +304,6 @@
       "word": "奶茶店因服务员先说欢迎光临被封",
       "onboard_time": 1668155621,
       "rank": 12,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 3537796,
-      "num": 3537796,
-      "word": "蓝码",
-      "onboard_time": 1669339535,
-      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -1283,6 +1283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1998409,
+      "num": 671153,
+      "word": "连生4女被离婚女子第五胎产下男孩",
+      "onboard_time": 1669339718,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1997765,
       "num": 1997765,
       "word": "叠纸",
@@ -1627,14 +1635,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1815623,
-      "num": 671153,
-      "word": "连生4女被离婚女子第五胎产下男孩",
-      "onboard_time": 1669339718,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1815034,
       "num": 1815034,
       "word": "5位好友",
@@ -1665,6 +1665,14 @@
       "onboard_time": 1668051747,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1797428,
+      "num": 1797428,
+      "word": "沙特奖励球员每人一台劳斯莱斯",
+      "onboard_time": 1669341698,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 1791493,
@@ -8195,6 +8203,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 708469,
+      "num": 708469,
+      "word": "海口海关查获5条巨人蜈蚣",
+      "onboard_time": 1669340434,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 708311,
       "num": 406742,
       "word": "王鹤棣吻戏摘眼镜",
@@ -11123,6 +11139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 570292,
+      "num": 377258,
+      "word": "陈飞宇公主裙",
+      "onboard_time": 1669344214,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 569745,
       "num": 569745,
       "word": "商户因体温枪没电被要求停业1天",
@@ -11697,6 +11721,14 @@
       "onboard_time": 1669250555,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 554072,
+      "num": 501091,
+      "word": "王心凌说好久没有发美照了",
+      "onboard_time": 1669343735,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 553742,
@@ -12417,6 +12449,14 @@
       "onboard_time": 1668556710,
       "rank": 11,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 529614,
+      "num": 500586,
+      "word": "李明德再发文晒和公司聊天细节",
+      "onboard_time": 1669343673,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 528564,
@@ -13235,6 +13275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 506816,
+      "num": 506816,
+      "word": "星河长明定档1130",
+      "onboard_time": 1669341995,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 506655,
       "num": 438567,
       "word": "加快新冠肺炎治疗相关药物储备",
@@ -13529,6 +13577,14 @@
       "onboard_time": 1668511169,
       "rank": 15,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 497325,
+      "num": 497325,
+      "word": "百位起点作家集体填坑",
+      "onboard_time": 1669344814,
+      "rank": 13,
+      "category": "情感"
     },
     {
       "raw_hot": 497290,
@@ -14587,6 +14643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 471759,
+      "num": 471759,
+      "word": "巴西队这个倒挂金钩绝了",
+      "onboard_time": 1669339718,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 470719,
       "num": 470719,
       "word": "美国男篮不是世界第一了",
@@ -15273,6 +15337,14 @@
       "onboard_time": 1668819508,
       "rank": 9,
       "category": "网红,社会新闻"
+    },
+    {
+      "raw_hot": 454933,
+      "num": 454933,
+      "word": "女儿不满房产分配放火烧屋获刑",
+      "onboard_time": 1669342776,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 454210,
@@ -16331,6 +16403,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 432053,
+      "num": 377258,
+      "word": "梅西和内马尔的神仙友情",
+      "onboard_time": 1669343496,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 431644,
       "num": 431644,
       "word": "iPhone14Pro收货需要等待更长时间",
@@ -16889,14 +16969,6 @@
       "onboard_time": 1669125464,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 419684,
-      "num": 419684,
-      "word": "海口海关查获5条巨人蜈蚣",
-      "onboard_time": 1669340434,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 419513,
@@ -19059,6 +19131,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 377258,
+      "num": 377258,
+      "word": "男子阳台不封窗被质疑不安全",
+      "onboard_time": 1669340496,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 377233,
       "num": 377233,
       "word": "姜贞羽说不想美就好了",
@@ -20115,6 +20195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 357387,
+      "num": 357387,
+      "word": "兰州通报阳性转运群众核酸阴性",
+      "onboard_time": 1669344332,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 357228,
       "num": 144936,
       "word": "刘畊宏说跳操流汗滴到眼睛",
@@ -20817,14 +20905,6 @@
       "onboard_time": 1669286498,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 346113,
-      "num": 346113,
-      "word": "巴西队这个倒挂金钩绝了",
-      "onboard_time": 1669339718,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 345868,
@@ -24203,14 +24283,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 300840,
-      "num": 300840,
-      "word": "男子阳台不封窗被质疑不安全",
-      "onboard_time": 1669340496,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 300799,
       "num": 300799,
       "word": "马斯克拟在推特裁员50%",
@@ -26435,6 +26507,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 272420,
+      "num": 272420,
+      "word": "原来猫咪侧脸可以这么可爱",
+      "onboard_time": 1669338699,
+      "rank": 34,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 272392,
       "num": 272392,
       "word": "当代女生为了省钱有多拼",
@@ -26817,14 +26897,6 @@
       "onboard_time": 1668567629,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 268101,
-      "num": 268101,
-      "word": "沙特奖励球员每人一台劳斯莱斯",
-      "onboard_time": 1669341698,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 267856,
@@ -28753,14 +28825,6 @@
       "onboard_time": 1668486513,
       "rank": 40,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 243727,
-      "num": 243727,
-      "word": "原来猫咪侧脸可以这么可爱",
-      "onboard_time": 1669338699,
-      "rank": 34,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 243702,
@@ -31107,14 +31171,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 220036,
-      "num": 220036,
-      "word": "星河长明定档1130",
-      "onboard_time": 1669341995,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 220009,
       "num": 220009,
       "word": "阿根廷半场7次越位",
@@ -31561,6 +31617,14 @@
       "onboard_time": 1669024475,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 216961,
+      "num": 216961,
+      "word": "网购也要小心社死",
+      "onboard_time": 1669344514,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 216872,
@@ -32569,6 +32633,14 @@
       "onboard_time": 1669276052,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 208075,
+      "num": 208075,
+      "word": "C罗当选全场MVP",
+      "onboard_time": 1669341454,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 208029,
@@ -33753,6 +33825,14 @@
       "onboard_time": 1668083485,
       "rank": 17,
       "category": "其它"
+    },
+    {
+      "raw_hot": 198746,
+      "num": 198746,
+      "word": "风吹半夏OST试听预告",
+      "onboard_time": 1669344814,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 198741,
@@ -35875,6 +35955,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 184087,
+      "num": 184087,
+      "word": "赞多新歌IAmFrom上线",
+      "onboard_time": 1669344874,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 184078,
       "num": 184078,
       "word": "金智秀卡妹Liarsolo舞台",
@@ -37707,6 +37795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 169966,
+      "num": 169966,
+      "word": "贝弗利被禁赛3场",
+      "onboard_time": 1669342655,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 169965,
       "num": 169965,
       "word": "真把拉伊卜做成饺子了",
@@ -38089,6 +38185,14 @@
       "onboard_time": 1667477546,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 166980,
+      "num": 166980,
+      "word": "苏醒晒0713男团reaction",
+      "onboard_time": 1669342655,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 166891,
@@ -39025,14 +39129,6 @@
       "onboard_time": 1668495568,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 160643,
-      "num": 160643,
-      "word": "C罗当选全场MVP",
-      "onboard_time": 1669341454,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 160630,
@@ -42283,6 +42379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 140191,
+      "num": 140191,
+      "word": "男子拿投影仪到地下车库看世界杯",
+      "onboard_time": 1669344393,
+      "rank": 48,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 140151,
       "num": 134582,
       "word": "郑秀妍晒乐队的海边合照",
@@ -42768,6 +42872,14 @@
       "word": "11月17日新增本土确诊2276例",
       "onboard_time": 1668738148,
       "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 137404,
+      "num": 137404,
+      "word": "高层火灾如何正确逃生",
+      "onboard_time": 1669345474,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
