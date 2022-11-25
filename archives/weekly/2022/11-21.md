@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/21 00:28:38 ~ 2022/11/26 04:34:51
+本榜单时间：2022/11/21 00:28:38 ~ 2022/11/26 05:17:26
 </p>
 </blockquote>
 <p>
@@ -6657,6 +6657,12 @@ iPhone15明年全系采用USBC接口（热度：247665）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E6%A0%BC%E5%85%B0%E7%BE%8E%E5%9B%BD%E8%B5%9B%E6%9E%9C%E5%86%B3%E5%AE%9A%E4%BA%86%E8%B6%B3%E7%90%83%E7%A7%B0%E5%91%BC%23" target="weibo">
+英格兰美国赛果决定了足球称呼（热度：240376）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%A1%E5%A1%94%E5%B0%94%E4%B8%96%E7%95%8C%E6%9D%AF%23" target="weibo">
 卡塔尔世界杯（热度：240090）
 </a>
@@ -10293,6 +10299,12 @@ C罗今晚见（热度：124087）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E6%A0%BC%E5%85%B0vs%E7%BE%8E%E5%9B%BD%E9%A6%96%E5%8F%91%23" target="weibo">
+英格兰vs美国首发（热度：117429）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E7%9C%9F%E6%9C%89%E4%BA%BA%E8%A3%85%E6%88%B7%E5%A4%96%E7%A9%BA%E8%B0%83%23" target="weibo">
 原来真有人装户外空调（热度：117116）
 </a>
@@ -11387,12 +11399,6 @@ C罗是葡萄牙赢球关键（热度：48653）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%8B%E6%8B%89%E6%A3%AE%E8%A1%A5%E5%B0%84%E7%A0%B4%E9%97%A8%23" target="weibo">
 克拉森补射破门（热度：20845）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E6%A0%BC%E5%85%B0vs%E7%BE%8E%E5%9B%BD%E9%A6%96%E5%8F%91%23" target="weibo">
-英格兰vs美国首发（热度：17495）
 </a>
 </li>
 
