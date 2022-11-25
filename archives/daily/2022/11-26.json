@@ -1,6 +1,6 @@
 {
   "startTime": 1669393663708,
-  "endTime": 1669418386976,
+  "endTime": 1669419284031,
   "band_list": [
     {
       "raw_hot": 13715986,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1458970,
-      "num": 1111423,
+      "num": 1221307,
       "word": "吴亦凡被驱逐后10年不得入境",
       "onboard_time": 1669394383,
       "rank": 30,
@@ -155,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 474304,
+      "num": 474304,
+      "word": "英格兰美国赛果决定了足球称呼",
+      "onboard_time": 1669409233,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 469842,
       "num": 469842,
       "word": "现在瑜伽裤的模特是怎么回事",
@@ -179,16 +187,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 461779,
-      "num": 461779,
-      "word": "英格兰美国赛果决定了足球称呼",
-      "onboard_time": 1669409233,
-      "rank": 10,
-      "category": "体育"
-    },
-    {
       "raw_hot": 460616,
-      "num": 408842,
+      "num": 446036,
       "word": "卡塔尔国王是不用自己走路的",
       "onboard_time": 1669395639,
       "rank": 30,
@@ -283,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 321296,
+      "num": 321296,
+      "word": "外卖员贪小便宜多次偷拿外卖被抓",
+      "onboard_time": 1669415176,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 317259,
       "num": 317259,
       "word": "男孩说中国队去踢死他们爸爸无言以对",
@@ -355,6 +363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 223910,
+      "num": 223910,
+      "word": "英格兰0比0美国",
+      "onboard_time": 1669418126,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 222169,
       "num": 222169,
       "word": "吹风机放床上引燃被褥烧了家",
@@ -377,14 +393,6 @@
       "onboard_time": 1669390921,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 209211,
-      "num": 209211,
-      "word": "外卖员贪小便宜多次偷拿外卖被抓",
-      "onboard_time": 1669415176,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 205237,
@@ -443,14 +451,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 155331,
-      "num": 155331,
-      "word": "英格兰0比0美国",
-      "onboard_time": 1669418126,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 154710,
       "num": 154710,
       "word": "调音师第一次后悔接了这活",
@@ -475,12 +475,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 145347,
+      "num": 145347,
+      "word": "北京疫情新增病例持续高位增长",
+      "onboard_time": 1669399823,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 142098,
+      "num": 142098,
+      "word": "英美大战平局收场",
+      "onboard_time": 1669418126,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 133100,
       "num": 154633,
       "word": "裁判 不给点球",
       "onboard_time": 1669385942,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 133072,
+      "num": 133072,
+      "word": "小伙为了免费约美女被骗22万",
+      "onboard_time": 1669405995,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 122105,
@@ -515,14 +539,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 114639,
-      "num": 114639,
-      "word": "英美大战平局收场",
-      "onboard_time": 1669418126,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 114124,
       "num": 154417,
       "word": "四舍五入也算出国游了",
@@ -531,28 +547,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 110828,
-      "num": 110828,
-      "word": "北京疫情新增病例持续高位增长",
-      "onboard_time": 1669399823,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 110417,
       "num": 110417,
       "word": "TES官宣Knight离队",
       "onboard_time": 1669379336,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 107957,
-      "num": 107957,
-      "word": "小伙为了免费约美女被骗22万",
-      "onboard_time": 1669405995,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 106513,
@@ -625,6 +625,14 @@
       "onboard_time": 1669399523,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 59381,
+      "num": 59381,
+      "word": "广州地铁",
+      "onboard_time": 1669419086,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 58857,
