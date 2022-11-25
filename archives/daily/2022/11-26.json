@@ -1,6 +1,6 @@
 {
   "startTime": 1669393663708,
-  "endTime": 1669403722589,
+  "endTime": 1669404805820,
   "band_list": [
     {
       "raw_hot": 13715986,
@@ -571,12 +571,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 32340,
+      "num": 32340,
+      "word": "北京疫情新增病例持续高位增长",
+      "onboard_time": 1669399823,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29002,
       "num": 29002,
       "word": "女子夜晚狗拉雪橇式遛7只哈士奇",
       "onboard_time": 1669403655,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 27598,
+      "num": 27598,
+      "word": "李峋拥抱细节",
+      "onboard_time": 1669404135,
+      "rank": 48,
+      "category": "影视"
     }
   ],
   "hotgov_list": [
