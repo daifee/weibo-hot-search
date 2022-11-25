@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1669381054557,
+  "endTime": 1669382920401,
   "band_list": [
     {
       "raw_hot": 36651023,
@@ -508,7 +508,7 @@
     },
     {
       "raw_hot": 3111652,
-      "num": 547949,
+      "num": 658646,
       "word": "吴亦凡强奸聚众淫乱案细节披露",
       "onboard_time": 1669364253,
       "rank": 30,
@@ -2289,6 +2289,14 @@
       "onboard_time": 1667720186,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1593305,
+      "num": 1593305,
+      "word": "少爷和我",
+      "onboard_time": 1668093208,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 1592601,
@@ -4171,6 +4179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1139680,
+      "num": 1139680,
+      "word": "鞠婧祎恋爱告急全开麦舞台",
+      "onboard_time": 1669381431,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1139027,
       "num": 466602,
       "word": "杨幂Angelababy唐嫣工作室出图",
@@ -4937,14 +4953,6 @@
       "onboard_time": 1668007589,
       "rank": 37,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 1021172,
-      "num": 1021172,
-      "word": "少爷和我",
-      "onboard_time": 1668093208,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 1018058,
@@ -7539,6 +7547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 765207,
+      "num": 765207,
+      "word": "男孩说中国队去踢死他们爸爸无言以对",
+      "onboard_time": 1669379755,
+      "rank": 47,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 764379,
       "num": 764379,
       "word": "基金经理网恋被工厂女工骗近30万",
@@ -7665,6 +7681,14 @@
       "onboard_time": 1668987145,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 756026,
+      "num": 756026,
+      "word": "卡塔尔vs塞内加尔",
+      "onboard_time": 1669379156,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 755945,
@@ -11339,6 +11363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 575221,
+      "num": 575221,
+      "word": "原来刘波失忆了",
+      "onboard_time": 1669382645,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 574729,
       "num": 574729,
       "word": "外公地里挖出1万多存款救济外孙",
@@ -11385,14 +11417,6 @@
       "onboard_time": 1668738624,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 573552,
-      "num": 573552,
-      "word": "卡塔尔vs塞内加尔",
-      "onboard_time": 1669379156,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 573174,
@@ -17787,6 +17811,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 414700,
+      "num": 414700,
+      "word": "哈尔滨疫情防控",
+      "onboard_time": 1669377413,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 414527,
       "num": 414527,
       "word": "俄外交部发布阻止核战争的声明",
@@ -18889,6 +18921,14 @@
       "onboard_time": 1668494853,
       "rank": 22,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 395094,
+      "num": 395094,
+      "word": "Meiko发文不参加全明星",
+      "onboard_time": 1669377831,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 394997,
@@ -20259,14 +20299,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 368269,
-      "num": 368269,
-      "word": "Meiko发文不参加全明星",
-      "onboard_time": 1669377831,
-      "rank": 26,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 368118,
       "num": 368118,
       "word": "业主嫌回家如上朝要求换小区大门",
@@ -21497,14 +21529,6 @@
       "onboard_time": 1667993490,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 348210,
-      "num": 348210,
-      "word": "男孩说中国队去踢死他们爸爸无言以对",
-      "onboard_time": 1669379755,
-      "rank": 47,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 348129,
@@ -25379,6 +25403,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 296718,
+      "num": 296718,
+      "word": "马嘉祺百忧戒开麦高音",
+      "onboard_time": 1669381789,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 296592,
       "num": 296592,
       "word": "王鹤棣新剧围读上班路透",
@@ -28371,14 +28403,6 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 260766,
-      "num": 260766,
-      "word": "哈尔滨疫情防控",
-      "onboard_time": 1669377413,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 260551,
       "num": 260551,
       "word": "谢谢你们CZ3925",
@@ -28481,6 +28505,14 @@
       "onboard_time": 1668518852,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 259826,
+      "num": 192531,
+      "word": "时代少年团百忧戒舞台连线",
+      "onboard_time": 1669381130,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 259709,
@@ -28617,6 +28649,14 @@
       "onboard_time": 1667960906,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 257988,
+      "num": 257988,
+      "word": "原来老年痴呆的世界是这样的",
+      "onboard_time": 1669379814,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 257817,
@@ -30097,6 +30137,14 @@
       "onboard_time": 1668386730,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 239523,
+      "num": 239523,
+      "word": "90后女生翻唱世界杯主题曲走红",
+      "onboard_time": 1669382583,
+      "rank": 32,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 239474,
@@ -34395,14 +34443,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 202587,
-      "num": 202587,
-      "word": "原来老年痴呆的世界是这样的",
-      "onboard_time": 1669379814,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
       "raw_hot": 202526,
       "num": 104363,
       "word": "周冬雨金鸡奖造型路透",
@@ -35115,6 +35155,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 197271,
+      "num": 197271,
+      "word": "东方风云榜云现场",
+      "onboard_time": 1669381789,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197188,
       "num": 197188,
       "word": "回老家租房有多爽",
@@ -35361,6 +35409,14 @@
       "onboard_time": 1668179133,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 196060,
+      "num": 196060,
+      "word": "小猫咪也太有灵性了",
+      "onboard_time": 1669380953,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 195994,
@@ -35873,14 +35929,6 @@
       "onboard_time": 1669110337,
       "rank": 35,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 192543,
-      "num": 192543,
-      "word": "小猫咪也太有灵性了",
-      "onboard_time": 1669380953,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 192354,
@@ -38795,6 +38843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 171819,
+      "num": 171819,
+      "word": "吹风机放床上引燃被褥烧了家",
+      "onboard_time": 1669382338,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 171814,
       "num": 171814,
       "word": "男子结婚表弟随礼千枚硬币",
@@ -40420,7 +40476,7 @@
     },
     {
       "raw_hot": 160679,
-      "num": 169301,
+      "num": 488746,
       "word": "怎样的家是真正的智慧家",
       "onboard_time": 1669375072,
       "rank": 42,
@@ -41659,6 +41715,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 152608,
+      "num": 152608,
+      "word": "伊朗球员庆祝绝杀掐主教练脖子",
+      "onboard_time": 1669382519,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 152580,
       "num": 152580,
       "word": "现在小孩都玩这么狠吗",
@@ -41993,6 +42057,14 @@
       "onboard_time": 1667816548,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 149764,
+      "num": 149764,
+      "word": "GK",
+      "onboard_time": 1669381489,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 149690,
@@ -49689,6 +49761,14 @@
       "onboard_time": 1668612213,
       "rank": 46,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 103978,
+      "num": 1148016,
+      "word": "来自中国空间站的出差邀请",
+      "onboard_time": 1669381789,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 103848,

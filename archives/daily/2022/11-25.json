@@ -1,6 +1,6 @@
 {
   "startTime": 1669307280718,
-  "endTime": 1669381054557,
+  "endTime": 1669382920401,
   "band_list": [
     {
       "raw_hot": 36651023,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 3111652,
-      "num": 547949,
+      "num": 658646,
       "word": "吴亦凡强奸聚众淫乱案细节披露",
       "onboard_time": 1669364253,
       "rank": 30,
@@ -227,6 +227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1593305,
+      "num": 1593305,
+      "word": "少爷和我",
+      "onboard_time": 1669381311,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1552735,
       "num": 1552735,
       "word": "卡塔尔小王子学说中文有多可爱",
@@ -321,6 +329,14 @@
       "onboard_time": 1669355497,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1139680,
+      "num": 1139680,
+      "word": "鞠婧祎恋爱告急全开麦舞台",
+      "onboard_time": 1669381431,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 1123043,
@@ -467,6 +483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 765207,
+      "num": 765207,
+      "word": "男孩说中国队去踢死他们爸爸无言以对",
+      "onboard_time": 1669379755,
+      "rank": 47,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 764134,
       "num": 764134,
       "word": "女性受侵害与穿着没有必然关系",
@@ -489,6 +513,14 @@
       "onboard_time": 1669346737,
       "rank": 11,
       "category": "科技"
+    },
+    {
+      "raw_hot": 756026,
+      "num": 756026,
+      "word": "卡塔尔vs塞内加尔",
+      "onboard_time": 1669379156,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 753483,
@@ -667,12 +699,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 573552,
-      "num": 573552,
-      "word": "卡塔尔vs塞内加尔",
-      "onboard_time": 1669379156,
-      "rank": 16,
-      "category": "体育"
+      "raw_hot": 575221,
+      "num": 575221,
+      "word": "原来刘波失忆了",
+      "onboard_time": 1669382645,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 562502,
@@ -1083,6 +1115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 414700,
+      "num": 414700,
+      "word": "哈尔滨疫情防控",
+      "onboard_time": 1669377413,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 412941,
       "num": 249532,
       "word": "脱口秀不能成脱缰野马",
@@ -1169,6 +1209,14 @@
       "onboard_time": 1669375610,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 395094,
+      "num": 395094,
+      "word": "Meiko发文不参加全明星",
+      "onboard_time": 1669377831,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 394613,
@@ -1275,14 +1323,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 368269,
-      "num": 368269,
-      "word": "Meiko发文不参加全明星",
-      "onboard_time": 1669377831,
-      "rank": 26,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 367002,
       "num": 233383,
       "word": "马嘉祺百忧戒舞台亮片外套造型",
@@ -1328,14 +1368,6 @@
       "word": "终于能安心看球了",
       "onboard_time": 1669352499,
       "rank": 24,
-      "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 348210,
-      "num": 348210,
-      "word": "男孩说中国队去踢死他们爸爸无言以对",
-      "onboard_time": 1669379755,
-      "rank": 47,
       "category": "体育,社会新闻"
     },
     {
@@ -1515,6 +1547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 296718,
+      "num": 296718,
+      "word": "马嘉祺百忧戒开麦高音",
+      "onboard_time": 1669381789,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 296007,
       "num": 240484,
       "word": "宋小宝回应宋小宝卡塔尔分宝",
@@ -1683,12 +1723,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 260766,
-      "num": 260766,
-      "word": "哈尔滨疫情防控",
-      "onboard_time": 1669377413,
-      "rank": 39,
-      "category": "社会新闻"
+      "raw_hot": 259826,
+      "num": 192531,
+      "word": "时代少年团百忧戒舞台连线",
+      "onboard_time": 1669381130,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 257988,
+      "num": 257988,
+      "word": "原来老年痴呆的世界是这样的",
+      "onboard_time": 1669379814,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 255753,
@@ -1801,6 +1849,14 @@
       "onboard_time": 1669371355,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 239523,
+      "num": 239523,
+      "word": "90后女生翻唱世界杯主题曲走红",
+      "onboard_time": 1669382583,
+      "rank": 32,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 237500,
@@ -2051,14 +2107,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 202587,
-      "num": 202587,
-      "word": "原来老年痴呆的世界是这样的",
-      "onboard_time": 1669379814,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
       "raw_hot": 201989,
       "num": 136156,
       "word": "于文文说自己被铁刘海封印了",
@@ -2091,6 +2139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 197271,
+      "num": 197271,
+      "word": "东方风云榜云现场",
+      "onboard_time": 1669381789,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 196947,
       "num": 181789,
       "word": "第29届东方风云榜节目单",
@@ -2107,6 +2163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 196060,
+      "num": 196060,
+      "word": "小猫咪也太有灵性了",
+      "onboard_time": 1669380953,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 193991,
       "num": 193991,
       "word": "危笑到底有多恐怖",
@@ -2121,14 +2185,6 @@
       "onboard_time": 1669312825,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 192543,
-      "num": 192543,
-      "word": "小猫咪也太有灵性了",
-      "onboard_time": 1669380953,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 191898,
@@ -2283,6 +2339,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 171819,
+      "num": 171819,
+      "word": "吹风机放床上引燃被褥烧了家",
+      "onboard_time": 1669382338,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 170829,
       "num": 170829,
       "word": "遇到老六连C罗都震惊了",
@@ -2412,7 +2476,7 @@
     },
     {
       "raw_hot": 160679,
-      "num": 169301,
+      "num": 488746,
       "word": "怎样的家是真正的智慧家",
       "onboard_time": 1669375072,
       "rank": 42,
@@ -2459,6 +2523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 152608,
+      "num": 152608,
+      "word": "伊朗球员庆祝绝杀掐主教练脖子",
+      "onboard_time": 1669382519,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 152232,
       "num": 152232,
       "word": "日本足协正申请加入欧足联",
@@ -2489,6 +2561,22 @@
       "onboard_time": 1669290037,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 149764,
+      "num": 149764,
+      "word": "GK",
+      "onboard_time": 1669381489,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 149271,
+      "num": 149271,
+      "word": "伊朗进球",
+      "onboard_time": 1669381977,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 149193,
@@ -2769,6 +2857,14 @@
       "onboard_time": 1669313545,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 103978,
+      "num": 1148016,
+      "word": "来自中国空间站的出差邀请",
+      "onboard_time": 1669381789,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 102980,
