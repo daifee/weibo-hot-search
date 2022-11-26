@@ -1,6 +1,6 @@
 {
   "startTime": 1669479991529,
-  "endTime": 1669481119593,
+  "endTime": 1669483004124,
   "band_list": [
     {
       "raw_hot": 3152060,
@@ -51,20 +51,20 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 999251,
+      "num": 999251,
+      "word": "法国vs丹麦",
+      "onboard_time": 1669477667,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 988661,
       "num": 988661,
       "word": "女租客没回信息男房东擅闯房间",
       "onboard_time": 1669475754,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 971893,
-      "num": 971893,
-      "word": "法国vs丹麦",
-      "onboard_time": 1669477667,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 904569,
@@ -81,6 +81,14 @@
       "onboard_time": 1669470776,
       "rank": 10,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 723531,
+      "num": 723531,
+      "word": "阿根廷vs墨西哥",
+      "onboard_time": 1669481732,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 670391,
@@ -123,6 +131,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 532965,
+      "num": 532965,
+      "word": "韩剧雨伞",
+      "onboard_time": 1669478679,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 524636,
+      "num": 524636,
+      "word": "替梅西紧张",
+      "onboard_time": 1669480831,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 489839,
       "num": 489839,
       "word": "张真源拔麦",
@@ -137,6 +161,14 @@
       "onboard_time": 1669477244,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 434066,
+      "num": 434066,
+      "word": "蛋炒饭要用隔夜米饭的原因",
+      "onboard_time": 1669480116,
+      "rank": 23,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 421973,
@@ -155,20 +187,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 380477,
-      "num": 380477,
-      "word": "韩剧雨伞",
-      "onboard_time": 1669478679,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
       "raw_hot": 332180,
       "num": 332180,
       "word": "广州TTG",
       "onboard_time": 1669473414,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 328130,
+      "num": 328130,
+      "word": "苍盐海三巨头做客你好星期六",
+      "onboard_time": 1669482688,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 324999,
@@ -187,6 +219,22 @@
       "category": "体育,幽默"
     },
     {
+      "raw_hot": 315940,
+      "num": 315940,
+      "word": "家猫走失5天后被收养的流浪猫带回",
+      "onboard_time": 1669479103,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 293518,
+      "num": 293518,
+      "word": "IVE获奖后安宥真哭了",
+      "onboard_time": 1669482029,
+      "rank": 19,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 284646,
       "num": 284646,
       "word": "沙特 假摔",
@@ -203,14 +251,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 278273,
-      "num": 278273,
-      "word": "家猫走失5天后被收养的流浪猫带回",
-      "onboard_time": 1669479103,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 276023,
       "num": 276023,
       "word": "刘畊宏为阿根廷梅西加油",
@@ -219,12 +259,12 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 246953,
-      "num": 246953,
-      "word": "蛋炒饭要用隔夜米饭的原因",
-      "onboard_time": 1669480116,
-      "rank": 23,
-      "category": "美食,幽默"
+      "raw_hot": 249432,
+      "num": 249432,
+      "word": "沙特教练 帅",
+      "onboard_time": 1669480655,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 245437,
@@ -291,11 +331,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 224996,
+      "num": 224996,
+      "word": "快递小哥嫌挣得少1月连偷7次",
+      "onboard_time": 1669479221,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 221812,
       "num": 225892,
       "word": "敖子逸嘴上不怕身体很诚实",
       "onboard_time": 1669479633,
       "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 214283,
+      "num": 214283,
+      "word": "马嘉祺我期待Say goodbye高音",
+      "onboard_time": 1669482688,
+      "rank": 26,
       "category": "综艺"
     },
     {
@@ -313,6 +369,14 @@
       "onboard_time": 1669479519,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 193049,
+      "num": 193049,
+      "word": "法国半场0比0丹麦",
+      "onboard_time": 1669482152,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 190274,
@@ -337,6 +401,14 @@
       "onboard_time": 1669479937,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 184559,
+      "num": 184559,
+      "word": "为梅西熬夜",
+      "onboard_time": 1669482029,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 182806,
@@ -371,14 +443,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 172152,
-      "num": 172152,
-      "word": "替梅西紧张",
-      "onboard_time": 1669480831,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 170234,
       "num": 170234,
       "word": "英格兰威尔士球迷爆发冲突",
@@ -393,14 +457,6 @@
       "onboard_time": 1669478147,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 169139,
-      "num": 169139,
-      "word": "快递小哥嫌挣得少1月连偷7次",
-      "onboard_time": 1669479221,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 166929,
@@ -427,14 +483,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 148215,
-      "num": 148215,
-      "word": "沙特教练 帅",
-      "onboard_time": 1669480655,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 146397,
       "num": 146397,
       "word": "他在拍一种很新的拍照方式",
@@ -457,6 +505,22 @@
       "onboard_time": 1669479103,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 117370,
+      "num": 117370,
+      "word": "檀健次画出来的都是妖怪",
+      "onboard_time": 1669481614,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 114736,
+      "num": 114736,
+      "word": "苏醒用娱乐圈比喻世界杯关系",
+      "onboard_time": 1669482925,
+      "rank": 45,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 9675,

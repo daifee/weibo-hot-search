@@ -1,0 +1,410 @@
+{
+  "runTime": 1669483004124,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1643142,
+        "num": 1643142,
+        "word": "20条严禁长时间不解封",
+        "onboard_time": 1669474551,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 999251,
+        "num": 999251,
+        "word": "法国vs丹麦",
+        "onboard_time": 1669477667,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 6637,
+        "num": 917808,
+        "word": "多视角看歼15航母起降全过程",
+        "onboard_time": 1669435239,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 862228,
+        "num": 862228,
+        "word": "郑州回应郑好办查出奥特曼核酸报告",
+        "onboard_time": 1669464166,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 723531,
+        "num": 723531,
+        "word": "阿根廷vs墨西哥",
+        "onboard_time": 1669481732,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 701407,
+        "num": 701407,
+        "word": "乌鲁木齐市1124火灾四问",
+        "onboard_time": 1669453658,
+        "rank": 5,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 532965,
+        "num": 532965,
+        "word": "韩剧雨伞",
+        "onboard_time": 1669478679,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 524636,
+        "num": 524636,
+        "word": "替梅西紧张",
+        "onboard_time": 1669480831,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 520707,
+        "num": 520707,
+        "word": "卡塔尔球迷要立刻办闭幕式",
+        "onboard_time": 1669475334,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 505111,
+        "num": 505111,
+        "word": "官方通报网传顺德核酸聚集踩踏事件",
+        "onboard_time": 1669464403,
+        "rank": 9,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 2661165,
+        "num": 503169,
+        "word": "上海一街道未做核酸纳入征信",
+        "onboard_time": 1669477430,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 500769,
+        "num": 500769,
+        "word": "女租客没回信息男房东擅闯房间",
+        "onboard_time": 1669475754,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 463863,
+        "num": 463863,
+        "word": "许半夏抓包丈夫出轨",
+        "onboard_time": 1669478147,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 434066,
+        "num": 434066,
+        "word": "蛋炒饭要用隔夜米饭的原因",
+        "onboard_time": 1669480116,
+        "rank": 13,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 358915,
+        "num": 358915,
+        "word": "蔡英文辞去民进党主席职务",
+        "onboard_time": 1669470776,
+        "rank": 14,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 358686,
+        "num": 358686,
+        "word": "当小时代的豪宅照进现实",
+        "onboard_time": 1669476649,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 328130,
+        "num": 328130,
+        "word": "苍盐海三巨头做客你好星期六",
+        "onboard_time": 1669482688,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 319847,
+        "num": 319847,
+        "word": "婆婆把豪宅庭院改菜地种菜",
+        "onboard_time": 1669477244,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315940,
+        "num": 315940,
+        "word": "家猫走失5天后被收养的流浪猫带回",
+        "onboard_time": 1669479103,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293518,
+        "num": 293518,
+        "word": "IVE获奖后安宥真哭了",
+        "onboard_time": 1669482029,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1007743,
+        "num": 293167,
+        "word": "北京理工大学一名学生核酸呈阳性",
+        "onboard_time": 1669473888,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292193,
+        "num": 292193,
+        "word": "C罗请葡萄牙全队聚餐",
+        "onboard_time": 1669471557,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 249432,
+        "num": 249432,
+        "word": "沙特教练 帅",
+        "onboard_time": 1669480655,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 231225,
+        "num": 231225,
+        "word": "刘畊宏为阿根廷梅西加油",
+        "onboard_time": 1669476350,
+        "rank": 23,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 226720,
+        "num": 226720,
+        "word": "张真源拔麦",
+        "onboard_time": 1669478147,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 224996,
+        "num": 224996,
+        "word": "快递小哥嫌挣得少1月连偷7次",
+        "onboard_time": 1669479221,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214283,
+        "num": 214283,
+        "word": "马嘉祺我期待Say goodbye高音",
+        "onboard_time": 1669482688,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193049,
+        "num": 193049,
+        "word": "法国半场0比0丹麦",
+        "onboard_time": 1669482152,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192841,
+        "num": 192841,
+        "word": "广州TTG",
+        "onboard_time": 1669473414,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 184559,
+        "num": 184559,
+        "word": "为梅西熬夜",
+        "onboard_time": 1669482029,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1587140,
+        "num": 184431,
+        "word": "人民锐评",
+        "onboard_time": 1669478081,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183954,
+        "num": 183954,
+        "word": "许凯一秒认出杨幂眼睛",
+        "onboard_time": 1669474912,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 181156,
+        "num": 181156,
+        "word": "新国展方舱医院快递可送达",
+        "onboard_time": 1669466981,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169986,
+        "num": 169986,
+        "word": "孩子吞硬币家长用探测器查位置",
+        "onboard_time": 1669479399,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165718,
+        "num": 165718,
+        "word": "为什么iPhone用的时间长",
+        "onboard_time": 1669464944,
+        "rank": 34,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 158798,
+        "num": 158798,
+        "word": "卡塔尔人输急眼了",
+        "onboard_time": 1669453960,
+        "rank": 35,
+        "category": "体育,幽默"
+      },
+      {
+        "raw_hot": 154637,
+        "num": 154637,
+        "word": "女子苦干12年赚钱给弟弟买房买车",
+        "onboard_time": 1669455038,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149695,
+        "num": 149695,
+        "word": "北京新增本土感染者2454例",
+        "onboard_time": 1669456001,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143532,
+        "num": 143532,
+        "word": "gidle未消音版TOMBOY最新舞台",
+        "onboard_time": 1669479937,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 140463,
+        "num": 140463,
+        "word": "北京昌平一社区两小时开通购菜接龙",
+        "onboard_time": 1669470410,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139424,
+        "num": 139424,
+        "word": "周深cos哪吒好可爱",
+        "onboard_time": 1669479519,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133920,
+        "num": 133920,
+        "word": "BLG Doinb",
+        "onboard_time": 1669463861,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 132743,
+        "num": 132743,
+        "word": "卡塔尔饺子皮出新皮肤了",
+        "onboard_time": 1669461762,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130015,
+        "num": 130015,
+        "word": "英格兰威尔士球迷爆发冲突",
+        "onboard_time": 1669464641,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117370,
+        "num": 117370,
+        "word": "檀健次画出来的都是妖怪",
+        "onboard_time": 1669481614,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114736,
+        "num": 114736,
+        "word": "苏醒用娱乐圈比喻世界杯关系",
+        "onboard_time": 1669482925,
+        "rank": 45,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 105569,
+        "num": 105569,
+        "word": "沙特 假摔",
+        "onboard_time": 1669472933,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101725,
+        "num": 101725,
+        "word": "玲娜贝儿跳wakawaka",
+        "onboard_time": 1669462180,
+        "rank": 47,
+        "category": "体育,动漫"
+      },
+      {
+        "raw_hot": 100609,
+        "num": 100609,
+        "word": "泽林斯基破门",
+        "onboard_time": 1669472636,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98629,
+        "num": 98629,
+        "word": "女子16万买2车库精装修后入住",
+        "onboard_time": 1669453658,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动经济全球化不断向前#"
+    }
+  }
+}

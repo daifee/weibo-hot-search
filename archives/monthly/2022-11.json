@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1669481119593,
+  "endTime": 1669483004124,
   "band_list": [
     {
       "raw_hot": 36651023,
@@ -5507,6 +5507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 999251,
+      "num": 999251,
+      "word": "法国vs丹麦",
+      "onboard_time": 1669447115,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 998533,
       "num": 998533,
       "word": "齐溪金鸡奖最佳女配角",
@@ -5704,14 +5712,6 @@
       "word": "C罗成为本届世界杯唯一自由球员",
       "onboard_time": 1669239852,
       "rank": 11,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 971893,
-      "num": 971893,
-      "word": "法国vs丹麦",
-      "onboard_time": 1669447115,
-      "rank": 48,
       "category": "体育"
     },
     {
@@ -8881,6 +8881,14 @@
       "onboard_time": 1668840986,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 723531,
+      "num": 723531,
+      "word": "阿根廷vs墨西哥",
+      "onboard_time": 1669436022,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 723441,
@@ -13635,6 +13643,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 532965,
+      "num": 532965,
+      "word": "韩剧雨伞",
+      "onboard_time": 1669478679,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 532854,
       "num": 532854,
       "word": "甘肃县级队足协杯淘汰北京国安",
@@ -13913,6 +13929,14 @@
       "onboard_time": 1669442140,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 524636,
+      "num": 524636,
+      "word": "替梅西紧张",
+      "onboard_time": 1669480831,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 524522,
@@ -18027,6 +18051,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 434066,
+      "num": 434066,
+      "word": "蛋炒饭要用隔夜米饭的原因",
+      "onboard_time": 1669480116,
+      "rank": 23,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 434015,
       "num": 434015,
       "word": "三名男大学生校内约架被电棍击伤",
@@ -21033,14 +21065,6 @@
       "onboard_time": 1668613646,
       "rank": 13,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 380477,
-      "num": 380477,
-      "word": "韩剧雨伞",
-      "onboard_time": 1669478679,
-      "rank": 37,
-      "category": "影视"
     },
     {
       "raw_hot": 380437,
@@ -24651,6 +24675,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 328130,
+      "num": 328130,
+      "word": "苍盐海三巨头做客你好星期六",
+      "onboard_time": 1669482688,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 328047,
       "num": 258594,
       "word": "蔡徐坤GQ红毯飞行嘉宾",
@@ -25632,6 +25664,14 @@
       "word": "11月10日新增本土无症状9385例",
       "onboard_time": 1668133646,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 315940,
+      "num": 315940,
+      "word": "家猫走失5天后被收养的流浪猫带回",
+      "onboard_time": 1669479103,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -26667,14 +26707,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 303349,
-      "num": 303349,
-      "word": "阿根廷vs墨西哥",
-      "onboard_time": 1669436022,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 303329,
       "num": 249946,
       "word": "吴磊周雨彤爱情而已网球海报",
@@ -27337,6 +27369,14 @@
       "onboard_time": 1668074367,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 293518,
+      "num": 293518,
+      "word": "IVE获奖后安宥真哭了",
+      "onboard_time": 1669482029,
+      "rank": 19,
+      "category": "音乐"
     },
     {
       "raw_hot": 293431,
@@ -28737,14 +28777,6 @@
       "onboard_time": 1667556448,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 278273,
-      "num": 278273,
-      "word": "家猫走失5天后被收养的流浪猫带回",
-      "onboard_time": 1669479103,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 278238,
@@ -31323,6 +31355,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 249432,
+      "num": 249432,
+      "word": "沙特教练 帅",
+      "onboard_time": 1669480655,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 249381,
       "num": 249381,
       "word": "张凌赫唱星辰大海主题曲",
@@ -31537,14 +31577,6 @@
       "onboard_time": 1669129787,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 246953,
-      "num": 246953,
-      "word": "蛋炒饭要用隔夜米饭的原因",
-      "onboard_time": 1669480116,
-      "rank": 23,
-      "category": "美食,幽默"
     },
     {
       "raw_hot": 246890,
@@ -33835,6 +33867,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 224996,
+      "num": 224996,
+      "word": "快递小哥嫌挣得少1月连偷7次",
+      "onboard_time": 1669479221,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 224877,
       "num": 224877,
       "word": "11月24日新增本土确诊3041例",
@@ -35281,6 +35321,14 @@
       "onboard_time": 1668599850,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 214283,
+      "num": 214283,
+      "word": "马嘉祺我期待Say goodbye高音",
+      "onboard_time": 1669482688,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 214252,
@@ -38299,6 +38347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 193049,
+      "num": 193049,
+      "word": "法国半场0比0丹麦",
+      "onboard_time": 1669482152,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 193008,
       "num": 145250,
       "word": "杨幂白宇片场有爱日常花絮",
@@ -39657,6 +39713,14 @@
       "onboard_time": 1669213963,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 184559,
+      "num": 184559,
+      "word": "为梅西熬夜",
+      "onboard_time": 1669482029,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 184491,
@@ -41483,14 +41547,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 172152,
-      "num": 172152,
-      "word": "替梅西紧张",
-      "onboard_time": 1669480831,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 172151,
       "num": 172151,
       "word": "爸爸给1岁娃装扮出生到70岁穿着",
@@ -41929,14 +41985,6 @@
       "onboard_time": 1667283806,
       "rank": 40,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 169139,
-      "num": 169139,
-      "word": "快递小哥嫌挣得少1月连偷7次",
-      "onboard_time": 1669479221,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 169009,
@@ -45185,14 +45233,6 @@
       "onboard_time": 1668687508,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 148215,
-      "num": 148215,
-      "word": "沙特教练 帅",
-      "onboard_time": 1669480655,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 148175,
@@ -50739,6 +50779,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 117370,
+      "num": 117370,
+      "word": "檀健次画出来的都是妖怪",
+      "onboard_time": 1669481614,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 117297,
       "num": 117297,
       "word": "出现这几种症状或是急性胰腺炎",
@@ -51129,6 +51177,14 @@
       "onboard_time": 1668174090,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 114736,
+      "num": 114736,
+      "word": "苏醒用娱乐圈比喻世界杯关系",
+      "onboard_time": 1669482925,
+      "rank": 45,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 114710,
