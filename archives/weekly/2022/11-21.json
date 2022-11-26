@@ -1,6 +1,6 @@
 {
   "startTime": 1668961718135,
-  "endTime": 1669451066752,
+  "endTime": 1669451920800,
   "band_list": [
     {
       "raw_hot": 36651023,
@@ -2451,6 +2451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 755880,
+      "num": 755880,
+      "word": "仙剑六祈今朝",
+      "onboard_time": 1669450233,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 755133,
       "num": 755133,
       "word": "大四女生为考研自己开自习室",
@@ -3123,6 +3131,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 634155,
+      "num": 634155,
+      "word": "吃完躺下就睡易患贲门癌",
+      "onboard_time": 1669449697,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 632208,
       "num": 632208,
       "word": "英格兰半场3比0伊朗",
@@ -3273,14 +3289,6 @@
       "onboard_time": 1669207352,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 617881,
-      "num": 617881,
-      "word": "仙剑六祈今朝",
-      "onboard_time": 1669450233,
-      "rank": 6,
-      "category": "影视"
     },
     {
       "raw_hot": 617716,
@@ -4187,6 +4195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 521123,
+      "num": 482189,
+      "word": "赵丽颖孙千快把手势舞交出来",
+      "onboard_time": 1669451193,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 520591,
       "num": 520591,
       "word": "陪她聊天与找她聊天的区别",
@@ -4257,6 +4273,14 @@
       "onboard_time": 1669216101,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 513889,
+      "num": 513889,
+      "word": "九口人",
+      "onboard_time": 1669444418,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 513203,
@@ -4377,14 +4401,6 @@
       "onboard_time": 1669198532,
       "rank": 38,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 498215,
-      "num": 498215,
-      "word": "九口人",
-      "onboard_time": 1669444418,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 497387,
@@ -4785,14 +4801,6 @@
       "onboard_time": 1669098932,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 464942,
-      "num": 464942,
-      "word": "吃完躺下就睡易患贲门癌",
-      "onboard_time": 1669449697,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 464369,
@@ -5971,6 +5979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 395437,
+      "num": 395437,
+      "word": "内马尔发文回应世界杯受伤",
+      "onboard_time": 1669450113,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 395094,
       "num": 395094,
       "word": "Meiko发文不参加全明星",
@@ -6041,6 +6057,14 @@
       "onboard_time": 1669431403,
       "rank": 44,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 389283,
+      "num": 389283,
+      "word": "律师突然变成一只猫了",
+      "onboard_time": 1669448795,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 389232,
@@ -6777,14 +6801,6 @@
       "onboard_time": 1669300121,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 350923,
-      "num": 350923,
-      "word": "律师突然变成一只猫了",
-      "onboard_time": 1669448795,
-      "rank": 22,
-      "category": "幽默"
     },
     {
       "raw_hot": 349218,
@@ -7937,6 +7953,14 @@
       "onboard_time": 1669265316,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 304275,
+      "num": 215654,
+      "word": "苏醒说0713向来配合默契偶尔出点差错",
+      "onboard_time": 1669451616,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 303793,
@@ -9899,14 +9923,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 228154,
-      "num": 228154,
-      "word": "内马尔发文回应世界杯受伤",
-      "onboard_time": 1669450113,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 228128,
       "num": 163834,
       "word": "朴赞郁青龙奖最佳导演",
@@ -10995,6 +11011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 201096,
+      "num": 201096,
+      "word": "婆婆摆摊收百元假币无助痛哭",
+      "onboard_time": 1669448972,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 201084,
       "num": 211429,
       "word": "内存大手机就不会卡吗",
@@ -11891,14 +11915,6 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 184667,
-      "num": 184667,
-      "word": "婆婆摆摊收百元假币无助痛哭",
-      "onboard_time": 1669448972,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 184577,
       "num": 184577,
       "word": "对美国女友讲一整天的英国口音",
@@ -12505,6 +12521,14 @@
       "onboard_time": 1669281152,
       "rank": 38,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 171732,
+      "num": 171732,
+      "word": "梅西今晚领衔关键之战",
+      "onboard_time": 1669451075,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 171556,
@@ -14777,6 +14801,14 @@
       "onboard_time": 1669010612,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 119703,
+      "num": 119703,
+      "word": "法国vs丹麦",
+      "onboard_time": 1669447115,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 119638,
