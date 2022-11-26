@@ -1,6 +1,6 @@
 {
   "startTime": 1668961718135,
-  "endTime": 1669469778006,
+  "endTime": 1669472199201,
   "band_list": [
     {
       "raw_hot": 36651023,
@@ -113,6 +113,14 @@
       "onboard_time": 1669215174,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 7226508,
+      "num": 8476508,
+      "word": "蔡英文辞去民进党主席职务",
+      "onboard_time": 1669470776,
+      "rank": 1,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 6991471,
@@ -1643,6 +1651,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1085434,
+      "num": 1085434,
+      "word": "新国展方舱医院快递可送达",
+      "onboard_time": 1669466981,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1083855,
+      "num": 1083855,
+      "word": "为什么iPhone用的时间长",
+      "onboard_time": 1669464944,
+      "rank": 27,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1081065,
       "num": 1081065,
       "word": "为什么真的不建议你去赌球",
@@ -1761,14 +1785,6 @@
       "onboard_time": 1669334255,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1018966,
-      "num": 1018966,
-      "word": "为什么iPhone用的时间长",
-      "onboard_time": 1669464944,
-      "rank": 27,
-      "category": "科技"
     },
     {
       "raw_hot": 1018058,
@@ -2803,14 +2819,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 730918,
-      "num": 730918,
-      "word": "新国展方舱医院快递可送达",
-      "onboard_time": 1669466981,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 730199,
       "num": 730199,
       "word": "乌拉圭半场0比0韩国",
@@ -3209,6 +3217,14 @@
       "onboard_time": 1669031563,
       "rank": 10,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 650834,
+      "num": 650834,
+      "word": "百视TV",
+      "onboard_time": 1669468665,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 650599,
@@ -3651,6 +3667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 596722,
+      "num": 596722,
+      "word": "北京昌平一社区两小时开通购菜接龙",
+      "onboard_time": 1669470410,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 594930,
       "num": 594930,
       "word": "里沙利松倒钩",
@@ -3937,6 +3961,14 @@
       "onboard_time": 1669190797,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 561844,
+      "num": 561844,
+      "word": "波兰vs沙特阿拉伯",
+      "onboard_time": 1669462541,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 561838,
@@ -4491,6 +4523,14 @@
       "category": "幽默,体育"
     },
     {
+      "raw_hot": 519691,
+      "num": 519691,
+      "word": "世冠",
+      "onboard_time": 1669470530,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 519224,
       "num": 488590,
       "word": "一键查询梅西球迷精神状态",
@@ -4691,6 +4731,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 498296,
+      "num": 498296,
+      "word": "沙特点球没进",
+      "onboard_time": 1669471253,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 497387,
       "num": 497387,
       "word": "HLE官宣Zeka加入",
@@ -4825,14 +4873,6 @@
       "onboard_time": 1669011392,
       "rank": 18,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 489639,
-      "num": 489639,
-      "word": "百视TV",
-      "onboard_time": 1669468665,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 489230,
@@ -5011,14 +5051,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 473798,
-      "num": 473798,
-      "word": "波兰vs沙特阿拉伯",
-      "onboard_time": 1669462541,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 473713,
       "num": 473713,
       "word": "90后小伙酷似C罗走红",
@@ -5113,6 +5145,14 @@
       "onboard_time": 1669351060,
       "rank": 42,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 466923,
+      "num": 466923,
+      "word": "英格兰威尔士球迷爆发冲突",
+      "onboard_time": 1669464641,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 466671,
@@ -5408,6 +5448,14 @@
       "word": "转发这个沙特门将",
       "onboard_time": 1669129608,
       "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 446195,
+      "num": 446195,
+      "word": "波兰 三张黄牌",
+      "onboard_time": 1669469932,
+      "rank": 19,
       "category": "体育"
     },
     {
@@ -5779,6 +5827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 425532,
+      "num": 425532,
+      "word": "shadow",
+      "onboard_time": 1669471621,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 425301,
       "num": 425301,
       "word": "官方回应北京一感染者求助安置猫咪",
@@ -5824,14 +5880,6 @@
       "word": "葡萄牙半场0比0加纳",
       "onboard_time": 1669308932,
       "rank": 14,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 421400,
-      "num": 421400,
-      "word": "英格兰威尔士球迷爆发冲突",
-      "onboard_time": 1669464641,
-      "rank": 25,
       "category": "体育"
     },
     {
@@ -6119,6 +6167,14 @@
       "num": 409189,
       "word": "240斤男子为结婚5个月减90斤",
       "onboard_time": 1669012772,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 408871,
+      "num": 408871,
+      "word": "男子花23万农村建4层楼占地120平",
+      "onboard_time": 1669468122,
       "rank": 37,
       "category": "社会新闻"
     },
@@ -8347,14 +8403,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 307913,
-      "num": 307913,
-      "word": "男子花23万农村建4层楼占地120平",
-      "onboard_time": 1669468122,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 307835,
       "num": 307835,
       "word": "综艺算艺人作品吗",
@@ -9227,6 +9275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 276313,
+      "num": 276313,
+      "word": "马嘉祺我期待舞台",
+      "onboard_time": 1669469811,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 276310,
       "num": 276310,
       "word": "老公搂着自家狗子看世界杯",
@@ -9953,6 +10009,14 @@
       "onboard_time": 1669421011,
       "rank": 27,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 248990,
+      "num": 248990,
+      "word": "波兰半场1比0沙特",
+      "onboard_time": 1669471979,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 248592,
@@ -11379,6 +11443,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 207389,
+      "num": 207389,
+      "word": "王者荣耀全球电竞",
+      "onboard_time": 1669469687,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 207381,
       "num": 207381,
       "word": "4岁女儿贴心披马甲爸爸醒来后泪崩",
@@ -12059,6 +12131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 194907,
+      "num": 194907,
+      "word": "11岁女孩涂农药治皮肤病致中毒",
+      "onboard_time": 1669472039,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 194792,
       "num": 194792,
       "word": "消息称富士康私自改动招工补贴金额",
@@ -12257,6 +12337,14 @@
       "onboard_time": 1669467345,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 190798,
+      "num": 190798,
+      "word": "飞驰人生",
+      "onboard_time": 1669472093,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 190791,
@@ -12833,14 +12921,6 @@
       "onboard_time": 1669103973,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 180823,
-      "num": 180823,
-      "word": "王者荣耀全球电竞",
-      "onboard_time": 1669469687,
-      "rank": 45,
-      "category": "游戏"
     },
     {
       "raw_hot": 180812,
@@ -17036,7 +17116,7 @@
     },
     {
       "raw_hot": 30505,
-      "num": 2461631,
+      "num": 3764387,
       "word": "多视角看歼15航母起降全过程",
       "onboard_time": 1669435239,
       "rank": 2,
