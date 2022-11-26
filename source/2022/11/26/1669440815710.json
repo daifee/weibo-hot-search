@@ -1,0 +1,410 @@
+{
+  "runTime": 1669440815710,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 14088979,
+        "num": 14088979,
+        "word": "郑州未经沟通将870人运抵徐州",
+        "onboard_time": 1669435721,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 7328715,
+        "num": 7328715,
+        "word": "乌鲁木齐社会面基本清零",
+        "onboard_time": 1669427383,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40556,
+        "num": 4353065,
+        "word": "来自中国空间站的出差邀请",
+        "onboard_time": 1669381789,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1882419,
+        "num": 1882419,
+        "word": "科学家复活被冷冻48500年古老病毒",
+        "onboard_time": 1669427981,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1385645,
+        "num": 1385645,
+        "word": "李铁被查",
+        "onboard_time": 1669427861,
+        "rank": 4,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 1593185,
+        "num": 1351951,
+        "word": "乌鲁木齐火灾事故网传图片系恶意拼接",
+        "onboard_time": 1669421674,
+        "rank": 5,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 986129,
+        "num": 986129,
+        "word": "谷爱凌现身巴黎名媛舞会",
+        "onboard_time": 1669433440,
+        "rank": 6,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 851372,
+        "num": 851372,
+        "word": "男子潜入别人家中秘密生活9个月",
+        "onboard_time": 1669433679,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 713948,
+        "num": 713948,
+        "word": "严浩翔新歌登双榜TOP1",
+        "onboard_time": 1669440344,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 701192,
+        "num": 701192,
+        "word": "亡夫160余万存款被小姑子转走",
+        "onboard_time": 1669435062,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1103812,
+        "num": 691047,
+        "word": "吴亦凡将如何服刑",
+        "onboard_time": 1669429183,
+        "rank": 10,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 639560,
+        "num": 639560,
+        "word": "宫外孕最容易盯上哪些女性",
+        "onboard_time": 1669421796,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 582208,
+        "num": 582208,
+        "word": "乌鲁木齐市长就10死火灾事故致歉",
+        "onboard_time": 1669420588,
+        "rank": 12,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 542917,
+        "num": 542917,
+        "word": "offer史上第一次实习生反选公司",
+        "onboard_time": 1669436379,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 489255,
+        "num": 489255,
+        "word": "张国伟澳大利亚比赛夺冠",
+        "onboard_time": 1669439081,
+        "rank": 14,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 415513,
+        "num": 415513,
+        "word": "重庆新增本土确诊199例无症状7522例",
+        "onboard_time": 1669429000,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371455,
+        "num": 371455,
+        "word": "鹿晗音乐会黑胶唱片销量",
+        "onboard_time": 1669439922,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 351463,
+        "num": 351463,
+        "word": "阿根廷背水一战",
+        "onboard_time": 1669429785,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 292168,
+        "num": 292168,
+        "word": "阿根廷vs墨西哥",
+        "onboard_time": 1669436022,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 278202,
+        "num": 278202,
+        "word": "乌鲁木齐1124火灾事故发布会",
+        "onboard_time": 1669392051,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1152116,
+        "num": 278180,
+        "word": "女子造谣乌鲁木齐火灾事故死亡人数被拘",
+        "onboard_time": 1669425639,
+        "rank": 20,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 278121,
+        "num": 278121,
+        "word": "李铁执教国足战绩",
+        "onboard_time": 1669438603,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 276210,
+        "num": 276210,
+        "word": "刘宇跳nxde",
+        "onboard_time": 1669435840,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 267344,
+        "num": 267344,
+        "word": "龚俊大靖古装随拍",
+        "onboard_time": 1669439983,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 249750,
+        "num": 249750,
+        "word": "3岁女孩丢人工耳蜗却听到爱意",
+        "onboard_time": 1669431403,
+        "rank": 24,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 248455,
+        "num": 248455,
+        "word": "徐梦洁公主抱秦霄贤",
+        "onboard_time": 1669434880,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246482,
+        "num": 246482,
+        "word": "英格兰 演",
+        "onboard_time": 1669427021,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 244110,
+        "num": 244110,
+        "word": "李峋有短处吗",
+        "onboard_time": 1669438669,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 233675,
+        "num": 233675,
+        "word": "妈妈给12岁儿子画仿古女妆引争议",
+        "onboard_time": 1669431464,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224638,
+        "num": 224638,
+        "word": "乌鲁木齐分阶段恢复低风险区居民生活秩序",
+        "onboard_time": 1669432064,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242617,
+        "num": 218968,
+        "word": "张凌赫你好星期六造型梦回长珩",
+        "onboard_time": 1669435782,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 227090,
+        "num": 213984,
+        "word": "叶舒华说自己没独舞",
+        "onboard_time": 1669434344,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 207381,
+        "num": 207381,
+        "word": "4岁女儿贴心披马甲爸爸醒来后泪崩",
+        "onboard_time": 1669435366,
+        "rank": 32,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 202895,
+        "num": 202895,
+        "word": "蒋龙一剪梅",
+        "onboard_time": 1669439147,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200742,
+        "num": 200742,
+        "word": "为什么不选马超",
+        "onboard_time": 1669437042,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 199101,
+        "num": 199101,
+        "word": "大阪惊现猫咪店员",
+        "onboard_time": 1669437346,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 191833,
+        "num": 198170,
+        "word": "陪她聊天与找她聊天的区别",
+        "onboard_time": 1669428343,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 197530,
+        "num": 197530,
+        "word": "曲靖回应网传20万人被赋黄码",
+        "onboard_time": 1669439026,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197341,
+        "num": 197341,
+        "word": "杨超越星期六狐女造型剧照",
+        "onboard_time": 1669435904,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188332,
+        "num": 188332,
+        "word": "男主持退场时一屁股坐女舞者身上",
+        "onboard_time": 1669421194,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189155,
+        "num": 187836,
+        "word": "王嘉尔演唱会现场氛围",
+        "onboard_time": 1669439568,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 182879,
+        "num": 182879,
+        "word": "卡塔尔小王子又去现场了",
+        "onboard_time": 1669391637,
+        "rank": 41,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 182508,
+        "num": 182508,
+        "word": "女子称4男子凌晨刷房卡闯入酒店房间",
+        "onboard_time": 1669427921,
+        "rank": 42,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 173749,
+        "num": 173749,
+        "word": "李峋朱韵兜兜转转又回到原点",
+        "onboard_time": 1669440400,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 167681,
+        "num": 167681,
+        "word": "女子打水光针后皮肤越来越干",
+        "onboard_time": 1669440105,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163715,
+        "num": 163715,
+        "word": "广州天河疫情防控",
+        "onboard_time": 1669420352,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156981,
+        "num": 156981,
+        "word": "C罗球衣有股字典味",
+        "onboard_time": 1669440462,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152758,
+        "num": 152758,
+        "word": "主人假装忘下吃饭口令金毛蹲地等待",
+        "onboard_time": 1669432185,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140597,
+        "num": 140597,
+        "word": "桐庐发现红码奖1000元",
+        "onboard_time": 1669440220,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139674,
+        "num": 139674,
+        "word": "北京朝阳提醒居家隔离人员如何防护",
+        "onboard_time": 1669419688,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#让节粮减损成为新食尚#"
+    }
+  }
+}

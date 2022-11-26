@@ -1,6 +1,6 @@
 {
   "startTime": 1669393663708,
-  "endTime": 1669439828156,
+  "endTime": 1669440815710,
   "band_list": [
     {
       "raw_hot": 14766436,
@@ -227,6 +227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 713948,
+      "num": 713948,
+      "word": "严浩翔新歌登双榜TOP1",
+      "onboard_time": 1669440344,
+      "rank": 8,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 712595,
       "num": 712595,
       "word": "少爷和我",
@@ -307,8 +315,8 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 536426,
-      "num": 536426,
+      "raw_hot": 542917,
+      "num": 542917,
       "word": "offer史上第一次实习生反选公司",
       "onboard_time": 1669436379,
       "rank": 26,
@@ -353,6 +361,14 @@
       "onboard_time": 1669377532,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 489255,
+      "num": 489255,
+      "word": "张国伟澳大利亚比赛夺冠",
+      "onboard_time": 1669439081,
+      "rank": 30,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 474304,
@@ -512,6 +528,14 @@
       "word": "给老板打电话定制双带钻的拖鞋",
       "onboard_time": 1669432783,
       "rank": 17,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 371455,
+      "num": 371455,
+      "word": "鹿晗音乐会黑胶唱片销量",
+      "onboard_time": 1669439922,
+      "rank": 16,
       "category": "音乐"
     },
     {
@@ -691,12 +715,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 278121,
+      "num": 278121,
+      "word": "李铁执教国足战绩",
+      "onboard_time": 1669438603,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 269636,
       "num": 269636,
       "word": "宝妈为孩子做逛超市防购物神裤",
       "onboard_time": 1669424860,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 267344,
+      "num": 267344,
+      "word": "龚俊大靖古装随拍",
+      "onboard_time": 1669439983,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 261269,
@@ -763,12 +803,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 242374,
-      "num": 206476,
-      "word": "张国伟澳大利亚比赛夺冠",
-      "onboard_time": 1669439081,
-      "rank": 30,
-      "category": "体育,社会新闻"
+      "raw_hot": 244110,
+      "num": 244110,
+      "word": "李峋有短处吗",
+      "onboard_time": 1669438669,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 237999,
@@ -875,12 +915,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 207297,
-      "num": 207297,
-      "word": "李铁执教国足战绩",
-      "onboard_time": 1669438603,
-      "rank": 29,
-      "category": "体育"
+      "raw_hot": 207381,
+      "num": 207381,
+      "word": "4岁女儿贴心披马甲爸爸醒来后泪崩",
+      "onboard_time": 1669435366,
+      "rank": 48,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 205237,
@@ -899,12 +939,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 199902,
-      "num": 199902,
-      "word": "4岁女儿贴心披马甲爸爸醒来后泪崩",
-      "onboard_time": 1669435366,
-      "rank": 48,
-      "category": "社会新闻,情感"
+      "raw_hot": 200742,
+      "num": 200742,
+      "word": "为什么不选马超",
+      "onboard_time": 1669437042,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 198512,
@@ -915,12 +955,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 198046,
-      "num": 198046,
-      "word": "李峋有短处吗",
-      "onboard_time": 1669438669,
-      "rank": 36,
-      "category": "影视"
+      "raw_hot": 197530,
+      "num": 197530,
+      "word": "曲靖回应网传20万人被赋黄码",
+      "onboard_time": 1669439026,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 190791,
@@ -1035,11 +1075,27 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 173749,
+      "num": 173749,
+      "word": "李峋朱韵兜兜转转又回到原点",
+      "onboard_time": 1669440400,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 172641,
       "num": 172641,
       "word": "哈尔滨疫情防控",
       "onboard_time": 1669377413,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167681,
+      "num": 167681,
+      "word": "女子打水光针后皮肤越来越干",
+      "onboard_time": 1669440105,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -1051,12 +1107,12 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 161179,
-      "num": 161179,
-      "word": "为什么不选马超",
-      "onboard_time": 1669437042,
-      "rank": 45,
-      "category": "游戏"
+      "raw_hot": 156981,
+      "num": 156981,
+      "word": "C罗球衣有股字典味",
+      "onboard_time": 1669440462,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 154710,
@@ -1105,6 +1161,14 @@
       "onboard_time": 1669418126,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 140597,
+      "num": 140597,
+      "word": "桐庐发现红码奖1000元",
+      "onboard_time": 1669440220,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 137603,
@@ -1169,14 +1233,6 @@
       "onboard_time": 1669436503,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 123217,
-      "num": 123217,
-      "word": "曲靖回应网传20万人被赋黄码",
-      "onboard_time": 1669439026,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 122105,
