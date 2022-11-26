@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/01 00:36:21 ~ 2022/11/26 15:16:47
+本榜单时间：2022/11/01 00:36:21 ~ 2022/11/26 15:33:32
 </p>
 </blockquote>
 <p>
@@ -5649,6 +5649,12 @@ kp 退团（热度：791639）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%239%E5%B2%81%E5%A5%B3%E7%AB%A5%E6%A1%A3%E5%8F%A3%E6%8C%81%E5%88%80%E6%9D%80%E9%B1%BC%E6%89%92%E9%B3%9E%23" target="weibo">
+9岁女童档口持刀杀鱼扒鳞（热度：786894）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%87%B6%E7%8F%AD%E4%B8%BB%E4%BB%BB%E7%BB%8F%E8%AF%81%E5%AE%9E%E4%B8%BA%E7%BD%91%E7%BA%A2%23" target="weibo">
 史上最凶班主任经证实为网红（热度：786628）
 </a>
@@ -6005,12 +6011,6 @@ Rookie发文恭喜DRX（热度：759563）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A5%E7%9D%A1%E5%A7%BF%E5%8A%BF%E4%B8%8D%E5%AF%B9%E5%8F%AF%E8%83%BD%E7%9D%A1%E5%87%BA%E6%AF%9B%E7%97%85%23" target="weibo">
 入睡姿势不对可能睡出毛病（热度：752529）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%AD%90%E6%9E%AB%E5%A4%B4%E5%8F%91%E5%A5%BD%E8%93%AC%E6%9D%BE%23" target="weibo">
-张子枫头发好蓬松（热度：752301）
 </a>
 </li>
 

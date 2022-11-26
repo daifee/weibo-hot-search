@@ -1,6 +1,6 @@
 {
   "startTime": 1669393663708,
-  "endTime": 1669447007760,
+  "endTime": 1669448012362,
   "band_list": [
     {
       "raw_hot": 14766436,
@@ -227,6 +227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 786894,
+      "num": 786894,
+      "word": "9岁女童档口持刀杀鱼扒鳞",
+      "onboard_time": 1669442315,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 767561,
       "num": 660812,
       "word": "吴永秀因涉嫌强制猥亵被起诉",
@@ -257,6 +265,22 @@
       "onboard_time": 1669381311,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 707650,
+      "num": 707650,
+      "word": "男子口腔溃疡一年瘦62斤竟患罕见病",
+      "onboard_time": 1669445556,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 692040,
+      "num": 597112,
+      "word": "湖南疾控回应蓝码取消",
+      "onboard_time": 1669446217,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 686405,
@@ -291,14 +315,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 666021,
-      "num": 666021,
-      "word": "9岁女童档口持刀杀鱼扒鳞",
-      "onboard_time": 1669442315,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 644121,
       "num": 644121,
       "word": "卡塔尔 回家",
@@ -321,6 +337,14 @@
       "onboard_time": 1669422940,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 592257,
+      "num": 592257,
+      "word": "李铁资本版图",
+      "onboard_time": 1669444057,
+      "rank": 38,
+      "category": "体育,财经"
     },
     {
       "raw_hot": 561632,
@@ -459,27 +483,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 458753,
-      "num": 458753,
-      "word": "李铁资本版图",
-      "onboard_time": 1669444057,
-      "rank": 38,
-      "category": "体育,财经"
-    },
-    {
       "raw_hot": 458614,
       "num": 458614,
       "word": "11月25日北京新增本土确诊586例",
       "onboard_time": 1669422095,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 454087,
-      "num": 454087,
-      "word": "男子口腔溃疡一年瘦62斤竟患罕见病",
-      "onboard_time": 1669445556,
-      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -635,12 +643,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 362133,
+      "num": 362133,
+      "word": "白鹿粉西装上班路透",
+      "onboard_time": 1669447357,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 359940,
       "num": 359940,
       "word": "严浩翔新歌righttrack上线",
       "onboard_time": 1669430747,
       "rank": 17,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 356197,
+      "num": 356197,
+      "word": "日本球迷解释为何清理看台垃圾",
+      "onboard_time": 1669445133,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 353758,
@@ -755,6 +779,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 311053,
+      "num": 311053,
+      "word": "医生打飞的劝回患癌弃疗病人",
+      "onboard_time": 1669444716,
+      "rank": 49,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 307669,
       "num": 307669,
       "word": "洒水车为避让3学生撞路边幼儿园围墙",
@@ -787,14 +819,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 298029,
-      "num": 298029,
-      "word": "医生打飞的劝回患癌弃疗病人",
-      "onboard_time": 1669444716,
-      "rank": 49,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 295256,
       "num": 295256,
       "word": "情侣高速上吵架女子将男友锁车外",
@@ -816,14 +840,6 @@
       "word": "广州疫情防控",
       "onboard_time": 1669420352,
       "rank": 22,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 283694,
-      "num": 263188,
-      "word": "湖南疾控回应蓝码取消",
-      "onboard_time": 1669446217,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -851,28 +867,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 269636,
-      "num": 269636,
-      "word": "宝妈为孩子做逛超市防购物神裤",
-      "onboard_time": 1669424860,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 268075,
-      "num": 268075,
+      "raw_hot": 273280,
+      "num": 273280,
       "word": "九口人",
       "onboard_time": 1669444418,
       "rank": 27,
       "category": "综艺"
     },
     {
-      "raw_hot": 268039,
-      "num": 268039,
-      "word": "日本球迷解释为何清理看台垃圾",
-      "onboard_time": 1669445133,
-      "rank": 28,
-      "category": "体育"
+      "raw_hot": 269636,
+      "num": 269636,
+      "word": "宝妈为孩子做逛超市防购物神裤",
+      "onboard_time": 1669424860,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 267344,
@@ -971,6 +979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 237090,
+      "num": 237090,
+      "word": "家有姐妹定档1202",
+      "onboard_time": 1669447357,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 237075,
       "num": 237075,
       "word": "时代少年团音乐分享会今晚见",
@@ -985,6 +1001,14 @@
       "onboard_time": 1669382519,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 234755,
+      "num": 234755,
+      "word": "陈飞宇捧打火机让张婧仪暖手",
+      "onboard_time": 1669446935,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 223998,
@@ -1081,6 +1105,14 @@
       "onboard_time": 1669435366,
       "rank": 48,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 206455,
+      "num": 206455,
+      "word": "卡卡说C罗是个非常棒的小伙",
+      "onboard_time": 1669447357,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 205237,
@@ -1291,6 +1323,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 159735,
+      "num": 159735,
+      "word": "00后女生回应毕业做守墓人",
+      "onboard_time": 1669446995,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 154710,
       "num": 154710,
       "word": "调音师第一次后悔接了这活",
@@ -1323,6 +1363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 147784,
+      "num": 147784,
+      "word": "football soccer",
+      "onboard_time": 1669446636,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 145347,
       "num": 145347,
       "word": "北京疫情新增病例持续高位增长",
@@ -1347,14 +1395,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 137593,
-      "num": 137593,
-      "word": "陈飞宇捧打火机让张婧仪暖手",
-      "onboard_time": 1669446935,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
       "raw_hot": 136152,
       "num": 138630,
       "word": "为何马奎尔到了国家队就很稳",
@@ -1377,6 +1417,14 @@
       "onboard_time": 1669405995,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 130828,
+      "num": 130828,
+      "word": "蹴鞠产生于2300年前的中国",
+      "onboard_time": 1669447775,
+      "rank": 46,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 129913,
@@ -1419,12 +1467,12 @@
       "category": "美食,社会新闻"
     },
     {
-      "raw_hot": 123348,
-      "num": 123348,
-      "word": "football soccer",
-      "onboard_time": 1669446636,
-      "rank": 47,
-      "category": "体育"
+      "raw_hot": 122282,
+      "num": 122282,
+      "word": "宿管阿姨听到吉他声合唱海阔天空",
+      "onboard_time": 1669447956,
+      "rank": 49,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 122105,
@@ -1465,14 +1513,6 @@
       "onboard_time": 1669390921,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 119764,
-      "num": 119764,
-      "word": "00后女生回应毕业做守墓人",
-      "onboard_time": 1669446995,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 119178,
