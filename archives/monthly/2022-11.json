@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1669462417065,
+  "endTime": 1669466090539,
   "band_list": [
     {
       "raw_hot": 36651023,
@@ -281,6 +281,14 @@
       "onboard_time": 1668867276,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 4043244,
+      "num": 4043244,
+      "word": "官方通报网传顺德核酸聚集踩踏事件",
+      "onboard_time": 1669464403,
+      "rank": 0,
+      "category": "社会负面"
     },
     {
       "raw_hot": 4029891,
@@ -3531,6 +3539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1300691,
+      "num": 793126,
+      "word": "郑州回应郑好办查出奥特曼核酸报告",
+      "onboard_time": 1669464166,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1297184,
       "num": 1297184,
       "word": "朱一龙领奖嘴瓢太可爱了",
@@ -4929,6 +4945,14 @@
       "onboard_time": 1669108111,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1044969,
+      "num": 1044969,
+      "word": "孙颖莎",
+      "onboard_time": 1669462300,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 1044920,
@@ -6515,6 +6539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 877955,
+      "num": 877955,
+      "word": "张杰说我人生只会画这一个图",
+      "onboard_time": 1669464582,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 876160,
       "num": 876160,
       "word": "华为疑似暂缓2023届校招",
@@ -7547,6 +7579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 795998,
+      "num": 795998,
+      "word": "BLG Doinb",
+      "onboard_time": 1669463861,
+      "rank": 9,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 794904,
       "num": 794904,
       "word": "林高远",
@@ -7769,6 +7809,14 @@
       "onboard_time": 1668671367,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 776951,
+      "num": 776951,
+      "word": "卡塔尔饺子皮出新皮肤了",
+      "onboard_time": 1669461762,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 776191,
@@ -9763,6 +9811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 667790,
+      "num": 667790,
+      "word": "重庆一大学疫情中的异地恋情侣",
+      "onboard_time": 1669462963,
+      "rank": 13,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 667561,
       "num": 667561,
       "word": "全网唯二的观众居然认亲了",
@@ -10931,6 +10987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 614426,
+      "num": 614426,
+      "word": "叶舒华高开叉长裙造型",
+      "onboard_time": 1669463861,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 614049,
       "num": 614049,
       "word": "女租客失联留下满屋垃圾楼道里都是臭味",
@@ -11377,6 +11441,14 @@
       "onboard_time": 1669196793,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 593805,
+      "num": 593805,
+      "word": "Deft",
+      "onboard_time": 1669161574,
+      "rank": 20,
+      "category": "游戏"
     },
     {
       "raw_hot": 593647,
@@ -17731,6 +17803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 432386,
+      "num": 432386,
+      "word": "中村一叶今日solo舞台",
+      "onboard_time": 1669464878,
+      "rank": 19,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 432219,
       "num": 379612,
       "word": "乒乓球世界冠军朱雨玲病愈归来",
@@ -17761,6 +17841,14 @@
       "onboard_time": 1669391995,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 431712,
+      "num": 431712,
+      "word": "玲娜贝儿跳wakawaka",
+      "onboard_time": 1669462180,
+      "rank": 34,
+      "category": "体育,动漫"
     },
     {
       "raw_hot": 431644,
@@ -18787,6 +18875,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 411710,
+      "num": 411710,
+      "word": "沙特球迷请求墨西哥淘汰阿根廷",
+      "onboard_time": 1669461703,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 411634,
       "num": 352179,
       "word": "朱韵撕碎的合照被李峋拼好",
@@ -19360,6 +19456,14 @@
       "word": "王楚钦孙颖莎3比0周启豪何卓佳",
       "onboard_time": 1667907808,
       "rank": 12,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 401997,
+      "num": 401997,
+      "word": "澳大利亚1比0突尼斯",
+      "onboard_time": 1669465238,
+      "rank": 23,
       "category": "体育"
     },
     {
@@ -21403,6 +21507,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 366166,
+      "num": 366166,
+      "word": "蔡卓妍与郑伊健同框合照",
+      "onboard_time": 1669462963,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 366007,
       "num": 366007,
       "word": "烂尾8年交房业主被通知交续建费",
@@ -22401,6 +22513,14 @@
       "onboard_time": 1667349926,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 350329,
+      "num": 350329,
+      "word": "英格兰威尔士球迷爆发冲突",
+      "onboard_time": 1669464641,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 350314,
@@ -24755,6 +24875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 319976,
+      "num": 319976,
+      "word": "为什么iPhone用的时间长",
+      "onboard_time": 1669464944,
+      "rank": 27,
+      "category": "科技"
+    },
+    {
       "raw_hot": 319909,
       "num": 319909,
       "word": "赵丽颖风吹半夏五大美德",
@@ -25091,6 +25219,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 316117,
+      "num": 316117,
+      "word": "你离王嘉尔可以有多近",
+      "onboard_time": 1669464944,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 316069,
       "num": 316069,
       "word": "巴基斯坦前总理伊姆兰汗中弹",
@@ -25211,12 +25347,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 314629,
-      "num": 314629,
-      "word": "Deft",
-      "onboard_time": 1669161574,
-      "rank": 20,
-      "category": "游戏"
+      "raw_hot": 314482,
+      "num": 314482,
+      "word": "一踩奶就变小老头的猫咪",
+      "onboard_time": 1669464462,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 314397,
@@ -28907,14 +29043,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 270561,
-      "num": 270561,
-      "word": "卡塔尔饺子皮出新皮肤了",
-      "onboard_time": 1669461762,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 270450,
       "num": 270450,
       "word": "张婧仪彩虹屁夸陈飞宇",
@@ -30321,6 +30449,14 @@
       "onboard_time": 1668838708,
       "rank": 43,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 253562,
+      "num": 253562,
+      "word": "男子抽搐吐血司机连闯2个红灯送医",
+      "onboard_time": 1669463379,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 253347,
@@ -36555,6 +36691,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 199263,
+      "num": 199263,
+      "word": "LESSERAFIM2022MMA舞台",
+      "onboard_time": 1669463921,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 199249,
       "num": 199249,
       "word": "新冠居家必备药物指南",
@@ -37203,6 +37347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 195275,
+      "num": 195275,
+      "word": "谢娜说欢迎来十三角关系的世界寻找爱",
+      "onboard_time": 1669462477,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 195217,
       "num": 195217,
       "word": "一辈子只做了2件事的院士",
@@ -37459,14 +37611,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 193656,
-      "num": 193656,
-      "word": "玲娜贝儿跳wakawaka",
-      "onboard_time": 1669462180,
-      "rank": 34,
-      "category": "体育,动漫"
-    },
-    {
       "raw_hot": 193578,
       "num": 193578,
       "word": "赵芳如全力护郝葭母女",
@@ -37609,6 +37753,14 @@
       "onboard_time": 1669110337,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 192742,
+      "num": 192742,
+      "word": "见面吧星朋友",
+      "onboard_time": 1669465480,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 192558,
@@ -38657,6 +38809,14 @@
       "onboard_time": 1669093898,
       "rank": 35,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 185872,
+      "num": 185872,
+      "word": "原来这就是滑雪的魅力",
+      "onboard_time": 1669465480,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 185754,
@@ -39849,14 +40009,6 @@
       "onboard_time": 1668767788,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 177844,
-      "num": 177844,
-      "word": "沙特球迷请求墨西哥淘汰阿根廷",
-      "onboard_time": 1669461703,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 177827,
@@ -41235,6 +41387,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 167902,
+      "num": 167902,
+      "word": "波兰vs沙特阿拉伯",
+      "onboard_time": 1669462541,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 167901,
       "num": 167901,
       "word": "旗舰处理器上市一月价格跳水1500",
@@ -41472,6 +41632,14 @@
       "word": "武大学子齐唱再见送别窦校长",
       "onboard_time": 1668420626,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 166020,
+      "num": 166020,
+      "word": "摄影师拍下吊塔勾起落日",
+      "onboard_time": 1669465661,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -46315,14 +46483,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 137655,
-      "num": 137655,
-      "word": "孙颖莎",
-      "onboard_time": 1669462300,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 137603,
       "num": 137603,
       "word": "詹姆斯复出",
@@ -47924,7 +48084,7 @@
     },
     {
       "raw_hot": 129243,
-      "num": 2353929,
+      "num": 2474545,
       "word": "冬季限定美景硝花可以有多美",
       "onboard_time": 1669433504,
       "rank": 49,
