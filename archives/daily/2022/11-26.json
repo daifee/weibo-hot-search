@@ -1,6 +1,6 @@
 {
   "startTime": 1669393663708,
-  "endTime": 1669431117474,
+  "endTime": 1669431750881,
   "band_list": [
     {
       "raw_hot": 13715986,
@@ -11,20 +11,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 9454921,
+      "num": 9454921,
+      "word": "乌鲁木齐社会面基本清零",
+      "onboard_time": 1669427383,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 8905793,
       "num": 8905793,
       "word": "李铁被查",
       "onboard_time": 1669427861,
       "rank": 0,
       "category": "社会新闻,体育"
-    },
-    {
-      "raw_hot": 6117844,
-      "num": 6117844,
-      "word": "乌鲁木齐社会面基本清零",
-      "onboard_time": 1669427383,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 3846388,
@@ -67,8 +67,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1828998,
-      "num": 1828998,
+      "raw_hot": 2169029,
+      "num": 2169029,
       "word": "科学家复活被冷冻48500年古老病毒",
       "onboard_time": 1669427981,
       "rank": 39,
@@ -115,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1144187,
+      "num": 637729,
+      "word": "吴亦凡将如何服刑",
+      "onboard_time": 1669429183,
+      "rank": 11,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1110808,
       "num": 1110808,
       "word": "英格兰 演",
@@ -145,14 +153,6 @@
       "onboard_time": 1669391637,
       "rank": 38,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 985400,
-      "num": 637729,
-      "word": "吴亦凡将如何服刑",
-      "onboard_time": 1669429183,
-      "rank": 11,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 967521,
@@ -251,8 +251,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 536496,
-      "num": 536496,
+      "raw_hot": 546526,
+      "num": 546526,
       "word": "女子称4男子凌晨刷房卡闯入酒店房间",
       "onboard_time": 1669427921,
       "rank": 37,
@@ -275,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 520591,
+      "num": 520591,
+      "word": "陪她聊天与找她聊天的区别",
+      "onboard_time": 1669428343,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
       "raw_hot": 520246,
       "num": 520246,
       "word": "北京WB",
@@ -283,27 +291,19 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 513200,
+      "num": 513200,
+      "word": "重庆新增本土确诊199例无症状7522例",
+      "onboard_time": 1669429000,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 491908,
       "num": 400488,
       "word": "胡锡进",
       "onboard_time": 1669377532,
       "rank": 20,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 490950,
-      "num": 490950,
-      "word": "陪她聊天与找她聊天的区别",
-      "onboard_time": 1669428343,
-      "rank": 14,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 478535,
-      "num": 478535,
-      "word": "重庆新增本土确诊199例无症状7522例",
-      "onboard_time": 1669429000,
-      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -411,6 +411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 384789,
+      "num": 384789,
+      "word": "阿根廷背水一战",
+      "onboard_time": 1669429785,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 382956,
       "num": 382956,
       "word": "蒋龙 助演",
@@ -433,6 +441,14 @@
       "onboard_time": 1669426840,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 359940,
+      "num": 359940,
+      "word": "严浩翔新歌righttrack上线",
+      "onboard_time": 1669430747,
+      "rank": 17,
+      "category": "音乐"
     },
     {
       "raw_hot": 353758,
@@ -467,14 +483,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 343202,
-      "num": 343202,
-      "word": "严浩翔新歌righttrack上线",
-      "onboard_time": 1669430747,
-      "rank": 17,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 321296,
       "num": 321296,
       "word": "外卖员贪小便宜多次偷拿外卖被抓",
@@ -507,14 +515,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 305949,
-      "num": 305949,
-      "word": "阿根廷背水一战",
-      "onboard_time": 1669429785,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
       "raw_hot": 303235,
       "num": 268838,
       "word": "财阀家的小儿子",
@@ -528,6 +528,14 @@
       "word": "什么是聚众淫乱罪",
       "onboard_time": 1669374052,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 295256,
+      "num": 295256,
+      "word": "情侣高速上吵架女子将男友锁车外",
+      "onboard_time": 1669427861,
+      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -547,20 +555,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 276049,
-      "num": 276049,
-      "word": "情侣高速上吵架女子将男友锁车外",
-      "onboard_time": 1669427861,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 269636,
       "num": 269636,
       "word": "宝妈为孩子做逛超市防购物神裤",
       "onboard_time": 1669424860,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 261269,
+      "num": 261269,
+      "word": "徐璐新剧两集三种哭法",
+      "onboard_time": 1669430506,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 256310,
@@ -667,6 +675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 199751,
+      "num": 199751,
+      "word": "刘美含卿卿日常剧组plog",
+      "onboard_time": 1669429846,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 198512,
       "num": 198512,
       "word": "卡塔尔提前小组出局",
@@ -697,14 +713,6 @@
       "onboard_time": 1669426476,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 186754,
-      "num": 186754,
-      "word": "刘美含卿卿日常剧组plog",
-      "onboard_time": 1669429846,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 185558,
@@ -771,14 +779,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 167559,
-      "num": 167559,
-      "word": "徐璐新剧两集三种哭法",
-      "onboard_time": 1669430506,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 162715,
       "num": 162715,
       "word": "29岁男子为考央美复读10年",
@@ -793,6 +793,14 @@
       "onboard_time": 1669389006,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 153388,
+      "num": 153388,
+      "word": "妈妈给12岁儿子画仿古女妆引争议",
+      "onboard_time": 1669431464,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 152599,
@@ -827,6 +835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 138139,
+      "num": 138139,
+      "word": "3岁女孩丢人工耳蜗却听到爱意",
+      "onboard_time": 1669431403,
+      "rank": 44,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 137603,
       "num": 137603,
       "word": "詹姆斯复出",
@@ -857,6 +873,14 @@
       "onboard_time": 1669405995,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 128711,
+      "num": 128711,
+      "word": "英美大战球迷看台熟睡",
+      "onboard_time": 1669431587,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 122105,
@@ -940,7 +964,7 @@
     },
     {
       "raw_hot": 74027,
-      "num": 2466334,
+      "num": 4481973,
       "word": "来自中国空间站的出差邀请",
       "onboard_time": 1669381789,
       "rank": 2,
