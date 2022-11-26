@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/21 00:28:38 ~ 2022/11/27 01:33:37
+本榜单时间：2022/11/21 00:28:38 ~ 2022/11/27 02:23:07
 </p>
 </blockquote>
 <p>
@@ -587,6 +587,12 @@ C罗进球被吹（热度：2899415）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%91%E7%88%B7%E5%92%8C%E6%88%91%23" target="weibo">
 少爷和我（热度：1911523）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%A0%B9%E5%BB%B7vs%E5%A2%A8%E8%A5%BF%E5%93%A5%23" target="weibo">
+阿根廷vs墨西哥（热度：1902977）
 </a>
 </li>
 
@@ -1683,12 +1689,6 @@ C罗世界杯首秀（热度：939263）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%A0%B9%E5%BB%B7vs%E5%A2%A8%E8%A5%BF%E5%93%A5%23" target="weibo">
-阿根廷vs墨西哥（热度：881780）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%A3%AB1%E6%AF%940%E5%96%80%E9%BA%A6%E9%9A%86%23" target="weibo">
 瑞士1比0喀麦隆（热度：879495）
 </a>
@@ -1841,6 +1841,12 @@ CPA（热度：850411）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E8%BD%B6%E6%8A%8A%E5%8D%83%E9%87%91%E6%B0%94%E8%B4%A8%E6%8B%BF%E6%8D%8F%E4%BD%8F%E4%BA%86%23" target="weibo">
 宋轶把千金气质拿捏住了（热度：824833）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B2%99%E7%89%B9%E6%98%AF%E6%80%8E%E4%B9%88%E8%B5%A2%E7%9A%84%E9%98%BF%E6%A0%B9%E5%BB%B7%23" target="weibo">
+沙特是怎么赢的阿根廷（热度：824713）
 </a>
 </li>
 
@@ -3489,6 +3495,12 @@ Viper发文告别EDG（热度：522538）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E9%86%92%E7%94%A8%E5%A8%B1%E4%B9%90%E5%9C%88%E6%AF%94%E5%96%BB%E4%B8%96%E7%95%8C%E6%9D%AF%E5%85%B3%E7%B3%BB%23" target="weibo">
+苏醒用娱乐圈比喻世界杯关系（热度：522507）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E5%88%97%E5%85%AC%E5%BC%8F%E7%AE%97%E5%87%BA%E8%9B%8B%E7%B3%95%E7%BC%BA%E6%96%A4%E5%B0%91%E4%B8%A4%23" target="weibo">
 女生列公式算出蛋糕缺斤少两（热度：522473）
 </a>
@@ -3677,6 +3689,12 @@ TES官宣Knight离队（热度：507398）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23JDG%20Ruler%23" target="weibo">
 JDG Ruler（热度：502446）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A7%86%E5%B7%B4%E4%BD%A9%E7%A0%B4%E9%97%A8%23" target="weibo">
+姆巴佩破门（热度：502432）
 </a>
 </li>
 
@@ -4271,6 +4289,12 @@ C罗今晚会取得进球吗（热度：446616）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%81%87%E5%A6%82%E9%83%9D%E8%91%AD%E6%88%90%E4%B8%BA%E4%BA%94%E5%B0%91%E4%B8%BB%E5%A4%AB%E4%BA%BA%23" target="weibo">
 假如郝葭成为五少主夫人（热度：445332）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD2%E6%AF%941%E4%B8%B9%E9%BA%A6%23" target="weibo">
+法国2比1丹麦（热度：445244）
 </a>
 </li>
 
@@ -6339,6 +6363,12 @@ TheShy年度最受欢迎选手（热度：324378）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A7%86%E5%B7%B4%E4%BD%A9%E6%A2%85%E5%BC%80%E4%BA%8C%E5%BA%A6%23" target="weibo">
+姆巴佩梅开二度（热度：317469）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E8%80%80%E6%96%87%E5%8F%82%E4%B8%8E%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E6%96%B0%E6%AD%8C%E8%AF%8D%E6%9B%B2%E5%88%B6%E4%BD%9C%23" target="weibo">
 刘耀文参与时代少年团新歌词曲制作（热度：317178）
 </a>
@@ -7239,6 +7269,12 @@ Ming不参加全明星（热度：282932）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E6%A2%85%E8%A5%BF%E7%86%AC%E5%A4%9C%23" target="weibo">
+为梅西熬夜（热度：273839）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B2%81%E8%83%BD%23" target="weibo">
 鲁能（热度：273777）
 </a>
@@ -7997,12 +8033,6 @@ TTG醒醒（热度：242510）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E8%85%BF%E6%83%B3%E4%B8%8D%E7%98%A6%E9%83%BD%E9%9A%BE%E4%BA%86%23" target="weibo">
 小腿想不瘦都难了（热度：237420）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E9%86%92%E7%94%A8%E5%A8%B1%E4%B9%90%E5%9C%88%E6%AF%94%E5%96%BB%E4%B8%96%E7%95%8C%E6%9D%AF%E5%85%B3%E7%B3%BB%23" target="weibo">
-苏醒用娱乐圈比喻世界杯关系（热度：237287）
 </a>
 </li>
 
@@ -9201,6 +9231,12 @@ LESSERAFIM2022MMA舞台（热度：199263）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A7%86%E5%B7%B4%E4%BD%A9%E5%A4%AA%E5%BC%BA%E4%BA%86%23" target="weibo">
+姆巴佩太强了（热度：198993）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E8%AE%B8%E5%8D%8A%E5%A4%8F%E5%91%A8%E6%9C%AB%E4%B8%8D%E8%A7%81%E4%B8%8D%E6%95%A3%23" target="weibo">
 赵丽颖许半夏周末不见不散（热度：198862）
 </a>
@@ -9479,12 +9515,6 @@ ksg（热度：194030）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%98%E5%BE%97%E6%98%AF%E4%B8%9C%E5%8C%97%E4%BA%BA%E7%9A%84%E8%A7%A3%E8%AF%BB%E8%83%BD%E5%8A%9B%23" target="weibo">
 还得是东北人的解读能力（热度：193954）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B2%99%E7%89%B9%E6%98%AF%E6%80%8E%E4%B9%88%E8%B5%A2%E7%9A%84%E9%98%BF%E6%A0%B9%E5%BB%B7%23" target="weibo">
-沙特是怎么赢的阿根廷（热度：193718）
 </a>
 </li>
 
@@ -9791,12 +9821,6 @@ gidle未消音版TOMBOY最新舞台（热度：189341）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23YERI%E5%B0%86%E5%87%BA%E6%BC%94%E7%94%B5%E8%A7%86%E5%89%A7%E6%B8%85%E6%BD%AD%E5%9B%BD%E9%99%85%E9%AB%98%E4%B8%AD%23" target="weibo">
 YERI将出演电视剧清潭国际高中（热度：186325）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E6%A2%85%E8%A5%BF%E7%86%AC%E5%A4%9C%23" target="weibo">
-为梅西熬夜（热度：186123）
 </a>
 </li>
 
@@ -11301,6 +11325,12 @@ vivo十年最强旗舰（热度：144833）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD%E9%98%9F%E6%99%8B%E7%BA%A7%E4%B8%96%E7%95%8C%E6%9D%AF16%E5%BC%BA%23" target="weibo">
+法国队晋级世界杯16强（热度：144223）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%8D%E4%BE%A6%E6%8E%A2%E6%9F%AF%E5%8D%97%E6%98%AF%E6%87%82%E9%85%8D%E4%B9%90%E7%9A%84%23" target="weibo">
 名侦探柯南是懂配乐的（热度：144074）
 </a>
@@ -11513,6 +11543,12 @@ Fly刺痛神仙兄弟情（热度：143620）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2311%E6%9C%8820%E6%97%A5%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A2277%E4%BE%8B%23" target="weibo">
 11月20日新增本土确诊2277例（热度：137479）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E8%AE%A9%E5%B8%8C%E6%9C%9B%EF%BC%A3%E7%BD%97%E6%88%96%E8%80%85%E6%A2%85%E8%A5%BF%E4%B8%BE%E8%B5%B7%E5%A4%A7%E5%8A%9B%E7%A5%9E%E6%9D%AF%23" target="weibo">
+赵让希望Ｃ罗或者梅西举起大力神杯（热度：137419）
 </a>
 </li>
 
@@ -12945,6 +12981,12 @@ C罗第一粒进球（热度：80789）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E6%98%AF%E6%97%B6%E5%80%99%E5%B1%95%E7%A4%BA%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AE%9E%E5%8A%9B%E4%BA%86%23" target="weibo">
+梅西是时候展示真正的实力了（热度：71747）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%A1%E6%9C%89%E5%8B%92%E5%A4%AB%E7%9A%84%E5%BE%B7%E5%9B%BD%E9%98%9F%23" target="weibo">
 没有勒夫的德国队（热度：69564）
 </a>
@@ -13025,6 +13067,12 @@ C罗第一粒进球（热度：80789）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8A%A0%E5%85%8B%E6%B3%A2%E8%BF%9E%E7%BB%AD%E4%B8%A4%E5%9C%BA%E8%BF%9B%E7%90%83%23" target="weibo">
 加克波连续两场进球（热度：60187）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%B9%E9%BA%A6%E6%89%B3%E5%B9%B3%23" target="weibo">
+丹麦扳平（热度：59442）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1669479991529,
-  "endTime": 1669484017850,
+  "endTime": 1669486987040,
   "band_list": [
     {
       "raw_hot": 3152060,
@@ -17,6 +17,14 @@
       "onboard_time": 1669474551,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1902977,
+      "num": 1902977,
+      "word": "阿根廷vs墨西哥",
+      "onboard_time": 1669481732,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 1826595,
@@ -75,11 +83,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 881780,
-      "num": 881780,
-      "word": "阿根廷vs墨西哥",
-      "onboard_time": 1669481732,
-      "rank": 4,
+      "raw_hot": 824713,
+      "num": 824713,
+      "word": "沙特是怎么赢的阿根廷",
+      "onboard_time": 1669483222,
+      "rank": 25,
       "category": "体育"
     },
     {
@@ -147,12 +155,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 522507,
+      "num": 522507,
+      "word": "苏醒用娱乐圈比喻世界杯关系",
+      "onboard_time": 1669482925,
+      "rank": 45,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 511305,
       "num": 511305,
       "word": "蛋炒饭要用隔夜米饭的原因",
       "onboard_time": 1669480116,
       "rank": 23,
       "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 502432,
+      "num": 502432,
+      "word": "姆巴佩破门",
+      "onboard_time": 1669484182,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 489839,
@@ -169,6 +193,14 @@
       "onboard_time": 1669477244,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 445244,
+      "num": 445244,
+      "word": "法国2比1丹麦",
+      "onboard_time": 1669485922,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 421973,
@@ -219,6 +251,14 @@
       "category": "体育,幽默"
     },
     {
+      "raw_hot": 317469,
+      "num": 317469,
+      "word": "姆巴佩梅开二度",
+      "onboard_time": 1669485262,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 315940,
       "num": 315940,
       "word": "家猫走失5天后被收养的流浪猫带回",
@@ -259,6 +299,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 273839,
+      "num": 273839,
+      "word": "为梅西熬夜",
+      "onboard_time": 1669482029,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 249432,
       "num": 249432,
       "word": "沙特教练 帅",
@@ -297,14 +345,6 @@
       "onboard_time": 1669455038,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 237287,
-      "num": 237287,
-      "word": "苏醒用娱乐圈比喻世界杯关系",
-      "onboard_time": 1669482925,
-      "rank": 45,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 232868,
@@ -379,11 +419,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 193718,
-      "num": 193718,
-      "word": "沙特是怎么赢的阿根廷",
-      "onboard_time": 1669483222,
-      "rank": 25,
+      "raw_hot": 198993,
+      "num": 198993,
+      "word": "姆巴佩太强了",
+      "onboard_time": 1669485861,
+      "rank": 18,
       "category": "体育"
     },
     {
@@ -417,14 +457,6 @@
       "onboard_time": 1669479937,
       "rank": 47,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 186123,
-      "num": 186123,
-      "word": "为梅西熬夜",
-      "onboard_time": 1669482029,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 182806,
@@ -507,6 +539,22 @@
       "category": "幽默,体育"
     },
     {
+      "raw_hot": 144223,
+      "num": 144223,
+      "word": "法国队晋级世界杯16强",
+      "onboard_time": 1669486282,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 137419,
+      "num": 137419,
+      "word": "赵让希望Ｃ罗或者梅西举起大力神杯",
+      "onboard_time": 1669486042,
+      "rank": 27,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 131042,
       "num": 131042,
       "word": "当老师后的变化能有多大",
@@ -537,6 +585,22 @@
       "onboard_time": 1669483704,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 71747,
+      "num": 64765,
+      "word": "梅西是时候展示真正的实力了",
+      "onboard_time": 1669486162,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 59442,
+      "num": 59442,
+      "word": "丹麦扳平",
+      "onboard_time": 1669484421,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 9675,

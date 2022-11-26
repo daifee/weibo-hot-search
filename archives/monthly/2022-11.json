@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1669484017850,
+  "endTime": 1669486987040,
   "band_list": [
     {
       "raw_hot": 36651023,
@@ -1713,6 +1713,14 @@
       "onboard_time": 1668330029,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1902977,
+      "num": 1902977,
+      "word": "阿根廷vs墨西哥",
+      "onboard_time": 1669436022,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 1894312,
@@ -6571,14 +6579,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 881780,
-      "num": 881780,
-      "word": "阿根廷vs墨西哥",
-      "onboard_time": 1669436022,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 881474,
       "num": 881474,
       "word": "王源柜姐激将法受害者",
@@ -7385,6 +7385,14 @@
       "onboard_time": 1667957368,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 824713,
+      "num": 824713,
+      "word": "沙特是怎么赢的阿根廷",
+      "onboard_time": 1669483222,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 824573,
@@ -14083,6 +14091,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 522507,
+      "num": 522507,
+      "word": "苏醒用娱乐圈比喻世界杯关系",
+      "onboard_time": 1669482925,
+      "rank": 45,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 522473,
       "num": 522473,
       "word": "女生列公式算出蛋糕缺斤少两",
@@ -14849,6 +14865,14 @@
       "onboard_time": 1669103493,
       "rank": 6,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 502432,
+      "num": 502432,
+      "word": "姆巴佩破门",
+      "onboard_time": 1669484182,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 502013,
@@ -17369,6 +17393,14 @@
       "onboard_time": 1669180123,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 445244,
+      "num": 445244,
+      "word": "法国2比1丹麦",
+      "onboard_time": 1669485922,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 445126,
@@ -25499,6 +25531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 317469,
+      "num": 317469,
+      "word": "姆巴佩梅开二度",
+      "onboard_time": 1669485262,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 317463,
       "num": 220105,
       "word": "TREASURE演唱会现场氛围",
@@ -29211,6 +29251,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 273839,
+      "num": 273839,
+      "word": "为梅西熬夜",
+      "onboard_time": 1669482029,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 273777,
       "num": 273777,
       "word": "鲁能",
@@ -32417,14 +32465,6 @@
       "onboard_time": 1667484388,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 237287,
-      "num": 237287,
-      "word": "苏醒用娱乐圈比喻世界杯关系",
-      "onboard_time": 1669482925,
-      "rank": 45,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 237075,
@@ -37371,6 +37411,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 198993,
+      "num": 198993,
+      "word": "姆巴佩太强了",
+      "onboard_time": 1669485861,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 198879,
       "num": 140122,
       "word": "王俊凯致敬大国重器音频",
@@ -38273,14 +38321,6 @@
       "onboard_time": 1668952170,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 193718,
-      "num": 193718,
-      "word": "沙特是怎么赢的阿根廷",
-      "onboard_time": 1669483222,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 193578,
@@ -39489,14 +39529,6 @@
       "onboard_time": 1668692310,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 186123,
-      "num": 186123,
-      "word": "为梅西熬夜",
-      "onboard_time": 1669482029,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 185976,
@@ -46027,6 +46059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 144223,
+      "num": 144223,
+      "word": "法国队晋级世界杯16强",
+      "onboard_time": 1669486282,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 144074,
       "num": 144074,
       "word": "王铮亮一个人背了0713所有人的锅",
@@ -47265,6 +47305,14 @@
       "onboard_time": 1668743307,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 137419,
+      "num": 137419,
+      "word": "赵让希望Ｃ罗或者梅西举起大力神杯",
+      "onboard_time": 1669486042,
+      "rank": 27,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 137414,
@@ -57243,6 +57291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 71747,
+      "num": 64765,
+      "word": "梅西是时候展示真正的实力了",
+      "onboard_time": 1669486162,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 71631,
       "num": 115216,
       "word": "双十一支持20个地址合并下单",
@@ -58049,6 +58105,14 @@
       "onboard_time": 1667259380,
       "rank": 45,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 59442,
+      "num": 59442,
+      "word": "丹麦扳平",
+      "onboard_time": 1669484421,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 59373,
