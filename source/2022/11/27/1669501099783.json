@@ -1,0 +1,410 @@
+{
+  "runTime": 1669501099783,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 948445,
+        "num": 948445,
+        "word": "阿根廷vs墨西哥",
+        "onboard_time": 1669481732,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 868795,
+        "num": 868795,
+        "word": "梅西破门",
+        "onboard_time": 1669495452,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 3208,
+        "num": 536783,
+        "word": "多视角看歼15航母起降全过程",
+        "onboard_time": 1669435239,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 225716,
+        "num": 225716,
+        "word": "沙特是怎么赢的阿根廷",
+        "onboard_time": 1669483222,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 388600,
+        "num": 211127,
+        "word": "梅西疯狂庆祝",
+        "onboard_time": 1669499294,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193891,
+        "num": 193891,
+        "word": "内马尔晒脚踝伤势",
+        "onboard_time": 1669495875,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190146,
+        "num": 190146,
+        "word": "阿根廷2比0墨西哥",
+        "onboard_time": 1669496776,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 229198,
+        "num": 190143,
+        "word": "墨西哥球迷大喊梅西回家",
+        "onboard_time": 1669490956,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183497,
+        "num": 183497,
+        "word": "美国禁止华为中兴等5家中企在美销售设备",
+        "onboard_time": 1669493714,
+        "rank": 8,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 170250,
+        "num": 170250,
+        "word": "费尔南德斯世界波",
+        "onboard_time": 1669496657,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 480228,
+        "num": 159159,
+        "word": "上海一街道未做核酸纳入征信",
+        "onboard_time": 1669477430,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 342692,
+        "num": 157403,
+        "word": "梅西偶像哭了",
+        "onboard_time": 1669499234,
+        "rank": 11,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 142569,
+        "num": 142569,
+        "word": "姆巴佩太强了",
+        "onboard_time": 1669485861,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129663,
+        "num": 129663,
+        "word": "苏醒用娱乐圈比喻世界杯关系",
+        "onboard_time": 1669482925,
+        "rank": 13,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 173897,
+        "num": 121350,
+        "word": "梅西拯救阿根廷",
+        "onboard_time": 1669500856,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102607,
+        "num": 102607,
+        "word": "20条严禁长时间不解封",
+        "onboard_time": 1669474551,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90583,
+        "num": 90583,
+        "word": "阿根廷锁定胜局",
+        "onboard_time": 1669496956,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85991,
+        "num": 85991,
+        "word": "女租客没回信息男房东擅闯房间",
+        "onboard_time": 1669475754,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85462,
+        "num": 85462,
+        "word": "乌鲁木齐市1124火灾四问",
+        "onboard_time": 1669453658,
+        "rank": 18,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 85169,
+        "num": 85169,
+        "word": "每天8杯水或超过大多数人真正需水量",
+        "onboard_time": 1669489756,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78213,
+        "num": 78213,
+        "word": "卡塔尔球迷要立刻办闭幕式",
+        "onboard_time": 1669475334,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 73125,
+        "num": 73125,
+        "word": "法国终结卫冕冠军出局魔咒",
+        "onboard_time": 1669487177,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 68028,
+        "num": 68028,
+        "word": "女子失聪且患尿毒症求助消防站开锁",
+        "onboard_time": 1669497675,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65868,
+        "num": 65868,
+        "word": "婆婆把豪宅庭院改菜地种菜",
+        "onboard_time": 1669477244,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57491,
+        "num": 57491,
+        "word": "郑州回应郑好办查出奥特曼核酸报告",
+        "onboard_time": 1669464166,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57445,
+        "num": 57445,
+        "word": "墨西哥球迷是懂内涵的",
+        "onboard_time": 1669488737,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 54725,
+        "num": 54725,
+        "word": "北京理工大学一名学生核酸呈阳性",
+        "onboard_time": 1669473888,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52153,
+        "num": 52153,
+        "word": "法国2比1丹麦",
+        "onboard_time": 1669485922,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 51562,
+        "num": 51562,
+        "word": "快递小哥嫌挣得少1月连偷7次",
+        "onboard_time": 1669479221,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51419,
+        "num": 51419,
+        "word": "当小时代的豪宅照进现实",
+        "onboard_time": 1669476649,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 73104,
+        "num": 50415,
+        "word": "人民锐评",
+        "onboard_time": 1669478081,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44403,
+        "num": 44403,
+        "word": "阿根廷球迷一路高歌进场",
+        "onboard_time": 1669488077,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43696,
+        "num": 43696,
+        "word": "家猫走失5天后被收养的流浪猫带回",
+        "onboard_time": 1669479103,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42463,
+        "num": 42463,
+        "word": "许半夏抓包丈夫出轨",
+        "onboard_time": 1669478147,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 40168,
+        "num": 40168,
+        "word": "沙特教练 帅",
+        "onboard_time": 1669480655,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 38209,
+        "num": 38209,
+        "word": "北京昌平一社区两小时开通购菜接龙",
+        "onboard_time": 1669470410,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37763,
+        "num": 37763,
+        "word": "法国vs丹麦",
+        "onboard_time": 1669477667,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 37603,
+        "num": 37603,
+        "word": "蛋炒饭要用隔夜米饭的原因",
+        "onboard_time": 1669480116,
+        "rank": 37,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 37186,
+        "num": 37186,
+        "word": "孩子吞硬币家长用探测器查位置",
+        "onboard_time": 1669479399,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34704,
+        "num": 34704,
+        "word": "姆巴佩庆祝晋级",
+        "onboard_time": 1669494674,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32893,
+        "num": 32893,
+        "word": "北京新增本土感染者2454例",
+        "onboard_time": 1669456001,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32148,
+        "num": 32148,
+        "word": "马宁担任法国丹麦第四官员",
+        "onboard_time": 1669491976,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29754,
+        "num": 29754,
+        "word": "官方通报网传顺德核酸聚集踩踏事件",
+        "onboard_time": 1669464403,
+        "rank": 42,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 27710,
+        "num": 27710,
+        "word": "阿根廷半场0比0墨西哥",
+        "onboard_time": 1669494074,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27044,
+        "num": 27044,
+        "word": "姆巴佩梅开二度",
+        "onboard_time": 1669485262,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26620,
+        "num": 26620,
+        "word": "BLG Doinb",
+        "onboard_time": 1669463861,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 26086,
+        "num": 26086,
+        "word": "一场关于李峋的梦就是朱韵的救赎",
+        "onboard_time": 1669500494,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 24798,
+        "num": 24798,
+        "word": "檀健次画出来的都是妖怪",
+        "onboard_time": 1669481614,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23817,
+        "num": 23817,
+        "word": "C罗请葡萄牙全队聚餐",
+        "onboard_time": 1669471557,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23785,
+        "num": 23785,
+        "word": "阿根廷vs墨西哥首发",
+        "onboard_time": 1669491674,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动经济全球化不断向前#"
+    }
+  }
+}

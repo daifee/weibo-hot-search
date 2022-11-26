@@ -1,6 +1,6 @@
 {
   "startTime": 1669479991529,
-  "endTime": 1669498410697,
+  "endTime": 1669501099783,
   "band_list": [
     {
       "raw_hot": 3152060,
@@ -259,6 +259,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 388600,
+      "num": 211127,
+      "word": "梅西疯狂庆祝",
+      "onboard_time": 1669499294,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 384209,
       "num": 384209,
       "word": "IVE今天赢麻了",
@@ -281,6 +289,14 @@
       "onboard_time": 1669485861,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 342692,
+      "num": 157403,
+      "word": "梅西偶像哭了",
+      "onboard_time": 1669499234,
+      "rank": 11,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 332180,
@@ -571,6 +587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 173897,
+      "num": 121350,
+      "word": "梅西拯救阿根廷",
+      "onboard_time": 1669500856,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 170234,
       "num": 170234,
       "word": "英格兰威尔士球迷爆发冲突",
@@ -668,7 +692,7 @@
     },
     {
       "raw_hot": 125800,
-      "num": 43523,
+      "num": 90583,
       "word": "阿根廷锁定胜局",
       "onboard_time": 1669496956,
       "rank": 31,
@@ -723,6 +747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 68028,
+      "num": 68028,
+      "word": "女子失聪且患尿毒症求助消防站开锁",
+      "onboard_time": 1669497675,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 59442,
       "num": 59442,
       "word": "丹麦扳平",
@@ -731,19 +763,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 26086,
+      "num": 26086,
+      "word": "一场关于李峋的梦就是朱韵的救赎",
+      "onboard_time": 1669500494,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 22966,
       "num": 22966,
       "word": "宝爸用铁轨小火车驮婴儿车遛娃",
       "onboard_time": 1669497196,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 22221,
-      "num": 22221,
-      "word": "女子失聪且患尿毒症求助消防站开锁",
-      "onboard_time": 1669497675,
-      "rank": 48,
       "category": "社会新闻"
     },
     {

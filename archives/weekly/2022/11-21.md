@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/21 00:28:38 ~ 2022/11/27 05:33:30
+本榜单时间：2022/11/21 00:28:38 ~ 2022/11/27 06:18:19
 </p>
 </blockquote>
 <p>
@@ -5169,6 +5169,12 @@ IVE获MMA最佳女子组合（热度：388807）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E7%96%AF%E7%8B%82%E5%BA%86%E7%A5%9D%23" target="weibo">
+梅西疯狂庆祝（热度：388600）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%A2%A7%E6%99%A8live%E6%B0%94%E6%81%AF%E5%A5%BD%E7%A8%B3%23" target="weibo">
 张碧晨live气息好稳（热度：388521）
 </a>
@@ -5915,6 +5921,12 @@ C罗和内马尔今日首秀（热度：345868）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E6%9C%80%E4%BD%B3%E7%BB%84%E5%90%88%23" target="weibo">
 时代少年团最佳组合（热度：342983）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E5%81%B6%E5%83%8F%E5%93%AD%E4%BA%86%23" target="weibo">
+梅西偶像哭了（热度：342692）
 </a>
 </li>
 
@@ -10365,6 +10377,12 @@ iOS16锁屏通知引入三种显示方式（热度：175132）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E6%8B%AF%E6%95%91%E9%98%BF%E6%A0%B9%E5%BB%B7%23" target="weibo">
+梅西拯救阿根廷（热度：173897）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%9D%E5%AE%9D%E8%B6%B4%E5%BA%8A%E8%BE%B9%E5%81%B7%E7%9C%8B%E4%B8%96%E7%95%8C%E6%9D%AF%E8%A2%AB%E7%88%B8%E7%88%B8%E5%8F%91%E7%8E%B0%23" target="weibo">
 宝宝趴床边偷看世界杯被爸爸发现（热度：173895）
 </a>
@@ -13107,6 +13125,12 @@ C罗第一粒进球（热度：80789）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%A4%B1%E8%81%AA%E4%B8%94%E6%82%A3%E5%B0%BF%E6%AF%92%E7%97%87%E6%B1%82%E5%8A%A9%E6%B6%88%E9%98%B2%E7%AB%99%E5%BC%80%E9%94%81%23" target="weibo">
+女子失聪且患尿毒症求助消防站开锁（热度：68028）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9A%94%E7%A6%BB%E5%9C%A8%E6%9C%8B%E5%8F%8B%E5%AE%B6%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C%23" target="weibo">
 隔离在朋友家是什么体验（热度：67987）
 </a>
@@ -13425,6 +13449,12 @@ C罗是葡萄牙赢球关键（热度：48653）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%9C%BA%E5%85%B3%E4%BA%8E%E6%9D%8E%E5%B3%8B%E7%9A%84%E6%A2%A6%E5%B0%B1%E6%98%AF%E6%9C%B1%E9%9F%B5%E7%9A%84%E6%95%91%E8%B5%8E%23" target="weibo">
+一场关于李峋的梦就是朱韵的救赎（热度：26086）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%9D%E8%91%AD%E5%AD%A9%E5%AD%90%E4%B9%B3%E5%90%8D%E9%95%BF%E4%B9%90%23" target="weibo">
 郝葭孩子乳名长乐（热度：26047）
 </a>
@@ -13457,12 +13487,6 @@ C罗是葡萄牙赢球关键（热度：48653）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%9D%E7%88%B8%E7%94%A8%E9%93%81%E8%BD%A8%E5%B0%8F%E7%81%AB%E8%BD%A6%E9%A9%AE%E5%A9%B4%E5%84%BF%E8%BD%A6%E9%81%9B%E5%A8%83%23" target="weibo">
 宝爸用铁轨小火车驮婴儿车遛娃（热度：22966）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%A4%B1%E8%81%AA%E4%B8%94%E6%82%A3%E5%B0%BF%E6%AF%92%E7%97%87%E6%B1%82%E5%8A%A9%E6%B6%88%E9%98%B2%E7%AB%99%E5%BC%80%E9%94%81%23" target="weibo">
-女子失聪且患尿毒症求助消防站开锁（热度：22221）
 </a>
 </li>
 
