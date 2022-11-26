@@ -1,0 +1,410 @@
+{
+  "runTime": 1669454287200,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2283641,
+        "num": 2283641,
+        "word": "街道回应网传社区爆出威胁居民言论",
+        "onboard_time": 1669452758,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 902010,
+        "num": 902010,
+        "word": "内马尔发文回应世界杯受伤",
+        "onboard_time": 1669450113,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 58186,
+        "num": 827547,
+        "word": "冬季限定美景硝花可以有多美",
+        "onboard_time": 1669433504,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 819623,
+        "num": 819623,
+        "word": "吃完躺下就睡易患贲门癌",
+        "onboard_time": 1669449697,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 766511,
+        "num": 766511,
+        "word": "虞书欣拍的许凯",
+        "onboard_time": 1669452875,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 656457,
+        "num": 656457,
+        "word": "科学家复活被冷冻48500年古老病毒",
+        "onboard_time": 1669427981,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 608861,
+        "num": 608861,
+        "word": "乌鲁木齐社会面基本清零",
+        "onboard_time": 1669427383,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 553480,
+        "num": 553480,
+        "word": "卡卡说C罗是个非常棒的小伙",
+        "onboard_time": 1669447357,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 525060,
+        "num": 525060,
+        "word": "确保20条措施不折不扣不走样成关键",
+        "onboard_time": 1669453539,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 468733,
+        "num": 468733,
+        "word": "招聘小学数学老师要求风景园林专业",
+        "onboard_time": 1669452514,
+        "rank": 9,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 6757715,
+        "num": 468596,
+        "word": "佛山踩踏",
+        "onboard_time": 1669452815,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2160352,
+        "num": 467869,
+        "word": "郑州未经沟通将870人运抵徐州",
+        "onboard_time": 1669435721,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1396817,
+        "num": 467218,
+        "word": "乌鲁木齐市1124火灾四问",
+        "onboard_time": 1669453658,
+        "rank": 12,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 550740,
+        "num": 466338,
+        "word": "张真源北京大学生音乐节舞台镜头",
+        "onboard_time": 1669453539,
+        "rank": 13,
+        "category": "音乐,教育"
+      },
+      {
+        "raw_hot": 454197,
+        "num": 465248,
+        "word": "仙剑六祈今朝",
+        "onboard_time": 1669450233,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 490944,
+        "num": 464906,
+        "word": "赵丽颖孙千快把手势舞交出来",
+        "onboard_time": 1669451193,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 464303,
+        "num": 464303,
+        "word": "迪丽热巴微博剧综报告双榜TOP1",
+        "onboard_time": 1669453055,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 460536,
+        "num": 460536,
+        "word": "MMA红毯上的明星",
+        "onboard_time": 1669453418,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 460229,
+        "num": 460229,
+        "word": "张婧仪怼脸生图",
+        "onboard_time": 1669452099,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 392472,
+        "num": 392472,
+        "word": "男子口腔溃疡一年瘦62斤竟患罕见病",
+        "onboard_time": 1669445556,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 391943,
+        "num": 391943,
+        "word": "湖南疾控回应蓝码取消",
+        "onboard_time": 1669446217,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 381337,
+        "num": 381337,
+        "word": "女子造谣乌鲁木齐火灾事故死亡人数被拘",
+        "onboard_time": 1669425639,
+        "rank": 21,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 360364,
+        "num": 360364,
+        "word": "肖战三个角色登剧集人物角色提及量",
+        "onboard_time": 1669449214,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 359586,
+        "num": 359586,
+        "word": "吴亦凡将如何服刑",
+        "onboard_time": 1669429183,
+        "rank": 23,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 346230,
+        "num": 346230,
+        "word": "律师突然变成一只猫了",
+        "onboard_time": 1669448795,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 342174,
+        "num": 342174,
+        "word": "九口人",
+        "onboard_time": 1669444418,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 275755,
+        "num": 275755,
+        "word": "梅西今晚领衔关键之战",
+        "onboard_time": 1669451075,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 271152,
+        "num": 271152,
+        "word": "山东人的身高是祖传的",
+        "onboard_time": 1669452456,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 266603,
+        "num": 266603,
+        "word": "9岁女童档口持刀杀鱼扒鳞",
+        "onboard_time": 1669442315,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238544,
+        "num": 238544,
+        "word": "李铁资本版图",
+        "onboard_time": 1669444057,
+        "rank": 29,
+        "category": "体育,财经"
+      },
+      {
+        "raw_hot": 254999,
+        "num": 237458,
+        "word": "谷爱凌现身巴黎名媛舞会",
+        "onboard_time": 1669433440,
+        "rank": 30,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 222388,
+        "num": 222388,
+        "word": "男子被疑患肺癌竟是鸡骨滑入肺",
+        "onboard_time": 1669452216,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217687,
+        "num": 217687,
+        "word": "重庆新增本土确诊199例无症状7522例",
+        "onboard_time": 1669429000,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214641,
+        "num": 214641,
+        "word": "女子16万买2车库精装修后入住",
+        "onboard_time": 1669453658,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213983,
+        "num": 213983,
+        "word": "卡塔尔人输急眼了",
+        "onboard_time": 1669453960,
+        "rank": 34,
+        "category": "体育,幽默"
+      },
+      {
+        "raw_hot": 210320,
+        "num": 210320,
+        "word": "宋茜初舞台封面大片",
+        "onboard_time": 1669453177,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 208824,
+        "num": 208824,
+        "word": "日本球迷解释为何清理看台垃圾",
+        "onboard_time": 1669445133,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195687,
+        "num": 195687,
+        "word": "李玟因伤邀请全民替跳playboy",
+        "onboard_time": 1669452695,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 173673,
+        "num": 173673,
+        "word": "医生打飞的劝回患癌弃疗病人",
+        "onboard_time": 1669444716,
+        "rank": 38,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 171509,
+        "num": 171509,
+        "word": "男子潜入别人家中秘密生活9个月",
+        "onboard_time": 1669433679,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194821,
+        "num": 171483,
+        "word": "MMA",
+        "onboard_time": 1669441719,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 180282,
+        "num": 171467,
+        "word": "命韵峋环的第三张同框合照",
+        "onboard_time": 1669454201,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 171442,
+        "num": 171442,
+        "word": "猫咪遛弯回家和出门判若两猫",
+        "onboard_time": 1669453539,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 167424,
+        "num": 167424,
+        "word": "桐庐发现红码奖1000元",
+        "onboard_time": 1669440220,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166332,
+        "num": 166332,
+        "word": "门将多少有点功夫在身上",
+        "onboard_time": 1669454141,
+        "rank": 44,
+        "category": "体育,幽默"
+      },
+      {
+        "raw_hot": 164397,
+        "num": 164397,
+        "word": "婆婆摆摊收百元假币无助痛哭",
+        "onboard_time": 1669448972,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155901,
+        "num": 164281,
+        "word": "内马尔说绝不坐以待毙",
+        "onboard_time": 1669453298,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150072,
+        "num": 163731,
+        "word": "麻风病防治专家李桓英去世",
+        "onboard_time": 1669453476,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142252,
+        "num": 163525,
+        "word": "亡夫160余万存款被小姑子转走",
+        "onboard_time": 1669435062,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127743,
+        "num": 163218,
+        "word": "这大爷是懂周杰伦的",
+        "onboard_time": 1669448254,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#让节粮减损成为新食尚#"
+    }
+  }
+}
