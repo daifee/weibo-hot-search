@@ -1,6 +1,6 @@
 {
   "startTime": 1669479991529,
-  "endTime": 1669487883803,
+  "endTime": 1669490111403,
   "band_list": [
     {
       "raw_hot": 3152060,
@@ -227,6 +227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 356824,
+      "num": 356824,
+      "word": "姆巴佩太强了",
+      "onboard_time": 1669485861,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 332180,
       "num": 332180,
       "word": "广州TTG",
@@ -289,14 +297,6 @@
       "onboard_time": 1669464944,
       "rank": 23,
       "category": "科技"
-    },
-    {
-      "raw_hot": 280039,
-      "num": 280039,
-      "word": "姆巴佩太强了",
-      "onboard_time": 1669485861,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 276023,
@@ -395,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 223280,
+      "num": 223280,
+      "word": "法国队晋级世界杯16强",
+      "onboard_time": 1669486282,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 221812,
       "num": 225892,
       "word": "敖子逸嘴上不怕身体很诚实",
@@ -417,6 +425,14 @@
       "onboard_time": 1669456001,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 207970,
+      "num": 171660,
+      "word": "法国终结卫冕冠军出局魔咒",
+      "onboard_time": 1669487177,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 205332,
@@ -531,6 +547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 163366,
+      "num": 113849,
+      "word": "梅西是时候展示真正的实力了",
+      "onboard_time": 1669486162,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 146397,
       "num": 146397,
       "word": "他在拍一种很新的拍照方式",
@@ -545,14 +569,6 @@
       "onboard_time": 1669486042,
       "rank": 27,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 144223,
-      "num": 144223,
-      "word": "法国队晋级世界杯16强",
-      "onboard_time": 1669486282,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 131042,
@@ -587,19 +603,19 @@
       "category": "影视"
     },
     {
-      "raw_hot": 102922,
-      "num": 102922,
-      "word": "梅西是时候展示真正的实力了",
-      "onboard_time": 1669486162,
-      "rank": 47,
+      "raw_hot": 98388,
+      "num": 60597,
+      "word": "阿根廷球迷一路高歌进场",
+      "onboard_time": 1669488077,
+      "rank": 31,
       "category": "体育"
     },
     {
-      "raw_hot": 75439,
-      "num": 75439,
-      "word": "法国终结卫冕冠军出局魔咒",
-      "onboard_time": 1669487177,
-      "rank": 37,
+      "raw_hot": 71198,
+      "num": 60516,
+      "word": "墨西哥球迷是懂内涵的",
+      "onboard_time": 1669488737,
+      "rank": 32,
       "category": "体育"
     },
     {
@@ -609,6 +625,14 @@
       "onboard_time": 1669484421,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 39463,
+      "num": 39463,
+      "word": "每天8杯水或超过大多数人真正需水量",
+      "onboard_time": 1669489756,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 9675,
