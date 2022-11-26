@@ -1,0 +1,410 @@
+{
+  "runTime": 1669437629609,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 10484530,
+        "num": 10484530,
+        "word": "郑州未经沟通将870人运抵徐州",
+        "onboard_time": 1669435721,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 9954790,
+        "num": 9954790,
+        "word": "乌鲁木齐社会面基本清零",
+        "onboard_time": 1669427383,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58580,
+        "num": 3835952,
+        "word": "来自中国空间站的出差邀请",
+        "onboard_time": 1669381789,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2105496,
+        "num": 2105496,
+        "word": "李铁被查",
+        "onboard_time": 1669427861,
+        "rank": 3,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 2025054,
+        "num": 2025054,
+        "word": "科学家复活被冷冻48500年古老病毒",
+        "onboard_time": 1669427981,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2085344,
+        "num": 1486034,
+        "word": "乌鲁木齐火灾事故网传图片系恶意拼接",
+        "onboard_time": 1669421674,
+        "rank": 5,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 893984,
+        "num": 893984,
+        "word": "宫外孕最容易盯上哪些女性",
+        "onboard_time": 1669421796,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 879791,
+        "num": 879791,
+        "word": "男子潜入别人家中秘密生活9个月",
+        "onboard_time": 1669433679,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 858174,
+        "num": 858174,
+        "word": "谷爱凌现身巴黎名媛舞会",
+        "onboard_time": 1669433440,
+        "rank": 8,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 546348,
+        "num": 546348,
+        "word": "重庆新增本土确诊199例无症状7522例",
+        "onboard_time": 1669429000,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1219007,
+        "num": 541742,
+        "word": "吴亦凡将如何服刑",
+        "onboard_time": 1669429183,
+        "rank": 10,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 770428,
+        "num": 540280,
+        "word": "乌鲁木齐市长就10死火灾事故致歉",
+        "onboard_time": 1669420588,
+        "rank": 11,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 653138,
+        "num": 540019,
+        "word": "亡夫160余万存款被小姑子转走",
+        "onboard_time": 1669435062,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 536426,
+        "num": 536426,
+        "word": "offer史上第一次实习生反选公司",
+        "onboard_time": 1669436379,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 466052,
+        "num": 466052,
+        "word": "阿根廷背水一战",
+        "onboard_time": 1669429785,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 415306,
+        "num": 415306,
+        "word": "乌鲁木齐分阶段恢复低风险区居民生活秩序",
+        "onboard_time": 1669432064,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 411260,
+        "num": 411260,
+        "word": "刘宇跳nxde",
+        "onboard_time": 1669435840,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 370812,
+        "num": 370812,
+        "word": "英格兰 演",
+        "onboard_time": 1669427021,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 369195,
+        "num": 369195,
+        "word": "乌鲁木齐1124火灾事故发布会",
+        "onboard_time": 1669392051,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354400,
+        "num": 354400,
+        "word": "徐梦洁公主抱秦霄贤",
+        "onboard_time": 1669434880,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1450158,
+        "num": 347419,
+        "word": "女子造谣乌鲁木齐火灾事故死亡人数被拘",
+        "onboard_time": 1669425639,
+        "rank": 20,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 326984,
+        "num": 326984,
+        "word": "3岁女孩丢人工耳蜗却听到爱意",
+        "onboard_time": 1669431403,
+        "rank": 21,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 324901,
+        "num": 324901,
+        "word": "叶舒华说自己没独舞",
+        "onboard_time": 1669434344,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 292325,
+        "num": 292325,
+        "word": "张凌赫你好星期六造型梦回长珩",
+        "onboard_time": 1669435782,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 259820,
+        "num": 259820,
+        "word": "妈妈给12岁儿子画仿古女妆引争议",
+        "onboard_time": 1669431464,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256602,
+        "num": 256602,
+        "word": "陈飞宇张婧仪最新片场对戏花絮",
+        "onboard_time": 1669434521,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 239026,
+        "num": 239026,
+        "word": "女子称4男子凌晨刷房卡闯入酒店房间",
+        "onboard_time": 1669427921,
+        "rank": 26,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 226182,
+        "num": 226182,
+        "word": "男主持退场时一屁股坐女舞者身上",
+        "onboard_time": 1669421194,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222031,
+        "num": 222031,
+        "word": "千万不要吃完饭就躺着睡觉",
+        "onboard_time": 1669422637,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 220291,
+        "num": 220291,
+        "word": "陪她聊天与找她聊天的区别",
+        "onboard_time": 1669428343,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 207916,
+        "num": 207916,
+        "word": "杨超越星期六狐女造型剧照",
+        "onboard_time": 1669435904,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207402,
+        "num": 207402,
+        "word": "阿根廷vs墨西哥",
+        "onboard_time": 1669436022,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197343,
+        "num": 197343,
+        "word": "被柯南的拥抱整破防了",
+        "onboard_time": 1669433624,
+        "rank": 32,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 195136,
+        "num": 195136,
+        "word": "严浩翔新歌RightTrack重庆话rap",
+        "onboard_time": 1669432242,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 188625,
+        "num": 188625,
+        "word": "广州天河疫情防控",
+        "onboard_time": 1669420352,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187971,
+        "num": 187971,
+        "word": "主人假装忘下吃饭口令金毛蹲地等待",
+        "onboard_time": 1669432185,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187180,
+        "num": 187180,
+        "word": "王嘉尔泰国演唱会上座率",
+        "onboard_time": 1669392530,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 184672,
+        "num": 184672,
+        "word": "时代少年团音乐分享会今晚见",
+        "onboard_time": 1669434401,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174175,
+        "num": 174175,
+        "word": "大理寺日志2动画",
+        "onboard_time": 1669437401,
+        "rank": 38,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 155495,
+        "num": 155495,
+        "word": "北京朝阳提醒居家隔离人员如何防护",
+        "onboard_time": 1669419688,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184612,
+        "num": 153311,
+        "word": "给老板打电话定制双带钻的拖鞋",
+        "onboard_time": 1669432783,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 171958,
+        "num": 150718,
+        "word": "刘美含卿卿日常剧组plog",
+        "onboard_time": 1669429846,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 142917,
+        "num": 142917,
+        "word": "卡塔尔小王子又去现场了",
+        "onboard_time": 1669391637,
+        "rank": 42,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 141233,
+        "num": 141233,
+        "word": "狗狗每天被迫看娃被折磨得没狗样",
+        "onboard_time": 1669422940,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134335,
+        "num": 134335,
+        "word": "4岁女儿贴心披马甲爸爸醒来后泪崩",
+        "onboard_time": 1669435366,
+        "rank": 44,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 130140,
+        "num": 130140,
+        "word": "为什么不选马超",
+        "onboard_time": 1669437042,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 128238,
+        "num": 128238,
+        "word": "儿媳谎称以旧换新哄71岁婆婆扔旧鞋",
+        "onboard_time": 1669423178,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125949,
+        "num": 125949,
+        "word": "大阪惊现猫咪店员",
+        "onboard_time": 1669437346,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 117383,
+        "num": 117383,
+        "word": "英格兰美国赛果决定了足球称呼",
+        "onboard_time": 1669409233,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106860,
+        "num": 106860,
+        "word": "梅西加油",
+        "onboard_time": 1669433801,
+        "rank": 49,
+        "category": "体育,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#让节粮减损成为新食尚#"
+    }
+  }
+}

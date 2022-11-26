@@ -1,6 +1,6 @@
 {
   "startTime": 1669393663708,
-  "endTime": 1669436648669,
+  "endTime": 1669437629609,
   "band_list": [
     {
       "raw_hot": 13715986,
@@ -19,20 +19,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 10484530,
+      "num": 10484530,
+      "word": "郑州未经沟通将870人运抵徐州",
+      "onboard_time": 1669435721,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 8905793,
       "num": 8905793,
       "word": "李铁被查",
       "onboard_time": 1669427861,
       "rank": 0,
       "category": "社会新闻,体育"
-    },
-    {
-      "raw_hot": 6017650,
-      "num": 6017650,
-      "word": "郑州未经沟通将870人运抵徐州",
-      "onboard_time": 1669435721,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 3846388,
@@ -187,6 +187,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 879791,
+      "num": 879791,
+      "word": "男子潜入别人家中秘密生活9个月",
+      "onboard_time": 1669433679,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 858174,
+      "num": 858174,
+      "word": "谷爱凌现身巴黎名媛舞会",
+      "onboard_time": 1669433440,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 841812,
       "num": 841812,
       "word": "重庆新增本土确诊199例无症状7522例",
@@ -219,14 +235,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 680514,
-      "num": 680514,
-      "word": "男子潜入别人家中秘密生活9个月",
-      "onboard_time": 1669433679,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 678093,
       "num": 651579,
       "word": "吴亦凡强奸聚众淫乱案细节披露",
@@ -243,12 +251,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 648203,
-      "num": 648203,
-      "word": "谷爱凌现身巴黎名媛舞会",
-      "onboard_time": 1669433440,
-      "rank": 40,
-      "category": "体育"
+      "raw_hot": 653138,
+      "num": 540019,
+      "word": "亡夫160余万存款被小姑子转走",
+      "onboard_time": 1669435062,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 644121,
@@ -297,6 +305,14 @@
       "onboard_time": 1669427921,
       "rank": 37,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 536426,
+      "num": 536426,
+      "word": "offer史上第一次实习生反选公司",
+      "onboard_time": 1669436379,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 534836,
@@ -371,14 +387,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 461476,
-      "num": 461476,
-      "word": "亡夫160余万存款被小姑子转走",
-      "onboard_time": 1669435062,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 460616,
       "num": 446036,
       "word": "卡塔尔国王是不用自己走路的",
@@ -451,6 +459,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 411260,
+      "num": 411260,
+      "word": "刘宇跳nxde",
+      "onboard_time": 1669435840,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 407539,
       "num": 383793,
       "word": "杨幂合作的演员一个夜华一个阳华",
@@ -489,14 +505,6 @@
       "onboard_time": 1669389067,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 380422,
-      "num": 380422,
-      "word": "刘宇跳nxde",
-      "onboard_time": 1669435840,
-      "rank": 19,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 374359,
@@ -651,20 +659,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 292325,
+      "num": 292325,
+      "word": "张凌赫你好星期六造型梦回长珩",
+      "onboard_time": 1669435782,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 291403,
       "num": 291403,
       "word": "广州疫情防控",
       "onboard_time": 1669420352,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 280104,
-      "num": 280104,
-      "word": "张凌赫你好星期六造型梦回长珩",
-      "onboard_time": 1669435782,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 279117,
@@ -683,19 +691,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 261765,
-      "num": 261765,
-      "word": "offer史上第一次实习生反选公司",
-      "onboard_time": 1669436379,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 261269,
       "num": 261269,
       "word": "徐璐新剧两集三种哭法",
       "onboard_time": 1669430506,
       "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 256602,
+      "num": 256602,
+      "word": "陈飞宇张婧仪最新片场对戏花絮",
+      "onboard_time": 1669434521,
+      "rank": 29,
       "category": "影视"
     },
     {
@@ -745,14 +753,6 @@
       "onboard_time": 1669419086,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 243726,
-      "num": 243726,
-      "word": "陈飞宇张婧仪最新片场对戏花絮",
-      "onboard_time": 1669434521,
-      "rank": 29,
-      "category": "影视"
     },
     {
       "raw_hot": 237999,
@@ -835,6 +835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 207402,
+      "num": 207402,
+      "word": "阿根廷vs墨西哥",
+      "onboard_time": 1669436022,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 205237,
       "num": 165222,
       "word": "陈卓璇奔跑吧舞蹈solo",
@@ -875,6 +883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 187971,
+      "num": 187971,
+      "word": "主人假装忘下吃饭口令金毛蹲地等待",
+      "onboard_time": 1669432185,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 185558,
       "num": 185558,
       "word": "压力来到梅西这边",
@@ -888,14 +904,6 @@
       "word": "11月25日新增本土确诊3405例",
       "onboard_time": 1669430573,
       "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 184833,
-      "num": 184833,
-      "word": "主人假装忘下吃饭口令金毛蹲地等待",
-      "onboard_time": 1669432185,
-      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -945,6 +953,14 @@
       "onboard_time": 1669418005,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 174175,
+      "num": 174175,
+      "word": "大理寺日志2动画",
+      "onboard_time": 1669437401,
+      "rank": 38,
+      "category": "动漫"
     },
     {
       "raw_hot": 172641,
@@ -1027,6 +1043,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 134335,
+      "num": 134335,
+      "word": "4岁女儿贴心披马甲爸爸醒来后泪崩",
+      "onboard_time": 1669435366,
+      "rank": 48,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 133100,
       "num": 154633,
       "word": "裁判 不给点球",
@@ -1041,6 +1065,14 @@
       "onboard_time": 1669405995,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 130140,
+      "num": 130140,
+      "word": "为什么不选马超",
+      "onboard_time": 1669437042,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 129913,
@@ -1067,12 +1099,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 128302,
-      "num": 128302,
-      "word": "阿根廷vs墨西哥",
-      "onboard_time": 1669436022,
-      "rank": 45,
-      "category": "体育"
+      "raw_hot": 125949,
+      "num": 125949,
+      "word": "大阪惊现猫咪店员",
+      "onboard_time": 1669437346,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 125203,
@@ -1105,14 +1137,6 @@
       "onboard_time": 1669390921,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 119184,
-      "num": 119184,
-      "word": "4岁女儿贴心披马甲爸爸醒来后泪崩",
-      "onboard_time": 1669435366,
-      "rank": 48,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 116606,
