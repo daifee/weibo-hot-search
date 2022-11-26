@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1669479991529,
+  "endTime": 1669481119593,
   "band_list": [
     {
       "raw_hot": 36651023,
@@ -579,6 +579,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 3152060,
+      "num": 3152060,
+      "word": "上海一街道未做核酸纳入征信",
+      "onboard_time": 1669477430,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 3150006,
       "num": 1681663,
       "word": "无可奉告",
@@ -761,14 +769,6 @@
       "onboard_time": 1667309909,
       "rank": 25,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 2703748,
-      "num": 2703748,
-      "word": "上海一街道未做核酸纳入征信",
-      "onboard_time": 1669477430,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2702402,
@@ -1912,6 +1912,14 @@
       "word": "男子月挣4000怪妻子花680接头发",
       "onboard_time": 1669080153,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1826595,
+      "num": 232830,
+      "word": "人民锐评",
+      "onboard_time": 1669478081,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -3433,14 +3441,6 @@
       "onboard_time": 1669129849,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1335564,
-      "num": 232830,
-      "word": "人民锐评",
-      "onboard_time": 1669478081,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1332622,
@@ -5704,6 +5704,14 @@
       "word": "C罗成为本届世界杯唯一自由球员",
       "onboard_time": 1669239852,
       "rank": 11,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 971893,
+      "num": 971893,
+      "word": "法国vs丹麦",
+      "onboard_time": 1669447115,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -10363,14 +10371,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 648920,
-      "num": 648920,
-      "word": "法国vs丹麦",
-      "onboard_time": 1669447115,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 648667,
       "num": 648667,
       "word": "各地已经成立整治层层加码工作专班",
@@ -12803,6 +12803,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 556584,
+      "num": 556584,
+      "word": "许半夏抓包丈夫出轨",
+      "onboard_time": 1669478147,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 556215,
       "num": 531567,
       "word": "朱韵活成了李峋的样子",
@@ -13457,14 +13465,6 @@
       "onboard_time": 1668123984,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 538638,
-      "num": 538638,
-      "word": "许半夏抓包丈夫出轨",
-      "onboard_time": 1669478147,
-      "rank": 13,
-      "category": "影视"
     },
     {
       "raw_hot": 538634,
@@ -15747,6 +15747,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 480200,
+      "num": 480200,
+      "word": "婆婆把豪宅庭院改菜地种菜",
+      "onboard_time": 1669477244,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 480164,
       "num": 480164,
       "word": "安宥真MMA红毯",
@@ -16073,14 +16081,6 @@
       "onboard_time": 1668742106,
       "rank": 10,
       "category": "影视"
-    },
-    {
-      "raw_hot": 473373,
-      "num": 473373,
-      "word": "婆婆把豪宅庭院改菜地种菜",
-      "onboard_time": 1669477244,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 473163,
@@ -21033,6 +21033,14 @@
       "onboard_time": 1668613646,
       "rank": 13,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 380477,
+      "num": 380477,
+      "word": "韩剧雨伞",
+      "onboard_time": 1669478679,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 380437,
@@ -28731,6 +28739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 278273,
+      "num": 278273,
+      "word": "家猫走失5天后被收养的流浪猫带回",
+      "onboard_time": 1669479103,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 278238,
       "num": 278238,
       "word": "狼队Fly获吉尼斯纪录",
@@ -31521,6 +31537,14 @@
       "onboard_time": 1669129787,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 246953,
+      "num": 246953,
+      "word": "蛋炒饭要用隔夜米饭的原因",
+      "onboard_time": 1669480116,
+      "rank": 23,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 246890,
@@ -38107,14 +38131,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 194303,
-      "num": 194303,
-      "word": "韩剧雨伞",
-      "onboard_time": 1669478679,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
       "raw_hot": 194129,
       "num": 168950,
       "word": "李峋说活动活动筋骨",
@@ -40963,6 +40979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 175464,
+      "num": 175464,
+      "word": "孩子吞硬币家长用探测器查位置",
+      "onboard_time": 1669479399,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 175447,
       "num": 175447,
       "word": "严浩翔把蜘蛛网穿在身上",
@@ -41457,6 +41481,14 @@
       "onboard_time": 1669049545,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 172152,
+      "num": 172152,
+      "word": "替梅西紧张",
+      "onboard_time": 1669480831,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 172151,
@@ -42067,14 +42099,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 167649,
-      "num": 167649,
-      "word": "孩子吞硬币家长用探测器查位置",
-      "onboard_time": 1669479399,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 167647,
       "num": 167647,
       "word": "曝湖人可能交易浓眉",
@@ -42217,6 +42241,14 @@
       "onboard_time": 1668775165,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 166548,
+      "num": 166548,
+      "word": "2022王者世冠KIC",
+      "onboard_time": 1669480418,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 166507,
@@ -45155,6 +45187,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 148215,
+      "num": 148215,
+      "word": "沙特教练 帅",
+      "onboard_time": 1669480655,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 148175,
       "num": 148175,
       "word": "这猫是有多困啊",
@@ -45537,6 +45577,14 @@
       "onboard_time": 1668140668,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 146397,
+      "num": 146397,
+      "word": "他在拍一种很新的拍照方式",
+      "onboard_time": 1669480355,
+      "rank": 44,
+      "category": "幽默,体育"
     },
     {
       "raw_hot": 146157,
@@ -48443,6 +48491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 131042,
+      "num": 131042,
+      "word": "当老师后的变化能有多大",
+      "onboard_time": 1669478323,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 131009,
       "num": 131009,
       "word": "陈飞宇演赵氏孤儿的原因",
@@ -49289,6 +49345,14 @@
       "onboard_time": 1667815765,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 125804,
+      "num": 125804,
+      "word": "丁程鑫预告鱼solo舞台",
+      "onboard_time": 1669479103,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 125788,
