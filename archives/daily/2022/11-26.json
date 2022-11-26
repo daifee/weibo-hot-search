@@ -1,6 +1,6 @@
 {
   "startTime": 1669393663708,
-  "endTime": 1669455215213,
+  "endTime": 1669457973618,
   "band_list": [
     {
       "raw_hot": 14766436,
@@ -41,6 +41,14 @@
       "onboard_time": 1669452815,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 4123287,
+      "num": 4123287,
+      "word": "乌鲁木齐市1124火灾四问",
+      "onboard_time": 1669453658,
+      "rank": 12,
+      "category": "社会负面"
     },
     {
       "raw_hot": 3846388,
@@ -99,12 +107,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1778099,
-      "num": 467218,
-      "word": "乌鲁木齐市1124火灾四问",
-      "onboard_time": 1669453658,
-      "rank": 12,
-      "category": "社会负面"
+      "raw_hot": 2247255,
+      "num": 2247255,
+      "word": "郑好办",
+      "onboard_time": 1669455881,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1742068,
@@ -113,6 +121,14 @@
       "onboard_time": 1669392233,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1605457,
+      "num": 1605457,
+      "word": "卡塔尔人输急眼了",
+      "onboard_time": 1669453960,
+      "rank": 34,
+      "category": "体育,幽默"
     },
     {
       "raw_hot": 1514334,
@@ -155,8 +171,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1167004,
-      "num": 1167004,
+      "raw_hot": 1168502,
+      "num": 1168502,
       "word": "确保20条措施不折不扣不走样成关键",
       "onboard_time": 1669453539,
       "rank": 8,
@@ -259,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 880713,
+      "num": 880713,
+      "word": "北京新增本土感染者2454例",
+      "onboard_time": 1669456001,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 843753,
       "num": 843753,
       "word": "桐庐发现红码奖1000元",
@@ -273,6 +297,14 @@
       "onboard_time": 1669447357,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 842792,
+      "num": 842792,
+      "word": "女子16万买2车库精装修后入住",
+      "onboard_time": 1669453658,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 841812,
@@ -296,6 +328,14 @@
       "word": "9岁女童档口持刀杀鱼扒鳞",
       "onboard_time": 1669442315,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 786035,
+      "num": 786035,
+      "word": "女子苦干12年赚钱给弟弟买房买车",
+      "onboard_time": 1669455038,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -339,6 +379,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 733215,
+      "num": 733215,
+      "word": "招聘小学数学老师要求风景园林专业",
+      "onboard_time": 1669452514,
+      "rank": 9,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 721709,
+      "num": 721709,
+      "word": "王楚钦 应援服",
+      "onboard_time": 1669455218,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 714625,
+      "num": 714625,
+      "word": "重庆一男子被曝小区内多次猥亵小孩",
+      "onboard_time": 1669454740,
+      "rank": 38,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 713948,
       "num": 713948,
       "word": "严浩翔新歌登双榜TOP1",
@@ -353,6 +417,14 @@
       "onboard_time": 1669381311,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 706758,
+      "num": 706758,
+      "word": "北京疫情发布会",
+      "onboard_time": 1669454858,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 686405,
@@ -388,7 +460,7 @@
     },
     {
       "raw_hot": 664182,
-      "num": 466338,
+      "num": 602356,
       "word": "张真源北京大学生音乐节舞台镜头",
       "onboard_time": 1669453539,
       "rank": 13,
@@ -409,14 +481,6 @@
       "onboard_time": 1669420588,
       "rank": 12,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 612503,
-      "num": 612503,
-      "word": "招聘小学数学老师要求风景园林专业",
-      "onboard_time": 1669452514,
-      "rank": 9,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 612115,
@@ -465,14 +529,6 @@
       "onboard_time": 1669427921,
       "rank": 37,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 543534,
-      "num": 425625,
-      "word": "卡塔尔人输急眼了",
-      "onboard_time": 1669453960,
-      "rank": 34,
-      "category": "体育,幽默"
     },
     {
       "raw_hot": 542917,
@@ -579,6 +635,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 476115,
+      "num": 476115,
+      "word": "张元英MMA红毯新闻图",
+      "onboard_time": 1669456360,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 474304,
       "num": 474304,
       "word": "英格兰美国赛果决定了足球称呼",
@@ -672,14 +736,6 @@
       "word": "官方回应北京一感染者求助安置猫咪",
       "onboard_time": 1669389845,
       "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 424444,
-      "num": 424444,
-      "word": "女子16万买2车库精装修后入住",
-      "onboard_time": 1669453658,
-      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -915,6 +971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 326625,
+      "num": 326625,
+      "word": "宋亚轩今晚独唱每个眼神都只身荒野",
+      "onboard_time": 1669455577,
+      "rank": 20,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 321296,
       "num": 321296,
       "word": "外卖员贪小便宜多次偷拿外卖被抓",
@@ -963,6 +1027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 304046,
+      "num": 304046,
+      "word": "TXT获MMA最佳男子表演奖",
+      "onboard_time": 1669457016,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 303349,
       "num": 303349,
       "word": "阿根廷vs墨西哥",
@@ -1008,6 +1080,22 @@
       "word": "广州疫情防控",
       "onboard_time": 1669420352,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 288380,
+      "num": 288380,
+      "word": "我没有早八但我女儿有",
+      "onboard_time": 1669454800,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 283692,
+      "num": 283692,
+      "word": "男子被疑患肺癌竟是鸡骨滑入肺",
+      "onboard_time": 1669452216,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -1073,14 +1161,6 @@
       "onboard_time": 1669446935,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 265879,
-      "num": 265879,
-      "word": "男子被疑患肺癌竟是鸡骨滑入肺",
-      "onboard_time": 1669452216,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 261269,
@@ -1163,6 +1243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 244345,
+      "num": 244345,
+      "word": "突尼斯vs澳大利亚",
+      "onboard_time": 1669454318,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 244110,
       "num": 244110,
       "word": "李峋有短处吗",
@@ -1224,6 +1312,14 @@
       "word": "他在说一种很新的普通话",
       "onboard_time": 1669449395,
       "rank": 33,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 225389,
+      "num": 225389,
+      "word": "猫咪遛弯回家和出门判若两猫",
+      "onboard_time": 1669453539,
+      "rank": 42,
       "category": "幽默"
     },
     {
@@ -1363,6 +1459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 203046,
+      "num": 203046,
+      "word": "尹峥酒后对李薇吐真言",
+      "onboard_time": 1669455938,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 201096,
       "num": 201096,
       "word": "婆婆摆摊收百元假币无助痛哭",
@@ -1411,20 +1515,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 194911,
+      "num": 194911,
+      "word": "乒超",
+      "onboard_time": 1669457379,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 193410,
       "num": 193410,
       "word": "世界在世最长寿猫相当于人类120岁",
       "onboard_time": 1669442562,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 192257,
-      "num": 192257,
-      "word": "我没有早八但我女儿有",
-      "onboard_time": 1669454800,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 191615,
@@ -1465,14 +1569,6 @@
       "onboard_time": 1669439265,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 188428,
-      "num": 188428,
-      "word": "重庆一男子被曝小区内多次猥亵小孩",
-      "onboard_time": 1669454740,
-      "rank": 38,
-      "category": "社会负面"
     },
     {
       "raw_hot": 187971,
@@ -1523,14 +1619,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 182405,
-      "num": 182405,
-      "word": "猫咪遛弯回家和出门判若两猫",
-      "onboard_time": 1669453539,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 181040,
       "num": 181040,
       "word": "卡塔尔来到淘汰边缘",
@@ -1561,6 +1649,14 @@
       "onboard_time": 1669401261,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 174490,
+      "num": 174490,
+      "word": "体会到了小学门口的快乐",
+      "onboard_time": 1669457738,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 174389,
@@ -1619,14 +1715,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 162871,
-      "num": 162871,
-      "word": "北京疫情发布会",
-      "onboard_time": 1669454858,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 162715,
       "num": 162715,
       "word": "29岁男子为考央美复读10年",
@@ -1675,12 +1763,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 149811,
+      "num": 149811,
+      "word": "成都银杏今年忘了黄",
+      "onboard_time": 1669457141,
+      "rank": 47,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 149035,
       "num": 154665,
       "word": "为爱冲锋的勇士是场闹剧",
       "onboard_time": 1669384688,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 146309,
+      "num": 146309,
+      "word": "卡塔尔也看猫和老鼠吗",
+      "onboard_time": 1669455762,
+      "rank": 48,
+      "category": "体育,幽默"
     },
     {
       "raw_hot": 145347,
@@ -1699,14 +1803,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 141517,
-      "num": 141517,
-      "word": "突尼斯vs澳大利亚",
-      "onboard_time": 1669454318,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 137603,
       "num": 137603,
       "word": "詹姆斯复出",
@@ -1721,14 +1817,6 @@
       "onboard_time": 1669426300,
       "rank": 49,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 135353,
-      "num": 135353,
-      "word": "女子苦干12年赚钱给弟弟买房买车",
-      "onboard_time": 1669455038,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 133983,
@@ -1752,6 +1840,14 @@
       "word": "小伙为了免费约美女被骗22万",
       "onboard_time": 1669405995,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132097,
+      "num": 132097,
+      "word": "孩子书包被淋陌生人帮忙拉好雨衣",
+      "onboard_time": 1669457077,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -1985,6 +2081,14 @@
       "onboard_time": 1669400960,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 39800,
+      "num": 172403,
+      "word": "深夜藏着温暖的一面",
+      "onboard_time": 1669456839,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 31201,
