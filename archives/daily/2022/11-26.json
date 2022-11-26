@@ -1,7 +1,15 @@
 {
   "startTime": 1669393663708,
-  "endTime": 1669437629609,
+  "endTime": 1669439828156,
   "band_list": [
+    {
+      "raw_hot": 14766436,
+      "num": 14766436,
+      "word": "郑州未经沟通将870人运抵徐州",
+      "onboard_time": 1669435721,
+      "rank": 1,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 13715986,
       "num": 1315353,
@@ -16,14 +24,6 @@
       "word": "乌鲁木齐社会面基本清零",
       "onboard_time": 1669427383,
       "rank": 12,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 10484530,
-      "num": 10484530,
-      "word": "郑州未经沟通将870人运抵徐州",
-      "onboard_time": 1669435721,
-      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 1275308,
-      "num": 637729,
+      "num": 713464,
       "word": "吴亦凡将如何服刑",
       "onboard_time": 1669429183,
       "rank": 11,
@@ -155,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1052901,
+      "num": 1052901,
+      "word": "谷爱凌现身巴黎名媛舞会",
+      "onboard_time": 1669433440,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1009407,
       "num": 1009407,
       "word": "卡塔尔小王子又去现场了",
@@ -187,20 +195,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 879791,
-      "num": 879791,
+      "raw_hot": 883915,
+      "num": 883915,
       "word": "男子潜入别人家中秘密生活9个月",
       "onboard_time": 1669433679,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 858174,
-      "num": 858174,
-      "word": "谷爱凌现身巴黎名媛舞会",
-      "onboard_time": 1669433440,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 841812,
@@ -217,6 +217,14 @@
       "onboard_time": 1669384688,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 743663,
+      "num": 743663,
+      "word": "亡夫160余万存款被小姑子转走",
+      "onboard_time": 1669435062,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 712595,
@@ -249,14 +257,6 @@
       "onboard_time": 1669389365,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 653138,
-      "num": 540019,
-      "word": "亡夫160余万存款被小姑子转走",
-      "onboard_time": 1669435062,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 644121,
@@ -635,6 +635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 303349,
+      "num": 303349,
+      "word": "阿根廷vs墨西哥",
+      "onboard_time": 1669436022,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 303235,
       "num": 268838,
       "word": "财阀家的小儿子",
@@ -755,6 +763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 242374,
+      "num": 206476,
+      "word": "张国伟澳大利亚比赛夺冠",
+      "onboard_time": 1669439081,
+      "rank": 30,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 237999,
       "num": 237999,
       "word": "内马尔颜值巅峰",
@@ -803,6 +819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 219302,
+      "num": 219302,
+      "word": "王嘉尔演唱会现场氛围",
+      "onboard_time": 1669439568,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 215901,
       "num": 215901,
       "word": "卿卿日常是懂押韵的",
@@ -835,11 +859,27 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 207402,
-      "num": 207402,
-      "word": "阿根廷vs墨西哥",
-      "onboard_time": 1669436022,
-      "rank": 45,
+      "raw_hot": 209451,
+      "num": 205869,
+      "word": "高糖分的剧综名场面",
+      "onboard_time": 1669438908,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 208465,
+      "num": 208465,
+      "word": "大阪惊现猫咪店员",
+      "onboard_time": 1669437346,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 207297,
+      "num": 207297,
+      "word": "李铁执教国足战绩",
+      "onboard_time": 1669438603,
+      "rank": 29,
       "category": "体育"
     },
     {
@@ -851,12 +891,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 203954,
+      "num": 203954,
+      "word": "蒋龙一剪梅",
+      "onboard_time": 1669439147,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 199902,
+      "num": 199902,
+      "word": "4岁女儿贴心披马甲爸爸醒来后泪崩",
+      "onboard_time": 1669435366,
+      "rank": 48,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 198512,
       "num": 198512,
       "word": "卡塔尔提前小组出局",
       "onboard_time": 1669400422,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 198046,
+      "num": 198046,
+      "word": "李峋有短处吗",
+      "onboard_time": 1669438669,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 190791,
@@ -880,6 +944,14 @@
       "word": "小婉管乐",
       "onboard_time": 1669426476,
       "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 189354,
+      "num": 189354,
+      "word": "东方风云榜节目单",
+      "onboard_time": 1669439265,
+      "rank": 40,
       "category": "综艺"
     },
     {
@@ -979,6 +1051,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 161179,
+      "num": 161179,
+      "word": "为什么不选马超",
+      "onboard_time": 1669437042,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 154710,
       "num": 154710,
       "word": "调音师第一次后悔接了这活",
@@ -1043,14 +1123,6 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 134335,
-      "num": 134335,
-      "word": "4岁女儿贴心披马甲爸爸醒来后泪崩",
-      "onboard_time": 1669435366,
-      "rank": 48,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 133100,
       "num": 154633,
       "word": "裁判 不给点球",
@@ -1065,14 +1137,6 @@
       "onboard_time": 1669405995,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 130140,
-      "num": 130140,
-      "word": "为什么不选马超",
-      "onboard_time": 1669437042,
-      "rank": 45,
-      "category": "游戏"
     },
     {
       "raw_hot": 129913,
@@ -1099,20 +1163,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 125949,
-      "num": 125949,
-      "word": "大阪惊现猫咪店员",
-      "onboard_time": 1669437346,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
       "raw_hot": 125203,
       "num": 125203,
       "word": "詹俊期待梅西爆发",
       "onboard_time": 1669436503,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 123217,
+      "num": 123217,
+      "word": "曲靖回应网传20万人被赋黄码",
+      "onboard_time": 1669439026,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 122105,

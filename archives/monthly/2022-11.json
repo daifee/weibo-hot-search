@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1669437629609,
+  "endTime": 1669439828156,
   "band_list": [
     {
       "raw_hot": 36651023,
@@ -25,6 +25,14 @@
       "onboard_time": 1669171891,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 14766436,
+      "num": 14766436,
+      "word": "郑州未经沟通将870人运抵徐州",
+      "onboard_time": 1669435721,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 13715986,
@@ -65,14 +73,6 @@
       "onboard_time": 1668950128,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 10484530,
-      "num": 10484530,
-      "word": "郑州未经沟通将870人运抵徐州",
-      "onboard_time": 1669435721,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 9868828,
@@ -3620,7 +3620,7 @@
     },
     {
       "raw_hot": 1275308,
-      "num": 637729,
+      "num": 713464,
       "word": "吴亦凡将如何服刑",
       "onboard_time": 1669429183,
       "rank": 11,
@@ -4817,6 +4817,14 @@
       "onboard_time": 1667292867,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1052901,
+      "num": 1052901,
+      "word": "谷爱凌现身巴黎名媛舞会",
+      "onboard_time": 1669433440,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 1051608,
@@ -6315,6 +6323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 883915,
+      "num": 883915,
+      "word": "男子潜入别人家中秘密生活9个月",
+      "onboard_time": 1669433679,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 883869,
       "num": 883869,
       "word": "中国一男子在塞尔维亚殴打女儿被捕",
@@ -6361,14 +6377,6 @@
       "onboard_time": 1667660068,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 879791,
-      "num": 879791,
-      "word": "男子潜入别人家中秘密生活9个月",
-      "onboard_time": 1669433679,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 879711,
@@ -6649,14 +6657,6 @@
       "onboard_time": 1669379755,
       "rank": 47,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 858174,
-      "num": 858174,
-      "word": "谷爱凌现身巴黎名媛舞会",
-      "onboard_time": 1669433440,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 858169,
@@ -8169,6 +8169,14 @@
       "onboard_time": 1669301386,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 743663,
+      "num": 743663,
+      "word": "亡夫160余万存款被小姑子转走",
+      "onboard_time": 1669435062,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 742909,
@@ -9792,14 +9800,6 @@
       "word": "继续暂停经营出入境团队游业务",
       "onboard_time": 1668514468,
       "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 653138,
-      "num": 540019,
-      "word": "亡夫160余万存款被小姑子转走",
-      "onboard_time": 1669435062,
-      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -25667,6 +25667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 303349,
+      "num": 303349,
+      "word": "阿根廷vs墨西哥",
+      "onboard_time": 1669436022,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 303329,
       "num": 249946,
       "word": "吴磊周雨彤爱情而已网球海报",
@@ -30699,6 +30707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 242374,
+      "num": 206476,
+      "word": "张国伟澳大利亚比赛夺冠",
+      "onboard_time": 1669439081,
+      "rank": 30,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 242337,
       "num": 242337,
       "word": "苹果为iPhone14提供同机维修",
@@ -33163,6 +33179,14 @@
       "category": "美妆,社会新闻"
     },
     {
+      "raw_hot": 219302,
+      "num": 219302,
+      "word": "王嘉尔演唱会现场氛围",
+      "onboard_time": 1669439568,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 219276,
       "num": 183691,
       "word": "单依纯终于唱如愿了",
@@ -34427,6 +34451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 209451,
+      "num": 205869,
+      "word": "高糖分的剧综名场面",
+      "onboard_time": 1669438908,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 209414,
       "num": 141300,
       "word": "文俊辉说seventeen刀群舞的秘诀",
@@ -34537,6 +34569,14 @@
       "onboard_time": 1669167871,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 208465,
+      "num": 208465,
+      "word": "大阪惊现猫咪店员",
+      "onboard_time": 1669437346,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 208378,
@@ -34691,14 +34731,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 207402,
-      "num": 207402,
-      "word": "阿根廷vs墨西哥",
-      "onboard_time": 1669436022,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 207385,
       "num": 207385,
       "word": "11月15日新增本土无症状18491例",
@@ -34713,6 +34745,14 @@
       "onboard_time": 1667958806,
       "rank": 24,
       "category": "科技"
+    },
+    {
+      "raw_hot": 207297,
+      "num": 207297,
+      "word": "李铁执教国足战绩",
+      "onboard_time": 1669438603,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 207203,
@@ -35145,6 +35185,14 @@
       "onboard_time": 1667769913,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 203954,
+      "num": 203954,
+      "word": "蒋龙一剪梅",
+      "onboard_time": 1669439147,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 203941,
@@ -35739,6 +35787,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 199902,
+      "num": 199902,
+      "word": "4岁女儿贴心披马甲爸爸醒来后泪崩",
+      "onboard_time": 1669435366,
+      "rank": 48,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 199749,
       "num": 199749,
       "word": "热依扎获飞天奖后首发博",
@@ -35945,6 +36001,14 @@
       "onboard_time": 1669022135,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 198046,
+      "num": 198046,
+      "word": "李峋有短处吗",
+      "onboard_time": 1669438669,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 197971,
@@ -37329,6 +37393,14 @@
       "onboard_time": 1669264717,
       "rank": 35,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 189354,
+      "num": 189354,
+      "word": "东方风云榜节目单",
+      "onboard_time": 1669439265,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 189250,
@@ -41377,6 +41449,14 @@
       "onboard_time": 1667817867,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 161179,
+      "num": 161179,
+      "word": "为什么不选马超",
+      "onboard_time": 1669437042,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 161176,
@@ -46115,14 +46195,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 134335,
-      "num": 134335,
-      "word": "4岁女儿贴心披马甲爸爸醒来后泪崩",
-      "onboard_time": 1669435366,
-      "rank": 48,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 134139,
       "num": 134139,
       "word": "库里三双",
@@ -46777,14 +46849,6 @@
       "onboard_time": 1668752309,
       "rank": 39,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 130140,
-      "num": 130140,
-      "word": "为什么不选马超",
-      "onboard_time": 1669437042,
-      "rank": 45,
-      "category": "游戏"
     },
     {
       "raw_hot": 130129,
@@ -47515,14 +47579,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 125949,
-      "num": 125949,
-      "word": "大阪惊现猫咪店员",
-      "onboard_time": 1669437346,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
       "raw_hot": 125916,
       "num": 136835,
       "word": "想去这里养老了",
@@ -47977,6 +48033,14 @@
       "onboard_time": 1667991506,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 123217,
+      "num": 123217,
+      "word": "曲靖回应网传20万人被赋黄码",
+      "onboard_time": 1669439026,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 123148,
