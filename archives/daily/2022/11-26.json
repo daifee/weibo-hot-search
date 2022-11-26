@@ -1,6 +1,6 @@
 {
   "startTime": 1669393663708,
-  "endTime": 1669428198257,
+  "endTime": 1669431117474,
   "band_list": [
     {
       "raw_hot": 13715986,
@@ -8,6 +8,22 @@
       "word": "乌鲁木齐1124火灾事故发布会",
       "onboard_time": 1669392051,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 8905793,
+      "num": 8905793,
+      "word": "李铁被查",
+      "onboard_time": 1669427861,
+      "rank": 0,
+      "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 6117844,
+      "num": 6117844,
+      "word": "乌鲁木齐社会面基本清零",
+      "onboard_time": 1669427383,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -28,7 +44,7 @@
     },
     {
       "raw_hot": 2944633,
-      "num": 574049,
+      "num": 1798600,
       "word": "乌鲁木齐市长就10死火灾事故致歉",
       "onboard_time": 1669420588,
       "rank": 9,
@@ -51,11 +67,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 2277935,
-      "num": 442317,
-      "word": "乌鲁木齐社会面基本清零",
-      "onboard_time": 1669427383,
-      "rank": 12,
+      "raw_hot": 1828998,
+      "num": 1828998,
+      "word": "科学家复活被冷冻48500年古老病毒",
+      "onboard_time": 1669427981,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -65,14 +81,6 @@
       "onboard_time": 1669392233,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1691053,
-      "num": 1691053,
-      "word": "李铁被查",
-      "onboard_time": 1669427861,
-      "rank": 0,
-      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 1514334,
@@ -107,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1110808,
+      "num": 1110808,
+      "word": "英格兰 演",
+      "onboard_time": 1669427021,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1084040,
       "num": 1084040,
       "word": "汤唯获青龙奖影后",
@@ -129,6 +145,14 @@
       "onboard_time": 1669391637,
       "rank": 38,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 985400,
+      "num": 637729,
+      "word": "吴亦凡将如何服刑",
+      "onboard_time": 1669429183,
+      "rank": 11,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 967521,
@@ -227,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 536496,
+      "num": 536496,
+      "word": "女子称4男子凌晨刷房卡闯入酒店房间",
+      "onboard_time": 1669427921,
+      "rank": 37,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 534836,
       "num": 534836,
       "word": "英格兰0比0美国",
@@ -256,6 +288,22 @@
       "word": "胡锡进",
       "onboard_time": 1669377532,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 490950,
+      "num": 490950,
+      "word": "陪她聊天与找她聊天的区别",
+      "onboard_time": 1669428343,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 478535,
+      "num": 478535,
+      "word": "重庆新增本土确诊199例无症状7522例",
+      "onboard_time": 1669429000,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -305,14 +353,6 @@
       "onboard_time": 1669422095,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 444187,
-      "num": 444187,
-      "word": "英格兰 演",
-      "onboard_time": 1669427021,
-      "rank": 11,
-      "category": "体育"
     },
     {
       "raw_hot": 432054,
@@ -427,6 +467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 343202,
+      "num": 343202,
+      "word": "严浩翔新歌righttrack上线",
+      "onboard_time": 1669430747,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 321296,
       "num": 321296,
       "word": "外卖员贪小便宜多次偷拿外卖被抓",
@@ -443,12 +491,28 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 313571,
+      "num": 313571,
+      "word": "张若昀范闲三周年",
+      "onboard_time": 1669430209,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 307669,
       "num": 307669,
       "word": "洒水车为避让3学生撞路边幼儿园围墙",
       "onboard_time": 1669390680,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 305949,
+      "num": 305949,
+      "word": "阿根廷背水一战",
+      "onboard_time": 1669429785,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 303235,
@@ -481,6 +545,14 @@
       "onboard_time": 1669423900,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 276049,
+      "num": 276049,
+      "word": "情侣高速上吵架女子将男友锁车外",
+      "onboard_time": 1669427861,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 269636,
@@ -555,6 +627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 223125,
+      "num": 223125,
+      "word": "郑秀妍有了新的羁绊",
+      "onboard_time": 1669425820,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 222169,
       "num": 222169,
       "word": "吹风机放床上引燃被褥烧了家",
@@ -579,28 +659,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 205395,
-      "num": 205395,
-      "word": "郑秀妍有了新的羁绊",
-      "onboard_time": 1669425820,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 205237,
       "num": 165222,
       "word": "陈卓璇奔跑吧舞蹈solo",
       "onboard_time": 1669393789,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 200193,
-      "num": 200193,
-      "word": "女子称4男子凌晨刷房卡闯入酒店房间",
-      "onboard_time": 1669427921,
-      "rank": 37,
-      "category": "社会负面"
     },
     {
       "raw_hot": 198512,
@@ -627,20 +691,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 187936,
-      "num": 187936,
-      "word": "科学家复活被冷冻48500年古老病毒",
-      "onboard_time": 1669427981,
-      "rank": 39,
-      "category": "社会新闻"
+      "raw_hot": 189962,
+      "num": 189962,
+      "word": "小婉管乐",
+      "onboard_time": 1669426476,
+      "rank": 45,
+      "category": "综艺"
     },
     {
-      "raw_hot": 187228,
-      "num": 187228,
-      "word": "情侣高速上吵架女子将男友锁车外",
-      "onboard_time": 1669427861,
-      "rank": 40,
-      "category": "社会新闻"
+      "raw_hot": 186754,
+      "num": 186754,
+      "word": "刘美含卿卿日常剧组plog",
+      "onboard_time": 1669429846,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 185558,
@@ -651,12 +715,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 181905,
-      "num": 181905,
-      "word": "小婉管乐",
-      "onboard_time": 1669426476,
-      "rank": 45,
-      "category": "综艺"
+      "raw_hot": 184976,
+      "num": 184976,
+      "word": "11月25日新增本土确诊3405例",
+      "onboard_time": 1669430573,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 181040,
@@ -707,6 +771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 167559,
+      "num": 167559,
+      "word": "徐璐新剧两集三种哭法",
+      "onboard_time": 1669430506,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 162715,
       "num": 162715,
       "word": "29岁男子为考央美复读10年",
@@ -752,6 +824,14 @@
       "word": "英美大战平局收场",
       "onboard_time": 1669418126,
       "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 137603,
+      "num": 137603,
+      "word": "詹姆斯复出",
+      "onboard_time": 1669430209,
+      "rank": 46,
       "category": "体育"
     },
     {
@@ -860,7 +940,7 @@
     },
     {
       "raw_hot": 74027,
-      "num": 1388941,
+      "num": 2466334,
       "word": "来自中国空间站的出差邀请",
       "onboard_time": 1669381789,
       "rank": 2,
@@ -945,6 +1025,9 @@
     },
     {
       "word": "#正青春 再出发#"
+    },
+    {
+      "word": "#让节粮减损成为新食尚#"
     }
   ]
 }
