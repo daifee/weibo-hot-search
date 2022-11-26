@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/01 00:36:21 ~ 2022/11/27 03:33:14
+本榜单时间：2022/11/01 00:36:21 ~ 2022/11/27 04:19:42
 </p>
 </blockquote>
 <p>
@@ -5727,6 +5727,12 @@ iPhone15或告别纯直边（热度：809196）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A2%A8%E8%A5%BF%E5%93%A5%E7%90%83%E8%BF%B7%E5%A4%A7%E5%96%8A%E6%A2%85%E8%A5%BF%E5%9B%9E%E5%AE%B6%23" target="weibo">
+墨西哥球迷大喊梅西回家（热度：805924）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%8A%B120%E4%B8%87%E5%B8%A6%E7%88%B8%E7%88%B8%E7%9C%8B%E4%B8%96%E7%95%8C%E6%9D%AF%E8%BD%AE%E6%B5%81%E7%9D%A1%E7%9D%80%23" target="weibo">
 女子花20万带爸爸看世界杯轮流睡着（热度：804388）
 </a>
@@ -6005,12 +6011,6 @@ iPhone14Pro满电无法开机（热度：775953）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9C%A8%E5%85%AC%E5%8E%95%E8%A2%AB%E6%AE%B4%E6%89%93%E5%A5%B3%E5%AD%90%E5%9B%9E%E5%BA%94%23" target="weibo">
 在公厕被殴打女子回应（热度：774120）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A1%8C%E5%86%B3%E5%AE%9A%E9%99%8D%E5%87%860.25%E4%B8%AA%E7%99%BE%E5%88%86%E7%82%B9%23" target="weibo">
-央行决定降准0.25个百分点（热度：774057）
 </a>
 </li>
 
