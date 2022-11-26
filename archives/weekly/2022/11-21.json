@@ -1,6 +1,6 @@
 {
   "startTime": 1668961718135,
-  "endTime": 1669483004124,
+  "endTime": 1669484017850,
   "band_list": [
     {
       "raw_hot": 36651023,
@@ -1459,6 +1459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1211960,
+      "num": 1211960,
+      "word": "法国vs丹麦",
+      "onboard_time": 1669447115,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1190020,
       "num": 1190020,
       "word": "上海立法禁止群租",
@@ -1883,14 +1891,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 999251,
-      "num": 999251,
-      "word": "法国vs丹麦",
-      "onboard_time": 1669447115,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 988661,
       "num": 988661,
       "word": "女租客没回信息男房东擅闯房间",
@@ -2225,6 +2225,14 @@
       "onboard_time": 1669433679,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 881780,
+      "num": 881780,
+      "word": "阿根廷vs墨西哥",
+      "onboard_time": 1669436022,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 879495,
@@ -2953,14 +2961,6 @@
       "onboard_time": 1669289555,
       "rank": 49,
       "category": "美食,游戏"
-    },
-    {
-      "raw_hot": 723531,
-      "num": 723531,
-      "word": "阿根廷vs墨西哥",
-      "onboard_time": 1669436022,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 719350,
@@ -3763,6 +3763,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 607135,
+      "num": 607135,
+      "word": "替梅西紧张",
+      "onboard_time": 1669480831,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 605293,
       "num": 605293,
       "word": "长春疫情防控",
@@ -3793,6 +3801,14 @@
       "onboard_time": 1669468846,
       "rank": 10,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 598949,
+      "num": 598949,
+      "word": "韩剧雨伞",
+      "onboard_time": 1669478679,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 597639,
@@ -4499,14 +4515,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 532965,
-      "num": 532965,
-      "word": "韩剧雨伞",
-      "onboard_time": 1669478679,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
       "raw_hot": 532455,
       "num": 532455,
       "word": "苏亚雷斯",
@@ -4585,14 +4593,6 @@
       "onboard_time": 1669442140,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 524636,
-      "num": 524636,
-      "word": "替梅西紧张",
-      "onboard_time": 1669480831,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 523601,
@@ -4801,6 +4801,14 @@
       "onboard_time": 1669070778,
       "rank": 10,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 511305,
+      "num": 511305,
+      "word": "蛋炒饭要用隔夜米饭的原因",
+      "onboard_time": 1669480116,
+      "rank": 23,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 511200,
@@ -5873,14 +5881,6 @@
       "onboard_time": 1669113513,
       "rank": 20,
       "category": "自然"
-    },
-    {
-      "raw_hot": 434066,
-      "num": 434066,
-      "word": "蛋炒饭要用隔夜米饭的原因",
-      "onboard_time": 1669480116,
-      "rank": 23,
-      "category": "美食,幽默"
     },
     {
       "raw_hot": 433085,
@@ -7025,6 +7025,14 @@
       "onboard_time": 1669123780,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 373981,
+      "num": 373981,
+      "word": "苍盐海三巨头做客你好星期六",
+      "onboard_time": 1669482688,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 373756,
@@ -8177,14 +8185,6 @@
       "onboard_time": 1669277007,
       "rank": 13,
       "category": "影视"
-    },
-    {
-      "raw_hot": 328130,
-      "num": 328130,
-      "word": "苍盐海三巨头做客你好星期六",
-      "onboard_time": 1669482688,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 328047,
@@ -10651,6 +10651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 237287,
+      "num": 237287,
+      "word": "苏醒用娱乐圈比喻世界杯关系",
+      "onboard_time": 1669482925,
+      "rank": 45,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 237075,
       "num": 237075,
       "word": "时代少年团音乐分享会今晚见",
@@ -12619,6 +12627,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 193718,
+      "num": 193718,
+      "word": "沙特是怎么赢的阿根廷",
+      "onboard_time": 1669483222,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 193578,
       "num": 193578,
       "word": "赵芳如全力护郝葭母女",
@@ -13027,6 +13043,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 186123,
+      "num": 186123,
+      "word": "为梅西熬夜",
+      "onboard_time": 1669482029,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 185973,
       "num": 174120,
       "word": "梅西发博晒训练照",
@@ -13153,14 +13177,6 @@
       "onboard_time": 1669213963,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 184559,
-      "num": 184559,
-      "word": "为梅西熬夜",
-      "onboard_time": 1669482029,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 184491,
@@ -16395,14 +16411,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 114736,
-      "num": 114736,
-      "word": "苏醒用娱乐圈比喻世界杯关系",
-      "onboard_time": 1669482925,
-      "rank": 45,
-      "category": "体育,艺人"
-    },
-    {
       "raw_hot": 114732,
       "num": 114732,
       "word": "世界杯赛程",
@@ -16567,6 +16575,14 @@
       "num": 110034,
       "word": "卿卿日常好笑又好哭",
       "onboard_time": 1669046376,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 110018,
+      "num": 110018,
+      "word": "1899深度解析",
+      "onboard_time": 1669483704,
       "rank": 42,
       "category": "影视"
     },

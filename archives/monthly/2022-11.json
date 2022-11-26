@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1669483004124,
+  "endTime": 1669484017850,
   "band_list": [
     {
       "raw_hot": 36651023,
@@ -4011,6 +4011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1211960,
+      "num": 1211960,
+      "word": "法国vs丹麦",
+      "onboard_time": 1669447115,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1207612,
       "num": 1207612,
       "word": "广州在隔次密接解除隔离",
@@ -5507,14 +5515,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 999251,
-      "num": 999251,
-      "word": "法国vs丹麦",
-      "onboard_time": 1669447115,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 998533,
       "num": 998533,
       "word": "齐溪金鸡奖最佳女配角",
@@ -6569,6 +6569,14 @@
       "onboard_time": 1667380887,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 881780,
+      "num": 881780,
+      "word": "阿根廷vs墨西哥",
+      "onboard_time": 1669436022,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 881474,
@@ -8881,14 +8889,6 @@
       "onboard_time": 1668840986,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 723531,
-      "num": 723531,
-      "word": "阿根廷vs墨西哥",
-      "onboard_time": 1669436022,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 723441,
@@ -11363,6 +11363,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 607135,
+      "num": 607135,
+      "word": "替梅西紧张",
+      "onboard_time": 1669480831,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 606920,
       "num": 606920,
       "word": "女子买小吃被套路一小条变半袋",
@@ -11545,6 +11553,14 @@
       "onboard_time": 1668568109,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 598949,
+      "num": 598949,
+      "word": "韩剧雨伞",
+      "onboard_time": 1669478679,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 597639,
@@ -13643,14 +13659,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 532965,
-      "num": 532965,
-      "word": "韩剧雨伞",
-      "onboard_time": 1669478679,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
       "raw_hot": 532854,
       "num": 532854,
       "word": "甘肃县级队足协杯淘汰北京国安",
@@ -13929,14 +13937,6 @@
       "onboard_time": 1669442140,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 524636,
-      "num": 524636,
-      "word": "替梅西紧张",
-      "onboard_time": 1669480831,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 524522,
@@ -14561,6 +14561,14 @@
       "onboard_time": 1667939412,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 511305,
+      "num": 511305,
+      "word": "蛋炒饭要用隔夜米饭的原因",
+      "onboard_time": 1669480116,
+      "rank": 23,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 511200,
@@ -18051,14 +18059,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 434066,
-      "num": 434066,
-      "word": "蛋炒饭要用隔夜米饭的原因",
-      "onboard_time": 1669480116,
-      "rank": 23,
-      "category": "美食,幽默"
-    },
-    {
       "raw_hot": 434015,
       "num": 434015,
       "word": "三名男大学生校内约架被电棍击伤",
@@ -21419,6 +21419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 373981,
+      "num": 373981,
+      "word": "苍盐海三巨头做客你好星期六",
+      "onboard_time": 1669482688,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 373756,
       "num": 373756,
       "word": "王鹤棣拍吻戏看到粉丝的表情",
@@ -24673,14 +24681,6 @@
       "onboard_time": 1669277007,
       "rank": 13,
       "category": "影视"
-    },
-    {
-      "raw_hot": 328130,
-      "num": 328130,
-      "word": "苍盐海三巨头做客你好星期六",
-      "onboard_time": 1669482688,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 328047,
@@ -32419,6 +32419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 237287,
+      "num": 237287,
+      "word": "苏醒用娱乐圈比喻世界杯关系",
+      "onboard_time": 1669482925,
+      "rank": 45,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 237075,
       "num": 237075,
       "word": "时代少年团音乐分享会今晚见",
@@ -38267,6 +38275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 193718,
+      "num": 193718,
+      "word": "沙特是怎么赢的阿根廷",
+      "onboard_time": 1669483222,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 193578,
       "num": 193578,
       "word": "赵芳如全力护郝葭母女",
@@ -39475,6 +39491,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 186123,
+      "num": 186123,
+      "word": "为梅西熬夜",
+      "onboard_time": 1669482029,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 185976,
       "num": 97106,
       "word": "胡歌繁花转身氛围感",
@@ -39713,14 +39737,6 @@
       "onboard_time": 1669213963,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 184559,
-      "num": 184559,
-      "word": "为梅西熬夜",
-      "onboard_time": 1669482029,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 184491,
@@ -51179,14 +51195,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 114736,
-      "num": 114736,
-      "word": "苏醒用娱乐圈比喻世界杯关系",
-      "onboard_time": 1669482925,
-      "rank": 45,
-      "category": "体育,艺人"
-    },
-    {
       "raw_hot": 114710,
       "num": 114710,
       "word": "一家四口演戏哄宝宝吃药",
@@ -51911,6 +51919,14 @@
       "num": 110034,
       "word": "卿卿日常好笑又好哭",
       "onboard_time": 1669046376,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 110018,
+      "num": 110018,
+      "word": "1899深度解析",
+      "onboard_time": 1669483704,
       "rank": 42,
       "category": "影视"
     },

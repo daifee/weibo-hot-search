@@ -1,6 +1,6 @@
 {
   "startTime": 1669479991529,
-  "endTime": 1669483004124,
+  "endTime": 1669484017850,
   "band_list": [
     {
       "raw_hot": 3152060,
@@ -51,8 +51,8 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 999251,
-      "num": 999251,
+      "raw_hot": 1211960,
+      "num": 1211960,
       "word": "法国vs丹麦",
       "onboard_time": 1669477667,
       "rank": 9,
@@ -75,6 +75,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 881780,
+      "num": 881780,
+      "word": "阿根廷vs墨西哥",
+      "onboard_time": 1669481732,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 753604,
       "num": 627006,
       "word": "蔡英文辞去民进党主席职务",
@@ -83,20 +91,28 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 723531,
-      "num": 723531,
-      "word": "阿根廷vs墨西哥",
-      "onboard_time": 1669481732,
-      "rank": 4,
-      "category": "体育"
-    },
-    {
       "raw_hot": 670391,
       "num": 670391,
       "word": "官方通报网传顺德核酸聚集踩踏事件",
       "onboard_time": 1669464403,
       "rank": 8,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 607135,
+      "num": 607135,
+      "word": "替梅西紧张",
+      "onboard_time": 1669480831,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 598949,
+      "num": 598949,
+      "word": "韩剧雨伞",
+      "onboard_time": 1669478679,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 594617,
@@ -131,20 +147,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 532965,
-      "num": 532965,
-      "word": "韩剧雨伞",
-      "onboard_time": 1669478679,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 524636,
-      "num": 524636,
-      "word": "替梅西紧张",
-      "onboard_time": 1669480831,
-      "rank": 37,
-      "category": "体育"
+      "raw_hot": 511305,
+      "num": 511305,
+      "word": "蛋炒饭要用隔夜米饭的原因",
+      "onboard_time": 1669480116,
+      "rank": 23,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 489839,
@@ -163,14 +171,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 434066,
-      "num": 434066,
-      "word": "蛋炒饭要用隔夜米饭的原因",
-      "onboard_time": 1669480116,
-      "rank": 23,
-      "category": "美食,幽默"
-    },
-    {
       "raw_hot": 421973,
       "num": 421973,
       "word": "波兰2比0沙特",
@@ -187,20 +187,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 373981,
+      "num": 373981,
+      "word": "苍盐海三巨头做客你好星期六",
+      "onboard_time": 1669482688,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 332180,
       "num": 332180,
       "word": "广州TTG",
       "onboard_time": 1669473414,
       "rank": 19,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 328130,
-      "num": 328130,
-      "word": "苍盐海三巨头做客你好星期六",
-      "onboard_time": 1669482688,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 324999,
@@ -299,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 237287,
+      "num": 237287,
+      "word": "苏醒用娱乐圈比喻世界杯关系",
+      "onboard_time": 1669482925,
+      "rank": 45,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 232868,
       "num": 232868,
       "word": "胡辣汤原来有25种以上调料",
@@ -371,6 +379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 193718,
+      "num": 193718,
+      "word": "沙特是怎么赢的阿根廷",
+      "onboard_time": 1669483222,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 193049,
       "num": 193049,
       "word": "法国半场0比0丹麦",
@@ -403,8 +419,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 184559,
-      "num": 184559,
+      "raw_hot": 186123,
+      "num": 186123,
       "word": "为梅西熬夜",
       "onboard_time": 1669482029,
       "rank": 29,
@@ -515,12 +531,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 114736,
-      "num": 114736,
-      "word": "苏醒用娱乐圈比喻世界杯关系",
-      "onboard_time": 1669482925,
-      "rank": 45,
-      "category": "体育,艺人"
+      "raw_hot": 110018,
+      "num": 110018,
+      "word": "1899深度解析",
+      "onboard_time": 1669483704,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 9675,
