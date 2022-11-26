@@ -1,6 +1,6 @@
 {
   "startTime": 1669393663708,
-  "endTime": 1669467231345,
+  "endTime": 1669469065959,
   "band_list": [
     {
       "raw_hot": 14766436,
@@ -33,6 +33,14 @@
       "onboard_time": 1669427861,
       "rank": 0,
       "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 7704547,
+      "num": 7704547,
+      "word": "核酸志愿者被居民发现是混阳",
+      "onboard_time": 1669466504,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 6991471,
@@ -123,6 +131,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1806937,
+      "num": 1806937,
+      "word": "郑州回应郑好办查出奥特曼核酸报告",
+      "onboard_time": 1669464166,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1742068,
       "num": 1742068,
       "word": "北京加快集中隔离场所和方舱医院储备建设",
@@ -137,14 +153,6 @@
       "onboard_time": 1669453960,
       "rank": 34,
       "category": "体育,幽默"
-    },
-    {
-      "raw_hot": 1589715,
-      "num": 1589715,
-      "word": "核酸志愿者被居民发现是混阳",
-      "onboard_time": 1669466504,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1514334,
@@ -168,14 +176,6 @@
       "word": "女子苦干12年赚钱给弟弟买房买车",
       "onboard_time": 1669455038,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1307056,
-      "num": 793126,
-      "word": "郑州回应郑好办查出奥特曼核酸报告",
-      "onboard_time": 1669464166,
-      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -257,6 +257,14 @@
       "onboard_time": 1669462300,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1018966,
+      "num": 1018966,
+      "word": "为什么iPhone用的时间长",
+      "onboard_time": 1669464944,
+      "rank": 27,
+      "category": "科技"
     },
     {
       "raw_hot": 1009407,
@@ -531,14 +539,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 670631,
-      "num": 670631,
-      "word": "为什么iPhone用的时间长",
-      "onboard_time": 1669464944,
-      "rank": 27,
-      "category": "科技"
-    },
-    {
       "raw_hot": 664182,
       "num": 602356,
       "word": "张真源北京大学生音乐节舞台镜头",
@@ -595,6 +595,14 @@
       "category": "体育,财经"
     },
     {
+      "raw_hot": 599484,
+      "num": 599484,
+      "word": "冬天氛围感歌单有多治愈",
+      "onboard_time": 1669468846,
+      "rank": 10,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 593805,
       "num": 593805,
       "word": "Deft",
@@ -625,6 +633,14 @@
       "onboard_time": 1669429785,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 553404,
+      "num": 553404,
+      "word": "新国展方舱医院快递可送达",
+      "onboard_time": 1669466981,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 547362,
@@ -779,6 +795,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 473798,
+      "num": 473798,
+      "word": "波兰vs沙特阿拉伯",
+      "onboard_time": 1669462541,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 470684,
+      "num": 470684,
+      "word": "周震南比R1SE手势",
+      "onboard_time": 1669468181,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 469842,
       "num": 469842,
       "word": "现在瑜伽裤的模特是怎么回事",
@@ -849,6 +881,14 @@
       "onboard_time": 1669462180,
       "rank": 34,
       "category": "体育,动漫"
+    },
+    {
+      "raw_hot": 443354,
+      "num": 443354,
+      "word": "刘耀文唱青春修炼手册",
+      "onboard_time": 1669467705,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 438650,
@@ -971,6 +1011,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 404836,
+      "num": 387833,
+      "word": "gidleMMA颁奖礼舞台",
+      "onboard_time": 1669468547,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 402846,
       "num": 402846,
       "word": "儿媳谎称以旧换新哄71岁婆婆扔旧鞋",
@@ -1027,6 +1075,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 388521,
+      "num": 388521,
+      "word": "张碧晨live气息好稳",
+      "onboard_time": 1669467942,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 382990,
       "num": 382990,
       "word": "朱一龙获金莲花奖最佳男主角提名",
@@ -1065,6 +1121,14 @@
       "onboard_time": 1669439922,
       "rank": 16,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 368772,
+      "num": 368772,
+      "word": "宋亚轩无尽的冒险怼脸镜头",
+      "onboard_time": 1669467705,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 366166,
@@ -1115,6 +1179,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 354408,
+      "num": 354408,
+      "word": "百视TV",
+      "onboard_time": 1669468665,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 353758,
       "num": 322068,
       "word": "吴亦凡偷税手法曝光",
@@ -1163,6 +1235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 344097,
+      "num": 344097,
+      "word": "你离王嘉尔可以有多近",
+      "onboard_time": 1669464944,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 340535,
       "num": 340535,
       "word": "MMA",
@@ -1171,19 +1251,19 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 337589,
-      "num": 337589,
-      "word": "你离王嘉尔可以有多近",
-      "onboard_time": 1669464944,
-      "rank": 28,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 336405,
       "num": 336405,
       "word": "严浩翔新歌RightTrack重庆话rap",
       "onboard_time": 1669432242,
       "rank": 18,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 330679,
+      "num": 330679,
+      "word": "张艺兴第九封明信片",
+      "onboard_time": 1669468547,
+      "rank": 32,
       "category": "音乐"
     },
     {
@@ -1289,6 +1369,14 @@
       "onboard_time": 1669388829,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 302327,
+      "num": 302327,
+      "word": "0713唱直到世界尽头",
+      "onboard_time": 1669468724,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 299524,
@@ -1459,6 +1547,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 257594,
+      "num": 257594,
+      "word": "男子花23万农村建4层楼占地120平",
+      "onboard_time": 1669468122,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 256602,
       "num": 256602,
       "word": "陈飞宇张婧仪最新片场对戏花絮",
@@ -1553,6 +1649,14 @@
       "onboard_time": 1669443217,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 238488,
+      "num": 238488,
+      "word": "杭州一法拉利在隧道自燃烧成空壳",
+      "onboard_time": 1669466263,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 237999,
@@ -1803,6 +1907,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 197135,
+      "num": 197135,
+      "word": "九尾武则天MVP",
+      "onboard_time": 1669467164,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 196622,
       "num": 196622,
       "word": "C罗球衣有股字典味",
@@ -1939,6 +2051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 184913,
+      "num": 184913,
+      "word": "如果能拥有个尾巴是什么体验",
+      "onboard_time": 1669467345,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 184415,
       "num": 184415,
       "word": "命韵峋环一个嘴硬一个口是心非",
@@ -1955,14 +2075,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 182723,
-      "num": 182723,
-      "word": "杭州一法拉利在隧道自燃烧成空壳",
-      "onboard_time": 1669466263,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 181040,
       "num": 181040,
       "word": "卡塔尔来到淘汰边缘",
@@ -1976,14 +2088,6 @@
       "word": "萌娃自助餐狂喝饮料变皮球肚",
       "onboard_time": 1669426418,
       "rank": 40,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 178707,
-      "num": 178707,
-      "word": "新国展方舱医院快递可送达",
-      "onboard_time": 1669466981,
-      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -2041,14 +2145,6 @@
       "onboard_time": 1669441781,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 167902,
-      "num": 167902,
-      "word": "波兰vs沙特阿拉伯",
-      "onboard_time": 1669462541,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 166332,
@@ -2169,14 +2265,6 @@
       "onboard_time": 1669399823,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 144130,
-      "num": 144130,
-      "word": "九尾武则天MVP",
-      "onboard_time": 1669467164,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 142098,
@@ -2505,6 +2593,14 @@
       "onboard_time": 1669404135,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 23290,
+      "num": 2127649,
+      "word": "多视角看歼15航母起降全过程",
+      "onboard_time": 1669435239,
+      "rank": 2,
+      "category": "国内要闻"
     }
   ],
   "hotgov_list": [
