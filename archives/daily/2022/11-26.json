@@ -1,6 +1,6 @@
 {
   "startTime": 1669393663708,
-  "endTime": 1669475940940,
+  "endTime": 1669476895430,
   "band_list": [
     {
       "raw_hot": 14766436,
@@ -147,6 +147,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 2276281,
+      "num": 2276281,
+      "word": "北京理工大学一名学生核酸呈阳性",
+      "onboard_time": 1669473888,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1992998,
+      "num": 1992998,
+      "word": "20条严禁长时间不解封",
+      "onboard_time": 1669474551,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1886753,
       "num": 1886753,
       "word": "波兰2比0沙特",
@@ -169,14 +185,6 @@
       "onboard_time": 1669453960,
       "rank": 34,
       "category": "体育,幽默"
-    },
-    {
-      "raw_hot": 1588713,
-      "num": 1588713,
-      "word": "北京理工大学一名学生核酸呈阳性",
-      "onboard_time": 1669473888,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1514334,
@@ -307,14 +315,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1049496,
-      "num": 1049496,
-      "word": "20条严禁长时间不解封",
-      "onboard_time": 1669474551,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1044969,
       "num": 1044969,
       "word": "孙颖莎",
@@ -419,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 843215,
+      "num": 843215,
+      "word": "卡塔尔球迷要立刻办闭幕式",
+      "onboard_time": 1669475334,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 842940,
       "num": 842940,
       "word": "卡卡说C罗是个非常棒的小伙",
@@ -497,6 +505,14 @@
       "onboard_time": 1669471253,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 770328,
+      "num": 770328,
+      "word": "许凯一秒认出杨幂眼睛",
+      "onboard_time": 1669474912,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 767561,
@@ -643,6 +659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 649128,
+      "num": 649128,
+      "word": "C罗请葡萄牙全队聚餐",
+      "onboard_time": 1669471557,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 644121,
       "num": 644121,
       "word": "卡塔尔 回家",
@@ -675,6 +699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 625247,
+      "num": 625247,
+      "word": "广州TTG",
+      "onboard_time": 1669473414,
+      "rank": 15,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 614426,
       "num": 614426,
       "word": "叶舒华高开叉长裙造型",
@@ -689,14 +721,6 @@
       "onboard_time": 1669422940,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 607370,
-      "num": 607370,
-      "word": "广州TTG",
-      "onboard_time": 1669473414,
-      "rank": 15,
-      "category": "游戏"
     },
     {
       "raw_hot": 602918,
@@ -761,14 +785,6 @@
       "onboard_time": 1669429785,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 558424,
-      "num": 558424,
-      "word": "许凯一秒认出杨幂眼睛",
-      "onboard_time": 1669474912,
-      "rank": 18,
-      "category": "影视"
     },
     {
       "raw_hot": 547362,
@@ -857,6 +873,14 @@
       "onboard_time": 1669470530,
       "rank": 16,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 517132,
+      "num": 353897,
+      "word": "女租客没回信息男房东擅闯房间",
+      "onboard_time": 1669475754,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 513889,
@@ -1059,6 +1083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 442665,
+      "num": 442665,
+      "word": "胡辣汤原来有25种以上调料",
+      "onboard_time": 1669473710,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 438650,
       "num": 438650,
       "word": "一踩奶就变小老头的猫咪",
@@ -1115,14 +1147,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 426537,
-      "num": 426537,
-      "word": "C罗请葡萄牙全队聚餐",
-      "onboard_time": 1669471557,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 425301,
       "num": 425301,
       "word": "官方回应北京一感染者求助安置猫咪",
@@ -1177,14 +1201,6 @@
       "onboard_time": 1669435840,
       "rank": 19,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 409619,
-      "num": 409619,
-      "word": "胡辣汤原来有25种以上调料",
-      "onboard_time": 1669473710,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 407539,
@@ -1281,14 +1297,6 @@
       "onboard_time": 1669389067,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 376809,
-      "num": 376809,
-      "word": "卡塔尔球迷要立刻办闭幕式",
-      "onboard_time": 1669475334,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 376349,
@@ -1523,12 +1531,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 319568,
+      "num": 319568,
+      "word": "刘畊宏为阿根廷梅西加油",
+      "onboard_time": 1669476350,
+      "rank": 34,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 317259,
       "num": 317259,
       "word": "男孩说中国队去踢死他们爸爸无言以对",
       "onboard_time": 1669379755,
       "rank": 28,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 316735,
+      "num": 316735,
+      "word": "0713你要跳舞吗舞台满地打滚",
+      "onboard_time": 1669476051,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 313571,
@@ -1632,6 +1656,14 @@
       "word": "张凌赫你好星期六造型梦回长珩",
       "onboard_time": 1669435782,
       "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 291585,
+      "num": 291585,
+      "word": "张凌赫你好星期六比耶自拍",
+      "onboard_time": 1669476531,
+      "rank": 36,
       "category": "综艺"
     },
     {
@@ -1803,6 +1835,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 260320,
+      "num": 260320,
+      "word": "当小时代的豪宅照进现实",
+      "onboard_time": 1669476649,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 256602,
       "num": 256602,
       "word": "陈飞宇张婧仪最新片场对戏花絮",
@@ -1883,6 +1923,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 242510,
+      "num": 242510,
+      "word": "TTG醒醒",
+      "onboard_time": 1669476774,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 241249,
       "num": 238486,
       "word": "丁程鑫唱鱼舞台氛围感",
@@ -1915,14 +1963,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 239033,
-      "num": 239033,
-      "word": "女租客没回信息男房东擅闯房间",
-      "onboard_time": 1669475754,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 237999,
       "num": 237999,
       "word": "内马尔颜值巅峰",
@@ -1952,6 +1992,14 @@
       "word": "伊朗球员庆祝绝杀掐主教练脖子",
       "onboard_time": 1669382519,
       "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 232681,
+      "num": 232681,
+      "word": "泽林斯基破门",
+      "onboard_time": 1669472636,
+      "rank": 48,
       "category": "体育"
     },
     {

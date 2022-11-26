@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1669475940940,
+  "endTime": 1669476895430,
   "band_list": [
     {
       "raw_hot": 36651023,
@@ -1187,6 +1187,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 2276281,
+      "num": 2276281,
+      "word": "北京理工大学一名学生核酸呈阳性",
+      "onboard_time": 1669473888,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2263923,
       "num": 1042630,
       "word": "金铁霖去世",
@@ -1561,6 +1569,14 @@
       "onboard_time": 1668937588,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1992998,
+      "num": 1992998,
+      "word": "20条严禁长时间不解封",
+      "onboard_time": 1669474551,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1978467,
@@ -2504,14 +2520,6 @@
       "word": "人还活着却被人网络祭奠4.3万次",
       "onboard_time": 1668986662,
       "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1588713,
-      "num": 1588713,
-      "word": "北京理工大学一名学生核酸呈阳性",
-      "onboard_time": 1669473888,
-      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -5003,14 +5011,6 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 1049496,
-      "num": 1049496,
-      "word": "20条严禁长时间不解封",
-      "onboard_time": 1669474551,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1048708,
       "num": 407624,
       "word": "肖战打网球潜水冲浪vlog",
@@ -7067,6 +7067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 843215,
+      "num": 843215,
+      "word": "卡塔尔球迷要立刻办闭幕式",
+      "onboard_time": 1669475334,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 842999,
       "num": 842999,
       "word": "LWX",
@@ -8001,6 +8009,14 @@
       "onboard_time": 1667784986,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 770328,
+      "num": 770328,
+      "word": "许凯一秒认出杨幂眼睛",
+      "onboard_time": 1669474912,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 770216,
@@ -10307,6 +10323,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 649128,
+      "num": 649128,
+      "word": "C罗请葡萄牙全队聚餐",
+      "onboard_time": 1669471557,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 649125,
       "num": 500966,
       "word": "武汉快递",
@@ -10867,6 +10891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 625247,
+      "num": 625247,
+      "word": "广州TTG",
+      "onboard_time": 1669473414,
+      "rank": 15,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 625106,
       "num": 625106,
       "word": "iPhone14Pro息屏可不显示壁纸",
@@ -11289,14 +11321,6 @@
       "onboard_time": 1669191575,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 607370,
-      "num": 607370,
-      "word": "广州TTG",
-      "onboard_time": 1669473414,
-      "rank": 15,
-      "category": "游戏"
     },
     {
       "raw_hot": 606920,
@@ -12665,14 +12689,6 @@
       "onboard_time": 1667863883,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 558424,
-      "num": 558424,
-      "word": "许凯一秒认出杨幂眼睛",
-      "onboard_time": 1669474912,
-      "rank": 18,
-      "category": "影视"
     },
     {
       "raw_hot": 557994,
@@ -14257,6 +14273,14 @@
       "onboard_time": 1669119306,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 517132,
+      "num": 353897,
+      "word": "女租客没回信息男房东擅闯房间",
+      "onboard_time": 1669475754,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 517025,
@@ -17395,6 +17419,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 442665,
+      "num": 442665,
+      "word": "胡辣汤原来有25种以上调料",
+      "onboard_time": 1669473710,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 442534,
       "num": 442534,
       "word": "内马尔发博庆祝首胜",
@@ -18312,14 +18344,6 @@
       "word": "朱广权押韵评C罗五战世界杯",
       "onboard_time": 1669310539,
       "rank": 19,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 426537,
-      "num": 426537,
-      "word": "C罗请葡萄牙全队聚餐",
-      "onboard_time": 1669471557,
-      "rank": 27,
       "category": "体育"
     },
     {
@@ -19272,14 +19296,6 @@
       "word": "朝阳打歌中心",
       "onboard_time": 1668748412,
       "rank": 41,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 409619,
-      "num": 409619,
-      "word": "胡辣汤原来有25种以上调料",
-      "onboard_time": 1669473710,
-      "rank": 29,
       "category": "综艺"
     },
     {
@@ -21201,14 +21217,6 @@
       "onboard_time": 1668867817,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 376809,
-      "num": 376809,
-      "word": "卡塔尔球迷要立刻办闭幕式",
-      "onboard_time": 1669475334,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 376776,
@@ -25227,6 +25235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 319568,
+      "num": 319568,
+      "word": "刘畊宏为阿根廷梅西加油",
+      "onboard_time": 1669476350,
+      "rank": 34,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 319511,
       "num": 319511,
       "word": "大龄程序员为了再就业有多拼",
@@ -25449,6 +25465,14 @@
       "onboard_time": 1668324867,
       "rank": 49,
       "category": "社会正能量,教育"
+    },
+    {
+      "raw_hot": 316735,
+      "num": 316735,
+      "word": "0713你要跳舞吗舞台满地打滚",
+      "onboard_time": 1669476051,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 316623,
@@ -27369,6 +27393,14 @@
       "onboard_time": 1668609273,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 291585,
+      "num": 291585,
+      "word": "张凌赫你好星期六比耶自拍",
+      "onboard_time": 1669476531,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 291413,
@@ -30267,6 +30299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 260320,
+      "num": 260320,
+      "word": "当小时代的豪宅照进现实",
+      "onboard_time": 1669476649,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 260281,
       "num": 260281,
       "word": "歼20垂直拉升直插云海",
@@ -31803,6 +31843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 242510,
+      "num": 242510,
+      "word": "TTG醒醒",
+      "onboard_time": 1669476774,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 242376,
       "num": 204900,
       "word": "gidle新歌NXDE音乐中心一位",
@@ -32073,14 +32121,6 @@
       "onboard_time": 1667823266,
       "rank": 18,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 239033,
-      "num": 239033,
-      "word": "女租客没回信息男房东擅闯房间",
-      "onboard_time": 1669475754,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 238960,
@@ -32745,6 +32785,14 @@
       "onboard_time": 1667460684,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 232681,
+      "num": 232681,
+      "word": "泽林斯基破门",
+      "onboard_time": 1669472636,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 232612,
