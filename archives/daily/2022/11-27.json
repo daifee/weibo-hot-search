@@ -1,6 +1,6 @@
 {
   "startTime": 1669479991529,
-  "endTime": 1669494854857,
+  "endTime": 1669497405709,
   "band_list": [
     {
       "raw_hot": 3152060,
@@ -11,6 +11,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2544387,
+      "num": 2544387,
+      "word": "梅西破门",
+      "onboard_time": 1669495452,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2508136,
       "num": 2508136,
       "word": "20条严禁长时间不解封",
@@ -19,8 +27,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1902977,
-      "num": 1902977,
+      "raw_hot": 2193408,
+      "num": 2193408,
       "word": "阿根廷vs墨西哥",
       "onboard_time": 1669481732,
       "rank": 4,
@@ -75,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 938305,
+      "num": 938305,
+      "word": "墨西哥球迷大喊梅西回家",
+      "onboard_time": 1669490956,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 904569,
       "num": 904569,
       "word": "卡塔尔球迷要立刻办闭幕式",
@@ -88,14 +104,6 @@
       "word": "沙特是怎么赢的阿根廷",
       "onboard_time": 1669483222,
       "rank": 25,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 805924,
-      "num": 805924,
-      "word": "墨西哥球迷大喊梅西回家",
-      "onboard_time": 1669490956,
-      "rank": 33,
       "category": "体育"
     },
     {
@@ -153,6 +161,14 @@
       "onboard_time": 1669478147,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 539902,
+      "num": 339411,
+      "word": "梅西一定要赢啊",
+      "onboard_time": 1669493235,
+      "rank": 11,
+      "category": "体育,幽默"
     },
     {
       "raw_hot": 534504,
@@ -219,12 +235,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 399685,
-      "num": 192637,
-      "word": "梅西一定要赢啊",
-      "onboard_time": 1669493235,
-      "rank": 11,
-      "category": "体育,幽默"
+      "raw_hot": 416055,
+      "num": 187256,
+      "word": "内马尔晒脚踝伤势",
+      "onboard_time": 1669495875,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 405780,
+      "num": 405780,
+      "word": "美国禁止华为中兴等5家中企在美销售设备",
+      "onboard_time": 1669493714,
+      "rank": 49,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 384209,
@@ -467,6 +491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 194122,
+      "num": 194122,
+      "word": "阿根廷2比0墨西哥",
+      "onboard_time": 1669496776,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 193049,
       "num": 193049,
       "word": "法国半场0比0丹麦",
@@ -547,6 +579,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 167659,
+      "num": 167659,
+      "word": "费尔南德斯世界波",
+      "onboard_time": 1669496657,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 166929,
       "num": 166929,
       "word": "TTG醒醒",
@@ -571,20 +611,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 156598,
+      "num": 156598,
+      "word": "阿根廷vs墨西哥首发",
+      "onboard_time": 1669491674,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 149948,
       "num": 122040,
       "word": "每天8杯水或超过大多数人真正需水量",
       "onboard_time": 1669489756,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 146925,
-      "num": 146925,
-      "word": "阿根廷vs墨西哥首发",
-      "onboard_time": 1669491674,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 146397,
@@ -601,6 +641,14 @@
       "onboard_time": 1669486042,
       "rank": 27,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 132342,
+      "num": 43673,
+      "word": "姆巴佩庆祝晋级",
+      "onboard_time": 1669494674,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 131042,
@@ -627,8 +675,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 116698,
+      "num": 43369,
+      "word": "阿根廷锁定胜局",
+      "onboard_time": 1669496956,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 113730,
-      "num": 60597,
+      "num": 66552,
       "word": "阿根廷球迷一路高歌进场",
       "onboard_time": 1669488077,
       "rank": 31,
@@ -643,35 +699,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 97128,
+      "num": 97128,
+      "word": "阿根廷半场0比0墨西哥",
+      "onboard_time": 1669494074,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 93284,
-      "num": 60516,
+      "num": 70388,
       "word": "墨西哥球迷是懂内涵的",
       "onboard_time": 1669488737,
       "rank": 32,
       "category": "体育"
     },
     {
-      "raw_hot": 91601,
-      "num": 91601,
-      "word": "美国禁止华为中兴等5家中企在美销售设备",
-      "onboard_time": 1669493714,
-      "rank": 49,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 88453,
-      "num": 35893,
+      "num": 42757,
       "word": "马宁担任法国丹麦第四官员",
       "onboard_time": 1669491976,
       "rank": 31,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 68254,
-      "num": 68254,
-      "word": "阿根廷半场0比0墨西哥",
-      "onboard_time": 1669494074,
-      "rank": 17,
       "category": "体育"
     },
     {
@@ -683,12 +731,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 35982,
-      "num": 32991,
-      "word": "姆巴佩庆祝晋级",
-      "onboard_time": 1669494674,
-      "rank": 33,
-      "category": "体育"
+      "raw_hot": 22966,
+      "num": 22966,
+      "word": "宝爸用铁轨小火车驮婴儿车遛娃",
+      "onboard_time": 1669497196,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 9675,
