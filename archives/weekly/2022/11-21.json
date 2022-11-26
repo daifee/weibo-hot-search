@@ -1,6 +1,6 @@
 {
   "startTime": 1668961718135,
-  "endTime": 1669472199201,
+  "endTime": 1669473212946,
   "band_list": [
     {
       "raw_hot": 36651023,
@@ -115,8 +115,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 7226508,
-      "num": 8476508,
+      "raw_hot": 7452237,
+      "num": 8574631,
       "word": "蔡英文辞去民进党主席职务",
       "onboard_time": 1669470776,
       "rank": 1,
@@ -2499,6 +2499,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 790226,
+      "num": 790226,
+      "word": "北京昌平一社区两小时开通购菜接龙",
+      "onboard_time": 1669470410,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 786894,
       "num": 786894,
       "word": "9岁女童档口持刀杀鱼扒鳞",
@@ -2537,6 +2545,14 @@
       "onboard_time": 1669370814,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 773275,
+      "num": 773275,
+      "word": "沙特点球没进",
+      "onboard_time": 1669471253,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 773220,
@@ -3667,14 +3683,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 596722,
-      "num": 596722,
-      "word": "北京昌平一社区两小时开通购菜接龙",
-      "onboard_time": 1669470410,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 594930,
       "num": 594930,
       "word": "里沙利松倒钩",
@@ -3721,6 +3729,14 @@
       "onboard_time": 1669219237,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 593621,
+      "num": 593621,
+      "word": "shadow",
+      "onboard_time": 1669471621,
+      "rank": 21,
+      "category": "游戏"
     },
     {
       "raw_hot": 591406,
@@ -4371,6 +4387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 529092,
+      "num": 529092,
+      "word": "九尾",
+      "onboard_time": 1669472452,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 528564,
       "num": 398809,
       "word": "谢娜说努力了尽力了就好",
@@ -4417,6 +4441,14 @@
       "onboard_time": 1669442140,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 524333,
+      "num": 524333,
+      "word": "IVE今天赢麻了",
+      "onboard_time": 1669472516,
+      "rank": 17,
+      "category": "音乐"
     },
     {
       "raw_hot": 523601,
@@ -4729,14 +4761,6 @@
       "onboard_time": 1669459839,
       "rank": 18,
       "category": "美食,社会新闻"
-    },
-    {
-      "raw_hot": 498296,
-      "num": 498296,
-      "word": "沙特点球没进",
-      "onboard_time": 1669471253,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 497387,
@@ -5827,14 +5851,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 425532,
-      "num": 425532,
-      "word": "shadow",
-      "onboard_time": 1669471621,
-      "rank": 21,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 425301,
       "num": 425301,
       "word": "官方回应北京一感染者求助安置猫咪",
@@ -6067,6 +6083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 411924,
+      "num": 411924,
+      "word": "男子花23万农村建4层楼占地120平",
+      "onboard_time": 1669468122,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 411710,
       "num": 411710,
       "word": "沙特球迷请求墨西哥淘汰阿根廷",
@@ -6167,14 +6191,6 @@
       "num": 409189,
       "word": "240斤男子为结婚5个月减90斤",
       "onboard_time": 1669012772,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 408871,
-      "num": 408871,
-      "word": "男子花23万农村建4层楼占地120平",
-      "onboard_time": 1669468122,
       "rank": 37,
       "category": "社会新闻"
     },
@@ -7025,6 +7041,14 @@
       "onboard_time": 1669388715,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 365253,
+      "num": 365253,
+      "word": "波兰半场1比0沙特",
+      "onboard_time": 1669471979,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 363853,
@@ -9187,6 +9211,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 278607,
+      "num": 278607,
+      "word": "波兰门将",
+      "onboard_time": 1669472575,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 278367,
       "num": 278367,
       "word": "女子做理疗被绑摇摆床扭成美人鱼",
@@ -9515,6 +9547,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 265312,
+      "num": 265312,
+      "word": "00后民警第1次收到锦旗有多开心",
+      "onboard_time": 1669472218,
+      "rank": 33,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 264972,
       "num": 264972,
       "word": "女子花钱救狗反被咬网友说活该",
@@ -9705,6 +9745,14 @@
       "onboard_time": 1669205557,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 259317,
+      "num": 259317,
+      "word": "沙特 假摔",
+      "onboard_time": 1669472933,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 258656,
@@ -10011,14 +10059,6 @@
       "category": "美食,社会新闻"
     },
     {
-      "raw_hot": 248990,
-      "num": 248990,
-      "word": "波兰半场1比0沙特",
-      "onboard_time": 1669471979,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 248592,
       "num": 244145,
       "word": "刘恋说又体面地送走了一只鸡",
@@ -10291,6 +10331,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 238726,
+      "num": 238726,
+      "word": "上海街头现外来物种鳄龟",
+      "onboard_time": 1669472753,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 238376,
       "num": 238376,
       "word": "男子在卡塔尔逛商场发现纯金手机",
@@ -10417,6 +10465,14 @@
       "onboard_time": 1669377118,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 232612,
+      "num": 232612,
+      "word": "小伙不顾扭伤飞身跨栏救人",
+      "onboard_time": 1669472933,
+      "rank": 43,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 232474,
@@ -10699,6 +10755,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 224676,
+      "num": 224676,
+      "word": "什琴斯尼扑点",
+      "onboard_time": 1669472874,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 224413,
       "num": 224413,
       "word": "75%未成年每周游戏少于3小时",
@@ -10963,6 +11027,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 218098,
+      "num": 218098,
+      "word": "鲁能",
+      "onboard_time": 1669472575,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 217980,
       "num": 217980,
       "word": "陈飞宇李峋霸气宣言",
@@ -11216,6 +11288,14 @@
       "word": "靳东成毅蔡文静底线豆瓣开分7.3",
       "onboard_time": 1669432185,
       "rank": 36,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 213831,
+      "num": 213831,
+      "word": "飞驰人生",
+      "onboard_time": 1669472093,
+      "rank": 49,
       "category": "影视"
     },
     {
@@ -11753,6 +11833,14 @@
       "onboard_time": 1669037803,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 200956,
+      "num": 200956,
+      "word": "解说杯搞子盾队夺冠",
+      "onboard_time": 1669473179,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 200816,
@@ -12337,14 +12425,6 @@
       "onboard_time": 1669467345,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 190798,
-      "num": 190798,
-      "word": "飞驰人生",
-      "onboard_time": 1669472093,
-      "rank": 49,
-      "category": "影视"
     },
     {
       "raw_hot": 190791,
