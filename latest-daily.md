@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/27 00:26:31 ~ 2022/11/27 02:23:07
+本榜单时间：2022/11/27 00:26:31 ~ 2022/11/27 02:38:03
 </p>
 </blockquote>
 <p>
@@ -76,7 +76,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%99%E7%89%B9%E6%98%AF%E6%80%8E%E4%B9%88%E8%B5%A2%E7%9A%84%E9%98%BF%E6%A0%B9%E5%BB%B7%23" target="weibo">
-沙特是怎么赢的阿根廷（热度：824713）
+沙特是怎么赢的阿根廷（热度：869378）
 </a>
 </li>
 
@@ -130,7 +130,7 @@ C罗请葡萄牙全队聚餐（热度：534504）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E9%86%92%E7%94%A8%E5%A8%B1%E4%B9%90%E5%9C%88%E6%AF%94%E5%96%BB%E4%B8%96%E7%95%8C%E6%9D%AF%E5%85%B3%E7%B3%BB%23" target="weibo">
-苏醒用娱乐圈比喻世界杯关系（热度：522507）
+苏醒用娱乐圈比喻世界杯关系（热度：534017）
 </a>
 </li>
 
@@ -231,6 +231,12 @@ IVE获奖后安宥真哭了（热度：293518）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A7%86%E5%B7%B4%E4%BD%A9%E5%A4%AA%E5%BC%BA%E4%BA%86%23" target="weibo">
+姆巴佩太强了（热度：280039）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E7%95%8A%E5%AE%8F%E4%B8%BA%E9%98%BF%E6%A0%B9%E5%BB%B7%E6%A2%85%E8%A5%BF%E5%8A%A0%E6%B2%B9%23" target="weibo">
 刘畊宏为阿根廷梅西加油（热度：276023）
 </a>
@@ -238,7 +244,7 @@ IVE获奖后安宥真哭了（热度：293518）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E6%A2%85%E8%A5%BF%E7%86%AC%E5%A4%9C%23" target="weibo">
-为梅西熬夜（热度：273839）
+为梅西熬夜（热度：274798）
 </a>
 </li>
 
@@ -327,12 +333,6 @@ IVE获奖后安宥真哭了（热度：293518）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A7%86%E5%B7%B4%E4%BD%A9%E5%A4%AA%E5%BC%BA%E4%BA%86%23" target="weibo">
-姆巴佩太强了（热度：198993）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD%E5%8D%8A%E5%9C%BA0%E6%AF%940%E4%B8%B9%E9%BA%A6%23" target="weibo">
 法国半场0比0丹麦（热度：193049）
 </a>
@@ -417,14 +417,14 @@ TTG醒醒（热度：166929）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD%E9%98%9F%E6%99%8B%E7%BA%A7%E4%B8%96%E7%95%8C%E6%9D%AF16%E5%BC%BA%23" target="weibo">
-法国队晋级世界杯16强（热度：144223）
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E8%AE%A9%E5%B8%8C%E6%9C%9B%EF%BC%A3%E7%BD%97%E6%88%96%E8%80%85%E6%A2%85%E8%A5%BF%E4%B8%BE%E8%B5%B7%E5%A4%A7%E5%8A%9B%E7%A5%9E%E6%9D%AF%23" target="weibo">
+赵让希望Ｃ罗或者梅西举起大力神杯（热度：145442）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E8%AE%A9%E5%B8%8C%E6%9C%9B%EF%BC%A3%E7%BD%97%E6%88%96%E8%80%85%E6%A2%85%E8%A5%BF%E4%B8%BE%E8%B5%B7%E5%A4%A7%E5%8A%9B%E7%A5%9E%E6%9D%AF%23" target="weibo">
-赵让希望Ｃ罗或者梅西举起大力神杯（热度：137419）
+<a href="https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD%E9%98%9F%E6%99%8B%E7%BA%A7%E4%B8%96%E7%95%8C%E6%9D%AF16%E5%BC%BA%23" target="weibo">
+法国队晋级世界杯16强（热度：144223）
 </a>
 </li>
 
@@ -454,7 +454,13 @@ TTG醒醒（热度：166929）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E6%98%AF%E6%97%B6%E5%80%99%E5%B1%95%E7%A4%BA%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AE%9E%E5%8A%9B%E4%BA%86%23" target="weibo">
-梅西是时候展示真正的实力了（热度：71747）
+梅西是时候展示真正的实力了（热度：102922）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD%E7%BB%88%E7%BB%93%E5%8D%AB%E5%86%95%E5%86%A0%E5%86%9B%E5%87%BA%E5%B1%80%E9%AD%94%E5%92%92%23" target="weibo">
+法国终结卫冕冠军出局魔咒（热度：75439）
 </a>
 </li>
 
