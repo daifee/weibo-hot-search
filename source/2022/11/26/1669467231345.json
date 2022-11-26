@@ -1,0 +1,410 @@
+{
+  "runTime": 1669467231345,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4049723,
+        "num": 4049723,
+        "word": "官方通报网传顺德核酸聚集踩踏事件",
+        "onboard_time": 1669464403,
+        "rank": 0,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 2383311,
+        "num": 2383311,
+        "word": "乌鲁木齐市1124火灾四问",
+        "onboard_time": 1669453658,
+        "rank": 1,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 2151524,
+        "num": 2151524,
+        "word": "郑好办",
+        "onboard_time": 1669455881,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1589715,
+        "num": 1589715,
+        "word": "核酸志愿者被居民发现是混阳",
+        "onboard_time": 1669466504,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1078036,
+        "num": 1078036,
+        "word": "卡塔尔人输急眼了",
+        "onboard_time": 1669453960,
+        "rank": 4,
+        "category": "体育,幽默"
+      },
+      {
+        "raw_hot": 994691,
+        "num": 994691,
+        "word": "确保20条措施不折不扣不走样成关键",
+        "onboard_time": 1669453539,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 877985,
+        "num": 877985,
+        "word": "孙颖莎",
+        "onboard_time": 1669462300,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25240,
+        "num": 814307,
+        "word": "冬季限定美景硝花可以有多美",
+        "onboard_time": 1669433504,
+        "rank": 7,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 755411,
+        "num": 755411,
+        "word": "重庆一大学疫情中的异地恋情侣",
+        "onboard_time": 1669462963,
+        "rank": 8,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 718719,
+        "num": 718719,
+        "word": "卡塔尔饺子皮出新皮肤了",
+        "onboard_time": 1669461762,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1307056,
+        "num": 718074,
+        "word": "郑州回应郑好办查出奥特曼核酸报告",
+        "onboard_time": 1669464166,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 716722,
+        "num": 716722,
+        "word": "女子苦干12年赚钱给弟弟买房买车",
+        "onboard_time": 1669455038,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 709840,
+        "num": 709840,
+        "word": "张杰说我人生只会画这一个图",
+        "onboard_time": 1669464582,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 670631,
+        "num": 670631,
+        "word": "为什么iPhone用的时间长",
+        "onboard_time": 1669464944,
+        "rank": 13,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 650638,
+        "num": 650638,
+        "word": "BLG Doinb",
+        "onboard_time": 1669463861,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 536723,
+        "num": 536723,
+        "word": "哈利波特",
+        "onboard_time": 1669460563,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 524173,
+        "num": 524173,
+        "word": "叶舒华高开叉长裙造型",
+        "onboard_time": 1669463861,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 486002,
+        "num": 486002,
+        "word": "北京新增本土感染者2454例",
+        "onboard_time": 1669456001,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 474695,
+        "num": 474695,
+        "word": "Deft",
+        "onboard_time": 1669462421,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 447594,
+        "num": 447594,
+        "word": "玲娜贝儿跳wakawaka",
+        "onboard_time": 1669462180,
+        "rank": 19,
+        "category": "体育,动漫"
+      },
+      {
+        "raw_hot": 445873,
+        "num": 445873,
+        "word": "C罗或去大巴黎与梅西合作",
+        "onboard_time": 1669460263,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 438650,
+        "num": 438650,
+        "word": "一踩奶就变小老头的猫咪",
+        "onboard_time": 1669464462,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 421400,
+        "num": 421400,
+        "word": "英格兰威尔士球迷爆发冲突",
+        "onboard_time": 1669464641,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 410561,
+        "num": 410561,
+        "word": "女子16万买2车库精装修后入住",
+        "onboard_time": 1669453658,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 367863,
+        "num": 367863,
+        "word": "沙特球迷请求墨西哥淘汰阿根廷",
+        "onboard_time": 1669461703,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 353938,
+        "num": 353938,
+        "word": "郑州未经沟通将870人运抵徐州",
+        "onboard_time": 1669435721,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 337589,
+        "num": 337589,
+        "word": "你离王嘉尔可以有多近",
+        "onboard_time": 1669464944,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 286581,
+        "num": 286581,
+        "word": "重庆一男子被曝小区内多次猥亵小孩",
+        "onboard_time": 1669454740,
+        "rank": 27,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 281725,
+        "num": 281725,
+        "word": "蔡卓妍与郑伊健同框合照",
+        "onboard_time": 1669462963,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268841,
+        "num": 281589,
+        "word": "男子抽搐吐血司机连闯2个红灯送医",
+        "onboard_time": 1669463379,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281550,
+        "num": 281550,
+        "word": "澳大利亚1比0突尼斯",
+        "onboard_time": 1669465238,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 276885,
+        "num": 276885,
+        "word": "演唱会现场感有多重要",
+        "onboard_time": 1669466441,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 272307,
+        "num": 272307,
+        "word": "IVE获MMA最佳女子组合",
+        "onboard_time": 1669461399,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 267164,
+        "num": 267164,
+        "word": "MAMA",
+        "onboard_time": 1669458037,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 261178,
+        "num": 261178,
+        "word": "gidle获MMA年度最佳MV",
+        "onboard_time": 1669466504,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 251840,
+        "num": 251840,
+        "word": "中村一叶今日solo舞台",
+        "onboard_time": 1669464878,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 228563,
+        "num": 228563,
+        "word": "姐姐想吃麻辣烫9岁弟弟研究制做",
+        "onboard_time": 1669459839,
+        "rank": 36,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 225601,
+        "num": 225601,
+        "word": "宋雨琦MMA红毯生图",
+        "onboard_time": 1669458639,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 213311,
+        "num": 213311,
+        "word": "男子被疑患肺癌竟是鸡骨滑入肺",
+        "onboard_time": 1669452216,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208373,
+        "num": 208373,
+        "word": "张婧仪怼脸生图",
+        "onboard_time": 1669452099,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 198419,
+        "num": 198419,
+        "word": "招聘小学数学老师要求风景园林专业",
+        "onboard_time": 1669452514,
+        "rank": 40,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 196910,
+        "num": 196910,
+        "word": "虞书欣拍的许凯",
+        "onboard_time": 1669452875,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 190602,
+        "num": 190602,
+        "word": "宋亚轩今晚独唱每个眼神都只身荒野",
+        "onboard_time": 1669455577,
+        "rank": 42,
+        "category": "影视,音乐"
+      },
+      {
+        "raw_hot": 182723,
+        "num": 182723,
+        "word": "杭州一法拉利在隧道自燃烧成空壳",
+        "onboard_time": 1669466263,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179210,
+        "num": 179210,
+        "word": "肖战三个角色登剧集人物角色提及量",
+        "onboard_time": 1669449214,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 178707,
+        "num": 178707,
+        "word": "新国展方舱医院快递可送达",
+        "onboard_time": 1669466981,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168927,
+        "num": 168927,
+        "word": "张元英MMA红毯新闻图",
+        "onboard_time": 1669456360,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 155400,
+        "num": 155400,
+        "word": "王楚钦 应援服",
+        "onboard_time": 1669455218,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152116,
+        "num": 152116,
+        "word": "波兰vs沙特阿拉伯",
+        "onboard_time": 1669462541,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144130,
+        "num": 144130,
+        "word": "九尾武则天MVP",
+        "onboard_time": 1669467164,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动经济全球化不断向前#"
+    }
+  }
+}
