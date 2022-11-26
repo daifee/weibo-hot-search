@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/01 00:36:21 ~ 2022/11/26 15:33:32
+本榜单时间：2022/11/01 00:36:21 ~ 2022/11/26 16:24:26
 </p>
 </blockquote>
 <p>
@@ -4269,6 +4269,12 @@ C罗成为本届世界杯唯一自由球员（热度：971929）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%8F%A3%E8%85%94%E6%BA%83%E7%96%A1%E4%B8%80%E5%B9%B4%E7%98%A662%E6%96%A4%E7%AB%9F%E6%82%A3%E7%BD%95%E8%A7%81%E7%97%85%23" target="weibo">
+男子口腔溃疡一年瘦62斤竟患罕见病（热度：954529）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%BC%E5%92%8C%E6%B5%A9%E7%89%B9%E5%85%B4%E5%85%89A9%23" target="weibo">
 呼和浩特兴光A9（热度：954311）
 </a>
@@ -5169,6 +5175,12 @@ LWX（热度：842999）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%A1%E5%8D%A1%E8%AF%B4C%E7%BD%97%E6%98%AF%E4%B8%AA%E9%9D%9E%E5%B8%B8%E6%A3%92%E7%9A%84%E5%B0%8F%E4%BC%99%23" target="weibo">
+卡卡说C罗是个非常棒的小伙（热度：842940）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2310%E5%B2%81%E5%A5%B3%E5%AD%A9%E4%B9%B0%E9%A6%95%E9%A5%BC%E8%AF%AF%E4%BB%983%E4%B8%87%E5%85%83%23" target="weibo">
 10岁女孩买馕饼误付3万元（热度：842015）
 </a>
@@ -5859,6 +5871,12 @@ C罗屠榜（热度：772556）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8D%97%E7%96%BE%E6%8E%A7%E5%9B%9E%E5%BA%94%E8%93%9D%E7%A0%81%E5%8F%96%E6%B6%88%23" target="weibo">
+湖南疾控回应蓝码取消（热度：766870）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%99%B4%E5%A4%A9yyds%23" target="weibo">
 晴天yyds（热度：765880）
 </a>
@@ -5993,24 +6011,6 @@ Rookie发文恭喜DRX（热度：759563）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%B9%E5%B3%A5%E5%85%83%E8%8B%B1%E5%A4%A7%E5%A9%9A%23" target="weibo">
 尹峥元英大婚（热度：754917）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%A5%BF%E9%98%9F%E5%B7%B220%E5%B9%B4%E6%B2%A1%E6%9C%89%E6%8B%BF%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%A0%E5%86%9B%E4%BA%86%23" target="weibo">
-巴西队已20年没有拿世界杯冠军了（热度：753483）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%81%AB%E8%BD%A6%E4%B8%8A%E5%8D%8A%E8%84%B1%E8%A3%A4%E5%AD%90%E8%BA%BA%E5%BA%A7%E6%A4%85%E4%B8%8A%23" target="weibo">
-男子火车上半脱裤子躺座椅上（热度：752904）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%A5%E7%9D%A1%E5%A7%BF%E5%8A%BF%E4%B8%8D%E5%AF%B9%E5%8F%AF%E8%83%BD%E7%9D%A1%E5%87%BA%E6%AF%9B%E7%97%85%23" target="weibo">
-入睡姿势不对可能睡出毛病（热度：752529）
 </a>
 </li>
 

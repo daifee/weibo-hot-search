@@ -1,6 +1,6 @@
 {
   "startTime": 1669393663708,
-  "endTime": 1669448012362,
+  "endTime": 1669451066752,
   "band_list": [
     {
       "raw_hot": 14766436,
@@ -187,6 +187,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 954529,
+      "num": 954529,
+      "word": "男子口腔溃疡一年瘦62斤竟患罕见病",
+      "onboard_time": 1669445556,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 938393,
       "num": 938393,
       "word": "王嘉尔泰国演唱会上座率",
@@ -219,6 +227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 842940,
+      "num": 842940,
+      "word": "卡卡说C罗是个非常棒的小伙",
+      "onboard_time": 1669447357,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 841812,
       "num": 841812,
       "word": "重庆新增本土确诊199例无症状7522例",
@@ -243,6 +259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 766870,
+      "num": 766870,
+      "word": "湖南疾控回应蓝码取消",
+      "onboard_time": 1669446217,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 743663,
       "num": 743663,
       "word": "亡夫160余万存款被小姑子转走",
@@ -265,22 +289,6 @@
       "onboard_time": 1669381311,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 707650,
-      "num": 707650,
-      "word": "男子口腔溃疡一年瘦62斤竟患罕见病",
-      "onboard_time": 1669445556,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 692040,
-      "num": 597112,
-      "word": "湖南疾控回应蓝码取消",
-      "onboard_time": 1669446217,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 686405,
@@ -331,6 +339,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 617881,
+      "num": 617881,
+      "word": "仙剑六祈今朝",
+      "onboard_time": 1669450233,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 612115,
       "num": 612115,
       "word": "狗狗每天被迫看娃被折磨得没狗样",
@@ -339,12 +355,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 592257,
-      "num": 592257,
+      "raw_hot": 602918,
+      "num": 602918,
       "word": "李铁资本版图",
       "onboard_time": 1669444057,
       "rank": 38,
       "category": "体育,财经"
+    },
+    {
+      "raw_hot": 589362,
+      "num": 352310,
+      "word": "肖战三个角色登剧集人物角色提及量",
+      "onboard_time": 1669449214,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 561632,
@@ -427,6 +451,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 498215,
+      "num": 498215,
+      "word": "九口人",
+      "onboard_time": 1669444418,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 491908,
       "num": 400488,
       "word": "胡锡进",
@@ -467,6 +499,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 464942,
+      "num": 464942,
+      "word": "吃完躺下就睡易患贲门癌",
+      "onboard_time": 1669449697,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 464438,
       "num": 464438,
       "word": "卡塔尔小王子",
@@ -505,6 +545,14 @@
       "onboard_time": 1669432064,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 432789,
+      "num": 432789,
+      "word": "日本球迷解释为何清理看台垃圾",
+      "onboard_time": 1669445133,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 432054,
@@ -611,6 +659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 376349,
+      "num": 376349,
+      "word": "医生打飞的劝回患癌弃疗病人",
+      "onboard_time": 1669444716,
+      "rank": 49,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 374359,
       "num": 374359,
       "word": "给老板打电话定制双带钻的拖鞋",
@@ -659,14 +715,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 356197,
-      "num": 356197,
-      "word": "日本球迷解释为何清理看台垃圾",
-      "onboard_time": 1669445133,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 353758,
       "num": 322068,
       "word": "吴亦凡偷税手法曝光",
@@ -681,6 +729,14 @@
       "onboard_time": 1669434344,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 350923,
+      "num": 350923,
+      "word": "律师突然变成一只猫了",
+      "onboard_time": 1669448795,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 347637,
@@ -779,14 +835,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 311053,
-      "num": 311053,
-      "word": "医生打飞的劝回患癌弃疗病人",
-      "onboard_time": 1669444716,
-      "rank": 49,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 307669,
       "num": 307669,
       "word": "洒水车为避让3学生撞路边幼儿园围墙",
@@ -867,14 +915,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 273280,
-      "num": 273280,
-      "word": "九口人",
-      "onboard_time": 1669444418,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 269636,
       "num": 269636,
       "word": "宝妈为孩子做逛超市防购物神裤",
@@ -889,6 +929,14 @@
       "onboard_time": 1669439983,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 266062,
+      "num": 266062,
+      "word": "陈飞宇捧打火机让张婧仪暖手",
+      "onboard_time": 1669446935,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 261269,
@@ -913,6 +961,14 @@
       "onboard_time": 1669388284,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 249802,
+      "num": 249802,
+      "word": "00后女生回应毕业做守墓人",
+      "onboard_time": 1669446995,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 249536,
@@ -963,6 +1019,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 240778,
+      "num": 240778,
+      "word": "家有姐妹定档1202",
+      "onboard_time": 1669447357,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 240567,
       "num": 240567,
       "word": "见过最独立的小猫",
@@ -977,14 +1041,6 @@
       "onboard_time": 1669396591,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 237090,
-      "num": 237090,
-      "word": "家有姐妹定档1202",
-      "onboard_time": 1669447357,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 237075,
@@ -1003,12 +1059,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 234755,
-      "num": 234755,
-      "word": "陈飞宇捧打火机让张婧仪暖手",
-      "onboard_time": 1669446935,
-      "rank": 41,
-      "category": "影视"
+      "raw_hot": 230330,
+      "num": 230330,
+      "word": "张钧甯酷飒高马尾造型",
+      "onboard_time": 1669448672,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 228215,
+      "num": 228215,
+      "word": "他在说一种很新的普通话",
+      "onboard_time": 1669449395,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 228154,
+      "num": 228154,
+      "word": "内马尔发文回应世界杯受伤",
+      "onboard_time": 1669450113,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 223998,
@@ -1017,6 +1089,14 @@
       "onboard_time": 1669435904,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 223126,
+      "num": 161358,
+      "word": "赵丽颖欧豪风吹半夏明日直播",
+      "onboard_time": 1669449575,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 223125,
@@ -1107,14 +1187,6 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 206455,
-      "num": 206455,
-      "word": "卡卡说C罗是个非常棒的小伙",
-      "onboard_time": 1669447357,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 205237,
       "num": 165222,
       "word": "陈卓璇奔跑吧舞蹈solo",
@@ -1145,6 +1217,14 @@
       "onboard_time": 1669400422,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 197159,
+      "num": 197159,
+      "word": "这大爷是懂周杰伦的",
+      "onboard_time": 1669448254,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 196622,
@@ -1219,11 +1299,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 185285,
+      "num": 185285,
+      "word": "football soccer",
+      "onboard_time": 1669446636,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 184976,
       "num": 184976,
       "word": "11月25日新增本土确诊3405例",
       "onboard_time": 1669430573,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 184667,
+      "num": 184667,
+      "word": "婆婆摆摊收百元假币无助痛哭",
+      "onboard_time": 1669448972,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -1315,20 +1411,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 163853,
+      "num": 163853,
+      "word": "朱韵从来不是恋爱脑",
+      "onboard_time": 1669450954,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 162715,
       "num": 162715,
       "word": "29岁男子为考央美复读10年",
       "onboard_time": 1669384031,
       "rank": 43,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 159735,
-      "num": 159735,
-      "word": "00后女生回应毕业做守墓人",
-      "onboard_time": 1669446995,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 154710,
@@ -1363,14 +1459,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 147784,
-      "num": 147784,
-      "word": "football soccer",
-      "onboard_time": 1669446636,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 145347,
       "num": 145347,
       "word": "北京疫情新增病例持续高位增长",
@@ -1401,6 +1489,14 @@
       "onboard_time": 1669426300,
       "rank": 49,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 133983,
+      "num": 133983,
+      "word": "为防治麻风病倾尽心血的101岁医生走了",
+      "onboard_time": 1669450832,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 133100,
