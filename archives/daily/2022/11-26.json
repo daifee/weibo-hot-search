@@ -1,6 +1,6 @@
 {
   "startTime": 1669393663708,
-  "endTime": 1669426811509,
+  "endTime": 1669428198257,
   "band_list": [
     {
       "raw_hot": 13715986,
@@ -12,10 +12,18 @@
     },
     {
       "raw_hot": 3846388,
-      "num": 771383,
+      "num": 1122265,
       "word": "乌鲁木齐火灾事故网传图片系恶意拼接",
       "onboard_time": 1669421674,
       "rank": 6,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 3054889,
+      "num": 370170,
+      "word": "女子造谣乌鲁木齐火灾事故死亡人数被拘",
+      "onboard_time": 1669425639,
+      "rank": 20,
       "category": "社会负面"
     },
     {
@@ -43,6 +51,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 2277935,
+      "num": 442317,
+      "word": "乌鲁木齐社会面基本清零",
+      "onboard_time": 1669427383,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1742068,
       "num": 1742068,
       "word": "北京加快集中隔离场所和方舱医院储备建设",
@@ -51,12 +67,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1652750,
-      "num": 321471,
-      "word": "女子造谣乌鲁木齐火灾事故死亡人数被拘",
-      "onboard_time": 1669425639,
-      "rank": 20,
-      "category": "社会负面"
+      "raw_hot": 1691053,
+      "num": 1691053,
+      "word": "李铁被查",
+      "onboard_time": 1669427861,
+      "rank": 0,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 1514334,
@@ -115,6 +131,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 967521,
+      "num": 967521,
+      "word": "千万不要吃完饭就躺着睡觉",
+      "onboard_time": 1669422637,
+      "rank": 5,
+      "category": "情感"
+    },
+    {
       "raw_hot": 938393,
       "num": 938393,
       "word": "王嘉尔泰国演唱会上座率",
@@ -129,14 +153,6 @@
       "onboard_time": 1669392289,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 850837,
-      "num": 850837,
-      "word": "千万不要吃完饭就躺着睡觉",
-      "onboard_time": 1669422637,
-      "rank": 5,
-      "category": "情感"
     },
     {
       "raw_hot": 767561,
@@ -291,6 +307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 444187,
+      "num": 444187,
+      "word": "英格兰 演",
+      "onboard_time": 1669427021,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 432054,
       "num": 432054,
       "word": "荷兰vs厄瓜多尔",
@@ -331,6 +355,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 402846,
+      "num": 402846,
+      "word": "儿媳谎称以旧换新哄71岁婆婆扔旧鞋",
+      "onboard_time": 1669423178,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 395470,
+      "num": 395470,
+      "word": "鲍蕾陆毅好甜",
+      "onboard_time": 1669423362,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 382956,
       "num": 382956,
       "word": "蒋龙 助演",
@@ -347,12 +387,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 361958,
-      "num": 361958,
-      "word": "鲍蕾陆毅好甜",
-      "onboard_time": 1669423362,
-      "rank": 18,
-      "category": "综艺"
+      "raw_hot": 363191,
+      "num": 363191,
+      "word": "11月25日新增本土无症状31504例",
+      "onboard_time": 1669426840,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 353758,
@@ -427,14 +467,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 293438,
-      "num": 293438,
-      "word": "儿媳谎称以旧换新哄71岁婆婆扔旧鞋",
-      "onboard_time": 1669423178,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 291403,
       "num": 291403,
       "word": "广州疫情防控",
@@ -465,6 +497,14 @@
       "onboard_time": 1669388284,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 249536,
+      "num": 249536,
+      "word": "巧克力能有多惊人",
+      "onboard_time": 1669422396,
+      "rank": 32,
+      "category": "美食"
     },
     {
       "raw_hot": 249480,
@@ -523,14 +563,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 217682,
-      "num": 217682,
-      "word": "巧克力能有多惊人",
-      "onboard_time": 1669422396,
-      "rank": 32,
-      "category": "美食"
-    },
-    {
       "raw_hot": 212380,
       "num": 168135,
       "word": "陈飞宇跳舞",
@@ -547,12 +579,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 205395,
+      "num": 205395,
+      "word": "郑秀妍有了新的羁绊",
+      "onboard_time": 1669425820,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 205237,
       "num": 165222,
       "word": "陈卓璇奔跑吧舞蹈solo",
       "onboard_time": 1669393789,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 200193,
+      "num": 200193,
+      "word": "女子称4男子凌晨刷房卡闯入酒店房间",
+      "onboard_time": 1669427921,
+      "rank": 37,
+      "category": "社会负面"
     },
     {
       "raw_hot": 198512,
@@ -577,6 +625,38 @@
       "onboard_time": 1669424321,
       "rank": 38,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 187936,
+      "num": 187936,
+      "word": "科学家复活被冷冻48500年古老病毒",
+      "onboard_time": 1669427981,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 187228,
+      "num": 187228,
+      "word": "情侣高速上吵架女子将男友锁车外",
+      "onboard_time": 1669427861,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 185558,
+      "num": 185558,
+      "word": "压力来到梅西这边",
+      "onboard_time": 1669427564,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 181905,
+      "num": 181905,
+      "word": "小婉管乐",
+      "onboard_time": 1669426476,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 181040,
@@ -627,28 +707,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 168833,
-      "num": 168833,
-      "word": "郑秀妍有了新的羁绊",
-      "onboard_time": 1669425820,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 162715,
       "num": 162715,
       "word": "29岁男子为考央美复读10年",
       "onboard_time": 1669384031,
       "rank": 43,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 162396,
-      "num": 162396,
-      "word": "小婉管乐",
-      "onboard_time": 1669426476,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 154710,
