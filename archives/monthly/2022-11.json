@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1669502100683,
+  "endTime": 1669504751893,
   "band_list": [
     {
       "raw_hot": 36651023,
@@ -1123,6 +1123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2364348,
+      "num": 2364348,
+      "word": "阿根廷vs墨西哥",
+      "onboard_time": 1669436022,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2357039,
       "num": 2357039,
       "word": "苏醒最不快乐的一天",
@@ -1305,14 +1313,6 @@
       "onboard_time": 1667476825,
       "rank": 0,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 2193408,
-      "num": 2193408,
-      "word": "阿根廷vs墨西哥",
-      "onboard_time": 1669436022,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 2190207,
@@ -8779,6 +8779,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 732353,
+      "num": 403969,
+      "word": "梅西疯狂庆祝",
+      "onboard_time": 1669499294,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 732221,
       "num": 732221,
       "word": "iPhone15仅Pro的C口支持高速传输",
@@ -14489,14 +14497,6 @@
       "onboard_time": 1667978125,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 513439,
-      "num": 212494,
-      "word": "梅西疯狂庆祝",
-      "onboard_time": 1669499294,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 513235,
@@ -22491,6 +22491,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 358796,
+      "num": 220576,
+      "word": "梅西偶像哭了",
+      "onboard_time": 1669499234,
+      "rank": 11,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 358745,
       "num": 358745,
       "word": "塞内加尔进球",
@@ -23665,14 +23673,6 @@
       "onboard_time": 1668008728,
       "rank": 15,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 342692,
-      "num": 157403,
-      "word": "梅西偶像哭了",
-      "onboard_time": 1669499234,
-      "rank": 11,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 342622,
@@ -32907,6 +32907,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 233692,
+      "num": 233692,
+      "word": "每天8杯水或超过大多数人真正需水量",
+      "onboard_time": 1669489756,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 233672,
       "num": 233672,
       "word": "杨紫鞠婧祎直播状态",
@@ -34764,7 +34772,7 @@
     },
     {
       "raw_hot": 219114,
-      "num": 171660,
+      "num": 192533,
       "word": "法国终结卫冕冠军出局魔咒",
       "onboard_time": 1669487177,
       "rank": 37,
@@ -39187,6 +39195,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 188802,
+      "num": 188802,
+      "word": "梅西追平马拉多纳世界杯进球数",
+      "onboard_time": 1669502056,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 188798,
       "num": 188798,
       "word": "超6成00后不知道光棍节",
@@ -39745,6 +39761,14 @@
       "onboard_time": 1669446636,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 185241,
+      "num": 185241,
+      "word": "卿卿日常原著里的李薇",
+      "onboard_time": 1669504641,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 185239,
@@ -41241,14 +41265,6 @@
       "onboard_time": 1667207605,
       "rank": 32,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 175214,
-      "num": 25763,
-      "word": "梅西追平马拉多纳世界杯进球数",
-      "onboard_time": 1669502056,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 175132,
@@ -45081,14 +45097,6 @@
       "onboard_time": 1669265378,
       "rank": 44,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 149948,
-      "num": 122040,
-      "word": "每天8杯水或超过大多数人真正需水量",
-      "onboard_time": 1669489756,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 149878,
@@ -49588,7 +49596,7 @@
     },
     {
       "raw_hot": 125800,
-      "num": 90583,
+      "num": 105461,
       "word": "阿根廷锁定胜局",
       "onboard_time": 1669496956,
       "rank": 31,
@@ -51209,6 +51217,14 @@
       "onboard_time": 1667626347,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 116210,
+      "num": 116210,
+      "word": "女子失聪且患尿毒症求助消防站开锁",
+      "onboard_time": 1669497675,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 116194,
@@ -56947,14 +56963,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 77436,
-      "num": 77436,
-      "word": "女子失聪且患尿毒症求助消防站开锁",
-      "onboard_time": 1669497675,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 77395,
       "num": 77395,
       "word": "天津人有点英语基础",
@@ -57225,6 +57233,14 @@
       "onboard_time": 1667925861,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 73837,
+      "num": 73837,
+      "word": "熬夜看阿根廷值了",
+      "onboard_time": 1669504340,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 73740,
@@ -58403,6 +58419,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 56908,
+      "num": 56908,
+      "word": "李薇为了郝葭直接夺刀意欲闯府",
+      "onboard_time": 1669504520,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 56734,
       "num": 72814,
       "word": "空军公布珠海航展阵容",
@@ -58601,6 +58625,14 @@
       "onboard_time": 1667506871,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 51407,
+      "num": 51407,
+      "word": "阿根廷队加油",
+      "onboard_time": 1669504580,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 51262,
@@ -58841,6 +58873,14 @@
       "onboard_time": 1667690958,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 45877,
+      "num": 45877,
+      "word": "宝爸用铁轨小火车驮婴儿车遛娃",
+      "onboard_time": 1669497196,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 45490,
@@ -59113,6 +59153,14 @@
       "onboard_time": 1667507770,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 38907,
+      "num": 38907,
+      "word": "养殖户给牛加热水槽被质疑没必要",
+      "onboard_time": 1669504039,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 38873,
@@ -59435,6 +59483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 29611,
+      "num": 29611,
+      "word": "看着像双向奔赴其实是互相耽误",
+      "onboard_time": 1669504459,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 29547,
       "num": 116230,
       "word": "双11推出3D多人实时互动玩法",
@@ -59695,14 +59751,6 @@
       "num": 23068,
       "word": "网课爆破绝非恶作剧这么简单",
       "onboard_time": 1667852891,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 22966,
-      "num": 22966,
-      "word": "宝爸用铁轨小火车驮婴儿车遛娃",
-      "onboard_time": 1669497196,
       "rank": 49,
       "category": "社会新闻"
     },

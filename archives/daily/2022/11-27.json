@@ -1,6 +1,6 @@
 {
   "startTime": 1669479991529,
-  "endTime": 1669502100683,
+  "endTime": 1669504751893,
   "band_list": [
     {
       "raw_hot": 3152060,
@@ -27,8 +27,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2193408,
-      "num": 2193408,
+      "raw_hot": 2364348,
+      "num": 2364348,
       "word": "阿根廷vs墨西哥",
       "onboard_time": 1669481732,
       "rank": 4,
@@ -115,6 +115,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 732353,
+      "num": 403969,
+      "word": "梅西疯狂庆祝",
+      "onboard_time": 1669499294,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 670391,
       "num": 670391,
       "word": "官方通报网传顺德核酸聚集踩踏事件",
@@ -185,14 +193,6 @@
       "onboard_time": 1669482925,
       "rank": 45,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 513439,
-      "num": 212494,
-      "word": "梅西疯狂庆祝",
-      "onboard_time": 1669499294,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 511305,
@@ -283,20 +283,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 358796,
+      "num": 220576,
+      "word": "梅西偶像哭了",
+      "onboard_time": 1669499234,
+      "rank": 11,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 356824,
       "num": 356824,
       "word": "姆巴佩太强了",
       "onboard_time": 1669485861,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 342692,
-      "num": 157403,
-      "word": "梅西偶像哭了",
-      "onboard_time": 1669499234,
-      "rank": 11,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 332180,
@@ -427,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 233692,
+      "num": 233692,
+      "word": "每天8杯水或超过大多数人真正需水量",
+      "onboard_time": 1669489756,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 232868,
       "num": 232868,
       "word": "胡辣汤原来有25种以上调料",
@@ -492,7 +500,7 @@
     },
     {
       "raw_hot": 219114,
-      "num": 171660,
+      "num": 192533,
       "word": "法国终结卫冕冠军出局魔咒",
       "onboard_time": 1669487177,
       "rank": 37,
@@ -555,6 +563,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 188802,
+      "num": 188802,
+      "word": "梅西追平马拉多纳世界杯进球数",
+      "onboard_time": 1669502056,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 185241,
+      "num": 185241,
+      "word": "卿卿日常原著里的李薇",
+      "onboard_time": 1669504641,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 182806,
       "num": 182806,
       "word": "杨九郎cos年画娃娃",
@@ -585,14 +609,6 @@
       "onboard_time": 1669479399,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 175214,
-      "num": 25763,
-      "word": "梅西追平马拉多纳世界杯进球数",
-      "onboard_time": 1669502056,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 173897,
@@ -651,14 +667,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 149948,
-      "num": 122040,
-      "word": "每天8杯水或超过大多数人真正需水量",
-      "onboard_time": 1669489756,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 146397,
       "num": 146397,
       "word": "他在拍一种很新的拍照方式",
@@ -700,7 +708,7 @@
     },
     {
       "raw_hot": 125800,
-      "num": 90583,
+      "num": 105461,
       "word": "阿根廷锁定胜局",
       "onboard_time": 1669496956,
       "rank": 31,
@@ -713,6 +721,14 @@
       "onboard_time": 1669481614,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 116210,
+      "num": 116210,
+      "word": "女子失聪且患尿毒症求助消防站开锁",
+      "onboard_time": 1669497675,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 113730,
@@ -755,12 +771,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 77436,
-      "num": 77436,
-      "word": "女子失聪且患尿毒症求助消防站开锁",
-      "onboard_time": 1669497675,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 73837,
+      "num": 73837,
+      "word": "熬夜看阿根廷值了",
+      "onboard_time": 1669504340,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 59442,
@@ -771,20 +787,52 @@
       "category": "体育"
     },
     {
+      "raw_hot": 56908,
+      "num": 56908,
+      "word": "李薇为了郝葭直接夺刀意欲闯府",
+      "onboard_time": 1669504520,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 51407,
+      "num": 51407,
+      "word": "阿根廷队加油",
+      "onboard_time": 1669504580,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 45877,
+      "num": 45877,
+      "word": "宝爸用铁轨小火车驮婴儿车遛娃",
+      "onboard_time": 1669497196,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 38907,
+      "num": 38907,
+      "word": "养殖户给牛加热水槽被质疑没必要",
+      "onboard_time": 1669504039,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 29611,
+      "num": 29611,
+      "word": "看着像双向奔赴其实是互相耽误",
+      "onboard_time": 1669504459,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 26086,
       "num": 26086,
       "word": "一场关于李峋的梦就是朱韵的救赎",
       "onboard_time": 1669500494,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 22966,
-      "num": 22966,
-      "word": "宝爸用铁轨小火车驮婴儿车遛娃",
-      "onboard_time": 1669497196,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 9675,
