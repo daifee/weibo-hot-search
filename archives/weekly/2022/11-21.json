@@ -1,6 +1,6 @@
 {
   "startTime": 1668961718135,
-  "endTime": 1669476895430,
+  "endTime": 1669479991529,
   "band_list": [
     {
       "raw_hot": 36651023,
@@ -411,6 +411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2703748,
+      "num": 2703748,
+      "word": "上海一街道未做核酸纳入征信",
+      "onboard_time": 1669477430,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2702402,
       "num": 493820,
       "word": "日本2比1逆转德国",
@@ -497,6 +505,14 @@
       "onboard_time": 1669313010,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2508136,
+      "num": 2508136,
+      "word": "20条严禁长时间不解封",
+      "onboard_time": 1669474551,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2462007,
@@ -712,14 +728,6 @@
       "word": "连生4女被离婚女子第五胎产下男孩",
       "onboard_time": 1669339718,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1992998,
-      "num": 1992998,
-      "word": "20条严禁长时间不解封",
-      "onboard_time": 1669474551,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -1241,6 +1249,14 @@
       "onboard_time": 1669129849,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1335564,
+      "num": 232830,
+      "word": "人民锐评",
+      "onboard_time": 1669478081,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1320534,
@@ -1867,6 +1883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 988661,
+      "num": 988661,
+      "word": "女租客没回信息男房东擅闯房间",
+      "onboard_time": 1669475754,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 986710,
       "num": 986710,
       "word": "卡塔尔和迪拜哪个更富",
@@ -2073,6 +2097,14 @@
       "onboard_time": 1668998369,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 904569,
+      "num": 904569,
+      "word": "卡塔尔球迷要立刻办闭幕式",
+      "onboard_time": 1669475334,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 904253,
@@ -2313,14 +2345,6 @@
       "onboard_time": 1669440220,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 843215,
-      "num": 843215,
-      "word": "卡塔尔球迷要立刻办闭幕式",
-      "onboard_time": 1669475334,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 842940,
@@ -3363,6 +3387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 648920,
+      "num": 648920,
+      "word": "法国vs丹麦",
+      "onboard_time": 1669447115,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 645698,
       "num": 401920,
       "word": "世界杯天台开始排队",
@@ -4115,6 +4147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 561090,
+      "num": 561090,
+      "word": "当小时代的豪宅照进现实",
+      "onboard_time": 1669476649,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 560290,
       "num": 560290,
       "word": "妹妹误将火碱当冰糖冲给姐姐喝",
@@ -4353,6 +4393,14 @@
       "onboard_time": 1669270412,
       "rank": 23,
       "category": "科技"
+    },
+    {
+      "raw_hot": 538638,
+      "num": 538638,
+      "word": "许半夏抓包丈夫出轨",
+      "onboard_time": 1669478147,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 538634,
@@ -4657,14 +4705,6 @@
       "onboard_time": 1669119306,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 517132,
-      "num": 353897,
-      "word": "女租客没回信息男房东擅闯房间",
-      "onboard_time": 1669475754,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 517025,
@@ -4979,6 +5019,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 489839,
+      "num": 489839,
+      "word": "张真源拔麦",
+      "onboard_time": 1669478147,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 489230,
       "num": 489230,
       "word": "头顶一块布 全球我最富",
@@ -5161,6 +5209,14 @@
       "onboard_time": 1669284033,
       "rank": 8,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 473373,
+      "num": 473373,
+      "word": "婆婆把豪宅庭院改菜地种菜",
+      "onboard_time": 1669477244,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 473163,
@@ -9851,14 +9907,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 260320,
-      "num": 260320,
-      "word": "当小时代的豪宅照进现实",
-      "onboard_time": 1669476649,
-      "rank": 40,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 260238,
       "num": 260238,
       "word": "方舒苗问李峋现在还这么帅吗",
@@ -10651,6 +10699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 232649,
+      "num": 232649,
+      "word": "时代少年团听歌识曲",
+      "onboard_time": 1669479456,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 232612,
       "num": 232612,
       "word": "小伙不顾扭伤飞身跨栏救人",
@@ -11057,6 +11113,14 @@
       "onboard_time": 1669271431,
       "rank": 23,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 221812,
+      "num": 225892,
+      "word": "敖子逸嘴上不怕身体很诚实",
+      "onboard_time": 1669479633,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 221782,
@@ -11787,6 +11851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 205332,
+      "num": 205332,
+      "word": "周深cos哪吒好可爱",
+      "onboard_time": 1669479519,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 205237,
       "num": 205237,
       "word": "11月24日新增3041例本土确诊",
@@ -12451,6 +12523,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 194303,
+      "num": 194303,
+      "word": "韩剧雨伞",
+      "onboard_time": 1669478679,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 194030,
       "num": 194030,
       "word": "ksg",
@@ -12721,6 +12801,14 @@
       "onboard_time": 1669439265,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 189341,
+      "num": 167585,
+      "word": "gidle未消音版TOMBOY最新舞台",
+      "onboard_time": 1669479937,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 189158,
@@ -13081,6 +13169,14 @@
       "onboard_time": 1669374593,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 182806,
+      "num": 182806,
+      "word": "杨九郎cos年画娃娃",
+      "onboard_time": 1669479875,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 182764,
@@ -13707,6 +13803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 169833,
+      "num": 169833,
+      "word": "田曦薇对李薇说不要忘了我",
+      "onboard_time": 1669478147,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 169682,
       "num": 169682,
       "word": "堂安律补射破门",
@@ -13755,6 +13859,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 169139,
+      "num": 169139,
+      "word": "快递小哥嫌挣得少1月连偷7次",
+      "onboard_time": 1669479221,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 168923,
       "num": 168923,
       "word": "卡塔尔全场0射正",
@@ -13776,6 +13888,14 @@
       "word": "官方辟谣荔枝园核酸检测造假",
       "onboard_time": 1669108172,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167649,
+      "num": 167649,
+      "word": "孩子吞硬币家长用探测器查位置",
+      "onboard_time": 1669479399,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -15961,14 +16081,6 @@
       "onboard_time": 1669010612,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 119703,
-      "num": 119703,
-      "word": "法国vs丹麦",
-      "onboard_time": 1669447115,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 119638,
