@@ -1,6 +1,6 @@
 {
   "startTime": 1669479991529,
-  "endTime": 1669493982075,
+  "endTime": 1669494854857,
   "band_list": [
     {
       "raw_hot": 3152060,
@@ -217,6 +217,14 @@
       "onboard_time": 1669475393,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 399685,
+      "num": 192637,
+      "word": "梅西一定要赢啊",
+      "onboard_time": 1669493235,
+      "rank": 11,
+      "category": "体育,幽默"
     },
     {
       "raw_hot": 384209,
@@ -459,14 +467,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 194555,
-      "num": 124069,
-      "word": "梅西一定要赢啊",
-      "onboard_time": 1669493235,
-      "rank": 11,
-      "category": "体育,幽默"
-    },
-    {
       "raw_hot": 193049,
       "num": 193049,
       "word": "法国半场0比0丹麦",
@@ -572,11 +572,19 @@
     },
     {
       "raw_hot": 149948,
-      "num": 120885,
+      "num": 122040,
       "word": "每天8杯水或超过大多数人真正需水量",
       "onboard_time": 1669489756,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 146925,
+      "num": 146925,
+      "word": "阿根廷vs墨西哥首发",
+      "onboard_time": 1669491674,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 146397,
@@ -611,14 +619,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 119113,
-      "num": 119113,
-      "word": "阿根廷vs墨西哥首发",
-      "onboard_time": 1669491674,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 117370,
       "num": 117370,
       "word": "檀健次画出来的都是妖怪",
@@ -651,11 +651,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 91601,
+      "num": 91601,
+      "word": "美国禁止华为中兴等5家中企在美销售设备",
+      "onboard_time": 1669493714,
+      "rank": 49,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 88453,
       "num": 35893,
       "word": "马宁担任法国丹麦第四官员",
       "onboard_time": 1669491976,
       "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 68254,
+      "num": 68254,
+      "word": "阿根廷半场0比0墨西哥",
+      "onboard_time": 1669494074,
+      "rank": 17,
       "category": "体育"
     },
     {
@@ -667,12 +683,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 24466,
-      "num": 24466,
-      "word": "美国禁止华为中兴等5家中企在美销售设备",
-      "onboard_time": 1669493714,
-      "rank": 49,
-      "category": "科技,社会新闻"
+      "raw_hot": 35982,
+      "num": 32991,
+      "word": "姆巴佩庆祝晋级",
+      "onboard_time": 1669494674,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 9675,
