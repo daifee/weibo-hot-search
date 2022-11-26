@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/01 00:36:21 ~ 2022/11/26 13:33:35
+本榜单时间：2022/11/01 00:36:21 ~ 2022/11/26 14:23:49
 </p>
 </blockquote>
 <p>
@@ -4893,6 +4893,12 @@ C罗已被移出曼联群聊（热度：890456）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%9B%BD%E4%BC%9F%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E6%AF%94%E8%B5%9B%E5%A4%BA%E5%86%A0%23" target="weibo">
+张国伟澳大利亚比赛夺冠（热度：872025）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%BA%A4%E4%B8%8D%E8%B5%B7%E6%88%BF%E7%A7%9F%E5%B8%A6%E5%A6%BB%E5%84%BF%E4%BD%8F%E5%85%AC%E5%9B%AD4%E6%9C%88%23" target="weibo">
 男子交不起房租带妻儿住公园4月（热度：871877）
 </a>
@@ -6005,12 +6011,6 @@ Rookie发文恭喜DRX（热度：759563）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%A5%BFvs%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A%23" target="weibo">
 巴西vs塞尔维亚（热度：751449）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%91%A9%E6%B4%9B%E5%93%A50%E6%AF%940%E6%88%98%E5%B9%B3%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A%23" target="weibo">
-摩洛哥0比0战平克罗地亚（热度：751116）
 </a>
 </li>
 
