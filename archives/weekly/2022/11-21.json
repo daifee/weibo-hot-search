@@ -1,6 +1,6 @@
 {
   "startTime": 1668961718135,
-  "endTime": 1669458957964,
+  "endTime": 1669461334866,
   "band_list": [
     {
       "raw_hot": 36651023,
@@ -187,20 +187,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 4658950,
+      "num": 4658950,
+      "word": "乌鲁木齐市1124火灾四问",
+      "onboard_time": 1669453658,
+      "rank": 12,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 4270507,
       "num": 4270507,
       "word": "内马尔被侵犯9次",
       "onboard_time": 1669332027,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 4147697,
-      "num": 4147697,
-      "word": "乌鲁木齐市1124火灾四问",
-      "onboard_time": 1669453658,
-      "rank": 12,
-      "category": "社会负面"
     },
     {
       "raw_hot": 4068058,
@@ -1219,6 +1219,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1312303,
+      "num": 1312303,
+      "word": "女子苦干12年赚钱给弟弟买房买车",
+      "onboard_time": 1669455038,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1309972,
       "num": 1309972,
       "word": "陈乔恩的一生都在被湖南台记录",
@@ -1737,14 +1745,6 @@
       "onboard_time": 1669391637,
       "rank": 38,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 1006054,
-      "num": 1006054,
-      "word": "女子苦干12年赚钱给弟弟买房买车",
-      "onboard_time": 1669455038,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1004054,
@@ -4483,6 +4483,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 507943,
+      "num": 507943,
+      "word": "张元英MMA红毯新闻图",
+      "onboard_time": 1669456360,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 507398,
       "num": 507398,
       "word": "TES官宣Knight离队",
@@ -4825,14 +4833,6 @@
       "onboard_time": 1669105174,
       "rank": 29,
       "category": "影视"
-    },
-    {
-      "raw_hot": 476115,
-      "num": 476115,
-      "word": "张元英MMA红毯新闻图",
-      "onboard_time": 1669456360,
-      "rank": 15,
-      "category": "音乐"
     },
     {
       "raw_hot": 475813,
@@ -5427,6 +5427,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 433072,
+      "num": 433072,
+      "word": "MAMA",
+      "onboard_time": 1669458037,
+      "rank": 20,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 432789,
       "num": 432789,
       "word": "日本球迷解释为何清理看台垃圾",
@@ -5489,6 +5497,14 @@
       "onboard_time": 1669110391,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 428663,
+      "num": 428663,
+      "word": "我没有早八但我女儿有",
+      "onboard_time": 1669454800,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 428131,
@@ -5809,6 +5825,14 @@
       "onboard_time": 1669435840,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 411184,
+      "num": 411184,
+      "word": "宋雨琦MMA红毯生图",
+      "onboard_time": 1669458639,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 411168,
@@ -6299,14 +6323,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 385485,
-      "num": 385485,
-      "word": "我没有早八但我女儿有",
-      "onboard_time": 1669454800,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 385160,
       "num": 385160,
       "word": "沈阳疫情防控",
@@ -6417,14 +6433,6 @@
       "onboard_time": 1669116634,
       "rank": 17,
       "category": "影视"
-    },
-    {
-      "raw_hot": 379079,
-      "num": 379079,
-      "word": "MAMA",
-      "onboard_time": 1669458037,
-      "rank": 20,
-      "category": "音乐"
     },
     {
       "raw_hot": 378935,
@@ -6691,6 +6699,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 365770,
+      "num": 365770,
+      "word": "时代少年团无尽的冒险舞台预告",
+      "onboard_time": 1669459418,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 365546,
       "num": 365546,
       "word": "外卖小哥遇事故怒喊我没时间我要工作",
@@ -6713,6 +6729,14 @@
       "onboard_time": 1669197397,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 363744,
+      "num": 363744,
+      "word": "哈利波特",
+      "onboard_time": 1669460563,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 363646,
@@ -6873,6 +6897,14 @@
       "onboard_time": 1669361914,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 357680,
+      "num": 357680,
+      "word": "姐姐想吃麻辣烫9岁弟弟研究制做",
+      "onboard_time": 1669459839,
+      "rank": 18,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 357228,
@@ -7803,6 +7835,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 319877,
+      "num": 206905,
+      "word": "华侨称要让儿子加纳学踢球再回中国队",
+      "onboard_time": 1669459303,
+      "rank": 30,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 319511,
       "num": 319511,
       "word": "大龄程序员为了再就业有多拼",
@@ -8457,14 +8497,6 @@
       "onboard_time": 1669219056,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 289248,
-      "num": 289248,
-      "word": "宋雨琦MMA红毯生图",
-      "onboard_time": 1669458639,
-      "rank": 26,
-      "category": "音乐"
     },
     {
       "raw_hot": 288987,
@@ -9995,6 +10027,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 232258,
+      "num": 232258,
+      "word": "体会到了小学门口的快乐",
+      "onboard_time": 1669457738,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 232182,
       "num": 232182,
       "word": "萨卡梅开二度",
@@ -10771,14 +10811,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 214494,
-      "num": 214494,
-      "word": "体会到了小学门口的快乐",
-      "onboard_time": 1669457738,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 214075,
       "num": 214075,
       "word": "靳东成毅蔡文静底线豆瓣开分7.3",
@@ -10840,6 +10872,14 @@
       "word": "巴西球迷求管泽元闭嘴",
       "onboard_time": 1669277728,
       "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 212141,
+      "num": 212141,
+      "word": "C罗或去大巴黎与梅西合作",
+      "onboard_time": 1669460263,
+      "rank": 29,
       "category": "体育"
     },
     {
@@ -12025,6 +12065,14 @@
       "onboard_time": 1669432185,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 187911,
+      "num": 187911,
+      "word": "澳大利亚进球",
+      "onboard_time": 1669459120,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 187576,
@@ -13251,6 +13299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 161019,
+      "num": 161019,
+      "word": "卡塔尔也看猫和老鼠吗",
+      "onboard_time": 1669455762,
+      "rank": 48,
+      "category": "体育,幽默"
+    },
+    {
       "raw_hot": 160758,
       "num": 160758,
       "word": "杨颖分享小雪vlog",
@@ -13795,14 +13851,6 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 148163,
-      "num": 148163,
-      "word": "卡塔尔也看猫和老鼠吗",
-      "onboard_time": 1669455762,
-      "rank": 48,
-      "category": "体育,幽默"
-    },
-    {
       "raw_hot": 148122,
       "num": 148122,
       "word": "闺女呼叫爸爸回家腔调拿捏绝了",
@@ -13849,6 +13897,14 @@
       "onboard_time": 1669103131,
       "rank": 46,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 147371,
+      "num": 147371,
+      "word": "杜克头球破门",
+      "onboard_time": 1669459720,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 147331,

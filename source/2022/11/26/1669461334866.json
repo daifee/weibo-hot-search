@@ -1,0 +1,410 @@
+{
+  "runTime": 1669461334866,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4658950,
+        "num": 4658950,
+        "word": "乌鲁木齐市1124火灾四问",
+        "onboard_time": 1669453658,
+        "rank": 0,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 2055653,
+        "num": 2055653,
+        "word": "郑好办",
+        "onboard_time": 1669455881,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47679,
+        "num": 1469861,
+        "word": "冬季限定美景硝花可以有多美",
+        "onboard_time": 1669433504,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1455763,
+        "num": 1455763,
+        "word": "卡塔尔人输急眼了",
+        "onboard_time": 1669453960,
+        "rank": 3,
+        "category": "体育,幽默"
+      },
+      {
+        "raw_hot": 1312303,
+        "num": 1312303,
+        "word": "女子苦干12年赚钱给弟弟买房买车",
+        "onboard_time": 1669455038,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 960952,
+        "num": 960952,
+        "word": "北京新增本土感染者2454例",
+        "onboard_time": 1669456001,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 785824,
+        "num": 785824,
+        "word": "重庆一男子被曝小区内多次猥亵小孩",
+        "onboard_time": 1669454740,
+        "rank": 6,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 723843,
+        "num": 723843,
+        "word": "女子16万买2车库精装修后入住",
+        "onboard_time": 1669453658,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 598307,
+        "num": 598307,
+        "word": "确保20条措施不折不扣不走样成关键",
+        "onboard_time": 1669453539,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 550415,
+        "num": 550415,
+        "word": "王楚钦 应援服",
+        "onboard_time": 1669455218,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 905386,
+        "num": 549063,
+        "word": "郑州未经沟通将870人运抵徐州",
+        "onboard_time": 1669435721,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 507943,
+        "num": 507943,
+        "word": "张元英MMA红毯新闻图",
+        "onboard_time": 1669456360,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 454565,
+        "num": 454565,
+        "word": "招聘小学数学老师要求风景园林专业",
+        "onboard_time": 1669452514,
+        "rank": 12,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 433072,
+        "num": 433072,
+        "word": "MAMA",
+        "onboard_time": 1669458037,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 428663,
+        "num": 428663,
+        "word": "我没有早八但我女儿有",
+        "onboard_time": 1669454800,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 411184,
+        "num": 411184,
+        "word": "宋雨琦MMA红毯生图",
+        "onboard_time": 1669458639,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 365770,
+        "num": 365770,
+        "word": "时代少年团无尽的冒险舞台预告",
+        "onboard_time": 1669459418,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 363744,
+        "num": 363744,
+        "word": "哈利波特",
+        "onboard_time": 1669460563,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 357680,
+        "num": 357680,
+        "word": "姐姐想吃麻辣烫9岁弟弟研究制做",
+        "onboard_time": 1669459839,
+        "rank": 18,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 347050,
+        "num": 347050,
+        "word": "内马尔发文回应世界杯受伤",
+        "onboard_time": 1669450113,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 329850,
+        "num": 329850,
+        "word": "张婧仪怼脸生图",
+        "onboard_time": 1669452099,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 293725,
+        "num": 293725,
+        "word": "吃完躺下就睡易患贲门癌",
+        "onboard_time": 1669449697,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278187,
+        "num": 278187,
+        "word": "北京疫情发布会",
+        "onboard_time": 1669454858,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270285,
+        "num": 270285,
+        "word": "男子被疑患肺癌竟是鸡骨滑入肺",
+        "onboard_time": 1669452216,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264072,
+        "num": 264072,
+        "word": "肖战三个角色登剧集人物角色提及量",
+        "onboard_time": 1669449214,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 262087,
+        "num": 262087,
+        "word": "乒超",
+        "onboard_time": 1669457379,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 253148,
+        "num": 253148,
+        "word": "张真源北京大学生音乐节舞台镜头",
+        "onboard_time": 1669453539,
+        "rank": 26,
+        "category": "音乐,教育"
+      },
+      {
+        "raw_hot": 232258,
+        "num": 232258,
+        "word": "体会到了小学门口的快乐",
+        "onboard_time": 1669457738,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 226253,
+        "num": 226253,
+        "word": "突尼斯vs澳大利亚",
+        "onboard_time": 1669454318,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 212141,
+        "num": 212141,
+        "word": "C罗或去大巴黎与梅西合作",
+        "onboard_time": 1669460263,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 319877,
+        "num": 206905,
+        "word": "华侨称要让儿子加纳学踢球再回中国队",
+        "onboard_time": 1669459303,
+        "rank": 30,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 198496,
+        "num": 198496,
+        "word": "MMA红毯上的明星",
+        "onboard_time": 1669453418,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 195625,
+        "num": 195625,
+        "word": "宋亚轩今晚独唱每个眼神都只身荒野",
+        "onboard_time": 1669455577,
+        "rank": 32,
+        "category": "影视,音乐"
+      },
+      {
+        "raw_hot": 190775,
+        "num": 190775,
+        "word": "男子口腔溃疡一年瘦62斤竟患罕见病",
+        "onboard_time": 1669445556,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185826,
+        "num": 190742,
+        "word": "尹峥酒后对李薇吐真言",
+        "onboard_time": 1669455938,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 190729,
+        "num": 190729,
+        "word": "XYG对战TTG",
+        "onboard_time": 1669458580,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 189547,
+        "num": 189547,
+        "word": "山东人的身高是祖传的",
+        "onboard_time": 1669452456,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 187911,
+        "num": 187911,
+        "word": "澳大利亚进球",
+        "onboard_time": 1669459120,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183971,
+        "num": 183971,
+        "word": "成都银杏今年忘了黄",
+        "onboard_time": 1669457141,
+        "rank": 38,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 179704,
+        "num": 179704,
+        "word": "迪丽热巴微博剧综报告双榜TOP1",
+        "onboard_time": 1669453055,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 174960,
+        "num": 174960,
+        "word": "NewJeans红毯造型",
+        "onboard_time": 1669454620,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 171749,
+        "num": 171749,
+        "word": "TXT获MMA最佳男子表演奖",
+        "onboard_time": 1669457016,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 165037,
+        "num": 165037,
+        "word": "赵丽颖孙千快把手势舞交出来",
+        "onboard_time": 1669451193,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 161019,
+        "num": 161019,
+        "word": "卡塔尔也看猫和老鼠吗",
+        "onboard_time": 1669455762,
+        "rank": 43,
+        "category": "体育,幽默"
+      },
+      {
+        "raw_hot": 160984,
+        "num": 160984,
+        "word": "为避免留名TA每笔汇款不超1万元",
+        "onboard_time": 1669458580,
+        "rank": 44,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 147371,
+        "num": 147371,
+        "word": "杜克头球破门",
+        "onboard_time": 1669459720,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147162,
+        "num": 147162,
+        "word": "卡卡说C罗是个非常棒的小伙",
+        "onboard_time": 1669447357,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146303,
+        "num": 146303,
+        "word": "安宥真MMA红毯",
+        "onboard_time": 1669458880,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 138769,
+        "num": 138769,
+        "word": "猫咪遛弯回家和出门判若两猫",
+        "onboard_time": 1669453539,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 131480,
+        "num": 131480,
+        "word": "李铁资本版图",
+        "onboard_time": 1669444057,
+        "rank": 49,
+        "category": "体育,财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#让节粮减损成为新食尚#"
+    }
+  }
+}

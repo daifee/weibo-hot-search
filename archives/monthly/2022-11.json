@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1669458957964,
+  "endTime": 1669461334866,
   "band_list": [
     {
       "raw_hot": 36651023,
@@ -243,6 +243,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 4658950,
+      "num": 4658950,
+      "word": "乌鲁木齐市1124火灾四问",
+      "onboard_time": 1669453658,
+      "rank": 12,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 4620109,
       "num": 4620109,
       "word": "王冰冰要回来了",
@@ -265,14 +273,6 @@
       "onboard_time": 1668259358,
       "rank": 1,
       "category": "影视"
-    },
-    {
-      "raw_hot": 4147697,
-      "num": 4147697,
-      "word": "乌鲁木齐市1124火灾四问",
-      "onboard_time": 1669453658,
-      "rank": 12,
-      "category": "社会负面"
     },
     {
       "raw_hot": 4058434,
@@ -3467,6 +3467,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1312303,
+      "num": 1312303,
+      "word": "女子苦干12年赚钱给弟弟买房买车",
+      "onboard_time": 1669455038,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1309972,
       "num": 1309972,
       "word": "陈乔恩的一生都在被湖南台记录",
@@ -5329,14 +5337,6 @@
       "onboard_time": 1668323010,
       "rank": 17,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 1006054,
-      "num": 1006054,
-      "word": "女子苦干12年赚钱给弟弟买房买车",
-      "onboard_time": 1669455038,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1005827,
@@ -14331,6 +14331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 507943,
+      "num": 507943,
+      "word": "张元英MMA红毯新闻图",
+      "onboard_time": 1669456360,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 507874,
       "num": 507874,
       "word": "3岁女孩连吃8个柿子长胃结石",
@@ -15625,14 +15633,6 @@
       "onboard_time": 1669105174,
       "rank": 29,
       "category": "影视"
-    },
-    {
-      "raw_hot": 476115,
-      "num": 476115,
-      "word": "张元英MMA红毯新闻图",
-      "onboard_time": 1669456360,
-      "rank": 15,
-      "category": "音乐"
     },
     {
       "raw_hot": 475995,
@@ -17659,6 +17659,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 433072,
+      "num": 433072,
+      "word": "MAMA",
+      "onboard_time": 1669458037,
+      "rank": 20,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 432811,
       "num": 432811,
       "word": "10岁女孩遇诈骗9岁妹妹劝阻报警",
@@ -17873,6 +17881,14 @@
       "onboard_time": 1669110391,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 428663,
+      "num": 428663,
+      "word": "我没有早八但我女儿有",
+      "onboard_time": 1669454800,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 428131,
@@ -18769,6 +18785,14 @@
       "onboard_time": 1669435840,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 411184,
+      "num": 411184,
+      "word": "宋雨琦MMA红毯生图",
+      "onboard_time": 1669458639,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 411168,
@@ -20227,14 +20251,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 385485,
-      "num": 385485,
-      "word": "我没有早八但我女儿有",
-      "onboard_time": 1669454800,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 385406,
       "num": 385406,
       "word": "狗狗腿瘸主人花400元确认是装的",
@@ -20641,14 +20657,6 @@
       "onboard_time": 1668605129,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 379079,
-      "num": 379079,
-      "word": "MAMA",
-      "onboard_time": 1669458037,
-      "rank": 20,
-      "category": "音乐"
     },
     {
       "raw_hot": 378993,
@@ -21379,6 +21387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 365770,
+      "num": 365770,
+      "word": "时代少年团无尽的冒险舞台预告",
+      "onboard_time": 1669459418,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 365546,
       "num": 365546,
       "word": "外卖小哥遇事故怒喊我没时间我要工作",
@@ -21505,6 +21521,14 @@
       "onboard_time": 1668765747,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 363744,
+      "num": 363744,
+      "word": "哈利波特",
+      "onboard_time": 1669460563,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 363646,
@@ -21913,6 +21937,14 @@
       "onboard_time": 1667359587,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 357680,
+      "num": 357680,
+      "word": "姐姐想吃麻辣烫9岁弟弟研究制做",
+      "onboard_time": 1669459839,
+      "rank": 18,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 357228,
@@ -24707,6 +24739,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 319877,
+      "num": 206905,
+      "word": "华侨称要让儿子加纳学踢球再回中国队",
+      "onboard_time": 1669459303,
+      "rank": 30,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 319783,
       "num": 316603,
       "word": "命韵峋环沙发咚",
@@ -27049,14 +27089,6 @@
       "onboard_time": 1669219056,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 289248,
-      "num": 289248,
-      "word": "宋雨琦MMA红毯生图",
-      "onboard_time": 1669458639,
-      "rank": 26,
-      "category": "音乐"
     },
     {
       "raw_hot": 289186,
@@ -32155,6 +32187,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 232258,
+      "num": 232258,
+      "word": "体会到了小学门口的快乐",
+      "onboard_time": 1669457738,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 232209,
       "num": 197671,
       "word": "李峋要开始复仇了",
@@ -34459,14 +34499,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 214494,
-      "num": 214494,
-      "word": "体会到了小学门口的快乐",
-      "onboard_time": 1669457738,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 214445,
       "num": 214445,
       "word": "樊振东3比2魏世皓",
@@ -34721,6 +34753,14 @@
       "onboard_time": 1668307109,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 212141,
+      "num": 212141,
+      "word": "C罗或去大巴黎与梅西合作",
+      "onboard_time": 1669460263,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 212123,
@@ -38233,6 +38273,14 @@
       "onboard_time": 1667960124,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 187911,
+      "num": 187911,
+      "word": "澳大利亚进球",
+      "onboard_time": 1669459120,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 187873,
@@ -42211,6 +42259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161019,
+      "num": 161019,
+      "word": "卡塔尔也看猫和老鼠吗",
+      "onboard_time": 1669455762,
+      "rank": 48,
+      "category": "体育,幽默"
+    },
+    {
       "raw_hot": 160997,
       "num": 160997,
       "word": "网传救护车坐地起价涉事人员被抓",
@@ -44243,14 +44299,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 148163,
-      "num": 148163,
-      "word": "卡塔尔也看猫和老鼠吗",
-      "onboard_time": 1669455762,
-      "rank": 48,
-      "category": "体育,幽默"
-    },
-    {
       "raw_hot": 148155,
       "num": 99710,
       "word": "周也夸檀健次声音好听",
@@ -44441,6 +44489,14 @@
       "onboard_time": 1667912967,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 147371,
+      "num": 147371,
+      "word": "杜克头球破门",
+      "onboard_time": 1669459720,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 147331,
