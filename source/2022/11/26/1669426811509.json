@@ -1,0 +1,410 @@
+{
+  "runTime": 1669426811509,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1514334,
+        "num": 1514334,
+        "word": "吴亦凡被驱逐后10年不得入境",
+        "onboard_time": 1669394383,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1475216,
+        "num": 1475216,
+        "word": "宫外孕最容易盯上哪些女性",
+        "onboard_time": 1669421796,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63595,
+        "num": 1259808,
+        "word": "来自中国空间站的出差邀请",
+        "onboard_time": 1669381789,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 4781782,
+        "num": 1259597,
+        "word": "乌鲁木齐1124火灾事故发布会",
+        "onboard_time": 1669392051,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1258556,
+        "num": 1258556,
+        "word": "男主持退场时一屁股坐女舞者身上",
+        "onboard_time": 1669421194,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 850837,
+        "num": 850837,
+        "word": "千万不要吃完饭就躺着睡觉",
+        "onboard_time": 1669422637,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 3846388,
+        "num": 771383,
+        "word": "乌鲁木齐火灾事故网传图片系恶意拼接",
+        "onboard_time": 1669421674,
+        "rank": 6,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 612115,
+        "num": 612115,
+        "word": "狗狗每天被迫看娃被折磨得没狗样",
+        "onboard_time": 1669422940,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 575731,
+        "num": 575731,
+        "word": "卡塔尔小王子又去现场了",
+        "onboard_time": 1669391637,
+        "rank": 8,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 2944633,
+        "num": 574049,
+        "word": "乌鲁木齐市长就10死火灾事故致歉",
+        "onboard_time": 1669420588,
+        "rank": 9,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 547362,
+        "num": 547362,
+        "word": "北京朝阳提醒居家隔离人员如何防护",
+        "onboard_time": 1669419688,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 534836,
+        "num": 534836,
+        "word": "英格兰0比0美国",
+        "onboard_time": 1669418126,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 634195,
+        "num": 534067,
+        "word": "乌鲁木齐已成立火灾事故联合调查组",
+        "onboard_time": 1669420588,
+        "rank": 12,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 525639,
+        "num": 525639,
+        "word": "广州天河疫情防控",
+        "onboard_time": 1669420352,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 458614,
+        "num": 458614,
+        "word": "11月25日北京新增本土确诊586例",
+        "onboard_time": 1669422095,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 454085,
+        "num": 454085,
+        "word": "分手的决心赢麻了",
+        "onboard_time": 1669388528,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 403811,
+        "num": 403811,
+        "word": "内马尔无缘小组赛剩余比赛",
+        "onboard_time": 1669391877,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 385969,
+        "num": 385969,
+        "word": "英格兰美国赛果决定了足球称呼",
+        "onboard_time": 1669409233,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 361958,
+        "num": 361958,
+        "word": "鲍蕾陆毅好甜",
+        "onboard_time": 1669423362,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 324541,
+        "num": 324541,
+        "word": "卡塔尔国王是不用自己走路的",
+        "onboard_time": 1669395639,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1652750,
+        "num": 321471,
+        "word": "女子造谣乌鲁木齐火灾事故死亡人数被拘",
+        "onboard_time": 1669425639,
+        "rank": 20,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 293438,
+        "num": 293438,
+        "word": "儿媳谎称以旧换新哄71岁婆婆扔旧鞋",
+        "onboard_time": 1669423178,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291403,
+        "num": 291403,
+        "word": "广州疫情防控",
+        "onboard_time": 1669420352,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279117,
+        "num": 279117,
+        "word": "0713一开口就是那个夏天",
+        "onboard_time": 1669423900,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 269636,
+        "num": 269636,
+        "word": "宝妈为孩子做逛超市防购物神裤",
+        "onboard_time": 1669424860,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250559,
+        "num": 250559,
+        "word": "胡锡进",
+        "onboard_time": 1669377532,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249205,
+        "num": 249205,
+        "word": "现在瑜伽裤的模特是怎么回事",
+        "onboard_time": 1669386188,
+        "rank": 26,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 248996,
+        "num": 248996,
+        "word": "福建流水席吃的有多随便",
+        "onboard_time": 1669421011,
+        "rank": 27,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 246770,
+        "num": 246770,
+        "word": "少爷和小姐",
+        "onboard_time": 1669387332,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245051,
+        "num": 245051,
+        "word": "广州地铁",
+        "onboard_time": 1669419086,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240328,
+        "num": 240328,
+        "word": "北京加快集中隔离场所和方舱医院储备建设",
+        "onboard_time": 1669392233,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237923,
+        "num": 237923,
+        "word": "王嘉尔泰国演唱会上座率",
+        "onboard_time": 1669392530,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 217682,
+        "num": 217682,
+        "word": "巧克力能有多惊人",
+        "onboard_time": 1669422396,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 212964,
+        "num": 212964,
+        "word": "汤唯获青龙奖影后",
+        "onboard_time": 1669384808,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 212720,
+        "num": 212720,
+        "word": "杨幂合作的演员一个夜华一个阳华",
+        "onboard_time": 1669390680,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 211782,
+        "num": 211782,
+        "word": "外卖员贪小便宜多次偷拿外卖被抓",
+        "onboard_time": 1669415176,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198512,
+        "num": 198512,
+        "word": "卡塔尔提前小组出局",
+        "onboard_time": 1669400422,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197691,
+        "num": 197691,
+        "word": "鞠婧祎恋爱告急全开麦舞台",
+        "onboard_time": 1669381431,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190139,
+        "num": 190139,
+        "word": "王源说时间尽头会有流萤的",
+        "onboard_time": 1669424321,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 183773,
+        "num": 183773,
+        "word": "吴永秀因涉嫌强制猥亵被起诉",
+        "onboard_time": 1669384688,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180417,
+        "num": 180417,
+        "word": "萌娃自助餐狂喝饮料变皮球肚",
+        "onboard_time": 1669426418,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175105,
+        "num": 175105,
+        "word": "蔬菜大棚暗藏制毒窝点",
+        "onboard_time": 1669425875,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168833,
+        "num": 168833,
+        "word": "郑秀妍有了新的羁绊",
+        "onboard_time": 1669425820,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168789,
+        "num": 168789,
+        "word": "吴亦凡强奸聚众淫乱案细节披露",
+        "onboard_time": 1669364253,
+        "rank": 43,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 168074,
+        "num": 168074,
+        "word": "内马尔颜值巅峰",
+        "onboard_time": 1669396591,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162396,
+        "num": 162396,
+        "word": "小婉管乐",
+        "onboard_time": 1669426476,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152599,
+        "num": 152599,
+        "word": "谁没嗑过一对意难平的cp呢",
+        "onboard_time": 1669422579,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 148445,
+        "num": 148445,
+        "word": "郑州疫情防控攻坚行动进行时",
+        "onboard_time": 1669388715,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142413,
+        "num": 142413,
+        "word": "卡塔尔 回家",
+        "onboard_time": 1669395518,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136152,
+        "num": 138630,
+        "word": "为何马奎尔到了国家队就很稳",
+        "onboard_time": 1669426300,
+        "rank": 49,
+        "category": "体育,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#正青春 再出发#"
+    }
+  }
+}

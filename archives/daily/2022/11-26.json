@@ -1,6 +1,6 @@
 {
   "startTime": 1669393663708,
-  "endTime": 1669419284031,
+  "endTime": 1669426811509,
   "band_list": [
     {
       "raw_hot": 13715986,
@@ -9,6 +9,22 @@
       "onboard_time": 1669392051,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3846388,
+      "num": 771383,
+      "word": "乌鲁木齐火灾事故网传图片系恶意拼接",
+      "onboard_time": 1669421674,
+      "rank": 6,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 2944633,
+      "num": 574049,
+      "word": "乌鲁木齐市长就10死火灾事故致歉",
+      "onboard_time": 1669420588,
+      "rank": 9,
+      "category": "社会负面"
     },
     {
       "raw_hot": 2681751,
@@ -35,12 +51,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1458970,
-      "num": 1221307,
+      "raw_hot": 1652750,
+      "num": 321471,
+      "word": "女子造谣乌鲁木齐火灾事故死亡人数被拘",
+      "onboard_time": 1669425639,
+      "rank": 20,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 1514334,
+      "num": 1514334,
       "word": "吴亦凡被驱逐后10年不得入境",
       "onboard_time": 1669394383,
       "rank": 30,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1475216,
+      "num": 1475216,
+      "word": "宫外孕最容易盯上哪些女性",
+      "onboard_time": 1669421796,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1279420,
@@ -48,6 +80,14 @@
       "word": "广州没有静默的安排",
       "onboard_time": 1669372491,
       "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1258556,
+      "num": 1258556,
+      "word": "男主持退场时一屁股坐女舞者身上",
+      "onboard_time": 1669421194,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -89,6 +129,14 @@
       "onboard_time": 1669392289,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 850837,
+      "num": 850837,
+      "word": "千万不要吃完饭就躺着睡觉",
+      "onboard_time": 1669422637,
+      "rank": 5,
+      "category": "情感"
     },
     {
       "raw_hot": 767561,
@@ -137,6 +185,46 @@
       "onboard_time": 1669395518,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 634195,
+      "num": 534067,
+      "word": "乌鲁木齐已成立火灾事故联合调查组",
+      "onboard_time": 1669420588,
+      "rank": 12,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 612115,
+      "num": 612115,
+      "word": "狗狗每天被迫看娃被折磨得没狗样",
+      "onboard_time": 1669422940,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 547362,
+      "num": 547362,
+      "word": "北京朝阳提醒居家隔离人员如何防护",
+      "onboard_time": 1669419688,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 534836,
+      "num": 534836,
+      "word": "英格兰0比0美国",
+      "onboard_time": 1669418126,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 525639,
+      "num": 525639,
+      "word": "广州天河疫情防控",
+      "onboard_time": 1669420352,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 520246,
@@ -195,6 +283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 458614,
+      "num": 458614,
+      "word": "11月25日北京新增本土确诊586例",
+      "onboard_time": 1669422095,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 432054,
       "num": 432054,
       "word": "荷兰vs厄瓜多尔",
@@ -249,6 +345,14 @@
       "onboard_time": 1669388715,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 361958,
+      "num": 361958,
+      "word": "鲍蕾陆毅好甜",
+      "onboard_time": 1669423362,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 353758,
@@ -323,6 +427,38 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 293438,
+      "num": 293438,
+      "word": "儿媳谎称以旧换新哄71岁婆婆扔旧鞋",
+      "onboard_time": 1669423178,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 291403,
+      "num": 291403,
+      "word": "广州疫情防控",
+      "onboard_time": 1669420352,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 279117,
+      "num": 279117,
+      "word": "0713一开口就是那个夏天",
+      "onboard_time": 1669423900,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 269636,
+      "num": 269636,
+      "word": "宝妈为孩子做逛超市防购物神裤",
+      "onboard_time": 1669424860,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 256310,
       "num": 220650,
       "word": "赵丽颖新剧和王劲松演父女",
@@ -347,6 +483,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 248996,
+      "num": 248996,
+      "word": "福建流水席吃的有多随便",
+      "onboard_time": 1669421011,
+      "rank": 27,
+      "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 245051,
+      "num": 245051,
+      "word": "广州地铁",
+      "onboard_time": 1669419086,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 237999,
       "num": 237999,
       "word": "内马尔颜值巅峰",
@@ -363,20 +515,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 223910,
-      "num": 223910,
-      "word": "英格兰0比0美国",
-      "onboard_time": 1669418126,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 222169,
       "num": 222169,
       "word": "吹风机放床上引燃被褥烧了家",
       "onboard_time": 1669382338,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 217682,
+      "num": 217682,
+      "word": "巧克力能有多惊人",
+      "onboard_time": 1669422396,
+      "rank": 32,
+      "category": "美食"
     },
     {
       "raw_hot": 212380,
@@ -403,6 +555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 198512,
+      "num": 198512,
+      "word": "卡塔尔提前小组出局",
+      "onboard_time": 1669400422,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 190791,
       "num": 170818,
       "word": "尹峥求李薇让他走个后门",
@@ -411,12 +571,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 190139,
+      "num": 190139,
+      "word": "王源说时间尽头会有流萤的",
+      "onboard_time": 1669424321,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 181040,
       "num": 181040,
       "word": "卡塔尔来到淘汰边缘",
       "onboard_time": 1669394620,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 180417,
+      "num": 180417,
+      "word": "萌娃自助餐狂喝饮料变皮球肚",
+      "onboard_time": 1669426418,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 175105,
+      "num": 175105,
+      "word": "蔬菜大棚暗藏制毒窝点",
+      "onboard_time": 1669425875,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 174589,
@@ -443,12 +627,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 168833,
+      "num": 168833,
+      "word": "郑秀妍有了新的羁绊",
+      "onboard_time": 1669425820,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 162715,
       "num": 162715,
       "word": "29岁男子为考央美复读10年",
       "onboard_time": 1669384031,
       "rank": 43,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 162396,
+      "num": 162396,
+      "word": "小婉管乐",
+      "onboard_time": 1669426476,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 154710,
@@ -459,20 +659,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 152599,
+      "num": 152599,
+      "word": "谁没嗑过一对意难平的cp呢",
+      "onboard_time": 1669422579,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 149035,
       "num": 154665,
       "word": "为爱冲锋的勇士是场闹剧",
       "onboard_time": 1669384688,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 148462,
-      "num": 148462,
-      "word": "卡塔尔提前小组出局",
-      "onboard_time": 1669400422,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 145347,
@@ -489,6 +689,14 @@
       "onboard_time": 1669418126,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 136152,
+      "num": 138630,
+      "word": "为何马奎尔到了国家队就很稳",
+      "onboard_time": 1669426300,
+      "rank": 49,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 133100,
@@ -625,14 +833,6 @@
       "onboard_time": 1669399523,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 59381,
-      "num": 59381,
-      "word": "广州地铁",
-      "onboard_time": 1669419086,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 58857,
