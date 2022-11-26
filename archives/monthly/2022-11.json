@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1669454287200,
+  "endTime": 1669455215213,
   "band_list": [
     {
       "raw_hot": 36651023,
@@ -123,6 +123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 6991471,
+      "num": 468596,
+      "word": "佛山踩踏",
+      "onboard_time": 1669452815,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 6812972,
       "num": 7554308,
       "word": "德国1比2日本",
@@ -137,14 +145,6 @@
       "onboard_time": 1669378258,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 6757715,
-      "num": 468596,
-      "word": "佛山踩踏",
-      "onboard_time": 1669452815,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 6338884,
@@ -827,6 +827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2585780,
+      "num": 2585780,
+      "word": "街道回应网传社区爆出威胁居民言论",
+      "onboard_time": 1669452758,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2569916,
       "num": 2569916,
       "word": "退钱哥",
@@ -1129,14 +1137,6 @@
       "onboard_time": 1668147644,
       "rank": 11,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 2283641,
-      "num": 2283641,
-      "word": "街道回应网传社区爆出威胁居民言论",
-      "onboard_time": 1669452758,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2263923,
@@ -1937,6 +1937,14 @@
       "onboard_time": 1668843086,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1778099,
+      "num": 467218,
+      "word": "乌鲁木齐市1124火灾四问",
+      "onboard_time": 1669453658,
+      "rank": 12,
+      "category": "社会负面"
     },
     {
       "raw_hot": 1776758,
@@ -3187,14 +3195,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1396817,
-      "num": 467218,
-      "word": "乌鲁木齐市1124火灾四问",
-      "onboard_time": 1669453658,
-      "rank": 12,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 1390938,
       "num": 836485,
       "word": "谁能理解老年人的性生活需求",
@@ -4129,6 +4129,14 @@
       "onboard_time": 1667539409,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1167004,
+      "num": 1167004,
+      "word": "确保20条措施不折不扣不走样成关键",
+      "onboard_time": 1669453539,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1166380,
@@ -9715,6 +9723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 664182,
+      "num": 466338,
+      "word": "张真源北京大学生音乐节舞台镜头",
+      "onboard_time": 1669453539,
+      "rank": 13,
+      "category": "音乐,教育"
+    },
+    {
       "raw_hot": 663722,
       "num": 663722,
       "word": "元英的原型是纯元吧",
@@ -10857,6 +10873,14 @@
       "onboard_time": 1669274251,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 612503,
+      "num": 612503,
+      "word": "招聘小学数学老师要求风景园林专业",
+      "onboard_time": 1669452514,
+      "rank": 9,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 612401,
@@ -12643,14 +12667,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 550740,
-      "num": 466338,
-      "word": "张真源北京大学生音乐节舞台镜头",
-      "onboard_time": 1669453539,
-      "rank": 13,
-      "category": "音乐,教育"
-    },
-    {
       "raw_hot": 550647,
       "num": 301656,
       "word": "鞠婧祎红毯直播状态",
@@ -12873,6 +12889,14 @@
       "onboard_time": 1667403746,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 543534,
+      "num": 425625,
+      "word": "卡塔尔人输急眼了",
+      "onboard_time": 1669453960,
+      "rank": 34,
+      "category": "体育,幽默"
     },
     {
       "raw_hot": 543466,
@@ -13496,14 +13520,6 @@
       "word": "杭州一女生网购被急哭了",
       "onboard_time": 1667996487,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 525060,
-      "num": 525060,
-      "word": "确保20条措施不折不扣不走样成关键",
-      "onboard_time": 1669453539,
-      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -14153,6 +14169,14 @@
       "onboard_time": 1669210355,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 511161,
+      "num": 511161,
+      "word": "MMA红毯上的明星",
+      "onboard_time": 1669453418,
+      "rank": 17,
+      "category": "音乐"
     },
     {
       "raw_hot": 511027,
@@ -15387,6 +15411,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 478823,
+      "num": 464303,
+      "word": "迪丽热巴微博剧综报告双榜TOP1",
+      "onboard_time": 1669453055,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 478772,
       "num": 478772,
       "word": "徐志胜窝里横",
@@ -15819,14 +15851,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 468733,
-      "num": 468733,
-      "word": "招聘小学数学老师要求风景园林专业",
-      "onboard_time": 1669452514,
-      "rank": 9,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 468724,
       "num": 468724,
       "word": "托运行李内藏199只活龟7条活蛇",
@@ -16043,14 +16067,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 464303,
-      "num": 464303,
-      "word": "迪丽热巴微博剧综报告双榜TOP1",
-      "onboard_time": 1669453055,
-      "rank": 16,
-      "category": "影视"
-    },
-    {
       "raw_hot": 464090,
       "num": 440488,
       "word": "开幕式 中东文化",
@@ -16201,14 +16217,6 @@
       "onboard_time": 1669101812,
       "rank": 36,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 460536,
-      "num": 460536,
-      "word": "MMA红毯上的明星",
-      "onboard_time": 1669453418,
-      "rank": 17,
-      "category": "音乐"
     },
     {
       "raw_hot": 460307,
@@ -18009,6 +18017,14 @@
       "onboard_time": 1668683788,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 424444,
+      "num": 424444,
+      "word": "女子16万买2车库精装修后入住",
+      "onboard_time": 1669453658,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 424332,
@@ -27603,6 +27619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 281809,
+      "num": 281809,
+      "word": "梅西今晚领衔关键之战",
+      "onboard_time": 1669451075,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 281728,
       "num": 281728,
       "word": "恋与深空",
@@ -28217,14 +28241,6 @@
       "onboard_time": 1669129728,
       "rank": 40,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 275755,
-      "num": 275755,
-      "word": "梅西今晚领衔关键之战",
-      "onboard_time": 1669451075,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 275680,
@@ -29001,6 +29017,14 @@
       "onboard_time": 1669446935,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 265879,
+      "num": 265879,
+      "word": "男子被疑患肺癌竟是鸡骨滑入肺",
+      "onboard_time": 1669452216,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 265852,
@@ -30385,6 +30409,14 @@
       "onboard_time": 1669275510,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 250021,
+      "num": 234979,
+      "word": "NewJeans红毯造型",
+      "onboard_time": 1669454620,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 249970,
@@ -33243,6 +33275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 222824,
+      "num": 222824,
+      "word": "命韵峋环的第三张同框合照",
+      "onboard_time": 1669454201,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 222760,
       "num": 222760,
       "word": "鹿晗新歌霸榜",
@@ -33273,14 +33313,6 @@
       "onboard_time": 1668788424,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 222388,
-      "num": 222388,
-      "word": "男子被疑患肺癌竟是鸡骨滑入肺",
-      "onboard_time": 1669452216,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 222322,
@@ -34291,14 +34323,6 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 214641,
-      "num": 214641,
-      "word": "女子16万买2车库精装修后入住",
-      "onboard_time": 1669453658,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 214567,
       "num": 214567,
       "word": "李薇宋舞身高差",
@@ -34377,14 +34401,6 @@
       "onboard_time": 1669432185,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 213983,
-      "num": 213983,
-      "word": "卡塔尔人输急眼了",
-      "onboard_time": 1669453960,
-      "rank": 34,
-      "category": "体育,幽默"
     },
     {
       "raw_hot": 213850,
@@ -37387,6 +37403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 192257,
+      "num": 192257,
+      "word": "我没有早八但我女儿有",
+      "onboard_time": 1669454800,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 192253,
       "num": 192253,
       "word": "爱的二八定律进阶小时代",
@@ -38001,6 +38025,14 @@
       "onboard_time": 1669176697,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 188428,
+      "num": 188428,
+      "word": "重庆一男子被曝小区内多次猥亵小孩",
+      "onboard_time": 1669454740,
+      "rank": 38,
+      "category": "社会负面"
     },
     {
       "raw_hot": 188351,
@@ -38963,6 +38995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 182405,
+      "num": 182405,
+      "word": "猫咪遛弯回家和出门判若两猫",
+      "onboard_time": 1669453539,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 182393,
       "num": 182393,
       "word": "潘粤明作画预测阿根廷夺冠",
@@ -39313,14 +39353,6 @@
       "onboard_time": 1668755246,
       "rank": 30,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 180282,
-      "num": 171467,
-      "word": "命韵峋环的第三张同框合照",
-      "onboard_time": 1669454201,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 180270,
@@ -40529,14 +40561,6 @@
       "onboard_time": 1668780869,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 171442,
-      "num": 171442,
-      "word": "猫咪遛弯回家和出门判若两猫",
-      "onboard_time": 1669453539,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 171430,
@@ -45403,6 +45427,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 141517,
+      "num": 141517,
+      "word": "突尼斯vs澳大利亚",
+      "onboard_time": 1669454318,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141417,
       "num": 141417,
       "word": "这猫这床瞬间都不想要了",
@@ -46553,6 +46585,14 @@
       "onboard_time": 1668762925,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 135353,
+      "num": 135353,
+      "word": "女子苦干12年赚钱给弟弟买房买车",
+      "onboard_time": 1669455038,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 135344,

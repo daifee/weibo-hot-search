@@ -1,6 +1,6 @@
 {
   "startTime": 1668961718135,
-  "endTime": 1669454287200,
+  "endTime": 1669455215213,
   "band_list": [
     {
       "raw_hot": 36651023,
@@ -107,6 +107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 6991471,
+      "num": 468596,
+      "word": "佛山踩踏",
+      "onboard_time": 1669452815,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 6812972,
       "num": 7554308,
       "word": "德国1比2日本",
@@ -121,14 +129,6 @@
       "onboard_time": 1669378258,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 6757715,
-      "num": 468596,
-      "word": "佛山踩踏",
-      "onboard_time": 1669452815,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 6338884,
@@ -427,6 +427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2585780,
+      "num": 2585780,
+      "word": "街道回应网传社区爆出威胁居民言论",
+      "onboard_time": 1669452758,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2569916,
       "num": 2569916,
       "word": "退钱哥",
@@ -537,14 +545,6 @@
       "onboard_time": 1669355856,
       "rank": 19,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 2283641,
-      "num": 2283641,
-      "word": "街道回应网传社区爆出威胁居民言论",
-      "onboard_time": 1669452758,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2257168,
@@ -737,6 +737,14 @@
       "onboard_time": 1669341698,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1778099,
+      "num": 467218,
+      "word": "乌鲁木齐市1124火灾四问",
+      "onboard_time": 1669453658,
+      "rank": 12,
+      "category": "社会负面"
     },
     {
       "raw_hot": 1769248,
@@ -1131,14 +1139,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1396817,
-      "num": 467218,
-      "word": "乌鲁木齐市1124火灾四问",
-      "onboard_time": 1669453658,
-      "rank": 12,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 1380471,
       "num": 1380471,
       "word": "石家庄新增确诊321例无症状2876例",
@@ -1417,6 +1417,14 @@
       "onboard_time": 1669211076,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1167004,
+      "num": 1167004,
+      "word": "确保20条措施不折不扣不走样成关键",
+      "onboard_time": 1669453539,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1163613,
@@ -2971,6 +2979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 664182,
+      "num": 466338,
+      "word": "张真源北京大学生音乐节舞台镜头",
+      "onboard_time": 1669453539,
+      "rank": 13,
+      "category": "音乐,教育"
+    },
+    {
       "raw_hot": 662759,
       "num": 660037,
       "word": "小杨哥被打假事件消费者发声",
@@ -3353,6 +3369,14 @@
       "onboard_time": 1669274251,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 612503,
+      "num": 612503,
+      "word": "招聘小学数学老师要求风景园林专业",
+      "onboard_time": 1669452514,
+      "rank": 9,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 612115,
@@ -3859,14 +3883,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 550740,
-      "num": 466338,
-      "word": "张真源北京大学生音乐节舞台镜头",
-      "onboard_time": 1669453539,
-      "rank": 13,
-      "category": "音乐,教育"
-    },
-    {
       "raw_hot": 550647,
       "num": 301656,
       "word": "鞠婧祎红毯直播状态",
@@ -3937,6 +3953,14 @@
       "onboard_time": 1669104571,
       "rank": 9,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 543534,
+      "num": 425625,
+      "word": "卡塔尔人输急眼了",
+      "onboard_time": 1669453960,
+      "rank": 34,
+      "category": "体育,幽默"
     },
     {
       "raw_hot": 543466,
@@ -4163,14 +4187,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 525060,
-      "num": 525060,
-      "word": "确保20条措施不折不扣不走样成关键",
-      "onboard_time": 1669453539,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 524832,
       "num": 524832,
       "word": "苏有朋致综艺人的一封信",
@@ -4385,6 +4401,14 @@
       "onboard_time": 1669210355,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 511161,
+      "num": 511161,
+      "word": "MMA红毯上的明星",
+      "onboard_time": 1669453418,
+      "rank": 17,
+      "category": "音乐"
     },
     {
       "raw_hot": 508376,
@@ -4699,6 +4723,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 478823,
+      "num": 464303,
+      "word": "迪丽热巴微博剧综报告双榜TOP1",
+      "onboard_time": 1669453055,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 478625,
       "num": 478625,
       "word": "世界杯首球",
@@ -4827,14 +4859,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 468733,
-      "num": 468733,
-      "word": "招聘小学数学老师要求风景园林专业",
-      "onboard_time": 1669452514,
-      "rank": 9,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 468656,
       "num": 468656,
       "word": "女子做水果馒头剥开全是细节",
@@ -4875,14 +4899,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 464303,
-      "num": 464303,
-      "word": "迪丽热巴微博剧综报告双榜TOP1",
-      "onboard_time": 1669453055,
-      "rank": 16,
-      "category": "影视"
-    },
-    {
       "raw_hot": 462894,
       "num": 462894,
       "word": "田柾国参与了Dreamers词曲创作",
@@ -4913,14 +4929,6 @@
       "onboard_time": 1669101812,
       "rank": 36,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 460536,
-      "num": 460536,
-      "word": "MMA红毯上的明星",
-      "onboard_time": 1669453418,
-      "rank": 17,
-      "category": "音乐"
     },
     {
       "raw_hot": 460229,
@@ -5505,6 +5513,14 @@
       "onboard_time": 1668993511,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 424444,
+      "num": 424444,
+      "word": "女子16万买2车库精装修后入住",
+      "onboard_time": 1669453658,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 422469,
@@ -8523,6 +8539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 281809,
+      "num": 281809,
+      "word": "梅西今晚领衔关键之战",
+      "onboard_time": 1669451075,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 281412,
       "num": 281412,
       "word": "今晚接李峋出狱",
@@ -8763,14 +8787,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 275755,
-      "num": 275755,
-      "word": "梅西今晚领衔关键之战",
-      "onboard_time": 1669451075,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 275313,
       "num": 267880,
       "word": "宋亚轩说跟粉丝的距离没有那么远",
@@ -8945,6 +8961,14 @@
       "onboard_time": 1669446935,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 265879,
+      "num": 265879,
+      "word": "男子被疑患肺癌竟是鸡骨滑入肺",
+      "onboard_time": 1669452216,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 265643,
@@ -9393,6 +9417,14 @@
       "onboard_time": 1669275510,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 250021,
+      "num": 234979,
+      "word": "NewJeans红毯造型",
+      "onboard_time": 1669454620,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 249970,
@@ -10187,12 +10219,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 222388,
-      "num": 222388,
-      "word": "男子被疑患肺癌竟是鸡骨滑入肺",
-      "onboard_time": 1669452216,
-      "rank": 31,
-      "category": "社会新闻"
+      "raw_hot": 222824,
+      "num": 222824,
+      "word": "命韵峋环的第三张同框合照",
+      "onboard_time": 1669454201,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 222016,
@@ -10611,28 +10643,12 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 214641,
-      "num": 214641,
-      "word": "女子16万买2车库精装修后入住",
-      "onboard_time": 1669453658,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 214075,
       "num": 214075,
       "word": "靳东成毅蔡文静底线豆瓣开分7.3",
       "onboard_time": 1669432185,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 213983,
-      "num": 213983,
-      "word": "卡塔尔人输急眼了",
-      "onboard_time": 1669453960,
-      "rank": 34,
-      "category": "体育,幽默"
     },
     {
       "raw_hot": 213795,
@@ -11651,6 +11667,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 192257,
+      "num": 192257,
+      "word": "我没有早八但我女儿有",
+      "onboard_time": 1669454800,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 192253,
       "num": 192253,
       "word": "爱的二八定律进阶小时代",
@@ -11833,6 +11857,14 @@
       "onboard_time": 1669176697,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 188428,
+      "num": 188428,
+      "word": "重庆一男子被曝小区内多次猥亵小孩",
+      "onboard_time": 1669454740,
+      "rank": 38,
+      "category": "社会负面"
     },
     {
       "raw_hot": 188349,
@@ -12187,6 +12219,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 182405,
+      "num": 182405,
+      "word": "猫咪遛弯回家和出门判若两猫",
+      "onboard_time": 1669453539,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 182248,
       "num": 182248,
       "word": "英格兰队长凯恩脚踝受伤",
@@ -12273,14 +12313,6 @@
       "onboard_time": 1669426418,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 180282,
-      "num": 171467,
-      "word": "命韵峋环的第三张同框合照",
-      "onboard_time": 1669454201,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 180270,
@@ -12673,14 +12705,6 @@
       "onboard_time": 1669223121,
       "rank": 24,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 171442,
-      "num": 171442,
-      "word": "猫咪遛弯回家和出门判若两猫",
-      "onboard_time": 1669453539,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 171429,
@@ -13995,6 +14019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 141517,
+      "num": 141517,
+      "word": "突尼斯vs澳大利亚",
+      "onboard_time": 1669454318,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141082,
       "num": 141082,
       "word": "世界杯和奥运会哪个更赚钱",
@@ -14233,6 +14265,14 @@
       "onboard_time": 1669270651,
       "rank": 46,
       "category": "影视,音乐"
+    },
+    {
+      "raw_hot": 135353,
+      "num": 135353,
+      "word": "女子苦干12年赚钱给弟弟买房买车",
+      "onboard_time": 1669455038,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 135344,
