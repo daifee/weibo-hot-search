@@ -1,6 +1,6 @@
 {
   "startTime": 1669393663708,
-  "endTime": 1669461334866,
+  "endTime": 1669462417065,
   "band_list": [
     {
       "raw_hot": 14766436,
@@ -339,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 794256,
+      "num": 794256,
+      "word": "哈利波特",
+      "onboard_time": 1669460563,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 786894,
       "num": 786894,
       "word": "9岁女童档口持刀杀鱼扒鳞",
@@ -481,6 +489,14 @@
       "onboard_time": 1669420588,
       "rank": 12,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 628354,
+      "num": 628354,
+      "word": "C罗或去大巴黎与梅西合作",
+      "onboard_time": 1669460263,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 612115,
@@ -627,6 +643,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 498772,
+      "num": 498772,
+      "word": "姐姐想吃麻辣烫9岁弟弟研究制做",
+      "onboard_time": 1669459839,
+      "rank": 18,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 491908,
       "num": 400488,
       "word": "胡锡进",
@@ -713,6 +737,14 @@
       "onboard_time": 1669422095,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 453779,
+      "num": 436048,
+      "word": "宋雨琦MMA红毯生图",
+      "onboard_time": 1669458639,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 450068,
@@ -803,14 +835,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 411184,
-      "num": 411184,
-      "word": "宋雨琦MMA红毯生图",
-      "onboard_time": 1669458639,
-      "rank": 26,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 407539,
       "num": 383793,
       "word": "杨幂合作的演员一个夜华一个阳华",
@@ -857,6 +881,14 @@
       "onboard_time": 1669448795,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 388807,
+      "num": 388807,
+      "word": "IVE获MMA最佳女子组合",
+      "onboard_time": 1669461399,
+      "rank": 19,
+      "category": "音乐"
     },
     {
       "raw_hot": 382990,
@@ -915,14 +947,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 363744,
-      "num": 363744,
-      "word": "哈利波特",
-      "onboard_time": 1669460563,
-      "rank": 17,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 363191,
       "num": 363191,
       "word": "11月25日新增本土无症状31504例",
@@ -945,14 +969,6 @@
       "onboard_time": 1669430747,
       "rank": 17,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 357680,
-      "num": 357680,
-      "word": "姐姐想吃麻辣烫9岁弟弟研究制做",
-      "onboard_time": 1669459839,
-      "rank": 18,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 353758,
@@ -1043,6 +1059,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 322416,
+      "num": 322416,
+      "word": "华侨称要让儿子加纳学踢球再回中国队",
+      "onboard_time": 1669459303,
+      "rank": 30,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 321296,
       "num": 321296,
       "word": "外卖员贪小便宜多次偷拿外卖被抓",
@@ -1057,14 +1081,6 @@
       "onboard_time": 1669440821,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 319877,
-      "num": 206905,
-      "word": "华侨称要让儿子加纳学踢球再回中国队",
-      "onboard_time": 1669459303,
-      "rank": 30,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 317259,
@@ -1121,6 +1137,14 @@
       "onboard_time": 1669388829,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 299524,
+      "num": 299524,
+      "word": "XYG对战TTG",
+      "onboard_time": 1669458580,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 298508,
@@ -1187,6 +1211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 281184,
+      "num": 281184,
+      "word": "田小娟获最佳作词作曲奖",
+      "onboard_time": 1669461638,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 279117,
       "num": 279117,
       "word": "0713一开口就是那个夏天",
@@ -1203,12 +1235,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 276900,
+      "num": 164224,
+      "word": "虞书欣越祈杀青plog",
+      "onboard_time": 1669462058,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 271152,
       "num": 271152,
       "word": "山东人的身高是祖传的",
       "onboard_time": 1669452456,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 270561,
+      "num": 270561,
+      "word": "卡塔尔饺子皮出新皮肤了",
+      "onboard_time": 1669461762,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 269636,
@@ -1475,20 +1523,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 213723,
+      "num": 213723,
+      "word": "风吹半夏",
+      "onboard_time": 1669462058,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 212380,
       "num": 168135,
       "word": "陈飞宇跳舞",
       "onboard_time": 1669392352,
       "rank": 40,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 212141,
-      "num": 212141,
-      "word": "C罗或去大巴黎与梅西合作",
-      "onboard_time": 1669460263,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 212064,
@@ -1555,14 +1603,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 200981,
-      "num": 200981,
-      "word": "XYG对战TTG",
-      "onboard_time": 1669458580,
-      "rank": 38,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 200742,
       "num": 200742,
       "word": "为什么不选马超",
@@ -1603,12 +1643,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 193656,
+      "num": 193656,
+      "word": "玲娜贝儿跳wakawaka",
+      "onboard_time": 1669462180,
+      "rank": 34,
+      "category": "体育,动漫"
+    },
+    {
       "raw_hot": 193410,
       "num": 193410,
       "word": "世界在世最长寿猫相当于人类120岁",
       "onboard_time": 1669442562,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192558,
+      "num": 192558,
+      "word": "成都银杏今年忘了黄",
+      "onboard_time": 1669457141,
+      "rank": 47,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 191615,
@@ -1667,14 +1723,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 187527,
-      "num": 187527,
-      "word": "成都银杏今年忘了黄",
-      "onboard_time": 1669457141,
-      "rank": 47,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 185558,
       "num": 185558,
       "word": "压力来到梅西这边",
@@ -1729,6 +1777,14 @@
       "onboard_time": 1669426418,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 177844,
+      "num": 177844,
+      "word": "沙特球迷请求墨西哥淘汰阿根廷",
+      "onboard_time": 1669461703,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 175105,
@@ -1827,6 +1883,14 @@
       "category": "体育,幽默"
     },
     {
+      "raw_hot": 159962,
+      "num": 159962,
+      "word": "XYG抢龙翻盘",
+      "onboard_time": 1669462000,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 155901,
       "num": 164281,
       "word": "内马尔说绝不坐以待毙",
@@ -1896,6 +1960,14 @@
       "word": "英美大战平局收场",
       "onboard_time": 1669418126,
       "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 137655,
+      "num": 137655,
+      "word": "孙颖莎",
+      "onboard_time": 1669462300,
+      "rank": 49,
       "category": "体育"
     },
     {
