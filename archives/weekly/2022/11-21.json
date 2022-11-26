@@ -1,6 +1,6 @@
 {
   "startTime": 1668961718135,
-  "endTime": 1669457973618,
+  "endTime": 1669458957964,
   "band_list": [
     {
       "raw_hot": 36651023,
@@ -195,8 +195,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 4123287,
-      "num": 4123287,
+      "raw_hot": 4147697,
+      "num": 4147697,
       "word": "乌鲁木齐市1124火灾四问",
       "onboard_time": 1669453658,
       "rank": 12,
@@ -427,6 +427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2604524,
+      "num": 2604524,
+      "word": "郑好办",
+      "onboard_time": 1669455881,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2602231,
       "num": 2602231,
       "word": "卡塔尔王子",
@@ -561,14 +569,6 @@
       "onboard_time": 1669209033,
       "rank": 10,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 2247255,
-      "num": 2247255,
-      "word": "郑好办",
-      "onboard_time": 1669455881,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2238281,
@@ -1563,6 +1563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1103819,
+      "num": 1103819,
+      "word": "北京新增本土感染者2454例",
+      "onboard_time": 1669456001,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1096709,
       "num": 188632,
       "word": "宋亚轩直播表演wink",
@@ -1729,6 +1737,14 @@
       "onboard_time": 1669391637,
       "rank": 38,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 1006054,
+      "num": 1006054,
+      "word": "女子苦干12年赚钱给弟弟买房买车",
+      "onboard_time": 1669455038,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1004054,
@@ -2067,14 +2083,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 880713,
-      "num": 880713,
-      "word": "北京新增本土感染者2454例",
-      "onboard_time": 1669456001,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 879495,
       "num": 879495,
       "word": "瑞士1比0喀麦隆",
@@ -2267,6 +2275,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 824573,
+      "num": 824573,
+      "word": "重庆一男子被曝小区内多次猥亵小孩",
+      "onboard_time": 1669454740,
+      "rank": 38,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 824520,
       "num": 824520,
       "word": "C罗 帅",
@@ -2408,14 +2424,6 @@
       "word": "9岁女童档口持刀杀鱼扒鳞",
       "onboard_time": 1669442315,
       "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 786035,
-      "num": 786035,
-      "word": "女子苦干12年赚钱给弟弟买房买车",
-      "onboard_time": 1669455038,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -2571,6 +2579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 752680,
+      "num": 752680,
+      "word": "王楚钦 应援服",
+      "onboard_time": 1669455218,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 751449,
       "num": 751449,
       "word": "巴西vs塞尔维亚",
@@ -2723,14 +2739,6 @@
       "category": "美食,游戏"
     },
     {
-      "raw_hot": 721709,
-      "num": 721709,
-      "word": "王楚钦 应援服",
-      "onboard_time": 1669455218,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 719350,
       "num": 486475,
       "word": "女子备孕13年生龙凤胎取名天佑佑心",
@@ -2761,14 +2769,6 @@
       "onboard_time": 1669250434,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 714625,
-      "num": 714625,
-      "word": "重庆一男子被曝小区内多次猥亵小孩",
-      "onboard_time": 1669454740,
-      "rank": 38,
-      "category": "社会负面"
     },
     {
       "raw_hot": 713999,
@@ -3779,6 +3779,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 564076,
+      "num": 564076,
+      "word": "突尼斯vs澳大利亚",
+      "onboard_time": 1669454318,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 562692,
       "num": 555339,
       "word": "陶昕然说如果我天天跟孙俪比就只能跳楼",
@@ -4753,6 +4761,14 @@
       "onboard_time": 1669365369,
       "rank": 47,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 480164,
+      "num": 480164,
+      "word": "安宥真MMA红毯",
+      "onboard_time": 1669458880,
+      "rank": 15,
+      "category": "音乐"
     },
     {
       "raw_hot": 479819,
@@ -6283,6 +6299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 385485,
+      "num": 385485,
+      "word": "我没有早八但我女儿有",
+      "onboard_time": 1669454800,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 385160,
       "num": 385160,
       "word": "沈阳疫情防控",
@@ -6393,6 +6417,14 @@
       "onboard_time": 1669116634,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 379079,
+      "num": 379079,
+      "word": "MAMA",
+      "onboard_time": 1669458037,
+      "rank": 20,
+      "category": "音乐"
     },
     {
       "raw_hot": 378935,
@@ -8299,6 +8331,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 295700,
+      "num": 295700,
+      "word": "乒超",
+      "onboard_time": 1669457379,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 295256,
       "num": 295256,
       "word": "情侣高速上吵架女子将男友锁车外",
@@ -8419,20 +8459,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 289248,
+      "num": 289248,
+      "word": "宋雨琦MMA红毯生图",
+      "onboard_time": 1669458639,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 288987,
       "num": 288987,
       "word": "卡塔尔解围失误",
       "onboard_time": 1669384808,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 288380,
-      "num": 288380,
-      "word": "我没有早八但我女儿有",
-      "onboard_time": 1669454800,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 288227,
@@ -9691,14 +9731,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 244345,
-      "num": 244345,
-      "word": "突尼斯vs澳大利亚",
-      "onboard_time": 1669454318,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 244209,
       "num": 244209,
       "word": "肉摊主见女子困难慷慨赠8斤肉和油",
@@ -10731,6 +10763,22 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 214560,
+      "num": 211709,
+      "word": "尹峥酒后对李薇吐真言",
+      "onboard_time": 1669455938,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 214494,
+      "num": 214494,
+      "word": "体会到了小学门口的快乐",
+      "onboard_time": 1669457738,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 214075,
       "num": 214075,
       "word": "靳东成毅蔡文静底线豆瓣开分7.3",
@@ -11179,14 +11227,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 203046,
-      "num": 203046,
-      "word": "尹峥酒后对李薇吐真言",
-      "onboard_time": 1669455938,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 202967,
       "num": 202967,
       "word": "杭州师大辟谣女生宿舍校园霸凌",
@@ -11265,6 +11305,14 @@
       "onboard_time": 1669273353,
       "rank": 26,
       "category": "科技"
+    },
+    {
+      "raw_hot": 200981,
+      "num": 200981,
+      "word": "XYG对战TTG",
+      "onboard_time": 1669458580,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 200965,
@@ -11616,14 +11664,6 @@
       "word": "懒人瘦肚子真的很简单",
       "onboard_time": 1669047513,
       "rank": 47,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 194911,
-      "num": 194911,
-      "word": "乒超",
-      "onboard_time": 1669457379,
-      "rank": 35,
       "category": "体育"
     },
     {
@@ -11993,6 +12033,14 @@
       "onboard_time": 1669093302,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 187527,
+      "num": 187527,
+      "word": "成都银杏今年忘了黄",
+      "onboard_time": 1669457141,
+      "rank": 47,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 187355,
@@ -12627,14 +12675,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 174490,
-      "num": 174490,
-      "word": "体会到了小学门口的快乐",
-      "onboard_time": 1669457738,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 174398,
       "num": 174398,
       "word": "卡塔尔世界杯开幕式现场有多燃",
@@ -13097,6 +13137,14 @@
       "onboard_time": 1669085671,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 163169,
+      "num": 163169,
+      "word": "为避免留名TA每笔汇款不超1万元",
+      "onboard_time": 1669458580,
+      "rank": 43,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 163086,
@@ -13643,14 +13691,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 149811,
-      "num": 149811,
-      "word": "成都银杏今年忘了黄",
-      "onboard_time": 1669457141,
-      "rank": 47,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 149764,
       "num": 149764,
       "word": "GK",
@@ -13755,6 +13795,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 148163,
+      "num": 148163,
+      "word": "卡塔尔也看猫和老鼠吗",
+      "onboard_time": 1669455762,
+      "rank": 48,
+      "category": "体育,幽默"
+    },
+    {
       "raw_hot": 148122,
       "num": 148122,
       "word": "闺女呼叫爸爸回家腔调拿捏绝了",
@@ -13849,14 +13897,6 @@
       "onboard_time": 1669043696,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 146309,
-      "num": 146309,
-      "word": "卡塔尔也看猫和老鼠吗",
-      "onboard_time": 1669455762,
-      "rank": 48,
-      "category": "体育,幽默"
     },
     {
       "raw_hot": 146130,
@@ -14705,6 +14745,14 @@
       "onboard_time": 1669431587,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 128634,
+      "num": 128634,
+      "word": "民警邀请修路工人进派出所吃饭避雨",
+      "onboard_time": 1669458941,
+      "rank": 49,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 128624,
@@ -16436,7 +16484,7 @@
     },
     {
       "raw_hot": 39800,
-      "num": 172403,
+      "num": 191699,
       "word": "深夜藏着温暖的一面",
       "onboard_time": 1669456839,
       "rank": 39,

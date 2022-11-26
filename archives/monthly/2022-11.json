@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1669457973618,
+  "endTime": 1669458957964,
   "band_list": [
     {
       "raw_hot": 36651023,
@@ -267,8 +267,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 4123287,
-      "num": 4123287,
+      "raw_hot": 4147697,
+      "num": 4147697,
       "word": "乌鲁木齐市1124火灾四问",
       "onboard_time": 1669453658,
       "rank": 12,
@@ -819,6 +819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2604524,
+      "num": 2604524,
+      "word": "郑好办",
+      "onboard_time": 1669455881,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2604244,
       "num": 2604244,
       "word": "关羽扮演者陆树铭老师去世",
@@ -1161,14 +1169,6 @@
       "onboard_time": 1669209033,
       "rank": 10,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 2247255,
-      "num": 2247255,
-      "word": "郑好办",
-      "onboard_time": 1669455881,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2241406,
@@ -4603,6 +4603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1103819,
+      "num": 1103819,
+      "word": "北京新增本土感染者2454例",
+      "onboard_time": 1669456001,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1102775,
       "num": 923586,
       "word": "石家庄市今日增设免费核酸检测网点",
@@ -5321,6 +5329,14 @@
       "onboard_time": 1668323010,
       "rank": 17,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 1006054,
+      "num": 1006054,
+      "word": "女子苦干12年赚钱给弟弟买房买车",
+      "onboard_time": 1669455038,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1005827,
@@ -6443,14 +6459,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 880713,
-      "num": 880713,
-      "word": "北京新增本土感染者2454例",
-      "onboard_time": 1669456001,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 880547,
       "num": 880547,
       "word": "周启豪",
@@ -7211,6 +7219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 824573,
+      "num": 824573,
+      "word": "重庆一男子被曝小区内多次猥亵小孩",
+      "onboard_time": 1669454740,
+      "rank": 38,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 824520,
       "num": 824520,
       "word": "C罗 帅",
@@ -7625,14 +7641,6 @@
       "onboard_time": 1667823625,
       "rank": 14,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 786035,
-      "num": 786035,
-      "word": "女子苦干12年赚钱给弟弟买房买车",
-      "onboard_time": 1669455038,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 785618,
@@ -8121,6 +8129,14 @@
       "onboard_time": 1667732664,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 752680,
+      "num": 752680,
+      "word": "王楚钦 应援服",
+      "onboard_time": 1669455218,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 752529,
@@ -8675,14 +8691,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 721709,
-      "num": 721709,
-      "word": "王楚钦 应援服",
-      "onboard_time": 1669455218,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 721312,
       "num": 721312,
       "word": "樊振东vs林高远",
@@ -8785,14 +8793,6 @@
       "onboard_time": 1669250434,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 714625,
-      "num": 714625,
-      "word": "重庆一男子被曝小区内多次猥亵小孩",
-      "onboard_time": 1669454740,
-      "rank": 38,
-      "category": "社会负面"
     },
     {
       "raw_hot": 714292,
@@ -12163,6 +12163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 564076,
+      "num": 564076,
+      "word": "突尼斯vs澳大利亚",
+      "onboard_time": 1669454318,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 564071,
       "num": 506008,
       "word": "王鹤棣时宴黑色高领毛衣造型",
@@ -15393,6 +15401,14 @@
       "onboard_time": 1667564309,
       "rank": 16,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 480164,
+      "num": 480164,
+      "word": "安宥真MMA红毯",
+      "onboard_time": 1669458880,
+      "rank": 15,
+      "category": "音乐"
     },
     {
       "raw_hot": 479819,
@@ -20211,6 +20227,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 385485,
+      "num": 385485,
+      "word": "我没有早八但我女儿有",
+      "onboard_time": 1669454800,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 385406,
       "num": 385406,
       "word": "狗狗腿瘸主人花400元确认是装的",
@@ -20617,6 +20641,14 @@
       "onboard_time": 1668605129,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 379079,
+      "num": 379079,
+      "word": "MAMA",
+      "onboard_time": 1669458037,
+      "rank": 20,
+      "category": "音乐"
     },
     {
       "raw_hot": 378993,
@@ -26563,6 +26595,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 295700,
+      "num": 295700,
+      "word": "乒超",
+      "onboard_time": 1669457379,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 295644,
       "num": 295644,
       "word": "白敬亭说看看老六吧",
@@ -27011,6 +27051,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 289248,
+      "num": 289248,
+      "word": "宋雨琦MMA红毯生图",
+      "onboard_time": 1669458639,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 289186,
       "num": 289186,
       "word": "入境隔离放宽国际机票搜索量暴增",
@@ -27065,14 +27113,6 @@
       "onboard_time": 1668236069,
       "rank": 8,
       "category": "影视"
-    },
-    {
-      "raw_hot": 288380,
-      "num": 288380,
-      "word": "我没有早八但我女儿有",
-      "onboard_time": 1669454800,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 288330,
@@ -31043,14 +31083,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 244345,
-      "num": 244345,
-      "word": "突尼斯vs澳大利亚",
-      "onboard_time": 1669454318,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 244209,
       "num": 244209,
       "word": "肉摊主见女子困难慷慨赠8斤肉和油",
@@ -34419,6 +34451,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 214560,
+      "num": 211709,
+      "word": "尹峥酒后对李薇吐真言",
+      "onboard_time": 1669455938,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 214494,
+      "num": 214494,
+      "word": "体会到了小学门口的快乐",
+      "onboard_time": 1669457738,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 214445,
       "num": 214445,
       "word": "樊振东3比2魏世皓",
@@ -35851,14 +35899,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 203046,
-      "num": 203046,
-      "word": "尹峥酒后对李薇吐真言",
-      "onboard_time": 1669455938,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 203028,
       "num": 203028,
       "word": "狗狗被摸头后的反应",
@@ -36169,6 +36209,14 @@
       "onboard_time": 1668698432,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 200981,
+      "num": 200981,
+      "word": "XYG对战TTG",
+      "onboard_time": 1669458580,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 200965,
@@ -37129,14 +37177,6 @@
       "onboard_time": 1668958594,
       "rank": 47,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 194911,
-      "num": 194911,
-      "word": "乒超",
-      "onboard_time": 1669457379,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 194910,
@@ -38265,6 +38305,14 @@
       "onboard_time": 1669093302,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 187527,
+      "num": 187527,
+      "word": "成都银杏今年忘了黄",
+      "onboard_time": 1669457141,
+      "rank": 47,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 187465,
@@ -40211,14 +40259,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 174490,
-      "num": 174490,
-      "word": "体会到了小学门口的快乐",
-      "onboard_time": 1669457738,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 174483,
       "num": 164798,
       "word": "LESSERAFIM新歌音银初舞台视频",
@@ -41753,6 +41793,14 @@
       "onboard_time": 1668492392,
       "rank": 32,
       "category": "网红"
+    },
+    {
+      "raw_hot": 163169,
+      "num": 163169,
+      "word": "为避免留名TA每笔汇款不超1万元",
+      "onboard_time": 1669458580,
+      "rank": 43,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 163125,
@@ -43875,14 +43923,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 149811,
-      "num": 149811,
-      "word": "成都银杏今年忘了黄",
-      "onboard_time": 1669457141,
-      "rank": 47,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 149777,
       "num": 149777,
       "word": "电影长津湖纪录片定档",
@@ -44201,6 +44241,14 @@
       "onboard_time": 1668910890,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 148163,
+      "num": 148163,
+      "word": "卡塔尔也看猫和老鼠吗",
+      "onboard_time": 1669455762,
+      "rank": 48,
+      "category": "体育,幽默"
     },
     {
       "raw_hot": 148155,
@@ -44561,14 +44609,6 @@
       "onboard_time": 1668140668,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 146309,
-      "num": 146309,
-      "word": "卡塔尔也看猫和老鼠吗",
-      "onboard_time": 1669455762,
-      "rank": 48,
-      "category": "体育,幽默"
     },
     {
       "raw_hot": 146157,
@@ -47897,6 +47937,14 @@
       "onboard_time": 1668176913,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 128634,
+      "num": 128634,
+      "word": "民警邀请修路工人进派出所吃饭避雨",
+      "onboard_time": 1669458941,
+      "rank": 49,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 128624,
@@ -57724,7 +57772,7 @@
     },
     {
       "raw_hot": 39800,
-      "num": 172403,
+      "num": 191699,
       "word": "深夜藏着温暖的一面",
       "onboard_time": 1669456839,
       "rank": 39,

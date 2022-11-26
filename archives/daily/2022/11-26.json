@@ -1,6 +1,6 @@
 {
   "startTime": 1669393663708,
-  "endTime": 1669457973618,
+  "endTime": 1669458957964,
   "band_list": [
     {
       "raw_hot": 14766436,
@@ -43,8 +43,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 4123287,
-      "num": 4123287,
+      "raw_hot": 4147697,
+      "num": 4147697,
       "word": "乌鲁木齐市1124火灾四问",
       "onboard_time": 1669453658,
       "rank": 12,
@@ -83,6 +83,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2604524,
+      "num": 2604524,
+      "word": "郑好办",
+      "onboard_time": 1669455881,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2585780,
       "num": 2585780,
       "word": "街道回应网传社区爆出威胁居民言论",
@@ -105,14 +113,6 @@
       "onboard_time": 1669388528,
       "rank": 0,
       "category": "影视"
-    },
-    {
-      "raw_hot": 2247255,
-      "num": 2247255,
-      "word": "郑好办",
-      "onboard_time": 1669455881,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1742068,
@@ -187,6 +187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1103819,
+      "num": 1103819,
+      "word": "北京新增本土感染者2454例",
+      "onboard_time": 1669456001,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1084040,
       "num": 1084040,
       "word": "汤唯获青龙奖影后",
@@ -217,6 +225,14 @@
       "onboard_time": 1669391637,
       "rank": 38,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 1006054,
+      "num": 1006054,
+      "word": "女子苦干12年赚钱给弟弟买房买车",
+      "onboard_time": 1669455038,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 967521,
@@ -275,14 +291,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 880713,
-      "num": 880713,
-      "word": "北京新增本土感染者2454例",
-      "onboard_time": 1669456001,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 843753,
       "num": 843753,
       "word": "桐庐发现红码奖1000元",
@@ -315,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 824573,
+      "num": 824573,
+      "word": "重庆一男子被曝小区内多次猥亵小孩",
+      "onboard_time": 1669454740,
+      "rank": 38,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 819623,
       "num": 819623,
       "word": "吃完躺下就睡易患贲门癌",
@@ -328,14 +344,6 @@
       "word": "9岁女童档口持刀杀鱼扒鳞",
       "onboard_time": 1669442315,
       "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 786035,
-      "num": 786035,
-      "word": "女子苦干12年赚钱给弟弟买房买车",
-      "onboard_time": 1669455038,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -371,6 +379,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 752680,
+      "num": 752680,
+      "word": "王楚钦 应援服",
+      "onboard_time": 1669455218,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 743663,
       "num": 743663,
       "word": "亡夫160余万存款被小姑子转走",
@@ -385,22 +401,6 @@
       "onboard_time": 1669452514,
       "rank": 9,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 721709,
-      "num": 721709,
-      "word": "王楚钦 应援服",
-      "onboard_time": 1669455218,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 714625,
-      "num": 714625,
-      "word": "重庆一男子被曝小区内多次猥亵小孩",
-      "onboard_time": 1669454740,
-      "rank": 38,
-      "category": "社会负面"
     },
     {
       "raw_hot": 713948,
@@ -505,6 +505,14 @@
       "onboard_time": 1669449214,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 564076,
+      "num": 564076,
+      "word": "突尼斯vs澳大利亚",
+      "onboard_time": 1669454318,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 561632,
@@ -625,6 +633,14 @@
       "onboard_time": 1669440105,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 480164,
+      "num": 480164,
+      "word": "安宥真MMA红毯",
+      "onboard_time": 1669458880,
+      "rank": 15,
+      "category": "音乐"
     },
     {
       "raw_hot": 478823,
@@ -819,6 +835,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 385485,
+      "num": 385485,
+      "word": "我没有早八但我女儿有",
+      "onboard_time": 1669454800,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 382990,
       "num": 382990,
       "word": "朱一龙获金莲花奖最佳男主角提名",
@@ -833,6 +857,14 @@
       "onboard_time": 1669389067,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 379079,
+      "num": 379079,
+      "word": "MAMA",
+      "onboard_time": 1669458037,
+      "rank": 20,
+      "category": "音乐"
     },
     {
       "raw_hot": 376349,
@@ -1059,6 +1091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 295700,
+      "num": 295700,
+      "word": "乒超",
+      "onboard_time": 1669457379,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 295256,
       "num": 295256,
       "word": "情侣高速上吵架女子将男友锁车外",
@@ -1083,12 +1123,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 288380,
-      "num": 288380,
-      "word": "我没有早八但我女儿有",
-      "onboard_time": 1669454800,
-      "rank": 37,
-      "category": "幽默"
+      "raw_hot": 289248,
+      "num": 289248,
+      "word": "宋雨琦MMA红毯生图",
+      "onboard_time": 1669458639,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 283692,
@@ -1243,14 +1283,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 244345,
-      "num": 244345,
-      "word": "突尼斯vs澳大利亚",
-      "onboard_time": 1669454318,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 244110,
       "num": 244110,
       "word": "李峋有短处吗",
@@ -1387,6 +1419,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 214560,
+      "num": 211709,
+      "word": "尹峥酒后对李薇吐真言",
+      "onboard_time": 1669455938,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 214494,
+      "num": 214494,
+      "word": "体会到了小学门口的快乐",
+      "onboard_time": 1669457738,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 214075,
       "num": 214075,
       "word": "靳东成毅蔡文静底线豆瓣开分7.3",
@@ -1459,20 +1507,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 203046,
-      "num": 203046,
-      "word": "尹峥酒后对李薇吐真言",
-      "onboard_time": 1669455938,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 201096,
       "num": 201096,
       "word": "婆婆摆摊收百元假币无助痛哭",
       "onboard_time": 1669448972,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 200981,
+      "num": 200981,
+      "word": "XYG对战TTG",
+      "onboard_time": 1669458580,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 200742,
@@ -1513,14 +1561,6 @@
       "onboard_time": 1669452695,
       "rank": 37,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 194911,
-      "num": 194911,
-      "word": "乒超",
-      "onboard_time": 1669457379,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 193410,
@@ -1577,6 +1617,14 @@
       "onboard_time": 1669432185,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 187527,
+      "num": 187527,
+      "word": "成都银杏今年忘了黄",
+      "onboard_time": 1669457141,
+      "rank": 47,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 185558,
@@ -1651,14 +1699,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 174490,
-      "num": 174490,
-      "word": "体会到了小学门口的快乐",
-      "onboard_time": 1669457738,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 174389,
       "num": 174389,
       "word": "荷兰1比1厄瓜多尔",
@@ -1715,6 +1755,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 163169,
+      "num": 163169,
+      "word": "为避免留名TA每笔汇款不超1万元",
+      "onboard_time": 1669458580,
+      "rank": 43,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 162715,
       "num": 162715,
       "word": "29岁男子为考央美复读10年",
@@ -1763,14 +1811,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 149811,
-      "num": 149811,
-      "word": "成都银杏今年忘了黄",
-      "onboard_time": 1669457141,
-      "rank": 47,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 149035,
       "num": 154665,
       "word": "为爱冲锋的勇士是场闹剧",
@@ -1779,8 +1819,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 146309,
-      "num": 146309,
+      "raw_hot": 148163,
+      "num": 148163,
       "word": "卡塔尔也看猫和老鼠吗",
       "onboard_time": 1669455762,
       "rank": 48,
@@ -1881,6 +1921,14 @@
       "onboard_time": 1669431587,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 128634,
+      "num": 128634,
+      "word": "民警邀请修路工人进派出所吃饭避雨",
+      "onboard_time": 1669458941,
+      "rank": 49,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 125203,
@@ -2084,7 +2132,7 @@
     },
     {
       "raw_hot": 39800,
-      "num": 172403,
+      "num": 191699,
       "word": "深夜藏着温暖的一面",
       "onboard_time": 1669456839,
       "rank": 39,
