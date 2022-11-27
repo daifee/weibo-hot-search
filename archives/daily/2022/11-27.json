@@ -1,6 +1,6 @@
 {
   "startTime": 1669479991529,
-  "endTime": 1669548809004,
+  "endTime": 1669552519251,
   "band_list": [
     {
       "raw_hot": 3822944,
@@ -33,6 +33,14 @@
       "onboard_time": 1669477430,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2690723,
+      "num": 2690723,
+      "word": "日本0比1哥斯达黎加",
+      "onboard_time": 1669550376,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 2631610,
@@ -107,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1890696,
+      "num": 1890696,
+      "word": "唐梓预测",
+      "onboard_time": 1669544372,
+      "rank": 47,
+      "category": "体育,网红"
+    },
+    {
       "raw_hot": 1826595,
       "num": 232830,
       "word": "人民锐评",
@@ -128,6 +144,14 @@
       "word": "北京新增社会面806例",
       "onboard_time": 1669509390,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1742228,
+      "num": 1742228,
+      "word": "广州海珠近万人有疏解意愿",
+      "onboard_time": 1669550740,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -163,12 +187,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1666525,
-      "num": 1666525,
-      "word": "唐梓预测",
-      "onboard_time": 1669544372,
-      "rank": 47,
-      "category": "体育,网红"
+      "raw_hot": 1648663,
+      "num": 565950,
+      "word": "父母带2岁孩子去方舱邻居纷纷挽留",
+      "onboard_time": 1669550075,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1613206,
@@ -185,6 +209,14 @@
       "onboard_time": 1669546300,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1581183,
+      "num": 250890,
+      "word": "腾讯会议崩了",
+      "onboard_time": 1669549115,
+      "rank": 30,
+      "category": "科技"
     },
     {
       "raw_hot": 1535608,
@@ -339,6 +371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 855705,
+      "num": 561075,
+      "word": "女生分手后骗妈妈和内马尔谈恋爱",
+      "onboard_time": 1669549955,
+      "rank": 11,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 852281,
       "num": 852281,
       "word": "女子定错位外卖员怒斥倒八辈子霉",
@@ -352,6 +392,14 @@
       "word": "重庆南岸区一街道办公室发生爆炸系谣言",
       "onboard_time": 1669535312,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 836833,
+      "num": 836833,
+      "word": "深圳倡导市民下周居家办公",
+      "onboard_time": 1669550677,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -563,6 +611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 567427,
+      "num": 567427,
+      "word": "日本球迷",
+      "onboard_time": 1669545812,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 562218,
       "num": 562218,
       "word": "阿根廷2比0墨西哥",
@@ -747,6 +803,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 493110,
+      "num": 493110,
+      "word": "女子炸糖糕等全炸飞才敢关火",
+      "onboard_time": 1669546234,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 489839,
       "num": 489839,
       "word": "张真源拔麦",
@@ -785,6 +849,14 @@
       "onboard_time": 1669477244,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 478211,
+      "num": 478211,
+      "word": "风吹半夏",
+      "onboard_time": 1669549657,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 476446,
@@ -835,14 +907,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 449621,
-      "num": 449621,
-      "word": "日本球迷",
-      "onboard_time": 1669545812,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 449557,
       "num": 449557,
       "word": "江苏一大学发现全球最大天然碳洋葱",
@@ -881,6 +945,14 @@
       "onboard_time": 1669519535,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 430715,
+      "num": 430715,
+      "word": "比利时vs摩洛哥",
+      "onboard_time": 1669551995,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 430313,
@@ -931,6 +1003,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 402131,
+      "num": 402131,
+      "word": "哥斯达黎加进球",
+      "onboard_time": 1669549476,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 399209,
       "num": 399209,
       "word": "医生下班后抽空给自己做了个手术",
@@ -944,14 +1024,6 @@
       "word": "女子面试老板助理入职变KTV服务员",
       "onboard_time": 1669541733,
       "rank": 15,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 397812,
-      "num": 397812,
-      "word": "女子炸糖糕等全炸飞才敢关火",
-      "onboard_time": 1669546234,
-      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -1067,6 +1139,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 364582,
+      "num": 364582,
+      "word": "守门员都看不下去了",
+      "onboard_time": 1669550618,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 364098,
       "num": 277195,
       "word": "王栎鑫对俞灏明说哥哥你真好",
@@ -1139,6 +1219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 344912,
+      "num": 344912,
+      "word": "有一个不爱责怪的伴侣真好",
+      "onboard_time": 1669548573,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 338042,
       "num": 338042,
       "word": "王鹤棣时宴白色毛衣出妆路透",
@@ -1195,6 +1283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 320223,
+      "num": 320223,
+      "word": "赵樱子说姐来无限超越班负责超美",
+      "onboard_time": 1669551515,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 317469,
       "num": 317469,
       "word": "姆巴佩梅开二度",
@@ -1243,6 +1339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 309915,
+      "num": 250709,
+      "word": "男子饿了2天拜托交警买个面包",
+      "onboard_time": 1669551336,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 307413,
       "num": 307413,
       "word": "杨幂说阳华是在家做饭的小奶狗",
@@ -1273,6 +1377,14 @@
       "onboard_time": 1669544551,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 303769,
+      "num": 303769,
+      "word": "香菜原来也叫芫荽",
+      "onboard_time": 1669546836,
+      "rank": 38,
+      "category": "美食"
     },
     {
       "raw_hot": 299952,
@@ -1451,14 +1563,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 263201,
-      "num": 263201,
-      "word": "香菜原来也叫芫荽",
-      "onboard_time": 1669546836,
-      "rank": 38,
-      "category": "美食"
-    },
-    {
       "raw_hot": 263072,
       "num": 263072,
       "word": "法国终结卫冕冠军出局魔咒",
@@ -1625,6 +1729,14 @@
       "onboard_time": 1669527093,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 230160,
+      "num": 230160,
+      "word": "无畏 这次为艺术奉献了",
+      "onboard_time": 1669551336,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 229232,
@@ -1875,12 +1987,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 193607,
+      "num": 193607,
+      "word": "贺峻霖说终于可以睡大觉去了",
+      "onboard_time": 1669549231,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 193049,
       "num": 193049,
       "word": "法国半场0比0丹麦",
       "onboard_time": 1669482152,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 192328,
+      "num": 164155,
+      "word": "竹内亮探访现实版女儿国",
+      "onboard_time": 1669552475,
+      "rank": 47,
+      "category": "旅游"
     },
     {
       "raw_hot": 191551,
@@ -1897,6 +2025,14 @@
       "onboard_time": 1669533872,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 190823,
+      "num": 190823,
+      "word": "北京本轮疫情呈多点多面发展态势",
+      "onboard_time": 1669552356,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 190274,
@@ -1971,6 +2107,38 @@
       "category": "情感"
     },
     {
+      "raw_hot": 180121,
+      "num": 180121,
+      "word": "男子买鸡蛋回家孵出几十只小鸡",
+      "onboard_time": 1669547496,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 179969,
+      "num": 179969,
+      "word": "沈阳五里河李铁雕像被拆除拉走",
+      "onboard_time": 1669551697,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 178569,
+      "num": 178569,
+      "word": "BoA李秀满ForgiveMe舞蹈挑战",
+      "onboard_time": 1669548875,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 177973,
+      "num": 177973,
+      "word": "日本换人",
+      "onboard_time": 1669548993,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 177773,
       "num": 177773,
       "word": "张艺兴领衔metamoon音乐节",
@@ -2041,14 +2209,6 @@
       "onboard_time": 1669500856,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 172802,
-      "num": 172802,
-      "word": "有一个不爱责怪的伴侣真好",
-      "onboard_time": 1669548573,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 171360,
@@ -2139,12 +2299,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 162483,
-      "num": 164590,
-      "word": "男子买鸡蛋回家孵出几十只小鸡",
-      "onboard_time": 1669547496,
+      "raw_hot": 161879,
+      "num": 161879,
+      "word": "日本队称赢德国队不惊讶",
+      "onboard_time": 1669552176,
       "rank": 49,
-      "category": "社会新闻"
+      "category": "体育"
     },
     {
       "raw_hot": 160473,
@@ -2596,7 +2756,7 @@
     },
     {
       "raw_hot": 75531,
-      "num": 1655767,
+      "num": 1786220,
       "word": "推动经济全球化不断向前",
       "onboard_time": 1669530871,
       "rank": 2,

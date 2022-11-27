@@ -1,0 +1,410 @@
+{
+  "runTime": 1669552519251,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2690723,
+        "num": 2690723,
+        "word": "日本0比1哥斯达黎加",
+        "onboard_time": 1669550376,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1890696,
+        "num": 1890696,
+        "word": "唐梓预测",
+        "onboard_time": 1669544372,
+        "rank": 1,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 39908,
+        "num": 1786220,
+        "word": "推动经济全球化不断向前",
+        "onboard_time": 1669530871,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1742228,
+        "num": 1742228,
+        "word": "广州海珠近万人有疏解意愿",
+        "onboard_time": 1669550740,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1497435,
+        "num": 1497435,
+        "word": "婆婆不让去月子中心女子二胎不给探望",
+        "onboard_time": 1669544011,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1374329,
+        "num": 1374329,
+        "word": "北京严禁采取硬质隔离硬质围挡等措施",
+        "onboard_time": 1669546300,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 945715,
+        "num": 945715,
+        "word": "兰州通报核酸采样人员阳性",
+        "onboard_time": 1669536575,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 836833,
+        "num": 836833,
+        "word": "深圳倡导市民下周居家办公",
+        "onboard_time": 1669550677,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 787156,
+        "num": 787156,
+        "word": "曝阿根廷球迷强占中国球迷座位",
+        "onboard_time": 1669541012,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 567427,
+        "num": 567427,
+        "word": "日本球迷",
+        "onboard_time": 1669545812,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1648663,
+        "num": 565950,
+        "word": "父母带2岁孩子去方舱邻居纷纷挽留",
+        "onboard_time": 1669550075,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 855705,
+        "num": 561075,
+        "word": "女生分手后骗妈妈和内马尔谈恋爱",
+        "onboard_time": 1669549955,
+        "rank": 11,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 553753,
+        "num": 553753,
+        "word": "尹峥淋雨下跪",
+        "onboard_time": 1669546412,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 530998,
+        "num": 530998,
+        "word": "日本vs哥斯达黎加",
+        "onboard_time": 1669541136,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 493110,
+        "num": 493110,
+        "word": "女子炸糖糕等全炸飞才敢关火",
+        "onboard_time": 1669546234,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 482655,
+        "num": 482655,
+        "word": "北京新增本土感染者1781例",
+        "onboard_time": 1669544431,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 479992,
+        "num": 479992,
+        "word": "武汉市全面推行疫情防控场所码",
+        "onboard_time": 1669527811,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 478211,
+        "num": 478211,
+        "word": "风吹半夏",
+        "onboard_time": 1669549657,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 430715,
+        "num": 430715,
+        "word": "比利时vs摩洛哥",
+        "onboard_time": 1669551995,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 419637,
+        "num": 419637,
+        "word": "gemini 毒奶",
+        "onboard_time": 1669547136,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 402131,
+        "num": 402131,
+        "word": "哥斯达黎加进球",
+        "onboard_time": 1669549476,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 364582,
+        "num": 364582,
+        "word": "守门员都看不下去了",
+        "onboard_time": 1669550618,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 344912,
+        "num": 344912,
+        "word": "有一个不爱责怪的伴侣真好",
+        "onboard_time": 1669548573,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 320223,
+        "num": 320223,
+        "word": "赵樱子说姐来无限超越班负责超美",
+        "onboard_time": 1669551515,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 315617,
+        "num": 315617,
+        "word": "35岁女子从上海回老家过田园生活",
+        "onboard_time": 1669544551,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303769,
+        "num": 303769,
+        "word": "香菜原来也叫芫荽",
+        "onboard_time": 1669546836,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 285947,
+        "num": 285947,
+        "word": "女子定错位外卖员怒斥倒八辈子霉",
+        "onboard_time": 1669542995,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275876,
+        "num": 275876,
+        "word": "李光洁说新剧是赵丽颖的最强辅助",
+        "onboard_time": 1669548278,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 262783,
+        "num": 262783,
+        "word": "西班牙vs德国",
+        "onboard_time": 1669523673,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138228,
+        "num": 251513,
+        "word": "爸爸一声吼吓到孩子却救了她",
+        "onboard_time": 1669534352,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1581183,
+        "num": 250890,
+        "word": "腾讯会议崩了",
+        "onboard_time": 1669549115,
+        "rank": 30,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 309915,
+        "num": 250709,
+        "word": "男子饿了2天拜托交警买个面包",
+        "onboard_time": 1669551336,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241455,
+        "num": 241455,
+        "word": "医生下班后抽空给自己做了个手术",
+        "onboard_time": 1669543892,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233968,
+        "num": 233968,
+        "word": "围炉煮茶",
+        "onboard_time": 1669544792,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 230160,
+        "num": 230160,
+        "word": "无畏 这次为艺术奉献了",
+        "onboard_time": 1669551336,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 222739,
+        "num": 222739,
+        "word": "尹峥尹岐神仙兄弟情",
+        "onboard_time": 1669547915,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 215717,
+        "num": 215717,
+        "word": "父亲当面吃完女儿偷倒剩饭",
+        "onboard_time": 1669540893,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209223,
+        "num": 209223,
+        "word": "如何保证核酸检测安全",
+        "onboard_time": 1669543951,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197111,
+        "num": 197111,
+        "word": "当事妈妈回应婆婆给1岁孙女吃炒面",
+        "onboard_time": 1669542514,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193607,
+        "num": 193607,
+        "word": "贺峻霖说终于可以睡大觉去了",
+        "onboard_time": 1669549231,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 190823,
+        "num": 190823,
+        "word": "北京本轮疫情呈多点多面发展态势",
+        "onboard_time": 1669552356,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180121,
+        "num": 180121,
+        "word": "男子买鸡蛋回家孵出几十只小鸡",
+        "onboard_time": 1669547496,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179969,
+        "num": 179969,
+        "word": "沈阳五里河李铁雕像被拆除拉走",
+        "onboard_time": 1669551697,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178569,
+        "num": 178569,
+        "word": "BoA李秀满ForgiveMe舞蹈挑战",
+        "onboard_time": 1669548875,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 177973,
+        "num": 177973,
+        "word": "日本换人",
+        "onboard_time": 1669548993,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172874,
+        "num": 172874,
+        "word": "RNG",
+        "onboard_time": 1669538915,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 164282,
+        "num": 164282,
+        "word": "女生呵斥图书馆放不雅视频男子遭回怼",
+        "onboard_time": 1669529132,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192328,
+        "num": 164155,
+        "word": "竹内亮探访现实版女儿国",
+        "onboard_time": 1669552475,
+        "rank": 47,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 163751,
+        "num": 163751,
+        "word": "流浪猫被女生投喂叼小鸟来报恩",
+        "onboard_time": 1669544674,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161879,
+        "num": 161879,
+        "word": "日本队称赢德国队不惊讶",
+        "onboard_time": 1669552176,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚定信心抓实抓细疫情防控各项工作#"
+    }
+  }
+}
