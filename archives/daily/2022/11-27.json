@@ -1,6 +1,6 @@
 {
   "startTime": 1669479991529,
-  "endTime": 1669520955173,
+  "endTime": 1669523045222,
   "band_list": [
     {
       "raw_hot": 3822944,
@@ -131,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1251493,
+      "num": 1251493,
+      "word": "输给沙特后梅西二儿子哭了",
+      "onboard_time": 1669519713,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1219800,
       "num": 1219800,
       "word": "乌鲁木齐市1124火灾四问",
@@ -160,6 +168,14 @@
       "word": "女租客没回信息男房东擅闯房间",
       "onboard_time": 1669475754,
       "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 973458,
+      "num": 973458,
+      "word": "乌鲁木齐明起逐步恢复城市公共交通",
+      "onboard_time": 1669519594,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -195,11 +211,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 863685,
-      "num": 627654,
-      "word": "乌鲁木齐明起逐步恢复城市公共交通",
-      "onboard_time": 1669519594,
-      "rank": 11,
+      "raw_hot": 848228,
+      "num": 848228,
+      "word": "女子买1筐芒果遭5斤水泥压秤",
+      "onboard_time": 1669520253,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -289,14 +305,6 @@
       "onboard_time": 1669478679,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 595861,
-      "num": 595861,
-      "word": "输给沙特后梅西二儿子哭了",
-      "onboard_time": 1669519713,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 594617,
@@ -411,12 +419,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 499488,
+      "num": 499488,
+      "word": "赵丽颖的三个现代角色",
+      "onboard_time": 1669520736,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 498073,
+      "num": 498073,
+      "word": "威少满脸是血",
+      "onboard_time": 1669520552,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 489839,
       "num": 489839,
       "word": "张真源拔麦",
       "onboard_time": 1669478147,
       "rank": 15,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 484627,
+      "num": 484627,
+      "word": "朱正廷羽族皇子造型好贵",
+      "onboard_time": 1669522835,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 484581,
@@ -515,12 +547,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 377566,
+      "num": 377566,
+      "word": "袁娅维首登国际舞台好稳",
+      "onboard_time": 1669521393,
+      "rank": 20,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 373981,
       "num": 373981,
       "word": "苍盐海三巨头做客你好星期六",
       "onboard_time": 1669482688,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 368452,
+      "num": 368452,
+      "word": "四川省考",
+      "onboard_time": 1669520975,
+      "rank": 21,
+      "category": "教育"
     },
     {
       "raw_hot": 367297,
@@ -552,14 +600,6 @@
       "word": "卿卿日常原著里的李薇",
       "onboard_time": 1669504641,
       "rank": 18,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 347293,
-      "num": 347293,
-      "word": "赵丽颖的三个现代角色",
-      "onboard_time": 1669520736,
-      "rank": 21,
       "category": "影视"
     },
     {
@@ -617,14 +657,6 @@
       "onboard_time": 1669511974,
       "rank": 41,
       "category": "科技"
-    },
-    {
-      "raw_hot": 305604,
-      "num": 305604,
-      "word": "女子买1筐芒果遭5斤水泥压秤",
-      "onboard_time": 1669520253,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 299952,
@@ -739,12 +771,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 261063,
+      "num": 261063,
+      "word": "威少科林斯冲突",
+      "onboard_time": 1669520015,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 260630,
       "num": 248307,
       "word": "点燃我温暖你",
       "onboard_time": 1669519175,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 259493,
+      "num": 259493,
+      "word": "梅西和恩佐的双向奔赴",
+      "onboard_time": 1669520497,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 249432,
@@ -787,6 +835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 242669,
+      "num": 242669,
+      "word": "爷爷多少有点恋爱脑",
+      "onboard_time": 1669521515,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 241069,
       "num": 241069,
       "word": "女子苦干12年赚钱给弟弟买房买车",
@@ -824,14 +880,6 @@
       "word": "迪巴拉",
       "onboard_time": 1669514072,
       "rank": 29,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 228217,
-      "num": 228217,
-      "word": "威少科林斯冲突",
-      "onboard_time": 1669520015,
-      "rank": 35,
       "category": "体育"
     },
     {
@@ -891,14 +939,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 218675,
-      "num": 218675,
-      "word": "梅西和恩佐的双向奔赴",
-      "onboard_time": 1669520497,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 214283,
       "num": 214283,
       "word": "马嘉祺我期待Say goodbye高音",
@@ -921,14 +961,6 @@
       "onboard_time": 1669479519,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 201692,
-      "num": 201692,
-      "word": "威少满脸是血",
-      "onboard_time": 1669520552,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 193049,
@@ -969,6 +1001,14 @@
       "onboard_time": 1669479875,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 178641,
+      "num": 178641,
+      "word": "詹姆斯39分11篮板",
+      "onboard_time": 1669522115,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 177773,
@@ -1027,6 +1067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 170756,
+      "num": 170756,
+      "word": "大熊猫的歪头杀太甜了",
+      "onboard_time": 1669522895,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 170234,
       "num": 170234,
       "word": "英格兰威尔士球迷爆发冲突",
@@ -1041,6 +1089,14 @@
       "onboard_time": 1669478147,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 169331,
+      "num": 169331,
+      "word": "毛利小五郎麻药免疫",
+      "onboard_time": 1669522775,
+      "rank": 40,
+      "category": "动漫"
     },
     {
       "raw_hot": 166929,
@@ -1129,6 +1185,14 @@
       "onboard_time": 1669486042,
       "rank": 27,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 141927,
+      "num": 141927,
+      "word": "马嘉祺晒我们的歌团战剧照",
+      "onboard_time": 1669521992,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 140980,
