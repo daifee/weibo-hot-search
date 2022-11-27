@@ -1,7 +1,15 @@
 {
   "startTime": 1669479991529,
-  "endTime": 1669518509365,
+  "endTime": 1669519567944,
   "band_list": [
+    {
+      "raw_hot": 3548391,
+      "num": 3548391,
+      "word": "谁可以决定采取封控措施",
+      "onboard_time": 1669514315,
+      "rank": 14,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 3284249,
       "num": 3284249,
@@ -24,14 +32,6 @@
       "word": "20条严禁长时间不解封",
       "onboard_time": 1669474551,
       "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2506204,
-      "num": 2506204,
-      "word": "谁可以决定采取封控措施",
-      "onboard_time": 1669514315,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -91,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1480477,
+      "num": 1480477,
+      "word": "李峋喘息声",
+      "onboard_time": 1669518697,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1454231,
       "num": 1454231,
       "word": "郑州30日将转入常态化动态清零",
@@ -104,6 +112,14 @@
       "word": "男家教猥亵10岁女童被判终身禁业",
       "onboard_time": 1669507468,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1378439,
+      "num": 1378439,
+      "word": "官方通报甘肃瓜州患儿因耽误治疗时机病逝",
+      "onboard_time": 1669516775,
+      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -131,11 +147,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1117872,
-      "num": 1117872,
-      "word": "官方通报甘肃瓜州患儿因耽误治疗时机病逝",
-      "onboard_time": 1669516775,
-      "rank": 5,
+      "raw_hot": 1012985,
+      "num": 1012985,
+      "word": "重庆新增本土确诊194例无症状8667例",
+      "onboard_time": 1669517135,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -219,6 +235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 698300,
+      "num": 698300,
+      "word": "近百个结婚红包7年后失而复得",
+      "onboard_time": 1669517374,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 688322,
       "num": 688322,
       "word": "郑好办致歉可查奥特曼核酸结果",
@@ -241,14 +265,6 @@
       "onboard_time": 1669513053,
       "rank": 8,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 609202,
-      "num": 609202,
-      "word": "重庆新增本土确诊194例无症状8667例",
-      "onboard_time": 1669517135,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 607135,
@@ -347,6 +363,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 518325,
+      "num": 518325,
+      "word": "命韵峋环重逢后吻戏",
+      "onboard_time": 1669517671,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 512188,
+      "num": 512188,
+      "word": "白鹿新剧白色毛衣上班路透",
+      "onboard_time": 1669518211,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 511305,
       "num": 511305,
       "word": "蛋炒饭要用隔夜米饭的原因",
@@ -377,14 +409,6 @@
       "onboard_time": 1669477244,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 472462,
-      "num": 472462,
-      "word": "白鹿新剧白色毛衣上班路透",
-      "onboard_time": 1669518211,
-      "rank": 14,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 469381,
@@ -419,28 +443,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 443565,
-      "num": 443565,
-      "word": "近百个结婚红包7年后失而复得",
-      "onboard_time": 1669517374,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 421973,
       "num": 421973,
       "word": "波兰2比0沙特",
       "onboard_time": 1669475393,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 418200,
-      "num": 418200,
-      "word": "命韵峋环重逢后吻戏",
-      "onboard_time": 1669517671,
-      "rank": 17,
-      "category": "影视"
     },
     {
       "raw_hot": 411152,
@@ -571,6 +579,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 299952,
+      "num": 299952,
+      "word": "猫咪的本质是爱看热闹",
+      "onboard_time": 1669510712,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 297588,
       "num": 297588,
       "word": "猫咪拉肚子主人熏艾灸条调理",
@@ -585,6 +601,14 @@
       "onboard_time": 1669482029,
       "rank": 19,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 292787,
+      "num": 292787,
+      "word": "梅西带领阿根廷球迷胜利大合唱",
+      "onboard_time": 1669514376,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 284646,
@@ -603,6 +627,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 276470,
+      "num": 276470,
+      "word": "彭小苒说横店圆了她的滑翔翼之梦",
+      "onboard_time": 1669519352,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 276023,
       "num": 276023,
       "word": "刘畊宏为阿根廷梅西加油",
@@ -619,19 +651,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 271859,
+      "num": 271859,
+      "word": "粉笔模考",
+      "onboard_time": 1669519234,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
       "raw_hot": 269938,
       "num": 269938,
       "word": "马宁好帅",
       "onboard_time": 1669506805,
       "rank": 27,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 269733,
-      "num": 269733,
-      "word": "梅西带领阿根廷球迷胜利大合唱",
-      "onboard_time": 1669514376,
-      "rank": 40,
       "category": "体育"
     },
     {
@@ -641,6 +673,14 @@
       "onboard_time": 1669487177,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 262281,
+      "num": 262281,
+      "word": "星河长明服化道",
+      "onboard_time": 1669519054,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 249432,
@@ -763,14 +803,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 216283,
-      "num": 216283,
-      "word": "猫咪的本质是爱看热闹",
-      "onboard_time": 1669510712,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 214283,
       "num": 214283,
       "word": "马嘉祺我期待Say goodbye高音",
@@ -793,6 +825,14 @@
       "onboard_time": 1669479519,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 196000,
+      "num": 196000,
+      "word": "点燃我温暖你",
+      "onboard_time": 1669519175,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 193049,
@@ -963,6 +1003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 151238,
+      "num": 129648,
+      "word": "命韵峋环复仇预告",
+      "onboard_time": 1669519535,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 146397,
       "num": 146397,
       "word": "他在拍一种很新的拍照方式",
@@ -992,6 +1040,14 @@
       "word": "女子失聪且患尿毒症求助消防站开锁",
       "onboard_time": 1669497675,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132667,
+      "num": 132667,
+      "word": "我国局地降温超16℃",
+      "onboard_time": 1669519470,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -1195,7 +1251,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 11558,
+      "raw_hot": 12980,
       "num": 1906282,
       "word": "多视角看歼15航母起降全过程",
       "onboard_time": 1669435239,

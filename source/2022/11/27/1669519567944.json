@@ -1,0 +1,410 @@
+{
+  "runTime": 1669519567944,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3548391,
+        "num": 3548391,
+        "word": "谁可以决定采取封控措施",
+        "onboard_time": 1669514315,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1721129,
+        "num": 1721129,
+        "word": "梅西破门",
+        "onboard_time": 1669495452,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 12980,
+        "num": 1635339,
+        "word": "多视角看歼15航母起降全过程",
+        "onboard_time": 1669435239,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1630557,
+        "num": 1630557,
+        "word": "男子撞死老人现场谎称是自己父亲",
+        "onboard_time": 1669514553,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1480477,
+        "num": 1480477,
+        "word": "李峋喘息声",
+        "onboard_time": 1669518697,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1378439,
+        "num": 1378439,
+        "word": "官方通报甘肃瓜州患儿因耽误治疗时机病逝",
+        "onboard_time": 1669516775,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1378015,
+        "num": 1378015,
+        "word": "蜜雪冰城被曝喝出虫子商家态度引争议",
+        "onboard_time": 1669512395,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1012985,
+        "num": 1012985,
+        "word": "重庆新增本土确诊194例无症状8667例",
+        "onboard_time": 1669517135,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 921815,
+        "num": 921815,
+        "word": "郑州30日将转入常态化动态清零",
+        "onboard_time": 1669511072,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 800775,
+        "num": 800775,
+        "word": "男家教猥亵10岁女童被判终身禁业",
+        "onboard_time": 1669507468,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 718879,
+        "num": 718879,
+        "word": "十块的奶茶只喝到了两块五",
+        "onboard_time": 1669513233,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 715390,
+        "num": 715390,
+        "word": "梅西进球苏醒又嗨了",
+        "onboard_time": 1669513892,
+        "rank": 11,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 698300,
+        "num": 698300,
+        "word": "近百个结婚红包7年后失而复得",
+        "onboard_time": 1669517374,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 518325,
+        "num": 518325,
+        "word": "命韵峋环重逢后吻戏",
+        "onboard_time": 1669517671,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 512188,
+        "num": 512188,
+        "word": "白鹿新剧白色毛衣上班路透",
+        "onboard_time": 1669518211,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 475137,
+        "num": 475137,
+        "word": "北京新增社会面806例",
+        "onboard_time": 1669509390,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 430392,
+        "num": 430392,
+        "word": "IVEmmaVCR疑似抄袭Redvelvet",
+        "onboard_time": 1669513053,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 406694,
+        "num": 406694,
+        "word": "上海一街道未做核酸纳入征信",
+        "onboard_time": 1669477430,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347693,
+        "num": 347693,
+        "word": "上海马拉松",
+        "onboard_time": 1669514914,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 345637,
+        "num": 345637,
+        "word": "11月26日新增本土无症状35858例",
+        "onboard_time": 1669512515,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307388,
+        "num": 307388,
+        "word": "男子偷2个榴莲被抓称太香没忍住",
+        "onboard_time": 1669512935,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299952,
+        "num": 299952,
+        "word": "猫咪的本质是爱看热闹",
+        "onboard_time": 1669510712,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 292787,
+        "num": 292787,
+        "word": "梅西带领阿根廷球迷胜利大合唱",
+        "onboard_time": 1669514376,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 276470,
+        "num": 276470,
+        "word": "彭小苒说横店圆了她的滑翔翼之梦",
+        "onboard_time": 1669519352,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 271859,
+        "num": 271859,
+        "word": "粉笔模考",
+        "onboard_time": 1669519234,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 269318,
+        "num": 269318,
+        "word": "美国禁止华为中兴等5家中企在美销售设备",
+        "onboard_time": 1669493714,
+        "rank": 25,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 263005,
+        "num": 263005,
+        "word": "郑好办致歉可查奥特曼核酸结果",
+        "onboard_time": 1669505302,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262281,
+        "num": 262281,
+        "word": "星河长明服化道",
+        "onboard_time": 1669519054,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 248684,
+        "num": 248684,
+        "word": "原来iOS16的新功能这么用",
+        "onboard_time": 1669511974,
+        "rank": 28,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 241514,
+        "num": 241514,
+        "word": "阿根廷升至小组第二",
+        "onboard_time": 1669507827,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 238983,
+        "num": 238983,
+        "word": "每天8杯水或超过大多数人真正需水量",
+        "onboard_time": 1669489756,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229623,
+        "num": 229623,
+        "word": "宋亚轩雪花错位图",
+        "onboard_time": 1669515097,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227655,
+        "num": 227655,
+        "word": "内马尔晒脚踝伤势",
+        "onboard_time": 1669495875,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 215803,
+        "num": 215803,
+        "word": "迪巴拉",
+        "onboard_time": 1669514072,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 214080,
+        "num": 214080,
+        "word": "沙特是怎么赢的阿根廷",
+        "onboard_time": 1669483222,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196000,
+        "num": 196000,
+        "word": "点燃我温暖你",
+        "onboard_time": 1669519175,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 190476,
+        "num": 190476,
+        "word": "男子炸葱油灶台火光变成绿色",
+        "onboard_time": 1669510293,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173404,
+        "num": 173404,
+        "word": "刘语熙预测6中5",
+        "onboard_time": 1669515457,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170134,
+        "num": 170134,
+        "word": "卡塔尔球迷要立刻办闭幕式",
+        "onboard_time": 1669475334,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168364,
+        "num": 168364,
+        "word": "卿卿日常原著里的李薇",
+        "onboard_time": 1669504641,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 157466,
+        "num": 157466,
+        "word": "许半夏抓包丈夫出轨",
+        "onboard_time": 1669478147,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 153880,
+        "num": 153880,
+        "word": "熙游记",
+        "onboard_time": 1669516655,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146557,
+        "num": 146557,
+        "word": "张远终于圆梦唱了动漫歌",
+        "onboard_time": 1669511554,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146168,
+        "num": 146168,
+        "word": "张艺兴领衔metamoon音乐节",
+        "onboard_time": 1669515873,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 145744,
+        "num": 145744,
+        "word": "当小时代的豪宅照进现实",
+        "onboard_time": 1669476649,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 143506,
+        "num": 143506,
+        "word": "猫咪拉肚子主人熏艾灸条调理",
+        "onboard_time": 1669507647,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132667,
+        "num": 132667,
+        "word": "我国局地降温超16℃",
+        "onboard_time": 1669519470,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229031,
+        "num": 131295,
+        "word": "梅西疯狂庆祝",
+        "onboard_time": 1669499294,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151238,
+        "num": 129648,
+        "word": "命韵峋环复仇预告",
+        "onboard_time": 1669519535,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 127206,
+        "num": 127206,
+        "word": "姐姐给被隔离弟弟送饭狗跟着抢食",
+        "onboard_time": 1669507346,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动经济全球化不断向前#"
+    }
+  }
+}
