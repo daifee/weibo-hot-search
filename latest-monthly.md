@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/01 00:36:21 ~ 2022/11/27 10:16:40
+本榜单时间：2022/11/01 00:36:21 ~ 2022/11/27 11:08:29
 </p>
 </blockquote>
 <p>
@@ -771,6 +771,12 @@ C罗进球被吹（热度：2899415）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B0%81%E5%8F%AF%E4%BB%A5%E5%86%B3%E5%AE%9A%E9%87%87%E5%8F%96%E5%B0%81%E6%8E%A7%E6%8E%AA%E6%96%BD%23" target="weibo">
+谁可以决定采取封控措施（热度：2506204）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A0%94%E7%A9%B6%E7%A7%B0%E7%94%B7%E6%80%A7%E7%94%9F%E8%82%B2%E8%83%BD%E5%8A%9B%E6%96%AD%E5%B4%96%E5%BC%8F%E4%B8%8B%E8%B7%8C%23" target="weibo">
 研究称男性生育能力断崖式下跌（热度：2502588）
 </a>
@@ -1521,6 +1527,12 @@ IU（热度：2015592）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%92%9E%E6%AD%BB%E8%80%81%E4%BA%BA%E7%8E%B0%E5%9C%BA%E8%B0%8E%E7%A7%B0%E6%98%AF%E8%87%AA%E5%B7%B1%E7%88%B6%E4%BA%B2%23" target="weibo">
+男子撞死老人现场谎称是自己父亲（热度：1788568）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%A6%8D%E5%B8%8C%20%E9%80%A0%E5%9E%8B%23" target="weibo">
 陈妍希 造型（热度：1787739）
 </a>
@@ -2081,6 +2093,12 @@ Faker（热度：1632969）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E9%A2%91%E4%B9%8B%E5%A4%9C%E9%98%B5%E5%AE%B9%E5%AE%98%E5%AE%A3%E7%8E%8B%E5%86%B0%E5%86%B0%23" target="weibo">
 央视频之夜阵容官宣王冰冰（热度：1540582）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E8%A2%AB%E6%9B%9D%E5%96%9D%E5%87%BA%E8%99%AB%E5%AD%90%E5%95%86%E5%AE%B6%E6%80%81%E5%BA%A6%E5%BC%95%E4%BA%89%E8%AE%AE%23" target="weibo">
+蜜雪冰城被曝喝出虫子商家态度引争议（热度：1535608）
 </a>
 </li>
 
@@ -3195,12 +3213,6 @@ meiko（热度：1182269）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E8%A2%AB%E6%9B%9D%E5%96%9D%E5%87%BA%E8%99%AB%E5%AD%90%E5%95%86%E5%AE%B6%E6%80%81%E5%BA%A6%E5%BC%95%E4%BA%89%E8%AE%AE%23" target="weibo">
-蜜雪冰城被曝喝出虫子商家态度引争议（热度：1171626）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%A0%E8%83%83%E4%B8%8D%E5%A5%BD%E7%9A%84%E4%BA%BA%E4%B8%80%E5%AE%9A%E8%A6%81%E7%9C%8B%E7%9C%8B%23" target="weibo">
 肠胃不好的人一定要看看（热度：1171499）
 </a>
@@ -3503,6 +3515,12 @@ iPhone折叠屏（热度：1140020）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%90%83%E8%87%AA%E5%8A%A9%E9%A4%90%E5%8F%91%E7%8E%B0%E9%A4%90%E6%A1%8C%E7%AB%8B%E7%89%8C%E8%AF%B7%E5%8B%BF%E6%91%84%E5%83%8F%23" target="weibo">
 男子吃自助餐发现餐桌立牌请勿摄像（热度：1120476）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E7%94%98%E8%82%83%E7%93%9C%E5%B7%9E%E6%82%A3%E5%84%BF%E5%9B%A0%E8%80%BD%E8%AF%AF%E6%B2%BB%E7%96%97%E6%97%B6%E6%9C%BA%E7%97%85%E9%80%9D%23" target="weibo">
+官方通报甘肃瓜州患儿因耽误治疗时机病逝（热度：1117872）
 </a>
 </li>
 
@@ -4331,6 +4349,12 @@ EXO六人合体视频（热度：1003777）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E5%AE%98%E5%AE%A3%E9%9F%B3%E4%B9%90%E4%BC%9A%E5%98%89%E5%AE%BE%23" target="weibo">
 鹿晗官宣音乐会嘉宾（热度：972388）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%81%E5%9D%97%E7%9A%84%E5%A5%B6%E8%8C%B6%E5%8F%AA%E5%96%9D%E5%88%B0%E4%BA%86%E4%B8%A4%E5%9D%97%E4%BA%94%23" target="weibo">
+十块的奶茶只喝到了两块五（热度：972019）
 </a>
 </li>
 
@@ -5589,6 +5613,12 @@ GALA 头像（热度：826488）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E8%BF%9B%E7%90%83%E8%8B%8F%E9%86%92%E5%8F%88%E5%97%A8%E4%BA%86%23" target="weibo">
+梅西进球苏醒又嗨了（热度：826225）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E8%BD%B6%E6%8A%8A%E5%8D%83%E9%87%91%E6%B0%94%E8%B4%A8%E6%8B%BF%E6%8D%8F%E4%BD%8F%E4%BA%86%23" target="weibo">
 宋轶把千金气质拿捏住了（热度：824833）
 </a>
@@ -5981,36 +6011,6 @@ kp 退团（热度：791639）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%B3%8B%E8%AF%AF%E4%BC%9A%E6%9C%B1%E9%9F%B5%E7%BB%93%E5%A9%9A%23" target="weibo">
 李峋误会朱韵结婚（热度：781210）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E8%A6%81%E6%B1%82%E6%8E%A8%E7%89%B9%E5%B7%A5%E7%A8%8B%E5%B8%88%E9%BB%98%E5%86%99%E4%BB%A3%E7%A0%81%23" target="weibo">
-马斯克要求推特工程师默写代码（热度：780566）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AF%8D%E4%BA%B2%E5%8D%8A%E5%A4%9C%E5%8F%91%E7%8E%B01%E5%B2%81%E8%90%8C%E5%A8%83%E5%81%B7%E5%90%83%E4%B8%9C%E8%A5%BF%23" target="weibo">
-母亲半夜发现1岁萌娃偷吃东西（热度：779453）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BB%B5%E9%98%B3%E4%B8%89%E5%8F%B0%E6%89%93%E4%BA%BA%E5%AD%A6%E7%94%9F%E8%A2%AB%E5%85%A8%E9%83%A8%E6%8A%93%E8%8E%B7%23" target="weibo">
-绵阳三台打人学生被全部抓获（热度：778994）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%B3%8B%E6%9C%B1%E9%9F%B5%E9%87%8D%E9%80%A2%23" target="weibo">
-李峋朱韵重逢（热度：778511）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%9B%B4%E5%8D%9A%E5%8C%97%E5%A4%A7%E5%BD%93%E4%BA%8B%E4%BA%BA%E5%9B%9E%E5%BA%94%E8%AE%BA%E6%96%87%E6%8A%84%E8%A2%AD%23" target="weibo">
-直博北大当事人回应论文抄袭（热度：778360）
 </a>
 </li>
 
