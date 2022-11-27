@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1669573392214,
+  "endTime": 1669574286943,
   "band_list": [
     {
       "raw_hot": 36651023,
@@ -25675,6 +25675,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 332741,
+      "num": 191459,
+      "word": "梅西接近加盟迈阿密国际",
+      "onboard_time": 1669570882,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 332696,
       "num": 332696,
       "word": "原来有钱人也有不快乐的时候",
@@ -25833,14 +25841,6 @@
       "onboard_time": 1669197335,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 330728,
-      "num": 191459,
-      "word": "梅西接近加盟迈阿密国际",
-      "onboard_time": 1669570882,
-      "rank": 15,
-      "category": "体育"
     },
     {
       "raw_hot": 330726,
@@ -42467,6 +42467,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 181434,
+      "num": 181434,
+      "word": "克罗地亚4比1加拿大",
+      "onboard_time": 1669572559,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 181378,
       "num": 181378,
       "word": "真正的爱情应该是什么样的",
@@ -53659,6 +53667,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 116954,
+      "num": 116954,
+      "word": "本届世界杯最快进球",
+      "onboard_time": 1669571121,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 116892,
       "num": 116892,
       "word": "电影倒数说爱你片尾彩蛋征集",
@@ -54273,14 +54289,6 @@
       "onboard_time": 1667787627,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 112572,
-      "num": 112572,
-      "word": "本届世界杯最快进球",
-      "onboard_time": 1669571121,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 112448,
@@ -56089,14 +56097,6 @@
       "onboard_time": 1668856287,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 101459,
-      "num": 101459,
-      "word": "克罗地亚4比1加拿大",
-      "onboard_time": 1669572559,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 101288,
@@ -59115,6 +59115,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 82274,
+      "num": 82274,
+      "word": "世界杯小组出线情况乱成一锅粥了",
+      "onboard_time": 1669569088,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 82264,
       "num": 82264,
       "word": "人民空军从无到有越变越强",
@@ -59624,6 +59632,14 @@
       "word": "篮网vs快船",
       "onboard_time": 1668295038,
       "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 77197,
+      "num": 77197,
+      "word": "加拿大小组出局",
+      "onboard_time": 1669573697,
+      "rank": 33,
       "category": "体育"
     },
     {
@@ -61081,14 +61097,6 @@
       "onboard_time": 1667455584,
       "rank": 48,
       "category": "社会议题"
-    },
-    {
-      "raw_hot": 56739,
-      "num": 56739,
-      "word": "世界杯小组出线情况乱成一锅粥了",
-      "onboard_time": 1669569088,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 56734,

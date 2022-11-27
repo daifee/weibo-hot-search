@@ -1,6 +1,6 @@
 {
   "startTime": 1669566398830,
-  "endTime": 1669573392214,
+  "endTime": 1669574286943,
   "band_list": [
     {
       "raw_hot": 11045761,
@@ -219,7 +219,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 330728,
+      "raw_hot": 332741,
       "num": 191459,
       "word": "梅西接近加盟迈阿密国际",
       "onboard_time": 1669570882,
@@ -387,6 +387,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 181434,
+      "num": 181434,
+      "word": "克罗地亚4比1加拿大",
+      "onboard_time": 1669572559,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 169750,
       "num": 169750,
       "word": "尹峥李薇带娃",
@@ -475,19 +483,27 @@
       "category": "体育"
     },
     {
-      "raw_hot": 112572,
-      "num": 112572,
+      "raw_hot": 116954,
+      "num": 116954,
       "word": "本届世界杯最快进球",
       "onboard_time": 1669571121,
       "rank": 26,
       "category": "体育"
     },
     {
-      "raw_hot": 101459,
-      "num": 101459,
-      "word": "克罗地亚4比1加拿大",
-      "onboard_time": 1669572559,
-      "rank": 29,
+      "raw_hot": 82274,
+      "num": 82274,
+      "word": "世界杯小组出线情况乱成一锅粥了",
+      "onboard_time": 1669569088,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 77197,
+      "num": 77197,
+      "word": "加拿大小组出局",
+      "onboard_time": 1669573697,
+      "rank": 33,
       "category": "体育"
     },
     {
@@ -496,14 +512,6 @@
       "word": "克拉马里奇破门",
       "onboard_time": 1669569147,
       "rank": 49,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 56739,
-      "num": 56739,
-      "word": "世界杯小组出线情况乱成一锅粥了",
-      "onboard_time": 1669569088,
-      "rank": 44,
       "category": "体育"
     },
     {
