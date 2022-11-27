@@ -1,6 +1,6 @@
 {
   "startTime": 1669479991529,
-  "endTime": 1669544393501,
+  "endTime": 1669545372505,
   "band_list": [
     {
       "raw_hot": 3822944,
@@ -75,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1956171,
+      "num": 1956171,
+      "word": "曝阿根廷球迷强占中国球迷座位",
+      "onboard_time": 1669541012,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1939625,
       "num": 1476745,
       "word": "社区否认一混阳志愿者给市民做核酸",
@@ -139,14 +147,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1689523,
-      "num": 1689523,
-      "word": "曝阿根廷球迷强占中国球迷座位",
-      "onboard_time": 1669541012,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1679607,
       "num": 1034645,
       "word": "官方回应重庆核酸志愿者是混阳消息不实",
@@ -195,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1234974,
+      "num": 1234974,
+      "word": "父亲当面吃完女儿偷倒剩饭",
+      "onboard_time": 1669540893,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1219800,
       "num": 1219800,
       "word": "乌鲁木齐市1124火灾四问",
@@ -209,14 +217,6 @@
       "onboard_time": 1669477667,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1173052,
-      "num": 1173052,
-      "word": "父亲当面吃完女儿偷倒剩饭",
-      "onboard_time": 1669540893,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1172141,
@@ -307,6 +307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 864619,
+      "num": 461576,
+      "word": "婆婆不让去月子中心女子二胎不给探望",
+      "onboard_time": 1669544011,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 844303,
       "num": 844303,
       "word": "重庆南岸区一街道办公室发生爆炸系谣言",
@@ -339,19 +347,19 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 809297,
+      "num": 809297,
+      "word": "北京疫情发布会",
+      "onboard_time": 1669541074,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 807234,
       "num": 807234,
       "word": "11月26日新增本土无症状35858例",
       "onboard_time": 1669512515,
       "rank": 12,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 796384,
-      "num": 796384,
-      "word": "北京疫情发布会",
-      "onboard_time": 1669541074,
-      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -369,6 +377,14 @@
       "onboard_time": 1669517374,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 747700,
+      "num": 747700,
+      "word": "唐梓预测",
+      "onboard_time": 1669544372,
+      "rank": 47,
+      "category": "体育,网红"
     },
     {
       "raw_hot": 732437,
@@ -393,6 +409,14 @@
       "onboard_time": 1669541136,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 716420,
+      "num": 716420,
+      "word": "女子定错位外卖员怒斥倒八辈子霉",
+      "onboard_time": 1669542995,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 709093,
@@ -425,6 +449,14 @@
       "onboard_time": 1669464403,
       "rank": 8,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 637268,
+      "num": 455024,
+      "word": "北京新增本土感染者1781例",
+      "onboard_time": 1669544431,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 633177,
@@ -651,6 +683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 497325,
+      "num": 497325,
+      "word": "赵丽颖新剧演技爆发力",
+      "onboard_time": 1669542935,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 489839,
       "num": 489839,
       "word": "张真源拔麦",
@@ -673,14 +713,6 @@
       "onboard_time": 1669519234,
       "rank": 24,
       "category": "教育"
-    },
-    {
-      "raw_hot": 480230,
-      "num": 480230,
-      "word": "赵丽颖新剧演技爆发力",
-      "onboard_time": 1669542935,
-      "rank": 9,
-      "category": "影视"
     },
     {
       "raw_hot": 480200,
@@ -763,6 +795,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 437720,
+      "num": 437720,
+      "word": "当事妈妈回应婆婆给1岁孙女吃炒面",
+      "onboard_time": 1669542514,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 432768,
       "num": 432768,
       "word": "命韵峋环复仇预告",
@@ -787,6 +827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 418756,
+      "num": 418756,
+      "word": "刘耀文录制无限超越班",
+      "onboard_time": 1669543770,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 415319,
       "num": 415319,
       "word": "吴磊逃过回忆杀了吗",
@@ -795,27 +843,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 413770,
-      "num": 413770,
-      "word": "刘耀文录制无限超越班",
-      "onboard_time": 1669543770,
-      "rank": 13,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 411152,
       "num": 411152,
       "word": "男子偷2个榴莲被抓称太香没忍住",
       "onboard_time": 1669512935,
       "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 408677,
-      "num": 408677,
-      "word": "女子定错位外卖员怒斥倒八辈子霉",
-      "onboard_time": 1669542995,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -859,14 +891,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 392216,
-      "num": 392216,
-      "word": "当事妈妈回应婆婆给1岁孙女吃炒面",
-      "onboard_time": 1669542514,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 389919,
       "num": 389919,
       "word": "袁娅维首登国际舞台好稳",
@@ -889,6 +913,14 @@
       "onboard_time": 1669507284,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 374193,
+      "num": 374193,
+      "word": "卿卿日常",
+      "onboard_time": 1669539514,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 373981,
@@ -969,14 +1001,6 @@
       "onboard_time": 1669485861,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 356239,
-      "num": 356239,
-      "word": "卿卿日常",
-      "onboard_time": 1669539514,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 353792,
@@ -1091,6 +1115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 313487,
+      "num": 313487,
+      "word": "SEVENTEEN演唱会落花转场",
+      "onboard_time": 1669544252,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 311724,
       "num": 311724,
       "word": "今年最想安利的国产剧",
@@ -1131,6 +1163,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 304839,
+      "num": 304839,
+      "word": "刘令姿说元英报仇十年不晚",
+      "onboard_time": 1669544551,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 304813,
+      "num": 304813,
+      "word": "女子回应卖饼12年给弟弟买房买车",
+      "onboard_time": 1669543114,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 299952,
       "num": 299952,
       "word": "猫咪的本质是爱看热闹",
@@ -1153,14 +1201,6 @@
       "onboard_time": 1669507647,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 295482,
-      "num": 295482,
-      "word": "SEVENTEEN演唱会落花转场",
-      "onboard_time": 1669544252,
-      "rank": 24,
-      "category": "音乐"
     },
     {
       "raw_hot": 293970,
@@ -1291,6 +1331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 266784,
+      "num": 266784,
+      "word": "医生下班后抽空给自己做了个手术",
+      "onboard_time": 1669543892,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 263072,
       "num": 263072,
       "word": "法国终结卫冕冠军出局魔咒",
@@ -1329,6 +1377,14 @@
       "onboard_time": 1669519175,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 252561,
+      "num": 252561,
+      "word": "如何保证核酸检测安全",
+      "onboard_time": 1669543951,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 250330,
@@ -1387,14 +1443,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 240716,
-      "num": 240716,
-      "word": "女子回应卖饼12年给弟弟买房买车",
-      "onboard_time": 1669543114,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 239498,
       "num": 162043,
       "word": "崔胜澈舞台爆发力",
@@ -1425,14 +1473,6 @@
       "onboard_time": 1669473710,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 232817,
-      "num": 109299,
-      "word": "唐梓预测",
-      "onboard_time": 1669544372,
-      "rank": 47,
-      "category": "体育,网红"
     },
     {
       "raw_hot": 232649,
@@ -1604,7 +1644,7 @@
     },
     {
       "raw_hot": 212873,
-      "num": 163878,
+      "num": 192504,
       "word": "点燃我温暖你预告好多名场面",
       "onboard_time": 1669539994,
       "rank": 36,
@@ -1635,11 +1675,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 206773,
-      "num": 184600,
-      "word": "婆婆不让去月子中心女子二胎不给探望",
-      "onboard_time": 1669544011,
-      "rank": 35,
+      "raw_hot": 208866,
+      "num": 208866,
+      "word": "35岁女子从上海回老家过田园生活",
+      "onboard_time": 1669544551,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -1657,6 +1697,14 @@
       "onboard_time": 1669533810,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 200997,
+      "num": 200997,
+      "word": "梅西的热身动作能有多可爱",
+      "onboard_time": 1669539875,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 199270,
@@ -1729,14 +1777,6 @@
       "onboard_time": 1669479937,
       "rank": 47,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 187374,
-      "num": 187374,
-      "word": "梅西的热身动作能有多可爱",
-      "onboard_time": 1669539875,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 187318,
@@ -1883,20 +1923,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 165455,
+      "num": 165455,
+      "word": "围炉煮茶",
+      "onboard_time": 1669544792,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 165200,
       "num": 99607,
       "word": "李薇为了郝葭直接夺刀意欲闯府",
       "onboard_time": 1669504520,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 164200,
-      "num": 164200,
-      "word": "医生下班后抽空给自己做了个手术",
-      "onboard_time": 1669543892,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 163579,
@@ -2115,6 +2155,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 130750,
+      "num": 130750,
+      "word": "梅西进球前在做什么",
+      "onboard_time": 1669544792,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 129317,
+      "num": 129317,
+      "word": "流浪猫被女生投喂叼小鸟来报恩",
+      "onboard_time": 1669544674,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 128144,
       "num": 128144,
       "word": "白敬亭片场学说河南话",
@@ -2227,6 +2283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 120888,
+      "num": 120888,
+      "word": "大学生牵牛上课牛一路逛吃不肯走",
+      "onboard_time": 1669545035,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 117370,
       "num": 117370,
       "word": "檀健次画出来的都是妖怪",
@@ -2257,14 +2321,6 @@
       "onboard_time": 1669488077,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 110214,
-      "num": 110214,
-      "word": "如何保证核酸检测安全",
-      "onboard_time": 1669543951,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 110018,
@@ -2348,7 +2404,7 @@
     },
     {
       "raw_hot": 75531,
-      "num": 1324420,
+      "num": 1395122,
       "word": "推动经济全球化不断向前",
       "onboard_time": 1669530871,
       "rank": 2,
