@@ -1,6 +1,6 @@
 {
   "startTime": 1669566398830,
-  "endTime": 1669577598496,
+  "endTime": 1669580373907,
   "band_list": [
     {
       "raw_hot": 11045761,
@@ -275,6 +275,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 285790,
+      "num": 285790,
+      "word": "西班牙vs德国首发",
+      "onboard_time": 1669574596,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 284856,
+      "num": 284856,
+      "word": "西班牙男模队vs德国男模队",
+      "onboard_time": 1669576452,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 283803,
       "num": 283803,
       "word": "西安900路公交女司机因高颜值走红",
@@ -320,14 +336,6 @@
       "word": "日本主帅称力争赢下西班牙",
       "onboard_time": 1669565319,
       "rank": 44,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 238731,
-      "num": 238731,
-      "word": "西班牙vs德国首发",
-      "onboard_time": 1669574596,
-      "rank": 15,
       "category": "体育"
     },
     {
@@ -507,6 +515,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 94851,
+      "num": 83929,
+      "word": "不愧是莫德里奇",
+      "onboard_time": 1669574417,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 88420,
+      "num": 75844,
+      "word": "西班牙半场0比0德国",
+      "onboard_time": 1669579273,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 85860,
       "num": 85860,
       "word": "世界杯小组出线情况乱成一锅粥了",
@@ -515,27 +539,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 83929,
-      "num": 83929,
-      "word": "不愧是莫德里奇",
-      "onboard_time": 1669574417,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 75858,
       "num": 75858,
       "word": "克拉马里奇破门",
       "onboard_time": 1669569147,
       "rank": 49,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 61709,
-      "num": 51965,
-      "word": "西班牙男模队vs德国男模队",
-      "onboard_time": 1669576452,
-      "rank": 48,
       "category": "体育"
     },
     {
