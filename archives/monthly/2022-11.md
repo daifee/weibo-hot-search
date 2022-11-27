@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/01 00:36:21 ~ 2022/11/27 16:38:19
+本榜单时间：2022/11/01 00:36:21 ~ 2022/11/27 17:18:03
 </p>
 </blockquote>
 <p>
@@ -413,6 +413,12 @@ T1和DRX决胜局（热度：3699608）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E7%A0%B4%E9%97%A8%23" target="weibo">
 梅西破门（热度：3284249）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%B0%E5%B7%9E%E9%80%9A%E6%8A%A5%E6%A0%B8%E9%85%B8%E9%87%87%E6%A0%B7%E4%BA%BA%E5%91%98%E9%98%B3%E6%80%A7%23" target="weibo">
+兰州通报核酸采样人员阳性（热度：3263960）
 </a>
 </li>
 
@@ -893,12 +899,6 @@ Hero（热度：2631610）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%98%E5%9B%BD%E8%B1%AA%E5%9B%A0%E6%8A%91%E9%83%81%E7%97%87%E7%97%85%E6%95%85%23" target="weibo">
 付国豪因抑郁症病故（热度：2349310）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%B0%E5%B7%9E%E9%80%9A%E6%8A%A5%E6%A0%B8%E9%85%B8%E9%87%87%E6%A0%B7%E4%BA%BA%E5%91%98%E9%98%B3%E6%80%A7%23" target="weibo">
-兰州通报核酸采样人员阳性（热度：2348915）
 </a>
 </li>
 
@@ -5487,6 +5487,12 @@ bibi（热度：846431）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E5%8D%97%E5%B2%B8%E5%8C%BA%E4%B8%80%E8%A1%97%E9%81%93%E5%8A%9E%E5%85%AC%E5%AE%A4%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8%E7%B3%BB%E8%B0%A3%E8%A8%80%23" target="weibo">
+重庆南岸区一街道办公室发生爆炸系谣言（热度：844303）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%AE%B6%E8%8C%B6%E9%A5%AE%E5%93%81%E7%89%8C%E8%81%94%E5%90%88%E6%8A%B5%E5%88%B6%E5%A4%96%E5%8D%96%E6%BB%A1%E5%87%8F%23" target="weibo">
 多家茶饮品牌联合抵制外卖满减（热度：844114）
 </a>
@@ -6005,12 +6011,6 @@ BLG Doinb（热度：795998）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AF%E5%89%AF%E6%80%BB%E8%A3%81%E5%B7%B2%E6%8B%85%E4%BB%BB%E4%B8%AD%E5%9B%BD%E8%81%94%E9%80%9A%E8%91%A3%E4%BA%8B%23" target="weibo">
 腾讯副总裁已担任中国联通董事（热度：793830）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BA%93%E9%87%8C%20%E5%A4%A9%E7%A5%9E%E4%B8%8B%E5%87%A1%23" target="weibo">
-库里 天神下凡（热度：793632）
 </a>
 </li>
 

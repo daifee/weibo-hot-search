@@ -1,6 +1,6 @@
 {
   "startTime": 1669479991529,
-  "endTime": 1669538299032,
+  "endTime": 1669540683808,
   "band_list": [
     {
       "raw_hot": 3822944,
@@ -17,6 +17,14 @@
       "onboard_time": 1669495452,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 3263960,
+      "num": 3263960,
+      "word": "兰州通报核酸采样人员阳性",
+      "onboard_time": 1669536575,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3152060,
@@ -57,14 +65,6 @@
       "onboard_time": 1669481732,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 2348915,
-      "num": 2348915,
-      "word": "兰州通报核酸采样人员阳性",
-      "onboard_time": 1669536575,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2115348,
@@ -291,6 +291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 844303,
+      "num": 844303,
+      "word": "重庆南岸区一街道办公室发生爆炸系谣言",
+      "onboard_time": 1669535312,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 826225,
       "num": 826225,
       "word": "梅西进球苏醒又嗨了",
@@ -368,14 +376,6 @@
       "word": "郑好办致歉可查奥特曼核酸结果",
       "onboard_time": 1669505302,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 674095,
-      "num": 657098,
-      "word": "重庆南岸区一街道办公室发生爆炸系谣言",
-      "onboard_time": 1669535312,
-      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -459,6 +459,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 560725,
+      "num": 560725,
+      "word": "RNG",
+      "onboard_time": 1669538915,
+      "rank": 6,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 556584,
       "num": 556584,
       "word": "许半夏抓包丈夫出轨",
@@ -473,6 +481,14 @@
       "onboard_time": 1669507827,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 541761,
+      "num": 541761,
+      "word": "男子逗娃顺走孩子9500元金手镯",
+      "onboard_time": 1669535312,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 539902,
@@ -555,6 +571,14 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 506322,
+      "num": 506322,
+      "word": "李晨说何超莲带显微镜上节目",
+      "onboard_time": 1669537835,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 506046,
       "num": 506046,
       "word": "赵丽颖的三个现代角色",
@@ -619,6 +643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 474546,
+      "num": 474546,
+      "word": "女子按摩减肥致大出血进ICU切肾",
+      "onboard_time": 1669537537,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 469381,
       "num": 469381,
       "word": "美国禁止华为中兴等5家中企在美销售设备",
@@ -633,14 +665,6 @@
       "onboard_time": 1669525535,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 454967,
-      "num": 454967,
-      "word": "男子逗娃顺走孩子9500元金手镯",
-      "onboard_time": 1669535312,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 453253,
@@ -699,6 +723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 415891,
+      "num": 415891,
+      "word": "EXO的Obsession发行3周年",
+      "onboard_time": 1669539813,
+      "rank": 13,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 415319,
       "num": 415319,
       "word": "吴磊逃过回忆杀了吗",
@@ -721,14 +753,6 @@
       "onboard_time": 1669528173,
       "rank": 24,
       "category": "教育"
-    },
-    {
-      "raw_hot": 399890,
-      "num": 399890,
-      "word": "李晨说何超莲带显微镜上节目",
-      "onboard_time": 1669537835,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 397214,
@@ -843,6 +867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 353792,
+      "num": 353792,
+      "word": "李峋拽王遇见情敌秒变醋王",
+      "onboard_time": 1669539394,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 352571,
       "num": 352571,
       "word": "酷云认证宋威龙近五年95生收视TOP1",
@@ -857,6 +889,14 @@
       "onboard_time": 1669514914,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 350679,
+      "num": 350679,
+      "word": "Hero 紫幻",
+      "onboard_time": 1669538256,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 350044,
@@ -900,7 +940,7 @@
     },
     {
       "raw_hot": 327114,
-      "num": 274522,
+      "num": 304525,
       "word": "刘诗诗一念关山雨中撑伞视频",
       "onboard_time": 1669536753,
       "rank": 22,
@@ -945,6 +985,14 @@
       "onboard_time": 1669496657,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 307413,
+      "num": 307413,
+      "word": "杨幂说阳华是在家做饭的小奶狗",
+      "onboard_time": 1669540592,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 306302,
@@ -1027,6 +1075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 286623,
+      "num": 286623,
+      "word": "今年最想安利的国产剧",
+      "onboard_time": 1669536453,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 284646,
       "num": 284646,
       "word": "沙特 假摔",
@@ -1049,6 +1105,14 @@
       "onboard_time": 1669464944,
       "rank": 23,
       "category": "科技"
+    },
+    {
+      "raw_hot": 281255,
+      "num": 281255,
+      "word": "商家回应未拆封奶粉中有活虫",
+      "onboard_time": 1669536093,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 276470,
@@ -1113,6 +1177,14 @@
       "onboard_time": 1669487177,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 263034,
+      "num": 263034,
+      "word": "张真源说下次会再见面的",
+      "onboard_time": 1669540294,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 262281,
@@ -1193,6 +1265,14 @@
       "onboard_time": 1669455038,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 239498,
+      "num": 162043,
+      "word": "崔胜澈舞台爆发力",
+      "onboard_time": 1669540174,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 236259,
@@ -1315,6 +1395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 215893,
+      "num": 150046,
+      "word": "另一半的情绪价值有多重要",
+      "onboard_time": 1669536275,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 215857,
       "num": 215857,
       "word": "游泳教练水中抛扔幼儿险撞台阶",
@@ -1355,6 +1443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 212873,
+      "num": 148652,
+      "word": "点燃我温暖你预告好多名场面",
+      "onboard_time": 1669539994,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 211902,
       "num": 211902,
       "word": "詹姆斯39分11篮板",
@@ -1379,6 +1475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 209571,
+      "num": 209571,
+      "word": "巴西舞王内马尔",
+      "onboard_time": 1669538197,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 205332,
       "num": 205332,
       "word": "周深cos哪吒好可爱",
@@ -1393,14 +1497,6 @@
       "onboard_time": 1669533810,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 201003,
-      "num": 180060,
-      "word": "女子按摩减肥致大出血进ICU切肾",
-      "onboard_time": 1669537537,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 199270,
@@ -1497,14 +1593,6 @@
       "onboard_time": 1669479875,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 182131,
-      "num": 182131,
-      "word": "商家回应未拆封奶粉中有活虫",
-      "onboard_time": 1669536093,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 177773,
@@ -1699,14 +1787,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 153840,
-      "num": 118595,
-      "word": "Hero 紫幻",
-      "onboard_time": 1669538256,
-      "rank": 47,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 151316,
       "num": 151316,
       "word": "Hero对战WE",
@@ -1803,6 +1883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 134476,
+      "num": 134476,
+      "word": "火星冲日火星伴月将在同一天出现",
+      "onboard_time": 1669540174,
+      "rank": 42,
+      "category": "自然"
+    },
+    {
       "raw_hot": 133029,
       "num": 133029,
       "word": "女子失聪且患尿毒症求助消防站开锁",
@@ -1859,6 +1947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 127285,
+      "num": 127285,
+      "word": "双子座流星雨将上演",
+      "onboard_time": 1669539994,
+      "rank": 43,
+      "category": "自然,社会新闻"
+    },
+    {
       "raw_hot": 126242,
       "num": 126242,
       "word": "猫咪把心情写在脸上了",
@@ -1896,6 +1992,14 @@
       "word": "穆勒将领衔德国队背水一战",
       "onboard_time": 1669532910,
       "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 125171,
+      "num": 125171,
+      "word": "梅西的热身动作能有多可爱",
+      "onboard_time": 1669539875,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -1961,6 +2065,14 @@
       "onboard_time": 1669483704,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 109477,
+      "num": 109477,
+      "word": "国内首台自主研制F级50兆瓦重型燃机发运",
+      "onboard_time": 1669540410,
+      "rank": 48,
+      "category": "科技"
     },
     {
       "raw_hot": 103535,
