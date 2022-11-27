@@ -1,6 +1,6 @@
 {
   "startTime": 1669479991529,
-  "endTime": 1669527230463,
+  "endTime": 1669530254727,
   "band_list": [
     {
       "raw_hot": 3822944,
@@ -25,6 +25,14 @@
       "onboard_time": 1669477430,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2508231,
+      "num": 2508231,
+      "word": "曝李铁银行存款过亿",
+      "onboard_time": 1669526010,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 2508136,
@@ -171,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1156694,
+      "num": 1156694,
+      "word": "华晨宇21年演唱会吸完了一大瓶氧",
+      "onboard_time": 1669527870,
+      "rank": 3,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1134597,
       "num": 1134597,
       "word": "乌鲁木齐明起逐步恢复城市公共交通",
@@ -179,12 +195,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1040997,
-      "num": 1040997,
-      "word": "曝李铁银行存款过亿",
-      "onboard_time": 1669526010,
-      "rank": 41,
-      "category": "体育"
+      "raw_hot": 1013385,
+      "num": 1013385,
+      "word": "武汉市全面推行疫情防控场所码",
+      "onboard_time": 1669527811,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1012904,
@@ -251,12 +267,28 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 824368,
+      "num": 824368,
+      "word": "梅西发博说做到了",
+      "onboard_time": 1669526373,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 807234,
       "num": 807234,
       "word": "11月26日新增本土无症状35858例",
       "onboard_time": 1669512515,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 772488,
+      "num": 772488,
+      "word": "英国考虑提高赴英留学门槛",
+      "onboard_time": 1669526615,
+      "rank": 42,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 753604,
@@ -315,14 +347,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 665588,
-      "num": 611810,
-      "word": "梅西发博说做到了",
-      "onboard_time": 1669526373,
-      "rank": 10,
-      "category": "体育"
-    },
-    {
       "raw_hot": 633177,
       "num": 633177,
       "word": "IVEmmaVCR疑似抄袭Redvelvet",
@@ -353,6 +377,14 @@
       "onboard_time": 1669474912,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 576007,
+      "num": 576007,
+      "word": "女生呵斥图书馆放不雅视频男子遭回怼",
+      "onboard_time": 1669529132,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 562218,
@@ -563,12 +595,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 425901,
+      "num": 425901,
+      "word": "C罗安慰失误门将太暖了",
+      "onboard_time": 1669525535,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 421973,
       "num": 421973,
       "word": "波兰2比0沙特",
       "onboard_time": 1669475393,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 415319,
+      "num": 415319,
+      "word": "吴磊逃过回忆杀了吗",
+      "onboard_time": 1669528051,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 411152,
@@ -601,14 +649,6 @@
       "onboard_time": 1669521393,
       "rank": 20,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 387982,
-      "num": 387982,
-      "word": "C罗安慰失误门将太暖了",
-      "onboard_time": 1669525535,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 384209,
@@ -689,6 +729,14 @@
       "onboard_time": 1669473414,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 330726,
+      "num": 330726,
+      "word": "任嘉伦十二月将发行新专辑",
+      "onboard_time": 1669528712,
+      "rank": 18,
+      "category": "音乐"
     },
     {
       "raw_hot": 324999,
@@ -947,6 +995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 234624,
+      "num": 234624,
+      "word": "五分钟儿童性教育短片",
+      "onboard_time": 1669528173,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
       "raw_hot": 232868,
       "num": 232868,
       "word": "胡辣汤原来有25种以上调料",
@@ -961,6 +1017,14 @@
       "onboard_time": 1669479456,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 231568,
+      "num": 231568,
+      "word": "吉林女子雪地吹泡泡立马结冰",
+      "onboard_time": 1669527093,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 229232,
@@ -1041,6 +1105,22 @@
       "onboard_time": 1669525653,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 217168,
+      "num": 217168,
+      "word": "陆贞这手劲还挺大",
+      "onboard_time": 1669530031,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 215705,
+      "num": 215705,
+      "word": "许半夏被渣男掐脖子",
+      "onboard_time": 1669529912,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 215407,
@@ -1203,12 +1283,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 171360,
+      "num": 171360,
+      "word": "林峯再唱再生缘片尾曲记得忘记",
+      "onboard_time": 1669529611,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 170234,
       "num": 170234,
       "word": "英格兰威尔士球迷爆发冲突",
       "onboard_time": 1669464641,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 170175,
+      "num": 170175,
+      "word": "游泳教练水中抛扔幼儿险撞台阶",
+      "onboard_time": 1669528893,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 169833,
@@ -1283,14 +1379,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 157825,
-      "num": 157825,
-      "word": "英国考虑提高赴英留学门槛",
-      "onboard_time": 1669526615,
-      "rank": 42,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 157393,
       "num": 157393,
       "word": "女子高速路求助辅警暖心公主抱",
@@ -1299,11 +1387,35 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 156926,
+      "num": 156926,
+      "word": "压力给到德国",
+      "onboard_time": 1669529493,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 156598,
       "num": 156598,
       "word": "阿根廷vs墨西哥首发",
       "onboard_time": 1669491674,
       "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 154446,
+      "num": 154446,
+      "word": "什么情况才可以实施区域封闭管理",
+      "onboard_time": 1669526432,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 151726,
+      "num": 151726,
+      "word": "穆里尼奥预测德国战胜西班牙",
+      "onboard_time": 1669529794,
+      "rank": 43,
       "category": "体育"
     },
     {
@@ -1343,14 +1455,6 @@
       "num": 137794,
       "word": "4少年叠罗汉式骑摩托不慎滑倒",
       "onboard_time": 1669523793,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 133692,
-      "num": 133692,
-      "word": "吉林女子雪地吹泡泡立马结冰",
-      "onboard_time": 1669527093,
       "rank": 48,
       "category": "社会新闻"
     },
@@ -1403,12 +1507,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 127930,
-      "num": 127930,
-      "word": "什么情况才可以实施区域封闭管理",
-      "onboard_time": 1669526432,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 127553,
+      "num": 127553,
+      "word": "当阿根廷解说员看见梅西进球",
+      "onboard_time": 1669529193,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 126242,
@@ -1473,6 +1577,14 @@
       "onboard_time": 1669481614,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 116553,
+      "num": 127076,
+      "word": "8岁女生立定跳远1米78惊呆老师",
+      "onboard_time": 1669530153,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 113730,
