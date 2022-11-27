@@ -1,0 +1,410 @@
+{
+  "runTime": 1669592135725,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1379587,
+        "num": 1379587,
+        "word": "西班牙1比1德国",
+        "onboard_time": 1669583112,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 856696,
+        "num": 856696,
+        "word": "又爆冷一场",
+        "onboard_time": 1669562321,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24756,
+        "num": 767229,
+        "word": "神十五已做好出征准备",
+        "onboard_time": 1669532010,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 731332,
+        "num": 731332,
+        "word": "卡塔尔世界杯有多冷",
+        "onboard_time": 1669569444,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 538106,
+        "num": 538106,
+        "word": "女生醉酒被闺蜜用宝宝背带背回",
+        "onboard_time": 1669565860,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 421269,
+        "num": 421269,
+        "word": "桂林一医生被指急诊室猥亵患者",
+        "onboard_time": 1669567771,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384158,
+        "num": 384158,
+        "word": "7岁女孩高烧一周被确诊亲吻病",
+        "onboard_time": 1669552836,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354263,
+        "num": 354263,
+        "word": "克罗地亚4比1加拿大",
+        "onboard_time": 1669572559,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 311153,
+        "num": 311153,
+        "word": "西班牙男模队vs德国男模队",
+        "onboard_time": 1669576452,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 308516,
+        "num": 308516,
+        "word": "梅西接近加盟迈阿密国际",
+        "onboard_time": 1669570882,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2579762,
+        "num": 301273,
+        "word": "一核酸公司实控人今年注册16家核酸机构",
+        "onboard_time": 1669562921,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 822928,
+        "num": 297869,
+        "word": "女婴出生时长5.7厘米尾巴",
+        "onboard_time": 1669561062,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329230,
+        "num": 297294,
+        "word": "武汉疫情防控",
+        "onboard_time": 1669558119,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290380,
+        "num": 290380,
+        "word": "动画片突然插播广告男孩怒砸电视",
+        "onboard_time": 1669562682,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270468,
+        "num": 270468,
+        "word": "德国有希望了",
+        "onboard_time": 1669590379,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 258851,
+        "num": 258851,
+        "word": "西安900路公交女司机因高颜值走红",
+        "onboard_time": 1669557580,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257421,
+        "num": 257421,
+        "word": "北京新增本土感染者1781例",
+        "onboard_time": 1669544431,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206757,
+        "num": 206757,
+        "word": "加拿大小组出局",
+        "onboard_time": 1669573697,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201051,
+        "num": 201051,
+        "word": "200斤女子减重90斤找到男朋友",
+        "onboard_time": 1669557640,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199923,
+        "num": 199923,
+        "word": "唐梓预测",
+        "onboard_time": 1669544372,
+        "rank": 19,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 636138,
+        "num": 198851,
+        "word": "广州海珠近万人有疏解意愿",
+        "onboard_time": 1669550740,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192370,
+        "num": 192370,
+        "word": "父母带2岁孩子去方舱邻居纷纷挽留",
+        "onboard_time": 1669550075,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186404,
+        "num": 186404,
+        "word": "吃个炒饭给我整得热血澎湃",
+        "onboard_time": 1669557341,
+        "rank": 22,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 183730,
+        "num": 183730,
+        "word": "比利时到底怎么了",
+        "onboard_time": 1669565804,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175719,
+        "num": 175719,
+        "word": "死亡之组乱了",
+        "onboard_time": 1669554996,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172302,
+        "num": 172302,
+        "word": "有一个不爱责怪的伴侣真好",
+        "onboard_time": 1669548573,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 162585,
+        "num": 162585,
+        "word": "小伙拉横幅开喇叭要求妻子退彩礼",
+        "onboard_time": 1669591463,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159821,
+        "num": 159821,
+        "word": "女生分手后骗妈妈和内马尔谈恋爱",
+        "onboard_time": 1669549955,
+        "rank": 27,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 151439,
+        "num": 151439,
+        "word": "深圳倡导市民下周居家办公",
+        "onboard_time": 1669550677,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151282,
+        "num": 151282,
+        "word": "90后女孩车祸失去右眼如今成义眼师",
+        "onboard_time": 1669563522,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146585,
+        "num": 146585,
+        "word": "尹峥尹岐去了甘棠驿",
+        "onboard_time": 1669561905,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 145708,
+        "num": 145708,
+        "word": "死亡之组出线形势",
+        "onboard_time": 1669592007,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144602,
+        "num": 144602,
+        "word": "王嘉尔说不想要任何标签滤镜",
+        "onboard_time": 1669563641,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 139489,
+        "num": 139489,
+        "word": "男子饿了2天拜托交警买个面包",
+        "onboard_time": 1669551336,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137329,
+        "num": 137329,
+        "word": "不愧是莫德里奇",
+        "onboard_time": 1669574417,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129279,
+        "num": 129279,
+        "word": "武汉呼吁市民同心合力群防群控",
+        "onboard_time": 1669557640,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128872,
+        "num": 128872,
+        "word": "严禁随意封控等各类层层加码行为",
+        "onboard_time": 1669556200,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124467,
+        "num": 124467,
+        "word": "工作人员看刘雨昕的眼神",
+        "onboard_time": 1669564477,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 119145,
+        "num": 119145,
+        "word": "朱韵穿了李峋的衬衫",
+        "onboard_time": 1669558119,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 116507,
+        "num": 116507,
+        "word": "抖音回应世界杯直播时出现杂音",
+        "onboard_time": 1669559081,
+        "rank": 39,
+        "category": "体育,科技"
+      },
+      {
+        "raw_hot": 115089,
+        "num": 115089,
+        "word": "西班牙进球",
+        "onboard_time": 1669591644,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109869,
+        "num": 109869,
+        "word": "克罗地亚进球",
+        "onboard_time": 1669591644,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107522,
+        "num": 107522,
+        "word": "詹俊说西班牙德国都是替补立功",
+        "onboard_time": 1669592065,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105812,
+        "num": 105812,
+        "word": "风吹半夏首播收视",
+        "onboard_time": 1669560463,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 104223,
+        "num": 104223,
+        "word": "西班牙vs德国",
+        "onboard_time": 1669561841,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103549,
+        "num": 103549,
+        "word": "MMA回应IVE组合VCR抄袭争议",
+        "onboard_time": 1669564544,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101510,
+        "num": 101510,
+        "word": "日本主帅称力争赢下西班牙",
+        "onboard_time": 1669565319,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99791,
+        "num": 99791,
+        "word": "世界杯小组出线情况乱成一锅粥了",
+        "onboard_time": 1669569088,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99002,
+        "num": 99002,
+        "word": "加拿大进球",
+        "onboard_time": 1669591043,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95341,
+        "num": 95341,
+        "word": "本届世界杯最快进球",
+        "onboard_time": 1669571121,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚定信心抓实抓细疫情防控各项工作#"
+    }
+  }
+}

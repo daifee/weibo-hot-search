@@ -1,6 +1,6 @@
 {
   "startTime": 1669566398830,
-  "endTime": 1669591249799,
+  "endTime": 1669592135725,
   "band_list": [
     {
       "raw_hot": 11045761,
@@ -91,20 +91,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 731332,
+      "num": 731332,
+      "word": "卡塔尔世界杯有多冷",
+      "onboard_time": 1669569444,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 645751,
       "num": 645751,
       "word": "抖音回应世界杯直播时出现杂音",
       "onboard_time": 1669559081,
       "rank": 8,
       "category": "体育,科技"
-    },
-    {
-      "raw_hot": 643330,
-      "num": 643330,
-      "word": "卡塔尔世界杯有多冷",
-      "onboard_time": 1669569444,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 637997,
@@ -131,8 +131,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 535290,
-      "num": 535290,
+      "raw_hot": 538106,
+      "num": 538106,
       "word": "女生醉酒被闺蜜用宝宝背带背回",
       "onboard_time": 1669565860,
       "rank": 41,
@@ -164,7 +164,7 @@
     },
     {
       "raw_hot": 436531,
-      "num": 387891,
+      "num": 421269,
       "word": "桂林一医生被指急诊室猥亵患者",
       "onboard_time": 1669567771,
       "rank": 18,
@@ -227,6 +227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 354263,
+      "num": 354263,
+      "word": "克罗地亚4比1加拿大",
+      "onboard_time": 1669572559,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 338552,
       "num": 338552,
       "word": "女生分手后骗妈妈和内马尔谈恋爱",
@@ -236,7 +244,7 @@
     },
     {
       "raw_hot": 332741,
-      "num": 273061,
+      "num": 308516,
       "word": "梅西接近加盟迈阿密国际",
       "onboard_time": 1669570882,
       "rank": 15,
@@ -307,14 +315,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 282494,
-      "num": 282494,
-      "word": "克罗地亚4比1加拿大",
-      "onboard_time": 1669572559,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 280525,
       "num": 280525,
       "word": "克罗地亚半场2比1加拿大",
@@ -337,6 +337,22 @@
       "onboard_time": 1669561724,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 270468,
+      "num": 270468,
+      "word": "德国有希望了",
+      "onboard_time": 1669590379,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 257421,
+      "num": 257421,
+      "word": "北京新增本土感染者1781例",
+      "onboard_time": 1669544431,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 252075,
@@ -371,14 +387,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 225801,
-      "num": 225801,
-      "word": "北京新增本土感染者1781例",
-      "onboard_time": 1669544431,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 223991,
       "num": 223991,
       "word": "吃个炒饭给我整得热血澎湃",
@@ -395,6 +403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 206757,
+      "num": 206757,
+      "word": "加拿大小组出局",
+      "onboard_time": 1669573697,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 203394,
       "num": 203394,
       "word": "婆婆不让去月子中心女子二胎不给探望",
@@ -408,14 +424,6 @@
       "word": "菲尔克鲁格破门",
       "onboard_time": 1669582874,
       "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 195081,
-      "num": 195081,
-      "word": "加拿大小组出局",
-      "onboard_time": 1669573697,
-      "rank": 33,
       "category": "体育"
     },
     {
@@ -459,6 +467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 162585,
+      "num": 162585,
+      "word": "小伙拉横幅开喇叭要求妻子退彩礼",
+      "onboard_time": 1669591463,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 155043,
       "num": 155043,
       "word": "郭晓婷复古港风珍珠发带造型",
@@ -472,6 +488,14 @@
       "word": "戴维斯2分钟破门",
       "onboard_time": 1669566758,
       "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 145708,
+      "num": 145708,
+      "word": "死亡之组出线形势",
+      "onboard_time": 1669592007,
+      "rank": 31,
       "category": "体育"
     },
     {
@@ -491,6 +515,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 137329,
+      "num": 137329,
+      "word": "不愧是莫德里奇",
+      "onboard_time": 1669574417,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 136614,
       "num": 136614,
       "word": "摩洛哥终结比利时世界杯小组赛8连胜",
@@ -505,14 +537,6 @@
       "onboard_time": 1669563106,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 132553,
-      "num": 132553,
-      "word": "不愧是莫德里奇",
-      "onboard_time": 1669574417,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 129895,
@@ -547,6 +571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 115089,
+      "num": 115089,
+      "word": "西班牙进球",
+      "onboard_time": 1669591644,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 114658,
       "num": 114658,
       "word": "世界杯小组出线情况乱成一锅粥了",
@@ -555,11 +587,27 @@
       "category": "体育"
     },
     {
-      "raw_hot": 109670,
-      "num": 109670,
-      "word": "德国有希望了",
-      "onboard_time": 1669590379,
-      "rank": 34,
+      "raw_hot": 109869,
+      "num": 109869,
+      "word": "克罗地亚进球",
+      "onboard_time": 1669591644,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 107522,
+      "num": 107522,
+      "word": "詹俊说西班牙德国都是替补立功",
+      "onboard_time": 1669592065,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 99002,
+      "num": 99002,
+      "word": "加拿大进球",
+      "onboard_time": 1669591043,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -568,14 +616,6 @@
       "word": "莫拉塔破门",
       "onboard_time": 1669581312,
       "rank": 9,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 79819,
-      "num": 79819,
-      "word": "加拿大进球",
-      "onboard_time": 1669591043,
-      "rank": 44,
       "category": "体育"
     },
     {
