@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/01 00:36:21 ~ 2022/11/27 15:33:43
+本榜单时间：2022/11/01 00:36:21 ~ 2022/11/27 16:23:59
 </p>
 </blockquote>
 <p>
@@ -647,6 +647,12 @@ C罗进球被吹（热度：2899415）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E8%B5%94%E7%8E%87%23" target="weibo">
 日本赔率（热度：2651843）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23Hero%23" target="weibo">
+Hero（热度：2631610）
 </a>
 </li>
 
@@ -4569,6 +4575,12 @@ C罗成为本届世界杯唯一自由球员（热度：971929）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%B0%E5%B7%9E%E9%80%9A%E6%8A%A5%E6%A0%B8%E9%85%B8%E9%87%87%E6%A0%B7%E4%BA%BA%E5%91%98%E9%98%B3%E6%80%A7%23" target="weibo">
+兰州通报核酸采样人员阳性（热度：951823）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23iPhone%E7%94%A8%E6%88%B7%E7%BE%A1%E6%85%95%E5%AE%89%E5%8D%93%E6%89%8B%E6%9C%BA%E7%9A%84%E5%9C%B0%E6%96%B9%23" target="weibo">
 iPhone用户羡慕安卓手机的地方（热度：951377）
 </a>
@@ -5999,18 +6011,6 @@ BLG Doinb（热度：795998）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BA%93%E9%87%8C%20%E5%A4%A9%E7%A5%9E%E4%B8%8B%E5%87%A1%23" target="weibo">
 库里 天神下凡（热度：793632）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E5%9B%9E%E5%BA%94%E7%B2%89%E4%B8%9D%E5%82%AC%E8%BF%9B%E7%BB%84%23" target="weibo">
-杨幂回应粉丝催进组（热度：793140）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A5%B3%E5%AD%90%E5%8F%8D%E7%BB%91%E8%B7%AA%E5%9C%B0%E4%BA%8B%E4%BB%B6%23" target="weibo">
-广州警方通报女子反绑跪地事件（热度：792165）
 </a>
 </li>
 

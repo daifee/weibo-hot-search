@@ -1,6 +1,6 @@
 {
   "startTime": 1669479991529,
-  "endTime": 1669534423174,
+  "endTime": 1669537439124,
   "band_list": [
     {
       "raw_hot": 3822944,
@@ -25,6 +25,14 @@
       "onboard_time": 1669477430,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2631610,
+      "num": 2631610,
+      "word": "Hero",
+      "onboard_time": 1669535131,
+      "rank": 0,
+      "category": "游戏"
     },
     {
       "raw_hot": 2508231,
@@ -243,6 +251,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 951823,
+      "num": 951823,
+      "word": "兰州通报核酸采样人员阳性",
+      "onboard_time": 1669536575,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 938305,
       "num": 938305,
       "word": "墨西哥球迷大喊梅西回家",
@@ -355,6 +371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 674095,
+      "num": 382984,
+      "word": "重庆南岸区一街道办公室发生爆炸系谣言",
+      "onboard_time": 1669535312,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 671857,
       "num": 671857,
       "word": "杨幂现阶段作为演员的野心是满分",
@@ -409,6 +433,14 @@
       "onboard_time": 1669532192,
       "rank": 15,
       "category": "体育,综艺"
+    },
+    {
+      "raw_hot": 581925,
+      "num": 380383,
+      "word": "爸爸一声吼吓到孩子却救了她",
+      "onboard_time": 1669534352,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 562218,
@@ -579,6 +611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 476446,
+      "num": 374018,
+      "word": "孙怡不放过任何一块牛肝菌",
+      "onboard_time": 1669535430,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 469381,
       "num": 469381,
       "word": "美国禁止华为中兴等5家中企在美销售设备",
@@ -611,12 +651,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 451095,
+      "num": 372356,
+      "word": "男子逗娃顺走孩子9500元金手镯",
+      "onboard_time": 1669535312,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 445244,
       "num": 445244,
       "word": "法国2比1丹麦",
       "onboard_time": 1669485922,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 439296,
+      "num": 368426,
+      "word": "江苏一大学发现全球最大天然碳洋葱",
+      "onboard_time": 1669533810,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 432768,
@@ -731,12 +787,36 @@
       "category": "教育"
     },
     {
+      "raw_hot": 368420,
+      "num": 368420,
+      "word": "赵志伟分享跳女团舞vlog",
+      "onboard_time": 1669535072,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 368196,
+      "num": 281740,
+      "word": "周深画青蛙全是3",
+      "onboard_time": 1669537174,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 367297,
       "num": 367297,
       "word": "梅西偶像哭了",
       "onboard_time": 1669499234,
       "rank": 11,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 364098,
+      "num": 277195,
+      "word": "王栎鑫对俞灏明说哥哥你真好",
+      "onboard_time": 1669534530,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 361149,
@@ -883,6 +963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 294529,
+      "num": 294529,
+      "word": "莫德里奇首次回应难民照片",
+      "onboard_time": 1669535735,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 293970,
       "num": 293970,
       "word": "梅西和恩佐的双向奔赴",
@@ -923,12 +1011,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 288693,
+      "num": 274522,
+      "word": "刘诗诗一念关山雨中撑伞视频",
+      "onboard_time": 1669536753,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 284646,
       "num": 284646,
       "word": "沙特 假摔",
       "onboard_time": 1669472933,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 284357,
+      "num": 271667,
+      "word": "文俊辉开场漫画感",
+      "onboard_time": 1669536632,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 282557,
@@ -1028,7 +1132,7 @@
     },
     {
       "raw_hot": 250330,
-      "num": 200729,
+      "num": 207831,
       "word": "白敬亭田曦薇卿卿日常开府宴花絮",
       "onboard_time": 1669533271,
       "rank": 44,
@@ -1275,12 +1379,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 194125,
-      "num": 194125,
-      "word": "江苏一大学发现全球最大天然碳洋葱",
+      "raw_hot": 202196,
+      "num": 190247,
+      "word": "命韵峋环LP收复进程",
       "onboard_time": 1669533810,
-      "rank": 32,
-      "category": "社会新闻"
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 193049,
@@ -1313,14 +1417,6 @@
       "onboard_time": 1669463861,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 190247,
-      "num": 190247,
-      "word": "命韵峋环LP收复进程",
-      "onboard_time": 1669533810,
-      "rank": 34,
-      "category": "影视"
     },
     {
       "raw_hot": 189547,
@@ -1563,6 +1659,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 153052,
+      "num": 153052,
+      "word": "商家回应未拆封奶粉中有活虫",
+      "onboard_time": 1669536093,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 151316,
+      "num": 151316,
+      "word": "Hero对战WE",
+      "onboard_time": 1669535673,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 150714,
       "num": 150714,
       "word": "关晓彤说微光盛典共赴美好生活",
@@ -1619,6 +1731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 139375,
+      "num": 139375,
+      "word": "替德国队紧张",
+      "onboard_time": 1669535312,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 137794,
       "num": 137794,
       "word": "4少年叠罗汉式骑摩托不慎滑倒",
@@ -1632,14 +1752,6 @@
       "word": "蜜雪冰城客服回应喝出虫子店家态度消极",
       "onboard_time": 1669533931,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 136412,
-      "num": 136412,
-      "word": "爸爸一声吼吓到孩子却救了她",
-      "onboard_time": 1669534352,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -1771,6 +1883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 121116,
+      "num": 121116,
+      "word": "医生连续10年为病人手绘术前指导",
+      "onboard_time": 1669537114,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 117370,
       "num": 117370,
       "word": "檀健次画出来的都是妖怪",
@@ -1801,6 +1921,14 @@
       "onboard_time": 1669483704,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 103535,
+      "num": 103535,
+      "word": "长征九号比胖五还胖",
+      "onboard_time": 1669536514,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 97128,
@@ -1843,20 +1971,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 75531,
+      "num": 1271045,
+      "word": "推动经济全球化不断向前",
+      "onboard_time": 1669530871,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 71800,
       "num": 71800,
       "word": "养殖户给牛加热水槽被质疑没必要",
       "onboard_time": 1669504039,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 65215,
-      "num": 1271045,
-      "word": "推动经济全球化不断向前",
-      "onboard_time": 1669530871,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 64490,

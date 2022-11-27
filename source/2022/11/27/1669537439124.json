@@ -1,0 +1,410 @@
+{
+  "runTime": 1669537439124,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2631610,
+        "num": 2631610,
+        "word": "Hero",
+        "onboard_time": 1669535131,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1203683,
+        "num": 1203683,
+        "word": "曝李铁银行存款过亿",
+        "onboard_time": 1669526010,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 75531,
+        "num": 1039680,
+        "word": "推动经济全球化不断向前",
+        "onboard_time": 1669530871,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 951823,
+        "num": 951823,
+        "word": "兰州通报核酸采样人员阳性",
+        "onboard_time": 1669536575,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 832546,
+        "num": 832546,
+        "word": "陆贞这手劲还挺大",
+        "onboard_time": 1669530031,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 814456,
+        "num": 814456,
+        "word": "武汉市全面推行疫情防控场所码",
+        "onboard_time": 1669527811,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 642691,
+        "num": 642691,
+        "word": "华晨宇21年演唱会吸完了一大瓶氧",
+        "onboard_time": 1669527870,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 596650,
+        "num": 596650,
+        "word": "杨幂现阶段作为演员的野心是满分",
+        "onboard_time": 1669533511,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 477014,
+        "num": 477014,
+        "word": "谁可以决定采取封控措施",
+        "onboard_time": 1669514315,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 387456,
+        "num": 387456,
+        "word": "英国考虑提高赴英留学门槛",
+        "onboard_time": 1669526615,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1652778,
+        "num": 387198,
+        "word": "女生呵斥图书馆放不雅视频男子遭回怼",
+        "onboard_time": 1669529132,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 674095,
+        "num": 382984,
+        "word": "重庆南岸区一街道办公室发生爆炸系谣言",
+        "onboard_time": 1669535312,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 581925,
+        "num": 380383,
+        "word": "爸爸一声吼吓到孩子却救了她",
+        "onboard_time": 1669534352,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 539145,
+        "num": 378633,
+        "word": "苏醒曾因梅西拉黑黄健翔",
+        "onboard_time": 1669532192,
+        "rank": 13,
+        "category": "体育,综艺"
+      },
+      {
+        "raw_hot": 476446,
+        "num": 374018,
+        "word": "孙怡不放过任何一块牛肝菌",
+        "onboard_time": 1669535430,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 451095,
+        "num": 372356,
+        "word": "男子逗娃顺走孩子9500元金手镯",
+        "onboard_time": 1669535312,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 439296,
+        "num": 368426,
+        "word": "江苏一大学发现全球最大天然碳洋葱",
+        "onboard_time": 1669533810,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368420,
+        "num": 368420,
+        "word": "赵志伟分享跳女团舞vlog",
+        "onboard_time": 1669535072,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 294529,
+        "num": 294529,
+        "word": "莫德里奇首次回应难民照片",
+        "onboard_time": 1669535735,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 283446,
+        "num": 283446,
+        "word": "压力给到德国",
+        "onboard_time": 1669529493,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 368196,
+        "num": 281740,
+        "word": "周深画青蛙全是3",
+        "onboard_time": 1669537174,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 364098,
+        "num": 277195,
+        "word": "王栎鑫对俞灏明说哥哥你真好",
+        "onboard_time": 1669534530,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 288693,
+        "num": 274522,
+        "word": "刘诗诗一念关山雨中撑伞视频",
+        "onboard_time": 1669536753,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 284357,
+        "num": 271667,
+        "word": "文俊辉开场漫画感",
+        "onboard_time": 1669536632,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 268633,
+        "num": 268633,
+        "word": "很难不喜欢内马尔",
+        "onboard_time": 1669531050,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 256315,
+        "num": 256315,
+        "word": "梅西发博说做到了",
+        "onboard_time": 1669526373,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 236698,
+        "num": 236698,
+        "word": "狗狗因好奇掉河道师傅用挖机救出",
+        "onboard_time": 1669530988,
+        "rank": 26,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 221861,
+        "num": 221861,
+        "word": "8岁女生立定跳远1米78惊呆老师",
+        "onboard_time": 1669530153,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213873,
+        "num": 213873,
+        "word": "输给沙特后梅西二儿子哭了",
+        "onboard_time": 1669519713,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209524,
+        "num": 209524,
+        "word": "官方回应重庆核酸志愿者是混阳消息不实",
+        "onboard_time": 1669523130,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264923,
+        "num": 208425,
+        "word": "毛利小五郎麻药免疫",
+        "onboard_time": 1669522775,
+        "rank": 30,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 249679,
+        "num": 208314,
+        "word": "李峋喘息声",
+        "onboard_time": 1669518697,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 226995,
+        "num": 207831,
+        "word": "白敬亭田曦薇卿卿日常开府宴花絮",
+        "onboard_time": 1669533271,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 207311,
+        "num": 207311,
+        "word": "男子为女友准备一后备箱滑雪装备",
+        "onboard_time": 1669532611,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201300,
+        "num": 201300,
+        "word": "五分钟儿童性教育短片",
+        "onboard_time": 1669528173,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 194345,
+        "num": 194345,
+        "word": "西班牙vs德国",
+        "onboard_time": 1669523673,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183011,
+        "num": 183011,
+        "word": "女子买1筐芒果遭5斤水泥压秤",
+        "onboard_time": 1669520253,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175257,
+        "num": 175257,
+        "word": "重庆新增本土确诊194例无症状8667例",
+        "onboard_time": 1669517135,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172368,
+        "num": 172368,
+        "word": "乌鲁木齐明起逐步恢复城市公共交通",
+        "onboard_time": 1669519594,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165328,
+        "num": 165328,
+        "word": "男子撞死老人现场谎称是自己父亲",
+        "onboard_time": 1669514553,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218168,
+        "num": 164519,
+        "word": "王鹤棣时宴白色毛衣出妆路透",
+        "onboard_time": 1669531832,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 202196,
+        "num": 159523,
+        "word": "命韵峋环LP收复进程",
+        "onboard_time": 1669533810,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 153052,
+        "num": 153052,
+        "word": "商家回应未拆封奶粉中有活虫",
+        "onboard_time": 1669536093,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151316,
+        "num": 151316,
+        "word": "Hero对战WE",
+        "onboard_time": 1669535673,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 146312,
+        "num": 146312,
+        "word": "十块的奶茶只喝到了两块五",
+        "onboard_time": 1669513233,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 139375,
+        "num": 139375,
+        "word": "替德国队紧张",
+        "onboard_time": 1669535312,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121116,
+        "num": 121116,
+        "word": "医生连续10年为病人手绘术前指导",
+        "onboard_time": 1669537114,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109759,
+        "num": 109759,
+        "word": "C罗安慰失误门将太暖了",
+        "onboard_time": 1669525535,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105033,
+        "num": 105033,
+        "word": "郑州30日将转入常态化动态清零",
+        "onboard_time": 1669511072,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103535,
+        "num": 103535,
+        "word": "长征九号比胖五还胖",
+        "onboard_time": 1669536514,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚定信心抓实抓细疫情防控各项工作#"
+    }
+  }
+}
