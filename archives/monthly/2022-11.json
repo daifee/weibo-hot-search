@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1669588540457,
+  "endTime": 1669591249799,
   "band_list": [
     {
       "raw_hot": 36651023,
@@ -3201,6 +3201,14 @@
       "onboard_time": 1668596010,
       "rank": 5,
       "category": "科技"
+    },
+    {
+      "raw_hot": 1486052,
+      "num": 1486052,
+      "word": "西班牙1比1德国",
+      "onboard_time": 1669583112,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 1484299,
@@ -7347,14 +7355,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 856338,
-      "num": 856338,
-      "word": "西班牙1比1德国",
-      "onboard_time": 1669583112,
-      "rank": 4,
-      "category": "体育"
-    },
-    {
       "raw_hot": 855771,
       "num": 855771,
       "word": "天娱新男团以华晨宇为目标",
@@ -11107,6 +11107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 643330,
+      "num": 643330,
+      "word": "卡塔尔世界杯有多冷",
+      "onboard_time": 1669569444,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 643192,
       "num": 643192,
       "word": "Gemini澄清声明",
@@ -14353,6 +14361,14 @@
       "onboard_time": 1669562321,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 535290,
+      "num": 535290,
+      "word": "女生醉酒被闺蜜用宝宝背带背回",
+      "onboard_time": 1669565860,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 534891,
@@ -24995,14 +25011,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 342021,
-      "num": 342021,
-      "word": "女生醉酒被闺蜜用宝宝背带背回",
-      "onboard_time": 1669565860,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 341802,
       "num": 341802,
       "word": "张凯丽说雷佳音不是黑脸是太紧张了",
@@ -25313,14 +25321,6 @@
       "onboard_time": 1669180422,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 337334,
-      "num": 212416,
-      "word": "卡塔尔世界杯有多冷",
-      "onboard_time": 1669569444,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 337100,
@@ -25692,7 +25692,7 @@
     },
     {
       "raw_hot": 332741,
-      "num": 191459,
+      "num": 273061,
       "word": "梅西接近加盟迈阿密国际",
       "onboard_time": 1669570882,
       "rank": 15,
@@ -29976,6 +29976,14 @@
       "word": "管泽元 世界杯",
       "onboard_time": 1668963145,
       "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 282494,
+      "num": 282494,
+      "word": "克罗地亚4比1加拿大",
+      "onboard_time": 1669572559,
+      "rank": 29,
       "category": "体育"
     },
     {
@@ -40219,6 +40227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 195081,
+      "num": 195081,
+      "word": "加拿大小组出局",
+      "onboard_time": 1669573697,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 194948,
       "num": 194948,
       "word": "电梯遇故障姐姐第一反应先护弟弟",
@@ -42505,14 +42521,6 @@
       "onboard_time": 1667804247,
       "rank": 44,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 181434,
-      "num": 181434,
-      "word": "克罗地亚4比1加拿大",
-      "onboard_time": 1669572559,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 181378,
@@ -50859,6 +50867,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 132553,
+      "num": 132553,
+      "word": "不愧是莫德里奇",
+      "onboard_time": 1669574417,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132515,
       "num": 132515,
       "word": "周杰伦这几句话到底有多好用",
@@ -54035,6 +54051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 114658,
+      "num": 114658,
+      "word": "世界杯小组出线情况乱成一锅粥了",
+      "onboard_time": 1669569088,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 114606,
       "num": 114606,
       "word": "LESSERAFIM新歌Impurities",
@@ -54857,6 +54881,14 @@
       "onboard_time": 1667313572,
       "rank": 43,
       "category": "美食"
+    },
+    {
+      "raw_hot": 109670,
+      "num": 109670,
+      "word": "德国有希望了",
+      "onboard_time": 1669590379,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 109649,
@@ -56331,14 +56363,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 100287,
-      "num": 100287,
-      "word": "加拿大小组出局",
-      "onboard_time": 1669573697,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 100216,
       "num": 100216,
       "word": "LOL",
@@ -57184,14 +57208,6 @@
       "word": "2个动作改善含胸驼背",
       "onboard_time": 1667557110,
       "rank": 38,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 94851,
-      "num": 83929,
-      "word": "不愧是莫德里奇",
-      "onboard_time": 1669574417,
-      "rank": 24,
       "category": "体育"
     },
     {
@@ -58635,14 +58651,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 85860,
-      "num": 85860,
-      "word": "世界杯小组出线情况乱成一锅粥了",
-      "onboard_time": 1669569088,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 85855,
       "num": 85855,
       "word": "高校女记者跟拍运动会有多拼",
@@ -59419,6 +59427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 79819,
+      "num": 79819,
+      "word": "加拿大进球",
+      "onboard_time": 1669591043,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 79789,
       "num": 79789,
       "word": "当代大学生的神奇宝贝",
@@ -60131,6 +60147,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 72257,
+      "num": 72257,
+      "word": "解说说加维是娃娃脸",
+      "onboard_time": 1669582994,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 72221,
       "num": 72221,
       "word": "梅西也是巨蟹座",
@@ -60593,14 +60617,6 @@
       "onboard_time": 1668769228,
       "rank": 39,
       "category": "科技"
-    },
-    {
-      "raw_hot": 66034,
-      "num": 53558,
-      "word": "解说说加维是娃娃脸",
-      "onboard_time": 1669582994,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 65999,

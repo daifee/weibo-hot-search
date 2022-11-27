@@ -1,6 +1,6 @@
 {
   "startTime": 1669566398830,
-  "endTime": 1669588540457,
+  "endTime": 1669591249799,
   "band_list": [
     {
       "raw_hot": 11045761,
@@ -51,20 +51,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1486052,
+      "num": 1486052,
+      "word": "西班牙1比1德国",
+      "onboard_time": 1669583112,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1068914,
       "num": 398849,
       "word": "给大白实名也是为大白正名",
       "onboard_time": 1669554457,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 856338,
-      "num": 856338,
-      "word": "西班牙1比1德国",
-      "onboard_time": 1669583112,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 789936,
@@ -99,6 +99,14 @@
       "category": "体育,科技"
     },
     {
+      "raw_hot": 643330,
+      "num": 643330,
+      "word": "卡塔尔世界杯有多冷",
+      "onboard_time": 1669569444,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 637997,
       "num": 637997,
       "word": "西班牙vs德国",
@@ -121,6 +129,14 @@
       "onboard_time": 1669564477,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 535290,
+      "num": 535290,
+      "word": "女生醉酒被闺蜜用宝宝背带背回",
+      "onboard_time": 1669565860,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 529729,
@@ -211,14 +227,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 342021,
-      "num": 342021,
-      "word": "女生醉酒被闺蜜用宝宝背带背回",
-      "onboard_time": 1669565860,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 338552,
       "num": 338552,
       "word": "女生分手后骗妈妈和内马尔谈恋爱",
@@ -227,16 +235,8 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 337334,
-      "num": 212416,
-      "word": "卡塔尔世界杯有多冷",
-      "onboard_time": 1669569444,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 332741,
-      "num": 191459,
+      "num": 273061,
       "word": "梅西接近加盟迈阿密国际",
       "onboard_time": 1669570882,
       "rank": 15,
@@ -305,6 +305,14 @@
       "onboard_time": 1669557580,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 282494,
+      "num": 282494,
+      "word": "克罗地亚4比1加拿大",
+      "onboard_time": 1669572559,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 280525,
@@ -403,6 +411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 195081,
+      "num": 195081,
+      "word": "加拿大小组出局",
+      "onboard_time": 1669573697,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 192432,
       "num": 192432,
       "word": "尹岐被贬",
@@ -425,14 +441,6 @@
       "onboard_time": 1669559504,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 181434,
-      "num": 181434,
-      "word": "克罗地亚4比1加拿大",
-      "onboard_time": 1669572559,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 169750,
@@ -499,6 +507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 132553,
+      "num": 132553,
+      "word": "不愧是莫德里奇",
+      "onboard_time": 1669574417,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 129895,
       "num": 129895,
       "word": "余宇涵晒自拍说阿根廷赢了",
@@ -531,11 +547,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 100287,
-      "num": 100287,
-      "word": "加拿大小组出局",
-      "onboard_time": 1669573697,
-      "rank": 33,
+      "raw_hot": 114658,
+      "num": 114658,
+      "word": "世界杯小组出线情况乱成一锅粥了",
+      "onboard_time": 1669569088,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 109670,
+      "num": 109670,
+      "word": "德国有希望了",
+      "onboard_time": 1669590379,
+      "rank": 34,
       "category": "体育"
     },
     {
@@ -547,18 +571,10 @@
       "category": "体育"
     },
     {
-      "raw_hot": 94851,
-      "num": 83929,
-      "word": "不愧是莫德里奇",
-      "onboard_time": 1669574417,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 85860,
-      "num": 85860,
-      "word": "世界杯小组出线情况乱成一锅粥了",
-      "onboard_time": 1669569088,
+      "raw_hot": 79819,
+      "num": 79819,
+      "word": "加拿大进球",
+      "onboard_time": 1669591043,
       "rank": 44,
       "category": "体育"
     },
@@ -571,8 +587,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 66034,
-      "num": 53558,
+      "raw_hot": 72257,
+      "num": 72257,
       "word": "解说说加维是娃娃脸",
       "onboard_time": 1669582994,
       "rank": 31,
