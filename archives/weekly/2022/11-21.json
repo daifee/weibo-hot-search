@@ -1,6 +1,6 @@
 {
   "startTime": 1668961718135,
-  "endTime": 1669526245680,
+  "endTime": 1669527230463,
   "band_list": [
     {
       "raw_hot": 36651023,
@@ -987,6 +987,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1679607,
+      "num": 1034645,
+      "word": "官方回应重庆核酸志愿者是混阳消息不实",
+      "onboard_time": 1669523130,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1663429,
       "num": 1663429,
       "word": "西班牙vs哥斯达黎加",
@@ -1321,14 +1329,6 @@
       "onboard_time": 1669211618,
       "rank": 11,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1403713,
-      "num": 965220,
-      "word": "官方回应重庆核酸志愿者是混阳消息不实",
-      "onboard_time": 1669523130,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1380471,
@@ -1939,6 +1939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1040997,
+      "num": 1040997,
+      "word": "曝李铁银行存款过亿",
+      "onboard_time": 1669526010,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1036605,
       "num": 1036605,
       "word": "Faker或将加入LPL",
@@ -1979,6 +1987,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1012904,
+      "num": 1012904,
+      "word": "毛利小五郎麻药免疫",
+      "onboard_time": 1669522775,
+      "rank": 40,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 1009407,
       "num": 1009407,
       "word": "卡塔尔小王子又去现场了",
@@ -2017,14 +2033,6 @@
       "onboard_time": 1669475754,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 988574,
-      "num": 988574,
-      "word": "毛利小五郎麻药免疫",
-      "onboard_time": 1669522775,
-      "rank": 40,
-      "category": "动漫"
     },
     {
       "raw_hot": 986710,
@@ -3235,6 +3243,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 709093,
+      "num": 709093,
+      "word": "西班牙vs德国",
+      "onboard_time": 1669523673,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 708469,
       "num": 708469,
       "word": "海口海关查获5条巨人蜈蚣",
@@ -3472,6 +3488,14 @@
       "word": "刘语熙预测韩国乌拉圭打平",
       "onboard_time": 1669300121,
       "rank": 11,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 665588,
+      "num": 611810,
+      "word": "梅西发博说做到了",
+      "onboard_time": 1669526373,
+      "rank": 10,
       "category": "体育"
     },
     {
@@ -4163,14 +4187,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 582823,
-      "num": 582823,
-      "word": "西班牙vs德国",
-      "onboard_time": 1669523673,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 582308,
       "num": 582308,
       "word": "朱正廷星河长明古装造型",
@@ -4776,6 +4792,14 @@
       "word": "苏亚雷斯",
       "onboard_time": 1669299040,
       "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 530996,
+      "num": 434028,
+      "word": "中国球迷含泪大喊上帝保佑梅西",
+      "onboard_time": 1669523314,
+      "rank": 32,
       "category": "体育"
     },
     {
@@ -6563,14 +6587,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 415884,
-      "num": 415884,
-      "word": "中国球迷含泪大喊上帝保佑梅西",
-      "onboard_time": 1669523314,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 415161,
       "num": 405247,
       "word": "孟美岐眼中粉丝和艺人的良性距离",
@@ -7217,6 +7233,14 @@
       "onboard_time": 1669201831,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 387982,
+      "num": 387982,
+      "word": "C罗安慰失误门将太暖了",
+      "onboard_time": 1669525535,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 387349,
@@ -7969,6 +7993,14 @@
       "onboard_time": 1669090537,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 352571,
+      "num": 352571,
+      "word": "酷云认证宋威龙近五年95生收视TOP1",
+      "onboard_time": 1669527156,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 351851,
@@ -9244,7 +9276,7 @@
     },
     {
       "raw_hot": 304849,
-      "num": 130521,
+      "num": 177322,
       "word": "周深清唱一个师傅仨徒弟好听",
       "onboard_time": 1669526196,
       "rank": 47,
@@ -12003,6 +12035,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 217928,
+      "num": 217928,
+      "word": "光与夜之恋",
+      "onboard_time": 1669183354,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 217892,
       "num": 217892,
       "word": "绵阳疫情防控",
@@ -13067,14 +13107,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 196849,
-      "num": 196849,
-      "word": "光与夜之恋",
-      "onboard_time": 1669183354,
-      "rank": 28,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 196828,
       "num": 196828,
       "word": "鹈鹕45分大胜勇士",
@@ -13267,14 +13299,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 194055,
-      "num": 194055,
-      "word": "C罗安慰失误门将太暖了",
-      "onboard_time": 1669525535,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 194030,
       "num": 194030,
       "word": "ksg",
@@ -13425,6 +13449,14 @@
       "onboard_time": 1669112493,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 191551,
+      "num": 191551,
+      "word": "孤寡老人把家里收拾的一尘不染",
+      "onboard_time": 1669524153,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 191409,
@@ -13705,14 +13737,6 @@
       "onboard_time": 1669011933,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 186199,
-      "num": 186199,
-      "word": "孤寡老人把家里收拾的一尘不染",
-      "onboard_time": 1669524153,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 185973,
@@ -14313,14 +14337,6 @@
       "onboard_time": 1669368128,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 175023,
-      "num": 175023,
-      "word": "曝李铁银行存款过亿",
-      "onboard_time": 1669526010,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 174761,
@@ -15137,6 +15153,14 @@
       "onboard_time": 1669213661,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 157825,
+      "num": 157825,
+      "word": "英国考虑提高赴英留学门槛",
+      "onboard_time": 1669526615,
+      "rank": 42,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 157821,
@@ -16307,6 +16331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 133692,
+      "num": 133692,
+      "word": "吉林女子雪地吹泡泡立马结冰",
+      "onboard_time": 1669527093,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 133403,
       "num": 133403,
       "word": "阳华不让陶俊辉碰秦施",
@@ -16641,6 +16673,14 @@
       "onboard_time": 1669505241,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 127930,
+      "num": 127930,
+      "word": "什么情况才可以实施区域封闭管理",
+      "onboard_time": 1669526432,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 127810,
