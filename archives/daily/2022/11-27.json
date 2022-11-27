@@ -1,6 +1,6 @@
 {
   "startTime": 1669479991529,
-  "endTime": 1669545372505,
+  "endTime": 1669547755768,
   "band_list": [
     {
       "raw_hot": 3822944,
@@ -65,6 +65,14 @@
       "onboard_time": 1669481732,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2288211,
+      "num": 1653627,
+      "word": "婆婆不让去月子中心女子二胎不给探望",
+      "onboard_time": 1669544011,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2115348,
@@ -155,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1666525,
+      "num": 1666525,
+      "word": "唐梓预测",
+      "onboard_time": 1669544372,
+      "rank": 47,
+      "category": "体育,网红"
+    },
+    {
       "raw_hot": 1613206,
       "num": 1613206,
       "word": "北京理工大学一名学生核酸呈阳性",
@@ -192,6 +208,14 @@
       "word": "郑州回应郑好办查出奥特曼核酸报告",
       "onboard_time": 1669464166,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1290335,
+      "num": 1290335,
+      "word": "北京严禁采取硬质隔离硬质围挡等措施",
+      "onboard_time": 1669546300,
+      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -275,6 +299,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 949196,
+      "num": 949196,
+      "word": "北京新增本土感染者1781例",
+      "onboard_time": 1669544431,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 938305,
       "num": 938305,
       "word": "墨西哥球迷大喊梅西回家",
@@ -307,11 +339,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 864619,
-      "num": 461576,
-      "word": "婆婆不让去月子中心女子二胎不给探望",
-      "onboard_time": 1669544011,
-      "rank": 35,
+      "raw_hot": 852281,
+      "num": 852281,
+      "word": "女子定错位外卖员怒斥倒八辈子霉",
+      "onboard_time": 1669542995,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -379,14 +411,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 747700,
-      "num": 747700,
-      "word": "唐梓预测",
-      "onboard_time": 1669544372,
-      "rank": 47,
-      "category": "体育,网红"
-    },
-    {
       "raw_hot": 732437,
       "num": 608927,
       "word": "宋亚轩雪花错位图",
@@ -409,14 +433,6 @@
       "onboard_time": 1669541136,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 716420,
-      "num": 716420,
-      "word": "女子定错位外卖员怒斥倒八辈子霉",
-      "onboard_time": 1669542995,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 709093,
@@ -449,14 +465,6 @@
       "onboard_time": 1669464403,
       "rank": 8,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 637268,
-      "num": 455024,
-      "word": "北京新增本土感染者1781例",
-      "onboard_time": 1669544431,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 633177,
@@ -552,6 +560,22 @@
       "word": "女子按摩减肥致大出血进ICU切肾",
       "onboard_time": 1669537537,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 548000,
+      "num": 548000,
+      "word": "围炉煮茶",
+      "onboard_time": 1669544792,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 544751,
+      "num": 544751,
+      "word": "如何保证核酸检测安全",
+      "onboard_time": 1669543951,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -651,6 +675,14 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 507395,
+      "num": 507395,
+      "word": "日本半场0比0哥斯达黎加",
+      "onboard_time": 1669546412,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 506322,
       "num": 506322,
       "word": "李晨说何超莲带显微镜上节目",
@@ -665,6 +697,14 @@
       "onboard_time": 1669520736,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 503992,
+      "num": 503992,
+      "word": "35岁女子从上海回老家过田园生活",
+      "onboard_time": 1669544551,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 502432,
@@ -721,6 +761,14 @@
       "onboard_time": 1669477244,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 479962,
+      "num": 479962,
+      "word": "尹峥淋雨下跪",
+      "onboard_time": 1669546412,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 476446,
@@ -795,6 +843,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 442602,
+      "num": 442602,
+      "word": "日本球迷",
+      "onboard_time": 1669545812,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 437720,
       "num": 437720,
       "word": "当事妈妈回应婆婆给1岁孙女吃炒面",
@@ -859,6 +915,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 399209,
+      "num": 399209,
+      "word": "医生下班后抽空给自己做了个手术",
+      "onboard_time": 1669543892,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 398514,
       "num": 398514,
       "word": "女子面试老板助理入职变KTV服务员",
@@ -889,6 +953,14 @@
       "onboard_time": 1669521515,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 390356,
+      "num": 390356,
+      "word": "赵丽颖许半夏六宫格剧照",
+      "onboard_time": 1669547016,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 389919,
@@ -1091,6 +1163,14 @@
       "category": "体育,幽默"
     },
     {
+      "raw_hot": 323494,
+      "num": 323494,
+      "word": "女子回应卖饼12年给弟弟买房买车",
+      "onboard_time": 1669543114,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 317469,
       "num": 317469,
       "word": "姆巴佩梅开二度",
@@ -1171,20 +1251,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 304813,
-      "num": 304813,
-      "word": "女子回应卖饼12年给弟弟买房买车",
-      "onboard_time": 1669543114,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 299952,
       "num": 299952,
       "word": "猫咪的本质是爱看热闹",
       "onboard_time": 1669510712,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 299190,
+      "num": 299190,
+      "word": "女子炸糖糕等全炸飞才敢关火",
+      "onboard_time": 1669546234,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 298300,
@@ -1275,6 +1355,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 278517,
+      "num": 278517,
+      "word": "SEVENTEEN演唱会跳搓澡舞",
+      "onboard_time": 1669547254,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 276863,
+      "num": 276863,
+      "word": "任艺飞以张艺兴为榜样",
+      "onboard_time": 1669547136,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 276470,
       "num": 276470,
       "word": "彭小苒说横店圆了她的滑翔翼之梦",
@@ -1331,14 +1427,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 266784,
-      "num": 266784,
-      "word": "医生下班后抽空给自己做了个手术",
-      "onboard_time": 1669543892,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 263072,
       "num": 263072,
       "word": "法国终结卫冕冠军出局魔咒",
@@ -1379,12 +1467,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 252561,
-      "num": 252561,
-      "word": "如何保证核酸检测安全",
-      "onboard_time": 1669543951,
-      "rank": 46,
-      "category": "社会新闻"
+      "raw_hot": 251672,
+      "num": 251672,
+      "word": "gemini 毒奶",
+      "onboard_time": 1669547136,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 250330,
@@ -1667,6 +1755,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 210079,
+      "num": 210079,
+      "word": "时代少年团音乐会造型怼脸照",
+      "onboard_time": 1669547615,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 209871,
       "num": 209871,
       "word": "北京新增本土感染者2454例",
@@ -1675,12 +1771,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 208866,
-      "num": 208866,
-      "word": "35岁女子从上海回老家过田园生活",
-      "onboard_time": 1669544551,
-      "rank": 33,
+      "raw_hot": 208912,
+      "num": 208912,
+      "word": "流浪猫被女生投喂叼小鸟来报恩",
+      "onboard_time": 1669544674,
+      "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 207014,
+      "num": 207014,
+      "word": "香菜原来也叫芫荽",
+      "onboard_time": 1669546836,
+      "rank": 38,
+      "category": "美食"
     },
     {
       "raw_hot": 205332,
@@ -1689,6 +1793,14 @@
       "onboard_time": 1669479519,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 202837,
+      "num": 202837,
+      "word": "李薇说我养你没问题",
+      "onboard_time": 1669545936,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 202196,
@@ -1779,12 +1891,36 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 187695,
+      "num": 187695,
+      "word": "尹峥遭嫡长主陷害",
+      "onboard_time": 1669547671,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 187318,
       "num": 187318,
       "word": "航海王红发歌姬票根好炫",
       "onboard_time": 1669532791,
       "rank": 36,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 186409,
+      "num": 185629,
+      "word": "有个忍不住送礼物男朋友的体验",
+      "onboard_time": 1669546538,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 186239,
+      "num": 186239,
+      "word": "无限超越班",
+      "onboard_time": 1669546114,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 184526,
@@ -1817,6 +1953,14 @@
       "onboard_time": 1669515457,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 176877,
+      "num": 176877,
+      "word": "KPL",
+      "onboard_time": 1669545512,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 176428,
@@ -1921,14 +2065,6 @@
       "onboard_time": 1669480418,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 165455,
-      "num": 165455,
-      "word": "围炉煮茶",
-      "onboard_time": 1669544792,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 165200,
@@ -2041,6 +2177,14 @@
       "onboard_time": 1669486042,
       "rank": 27,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 144035,
+      "num": 164590,
+      "word": "男子买鸡蛋回家孵出几十只小鸡",
+      "onboard_time": 1669547496,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 142388,
@@ -2161,14 +2305,6 @@
       "onboard_time": 1669544792,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 129317,
-      "num": 129317,
-      "word": "流浪猫被女生投喂叼小鸟来报恩",
-      "onboard_time": 1669544674,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 128144,
@@ -2404,7 +2540,7 @@
     },
     {
       "raw_hot": 75531,
-      "num": 1395122,
+      "num": 1655767,
       "word": "推动经济全球化不断向前",
       "onboard_time": 1669530871,
       "rank": 2,
