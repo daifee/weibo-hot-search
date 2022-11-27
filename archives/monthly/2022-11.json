@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1669583800062,
+  "endTime": 1669584800444,
   "band_list": [
     {
       "raw_hot": 36651023,
@@ -19657,6 +19657,14 @@
       "onboard_time": 1667864123,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 424275,
+      "num": 424275,
+      "word": "西班牙1比1德国",
+      "onboard_time": 1669583112,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 424115,
@@ -40180,7 +40188,7 @@
     },
     {
       "raw_hot": 195219,
-      "num": 39338,
+      "num": 59191,
       "word": "菲尔克鲁格破门",
       "onboard_time": 1669582874,
       "rank": 30,
@@ -42873,14 +42881,6 @@
       "onboard_time": 1668964461,
       "rank": 32,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 179334,
-      "num": 179334,
-      "word": "西班牙1比1德国",
-      "onboard_time": 1669583112,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 179238,
@@ -60595,6 +60595,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 66034,
+      "num": 40617,
+      "word": "解说说加维是娃娃脸",
+      "onboard_time": 1669582994,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 65999,
       "num": 978922,
       "word": "深入学习宣传贯彻二十大精神",
@@ -61616,14 +61624,6 @@
       "word": "墨西哥半场0比0波兰",
       "onboard_time": 1669141037,
       "rank": 46,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 45018,
-      "num": 39324,
-      "word": "解说说加维是娃娃脸",
-      "onboard_time": 1669582994,
-      "rank": 31,
       "category": "体育"
     },
     {
