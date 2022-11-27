@@ -1,6 +1,6 @@
 {
   "startTime": 1669479991529,
-  "endTime": 1669540683808,
+  "endTime": 1669541623833,
   "band_list": [
     {
       "raw_hot": 3822944,
@@ -435,6 +435,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 587701,
+      "num": 587701,
+      "word": "RNG",
+      "onboard_time": 1669538915,
+      "rank": 6,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 585896,
       "num": 416843,
       "word": "苏醒曾因梅西拉黑黄健翔",
@@ -459,12 +467,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 560725,
-      "num": 560725,
-      "word": "RNG",
-      "onboard_time": 1669538915,
-      "rank": 6,
-      "category": "游戏"
+      "raw_hot": 557636,
+      "num": 557636,
+      "word": "男子逗娃顺走孩子9500元金手镯",
+      "onboard_time": 1669535312,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 556584,
@@ -475,20 +483,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 553160,
+      "num": 553160,
+      "word": "女子按摩减肥致大出血进ICU切肾",
+      "onboard_time": 1669537537,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 542508,
       "num": 542508,
       "word": "阿根廷升至小组第二",
       "onboard_time": 1669507827,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 541761,
-      "num": 541761,
-      "word": "男子逗娃顺走孩子9500元金手镯",
-      "onboard_time": 1669535312,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 539902,
@@ -529,6 +537,14 @@
       "onboard_time": 1669523314,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 528766,
+      "num": 528766,
+      "word": "EXO的Obsession发行3周年",
+      "onboard_time": 1669539813,
+      "rank": 13,
+      "category": "音乐"
     },
     {
       "raw_hot": 524411,
@@ -643,20 +659,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 474546,
-      "num": 474546,
-      "word": "女子按摩减肥致大出血进ICU切肾",
-      "onboard_time": 1669537537,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 469381,
       "num": 469381,
       "word": "美国禁止华为中兴等5家中企在美销售设备",
       "onboard_time": 1669493714,
       "rank": 49,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 463692,
+      "num": 463692,
+      "word": "梅西赢球后刘畊宏连睡觉都在笑",
+      "onboard_time": 1669540710,
+      "rank": 11,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 461296,
@@ -723,14 +739,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 415891,
-      "num": 415891,
-      "word": "EXO的Obsession发行3周年",
-      "onboard_time": 1669539813,
-      "rank": 13,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 415319,
       "num": 415319,
       "word": "吴磊逃过回忆杀了吗",
@@ -761,6 +769,14 @@
       "onboard_time": 1669511554,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 395824,
+      "num": 395824,
+      "word": "Hero 紫幻",
+      "onboard_time": 1669538256,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 395308,
@@ -891,14 +907,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 350679,
-      "num": 350679,
-      "word": "Hero 紫幻",
-      "onboard_time": 1669538256,
-      "rank": 47,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 350044,
       "num": 350044,
       "word": "卿卿日常原著里的李薇",
@@ -913,6 +921,14 @@
       "onboard_time": 1669535735,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 338644,
+      "num": 338644,
+      "word": "父亲当面吃完女儿偷倒剩饭",
+      "onboard_time": 1669540893,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 338042,
@@ -977,6 +993,22 @@
       "onboard_time": 1669479103,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 313680,
+      "num": 313680,
+      "word": "沈月无限超越班上班路透",
+      "onboard_time": 1669541191,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 311724,
+      "num": 311724,
+      "word": "今年最想安利的国产剧",
+      "onboard_time": 1669536453,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 310049,
@@ -1073,14 +1105,6 @@
       "onboard_time": 1669531050,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 286623,
-      "num": 286623,
-      "word": "今年最想安利的国产剧",
-      "onboard_time": 1669536453,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 284646,
@@ -1283,6 +1307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 235950,
+      "num": 235950,
+      "word": "巴西舞王内马尔",
+      "onboard_time": 1669538197,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 232868,
       "num": 232868,
       "word": "胡辣汤原来有25种以上调料",
@@ -1347,6 +1379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 224469,
+      "num": 164771,
+      "word": "另一半的情绪价值有多重要",
+      "onboard_time": 1669536275,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 223730,
       "num": 223730,
       "word": "梅西追平马拉多纳世界杯进球数",
@@ -1395,14 +1435,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 215893,
-      "num": 150046,
-      "word": "另一半的情绪价值有多重要",
-      "onboard_time": 1669536275,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 215857,
       "num": 215857,
       "word": "游泳教练水中抛扔幼儿险撞台阶",
@@ -1444,7 +1476,7 @@
     },
     {
       "raw_hot": 212873,
-      "num": 148652,
+      "num": 163878,
       "word": "点燃我温暖你预告好多名场面",
       "onboard_time": 1669539994,
       "rank": 36,
@@ -1473,14 +1505,6 @@
       "onboard_time": 1669456001,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 209571,
-      "num": 209571,
-      "word": "巴西舞王内马尔",
-      "onboard_time": 1669538197,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 205332,
@@ -1569,6 +1593,14 @@
       "onboard_time": 1669479937,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 188829,
+      "num": 162498,
+      "word": "曝阿根廷球迷强占中国球迷座位",
+      "onboard_time": 1669541012,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 187318,
@@ -1665,6 +1697,14 @@
       "onboard_time": 1669529611,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 170901,
+      "num": 170901,
+      "word": "北京疫情发布会",
+      "onboard_time": 1669541074,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 170501,
@@ -1771,6 +1811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 159164,
+      "num": 159164,
+      "word": "日本vs哥斯达黎加",
+      "onboard_time": 1669541136,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 157393,
       "num": 157393,
       "word": "女子高速路求助辅警暖心公主抱",
@@ -1817,6 +1865,14 @@
       "onboard_time": 1669480355,
       "rank": 44,
       "category": "幽默,体育"
+    },
+    {
+      "raw_hot": 145913,
+      "num": 145913,
+      "word": "梅西的热身动作能有多可爱",
+      "onboard_time": 1669539875,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 145442,
@@ -1939,6 +1995,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 127627,
+      "num": 127627,
+      "word": "世界杯限定男友",
+      "onboard_time": 1669541252,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 127553,
       "num": 127553,
       "word": "当阿根廷解说员看见梅西进球",
@@ -1992,14 +2056,6 @@
       "word": "穆勒将领衔德国队背水一战",
       "onboard_time": 1669532910,
       "rank": 47,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 125171,
-      "num": 125171,
-      "word": "梅西的热身动作能有多可爱",
-      "onboard_time": 1669539875,
-      "rank": 44,
       "category": "体育"
     },
     {
@@ -2088,6 +2144,14 @@
       "word": "阿根廷半场0比0墨西哥",
       "onboard_time": 1669494074,
       "rank": 17,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 95107,
+      "num": 119562,
+      "word": "日本岳云鹏现场比心",
+      "onboard_time": 1669541612,
+      "rank": 48,
       "category": "体育"
     },
     {

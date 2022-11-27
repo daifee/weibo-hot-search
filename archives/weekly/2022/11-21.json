@@ -1,6 +1,6 @@
 {
   "startTime": 1668961718135,
-  "endTime": 1669540683808,
+  "endTime": 1669541623833,
   "band_list": [
     {
       "raw_hot": 36651023,
@@ -4219,6 +4219,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 587701,
+      "num": 587701,
+      "word": "RNG",
+      "onboard_time": 1669538915,
+      "rank": 6,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 587421,
       "num": 587421,
       "word": "小学女生卫生间多了月经暖心盒",
@@ -4507,14 +4515,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 560725,
-      "num": 560725,
-      "word": "RNG",
-      "onboard_time": 1669538915,
-      "rank": 6,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 560290,
       "num": 560290,
       "word": "妹妹误将火碱当冰糖冲给姐姐喝",
@@ -4544,6 +4544,14 @@
       "word": "24日起北京进入公共场所查验48小时核酸证明",
       "onboard_time": 1669112189,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 557636,
+      "num": 557636,
+      "word": "男子逗娃顺走孩子9500元金手镯",
+      "onboard_time": 1669535312,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -4616,6 +4624,14 @@
       "word": "60岁大爷吃生蒜杀菌延误病情致癌",
       "onboard_time": 1669119838,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 553160,
+      "num": 553160,
+      "word": "女子按摩减肥致大出血进ICU切肾",
+      "onboard_time": 1669537537,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -4753,14 +4769,6 @@
       "onboard_time": 1669169912,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 541761,
-      "num": 541761,
-      "word": "男子逗娃顺走孩子9500元金手镯",
-      "onboard_time": 1669535312,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 541227,
@@ -4929,6 +4937,14 @@
       "onboard_time": 1669343673,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 528766,
+      "num": 528766,
+      "word": "EXO的Obsession发行3周年",
+      "onboard_time": 1669539813,
+      "rank": 13,
+      "category": "音乐"
     },
     {
       "raw_hot": 528564,
@@ -5707,14 +5723,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 474546,
-      "num": 474546,
-      "word": "女子按摩减肥致大出血进ICU切肾",
-      "onboard_time": 1669537537,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 474304,
       "num": 474304,
       "word": "英格兰美国赛果决定了足球称呼",
@@ -5865,6 +5873,14 @@
       "onboard_time": 1669216219,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 463692,
+      "num": 463692,
+      "word": "梅西赢球后刘畊宏连睡觉都在笑",
+      "onboard_time": 1669540710,
+      "rank": 11,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 462894,
@@ -6739,14 +6755,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 415891,
-      "num": 415891,
-      "word": "EXO的Obsession发行3周年",
-      "onboard_time": 1669539813,
-      "rank": 13,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 415319,
       "num": 415319,
       "word": "吴磊逃过回忆杀了吗",
@@ -7249,6 +7257,14 @@
       "onboard_time": 1668954934,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 395824,
+      "num": 395824,
+      "word": "Hero 紫幻",
+      "onboard_time": 1669538256,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 395470,
@@ -8251,14 +8267,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 350679,
-      "num": 350679,
-      "word": "Hero 紫幻",
-      "onboard_time": 1669538256,
-      "rank": 47,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 350603,
       "num": 350603,
       "word": "你离王嘉尔可以有多近",
@@ -8593,6 +8601,14 @@
       "onboard_time": 1669273411,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 338644,
+      "num": 338644,
+      "word": "父亲当面吃完女儿偷倒剩饭",
+      "onboard_time": 1669540893,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 338627,
@@ -9267,6 +9283,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 313680,
+      "num": 313680,
+      "word": "沈月无限超越班上班路透",
+      "onboard_time": 1669541191,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 313616,
       "num": 313616,
       "word": "男子偷转走交往6年女友8.5万余元",
@@ -9329,6 +9353,14 @@
       "onboard_time": 1669220969,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 311724,
+      "num": 311724,
+      "word": "今年最想安利的国产剧",
+      "onboard_time": 1669536453,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 311721,
@@ -9993,14 +10025,6 @@
       "onboard_time": 1669385942,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 286623,
-      "num": 286623,
-      "word": "今年最想安利的国产剧",
-      "onboard_time": 1669536453,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 286384,
@@ -11651,6 +11675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 235950,
+      "num": 235950,
+      "word": "巴西舞王内马尔",
+      "onboard_time": 1669538197,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 235648,
       "num": 235648,
       "word": "重庆30元蔬菜包里有什么",
@@ -12073,6 +12105,14 @@
       "onboard_time": 1669472874,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 224469,
+      "num": 164771,
+      "word": "另一半的情绪价值有多重要",
+      "onboard_time": 1669536275,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 224413,
@@ -12555,14 +12595,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 215893,
-      "num": 150046,
-      "word": "另一半的情绪价值有多重要",
-      "onboard_time": 1669536275,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 215857,
       "num": 215857,
       "word": "游泳教练水中抛扔幼儿险撞台阶",
@@ -12732,7 +12764,7 @@
     },
     {
       "raw_hot": 212873,
-      "num": 148652,
+      "num": 163878,
       "word": "点燃我温暖你预告好多名场面",
       "onboard_time": 1669539994,
       "rank": 36,
@@ -12849,14 +12881,6 @@
       "onboard_time": 1669263995,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 209571,
-      "num": 209571,
-      "word": "巴西舞王内马尔",
-      "onboard_time": 1669538197,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 209451,
@@ -14049,6 +14073,14 @@
       "onboard_time": 1669257151,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 188829,
+      "num": 162498,
+      "word": "曝阿根廷球迷强占中国球迷座位",
+      "onboard_time": 1669541012,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 188704,
@@ -15619,6 +15651,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 159164,
+      "num": 159164,
+      "word": "日本vs哥斯达黎加",
+      "onboard_time": 1669541136,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 158691,
       "num": 158691,
       "word": "陈飞宇碰瓷式撒娇",
@@ -16241,6 +16281,14 @@
       "onboard_time": 1669271671,
       "rank": 38,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 145913,
+      "num": 145913,
+      "word": "梅西的热身动作能有多可爱",
+      "onboard_time": 1669539875,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 145865,
@@ -17219,6 +17267,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 127627,
+      "num": 127627,
+      "word": "世界杯限定男友",
+      "onboard_time": 1669541252,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 127581,
       "num": 127581,
       "word": "4岁男孩捡5角钱交给警察叔叔",
@@ -17368,14 +17424,6 @@
       "word": "詹俊期待梅西爆发",
       "onboard_time": 1669436503,
       "rank": 47,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 125171,
-      "num": 125171,
-      "word": "梅西的热身动作能有多可爱",
-      "onboard_time": 1669539875,
-      "rank": 44,
       "category": "体育"
     },
     {
@@ -18489,6 +18537,14 @@
       "onboard_time": 1669135829,
       "rank": 49,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 95107,
+      "num": 119562,
+      "word": "日本岳云鹏现场比心",
+      "onboard_time": 1669541612,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 94813,
