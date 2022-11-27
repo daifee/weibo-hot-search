@@ -1,6 +1,6 @@
 {
   "startTime": 1669479991529,
-  "endTime": 1669558610513,
+  "endTime": 1669559599311,
   "band_list": [
     {
       "raw_hot": 3822944,
@@ -99,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1956836,
+      "num": 1956836,
+      "word": "死亡之组乱了",
+      "onboard_time": 1669554996,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1956171,
       "num": 1956171,
       "word": "曝阿根廷球迷强占中国球迷座位",
@@ -163,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1746536,
+      "num": 1746536,
+      "word": "武汉呼吁市民同心合力群防群控",
+      "onboard_time": 1669557640,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1739179,
       "num": 1480477,
       "word": "李峋喘息声",
@@ -195,14 +211,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1665675,
-      "num": 1665675,
-      "word": "死亡之组乱了",
-      "onboard_time": 1669554996,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1648663,
       "num": 854011,
       "word": "父母带2岁孩子去方舱邻居纷纷挽留",
@@ -211,11 +219,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1634007,
+      "num": 1634007,
+      "word": "给大白实名也是为大白正名",
+      "onboard_time": 1669554457,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1613206,
       "num": 1613206,
       "word": "北京理工大学一名学生核酸呈阳性",
       "onboard_time": 1669473888,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1595341,
+      "num": 1595341,
+      "word": "武汉疫情防控",
+      "onboard_time": 1669558119,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -240,14 +264,6 @@
       "word": "蜜雪冰城被曝喝出虫子商家态度引争议",
       "onboard_time": 1669512395,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1502245,
-      "num": 1502245,
-      "word": "给大白实名也是为大白正名",
-      "onboard_time": 1669554457,
-      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -435,19 +451,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 847150,
+      "num": 847150,
+      "word": "严禁随意封控等各类层层加码行为",
+      "onboard_time": 1669556200,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 844303,
       "num": 844303,
       "word": "重庆南岸区一街道办公室发生爆炸系谣言",
       "onboard_time": 1669535312,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 836708,
-      "num": 836708,
-      "word": "武汉呼吁市民同心合力群防群控",
-      "onboard_time": 1669557640,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -504,14 +520,6 @@
       "word": "近百个结婚红包7年后失而复得",
       "onboard_time": 1669517374,
       "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 751164,
-      "num": 751164,
-      "word": "严禁随意封控等各类层层加码行为",
-      "onboard_time": 1669556200,
-      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -587,8 +595,8 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 645382,
-      "num": 645382,
+      "raw_hot": 652214,
+      "num": 652214,
       "word": "邓紫棋在刘畊宏直播间跳操",
       "onboard_time": 1669554036,
       "rank": 15,
@@ -633,6 +641,14 @@
       "onboard_time": 1669478679,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 594785,
+      "num": 594785,
+      "word": "200斤女子减重90斤找到男朋友",
+      "onboard_time": 1669557640,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 594617,
@@ -755,6 +771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 540299,
+      "num": 540299,
+      "word": "西安900路公交女司机因高颜值走红",
+      "onboard_time": 1669557580,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 539902,
       "num": 339411,
       "word": "梅西一定要赢啊",
@@ -785,6 +809,14 @@
       "onboard_time": 1669482925,
       "rank": 45,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 533992,
+      "num": 533992,
+      "word": "朱韵穿了李峋的衬衫",
+      "onboard_time": 1669558119,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 530996,
@@ -865,6 +897,14 @@
       "onboard_time": 1669537835,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 506188,
+      "num": 506188,
+      "word": "吃个炒饭给我整得热血澎湃",
+      "onboard_time": 1669557341,
+      "rank": 28,
+      "category": "幽默,美食"
     },
     {
       "raw_hot": 506046,
@@ -979,6 +1019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 471540,
+      "num": 471540,
+      "word": "张雪迎去年今日库存照",
+      "onboard_time": 1669558964,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 469381,
       "num": 469381,
       "word": "美国禁止华为中兴等5家中企在美销售设备",
@@ -1003,12 +1051,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 457496,
-      "num": 457496,
-      "word": "武汉疫情防控",
-      "onboard_time": 1669558119,
-      "rank": 19,
-      "category": "社会新闻"
+      "raw_hot": 460457,
+      "num": 460457,
+      "word": "比利时门将",
+      "onboard_time": 1669557765,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 453253,
@@ -1048,14 +1096,6 @@
       "word": "徐璐说初来社死请多关照",
       "onboard_time": 1669544252,
       "rank": 11,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 441251,
-      "num": 315352,
-      "word": "朱韵穿了李峋的衬衫",
-      "onboard_time": 1669558119,
-      "rank": 30,
       "category": "影视"
     },
     {
@@ -1203,14 +1243,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 387585,
-      "num": 387585,
-      "word": "200斤女子减重90斤找到男朋友",
-      "onboard_time": 1669557640,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 384209,
       "num": 384209,
       "word": "IVE今天赢麻了",
@@ -1273,14 +1305,6 @@
       "onboard_time": 1669537174,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 367566,
-      "num": 314694,
-      "word": "西安900路公交女司机因高颜值走红",
-      "onboard_time": 1669557580,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 367297,
@@ -1387,20 +1411,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 346109,
+      "num": 346109,
+      "word": "元英为李薇改了规矩",
+      "onboard_time": 1669558001,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 345962,
       "num": 345962,
       "word": "莫德里奇首次回应难民照片",
       "onboard_time": 1669535735,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 344515,
-      "num": 344515,
-      "word": "吃个炒饭给我整得热血澎湃",
-      "onboard_time": 1669557341,
-      "rank": 28,
-      "category": "幽默,美食"
     },
     {
       "raw_hot": 338042,
@@ -1425,6 +1449,14 @@
       "onboard_time": 1669528712,
       "rank": 18,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 327244,
+      "num": 327244,
+      "word": "杨坤手拿马嘉祺小菜虫",
+      "onboard_time": 1669559081,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 327114,
@@ -1512,14 +1544,6 @@
       "word": "费尔南德斯世界波",
       "onboard_time": 1669496657,
       "rank": 13,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 308770,
-      "num": 308770,
-      "word": "比利时门将",
-      "onboard_time": 1669557765,
-      "rank": 33,
       "category": "体育"
     },
     {
@@ -1633,14 +1657,6 @@
       "onboard_time": 1669514376,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 291879,
-      "num": 291879,
-      "word": "元英为李薇改了规矩",
-      "onboard_time": 1669558001,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 290872,
@@ -1915,6 +1931,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 247628,
+      "num": 247628,
+      "word": "郑云龙暖心设计两代陆游隔空对望",
+      "onboard_time": 1669559202,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 245437,
       "num": 245437,
       "word": "女子16万买2车库精装修后入住",
@@ -2035,6 +2059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 230047,
+      "num": 230047,
+      "word": "我们的歌",
+      "onboard_time": 1669558782,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 229232,
       "num": 229232,
       "word": "泽林斯基破门",
@@ -2081,6 +2113,14 @@
       "onboard_time": 1669536275,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 224228,
+      "num": 224228,
+      "word": "李峋四次单膝下跪都是为了朱韵",
+      "onboard_time": 1669559504,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 223730,
@@ -2403,6 +2443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 188769,
+      "num": 188769,
+      "word": "一诺的公孙离",
+      "onboard_time": 1669559504,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 187318,
       "num": 187318,
       "word": "航海王红发歌姬票根好炫",
@@ -2433,6 +2481,14 @@
       "onboard_time": 1669534352,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 182926,
+      "num": 182926,
+      "word": "抖音回应世界杯直播时出现杂音",
+      "onboard_time": 1669559081,
+      "rank": 48,
+      "category": "体育,科技"
     },
     {
       "raw_hot": 182806,
@@ -2553,6 +2609,14 @@
       "onboard_time": 1669523914,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 175360,
+      "num": 175360,
+      "word": "卢卡库",
+      "onboard_time": 1669559322,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 173897,
@@ -3124,7 +3188,7 @@
     },
     {
       "raw_hot": 75531,
-      "num": 1786220,
+      "num": 1828599,
       "word": "推动经济全球化不断向前",
       "onboard_time": 1669530871,
       "rank": 2,
