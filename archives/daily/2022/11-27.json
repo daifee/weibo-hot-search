@@ -1,6 +1,6 @@
 {
   "startTime": 1669479991529,
-  "endTime": 1669523045222,
+  "endTime": 1669524012467,
   "band_list": [
     {
       "raw_hot": 3822944,
@@ -91,6 +91,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1694158,
+      "num": 1694158,
+      "word": "输给沙特后梅西二儿子哭了",
+      "onboard_time": 1669519713,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1613206,
       "num": 1613206,
       "word": "北京理工大学一名学生核酸呈阳性",
@@ -131,14 +139,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1251493,
-      "num": 1251493,
-      "word": "输给沙特后梅西二儿子哭了",
-      "onboard_time": 1669519713,
-      "rank": 12,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1219800,
       "num": 1219800,
       "word": "乌鲁木齐市1124火灾四问",
@@ -163,19 +163,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1134597,
+      "num": 1134597,
+      "word": "乌鲁木齐明起逐步恢复城市公共交通",
+      "onboard_time": 1669519594,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 988661,
       "num": 988661,
       "word": "女租客没回信息男房东擅闯房间",
       "onboard_time": 1669475754,
       "rank": 6,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 973458,
-      "num": 973458,
-      "word": "乌鲁木齐明起逐步恢复城市公共交通",
-      "onboard_time": 1669519594,
-      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -203,20 +203,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 895774,
+      "num": 895774,
+      "word": "女子买1筐芒果遭5斤水泥压秤",
+      "onboard_time": 1669520253,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 869378,
       "num": 869378,
       "word": "沙特是怎么赢的阿根廷",
       "onboard_time": 1669483222,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 848228,
-      "num": 848228,
-      "word": "女子买1筐芒果遭5斤水泥压秤",
-      "onboard_time": 1669520253,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 826225,
@@ -379,6 +379,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 524411,
+      "num": 524411,
+      "word": "威少满脸是血",
+      "onboard_time": 1669520552,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 521465,
       "num": 521465,
       "word": "男子炸葱油灶台火光变成绿色",
@@ -411,27 +419,19 @@
       "category": "美食,幽默"
     },
     {
-      "raw_hot": 502432,
-      "num": 502432,
-      "word": "姆巴佩破门",
-      "onboard_time": 1669484182,
-      "rank": 6,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 499488,
-      "num": 499488,
+      "raw_hot": 506046,
+      "num": 506046,
       "word": "赵丽颖的三个现代角色",
       "onboard_time": 1669520736,
       "rank": 21,
       "category": "影视"
     },
     {
-      "raw_hot": 498073,
-      "num": 498073,
-      "word": "威少满脸是血",
-      "onboard_time": 1669520552,
-      "rank": 40,
+      "raw_hot": 502432,
+      "num": 502432,
+      "word": "姆巴佩破门",
+      "onboard_time": 1669484182,
+      "rank": 6,
       "category": "体育"
     },
     {
@@ -441,6 +441,14 @@
       "onboard_time": 1669478147,
       "rank": 15,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 485805,
+      "num": 485805,
+      "word": "官方回应重庆核酸志愿者是混阳消息不实",
+      "onboard_time": 1669523130,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 484627,
@@ -523,12 +531,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 406951,
+      "num": 406951,
+      "word": "毛利小五郎麻药免疫",
+      "onboard_time": 1669522775,
+      "rank": 40,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 397214,
       "num": 397214,
       "word": "张远终于圆梦唱了动漫歌",
       "onboard_time": 1669511554,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 389919,
+      "num": 389919,
+      "word": "袁娅维首登国际舞台好稳",
+      "onboard_time": 1669521393,
+      "rank": 20,
+      "category": "音乐"
     },
     {
       "raw_hot": 384209,
@@ -545,14 +569,6 @@
       "onboard_time": 1669507284,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 377566,
-      "num": 377566,
-      "word": "袁娅维首登国际舞台好稳",
-      "onboard_time": 1669521393,
-      "rank": 20,
-      "category": "音乐"
     },
     {
       "raw_hot": 373981,
@@ -627,6 +643,14 @@
       "category": "体育,幽默"
     },
     {
+      "raw_hot": 318561,
+      "num": 318561,
+      "word": "爷爷多少有点恋爱脑",
+      "onboard_time": 1669521515,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 317469,
       "num": 317469,
       "word": "姆巴佩梅开二度",
@@ -673,6 +697,14 @@
       "onboard_time": 1669507647,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 293970,
+      "num": 293970,
+      "word": "梅西和恩佐的双向奔赴",
+      "onboard_time": 1669520497,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 293555,
@@ -787,14 +819,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 259493,
-      "num": 259493,
-      "word": "梅西和恩佐的双向奔赴",
-      "onboard_time": 1669520497,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 249432,
       "num": 249432,
       "word": "沙特教练 帅",
@@ -833,14 +857,6 @@
       "onboard_time": 1669466981,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 242669,
-      "num": 242669,
-      "word": "爷爷多少有点恋爱脑",
-      "onboard_time": 1669521515,
-      "rank": 29,
-      "category": "幽默"
     },
     {
       "raw_hot": 241069,
@@ -939,12 +955,44 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 221078,
+      "num": 221078,
+      "word": "西班牙vs德国",
+      "onboard_time": 1669523673,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 215386,
+      "num": 215386,
+      "word": "中国球迷含泪大喊上帝保佑梅西",
+      "onboard_time": 1669523314,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 215313,
+      "num": 217948,
+      "word": "大熊猫的歪头杀太甜了",
+      "onboard_time": 1669522895,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 214283,
       "num": 214283,
       "word": "马嘉祺我期待Say goodbye高音",
       "onboard_time": 1669482688,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 211902,
+      "num": 211902,
+      "word": "詹姆斯39分11篮板",
+      "onboard_time": 1669522115,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 209871,
@@ -1003,14 +1051,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 178641,
-      "num": 178641,
-      "word": "詹姆斯39分11篮板",
-      "onboard_time": 1669522115,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 177773,
       "num": 177773,
       "word": "张艺兴领衔metamoon音乐节",
@@ -1067,14 +1107,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 170756,
-      "num": 170756,
-      "word": "大熊猫的歪头杀太甜了",
-      "onboard_time": 1669522895,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 170234,
       "num": 170234,
       "word": "英格兰威尔士球迷爆发冲突",
@@ -1089,14 +1121,6 @@
       "onboard_time": 1669478147,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 169331,
-      "num": 169331,
-      "word": "毛利小五郎麻药免疫",
-      "onboard_time": 1669522775,
-      "rank": 40,
-      "category": "动漫"
     },
     {
       "raw_hot": 166929,
@@ -1171,6 +1195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 146938,
+      "num": 146938,
+      "word": "乌鲁木齐逐步恢复商超等营业场所",
+      "onboard_time": 1669523914,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 146397,
       "num": 146397,
       "word": "他在拍一种很新的拍照方式",
@@ -1201,6 +1233,14 @@
       "onboard_time": 1669511072,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 137794,
+      "num": 137794,
+      "word": "4少年叠罗汉式骑摩托不慎滑倒",
+      "onboard_time": 1669523793,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 133029,
