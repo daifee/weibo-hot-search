@@ -1,6 +1,6 @@
 {
   "startTime": 1669566398830,
-  "endTime": 1669567524541,
+  "endTime": 1669569417909,
   "band_list": [
     {
       "raw_hot": 11045761,
@@ -211,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 311363,
+      "num": 311363,
+      "word": "比利时到底怎么了",
+      "onboard_time": 1669565804,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 301713,
       "num": 301713,
       "word": "深圳倡导市民下周居家办公",
@@ -251,12 +259,36 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 261113,
+      "num": 261113,
+      "word": "女生醉酒被闺蜜用宝宝背带背回",
+      "onboard_time": 1669565860,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 259517,
+      "num": 259517,
+      "word": "桂林一医生被指急诊室猥亵患者",
+      "onboard_time": 1669567771,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 252075,
       "num": 252075,
       "word": "有一个不爱责怪的伴侣真好",
       "onboard_time": 1669548573,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 242755,
+      "num": 242755,
+      "word": "日本主帅称力争赢下西班牙",
+      "onboard_time": 1669565319,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 234848,
@@ -289,22 +321,6 @@
       "onboard_time": 1669557341,
       "rank": 34,
       "category": "幽默,美食"
-    },
-    {
-      "raw_hot": 223068,
-      "num": 223068,
-      "word": "日本主帅称力争赢下西班牙",
-      "onboard_time": 1669565319,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 219412,
-      "num": 219412,
-      "word": "比利时到底怎么了",
-      "onboard_time": 1669565804,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 203394,
@@ -347,11 +363,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 167053,
-      "num": 167053,
-      "word": "女生醉酒被闺蜜用宝宝背带背回",
-      "onboard_time": 1669565860,
-      "rank": 41,
+      "raw_hot": 165508,
+      "num": 165508,
+      "word": "高校宿舍违规电器查出烤肠机",
+      "onboard_time": 1669565563,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -363,19 +379,19 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 148939,
-      "num": 148939,
-      "word": "高校宿舍违规电器查出烤肠机",
-      "onboard_time": 1669565563,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 146432,
       "num": 146432,
       "word": "戴维斯2分钟破门",
       "onboard_time": 1669566758,
       "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 144820,
+      "num": 144820,
+      "word": "克罗地亚半场2比1加拿大",
+      "onboard_time": 1669569025,
+      "rank": 36,
       "category": "体育"
     },
     {
@@ -431,6 +447,14 @@
       "num": 120074,
       "word": "世界杯积分",
       "onboard_time": 1669564000,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 75858,
+      "num": 75858,
+      "word": "克拉马里奇破门",
+      "onboard_time": 1669569147,
       "rank": 49,
       "category": "体育"
     },
