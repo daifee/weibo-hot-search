@@ -1,6 +1,6 @@
 {
   "startTime": 1669566398830,
-  "endTime": 1669580373907,
+  "endTime": 1669581265916,
   "band_list": [
     {
       "raw_hot": 11045761,
@@ -227,6 +227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 324755,
+      "num": 324755,
+      "word": "西班牙男模队vs德国男模队",
+      "onboard_time": 1669576452,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 320940,
       "num": 320940,
       "word": "MMA回应IVE组合VCR抄袭争议",
@@ -280,14 +288,6 @@
       "word": "西班牙vs德国首发",
       "onboard_time": 1669574596,
       "rank": 15,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 284856,
-      "num": 284856,
-      "word": "西班牙男模队vs德国男模队",
-      "onboard_time": 1669576452,
-      "rank": 48,
       "category": "体育"
     },
     {
@@ -459,6 +459,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 138439,
+      "num": 75844,
+      "word": "西班牙半场0比0德国",
+      "onboard_time": 1669579273,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 136614,
       "num": 136614,
       "word": "摩洛哥终结比利时世界杯小组赛8连胜",
@@ -520,14 +528,6 @@
       "word": "不愧是莫德里奇",
       "onboard_time": 1669574417,
       "rank": 24,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 88420,
-      "num": 75844,
-      "word": "西班牙半场0比0德国",
-      "onboard_time": 1669579273,
-      "rank": 14,
       "category": "体育"
     },
     {

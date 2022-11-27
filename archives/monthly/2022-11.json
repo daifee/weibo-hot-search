@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1669580373907,
+  "endTime": 1669581265916,
   "band_list": [
     {
       "raw_hot": 36651023,
@@ -26291,6 +26291,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 324755,
+      "num": 324755,
+      "word": "西班牙男模队vs德国男模队",
+      "onboard_time": 1669576452,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 324718,
       "num": 324718,
       "word": "张杰弹吉他vlog",
@@ -29752,14 +29760,6 @@
       "word": "卢卡斯因伤退出世界杯",
       "onboard_time": 1669173091,
       "rank": 46,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 284856,
-      "num": 284856,
-      "word": "西班牙男模队vs德国男模队",
-      "onboard_time": 1669576452,
-      "rank": 48,
       "category": "体育"
     },
     {
@@ -49651,6 +49651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 138439,
+      "num": 75844,
+      "word": "西班牙半场0比0德国",
+      "onboard_time": 1669579273,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 138321,
       "num": 138321,
       "word": "好想要只等我回家的小狗",
@@ -58192,14 +58200,6 @@
       "word": "马宁担任法国丹麦第四官员",
       "onboard_time": 1669491976,
       "rank": 31,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 88420,
-      "num": 75844,
-      "word": "西班牙半场0比0德国",
-      "onboard_time": 1669579273,
-      "rank": 14,
       "category": "体育"
     },
     {
