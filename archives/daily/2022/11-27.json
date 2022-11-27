@@ -1,10 +1,10 @@
 {
   "startTime": 1669479991529,
-  "endTime": 1669519567944,
+  "endTime": 1669520955173,
   "band_list": [
     {
-      "raw_hot": 3548391,
-      "num": 3548391,
+      "raw_hot": 3822944,
+      "num": 3822944,
       "word": "谁可以决定采取封控措施",
       "onboard_time": 1669514315,
       "rank": 14,
@@ -51,6 +51,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1901512,
+      "num": 1901512,
+      "word": "官方通报甘肃瓜州患儿因耽误治疗时机病逝",
+      "onboard_time": 1669516775,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1826595,
       "num": 232830,
       "word": "人民锐评",
@@ -75,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1739179,
+      "num": 1480477,
+      "word": "李峋喘息声",
+      "onboard_time": 1669518697,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1613206,
       "num": 1613206,
       "word": "北京理工大学一名学生核酸呈阳性",
@@ -91,14 +107,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1480477,
-      "num": 1480477,
-      "word": "李峋喘息声",
-      "onboard_time": 1669518697,
-      "rank": 4,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1454231,
       "num": 1454231,
       "word": "郑州30日将转入常态化动态清零",
@@ -112,14 +120,6 @@
       "word": "男家教猥亵10岁女童被判终身禁业",
       "onboard_time": 1669507468,
       "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1378439,
-      "num": 1378439,
-      "word": "官方通报甘肃瓜州患儿因耽误治疗时机病逝",
-      "onboard_time": 1669516775,
-      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -147,8 +147,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1012985,
-      "num": 1012985,
+      "raw_hot": 1172141,
+      "num": 1172141,
       "word": "重庆新增本土确诊194例无症状8667例",
       "onboard_time": 1669517135,
       "rank": 10,
@@ -195,6 +195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 863685,
+      "num": 627654,
+      "word": "乌鲁木齐明起逐步恢复城市公共交通",
+      "onboard_time": 1669519594,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 826225,
       "num": 826225,
       "word": "梅西进球苏醒又嗨了",
@@ -219,6 +227,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 752262,
+      "num": 752262,
+      "word": "近百个结婚红包7年后失而复得",
+      "onboard_time": 1669517374,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 732437,
       "num": 608927,
       "word": "宋亚轩雪花错位图",
@@ -233,14 +249,6 @@
       "onboard_time": 1669499294,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 698300,
-      "num": 698300,
-      "word": "近百个结婚红包7年后失而复得",
-      "onboard_time": 1669517374,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 688322,
@@ -281,6 +289,14 @@
       "onboard_time": 1669478679,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 595861,
+      "num": 595861,
+      "word": "输给沙特后梅西二儿子哭了",
+      "onboard_time": 1669519713,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 594617,
@@ -403,6 +419,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 484581,
+      "num": 484581,
+      "word": "粉笔模考",
+      "onboard_time": 1669519234,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
       "raw_hot": 480200,
       "num": 480200,
       "word": "婆婆把豪宅庭院改菜地种菜",
@@ -441,6 +465,14 @@
       "onboard_time": 1669485922,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 432768,
+      "num": 432768,
+      "word": "命韵峋环复仇预告",
+      "onboard_time": 1669519535,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 421973,
@@ -523,6 +555,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 347293,
+      "num": 347293,
+      "word": "赵丽颖的三个现代角色",
+      "onboard_time": 1669520736,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 332180,
       "num": 332180,
       "word": "广州TTG",
@@ -579,6 +619,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 305604,
+      "num": 305604,
+      "word": "女子买1筐芒果遭5斤水泥压秤",
+      "onboard_time": 1669520253,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 299952,
       "num": 299952,
       "word": "猫咪的本质是爱看热闹",
@@ -593,6 +641,14 @@
       "onboard_time": 1669507647,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 293555,
+      "num": 293555,
+      "word": "崔秀彬跳LoveDive",
+      "onboard_time": 1669520315,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 293518,
@@ -651,20 +707,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 271859,
-      "num": 271859,
-      "word": "粉笔模考",
-      "onboard_time": 1669519234,
-      "rank": 24,
-      "category": "教育"
-    },
-    {
       "raw_hot": 269938,
       "num": 269938,
       "word": "马宁好帅",
       "onboard_time": 1669506805,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 269759,
+      "num": 269759,
+      "word": "中国人独有的主食情节",
+      "onboard_time": 1669519713,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 263072,
@@ -683,12 +739,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 260630,
+      "num": 248307,
+      "word": "点燃我温暖你",
+      "onboard_time": 1669519175,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 249432,
       "num": 249432,
       "word": "沙特教练 帅",
       "onboard_time": 1669480655,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 247769,
+      "num": 247769,
+      "word": "赵露思金晨文淇工作室出图",
+      "onboard_time": 1669520194,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 245437,
@@ -755,6 +827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 228217,
+      "num": 228217,
+      "word": "威少科林斯冲突",
+      "onboard_time": 1669520015,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 226289,
       "num": 180144,
       "word": "梅西是时候展示真正的实力了",
@@ -795,12 +875,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 221945,
+      "num": 221945,
+      "word": "陈飞宇的怼脸视频",
+      "onboard_time": 1669520194,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 221812,
       "num": 225892,
       "word": "敖子逸嘴上不怕身体很诚实",
       "onboard_time": 1669479633,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 218675,
+      "num": 218675,
+      "word": "梅西和恩佐的双向奔赴",
+      "onboard_time": 1669520497,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 214283,
@@ -827,12 +923,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 196000,
-      "num": 196000,
-      "word": "点燃我温暖你",
-      "onboard_time": 1669519175,
-      "rank": 35,
-      "category": "影视"
+      "raw_hot": 201692,
+      "num": 201692,
+      "word": "威少满脸是血",
+      "onboard_time": 1669520552,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 193049,
@@ -995,20 +1091,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 159669,
+      "num": 159669,
+      "word": "综艺节目不能没有大张伟",
+      "onboard_time": 1669513831,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 157393,
+      "num": 157393,
+      "word": "女子高速路求助辅警暖心公主抱",
+      "onboard_time": 1669520315,
+      "rank": 48,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 156598,
       "num": 156598,
       "word": "阿根廷vs墨西哥首发",
       "onboard_time": 1669491674,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 151238,
-      "num": 129648,
-      "word": "命韵峋环复仇预告",
-      "onboard_time": 1669519535,
-      "rank": 48,
-      "category": "影视"
     },
     {
       "raw_hot": 146397,

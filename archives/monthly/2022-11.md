@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/01 00:36:21 ~ 2022/11/27 11:26:07
+本榜单时间：2022/11/01 00:36:21 ~ 2022/11/27 11:49:15
 </p>
 </blockquote>
 <p>
@@ -309,6 +309,12 @@ C罗创纪录（热度：3955045）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B0%81%E5%8F%AF%E4%BB%A5%E5%86%B3%E5%AE%9A%E9%87%87%E5%8F%96%E5%B0%81%E6%8E%A7%E6%8E%AA%E6%96%BD%23" target="weibo">
+谁可以决定采取封控措施（热度：3822944）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E6%9F%90%E6%9F%90%E5%B7%B2%E5%81%9C%E8%81%8C%E9%85%8D%E5%90%88%E6%9C%89%E5%85%B3%E4%BA%8B%E4%BB%B6%E8%B0%83%E6%9F%A5%23" target="weibo">
 吴某某已停职配合有关事件调查（热度：3763812）
 </a>
@@ -341,12 +347,6 @@ T1和DRX决胜局（热度：3699608）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B6%E8%8C%B6%E5%BA%97%E5%9B%A0%E6%9C%8D%E5%8A%A1%E5%91%98%E5%85%88%E8%AF%B4%E6%AC%A2%E8%BF%8E%E5%85%89%E4%B8%B4%E8%A2%AB%E5%B0%81%23" target="weibo">
 奶茶店因服务员先说欢迎光临被封（热度：3608962）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B0%81%E5%8F%AF%E4%BB%A5%E5%86%B3%E5%AE%9A%E9%87%87%E5%8F%96%E5%B0%81%E6%8E%A7%E6%8E%AA%E6%96%BD%23" target="weibo">
-谁可以决定采取封控措施（热度：3548391）
 </a>
 </li>
 
@@ -1323,6 +1323,12 @@ IU（热度：2015592）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E7%94%98%E8%82%83%E7%93%9C%E5%B7%9E%E6%82%A3%E5%84%BF%E5%9B%A0%E8%80%BD%E8%AF%AF%E6%B2%BB%E7%96%97%E6%97%B6%E6%9C%BA%E7%97%85%E9%80%9D%23" target="weibo">
+官方通报甘肃瓜州患儿因耽误治疗时机病逝（热度：1901512）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E5%9C%A8%E6%A0%A1%E9%81%AD%E9%9C%B8%E5%87%8C%E8%87%B4%E7%B2%BE%E7%A5%9E%E5%A4%B1%E5%B8%B8%23" target="weibo">
 女生在校遭霸凌致精神失常（热度：1894312）
 </a>
@@ -1649,6 +1655,12 @@ blue露脸（热度：1747178）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%81%AB%E6%A0%91%23" target="weibo">
 火树（热度：1741704）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%B3%8B%E5%96%98%E6%81%AF%E5%A3%B0%23" target="weibo">
+李峋喘息声（热度：1739179）
 </a>
 </li>
 
@@ -2265,12 +2277,6 @@ Faker（热度：1632969）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%B3%8B%E5%96%98%E6%81%AF%E5%A3%B0%23" target="weibo">
-李峋喘息声（热度：1480477）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E5%B8%82%E4%B8%AD%E5%8C%BB%E9%99%A2%E4%B8%8D%E7%AD%89%E6%A0%B8%E9%85%B8%E7%BB%93%E6%9E%9C%E6%8A%A2%E6%95%91%E9%BB%84%E7%A0%81%E8%80%81%E4%BA%BA%23" target="weibo">
 重庆市中医院不等核酸结果抢救黄码老人（热度：1479007）
 </a>
@@ -2549,12 +2555,6 @@ C罗犯规（热度：1458702）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9F%B3%E5%AE%B6%E5%BA%84%E6%96%B0%E5%A2%9E%E7%A1%AE%E8%AF%8A321%E4%BE%8B%E6%97%A0%E7%97%87%E7%8A%B62876%E4%BE%8B%23" target="weibo">
 石家庄新增确诊321例无症状2876例（热度：1380471）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E7%94%98%E8%82%83%E7%93%9C%E5%B7%9E%E6%82%A3%E5%84%BF%E5%9B%A0%E8%80%BD%E8%AF%AF%E6%B2%BB%E7%96%97%E6%97%B6%E6%9C%BA%E7%97%85%E9%80%9D%23" target="weibo">
-官方通报甘肃瓜州患儿因耽误治疗时机病逝（热度：1378439）
 </a>
 </li>
 
@@ -3221,6 +3221,12 @@ meiko（热度：1182269）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%8E%E5%92%8C%E4%BC%9F%20%E9%99%AA%E8%B7%91%23" target="weibo">
 于和伟 陪跑（热度：1177631）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A194%E4%BE%8B%E6%97%A0%E7%97%87%E7%8A%B68667%E4%BE%8B%23" target="weibo">
+重庆新增本土确诊194例无症状8667例（热度：1172141）
 </a>
 </li>
 
@@ -4127,12 +4133,6 @@ Faker或将加入LPL（热度：1036605）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E5%8E%BB%E4%B8%96%E5%A5%B3%E5%AD%90%E6%B2%A1%E4%B9%B0%E5%88%B0%E7%A5%A8%E8%BD%A6%E7%AB%995%E5%88%86%E9%92%9F%E5%B8%AE%E4%B8%8A%E8%BD%A6%23" target="weibo">
 老人去世女子没买到票车站5分钟帮上车（热度：1013245）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A194%E4%BE%8B%E6%97%A0%E7%97%87%E7%8A%B68667%E4%BE%8B%23" target="weibo">
-重庆新增本土确诊194例无症状8667例（热度：1012985）
 </a>
 </li>
 
@@ -5271,6 +5271,12 @@ Kingen获FMVP（热度：869944）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B9%8C%E9%B2%81%E6%9C%A8%E9%BD%90%E6%98%8E%E8%B5%B7%E9%80%90%E6%AD%A5%E6%81%A2%E5%A4%8D%E5%9F%8E%E5%B8%82%E5%85%AC%E5%85%B1%E4%BA%A4%E9%80%9A%23" target="weibo">
+乌鲁木齐明起逐步恢复城市公共交通（热度：863685）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%89%93%E7%81%AB%E6%9C%BA%E4%B8%8E%E5%85%AC%E4%B8%BB%E8%A3%99%20%E7%94%9C%23" target="weibo">
 打火机与公主裙 甜（热度：861481）
 </a>
@@ -6005,12 +6011,6 @@ kp 退团（热度：791639）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E7%A0%9A%E7%99%BD%E6%9C%AFbe%E4%BA%86%23" target="weibo">
 肖砚白术be了（热度：782729）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A2%96%E5%84%BF%E8%BF%BD%E5%89%A7%E9%97%AE%E5%AD%95%E6%9C%9F%E7%94%9F%E7%97%85%E8%AF%A5%E5%BF%8D%E7%9D%80%E8%BF%98%E6%98%AF%E5%90%83%E8%8D%AF%23" target="weibo">
-颖儿追剧问孕期生病该忍着还是吃药（热度：782555）
 </a>
 </li>
 
