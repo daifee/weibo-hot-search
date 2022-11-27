@@ -1,6 +1,6 @@
 {
   "startTime": 1669479991529,
-  "endTime": 1669513804103,
+  "endTime": 1669515400147,
   "band_list": [
     {
       "raw_hot": 3284249,
@@ -67,19 +67,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1454231,
+      "num": 1454231,
+      "word": "郑州30日将转入常态化动态清零",
+      "onboard_time": 1669511072,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1452149,
       "num": 1452149,
       "word": "男家教猥亵10岁女童被判终身禁业",
       "onboard_time": 1669507468,
       "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1327997,
-      "num": 1327997,
-      "word": "郑州30日将转入常态化动态清零",
-      "onboard_time": 1669511072,
-      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -105,6 +105,14 @@
       "onboard_time": 1669477667,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1171626,
+      "num": 1171626,
+      "word": "蜜雪冰城被曝喝出虫子商家态度引争议",
+      "onboard_time": 1669512395,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 988661,
@@ -139,6 +147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 807234,
+      "num": 807234,
+      "word": "11月26日新增本土无症状35858例",
+      "onboard_time": 1669512515,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 753604,
       "num": 627006,
       "word": "蔡英文辞去民进党主席职务",
@@ -147,12 +163,28 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 732437,
+      "num": 608927,
+      "word": "宋亚轩雪花错位图",
+      "onboard_time": 1669515097,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 732353,
       "num": 556159,
       "word": "梅西疯狂庆祝",
       "onboard_time": 1669499294,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 699580,
+      "num": 699580,
+      "word": "十块的奶茶只喝到了两块五",
+      "onboard_time": 1669513233,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 688322,
@@ -169,6 +201,22 @@
       "onboard_time": 1669464403,
       "rank": 8,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 644169,
+      "num": 607437,
+      "word": "男子撞死老人现场谎称是自己父亲",
+      "onboard_time": 1669514553,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 633177,
+      "num": 633177,
+      "word": "IVEmmaVCR疑似抄袭Redvelvet",
+      "onboard_time": 1669513053,
+      "rank": 8,
+      "category": "音乐"
     },
     {
       "raw_hot": 607135,
@@ -195,19 +243,19 @@
       "category": "影视"
     },
     {
-      "raw_hot": 588015,
-      "num": 588015,
-      "word": "IVEmmaVCR疑似抄袭Redvelvet",
-      "onboard_time": 1669513053,
-      "rank": 8,
-      "category": "音乐"
+      "raw_hot": 576149,
+      "num": 576149,
+      "word": "梅西进球苏醒又嗨了",
+      "onboard_time": 1669513892,
+      "rank": 13,
+      "category": "体育,艺人"
     },
     {
-      "raw_hot": 580514,
-      "num": 539541,
-      "word": "蜜雪冰城被曝喝出虫子商家态度引争议",
-      "onboard_time": 1669512395,
-      "rank": 11,
+      "raw_hot": 564557,
+      "num": 564557,
+      "word": "谁可以决定采取封控措施",
+      "onboard_time": 1669514315,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -233,14 +281,6 @@
       "onboard_time": 1669478147,
       "rank": 13,
       "category": "影视"
-    },
-    {
-      "raw_hot": 544799,
-      "num": 538862,
-      "word": "11月26日新增本土无症状35858例",
-      "onboard_time": 1669512515,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 542508,
@@ -363,6 +403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 397214,
+      "num": 397214,
+      "word": "张远终于圆梦唱了动漫歌",
+      "onboard_time": 1669511554,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 384209,
       "num": 384209,
       "word": "IVE今天赢麻了",
@@ -395,20 +443,20 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 364471,
-      "num": 364471,
-      "word": "张远终于圆梦唱了动漫歌",
-      "onboard_time": 1669511554,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 356824,
       "num": 356824,
       "word": "姆巴佩太强了",
       "onboard_time": 1669485861,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 350044,
+      "num": 350044,
+      "word": "卿卿日常原著里的李薇",
+      "onboard_time": 1669504641,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 332180,
@@ -435,14 +483,6 @@
       "category": "体育,幽默"
     },
     {
-      "raw_hot": 324397,
-      "num": 324397,
-      "word": "卿卿日常原著里的李薇",
-      "onboard_time": 1669504641,
-      "rank": 18,
-      "category": "影视"
-    },
-    {
       "raw_hot": 317469,
       "num": 317469,
       "word": "姆巴佩梅开二度",
@@ -467,12 +507,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 307789,
-      "num": 307789,
-      "word": "十块的奶茶只喝到了两块五",
-      "onboard_time": 1669513233,
-      "rank": 23,
-      "category": "情感"
+      "raw_hot": 307354,
+      "num": 307354,
+      "word": "男子偷2个榴莲被抓称太香没忍住",
+      "onboard_time": 1669512935,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 297588,
@@ -545,6 +585,14 @@
       "onboard_time": 1669480655,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 247342,
+      "num": 247342,
+      "word": "原来iOS16的新功能这么用",
+      "onboard_time": 1669511974,
+      "rank": 41,
+      "category": "科技"
     },
     {
       "raw_hot": 245437,
@@ -651,20 +699,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 216283,
+      "num": 216283,
+      "word": "猫咪的本质是爱看热闹",
+      "onboard_time": 1669510712,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 214283,
       "num": 214283,
       "word": "马嘉祺我期待Say goodbye高音",
       "onboard_time": 1669482688,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 210320,
-      "num": 210320,
-      "word": "猫咪的本质是爱看热闹",
-      "onboard_time": 1669510712,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 209871,
@@ -689,14 +737,6 @@
       "onboard_time": 1669482152,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 190526,
-      "num": 190526,
-      "word": "男子偷2个榴莲被抓称太香没忍住",
-      "onboard_time": 1669512935,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 190274,
@@ -763,6 +803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 174981,
+      "num": 174981,
+      "word": "上海马拉松",
+      "onboard_time": 1669514914,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 173897,
       "num": 121350,
       "word": "梅西拯救阿根廷",
@@ -819,6 +867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 163252,
+      "num": 163252,
+      "word": "梅西带领阿根廷球迷胜利大合唱",
+      "onboard_time": 1669514376,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 159849,
       "num": 159849,
       "word": "王栎鑫清唱最好的我们",
@@ -833,14 +889,6 @@
       "onboard_time": 1669491674,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 149243,
-      "num": 149243,
-      "word": "原来iOS16的新功能这么用",
-      "onboard_time": 1669511974,
-      "rank": 41,
-      "category": "科技"
     },
     {
       "raw_hot": 146397,
@@ -859,6 +907,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 140980,
+      "num": 140980,
+      "word": "厦门马拉松",
+      "onboard_time": 1669511072,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 133029,
       "num": 133029,
       "word": "女子失聪且患尿毒症求助消防站开锁",
@@ -872,6 +928,14 @@
       "word": "姆巴佩庆祝晋级",
       "onboard_time": 1669494674,
       "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 131633,
+      "num": 131633,
+      "word": "住在世界杯球迷村是什么体验",
+      "onboard_time": 1669515214,
+      "rank": 46,
       "category": "体育"
     },
     {
@@ -1059,7 +1123,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 11225,
+      "raw_hot": 11558,
       "num": 1906282,
       "word": "多视角看歼15航母起降全过程",
       "onboard_time": 1669435239,

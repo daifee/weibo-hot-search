@@ -1,0 +1,410 @@
+{
+  "runTime": 1669515400147,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3001648,
+        "num": 3001648,
+        "word": "梅西破门",
+        "onboard_time": 1669495452,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1454231,
+        "num": 1454231,
+        "word": "郑州30日将转入常态化动态清零",
+        "onboard_time": 1669511072,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 11558,
+        "num": 1444411,
+        "word": "多视角看歼15航母起降全过程",
+        "onboard_time": 1669435239,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1437191,
+        "num": 1437191,
+        "word": "社区否认一混阳志愿者给市民做核酸",
+        "onboard_time": 1669509150,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1389841,
+        "num": 1389841,
+        "word": "北京新增社会面806例",
+        "onboard_time": 1669509390,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1208048,
+        "num": 1208048,
+        "word": "男家教猥亵10岁女童被判终身禁业",
+        "onboard_time": 1669507468,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1171626,
+        "num": 1171626,
+        "word": "蜜雪冰城被曝喝出虫子商家态度引争议",
+        "onboard_time": 1669512395,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 807234,
+        "num": 807234,
+        "word": "11月26日新增本土无症状35858例",
+        "onboard_time": 1669512515,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 699580,
+        "num": 699580,
+        "word": "十块的奶茶只喝到了两块五",
+        "onboard_time": 1669513233,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 633177,
+        "num": 633177,
+        "word": "IVEmmaVCR疑似抄袭Redvelvet",
+        "onboard_time": 1669513053,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 808473,
+        "num": 610999,
+        "word": "上海一街道未做核酸纳入征信",
+        "onboard_time": 1669477430,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 732437,
+        "num": 608927,
+        "word": "宋亚轩雪花错位图",
+        "onboard_time": 1669515097,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 644169,
+        "num": 607437,
+        "word": "男子撞死老人现场谎称是自己父亲",
+        "onboard_time": 1669514553,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 576149,
+        "num": 576149,
+        "word": "梅西进球苏醒又嗨了",
+        "onboard_time": 1669513892,
+        "rank": 13,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 564557,
+        "num": 564557,
+        "word": "谁可以决定采取封控措施",
+        "onboard_time": 1669514315,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 500289,
+        "num": 500289,
+        "word": "郑好办致歉可查奥特曼核酸结果",
+        "onboard_time": 1669505302,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 440887,
+        "num": 440887,
+        "word": "美国禁止华为中兴等5家中企在美销售设备",
+        "onboard_time": 1669493714,
+        "rank": 16,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 432028,
+        "num": 432028,
+        "word": "男子炸葱油灶台火光变成绿色",
+        "onboard_time": 1669510293,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 417347,
+        "num": 417347,
+        "word": "阿根廷升至小组第二",
+        "onboard_time": 1669507827,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 409206,
+        "num": 409206,
+        "word": "阿根廷vs墨西哥",
+        "onboard_time": 1669481732,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 398232,
+        "num": 398232,
+        "word": "梅西疯狂庆祝",
+        "onboard_time": 1669499294,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 397214,
+        "num": 397214,
+        "word": "张远终于圆梦唱了动漫歌",
+        "onboard_time": 1669511554,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 363585,
+        "num": 363585,
+        "word": "姐姐给被隔离弟弟送饭狗跟着抢食",
+        "onboard_time": 1669507346,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 351095,
+        "num": 351095,
+        "word": "每天8杯水或超过大多数人真正需水量",
+        "onboard_time": 1669489756,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350044,
+        "num": 350044,
+        "word": "卿卿日常原著里的李薇",
+        "onboard_time": 1669504641,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 307354,
+        "num": 307354,
+        "word": "男子偷2个榴莲被抓称太香没忍住",
+        "onboard_time": 1669512935,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286988,
+        "num": 286988,
+        "word": "梅西偶像哭了",
+        "onboard_time": 1669499234,
+        "rank": 26,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 266660,
+        "num": 266660,
+        "word": "黄健翔说阿根廷压力太大了",
+        "onboard_time": 1669507284,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 247342,
+        "num": 247342,
+        "word": "原来iOS16的新功能这么用",
+        "onboard_time": 1669511974,
+        "rank": 28,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 245336,
+        "num": 245336,
+        "word": "当小时代的豪宅照进现实",
+        "onboard_time": 1669476649,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 244185,
+        "num": 244185,
+        "word": "内马尔晒脚踝伤势",
+        "onboard_time": 1669495875,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 216283,
+        "num": 216283,
+        "word": "猫咪的本质是爱看热闹",
+        "onboard_time": 1669510712,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 203822,
+        "num": 203822,
+        "word": "马宁好帅",
+        "onboard_time": 1669506805,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201136,
+        "num": 201136,
+        "word": "猫咪拉肚子主人熏艾灸条调理",
+        "onboard_time": 1669507647,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193050,
+        "num": 193050,
+        "word": "沙特是怎么赢的阿根廷",
+        "onboard_time": 1669483222,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186919,
+        "num": 186919,
+        "word": "姆巴佩太强了",
+        "onboard_time": 1669485861,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185670,
+        "num": 185670,
+        "word": "人民锐评",
+        "onboard_time": 1669478081,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174981,
+        "num": 174981,
+        "word": "上海马拉松",
+        "onboard_time": 1669514914,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169879,
+        "num": 169879,
+        "word": "女租客没回信息男房东擅闯房间",
+        "onboard_time": 1669475754,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163510,
+        "num": 163510,
+        "word": "20条严禁长时间不解封",
+        "onboard_time": 1669474551,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163252,
+        "num": 163252,
+        "word": "梅西带领阿根廷球迷胜利大合唱",
+        "onboard_time": 1669514376,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146915,
+        "num": 146915,
+        "word": "婆婆把豪宅庭院改菜地种菜",
+        "onboard_time": 1669477244,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145050,
+        "num": 145050,
+        "word": "王栎鑫清唱最好的我们",
+        "onboard_time": 1669511732,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142182,
+        "num": 142182,
+        "word": "北京理工大学一名学生核酸呈阳性",
+        "onboard_time": 1669473888,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140980,
+        "num": 140980,
+        "word": "厦门马拉松",
+        "onboard_time": 1669511072,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133102,
+        "num": 133102,
+        "word": "卡塔尔球迷要立刻办闭幕式",
+        "onboard_time": 1669475334,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131633,
+        "num": 131633,
+        "word": "住在世界杯球迷村是什么体验",
+        "onboard_time": 1669515214,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131467,
+        "num": 131467,
+        "word": "许半夏抓包丈夫出轨",
+        "onboard_time": 1669478147,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 123576,
+        "num": 123576,
+        "word": "官方通报网传顺德核酸聚集踩踏事件",
+        "onboard_time": 1669464403,
+        "rank": 48,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 123254,
+        "num": 123254,
+        "word": "阿根廷2比0墨西哥",
+        "onboard_time": 1669496776,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动经济全球化不断向前#"
+    }
+  }
+}
