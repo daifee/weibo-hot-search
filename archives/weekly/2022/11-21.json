@@ -1,6 +1,6 @@
 {
   "startTime": 1668961718135,
-  "endTime": 1669537439124,
+  "endTime": 1669538299032,
   "band_list": [
     {
       "raw_hot": 36651023,
@@ -625,6 +625,14 @@
       "onboard_time": 1669120973,
       "rank": 3,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 2348915,
+      "num": 2348915,
+      "word": "兰州通报核酸采样人员阳性",
+      "onboard_time": 1669536575,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2321254,
@@ -2203,14 +2211,6 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 951823,
-      "num": 951823,
-      "word": "兰州通报核酸采样人员阳性",
-      "onboard_time": 1669536575,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 949336,
       "num": 949336,
       "word": "加纳 推人",
@@ -3500,7 +3500,7 @@
     },
     {
       "raw_hot": 674095,
-      "num": 382984,
+      "num": 657098,
       "word": "重庆南岸区一街道办公室发生爆炸系谣言",
       "onboard_time": 1669535312,
       "rank": 11,
@@ -3856,6 +3856,14 @@
       "word": "郑州新增1例死亡病例",
       "onboard_time": 1669123662,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 629665,
+      "num": 629665,
+      "word": "爸爸一声吼吓到孩子却救了她",
+      "onboard_time": 1669534352,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -4228,7 +4236,7 @@
     },
     {
       "raw_hot": 585896,
-      "num": 393789,
+      "num": 416843,
       "word": "苏醒曾因梅西拉黑黄健翔",
       "onboard_time": 1669532192,
       "rank": 15,
@@ -4273,14 +4281,6 @@
       "onboard_time": 1669346251,
       "rank": 8,
       "category": "影视"
-    },
-    {
-      "raw_hot": 581925,
-      "num": 380383,
-      "word": "爸爸一声吼吓到孩子却救了她",
-      "onboard_time": 1669534352,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 580854,
@@ -5963,6 +5963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 454967,
+      "num": 454967,
+      "word": "男子逗娃顺走孩子9500元金手镯",
+      "onboard_time": 1669535312,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 453779,
       "num": 436048,
       "word": "宋雨琦MMA红毯生图",
@@ -6035,14 +6043,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 451095,
-      "num": 372356,
-      "word": "男子逗娃顺走孩子9500元金手镯",
-      "onboard_time": 1669535312,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 450068,
       "num": 450068,
       "word": "被柯南的拥抱整破防了",
@@ -6065,6 +6065,14 @@
       "onboard_time": 1669043032,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 449557,
+      "num": 449557,
+      "word": "江苏一大学发现全球最大天然碳洋葱",
+      "onboard_time": 1669533810,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 449371,
@@ -6265,14 +6273,6 @@
       "onboard_time": 1669357595,
       "rank": 21,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 439296,
-      "num": 368426,
-      "word": "江苏一大学发现全球最大天然碳洋葱",
-      "onboard_time": 1669533810,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 439281,
@@ -7145,6 +7145,14 @@
       "onboard_time": 1669305158,
       "rank": 35,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 399890,
+      "num": 399890,
+      "word": "李晨说何超莲带显微镜上节目",
+      "onboard_time": 1669537835,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 398834,
@@ -8315,6 +8323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 345962,
+      "num": 345962,
+      "word": "莫德里奇首次回应难民照片",
+      "onboard_time": 1669535735,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 345868,
       "num": 345868,
       "word": "C罗和内马尔今日首秀",
@@ -8873,6 +8889,14 @@
       "onboard_time": 1669093957,
       "rank": 25,
       "category": "综艺,时尚"
+    },
+    {
+      "raw_hot": 327114,
+      "num": 274522,
+      "word": "刘诗诗一念关山雨中撑伞视频",
+      "onboard_time": 1669536753,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 326833,
@@ -9723,14 +9747,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 294529,
-      "num": 294529,
-      "word": "莫德里奇首次回应难民照片",
-      "onboard_time": 1669535735,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 293970,
       "num": 293970,
       "word": "梅西和恩佐的双向奔赴",
@@ -9889,14 +9905,6 @@
       "onboard_time": 1669384808,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 288693,
-      "num": 274522,
-      "word": "刘诗诗一念关山雨中撑伞视频",
-      "onboard_time": 1669536753,
-      "rank": 22,
-      "category": "影视"
     },
     {
       "raw_hot": 288227,
@@ -13163,6 +13171,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 201003,
+      "num": 180060,
+      "word": "女子按摩减肥致大出血进ICU切肾",
+      "onboard_time": 1669537537,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 200965,
       "num": 196253,
       "word": "阳华妈妈突击查房",
@@ -13235,12 +13251,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 199270,
+      "num": 179631,
+      "word": "永远会被杨笠的坦诚打动",
+      "onboard_time": 1669537355,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 199263,
       "num": 199263,
       "word": "LESSERAFIM2022MMA舞台",
       "onboard_time": 1669463921,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 199094,
+      "num": 178835,
+      "word": "白敬亭打篮球存货vlog",
+      "onboard_time": 1669535492,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 199008,
@@ -14337,6 +14369,14 @@
       "onboard_time": 1669197154,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 182131,
+      "num": 182131,
+      "word": "商家回应未拆封奶粉中有活虫",
+      "onboard_time": 1669536093,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 182127,
@@ -15723,6 +15763,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 153840,
+      "num": 118595,
+      "word": "Hero 紫幻",
+      "onboard_time": 1669538256,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 153801,
       "num": 153801,
       "word": "李峋发型的三次变化",
@@ -15745,14 +15793,6 @@
       "onboard_time": 1669216916,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 153052,
-      "num": 153052,
-      "word": "商家回应未拆封奶粉中有活虫",
-      "onboard_time": 1669536093,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 152862,
@@ -18604,7 +18644,7 @@
     },
     {
       "raw_hot": 75531,
-      "num": 1271045,
+      "num": 1324420,
       "word": "推动经济全球化不断向前",
       "onboard_time": 1669530871,
       "rank": 2,
