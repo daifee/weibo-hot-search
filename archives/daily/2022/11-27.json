@@ -1,6 +1,6 @@
 {
   "startTime": 1669479991529,
-  "endTime": 1669552519251,
+  "endTime": 1669553651252,
   "band_list": [
     {
       "raw_hot": 3822944,
@@ -32,6 +32,14 @@
       "word": "上海一街道未做核酸纳入征信",
       "onboard_time": 1669477430,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2849995,
+      "num": 2849995,
+      "word": "广州海珠近万人有疏解意愿",
+      "onboard_time": 1669550740,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -147,14 +155,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1742228,
-      "num": 1742228,
-      "word": "广州海珠近万人有疏解意愿",
-      "onboard_time": 1669550740,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1739179,
       "num": 1480477,
       "word": "李峋喘息声",
@@ -188,7 +188,7 @@
     },
     {
       "raw_hot": 1648663,
-      "num": 565950,
+      "num": 694907,
       "word": "父母带2岁孩子去方舱邻居纷纷挽留",
       "onboard_time": 1669550075,
       "rank": 10,
@@ -212,7 +212,7 @@
     },
     {
       "raw_hot": 1581183,
-      "num": 250890,
+      "num": 269266,
       "word": "腾讯会议崩了",
       "onboard_time": 1669549115,
       "rank": 30,
@@ -307,6 +307,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1110629,
+      "num": 1110629,
+      "word": "女生分手后骗妈妈和内马尔谈恋爱",
+      "onboard_time": 1669549955,
+      "rank": 11,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 1056683,
+      "num": 1056683,
+      "word": "深圳倡导市民下周居家办公",
+      "onboard_time": 1669550677,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1012904,
       "num": 1012904,
       "word": "毛利小五郎麻药免疫",
@@ -371,14 +387,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 855705,
-      "num": 561075,
-      "word": "女生分手后骗妈妈和内马尔谈恋爱",
-      "onboard_time": 1669549955,
-      "rank": 11,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 852281,
       "num": 852281,
       "word": "女子定错位外卖员怒斥倒八辈子霉",
@@ -392,14 +400,6 @@
       "word": "重庆南岸区一街道办公室发生爆炸系谣言",
       "onboard_time": 1669535312,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 836833,
-      "num": 836833,
-      "word": "深圳倡导市民下周居家办公",
-      "onboard_time": 1669550677,
-      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -499,6 +499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 696201,
+      "num": 696201,
+      "word": "尹岐被贬",
+      "onboard_time": 1669553434,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 688322,
       "num": 688322,
       "word": "郑好办致歉可查奥特曼核酸结果",
@@ -521,6 +529,14 @@
       "onboard_time": 1669464403,
       "rank": 8,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 651646,
+      "num": 651646,
+      "word": "男子饿了2天拜托交警买个面包",
+      "onboard_time": 1669551336,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 635582,
@@ -803,6 +819,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 496335,
+      "num": 496335,
+      "word": "风吹半夏",
+      "onboard_time": 1669549657,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 493110,
       "num": 493110,
       "word": "女子炸糖糕等全炸飞才敢关火",
@@ -849,14 +873,6 @@
       "onboard_time": 1669477244,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 478211,
-      "num": 478211,
-      "word": "风吹半夏",
-      "onboard_time": 1669549657,
-      "rank": 17,
-      "category": "影视"
     },
     {
       "raw_hot": 476446,
@@ -939,6 +955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 433923,
+      "num": 433923,
+      "word": "7岁女孩高烧一周被确诊亲吻病",
+      "onboard_time": 1669552836,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 432768,
       "num": 432768,
       "word": "命韵峋环复仇预告",
@@ -961,6 +985,14 @@
       "onboard_time": 1669525774,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 429963,
+      "num": 429963,
+      "word": "有一个不爱责怪的伴侣真好",
+      "onboard_time": 1669548573,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 421973,
@@ -1067,6 +1099,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 385040,
+      "num": 385040,
+      "word": "尹峥李薇带娃",
+      "onboard_time": 1669552537,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 384209,
       "num": 384209,
       "word": "IVE今天赢麻了",
@@ -1163,6 +1203,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 360705,
+      "num": 360705,
+      "word": "钟辰乐对镜头撒娇",
+      "onboard_time": 1669552954,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 357819,
       "num": 357819,
       "word": "RedVelvet新歌预告视频",
@@ -1177,6 +1225,14 @@
       "onboard_time": 1669485861,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 356629,
+      "num": 356629,
+      "word": "赵樱子说姐来无限超越班负责超美",
+      "onboard_time": 1669551515,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 353792,
@@ -1219,14 +1275,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 344912,
-      "num": 344912,
-      "word": "有一个不爱责怪的伴侣真好",
-      "onboard_time": 1669548573,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
       "raw_hot": 338042,
       "num": 338042,
       "word": "王鹤棣时宴白色毛衣出妆路透",
@@ -1249,6 +1297,14 @@
       "onboard_time": 1669528712,
       "rank": 18,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 329789,
+      "num": 329789,
+      "word": "世界杯死亡之组日本无望提前突围",
+      "onboard_time": 1669552655,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 327114,
@@ -1281,14 +1337,6 @@
       "onboard_time": 1669543114,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 320223,
-      "num": 320223,
-      "word": "赵樱子说姐来无限超越班负责超美",
-      "onboard_time": 1669551515,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 317469,
@@ -1337,14 +1385,6 @@
       "onboard_time": 1669496657,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 309915,
-      "num": 250709,
-      "word": "男子饿了2天拜托交警买个面包",
-      "onboard_time": 1669551336,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 307413,
@@ -1499,6 +1539,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 279288,
+      "num": 279288,
+      "word": "北京本轮疫情呈多点多面发展态势",
+      "onboard_time": 1669552356,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 278517,
       "num": 278517,
       "word": "SEVENTEEN演唱会跳搓澡舞",
@@ -1563,6 +1611,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 269714,
+      "num": 269714,
+      "word": "沈阳五里河李铁雕像被拆除拉走",
+      "onboard_time": 1669551697,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 266610,
+      "num": 266610,
+      "word": "无畏 这次为艺术奉献了",
+      "onboard_time": 1669551336,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 263072,
       "num": 263072,
       "word": "法国终结卫冕冠军出局魔咒",
@@ -1609,6 +1673,14 @@
       "onboard_time": 1669547915,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 251149,
+      "num": 251149,
+      "word": "纳瓦斯 牛",
+      "onboard_time": 1669552537,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 250330,
@@ -1707,6 +1779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 233141,
+      "num": 233141,
+      "word": "安宥真翻唱EventHorizon视频",
+      "onboard_time": 1669552836,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 232868,
       "num": 232868,
       "word": "胡辣汤原来有25种以上调料",
@@ -1729,14 +1809,6 @@
       "onboard_time": 1669527093,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 230160,
-      "num": 230160,
-      "word": "无畏 这次为艺术奉献了",
-      "onboard_time": 1669551336,
-      "rank": 34,
-      "category": "游戏"
     },
     {
       "raw_hot": 229232,
@@ -1987,6 +2059,30 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 196660,
+      "num": 196660,
+      "word": "尹峥雨中下跪vs祺贵人雨中下跪",
+      "onboard_time": 1669552595,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 194822,
+      "num": 194822,
+      "word": "DYG战胜TTG",
+      "onboard_time": 1669550137,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 193806,
+      "num": 193806,
+      "word": "孙千说童骁骑你成功引起了本猫的注意",
+      "onboard_time": 1669552716,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 193607,
       "num": 193607,
       "word": "贺峻霖说终于可以睡大觉去了",
@@ -2001,6 +2097,14 @@
       "onboard_time": 1669482152,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 192405,
+      "num": 192405,
+      "word": "细致周到做好群众工作",
+      "onboard_time": 1669553557,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 192328,
@@ -2025,14 +2129,6 @@
       "onboard_time": 1669533872,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 190823,
-      "num": 190823,
-      "word": "北京本轮疫情呈多点多面发展态势",
-      "onboard_time": 1669552356,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 190274,
@@ -2115,12 +2211,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 179969,
-      "num": 179969,
-      "word": "沈阳五里河李铁雕像被拆除拉走",
-      "onboard_time": 1669551697,
-      "rank": 42,
-      "category": "社会新闻"
+      "raw_hot": 179540,
+      "num": 179540,
+      "word": "日本队表现",
+      "onboard_time": 1669552537,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 178569,
