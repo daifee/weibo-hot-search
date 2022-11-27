@@ -1,6 +1,6 @@
 {
   "startTime": 1669479991529,
-  "endTime": 1669553651252,
+  "endTime": 1669555489522,
   "band_list": [
     {
       "raw_hot": 3822944,
@@ -8,6 +8,14 @@
       "word": "谁可以决定采取封控措施",
       "onboard_time": 1669514315,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3361392,
+      "num": 3361392,
+      "word": "广州海珠近万人有疏解意愿",
+      "onboard_time": 1669550740,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -32,14 +40,6 @@
       "word": "上海一街道未做核酸纳入征信",
       "onboard_time": 1669477430,
       "rank": 0,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2849995,
-      "num": 2849995,
-      "word": "广州海珠近万人有疏解意愿",
-      "onboard_time": 1669550740,
-      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -188,7 +188,7 @@
     },
     {
       "raw_hot": 1648663,
-      "num": 694907,
+      "num": 854011,
       "word": "父母带2岁孩子去方舱邻居纷纷挽留",
       "onboard_time": 1669550075,
       "rank": 10,
@@ -249,6 +249,22 @@
       "onboard_time": 1669464166,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1248044,
+      "num": 1248044,
+      "word": "7岁女孩高烧一周被确诊亲吻病",
+      "onboard_time": 1669552836,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1244028,
+      "num": 1244028,
+      "word": "尹岐被贬",
+      "onboard_time": 1669553434,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 1234974,
@@ -315,8 +331,8 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 1056683,
-      "num": 1056683,
+      "raw_hot": 1097861,
+      "num": 1097861,
       "word": "深圳倡导市民下周居家办公",
       "onboard_time": 1669550677,
       "rank": 7,
@@ -369,6 +385,14 @@
       "onboard_time": 1669475334,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 899142,
+      "num": 899142,
+      "word": "男子饿了2天拜托交警买个面包",
+      "onboard_time": 1669551336,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 895774,
@@ -499,20 +523,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 696201,
-      "num": 696201,
-      "word": "尹岐被贬",
-      "onboard_time": 1669553434,
-      "rank": 9,
-      "category": "影视"
-    },
-    {
       "raw_hot": 688322,
       "num": 688322,
       "word": "郑好办致歉可查奥特曼核酸结果",
       "onboard_time": 1669505302,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 687554,
+      "num": 687554,
+      "word": "世界杯死亡之组日本无望提前突围",
+      "onboard_time": 1669552655,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 671857,
@@ -529,14 +553,6 @@
       "onboard_time": 1669464403,
       "rank": 8,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 651646,
-      "num": 651646,
-      "word": "男子饿了2天拜托交警买个面包",
-      "onboard_time": 1669551336,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 635582,
@@ -755,12 +771,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 519159,
+      "num": 519159,
+      "word": "比利时vs摩洛哥",
+      "onboard_time": 1669551995,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 518325,
       "num": 518325,
       "word": "命韵峋环重逢后吻戏",
       "onboard_time": 1669517671,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 513396,
+      "num": 513396,
+      "word": "邓紫棋在刘畊宏直播间跳操",
+      "onboard_time": 1669554036,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 512188,
@@ -793,6 +825,14 @@
       "onboard_time": 1669520736,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 503890,
+      "num": 503890,
+      "word": "有一个不爱责怪的伴侣真好",
+      "onboard_time": 1669548573,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 502432,
@@ -907,6 +947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 459118,
+      "num": 459118,
+      "word": "北京本轮疫情呈多点多面发展态势",
+      "onboard_time": 1669552356,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 453253,
       "num": 453253,
       "word": "内马尔晒脚踝伤势",
@@ -955,28 +1003,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 433923,
-      "num": 433923,
-      "word": "7岁女孩高烧一周被确诊亲吻病",
-      "onboard_time": 1669552836,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 432768,
       "num": 432768,
       "word": "命韵峋环复仇预告",
       "onboard_time": 1669519535,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 430715,
-      "num": 430715,
-      "word": "比利时vs摩洛哥",
-      "onboard_time": 1669551995,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 430313,
@@ -987,20 +1019,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 429963,
-      "num": 429963,
-      "word": "有一个不爱责怪的伴侣真好",
-      "onboard_time": 1669548573,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
       "raw_hot": 421973,
       "num": 421973,
       "word": "波兰2比0沙特",
       "onboard_time": 1669475393,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 421620,
+      "num": 421620,
+      "word": "上官婧问尹岐心里还有没有郝葭",
+      "onboard_time": 1669554036,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 418756,
@@ -1083,6 +1115,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 393089,
+      "num": 385040,
+      "word": "尹峥李薇带娃",
+      "onboard_time": 1669552537,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 390356,
       "num": 390356,
       "word": "赵丽颖许半夏六宫格剧照",
@@ -1097,14 +1137,6 @@
       "onboard_time": 1669521393,
       "rank": 20,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 385040,
-      "num": 385040,
-      "word": "尹峥李薇带娃",
-      "onboard_time": 1669552537,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 384209,
@@ -1299,14 +1331,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 329789,
-      "num": 329789,
-      "word": "世界杯死亡之组日本无望提前突围",
-      "onboard_time": 1669552655,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 327114,
       "num": 304525,
       "word": "刘诗诗一念关山雨中撑伞视频",
@@ -1451,6 +1475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 297264,
+      "num": 297264,
+      "word": "李光洁直播找刘昊然借钱",
+      "onboard_time": 1669555116,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 293970,
       "num": 293970,
       "word": "梅西和恩佐的双向奔赴",
@@ -1489,6 +1521,14 @@
       "onboard_time": 1669531050,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 290339,
+      "num": 290339,
+      "word": "沈阳五里河李铁雕像被拆除拉走",
+      "onboard_time": 1669551697,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 288538,
@@ -1537,14 +1577,6 @@
       "onboard_time": 1669548698,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 279288,
-      "num": 279288,
-      "word": "北京本轮疫情呈多点多面发展态势",
-      "onboard_time": 1669552356,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 278517,
@@ -1611,20 +1643,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 269714,
-      "num": 269714,
-      "word": "沈阳五里河李铁雕像被拆除拉走",
-      "onboard_time": 1669551697,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 266610,
       "num": 266610,
       "word": "无畏 这次为艺术奉献了",
       "onboard_time": 1669551336,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 265528,
+      "num": 263666,
+      "word": "尹峥雨中下跪vs祺贵人雨中下跪",
+      "onboard_time": 1669552595,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 265464,
+      "num": 265464,
+      "word": "三航母亮舰",
+      "onboard_time": 1669554579,
+      "rank": 29,
+      "category": "军事"
     },
     {
       "raw_hot": 263072,
@@ -1707,6 +1747,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 246817,
+      "num": 246817,
+      "word": "给大白实名也是为大白正名",
+      "onboard_time": 1669554457,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 245437,
       "num": 245437,
       "word": "女子16万买2车库精装修后入住",
@@ -1737,6 +1785,14 @@
       "onboard_time": 1669455038,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 240132,
+      "num": 240132,
+      "word": "卿卿日常解锁新副本",
+      "onboard_time": 1669555177,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 239498,
@@ -2003,6 +2059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 208567,
+      "num": 208567,
+      "word": "死亡之组乱了",
+      "onboard_time": 1669554996,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 205332,
       "num": 205332,
       "word": "周深cos哪吒好可爱",
@@ -2027,12 +2091,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 202722,
+      "num": 202722,
+      "word": "赵一德同志任陕西省委书记",
+      "onboard_time": 1669553676,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 202196,
       "num": 190247,
       "word": "命韵峋环LP收复进程",
       "onboard_time": 1669533810,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 201985,
+      "num": 201985,
+      "word": "AG战胜RW",
+      "onboard_time": 1669554278,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 200997,
@@ -2059,14 +2139,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 196660,
-      "num": 196660,
-      "word": "尹峥雨中下跪vs祺贵人雨中下跪",
-      "onboard_time": 1669552595,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 194822,
       "num": 194822,
       "word": "DYG战胜TTG",
@@ -2089,6 +2161,14 @@
       "onboard_time": 1669549231,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 193123,
+      "num": 193123,
+      "word": "一口气炫4集风吹半夏",
+      "onboard_time": 1669555299,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 193049,
@@ -2371,6 +2451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 165121,
+      "num": 165121,
+      "word": "一诺状态好",
+      "onboard_time": 1669555237,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 163579,
       "num": 163579,
       "word": "代糖究竟是什么真的健康吗",
@@ -2457,6 +2545,22 @@
       "onboard_time": 1669491674,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 153747,
+      "num": 153747,
+      "word": "世界杯门将101",
+      "onboard_time": 1669554457,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 151337,
+      "num": 151337,
+      "word": "我国成功发射遥感三十六号卫星",
+      "onboard_time": 1669555478,
+      "rank": 49,
+      "category": "科技"
     },
     {
       "raw_hot": 151316,

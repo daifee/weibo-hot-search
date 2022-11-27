@@ -1,0 +1,410 @@
+{
+  "runTime": 1669555489522,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3361392,
+        "num": 3361392,
+        "word": "广州海珠近万人有疏解意愿",
+        "onboard_time": 1669550740,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1315549,
+        "num": 1315549,
+        "word": "唐梓预测",
+        "onboard_time": 1669544372,
+        "rank": 1,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 35440,
+        "num": 1253585,
+        "word": "推动经济全球化不断向前",
+        "onboard_time": 1669530871,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1248044,
+        "num": 1248044,
+        "word": "7岁女孩高烧一周被确诊亲吻病",
+        "onboard_time": 1669552836,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1244028,
+        "num": 1244028,
+        "word": "尹岐被贬",
+        "onboard_time": 1669553434,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1097861,
+        "num": 1097861,
+        "word": "深圳倡导市民下周居家办公",
+        "onboard_time": 1669550677,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1060202,
+        "num": 1060202,
+        "word": "女生分手后骗妈妈和内马尔谈恋爱",
+        "onboard_time": 1669549955,
+        "rank": 6,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 946412,
+        "num": 946412,
+        "word": "婆婆不让去月子中心女子二胎不给探望",
+        "onboard_time": 1669544011,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 899142,
+        "num": 899142,
+        "word": "男子饿了2天拜托交警买个面包",
+        "onboard_time": 1669551336,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 888274,
+        "num": 888274,
+        "word": "北京严禁采取硬质隔离硬质围挡等措施",
+        "onboard_time": 1669546300,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1192969,
+        "num": 854011,
+        "word": "父母带2岁孩子去方舱邻居纷纷挽留",
+        "onboard_time": 1669550075,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 712104,
+        "num": 712104,
+        "word": "日本0比1哥斯达黎加",
+        "onboard_time": 1669550376,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 687554,
+        "num": 687554,
+        "word": "世界杯死亡之组日本无望提前突围",
+        "onboard_time": 1669552655,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 584751,
+        "num": 584751,
+        "word": "兰州通报核酸采样人员阳性",
+        "onboard_time": 1669536575,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 519159,
+        "num": 519159,
+        "word": "比利时vs摩洛哥",
+        "onboard_time": 1669551995,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 513396,
+        "num": 513396,
+        "word": "邓紫棋在刘畊宏直播间跳操",
+        "onboard_time": 1669554036,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 503890,
+        "num": 503890,
+        "word": "有一个不爱责怪的伴侣真好",
+        "onboard_time": 1669548573,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 489279,
+        "num": 489279,
+        "word": "曝阿根廷球迷强占中国球迷座位",
+        "onboard_time": 1669541012,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 467533,
+        "num": 467533,
+        "word": "风吹半夏",
+        "onboard_time": 1669549657,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 459118,
+        "num": 459118,
+        "word": "北京本轮疫情呈多点多面发展态势",
+        "onboard_time": 1669552356,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 421620,
+        "num": 421620,
+        "word": "上官婧问尹岐心里还有没有郝葭",
+        "onboard_time": 1669554036,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 338981,
+        "num": 338981,
+        "word": "赵樱子说姐来无限超越班负责超美",
+        "onboard_time": 1669551515,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 393089,
+        "num": 333959,
+        "word": "尹峥李薇带娃",
+        "onboard_time": 1669552537,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 317054,
+        "num": 317054,
+        "word": "北京新增本土感染者1781例",
+        "onboard_time": 1669544431,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 337478,
+        "num": 316395,
+        "word": "尹峥淋雨下跪",
+        "onboard_time": 1669546412,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 312828,
+        "num": 312828,
+        "word": "女子炸糖糕等全炸飞才敢关火",
+        "onboard_time": 1669546234,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297264,
+        "num": 297264,
+        "word": "李光洁直播找刘昊然借钱",
+        "onboard_time": 1669555116,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 290339,
+        "num": 290339,
+        "word": "沈阳五里河李铁雕像被拆除拉走",
+        "onboard_time": 1669551697,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266593,
+        "num": 266593,
+        "word": "武汉市全面推行疫情防控场所码",
+        "onboard_time": 1669527811,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265464,
+        "num": 265464,
+        "word": "三航母亮舰",
+        "onboard_time": 1669554579,
+        "rank": 29,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 786832,
+        "num": 265104,
+        "word": "腾讯会议崩了",
+        "onboard_time": 1669549115,
+        "rank": 30,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 265528,
+        "num": 263666,
+        "word": "尹峥雨中下跪vs祺贵人雨中下跪",
+        "onboard_time": 1669552595,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 261292,
+        "num": 261292,
+        "word": "守门员都看不下去了",
+        "onboard_time": 1669550618,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 253633,
+        "num": 253633,
+        "word": "香菜原来也叫芫荽",
+        "onboard_time": 1669546836,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 246817,
+        "num": 246817,
+        "word": "给大白实名也是为大白正名",
+        "onboard_time": 1669554457,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240132,
+        "num": 240132,
+        "word": "卿卿日常解锁新副本",
+        "onboard_time": 1669555177,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 224694,
+        "num": 224694,
+        "word": "日本球迷",
+        "onboard_time": 1669545812,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 212310,
+        "num": 212310,
+        "word": "父亲当面吃完女儿偷倒剩饭",
+        "onboard_time": 1669540893,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208567,
+        "num": 208567,
+        "word": "死亡之组乱了",
+        "onboard_time": 1669554996,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205814,
+        "num": 205814,
+        "word": "女子定错位外卖员怒斥倒八辈子霉",
+        "onboard_time": 1669542995,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205790,
+        "num": 205790,
+        "word": "无畏 这次为艺术奉献了",
+        "onboard_time": 1669551336,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 202722,
+        "num": 202722,
+        "word": "赵一德同志任陕西省委书记",
+        "onboard_time": 1669553676,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201985,
+        "num": 201985,
+        "word": "AG战胜RW",
+        "onboard_time": 1669554278,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 199973,
+        "num": 199973,
+        "word": "35岁女子从上海回老家过田园生活",
+        "onboard_time": 1669544551,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193123,
+        "num": 193123,
+        "word": "一口气炫4集风吹半夏",
+        "onboard_time": 1669555299,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 190701,
+        "num": 190701,
+        "word": "医生下班后抽空给自己做了个手术",
+        "onboard_time": 1669543892,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165121,
+        "num": 165121,
+        "word": "一诺状态好",
+        "onboard_time": 1669555237,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 163890,
+        "num": 163890,
+        "word": "gemini 毒奶",
+        "onboard_time": 1669547136,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 153747,
+        "num": 153747,
+        "word": "世界杯门将101",
+        "onboard_time": 1669554457,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151337,
+        "num": 151337,
+        "word": "我国成功发射遥感三十六号卫星",
+        "onboard_time": 1669555478,
+        "rank": 49,
+        "category": "科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚定信心抓实抓细疫情防控各项工作#"
+    }
+  }
+}
