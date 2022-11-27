@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1669570431292,
+  "endTime": 1669573392214,
   "band_list": [
     {
       "raw_hot": 36651023,
@@ -18916,7 +18916,7 @@
     },
     {
       "raw_hot": 436531,
-      "num": 303844,
+      "num": 387891,
       "word": "桂林一医生被指急诊室猥亵患者",
       "onboard_time": 1669567771,
       "rank": 18,
@@ -25299,6 +25299,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 337334,
+      "num": 212416,
+      "word": "卡塔尔世界杯有多冷",
+      "onboard_time": 1669569444,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 337100,
       "num": 337100,
       "word": "行尸走肉全剧大结局",
@@ -25825,6 +25833,14 @@
       "onboard_time": 1669197335,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 330728,
+      "num": 191459,
+      "word": "梅西接近加盟迈阿密国际",
+      "onboard_time": 1669570882,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 330726,
@@ -26833,6 +26849,14 @@
       "onboard_time": 1668409765,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 318146,
+      "num": 318146,
+      "word": "克罗地亚好丝滑",
+      "onboard_time": 1669570342,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 318122,
@@ -30169,6 +30193,14 @@
       "onboard_time": 1667604740,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 280525,
+      "num": 280525,
+      "word": "克罗地亚半场2比1加拿大",
+      "onboard_time": 1669569025,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 280484,
@@ -45163,14 +45195,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 163320,
-      "num": 148345,
-      "word": "卡塔尔世界杯有多冷",
-      "onboard_time": 1669569444,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 163178,
       "num": 163178,
       "word": "辛吉飞开通微博",
@@ -46169,14 +46193,6 @@
       "onboard_time": 1668160835,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 158173,
-      "num": 148123,
-      "word": "克罗地亚半场2比1加拿大",
-      "onboard_time": 1669569025,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 158081,
@@ -54259,6 +54275,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 112572,
+      "num": 112572,
+      "word": "本届世界杯最快进球",
+      "onboard_time": 1669571121,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 112448,
       "num": 112448,
       "word": "林高远周启豪4比2向鹏袁励岑",
@@ -56065,6 +56089,14 @@
       "onboard_time": 1668856287,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 101459,
+      "num": 101459,
+      "word": "克罗地亚4比1加拿大",
+      "onboard_time": 1669572559,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 101288,
@@ -58819,14 +58851,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 84147,
-      "num": 84147,
-      "word": "克罗地亚好丝滑",
-      "onboard_time": 1669570342,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 84081,
       "num": 1692289,
       "word": "卫星视角下湿地城市的生态美",
@@ -61057,6 +61081,14 @@
       "onboard_time": 1667455584,
       "rank": 48,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 56739,
+      "num": 56739,
+      "word": "世界杯小组出线情况乱成一锅粥了",
+      "onboard_time": 1669569088,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 56734,

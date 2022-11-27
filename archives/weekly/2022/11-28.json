@@ -1,6 +1,6 @@
 {
   "startTime": 1669566398830,
-  "endTime": 1669570431292,
+  "endTime": 1669573392214,
   "band_list": [
     {
       "raw_hot": 11045761,
@@ -132,7 +132,7 @@
     },
     {
       "raw_hot": 436531,
-      "num": 303844,
+      "num": 387891,
       "word": "桂林一医生被指急诊室猥亵患者",
       "onboard_time": 1669567771,
       "rank": 18,
@@ -211,6 +211,22 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 337334,
+      "num": 212416,
+      "word": "卡塔尔世界杯有多冷",
+      "onboard_time": 1669569444,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 330728,
+      "num": 191459,
+      "word": "梅西接近加盟迈阿密国际",
+      "onboard_time": 1669570882,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 320940,
       "num": 320940,
       "word": "MMA回应IVE组合VCR抄袭争议",
@@ -232,6 +248,14 @@
       "word": "比利时到底怎么了",
       "onboard_time": 1669565804,
       "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 318146,
+      "num": 318146,
+      "word": "克罗地亚好丝滑",
+      "onboard_time": 1669570342,
+      "rank": 46,
       "category": "体育"
     },
     {
@@ -257,6 +281,14 @@
       "onboard_time": 1669557580,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 280525,
+      "num": 280525,
+      "word": "克罗地亚半场2比1加拿大",
+      "onboard_time": 1669569025,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 277188,
@@ -371,22 +403,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 163320,
-      "num": 148345,
-      "word": "卡塔尔世界杯有多冷",
-      "onboard_time": 1669569444,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 158173,
-      "num": 148123,
-      "word": "克罗地亚半场2比1加拿大",
-      "onboard_time": 1669569025,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 155043,
       "num": 155043,
       "word": "郭晓婷复古港风珍珠发带造型",
@@ -459,11 +475,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 84147,
-      "num": 84147,
-      "word": "克罗地亚好丝滑",
-      "onboard_time": 1669570342,
-      "rank": 46,
+      "raw_hot": 112572,
+      "num": 112572,
+      "word": "本届世界杯最快进球",
+      "onboard_time": 1669571121,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 101459,
+      "num": 101459,
+      "word": "克罗地亚4比1加拿大",
+      "onboard_time": 1669572559,
+      "rank": 29,
       "category": "体育"
     },
     {
@@ -472,6 +496,14 @@
       "word": "克拉马里奇破门",
       "onboard_time": 1669569147,
       "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 56739,
+      "num": 56739,
+      "word": "世界杯小组出线情况乱成一锅粥了",
+      "onboard_time": 1669569088,
+      "rank": 44,
       "category": "体育"
     },
     {
