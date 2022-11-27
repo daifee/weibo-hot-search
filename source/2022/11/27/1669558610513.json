@@ -1,0 +1,410 @@
+{
+  "runTime": 1669558610513,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2666434,
+        "num": 2666434,
+        "word": "广州海珠近万人有疏解意愿",
+        "onboard_time": 1669550740,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1836068,
+        "num": 1836068,
+        "word": "7岁女孩高烧一周被确诊亲吻病",
+        "onboard_time": 1669552836,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36454,
+        "num": 1732024,
+        "word": "推动经济全球化不断向前",
+        "onboard_time": 1669530871,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1665675,
+        "num": 1665675,
+        "word": "死亡之组乱了",
+        "onboard_time": 1669554996,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1502245,
+        "num": 1502245,
+        "word": "给大白实名也是为大白正名",
+        "onboard_time": 1669554457,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1182516,
+        "num": 1182516,
+        "word": "北京严禁采取硬质隔离硬质围挡等措施",
+        "onboard_time": 1669546300,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1001362,
+        "num": 1001362,
+        "word": "唐梓预测",
+        "onboard_time": 1669544372,
+        "rank": 6,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 974040,
+        "num": 974040,
+        "word": "男子饿了2天拜托交警买个面包",
+        "onboard_time": 1669551336,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 851187,
+        "num": 851187,
+        "word": "尹岐被贬",
+        "onboard_time": 1669553434,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 836708,
+        "num": 836708,
+        "word": "武汉呼吁市民同心合力群防群控",
+        "onboard_time": 1669557640,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 793518,
+        "num": 793518,
+        "word": "父母带2岁孩子去方舱邻居纷纷挽留",
+        "onboard_time": 1669550075,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 751164,
+        "num": 751164,
+        "word": "严禁随意封控等各类层层加码行为",
+        "onboard_time": 1669556200,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 691691,
+        "num": 691691,
+        "word": "深圳倡导市民下周居家办公",
+        "onboard_time": 1669550677,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 685606,
+        "num": 685606,
+        "word": "婆婆不让去月子中心女子二胎不给探望",
+        "onboard_time": 1669544011,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 645382,
+        "num": 645382,
+        "word": "邓紫棋在刘畊宏直播间跳操",
+        "onboard_time": 1669554036,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 564296,
+        "num": 564296,
+        "word": "女生分手后骗妈妈和内马尔谈恋爱",
+        "onboard_time": 1669549955,
+        "rank": 15,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 551806,
+        "num": 551806,
+        "word": "尹峥李薇带娃",
+        "onboard_time": 1669552537,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 483897,
+        "num": 483897,
+        "word": "潘粤明希望国足与欧美球队过招",
+        "onboard_time": 1669556077,
+        "rank": 17,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 483695,
+        "num": 483695,
+        "word": "比利时vs摩洛哥",
+        "onboard_time": 1669551995,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 457496,
+        "num": 457496,
+        "word": "武汉疫情防控",
+        "onboard_time": 1669558119,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 436943,
+        "num": 436943,
+        "word": "世界杯死亡之组日本无望提前突围",
+        "onboard_time": 1669552655,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 425926,
+        "num": 425926,
+        "word": "兰州通报核酸采样人员阳性",
+        "onboard_time": 1669536575,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 400510,
+        "num": 400510,
+        "word": "北京本轮疫情呈多点多面发展态势",
+        "onboard_time": 1669552356,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 397676,
+        "num": 397676,
+        "word": "上官婧问尹岐心里还有没有郝葭",
+        "onboard_time": 1669554036,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 387585,
+        "num": 387585,
+        "word": "200斤女子减重90斤找到男朋友",
+        "onboard_time": 1669557640,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 383971,
+        "num": 383971,
+        "word": "三航母亮舰",
+        "onboard_time": 1669554579,
+        "rank": 25,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 373487,
+        "num": 373487,
+        "word": "有一个不爱责怪的伴侣真好",
+        "onboard_time": 1669548573,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 354669,
+        "num": 354669,
+        "word": "世界杯门将101",
+        "onboard_time": 1669554457,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 344515,
+        "num": 344515,
+        "word": "吃个炒饭给我整得热血澎湃",
+        "onboard_time": 1669557341,
+        "rank": 28,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 316961,
+        "num": 316961,
+        "word": "曝阿根廷球迷强占中国球迷座位",
+        "onboard_time": 1669541012,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 441251,
+        "num": 315352,
+        "word": "朱韵穿了李峋的衬衫",
+        "onboard_time": 1669558119,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 367566,
+        "num": 314694,
+        "word": "西安900路公交女司机因高颜值走红",
+        "onboard_time": 1669557580,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313542,
+        "num": 313542,
+        "word": "许半夏的发箍",
+        "onboard_time": 1669555601,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 308770,
+        "num": 308770,
+        "word": "比利时门将",
+        "onboard_time": 1669557765,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 302323,
+        "num": 302323,
+        "word": "比利时半场0比0摩洛哥",
+        "onboard_time": 1669557520,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 291879,
+        "num": 291879,
+        "word": "元英为李薇改了规矩",
+        "onboard_time": 1669558001,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 290538,
+        "num": 290538,
+        "word": "摩洛哥越位",
+        "onboard_time": 1669557283,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 272152,
+        "num": 272152,
+        "word": "风吹半夏",
+        "onboard_time": 1669549657,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 268150,
+        "num": 268150,
+        "word": "女子炸糖糕等全炸飞才敢关火",
+        "onboard_time": 1669546234,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266508,
+        "num": 266508,
+        "word": "命韵峋环同居生活花絮",
+        "onboard_time": 1669555540,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 259143,
+        "num": 259143,
+        "word": "王嘉尔世巡第三天舞台视频",
+        "onboard_time": 1669557520,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 253427,
+        "num": 253427,
+        "word": "陈飞宇片场日常vlog",
+        "onboard_time": 1669557397,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 244805,
+        "num": 244805,
+        "word": "有一种友谊叫钢三角",
+        "onboard_time": 1669556254,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 223188,
+        "num": 223188,
+        "word": "腾讯会议崩了",
+        "onboard_time": 1669549115,
+        "rank": 43,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 216548,
+        "num": 216548,
+        "word": "北京新增本土感染者1781例",
+        "onboard_time": 1669544431,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198474,
+        "num": 198474,
+        "word": "父亲当面吃完女儿偷倒剩饭",
+        "onboard_time": 1669540893,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197993,
+        "num": 197993,
+        "word": "香菜原来也叫芫荽",
+        "onboard_time": 1669546836,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 188944,
+        "num": 188944,
+        "word": "张远会唱张信哲的一百多首歌",
+        "onboard_time": 1669556254,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187213,
+        "num": 187213,
+        "word": "社牛宝宝嘶吼式卖鱼10分钟售罄",
+        "onboard_time": 1669558481,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169703,
+        "num": 169703,
+        "word": "AG战胜RW",
+        "onboard_time": 1669554278,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚定信心抓实抓细疫情防控各项工作#"
+    }
+  }
+}
