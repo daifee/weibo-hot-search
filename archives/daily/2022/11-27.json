@@ -1,6 +1,6 @@
 {
   "startTime": 1669479991529,
-  "endTime": 1669533441090,
+  "endTime": 1669534423174,
   "band_list": [
     {
       "raw_hot": 3822944,
@@ -51,7 +51,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 2024653,
+      "raw_hot": 2115348,
       "num": 576007,
       "word": "女生呵斥图书馆放不雅视频男子遭回怼",
       "onboard_time": 1669529132,
@@ -203,20 +203,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1144517,
+      "num": 1144517,
+      "word": "陆贞这手劲还挺大",
+      "onboard_time": 1669530031,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1134597,
       "num": 1134597,
       "word": "乌鲁木齐明起逐步恢复城市公共交通",
       "onboard_time": 1669519594,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1101807,
-      "num": 1101807,
-      "word": "陆贞这手劲还挺大",
-      "onboard_time": 1669530031,
-      "rank": 29,
-      "category": "影视"
     },
     {
       "raw_hot": 1012904,
@@ -355,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 671857,
+      "num": 671857,
+      "word": "杨幂现阶段作为演员的野心是满分",
+      "onboard_time": 1669533511,
+      "rank": 5,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 670391,
       "num": 670391,
       "word": "官方通报网传顺德核酸聚集踩踏事件",
@@ -393,6 +401,14 @@
       "onboard_time": 1669474912,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 585896,
+      "num": 393789,
+      "word": "苏醒曾因梅西拉黑黄健翔",
+      "onboard_time": 1669532192,
+      "rank": 15,
+      "category": "体育,综艺"
     },
     {
       "raw_hot": 562218,
@@ -520,6 +536,14 @@
       "word": "姆巴佩破门",
       "onboard_time": 1669484182,
       "rank": 6,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 498054,
+      "num": 498054,
+      "word": "压力给到德国",
+      "onboard_time": 1669529493,
+      "rank": 40,
       "category": "体育"
     },
     {
@@ -675,14 +699,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 380527,
-      "num": 380527,
-      "word": "压力给到德国",
-      "onboard_time": 1669529493,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 377727,
       "num": 377727,
       "word": "黄健翔说阿根廷压力太大了",
@@ -699,12 +715,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 373483,
-      "num": 353846,
-      "word": "苏醒曾因梅西拉黑黄健翔",
-      "onboard_time": 1669532192,
-      "rank": 15,
-      "category": "体育,综艺"
+      "raw_hot": 371836,
+      "num": 371836,
+      "word": "8岁女生立定跳远1米78惊呆老师",
+      "onboard_time": 1669530153,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 368452,
@@ -721,6 +737,14 @@
       "onboard_time": 1669499234,
       "rank": 11,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 361149,
+      "num": 361149,
+      "word": "狗狗因好奇掉河道师傅用挖机救出",
+      "onboard_time": 1669530988,
+      "rank": 46,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 356824,
@@ -753,14 +777,6 @@
       "onboard_time": 1669504641,
       "rank": 18,
       "category": "影视"
-    },
-    {
-      "raw_hot": 341482,
-      "num": 341482,
-      "word": "8岁女生立定跳远1米78惊呆老师",
-      "onboard_time": 1669530153,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 338042,
@@ -801,14 +817,6 @@
       "onboard_time": 1669453960,
       "rank": 21,
       "category": "体育,幽默"
-    },
-    {
-      "raw_hot": 320188,
-      "num": 320188,
-      "word": "狗狗因好奇掉河道师傅用挖机救出",
-      "onboard_time": 1669530988,
-      "rank": 46,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 317469,
@@ -859,6 +867,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 298300,
+      "num": 298300,
+      "word": "男子为女友准备一后备箱滑雪装备",
+      "onboard_time": 1669532611,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 297588,
       "num": 297588,
       "word": "猫咪拉肚子主人熏艾灸条调理",
@@ -896,6 +912,14 @@
       "word": "梅西带领阿根廷球迷胜利大合唱",
       "onboard_time": 1669514376,
       "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 290872,
+      "num": 290872,
+      "word": "很难不喜欢内马尔",
+      "onboard_time": 1669531050,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -971,14 +995,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 268573,
-      "num": 268573,
-      "word": "很难不喜欢内马尔",
-      "onboard_time": 1669531050,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 263072,
       "num": 263072,
       "word": "法国终结卫冕冠军出局魔咒",
@@ -1008,6 +1024,14 @@
       "word": "点燃我温暖你",
       "onboard_time": 1669519175,
       "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 250330,
+      "num": 200729,
+      "word": "白敬亭田曦薇卿卿日常开府宴花絮",
+      "onboard_time": 1669533271,
+      "rank": 44,
       "category": "影视"
     },
     {
@@ -1171,6 +1195,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 215958,
+      "num": 215958,
+      "word": "小鬼毕业记现场直拍",
+      "onboard_time": 1669534111,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 215857,
       "num": 215857,
       "word": "游泳教练水中抛扔幼儿险撞台阶",
@@ -1243,10 +1275,10 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 195708,
-      "num": 195708,
-      "word": "男子为女友准备一后备箱滑雪装备",
-      "onboard_time": 1669532611,
+      "raw_hot": 194125,
+      "num": 194125,
+      "word": "江苏一大学发现全球最大天然碳洋葱",
+      "onboard_time": 1669533810,
       "rank": 32,
       "category": "社会新闻"
     },
@@ -1267,12 +1299,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 191002,
+      "num": 191002,
+      "word": "卿卿日常剧组氛围好欢乐",
+      "onboard_time": 1669533872,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 190274,
       "num": 190274,
       "word": "BLG Doinb",
       "onboard_time": 1669463861,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 190247,
+      "num": 190247,
+      "word": "命韵峋环LP收复进程",
+      "onboard_time": 1669533810,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 189547,
+      "num": 189547,
+      "word": "7旬奶奶为修路工人煮糖水荷包蛋",
+      "onboard_time": 1669533572,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 189417,
@@ -1289,6 +1345,22 @@
       "onboard_time": 1669479937,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 187318,
+      "num": 187318,
+      "word": "航海王红发歌姬票根好炫",
+      "onboard_time": 1669532791,
+      "rank": 36,
+      "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 184526,
+      "num": 155488,
+      "word": "范世錡无限超越班骑电瓶车上学",
+      "onboard_time": 1669534352,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 182806,
@@ -1427,14 +1499,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 165173,
-      "num": 165173,
-      "word": "航海王红发歌姬票根好炫",
-      "onboard_time": 1669532791,
-      "rank": 36,
-      "category": "影视,动漫"
-    },
-    {
       "raw_hot": 163579,
       "num": 163579,
       "word": "代糖究竟是什么真的健康吗",
@@ -1507,6 +1571,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 149521,
+      "num": 149521,
+      "word": "重回90年代你会如何赚钱",
+      "onboard_time": 1669533511,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 146397,
       "num": 146397,
       "word": "他在拍一种很新的拍照方式",
@@ -1539,14 +1611,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 141707,
-      "num": 141707,
-      "word": "白敬亭田曦薇卿卿日常开府宴花絮",
-      "onboard_time": 1669533271,
-      "rank": 44,
-      "category": "影视"
-    },
-    {
       "raw_hot": 140980,
       "num": 140980,
       "word": "厦门马拉松",
@@ -1559,6 +1623,30 @@
       "num": 137794,
       "word": "4少年叠罗汉式骑摩托不慎滑倒",
       "onboard_time": 1669523793,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 137735,
+      "num": 137735,
+      "word": "蜜雪冰城客服回应喝出虫子店家态度消极",
+      "onboard_time": 1669533931,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 136412,
+      "num": 136412,
+      "word": "爸爸一声吼吓到孩子却救了她",
+      "onboard_time": 1669534352,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 135012,
+      "num": 135012,
+      "word": "孙子在82岁奶奶枕边安开关方便起夜",
+      "onboard_time": 1669534171,
       "rank": 48,
       "category": "社会新闻"
     },
