@@ -1,7 +1,15 @@
 {
   "startTime": 1669479991529,
-  "endTime": 1669505663115,
+  "endTime": 1669513804103,
   "band_list": [
+    {
+      "raw_hot": 3284249,
+      "num": 3284249,
+      "word": "梅西破门",
+      "onboard_time": 1669495452,
+      "rank": 0,
+      "category": "体育"
+    },
     {
       "raw_hot": 3152060,
       "num": 3152060,
@@ -9,14 +17,6 @@
       "onboard_time": 1669477430,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2544387,
-      "num": 2544387,
-      "word": "梅西破门",
-      "onboard_time": 1669495452,
-      "rank": 0,
-      "category": "体育"
     },
     {
       "raw_hot": 2508136,
@@ -35,6 +35,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1939625,
+      "num": 1476745,
+      "word": "社区否认一混阳志愿者给市民做核酸",
+      "onboard_time": 1669509150,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1826595,
       "num": 232830,
       "word": "人民锐评",
@@ -43,11 +51,35 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1769824,
+      "num": 1769824,
+      "word": "北京新增社会面806例",
+      "onboard_time": 1669509390,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1613206,
       "num": 1613206,
       "word": "北京理工大学一名学生核酸呈阳性",
       "onboard_time": 1669473888,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1452149,
+      "num": 1452149,
+      "word": "男家教猥亵10岁女童被判终身禁业",
+      "onboard_time": 1669507468,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1327997,
+      "num": 1327997,
+      "word": "郑州30日将转入常态化动态清零",
+      "onboard_time": 1669511072,
+      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -123,6 +155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 688322,
+      "num": 688322,
+      "word": "郑好办致歉可查奥特曼核酸结果",
+      "onboard_time": 1669505302,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 670391,
       "num": 670391,
       "word": "官方通报网传顺德核酸聚集踩踏事件",
@@ -155,6 +195,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 588015,
+      "num": 588015,
+      "word": "IVEmmaVCR疑似抄袭Redvelvet",
+      "onboard_time": 1669513053,
+      "rank": 8,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 580514,
+      "num": 539541,
+      "word": "蜜雪冰城被曝喝出虫子商家态度引争议",
+      "onboard_time": 1669512395,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 562218,
       "num": 562218,
       "word": "阿根廷2比0墨西哥",
@@ -179,12 +235,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 544799,
+      "num": 538862,
+      "word": "11月26日新增本土无症状35858例",
+      "onboard_time": 1669512515,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 542508,
+      "num": 542508,
+      "word": "阿根廷升至小组第二",
+      "onboard_time": 1669507827,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 539902,
       "num": 339411,
       "word": "梅西一定要赢啊",
       "onboard_time": 1669493235,
       "rank": 11,
       "category": "体育,幽默"
+    },
+    {
+      "raw_hot": 536950,
+      "num": 536950,
+      "word": "姐姐给被隔离弟弟送饭狗跟着抢食",
+      "onboard_time": 1669507346,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 534504,
@@ -201,6 +281,14 @@
       "onboard_time": 1669482925,
       "rank": 45,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 521465,
+      "num": 521465,
+      "word": "男子炸葱油灶台火光变成绿色",
+      "onboard_time": 1669510293,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 511305,
@@ -235,12 +323,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 469381,
+      "num": 469381,
+      "word": "美国禁止华为中兴等5家中企在美销售设备",
+      "onboard_time": 1669493714,
+      "rank": 49,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 453253,
       "num": 453253,
       "word": "内马尔晒脚踝伤势",
       "onboard_time": 1669495875,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 452940,
+      "num": 452940,
+      "word": "每天8杯水或超过大多数人真正需水量",
+      "onboard_time": 1669489756,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 445244,
@@ -259,20 +363,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 418343,
-      "num": 418343,
-      "word": "美国禁止华为中兴等5家中企在美销售设备",
-      "onboard_time": 1669493714,
-      "rank": 49,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 384209,
       "num": 384209,
       "word": "IVE今天赢麻了",
       "onboard_time": 1669472516,
       "rank": 18,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 377727,
+      "num": 377727,
+      "word": "黄健翔说阿根廷压力太大了",
+      "onboard_time": 1669507284,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 373981,
@@ -291,20 +395,20 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 364471,
+      "num": 364471,
+      "word": "张远终于圆梦唱了动漫歌",
+      "onboard_time": 1669511554,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 356824,
       "num": 356824,
       "word": "姆巴佩太强了",
       "onboard_time": 1669485861,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 340663,
-      "num": 340663,
-      "word": "每天8杯水或超过大多数人真正需水量",
-      "onboard_time": 1669489756,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 332180,
@@ -331,6 +435,14 @@
       "category": "体育,幽默"
     },
     {
+      "raw_hot": 324397,
+      "num": 324397,
+      "word": "卿卿日常原著里的李薇",
+      "onboard_time": 1669504641,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 317469,
       "num": 317469,
       "word": "姆巴佩梅开二度",
@@ -353,6 +465,22 @@
       "onboard_time": 1669496657,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 307789,
+      "num": 307789,
+      "word": "十块的奶茶只喝到了两块五",
+      "onboard_time": 1669513233,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 297588,
+      "num": 297588,
+      "word": "猫咪拉肚子主人熏艾灸条调理",
+      "onboard_time": 1669507647,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 293518,
@@ -392,6 +520,14 @@
       "word": "为梅西熬夜",
       "onboard_time": 1669482029,
       "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 269938,
+      "num": 269938,
+      "word": "马宁好帅",
+      "onboard_time": 1669506805,
+      "rank": 27,
       "category": "体育"
     },
     {
@@ -441,14 +577,6 @@
       "onboard_time": 1669455038,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 234130,
-      "num": 234130,
-      "word": "卿卿日常原著里的李薇",
-      "onboard_time": 1669504641,
-      "rank": 18,
-      "category": "影视"
     },
     {
       "raw_hot": 232868,
@@ -531,6 +659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 210320,
+      "num": 210320,
+      "word": "猫咪的本质是爱看热闹",
+      "onboard_time": 1669510712,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 209871,
       "num": 209871,
       "word": "北京新增本土感染者2454例",
@@ -553,6 +689,14 @@
       "onboard_time": 1669482152,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 190526,
+      "num": 190526,
+      "word": "男子偷2个榴莲被抓称太香没忍住",
+      "onboard_time": 1669512935,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 190274,
@@ -675,12 +819,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 159849,
+      "num": 159849,
+      "word": "王栎鑫清唱最好的我们",
+      "onboard_time": 1669511732,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 156598,
       "num": 156598,
       "word": "阿根廷vs墨西哥首发",
       "onboard_time": 1669491674,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 149243,
+      "num": 149243,
+      "word": "原来iOS16的新功能这么用",
+      "onboard_time": 1669511974,
+      "rank": 41,
+      "category": "科技"
     },
     {
       "raw_hot": 146397,
@@ -699,6 +859,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 133029,
+      "num": 133029,
+      "word": "女子失聪且患尿毒症求助消防站开锁",
+      "onboard_time": 1669497675,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 132342,
       "num": 43673,
       "word": "姆巴佩庆祝晋级",
@@ -715,12 +883,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 128402,
-      "num": 128402,
-      "word": "女子失聪且患尿毒症求助消防站开锁",
-      "onboard_time": 1669497675,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 128144,
+      "num": 128144,
+      "word": "白敬亭片场学说河南话",
+      "onboard_time": 1669505241,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 126242,
+      "num": 126242,
+      "word": "猫咪把心情写在脸上了",
+      "onboard_time": 1669512814,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 125804,
@@ -737,6 +913,38 @@
       "onboard_time": 1669496956,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 125612,
+      "num": 125612,
+      "word": "严浩翔晒正轨舞台花絮照",
+      "onboard_time": 1669512272,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 122593,
+      "num": 122593,
+      "word": "时代少年团无尽的冒险全开麦舞台",
+      "onboard_time": 1669513771,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 121759,
+      "num": 121759,
+      "word": "周深你好星期六美美舞台",
+      "onboard_time": 1669513771,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 121129,
+      "num": 121129,
+      "word": "72年前今天长津湖战役打响",
+      "onboard_time": 1669511675,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 117370,
@@ -803,14 +1011,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 81854,
-      "num": 81854,
-      "word": "郑好办致歉可查奥特曼核酸结果",
-      "onboard_time": 1669505302,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 71800,
       "num": 71800,
       "word": "养殖户给牛加热水槽被质疑没必要",
@@ -825,14 +1025,6 @@
       "onboard_time": 1669504459,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 63929,
-      "num": 63929,
-      "word": "白敬亭片场学说河南话",
-      "onboard_time": 1669505241,
-      "rank": 44,
-      "category": "影视"
     },
     {
       "raw_hot": 59442,
@@ -867,7 +1059,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 9675,
+      "raw_hot": 11225,
       "num": 1906282,
       "word": "多视角看歼15航母起降全过程",
       "onboard_time": 1669435239,
