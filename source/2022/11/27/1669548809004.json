@@ -1,0 +1,410 @@
+{
+  "runTime": 1669548809004,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1921328,
+        "num": 1921328,
+        "word": "兰州通报核酸采样人员阳性",
+        "onboard_time": 1669536575,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1591176,
+        "num": 1591176,
+        "word": "北京严禁采取硬质隔离硬质围挡等措施",
+        "onboard_time": 1669546300,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35301,
+        "num": 1570176,
+        "word": "推动经济全球化不断向前",
+        "onboard_time": 1669530871,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2297726,
+        "num": 1570090,
+        "word": "婆婆不让去月子中心女子二胎不给探望",
+        "onboard_time": 1669544011,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1568805,
+        "num": 1568805,
+        "word": "唐梓预测",
+        "onboard_time": 1669544372,
+        "rank": 4,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 1302863,
+        "num": 1302863,
+        "word": "曝阿根廷球迷强占中国球迷座位",
+        "onboard_time": 1669541012,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 861575,
+        "num": 861575,
+        "word": "北京新增本土感染者1781例",
+        "onboard_time": 1669544431,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 735782,
+        "num": 735782,
+        "word": "女子定错位外卖员怒斥倒八辈子霉",
+        "onboard_time": 1669542995,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 724497,
+        "num": 724497,
+        "word": "gemini 毒奶",
+        "onboard_time": 1669547136,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 635582,
+        "num": 635582,
+        "word": "日本半场0比0哥斯达黎加",
+        "onboard_time": 1669546412,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 616078,
+        "num": 616078,
+        "word": "武汉市全面推行疫情防控场所码",
+        "onboard_time": 1669527811,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 584683,
+        "num": 584683,
+        "word": "尹峥淋雨下跪",
+        "onboard_time": 1669546412,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 584381,
+        "num": 584381,
+        "word": "35岁女子从上海回老家过田园生活",
+        "onboard_time": 1669544551,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 568809,
+        "num": 568809,
+        "word": "如何保证核酸检测安全",
+        "onboard_time": 1669543951,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 558647,
+        "num": 558647,
+        "word": "围炉煮茶",
+        "onboard_time": 1669544792,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 496913,
+        "num": 496913,
+        "word": "父亲当面吃完女儿偷倒剩饭",
+        "onboard_time": 1669540893,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 481784,
+        "num": 481784,
+        "word": "李光洁说新剧是赵丽颖的最强辅助",
+        "onboard_time": 1669548278,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 449621,
+        "num": 449621,
+        "word": "日本球迷",
+        "onboard_time": 1669545812,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 419629,
+        "num": 419629,
+        "word": "女生呵斥图书馆放不雅视频男子遭回怼",
+        "onboard_time": 1669529132,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 399552,
+        "num": 399552,
+        "word": "日本vs哥斯达黎加",
+        "onboard_time": 1669541136,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 397812,
+        "num": 397812,
+        "word": "女子炸糖糕等全炸飞才敢关火",
+        "onboard_time": 1669546234,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 396394,
+        "num": 396394,
+        "word": "医生下班后抽空给自己做了个手术",
+        "onboard_time": 1669543892,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 381803,
+        "num": 381803,
+        "word": "当事妈妈回应婆婆给1岁孙女吃炒面",
+        "onboard_time": 1669542514,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290841,
+        "num": 290841,
+        "word": "女子回应卖饼12年给弟弟买房买车",
+        "onboard_time": 1669543114,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288538,
+        "num": 288538,
+        "word": "任艺飞以张艺兴为榜样",
+        "onboard_time": 1669547136,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 279708,
+        "num": 279708,
+        "word": "谷峤入职遭新同事欺负",
+        "onboard_time": 1669548698,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 263201,
+        "num": 263201,
+        "word": "香菜原来也叫芫荽",
+        "onboard_time": 1669546836,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 259147,
+        "num": 259147,
+        "word": "尹峥尹岐神仙兄弟情",
+        "onboard_time": 1669547915,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 234805,
+        "num": 234805,
+        "word": "流浪猫被女生投喂叼小鸟来报恩",
+        "onboard_time": 1669544674,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194800,
+        "num": 232032,
+        "word": "爸爸一声吼吓到孩子却救了她",
+        "onboard_time": 1669534352,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247695,
+        "num": 231837,
+        "word": "刘令姿说元英报仇十年不晚",
+        "onboard_time": 1669544551,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 230950,
+        "num": 230950,
+        "word": "曝李铁银行存款过亿",
+        "onboard_time": 1669526010,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 235842,
+        "num": 227542,
+        "word": "尹峥遭嫡长主陷害",
+        "onboard_time": 1669547671,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 223902,
+        "num": 223902,
+        "word": "RNG",
+        "onboard_time": 1669538915,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 220570,
+        "num": 220570,
+        "word": "卿卿日常",
+        "onboard_time": 1669539514,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 207647,
+        "num": 207647,
+        "word": "SEVENTEEN演唱会跳搓澡舞",
+        "onboard_time": 1669547254,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 206221,
+        "num": 206221,
+        "word": "时代少年团音乐会造型怼脸照",
+        "onboard_time": 1669547615,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 205852,
+        "num": 205852,
+        "word": "刘耀文录制无限超越班",
+        "onboard_time": 1669543770,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 203893,
+        "num": 203893,
+        "word": "有个忍不住送礼物男朋友的体验",
+        "onboard_time": 1669546538,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 203128,
+        "num": 203128,
+        "word": "女子按摩减肥致大出血进ICU切肾",
+        "onboard_time": 1669537537,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202224,
+        "num": 202224,
+        "word": "女子面试老板助理入职变KTV服务员",
+        "onboard_time": 1669541733,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190919,
+        "num": 190919,
+        "word": "北京疫情发布会",
+        "onboard_time": 1669541074,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185911,
+        "num": 185911,
+        "word": "Hero",
+        "onboard_time": 1669535131,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 181378,
+        "num": 181378,
+        "word": "真正的爱情应该是什么样的",
+        "onboard_time": 1669548634,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 172802,
+        "num": 172802,
+        "word": "有一个不爱责怪的伴侣真好",
+        "onboard_time": 1669548573,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 164602,
+        "num": 164602,
+        "word": "KPL",
+        "onboard_time": 1669545512,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 163073,
+        "num": 163073,
+        "word": "陆贞这手劲还挺大",
+        "onboard_time": 1669530031,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 162483,
+        "num": 162483,
+        "word": "男子买鸡蛋回家孵出几十只小鸡",
+        "onboard_time": 1669547496,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157637,
+        "num": 157637,
+        "word": "李薇永远会在家等尹峥",
+        "onboard_time": 1669548698,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 157373,
+        "num": 157373,
+        "word": "蔡文静彭冠英直播在线掉马甲",
+        "onboard_time": 1669547976,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚定信心抓实抓细疫情防控各项工作#"
+    }
+  }
+}
