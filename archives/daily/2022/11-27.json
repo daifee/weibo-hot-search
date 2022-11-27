@@ -1,6 +1,6 @@
 {
   "startTime": 1669479991529,
-  "endTime": 1669541623833,
+  "endTime": 1669544393501,
   "band_list": [
     {
       "raw_hot": 3822944,
@@ -139,6 +139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1689523,
+      "num": 1689523,
+      "word": "曝阿根廷球迷强占中国球迷座位",
+      "onboard_time": 1669541012,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1679607,
       "num": 1034645,
       "word": "官方回应重庆核酸志愿者是混阳消息不实",
@@ -201,6 +209,14 @@
       "onboard_time": 1669477667,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1173052,
+      "num": 1173052,
+      "word": "父亲当面吃完女儿偷倒剩饭",
+      "onboard_time": 1669540893,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1172141,
@@ -331,6 +347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 796384,
+      "num": 796384,
+      "word": "北京疫情发布会",
+      "onboard_time": 1669541074,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 753604,
       "num": 627006,
       "word": "蔡英文辞去民进党主席职务",
@@ -360,6 +384,14 @@
       "word": "梅西疯狂庆祝",
       "onboard_time": 1669499294,
       "rank": 4,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 719016,
+      "num": 719016,
+      "word": "日本vs哥斯达黎加",
+      "onboard_time": 1669541136,
+      "rank": 35,
       "category": "体育"
     },
     {
@@ -643,6 +675,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 480230,
+      "num": 480230,
+      "word": "赵丽颖新剧演技爆发力",
+      "onboard_time": 1669542935,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 480200,
       "num": 480200,
       "word": "婆婆把豪宅庭院改菜地种菜",
@@ -715,6 +755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 443410,
+      "num": 443410,
+      "word": "徐璐说初来社死请多关照",
+      "onboard_time": 1669544252,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 432768,
       "num": 432768,
       "word": "命韵峋环复仇预告",
@@ -747,11 +795,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 413770,
+      "num": 413770,
+      "word": "刘耀文录制无限超越班",
+      "onboard_time": 1669543770,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 411152,
       "num": 411152,
       "word": "男子偷2个榴莲被抓称太香没忍住",
       "onboard_time": 1669512935,
       "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 408677,
+      "num": 408677,
+      "word": "女子定错位外卖员怒斥倒八辈子霉",
+      "onboard_time": 1669542995,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -761,6 +825,14 @@
       "onboard_time": 1669528173,
       "rank": 24,
       "category": "教育"
+    },
+    {
+      "raw_hot": 398514,
+      "num": 398514,
+      "word": "女子面试老板助理入职变KTV服务员",
+      "onboard_time": 1669541733,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 397214,
@@ -785,6 +857,14 @@
       "onboard_time": 1669521515,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 392216,
+      "num": 392216,
+      "word": "当事妈妈回应婆婆给1岁孙女吃炒面",
+      "onboard_time": 1669542514,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 389919,
@@ -875,12 +955,28 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 357819,
+      "num": 357819,
+      "word": "RedVelvet新歌预告视频",
+      "onboard_time": 1669542814,
+      "rank": 19,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 356824,
       "num": 356824,
       "word": "姆巴佩太强了",
       "onboard_time": 1669485861,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 356239,
+      "num": 356239,
+      "word": "卿卿日常",
+      "onboard_time": 1669539514,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 353792,
@@ -921,14 +1017,6 @@
       "onboard_time": 1669535735,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 338644,
-      "num": 338644,
-      "word": "父亲当面吃完女儿偷倒剩饭",
-      "onboard_time": 1669540893,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 338042,
@@ -1065,6 +1153,14 @@
       "onboard_time": 1669507647,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 295482,
+      "num": 295482,
+      "word": "SEVENTEEN演唱会落花转场",
+      "onboard_time": 1669544252,
+      "rank": 24,
+      "category": "音乐"
     },
     {
       "raw_hot": 293970,
@@ -1291,6 +1387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 240716,
+      "num": 240716,
+      "word": "女子回应卖饼12年给弟弟买房买车",
+      "onboard_time": 1669543114,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 239498,
       "num": 162043,
       "word": "崔胜澈舞台爆发力",
@@ -1321,6 +1425,14 @@
       "onboard_time": 1669473710,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 232817,
+      "num": 109299,
+      "word": "唐梓预测",
+      "onboard_time": 1669544372,
+      "rank": 47,
+      "category": "体育,网红"
     },
     {
       "raw_hot": 232649,
@@ -1380,7 +1492,7 @@
     },
     {
       "raw_hot": 224469,
-      "num": 164771,
+      "num": 185301,
       "word": "另一半的情绪价值有多重要",
       "onboard_time": 1669536275,
       "rank": 35,
@@ -1403,6 +1515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 223173,
+      "num": 186734,
+      "word": "罗渽民演唱会镜头",
+      "onboard_time": 1669543892,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 221945,
       "num": 221945,
       "word": "陈飞宇的怼脸视频",
@@ -1417,6 +1537,14 @@
       "onboard_time": 1669479633,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 219909,
+      "num": 186222,
+      "word": "王鹤棣收工打篮球vlog",
+      "onboard_time": 1669542572,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 217928,
@@ -1503,6 +1631,14 @@
       "num": 209871,
       "word": "北京新增本土感染者2454例",
       "onboard_time": 1669456001,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 206773,
+      "num": 184600,
+      "word": "婆婆不让去月子中心女子二胎不给探望",
+      "onboard_time": 1669544011,
       "rank": 35,
       "category": "社会新闻"
     },
@@ -1595,11 +1731,11 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 188829,
-      "num": 162498,
-      "word": "曝阿根廷球迷强占中国球迷座位",
-      "onboard_time": 1669541012,
-      "rank": 32,
+      "raw_hot": 187374,
+      "num": 187374,
+      "word": "梅西的热身动作能有多可爱",
+      "onboard_time": 1669539875,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -1699,14 +1835,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 170901,
-      "num": 170901,
-      "word": "北京疫情发布会",
-      "onboard_time": 1669541074,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 170501,
       "num": 170501,
       "word": "什么情况才可以实施区域封闭管理",
@@ -1763,6 +1891,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 164200,
+      "num": 164200,
+      "word": "医生下班后抽空给自己做了个手术",
+      "onboard_time": 1669543892,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 163579,
       "num": 163579,
       "word": "代糖究竟是什么真的健康吗",
@@ -1809,14 +1945,6 @@
       "onboard_time": 1669513831,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 159164,
-      "num": 159164,
-      "word": "日本vs哥斯达黎加",
-      "onboard_time": 1669541136,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 157393,
@@ -1867,14 +1995,6 @@
       "category": "幽默,体育"
     },
     {
-      "raw_hot": 145913,
-      "num": 145913,
-      "word": "梅西的热身动作能有多可爱",
-      "onboard_time": 1669539875,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 145442,
       "num": 145442,
       "word": "赵让希望Ｃ罗或者梅西举起大力神杯",
@@ -1905,6 +2025,14 @@
       "onboard_time": 1669511072,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 140534,
+      "num": 140534,
+      "word": "双子座流星雨延时视频",
+      "onboard_time": 1669543354,
+      "rank": 41,
+      "category": "自然"
     },
     {
       "raw_hot": 139375,
@@ -2027,6 +2155,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 126113,
+      "num": 126113,
+      "word": "DYG对战TES.A",
+      "onboard_time": 1669543051,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 125804,
       "num": 125804,
       "word": "丁程鑫预告鱼solo舞台",
@@ -2107,12 +2243,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 113861,
+      "num": 113861,
+      "word": "日本vs哥斯达黎加首发",
+      "onboard_time": 1669541853,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 113730,
       "num": 78160,
       "word": "阿根廷球迷一路高歌进场",
       "onboard_time": 1669488077,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 110214,
+      "num": 110214,
+      "word": "如何保证核酸检测安全",
+      "onboard_time": 1669543951,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 110018,
@@ -2129,6 +2281,14 @@
       "onboard_time": 1669540410,
       "rank": 48,
       "category": "科技"
+    },
+    {
+      "raw_hot": 107260,
+      "num": 107260,
+      "word": "足坛上的搞笑瞬间",
+      "onboard_time": 1669544133,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 103535,

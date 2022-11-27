@@ -1,0 +1,410 @@
+{
+  "runTime": 1669544393501,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2497433,
+        "num": 2497433,
+        "word": "兰州通报核酸采样人员阳性",
+        "onboard_time": 1669536575,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1689523,
+        "num": 1689523,
+        "word": "曝阿根廷球迷强占中国球迷座位",
+        "onboard_time": 1669541012,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 41430,
+        "num": 1188095,
+        "word": "推动经济全球化不断向前",
+        "onboard_time": 1669530871,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1173052,
+        "num": 1173052,
+        "word": "父亲当面吃完女儿偷倒剩饭",
+        "onboard_time": 1669540893,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 796384,
+        "num": 796384,
+        "word": "北京疫情发布会",
+        "onboard_time": 1669541074,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 791108,
+        "num": 791108,
+        "word": "武汉市全面推行疫情防控场所码",
+        "onboard_time": 1669527811,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 719016,
+        "num": 719016,
+        "word": "日本vs哥斯达黎加",
+        "onboard_time": 1669541136,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 577248,
+        "num": 577248,
+        "word": "Hero",
+        "onboard_time": 1669535131,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 519232,
+        "num": 519232,
+        "word": "曝李铁银行存款过亿",
+        "onboard_time": 1669526010,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 480230,
+        "num": 480230,
+        "word": "赵丽颖新剧演技爆发力",
+        "onboard_time": 1669542935,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1026210,
+        "num": 461943,
+        "word": "女生呵斥图书馆放不雅视频男子遭回怼",
+        "onboard_time": 1669529132,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 443410,
+        "num": 443410,
+        "word": "徐璐说初来社死请多关照",
+        "onboard_time": 1669544252,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 436581,
+        "num": 436581,
+        "word": "女子按摩减肥致大出血进ICU切肾",
+        "onboard_time": 1669537537,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 413770,
+        "num": 413770,
+        "word": "刘耀文录制无限超越班",
+        "onboard_time": 1669543770,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 408677,
+        "num": 408677,
+        "word": "女子定错位外卖员怒斥倒八辈子霉",
+        "onboard_time": 1669542995,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 398514,
+        "num": 398514,
+        "word": "女子面试老板助理入职变KTV服务员",
+        "onboard_time": 1669541733,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 392216,
+        "num": 392216,
+        "word": "当事妈妈回应婆婆给1岁孙女吃炒面",
+        "onboard_time": 1669542514,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 377659,
+        "num": 377659,
+        "word": "RNG",
+        "onboard_time": 1669538915,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 372452,
+        "num": 372452,
+        "word": "EXO的Obsession发行3周年",
+        "onboard_time": 1669539813,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 357819,
+        "num": 357819,
+        "word": "RedVelvet新歌预告视频",
+        "onboard_time": 1669542814,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 357342,
+        "num": 357342,
+        "word": "男子逗娃顺走孩子9500元金手镯",
+        "onboard_time": 1669535312,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 356239,
+        "num": 356239,
+        "word": "卿卿日常",
+        "onboard_time": 1669539514,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 334575,
+        "num": 334575,
+        "word": "陆贞这手劲还挺大",
+        "onboard_time": 1669530031,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 300957,
+        "num": 300957,
+        "word": "今年最想安利的国产剧",
+        "onboard_time": 1669536453,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 295482,
+        "num": 295482,
+        "word": "SEVENTEEN演唱会落花转场",
+        "onboard_time": 1669544252,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 240716,
+        "num": 240716,
+        "word": "女子回应卖饼12年给弟弟买房买车",
+        "onboard_time": 1669543114,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239314,
+        "num": 239314,
+        "word": "爸爸一声吼吓到孩子却救了她",
+        "onboard_time": 1669534352,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230906,
+        "num": 230906,
+        "word": "Hero 紫幻",
+        "onboard_time": 1669538256,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 203732,
+        "num": 203732,
+        "word": "巴西舞王内马尔",
+        "onboard_time": 1669538197,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187374,
+        "num": 187374,
+        "word": "梅西的热身动作能有多可爱",
+        "onboard_time": 1669539875,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 236942,
+        "num": 187197,
+        "word": "梅西赢球后刘畊宏连睡觉都在笑",
+        "onboard_time": 1669540710,
+        "rank": 30,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 223173,
+        "num": 186734,
+        "word": "罗渽民演唱会镜头",
+        "onboard_time": 1669543892,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 219909,
+        "num": 186222,
+        "word": "王鹤棣收工打篮球vlog",
+        "onboard_time": 1669542572,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213343,
+        "num": 185677,
+        "word": "刘诗诗一念关山雨中撑伞视频",
+        "onboard_time": 1669536753,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 209274,
+        "num": 185301,
+        "word": "另一半的情绪价值有多重要",
+        "onboard_time": 1669536275,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206773,
+        "num": 184600,
+        "word": "婆婆不让去月子中心女子二胎不给探望",
+        "onboard_time": 1669544011,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184468,
+        "num": 184468,
+        "word": "江苏一大学发现全球最大天然碳洋葱",
+        "onboard_time": 1669533810,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182425,
+        "num": 182425,
+        "word": "重庆南岸区一街道办公室发生爆炸系谣言",
+        "onboard_time": 1669535312,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173867,
+        "num": 173867,
+        "word": "西班牙vs德国",
+        "onboard_time": 1669523673,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164200,
+        "num": 164200,
+        "word": "医生下班后抽空给自己做了个手术",
+        "onboard_time": 1669543892,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204398,
+        "num": 160794,
+        "word": "点燃我温暖你预告好多名场面",
+        "onboard_time": 1669539994,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 140534,
+        "num": 140534,
+        "word": "双子座流星雨延时视频",
+        "onboard_time": 1669543354,
+        "rank": 41,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 129265,
+        "num": 129265,
+        "word": "莫德里奇首次回应难民照片",
+        "onboard_time": 1669535735,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127107,
+        "num": 127107,
+        "word": "英国考虑提高赴英留学门槛",
+        "onboard_time": 1669526615,
+        "rank": 43,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 126113,
+        "num": 126113,
+        "word": "DYG对战TES.A",
+        "onboard_time": 1669543051,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 113861,
+        "num": 113861,
+        "word": "日本vs哥斯达黎加首发",
+        "onboard_time": 1669541853,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110214,
+        "num": 110214,
+        "word": "如何保证核酸检测安全",
+        "onboard_time": 1669543951,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232817,
+        "num": 109299,
+        "word": "唐梓预测",
+        "onboard_time": 1669544372,
+        "rank": 47,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 107260,
+        "num": 107260,
+        "word": "足坛上的搞笑瞬间",
+        "onboard_time": 1669544133,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105697,
+        "num": 105697,
+        "word": "商家回应未拆封奶粉中有活虫",
+        "onboard_time": 1669536093,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚定信心抓实抓细疫情防控各项工作#"
+    }
+  }
+}
