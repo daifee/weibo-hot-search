@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1669574286943,
+  "endTime": 1669576535503,
   "band_list": [
     {
       "raw_hot": 36651023,
@@ -49163,6 +49163,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 141285,
+      "num": 101255,
+      "word": "西班牙vs德国首发",
+      "onboard_time": 1669574596,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141216,
       "num": 141216,
       "word": "不建议通过拉伸来缓解腰痛",
@@ -56291,6 +56299,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 100287,
+      "num": 100287,
+      "word": "加拿大小组出局",
+      "onboard_time": 1669573697,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 100216,
       "num": 100216,
       "word": "LOL",
@@ -58579,6 +58595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 85860,
+      "num": 85860,
+      "word": "世界杯小组出线情况乱成一锅粥了",
+      "onboard_time": 1669569088,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 85855,
       "num": 85855,
       "word": "高校女记者跟拍运动会有多拼",
@@ -59115,14 +59139,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 82274,
-      "num": 82274,
-      "word": "世界杯小组出线情况乱成一锅粥了",
-      "onboard_time": 1669569088,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 82264,
       "num": 82264,
       "word": "人民空军从无到有越变越强",
@@ -59635,14 +59651,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 77197,
-      "num": 77197,
-      "word": "加拿大小组出局",
-      "onboard_time": 1669573697,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 77141,
       "num": 77141,
       "word": "舍不得四川的秋天",
@@ -59889,6 +59897,14 @@
       "onboard_time": 1668530006,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 74061,
+      "num": 74061,
+      "word": "不愧是莫德里奇",
+      "onboard_time": 1669574417,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 74038,
@@ -62049,6 +62065,14 @@
       "onboard_time": 1668008964,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 32401,
+      "num": 32401,
+      "word": "西班牙男模队vs德国男模队",
+      "onboard_time": 1669576452,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 32134,
