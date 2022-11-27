@@ -1,10 +1,10 @@
 {
   "startTime": 1669479991529,
-  "endTime": 1669562352838,
+  "endTime": 1669563313805,
   "band_list": [
     {
-      "raw_hot": 3885708,
-      "num": 3885708,
+      "raw_hot": 3938808,
+      "num": 3938808,
       "word": "武汉呼吁市民同心合力群防群控",
       "onboard_time": 1669557640,
       "rank": 9,
@@ -80,6 +80,14 @@
       "word": "20条严禁长时间不解封",
       "onboard_time": 1669474551,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2392606,
+      "num": 1140952,
+      "word": "女婴出生时长5.7厘米尾巴",
+      "onboard_time": 1669561062,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -291,12 +299,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1367567,
-      "num": 1016388,
-      "word": "女婴出生时长5.7厘米尾巴",
-      "onboard_time": 1669561062,
-      "rank": 10,
-      "category": "社会新闻"
+      "raw_hot": 1382900,
+      "num": 1382900,
+      "word": "又爆冷一场",
+      "onboard_time": 1669562321,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 1290356,
@@ -305,6 +313,14 @@
       "onboard_time": 1669464166,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1276323,
+      "num": 1276323,
+      "word": "抖音回应世界杯直播时出现杂音",
+      "onboard_time": 1669559081,
+      "rank": 48,
+      "category": "体育,科技"
     },
     {
       "raw_hot": 1244028,
@@ -385,14 +401,6 @@
       "onboard_time": 1669550677,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1039936,
-      "num": 1039936,
-      "word": "抖音回应世界杯直播时出现杂音",
-      "onboard_time": 1669559081,
-      "rank": 48,
-      "category": "体育,科技"
     },
     {
       "raw_hot": 1012904,
@@ -481,6 +489,14 @@
       "onboard_time": 1669557640,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 847401,
+      "num": 847401,
+      "word": "西班牙vs德国",
+      "onboard_time": 1669523673,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 847150,
@@ -625,14 +641,6 @@
       "onboard_time": 1669557580,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 709093,
-      "num": 709093,
-      "word": "西班牙vs德国",
-      "onboard_time": 1669523673,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 688322,
@@ -803,6 +811,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 560762,
+      "num": 560762,
+      "word": "尹峥尹岐去了甘棠驿",
+      "onboard_time": 1669561905,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 558647,
       "num": 558647,
       "word": "围炉煮茶",
@@ -868,7 +884,7 @@
     },
     {
       "raw_hot": 535814,
-      "num": 226441,
+      "num": 305900,
       "word": "黄仁俊笑容",
       "onboard_time": 1669562321,
       "rank": 47,
@@ -1195,6 +1211,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 423033,
+      "num": 423033,
+      "word": "马嘉祺甩礼帽",
+      "onboard_time": 1669563106,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 422586,
       "num": 422586,
       "word": "卢卡库",
@@ -1209,6 +1233,14 @@
       "onboard_time": 1669475393,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 421729,
+      "num": 421729,
+      "word": "BLG",
+      "onboard_time": 1669561724,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 418756,
@@ -1387,14 +1419,6 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 365163,
-      "num": 365163,
-      "word": "尹峥尹岐去了甘棠驿",
-      "onboard_time": 1669561905,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 364582,
       "num": 364582,
       "word": "守门员都看不下去了",
@@ -1409,6 +1433,14 @@
       "onboard_time": 1669534530,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 361785,
+      "num": 361785,
+      "word": "一核酸公司实控人今年注册16家核酸机构",
+      "onboard_time": 1669562921,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 361149,
@@ -1627,14 +1659,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 307659,
-      "num": 307659,
-      "word": "BLG",
-      "onboard_time": 1669561724,
-      "rank": 36,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 307413,
       "num": 307413,
       "word": "杨幂说阳华是在家做饭的小奶狗",
@@ -1771,6 +1795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 286934,
+      "num": 286934,
+      "word": "李峋四次单膝下跪都是为了朱韵",
+      "onboard_time": 1669559504,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 284646,
       "num": 284646,
       "word": "沙特 假摔",
@@ -1889,14 +1921,6 @@
       "onboard_time": 1669519713,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 267258,
-      "num": 267258,
-      "word": "李峋四次单膝下跪都是为了朱韵",
-      "onboard_time": 1669559504,
-      "rank": 43,
-      "category": "影视"
     },
     {
       "raw_hot": 266610,
@@ -2163,14 +2187,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 230970,
-      "num": 226088,
-      "word": "又爆冷一场",
-      "onboard_time": 1669562321,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 230047,
       "num": 230047,
       "word": "我们的歌",
@@ -2193,6 +2209,14 @@
       "onboard_time": 1669514072,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 228466,
+      "num": 228466,
+      "word": "动画片突然插播广告男孩怒砸电视",
+      "onboard_time": 1669562682,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 226289,
@@ -2313,6 +2337,14 @@
       "onboard_time": 1669529912,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 215696,
+      "num": 215696,
+      "word": "杨丞琳唱出了女性力量",
+      "onboard_time": 1669563039,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 215407,
@@ -2497,6 +2529,14 @@
       "onboard_time": 1669552475,
       "rank": 47,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 192033,
+      "num": 192033,
+      "word": "男子一觉醒来房被埋得请挖机来清雪",
+      "onboard_time": 1669563223,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 191551,
@@ -3343,6 +3383,14 @@
       "num": 1906282,
       "word": "多视角看歼15航母起降全过程",
       "onboard_time": 1669435239,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 8464,
+      "num": 2299356,
+      "word": "神十五已做好出征准备",
+      "onboard_time": 1669532010,
       "rank": 2,
       "category": "国内要闻"
     }
