@@ -1,6 +1,6 @@
 {
   "startTime": 1669479991529,
-  "endTime": 1669524012467,
+  "endTime": 1669526245680,
   "band_list": [
     {
       "raw_hot": 3822944,
@@ -131,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1403713,
+      "num": 965220,
+      "word": "官方回应重庆核酸志愿者是混阳消息不实",
+      "onboard_time": 1669523130,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1290356,
       "num": 1290356,
       "word": "郑州回应郑好办查出奥特曼核酸报告",
@@ -177,6 +185,14 @@
       "onboard_time": 1669475754,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 988574,
+      "num": 988574,
+      "word": "毛利小五郎麻药免疫",
+      "onboard_time": 1669522775,
+      "rank": 40,
+      "category": "动漫"
     },
     {
       "raw_hot": 972019,
@@ -315,6 +331,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 582823,
+      "num": 582823,
+      "word": "西班牙vs德国",
+      "onboard_time": 1669523673,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 562218,
       "num": 562218,
       "word": "阿根廷2比0墨西哥",
@@ -443,14 +467,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 485805,
-      "num": 485805,
-      "word": "官方回应重庆核酸志愿者是混阳消息不实",
-      "onboard_time": 1669523130,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 484627,
       "num": 484627,
       "word": "朱正廷羽族皇子造型好贵",
@@ -515,11 +531,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 430313,
+      "num": 430313,
+      "word": "八旬老人为报海豚救命之恩建保护基地",
+      "onboard_time": 1669525774,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 421973,
       "num": 421973,
       "word": "波兰2比0沙特",
       "onboard_time": 1669475393,
       "rank": 17,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 415884,
+      "num": 415884,
+      "word": "中国球迷含泪大喊上帝保佑梅西",
+      "onboard_time": 1669523314,
+      "rank": 32,
       "category": "体育"
     },
     {
@@ -531,20 +563,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 406951,
-      "num": 406951,
-      "word": "毛利小五郎麻药免疫",
-      "onboard_time": 1669522775,
-      "rank": 40,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 397214,
       "num": 397214,
       "word": "张远终于圆梦唱了动漫歌",
       "onboard_time": 1669511554,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 395308,
+      "num": 395308,
+      "word": "爷爷多少有点恋爱脑",
+      "onboard_time": 1669521515,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 389919,
@@ -643,14 +675,6 @@
       "category": "体育,幽默"
     },
     {
-      "raw_hot": 318561,
-      "num": 318561,
-      "word": "爷爷多少有点恋爱脑",
-      "onboard_time": 1669521515,
-      "rank": 29,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 317469,
       "num": 317469,
       "word": "姆巴佩梅开二度",
@@ -681,6 +705,14 @@
       "onboard_time": 1669511974,
       "rank": 41,
       "category": "科技"
+    },
+    {
+      "raw_hot": 304849,
+      "num": 130521,
+      "word": "周深清唱一个师傅仨徒弟好听",
+      "onboard_time": 1669526196,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 299952,
@@ -761,6 +793,14 @@
       "onboard_time": 1669476350,
       "rank": 24,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 274869,
+      "num": 274869,
+      "word": "谢娜暖冬故事感封面大片",
+      "onboard_time": 1669525356,
+      "rank": 23,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 274798,
@@ -867,6 +907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 236259,
+      "num": 236259,
+      "word": "中国人独有的主食情结",
+      "onboard_time": 1669519713,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 232868,
       "num": 232868,
       "word": "胡辣汤原来有25种以上调料",
@@ -955,24 +1003,16 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 221078,
-      "num": 221078,
-      "word": "西班牙vs德国",
-      "onboard_time": 1669523673,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 215386,
-      "num": 215386,
-      "word": "中国球迷含泪大喊上帝保佑梅西",
-      "onboard_time": 1669523314,
+      "raw_hot": 215407,
+      "num": 215407,
+      "word": "龚俊我要逆风去徐斯剧照",
+      "onboard_time": 1669525835,
       "rank": 32,
-      "category": "体育"
+      "category": "影视"
     },
     {
       "raw_hot": 215313,
-      "num": 217948,
+      "num": 234051,
       "word": "大熊猫的歪头杀太甜了",
       "onboard_time": 1669522895,
       "rank": 39,
@@ -1011,6 +1051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 194055,
+      "num": 194055,
+      "word": "C罗安慰失误门将太暖了",
+      "onboard_time": 1669525535,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 193049,
       "num": 193049,
       "word": "法国半场0比0丹麦",
@@ -1043,6 +1091,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 186199,
+      "num": 186199,
+      "word": "孤寡老人把家里收拾的一尘不染",
+      "onboard_time": 1669524153,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 182806,
       "num": 182806,
       "word": "杨九郎cos年画娃娃",
@@ -1065,6 +1121,14 @@
       "onboard_time": 1669515457,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 177249,
+      "num": 177249,
+      "word": "光与夜之恋",
+      "onboard_time": 1669525653,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 176428,
@@ -1097,6 +1161,22 @@
       "onboard_time": 1669479399,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 175409,
+      "num": 175409,
+      "word": "乌鲁木齐逐步恢复商超等营业场所",
+      "onboard_time": 1669523914,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 175023,
+      "num": 175023,
+      "word": "曝李铁银行存款过亿",
+      "onboard_time": 1669526010,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 173897,
@@ -1147,6 +1227,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 163579,
+      "num": 163579,
+      "word": "代糖究竟是什么真的健康吗",
+      "onboard_time": 1669525774,
+      "rank": 42,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 163551,
       "num": 163551,
       "word": "莱万终于进球了",
@@ -1193,14 +1281,6 @@
       "onboard_time": 1669491674,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 146938,
-      "num": 146938,
-      "word": "乌鲁木齐逐步恢复商超等营业场所",
-      "onboard_time": 1669523914,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 146397,

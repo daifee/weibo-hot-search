@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/01 00:36:21 ~ 2022/11/27 12:40:12
+本榜单时间：2022/11/01 00:36:21 ~ 2022/11/27 13:17:25
 </p>
 </blockquote>
 <p>
@@ -2529,6 +2529,12 @@ C罗犯规（热度：1458702）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E9%87%8D%E5%BA%86%E6%A0%B8%E9%85%B8%E5%BF%97%E6%84%BF%E8%80%85%E6%98%AF%E6%B7%B7%E9%98%B3%E6%B6%88%E6%81%AF%E4%B8%8D%E5%AE%9E%23" target="weibo">
+官方回应重庆核酸志愿者是混阳消息不实（热度：1403713）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%88%E7%89%99%E5%88%A9%E5%90%8C%E6%84%8F%E5%88%98%E6%B0%8F%E5%85%84%E5%BC%9F%E6%9B%B4%E6%94%B9%E5%9B%BD%E7%B1%8D%23" target="weibo">
 匈牙利同意刘氏兄弟更改国籍（热度：1400156）
 </a>
@@ -4287,6 +4293,12 @@ EXO六人合体视频（热度：1003777）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AF%9B%E5%88%A9%E5%B0%8F%E4%BA%94%E9%83%8E%E9%BA%BB%E8%8D%AF%E5%85%8D%E7%96%AB%23" target="weibo">
+毛利小五郎麻药免疫（热度：988574）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%A1%E5%A1%94%E5%B0%94%E5%92%8C%E8%BF%AA%E6%8B%9C%E5%93%AA%E4%B8%AA%E6%9B%B4%E5%AF%8C%23" target="weibo">
 卡塔尔和迪拜哪个更富（热度：986710）
 </a>
@@ -5999,18 +6011,6 @@ kp 退团（热度：791639）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A160%E4%BE%8B%E6%97%A0%E7%97%87%E7%8A%B61081%E4%BE%8B%23" target="weibo">
 重庆新增本土确诊160例无症状1081例（热度：785618）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2325%E5%B2%81%E5%B0%8F%E4%BC%99%E8%BE%9E%E5%8E%BB%E5%85%AC%E8%81%8C%E5%8E%BB%E7%9C%8B%E4%B8%96%E7%95%8C%E6%9D%AF%23" target="weibo">
-25岁小伙辞去公职去看世界杯（热度：784834）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%88%AC%23" target="weibo">
-杨戬（热度：784698）
 </a>
 </li>
 

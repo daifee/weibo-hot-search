@@ -1,0 +1,410 @@
+{
+  "runTime": 1669526245680,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2507094,
+        "num": 2507094,
+        "word": "谁可以决定采取封控措施",
+        "onboard_time": 1669514315,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1521988,
+        "num": 1521988,
+        "word": "输给沙特后梅西二儿子哭了",
+        "onboard_time": 1669519713,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 8492,
+        "num": 1174385,
+        "word": "多视角看歼15航母起降全过程",
+        "onboard_time": 1669435239,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 988574,
+        "num": 988574,
+        "word": "毛利小五郎麻药免疫",
+        "onboard_time": 1669522775,
+        "rank": 3,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 1403713,
+        "num": 965220,
+        "word": "官方回应重庆核酸志愿者是混阳消息不实",
+        "onboard_time": 1669523130,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 824971,
+        "num": 824971,
+        "word": "男子撞死老人现场谎称是自己父亲",
+        "onboard_time": 1669514553,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 773085,
+        "num": 773085,
+        "word": "乌鲁木齐明起逐步恢复城市公共交通",
+        "onboard_time": 1669519594,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 710972,
+        "num": 710972,
+        "word": "女子买1筐芒果遭5斤水泥压秤",
+        "onboard_time": 1669520253,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 690202,
+        "num": 690202,
+        "word": "蜜雪冰城被曝喝出虫子商家态度引争议",
+        "onboard_time": 1669512395,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 582823,
+        "num": 582823,
+        "word": "西班牙vs德国",
+        "onboard_time": 1669523673,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 542184,
+        "num": 542184,
+        "word": "官方通报甘肃瓜州患儿因耽误治疗时机病逝",
+        "onboard_time": 1669516775,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 494702,
+        "num": 494702,
+        "word": "重庆新增本土确诊194例无症状8667例",
+        "onboard_time": 1669517135,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 494085,
+        "num": 494085,
+        "word": "男家教猥亵10岁女童被判终身禁业",
+        "onboard_time": 1669507468,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 430313,
+        "num": 430313,
+        "word": "八旬老人为报海豚救命之恩建保护基地",
+        "onboard_time": 1669525774,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 415884,
+        "num": 415884,
+        "word": "中国球迷含泪大喊上帝保佑梅西",
+        "onboard_time": 1669523314,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 395308,
+        "num": 395308,
+        "word": "爷爷多少有点恋爱脑",
+        "onboard_time": 1669521515,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 391735,
+        "num": 391735,
+        "word": "赵丽颖的三个现代角色",
+        "onboard_time": 1669520736,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 384557,
+        "num": 384557,
+        "word": "威少满脸是血",
+        "onboard_time": 1669520552,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 350728,
+        "num": 350728,
+        "word": "郑州30日将转入常态化动态清零",
+        "onboard_time": 1669511072,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326658,
+        "num": 326658,
+        "word": "近百个结婚红包7年后失而复得",
+        "onboard_time": 1669517374,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323735,
+        "num": 323735,
+        "word": "十块的奶茶只喝到了两块五",
+        "onboard_time": 1669513233,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 317203,
+        "num": 317203,
+        "word": "命韵峋环复仇预告",
+        "onboard_time": 1669519535,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 286631,
+        "num": 286631,
+        "word": "梅西进球苏醒又嗨了",
+        "onboard_time": 1669513892,
+        "rank": 22,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 274869,
+        "num": 274869,
+        "word": "谢娜暖冬故事感封面大片",
+        "onboard_time": 1669525356,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 269532,
+        "num": 269532,
+        "word": "袁娅维首登国际舞台好稳",
+        "onboard_time": 1669521393,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 266825,
+        "num": 266825,
+        "word": "IVEmmaVCR疑似抄袭Redvelvet",
+        "onboard_time": 1669513053,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 249353,
+        "num": 249353,
+        "word": "梅西和恩佐的双向奔赴",
+        "onboard_time": 1669520497,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 245592,
+        "num": 245592,
+        "word": "北京新增社会面806例",
+        "onboard_time": 1669509390,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236259,
+        "num": 236259,
+        "word": "中国人独有的主食情结",
+        "onboard_time": 1669519713,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209570,
+        "num": 234051,
+        "word": "大熊猫的歪头杀太甜了",
+        "onboard_time": 1669522895,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 996219,
+        "num": 233946,
+        "word": "李峋喘息声",
+        "onboard_time": 1669518697,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 233550,
+        "num": 233550,
+        "word": "四川省考",
+        "onboard_time": 1669520975,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 215407,
+        "num": 215407,
+        "word": "龚俊我要逆风去徐斯剧照",
+        "onboard_time": 1669525835,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 196652,
+        "num": 196652,
+        "word": "朱正廷羽族皇子造型好贵",
+        "onboard_time": 1669522835,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 194055,
+        "num": 194055,
+        "word": "C罗安慰失误门将太暖了",
+        "onboard_time": 1669525535,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193075,
+        "num": 193075,
+        "word": "詹姆斯39分11篮板",
+        "onboard_time": 1669522115,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186199,
+        "num": 186199,
+        "word": "孤寡老人把家里收拾的一尘不染",
+        "onboard_time": 1669524153,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184989,
+        "num": 184989,
+        "word": "崔秀彬跳LoveDive",
+        "onboard_time": 1669520315,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 180106,
+        "num": 180106,
+        "word": "命韵峋环重逢后吻戏",
+        "onboard_time": 1669517671,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 177249,
+        "num": 177249,
+        "word": "光与夜之恋",
+        "onboard_time": 1669525653,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 175409,
+        "num": 175409,
+        "word": "乌鲁木齐逐步恢复商超等营业场所",
+        "onboard_time": 1669523914,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175023,
+        "num": 175023,
+        "word": "曝李铁银行存款过亿",
+        "onboard_time": 1669526010,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163579,
+        "num": 163579,
+        "word": "代糖究竟是什么真的健康吗",
+        "onboard_time": 1669525774,
+        "rank": 42,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 162543,
+        "num": 162543,
+        "word": "上海马拉松",
+        "onboard_time": 1669514914,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149033,
+        "num": 149033,
+        "word": "白鹿新剧白色毛衣上班路透",
+        "onboard_time": 1669518211,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 140134,
+        "num": 140134,
+        "word": "上海一街道未做核酸纳入征信",
+        "onboard_time": 1669477430,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130871,
+        "num": 130871,
+        "word": "每天8杯水或超过大多数人真正需水量",
+        "onboard_time": 1669489756,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304849,
+        "num": 130521,
+        "word": "周深清唱一个师傅仨徒弟好听",
+        "onboard_time": 1669526196,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126042,
+        "num": 126042,
+        "word": "原来iOS16的新功能这么用",
+        "onboard_time": 1669511974,
+        "rank": 48,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 123238,
+        "num": 123238,
+        "word": "粉笔模考",
+        "onboard_time": 1669519234,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动经济全球化不断向前#"
+    }
+  }
+}
