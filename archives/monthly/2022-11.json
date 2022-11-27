@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1669559599311,
+  "endTime": 1669562352838,
   "band_list": [
     {
       "raw_hot": 36651023,
@@ -385,6 +385,14 @@
       "onboard_time": 1667358181,
       "rank": 0,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 3885708,
+      "num": 3885708,
+      "word": "武汉呼吁市民同心合力群防群控",
+      "onboard_time": 1669557640,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3846388,
@@ -1267,6 +1275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2291020,
+      "num": 2291020,
+      "word": "武汉疫情防控",
+      "onboard_time": 1668924326,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2286518,
       "num": 2286518,
       "word": "国家卫健委调整防疫措施",
@@ -1345,6 +1361,14 @@
       "onboard_time": 1668928105,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2210102,
+      "num": 2210102,
+      "word": "比利时0比2摩洛哥",
+      "onboard_time": 1669561311,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 2209947,
@@ -1819,6 +1843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1904491,
+      "num": 1904491,
+      "word": "给大白实名也是为大白正名",
+      "onboard_time": 1669554457,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1901512,
       "num": 1901512,
       "word": "官方通报甘肃瓜州患儿因耽误治疗时机病逝",
@@ -2259,14 +2291,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 1746536,
-      "num": 1746536,
-      "word": "武汉呼吁市民同心合力群防群控",
-      "onboard_time": 1669557640,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1744595,
       "num": 1476357,
       "word": "北京朝阳区部分核酸检测点临时关闭",
@@ -2579,14 +2603,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1634007,
-      "num": 1634007,
-      "word": "给大白实名也是为大白正名",
-      "onboard_time": 1669554457,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1632969,
       "num": 1632969,
       "word": "Faker",
@@ -2712,14 +2728,6 @@
       "word": "广州海珠区新增1253名感染者",
       "onboard_time": 1667720186,
       "rank": 0,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1595341,
-      "num": 1595341,
-      "word": "武汉疫情防控",
-      "onboard_time": 1668924326,
-      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -3568,6 +3576,14 @@
       "word": "北京疫情防控",
       "onboard_time": 1668389290,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1367567,
+      "num": 1016388,
+      "word": "女婴出生时长5.7厘米尾巴",
+      "onboard_time": 1669561062,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -5401,6 +5417,14 @@
       "onboard_time": 1667400550,
       "rank": 4,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 1039936,
+      "num": 1039936,
+      "word": "抖音回应世界杯直播时出现杂音",
+      "onboard_time": 1669559081,
+      "rank": 48,
+      "category": "体育,科技"
     },
     {
       "raw_hot": 1039357,
@@ -7411,6 +7435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 847799,
+      "num": 847799,
+      "word": "200斤女子减重90斤找到男朋友",
+      "onboard_time": 1669557640,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 847724,
       "num": 847724,
       "word": "华胥引又翻拍",
@@ -7929,6 +7961,14 @@
       "onboard_time": 1668555325,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 813270,
+      "num": 813270,
+      "word": "比利时vs摩洛哥",
+      "onboard_time": 1669551995,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 812890,
@@ -8659,6 +8699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 759584,
+      "num": 759584,
+      "word": "比利时门将",
+      "onboard_time": 1669557765,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 759563,
       "num": 478945,
       "word": "Rookie发文恭喜DRX",
@@ -8961,6 +9009,14 @@
       "onboard_time": 1667629105,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 744689,
+      "num": 744689,
+      "word": "风吹半夏首播收视",
+      "onboard_time": 1669560463,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 744330,
@@ -9569,6 +9625,14 @@
       "onboard_time": 1669022315,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 710314,
+      "num": 710314,
+      "word": "西安900路公交女司机因高颜值走红",
+      "onboard_time": 1669557580,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 709688,
@@ -10563,6 +10627,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 660149,
+      "num": 660149,
+      "word": "吃个炒饭给我整得热血澎湃",
+      "onboard_time": 1669557341,
+      "rank": 28,
+      "category": "幽默,美食"
+    },
+    {
       "raw_hot": 659849,
       "num": 450372,
       "word": "中美两国元首致开场白",
@@ -11451,6 +11523,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 625129,
+      "num": 625129,
+      "word": "朱韵穿了李峋的衬衫",
+      "onboard_time": 1669558119,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 625106,
       "num": 625106,
       "word": "iPhone14Pro息屏可不显示壁纸",
@@ -12075,6 +12155,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 598901,
+      "num": 598901,
+      "word": "摩洛哥进球",
+      "onboard_time": 1669559924,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 597639,
       "num": 597639,
       "word": "压力给到C罗",
@@ -12145,14 +12233,6 @@
       "onboard_time": 1669323674,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 594785,
-      "num": 594785,
-      "word": "200斤女子减重90斤找到男朋友",
-      "onboard_time": 1669557640,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 594538,
@@ -14043,14 +14123,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 540299,
-      "num": 540299,
-      "word": "西安900路公交女司机因高颜值走红",
-      "onboard_time": 1669557580,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 539902,
       "num": 339411,
       "word": "梅西一定要赢啊",
@@ -14219,6 +14291,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 535814,
+      "num": 226441,
+      "word": "黄仁俊笑容",
+      "onboard_time": 1669562321,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 534891,
       "num": 534891,
       "word": "阳华 奶茶狗",
@@ -14265,14 +14345,6 @@
       "onboard_time": 1669482925,
       "rank": 45,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 533992,
-      "num": 533992,
-      "word": "朱韵穿了李峋的衬衫",
-      "onboard_time": 1669558119,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 533970,
@@ -14385,6 +14457,14 @@
       "onboard_time": 1669189834,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 530366,
+      "num": 530366,
+      "word": "元英为李薇改了规矩",
+      "onboard_time": 1669558001,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 530094,
@@ -14939,14 +15019,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 519159,
-      "num": 519159,
-      "word": "比利时vs摩洛哥",
-      "onboard_time": 1669551995,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 518921,
       "num": 518921,
       "word": "11月11日11时11分11秒的歼20",
@@ -15473,14 +15545,6 @@
       "onboard_time": 1669210298,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 506188,
-      "num": 506188,
-      "word": "吃个炒饭给我整得热血澎湃",
-      "onboard_time": 1669557341,
-      "rank": 28,
-      "category": "幽默,美食"
     },
     {
       "raw_hot": 506187,
@@ -16089,6 +16153,14 @@
       "onboard_time": 1668392788,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 491439,
+      "num": 491439,
+      "word": "比利时半场0比0摩洛哥",
+      "onboard_time": 1669557520,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 491391,
@@ -17545,14 +17617,6 @@
       "onboard_time": 1669101812,
       "rank": 36,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 460457,
-      "num": 460457,
-      "word": "比利时门将",
-      "onboard_time": 1669557765,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 460307,
@@ -19585,6 +19649,14 @@
       "onboard_time": 1667692881,
       "rank": 7,
       "category": "其它"
+    },
+    {
+      "raw_hot": 422586,
+      "num": 422586,
+      "word": "卢卡库",
+      "onboard_time": 1669559322,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 422469,
@@ -23035,6 +23107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 365163,
+      "num": 365163,
+      "word": "尹峥尹岐去了甘棠驿",
+      "onboard_time": 1669561905,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 365099,
       "num": 365099,
       "word": "交流技术遭拒中国工程师决定自己做",
@@ -24425,14 +24505,6 @@
       "onboard_time": 1669286498,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 346109,
-      "num": 346109,
-      "word": "元英为李薇改了规矩",
-      "onboard_time": 1669558001,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 345962,
@@ -26947,6 +27019,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 315166,
+      "num": 315166,
+      "word": "马嘉祺我们的歌跳舞了",
+      "onboard_time": 1669561664,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 315133,
       "num": 315133,
       "word": "女子冰奶茶配油炸小吃致酸中毒",
@@ -27651,6 +27731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 307659,
+      "num": 307659,
+      "word": "BLG",
+      "onboard_time": 1669561724,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 307631,
       "num": 305361,
       "word": "王嘉尔官宣Lollapalooza音乐节",
@@ -28089,14 +28177,6 @@
       "onboard_time": 1669468724,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 302323,
-      "num": 302323,
-      "word": "比利时半场0比0摩洛哥",
-      "onboard_time": 1669557520,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 302250,
@@ -31011,6 +31091,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 270626,
+      "num": 270626,
+      "word": "克罗地亚vs加拿大",
+      "onboard_time": 1669562025,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 270612,
       "num": 270612,
       "word": "比亚迪惠州工厂着火",
@@ -31297,6 +31385,14 @@
       "onboard_time": 1668727160,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 267258,
+      "num": 267258,
+      "word": "李峋四次单膝下跪都是为了朱韵",
+      "onboard_time": 1669559504,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 267001,
@@ -33755,6 +33851,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 240253,
+      "num": 240253,
+      "word": "出门不想带狗",
+      "onboard_time": 1669562025,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 239974,
       "num": 239974,
       "word": "谢谢你医生剧情太上头了",
@@ -34803,6 +34907,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 230970,
+      "num": 226088,
+      "word": "又爆冷一场",
+      "onboard_time": 1669562321,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 230897,
       "num": 230897,
       "word": "洗牙能把牙洗白吗",
@@ -35691,14 +35803,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 224228,
-      "num": 224228,
-      "word": "李峋四次单膝下跪都是为了朱韵",
-      "onboard_time": 1669559504,
-      "rank": 43,
-      "category": "影视"
-    },
-    {
       "raw_hot": 224202,
       "num": 224202,
       "word": "赵丽颖许半夏配音随拍",
@@ -36561,6 +36665,14 @@
       "onboard_time": 1669198775,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 217704,
+      "num": 217704,
+      "word": "女子在家清洗灯罩不料漆被泡掉",
+      "onboard_time": 1669562205,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 217698,
@@ -41955,14 +42067,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 182926,
-      "num": 182926,
-      "word": "抖音回应世界杯直播时出现杂音",
-      "onboard_time": 1669559081,
-      "rank": 48,
-      "category": "体育,科技"
-    },
-    {
       "raw_hot": 182859,
       "num": 182859,
       "word": "GK对战WB",
@@ -43169,14 +43273,6 @@
       "onboard_time": 1668402451,
       "rank": 34,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 175360,
-      "num": 175360,
-      "word": "卢卡库",
-      "onboard_time": 1669559322,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 175356,
@@ -59452,7 +59548,7 @@
     },
     {
       "raw_hot": 75531,
-      "num": 1828599,
+      "num": 2306286,
       "word": "推动经济全球化不断向前",
       "onboard_time": 1669530871,
       "rank": 2,

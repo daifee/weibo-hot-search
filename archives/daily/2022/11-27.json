@@ -1,7 +1,15 @@
 {
   "startTime": 1669479991529,
-  "endTime": 1669559599311,
+  "endTime": 1669562352838,
   "band_list": [
+    {
+      "raw_hot": 3885708,
+      "num": 3885708,
+      "word": "武汉呼吁市民同心合力群防群控",
+      "onboard_time": 1669557640,
+      "rank": 9,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 3822944,
       "num": 3822944,
@@ -91,6 +99,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2291020,
+      "num": 2291020,
+      "word": "武汉疫情防控",
+      "onboard_time": 1669558119,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2210102,
+      "num": 2210102,
+      "word": "比利时0比2摩洛哥",
+      "onboard_time": 1669561311,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2115348,
       "num": 576007,
       "word": "女生呵斥图书馆放不雅视频男子遭回怼",
@@ -120,6 +144,14 @@
       "word": "社区否认一混阳志愿者给市民做核酸",
       "onboard_time": 1669509150,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1904491,
+      "num": 1904491,
+      "word": "给大白实名也是为大白正名",
+      "onboard_time": 1669554457,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -171,14 +203,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1746536,
-      "num": 1746536,
-      "word": "武汉呼吁市民同心合力群防群控",
-      "onboard_time": 1669557640,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1739179,
       "num": 1480477,
       "word": "李峋喘息声",
@@ -219,27 +243,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1634007,
-      "num": 1634007,
-      "word": "给大白实名也是为大白正名",
-      "onboard_time": 1669554457,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1613206,
       "num": 1613206,
       "word": "北京理工大学一名学生核酸呈阳性",
       "onboard_time": 1669473888,
       "rank": 3,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1595341,
-      "num": 1595341,
-      "word": "武汉疫情防控",
-      "onboard_time": 1669558119,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -280,6 +288,14 @@
       "word": "男家教猥亵10岁女童被判终身禁业",
       "onboard_time": 1669507468,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1367567,
+      "num": 1016388,
+      "word": "女婴出生时长5.7厘米尾巴",
+      "onboard_time": 1669561062,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -371,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1039936,
+      "num": 1039936,
+      "word": "抖音回应世界杯直播时出现杂音",
+      "onboard_time": 1669559081,
+      "rank": 48,
+      "category": "体育,科技"
+    },
+    {
       "raw_hot": 1012904,
       "num": 1012904,
       "word": "毛利小五郎麻药免疫",
@@ -451,6 +475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 847799,
+      "num": 847799,
+      "word": "200斤女子减重90斤找到男朋友",
+      "onboard_time": 1669557640,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 847150,
       "num": 847150,
       "word": "严禁随意封控等各类层层加码行为",
@@ -491,6 +523,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 813270,
+      "num": 813270,
+      "word": "比利时vs摩洛哥",
+      "onboard_time": 1669551995,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 809297,
       "num": 809297,
       "word": "北京疫情发布会",
@@ -507,6 +547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 759584,
+      "num": 759584,
+      "word": "比利时门将",
+      "onboard_time": 1669557765,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 753604,
       "num": 627006,
       "word": "蔡英文辞去民进党主席职务",
@@ -521,6 +569,14 @@
       "onboard_time": 1669517374,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 744689,
+      "num": 744689,
+      "word": "风吹半夏首播收视",
+      "onboard_time": 1669560463,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 732437,
@@ -563,6 +619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 710314,
+      "num": 710314,
+      "word": "西安900路公交女司机因高颜值走红",
+      "onboard_time": 1669557580,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 709093,
       "num": 709093,
       "word": "西班牙vs德国",
@@ -593,6 +657,14 @@
       "onboard_time": 1669464403,
       "rank": 8,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 660149,
+      "num": 660149,
+      "word": "吃个炒饭给我整得热血澎湃",
+      "onboard_time": 1669557341,
+      "rank": 28,
+      "category": "幽默,美食"
     },
     {
       "raw_hot": 652214,
@@ -627,6 +699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 625129,
+      "num": 625129,
+      "word": "朱韵穿了李峋的衬衫",
+      "onboard_time": 1669558119,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 607135,
       "num": 607135,
       "word": "替梅西紧张",
@@ -643,12 +723,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 594785,
-      "num": 594785,
-      "word": "200斤女子减重90斤找到男朋友",
-      "onboard_time": 1669557640,
-      "rank": 24,
-      "category": "社会新闻"
+      "raw_hot": 598901,
+      "num": 598901,
+      "word": "摩洛哥进球",
+      "onboard_time": 1669559924,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 594617,
@@ -771,14 +851,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 540299,
-      "num": 540299,
-      "word": "西安900路公交女司机因高颜值走红",
-      "onboard_time": 1669557580,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 539902,
       "num": 339411,
       "word": "梅西一定要赢啊",
@@ -793,6 +865,14 @@
       "onboard_time": 1669507346,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 535814,
+      "num": 226441,
+      "word": "黄仁俊笑容",
+      "onboard_time": 1669562321,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 534504,
@@ -811,20 +891,20 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 533992,
-      "num": 533992,
-      "word": "朱韵穿了李峋的衬衫",
-      "onboard_time": 1669558119,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 530996,
       "num": 434028,
       "word": "中国球迷含泪大喊上帝保佑梅西",
       "onboard_time": 1669523314,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 530366,
+      "num": 530366,
+      "word": "元英为李薇改了规矩",
+      "onboard_time": 1669558001,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 528766,
@@ -859,14 +939,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 519159,
-      "num": 519159,
-      "word": "比利时vs摩洛哥",
-      "onboard_time": 1669551995,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 518325,
       "num": 518325,
       "word": "命韵峋环重逢后吻戏",
@@ -897,14 +969,6 @@
       "onboard_time": 1669537835,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 506188,
-      "num": 506188,
-      "word": "吃个炒饭给我整得热血澎湃",
-      "onboard_time": 1669557341,
-      "rank": 28,
-      "category": "幽默,美食"
     },
     {
       "raw_hot": 506046,
@@ -961,6 +1025,14 @@
       "onboard_time": 1669546234,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 491439,
+      "num": 491439,
+      "word": "比利时半场0比0摩洛哥",
+      "onboard_time": 1669557520,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 489839,
@@ -1051,14 +1123,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 460457,
-      "num": 460457,
-      "word": "比利时门将",
-      "onboard_time": 1669557765,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 453253,
       "num": 453253,
       "word": "内马尔晒脚踝伤势",
@@ -1129,6 +1193,14 @@
       "onboard_time": 1669554036,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 422586,
+      "num": 422586,
+      "word": "卢卡库",
+      "onboard_time": 1669559322,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 421973,
@@ -1315,6 +1387,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 365163,
+      "num": 365163,
+      "word": "尹峥尹岐去了甘棠驿",
+      "onboard_time": 1669561905,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 364582,
       "num": 364582,
       "word": "守门员都看不下去了",
@@ -1411,14 +1491,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 346109,
-      "num": 346109,
-      "word": "元英为李薇改了规矩",
-      "onboard_time": 1669558001,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 345962,
       "num": 345962,
       "word": "莫德里奇首次回应难民照片",
@@ -1507,6 +1579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 315166,
+      "num": 315166,
+      "word": "马嘉祺我们的歌跳舞了",
+      "onboard_time": 1669561664,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 313680,
       "num": 313680,
       "word": "沈月无限超越班上班路透",
@@ -1547,6 +1627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 307659,
+      "num": 307659,
+      "word": "BLG",
+      "onboard_time": 1669561724,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 307413,
       "num": 307413,
       "word": "杨幂说阳华是在家做饭的小奶狗",
@@ -1585,14 +1673,6 @@
       "onboard_time": 1669546836,
       "rank": 38,
       "category": "美食"
-    },
-    {
-      "raw_hot": 302323,
-      "num": 302323,
-      "word": "比利时半场0比0摩洛哥",
-      "onboard_time": 1669557520,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 299952,
@@ -1787,6 +1867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 270626,
+      "num": 270626,
+      "word": "克罗地亚vs加拿大",
+      "onboard_time": 1669562025,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 269938,
       "num": 269938,
       "word": "马宁好帅",
@@ -1801,6 +1889,14 @@
       "onboard_time": 1669519713,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 267258,
+      "num": 267258,
+      "word": "李峋四次单膝下跪都是为了朱韵",
+      "onboard_time": 1669559504,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 266610,
@@ -1979,6 +2075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 240253,
+      "num": 240253,
+      "word": "出门不想带狗",
+      "onboard_time": 1669562025,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 239498,
       "num": 162043,
       "word": "崔胜澈舞台爆发力",
@@ -2059,6 +2163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 230970,
+      "num": 226088,
+      "word": "又爆冷一场",
+      "onboard_time": 1669562321,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 230047,
       "num": 230047,
       "word": "我们的歌",
@@ -2115,14 +2227,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 224228,
-      "num": 224228,
-      "word": "李峋四次单膝下跪都是为了朱韵",
-      "onboard_time": 1669559504,
-      "rank": 43,
-      "category": "影视"
-    },
-    {
       "raw_hot": 223730,
       "num": 223730,
       "word": "梅西追平马拉多纳世界杯进球数",
@@ -2177,6 +2281,14 @@
       "onboard_time": 1669525653,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 217704,
+      "num": 217704,
+      "word": "女子在家清洗灯罩不料漆被泡掉",
+      "onboard_time": 1669562205,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 215958,
@@ -2483,14 +2595,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 182926,
-      "num": 182926,
-      "word": "抖音回应世界杯直播时出现杂音",
-      "onboard_time": 1669559081,
-      "rank": 48,
-      "category": "体育,科技"
-    },
-    {
       "raw_hot": 182806,
       "num": 182806,
       "word": "杨九郎cos年画娃娃",
@@ -2609,14 +2713,6 @@
       "onboard_time": 1669523914,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 175360,
-      "num": 175360,
-      "word": "卢卡库",
-      "onboard_time": 1669559322,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 173897,
@@ -3188,7 +3284,7 @@
     },
     {
       "raw_hot": 75531,
-      "num": 1828599,
+      "num": 2306286,
       "word": "推动经济全球化不断向前",
       "onboard_time": 1669530871,
       "rank": 2,
