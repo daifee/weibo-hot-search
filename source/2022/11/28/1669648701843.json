@@ -1,0 +1,410 @@
+{
+  "runTime": 1669648701843,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2375021,
+        "num": 2375021,
+        "word": "韩国vs加纳",
+        "onboard_time": 1669637497,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2286045,
+        "num": 2286045,
+        "word": "韩国2比3加纳",
+        "onboard_time": 1669648006,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 39269,
+        "num": 2071221,
+        "word": "100秒重温神十五航天员真挚发言",
+        "onboard_time": 1669621472,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1960785,
+        "num": 1960785,
+        "word": "孙兴慜 状态",
+        "onboard_time": 1669645298,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1370331,
+        "num": 1370331,
+        "word": "上财校长称博士生像乞丐一样在研究",
+        "onboard_time": 1669644873,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1236394,
+        "num": 1236394,
+        "word": "多家麻六记门店称人气大涨",
+        "onboard_time": 1669639775,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1115425,
+        "num": 1115425,
+        "word": "重庆抗疫一线医护人员的肺腑之言",
+        "onboard_time": 1669643857,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1065600,
+        "num": 1065600,
+        "word": "韩国后卫好像提前飞回国了",
+        "onboard_time": 1669647756,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1045492,
+        "num": 1045492,
+        "word": "远嫁女子孕期遭家暴娘家上门接回家",
+        "onboard_time": 1669635938,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 929339,
+        "num": 929339,
+        "word": "李薇成为正夫人",
+        "onboard_time": 1669639957,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 859388,
+        "num": 859388,
+        "word": "核子基因多次被罚仍中标核酸检测项目",
+        "onboard_time": 1669642900,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 698818,
+        "num": 698818,
+        "word": "加纳门将",
+        "onboard_time": 1669646976,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 652308,
+        "num": 652308,
+        "word": "李国庆称张兰是他尊敬的企业家",
+        "onboard_time": 1669642656,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 637943,
+        "num": 637943,
+        "word": "山东一医院开诊亮灯仪式被指像KTV",
+        "onboard_time": 1669643612,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 637353,
+        "num": 637353,
+        "word": "事实证明洗脚盆不能买折叠的",
+        "onboard_time": 1669640915,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 615702,
+        "num": 615702,
+        "word": "研究生考试12月24日举行",
+        "onboard_time": 1669631253,
+        "rank": 15,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 522742,
+        "num": 522742,
+        "word": "广州海珠试行闭环泡泡",
+        "onboard_time": 1669636233,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 482983,
+        "num": 482983,
+        "word": "你愿意花几年考研上岸",
+        "onboard_time": 1669642419,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 482144,
+        "num": 482144,
+        "word": "Nuguri退役",
+        "onboard_time": 1669637796,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 479245,
+        "num": 479245,
+        "word": "尹岐上官婧和离",
+        "onboard_time": 1669639413,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 466707,
+        "num": 466707,
+        "word": "葡萄牙vs乌拉圭",
+        "onboard_time": 1669648364,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 454580,
+        "num": 454580,
+        "word": "加纳好猛",
+        "onboard_time": 1669646498,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 445537,
+        "num": 445537,
+        "word": "原来琼瑶剧运动量这么大",
+        "onboard_time": 1669643433,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 423388,
+        "num": 423388,
+        "word": "刘美含是语言小天才吧",
+        "onboard_time": 1669646255,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 401279,
+        "num": 401279,
+        "word": "刘诗诗送剧组工作人员羽绒服",
+        "onboard_time": 1669644100,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 400425,
+        "num": 400425,
+        "word": "常态化做核酸安全吗",
+        "onboard_time": 1669632699,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 382155,
+        "num": 382155,
+        "word": "巴西vs瑞士",
+        "onboard_time": 1669648303,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 381105,
+        "num": 381105,
+        "word": "苹果手机将全迈入全面屏时代",
+        "onboard_time": 1669635814,
+        "rank": 27,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 364912,
+        "num": 364912,
+        "word": "李峋的嘴派上用场了",
+        "onboard_time": 1669644818,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 328927,
+        "num": 346854,
+        "word": "寻找15岁少年胡某宇",
+        "onboard_time": 1669639353,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345086,
+        "num": 345086,
+        "word": "梅西和内马尔的配合有多默契",
+        "onboard_time": 1669640737,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 326447,
+        "num": 326447,
+        "word": "罗云熙用车被安装跟踪定位器",
+        "onboard_time": 1669642594,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 324565,
+        "num": 324565,
+        "word": "曹圭成梅开二度",
+        "onboard_time": 1669646316,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 319198,
+        "num": 319198,
+        "word": "杭州中学生打败麻省理工学霸",
+        "onboard_time": 1669640435,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308318,
+        "num": 308318,
+        "word": "ksg",
+        "onboard_time": 1669645176,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 296944,
+        "num": 296944,
+        "word": "赵露思提名金莲花最佳女主角",
+        "onboard_time": 1669635517,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 285003,
+        "num": 285003,
+        "word": "要一辈子友情还是半年爱情",
+        "onboard_time": 1669641937,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 277639,
+        "num": 277639,
+        "word": "2022LOL冬季转会期",
+        "onboard_time": 1669643194,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 274057,
+        "num": 274057,
+        "word": "女子在家被呛竟是有人楼梯间烧纸",
+        "onboard_time": 1669642594,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273606,
+        "num": 273606,
+        "word": "上海一居民房屋起火致2死1伤",
+        "onboard_time": 1669641754,
+        "rank": 39,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 264788,
+        "num": 264788,
+        "word": "黑化的美嘉",
+        "onboard_time": 1669631196,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 243102,
+        "num": 243102,
+        "word": "赵丽颖李光洁风吹半夏是官配",
+        "onboard_time": 1669639116,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 236747,
+        "num": 236747,
+        "word": "台州交警通报特斯拉追尾致2死1伤",
+        "onboard_time": 1669648303,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230562,
+        "num": 230562,
+        "word": "同居生2娃男友欠80万外债失联",
+        "onboard_time": 1669630113,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218973,
+        "num": 218973,
+        "word": "难听",
+        "onboard_time": 1669630654,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 213857,
+        "num": 213857,
+        "word": "李薇元英不舍分别",
+        "onboard_time": 1669644339,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 211513,
+        "num": 211513,
+        "word": "张婧仪说大家不要再去考古了",
+        "onboard_time": 1669629214,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 209457,
+        "num": 209457,
+        "word": "真的有人穿什么都好看",
+        "onboard_time": 1669648542,
+        "rank": 47,
+        "category": "幽默,时尚"
+      },
+      {
+        "raw_hot": 640485,
+        "num": 204964,
+        "word": "易烊千玺分享一段音频",
+        "onboard_time": 1669638513,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 197615,
+        "num": 197615,
+        "word": "女子结婚53天做了52天饭",
+        "onboard_time": 1669624656,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#科学精准提高防疫工作的有效性#"
+    }
+  }
+}

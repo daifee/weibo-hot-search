@@ -1,6 +1,6 @@
 {
   "startTime": 1669566398830,
-  "endTime": 1669646044540,
+  "endTime": 1669648701843,
   "band_list": [
     {
       "raw_hot": 11045761,
@@ -91,6 +91,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 2286045,
+      "num": 2286045,
+      "word": "韩国2比3加纳",
+      "onboard_time": 1669648006,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2277506,
       "num": 2277506,
       "word": "核子华曦相关实验室多次违规被罚",
@@ -129,6 +137,14 @@
       "onboard_time": 1669561062,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1960785,
+      "num": 1960785,
+      "word": "孙兴慜 状态",
+      "onboard_time": 1669645298,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 1903536,
@@ -275,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1370331,
+      "num": 1370331,
+      "word": "上财校长称博士生像乞丐一样在研究",
+      "onboard_time": 1669644873,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1261827,
       "num": 1261827,
       "word": "美国vs伊朗主裁判公布",
@@ -347,6 +371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1115425,
+      "num": 1115425,
+      "word": "重庆抗疫一线医护人员的肺腑之言",
+      "onboard_time": 1669643857,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1112757,
       "num": 1032279,
       "word": "同居生2娃男友欠80万外债失联",
@@ -393,6 +425,14 @@
       "onboard_time": 1669554457,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1065600,
+      "num": 1065600,
+      "word": "韩国后卫好像提前飞回国了",
+      "onboard_time": 1669647756,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 1048176,
@@ -465,6 +505,14 @@
       "onboard_time": 1669599272,
       "rank": 16,
       "category": "体育,网红"
+    },
+    {
+      "raw_hot": 859388,
+      "num": 859388,
+      "word": "核子基因多次被罚仍中标核酸检测项目",
+      "onboard_time": 1669642900,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 843374,
@@ -619,6 +667,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 698818,
+      "num": 698818,
+      "word": "加纳门将",
+      "onboard_time": 1669646976,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 688105,
       "num": 688105,
       "word": "小伙娶见义勇为女孩为妻照顾34年",
@@ -667,6 +723,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 640485,
+      "num": 312081,
+      "word": "易烊千玺分享一段音频",
+      "onboard_time": 1669638513,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 640218,
       "num": 640218,
       "word": "大连理工博士为救重病儿子休学",
@@ -689,6 +753,14 @@
       "onboard_time": 1669561841,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 637943,
+      "num": 637943,
+      "word": "山东一医院开诊亮灯仪式被指像KTV",
+      "onboard_time": 1669643612,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 637340,
@@ -867,14 +939,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 520978,
-      "num": 520978,
-      "word": "重庆抗疫一线医护人员的肺腑之言",
-      "onboard_time": 1669643857,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 505292,
       "num": 505292,
       "word": "如果不考虑职业歧视和薪资",
@@ -896,14 +960,6 @@
       "word": "19岁女生减肥催吐致进食障碍",
       "onboard_time": 1669613496,
       "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 487905,
-      "num": 487905,
-      "word": "山东一医院开诊亮灯仪式被指像KTV",
-      "onboard_time": 1669643612,
-      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -963,6 +1019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 466707,
+      "num": 466707,
+      "word": "葡萄牙vs乌拉圭",
+      "onboard_time": 1669616973,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 465887,
       "num": 465887,
       "word": "老人故意推倒摩托车主坚持追责",
@@ -1019,6 +1083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 454580,
+      "num": 454580,
+      "word": "加纳好猛",
+      "onboard_time": 1669646498,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 450905,
       "num": 450905,
       "word": "李黛辞职",
@@ -1040,6 +1112,14 @@
       "word": "尹岐失了父爱确定真爱",
       "onboard_time": 1669603831,
       "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 445537,
+      "num": 445537,
+      "word": "原来琼瑶剧运动量这么大",
+      "onboard_time": 1669643433,
+      "rank": 29,
       "category": "影视"
     },
     {
@@ -1065,14 +1145,6 @@
       "onboard_time": 1669598795,
       "rank": 13,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 438200,
-      "num": 438200,
-      "word": "孙兴慜 状态",
-      "onboard_time": 1669645298,
-      "rank": 21,
-      "category": "体育"
     },
     {
       "raw_hot": 436531,
@@ -1123,6 +1195,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 423388,
+      "num": 423388,
+      "word": "刘美含是语言小天才吧",
+      "onboard_time": 1669646255,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 423272,
       "num": 347139,
       "word": "RedVelvet回归记者会新闻图",
@@ -1160,14 +1240,6 @@
       "word": "德国出线概率67%",
       "onboard_time": 1669600470,
       "rank": 29,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 409581,
-      "num": 409581,
-      "word": "葡萄牙vs乌拉圭",
-      "onboard_time": 1669616973,
-      "rank": 38,
       "category": "体育"
     },
     {
@@ -1233,6 +1305,14 @@
       "onboard_time": 1669612417,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 382155,
+      "num": 382155,
+      "word": "巴西vs瑞士",
+      "onboard_time": 1669648303,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 380278,
@@ -1363,14 +1443,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 356129,
-      "num": 356129,
-      "word": "上财校长称博士生像乞丐一样在研究",
-      "onboard_time": 1669644873,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 354263,
       "num": 354263,
       "word": "克罗地亚4比1加拿大",
@@ -1441,14 +1513,6 @@
       "onboard_time": 1669597355,
       "rank": 19,
       "category": "影视"
-    },
-    {
-      "raw_hot": 342648,
-      "num": 342648,
-      "word": "核子基因多次被罚仍中标核酸检测项目",
-      "onboard_time": 1669642900,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 338552,
@@ -1523,20 +1587,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 327545,
-      "num": 327545,
-      "word": "原来琼瑶剧运动量这么大",
-      "onboard_time": 1669643433,
-      "rank": 29,
-      "category": "影视"
-    },
-    {
       "raw_hot": 325572,
       "num": 325572,
       "word": "厦门前埔空气",
       "onboard_time": 1669637559,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 324565,
+      "num": 324565,
+      "word": "曹圭成梅开二度",
+      "onboard_time": 1669646316,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 323441,
@@ -1641,14 +1705,6 @@
       "onboard_time": 1669608638,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 312081,
-      "num": 312081,
-      "word": "易烊千玺分享一段音频",
-      "onboard_time": 1669638513,
-      "rank": 35,
-      "category": "音乐"
     },
     {
       "raw_hot": 308799,
@@ -2051,6 +2107,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 236747,
+      "num": 236747,
+      "word": "台州交警通报特斯拉追尾致2死1伤",
+      "onboard_time": 1669648303,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 236140,
       "num": 236140,
       "word": "华晨宇筹备三年演唱会和以前的区别",
@@ -2195,6 +2259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 213857,
+      "num": 213857,
+      "word": "李薇元英不舍分别",
+      "onboard_time": 1669644339,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 213321,
       "num": 213321,
       "word": "强制开机后一秒关机的狗狗",
@@ -2209,6 +2281,14 @@
       "onboard_time": 1669618892,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 209457,
+      "num": 209457,
+      "word": "真的有人穿什么都好看",
+      "onboard_time": 1669648542,
+      "rank": 47,
+      "category": "幽默,时尚"
     },
     {
       "raw_hot": 207072,
@@ -3011,18 +3091,18 @@
       "category": "体育"
     },
     {
-      "raw_hot": 39183,
-      "num": 3845214,
-      "word": "神十五已做好出征准备",
-      "onboard_time": 1669532010,
+      "raw_hot": 39269,
+      "num": 2071221,
+      "word": "100秒重温神十五航天员真挚发言",
+      "onboard_time": 1669621472,
       "rank": 2,
       "category": "国内要闻"
     },
     {
-      "raw_hot": 39181,
-      "num": 1392914,
-      "word": "100秒重温神十五航天员真挚发言",
-      "onboard_time": 1669621472,
+      "raw_hot": 39183,
+      "num": 3845214,
+      "word": "神十五已做好出征准备",
+      "onboard_time": 1669532010,
       "rank": 2,
       "category": "国内要闻"
     }
