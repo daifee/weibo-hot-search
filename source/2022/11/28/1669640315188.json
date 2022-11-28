@@ -1,0 +1,410 @@
+{
+  "runTime": 1669640315188,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1823703,
+        "num": 1823703,
+        "word": "Nuguri退役",
+        "onboard_time": 1669637796,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1273045,
+        "num": 1273045,
+        "word": "广州海珠试行闭环泡泡",
+        "onboard_time": 1669636233,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41673,
+        "num": 1226653,
+        "word": "神十五航天员乘组确定",
+        "onboard_time": 1669613436,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1903536,
+        "num": 1222940,
+        "word": "远嫁女子孕期遭家暴娘家上门接回家",
+        "onboard_time": 1669635938,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1205640,
+        "num": 1205640,
+        "word": "常态化做核酸安全吗",
+        "onboard_time": 1669632699,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1629615,
+        "num": 1180896,
+        "word": "核酸检测或遭经济垄断化",
+        "onboard_time": 1669620574,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1104848,
+        "num": 1104848,
+        "word": "大白下班点就走老人坚持让做完核酸",
+        "onboard_time": 1669634977,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1046824,
+        "num": 1046824,
+        "word": "赵露思提名金莲花最佳女主角",
+        "onboard_time": 1669635517,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 836785,
+        "num": 836785,
+        "word": "尹岐上官婧和离",
+        "onboard_time": 1669639413,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 866623,
+        "num": 825443,
+        "word": "核子华曦已启动IPO上市计划",
+        "onboard_time": 1669634135,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 767196,
+        "num": 767196,
+        "word": "研究生考试12月24日举行",
+        "onboard_time": 1669631253,
+        "rank": 10,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 733176,
+        "num": 733176,
+        "word": "喀麦隆3比3塞尔维亚",
+        "onboard_time": 1669637436,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 716620,
+        "num": 716620,
+        "word": "苹果手机将全迈入全面屏时代",
+        "onboard_time": 1669635814,
+        "rank": 12,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 569224,
+        "num": 569224,
+        "word": "女子结婚53天做了52天饭",
+        "onboard_time": 1669624656,
+        "rank": 13,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 536007,
+        "num": 536007,
+        "word": "黑化的美嘉",
+        "onboard_time": 1669631196,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 484141,
+        "num": 484141,
+        "word": "郝葭赵芳如联手支棱起来了",
+        "onboard_time": 1669638875,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 451101,
+        "num": 451101,
+        "word": "张婧仪说大家不要再去考古了",
+        "onboard_time": 1669629214,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 435934,
+        "num": 435934,
+        "word": "同居生2娃男友欠80万外债失联",
+        "onboard_time": 1669630113,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 428809,
+        "num": 428809,
+        "word": "李黛辞职",
+        "onboard_time": 1669635871,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 408339,
+        "num": 408339,
+        "word": "揭秘关联37家核检机构的张姗姗",
+        "onboard_time": 1669618412,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 395672,
+        "num": 395672,
+        "word": "李薇成为正夫人",
+        "onboard_time": 1669639957,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 384536,
+        "num": 384536,
+        "word": "王鹤棣时宴吃火锅路透",
+        "onboard_time": 1669634793,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 377733,
+        "num": 377733,
+        "word": "张蕴钰之子称不认识张核子张珊珊",
+        "onboard_time": 1669636715,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 349899,
+        "num": 349899,
+        "word": "赵丽颖李光洁风吹半夏是官配",
+        "onboard_time": 1669639116,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 344493,
+        "num": 344493,
+        "word": "宝妈为赚钱刷单被骗125万",
+        "onboard_time": 1669637316,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333691,
+        "num": 333691,
+        "word": "恢复上市房企和涉房上市公司再融资",
+        "onboard_time": 1669634913,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 281330,
+        "num": 281330,
+        "word": "日本企业家怒斥本国球迷看台捡垃圾",
+        "onboard_time": 1669628495,
+        "rank": 26,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 280477,
+        "num": 280477,
+        "word": "厦门前埔空气",
+        "onboard_time": 1669637559,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244972,
+        "num": 244972,
+        "word": "寻找15岁少年胡某宇",
+        "onboard_time": 1669639353,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232308,
+        "num": 232308,
+        "word": "女孩烤太多地瓜妈妈说吃不完别吃饭",
+        "onboard_time": 1669630775,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 337983,
+        "num": 231682,
+        "word": "易烊千玺新歌预告音频",
+        "onboard_time": 1669638513,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 347534,
+        "num": 229155,
+        "word": "喻言最新红毯造型",
+        "onboard_time": 1669640137,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 331920,
+        "num": 227575,
+        "word": "泰国歌手高卿尘现身南宁对山歌",
+        "onboard_time": 1669640016,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 327872,
+        "num": 226072,
+        "word": "张馨予晒原相机自拍照",
+        "onboard_time": 1669635871,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285141,
+        "num": 225083,
+        "word": "Irene",
+        "onboard_time": 1669629994,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 224037,
+        "num": 224037,
+        "word": "网传女子被10多人轮流棍击",
+        "onboard_time": 1669617934,
+        "rank": 35,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 221685,
+        "num": 221685,
+        "word": "多家麻六记门店称人气大涨",
+        "onboard_time": 1669639775,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215535,
+        "num": 215535,
+        "word": "男子连撞3人疑称撞死人无所谓",
+        "onboard_time": 1669629451,
+        "rank": 37,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 208130,
+        "num": 208130,
+        "word": "T1与Faker续约3年",
+        "onboard_time": 1669631615,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 201313,
+        "num": 201313,
+        "word": "韩国vs加纳",
+        "onboard_time": 1669637497,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 265297,
+        "num": 200710,
+        "word": "尹峥尹嵩敞开心扉",
+        "onboard_time": 1669638098,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 274010,
+        "num": 198997,
+        "word": "朱韵李峋做局引高见鸿入套",
+        "onboard_time": 1669635993,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 187793,
+        "num": 187793,
+        "word": "北京新增本土感染者2086例",
+        "onboard_time": 1669628791,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181676,
+        "num": 181676,
+        "word": "奥纳纳退出世界杯",
+        "onboard_time": 1669632158,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171350,
+        "num": 171350,
+        "word": "当布偶猫离开了美颜相机",
+        "onboard_time": 1669632337,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 167769,
+        "num": 167769,
+        "word": "C罗坚持同款饮食20年",
+        "onboard_time": 1669625794,
+        "rank": 45,
+        "category": "体育,美食"
+      },
+      {
+        "raw_hot": 163125,
+        "num": 163125,
+        "word": "越位",
+        "onboard_time": 1669636775,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163099,
+        "num": 163099,
+        "word": "顾客点龙虾做标记上菜后发现被换",
+        "onboard_time": 1669623754,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149962,
+        "num": 149962,
+        "word": "又被久哲的BP拿捏了",
+        "onboard_time": 1669638212,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 142276,
+        "num": 142276,
+        "word": "孙女见爷奶家电视背景墙仿佛穿越",
+        "onboard_time": 1669639594,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#航天新征程#"
+    }
+  }
+}

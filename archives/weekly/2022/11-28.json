@@ -1,6 +1,6 @@
 {
   "startTime": 1669566398830,
-  "endTime": 1669639105654,
+  "endTime": 1669640315188,
   "band_list": [
     {
       "raw_hot": 11045761,
@@ -123,20 +123,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1903536,
+      "num": 1261861,
+      "word": "远嫁女子孕期遭家暴娘家上门接回家",
+      "onboard_time": 1669635938,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1823703,
+      "num": 1823703,
+      "word": "Nuguri退役",
+      "onboard_time": 1669637796,
+      "rank": 1,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1763329,
       "num": 1763329,
       "word": "张颜齐去卡塔尔看球了",
       "onboard_time": 1669606660,
       "rank": 9,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 1725977,
-      "num": 1261861,
-      "word": "远嫁女子孕期遭家暴娘家上门接回家",
-      "onboard_time": 1669635938,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1724956,
@@ -177,14 +185,6 @@
       "onboard_time": 1669606478,
       "rank": 5,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1494377,
-      "num": 1494377,
-      "word": "Nuguri退役",
-      "onboard_time": 1669637796,
-      "rank": 1,
-      "category": "游戏"
     },
     {
       "raw_hot": 1488140,
@@ -248,6 +248,14 @@
       "word": "核子华曦部分公司近3个月内成立",
       "onboard_time": 1669609240,
       "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1273045,
+      "num": 1273045,
+      "word": "广州海珠试行闭环泡泡",
+      "onboard_time": 1669636233,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -315,8 +323,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1099323,
-      "num": 1099323,
+      "raw_hot": 1104848,
+      "num": 1104848,
       "word": "大白下班点就走老人坚持让做完核酸",
       "onboard_time": 1669634977,
       "rank": 42,
@@ -336,14 +344,6 @@
       "word": "核子华曦已启动IPO上市计划",
       "onboard_time": 1669634135,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1075690,
-      "num": 1075690,
-      "word": "广州海珠试行闭环泡泡",
-      "onboard_time": 1669636233,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -433,6 +433,14 @@
       "onboard_time": 1669604796,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 836785,
+      "num": 836785,
+      "word": "尹岐上官婧和离",
+      "onboard_time": 1669639413,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 828644,
@@ -547,6 +555,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 716620,
+      "num": 716620,
+      "word": "苹果手机将全迈入全面屏时代",
+      "onboard_time": 1669635814,
+      "rank": 14,
+      "category": "科技"
+    },
+    {
       "raw_hot": 688105,
       "num": 688105,
       "word": "小伙娶见义勇为女孩为妻照顾34年",
@@ -641,14 +657,6 @@
       "onboard_time": 1669610381,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 592815,
-      "num": 592815,
-      "word": "苹果手机将全迈入全面屏时代",
-      "onboard_time": 1669635814,
-      "rank": 14,
-      "category": "科技"
     },
     {
       "raw_hot": 589917,
@@ -785,6 +793,14 @@
       "onboard_time": 1669613496,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 484141,
+      "num": 484141,
+      "word": "郝葭赵芳如联手支棱起来了",
+      "onboard_time": 1669638875,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 483514,
@@ -1027,6 +1043,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 395672,
+      "num": 395672,
+      "word": "李薇成为正夫人",
+      "onboard_time": 1669639957,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 391181,
       "num": 391181,
       "word": "朴志晟金丝框眼镜",
@@ -1075,20 +1099,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 377733,
+      "num": 377733,
+      "word": "张蕴钰之子称不认识张核子张珊珊",
+      "onboard_time": 1669636715,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 377119,
       "num": 377119,
       "word": "男子连撞3人疑称撞死人无所谓",
       "onboard_time": 1669629451,
       "rank": 24,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 375564,
-      "num": 375564,
-      "word": "张蕴钰之子称不认识张核子张珊珊",
-      "onboard_time": 1669636715,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 372978,
@@ -1163,6 +1187,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 349899,
+      "num": 349899,
+      "word": "赵丽颖李光洁风吹半夏是官配",
+      "onboard_time": 1669639116,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 347534,
+      "num": 229155,
+      "word": "喻言最新红毯造型",
+      "onboard_time": 1669640137,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 347508,
       "num": 347508,
       "word": "今年热播剧女主的状态",
@@ -1185,6 +1225,14 @@
       "onboard_time": 1669606116,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 344493,
+      "num": 344493,
+      "word": "宝妈为赚钱刷单被骗125万",
+      "onboard_time": 1669637316,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 343962,
@@ -1219,14 +1267,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 335190,
-      "num": 335190,
-      "word": "郝葭赵芳如联手支棱起来了",
-      "onboard_time": 1669638875,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
       "raw_hot": 334641,
       "num": 297469,
       "word": "RedVelvet新专辑预售量突破71万张",
@@ -1251,6 +1291,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 331920,
+      "num": 227575,
+      "word": "泰国歌手高卿尘现身南宁对山歌",
+      "onboard_time": 1669640016,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 329889,
       "num": 329889,
       "word": "南京一医院接连收治多例柿石症患者",
@@ -1265,6 +1313,14 @@
       "onboard_time": 1669608765,
       "rank": 28,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 327872,
+      "num": 244774,
+      "word": "张馨予晒原相机自拍照",
+      "onboard_time": 1669635871,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 325572,
@@ -1377,14 +1433,6 @@
       "onboard_time": 1669608638,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 311592,
-      "num": 244774,
-      "word": "张馨予晒原相机自拍照",
-      "onboard_time": 1669635871,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 308799,
@@ -1539,6 +1587,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 274010,
+      "num": 242937,
+      "word": "朱韵李峋做局引高见鸿入套",
+      "onboard_time": 1669635993,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 273990,
       "num": 273990,
       "word": "BLG",
@@ -1577,14 +1633,6 @@
       "onboard_time": 1669617869,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 257845,
-      "num": 242937,
-      "word": "朱韵李峋做局引高见鸿入套",
-      "onboard_time": 1669635993,
-      "rank": 34,
-      "category": "影视"
     },
     {
       "raw_hot": 257421,
@@ -1675,6 +1723,14 @@
       "category": "幽默,教育"
     },
     {
+      "raw_hot": 244972,
+      "num": 244972,
+      "word": "寻找15岁少年胡某宇",
+      "onboard_time": 1669639353,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 244872,
       "num": 222533,
       "word": "蔡徐坤金海名场面",
@@ -1721,14 +1777,6 @@
       "onboard_time": 1669565319,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 242300,
-      "num": 242300,
-      "word": "宝妈为赚钱刷单被骗125万",
-      "onboard_time": 1669637316,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 242285,
@@ -1881,6 +1929,14 @@
       "onboard_time": 1669579273,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 221685,
+      "num": 221685,
+      "word": "多家麻六记门店称人气大涨",
+      "onboard_time": 1669639775,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 221436,
@@ -2481,6 +2537,14 @@
       "onboard_time": 1669605818,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 142276,
+      "num": 142276,
+      "word": "孙女见爷奶家电视背景墙仿佛穿越",
+      "onboard_time": 1669639594,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 142172,
