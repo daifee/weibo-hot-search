@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/01 00:36:21 ~ 2022/11/28 19:33:43
+本榜单时间：2022/11/01 00:36:21 ~ 2022/11/28 20:38:25
 </p>
 </blockquote>
 <p>
@@ -1851,6 +1851,12 @@ blue露脸（热度：1747178）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%9C%E5%AB%81%E5%A5%B3%E5%AD%90%E5%AD%95%E6%9C%9F%E9%81%AD%E5%AE%B6%E6%9A%B4%E5%A8%98%E5%AE%B6%E4%B8%8A%E9%97%A8%E6%8E%A5%E5%9B%9E%E5%AE%B6%23" target="weibo">
+远嫁女子孕期遭家暴娘家上门接回家（热度：1725977）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A0%94%E7%A9%B6%E7%94%9F%E8%80%83%E8%AF%9512%E6%9C%8824%E6%97%A5%E4%B8%BE%E8%A1%8C%23" target="weibo">
 研究生考试12月24日举行（热度：1724956）
 </a>
@@ -2093,6 +2099,12 @@ Faker（热度：1632969）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9A%B4%E9%9B%AA%E5%B0%86%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E6%9A%82%E5%81%9C%E5%A4%9A%E6%95%B0%E6%B8%B8%E6%88%8F%E6%9C%8D%E5%8A%A1%23" target="weibo">
 暴雪将在中国大陆暂停多数游戏服务（热度：1623207）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B8%B8%E6%80%81%E5%8C%96%E5%81%9A%E6%A0%B8%E9%85%B8%E5%AE%89%E5%85%A8%E5%90%97%23" target="weibo">
+常态化做核酸安全吗（热度：1621933）
 </a>
 </li>
 
@@ -2477,6 +2489,12 @@ Faker（热度：1632969）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E4%BB%BB%E8%B4%A4%E9%BD%90%E8%BD%AC%E5%8F%91%E7%9A%84%E7%94%B7%E7%AB%A5%E5%A4%B1%E8%B8%AA%E6%A1%88%23" target="weibo">
 警方回应任贤齐转发的男童失踪案（热度：1494722）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23Nuguri%E9%80%80%E5%BD%B9%23" target="weibo">
+Nuguri退役（热度：1494377）
 </a>
 </li>
 
@@ -3327,6 +3345,12 @@ C罗点球破门（热度：1245113）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E6%8F%90%E5%90%8D%E9%87%91%E8%8E%B2%E8%8A%B1%E6%9C%80%E4%BD%B3%E5%A5%B3%E4%B8%BB%E8%A7%92%23" target="weibo">
+赵露思提名金莲花最佳女主角（热度：1229641）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%80%80%E9%92%B1%E5%93%A5%E8%83%8C%E9%B9%BF%E6%99%97logo%E8%83%8C%E5%8C%85%E7%9C%8B%E4%B8%96%E7%95%8C%E6%9D%AF%23" target="weibo">
 退钱哥背鹿晗logo背包看世界杯（热度：1229182）
 </a>
@@ -3831,6 +3855,12 @@ iPhone折叠屏（热度：1140020）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%96%80%E9%BA%A6%E9%9A%863%E6%AF%943%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A%23" target="weibo">
+喀麦隆3比3塞尔维亚（热度：1123858）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%A5%BF2%E6%AF%940%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A%23" target="weibo">
 巴西2比0塞尔维亚（热度：1123043）
 </a>
@@ -3963,6 +3993,12 @@ iPhone折叠屏（热度：1140020）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%99%BD%E4%B8%8B%E7%8F%AD%E7%82%B9%E5%B0%B1%E8%B5%B0%E8%80%81%E4%BA%BA%E5%9D%9A%E6%8C%81%E8%AE%A9%E5%81%9A%E5%AE%8C%E6%A0%B8%E9%85%B8%23" target="weibo">
+大白下班点就走老人坚持让做完核酸（热度：1099323）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E5%80%A1%E5%AF%BC%E5%B8%82%E6%B0%91%E4%B8%8B%E5%91%A8%E5%B1%85%E5%AE%B6%E5%8A%9E%E5%85%AC%23" target="weibo">
 深圳倡导市民下周居家办公（热度：1097861）
 </a>
@@ -4047,6 +4083,12 @@ iPhone折叠屏（热度：1140020）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A0%B8%E5%AD%90%E5%8D%8E%E6%9B%A6%E5%B7%B2%E5%90%AF%E5%8A%A8IPO%E4%B8%8A%E5%B8%82%E8%AE%A1%E5%88%92%23" target="weibo">
+核子华曦已启动IPO上市计划（热度：1088791）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E6%9A%96%E6%9B%A6%E7%A7%B0%E6%B1%9F%E6%AF%8D%E6%9B%BE%E5%88%A0%E6%94%B9%E8%AF%81%E6%8D%AE%23" target="weibo">
 刘暖曦称江母曾删改证据（热度：1088713）
 </a>
@@ -4097,6 +4139,12 @@ iPhone折叠屏（热度：1140020）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%AD%E6%9D%BE%E9%9F%B5%E9%87%91%E9%B9%B0%E8%8A%82%E9%A2%81%E5%A5%96%E6%99%9A%E4%BC%9A%23" target="weibo">
 谭松韵金鹰节颁奖晚会（热度：1078148）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E6%B5%B7%E7%8F%A0%E8%AF%95%E8%A1%8C%E9%97%AD%E7%8E%AF%E6%B3%A1%E6%B3%A1%23" target="weibo">
+广州海珠试行闭环泡泡（热度：1075690）
 </a>
 </li>
 
@@ -4355,12 +4403,6 @@ Faker或将加入LPL（热度：1036605）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E5%98%89%E9%99%B5%E6%B1%9F%E6%83%8A%E7%8E%B0%E5%B7%A8%E5%A4%A7%E9%98%B4%E6%B2%89%E6%9C%A8%23" target="weibo">
 重庆嘉陵江惊现巨大阴沉木（热度：1029611）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B8%B8%E6%80%81%E5%8C%96%E5%81%9A%E6%A0%B8%E9%85%B8%E5%AE%89%E5%85%A8%E5%90%97%23" target="weibo">
-常态化做核酸安全吗（热度：1029109）
 </a>
 </li>
 
@@ -5969,48 +6011,6 @@ LWX（热度：842999）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E9%B9%B0%E5%A5%96%E5%A5%96%E5%8D%95%23" target="weibo">
 金鹰奖奖单（热度：840107）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E9%9A%BE%E5%93%84%E4%B8%BB%E6%BC%94%E5%BC%A0%E5%87%8C%E8%B5%AB%E7%8E%8B%E6%A5%9A%E7%84%B6%23" target="weibo">
-网传难哄主演张凌赫王楚然（热度：839251）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%9D%E5%A6%88%E5%B8%A62%E5%B2%81%E5%84%BF%E5%AD%90%E8%BF%9B%E5%A5%B3%E5%8E%95%E8%A2%AB%E9%AA%82%E6%B2%A1%E7%B4%A0%E8%B4%A8%23" target="weibo">
-宝妈带2岁儿子进女厕被骂没素质（热度：838783）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A0%A1%E6%96%B9%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E5%9C%A8%E6%9D%AD%E5%B7%9E%E5%9C%B0%E9%93%81%E5%86%85%E7%88%AC%E8%A1%8C%23" target="weibo">
-校方回应女子在杭州地铁内爬行（热度：838365）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%81%E4%BF%8A%E6%99%96%23" target="weibo">
-丁俊晖（热度：838338）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23C%E7%BD%97%23" target="weibo">
-C罗（热度：834292）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%82%B9%E7%90%83%20%E5%89%A7%E6%9C%AC%23" target="weibo">
-点球 剧本（热度：833241）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%88%B7%E7%88%B7%E7%B1%B3%E7%BC%B8%E9%95%BF%E6%BB%A1%E5%B0%8F%E8%99%AB%E6%B7%98%E7%B1%B3%E9%A3%98%E6%BB%A1%E7%9B%86%23" target="weibo">
-爷爷米缸长满小虫淘米飘满盆（热度：832998）
 </a>
 </li>
 
