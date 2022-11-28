@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1669613682726,
+  "endTime": 1669616771777,
   "band_list": [
     {
       "raw_hot": 36651023,
@@ -3483,20 +3483,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1437318,
+      "num": 1437318,
+      "word": "警方回应网传一女子被12人轮流棍击",
+      "onboard_time": 1669611460,
+      "rank": 10,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1437072,
       "num": 1105567,
       "word": "飞天奖获奖名单",
       "onboard_time": 1667311528,
       "rank": 3,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1436941,
-      "num": 1436941,
-      "word": "警方回应网传一女子被12人轮流棍击",
-      "onboard_time": 1669611460,
-      "rank": 10,
-      "category": "社会负面"
     },
     {
       "raw_hot": 1435906,
@@ -5353,6 +5353,14 @@
       "onboard_time": 1667733445,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1075159,
+      "num": 1075159,
+      "word": "美国足协篡改伊朗队国旗",
+      "onboard_time": 1669613915,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 1074347,
@@ -10083,6 +10091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 695346,
+      "num": 695346,
+      "word": "核子华曦相关实验室多次违规被罚",
+      "onboard_time": 1669616010,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 693871,
       "num": 693871,
       "word": "雷神有阿尔茨海默氏症倾向决定息影",
@@ -10225,6 +10241,14 @@
       "onboard_time": 1668914009,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 687237,
+      "num": 640614,
+      "word": "吴镇宇反思被梅西进球",
+      "onboard_time": 1669613316,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 686490,
@@ -10569,6 +10593,14 @@
       "onboard_time": 1667277514,
       "rank": 43,
       "category": "其它"
+    },
+    {
+      "raw_hot": 674320,
+      "num": 640276,
+      "word": "杨幂郭敬明搭肩合照",
+      "onboard_time": 1669616429,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 674284,
@@ -11464,6 +11496,14 @@
       "word": "陈飞宇回复张婧仪我可不哄人",
       "onboard_time": 1667799089,
       "rank": 6,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 636941,
+      "num": 636941,
+      "word": "尹峥入狱vs陆之昂入狱",
+      "onboard_time": 1669614814,
+      "rank": 12,
       "category": "影视"
     },
     {
@@ -15955,6 +15995,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 505292,
+      "num": 505292,
+      "word": "如果不考虑职业歧视和薪资",
+      "onboard_time": 1669611700,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 504901,
       "num": 504901,
       "word": "警方通报救护车坐地起价",
@@ -18691,6 +18739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 446200,
+      "num": 446200,
+      "word": "19岁女生减肥催吐致进食障碍",
+      "onboard_time": 1669613496,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 446195,
       "num": 446195,
       "word": "波兰 三张黄牌",
@@ -20937,6 +20993,14 @@
       "onboard_time": 1668770067,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 407844,
+      "num": 407844,
+      "word": "C罗年轻时好奶",
+      "onboard_time": 1669613854,
+      "rank": 17,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 407802,
@@ -25891,14 +25955,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 335006,
-      "num": 335006,
-      "word": "如果不考虑职业歧视和薪资",
-      "onboard_time": 1669611700,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 334949,
       "num": 334949,
       "word": "第一次见有人米饭过敏",
@@ -26537,6 +26593,14 @@
       "onboard_time": 1667832030,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 327848,
+      "num": 327848,
+      "word": "潘粤明世界杯七次预测全中",
+      "onboard_time": 1669615174,
+      "rank": 22,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 327781,
@@ -30027,6 +30091,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 286576,
+      "num": 286576,
+      "word": "反着唐梓买别墅靠大海",
+      "onboard_time": 1669614696,
+      "rank": 25,
+      "category": "体育,网红"
+    },
+    {
       "raw_hot": 286444,
       "num": 286444,
       "word": "洗发水要换着用",
@@ -30361,6 +30433,14 @@
       "onboard_time": 1669452216,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 283574,
+      "num": 227529,
+      "word": "苏醒说赚钱比看梅西重要",
+      "onboard_time": 1669616135,
+      "rank": 30,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 283504,
@@ -36883,6 +36963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 222247,
+      "num": 222247,
+      "word": "于正追风吹半夏追到凌晨四点",
+      "onboard_time": 1669616495,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 222243,
       "num": 222243,
       "word": "战神轰6K挂弹现身珠海",
@@ -36969,6 +37057,14 @@
       "onboard_time": 1667542345,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 221436,
+      "num": 221436,
+      "word": "与迪丽热巴共品诗中情怀",
+      "onboard_time": 1669615355,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 221159,
@@ -37345,6 +37441,14 @@
       "onboard_time": 1668423988,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 218590,
+      "num": 218590,
+      "word": "孔雪儿长白山vlog",
+      "onboard_time": 1669614453,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 218581,
@@ -42043,6 +42147,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 188290,
+      "num": 175361,
+      "word": "尹岐原型是十三爷吧",
+      "onboard_time": 1669614696,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 188270,
       "num": 188270,
       "word": "恋爱里谁先表白谁就输了吗",
@@ -45771,14 +45883,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 164720,
-      "num": 164720,
-      "word": "19岁女生减肥催吐致进食障碍",
-      "onboard_time": 1669613496,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 164667,
       "num": 164667,
       "word": "翟潇闻赌上了vocal的尊严",
@@ -46529,14 +46633,6 @@
       "onboard_time": 1668770369,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 160550,
-      "num": 160550,
-      "word": "吴镇宇反思被梅西进球",
-      "onboard_time": 1669613316,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 160529,
@@ -48193,6 +48289,14 @@
       "onboard_time": 1668827788,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 150122,
+      "num": 150122,
+      "word": "严浩翔新歌正轨战报",
+      "onboard_time": 1669614751,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 150072,
@@ -50209,6 +50313,14 @@
       "onboard_time": 1668234990,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 140019,
+      "num": 1898450,
+      "word": "神十五航天员乘组确定",
+      "onboard_time": 1669613436,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 139949,
@@ -53121,6 +53233,14 @@
       "onboard_time": 1668659492,
       "rank": 49,
       "category": "科技"
+    },
+    {
+      "raw_hot": 125169,
+      "num": 125169,
+      "word": "梅西破门前后的反差感",
+      "onboard_time": 1669616429,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 125131,
@@ -62777,14 +62897,6 @@
       "onboard_time": 1669141817,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 36904,
-      "num": 1898450,
-      "word": "神十五航天员乘组确定",
-      "onboard_time": 1669613436,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 36567,

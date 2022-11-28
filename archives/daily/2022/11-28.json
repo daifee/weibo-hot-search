@@ -1,6 +1,6 @@
 {
   "startTime": 1669566398830,
-  "endTime": 1669613682726,
+  "endTime": 1669616771777,
   "band_list": [
     {
       "raw_hot": 11045761,
@@ -139,8 +139,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1436941,
-      "num": 1436941,
+      "raw_hot": 1437318,
+      "num": 1437318,
       "word": "警方回应网传一女子被12人轮流棍击",
       "onboard_time": 1669611460,
       "rank": 10,
@@ -185,6 +185,14 @@
       "onboard_time": 1669607618,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1075159,
+      "num": 1075159,
+      "word": "美国足协篡改伊朗队国旗",
+      "onboard_time": 1669613915,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 1068914,
@@ -275,12 +283,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 695346,
+      "num": 695346,
+      "word": "核子华曦相关实验室多次违规被罚",
+      "onboard_time": 1669616010,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 688105,
       "num": 688105,
       "word": "小伙娶见义勇为女孩为妻照顾34年",
       "onboard_time": 1669607563,
       "rank": 15,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 687237,
+      "num": 640614,
+      "word": "吴镇宇反思被梅西进球",
+      "onboard_time": 1669613316,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 674320,
+      "num": 640276,
+      "word": "杨幂郭敬明搭肩合照",
+      "onboard_time": 1669616429,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 666899,
@@ -321,6 +353,14 @@
       "onboard_time": 1669561841,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 636941,
+      "num": 636941,
+      "word": "尹峥入狱vs陆之昂入狱",
+      "onboard_time": 1669614814,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 629979,
@@ -419,6 +459,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 505292,
+      "num": 505292,
+      "word": "如果不考虑职业歧视和薪资",
+      "onboard_time": 1669611700,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 504116,
       "num": 504116,
       "word": "高校否认征用学生宿舍当隔离点",
@@ -473,6 +521,14 @@
       "onboard_time": 1669603831,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 446200,
+      "num": 446200,
+      "word": "19岁女生减肥催吐致进食障碍",
+      "onboard_time": 1669613496,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 440833,
@@ -545,6 +601,14 @@
       "onboard_time": 1669560463,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 407844,
+      "num": 407844,
+      "word": "C罗年轻时好奶",
+      "onboard_time": 1669613854,
+      "rank": 17,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 401753,
@@ -659,14 +723,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 335006,
-      "num": 335006,
-      "word": "如果不考虑职业歧视和薪资",
-      "onboard_time": 1669611700,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 334641,
       "num": 297469,
       "word": "RedVelvet新专辑预售量突破71万张",
@@ -689,6 +745,14 @@
       "onboard_time": 1669608765,
       "rank": 28,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 327848,
+      "num": 327848,
+      "word": "潘粤明世界杯七次预测全中",
+      "onboard_time": 1669615174,
+      "rank": 22,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 323441,
@@ -779,6 +843,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 286576,
+      "num": 286576,
+      "word": "反着唐梓买别墅靠大海",
+      "onboard_time": 1669614696,
+      "rank": 25,
+      "category": "体育,网红"
+    },
+    {
       "raw_hot": 285790,
       "num": 285790,
       "word": "西班牙vs德国首发",
@@ -793,6 +865,14 @@
       "onboard_time": 1669557580,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 283574,
+      "num": 227529,
+      "word": "苏醒说赚钱比看梅西重要",
+      "onboard_time": 1669616135,
+      "rank": 30,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 282676,
@@ -1011,6 +1091,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 222247,
+      "num": 222247,
+      "word": "于正追风吹半夏追到凌晨四点",
+      "onboard_time": 1669616495,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 222212,
       "num": 222212,
       "word": "西班牙半场0比0德国",
@@ -1019,12 +1107,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 221436,
+      "num": 221436,
+      "word": "与迪丽热巴共品诗中情怀",
+      "onboard_time": 1669615355,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 219009,
       "num": 219009,
       "word": "墨白连更十天",
       "onboard_time": 1669605033,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 218590,
+      "num": 218590,
+      "word": "孔雪儿长白山vlog",
+      "onboard_time": 1669614453,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 213321,
@@ -1088,6 +1192,14 @@
       "word": "尹嵩软饭硬吃",
       "onboard_time": 1669567412,
       "rank": 36,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 188290,
+      "num": 175361,
+      "word": "尹岐原型是十三爷吧",
+      "onboard_time": 1669614696,
+      "rank": 41,
       "category": "影视"
     },
     {
@@ -1195,22 +1307,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 164720,
-      "num": 164720,
-      "word": "19岁女生减肥催吐致进食障碍",
-      "onboard_time": 1669613496,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 160550,
-      "num": 160550,
-      "word": "吴镇宇反思被梅西进球",
-      "onboard_time": 1669613316,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 159538,
       "num": 159538,
       "word": "许半夏睡姿撞脸蜡笔小新",
@@ -1241,6 +1337,14 @@
       "onboard_time": 1669603292,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 150122,
+      "num": 150122,
+      "word": "严浩翔新歌正轨战报",
+      "onboard_time": 1669614751,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 147245,
@@ -1323,6 +1427,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 140019,
+      "num": 1898450,
+      "word": "神十五航天员乘组确定",
+      "onboard_time": 1669613436,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 137329,
       "num": 137329,
       "word": "不愧是莫德里奇",
@@ -1361,6 +1473,14 @@
       "onboard_time": 1669536575,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 125169,
+      "num": 125169,
+      "word": "梅西破门前后的反差感",
+      "onboard_time": 1669616429,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 120074,
@@ -1447,14 +1567,6 @@
       "num": 3845214,
       "word": "神十五已做好出征准备",
       "onboard_time": 1669532010,
-      "rank": 2,
-      "category": "国内要闻"
-    },
-    {
-      "raw_hot": 36904,
-      "num": 1898450,
-      "word": "神十五航天员乘组确定",
-      "onboard_time": 1669613436,
       "rank": 2,
       "category": "国内要闻"
     }
