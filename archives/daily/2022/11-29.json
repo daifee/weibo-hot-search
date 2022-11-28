@@ -1,6 +1,6 @@
 {
   "startTime": 1669652614385,
-  "endTime": 1669660850166,
+  "endTime": 1669662947013,
   "band_list": [
     {
       "raw_hot": 4130825,
@@ -323,6 +323,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 212639,
+      "num": 103575,
+      "word": "内马尔在酒店看比赛",
+      "onboard_time": 1669659557,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 209903,
+      "num": 209903,
+      "word": "葡萄牙vs乌拉圭首发",
+      "onboard_time": 1669660095,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 199445,
       "num": 199445,
       "word": "原来琼瑶剧运动量这么大",
@@ -427,16 +443,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 169539,
-      "num": 65632,
-      "word": "内马尔在酒店看比赛",
-      "onboard_time": 1669659557,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 158150,
-      "num": 67248,
+      "num": 97438,
       "word": "本泽马已康复",
       "onboard_time": 1669659436,
       "rank": 38,
@@ -523,11 +531,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 105298,
-      "num": 65594,
-      "word": "葡萄牙vs乌拉圭首发",
-      "onboard_time": 1669660095,
-      "rank": 32,
+      "raw_hot": 86495,
+      "num": 86495,
+      "word": "为C罗熬夜",
+      "onboard_time": 1669660874,
+      "rank": 12,
       "category": "体育"
     },
     {

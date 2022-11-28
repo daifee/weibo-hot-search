@@ -1,6 +1,6 @@
 {
   "startTime": 1669566398830,
-  "endTime": 1669660850166,
+  "endTime": 1669662947013,
   "band_list": [
     {
       "raw_hot": 11045761,
@@ -2443,11 +2443,27 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 212639,
+      "num": 103575,
+      "word": "内马尔在酒店看比赛",
+      "onboard_time": 1669659557,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 211428,
       "num": 211428,
       "word": "梅西经纪人否认转会传闻",
       "onboard_time": 1669618892,
       "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 209903,
+      "num": 209903,
+      "word": "葡萄牙vs乌拉圭首发",
+      "onboard_time": 1669660095,
+      "rank": 32,
       "category": "体育"
     },
     {
@@ -2755,14 +2771,6 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 169539,
-      "num": 65632,
-      "word": "内马尔在酒店看比赛",
-      "onboard_time": 1669659557,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 169319,
       "num": 169319,
       "word": "喀麦隆第二球没越位",
@@ -2868,7 +2876,7 @@
     },
     {
       "raw_hot": 158150,
-      "num": 67248,
+      "num": 97438,
       "word": "本泽马已康复",
       "onboard_time": 1669659436,
       "rank": 38,
@@ -3307,14 +3315,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 105298,
-      "num": 65594,
-      "word": "葡萄牙vs乌拉圭首发",
-      "onboard_time": 1669660095,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 102937,
       "num": 102937,
       "word": "男子收集上千种虫子建昆虫博物馆",
@@ -3336,6 +3336,14 @@
       "word": "莫拉塔破门",
       "onboard_time": 1669581312,
       "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 86495,
+      "num": 86495,
+      "word": "为C罗熬夜",
+      "onboard_time": 1669660874,
+      "rank": 12,
       "category": "体育"
     },
     {
