@@ -1,6 +1,6 @@
 {
   "startTime": 1669566398830,
-  "endTime": 1669642916742,
+  "endTime": 1669645106900,
   "band_list": [
     {
       "raw_hot": 11045761,
@@ -132,7 +132,7 @@
     },
     {
       "raw_hot": 1903536,
-      "num": 1280675,
+      "num": 1314211,
       "word": "远嫁女子孕期遭家暴娘家上门接回家",
       "onboard_time": 1669635938,
       "rank": 4,
@@ -145,6 +145,14 @@
       "onboard_time": 1669637796,
       "rank": 1,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1764265,
+      "num": 1764265,
+      "word": "多家麻六记门店称人气大涨",
+      "onboard_time": 1669639775,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1763329,
@@ -291,14 +299,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1201402,
-      "num": 1201402,
-      "word": "多家麻六记门店称人气大涨",
-      "onboard_time": 1669639775,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1188696,
       "num": 1188696,
       "word": "难听",
@@ -315,20 +315,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1168132,
+      "num": 1168132,
+      "word": "李薇成为正夫人",
+      "onboard_time": 1669639957,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1145336,
       "num": 1145336,
       "word": "日本企业家怒斥本国球迷看台捡垃圾",
       "onboard_time": 1669628495,
       "rank": 5,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 1125939,
-      "num": 1125939,
-      "word": "李薇成为正夫人",
-      "onboard_time": 1669639957,
-      "rank": 20,
-      "category": "影视"
     },
     {
       "raw_hot": 1123858,
@@ -483,6 +483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 810538,
+      "num": 810538,
+      "word": "杭州中学生打败麻省理工学霸",
+      "onboard_time": 1669640435,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 806778,
       "num": 806778,
       "word": "C罗坚持同款饮食20年",
@@ -587,12 +595,36 @@
       "category": "科技"
     },
     {
+      "raw_hot": 715990,
+      "num": 669229,
+      "word": "李国庆称张兰是他尊敬的企业家",
+      "onboard_time": 1669642656,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 688840,
+      "num": 662423,
+      "word": "事实证明洗脚盆不能买折叠的",
+      "onboard_time": 1669640915,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 688105,
       "num": 688105,
       "word": "小伙娶见义勇为女孩为妻照顾34年",
       "onboard_time": 1669607563,
       "rank": 15,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 687518,
+      "num": 687518,
+      "word": "梅西和内马尔的配合有多默契",
+      "onboard_time": 1669640737,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 674320,
@@ -707,14 +739,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 578028,
-      "num": 578028,
-      "word": "杭州中学生打败麻省理工学霸",
-      "onboard_time": 1669640435,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 577527,
       "num": 559443,
       "word": "国产ModelY售价全球最低",
@@ -729,6 +753,14 @@
       "onboard_time": 1669564477,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 559871,
+      "num": 559871,
+      "word": "刘诗诗送剧组工作人员羽绒服",
+      "onboard_time": 1669644100,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 558849,
@@ -811,14 +843,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 509962,
-      "num": 225437,
-      "word": "事实证明洗脚盆不能买折叠的",
-      "onboard_time": 1669640915,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 505292,
       "num": 505292,
       "word": "如果不考虑职业歧视和薪资",
@@ -848,6 +872,14 @@
       "word": "宝妈为赚钱刷单被骗125万",
       "onboard_time": 1669637316,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 484664,
+      "num": 484664,
+      "word": "寻找15岁少年胡某宇",
+      "onboard_time": 1669639353,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -939,12 +971,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 457982,
-      "num": 457982,
-      "word": "寻找15岁少年胡某宇",
-      "onboard_time": 1669639353,
-      "rank": 28,
-      "category": "社会新闻"
+      "raw_hot": 455287,
+      "num": 455287,
+      "word": "罗云熙用车被安装跟踪定位器",
+      "onboard_time": 1669642594,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 454674,
+      "num": 454674,
+      "word": "韩国半场0比2加纳",
+      "onboard_time": 1669644037,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 450905,
@@ -993,6 +1033,14 @@
       "onboard_time": 1669598795,
       "rank": 13,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 436703,
+      "num": 436703,
+      "word": "你愿意花几年考研上岸",
+      "onboard_time": 1669642419,
+      "rank": 41,
+      "category": "教育"
     },
     {
       "raw_hot": 436531,
@@ -1123,14 +1171,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 400880,
-      "num": 400880,
-      "word": "梅西和内马尔的配合有多默契",
-      "onboard_time": 1669640737,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 391181,
       "num": 391181,
       "word": "朴志晟金丝框眼镜",
@@ -1187,6 +1227,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 375014,
+      "num": 375014,
+      "word": "王鹤棣安可王摇摆舞",
+      "onboard_time": 1669643798,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 372978,
       "num": 372978,
       "word": "北京优化社区防控举措极简版汇总",
@@ -1201,6 +1249,14 @@
       "onboard_time": 1669558119,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 372332,
+      "num": 372332,
+      "word": "加纳进球",
+      "onboard_time": 1669642419,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 370670,
@@ -1307,6 +1363,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 345157,
+      "num": 345157,
+      "word": "2022LOL冬季转会期",
+      "onboard_time": 1669643194,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 343962,
       "num": 343962,
       "word": "赵丽颖欧豪风吹半夏站内热度破6000",
@@ -1329,6 +1393,14 @@
       "onboard_time": 1669628671,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 336374,
+      "num": 336374,
+      "word": "重庆抗疫一线医护人员的肺腑之言",
+      "onboard_time": 1669643857,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 335824,
@@ -1363,14 +1435,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 332339,
-      "num": 332339,
-      "word": "罗云熙用车被安装跟踪定位器",
-      "onboard_time": 1669642594,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 329889,
       "num": 329889,
       "word": "南京一医院接连收治多例柿石症患者",
@@ -1387,12 +1451,12 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 329552,
-      "num": 329552,
-      "word": "加纳进球",
-      "onboard_time": 1669642419,
-      "rank": 25,
-      "category": "体育"
+      "raw_hot": 328573,
+      "num": 328573,
+      "word": "山东一医院开诊亮灯仪式被指像KTV",
+      "onboard_time": 1669643612,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 327872,
@@ -1449,6 +1513,22 @@
       "onboard_time": 1669619851,
       "rank": 47,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 320621,
+      "num": 320621,
+      "word": "原来琼瑶剧运动量这么大",
+      "onboard_time": 1669643433,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 319691,
+      "num": 319691,
+      "word": "要一辈子友情还是半年爱情",
+      "onboard_time": 1669641937,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 318453,
@@ -1529,6 +1609,14 @@
       "onboard_time": 1669642115,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 306003,
+      "num": 306003,
+      "word": "上海一居民房屋起火致2死1伤",
+      "onboard_time": 1669641754,
+      "rank": 42,
+      "category": "社会负面"
     },
     {
       "raw_hot": 304525,
@@ -1643,6 +1731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 279539,
+      "num": 279539,
+      "word": "女子在家被呛竟是有人楼梯间烧纸",
+      "onboard_time": 1669642594,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 278239,
       "num": 278239,
       "word": "法考",
@@ -1657,6 +1753,14 @@
       "onboard_time": 1669551336,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 276596,
+      "num": 276596,
+      "word": "李峋的嘴派上用场了",
+      "onboard_time": 1669644818,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 275481,
@@ -1720,6 +1824,14 @@
       "word": "重庆三兄弟为保供齐上阵",
       "onboard_time": 1669617869,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 261623,
+      "num": 261623,
+      "word": "核子基因多次被罚仍中标核酸检测项目",
+      "onboard_time": 1669642900,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -1947,14 +2059,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 229078,
-      "num": 229078,
-      "word": "要一辈子友情还是半年爱情",
-      "onboard_time": 1669641937,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
       "raw_hot": 225151,
       "num": 225151,
       "word": "陌生人带走自闭症男孩同学上前阻拦",
@@ -2099,28 +2203,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 199343,
-      "num": 199343,
-      "word": "核子基因多次被罚仍中标核酸检测项目",
-      "onboard_time": 1669642900,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 196721,
       "num": 196721,
       "word": "吴镇宇回应世界杯表现",
       "onboard_time": 1669620271,
       "rank": 36,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 195881,
-      "num": 195881,
-      "word": "你愿意花几年考研上岸",
-      "onboard_time": 1669642419,
-      "rank": 41,
-      "category": "教育"
     },
     {
       "raw_hot": 195853,
@@ -2209,14 +2297,6 @@
       "onboard_time": 1669614696,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 188118,
-      "num": 188118,
-      "word": "上海一居民房屋起火致2死1伤",
-      "onboard_time": 1669641754,
-      "rank": 42,
-      "category": "社会负面"
     },
     {
       "raw_hot": 187649,
@@ -2311,14 +2391,6 @@
       "num": 174166,
       "word": "上海全市共有约3千到5千只貉",
       "onboard_time": 1669619973,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 173916,
-      "num": 173916,
-      "word": "李国庆称张兰是他尊敬的企业家",
-      "onboard_time": 1669642656,
       "rank": 45,
       "category": "社会新闻"
     },
@@ -2451,14 +2523,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 161656,
-      "num": 161656,
-      "word": "女子在家被呛竟是有人楼梯间烧纸",
-      "onboard_time": 1669642594,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 159538,
       "num": 159538,
       "word": "许半夏睡姿撞脸蜡笔小新",
@@ -2497,6 +2561,14 @@
       "onboard_time": 1669565979,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 154853,
+      "num": 172443,
+      "word": "上财校长称博士生像乞丐一样在研究",
+      "onboard_time": 1669644873,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 153402,
@@ -2553,6 +2625,14 @@
       "onboard_time": 1669599453,
       "rank": 44,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 146757,
+      "num": 172187,
+      "word": "库杜斯头球破门",
+      "onboard_time": 1669643857,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 146581,
@@ -2707,6 +2787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 136656,
+      "num": 172091,
+      "word": "这个村庄用稻草秸秆创造童话世界",
+      "onboard_time": 1669645058,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 136614,
       "num": 136614,
       "word": "摩洛哥终结比利时世界杯小组赛8连胜",
@@ -2745,6 +2833,14 @@
       "onboard_time": 1669627538,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 130685,
+      "num": 171927,
+      "word": "阿拉斯加一到雪地瞬间血脉觉醒",
+      "onboard_time": 1669644996,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 129895,
@@ -2883,8 +2979,8 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 22456,
-      "num": 1285131,
+      "raw_hot": 39181,
+      "num": 1318537,
       "word": "100秒重温神十五航天员真挚发言",
       "onboard_time": 1669621472,
       "rank": 2,
