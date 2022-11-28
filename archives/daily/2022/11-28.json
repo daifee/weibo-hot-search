@@ -1,6 +1,6 @@
 {
   "startTime": 1669566398830,
-  "endTime": 1669604346482,
+  "endTime": 1669604979707,
   "band_list": [
     {
       "raw_hot": 11045761,
@@ -9,6 +9,14 @@
       "onboard_time": 1669562921,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3309074,
+      "num": 3309074,
+      "word": "国考延期",
+      "onboard_time": 1669604673,
+      "rank": 0,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 2903429,
@@ -99,20 +107,20 @@
       "category": "体育,网红"
     },
     {
+      "raw_hot": 1261827,
+      "num": 1261827,
+      "word": "美国vs伊朗主裁判公布",
+      "onboard_time": 1669600893,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1216710,
       "num": 1216710,
       "word": "北京增本土确诊840例",
       "onboard_time": 1669595495,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1153657,
-      "num": 1153657,
-      "word": "美国vs伊朗主裁判公布",
-      "onboard_time": 1669600893,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 1068914,
@@ -139,6 +147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 751838,
+      "num": 751838,
+      "word": "墨白定档1201",
+      "onboard_time": 1669603112,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 744809,
       "num": 744809,
       "word": "唐梓预测",
@@ -161,14 +177,6 @@
       "onboard_time": 1669569444,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 690692,
-      "num": 690692,
-      "word": "墨白定档1201",
-      "onboard_time": 1669603112,
-      "rank": 7,
-      "category": "影视"
     },
     {
       "raw_hot": 645751,
@@ -204,7 +212,7 @@
     },
     {
       "raw_hot": 577527,
-      "num": 380103,
+      "num": 559443,
       "word": "国产ModelY售价全球最低",
       "onboard_time": 1669602812,
       "rank": 12,
@@ -217,6 +225,14 @@
       "onboard_time": 1669564477,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 565515,
+      "num": 565515,
+      "word": "什么情况下需戴N95口罩",
+      "onboard_time": 1669602812,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 552533,
@@ -243,11 +259,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 476922,
-      "num": 379661,
-      "word": "什么情况下需戴N95口罩",
-      "onboard_time": 1669602812,
-      "rank": 13,
+      "raw_hot": 519919,
+      "num": 519919,
+      "word": "热力公司怼居民称凭啥给你热下去",
+      "onboard_time": 1669602751,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -299,6 +315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 430441,
+      "num": 430441,
+      "word": "落实防控措施不仅要有力度还要有温度",
+      "onboard_time": 1669601913,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 428795,
       "num": 428795,
       "word": "200斤女子减重90斤找到男朋友",
@@ -323,20 +347,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 413643,
+      "num": 413643,
+      "word": "德国出线概率67%",
+      "onboard_time": 1669600470,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 407860,
       "num": 407860,
       "word": "风吹半夏首播收视",
       "onboard_time": 1669560463,
       "rank": 18,
       "category": "影视"
-    },
-    {
-      "raw_hot": 406110,
-      "num": 406110,
-      "word": "德国出线概率67%",
-      "onboard_time": 1669600470,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 401753,
@@ -347,20 +371,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 394313,
-      "num": 378608,
-      "word": "热力公司怼居民称凭啥给你热下去",
-      "onboard_time": 1669602751,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 391181,
       "num": 391181,
       "word": "朴志晟金丝框眼镜",
       "onboard_time": 1669566278,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 380278,
+      "num": 380278,
+      "word": "小伙赌球手机中木马自动转账20万",
+      "onboard_time": 1669599513,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 378354,
@@ -395,14 +419,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 363976,
-      "num": 363976,
-      "word": "小伙赌球手机中木马自动转账20万",
-      "onboard_time": 1669599513,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 354263,
       "num": 354263,
       "word": "克罗地亚4比1加拿大",
@@ -411,12 +427,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 348857,
-      "num": 348857,
-      "word": "落实防控措施不仅要有力度还要有温度",
-      "onboard_time": 1669601913,
-      "rank": 18,
-      "category": "社会新闻"
+      "raw_hot": 347602,
+      "num": 174780,
+      "word": "钉钉",
+      "onboard_time": 1669604371,
+      "rank": 30,
+      "category": "科技"
     },
     {
       "raw_hot": 343962,
@@ -523,6 +539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 282676,
+      "num": 282676,
+      "word": "林允儿连续8年担任mc",
+      "onboard_time": 1669604673,
+      "rank": 20,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 280525,
       "num": 280525,
       "word": "克罗地亚半场2比1加拿大",
@@ -595,6 +619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 237777,
+      "num": 237777,
+      "word": "沈梦辰晒11月库存随拍",
+      "onboard_time": 1669601133,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 236921,
       "num": 236921,
       "word": "猫是不是看到什么都想弄下来",
@@ -609,6 +641,14 @@
       "onboard_time": 1669564842,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 230853,
+      "num": 230853,
+      "word": "马斯克曝光推特2.0",
+      "onboard_time": 1669603772,
+      "rank": 32,
+      "category": "科技"
     },
     {
       "raw_hot": 229301,
@@ -641,14 +681,6 @@
       "onboard_time": 1669579273,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 215145,
-      "num": 215145,
-      "word": "沈梦辰晒11月库存随拍",
-      "onboard_time": 1669601133,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 213321,
@@ -739,6 +771,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 168692,
+      "num": 168692,
+      "word": "尹岐失了父爱确定真爱",
+      "onboard_time": 1669603831,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 168244,
       "num": 168244,
       "word": "苏醒调侃王栎鑫没有小球员帅",
@@ -771,20 +811,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 155083,
-      "num": 155083,
-      "word": "马斯克曝光推特2.0",
-      "onboard_time": 1669603772,
-      "rank": 32,
-      "category": "科技"
-    },
-    {
       "raw_hot": 155043,
       "num": 155043,
       "word": "郭晓婷复古港风珍珠发带造型",
       "onboard_time": 1669565979,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 147893,
+      "num": 147893,
+      "word": "果然喜欢猫咪不分年龄",
+      "onboard_time": 1669604252,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 147245,
@@ -875,12 +915,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 131827,
-      "num": 131827,
-      "word": "尹岐失了父爱确定真爱",
-      "onboard_time": 1669603831,
+      "raw_hot": 135114,
+      "num": 135114,
+      "word": "高三女生上课总睡着竟是患罕见病",
+      "onboard_time": 1669604796,
       "rank": 40,
-      "category": "影视"
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 131634,
+      "num": 131634,
+      "word": "这届世界杯有多抓马",
+      "onboard_time": 1669603292,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 129895,
@@ -891,12 +939,28 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 127578,
+      "num": 127578,
+      "word": "多地核酸检测通知发生变化",
+      "onboard_time": 1669604796,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 125436,
       "num": 125436,
       "word": "兰州通报核酸采样人员阳性",
       "onboard_time": 1669536575,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 121631,
+      "num": 121631,
+      "word": "微信内测图片视频拖动一键发送",
+      "onboard_time": 1669604494,
+      "rank": 48,
+      "category": "科技"
     },
     {
       "raw_hot": 120074,
@@ -923,14 +987,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 115085,
-      "num": 115085,
-      "word": "这届世界杯有多抓马",
-      "onboard_time": 1669603292,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 109869,
       "num": 109869,
       "word": "克罗地亚进球",
@@ -945,14 +1001,6 @@
       "onboard_time": 1669592065,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 107216,
-      "num": 107216,
-      "word": "果然喜欢猫咪不分年龄",
-      "onboard_time": 1669604252,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 102937,
