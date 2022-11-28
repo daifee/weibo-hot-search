@@ -1,6 +1,6 @@
 {
   "startTime": 1669566398830,
-  "endTime": 1669606453493,
+  "endTime": 1669607133558,
   "band_list": [
     {
       "raw_hot": 11045761,
@@ -11,12 +11,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 8983725,
-      "num": 8983725,
+      "raw_hot": 9841134,
+      "num": 9841134,
       "word": "国考延期",
       "onboard_time": 1669604673,
       "rank": 0,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 3150987,
+      "num": 3150987,
+      "word": "多地核酸检测通知发生变化",
+      "onboard_time": 1669604796,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2903429,
@@ -72,14 +80,6 @@
       "word": "广州海珠近万人有疏解意愿",
       "onboard_time": 1669550740,
       "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1648397,
-      "num": 1648397,
-      "word": "多地核酸检测通知发生变化",
-      "onboard_time": 1669604796,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -139,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 947444,
+      "num": 947444,
+      "word": "四六级",
+      "onboard_time": 1669606478,
+      "rank": 5,
+      "category": "教育"
+    },
+    {
       "raw_hot": 888358,
       "num": 888358,
       "word": "毒奶唐梓世界杯十次预测全翻车",
@@ -153,6 +161,14 @@
       "onboard_time": 1669562025,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 765761,
+      "num": 765761,
+      "word": "高三女生上课总睡着竟是患罕见病",
+      "onboard_time": 1669604796,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 751838,
@@ -187,6 +203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 663327,
+      "num": 663327,
+      "word": "张颜齐去卡塔尔看球了",
+      "onboard_time": 1669606660,
+      "rank": 9,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 645751,
       "num": 645751,
       "word": "抖音回应世界杯直播时出现杂音",
@@ -196,7 +220,7 @@
     },
     {
       "raw_hot": 641377,
-      "num": 242203,
+      "num": 250617,
       "word": "钉钉",
       "onboard_time": 1669604371,
       "rank": 30,
@@ -243,14 +267,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 574764,
-      "num": 574764,
-      "word": "高三女生上课总睡着竟是患罕见病",
-      "onboard_time": 1669604796,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 571015,
       "num": 571015,
       "word": "工作人员看刘雨昕的眼神",
@@ -275,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 534160,
+      "num": 534160,
+      "word": "热力公司怼居民称凭啥给你热下去",
+      "onboard_time": 1669602751,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 529729,
       "num": 529729,
       "word": "动画片突然插播广告男孩怒砸电视",
@@ -283,16 +307,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 519919,
-      "num": 519919,
-      "word": "热力公司怼居民称凭啥给你热下去",
-      "onboard_time": 1669602751,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 498731,
-      "num": 498731,
+      "raw_hot": 521115,
+      "num": 521115,
       "word": "林允儿连续8年担任mc",
       "onboard_time": 1669604673,
       "rank": 20,
@@ -331,6 +347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 447671,
+      "num": 447671,
+      "word": "尹岐失了父爱确定真爱",
+      "onboard_time": 1669603831,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 440833,
       "num": 440833,
       "word": "小伙拉横幅开喇叭要求妻子退彩礼",
@@ -353,14 +377,6 @@
       "onboard_time": 1669567771,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 432200,
-      "num": 432200,
-      "word": "尹岐失了父爱确定真爱",
-      "onboard_time": 1669603831,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 430441,
@@ -427,6 +443,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 389466,
+      "num": 389466,
+      "word": "大连理工博士为救重病儿子休学",
+      "onboard_time": 1669605877,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 380278,
       "num": 380278,
       "word": "小伙赌球手机中木马自动转账20万",
@@ -475,6 +499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 348838,
+      "num": 348838,
+      "word": "45岁妈妈一年考2本证书",
+      "onboard_time": 1669605456,
+      "rank": 24,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 343962,
       "num": 343962,
       "word": "赵丽颖欧豪风吹半夏站内热度破6000",
@@ -507,6 +539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 328981,
+      "num": 328981,
+      "word": "MAMA四代女团合作剧透",
+      "onboard_time": 1669606116,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 323441,
       "num": 323441,
       "word": "费俊龙担任指令长",
@@ -521,6 +561,14 @@
       "onboard_time": 1669564544,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 319467,
+      "num": 319467,
+      "word": "考研",
+      "onboard_time": 1669606961,
+      "rank": 23,
+      "category": "教育"
     },
     {
       "raw_hot": 318453,
@@ -571,6 +619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 289228,
+      "num": 289228,
+      "word": "税务师",
+      "onboard_time": 1669605274,
+      "rank": 28,
+      "category": "教育"
+    },
+    {
       "raw_hot": 285790,
       "num": 285790,
       "word": "西班牙vs德国首发",
@@ -585,6 +641,14 @@
       "onboard_time": 1669557580,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 282676,
+      "num": 282676,
+      "word": "果然喜欢猫咪不分年龄",
+      "onboard_time": 1669604252,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 280525,
@@ -611,20 +675,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 271107,
-      "num": 271107,
-      "word": "果然喜欢猫咪不分年龄",
-      "onboard_time": 1669604252,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 270468,
       "num": 270468,
       "word": "德国有希望了",
       "onboard_time": 1669590379,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 265047,
+      "num": 265047,
+      "word": "小鸟撞车男子持续按压心脏救活",
+      "onboard_time": 1669605699,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 264412,
@@ -643,20 +707,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 257351,
-      "num": 257351,
-      "word": "45岁妈妈一年考2本证书",
-      "onboard_time": 1669605456,
-      "rank": 24,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 254962,
       "num": 254962,
       "word": "沈梦辰晒11月库存随拍",
       "onboard_time": 1669601133,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 253294,
+      "num": 253294,
+      "word": "蒋芸王晓佳治愈系MV渊",
+      "onboard_time": 1669606837,
+      "rank": 29,
+      "category": "音乐"
     },
     {
       "raw_hot": 252075,
@@ -675,20 +739,12 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 245346,
-      "num": 245346,
-      "word": "税务师",
-      "onboard_time": 1669605274,
-      "rank": 28,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 242765,
-      "num": 240139,
-      "word": "MAMA四代女团合作剧透",
-      "onboard_time": 1669606116,
-      "rank": 31,
-      "category": "音乐"
+      "raw_hot": 243686,
+      "num": 243686,
+      "word": "微信内测图片视频拖动一键发送",
+      "onboard_time": 1669604494,
+      "rank": 48,
+      "category": "科技"
     },
     {
       "raw_hot": 242755,
@@ -721,14 +777,6 @@
       "onboard_time": 1669564842,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 229673,
-      "num": 229673,
-      "word": "微信内测图片视频拖动一键发送",
-      "onboard_time": 1669604494,
-      "rank": 48,
-      "category": "科技"
     },
     {
       "raw_hot": 229301,
@@ -777,14 +825,6 @@
       "onboard_time": 1669592186,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 207394,
-      "num": 207394,
-      "word": "大连理工博士为救重病儿子休学",
-      "onboard_time": 1669605877,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 206757,
@@ -851,14 +891,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 175996,
-      "num": 175996,
-      "word": "小鸟撞车男子持续按压心脏救活",
-      "onboard_time": 1669605699,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 171502,
       "num": 171502,
       "word": "C罗说向着目标前进",
@@ -899,6 +931,14 @@
       "category": "体育,综艺"
     },
     {
+      "raw_hot": 168056,
+      "num": 168056,
+      "word": "费俊龙邓清明张陆和五星红旗同框",
+      "onboard_time": 1669606660,
+      "rank": 42,
+      "category": "科技"
+    },
+    {
       "raw_hot": 166082,
       "num": 166082,
       "word": "中国空间站三舱三船组合体来了",
@@ -915,8 +955,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 160149,
-      "num": 160149,
+      "raw_hot": 165456,
+      "num": 165456,
       "word": "女子家中录消防科普视频结果悲剧了",
       "onboard_time": 1669606177,
       "rank": 42,
@@ -929,6 +969,14 @@
       "onboard_time": 1669592546,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 157759,
+      "num": 157759,
+      "word": "唐梓预测唯一对的一次",
+      "onboard_time": 1669606478,
+      "rank": 45,
+      "category": "体育,网红"
     },
     {
       "raw_hot": 157016,
@@ -1156,7 +1204,7 @@
     },
     {
       "raw_hot": 39183,
-      "num": 1902589,
+      "num": 2386089,
       "word": "神十五已做好出征准备",
       "onboard_time": 1669532010,
       "rank": 2,
