@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1669630949662,
+  "endTime": 1669631931533,
   "band_list": [
     {
       "raw_hot": 36651023,
@@ -3283,6 +3283,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1488140,
+      "num": 1488140,
+      "word": "Irene",
+      "onboard_time": 1669629994,
+      "rank": 4,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1487382,
       "num": 1487382,
       "word": "苏醒当年没被淘汰的原因",
@@ -3297,14 +3305,6 @@
       "onboard_time": 1669115913,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1486377,
-      "num": 1486377,
-      "word": "Irene",
-      "onboard_time": 1669629994,
-      "rank": 4,
-      "category": "音乐"
     },
     {
       "raw_hot": 1486134,
@@ -4587,6 +4587,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 1188696,
+      "num": 1188696,
+      "word": "难听",
+      "onboard_time": 1669630654,
+      "rank": 9,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1188695,
       "num": 365809,
       "word": "takeoff",
@@ -4913,6 +4921,14 @@
       "onboard_time": 1667714311,
       "rank": 10,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1145336,
+      "num": 1145336,
+      "word": "日本企业家怒斥本国球迷看台捡垃圾",
+      "onboard_time": 1669628495,
+      "rank": 5,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 1145137,
@@ -5761,14 +5777,6 @@
       "onboard_time": 1668573450,
       "rank": 7,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1027611,
-      "num": 1027611,
-      "word": "日本企业家怒斥本国球迷看台捡垃圾",
-      "onboard_time": 1669628495,
-      "rank": 5,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 1026755,
@@ -11907,6 +11915,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 627593,
+      "num": 570765,
+      "word": "同居生2娃男友欠80万外债失联",
+      "onboard_time": 1669630113,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 626815,
       "num": 626815,
       "word": "李现说早买早享受",
@@ -13480,6 +13496,14 @@
       "word": "内马尔强调不要轻视对手",
       "onboard_time": 1669260694,
       "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 567864,
+      "num": 567864,
+      "word": "喀麦隆vs塞尔维亚",
+      "onboard_time": 1669619793,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -17691,14 +17715,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 471586,
-      "num": 570432,
-      "word": "难听",
-      "onboard_time": 1669630654,
-      "rank": 9,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 471540,
       "num": 471540,
       "word": "张雪迎去年今日库存照",
@@ -19683,6 +19699,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 434529,
+      "num": 434529,
+      "word": "Redvelvet新歌公开",
+      "onboard_time": 1669631733,
+      "rank": 14,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 434495,
       "num": 434495,
       "word": "EDG转会期",
@@ -20345,14 +20369,6 @@
       "onboard_time": 1668415108,
       "rank": 37,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 422941,
-      "num": 422941,
-      "word": "喀麦隆vs塞尔维亚",
-      "onboard_time": 1669619793,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 422826,
@@ -24955,6 +24971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 351553,
+      "num": 332481,
+      "word": "黑化的美嘉",
+      "onboard_time": 1669631196,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 351500,
       "num": 238911,
       "word": "鹿晗大张伟庆祝动作",
@@ -26419,6 +26443,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 333361,
+      "num": 333361,
+      "word": "T1与Faker续约3年",
+      "onboard_time": 1669631615,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 333182,
       "num": 333182,
       "word": "财阀家的小儿子 财阀家的小孙子",
@@ -26809,6 +26841,14 @@
       "onboard_time": 1668529165,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 329362,
+      "num": 329362,
+      "word": "男子连撞3人疑称撞死人无所谓",
+      "onboard_time": 1669629451,
+      "rank": 24,
+      "category": "社会负面"
     },
     {
       "raw_hot": 329336,
@@ -28283,6 +28323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 312637,
+      "num": 242321,
+      "word": "Sky加入T1教练组",
+      "onboard_time": 1669630594,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 312583,
       "num": 312583,
       "word": "00后开始整顿球场了",
@@ -29411,6 +29459,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 298616,
+      "num": 238645,
+      "word": "研究生考试12月24日举行",
+      "onboard_time": 1669631253,
+      "rank": 31,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 298401,
       "num": 298401,
       "word": "男童受气后牵狗徒步17公里找奶奶",
@@ -29993,14 +30049,6 @@
       "onboard_time": 1668965297,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 290901,
-      "num": 290901,
-      "word": "男子连撞3人疑称撞死人无所谓",
-      "onboard_time": 1669629451,
-      "rank": 24,
-      "category": "社会负面"
     },
     {
       "raw_hot": 290882,
@@ -30985,6 +31033,14 @@
       "onboard_time": 1669263632,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 281335,
+      "num": 281335,
+      "word": "年轻时候的潘粤明",
+      "onboard_time": 1669631733,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 281302,
@@ -32216,14 +32272,6 @@
       "word": "为什么00后购物变谨慎了",
       "onboard_time": 1667527644,
       "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 270184,
-      "num": 270184,
-      "word": "同居生2娃男友欠80万外债失联",
-      "onboard_time": 1669630113,
-      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -33939,7 +33987,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 251546,
+      "raw_hot": 251587,
       "num": 251546,
       "word": "今年热播剧女主的状态",
       "onboard_time": 1669629394,
@@ -34635,6 +34683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 244872,
+      "num": 222533,
+      "word": "蔡徐坤金海名场面",
+      "onboard_time": 1669631615,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 244856,
       "num": 244856,
       "word": "东方风云榜好多舞台",
@@ -34649,6 +34705,14 @@
       "onboard_time": 1669556254,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 244782,
+      "num": 244782,
+      "word": "女子生日收到香菜蛋糕",
+      "onboard_time": 1669628972,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 244729,
@@ -34771,12 +34835,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 243266,
-      "num": 243266,
-      "word": "女子生日收到香菜蛋糕",
-      "onboard_time": 1669628972,
-      "rank": 34,
-      "category": "社会新闻"
+      "raw_hot": 243286,
+      "num": 243286,
+      "word": "AG绝境翻盘",
+      "onboard_time": 1669630715,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 243155,
@@ -37491,6 +37555,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 221150,
+      "num": 221150,
+      "word": "龚俊十二月刊封面拍摄花絮照",
+      "onboard_time": 1669631615,
+      "rank": 35,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 220938,
       "num": 220938,
       "word": "邓超要和鹿晗比转音",
@@ -37521,6 +37593,14 @@
       "onboard_time": 1668851015,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 220787,
+      "num": 220787,
+      "word": "有些人的教资是DNA自带的",
+      "onboard_time": 1669629994,
+      "rank": 39,
+      "category": "幽默,教育"
     },
     {
       "raw_hot": 220708,
@@ -38579,6 +38659,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 214186,
+      "num": 214186,
+      "word": "女孩烤太多地瓜妈妈说吃不完别吃饭",
+      "onboard_time": 1669630775,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 214149,
       "num": 214149,
       "word": "任嘉伦杨颖暮色心约开始预约",
@@ -39121,14 +39209,6 @@
       "onboard_time": 1669547615,
       "rank": 36,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 209796,
-      "num": 209796,
-      "word": "Sky加入T1教练组",
-      "onboard_time": 1669630594,
-      "rank": 35,
-      "category": "游戏"
     },
     {
       "raw_hot": 209687,
@@ -41995,6 +42075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191635,
+      "num": 191635,
+      "word": "DYG",
+      "onboard_time": 1669631196,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 191615,
       "num": 191615,
       "word": "马琪芮参加offer4问是否有实习证明",
@@ -43899,6 +43987,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 180970,
+      "num": 180970,
+      "word": "小球童被握手后发现对方是C罗",
+      "onboard_time": 1669631014,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 180961,
       "num": 180961,
       "word": "调音师第一次后悔接了这活",
@@ -44707,14 +44803,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 175695,
-      "num": 175695,
-      "word": "有些人的教资是DNA自带的",
-      "onboard_time": 1669629994,
-      "rank": 39,
-      "category": "幽默,教育"
-    },
-    {
       "raw_hot": 175509,
       "num": 175509,
       "word": "男子熟练搬运16层泡沫箱装车",
@@ -45209,6 +45297,14 @@
       "onboard_time": 1667747549,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 172465,
+      "num": 172465,
+      "word": "男生1人用3部手机陪女生玩麻将",
+      "onboard_time": 1669630233,
+      "rank": 44,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 172324,
@@ -45929,14 +46025,6 @@
       "onboard_time": 1668428309,
       "rank": 29,
       "category": "情感"
-    },
-    {
-      "raw_hot": 167722,
-      "num": 167722,
-      "word": "男生1人用3部手机陪女生玩麻将",
-      "onboard_time": 1669630233,
-      "rank": 44,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 167647,
@@ -47891,6 +47979,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 156781,
+      "num": 156781,
+      "word": "AG战胜DYG",
+      "onboard_time": 1669631014,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 156723,
       "num": 156723,
       "word": "深圳校服上新了",
@@ -48217,14 +48313,6 @@
       "onboard_time": 1669266873,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 154349,
-      "num": 154349,
-      "word": "女孩烤太多地瓜妈妈说吃不完别吃饭",
-      "onboard_time": 1669630775,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 154335,
@@ -50153,6 +50241,14 @@
       "onboard_time": 1668357923,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 143933,
+      "num": 143933,
+      "word": "高校食堂撤凳子学生站着吃饭",
+      "onboard_time": 1669631315,
+      "rank": 49,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 143905,
