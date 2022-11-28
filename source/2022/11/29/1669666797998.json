@@ -1,0 +1,410 @@
+{
+  "runTime": 1669666797998,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 313792,
+        "num": 313792,
+        "word": "核子基因多次被罚仍中标核酸检测项目",
+        "onboard_time": 1669642900,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225862,
+        "num": 225862,
+        "word": "葡萄牙vs乌拉圭首发",
+        "onboard_time": 1669660095,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 5194,
+        "num": 205196,
+        "word": "100秒重温神十五航天员真挚发言",
+        "onboard_time": 1669621472,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 203817,
+        "num": 203817,
+        "word": "葡萄牙vs乌拉圭",
+        "onboard_time": 1669648364,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170685,
+        "num": 170685,
+        "word": "巴西球迷称内马尔比不上梅西和C罗",
+        "onboard_time": 1669658597,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146552,
+        "num": 146552,
+        "word": "韩国全队围攻主裁",
+        "onboard_time": 1669650395,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104286,
+        "num": 104286,
+        "word": "为C罗熬夜",
+        "onboard_time": 1669660874,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103780,
+        "num": 103780,
+        "word": "巴西1比0瑞士",
+        "onboard_time": 1669658537,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 82455,
+        "num": 82455,
+        "word": "黄健翔预测C罗不会进球",
+        "onboard_time": 1669650698,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 79958,
+        "num": 79958,
+        "word": "女儿不满房产分配纵火烧父母房",
+        "onboard_time": 1669656860,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146475,
+        "num": 79901,
+        "word": "C罗佩佩并肩作战",
+        "onboard_time": 1669664532,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131360,
+        "num": 79851,
+        "word": "内马尔在酒店看比赛",
+        "onboard_time": 1669659557,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87807,
+        "num": 79835,
+        "word": "本泽马已康复",
+        "onboard_time": 1669659436,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 79700,
+        "num": 79700,
+        "word": "巴西助教 帅",
+        "onboard_time": 1669657458,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 69885,
+        "num": 69885,
+        "word": "韩国教练 红牌",
+        "onboard_time": 1669648720,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 50298,
+        "num": 50298,
+        "word": "寻找15岁少年胡某宇",
+        "onboard_time": 1669639353,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49665,
+        "num": 49665,
+        "word": "远嫁女子孕期遭家暴娘家上门接回家",
+        "onboard_time": 1669635938,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48111,
+        "num": 48111,
+        "word": "唐梓说终于塌房了",
+        "onboard_time": 1669649257,
+        "rank": 17,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 46435,
+        "num": 46435,
+        "word": "重庆抗疫一线医护人员的肺腑之言",
+        "onboard_time": 1669643857,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42714,
+        "num": 42714,
+        "word": "事实证明洗脚盆不能买折叠的",
+        "onboard_time": 1669640915,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 41545,
+        "num": 41545,
+        "word": "广州海珠试行闭环泡泡",
+        "onboard_time": 1669636233,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41494,
+        "num": 41494,
+        "word": "韩国将面对葡萄牙队",
+        "onboard_time": 1669652131,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 40908,
+        "num": 40908,
+        "word": "男孩10元零花钱给小甜甜花8元",
+        "onboard_time": 1669652549,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40539,
+        "num": 40539,
+        "word": "山东一医院开诊亮灯仪式被指像KTV",
+        "onboard_time": 1669643612,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37165,
+        "num": 37165,
+        "word": "韩国后卫好像提前飞回国了",
+        "onboard_time": 1669647756,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 35423,
+        "num": 35423,
+        "word": "没有内马尔",
+        "onboard_time": 1669652370,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 35209,
+        "num": 35209,
+        "word": "真的有人穿什么都好看",
+        "onboard_time": 1669648542,
+        "rank": 26,
+        "category": "幽默,时尚"
+      },
+      {
+        "raw_hot": 34244,
+        "num": 34244,
+        "word": "黑化的美嘉",
+        "onboard_time": 1669631196,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 33502,
+        "num": 33502,
+        "word": "李薇成为正夫人",
+        "onboard_time": 1669639957,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 32622,
+        "num": 32622,
+        "word": "Nuguri退役",
+        "onboard_time": 1669637796,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 52409,
+        "num": 32499,
+        "word": "巴西vs瑞士贵宾席有多豪华",
+        "onboard_time": 1669665195,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 37463,
+        "num": 32429,
+        "word": "巴西球迷旗帜上写想你内马尔",
+        "onboard_time": 1669664712,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31393,
+        "num": 31393,
+        "word": "原来琼瑶剧运动量这么大",
+        "onboard_time": 1669643433,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 31317,
+        "num": 31317,
+        "word": "张婧仪说大家不要再去考古了",
+        "onboard_time": 1669629214,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 30438,
+        "num": 30438,
+        "word": "上财校长称博士生像乞丐一样在研究",
+        "onboard_time": 1669644873,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29541,
+        "num": 29541,
+        "word": "常态化做核酸安全吗",
+        "onboard_time": 1669632699,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29407,
+        "num": 29407,
+        "word": "苹果手机将全迈入全面屏时代",
+        "onboard_time": 1669635814,
+        "rank": 36,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 28596,
+        "num": 28596,
+        "word": "罗云熙用车被安装跟踪定位器",
+        "onboard_time": 1669642594,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28403,
+        "num": 28403,
+        "word": "韩国教练是葡萄牙人",
+        "onboard_time": 1669653028,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28250,
+        "num": 28250,
+        "word": "巴西队晋级16强",
+        "onboard_time": 1669658956,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27892,
+        "num": 27892,
+        "word": "巴西进球 越位",
+        "onboard_time": 1669657217,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25728,
+        "num": 25728,
+        "word": "台州交警通报特斯拉追尾致2死1伤",
+        "onboard_time": 1669648303,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25051,
+        "num": 25051,
+        "word": "北京疫情发布会",
+        "onboard_time": 1669651591,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23584,
+        "num": 23584,
+        "word": "孙兴慜 状态",
+        "onboard_time": 1669645298,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23448,
+        "num": 23448,
+        "word": "要一辈子友情还是半年爱情",
+        "onboard_time": 1669641937,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 21512,
+        "num": 21512,
+        "word": "解封后你想吃什么呢",
+        "onboard_time": 1669650339,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 20758,
+        "num": 20758,
+        "word": "瑞士球员说内马尔缺席比赛也不轻松",
+        "onboard_time": 1669666513,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19407,
+        "num": 19407,
+        "word": "巴西vs瑞士",
+        "onboard_time": 1669648303,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19360,
+        "num": 19360,
+        "word": "巴西半场0比0瑞士",
+        "onboard_time": 1669654705,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19081,
+        "num": 19081,
+        "word": "巴颖",
+        "onboard_time": 1669652131,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#航天新征程#"
+    }
+  }
+}

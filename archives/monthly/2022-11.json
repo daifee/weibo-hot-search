@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1669664044142,
+  "endTime": 1669666797998,
   "band_list": [
     {
       "raw_hot": 36651023,
@@ -37627,6 +37627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 225862,
+      "num": 225862,
+      "word": "葡萄牙vs乌拉圭首发",
+      "onboard_time": 1669660095,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 225790,
       "num": 225790,
       "word": "国务院联防联控机制今日召开发布会",
@@ -39225,14 +39233,6 @@
       "onboard_time": 1668610531,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 215734,
-      "num": 215734,
-      "word": "葡萄牙vs乌拉圭首发",
-      "onboard_time": 1669660095,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 215705,
@@ -50635,6 +50635,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 146475,
+      "num": 79901,
+      "word": "C罗佩佩并肩作战",
+      "onboard_time": 1669664532,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 146473,
       "num": 146473,
       "word": "命韵峋环39秒对话语录",
@@ -58443,6 +58451,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 104286,
+      "num": 104286,
+      "word": "为C罗熬夜",
+      "onboard_time": 1669660874,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 104201,
       "num": 104201,
       "word": "李峋朱韵小学生打架",
@@ -60752,14 +60768,6 @@
       "word": "曼城vs布伦特福德",
       "onboard_time": 1668259720,
       "rank": 49,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 89421,
-      "num": 89421,
-      "word": "为C罗熬夜",
-      "onboard_time": 1669660874,
-      "rank": 12,
       "category": "体育"
     },
     {
@@ -64019,6 +64027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 52409,
+      "num": 32499,
+      "word": "巴西vs瑞士贵宾席有多豪华",
+      "onboard_time": 1669665195,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 52145,
       "num": 52145,
       "word": "重庆一楼整个屋顶种满菜",
@@ -64616,6 +64632,14 @@
       "word": "拉比奥头球破门",
       "onboard_time": 1669150752,
       "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 37463,
+      "num": 32429,
+      "word": "巴西球迷旗帜上写想你内马尔",
+      "onboard_time": 1669664712,
+      "rank": 31,
       "category": "体育"
     },
     {
@@ -65256,6 +65280,14 @@
       "word": "克拉森补射破门",
       "onboard_time": 1669057093,
       "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 20758,
+      "num": 20758,
+      "word": "瑞士球员说内马尔缺席比赛也不轻松",
+      "onboard_time": 1669666513,
+      "rank": 46,
       "category": "体育"
     },
     {

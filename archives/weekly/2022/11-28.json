@@ -1,6 +1,6 @@
 {
   "startTime": 1669566398830,
-  "endTime": 1669664044142,
+  "endTime": 1669666797998,
   "band_list": [
     {
       "raw_hot": 11045761,
@@ -2331,6 +2331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 225862,
+      "num": 225862,
+      "word": "葡萄牙vs乌拉圭首发",
+      "onboard_time": 1669660095,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 225151,
       "num": 225151,
       "word": "陌生人带走自闭症男孩同学上前阻拦",
@@ -2433,14 +2441,6 @@
       "onboard_time": 1669644339,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 215734,
-      "num": 215734,
-      "word": "葡萄牙vs乌拉圭首发",
-      "onboard_time": 1669660095,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 213321,
@@ -3003,6 +3003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 146475,
+      "num": 79901,
+      "word": "C罗佩佩并肩作战",
+      "onboard_time": 1669664532,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 146432,
       "num": 146432,
       "word": "戴维斯2分钟破门",
@@ -3315,6 +3323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104286,
+      "num": 104286,
+      "word": "为C罗熬夜",
+      "onboard_time": 1669660874,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 102937,
       "num": 102937,
       "word": "男子收集上千种虫子建昆虫博物馆",
@@ -3339,14 +3355,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 89421,
-      "num": 89421,
-      "word": "为C罗熬夜",
-      "onboard_time": 1669660874,
-      "rank": 12,
-      "category": "体育"
-    },
-    {
       "raw_hot": 75858,
       "num": 75858,
       "word": "克拉马里奇破门",
@@ -3360,6 +3368,14 @@
       "word": "解说说加维是娃娃脸",
       "onboard_time": 1669582994,
       "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 52409,
+      "num": 32499,
+      "word": "巴西vs瑞士贵宾席有多豪华",
+      "onboard_time": 1669665195,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -3377,6 +3393,22 @@
       "onboard_time": 1669532010,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 37463,
+      "num": 32429,
+      "word": "巴西球迷旗帜上写想你内马尔",
+      "onboard_time": 1669664712,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 20758,
+      "num": 20758,
+      "word": "瑞士球员说内马尔缺席比赛也不轻松",
+      "onboard_time": 1669666513,
+      "rank": 46,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
