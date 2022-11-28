@@ -1,6 +1,6 @@
 {
   "startTime": 1669566398830,
-  "endTime": 1669631931533,
+  "endTime": 1669634223057,
   "band_list": [
     {
       "raw_hot": 11045761,
@@ -147,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1629135,
+      "num": 1629135,
+      "word": "研究生考试12月24日举行",
+      "onboard_time": 1669631253,
+      "rank": 31,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 1620972,
       "num": 1620972,
       "word": "四六级",
@@ -275,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1051908,
+      "num": 914241,
+      "word": "同居生2娃男友欠80万外债失联",
+      "onboard_time": 1669630113,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1033034,
       "num": 1033034,
       "word": "考研会延期吗",
@@ -313,6 +329,14 @@
       "onboard_time": 1669622613,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 896640,
+      "num": 896640,
+      "word": "黑化的美嘉",
+      "onboard_time": 1669631196,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 894132,
@@ -435,6 +459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 724359,
+      "num": 724359,
+      "word": "T1与Faker续约3年",
+      "onboard_time": 1669631615,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 688105,
       "num": 688105,
       "word": "小伙娶见义勇为女孩为妻照顾34年",
@@ -504,14 +536,6 @@
       "word": "什么情况下需戴N95口罩",
       "onboard_time": 1669602812,
       "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 627593,
-      "num": 570765,
-      "word": "同居生2娃男友欠80万外债失联",
-      "onboard_time": 1669630113,
-      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -595,6 +619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 551936,
+      "num": 551936,
+      "word": "常态化做核酸安全吗",
+      "onboard_time": 1669632699,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 540075,
       "num": 540075,
       "word": "邓清明同志简历",
@@ -635,6 +667,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 517009,
+      "num": 517009,
+      "word": "张婧仪说大家不要再去考古了",
+      "onboard_time": 1669629214,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 505292,
       "num": 505292,
       "word": "如果不考虑职业歧视和薪资",
@@ -657,6 +697,14 @@
       "onboard_time": 1669613496,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 485120,
+      "num": 485120,
+      "word": "塞尔维亚反超",
+      "onboard_time": 1669632996,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 483514,
@@ -691,14 +739,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 468029,
-      "num": 468029,
-      "word": "张婧仪说大家不要再去考古了",
-      "onboard_time": 1669629214,
-      "rank": 12,
-      "category": "影视"
-    },
-    {
       "raw_hot": 465887,
       "num": 465887,
       "word": "老人故意推倒摩托车主坚持追责",
@@ -731,6 +771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 453497,
+      "num": 453497,
+      "word": "女孩烤太多地瓜妈妈说吃不完别吃饭",
+      "onboard_time": 1669630775,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 448482,
       "num": 448482,
       "word": "孙千夸赵丽颖饰演的许半夏",
@@ -745,6 +793,14 @@
       "onboard_time": 1669603831,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 441363,
+      "num": 441363,
+      "word": "MAMA",
+      "onboard_time": 1669632575,
+      "rank": 17,
+      "category": "音乐"
     },
     {
       "raw_hot": 440833,
@@ -875,6 +931,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 402132,
+      "num": 402132,
+      "word": "奥纳纳退出世界杯",
+      "onboard_time": 1669632158,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 401753,
       "num": 401753,
       "word": "尹峥尹岐去了甘棠驿",
@@ -931,6 +995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 377119,
+      "num": 377119,
+      "word": "男子连撞3人疑称撞死人无所谓",
+      "onboard_time": 1669629451,
+      "rank": 24,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 372978,
       "num": 372978,
       "word": "北京优化社区防控举措极简版汇总",
@@ -979,11 +1051,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 351553,
-      "num": 332481,
-      "word": "黑化的美嘉",
-      "onboard_time": 1669631196,
-      "rank": 20,
+      "raw_hot": 347508,
+      "num": 347508,
+      "word": "今年热播剧女主的状态",
+      "onboard_time": 1669629394,
+      "rank": 33,
       "category": "影视"
     },
     {
@@ -1043,14 +1115,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 333361,
-      "num": 333361,
-      "word": "T1与Faker续约3年",
-      "onboard_time": 1669631615,
-      "rank": 19,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 332741,
       "num": 308516,
       "word": "梅西接近加盟迈阿密国际",
@@ -1081,14 +1145,6 @@
       "onboard_time": 1669608765,
       "rank": 28,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 329362,
-      "num": 329362,
-      "word": "男子连撞3人疑称撞死人无所谓",
-      "onboard_time": 1669629451,
-      "rank": 24,
-      "category": "社会负面"
     },
     {
       "raw_hot": 323441,
@@ -1187,12 +1243,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 298616,
-      "num": 238645,
-      "word": "研究生考试12月24日举行",
-      "onboard_time": 1669631253,
-      "rank": 31,
-      "category": "教育,社会新闻"
+      "raw_hot": 295362,
+      "num": 295362,
+      "word": "喀麦隆进球",
+      "onboard_time": 1669632036,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 293137,
@@ -1347,12 +1403,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 260441,
+      "num": 260441,
+      "word": "当布偶猫离开了美颜相机",
+      "onboard_time": 1669632337,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 257421,
       "num": 257421,
       "word": "北京新增本土感染者1781例",
       "onboard_time": 1669544431,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 256900,
+      "num": 256900,
+      "word": "喀麦隆半场1比2塞尔维亚",
+      "onboard_time": 1669633596,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 256187,
@@ -1395,20 +1467,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 251587,
-      "num": 251546,
-      "word": "今年热播剧女主的状态",
-      "onboard_time": 1669629394,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 251484,
       "num": 251484,
       "word": "六名中国航天员将在太空交接班",
       "onboard_time": 1669592910,
       "rank": 25,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 251006,
+      "num": 251006,
+      "word": "女子生日收到香菜蛋糕",
+      "onboard_time": 1669628972,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 250795,
@@ -1425,14 +1497,6 @@
       "onboard_time": 1669631615,
       "rank": 34,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 244782,
-      "num": 244782,
-      "word": "女子生日收到香菜蛋糕",
-      "onboard_time": 1669628972,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 244202,
@@ -1457,6 +1521,14 @@
       "onboard_time": 1669630715,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 242888,
+      "num": 242888,
+      "word": "男生1人用3部手机陪女生玩麻将",
+      "onboard_time": 1669630233,
+      "rank": 44,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 242755,
@@ -1563,6 +1635,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 224940,
+      "num": 224940,
+      "word": "RedVelvet音源空降",
+      "onboard_time": 1669633898,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 224253,
+      "num": 224253,
+      "word": "李峋谢谢大家支持朱韵第一个项目",
+      "onboard_time": 1669633414,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 223991,
       "num": 223991,
       "word": "吃个炒饭给我整得热血澎湃",
@@ -1619,6 +1707,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 218607,
+      "num": 215567,
+      "word": "李峋田修竹握手",
+      "onboard_time": 1669633715,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 218590,
       "num": 218590,
       "word": "孔雪儿长白山vlog",
@@ -1627,12 +1723,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 214186,
-      "num": 214186,
-      "word": "女孩烤太多地瓜妈妈说吃不完别吃饭",
-      "onboard_time": 1669630775,
-      "rank": 46,
-      "category": "社会新闻"
+      "raw_hot": 215570,
+      "num": 215570,
+      "word": "小球童被握手后发现对方是C罗",
+      "onboard_time": 1669631014,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 213321,
@@ -1811,12 +1907,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 180970,
-      "num": 180970,
-      "word": "小球童被握手后发现对方是C罗",
-      "onboard_time": 1669631014,
-      "rank": 44,
-      "category": "体育"
+      "raw_hot": 176169,
+      "num": 176169,
+      "word": "张远说遇事不决就得选C",
+      "onboard_time": 1669634014,
+      "rank": 43,
+      "category": "综艺,体育"
     },
     {
       "raw_hot": 176092,
@@ -1843,12 +1939,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 172465,
-      "num": 172465,
-      "word": "男生1人用3部手机陪女生玩麻将",
-      "onboard_time": 1669630233,
+      "raw_hot": 172461,
+      "num": 172461,
+      "word": "命韵峋环同居的小日子即将开启",
+      "onboard_time": 1669633475,
       "rank": 44,
-      "category": "社会新闻,教育"
+      "category": "影视"
     },
     {
       "raw_hot": 171502,
@@ -1928,6 +2024,14 @@
       "word": "高校宿舍违规电器查出烤肠机",
       "onboard_time": 1669565563,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 163329,
+      "num": 163329,
+      "word": "核子华曦已启动IPO上市计划",
+      "onboard_time": 1669634135,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -2033,6 +2137,14 @@
       "onboard_time": 1669598853,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 146580,
+      "num": 146580,
+      "word": "冬日热练打卡",
+      "onboard_time": 1669633835,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 146432,

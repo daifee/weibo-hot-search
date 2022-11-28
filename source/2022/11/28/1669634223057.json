@@ -1,0 +1,410 @@
+{
+  "runTime": 1669634223057,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1629135,
+        "num": 1629135,
+        "word": "研究生考试12月24日举行",
+        "onboard_time": 1669631253,
+        "rank": 0,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 1033748,
+        "num": 1033748,
+        "word": "日本企业家怒斥本国球迷看台捡垃圾",
+        "onboard_time": 1669628495,
+        "rank": 1,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 63451,
+        "num": 1031633,
+        "word": "神十五航天员乘组确定",
+        "onboard_time": 1669613436,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 3225007,
+        "num": 1001035,
+        "word": "核酸检测或遭经济垄断化",
+        "onboard_time": 1669620574,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1564124,
+        "num": 985706,
+        "word": "揭秘关联37家核检机构的张姗姗",
+        "onboard_time": 1669618412,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1544523,
+        "num": 960042,
+        "word": "女子结婚53天做了52天饭",
+        "onboard_time": 1669624656,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1064527,
+        "num": 930308,
+        "word": "难听",
+        "onboard_time": 1669630654,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1051908,
+        "num": 914241,
+        "word": "同居生2娃男友欠80万外债失联",
+        "onboard_time": 1669630113,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 896640,
+        "num": 896640,
+        "word": "黑化的美嘉",
+        "onboard_time": 1669631196,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 880617,
+        "num": 880617,
+        "word": "Irene",
+        "onboard_time": 1669629994,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 724359,
+        "num": 724359,
+        "word": "T1与Faker续约3年",
+        "onboard_time": 1669631615,
+        "rank": 10,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 551936,
+        "num": 551936,
+        "word": "常态化做核酸安全吗",
+        "onboard_time": 1669632699,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 517009,
+        "num": 517009,
+        "word": "张婧仪说大家不要再去考古了",
+        "onboard_time": 1669629214,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 503953,
+        "num": 503953,
+        "word": "喀麦隆vs塞尔维亚",
+        "onboard_time": 1669626634,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 485120,
+        "num": 485120,
+        "word": "塞尔维亚反超",
+        "onboard_time": 1669632996,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 474166,
+        "num": 474166,
+        "word": "北京新增本土感染者2086例",
+        "onboard_time": 1669628791,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 453497,
+        "num": 453497,
+        "word": "女孩烤太多地瓜妈妈说吃不完别吃饭",
+        "onboard_time": 1669630775,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 441363,
+        "num": 441363,
+        "word": "MAMA",
+        "onboard_time": 1669632575,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 438361,
+        "num": 438361,
+        "word": "华晨宇怀疑跟郑楠音乐细胞长得一样",
+        "onboard_time": 1669617032,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 402132,
+        "num": 402132,
+        "word": "奥纳纳退出世界杯",
+        "onboard_time": 1669632158,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 391036,
+        "num": 391036,
+        "word": "C罗坚持同款饮食20年",
+        "onboard_time": 1669625794,
+        "rank": 20,
+        "category": "体育,美食"
+      },
+      {
+        "raw_hot": 389101,
+        "num": 389101,
+        "word": "顾客点龙虾做标记上菜后发现被换",
+        "onboard_time": 1669623754,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 377119,
+        "num": 377119,
+        "word": "男子连撞3人疑称撞死人无所谓",
+        "onboard_time": 1669629451,
+        "rank": 22,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 347508,
+        "num": 347508,
+        "word": "今年热播剧女主的状态",
+        "onboard_time": 1669629394,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 337990,
+        "num": 337990,
+        "word": "网传女子被10多人轮流棍击",
+        "onboard_time": 1669617934,
+        "rank": 24,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 300866,
+        "num": 300866,
+        "word": "李峋的家属是朱韵",
+        "onboard_time": 1669628671,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 295362,
+        "num": 295362,
+        "word": "喀麦隆进球",
+        "onboard_time": 1669632036,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 260441,
+        "num": 260441,
+        "word": "当布偶猫离开了美颜相机",
+        "onboard_time": 1669632337,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 256900,
+        "num": 256900,
+        "word": "喀麦隆半场1比2塞尔维亚",
+        "onboard_time": 1669633596,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 251006,
+        "num": 251006,
+        "word": "女子生日收到香菜蛋糕",
+        "onboard_time": 1669628972,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242888,
+        "num": 242888,
+        "word": "男生1人用3部手机陪女生玩麻将",
+        "onboard_time": 1669630233,
+        "rank": 30,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 240430,
+        "num": 240430,
+        "word": "2男孩独在家肚子饿用水壶贴饼吃",
+        "onboard_time": 1669619552,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239160,
+        "num": 239160,
+        "word": "济南华曦谎报核酸结果如何四度中标",
+        "onboard_time": 1669622976,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224940,
+        "num": 224940,
+        "word": "RedVelvet音源空降",
+        "onboard_time": 1669633898,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 229328,
+        "num": 224781,
+        "word": "核酸检测企业IPO从严审核第一枪",
+        "onboard_time": 1669622613,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224253,
+        "num": 224253,
+        "word": "李峋谢谢大家支持朱韵第一个项目",
+        "onboard_time": 1669633414,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 215570,
+        "num": 215570,
+        "word": "小球童被握手后发现对方是C罗",
+        "onboard_time": 1669631014,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 218607,
+        "num": 215567,
+        "word": "李峋田修竹握手",
+        "onboard_time": 1669633715,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 212292,
+        "num": 212292,
+        "word": "有些人的教资是DNA自带的",
+        "onboard_time": 1669629994,
+        "rank": 38,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 205002,
+        "num": 205002,
+        "word": "潘粤明世界杯七次预测全中",
+        "onboard_time": 1669615174,
+        "rank": 39,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 204168,
+        "num": 204168,
+        "word": "本月少女9名成员向公司提出解约",
+        "onboard_time": 1669624953,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199270,
+        "num": 199270,
+        "word": "核子基因旗下公司曾谎报核酸结果",
+        "onboard_time": 1669624898,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191222,
+        "num": 191222,
+        "word": "Sky加入T1教练组",
+        "onboard_time": 1669630594,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 176169,
+        "num": 176169,
+        "word": "张远说遇事不决就得选C",
+        "onboard_time": 1669634014,
+        "rank": 43,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 172461,
+        "num": 172461,
+        "word": "命韵峋环同居的小日子即将开启",
+        "onboard_time": 1669633475,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 164022,
+        "num": 164022,
+        "word": "多地核酸检测通知发生变化",
+        "onboard_time": 1669604796,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163329,
+        "num": 163329,
+        "word": "核子华曦已启动IPO上市计划",
+        "onboard_time": 1669634135,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161240,
+        "num": 161240,
+        "word": "男子冒充防疫人员进小区散播谣言",
+        "onboard_time": 1669624953,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154772,
+        "num": 154772,
+        "word": "AG绝境翻盘",
+        "onboard_time": 1669630715,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 146580,
+        "num": 146580,
+        "word": "冬日热练打卡",
+        "onboard_time": 1669633835,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚定信心抓实抓细疫情防控各项工作#"
+    }
+  }
+}
