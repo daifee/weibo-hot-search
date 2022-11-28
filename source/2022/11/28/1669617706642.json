@@ -1,0 +1,410 @@
+{
+  "runTime": 1669617706642,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3133481,
+        "num": 3133481,
+        "word": "多地核酸检测通知发生变化",
+        "onboard_time": 1669604796,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1675495,
+        "num": 1675495,
+        "word": "考研",
+        "onboard_time": 1669606961,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 126174,
+        "num": 1586565,
+        "word": "神十五航天员乘组确定",
+        "onboard_time": 1669613436,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1585518,
+        "num": 1585518,
+        "word": "核子华曦相关实验室多次违规被罚",
+        "onboard_time": 1669616010,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1332784,
+        "num": 1332784,
+        "word": "警方回应网传一女子被12人轮流棍击",
+        "onboard_time": 1669611460,
+        "rank": 4,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1186354,
+        "num": 1186354,
+        "word": "美国足协篡改伊朗队国旗",
+        "onboard_time": 1669613915,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1114761,
+        "num": 1114761,
+        "word": "麻六记背后的代工生意",
+        "onboard_time": 1669610563,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 802102,
+        "num": 802102,
+        "word": "吴镇宇反思被梅西进球",
+        "onboard_time": 1669613316,
+        "rank": 7,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 770198,
+        "num": 770198,
+        "word": "华晨宇怀疑跟郑楠音乐细胞长得一样",
+        "onboard_time": 1669617032,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 738619,
+        "num": 738619,
+        "word": "尹峥入狱vs陆之昂入狱",
+        "onboard_time": 1669614814,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 635741,
+        "num": 635741,
+        "word": "核子华曦部分公司近3个月内成立",
+        "onboard_time": 1669609240,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 634226,
+        "num": 634226,
+        "word": "杨幂郭敬明搭肩合照",
+        "onboard_time": 1669616429,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 615770,
+        "num": 615770,
+        "word": "考研会延期吗",
+        "onboard_time": 1669610563,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 561333,
+        "num": 561333,
+        "word": "潘粤明世界杯七次预测全中",
+        "onboard_time": 1669615174,
+        "rank": 13,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 495798,
+        "num": 495798,
+        "word": "19岁女生减肥催吐致进食障碍",
+        "onboard_time": 1669613496,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 490191,
+        "num": 490191,
+        "word": "龚俊把头发吹成猫耳",
+        "onboard_time": 1669612716,
+        "rank": 15,
+        "category": "作品衍生,综艺"
+      },
+      {
+        "raw_hot": 472842,
+        "num": 472842,
+        "word": "国考延期",
+        "onboard_time": 1669604673,
+        "rank": 16,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 439156,
+        "num": 439156,
+        "word": "如果不考虑职业歧视和薪资",
+        "onboard_time": 1669611700,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 428244,
+        "num": 428244,
+        "word": "C罗年轻时好奶",
+        "onboard_time": 1669613854,
+        "rank": 18,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 305677,
+        "num": 305677,
+        "word": "小伙娶见义勇为女孩为妻照顾34年",
+        "onboard_time": 1669607563,
+        "rank": 19,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 470829,
+        "num": 304563,
+        "word": "张颜齐去卡塔尔看球了",
+        "onboard_time": 1669606660,
+        "rank": 20,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 423272,
+        "num": 283562,
+        "word": "RedVelvet回归记者会新闻图",
+        "onboard_time": 1669617510,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 368709,
+        "num": 278539,
+        "word": "苏醒说赚钱比看梅西重要",
+        "onboard_time": 1669616135,
+        "rank": 22,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 259743,
+        "num": 259743,
+        "word": "高三女生上课总睡着竟是患罕见病",
+        "onboard_time": 1669604796,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238312,
+        "num": 238312,
+        "word": "邓清明同志简历",
+        "onboard_time": 1669610146,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235815,
+        "num": 235815,
+        "word": "四六级",
+        "onboard_time": 1669606478,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 217979,
+        "num": 217979,
+        "word": "美国vs伊朗主裁判公布",
+        "onboard_time": 1669600893,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211610,
+        "num": 211610,
+        "word": "一核酸公司实控人今年注册16家核酸机构",
+        "onboard_time": 1669562921,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210027,
+        "num": 210027,
+        "word": "奥密克戎变异株2到3天传一代",
+        "onboard_time": 1669596034,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202131,
+        "num": 202131,
+        "word": "男子对泉水喊一声水瞬间消失",
+        "onboard_time": 1669616852,
+        "rank": 29,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 315121,
+        "num": 202118,
+        "word": "于正追风吹半夏追到凌晨四点",
+        "onboard_time": 1669616495,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 296921,
+        "num": 199393,
+        "word": "卿卿日常最大反派安曦元来了",
+        "onboard_time": 1669607978,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 295611,
+        "num": 197481,
+        "word": "港片去掉磨皮滤镜的颜值",
+        "onboard_time": 1669610381,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 249549,
+        "num": 195413,
+        "word": "反着唐梓买别墅靠大海",
+        "onboard_time": 1669614696,
+        "rank": 33,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 209328,
+        "num": 192012,
+        "word": "与迪丽热巴共品诗中情怀",
+        "onboard_time": 1669615355,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191910,
+        "num": 191910,
+        "word": "中国球迷是最全球化的球迷",
+        "onboard_time": 1669608941,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191763,
+        "num": 191763,
+        "word": "45岁妈妈一年考2本证书",
+        "onboard_time": 1669605456,
+        "rank": 36,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 185212,
+        "num": 185212,
+        "word": "大连理工博士为救重病儿子休学",
+        "onboard_time": 1669605877,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182965,
+        "num": 182965,
+        "word": "葡萄牙vs乌拉圭",
+        "onboard_time": 1669616973,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182467,
+        "num": 182467,
+        "word": "高校否认征用学生宿舍当隔离点",
+        "onboard_time": 1669609059,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177634,
+        "num": 177634,
+        "word": "MAMA四代女团合作剧透",
+        "onboard_time": 1669606116,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 154138,
+        "num": 154138,
+        "word": "小鸟撞车男子持续按压心脏救活",
+        "onboard_time": 1669605699,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149374,
+        "num": 149374,
+        "word": "江苏省考",
+        "onboard_time": 1669611520,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 148590,
+        "num": 148590,
+        "word": "00后球迷为看球让内马尔帮忙请假",
+        "onboard_time": 1669608765,
+        "rank": 43,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 147784,
+        "num": 147784,
+        "word": "重庆新增本土确诊238例无症状9447例",
+        "onboard_time": 1669597116,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143489,
+        "num": 143489,
+        "word": "省考",
+        "onboard_time": 1669611942,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 139249,
+        "num": 139249,
+        "word": "青岛13岁男孩打破魔方世界纪录",
+        "onboard_time": 1669617573,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136998,
+        "num": 136998,
+        "word": "杭州打雷",
+        "onboard_time": 1669607618,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129206,
+        "num": 129206,
+        "word": "一套动作加强下肢灵活度",
+        "onboard_time": 1669617212,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124786,
+        "num": 124786,
+        "word": "费俊龙保持体重17年没变过",
+        "onboard_time": 1669617691,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚定信心抓实抓细疫情防控各项工作#"
+    }
+  }
+}
