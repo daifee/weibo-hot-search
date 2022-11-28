@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/01 00:36:21 ~ 2022/11/28 20:58:35
+本榜单时间：2022/11/01 00:36:21 ~ 2022/11/28 21:30:05
 </p>
 </blockquote>
 <p>
@@ -2463,6 +2463,12 @@ Faker（热度：1632969）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E6%B5%B7%E7%8F%A0%E8%AF%95%E8%A1%8C%E9%97%AD%E7%8E%AF%E6%B3%A1%E6%B3%A1%23" target="weibo">
+广州海珠试行闭环泡泡（热度：1508408）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E5%AB%A3%E9%A6%96%E6%A1%A3%E5%B8%B8%E9%A9%BB%E7%BB%BC%E8%89%BA%E5%AE%98%E5%AE%A3%23" target="weibo">
 唐嫣首档常驻综艺官宣（热度：1503793）
 </a>
@@ -3185,12 +3191,6 @@ gemini（热度：1285265）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E9%99%88%E9%A3%9E%E5%AE%87%E5%92%8C%E7%8E%8B%E9%B9%A4%E6%A3%A3%E6%BC%94%E8%BF%87%E5%90%8C%E4%B8%80%E4%B8%AA%E8%A7%92%E8%89%B2%23" target="weibo">
 原来陈飞宇和王鹤棣演过同一个角色（热度：1274033）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E6%B5%B7%E7%8F%A0%E8%AF%95%E8%A1%8C%E9%97%AD%E7%8E%AF%E6%B3%A1%E6%B3%A1%23" target="weibo">
-广州海珠试行闭环泡泡（热度：1273045）
 </a>
 </li>
 
@@ -4133,6 +4133,12 @@ iPhone折叠屏（热度：1140020）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E9%87%91%E9%B8%A1%E5%A5%96%E6%9C%80%E4%BD%B3%E7%94%B7%E4%B8%BB%E8%A7%92%E6%8F%90%E5%90%8DVCR%23" target="weibo">
 易烊千玺金鸡奖最佳男主角提名VCR（热度：1080947）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%B9%E5%B2%90%E4%B8%8A%E5%AE%98%E5%A9%A7%E5%92%8C%E7%A6%BB%23" target="weibo">
+尹岐上官婧和离（热度：1079955）
 </a>
 </li>
 
@@ -5193,6 +5199,12 @@ C罗世界杯首秀（热度：939263）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%96%87%E6%88%90%E4%B8%BA%E6%AD%A3%E5%A4%AB%E4%BA%BA%23" target="weibo">
+李薇成为正夫人（热度：922385）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E8%B0%B7%E7%88%B1%E5%87%8C%E5%86%B0%E9%9B%AA%E4%B9%8B%E7%BA%A6%E7%B1%B3%E5%85%B0%E8%8E%B7%E5%A5%96%23" target="weibo">
 易烊千玺谷爱凌冰雪之约米兰获奖（热度：921048）
 </a>
@@ -5631,6 +5643,12 @@ C罗已被移出曼联群聊（热度：890456）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%AE%B6%E9%BA%BB%E5%85%AD%E8%AE%B0%E9%97%A8%E5%BA%97%E7%A7%B0%E4%BA%BA%E6%B0%94%E5%A4%A7%E6%B6%A8%23" target="weibo">
+多家麻六记门店称人气大涨（热度：873330）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%9C%E5%8D%8E%E5%9B%9E%E5%BA%94%E6%89%93%E9%80%A0%E4%B8%8B%E4%B8%80%E4%B8%AA%E7%8E%8B%E4%B8%80%E5%8D%9A%23" target="weibo">
 杜华回应打造下一个王一博（热度：872535）
 </a>
@@ -5993,24 +6011,6 @@ LWX（热度：842999）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A6%BB%E5%AD%90%E8%BF%9E%E7%BB%AD1%E5%B9%B4%E4%B8%BA%E5%A4%9C%E7%8F%AD%E4%B8%88%E5%A4%AB%E5%81%9A%E7%9B%B2%E7%9B%92%E4%BE%BF%E5%BD%93%23" target="weibo">
 妻子连续1年为夜班丈夫做盲盒便当（热度：841193）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%AB%8B%E5%86%AC%23" target="weibo">
-立冬（热度：840310）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%A1%E5%A1%94%E5%B0%94vs%E5%A1%9E%E5%86%85%E5%8A%A0%E5%B0%94%23" target="weibo">
-卡塔尔vs塞内加尔（热度：840307）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E9%B9%B0%E5%A5%96%E5%A5%96%E5%8D%95%23" target="weibo">
-金鹰奖奖单（热度：840107）
 </a>
 </li>
 
@@ -6497,6 +6497,12 @@ LWX（热度：842999）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B8%A5%E7%A6%81%E9%9A%8F%E6%84%8F%E5%B0%81%E6%8E%A7%E7%AD%89%E5%90%84%E7%B1%BB%E5%B1%82%E5%B1%82%E5%8A%A0%E7%A0%81%E8%A1%8C%E4%B8%BA%23%23" target="weibo">
 #严禁随意封控等各类层层加码行为#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E7%A7%91%E5%AD%A6%E7%B2%BE%E5%87%86%E6%8F%90%E9%AB%98%E9%98%B2%E7%96%AB%E5%B7%A5%E4%BD%9C%E7%9A%84%E6%9C%89%E6%95%88%E6%80%A7%23%23" target="weibo">
+#科学精准提高防疫工作的有效性#
 </a>
 </li>
 

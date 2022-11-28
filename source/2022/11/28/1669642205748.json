@@ -1,0 +1,410 @@
+{
+  "runTime": 1669642205748,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1508408,
+        "num": 1508408,
+        "word": "广州海珠试行闭环泡泡",
+        "onboard_time": 1669636233,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1212521,
+        "num": 1212521,
+        "word": "Nuguri退役",
+        "onboard_time": 1669637796,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 12251,
+        "num": 1144639,
+        "word": "100秒重温神十五航天员真挚发言",
+        "onboard_time": 1669621472,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1634969,
+        "num": 1120581,
+        "word": "远嫁女子孕期遭家暴娘家上门接回家",
+        "onboard_time": 1669635938,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1079955,
+        "num": 1079955,
+        "word": "尹岐上官婧和离",
+        "onboard_time": 1669639413,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 969058,
+        "num": 969058,
+        "word": "大白下班点就走老人坚持让做完核酸",
+        "onboard_time": 1669634977,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 922385,
+        "num": 922385,
+        "word": "李薇成为正夫人",
+        "onboard_time": 1669639957,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 873330,
+        "num": 873330,
+        "word": "多家麻六记门店称人气大涨",
+        "onboard_time": 1669639775,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 796720,
+        "num": 796720,
+        "word": "赵露思提名金莲花最佳女主角",
+        "onboard_time": 1669635517,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 774866,
+        "num": 774866,
+        "word": "韩国vs加纳",
+        "onboard_time": 1669637497,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 696262,
+        "num": 696262,
+        "word": "常态化做核酸安全吗",
+        "onboard_time": 1669632699,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 610237,
+        "num": 610237,
+        "word": "研究生考试12月24日举行",
+        "onboard_time": 1669631253,
+        "rank": 11,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 597794,
+        "num": 597794,
+        "word": "苹果手机将全迈入全面屏时代",
+        "onboard_time": 1669635814,
+        "rank": 12,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 485871,
+        "num": 485871,
+        "word": "宝妈为赚钱刷单被骗125万",
+        "onboard_time": 1669637316,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 461704,
+        "num": 461704,
+        "word": "泰国歌手高卿尘现身南宁对山歌",
+        "onboard_time": 1669640016,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 459284,
+        "num": 459284,
+        "word": "杭州中学生打败麻省理工学霸",
+        "onboard_time": 1669640435,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 451598,
+        "num": 451598,
+        "word": "女子结婚53天做了52天饭",
+        "onboard_time": 1669624656,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 427948,
+        "num": 427948,
+        "word": "关晓彤杂志销量",
+        "onboard_time": 1669641455,
+        "rank": 17,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 416246,
+        "num": 416246,
+        "word": "郝葭赵芳如联手支棱起来了",
+        "onboard_time": 1669638875,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 406287,
+        "num": 406287,
+        "word": "张蕴钰之子称不认识张核子张珊珊",
+        "onboard_time": 1669636715,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 403149,
+        "num": 403149,
+        "word": "寻找15岁少年胡某宇",
+        "onboard_time": 1669639353,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 398934,
+        "num": 398934,
+        "word": "揭秘关联37家核检机构的张姗姗",
+        "onboard_time": 1669618412,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 370670,
+        "num": 370670,
+        "word": "童骁骑否认喜欢许半夏",
+        "onboard_time": 1669641874,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 362304,
+        "num": 362304,
+        "word": "张婧仪说大家不要再去考古了",
+        "onboard_time": 1669629214,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 324711,
+        "num": 324711,
+        "word": "喀麦隆3比3塞尔维亚",
+        "onboard_time": 1669637436,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 322609,
+        "num": 322609,
+        "word": "梅西和内马尔的配合有多默契",
+        "onboard_time": 1669640737,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 318619,
+        "num": 318619,
+        "word": "赵丽颖李光洁风吹半夏是官配",
+        "onboard_time": 1669639116,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 36616,
+        "num": 310580,
+        "word": "神十五航天员乘组确定",
+        "onboard_time": 1669613436,
+        "rank": 27,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 309402,
+        "num": 309402,
+        "word": "同居生2娃男友欠80万外债失联",
+        "onboard_time": 1669630113,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225534,
+        "num": 225534,
+        "word": "日本企业家怒斥本国球迷看台捡垃圾",
+        "onboard_time": 1669628495,
+        "rank": 29,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 438117,
+        "num": 225437,
+        "word": "事实证明洗脚盆不能买折叠的",
+        "onboard_time": 1669640915,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 314881,
+        "num": 221156,
+        "word": "易烊千玺新歌预告音频",
+        "onboard_time": 1669638513,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 306744,
+        "num": 219900,
+        "word": "高见鸿抄袭李峋的创意",
+        "onboard_time": 1669642115,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 301802,
+        "num": 217262,
+        "word": "黑化的美嘉",
+        "onboard_time": 1669631196,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 286598,
+        "num": 216190,
+        "word": "李黛辞职",
+        "onboard_time": 1669635871,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 261299,
+        "num": 212965,
+        "word": "王鹤棣时宴吃火锅路透",
+        "onboard_time": 1669634793,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 211575,
+        "num": 211575,
+        "word": "厦门前埔空气",
+        "onboard_time": 1669637559,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210001,
+        "num": 210001,
+        "word": "恢复上市房企和涉房上市公司再融资",
+        "onboard_time": 1669634913,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 947563,
+        "num": 203291,
+        "word": "核酸检测或遭经济垄断化",
+        "onboard_time": 1669620574,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195689,
+        "num": 195689,
+        "word": "女孩烤太多地瓜妈妈说吃不完别吃饭",
+        "onboard_time": 1669630775,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 587266,
+        "num": 194589,
+        "word": "核子华曦已启动IPO上市计划",
+        "onboard_time": 1669634135,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258330,
+        "num": 193556,
+        "word": "Irene",
+        "onboard_time": 1669629994,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 188118,
+        "num": 188118,
+        "word": "上海一居民房屋起火致2死1伤",
+        "onboard_time": 1669641754,
+        "rank": 42,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 185960,
+        "num": 185960,
+        "word": "男子连撞3人疑称撞死人无所谓",
+        "onboard_time": 1669629451,
+        "rank": 43,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 180883,
+        "num": 180883,
+        "word": "北京新增本土感染者2086例",
+        "onboard_time": 1669628791,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172319,
+        "num": 172319,
+        "word": "要一辈子友情还是半年爱情",
+        "onboard_time": 1669641937,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 169319,
+        "num": 169319,
+        "word": "喀麦隆第二球没越位",
+        "onboard_time": 1669642115,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166909,
+        "num": 166909,
+        "word": "T1与Faker续约3年",
+        "onboard_time": 1669631615,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 157204,
+        "num": 157204,
+        "word": "网传女子被10多人轮流棍击",
+        "onboard_time": 1669617934,
+        "rank": 48,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 153402,
+        "num": 153402,
+        "word": "卡塔尔世界杯最精妙配合",
+        "onboard_time": 1669641815,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#科学精准提高防疫工作的有效性#"
+    }
+  }
+}
