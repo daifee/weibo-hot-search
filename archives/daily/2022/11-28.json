@@ -1,6 +1,6 @@
 {
   "startTime": 1669566398830,
-  "endTime": 1669610473658,
+  "endTime": 1669612713100,
   "band_list": [
     {
       "raw_hot": 11045761,
@@ -99,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1657248,
+      "num": 1657248,
+      "word": "麻六记背后的代工生意",
+      "onboard_time": 1669610563,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1620972,
       "num": 1620972,
       "word": "四六级",
@@ -147,12 +155,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1261692,
+      "num": 1261692,
+      "word": "核子华曦部分公司近3个月内成立",
+      "onboard_time": 1669609240,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1216710,
       "num": 1216710,
       "word": "北京增本土确诊840例",
       "onboard_time": 1669595495,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1096540,
+      "num": 776630,
+      "word": "警方回应网传一女子被12人轮流棍击",
+      "onboard_time": 1669611460,
+      "rank": 10,
+      "category": "社会负面"
     },
     {
       "raw_hot": 1090044,
@@ -169,6 +193,14 @@
       "onboard_time": 1669554457,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1028180,
+      "num": 1028180,
+      "word": "考研会延期吗",
+      "onboard_time": 1669610563,
+      "rank": 7,
+      "category": "教育"
     },
     {
       "raw_hot": 945831,
@@ -233,6 +265,14 @@
       "onboard_time": 1669569444,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 688105,
+      "num": 688105,
+      "word": "小伙娶见义勇为女孩为妻照顾34年",
+      "onboard_time": 1669607563,
+      "rank": 15,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 666899,
@@ -315,14 +355,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 563733,
-      "num": 563733,
-      "word": "小伙娶见义勇为女孩为妻照顾34年",
-      "onboard_time": 1669607563,
-      "rank": 15,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 552533,
       "num": 552533,
       "word": "在科学认识病毒的基础上做好防疫",
@@ -363,12 +395,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 495742,
-      "num": 495742,
-      "word": "核子华曦部分公司近3个月内成立",
-      "onboard_time": 1669609240,
-      "rank": 40,
+      "raw_hot": 504116,
+      "num": 504116,
+      "word": "高校否认征用学生宿舍当隔离点",
+      "onboard_time": 1669609059,
+      "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 478036,
+      "num": 478036,
+      "word": "港片去掉磨皮滤镜的颜值",
+      "onboard_time": 1669610381,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 475963,
@@ -401,6 +441,14 @@
       "onboard_time": 1669576452,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 460254,
+      "num": 460254,
+      "word": "邓清明同志简历",
+      "onboard_time": 1669610146,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 459650,
@@ -505,6 +553,14 @@
       "onboard_time": 1669566278,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 384738,
+      "num": 384738,
+      "word": "杨紫贺顿治愈六宫格剧照",
+      "onboard_time": 1669612417,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 380278,
@@ -619,20 +675,20 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 329156,
-      "num": 329156,
-      "word": "高校否认征用学生宿舍当隔离点",
-      "onboard_time": 1669609059,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 323441,
       "num": 323441,
       "word": "费俊龙担任指令长",
       "onboard_time": 1669599272,
       "rank": 34,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 322658,
+      "num": 322658,
+      "word": "中国球迷是最全球化的球迷",
+      "onboard_time": 1669608941,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 320940,
@@ -673,6 +729,14 @@
       "onboard_time": 1669596395,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 312583,
+      "num": 312583,
+      "word": "00后开始整顿球场了",
+      "onboard_time": 1669608638,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 301713,
@@ -731,20 +795,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 278239,
+      "num": 278239,
+      "word": "法考",
+      "onboard_time": 1669610019,
+      "rank": 41,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 277188,
       "num": 277188,
       "word": "男子饿了2天拜托交警买个面包",
       "onboard_time": 1669551336,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 277172,
-      "num": 277172,
-      "word": "中国球迷是最全球化的球迷",
-      "onboard_time": 1669608941,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 273990,
@@ -803,6 +867,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 251844,
+      "num": 251844,
+      "word": "江苏省考",
+      "onboard_time": 1669611520,
+      "rank": 33,
+      "category": "教育"
+    },
+    {
       "raw_hot": 251484,
       "num": 251484,
       "word": "六名中国航天员将在太空交接班",
@@ -817,6 +889,14 @@
       "onboard_time": 1669607680,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 248867,
+      "num": 248867,
+      "word": "如果不考虑职业歧视和薪资",
+      "onboard_time": 1669611700,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 243686,
@@ -891,14 +971,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 228638,
-      "num": 228638,
-      "word": "00后开始整顿球场了",
-      "onboard_time": 1669608638,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 223991,
       "num": 223991,
       "word": "吃个炒饭给我整得热血澎湃",
@@ -923,6 +995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 221198,
+      "num": 221198,
+      "word": "省考",
+      "onboard_time": 1669611942,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
       "raw_hot": 219009,
       "num": 219009,
       "word": "墨白连更十天",
@@ -937,6 +1017,14 @@
       "onboard_time": 1669592186,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 207072,
+      "num": 207072,
+      "word": "华晨宇开心编曲署名在郑楠前面",
+      "onboard_time": 1669610919,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 206757,
@@ -1003,20 +1091,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 181241,
-      "num": 181241,
-      "word": "法考",
-      "onboard_time": 1669610019,
-      "rank": 41,
-      "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 180801,
-      "num": 180801,
-      "word": "邓清明同志简历",
-      "onboard_time": 1669610146,
-      "rank": 42,
-      "category": "社会新闻"
+      "raw_hot": 172911,
+      "num": 172911,
+      "word": "米卢说加维会成为下一个梅西",
+      "onboard_time": 1669612658,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 171502,
@@ -1089,14 +1169,6 @@
       "onboard_time": 1669565563,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 160686,
-      "num": 160686,
-      "word": "港片去掉磨皮滤镜的颜值",
-      "onboard_time": 1669610381,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 159538,
