@@ -1,6 +1,6 @@
 {
   "startTime": 1669652614385,
-  "endTime": 1669659905486,
+  "endTime": 1669660850166,
   "band_list": [
     {
       "raw_hot": 4130825,
@@ -155,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 476098,
+      "num": 476098,
+      "word": "巴西球迷称内马尔比不上梅西和C罗",
+      "onboard_time": 1669658597,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 453737,
       "num": 453737,
       "word": "巴西 传球",
@@ -209,14 +217,6 @@
       "onboard_time": 1669632699,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 325336,
-      "num": 214030,
-      "word": "巴西球迷称内马尔比不上梅西和C罗",
-      "onboard_time": 1669658597,
-      "rank": 10,
-      "category": "体育"
     },
     {
       "raw_hot": 308110,
@@ -307,20 +307,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 238397,
+      "num": 238397,
+      "word": "女儿不满房产分配纵火烧父母房",
+      "onboard_time": 1669656860,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 237975,
       "num": 237975,
       "word": "解封后你想吃什么呢",
       "onboard_time": 1669650339,
       "rank": 31,
       "category": "美食"
-    },
-    {
-      "raw_hot": 231979,
-      "num": 211172,
-      "word": "女儿不满房产分配纵火烧父母房",
-      "onboard_time": 1669656860,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 199445,
@@ -427,6 +427,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 169539,
+      "num": 65632,
+      "word": "内马尔在酒店看比赛",
+      "onboard_time": 1669659557,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 158150,
+      "num": 67248,
+      "word": "本泽马已康复",
+      "onboard_time": 1669659436,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 157121,
       "num": 157121,
       "word": "苹果手机将全迈入全面屏时代",
@@ -483,19 +499,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130276,
+      "num": 130276,
+      "word": "巴西队晋级16强",
+      "onboard_time": 1669658956,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 117896,
       "num": 117896,
       "word": "卡塞米罗破门",
       "onboard_time": 1669658239,
       "rank": 19,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 113501,
-      "num": 113501,
-      "word": "巴西队晋级16强",
-      "onboard_time": 1669658956,
-      "rank": 21,
       "category": "体育"
     },
     {
@@ -507,28 +523,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 105298,
+      "num": 65594,
+      "word": "葡萄牙vs乌拉圭首发",
+      "onboard_time": 1669660095,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 80740,
       "num": 80740,
       "word": "张馨予晒原相机自拍照",
       "onboard_time": 1669635871,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 67248,
-      "num": 67248,
-      "word": "本泽马已康复",
-      "onboard_time": 1669659436,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 61053,
-      "num": 61053,
-      "word": "内马尔在酒店看比赛",
-      "onboard_time": 1669659557,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 24483,
