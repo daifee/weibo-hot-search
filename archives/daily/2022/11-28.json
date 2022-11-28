@@ -1,6 +1,6 @@
 {
   "startTime": 1669566398830,
-  "endTime": 1669604979707,
+  "endTime": 1669606453493,
   "band_list": [
     {
       "raw_hot": 11045761,
@@ -11,8 +11,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 3309074,
-      "num": 3309074,
+      "raw_hot": 8983725,
+      "num": 8983725,
       "word": "国考延期",
       "onboard_time": 1669604673,
       "rank": 0,
@@ -72,6 +72,14 @@
       "word": "广州海珠近万人有疏解意愿",
       "onboard_time": 1669550740,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1648397,
+      "num": 1648397,
+      "word": "多地核酸检测通知发生变化",
+      "onboard_time": 1669604796,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -187,12 +195,28 @@
       "category": "体育,科技"
     },
     {
+      "raw_hot": 641377,
+      "num": 242203,
+      "word": "钉钉",
+      "onboard_time": 1669604371,
+      "rank": 30,
+      "category": "科技"
+    },
+    {
       "raw_hot": 637997,
       "num": 637997,
       "word": "西班牙vs德国",
       "onboard_time": 1669561841,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 629979,
+      "num": 629979,
+      "word": "什么情况下需戴N95口罩",
+      "onboard_time": 1669602812,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 606079,
@@ -219,20 +243,20 @@
       "category": "科技"
     },
     {
+      "raw_hot": 574764,
+      "num": 574764,
+      "word": "高三女生上课总睡着竟是患罕见病",
+      "onboard_time": 1669604796,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 571015,
       "num": 571015,
       "word": "工作人员看刘雨昕的眼神",
       "onboard_time": 1669564477,
       "rank": 13,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 565515,
-      "num": 565515,
-      "word": "什么情况下需戴N95口罩",
-      "onboard_time": 1669602812,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 552533,
@@ -265,6 +289,22 @@
       "onboard_time": 1669602751,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 498731,
+      "num": 498731,
+      "word": "林允儿连续8年担任mc",
+      "onboard_time": 1669604673,
+      "rank": 20,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 475963,
+      "num": 475963,
+      "word": "朱一龙周一怼脸侧颜随拍",
+      "onboard_time": 1669606116,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 465586,
@@ -313,6 +353,14 @@
       "onboard_time": 1669567771,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 432200,
+      "num": 432200,
+      "word": "尹岐失了父爱确定真爱",
+      "onboard_time": 1669603831,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 430441,
@@ -427,14 +475,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 347602,
-      "num": 174780,
-      "word": "钉钉",
-      "onboard_time": 1669604371,
-      "rank": 30,
-      "category": "科技"
-    },
-    {
       "raw_hot": 343962,
       "num": 343962,
       "word": "赵丽颖欧豪风吹半夏站内热度破6000",
@@ -449,6 +489,14 @@
       "onboard_time": 1669549955,
       "rank": 24,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 334641,
+      "num": 297469,
+      "word": "RedVelvet新专辑预售量突破71万张",
+      "onboard_time": 1669605638,
+      "rank": 21,
+      "category": "音乐"
     },
     {
       "raw_hot": 332741,
@@ -539,14 +587,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 282676,
-      "num": 282676,
-      "word": "林允儿连续8年担任mc",
-      "onboard_time": 1669604673,
-      "rank": 20,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 280525,
       "num": 280525,
       "word": "克罗地亚半场2比1加拿大",
@@ -569,6 +609,14 @@
       "onboard_time": 1669561724,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 271107,
+      "num": 271107,
+      "word": "果然喜欢猫咪不分年龄",
+      "onboard_time": 1669604252,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 270468,
@@ -595,6 +643,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 257351,
+      "num": 257351,
+      "word": "45岁妈妈一年考2本证书",
+      "onboard_time": 1669605456,
+      "rank": 24,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 254962,
+      "num": 254962,
+      "word": "沈梦辰晒11月库存随拍",
+      "onboard_time": 1669601133,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 252075,
       "num": 252075,
       "word": "有一个不爱责怪的伴侣真好",
@@ -611,6 +675,22 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 245346,
+      "num": 245346,
+      "word": "税务师",
+      "onboard_time": 1669605274,
+      "rank": 28,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 242765,
+      "num": 240139,
+      "word": "MAMA四代女团合作剧透",
+      "onboard_time": 1669606116,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 242755,
       "num": 242755,
       "word": "日本主帅称力争赢下西班牙",
@@ -619,12 +699,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 237777,
-      "num": 237777,
-      "word": "沈梦辰晒11月库存随拍",
-      "onboard_time": 1669601133,
-      "rank": 26,
-      "category": "艺人"
+      "raw_hot": 242285,
+      "num": 242285,
+      "word": "马斯克曝光推特2.0",
+      "onboard_time": 1669603772,
+      "rank": 32,
+      "category": "科技"
     },
     {
       "raw_hot": 236921,
@@ -643,11 +723,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 230853,
-      "num": 230853,
-      "word": "马斯克曝光推特2.0",
-      "onboard_time": 1669603772,
-      "rank": 32,
+      "raw_hot": 229673,
+      "num": 229673,
+      "word": "微信内测图片视频拖动一键发送",
+      "onboard_time": 1669604494,
+      "rank": 48,
       "category": "科技"
     },
     {
@@ -683,12 +763,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 219009,
+      "num": 219009,
+      "word": "墨白连更十天",
+      "onboard_time": 1669605033,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 213321,
       "num": 213321,
       "word": "强制开机后一秒关机的狗狗",
       "onboard_time": 1669592186,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 207394,
+      "num": 207394,
+      "word": "大连理工博士为救重病儿子休学",
+      "onboard_time": 1669605877,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 206757,
@@ -713,6 +809,14 @@
       "onboard_time": 1669582874,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 193209,
+      "num": 193209,
+      "word": "谭松韵日常vlog",
+      "onboard_time": 1669606237,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 192432,
@@ -747,6 +851,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 175996,
+      "num": 175996,
+      "word": "小鸟撞车男子持续按压心脏救活",
+      "onboard_time": 1669605699,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 171502,
       "num": 171502,
       "word": "C罗说向着目标前进",
@@ -763,20 +875,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 169287,
+      "num": 169287,
+      "word": "命韵峋环初雪海报",
+      "onboard_time": 1669605337,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 168993,
       "num": 168993,
       "word": "猫猫是如何向人求助的",
       "onboard_time": 1669598556,
       "rank": 43,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 168692,
-      "num": 168692,
-      "word": "尹岐失了父爱确定真爱",
-      "onboard_time": 1669603831,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 168244,
@@ -803,12 +915,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 160149,
+      "num": 160149,
+      "word": "女子家中录消防科普视频结果悲剧了",
+      "onboard_time": 1669606177,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 159538,
       "num": 159538,
       "word": "许半夏睡姿撞脸蜡笔小新",
       "onboard_time": 1669592546,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 157016,
+      "num": 157016,
+      "word": "A股",
+      "onboard_time": 1669605939,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 155043,
@@ -819,12 +947,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 147893,
-      "num": 147893,
-      "word": "果然喜欢猫咪不分年龄",
-      "onboard_time": 1669604252,
-      "rank": 48,
-      "category": "幽默"
+      "raw_hot": 151493,
+      "num": 151493,
+      "word": "这届世界杯有多抓马",
+      "onboard_time": 1669603292,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 147245,
@@ -859,6 +987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 145164,
+      "num": 145164,
+      "word": "邓清明的追梦故事好感动",
+      "onboard_time": 1669606177,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144758,
       "num": 144758,
       "word": "上官婧问尹岐心里还有没有郝葭",
@@ -881,6 +1017,14 @@
       "onboard_time": 1669598074,
       "rank": 48,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 142608,
+      "num": 142608,
+      "word": "杨坤说最大的惊喜就是认识了马嘉祺",
+      "onboard_time": 1669605818,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 142172,
@@ -915,22 +1059,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 135114,
-      "num": 135114,
-      "word": "高三女生上课总睡着竟是患罕见病",
-      "onboard_time": 1669604796,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 131634,
-      "num": 131634,
-      "word": "这届世界杯有多抓马",
-      "onboard_time": 1669603292,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 129895,
       "num": 129895,
       "word": "余宇涵晒自拍说阿根廷赢了",
@@ -939,28 +1067,12 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 127578,
-      "num": 127578,
-      "word": "多地核酸检测通知发生变化",
-      "onboard_time": 1669604796,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 125436,
       "num": 125436,
       "word": "兰州通报核酸采样人员阳性",
       "onboard_time": 1669536575,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 121631,
-      "num": 121631,
-      "word": "微信内测图片视频拖动一键发送",
-      "onboard_time": 1669604494,
-      "rank": 48,
-      "category": "科技"
     },
     {
       "raw_hot": 120074,

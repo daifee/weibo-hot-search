@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1669604979707,
+  "endTime": 1669606453493,
   "band_list": [
     {
       "raw_hot": 36651023,
@@ -105,6 +105,14 @@
       "onboard_time": 1669367043,
       "rank": 1,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 8983725,
+      "num": 8983725,
+      "word": "国考延期",
+      "onboard_time": 1669604673,
+      "rank": 0,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 8905793,
@@ -553,14 +561,6 @@
       "onboard_time": 1669119894,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 3309074,
-      "num": 3309074,
-      "word": "国考延期",
-      "onboard_time": 1669604673,
-      "rank": 0,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 3284249,
@@ -2624,6 +2624,14 @@
       "word": "父母带2岁孩子去方舱邻居纷纷挽留",
       "onboard_time": 1669550075,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1648397,
+      "num": 1648397,
+      "word": "多地核酸检测通知发生变化",
+      "onboard_time": 1669604796,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -11251,6 +11259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 641377,
+      "num": 242203,
+      "word": "钉钉",
+      "onboard_time": 1669604371,
+      "rank": 30,
+      "category": "科技"
+    },
+    {
       "raw_hot": 641154,
       "num": 641154,
       "word": "耐克暂停与欧文合作",
@@ -11512,6 +11528,14 @@
       "word": "广州番禺全区一半镇街出现病例",
       "onboard_time": 1668092067,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 629979,
+      "num": 629979,
+      "word": "什么情况下需戴N95口罩",
+      "onboard_time": 1669602812,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -12971,6 +12995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 574764,
+      "num": 574764,
+      "word": "高三女生上课总睡着竟是患罕见病",
+      "onboard_time": 1669604796,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 574729,
       "num": 574729,
       "word": "外公地里挖出1万多存款救济外孙",
@@ -13257,14 +13289,6 @@
       "onboard_time": 1667351067,
       "rank": 7,
       "category": "影视"
-    },
-    {
-      "raw_hot": 565515,
-      "num": 565515,
-      "word": "什么情况下需戴N95口罩",
-      "onboard_time": 1669602812,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 565443,
@@ -15995,6 +16019,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 498731,
+      "num": 498731,
+      "word": "林允儿连续8年担任mc",
+      "onboard_time": 1669604673,
+      "rank": 20,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 498160,
       "num": 238157,
       "word": "尾款",
@@ -17121,6 +17153,14 @@
       "onboard_time": 1668412290,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 475963,
+      "num": 475963,
+      "word": "朱一龙周一怼脸侧颜随拍",
+      "onboard_time": 1669606116,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 475813,
@@ -19393,6 +19433,14 @@
       "onboard_time": 1668399690,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 432200,
+      "num": 432200,
+      "word": "尹岐失了父爱确定真爱",
+      "onboard_time": 1669603831,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 432125,
@@ -24683,14 +24731,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 347602,
-      "num": 174780,
-      "word": "钉钉",
-      "onboard_time": 1669604371,
-      "rank": 30,
-      "category": "科技"
-    },
-    {
       "raw_hot": 347377,
       "num": 347377,
       "word": "北京新增本土感染者70例",
@@ -25729,6 +25769,14 @@
       "onboard_time": 1668515129,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 334641,
+      "num": 297469,
+      "word": "RedVelvet新专辑预售量突破71万张",
+      "onboard_time": 1669605638,
+      "rank": 21,
+      "category": "音乐"
     },
     {
       "raw_hot": 334621,
@@ -30195,14 +30243,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 282676,
-      "num": 282676,
-      "word": "林允儿连续8年担任mc",
-      "onboard_time": 1669604673,
-      "rank": 20,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 282518,
       "num": 282518,
       "word": "管泽元 世界杯",
@@ -31457,6 +31497,14 @@
       "onboard_time": 1669060272,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 271107,
+      "num": 271107,
+      "word": "果然喜欢猫咪不分年龄",
+      "onboard_time": 1669604252,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 271096,
@@ -32755,6 +32803,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 257351,
+      "num": 257351,
+      "word": "45岁妈妈一年考2本证书",
+      "onboard_time": 1669605456,
+      "rank": 24,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 257104,
       "num": 278096,
       "word": "世界杯史上第一个可拆卸球场",
@@ -32905,6 +32961,14 @@
       "onboard_time": 1668063025,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 254962,
+      "num": 254962,
+      "word": "沈梦辰晒11月库存随拍",
+      "onboard_time": 1669601133,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 254789,
@@ -34059,6 +34123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 242765,
+      "num": 240139,
+      "word": "MAMA四代女团合作剧透",
+      "onboard_time": 1669606116,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 242755,
       "num": 242755,
       "word": "日本主帅称力争赢下西班牙",
@@ -34104,6 +34176,14 @@
       "word": "苹果为iPhone14提供同机维修",
       "onboard_time": 1668504570,
       "rank": 37,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 242285,
+      "num": 242285,
+      "word": "马斯克曝光推特2.0",
+      "onboard_time": 1669603772,
+      "rank": 32,
       "category": "科技"
     },
     {
@@ -34497,14 +34577,6 @@
       "onboard_time": 1668779668,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 237777,
-      "num": 237777,
-      "word": "沈梦辰晒11月库存随拍",
-      "onboard_time": 1669601133,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 237764,
@@ -35355,14 +35427,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 230853,
-      "num": 230853,
-      "word": "马斯克曝光推特2.0",
-      "onboard_time": 1669603772,
-      "rank": 32,
-      "category": "科技"
-    },
-    {
       "raw_hot": 230826,
       "num": 230826,
       "word": "如何看待网课入侵",
@@ -35513,6 +35577,14 @@
       "onboard_time": 1667990728,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 229673,
+      "num": 229673,
+      "word": "微信内测图片视频拖动一键发送",
+      "onboard_time": 1669604494,
+      "rank": 48,
+      "category": "科技"
     },
     {
       "raw_hot": 229556,
@@ -36945,6 +37017,14 @@
       "onboard_time": 1667611468,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 219009,
+      "num": 219009,
+      "word": "墨白连更十天",
+      "onboard_time": 1669605033,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 218930,
@@ -38585,6 +38665,14 @@
       "onboard_time": 1667536768,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 207394,
+      "num": 207394,
+      "word": "大连理工博士为救重病儿子休学",
+      "onboard_time": 1669605877,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 207389,
@@ -40841,6 +40929,14 @@
       "onboard_time": 1668754346,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 193209,
+      "num": 193209,
+      "word": "谭松韵日常vlog",
+      "onboard_time": 1669606237,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 193173,
@@ -43699,6 +43795,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 175996,
+      "num": 175996,
+      "word": "小鸟撞车男子持续按压心脏救活",
+      "onboard_time": 1669605699,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 175961,
       "num": 175961,
       "word": "刘雨昕我和我舞台首秀",
@@ -44683,6 +44787,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 169287,
+      "num": 169287,
+      "word": "命韵峋环初雪海报",
+      "onboard_time": 1669605337,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 169263,
       "num": 169263,
       "word": "莱万点球被扑",
@@ -44808,14 +44920,6 @@
       "word": "偷偷藏不住站内预约破50万",
       "onboard_time": 1668138087,
       "rank": 33,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 168692,
-      "num": 168692,
-      "word": "尹岐失了父爱确定真爱",
-      "onboard_time": 1669603831,
-      "rank": 40,
       "category": "影视"
     },
     {
@@ -46243,6 +46347,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 160149,
+      "num": 160149,
+      "word": "女子家中录消防科普视频结果悲剧了",
+      "onboard_time": 1669606177,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 160147,
       "num": 160147,
       "word": "起不来和睡不着哪个更痛苦",
@@ -46785,6 +46897,14 @@
       "onboard_time": 1669304796,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 157016,
+      "num": 157016,
+      "word": "A股",
+      "onboard_time": 1669605939,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 157011,
@@ -47587,6 +47707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 151493,
+      "num": 151493,
+      "word": "这届世界杯有多抓马",
+      "onboard_time": 1669603292,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 151460,
       "num": 151460,
       "word": "研究发现火星曾有300米深海洋",
@@ -48235,14 +48363,6 @@
       "category": "科技,国内要闻"
     },
     {
-      "raw_hot": 147893,
-      "num": 147893,
-      "word": "果然喜欢猫咪不分年龄",
-      "onboard_time": 1669604252,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 147853,
       "num": 96536,
       "word": "白术挺好的医生长了张嘴",
@@ -48769,6 +48889,14 @@
       "onboard_time": 1668174814,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 145164,
+      "num": 145164,
+      "word": "邓清明的追梦故事好感动",
+      "onboard_time": 1669606177,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 145133,
@@ -49361,6 +49489,14 @@
       "onboard_time": 1668596310,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 142608,
+      "num": 142608,
+      "word": "杨坤说最大的惊喜就是认识了马嘉祺",
+      "onboard_time": 1669605818,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 142519,
@@ -50867,14 +51003,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 135114,
-      "num": 135114,
-      "word": "高三女生上课总睡着竟是患罕见病",
-      "onboard_time": 1669604796,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 135098,
       "num": 135098,
       "word": "解说杯S3宣传片",
@@ -51513,14 +51641,6 @@
       "onboard_time": 1667654608,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 131634,
-      "num": 131634,
-      "word": "这届世界杯有多抓马",
-      "onboard_time": 1669603292,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 131633,
@@ -52272,14 +52392,6 @@
       "word": "4岁男孩捡5角钱交给警察叔叔",
       "onboard_time": 1669207118,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 127578,
-      "num": 127578,
-      "word": "多地核酸检测通知发生变化",
-      "onboard_time": 1669604796,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -53329,14 +53441,6 @@
       "onboard_time": 1668839484,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 121631,
-      "num": 121631,
-      "word": "微信内测图片视频拖动一键发送",
-      "onboard_time": 1669604494,
-      "rank": 48,
-      "category": "科技"
     },
     {
       "raw_hot": 121596,
