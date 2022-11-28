@@ -1,6 +1,6 @@
 {
   "startTime": 1669566398830,
-  "endTime": 1669667696300,
+  "endTime": 1669670278240,
   "band_list": [
     {
       "raw_hot": 11045761,
@@ -1555,6 +1555,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 355935,
+      "num": 355935,
+      "word": "C罗佩佩并肩作战",
+      "onboard_time": 1669664532,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 354263,
       "num": 354263,
       "word": "克罗地亚4比1加拿大",
@@ -2683,14 +2691,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 177569,
-      "num": 177569,
-      "word": "C罗佩佩并肩作战",
-      "onboard_time": 1669664532,
-      "rank": 10,
-      "category": "体育"
-    },
-    {
       "raw_hot": 176169,
       "num": 176169,
       "word": "张远说遇事不决就得选C",
@@ -2857,6 +2857,14 @@
       "onboard_time": 1669565563,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 164658,
+      "num": 81395,
+      "word": "C罗碰到球了吗",
+      "onboard_time": 1669669632,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 162532,
@@ -3355,6 +3363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 85229,
+      "num": 32499,
+      "word": "巴西vs瑞士贵宾席有多豪华",
+      "onboard_time": 1669665195,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 75858,
       "num": 75858,
       "word": "克拉马里奇破门",
@@ -3371,11 +3387,35 @@
       "category": "体育"
     },
     {
-      "raw_hot": 61437,
-      "num": 32499,
-      "word": "巴西vs瑞士贵宾席有多豪华",
-      "onboard_time": 1669665195,
-      "rank": 30,
+      "raw_hot": 64241,
+      "num": 31478,
+      "word": "葡萄牙半场0比0乌拉圭",
+      "onboard_time": 1669669453,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 62018,
+      "num": 31223,
+      "word": "瑞士球员说内马尔缺席比赛也不轻松",
+      "onboard_time": 1669666513,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 54400,
+      "num": 54400,
+      "word": "1岁娃被猫抓伤反复高烧患猫抓病",
+      "onboard_time": 1669668372,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 51917,
+      "num": 51917,
+      "word": "巴西球迷旗帜上写想你内马尔",
+      "onboard_time": 1669664712,
+      "rank": 31,
       "category": "体育"
     },
     {
@@ -3393,22 +3433,6 @@
       "onboard_time": 1669532010,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 37588,
-      "num": 32429,
-      "word": "巴西球迷旗帜上写想你内马尔",
-      "onboard_time": 1669664712,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 27691,
-      "num": 27691,
-      "word": "瑞士球员说内马尔缺席比赛也不轻松",
-      "onboard_time": 1669666513,
-      "rank": 46,
-      "category": "体育"
     }
   ],
   "hotgov_list": [
