@@ -1,6 +1,6 @@
 {
   "startTime": 1669652614385,
-  "endTime": 1669671232066,
+  "endTime": 1669673962161,
   "band_list": [
     {
       "raw_hot": 4130825,
@@ -75,6 +75,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 710107,
+      "num": 710107,
+      "word": "C罗碰到球了吗",
+      "onboard_time": 1669669632,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 690664,
       "num": 690664,
       "word": "重庆抗疫一线医护人员的肺腑之言",
@@ -129,14 +137,6 @@
       "onboard_time": 1669640915,
       "rank": 11,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 519360,
-      "num": 519360,
-      "word": "C罗碰到球了吗",
-      "onboard_time": 1669669632,
-      "rank": 10,
-      "category": "体育"
     },
     {
       "raw_hot": 509858,
@@ -475,6 +475,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 151175,
+      "num": 151175,
+      "word": "葡萄牙2比0乌拉圭",
+      "onboard_time": 1669671014,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 149079,
       "num": 149079,
       "word": "好的爱情是能相互治愈的",
@@ -505,6 +513,14 @@
       "onboard_time": 1669654883,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 137093,
+      "num": 137093,
+      "word": "1岁娃被猫抓伤反复高烧患猫抓病",
+      "onboard_time": 1669668372,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 135026,
@@ -556,7 +572,7 @@
     },
     {
       "raw_hot": 85229,
-      "num": 32499,
+      "num": 43055,
       "word": "巴西vs瑞士贵宾席有多豪华",
       "onboard_time": 1669665195,
       "rank": 30,
@@ -571,16 +587,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 72976,
-      "num": 72976,
-      "word": "1岁娃被猫抓伤反复高烧患猫抓病",
-      "onboard_time": 1669668372,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 64241,
-      "num": 31478,
+      "num": 41982,
       "word": "葡萄牙半场0比0乌拉圭",
       "onboard_time": 1669669453,
       "rank": 31,
@@ -588,7 +596,7 @@
     },
     {
       "raw_hot": 62018,
-      "num": 31223,
+      "num": 34606,
       "word": "瑞士球员说内马尔缺席比赛也不轻松",
       "onboard_time": 1669666513,
       "rank": 46,
@@ -603,20 +611,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 24985,
-      "num": 24985,
-      "word": "葡萄牙2比0乌拉圭",
-      "onboard_time": 1669671014,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 24483,
       "num": 1328341,
       "word": "100秒重温神十五航天员真挚发言",
       "onboard_time": 1669621472,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 21191,
+      "num": 21191,
+      "word": "醉驾女子称我长这么好看还查我",
+      "onboard_time": 1669673713,
+      "rank": 49,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
