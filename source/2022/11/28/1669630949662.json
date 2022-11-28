@@ -1,0 +1,410 @@
+{
+  "runTime": 1669630949662,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4198133,
+        "num": 4198133,
+        "word": "核酸检测或遭经济垄断化",
+        "onboard_time": 1669620574,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1582409,
+        "num": 1582409,
+        "word": "揭秘关联37家核检机构的张姗姗",
+        "onboard_time": 1669618412,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85005,
+        "num": 1508132,
+        "word": "神十五航天员乘组确定",
+        "onboard_time": 1669613436,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2068100,
+        "num": 1504276,
+        "word": "女子结婚53天做了52天饭",
+        "onboard_time": 1669624656,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1486377,
+        "num": 1486377,
+        "word": "Irene",
+        "onboard_time": 1669629994,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1027611,
+        "num": 1027611,
+        "word": "日本企业家怒斥本国球迷看台捡垃圾",
+        "onboard_time": 1669628495,
+        "rank": 5,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 806778,
+        "num": 806778,
+        "word": "C罗坚持同款饮食20年",
+        "onboard_time": 1669625794,
+        "rank": 6,
+        "category": "体育,美食"
+      },
+      {
+        "raw_hot": 738506,
+        "num": 738506,
+        "word": "华晨宇怀疑跟郑楠音乐细胞长得一样",
+        "onboard_time": 1669617032,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 585382,
+        "num": 585382,
+        "word": "顾客点龙虾做标记上菜后发现被换",
+        "onboard_time": 1669623754,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 471586,
+        "num": 570432,
+        "word": "难听",
+        "onboard_time": 1669630654,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 558849,
+        "num": 558849,
+        "word": "北京新增本土感染者2086例",
+        "onboard_time": 1669628791,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 482720,
+        "num": 482720,
+        "word": "本月少女9名成员向公司提出解约",
+        "onboard_time": 1669624953,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 468029,
+        "num": 468029,
+        "word": "张婧仪说大家不要再去考古了",
+        "onboard_time": 1669629214,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 463126,
+        "num": 463126,
+        "word": "济南华曦谎报核酸结果如何四度中标",
+        "onboard_time": 1669622976,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 452191,
+        "num": 452191,
+        "word": "男子冒充防疫人员进小区散播谣言",
+        "onboard_time": 1669624953,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 427022,
+        "num": 427022,
+        "word": "核酸检测企业IPO从严审核第一枪",
+        "onboard_time": 1669622613,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 422941,
+        "num": 422941,
+        "word": "喀麦隆vs塞尔维亚",
+        "onboard_time": 1669626634,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 406523,
+        "num": 406523,
+        "word": "网传女子被10多人轮流棍击",
+        "onboard_time": 1669617934,
+        "rank": 17,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 392675,
+        "num": 392675,
+        "word": "多地核酸检测通知发生变化",
+        "onboard_time": 1669604796,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 360787,
+        "num": 360787,
+        "word": "RedVelvet主打曲Birthday",
+        "onboard_time": 1669628791,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 337550,
+        "num": 337550,
+        "word": "李峋的家属是朱韵",
+        "onboard_time": 1669628671,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 334183,
+        "num": 334183,
+        "word": "2男孩独在家肚子饿用水壶贴饼吃",
+        "onboard_time": 1669619552,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321893,
+        "num": 321893,
+        "word": "朱韵试探李峋",
+        "onboard_time": 1669626032,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 300219,
+        "num": 300219,
+        "word": "因剧名很难安利出去的剧",
+        "onboard_time": 1669623699,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 290901,
+        "num": 290901,
+        "word": "男子连撞3人疑称撞死人无所谓",
+        "onboard_time": 1669629451,
+        "rank": 24,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 290706,
+        "num": 290706,
+        "word": "核子基因旗下公司曾谎报核酸结果",
+        "onboard_time": 1669624898,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270184,
+        "num": 270184,
+        "word": "同居生2娃男友欠80万外债失联",
+        "onboard_time": 1669630113,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1538819,
+        "num": 269682,
+        "word": "兰州大学回应一女教师跳楼身亡",
+        "onboard_time": 1669622014,
+        "rank": 27,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 264737,
+        "num": 264737,
+        "word": "虞书欣千金仿妆",
+        "onboard_time": 1669622976,
+        "rank": 28,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 244047,
+        "num": 260283,
+        "word": "麻六记背后的代工生意",
+        "onboard_time": 1669610563,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270229,
+        "num": 258729,
+        "word": "潘粤明世界杯七次预测全中",
+        "onboard_time": 1669615174,
+        "rank": 30,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 256187,
+        "num": 256187,
+        "word": "李峋被房东赶出来",
+        "onboard_time": 1669630775,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 252115,
+        "num": 252115,
+        "word": "BIGBANG将入驻Weverse",
+        "onboard_time": 1669623754,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251546,
+        "num": 251546,
+        "word": "今年热播剧女主的状态",
+        "onboard_time": 1669629394,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 243266,
+        "num": 243266,
+        "word": "女子生日收到香菜蛋糕",
+        "onboard_time": 1669628972,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209796,
+        "num": 209796,
+        "word": "Sky加入T1教练组",
+        "onboard_time": 1669630594,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 199681,
+        "num": 199681,
+        "word": "护士扎针没中大爷索性自己上手",
+        "onboard_time": 1669622139,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195665,
+        "num": 195665,
+        "word": "考研",
+        "onboard_time": 1669606961,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 182193,
+        "num": 182193,
+        "word": "冯潇霆说日本有希望赢西班牙",
+        "onboard_time": 1669630536,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175695,
+        "num": 175695,
+        "word": "有些人的教资是DNA自带的",
+        "onboard_time": 1669629994,
+        "rank": 39,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 232530,
+        "num": 175607,
+        "word": "朱韵27集喊了99次李峋",
+        "onboard_time": 1669620933,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 183322,
+        "num": 175525,
+        "word": "尹峥入狱vs陆之昂入狱",
+        "onboard_time": 1669614814,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 175326,
+        "num": 175326,
+        "word": "小米13",
+        "onboard_time": 1669618350,
+        "rank": 42,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 170410,
+        "num": 170410,
+        "word": "杨幂说生活中也喜欢撒娇",
+        "onboard_time": 1669627835,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 167722,
+        "num": 167722,
+        "word": "男生1人用3部手机陪女生玩麻将",
+        "onboard_time": 1669630233,
+        "rank": 44,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 164061,
+        "num": 164061,
+        "word": "考研会延期吗",
+        "onboard_time": 1669610563,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 154349,
+        "num": 154349,
+        "word": "女孩烤太多地瓜妈妈说吃不完别吃饭",
+        "onboard_time": 1669630775,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153985,
+        "num": 153985,
+        "word": "警方回应网传一女子被12人轮流棍击",
+        "onboard_time": 1669611460,
+        "rank": 47,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 152572,
+        "num": 152572,
+        "word": "人工冬眠或将助人类实现星际之旅",
+        "onboard_time": 1669630354,
+        "rank": 48,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 145603,
+        "num": 145603,
+        "word": "原来C罗也是个搞笑男",
+        "onboard_time": 1669630896,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚定信心抓实抓细疫情防控各项工作#"
+    }
+  }
+}

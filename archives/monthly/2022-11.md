@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/01 00:36:21 ~ 2022/11/28 17:35:34
+本榜单时间：2022/11/01 00:36:21 ~ 2022/11/28 18:22:29
 </p>
 </blockquote>
 <p>
@@ -1245,6 +1245,12 @@ LPL输得不冤（热度：2073824）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%BB%93%E5%A9%9A53%E5%A4%A9%E5%81%9A%E4%BA%8652%E5%A4%A9%E9%A5%AD%23" target="weibo">
+女子结婚53天做了52天饭（热度：2068100）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AC%A1%E5%AF%86%E6%8E%A5%E7%9A%84%E9%98%B3%E6%80%A7%E6%84%9F%E6%9F%93%E7%8E%87%23" target="weibo">
 次密接的阳性感染率（热度：2064925）
 </a>
@@ -1841,12 +1847,6 @@ blue露脸（热度：1747178）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E4%BC%9F%E4%B8%BD%E5%A4%BAUFC%E9%87%91%E8%85%B0%E5%B8%A6%23" target="weibo">
 张伟丽夺UFC金腰带（热度：1732229）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%BB%93%E5%A9%9A53%E5%A4%A9%E5%81%9A%E4%BA%8652%E5%A4%A9%E9%A5%AD%23" target="weibo">
-女子结婚53天做了52天饭（热度：1728671）
 </a>
 </li>
 
@@ -2483,6 +2483,12 @@ Faker（热度：1632969）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%A0%B9%E5%BB%B7vs%E6%B2%99%E7%89%B9%23" target="weibo">
 阿根廷vs沙特（热度：1486787）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23Irene%23" target="weibo">
+Irene（热度：1486377）
 </a>
 </li>
 
@@ -4329,6 +4335,12 @@ Faker或将加入LPL（热度：1036605）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%BC%81%E4%B8%9A%E5%AE%B6%E6%80%92%E6%96%A5%E6%9C%AC%E5%9B%BD%E7%90%83%E8%BF%B7%E7%9C%8B%E5%8F%B0%E6%8D%A1%E5%9E%83%E5%9C%BE%23" target="weibo">
+日本企业家怒斥本国球迷看台捡垃圾（热度：1027611）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%23" target="weibo">
 华为（热度：1026755）
 </a>
@@ -5999,18 +6011,6 @@ C罗（热度：834292）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%A4%E5%94%AFIU%E5%90%8C%E6%A1%86%23" target="weibo">
 汤唯IU同框（热度：828700）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23Doinb%23" target="weibo">
-Doinb（热度：828666）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23BIGBANG%E5%B0%86%E5%85%A5%E9%A9%BBWeverse%23" target="weibo">
-BIGBANG将入驻Weverse（热度：828644）
 </a>
 </li>
 

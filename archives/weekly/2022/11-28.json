@@ -1,6 +1,6 @@
 {
   "startTime": 1669566398830,
-  "endTime": 1669628134295,
+  "endTime": 1669630949662,
   "band_list": [
     {
       "raw_hot": 11045761,
@@ -99,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2068100,
+      "num": 1728671,
+      "word": "女子结婚53天做了52天饭",
+      "onboard_time": 1669624656,
+      "rank": 37,
+      "category": "美食"
+    },
+    {
       "raw_hot": 2042526,
       "num": 2042526,
       "word": "专家解读感染者居家隔离是否可行",
@@ -123,14 +131,6 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 1728671,
-      "num": 1728671,
-      "word": "女子结婚53天做了52天饭",
-      "onboard_time": 1669624656,
-      "rank": 37,
-      "category": "美食"
-    },
-    {
       "raw_hot": 1702730,
       "num": 1702730,
       "word": "广州海珠近万人有疏解意愿",
@@ -153,6 +153,14 @@
       "onboard_time": 1669606478,
       "rank": 5,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1486377,
+      "num": 1486377,
+      "word": "Irene",
+      "onboard_time": 1669629994,
+      "rank": 4,
+      "category": "音乐"
     },
     {
       "raw_hot": 1486052,
@@ -259,6 +267,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1027611,
+      "num": 1027611,
+      "word": "日本企业家怒斥本国球迷看台捡垃圾",
+      "onboard_time": 1669628495,
+      "rank": 5,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 1018077,
       "num": 1018077,
       "word": "济南华曦谎报核酸结果如何四度中标",
@@ -331,6 +347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 806778,
+      "num": 806778,
+      "word": "C罗坚持同款饮食20年",
+      "onboard_time": 1669625794,
+      "rank": 12,
+      "category": "体育,美食"
+    },
+    {
       "raw_hot": 802102,
       "num": 802102,
       "word": "吴镇宇反思被梅西进球",
@@ -345,14 +369,6 @@
       "onboard_time": 1669562025,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 782176,
-      "num": 782176,
-      "word": "C罗坚持同款饮食20年",
-      "onboard_time": 1669625794,
-      "rank": 12,
-      "category": "体育,美食"
     },
     {
       "raw_hot": 755748,
@@ -507,8 +523,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 581115,
-      "num": 581115,
+      "raw_hot": 585382,
+      "num": 585382,
       "word": "顾客点龙虾做标记上菜后发现被换",
       "onboard_time": 1669623754,
       "rank": 41,
@@ -529,6 +545,14 @@
       "onboard_time": 1669564477,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 558849,
+      "num": 558849,
+      "word": "北京新增本土感染者2086例",
+      "onboard_time": 1669628791,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 555380,
@@ -643,6 +667,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 471586,
+      "num": 570432,
+      "word": "难听",
+      "onboard_time": 1669630654,
+      "rank": 9,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 468029,
+      "num": 468029,
+      "word": "张婧仪说大家不要再去考古了",
+      "onboard_time": 1669629214,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 465887,
       "num": 465887,
       "word": "老人故意推倒摩托车主坚持追责",
@@ -755,6 +795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 422941,
+      "num": 422941,
+      "word": "喀麦隆vs塞尔维亚",
+      "onboard_time": 1669619793,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 421090,
       "num": 421090,
       "word": "财阀家的小儿子第六集",
@@ -793,6 +841,14 @@
       "onboard_time": 1669560463,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 406523,
+      "num": 406523,
+      "word": "网传女子被10多人轮流棍击",
+      "onboard_time": 1669617934,
+      "rank": 38,
+      "category": "社会负面"
     },
     {
       "raw_hot": 403945,
@@ -891,6 +947,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 360787,
+      "num": 360787,
+      "word": "RedVelvet主打曲Birthday",
+      "onboard_time": 1669628791,
+      "rank": 19,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 354263,
       "num": 354263,
       "word": "克罗地亚4比1加拿大",
@@ -929,6 +993,14 @@
       "onboard_time": 1669549955,
       "rank": 24,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 337550,
+      "num": 337550,
+      "word": "李峋的家属是朱韵",
+      "onboard_time": 1669628671,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 335824,
@@ -1075,6 +1147,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 290901,
+      "num": 290901,
+      "word": "男子连撞3人疑称撞死人无所谓",
+      "onboard_time": 1669629451,
+      "rank": 24,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 290706,
+      "num": 290706,
+      "word": "核子基因旗下公司曾谎报核酸结果",
+      "onboard_time": 1669624898,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 289228,
       "num": 289228,
       "word": "税务师",
@@ -1115,14 +1203,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 284471,
-      "num": 284471,
-      "word": "核子基因旗下公司曾谎报核酸结果",
-      "onboard_time": 1669624898,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 283803,
       "num": 283803,
       "word": "西安900路公交女司机因高颜值走红",
@@ -1137,14 +1217,6 @@
       "onboard_time": 1669604252,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 280946,
-      "num": 280946,
-      "word": "网传女子被10多人轮流棍击",
-      "onboard_time": 1669617934,
-      "rank": 38,
-      "category": "社会负面"
     },
     {
       "raw_hot": 280525,
@@ -1203,6 +1275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 270184,
+      "num": 270184,
+      "word": "同居生2娃男友欠80万外债失联",
+      "onboard_time": 1669630113,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 264412,
       "num": 264412,
       "word": "盐城建湖出土1.5吨唐宋钱币",
@@ -1227,20 +1307,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 256187,
+      "num": 256187,
+      "word": "李峋被房东赶出来",
+      "onboard_time": 1669630775,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 256146,
       "num": 211260,
       "word": "命韵峋环公司过夜被同事撞见",
       "onboard_time": 1669626938,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 255465,
-      "num": 255465,
-      "word": "喀麦隆vs塞尔维亚",
-      "onboard_time": 1669619793,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 254962,
@@ -1265,6 +1345,14 @@
       "onboard_time": 1669548573,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 251546,
+      "num": 251546,
+      "word": "今年热播剧女主的状态",
+      "onboard_time": 1669629394,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 251484,
@@ -1297,6 +1385,14 @@
       "onboard_time": 1669604494,
       "rank": 48,
       "category": "科技"
+    },
+    {
+      "raw_hot": 243266,
+      "num": 243266,
+      "word": "女子生日收到香菜蛋糕",
+      "onboard_time": 1669628972,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 242755,
@@ -1467,6 +1563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 209796,
+      "num": 209796,
+      "word": "Sky加入T1教练组",
+      "onboard_time": 1669630594,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 207072,
       "num": 207072,
       "word": "华晨宇开心编曲署名在郑楠前面",
@@ -1611,12 +1715,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 182193,
+      "num": 182193,
+      "word": "冯潇霆说日本有希望赢西班牙",
+      "onboard_time": 1669630536,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 176092,
       "num": 176092,
       "word": "自带混响的烟嗓低音炮",
       "onboard_time": 1669620752,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 175695,
+      "num": 175695,
+      "word": "有些人的教资是DNA自带的",
+      "onboard_time": 1669629994,
+      "rank": 39,
+      "category": "幽默,教育"
     },
     {
       "raw_hot": 174166,
@@ -1691,6 +1811,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 167722,
+      "num": 167722,
+      "word": "男生1人用3部手机陪女生玩麻将",
+      "onboard_time": 1669630233,
+      "rank": 44,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 166082,
       "num": 166082,
       "word": "中国空间站三舱三船组合体来了",
@@ -1753,6 +1881,22 @@
       "onboard_time": 1669565979,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 154349,
+      "num": 154349,
+      "word": "女孩烤太多地瓜妈妈说吃不完别吃饭",
+      "onboard_time": 1669630775,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152572,
+      "num": 152572,
+      "word": "人工冬眠或将助人类实现星际之旅",
+      "onboard_time": 1669630354,
+      "rank": 48,
+      "category": "科技"
     },
     {
       "raw_hot": 151493,
@@ -1824,6 +1968,14 @@
       "word": "死亡之组出线形势",
       "onboard_time": 1669592007,
       "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 145603,
+      "num": 145603,
+      "word": "原来C罗也是个搞笑男",
+      "onboard_time": 1669630896,
+      "rank": 49,
       "category": "体育"
     },
     {
