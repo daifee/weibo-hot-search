@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/01 00:36:21 ~ 2022/11/29 01:35:58
+本榜单时间：2022/11/01 00:36:21 ~ 2022/11/29 02:25:05
 </p>
 </blockquote>
 <p>
@@ -3447,6 +3447,12 @@ Deft世界赛首冠（热度：1226043）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%A5%BF%E5%8A%A9%E6%95%99%20%E5%B8%85%23" target="weibo">
+巴西助教 帅（热度：1224322）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%A2%9E%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A840%E4%BE%8B%23" target="weibo">
 北京增本土确诊840例（热度：1216710）
 </a>
@@ -6005,12 +6011,6 @@ bibi（热度：846431）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E9%98%9F%E5%B8%A6200%E5%85%AC%E6%96%A4%E6%B3%A1%E8%8F%9C%E5%BE%81%E6%88%98%E4%B8%96%E7%95%8C%E6%9D%AF%23" target="weibo">
 韩国队带200公斤泡菜征战世界杯（热度：846264）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E7%8F%AD%E7%89%99%E5%A5%BD%E7%A8%B3%23" target="weibo">
-西班牙好稳（热度：844532）
 </a>
 </li>
 
