@@ -1,6 +1,6 @@
 {
   "startTime": 1669566398830,
-  "endTime": 1669624852104,
+  "endTime": 1669627192509,
   "band_list": [
     {
       "raw_hot": 11045761,
@@ -19,8 +19,8 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 4876266,
-      "num": 4876266,
+      "raw_hot": 5101372,
+      "num": 5101372,
       "word": "核酸检测或遭经济垄断化",
       "onboard_time": 1669620574,
       "rank": 39,
@@ -203,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1310643,
+      "num": 1310643,
+      "word": "女子结婚53天做了52天饭",
+      "onboard_time": 1669624656,
+      "rank": 37,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1261827,
       "num": 1261827,
       "word": "美国vs伊朗主裁判公布",
@@ -249,6 +257,14 @@
       "onboard_time": 1669610563,
       "rank": 7,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1018077,
+      "num": 1018077,
+      "word": "济南华曦谎报核酸结果如何四度中标",
+      "onboard_time": 1669622976,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1016718,
@@ -303,6 +319,14 @@
       "num": 591096,
       "word": "BIGBANG将入驻Weverse",
       "onboard_time": 1669623754,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 824911,
+      "num": 602764,
+      "word": "本月少女9名成员向公司提出解约",
+      "onboard_time": 1669624953,
       "rank": 10,
       "category": "艺人"
     },
@@ -443,6 +467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 626526,
+      "num": 626526,
+      "word": "朱韵试探李峋",
+      "onboard_time": 1669626032,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 606079,
       "num": 606079,
       "word": "世界杯小组出线情况乱成一锅粥了",
@@ -457,14 +489,6 @@
       "onboard_time": 1669610381,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 598295,
-      "num": 598295,
-      "word": "济南华曦谎报核酸结果如何四度中标",
-      "onboard_time": 1669622976,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 589917,
@@ -483,12 +507,28 @@
       "category": "科技"
     },
     {
+      "raw_hot": 571050,
+      "num": 571050,
+      "word": "顾客点龙虾做标记上菜后发现被换",
+      "onboard_time": 1669623754,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 571015,
       "num": 571015,
       "word": "工作人员看刘雨昕的眼神",
       "onboard_time": 1669564477,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 561443,
+      "num": 561443,
+      "word": "C罗坚持同款饮食20年",
+      "onboard_time": 1669625794,
+      "rank": 12,
+      "category": "体育,美食"
     },
     {
       "raw_hot": 555380,
@@ -585,6 +625,14 @@
       "onboard_time": 1669605456,
       "rank": 24,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 474565,
+      "num": 474565,
+      "word": "护士扎针没中大爷索性自己上手",
+      "onboard_time": 1669622139,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 465887,
@@ -739,20 +787,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 403945,
+      "num": 403945,
+      "word": "虞书欣千金仿妆",
+      "onboard_time": 1669622976,
+      "rank": 27,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 401753,
       "num": 401753,
       "word": "尹峥尹岐去了甘棠驿",
       "onboard_time": 1669561905,
       "rank": 19,
       "category": "影视"
-    },
-    {
-      "raw_hot": 399132,
-      "num": 399132,
-      "word": "护士扎针没中大爷索性自己上手",
-      "onboard_time": 1669622139,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 391181,
@@ -795,12 +843,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 373976,
-      "num": 373976,
-      "word": "虞书欣千金仿妆",
-      "onboard_time": 1669622976,
-      "rank": 27,
-      "category": "美妆"
+      "raw_hot": 375535,
+      "num": 375535,
+      "word": "男子冒充防疫人员进小区散播谣言",
+      "onboard_time": 1669624953,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 372978,
@@ -867,6 +915,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 342625,
+      "num": 342625,
+      "word": "因剧名很难安利出去的剧",
+      "onboard_time": 1669623699,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 338552,
       "num": 338552,
       "word": "女生分手后骗妈妈和内马尔谈恋爱",
@@ -905,14 +961,6 @@
       "onboard_time": 1669622976,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 332171,
-      "num": 332171,
-      "word": "顾客点龙虾做标记上菜后发现被换",
-      "onboard_time": 1669623754,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 329889,
@@ -1075,14 +1123,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 282844,
-      "num": 282844,
-      "word": "因剧名很难安利出去的剧",
-      "onboard_time": 1669623699,
-      "rank": 38,
-      "category": "影视"
-    },
-    {
       "raw_hot": 282676,
       "num": 282676,
       "word": "果然喜欢猫咪不分年龄",
@@ -1105,6 +1145,14 @@
       "onboard_time": 1669610019,
       "rank": 41,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 277552,
+      "num": 277552,
+      "word": "核子基因旗下公司曾谎报核酸结果",
+      "onboard_time": 1669624898,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 277188,
@@ -1145,6 +1193,14 @@
       "onboard_time": 1669590379,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 265489,
+      "num": 265489,
+      "word": "网传女子被10多人轮流棍击",
+      "onboard_time": 1669617934,
+      "rank": 38,
+      "category": "社会负面"
     },
     {
       "raw_hot": 264412,
@@ -1209,14 +1265,6 @@
       "onboard_time": 1669607680,
       "rank": 27,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 246364,
-      "num": 246364,
-      "word": "网传女子被10多人轮流棍击",
-      "onboard_time": 1669617934,
-      "rank": 38,
-      "category": "社会负面"
     },
     {
       "raw_hot": 244202,
@@ -1443,6 +1491,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 196634,
+      "num": 196634,
+      "word": "命韵峋环公司过夜被同事撞见",
+      "onboard_time": 1669626938,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 195555,
       "num": 195555,
       "word": "许半夏被骗",
@@ -1473,6 +1529,14 @@
       "onboard_time": 1669553434,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 191436,
+      "num": 146144,
+      "word": "boystory翻跳JYP合集",
+      "onboard_time": 1669627172,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 191119,
@@ -1507,14 +1571,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 183948,
-      "num": 183948,
-      "word": "女子结婚53天做了52天饭",
-      "onboard_time": 1669624656,
-      "rank": 37,
-      "category": "美食"
-    },
-    {
       "raw_hot": 183524,
       "num": 183524,
       "word": "李峋四次单膝下跪都是为了朱韵",
@@ -1529,6 +1585,14 @@
       "onboard_time": 1669619793,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 177050,
+      "num": 177050,
+      "word": "狗狗被香醒后含着骨头两秒入睡",
+      "onboard_time": 1669623455,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 176092,
@@ -1571,14 +1635,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 169620,
-      "num": 169620,
-      "word": "狗狗被香醒后含着骨头两秒入睡",
-      "onboard_time": 1669623455,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 169287,
       "num": 169287,
       "word": "命韵峋环初雪海报",
@@ -1593,6 +1649,14 @@
       "onboard_time": 1669598556,
       "rank": 43,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 168667,
+      "num": 168667,
+      "word": "李薇两个字拿捏尹峥",
+      "onboard_time": 1669626755,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 168244,
@@ -1731,6 +1795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 146167,
+      "num": 146167,
+      "word": "核子华曦10月份成立8家公司",
+      "onboard_time": 1669626696,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145708,
       "num": 145708,
       "word": "死亡之组出线形势",
@@ -1769,6 +1841,14 @@
       "onboard_time": 1669624594,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 143451,
+      "num": 143451,
+      "word": "男子围观警察办自己的案子被抓",
+      "onboard_time": 1669626454,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 142649,

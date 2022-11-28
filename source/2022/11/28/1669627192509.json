@@ -1,0 +1,410 @@
+{
+  "runTime": 1669627192509,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5101372,
+        "num": 5101372,
+        "word": "核酸检测或遭经济垄断化",
+        "onboard_time": 1669620574,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2274460,
+        "num": 2274460,
+        "word": "兰州大学回应一女教师跳楼身亡",
+        "onboard_time": 1669622014,
+        "rank": 1,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 94720,
+        "num": 1975151,
+        "word": "神十五航天员乘组确定",
+        "onboard_time": 1669613436,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1714823,
+        "num": 1714823,
+        "word": "揭秘关联37家核检机构的张姗姗",
+        "onboard_time": 1669618412,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1310643,
+        "num": 1310643,
+        "word": "女子结婚53天做了52天饭",
+        "onboard_time": 1669624656,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1018077,
+        "num": 1018077,
+        "word": "济南华曦谎报核酸结果如何四度中标",
+        "onboard_time": 1669622976,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 965222,
+        "num": 965222,
+        "word": "华晨宇怀疑跟郑楠音乐细胞长得一样",
+        "onboard_time": 1669617032,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 938094,
+        "num": 938094,
+        "word": "核酸检测企业IPO从严审核第一枪",
+        "onboard_time": 1669622613,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 865134,
+        "num": 865134,
+        "word": "多地核酸检测通知发生变化",
+        "onboard_time": 1669604796,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 626526,
+        "num": 626526,
+        "word": "朱韵试探李峋",
+        "onboard_time": 1669626032,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 824911,
+        "num": 602764,
+        "word": "本月少女9名成员向公司提出解约",
+        "onboard_time": 1669624953,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 571050,
+        "num": 571050,
+        "word": "顾客点龙虾做标记上菜后发现被换",
+        "onboard_time": 1669623754,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 561443,
+        "num": 561443,
+        "word": "C罗坚持同款饮食20年",
+        "onboard_time": 1669625794,
+        "rank": 12,
+        "category": "体育,美食"
+      },
+      {
+        "raw_hot": 555236,
+        "num": 555236,
+        "word": "2男孩独在家肚子饿用水壶贴饼吃",
+        "onboard_time": 1669619552,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 522751,
+        "num": 522751,
+        "word": "BIGBANG将入驻Weverse",
+        "onboard_time": 1669623754,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 474565,
+        "num": 474565,
+        "word": "护士扎针没中大爷索性自己上手",
+        "onboard_time": 1669622139,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 474480,
+        "num": 474480,
+        "word": "朱韵27集喊了99次李峋",
+        "onboard_time": 1669620933,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 406790,
+        "num": 406790,
+        "word": "潘粤明世界杯七次预测全中",
+        "onboard_time": 1669615174,
+        "rank": 17,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 404768,
+        "num": 404768,
+        "word": "麻六记背后的代工生意",
+        "onboard_time": 1669610563,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 403945,
+        "num": 403945,
+        "word": "虞书欣千金仿妆",
+        "onboard_time": 1669622976,
+        "rank": 19,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 375535,
+        "num": 375535,
+        "word": "男子冒充防疫人员进小区散播谣言",
+        "onboard_time": 1669624953,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 342625,
+        "num": 342625,
+        "word": "因剧名很难安利出去的剧",
+        "onboard_time": 1669623699,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 341069,
+        "num": 341069,
+        "word": "考研",
+        "onboard_time": 1669606961,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 328582,
+        "num": 328582,
+        "word": "孙千夸赵丽颖饰演的许半夏",
+        "onboard_time": 1669624297,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 321586,
+        "num": 321586,
+        "word": "警方回应网传一女子被12人轮流棍击",
+        "onboard_time": 1669611460,
+        "rank": 24,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 277552,
+        "num": 277552,
+        "word": "核子基因旗下公司曾谎报核酸结果",
+        "onboard_time": 1669624898,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265489,
+        "num": 265489,
+        "word": "网传女子被10多人轮流棍击",
+        "onboard_time": 1669617934,
+        "rank": 26,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 258107,
+        "num": 258107,
+        "word": "葡萄牙vs乌拉圭",
+        "onboard_time": 1669616973,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 257586,
+        "num": 257586,
+        "word": "老人故意推倒摩托车主坚持追责",
+        "onboard_time": 1669618773,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232891,
+        "num": 232891,
+        "word": "南京一医院接连收治多例柿石症患者",
+        "onboard_time": 1669619851,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222813,
+        "num": 222813,
+        "word": "李峋朱韵永远深信彼此",
+        "onboard_time": 1669622976,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 217244,
+        "num": 217244,
+        "word": "尹峥入狱vs陆之昂入狱",
+        "onboard_time": 1669614814,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204219,
+        "num": 204219,
+        "word": "小米13",
+        "onboard_time": 1669618350,
+        "rank": 32,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 204001,
+        "num": 204001,
+        "word": "王者源梦新皮肤",
+        "onboard_time": 1669621172,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 200545,
+        "num": 200545,
+        "word": "养了猫就别养哈士奇了",
+        "onboard_time": 1669619012,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 197894,
+        "num": 197894,
+        "word": "卿卿日常最大反派安曦元来了",
+        "onboard_time": 1669607978,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 196634,
+        "num": 196634,
+        "word": "命韵峋环公司过夜被同事撞见",
+        "onboard_time": 1669626938,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 191665,
+        "num": 191665,
+        "word": "Jennie晒LA演唱会花絮照",
+        "onboard_time": 1669621655,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 188938,
+        "num": 188938,
+        "word": "美国足协篡改伊朗队国旗",
+        "onboard_time": 1669613915,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185167,
+        "num": 185167,
+        "word": "考研会延期吗",
+        "onboard_time": 1669610563,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 177050,
+        "num": 177050,
+        "word": "狗狗被香醒后含着骨头两秒入睡",
+        "onboard_time": 1669623455,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171772,
+        "num": 171772,
+        "word": "喀麦隆vs塞尔维亚",
+        "onboard_time": 1669626634,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171598,
+        "num": 171598,
+        "word": "卡瓦尼因进球多差点让父亲破产",
+        "onboard_time": 1669620992,
+        "rank": 42,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 168667,
+        "num": 168667,
+        "word": "李薇两个字拿捏尹峥",
+        "onboard_time": 1669626755,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 166964,
+        "num": 166964,
+        "word": "19岁女生减肥催吐致进食障碍",
+        "onboard_time": 1669613496,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148254,
+        "num": 148254,
+        "word": "核子华曦相关实验室多次违规被罚",
+        "onboard_time": 1669616010,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146167,
+        "num": 146167,
+        "word": "核子华曦10月份成立8家公司",
+        "onboard_time": 1669626696,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191436,
+        "num": 146144,
+        "word": "boystory翻跳JYP合集",
+        "onboard_time": 1669627172,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 143451,
+        "num": 143451,
+        "word": "男子围观警察办自己的案子被抓",
+        "onboard_time": 1669626454,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124574,
+        "num": 124574,
+        "word": "青岛13岁男孩打破魔方世界纪录",
+        "onboard_time": 1669617573,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚定信心抓实抓细疫情防控各项工作#"
+    }
+  }
+}
