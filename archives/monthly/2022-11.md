@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/01 00:36:21 ~ 2022/11/28 07:35:35
+本榜单时间：2022/11/01 00:36:21 ~ 2022/11/28 09:42:43
 </p>
 </blockquote>
 <p>
@@ -825,6 +825,12 @@ Hero（热度：2631610）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%A5%E5%AF%86%E5%85%8B%E6%88%8E%E5%8F%98%E5%BC%82%E6%A0%AA2%E5%88%B03%E5%A4%A9%E4%BC%A0%E4%B8%80%E4%BB%A3%23" target="weibo">
+奥密克戎变异株2到3天传一代（热度：2498432）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E5%B7%9E%E5%9B%9E%E5%BA%94%E9%83%91%E5%A5%BD%E5%8A%9E%E6%9F%A5%E5%87%BA%E5%A5%A5%E7%89%B9%E6%9B%BC%E6%A0%B8%E9%85%B8%E6%8A%A5%E5%91%8A%23" target="weibo">
 郑州回应郑好办查出奥特曼核酸报告（热度：2462007）
 </a>
@@ -1229,6 +1235,12 @@ LPL输得不冤（热度：2073824）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%BC%BA%E4%B8%9C%E7%A7%B0%E5%AF%B9%E4%B8%8D%E8%B5%B7%E4%BA%AC%E4%B8%9C2000%E5%A4%9A%E5%90%8D%E9%AB%98%E7%AE%A1%23" target="weibo">
 刘强东称对不起京东2000多名高管（热度：2045134）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E8%A7%A3%E8%AF%BB%E6%84%9F%E6%9F%93%E8%80%85%E5%B1%85%E5%AE%B6%E9%9A%94%E7%A6%BB%E6%98%AF%E5%90%A6%E5%8F%AF%E8%A1%8C%23" target="weibo">
+专家解读感染者居家隔离是否可行（热度：2042526）
 </a>
 </li>
 
@@ -2631,6 +2643,12 @@ C罗犯规（热度：1458702）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A238%E4%BE%8B%E6%97%A0%E7%97%87%E7%8A%B69447%E4%BE%8B%23" target="weibo">
+重庆新增本土确诊238例无症状9447例（热度：1413628）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E7%BB%88%E4%BA%8E%E5%BC%80%E5%A7%8B%E8%90%A5%E4%B8%9A%E4%BA%86%23" target="weibo">
 白敬亭终于开始营业了（热度：1413316）
 </a>
@@ -2645,6 +2663,12 @@ C罗犯规（热度：1458702）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%9D%E4%B8%AD%E7%94%9F%E8%8A%B1900%E5%85%83%E6%96%87%E8%BA%AB%E6%B8%85%E6%B4%97%E8%A6%816%E4%B8%87%23" target="weibo">
 初中生花900元文身清洗要6万（热度：1411973）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E6%A2%93%E5%93%AD%E5%87%BA%E5%A3%B0%23" target="weibo">
+唐梓哭出声（热度：1410153）
 </a>
 </li>
 
@@ -3227,6 +3251,12 @@ Deft世界赛首冠（热度：1226043）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%84%BF%E5%AD%90%E5%88%92%E4%BC%A4%E8%B1%AA%E8%BD%A6%E7%88%B8%E7%88%B8%E8%AE%A9%E5%85%B6%E6%8B%BF%E7%8E%B0%E9%87%91%E9%81%93%E6%AD%89%23" target="weibo">
 儿子划伤豪车爸爸让其拿现金道歉（热度：1224341）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%A2%9E%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A840%E4%BE%8B%23" target="weibo">
+北京增本土确诊840例（热度：1216710）
 </a>
 </li>
 
@@ -5981,36 +6011,6 @@ cheerup 弃剧（热度：822139）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E8%80%83%E8%99%91%E6%8F%90%E9%AB%98%E8%B5%B4%E8%8B%B1%E7%95%99%E5%AD%A6%E9%97%A8%E6%A7%9B%23" target="weibo">
 英国考虑提高赴英留学门槛（热度：816324）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E6%AC%B2%E6%90%AD%E8%AE%AA%E7%94%B7%E7%94%9F%E9%81%87%E5%88%B0%E5%A5%B3%E5%8F%8B%E9%97%AA%E7%8E%B0%23" target="weibo">
-女生欲搭讪男生遇到女友闪现（热度：815385）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E8%B8%A9%E8%B8%8F%E4%BA%8B%E6%95%856%E4%BA%BA%E8%A2%AB%E7%AB%8B%E6%A1%88%E8%B0%83%E6%9F%A5%23" target="weibo">
-韩国踩踏事故6人被立案调查（热度：815302）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%81%E6%B3%A2%E4%B8%80%E5%A4%AB%E5%A6%BB%E5%90%B5%E6%9E%B6%E8%B5%8C%E6%B0%94%E5%B0%86%E5%A9%B4%E5%84%BF%E7%8B%AC%E8%87%AA%E7%95%99%E5%AE%B6%E4%B8%AD%23" target="weibo">
-宁波一夫妻吵架赌气将婴儿独自留家中（热度：813535）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E5%90%A6%E8%AE%A4%E9%99%88%E9%81%93%E6%98%8E%E6%BC%94%E5%BA%86%E4%BD%99%E5%B9%B42%23" target="weibo">
-工作人员否认陈道明演庆余年2（热度：813430）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AF%94%E5%88%A9%E6%97%B6vs%E6%91%A9%E6%B4%9B%E5%93%A5%23" target="weibo">
-比利时vs摩洛哥（热度：813270）
 </a>
 </li>
 
