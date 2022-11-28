@@ -1,0 +1,410 @@
+{
+  "runTime": 1669620825778,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2663682,
+        "num": 2663682,
+        "word": "多地核酸检测通知发生变化",
+        "onboard_time": 1669604796,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2104222,
+        "num": 2104222,
+        "word": "核子华曦相关实验室多次违规被罚",
+        "onboard_time": 1669616010,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115192,
+        "num": 1821689,
+        "word": "神十五航天员乘组确定",
+        "onboard_time": 1669613436,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1793997,
+        "num": 1793997,
+        "word": "揭秘关联37家核检机构的张姗姗",
+        "onboard_time": 1669618412,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1466150,
+        "num": 1466150,
+        "word": "华晨宇怀疑跟郑楠音乐细胞长得一样",
+        "onboard_time": 1669617032,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1108782,
+        "num": 1108782,
+        "word": "考研",
+        "onboard_time": 1669606961,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 894132,
+        "num": 894132,
+        "word": "潘粤明世界杯七次预测全中",
+        "onboard_time": 1669615174,
+        "rank": 6,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 781962,
+        "num": 781962,
+        "word": "美国足协篡改伊朗队国旗",
+        "onboard_time": 1669613915,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 718786,
+        "num": 718786,
+        "word": "麻六记背后的代工生意",
+        "onboard_time": 1669610563,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 703872,
+        "num": 703872,
+        "word": "警方回应网传一女子被12人轮流棍击",
+        "onboard_time": 1669611460,
+        "rank": 9,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 555380,
+        "num": 555380,
+        "word": "小米13",
+        "onboard_time": 1669618350,
+        "rank": 10,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 552035,
+        "num": 552035,
+        "word": "2男孩独在家肚子饿用水壶贴饼吃",
+        "onboard_time": 1669619552,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 524821,
+        "num": 524821,
+        "word": "尹峥入狱vs陆之昂入狱",
+        "onboard_time": 1669614814,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 500930,
+        "num": 500930,
+        "word": "考研会延期吗",
+        "onboard_time": 1669610563,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 409581,
+        "num": 409581,
+        "word": "葡萄牙vs乌拉圭",
+        "onboard_time": 1669616973,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 394862,
+        "num": 394862,
+        "word": "杨幂郭敬明搭肩合照",
+        "onboard_time": 1669616429,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 379716,
+        "num": 379716,
+        "word": "养了猫就别养哈士奇了",
+        "onboard_time": 1669619012,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 379375,
+        "num": 379375,
+        "word": "男子对泉水喊一声水瞬间消失",
+        "onboard_time": 1669616852,
+        "rank": 17,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 376823,
+        "num": 376823,
+        "word": "吴镇宇反思被梅西进球",
+        "onboard_time": 1669613316,
+        "rank": 18,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 326001,
+        "num": 326001,
+        "word": "19岁女生减肥催吐致进食障碍",
+        "onboard_time": 1669613496,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296401,
+        "num": 296401,
+        "word": "龚俊宋茜关晓彤近期杂志封面",
+        "onboard_time": 1669619851,
+        "rank": 20,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 282996,
+        "num": 282996,
+        "word": "张颜齐去卡塔尔看球了",
+        "onboard_time": 1669606660,
+        "rank": 21,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 278592,
+        "num": 278592,
+        "word": "老人故意推倒摩托车主坚持追责",
+        "onboard_time": 1669618773,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275968,
+        "num": 275968,
+        "word": "国考延期",
+        "onboard_time": 1669604673,
+        "rank": 23,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 260421,
+        "num": 260421,
+        "word": "于正追风吹半夏追到凌晨四点",
+        "onboard_time": 1669616495,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 256238,
+        "num": 256238,
+        "word": "青岛13岁男孩打破魔方世界纪录",
+        "onboard_time": 1669617573,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249298,
+        "num": 249298,
+        "word": "苏醒说赚钱比看梅西重要",
+        "onboard_time": 1669616135,
+        "rank": 26,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 235637,
+        "num": 235637,
+        "word": "C罗年轻时好奶",
+        "onboard_time": 1669613854,
+        "rank": 27,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 230848,
+        "num": 230848,
+        "word": "爸妈当宝宝面亲亲宝宝开心大笑",
+        "onboard_time": 1669617751,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228849,
+        "num": 228849,
+        "word": "重庆三兄弟为保供齐上阵",
+        "onboard_time": 1669617869,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233627,
+        "num": 227855,
+        "word": "RedVelvet回归记者会新闻图",
+        "onboard_time": 1669617510,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232734,
+        "num": 227531,
+        "word": "反着唐梓买别墅靠大海",
+        "onboard_time": 1669614696,
+        "rank": 31,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 226801,
+        "num": 226801,
+        "word": "卿卿日常最大反派安曦元来了",
+        "onboard_time": 1669607978,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 210218,
+        "num": 210218,
+        "word": "陌生人带走自闭症男孩同学上前阻拦",
+        "onboard_time": 1669618350,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205554,
+        "num": 205554,
+        "word": "网传女子被10多人轮流棍击",
+        "onboard_time": 1669617934,
+        "rank": 34,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 201094,
+        "num": 201094,
+        "word": "四六级",
+        "onboard_time": 1669606478,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 196721,
+        "num": 196721,
+        "word": "吴镇宇回应世界杯表现",
+        "onboard_time": 1669620271,
+        "rank": 36,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 191019,
+        "num": 191019,
+        "word": "梅西经纪人否认转会传闻",
+        "onboard_time": 1669618892,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189961,
+        "num": 189961,
+        "word": "小伙娶见义勇为女孩为妻照顾34年",
+        "onboard_time": 1669607563,
+        "rank": 38,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 189551,
+        "num": 189551,
+        "word": "核酸检测或遭经济垄断化",
+        "onboard_time": 1669620574,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186575,
+        "num": 186575,
+        "word": "如果不考虑职业歧视和薪资",
+        "onboard_time": 1669611700,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 182586,
+        "num": 182586,
+        "word": "喀麦隆vs塞尔维亚",
+        "onboard_time": 1669619793,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180723,
+        "num": 180723,
+        "word": "南京一医院接连收治多例柿石症患者",
+        "onboard_time": 1669619851,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176222,
+        "num": 176222,
+        "word": "核子华曦部分公司近3个月内成立",
+        "onboard_time": 1669609240,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176092,
+        "num": 176092,
+        "word": "自带混响的烟嗓低音炮",
+        "onboard_time": 1669620752,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 174166,
+        "num": 174166,
+        "word": "上海全市共有约3千到5千只貉",
+        "onboard_time": 1669619973,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168291,
+        "num": 168291,
+        "word": "高三女生上课总睡着竟是患罕见病",
+        "onboard_time": 1669604796,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162532,
+        "num": 162532,
+        "word": "神农架巡护员学习打火炮融入当地社区",
+        "onboard_time": 1669620631,
+        "rank": 47,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 166867,
+        "num": 161735,
+        "word": "唐梓说支持日本有点说不出口",
+        "onboard_time": 1669617751,
+        "rank": 48,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 159214,
+        "num": 159214,
+        "word": "太空不会因为故事感人就向我张开怀抱",
+        "onboard_time": 1669620692,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚定信心抓实抓细疫情防控各项工作#"
+    }
+  }
+}
