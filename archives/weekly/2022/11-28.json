@@ -1,6 +1,6 @@
 {
   "startTime": 1669566398830,
-  "endTime": 1669634223057,
+  "endTime": 1669635223870,
   "band_list": [
     {
       "raw_hot": 11045761,
@@ -131,6 +131,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 1724956,
+      "num": 1724956,
+      "word": "研究生考试12月24日举行",
+      "onboard_time": 1669631253,
+      "rank": 31,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 1702730,
       "num": 1702730,
       "word": "广州海珠近万人有疏解意愿",
@@ -145,14 +153,6 @@
       "onboard_time": 1669610563,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1629135,
-      "num": 1629135,
-      "word": "研究生考试12月24日举行",
-      "onboard_time": 1669631253,
-      "rank": 31,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 1620972,
@@ -267,6 +267,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 1112757,
+      "num": 1032279,
+      "word": "同居生2娃男友欠80万外债失联",
+      "onboard_time": 1669630113,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1090044,
       "num": 1090044,
       "word": "杭州打雷",
@@ -283,12 +291,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1051908,
-      "num": 914241,
-      "word": "同居生2娃男友欠80万外债失联",
-      "onboard_time": 1669630113,
-      "rank": 26,
-      "category": "社会新闻"
+      "raw_hot": 1048176,
+      "num": 1048176,
+      "word": "黑化的美嘉",
+      "onboard_time": 1669631196,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 1033034,
@@ -297,6 +305,14 @@
       "onboard_time": 1669610563,
       "rank": 7,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1029109,
+      "num": 1029109,
+      "word": "常态化做核酸安全吗",
+      "onboard_time": 1669632699,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1018077,
@@ -331,20 +347,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 896640,
-      "num": 896640,
-      "word": "黑化的美嘉",
-      "onboard_time": 1669631196,
-      "rank": 20,
-      "category": "影视"
-    },
-    {
       "raw_hot": 894132,
       "num": 894132,
       "word": "潘粤明世界杯七次预测全中",
       "onboard_time": 1669615174,
       "rank": 22,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 892181,
+      "num": 892181,
+      "word": "喀麦隆vs塞尔维亚",
+      "onboard_time": 1669619793,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 888358,
@@ -385,6 +401,14 @@
       "onboard_time": 1669625794,
       "rank": 12,
       "category": "体育,美食"
+    },
+    {
+      "raw_hot": 803093,
+      "num": 803093,
+      "word": "王鹤棣时宴吃火锅路透",
+      "onboard_time": 1669634793,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 802102,
@@ -587,20 +611,28 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 567864,
-      "num": 567864,
-      "word": "喀麦隆vs塞尔维亚",
-      "onboard_time": 1669619793,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 558849,
       "num": 558849,
       "word": "北京新增本土感染者2086例",
       "onboard_time": 1669628791,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 556388,
+      "num": 556388,
+      "word": "女孩烤太多地瓜妈妈说吃不完别吃饭",
+      "onboard_time": 1669630775,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 555866,
+      "num": 555866,
+      "word": "塞尔维亚反超",
+      "onboard_time": 1669632996,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 555380,
@@ -616,14 +648,6 @@
       "word": "在科学认识病毒的基础上做好防疫",
       "onboard_time": 1669597719,
       "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 551936,
-      "num": 551936,
-      "word": "常态化做核酸安全吗",
-      "onboard_time": 1669632699,
-      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -699,14 +723,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 485120,
-      "num": 485120,
-      "word": "塞尔维亚反超",
-      "onboard_time": 1669632996,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 483514,
       "num": 483514,
       "word": "男子冒充防疫人员进小区散播谣言",
@@ -763,19 +779,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 461413,
+      "num": 461413,
+      "word": "奥纳纳退出世界杯",
+      "onboard_time": 1669632158,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 459650,
       "num": 459650,
       "word": "北京严禁采取硬质隔离硬质围挡等措施",
       "onboard_time": 1669546300,
       "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 453497,
-      "num": 453497,
-      "word": "女孩烤太多地瓜妈妈说吃不完别吃饭",
-      "onboard_time": 1669630775,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -931,14 +947,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 402132,
-      "num": 402132,
-      "word": "奥纳纳退出世界杯",
-      "onboard_time": 1669632158,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 401753,
       "num": 401753,
       "word": "尹峥尹岐去了甘棠驿",
@@ -1051,6 +1059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 353933,
+      "num": 353933,
+      "word": "核子华曦已启动IPO上市计划",
+      "onboard_time": 1669634135,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 347508,
       "num": 347508,
       "word": "今年热播剧女主的状态",
@@ -1155,6 +1171,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 323217,
+      "num": 323217,
+      "word": "喀麦隆半场1比2塞尔维亚",
+      "onboard_time": 1669633596,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 322658,
       "num": 322658,
       "word": "中国球迷是最全球化的球迷",
@@ -1219,6 +1243,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 314178,
+      "num": 314178,
+      "word": "喀麦隆进球",
+      "onboard_time": 1669632036,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 312637,
       "num": 242321,
       "word": "Sky加入T1教练组",
@@ -1235,20 +1267,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 304525,
+      "num": 304525,
+      "word": "宋亚轩有你的季节卡点拍照",
+      "onboard_time": 1669634616,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 301713,
       "num": 301713,
       "word": "深圳倡导市民下周居家办公",
       "onboard_time": 1669550677,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 295362,
-      "num": 295362,
-      "word": "喀麦隆进球",
-      "onboard_time": 1669632036,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 293137,
@@ -1273,6 +1305,14 @@
       "onboard_time": 1669605274,
       "rank": 28,
       "category": "教育"
+    },
+    {
+      "raw_hot": 288103,
+      "num": 288103,
+      "word": "当布偶猫离开了美颜相机",
+      "onboard_time": 1669632337,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 286576,
@@ -1403,28 +1443,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 260441,
-      "num": 260441,
-      "word": "当布偶猫离开了美颜相机",
-      "onboard_time": 1669632337,
-      "rank": 27,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 257421,
       "num": 257421,
       "word": "北京新增本土感染者1781例",
       "onboard_time": 1669544431,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 256900,
-      "num": 256900,
-      "word": "喀麦隆半场1比2塞尔维亚",
-      "onboard_time": 1669633596,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 256187,
@@ -1489,6 +1513,14 @@
       "onboard_time": 1669607680,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 249219,
+      "num": 249219,
+      "word": "有些人的教资是DNA自带的",
+      "onboard_time": 1669629994,
+      "rank": 39,
+      "category": "幽默,教育"
     },
     {
       "raw_hot": 244872,
@@ -1667,6 +1699,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 223279,
+      "num": 223279,
+      "word": "小球童被握手后发现对方是C罗",
+      "onboard_time": 1669631014,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 222212,
       "num": 222212,
       "word": "西班牙半场0比0德国",
@@ -1691,14 +1731,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 220787,
-      "num": 220787,
-      "word": "有些人的教资是DNA自带的",
-      "onboard_time": 1669629994,
-      "rank": 39,
-      "category": "幽默,教育"
-    },
-    {
       "raw_hot": 219009,
       "num": 219009,
       "word": "墨白连更十天",
@@ -1721,14 +1753,6 @@
       "onboard_time": 1669614453,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 215570,
-      "num": 215570,
-      "word": "小球童被握手后发现对方是C罗",
-      "onboard_time": 1669631014,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 213321,
@@ -1891,6 +1915,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 184912,
+      "num": 184912,
+      "word": "张艺兴大航海2巡演新舞台直拍视频",
+      "onboard_time": 1669635156,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 183524,
       "num": 183524,
       "word": "李峋四次单膝下跪都是为了朱韵",
@@ -1899,11 +1931,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 183017,
+      "num": 183017,
+      "word": "大白下班点就走老人坚持让做完核酸",
+      "onboard_time": 1669634977,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 182193,
       "num": 182193,
       "word": "冯潇霆说日本有希望赢西班牙",
       "onboard_time": 1669630536,
       "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 180901,
+      "num": 180901,
+      "word": "粉丝有多爱梅西",
+      "onboard_time": 1669635036,
+      "rank": 43,
       "category": "体育"
     },
     {
@@ -1961,6 +2009,22 @@
       "onboard_time": 1669552537,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 169666,
+      "num": 169666,
+      "word": "恢复上市房企和涉房上市公司再融资",
+      "onboard_time": 1669634913,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 169665,
+      "num": 169665,
+      "word": "吴镇宇回应撞脸墨西哥门将",
+      "onboard_time": 1669634552,
+      "rank": 45,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 169287,
@@ -2024,14 +2088,6 @@
       "word": "高校宿舍违规电器查出烤肠机",
       "onboard_time": 1669565563,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 163329,
-      "num": 163329,
-      "word": "核子华曦已启动IPO上市计划",
-      "onboard_time": 1669634135,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -2257,6 +2313,14 @@
       "onboard_time": 1669613436,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 137567,
+      "num": 137567,
+      "word": "满脑子都是石油冒泡的声音",
+      "onboard_time": 1669634616,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 137329,
