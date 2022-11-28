@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/01 00:36:21 ~ 2022/11/28 15:33:45
+本榜单时间：2022/11/01 00:36:21 ~ 2022/11/28 16:26:29
 </p>
 </blockquote>
 <p>
@@ -245,6 +245,12 @@ C罗哭了（热度：4780092）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%99%E9%87%91%E9%B8%A1%E5%A5%96%E6%9C%80%E4%BD%B3%E7%94%B7%E4%B8%BB%E8%A7%92%23" target="weibo">
 朱一龙金鸡奖最佳男主角（热度：4175898）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%E6%88%96%E9%81%AD%E7%BB%8F%E6%B5%8E%E5%9E%84%E6%96%AD%E5%8C%96%23" target="weibo">
+核酸检测或遭经济垄断化（热度：4062660）
 </a>
 </li>
 
@@ -695,6 +701,12 @@ C罗进球被吹（热度：2899415）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E5%B7%9E%E5%AE%98%E6%96%B9%E8%87%B4%E6%AD%89%23" target="weibo">
 郑州官方致歉（热度：2663246）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8F%AD%E7%A7%98%E5%85%B3%E8%81%9437%E5%AE%B6%E6%A0%B8%E6%A3%80%E6%9C%BA%E6%9E%84%E7%9A%84%E5%BC%A0%E5%A7%97%E5%A7%97%23" target="weibo">
+揭秘关联37家核检机构的张姗姗（热度：2658521）
 </a>
 </li>
 
@@ -1257,6 +1269,12 @@ LPL输得不冤（热度：2073824）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%B0%E5%B7%9E%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E4%B8%80%E5%A5%B3%E6%95%99%E5%B8%88%E8%B7%B3%E6%A5%BC%E8%BA%AB%E4%BA%A1%23" target="weibo">
+兰州大学回应一女教师跳楼身亡（热度：2052362）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%BC%BA%E4%B8%9C%E7%A7%B0%E5%AF%B9%E4%B8%8D%E8%B5%B7%E4%BA%AC%E4%B8%9C2000%E5%A4%9A%E5%90%8D%E9%AB%98%E7%AE%A1%23" target="weibo">
 刘强东称对不起京东2000多名高管（热度：2045134）
 </a>
@@ -1667,12 +1685,6 @@ IU（热度：2015592）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%99%E7%89%B9%E5%A5%96%E5%8A%B1%E7%90%83%E5%91%98%E6%AF%8F%E4%BA%BA%E4%B8%80%E5%8F%B0%E5%8A%B3%E6%96%AF%E8%8E%B1%E6%96%AF%23" target="weibo">
 沙特奖励球员每人一台劳斯莱斯（热度：1797428）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%8F%AD%E7%A7%98%E5%85%B3%E8%81%9437%E5%AE%B6%E6%A0%B8%E6%A3%80%E6%9C%BA%E6%9E%84%E7%9A%84%E5%BC%A0%E5%A7%97%E5%A7%97%23" target="weibo">
-揭秘关联37家核检机构的张姗姗（热度：1793997）
 </a>
 </li>
 
@@ -4401,6 +4413,12 @@ Faker或将加入LPL（热度：1036605）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%232%E7%94%B7%E5%AD%A9%E7%8B%AC%E5%9C%A8%E5%AE%B6%E8%82%9A%E5%AD%90%E9%A5%BF%E7%94%A8%E6%B0%B4%E5%A3%B6%E8%B4%B4%E9%A5%BC%E5%90%83%23" target="weibo">
+2男孩独在家肚子饿用水壶贴饼吃（热度：1016718）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E6%8F%A1%E6%89%8B%E5%90%88%E5%BD%B1%23" target="weibo">
 中美元首握手合影（热度：1016659）
 </a>
@@ -5973,6 +5991,12 @@ Doinb（热度：828666）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23BIGBANG%E5%B0%86%E5%85%A5%E9%A9%BBWeverse%23" target="weibo">
+BIGBANG将入驻Weverse（热度：828644）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E6%9D%80%E5%A6%BB%E6%8A%9B%E5%B0%B8%E6%A1%88%E8%A2%AB%E5%91%8A%E8%8E%B7%E6%AD%BB%E5%88%91%23" target="weibo">
 泰国杀妻抛尸案被告获死刑（热度：828478）
 </a>
@@ -5987,30 +6011,6 @@ Doinb（热度：828666）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E7%BD%91%E8%B4%AD%E4%B8%80%E6%94%AF6%E8%89%B2%E5%8F%A3%E7%BA%A2%E9%80%81%E5%A5%B3%E5%84%BF%23" target="weibo">
 妈妈网购一支6色口红送女儿（热度：828138）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E9%A3%9E%E5%AE%87%E4%B8%BA%E8%A7%92%E8%89%B2%E6%89%BE%E5%93%A5%E5%93%A5%E5%80%9F%E7%BC%96%E7%A8%8B%E4%B9%A6%23" target="weibo">
-陈飞宇为角色找哥哥借编程书（热度：827212）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A9%E6%9C%9F%E8%82%BA%E7%99%8C%E6%9C%89%E5%A4%9A%E9%9A%90%E8%94%BD%23" target="weibo">
-早期肺癌有多隐蔽（热度：827168）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2313%E5%B2%81%E5%B0%91%E5%A5%B3%E7%A7%83%E9%A1%B6%E7%96%91%E4%BC%BC%E6%98%AF%E6%8B%94%E6%AF%9B%E7%99%96%23" target="weibo">
-13岁少女秃顶疑似是拔毛癖（热度：827145）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23GALA%20%E5%A4%B4%E5%83%8F%23" target="weibo">
-GALA 头像（热度：826488）
 </a>
 </li>
 
