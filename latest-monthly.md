@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/01 00:36:21 ~ 2022/11/28 10:09:33
+本榜单时间：2022/11/01 00:36:21 ~ 2022/11/28 10:59:06
 </p>
 </blockquote>
 <p>
@@ -3543,6 +3543,12 @@ meiko（热度：1182269）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BDvs%E4%BC%8A%E6%9C%97%E4%B8%BB%E8%A3%81%E5%88%A4%E5%85%AC%E5%B8%83%23" target="weibo">
+美国vs伊朗主裁判公布（热度：1153657）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E7%AA%81%E7%84%B6%E5%BC%80%E9%99%A480%25%E6%8E%A8%E7%89%B9%E5%90%88%E5%90%8C%E5%B7%A5%23" target="weibo">
 马斯克突然开除80%推特合同工（热度：1151859）
 </a>
@@ -6005,12 +6011,6 @@ cheerup 弃剧（热度：822139）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%83%E5%AE%8C%E8%BA%BA%E4%B8%8B%E5%B0%B1%E7%9D%A1%E6%98%93%E6%82%A3%E8%B4%B2%E9%97%A8%E7%99%8C%23" target="weibo">
 吃完躺下就睡易患贲门癌（热度：819623）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%93%E6%B8%A9%E8%AE%A1%E7%A2%8E%E8%A3%82%E6%8A%A4%E5%A3%AB%E6%89%93%E9%B8%A1%E8%9B%8B%E9%98%B2%E6%B1%9E%E4%B8%AD%E6%AF%92%23" target="weibo">
-体温计碎裂护士打鸡蛋防汞中毒（热度：818752）
 </a>
 </li>
 

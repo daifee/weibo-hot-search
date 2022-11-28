@@ -1,6 +1,6 @@
 {
   "startTime": 1669566398830,
-  "endTime": 1669601373651,
+  "endTime": 1669604346482,
   "band_list": [
     {
       "raw_hot": 11045761,
@@ -107,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1153657,
+      "num": 1153657,
+      "word": "美国vs伊朗主裁判公布",
+      "onboard_time": 1669600893,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1068914,
       "num": 398849,
       "word": "给大白实名也是为大白正名",
@@ -155,6 +163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 690692,
+      "num": 690692,
+      "word": "墨白定档1201",
+      "onboard_time": 1669603112,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 645751,
       "num": 645751,
       "word": "抖音回应世界杯直播时出现杂音",
@@ -187,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 577527,
+      "num": 380103,
+      "word": "国产ModelY售价全球最低",
+      "onboard_time": 1669602812,
+      "rank": 12,
+      "category": "科技"
+    },
+    {
       "raw_hot": 571015,
       "num": 571015,
       "word": "工作人员看刘雨昕的眼神",
@@ -216,6 +240,14 @@
       "word": "动画片突然插播广告男孩怒砸电视",
       "onboard_time": 1669562682,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 476922,
+      "num": 379661,
+      "word": "什么情况下需戴N95口罩",
+      "onboard_time": 1669602812,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -299,6 +331,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 406110,
+      "num": 406110,
+      "word": "德国出线概率67%",
+      "onboard_time": 1669600470,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 401753,
       "num": 401753,
       "word": "尹峥尹岐去了甘棠驿",
@@ -307,12 +347,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 394313,
+      "num": 378608,
+      "word": "热力公司怼居民称凭啥给你热下去",
+      "onboard_time": 1669602751,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 391181,
       "num": 391181,
       "word": "朴志晟金丝框眼镜",
       "onboard_time": 1669566278,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 378354,
+      "num": 378354,
+      "word": "女子躲麦田给骗子转账民警赶赴劝阻",
+      "onboard_time": 1669600230,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 372978,
@@ -339,12 +395,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 363976,
+      "num": 363976,
+      "word": "小伙赌球手机中木马自动转账20万",
+      "onboard_time": 1669599513,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 354263,
       "num": 354263,
       "word": "克罗地亚4比1加拿大",
       "onboard_time": 1669572559,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 348857,
+      "num": 348857,
+      "word": "落实防控措施不仅要有力度还要有温度",
+      "onboard_time": 1669601913,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 343962,
@@ -587,14 +659,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 209123,
-      "num": 209123,
-      "word": "小伙赌球手机中木马自动转账20万",
-      "onboard_time": 1669599513,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 206757,
       "num": 206757,
       "word": "加拿大小组出局",
@@ -635,12 +699,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 183672,
-      "num": 183672,
-      "word": "德国出线概率67%",
-      "onboard_time": 1669600470,
-      "rank": 29,
-      "category": "体育"
+      "raw_hot": 187397,
+      "num": 187397,
+      "word": "张雪迎毕雯珺墨白定档海报",
+      "onboard_time": 1669603533,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 183524,
@@ -649,14 +713,6 @@
       "onboard_time": 1669559504,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 177180,
-      "num": 177180,
-      "word": "美国vs伊朗主裁判公布",
-      "onboard_time": 1669600893,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 171502,
@@ -691,14 +747,6 @@
       "category": "体育,综艺"
     },
     {
-      "raw_hot": 167161,
-      "num": 167161,
-      "word": "女子躲麦田给骗子转账民警赶赴劝阻",
-      "onboard_time": 1669600230,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 166082,
       "num": 166082,
       "word": "中国空间站三舱三船组合体来了",
@@ -721,6 +769,14 @@
       "onboard_time": 1669592546,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 155083,
+      "num": 155083,
+      "word": "马斯克曝光推特2.0",
+      "onboard_time": 1669603772,
+      "rank": 32,
+      "category": "科技"
     },
     {
       "raw_hot": 155043,
@@ -819,6 +875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 131827,
+      "num": 131827,
+      "word": "尹岐失了父爱确定真爱",
+      "onboard_time": 1669603831,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 129895,
       "num": 129895,
       "word": "余宇涵晒自拍说阿根廷赢了",
@@ -859,6 +923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 115085,
+      "num": 115085,
+      "word": "这届世界杯有多抓马",
+      "onboard_time": 1669603292,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 109869,
       "num": 109869,
       "word": "克罗地亚进球",
@@ -873,6 +945,22 @@
       "onboard_time": 1669592065,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 107216,
+      "num": 107216,
+      "word": "果然喜欢猫咪不分年龄",
+      "onboard_time": 1669604252,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 102937,
+      "num": 102937,
+      "word": "男子收集上千种虫子建昆虫博物馆",
+      "onboard_time": 1669604312,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 99002,
