@@ -1,6 +1,6 @@
 {
   "startTime": 1669652614385,
-  "endTime": 1669677661316,
+  "endTime": 1669678571584,
   "band_list": [
     {
       "raw_hot": 4130825,
@@ -19,6 +19,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1482343,
+      "num": 1482343,
+      "word": "C罗碰到球了吗",
+      "onboard_time": 1669669632,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1426847,
       "num": 1426847,
       "word": "唐梓说终于塌房了",
@@ -27,12 +35,12 @@
       "category": "体育,网红"
     },
     {
-      "raw_hot": 1351888,
-      "num": 1351888,
-      "word": "C罗碰到球了吗",
-      "onboard_time": 1669669632,
-      "rank": 10,
-      "category": "体育"
+      "raw_hot": 1281369,
+      "num": 1281369,
+      "word": "核子基因多次被罚仍中标核酸检测项目",
+      "onboard_time": 1669642900,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1239311,
@@ -59,16 +67,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1023230,
-      "num": 1023230,
-      "word": "核子基因多次被罚仍中标核酸检测项目",
-      "onboard_time": 1669642900,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 948392,
-      "num": 948392,
+      "raw_hot": 1007289,
+      "num": 1007289,
       "word": "葡萄牙2比0乌拉圭",
       "onboard_time": 1669671014,
       "rank": 40,
@@ -195,12 +195,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 443238,
+      "num": 443238,
+      "word": "1岁娃被猫抓伤反复高烧患猫抓病",
+      "onboard_time": 1669668372,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 416610,
       "num": 416610,
       "word": "研究生考试12月24日举行",
       "onboard_time": 1669631253,
       "rank": 16,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 399893,
+      "num": 399893,
+      "word": "女儿不满房产分配纵火烧父母房",
+      "onboard_time": 1669656860,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 396105,
@@ -216,14 +232,6 @@
       "word": "广州海珠试行闭环泡泡",
       "onboard_time": 1669636233,
       "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 367619,
-      "num": 367619,
-      "word": "1岁娃被猫抓伤反复高烧患猫抓病",
-      "onboard_time": 1669668372,
-      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -243,19 +251,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 355387,
+      "num": 355387,
+      "word": "醉驾女子称我长这么好看还查我",
+      "onboard_time": 1669673713,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 335140,
       "num": 335140,
       "word": "常态化做核酸安全吗",
       "onboard_time": 1669632699,
       "rank": 20,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 318593,
-      "num": 318593,
-      "word": "女儿不满房产分配纵火烧父母房",
-      "onboard_time": 1669656860,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -265,14 +273,6 @@
       "onboard_time": 1669657217,
       "rank": 6,
       "category": "体育"
-    },
-    {
-      "raw_hot": 306918,
-      "num": 306918,
-      "word": "醉驾女子称我长这么好看还查我",
-      "onboard_time": 1669673713,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 298293,
@@ -305,6 +305,14 @@
       "onboard_time": 1669646255,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 271657,
+      "num": 271657,
+      "word": "巴西小组出线",
+      "onboard_time": 1669678101,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 265195,
@@ -372,11 +380,19 @@
     },
     {
       "raw_hot": 212639,
-      "num": 103575,
+      "num": 119784,
       "word": "内马尔在酒店看比赛",
       "onboard_time": 1669659557,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 203935,
+      "num": 203935,
+      "word": "罗云熙用车被安装跟踪定位器",
+      "onboard_time": 1669642594,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 199445,
@@ -385,6 +401,14 @@
       "onboard_time": 1669643433,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 198460,
+      "num": 198460,
+      "word": "巴西vs瑞士贵宾席有多豪华",
+      "onboard_time": 1669665195,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 197395,
@@ -411,6 +435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 196827,
+      "num": 196827,
+      "word": "男子介绍未成年有偿陪侍获刑1年4个月",
+      "onboard_time": 1669677440,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 196727,
       "num": 196727,
       "word": "李国庆称张兰是他尊敬的企业家",
@@ -433,14 +465,6 @@
       "onboard_time": 1669629214,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 186060,
-      "num": 186060,
-      "word": "罗云熙用车被安装跟踪定位器",
-      "onboard_time": 1669642594,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 184592,
@@ -483,8 +507,16 @@
       "category": "影视"
     },
     {
+      "raw_hot": 159070,
+      "num": 159070,
+      "word": "不得因涉疫风险人员自行前往就医而拒绝接诊",
+      "onboard_time": 1669677681,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158150,
-      "num": 123455,
+      "num": 128278,
       "word": "本泽马已康复",
       "onboard_time": 1669659436,
       "rank": 38,
@@ -497,6 +529,14 @@
       "onboard_time": 1669635814,
       "rank": 46,
       "category": "科技"
+    },
+    {
+      "raw_hot": 150258,
+      "num": 136601,
+      "word": "高中班主任教室设咖啡笔芯共享区",
+      "onboard_time": 1669677322,
+      "rank": 41,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 149079,
@@ -555,12 +595,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 125597,
-      "num": 125597,
-      "word": "巴西vs瑞士贵宾席有多豪华",
-      "onboard_time": 1669665195,
-      "rank": 30,
-      "category": "体育"
+      "raw_hot": 122104,
+      "num": 122104,
+      "word": "赵丽颖李光洁风吹半夏是官配",
+      "onboard_time": 1669639116,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 117896,
@@ -595,14 +635,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 91094,
-      "num": 91094,
-      "word": "赵丽颖李光洁风吹半夏是官配",
-      "onboard_time": 1669639116,
-      "rank": 38,
-      "category": "影视"
-    },
-    {
       "raw_hot": 80740,
       "num": 80740,
       "word": "张馨予晒原相机自拍照",
@@ -611,12 +643,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 71624,
-      "num": 71624,
-      "word": "高中班主任教室设咖啡笔芯共享区",
-      "onboard_time": 1669677322,
-      "rank": 41,
-      "category": "教育,社会新闻"
+      "raw_hot": 77528,
+      "num": 77528,
+      "word": "明星撞脸卡通人物大赏",
+      "onboard_time": 1669675815,
+      "rank": 45,
+      "category": "艺人,动漫"
     },
     {
       "raw_hot": 64241,
@@ -627,12 +659,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 59833,
-      "num": 59833,
-      "word": "明星撞脸卡通人物大赏",
-      "onboard_time": 1669675815,
-      "rank": 45,
-      "category": "艺人,动漫"
+      "raw_hot": 57942,
+      "num": 57942,
+      "word": "孙千说道理都懂野猫只是想做自己喜欢的事情",
+      "onboard_time": 1669678464,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 51917,
@@ -641,14 +673,6 @@
       "onboard_time": 1669664712,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 45633,
-      "num": 45633,
-      "word": "男子介绍未成年有偿陪侍获刑1年4个月",
-      "onboard_time": 1669677440,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 42317,
