@@ -1,6 +1,6 @@
 {
   "startTime": 1669652614385,
-  "endTime": 1669675001430,
+  "endTime": 1669677661316,
   "band_list": [
     {
       "raw_hot": 4130825,
@@ -27,6 +27,14 @@
       "category": "体育,网红"
     },
     {
+      "raw_hot": 1351888,
+      "num": 1351888,
+      "word": "C罗碰到球了吗",
+      "onboard_time": 1669669632,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1239311,
       "num": 1239311,
       "word": "韩国后卫好像提前飞回国了",
@@ -51,6 +59,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1023230,
+      "num": 1023230,
+      "word": "核子基因多次被罚仍中标核酸检测项目",
+      "onboard_time": 1669642900,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 948392,
+      "num": 948392,
+      "word": "葡萄牙2比0乌拉圭",
+      "onboard_time": 1669671014,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 851228,
       "num": 851228,
       "word": "上财校长称博士生像乞丐一样在研究",
@@ -64,14 +88,6 @@
       "word": "巴西1比0瑞士",
       "onboard_time": 1669658537,
       "rank": 1,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 740801,
-      "num": 740801,
-      "word": "C罗碰到球了吗",
-      "onboard_time": 1669669632,
-      "rank": 10,
       "category": "体育"
     },
     {
@@ -147,14 +163,6 @@
       "category": "幽默,时尚"
     },
     {
-      "raw_hot": 506755,
-      "num": 506755,
-      "word": "核子基因多次被罚仍中标核酸检测项目",
-      "onboard_time": 1669642900,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 496315,
       "num": 496315,
       "word": "北京疫情发布会",
@@ -211,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 367619,
+      "num": 367619,
+      "word": "1岁娃被猫抓伤反复高烧患猫抓病",
+      "onboard_time": 1669668372,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 364870,
       "num": 364870,
       "word": "你永远可以相信周深的现场",
@@ -235,12 +251,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 318593,
+      "num": 318593,
+      "word": "女儿不满房产分配纵火烧父母房",
+      "onboard_time": 1669656860,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 308110,
       "num": 308110,
       "word": "巴西进球 越位",
       "onboard_time": 1669657217,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 306918,
+      "num": 306918,
+      "word": "醉驾女子称我长这么好看还查我",
+      "onboard_time": 1669673713,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 298293,
@@ -291,14 +323,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 251273,
-      "num": 251273,
-      "word": "葡萄牙2比0乌拉圭",
-      "onboard_time": 1669671014,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 251104,
       "num": 251104,
       "word": "巴西半场0比0瑞士",
@@ -329,14 +353,6 @@
       "onboard_time": 1669648006,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 238397,
-      "num": 238397,
-      "word": "女儿不满房产分配纵火烧父母房",
-      "onboard_time": 1669656860,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 237975,
@@ -467,16 +483,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 170328,
-      "num": 170328,
-      "word": "1岁娃被猫抓伤反复高烧患猫抓病",
-      "onboard_time": 1669668372,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 158150,
-      "num": 97438,
+      "num": 123455,
       "word": "本泽马已康复",
       "onboard_time": 1669659436,
       "rank": 38,
@@ -547,11 +555,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125597,
+      "num": 125597,
+      "word": "巴西vs瑞士贵宾席有多豪华",
+      "onboard_time": 1669665195,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 117896,
       "num": 117896,
       "word": "卡塞米罗破门",
       "onboard_time": 1669658239,
       "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 112470,
+      "num": 112470,
+      "word": "瑞士球员说内马尔缺席比赛也不轻松",
+      "onboard_time": 1669666513,
+      "rank": 46,
       "category": "体育"
     },
     {
@@ -571,12 +595,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 85229,
-      "num": 43834,
-      "word": "巴西vs瑞士贵宾席有多豪华",
-      "onboard_time": 1669665195,
-      "rank": 30,
-      "category": "体育"
+      "raw_hot": 91094,
+      "num": 91094,
+      "word": "赵丽颖李光洁风吹半夏是官配",
+      "onboard_time": 1669639116,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 80740,
@@ -587,6 +611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 71624,
+      "num": 71624,
+      "word": "高中班主任教室设咖啡笔芯共享区",
+      "onboard_time": 1669677322,
+      "rank": 41,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 64241,
       "num": 48083,
       "word": "葡萄牙半场0比0乌拉圭",
@@ -595,12 +627,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 62018,
-      "num": 34606,
-      "word": "瑞士球员说内马尔缺席比赛也不轻松",
-      "onboard_time": 1669666513,
-      "rank": 46,
-      "category": "体育"
+      "raw_hot": 59833,
+      "num": 59833,
+      "word": "明星撞脸卡通人物大赏",
+      "onboard_time": 1669675815,
+      "rank": 45,
+      "category": "艺人,动漫"
     },
     {
       "raw_hot": 51917,
@@ -611,12 +643,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 41935,
-      "num": 41935,
-      "word": "醉驾女子称我长这么好看还查我",
-      "onboard_time": 1669673713,
-      "rank": 49,
+      "raw_hot": 45633,
+      "num": 45633,
+      "word": "男子介绍未成年有偿陪侍获刑1年4个月",
+      "onboard_time": 1669677440,
+      "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 42317,
+      "num": 42317,
+      "word": "遇到了我的梦中情房",
+      "onboard_time": 1669677200,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 37013,
+      "num": 37013,
+      "word": "种萝卜用北斗导航百米误差仅2cm",
+      "onboard_time": 1669677622,
+      "rank": 49,
+      "category": "科技"
     },
     {
       "raw_hot": 24483,
@@ -633,6 +681,9 @@
     },
     {
       "word": "#航天新征程#"
+    },
+    {
+      "word": "#严禁随意封控等各类层层加码行为#"
     }
   ]
 }
