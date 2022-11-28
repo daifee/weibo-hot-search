@@ -1,6 +1,6 @@
 {
   "startTime": 1669566398830,
-  "endTime": 1669617706642,
+  "endTime": 1669619861636,
   "band_list": [
     {
       "raw_hot": 11045761,
@@ -59,6 +59,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2277506,
+      "num": 2277506,
+      "word": "核子华曦相关实验室多次违规被罚",
+      "onboard_time": 1669616010,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2240392,
       "num": 636762,
       "word": "武汉疫情防控",
@@ -115,14 +123,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 1585518,
-      "num": 1585518,
-      "word": "核子华曦相关实验室多次违规被罚",
-      "onboard_time": 1669616010,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1486052,
       "num": 1486052,
       "word": "西班牙1比1德国",
@@ -163,6 +163,14 @@
       "category": "体育,网红"
     },
     {
+      "raw_hot": 1389700,
+      "num": 1389700,
+      "word": "华晨宇怀疑跟郑楠音乐细胞长得一样",
+      "onboard_time": 1669617032,
+      "rank": 8,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1381677,
       "num": 1381677,
       "word": "核子华曦部分公司近3个月内成立",
@@ -177,6 +185,14 @@
       "onboard_time": 1669600893,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1234813,
+      "num": 1234813,
+      "word": "揭秘关联37家核检机构的张姗姗",
+      "onboard_time": 1669618412,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1216710,
@@ -259,14 +275,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 770198,
-      "num": 770198,
-      "word": "华晨宇怀疑跟郑楠音乐细胞长得一样",
-      "onboard_time": 1669617032,
-      "rank": 8,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 755748,
       "num": 755748,
       "word": "龚俊把头发吹成猫耳",
@@ -313,6 +321,14 @@
       "onboard_time": 1669569444,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 697112,
+      "num": 697112,
+      "word": "潘粤明世界杯七次预测全中",
+      "onboard_time": 1669615174,
+      "rank": 22,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 688105,
@@ -417,14 +433,6 @@
       "onboard_time": 1669564477,
       "rank": 13,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 561333,
-      "num": 561333,
-      "word": "潘粤明世界杯七次预测全中",
-      "onboard_time": 1669615174,
-      "rank": 22,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 552533,
@@ -555,6 +563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 440326,
+      "num": 440326,
+      "word": "小米13",
+      "onboard_time": 1669618350,
+      "rank": 14,
+      "category": "科技"
+    },
+    {
       "raw_hot": 438583,
       "num": 438583,
       "word": "邓清明入选神十五乘组",
@@ -569,6 +585,14 @@
       "onboard_time": 1669567771,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 431496,
+      "num": 431496,
+      "word": "男子对泉水喊一声水瞬间消失",
+      "onboard_time": 1669616852,
+      "rank": 29,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 430441,
@@ -596,7 +620,7 @@
     },
     {
       "raw_hot": 423272,
-      "num": 283562,
+      "num": 347139,
       "word": "RedVelvet回归记者会新闻图",
       "onboard_time": 1669617510,
       "rank": 21,
@@ -665,6 +689,14 @@
       "onboard_time": 1669599513,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 379702,
+      "num": 379702,
+      "word": "葡萄牙vs乌拉圭",
+      "onboard_time": 1669616973,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 378354,
@@ -803,6 +835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 320681,
+      "num": 153393,
+      "word": "龚俊宋茜关晓彤近期杂志封面",
+      "onboard_time": 1669619851,
+      "rank": 47,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 318453,
       "num": 318453,
       "word": "严禁随意封控等各类层层加码行为",
@@ -828,7 +868,7 @@
     },
     {
       "raw_hot": 315121,
-      "num": 222247,
+      "num": 303721,
       "word": "于正追风吹半夏追到凌晨四点",
       "onboard_time": 1669616495,
       "rank": 31,
@@ -891,6 +931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 285033,
+      "num": 285033,
+      "word": "青岛13岁男孩打破魔方世界纪录",
+      "onboard_time": 1669617573,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 283803,
       "num": 283803,
       "word": "西安900路公交女司机因高颜值走红",
@@ -913,6 +961,14 @@
       "onboard_time": 1669569025,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 280045,
+      "num": 280045,
+      "word": "养了猫就别养哈士奇了",
+      "onboard_time": 1669619012,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 278239,
@@ -939,6 +995,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 274090,
+      "num": 274090,
+      "word": "张真源大学生音乐节合照",
+      "onboard_time": 1669619134,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 273990,
       "num": 273990,
       "word": "BLG",
@@ -960,6 +1024,14 @@
       "word": "盐城建湖出土1.5吨唐宋钱币",
       "onboard_time": 1669596757,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 264155,
+      "num": 264155,
+      "word": "重庆三兄弟为保供齐上阵",
+      "onboard_time": 1669617869,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -1009,6 +1081,14 @@
       "onboard_time": 1669607680,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 244202,
+      "num": 244202,
+      "word": "爸妈当宝宝面亲亲宝宝开心大笑",
+      "onboard_time": 1669617751,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 243686,
@@ -1099,6 +1179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 224053,
+      "num": 224053,
+      "word": "陌生人带走自闭症男孩同学上前阻拦",
+      "onboard_time": 1669618350,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 223991,
       "num": 223991,
       "word": "吃个炒饭给我整得热血澎湃",
@@ -1121,6 +1209,14 @@
       "onboard_time": 1669579273,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 222067,
+      "num": 222067,
+      "word": "老人故意推倒摩托车主坚持追责",
+      "onboard_time": 1669618773,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 221436,
@@ -1155,12 +1251,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 211428,
+      "num": 211428,
+      "word": "梅西经纪人否认转会传闻",
+      "onboard_time": 1669618892,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 207072,
       "num": 207072,
       "word": "华晨宇开心编曲署名在郑楠前面",
       "onboard_time": 1669610919,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 206943,
+      "num": 206943,
+      "word": "唐梓说支持日本有点说不出口",
+      "onboard_time": 1669617751,
+      "rank": 37,
+      "category": "体育,网红"
     },
     {
       "raw_hot": 206757,
@@ -1171,20 +1283,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 205114,
+      "num": 205114,
+      "word": "网传女子被10多人轮流棍击",
+      "onboard_time": 1669617934,
+      "rank": 38,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 203394,
       "num": 203394,
       "word": "婆婆不让去月子中心女子二胎不给探望",
       "onboard_time": 1669544011,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 202131,
-      "num": 202131,
-      "word": "男子对泉水喊一声水瞬间消失",
-      "onboard_time": 1669616852,
-      "rank": 29,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 195219,
@@ -1243,20 +1355,20 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 184489,
+      "num": 184489,
+      "word": "2男孩独在家肚子饿用水壶贴饼吃",
+      "onboard_time": 1669619552,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 183524,
       "num": 183524,
       "word": "李峋四次单膝下跪都是为了朱韵",
       "onboard_time": 1669559504,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 182965,
-      "num": 182965,
-      "word": "葡萄牙vs乌拉圭",
-      "onboard_time": 1669616973,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 172911,
@@ -1347,6 +1459,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 157760,
+      "num": 157760,
+      "word": "喀麦隆vs塞尔维亚",
+      "onboard_time": 1669619793,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 157016,
       "num": 157016,
       "word": "A股",
@@ -1377,6 +1497,22 @@
       "onboard_time": 1669614751,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 149906,
+      "num": 149906,
+      "word": "南京一医院接连收治多例柿石症患者",
+      "onboard_time": 1669619851,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147990,
+      "num": 147990,
+      "word": "青年大学习",
+      "onboard_time": 1669618594,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 147245,
@@ -1465,14 +1601,6 @@
       "onboard_time": 1669613436,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 139249,
-      "num": 139249,
-      "word": "青岛13岁男孩打破魔方世界纪录",
-      "onboard_time": 1669617573,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 137329,
