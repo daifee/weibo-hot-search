@@ -1,6 +1,6 @@
 {
   "startTime": 1669566398830,
-  "endTime": 1669627192509,
+  "endTime": 1669628134295,
   "band_list": [
     {
       "raw_hot": 11045761,
@@ -123,6 +123,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 1728671,
+      "num": 1728671,
+      "word": "女子结婚53天做了52天饭",
+      "onboard_time": 1669624656,
+      "rank": 37,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1702730,
       "num": 1702730,
       "word": "广州海珠近万人有疏解意愿",
@@ -201,14 +209,6 @@
       "onboard_time": 1669609240,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1310643,
-      "num": 1310643,
-      "word": "女子结婚53天做了52天饭",
-      "onboard_time": 1669624656,
-      "rank": 37,
-      "category": "美食"
     },
     {
       "raw_hot": 1261827,
@@ -324,7 +324,7 @@
     },
     {
       "raw_hot": 824911,
-      "num": 602764,
+      "num": 685123,
       "word": "本月少女9名成员向公司提出解约",
       "onboard_time": 1669624953,
       "rank": 10,
@@ -345,6 +345,14 @@
       "onboard_time": 1669562025,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 782176,
+      "num": 782176,
+      "word": "C罗坚持同款饮食20年",
+      "onboard_time": 1669625794,
+      "rank": 12,
+      "category": "体育,美食"
     },
     {
       "raw_hot": 755748,
@@ -459,20 +467,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 633916,
+      "num": 633916,
+      "word": "朱韵试探李峋",
+      "onboard_time": 1669626032,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 629979,
       "num": 629979,
       "word": "什么情况下需戴N95口罩",
       "onboard_time": 1669602812,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 626526,
-      "num": 626526,
-      "word": "朱韵试探李峋",
-      "onboard_time": 1669626032,
-      "rank": 9,
-      "category": "影视"
     },
     {
       "raw_hot": 606079,
@@ -499,6 +507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 581115,
+      "num": 581115,
+      "word": "顾客点龙虾做标记上菜后发现被换",
+      "onboard_time": 1669623754,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 577527,
       "num": 559443,
       "word": "国产ModelY售价全球最低",
@@ -507,28 +523,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 571050,
-      "num": 571050,
-      "word": "顾客点龙虾做标记上菜后发现被换",
-      "onboard_time": 1669623754,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 571015,
       "num": 571015,
       "word": "工作人员看刘雨昕的眼神",
       "onboard_time": 1669564477,
       "rank": 13,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 561443,
-      "num": 561443,
-      "word": "C罗坚持同款饮食20年",
-      "onboard_time": 1669625794,
-      "rank": 12,
-      "category": "体育,美食"
     },
     {
       "raw_hot": 555380,
@@ -608,6 +608,14 @@
       "word": "19岁女生减肥催吐致进食障碍",
       "onboard_time": 1669613496,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 483514,
+      "num": 483514,
+      "word": "男子冒充防疫人员进小区散播谣言",
+      "onboard_time": 1669624953,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -811,6 +819,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 389431,
+      "num": 389431,
+      "word": "因剧名很难安利出去的剧",
+      "onboard_time": 1669623699,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 384738,
       "num": 384738,
       "word": "杨紫贺顿治愈六宫格剧照",
@@ -840,14 +856,6 @@
       "word": "女子躲麦田给骗子转账民警赶赴劝阻",
       "onboard_time": 1669600230,
       "rank": 40,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 375535,
-      "num": 375535,
-      "word": "男子冒充防疫人员进小区散播谣言",
-      "onboard_time": 1669624953,
-      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -912,14 +920,6 @@
       "word": "赵丽颖欧豪风吹半夏站内热度破6000",
       "onboard_time": 1669597355,
       "rank": 19,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 342625,
-      "num": 342625,
-      "word": "因剧名很难安利出去的剧",
-      "onboard_time": 1669623699,
-      "rank": 38,
       "category": "影视"
     },
     {
@@ -1115,6 +1115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 284471,
+      "num": 284471,
+      "word": "核子基因旗下公司曾谎报核酸结果",
+      "onboard_time": 1669624898,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 283803,
       "num": 283803,
       "word": "西安900路公交女司机因高颜值走红",
@@ -1131,6 +1139,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 280946,
+      "num": 280946,
+      "word": "网传女子被10多人轮流棍击",
+      "onboard_time": 1669617934,
+      "rank": 38,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 280525,
       "num": 280525,
       "word": "克罗地亚半场2比1加拿大",
@@ -1145,14 +1161,6 @@
       "onboard_time": 1669610019,
       "rank": 41,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 277552,
-      "num": 277552,
-      "word": "核子基因旗下公司曾谎报核酸结果",
-      "onboard_time": 1669624898,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 277188,
@@ -1195,14 +1203,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 265489,
-      "num": 265489,
-      "word": "网传女子被10多人轮流棍击",
-      "onboard_time": 1669617934,
-      "rank": 38,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 264412,
       "num": 264412,
       "word": "盐城建湖出土1.5吨唐宋钱币",
@@ -1225,6 +1225,22 @@
       "onboard_time": 1669544431,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 256146,
+      "num": 211260,
+      "word": "命韵峋环公司过夜被同事撞见",
+      "onboard_time": 1669626938,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 255465,
+      "num": 255465,
+      "word": "喀麦隆vs塞尔维亚",
+      "onboard_time": 1669619793,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 254962,
@@ -1491,11 +1507,11 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 196634,
-      "num": 196634,
-      "word": "命韵峋环公司过夜被同事撞见",
-      "onboard_time": 1669626938,
-      "rank": 36,
+      "raw_hot": 195853,
+      "num": 195853,
+      "word": "朱韵发现合照在李峋手上",
+      "onboard_time": 1669627594,
+      "rank": 33,
       "category": "影视"
     },
     {
@@ -1505,6 +1521,14 @@
       "onboard_time": 1669621052,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 195350,
+      "num": 195350,
+      "word": "狗狗被香醒后含着骨头两秒入睡",
+      "onboard_time": 1669623455,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 195219,
@@ -1532,7 +1556,7 @@
     },
     {
       "raw_hot": 191436,
-      "num": 146144,
+      "num": 188383,
       "word": "boystory翻跳JYP合集",
       "onboard_time": 1669627172,
       "rank": 47,
@@ -1563,6 +1587,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 187098,
+      "num": 187098,
+      "word": "杨幂说生活中也喜欢撒娇",
+      "onboard_time": 1669627835,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 186134,
       "num": 186134,
       "word": "网友许愿诛仙番外复活碧瑶",
@@ -1577,22 +1609,6 @@
       "onboard_time": 1669559504,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 182586,
-      "num": 182586,
-      "word": "喀麦隆vs塞尔维亚",
-      "onboard_time": 1669619793,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 177050,
-      "num": 177050,
-      "word": "狗狗被香醒后含着骨头两秒入睡",
-      "onboard_time": 1669623455,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 176092,
@@ -1915,6 +1931,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 134960,
+      "num": 134960,
+      "word": "世界杯比赛现场日本球迷晒旭日旗",
+      "onboard_time": 1669627775,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 134847,
+      "num": 134847,
+      "word": "梅西赢球后与队友散步",
+      "onboard_time": 1669627538,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 129895,
       "num": 129895,
       "word": "余宇涵晒自拍说阿根廷赢了",
@@ -1969,6 +2001,14 @@
       "onboard_time": 1669571121,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 116795,
+      "num": 116795,
+      "word": "熊孩子卡手专心吃干脆面压惊",
+      "onboard_time": 1669627594,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 115089,
