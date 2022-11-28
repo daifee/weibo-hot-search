@@ -1,6 +1,6 @@
 {
   "startTime": 1669652614385,
-  "endTime": 1669655919504,
+  "endTime": 1669656958352,
   "band_list": [
     {
       "raw_hot": 4130825,
@@ -139,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 453737,
+      "num": 453737,
+      "word": "巴西 传球",
+      "onboard_time": 1669653804,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 443552,
       "num": 443552,
       "word": "李薇成为正夫人",
@@ -161,14 +169,6 @@
       "onboard_time": 1669652131,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 382917,
-      "num": 382917,
-      "word": "巴西 传球",
-      "onboard_time": 1669653804,
-      "rank": 11,
-      "category": "体育"
     },
     {
       "raw_hot": 376901,
@@ -243,6 +243,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 251104,
+      "num": 251104,
+      "word": "巴西半场0比0瑞士",
+      "onboard_time": 1669654705,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 250054,
+      "num": 250054,
+      "word": "男孩10元零花钱给小甜甜花8元",
+      "onboard_time": 1669652549,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 249619,
       "num": 249619,
       "word": "尹岐上官婧和离",
@@ -265,14 +281,6 @@
       "onboard_time": 1669650339,
       "rank": 31,
       "category": "美食"
-    },
-    {
-      "raw_hot": 232113,
-      "num": 232113,
-      "word": "男孩10元零花钱给小甜甜花8元",
-      "onboard_time": 1669652549,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 199445,
@@ -387,14 +395,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 155393,
-      "num": 155393,
-      "word": "巴西半场0比0瑞士",
-      "onboard_time": 1669654705,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 149079,
       "num": 149079,
       "word": "好的爱情是能相互治愈的",
@@ -457,6 +457,14 @@
       "onboard_time": 1669635871,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 63975,
+      "num": 63975,
+      "word": "女儿不满房产分配纵火烧父母房",
+      "onboard_time": 1669656860,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 24483,

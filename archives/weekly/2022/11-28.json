@@ -1,6 +1,6 @@
 {
   "startTime": 1669566398830,
-  "endTime": 1669655919504,
+  "endTime": 1669656958352,
   "band_list": [
     {
       "raw_hot": 11045761,
@@ -1163,6 +1163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 453737,
+      "num": 453737,
+      "word": "巴西 传球",
+      "onboard_time": 1669653804,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 450905,
       "num": 450905,
       "word": "李黛辞职",
@@ -1385,14 +1393,6 @@
       "onboard_time": 1669612417,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 382917,
-      "num": 382917,
-      "word": "巴西 传球",
-      "onboard_time": 1669653804,
-      "rank": 11,
-      "category": "体育"
     },
     {
       "raw_hot": 380278,
@@ -2099,6 +2099,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 251104,
+      "num": 251104,
+      "word": "巴西半场0比0瑞士",
+      "onboard_time": 1669654705,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 251006,
       "num": 251006,
       "word": "女子生日收到香菜蛋糕",
@@ -2113,6 +2121,14 @@
       "onboard_time": 1669607680,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 250054,
+      "num": 250054,
+      "word": "男孩10元零花钱给小甜甜花8元",
+      "onboard_time": 1669652549,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 249219,
@@ -2265,14 +2281,6 @@
       "onboard_time": 1669621172,
       "rank": 28,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 232113,
-      "num": 232113,
-      "word": "男孩10元零花钱给小甜甜花8元",
-      "onboard_time": 1669652549,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 229301,
@@ -2827,14 +2835,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 155393,
-      "num": 155393,
-      "word": "巴西半场0比0瑞士",
-      "onboard_time": 1669654705,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 155043,
       "num": 155043,
       "word": "郭晓婷复古港风珍珠发带造型",
@@ -3273,6 +3273,14 @@
       "onboard_time": 1669582994,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 63975,
+      "num": 63975,
+      "word": "女儿不满房产分配纵火烧父母房",
+      "onboard_time": 1669656860,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 39269,
