@@ -1,0 +1,410 @@
+{
+  "runTime": 1669613682726,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4079681,
+        "num": 4079681,
+        "word": "多地核酸检测通知发生变化",
+        "onboard_time": 1669604796,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2056968,
+        "num": 2056968,
+        "word": "国考延期",
+        "onboard_time": 1669604673,
+        "rank": 1,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 36904,
+        "num": 1898450,
+        "word": "神十五航天员乘组确定",
+        "onboard_time": 1669613436,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1864619,
+        "num": 1864619,
+        "word": "考研",
+        "onboard_time": 1669606961,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1675856,
+        "num": 1675856,
+        "word": "麻六记背后的代工生意",
+        "onboard_time": 1669610563,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1436941,
+        "num": 1436941,
+        "word": "警方回应网传一女子被12人轮流棍击",
+        "onboard_time": 1669611460,
+        "rank": 5,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1381677,
+        "num": 1381677,
+        "word": "核子华曦部分公司近3个月内成立",
+        "onboard_time": 1669609240,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1086937,
+        "num": 1086937,
+        "word": "张颜齐去卡塔尔看球了",
+        "onboard_time": 1669606660,
+        "rank": 7,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 1033034,
+        "num": 1033034,
+        "word": "考研会延期吗",
+        "onboard_time": 1669610563,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 820647,
+        "num": 820647,
+        "word": "卿卿日常最大反派安曦元来了",
+        "onboard_time": 1669607978,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 755748,
+        "num": 755748,
+        "word": "龚俊把头发吹成猫耳",
+        "onboard_time": 1669612716,
+        "rank": 10,
+        "category": "作品衍生,综艺"
+      },
+      {
+        "raw_hot": 653437,
+        "num": 653437,
+        "word": "奥密克戎变异株2到3天传一代",
+        "onboard_time": 1669596034,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 642005,
+        "num": 642005,
+        "word": "小伙娶见义勇为女孩为妻照顾34年",
+        "onboard_time": 1669607563,
+        "rank": 12,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 605057,
+        "num": 605057,
+        "word": "港片去掉磨皮滤镜的颜值",
+        "onboard_time": 1669610381,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 591672,
+        "num": 591672,
+        "word": "一核酸公司实控人今年注册16家核酸机构",
+        "onboard_time": 1669562921,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 586238,
+        "num": 586238,
+        "word": "四六级",
+        "onboard_time": 1669606478,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 540075,
+        "num": 540075,
+        "word": "邓清明同志简历",
+        "onboard_time": 1669610146,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 488545,
+        "num": 488545,
+        "word": "高校否认征用学生宿舍当隔离点",
+        "onboard_time": 1669609059,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 465992,
+        "num": 465992,
+        "word": "高三女生上课总睡着竟是患罕见病",
+        "onboard_time": 1669604796,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 383732,
+        "num": 383732,
+        "word": "美国vs伊朗主裁判公布",
+        "onboard_time": 1669600893,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 427114,
+        "num": 382359,
+        "word": "杭州打雷",
+        "onboard_time": 1669607618,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335006,
+        "num": 335006,
+        "word": "如果不考虑职业歧视和薪资",
+        "onboard_time": 1669611700,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 319104,
+        "num": 319104,
+        "word": "大连理工博士为救重病儿子休学",
+        "onboard_time": 1669605877,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315030,
+        "num": 315030,
+        "word": "45岁妈妈一年考2本证书",
+        "onboard_time": 1669605456,
+        "rank": 23,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 312199,
+        "num": 312199,
+        "word": "中国球迷是最全球化的球迷",
+        "onboard_time": 1669608941,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 307796,
+        "num": 307796,
+        "word": "00后开始整顿球场了",
+        "onboard_time": 1669608638,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 275481,
+        "num": 275481,
+        "word": "江苏省考",
+        "onboard_time": 1669611520,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 19827,
+        "num": 271240,
+        "word": "神十五已做好出征准备",
+        "onboard_time": 1669532010,
+        "rank": 27,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 267511,
+        "num": 267511,
+        "word": "杨紫贺顿治愈六宫格剧照",
+        "onboard_time": 1669612417,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 267234,
+        "num": 267234,
+        "word": "00后球迷为看球让内马尔帮忙请假",
+        "onboard_time": 1669608765,
+        "rank": 29,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 266327,
+        "num": 266327,
+        "word": "法考",
+        "onboard_time": 1669610019,
+        "rank": 30,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 250606,
+        "num": 250606,
+        "word": "重庆新增本土确诊238例无症状9447例",
+        "onboard_time": 1669597116,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240180,
+        "num": 240180,
+        "word": "省考",
+        "onboard_time": 1669611942,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 236140,
+        "num": 236140,
+        "word": "华晨宇筹备三年演唱会和以前的区别",
+        "onboard_time": 1669613436,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 224972,
+        "num": 224972,
+        "word": "小鸟撞车男子持续按压心脏救活",
+        "onboard_time": 1669605699,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224264,
+        "num": 224264,
+        "word": "MAMA四代女团合作剧透",
+        "onboard_time": 1669606116,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 221838,
+        "num": 221838,
+        "word": "林允儿连续8年担任mc",
+        "onboard_time": 1669604673,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 196809,
+        "num": 196809,
+        "word": "唐梓哭出声",
+        "onboard_time": 1669592968,
+        "rank": 37,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 191301,
+        "num": 191301,
+        "word": "国产ModelY售价全球最低",
+        "onboard_time": 1669602812,
+        "rank": 38,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 186134,
+        "num": 186134,
+        "word": "网友许愿诛仙番外复活碧瑶",
+        "onboard_time": 1669613074,
+        "rank": 39,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 181766,
+        "num": 181766,
+        "word": "唐梓预测唯一对的一次",
+        "onboard_time": 1669606478,
+        "rank": 40,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 170430,
+        "num": 170430,
+        "word": "SuperJunior新专概念照",
+        "onboard_time": 1669607680,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 169872,
+        "num": 169872,
+        "word": "钉钉",
+        "onboard_time": 1669604371,
+        "rank": 42,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 164720,
+        "num": 164720,
+        "word": "19岁女生减肥催吐致进食障碍",
+        "onboard_time": 1669613496,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160550,
+        "num": 160550,
+        "word": "吴镇宇反思被梅西进球",
+        "onboard_time": 1669613316,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159226,
+        "num": 159226,
+        "word": "热力公司怼居民称凭啥给你热下去",
+        "onboard_time": 1669602751,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153347,
+        "num": 153347,
+        "word": "什么情况下需戴N95口罩",
+        "onboard_time": 1669602812,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202110,
+        "num": 152283,
+        "word": "杨幂许凯爱的二八定律婚礼剧照",
+        "onboard_time": 1669607199,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 159618,
+        "num": 152005,
+        "word": "米卢说加维会成为下一个梅西",
+        "onboard_time": 1669612658,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150950,
+        "num": 150950,
+        "word": "果然喜欢猫咪不分年龄",
+        "onboard_time": 1669604252,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#严禁随意封控等各类层层加码行为#"
+    }
+  }
+}

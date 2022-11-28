@@ -1,6 +1,6 @@
 {
   "startTime": 1669566398830,
-  "endTime": 1669612713100,
+  "endTime": 1669613682726,
   "band_list": [
     {
       "raw_hot": 11045761,
@@ -99,8 +99,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1657248,
-      "num": 1657248,
+      "raw_hot": 1675856,
+      "num": 1675856,
       "word": "麻六记背后的代工生意",
       "onboard_time": 1669610563,
       "rank": 4,
@@ -139,12 +139,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1436941,
+      "num": 1436941,
+      "word": "警方回应网传一女子被12人轮流棍击",
+      "onboard_time": 1669611460,
+      "rank": 10,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1410153,
       "num": 1410153,
       "word": "唐梓哭出声",
       "onboard_time": 1669592968,
       "rank": 4,
       "category": "体育,网红"
+    },
+    {
+      "raw_hot": 1381677,
+      "num": 1381677,
+      "word": "核子华曦部分公司近3个月内成立",
+      "onboard_time": 1669609240,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1261827,
@@ -155,28 +171,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1261692,
-      "num": 1261692,
-      "word": "核子华曦部分公司近3个月内成立",
-      "onboard_time": 1669609240,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1216710,
       "num": 1216710,
       "word": "北京增本土确诊840例",
       "onboard_time": 1669595495,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1096540,
-      "num": 776630,
-      "word": "警方回应网传一女子被12人轮流棍击",
-      "onboard_time": 1669611460,
-      "rank": 10,
-      "category": "社会负面"
     },
     {
       "raw_hot": 1090044,
@@ -195,8 +195,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1028180,
-      "num": 1028180,
+      "raw_hot": 1033034,
+      "num": 1033034,
       "word": "考研会延期吗",
       "onboard_time": 1669610563,
       "rank": 7,
@@ -233,6 +233,14 @@
       "onboard_time": 1669562025,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 755748,
+      "num": 755748,
+      "word": "龚俊把头发吹成猫耳",
+      "onboard_time": 1669612716,
+      "rank": 10,
+      "category": "作品衍生,综艺"
     },
     {
       "raw_hot": 751838,
@@ -331,6 +339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 605057,
+      "num": 605057,
+      "word": "港片去掉磨皮滤镜的颜值",
+      "onboard_time": 1669610381,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 589917,
       "num": 589917,
       "word": "7岁女孩高烧一周被确诊亲吻病",
@@ -360,6 +376,14 @@
       "word": "在科学认识病毒的基础上做好防疫",
       "onboard_time": 1669597719,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 540075,
+      "num": 540075,
+      "word": "邓清明同志简历",
+      "onboard_time": 1669610146,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -403,14 +427,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 478036,
-      "num": 478036,
-      "word": "港片去掉磨皮滤镜的颜值",
-      "onboard_time": 1669610381,
-      "rank": 46,
-      "category": "影视"
-    },
-    {
       "raw_hot": 475963,
       "num": 475963,
       "word": "朱一龙周一怼脸侧颜随拍",
@@ -441,14 +457,6 @@
       "onboard_time": 1669576452,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 460254,
-      "num": 460254,
-      "word": "邓清明同志简历",
-      "onboard_time": 1669610146,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 459650,
@@ -651,6 +659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 335006,
+      "num": 335006,
+      "word": "如果不考虑职业歧视和薪资",
+      "onboard_time": 1669611700,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 334641,
       "num": 297469,
       "word": "RedVelvet新专辑预售量突破71万张",
@@ -811,6 +827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 275481,
+      "num": 275481,
+      "word": "江苏省考",
+      "onboard_time": 1669611520,
+      "rank": 33,
+      "category": "教育"
+    },
+    {
       "raw_hot": 273990,
       "num": 273990,
       "word": "BLG",
@@ -867,14 +891,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 251844,
-      "num": 251844,
-      "word": "江苏省考",
-      "onboard_time": 1669611520,
-      "rank": 33,
-      "category": "教育"
-    },
-    {
       "raw_hot": 251484,
       "num": 251484,
       "word": "六名中国航天员将在太空交接班",
@@ -889,14 +905,6 @@
       "onboard_time": 1669607680,
       "rank": 27,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 248867,
-      "num": 248867,
-      "word": "如果不考虑职业歧视和薪资",
-      "onboard_time": 1669611700,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 243686,
@@ -923,6 +931,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 240180,
+      "num": 240180,
+      "word": "省考",
+      "onboard_time": 1669611942,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
       "raw_hot": 239032,
       "num": 239032,
       "word": "北京四六级笔试延期举行",
@@ -945,6 +961,14 @@
       "onboard_time": 1669597596,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 236140,
+      "num": 236140,
+      "word": "华晨宇筹备三年演唱会和以前的区别",
+      "onboard_time": 1669613436,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 235139,
@@ -993,14 +1017,6 @@
       "onboard_time": 1669579273,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 221198,
-      "num": 221198,
-      "word": "省考",
-      "onboard_time": 1669611942,
-      "rank": 36,
-      "category": "教育"
     },
     {
       "raw_hot": 219009,
@@ -1081,6 +1097,14 @@
       "onboard_time": 1669603533,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 186134,
+      "num": 186134,
+      "word": "网友许愿诛仙番外复活碧瑶",
+      "onboard_time": 1669613074,
+      "rank": 39,
+      "category": "动漫"
     },
     {
       "raw_hot": 183524,
@@ -1169,6 +1193,22 @@
       "onboard_time": 1669565563,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 164720,
+      "num": 164720,
+      "word": "19岁女生减肥催吐致进食障碍",
+      "onboard_time": 1669613496,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 160550,
+      "num": 160550,
+      "word": "吴镇宇反思被梅西进球",
+      "onboard_time": 1669613316,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 159538,
@@ -1409,11 +1449,22 @@
       "onboard_time": 1669532010,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 36904,
+      "num": 1898450,
+      "word": "神十五航天员乘组确定",
+      "onboard_time": 1669613436,
+      "rank": 2,
+      "category": "国内要闻"
     }
   ],
   "hotgov_list": [
     {
       "word": "#坚定信心抓实抓细疫情防控各项工作#"
+    },
+    {
+      "word": "#严禁随意封控等各类层层加码行为#"
     }
   ]
 }
