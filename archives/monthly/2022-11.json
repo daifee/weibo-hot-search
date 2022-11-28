@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1669649613932,
+  "endTime": 1669652614385,
   "band_list": [
     {
       "raw_hot": 36651023,
@@ -321,6 +321,14 @@
       "onboard_time": 1668259358,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 4130825,
+      "num": 4130825,
+      "word": "韩国教练 红牌",
+      "onboard_time": 1669648720,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 4058434,
@@ -1297,14 +1305,6 @@
       "onboard_time": 1668386310,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2328254,
-      "num": 2328254,
-      "word": "韩国教练 红牌",
-      "onboard_time": 1669648720,
-      "rank": 0,
-      "category": "体育"
     },
     {
       "raw_hot": 2327722,
@@ -3681,6 +3681,14 @@
       "onboard_time": 1668319048,
       "rank": 10,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 1426847,
+      "num": 1426847,
+      "word": "唐梓说终于塌房了",
+      "onboard_time": 1669649257,
+      "rank": 19,
+      "category": "体育,网红"
     },
     {
       "raw_hot": 1424659,
@@ -6851,6 +6859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 937731,
+      "num": 937731,
+      "word": "韩国全队围攻主裁",
+      "onboard_time": 1669650395,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 936868,
       "num": 936868,
       "word": "王鹤棣说当队长没问题",
@@ -9315,6 +9331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 755983,
+      "num": 755983,
+      "word": "没有内马尔",
+      "onboard_time": 1669652370,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 755945,
       "num": 755945,
       "word": "上厕所玩手机容易引发多种疾病",
@@ -9729,6 +9753,14 @@
       "onboard_time": 1668398249,
       "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 738102,
+      "num": 738102,
+      "word": "巴西vs瑞士",
+      "onboard_time": 1669648303,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 738089,
@@ -16507,6 +16539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 504177,
+      "num": 504177,
+      "word": "真的有人穿什么都好看",
+      "onboard_time": 1669648542,
+      "rank": 47,
+      "category": "幽默,时尚"
+    },
+    {
       "raw_hot": 504116,
       "num": 504116,
       "word": "高校否认征用学生宿舍当隔离点",
@@ -18457,14 +18497,6 @@
       "onboard_time": 1668045925,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 463842,
-      "num": 463842,
-      "word": "唐梓说终于塌房了",
-      "onboard_time": 1669649257,
-      "rank": 19,
-      "category": "体育,网红"
     },
     {
       "raw_hot": 463692,
@@ -23291,14 +23323,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 382380,
-      "num": 382380,
-      "word": "巴西vs瑞士",
-      "onboard_time": 1669648303,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 381910,
       "num": 381910,
       "word": "刘令姿古装vs旗袍",
@@ -23457,6 +23481,14 @@
       "onboard_time": 1669619012,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 379576,
+      "num": 379576,
+      "word": "黄健翔预测C罗不会进球",
+      "onboard_time": 1669650698,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 379398,
@@ -24235,14 +24267,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 367575,
-      "num": 321690,
-      "word": "真的有人穿什么都好看",
-      "onboard_time": 1669648542,
-      "rank": 47,
-      "category": "幽默,时尚"
-    },
-    {
       "raw_hot": 367483,
       "num": 367483,
       "word": "田耕纪官宣",
@@ -24433,6 +24457,14 @@
       "onboard_time": 1667804485,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 364870,
+      "num": 364870,
+      "word": "你永远可以相信周深的现场",
+      "onboard_time": 1669650033,
+      "rank": 19,
+      "category": "音乐"
     },
     {
       "raw_hot": 364790,
@@ -33179,6 +33211,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 266344,
+      "num": 266344,
+      "word": "韩国将面对葡萄牙队",
+      "onboard_time": 1669652131,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 266252,
       "num": 266252,
       "word": "男子投喂鳄鱼即兴唱歌引发踩踏",
@@ -33305,6 +33345,14 @@
       "onboard_time": 1669086750,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 265195,
+      "num": 265195,
+      "word": "没给韩国角球",
+      "onboard_time": 1669649917,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 264977,
@@ -35969,6 +36017,14 @@
       "onboard_time": 1669396591,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 237975,
+      "num": 237975,
+      "word": "解封后你想吃什么呢",
+      "onboard_time": 1669650339,
+      "rank": 31,
+      "category": "美食"
     },
     {
       "raw_hot": 237929,
@@ -44035,6 +44091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 184592,
+      "num": 184592,
+      "word": "威神V直播状态",
+      "onboard_time": 1669650096,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 184577,
       "num": 184577,
       "word": "对美国女友讲一整天的英国口音",
@@ -44065,6 +44129,14 @@
       "onboard_time": 1667379208,
       "rank": 28,
       "category": "游戏,幽默"
+    },
+    {
+      "raw_hot": 184459,
+      "num": 184459,
+      "word": "卢昱晓被玉骨遥导演评价是合格演员",
+      "onboard_time": 1669649615,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 184415,
@@ -45707,6 +45779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 174260,
+      "num": 174260,
+      "word": "曾可妮翻唱你说你还不了",
+      "onboard_time": 1669649917,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 174175,
       "num": 174175,
       "word": "大理寺日志2动画",
@@ -45729,6 +45809,14 @@
       "onboard_time": 1669247912,
       "rank": 45,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 174007,
+      "num": 174007,
+      "word": "原来情敌也能变情人",
+      "onboard_time": 1669651950,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 173989,
@@ -46969,6 +47057,14 @@
       "onboard_time": 1668490288,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 165965,
+      "num": 165965,
+      "word": "巴颖",
+      "onboard_time": 1669652131,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 165961,
@@ -55249,6 +55345,14 @@
       "onboard_time": 1667779227,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 121931,
+      "num": 131326,
+      "word": "男孩10元零花钱给小甜甜花8元",
+      "onboard_time": 1669652549,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 121924,
