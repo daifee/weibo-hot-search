@@ -1,6 +1,6 @@
 {
   "startTime": 1669652614385,
-  "endTime": 1669670278240,
+  "endTime": 1669671232066,
   "band_list": [
     {
       "raw_hot": 4130825,
@@ -129,6 +129,14 @@
       "onboard_time": 1669640915,
       "rank": 11,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 519360,
+      "num": 519360,
+      "word": "C罗碰到球了吗",
+      "onboard_time": 1669669632,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 509858,
@@ -451,14 +459,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 164658,
-      "num": 81395,
-      "word": "C罗碰到球了吗",
-      "onboard_time": 1669669632,
-      "rank": 10,
-      "category": "体育"
-    },
-    {
       "raw_hot": 158150,
       "num": 97438,
       "word": "本泽马已康复",
@@ -571,6 +571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 72976,
+      "num": 72976,
+      "word": "1岁娃被猫抓伤反复高烧患猫抓病",
+      "onboard_time": 1669668372,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 64241,
       "num": 31478,
       "word": "葡萄牙半场0比0乌拉圭",
@@ -587,19 +595,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 54400,
-      "num": 54400,
-      "word": "1岁娃被猫抓伤反复高烧患猫抓病",
-      "onboard_time": 1669668372,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 51917,
       "num": 51917,
       "word": "巴西球迷旗帜上写想你内马尔",
       "onboard_time": 1669664712,
       "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 24985,
+      "num": 24985,
+      "word": "葡萄牙2比0乌拉圭",
+      "onboard_time": 1669671014,
+      "rank": 40,
       "category": "体育"
     },
     {
