@@ -1,6 +1,6 @@
 {
   "startTime": 1669566398830,
-  "endTime": 1669642205748,
+  "endTime": 1669642916742,
   "band_list": [
     {
       "raw_hot": 11045761,
@@ -123,8 +123,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1912517,
+      "num": 1912517,
+      "word": "韩国vs加纳",
+      "onboard_time": 1669637497,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1903536,
-      "num": 1261861,
+      "num": 1280675,
       "word": "远嫁女子孕期遭家暴娘家上门接回家",
       "onboard_time": 1669635938,
       "rank": 4,
@@ -283,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1201402,
+      "num": 1201402,
+      "word": "多家麻六记门店称人气大涨",
+      "onboard_time": 1669639775,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1188696,
       "num": 1188696,
       "word": "难听",
@@ -307,6 +323,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 1125939,
+      "num": 1125939,
+      "word": "李薇成为正夫人",
+      "onboard_time": 1669639957,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1123858,
       "num": 1123858,
       "word": "喀麦隆3比3塞尔维亚",
@@ -321,6 +345,14 @@
       "onboard_time": 1669630113,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1105340,
+      "num": 1079955,
+      "word": "尹岐上官婧和离",
+      "onboard_time": 1669639413,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 1104848,
@@ -345,14 +377,6 @@
       "onboard_time": 1669634135,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1079955,
-      "num": 1079955,
-      "word": "尹岐上官婧和离",
-      "onboard_time": 1669639413,
-      "rank": 8,
-      "category": "影视"
     },
     {
       "raw_hot": 1068914,
@@ -411,14 +435,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 922385,
-      "num": 922385,
-      "word": "李薇成为正夫人",
-      "onboard_time": 1669639957,
-      "rank": 20,
-      "category": "影视"
-    },
-    {
       "raw_hot": 894132,
       "num": 894132,
       "word": "潘粤明世界杯七次预测全中",
@@ -441,14 +457,6 @@
       "onboard_time": 1669599272,
       "rank": 16,
       "category": "体育,网红"
-    },
-    {
-      "raw_hot": 873330,
-      "num": 873330,
-      "word": "多家麻六记门店称人气大涨",
-      "onboard_time": 1669639775,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 843374,
@@ -504,14 +512,6 @@
       "word": "克罗地亚vs加拿大",
       "onboard_time": 1669562025,
       "rank": 5,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 774866,
-      "num": 774866,
-      "word": "韩国vs加纳",
-      "onboard_time": 1669637497,
-      "rank": 28,
       "category": "体育"
     },
     {
@@ -683,6 +683,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 589970,
+      "num": 589970,
+      "word": "关晓彤杂志销量",
+      "onboard_time": 1669641455,
+      "rank": 17,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 589917,
       "num": 589917,
       "word": "7岁女孩高烧一周被确诊亲吻病",
@@ -696,6 +704,14 @@
       "word": "顾客点龙虾做标记上菜后发现被换",
       "onboard_time": 1669623754,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 578028,
+      "num": 578028,
+      "word": "杭州中学生打败麻省理工学霸",
+      "onboard_time": 1669640435,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -793,6 +809,14 @@
       "onboard_time": 1669604673,
       "rank": 20,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 509962,
+      "num": 225437,
+      "word": "事实证明洗脚盆不能买折叠的",
+      "onboard_time": 1669640915,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 505292,
@@ -915,11 +939,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 459284,
-      "num": 459284,
-      "word": "杭州中学生打败麻省理工学霸",
-      "onboard_time": 1669640435,
-      "rank": 15,
+      "raw_hot": 457982,
+      "num": 457982,
+      "word": "寻找15岁少年胡某宇",
+      "onboard_time": 1669639353,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -971,14 +995,6 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 438117,
-      "num": 225437,
-      "word": "事实证明洗脚盆不能买折叠的",
-      "onboard_time": 1669640915,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 436531,
       "num": 421269,
       "word": "桂林一医生被指急诊室猥亵患者",
@@ -1025,14 +1041,6 @@
       "onboard_time": 1669613854,
       "rank": 17,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 427948,
-      "num": 427948,
-      "word": "关晓彤杂志销量",
-      "onboard_time": 1669641455,
-      "rank": 17,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 423272,
@@ -1107,20 +1115,20 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 403149,
-      "num": 403149,
-      "word": "寻找15岁少年胡某宇",
-      "onboard_time": 1669639353,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 401753,
       "num": 401753,
       "word": "尹峥尹岐去了甘棠驿",
       "onboard_time": 1669561905,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 400880,
+      "num": 400880,
+      "word": "梅西和内马尔的配合有多默契",
+      "onboard_time": 1669640737,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 391181,
@@ -1355,6 +1363,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 332339,
+      "num": 332339,
+      "word": "罗云熙用车被安装跟踪定位器",
+      "onboard_time": 1669642594,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 329889,
       "num": 329889,
       "word": "南京一医院接连收治多例柿石症患者",
@@ -1369,6 +1385,14 @@
       "onboard_time": 1669608765,
       "rank": 28,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 329552,
+      "num": 329552,
+      "word": "加纳进球",
+      "onboard_time": 1669642419,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 327872,
@@ -1408,14 +1432,6 @@
       "word": "中国球迷是最全球化的球迷",
       "onboard_time": 1669608941,
       "rank": 41,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 322609,
-      "num": 322609,
-      "word": "梅西和内马尔的配合有多默契",
-      "onboard_time": 1669640737,
-      "rank": 25,
       "category": "体育"
     },
     {
@@ -1508,7 +1524,7 @@
     },
     {
       "raw_hot": 306744,
-      "num": 219900,
+      "num": 222808,
       "word": "高见鸿抄袭李峋的创意",
       "onboard_time": 1669642115,
       "rank": 32,
@@ -1931,6 +1947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 229078,
+      "num": 229078,
+      "word": "要一辈子友情还是半年爱情",
+      "onboard_time": 1669641937,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 225151,
       "num": 225151,
       "word": "陌生人带走自闭症男孩同学上前阻拦",
@@ -2075,12 +2099,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 199343,
+      "num": 199343,
+      "word": "核子基因多次被罚仍中标核酸检测项目",
+      "onboard_time": 1669642900,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 196721,
       "num": 196721,
       "word": "吴镇宇回应世界杯表现",
       "onboard_time": 1669620271,
       "rank": 36,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 195881,
+      "num": 195881,
+      "word": "你愿意花几年考研上岸",
+      "onboard_time": 1669642419,
+      "rank": 41,
+      "category": "教育"
     },
     {
       "raw_hot": 195853,
@@ -2275,6 +2315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 173916,
+      "num": 173916,
+      "word": "李国庆称张兰是他尊敬的企业家",
+      "onboard_time": 1669642656,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 172911,
       "num": 172911,
       "word": "米卢说加维会成为下一个梅西",
@@ -2289,14 +2337,6 @@
       "onboard_time": 1669633475,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 172319,
-      "num": 172319,
-      "word": "要一辈子友情还是半年爱情",
-      "onboard_time": 1669641937,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 171838,
@@ -2409,6 +2449,14 @@
       "onboard_time": 1669620631,
       "rank": 47,
       "category": "军事"
+    },
+    {
+      "raw_hot": 161656,
+      "num": 161656,
+      "word": "女子在家被呛竟是有人楼梯间烧纸",
+      "onboard_time": 1669642594,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 159538,
@@ -2835,8 +2883,8 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 12251,
-      "num": 1144639,
+      "raw_hot": 22456,
+      "num": 1285131,
       "word": "100秒重温神十五航天员真挚发言",
       "onboard_time": 1669621472,
       "rank": 2,
