@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1669652614385,
+  "endTime": 1669653630219,
   "band_list": [
     {
       "raw_hot": 36651023,
@@ -3923,6 +3923,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 1358507,
+      "num": 1358507,
+      "word": "没有内马尔",
+      "onboard_time": 1669652370,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1354579,
       "num": 789868,
       "word": "3周大女婴肚子里取出8个寄生胎",
@@ -4849,6 +4857,14 @@
       "onboard_time": 1668737787,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1169159,
+      "num": 1169159,
+      "word": "韩国全队围攻主裁",
+      "onboard_time": 1669650395,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 1168502,
@@ -6856,14 +6872,6 @@
       "word": "墨西哥球迷大喊梅西回家",
       "onboard_time": 1669490956,
       "rank": 33,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 937731,
-      "num": 937731,
-      "word": "韩国全队围攻主裁",
-      "onboard_time": 1669650395,
-      "rank": 4,
       "category": "体育"
     },
     {
@@ -9329,14 +9337,6 @@
       "onboard_time": 1668987145,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 755983,
-      "num": 755983,
-      "word": "没有内马尔",
-      "onboard_time": 1669652370,
-      "rank": 6,
-      "category": "体育"
     },
     {
       "raw_hot": 755945,
@@ -15347,6 +15347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 530723,
+      "num": 530723,
+      "word": "韩国将面对葡萄牙队",
+      "onboard_time": 1669652131,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 530410,
       "num": 530410,
       "word": "研究发现妊娠影响女性大脑结构与功能",
@@ -16339,6 +16347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 509858,
+      "num": 509858,
+      "word": "真的有人穿什么都好看",
+      "onboard_time": 1669648542,
+      "rank": 47,
+      "category": "幽默,时尚"
+    },
+    {
       "raw_hot": 509208,
       "num": 509208,
       "word": "道枝骏佑荧屏初吻",
@@ -16537,14 +16553,6 @@
       "onboard_time": 1667624367,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 504177,
-      "num": 504177,
-      "word": "真的有人穿什么都好看",
-      "onboard_time": 1669648542,
-      "rank": 47,
-      "category": "幽默,时尚"
     },
     {
       "raw_hot": 504116,
@@ -17177,6 +17185,14 @@
       "onboard_time": 1667823083,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 489850,
+      "num": 489850,
+      "word": "黄健翔预测C罗不会进球",
+      "onboard_time": 1669650698,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 489839,
@@ -23481,14 +23497,6 @@
       "onboard_time": 1669619012,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 379576,
-      "num": 379576,
-      "word": "黄健翔预测C罗不会进球",
-      "onboard_time": 1669650698,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 379398,
@@ -30475,6 +30483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 293167,
+      "num": 293167,
+      "word": "巴颖",
+      "onboard_time": 1669652131,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 293139,
       "num": 293139,
       "word": "这样走路腿真的会瘦",
@@ -33209,14 +33225,6 @@
       "onboard_time": 1667797832,
       "rank": 25,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 266344,
-      "num": 266344,
-      "word": "韩国将面对葡萄牙队",
-      "onboard_time": 1669652131,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 266252,
@@ -47059,14 +47067,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 165965,
-      "num": 165965,
-      "word": "巴颖",
-      "onboard_time": 1669652131,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 165961,
       "num": 165961,
       "word": "做好住院床位和重症床位准备",
@@ -49355,6 +49355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 153031,
+      "num": 153031,
+      "word": "男孩10元零花钱给小甜甜花8元",
+      "onboard_time": 1669652549,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 153029,
       "num": 153029,
       "word": "反应迟钝的小猫咪",
@@ -49931,6 +49939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 149079,
+      "num": 149079,
+      "word": "好的爱情是能相互治愈的",
+      "onboard_time": 1669653206,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 149053,
       "num": 124359,
       "word": "披荆斩棘",
@@ -50337,6 +50353,14 @@
       "onboard_time": 1667604321,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147441,
+      "num": 147441,
+      "word": "韩国教练是葡萄牙人",
+      "onboard_time": 1669653028,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 147411,
@@ -55347,14 +55371,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 121931,
-      "num": 131326,
-      "word": "男孩10元零花钱给小甜甜花8元",
-      "onboard_time": 1669652549,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 121924,
       "num": 121924,
       "word": "学校给优秀学生奖励1人2斤猪肉",
@@ -57225,6 +57241,14 @@
       "onboard_time": 1668442825,
       "rank": 49,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 110476,
+      "num": 110476,
+      "word": "巴西首发",
+      "onboard_time": 1669653266,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 110439,

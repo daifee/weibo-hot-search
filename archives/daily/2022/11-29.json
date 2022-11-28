@@ -1,6 +1,6 @@
 {
   "startTime": 1669652614385,
-  "endTime": 1669652614385,
+  "endTime": 1669653630219,
   "band_list": [
     {
       "raw_hot": 4130825,
@@ -19,6 +19,14 @@
       "category": "体育,网红"
     },
     {
+      "raw_hot": 1358507,
+      "num": 1358507,
+      "word": "没有内马尔",
+      "onboard_time": 1669652370,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1239311,
       "num": 1239311,
       "word": "韩国后卫好像提前飞回国了",
@@ -27,8 +35,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 937731,
-      "num": 937731,
+      "raw_hot": 1169159,
+      "num": 1169159,
       "word": "韩国全队围攻主裁",
       "onboard_time": 1669650395,
       "rank": 4,
@@ -41,14 +49,6 @@
       "onboard_time": 1669644873,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 755983,
-      "num": 755983,
-      "word": "没有内马尔",
-      "onboard_time": 1669652370,
-      "rank": 6,
-      "category": "体育"
     },
     {
       "raw_hot": 738102,
@@ -83,6 +83,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 530723,
+      "num": 530723,
+      "word": "韩国将面对葡萄牙队",
+      "onboard_time": 1669652131,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 528440,
       "num": 528440,
       "word": "事实证明洗脚盆不能买折叠的",
@@ -99,6 +107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 509858,
+      "num": 509858,
+      "word": "真的有人穿什么都好看",
+      "onboard_time": 1669648542,
+      "rank": 14,
+      "category": "幽默,时尚"
+    },
+    {
       "raw_hot": 506755,
       "num": 506755,
       "word": "核子基因多次被罚仍中标核酸检测项目",
@@ -107,12 +123,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 504177,
-      "num": 504177,
-      "word": "真的有人穿什么都好看",
-      "onboard_time": 1669648542,
-      "rank": 14,
-      "category": "幽默,时尚"
+      "raw_hot": 496315,
+      "num": 496315,
+      "word": "北京疫情发布会",
+      "onboard_time": 1669651591,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 489850,
+      "num": 489850,
+      "word": "黄健翔预测C罗不会进球",
+      "onboard_time": 1669650698,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 443552,
@@ -129,14 +153,6 @@
       "onboard_time": 1669631253,
       "rank": 16,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 379576,
-      "num": 379576,
-      "word": "黄健翔预测C罗不会进球",
-      "onboard_time": 1669650698,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 376901,
@@ -171,6 +187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 293167,
+      "num": 293167,
+      "word": "巴颖",
+      "onboard_time": 1669652131,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 281179,
       "num": 281179,
       "word": "Nuguri退役",
@@ -193,22 +217,6 @@
       "onboard_time": 1669646255,
       "rank": 24,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 271136,
-      "num": 271136,
-      "word": "北京疫情发布会",
-      "onboard_time": 1669651591,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 266344,
-      "num": 266344,
-      "word": "韩国将面对葡萄牙队",
-      "onboard_time": 1669652131,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 265195,
@@ -355,20 +363,36 @@
       "category": "影视"
     },
     {
-      "raw_hot": 165965,
-      "num": 165965,
-      "word": "巴颖",
-      "onboard_time": 1669652131,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 157121,
       "num": 157121,
       "word": "苹果手机将全迈入全面屏时代",
       "onboard_time": 1669635814,
       "rank": 46,
       "category": "科技"
+    },
+    {
+      "raw_hot": 153031,
+      "num": 153031,
+      "word": "男孩10元零花钱给小甜甜花8元",
+      "onboard_time": 1669652549,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 149079,
+      "num": 149079,
+      "word": "好的爱情是能相互治愈的",
+      "onboard_time": 1669653206,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 147441,
+      "num": 147441,
+      "word": "韩国教练是葡萄牙人",
+      "onboard_time": 1669653028,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 145368,
@@ -387,12 +411,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 121931,
-      "num": 131326,
-      "word": "男孩10元零花钱给小甜甜花8元",
-      "onboard_time": 1669652549,
+      "raw_hot": 110476,
+      "num": 110476,
+      "word": "巴西首发",
+      "onboard_time": 1669653266,
       "rank": 49,
-      "category": "社会新闻"
+      "category": "体育"
     },
     {
       "raw_hot": 24483,
@@ -406,6 +430,9 @@
   "hotgov_list": [
     {
       "word": "#科学精准提高防疫工作的有效性#"
+    },
+    {
+      "word": "#航天新征程#"
     }
   ]
 }
