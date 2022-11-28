@@ -1,0 +1,410 @@
+{
+  "runTime": 1669610473658,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7243603,
+        "num": 7243603,
+        "word": "国考延期",
+        "onboard_time": 1669604673,
+        "rank": 0,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 4535930,
+        "num": 4535930,
+        "word": "多地核酸检测通知发生变化",
+        "onboard_time": 1669604796,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30978,
+        "num": 3403805,
+        "word": "神十五已做好出征准备",
+        "onboard_time": 1669532010,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2777548,
+        "num": 2777548,
+        "word": "考研",
+        "onboard_time": 1669606961,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1763329,
+        "num": 1763329,
+        "word": "张颜齐去卡塔尔看球了",
+        "onboard_time": 1669606660,
+        "rank": 4,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 1287505,
+        "num": 1287505,
+        "word": "四六级",
+        "onboard_time": 1669606478,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1090044,
+        "num": 1090044,
+        "word": "杭州打雷",
+        "onboard_time": 1669607618,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1023427,
+        "num": 1023427,
+        "word": "奥密克戎变异株2到3天传一代",
+        "onboard_time": 1669596034,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 945831,
+        "num": 945831,
+        "word": "卿卿日常最大反派安曦元来了",
+        "onboard_time": 1669607978,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 786507,
+        "num": 786507,
+        "word": "高三女生上课总睡着竟是患罕见病",
+        "onboard_time": 1669604796,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1214333,
+        "num": 761633,
+        "word": "一核酸公司实控人今年注册16家核酸机构",
+        "onboard_time": 1669562921,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 640218,
+        "num": 640218,
+        "word": "大连理工博士为救重病儿子休学",
+        "onboard_time": 1669605877,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 563733,
+        "num": 563733,
+        "word": "小伙娶见义勇为女孩为妻照顾34年",
+        "onboard_time": 1669607563,
+        "rank": 12,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 550913,
+        "num": 550913,
+        "word": "美国vs伊朗主裁判公布",
+        "onboard_time": 1669600893,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 495742,
+        "num": 495742,
+        "word": "核子华曦部分公司近3个月内成立",
+        "onboard_time": 1669609240,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 494392,
+        "num": 494392,
+        "word": "赵丽颖玩大富翁陷入赚钱无法自拔",
+        "onboard_time": 1669607199,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 429264,
+        "num": 429264,
+        "word": "45岁妈妈一年考2本证书",
+        "onboard_time": 1669605456,
+        "rank": 16,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 384463,
+        "num": 384463,
+        "word": "重庆新增本土确诊238例无症状9447例",
+        "onboard_time": 1669597116,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 346072,
+        "num": 346072,
+        "word": "唐梓哭出声",
+        "onboard_time": 1669592968,
+        "rank": 18,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 342525,
+        "num": 342525,
+        "word": "林允儿连续8年担任mc",
+        "onboard_time": 1669604673,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 335824,
+        "num": 335824,
+        "word": "小鸟撞车男子持续按压心脏救活",
+        "onboard_time": 1669605699,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329710,
+        "num": 329710,
+        "word": "00后球迷为看球让内马尔帮忙请假",
+        "onboard_time": 1669608765,
+        "rank": 21,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 329156,
+        "num": 329156,
+        "word": "高校否认征用学生宿舍当隔离点",
+        "onboard_time": 1669609059,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 328507,
+        "num": 328507,
+        "word": "热力公司怼居民称凭啥给你热下去",
+        "onboard_time": 1669602751,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324981,
+        "num": 324981,
+        "word": "MAMA四代女团合作剧透",
+        "onboard_time": 1669606116,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 312934,
+        "num": 312934,
+        "word": "杨幂许凯爱的二八定律婚礼剧照",
+        "onboard_time": 1669607199,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 300790,
+        "num": 300790,
+        "word": "尹岐失了父爱确定真爱",
+        "onboard_time": 1669603831,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 283020,
+        "num": 283020,
+        "word": "专家解读感染者居家隔离是否可行",
+        "onboard_time": 1669593811,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277172,
+        "num": 277172,
+        "word": "中国球迷是最全球化的球迷",
+        "onboard_time": 1669608941,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 275398,
+        "num": 275398,
+        "word": "国产ModelY售价全球最低",
+        "onboard_time": 1669602812,
+        "rank": 29,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 345749,
+        "num": 275167,
+        "word": "钉钉",
+        "onboard_time": 1669604371,
+        "rank": 30,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 266425,
+        "num": 266425,
+        "word": "什么情况下需戴N95口罩",
+        "onboard_time": 1669602812,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249701,
+        "num": 249701,
+        "word": "SuperJunior新专概念照",
+        "onboard_time": 1669607680,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 235787,
+        "num": 235787,
+        "word": "女子家中录消防科普视频结果悲剧了",
+        "onboard_time": 1669606177,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235139,
+        "num": 235139,
+        "word": "唐梓预测唯一对的一次",
+        "onboard_time": 1669606478,
+        "rank": 34,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 234416,
+        "num": 234416,
+        "word": "毒奶唐梓世界杯十次预测全翻车",
+        "onboard_time": 1669599272,
+        "rank": 35,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 228638,
+        "num": 228638,
+        "word": "00后开始整顿球场了",
+        "onboard_time": 1669608638,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 225224,
+        "num": 225224,
+        "word": "果然喜欢猫咪不分年龄",
+        "onboard_time": 1669604252,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 214231,
+        "num": 214231,
+        "word": "北京四六级笔试延期举行",
+        "onboard_time": 1669607319,
+        "rank": 38,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 195066,
+        "num": 195066,
+        "word": "微信内测图片视频拖动一键发送",
+        "onboard_time": 1669604494,
+        "rank": 39,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 181353,
+        "num": 181353,
+        "word": "税务师",
+        "onboard_time": 1669605274,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 181241,
+        "num": 181241,
+        "word": "法考",
+        "onboard_time": 1669610019,
+        "rank": 41,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 180801,
+        "num": 180801,
+        "word": "邓清明同志简历",
+        "onboard_time": 1669610146,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178302,
+        "num": 178302,
+        "word": "德国出线概率67%",
+        "onboard_time": 1669600470,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173626,
+        "num": 173626,
+        "word": "女婴出生时长5.7厘米尾巴",
+        "onboard_time": 1669561062,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170694,
+        "num": 170694,
+        "word": "墨白定档1201",
+        "onboard_time": 1669603112,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 160686,
+        "num": 160686,
+        "word": "港片去掉磨皮滤镜的颜值",
+        "onboard_time": 1669610381,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 155676,
+        "num": 155676,
+        "word": "马斯克曝光推特2.0",
+        "onboard_time": 1669603772,
+        "rank": 47,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 155472,
+        "num": 155472,
+        "word": "北京增本土确诊840例",
+        "onboard_time": 1669595495,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150393,
+        "num": 150393,
+        "word": "落实防控措施不仅要有力度还要有温度",
+        "onboard_time": 1669601913,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚定信心抓实抓细疫情防控各项工作#"
+    }
+  }
+}
