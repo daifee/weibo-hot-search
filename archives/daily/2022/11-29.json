@@ -1,6 +1,6 @@
 {
   "startTime": 1669652614385,
-  "endTime": 1669673962161,
+  "endTime": 1669675001430,
   "band_list": [
     {
       "raw_hot": 4130825,
@@ -67,19 +67,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 740801,
+      "num": 740801,
+      "word": "C罗碰到球了吗",
+      "onboard_time": 1669669632,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 738102,
       "num": 738102,
       "word": "巴西vs瑞士",
       "onboard_time": 1669648303,
       "rank": 7,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 710107,
-      "num": 710107,
-      "word": "C罗碰到球了吗",
-      "onboard_time": 1669669632,
-      "rank": 10,
       "category": "体育"
     },
     {
@@ -291,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 251273,
+      "num": 251273,
+      "word": "葡萄牙2比0乌拉圭",
+      "onboard_time": 1669671014,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 251104,
       "num": 251104,
       "word": "巴西半场0比0瑞士",
@@ -459,6 +467,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 170328,
+      "num": 170328,
+      "word": "1岁娃被猫抓伤反复高烧患猫抓病",
+      "onboard_time": 1669668372,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158150,
       "num": 97438,
       "word": "本泽马已康复",
@@ -473,14 +489,6 @@
       "onboard_time": 1669635814,
       "rank": 46,
       "category": "科技"
-    },
-    {
-      "raw_hot": 151175,
-      "num": 151175,
-      "word": "葡萄牙2比0乌拉圭",
-      "onboard_time": 1669671014,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 149079,
@@ -513,14 +521,6 @@
       "onboard_time": 1669654883,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 137093,
-      "num": 137093,
-      "word": "1岁娃被猫抓伤反复高烧患猫抓病",
-      "onboard_time": 1669668372,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 135026,
@@ -572,7 +572,7 @@
     },
     {
       "raw_hot": 85229,
-      "num": 43055,
+      "num": 43834,
       "word": "巴西vs瑞士贵宾席有多豪华",
       "onboard_time": 1669665195,
       "rank": 30,
@@ -588,7 +588,7 @@
     },
     {
       "raw_hot": 64241,
-      "num": 41982,
+      "num": 48083,
       "word": "葡萄牙半场0比0乌拉圭",
       "onboard_time": 1669669453,
       "rank": 31,
@@ -611,20 +611,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 41935,
+      "num": 41935,
+      "word": "醉驾女子称我长这么好看还查我",
+      "onboard_time": 1669673713,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 24483,
       "num": 1328341,
       "word": "100秒重温神十五航天员真挚发言",
       "onboard_time": 1669621472,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 21191,
-      "num": 21191,
-      "word": "醉驾女子称我长这么好看还查我",
-      "onboard_time": 1669673713,
-      "rank": 49,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
