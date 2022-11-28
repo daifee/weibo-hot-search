@@ -1,0 +1,410 @@
+{
+  "runTime": 1669601373651,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2903429,
+        "num": 2903429,
+        "word": "奥密克戎变异株2到3天传一代",
+        "onboard_time": 1669596034,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1477472,
+        "num": 1477472,
+        "word": "杨幂赵丽颖刘亦菲今年新剧状态",
+        "onboard_time": 1669601071,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 28396,
+        "num": 1461319,
+        "word": "神十五已做好出征准备",
+        "onboard_time": 1669532010,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1449596,
+        "num": 1449596,
+        "word": "重庆新增本土确诊238例无症状9447例",
+        "onboard_time": 1669597116,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1387630,
+        "num": 1387630,
+        "word": "专家解读感染者居家隔离是否可行",
+        "onboard_time": 1669593811,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1217423,
+        "num": 1217423,
+        "word": "唐梓哭出声",
+        "onboard_time": 1669592968,
+        "rank": 5,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 1008590,
+        "num": 1008590,
+        "word": "北京增本土确诊840例",
+        "onboard_time": 1669595495,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 888358,
+        "num": 888358,
+        "word": "毒奶唐梓世界杯十次预测全翻车",
+        "onboard_time": 1669599272,
+        "rank": 7,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 606079,
+        "num": 606079,
+        "word": "世界杯小组出线情况乱成一锅粥了",
+        "onboard_time": 1669569088,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 600492,
+        "num": 600492,
+        "word": "西班牙1比1德国",
+        "onboard_time": 1669583112,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2693937,
+        "num": 599584,
+        "word": "一核酸公司实控人今年注册16家核酸机构",
+        "onboard_time": 1669562921,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 638295,
+        "num": 598780,
+        "word": "女婴出生时长5.7厘米尾巴",
+        "onboard_time": 1669561062,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 552533,
+        "num": 552533,
+        "word": "在科学认识病毒的基础上做好防疫",
+        "onboard_time": 1669597719,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 378436,
+        "num": 378436,
+        "word": "邓清明入选神十五乘组",
+        "onboard_time": 1669598795,
+        "rank": 13,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 371435,
+        "num": 371435,
+        "word": "女生醉酒被闺蜜用宝宝背带背回",
+        "onboard_time": 1669565860,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 362121,
+        "num": 362121,
+        "word": "广州海珠区疫情防控",
+        "onboard_time": 1669592307,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330402,
+        "num": 330402,
+        "word": "卡塔尔世界杯有多冷",
+        "onboard_time": 1669569444,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 323441,
+        "num": 323441,
+        "word": "费俊龙担任指令长",
+        "onboard_time": 1669599272,
+        "rank": 17,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 315051,
+        "num": 315051,
+        "word": "小伙拉横幅开喇叭要求妻子退彩礼",
+        "onboard_time": 1669591463,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313501,
+        "num": 313501,
+        "word": "财阀家的小儿子第六集",
+        "onboard_time": 1669594292,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 292807,
+        "num": 292807,
+        "word": "养狗后做饭时的厨房",
+        "onboard_time": 1669596395,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 240950,
+        "num": 240950,
+        "word": "盐城建湖出土1.5吨唐宋钱币",
+        "onboard_time": 1669596757,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239502,
+        "num": 239502,
+        "word": "北京优化社区防控举措极简版汇总",
+        "onboard_time": 1669594715,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237753,
+        "num": 237753,
+        "word": "抖音回应世界杯直播时出现杂音",
+        "onboard_time": 1669559081,
+        "rank": 23,
+        "category": "体育,科技"
+      },
+      {
+        "raw_hot": 236921,
+        "num": 236921,
+        "word": "猫是不是看到什么都想弄下来",
+        "onboard_time": 1669597596,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 217471,
+        "num": 217471,
+        "word": "桂林一医生被指急诊室猥亵患者",
+        "onboard_time": 1669567771,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215145,
+        "num": 215145,
+        "word": "沈梦辰晒11月库存随拍",
+        "onboard_time": 1669601133,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209123,
+        "num": 209123,
+        "word": "小伙赌球手机中木马自动转账20万",
+        "onboard_time": 1669599513,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190958,
+        "num": 190958,
+        "word": "女生分手后骗妈妈和内马尔谈恋爱",
+        "onboard_time": 1669549955,
+        "rank": 28,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 183672,
+        "num": 183672,
+        "word": "德国出线概率67%",
+        "onboard_time": 1669600470,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 228505,
+        "num": 183435,
+        "word": "给大白实名也是为大白正名",
+        "onboard_time": 1669554457,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179475,
+        "num": 179475,
+        "word": "二少主怎么还没嘎",
+        "onboard_time": 1669595852,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 179219,
+        "num": 179219,
+        "word": "90后女孩车祸失去右眼如今成义眼师",
+        "onboard_time": 1669563522,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177180,
+        "num": 177180,
+        "word": "美国vs伊朗主裁判公布",
+        "onboard_time": 1669600893,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172946,
+        "num": 172946,
+        "word": "7岁女孩高烧一周被确诊亲吻病",
+        "onboard_time": 1669552836,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171502,
+        "num": 171502,
+        "word": "C罗说向着目标前进",
+        "onboard_time": 1669601071,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168993,
+        "num": 168993,
+        "word": "猫猫是如何向人求助的",
+        "onboard_time": 1669598556,
+        "rank": 36,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 168334,
+        "num": 168334,
+        "word": "广州海珠近万人有疏解意愿",
+        "onboard_time": 1669550740,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168244,
+        "num": 168244,
+        "word": "苏醒调侃王栎鑫没有小球员帅",
+        "onboard_time": 1669601193,
+        "rank": 38,
+        "category": "体育,综艺"
+      },
+      {
+        "raw_hot": 167335,
+        "num": 167335,
+        "word": "又爆冷一场",
+        "onboard_time": 1669562321,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167161,
+        "num": 167161,
+        "word": "女子躲麦田给骗子转账民警赶赴劝阻",
+        "onboard_time": 1669600230,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166082,
+        "num": 166082,
+        "word": "中国空间站三舱三船组合体来了",
+        "onboard_time": 1669601193,
+        "rank": 41,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 164856,
+        "num": 164856,
+        "word": "200斤女子减重90斤找到男朋友",
+        "onboard_time": 1669557640,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160906,
+        "num": 160906,
+        "word": "西班牙男模队vs德国男模队",
+        "onboard_time": 1669576452,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159680,
+        "num": 159680,
+        "word": "六名中国航天员将在太空交接班",
+        "onboard_time": 1669592910,
+        "rank": 44,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 157281,
+        "num": 157281,
+        "word": "尹峥尹岐去了甘棠驿",
+        "onboard_time": 1669561905,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 148873,
+        "num": 148873,
+        "word": "武汉疫情防控",
+        "onboard_time": 1669558119,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143181,
+        "num": 143181,
+        "word": "LESSERAFIM日专预告照",
+        "onboard_time": 1669598853,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 140606,
+        "num": 140606,
+        "word": "王嘉尔说不想要任何标签滤镜",
+        "onboard_time": 1669563641,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 138809,
+        "num": 138809,
+        "word": "强制开机后一秒关机的狗狗",
+        "onboard_time": 1669592186,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚定信心抓实抓细疫情防控各项工作#"
+    }
+  }
+}

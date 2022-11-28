@@ -1,6 +1,6 @@
 {
   "startTime": 1669566398830,
-  "endTime": 1669599763339,
+  "endTime": 1669601373651,
   "band_list": [
     {
       "raw_hot": 11045761,
@@ -11,19 +11,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2903429,
+      "num": 2903429,
+      "word": "奥密克戎变异株2到3天传一代",
+      "onboard_time": 1669596034,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2549708,
       "num": 1839178,
       "word": "武汉呼吁市民同心合力群防群控",
       "onboard_time": 1669557640,
       "rank": 3,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2498432,
-      "num": 2498432,
-      "word": "奥密克戎变异株2到3天传一代",
-      "onboard_time": 1669596034,
-      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -75,8 +75,16 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1413628,
-      "num": 1413628,
+      "raw_hot": 1477472,
+      "num": 1477472,
+      "word": "杨幂赵丽颖刘亦菲今年新剧状态",
+      "onboard_time": 1669601071,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1449596,
+      "num": 1449596,
       "word": "重庆新增本土确诊238例无症状9447例",
       "onboard_time": 1669597116,
       "rank": 3,
@@ -105,6 +113,14 @@
       "onboard_time": 1669554457,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 888358,
+      "num": 888358,
+      "word": "毒奶唐梓世界杯十次预测全翻车",
+      "onboard_time": 1669599272,
+      "rank": 16,
+      "category": "体育,网红"
     },
     {
       "raw_hot": 789936,
@@ -155,8 +171,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 591597,
-      "num": 591597,
+      "raw_hot": 606079,
+      "num": 606079,
       "word": "世界杯小组出线情况乱成一锅粥了",
       "onboard_time": 1669569088,
       "rank": 44,
@@ -177,6 +193,14 @@
       "onboard_time": 1669564477,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 552533,
+      "num": 552533,
+      "word": "在科学认识病毒的基础上做好防疫",
+      "onboard_time": 1669597719,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 538106,
@@ -283,14 +307,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 396040,
-      "num": 396040,
-      "word": "毒奶唐梓世界杯十次预测全翻车",
-      "onboard_time": 1669599272,
-      "rank": 16,
-      "category": "体育,网红"
-    },
-    {
       "raw_hot": 391181,
       "num": 391181,
       "word": "朴志晟金丝框眼镜",
@@ -313,14 +329,6 @@
       "onboard_time": 1669558119,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 370247,
-      "num": 370247,
-      "word": "在科学认识病毒的基础上做好防疫",
-      "onboard_time": 1669597719,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 369921,
@@ -361,6 +369,14 @@
       "onboard_time": 1669570882,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 323441,
+      "num": 323441,
+      "word": "费俊龙担任指令长",
+      "onboard_time": 1669599272,
+      "rank": 34,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 320940,
@@ -507,6 +523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 236921,
+      "num": 236921,
+      "word": "猫是不是看到什么都想弄下来",
+      "onboard_time": 1669597596,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 234848,
       "num": 221640,
       "word": "摩洛哥队好帅",
@@ -521,14 +545,6 @@
       "onboard_time": 1669561311,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 227369,
-      "num": 227369,
-      "word": "猫是不是看到什么都想弄下来",
-      "onboard_time": 1669597596,
-      "rank": 26,
-      "category": "幽默"
     },
     {
       "raw_hot": 223991,
@@ -555,12 +571,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 215145,
+      "num": 215145,
+      "word": "沈梦辰晒11月库存随拍",
+      "onboard_time": 1669601133,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 213321,
       "num": 213321,
       "word": "强制开机后一秒关机的狗狗",
       "onboard_time": 1669592186,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 209123,
+      "num": 209123,
+      "word": "小伙赌球手机中木马自动转账20万",
+      "onboard_time": 1669599513,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 206757,
@@ -577,14 +609,6 @@
       "onboard_time": 1669544011,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 197864,
-      "num": 197864,
-      "word": "费俊龙担任指令长",
-      "onboard_time": 1669599272,
-      "rank": 34,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 195219,
@@ -611,6 +635,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 183672,
+      "num": 183672,
+      "word": "德国出线概率67%",
+      "onboard_time": 1669600470,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 183524,
       "num": 183524,
       "word": "李峋四次单膝下跪都是为了朱韵",
@@ -619,12 +651,60 @@
       "category": "影视"
     },
     {
+      "raw_hot": 177180,
+      "num": 177180,
+      "word": "美国vs伊朗主裁判公布",
+      "onboard_time": 1669600893,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 171502,
+      "num": 171502,
+      "word": "C罗说向着目标前进",
+      "onboard_time": 1669601071,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 169750,
       "num": 169750,
       "word": "尹峥李薇带娃",
       "onboard_time": 1669552537,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 168993,
+      "num": 168993,
+      "word": "猫猫是如何向人求助的",
+      "onboard_time": 1669598556,
+      "rank": 43,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 168244,
+      "num": 168244,
+      "word": "苏醒调侃王栎鑫没有小球员帅",
+      "onboard_time": 1669601193,
+      "rank": 38,
+      "category": "体育,综艺"
+    },
+    {
+      "raw_hot": 167161,
+      "num": 167161,
+      "word": "女子躲麦田给骗子转账民警赶赴劝阻",
+      "onboard_time": 1669600230,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 166082,
+      "num": 166082,
+      "word": "中国空间站三舱三船组合体来了",
+      "onboard_time": 1669601193,
+      "rank": 41,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 165508,
@@ -641,22 +721,6 @@
       "onboard_time": 1669592546,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 158551,
-      "num": 158551,
-      "word": "小伙赌球手机中木马自动转账20万",
-      "onboard_time": 1669599513,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 158265,
-      "num": 158265,
-      "word": "猫猫是如何向人求助的",
-      "onboard_time": 1669598556,
-      "rank": 43,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 155043,

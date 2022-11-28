@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/01 00:36:21 ~ 2022/11/28 09:42:43
+本榜单时间：2022/11/01 00:36:21 ~ 2022/11/28 10:09:33
 </p>
 </blockquote>
 <p>
@@ -573,6 +573,12 @@ T1和DRX决胜局（热度：3699608）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%A5%E5%AF%86%E5%85%8B%E6%88%8E%E5%8F%98%E5%BC%82%E6%A0%AA2%E5%88%B03%E5%A4%A9%E4%BC%A0%E4%B8%80%E4%BB%A3%23" target="weibo">
+奥密克戎变异株2到3天传一代（热度：2903429）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23C%E7%BD%97%E8%BF%9B%E7%90%83%E8%A2%AB%E5%90%B9%23" target="weibo">
 C罗进球被吹（热度：2899415）
 </a>
@@ -821,12 +827,6 @@ Hero（热度：2631610）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A0%94%E7%A9%B6%E7%A7%B0%E7%94%B7%E6%80%A7%E7%94%9F%E8%82%B2%E8%83%BD%E5%8A%9B%E6%96%AD%E5%B4%96%E5%BC%8F%E4%B8%8B%E8%B7%8C%23" target="weibo">
 研究称男性生育能力断崖式下跌（热度：2502588）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%A5%E5%AF%86%E5%85%8B%E6%88%8E%E5%8F%98%E5%BC%82%E6%A0%AA2%E5%88%B03%E5%A4%A9%E4%BC%A0%E4%B8%80%E4%BB%A3%23" target="weibo">
-奥密克戎变异株2到3天传一代（热度：2498432）
 </a>
 </li>
 
@@ -2445,6 +2445,12 @@ Faker（热度：1632969）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%88%98%E4%BA%A6%E8%8F%B2%E4%BB%8A%E5%B9%B4%E6%96%B0%E5%89%A7%E7%8A%B6%E6%80%81%23" target="weibo">
+杨幂赵丽颖刘亦菲今年新剧状态（热度：1477472）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%AB%E5%A4%96%E5%AD%95%E6%9C%80%E5%AE%B9%E6%98%93%E7%9B%AF%E4%B8%8A%E5%93%AA%E4%BA%9B%E5%A5%B3%E6%80%A7%23" target="weibo">
 宫外孕最容易盯上哪些女性（热度：1475216）
 </a>
@@ -2531,6 +2537,12 @@ C罗犯规（热度：1458702）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AE%B6%E6%95%99%E7%8C%A5%E4%BA%B510%E5%B2%81%E5%A5%B3%E7%AB%A5%E8%A2%AB%E5%88%A4%E7%BB%88%E8%BA%AB%E7%A6%81%E4%B8%9A%23" target="weibo">
 男家教猥亵10岁女童被判终身禁业（热度：1452149）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A238%E4%BE%8B%E6%97%A0%E7%97%87%E7%8A%B69447%E4%BE%8B%23" target="weibo">
+重庆新增本土确诊238例无症状9447例（热度：1449596）
 </a>
 </li>
 
@@ -2639,12 +2651,6 @@ C罗犯规（热度：1458702）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%A1%8C%23" target="weibo">
 建行（热度：1417012）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A238%E4%BE%8B%E6%97%A0%E7%97%87%E7%8A%B69447%E4%BE%8B%23" target="weibo">
-重庆新增本土确诊238例无症状9447例（热度：1413628）
 </a>
 </li>
 
@@ -5241,6 +5247,12 @@ C罗已被移出曼联群聊（热度：890456）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AF%92%E5%A5%B6%E5%94%90%E6%A2%93%E4%B8%96%E7%95%8C%E6%9D%AF%E5%8D%81%E6%AC%A1%E9%A2%84%E6%B5%8B%E5%85%A8%E7%BF%BB%E8%BD%A6%23" target="weibo">
+毒奶唐梓世界杯十次预测全翻车（热度：888358）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%A0%A1%E8%80%81%E5%B8%88%E8%87%AA%E6%9B%9D%E8%A2%AB%E5%90%8C%E4%BA%8B%E6%8A%95%E6%AF%92%E7%99%BE%E8%8D%89%E6%9E%AF%23" target="weibo">
 高校老师自曝被同事投毒百草枯（热度：885269）
 </a>
@@ -5999,18 +6011,6 @@ cheerup 弃剧（热度：822139）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%93%E6%B8%A9%E8%AE%A1%E7%A2%8E%E8%A3%82%E6%8A%A4%E5%A3%AB%E6%89%93%E9%B8%A1%E8%9B%8B%E9%98%B2%E6%B1%9E%E4%B8%AD%E6%AF%92%23" target="weibo">
 体温计碎裂护士打鸡蛋防汞中毒（热度：818752）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A124%E4%BE%8B%E6%97%A0%E7%97%87%E7%8A%B62881%E4%BE%8B%23" target="weibo">
-河南新增本土确诊124例无症状2881例（热度：817434）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E8%80%83%E8%99%91%E6%8F%90%E9%AB%98%E8%B5%B4%E8%8B%B1%E7%95%99%E5%AD%A6%E9%97%A8%E6%A7%9B%23" target="weibo">
-英国考虑提高赴英留学门槛（热度：816324）
 </a>
 </li>
 
