@@ -1,6 +1,6 @@
 {
   "startTime": 1669566398830,
-  "endTime": 1669662947013,
+  "endTime": 1669664044142,
   "band_list": [
     {
       "raw_hot": 11045761,
@@ -2435,6 +2435,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 215734,
+      "num": 215734,
+      "word": "葡萄牙vs乌拉圭首发",
+      "onboard_time": 1669660095,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 213321,
       "num": 213321,
       "word": "强制开机后一秒关机的狗狗",
@@ -2456,14 +2464,6 @@
       "word": "梅西经纪人否认转会传闻",
       "onboard_time": 1669618892,
       "rank": 36,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 209903,
-      "num": 209903,
-      "word": "葡萄牙vs乌拉圭首发",
-      "onboard_time": 1669660095,
-      "rank": 32,
       "category": "体育"
     },
     {
@@ -3339,8 +3339,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 86495,
-      "num": 86495,
+      "raw_hot": 89421,
+      "num": 89421,
       "word": "为C罗熬夜",
       "onboard_time": 1669660874,
       "rank": 12,

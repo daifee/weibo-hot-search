@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1669662947013,
+  "endTime": 1669664044142,
   "band_list": [
     {
       "raw_hot": 36651023,
@@ -39227,6 +39227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 215734,
+      "num": 215734,
+      "word": "葡萄牙vs乌拉圭首发",
+      "onboard_time": 1669660095,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 215705,
       "num": 215705,
       "word": "许半夏被渣男掐脖子",
@@ -39985,14 +39993,6 @@
       "onboard_time": 1669547615,
       "rank": 36,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 209903,
-      "num": 209903,
-      "word": "葡萄牙vs乌拉圭首发",
-      "onboard_time": 1669660095,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 209687,
@@ -60755,6 +60755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 89421,
+      "num": 89421,
+      "word": "为C罗熬夜",
+      "onboard_time": 1669660874,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 89335,
       "num": 89335,
       "word": "父亲7年推脑瘫儿子跑54场马拉松",
@@ -61217,14 +61225,6 @@
       "onboard_time": 1667632707,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 86495,
-      "num": 86495,
-      "word": "为C罗熬夜",
-      "onboard_time": 1669660874,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 86434,
