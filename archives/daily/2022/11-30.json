@@ -1,6 +1,6 @@
 {
   "startTime": 1669739332504,
-  "endTime": 1669740486727,
+  "endTime": 1669742252593,
   "band_list": [
     {
       "raw_hot": 2756631,
@@ -35,8 +35,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1177419,
-      "num": 1177419,
+      "raw_hot": 1244539,
+      "num": 1244539,
       "word": "伊朗vs美国",
       "onboard_time": 1669736066,
       "rank": 5,
@@ -91,12 +91,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 554788,
+      "num": 554788,
+      "word": "荷兰2比0领先卡塔尔",
+      "onboard_time": 1669739665,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 497076,
       "num": 497076,
       "word": "男子出轨后开车撞妻子被女儿拦下",
       "onboard_time": 1669719221,
       "rank": 12,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 496331,
+      "num": 1095967,
+      "word": "第九版防控方案和二十条措施热点问答",
+      "onboard_time": 1669739601,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 493475,
+      "num": 493475,
+      "word": "张超",
+      "onboard_time": 1669738762,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 465972,
@@ -179,27 +203,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 307927,
-      "num": 307927,
-      "word": "张超",
-      "onboard_time": 1669738762,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 290554,
       "num": 290554,
       "word": "塞内加尔进球",
       "onboard_time": 1669737685,
       "rank": 25,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 278629,
-      "num": 278629,
-      "word": "荷兰2比0领先卡塔尔",
-      "onboard_time": 1669739665,
-      "rank": 19,
       "category": "体育"
     },
     {
@@ -227,6 +235,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 252928,
+      "num": 252928,
+      "word": "全国快递网点大面积停摆消息不实",
+      "onboard_time": 1669740864,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 242314,
       "num": 218613,
       "word": "李诞快给你司员工培训下红毯pose",
@@ -249,6 +265,14 @@
       "onboard_time": 1669727067,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 211075,
+      "num": 211075,
+      "word": "男子偷变压器触电身亡家属索赔被驳",
+      "onboard_time": 1669739601,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 210676,
@@ -315,14 +339,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 173024,
-      "num": 173024,
-      "word": "男子偷变压器触电身亡家属索赔被驳",
-      "onboard_time": 1669739601,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 165903,
       "num": 165903,
       "word": "他们没来MAMA又好像来了",
@@ -331,20 +347,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 157519,
-      "num": 1095967,
-      "word": "第九版防控方案和二十条措施热点问答",
-      "onboard_time": 1669739601,
-      "rank": 2,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 155714,
       "num": 152839,
       "word": "许半夏的穿搭公式",
       "onboard_time": 1669734804,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 155372,
+      "num": 155372,
+      "word": "吃橘子会变阳你真是多虑了",
+      "onboard_time": 1669741161,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 153202,
@@ -419,6 +435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135952,
+      "num": 135952,
+      "word": "厄瓜多尔1比2塞内加尔",
+      "onboard_time": 1669741943,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 134287,
       "num": 134287,
       "word": "男孩熟练给鱿鱼动手术给柚子缝合",
@@ -457,6 +481,14 @@
       "onboard_time": 1669738944,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 78695,
+      "num": 78695,
+      "word": "塞内加尔晋级16强",
+      "onboard_time": 1669742240,
+      "rank": 49,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
@@ -465,6 +497,9 @@
     },
     {
       "word": "#神十五发射圆满成功#"
+    },
+    {
+      "word": "#进一步提升防控的科学性和精准性#"
     }
   ]
 }
