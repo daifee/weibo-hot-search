@@ -1,0 +1,410 @@
+{
+  "runTime": 1669687689522,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3447691,
+        "num": 3447691,
+        "word": "卫健局回应核子基因核检业务违规",
+        "onboard_time": 1669679247,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1840726,
+        "num": 1840726,
+        "word": "C罗被换下时全场起立鼓掌",
+        "onboard_time": 1669681231,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14247,
+        "num": 1458194,
+        "word": "100秒重温神十五航天员真挚发言",
+        "onboard_time": 1669621472,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1295046,
+        "num": 1295046,
+        "word": "女子买房送60平阳台苦恼封窗太贵",
+        "onboard_time": 1669683157,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1213603,
+        "num": 1213603,
+        "word": "河北出现零下30℃低温",
+        "onboard_time": 1669684836,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1019241,
+        "num": 1019241,
+        "word": "C罗示意自己进球",
+        "onboard_time": 1669684536,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 877885,
+        "num": 877885,
+        "word": "外卖员夫妻因饿了偷同行2份外卖",
+        "onboard_time": 1669681895,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 820843,
+        "num": 820843,
+        "word": "网传女子被多人殴打视频源自境外",
+        "onboard_time": 1669683454,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 787165,
+        "num": 787165,
+        "word": "比利时国家队内讧",
+        "onboard_time": 1669681412,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 714421,
+        "num": 714421,
+        "word": "郑州下雪",
+        "onboard_time": 1669685495,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 687800,
+        "num": 687800,
+        "word": "极寒天气致新疆阿勒泰7名工人遇难",
+        "onboard_time": 1669683576,
+        "rank": 10,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 628542,
+        "num": 628542,
+        "word": "核子基因多次被罚仍中标核酸检测项目",
+        "onboard_time": 1669642900,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 607168,
+        "num": 607168,
+        "word": "上海迪士尼乐园今日起暂时关闭",
+        "onboard_time": 1669682917,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 558948,
+        "num": 558948,
+        "word": "C罗碰到球了吗",
+        "onboard_time": 1669669632,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 553401,
+        "num": 553401,
+        "word": "摄像师身体不适坐地休息3次被辞",
+        "onboard_time": 1669681170,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 548762,
+        "num": 548762,
+        "word": "西宁通报网传大白虐狗",
+        "onboard_time": 1669683036,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 538293,
+        "num": 538293,
+        "word": "许半夏入狱",
+        "onboard_time": 1669680570,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 533581,
+        "num": 533581,
+        "word": "核子基因累计核酸检测超7亿人次",
+        "onboard_time": 1669686332,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 492287,
+        "num": 492287,
+        "word": "孩子把水晶球放床上烧穿三层床褥",
+        "onboard_time": 1669682315,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 424601,
+        "num": 424601,
+        "word": "北京新增确诊病例数快速增长势头有所遏制",
+        "onboard_time": 1669680753,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 408092,
+        "num": 408092,
+        "word": "北京增社会面490例",
+        "onboard_time": 1669682136,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 401982,
+        "num": 401982,
+        "word": "8岁男孩休学专打游戏第6天回归网课",
+        "onboard_time": 1669684653,
+        "rank": 21,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 363674,
+        "num": 363674,
+        "word": "B费说自己就是给C罗传球",
+        "onboard_time": 1669679605,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 330347,
+        "num": 330347,
+        "word": "司机因前车起步晚5秒斗气致1死3伤",
+        "onboard_time": 1669679005,
+        "rank": 23,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 316166,
+        "num": 316166,
+        "word": "真的有人穿什么都好看",
+        "onboard_time": 1669648542,
+        "rank": 24,
+        "category": "幽默,时尚"
+      },
+      {
+        "raw_hot": 305222,
+        "num": 305222,
+        "word": "迪士尼",
+        "onboard_time": 1669678946,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300338,
+        "num": 300338,
+        "word": "欧豪演的童骁骑心动刚开始就结束",
+        "onboard_time": 1669685912,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 276161,
+        "num": 276161,
+        "word": "不得因涉疫风险人员自行前往就医而拒绝接诊",
+        "onboard_time": 1669677681,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261976,
+        "num": 261976,
+        "word": "张婧仪和她的三个伴舞",
+        "onboard_time": 1669687471,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 255243,
+        "num": 255243,
+        "word": "山寨内马尔曾被内马尔亲自认证",
+        "onboard_time": 1669682855,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 249960,
+        "num": 249960,
+        "word": "小区高层楼顶现臂展2米大鸟",
+        "onboard_time": 1669681772,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241961,
+        "num": 241961,
+        "word": "NewJeans日本大学庆典舞台",
+        "onboard_time": 1669683338,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 240472,
+        "num": 240472,
+        "word": "上财校长称博士生像乞丐一样在研究",
+        "onboard_time": 1669644873,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230903,
+        "num": 230903,
+        "word": "柳岩跳世界杯主题曲舞蹈",
+        "onboard_time": 1669679487,
+        "rank": 33,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 214849,
+        "num": 214849,
+        "word": "男子介绍未成年有偿陪侍获刑1年4个月",
+        "onboard_time": 1669677440,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203386,
+        "num": 203386,
+        "word": "唐梓说终于塌房了",
+        "onboard_time": 1669649257,
+        "rank": 35,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 187115,
+        "num": 187115,
+        "word": "女儿不满房产分配纵火烧父母房",
+        "onboard_time": 1669656860,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183078,
+        "num": 183078,
+        "word": "葡萄牙2比0乌拉圭",
+        "onboard_time": 1669671014,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179127,
+        "num": 179127,
+        "word": "父亲保持耐心反复辅导女儿作业",
+        "onboard_time": 1669687652,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175461,
+        "num": 175461,
+        "word": "马斯克称苹果威胁下架推特",
+        "onboard_time": 1669686570,
+        "rank": 39,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 174438,
+        "num": 174438,
+        "word": "上海05后称和马斯克对话没意义",
+        "onboard_time": 1669681170,
+        "rank": 40,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 164452,
+        "num": 164452,
+        "word": "这就是银杏名字的由来吧",
+        "onboard_time": 1669679728,
+        "rank": 41,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 163645,
+        "num": 163645,
+        "word": "原来琼瑶剧运动量这么大",
+        "onboard_time": 1669643433,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 163322,
+        "num": 163322,
+        "word": "TXT2023台历预览视频",
+        "onboard_time": 1669686453,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 161469,
+        "num": 161469,
+        "word": "李薇成为正夫人",
+        "onboard_time": 1669639957,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 161059,
+        "num": 161059,
+        "word": "内马尔在酒店看比赛",
+        "onboard_time": 1669659557,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158846,
+        "num": 158846,
+        "word": "原来情敌也能变情人",
+        "onboard_time": 1669651950,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 181480,
+        "num": 156993,
+        "word": "魔术vs篮网",
+        "onboard_time": 1669687652,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153815,
+        "num": 153815,
+        "word": "朱韵发现合照",
+        "onboard_time": 1669682256,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 151279,
+        "num": 151279,
+        "word": "被C罗肌肉秀到了",
+        "onboard_time": 1669687594,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#严禁随意封控等各类层层加码行为#"
+    }
+  }
+}
