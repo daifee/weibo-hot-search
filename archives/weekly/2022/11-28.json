@@ -1,6 +1,6 @@
 {
   "startTime": 1669566398830,
-  "endTime": 1669710383578,
+  "endTime": 1669711241545,
   "band_list": [
     {
       "raw_hot": 11045761,
@@ -315,6 +315,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1548461,
+      "num": 1548461,
+      "word": "国家疾控局回应网友反映层层加码问题",
+      "onboard_time": 1669707457,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1536041,
+      "num": 1536041,
+      "word": "微博视界大会",
+      "onboard_time": 1669709196,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1508408,
       "num": 1508408,
       "word": "广州海珠试行闭环泡泡",
@@ -361,14 +377,6 @@
       "onboard_time": 1669601071,
       "rank": 1,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1468674,
-      "num": 1468674,
-      "word": "国家疾控局回应网友反映层层加码问题",
-      "onboard_time": 1669707457,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1466150,
@@ -436,7 +444,7 @@
     },
     {
       "raw_hot": 1307026,
-      "num": 697481,
+      "num": 786186,
       "word": "研究表明寄生虫入侵大脑造就了狼王",
       "onboard_time": 1669704697,
       "rank": 12,
@@ -449,14 +457,6 @@
       "onboard_time": 1669683157,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1290054,
-      "num": 1290054,
-      "word": "微博视界大会",
-      "onboard_time": 1669709196,
-      "rank": 5,
-      "category": "影视"
     },
     {
       "raw_hot": 1285105,
@@ -488,6 +488,14 @@
       "word": "违规10次的核子华曦为什么没有被公诉",
       "onboard_time": 1669697672,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1230170,
+      "num": 1230170,
+      "word": "封控管理要快封快解",
+      "onboard_time": 1669707997,
+      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -553,14 +561,6 @@
       "onboard_time": 1669628495,
       "rank": 5,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 1142254,
-      "num": 1142254,
-      "word": "封控管理要快封快解",
-      "onboard_time": 1669707997,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1141444,
@@ -803,6 +803,14 @@
       "category": "科技,财经"
     },
     {
+      "raw_hot": 837377,
+      "num": 837377,
+      "word": "关晓彤落叶棕刺绣礼服",
+      "onboard_time": 1669709617,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 833555,
       "num": 833555,
       "word": "李国庆称张兰是他尊敬的企业家",
@@ -881,6 +889,14 @@
       "onboard_time": 1669613316,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 791382,
+      "num": 791382,
+      "word": "卫健委回应部分地区尝试居民核酸自采",
+      "onboard_time": 1669707759,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 789936,
@@ -1003,6 +1019,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 720565,
+      "num": 720565,
+      "word": "杨超越丝绒雾霭蓝礼服造型",
+      "onboard_time": 1669709617,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 720145,
       "num": 720145,
       "word": "杨幂说下部戏想演反派",
@@ -1035,14 +1059,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 704601,
-      "num": 704601,
-      "word": "卫健委回应部分地区尝试居民核酸自采",
-      "onboard_time": 1669707759,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 698818,
       "num": 698818,
       "word": "加纳门将",
@@ -1065,6 +1081,14 @@
       "onboard_time": 1669640737,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 678362,
+      "num": 678362,
+      "word": "MAMA32人合作舞台",
+      "onboard_time": 1669710577,
+      "rank": 13,
+      "category": "音乐"
     },
     {
       "raw_hot": 674320,
@@ -1105,6 +1129,14 @@
       "onboard_time": 1669691913,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 650244,
+      "num": 650244,
+      "word": "孙兴慜的ins评论区",
+      "onboard_time": 1669709676,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 645751,
@@ -1203,6 +1235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 627040,
+      "num": 627040,
+      "word": "小女孩地铁咳嗽被医生提醒抽动症",
+      "onboard_time": 1669707997,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 607168,
       "num": 607168,
       "word": "上海迪士尼乐园今日起暂时关闭",
@@ -1243,8 +1283,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 590001,
-      "num": 590001,
+      "raw_hot": 591257,
+      "num": 591257,
       "word": "邻居嫌楼上孩子吵闹上门怒斥",
       "onboard_time": 1669706438,
       "rank": 33,
@@ -1329,6 +1369,14 @@
       "onboard_time": 1669650698,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 566392,
+      "num": 463733,
+      "word": "沈小婷MAMA红毯图",
+      "onboard_time": 1669710638,
+      "rank": 20,
+      "category": "音乐"
     },
     {
       "raw_hot": 559871,
@@ -1467,14 +1515,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 513422,
-      "num": 513422,
-      "word": "关晓彤落叶棕刺绣礼服",
-      "onboard_time": 1669709617,
-      "rank": 15,
-      "category": "影视"
-    },
-    {
       "raw_hot": 509858,
       "num": 509858,
       "word": "真的有人穿什么都好看",
@@ -1539,14 +1579,6 @@
       "category": "游戏,幽默"
     },
     {
-      "raw_hot": 490206,
-      "num": 490206,
-      "word": "小女孩地铁咳嗽被医生提醒抽动症",
-      "onboard_time": 1669707997,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 485871,
       "num": 485871,
       "word": "宝妈为赚钱刷单被骗125万",
@@ -1577,14 +1609,6 @@
       "onboard_time": 1669624953,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 483121,
-      "num": 483121,
-      "word": "杨超越丝绒雾霭蓝礼服造型",
-      "onboard_time": 1669709617,
-      "rank": 17,
-      "category": "影视"
     },
     {
       "raw_hot": 482591,
@@ -1979,6 +2003,14 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 401900,
+      "num": 401900,
+      "word": "杨幂模仿羊幂表情包",
+      "onboard_time": 1669707039,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 401753,
       "num": 401753,
       "word": "尹峥尹岐去了甘棠驿",
@@ -2001,14 +2033,6 @@
       "onboard_time": 1669707516,
       "rank": 22,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 397388,
-      "num": 318359,
-      "word": "杨幂模仿羊幂表情包",
-      "onboard_time": 1669707039,
-      "rank": 23,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 396105,
@@ -2227,6 +2251,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 359780,
+      "num": 226464,
+      "word": "冯绍峰彭小苒新剧同框看不见正脸",
+      "onboard_time": 1669708900,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 355935,
       "num": 355935,
       "word": "C罗佩佩并肩作战",
@@ -2321,6 +2353,14 @@
       "onboard_time": 1669606116,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 345273,
+      "num": 345273,
+      "word": "下雪",
+      "onboard_time": 1669707939,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 345157,
@@ -2489,14 +2529,6 @@
       "onboard_time": 1669690169,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 323039,
-      "num": 323039,
-      "word": "下雪",
-      "onboard_time": 1669707939,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 322658,
@@ -2979,20 +3011,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 265296,
+      "num": 265296,
+      "word": "严肃处理出具虚假检测报告等行为",
+      "onboard_time": 1669710037,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 265195,
       "num": 265195,
       "word": "没给韩国角球",
       "onboard_time": 1669649917,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 264529,
-      "num": 209565,
-      "word": "冯绍峰彭小苒新剧同框看不见正脸",
-      "onboard_time": 1669708900,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 264412,
@@ -3195,6 +3227,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 241665,
+      "num": 241665,
+      "word": "深圳地铁",
+      "onboard_time": 1669708837,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 240180,
       "num": 240180,
       "word": "省考",
@@ -3315,6 +3355,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 229342,
+      "num": 229342,
+      "word": "当你有个喜欢收纳的女朋友",
+      "onboard_time": 1669706312,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 229301,
       "num": 229301,
       "word": "比利时0比2摩洛哥",
@@ -3403,12 +3451,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 222402,
-      "num": 222402,
-      "word": "当你有个喜欢收纳的女朋友",
-      "onboard_time": 1669706312,
-      "rank": 39,
-      "category": "情感"
+      "raw_hot": 223058,
+      "num": 223058,
+      "word": "各地成立整治层层加码工作专班",
+      "onboard_time": 1669710514,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 222212,
@@ -3577,14 +3625,6 @@
       "onboard_time": 1669701996,
       "rank": 33,
       "category": "科技,财经"
-    },
-    {
-      "raw_hot": 201087,
-      "num": 201087,
-      "word": "严肃处理出具虚假检测报告等行为",
-      "onboard_time": 1669710037,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 199787,
@@ -3896,22 +3936,6 @@
       "word": "父亲保持耐心反复辅导女儿作业",
       "onboard_time": 1669687652,
       "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 178477,
-      "num": 178477,
-      "word": "孙兴慜的ins评论区",
-      "onboard_time": 1669709676,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 177033,
-      "num": 177033,
-      "word": "深圳地铁",
-      "onboard_time": 1669708837,
-      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -4235,6 +4259,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 162300,
+      "num": 162300,
+      "word": "00后晒基金收益被劝先学习",
+      "onboard_time": 1669710817,
+      "rank": 47,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 162264,
       "num": 162264,
       "word": "李峋朱韵故事感",
@@ -4313,6 +4345,14 @@
       "onboard_time": 1669631014,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 155790,
+      "num": 155790,
+      "word": "2岁姐姐拼尽全力拉车保护妹妹",
+      "onboard_time": 1669711058,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 155043,

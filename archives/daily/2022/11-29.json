@@ -1,6 +1,6 @@
 {
   "startTime": 1669652614385,
-  "endTime": 1669710383578,
+  "endTime": 1669711241545,
   "band_list": [
     {
       "raw_hot": 4914407,
@@ -91,20 +91,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1548461,
+      "num": 1548461,
+      "word": "国家疾控局回应网友反映层层加码问题",
+      "onboard_time": 1669707457,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1536041,
+      "num": 1536041,
+      "word": "微博视界大会",
+      "onboard_time": 1669709196,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1482343,
       "num": 1482343,
       "word": "C罗碰到球了吗",
       "onboard_time": 1669669632,
       "rank": 10,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1468674,
-      "num": 1468674,
-      "word": "国家疾控局回应网友反映层层加码问题",
-      "onboard_time": 1669707457,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1426847,
@@ -132,7 +140,7 @@
     },
     {
       "raw_hot": 1307026,
-      "num": 697481,
+      "num": 786186,
       "word": "研究表明寄生虫入侵大脑造就了狼王",
       "onboard_time": 1669704697,
       "rank": 12,
@@ -145,14 +153,6 @@
       "onboard_time": 1669683157,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1290054,
-      "num": 1290054,
-      "word": "微博视界大会",
-      "onboard_time": 1669709196,
-      "rank": 5,
-      "category": "影视"
     },
     {
       "raw_hot": 1285105,
@@ -187,6 +187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1230170,
+      "num": 1230170,
+      "word": "封控管理要快封快解",
+      "onboard_time": 1669707997,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1224322,
       "num": 1224322,
       "word": "巴西助教 帅",
@@ -201,14 +209,6 @@
       "onboard_time": 1669650395,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1142254,
-      "num": 1142254,
-      "word": "封控管理要快封快解",
-      "onboard_time": 1669707997,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1028268,
@@ -307,6 +307,14 @@
       "category": "科技,财经"
     },
     {
+      "raw_hot": 837377,
+      "num": 837377,
+      "word": "关晓彤落叶棕刺绣礼服",
+      "onboard_time": 1669709617,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 820843,
       "num": 820843,
       "word": "网传女子被多人殴打视频源自境外",
@@ -320,6 +328,14 @@
       "word": "摄像师身体不适坐地休息3次被辞",
       "onboard_time": 1669681170,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 791382,
+      "num": 791382,
+      "word": "卫健委回应部分地区尝试居民核酸自采",
+      "onboard_time": 1669707759,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -371,6 +387,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 720565,
+      "num": 720565,
+      "word": "杨超越丝绒雾霭蓝礼服造型",
+      "onboard_time": 1669709617,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 720145,
       "num": 720145,
       "word": "杨幂说下部戏想演反派",
@@ -387,20 +411,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 704601,
-      "num": 704601,
-      "word": "卫健委回应部分地区尝试居民核酸自采",
-      "onboard_time": 1669707759,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 690664,
       "num": 690664,
       "word": "重庆抗疫一线医护人员的肺腑之言",
       "onboard_time": 1669643857,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 678362,
+      "num": 678362,
+      "word": "MAMA32人合作舞台",
+      "onboard_time": 1669710577,
+      "rank": 13,
+      "category": "音乐"
     },
     {
       "raw_hot": 670442,
@@ -427,6 +451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 650244,
+      "num": 650244,
+      "word": "孙兴慜的ins评论区",
+      "onboard_time": 1669709676,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 640900,
       "num": 640900,
       "word": "伊朗美国小组出线生死局",
@@ -448,6 +480,14 @@
       "word": "北京新增确诊病例数快速增长势头有所遏制",
       "onboard_time": 1669680753,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 627040,
+      "num": 627040,
+      "word": "小女孩地铁咳嗽被医生提醒抽动症",
+      "onboard_time": 1669707997,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -475,8 +515,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 590001,
-      "num": 590001,
+      "raw_hot": 591257,
+      "num": 591257,
       "word": "邻居嫌楼上孩子吵闹上门怒斥",
       "onboard_time": 1669706438,
       "rank": 33,
@@ -529,6 +569,14 @@
       "onboard_time": 1669650698,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 566392,
+      "num": 463733,
+      "word": "沈小婷MAMA红毯图",
+      "onboard_time": 1669710638,
+      "rank": 20,
+      "category": "音乐"
     },
     {
       "raw_hot": 548762,
@@ -587,14 +635,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 513422,
-      "num": 513422,
-      "word": "关晓彤落叶棕刺绣礼服",
-      "onboard_time": 1669709617,
-      "rank": 15,
-      "category": "影视"
-    },
-    {
       "raw_hot": 509858,
       "num": 509858,
       "word": "真的有人穿什么都好看",
@@ -633,22 +673,6 @@
       "onboard_time": 1669698698,
       "rank": 34,
       "category": "游戏,幽默"
-    },
-    {
-      "raw_hot": 490206,
-      "num": 490206,
-      "word": "小女孩地铁咳嗽被医生提醒抽动症",
-      "onboard_time": 1669707997,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 483121,
-      "num": 483121,
-      "word": "杨超越丝绒雾霭蓝礼服造型",
-      "onboard_time": 1669709617,
-      "rank": 17,
-      "category": "影视"
     },
     {
       "raw_hot": 482591,
@@ -787,6 +811,14 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 401900,
+      "num": 401900,
+      "word": "杨幂模仿羊幂表情包",
+      "onboard_time": 1669707039,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 399893,
       "num": 399893,
       "word": "女儿不满房产分配纵火烧父母房",
@@ -801,14 +833,6 @@
       "onboard_time": 1669707516,
       "rank": 22,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 397388,
-      "num": 318359,
-      "word": "杨幂模仿羊幂表情包",
-      "onboard_time": 1669707039,
-      "rank": 23,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 396105,
@@ -883,6 +907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 359780,
+      "num": 226464,
+      "word": "冯绍峰彭小苒新剧同框看不见正脸",
+      "onboard_time": 1669708900,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 355935,
       "num": 355935,
       "word": "C罗佩佩并肩作战",
@@ -920,6 +952,14 @@
       "word": "71岁老人坐网约车猝死家属索赔",
       "onboard_time": 1669696715,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 345273,
+      "num": 345273,
+      "word": "下雪",
+      "onboard_time": 1669707939,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -977,14 +1017,6 @@
       "onboard_time": 1669690169,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 323039,
-      "num": 323039,
-      "word": "下雪",
-      "onboard_time": 1669707939,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 316075,
@@ -1171,6 +1203,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 273426,
+      "num": 224394,
+      "word": "MAMA",
+      "onboard_time": 1669710455,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 273015,
       "num": 273015,
       "word": "刘美含是语言小天才吧",
@@ -1187,20 +1227,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 265296,
+      "num": 265296,
+      "word": "严肃处理出具虚假检测报告等行为",
+      "onboard_time": 1669710037,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 265195,
       "num": 265195,
       "word": "没给韩国角球",
       "onboard_time": 1669649917,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 264529,
-      "num": 209565,
-      "word": "冯绍峰彭小苒新剧同框看不见正脸",
-      "onboard_time": 1669708900,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 259418,
@@ -1275,6 +1315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 241665,
+      "num": 241665,
+      "word": "深圳地铁",
+      "onboard_time": 1669708837,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 237975,
       "num": 237975,
       "word": "解封后你想吃什么呢",
@@ -1315,6 +1363,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 229342,
+      "num": 229342,
+      "word": "当你有个喜欢收纳的女朋友",
+      "onboard_time": 1669706312,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 226268,
       "num": 195019,
       "word": "刘耀文无限超越班黑色夹克造型路透",
@@ -1347,12 +1403,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 222402,
-      "num": 222402,
-      "word": "当你有个喜欢收纳的女朋友",
-      "onboard_time": 1669706312,
-      "rank": 39,
-      "category": "情感"
+      "raw_hot": 223058,
+      "num": 223058,
+      "word": "各地成立整治层层加码工作专班",
+      "onboard_time": 1669710514,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 220621,
@@ -1433,14 +1489,6 @@
       "onboard_time": 1669643433,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 201087,
-      "num": 201087,
-      "word": "严肃处理出具虚假检测报告等行为",
-      "onboard_time": 1669710037,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 199787,
@@ -1635,22 +1683,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 178477,
-      "num": 178477,
-      "word": "孙兴慜的ins评论区",
-      "onboard_time": 1669709676,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 177033,
-      "num": 177033,
-      "word": "深圳地铁",
-      "onboard_time": 1669708837,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 176623,
       "num": 176623,
       "word": "许半夏打电话准备稿子",
@@ -1819,6 +1851,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 162300,
+      "num": 162300,
+      "word": "00后晒基金收益被劝先学习",
+      "onboard_time": 1669710817,
+      "rank": 47,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 162264,
       "num": 162264,
       "word": "李峋朱韵故事感",
@@ -1873,6 +1913,14 @@
       "onboard_time": 1669635814,
       "rank": 46,
       "category": "科技"
+    },
+    {
+      "raw_hot": 155790,
+      "num": 155790,
+      "word": "2岁姐姐拼尽全力拉车保护妹妹",
+      "onboard_time": 1669711058,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 155024,
