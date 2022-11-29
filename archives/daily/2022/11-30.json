@@ -1,6 +1,6 @@
 {
   "startTime": 1669739332504,
-  "endTime": 1669756674714,
+  "endTime": 1669757614422,
   "band_list": [
     {
       "raw_hot": 2756631,
@@ -371,6 +371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 183079,
+      "num": 183079,
+      "word": "威尔士0比3英格兰",
+      "onboard_time": 1669756333,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 165903,
       "num": 165903,
       "word": "他们没来MAMA又好像来了",
@@ -425,14 +433,6 @@
       "onboard_time": 1669730606,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 146785,
-      "num": 80044,
-      "word": "威尔士0比3英格兰",
-      "onboard_time": 1669756333,
-      "rank": 10,
-      "category": "体育"
     },
     {
       "raw_hot": 145464,
@@ -515,6 +515,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 128334,
+      "num": 33130,
+      "word": "美国小组第二出线",
+      "onboard_time": 1669756572,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 114480,
       "num": 114480,
       "word": "神十五出征",
@@ -564,7 +572,7 @@
     },
     {
       "raw_hot": 87983,
-      "num": 51467,
+      "num": 60256,
       "word": "真不给卡塔尔留面子",
       "onboard_time": 1669746616,
       "rank": 37,
@@ -587,11 +595,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 50153,
-      "num": 30696,
-      "word": "美国小组第二出线",
-      "onboard_time": 1669756572,
+      "raw_hot": 47264,
+      "num": 31950,
+      "word": "英格兰小组第一晋级",
+      "onboard_time": 1669757532,
       "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 43072,
+      "num": 31509,
+      "word": "卡塔尔三连败",
+      "onboard_time": 1669754770,
+      "rank": 32,
       "category": "体育"
     },
     {
@@ -611,14 +627,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 40158,
-      "num": 30027,
-      "word": "卡塔尔三连败",
-      "onboard_time": 1669754770,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 39850,
       "num": 39850,
       "word": "至亲离世的当下你是怎么度过的",
@@ -627,20 +635,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 38586,
+      "num": 30721,
+      "word": "拉什福德任意球世界波",
+      "onboard_time": 1669756033,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 37152,
       "num": 37152,
       "word": "20年后才看懂的电影",
       "onboard_time": 1669745357,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 31855,
-      "num": 29541,
-      "word": "拉什福德任意球世界波",
-      "onboard_time": 1669756033,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 14698,

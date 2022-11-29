@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/28 00:26:38 ~ 2022/11/30 05:17:54
+本榜单时间：2022/11/28 00:26:38 ~ 2022/11/30 05:33:34
 </p>
 </blockquote>
 <p>
@@ -3771,6 +3771,12 @@ boystory翻跳JYP合集（热度：191436）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A8%81%E5%B0%94%E5%A3%AB0%E6%AF%943%E8%8B%B1%E6%A0%BC%E5%85%B0%23" target="weibo">
+威尔士0比3英格兰（热度：183079）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E6%B8%85%E6%98%8E%E5%B8%A6%E4%BA%86%E5%A4%96%E5%AD%99%E7%9A%84%E7%8E%A9%E5%85%B7%E4%B8%8A%E5%A4%AA%E7%A9%BA%23" target="weibo">
 邓清明带了外孙的玩具上太空（热度：182477）
 </a>
@@ -4245,12 +4251,6 @@ KPL（热度：153471）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A8%81%E5%B0%94%E5%A3%AB0%E6%AF%943%E8%8B%B1%E6%A0%BC%E5%85%B0%23" target="weibo">
-威尔士0比3英格兰（热度：146785）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BA%93%E6%9D%9C%E6%96%AF%E5%A4%B4%E7%90%83%E7%A0%B4%E9%97%A8%23" target="weibo">
 库杜斯头球破门（热度：146757）
 </a>
@@ -4509,6 +4509,12 @@ AG六连胜（热度：142360）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%B0%8F%E7%BB%84%E7%AC%AC%E4%BA%8C%E5%87%BA%E7%BA%BF%23" target="weibo">
+美国小组第二出线（热度：128334）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%B0%E5%B7%9E%E9%80%9A%E6%8A%A5%E6%A0%B8%E9%85%B8%E9%87%87%E6%A0%B7%E4%BA%BA%E5%91%98%E9%98%B3%E6%80%A7%23" target="weibo">
 兰州通报核酸采样人员阳性（热度：125436）
 </a>
@@ -4689,8 +4695,14 @@ AG六连胜（热度：142360）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%B0%8F%E7%BB%84%E7%AC%AC%E4%BA%8C%E5%87%BA%E7%BA%BF%23" target="weibo">
-美国小组第二出线（热度：50153）
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E6%A0%BC%E5%85%B0%E5%B0%8F%E7%BB%84%E7%AC%AC%E4%B8%80%E6%99%8B%E7%BA%A7%23" target="weibo">
+英格兰小组第一晋级（热度：47264）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%A1%E5%A1%94%E5%B0%94%E4%B8%89%E8%BF%9E%E8%B4%A5%23" target="weibo">
+卡塔尔三连败（热度：43072）
 </a>
 </li>
 
@@ -4713,12 +4725,6 @@ AG六连胜（热度：142360）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%A1%E5%A1%94%E5%B0%94%E4%B8%89%E8%BF%9E%E8%B4%A5%23" target="weibo">
-卡塔尔三连败（热度：40158）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%87%B3%E4%BA%B2%E7%A6%BB%E4%B8%96%E7%9A%84%E5%BD%93%E4%B8%8B%E4%BD%A0%E6%98%AF%E6%80%8E%E4%B9%88%E5%BA%A6%E8%BF%87%E7%9A%84%23" target="weibo">
 至亲离世的当下你是怎么度过的（热度：39850）
 </a>
@@ -4737,6 +4743,12 @@ AG六连胜（热度：142360）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8B%89%E4%BB%80%E7%A6%8F%E5%BE%B7%E4%BB%BB%E6%84%8F%E7%90%83%E4%B8%96%E7%95%8C%E6%B3%A2%23" target="weibo">
+拉什福德任意球世界波（热度：38586）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2320%E5%B9%B4%E5%90%8E%E6%89%8D%E7%9C%8B%E6%87%82%E7%9A%84%E7%94%B5%E5%BD%B1%23" target="weibo">
 20年后才看懂的电影（热度：37152）
 </a>
@@ -4745,12 +4757,6 @@ AG六连胜（热度：142360）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A7%8D%E8%90%9D%E5%8D%9C%E7%94%A8%E5%8C%97%E6%96%97%E5%AF%BC%E8%88%AA%E7%99%BE%E7%B1%B3%E8%AF%AF%E5%B7%AE%E4%BB%852cm%23" target="weibo">
 种萝卜用北斗导航百米误差仅2cm（热度：37013）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%8B%89%E4%BB%80%E7%A6%8F%E5%BE%B7%E4%BB%BB%E6%84%8F%E7%90%83%E4%B8%96%E7%95%8C%E6%B3%A2%23" target="weibo">
-拉什福德任意球世界波（热度：31855）
 </a>
 </li>
 
