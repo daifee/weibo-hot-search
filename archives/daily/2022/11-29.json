@@ -1,7 +1,15 @@
 {
   "startTime": 1669652614385,
-  "endTime": 1669690519583,
+  "endTime": 1669691158542,
   "band_list": [
+    {
+      "raw_hot": 4838039,
+      "num": 4838039,
+      "word": "核酸乱象不止疫情永无宁日",
+      "onboard_time": 1669689149,
+      "rank": 0,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 4130825,
       "num": 4130825,
@@ -15,14 +23,6 @@
       "num": 3469327,
       "word": "卫健局回应核子基因核检业务违规",
       "onboard_time": 1669679247,
-      "rank": 0,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 3168786,
-      "num": 3168786,
-      "word": "核酸乱象不止疫情永无宁日",
-      "onboard_time": 1669689149,
       "rank": 0,
       "category": "社会新闻"
     },
@@ -107,6 +107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1057668,
+      "num": 1057668,
+      "word": "多地核酸筛查不必全员参与",
+      "onboard_time": 1669688911,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1019241,
       "num": 1019241,
       "word": "C罗示意自己进球",
@@ -123,20 +131,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 978656,
+      "num": 978656,
+      "word": "核子基因累计核酸检测超7亿人次",
+      "onboard_time": 1669686332,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 976940,
       "num": 976940,
       "word": "比利时国家队内讧",
       "onboard_time": 1669681412,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 951796,
-      "num": 951796,
-      "word": "核子基因累计核酸检测超7亿人次",
-      "onboard_time": 1669686332,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 877885,
@@ -167,14 +175,6 @@
       "num": 813555,
       "word": "摄像师身体不适坐地休息3次被辞",
       "onboard_time": 1669681170,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 798365,
-      "num": 798365,
-      "word": "多地核酸筛查不必全员参与",
-      "onboard_time": 1669688911,
       "rank": 8,
       "category": "社会新闻"
     },
@@ -395,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 440163,
+      "num": 440163,
+      "word": "刘令姿镜头下的尹峥李薇",
+      "onboard_time": 1669689991,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 436119,
       "num": 436119,
       "word": "迪士尼",
@@ -427,6 +435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 395274,
+      "num": 162681,
+      "word": "航海王红发歌姬终极预告",
+      "onboard_time": 1669691129,
+      "rank": 47,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 376901,
       "num": 376901,
       "word": "广州海珠试行闭环泡泡",
@@ -449,6 +465,14 @@
       "onboard_time": 1669650033,
       "rank": 19,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 356094,
+      "num": 356094,
+      "word": "用这个手机壳很难不笑吧",
+      "onboard_time": 1669689632,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 355935,
@@ -483,12 +507,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 312773,
+      "num": 312773,
+      "word": "以李峋为中心的粉圈",
+      "onboard_time": 1669687895,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 308110,
       "num": 308110,
       "word": "巴西进球 越位",
       "onboard_time": 1669657217,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 305676,
+      "num": 305676,
+      "word": "和闺蜜住一起是什么体验",
+      "onboard_time": 1669688911,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 304422,
+      "num": 304422,
+      "word": "未来2天成都可能下雪",
+      "onboard_time": 1669687834,
+      "rank": 24,
+      "category": "社会新闻,社会新闻"
     },
     {
       "raw_hot": 300338,
@@ -539,6 +587,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 280055,
+      "num": 280055,
+      "word": "白鹿郑书意吃火锅路透",
+      "onboard_time": 1669688971,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 277492,
       "num": 277492,
       "word": "山寨内马尔曾被内马尔亲自认证",
@@ -547,28 +603,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 277281,
-      "num": 277281,
-      "word": "和闺蜜住一起是什么体验",
-      "onboard_time": 1669688911,
-      "rank": 22,
-      "category": "影视"
-    },
-    {
       "raw_hot": 277200,
       "num": 277200,
       "word": "寻找15岁少年胡某宇",
       "onboard_time": 1669639353,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 274079,
-      "num": 274079,
-      "word": "用这个手机壳很难不笑吧",
-      "onboard_time": 1669689632,
-      "rank": 23,
-      "category": "幽默"
     },
     {
       "raw_hot": 273015,
@@ -587,28 +627,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 268628,
-      "num": 268628,
-      "word": "未来2天成都可能下雪",
-      "onboard_time": 1669687834,
-      "rank": 24,
-      "category": "社会新闻,社会新闻"
-    },
-    {
       "raw_hot": 265195,
       "num": 265195,
       "word": "没给韩国角球",
       "onboard_time": 1669649917,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 264921,
-      "num": 264921,
-      "word": "以李峋为中心的粉圈",
-      "onboard_time": 1669687895,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 259418,
@@ -625,22 +649,6 @@
       "onboard_time": 1669683338,
       "rank": 31,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 254131,
-      "num": 254131,
-      "word": "白鹿郑书意吃火锅路透",
-      "onboard_time": 1669688971,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 252997,
-      "num": 252997,
-      "word": "刘令姿镜头下的尹峥李薇",
-      "onboard_time": 1669689991,
-      "rank": 28,
-      "category": "影视"
     },
     {
       "raw_hot": 251104,
@@ -691,6 +699,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 230214,
+      "num": 162388,
+      "word": "邢菲红秀保加利亚版封面",
+      "onboard_time": 1669691129,
+      "rank": 48,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 229645,
       "num": 229645,
       "word": "这就是银杏名字的由来吧",
@@ -713,6 +729,22 @@
       "onboard_time": 1669660095,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 220621,
+      "num": 220621,
+      "word": "被C罗肌肉秀到了",
+      "onboard_time": 1669687594,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 220397,
+      "num": 220397,
+      "word": "命韵峋环吻戏名场面",
+      "onboard_time": 1669690169,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 212639,
@@ -745,6 +777,14 @@
       "onboard_time": 1669688731,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 202270,
+      "num": 202270,
+      "word": "阿凡达2新IMAX海报",
+      "onboard_time": 1669690593,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 201383,
@@ -795,12 +835,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 196844,
+      "num": 196844,
+      "word": "C罗上帝之发",
+      "onboard_time": 1669690470,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 196727,
       "num": 196727,
       "word": "李国庆称张兰是他尊敬的企业家",
       "onboard_time": 1669642656,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 195429,
+      "num": 195429,
+      "word": "弹药用尽后他引爆炸药冲向敌人",
+      "onboard_time": 1669688252,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 193596,
+      "num": 193596,
+      "word": "懂点中文但不多",
+      "onboard_time": 1669690412,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 191704,
@@ -835,14 +899,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 183501,
-      "num": 183501,
-      "word": "命韵峋环吻戏名场面",
-      "onboard_time": 1669690169,
-      "rank": 38,
-      "category": "影视"
-    },
-    {
       "raw_hot": 181480,
       "num": 156993,
       "word": "魔术vs篮网",
@@ -867,6 +923,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 174719,
+      "num": 174719,
+      "word": "南部战区警告驱离美导弹巡洋舰",
+      "onboard_time": 1669690169,
+      "rank": 43,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 174260,
       "num": 174260,
       "word": "曾可妮翻唱你说你还不了",
@@ -883,19 +947,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 171165,
-      "num": 171165,
-      "word": "被C罗肌肉秀到了",
-      "onboard_time": 1669687594,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 171066,
-      "num": 171066,
-      "word": "弹药用尽后他引爆炸药冲向敌人",
-      "onboard_time": 1669688252,
-      "rank": 41,
+      "raw_hot": 168157,
+      "num": 168157,
+      "word": "叫顺风车送猫中途被司机威胁加价",
+      "onboard_time": 1669690109,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -923,6 +979,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 162847,
+      "num": 162847,
+      "word": "重庆新增本土确诊209例无症状8583例",
+      "onboard_time": 1669690772,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158150,
       "num": 128278,
       "word": "本泽马已康复",
@@ -945,30 +1009,6 @@
       "onboard_time": 1669682256,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 152139,
-      "num": 152139,
-      "word": "叫顺风车送猫中途被司机威胁加价",
-      "onboard_time": 1669690109,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 152060,
-      "num": 133036,
-      "word": "C罗上帝之发",
-      "onboard_time": 1669690470,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 151995,
-      "num": 151995,
-      "word": "南部战区警告驱离美导弹巡洋舰",
-      "onboard_time": 1669690169,
-      "rank": 43,
-      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 150258,
@@ -1025,14 +1065,6 @@
       "onboard_time": 1669646316,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 131242,
-      "num": 131242,
-      "word": "懂点中文但不多",
-      "onboard_time": 1669690412,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 130276,
@@ -1140,7 +1172,7 @@
     },
     {
       "raw_hot": 24483,
-      "num": 1510984,
+      "num": 1660361,
       "word": "100秒重温神十五航天员真挚发言",
       "onboard_time": 1669621472,
       "rank": 2,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1669691158542,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4838039,
+        "num": 4838039,
+        "word": "核酸乱象不止疫情永无宁日",
+        "onboard_time": 1669689149,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2056102,
+        "num": 2056102,
+        "word": "卫健局回应核子基因核检业务违规",
+        "onboard_time": 1669679247,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 12304,
+        "num": 1660361,
+        "word": "100秒重温神十五航天员真挚发言",
+        "onboard_time": 1669621472,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1268159,
+        "num": 1268159,
+        "word": "C罗被换下时全场起立鼓掌",
+        "onboard_time": 1669681231,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1244232,
+        "num": 1244232,
+        "word": "河北出现零下30℃低温",
+        "onboard_time": 1669684836,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1057668,
+        "num": 1057668,
+        "word": "多地核酸筛查不必全员参与",
+        "onboard_time": 1669688911,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 978656,
+        "num": 978656,
+        "word": "核子基因累计核酸检测超7亿人次",
+        "onboard_time": 1669686332,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 897589,
+        "num": 897589,
+        "word": "女子买房送60平阳台苦恼封窗太贵",
+        "onboard_time": 1669683157,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 701324,
+        "num": 701324,
+        "word": "C罗示意自己进球",
+        "onboard_time": 1669684536,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 601876,
+        "num": 601876,
+        "word": "外卖员夫妻因饿了偷同行2份外卖",
+        "onboard_time": 1669681895,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 721992,
+        "num": 593191,
+        "word": "张婧仪和她的三个伴舞",
+        "onboard_time": 1669687471,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 561659,
+        "num": 561659,
+        "word": "网传女子被多人殴打视频源自境外",
+        "onboard_time": 1669683454,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 523195,
+        "num": 523195,
+        "word": "郑州下雪",
+        "onboard_time": 1669685495,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 457350,
+        "num": 457350,
+        "word": "8岁男孩休学专打游戏第6天回归网课",
+        "onboard_time": 1669684653,
+        "rank": 13,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 440163,
+        "num": 440163,
+        "word": "刘令姿镜头下的尹峥李薇",
+        "onboard_time": 1669689991,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 429342,
+        "num": 429342,
+        "word": "比利时国家队内讧",
+        "onboard_time": 1669681412,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 362082,
+        "num": 362082,
+        "word": "上海迪士尼乐园今日起暂时关闭",
+        "onboard_time": 1669682917,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 356094,
+        "num": 356094,
+        "word": "用这个手机壳很难不笑吧",
+        "onboard_time": 1669689632,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 343871,
+        "num": 343871,
+        "word": "西宁通报网传大白虐狗",
+        "onboard_time": 1669683036,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333635,
+        "num": 333635,
+        "word": "许半夏入狱",
+        "onboard_time": 1669680570,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 329117,
+        "num": 329117,
+        "word": "孩子把水晶球放床上烧穿三层床褥",
+        "onboard_time": 1669682315,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321225,
+        "num": 321225,
+        "word": "B费说自己就是给C罗传球",
+        "onboard_time": 1669679605,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 312773,
+        "num": 312773,
+        "word": "以李峋为中心的粉圈",
+        "onboard_time": 1669687895,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 305676,
+        "num": 305676,
+        "word": "和闺蜜住一起是什么体验",
+        "onboard_time": 1669688911,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 304422,
+        "num": 304422,
+        "word": "未来2天成都可能下雪",
+        "onboard_time": 1669687834,
+        "rank": 24,
+        "category": "社会新闻,社会新闻"
+      },
+      {
+        "raw_hot": 287989,
+        "num": 287989,
+        "word": "马斯克称苹果威胁下架推特",
+        "onboard_time": 1669686570,
+        "rank": 25,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 280055,
+        "num": 280055,
+        "word": "白鹿郑书意吃火锅路透",
+        "onboard_time": 1669688971,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 280007,
+        "num": 280007,
+        "word": "摄像师身体不适坐地休息3次被辞",
+        "onboard_time": 1669681170,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227493,
+        "num": 227493,
+        "word": "真的有人穿什么都好看",
+        "onboard_time": 1669648542,
+        "rank": 28,
+        "category": "幽默,时尚"
+      },
+      {
+        "raw_hot": 220685,
+        "num": 220685,
+        "word": "北京新增确诊病例数快速增长势头有所遏制",
+        "onboard_time": 1669680753,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220621,
+        "num": 220621,
+        "word": "被C罗肌肉秀到了",
+        "onboard_time": 1669687594,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 220397,
+        "num": 220397,
+        "word": "命韵峋环吻戏名场面",
+        "onboard_time": 1669690169,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 217615,
+        "num": 217615,
+        "word": "司机因前车起步晚5秒斗气致1死3伤",
+        "onboard_time": 1669679005,
+        "rank": 32,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 208658,
+        "num": 208658,
+        "word": "欧豪演的童骁骑心动刚开始就结束",
+        "onboard_time": 1669685912,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 202270,
+        "num": 202270,
+        "word": "阿凡达2新IMAX海报",
+        "onboard_time": 1669690593,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 196844,
+        "num": 196844,
+        "word": "C罗上帝之发",
+        "onboard_time": 1669690470,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195429,
+        "num": 195429,
+        "word": "弹药用尽后他引爆炸药冲向敌人",
+        "onboard_time": 1669688252,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194577,
+        "num": 194577,
+        "word": "柳岩跳世界杯主题曲舞蹈",
+        "onboard_time": 1669679487,
+        "rank": 37,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 188730,
+        "num": 193750,
+        "word": "保护胃部有哪些方法",
+        "onboard_time": 1669688731,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193596,
+        "num": 193596,
+        "word": "懂点中文但不多",
+        "onboard_time": 1669690412,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 190094,
+        "num": 190094,
+        "word": "山寨内马尔曾被内马尔亲自认证",
+        "onboard_time": 1669682855,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188445,
+        "num": 188445,
+        "word": "C罗碰到球了吗",
+        "onboard_time": 1669669632,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174719,
+        "num": 174719,
+        "word": "南部战区警告驱离美导弹巡洋舰",
+        "onboard_time": 1669690169,
+        "rank": 42,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 171987,
+        "num": 171987,
+        "word": "北京增社会面490例",
+        "onboard_time": 1669682136,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168157,
+        "num": 168157,
+        "word": "叫顺风车送猫中途被司机威胁加价",
+        "onboard_time": 1669690109,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165972,
+        "num": 165972,
+        "word": "上财校长称博士生像乞丐一样在研究",
+        "onboard_time": 1669644873,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162847,
+        "num": 162847,
+        "word": "重庆新增本土确诊209例无症状8583例",
+        "onboard_time": 1669690772,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 395274,
+        "num": 162681,
+        "word": "航海王红发歌姬终极预告",
+        "onboard_time": 1669691129,
+        "rank": 47,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 230214,
+        "num": 162388,
+        "word": "邢菲红秀保加利亚版封面",
+        "onboard_time": 1669691129,
+        "rank": 48,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 161858,
+        "num": 161858,
+        "word": "小区高层楼顶现臂展2米大鸟",
+        "onboard_time": 1669681772,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#严禁随意封控等各类层层加码行为#"
+    }
+  }
+}
