@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1669749361174,
+  "endTime": 1669750415848,
   "band_list": [
     {
       "raw_hot": 36651023,
@@ -38907,6 +38907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 231475,
+      "num": 231475,
+      "word": "最惨东道主卡塔尔",
+      "onboard_time": 1669745716,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 231354,
       "num": 231354,
       "word": "中专生苦练木工9年成国家队教练",
@@ -40993,14 +41001,6 @@
       "onboard_time": 1669119722,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 217270,
-      "num": 127552,
-      "word": "最惨东道主卡塔尔",
-      "onboard_time": 1669745716,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 217262,
@@ -46217,6 +46217,14 @@
       "onboard_time": 1669638212,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 186033,
+      "num": 92487,
+      "word": "厄瓜多尔球员哭了",
+      "onboard_time": 1669747515,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 185985,
@@ -54249,14 +54257,6 @@
       "onboard_time": 1669186653,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 142104,
-      "num": 36689,
-      "word": "厄瓜多尔球员哭了",
-      "onboard_time": 1669747515,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 142098,
@@ -63779,6 +63779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 87981,
+      "num": 87981,
+      "word": "伊朗vs美国首发",
+      "onboard_time": 1669746795,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 87915,
       "num": 327322,
       "word": "两中学生遇走失男孩暖心护送",
@@ -63913,14 +63921,6 @@
       "onboard_time": 1668221732,
       "rank": 45,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 86936,
-      "num": 72902,
-      "word": "伊朗vs美国首发",
-      "onboard_time": 1669746795,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 86871,
@@ -67235,6 +67235,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 42867,
+      "num": 35054,
+      "word": "肖战推荐大家通过运动排解压力",
+      "onboard_time": 1669747933,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 42799,
       "num": 42799,
       "word": "杨洋晒黑色墨镜自拍",
@@ -67385,14 +67393,6 @@
       "onboard_time": 1667498056,
       "rank": 29,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 39293,
-      "num": 35054,
-      "word": "肖战推荐大家通过运动排解压力",
-      "onboard_time": 1669747933,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 39269,

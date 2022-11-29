@@ -1,6 +1,6 @@
 {
   "startTime": 1669739332504,
-  "endTime": 1669749361174,
+  "endTime": 1669750415848,
   "band_list": [
     {
       "raw_hot": 2756631,
@@ -259,6 +259,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 231475,
+      "num": 231475,
+      "word": "最惨东道主卡塔尔",
+      "onboard_time": 1669745716,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 225429,
       "num": 225429,
       "word": "北京疫情下一名配送骑手自述",
@@ -273,14 +281,6 @@
       "onboard_time": 1669727067,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 217270,
-      "num": 127552,
-      "word": "最惨东道主卡塔尔",
-      "onboard_time": 1669745716,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 211075,
@@ -352,6 +352,14 @@
       "word": "世界杯没有早场比赛了",
       "onboard_time": 1669726001,
       "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 186033,
+      "num": 92487,
+      "word": "厄瓜多尔球员哭了",
+      "onboard_time": 1669747515,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -433,14 +441,6 @@
       "onboard_time": 1669747873,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 142104,
-      "num": 36689,
-      "word": "厄瓜多尔球员哭了",
-      "onboard_time": 1669747515,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 140675,
@@ -547,8 +547,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 86936,
-      "num": 72902,
+      "raw_hot": 87981,
+      "num": 87981,
       "word": "伊朗vs美国首发",
       "onboard_time": 1669746795,
       "rank": 31,
@@ -579,20 +579,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 42867,
+      "num": 35054,
+      "word": "肖战推荐大家通过运动排解压力",
+      "onboard_time": 1669747933,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 39850,
       "num": 39850,
       "word": "至亲离世的当下你是怎么度过的",
       "onboard_time": 1669745476,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 39293,
-      "num": 35054,
-      "word": "肖战推荐大家通过运动排解压力",
-      "onboard_time": 1669747933,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 37152,
