@@ -1,6 +1,6 @@
 {
   "startTime": 1669566398830,
-  "endTime": 1669731513458,
+  "endTime": 1669732533821,
   "band_list": [
     {
       "raw_hot": 11045761,
@@ -115,8 +115,16 @@
       "category": "教育"
     },
     {
+      "raw_hot": 3196505,
+      "num": 3196505,
+      "word": "山东拟投资超230亿元建方舱医院",
+      "onboard_time": 1669729407,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 3187346,
-      "num": 258669,
+      "num": 274338,
       "word": "肖战发呆",
       "onboard_time": 1669724740,
       "rank": 30,
@@ -231,14 +239,6 @@
       "num": 2042526,
       "word": "专家解读感染者居家隔离是否可行",
       "onboard_time": 1669593811,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2030842,
-      "num": 2030842,
-      "word": "山东拟投资超230亿元建方舱医院",
-      "onboard_time": 1669729407,
       "rank": 1,
       "category": "社会新闻"
     },
@@ -507,6 +507,14 @@
       "category": "体育,网红"
     },
     {
+      "raw_hot": 1396259,
+      "num": 1396259,
+      "word": "王鹤棣领奖后拥抱何炅",
+      "onboard_time": 1669730786,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1381677,
       "num": 1381677,
       "word": "核子华曦部分公司近3个月内成立",
@@ -555,6 +563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1294610,
+      "num": 1294610,
+      "word": "卫龙半年亏损2.61亿",
+      "onboard_time": 1669730728,
+      "rank": 23,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1285105,
       "num": 1285105,
       "word": "多地核酸筛查不必全员参与",
@@ -577,6 +593,14 @@
       "onboard_time": 1669722997,
       "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1271106,
+      "num": 1271106,
+      "word": "突然就消除了对鬼的恐惧",
+      "onboard_time": 1669727785,
+      "rank": 19,
+      "category": "幽默"
     },
     {
       "raw_hot": 1261827,
@@ -651,14 +675,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1191834,
-      "num": 1191834,
-      "word": "突然就消除了对鬼的恐惧",
-      "onboard_time": 1669727785,
-      "rank": 19,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 1188696,
       "num": 1188696,
       "word": "难听",
@@ -681,14 +697,6 @@
       "onboard_time": 1669650395,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1149999,
-      "num": 1149999,
-      "word": "王鹤棣领奖后拥抱何炅",
-      "onboard_time": 1669730786,
-      "rank": 6,
-      "category": "影视"
     },
     {
       "raw_hot": 1145336,
@@ -740,7 +748,7 @@
     },
     {
       "raw_hot": 1110408,
-      "num": 827438,
+      "num": 1044452,
       "word": "赵丽颖当面催更张若昀",
       "onboard_time": 1669730068,
       "rank": 8,
@@ -812,7 +820,7 @@
     },
     {
       "raw_hot": 1019715,
-      "num": 445360,
+      "num": 479985,
       "word": "Somi撞衫小S",
       "onboard_time": 1669728985,
       "rank": 33,
@@ -889,6 +897,14 @@
       "onboard_time": 1669694731,
       "rank": 17,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 951049,
+      "num": 951049,
+      "word": "欧阳娜娜品牌988元浴袍成本不足百元",
+      "onboard_time": 1669731687,
+      "rank": 9,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 947561,
@@ -1097,6 +1113,14 @@
       "onboard_time": 1669613316,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 795900,
+      "num": 795900,
+      "word": "郑州30日凌晨起出行要求有变",
+      "onboard_time": 1669729948,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 791382,
@@ -1411,6 +1435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 654776,
+      "num": 654776,
+      "word": "李薇盘发",
+      "onboard_time": 1669727067,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 645751,
       "num": 645751,
       "word": "抖音回应世界杯直播时出现杂音",
@@ -1425,14 +1457,6 @@
       "onboard_time": 1669604371,
       "rank": 30,
       "category": "科技"
-    },
-    {
-      "raw_hot": 641021,
-      "num": 641021,
-      "word": "李薇盘发",
-      "onboard_time": 1669727067,
-      "rank": 20,
-      "category": "影视"
     },
     {
       "raw_hot": 640900,
@@ -1537,14 +1561,6 @@
       "onboard_time": 1669720178,
       "rank": 14,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 619196,
-      "num": 619196,
-      "word": "郑州30日凌晨起出行要求有变",
-      "onboard_time": 1669729948,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 607168,
@@ -1800,6 +1816,14 @@
       "word": "孩子把水晶球放床上烧穿三层床褥",
       "onboard_time": 1669682315,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 535119,
+      "num": 535119,
+      "word": "记者实测食用橘子后做核酸",
+      "onboard_time": 1669731387,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -2395,14 +2419,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 418225,
-      "num": 418225,
-      "word": "卫龙半年亏损2.61亿",
-      "onboard_time": 1669730728,
-      "rank": 23,
-      "category": "财经"
-    },
-    {
       "raw_hot": 416128,
       "num": 416128,
       "word": "ksg",
@@ -2433,6 +2449,14 @@
       "onboard_time": 1669689632,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 414375,
+      "num": 414375,
+      "word": "郑州转入常态化疫情防控",
+      "onboard_time": 1669730606,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 413643,
@@ -2473,6 +2497,14 @@
       "onboard_time": 1669636715,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 404252,
+      "num": 404252,
+      "word": "荷兰vs卡塔尔",
+      "onboard_time": 1669731030,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 403945,
@@ -2721,6 +2753,14 @@
       "onboard_time": 1669550075,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 369709,
+      "num": 369709,
+      "word": "如何看待4天工作不减薪制",
+      "onboard_time": 1669728631,
+      "rank": 49,
+      "category": "社会议题"
     },
     {
       "raw_hot": 368709,
@@ -3011,14 +3051,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 341870,
-      "num": 341870,
-      "word": "如何看待4天工作不减薪制",
-      "onboard_time": 1669728631,
-      "rank": 49,
-      "category": "社会议题"
-    },
-    {
       "raw_hot": 341734,
       "num": 164500,
       "word": "五代女团合跳CheerUp",
@@ -3032,6 +3064,14 @@
       "word": "白敬亭田曦薇拥抱花絮",
       "onboard_time": 1669712674,
       "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 341340,
+      "num": 267407,
+      "word": "秦施摔倒",
+      "onboard_time": 1669730666,
+      "rank": 31,
       "category": "影视"
     },
     {
@@ -3104,14 +3144,6 @@
       "word": "张天爱微博视界大会",
       "onboard_time": 1669717597,
       "rank": 34,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 330974,
-      "num": 256867,
-      "word": "秦施摔倒",
-      "onboard_time": 1669730666,
-      "rank": 31,
       "category": "影视"
     },
     {
@@ -3427,6 +3459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 302813,
+      "num": 302813,
+      "word": "北京已经启用方舱医院23家",
+      "onboard_time": 1669731746,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 301713,
       "num": 301713,
       "word": "深圳倡导市民下周居家办公",
@@ -3592,14 +3632,6 @@
       "word": "青岛13岁男孩打破魔方世界纪录",
       "onboard_time": 1669617573,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 284838,
-      "num": 284838,
-      "word": "郑州转入常态化疫情防控",
-      "onboard_time": 1669730606,
-      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -3800,6 +3832,14 @@
       "word": "重庆三兄弟为保供齐上阵",
       "onboard_time": 1669617869,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 258976,
+      "num": 258976,
+      "word": "南京下雪",
+      "onboard_time": 1669730786,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -4121,6 +4161,14 @@
       "onboard_time": 1669621172,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 230491,
+      "num": 230491,
+      "word": "不要轻易看孩子上网课",
+      "onboard_time": 1669730606,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 230214,
@@ -4475,14 +4523,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 197781,
-      "num": 197781,
-      "word": "荷兰vs卡塔尔",
-      "onboard_time": 1669731030,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 196922,
       "num": 196922,
       "word": "尹嵩被废黜流放",
@@ -4643,6 +4683,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 189284,
+      "num": 189284,
+      "word": "厄瓜多尔vs塞内加尔",
+      "onboard_time": 1669731507,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 188290,
       "num": 175361,
       "word": "尹岐原型是十三爷吧",
@@ -4777,14 +4825,6 @@
       "onboard_time": 1669635036,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 179597,
-      "num": 179597,
-      "word": "南京下雪",
-      "onboard_time": 1669730786,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 179127,
@@ -4945,14 +4985,6 @@
       "onboard_time": 1669634552,
       "rank": 45,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 169531,
-      "num": 169531,
-      "word": "不要轻易看孩子上网课",
-      "onboard_time": 1669730606,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 169319,
@@ -5307,6 +5339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 150582,
+      "num": 150582,
+      "word": "渐行渐远的友情该挽回吗",
+      "onboard_time": 1669732104,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 150258,
       "num": 136601,
       "word": "高中班主任教室设咖啡笔芯共享区",
@@ -5561,14 +5601,6 @@
       "onboard_time": 1669715859,
       "rank": 48,
       "category": "科技,财经"
-    },
-    {
-      "raw_hot": 138002,
-      "num": 138002,
-      "word": "记者实测食用橘子后做核酸",
-      "onboard_time": 1669731387,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 137567,
