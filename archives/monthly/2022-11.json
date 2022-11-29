@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1669693398170,
+  "endTime": 1669695909446,
   "band_list": [
     {
       "raw_hot": 36651023,
@@ -473,6 +473,14 @@
       "onboard_time": 1668255873,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 3706986,
+      "num": 3706986,
+      "word": "张核子弟弟回应",
+      "onboard_time": 1669692092,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3699608,
@@ -1441,14 +1449,6 @@
       "onboard_time": 1669209033,
       "rank": 10,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 2250611,
-      "num": 2250611,
-      "word": "张核子弟弟回应",
-      "onboard_time": 1669692092,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2241406,
@@ -7891,6 +7891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 863780,
+      "num": 863780,
+      "word": "男子虚报南大学历被开除起诉公司",
+      "onboard_time": 1669691011,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 861481,
       "num": 861481,
       "word": "打火机与公主裙 甜",
@@ -7993,6 +8001,14 @@
       "onboard_time": 1669542995,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 850912,
+      "num": 850912,
+      "word": "C罗上帝之发",
+      "onboard_time": 1669690470,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 850411,
@@ -10227,6 +10243,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 721748,
+      "num": 721748,
+      "word": "专家称现在的年轻人不容易妥协",
+      "onboard_time": 1669692933,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 721312,
       "num": 721312,
       "word": "樊振东vs林高远",
@@ -10241,6 +10265,14 @@
       "onboard_time": 1668574530,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 720145,
+      "num": 720145,
+      "word": "杨幂说下部戏想演反派",
+      "onboard_time": 1669693595,
+      "rank": 8,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 719969,
@@ -10272,14 +10304,6 @@
       "word": "日本vs哥斯达黎加",
       "onboard_time": 1669541136,
       "rank": 35,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 718663,
-      "num": 718663,
-      "word": "C罗上帝之发",
-      "onboard_time": 1669690470,
-      "rank": 47,
       "category": "体育"
     },
     {
@@ -15043,6 +15067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 544626,
+      "num": 544626,
+      "word": "令人心动的offer4首播",
+      "onboard_time": 1669694553,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 544264,
       "num": 487545,
       "word": "本月少女chuu被退团",
@@ -18835,6 +18867,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 462512,
+      "num": 462512,
+      "word": "南部战区警告驱离美导弹巡洋舰",
+      "onboard_time": 1669690169,
+      "rank": 43,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 462311,
       "num": 333307,
       "word": "王冰冰最新状态",
@@ -20419,14 +20459,6 @@
       "category": "自然"
     },
     {
-      "raw_hot": 434740,
-      "num": 434740,
-      "word": "南部战区警告驱离美导弹巡洋舰",
-      "onboard_time": 1669690169,
-      "rank": 43,
-      "category": "军事,社会新闻"
-    },
-    {
       "raw_hot": 434703,
       "num": 125222,
       "word": "黄轩 陪跑",
@@ -21937,6 +21969,14 @@
       "onboard_time": 1668748412,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 409472,
+      "num": 409472,
+      "word": "卡塔尔游客多到骆驼加班",
+      "onboard_time": 1669694731,
+      "rank": 17,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 409419,
@@ -24545,6 +24585,14 @@
       "onboard_time": 1667700506,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 368254,
+      "num": 368254,
+      "word": "叫顺风车送猫中途被司机威胁加价",
+      "onboard_time": 1669690109,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 368196,
@@ -27561,6 +27609,14 @@
       "onboard_time": 1668059786,
       "rank": 19,
       "category": "科技"
+    },
+    {
+      "raw_hot": 330862,
+      "num": 330862,
+      "word": "任嘉伦武庚纪武庚官宣",
+      "onboard_time": 1669695335,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 330796,
@@ -31243,14 +31299,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 289785,
-      "num": 289785,
-      "word": "叫顺风车送猫中途被司机威胁加价",
-      "onboard_time": 1669690109,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 289706,
       "num": 289706,
       "word": "成绩进步班主任请全班62人吃鸡腿",
@@ -33651,6 +33699,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 267012,
+      "num": 267012,
+      "word": "新手机你习惯带壳还是裸机",
+      "onboard_time": 1669693232,
+      "rank": 45,
+      "category": "科技"
+    },
+    {
       "raw_hot": 267001,
       "num": 267001,
       "word": "田曦薇时尚先生红毯造型",
@@ -35963,6 +36019,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 243807,
+      "num": 240999,
+      "word": "受访者亲述感染新冠之后",
+      "onboard_time": 1669695093,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 243702,
       "num": 243702,
       "word": "尹嵩精神状态",
@@ -36203,6 +36267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 241053,
+      "num": 241053,
+      "word": "侯宁被淋湿的本子是给李峋的菜谱",
+      "onboard_time": 1669693534,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 240884,
       "num": 240884,
       "word": "给女朋友安利英格兰队的方式",
@@ -36321,14 +36393,6 @@
       "onboard_time": 1668402928,
       "rank": 32,
       "category": "影视,情感"
-    },
-    {
-      "raw_hot": 239872,
-      "num": 239872,
-      "word": "男子虚报南大学历被开除起诉公司",
-      "onboard_time": 1669691011,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 239619,
@@ -38137,6 +38201,14 @@
       "onboard_time": 1669111532,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 225484,
+      "num": 225484,
+      "word": "施情华意婚礼吻",
+      "onboard_time": 1669693831,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 225425,
@@ -40539,6 +40611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 209534,
+      "num": 209534,
+      "word": "光遇复刻",
+      "onboard_time": 1669695154,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 209451,
       "num": 205869,
       "word": "高糖分的剧综名场面",
@@ -41995,6 +42075,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 199890,
+      "num": 199890,
+      "word": "美国主帅就伊朗国旗事件道歉",
+      "onboard_time": 1669695212,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 199749,
       "num": 199749,
       "word": "热依扎获飞天奖后首发博",
@@ -42299,20 +42387,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 197575,
-      "num": 197575,
-      "word": "专家称现在的年轻人不容易妥协",
-      "onboard_time": 1669692933,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 197527,
       "num": 197527,
       "word": "看嘴型是真爱吃",
       "onboard_time": 1668089725,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 197501,
+      "num": 1385273,
+      "word": "科学精准提高防疫工作的有效性",
+      "onboard_time": 1669691433,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 197469,
@@ -45691,6 +45779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 178600,
+      "num": 178600,
+      "word": "刘诗诗常华森一念关山撑伞对视路透",
+      "onboard_time": 1669693773,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 178569,
       "num": 178569,
       "word": "BoA李秀满ForgiveMe舞蹈挑战",
@@ -47995,6 +48091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 164516,
+      "num": 164516,
+      "word": "尹嵩喜提双休",
+      "onboard_time": 1669691971,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 164495,
       "num": 164495,
       "word": "单身即地狱2将12月13日播出",
@@ -48563,14 +48667,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 161289,
-      "num": 161289,
-      "word": "尹嵩喜提双休",
-      "onboard_time": 1669691971,
-      "rank": 43,
-      "category": "影视"
-    },
-    {
       "raw_hot": 161276,
       "num": 161276,
       "word": "德国合唱团用中文演唱茉莉花",
@@ -48649,14 +48745,6 @@
       "onboard_time": 1667569949,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 160991,
-      "num": 160991,
-      "word": "新手机你习惯带壳还是裸机",
-      "onboard_time": 1669693232,
-      "rank": 45,
-      "category": "科技"
     },
     {
       "raw_hot": 160965,
@@ -55017,14 +55105,6 @@
       "onboard_time": 1668664288,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 128315,
-      "num": 1385273,
-      "word": "科学精准提高防疫工作的有效性",
-      "onboard_time": 1669691433,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 128286,
