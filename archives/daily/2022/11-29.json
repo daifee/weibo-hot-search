@@ -1,6 +1,6 @@
 {
   "startTime": 1669652614385,
-  "endTime": 1669732533821,
+  "endTime": 1669735257873,
   "band_list": [
     {
       "raw_hot": 4914407,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 3187346,
-      "num": 274338,
+      "num": 315845,
       "word": "肖战发呆",
       "onboard_time": 1669724740,
       "rank": 30,
@@ -97,6 +97,14 @@
       "onboard_time": 1669705597,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2608187,
+      "num": 2608187,
+      "word": "欧阳娜娜品牌988元浴袍成本不足百元",
+      "onboard_time": 1669731687,
+      "rank": 9,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 2157457,
@@ -112,6 +120,14 @@
       "word": "杨迪 主持",
       "onboard_time": 1669717358,
       "rank": 5,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 2115162,
+      "num": 2115162,
+      "word": "李一桐将不再出演武庚纪",
+      "onboard_time": 1669734326,
+      "rank": 1,
       "category": "影视"
     },
     {
@@ -137,6 +153,14 @@
       "onboard_time": 1669718076,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1827179,
+      "num": 1827179,
+      "word": "卫龙半年亏损2.61亿",
+      "onboard_time": 1669730728,
+      "rank": 23,
+      "category": "财经"
     },
     {
       "raw_hot": 1748384,
@@ -187,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1548136,
+      "num": 1548136,
+      "word": "记者实测食用橘子后做核酸",
+      "onboard_time": 1669731387,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1482343,
       "num": 1482343,
       "word": "C罗碰到球了吗",
@@ -201,6 +233,14 @@
       "onboard_time": 1669723478,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1460973,
+      "num": 877154,
+      "word": "关晓彤在内场刷夸自己的微博",
+      "onboard_time": 1669733547,
+      "rank": 10,
+      "category": "影视"
     },
     {
       "raw_hot": 1426847,
@@ -257,14 +297,6 @@
       "onboard_time": 1669683157,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1294610,
-      "num": 1294610,
-      "word": "卫龙半年亏损2.61亿",
-      "onboard_time": 1669730728,
-      "rank": 23,
-      "category": "财经"
     },
     {
       "raw_hot": 1285105,
@@ -443,14 +475,6 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 951049,
-      "num": 951049,
-      "word": "欧阳娜娜品牌988元浴袍成本不足百元",
-      "onboard_time": 1669731687,
-      "rank": 9,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 947561,
       "num": 947561,
       "word": "为什么每次都是BBC在现场出问题",
@@ -465,6 +489,14 @@
       "onboard_time": 1669726001,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 937731,
+      "num": 937731,
+      "word": "广州天河区疫情防控",
+      "onboard_time": 1669724740,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 926493,
@@ -539,6 +571,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 823519,
+      "num": 823519,
+      "word": "北京已经启用方舱医院23家",
+      "onboard_time": 1669731746,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 820843,
       "num": 820843,
       "word": "网传女子被多人殴打视频源自境外",
@@ -601,14 +641,6 @@
       "onboard_time": 1669658537,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 759768,
-      "num": 759768,
-      "word": "广州天河区疫情防控",
-      "onboard_time": 1669724740,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 758307,
@@ -745,6 +777,14 @@
       "onboard_time": 1669680570,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 660617,
+      "num": 660617,
+      "word": "荷兰vs卡塔尔",
+      "onboard_time": 1669731030,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 654904,
@@ -960,14 +1000,6 @@
       "word": "孩子把水晶球放床上烧穿三层床褥",
       "onboard_time": 1669682315,
       "rank": 15,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 535119,
-      "num": 535119,
-      "word": "记者实测食用橘子后做核酸",
-      "onboard_time": 1669731387,
-      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -1235,6 +1267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 436032,
+      "num": 436032,
+      "word": "梅西已8年不喝汽水不吃披萨",
+      "onboard_time": 1669734326,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 435442,
       "num": 396562,
       "word": "felix脸颊比心",
@@ -1320,14 +1360,6 @@
       "word": "B费情商有多高",
       "onboard_time": 1669728087,
       "rank": 33,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 404252,
-      "num": 404252,
-      "word": "荷兰vs卡塔尔",
-      "onboard_time": 1669731030,
-      "rank": 38,
       "category": "体育"
     },
     {
@@ -1483,6 +1515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 367339,
+      "num": 367339,
+      "word": "南京下雪",
+      "onboard_time": 1669730786,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 365416,
       "num": 365416,
       "word": "许半夏撞衫光头强",
@@ -1595,6 +1635,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 349130,
+      "num": 349130,
+      "word": "神舟十五号",
+      "onboard_time": 1669732830,
+      "rank": 27,
+      "category": "科技"
+    },
+    {
       "raw_hot": 348938,
       "num": 327168,
       "word": "于正说任嘉伦演技可以的",
@@ -1660,7 +1708,7 @@
     },
     {
       "raw_hot": 341340,
-      "num": 267407,
+      "num": 306970,
       "word": "秦施摔倒",
       "onboard_time": 1669730666,
       "rank": 31,
@@ -1691,11 +1739,27 @@
       "category": "社会新闻,社会新闻"
     },
     {
+      "raw_hot": 334393,
+      "num": 334393,
+      "word": "不要轻易看孩子上网课",
+      "onboard_time": 1669730606,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 332412,
       "num": 225205,
       "word": "张天爱微博视界大会",
       "onboard_time": 1669717597,
       "rank": 34,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 329844,
+      "num": 315772,
+      "word": "陈飞宇张婧仪见面第一天一句话都没说",
+      "onboard_time": 1669734927,
+      "rank": 31,
       "category": "影视"
     },
     {
@@ -1803,6 +1867,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 305513,
+      "num": 305513,
+      "word": "许半夏的穿搭公式",
+      "onboard_time": 1669734804,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 305013,
       "num": 220318,
       "word": "李峋朱韵再次创业成功",
@@ -1832,14 +1904,6 @@
       "word": "严肃处理出具虚假检测报告等行为",
       "onboard_time": 1669710037,
       "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 302813,
-      "num": 302813,
-      "word": "北京已经启用方舱医院23家",
-      "onboard_time": 1669731746,
-      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -2011,6 +2075,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 273297,
+      "num": 273297,
+      "word": "方向盘套广告语被指侮辱女性",
+      "onboard_time": 1669733487,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 273015,
       "num": 273015,
       "word": "刘美含是语言小天才吧",
@@ -2048,14 +2120,6 @@
       "word": "山东一医院开诊亮灯仪式被指像KTV",
       "onboard_time": 1669643612,
       "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 258976,
-      "num": 258976,
-      "word": "南京下雪",
-      "onboard_time": 1669730786,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -2155,6 +2219,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 240779,
+      "num": 2415653,
+      "word": "聚焦神舟十五号",
+      "onboard_time": 1669711419,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 238367,
       "num": 238367,
       "word": "这才是糯唧唧美食的天堂",
@@ -2177,14 +2249,6 @@
       "onboard_time": 1669691433,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 230491,
-      "num": 230491,
-      "word": "不要轻易看孩子上网课",
-      "onboard_time": 1669730606,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 230214,
@@ -2531,6 +2595,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 187399,
+      "num": 187399,
+      "word": "神十五出征",
+      "onboard_time": 1669734866,
+      "rank": 42,
+      "category": "科技"
+    },
+    {
       "raw_hot": 184592,
       "num": 184592,
       "word": "威神V直播状态",
@@ -2651,6 +2723,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 171920,
+      "num": 171920,
+      "word": "上网课忘关摄像头了",
+      "onboard_time": 1669735046,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 171142,
       "num": 171142,
       "word": "尹嵩喜提双休",
@@ -2672,6 +2752,14 @@
       "word": "山东多地下雪",
       "onboard_time": 1669710159,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 168438,
+      "num": 168438,
+      "word": "男孩熟练给鱿鱼动手术给柚子缝合",
+      "onboard_time": 1669733667,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -3025,14 +3113,6 @@
       "onboard_time": 1669658239,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 115192,
-      "num": 2415653,
-      "word": "聚焦神舟十五号",
-      "onboard_time": 1669711419,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 112470,
