@@ -1,6 +1,6 @@
 {
   "startTime": 1669566398830,
-  "endTime": 1669696900658,
+  "endTime": 1669699099374,
   "band_list": [
     {
       "raw_hot": 11045761,
@@ -65,6 +65,22 @@
       "onboard_time": 1669679247,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3307286,
+      "num": 3307286,
+      "word": "央视网评今年的伪爆剧和爆剧",
+      "onboard_time": 1669697073,
+      "rank": 0,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 3257928,
+      "num": 545969,
+      "word": "广州地铁硫酸事件",
+      "onboard_time": 1669696956,
+      "rank": 10,
+      "category": "社会负面"
     },
     {
       "raw_hot": 3204434,
@@ -627,6 +643,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 976300,
+      "num": 976300,
+      "word": "卡塔尔游客多到骆驼加班",
+      "onboard_time": 1669694731,
+      "rank": 17,
+      "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 963656,
+      "num": 963656,
+      "word": "受访者亲述感染新冠之后",
+      "onboard_time": 1669695093,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 945831,
       "num": 945831,
       "word": "卿卿日常最大反派安曦元来了",
@@ -779,6 +811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 787914,
+      "num": 787914,
+      "word": "违规10次的核子华曦为什么没有被公诉",
+      "onboard_time": 1669697672,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 763501,
       "num": 763501,
       "word": "巴西1比0瑞士",
@@ -913,14 +953,6 @@
       "onboard_time": 1669646976,
       "rank": 11,
       "category": "体育"
-    },
-    {
-      "raw_hot": 692476,
-      "num": 692476,
-      "word": "卡塔尔游客多到骆驼加班",
-      "onboard_time": 1669694731,
-      "rank": 17,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 688105,
@@ -1275,14 +1307,6 @@
       "category": "幽默,时尚"
     },
     {
-      "raw_hot": 507730,
-      "num": 507730,
-      "word": "受访者亲述感染新冠之后",
-      "onboard_time": 1669695093,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 505292,
       "num": 505292,
       "word": "如果不考虑职业歧视和薪资",
@@ -1369,6 +1393,14 @@
       "onboard_time": 1669679005,
       "rank": 18,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 479333,
+      "num": 479333,
+      "word": "男子等女友下班打游戏激动摔下3楼",
+      "onboard_time": 1669696236,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 476098,
@@ -1481,6 +1513,14 @@
       "onboard_time": 1669546300,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 455968,
+      "num": 455968,
+      "word": "美国主帅就伊朗国旗事件道歉",
+      "onboard_time": 1669695212,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 454580,
@@ -1739,14 +1779,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 399711,
-      "num": 399711,
-      "word": "美国主帅就伊朗国旗事件道歉",
-      "onboard_time": 1669695212,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 396105,
       "num": 396105,
       "word": "巴颖",
@@ -1761,6 +1793,14 @@
       "onboard_time": 1669691129,
       "rank": 47,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 394017,
+      "num": 394017,
+      "word": "浙江多地教育局发文欢迎学生返乡",
+      "onboard_time": 1669697375,
+      "rank": 18,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 391181,
@@ -1963,12 +2003,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 353319,
+      "num": 353319,
+      "word": "卿卿日常制片人说没有第二季",
+      "onboard_time": 1669696473,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 349899,
       "num": 349899,
       "word": "赵丽颖李光洁风吹半夏是官配",
       "onboard_time": 1669639116,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 348745,
+      "num": 348745,
+      "word": "71岁老人坐网约车猝死家属索赔",
+      "onboard_time": 1669696715,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 348146,
@@ -2025,6 +2081,14 @@
       "onboard_time": 1669597355,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 341521,
+      "num": 341521,
+      "word": "王源刘宇邢菲今日封面大片",
+      "onboard_time": 1669698035,
+      "rank": 23,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 338552,
@@ -2635,14 +2699,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 254441,
-      "num": 254441,
-      "word": "卿卿日常制片人说没有第二季",
-      "onboard_time": 1669696473,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 253294,
       "num": 253294,
       "word": "蒋芸王晓佳治愈系MV渊",
@@ -2771,6 +2827,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 241545,
+      "num": 241545,
+      "word": "赘婿领征地补偿被拒起诉要回40万",
+      "onboard_time": 1669697977,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 240180,
       "num": 240180,
       "word": "省考",
@@ -2804,7 +2868,7 @@
     },
     {
       "raw_hot": 237767,
-      "num": 1385273,
+      "num": 1474473,
       "word": "科学精准提高防疫工作的有效性",
       "onboard_time": 1669691433,
       "rank": 2,
@@ -2987,6 +3051,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 220854,
+      "num": 220854,
+      "word": "大学生打电竞比赛聊考研",
+      "onboard_time": 1669698698,
+      "rank": 34,
+      "category": "游戏,幽默"
+    },
+    {
       "raw_hot": 220621,
       "num": 220621,
       "word": "被C罗肌肉秀到了",
@@ -3025,6 +3097,14 @@
       "onboard_time": 1669614453,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 217273,
+      "num": 217273,
+      "word": "iPhone15Pro将搭载索尼新一代传感器",
+      "onboard_time": 1669698156,
+      "rank": 35,
+      "category": "科技"
     },
     {
       "raw_hot": 216208,
@@ -3073,6 +3153,14 @@
       "onboard_time": 1669695154,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 209443,
+      "num": 209443,
+      "word": "伊朗美国小组出线生死局",
+      "onboard_time": 1669698457,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 207072,
@@ -3243,6 +3331,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 189914,
+      "num": 189914,
+      "word": "小伙悉尼赶海被罚款七千多",
+      "onboard_time": 1669698338,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 188290,
       "num": 175361,
       "word": "尹岐原型是十三爷吧",
@@ -3347,20 +3443,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 179506,
-      "num": 179506,
-      "word": "男子等女友下班打游戏激动摔下3楼",
-      "onboard_time": 1669696236,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 179127,
       "num": 179127,
       "word": "父亲保持耐心反复辅导女儿作业",
       "onboard_time": 1669687652,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 176623,
+      "num": 176623,
+      "word": "许半夏打电话准备稿子",
+      "onboard_time": 1669698515,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 176169,
@@ -3617,6 +3713,22 @@
       "onboard_time": 1669620631,
       "rank": 47,
       "category": "军事"
+    },
+    {
+      "raw_hot": 162264,
+      "num": 162264,
+      "word": "李峋朱韵故事感",
+      "onboard_time": 1669697736,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 160815,
+      "num": 160815,
+      "word": "C罗是罗三岁吧",
+      "onboard_time": 1669698874,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 159538,
