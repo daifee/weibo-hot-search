@@ -1,6 +1,6 @@
 {
   "startTime": 1669566398830,
-  "endTime": 1669711241545,
+  "endTime": 1669713574884,
   "band_list": [
     {
       "raw_hot": 11045761,
@@ -67,6 +67,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 3524217,
+      "num": 3524217,
+      "word": "已有超11家核酸检测机构造假被查",
+      "onboard_time": 1669702413,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 3485157,
       "num": 3485157,
       "word": "柳州核酸",
@@ -120,14 +128,6 @@
       "word": "奥密克戎变异株2到3天传一代",
       "onboard_time": 1669596034,
       "rank": 0,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2877485,
-      "num": 2877485,
-      "word": "已有超11家核酸检测机构造假被查",
-      "onboard_time": 1669702413,
-      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -315,20 +315,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1614237,
+      "num": 1614237,
+      "word": "微博视界大会",
+      "onboard_time": 1669709196,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1548461,
       "num": 1548461,
       "word": "国家疾控局回应网友反映层层加码问题",
       "onboard_time": 1669707457,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1536041,
-      "num": 1536041,
-      "word": "微博视界大会",
-      "onboard_time": 1669709196,
-      "rank": 5,
-      "category": "影视"
     },
     {
       "raw_hot": 1508408,
@@ -569,6 +569,14 @@
       "onboard_time": 1669643857,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1131736,
+      "num": 1131736,
+      "word": "孙兴慜的ins评论区",
+      "onboard_time": 1669709676,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 1123858,
@@ -915,12 +923,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 764494,
+      "num": 622645,
+      "word": "沈小婷MAMA红毯图",
+      "onboard_time": 1669710638,
+      "rank": 20,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 763501,
       "num": 763501,
       "word": "巴西1比0瑞士",
       "onboard_time": 1669658537,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 758307,
+      "num": 758307,
+      "word": "小女孩地铁咳嗽被医生提醒抽动症",
+      "onboard_time": 1669707997,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 755748,
@@ -1035,6 +1059,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 718953,
+      "num": 601997,
+      "word": "赵露思陈哲远今日红毯造型",
+      "onboard_time": 1669711595,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 716620,
       "num": 716620,
       "word": "苹果手机将全迈入全面屏时代",
@@ -1131,14 +1163,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 650244,
-      "num": 650244,
-      "word": "孙兴慜的ins评论区",
-      "onboard_time": 1669709676,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 645751,
       "num": 645751,
       "word": "抖音回应世界杯直播时出现杂音",
@@ -1232,14 +1256,6 @@
       "word": "什么情况下需戴N95口罩",
       "onboard_time": 1669602812,
       "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 627040,
-      "num": 627040,
-      "word": "小女孩地铁咳嗽被医生提醒抽动症",
-      "onboard_time": 1669707997,
-      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -1369,14 +1385,6 @@
       "onboard_time": 1669650698,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 566392,
-      "num": 463733,
-      "word": "沈小婷MAMA红毯图",
-      "onboard_time": 1669710638,
-      "rank": 20,
-      "category": "音乐"
     },
     {
       "raw_hot": 559871,
@@ -1771,6 +1779,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 450494,
+      "num": 450494,
+      "word": "孙兴慜遭韩国网民网暴",
+      "onboard_time": 1669712674,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 448482,
       "num": 448482,
       "word": "孙千夸赵丽颖饰演的许半夏",
@@ -1843,6 +1859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 436448,
+      "num": 427137,
+      "word": "李峋朱韵又一起看雪了",
+      "onboard_time": 1669712617,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 436119,
       "num": 436119,
       "word": "迪士尼",
@@ -1872,6 +1896,14 @@
       "word": "落实防控措施不仅要有力度还要有温度",
       "onboard_time": 1669601913,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 429110,
+      "num": 429110,
+      "word": "深圳地铁",
+      "onboard_time": 1669708837,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -2083,6 +2115,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 381621,
+      "num": 338272,
+      "word": "朱韵扇了李峋一巴掌",
+      "onboard_time": 1669713214,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 380278,
       "num": 380278,
       "word": "小伙赌球手机中木马自动转账20万",
@@ -2219,6 +2259,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 364347,
+      "num": 270589,
+      "word": "MAMA五代女团合作舞台预告",
+      "onboard_time": 1669713157,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 364290,
       "num": 364290,
       "word": "风吹半夏",
@@ -2252,7 +2300,7 @@
     },
     {
       "raw_hot": 359780,
-      "num": 226464,
+      "num": 337875,
       "word": "冯绍峰彭小苒新剧同框看不见正脸",
       "onboard_time": 1669708900,
       "rank": 33,
@@ -2281,6 +2329,14 @@
       "onboard_time": 1669572559,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 353995,
+      "num": 270340,
+      "word": "李峋说我再也不会毁了自己",
+      "onboard_time": 1669713395,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 353319,
@@ -2387,6 +2443,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 341465,
+      "num": 235062,
+      "word": "白敬亭田曦薇拥抱花絮",
+      "onboard_time": 1669712674,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 338552,
       "num": 338552,
       "word": "女生分手后骗妈妈和内马尔谈恋爱",
@@ -2409,6 +2473,14 @@
       "onboard_time": 1669628671,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 336990,
+      "num": 336990,
+      "word": "00后晒基金收益被劝先学习",
+      "onboard_time": 1669710817,
+      "rank": 47,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 335824,
@@ -2707,6 +2779,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 302873,
+      "num": 302873,
+      "word": "严肃处理出具虚假检测报告等行为",
+      "onboard_time": 1669710037,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 301713,
       "num": 301713,
       "word": "深圳倡导市民下周居家办公",
@@ -2995,6 +3075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 271382,
+      "num": 271382,
+      "word": "伊朗vs美国",
+      "onboard_time": 1669700014,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 270468,
       "num": 270468,
       "word": "德国有希望了",
@@ -3009,14 +3097,6 @@
       "onboard_time": 1669638098,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 265296,
-      "num": 265296,
-      "word": "严肃处理出具虚假检测报告等行为",
-      "onboard_time": 1669710037,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 265195,
@@ -3227,14 +3307,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 241665,
-      "num": 241665,
-      "word": "深圳地铁",
-      "onboard_time": 1669708837,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 240180,
       "num": 240180,
       "word": "省考",
@@ -3297,6 +3369,14 @@
       "onboard_time": 1669613436,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 235508,
+      "num": 235508,
+      "word": "不得以时空伴随扩大风险人员判定范围",
+      "onboard_time": 1669710217,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 235139,
@@ -3531,6 +3611,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 214143,
+      "num": 214143,
+      "word": "2岁姐姐拼尽全力拉车保护妹妹",
+      "onboard_time": 1669711058,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 213321,
       "num": 213321,
       "word": "强制开机后一秒关机的狗狗",
@@ -3561,6 +3649,14 @@
       "onboard_time": 1669618892,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 209814,
+      "num": 209814,
+      "word": "西安下雪仿佛置身长安",
+      "onboard_time": 1669712796,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 209622,
@@ -3728,14 +3824,6 @@
       "word": "米林科维奇破门",
       "onboard_time": 1669638699,
       "rank": 44,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 193696,
-      "num": 193696,
-      "word": "伊朗vs美国",
-      "onboard_time": 1669700014,
-      "rank": 49,
       "category": "体育"
     },
     {
@@ -3979,6 +4067,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 174385,
+      "num": 174385,
+      "word": "女生骨骼惊奇能用手背握水瓶",
+      "onboard_time": 1669713273,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 174260,
       "num": 174260,
       "word": "曾可妮翻唱你说你还不了",
@@ -3992,6 +4088,14 @@
       "word": "上海全市共有约3千到5千只貉",
       "onboard_time": 1669619973,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 174025,
+      "num": 174025,
+      "word": "女子寄榴莲收货后只剩空壳",
+      "onboard_time": 1669712978,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -4041,14 +4145,6 @@
       "onboard_time": 1669601071,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 171160,
-      "num": 171160,
-      "word": "不得以时空伴随扩大风险人员判定范围",
-      "onboard_time": 1669710217,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 171142,
@@ -4259,14 +4355,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 162300,
-      "num": 162300,
-      "word": "00后晒基金收益被劝先学习",
-      "onboard_time": 1669710817,
-      "rank": 47,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 162264,
       "num": 162264,
       "word": "李峋朱韵故事感",
@@ -4347,14 +4435,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 155790,
-      "num": 155790,
-      "word": "2岁姐姐拼尽全力拉车保护妹妹",
-      "onboard_time": 1669711058,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 155043,
       "num": 155043,
       "word": "郭晓婷复古港风珍珠发带造型",
@@ -4369,6 +4449,14 @@
       "onboard_time": 1669692092,
       "rank": 46,
       "category": "科技"
+    },
+    {
+      "raw_hot": 154762,
+      "num": 154762,
+      "word": "张凯急了",
+      "onboard_time": 1669713515,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 153815,
@@ -4393,6 +4481,14 @@
       "onboard_time": 1669641815,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 152909,
+      "num": 152909,
+      "word": "Hero",
+      "onboard_time": 1669713457,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 152841,
@@ -4881,6 +4977,14 @@
       "onboard_time": 1669582994,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 68689,
+      "num": 1618606,
+      "word": "聚焦神舟十五号",
+      "onboard_time": 1669711419,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 64241,
