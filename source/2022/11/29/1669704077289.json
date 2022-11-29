@@ -1,0 +1,410 @@
+{
+  "runTime": 1669704077289,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3086227,
+        "num": 3086227,
+        "word": "广州地铁硫酸事件",
+        "onboard_time": 1669696956,
+        "rank": 0,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 2450689,
+        "num": 2450689,
+        "word": "柳州核酸",
+        "onboard_time": 1669701094,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128135,
+        "num": 1426343,
+        "word": "科学精准提高防疫工作的有效性",
+        "onboard_time": 1669691433,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1092365,
+        "num": 1092365,
+        "word": "违规10次的核子华曦为什么没有被公诉",
+        "onboard_time": 1669697672,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1037508,
+        "num": 1037508,
+        "word": "已有超11家核酸检测机构造假被查",
+        "onboard_time": 1669702413,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 850349,
+        "num": 850349,
+        "word": "刘亦菲李现去有风的地方今日过审",
+        "onboard_time": 1669701514,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 685005,
+        "num": 685005,
+        "word": "受访者亲述感染新冠之后",
+        "onboard_time": 1669695093,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 665623,
+        "num": 665623,
+        "word": "乌市对低收入者给予300元一次性生活救助",
+        "onboard_time": 1669701755,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 630822,
+        "num": 630822,
+        "word": "伊朗美国小组出线生死局",
+        "onboard_time": 1669698457,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 582311,
+        "num": 582311,
+        "word": "张核子弟弟回应",
+        "onboard_time": 1669692092,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2278651,
+        "num": 576864,
+        "word": "央视网评今年的伪爆剧和爆剧",
+        "onboard_time": 1669697073,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 493883,
+        "num": 493883,
+        "word": "大学生打电竞比赛聊考研",
+        "onboard_time": 1669698698,
+        "rank": 11,
+        "category": "游戏,幽默"
+      },
+      {
+        "raw_hot": 453732,
+        "num": 453732,
+        "word": "内蒙古去年结婚登记量创新低",
+        "onboard_time": 1669701154,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 443180,
+        "num": 443180,
+        "word": "iPhone15Pro将搭载索尼新一代传感器",
+        "onboard_time": 1669698156,
+        "rank": 13,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 428182,
+        "num": 428182,
+        "word": "卫健局回应核子基因核检业务违规",
+        "onboard_time": 1669679247,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 410470,
+        "num": 410470,
+        "word": "浙江多地教育局发文欢迎学生返乡",
+        "onboard_time": 1669697375,
+        "rank": 15,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 366042,
+        "num": 366042,
+        "word": "男子等女友下班打游戏激动摔下3楼",
+        "onboard_time": 1669696236,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 361383,
+        "num": 361383,
+        "word": "深圳核子基因招商宣传称钱景无限",
+        "onboard_time": 1669700852,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352488,
+        "num": 352488,
+        "word": "西安下雪",
+        "onboard_time": 1669701452,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321156,
+        "num": 321156,
+        "word": "卡塔尔游客多到骆驼加班",
+        "onboard_time": 1669694731,
+        "rank": 19,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 301196,
+        "num": 301196,
+        "word": "女子买房送60平阳台苦恼封窗太贵",
+        "onboard_time": 1669683157,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289384,
+        "num": 289384,
+        "word": "71岁老人坐网约车猝死家属索赔",
+        "onboard_time": 1669696715,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282110,
+        "num": 282110,
+        "word": "步行者绝杀湖人",
+        "onboard_time": 1669702710,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 281956,
+        "num": 281956,
+        "word": "小伙悉尼赶海被罚款七千多",
+        "onboard_time": 1669698338,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279009,
+        "num": 279009,
+        "word": "眼神不好就别戴无线耳机了",
+        "onboard_time": 1669700852,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 275088,
+        "num": 275088,
+        "word": "劳荣枝哥哥称百分百改判或发回重审",
+        "onboard_time": 1669702832,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261292,
+        "num": 261292,
+        "word": "专家称现在的年轻人不容易妥协",
+        "onboard_time": 1669692933,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257174,
+        "num": 257174,
+        "word": "多地核酸筛查不必全员参与",
+        "onboard_time": 1669688911,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252700,
+        "num": 252700,
+        "word": "2022MAMA舞台预告公开",
+        "onboard_time": 1669703975,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 230595,
+        "num": 230595,
+        "word": "赘婿领征地补偿被拒起诉要回40万",
+        "onboard_time": 1669697977,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218710,
+        "num": 218710,
+        "word": "卿卿日常制片人说没有第二季",
+        "onboard_time": 1669696473,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 213929,
+        "num": 213929,
+        "word": "关晓彤晒令人心动的offer剧照",
+        "onboard_time": 1669700256,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202617,
+        "num": 202617,
+        "word": "iPhone本季度产量预计减少5%至10%",
+        "onboard_time": 1669701996,
+        "rank": 32,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 193519,
+        "num": 193519,
+        "word": "胡彦斌说张婉婷应该更善意对待世界",
+        "onboard_time": 1669702710,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189506,
+        "num": 189506,
+        "word": "劳荣枝案小木匠妻女回应30日开庭",
+        "onboard_time": 1669703251,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188073,
+        "num": 188073,
+        "word": "杨幂GQ红毯导师大片",
+        "onboard_time": 1669703975,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 184410,
+        "num": 184410,
+        "word": "乐华新女团跳舞反差感",
+        "onboard_time": 1669702111,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181815,
+        "num": 181815,
+        "word": "核子华曦工作人员回应",
+        "onboard_time": 1669702893,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178583,
+        "num": 178583,
+        "word": "伊朗vs美国",
+        "onboard_time": 1669700014,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175787,
+        "num": 175787,
+        "word": "王源刘宇邢菲今日封面大片",
+        "onboard_time": 1669698035,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 175719,
+        "num": 175719,
+        "word": "河北出现零下30℃低温",
+        "onboard_time": 1669684836,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169804,
+        "num": 169804,
+        "word": "C罗上帝之发",
+        "onboard_time": 1669690470,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169287,
+        "num": 169287,
+        "word": "重庆新增本土确诊209例无症状8583例",
+        "onboard_time": 1669690772,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166610,
+        "num": 166610,
+        "word": "假如C罗换个发型",
+        "onboard_time": 1669702413,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165256,
+        "num": 165256,
+        "word": "搂着猫咪睡觉的狗狗",
+        "onboard_time": 1669703371,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 164349,
+        "num": 164349,
+        "word": "方言对颜值的影响挺大的",
+        "onboard_time": 1669703495,
+        "rank": 45,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 157738,
+        "num": 157738,
+        "word": "美国主帅就伊朗国旗事件道歉",
+        "onboard_time": 1669695212,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157629,
+        "num": 157629,
+        "word": "任嘉伦武庚纪武庚官宣",
+        "onboard_time": 1669695335,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 157000,
+        "num": 157000,
+        "word": "BOYSTORY李梓豪说自己是内娱糊豆",
+        "onboard_time": 1669699776,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147539,
+        "num": 147539,
+        "word": "危险爱人定档",
+        "onboard_time": 1669699830,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#航天新征程#"
+    }
+  }
+}
