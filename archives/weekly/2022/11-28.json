@@ -1,6 +1,6 @@
 {
   "startTime": 1669566398830,
-  "endTime": 1669687689522,
+  "endTime": 1669690519583,
   "band_list": [
     {
       "raw_hot": 11045761,
@@ -57,6 +57,14 @@
       "onboard_time": 1669606961,
       "rank": 23,
       "category": "教育"
+    },
+    {
+      "raw_hot": 3168786,
+      "num": 3168786,
+      "word": "核酸乱象不止疫情永无宁日",
+      "onboard_time": 1669689149,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2938185,
@@ -355,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1358954,
+      "num": 1358954,
+      "word": "河北出现零下30℃低温",
+      "onboard_time": 1669684836,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1295046,
       "num": 1295046,
       "word": "女子买房送60平阳台苦恼封窗太贵",
@@ -400,14 +416,6 @@
       "word": "北京增本土确诊840例",
       "onboard_time": 1669595495,
       "rank": 5,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1213603,
-      "num": 1213603,
-      "word": "河北出现零下30℃低温",
-      "onboard_time": 1669684836,
-      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -579,6 +587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 951796,
+      "num": 951796,
+      "word": "核子基因累计核酸检测超7亿人次",
+      "onboard_time": 1669686332,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 945831,
       "num": 945831,
       "word": "卿卿日常最大反派安曦元来了",
@@ -715,6 +731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 798365,
+      "num": 798365,
+      "word": "多地核酸筛查不必全员参与",
+      "onboard_time": 1669688911,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 789936,
       "num": 789936,
       "word": "克罗地亚vs加拿大",
@@ -801,6 +825,14 @@
       "onboard_time": 1669569444,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 729686,
+      "num": 606588,
+      "word": "张婧仪和她的三个伴舞",
+      "onboard_time": 1669687471,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 724359,
@@ -1131,14 +1163,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 533581,
-      "num": 533581,
-      "word": "核子基因累计核酸检测超7亿人次",
-      "onboard_time": 1669686332,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 530723,
       "num": 530723,
       "word": "韩国将面对葡萄牙队",
@@ -1169,6 +1193,14 @@
       "onboard_time": 1669604673,
       "rank": 20,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 516042,
+      "num": 516042,
+      "word": "8岁男孩休学专打游戏第6天回归网课",
+      "onboard_time": 1669684653,
+      "rank": 32,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 509858,
@@ -1569,14 +1601,6 @@
       "onboard_time": 1669622976,
       "rank": 27,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 401982,
-      "num": 401982,
-      "word": "8岁男孩休学专打游戏第6天回归网课",
-      "onboard_time": 1669684653,
-      "rank": 32,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 401753,
@@ -2123,6 +2147,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 299319,
+      "num": 299319,
+      "word": "马斯克称苹果威胁下架推特",
+      "onboard_time": 1669686570,
+      "rank": 39,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 297409,
       "num": 297409,
       "word": "女子在家被呛竟是有人楼梯间烧纸",
@@ -2259,6 +2291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 277281,
+      "num": 277281,
+      "word": "和闺蜜住一起是什么体验",
+      "onboard_time": 1669688911,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 277188,
       "num": 277188,
       "word": "男子饿了2天拜托交警买个面包",
@@ -2289,6 +2329,14 @@
       "onboard_time": 1669619134,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 274079,
+      "num": 274079,
+      "word": "用这个手机壳很难不笑吧",
+      "onboard_time": 1669689632,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 274010,
@@ -2323,6 +2371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 268628,
+      "num": 268628,
+      "word": "未来2天成都可能下雪",
+      "onboard_time": 1669687834,
+      "rank": 24,
+      "category": "社会新闻,社会新闻"
+    },
+    {
       "raw_hot": 267400,
       "num": 243228,
       "word": "尹峥尹嵩敞开心扉",
@@ -2339,6 +2395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 264921,
+      "num": 264921,
+      "word": "以李峋为中心的粉圈",
+      "onboard_time": 1669687895,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 264412,
       "num": 264412,
       "word": "盐城建湖出土1.5吨唐宋钱币",
@@ -2353,14 +2417,6 @@
       "onboard_time": 1669617869,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 261976,
-      "num": 261976,
-      "word": "张婧仪和她的三个伴舞",
-      "onboard_time": 1669687471,
-      "rank": 28,
-      "category": "影视"
     },
     {
       "raw_hot": 257421,
@@ -2403,12 +2459,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 254131,
+      "num": 254131,
+      "word": "白鹿郑书意吃火锅路透",
+      "onboard_time": 1669688971,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 253294,
       "num": 253294,
       "word": "蒋芸王晓佳治愈系MV渊",
       "onboard_time": 1669606837,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 252997,
+      "num": 252997,
+      "word": "刘令姿镜头下的尹峥李薇",
+      "onboard_time": 1669689991,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 252075,
@@ -2819,6 +2891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 203232,
+      "num": 203232,
+      "word": "保护胃部有哪些方法",
+      "onboard_time": 1669688731,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 198460,
       "num": 198460,
       "word": "巴西vs瑞士贵宾席有多豪华",
@@ -3003,6 +3083,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 183501,
+      "num": 183501,
+      "word": "命韵峋环吻戏名场面",
+      "onboard_time": 1669690169,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 182193,
       "num": 182193,
       "word": "冯潇霆说日本有希望赢西班牙",
@@ -3049,14 +3137,6 @@
       "onboard_time": 1669620752,
       "rank": 44,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 175461,
-      "num": 175461,
-      "word": "马斯克称苹果威胁下架推特",
-      "onboard_time": 1669686570,
-      "rank": 39,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 174260,
@@ -3113,6 +3193,22 @@
       "onboard_time": 1669601071,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 171165,
+      "num": 171165,
+      "word": "被C罗肌肉秀到了",
+      "onboard_time": 1669687594,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 171066,
+      "num": 171066,
+      "word": "弹药用尽后他引爆炸药冲向敌人",
+      "onboard_time": 1669688252,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 169750,
@@ -3315,19 +3411,35 @@
       "category": "科技"
     },
     {
+      "raw_hot": 152139,
+      "num": 152139,
+      "word": "叫顺风车送猫中途被司机威胁加价",
+      "onboard_time": 1669690109,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152060,
+      "num": 133036,
+      "word": "C罗上帝之发",
+      "onboard_time": 1669690470,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 151995,
+      "num": 151995,
+      "word": "南部战区警告驱离美导弹巡洋舰",
+      "onboard_time": 1669690169,
+      "rank": 43,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 151493,
       "num": 151493,
       "word": "这届世界杯有多抓马",
       "onboard_time": 1669603292,
       "rank": 46,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 151279,
-      "num": 151279,
-      "word": "被C罗肌肉秀到了",
-      "onboard_time": 1669687594,
-      "rank": 49,
       "category": "体育"
     },
     {
@@ -3601,6 +3713,14 @@
       "onboard_time": 1669627538,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 131242,
+      "num": 131242,
+      "word": "懂点中文但不多",
+      "onboard_time": 1669690412,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 130685,
