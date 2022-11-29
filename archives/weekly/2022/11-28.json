@@ -1,6 +1,6 @@
 {
   "startTime": 1669566398830,
-  "endTime": 1669700076049,
+  "endTime": 1669703141099,
   "band_list": [
     {
       "raw_hot": 11045761,
@@ -208,6 +208,14 @@
       "word": "远嫁女子孕期遭家暴娘家上门接回家",
       "onboard_time": 1669635938,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1861472,
+      "num": 1861472,
+      "word": "柳州核酸",
+      "onboard_time": 1669701094,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -435,6 +443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1259716,
+      "num": 1259716,
+      "word": "违规10次的核子华曦为什么没有被公诉",
+      "onboard_time": 1669697672,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1229641,
       "num": 1229641,
       "word": "赵露思提名金莲花最佳女主角",
@@ -619,14 +635,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1011878,
-      "num": 1011878,
-      "word": "违规10次的核子华曦为什么没有被公诉",
-      "onboard_time": 1669697672,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1007289,
       "num": 1007289,
       "word": "葡萄牙2比0乌拉圭",
@@ -681,6 +689,14 @@
       "onboard_time": 1669622613,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 917442,
+      "num": 917442,
+      "word": "刘亦菲李现去有风的地方今日过审",
+      "onboard_time": 1669701514,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 894132,
@@ -1019,6 +1035,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 640900,
+      "num": 640900,
+      "word": "伊朗美国小组出线生死局",
+      "onboard_time": 1669698457,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 640485,
       "num": 312081,
       "word": "易烊千玺分享一段音频",
@@ -1145,6 +1169,14 @@
       "onboard_time": 1669623754,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 582134,
+      "num": 582134,
+      "word": "浙江多地教育局发文欢迎学生返乡",
+      "onboard_time": 1669697375,
+      "rank": 18,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 577527,
@@ -1291,20 +1323,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 523131,
+      "num": 523131,
+      "word": "iPhone15Pro将搭载索尼新一代传感器",
+      "onboard_time": 1669698156,
+      "rank": 35,
+      "category": "科技"
+    },
+    {
       "raw_hot": 521115,
       "num": 521115,
       "word": "林允儿连续8年担任mc",
       "onboard_time": 1669604673,
       "rank": 20,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 517097,
-      "num": 517097,
-      "word": "浙江多地教育局发文欢迎学生返乡",
-      "onboard_time": 1669697375,
-      "rank": 18,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 516042,
@@ -1523,14 +1555,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 457374,
-      "num": 457374,
-      "word": "伊朗美国小组出线生死局",
-      "onboard_time": 1669698457,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 455968,
       "num": 455968,
       "word": "美国主帅就伊朗国旗事件道歉",
@@ -1561,6 +1585,14 @@
       "onboard_time": 1669635871,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 450710,
+      "num": 450710,
+      "word": "大学生打电竞比赛聊考研",
+      "onboard_time": 1669698698,
+      "rank": 34,
+      "category": "游戏,幽默"
     },
     {
       "raw_hot": 448482,
@@ -1632,6 +1664,14 @@
       "word": "迪士尼",
       "onboard_time": 1669678946,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 435402,
+      "num": 435402,
+      "word": "乌市对低收入者给予300元一次性生活救助",
+      "onboard_time": 1669701755,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -1785,14 +1825,6 @@
       "onboard_time": 1669561905,
       "rank": 19,
       "category": "影视"
-    },
-    {
-      "raw_hot": 400471,
-      "num": 400471,
-      "word": "大学生打电竞比赛聊考研",
-      "onboard_time": 1669698698,
-      "rank": 34,
-      "category": "游戏,幽默"
     },
     {
       "raw_hot": 399893,
@@ -1995,14 +2027,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 356099,
-      "num": 356099,
-      "word": "iPhone15Pro将搭载索尼新一代传感器",
-      "onboard_time": 1669698156,
-      "rank": 35,
-      "category": "科技"
-    },
-    {
       "raw_hot": 355935,
       "num": 355935,
       "word": "C罗佩佩并肩作战",
@@ -2041,6 +2065,14 @@
       "onboard_time": 1669639116,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 348810,
+      "num": 348810,
+      "word": "已有超11家核酸检测机构造假被查",
+      "onboard_time": 1669702413,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 348745,
@@ -2113,6 +2145,22 @@
       "onboard_time": 1669597355,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 341881,
+      "num": 341881,
+      "word": "深圳核子基因招商宣传称钱景无限",
+      "onboard_time": 1669700852,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 341725,
+      "num": 341725,
+      "word": "内蒙古去年结婚登记量创新低",
+      "onboard_time": 1669701154,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 338552,
@@ -2281,6 +2329,14 @@
       "onboard_time": 1669570342,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 317984,
+      "num": 317984,
+      "word": "西安下雪",
+      "onboard_time": 1669701452,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 316075,
@@ -2563,6 +2619,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 279895,
+      "num": 279895,
+      "word": "小伙悉尼赶海被罚款七千多",
+      "onboard_time": 1669698338,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 278239,
       "num": 278239,
       "word": "法考",
@@ -2691,14 +2755,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 258275,
-      "num": 258275,
-      "word": "小伙悉尼赶海被罚款七千多",
-      "onboard_time": 1669698338,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 257421,
       "num": 257421,
       "word": "北京新增本土感染者1781例",
@@ -2737,6 +2793,14 @@
       "onboard_time": 1669601133,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 254263,
+      "num": 254263,
+      "word": "关晓彤晒令人心动的offer剧照",
+      "onboard_time": 1669700256,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 253294,
@@ -3195,6 +3259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 206553,
+      "num": 206553,
+      "word": "眼神不好就别戴无线耳机了",
+      "onboard_time": 1669700852,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 203394,
       "num": 203394,
       "word": "婆婆不让去月子中心女子二胎不给探望",
@@ -3211,12 +3283,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 199787,
+      "num": 199787,
+      "word": "乐华新女团跳舞反差感",
+      "onboard_time": 1669702111,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 199106,
+      "num": 199106,
+      "word": "胡彦斌说张婉婷应该更善意对待世界",
+      "onboard_time": 1669702710,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198460,
       "num": 198460,
       "word": "巴西vs瑞士贵宾席有多豪华",
       "onboard_time": 1669665195,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 196946,
+      "num": 196946,
+      "word": "iPhone本季度产量预计减少5%至10%",
+      "onboard_time": 1669701996,
+      "rank": 33,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 196922,
@@ -3347,6 +3443,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 189534,
+      "num": 189534,
+      "word": "华晨宇演唱会全纪录紧张又治愈",
+      "onboard_time": 1669702954,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 188290,
       "num": 175361,
       "word": "尹岐原型是十三爷吧",
@@ -3385,6 +3489,14 @@
       "onboard_time": 1669627835,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 187051,
+      "num": 187051,
+      "word": "伊朗vs美国",
+      "onboard_time": 1669700014,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 186134,
@@ -3435,6 +3547,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 182672,
+      "num": 182672,
+      "word": "假如C罗换个发型",
+      "onboard_time": 1669702413,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 182193,
       "num": 182193,
       "word": "冯潇霆说日本有希望赢西班牙",
@@ -3467,6 +3587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 177676,
+      "num": 177676,
+      "word": "核子华曦工作人员回应",
+      "onboard_time": 1669702893,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 176623,
       "num": 176623,
       "word": "许半夏打电话准备稿子",
@@ -3489,6 +3617,14 @@
       "onboard_time": 1669620752,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 175841,
+      "num": 175841,
+      "word": "BOYSTORY李梓豪说自己是内娱糊豆",
+      "onboard_time": 1669699776,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 174260,
@@ -3561,6 +3697,14 @@
       "onboard_time": 1669691971,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 170273,
+      "num": 170273,
+      "word": "步行者绝杀湖人",
+      "onboard_time": 1669702710,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 170053,
@@ -3705,14 +3849,6 @@
       "onboard_time": 1669693294,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 164198,
-      "num": 164198,
-      "word": "BOYSTORY李梓豪说自己是内娱糊豆",
-      "onboard_time": 1669699776,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 163322,
@@ -3889,14 +4025,6 @@
       "onboard_time": 1669653206,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 148703,
-      "num": 148703,
-      "word": "伊朗vs美国",
-      "onboard_time": 1669700014,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 147990,

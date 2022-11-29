@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1669700076049,
+  "endTime": 1669703141099,
   "band_list": [
     {
       "raw_hot": 36651023,
@@ -2168,6 +2168,14 @@
       "word": "梨泰院踩踏事件遗属推倒总统送的花篮",
       "onboard_time": 1667635885,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1861472,
+      "num": 1861472,
+      "word": "柳州核酸",
+      "onboard_time": 1669701094,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -4451,6 +4459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1259716,
+      "num": 1259716,
+      "word": "违规10次的核子华曦为什么没有被公诉",
+      "onboard_time": 1669697672,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1258556,
       "num": 1258556,
       "word": "男主持退场时一屁股坐女舞者身上",
@@ -6315,14 +6331,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 1011878,
-      "num": 1011878,
-      "word": "违规10次的核子华曦为什么没有被公诉",
-      "onboard_time": 1669697672,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1010892,
       "num": 1010892,
       "word": "弟弟代替去厕所哥哥上网课被发现",
@@ -7225,6 +7233,14 @@
       "onboard_time": 1668411088,
       "rank": 41,
       "category": "影视,网红"
+    },
+    {
+      "raw_hot": 917442,
+      "num": 917442,
+      "word": "刘亦菲李现去有风的地方今日过审",
+      "onboard_time": 1669701514,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 915679,
@@ -12091,6 +12107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 640900,
+      "num": 640900,
+      "word": "伊朗美国小组出线生死局",
+      "onboard_time": 1669698457,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 640825,
       "num": 640825,
       "word": "马斯克现在每天工作17小时",
@@ -13681,6 +13705,14 @@
       "onboard_time": 1669346251,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 582134,
+      "num": 582134,
+      "word": "浙江多地教育局发文欢迎学生返乡",
+      "onboard_time": 1669697375,
+      "rank": 18,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 581751,
@@ -16027,6 +16059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 523131,
+      "num": 523131,
+      "word": "iPhone15Pro将搭载索尼新一代传感器",
+      "onboard_time": 1669698156,
+      "rank": 35,
+      "category": "科技"
+    },
+    {
       "raw_hot": 522717,
       "num": 522717,
       "word": "施情华意领证了",
@@ -16361,14 +16401,6 @@
       "onboard_time": 1669119306,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 517097,
-      "num": 517097,
-      "word": "浙江多地教育局发文欢迎学生返乡",
-      "onboard_time": 1669697375,
-      "rank": 18,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 517025,
@@ -19267,14 +19299,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 457374,
-      "num": 457374,
-      "word": "伊朗美国小组出线生死局",
-      "onboard_time": 1669698457,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 457053,
       "num": 457053,
       "word": "霍华德 首秀",
@@ -19537,6 +19561,14 @@
       "onboard_time": 1667440524,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 450710,
+      "num": 450710,
+      "word": "大学生打电竞比赛聊考研",
+      "onboard_time": 1669698698,
+      "rank": 34,
+      "category": "游戏,幽默"
     },
     {
       "raw_hot": 450571,
@@ -20481,6 +20513,14 @@
       "onboard_time": 1669371592,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 435402,
+      "num": 435402,
+      "word": "乌市对低收入者给予300元一次性生活救助",
+      "onboard_time": 1669701755,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 435357,
@@ -22665,14 +22705,6 @@
       "onboard_time": 1667895806,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 400471,
-      "num": 400471,
-      "word": "大学生打电竞比赛聊考研",
-      "onboard_time": 1669698698,
-      "rank": 34,
-      "category": "游戏,幽默"
     },
     {
       "raw_hot": 400437,
@@ -25587,14 +25619,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 356099,
-      "num": 356099,
-      "word": "iPhone15Pro将搭载索尼新一代传感器",
-      "onboard_time": 1669698156,
-      "rank": 35,
-      "category": "科技"
-    },
-    {
       "raw_hot": 356025,
       "num": 333411,
       "word": "杨紫小夭抚琴六宫格剧照",
@@ -26168,6 +26192,14 @@
       "word": "天津女子买煎饼老板不在自己动手摊",
       "onboard_time": 1668170672,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 348810,
+      "num": 348810,
+      "word": "已有超11家核酸检测机构造假被查",
+      "onboard_time": 1669702413,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -26851,12 +26883,28 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 341881,
+      "num": 341881,
+      "word": "深圳核子基因招商宣传称钱景无限",
+      "onboard_time": 1669700852,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 341802,
       "num": 341802,
       "word": "张凯丽说雷佳音不是黑脸是太紧张了",
       "onboard_time": 1667914710,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 341725,
+      "num": 341725,
+      "word": "内蒙古去年结婚登记量创新低",
+      "onboard_time": 1669701154,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 341446,
@@ -28857,6 +28905,14 @@
       "onboard_time": 1668780449,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 317984,
+      "num": 317984,
+      "word": "西安下雪",
+      "onboard_time": 1669701452,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 317922,
@@ -32499,6 +32555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 279895,
+      "num": 279895,
+      "word": "小伙悉尼赶海被罚款七千多",
+      "onboard_time": 1669698338,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 279832,
       "num": 279832,
       "word": "12岁男孩在小区用迷你爆米花机摆摊",
@@ -34715,14 +34779,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 258275,
-      "num": 258275,
-      "word": "小伙悉尼赶海被罚款七千多",
-      "onboard_time": 1669698338,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 258135,
       "num": 258135,
       "word": "宁艺卓untouchable挑战",
@@ -35073,6 +35129,14 @@
       "onboard_time": 1668383667,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 254263,
+      "num": 254263,
+      "word": "关晓彤晒令人心动的offer剧照",
+      "onboard_time": 1669700256,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 254212,
@@ -41179,6 +41243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 206553,
+      "num": 206553,
+      "word": "眼神不好就别戴无线耳机了",
+      "onboard_time": 1669700852,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 206545,
       "num": 206545,
       "word": "居然被狗妈妈投诉了",
@@ -42195,6 +42267,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 199787,
+      "num": 199787,
+      "word": "乐华新女团跳舞反差感",
+      "onboard_time": 1669702111,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 199749,
       "num": 199749,
       "word": "热依扎获飞天奖后首发博",
@@ -42297,6 +42377,14 @@
       "onboard_time": 1668836368,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 199106,
+      "num": 199106,
+      "word": "胡彦斌说张婉婷应该更善意对待世界",
+      "onboard_time": 1669702710,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 199094,
@@ -42633,6 +42721,14 @@
       "onboard_time": 1669356873,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 196946,
+      "num": 196946,
+      "word": "iPhone本季度产量预计减少5%至10%",
+      "onboard_time": 1669701996,
+      "rank": 33,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 196922,
@@ -44083,6 +44179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 189534,
+      "num": 189534,
+      "word": "华晨宇演唱会全纪录紧张又治愈",
+      "onboard_time": 1669702954,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 189428,
       "num": 189428,
       "word": "爸爸远赴湖北给远嫁女儿打造柜子",
@@ -44529,6 +44633,14 @@
       "onboard_time": 1669045364,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 187051,
+      "num": 187051,
+      "word": "伊朗vs美国",
+      "onboard_time": 1669700014,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 187043,
@@ -45265,6 +45377,14 @@
       "onboard_time": 1668652107,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 182672,
+      "num": 182672,
+      "word": "假如C罗换个发型",
+      "onboard_time": 1669702413,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 182663,
@@ -46075,6 +46195,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 177676,
+      "num": 177676,
+      "word": "核子华曦工作人员回应",
+      "onboard_time": 1669702893,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 177647,
       "num": 117739,
       "word": "王鹤棣回顾出道5周年vlog",
@@ -46393,6 +46521,14 @@
       "onboard_time": 1669555720,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 175841,
+      "num": 175841,
+      "word": "BOYSTORY李梓豪说自己是内娱糊豆",
+      "onboard_time": 1669699776,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 175825,
@@ -47305,6 +47441,14 @@
       "onboard_time": 1668830968,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 170273,
+      "num": 170273,
+      "word": "步行者绝杀湖人",
+      "onboard_time": 1669702710,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 170232,
@@ -48289,14 +48433,6 @@
       "onboard_time": 1669338038,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 164198,
-      "num": 164198,
-      "word": "BOYSTORY李梓豪说自己是内娱糊豆",
-      "onboard_time": 1669699776,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 164155,
@@ -51001,14 +51137,6 @@
       "onboard_time": 1668902062,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 148703,
-      "num": 148703,
-      "word": "伊朗vs美国",
-      "onboard_time": 1669700014,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 148618,
