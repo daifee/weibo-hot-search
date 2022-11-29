@@ -1,6 +1,6 @@
 {
   "startTime": 1669652614385,
-  "endTime": 1669718317779,
+  "endTime": 1669720608492,
   "band_list": [
     {
       "raw_hot": 4914407,
@@ -11,8 +11,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 4163682,
-      "num": 4163682,
+      "raw_hot": 4557181,
+      "num": 4557181,
       "word": "人民至上不是防疫至上",
       "onboard_time": 1669714175,
       "rank": 46,
@@ -91,6 +91,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 2144173,
+      "num": 2144173,
+      "word": "杨迪 主持",
+      "onboard_time": 1669717358,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1941332,
       "num": 1941332,
       "word": "孙兴慜遭韩国网民网暴",
@@ -107,6 +115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1886366,
+      "num": 274336,
+      "word": "终于等到肖战的红毯了",
+      "onboard_time": 1669718076,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1748384,
       "num": 1748384,
       "word": "没有内马尔",
@@ -115,12 +131,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1745941,
-      "num": 1745941,
-      "word": "杨迪 主持",
-      "onboard_time": 1669717358,
-      "rank": 5,
-      "category": "影视"
+      "raw_hot": 1672707,
+      "num": 570456,
+      "word": "赵丽颖黄色水钻纱裙造型",
+      "onboard_time": 1669718318,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1627229,
@@ -145,14 +161,6 @@
       "onboard_time": 1669669632,
       "rank": 10,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1458828,
-      "num": 274336,
-      "word": "终于等到肖战的红毯了",
-      "onboard_time": 1669718076,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 1426847,
@@ -211,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1264389,
+      "num": 550188,
+      "word": "关晓彤红毯问今天头发和衣服是搭的吧",
+      "onboard_time": 1669719704,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1259716,
       "num": 1259716,
       "word": "违规10次的核子华曦为什么没有被公诉",
@@ -225,6 +241,14 @@
       "onboard_time": 1669647756,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1231320,
+      "num": 1231320,
+      "word": "他们没来MAMA又好像来了",
+      "onboard_time": 1669718020,
+      "rank": 12,
+      "category": "音乐"
     },
     {
       "raw_hot": 1230170,
@@ -315,6 +339,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 947561,
+      "num": 947561,
+      "word": "为什么每次都是BBC在现场出问题",
+      "onboard_time": 1669716101,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 917442,
       "num": 917442,
       "word": "刘亦菲李现去有风的地方今日过审",
@@ -329,6 +361,14 @@
       "onboard_time": 1669681895,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 864685,
+      "num": 561032,
+      "word": "男子出轨后开车撞妻子被女儿拦下",
+      "onboard_time": 1669719221,
+      "rank": 11,
+      "category": "社会负面"
     },
     {
       "raw_hot": 851228,
@@ -539,14 +579,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 653515,
-      "num": 653515,
-      "word": "他们没来MAMA又好像来了",
-      "onboard_time": 1669718020,
-      "rank": 12,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 640900,
       "num": 640900,
       "word": "伊朗美国小组出线生死局",
@@ -571,6 +603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 621410,
+      "num": 478928,
+      "word": "王鹤棣西装里穿针织衫",
+      "onboard_time": 1669720178,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 607168,
       "num": 607168,
       "word": "上海迪士尼乐园今日起暂时关闭",
@@ -585,6 +625,14 @@
       "onboard_time": 1669715556,
       "rank": 12,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 596404,
+      "num": 596404,
+      "word": "男生睡蒙了被同桌骗去擦老师板书",
+      "onboard_time": 1669714835,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 592551,
@@ -651,14 +699,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 580996,
-      "num": 580996,
-      "word": "男生睡蒙了被同桌骗去擦老师板书",
-      "onboard_time": 1669714835,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 572135,
       "num": 572135,
       "word": "令人心动的offer4首播",
@@ -721,14 +761,6 @@
       "onboard_time": 1669698156,
       "rank": 35,
       "category": "科技"
-    },
-    {
-      "raw_hot": 522233,
-      "num": 522233,
-      "word": "为什么每次都是BBC在现场出问题",
-      "onboard_time": 1669716101,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 520624,
@@ -865,6 +897,14 @@
       "onboard_time": 1669653804,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 450036,
+      "num": 352444,
+      "word": "红毯上美神降临的瞬间",
+      "onboard_time": 1669718862,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 447375,
@@ -1099,6 +1139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 360530,
+      "num": 353632,
+      "word": "MAMA",
+      "onboard_time": 1669710455,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 359780,
       "num": 337875,
       "word": "冯绍峰彭小苒新剧同框看不见正脸",
@@ -1131,14 +1179,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 353632,
-      "num": 353632,
-      "word": "MAMA",
-      "onboard_time": 1669710455,
-      "rank": 33,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 353319,
       "num": 353319,
       "word": "卿卿日常制片人说没有第二季",
@@ -1153,6 +1193,14 @@
       "onboard_time": 1669701452,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 351227,
+      "num": 351227,
+      "word": "Somi串烧舞台",
+      "onboard_time": 1669719941,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 350492,
@@ -1185,6 +1233,14 @@
       "onboard_time": 1669716637,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 346152,
+      "num": 346152,
+      "word": "警方通报广州地铁硫酸事件",
+      "onboard_time": 1669715616,
+      "rank": 38,
+      "category": "社会负面"
     },
     {
       "raw_hot": 345273,
@@ -1275,6 +1331,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 322619,
+      "num": 231431,
+      "word": "张婉婷我亲手扼杀了宋宁峰的少年气",
+      "onboard_time": 1669720119,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 318403,
       "num": 249600,
       "word": "Jinni刘海造型",
@@ -1307,11 +1371,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 306709,
+      "num": 223329,
+      "word": "北京朝阳有针对性地对部分群体实行免检",
+      "onboard_time": 1669719579,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 305676,
       "num": 305676,
       "word": "和闺蜜住一起是什么体验",
       "onboard_time": 1669688911,
       "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 305013,
+      "num": 220318,
+      "word": "李峋朱韵再次创业成功",
+      "onboard_time": 1669719103,
+      "rank": 34,
       "category": "影视"
     },
     {
@@ -1451,14 +1531,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 281181,
-      "num": 274321,
-      "word": "警方通报广州地铁硫酸事件",
-      "onboard_time": 1669715616,
-      "rank": 38,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 281179,
       "num": 281179,
       "word": "Nuguri退役",
@@ -1561,6 +1633,14 @@
       "onboard_time": 1669700256,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 251725,
+      "num": 251725,
+      "word": "当各国球迷得知我来自中国",
+      "onboard_time": 1669718439,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 251104,
@@ -1739,6 +1819,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 218700,
+      "num": 218700,
+      "word": "小伙1年内两次出手救同一个陌生人",
+      "onboard_time": 1669719038,
+      "rank": 36,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 212639,
       "num": 185163,
       "word": "内马尔在酒店看比赛",
@@ -1825,6 +1913,14 @@
       "onboard_time": 1669665195,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 198388,
+      "num": 198388,
+      "word": "张核子曾称要在中国开1万家基因小屋",
+      "onboard_time": 1669719875,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 197811,
@@ -2323,6 +2419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 145754,
+      "num": 145754,
+      "word": "地产股涨停",
+      "onboard_time": 1669720478,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 145368,
       "num": 145368,
       "word": "加纳门将",
@@ -2337,6 +2441,14 @@
       "onboard_time": 1669717179,
       "rank": 47,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 140105,
+      "num": 140105,
+      "word": "新兵投弹失手连长不到2秒救人",
+      "onboard_time": 1669720597,
+      "rank": 48,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 139572,

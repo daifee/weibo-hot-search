@@ -1,0 +1,410 @@
+{
+  "runTime": 1669720608492,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4557181,
+        "num": 4557181,
+        "word": "人民至上不是防疫至上",
+        "onboard_time": 1669714175,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2144173,
+        "num": 2144173,
+        "word": "杨迪 主持",
+        "onboard_time": 1669717358,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 63904,
+        "num": 2052552,
+        "word": "聚焦神舟十五号",
+        "onboard_time": 1669711419,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1965125,
+        "num": 1965125,
+        "word": "已有超11家核酸检测机构造假被查",
+        "onboard_time": 1669702413,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1328631,
+        "num": 1328631,
+        "word": "孙兴慜遭韩国网民网暴",
+        "onboard_time": 1669712674,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1257730,
+        "num": 1257730,
+        "word": "微博视界大会",
+        "onboard_time": 1669709196,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1231320,
+        "num": 1231320,
+        "word": "他们没来MAMA又好像来了",
+        "onboard_time": 1669718020,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 947561,
+        "num": 947561,
+        "word": "为什么每次都是BBC在现场出问题",
+        "onboard_time": 1669716101,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 640609,
+        "num": 640609,
+        "word": "魔兽负责人给中国玩家留言",
+        "onboard_time": 1669714901,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 596404,
+        "num": 596404,
+        "word": "男生睡蒙了被同桌骗去擦老师板书",
+        "onboard_time": 1669714835,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1672707,
+        "num": 570456,
+        "word": "赵丽颖黄色水钻纱裙造型",
+        "onboard_time": 1669718318,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 864685,
+        "num": 561032,
+        "word": "男子出轨后开车撞妻子被女儿拦下",
+        "onboard_time": 1669719221,
+        "rank": 11,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1264389,
+        "num": 550188,
+        "word": "关晓彤红毯问今天头发和衣服是搭的吧",
+        "onboard_time": 1669719704,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 493937,
+        "num": 493937,
+        "word": "柳州核酸",
+        "onboard_time": 1669701094,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 621410,
+        "num": 478928,
+        "word": "王鹤棣西装里穿针织衫",
+        "onboard_time": 1669720178,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 433064,
+        "num": 433064,
+        "word": "研究表明寄生虫入侵大脑造就了狼王",
+        "onboard_time": 1669704697,
+        "rank": 15,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 431759,
+        "num": 431759,
+        "word": "伊朗vs美国",
+        "onboard_time": 1669700014,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 398241,
+        "num": 398241,
+        "word": "北京新增本土感染者2126例",
+        "onboard_time": 1669716155,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 369104,
+        "num": 369104,
+        "word": "国家疾控局回应网友反映层层加码问题",
+        "onboard_time": 1669707457,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353087,
+        "num": 353087,
+        "word": "广州地铁硫酸事件",
+        "onboard_time": 1669696956,
+        "rank": 19,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 450036,
+        "num": 352444,
+        "word": "红毯上美神降临的瞬间",
+        "onboard_time": 1669718862,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 360530,
+        "num": 352153,
+        "word": "MAMA",
+        "onboard_time": 1669710455,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 351227,
+        "num": 351227,
+        "word": "Somi串烧舞台",
+        "onboard_time": 1669719941,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 346152,
+        "num": 346152,
+        "word": "警方通报广州地铁硫酸事件",
+        "onboard_time": 1669715616,
+        "rank": 23,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 342225,
+        "num": 342225,
+        "word": "女生骨骼惊奇能用手背握水瓶",
+        "onboard_time": 1669713273,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279275,
+        "num": 279275,
+        "word": "卖一部iPhone能赚1400元",
+        "onboard_time": 1669704572,
+        "rank": 25,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 273308,
+        "num": 273308,
+        "word": "小女孩地铁咳嗽被医生提醒抽动症",
+        "onboard_time": 1669707997,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251725,
+        "num": 251725,
+        "word": "当各国球迷得知我来自中国",
+        "onboard_time": 1669718439,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 251503,
+        "num": 251503,
+        "word": "国务院联防联控机制召开发布会",
+        "onboard_time": 1669705597,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234334,
+        "num": 234334,
+        "word": "女子寄榴莲收货后只剩空壳",
+        "onboard_time": 1669712978,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1886366,
+        "num": 234259,
+        "word": "终于等到肖战的红毯了",
+        "onboard_time": 1669718076,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 322619,
+        "num": 231431,
+        "word": "张婉婷我亲手扼杀了宋宁峰的少年气",
+        "onboard_time": 1669720119,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 310840,
+        "num": 227004,
+        "word": "央视网评今年的伪爆剧和爆剧",
+        "onboard_time": 1669697073,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 306709,
+        "num": 223329,
+        "word": "北京朝阳有针对性地对部分群体实行免检",
+        "onboard_time": 1669719579,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305013,
+        "num": 220318,
+        "word": "李峋朱韵再次创业成功",
+        "onboard_time": 1669719103,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 220302,
+        "num": 220302,
+        "word": "封控管理要快封快解",
+        "onboard_time": 1669707997,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218700,
+        "num": 218700,
+        "word": "小伙1年内两次出手救同一个陌生人",
+        "onboard_time": 1669719038,
+        "rank": 36,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 198388,
+        "num": 198388,
+        "word": "张核子曾称要在中国开1万家基因小屋",
+        "onboard_time": 1669719875,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182916,
+        "num": 182916,
+        "word": "劳荣枝哥哥称百分百改判或发回重审",
+        "onboard_time": 1669702832,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179253,
+        "num": 179253,
+        "word": "狗与狗之间的差距咋这么大",
+        "onboard_time": 1669715739,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 254536,
+        "num": 178613,
+        "word": "MAMA32人合作舞台",
+        "onboard_time": 1669710577,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 175008,
+        "num": 175008,
+        "word": "西安下雪仿佛置身长安",
+        "onboard_time": 1669712796,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250872,
+        "num": 172283,
+        "word": "沈小婷MAMA红毯图",
+        "onboard_time": 1669710638,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 166296,
+        "num": 166296,
+        "word": "张凯急了",
+        "onboard_time": 1669713515,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 164456,
+        "num": 164456,
+        "word": "卫健委回应部分地区尝试居民核酸自采",
+        "onboard_time": 1669707759,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151488,
+        "num": 151488,
+        "word": "Hero",
+        "onboard_time": 1669713457,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 145754,
+        "num": 145754,
+        "word": "地产股涨停",
+        "onboard_time": 1669720478,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 144519,
+        "num": 144519,
+        "word": "这才是糯唧唧美食的天堂",
+        "onboard_time": 1669713753,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 140105,
+        "num": 140105,
+        "word": "新兵投弹失手连长不到2秒救人",
+        "onboard_time": 1669720597,
+        "rank": 48,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 139928,
+        "num": 139928,
+        "word": "邻居嫌楼上孩子吵闹上门怒斥",
+        "onboard_time": 1669706438,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#航天新征程#"
+    }
+  }
+}
