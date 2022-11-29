@@ -1,6 +1,6 @@
 {
   "startTime": 1669652614385,
-  "endTime": 1669707205606,
+  "endTime": 1669710383578,
   "band_list": [
     {
       "raw_hot": 4914407,
@@ -99,6 +99,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1468674,
+      "num": 1468674,
+      "word": "国家疾控局回应网友反映层层加码问题",
+      "onboard_time": 1669707457,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1426847,
       "num": 1426847,
       "word": "唐梓说终于塌房了",
@@ -123,12 +131,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1307026,
+      "num": 697481,
+      "word": "研究表明寄生虫入侵大脑造就了狼王",
+      "onboard_time": 1669704697,
+      "rank": 12,
+      "category": "其它"
+    },
+    {
       "raw_hot": 1295046,
       "num": 1295046,
       "word": "女子买房送60平阳台苦恼封窗太贵",
       "onboard_time": 1669683157,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1290054,
+      "num": 1290054,
+      "word": "微博视界大会",
+      "onboard_time": 1669709196,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 1285105,
@@ -177,6 +201,14 @@
       "onboard_time": 1669650395,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1142254,
+      "num": 1142254,
+      "word": "封控管理要快封快解",
+      "onboard_time": 1669707997,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1028268,
@@ -233,14 +265,6 @@
       "onboard_time": 1669694731,
       "rank": 17,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 967024,
-      "num": 540076,
-      "word": "研究表明寄生虫入侵大脑造就了狼王",
-      "onboard_time": 1669704697,
-      "rank": 12,
-      "category": "其它"
     },
     {
       "raw_hot": 917442,
@@ -363,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 704601,
+      "num": 704601,
+      "word": "卫健委回应部分地区尝试居民核酸自采",
+      "onboard_time": 1669707759,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 690664,
       "num": 690664,
       "word": "重庆抗疫一线医护人员的肺腑之言",
@@ -371,18 +403,18 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 662760,
-      "num": 662760,
-      "word": "许半夏入狱",
-      "onboard_time": 1669680570,
+      "raw_hot": 670442,
+      "num": 670442,
+      "word": "你把我床坐塌了得负责吧",
+      "onboard_time": 1669704756,
       "rank": 13,
       "category": "影视"
     },
     {
-      "raw_hot": 659420,
-      "num": 535805,
-      "word": "你把我床坐塌了得负责吧",
-      "onboard_time": 1669704756,
+      "raw_hot": 662760,
+      "num": 662760,
+      "word": "许半夏入狱",
+      "onboard_time": 1669680570,
       "rank": 13,
       "category": "影视"
     },
@@ -432,6 +464,22 @@
       "word": "男子等女友下班打游戏激动摔下3楼",
       "onboard_time": 1669696236,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 592459,
+      "num": 592459,
+      "word": "TTG",
+      "onboard_time": 1669709738,
+      "rank": 13,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 590001,
+      "num": 590001,
+      "word": "邻居嫌楼上孩子吵闹上门怒斥",
+      "onboard_time": 1669706438,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -539,6 +587,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 513422,
+      "num": 513422,
+      "word": "关晓彤落叶棕刺绣礼服",
+      "onboard_time": 1669709617,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 509858,
       "num": 509858,
       "word": "真的有人穿什么都好看",
@@ -577,6 +633,22 @@
       "onboard_time": 1669698698,
       "rank": 34,
       "category": "游戏,幽默"
+    },
+    {
+      "raw_hot": 490206,
+      "num": 490206,
+      "word": "小女孩地铁咳嗽被医生提醒抽动症",
+      "onboard_time": 1669707997,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 483121,
+      "num": 483121,
+      "word": "杨超越丝绒雾霭蓝礼服造型",
+      "onboard_time": 1669709617,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 482591,
@@ -675,6 +747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 421437,
+      "num": 336714,
+      "word": "NMIXX走MAMA红毯",
+      "onboard_time": 1669709859,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 416610,
       "num": 416610,
       "word": "研究生考试12月24日举行",
@@ -713,6 +793,22 @@
       "onboard_time": 1669656860,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 398766,
+      "num": 330993,
+      "word": "MAMA直播",
+      "onboard_time": 1669707516,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 397388,
+      "num": 318359,
+      "word": "杨幂模仿羊幂表情包",
+      "onboard_time": 1669707039,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 396105,
@@ -835,6 +931,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 338247,
+      "num": 338247,
+      "word": "加强老年人新冠病毒疫苗接种",
+      "onboard_time": 1669708658,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 335140,
       "num": 335140,
       "word": "常态化做核酸安全吗",
@@ -875,12 +979,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 318359,
-      "num": 318359,
-      "word": "杨幂模仿羊幂表情包",
-      "onboard_time": 1669707039,
+      "raw_hot": 323039,
+      "num": 323039,
+      "word": "下雪",
+      "onboard_time": 1669707939,
       "rank": 23,
-      "category": "作品衍生"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 316075,
@@ -921,6 +1025,14 @@
       "onboard_time": 1669703975,
       "rank": 35,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 303675,
+      "num": 210444,
+      "word": "MAMA红毯现场",
+      "onboard_time": 1669707997,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 300893,
@@ -1083,6 +1195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 264529,
+      "num": 209565,
+      "word": "冯绍峰彭小苒新剧同框看不见正脸",
+      "onboard_time": 1669708900,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 259418,
       "num": 259418,
       "word": "山东一医院开诊亮灯仪式被指像KTV",
@@ -1195,6 +1315,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 226268,
+      "num": 195019,
+      "word": "刘耀文无限超越班黑色夹克造型路透",
+      "onboard_time": 1669708658,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 225862,
       "num": 225862,
       "word": "葡萄牙vs乌拉圭首发",
@@ -1217,6 +1345,14 @@
       "onboard_time": 1669702413,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 222402,
+      "num": 222402,
+      "word": "当你有个喜欢收纳的女朋友",
+      "onboard_time": 1669706312,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 220621,
@@ -1259,6 +1395,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 207136,
+      "num": 207136,
+      "word": "地铁硫酸受伤男孩已完成手术",
+      "onboard_time": 1669706799,
+      "rank": 35,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 203935,
       "num": 203935,
       "word": "罗云熙用车被安装跟踪定位器",
@@ -1291,20 +1435,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 201087,
+      "num": 201087,
+      "word": "严肃处理出具虚假检测报告等行为",
+      "onboard_time": 1669710037,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 199787,
       "num": 199787,
       "word": "乐华新女团跳舞反差感",
       "onboard_time": 1669702111,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 198882,
-      "num": 198882,
-      "word": "邻居嫌楼上孩子吵闹上门怒斥",
-      "onboard_time": 1669706438,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 198460,
@@ -1321,14 +1465,6 @@
       "onboard_time": 1669642419,
       "rank": 33,
       "category": "教育"
-    },
-    {
-      "raw_hot": 197369,
-      "num": 197369,
-      "word": "地铁硫酸受伤男孩已完成手术",
-      "onboard_time": 1669706799,
-      "rank": 35,
-      "category": "社会负面"
     },
     {
       "raw_hot": 197210,
@@ -1363,6 +1499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 195920,
+      "num": 195920,
+      "word": "找到nana建模脸的秘密了",
+      "onboard_time": 1669708417,
+      "rank": 38,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 195786,
       "num": 195786,
       "word": "田曦薇陈小纭刺绣花絮",
@@ -1387,8 +1531,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 191895,
-      "num": 191895,
+      "raw_hot": 193696,
+      "num": 193696,
       "word": "伊朗vs美国",
       "onboard_time": 1669700014,
       "rank": 49,
@@ -1443,14 +1587,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 185564,
-      "num": 185564,
-      "word": "当你有个喜欢收纳的女朋友",
-      "onboard_time": 1669706312,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
       "raw_hot": 184592,
       "num": 184592,
       "word": "威神V直播状态",
@@ -1496,6 +1632,22 @@
       "word": "父亲保持耐心反复辅导女儿作业",
       "onboard_time": 1669687652,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 178477,
+      "num": 178477,
+      "word": "孙兴慜的ins评论区",
+      "onboard_time": 1669709676,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 177033,
+      "num": 177033,
+      "word": "深圳地铁",
+      "onboard_time": 1669708837,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -1555,6 +1707,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 171160,
+      "num": 171160,
+      "word": "不得以时空伴随扩大风险人员判定范围",
+      "onboard_time": 1669710217,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 171142,
       "num": 171142,
       "word": "尹嵩喜提双休",
@@ -1569,6 +1729,14 @@
       "onboard_time": 1669693294,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 169779,
+      "num": 169779,
+      "word": "山东多地下雪",
+      "onboard_time": 1669710159,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 167365,
