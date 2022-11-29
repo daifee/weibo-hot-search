@@ -1,6 +1,6 @@
 {
   "startTime": 1669739332504,
-  "endTime": 1669754069185,
+  "endTime": 1669756674714,
   "band_list": [
     {
       "raw_hot": 2756631,
@@ -243,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 259129,
+      "num": 259129,
+      "word": "伊朗半场0比1美国",
+      "onboard_time": 1669753750,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 253638,
       "num": 253638,
       "word": "Somi撞衫小S",
@@ -419,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 146785,
+      "num": 80044,
+      "word": "威尔士0比3英格兰",
+      "onboard_time": 1669756333,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 145464,
       "num": 145464,
       "word": "南京下雪",
@@ -523,14 +539,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 104141,
-      "num": 30084,
-      "word": "伊朗半场0比1美国",
-      "onboard_time": 1669753750,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 99879,
       "num": 1460175,
       "word": "聚焦神舟十五号",
@@ -579,6 +587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 50153,
+      "num": 30696,
+      "word": "美国小组第二出线",
+      "onboard_time": 1669756572,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 42952,
       "num": 42952,
       "word": "赵丽颖绚丽心动侧拍花絮",
@@ -595,6 +611,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 40158,
+      "num": 30027,
+      "word": "卡塔尔三连败",
+      "onboard_time": 1669754770,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 39850,
       "num": 39850,
       "word": "至亲离世的当下你是怎么度过的",
@@ -609,6 +633,14 @@
       "onboard_time": 1669745357,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 31855,
+      "num": 29541,
+      "word": "拉什福德任意球世界波",
+      "onboard_time": 1669756033,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 14698,

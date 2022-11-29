@@ -1,6 +1,6 @@
 {
   "startTime": 1669566398830,
-  "endTime": 1669754069185,
+  "endTime": 1669756674714,
   "band_list": [
     {
       "raw_hot": 11045761,
@@ -4003,6 +4003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 259129,
+      "num": 259129,
+      "word": "伊朗半场0比1美国",
+      "onboard_time": 1669753750,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 258938,
       "num": 143563,
       "word": "崔然竣MAMAsolo舞台",
@@ -5635,6 +5643,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 146785,
+      "num": 80044,
+      "word": "威尔士0比3英格兰",
+      "onboard_time": 1669756333,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 146757,
       "num": 172187,
       "word": "库杜斯头球破门",
@@ -6107,14 +6123,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 104141,
-      "num": 30084,
-      "word": "伊朗半场0比1美国",
-      "onboard_time": 1669753750,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 102937,
       "num": 102937,
       "word": "男子收集上千种虫子建昆虫博物馆",
@@ -6227,6 +6235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 50153,
+      "num": 30696,
+      "word": "美国小组第二出线",
+      "onboard_time": 1669756572,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 42952,
       "num": 42952,
       "word": "赵丽颖绚丽心动侧拍花絮",
@@ -6249,6 +6265,14 @@
       "onboard_time": 1669677200,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 40158,
+      "num": 30027,
+      "word": "卡塔尔三连败",
+      "onboard_time": 1669754770,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 39850,
@@ -6289,6 +6313,14 @@
       "onboard_time": 1669677622,
       "rank": 49,
       "category": "科技"
+    },
+    {
+      "raw_hot": 31855,
+      "num": 29541,
+      "word": "拉什福德任意球世界波",
+      "onboard_time": 1669756033,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 14698,
