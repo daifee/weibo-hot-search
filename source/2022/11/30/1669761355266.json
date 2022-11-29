@@ -1,0 +1,410 @@
+{
+  "runTime": 1669761355266,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1011112,
+        "num": 1011112,
+        "word": "伊朗vs美国",
+        "onboard_time": 1669736066,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 368970,
+        "num": 368970,
+        "word": "全国快递网点大面积停摆消息不实",
+        "onboard_time": 1669740864,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93105,
+        "num": 264035,
+        "word": "第九版防控方案和二十条措施热点问答",
+        "onboard_time": 1669739601,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 247808,
+        "num": 247808,
+        "word": "最惨东道主卡塔尔",
+        "onboard_time": 1669745716,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201750,
+        "num": 201750,
+        "word": "英格兰vs威尔士",
+        "onboard_time": 1669737266,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159535,
+        "num": 159535,
+        "word": "梅西已8年不喝汽水不吃披萨",
+        "onboard_time": 1669734326,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150461,
+        "num": 150461,
+        "word": "广州天河区疫情防控",
+        "onboard_time": 1669724740,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144080,
+        "num": 144080,
+        "word": "厄瓜多尔球员哭了",
+        "onboard_time": 1669747515,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138657,
+        "num": 138657,
+        "word": "欧阳娜娜品牌988元浴袍成本不足百元",
+        "onboard_time": 1669731687,
+        "rank": 8,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 124687,
+        "num": 124687,
+        "word": "原来这就是睡得跟死猪一样",
+        "onboard_time": 1669737028,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 119767,
+        "num": 119767,
+        "word": "美国小组第二出线",
+        "onboard_time": 1669756572,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115375,
+        "num": 115375,
+        "word": "真不给卡塔尔留面子",
+        "onboard_time": 1669746616,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109794,
+        "num": 109794,
+        "word": "男子出轨后开车撞妻子被女儿拦下",
+        "onboard_time": 1669719221,
+        "rank": 12,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 104484,
+        "num": 104484,
+        "word": "威尔士0比3英格兰",
+        "onboard_time": 1669756333,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102655,
+        "num": 102655,
+        "word": "男子偷变压器触电身亡家属索赔被驳",
+        "onboard_time": 1669739601,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102464,
+        "num": 102464,
+        "word": "马宁",
+        "onboard_time": 1669743260,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93048,
+        "num": 93048,
+        "word": "伊朗半场0比1美国",
+        "onboard_time": 1669753750,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92523,
+        "num": 92523,
+        "word": "记者实测食用橘子后做核酸",
+        "onboard_time": 1669731387,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84328,
+        "num": 84328,
+        "word": "王鹤棣陈飞宇你俩去演鬼怪吧",
+        "onboard_time": 1669747873,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 82601,
+        "num": 82601,
+        "word": "方向盘套广告语被指侮辱女性",
+        "onboard_time": 1669733487,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258614,
+        "num": 82583,
+        "word": "李一桐将不再出演武庚纪",
+        "onboard_time": 1669734326,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 78141,
+        "num": 78141,
+        "word": "吃橘子会变阳你真是多虑了",
+        "onboard_time": 1669741161,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75622,
+        "num": 75622,
+        "word": "卫龙半年亏损2.61亿",
+        "onboard_time": 1669730728,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 73885,
+        "num": 73885,
+        "word": "北京已经启用方舱医院23家",
+        "onboard_time": 1669731746,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65871,
+        "num": 65871,
+        "word": "三类人群感染新冠病毒更易引发重症",
+        "onboard_time": 1669715378,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64574,
+        "num": 64574,
+        "word": "上网课忘关摄像头了",
+        "onboard_time": 1669735046,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 62354,
+        "num": 62354,
+        "word": "关晓彤在内场刷夸自己的微博",
+        "onboard_time": 1669733547,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 56765,
+        "num": 56765,
+        "word": "郑州30日凌晨起出行要求有变",
+        "onboard_time": 1669729948,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54180,
+        "num": 54180,
+        "word": "赵立坚介绍BBC记者被带离真相",
+        "onboard_time": 1669722877,
+        "rank": 28,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 45454,
+        "num": 45454,
+        "word": "拉什福德任意球世界波",
+        "onboard_time": 1669756033,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 79804,
+        "num": 45419,
+        "word": "肖战推荐大家通过运动排解压力",
+        "onboard_time": 1669747933,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 46072,
+        "num": 45297,
+        "word": "卡塔尔三连败",
+        "onboard_time": 1669754770,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 45160,
+        "num": 45160,
+        "word": "母柯基为偷吃桌上美食用公柯基垫脚",
+        "onboard_time": 1669745418,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43578,
+        "num": 43578,
+        "word": "神舟十五号发射画面",
+        "onboard_time": 1669737505,
+        "rank": 33,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 42642,
+        "num": 42642,
+        "word": "赵丽颖当面催更张若昀",
+        "onboard_time": 1669730068,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 41070,
+        "num": 41070,
+        "word": "女子被多人连续辱骂殴打6分钟",
+        "onboard_time": 1669725278,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41066,
+        "num": 41066,
+        "word": "柳州卫健委回应病毒绕着走",
+        "onboard_time": 1669724919,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40932,
+        "num": 40932,
+        "word": "葡萄牙足协证明进球属于C罗",
+        "onboard_time": 1669723478,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34386,
+        "num": 34386,
+        "word": "人民至上不是防疫至上",
+        "onboard_time": 1669714175,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33294,
+        "num": 33294,
+        "word": "至亲离世的当下你是怎么度过的",
+        "onboard_time": 1669745476,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30978,
+        "num": 30978,
+        "word": "李诞快给你司员工培训下红毯pose",
+        "onboard_time": 1669722997,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 30562,
+        "num": 30562,
+        "word": "英格兰小组第一晋级",
+        "onboard_time": 1669757532,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30400,
+        "num": 30400,
+        "word": "张元英 舞台",
+        "onboard_time": 1669723835,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 29931,
+        "num": 29931,
+        "word": "荷兰小组第一出线",
+        "onboard_time": 1669742961,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27905,
+        "num": 27905,
+        "word": "突然就消除了对鬼的恐惧",
+        "onboard_time": 1669727785,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 26471,
+        "num": 26471,
+        "word": "男子大白天闯入餐厅折树枝偷水果",
+        "onboard_time": 1669760353,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23962,
+        "num": 23962,
+        "word": "孙兴慜遭韩国网民网暴",
+        "onboard_time": 1669712674,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22675,
+        "num": 22675,
+        "word": "厄瓜多尔1比2塞内加尔",
+        "onboard_time": 1669741943,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20283,
+        "num": 20283,
+        "word": "塞内加尔晋级16强",
+        "onboard_time": 1669742240,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20277,
+        "num": 20277,
+        "word": "荷兰2比0领先卡塔尔",
+        "onboard_time": 1669739665,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#神十五发射圆满成功#"
+    }
+  }
+}

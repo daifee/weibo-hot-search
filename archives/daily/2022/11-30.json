@@ -1,6 +1,6 @@
 {
   "startTime": 1669739332504,
-  "endTime": 1669760311177,
+  "endTime": 1669761355266,
   "band_list": [
     {
       "raw_hot": 2756631,
@@ -259,20 +259,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 247808,
+      "num": 247808,
+      "word": "最惨东道主卡塔尔",
+      "onboard_time": 1669745716,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 242314,
       "num": 218613,
       "word": "李诞快给你司员工培训下红毯pose",
       "onboard_time": 1669722997,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 231475,
-      "num": 231475,
-      "word": "最惨东道主卡塔尔",
-      "onboard_time": 1669745716,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 225429,
@@ -324,7 +324,7 @@
     },
     {
       "raw_hot": 203614,
-      "num": 132420,
+      "num": 144080,
       "word": "厄瓜多尔球员哭了",
       "onboard_time": 1669747515,
       "rank": 30,
@@ -516,10 +516,18 @@
     },
     {
       "raw_hot": 128334,
-      "num": 100511,
+      "num": 119767,
       "word": "美国小组第二出线",
       "onboard_time": 1669756572,
       "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 115375,
+      "num": 115375,
+      "word": "真不给卡塔尔留面子",
+      "onboard_time": 1669746616,
+      "rank": 37,
       "category": "体育"
     },
     {
@@ -571,14 +579,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 87983,
-      "num": 84478,
-      "word": "真不给卡塔尔留面子",
-      "onboard_time": 1669746616,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 80433,
       "num": 80433,
       "word": "上官婧跟尹岐表白后又拒绝",
@@ -587,8 +587,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 57966,
-      "num": 41309,
+      "raw_hot": 79804,
+      "num": 45419,
       "word": "肖战推荐大家通过运动排解压力",
       "onboard_time": 1669747933,
       "rank": 33,
@@ -611,11 +611,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 43550,
-      "num": 40809,
+      "raw_hot": 46072,
+      "num": 45297,
       "word": "卡塔尔三连败",
       "onboard_time": 1669754770,
       "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 45454,
+      "num": 45454,
+      "word": "拉什福德任意球世界波",
+      "onboard_time": 1669756033,
+      "rank": 33,
       "category": "体育"
     },
     {
@@ -625,14 +633,6 @@
       "onboard_time": 1669745896,
       "rank": 46,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 42268,
-      "num": 42268,
-      "word": "拉什福德任意球世界波",
-      "onboard_time": 1669756033,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 39850,
@@ -649,6 +649,14 @@
       "onboard_time": 1669745357,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 26471,
+      "num": 26471,
+      "word": "男子大白天闯入餐厅折树枝偷水果",
+      "onboard_time": 1669760353,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 14698,
