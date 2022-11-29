@@ -1,6 +1,6 @@
 {
   "startTime": 1669739332504,
-  "endTime": 1669742252593,
+  "endTime": 1669743283932,
   "band_list": [
     {
       "raw_hot": 2756631,
@@ -99,6 +99,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 512947,
+      "num": 1095967,
+      "word": "第九版防控方案和二十条措施热点问答",
+      "onboard_time": 1669739601,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 497076,
       "num": 497076,
       "word": "男子出轨后开车撞妻子被女儿拦下",
@@ -107,20 +115,20 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 496331,
-      "num": 1095967,
-      "word": "第九版防控方案和二十条措施热点问答",
-      "onboard_time": 1669739601,
-      "rank": 2,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 493475,
       "num": 493475,
       "word": "张超",
       "onboard_time": 1669738762,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 486977,
+      "num": 486977,
+      "word": "全国快递网点大面积停摆消息不实",
+      "onboard_time": 1669740864,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 465972,
@@ -233,14 +241,6 @@
       "onboard_time": 1669728985,
       "rank": 24,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 252928,
-      "num": 252928,
-      "word": "全国快递网点大面积停摆消息不实",
-      "onboard_time": 1669740864,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 242314,
@@ -467,6 +467,22 @@
       "category": "科技"
     },
     {
+      "raw_hot": 110616,
+      "num": 110616,
+      "word": "塞内加尔晋级16强",
+      "onboard_time": 1669742240,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 110309,
+      "num": 110309,
+      "word": "荷兰小组第一出线",
+      "onboard_time": 1669742961,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 99879,
       "num": 1460175,
       "word": "聚焦神舟十五号",
@@ -483,10 +499,18 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 78695,
-      "num": 78695,
-      "word": "塞内加尔晋级16强",
-      "onboard_time": 1669742240,
+      "raw_hot": 80433,
+      "num": 80433,
+      "word": "上官婧跟尹岐表白后又拒绝",
+      "onboard_time": 1669742541,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 62110,
+      "num": 62110,
+      "word": "马宁",
+      "onboard_time": 1669743260,
       "rank": 49,
       "category": "体育"
     }

@@ -1,6 +1,6 @@
 {
   "startTime": 1669566398830,
-  "endTime": 1669742252593,
+  "endTime": 1669743283932,
   "band_list": [
     {
       "raw_hot": 11045761,
@@ -1963,6 +1963,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 512947,
+      "num": 1095967,
+      "word": "第九版防控方案和二十条措施热点问答",
+      "onboard_time": 1669739601,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 510781,
       "num": 359928,
       "word": "张婉婷我亲手扼杀了宋宁峰的少年气",
@@ -2001,14 +2009,6 @@
       "onboard_time": 1669677681,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 496331,
-      "num": 1095967,
-      "word": "第九版防控方案和二十条措施热点问答",
-      "onboard_time": 1669739601,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 496315,
@@ -2056,6 +2056,14 @@
       "word": "北京新增本土感染者2126例",
       "onboard_time": 1669716155,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 486977,
+      "num": 486977,
+      "word": "全国快递网点大面积停摆消息不实",
+      "onboard_time": 1669740864,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -4059,14 +4067,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 252928,
-      "num": 252928,
-      "word": "全国快递网点大面积停摆消息不实",
-      "onboard_time": 1669740864,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 252075,
       "num": 252075,
       "word": "有一个不爱责怪的伴侣真好",
@@ -6011,11 +6011,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110616,
+      "num": 110616,
+      "word": "塞内加尔晋级16强",
+      "onboard_time": 1669742240,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 110476,
       "num": 110476,
       "word": "巴西首发",
       "onboard_time": 1669653266,
       "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 110309,
+      "num": 110309,
+      "word": "荷兰小组第一出线",
+      "onboard_time": 1669742961,
+      "rank": 31,
       "category": "体育"
     },
     {
@@ -6083,12 +6099,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 78695,
-      "num": 78695,
-      "word": "塞内加尔晋级16强",
-      "onboard_time": 1669742240,
-      "rank": 49,
-      "category": "体育"
+      "raw_hot": 80433,
+      "num": 80433,
+      "word": "上官婧跟尹岐表白后又拒绝",
+      "onboard_time": 1669742541,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 77528,
@@ -6120,6 +6136,14 @@
       "word": "葡萄牙半场0比0乌拉圭",
       "onboard_time": 1669669453,
       "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 62110,
+      "num": 62110,
+      "word": "马宁",
+      "onboard_time": 1669743260,
+      "rank": 49,
       "category": "体育"
     },
     {
