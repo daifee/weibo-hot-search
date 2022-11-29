@@ -1,9 +1,9 @@
 {
   "startTime": 1669652614385,
-  "endTime": 1669692567070,
+  "endTime": 1669693398170,
   "band_list": [
     {
-      "raw_hot": 4838039,
+      "raw_hot": 4914407,
       "num": 4838039,
       "word": "核酸乱象不止疫情永无宁日",
       "onboard_time": 1669689149,
@@ -24,6 +24,14 @@
       "word": "卫健局回应核子基因核检业务违规",
       "onboard_time": 1669679247,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2250611,
+      "num": 2250611,
+      "word": "张核子弟弟回应",
+      "onboard_time": 1669692092,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -75,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1285105,
+      "num": 1285105,
+      "word": "多地核酸筛查不必全员参与",
+      "onboard_time": 1669688911,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1281369,
       "num": 1281369,
       "word": "核子基因多次被罚仍中标核酸检测项目",
@@ -89,14 +105,6 @@
       "onboard_time": 1669647756,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1238046,
-      "num": 1238046,
-      "word": "多地核酸筛查不必全员参与",
-      "onboard_time": 1669688911,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1224322,
@@ -211,6 +219,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 718663,
+      "num": 718663,
+      "word": "C罗上帝之发",
+      "onboard_time": 1669690470,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 714421,
       "num": 714421,
       "word": "郑州下雪",
@@ -257,14 +273,6 @@
       "onboard_time": 1669680753,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 613460,
-      "num": 613460,
-      "word": "C罗上帝之发",
-      "onboard_time": 1669690470,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 607168,
@@ -339,14 +347,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 514572,
-      "num": 514572,
-      "word": "张核子弟弟回应",
-      "onboard_time": 1669692092,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 509858,
       "num": 509858,
       "word": "真的有人穿什么都好看",
@@ -395,6 +395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 468491,
+      "num": 468491,
+      "word": "重庆新增本土确诊209例无症状8583例",
+      "onboard_time": 1669690772,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 467841,
       "num": 467841,
       "word": "刘令姿镜头下的尹峥李薇",
@@ -435,12 +443,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 428813,
-      "num": 428813,
-      "word": "重庆新增本土确诊209例无症状8583例",
-      "onboard_time": 1669690772,
-      "rank": 46,
-      "category": "社会新闻"
+      "raw_hot": 434740,
+      "num": 434740,
+      "word": "南部战区警告驱离美导弹巡洋舰",
+      "onboard_time": 1669690169,
+      "rank": 43,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 416610,
@@ -451,20 +459,12 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 412436,
-      "num": 412436,
+      "raw_hot": 415383,
+      "num": 415383,
       "word": "用这个手机壳很难不笑吧",
       "onboard_time": 1669689632,
       "rank": 23,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 408129,
-      "num": 408129,
-      "word": "南部战区警告驱离美导弹巡洋舰",
-      "onboard_time": 1669690169,
-      "rank": 43,
-      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 403803,
@@ -555,8 +555,8 @@
       "category": "社会新闻,社会新闻"
     },
     {
-      "raw_hot": 318264,
-      "num": 318264,
+      "raw_hot": 323167,
+      "num": 323167,
       "word": "命韵峋环吻戏名场面",
       "onboard_time": 1669690169,
       "rank": 38,
@@ -635,6 +635,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 289785,
+      "num": 289785,
+      "word": "叫顺风车送猫中途被司机威胁加价",
+      "onboard_time": 1669690109,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 282642,
       "num": 282642,
       "word": "小区高层楼顶现臂展2米大鸟",
@@ -699,14 +707,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 263176,
-      "num": 263176,
-      "word": "叫顺风车送猫中途被司机威胁加价",
-      "onboard_time": 1669690109,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 259418,
       "num": 259418,
       "word": "山东一医院开诊亮灯仪式被指像KTV",
@@ -761,6 +761,14 @@
       "onboard_time": 1669648006,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 239872,
+      "num": 239872,
+      "word": "男子虚报南大学历被开除起诉公司",
+      "onboard_time": 1669691011,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 237975,
@@ -865,6 +873,14 @@
       "onboard_time": 1669665195,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 197575,
+      "num": 197575,
+      "word": "专家称现在的年轻人不容易妥协",
+      "onboard_time": 1669692933,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 197395,
@@ -995,6 +1011,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 170053,
+      "num": 170053,
+      "word": "许半夏要建钢厂",
+      "onboard_time": 1669693294,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 166715,
       "num": 166715,
       "word": "葡萄牙巴西晋级16强",
@@ -1011,12 +1035,44 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 165064,
+      "num": 161193,
+      "word": "许半夏问什么时候放饭",
+      "onboard_time": 1669693053,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 164641,
+      "num": 157289,
+      "word": "李光洁风吹半夏开启钞能力社交",
+      "onboard_time": 1669693294,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 163322,
       "num": 163322,
       "word": "TXT2023台历预览视频",
       "onboard_time": 1669686453,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 161289,
+      "num": 161289,
+      "word": "尹嵩喜提双休",
+      "onboard_time": 1669691971,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 160991,
+      "num": 160991,
+      "word": "新手机你习惯带壳还是裸机",
+      "onboard_time": 1669693232,
+      "rank": 45,
+      "category": "科技"
     },
     {
       "raw_hot": 158150,
@@ -1041,14 +1097,6 @@
       "onboard_time": 1669635814,
       "rank": 46,
       "category": "科技"
-    },
-    {
-      "raw_hot": 155239,
-      "num": 155239,
-      "word": "男子虚报南大学历被开除起诉公司",
-      "onboard_time": 1669691011,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 155024,
@@ -1089,6 +1137,14 @@
       "onboard_time": 1669653206,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 147754,
+      "num": 147754,
+      "word": "男生800米突破自我落泪",
+      "onboard_time": 1669692933,
+      "rank": 49,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 147441,
@@ -1139,6 +1195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 128315,
+      "num": 1385273,
+      "word": "科学精准提高防疫工作的有效性",
+      "onboard_time": 1669691433,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 122104,
       "num": 122104,
       "word": "赵丽颖李光洁风吹半夏是官配",
@@ -1169,14 +1233,6 @@
       "onboard_time": 1669653266,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 106531,
-      "num": 1385273,
-      "word": "科学精准提高防疫工作的有效性",
-      "onboard_time": 1669691433,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 104286,
