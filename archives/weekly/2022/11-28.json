@@ -1,6 +1,6 @@
 {
   "startTime": 1669566398830,
-  "endTime": 1669720608492,
+  "endTime": 1669721620275,
   "band_list": [
     {
       "raw_hot": 11045761,
@@ -371,6 +371,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1553744,
+      "num": 1553744,
+      "word": "男子出轨后开车撞妻子被女儿拦下",
+      "onboard_time": 1669719221,
+      "rank": 11,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 1551444,
+      "num": 550188,
+      "word": "关晓彤红毯问今天头发和衣服是搭的吧",
+      "onboard_time": 1669719704,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1548461,
       "num": 1548461,
       "word": "国家疾控局回应网友反映层层加码问题",
@@ -521,14 +537,6 @@
       "onboard_time": 1669642900,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1264389,
-      "num": 550188,
-      "word": "关晓彤红毯问今天头发和衣服是搭的吧",
-      "onboard_time": 1669719704,
-      "rank": 12,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1261827,
@@ -857,14 +865,6 @@
       "onboard_time": 1669681895,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 864685,
-      "num": 561032,
-      "word": "男子出轨后开车撞妻子被女儿拦下",
-      "onboard_time": 1669719221,
-      "rank": 11,
-      "category": "社会负面"
     },
     {
       "raw_hot": 850912,
@@ -1304,6 +1304,14 @@
       "word": "张婧仪说大家不要再去考古了",
       "onboard_time": 1669629214,
       "rank": 12,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 638413,
+      "num": 358825,
+      "word": "吴谨言妆容",
+      "onboard_time": 1669720902,
+      "rank": 19,
       "category": "影视"
     },
     {
@@ -1899,6 +1907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 457539,
+      "num": 457539,
+      "word": "MAMA",
+      "onboard_time": 1669632575,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 455968,
       "num": 455968,
       "word": "美国主帅就伊朗国旗事件道歉",
@@ -1932,7 +1948,7 @@
     },
     {
       "raw_hot": 450036,
-      "num": 352444,
+      "num": 352514,
       "word": "红毯上美神降临的瞬间",
       "onboard_time": 1669718862,
       "rank": 20,
@@ -1960,6 +1976,14 @@
       "word": "女生骨骼惊奇能用手背握水瓶",
       "onboard_time": 1669713273,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 446110,
+      "num": 223329,
+      "word": "北京朝阳有针对性地对部分群体实行免检",
+      "onboard_time": 1669719579,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -1993,14 +2017,6 @@
       "onboard_time": 1669705956,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 441363,
-      "num": 441363,
-      "word": "MAMA",
-      "onboard_time": 1669632575,
-      "rank": 17,
-      "category": "音乐"
     },
     {
       "raw_hot": 440833,
@@ -2163,6 +2179,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 406873,
+      "num": 406873,
+      "word": "张核子曾称要在中国开1万家基因小屋",
+      "onboard_time": 1669719875,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 406523,
       "num": 406523,
       "word": "网传女子被10多人轮流棍击",
@@ -2208,6 +2232,14 @@
       "word": "尹峥尹岐去了甘棠驿",
       "onboard_time": 1669561905,
       "rank": 19,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 400713,
+      "num": 207497,
+      "word": "陈飞宇视界大会红毯",
+      "onboard_time": 1669720958,
+      "rank": 35,
       "category": "影视"
     },
     {
@@ -2280,6 +2312,14 @@
       "word": "杨紫贺顿治愈六宫格剧照",
       "onboard_time": 1669612417,
       "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 383193,
+      "num": 213697,
+      "word": "刘令姿以元英口吻给李薇写告别信",
+      "onboard_time": 1669721318,
+      "rank": 32,
       "category": "影视"
     },
     {
@@ -2595,6 +2635,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 347897,
+      "num": 231431,
+      "word": "张婉婷我亲手扼杀了宋宁峰的少年气",
+      "onboard_time": 1669720119,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 347534,
       "num": 249938,
       "word": "喻言最新红毯造型",
@@ -2843,14 +2891,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 322619,
-      "num": 231431,
-      "word": "张婉婷我亲手扼杀了宋宁峰的少年气",
-      "onboard_time": 1669720119,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 320940,
       "num": 320940,
       "word": "MMA回应IVE组合VCR抄袭争议",
@@ -2977,14 +3017,6 @@
       "onboard_time": 1669642115,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 306709,
-      "num": 223329,
-      "word": "北京朝阳有针对性地对部分群体实行免检",
-      "onboard_time": 1669719579,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 306222,
@@ -3267,6 +3299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 280387,
+      "num": 280387,
+      "word": "当各国球迷得知我来自中国",
+      "onboard_time": 1669718439,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 280055,
       "num": 280055,
       "word": "白鹿郑书意吃火锅路透",
@@ -3361,6 +3401,14 @@
       "onboard_time": 1669678101,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 270973,
+      "num": 176243,
+      "word": "BIBI孝琳舞台",
+      "onboard_time": 1669721019,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 270468,
@@ -3473,14 +3521,6 @@
       "onboard_time": 1669548573,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 251725,
-      "num": 251725,
-      "word": "当各国球迷得知我来自中国",
-      "onboard_time": 1669718439,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 251484,
@@ -3923,6 +3963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 218363,
+      "num": 218363,
+      "word": "一诺孙尚香经典射手开团",
+      "onboard_time": 1669720119,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 216208,
       "num": 216208,
       "word": "李薇元英不舍分别",
@@ -4049,14 +4097,6 @@
       "onboard_time": 1669665195,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 198388,
-      "num": 198388,
-      "word": "张核子曾称要在中国开1万家基因小屋",
-      "onboard_time": 1669719875,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 197811,
@@ -5043,6 +5083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 142360,
+      "num": 142360,
+      "word": "AG六连胜",
+      "onboard_time": 1669721501,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 142276,
       "num": 142276,
       "word": "孙女见爷奶家电视背景墙仿佛穿越",
@@ -5163,6 +5211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131489,
+      "num": 131489,
+      "word": "三类人群感染新冠病毒更易引发重症",
+      "onboard_time": 1669715378,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 130912,
       "num": 138835,
       "word": "柳州市城区最新核酸检测采样点信息",
@@ -5193,6 +5249,14 @@
       "onboard_time": 1669567230,
       "rank": 47,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 129276,
+      "num": 129276,
+      "word": "内马尔把温柔都给了孩子",
+      "onboard_time": 1669721559,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 129206,
