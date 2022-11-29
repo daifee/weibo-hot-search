@@ -1,0 +1,410 @@
+{
+  "runTime": 1669718317779,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4163682,
+        "num": 4163682,
+        "word": "人民至上不是防疫至上",
+        "onboard_time": 1669714175,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2471200,
+        "num": 2471200,
+        "word": "已有超11家核酸检测机构造假被查",
+        "onboard_time": 1669702413,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62285,
+        "num": 2010745,
+        "word": "聚焦神舟十五号",
+        "onboard_time": 1669711419,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1785879,
+        "num": 1785879,
+        "word": "微博视界大会",
+        "onboard_time": 1669709196,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1765449,
+        "num": 1765449,
+        "word": "孙兴慜遭韩国网民网暴",
+        "onboard_time": 1669712674,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1745941,
+        "num": 1745941,
+        "word": "杨迪 主持",
+        "onboard_time": 1669717358,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 776967,
+        "num": 776967,
+        "word": "魔兽负责人给中国玩家留言",
+        "onboard_time": 1669714901,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 786633,
+        "num": 761355,
+        "word": "关晓彤落叶棕刺绣礼服",
+        "onboard_time": 1669709617,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 736619,
+        "num": 736619,
+        "word": "柳州核酸",
+        "onboard_time": 1669701094,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 679422,
+        "num": 679422,
+        "word": "国务院联防联控机制召开发布会",
+        "onboard_time": 1669705597,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 736469,
+        "num": 676379,
+        "word": "王鹤棣视界大会红毯造型",
+        "onboard_time": 1669717238,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 671368,
+        "num": 671368,
+        "word": "研究表明寄生虫入侵大脑造就了狼王",
+        "onboard_time": 1669704697,
+        "rank": 11,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 653515,
+        "num": 653515,
+        "word": "他们没来MAMA又好像来了",
+        "onboard_time": 1669718020,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 580996,
+        "num": 580996,
+        "word": "男生睡蒙了被同桌骗去擦老师板书",
+        "onboard_time": 1669714835,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 522233,
+        "num": 522233,
+        "word": "为什么每次都是BBC在现场出问题",
+        "onboard_time": 1669716101,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 505243,
+        "num": 505243,
+        "word": "Somi金色抹胸长裙造型",
+        "onboard_time": 1669715556,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 492068,
+        "num": 492068,
+        "word": "北京新增本土感染者2126例",
+        "onboard_time": 1669716155,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 475477,
+        "num": 475477,
+        "word": "国家疾控局回应网友反映层层加码问题",
+        "onboard_time": 1669707457,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 442729,
+        "num": 442729,
+        "word": "伊朗vs美国",
+        "onboard_time": 1669700014,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 427932,
+        "num": 427932,
+        "word": "女生骨骼惊奇能用手背握水瓶",
+        "onboard_time": 1669713273,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 483413,
+        "num": 424669,
+        "word": "央视网评今年的伪爆剧和爆剧",
+        "onboard_time": 1669697073,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 430648,
+        "num": 410074,
+        "word": "沈小婷MAMA红毯图",
+        "onboard_time": 1669710638,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 393198,
+        "num": 393198,
+        "word": "广州地铁硫酸事件",
+        "onboard_time": 1669696956,
+        "rank": 22,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 353632,
+        "num": 353632,
+        "word": "MAMA",
+        "onboard_time": 1669710455,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 330610,
+        "num": 330610,
+        "word": "小女孩地铁咳嗽被医生提醒抽动症",
+        "onboard_time": 1669707997,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350492,
+        "num": 329432,
+        "word": "宋亚轩最新跳舞视频",
+        "onboard_time": 1669717902,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 348938,
+        "num": 327168,
+        "word": "于正说任嘉伦演技可以的",
+        "onboard_time": 1669717597,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 321934,
+        "num": 321934,
+        "word": "女子寄榴莲收货后只剩空壳",
+        "onboard_time": 1669712978,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314003,
+        "num": 314003,
+        "word": "卖一部iPhone能赚1400元",
+        "onboard_time": 1669704572,
+        "rank": 28,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 274337,
+        "num": 274337,
+        "word": "封控管理要快封快解",
+        "onboard_time": 1669707997,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1458828,
+        "num": 274336,
+        "word": "终于等到肖战的红毯了",
+        "onboard_time": 1669718076,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 281181,
+        "num": 274321,
+        "word": "警方通报广州地铁硫酸事件",
+        "onboard_time": 1669715616,
+        "rank": 31,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 274279,
+        "num": 274279,
+        "word": "卫健委回应部分地区尝试居民核酸自采",
+        "onboard_time": 1669707759,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225460,
+        "num": 225460,
+        "word": "Hero",
+        "onboard_time": 1669713457,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 332412,
+        "num": 225205,
+        "word": "张天爱微博视界大会",
+        "onboard_time": 1669717597,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 280826,
+        "num": 223392,
+        "word": "MAMA32人合作舞台",
+        "onboard_time": 1669710577,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 219928,
+        "num": 219928,
+        "word": "西安下雪仿佛置身长安",
+        "onboard_time": 1669712796,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211163,
+        "num": 211163,
+        "word": "00后晒基金收益被劝先学习",
+        "onboard_time": 1669710817,
+        "rank": 37,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 209327,
+        "num": 209327,
+        "word": "狗与狗之间的差距咋这么大",
+        "onboard_time": 1669715739,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 208145,
+        "num": 208145,
+        "word": "劳荣枝哥哥称百分百改判或发回重审",
+        "onboard_time": 1669702832,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257009,
+        "num": 206706,
+        "word": "NMIXX 舞台",
+        "onboard_time": 1669716101,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 205034,
+        "num": 205034,
+        "word": "张凯急了",
+        "onboard_time": 1669713515,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 197811,
+        "num": 197811,
+        "word": "魔兽世界10.0上线",
+        "onboard_time": 1669717418,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 182477,
+        "num": 182477,
+        "word": "邓清明带了外孙的玩具上太空",
+        "onboard_time": 1669718020,
+        "rank": 43,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 177986,
+        "num": 177986,
+        "word": "这才是糯唧唧美食的天堂",
+        "onboard_time": 1669713753,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 176473,
+        "num": 176473,
+        "word": "邻居嫌楼上孩子吵闹上门怒斥",
+        "onboard_time": 1669706438,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172343,
+        "num": 172343,
+        "word": "孙兴慜的ins评论区",
+        "onboard_time": 1669709676,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167110,
+        "num": 167110,
+        "word": "一条plog告别十一月",
+        "onboard_time": 1669717658,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 154332,
+        "num": 166874,
+        "word": "女子用吸尘器抓蚊子一吸一个准儿",
+        "onboard_time": 1669718140,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141693,
+        "num": 166671,
+        "word": "各地成立整治层层加码工作专班",
+        "onboard_time": 1669710514,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#端稳中国饭碗筑牢大国粮仓#"
+    }
+  }
+}

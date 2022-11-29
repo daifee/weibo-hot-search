@@ -1,6 +1,6 @@
 {
   "startTime": 1669652614385,
-  "endTime": 1669717333306,
+  "endTime": 1669718317779,
   "band_list": [
     {
       "raw_hot": 4914407,
@@ -11,20 +11,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 4163682,
+      "num": 4163682,
+      "word": "人民至上不是防疫至上",
+      "onboard_time": 1669714175,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 4130825,
       "num": 4130825,
       "word": "韩国教练 红牌",
       "onboard_time": 1669648720,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 3954744,
-      "num": 3954744,
-      "word": "人民至上不是防疫至上",
-      "onboard_time": 1669714175,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 3706986,
@@ -115,6 +115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1745941,
+      "num": 1745941,
+      "word": "杨迪 主持",
+      "onboard_time": 1669717358,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1627229,
       "num": 242341,
       "word": "肖战视界大会工作室出图",
@@ -137,6 +145,14 @@
       "onboard_time": 1669669632,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1458828,
+      "num": 274336,
+      "word": "终于等到肖战的红毯了",
+      "onboard_time": 1669718076,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 1426847,
@@ -379,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 776967,
+      "num": 776967,
+      "word": "魔兽负责人给中国玩家留言",
+      "onboard_time": 1669714901,
+      "rank": 11,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 764494,
       "num": 656977,
       "word": "沈小婷MAMA红毯图",
@@ -417,6 +441,14 @@
       "onboard_time": 1669648303,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 736469,
+      "num": 676379,
+      "word": "王鹤棣视界大会红毯造型",
+      "onboard_time": 1669717238,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 736385,
@@ -507,6 +539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 653515,
+      "num": 653515,
+      "word": "他们没来MAMA又好像来了",
+      "onboard_time": 1669718020,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 640900,
       "num": 640900,
       "word": "伊朗美国小组出线生死局",
@@ -529,14 +569,6 @@
       "onboard_time": 1669680753,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 622411,
-      "num": 547327,
-      "word": "魔兽负责人给中国玩家留言",
-      "onboard_time": 1669714901,
-      "rank": 11,
-      "category": "游戏"
     },
     {
       "raw_hot": 607168,
@@ -619,6 +651,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 580996,
+      "num": 580996,
+      "word": "男生睡蒙了被同桌骗去擦老师板书",
+      "onboard_time": 1669714835,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 572135,
       "num": 572135,
       "word": "令人心动的offer4首播",
@@ -683,6 +723,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 522233,
+      "num": 522233,
+      "word": "为什么每次都是BBC在现场出问题",
+      "onboard_time": 1669716101,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 520624,
       "num": 520624,
       "word": "深圳地铁",
@@ -737,6 +785,14 @@
       "onboard_time": 1669698698,
       "rank": 34,
       "category": "游戏,幽默"
+    },
+    {
+      "raw_hot": 492068,
+      "num": 492068,
+      "word": "北京新增本土感染者2126例",
+      "onboard_time": 1669716155,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 482670,
@@ -835,20 +891,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 442729,
+      "num": 442729,
+      "word": "伊朗vs美国",
+      "onboard_time": 1669700014,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 442631,
       "num": 392414,
       "word": "孙怡是拿放大镜在观察吧",
       "onboard_time": 1669705956,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 440368,
-      "num": 440368,
-      "word": "男生睡蒙了被同桌骗去擦老师板书",
-      "onboard_time": 1669714835,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 436119,
@@ -897,22 +953,6 @@
       "onboard_time": 1669689632,
       "rank": 23,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 404577,
-      "num": 404577,
-      "word": "伊朗vs美国",
-      "onboard_time": 1669700014,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 404469,
-      "num": 404469,
-      "word": "北京新增本土感染者2126例",
-      "onboard_time": 1669716155,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 403803,
@@ -1091,6 +1131,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 353632,
+      "num": 353632,
+      "word": "MAMA",
+      "onboard_time": 1669710455,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 353319,
       "num": 353319,
       "word": "卿卿日常制片人说没有第二季",
@@ -1107,12 +1155,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 349587,
-      "num": 241059,
-      "word": "王鹤棣视界大会红毯造型",
-      "onboard_time": 1669717238,
-      "rank": 34,
-      "category": "影视"
+      "raw_hot": 350492,
+      "num": 329432,
+      "word": "宋亚轩最新跳舞视频",
+      "onboard_time": 1669717902,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 348938,
+      "num": 327168,
+      "word": "于正说任嘉伦演技可以的",
+      "onboard_time": 1669717597,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 348745,
@@ -1137,14 +1193,6 @@
       "onboard_time": 1669707939,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 345185,
-      "num": 243072,
-      "word": "MAMA",
-      "onboard_time": 1669710455,
-      "rank": 33,
-      "category": "音乐"
     },
     {
       "raw_hot": 345054,
@@ -1185,6 +1233,14 @@
       "onboard_time": 1669687834,
       "rank": 24,
       "category": "社会新闻,社会新闻"
+    },
+    {
+      "raw_hot": 332412,
+      "num": 225205,
+      "word": "张天爱微博视界大会",
+      "onboard_time": 1669717597,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 328538,
@@ -1257,14 +1313,6 @@
       "onboard_time": 1669688911,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 304565,
-      "num": 304565,
-      "word": "为什么每次都是BBC在现场出问题",
-      "onboard_time": 1669716101,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 303815,
@@ -1401,6 +1449,14 @@
       "onboard_time": 1669698338,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 281181,
+      "num": 274321,
+      "word": "警方通报广州地铁硫酸事件",
+      "onboard_time": 1669715616,
+      "rank": 38,
+      "category": "社会负面"
     },
     {
       "raw_hot": 281179,
@@ -1587,14 +1643,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 233612,
-      "num": 233612,
-      "word": "警方通报广州地铁硫酸事件",
-      "onboard_time": 1669715616,
-      "rank": 38,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 230214,
       "num": 162388,
       "word": "邢菲红秀保加利亚版封面",
@@ -1715,6 +1763,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 209327,
+      "num": 209327,
+      "word": "狗与狗之间的差距咋这么大",
+      "onboard_time": 1669715739,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 207136,
       "num": 207136,
       "word": "地铁硫酸受伤男孩已完成手术",
@@ -1769,6 +1825,14 @@
       "onboard_time": 1669665195,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 197811,
+      "num": 197811,
+      "word": "魔兽世界10.0上线",
+      "onboard_time": 1669717418,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 197395,
@@ -1891,14 +1955,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 188925,
-      "num": 188925,
-      "word": "狗与狗之间的差距咋这么大",
-      "onboard_time": 1669715739,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 187623,
       "num": 187623,
       "word": "危险爱人定档",
@@ -1929,6 +1985,14 @@
       "onboard_time": 1669705355,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 182477,
+      "num": 182477,
+      "word": "邓清明带了外孙的玩具上太空",
+      "onboard_time": 1669718020,
+      "rank": 43,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 181480,
@@ -2049,6 +2113,14 @@
       "onboard_time": 1669695996,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 167110,
+      "num": 167110,
+      "word": "一条plog告别十一月",
+      "onboard_time": 1669717658,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 166715,
@@ -2185,6 +2257,14 @@
       "onboard_time": 1669692092,
       "rank": 46,
       "category": "科技"
+    },
+    {
+      "raw_hot": 154332,
+      "num": 166874,
+      "word": "女子用吸尘器抓蚊子一吸一个准儿",
+      "onboard_time": 1669718140,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 153815,
