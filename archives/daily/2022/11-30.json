@@ -1,6 +1,6 @@
 {
   "startTime": 1669739332504,
-  "endTime": 1669739332504,
+  "endTime": 1669740486727,
   "band_list": [
     {
       "raw_hot": 2756631,
@@ -99,20 +99,20 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 465972,
+      "num": 465972,
+      "word": "原来这就是睡得跟死猪一样",
+      "onboard_time": 1669737028,
+      "rank": 15,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 458429,
       "num": 458429,
       "word": "赵丽颖当面催更张若昀",
       "onboard_time": 1669730068,
       "rank": 13,
       "category": "影视"
-    },
-    {
-      "raw_hot": 446485,
-      "num": 446485,
-      "word": "原来这就是睡得跟死猪一样",
-      "onboard_time": 1669737028,
-      "rank": 15,
-      "category": "幽默"
     },
     {
       "raw_hot": 440003,
@@ -179,6 +179,38 @@
       "category": "体育"
     },
     {
+      "raw_hot": 307927,
+      "num": 307927,
+      "word": "张超",
+      "onboard_time": 1669738762,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 290554,
+      "num": 290554,
+      "word": "塞内加尔进球",
+      "onboard_time": 1669737685,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 278629,
+      "num": 278629,
+      "word": "荷兰2比0领先卡塔尔",
+      "onboard_time": 1669739665,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 270003,
+      "num": 270003,
+      "word": "制片人说白敬亭是六少主第一人选",
+      "onboard_time": 1669736848,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 261074,
       "num": 261074,
       "word": "方向盘套广告语被指侮辱女性",
@@ -203,14 +235,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 227354,
-      "num": 227354,
-      "word": "塞内加尔进球",
-      "onboard_time": 1669737685,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 225429,
       "num": 225429,
       "word": "北京疫情下一名配送骑手自述",
@@ -224,14 +248,6 @@
       "word": "李薇盘发",
       "onboard_time": 1669727067,
       "rank": 27,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 220509,
-      "num": 209655,
-      "word": "制片人说白敬亭是六少主第一人选",
-      "onboard_time": 1669736848,
-      "rank": 31,
       "category": "影视"
     },
     {
@@ -275,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 196865,
+      "num": 196865,
+      "word": "尹峥尹嵩原生家庭",
+      "onboard_time": 1669738585,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 190900,
       "num": 190900,
       "word": "尹岐新发型",
@@ -291,12 +315,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 173024,
+      "num": 173024,
+      "word": "男子偷变压器触电身亡家属索赔被驳",
+      "onboard_time": 1669739601,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 165903,
       "num": 165903,
       "word": "他们没来MAMA又好像来了",
       "onboard_time": 1669718020,
       "rank": 38,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 157519,
+      "num": 1095967,
+      "word": "第九版防控方案和二十条措施热点问答",
+      "onboard_time": 1669739601,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 155714,
@@ -339,20 +379,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 147265,
-      "num": 147265,
-      "word": "张超",
-      "onboard_time": 1669738762,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 145464,
       "num": 145464,
       "word": "南京下雪",
       "onboard_time": 1669730786,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 143093,
+      "num": 143093,
+      "word": "世界杯太太团颜值大赏",
+      "onboard_time": 1669739601,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 140675,
+      "num": 140675,
+      "word": "龚俊说下部剧已经在接触啦",
+      "onboard_time": 1669736485,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 140300,
@@ -387,6 +435,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 114480,
+      "num": 114480,
+      "word": "神十五出征",
+      "onboard_time": 1669734866,
+      "rank": 46,
+      "category": "科技"
+    },
+    {
       "raw_hot": 99879,
       "num": 1460175,
       "word": "聚焦神舟十五号",
@@ -395,7 +451,7 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 62629,
+      "raw_hot": 98346,
       "num": 449324,
       "word": "神十五发射和月亮同框",
       "onboard_time": 1669738944,
@@ -406,6 +462,9 @@
   "hotgov_list": [
     {
       "word": "#航天新征程#"
+    },
+    {
+      "word": "#神十五发射圆满成功#"
     }
   ]
 }
