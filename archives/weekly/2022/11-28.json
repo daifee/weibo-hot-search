@@ -1,6 +1,6 @@
 {
   "startTime": 1669566398830,
-  "endTime": 1669704077289,
+  "endTime": 1669706288988,
   "band_list": [
     {
       "raw_hot": 11045761,
@@ -83,6 +83,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 3237304,
+      "num": 3237304,
+      "word": "柳州核酸",
+      "onboard_time": 1669701094,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 3204434,
       "num": 3204434,
       "word": "考研",
@@ -115,19 +123,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2595812,
+      "num": 2595812,
+      "word": "已有超11家核酸检测机构造假被查",
+      "onboard_time": 1669702413,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2549708,
       "num": 1839178,
       "word": "武汉呼吁市民同心合力群防群控",
       "onboard_time": 1669557640,
       "rank": 3,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2450689,
-      "num": 2450689,
-      "word": "柳州核酸",
-      "onboard_time": 1669701094,
-      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -595,14 +603,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1037508,
-      "num": 1037508,
-      "word": "已有超11家核酸检测机构造假被查",
-      "onboard_time": 1669702413,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1033034,
       "num": 1033034,
       "word": "考研会延期吗",
@@ -739,6 +739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 854262,
+      "num": 854262,
+      "word": "国务院联防联控机制召开发布会",
+      "onboard_time": 1669705597,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 850912,
       "num": 850912,
       "word": "C罗上帝之发",
@@ -843,6 +851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 784799,
+      "num": 784799,
+      "word": "乌市对低收入者给予300元一次性生活救助",
+      "onboard_time": 1669701755,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 763501,
       "num": 763501,
       "word": "巴西1比0瑞士",
@@ -875,6 +891,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 752331,
+      "num": 472752,
+      "word": "卖一部iPhone能赚1400元",
+      "onboard_time": 1669704572,
+      "rank": 11,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 751838,
       "num": 751838,
       "word": "墨白定档1201",
@@ -891,6 +915,14 @@
       "category": "体育,网红"
     },
     {
+      "raw_hot": 742334,
+      "num": 470304,
+      "word": "研究表明寄生虫入侵大脑造就了狼王",
+      "onboard_time": 1669704697,
+      "rank": 12,
+      "category": "其它"
+    },
+    {
       "raw_hot": 738619,
       "num": 738619,
       "word": "尹峥入狱vs陆之昂入狱",
@@ -905,6 +937,14 @@
       "onboard_time": 1669648303,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 736385,
+      "num": 736385,
+      "word": "劳荣枝哥哥称百分百改判或发回重审",
+      "onboard_time": 1669702832,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 736083,
@@ -1011,14 +1051,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 665623,
-      "num": 665623,
-      "word": "乌市对低收入者给予300元一次性生活救助",
-      "onboard_time": 1669701755,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 662760,
       "num": 662760,
       "word": "许半夏入狱",
@@ -1123,6 +1155,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 631984,
+      "num": 467653,
+      "word": "你把我床坐塌了得负责吧",
+      "onboard_time": 1669704756,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 629979,
       "num": 629979,
       "word": "什么情况下需戴N95口罩",
@@ -1176,6 +1216,14 @@
       "word": "7岁女孩高烧一周被确诊亲吻病",
       "onboard_time": 1669552836,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 586528,
+      "num": 586528,
+      "word": "内蒙古去年结婚登记量创新低",
+      "onboard_time": 1669701154,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -1603,14 +1651,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 453732,
-      "num": 453732,
-      "word": "内蒙古去年结婚登记量创新低",
-      "onboard_time": 1669701154,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 450905,
       "num": 450905,
       "word": "李黛辞职",
@@ -1729,6 +1769,14 @@
       "onboard_time": 1669557640,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 428461,
+      "num": 428461,
+      "word": "全国营业影院低于5000家",
+      "onboard_time": 1669705416,
+      "rank": 15,
+      "category": "影视,财经"
     },
     {
       "raw_hot": 428244,
@@ -2139,6 +2187,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 346351,
+      "num": 346351,
+      "word": "核子华曦工作人员回应",
+      "onboard_time": 1669702893,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 345484,
       "num": 345484,
       "word": "MAMA四代女团合作剧透",
@@ -2403,6 +2459,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 308173,
+      "num": 308173,
+      "word": "2022MAMA舞台预告公开",
+      "onboard_time": 1669703975,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 308110,
       "num": 308110,
       "word": "巴西进球 越位",
@@ -2451,12 +2515,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 303815,
+      "num": 303815,
+      "word": "杨幂GQ红毯导师大片",
+      "onboard_time": 1669703975,
+      "rank": 35,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 301713,
       "num": 301713,
       "word": "深圳倡导市民下周居家办公",
       "onboard_time": 1669550677,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 300893,
+      "num": 300893,
+      "word": "眼神不好就别戴无线耳机了",
+      "onboard_time": 1669700852,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 300338,
@@ -2529,6 +2609,14 @@
       "onboard_time": 1669605274,
       "rank": 28,
       "category": "教育"
+    },
+    {
+      "raw_hot": 289186,
+      "num": 289186,
+      "word": "胡彦斌说张婉婷应该更善意对待世界",
+      "onboard_time": 1669702710,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 288103,
@@ -2635,14 +2723,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 279009,
-      "num": 279009,
-      "word": "眼神不好就别戴无线耳机了",
-      "onboard_time": 1669700852,
-      "rank": 29,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 278239,
       "num": 278239,
       "word": "法考",
@@ -2681,14 +2761,6 @@
       "onboard_time": 1669611520,
       "rank": 33,
       "category": "教育"
-    },
-    {
-      "raw_hot": 275088,
-      "num": 275088,
-      "word": "劳荣枝哥哥称百分百改判或发回重审",
-      "onboard_time": 1669702832,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 274921,
@@ -2779,6 +2851,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 262289,
+      "num": 262289,
+      "word": "孙怡是拿放大镜在观察吧",
+      "onboard_time": 1669705956,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 261348,
+      "num": 261348,
+      "word": "8岁男童患癌两年扛过2次移植后复发",
+      "onboard_time": 1669704756,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 257421,
       "num": 257421,
       "word": "北京新增本土感染者1781例",
@@ -2827,19 +2915,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 254005,
+      "num": 254005,
+      "word": "劳荣枝案小木匠妻女回应30日开庭",
+      "onboard_time": 1669703251,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 253294,
       "num": 253294,
       "word": "蒋芸王晓佳治愈系MV渊",
       "onboard_time": 1669606837,
       "rank": 29,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 252700,
-      "num": 252700,
-      "word": "2022MAMA舞台预告公开",
-      "onboard_time": 1669703975,
-      "rank": 28,
       "category": "音乐"
     },
     {
@@ -2996,7 +3084,7 @@
     },
     {
       "raw_hot": 237767,
-      "num": 1474473,
+      "num": 2233225,
       "word": "科学精准提高防疫工作的有效性",
       "onboard_time": 1669691433,
       "rank": 2,
@@ -3121,6 +3209,14 @@
       "onboard_time": 1669633898,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 224814,
+      "num": 224814,
+      "word": "假如C罗换个发型",
+      "onboard_time": 1669702413,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 224253,
@@ -3323,14 +3419,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 199106,
-      "num": 199106,
-      "word": "胡彦斌说张婉婷应该更善意对待世界",
-      "onboard_time": 1669702710,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 198460,
       "num": 198460,
       "word": "巴西vs瑞士贵宾席有多豪华",
@@ -3401,6 +3489,14 @@
       "onboard_time": 1669582874,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 194872,
+      "num": 194872,
+      "word": "搂着猫咪睡觉的狗狗",
+      "onboard_time": 1669703371,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 194788,
@@ -3475,12 +3571,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 189506,
-      "num": 189506,
-      "word": "劳荣枝案小木匠妻女回应30日开庭",
-      "onboard_time": 1669703251,
-      "rank": 34,
-      "category": "社会新闻"
+      "raw_hot": 188970,
+      "num": 188970,
+      "word": "伊朗vs美国",
+      "onboard_time": 1669700014,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 188290,
@@ -3489,14 +3585,6 @@
       "onboard_time": 1669614696,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 188073,
-      "num": 188073,
-      "word": "杨幂GQ红毯导师大片",
-      "onboard_time": 1669703975,
-      "rank": 35,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 187649,
@@ -3529,14 +3617,6 @@
       "onboard_time": 1669627835,
       "rank": 37,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 187051,
-      "num": 187051,
-      "word": "伊朗vs美国",
-      "onboard_time": 1669700014,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 186134,
@@ -3587,12 +3667,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 182672,
-      "num": 182672,
-      "word": "假如C罗换个发型",
-      "onboard_time": 1669702413,
-      "rank": 39,
-      "category": "体育"
+      "raw_hot": 183475,
+      "num": 183475,
+      "word": "王源说客厅狂欢会出黑胶",
+      "onboard_time": 1669705355,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 182193,
@@ -3603,19 +3683,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 181815,
-      "num": 181815,
-      "word": "核子华曦工作人员回应",
-      "onboard_time": 1669702893,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 181480,
       "num": 156993,
       "word": "魔术vs篮网",
       "onboard_time": 1669687652,
       "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 181414,
+      "num": 181414,
+      "word": "1个动作教你缓解久坐不适",
+      "onboard_time": 1669705717,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -3867,14 +3947,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 165256,
-      "num": 165256,
-      "word": "搂着猫咪睡觉的狗狗",
-      "onboard_time": 1669703371,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 165064,
       "num": 161193,
       "word": "许半夏问什么时候放饭",
@@ -3899,6 +3971,22 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 164126,
+      "num": 164126,
+      "word": "女子逃票被发现叫嚣不止逃这一天",
+      "onboard_time": 1669705836,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 163925,
+      "num": 163925,
+      "word": "2岁萌娃为吃西瓜三次变脸",
+      "onboard_time": 1669706137,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 163322,
       "num": 163322,
       "word": "TXT2023台历预览视频",
@@ -3913,6 +4001,14 @@
       "onboard_time": 1669620631,
       "rank": 47,
       "category": "军事"
+    },
+    {
+      "raw_hot": 162338,
+      "num": 162338,
+      "word": "许半夏前夫后面还有戏份",
+      "onboard_time": 1669705050,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 162264,
