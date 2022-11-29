@@ -1,6 +1,6 @@
 {
   "startTime": 1669566398830,
-  "endTime": 1669714531506,
+  "endTime": 1669717333306,
   "band_list": [
     {
       "raw_hot": 11045761,
@@ -49,6 +49,14 @@
       "onboard_time": 1669648720,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 3954744,
+      "num": 3954744,
+      "word": "人民至上不是防疫至上",
+      "onboard_time": 1669714175,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3706986,
@@ -187,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2157457,
+      "num": 2157457,
+      "word": "微博视界大会",
+      "onboard_time": 1669709196,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2068100,
       "num": 1728671,
       "word": "女子结婚53天做了52天饭",
@@ -216,6 +232,14 @@
       "word": "孙兴慜 状态",
       "onboard_time": 1669645298,
       "rank": 21,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1941332,
+      "num": 1941332,
+      "word": "孙兴慜遭韩国网民网暴",
+      "onboard_time": 1669712674,
+      "rank": 18,
       "category": "体育"
     },
     {
@@ -299,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1627229,
+      "num": 242341,
+      "word": "肖战视界大会工作室出图",
+      "onboard_time": 1669716461,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1621933,
       "num": 1621933,
       "word": "常态化做核酸安全吗",
@@ -313,14 +345,6 @@
       "onboard_time": 1669606478,
       "rank": 5,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1614237,
-      "num": 1614237,
-      "word": "微博视界大会",
-      "onboard_time": 1669709196,
-      "rank": 5,
-      "category": "影视"
     },
     {
       "raw_hot": 1548461,
@@ -705,14 +729,6 @@
       "onboard_time": 1669691011,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 988360,
-      "num": 988360,
-      "word": "孙兴慜遭韩国网民网暴",
-      "onboard_time": 1669712674,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 978656,
@@ -1267,6 +1283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 622411,
+      "num": 547327,
+      "word": "魔兽负责人给中国玩家留言",
+      "onboard_time": 1669714901,
+      "rank": 11,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 607168,
       "num": 607168,
       "word": "上海迪士尼乐园今日起暂时关闭",
@@ -1291,6 +1315,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 600931,
+      "num": 544510,
+      "word": "Somi金色抹胸长裙造型",
+      "onboard_time": 1669715556,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 592551,
       "num": 592551,
       "word": "男子等女友下班打游戏激动摔下3楼",
@@ -1305,6 +1337,14 @@
       "onboard_time": 1669709738,
       "rank": 13,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 592260,
+      "num": 574225,
+      "word": "赵露思微博视界大会绿意大片",
+      "onboard_time": 1669716756,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 591257,
@@ -1819,6 +1859,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 447375,
+      "num": 447375,
+      "word": "女生骨骼惊奇能用手背握水瓶",
+      "onboard_time": 1669713273,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 445537,
       "num": 445537,
       "word": "原来琼瑶剧运动量这么大",
@@ -1859,6 +1907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 440368,
+      "num": 440368,
+      "word": "男生睡蒙了被同桌骗去擦老师板书",
+      "onboard_time": 1669714835,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 438583,
       "num": 438583,
       "word": "邓清明入选神十五乘组",
@@ -1881,6 +1937,14 @@
       "onboard_time": 1669678946,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 435442,
+      "num": 396562,
+      "word": "felix脸颊比心",
+      "onboard_time": 1669717117,
+      "rank": 20,
+      "category": "音乐"
     },
     {
       "raw_hot": 434529,
@@ -2016,6 +2080,22 @@
       "word": "张蕴钰之子称不认识张核子张珊珊",
       "onboard_time": 1669636715,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 404577,
+      "num": 404577,
+      "word": "伊朗vs美国",
+      "onboard_time": 1669700014,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 404469,
+      "num": 404469,
+      "word": "北京新增本土感染者2126例",
+      "onboard_time": 1669716155,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -2235,6 +2315,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 368632,
+      "num": 368632,
+      "word": "NMIXX 舞台",
+      "onboard_time": 1669716101,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 368254,
       "num": 368254,
       "word": "叫顺风车送猫中途被司机威胁加价",
@@ -2379,6 +2467,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 349587,
+      "num": 241059,
+      "word": "王鹤棣视界大会红毯造型",
+      "onboard_time": 1669717238,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 348745,
       "num": 348745,
       "word": "71岁老人坐网约车猝死家属索赔",
@@ -2393,6 +2489,14 @@
       "onboard_time": 1669641937,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 348104,
+      "num": 244144,
+      "word": "陈哲远造型",
+      "onboard_time": 1669716637,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 347534,
@@ -2531,14 +2635,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 332067,
-      "num": 332067,
-      "word": "伊朗vs美国",
-      "onboard_time": 1669700014,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 329889,
       "num": 329889,
       "word": "南京一医院接连收治多例柿石症患者",
@@ -2569,6 +2665,14 @@
       "onboard_time": 1669635871,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 326016,
+      "num": 326016,
+      "word": "女子寄榴莲收货后只剩空壳",
+      "onboard_time": 1669712978,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 325572,
@@ -2777,6 +2881,14 @@
       "onboard_time": 1669688911,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 304565,
+      "num": 304565,
+      "word": "为什么每次都是BBC在现场出问题",
+      "onboard_time": 1669716101,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 304525,
@@ -3219,14 +3331,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 253778,
-      "num": 253778,
-      "word": "女子寄榴莲收货后只剩空壳",
-      "onboard_time": 1669712978,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 253294,
       "num": 253294,
       "word": "蒋芸王晓佳治愈系MV渊",
@@ -3475,6 +3579,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 233612,
+      "num": 233612,
+      "word": "警方通报广州地铁硫酸事件",
+      "onboard_time": 1669715616,
+      "rank": 38,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 230214,
       "num": 162388,
       "word": "邢菲红秀保加利亚版封面",
@@ -3619,14 +3731,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 221676,
-      "num": 221676,
-      "word": "女生骨骼惊奇能用手背握水瓶",
-      "onboard_time": 1669713273,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 221436,
       "num": 221436,
       "word": "与迪丽热巴共品诗中情怀",
@@ -3705,14 +3809,6 @@
       "onboard_time": 1669659557,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 212300,
-      "num": 212300,
-      "word": "人民至上不是防疫至上",
-      "onboard_time": 1669714175,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 212123,
@@ -3969,6 +4065,14 @@
       "onboard_time": 1669702954,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 188925,
+      "num": 188925,
+      "word": "狗与狗之间的差距咋这么大",
+      "onboard_time": 1669715739,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 188290,
@@ -4771,6 +4875,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 141733,
+      "num": 141733,
+      "word": "雪后秦岭秒变冬日大片",
+      "onboard_time": 1669717179,
+      "rank": 47,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 140019,
       "num": 2330981,
       "word": "神十五航天员乘组确定",
@@ -4785,6 +4897,14 @@
       "onboard_time": 1669654883,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 138846,
+      "num": 138846,
+      "word": "手机市场何时才能回春",
+      "onboard_time": 1669715859,
+      "rank": 48,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 137567,
@@ -4849,6 +4969,14 @@
       "onboard_time": 1669627538,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 130912,
+      "num": 138835,
+      "word": "柳州市城区最新核酸检测采样点信息",
+      "onboard_time": 1669717117,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 130685,
@@ -5028,7 +5156,7 @@
     },
     {
       "raw_hot": 74569,
-      "num": 1618606,
+      "num": 2415653,
       "word": "聚焦神舟十五号",
       "onboard_time": 1669711419,
       "rank": 2,

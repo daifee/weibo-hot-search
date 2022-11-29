@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1669714531506,
+  "endTime": 1669717333306,
   "band_list": [
     {
       "raw_hot": 36651023,
@@ -401,6 +401,14 @@
       "onboard_time": 1669311981,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 3954744,
+      "num": 3954744,
+      "word": "人民至上不是防疫至上",
+      "onboard_time": 1669714175,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3943932,
@@ -1611,6 +1619,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 2157457,
+      "num": 2157457,
+      "word": "微博视界大会",
+      "onboard_time": 1669709196,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2149296,
       "num": 2149296,
       "word": "兰州通报儿童中毒死亡事件",
@@ -1960,6 +1976,14 @@
       "word": "曝阿根廷球迷强占中国球迷座位",
       "onboard_time": 1669541012,
       "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1941332,
+      "num": 1941332,
+      "word": "孙兴慜遭韩国网民网暴",
+      "onboard_time": 1669712674,
+      "rank": 18,
       "category": "体育"
     },
     {
@@ -2907,6 +2931,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1627229,
+      "num": 242341,
+      "word": "肖战视界大会工作室出图",
+      "onboard_time": 1669716461,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1625839,
       "num": 1625839,
       "word": "有你的季节",
@@ -2960,14 +2992,6 @@
       "word": "沈腾 没来",
       "onboard_time": 1668257614,
       "rank": 22,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 1614237,
-      "num": 1614237,
-      "word": "微博视界大会",
-      "onboard_time": 1669709196,
-      "rank": 5,
       "category": "影视"
     },
     {
@@ -6585,14 +6609,6 @@
       "onboard_time": 1669475754,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 988360,
-      "num": 988360,
-      "word": "孙兴慜遭韩国网民网暴",
-      "onboard_time": 1669712674,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 986710,
@@ -12779,6 +12795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 622411,
+      "num": 547327,
+      "word": "魔兽负责人给中国玩家留言",
+      "onboard_time": 1669714901,
+      "rank": 11,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 622179,
       "num": 622179,
       "word": "不能在朋友圈分享的喜悦",
@@ -13307,6 +13331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 600931,
+      "num": 544510,
+      "word": "Somi金色抹胸长裙造型",
+      "onboard_time": 1669715556,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 600910,
       "num": 419819,
       "word": "陈飞宇张婧仪涨粉情况",
@@ -13553,6 +13585,14 @@
       "onboard_time": 1667535086,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 592260,
+      "num": 574225,
+      "word": "赵露思微博视界大会绿意大片",
+      "onboard_time": 1669716756,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 591582,
@@ -19963,6 +20003,14 @@
       "category": "体育,动漫"
     },
     {
+      "raw_hot": 447375,
+      "num": 447375,
+      "word": "女生骨骼惊奇能用手背握水瓶",
+      "onboard_time": 1669713273,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 447340,
       "num": 447340,
       "word": "iPhone14Pro发货延期至2023年",
@@ -20355,6 +20403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 440368,
+      "num": 440368,
+      "word": "男生睡蒙了被同桌骗去擦老师板书",
+      "onboard_time": 1669714835,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 439752,
       "num": 439752,
       "word": "85花热门女演员梯队图",
@@ -20721,6 +20777,14 @@
       "onboard_time": 1669200696,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 435442,
+      "num": 396562,
+      "word": "felix脸颊比心",
+      "onboard_time": 1669717117,
+      "rank": 20,
+      "category": "音乐"
     },
     {
       "raw_hot": 435408,
@@ -22633,6 +22697,22 @@
       "onboard_time": 1668932726,
       "rank": 47,
       "category": "体育,综艺"
+    },
+    {
+      "raw_hot": 404577,
+      "num": 404577,
+      "word": "伊朗vs美国",
+      "onboard_time": 1669700014,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 404469,
+      "num": 404469,
+      "word": "北京新增本土感染者2126例",
+      "onboard_time": 1669716155,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 404346,
@@ -24915,6 +24995,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 368632,
+      "num": 368632,
+      "word": "NMIXX 舞台",
+      "onboard_time": 1669716101,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 368452,
       "num": 368452,
       "word": "四川省考",
@@ -26451,6 +26539,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 349587,
+      "num": 241059,
+      "word": "王鹤棣视界大会红毯造型",
+      "onboard_time": 1669717238,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 349280,
       "num": 349280,
       "word": "乘务员连夜翻遍垃圾袋找回小耳朵",
@@ -26561,6 +26657,14 @@
       "onboard_time": 1668923127,
       "rank": 20,
       "category": "音乐,体育"
+    },
+    {
+      "raw_hot": 348104,
+      "num": 244144,
+      "word": "陈哲远造型",
+      "onboard_time": 1669716637,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 348004,
@@ -28003,14 +28107,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 332067,
-      "num": 332067,
-      "word": "伊朗vs美国",
-      "onboard_time": 1669700014,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 331873,
       "num": 255348,
       "word": "被李光洙和李栋旭笑死",
@@ -28505,6 +28601,14 @@
       "onboard_time": 1668646229,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 326016,
+      "num": 326016,
+      "word": "女子寄榴莲收货后只剩空壳",
+      "onboard_time": 1669712978,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 325678,
@@ -30601,6 +30705,14 @@
       "onboard_time": 1668250649,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 304565,
+      "num": 304565,
+      "word": "为什么每次都是BBC在现场出问题",
+      "onboard_time": 1669716101,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 304525,
@@ -35595,14 +35707,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 253778,
-      "num": 253778,
-      "word": "女子寄榴莲收货后只剩空壳",
-      "onboard_time": 1669712978,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 253720,
       "num": 253720,
       "word": "女子称饭店被4男子暴力催收卫生费",
@@ -37779,6 +37883,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 233612,
+      "num": 233612,
+      "word": "警方通报广州地铁硫酸事件",
+      "onboard_time": 1669715616,
+      "rank": 38,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 233607,
       "num": 171685,
       "word": "中美元首会晤进入闭门阶段",
@@ -39507,14 +39619,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 221676,
-      "num": 221676,
-      "word": "女生骨骼惊奇能用手背握水瓶",
-      "onboard_time": 1669713273,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 221634,
       "num": 221634,
       "word": "张真源百忧戒全开麦",
@@ -40905,14 +41009,6 @@
       "onboard_time": 1669277728,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 212300,
-      "num": 212300,
-      "word": "人民至上不是防疫至上",
-      "onboard_time": 1669714175,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 212255,
@@ -44785,6 +44881,14 @@
       "onboard_time": 1669556254,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 188925,
+      "num": 188925,
+      "word": "狗与狗之间的差距咋这么大",
+      "onboard_time": 1669715739,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 188812,
@@ -53339,6 +53443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 141733,
+      "num": 141733,
+      "word": "雪后秦岭秒变冬日大片",
+      "onboard_time": 1669717179,
+      "rank": 47,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 141649,
       "num": 123328,
       "word": "龚俊告黑成功",
@@ -53841,6 +53953,14 @@
       "onboard_time": 1669245564,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 138846,
+      "num": 138846,
+      "word": "手机市场何时才能回春",
+      "onboard_time": 1669715859,
+      "rank": 48,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 138781,
@@ -55513,6 +55633,14 @@
       "onboard_time": 1667550268,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 130912,
+      "num": 138835,
+      "word": "柳州市城区最新核酸检测采样点信息",
+      "onboard_time": 1669717117,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 130867,
@@ -64268,7 +64396,7 @@
     },
     {
       "raw_hot": 74569,
-      "num": 1618606,
+      "num": 2415653,
       "word": "聚焦神舟十五号",
       "onboard_time": 1669711419,
       "rank": 2,

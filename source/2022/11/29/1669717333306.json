@@ -1,0 +1,410 @@
+{
+  "runTime": 1669717333306,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3954744,
+        "num": 3954744,
+        "word": "人民至上不是防疫至上",
+        "onboard_time": 1669714175,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2686520,
+        "num": 2686520,
+        "word": "已有超11家核酸检测机构造假被查",
+        "onboard_time": 1669702413,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60760,
+        "num": 2415653,
+        "word": "聚焦神舟十五号",
+        "onboard_time": 1669711419,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2157457,
+        "num": 2157457,
+        "word": "微博视界大会",
+        "onboard_time": 1669709196,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1941332,
+        "num": 1941332,
+        "word": "孙兴慜遭韩国网民网暴",
+        "onboard_time": 1669712674,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1014181,
+        "num": 1014181,
+        "word": "柳州核酸",
+        "onboard_time": 1669701094,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 853059,
+        "num": 853059,
+        "word": "国务院联防联控机制召开发布会",
+        "onboard_time": 1669705597,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 819248,
+        "num": 819248,
+        "word": "关晓彤落叶棕刺绣礼服",
+        "onboard_time": 1669709617,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 576852,
+        "num": 576852,
+        "word": "国家疾控局回应网友反映层层加码问题",
+        "onboard_time": 1669707457,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 592260,
+        "num": 574225,
+        "word": "赵露思微博视界大会绿意大片",
+        "onboard_time": 1669716756,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 808715,
+        "num": 557470,
+        "word": "研究表明寄生虫入侵大脑造就了狼王",
+        "onboard_time": 1669704697,
+        "rank": 10,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 622411,
+        "num": 547327,
+        "word": "魔兽负责人给中国玩家留言",
+        "onboard_time": 1669714901,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 600931,
+        "num": 544510,
+        "word": "Somi金色抹胸长裙造型",
+        "onboard_time": 1669715556,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 533922,
+        "num": 533922,
+        "word": "央视网评今年的伪爆剧和爆剧",
+        "onboard_time": 1669697073,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 460897,
+        "num": 460897,
+        "word": "沈小婷MAMA红毯图",
+        "onboard_time": 1669710638,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 447375,
+        "num": 447375,
+        "word": "女生骨骼惊奇能用手背握水瓶",
+        "onboard_time": 1669713273,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 440368,
+        "num": 440368,
+        "word": "男生睡蒙了被同桌骗去擦老师板书",
+        "onboard_time": 1669714835,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 404577,
+        "num": 404577,
+        "word": "伊朗vs美国",
+        "onboard_time": 1669700014,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 404469,
+        "num": 404469,
+        "word": "北京新增本土感染者2126例",
+        "onboard_time": 1669716155,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 397804,
+        "num": 397804,
+        "word": "广州地铁硫酸事件",
+        "onboard_time": 1669696956,
+        "rank": 19,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 435442,
+        "num": 396562,
+        "word": "felix脸颊比心",
+        "onboard_time": 1669717117,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 427390,
+        "num": 394773,
+        "word": "杨超越丝绒雾霭蓝礼服造型",
+        "onboard_time": 1669709617,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 376236,
+        "num": 376236,
+        "word": "小女孩地铁咳嗽被医生提醒抽动症",
+        "onboard_time": 1669707997,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 369868,
+        "num": 369868,
+        "word": "封控管理要快封快解",
+        "onboard_time": 1669707997,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368632,
+        "num": 368632,
+        "word": "NMIXX 舞台",
+        "onboard_time": 1669716101,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 326016,
+        "num": 326016,
+        "word": "女子寄榴莲收货后只剩空壳",
+        "onboard_time": 1669712978,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325168,
+        "num": 325168,
+        "word": "卖一部iPhone能赚1400元",
+        "onboard_time": 1669704572,
+        "rank": 26,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 315969,
+        "num": 315969,
+        "word": "卫健委回应部分地区尝试居民核酸自采",
+        "onboard_time": 1669707759,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304565,
+        "num": 304565,
+        "word": "为什么每次都是BBC在现场出问题",
+        "onboard_time": 1669716101,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244527,
+        "num": 244527,
+        "word": "00后晒基金收益被劝先学习",
+        "onboard_time": 1669710817,
+        "rank": 29,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 348104,
+        "num": 244144,
+        "word": "陈哲远造型",
+        "onboard_time": 1669716637,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 345185,
+        "num": 243072,
+        "word": "MAMA",
+        "onboard_time": 1669710455,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1627229,
+        "num": 242341,
+        "word": "肖战视界大会工作室出图",
+        "onboard_time": 1669716461,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 330799,
+        "num": 241819,
+        "word": "MAMA32人合作舞台",
+        "onboard_time": 1669710577,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 349587,
+        "num": 241059,
+        "word": "王鹤棣视界大会红毯造型",
+        "onboard_time": 1669717238,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 271005,
+        "num": 239382,
+        "word": "朱韵扇了李峋一巴掌",
+        "onboard_time": 1669713214,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 239330,
+        "num": 239330,
+        "word": "孙兴慜的ins评论区",
+        "onboard_time": 1669709676,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 234565,
+        "num": 234565,
+        "word": "Hero",
+        "onboard_time": 1669713457,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 233612,
+        "num": 233612,
+        "word": "警方通报广州地铁硫酸事件",
+        "onboard_time": 1669715616,
+        "rank": 38,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 220395,
+        "num": 220395,
+        "word": "张凯急了",
+        "onboard_time": 1669713515,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 217003,
+        "num": 217003,
+        "word": "西安下雪仿佛置身长安",
+        "onboard_time": 1669712796,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209131,
+        "num": 209131,
+        "word": "劳荣枝哥哥称百分百改判或发回重审",
+        "onboard_time": 1669702832,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193232,
+        "num": 193232,
+        "word": "这才是糯唧唧美食的天堂",
+        "onboard_time": 1669713753,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 188925,
+        "num": 188925,
+        "word": "狗与狗之间的差距咋这么大",
+        "onboard_time": 1669715739,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 187057,
+        "num": 187057,
+        "word": "邻居嫌楼上孩子吵闹上门怒斥",
+        "onboard_time": 1669706438,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160991,
+        "num": 160991,
+        "word": "2岁姐姐拼尽全力拉车保护妹妹",
+        "onboard_time": 1669711058,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144902,
+        "num": 144902,
+        "word": "各地成立整治层层加码工作专班",
+        "onboard_time": 1669710514,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141733,
+        "num": 141733,
+        "word": "雪后秦岭秒变冬日大片",
+        "onboard_time": 1669717179,
+        "rank": 47,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 138846,
+        "num": 138846,
+        "word": "手机市场何时才能回春",
+        "onboard_time": 1669715859,
+        "rank": 48,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 130912,
+        "num": 138835,
+        "word": "柳州市城区最新核酸检测采样点信息",
+        "onboard_time": 1669717117,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#航天新征程#"
+    }
+  }
+}
