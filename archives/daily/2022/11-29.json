@@ -1,6 +1,6 @@
 {
   "startTime": 1669652614385,
-  "endTime": 1669721620275,
+  "endTime": 1669725519874,
   "band_list": [
     {
       "raw_hot": 4914407,
@@ -83,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2438554,
+      "num": 197933,
+      "word": "肖战发呆",
+      "onboard_time": 1669724740,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 2157457,
       "num": 2157457,
       "word": "微博视界大会",
@@ -131,6 +139,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1730032,
+      "num": 838349,
+      "word": "关晓彤红毯问今天头发和衣服是搭的吧",
+      "onboard_time": 1669719704,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1720677,
+      "num": 1553744,
+      "word": "男子出轨后开车撞妻子被女儿拦下",
+      "onboard_time": 1669719221,
+      "rank": 11,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1672707,
       "num": 570456,
       "word": "赵丽颖黄色水钻纱裙造型",
@@ -145,22 +169,6 @@
       "onboard_time": 1669716461,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1553744,
-      "num": 1553744,
-      "word": "男子出轨后开车撞妻子被女儿拦下",
-      "onboard_time": 1669719221,
-      "rank": 11,
-      "category": "社会负面"
-    },
-    {
-      "raw_hot": 1551444,
-      "num": 550188,
-      "word": "关晓彤红毯问今天头发和衣服是搭的吧",
-      "onboard_time": 1669719704,
-      "rank": 12,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1548461,
@@ -235,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1279938,
+      "num": 1279938,
+      "word": "葡萄牙足协证明进球属于C罗",
+      "onboard_time": 1669723478,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1259716,
       "num": 1259716,
       "word": "违规10次的核子华曦为什么没有被公诉",
@@ -275,6 +291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1222427,
+      "num": 1222427,
+      "word": "李诞快给你司员工培训下红毯pose",
+      "onboard_time": 1669722997,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1169159,
       "num": 1169159,
       "word": "韩国全队围攻主裁",
@@ -289,6 +313,14 @@
       "onboard_time": 1669709676,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1042431,
+      "num": 829730,
+      "word": "陈飞宇手上的疤",
+      "onboard_time": 1669724618,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1028268,
@@ -355,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 926493,
+      "num": 926493,
+      "word": "张核子曾称要在中国开1万家基因小屋",
+      "onboard_time": 1669719875,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 917442,
       "num": 917442,
       "word": "刘亦菲李现去有风的地方今日过审",
@@ -371,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 871046,
+      "num": 871046,
+      "word": "赵立坚介绍BBC记者被带离真相",
+      "onboard_time": 1669722877,
+      "rank": 8,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 851228,
       "num": 851228,
       "word": "上财校长称博士生像乞丐一样在研究",
@@ -385,6 +433,14 @@
       "onboard_time": 1669690470,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 843388,
+      "num": 843388,
+      "word": "女孩被扇耳光逼下跪还往头上倒饮料",
+      "onboard_time": 1669721615,
+      "rank": 9,
+      "category": "社会负面"
     },
     {
       "raw_hot": 841270,
@@ -417,6 +473,14 @@
       "onboard_time": 1669681170,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 809447,
+      "num": 809447,
+      "word": "张元英 舞台",
+      "onboard_time": 1669723835,
+      "rank": 12,
+      "category": "音乐"
     },
     {
       "raw_hot": 791382,
@@ -763,6 +827,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 525906,
+      "num": 425375,
+      "word": "王鹤棣自在从容对镜大片",
+      "onboard_time": 1669724800,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 523131,
       "num": 523131,
       "word": "iPhone15Pro将搭载索尼新一代传感器",
@@ -785,6 +857,14 @@
       "onboard_time": 1669684653,
       "rank": 32,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 510781,
+      "num": 359928,
+      "word": "张婉婷我亲手扼杀了宋宁峰的少年气",
+      "onboard_time": 1669720119,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 509858,
@@ -891,6 +971,14 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 460677,
+      "num": 460677,
+      "word": "三类人群感染新冠病毒更易引发重症",
+      "onboard_time": 1669715378,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 457539,
       "num": 457539,
       "word": "MAMA",
@@ -932,7 +1020,7 @@
     },
     {
       "raw_hot": 446110,
-      "num": 223329,
+      "num": 382242,
       "word": "北京朝阳有针对性地对部分群体实行免检",
       "onboard_time": 1669719579,
       "rank": 33,
@@ -987,6 +1075,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 433914,
+      "num": 357596,
+      "word": "微博视界大会微光荣耀名单",
+      "onboard_time": 1669724977,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 432833,
+      "num": 432833,
+      "word": "内马尔把温柔都给了孩子",
+      "onboard_time": 1669721559,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 421437,
       "num": 336714,
       "word": "NMIXX走MAMA红毯",
@@ -1017,14 +1121,6 @@
       "onboard_time": 1669689632,
       "rank": 23,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 406873,
-      "num": 406873,
-      "word": "张核子曾称要在中国开1万家基因小屋",
-      "onboard_time": 1669719875,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 403803,
@@ -1072,6 +1168,14 @@
       "word": "朱韵扇了李峋一巴掌",
       "onboard_time": 1669713214,
       "rank": 24,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 396580,
+      "num": 194109,
+      "word": "秦施哭到妆都花了",
+      "onboard_time": 1669723179,
+      "rank": 33,
       "category": "影视"
     },
     {
@@ -1129,6 +1233,14 @@
       "onboard_time": 1669706616,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 371522,
+      "num": 168261,
+      "word": "沈小婷MAMA舞蹈solo",
+      "onboard_time": 1669723537,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 368632,
@@ -1275,14 +1387,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 347897,
-      "num": 231431,
-      "word": "张婉婷我亲手扼杀了宋宁峰的少年气",
-      "onboard_time": 1669720119,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 346152,
       "num": 346152,
       "word": "警方通报广州地铁硫酸事件",
@@ -1305,6 +1409,14 @@
       "onboard_time": 1669698035,
       "rank": 23,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 341734,
+      "num": 164500,
+      "word": "五代女团合跳CheerUp",
+      "onboard_time": 1669724260,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 341465,
@@ -1361,6 +1473,14 @@
       "onboard_time": 1669712978,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 325711,
+      "num": 325711,
+      "word": "当各国球迷得知我来自中国",
+      "onboard_time": 1669718439,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 324533,
@@ -1539,6 +1659,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 286401,
+      "num": 286401,
+      "word": "张核子和他的核酸版图",
+      "onboard_time": 1669722337,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 282642,
       "num": 282642,
       "word": "小区高层楼顶现臂展2米大鸟",
@@ -1569,14 +1697,6 @@
       "onboard_time": 1669637796,
       "rank": 22,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 280387,
-      "num": 280387,
-      "word": "当各国球迷得知我来自中国",
-      "onboard_time": 1669718439,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 280055,
@@ -1641,6 +1761,14 @@
       "onboard_time": 1669721019,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 266552,
+      "num": 266552,
+      "word": "广州天河区疫情防控",
+      "onboard_time": 1669724740,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 265195,
@@ -2043,6 +2171,30 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 193748,
+      "num": 193748,
+      "word": "谁能拒绝收到一只小狗",
+      "onboard_time": 1669725104,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 193371,
+      "num": 193371,
+      "word": "女子被多人连续辱骂殴打6分钟",
+      "onboard_time": 1669725278,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 193285,
+      "num": 193285,
+      "word": "柳州卫健委回应病毒绕着走",
+      "onboard_time": 1669724919,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 193157,
       "num": 193157,
       "word": "遇见光年之外的云和乐",
@@ -2363,6 +2515,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 158365,
+      "num": 158365,
+      "word": "从衣服就能看出航天员有多想队友",
+      "onboard_time": 1669722458,
+      "rank": 44,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 158150,
       "num": 128278,
       "word": "本泽马已康复",
@@ -2417,6 +2577,14 @@
       "onboard_time": 1669699652,
       "rank": 48,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 153464,
+      "num": 153464,
+      "word": "90后夫妻北漂7年拒绝买房买车",
+      "onboard_time": 1669724977,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 152841,
@@ -2531,14 +2699,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 131489,
-      "num": 131489,
-      "word": "三类人群感染新冠病毒更易引发重症",
-      "onboard_time": 1669715378,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 130912,
       "num": 138835,
       "word": "柳州市城区最新核酸检测采样点信息",
@@ -2552,14 +2712,6 @@
       "word": "巴西队晋级16强",
       "onboard_time": 1669658956,
       "rank": 21,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 129276,
-      "num": 129276,
-      "word": "内马尔把温柔都给了孩子",
-      "onboard_time": 1669721559,
-      "rank": 48,
       "category": "体育"
     },
     {
@@ -2603,6 +2755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 99552,
+      "num": 2415653,
+      "word": "聚焦神舟十五号",
+      "onboard_time": 1669711419,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 80740,
       "num": 80740,
       "word": "张馨予晒原相机自拍照",
@@ -2617,14 +2777,6 @@
       "onboard_time": 1669675815,
       "rank": 45,
       "category": "艺人,动漫"
-    },
-    {
-      "raw_hot": 74569,
-      "num": 2415653,
-      "word": "聚焦神舟十五号",
-      "onboard_time": 1669711419,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 64241,
