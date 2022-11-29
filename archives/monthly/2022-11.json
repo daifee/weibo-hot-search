@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1669735257873,
+  "endTime": 1669736229890,
   "band_list": [
     {
       "raw_hot": 36651023,
@@ -577,6 +577,14 @@
       "onboard_time": 1668122780,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3404573,
+      "num": 3404573,
+      "word": "李一桐将不再出演武庚纪",
+      "onboard_time": 1669734326,
+      "rank": 1,
+      "category": "影视"
     },
     {
       "raw_hot": 3403058,
@@ -1705,14 +1713,6 @@
       "onboard_time": 1669529132,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2115162,
-      "num": 2115162,
-      "word": "李一桐将不再出演武庚纪",
-      "onboard_time": 1669734326,
-      "rank": 1,
-      "category": "影视"
     },
     {
       "raw_hot": 2110634,
@@ -2955,6 +2955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1646668,
+      "num": 1646668,
+      "word": "记者实测食用橘子后做核酸",
+      "onboard_time": 1669731387,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1645823,
       "num": 1645823,
       "word": "HLE官宣Viper回归",
@@ -3312,14 +3320,6 @@
       "word": "国家疾控局回应网友反映层层加码问题",
       "onboard_time": 1669707457,
       "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1548136,
-      "num": 1548136,
-      "word": "记者实测食用橘子后做核酸",
-      "onboard_time": 1669731387,
-      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -5291,6 +5291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1159253,
+      "num": 1159253,
+      "word": "广州天河区疫情防控",
+      "onboard_time": 1669724740,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1157164,
       "num": 1157164,
       "word": "国务院联防联控机制明日召开发布会",
@@ -5505,6 +5513,14 @@
       "onboard_time": 1667399009,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1137522,
+      "num": 1137522,
+      "word": "梅西已8年不喝汽水不吃披萨",
+      "onboard_time": 1669734326,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 1137343,
@@ -7323,14 +7339,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 937731,
-      "num": 937731,
-      "word": "广州天河区疫情防控",
-      "onboard_time": 1669724740,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 936868,
       "num": 936868,
       "word": "王鹤棣说当队长没问题",
@@ -7513,6 +7521,14 @@
       "onboard_time": 1668739826,
       "rank": 11,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 918794,
+      "num": 918794,
+      "word": "北京已经启用方舱医院23家",
+      "onboard_time": 1669731746,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 918437,
@@ -8907,14 +8923,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 823519,
-      "num": 823519,
-      "word": "北京已经启用方舱医院23家",
-      "onboard_time": 1669731746,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 822360,
       "num": 822360,
       "word": "李峋朱韵没有分手",
@@ -9065,6 +9073,14 @@
       "onboard_time": 1669173332,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 811343,
+      "num": 811343,
+      "word": "荷兰vs卡塔尔",
+      "onboard_time": 1669731030,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 810763,
@@ -12033,14 +12049,6 @@
       "onboard_time": 1669370159,
       "rank": 30,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 660617,
-      "num": 660617,
-      "word": "荷兰vs卡塔尔",
-      "onboard_time": 1669731030,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 660149,
@@ -15849,6 +15857,14 @@
       "onboard_time": 1668173791,
       "rank": 30,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 541331,
+      "num": 286378,
+      "word": "上网课忘关摄像头了",
+      "onboard_time": 1669735046,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 541227,
@@ -20971,6 +20987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 438160,
+      "num": 438160,
+      "word": "神舟十五号",
+      "onboard_time": 1669732830,
+      "rank": 27,
+      "category": "科技"
+    },
+    {
       "raw_hot": 438059,
       "num": 438059,
       "word": "原神",
@@ -21152,14 +21176,6 @@
       "word": "卡塔尔民众点赞中国大巴",
       "onboard_time": 1668866432,
       "rank": 39,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 436032,
-      "num": 436032,
-      "word": "梅西已8年不喝汽水不吃披萨",
-      "onboard_time": 1669734326,
-      "rank": 19,
       "category": "体育"
     },
     {
@@ -27083,14 +27099,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 349130,
-      "num": 349130,
-      "word": "神舟十五号",
-      "onboard_time": 1669732830,
-      "rank": 27,
-      "category": "科技"
-    },
-    {
       "raw_hot": 349098,
       "num": 349098,
       "word": "贺峻霖今晚唱阳光彩虹小白马",
@@ -32843,6 +32851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 286947,
+      "num": 286947,
+      "word": "神十五出征",
+      "onboard_time": 1669734866,
+      "rank": 42,
+      "category": "科技"
+    },
+    {
       "raw_hot": 286934,
       "num": 286934,
       "word": "李峋四次单膝下跪都是为了朱韵",
@@ -33095,6 +33111,14 @@
       "num": 284923,
       "word": "台北故宫历年共计359件陶瓷器伤损破裂",
       "onboard_time": 1667469386,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 284914,
+      "num": 278870,
+      "word": "方向盘套广告语被指侮辱女性",
+      "onboard_time": 1669733487,
       "rank": 36,
       "category": "社会新闻"
     },
@@ -33995,6 +34019,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 277139,
+      "num": 2415653,
+      "word": "聚焦神舟十五号",
+      "onboard_time": 1669711419,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 277072,
       "num": 277072,
       "word": "微信支持自定义表情包",
@@ -34425,14 +34457,6 @@
       "onboard_time": 1667745875,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 273297,
-      "num": 273297,
-      "word": "方向盘套广告语被指侮辱女性",
-      "onboard_time": 1669733487,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 273133,
@@ -37665,14 +37689,6 @@
       "onboard_time": 1669466263,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 240779,
-      "num": 2415653,
-      "word": "聚焦神舟十五号",
-      "onboard_time": 1669711419,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 240778,
@@ -41105,6 +41121,14 @@
       "onboard_time": 1667543307,
       "rank": 49,
       "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 216288,
+      "num": 160385,
+      "word": "尹岐新发型",
+      "onboard_time": 1669736186,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 216218,
@@ -45819,14 +45843,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 187399,
-      "num": 187399,
-      "word": "神十五出征",
-      "onboard_time": 1669734866,
-      "rank": 42,
-      "category": "科技"
-    },
-    {
       "raw_hot": 187397,
       "num": 187397,
       "word": "张雪迎毕雯珺墨白定档海报",
@@ -46105,6 +46121,14 @@
       "onboard_time": 1669638212,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 185985,
+      "num": 185985,
+      "word": "男孩熟练给鱿鱼动手术给柚子缝合",
+      "onboard_time": 1669733667,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 185976,
@@ -48491,14 +48515,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 171920,
-      "num": 171920,
-      "word": "上网课忘关摄像头了",
-      "onboard_time": 1669735046,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 171838,
       "num": 171838,
       "word": "许诺的刘邦",
@@ -49088,14 +49104,6 @@
       "word": "生机郑州全力以复",
       "onboard_time": 1667410695,
       "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 168438,
-      "num": 168438,
-      "word": "男孩熟练给鱿鱼动手术给柚子缝合",
-      "onboard_time": 1669733667,
-      "rank": 48,
       "category": "社会新闻"
     },
     {

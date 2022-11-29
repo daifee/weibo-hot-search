@@ -1,6 +1,6 @@
 {
   "startTime": 1669652614385,
-  "endTime": 1669735257873,
+  "endTime": 1669736229890,
   "band_list": [
     {
       "raw_hot": 4914407,
@@ -67,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3404573,
+      "num": 3404573,
+      "word": "李一桐将不再出演武庚纪",
+      "onboard_time": 1669734326,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 3311639,
       "num": 3307286,
       "word": "央视网评今年的伪爆剧和爆剧",
@@ -120,14 +128,6 @@
       "word": "杨迪 主持",
       "onboard_time": 1669717358,
       "rank": 5,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 2115162,
-      "num": 2115162,
-      "word": "李一桐将不再出演武庚纪",
-      "onboard_time": 1669734326,
-      "rank": 1,
       "category": "影视"
     },
     {
@@ -195,6 +195,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1646668,
+      "num": 1646668,
+      "word": "记者实测食用橘子后做核酸",
+      "onboard_time": 1669731387,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1627229,
       "num": 242341,
       "word": "肖战视界大会工作室出图",
@@ -208,14 +216,6 @@
       "word": "国家疾控局回应网友反映层层加码问题",
       "onboard_time": 1669707457,
       "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1548136,
-      "num": 1548136,
-      "word": "记者实测食用橘子后做核酸",
-      "onboard_time": 1669731387,
-      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -387,6 +387,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1159253,
+      "num": 1159253,
+      "word": "广州天河区疫情防控",
+      "onboard_time": 1669724740,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1137522,
+      "num": 1137522,
+      "word": "梅西已8年不喝汽水不吃披萨",
+      "onboard_time": 1669734326,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1131736,
       "num": 1131736,
       "word": "孙兴慜的ins评论区",
@@ -491,19 +507,19 @@
       "category": "影视"
     },
     {
-      "raw_hot": 937731,
-      "num": 937731,
-      "word": "广州天河区疫情防控",
-      "onboard_time": 1669724740,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 926493,
       "num": 926493,
       "word": "张核子曾称要在中国开1万家基因小屋",
       "onboard_time": 1669719875,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 918794,
+      "num": 918794,
+      "word": "北京已经启用方舱医院23家",
+      "onboard_time": 1669731746,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -571,14 +587,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 823519,
-      "num": 823519,
-      "word": "北京已经启用方舱医院23家",
-      "onboard_time": 1669731746,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 820843,
       "num": 820843,
       "word": "网传女子被多人殴打视频源自境外",
@@ -593,6 +601,14 @@
       "onboard_time": 1669681170,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 811343,
+      "num": 811343,
+      "word": "荷兰vs卡塔尔",
+      "onboard_time": 1669731030,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 795900,
@@ -777,14 +793,6 @@
       "onboard_time": 1669680570,
       "rank": 13,
       "category": "影视"
-    },
-    {
-      "raw_hot": 660617,
-      "num": 660617,
-      "word": "荷兰vs卡塔尔",
-      "onboard_time": 1669731030,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 654904,
@@ -977,6 +985,14 @@
       "onboard_time": 1669683036,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 541331,
+      "num": 286378,
+      "word": "上网课忘关摄像头了",
+      "onboard_time": 1669735046,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 538910,
@@ -1259,20 +1275,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 438160,
+      "num": 438160,
+      "word": "神舟十五号",
+      "onboard_time": 1669732830,
+      "rank": 27,
+      "category": "科技"
+    },
+    {
       "raw_hot": 436119,
       "num": 436119,
       "word": "迪士尼",
       "onboard_time": 1669678946,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 436032,
-      "num": 436032,
-      "word": "梅西已8年不喝汽水不吃披萨",
-      "onboard_time": 1669734326,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 435442,
@@ -1635,14 +1651,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 349130,
-      "num": 349130,
-      "word": "神舟十五号",
-      "onboard_time": 1669732830,
-      "rank": 27,
-      "category": "科技"
-    },
-    {
       "raw_hot": 348938,
       "num": 327168,
       "word": "于正说任嘉伦演技可以的",
@@ -2003,6 +2011,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 286947,
+      "num": 286947,
+      "word": "神十五出征",
+      "onboard_time": 1669734866,
+      "rank": 42,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 284914,
+      "num": 278870,
+      "word": "方向盘套广告语被指侮辱女性",
+      "onboard_time": 1669733487,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 282642,
       "num": 282642,
       "word": "小区高层楼顶现臂展2米大鸟",
@@ -2059,6 +2083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 277139,
+      "num": 2415653,
+      "word": "聚焦神舟十五号",
+      "onboard_time": 1669711419,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 275848,
       "num": 275848,
       "word": "侯宁被淋湿的本子是给李峋的菜谱",
@@ -2073,14 +2105,6 @@
       "onboard_time": 1669693232,
       "rank": 45,
       "category": "科技"
-    },
-    {
-      "raw_hot": 273297,
-      "num": 273297,
-      "word": "方向盘套广告语被指侮辱女性",
-      "onboard_time": 1669733487,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 273015,
@@ -2219,14 +2243,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 240779,
-      "num": 2415653,
-      "word": "聚焦神舟十五号",
-      "onboard_time": 1669711419,
-      "rank": 2,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 238367,
       "num": 238367,
       "word": "这才是糯唧唧美食的天堂",
@@ -2361,6 +2377,14 @@
       "onboard_time": 1669720119,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 216288,
+      "num": 160385,
+      "word": "尹岐新发型",
+      "onboard_time": 1669736186,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 212639,
@@ -2595,12 +2619,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 187399,
-      "num": 187399,
-      "word": "神十五出征",
-      "onboard_time": 1669734866,
-      "rank": 42,
-      "category": "科技"
+      "raw_hot": 185985,
+      "num": 185985,
+      "word": "男孩熟练给鱿鱼动手术给柚子缝合",
+      "onboard_time": 1669733667,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 184592,
@@ -2723,14 +2747,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 171920,
-      "num": 171920,
-      "word": "上网课忘关摄像头了",
-      "onboard_time": 1669735046,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 171142,
       "num": 171142,
       "word": "尹嵩喜提双休",
@@ -2752,14 +2768,6 @@
       "word": "山东多地下雪",
       "onboard_time": 1669710159,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 168438,
-      "num": 168438,
-      "word": "男孩熟练给鱿鱼动手术给柚子缝合",
-      "onboard_time": 1669733667,
-      "rank": 48,
       "category": "社会新闻"
     },
     {

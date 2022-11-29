@@ -1,0 +1,410 @@
+{
+  "runTime": 1669736229890,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3404573,
+        "num": 3404573,
+        "word": "李一桐将不再出演武庚纪",
+        "onboard_time": 1669734326,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2554480,
+        "num": 2554480,
+        "word": "欧阳娜娜品牌988元浴袍成本不足百元",
+        "onboard_time": 1669731687,
+        "rank": 1,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 277139,
+        "num": 1887837,
+        "word": "聚焦神舟十五号",
+        "onboard_time": 1669711419,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1646668,
+        "num": 1646668,
+        "word": "记者实测食用橘子后做核酸",
+        "onboard_time": 1669731387,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1635310,
+        "num": 1635310,
+        "word": "卫龙半年亏损2.61亿",
+        "onboard_time": 1669730728,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1262326,
+        "num": 1262326,
+        "word": "人民至上不是防疫至上",
+        "onboard_time": 1669714175,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1159253,
+        "num": 1159253,
+        "word": "广州天河区疫情防控",
+        "onboard_time": 1669724740,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1137522,
+        "num": 1137522,
+        "word": "梅西已8年不喝汽水不吃披萨",
+        "onboard_time": 1669734326,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 918794,
+        "num": 918794,
+        "word": "北京已经启用方舱医院23家",
+        "onboard_time": 1669731746,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 846578,
+        "num": 846578,
+        "word": "王鹤棣领奖后拥抱何炅",
+        "onboard_time": 1669730786,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 825856,
+        "num": 825856,
+        "word": "突然就消除了对鬼的恐惧",
+        "onboard_time": 1669727785,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1247311,
+        "num": 825129,
+        "word": "关晓彤在内场刷夸自己的微博",
+        "onboard_time": 1669733547,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 811343,
+        "num": 811343,
+        "word": "荷兰vs卡塔尔",
+        "onboard_time": 1669731030,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 682015,
+        "num": 682015,
+        "word": "男子出轨后开车撞妻子被女儿拦下",
+        "onboard_time": 1669719221,
+        "rank": 13,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 680179,
+        "num": 680179,
+        "word": "赵丽颖当面催更张若昀",
+        "onboard_time": 1669730068,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 550286,
+        "num": 550286,
+        "word": "郑州30日凌晨起出行要求有变",
+        "onboard_time": 1669729948,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 470183,
+        "num": 470183,
+        "word": "葡萄牙足协证明进球属于C罗",
+        "onboard_time": 1669723478,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 464805,
+        "num": 464805,
+        "word": "赵立坚介绍BBC记者被带离真相",
+        "onboard_time": 1669722877,
+        "rank": 17,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 438160,
+        "num": 438160,
+        "word": "神舟十五号",
+        "onboard_time": 1669732830,
+        "rank": 18,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 422868,
+        "num": 422868,
+        "word": "张元英 舞台",
+        "onboard_time": 1669723835,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 383418,
+        "num": 383418,
+        "word": "李诞快给你司员工培训下红毯pose",
+        "onboard_time": 1669722997,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 468555,
+        "num": 383215,
+        "word": "Somi撞衫小S",
+        "onboard_time": 1669728985,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 381821,
+        "num": 381821,
+        "word": "北京疫情下一名配送骑手自述",
+        "onboard_time": 1669728388,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 349082,
+        "num": 349082,
+        "word": "李薇盘发",
+        "onboard_time": 1669727067,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 348469,
+        "num": 348469,
+        "word": "柳州卫健委回应病毒绕着走",
+        "onboard_time": 1669724919,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325321,
+        "num": 325321,
+        "word": "南京下雪",
+        "onboard_time": 1669730786,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 320905,
+        "num": 320905,
+        "word": "伊朗vs美国",
+        "onboard_time": 1669736066,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 316123,
+        "num": 316123,
+        "word": "郑州转入常态化疫情防控",
+        "onboard_time": 1669730606,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311838,
+        "num": 311838,
+        "word": "不要轻易看孩子上网课",
+        "onboard_time": 1669730606,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 286947,
+        "num": 286947,
+        "word": "神十五出征",
+        "onboard_time": 1669734866,
+        "rank": 29,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 2053387,
+        "num": 286747,
+        "word": "山东拟投资超230亿元建方舱医院",
+        "onboard_time": 1669729407,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 688904,
+        "num": 286680,
+        "word": "肖战发呆",
+        "onboard_time": 1669724740,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 541331,
+        "num": 286378,
+        "word": "上网课忘关摄像头了",
+        "onboard_time": 1669735046,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 286028,
+        "num": 286028,
+        "word": "秦施摔倒",
+        "onboard_time": 1669730666,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 282846,
+        "num": 282846,
+        "word": "世界杯没有早场比赛了",
+        "onboard_time": 1669726001,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 284914,
+        "num": 278870,
+        "word": "方向盘套广告语被指侮辱女性",
+        "onboard_time": 1669733487,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250963,
+        "num": 250963,
+        "word": "许半夏的穿搭公式",
+        "onboard_time": 1669734804,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 236136,
+        "num": 236136,
+        "word": "他们没来MAMA又好像来了",
+        "onboard_time": 1669718020,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 230330,
+        "num": 230330,
+        "word": "如何看待4天工作不减薪制",
+        "onboard_time": 1669728631,
+        "rank": 38,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 221194,
+        "num": 221194,
+        "word": "女子被多人连续辱骂殴打6分钟",
+        "onboard_time": 1669725278,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213235,
+        "num": 213235,
+        "word": "李薇主动吻了尹峥",
+        "onboard_time": 1669726059,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 210226,
+        "num": 210226,
+        "word": "三类人群感染新冠病毒更易引发重症",
+        "onboard_time": 1669715378,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187814,
+        "num": 187814,
+        "word": "孙兴慜遭韩国网民网暴",
+        "onboard_time": 1669712674,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185985,
+        "num": 185985,
+        "word": "男孩熟练给鱿鱼动手术给柚子缝合",
+        "onboard_time": 1669733667,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176818,
+        "num": 176818,
+        "word": "厄瓜多尔vs塞内加尔",
+        "onboard_time": 1669731507,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170047,
+        "num": 170047,
+        "word": "女孩被扇耳光逼下跪还往头上倒饮料",
+        "onboard_time": 1669721615,
+        "rank": 45,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 160681,
+        "num": 160681,
+        "word": "90后夫妻北漂7年拒绝买房买车",
+        "onboard_time": 1669724977,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216288,
+        "num": 160385,
+        "word": "尹岐新发型",
+        "onboard_time": 1669736186,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 159496,
+        "num": 159496,
+        "word": "张核子和他的核酸版图",
+        "onboard_time": 1669722337,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152398,
+        "num": 152398,
+        "word": "谁能拒绝收到一只小狗",
+        "onboard_time": 1669725104,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#航天新征程#"
+    }
+  }
+}
