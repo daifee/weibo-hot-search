@@ -1,6 +1,6 @@
 {
   "startTime": 1669566398830,
-  "endTime": 1669706288988,
+  "endTime": 1669707205606,
   "band_list": [
     {
       "raw_hot": 11045761,
@@ -67,6 +67,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 3485157,
+      "num": 3485157,
+      "word": "柳州核酸",
+      "onboard_time": 1669701094,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 3469327,
       "num": 3469327,
       "word": "卫健局回应核子基因核检业务违规",
@@ -83,20 +91,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 3237304,
-      "num": 3237304,
-      "word": "柳州核酸",
-      "onboard_time": 1669701094,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 3204434,
       "num": 3204434,
       "word": "考研",
       "onboard_time": 1669606961,
       "rank": 23,
       "category": "教育"
+    },
+    {
+      "raw_hot": 3097232,
+      "num": 3097232,
+      "word": "国务院联防联控机制召开发布会",
+      "onboard_time": 1669705597,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2938185,
@@ -115,19 +123,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2877485,
+      "num": 2877485,
+      "word": "已有超11家核酸检测机构造假被查",
+      "onboard_time": 1669702413,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2658521,
       "num": 2658521,
       "word": "揭秘关联37家核检机构的张姗姗",
       "onboard_time": 1669618412,
       "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2595812,
-      "num": 2595812,
-      "word": "已有超11家核酸检测机构造假被查",
-      "onboard_time": 1669702413,
-      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -683,6 +691,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 967024,
+      "num": 540076,
+      "word": "研究表明寄生虫入侵大脑造就了狼王",
+      "onboard_time": 1669704697,
+      "rank": 12,
+      "category": "其它"
+    },
+    {
       "raw_hot": 945831,
       "num": 945831,
       "word": "卿卿日常最大反派安曦元来了",
@@ -739,14 +755,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 854262,
-      "num": 854262,
-      "word": "国务院联防联控机制召开发布会",
-      "onboard_time": 1669705597,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 850912,
       "num": 850912,
       "word": "C罗上帝之发",
@@ -761,6 +769,14 @@
       "onboard_time": 1669604796,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 841270,
+      "num": 841270,
+      "word": "卖一部iPhone能赚1400元",
+      "onboard_time": 1669704572,
+      "rank": 11,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 833555,
@@ -891,14 +907,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 752331,
-      "num": 472752,
-      "word": "卖一部iPhone能赚1400元",
-      "onboard_time": 1669704572,
-      "rank": 11,
-      "category": "科技,财经"
-    },
-    {
       "raw_hot": 751838,
       "num": 751838,
       "word": "墨白定档1201",
@@ -913,14 +921,6 @@
       "onboard_time": 1669544372,
       "rank": 6,
       "category": "体育,网红"
-    },
-    {
-      "raw_hot": 742334,
-      "num": 470304,
-      "word": "研究表明寄生虫入侵大脑造就了狼王",
-      "onboard_time": 1669704697,
-      "rank": 12,
-      "category": "其它"
     },
     {
       "raw_hot": 738619,
@@ -1059,6 +1059,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 659420,
+      "num": 535805,
+      "word": "你把我床坐塌了得负责吧",
+      "onboard_time": 1669704756,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 654904,
       "num": 551151,
       "word": "BLACKPINK仁川出发机场视频",
@@ -1155,14 +1163,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 631984,
-      "num": 467653,
-      "word": "你把我床坐塌了得负责吧",
-      "onboard_time": 1669704756,
-      "rank": 13,
-      "category": "影视"
-    },
-    {
       "raw_hot": 629979,
       "num": 629979,
       "word": "什么情况下需戴N95口罩",
@@ -1233,6 +1233,14 @@
       "onboard_time": 1669623754,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 585112,
+      "num": 585112,
+      "word": "全国营业影院低于5000家",
+      "onboard_time": 1669705416,
+      "rank": 15,
+      "category": "影视,财经"
     },
     {
       "raw_hot": 582134,
@@ -1515,6 +1523,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 481162,
+      "num": 481162,
+      "word": "张婉婷对宋宁峰前妻送别婆婆的反应",
+      "onboard_time": 1669706559,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 476098,
       "num": 476098,
       "word": "巴西球迷称内马尔比不上梅西和C罗",
@@ -1691,6 +1707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 442631,
+      "num": 392414,
+      "word": "孙怡是拿放大镜在观察吧",
+      "onboard_time": 1669705956,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 441363,
       "num": 441363,
       "word": "MAMA",
@@ -1769,14 +1793,6 @@
       "onboard_time": 1669557640,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 428461,
-      "num": 428461,
-      "word": "全国营业影院低于5000家",
-      "onboard_time": 1669705416,
-      "rank": 15,
-      "category": "影视,财经"
     },
     {
       "raw_hot": 428244,
@@ -1931,6 +1947,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 385922,
+      "num": 385922,
+      "word": "核子华曦工作人员回应",
+      "onboard_time": 1669702893,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 384738,
       "num": 384738,
       "word": "杨紫贺顿治愈六宫格剧照",
@@ -1969,6 +1993,14 @@
       "onboard_time": 1669629451,
       "rank": 24,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 375195,
+      "num": 375195,
+      "word": "张婧仪说演朱韵焦虑到掉头发",
+      "onboard_time": 1669706616,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 375014,
@@ -2187,14 +2219,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 346351,
-      "num": 346351,
-      "word": "核子华曦工作人员回应",
-      "onboard_time": 1669702893,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 345484,
       "num": 345484,
       "word": "MAMA四代女团合作剧透",
@@ -2299,6 +2323,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 328538,
+      "num": 328538,
+      "word": "8岁男童患癌两年扛过2次移植后复发",
+      "onboard_time": 1669704756,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 327872,
       "num": 244774,
       "word": "张馨予晒原相机自拍照",
@@ -2321,6 +2353,14 @@
       "onboard_time": 1669646316,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 324533,
+      "num": 324533,
+      "word": "2022MAMA舞台预告公开",
+      "onboard_time": 1669703975,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 323441,
@@ -2385,6 +2425,14 @@
       "onboard_time": 1669565804,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 318359,
+      "num": 318359,
+      "word": "杨幂模仿羊幂表情包",
+      "onboard_time": 1669707039,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 318146,
@@ -2457,14 +2505,6 @@
       "onboard_time": 1669638699,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 308173,
-      "num": 308173,
-      "word": "2022MAMA舞台预告公开",
-      "onboard_time": 1669703975,
-      "rank": 28,
-      "category": "音乐"
     },
     {
       "raw_hot": 308110,
@@ -2851,22 +2891,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 262289,
-      "num": 262289,
-      "word": "孙怡是拿放大镜在观察吧",
-      "onboard_time": 1669705956,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 261348,
-      "num": 261348,
-      "word": "8岁男童患癌两年扛过2次移植后复发",
-      "onboard_time": 1669704756,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 257421,
       "num": 257421,
       "word": "北京新增本土感染者1781例",
@@ -2899,6 +2923,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 255628,
+      "num": 255628,
+      "word": "劳荣枝案小木匠妻女回应30日开庭",
+      "onboard_time": 1669703251,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 254962,
       "num": 254962,
       "word": "沈梦辰晒11月库存随拍",
@@ -2913,14 +2945,6 @@
       "onboard_time": 1669700256,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 254005,
-      "num": 254005,
-      "word": "劳荣枝案小木匠妻女回应30日开庭",
-      "onboard_time": 1669703251,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 253294,
@@ -3084,7 +3108,7 @@
     },
     {
       "raw_hot": 237767,
-      "num": 2233225,
+      "num": 2880335,
       "word": "科学精准提高防疫工作的有效性",
       "onboard_time": 1669691433,
       "rank": 2,
@@ -3419,12 +3443,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 198882,
+      "num": 198882,
+      "word": "邻居嫌楼上孩子吵闹上门怒斥",
+      "onboard_time": 1669706438,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 198460,
       "num": 198460,
       "word": "巴西vs瑞士贵宾席有多豪华",
       "onboard_time": 1669665195,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 197369,
+      "num": 197369,
+      "word": "地铁硫酸受伤男孩已完成手术",
+      "onboard_time": 1669706799,
+      "rank": 35,
+      "category": "社会负面"
     },
     {
       "raw_hot": 196922,
@@ -3523,6 +3563,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 191895,
+      "num": 191895,
+      "word": "伊朗vs美国",
+      "onboard_time": 1669700014,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 191635,
       "num": 191635,
       "word": "DYG",
@@ -3569,14 +3617,6 @@
       "onboard_time": 1669702954,
       "rank": 34,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 188970,
-      "num": 188970,
-      "word": "伊朗vs美国",
-      "onboard_time": 1669700014,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 188290,
@@ -3633,6 +3673,14 @@
       "onboard_time": 1669638212,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 185564,
+      "num": 185564,
+      "word": "当你有个喜欢收纳的女朋友",
+      "onboard_time": 1669706312,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 184912,
@@ -3745,6 +3793,14 @@
       "onboard_time": 1669699776,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 174643,
+      "num": 174643,
+      "word": "许半夏问赵垒胸围",
+      "onboard_time": 1669706375,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 174260,
@@ -4033,6 +4089,14 @@
       "onboard_time": 1669698874,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 160410,
+      "num": 160410,
+      "word": "命韵峋环的晴雨表",
+      "onboard_time": 1669707099,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 159538,

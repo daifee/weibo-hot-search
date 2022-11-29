@@ -1,0 +1,410 @@
+{
+  "runTime": 1669707205606,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3485157,
+        "num": 3485157,
+        "word": "柳州核酸",
+        "onboard_time": 1669701094,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3097232,
+        "num": 3097232,
+        "word": "国务院联防联控机制召开发布会",
+        "onboard_time": 1669705597,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153173,
+        "num": 2880335,
+        "word": "科学精准提高防疫工作的有效性",
+        "onboard_time": 1669691433,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2877485,
+        "num": 2877485,
+        "word": "已有超11家核酸检测机构造假被查",
+        "onboard_time": 1669702413,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1670151,
+        "num": 1670151,
+        "word": "广州地铁硫酸事件",
+        "onboard_time": 1669696956,
+        "rank": 4,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 841270,
+        "num": 841270,
+        "word": "卖一部iPhone能赚1400元",
+        "onboard_time": 1669704572,
+        "rank": 5,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 721557,
+        "num": 721557,
+        "word": "劳荣枝哥哥称百分百改判或发回重审",
+        "onboard_time": 1669702832,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 652384,
+        "num": 652384,
+        "word": "乌市对低收入者给予300元一次性生活救助",
+        "onboard_time": 1669701755,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 585112,
+        "num": 585112,
+        "word": "全国营业影院低于5000家",
+        "onboard_time": 1669705416,
+        "rank": 8,
+        "category": "影视,财经"
+      },
+      {
+        "raw_hot": 569042,
+        "num": 569042,
+        "word": "违规10次的核子华曦为什么没有被公诉",
+        "onboard_time": 1669697672,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1912299,
+        "num": 565725,
+        "word": "央视网评今年的伪爆剧和爆剧",
+        "onboard_time": 1669697073,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 967024,
+        "num": 540076,
+        "word": "研究表明寄生虫入侵大脑造就了狼王",
+        "onboard_time": 1669704697,
+        "rank": 11,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 659420,
+        "num": 535805,
+        "word": "你把我床坐塌了得负责吧",
+        "onboard_time": 1669704756,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 501198,
+        "num": 501198,
+        "word": "内蒙古去年结婚登记量创新低",
+        "onboard_time": 1669701154,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 481162,
+        "num": 481162,
+        "word": "张婉婷对宋宁峰前妻送别婆婆的反应",
+        "onboard_time": 1669706559,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 395555,
+        "num": 395555,
+        "word": "张核子弟弟回应",
+        "onboard_time": 1669692092,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 442631,
+        "num": 392414,
+        "word": "孙怡是拿放大镜在观察吧",
+        "onboard_time": 1669705956,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 385922,
+        "num": 385922,
+        "word": "核子华曦工作人员回应",
+        "onboard_time": 1669702893,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 375195,
+        "num": 375195,
+        "word": "张婧仪说演朱韵焦虑到掉头发",
+        "onboard_time": 1669706616,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 348660,
+        "num": 348660,
+        "word": "大学生打电竞比赛聊考研",
+        "onboard_time": 1669698698,
+        "rank": 19,
+        "category": "游戏,幽默"
+      },
+      {
+        "raw_hot": 367920,
+        "num": 339145,
+        "word": "刘亦菲李现去有风的地方今日过审",
+        "onboard_time": 1669701514,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 328538,
+        "num": 328538,
+        "word": "8岁男童患癌两年扛过2次移植后复发",
+        "onboard_time": 1669704756,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324533,
+        "num": 324533,
+        "word": "2022MAMA舞台预告公开",
+        "onboard_time": 1669703975,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 318359,
+        "num": 318359,
+        "word": "杨幂模仿羊幂表情包",
+        "onboard_time": 1669707039,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 308689,
+        "num": 308689,
+        "word": "西安下雪",
+        "onboard_time": 1669701452,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291009,
+        "num": 291009,
+        "word": "受访者亲述感染新冠之后",
+        "onboard_time": 1669695093,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278655,
+        "num": 278655,
+        "word": "伊朗美国小组出线生死局",
+        "onboard_time": 1669698457,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 255628,
+        "num": 255628,
+        "word": "劳荣枝案小木匠妻女回应30日开庭",
+        "onboard_time": 1669703251,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228121,
+        "num": 228121,
+        "word": "深圳核子基因招商宣传称钱景无限",
+        "onboard_time": 1669700852,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226788,
+        "num": 226788,
+        "word": "iPhone15Pro将搭载索尼新一代传感器",
+        "onboard_time": 1669698156,
+        "rank": 29,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 225759,
+        "num": 225759,
+        "word": "眼神不好就别戴无线耳机了",
+        "onboard_time": 1669700852,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 216140,
+        "num": 216140,
+        "word": "男子等女友下班打游戏激动摔下3楼",
+        "onboard_time": 1669696236,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214282,
+        "num": 214282,
+        "word": "浙江多地教育局发文欢迎学生返乡",
+        "onboard_time": 1669697375,
+        "rank": 32,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 198882,
+        "num": 198882,
+        "word": "邻居嫌楼上孩子吵闹上门怒斥",
+        "onboard_time": 1669706438,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197546,
+        "num": 197546,
+        "word": "假如C罗换个发型",
+        "onboard_time": 1669702413,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197369,
+        "num": 197369,
+        "word": "地铁硫酸受伤男孩已完成手术",
+        "onboard_time": 1669706799,
+        "rank": 35,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 192989,
+        "num": 192989,
+        "word": "71岁老人坐网约车猝死家属索赔",
+        "onboard_time": 1669696715,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191895,
+        "num": 191895,
+        "word": "伊朗vs美国",
+        "onboard_time": 1669700014,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187416,
+        "num": 187416,
+        "word": "步行者绝杀湖人",
+        "onboard_time": 1669702710,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185564,
+        "num": 185564,
+        "word": "当你有个喜欢收纳的女朋友",
+        "onboard_time": 1669706312,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 184021,
+        "num": 184021,
+        "word": "多地核酸筛查不必全员参与",
+        "onboard_time": 1669688911,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179819,
+        "num": 179819,
+        "word": "搂着猫咪睡觉的狗狗",
+        "onboard_time": 1669703371,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 179312,
+        "num": 179312,
+        "word": "关晓彤晒令人心动的offer剧照",
+        "onboard_time": 1669700256,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176989,
+        "num": 176989,
+        "word": "卡塔尔游客多到骆驼加班",
+        "onboard_time": 1669694731,
+        "rank": 43,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 174643,
+        "num": 174643,
+        "word": "许半夏问赵垒胸围",
+        "onboard_time": 1669706375,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 162638,
+        "num": 162638,
+        "word": "小伙悉尼赶海被罚款七千多",
+        "onboard_time": 1669698338,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160410,
+        "num": 160410,
+        "word": "命韵峋环的晴雨表",
+        "onboard_time": 1669707099,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 156894,
+        "num": 156894,
+        "word": "专家称现在的年轻人不容易妥协",
+        "onboard_time": 1669692933,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152869,
+        "num": 152869,
+        "word": "卿卿日常制片人说没有第二季",
+        "onboard_time": 1669696473,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 146635,
+        "num": 146635,
+        "word": "女子买房送60平阳台苦恼封窗太贵",
+        "onboard_time": 1669683157,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#航天新征程#"
+    }
+  }
+}
