@@ -1,6 +1,6 @@
 {
   "startTime": 1669652614385,
-  "endTime": 1669726687470,
+  "endTime": 1669728637247,
   "band_list": [
     {
       "raw_hot": 4914407,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 3187346,
-      "num": 213509,
+      "num": 231645,
       "word": "肖战发呆",
       "onboard_time": 1669724740,
       "rank": 30,
@@ -259,6 +259,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1267324,
+      "num": 1267324,
+      "word": "赵立坚介绍BBC记者被带离真相",
+      "onboard_time": 1669722877,
+      "rank": 8,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 1259716,
       "num": 1259716,
       "word": "违规10次的核子华曦为什么没有被公诉",
@@ -315,14 +323,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1144763,
-      "num": 1144763,
-      "word": "赵立坚介绍BBC记者被带离真相",
-      "onboard_time": 1669722877,
-      "rank": 8,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 1131736,
       "num": 1131736,
       "word": "孙兴慜的ins评论区",
@@ -353,6 +353,14 @@
       "onboard_time": 1669671014,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 997340,
+      "num": 997340,
+      "word": "柳州卫健委回应病毒绕着走",
+      "onboard_time": 1669724919,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 989258,
@@ -396,7 +404,7 @@
     },
     {
       "raw_hot": 942167,
-      "num": 640180,
+      "num": 713563,
       "word": "赵露思曾黎后台打招呼",
       "onboard_time": 1669726001,
       "rank": 12,
@@ -531,6 +539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 759768,
+      "num": 759768,
+      "word": "广州天河区疫情防控",
+      "onboard_time": 1669724740,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 758307,
       "num": 758307,
       "word": "小女孩地铁咳嗽被医生提醒抽动症",
@@ -619,6 +635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 680208,
+      "num": 208011,
+      "word": "王鹤棣内场叫檀健次大哥",
+      "onboard_time": 1669727785,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 678362,
       "num": 678362,
       "word": "MAMA32人合作舞台",
@@ -683,6 +707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 632725,
+      "num": 632725,
+      "word": "李薇主动吻了尹峥",
+      "onboard_time": 1669726059,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 621410,
       "num": 478928,
       "word": "王鹤棣西装里穿针织衫",
@@ -712,14 +744,6 @@
       "word": "男生睡蒙了被同桌骗去擦老师板书",
       "onboard_time": 1669714835,
       "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 595983,
-      "num": 595983,
-      "word": "广州天河区疫情防控",
-      "onboard_time": 1669724740,
-      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -753,6 +777,14 @@
       "onboard_time": 1669706438,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 588253,
+      "num": 588253,
+      "word": "世界杯没有早场比赛了",
+      "onboard_time": 1669726001,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 586845,
@@ -803,12 +835,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 559235,
-      "num": 559235,
-      "word": "柳州卫健委回应病毒绕着走",
-      "onboard_time": 1669724919,
-      "rank": 36,
-      "category": "社会新闻"
+      "raw_hot": 552679,
+      "num": 371392,
+      "word": "李薇盘发",
+      "onboard_time": 1669727067,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 548762,
@@ -921,14 +953,6 @@
       "onboard_time": 1669651591,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 496189,
-      "num": 334509,
-      "word": "李薇主动吻了尹峥",
-      "onboard_time": 1669726059,
-      "rank": 20,
-      "category": "影视"
     },
     {
       "raw_hot": 495755,
@@ -1140,7 +1164,7 @@
     },
     {
       "raw_hot": 420829,
-      "num": 213925,
+      "num": 328732,
       "word": "秦施被阳华吻醒",
       "onboard_time": 1669725340,
       "rank": 30,
@@ -1291,6 +1315,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 374410,
+      "num": 374410,
+      "word": "突然就消除了对鬼的恐惧",
+      "onboard_time": 1669727785,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 373148,
+      "num": 130156,
+      "word": "赵丽颖年度品质演员",
+      "onboard_time": 1669728631,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 371522,
       "num": 168261,
       "word": "沈小婷MAMA舞蹈solo",
@@ -1377,6 +1417,14 @@
       "onboard_time": 1669673713,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 355060,
+      "num": 355060,
+      "word": "谁能拒绝收到一只小狗",
+      "onboard_time": 1669725104,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 353995,
@@ -1515,6 +1563,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 330371,
+      "num": 330371,
+      "word": "女子被多人连续辱骂殴打6分钟",
+      "onboard_time": 1669725278,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 328538,
       "num": 328538,
       "word": "8岁男童患癌两年扛过2次移植后复发",
@@ -1579,6 +1635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 313121,
+      "num": 313121,
+      "word": "90后夫妻北漂7年拒绝买房买车",
+      "onboard_time": 1669724977,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 312773,
       "num": 312773,
       "word": "以李峋为中心的粉圈",
@@ -1601,14 +1665,6 @@
       "onboard_time": 1669688911,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 305267,
-      "num": 305267,
-      "word": "谁能拒绝收到一只小狗",
-      "onboard_time": 1669725104,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 305013,
@@ -1851,6 +1907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 258938,
+      "num": 143563,
+      "word": "崔然竣MAMAsolo舞台",
+      "onboard_time": 1669728029,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 257033,
       "num": 257033,
       "word": "NewJeans日本大学庆典舞台",
@@ -1907,14 +1971,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 249275,
-      "num": 249275,
-      "word": "90后夫妻北漂7年拒绝买房买车",
-      "onboard_time": 1669724977,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 247639,
       "num": 247639,
       "word": "柳岩跳世界杯主题曲舞蹈",
@@ -1937,6 +1993,14 @@
       "onboard_time": 1669648006,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 241181,
+      "num": 241181,
+      "word": "EDGM",
+      "onboard_time": 1669727067,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 238367,
@@ -2088,6 +2152,14 @@
       "word": "C罗怒吼庆祝",
       "onboard_time": 1669681112,
       "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 210631,
+      "num": 210631,
+      "word": "B费情商有多高",
+      "onboard_time": 1669728087,
+      "rank": 33,
       "category": "体育"
     },
     {
@@ -2243,14 +2315,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 193371,
-      "num": 193371,
-      "word": "女子被多人连续辱骂殴打6分钟",
-      "onboard_time": 1669725278,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 193157,
       "num": 193157,
       "word": "遇见光年之外的云和乐",
@@ -2321,14 +2385,6 @@
       "onboard_time": 1669649615,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 183693,
-      "num": 183693,
-      "word": "世界杯没有早场比赛了",
-      "onboard_time": 1669726001,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 183475,
@@ -2643,6 +2699,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 153471,
+      "num": 153471,
+      "word": "KPL",
+      "onboard_time": 1669727547,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 153464,
       "num": 153464,
       "word": "偶遇张颜齐看巴西比赛",
@@ -2779,6 +2843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130157,
+      "num": 130157,
+      "word": "北京疫情下一名配送骑手自述",
+      "onboard_time": 1669728388,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 122104,
       "num": 122104,
       "word": "赵丽颖李光洁风吹半夏是官配",
@@ -2809,6 +2881,14 @@
       "onboard_time": 1669666513,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 110951,
+      "num": 130140,
+      "word": "如何看待4天工作不减薪制",
+      "onboard_time": 1669728631,
+      "rank": 49,
+      "category": "社会议题"
     },
     {
       "raw_hot": 110476,
