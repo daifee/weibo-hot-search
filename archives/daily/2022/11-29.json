@@ -1,6 +1,6 @@
 {
   "startTime": 1669652614385,
-  "endTime": 1669728637247,
+  "endTime": 1669729318866,
   "band_list": [
     {
       "raw_hot": 4914407,
@@ -219,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1307582,
+      "num": 1307582,
+      "word": "赵立坚介绍BBC记者被带离真相",
+      "onboard_time": 1669722877,
+      "rank": 8,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 1307026,
       "num": 786186,
       "word": "研究表明寄生虫入侵大脑造就了狼王",
@@ -257,14 +265,6 @@
       "onboard_time": 1669722997,
       "rank": 5,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1267324,
-      "num": 1267324,
-      "word": "赵立坚介绍BBC记者被带离真相",
-      "onboard_time": 1669722877,
-      "rank": 8,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 1259716,
@@ -347,20 +347,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1016209,
+      "num": 1016209,
+      "word": "柳州卫健委回应病毒绕着走",
+      "onboard_time": 1669724919,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1007289,
       "num": 1007289,
       "word": "葡萄牙2比0乌拉圭",
       "onboard_time": 1669671014,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 997340,
-      "num": 997340,
-      "word": "柳州卫健委回应病毒绕着走",
-      "onboard_time": 1669724919,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 989258,
@@ -651,12 +651,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 676237,
+      "num": 660432,
+      "word": "赵露思年度优秀演员",
+      "onboard_time": 1669729107,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 670442,
       "num": 670442,
       "word": "你把我床坐塌了得负责吧",
       "onboard_time": 1669704756,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 664826,
+      "num": 664826,
+      "word": "世界杯没有早场比赛了",
+      "onboard_time": 1669726001,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 662760,
@@ -779,14 +795,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 588253,
-      "num": 588253,
-      "word": "世界杯没有早场比赛了",
-      "onboard_time": 1669726001,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 586845,
       "num": 586845,
       "word": "葡萄牙vs乌拉圭",
@@ -811,12 +819,28 @@
       "category": "影视,财经"
     },
     {
+      "raw_hot": 584117,
+      "num": 584117,
+      "word": "李薇盘发",
+      "onboard_time": 1669727067,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 582134,
       "num": 582134,
       "word": "浙江多地教育局发文欢迎学生返乡",
       "onboard_time": 1669697375,
       "rank": 18,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 581919,
+      "num": 336783,
+      "word": "赵丽颖年度品质演员",
+      "onboard_time": 1669728631,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 572135,
@@ -833,14 +857,6 @@
       "onboard_time": 1669650698,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 552679,
-      "num": 371392,
-      "word": "李薇盘发",
-      "onboard_time": 1669727067,
-      "rank": 20,
-      "category": "影视"
     },
     {
       "raw_hot": 548762,
@@ -873,6 +889,14 @@
       "onboard_time": 1669682315,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 534072,
+      "num": 534072,
+      "word": "突然就消除了对鬼的恐惧",
+      "onboard_time": 1669727785,
+      "rank": 19,
+      "category": "幽默"
     },
     {
       "raw_hot": 530723,
@@ -1164,7 +1188,7 @@
     },
     {
       "raw_hot": 420829,
-      "num": 328732,
+      "num": 342572,
       "word": "秦施被阳华吻醒",
       "onboard_time": 1669725340,
       "rank": 30,
@@ -1193,6 +1217,14 @@
       "onboard_time": 1669689632,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 412748,
+      "num": 412748,
+      "word": "B费情商有多高",
+      "onboard_time": 1669728087,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 403803,
@@ -1267,6 +1299,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 393935,
+      "num": 393935,
+      "word": "女子被多人连续辱骂殴打6分钟",
+      "onboard_time": 1669725278,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 385922,
       "num": 385922,
       "word": "核子华曦工作人员回应",
@@ -1313,22 +1353,6 @@
       "onboard_time": 1669706616,
       "rank": 18,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 374410,
-      "num": 374410,
-      "word": "突然就消除了对鬼的恐惧",
-      "onboard_time": 1669727785,
-      "rank": 19,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 373148,
-      "num": 130156,
-      "word": "赵丽颖年度品质演员",
-      "onboard_time": 1669728631,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 371522,
@@ -1563,14 +1587,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 330371,
-      "num": 330371,
-      "word": "女子被多人连续辱骂殴打6分钟",
-      "onboard_time": 1669725278,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 328538,
       "num": 328538,
       "word": "8岁男童患癌两年扛过2次移植后复发",
@@ -1627,6 +1643,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 316396,
+      "num": 316396,
+      "word": "90后夫妻北漂7年拒绝买房买车",
+      "onboard_time": 1669724977,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 316075,
       "num": 316075,
       "word": "男子介绍未成年有偿陪侍获刑1年4个月",
@@ -1635,12 +1659,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 313121,
-      "num": 313121,
-      "word": "90后夫妻北漂7年拒绝买房买车",
-      "onboard_time": 1669724977,
-      "rank": 46,
-      "category": "社会新闻"
+      "raw_hot": 314931,
+      "num": 200118,
+      "word": "Somi撞衫小S",
+      "onboard_time": 1669728985,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 312923,
+      "num": 203086,
+      "word": "风吹半夏",
+      "onboard_time": 1669728566,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 312773,
@@ -2131,6 +2163,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 218372,
+      "num": 218372,
+      "word": "北京疫情下一名配送骑手自述",
+      "onboard_time": 1669728388,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 218363,
       "num": 218363,
       "word": "一诺孙尚香经典射手开团",
@@ -2152,14 +2192,6 @@
       "word": "C罗怒吼庆祝",
       "onboard_time": 1669681112,
       "rank": 40,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 210631,
-      "num": 210631,
-      "word": "B费情商有多高",
-      "onboard_time": 1669728087,
-      "rank": 33,
       "category": "体育"
     },
     {
@@ -2305,6 +2337,14 @@
       "onboard_time": 1669688252,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 195116,
+      "num": 195116,
+      "word": "如何看待4天工作不减薪制",
+      "onboard_time": 1669728631,
+      "rank": 49,
+      "category": "社会议题"
     },
     {
       "raw_hot": 194872,
@@ -2843,14 +2883,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 130157,
-      "num": 130157,
-      "word": "北京疫情下一名配送骑手自述",
-      "onboard_time": 1669728388,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 122104,
       "num": 122104,
       "word": "赵丽颖李光洁风吹半夏是官配",
@@ -2883,20 +2915,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 110951,
-      "num": 130140,
-      "word": "如何看待4天工作不减薪制",
-      "onboard_time": 1669728631,
-      "rank": 49,
-      "category": "社会议题"
-    },
-    {
       "raw_hot": 110476,
       "num": 110476,
       "word": "巴西首发",
       "onboard_time": 1669653266,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 106112,
+      "num": 106112,
+      "word": "狗狗的演技全用在认错上了",
+      "onboard_time": 1669729046,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 104286,

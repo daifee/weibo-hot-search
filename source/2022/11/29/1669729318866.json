@@ -1,0 +1,410 @@
+{
+  "runTime": 1669729318866,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2352640,
+        "num": 2352640,
+        "word": "人民至上不是防疫至上",
+        "onboard_time": 1669714175,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1307582,
+        "num": 1307582,
+        "word": "赵立坚介绍BBC记者被带离真相",
+        "onboard_time": 1669722877,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 100147,
+        "num": 1297848,
+        "word": "聚焦神舟十五号",
+        "onboard_time": 1669711419,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1291371,
+        "num": 1291371,
+        "word": "男子出轨后开车撞妻子被女儿拦下",
+        "onboard_time": 1669719221,
+        "rank": 3,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1162096,
+        "num": 1162096,
+        "word": "葡萄牙足协证明进球属于C罗",
+        "onboard_time": 1669723478,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1016209,
+        "num": 1016209,
+        "word": "柳州卫健委回应病毒绕着走",
+        "onboard_time": 1669724919,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 951777,
+        "num": 951777,
+        "word": "李诞快给你司员工培训下红毯pose",
+        "onboard_time": 1669722997,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 859618,
+        "num": 859618,
+        "word": "已有超11家核酸检测机构造假被查",
+        "onboard_time": 1669702413,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 752316,
+        "num": 752316,
+        "word": "广州天河区疫情防控",
+        "onboard_time": 1669724740,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 717910,
+        "num": 717910,
+        "word": "张元英 舞台",
+        "onboard_time": 1669723835,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1293049,
+        "num": 692742,
+        "word": "关晓彤红毯问今天头发和衣服是搭的吧",
+        "onboard_time": 1669719704,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 664826,
+        "num": 664826,
+        "word": "世界杯没有早场比赛了",
+        "onboard_time": 1669726001,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 676237,
+        "num": 660432,
+        "word": "赵露思年度优秀演员",
+        "onboard_time": 1669729107,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 584117,
+        "num": 584117,
+        "word": "李薇盘发",
+        "onboard_time": 1669727067,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 559804,
+        "num": 559804,
+        "word": "女孩被扇耳光逼下跪还往头上倒饮料",
+        "onboard_time": 1669721615,
+        "rank": 14,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 562956,
+        "num": 549894,
+        "word": "李薇主动吻了尹峥",
+        "onboard_time": 1669726059,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 534072,
+        "num": 534072,
+        "word": "突然就消除了对鬼的恐惧",
+        "onboard_time": 1669727785,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 437352,
+        "num": 437352,
+        "word": "孙兴慜遭韩国网民网暴",
+        "onboard_time": 1669712674,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 413316,
+        "num": 413316,
+        "word": "三类人群感染新冠病毒更易引发重症",
+        "onboard_time": 1669715378,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 412748,
+        "num": 412748,
+        "word": "B费情商有多高",
+        "onboard_time": 1669728087,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 397057,
+        "num": 397057,
+        "word": "minji 美",
+        "onboard_time": 1669725942,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 393935,
+        "num": 393935,
+        "word": "女子被多人连续辱骂殴打6分钟",
+        "onboard_time": 1669725278,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 342572,
+        "num": 342572,
+        "word": "秦施被阳华吻醒",
+        "onboard_time": 1669725340,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 581919,
+        "num": 336783,
+        "word": "赵丽颖年度品质演员",
+        "onboard_time": 1669728631,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 318253,
+        "num": 318253,
+        "word": "谁能拒绝收到一只小狗",
+        "onboard_time": 1669725104,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 316396,
+        "num": 316396,
+        "word": "90后夫妻北漂7年拒绝买房买车",
+        "onboard_time": 1669724977,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236306,
+        "num": 236306,
+        "word": "张核子和他的核酸版图",
+        "onboard_time": 1669722337,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233169,
+        "num": 233169,
+        "word": "为什么每次都是BBC在现场出问题",
+        "onboard_time": 1669716101,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218673,
+        "num": 218673,
+        "word": "EDGM",
+        "onboard_time": 1669727067,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 218372,
+        "num": 218372,
+        "word": "北京疫情下一名配送骑手自述",
+        "onboard_time": 1669728388,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2427598,
+        "num": 218197,
+        "word": "肖战发呆",
+        "onboard_time": 1669724740,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 324698,
+        "num": 207884,
+        "word": "他们没来MAMA又好像来了",
+        "onboard_time": 1669718020,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 312923,
+        "num": 203086,
+        "word": "风吹半夏",
+        "onboard_time": 1669728566,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 314931,
+        "num": 200118,
+        "word": "Somi撞衫小S",
+        "onboard_time": 1669728985,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 195116,
+        "num": 195116,
+        "word": "如何看待4天工作不减薪制",
+        "onboard_time": 1669728631,
+        "rank": 34,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 191163,
+        "num": 191163,
+        "word": "北京朝阳有针对性地对部分群体实行免检",
+        "onboard_time": 1669719579,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 466381,
+        "num": 187053,
+        "word": "张核子曾称要在中国开1万家基因小屋",
+        "onboard_time": 1669719875,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179257,
+        "num": 179257,
+        "word": "内马尔把温柔都给了孩子",
+        "onboard_time": 1669721559,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163063,
+        "num": 163063,
+        "word": "魔兽负责人给中国玩家留言",
+        "onboard_time": 1669714901,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 137339,
+        "num": 137339,
+        "word": "小伙1年内两次出手救同一个陌生人",
+        "onboard_time": 1669719038,
+        "rank": 39,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 245844,
+        "num": 135675,
+        "word": "张婉婷我亲手扼杀了宋宁峰的少年气",
+        "onboard_time": 1669720119,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133614,
+        "num": 133614,
+        "word": "卖一部iPhone能赚1400元",
+        "onboard_time": 1669704572,
+        "rank": 41,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 133433,
+        "num": 133433,
+        "word": "男生睡蒙了被同桌骗去擦老师板书",
+        "onboard_time": 1669714835,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128320,
+        "num": 128320,
+        "word": "小女孩地铁咳嗽被医生提醒抽动症",
+        "onboard_time": 1669707997,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126251,
+        "num": 126251,
+        "word": "国家疾控局回应网友反映层层加码问题",
+        "onboard_time": 1669707457,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125226,
+        "num": 125226,
+        "word": "伊朗vs美国",
+        "onboard_time": 1669700014,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118860,
+        "num": 118860,
+        "word": "KPL",
+        "onboard_time": 1669727547,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 744180,
+        "num": 118017,
+        "word": "陈飞宇手上的疤",
+        "onboard_time": 1669724618,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 115894,
+        "num": 115894,
+        "word": "研究表明寄生虫入侵大脑造就了狼王",
+        "onboard_time": 1669704697,
+        "rank": 48,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 106112,
+        "num": 106112,
+        "word": "狗狗的演技全用在认错上了",
+        "onboard_time": 1669729046,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#航天新征程#"
+    }
+  }
+}
