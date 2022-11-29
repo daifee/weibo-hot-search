@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1669695909446,
+  "endTime": 1669696900658,
   "band_list": [
     {
       "raw_hot": 36651023,
@@ -6059,6 +6059,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1028268,
+      "num": 1028268,
+      "word": "专家称现在的年轻人不容易妥协",
+      "onboard_time": 1669692933,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1026755,
       "num": 1026755,
       "word": "华为",
@@ -6465,6 +6473,14 @@
       "onboard_time": 1667912609,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 989258,
+      "num": 989258,
+      "word": "男子虚报南大学历被开除起诉公司",
+      "onboard_time": 1669691011,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 988661,
@@ -7888,14 +7904,6 @@
       "word": "女子给母亲取心脏病药被防疫大爷抢走",
       "onboard_time": 1668871290,
       "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 863780,
-      "num": 863780,
-      "word": "男子虚报南大学历被开除起诉公司",
-      "onboard_time": 1669691011,
-      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -10243,14 +10251,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 721748,
-      "num": 721748,
-      "word": "专家称现在的年轻人不容易妥协",
-      "onboard_time": 1669692933,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 721312,
       "num": 721312,
       "word": "樊振东vs林高远",
@@ -10737,6 +10737,14 @@
       "onboard_time": 1667691739,
       "rank": 8,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 692476,
+      "num": 692476,
+      "word": "卡塔尔游客多到骆驼加班",
+      "onboard_time": 1669694731,
+      "rank": 17,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 691822,
@@ -13923,6 +13931,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 572135,
+      "num": 572135,
+      "word": "令人心动的offer4首播",
+      "onboard_time": 1669694553,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 572029,
       "num": 572029,
       "word": "王曼昱vs王艺迪",
@@ -15065,14 +15081,6 @@
       "onboard_time": 1669030180,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 544626,
-      "num": 544626,
-      "word": "令人心动的offer4首播",
-      "onboard_time": 1669694553,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 544264,
@@ -16688,6 +16696,14 @@
       "word": "3岁女孩连吃8个柿子长胃结石",
       "onboard_time": 1667377049,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 507730,
+      "num": 507730,
+      "word": "受访者亲述感染新冠之后",
+      "onboard_time": 1669695093,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -21555,6 +21571,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 415781,
+      "num": 415781,
+      "word": "任嘉伦武庚纪武庚官宣",
+      "onboard_time": 1669695335,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 415559,
       "num": 415559,
       "word": "网传繁花今晚空降",
@@ -21969,14 +21993,6 @@
       "onboard_time": 1668748412,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 409472,
-      "num": 409472,
-      "word": "卡塔尔游客多到骆驼加班",
-      "onboard_time": 1669694731,
-      "rank": 17,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 409419,
@@ -22641,6 +22657,14 @@
       "onboard_time": 1669656860,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 399711,
+      "num": 399711,
+      "word": "美国主帅就伊朗国旗事件道歉",
+      "onboard_time": 1669695212,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 399705,
@@ -27609,14 +27633,6 @@
       "onboard_time": 1668059786,
       "rank": 19,
       "category": "科技"
-    },
-    {
-      "raw_hot": 330862,
-      "num": 330862,
-      "word": "任嘉伦武庚纪武庚官宣",
-      "onboard_time": 1669695335,
-      "rank": 22,
-      "category": "影视"
     },
     {
       "raw_hot": 330796,
@@ -32843,6 +32859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 275848,
+      "num": 275848,
+      "word": "侯宁被淋湿的本子是给李峋的菜谱",
+      "onboard_time": 1669693534,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 275822,
       "num": 256347,
       "word": "想看赵丽颖许半夏搞事业",
@@ -33049,6 +33073,14 @@
       "onboard_time": 1669635993,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 273899,
+      "num": 273899,
+      "word": "新手机你习惯带壳还是裸机",
+      "onboard_time": 1669693232,
+      "rank": 45,
+      "category": "科技"
     },
     {
       "raw_hot": 273881,
@@ -33697,14 +33729,6 @@
       "onboard_time": 1668727160,
       "rank": 23,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 267012,
-      "num": 267012,
-      "word": "新手机你习惯带壳还是裸机",
-      "onboard_time": 1669693232,
-      "rank": 45,
-      "category": "科技"
     },
     {
       "raw_hot": 267001,
@@ -34915,6 +34939,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 254441,
+      "num": 254441,
+      "word": "卿卿日常制片人说没有第二季",
+      "onboard_time": 1669696473,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 254395,
       "num": 254395,
       "word": "陈小纭郝葭古风舞",
@@ -36019,14 +36051,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 243807,
-      "num": 240999,
-      "word": "受访者亲述感染新冠之后",
-      "onboard_time": 1669695093,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 243702,
       "num": 243702,
       "word": "尹嵩精神状态",
@@ -36265,14 +36289,6 @@
       "onboard_time": 1668835647,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 241053,
-      "num": 241053,
-      "word": "侯宁被淋湿的本子是给李峋的菜谱",
-      "onboard_time": 1669693534,
-      "rank": 29,
-      "category": "影视"
     },
     {
       "raw_hot": 240884,
@@ -36617,6 +36633,14 @@
       "onboard_time": 1668779668,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 237767,
+      "num": 1385273,
+      "word": "科学精准提高防疫工作的有效性",
+      "onboard_time": 1669691433,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 237764,
@@ -40595,6 +40619,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 209622,
+      "num": 209622,
+      "word": "光遇复刻",
+      "onboard_time": 1669695154,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 209572,
       "num": 209572,
       "word": "女子练瑜伽式骑车惊呆路人",
@@ -40609,14 +40641,6 @@
       "onboard_time": 1668334889,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 209534,
-      "num": 209534,
-      "word": "光遇复刻",
-      "onboard_time": 1669695154,
-      "rank": 35,
-      "category": "游戏"
     },
     {
       "raw_hot": 209451,
@@ -42075,14 +42099,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 199890,
-      "num": 199890,
-      "word": "美国主帅就伊朗国旗事件道歉",
-      "onboard_time": 1669695212,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 199749,
       "num": 199749,
       "word": "热依扎获飞天奖后首发博",
@@ -42393,14 +42409,6 @@
       "onboard_time": 1668089725,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 197501,
-      "num": 1385273,
-      "word": "科学精准提高防疫工作的有效性",
-      "onboard_time": 1669691433,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 197469,
@@ -43651,11 +43659,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 190970,
+      "num": 190970,
+      "word": "刘诗诗常华森一念关山撑伞对视路透",
+      "onboard_time": 1669693773,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 190895,
       "num": 95846,
       "word": "李峋让朱韵做的事是离开他",
       "onboard_time": 1668520048,
       "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 190875,
+      "num": 190875,
+      "word": "许半夏的花头巾",
+      "onboard_time": 1669694915,
+      "rank": 41,
       "category": "影视"
     },
     {
@@ -45691,6 +45715,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 179506,
+      "num": 179506,
+      "word": "男子等女友下班打游戏激动摔下3楼",
+      "onboard_time": 1669696236,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 179461,
       "num": 141531,
       "word": "摩根弗里曼 手",
@@ -45777,14 +45809,6 @@
       "onboard_time": 1668968116,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 178600,
-      "num": 178600,
-      "word": "刘诗诗常华森一念关山撑伞对视路透",
-      "onboard_time": 1669693773,
-      "rank": 41,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 178569,
@@ -47059,6 +47083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 171142,
+      "num": 171142,
+      "word": "尹嵩喜提双休",
+      "onboard_time": 1669691971,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 170996,
       "num": 170996,
       "word": "狗狗被小老鼠一路追咬",
@@ -47515,6 +47547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 167992,
+      "num": 166979,
+      "word": "田曦薇陈小纭刺绣花絮",
+      "onboard_time": 1669695936,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 167938,
       "num": 167938,
       "word": "阿里发布2023财年第二季度财报",
@@ -47593,6 +47633,14 @@
       "onboard_time": 1667988086,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167365,
+      "num": 167365,
+      "word": "当猫咪变成了霸总",
+      "onboard_time": 1669695996,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 167312,
@@ -48089,14 +48137,6 @@
       "onboard_time": 1668876443,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 164516,
-      "num": 164516,
-      "word": "尹嵩喜提双休",
-      "onboard_time": 1669691971,
-      "rank": 43,
-      "category": "影视"
     },
     {
       "raw_hot": 164495,
