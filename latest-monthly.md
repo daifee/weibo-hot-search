@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/01 00:36:21 ~ 2022/11/30 06:35:55
+本榜单时间：2022/11/01 00:36:21 ~ 2022/11/30 07:20:55
 </p>
 </blockquote>
 <p>
@@ -2463,6 +2463,12 @@ Faker（热度：1632969）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97vs%E7%BE%8E%E5%9B%BD%23" target="weibo">
+伊朗vs美国（热度：1564848）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A2%A8%E6%B3%B0%E9%99%A2%E4%BA%8B%E6%95%85%E9%81%87%E9%9A%BE%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%AD%A9%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0%23" target="weibo">
 梨泰院事故遇难中国女孩家属发声（热度：1562546）
 </a>
@@ -3587,12 +3593,6 @@ gemini（热度：1285265）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23C%E7%BD%97%E7%82%B9%E7%90%83%E7%A0%B4%E9%97%A8%23" target="weibo">
 C罗点球破门（热度：1245113）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97vs%E7%BE%8E%E5%9B%BD%23" target="weibo">
-伊朗vs美国（热度：1244539）
 </a>
 </li>
 
