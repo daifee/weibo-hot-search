@@ -1,6 +1,6 @@
 {
   "startTime": 1669739332504,
-  "endTime": 1669743283932,
+  "endTime": 1669746206830,
   "band_list": [
     {
       "raw_hot": 2756631,
@@ -83,6 +83,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 632573,
+      "num": 632573,
+      "word": "全国快递网点大面积停摆消息不实",
+      "onboard_time": 1669740864,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 590863,
       "num": 590863,
       "word": "北京已经启用方舱医院23家",
@@ -123,14 +131,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 486977,
-      "num": 486977,
-      "word": "全国快递网点大面积停摆消息不实",
-      "onboard_time": 1669740864,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 465972,
       "num": 465972,
       "word": "原来这就是睡得跟死猪一样",
@@ -161,6 +161,14 @@
       "onboard_time": 1669724740,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 415460,
+      "num": 415460,
+      "word": "马宁",
+      "onboard_time": 1669743260,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 387557,
@@ -347,20 +355,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 160529,
+      "num": 160529,
+      "word": "吃橘子会变阳你真是多虑了",
+      "onboard_time": 1669741161,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 155714,
       "num": 152839,
       "word": "许半夏的穿搭公式",
       "onboard_time": 1669734804,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 155372,
-      "num": 155372,
-      "word": "吃橘子会变阳你真是多虑了",
-      "onboard_time": 1669741161,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 153202,
@@ -443,6 +451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 134596,
+      "num": 64078,
+      "word": "肖战评价盛阳顾魏顾一野",
+      "onboard_time": 1669745777,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 134287,
       "num": 134287,
       "word": "男孩熟练给鱿鱼动手术给柚子缝合",
@@ -507,12 +523,44 @@
       "category": "影视"
     },
     {
-      "raw_hot": 62110,
-      "num": 62110,
-      "word": "马宁",
-      "onboard_time": 1669743260,
-      "rank": 49,
+      "raw_hot": 59337,
+      "num": 59337,
+      "word": "最惨东道主卡塔尔",
+      "onboard_time": 1669745716,
+      "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 48302,
+      "num": 48302,
+      "word": "母柯基为偷吃桌上美食用公柯基垫脚",
+      "onboard_time": 1669745418,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 42952,
+      "num": 42952,
+      "word": "赵丽颖绚丽心动侧拍花絮",
+      "onboard_time": 1669745896,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 39213,
+      "num": 39213,
+      "word": "至亲离世的当下你是怎么度过的",
+      "onboard_time": 1669745476,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 37152,
+      "num": 37152,
+      "word": "20年后才看懂的电影",
+      "onboard_time": 1669745357,
+      "rank": 49,
+      "category": "影视"
     }
   ],
   "hotgov_list": [
