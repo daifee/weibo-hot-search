@@ -1,6 +1,6 @@
 {
   "startTime": 1669566398830,
-  "endTime": 1669746206830,
+  "endTime": 1669747157433,
   "band_list": [
     {
       "raw_hot": 11045761,
@@ -5955,6 +5955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 127552,
+      "num": 127552,
+      "word": "最惨东道主卡塔尔",
+      "onboard_time": 1669745716,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 125436,
       "num": 125436,
       "word": "兰州通报核酸采样人员阳性",
@@ -6115,6 +6123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 86936,
+      "num": 55071,
+      "word": "伊朗vs美国首发",
+      "onboard_time": 1669746795,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 80433,
       "num": 80433,
       "word": "上官婧跟尹岐表白后又拒绝",
@@ -6155,20 +6171,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 59337,
-      "num": 59337,
-      "word": "最惨东道主卡塔尔",
-      "onboard_time": 1669745716,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 57942,
       "num": 57942,
       "word": "孙千说道理都懂野猫只是想做自己喜欢的事情",
       "onboard_time": 1669678464,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 57878,
+      "num": 54841,
+      "word": "母柯基为偷吃桌上美食用公柯基垫脚",
+      "onboard_time": 1669745418,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 51917,
@@ -6179,12 +6195,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 48302,
-      "num": 48302,
-      "word": "母柯基为偷吃桌上美食用公柯基垫脚",
-      "onboard_time": 1669745418,
-      "rank": 41,
-      "category": "社会新闻"
+      "raw_hot": 51467,
+      "num": 51467,
+      "word": "真不给卡塔尔留面子",
+      "onboard_time": 1669746616,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 42952,
@@ -6203,20 +6219,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 39850,
+      "num": 39850,
+      "word": "至亲离世的当下你是怎么度过的",
+      "onboard_time": 1669745476,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 39269,
       "num": 2071221,
       "word": "100秒重温神十五航天员真挚发言",
       "onboard_time": 1669621472,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 39213,
-      "num": 39213,
-      "word": "至亲离世的当下你是怎么度过的",
-      "onboard_time": 1669745476,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 39183,
