@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1669725519874,
+  "endTime": 1669726687470,
   "band_list": [
     {
       "raw_hot": 36651023,
@@ -715,6 +715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3187346,
+      "num": 213509,
+      "word": "肖战发呆",
+      "onboard_time": 1669724740,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 3174063,
       "num": 3174063,
       "word": "台湾是中国的",
@@ -1233,14 +1241,6 @@
       "onboard_time": 1669427981,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2438554,
-      "num": 197933,
-      "word": "肖战发呆",
-      "onboard_time": 1669724740,
-      "rank": 30,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 2402771,
@@ -3667,6 +3667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1463960,
+      "num": 1463960,
+      "word": "葡萄牙足协证明进球属于C罗",
+      "onboard_time": 1669723478,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1462695,
       "num": 706490,
       "word": "美国变性网红被捕入狱关入男囚",
@@ -4467,12 +4475,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1279938,
-      "num": 1279938,
-      "word": "葡萄牙足协证明进球属于C罗",
-      "onboard_time": 1669723478,
-      "rank": 1,
-      "category": "体育"
+      "raw_hot": 1280446,
+      "num": 1280446,
+      "word": "李诞快给你司员工培训下红毯pose",
+      "onboard_time": 1669722997,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 1279420,
@@ -4625,6 +4633,14 @@
       "onboard_time": 1668405507,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1252040,
+      "num": 829730,
+      "word": "陈飞宇手上的疤",
+      "onboard_time": 1669724618,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1251445,
@@ -4833,14 +4849,6 @@
       "onboard_time": 1669657458,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1222427,
-      "num": 1222427,
-      "word": "李诞快给你司员工培训下红毯pose",
-      "onboard_time": 1669722997,
-      "rank": 5,
-      "category": "影视"
     },
     {
       "raw_hot": 1216710,
@@ -5345,6 +5353,14 @@
       "onboard_time": 1668936447,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1144763,
+      "num": 1144763,
+      "word": "赵立坚介绍BBC记者被带离真相",
+      "onboard_time": 1669722877,
+      "rank": 8,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 1144683,
@@ -6121,14 +6137,6 @@
       "onboard_time": 1669305335,
       "rank": 10,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1042431,
-      "num": 829730,
-      "word": "陈飞宇手上的疤",
-      "onboard_time": 1669724618,
-      "rank": 11,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1041449,
@@ -7155,6 +7163,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 942167,
+      "num": 640180,
+      "word": "赵露思曾黎后台打招呼",
+      "onboard_time": 1669726001,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 941163,
       "num": 941163,
       "word": "核酸检测企业IPO从严审核第一枪",
@@ -8019,14 +8035,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 871046,
-      "num": 871046,
-      "word": "赵立坚介绍BBC记者被带离真相",
-      "onboard_time": 1669722877,
-      "rank": 8,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 870755,
       "num": 870755,
       "word": "儿子取母亲50万养老钱打赏女主播",
@@ -8571,6 +8579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 833511,
+      "num": 833511,
+      "word": "张元英 舞台",
+      "onboard_time": 1669723835,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 833241,
       "num": 833241,
       "word": "点球 剧本",
@@ -8977,14 +8993,6 @@
       "onboard_time": 1669295735,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 809447,
-      "num": 809447,
-      "word": "张元英 舞台",
-      "onboard_time": 1669723835,
-      "rank": 12,
-      "category": "音乐"
     },
     {
       "raw_hot": 809297,
@@ -13619,6 +13627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 595983,
+      "num": 595983,
+      "word": "广州天河区疫情防控",
+      "onboard_time": 1669724740,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 595404,
       "num": 595404,
       "word": "北京12345回应",
@@ -14931,6 +14947,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 559235,
+      "num": 559235,
+      "word": "柳州卫健委回应病毒绕着走",
+      "onboard_time": 1669724919,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 559153,
       "num": 559153,
       "word": "小伙清理舌苔误吞18厘米长牙刷",
@@ -15849,6 +15873,14 @@
       "onboard_time": 1669168050,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 536446,
+      "num": 536446,
+      "word": "minji 美",
+      "onboard_time": 1669725942,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 536420,
@@ -17643,6 +17675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 496189,
+      "num": 334509,
+      "word": "李薇主动吻了尹峥",
+      "onboard_time": 1669726059,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 496159,
       "num": 468141,
       "word": "中期选举",
@@ -19227,6 +19267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 465797,
+      "num": 465797,
+      "word": "三类人群感染新冠病毒更易引发重症",
+      "onboard_time": 1669715378,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 465747,
       "num": 465747,
       "word": "男子常有饥饿感一查患上胃癌",
@@ -19497,14 +19545,6 @@
       "onboard_time": 1668678329,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 460677,
-      "num": 460677,
-      "word": "三类人群感染新冠病毒更易引发重症",
-      "onboard_time": 1669715378,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 460616,
@@ -21889,6 +21929,14 @@
       "onboard_time": 1667783070,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 420829,
+      "num": 213925,
+      "word": "秦施被阳华吻醒",
+      "onboard_time": 1669725340,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 420819,
@@ -24497,6 +24545,14 @@
       "onboard_time": 1668425788,
       "rank": 16,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 380025,
+      "num": 212880,
+      "word": "enhypen",
+      "onboard_time": 1669725819,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 380006,
@@ -29003,6 +29059,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 324576,
+      "num": 167321,
+      "word": "蔡徐坤舞台造型美学",
+      "onboard_time": 1669726466,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 324565,
       "num": 324565,
       "word": "曹圭成梅开二度",
@@ -30915,6 +30979,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 305267,
+      "num": 305267,
+      "word": "谁能拒绝收到一只小狗",
+      "onboard_time": 1669725104,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 305174,
       "num": 305174,
       "word": "洛阳乘坐公共交通取消查验48小时核酸",
@@ -31417,6 +31489,14 @@
       "onboard_time": 1669015955,
       "rank": 44,
       "category": "科技"
+    },
+    {
+      "raw_hot": 299293,
+      "num": 299293,
+      "word": "张核子和他的核酸版图",
+      "onboard_time": 1669722337,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 299255,
@@ -32561,14 +32641,6 @@
       "onboard_time": 1667916630,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 286401,
-      "num": 286401,
-      "word": "张核子和他的核酸版图",
-      "onboard_time": 1669722337,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 286384,
@@ -34731,14 +34803,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 266552,
-      "num": 266552,
-      "word": "广州天河区疫情防控",
-      "onboard_time": 1669724740,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 266508,
       "num": 266508,
       "word": "命韵峋环同居生活花絮",
@@ -36529,6 +36593,14 @@
       "onboard_time": 1667965407,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 249275,
+      "num": 249275,
+      "word": "90后夫妻北漂7年拒绝买房买车",
+      "onboard_time": 1669724977,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 249219,
@@ -44323,14 +44395,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 193748,
-      "num": 193748,
-      "word": "谁能拒绝收到一只小狗",
-      "onboard_time": 1669725104,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 193607,
       "num": 193607,
       "word": "贺峻霖说终于可以睡大觉去了",
@@ -44392,14 +44456,6 @@
       "word": "女子被多人连续辱骂殴打6分钟",
       "onboard_time": 1669725278,
       "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 193285,
-      "num": 193285,
-      "word": "柳州卫健委回应病毒绕着走",
-      "onboard_time": 1669724919,
-      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -46137,6 +46193,14 @@
       "onboard_time": 1669433082,
       "rank": 47,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 183693,
+      "num": 183693,
+      "word": "世界杯没有早场比赛了",
+      "onboard_time": 1669726001,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 183667,
@@ -49051,6 +49115,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 166187,
+      "num": 166187,
+      "word": "神舟十五号乘组出征仪式",
+      "onboard_time": 1669726107,
+      "rank": 43,
+      "category": "科技"
+    },
+    {
       "raw_hot": 166107,
       "num": 166107,
       "word": "LBL",
@@ -51473,14 +51545,6 @@
       "onboard_time": 1669699652,
       "rank": 48,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 153464,
-      "num": 153464,
-      "word": "90后夫妻北漂7年拒绝买房买车",
-      "onboard_time": 1669724977,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 153461,
@@ -58819,6 +58883,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 115192,
+      "num": 2415653,
+      "word": "聚焦神舟十五号",
+      "onboard_time": 1669711419,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 115089,
       "num": 115089,
       "word": "西班牙进球",
@@ -61345,14 +61417,6 @@
       "onboard_time": 1668673046,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 99552,
-      "num": 2415653,
-      "word": "聚焦神舟十五号",
-      "onboard_time": 1669711419,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 99538,
