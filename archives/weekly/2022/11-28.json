@@ -1,6 +1,6 @@
 {
   "startTime": 1669566398830,
-  "endTime": 1669713574884,
+  "endTime": 1669714531506,
   "band_list": [
     {
       "raw_hot": 11045761,
@@ -707,6 +707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 988360,
+      "num": 988360,
+      "word": "孙兴慜遭韩国网民网暴",
+      "onboard_time": 1669712674,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 978656,
       "num": 978656,
       "word": "核子基因累计核酸检测超7亿人次",
@@ -924,7 +932,7 @@
     },
     {
       "raw_hot": 764494,
-      "num": 622645,
+      "num": 656977,
       "word": "沈小婷MAMA红毯图",
       "onboard_time": 1669710638,
       "rank": 20,
@@ -1060,7 +1068,7 @@
     },
     {
       "raw_hot": 718953,
-      "num": 601997,
+      "num": 628064,
       "word": "赵露思陈哲远今日红毯造型",
       "onboard_time": 1669711595,
       "rank": 13,
@@ -1515,6 +1523,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 520624,
+      "num": 520624,
+      "word": "深圳地铁",
+      "onboard_time": 1669708837,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 516042,
       "num": 516042,
       "word": "8岁男孩休学专打游戏第6天回归网课",
@@ -1617,6 +1633,14 @@
       "onboard_time": 1669624953,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 482670,
+      "num": 482670,
+      "word": "李峋朱韵又一起看雪了",
+      "onboard_time": 1669712617,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 482591,
@@ -1779,14 +1803,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 450494,
-      "num": 450494,
-      "word": "孙兴慜遭韩国网民网暴",
-      "onboard_time": 1669712674,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 448482,
       "num": 448482,
       "word": "孙千夸赵丽颖饰演的许半夏",
@@ -1859,14 +1875,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 436448,
-      "num": 427137,
-      "word": "李峋朱韵又一起看雪了",
-      "onboard_time": 1669712617,
-      "rank": 20,
-      "category": "影视"
-    },
-    {
       "raw_hot": 436119,
       "num": 436119,
       "word": "迪士尼",
@@ -1896,14 +1904,6 @@
       "word": "落实防控措施不仅要有力度还要有温度",
       "onboard_time": 1669601913,
       "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 429110,
-      "num": 429110,
-      "word": "深圳地铁",
-      "onboard_time": 1669708837,
-      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -2067,6 +2067,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 396671,
+      "num": 375112,
+      "word": "朱韵扇了李峋一巴掌",
+      "onboard_time": 1669713214,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 396105,
       "num": 396105,
       "word": "巴颖",
@@ -2115,14 +2123,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 381621,
-      "num": 338272,
-      "word": "朱韵扇了李峋一巴掌",
-      "onboard_time": 1669713214,
-      "rank": 24,
-      "category": "影视"
-    },
-    {
       "raw_hot": 380278,
       "num": 380278,
       "word": "小伙赌球手机中木马自动转账20万",
@@ -2145,6 +2145,14 @@
       "onboard_time": 1669600230,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 377251,
+      "num": 377251,
+      "word": "00后晒基金收益被劝先学习",
+      "onboard_time": 1669710817,
+      "rank": 47,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 377119,
@@ -2241,6 +2249,14 @@
       "onboard_time": 1669634913,
       "rank": 44,
       "category": "财经"
+    },
+    {
+      "raw_hot": 365416,
+      "num": 365416,
+      "word": "许半夏撞衫光头强",
+      "onboard_time": 1669713818,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 365340,
@@ -2475,14 +2491,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 336990,
-      "num": 336990,
-      "word": "00后晒基金收益被劝先学习",
-      "onboard_time": 1669710817,
-      "rank": 47,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 335824,
       "num": 335824,
       "word": "小鸟撞车男子持续按压心脏救活",
@@ -2521,6 +2529,14 @@
       "onboard_time": 1669622976,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 332067,
+      "num": 332067,
+      "word": "伊朗vs美国",
+      "onboard_time": 1669700014,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 329889,
@@ -2633,6 +2649,14 @@
       "onboard_time": 1669556200,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 318403,
+      "num": 249600,
+      "word": "Jinni刘海造型",
+      "onboard_time": 1669714117,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 318365,
@@ -2811,6 +2835,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 300241,
+      "num": 300241,
+      "word": "Hero",
+      "onboard_time": 1669713457,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 299319,
       "num": 299319,
       "word": "马斯克称苹果威胁下架推特",
@@ -2883,12 +2915,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 288344,
+      "num": 233101,
+      "word": "风吹半夏机油是用藕粉做的",
+      "onboard_time": 1669714296,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 288103,
       "num": 288103,
       "word": "当布偶猫离开了美颜相机",
       "onboard_time": 1669632337,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 287611,
+      "num": 287611,
+      "word": "张凯急了",
+      "onboard_time": 1669713515,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 286576,
@@ -3075,14 +3123,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 271382,
-      "num": 271382,
-      "word": "伊朗vs美国",
-      "onboard_time": 1669700014,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 270468,
       "num": 270468,
       "word": "德国有希望了",
@@ -3179,6 +3219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 253778,
+      "num": 253778,
+      "word": "女子寄榴莲收货后只剩空壳",
+      "onboard_time": 1669712978,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 253294,
       "num": 253294,
       "word": "蒋芸王晓佳治愈系MV渊",
@@ -3235,6 +3283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 249418,
+      "num": 249418,
+      "word": "不得以时空伴随扩大风险人员判定范围",
+      "onboard_time": 1669710217,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 249219,
       "num": 249219,
       "word": "有些人的教资是DNA自带的",
@@ -3249,6 +3305,14 @@
       "onboard_time": 1669679487,
       "rank": 33,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 245942,
+      "num": 245942,
+      "word": "2岁姐姐拼尽全力拉车保护妹妹",
+      "onboard_time": 1669711058,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 244872,
@@ -3323,6 +3387,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 238367,
+      "num": 238367,
+      "word": "这才是糯唧唧美食的天堂",
+      "onboard_time": 1669713753,
+      "rank": 36,
+      "category": "美食"
+    },
+    {
       "raw_hot": 238327,
       "num": 238327,
       "word": "卡瓦尼因进球多差点让父亲破产",
@@ -3369,14 +3441,6 @@
       "onboard_time": 1669613436,
       "rank": 33,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 235508,
-      "num": 235508,
-      "word": "不得以时空伴随扩大风险人员判定范围",
-      "onboard_time": 1669710217,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 235139,
@@ -3539,12 +3603,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 222915,
+      "num": 222915,
+      "word": "西安下雪仿佛置身长安",
+      "onboard_time": 1669712796,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 222212,
       "num": 222212,
       "word": "西班牙半场0比0德国",
       "onboard_time": 1669579273,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 221676,
+      "num": 221676,
+      "word": "女生骨骼惊奇能用手背握水瓶",
+      "onboard_time": 1669713273,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 221436,
@@ -3611,14 +3691,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 214143,
-      "num": 214143,
-      "word": "2岁姐姐拼尽全力拉车保护妹妹",
-      "onboard_time": 1669711058,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 213321,
       "num": 213321,
       "word": "强制开机后一秒关机的狗狗",
@@ -3635,6 +3707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 212300,
+      "num": 212300,
+      "word": "人民至上不是防疫至上",
+      "onboard_time": 1669714175,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 212123,
       "num": 212123,
       "word": "C罗怒吼庆祝",
@@ -3649,14 +3729,6 @@
       "onboard_time": 1669618892,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 209814,
-      "num": 209814,
-      "word": "西安下雪仿佛置身长安",
-      "onboard_time": 1669712796,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 209622,
@@ -3833,6 +3905,14 @@
       "onboard_time": 1669606237,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 193157,
+      "num": 193157,
+      "word": "遇见光年之外的云和乐",
+      "onboard_time": 1669713998,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 192432,
@@ -4059,20 +4139,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 174906,
+      "num": 174906,
+      "word": "暖心班主任突击检查学生穿棉裤",
+      "onboard_time": 1669714355,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 174643,
       "num": 174643,
       "word": "许半夏问赵垒胸围",
       "onboard_time": 1669706375,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 174385,
-      "num": 174385,
-      "word": "女生骨骼惊奇能用手背握水瓶",
-      "onboard_time": 1669713273,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 174260,
@@ -4088,14 +4168,6 @@
       "word": "上海全市共有约3千到5千只貉",
       "onboard_time": 1669619973,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 174025,
-      "num": 174025,
-      "word": "女子寄榴莲收货后只剩空壳",
-      "onboard_time": 1669712978,
-      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -4451,14 +4523,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 154762,
-      "num": 154762,
-      "word": "张凯急了",
-      "onboard_time": 1669713515,
-      "rank": 47,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 153815,
       "num": 153815,
       "word": "朱韵发现合照",
@@ -4481,14 +4545,6 @@
       "onboard_time": 1669641815,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 152909,
-      "num": 152909,
-      "word": "Hero",
-      "onboard_time": 1669713457,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 152841,
@@ -4971,20 +5027,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 74569,
+      "num": 1618606,
+      "word": "聚焦神舟十五号",
+      "onboard_time": 1669711419,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 72257,
       "num": 72257,
       "word": "解说说加维是娃娃脸",
       "onboard_time": 1669582994,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 68689,
-      "num": 1618606,
-      "word": "聚焦神舟十五号",
-      "onboard_time": 1669711419,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 64241,
@@ -5055,6 +5111,9 @@
     },
     {
       "word": "#科学精准提高防疫工作的有效性#"
+    },
+    {
+      "word": "#端稳中国饭碗筑牢大国粮仓#"
     }
   ]
 }

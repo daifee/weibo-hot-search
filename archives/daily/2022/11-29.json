@@ -1,6 +1,6 @@
 {
   "startTime": 1669652614385,
-  "endTime": 1669713574884,
+  "endTime": 1669714531506,
   "band_list": [
     {
       "raw_hot": 4914407,
@@ -251,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 988360,
+      "num": 988360,
+      "word": "孙兴慜遭韩国网民网暴",
+      "onboard_time": 1669712674,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 978656,
       "num": 978656,
       "word": "核子基因累计核酸检测超7亿人次",
@@ -356,7 +364,7 @@
     },
     {
       "raw_hot": 764494,
-      "num": 622645,
+      "num": 656977,
       "word": "沈小婷MAMA红毯图",
       "onboard_time": 1669710638,
       "rank": 20,
@@ -428,7 +436,7 @@
     },
     {
       "raw_hot": 718953,
-      "num": 601997,
+      "num": 628064,
       "word": "赵露思陈哲远今日红毯造型",
       "onboard_time": 1669711595,
       "rank": 13,
@@ -635,6 +643,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 520624,
+      "num": 520624,
+      "word": "深圳地铁",
+      "onboard_time": 1669708837,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 516042,
       "num": 516042,
       "word": "8岁男孩休学专打游戏第6天回归网课",
@@ -681,6 +697,14 @@
       "onboard_time": 1669698698,
       "rank": 34,
       "category": "游戏,幽默"
+    },
+    {
+      "raw_hot": 482670,
+      "num": 482670,
+      "word": "李峋朱韵又一起看雪了",
+      "onboard_time": 1669712617,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 482591,
@@ -747,14 +771,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 450494,
-      "num": 450494,
-      "word": "孙兴慜遭韩国网民网暴",
-      "onboard_time": 1669712674,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 443552,
       "num": 443552,
       "word": "李薇成为正夫人",
@@ -779,27 +795,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 436448,
-      "num": 427137,
-      "word": "李峋朱韵又一起看雪了",
-      "onboard_time": 1669712617,
-      "rank": 20,
-      "category": "影视"
-    },
-    {
       "raw_hot": 436119,
       "num": 436119,
       "word": "迪士尼",
       "onboard_time": 1669678946,
       "rank": 20,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 429110,
-      "num": 429110,
-      "word": "深圳地铁",
-      "onboard_time": 1669708837,
-      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -867,6 +867,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 396671,
+      "num": 375112,
+      "word": "朱韵扇了李峋一巴掌",
+      "onboard_time": 1669713214,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 396105,
       "num": 396105,
       "word": "巴颖",
@@ -891,12 +899,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 381621,
-      "num": 338272,
-      "word": "朱韵扇了李峋一巴掌",
-      "onboard_time": 1669713214,
-      "rank": 24,
-      "category": "影视"
+      "raw_hot": 377251,
+      "num": 377251,
+      "word": "00后晒基金收益被劝先学习",
+      "onboard_time": 1669710817,
+      "rank": 47,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 376901,
@@ -921,6 +929,14 @@
       "onboard_time": 1669690109,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 365416,
+      "num": 365416,
+      "word": "许半夏撞衫光头强",
+      "onboard_time": 1669713818,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 365340,
@@ -1043,14 +1059,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 336990,
-      "num": 336990,
-      "word": "00后晒基金收益被劝先学习",
-      "onboard_time": 1669710817,
-      "rank": 47,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 335140,
       "num": 335140,
       "word": "常态化做核酸安全吗",
@@ -1065,6 +1073,14 @@
       "onboard_time": 1669687834,
       "rank": 24,
       "category": "社会新闻,社会新闻"
+    },
+    {
+      "raw_hot": 332067,
+      "num": 332067,
+      "word": "伊朗vs美国",
+      "onboard_time": 1669700014,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 328538,
@@ -1089,6 +1105,14 @@
       "onboard_time": 1669690169,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 318403,
+      "num": 249600,
+      "word": "Jinni刘海造型",
+      "onboard_time": 1669714117,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 316075,
@@ -1163,6 +1187,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 300241,
+      "num": 300241,
+      "word": "Hero",
+      "onboard_time": 1669713457,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 299319,
       "num": 299319,
       "word": "马斯克称苹果威胁下架推特",
@@ -1209,6 +1241,22 @@
       "onboard_time": 1669702710,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 288344,
+      "num": 233101,
+      "word": "风吹半夏机油是用藕粉做的",
+      "onboard_time": 1669714296,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 287611,
+      "num": 287611,
+      "word": "张凯急了",
+      "onboard_time": 1669713515,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 282642,
@@ -1307,14 +1355,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 271382,
-      "num": 271382,
-      "word": "伊朗vs美国",
-      "onboard_time": 1669700014,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 265195,
       "num": 265195,
       "word": "没给韩国角球",
@@ -1355,6 +1395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 253778,
+      "num": 253778,
+      "word": "女子寄榴莲收货后只剩空壳",
+      "onboard_time": 1669712978,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 251104,
       "num": 251104,
       "word": "巴西半场0比0瑞士",
@@ -1379,6 +1427,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 249418,
+      "num": 249418,
+      "word": "不得以时空伴随扩大风险人员判定范围",
+      "onboard_time": 1669710217,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 247639,
       "num": 247639,
       "word": "柳岩跳世界杯主题曲舞蹈",
@@ -1387,12 +1443,28 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 245942,
+      "num": 245942,
+      "word": "2岁姐姐拼尽全力拉车保护妹妹",
+      "onboard_time": 1669711058,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 245128,
       "num": 245128,
       "word": "韩国2比3加纳",
       "onboard_time": 1669648006,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 238367,
+      "num": 238367,
+      "word": "这才是糯唧唧美食的天堂",
+      "onboard_time": 1669713753,
+      "rank": 36,
+      "category": "美食"
     },
     {
       "raw_hot": 237975,
@@ -1409,14 +1481,6 @@
       "onboard_time": 1669691433,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 235508,
-      "num": 235508,
-      "word": "不得以时空伴随扩大风险人员判定范围",
-      "onboard_time": 1669710217,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 230214,
@@ -1491,6 +1555,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 222915,
+      "num": 222915,
+      "word": "西安下雪仿佛置身长安",
+      "onboard_time": 1669712796,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 221676,
+      "num": 221676,
+      "word": "女生骨骼惊奇能用手背握水瓶",
+      "onboard_time": 1669713273,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 220621,
       "num": 220621,
       "word": "被C罗肌肉秀到了",
@@ -1507,14 +1587,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 214143,
-      "num": 214143,
-      "word": "2岁姐姐拼尽全力拉车保护妹妹",
-      "onboard_time": 1669711058,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 212639,
       "num": 185163,
       "word": "内马尔在酒店看比赛",
@@ -1523,20 +1595,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 212300,
+      "num": 212300,
+      "word": "人民至上不是防疫至上",
+      "onboard_time": 1669714175,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 212123,
       "num": 212123,
       "word": "C罗怒吼庆祝",
       "onboard_time": 1669681112,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 209814,
-      "num": 209814,
-      "word": "西安下雪仿佛置身长安",
-      "onboard_time": 1669712796,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 209622,
@@ -1675,6 +1747,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 193157,
+      "num": 193157,
+      "word": "遇见光年之外的云和乐",
+      "onboard_time": 1669713998,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 191704,
       "num": 191704,
       "word": "赵露思提名金莲花最佳女主角",
@@ -1795,6 +1875,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 174906,
+      "num": 174906,
+      "word": "暖心班主任突击检查学生穿棉裤",
+      "onboard_time": 1669714355,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 174643,
       "num": 174643,
       "word": "许半夏问赵垒胸围",
@@ -1803,28 +1891,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 174385,
-      "num": 174385,
-      "word": "女生骨骼惊奇能用手背握水瓶",
-      "onboard_time": 1669713273,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 174260,
       "num": 174260,
       "word": "曾可妮翻唱你说你还不了",
       "onboard_time": 1669649917,
       "rank": 43,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 174025,
-      "num": 174025,
-      "word": "女子寄榴莲收货后只剩空壳",
-      "onboard_time": 1669712978,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 174007,
@@ -2011,14 +2083,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 154762,
-      "num": 154762,
-      "word": "张凯急了",
-      "onboard_time": 1669713515,
-      "rank": 47,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 153815,
       "num": 153815,
       "word": "朱韵发现合照",
@@ -2033,14 +2097,6 @@
       "onboard_time": 1669699652,
       "rank": 48,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 152909,
-      "num": 152909,
-      "word": "Hero",
-      "onboard_time": 1669713457,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 152841,
@@ -2179,7 +2235,7 @@
       "category": "艺人,动漫"
     },
     {
-      "raw_hot": 68689,
+      "raw_hot": 74569,
       "num": 1618606,
       "word": "聚焦神舟十五号",
       "onboard_time": 1669711419,
@@ -2244,6 +2300,9 @@
     },
     {
       "word": "#严禁随意封控等各类层层加码行为#"
+    },
+    {
+      "word": "#端稳中国饭碗筑牢大国粮仓#"
     }
   ]
 }
