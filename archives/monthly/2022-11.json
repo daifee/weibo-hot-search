@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1669747157433,
+  "endTime": 1669749361174,
   "band_list": [
     {
       "raw_hot": 36651023,
@@ -40995,6 +40995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 217270,
+      "num": 127552,
+      "word": "最惨东道主卡塔尔",
+      "onboard_time": 1669745716,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 217262,
       "num": 190411,
       "word": "复活军团",
@@ -54227,12 +54235,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 142151,
+      "num": 142151,
+      "word": "王鹤棣陈飞宇你俩去演鬼怪吧",
+      "onboard_time": 1669747873,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 142147,
       "num": 142147,
       "word": "田曦薇说我田曦薇誓死守护李薇",
       "onboard_time": 1669186653,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 142104,
+      "num": 36689,
+      "word": "厄瓜多尔球员哭了",
+      "onboard_time": 1669747515,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 142098,
@@ -57192,14 +57216,6 @@
       "word": "当阿根廷解说员看见梅西进球",
       "onboard_time": 1669529193,
       "rank": 48,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 127552,
-      "num": 127552,
-      "word": "最惨东道主卡塔尔",
-      "onboard_time": 1669745716,
-      "rank": 34,
       "category": "体育"
     },
     {
@@ -63755,6 +63771,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 87983,
+      "num": 51467,
+      "word": "真不给卡塔尔留面子",
+      "onboard_time": 1669746616,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 87915,
       "num": 327322,
       "word": "两中学生遇走失男孩暖心护送",
@@ -63892,7 +63916,7 @@
     },
     {
       "raw_hot": 86936,
-      "num": 55071,
+      "num": 72902,
       "word": "伊朗vs美国首发",
       "onboard_time": 1669746795,
       "rank": 31,
@@ -66851,14 +66875,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 51467,
-      "num": 51467,
-      "word": "真不给卡塔尔留面子",
-      "onboard_time": 1669746616,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 51407,
       "num": 51407,
       "word": "阿根廷队加油",
@@ -67369,6 +67385,14 @@
       "onboard_time": 1667498056,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 39293,
+      "num": 35054,
+      "word": "肖战推荐大家通过运动排解压力",
+      "onboard_time": 1669747933,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 39269,
