@@ -1,0 +1,410 @@
+{
+  "runTime": 1669731513458,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2265905,
+        "num": 2265905,
+        "word": "人民至上不是防疫至上",
+        "onboard_time": 1669714175,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2030842,
+        "num": 2030842,
+        "word": "山东拟投资超230亿元建方舱医院",
+        "onboard_time": 1669729407,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108543,
+        "num": 1423475,
+        "word": "聚焦神舟十五号",
+        "onboard_time": 1669711419,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1291224,
+        "num": 1291224,
+        "word": "赵立坚介绍BBC记者被带离真相",
+        "onboard_time": 1669722877,
+        "rank": 3,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1191834,
+        "num": 1191834,
+        "word": "突然就消除了对鬼的恐惧",
+        "onboard_time": 1669727785,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1150873,
+        "num": 1150873,
+        "word": "男子出轨后开车撞妻子被女儿拦下",
+        "onboard_time": 1669719221,
+        "rank": 5,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1149999,
+        "num": 1149999,
+        "word": "王鹤棣领奖后拥抱何炅",
+        "onboard_time": 1669730786,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 859901,
+        "num": 859901,
+        "word": "柳州卫健委回应病毒绕着走",
+        "onboard_time": 1669724919,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1110408,
+        "num": 827438,
+        "word": "赵丽颖当面催更张若昀",
+        "onboard_time": 1669730068,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 764723,
+        "num": 764723,
+        "word": "葡萄牙足协证明进球属于C罗",
+        "onboard_time": 1669723478,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 992914,
+        "num": 755805,
+        "word": "关晓彤红毯问今天头发和衣服是搭的吧",
+        "onboard_time": 1669719704,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 736600,
+        "num": 736600,
+        "word": "广州天河区疫情防控",
+        "onboard_time": 1669724740,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 755419,
+        "num": 691379,
+        "word": "李诞快给你司员工培训下红毯pose",
+        "onboard_time": 1669722997,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 641021,
+        "num": 641021,
+        "word": "李薇盘发",
+        "onboard_time": 1669727067,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 632642,
+        "num": 632642,
+        "word": "世界杯没有早场比赛了",
+        "onboard_time": 1669726001,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 619196,
+        "num": 619196,
+        "word": "郑州30日凌晨起出行要求有变",
+        "onboard_time": 1669729948,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 571973,
+        "num": 571973,
+        "word": "张元英 舞台",
+        "onboard_time": 1669723835,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 561337,
+        "num": 561337,
+        "word": "北京疫情下一名配送骑手自述",
+        "onboard_time": 1669728388,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 557956,
+        "num": 557956,
+        "word": "已有超11家核酸检测机构造假被查",
+        "onboard_time": 1669702413,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 447454,
+        "num": 447454,
+        "word": "女子被多人连续辱骂殴打6分钟",
+        "onboard_time": 1669725278,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1019715,
+        "num": 445360,
+        "word": "Somi撞衫小S",
+        "onboard_time": 1669728985,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 448814,
+        "num": 438740,
+        "word": "李薇主动吻了尹峥",
+        "onboard_time": 1669726059,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 421993,
+        "num": 421993,
+        "word": "朱韵说李峋变着办法来泡妞",
+        "onboard_time": 1669729347,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 418225,
+        "num": 418225,
+        "word": "卫龙半年亏损2.61亿",
+        "onboard_time": 1669730728,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 341870,
+        "num": 341870,
+        "word": "如何看待4天工作不减薪制",
+        "onboard_time": 1669728631,
+        "rank": 24,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 340296,
+        "num": 340296,
+        "word": "孙兴慜遭韩国网民网暴",
+        "onboard_time": 1669712674,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 328415,
+        "num": 328415,
+        "word": "女孩被扇耳光逼下跪还往头上倒饮料",
+        "onboard_time": 1669721615,
+        "rank": 26,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 323734,
+        "num": 323734,
+        "word": "三类人群感染新冠病毒更易引发重症",
+        "onboard_time": 1669715378,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284838,
+        "num": 284838,
+        "word": "郑州转入常态化疫情防控",
+        "onboard_time": 1669730606,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259657,
+        "num": 259657,
+        "word": "B费情商有多高",
+        "onboard_time": 1669728087,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1741394,
+        "num": 258669,
+        "word": "肖战发呆",
+        "onboard_time": 1669724740,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 330974,
+        "num": 256867,
+        "word": "秦施摔倒",
+        "onboard_time": 1669730666,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 313345,
+        "num": 252887,
+        "word": "minji 美",
+        "onboard_time": 1669725942,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 288953,
+        "num": 251174,
+        "word": "秦施被阳华吻醒",
+        "onboard_time": 1669725340,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 278918,
+        "num": 246433,
+        "word": "他们没来MAMA又好像来了",
+        "onboard_time": 1669718020,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 245707,
+        "num": 245707,
+        "word": "90后夫妻北漂7年拒绝买房买车",
+        "onboard_time": 1669724977,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235110,
+        "num": 235110,
+        "word": "张核子和他的核酸版图",
+        "onboard_time": 1669722337,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227731,
+        "num": 227731,
+        "word": "谁能拒绝收到一只小狗",
+        "onboard_time": 1669725104,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 197781,
+        "num": 197781,
+        "word": "荷兰vs卡塔尔",
+        "onboard_time": 1669731030,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179597,
+        "num": 179597,
+        "word": "南京下雪",
+        "onboard_time": 1669730786,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230252,
+        "num": 178670,
+        "word": "风吹半夏",
+        "onboard_time": 1669728566,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 173054,
+        "num": 173054,
+        "word": "为什么每次都是BBC在现场出问题",
+        "onboard_time": 1669716101,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169531,
+        "num": 169531,
+        "word": "不要轻易看孩子上网课",
+        "onboard_time": 1669730606,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 153427,
+        "num": 153427,
+        "word": "北京朝阳有针对性地对部分群体实行免检",
+        "onboard_time": 1669719579,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138373,
+        "num": 138373,
+        "word": "内马尔把温柔都给了孩子",
+        "onboard_time": 1669721559,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138002,
+        "num": 138002,
+        "word": "记者实测食用橘子后做核酸",
+        "onboard_time": 1669731387,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135849,
+        "num": 135849,
+        "word": "EDGM",
+        "onboard_time": 1669727067,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 135326,
+        "num": 135326,
+        "word": "魔兽负责人给中国玩家留言",
+        "onboard_time": 1669714901,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 133188,
+        "num": 133188,
+        "word": "小女孩地铁咳嗽被医生提醒抽动症",
+        "onboard_time": 1669707997,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128553,
+        "num": 128553,
+        "word": "卖一部iPhone能赚1400元",
+        "onboard_time": 1669704572,
+        "rank": 49,
+        "category": "科技,财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#航天新征程#"
+    }
+  }
+}

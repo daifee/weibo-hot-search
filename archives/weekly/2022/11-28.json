@@ -1,6 +1,6 @@
 {
   "startTime": 1669566398830,
-  "endTime": 1669729318866,
+  "endTime": 1669731513458,
   "band_list": [
     {
       "raw_hot": 11045761,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 3187346,
-      "num": 231645,
+      "num": 258669,
       "word": "肖战发呆",
       "onboard_time": 1669724740,
       "rank": 30,
@@ -231,6 +231,14 @@
       "num": 2042526,
       "word": "专家解读感染者居家隔离是否可行",
       "onboard_time": 1669593811,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2030842,
+      "num": 2030842,
+      "word": "山东拟投资超230亿元建方舱医院",
+      "onboard_time": 1669729407,
       "rank": 1,
       "category": "社会新闻"
     },
@@ -643,6 +651,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1191834,
+      "num": 1191834,
+      "word": "突然就消除了对鬼的恐惧",
+      "onboard_time": 1669727785,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1188696,
       "num": 1188696,
       "word": "难听",
@@ -665,6 +681,14 @@
       "onboard_time": 1669650395,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1149999,
+      "num": 1149999,
+      "word": "王鹤棣领奖后拥抱何炅",
+      "onboard_time": 1669730786,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 1145336,
@@ -713,6 +737,14 @@
       "onboard_time": 1669630113,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1110408,
+      "num": 827438,
+      "word": "赵丽颖当面催更张若昀",
+      "onboard_time": 1669730068,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 1105340,
@@ -777,6 +809,14 @@
       "onboard_time": 1669692933,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1019715,
+      "num": 445360,
+      "word": "Somi撞衫小S",
+      "onboard_time": 1669728985,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1019241,
@@ -1387,6 +1427,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 641021,
+      "num": 641021,
+      "word": "李薇盘发",
+      "onboard_time": 1669727067,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 640900,
       "num": 640900,
       "word": "伊朗美国小组出线生死局",
@@ -1489,6 +1537,14 @@
       "onboard_time": 1669720178,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 619196,
+      "num": 619196,
+      "word": "郑州30日凌晨起出行要求有变",
+      "onboard_time": 1669729948,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 607168,
@@ -1603,14 +1659,6 @@
       "category": "影视,财经"
     },
     {
-      "raw_hot": 584117,
-      "num": 584117,
-      "word": "李薇盘发",
-      "onboard_time": 1669727067,
-      "rank": 20,
-      "category": "影视"
-    },
-    {
       "raw_hot": 582134,
       "num": 582134,
       "word": "浙江多地教育局发文欢迎学生返乡",
@@ -1657,6 +1705,14 @@
       "onboard_time": 1669650698,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 561337,
+      "num": 561337,
+      "word": "北京疫情下一名配送骑手自述",
+      "onboard_time": 1669728388,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 559871,
@@ -1753,14 +1809,6 @@
       "onboard_time": 1669602751,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 534072,
-      "num": 534072,
-      "word": "突然就消除了对鬼的恐惧",
-      "onboard_time": 1669727785,
-      "rank": 19,
-      "category": "幽默"
     },
     {
       "raw_hot": 530723,
@@ -2147,6 +2195,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 447454,
+      "num": 447454,
+      "word": "女子被多人连续辱骂殴打6分钟",
+      "onboard_time": 1669725278,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 447375,
       "num": 447375,
       "word": "女生骨骼惊奇能用手背握水瓶",
@@ -2307,6 +2363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 421993,
+      "num": 421993,
+      "word": "朱韵说李峋变着办法来泡妞",
+      "onboard_time": 1669729347,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 421437,
       "num": 336714,
       "word": "NMIXX走MAMA红毯",
@@ -2329,6 +2393,14 @@
       "onboard_time": 1669725340,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 418225,
+      "num": 418225,
+      "word": "卫龙半年亏损2.61亿",
+      "onboard_time": 1669730728,
+      "rank": 23,
+      "category": "财经"
     },
     {
       "raw_hot": 416128,
@@ -2489,14 +2561,6 @@
       "onboard_time": 1669691129,
       "rank": 47,
       "category": "影视,动漫"
-    },
-    {
-      "raw_hot": 393935,
-      "num": 393935,
-      "word": "女子被多人连续辱骂殴打6分钟",
-      "onboard_time": 1669725278,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 391181,
@@ -2947,6 +3011,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 341870,
+      "num": 341870,
+      "word": "如何看待4天工作不减薪制",
+      "onboard_time": 1669728631,
+      "rank": 49,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 341734,
       "num": 164500,
       "word": "五代女团合跳CheerUp",
@@ -3032,6 +3104,14 @@
       "word": "张天爱微博视界大会",
       "onboard_time": 1669717597,
       "rank": 34,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 330974,
+      "num": 256867,
+      "word": "秦施摔倒",
+      "onboard_time": 1669730666,
+      "rank": 31,
       "category": "影视"
     },
     {
@@ -3217,14 +3297,6 @@
       "onboard_time": 1669616495,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 314931,
-      "num": 200118,
-      "word": "Somi撞衫小S",
-      "onboard_time": 1669728985,
-      "rank": 33,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 314755,
@@ -3520,6 +3592,14 @@
       "word": "青岛13岁男孩打破魔方世界纪录",
       "onboard_time": 1669617573,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 284838,
+      "num": 284838,
+      "word": "郑州转入常态化疫情防控",
+      "onboard_time": 1669730606,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -4251,14 +4331,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 218372,
-      "num": 218372,
-      "word": "北京疫情下一名配送骑手自述",
-      "onboard_time": 1669728388,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 218363,
       "num": 218363,
       "word": "一诺孙尚香经典射手开团",
@@ -4403,6 +4475,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 197781,
+      "num": 197781,
+      "word": "荷兰vs卡塔尔",
+      "onboard_time": 1669731030,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 196922,
       "num": 196922,
       "word": "尹嵩被废黜流放",
@@ -4473,14 +4553,6 @@
       "onboard_time": 1669582874,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 195116,
-      "num": 195116,
-      "word": "如何看待4天工作不减薪制",
-      "onboard_time": 1669728631,
-      "rank": 49,
-      "category": "社会议题"
     },
     {
       "raw_hot": 194872,
@@ -4707,6 +4779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 179597,
+      "num": 179597,
+      "word": "南京下雪",
+      "onboard_time": 1669730786,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 179127,
       "num": 179127,
       "word": "父亲保持耐心反复辅导女儿作业",
@@ -4865,6 +4945,14 @@
       "onboard_time": 1669634552,
       "rank": 45,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 169531,
+      "num": 169531,
+      "word": "不要轻易看孩子上网课",
+      "onboard_time": 1669730606,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 169319,
@@ -5473,6 +5561,14 @@
       "onboard_time": 1669715859,
       "rank": 48,
       "category": "科技,财经"
+    },
+    {
+      "raw_hot": 138002,
+      "num": 138002,
+      "word": "记者实测食用橘子后做核酸",
+      "onboard_time": 1669731387,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 137567,
