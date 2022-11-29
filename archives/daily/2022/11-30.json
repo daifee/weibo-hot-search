@@ -1,0 +1,411 @@
+{
+  "startTime": 1669739332504,
+  "endTime": 1669739332504,
+  "band_list": [
+    {
+      "raw_hot": 2756631,
+      "num": 2756631,
+      "word": "李一桐将不再出演武庚纪",
+      "onboard_time": 1669734326,
+      "rank": 0,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1532950,
+      "num": 1532950,
+      "word": "欧阳娜娜品牌988元浴袍成本不足百元",
+      "onboard_time": 1669731687,
+      "rank": 1,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1451134,
+      "num": 1451134,
+      "word": "广州天河区疫情防控",
+      "onboard_time": 1669724740,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1324348,
+      "num": 1324348,
+      "word": "梅西已8年不喝汽水不吃披萨",
+      "onboard_time": 1669734326,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1177419,
+      "num": 1177419,
+      "word": "伊朗vs美国",
+      "onboard_time": 1669736066,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1069221,
+      "num": 1069221,
+      "word": "上网课忘关摄像头了",
+      "onboard_time": 1669735046,
+      "rank": 6,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 977151,
+      "num": 977151,
+      "word": "记者实测食用橘子后做核酸",
+      "onboard_time": 1669731387,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 928958,
+      "num": 928958,
+      "word": "卫龙半年亏损2.61亿",
+      "onboard_time": 1669730728,
+      "rank": 8,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 855290,
+      "num": 855290,
+      "word": "人民至上不是防疫至上",
+      "onboard_time": 1669714175,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 706733,
+      "num": 706733,
+      "word": "关晓彤在内场刷夸自己的微博",
+      "onboard_time": 1669733547,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 590863,
+      "num": 590863,
+      "word": "北京已经启用方舱医院23家",
+      "onboard_time": 1669731746,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 497076,
+      "num": 497076,
+      "word": "男子出轨后开车撞妻子被女儿拦下",
+      "onboard_time": 1669719221,
+      "rank": 12,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 458429,
+      "num": 458429,
+      "word": "赵丽颖当面催更张若昀",
+      "onboard_time": 1669730068,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 446485,
+      "num": 446485,
+      "word": "原来这就是睡得跟死猪一样",
+      "onboard_time": 1669737028,
+      "rank": 15,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 440003,
+      "num": 440003,
+      "word": "突然就消除了对鬼的恐惧",
+      "onboard_time": 1669727785,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 426132,
+      "num": 210319,
+      "word": "肖战发呆",
+      "onboard_time": 1669724740,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 387557,
+      "num": 387557,
+      "word": "王鹤棣领奖后拥抱何炅",
+      "onboard_time": 1669730786,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 344245,
+      "num": 344245,
+      "word": "赵立坚介绍BBC记者被带离真相",
+      "onboard_time": 1669722877,
+      "rank": 18,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 327759,
+      "num": 327759,
+      "word": "张元英 舞台",
+      "onboard_time": 1669723835,
+      "rank": 19,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 321978,
+      "num": 321978,
+      "word": "荷兰1比0卡塔尔",
+      "onboard_time": 1669736365,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 313769,
+      "num": 313769,
+      "word": "郑州30日凌晨起出行要求有变",
+      "onboard_time": 1669729948,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 309149,
+      "num": 309149,
+      "word": "葡萄牙足协证明进球属于C罗",
+      "onboard_time": 1669723478,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 261074,
+      "num": 261074,
+      "word": "方向盘套广告语被指侮辱女性",
+      "onboard_time": 1669733487,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 253638,
+      "num": 253638,
+      "word": "Somi撞衫小S",
+      "onboard_time": 1669728985,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 242314,
+      "num": 218613,
+      "word": "李诞快给你司员工培训下红毯pose",
+      "onboard_time": 1669722997,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 227354,
+      "num": 227354,
+      "word": "塞内加尔进球",
+      "onboard_time": 1669737685,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 225429,
+      "num": 225429,
+      "word": "北京疫情下一名配送骑手自述",
+      "onboard_time": 1669728388,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 225213,
+      "num": 225213,
+      "word": "李薇盘发",
+      "onboard_time": 1669727067,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 220509,
+      "num": 209655,
+      "word": "制片人说白敬亭是六少主第一人选",
+      "onboard_time": 1669736848,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 210676,
+      "num": 210676,
+      "word": "柳州卫健委回应病毒绕着走",
+      "onboard_time": 1669724919,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 208295,
+      "num": 208295,
+      "word": "荷兰vs卡塔尔",
+      "onboard_time": 1669731030,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 204902,
+      "num": 204902,
+      "word": "英格兰vs威尔士",
+      "onboard_time": 1669737266,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 201602,
+      "num": 201602,
+      "word": "三类人群感染新冠病毒更易引发重症",
+      "onboard_time": 1669715378,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 199124,
+      "num": 199124,
+      "word": "张核子曾谈核子基因与其他公司不同",
+      "onboard_time": 1669738643,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 190900,
+      "num": 190900,
+      "word": "尹岐新发型",
+      "onboard_time": 1669736186,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 187117,
+      "num": 187117,
+      "word": "世界杯没有早场比赛了",
+      "onboard_time": 1669726001,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 165903,
+      "num": 165903,
+      "word": "他们没来MAMA又好像来了",
+      "onboard_time": 1669718020,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 155714,
+      "num": 152839,
+      "word": "许半夏的穿搭公式",
+      "onboard_time": 1669734804,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 153202,
+      "num": 153202,
+      "word": "神舟十五号",
+      "onboard_time": 1669732830,
+      "rank": 39,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 152464,
+      "num": 152464,
+      "word": "秦施摔倒",
+      "onboard_time": 1669730666,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 148945,
+      "num": 148945,
+      "word": "女子被多人连续辱骂殴打6分钟",
+      "onboard_time": 1669725278,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147885,
+      "num": 147885,
+      "word": "郑州转入常态化疫情防控",
+      "onboard_time": 1669730606,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147265,
+      "num": 147265,
+      "word": "张超",
+      "onboard_time": 1669738762,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 145464,
+      "num": 145464,
+      "word": "南京下雪",
+      "onboard_time": 1669730786,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 140300,
+      "num": 140300,
+      "word": "孙兴慜遭韩国网民网暴",
+      "onboard_time": 1669712674,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 136885,
+      "num": 136885,
+      "word": "厄瓜多尔vs塞内加尔",
+      "onboard_time": 1669731507,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 134287,
+      "num": 134287,
+      "word": "男孩熟练给鱿鱼动手术给柚子缝合",
+      "onboard_time": 1669733667,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 131594,
+      "num": 131594,
+      "word": "神舟十五号发射画面",
+      "onboard_time": 1669737505,
+      "rank": 49,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 99879,
+      "num": 1460175,
+      "word": "聚焦神舟十五号",
+      "onboard_time": 1669711419,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 62629,
+      "num": 449324,
+      "word": "神十五发射和月亮同框",
+      "onboard_time": 1669738944,
+      "rank": 14,
+      "category": "社会新闻"
+    }
+  ],
+  "hotgov_list": [
+    {
+      "word": "#航天新征程#"
+    }
+  ]
+}
