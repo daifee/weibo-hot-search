@@ -1,6 +1,6 @@
 {
   "startTime": 1669566398830,
-  "endTime": 1669833663390,
+  "endTime": 1669835790704,
   "band_list": [
     {
       "raw_hot": 71270277,
@@ -8259,6 +8259,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 100032,
+      "num": 70181,
+      "word": "澳大利亚成首支出线的亚足联球队",
+      "onboard_time": 1669830311,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 99517,
+      "num": 78754,
+      "word": "突尼斯1比0法国",
+      "onboard_time": 1669828991,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 99002,
       "num": 99002,
       "word": "加拿大进球",
@@ -8347,14 +8363,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 78754,
-      "num": 78754,
-      "word": "突尼斯1比0法国",
-      "onboard_time": 1669828991,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 77528,
       "num": 77528,
       "word": "明星撞脸卡通人物大赏",
@@ -8383,14 +8391,6 @@
       "num": 72257,
       "word": "解说说加维是娃娃脸",
       "onboard_time": 1669582994,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 70181,
-      "num": 70181,
-      "word": "澳大利亚成首支出线的亚足联球队",
-      "onboard_time": 1669830311,
       "rank": 31,
       "category": "体育"
     },
@@ -8499,8 +8499,8 @@
       "category": "科技"
     },
     {
-      "raw_hot": 23572,
-      "num": 23572,
+      "raw_hot": 32307,
+      "num": 32307,
       "word": "高科技介入足球是好是坏",
       "onboard_time": 1669832109,
       "rank": 49,
