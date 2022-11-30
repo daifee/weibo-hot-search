@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1669850444885,
+  "endTime": 1669851347668,
   "band_list": [
     {
       "raw_hot": 1931721,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1730257,
-      "num": 196336,
+      "num": 220568,
       "word": "波兰0比2阿根廷",
       "onboard_time": 1669842429,
       "rank": 5,
@@ -51,7 +51,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 823263,
+      "raw_hot": 841043,
       "num": 296612,
       "word": "35岁辣妈晒精致生活常被夸年轻",
       "onboard_time": 1669824494,
@@ -99,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 684840,
+      "num": 216355,
+      "word": "女子因撞名张珊珊个人信息遭曝光",
+      "onboard_time": 1669847469,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 515837,
       "num": 426418,
       "word": "净水器水管接反全家喝了一年废水",
@@ -116,7 +124,7 @@
     },
     {
       "raw_hot": 440755,
-      "num": 165011,
+      "num": 178160,
       "word": "世界杯16强就差亚洲球队",
       "onboard_time": 1669829351,
       "rank": 40,
@@ -131,6 +139,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 420926,
+      "num": 207186,
+      "word": "突尼斯1比0法国",
+      "onboard_time": 1669828991,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 419922,
       "num": 419922,
       "word": "姆巴佩未首发对战突尼斯",
@@ -139,28 +155,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 418477,
-      "num": 189148,
-      "word": "女子因撞名张珊珊个人信息遭曝光",
-      "onboard_time": 1669847469,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 414679,
       "num": 489077,
       "word": "告全党全军全国各族人民书",
       "onboard_time": 1669797921,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 400012,
-      "num": 190540,
-      "word": "突尼斯1比0法国",
-      "onboard_time": 1669828991,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 394060,
@@ -179,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 365014,
+      "num": 199342,
+      "word": "家属称中学老师酒后殴打学生",
+      "onboard_time": 1669847107,
+      "rank": 35,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 353444,
       "num": 353444,
       "word": "郑州人的生活回来了",
@@ -195,6 +203,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 300498,
+      "num": 202630,
+      "word": "十二月",
+      "onboard_time": 1669850228,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 296261,
+      "num": 197426,
+      "word": "梅西莱万赛后拥抱",
+      "onboard_time": 1669846748,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 295125,
+      "num": 695032,
+      "word": "江泽民同志永垂不朽",
+      "onboard_time": 1669804610,
+      "rank": 19,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 294951,
       "num": 294951,
       "word": "广州 堂食",
@@ -203,16 +235,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 293936,
-      "num": 188403,
-      "word": "家属称中学老师酒后殴打学生",
-      "onboard_time": 1669847107,
-      "rank": 35,
-      "category": "社会负面"
-    },
-    {
-      "raw_hot": 284194,
-      "num": 190252,
+      "raw_hot": 287238,
+      "num": 193778,
       "word": "沙特阿拉伯1比2墨西哥",
       "onboard_time": 1669842967,
       "rank": 31,
@@ -235,28 +259,12 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 260123,
-      "num": 187967,
-      "word": "梅西莱万赛后拥抱",
-      "onboard_time": 1669846748,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 223166,
       "num": 198298,
       "word": "深圳一公园1只百余斤野猪被困",
       "onboard_time": 1669825272,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 210685,
-      "num": 210685,
-      "word": "江泽民同志永垂不朽",
-      "onboard_time": 1669804610,
-      "rank": 19,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 197392,
@@ -283,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 191157,
+      "num": 109820,
+      "word": "还有1个月就2023了",
+      "onboard_time": 1669850888,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 190146,
       "num": 190146,
       "word": "1岁萌娃坐透明电梯被吓到腿软",
@@ -307,14 +323,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 187098,
-      "num": 187098,
-      "word": "十二月",
-      "onboard_time": 1669850228,
-      "rank": 14,
-      "category": "情感"
-    },
-    {
       "raw_hot": 184438,
       "num": 184438,
       "word": "8000元1件羽绒服直播间仅卖800元",
@@ -331,6 +339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 177390,
+      "num": 177390,
+      "word": "澳大利亚1比0丹麦",
+      "onboard_time": 1669829291,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 165198,
       "num": 165198,
       "word": "石家庄多区明起有序恢复生产生活秩序",
@@ -340,18 +356,10 @@
     },
     {
       "raw_hot": 161844,
-      "num": 84402,
+      "num": 108764,
       "word": "梅西点球",
       "onboard_time": 1669849868,
       "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 160658,
-      "num": 160658,
-      "word": "澳大利亚1比0丹麦",
-      "onboard_time": 1669829291,
-      "rank": 27,
       "category": "体育"
     },
     {
@@ -360,6 +368,22 @@
       "word": "内马尔把嘲讽值拉满了",
       "onboard_time": 1669809798,
       "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 152971,
+      "num": 152971,
+      "word": "世界杯",
+      "onboard_time": 1669850109,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 152828,
+      "num": 108187,
+      "word": "世界杯16强已产生10席",
+      "onboard_time": 1669849749,
+      "rank": 36,
       "category": "体育"
     },
     {
@@ -435,14 +459,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 124576,
-      "num": 84266,
-      "word": "世界杯",
-      "onboard_time": 1669850109,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 123898,
       "num": 94222,
       "word": "阿尔瓦雷斯破门",
@@ -451,20 +467,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119344,
+      "num": 107023,
+      "word": "沙特阿拉伯半场0比0墨西哥",
+      "onboard_time": 1669842429,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 117018,
+      "num": 117018,
+      "word": "不断优化完善防控措施",
+      "onboard_time": 1669850648,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 114852,
+      "num": 114852,
+      "word": "济南疫情防控",
+      "onboard_time": 1669851129,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 112402,
       "num": 112402,
       "word": "北京无社会面活动人员可不参加社区核酸筛查",
       "onboard_time": 1669804637,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 112309,
-      "num": 84107,
-      "word": "沙特阿拉伯半场0比0墨西哥",
-      "onboard_time": 1669842429,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 109909,
@@ -491,6 +523,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 105921,
+      "num": 105921,
+      "word": "澳大利亚成首支出线的亚足联球队",
+      "onboard_time": 1669830311,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 103907,
       "num": 103907,
       "word": "突尼斯半场0比0法国",
@@ -507,11 +547,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 100032,
-      "num": 95463,
-      "word": "澳大利亚成首支出线的亚足联球队",
-      "onboard_time": 1669830311,
-      "rank": 31,
+      "raw_hot": 99303,
+      "num": 99303,
+      "word": "莱基破门",
+      "onboard_time": 1669850468,
+      "rank": 38,
       "category": "体育"
     },
     {
@@ -561,14 +601,6 @@
       "onboard_time": 1669801557,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 77425,
-      "num": 77425,
-      "word": "世界杯16强已产生10席",
-      "onboard_time": 1669849749,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 77129,
