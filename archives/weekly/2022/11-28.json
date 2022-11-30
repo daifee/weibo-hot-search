@@ -1,6 +1,6 @@
 {
   "startTime": 1669566398830,
-  "endTime": 1669825729614,
+  "endTime": 1669826912394,
   "band_list": [
     {
       "raw_hot": 71270277,
@@ -1731,6 +1731,14 @@
       "category": "体育,网红"
     },
     {
+      "raw_hot": 740720,
+      "num": 351812,
+      "word": "官方回应石家庄一核酸机构疑造假",
+      "onboard_time": 1669822934,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 738619,
       "num": 738619,
       "word": "尹峥入狱vs陆之昂入狱",
@@ -2249,14 +2257,6 @@
       "onboard_time": 1669800964,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 610235,
-      "num": 351812,
-      "word": "官方回应石家庄一核酸机构疑造假",
-      "onboard_time": 1669822934,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 609834,
@@ -3083,6 +3083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 458874,
+      "num": 426160,
+      "word": "突尼斯vs法国",
+      "onboard_time": 1669795404,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 457539,
       "num": 457539,
       "word": "MAMA",
@@ -3185,14 +3193,6 @@
       "onboard_time": 1669643433,
       "rank": 29,
       "category": "影视"
-    },
-    {
-      "raw_hot": 444798,
-      "num": 426160,
-      "word": "突尼斯vs法国",
-      "onboard_time": 1669795404,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 443959,
@@ -4129,6 +4129,14 @@
       "onboard_time": 1669713395,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 353379,
+      "num": 296612,
+      "word": "35岁辣妈晒精致生活常被夸年轻",
+      "onboard_time": 1669824494,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 353319,
@@ -6107,14 +6115,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 210566,
-      "num": 130059,
-      "word": "35岁辣妈晒精致生活常被夸年轻",
-      "onboard_time": 1669824494,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 210031,
       "num": 210031,
       "word": "听到心墙就想起了内马尔",
@@ -6528,6 +6528,14 @@
       "word": "厄瓜多尔vs塞内加尔",
       "onboard_time": 1669731507,
       "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 189266,
+      "num": 112038,
+      "word": "突尼斯进球",
+      "onboard_time": 1669826352,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -7963,6 +7971,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 117567,
+      "num": 117567,
+      "word": "深圳一公园1只百余斤野猪被困",
+      "onboard_time": 1669825272,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 116954,
       "num": 116954,
       "word": "本届世界杯最快进球",
@@ -8259,14 +8275,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 91017,
-      "num": 91017,
-      "word": "深圳一公园1只百余斤野猪被困",
-      "onboard_time": 1669825272,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 88179,
       "num": 88179,
       "word": "起底核子基因",
@@ -8345,6 +8353,14 @@
       "onboard_time": 1669678464,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 53714,
+      "num": 53714,
+      "word": "长沙鼓励弹性上班远程办公",
+      "onboard_time": 1669826231,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 51917,
