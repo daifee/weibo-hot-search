@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1669826912394,
+  "endTime": 1669828713298,
   "band_list": [
     {
       "raw_hot": 1931721,
@@ -9,6 +9,14 @@
       "onboard_time": 1669821553,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1199361,
+      "num": 349910,
+      "word": "突尼斯vs法国",
+      "onboard_time": 1669819696,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 1085764,
@@ -59,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 585997,
+      "num": 296612,
+      "word": "35岁辣妈晒精致生活常被夸年轻",
+      "onboard_time": 1669824494,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 547615,
       "num": 440000,
       "word": "波兰vs阿根廷",
@@ -81,14 +97,6 @@
       "onboard_time": 1669799153,
       "rank": 1,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 458874,
-      "num": 349910,
-      "word": "突尼斯vs法国",
-      "onboard_time": 1669819696,
-      "rank": 11,
-      "category": "体育"
     },
     {
       "raw_hot": 422254,
@@ -139,14 +147,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 353379,
-      "num": 296612,
-      "word": "35岁辣妈晒精致生活常被夸年轻",
-      "onboard_time": 1669824494,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 346026,
       "num": 346026,
       "word": "江泽民同志治丧委员会名单",
@@ -187,6 +187,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 198298,
+      "num": 198298,
+      "word": "深圳一公园1只百余斤野猪被困",
+      "onboard_time": 1669825272,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 190146,
       "num": 190146,
       "word": "1岁萌娃坐透明电梯被吓到腿软",
@@ -196,7 +204,7 @@
     },
     {
       "raw_hot": 189266,
-      "num": 112038,
+      "num": 187664,
       "word": "突尼斯进球",
       "onboard_time": 1669826352,
       "rank": 30,
@@ -235,12 +243,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 147569,
+      "num": 83652,
+      "word": "长沙鼓励弹性上班远程办公",
+      "onboard_time": 1669826231,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 147405,
       "num": 147405,
       "word": "劳荣枝二哥仍不接受二审宣判结果",
       "onboard_time": 1669810876,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 145054,
+      "num": 145054,
+      "word": "澳大利亚vs丹麦",
+      "onboard_time": 1669819696,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 139730,
@@ -267,27 +291,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 126150,
-      "num": 126150,
-      "word": "澳大利亚vs丹麦",
-      "onboard_time": 1669819696,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 117961,
       "num": 117961,
       "word": "警方通报夫妻因楼上扰民强行破门打骂",
       "onboard_time": 1669805568,
       "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 117567,
-      "num": 117567,
-      "word": "深圳一公园1只百余斤野猪被困",
-      "onboard_time": 1669825272,
-      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -323,8 +331,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 100798,
-      "num": 100798,
+      "raw_hot": 101355,
+      "num": 101355,
       "word": "姆巴佩身价赶超C罗梅西",
       "onboard_time": 1669809704,
       "rank": 37,
@@ -387,6 +395,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 74772,
+      "num": 48411,
+      "word": "突尼斯卡塔尔世界杯首球",
+      "onboard_time": 1669828693,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 74367,
       "num": 74367,
       "word": "陪诊师真的月入上万吗",
@@ -411,12 +427,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 53714,
-      "num": 53714,
-      "word": "长沙鼓励弹性上班远程办公",
-      "onboard_time": 1669826231,
+      "raw_hot": 49268,
+      "num": 49268,
+      "word": "伊朗球员含泪向球迷道歉",
+      "onboard_time": 1669828151,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 47044,
+      "num": 47044,
+      "word": "沙特阿拉伯vs墨西哥",
+      "onboard_time": 1669821195,
       "rank": 49,
-      "category": "社会新闻"
+      "category": "体育"
     }
   ],
   "hotgov_list": [

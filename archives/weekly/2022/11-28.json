@@ -1,6 +1,6 @@
 {
   "startTime": 1669566398830,
-  "endTime": 1669826912394,
+  "endTime": 1669828713298,
   "band_list": [
     {
       "raw_hot": 71270277,
@@ -977,6 +977,14 @@
       "onboard_time": 1669639957,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1199361,
+      "num": 426160,
+      "word": "突尼斯vs法国",
+      "onboard_time": 1669795404,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 1197939,
@@ -2411,6 +2419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 585997,
+      "num": 296612,
+      "word": "35岁辣妈晒精致生活常被夸年轻",
+      "onboard_time": 1669824494,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 585382,
       "num": 585382,
       "word": "顾客点龙虾做标记上菜后发现被换",
@@ -3081,14 +3097,6 @@
       "onboard_time": 1669546300,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 458874,
-      "num": 426160,
-      "word": "突尼斯vs法国",
-      "onboard_time": 1669795404,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 457539,
@@ -4129,14 +4137,6 @@
       "onboard_time": 1669713395,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 353379,
-      "num": 296612,
-      "word": "35岁辣妈晒精致生活常被夸年轻",
-      "onboard_time": 1669824494,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 353319,
@@ -6259,6 +6259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 198298,
+      "num": 198298,
+      "word": "深圳一公园1只百余斤野猪被困",
+      "onboard_time": 1669825272,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 197811,
       "num": 197811,
       "word": "魔兽世界10.0上线",
@@ -6532,7 +6540,7 @@
     },
     {
       "raw_hot": 189266,
-      "num": 112038,
+      "num": 187664,
       "word": "突尼斯进球",
       "onboard_time": 1669826352,
       "rank": 30,
@@ -7459,6 +7467,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 147569,
+      "num": 83652,
+      "word": "长沙鼓励弹性上班远程办公",
+      "onboard_time": 1669826231,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 147441,
       "num": 147441,
       "word": "韩国教练是葡萄牙人",
@@ -7545,6 +7561,14 @@
       "onboard_time": 1669606177,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 145054,
+      "num": 145054,
+      "word": "澳大利亚vs丹麦",
+      "onboard_time": 1669800019,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 144758,
@@ -7883,14 +7907,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 126150,
-      "num": 126150,
-      "word": "澳大利亚vs丹麦",
-      "onboard_time": 1669800019,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 125436,
       "num": 125436,
       "word": "兰州通报核酸采样人员阳性",
@@ -7969,14 +7985,6 @@
       "onboard_time": 1669791632,
       "rank": 14,
       "category": "科技"
-    },
-    {
-      "raw_hot": 117567,
-      "num": 117567,
-      "word": "深圳一公园1只百余斤野猪被困",
-      "onboard_time": 1669825272,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 116954,
@@ -8323,6 +8331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 74772,
+      "num": 48411,
+      "word": "突尼斯卡塔尔世界杯首球",
+      "onboard_time": 1669828693,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 72257,
       "num": 72257,
       "word": "解说说加维是娃娃脸",
@@ -8355,19 +8371,19 @@
       "category": "影视"
     },
     {
-      "raw_hot": 53714,
-      "num": 53714,
-      "word": "长沙鼓励弹性上班远程办公",
-      "onboard_time": 1669826231,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 51917,
       "num": 51917,
       "word": "巴西球迷旗帜上写想你内马尔",
       "onboard_time": 1669664712,
       "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 49268,
+      "num": 49268,
+      "word": "伊朗球员含泪向球迷道歉",
+      "onboard_time": 1669828151,
+      "rank": 45,
       "category": "体育"
     },
     {
