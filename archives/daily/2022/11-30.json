@@ -1,6 +1,6 @@
 {
   "startTime": 1669739332504,
-  "endTime": 1669803727697,
+  "endTime": 1669804714539,
   "band_list": [
     {
       "raw_hot": 71270277,
@@ -355,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 890262,
+      "num": 890262,
+      "word": "北京大兴核酸检测最新要求",
+      "onboard_time": 1669801557,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 881870,
       "num": 881870,
       "word": "nabi品牌关联公司成立不足半年",
@@ -395,19 +403,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 770041,
-      "num": 431038,
-      "word": "北京大兴核酸检测最新要求",
-      "onboard_time": 1669801557,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 763030,
       "num": 763030,
       "word": "尿不湿放门口被工人当煤气灶偷走",
       "onboard_time": 1669781663,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 744138,
+      "num": 461071,
+      "word": "8000元1件羽绒服直播间仅卖800元",
+      "onboard_time": 1669801381,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -619,6 +627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 555593,
+      "num": 555593,
+      "word": "C罗即将加盟沙特豪门",
+      "onboard_time": 1669803229,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 554788,
       "num": 554788,
       "word": "荷兰2比0领先卡塔尔",
@@ -649,6 +665,14 @@
       "onboard_time": 1669771702,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 530199,
+      "num": 530199,
+      "word": "无锡一辆保时捷失控坠下高架桥",
+      "onboard_time": 1669798326,
+      "rank": 30,
+      "category": "社会负面"
     },
     {
       "raw_hot": 524245,
@@ -731,14 +755,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 488737,
-      "num": 488737,
-      "word": "无锡一辆保时捷失控坠下高架桥",
-      "onboard_time": 1669798326,
-      "rank": 30,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 466854,
       "num": 466854,
       "word": "全国下雪到成都只剩头皮雪",
@@ -769,14 +785,6 @@
       "onboard_time": 1669737028,
       "rank": 15,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 463925,
-      "num": 416613,
-      "word": "8000元1件羽绒服直播间仅卖800元",
-      "onboard_time": 1669801381,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 458429,
@@ -915,6 +923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 401421,
+      "num": 401421,
+      "word": "美国男子买300台iPhone出门遭打劫",
+      "onboard_time": 1669798098,
+      "rank": 45,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 400811,
       "num": 400811,
       "word": "公司临时毁约弃用毕业生被诉赔1万5",
@@ -1041,14 +1057,6 @@
       "onboard_time": 1669789881,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 344338,
-      "num": 344338,
-      "word": "美国男子买300台iPhone出门遭打劫",
-      "onboard_time": 1669798098,
-      "rank": 45,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 344245,
@@ -1179,6 +1187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 290472,
+      "num": 290472,
+      "word": "广州新增",
+      "onboard_time": 1669801202,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 288684,
       "num": 288684,
       "word": "波兰vs阿根廷",
@@ -1273,6 +1289,14 @@
       "onboard_time": 1669728985,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 253009,
+      "num": 253009,
+      "word": "阿根廷小组出线关键一战",
+      "onboard_time": 1669800849,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 251352,
@@ -1539,14 +1563,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 195678,
-      "num": 195678,
-      "word": "阿根廷小组出线关键一战",
-      "onboard_time": 1669800849,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 193841,
       "num": 193841,
       "word": "许凯虞书欣仙剑六宿命感",
@@ -1603,20 +1619,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 190267,
+      "num": 190267,
+      "word": "初冬的柿子和雪景太配了",
+      "onboard_time": 1669796125,
+      "rank": 43,
+      "category": "美食,旅游"
+    },
+    {
       "raw_hot": 189510,
       "num": 189510,
       "word": "白敬亭片场又当教练又当裁判",
       "onboard_time": 1669792343,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 189383,
-      "num": 189383,
-      "word": "初冬的柿子和雪景太配了",
-      "onboard_time": 1669796125,
-      "rank": 43,
-      "category": "美食,旅游"
     },
     {
       "raw_hot": 187117,
@@ -1691,6 +1707,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 175722,
+      "num": 175722,
+      "word": "客服回应网购蘸料碟吃饺子时掉色",
+      "onboard_time": 1669802091,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 174187,
       "num": 174187,
       "word": "李薇元英好哭",
@@ -1731,6 +1755,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 169443,
+      "num": 169443,
+      "word": "Rookie纪录片",
+      "onboard_time": 1669802116,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 167407,
       "num": 167407,
       "word": "出什么事都不影响许半夏吃饭",
@@ -1763,14 +1795,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 165774,
-      "num": 165774,
-      "word": "C罗即将加盟沙特豪门",
-      "onboard_time": 1669803229,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 165626,
       "num": 165626,
       "word": "圣斗士星矢真人电影先导预告",
@@ -1779,11 +1803,11 @@
       "category": "影视,动漫"
     },
     {
-      "raw_hot": 164362,
-      "num": 164362,
-      "word": "广州新增",
-      "onboard_time": 1669801202,
-      "rank": 35,
+      "raw_hot": 163930,
+      "num": 163930,
+      "word": "女子回应买走老人白菜被质疑摆拍",
+      "onboard_time": 1669803439,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -1809,6 +1833,14 @@
       "onboard_time": 1669734804,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 155709,
+      "num": 155709,
+      "word": "iPhone14Pro出货量预期下调20%",
+      "onboard_time": 1669797692,
+      "rank": 39,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 153202,
@@ -1875,6 +1907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 145527,
+      "num": 145527,
+      "word": "林书豪吐槽CBA赛区健身房",
+      "onboard_time": 1669803557,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 145464,
       "num": 145464,
       "word": "南京下雪",
@@ -1889,6 +1929,14 @@
       "onboard_time": 1669793428,
       "rank": 47,
       "category": "科技,国内要闻"
+    },
+    {
+      "raw_hot": 143207,
+      "num": 143207,
+      "word": "这才是记忆里的香葱肉松卷",
+      "onboard_time": 1669803439,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 143093,
@@ -1995,12 +2043,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 130927,
-      "num": 130927,
-      "word": "iPhone14Pro出货量预期下调20%",
-      "onboard_time": 1669797692,
-      "rank": 39,
-      "category": "科技,财经"
+      "raw_hot": 127468,
+      "num": 127468,
+      "word": "北京无社会面活动人员可不参加社区核酸筛查",
+      "onboard_time": 1669804637,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 124845,
@@ -2011,14 +2059,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 123619,
-      "num": 123619,
-      "word": "客服回应网购蘸料碟吃饺子时掉色",
-      "onboard_time": 1669802091,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 121424,
       "num": 121424,
       "word": "男子大白天闯入餐厅折树枝偷水果",
@@ -2027,28 +2067,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 118513,
-      "num": 118513,
-      "word": "林书豪吐槽CBA赛区健身房",
-      "onboard_time": 1669803557,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 117892,
       "num": 449290,
       "word": "小米13全系徕卡长焦",
       "onboard_time": 1669791632,
       "rank": 14,
       "category": "科技"
-    },
-    {
-      "raw_hot": 115557,
-      "num": 115557,
-      "word": "Rookie纪录片",
-      "onboard_time": 1669802116,
-      "rank": 43,
-      "category": "游戏"
     },
     {
       "raw_hot": 115553,
@@ -2083,20 +2107,20 @@
       "category": "科技"
     },
     {
+      "raw_hot": 114242,
+      "num": 114242,
+      "word": "旗舰店买到假添柏岚不给退只赔券",
+      "onboard_time": 1669803678,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 113432,
       "num": 113432,
       "word": "11月的最后一天",
       "onboard_time": 1669764140,
       "rank": 36,
       "category": "情感,社会新闻"
-    },
-    {
-      "raw_hot": 111083,
-      "num": 111083,
-      "word": "女子回应买走老人白菜被质疑摆拍",
-      "onboard_time": 1669803439,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 110616,
@@ -2115,12 +2139,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 109288,
-      "num": 109288,
-      "word": "这才是记忆里的香葱肉松卷",
-      "onboard_time": 1669803439,
-      "rank": 45,
-      "category": "美食"
+      "raw_hot": 109407,
+      "num": 109407,
+      "word": "15名C919飞行员取得资质",
+      "onboard_time": 1669804251,
+      "rank": 47,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 108752,
@@ -2145,6 +2169,22 @@
       "onboard_time": 1669789465,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 104845,
+      "num": 104845,
+      "word": "多地明确英语四六级考试延期",
+      "onboard_time": 1669802897,
+      "rank": 48,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 103870,
+      "num": 103870,
+      "word": "实验告诉你电动车起火有多可怕",
+      "onboard_time": 1669804219,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 103632,
@@ -2209,14 +2249,6 @@
       "onboard_time": 1669745476,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 86303,
-      "num": 86303,
-      "word": "旗舰店买到假添柏岚不给退只赔券",
-      "onboard_time": 1669803678,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 82025,
