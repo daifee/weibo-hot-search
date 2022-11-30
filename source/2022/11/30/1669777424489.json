@@ -1,0 +1,410 @@
+{
+  "runTime": 1669777424489,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1734096,
+        "num": 1734096,
+        "word": "仙剑六首发角色海报",
+        "onboard_time": 1669775662,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1633431,
+        "num": 1633431,
+        "word": "广州南站滞留",
+        "onboard_time": 1669771100,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163622,
+        "num": 1395351,
+        "word": "第九版防控方案和二十条措施热点问答",
+        "onboard_time": 1669739601,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1336053,
+        "num": 1336053,
+        "word": "卡塔尔花2200亿进一个球",
+        "onboard_time": 1669768760,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1031064,
+        "num": 1031064,
+        "word": "全国快递网点大面积停摆消息不实",
+        "onboard_time": 1669740864,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 978668,
+        "num": 978668,
+        "word": "考研房遇圣诞部分酒店价格暴涨",
+        "onboard_time": 1669772600,
+        "rank": 5,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 921201,
+        "num": 921201,
+        "word": "95后四小生名单",
+        "onboard_time": 1669776262,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 894822,
+        "num": 894822,
+        "word": "上海下雪",
+        "onboard_time": 1669772841,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 611544,
+        "num": 611544,
+        "word": "无限暖暖",
+        "onboard_time": 1669775482,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 594702,
+        "num": 594702,
+        "word": "星河长明开播",
+        "onboard_time": 1669773920,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1209705,
+        "num": 594345,
+        "word": "劳荣枝二审死刑",
+        "onboard_time": 1669776681,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 592453,
+        "num": 592453,
+        "word": "90后夫妻带3个孩子入住毛坯房",
+        "onboard_time": 1669771341,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 543232,
+        "num": 543232,
+        "word": "宋宁峰没有怪撞死母亲的人",
+        "onboard_time": 1669767683,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 542362,
+        "num": 542362,
+        "word": "世界杯16强对阵",
+        "onboard_time": 1669771280,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 535747,
+        "num": 535747,
+        "word": "北京疫情防控",
+        "onboard_time": 1669771702,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 516249,
+        "num": 516249,
+        "word": "卡塔尔小王子入驻微博",
+        "onboard_time": 1669763541,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 505226,
+        "num": 505226,
+        "word": "广东发现全球新物种",
+        "onboard_time": 1669775362,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 500093,
+        "num": 500093,
+        "word": "欧阳娜娜品牌988元浴袍成本不足百元",
+        "onboard_time": 1669731687,
+        "rank": 17,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 474550,
+        "num": 474550,
+        "word": "街道办回应网传核酸检测样本被丢弃",
+        "onboard_time": 1669771639,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 410902,
+        "num": 410902,
+        "word": "杨紫贺顿戴小熊面具vlog",
+        "onboard_time": 1669776681,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 403766,
+        "num": 403766,
+        "word": "美国队员安慰伊朗队员",
+        "onboard_time": 1669765940,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 400856,
+        "num": 400856,
+        "word": "广州动态调整强化社会面防控措施",
+        "onboard_time": 1669769662,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368533,
+        "num": 368533,
+        "word": "老人养的鸭子被投毒损失十几万",
+        "onboard_time": 1669772901,
+        "rank": 22,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 365066,
+        "num": 365066,
+        "word": "年轻人不爱吃辣条了吗",
+        "onboard_time": 1669768519,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 351008,
+        "num": 351008,
+        "word": "李一桐将不再出演武庚纪",
+        "onboard_time": 1669734326,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 344892,
+        "num": 344892,
+        "word": "关晓彤喜欢在闹市里面养老",
+        "onboard_time": 1669773319,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 328634,
+        "num": 328634,
+        "word": "记者实测食用橘子后做核酸",
+        "onboard_time": 1669731387,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311896,
+        "num": 311896,
+        "word": "nabi品牌关联公司成立不足半年",
+        "onboard_time": 1669775482,
+        "rank": 27,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 290562,
+        "num": 290562,
+        "word": "公司临时毁约弃用毕业生被诉赔1万5",
+        "onboard_time": 1669775063,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257025,
+        "num": 257025,
+        "word": "世界杯历史首位女主裁",
+        "onboard_time": 1669769901,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 234045,
+        "num": 234045,
+        "word": "今年已有5家核酸企业IPO过会",
+        "onboard_time": 1669765702,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230926,
+        "num": 230926,
+        "word": "武汉下雪",
+        "onboard_time": 1669770979,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221718,
+        "num": 221718,
+        "word": "6名航天员将一起吃早饭",
+        "onboard_time": 1669772241,
+        "rank": 32,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 213920,
+        "num": 213920,
+        "word": "伊朗0比1美国",
+        "onboard_time": 1669763900,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211968,
+        "num": 211968,
+        "word": "中国茶申遗成功",
+        "onboard_time": 1669764441,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208533,
+        "num": 208533,
+        "word": "方向盘套广告语被指侮辱女性",
+        "onboard_time": 1669733487,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202759,
+        "num": 202759,
+        "word": "胡彦斌分析感情里不爱的人一针见血",
+        "onboard_time": 1669775541,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195322,
+        "num": 195322,
+        "word": "女子袜子掉色染黑脚趾8天不褪色",
+        "onboard_time": 1669775601,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192968,
+        "num": 192968,
+        "word": "杭州今冬初雪",
+        "onboard_time": 1669772600,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191897,
+        "num": 191897,
+        "word": "上网课忘关摄像头了",
+        "onboard_time": 1669735046,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 189204,
+        "num": 189204,
+        "word": "曾驰援武汉的大葱哥急需帮助",
+        "onboard_time": 1669765760,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187112,
+        "num": 187112,
+        "word": "劳荣枝上诉被驳回",
+        "onboard_time": 1669777342,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182000,
+        "num": 182000,
+        "word": "考生因紧张抽搐监考老师教科书式救回",
+        "onboard_time": 1669776982,
+        "rank": 42,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 179707,
+        "num": 179707,
+        "word": "吃橘子会变阳你真是多虑了",
+        "onboard_time": 1669741161,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177226,
+        "num": 177226,
+        "word": "王鹤棣陈飞宇你俩去演鬼怪吧",
+        "onboard_time": 1669747873,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 176623,
+        "num": 176623,
+        "word": "接亲现场飞来一只蝴蝶盘旋新郎身边",
+        "onboard_time": 1669777158,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173533,
+        "num": 173533,
+        "word": "原来兔兔也会不开心",
+        "onboard_time": 1669771827,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 197061,
+        "num": 173403,
+        "word": "肖战两部剧获观众喜爱作品",
+        "onboard_time": 1669768224,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 169249,
+        "num": 169249,
+        "word": "梅西已8年不喝汽水不吃披萨",
+        "onboard_time": 1669734326,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164901,
+        "num": 164901,
+        "word": "北京新增风险点汇总",
+        "onboard_time": 1669770441,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#航天新征程#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1669739332504,
-  "endTime": 1669776778879,
+  "endTime": 1669777424489,
   "band_list": [
     {
       "raw_hot": 2756631,
@@ -25,6 +25,14 @@
       "onboard_time": 1669771100,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1734096,
+      "num": 1734096,
+      "word": "仙剑六首发角色海报",
+      "onboard_time": 1669775662,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 1717675,
@@ -67,6 +75,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1209705,
+      "num": 594345,
+      "word": "劳荣枝二审死刑",
+      "onboard_time": 1669776681,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1168748,
       "num": 1168748,
       "word": "美国队员安慰伊朗队员",
@@ -107,14 +123,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1017593,
-      "num": 1017593,
-      "word": "仙剑六首发角色海报",
-      "onboard_time": 1669775662,
-      "rank": 5,
-      "category": "影视"
-    },
-    {
       "raw_hot": 997167,
       "num": 997167,
       "word": "考研房遇圣诞部分酒店价格暴涨",
@@ -145,6 +153,14 @@
       "onboard_time": 1669767683,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 921201,
+      "num": 921201,
+      "word": "95后四小生名单",
+      "onboard_time": 1669776262,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 855290,
@@ -211,8 +227,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 593086,
-      "num": 593086,
+      "raw_hot": 611544,
+      "num": 611544,
+      "word": "无限暖暖",
+      "onboard_time": 1669775482,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 594702,
+      "num": 594702,
       "word": "星河长明开播",
       "onboard_time": 1669773920,
       "rank": 48,
@@ -259,14 +283,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 514141,
-      "num": 514141,
-      "word": "95后四小生名单",
-      "onboard_time": 1669776262,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 512947,
       "num": 1582366,
       "word": "第九版防控方案和二十条措施热点问答",
@@ -291,6 +307,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 505226,
+      "num": 505226,
+      "word": "广东发现全球新物种",
+      "onboard_time": 1669775362,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 497076,
       "num": 497076,
       "word": "男子出轨后开车撞妻子被女儿拦下",
@@ -305,14 +329,6 @@
       "onboard_time": 1669738762,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 486803,
-      "num": 486803,
-      "word": "无限暖暖",
-      "onboard_time": 1669775482,
-      "rank": 18,
-      "category": "游戏"
     },
     {
       "raw_hot": 466108,
@@ -483,14 +499,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 326219,
-      "num": 326219,
-      "word": "广东发现全球新物种",
-      "onboard_time": 1669775362,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 321978,
       "num": 321978,
       "word": "荷兰1比0卡塔尔",
@@ -507,6 +515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 311896,
+      "num": 311896,
+      "word": "nabi品牌关联公司成立不足半年",
+      "onboard_time": 1669775482,
+      "rank": 27,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 309149,
       "num": 309149,
       "word": "葡萄牙足协证明进球属于C罗",
@@ -521,6 +537,14 @@
       "onboard_time": 1669746616,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 290562,
+      "num": 290562,
+      "word": "公司临时毁约弃用毕业生被诉赔1万5",
+      "onboard_time": 1669775063,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 290554,
@@ -707,14 +731,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 198989,
-      "num": 198989,
-      "word": "劳荣枝二审死刑",
-      "onboard_time": 1669776681,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 196865,
       "num": 196865,
       "word": "尹峥尹嵩原生家庭",
@@ -723,11 +739,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 194093,
-      "num": 194093,
-      "word": "公司临时毁约弃用毕业生被诉赔1万5",
-      "onboard_time": 1669775063,
-      "rank": 40,
+      "raw_hot": 195322,
+      "num": 195322,
+      "word": "女子袜子掉色染黑脚趾8天不褪色",
+      "onboard_time": 1669775601,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -771,12 +787,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 187112,
+      "num": 187112,
+      "word": "劳荣枝上诉被驳回",
+      "onboard_time": 1669777342,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 184055,
       "num": 184055,
       "word": "马嘉祺我们的歌盛典唱孤独颂预告",
       "onboard_time": 1669775001,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 182000,
+      "num": 182000,
+      "word": "考生因紧张抽搐监考老师教科书式救回",
+      "onboard_time": 1669776982,
+      "rank": 42,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 176623,
+      "num": 176623,
+      "word": "接亲现场飞来一只蝴蝶盘旋新郎身边",
+      "onboard_time": 1669777158,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 175725,
@@ -841,14 +881,6 @@
       "onboard_time": 1669770681,
       "rank": 44,
       "category": "影视,动漫"
-    },
-    {
-      "raw_hot": 157693,
-      "num": 157693,
-      "word": "女子袜子掉色染黑脚趾8天不褪色",
-      "onboard_time": 1669775601,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 155714,
