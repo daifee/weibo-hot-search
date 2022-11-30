@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1669835790704,
+  "endTime": 1669836789923,
   "band_list": [
     {
       "raw_hot": 1931721,
@@ -355,6 +355,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 104922,
+      "num": 78754,
+      "word": "突尼斯1比0法国",
+      "onboard_time": 1669828991,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 103907,
       "num": 103907,
       "word": "突尼斯半场0比0法国",
@@ -376,14 +384,6 @@
       "word": "澳大利亚成首支出线的亚足联球队",
       "onboard_time": 1669830311,
       "rank": 31,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 99517,
-      "num": 78754,
-      "word": "突尼斯1比0法国",
-      "onboard_time": 1669828991,
-      "rank": 28,
       "category": "体育"
     },
     {
