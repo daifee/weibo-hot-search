@@ -1,6 +1,6 @@
 {
   "startTime": 1669566398830,
-  "endTime": 1669819072829,
+  "endTime": 1669821710483,
   "band_list": [
     {
       "raw_hot": 71270277,
@@ -971,6 +971,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1190648,
+      "num": 837076,
+      "word": "重庆中心城区将逐步放开",
+      "onboard_time": 1669818917,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1188696,
       "num": 1188696,
       "word": "难听",
@@ -985,6 +993,14 @@
       "onboard_time": 1669613915,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1185487,
+      "num": 836424,
+      "word": "核酸机构疑传授造假警方已抓人",
+      "onboard_time": 1669818735,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1169159,
@@ -1147,8 +1163,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 1029565,
-      "num": 182773,
+      "raw_hot": 1031113,
+      "num": 625158,
       "word": "广州出发火车票瞬时搜索量增2.5倍",
       "onboard_time": 1669816695,
       "rank": 30,
@@ -1563,6 +1579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 798863,
+      "num": 798863,
+      "word": "郑州人的生活回来了",
+      "onboard_time": 1669816394,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 795900,
       "num": 795900,
       "word": "郑州30日凌晨起出行要求有变",
@@ -1592,6 +1616,14 @@
       "word": "乌市对低收入者给予300元一次性生活救助",
       "onboard_time": 1669701755,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 783216,
+      "num": 783216,
+      "word": "专家称居家隔离可缓解床位紧张难题",
+      "onboard_time": 1669817836,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -1755,20 +1787,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 729840,
-      "num": 729840,
-      "word": "郑州人的生活回来了",
-      "onboard_time": 1669816394,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 729686,
       "num": 606588,
       "word": "张婧仪和她的三个伴舞",
       "onboard_time": 1669687471,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 728377,
+      "num": 728377,
+      "word": "图95",
+      "onboard_time": 1669818495,
+      "rank": 19,
+      "category": "军事"
     },
     {
       "raw_hot": 724359,
@@ -2193,6 +2225,14 @@
       "onboard_time": 1669800964,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 612648,
+      "num": 177400,
+      "word": "女生买500根一盒棉签数后少88根",
+      "onboard_time": 1669820475,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 609834,
@@ -3235,6 +3275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 432254,
+      "num": 432254,
+      "word": "中俄两军组织实施联合空中战略巡航",
+      "onboard_time": 1669816421,
+      "rank": 31,
+      "category": "军事"
+    },
+    {
       "raw_hot": 431496,
       "num": 431496,
       "word": "男子对泉水喊一声水瞬间消失",
@@ -3273,6 +3321,14 @@
       "onboard_time": 1669613854,
       "rank": 17,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 426160,
+      "num": 426160,
+      "word": "突尼斯vs法国",
+      "onboard_time": 1669795404,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 424259,
@@ -3491,6 +3547,14 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 402475,
+      "num": 402475,
+      "word": "妈妈误把过期泡脚包当茶包煮蛋",
+      "onboard_time": 1669820620,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 401900,
       "num": 401900,
       "word": "杨幂模仿羊幂表情包",
@@ -3545,6 +3609,14 @@
       "onboard_time": 1669707516,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 397863,
+      "num": 397863,
+      "word": "净水器水管接反全家喝了一年废水",
+      "onboard_time": 1669820176,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 396671,
@@ -3633,6 +3705,14 @@
       "onboard_time": 1669768040,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 386553,
+      "num": 386553,
+      "word": "波兰vs阿根廷",
+      "onboard_time": 1669787304,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 385922,
@@ -3753,14 +3833,6 @@
       "onboard_time": 1669643798,
       "rank": 22,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 374848,
-      "num": 374848,
-      "word": "中俄两军组织实施联合空中战略巡航",
-      "onboard_time": 1669816421,
-      "rank": 31,
-      "category": "军事"
     },
     {
       "raw_hot": 373956,
@@ -4563,14 +4635,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 315583,
-      "num": 315583,
-      "word": "专家称居家隔离可缓解床位紧张难题",
-      "onboard_time": 1669817836,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 315121,
       "num": 303721,
       "word": "于正追风吹半夏追到凌晨四点",
@@ -4891,14 +4955,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 288684,
-      "num": 288684,
-      "word": "波兰vs阿根廷",
-      "onboard_time": 1669787304,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 288344,
       "num": 233101,
       "word": "风吹半夏机油是用藕粉做的",
@@ -5209,14 +5265,6 @@
       "onboard_time": 1669649917,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 264786,
-      "num": 264786,
-      "word": "图95",
-      "onboard_time": 1669818495,
-      "rank": 19,
-      "category": "军事"
     },
     {
       "raw_hot": 264412,
@@ -6179,6 +6227,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 197760,
+      "num": 175486,
+      "word": "梅西重新定义人墙",
+      "onboard_time": 1669809737,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 196922,
       "num": 196922,
       "word": "尹嵩被废黜流放",
@@ -6643,6 +6699,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 180177,
+      "num": 180177,
+      "word": "深圳核酸",
+      "onboard_time": 1669821553,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 179127,
       "num": 179127,
       "word": "父亲保持耐心反复辅导女儿作业",
@@ -6697,14 +6761,6 @@
       "onboard_time": 1669776199,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 175486,
-      "num": 175486,
-      "word": "梅西重新定义人墙",
-      "onboard_time": 1669809737,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 174906,
@@ -7275,6 +7331,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 152295,
+      "num": 152295,
+      "word": "真存在不扰民的居家活动吗",
+      "onboard_time": 1669820594,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 151592,
       "num": 151592,
       "word": "云南昭通一中学大课间炫爆了",
@@ -7691,14 +7755,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 135526,
-      "num": 135526,
-      "word": "核酸机构疑传授造假警方已抓人",
-      "onboard_time": 1669818735,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 135157,
       "num": 135157,
       "word": "旗舰店买到假添柏岚不给退只赔券",
@@ -7729,6 +7785,14 @@
       "onboard_time": 1669745777,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 131645,
+      "num": 131645,
+      "word": "姆巴佩未首发对战突尼斯",
+      "onboard_time": 1669821437,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 131594,
@@ -7795,20 +7859,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 124845,
-      "num": 124845,
-      "word": "突尼斯vs法国",
-      "onboard_time": 1669795404,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 124786,
       "num": 124786,
       "word": "费俊龙保持体重17年没变过",
       "onboard_time": 1669617691,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 123210,
+      "num": 123210,
+      "word": "沙特阿拉伯vs墨西哥",
+      "onboard_time": 1669821195,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 123184,
@@ -7875,12 +7939,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 116500,
-      "num": 116500,
-      "word": "重庆中心城区将逐步放开",
-      "onboard_time": 1669818917,
-      "rank": 41,
-      "category": "社会新闻"
+      "raw_hot": 116260,
+      "num": 116260,
+      "word": "澳大利亚vs丹麦",
+      "onboard_time": 1669800019,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 115553,
@@ -7897,14 +7961,6 @@
       "onboard_time": 1669789403,
       "rank": 44,
       "category": "游戏,体育"
-    },
-    {
-      "raw_hot": 115094,
-      "num": 115094,
-      "word": "澳大利亚vs丹麦",
-      "onboard_time": 1669800019,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 115089,
