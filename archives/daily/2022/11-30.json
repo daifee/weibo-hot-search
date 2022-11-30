@@ -1,7 +1,15 @@
 {
   "startTime": 1669739332504,
-  "endTime": 1669793616896,
+  "endTime": 1669796760341,
   "band_list": [
+    {
+      "raw_hot": 5187465,
+      "num": 5187465,
+      "word": "广州多区宣布解除疫情防控临时管控区",
+      "onboard_time": 1669792524,
+      "rank": 10,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 3743885,
       "num": 3743885,
@@ -57,14 +65,6 @@
       "onboard_time": 1669775662,
       "rank": 5,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1921422,
-      "num": 1921422,
-      "word": "广州多区宣布解除疫情防控临时管控区",
-      "onboard_time": 1669792524,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1828397,
@@ -179,6 +179,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1197933,
+      "num": 1197933,
+      "word": "WE彻底疯狂",
+      "onboard_time": 1669794204,
+      "rank": 3,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 1171763,
+      "num": 1171763,
+      "word": "孩子捡回来1只螳螂暖气来了变1窝",
+      "onboard_time": 1669793726,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1168748,
       "num": 1168748,
       "word": "美国队员安慰伊朗队员",
@@ -243,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 936830,
+      "num": 2393556,
+      "word": "各地最新疫情防控举措速览",
+      "onboard_time": 1669790662,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 928958,
       "num": 928958,
       "word": "卫龙半年亏损2.61亿",
@@ -257,6 +281,22 @@
       "onboard_time": 1669767683,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 917934,
+      "num": 917934,
+      "word": "广州发布会",
+      "onboard_time": 1669792884,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 901650,
+      "num": 901650,
+      "word": "95后四小花名单",
+      "onboard_time": 1669792705,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 881870,
@@ -291,19 +331,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 813329,
-      "num": 813329,
-      "word": "95后四小花名单",
-      "onboard_time": 1669792705,
-      "rank": 8,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 763030,
       "num": 763030,
       "word": "尿不湿放门口被工人当煤气灶偷走",
       "onboard_time": 1669781663,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 747441,
+      "num": 747441,
+      "word": "丈夫吸烟近50年夫妻同患肺癌",
+      "onboard_time": 1669793242,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -321,6 +361,14 @@
       "onboard_time": 1669768519,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 718659,
+      "num": 718659,
+      "word": "韩媒称裁判偏袒C罗",
+      "onboard_time": 1669792524,
+      "rank": 44,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 712253,
@@ -403,12 +451,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 622029,
-      "num": 2393556,
-      "word": "各地最新疫情防控举措速览",
-      "onboard_time": 1669790662,
-      "rank": 2,
-      "category": "国内要闻"
+      "raw_hot": 623317,
+      "num": 623317,
+      "word": "上网课吸猫发现没关麦",
+      "onboard_time": 1669792646,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 619542,
@@ -619,20 +667,20 @@
       "category": "体育,幽默"
     },
     {
-      "raw_hot": 448832,
-      "num": 448832,
-      "word": "广州发布会",
-      "onboard_time": 1669792884,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 447882,
       "num": 447882,
       "word": "突然就消除了对鬼的恐惧",
       "onboard_time": 1669727785,
       "rank": 16,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 445717,
+      "num": 445717,
+      "word": "卡塔尔人均财富880万元",
+      "onboard_time": 1669794744,
+      "rank": 16,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 443959,
@@ -803,6 +851,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 366342,
+      "num": 366342,
+      "word": "劳荣枝对二审死刑表示不服",
+      "onboard_time": 1669794084,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 365064,
       "num": 365064,
       "word": "吃橘子会变阳你真是多虑了",
@@ -859,6 +915,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 342893,
+      "num": 342893,
+      "word": "Hero晋级世冠小组赛",
+      "onboard_time": 1669795345,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 331999,
       "num": 331999,
       "word": "厄瓜多尔球员哭了",
@@ -889,14 +953,6 @@
       "onboard_time": 1669781784,
       "rank": 27,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 322044,
-      "num": 322044,
-      "word": "上网课吸猫发现没关麦",
-      "onboard_time": 1669792646,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 321978,
@@ -939,12 +995,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 301255,
+      "num": 301255,
+      "word": "MAMA",
+      "onboard_time": 1669793904,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 299371,
       "num": 299371,
       "word": "真不给卡塔尔留面子",
       "onboard_time": 1669746616,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 296070,
+      "num": 296070,
+      "word": "学医前后的颜值变化",
+      "onboard_time": 1669792463,
+      "rank": 42,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 290554,
@@ -963,6 +1035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 283695,
+      "num": 283695,
+      "word": "何洛洛是来拿实习证明的",
+      "onboard_time": 1669796004,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 282184,
       "num": 282184,
       "word": "原来猫咪也会眼神杀",
@@ -979,12 +1059,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 274550,
-      "num": 274550,
-      "word": "韩媒称裁判偏袒C罗",
-      "onboard_time": 1669792524,
-      "rank": 44,
-      "category": "体育,社会新闻"
+      "raw_hot": 271791,
+      "num": 238467,
+      "word": "核子基因厦门公司被列为经营异常",
+      "onboard_time": 1669796004,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 271412,
@@ -1001,6 +1081,14 @@
       "onboard_time": 1669736848,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 267815,
+      "num": 267815,
+      "word": "毛豆和杨超越合影好快乐啊",
+      "onboard_time": 1669794744,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 263722,
@@ -1033,6 +1121,22 @@
       "onboard_time": 1669728985,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 251352,
+      "num": 251352,
+      "word": "newjeans的MAMA红毯新闻图",
+      "onboard_time": 1669795283,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 249739,
+      "num": 249739,
+      "word": "朴信惠朴炯植将合作新剧",
+      "onboard_time": 1669795762,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 249010,
@@ -1089,14 +1193,6 @@
       "onboard_time": 1669756333,
       "rank": 10,
       "category": "体育"
-    },
-    {
-      "raw_hot": 231817,
-      "num": 219998,
-      "word": "学医前后的颜值变化",
-      "onboard_time": 1669792463,
-      "rank": 42,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 231166,
@@ -1177,6 +1273,14 @@
       "onboard_time": 1669789881,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 215266,
+      "num": 215266,
+      "word": "广州海珠宣布密接可居家隔离",
+      "onboard_time": 1669796485,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 214030,
@@ -1273,6 +1377,14 @@
       "onboard_time": 1669738643,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 198474,
+      "num": 198474,
+      "word": "高中生收取外送食物被退学处分已取消",
+      "onboard_time": 1669796185,
+      "rank": 35,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 196865,
@@ -1403,6 +1515,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 181241,
+      "num": 181241,
+      "word": "一人之下5动画定档",
+      "onboard_time": 1669795465,
+      "rank": 40,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 176623,
       "num": 176623,
       "word": "接亲现场飞来一只蝴蝶盘旋新郎身边",
@@ -1451,6 +1571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 170625,
+      "num": 170625,
+      "word": "初冬的柿子和雪景太配了",
+      "onboard_time": 1669796125,
+      "rank": 43,
+      "category": "美食,旅游"
+    },
+    {
       "raw_hot": 167407,
       "num": 167407,
       "word": "出什么事都不影响许半夏吃饭",
@@ -1491,20 +1619,20 @@
       "category": "影视,动漫"
     },
     {
-      "raw_hot": 164181,
-      "num": 164181,
-      "word": "丈夫吸烟近50年夫妻同患肺癌",
-      "onboard_time": 1669793242,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 163339,
       "num": 163339,
       "word": "这只猫是懂躲猫猫的",
       "onboard_time": 1669793483,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 160603,
+      "num": 160603,
+      "word": "白敬亭卿卿日常开机一周年",
+      "onboard_time": 1669794084,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 155714,
@@ -1603,12 +1731,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 143027,
+      "num": 143027,
+      "word": "这花店是懂浪漫的",
+      "onboard_time": 1669796361,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 141300,
       "num": 141300,
       "word": "荷兰2比0卡塔尔",
       "onboard_time": 1669763601,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 140935,
+      "num": 140935,
+      "word": "大叔为保护候鸟记了30年手账",
+      "onboard_time": 1669796666,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 140675,
