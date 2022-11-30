@@ -1,0 +1,410 @@
+{
+  "runTime": 1669779733462,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3379034,
+        "num": 3379034,
+        "word": "劳荣枝二审死刑",
+        "onboard_time": 1669776681,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1748313,
+        "num": 1748313,
+        "word": "仙剑六首发角色海报",
+        "onboard_time": 1669775662,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 192642,
+        "num": 1431174,
+        "word": "第九版防控方案和二十条措施热点问答",
+        "onboard_time": 1669739601,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1236147,
+        "num": 1236147,
+        "word": "95后四小生名单",
+        "onboard_time": 1669776262,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1102484,
+        "num": 1102484,
+        "word": "卡塔尔花2200亿进一个球",
+        "onboard_time": 1669768760,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 881870,
+        "num": 881870,
+        "word": "nabi品牌关联公司成立不足半年",
+        "onboard_time": 1669775482,
+        "rank": 5,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 849266,
+        "num": 849266,
+        "word": "广州南站滞留",
+        "onboard_time": 1669771100,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 744573,
+        "num": 744573,
+        "word": "全国快递网点大面积停摆消息不实",
+        "onboard_time": 1669740864,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 710141,
+        "num": 710141,
+        "word": "考生因紧张抽搐监考老师教科书式救回",
+        "onboard_time": 1669776982,
+        "rank": 8,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 694841,
+        "num": 694841,
+        "word": "女子吃辣被呛咳断4根肋骨",
+        "onboard_time": 1669777824,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1261477,
+        "num": 687866,
+        "word": "王一栩发文力挺李一桐",
+        "onboard_time": 1669779262,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 679502,
+        "num": 679502,
+        "word": "广东发现全球新物种",
+        "onboard_time": 1669775362,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 615002,
+        "num": 615002,
+        "word": "无限暖暖",
+        "onboard_time": 1669775482,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 613500,
+        "num": 613500,
+        "word": "考研房遇圣诞部分酒店价格暴涨",
+        "onboard_time": 1669772600,
+        "rank": 13,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 556623,
+        "num": 556623,
+        "word": "上海下雪",
+        "onboard_time": 1669772841,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 456307,
+        "num": 456307,
+        "word": "北京昨增本土确诊1282例",
+        "onboard_time": 1669777641,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 440426,
+        "num": 440426,
+        "word": "世界杯16强对阵",
+        "onboard_time": 1669771280,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 422205,
+        "num": 422205,
+        "word": "星河长明开播",
+        "onboard_time": 1669773920,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 411175,
+        "num": 411175,
+        "word": "卡塔尔小王子入驻微博",
+        "onboard_time": 1669763541,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 400811,
+        "num": 400811,
+        "word": "公司临时毁约弃用毕业生被诉赔1万5",
+        "onboard_time": 1669775063,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 396439,
+        "num": 396439,
+        "word": "欧阳娜娜品牌988元浴袍成本不足百元",
+        "onboard_time": 1669731687,
+        "rank": 20,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 391720,
+        "num": 391720,
+        "word": "90后夫妻带3个孩子入住毛坯房",
+        "onboard_time": 1669771341,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 355340,
+        "num": 355340,
+        "word": "女子袜子掉色染黑脚趾8天不褪色",
+        "onboard_time": 1669775601,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321006,
+        "num": 321006,
+        "word": "宋宁峰没有怪撞死母亲的人",
+        "onboard_time": 1669767683,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 308670,
+        "num": 308670,
+        "word": "年轻人不爱吃辣条了吗",
+        "onboard_time": 1669768519,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300719,
+        "num": 300719,
+        "word": "美国队员安慰伊朗队员",
+        "onboard_time": 1669765940,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 296176,
+        "num": 296176,
+        "word": "老人养的鸭子被投毒损失十几万",
+        "onboard_time": 1669772901,
+        "rank": 26,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 274622,
+        "num": 274622,
+        "word": "王鹤棣陈飞宇你俩去演鬼怪吧",
+        "onboard_time": 1669747873,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 254507,
+        "num": 254507,
+        "word": "广州动态调整强化社会面防控措施",
+        "onboard_time": 1669769662,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251856,
+        "num": 251856,
+        "word": "街道办回应网传核酸检测样本被丢弃",
+        "onboard_time": 1669771639,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 373956,
+        "num": 244039,
+        "word": "肖战冬日寻光花絮视频",
+        "onboard_time": 1669779502,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 364505,
+        "num": 241943,
+        "word": "郎朗是内马尔的钢琴老师",
+        "onboard_time": 1669779442,
+        "rank": 31,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 255529,
+        "num": 237417,
+        "word": "冯绍峰问什么班还需要朕亲自来上",
+        "onboard_time": 1669779262,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 232102,
+        "num": 232102,
+        "word": "记者实测食用橘子后做核酸",
+        "onboard_time": 1669731387,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229358,
+        "num": 229358,
+        "word": "关晓彤喜欢在闹市里面养老",
+        "onboard_time": 1669773319,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216400,
+        "num": 216400,
+        "word": "北京疫情防控",
+        "onboard_time": 1669771702,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213184,
+        "num": 213184,
+        "word": "东北男子用碗接霰像接大米",
+        "onboard_time": 1669777942,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199201,
+        "num": 199201,
+        "word": "不期而至加更大结局",
+        "onboard_time": 1669779203,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 193841,
+        "num": 193841,
+        "word": "许凯虞书欣仙剑六宿命感",
+        "onboard_time": 1669778600,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 192890,
+        "num": 192890,
+        "word": "6名航天员将一起吃早饭",
+        "onboard_time": 1669772241,
+        "rank": 39,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 184622,
+        "num": 184622,
+        "word": "胡彦斌分析感情里不爱的人一针见血",
+        "onboard_time": 1669775541,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170388,
+        "num": 170388,
+        "word": "张杰呼吁大家关注消防安全",
+        "onboard_time": 1669779442,
+        "rank": 41,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 166730,
+        "num": 166730,
+        "word": "中国茶申遗成功",
+        "onboard_time": 1669764441,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163381,
+        "num": 163381,
+        "word": "今年已有5家核酸企业IPO过会",
+        "onboard_time": 1669765702,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153898,
+        "num": 153898,
+        "word": "福建一女子为丈夫3年连剖3胎",
+        "onboard_time": 1669779626,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152717,
+        "num": 152717,
+        "word": "原来猫咪也会眼神杀",
+        "onboard_time": 1669778902,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 151278,
+        "num": 151278,
+        "word": "世界杯历史首位女主裁",
+        "onboard_time": 1669769901,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161268,
+        "num": 150607,
+        "word": "李峋不敢抱朱韵的原因",
+        "onboard_time": 1669779682,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 147847,
+        "num": 147847,
+        "word": "伊朗0比1美国",
+        "onboard_time": 1669763900,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144894,
+        "num": 144894,
+        "word": "武汉下雪",
+        "onboard_time": 1669770979,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#航天新征程#"
+    }
+  }
+}
