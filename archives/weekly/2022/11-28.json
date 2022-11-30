@@ -1,6 +1,6 @@
 {
   "startTime": 1669566398830,
-  "endTime": 1669840553235,
+  "endTime": 1669843080870,
   "band_list": [
     {
       "raw_hot": 71270277,
@@ -1299,6 +1299,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 958257,
+      "num": 33802,
+      "word": "梅西错失点球",
+      "onboard_time": 1669838468,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 947561,
       "num": 947561,
       "word": "为什么每次都是BBC在现场出问题",
@@ -1841,6 +1849,14 @@
       "onboard_time": 1669631615,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 723439,
+      "num": 677114,
+      "word": "波兰vs阿根廷",
+      "onboard_time": 1669787304,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 720565,
@@ -2579,14 +2595,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 547615,
-      "num": 677114,
-      "word": "波兰vs阿根廷",
-      "onboard_time": 1669787304,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 545243,
       "num": 270514,
       "word": "肖战晒live图说雨夜和火锅很配",
@@ -2801,14 +2809,6 @@
       "onboard_time": 1669609059,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 498368,
-      "num": 33802,
-      "word": "梅西错失点球",
-      "onboard_time": 1669838468,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 497936,
@@ -4931,6 +4931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 294817,
+      "num": 30347,
+      "word": "波兰0比2阿根廷",
+      "onboard_time": 1669842429,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 293137,
       "num": 293137,
       "word": "90后女孩车祸失去右眼如今成义眼师",
@@ -6587,6 +6595,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 187721,
+      "num": 123210,
+      "word": "沙特阿拉伯vs墨西哥",
+      "onboard_time": 1669821195,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 187649,
       "num": 187649,
       "word": "越位",
@@ -7508,7 +7524,7 @@
     },
     {
       "raw_hot": 147739,
-      "num": 20721,
+      "num": 23058,
       "word": "麦卡利斯特破门",
       "onboard_time": 1669839727,
       "rank": 30,
@@ -7987,11 +8003,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 123210,
-      "num": 123210,
-      "word": "沙特阿拉伯vs墨西哥",
-      "onboard_time": 1669821195,
-      "rank": 47,
+      "raw_hot": 123898,
+      "num": 30340,
+      "word": "阿尔瓦雷斯破门",
+      "onboard_time": 1669841047,
+      "rank": 10,
       "category": "体育"
     },
     {
@@ -8435,6 +8451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 62654,
+      "num": 23068,
+      "word": "沙特阿拉伯半场0比0墨西哥",
+      "onboard_time": 1669842429,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 62255,
       "num": 41928,
       "word": "法国大概率小组第一",
@@ -8451,6 +8475,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 56407,
+      "num": 23063,
+      "word": "沙特阿拉伯1比2墨西哥",
+      "onboard_time": 1669842967,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 51917,
       "num": 51917,
       "word": "巴西球迷旗帜上写想你内马尔",
@@ -8459,19 +8491,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 51917,
+      "num": 23062,
+      "word": "查韦斯任意球破门",
+      "onboard_time": 1669841707,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 49737,
+      "num": 32778,
+      "word": "什琴斯尼连续两场扑点",
+      "onboard_time": 1669838768,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 47264,
       "num": 31950,
       "word": "英格兰小组第一晋级",
       "onboard_time": 1669757532,
       "rank": 31,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 45429,
-      "num": 32778,
-      "word": "什琴斯尼连续两场扑点",
-      "onboard_time": 1669838768,
-      "rank": 13,
       "category": "体育"
     },
     {
