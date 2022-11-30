@@ -1,6 +1,6 @@
 {
   "startTime": 1669566398830,
-  "endTime": 1669822686654,
+  "endTime": 1669825729614,
   "band_list": [
     {
       "raw_hot": 71270277,
@@ -393,6 +393,14 @@
       "onboard_time": 1669775662,
       "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1931721,
+      "num": 649014,
+      "word": "深圳核酸",
+      "onboard_time": 1669821553,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1903536,
@@ -1651,14 +1659,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 767645,
-      "num": 649014,
-      "word": "深圳核酸",
-      "onboard_time": 1669821553,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 764494,
       "num": 656977,
       "word": "沈小婷MAMA红毯图",
@@ -1923,6 +1923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 703698,
+      "num": 638259,
+      "word": "妈妈误把过期泡脚包当茶包煮蛋",
+      "onboard_time": 1669820620,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 698818,
       "num": 698818,
       "word": "加纳门将",
@@ -2147,14 +2155,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 638259,
-      "num": 638259,
-      "word": "妈妈误把过期泡脚包当茶包煮蛋",
-      "onboard_time": 1669820620,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 637997,
       "num": 637997,
       "word": "西班牙vs德国",
@@ -2249,6 +2249,14 @@
       "onboard_time": 1669800964,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 610235,
+      "num": 351812,
+      "word": "官方回应石家庄一核酸机构疑造假",
+      "onboard_time": 1669822934,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 609834,
@@ -2555,6 +2563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 547615,
+      "num": 677114,
+      "word": "波兰vs阿根廷",
+      "onboard_time": 1669787304,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 545243,
       "num": 270514,
       "word": "肖战晒live图说雨夜和火锅很配",
@@ -2577,14 +2593,6 @@
       "onboard_time": 1669770979,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 538146,
-      "num": 677114,
-      "word": "波兰vs阿根廷",
-      "onboard_time": 1669787304,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 538106,
@@ -3179,6 +3187,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 444798,
+      "num": 426160,
+      "word": "突尼斯vs法国",
+      "onboard_time": 1669795404,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 443959,
       "num": 443959,
       "word": "世界杯历史首位女主裁",
@@ -3355,14 +3371,6 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 426160,
-      "num": 426160,
-      "word": "突尼斯vs法国",
-      "onboard_time": 1669795404,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 424259,
       "num": 424259,
       "word": "这花店是懂浪漫的",
@@ -3425,6 +3433,14 @@
       "onboard_time": 1669725340,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 419922,
+      "num": 419922,
+      "word": "姆巴佩未首发对战突尼斯",
+      "onboard_time": 1669821437,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 418174,
@@ -5139,6 +5155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 277426,
+      "num": 277426,
+      "word": "真存在不扰民的居家活动吗",
+      "onboard_time": 1669820594,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 277188,
       "num": 277188,
       "word": "男子饿了2天拜托交警买个面包",
@@ -6083,6 +6107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 210566,
+      "num": 130059,
+      "word": "35岁辣妈晒精致生活常被夸年轻",
+      "onboard_time": 1669824494,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 210031,
       "num": 210031,
       "word": "听到心墙就想起了内马尔",
@@ -6467,6 +6499,14 @@
       "category": "美食,旅游"
     },
     {
+      "raw_hot": 190146,
+      "num": 190146,
+      "word": "1岁萌娃坐透明电梯被吓到腿软",
+      "onboard_time": 1669821735,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189534,
       "num": 189534,
       "word": "华晨宇演唱会全纪录紧张又治愈",
@@ -6641,14 +6681,6 @@
       "onboard_time": 1669705355,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 183023,
-      "num": 183023,
-      "word": "姆巴佩未首发对战突尼斯",
-      "onboard_time": 1669821437,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 182477,
@@ -7139,14 +7171,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 162567,
-      "num": 162567,
-      "word": "真存在不扰民的居家活动吗",
-      "onboard_time": 1669820594,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 162532,
       "num": 162532,
       "word": "神农架巡护员学习打火炮融入当地社区",
@@ -7201,14 +7225,6 @@
       "onboard_time": 1669707099,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 159981,
-      "num": 159981,
-      "word": "1岁萌娃坐透明电梯被吓到腿软",
-      "onboard_time": 1669821735,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 159538,
@@ -7859,6 +7875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 126150,
+      "num": 126150,
+      "word": "澳大利亚vs丹麦",
+      "onboard_time": 1669800019,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 125436,
       "num": 125436,
       "word": "兰州通报核酸采样人员阳性",
@@ -7953,14 +7977,6 @@
       "onboard_time": 1669627594,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 116260,
-      "num": 116260,
-      "word": "澳大利亚vs丹麦",
-      "onboard_time": 1669800019,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 115553,
@@ -8059,6 +8075,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 109208,
+      "num": 109208,
+      "word": "央视直播画面太美了",
+      "onboard_time": 1669824433,
+      "rank": 35,
+      "category": "科技"
+    },
+    {
       "raw_hot": 108752,
       "num": 114985,
       "word": "为什么说懂事的孩子没糖吃",
@@ -8120,6 +8144,14 @@
       "word": "为C罗熬夜",
       "onboard_time": 1669660874,
       "rank": 12,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 103907,
+      "num": 103907,
+      "word": "突尼斯半场0比0法国",
+      "onboard_time": 1669824913,
+      "rank": 36,
       "category": "体育"
     },
     {
@@ -8225,6 +8257,22 @@
       "onboard_time": 1669816363,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 91017,
+      "num": 91017,
+      "word": "深圳一公园1只百余斤野猪被困",
+      "onboard_time": 1669825272,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 88179,
+      "num": 88179,
+      "word": "起底核子基因",
+      "onboard_time": 1669823773,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 87600,
