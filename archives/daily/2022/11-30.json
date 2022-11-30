@@ -1,6 +1,6 @@
 {
   "startTime": 1669739332504,
-  "endTime": 1669783324637,
+  "endTime": 1669785513622,
   "band_list": [
     {
       "raw_hot": 3535781,
@@ -91,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1371603,
+      "num": 1163360,
+      "word": "福建一女子为丈夫3年连剖3胎",
+      "onboard_time": 1669779626,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1324348,
       "num": 1324348,
       "word": "梅西已8年不喝汽水不吃披萨",
@@ -115,20 +123,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1231839,
+      "num": 540246,
+      "word": "于正说李一桐配得上一切好的剧本",
+      "onboard_time": 1669785441,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1168748,
       "num": 1168748,
       "word": "美国队员安慰伊朗队员",
       "onboard_time": 1669765940,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1163360,
-      "num": 1163360,
-      "word": "福建一女子为丈夫3年连剖3胎",
-      "onboard_time": 1669779626,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1151989,
@@ -219,6 +227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 735822,
+      "num": 735822,
+      "word": "C罗梅西和内马尔的关注列表",
+      "onboard_time": 1669780827,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 733641,
       "num": 733641,
       "word": "年轻人不爱吃辣条了吗",
@@ -275,6 +291,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 659669,
+      "num": 512019,
+      "word": "尿不湿放门口被工人当煤气灶偷走",
+      "onboard_time": 1669781663,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 656346,
+      "num": 656346,
+      "word": "欧豪砸自己14个酒瓶只播了1个",
+      "onboard_time": 1669780581,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 645710,
       "num": 645710,
       "word": "90后夫妻带3个孩子入住毛坯房",
@@ -299,20 +331,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 613539,
-      "num": 589167,
-      "word": "C罗梅西和内马尔的关注列表",
-      "onboard_time": 1669780827,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 594702,
       "num": 594702,
       "word": "星河长明开播",
       "onboard_time": 1669773920,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 592177,
+      "num": 592177,
+      "word": "员工超3次不在工位被认定旷工遭辞退",
+      "onboard_time": 1669780342,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 590863,
@@ -347,14 +379,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 540270,
-      "num": 540270,
-      "word": "欧豪砸自己14个酒瓶只播了1个",
-      "onboard_time": 1669780581,
-      "rank": 16,
-      "category": "影视"
-    },
-    {
       "raw_hot": 540026,
       "num": 540026,
       "word": "武汉下雪",
@@ -368,6 +392,14 @@
       "word": "北京疫情防控",
       "onboard_time": 1669771702,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 517238,
+      "num": 322425,
+      "word": "当事人回应网传拍核酸造假视频被打",
+      "onboard_time": 1669782141,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -395,14 +427,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 499016,
-      "num": 499016,
-      "word": "员工超3次不在工位被认定旷工遭辞退",
-      "onboard_time": 1669780342,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 497076,
       "num": 497076,
       "word": "男子出轨后开车撞妻子被女儿拦下",
@@ -417,6 +441,14 @@
       "onboard_time": 1669738762,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 471454,
+      "num": 471454,
+      "word": "李峋三年后又送朱韵公主裙",
+      "onboard_time": 1669783942,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 466424,
@@ -539,12 +571,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 402536,
+      "num": 357866,
+      "word": "郭晓婷后援会否认接触武庚纪",
+      "onboard_time": 1669785083,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 400811,
       "num": 400811,
       "word": "公司临时毁约弃用毕业生被诉赔1万5",
       "onboard_time": 1669775063,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 395554,
+      "num": 395554,
+      "word": "重庆四六级笔试延期举行",
+      "onboard_time": 1669782802,
+      "rank": 44,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 389254,
@@ -627,6 +675,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 339579,
+      "num": 339579,
+      "word": "冯绍峰问什么班还需要朕亲自来上",
+      "onboard_time": 1669779262,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 331999,
       "num": 331999,
       "word": "厄瓜多尔球员哭了",
@@ -635,20 +691,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 328639,
+      "num": 328639,
+      "word": "内蒙古一地发通报因天冷不做核酸",
+      "onboard_time": 1669783402,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 327759,
       "num": 327759,
       "word": "张元英 舞台",
       "onboard_time": 1669723835,
       "rank": 19,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 322425,
-      "num": 322425,
-      "word": "当事人回应网传拍核酸造假视频被打",
-      "onboard_time": 1669782141,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 322201,
@@ -667,12 +723,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 314264,
+      "num": 314264,
+      "word": "赵丽颖说打童骁骑最后打到我的手肿了",
+      "onboard_time": 1669784840,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 313769,
       "num": 313769,
       "word": "郑州30日凌晨起出行要求有变",
       "onboard_time": 1669729948,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 313045,
+      "num": 258916,
+      "word": "张雨绮说大张伟要像个男人一样走出去",
+      "onboard_time": 1669782141,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 309149,
@@ -683,11 +755,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 308520,
-      "num": 308520,
-      "word": "尿不湿放门口被工人当煤气灶偷走",
-      "onboard_time": 1669781663,
-      "rank": 45,
+      "raw_hot": 306227,
+      "num": 306227,
+      "word": "相关部门调查疑核酸机构内部造假视频",
+      "onboard_time": 1669783582,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -699,20 +771,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 292530,
+      "num": 251296,
+      "word": "元英训斥弟弟",
+      "onboard_time": 1669782083,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 290554,
       "num": 290554,
       "word": "塞内加尔进球",
       "onboard_time": 1669737685,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 287533,
-      "num": 287533,
-      "word": "冯绍峰问什么班还需要朕亲自来上",
-      "onboard_time": 1669779262,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 282184,
@@ -761,14 +833,6 @@
       "onboard_time": 1669753750,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 258916,
-      "num": 258916,
-      "word": "张雨绮说大张伟要像个男人一样走出去",
-      "onboard_time": 1669782141,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 253737,
@@ -835,6 +899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 226401,
+      "num": 207554,
+      "word": "宋茜我们的翻译官粉色纱裙路透",
+      "onboard_time": 1669785201,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 225429,
       "num": 225429,
       "word": "北京疫情下一名配送骑手自述",
@@ -856,14 +928,6 @@
       "word": "李薇盘发",
       "onboard_time": 1669727067,
       "rank": 27,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 225039,
-      "num": 225039,
-      "word": "元英训斥弟弟",
-      "onboard_time": 1669782083,
-      "rank": 40,
       "category": "影视"
     },
     {
@@ -913,6 +977,14 @@
       "onboard_time": 1669724919,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 209927,
+      "num": 209927,
+      "word": "世界杯踢17场才赢1场的球队",
+      "onboard_time": 1669784428,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 208295,
@@ -1025,14 +1097,6 @@
       "onboard_time": 1669736186,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 190215,
-      "num": 190215,
-      "word": "重庆四六级笔试延期举行",
-      "onboard_time": 1669782802,
-      "rank": 44,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 187117,
@@ -1153,6 +1217,14 @@
       "onboard_time": 1669770681,
       "rank": 44,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 159338,
+      "num": 159338,
+      "word": "主人的伙食被狗狗嫌弃了",
+      "onboard_time": 1669784063,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 155714,
@@ -1433,6 +1505,14 @@
       "onboard_time": 1669745357,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 27817,
+      "num": 437294,
+      "word": "自己做手冲咖啡有多解压",
+      "onboard_time": 1669785201,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 14698,
