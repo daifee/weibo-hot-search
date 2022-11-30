@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1669846784494,
+  "endTime": 1669847808481,
   "band_list": [
     {
       "raw_hot": 1931721,
@@ -27,6 +27,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 1069064,
+      "num": 196336,
+      "word": "波兰0比2阿根廷",
+      "onboard_time": 1669842429,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1061763,
       "num": 348433,
       "word": "女生买500根一盒棉签数后少88根",
@@ -40,14 +48,6 @@
       "word": "梅西错失点球",
       "onboard_time": 1669838468,
       "rank": 4,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 829576,
-      "num": 196336,
-      "word": "波兰0比2阿根廷",
-      "onboard_time": 1669842429,
-      "rank": 5,
       "category": "体育"
     },
     {
@@ -219,8 +219,16 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 203946,
+      "num": 100919,
+      "word": "沙特阿拉伯1比2墨西哥",
+      "onboard_time": 1669842967,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 197392,
-      "num": 37863,
+      "num": 48842,
       "word": "阿根廷将对阵澳大利亚",
       "onboard_time": 1669843567,
       "rank": 30,
@@ -232,14 +240,6 @@
       "word": "法国进球被吹",
       "onboard_time": 1669828814,
       "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 193319,
-      "num": 100919,
-      "word": "沙特阿拉伯1比2墨西哥",
-      "onboard_time": 1669842967,
-      "rank": 31,
       "category": "体育"
     },
     {
@@ -297,6 +297,14 @@
       "onboard_time": 1669813938,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 158795,
+      "num": 128285,
+      "word": "突尼斯1比0法国",
+      "onboard_time": 1669828991,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 156416,
@@ -369,14 +377,6 @@
       "onboard_time": 1669815138,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 128792,
-      "num": 128285,
-      "word": "突尼斯1比0法国",
-      "onboard_time": 1669828991,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 123898,
@@ -539,8 +539,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 62654,
-      "num": 29828,
+      "raw_hot": 69108,
+      "num": 32613,
+      "word": "梅西莱万赛后拥抱",
+      "onboard_time": 1669846748,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 66846,
+      "num": 32500,
       "word": "沙特阿拉伯半场0比0墨西哥",
       "onboard_time": 1669842429,
       "rank": 30,
@@ -572,11 +580,19 @@
     },
     {
       "raw_hot": 37141,
-      "num": 29320,
+      "num": 32369,
       "word": "法国将对阵波兰",
       "onboard_time": 1669845847,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 34296,
+      "num": 31715,
+      "word": "家属称中学老师酒后殴打学生",
+      "onboard_time": 1669847107,
+      "rank": 35,
+      "category": "社会负面"
     },
     {
       "raw_hot": 32307,
@@ -587,12 +603,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 30863,
-      "num": 20055,
-      "word": "梅西莱万赛后拥抱",
-      "onboard_time": 1669846748,
-      "rank": 47,
-      "category": "体育"
+      "raw_hot": 29662,
+      "num": 29662,
+      "word": "女子因撞名张珊珊个人信息遭曝光",
+      "onboard_time": 1669847469,
+      "rank": 36,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
