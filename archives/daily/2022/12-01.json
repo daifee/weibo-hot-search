@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1669844037384,
+  "endTime": 1669846784494,
   "band_list": [
     {
       "raw_hot": 1931721,
@@ -40,6 +40,14 @@
       "word": "梅西错失点球",
       "onboard_time": 1669838468,
       "rank": 4,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 829576,
+      "num": 196336,
+      "word": "波兰0比2阿根廷",
+      "onboard_time": 1669842429,
+      "rank": 5,
       "category": "体育"
     },
     {
@@ -97,14 +105,6 @@
       "onboard_time": 1669820176,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 511927,
-      "num": 196336,
-      "word": "波兰0比2阿根廷",
-      "onboard_time": 1669842429,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 493166,
@@ -220,7 +220,7 @@
     },
     {
       "raw_hot": 197392,
-      "num": 26281,
+      "num": 37863,
       "word": "阿根廷将对阵澳大利亚",
       "onboard_time": 1669843567,
       "rank": 30,
@@ -232,6 +232,14 @@
       "word": "法国进球被吹",
       "onboard_time": 1669828814,
       "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 193319,
+      "num": 100919,
+      "word": "沙特阿拉伯1比2墨西哥",
+      "onboard_time": 1669842967,
+      "rank": 31,
       "category": "体育"
     },
     {
@@ -435,14 +443,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 100919,
-      "num": 100919,
-      "word": "沙特阿拉伯1比2墨西哥",
-      "onboard_time": 1669842967,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 100032,
       "num": 70181,
       "word": "澳大利亚成首支出线的亚足联球队",
@@ -540,7 +540,7 @@
     },
     {
       "raw_hot": 62654,
-      "num": 26252,
+      "num": 29828,
       "word": "沙特阿拉伯半场0比0墨西哥",
       "onboard_time": 1669842429,
       "rank": 30,
@@ -556,7 +556,7 @@
     },
     {
       "raw_hot": 51917,
-      "num": 26260,
+      "num": 26645,
       "word": "查韦斯任意球破门",
       "onboard_time": 1669841707,
       "rank": 32,
@@ -571,11 +571,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 37141,
+      "num": 29320,
+      "word": "法国将对阵波兰",
+      "onboard_time": 1669845847,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 32307,
       "num": 32307,
       "word": "高科技介入足球是好是坏",
       "onboard_time": 1669832109,
       "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 30863,
+      "num": 20055,
+      "word": "梅西莱万赛后拥抱",
+      "onboard_time": 1669846748,
+      "rank": 47,
       "category": "体育"
     }
   ],

@@ -1,6 +1,6 @@
 {
   "startTime": 1669566398830,
-  "endTime": 1669844037384,
+  "endTime": 1669846784494,
   "band_list": [
     {
       "raw_hot": 71270277,
@@ -1507,6 +1507,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 829576,
+      "num": 196336,
+      "word": "波兰0比2阿根廷",
+      "onboard_time": 1669842429,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 828644,
       "num": 591096,
       "word": "BIGBANG将入驻Weverse",
@@ -2761,14 +2769,6 @@
       "onboard_time": 1669739601,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 511927,
-      "num": 196336,
-      "word": "波兰0比2阿根廷",
-      "onboard_time": 1669842429,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 510781,
@@ -6308,7 +6308,7 @@
     },
     {
       "raw_hot": 197392,
-      "num": 26281,
+      "num": 37863,
       "word": "阿根廷将对阵澳大利亚",
       "onboard_time": 1669843567,
       "rank": 30,
@@ -6433,6 +6433,14 @@
       "onboard_time": 1669778600,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 193319,
+      "num": 100919,
+      "word": "沙特阿拉伯1比2墨西哥",
+      "onboard_time": 1669842967,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 193209,
@@ -8307,14 +8315,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 100919,
-      "num": 100919,
-      "word": "沙特阿拉伯1比2墨西哥",
-      "onboard_time": 1669842967,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 100136,
       "num": 100136,
       "word": "卡塔尔三连败",
@@ -8468,7 +8468,7 @@
     },
     {
       "raw_hot": 62654,
-      "num": 26252,
+      "num": 29828,
       "word": "沙特阿拉伯半场0比0墨西哥",
       "onboard_time": 1669842429,
       "rank": 30,
@@ -8500,7 +8500,7 @@
     },
     {
       "raw_hot": 51917,
-      "num": 26260,
+      "num": 26645,
       "word": "查韦斯任意球破门",
       "onboard_time": 1669841707,
       "rank": 32,
@@ -8571,6 +8571,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 37141,
+      "num": 29320,
+      "word": "法国将对阵波兰",
+      "onboard_time": 1669845847,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 37013,
       "num": 37013,
       "word": "种萝卜用北斗导航百米误差仅2cm",
@@ -8584,6 +8592,14 @@
       "word": "高科技介入足球是好是坏",
       "onboard_time": 1669832109,
       "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 30863,
+      "num": 20055,
+      "word": "梅西莱万赛后拥抱",
+      "onboard_time": 1669846748,
+      "rank": 47,
       "category": "体育"
     },
     {
