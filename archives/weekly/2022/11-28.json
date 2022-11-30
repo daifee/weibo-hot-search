@@ -1,6 +1,6 @@
 {
   "startTime": 1669566398830,
-  "endTime": 1669828713298,
+  "endTime": 1669829761974,
   "band_list": [
     {
       "raw_hot": 71270277,
@@ -5923,6 +5923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 223166,
+      "num": 198298,
+      "word": "深圳一公园1只百余斤野猪被困",
+      "onboard_time": 1669825272,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 223058,
       "num": 223058,
       "word": "各地成立整治层层加码工作专班",
@@ -6259,14 +6267,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 198298,
-      "num": 198298,
-      "word": "深圳一公园1只百余斤野猪被困",
-      "onboard_time": 1669825272,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 197811,
       "num": 197811,
       "word": "魔兽世界10.0上线",
@@ -6473,6 +6473,14 @@
       "onboard_time": 1669784063,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 191232,
+      "num": 156502,
+      "word": "长沙鼓励弹性上班远程办公",
+      "onboard_time": 1669826231,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 191119,
@@ -7467,14 +7475,6 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 147569,
-      "num": 83652,
-      "word": "长沙鼓励弹性上班远程办公",
-      "onboard_time": 1669826231,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 147441,
       "num": 147441,
       "word": "韩国教练是葡萄牙人",
@@ -7947,6 +7947,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 122596,
+      "num": 73704,
+      "word": "法国进球被吹",
+      "onboard_time": 1669828814,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121424,
       "num": 121424,
       "word": "男子大白天闯入餐厅折树枝偷水果",
@@ -8001,6 +8009,14 @@
       "onboard_time": 1669627594,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 116073,
+      "num": 73516,
+      "word": "伊朗球员含泪向球迷道歉",
+      "onboard_time": 1669828151,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 115553,
@@ -8088,6 +8104,14 @@
       "word": "克罗地亚进球",
       "onboard_time": 1669591644,
       "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 109710,
+      "num": 109710,
+      "word": "突尼斯卡塔尔世界杯首球",
+      "onboard_time": 1669828693,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -8331,11 +8355,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 74772,
-      "num": 48411,
-      "word": "突尼斯卡塔尔世界杯首球",
-      "onboard_time": 1669828693,
-      "rank": 47,
+      "raw_hot": 74831,
+      "num": 74831,
+      "word": "澳大利亚1比0丹麦",
+      "onboard_time": 1669829291,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 74544,
+      "num": 74544,
+      "word": "突尼斯1比0法国",
+      "onboard_time": 1669828991,
+      "rank": 28,
       "category": "体育"
     },
     {
@@ -8371,19 +8403,19 @@
       "category": "影视"
     },
     {
+      "raw_hot": 57205,
+      "num": 57205,
+      "word": "世界杯16强就差亚洲球队",
+      "onboard_time": 1669829351,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 51917,
       "num": 51917,
       "word": "巴西球迷旗帜上写想你内马尔",
       "onboard_time": 1669664712,
       "rank": 31,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 49268,
-      "num": 49268,
-      "word": "伊朗球员含泪向球迷道歉",
-      "onboard_time": 1669828151,
-      "rank": 45,
       "category": "体育"
     },
     {

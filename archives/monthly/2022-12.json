@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1669828713298,
+  "endTime": 1669829761974,
   "band_list": [
     {
       "raw_hot": 1931721,
@@ -179,6 +179,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 223166,
+      "num": 198298,
+      "word": "深圳一公园1只百余斤野猪被困",
+      "onboard_time": 1669825272,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 210685,
       "num": 210685,
       "word": "江泽民同志永垂不朽",
@@ -187,11 +195,11 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 198298,
-      "num": 198298,
-      "word": "深圳一公园1只百余斤野猪被困",
-      "onboard_time": 1669825272,
-      "rank": 41,
+      "raw_hot": 191232,
+      "num": 156502,
+      "word": "长沙鼓励弹性上班远程办公",
+      "onboard_time": 1669826231,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -243,14 +251,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 147569,
-      "num": 83652,
-      "word": "长沙鼓励弹性上班远程办公",
-      "onboard_time": 1669826231,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 147405,
       "num": 147405,
       "word": "劳荣枝二哥仍不接受二审宣判结果",
@@ -291,12 +291,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 122596,
+      "num": 73704,
+      "word": "法国进球被吹",
+      "onboard_time": 1669828814,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 117961,
       "num": 117961,
       "word": "警方通报夫妻因楼上扰民强行破门打骂",
       "onboard_time": 1669805568,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 116073,
+      "num": 73516,
+      "word": "伊朗球员含泪向球迷道歉",
+      "onboard_time": 1669828151,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 112402,
@@ -312,6 +328,14 @@
       "word": "梅西重新定义人墙",
       "onboard_time": 1669809737,
       "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 109710,
+      "num": 109710,
+      "word": "突尼斯卡塔尔世界杯首球",
+      "onboard_time": 1669828693,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -395,11 +419,19 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 74772,
-      "num": 48411,
-      "word": "突尼斯卡塔尔世界杯首球",
-      "onboard_time": 1669828693,
-      "rank": 47,
+      "raw_hot": 74831,
+      "num": 74831,
+      "word": "澳大利亚1比0丹麦",
+      "onboard_time": 1669829291,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 74544,
+      "num": 74544,
+      "word": "突尼斯1比0法国",
+      "onboard_time": 1669828991,
+      "rank": 28,
       "category": "体育"
     },
     {
@@ -427,11 +459,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 49268,
-      "num": 49268,
-      "word": "伊朗球员含泪向球迷道歉",
-      "onboard_time": 1669828151,
-      "rank": 45,
+      "raw_hot": 57205,
+      "num": 57205,
+      "word": "世界杯16强就差亚洲球队",
+      "onboard_time": 1669829351,
+      "rank": 40,
       "category": "体育"
     },
     {
