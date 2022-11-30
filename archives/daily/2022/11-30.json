@@ -1,6 +1,6 @@
 {
   "startTime": 1669739332504,
-  "endTime": 1669807031164,
+  "endTime": 1669808018903,
   "band_list": [
     {
       "raw_hot": 71270277,
@@ -75,20 +75,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2532268,
+      "num": 2532268,
+      "word": "江泽民同志永垂不朽",
+      "onboard_time": 1669804610,
+      "rank": 4,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 2302372,
       "num": 2302372,
       "word": "广州疫情防控",
       "onboard_time": 1669792282,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2132155,
-      "num": 2132155,
-      "word": "江泽民同志永垂不朽",
-      "onboard_time": 1669804610,
-      "rank": 4,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 1938484,
@@ -171,6 +171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1453652,
+      "num": 1453652,
+      "word": "广州 堂食",
+      "onboard_time": 1669804972,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1451134,
       "num": 1451134,
       "word": "广州天河区疫情防控",
@@ -212,7 +220,7 @@
     },
     {
       "raw_hot": 1271470,
-      "num": 461071,
+      "num": 465561,
       "word": "8000元1件羽绒服直播间仅卖800元",
       "onboard_time": 1669801381,
       "rank": 13,
@@ -321,14 +329,6 @@
       "onboard_time": 1669772600,
       "rank": 49,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 989417,
-      "num": 989417,
-      "word": "广州 堂食",
-      "onboard_time": 1669804972,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 977151,
@@ -547,6 +547,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 653787,
+      "num": 653787,
+      "word": "北京无社会面活动人员可不参加社区核酸筛查",
+      "onboard_time": 1669804637,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 645710,
       "num": 645710,
       "word": "90后夫妻带3个孩子入住毛坯房",
@@ -561,14 +569,6 @@
       "onboard_time": 1669775482,
       "rank": 18,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 623747,
-      "num": 446026,
-      "word": "北京无社会面活动人员可不参加社区核酸筛查",
-      "onboard_time": 1669804637,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 623317,
@@ -979,6 +979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 389951,
+      "num": 389951,
+      "word": "林书豪吐槽CBA赛区健身房",
+      "onboard_time": 1669803557,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 389254,
       "num": 389254,
       "word": "张杰呼吁大家关注消防安全",
@@ -1003,12 +1011,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 385082,
-      "num": 385082,
-      "word": "林书豪吐槽CBA赛区健身房",
-      "onboard_time": 1669803557,
-      "rank": 42,
-      "category": "体育"
+      "raw_hot": 384277,
+      "num": 384277,
+      "word": "警方通报夫妻因楼上扰民强行破门打骂",
+      "onboard_time": 1669805568,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 376759,
@@ -1107,12 +1115,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 334053,
+      "num": 334053,
+      "word": "客服回应网购蘸料碟吃饺子时掉色",
+      "onboard_time": 1669802091,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 331999,
       "num": 331999,
       "word": "厄瓜多尔球员哭了",
       "onboard_time": 1669747515,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 327806,
+      "num": 327806,
+      "word": "女子回应买走老人白菜被质疑摆拍",
+      "onboard_time": 1669803439,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 327759,
@@ -1129,14 +1153,6 @@
       "onboard_time": 1669784840,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 322365,
-      "num": 322365,
-      "word": "客服回应网购蘸料碟吃饺子时掉色",
-      "onboard_time": 1669802091,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 322201,
@@ -1193,14 +1209,6 @@
       "onboard_time": 1669793904,
       "rank": 23,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 307096,
-      "num": 307096,
-      "word": "女子回应买走老人白菜被质疑摆拍",
-      "onboard_time": 1669803439,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 307023,
@@ -1563,6 +1571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 205572,
+      "num": 192134,
+      "word": "北京新增本土感染者2378例",
+      "onboard_time": 1669804738,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 203256,
       "num": 203256,
       "word": "胡彦斌分析感情里不爱的人一针见血",
@@ -1580,7 +1596,7 @@
     },
     {
       "raw_hot": 201595,
-      "num": 192890,
+      "num": 201279,
       "word": "当乌镇遇到一场雪",
       "onboard_time": 1669806078,
       "rank": 31,
@@ -1617,14 +1633,6 @@
       "onboard_time": 1669789523,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 196452,
-      "num": 192134,
-      "word": "北京新增本土感染者2378例",
-      "onboard_time": 1669804738,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 193841,
@@ -1675,14 +1683,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 191038,
-      "num": 191038,
-      "word": "警方通报夫妻因楼上扰民强行破门打骂",
-      "onboard_time": 1669805568,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 190900,
       "num": 190900,
       "word": "尹岐新发型",
@@ -1723,6 +1723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 186355,
+      "num": 186355,
+      "word": "iPhone14Pro出货量预期下调20%",
+      "onboard_time": 1669797692,
+      "rank": 39,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 186252,
       "num": 186252,
       "word": "南方多地加入下雪群聊",
@@ -1737,14 +1745,6 @@
       "onboard_time": 1669793428,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 184487,
-      "num": 184487,
-      "word": "iPhone14Pro出货量预期下调20%",
-      "onboard_time": 1669797692,
-      "rank": 39,
-      "category": "科技,财经"
     },
     {
       "raw_hot": 184055,
@@ -2003,6 +2003,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 142210,
+      "num": 142210,
+      "word": "核子基因曾与网贷合作",
+      "onboard_time": 1669807037,
+      "rank": 38,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 141393,
       "num": 153085,
       "word": "AI绘画把狗画成肌肉男",
@@ -2017,6 +2025,14 @@
       "onboard_time": 1669763601,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 141292,
+      "num": 141292,
+      "word": "6旬教师不会线上设考手抄试卷",
+      "onboard_time": 1669805715,
+      "rank": 48,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 140935,
@@ -2123,6 +2139,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 117711,
+      "num": 117711,
+      "word": "广东人是懂吃煲的",
+      "onboard_time": 1669805659,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 115553,
       "num": 146704,
       "word": "解压还是得看动画吧",
@@ -2147,6 +2171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 115064,
+      "num": 115064,
+      "word": "劳荣枝案案情回顾",
+      "onboard_time": 1669807395,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 114480,
       "num": 114480,
       "word": "神十五出征",
@@ -2161,14 +2193,6 @@
       "onboard_time": 1669764140,
       "rank": 36,
       "category": "情感,社会新闻"
-    },
-    {
-      "raw_hot": 111613,
-      "num": 111613,
-      "word": "广东人是懂吃煲的",
-      "onboard_time": 1669805659,
-      "rank": 46,
-      "category": "美食"
     },
     {
       "raw_hot": 110616,
@@ -2217,14 +2241,6 @@
       "onboard_time": 1669745418,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 106014,
-      "num": 106014,
-      "word": "6旬教师不会线上设考手抄试卷",
-      "onboard_time": 1669805715,
-      "rank": 48,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 104998,

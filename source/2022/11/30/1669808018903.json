@@ -1,0 +1,410 @@
+{
+  "runTime": 1669808018903,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 12695723,
+        "num": 12695723,
+        "word": "江泽民同志在上海逝世享年96岁",
+        "onboard_time": 1669797921,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 3577112,
+        "num": 3577112,
+        "word": "北京天安门下半旗志哀",
+        "onboard_time": 1669799153,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 451965,
+        "num": 3079105,
+        "word": "多地优化细化新冠疫情精准防控举措",
+        "onboard_time": 1669800964,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 3045864,
+        "num": 3045864,
+        "word": "告全党全军全国各族人民书",
+        "onboard_time": 1669797921,
+        "rank": 3,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2532268,
+        "num": 2532268,
+        "word": "江泽民同志永垂不朽",
+        "onboard_time": 1669804610,
+        "rank": 4,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1453652,
+        "num": 1453652,
+        "word": "广州 堂食",
+        "onboard_time": 1669804972,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1176853,
+        "num": 1176853,
+        "word": "C罗即将加盟沙特豪门",
+        "onboard_time": 1669803229,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 749748,
+        "num": 749748,
+        "word": "广州多区宣布解除疫情防控临时管控区",
+        "onboard_time": 1669792524,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 653787,
+        "num": 653787,
+        "word": "北京无社会面活动人员可不参加社区核酸筛查",
+        "onboard_time": 1669804637,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 479403,
+        "num": 479403,
+        "word": "北京大兴核酸检测最新要求",
+        "onboard_time": 1669801557,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1970078,
+        "num": 477890,
+        "word": "江泽民同志治丧委员会名单",
+        "onboard_time": 1669799717,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1219440,
+        "num": 465561,
+        "word": "8000元1件羽绒服直播间仅卖800元",
+        "onboard_time": 1669801381,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 403256,
+        "num": 403256,
+        "word": "广州核酸",
+        "onboard_time": 1669789702,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 389951,
+        "num": 389951,
+        "word": "林书豪吐槽CBA赛区健身房",
+        "onboard_time": 1669803557,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 384277,
+        "num": 384277,
+        "word": "警方通报夫妻因楼上扰民强行破门打骂",
+        "onboard_time": 1669805568,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334053,
+        "num": 334053,
+        "word": "客服回应网购蘸料碟吃饺子时掉色",
+        "onboard_time": 1669802091,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327806,
+        "num": 327806,
+        "word": "女子回应买走老人白菜被质疑摆拍",
+        "onboard_time": 1669803439,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268063,
+        "num": 268063,
+        "word": "广州要求不得扩大核酸检测范围",
+        "onboard_time": 1669801082,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264049,
+        "num": 264049,
+        "word": "无锡一辆保时捷失控坠下高架桥",
+        "onboard_time": 1669798326,
+        "rank": 18,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 240219,
+        "num": 240219,
+        "word": "上网课吸猫发现没关麦",
+        "onboard_time": 1669792646,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 293414,
+        "num": 239215,
+        "word": "丈夫吸烟近50年夫妻同患肺癌",
+        "onboard_time": 1669793242,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236559,
+        "num": 236559,
+        "word": "高中生收取外送食物被退学处分已取消",
+        "onboard_time": 1669796185,
+        "rank": 21,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 232506,
+        "num": 232506,
+        "word": "美国男子买300台iPhone出门遭打劫",
+        "onboard_time": 1669798098,
+        "rank": 22,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 225285,
+        "num": 225285,
+        "word": "广州海珠宣布密接可居家隔离",
+        "onboard_time": 1669796485,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208996,
+        "num": 208996,
+        "word": "广州新增",
+        "onboard_time": 1669801202,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206408,
+        "num": 206408,
+        "word": "劳荣枝对二审死刑表示不服",
+        "onboard_time": 1669794084,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201279,
+        "num": 201279,
+        "word": "当乌镇遇到一场雪",
+        "onboard_time": 1669806078,
+        "rank": 26,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 196655,
+        "num": 196655,
+        "word": "输液男子打骂妻子打伤劝架护士",
+        "onboard_time": 1669796963,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196648,
+        "num": 196648,
+        "word": "阿根廷小组出线关键一战",
+        "onboard_time": 1669800849,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186355,
+        "num": 186355,
+        "word": "iPhone14Pro出货量预期下调20%",
+        "onboard_time": 1669797692,
+        "rank": 29,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 364400,
+        "num": 184555,
+        "word": "孩子捡回来1只螳螂暖气来了变1窝",
+        "onboard_time": 1669793726,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205572,
+        "num": 182216,
+        "word": "北京新增本土感染者2378例",
+        "onboard_time": 1669804738,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177417,
+        "num": 177417,
+        "word": "这花店是懂浪漫的",
+        "onboard_time": 1669796361,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 174700,
+        "num": 174700,
+        "word": "7岁可爱女童患恶性肿瘤容貌变样",
+        "onboard_time": 1669787602,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165199,
+        "num": 165199,
+        "word": "核子基因厦门公司被列为经营异常",
+        "onboard_time": 1669796004,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161518,
+        "num": 161518,
+        "word": "学医前后的颜值变化",
+        "onboard_time": 1669792463,
+        "rank": 35,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 155620,
+        "num": 155620,
+        "word": "Rookie纪录片",
+        "onboard_time": 1669802116,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 152950,
+        "num": 152950,
+        "word": "自动调温的羽绒服有多绝",
+        "onboard_time": 1669798569,
+        "rank": 37,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 142210,
+        "num": 142210,
+        "word": "核子基因曾与网贷合作",
+        "onboard_time": 1669807037,
+        "rank": 38,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 141292,
+        "num": 141292,
+        "word": "6旬教师不会线上设考手抄试卷",
+        "onboard_time": 1669805715,
+        "rank": 39,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 133680,
+        "num": 133680,
+        "word": "夫妻商议离婚丈夫为断干净拒付抚养费",
+        "onboard_time": 1669785984,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129003,
+        "num": 129003,
+        "word": "女子吃辣被呛咳断4根肋骨",
+        "onboard_time": 1669777824,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128635,
+        "num": 128635,
+        "word": "叠纸",
+        "onboard_time": 1669786284,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 117711,
+        "num": 117711,
+        "word": "广东人是懂吃煲的",
+        "onboard_time": 1669805659,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 117464,
+        "num": 117464,
+        "word": "旗舰店买到假添柏岚不给退只赔券",
+        "onboard_time": 1669803678,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116073,
+        "num": 116073,
+        "word": "听到心墙就想起了内马尔",
+        "onboard_time": 1669800077,
+        "rank": 45,
+        "category": "体育,幽默"
+      },
+      {
+        "raw_hot": 115064,
+        "num": 115064,
+        "word": "劳荣枝案案情回顾",
+        "onboard_time": 1669807395,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112837,
+        "num": 112837,
+        "word": "这才是记忆里的香葱肉松卷",
+        "onboard_time": 1669803439,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 111540,
+        "num": 111540,
+        "word": "初冬的柿子和雪景太配了",
+        "onboard_time": 1669796125,
+        "rank": 48,
+        "category": "美食,旅游"
+      },
+      {
+        "raw_hot": 109093,
+        "num": 109093,
+        "word": "福建一女子为丈夫3年连剖3胎",
+        "onboard_time": 1669779626,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#江泽民同志在上海逝世#"
+    }
+  }
+}
