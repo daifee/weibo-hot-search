@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1669836789923,
+  "endTime": 1669839673303,
   "band_list": [
     {
       "raw_hot": 1931721,
@@ -147,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 357051,
+      "num": 33802,
+      "word": "梅西错失点球",
+      "onboard_time": 1669838468,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 353444,
       "num": 353444,
       "word": "郑州人的生活回来了",
@@ -243,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 182077,
+      "num": 23871,
+      "word": "波兰半场0比0阿根廷",
+      "onboard_time": 1669838826,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 165198,
       "num": 165198,
       "word": "石家庄多区明起有序恢复生产生活秩序",
@@ -315,6 +331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 128792,
+      "num": 78754,
+      "word": "突尼斯1比0法国",
+      "onboard_time": 1669828991,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 117961,
       "num": 117961,
       "word": "警方通报夫妻因楼上扰民强行破门打骂",
@@ -355,11 +379,11 @@
       "category": "科技"
     },
     {
-      "raw_hot": 104922,
-      "num": 78754,
-      "word": "突尼斯1比0法国",
-      "onboard_time": 1669828991,
-      "rank": 28,
+      "raw_hot": 105808,
+      "num": 47044,
+      "word": "沙特阿拉伯vs墨西哥",
+      "onboard_time": 1669821195,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -483,11 +507,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 47044,
-      "num": 47044,
-      "word": "沙特阿拉伯vs墨西哥",
-      "onboard_time": 1669821195,
-      "rank": 49,
+      "raw_hot": 44935,
+      "num": 32778,
+      "word": "什琴斯尼连续两场扑点",
+      "onboard_time": 1669838768,
+      "rank": 13,
       "category": "体育"
     },
     {
