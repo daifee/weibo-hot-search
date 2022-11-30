@@ -1,6 +1,6 @@
 {
   "startTime": 1669566398830,
-  "endTime": 1669764976353,
+  "endTime": 1669772645293,
   "band_list": [
     {
       "raw_hot": 11045761,
@@ -307,6 +307,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1881746,
+      "num": 1881746,
+      "word": "卡塔尔花2200亿进一个球",
+      "onboard_time": 1669768760,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1854738,
       "num": 1854738,
       "word": "韩国后卫好像提前飞回国了",
@@ -377,6 +385,14 @@
       "onboard_time": 1669719221,
       "rank": 11,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 1717675,
+      "num": 1717675,
+      "word": "全国快递网点大面积停摆消息不实",
+      "onboard_time": 1669740864,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1702730,
@@ -683,6 +699,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1245697,
+      "num": 1245697,
+      "word": "广州南站滞留",
+      "onboard_time": 1669771100,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1231320,
       "num": 1231320,
       "word": "他们没来MAMA又好像来了",
@@ -755,6 +779,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1168748,
+      "num": 1168748,
+      "word": "美国队员安慰伊朗队员",
+      "onboard_time": 1669765940,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1151989,
+      "num": 800368,
+      "word": "卡塔尔小王子入驻微博",
+      "onboard_time": 1669763541,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1145336,
       "num": 1145336,
       "word": "日本企业家怒斥本国球迷看台捡垃圾",
@@ -777,6 +817,14 @@
       "onboard_time": 1669709676,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1126234,
+      "num": 1126234,
+      "word": "广州动态调整强化社会面防控措施",
+      "onboard_time": 1669769662,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1123858,
@@ -1003,6 +1051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 924988,
+      "num": 924988,
+      "word": "宋宁峰没有怪撞死母亲的人",
+      "onboard_time": 1669767683,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 918794,
       "num": 918794,
       "word": "北京已经启用方舱医院23家",
@@ -1107,14 +1163,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 831269,
-      "num": 831269,
-      "word": "全国快递网点大面积停摆消息不实",
-      "onboard_time": 1669740864,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 828644,
       "num": 591096,
       "word": "BIGBANG将入驻Weverse",
@@ -1192,14 +1240,6 @@
       "word": "吴镇宇反思被梅西进球",
       "onboard_time": 1669613316,
       "rank": 44,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 800368,
-      "num": 800368,
-      "word": "卡塔尔小王子入驻微博",
-      "onboard_time": 1669763541,
-      "rank": 17,
       "category": "体育"
     },
     {
@@ -1427,6 +1467,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 711766,
+      "num": 711766,
+      "word": "曾驰援武汉的大葱哥急需帮助",
+      "onboard_time": 1669765760,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 704445,
+      "num": 704445,
+      "word": "年轻人不爱吃辣条了吗",
+      "onboard_time": 1669768519,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 698818,
       "num": 698818,
       "word": "加纳门将",
@@ -1505,6 +1561,14 @@
       "onboard_time": 1669726001,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 664447,
+      "num": 664447,
+      "word": "今年已有5家核酸企业IPO过会",
+      "onboard_time": 1669765702,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 662760,
@@ -1649,6 +1713,14 @@
       "onboard_time": 1669720178,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 619542,
+      "num": 619542,
+      "word": "北京新增风险点汇总",
+      "onboard_time": 1669770441,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 607168,
@@ -1891,6 +1963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 540026,
+      "num": 540026,
+      "word": "武汉下雪",
+      "onboard_time": 1669770979,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 538106,
       "num": 538106,
       "word": "女生醉酒被闺蜜用宝宝背带背回",
@@ -1988,7 +2068,7 @@
     },
     {
       "raw_hot": 512947,
-      "num": 1095967,
+      "num": 1266254,
       "word": "第九版防控方案和二十条措施热点问答",
       "onboard_time": 1669739601,
       "rank": 2,
@@ -2185,6 +2265,14 @@
       "onboard_time": 1669689991,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 466108,
+      "num": 466108,
+      "word": "中国茶申遗成功",
+      "onboard_time": 1669764441,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 465972,
@@ -2499,6 +2587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 423030,
+      "num": 314055,
+      "word": "王鹤棣陈飞宇你俩去演鬼怪吧",
+      "onboard_time": 1669747873,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 421993,
       "num": 421993,
       "word": "朱韵说李峋变着办法来泡妞",
@@ -2529,6 +2625,14 @@
       "onboard_time": 1669725340,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 418174,
+      "num": 418174,
+      "word": "伊朗0比1美国",
+      "onboard_time": 1669763900,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 416128,
@@ -2587,12 +2691,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 413209,
+      "num": 413209,
+      "word": "方向盘套广告语被指侮辱女性",
+      "onboard_time": 1669733487,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 412748,
       "num": 412748,
       "word": "B费情商有多高",
       "onboard_time": 1669728087,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 408496,
+      "num": 257591,
+      "word": "肖战两部剧获观众喜爱作品",
+      "onboard_time": 1669768224,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 407860,
@@ -2721,6 +2841,14 @@
       "onboard_time": 1669623699,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 388431,
+      "num": 388431,
+      "word": "12岁女孩第一次画墙效果惊艳",
+      "onboard_time": 1669768040,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 385922,
@@ -2931,6 +3059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 365064,
+      "num": 365064,
+      "word": "吃橘子会变阳你真是多虑了",
+      "onboard_time": 1669741161,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 364870,
       "num": 364870,
       "word": "你永远可以相信周深的现场",
@@ -3001,6 +3137,14 @@
       "onboard_time": 1669664532,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 355444,
+      "num": 355444,
+      "word": "我国再添一项世界非物质文化遗产",
+      "onboard_time": 1669766780,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 355387,
@@ -3203,6 +3347,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 340222,
+      "num": 340222,
+      "word": "世界杯历史首位女主裁",
+      "onboard_time": 1669769901,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 339007,
+      "num": 339007,
+      "word": "北京疫情防控",
+      "onboard_time": 1669771702,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 338552,
       "num": 338552,
       "word": "女生分手后骗妈妈和内马尔谈恋爱",
@@ -3355,6 +3515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 325470,
+      "num": 325470,
+      "word": "90后夫妻带3个孩子入住毛坯房",
+      "onboard_time": 1669771341,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 324576,
       "num": 167321,
       "word": "蔡徐坤舞台造型美学",
@@ -3483,6 +3651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 315753,
+      "num": 260944,
+      "word": "世界杯16强对阵",
+      "onboard_time": 1669771280,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 315121,
       "num": 303721,
       "word": "于正追风吹半夏追到凌晨四点",
@@ -3505,14 +3681,6 @@
       "onboard_time": 1669632036,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 314055,
-      "num": 314055,
-      "word": "王鹤棣陈飞宇你俩去演鬼怪吧",
-      "onboard_time": 1669747873,
-      "rank": 6,
-      "category": "影视"
     },
     {
       "raw_hot": 312773,
@@ -3699,14 +3867,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 297171,
-      "num": 297171,
-      "word": "吃橘子会变阳你真是多虑了",
-      "onboard_time": 1669741161,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 295393,
       "num": 295393,
       "word": "赘婿领征地补偿被拒起诉要回40万",
@@ -3835,14 +3995,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 284914,
-      "num": 278870,
-      "word": "方向盘套广告语被指侮辱女性",
-      "onboard_time": 1669733487,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 283803,
       "num": 283803,
       "word": "西安900路公交女司机因高颜值走红",
@@ -3889,6 +4041,14 @@
       "onboard_time": 1669631733,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 281308,
+      "num": 281308,
+      "word": "崔杋圭张元英同框",
+      "onboard_time": 1669770142,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 280525,
@@ -4067,6 +4227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 263722,
+      "num": 263722,
+      "word": "驯鹿晚上领着主人去找自己脱落的鹿角",
+      "onboard_time": 1669766119,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 259129,
       "num": 259129,
       "word": "伊朗半场0比1美国",
@@ -4137,6 +4305,14 @@
       "onboard_time": 1669700256,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 253737,
+      "num": 253737,
+      "word": "男子一觉醒来天旋地转竟是患耳石症",
+      "onboard_time": 1669766360,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 253294,
@@ -4635,6 +4811,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 214030,
+      "num": 214030,
+      "word": "猫妈妈把地盘留给小猫后独自流浪",
+      "onboard_time": 1669765223,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 213321,
       "num": 213321,
       "word": "强制开机后一秒关机的狗狗",
@@ -4649,6 +4833,14 @@
       "onboard_time": 1669659557,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 212136,
+      "num": 212136,
+      "word": "Angelababy年度热度人物",
+      "onboard_time": 1669763841,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 212123,
@@ -4875,6 +5067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 194538,
+      "num": 194538,
+      "word": "原来兔兔也会不开心",
+      "onboard_time": 1669771827,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 193209,
       "num": 193209,
       "word": "谭松韵日常vlog",
@@ -4971,6 +5171,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 187921,
+      "num": 187921,
+      "word": "街道办回应网传核酸检测样本被丢弃",
+      "onboard_time": 1669771639,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187649,
       "num": 187649,
       "word": "越位",
@@ -5033,6 +5241,14 @@
       "onboard_time": 1669635156,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 184800,
+      "num": 184800,
+      "word": "中国6名航天员太空同框",
+      "onboard_time": 1669768040,
+      "rank": 40,
+      "category": "科技,国内要闻"
     },
     {
       "raw_hot": 184592,
@@ -5147,6 +5363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 175040,
+      "num": 175040,
+      "word": "6名航天员将一起吃早饭",
+      "onboard_time": 1669772241,
+      "rank": 41,
+      "category": "科技"
+    },
+    {
       "raw_hot": 174906,
       "num": 174906,
       "word": "暖心班主任突击检查学生穿棉裤",
@@ -5169,6 +5393,14 @@
       "onboard_time": 1669649917,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 174187,
+      "num": 174187,
+      "word": "李薇元英好哭",
+      "onboard_time": 1669770260,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 174166,
@@ -5241,14 +5473,6 @@
       "onboard_time": 1669691971,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 170662,
-      "num": 170662,
-      "word": "中国茶申遗成功",
-      "onboard_time": 1669764441,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 170053,
@@ -5411,6 +5635,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 165626,
+      "num": 165626,
+      "word": "圣斗士星矢真人电影先导预告",
+      "onboard_time": 1669770681,
+      "rank": 44,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 165508,
       "num": 165508,
       "word": "高校宿舍违规电器查出烤肠机",
@@ -5457,14 +5689,6 @@
       "onboard_time": 1669706137,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 163400,
-      "num": 163400,
-      "word": "Angelababy年度热度人物",
-      "onboard_time": 1669763841,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 163322,
@@ -5651,6 +5875,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 151854,
+      "num": 151854,
+      "word": "杭州今冬初雪",
+      "onboard_time": 1669772600,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 151592,
       "num": 151592,
       "word": "云南昭通一中学大课间炫爆了",
@@ -5689,6 +5921,14 @@
       "onboard_time": 1669614751,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 149350,
+      "num": 149350,
+      "word": "考研房遇圣诞部分酒店价格暴涨",
+      "onboard_time": 1669772600,
+      "rank": 49,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 149079,
@@ -5937,14 +6177,6 @@
       "onboard_time": 1669613436,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 139921,
-      "num": 139921,
-      "word": "伊朗0比1美国",
-      "onboard_time": 1669763900,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 139572,
