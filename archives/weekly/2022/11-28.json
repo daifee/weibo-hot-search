@@ -1,6 +1,6 @@
 {
   "startTime": 1669566398830,
-  "endTime": 1669790481922,
+  "endTime": 1669792682887,
   "band_list": [
     {
       "raw_hot": 11045761,
@@ -113,6 +113,14 @@
       "onboard_time": 1669734326,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 3350803,
+      "num": 3350803,
+      "word": "广州核酸",
+      "onboard_time": 1669789702,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3311639,
@@ -363,6 +371,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1801784,
+      "num": 1801784,
+      "word": "巴西球员集体感冒",
+      "onboard_time": 1669786882,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1786836,
       "num": 1786836,
       "word": "郎朗是内马尔的钢琴老师",
@@ -499,14 +515,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1563078,
-      "num": 1563078,
-      "word": "巴西球员集体感冒",
-      "onboard_time": 1669786882,
-      "rank": 1,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1548461,
       "num": 1548461,
       "word": "国家疾控局回应网友反映层层加码问题",
@@ -641,6 +649,14 @@
       "onboard_time": 1669730786,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1383830,
+      "num": 1383830,
+      "word": "广州番禺解除所有疫情防控临时管控区",
+      "onboard_time": 1669791383,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1381677,
@@ -1155,6 +1171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 925095,
+      "num": 925095,
+      "word": "广州疫情防控",
+      "onboard_time": 1669792282,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 924988,
       "num": 924988,
       "word": "宋宁峰没有怪撞死母亲的人",
@@ -1368,6 +1392,14 @@
       "word": "郑州30日凌晨起出行要求有变",
       "onboard_time": 1669729948,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 793095,
+      "num": 793095,
+      "word": "浏阳通报街道工作人员入户打人",
+      "onboard_time": 1669790662,
+      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -1643,6 +1675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 689750,
+      "num": 607486,
+      "word": "广州多区宣布解除疫情防控临时管控区",
+      "onboard_time": 1669792524,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 688105,
       "num": 688105,
       "word": "小伙娶见义勇为女孩为妻照顾34年",
@@ -1745,14 +1785,6 @@
       "onboard_time": 1669780581,
       "rank": 16,
       "category": "影视"
-    },
-    {
-      "raw_hot": 656325,
-      "num": 656325,
-      "word": "广州核酸",
-      "onboard_time": 1669789702,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 654904,
@@ -1899,6 +1931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 622029,
+      "num": 1426453,
+      "word": "各地最新疫情防控举措速览",
+      "onboard_time": 1669790662,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 621410,
       "num": 478928,
       "word": "王鹤棣西装里穿针织衫",
@@ -1913,6 +1953,14 @@
       "onboard_time": 1669770441,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 609645,
+      "num": 609645,
+      "word": "沧月绘是苍兰诀的姊妹篇吗",
+      "onboard_time": 1669789943,
+      "rank": 10,
+      "category": "影视"
     },
     {
       "raw_hot": 607168,
@@ -1945,6 +1993,14 @@
       "onboard_time": 1669715556,
       "rank": 12,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 598815,
+      "num": 598815,
+      "word": "阿根廷迎生死战",
+      "onboard_time": 1669789163,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 596404,
@@ -2547,6 +2603,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 466854,
+      "num": 466854,
+      "word": "全国下雪到成都只剩头皮雪",
+      "onboard_time": 1669788745,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 466424,
       "num": 466424,
       "word": "北京昨增本土确诊1282例",
@@ -2793,14 +2857,6 @@
       "onboard_time": 1669732830,
       "rank": 27,
       "category": "科技"
-    },
-    {
-      "raw_hot": 438086,
-      "num": 438086,
-      "word": "沧月绘是苍兰诀的姊妹篇吗",
-      "onboard_time": 1669789943,
-      "rank": 10,
-      "category": "影视"
     },
     {
       "raw_hot": 436531,
@@ -3203,6 +3259,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 391063,
+      "num": 391063,
+      "word": "刘畊宏说下雪天适合听蔡徐坤hugme",
+      "onboard_time": 1669789163,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 389431,
       "num": 389431,
       "word": "因剧名很难安利出去的剧",
@@ -3425,6 +3489,14 @@
       "onboard_time": 1669730786,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 366484,
+      "num": 366484,
+      "word": "任嘉伦新歌是方文山作词",
+      "onboard_time": 1669792103,
+      "rank": 18,
+      "category": "音乐"
     },
     {
       "raw_hot": 366280,
@@ -4027,6 +4099,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 318390,
+      "num": 318390,
+      "word": "楼上孩子太吵沟通无果女子用音响反击",
+      "onboard_time": 1669789881,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 318365,
       "num": 311363,
       "word": "比利时到底怎么了",
@@ -4225,14 +4305,6 @@
       "onboard_time": 1669700852,
       "rank": 29,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 300794,
-      "num": 300794,
-      "word": "刘畊宏说下雪天适合听蔡徐坤hugme",
-      "onboard_time": 1669789163,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 300338,
@@ -4635,14 +4707,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 266838,
-      "num": 266838,
-      "word": "阿根廷迎生死战",
-      "onboard_time": 1669789163,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 265195,
       "num": 265195,
       "word": "没给韩国角球",
@@ -4825,6 +4889,14 @@
       "onboard_time": 1669629994,
       "rank": 39,
       "category": "幽默,教育"
+    },
+    {
+      "raw_hot": 249010,
+      "num": 249010,
+      "word": "陈楚生苏醒王栎鑫俞灏明张远梦幻MV",
+      "onboard_time": 1669791026,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 247639,
@@ -5129,14 +5201,6 @@
       "onboard_time": 1669660095,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 225625,
-      "num": 225625,
-      "word": "全国下雪到成都只剩头皮雪",
-      "onboard_time": 1669788745,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 225484,
@@ -5571,6 +5635,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 196493,
+      "num": 196493,
+      "word": "郑钧谈对刘芸第一印象",
+      "onboard_time": 1669789523,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 195920,
       "num": 195920,
       "word": "找到nana建模脸的秘密了",
@@ -5667,14 +5739,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 192838,
-      "num": 104405,
-      "word": "郑钧谈对刘芸第一印象",
-      "onboard_time": 1669789523,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 192432,
       "num": 192432,
       "word": "尹岐被贬",
@@ -5769,6 +5833,14 @@
       "onboard_time": 1669702954,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 189510,
+      "num": 189510,
+      "word": "白敬亭片场又当教练又当裁判",
+      "onboard_time": 1669792343,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 189284,
@@ -6227,6 +6299,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 167041,
+      "num": 167041,
+      "word": "男孩吃面包被卡医生光脚跑来急救",
+      "onboard_time": 1669790002,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 166715,
       "num": 166715,
       "word": "葡萄牙巴西晋级16强",
@@ -6339,14 +6419,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 163968,
-      "num": 163968,
-      "word": "楼上孩子太吵沟通无果女子用音响反击",
-      "onboard_time": 1669789881,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 163925,
       "num": 163925,
       "word": "2岁萌娃为吃西瓜三次变脸",
@@ -6425,6 +6497,14 @@
       "onboard_time": 1669620692,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 158787,
+      "num": 158787,
+      "word": "学医前后的颜值变化",
+      "onboard_time": 1669792463,
+      "rank": 42,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 158365,
@@ -6531,12 +6611,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 152943,
+      "num": 152943,
+      "word": "小木匠妻子回应劳荣枝二审死刑",
+      "onboard_time": 1669789583,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 152841,
       "num": 152841,
       "word": "敖子逸超球少年开播海报",
       "onboard_time": 1669691253,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 152840,
+      "num": 152840,
+      "word": "韩媒称裁判偏袒C罗",
+      "onboard_time": 1669792524,
+      "rank": 44,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 152572,
@@ -6691,6 +6787,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 145736,
+      "num": 143053,
+      "word": "上网课吸猫发现没关麦",
+      "onboard_time": 1669792646,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 145708,
       "num": 145708,
       "word": "死亡之组出线形势",
@@ -6705,14 +6809,6 @@
       "onboard_time": 1669630896,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 145271,
-      "num": 145271,
-      "word": "男孩吃面包被卡医生光脚跑来急救",
-      "onboard_time": 1669790002,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 145164,
@@ -7091,14 +7187,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 112309,
-      "num": 115040,
-      "word": "小木匠妻子回应劳荣枝二审死刑",
-      "onboard_time": 1669789583,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 110616,
       "num": 110616,
       "word": "塞内加尔晋级16强",
@@ -7243,6 +7331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 96972,
+      "num": 413354,
+      "word": "小米13全系徕卡长焦",
+      "onboard_time": 1669791632,
+      "rank": 14,
+      "category": "科技"
+    },
+    {
       "raw_hot": 95214,
       "num": 95214,
       "word": "莫拉塔破门",
@@ -7385,6 +7481,14 @@
       "onboard_time": 1669677622,
       "rank": 49,
       "category": "科技"
+    },
+    {
+      "raw_hot": 22786,
+      "num": 159257,
+      "word": "冬天拿捏懒人的灵魂鸡汤面",
+      "onboard_time": 1669791632,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 14698,

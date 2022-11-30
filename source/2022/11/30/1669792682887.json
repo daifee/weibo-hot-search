@@ -1,0 +1,410 @@
+{
+  "runTime": 1669792682887,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3350803,
+        "num": 3350803,
+        "word": "广州核酸",
+        "onboard_time": 1669789702,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1801784,
+        "num": 1801784,
+        "word": "巴西球员集体感冒",
+        "onboard_time": 1669786882,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 622029,
+        "num": 1426453,
+        "word": "各地最新疫情防控举措速览",
+        "onboard_time": 1669790662,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1383830,
+        "num": 1383830,
+        "word": "广州番禺解除所有疫情防控临时管控区",
+        "onboard_time": 1669791383,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1368448,
+        "num": 1368448,
+        "word": "赵丽颖爸爸担心她入戏太深",
+        "onboard_time": 1669787663,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 925095,
+        "num": 925095,
+        "word": "广州疫情防控",
+        "onboard_time": 1669792282,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 793095,
+        "num": 793095,
+        "word": "浏阳通报街道工作人员入户打人",
+        "onboard_time": 1669790662,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 683628,
+        "num": 683628,
+        "word": "夫妻商议离婚丈夫为断干净拒付抚养费",
+        "onboard_time": 1669785984,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 638854,
+        "num": 638854,
+        "word": "劳荣枝二审死刑",
+        "onboard_time": 1669776681,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 609645,
+        "num": 609645,
+        "word": "沧月绘是苍兰诀的姊妹篇吗",
+        "onboard_time": 1669789943,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 689750,
+        "num": 607486,
+        "word": "广州多区宣布解除疫情防控临时管控区",
+        "onboard_time": 1669792524,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 598815,
+        "num": 598815,
+        "word": "阿根廷迎生死战",
+        "onboard_time": 1669789163,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 577192,
+        "num": 577192,
+        "word": "广州动态调整强化社会面防控措施",
+        "onboard_time": 1669769662,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 466854,
+        "num": 466854,
+        "word": "全国下雪到成都只剩头皮雪",
+        "onboard_time": 1669788745,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96972,
+        "num": 413354,
+        "word": "小米13全系徕卡长焦",
+        "onboard_time": 1669791632,
+        "rank": 14,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 391063,
+        "num": 391063,
+        "word": "刘畊宏说下雪天适合听蔡徐坤hugme",
+        "onboard_time": 1669789163,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 374617,
+        "num": 374617,
+        "word": "尿不湿放门口被工人当煤气灶偷走",
+        "onboard_time": 1669781663,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 369494,
+        "num": 369494,
+        "word": "7岁可爱女童患恶性肿瘤容貌变样",
+        "onboard_time": 1669787602,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 366484,
+        "num": 366484,
+        "word": "任嘉伦新歌是方文山作词",
+        "onboard_time": 1669792103,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 361781,
+        "num": 361781,
+        "word": "内蒙古一地发通报因天冷不做核酸",
+        "onboard_time": 1669783402,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 513776,
+        "num": 352221,
+        "word": "福建一女子为丈夫3年连剖3胎",
+        "onboard_time": 1669779626,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333101,
+        "num": 333101,
+        "word": "叠纸",
+        "onboard_time": 1669786284,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 322989,
+        "num": 322989,
+        "word": "郎朗是内马尔的钢琴老师",
+        "onboard_time": 1669779442,
+        "rank": 22,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 318390,
+        "num": 318390,
+        "word": "楼上孩子太吵沟通无果女子用音响反击",
+        "onboard_time": 1669789881,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272760,
+        "num": 272760,
+        "word": "李峋三年后又送朱韵公主裙",
+        "onboard_time": 1669783942,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 262125,
+        "num": 262125,
+        "word": "女子吃辣被呛咳断4根肋骨",
+        "onboard_time": 1669777824,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261608,
+        "num": 261608,
+        "word": "世界杯踢17场才赢1场的球队",
+        "onboard_time": 1669784428,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 249010,
+        "num": 249010,
+        "word": "陈楚生苏醒王栎鑫俞灏明张远梦幻MV",
+        "onboard_time": 1669791026,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 234035,
+        "num": 234035,
+        "word": "95后四小生名单",
+        "onboard_time": 1669776262,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225853,
+        "num": 225853,
+        "word": "广东发现全球新物种",
+        "onboard_time": 1669775362,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201892,
+        "num": 201892,
+        "word": "波兰vs阿根廷",
+        "onboard_time": 1669787304,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196493,
+        "num": 196493,
+        "word": "郑钧谈对刘芸第一印象",
+        "onboard_time": 1669789523,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194305,
+        "num": 194305,
+        "word": "C罗梅西和内马尔的关注列表",
+        "onboard_time": 1669780827,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189510,
+        "num": 189510,
+        "word": "白敬亭片场又当教练又当裁判",
+        "onboard_time": 1669792343,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 187469,
+        "num": 187469,
+        "word": "仙剑六首发角色海报",
+        "onboard_time": 1669775662,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 186327,
+        "num": 186327,
+        "word": "偶像练习生官宣五周年了",
+        "onboard_time": 1669782626,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181924,
+        "num": 181924,
+        "word": "于正说李一桐配得上一切好的剧本",
+        "onboard_time": 1669785441,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 167041,
+        "num": 167041,
+        "word": "男孩吃面包被卡医生光脚跑来急救",
+        "onboard_time": 1669790002,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161679,
+        "num": 161679,
+        "word": "卡塔尔花2200亿进一个球",
+        "onboard_time": 1669768760,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22786,
+        "num": 159257,
+        "word": "冬天拿捏懒人的灵魂鸡汤面",
+        "onboard_time": 1669791632,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 172581,
+        "num": 159162,
+        "word": "欧豪砸自己14个酒瓶只播了1个",
+        "onboard_time": 1669780581,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 167730,
+        "num": 159038,
+        "word": "郭晓婷后援会否认接触武庚纪",
+        "onboard_time": 1669785083,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 158787,
+        "num": 158787,
+        "word": "学医前后的颜值变化",
+        "onboard_time": 1669792463,
+        "rank": 42,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 152943,
+        "num": 152943,
+        "word": "小木匠妻子回应劳荣枝二审死刑",
+        "onboard_time": 1669789583,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152840,
+        "num": 152840,
+        "word": "韩媒称裁判偏袒C罗",
+        "onboard_time": 1669792524,
+        "rank": 44,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 151305,
+        "num": 151305,
+        "word": "无限暖暖",
+        "onboard_time": 1669775482,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 143054,
+        "num": 143054,
+        "word": "塞尔达主创加入无限暖暖",
+        "onboard_time": 1669785802,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 145736,
+        "num": 143053,
+        "word": "上网课吸猫发现没关麦",
+        "onboard_time": 1669792646,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 141664,
+        "num": 141664,
+        "word": "员工超3次不在工位被认定旷工遭辞退",
+        "onboard_time": 1669780342,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140618,
+        "num": 140618,
+        "word": "北京昨增本土确诊1282例",
+        "onboard_time": 1669777641,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#进一步提升防控的科学性和精准性#"
+    }
+  }
+}
