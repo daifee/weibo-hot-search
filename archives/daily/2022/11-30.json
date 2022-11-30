@@ -1,7 +1,15 @@
 {
   "startTime": 1669739332504,
-  "endTime": 1669777424489,
+  "endTime": 1669778855714,
   "band_list": [
+    {
+      "raw_hot": 3535781,
+      "num": 3571563,
+      "word": "劳荣枝二审死刑",
+      "onboard_time": 1669776681,
+      "rank": 39,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 2756631,
       "num": 2756631,
@@ -19,20 +27,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1938428,
+      "num": 1938428,
+      "word": "仙剑六首发角色海报",
+      "onboard_time": 1669775662,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1828397,
       "num": 1828397,
       "word": "广州南站滞留",
       "onboard_time": 1669771100,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1734096,
-      "num": 1734096,
-      "word": "仙剑六首发角色海报",
-      "onboard_time": 1669775662,
-      "rank": 5,
-      "category": "影视"
     },
     {
       "raw_hot": 1717675,
@@ -75,12 +83,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1209705,
-      "num": 594345,
-      "word": "劳荣枝二审死刑",
-      "onboard_time": 1669776681,
-      "rank": 39,
-      "category": "社会新闻"
+      "raw_hot": 1187061,
+      "num": 1187061,
+      "word": "95后四小生名单",
+      "onboard_time": 1669776262,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 1168748,
@@ -155,14 +163,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 921201,
-      "num": 921201,
-      "word": "95后四小生名单",
-      "onboard_time": 1669776262,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 855290,
       "num": 855290,
       "word": "人民至上不是防疫至上",
@@ -203,6 +203,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 705087,
+      "num": 705087,
+      "word": "广东发现全球新物种",
+      "onboard_time": 1669775362,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 674578,
+      "num": 674578,
+      "word": "nabi品牌关联公司成立不足半年",
+      "onboard_time": 1669775482,
+      "rank": 27,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 664447,
       "num": 664447,
       "word": "今年已有5家核酸企业IPO过会",
@@ -219,20 +235,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 631928,
+      "num": 631928,
+      "word": "无限暖暖",
+      "onboard_time": 1669775482,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 619542,
       "num": 619542,
       "word": "北京新增风险点汇总",
       "onboard_time": 1669770441,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 611544,
-      "num": 611544,
-      "word": "无限暖暖",
-      "onboard_time": 1669775482,
-      "rank": 18,
-      "category": "游戏"
     },
     {
       "raw_hot": 594702,
@@ -265,6 +281,14 @@
       "onboard_time": 1669739665,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 545243,
+      "num": 267019,
+      "word": "肖战晒live图说雨夜和火锅很配",
+      "onboard_time": 1669778542,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 540026,
@@ -307,12 +331,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 505226,
-      "num": 505226,
-      "word": "广东发现全球新物种",
-      "onboard_time": 1669775362,
-      "rank": 26,
-      "category": "社会新闻"
+      "raw_hot": 507278,
+      "num": 507278,
+      "word": "考生因紧张抽搐监考老师教科书式救回",
+      "onboard_time": 1669776982,
+      "rank": 42,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 497076,
@@ -451,11 +475,35 @@
       "category": "影视"
     },
     {
+      "raw_hot": 371030,
+      "num": 371030,
+      "word": "公司临时毁约弃用毕业生被诉赔1万5",
+      "onboard_time": 1669775063,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 365147,
+      "num": 266952,
+      "word": "北京昨增本土确诊1282例",
+      "onboard_time": 1669777641,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 365064,
       "num": 365064,
       "word": "吃橘子会变阳你真是多虑了",
       "onboard_time": 1669741161,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 360076,
+      "num": 360076,
+      "word": "女子吃辣被呛咳断4根肋骨",
+      "onboard_time": 1669777824,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -481,6 +529,14 @@
       "onboard_time": 1669722877,
       "rank": 18,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 337634,
+      "num": 337634,
+      "word": "女子袜子掉色染黑脚趾8天不褪色",
+      "onboard_time": 1669775601,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 331999,
@@ -515,14 +571,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 311896,
-      "num": 311896,
-      "word": "nabi品牌关联公司成立不足半年",
-      "onboard_time": 1669775482,
-      "rank": 27,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 309149,
       "num": 309149,
       "word": "葡萄牙足协证明进球属于C罗",
@@ -537,14 +585,6 @@
       "onboard_time": 1669746616,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 290562,
-      "num": 290562,
-      "word": "公司临时毁约弃用毕业生被诉赔1万5",
-      "onboard_time": 1669775063,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 290554,
@@ -739,14 +779,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 195322,
-      "num": 195322,
-      "word": "女子袜子掉色染黑脚趾8天不褪色",
-      "onboard_time": 1669775601,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 192285,
       "num": 192285,
       "word": "王鹤棣陈飞宇唱告白气球",
@@ -803,12 +835,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 182000,
-      "num": 182000,
-      "word": "考生因紧张抽搐监考老师教科书式救回",
-      "onboard_time": 1669776982,
-      "rank": 42,
-      "category": "社会新闻,教育"
+      "raw_hot": 177560,
+      "num": 177560,
+      "word": "东北男子用碗接霰像接大米",
+      "onboard_time": 1669777942,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 176623,
@@ -841,6 +873,14 @@
       "onboard_time": 1669761916,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167552,
+      "num": 167552,
+      "word": "许凯虞书欣仙剑六宿命感",
+      "onboard_time": 1669778600,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 167407,
@@ -899,6 +939,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 153084,
+      "num": 153084,
+      "word": "桂林被指猥亵患者医生已停职",
+      "onboard_time": 1669778782,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 152464,
       "num": 152464,
       "word": "秦施摔倒",
@@ -913,6 +961,14 @@
       "onboard_time": 1669761434,
       "rank": 34,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 151476,
+      "num": 151476,
+      "word": "不期而至",
+      "onboard_time": 1669777824,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 148945,
