@@ -1,0 +1,410 @@
+{
+  "runTime": 1669797636074,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4852221,
+        "num": 4852221,
+        "word": "广州多区宣布解除疫情防控临时管控区",
+        "onboard_time": 1669792524,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1922148,
+        "num": 1922148,
+        "word": "广州核酸",
+        "onboard_time": 1669789702,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 844082,
+        "num": 1457694,
+        "word": "各地最新疫情防控举措速览",
+        "onboard_time": 1669790662,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1259773,
+        "num": 1259773,
+        "word": "孩子捡回来1只螳螂暖气来了变1窝",
+        "onboard_time": 1669793726,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 989127,
+        "num": 989127,
+        "word": "WE彻底疯狂",
+        "onboard_time": 1669794204,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 924884,
+        "num": 924884,
+        "word": "广州发布会",
+        "onboard_time": 1669792884,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 899783,
+        "num": 899783,
+        "word": "95后四小花名单",
+        "onboard_time": 1669792705,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 884947,
+        "num": 884947,
+        "word": "丈夫吸烟近50年夫妻同患肺癌",
+        "onboard_time": 1669793242,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 834204,
+        "num": 834204,
+        "word": "赵丽颖爸爸担心她入戏太深",
+        "onboard_time": 1669787663,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 823563,
+        "num": 823563,
+        "word": "广州疫情防控",
+        "onboard_time": 1669792282,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 732646,
+        "num": 732646,
+        "word": "卡塔尔人均财富880万元",
+        "onboard_time": 1669794744,
+        "rank": 10,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 709092,
+        "num": 709092,
+        "word": "广州海珠宣布密接可居家隔离",
+        "onboard_time": 1669796485,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 622073,
+        "num": 622073,
+        "word": "巴西球员集体感冒",
+        "onboard_time": 1669786882,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 594036,
+        "num": 594036,
+        "word": "韩媒称裁判偏袒C罗",
+        "onboard_time": 1669792524,
+        "rank": 13,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 566162,
+        "num": 566162,
+        "word": "上网课吸猫发现没关麦",
+        "onboard_time": 1669792646,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 513565,
+        "num": 513565,
+        "word": "浏阳通报街道工作人员入户打人",
+        "onboard_time": 1669790662,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 488437,
+        "num": 488437,
+        "word": "劳荣枝对二审死刑表示不服",
+        "onboard_time": 1669794084,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 462493,
+        "num": 462493,
+        "word": "核子基因厦门公司被列为经营异常",
+        "onboard_time": 1669796004,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 433259,
+        "num": 433259,
+        "word": "ITZY主打曲Cheshire",
+        "onboard_time": 1669797146,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 425618,
+        "num": 425618,
+        "word": "朴信惠朴炯植将合作新剧",
+        "onboard_time": 1669795762,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 383341,
+        "num": 383341,
+        "word": "劳荣枝二审死刑",
+        "onboard_time": 1669776681,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 380626,
+        "num": 380626,
+        "word": "沧月绘是苍兰诀的姊妹篇吗",
+        "onboard_time": 1669789943,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 373061,
+        "num": 373061,
+        "word": "高中生收取外送食物被退学处分已取消",
+        "onboard_time": 1669796185,
+        "rank": 22,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 365169,
+        "num": 365169,
+        "word": "阿根廷迎生死战",
+        "onboard_time": 1669789163,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 356664,
+        "num": 356664,
+        "word": "广州番禺解除所有疫情防控临时管控区",
+        "onboard_time": 1669791383,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327721,
+        "num": 327721,
+        "word": "福建一女子为丈夫3年连剖3胎",
+        "onboard_time": 1669779626,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307023,
+        "num": 307023,
+        "word": "苏醒每四年娱乐圈朋友最多",
+        "onboard_time": 1669797083,
+        "rank": 26,
+        "category": "体育,综艺"
+      },
+      {
+        "raw_hot": 295715,
+        "num": 295715,
+        "word": "学医前后的颜值变化",
+        "onboard_time": 1669792463,
+        "rank": 27,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 293431,
+        "num": 293431,
+        "word": "MAMA",
+        "onboard_time": 1669793904,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 290670,
+        "num": 290670,
+        "word": "Hero晋级世冠小组赛",
+        "onboard_time": 1669795345,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 279623,
+        "num": 279623,
+        "word": "全国下雪到成都只剩头皮雪",
+        "onboard_time": 1669788745,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257873,
+        "num": 257873,
+        "word": "杨幂GQ红毯背后点评选手扫楼",
+        "onboard_time": 1669796784,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 251906,
+        "num": 251906,
+        "word": "毛豆和杨超越合影好快乐啊",
+        "onboard_time": 1669794744,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 251615,
+        "num": 251615,
+        "word": "夫妻商议离婚丈夫为断干净拒付抚养费",
+        "onboard_time": 1669785984,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246362,
+        "num": 246362,
+        "word": "李峋挑衅高见鸿",
+        "onboard_time": 1669793123,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 240404,
+        "num": 240404,
+        "word": "newjeans的MAMA红毯新闻图",
+        "onboard_time": 1669795283,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 221615,
+        "num": 221615,
+        "word": "何洛洛是来拿实习证明的",
+        "onboard_time": 1669796004,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220605,
+        "num": 220605,
+        "word": "任嘉伦新歌是方文山作词",
+        "onboard_time": 1669792103,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 180249,
+        "num": 180249,
+        "word": "初冬的柿子和雪景太配了",
+        "onboard_time": 1669796125,
+        "rank": 38,
+        "category": "美食,旅游"
+      },
+      {
+        "raw_hot": 179543,
+        "num": 179543,
+        "word": "楼上孩子太吵沟通无果女子用音响反击",
+        "onboard_time": 1669789881,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172362,
+        "num": 172362,
+        "word": "刘畊宏说下雪天适合听蔡徐坤hugme",
+        "onboard_time": 1669789163,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170129,
+        "num": 170129,
+        "word": "郎朗是内马尔的钢琴老师",
+        "onboard_time": 1669779442,
+        "rank": 41,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 164530,
+        "num": 164530,
+        "word": "这花店是懂浪漫的",
+        "onboard_time": 1669796361,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 163646,
+        "num": 163646,
+        "word": "女子吃辣被呛咳断4根肋骨",
+        "onboard_time": 1669777824,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163483,
+        "num": 163483,
+        "word": "一人之下5动画定档",
+        "onboard_time": 1669795465,
+        "rank": 44,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 158770,
+        "num": 158770,
+        "word": "广东发现全球新物种",
+        "onboard_time": 1669775362,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154208,
+        "num": 154208,
+        "word": "7岁可爱女童患恶性肿瘤容貌变样",
+        "onboard_time": 1669787602,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141393,
+        "num": 153085,
+        "word": "AI绘画把狗画成肌肉男",
+        "onboard_time": 1669796963,
+        "rank": 47,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 128384,
+        "num": 151058,
+        "word": "输液男子打骂妻子打伤劝架护士",
+        "onboard_time": 1669796963,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115553,
+        "num": 146704,
+        "word": "解压还是得看动画吧",
+        "onboard_time": 1669797566,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#6位中国航天员会师太空#"
+    }
+  }
+}

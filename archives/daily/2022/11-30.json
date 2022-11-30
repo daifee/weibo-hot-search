@@ -1,6 +1,6 @@
 {
   "startTime": 1669739332504,
-  "endTime": 1669796760341,
+  "endTime": 1669797636074,
   "band_list": [
     {
       "raw_hot": 5187465,
@@ -155,6 +155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1259773,
+      "num": 1259773,
+      "word": "孩子捡回来1只螳螂暖气来了变1窝",
+      "onboard_time": 1669793726,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1236147,
       "num": 1236147,
       "word": "95后四小生名单",
@@ -185,14 +193,6 @@
       "onboard_time": 1669794204,
       "rank": 3,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 1171763,
-      "num": 1171763,
-      "word": "孩子捡回来1只螳螂暖气来了变1窝",
-      "onboard_time": 1669793726,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1168748,
@@ -283,8 +283,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 917934,
-      "num": 917934,
+      "raw_hot": 924884,
+      "num": 924884,
       "word": "广州发布会",
       "onboard_time": 1669792884,
       "rank": 15,
@@ -297,6 +297,14 @@
       "onboard_time": 1669792705,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 884947,
+      "num": 884947,
+      "word": "丈夫吸烟近50年夫妻同患肺癌",
+      "onboard_time": 1669793242,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 881870,
@@ -339,14 +347,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 747441,
-      "num": 747441,
-      "word": "丈夫吸烟近50年夫妻同患肺癌",
-      "onboard_time": 1669793242,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 735822,
       "num": 735822,
       "word": "C罗梅西和内马尔的关注列表",
@@ -361,6 +361,14 @@
       "onboard_time": 1669768519,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 732646,
+      "num": 732646,
+      "word": "卡塔尔人均财富880万元",
+      "onboard_time": 1669794744,
+      "rank": 16,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 718659,
@@ -393,6 +401,14 @@
       "onboard_time": 1669776982,
       "rank": 42,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 709092,
+      "num": 709092,
+      "word": "广州海珠宣布密接可居家隔离",
+      "onboard_time": 1669796485,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 706733,
@@ -619,6 +635,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 488437,
+      "num": 488437,
+      "word": "劳荣枝对二审死刑表示不服",
+      "onboard_time": 1669794084,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 466854,
       "num": 466854,
       "word": "全国下雪到成都只剩头皮雪",
@@ -651,6 +675,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 462493,
+      "num": 462493,
+      "word": "核子基因厦门公司被列为经营异常",
+      "onboard_time": 1669796004,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 458429,
       "num": 458429,
       "word": "赵丽颖当面催更张若昀",
@@ -675,14 +707,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 445717,
-      "num": 445717,
-      "word": "卡塔尔人均财富880万元",
-      "onboard_time": 1669794744,
-      "rank": 16,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 443959,
       "num": 443959,
       "word": "世界杯历史首位女主裁",
@@ -699,12 +723,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 433259,
+      "num": 433259,
+      "word": "ITZY主打曲Cheshire",
+      "onboard_time": 1669797146,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 426132,
       "num": 210319,
       "word": "肖战发呆",
       "onboard_time": 1669724740,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 425618,
+      "num": 425618,
+      "word": "朴信惠朴炯植将合作新剧",
+      "onboard_time": 1669795762,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 423351,
@@ -843,20 +883,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 373061,
+      "num": 373061,
+      "word": "高中生收取外送食物被退学处分已取消",
+      "onboard_time": 1669796185,
+      "rank": 35,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 366484,
       "num": 366484,
       "word": "任嘉伦新歌是方文山作词",
       "onboard_time": 1669792103,
       "rank": 18,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 366342,
-      "num": 366342,
-      "word": "劳荣枝对二审死刑表示不服",
-      "onboard_time": 1669794084,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 365064,
@@ -995,6 +1035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 307023,
+      "num": 307023,
+      "word": "苏醒每四年娱乐圈朋友最多",
+      "onboard_time": 1669797083,
+      "rank": 26,
+      "category": "体育,综艺"
+    },
+    {
       "raw_hot": 301255,
       "num": 301255,
       "word": "MAMA",
@@ -1059,14 +1107,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 271791,
-      "num": 238467,
-      "word": "核子基因厦门公司被列为经营异常",
-      "onboard_time": 1669796004,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 271412,
       "num": 271412,
       "word": "男子偷变压器触电身亡家属索赔被驳",
@@ -1107,6 +1147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 257873,
+      "num": 257873,
+      "word": "杨幂GQ红毯背后点评选手扫楼",
+      "onboard_time": 1669796784,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 253737,
       "num": 253737,
       "word": "男子一觉醒来天旋地转竟是患耳石症",
@@ -1131,20 +1179,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 249739,
-      "num": 249739,
-      "word": "朴信惠朴炯植将合作新剧",
-      "onboard_time": 1669795762,
-      "rank": 29,
-      "category": "影视"
-    },
-    {
       "raw_hot": 249010,
       "num": 249010,
       "word": "陈楚生苏醒王栎鑫俞灏明张远梦幻MV",
       "onboard_time": 1669791026,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 246362,
+      "num": 246362,
+      "word": "李峋挑衅高见鸿",
+      "onboard_time": 1669793123,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 244814,
@@ -1259,28 +1307,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 219362,
-      "num": 219362,
-      "word": "李峋挑衅高见鸿",
-      "onboard_time": 1669793123,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 218761,
       "num": 191022,
       "word": "陈飞宇热播剧集角色吸粉榜登顶",
       "onboard_time": 1669789881,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 215266,
-      "num": 215266,
-      "word": "广州海珠宣布密接可居家隔离",
-      "onboard_time": 1669796485,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 214030,
@@ -1377,14 +1409,6 @@
       "onboard_time": 1669738643,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 198474,
-      "num": 198474,
-      "word": "高中生收取外送食物被退学处分已取消",
-      "onboard_time": 1669796185,
-      "rank": 35,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 196865,
@@ -1523,6 +1547,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 180249,
+      "num": 180249,
+      "word": "初冬的柿子和雪景太配了",
+      "onboard_time": 1669796125,
+      "rank": 43,
+      "category": "美食,旅游"
+    },
+    {
       "raw_hot": 176623,
       "num": 176623,
       "word": "接亲现场飞来一只蝴蝶盘旋新郎身边",
@@ -1571,14 +1603,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 170625,
-      "num": 170625,
-      "word": "初冬的柿子和雪景太配了",
-      "onboard_time": 1669796125,
-      "rank": 43,
-      "category": "美食,旅游"
-    },
-    {
       "raw_hot": 167407,
       "num": 167407,
       "word": "出什么事都不影响许半夏吃饭",
@@ -1617,6 +1641,14 @@
       "onboard_time": 1669770681,
       "rank": 44,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 164530,
+      "num": 164530,
+      "word": "这花店是懂浪漫的",
+      "onboard_time": 1669796361,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 163339,
@@ -1731,12 +1763,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 143027,
-      "num": 143027,
-      "word": "这花店是懂浪漫的",
-      "onboard_time": 1669796361,
-      "rank": 46,
-      "category": "情感"
+      "raw_hot": 141393,
+      "num": 153085,
+      "word": "AI绘画把狗画成肌肉男",
+      "onboard_time": 1669796963,
+      "rank": 47,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 141300,
@@ -1811,6 +1843,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 128384,
+      "num": 151058,
+      "word": "输液男子打骂妻子打伤劝架护士",
+      "onboard_time": 1669796963,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 121424,
       "num": 121424,
       "word": "男子大白天闯入餐厅折树枝偷水果",
@@ -1825,6 +1865,14 @@
       "onboard_time": 1669791632,
       "rank": 14,
       "category": "科技"
+    },
+    {
+      "raw_hot": 115553,
+      "num": 146704,
+      "word": "解压还是得看动画吧",
+      "onboard_time": 1669797566,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 115281,
