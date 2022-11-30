@@ -1,6 +1,6 @@
 {
   "startTime": 1669566398830,
-  "endTime": 1669829761974,
+  "endTime": 1669832732686,
   "band_list": [
     {
       "raw_hot": 71270277,
@@ -3627,6 +3627,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 400878,
+      "num": 100988,
+      "word": "世界杯16强就差亚洲球队",
+      "onboard_time": 1669829351,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 400811,
       "num": 400811,
       "word": "公司临时毁约弃用毕业生被诉赔1万5",
@@ -6387,6 +6395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 193890,
+      "num": 100735,
+      "word": "法国进球被吹",
+      "onboard_time": 1669828814,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 193841,
       "num": 193841,
       "word": "许凯虞书欣仙剑六宿命感",
@@ -7603,6 +7619,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 143904,
+      "num": 100301,
+      "word": "伊朗球员含泪向球迷道歉",
+      "onboard_time": 1669828151,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 143633,
       "num": 143633,
       "word": "教练的低血压被治好了",
@@ -7947,14 +7971,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 122596,
-      "num": 73704,
-      "word": "法国进球被吹",
-      "onboard_time": 1669828814,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 121424,
       "num": 121424,
       "word": "男子大白天闯入餐厅折树枝偷水果",
@@ -8009,14 +8025,6 @@
       "onboard_time": 1669627594,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 116073,
-      "num": 73516,
-      "word": "伊朗球员含泪向球迷道歉",
-      "onboard_time": 1669828151,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 115553,
@@ -8395,20 +8403,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 60227,
+      "num": 43660,
+      "word": "澳大利亚成首支出线的亚足联球队",
+      "onboard_time": 1669830311,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 57942,
       "num": 57942,
       "word": "孙千说道理都懂野猫只是想做自己喜欢的事情",
       "onboard_time": 1669678464,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 57205,
-      "num": 57205,
-      "word": "世界杯16强就差亚洲球队",
-      "onboard_time": 1669829351,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 51917,
@@ -8441,6 +8449,14 @@
       "onboard_time": 1669677200,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 41928,
+      "num": 41928,
+      "word": "法国大概率小组第一",
+      "onboard_time": 1669830372,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 39269,
@@ -8481,6 +8497,14 @@
       "onboard_time": 1669677622,
       "rank": 49,
       "category": "科技"
+    },
+    {
+      "raw_hot": 20151,
+      "num": 20151,
+      "word": "高科技介入足球是好是坏",
+      "onboard_time": 1669832109,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 14698,

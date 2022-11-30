@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1669829761974,
+  "endTime": 1669832732686,
   "band_list": [
     {
       "raw_hot": 1931721,
@@ -123,6 +123,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 400878,
+      "num": 100988,
+      "word": "世界杯16强就差亚洲球队",
+      "onboard_time": 1669829351,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 394060,
       "num": 347832,
       "word": "广州出发火车票瞬时搜索量增2.5倍",
@@ -193,6 +201,14 @@
       "onboard_time": 1669804610,
       "rank": 19,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 193890,
+      "num": 100735,
+      "word": "法国进球被吹",
+      "onboard_time": 1669828814,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 191232,
@@ -267,6 +283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 143904,
+      "num": 100301,
+      "word": "伊朗球员含泪向球迷道歉",
+      "onboard_time": 1669828151,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 139730,
       "num": 139730,
       "word": "研究称婴儿恒星喝奶后也打嗝",
@@ -291,28 +315,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 122596,
-      "num": 73704,
-      "word": "法国进球被吹",
-      "onboard_time": 1669828814,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 117961,
       "num": 117961,
       "word": "警方通报夫妻因楼上扰民强行破门打骂",
       "onboard_time": 1669805568,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 116073,
-      "num": 73516,
-      "word": "伊朗球员含泪向球迷道歉",
-      "onboard_time": 1669828151,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 112402,
@@ -459,11 +467,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 57205,
-      "num": 57205,
-      "word": "世界杯16强就差亚洲球队",
-      "onboard_time": 1669829351,
-      "rank": 40,
+      "raw_hot": 60227,
+      "num": 43660,
+      "word": "澳大利亚成首支出线的亚足联球队",
+      "onboard_time": 1669830311,
+      "rank": 31,
       "category": "体育"
     },
     {
@@ -471,6 +479,22 @@
       "num": 47044,
       "word": "沙特阿拉伯vs墨西哥",
       "onboard_time": 1669821195,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 41928,
+      "num": 41928,
+      "word": "法国大概率小组第一",
+      "onboard_time": 1669830372,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 20151,
+      "num": 20151,
+      "word": "高科技介入足球是好是坏",
+      "onboard_time": 1669832109,
       "rank": 49,
       "category": "体育"
     }
