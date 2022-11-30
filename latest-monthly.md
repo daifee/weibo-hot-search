@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/01 00:36:21 ~ 2022/11/30 17:35:41
+本榜单时间：2022/11/01 00:36:21 ~ 2022/11/30 18:22:07
 </p>
 </blockquote>
 <p>
@@ -6527,6 +6527,12 @@ C罗世界杯首秀（热度：939263）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%236%E4%BD%8D%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E5%91%98%E4%BC%9A%E5%B8%88%E5%A4%AA%E7%A9%BA%23%23" target="weibo">
 #6位中国航天员会师太空#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E6%B1%9F%E6%B3%BD%E6%B0%91%E5%90%8C%E5%BF%97%E5%9C%A8%E4%B8%8A%E6%B5%B7%E9%80%9D%E4%B8%96%23%23" target="weibo">
+#江泽民同志在上海逝世#
 </a>
 </li>
 

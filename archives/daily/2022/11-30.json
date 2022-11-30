@@ -1,6 +1,6 @@
 {
   "startTime": 1669739332504,
-  "endTime": 1669800941902,
+  "endTime": 1669803727697,
   "band_list": [
     {
       "raw_hot": 71270277,
@@ -395,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 770041,
+      "num": 431038,
+      "word": "北京大兴核酸检测最新要求",
+      "onboard_time": 1669801557,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 763030,
       "num": 763030,
       "word": "尿不湿放门口被工人当煤气灶偷走",
@@ -536,6 +544,22 @@
       "word": "北京新增风险点汇总",
       "onboard_time": 1669770441,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 616438,
+      "num": 5925601,
+      "word": "多地优化细化新冠疫情精准防控举措",
+      "onboard_time": 1669800964,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 609834,
+      "num": 609834,
+      "word": "广州要求不得扩大核酸检测范围",
+      "onboard_time": 1669801082,
+      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -707,6 +731,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 488737,
+      "num": 488737,
+      "word": "无锡一辆保时捷失控坠下高架桥",
+      "onboard_time": 1669798326,
+      "rank": 30,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 466854,
       "num": 466854,
       "word": "全国下雪到成都只剩头皮雪",
@@ -737,6 +769,14 @@
       "onboard_time": 1669737028,
       "rank": 15,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 463925,
+      "num": 416613,
+      "word": "8000元1件羽绒服直播间仅卖800元",
+      "onboard_time": 1669801381,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 458429,
@@ -923,6 +963,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 376759,
+      "num": 376759,
+      "word": "自动调温的羽绒服有多绝",
+      "onboard_time": 1669798569,
+      "rank": 23,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 376519,
       "num": 376519,
       "word": "李峋不敢抱朱韵的原因",
@@ -995,12 +1043,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 350037,
-      "num": 350037,
-      "word": "自动调温的羽绒服有多绝",
-      "onboard_time": 1669798569,
-      "rank": 23,
-      "category": "时尚"
+      "raw_hot": 344338,
+      "num": 344338,
+      "word": "美国男子买300台iPhone出门遭打劫",
+      "onboard_time": 1669798098,
+      "rank": 45,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 344245,
@@ -1081,14 +1129,6 @@
       "onboard_time": 1669782141,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 310873,
-      "num": 310873,
-      "word": "无锡一辆保时捷失控坠下高架桥",
-      "onboard_time": 1669798326,
-      "rank": 30,
-      "category": "社会负面"
     },
     {
       "raw_hot": 309149,
@@ -1419,6 +1459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 210031,
+      "num": 210031,
+      "word": "听到心墙就想起了内马尔",
+      "onboard_time": 1669800077,
+      "rank": 36,
+      "category": "体育,幽默"
+    },
+    {
       "raw_hot": 208295,
       "num": 208295,
       "word": "荷兰vs卡塔尔",
@@ -1489,6 +1537,14 @@
       "onboard_time": 1669789523,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 195678,
+      "num": 195678,
+      "word": "阿根廷小组出线关键一战",
+      "onboard_time": 1669800849,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 193841,
@@ -1707,12 +1763,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 165774,
+      "num": 165774,
+      "word": "C罗即将加盟沙特豪门",
+      "onboard_time": 1669803229,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 165626,
       "num": 165626,
       "word": "圣斗士星矢真人电影先导预告",
       "onboard_time": 1669770681,
       "rank": 44,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 164362,
+      "num": 164362,
+      "word": "广州新增",
+      "onboard_time": 1669801202,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 163339,
@@ -1787,14 +1859,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 149247,
-      "num": 149247,
-      "word": "听到心墙就想起了内马尔",
-      "onboard_time": 1669800077,
-      "rank": 36,
-      "category": "体育,幽默"
-    },
-    {
       "raw_hot": 148945,
       "num": 148945,
       "word": "女子被多人连续辱骂殴打6分钟",
@@ -1841,14 +1905,6 @@
       "onboard_time": 1669798628,
       "rank": 44,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 142729,
-      "num": 142729,
-      "word": "美国男子买300台iPhone出门遭打劫",
-      "onboard_time": 1669798098,
-      "rank": 45,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 141393,
@@ -1939,12 +1995,28 @@
       "category": "科技"
     },
     {
+      "raw_hot": 130927,
+      "num": 130927,
+      "word": "iPhone14Pro出货量预期下调20%",
+      "onboard_time": 1669797692,
+      "rank": 39,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 124845,
       "num": 124845,
       "word": "突尼斯vs法国",
       "onboard_time": 1669795404,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 123619,
+      "num": 123619,
+      "word": "客服回应网购蘸料碟吃饺子时掉色",
+      "onboard_time": 1669802091,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 121424,
@@ -1955,12 +2027,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 118513,
+      "num": 118513,
+      "word": "林书豪吐槽CBA赛区健身房",
+      "onboard_time": 1669803557,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 117892,
       "num": 449290,
       "word": "小米13全系徕卡长焦",
       "onboard_time": 1669791632,
       "rank": 14,
       "category": "科技"
+    },
+    {
+      "raw_hot": 115557,
+      "num": 115557,
+      "word": "Rookie纪录片",
+      "onboard_time": 1669802116,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 115553,
@@ -2003,6 +2091,14 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 111083,
+      "num": 111083,
+      "word": "女子回应买走老人白菜被质疑摆拍",
+      "onboard_time": 1669803439,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 110616,
       "num": 110616,
       "word": "塞内加尔晋级16强",
@@ -2017,6 +2113,14 @@
       "onboard_time": 1669742961,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 109288,
+      "num": 109288,
+      "word": "这才是记忆里的香葱肉松卷",
+      "onboard_time": 1669803439,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 108752,
@@ -2099,20 +2203,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 95749,
-      "num": 95749,
-      "word": "阿根廷小组出线关键一战",
-      "onboard_time": 1669800849,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 87600,
       "num": 87600,
       "word": "至亲离世的当下你是怎么度过的",
       "onboard_time": 1669745476,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 86303,
+      "num": 86303,
+      "word": "旗舰店买到假添柏岚不给退只赔券",
+      "onboard_time": 1669803678,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 82025,
@@ -2191,6 +2295,9 @@
     },
     {
       "word": "#6位中国航天员会师太空#"
+    },
+    {
+      "word": "#江泽民同志在上海逝世#"
     }
   ]
 }
