@@ -1,6 +1,6 @@
 {
   "startTime": 1669739332504,
-  "endTime": 1669786499781,
+  "endTime": 1669789536997,
   "band_list": [
     {
       "raw_hot": 3535781,
@@ -107,6 +107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1247724,
+      "num": 1247724,
+      "word": "赵丽颖爸爸担心她入戏太深",
+      "onboard_time": 1669787663,
+      "rank": 0,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1236147,
       "num": 1236147,
       "word": "95后四小生名单",
@@ -153,6 +161,14 @@
       "onboard_time": 1669769662,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1115795,
+      "num": 1115795,
+      "word": "巴西球员集体感冒",
+      "onboard_time": 1669786882,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 1082323,
@@ -227,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 770531,
+      "num": 770531,
+      "word": "夫妻商议离婚丈夫为断干净拒付抚养费",
+      "onboard_time": 1669785984,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 763030,
       "num": 763030,
       "word": "尿不湿放门口被工人当煤气灶偷走",
@@ -291,6 +315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 687635,
+      "num": 687635,
+      "word": "内蒙古一地发通报因天冷不做核酸",
+      "onboard_time": 1669783402,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 664447,
       "num": 664447,
       "word": "今年已有5家核酸企业IPO过会",
@@ -352,14 +384,6 @@
       "word": "北京已经启用方舱医院23家",
       "onboard_time": 1669731746,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 581358,
-      "num": 581358,
-      "word": "内蒙古一地发通报因天冷不做核酸",
-      "onboard_time": 1669783402,
-      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -465,6 +489,14 @@
       "onboard_time": 1669783942,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 488067,
+      "num": 488067,
+      "word": "叠纸",
+      "onboard_time": 1669786284,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 466424,
@@ -587,6 +619,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 410318,
+      "num": 410318,
+      "word": "世界杯踢17场才赢1场的球队",
+      "onboard_time": 1669784428,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 408496,
       "num": 268046,
       "word": "肖战两部剧获观众喜爱作品",
@@ -633,6 +673,14 @@
       "onboard_time": 1669730786,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 387513,
+      "num": 387513,
+      "word": "7岁可爱女童患恶性肿瘤容貌变样",
+      "onboard_time": 1669787602,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 376519,
@@ -803,6 +851,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 279537,
+      "num": 279537,
+      "word": "波兰vs阿根廷",
+      "onboard_time": 1669787304,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 271412,
       "num": 271412,
       "word": "男子偷变压器触电身亡家属索赔被驳",
@@ -851,14 +907,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 252440,
-      "num": 252440,
-      "word": "世界杯踢17场才赢1场的球队",
-      "onboard_time": 1669784428,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 244814,
       "num": 244814,
       "word": "北京宝沃汽车股份有限公司宣告破产",
@@ -905,6 +953,22 @@
       "onboard_time": 1669756333,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 231166,
+      "num": 198096,
+      "word": "GQ红毯背后",
+      "onboard_time": 1669786522,
+      "rank": 30,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 227998,
+      "num": 197551,
+      "word": "杨紫贺顿追踪故事真相剧照",
+      "onboard_time": 1669789283,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 226401,
@@ -1003,6 +1067,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 207687,
+      "num": 196707,
+      "word": "刘畊宏说下雪天适合听蔡徐坤hugme",
+      "onboard_time": 1669789163,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 205617,
       "num": 205617,
       "word": "杭州今冬初雪",
@@ -1035,6 +1107,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 199174,
+      "num": 199174,
+      "word": "塞尔达主创加入无限暖暖",
+      "onboard_time": 1669785802,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 199124,
       "num": 199124,
       "word": "张核子曾谈核子基因与其他公司不同",
@@ -1057,6 +1137,14 @@
       "onboard_time": 1669778600,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 192838,
+      "num": 104405,
+      "word": "郑钧谈对刘芸第一印象",
+      "onboard_time": 1669789523,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 192285,
@@ -1089,6 +1177,14 @@
       "onboard_time": 1669763720,
       "rank": 39,
       "category": "科技,国内要闻"
+    },
+    {
+      "raw_hot": 191400,
+      "num": 191400,
+      "word": "主人的伙食被狗狗嫌弃了",
+      "onboard_time": 1669784063,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 190900,
@@ -1179,14 +1275,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 169550,
-      "num": 169550,
-      "word": "主人的伙食被狗狗嫌弃了",
-      "onboard_time": 1669784063,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 167407,
       "num": 167407,
       "word": "出什么事都不影响许半夏吃饭",
@@ -1225,22 +1313,6 @@
       "onboard_time": 1669770681,
       "rank": 44,
       "category": "影视,动漫"
-    },
-    {
-      "raw_hot": 162349,
-      "num": 162349,
-      "word": "夫妻商议离婚丈夫为断干净拒付抚养费",
-      "onboard_time": 1669785984,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 156142,
-      "num": 156142,
-      "word": "叠纸",
-      "onboard_time": 1669786284,
-      "rank": 45,
-      "category": "游戏"
     },
     {
       "raw_hot": 155714,
@@ -1347,6 +1419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 138418,
+      "num": 138418,
+      "word": "全国下雪到成都只剩头皮雪",
+      "onboard_time": 1669788745,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 136885,
       "num": 136885,
       "word": "厄瓜多尔vs塞内加尔",
@@ -1385,6 +1465,14 @@
       "onboard_time": 1669737505,
       "rank": 49,
       "category": "科技"
+    },
+    {
+      "raw_hot": 124798,
+      "num": 124798,
+      "word": "阿根廷迎生死战",
+      "onboard_time": 1669789163,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 121424,
@@ -1433,6 +1521,38 @@
       "onboard_time": 1669745418,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 105542,
+      "num": 105542,
+      "word": "武大靖为AG世冠杯打call",
+      "onboard_time": 1669789403,
+      "rank": 44,
+      "category": "游戏,体育"
+    },
+    {
+      "raw_hot": 104998,
+      "num": 104998,
+      "word": "库里走步",
+      "onboard_time": 1669789465,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 103632,
+      "num": 103632,
+      "word": "猫咪的好奇心是会传染吗",
+      "onboard_time": 1669788682,
+      "rank": 48,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 103392,
+      "num": 103392,
+      "word": "梅西999场比赛",
+      "onboard_time": 1669789403,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 100136,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/01 00:36:21 ~ 2022/11/30 13:34:59
+本榜单时间：2022/11/01 00:36:21 ~ 2022/11/30 14:25:36
 </p>
 </blockquote>
 <p>
@@ -3633,6 +3633,12 @@ gemini（热度：1285265）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E7%88%B8%E7%88%B8%E6%8B%85%E5%BF%83%E5%A5%B9%E5%85%A5%E6%88%8F%E5%A4%AA%E6%B7%B1%23" target="weibo">
+赵丽颖爸爸担心她入戏太深（热度：1247724）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%99%A4%E4%BA%86%E4%B8%AD%E5%9B%BD%E9%98%9F%E6%B2%A1%E5%8E%BB%E5%85%B6%E4%BB%96%E9%83%BD%E5%8E%BB%E4%BA%86%23" target="weibo">
 中国除了中国队没去其他都去了（热度：1246040）
 </a>
@@ -4367,6 +4373,12 @@ iPhone折叠屏（热度：1140020）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E8%AF%B4%E5%94%B1%E6%AD%8C%E6%89%8Btakeoff%E8%A2%AB%E6%9E%AA%E6%9D%80%23" target="weibo">
 美国说唱歌手takeoff被枪杀（热度：1116315）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%A5%BF%E7%90%83%E5%91%98%E9%9B%86%E4%BD%93%E6%84%9F%E5%86%92%23" target="weibo">
+巴西球员集体感冒（热度：1115795）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ C罗世界杯首秀（热度：939263）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E5%A4%A7%E4%B8%BE%E6%8A%A5%E4%BA%BA%E6%AF%8D%E4%BA%B2%E7%A7%B0%E4%B8%BE%E6%8A%A5%E4%BF%A1%E6%81%AF%E4%B8%8D%E5%AE%9E%23" target="weibo">
 南大举报人母亲称举报信息不实（热度：890543）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E7%BB%8F%E6%9C%9F%E5%89%8D%E4%BC%9A%E8%8E%AB%E5%90%8Demo%23" target="weibo">
-为什么经期前会莫名emo（热度：890535）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23C%E7%BD%97%E5%B7%B2%E8%A2%AB%E7%A7%BB%E5%87%BA%E6%9B%BC%E8%81%94%E7%BE%A4%E8%81%8A%23" target="weibo">
-C罗已被移出曼联群聊（热度：890456）
 </a>
 </li>
 

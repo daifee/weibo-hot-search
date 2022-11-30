@@ -1,0 +1,410 @@
+{
+  "runTime": 1669789536997,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1247724,
+        "num": 1247724,
+        "word": "赵丽颖爸爸担心她入戏太深",
+        "onboard_time": 1669787663,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1115795,
+        "num": 1115795,
+        "word": "巴西球员集体感冒",
+        "onboard_time": 1669786882,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106549,
+        "num": 1013477,
+        "word": "第九版防控方案和二十条措施热点问答",
+        "onboard_time": 1669739601,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1004368,
+        "num": 1004368,
+        "word": "劳荣枝二审死刑",
+        "onboard_time": 1669776681,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 839707,
+        "num": 839707,
+        "word": "福建一女子为丈夫3年连剖3胎",
+        "onboard_time": 1669779626,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 770531,
+        "num": 770531,
+        "word": "夫妻商议离婚丈夫为断干净拒付抚养费",
+        "onboard_time": 1669785984,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 687635,
+        "num": 687635,
+        "word": "内蒙古一地发通报因天冷不做核酸",
+        "onboard_time": 1669783402,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 581462,
+        "num": 581462,
+        "word": "尿不湿放门口被工人当煤气灶偷走",
+        "onboard_time": 1669781663,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 578005,
+        "num": 578005,
+        "word": "郎朗是内马尔的钢琴老师",
+        "onboard_time": 1669779442,
+        "rank": 8,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 488067,
+        "num": 488067,
+        "word": "叠纸",
+        "onboard_time": 1669786284,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 449459,
+        "num": 449459,
+        "word": "女子吃辣被呛咳断4根肋骨",
+        "onboard_time": 1669777824,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 410318,
+        "num": 410318,
+        "word": "世界杯踢17场才赢1场的球队",
+        "onboard_time": 1669784428,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 403876,
+        "num": 403876,
+        "word": "偶像练习生官宣五周年了",
+        "onboard_time": 1669782626,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 392910,
+        "num": 392910,
+        "word": "于正说李一桐配得上一切好的剧本",
+        "onboard_time": 1669785441,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 387513,
+        "num": 387513,
+        "word": "7岁可爱女童患恶性肿瘤容貌变样",
+        "onboard_time": 1669787602,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 372963,
+        "num": 372963,
+        "word": "李峋三年后又送朱韵公主裙",
+        "onboard_time": 1669783942,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 327933,
+        "num": 327933,
+        "word": "C罗梅西和内马尔的关注列表",
+        "onboard_time": 1669780827,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 320028,
+        "num": 320028,
+        "word": "仙剑六首发角色海报",
+        "onboard_time": 1669775662,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 279537,
+        "num": 279537,
+        "word": "波兰vs阿根廷",
+        "onboard_time": 1669787304,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 264227,
+        "num": 264227,
+        "word": "卡塔尔花2200亿进一个球",
+        "onboard_time": 1669768760,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 303944,
+        "num": 259549,
+        "word": "欧豪砸自己14个酒瓶只播了1个",
+        "onboard_time": 1669780581,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 284026,
+        "num": 258776,
+        "word": "郭晓婷后援会否认接触武庚纪",
+        "onboard_time": 1669785083,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 254786,
+        "num": 254786,
+        "word": "员工超3次不在工位被认定旷工遭辞退",
+        "onboard_time": 1669780342,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242048,
+        "num": 242048,
+        "word": "广东发现全球新物种",
+        "onboard_time": 1669775362,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233154,
+        "num": 233154,
+        "word": "冯绍峰问什么班还需要朕亲自来上",
+        "onboard_time": 1669779262,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 207300,
+        "num": 207300,
+        "word": "无限暖暖",
+        "onboard_time": 1669775482,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 199174,
+        "num": 199174,
+        "word": "塞尔达主创加入无限暖暖",
+        "onboard_time": 1669785802,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 198529,
+        "num": 198529,
+        "word": "广州动态调整强化社会面防控措施",
+        "onboard_time": 1669769662,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198410,
+        "num": 198410,
+        "word": "nabi品牌关联公司成立不足半年",
+        "onboard_time": 1669775482,
+        "rank": 28,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 198228,
+        "num": 198228,
+        "word": "重庆四六级笔试延期举行",
+        "onboard_time": 1669782802,
+        "rank": 29,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 231166,
+        "num": 198096,
+        "word": "GQ红毯背后",
+        "onboard_time": 1669786522,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 227998,
+        "num": 197551,
+        "word": "杨紫贺顿追踪故事真相剧照",
+        "onboard_time": 1669789283,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 210508,
+        "num": 197003,
+        "word": "元英训斥弟弟",
+        "onboard_time": 1669782083,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 207687,
+        "num": 196707,
+        "word": "刘畊宏说下雪天适合听蔡徐坤hugme",
+        "onboard_time": 1669789163,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196518,
+        "num": 196518,
+        "word": "95后四小生名单",
+        "onboard_time": 1669776262,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191400,
+        "num": 191400,
+        "word": "主人的伙食被狗狗嫌弃了",
+        "onboard_time": 1669784063,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 180478,
+        "num": 180478,
+        "word": "踢个足球怎么还亲上了",
+        "onboard_time": 1669780040,
+        "rank": 36,
+        "category": "体育,幽默"
+      },
+      {
+        "raw_hot": 179254,
+        "num": 179254,
+        "word": "上海下雪",
+        "onboard_time": 1669772841,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173674,
+        "num": 173674,
+        "word": "北京昨增本土确诊1282例",
+        "onboard_time": 1669777641,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158378,
+        "num": 158378,
+        "word": "成都这雪下得就很成都",
+        "onboard_time": 1669780942,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144793,
+        "num": 144793,
+        "word": "考研房遇圣诞部分酒店价格暴涨",
+        "onboard_time": 1669772600,
+        "rank": 40,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 138418,
+        "num": 138418,
+        "word": "全国下雪到成都只剩头皮雪",
+        "onboard_time": 1669788745,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124798,
+        "num": 124798,
+        "word": "阿根廷迎生死战",
+        "onboard_time": 1669789163,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110052,
+        "num": 110052,
+        "word": "北京宝沃汽车股份有限公司宣告破产",
+        "onboard_time": 1669780642,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 105542,
+        "num": 105542,
+        "word": "武大靖为AG世冠杯打call",
+        "onboard_time": 1669789403,
+        "rank": 44,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 105178,
+        "num": 105178,
+        "word": "考生因紧张抽搐监考老师教科书式救回",
+        "onboard_time": 1669776982,
+        "rank": 45,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 104998,
+        "num": 104998,
+        "word": "库里走步",
+        "onboard_time": 1669789465,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192838,
+        "num": 104405,
+        "word": "郑钧谈对刘芸第一印象",
+        "onboard_time": 1669789523,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103632,
+        "num": 103632,
+        "word": "猫咪的好奇心是会传染吗",
+        "onboard_time": 1669788682,
+        "rank": 48,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 103392,
+        "num": 103392,
+        "word": "梅西999场比赛",
+        "onboard_time": 1669789403,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#进一步提升防控的科学性和精准性#"
+    }
+  }
+}
