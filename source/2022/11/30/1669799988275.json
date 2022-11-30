@@ -1,0 +1,410 @@
+{
+  "runTime": 1669799988275,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 71270277,
+        "num": 72447120,
+        "word": "江泽民同志在上海逝世享年96岁",
+        "onboard_time": 1669797921,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 42650976,
+        "num": 43900976,
+        "word": "告全党全军全国各族人民书",
+        "onboard_time": 1669797921,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 923376,
+        "num": 5876960,
+        "word": "各地最新疫情防控举措速览",
+        "onboard_time": 1669790662,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 3879538,
+        "num": 3879538,
+        "word": "广州多区宣布解除疫情防控临时管控区",
+        "onboard_time": 1669792524,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3431739,
+        "num": 3431739,
+        "word": "北京天安门下半旗志哀",
+        "onboard_time": 1669799153,
+        "rank": 4,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1421262,
+        "num": 1421262,
+        "word": "广州核酸",
+        "onboard_time": 1669789702,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 938613,
+        "num": 938613,
+        "word": "高中生收取外送食物被退学处分已取消",
+        "onboard_time": 1669796185,
+        "rank": 6,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 927988,
+        "num": 927988,
+        "word": "劳荣枝对二审死刑表示不服",
+        "onboard_time": 1669794084,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 664669,
+        "num": 664669,
+        "word": "韩媒称裁判偏袒C罗",
+        "onboard_time": 1669792524,
+        "rank": 8,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 606843,
+        "num": 606843,
+        "word": "核子基因厦门公司被列为经营异常",
+        "onboard_time": 1669796004,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26958945,
+        "num": 603654,
+        "word": "江泽民同志治丧委员会名单",
+        "onboard_time": 1669799717,
+        "rank": 10,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1352772,
+        "num": 596973,
+        "word": "孩子捡回来1只螳螂暖气来了变1窝",
+        "onboard_time": 1669793726,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1262387,
+        "num": 583620,
+        "word": "丈夫吸烟近50年夫妻同患肺癌",
+        "onboard_time": 1669793242,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 778998,
+        "num": 580587,
+        "word": "广州海珠宣布密接可居家隔离",
+        "onboard_time": 1669796485,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 710354,
+        "num": 570899,
+        "word": "WE彻底疯狂",
+        "onboard_time": 1669794204,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 567484,
+        "num": 567484,
+        "word": "巴西球员集体感冒",
+        "onboard_time": 1669786882,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 552471,
+        "num": 552471,
+        "word": "劳荣枝二审死刑",
+        "onboard_time": 1669776681,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 499994,
+        "num": 499994,
+        "word": "广州发布会",
+        "onboard_time": 1669792884,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 426667,
+        "num": 426667,
+        "word": "阿根廷迎生死战",
+        "onboard_time": 1669789163,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 407978,
+        "num": 407978,
+        "word": "上网课吸猫发现没关麦",
+        "onboard_time": 1669792646,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 397294,
+        "num": 397294,
+        "word": "输液男子打骂妻子打伤劝架护士",
+        "onboard_time": 1669796963,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 373609,
+        "num": 373609,
+        "word": "福建一女子为丈夫3年连剖3胎",
+        "onboard_time": 1669779626,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 362279,
+        "num": 362279,
+        "word": "这花店是懂浪漫的",
+        "onboard_time": 1669796361,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 343678,
+        "num": 343678,
+        "word": "自动调温的羽绒服有多绝",
+        "onboard_time": 1669798569,
+        "rank": 23,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 328799,
+        "num": 328799,
+        "word": "广州疫情防控",
+        "onboard_time": 1669792282,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316772,
+        "num": 316772,
+        "word": "浏阳通报街道工作人员入户打人",
+        "onboard_time": 1669790662,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303368,
+        "num": 303368,
+        "word": "7岁可爱女童患恶性肿瘤容貌变样",
+        "onboard_time": 1669787602,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274750,
+        "num": 274750,
+        "word": "学医前后的颜值变化",
+        "onboard_time": 1669792463,
+        "rank": 27,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 225552,
+        "num": 225552,
+        "word": "夫妻商议离婚丈夫为断干净拒付抚养费",
+        "onboard_time": 1669785984,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220193,
+        "num": 220193,
+        "word": "全国下雪到成都只剩头皮雪",
+        "onboard_time": 1669788745,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219369,
+        "num": 219369,
+        "word": "无锡一辆保时捷失控坠下高架桥",
+        "onboard_time": 1669798326,
+        "rank": 30,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 214869,
+        "num": 214869,
+        "word": "广州番禺解除所有疫情防控临时管控区",
+        "onboard_time": 1669791383,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 444565,
+        "num": 213840,
+        "word": "沧月绘是苍兰诀的姊妹篇吗",
+        "onboard_time": 1669789943,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 593224,
+        "num": 210120,
+        "word": "朴信惠朴炯植将合作新剧",
+        "onboard_time": 1669795762,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 206253,
+        "num": 206253,
+        "word": "Hero晋级世冠小组赛",
+        "onboard_time": 1669795345,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 192687,
+        "num": 192687,
+        "word": "郎朗是内马尔的钢琴老师",
+        "onboard_time": 1669779442,
+        "rank": 35,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 359092,
+        "num": 191424,
+        "word": "ITZY主打曲Cheshire",
+        "onboard_time": 1669797146,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 654443,
+        "num": 190714,
+        "word": "赵丽颖爸爸担心她入戏太深",
+        "onboard_time": 1669787663,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 189383,
+        "num": 189383,
+        "word": "初冬的柿子和雪景太配了",
+        "onboard_time": 1669796125,
+        "rank": 38,
+        "category": "美食,旅游"
+      },
+      {
+        "raw_hot": 1223370,
+        "num": 183877,
+        "word": "95后四小花名单",
+        "onboard_time": 1669792705,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 308050,
+        "num": 179898,
+        "word": "MAMA",
+        "onboard_time": 1669793904,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 243460,
+        "num": 175376,
+        "word": "杨幂GQ红毯背后点评选手扫楼",
+        "onboard_time": 1669796784,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170076,
+        "num": 170076,
+        "word": "TTG对战EDGM",
+        "onboard_time": 1669799658,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 155685,
+        "num": 155685,
+        "word": "95后四小生名单",
+        "onboard_time": 1669776262,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143026,
+        "num": 143026,
+        "word": "老爷爷种上百种菊花悼念亡妻",
+        "onboard_time": 1669798628,
+        "rank": 44,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 142729,
+        "num": 142729,
+        "word": "美国男子买300台iPhone出门遭打劫",
+        "onboard_time": 1669798098,
+        "rank": 45,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 278676,
+        "num": 138341,
+        "word": "毛豆和杨超越合影好快乐啊",
+        "onboard_time": 1669794744,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 297771,
+        "num": 136257,
+        "word": "苏醒每四年娱乐圈朋友最多",
+        "onboard_time": 1669797083,
+        "rank": 47,
+        "category": "体育,综艺"
+      },
+      {
+        "raw_hot": 126257,
+        "num": 126257,
+        "word": "一人之下5动画定档",
+        "onboard_time": 1669795465,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 124845,
+        "num": 124845,
+        "word": "突尼斯vs法国",
+        "onboard_time": 1669795404,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#进一步提升防控的科学性和精准性#"
+    }
+  }
+}
