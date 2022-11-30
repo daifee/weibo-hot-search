@@ -1,6 +1,6 @@
 {
   "startTime": 1667234181969,
-  "endTime": 1669804714539,
+  "endTime": 1669807031164,
   "band_list": [
     {
       "raw_hot": 71270277,
@@ -1753,6 +1753,14 @@
       "onboard_time": 1667713354,
       "rank": 1,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 2132155,
+      "num": 2132155,
+      "word": "江泽民同志永垂不朽",
+      "onboard_time": 1669804610,
+      "rank": 4,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 2132040,
@@ -4707,6 +4715,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1279754,
+      "num": 1279754,
+      "word": "C罗即将加盟沙特豪门",
+      "onboard_time": 1669803229,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1279420,
       "num": 1279420,
       "word": "广州没有静默的安排",
@@ -4769,6 +4785,14 @@
       "onboard_time": 1669363364,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1271470,
+      "num": 461071,
+      "word": "8000元1件羽绒服直播间仅卖800元",
+      "onboard_time": 1669801381,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1271106,
@@ -7033,6 +7057,14 @@
       "onboard_time": 1667912609,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 989417,
+      "num": 989417,
+      "word": "广州 堂食",
+      "onboard_time": 1669804972,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 989258,
@@ -10595,14 +10627,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 744138,
-      "num": 461071,
-      "word": "8000元1件羽绒服直播间仅卖800元",
-      "onboard_time": 1669801381,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 743759,
       "num": 743759,
       "word": "乌拉圭教练被球砸脸",
@@ -13547,6 +13571,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 623747,
+      "num": 446026,
+      "word": "北京无社会面活动人员可不参加社区核酸筛查",
+      "onboard_time": 1669804637,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 623317,
       "num": 623317,
       "word": "上网课吸猫发现没关麦",
@@ -15825,14 +15857,6 @@
       "onboard_time": 1668962665,
       "rank": 22,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 555593,
-      "num": 555593,
-      "word": "C罗即将加盟沙特豪门",
-      "onboard_time": 1669803229,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 555528,
@@ -25259,6 +25283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 385082,
+      "num": 385082,
+      "word": "林书豪吐槽CBA赛区健身房",
+      "onboard_time": 1669803557,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 384954,
       "num": 384954,
       "word": "姆巴佩",
@@ -30507,6 +30539,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 322365,
+      "num": 322365,
+      "word": "客服回应网购蘸料碟吃饺子时掉色",
+      "onboard_time": 1669802091,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 322248,
       "num": 322248,
       "word": "庞博的结尾",
@@ -31993,6 +32033,14 @@
       "onboard_time": 1669121447,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 307096,
+      "num": 307096,
+      "word": "女子回应买走老人白菜被质疑摆拍",
+      "onboard_time": 1669803439,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 307058,
@@ -44507,6 +44555,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 201595,
+      "num": 192890,
+      "word": "当乌镇遇到一场雪",
+      "onboard_time": 1669806078,
+      "rank": 31,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 201586,
       "num": 201586,
       "word": "上铺真的忍了很久",
@@ -45393,6 +45449,14 @@
       "onboard_time": 1667267605,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 196452,
+      "num": 192134,
+      "word": "北京新增本土感染者2378例",
+      "onboard_time": 1669804738,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 196446,
@@ -46465,6 +46529,14 @@
       "onboard_time": 1667571814,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 191038,
+      "num": 191038,
+      "word": "警方通报夫妻因楼上扰民强行破门打骂",
+      "onboard_time": 1669805568,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 191002,
@@ -47763,6 +47835,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 184487,
+      "num": 184487,
+      "word": "iPhone14Pro出货量预期下调20%",
+      "onboard_time": 1669797692,
+      "rank": 39,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 184485,
       "num": 184485,
       "word": "只有老六才能打败老六",
@@ -48497,6 +48577,14 @@
       "onboard_time": 1668525812,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 180461,
+      "num": 180461,
+      "word": "Rookie纪录片",
+      "onboard_time": 1669802116,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 180456,
@@ -49273,14 +49361,6 @@
       "onboard_time": 1669776199,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 175722,
-      "num": 175722,
-      "word": "客服回应网购蘸料碟吃饺子时掉色",
-      "onboard_time": 1669802091,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 175509,
@@ -50363,14 +50443,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 169443,
-      "num": 169443,
-      "word": "Rookie纪录片",
-      "onboard_time": 1669802116,
-      "rank": 43,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 169355,
       "num": 492217,
       "word": "那些海外爆火的中国品牌",
@@ -51353,14 +51425,6 @@
       "onboard_time": 1668945925,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 163930,
-      "num": 163930,
-      "word": "女子回应买走老人白菜被质疑摆拍",
-      "onboard_time": 1669803439,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 163925,
@@ -52977,14 +53041,6 @@
       "onboard_time": 1668662371,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 155709,
-      "num": 155709,
-      "word": "iPhone14Pro出货量预期下调20%",
-      "onboard_time": 1669797692,
-      "rank": 39,
-      "category": "科技,财经"
     },
     {
       "raw_hot": 155684,
@@ -54889,14 +54945,6 @@
       "onboard_time": 1668778708,
       "rank": 38,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 145527,
-      "num": 145527,
-      "word": "林书豪吐槽CBA赛区健身房",
-      "onboard_time": 1669803557,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 145459,
@@ -58203,6 +58251,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 129999,
+      "num": 129999,
+      "word": "旗舰店买到假添柏岚不给退只赔券",
+      "onboard_time": 1669803678,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 129976,
       "num": 129976,
       "word": "欧联抽签",
@@ -58721,14 +58777,6 @@
       "onboard_time": 1668131908,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 127468,
-      "num": 127468,
-      "word": "北京无社会面活动人员可不参加社区核酸筛查",
-      "onboard_time": 1669804637,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 127397,
@@ -61019,14 +61067,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 114242,
-      "num": 114242,
-      "word": "旗舰店买到假添柏岚不给退只赔券",
-      "onboard_time": 1669803678,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 114191,
       "num": 114191,
       "word": "研究显示蜜蜂寿命比50年前短一半",
@@ -61433,6 +61473,14 @@
       "onboard_time": 1667701526,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 111613,
+      "num": 111613,
+      "word": "广东人是懂吃煲的",
+      "onboard_time": 1669805659,
+      "rank": 46,
+      "category": "美食"
     },
     {
       "raw_hot": 111552,
@@ -62123,6 +62171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 108276,
+      "num": 108276,
+      "word": "雨天车窗起雾司机开进海里",
+      "onboard_time": 1669806918,
+      "rank": 47,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 108219,
       "num": 108219,
       "word": "华为小折叠六色齐发",
@@ -62489,6 +62545,14 @@
       "onboard_time": 1667527644,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 106014,
+      "num": 106014,
+      "word": "6旬教师不会线上设考手抄试卷",
+      "onboard_time": 1669805715,
+      "rank": 48,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 105937,
