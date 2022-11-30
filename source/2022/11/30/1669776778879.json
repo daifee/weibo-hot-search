@@ -1,0 +1,410 @@
+{
+  "runTime": 1669776778879,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1764834,
+        "num": 1764834,
+        "word": "广州南站滞留",
+        "onboard_time": 1669771100,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1483494,
+        "num": 1483494,
+        "word": "卡塔尔花2200亿进一个球",
+        "onboard_time": 1669768760,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170168,
+        "num": 1227459,
+        "word": "第九版防控方案和二十条措施热点问答",
+        "onboard_time": 1669739601,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1083910,
+        "num": 1083910,
+        "word": "全国快递网点大面积停摆消息不实",
+        "onboard_time": 1669740864,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1018518,
+        "num": 1018518,
+        "word": "上海下雪",
+        "onboard_time": 1669772841,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1017593,
+        "num": 1017593,
+        "word": "仙剑六首发角色海报",
+        "onboard_time": 1669775662,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 997167,
+        "num": 997167,
+        "word": "考研房遇圣诞部分酒店价格暴涨",
+        "onboard_time": 1669772600,
+        "rank": 6,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 645710,
+        "num": 645710,
+        "word": "90后夫妻带3个孩子入住毛坯房",
+        "onboard_time": 1669771341,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 633256,
+        "num": 633256,
+        "word": "宋宁峰没有怪撞死母亲的人",
+        "onboard_time": 1669767683,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 593086,
+        "num": 593086,
+        "word": "星河长明开播",
+        "onboard_time": 1669773920,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 576784,
+        "num": 576784,
+        "word": "世界杯16强对阵",
+        "onboard_time": 1669771280,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 576333,
+        "num": 576333,
+        "word": "欧阳娜娜品牌988元浴袍成本不足百元",
+        "onboard_time": 1669731687,
+        "rank": 11,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 563150,
+        "num": 563150,
+        "word": "卡塔尔小王子入驻微博",
+        "onboard_time": 1669763541,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 537855,
+        "num": 537855,
+        "word": "北京疫情防控",
+        "onboard_time": 1669771702,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 514141,
+        "num": 514141,
+        "word": "95后四小生名单",
+        "onboard_time": 1669776262,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 508954,
+        "num": 508954,
+        "word": "街道办回应网传核酸检测样本被丢弃",
+        "onboard_time": 1669771639,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 508258,
+        "num": 508258,
+        "word": "杨紫贺顿戴小熊面具vlog",
+        "onboard_time": 1669776681,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 487932,
+        "num": 487932,
+        "word": "广州动态调整强化社会面防控措施",
+        "onboard_time": 1669769662,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 486803,
+        "num": 486803,
+        "word": "无限暖暖",
+        "onboard_time": 1669775482,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 482293,
+        "num": 482293,
+        "word": "美国队员安慰伊朗队员",
+        "onboard_time": 1669765940,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 429611,
+        "num": 429611,
+        "word": "年轻人不爱吃辣条了吗",
+        "onboard_time": 1669768519,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 423351,
+        "num": 423351,
+        "word": "关晓彤喜欢在闹市里面养老",
+        "onboard_time": 1669773319,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 411125,
+        "num": 411125,
+        "word": "老人养的鸭子被投毒损失十几万",
+        "onboard_time": 1669772901,
+        "rank": 22,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 408225,
+        "num": 408225,
+        "word": "李一桐将不再出演武庚纪",
+        "onboard_time": 1669734326,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 385665,
+        "num": 385665,
+        "word": "记者实测食用橘子后做核酸",
+        "onboard_time": 1669731387,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326841,
+        "num": 326841,
+        "word": "世界杯历史首位女主裁",
+        "onboard_time": 1669769901,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 326219,
+        "num": 326219,
+        "word": "广东发现全球新物种",
+        "onboard_time": 1669775362,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292976,
+        "num": 292976,
+        "word": "武汉下雪",
+        "onboard_time": 1669770979,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250196,
+        "num": 250196,
+        "word": "今年已有5家核酸企业IPO过会",
+        "onboard_time": 1669765702,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247703,
+        "num": 247703,
+        "word": "中国茶申遗成功",
+        "onboard_time": 1669764441,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242110,
+        "num": 242110,
+        "word": "伊朗0比1美国",
+        "onboard_time": 1669763900,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 241412,
+        "num": 241412,
+        "word": "肖战两部剧获观众喜爱作品",
+        "onboard_time": 1669768224,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 238704,
+        "num": 238704,
+        "word": "6名航天员将一起吃早饭",
+        "onboard_time": 1669772241,
+        "rank": 32,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 225834,
+        "num": 225834,
+        "word": "方向盘套广告语被指侮辱女性",
+        "onboard_time": 1669733487,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224103,
+        "num": 224103,
+        "word": "曾驰援武汉的大葱哥急需帮助",
+        "onboard_time": 1669765760,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218894,
+        "num": 218894,
+        "word": "上网课忘关摄像头了",
+        "onboard_time": 1669735046,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 212806,
+        "num": 212806,
+        "word": "吃橘子会变阳你真是多虑了",
+        "onboard_time": 1669741161,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205617,
+        "num": 205617,
+        "word": "杭州今冬初雪",
+        "onboard_time": 1669772600,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203256,
+        "num": 203256,
+        "word": "胡彦斌分析感情里不爱的人一针见血",
+        "onboard_time": 1669775541,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198989,
+        "num": 198989,
+        "word": "劳荣枝二审死刑",
+        "onboard_time": 1669776681,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194093,
+        "num": 194093,
+        "word": "公司临时毁约弃用毕业生被诉赔1万5",
+        "onboard_time": 1669775063,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192285,
+        "num": 192285,
+        "word": "王鹤棣陈飞宇唱告白气球",
+        "onboard_time": 1669775001,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 188940,
+        "num": 188940,
+        "word": "原来兔兔也会不开心",
+        "onboard_time": 1669771827,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 188178,
+        "num": 188178,
+        "word": "崔杋圭张元英同框",
+        "onboard_time": 1669770142,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 184133,
+        "num": 184133,
+        "word": "梅西已8年不喝汽水不吃披萨",
+        "onboard_time": 1669734326,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184055,
+        "num": 184055,
+        "word": "马嘉祺我们的歌盛典唱孤独颂预告",
+        "onboard_time": 1669775001,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183379,
+        "num": 183379,
+        "word": "北京新增风险点汇总",
+        "onboard_time": 1669770441,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175725,
+        "num": 175725,
+        "word": "叠纸开放世界无限暖暖",
+        "onboard_time": 1669776199,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 167407,
+        "num": 167407,
+        "word": "出什么事都不影响许半夏吃饭",
+        "onboard_time": 1669776323,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 157693,
+        "num": 157693,
+        "word": "女子袜子掉色染黑脚趾8天不褪色",
+        "onboard_time": 1669775601,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#进一步提升防控的科学性和精准性#"
+    }
+  }
+}

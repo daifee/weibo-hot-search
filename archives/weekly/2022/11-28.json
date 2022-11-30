@@ -1,6 +1,6 @@
 {
   "startTime": 1669566398830,
-  "endTime": 1669774040426,
+  "endTime": 1669776778879,
   "band_list": [
     {
       "raw_hot": 11045761,
@@ -947,12 +947,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1018518,
+      "num": 1018518,
+      "word": "上海下雪",
+      "onboard_time": 1669772841,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1018077,
       "num": 1018077,
       "word": "济南华曦谎报核酸结果如何四度中标",
       "onboard_time": 1669622976,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1017593,
+      "num": 1017593,
+      "word": "仙剑六首发角色海报",
+      "onboard_time": 1669775662,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 1016718,
@@ -977,6 +993,14 @@
       "onboard_time": 1669671014,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 997167,
+      "num": 997167,
+      "word": "考研房遇圣诞部分酒店价格暴涨",
+      "onboard_time": 1669772600,
+      "rank": 49,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 989258,
@@ -1603,6 +1627,14 @@
       "category": "体育,科技"
     },
     {
+      "raw_hot": 645710,
+      "num": 645710,
+      "word": "90后夫妻带3个孩子入住毛坯房",
+      "onboard_time": 1669771341,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 641377,
       "num": 275167,
       "word": "钉钉",
@@ -1763,6 +1795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 593086,
+      "num": 593086,
+      "word": "星河长明开播",
+      "onboard_time": 1669773920,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 592551,
       "num": 592551,
       "word": "男子等女友下班打游戏激动摔下3楼",
@@ -1857,6 +1897,14 @@
       "onboard_time": 1669602812,
       "rank": 12,
       "category": "科技"
+    },
+    {
+      "raw_hot": 576784,
+      "num": 576784,
+      "word": "世界杯16强对阵",
+      "onboard_time": 1669771280,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 572135,
@@ -1979,6 +2027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 537855,
+      "num": 537855,
+      "word": "北京疫情防控",
+      "onboard_time": 1669771702,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 536446,
       "num": 536446,
       "word": "minji 美",
@@ -2067,6 +2123,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 514141,
+      "num": 514141,
+      "word": "95后四小生名单",
+      "onboard_time": 1669776262,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 512947,
       "num": 1582366,
       "word": "第九版防控方案和二十条措施热点问答",
@@ -2091,12 +2155,20 @@
       "category": "幽默,时尚"
     },
     {
-      "raw_hot": 507274,
-      "num": 507274,
-      "word": "上海下雪",
-      "onboard_time": 1669772841,
-      "rank": 9,
+      "raw_hot": 508954,
+      "num": 508954,
+      "word": "街道办回应网传核酸检测样本被丢弃",
+      "onboard_time": 1669771639,
+      "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 508258,
+      "num": 508258,
+      "word": "杨紫贺顿戴小熊面具vlog",
+      "onboard_time": 1669776681,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 505292,
@@ -2112,14 +2184,6 @@
       "word": "高校否认征用学生宿舍当隔离点",
       "onboard_time": 1669609059,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 503930,
-      "num": 503930,
-      "word": "90后夫妻带3个孩子入住毛坯房",
-      "onboard_time": 1669771341,
-      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -2177,6 +2241,14 @@
       "onboard_time": 1669716155,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 486803,
+      "num": 486803,
+      "word": "无限暖暖",
+      "onboard_time": 1669775482,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 485871,
@@ -2331,14 +2403,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 464888,
-      "num": 464888,
-      "word": "北京疫情防控",
-      "onboard_time": 1669771702,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 462512,
       "num": 462512,
       "word": "南部战区警告驱离美导弹巡洋舰",
@@ -2417,14 +2481,6 @@
       "onboard_time": 1669635871,
       "rank": 18,
       "category": "影视"
-    },
-    {
-      "raw_hot": 450559,
-      "num": 450559,
-      "word": "考研房遇圣诞部分酒店价格暴涨",
-      "onboard_time": 1669772600,
-      "rank": 49,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 450036,
@@ -2619,6 +2675,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 423351,
+      "num": 423351,
+      "word": "关晓彤喜欢在闹市里面养老",
+      "onboard_time": 1669773319,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 423272,
       "num": 347139,
       "word": "RedVelvet回归记者会新闻图",
@@ -2747,6 +2811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 411125,
+      "num": 411125,
+      "word": "老人养的鸭子被投毒损失十几万",
+      "onboard_time": 1669772901,
+      "rank": 34,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 408496,
       "num": 268046,
       "word": "肖战两部剧获观众喜爱作品",
@@ -2777,14 +2849,6 @@
       "onboard_time": 1669636715,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 405023,
-      "num": 405023,
-      "word": "世界杯16强对阵",
-      "onboard_time": 1669771280,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 403945,
@@ -3523,6 +3587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 326219,
+      "num": 326219,
+      "word": "广东发现全球新物种",
+      "onboard_time": 1669775362,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 326016,
       "num": 326016,
       "word": "女子寄榴莲收货后只剩空壳",
@@ -3843,14 +3915,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 300287,
-      "num": 300287,
-      "word": "街道办回应网传核酸检测样本被丢弃",
-      "onboard_time": 1669771639,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 300241,
       "num": 300241,
       "word": "Hero",
@@ -3897,14 +3961,6 @@
       "onboard_time": 1669697977,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 294338,
-      "num": 294338,
-      "word": "关晓彤喜欢在闹市里面养老",
-      "onboard_time": 1669773319,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 293137,
@@ -4515,6 +4571,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 238704,
+      "num": 238704,
+      "word": "6名航天员将一起吃早饭",
+      "onboard_time": 1669772241,
+      "rank": 41,
+      "category": "科技"
+    },
+    {
       "raw_hot": 238367,
       "num": 238367,
       "word": "这才是糯唧唧美食的天堂",
@@ -4665,14 +4729,6 @@
       "onboard_time": 1669660095,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 225697,
-      "num": 225697,
-      "word": "老人养的鸭子被投毒损失十几万",
-      "onboard_time": 1669772901,
-      "rank": 34,
-      "category": "社会负面"
     },
     {
       "raw_hot": 225484,
@@ -4963,12 +5019,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 205617,
+      "num": 205617,
+      "word": "杭州今冬初雪",
+      "onboard_time": 1669772600,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 203394,
       "num": 203394,
       "word": "婆婆不让去月子中心女子二胎不给探望",
       "onboard_time": 1669544011,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 203256,
+      "num": 203256,
+      "word": "胡彦斌分析感情里不爱的人一针见血",
+      "onboard_time": 1669775541,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 203232,
@@ -5003,12 +5075,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 198675,
-      "num": 198675,
-      "word": "6名航天员将一起吃早饭",
-      "onboard_time": 1669772241,
-      "rank": 41,
-      "category": "科技"
+      "raw_hot": 198989,
+      "num": 198989,
+      "word": "劳荣枝二审死刑",
+      "onboard_time": 1669776681,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 198460,
@@ -5123,6 +5195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 194093,
+      "num": 194093,
+      "word": "公司临时毁约弃用毕业生被诉赔1万5",
+      "onboard_time": 1669775063,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 193209,
       "num": 193209,
       "word": "谭松韵日常vlog",
@@ -5144,6 +5224,14 @@
       "word": "尹岐被贬",
       "onboard_time": 1669553434,
       "rank": 38,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 192285,
+      "num": 192285,
+      "word": "王鹤棣陈飞宇唱告白气球",
+      "onboard_time": 1669775001,
+      "rank": 41,
       "category": "影视"
     },
     {
@@ -5307,6 +5395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 184055,
+      "num": 184055,
+      "word": "马嘉祺我们的歌盛典唱孤独颂预告",
+      "onboard_time": 1669775001,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 183524,
       "num": 183524,
       "word": "李峋四次单膝下跪都是为了朱韵",
@@ -5401,6 +5497,14 @@
       "onboard_time": 1669699776,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 175725,
+      "num": 175725,
+      "word": "叠纸开放世界无限暖暖",
+      "onboard_time": 1669776199,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 174906,
@@ -5507,14 +5611,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 171034,
-      "num": 171034,
-      "word": "杭州今冬初雪",
-      "onboard_time": 1669772600,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 170053,
       "num": 170053,
       "word": "许半夏要建钢厂",
@@ -5593,6 +5689,14 @@
       "onboard_time": 1669606660,
       "rank": 42,
       "category": "科技"
+    },
+    {
+      "raw_hot": 167407,
+      "num": 167407,
+      "word": "出什么事都不影响许半夏吃饭",
+      "onboard_time": 1669776323,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 167365,
@@ -5817,6 +5921,14 @@
       "onboard_time": 1669659436,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 157693,
+      "num": 157693,
+      "word": "女子袜子掉色染黑脚趾8天不褪色",
+      "onboard_time": 1669775601,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 157388,
@@ -6296,14 +6408,6 @@
       "word": "肖战评价盛阳顾魏顾一野",
       "onboard_time": 1669745777,
       "rank": 30,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 133151,
-      "num": 133151,
-      "word": "星河长明开播",
-      "onboard_time": 1669773920,
-      "rank": 48,
       "category": "影视"
     },
     {
