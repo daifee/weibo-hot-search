@@ -1,0 +1,410 @@
+{
+  "runTime": 1669833663390,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 226720,
+        "num": 226720,
+        "word": "江泽民同志在上海逝世享年96岁",
+        "onboard_time": 1669797921,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 84759,
+        "num": 84759,
+        "word": "北京天安门下半旗志哀",
+        "onboard_time": 1669799153,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 90871,
+        "num": 83999,
+        "word": "告全党全军全国各族人民书",
+        "onboard_time": 1669797921,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 189204,
+        "num": 83188,
+        "word": "官方回应石家庄一核酸机构疑造假",
+        "onboard_time": 1669822934,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182299,
+        "num": 82625,
+        "word": "波兰vs阿根廷",
+        "onboard_time": 1669820296,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172204,
+        "num": 81550,
+        "word": "法国进球被吹",
+        "onboard_time": 1669828814,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171795,
+        "num": 80736,
+        "word": "35岁辣妈晒精致生活常被夸年轻",
+        "onboard_time": 1669824494,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103871,
+        "num": 80291,
+        "word": "净水器水管接反全家喝了一年废水",
+        "onboard_time": 1669820176,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94894,
+        "num": 79067,
+        "word": "广州出发火车票瞬时搜索量增2.5倍",
+        "onboard_time": 1669816695,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78754,
+        "num": 78754,
+        "word": "突尼斯1比0法国",
+        "onboard_time": 1669828991,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 440755,
+        "num": 75809,
+        "word": "世界杯16强就差亚洲球队",
+        "onboard_time": 1669829351,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129223,
+        "num": 74236,
+        "word": "伊朗球员含泪向球迷道歉",
+        "onboard_time": 1669828151,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89340,
+        "num": 74202,
+        "word": "深圳一公园1只百余斤野猪被困",
+        "onboard_time": 1669825272,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71695,
+        "num": 71695,
+        "word": "长沙鼓励弹性上班远程办公",
+        "onboard_time": 1669826231,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70292,
+        "num": 70292,
+        "word": "广州 堂食",
+        "onboard_time": 1669804972,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70181,
+        "num": 70181,
+        "word": "澳大利亚成首支出线的亚足联球队",
+        "onboard_time": 1669830311,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 64304,
+        "num": 64304,
+        "word": "外交部回应美发表中国军力报告",
+        "onboard_time": 1669812619,
+        "rank": 16,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 63560,
+        "num": 63560,
+        "word": "图95",
+        "onboard_time": 1669818495,
+        "rank": 17,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 62434,
+        "num": 62434,
+        "word": "突尼斯vs法国",
+        "onboard_time": 1669819696,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 57870,
+        "num": 57870,
+        "word": "突尼斯卡塔尔世界杯首球",
+        "onboard_time": 1669828693,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 220763,
+        "num": 57023,
+        "word": "女生买500根一盒棉签数后少88根",
+        "onboard_time": 1669820475,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79633,
+        "num": 55975,
+        "word": "妈妈误把过期泡脚包当茶包煮蛋",
+        "onboard_time": 1669820620,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54586,
+        "num": 54586,
+        "word": "江泽民同志治丧委员会名单",
+        "onboard_time": 1669799717,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50100,
+        "num": 50100,
+        "word": "劳荣枝二哥仍不接受二审宣判结果",
+        "onboard_time": 1669810876,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49230,
+        "num": 49230,
+        "word": "姆巴佩身价赶超C罗梅西",
+        "onboard_time": 1669809704,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 49009,
+        "num": 49009,
+        "word": "郑州人的生活回来了",
+        "onboard_time": 1669816394,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45523,
+        "num": 45523,
+        "word": "姆巴佩未首发对战突尼斯",
+        "onboard_time": 1669821437,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 41067,
+        "num": 41067,
+        "word": "石家庄多区明起有序恢复生产生活秩序",
+        "onboard_time": 1669813938,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40771,
+        "num": 40771,
+        "word": "真存在不扰民的居家活动吗",
+        "onboard_time": 1669820594,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38977,
+        "num": 38977,
+        "word": "梅西重新定义人墙",
+        "onboard_time": 1669809737,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97253,
+        "num": 38896,
+        "word": "重庆中心城区将逐步放开",
+        "onboard_time": 1669818917,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62255,
+        "num": 38744,
+        "word": "法国大概率小组第一",
+        "onboard_time": 1669830372,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 38396,
+        "num": 38396,
+        "word": "江泽民同志永垂不朽",
+        "onboard_time": 1669804610,
+        "rank": 32,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 37035,
+        "num": 37035,
+        "word": "研究称婴儿恒星喝奶后也打嗝",
+        "onboard_time": 1669811505,
+        "rank": 33,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 36842,
+        "num": 36842,
+        "word": "内马尔把嘲讽值拉满了",
+        "onboard_time": 1669809798,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 35152,
+        "num": 35152,
+        "word": "警方通报夫妻因楼上扰民强行破门打骂",
+        "onboard_time": 1669805568,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34006,
+        "num": 34006,
+        "word": "1岁萌娃坐透明电梯被吓到腿软",
+        "onboard_time": 1669821735,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33450,
+        "num": 33450,
+        "word": "沙特阿拉伯vs墨西哥",
+        "onboard_time": 1669821195,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30349,
+        "num": 30349,
+        "word": "澳大利亚1比0丹麦",
+        "onboard_time": 1669829291,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29619,
+        "num": 29619,
+        "word": "北京无社会面活动人员可不参加社区核酸筛查",
+        "onboard_time": 1669804637,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29105,
+        "num": 29105,
+        "word": "林书豪吐槽CBA赛区健身房",
+        "onboard_time": 1669803557,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28668,
+        "num": 28668,
+        "word": "中俄两军组织实施联合空中战略巡航",
+        "onboard_time": 1669816421,
+        "rank": 41,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 26544,
+        "num": 26544,
+        "word": "北京快递小哥一天工作19小时",
+        "onboard_time": 1669813754,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25812,
+        "num": 25812,
+        "word": "广州海珠宣布密接可居家隔离",
+        "onboard_time": 1669796485,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23572,
+        "num": 23572,
+        "word": "高科技介入足球是好是坏",
+        "onboard_time": 1669832109,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22047,
+        "num": 22047,
+        "word": "突尼斯进球",
+        "onboard_time": 1669826352,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21230,
+        "num": 21230,
+        "word": "C罗即将加盟沙特豪门",
+        "onboard_time": 1669803229,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18379,
+        "num": 18379,
+        "word": "起底核子基因",
+        "onboard_time": 1669823773,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18015,
+        "num": 18015,
+        "word": "澳大利亚vs丹麦",
+        "onboard_time": 1669819696,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17599,
+        "num": 17599,
+        "word": "突尼斯半场0比0法国",
+        "onboard_time": 1669824913,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#江泽民同志在上海逝世#"
+    }
+  }
+}
