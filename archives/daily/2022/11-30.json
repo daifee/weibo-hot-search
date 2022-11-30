@@ -1,7 +1,15 @@
 {
   "startTime": 1669739332504,
-  "endTime": 1669792682887,
+  "endTime": 1669793616896,
   "band_list": [
+    {
+      "raw_hot": 3743885,
+      "num": 3743885,
+      "word": "广州核酸",
+      "onboard_time": 1669789702,
+      "rank": 4,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 3535781,
       "num": 3571563,
@@ -11,20 +19,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 3350803,
-      "num": 3350803,
-      "word": "广州核酸",
-      "onboard_time": 1669789702,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 2756631,
       "num": 2756631,
       "word": "李一桐将不再出演武庚纪",
       "onboard_time": 1669734326,
       "rank": 0,
       "category": "影视"
+    },
+    {
+      "raw_hot": 2567990,
+      "num": 2567990,
+      "word": "广州番禺解除所有疫情防控临时管控区",
+      "onboard_time": 1669791383,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2302372,
+      "num": 2302372,
+      "word": "广州疫情防控",
+      "onboard_time": 1669792282,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1938484,
@@ -41,6 +57,14 @@
       "onboard_time": 1669775662,
       "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1921422,
+      "num": 1921422,
+      "word": "广州多区宣布解除疫情防控临时管控区",
+      "onboard_time": 1669792524,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1828397,
@@ -111,14 +135,6 @@
       "num": 1451134,
       "word": "广州天河区疫情防控",
       "onboard_time": 1669724740,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1383830,
-      "num": 1383830,
-      "word": "广州番禺解除所有疫情防控临时管控区",
-      "onboard_time": 1669791383,
       "rank": 3,
       "category": "社会新闻"
     },
@@ -235,14 +251,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 925095,
-      "num": 925095,
-      "word": "广州疫情防控",
-      "onboard_time": 1669792282,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 924988,
       "num": 924988,
       "word": "宋宁峰没有怪撞死母亲的人",
@@ -275,12 +283,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 793095,
-      "num": 793095,
+      "raw_hot": 817523,
+      "num": 817523,
       "word": "浏阳通报街道工作人员入户打人",
       "onboard_time": 1669790662,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 813329,
+      "num": 813329,
+      "word": "95后四小花名单",
+      "onboard_time": 1669792705,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 763030,
@@ -347,14 +363,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 689750,
-      "num": 607486,
-      "word": "广州多区宣布解除疫情防控临时管控区",
-      "onboard_time": 1669792524,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 687635,
       "num": 687635,
       "word": "内蒙古一地发通报因天冷不做核酸",
@@ -396,7 +404,7 @@
     },
     {
       "raw_hot": 622029,
-      "num": 1426453,
+      "num": 2393556,
       "word": "各地最新疫情防控举措速览",
       "onboard_time": 1669790662,
       "rank": 2,
@@ -419,8 +427,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 598815,
-      "num": 598815,
+      "raw_hot": 608520,
+      "num": 608520,
       "word": "阿根廷迎生死战",
       "onboard_time": 1669789163,
       "rank": 42,
@@ -609,6 +617,14 @@
       "onboard_time": 1669780040,
       "rank": 18,
       "category": "体育,幽默"
+    },
+    {
+      "raw_hot": 448832,
+      "num": 448832,
+      "word": "广州发布会",
+      "onboard_time": 1669792884,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 447882,
@@ -827,6 +843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 352101,
+      "num": 352101,
+      "word": "楼上孩子太吵沟通无果女子用音响反击",
+      "onboard_time": 1669789881,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 344245,
       "num": 344245,
       "word": "赵立坚介绍BBC记者被带离真相",
@@ -867,6 +891,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 322044,
+      "num": 322044,
+      "word": "上网课吸猫发现没关麦",
+      "onboard_time": 1669792646,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 321978,
       "num": 321978,
       "word": "荷兰1比0卡塔尔",
@@ -881,14 +913,6 @@
       "onboard_time": 1669782083,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 318390,
-      "num": 318390,
-      "word": "楼上孩子太吵沟通无果女子用音响反击",
-      "onboard_time": 1669789881,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 313769,
@@ -953,6 +977,14 @@
       "onboard_time": 1669770142,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 274550,
+      "num": 274550,
+      "word": "韩媒称裁判偏袒C罗",
+      "onboard_time": 1669792524,
+      "rank": 44,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 271412,
@@ -1059,6 +1091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 231817,
+      "num": 219998,
+      "word": "学医前后的颜值变化",
+      "onboard_time": 1669792463,
+      "rank": 42,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 231166,
       "num": 198096,
       "word": "GQ红毯背后",
@@ -1121,6 +1161,14 @@
       "onboard_time": 1669771827,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 219362,
+      "num": 219362,
+      "word": "李峋挑衅高见鸿",
+      "onboard_time": 1669793123,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 218761,
@@ -1331,6 +1379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 185267,
+      "num": 185267,
+      "word": "金川主元英谈心梦回新还珠",
+      "onboard_time": 1669793428,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 184055,
       "num": 184055,
       "word": "马嘉祺我们的歌盛典唱孤独颂预告",
@@ -1379,6 +1435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 173745,
+      "num": 173745,
+      "word": "男孩吃面包被卡医生光脚跑来急救",
+      "onboard_time": 1669790002,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 170641,
       "num": 170641,
       "word": "学校给寄宿学生发棉服御寒",
@@ -1393,14 +1457,6 @@
       "onboard_time": 1669776323,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 167041,
-      "num": 167041,
-      "word": "男孩吃面包被卡医生光脚跑来急救",
-      "onboard_time": 1669790002,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 166512,
@@ -1435,12 +1491,20 @@
       "category": "影视,动漫"
     },
     {
-      "raw_hot": 158787,
-      "num": 158787,
-      "word": "学医前后的颜值变化",
-      "onboard_time": 1669792463,
+      "raw_hot": 164181,
+      "num": 164181,
+      "word": "丈夫吸烟近50年夫妻同患肺癌",
+      "onboard_time": 1669793242,
       "rank": 42,
-      "category": "幽默,情感"
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 163339,
+      "num": 163339,
+      "word": "这只猫是懂躲猫猫的",
+      "onboard_time": 1669793483,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 155714,
@@ -1473,14 +1537,6 @@
       "onboard_time": 1669789583,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 152840,
-      "num": 152840,
-      "word": "韩媒称裁判偏袒C罗",
-      "onboard_time": 1669792524,
-      "rank": 44,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 152464,
@@ -1523,20 +1579,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 145736,
-      "num": 143053,
-      "word": "上网课吸猫发现没关麦",
-      "onboard_time": 1669792646,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
       "raw_hot": 145464,
       "num": 145464,
       "word": "南京下雪",
       "onboard_time": 1669730786,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 144748,
+      "num": 144748,
+      "word": "2分钟回顾神十五乘组逐梦航天路",
+      "onboard_time": 1669793428,
+      "rank": 47,
+      "category": "科技,国内要闻"
     },
     {
       "raw_hot": 143093,
@@ -1617,6 +1673,14 @@
       "onboard_time": 1669760353,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 117892,
+      "num": 449290,
+      "word": "小米13全系徕卡长焦",
+      "onboard_time": 1669791632,
+      "rank": 14,
+      "category": "科技"
     },
     {
       "raw_hot": 115281,
@@ -1739,14 +1803,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 96972,
-      "num": 413354,
-      "word": "小米13全系徕卡长焦",
-      "onboard_time": 1669791632,
-      "rank": 14,
-      "category": "科技"
-    },
-    {
       "raw_hot": 87600,
       "num": 87600,
       "word": "至亲离世的当下你是怎么度过的",
@@ -1795,20 +1851,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 37925,
+      "num": 174927,
+      "word": "冬天拿捏懒人的灵魂鸡汤面",
+      "onboard_time": 1669791632,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 37152,
       "num": 37152,
       "word": "20年后才看懂的电影",
       "onboard_time": 1669745357,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 22786,
-      "num": 159257,
-      "word": "冬天拿捏懒人的灵魂鸡汤面",
-      "onboard_time": 1669791632,
-      "rank": 39,
-      "category": "美食"
     },
     {
       "raw_hot": 14698,
