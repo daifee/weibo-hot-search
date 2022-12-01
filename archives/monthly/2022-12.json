@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1669912152284,
+  "endTime": 1669913249478,
   "band_list": [
     {
       "raw_hot": 4704139,
@@ -169,6 +169,14 @@
       "onboard_time": 1669892111,
       "rank": 10,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 1322247,
+      "num": 628996,
+      "word": "本届世界杯首个乌龙球",
+      "onboard_time": 1669910890,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 1273667,
@@ -507,6 +515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 680099,
+      "num": 394191,
+      "word": "西安通报一高层住宅楼火灾致5死",
+      "onboard_time": 1669908671,
+      "rank": 31,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 667463,
       "num": 667463,
       "word": "外交部回应美国务卿布林肯涉中国疫情表态",
@@ -521,14 +537,6 @@
       "onboard_time": 1669900813,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 649830,
-      "num": 394191,
-      "word": "西安通报一高层住宅楼火灾致5死",
-      "onboard_time": 1669908671,
-      "rank": 31,
-      "category": "社会负面"
     },
     {
       "raw_hot": 637244,
@@ -587,20 +595,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 582592,
+      "num": 439365,
+      "word": "谈好400元租房第二天房东加价到1000",
+      "onboard_time": 1669909693,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 581871,
       "num": 581871,
       "word": "北京昨增本土确诊1023例",
       "onboard_time": 1669854068,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 576994,
-      "num": 576994,
-      "word": "本届世界杯首个乌龙球",
-      "onboard_time": 1669910890,
-      "rank": 11,
-      "category": "体育"
     },
     {
       "raw_hot": 565584,
@@ -737,14 +745,6 @@
       "onboard_time": 1669829351,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 439365,
-      "num": 439365,
-      "word": "谈好400元租房第二天房东加价到1000",
-      "onboard_time": 1669909693,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 431333,
@@ -2243,6 +2243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 59017,
+      "num": 59017,
+      "word": "卢卡库中柱",
+      "onboard_time": 1669913110,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 56401,
       "num": 56401,
       "word": "莱万晒女儿照片",
@@ -2273,6 +2281,14 @@
       "onboard_time": 1669838768,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 43054,
+      "num": 43054,
+      "word": "不参加社区核酸筛查人员如何就医",
+      "onboard_time": 1669913229,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 40877,
