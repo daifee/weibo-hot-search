@@ -1,9 +1,9 @@
 {
   "startTime": 1669912152284,
-  "endTime": 1669913249478,
+  "endTime": 1669915099811,
   "band_list": [
     {
-      "raw_hot": 1322247,
+      "raw_hot": 1531081,
       "num": 628996,
       "word": "本届世界杯首个乌龙球",
       "onboard_time": 1669910890,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 582592,
-      "num": 439365,
+      "num": 490026,
       "word": "谈好400元租房第二天房东加价到1000",
       "onboard_time": 1669909693,
       "rank": 12,
@@ -64,6 +64,14 @@
       "word": "克罗地亚点球被取消",
       "onboard_time": 1669909693,
       "rank": 4,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 419744,
+      "num": 419744,
+      "word": "卢卡库中柱",
+      "onboard_time": 1669913110,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -81,6 +89,14 @@
       "onboard_time": 1669893071,
       "rank": 15,
       "category": "科技,财经"
+    },
+    {
+      "raw_hot": 366822,
+      "num": 719502,
+      "word": "克罗地亚vs比利时",
+      "onboard_time": 1669905791,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 360567,
@@ -113,14 +129,6 @@
       "onboard_time": 1669906453,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 270050,
-      "num": 719502,
-      "word": "克罗地亚vs比利时",
-      "onboard_time": 1669905791,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 269321,
@@ -227,12 +235,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 135785,
+      "num": 135785,
+      "word": "克罗地亚0比0比利时",
+      "onboard_time": 1669914787,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 131443,
       "num": 131443,
       "word": "黄健翔说VAR毁了足球",
       "onboard_time": 1669889052,
       "rank": 29,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 130713,
+      "num": 88824,
+      "word": "不参加社区核酸筛查人员如何就医",
+      "onboard_time": 1669913229,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 127607,
@@ -267,6 +291,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 113532,
+      "num": 113532,
+      "word": "比利时无缘16强",
+      "onboard_time": 1669914909,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 113138,
       "num": 113138,
       "word": "加拿大vs摩洛哥",
@@ -281,6 +313,14 @@
       "onboard_time": 1669905912,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 108585,
+      "num": 108585,
+      "word": "克罗地亚半场0比0比利时",
+      "onboard_time": 1669910529,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 105939,
@@ -331,14 +371,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 82577,
-      "num": 82577,
-      "word": "克罗地亚半场0比0比利时",
-      "onboard_time": 1669910529,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 82416,
       "num": 82416,
       "word": "复核结果阴性要立即解除相关人员管控",
@@ -353,6 +385,14 @@
       "onboard_time": 1669881851,
       "rank": 43,
       "category": "美食"
+    },
+    {
+      "raw_hot": 77817,
+      "num": 77817,
+      "word": "摩洛哥小组第一晋级",
+      "onboard_time": 1669915028,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 74366,
@@ -379,8 +419,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 62556,
-      "num": 62556,
+      "raw_hot": 63396,
+      "num": 63396,
       "word": "哥斯达黎加vs德国",
       "onboard_time": 1669906152,
       "rank": 47,
@@ -395,14 +435,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 59017,
-      "num": 59017,
-      "word": "卢卡库中柱",
-      "onboard_time": 1669913110,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 56401,
       "num": 56401,
       "word": "莱万晒女儿照片",
@@ -411,12 +443,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 43054,
-      "num": 43054,
-      "word": "不参加社区核酸筛查人员如何就医",
-      "onboard_time": 1669913229,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 52233,
+      "num": 52233,
+      "word": "日本vs西班牙",
+      "onboard_time": 1669883532,
+      "rank": 44,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
