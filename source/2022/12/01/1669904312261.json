@@ -1,0 +1,410 @@
+{
+  "runTime": 1669904312261,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2081200,
+        "num": 2081200,
+        "word": "江泽民同志遗体由专机敬移北京",
+        "onboard_time": 1669893193,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 278346,
+        "num": 1733674,
+        "word": "12月6日隆重举行江泽民同志追悼大会",
+        "onboard_time": 1669889471,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 88539,
+        "num": 1704262,
+        "word": "封控管理要快封快解应解尽解",
+        "onboard_time": 1669868951,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1700918,
+        "num": 1700918,
+        "word": "这种戒指真的不建议戴",
+        "onboard_time": 1669901292,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 795920,
+        "num": 795920,
+        "word": "感染新冠是什么感受",
+        "onboard_time": 1669902551,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 779564,
+        "num": 779564,
+        "word": "大叔因500斤白菜卖30元痛哭系摆拍",
+        "onboard_time": 1669895414,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 707538,
+        "num": 707538,
+        "word": "小鹏每卖一辆车平均亏超8万",
+        "onboard_time": 1669898712,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 642692,
+        "num": 642692,
+        "word": "苏亚雷斯拒绝为2010年手球道歉",
+        "onboard_time": 1669900813,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 587500,
+        "num": 587500,
+        "word": "大妈常玩手机致手指卡住不能动",
+        "onboard_time": 1669900391,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 467770,
+        "num": 467770,
+        "word": "考研没延期",
+        "onboard_time": 1669894814,
+        "rank": 9,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 743424,
+        "num": 467600,
+        "word": "优衣库创始人称在中国开3000家店还不够",
+        "onboard_time": 1669901532,
+        "rank": 10,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 718532,
+        "num": 467563,
+        "word": "国美电器已被申请破产清算",
+        "onboard_time": 1669893071,
+        "rank": 11,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 466819,
+        "num": 466819,
+        "word": "锦州发文能清零而不清零太可惜",
+        "onboard_time": 1669886711,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 404046,
+        "num": 404046,
+        "word": "白岩松说C罗不该和B费争进球",
+        "onboard_time": 1669893313,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 389401,
+        "num": 389401,
+        "word": "全国研考12月24日至26日举行",
+        "onboard_time": 1669892111,
+        "rank": 14,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 372142,
+        "num": 372142,
+        "word": "广州回归日常",
+        "onboard_time": 1669886592,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352613,
+        "num": 352613,
+        "word": "欧盟已冻结俄3000亿欧元储备",
+        "onboard_time": 1669902852,
+        "rank": 16,
+        "category": "国外要闻,财经"
+      },
+      {
+        "raw_hot": 348226,
+        "num": 348226,
+        "word": "年轻人感染奥密克戎发热一般不超3天",
+        "onboard_time": 1669884791,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333867,
+        "num": 333867,
+        "word": "不要给2岁以下孩子看手机",
+        "onboard_time": 1669885152,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286392,
+        "num": 286392,
+        "word": "官方回应西安一小区起火",
+        "onboard_time": 1669899134,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280424,
+        "num": 280424,
+        "word": "女子求职面试后老板报价2万约饭",
+        "onboard_time": 1669892953,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233043,
+        "num": 233043,
+        "word": "原来还有无痛起床",
+        "onboard_time": 1669896552,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 231624,
+        "num": 231624,
+        "word": "复核结果阴性要立即解除相关人员管控",
+        "onboard_time": 1669884911,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221033,
+        "num": 221033,
+        "word": "女子盐焗40多个鸡蛋开盖变炸蛋",
+        "onboard_time": 1669881851,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 210203,
+        "num": 210203,
+        "word": "小猫咪洗澡有多委屈",
+        "onboard_time": 1669898052,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 198283,
+        "num": 198283,
+        "word": "黄健翔说VAR毁了足球",
+        "onboard_time": 1669889052,
+        "rank": 25,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 193769,
+        "num": 193769,
+        "word": "女子在鹤岗花4万买房创业亏10多万",
+        "onboard_time": 1669885572,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179590,
+        "num": 179590,
+        "word": "女子拒退35万彩礼被列为失信人",
+        "onboard_time": 1669882391,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164175,
+        "num": 164175,
+        "word": "广州鼓励家庭自备抗原试剂盒",
+        "onboard_time": 1669888571,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159888,
+        "num": 159888,
+        "word": "老师暂停上课让学生撒欢玩雪",
+        "onboard_time": 1669881672,
+        "rank": 29,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 182841,
+        "num": 159419,
+        "word": "如何保护老弱人群安然度过疫情",
+        "onboard_time": 1669903093,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158747,
+        "num": 158747,
+        "word": "哈工大学生回应被安排专机返乡",
+        "onboard_time": 1669885030,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143971,
+        "num": 143971,
+        "word": "日本vs西班牙",
+        "onboard_time": 1669883532,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142922,
+        "num": 142922,
+        "word": "男子路边买半斤麦芽糖发现少3两",
+        "onboard_time": 1669896552,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138959,
+        "num": 138959,
+        "word": "大连海面冻开锅了",
+        "onboard_time": 1669889832,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138861,
+        "num": 138861,
+        "word": "北京医院不得拒绝无48小时核酸患者进入",
+        "onboard_time": 1669892471,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132279,
+        "num": 132279,
+        "word": "72岁老人走失5天5夜被找到",
+        "onboard_time": 1669899489,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132250,
+        "num": 132250,
+        "word": "高中生宿舍内卖油饼被勒令退学",
+        "onboard_time": 1669881371,
+        "rank": 37,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 130235,
+        "num": 130235,
+        "word": "得知十混一初筛阳性后该怎么做",
+        "onboard_time": 1669884373,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129938,
+        "num": 129938,
+        "word": "北京增社会面155例",
+        "onboard_time": 1669891932,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129755,
+        "num": 129755,
+        "word": "18岁男生高烧3天不退确诊接吻病",
+        "onboard_time": 1669874952,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125979,
+        "num": 125979,
+        "word": "山东四六级",
+        "onboard_time": 1669885392,
+        "rank": 41,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 120668,
+        "num": 120668,
+        "word": "联合国安理会就江泽民逝世举行默哀仪式",
+        "onboard_time": 1669897272,
+        "rank": 42,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 113525,
+        "num": 113525,
+        "word": "新华社科普长新冠",
+        "onboard_time": 1669885452,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109159,
+        "num": 109159,
+        "word": "女孩迷路求助便衣民警要求换警服",
+        "onboard_time": 1669895833,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90050,
+        "num": 90050,
+        "word": "法棍被列入非遗名录",
+        "onboard_time": 1669893734,
+        "rank": 45,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 89734,
+        "num": 89734,
+        "word": "广州多家商超宣布凭绿码进出",
+        "onboard_time": 1669887615,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87461,
+        "num": 87461,
+        "word": "克罗地亚vs比利时首发",
+        "onboard_time": 1669903989,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 71195,
+        "num": 71195,
+        "word": "德国队死磕哥斯达黎加",
+        "onboard_time": 1669904112,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 69716,
+        "num": 69716,
+        "word": "木匠大爷不用钉子胶水做榫卯足球",
+        "onboard_time": 1669903392,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#江泽民同志永垂不朽#"
+    }
+  }
+}
