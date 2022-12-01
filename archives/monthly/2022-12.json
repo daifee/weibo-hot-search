@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1669922181265,
+  "endTime": 1669923241462,
   "band_list": [
     {
       "raw_hot": 4704139,
@@ -2251,6 +2251,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 75331,
+      "num": 127143,
+      "word": "重庆无疫小区实行常态化防控",
+      "onboard_time": 1669919468,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 74367,
       "num": 74367,
       "word": "陪诊师真的月入上万吗",
@@ -2289,14 +2297,6 @@
       "onboard_time": 1669909270,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 64871,
-      "num": 127143,
-      "word": "重庆无疫小区实行常态化防控",
-      "onboard_time": 1669919468,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 62255,
@@ -2347,6 +2347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 32582,
+      "num": 92808,
+      "word": "马丁内斯卸任比利时主帅",
+      "onboard_time": 1669921508,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 32307,
       "num": 32307,
       "word": "高科技介入足球是好是坏",
@@ -2361,14 +2369,6 @@
       "onboard_time": 1669909631,
       "rank": 47,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 20516,
-      "num": 92808,
-      "word": "马丁内斯卸任比利时主帅",
-      "onboard_time": 1669921508,
-      "rank": 40,
-      "category": "体育"
     }
   ],
   "hotgov_list": [
