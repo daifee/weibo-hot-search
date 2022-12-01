@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1669876928335,
+  "endTime": 1669879117663,
   "band_list": [
     {
       "raw_hot": 4704139,
@@ -33,6 +33,14 @@
       "onboard_time": 1669868772,
       "rank": 12,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 2323842,
+      "num": 961131,
+      "word": "18岁男生高烧3天不退确诊接吻病",
+      "onboard_time": 1669874952,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2319836,
@@ -91,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1328640,
+      "num": 642711,
+      "word": "丁俊晖怒喷世界台联",
+      "onboard_time": 1669875430,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1216391,
       "num": 1001962,
       "word": "感染HIV不等于得艾滋病",
@@ -147,20 +163,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1008303,
-      "num": 538456,
-      "word": "18岁男生高烧3天不退确诊接吻病",
-      "onboard_time": 1669874952,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 958257,
       "num": 303308,
       "word": "梅西错失点球",
       "onboard_time": 1669838468,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 872465,
+      "num": 872465,
+      "word": "广州海珠多地通知非必要不做核酸",
+      "onboard_time": 1669877291,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 853596,
@@ -275,8 +291,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 597044,
-      "num": 597044,
+      "raw_hot": 617780,
+      "num": 617780,
       "word": "小狗真的遇见了心软的神",
       "onboard_time": 1669873391,
       "rank": 9,
@@ -297,14 +313,6 @@
       "onboard_time": 1669854068,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 575502,
-      "num": 153634,
-      "word": "丁俊晖怒喷世界台联",
-      "onboard_time": 1669875430,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 565584,
@@ -515,6 +523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 342420,
+      "num": 342420,
+      "word": "部门经理拒调岗成普通员工被辞",
+      "onboard_time": 1669874772,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 338061,
       "num": 338061,
       "word": "广州多家银行房贷最长可延期一年",
@@ -529,6 +545,14 @@
       "onboard_time": 1669854490,
       "rank": 18,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 329147,
+      "num": 329147,
+      "word": "梅西发博庆祝阿根廷晋级",
+      "onboard_time": 1669873991,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 327167,
@@ -547,6 +571,22 @@
       "category": "社会新闻,游戏"
     },
     {
+      "raw_hot": 319931,
+      "num": 319931,
+      "word": "儿子1家强占房屋父母被迫住养老院",
+      "onboard_time": 1669876271,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 313438,
+      "num": 313438,
+      "word": "苹果为何惹众怒",
+      "onboard_time": 1669875970,
+      "rank": 48,
+      "category": "科技"
+    },
+    {
       "raw_hot": 311593,
       "num": 311593,
       "word": "深圳不以时空伴随作为判定密接标准",
@@ -561,6 +601,14 @@
       "onboard_time": 1669850228,
       "rank": 14,
       "category": "情感"
+    },
+    {
+      "raw_hot": 299421,
+      "num": 299421,
+      "word": "第一次见这么潦草的猫",
+      "onboard_time": 1669877051,
+      "rank": 19,
+      "category": "幽默"
     },
     {
       "raw_hot": 298040,
@@ -592,22 +640,6 @@
       "word": "沙特阿拉伯1比2墨西哥",
       "onboard_time": 1669842967,
       "rank": 31,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 287199,
-      "num": 148309,
-      "word": "部门经理拒调岗成普通员工被辞",
-      "onboard_time": 1669874772,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 286141,
-      "num": 286141,
-      "word": "梅西发博庆祝阿根廷晋级",
-      "onboard_time": 1669873991,
-      "rank": 19,
       "category": "体育"
     },
     {
@@ -691,6 +723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 245586,
+      "num": 245586,
+      "word": "德国出线形势",
+      "onboard_time": 1669876871,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 239113,
       "num": 239113,
       "word": "金毛半夜跑主人床上睡觉还打呼噜",
@@ -729,6 +769,14 @@
       "onboard_time": 1669825272,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 220958,
+      "num": 220958,
+      "word": "马斯克演示猴子用意念打字",
+      "onboard_time": 1669875491,
+      "rank": 39,
+      "category": "科技"
     },
     {
       "raw_hot": 219246,
@@ -899,14 +947,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 172963,
-      "num": 139282,
-      "word": "苹果为何惹众怒",
-      "onboard_time": 1669875970,
-      "rank": 48,
-      "category": "科技"
-    },
-    {
       "raw_hot": 168462,
       "num": 168462,
       "word": "使用儿童安全座椅可大幅降低受伤风险",
@@ -1027,14 +1067,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 141769,
-      "num": 141769,
-      "word": "马斯克演示猴子用意念打字",
-      "onboard_time": 1669875491,
-      "rank": 39,
-      "category": "科技"
-    },
-    {
       "raw_hot": 139730,
       "num": 139730,
       "word": "研究称婴儿恒星喝奶后也打嗝",
@@ -1107,12 +1139,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 120967,
+      "num": 120967,
+      "word": "咪咕音乐回应疑诱导儿童消费",
+      "onboard_time": 1669875251,
+      "rank": 42,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 119344,
       "num": 107023,
       "word": "沙特阿拉伯半场0比0墨西哥",
       "onboard_time": 1669842429,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 119344,
+      "num": 119344,
+      "word": "研究称太忙或太闲都不利于睡眠",
+      "onboard_time": 1669877951,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 117018,
@@ -1155,11 +1203,11 @@
       "category": "科技"
     },
     {
-      "raw_hot": 108053,
-      "num": 108053,
-      "word": "儿子1家强占房屋父母被迫住养老院",
-      "onboard_time": 1669876271,
-      "rank": 41,
+      "raw_hot": 107902,
+      "num": 107902,
+      "word": "侵华日军暴行最新罪证公布",
+      "onboard_time": 1669877350,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -1169,14 +1217,6 @@
       "onboard_time": 1669860130,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 107047,
-      "num": 107047,
-      "word": "咪咕音乐回应疑诱导儿童消费",
-      "onboard_time": 1669875251,
-      "rank": 42,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 105921,
@@ -1219,6 +1259,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 95866,
+      "num": 95866,
+      "word": "合肥庐江县发生3.0级地震",
+      "onboard_time": 1669877473,
+      "rank": 42,
+      "category": "自然,社会新闻"
+    },
+    {
       "raw_hot": 95380,
       "num": 95380,
       "word": "广州海珠宣布密接可居家隔离",
@@ -1243,14 +1291,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 93307,
-      "num": 93307,
-      "word": "德国出线形势",
-      "onboard_time": 1669876871,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 92378,
       "num": 92378,
       "word": "北京快递小哥一天工作19小时",
@@ -1272,6 +1312,30 @@
       "word": "起底核子基因",
       "onboard_time": 1669823773,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 87664,
+      "num": 87664,
+      "word": "湖人裁掉莱恩",
+      "onboard_time": 1669878972,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 87445,
+      "num": 87445,
+      "word": "威少超远压哨三分",
+      "onboard_time": 1669878613,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 86296,
+      "num": 86296,
+      "word": "71岁大爷工地卸水泥一袋5毛钱",
+      "onboard_time": 1669879032,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
