@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1669875980091,
+  "endTime": 1669876928335,
   "band_list": [
     {
       "raw_hot": 4704139,
@@ -75,20 +75,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1602737,
+      "num": 1132707,
+      "word": "伊朗男子庆祝世界杯伊朗输球被击毙",
+      "onboard_time": 1669873091,
+      "rank": 5,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 1506635,
       "num": 1506635,
       "word": "安理会默哀一分钟",
       "onboard_time": 1669862171,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1340887,
-      "num": 1132707,
-      "word": "伊朗男子庆祝世界杯伊朗输球被击毙",
-      "onboard_time": 1669873091,
-      "rank": 5,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 1216391,
@@ -144,6 +144,14 @@
       "word": "艾滋病病毒进入人体后会发生什么",
       "onboard_time": 1669865351,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1008303,
+      "num": 538456,
+      "word": "18岁男生高烧3天不退确诊接吻病",
+      "onboard_time": 1669874952,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -267,6 +275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 597044,
+      "num": 597044,
+      "word": "小狗真的遇见了心软的神",
+      "onboard_time": 1669873391,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
       "raw_hot": 589933,
       "num": 589933,
       "word": "梅西所在球队从未小组出局",
@@ -283,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 575502,
+      "num": 153634,
+      "word": "丁俊晖怒喷世界台联",
+      "onboard_time": 1669875430,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 565584,
       "num": 565584,
       "word": "苹果iOS16.1.2正式版发布",
@@ -297,14 +321,6 @@
       "onboard_time": 1669860849,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 527494,
-      "num": 527494,
-      "word": "小狗真的遇见了心软的神",
-      "onboard_time": 1669873391,
-      "rank": 9,
-      "category": "情感"
     },
     {
       "raw_hot": 515837,
@@ -433,14 +449,6 @@
       "onboard_time": 1669797921,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 414030,
-      "num": 414030,
-      "word": "18岁男生高烧3天不退确诊接吻病",
-      "onboard_time": 1669874952,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 403258,
@@ -587,6 +595,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 287199,
+      "num": 148309,
+      "word": "部门经理拒调岗成普通员工被辞",
+      "onboard_time": 1669874772,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 286141,
+      "num": 286141,
+      "word": "梅西发博庆祝阿根廷晋级",
+      "onboard_time": 1669873991,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 285246,
       "num": 285246,
       "word": "男孩吸饮料瓶被瓶子吸住舌头",
@@ -683,14 +707,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 231516,
-      "num": 231516,
-      "word": "梅西发博庆祝阿根廷晋级",
-      "onboard_time": 1669873991,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 231171,
       "num": 231171,
       "word": "关于艾滋病应该要了解的事",
@@ -747,14 +763,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 197973,
-      "num": 153634,
-      "word": "丁俊晖怒喷世界台联",
-      "onboard_time": 1669875430,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 197790,
       "num": 197790,
       "word": "低温烫伤的危害有多大",
@@ -769,14 +777,6 @@
       "onboard_time": 1669843567,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 194149,
-      "num": 148309,
-      "word": "部门经理拒调岗成普通员工被辞",
-      "onboard_time": 1669874772,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 193890,
@@ -899,6 +899,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 172963,
+      "num": 139282,
+      "word": "苹果为何惹众怒",
+      "onboard_time": 1669875970,
+      "rank": 48,
+      "category": "科技"
+    },
+    {
       "raw_hot": 168462,
       "num": 168462,
       "word": "使用儿童安全座椅可大幅降低受伤风险",
@@ -995,6 +1003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 145543,
+      "num": 145543,
+      "word": "湖人战胜开拓者",
+      "onboard_time": 1669874711,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 145054,
       "num": 145054,
       "word": "澳大利亚vs丹麦",
@@ -1009,6 +1025,14 @@
       "onboard_time": 1669828151,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 141769,
+      "num": 141769,
+      "word": "马斯克演示猴子用意念打字",
+      "onboard_time": 1669875491,
+      "rank": 39,
+      "category": "科技"
     },
     {
       "raw_hot": 139730,
@@ -1043,14 +1067,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 128164,
-      "num": 128164,
-      "word": "湖人战胜开拓者",
-      "onboard_time": 1669874711,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 127991,
       "num": 127991,
       "word": "反电信网络诈骗法正式施行",
@@ -1083,6 +1099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121390,
+      "num": 121390,
+      "word": "12月的第一天",
+      "onboard_time": 1669876391,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 119344,
       "num": 107023,
       "word": "沙特阿拉伯半场0比0墨西哥",
@@ -1097,14 +1121,6 @@
       "onboard_time": 1669850648,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 114040,
-      "num": 114040,
-      "word": "马斯克演示猴子用意念打字",
-      "onboard_time": 1669875491,
-      "rank": 39,
-      "category": "科技"
     },
     {
       "raw_hot": 112402,
@@ -1137,6 +1153,14 @@
       "onboard_time": 1669824433,
       "rank": 35,
       "category": "科技"
+    },
+    {
+      "raw_hot": 108053,
+      "num": 108053,
+      "word": "儿子1家强占房屋父母被迫住养老院",
+      "onboard_time": 1669876271,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 107337,
@@ -1195,14 +1219,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 95888,
-      "num": 95888,
-      "word": "苹果为何惹众怒",
-      "onboard_time": 1669875970,
-      "rank": 48,
-      "category": "科技"
-    },
-    {
       "raw_hot": 95380,
       "num": 95380,
       "word": "广州海珠宣布密接可居家隔离",
@@ -1225,6 +1241,14 @@
       "onboard_time": 1669863013,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 93307,
+      "num": 93307,
+      "word": "德国出线形势",
+      "onboard_time": 1669876871,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 92378,
