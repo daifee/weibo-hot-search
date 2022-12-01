@@ -1,0 +1,410 @@
+{
+  "runTime": 1669887349609,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 49230,
+        "num": 819846,
+        "word": "江泽民同志在上海逝世享年96岁",
+        "onboard_time": 1669797921,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 16229,
+        "num": 815331,
+        "word": "告全党全军全国各族人民书",
+        "onboard_time": 1669797921,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 293106,
+        "num": 802977,
+        "word": "封控管理要快封快解应解尽解",
+        "onboard_time": 1669868951,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1260068,
+        "num": 789669,
+        "word": "高中生宿舍内卖油饼被勒令退学",
+        "onboard_time": 1669881371,
+        "rank": 3,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1069610,
+        "num": 780720,
+        "word": "18岁男生高烧3天不退确诊接吻病",
+        "onboard_time": 1669874952,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1067194,
+        "num": 770754,
+        "word": "得知十混一初筛阳性后该怎么做",
+        "onboard_time": 1669884373,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 931855,
+        "num": 754937,
+        "word": "女子拒退35万彩礼被列为失信人",
+        "onboard_time": 1669882391,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 754886,
+        "num": 754886,
+        "word": "女子盐焗40多个鸡蛋开盖变炸蛋",
+        "onboard_time": 1669881851,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 703571,
+        "num": 703571,
+        "word": "老师暂停上课让学生撒欢玩雪",
+        "onboard_time": 1669881672,
+        "rank": 8,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 686299,
+        "num": 686299,
+        "word": "年轻人感染奥密克戎发热一般不超3天",
+        "onboard_time": 1669884791,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 647500,
+        "num": 647500,
+        "word": "林书豪被CBA罚款1万元",
+        "onboard_time": 1669881971,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 637244,
+        "num": 637244,
+        "word": "复核结果阴性要立即解除相关人员管控",
+        "onboard_time": 1669884911,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 564133,
+        "num": 564133,
+        "word": "妈妈晒考上985的儿子高中做过的所有卷子",
+        "onboard_time": 1669868772,
+        "rank": 12,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 496493,
+        "num": 496493,
+        "word": "哈工大学生回应被安排专机返乡",
+        "onboard_time": 1669885030,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 436319,
+        "num": 436319,
+        "word": "广州海珠多地通知非必要不做核酸",
+        "onboard_time": 1669877291,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 420543,
+        "num": 420543,
+        "word": "山东四六级",
+        "onboard_time": 1669885392,
+        "rank": 15,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 417162,
+        "num": 417162,
+        "word": "房东主动给45名租户免一个月房租",
+        "onboard_time": 1669883351,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 409337,
+        "num": 409337,
+        "word": "女子在鹤岗花4万买房创业亏10多万",
+        "onboard_time": 1669885572,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 389031,
+        "num": 389031,
+        "word": "伊朗男子庆祝世界杯伊朗输球被击毙",
+        "onboard_time": 1669873091,
+        "rank": 18,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 340319,
+        "num": 340319,
+        "word": "新华社科普长新冠",
+        "onboard_time": 1669885452,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309772,
+        "num": 309772,
+        "word": "丁俊晖怒喷世界台联",
+        "onboard_time": 1669875430,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 286999,
+        "num": 286999,
+        "word": "不要给2岁以下孩子看手机",
+        "onboard_time": 1669885152,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278326,
+        "num": 278326,
+        "word": "日本vs西班牙",
+        "onboard_time": 1669883532,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 275175,
+        "num": 275175,
+        "word": "女生称外卖疑使用淋巴肉反被商家辱骂",
+        "onboard_time": 1669881432,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268364,
+        "num": 268364,
+        "word": "艾滋病病毒进入人体后会发生什么",
+        "onboard_time": 1669865351,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233627,
+        "num": 233627,
+        "word": "3个4岁萌娃暴走3公里去串门",
+        "onboard_time": 1669883171,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225869,
+        "num": 225869,
+        "word": "广州回归日常",
+        "onboard_time": 1669886592,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223363,
+        "num": 223363,
+        "word": "第一次见这么潦草的猫",
+        "onboard_time": 1669877051,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 200453,
+        "num": 200453,
+        "word": "苹果为何惹众怒",
+        "onboard_time": 1669875970,
+        "rank": 28,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 199318,
+        "num": 199318,
+        "word": "小狗真的遇见了心软的神",
+        "onboard_time": 1669873391,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 329037,
+        "num": 196996,
+        "word": "锦州发文能清零而不清零太可惜",
+        "onboard_time": 1669886711,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192032,
+        "num": 192032,
+        "word": "HM裁员1500人",
+        "onboard_time": 1669880590,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191519,
+        "num": 191519,
+        "word": "曝李铁供出三名国足球员",
+        "onboard_time": 1669862052,
+        "rank": 32,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 183139,
+        "num": 183139,
+        "word": "德国出线形势",
+        "onboard_time": 1669876871,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176391,
+        "num": 176391,
+        "word": "这就是燕雀安知鸿鹄之志的燕雀",
+        "onboard_time": 1669881971,
+        "rank": 34,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 160343,
+        "num": 160343,
+        "word": "奥密克戎致病力已大幅降低",
+        "onboard_time": 1669859109,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144885,
+        "num": 144885,
+        "word": "儿子1家强占房屋父母被迫住养老院",
+        "onboard_time": 1669876271,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141843,
+        "num": 141843,
+        "word": "官方通报18岁女生方舱质问工作人员",
+        "onboard_time": 1669860671,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141499,
+        "num": 141499,
+        "word": "安理会默哀一分钟",
+        "onboard_time": 1669862171,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140972,
+        "num": 140972,
+        "word": "奶奶陪孙女学古筝自己练到10级",
+        "onboard_time": 1669885752,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116531,
+        "num": 116531,
+        "word": "研究称太忙或太闲都不利于睡眠",
+        "onboard_time": 1669877951,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111935,
+        "num": 111935,
+        "word": "71岁大爷工地卸水泥一袋5毛钱",
+        "onboard_time": 1669879032,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110256,
+        "num": 110256,
+        "word": "梅西发博庆祝阿根廷晋级",
+        "onboard_time": 1669873991,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100335,
+        "num": 100335,
+        "word": "残疾小伙寒风中卖葱大哥全部买下",
+        "onboard_time": 1669887251,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99723,
+        "num": 99723,
+        "word": "湖人裁掉莱恩",
+        "onboard_time": 1669878972,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99548,
+        "num": 99548,
+        "word": "部门经理拒调岗成普通员工被辞",
+        "onboard_time": 1669874772,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98042,
+        "num": 98042,
+        "word": "单亲患癌女孩给六旬奶奶做防丢失牌",
+        "onboard_time": 1669880351,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96775,
+        "num": 96775,
+        "word": "马斯克演示猴子用意念打字",
+        "onboard_time": 1669875491,
+        "rank": 47,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 94959,
+        "num": 94959,
+        "word": "男子教科书式扶起摔倒老人",
+        "onboard_time": 1669887312,
+        "rank": 48,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 94882,
+        "num": 94882,
+        "word": "浙江初雪美景",
+        "onboard_time": 1669887251,
+        "rank": 49,
+        "category": "旅游,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#江泽民同志永垂不朽#"
+    }
+  }
+}
