@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/11/28 00:26:38 ~ 2022/12/02 03:34:01
+本榜单时间：2022/11/28 00:26:38 ~ 2022/12/02 04:18:32
 </p>
 </blockquote>
 <p>
@@ -7749,6 +7749,12 @@ AppleWatchSeries2被列为过时产品（热度：133056）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E4%B8%81%E5%86%85%E6%96%AF%E5%8D%B8%E4%BB%BB%E6%AF%94%E5%88%A9%E6%97%B6%E4%B8%BB%E5%B8%85%23" target="weibo">
+马丁内斯卸任比利时主帅（热度：39069）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%AC%E5%A4%A9%E6%8B%BF%E6%8D%8F%E6%87%92%E4%BA%BA%E7%9A%84%E7%81%B5%E9%AD%82%E9%B8%A1%E6%B1%A4%E9%9D%A2%23" target="weibo">
 冬天拿捏懒人的灵魂鸡汤面（热度：37925）
 </a>
@@ -7767,12 +7773,6 @@ AppleWatchSeries2被列为过时产品（热度：133056）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E4%B8%81%E5%86%85%E6%96%AF%E5%8D%B8%E4%BB%BB%E6%AF%94%E5%88%A9%E6%97%B6%E4%B8%BB%E5%B8%85%23" target="weibo">
-马丁内斯卸任比利时主帅（热度：32582）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E7%A7%91%E6%8A%80%E4%BB%8B%E5%85%A5%E8%B6%B3%E7%90%83%E6%98%AF%E5%A5%BD%E6%98%AF%E5%9D%8F%23" target="weibo">
 高科技介入足球是好是坏（热度：32307）
 </a>
@@ -7780,7 +7780,13 @@ AppleWatchSeries2被列为过时产品（热度：133056）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%97%E5%88%A9%E5%85%8B%E8%AF%B4%E4%B8%8D%E6%8B%85%E5%BF%83%E4%B8%8A%E5%B1%8A%E4%B8%96%E7%95%8C%E6%9D%AF%E5%8E%86%E5%8F%B2%E9%87%8D%E6%BC%94%23" target="weibo">
-弗利克说不担心上届世界杯历史重演（热度：24288）
+弗利克说不担心上届世界杯历史重演（热度：29810）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A0%BC%E7%BA%B3%E5%B8%83%E9%87%8C%E5%A4%B4%E7%90%83%E7%A0%B4%E9%97%A8%23" target="weibo">
+格纳布里头球破门（热度：28317）
 </a>
 </li>
 

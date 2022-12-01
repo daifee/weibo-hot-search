@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1669923241462,
+  "endTime": 1669925912385,
   "band_list": [
     {
       "raw_hot": 4704139,
@@ -2331,6 +2331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 50755,
+      "num": 92857,
+      "word": "莫拉塔破门",
+      "onboard_time": 1669924567,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 50023,
       "num": 50023,
       "word": "什琴斯尼连续两场扑点",
@@ -2347,7 +2355,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 32582,
+      "raw_hot": 39069,
       "num": 92808,
       "word": "马丁内斯卸任比利时主帅",
       "onboard_time": 1669921508,
@@ -2363,12 +2371,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 24288,
+      "raw_hot": 29810,
       "num": 101310,
       "word": "弗利克说不担心上届世界杯历史重演",
       "onboard_time": 1669909631,
       "rank": 47,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 28317,
+      "num": 80481,
+      "word": "格纳布里头球破门",
+      "onboard_time": 1669925226,
+      "rank": 31,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
