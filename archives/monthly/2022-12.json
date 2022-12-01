@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1669909067497,
+  "endTime": 1669912152284,
   "band_list": [
     {
       "raw_hot": 4704139,
@@ -316,7 +316,7 @@
     },
     {
       "raw_hot": 857152,
-      "num": 483506,
+      "num": 707353,
       "word": "考研没延期",
       "onboard_time": 1669894814,
       "rank": 7,
@@ -388,7 +388,7 @@
     },
     {
       "raw_hot": 778165,
-      "num": 603320,
+      "num": 669937,
       "word": "优衣库创始人称在中国开3000家店还不够",
       "onboard_time": 1669901532,
       "rank": 38,
@@ -507,12 +507,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 667463,
+      "num": 667463,
+      "word": "外交部回应美国务卿布林肯涉中国疫情表态",
+      "onboard_time": 1669906872,
+      "rank": 30,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 657971,
       "num": 642692,
       "word": "苏亚雷斯拒绝为2010年手球道歉",
       "onboard_time": 1669900813,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 649830,
+      "num": 394191,
+      "word": "西安通报一高层住宅楼火灾致5死",
+      "onboard_time": 1669908671,
+      "rank": 31,
+      "category": "社会负面"
     },
     {
       "raw_hot": 637244,
@@ -579,6 +595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 576994,
+      "num": 576994,
+      "word": "本届世界杯首个乌龙球",
+      "onboard_time": 1669910890,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 565584,
       "num": 565584,
       "word": "苹果iOS16.1.2正式版发布",
@@ -593,6 +617,14 @@
       "onboard_time": 1669860849,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 562104,
+      "num": 790690,
+      "word": "克罗地亚点球被取消",
+      "onboard_time": 1669909693,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 535974,
@@ -707,6 +739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 439365,
+      "num": 439365,
+      "word": "谈好400元租房第二天房东加价到1000",
+      "onboard_time": 1669909693,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 431333,
       "num": 431333,
       "word": "江苏省考",
@@ -760,14 +800,6 @@
       "word": "告全党全军全国各族人民书",
       "onboard_time": 1669797921,
       "rank": 2,
-      "category": "国内要闻"
-    },
-    {
-      "raw_hot": 403794,
-      "num": 172619,
-      "word": "外交部回应美国务卿布林肯涉中国疫情表态",
-      "onboard_time": 1669906872,
-      "rank": 30,
       "category": "国内要闻"
     },
     {
@@ -836,7 +868,7 @@
     },
     {
       "raw_hot": 368500,
-      "num": 368500,
+      "num": 769240,
       "word": "德国队死磕哥斯达黎加",
       "onboard_time": 1669904112,
       "rank": 48,
@@ -849,6 +881,14 @@
       "onboard_time": 1669847107,
       "rank": 35,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 360567,
+      "num": 360567,
+      "word": "小猫咪真的好像个小宝宝啊",
+      "onboard_time": 1669906693,
+      "rank": 17,
+      "category": "情感"
     },
     {
       "raw_hot": 360512,
@@ -939,14 +979,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 331812,
-      "num": 331812,
-      "word": "小猫咪真的好像个小宝宝啊",
-      "onboard_time": 1669906693,
-      "rank": 17,
-      "category": "情感"
-    },
-    {
       "raw_hot": 329147,
       "num": 329147,
       "word": "梅西发博庆祝阿根廷晋级",
@@ -1003,20 +1035,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 305019,
+      "num": 305019,
+      "word": "广东变成了广冻",
+      "onboard_time": 1669906453,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 300498,
       "num": 202630,
       "word": "十二月",
       "onboard_time": 1669850228,
       "rank": 14,
       "category": "情感"
-    },
-    {
-      "raw_hot": 299738,
-      "num": 299738,
-      "word": "广东变成了广冻",
-      "onboard_time": 1669906453,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 298040,
@@ -1060,7 +1092,7 @@
     },
     {
       "raw_hot": 285957,
-      "num": 285957,
+      "num": 719502,
       "word": "克罗地亚vs比利时",
       "onboard_time": 1669905791,
       "rank": 16,
@@ -1611,14 +1643,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 152245,
-      "num": 152245,
-      "word": "西安通报一高层住宅楼火灾致5死",
-      "onboard_time": 1669908671,
-      "rank": 31,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 152025,
       "num": 152025,
       "word": "雪中的鸣沙山月牙泉",
@@ -1657,6 +1681,14 @@
       "onboard_time": 1669810876,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 146261,
+      "num": 146261,
+      "word": "这猫长在我知识盲区了",
+      "onboard_time": 1669908191,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 145543,
@@ -1705,14 +1737,6 @@
       "onboard_time": 1669811505,
       "rank": 27,
       "category": "科技"
-    },
-    {
-      "raw_hot": 136133,
-      "num": 136133,
-      "word": "这猫长在我知识盲区了",
-      "onboard_time": 1669908191,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 135729,
@@ -1769,6 +1793,14 @@
       "onboard_time": 1669863070,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 127607,
+      "num": 127607,
+      "word": "山东人有多爱面食",
+      "onboard_time": 1669908851,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 126259,
@@ -1953,14 +1985,6 @@
       "onboard_time": 1669824913,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 102760,
-      "num": 102760,
-      "word": "山东人有多爱面食",
-      "onboard_time": 1669908851,
-      "rank": 45,
-      "category": "美食"
     },
     {
       "raw_hot": 102039,
@@ -2155,6 +2179,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 82577,
+      "num": 82577,
+      "word": "克罗地亚半场0比0比利时",
+      "onboard_time": 1669910529,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 77129,
       "num": 77129,
       "word": "当乌镇遇到一场雪",
@@ -2195,11 +2227,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 67887,
+      "num": 67887,
+      "word": "齐耶赫超远吊射",
+      "onboard_time": 1669909270,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 62255,
       "num": 41928,
       "word": "法国大概率小组第一",
       "onboard_time": 1669830372,
       "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 56401,
+      "num": 56401,
+      "word": "莱万晒女儿照片",
+      "onboard_time": 1669911429,
+      "rank": 49,
       "category": "体育"
     },
     {
