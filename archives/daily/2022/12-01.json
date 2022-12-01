@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1669883187079,
+  "endTime": 1669884081735,
   "band_list": [
     {
       "raw_hot": 4704139,
@@ -107,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1253033,
+      "num": 829567,
+      "word": "高中生宿舍内卖油饼被勒令退学",
+      "onboard_time": 1669881371,
+      "rank": 7,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1216391,
       "num": 1001962,
       "word": "感染HIV不等于得艾滋病",
@@ -211,14 +219,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 795077,
-      "num": 795077,
-      "word": "高中生宿舍内卖油饼被勒令退学",
-      "onboard_time": 1669881371,
-      "rank": 7,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 774710,
       "num": 774710,
       "word": "5个月宝宝手握鸡腿大快朵颐进食",
@@ -273,6 +273,14 @@
       "onboard_time": 1669820620,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 698959,
+      "num": 698959,
+      "word": "林书豪被CBA罚款1万元",
+      "onboard_time": 1669881971,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 685881,
@@ -337,6 +345,30 @@
       "onboard_time": 1669860849,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 544200,
+      "num": 544200,
+      "word": "老师暂停上课让学生撒欢玩雪",
+      "onboard_time": 1669881672,
+      "rank": 19,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 518687,
+      "num": 518687,
+      "word": "女子拒退35万彩礼被列为失信人",
+      "onboard_time": 1669882391,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 518260,
+      "num": 518260,
+      "word": "女子盐焗40多个鸡蛋开盖变炸蛋",
+      "onboard_time": 1669881851,
+      "rank": 22,
+      "category": "美食"
     },
     {
       "raw_hot": 515837,
@@ -475,14 +507,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 410794,
-      "num": 410794,
-      "word": "林书豪被CBA罚款1万元",
-      "onboard_time": 1669881971,
-      "rank": 12,
-      "category": "体育"
-    },
-    {
       "raw_hot": 403258,
       "num": 403258,
       "word": "北京部分社区孕妇等阳性可居家隔离",
@@ -520,6 +544,14 @@
       "word": "专家称居家隔离可缓解床位紧张难题",
       "onboard_time": 1669817836,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 372411,
+      "num": 372411,
+      "word": "女生称外卖疑使用淋巴肉反被商家辱骂",
+      "onboard_time": 1669881432,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -611,14 +643,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 326428,
-      "num": 326428,
-      "word": "女生称外卖疑使用淋巴肉反被商家辱骂",
-      "onboard_time": 1669881432,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 325018,
       "num": 325018,
       "word": "迷你世界致歉",
@@ -649,14 +673,6 @@
       "onboard_time": 1669850228,
       "rank": 14,
       "category": "情感"
-    },
-    {
-      "raw_hot": 299185,
-      "num": 299185,
-      "word": "老师暂停上课让学生撒欢玩雪",
-      "onboard_time": 1669881672,
-      "rank": 19,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 298040,
@@ -705,14 +721,6 @@
       "onboard_time": 1669867992,
       "rank": 39,
       "category": "科技"
-    },
-    {
-      "raw_hot": 282921,
-      "num": 282921,
-      "word": "女子盐焗40多个鸡蛋开盖变炸蛋",
-      "onboard_time": 1669881851,
-      "rank": 22,
-      "category": "美食"
     },
     {
       "raw_hot": 282577,
@@ -769,6 +777,14 @@
       "onboard_time": 1669812619,
       "rank": 18,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 264618,
+      "num": 264618,
+      "word": "HM裁员1500人",
+      "onboard_time": 1669880590,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 260037,
@@ -859,28 +875,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 210017,
-      "num": 210017,
-      "word": "HM裁员1500人",
-      "onboard_time": 1669880590,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 208686,
       "num": 208686,
       "word": "墨西哥拳王卡内洛向梅西道歉",
       "onboard_time": 1669862530,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 202981,
-      "num": 162405,
-      "word": "女子拒退35万彩礼被列为失信人",
-      "onboard_time": 1669882391,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 197790,
@@ -939,6 +939,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 190688,
+      "num": 190688,
+      "word": "这就是燕雀安知鸿鹄之志的燕雀",
+      "onboard_time": 1669881971,
+      "rank": 34,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 190146,
       "num": 190146,
       "word": "1岁萌娃坐透明电梯被吓到腿软",
@@ -985,6 +993,14 @@
       "onboard_time": 1669880351,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 184526,
+      "num": 184526,
+      "word": "日本vs西班牙",
+      "onboard_time": 1669883532,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 184438,
@@ -1067,6 +1083,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 161871,
+      "num": 161871,
+      "word": "哥斯达黎加vs德国",
+      "onboard_time": 1669883532,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 161844,
       "num": 108764,
       "word": "梅西点球",
@@ -1105,14 +1129,6 @@
       "onboard_time": 1669809798,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 155845,
-      "num": 155845,
-      "word": "这就是燕雀安知鸿鹄之志的燕雀",
-      "onboard_time": 1669881971,
-      "rank": 34,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 152971,
@@ -1201,6 +1217,14 @@
       "onboard_time": 1669811505,
       "rank": 27,
       "category": "科技"
+    },
+    {
+      "raw_hot": 137569,
+      "num": 137569,
+      "word": "房东主动给45名租户免一个月房租",
+      "onboard_time": 1669883351,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 135729,
@@ -1347,6 +1371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 106575,
+      "num": 106575,
+      "word": "3个4岁萌娃暴走3公里去串门",
+      "onboard_time": 1669883171,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 105921,
       "num": 105921,
       "word": "澳大利亚成首支出线的亚足联球队",
@@ -1377,14 +1409,6 @@
       "onboard_time": 1669880772,
       "rank": 46,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 99880,
-      "num": 99880,
-      "word": "3个4岁萌娃暴走3公里去串门",
-      "onboard_time": 1669883171,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 99303,
@@ -1435,6 +1459,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 93851,
+      "num": 93851,
+      "word": "马斯克称美国经济面临严重衰退风险",
+      "onboard_time": 1669883831,
+      "rank": 46,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 93524,
       "num": 93524,
       "word": "山东雪窝子下雪",
@@ -1481,6 +1513,14 @@
       "onboard_time": 1669801557,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 84099,
+      "num": 84099,
+      "word": "不得非法提供虚拟拨号设备软件",
+      "onboard_time": 1669883712,
+      "rank": 49,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 77129,
