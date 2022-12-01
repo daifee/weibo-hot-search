@@ -1,6 +1,6 @@
 {
   "startTime": 1669912152284,
-  "endTime": 1669925912385,
+  "endTime": 1669926801255,
   "band_list": [
     {
       "raw_hot": 1531081,
@@ -227,6 +227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 162309,
+      "num": 117903,
+      "word": "日本vs西班牙",
+      "onboard_time": 1669883532,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 146261,
       "num": 146261,
       "word": "这猫长在我知识盲区了",
@@ -272,6 +280,14 @@
       "word": "克罗地亚0比0比利时",
       "onboard_time": 1669914787,
       "rank": 20,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 135158,
+      "num": 116139,
+      "word": "哥斯达黎加vs德国",
+      "onboard_time": 1669906152,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -355,14 +371,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 100036,
-      "num": 117903,
-      "word": "日本vs西班牙",
-      "onboard_time": 1669883532,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 92943,
       "num": 92943,
       "word": "不要给2岁以下孩子看手机",
@@ -393,14 +401,6 @@
       "onboard_time": 1669885392,
       "rank": 39,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 83350,
-      "num": 116139,
-      "word": "哥斯达黎加vs德国",
-      "onboard_time": 1669906152,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 82844,
@@ -475,8 +475,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 51698,
+      "num": 87370,
+      "word": "哥斯达黎加半场0比1德国",
+      "onboard_time": 1669926067,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 50755,
-      "num": 92857,
+      "num": 101166,
       "word": "莫拉塔破门",
       "onboard_time": 1669924567,
       "rank": 17,
@@ -500,7 +508,7 @@
     },
     {
       "raw_hot": 28317,
-      "num": 80481,
+      "num": 85169,
       "word": "格纳布里头球破门",
       "onboard_time": 1669925226,
       "rank": 31,
