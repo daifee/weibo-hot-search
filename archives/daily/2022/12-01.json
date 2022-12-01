@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1669891139831,
+  "endTime": 1669893415977,
   "band_list": [
     {
       "raw_hot": 4704139,
@@ -155,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1154401,
+      "num": 1154401,
+      "word": "小狗去世前站主人床边1小时不离开",
+      "onboard_time": 1669889292,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1137685,
       "num": 1137685,
       "word": "得知十混一初筛阳性后该怎么做",
@@ -209,6 +217,14 @@
       "onboard_time": 1669865351,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1002024,
+      "num": 1002024,
+      "word": "黄健翔说VAR毁了足球",
+      "onboard_time": 1669889052,
+      "rank": 21,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 969090,
@@ -339,6 +355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 720513,
+      "num": 720513,
+      "word": "黑龙江一女生被多人持扫帚殴打",
+      "onboard_time": 1669888692,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 716213,
       "num": 462681,
       "word": "重庆中心城区将逐步放开",
@@ -387,12 +411,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 664231,
-      "num": 664231,
-      "word": "黄健翔说VAR毁了足球",
-      "onboard_time": 1669889052,
-      "rank": 21,
-      "category": "体育,社会新闻"
+      "raw_hot": 657830,
+      "num": 657830,
+      "word": "全国研考12月24日至26日举行",
+      "onboard_time": 1669892111,
+      "rank": 10,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 637244,
@@ -400,6 +424,14 @@
       "word": "复核结果阴性要立即解除相关人员管控",
       "onboard_time": 1669884911,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 628945,
+      "num": 628945,
+      "word": "凤鸣华府",
+      "onboard_time": 1669888393,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -467,27 +499,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 530307,
-      "num": 530307,
-      "word": "小狗去世前站主人床边1小时不离开",
-      "onboard_time": 1669889292,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 528190,
-      "num": 528190,
-      "word": "凤鸣华府",
-      "onboard_time": 1669888393,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 515837,
       "num": 426418,
       "word": "净水器水管接反全家喝了一年废水",
       "onboard_time": 1669820176,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 500541,
+      "num": 500541,
+      "word": "广州鼓励家庭自备抗原试剂盒",
+      "onboard_time": 1669888571,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -635,14 +659,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 399298,
-      "num": 399298,
-      "word": "黑龙江一女生被多人持扫帚殴打",
-      "onboard_time": 1669888692,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 396798,
       "num": 396798,
       "word": "儿子1家强占房屋父母被迫住养老院",
@@ -656,14 +672,6 @@
       "word": "广州出发火车票瞬时搜索量增2.5倍",
       "onboard_time": 1669816695,
       "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 383537,
-      "num": 383537,
-      "word": "广州鼓励家庭自备抗原试剂盒",
-      "onboard_time": 1669888571,
-      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -736,6 +744,14 @@
       "word": "部门经理拒调岗成普通员工被辞",
       "onboard_time": 1669874772,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 341847,
+      "num": 341847,
+      "word": "北京增社会面155例",
+      "onboard_time": 1669891932,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -833,6 +849,14 @@
       "onboard_time": 1669804972,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 292008,
+      "num": 292008,
+      "word": "哪吒汽车卖一辆亏4万",
+      "onboard_time": 1669890912,
+      "rank": 46,
+      "category": "财经,科技"
     },
     {
       "raw_hot": 287238,
@@ -979,6 +1003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 233494,
+      "num": 233494,
+      "word": "大连海面冻开锅了",
+      "onboard_time": 1669889832,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 233417,
       "num": 233417,
       "word": "5个月萌娃稳稳站立在外公手心",
@@ -1017,6 +1049,14 @@
       "onboard_time": 1669872490,
       "rank": 46,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 218663,
+      "num": 218663,
+      "word": "江泽民同志遗体由专机敬移北京",
+      "onboard_time": 1669893193,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 217772,
@@ -1075,6 +1115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 192873,
+      "num": 192873,
+      "word": "北京医院不得拒绝无48小时核酸患者进入",
+      "onboard_time": 1669892471,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 191845,
       "num": 191845,
       "word": "湖人裁掉莱恩",
@@ -1121,6 +1169,14 @@
       "onboard_time": 1669826352,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 188510,
+      "num": 188510,
+      "word": "西安一小区起火有业主悬在窗外",
+      "onboard_time": 1669890732,
+      "rank": 42,
+      "category": "社会负面"
     },
     {
       "raw_hot": 187721,
@@ -1379,12 +1435,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 135932,
-      "num": 135932,
-      "word": "大连海面冻开锅了",
-      "onboard_time": 1669889832,
-      "rank": 44,
-      "category": "社会新闻"
+      "raw_hot": 136029,
+      "num": 136029,
+      "word": "国美电器已被申请破产清算",
+      "onboard_time": 1669893071,
+      "rank": 40,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 135729,
@@ -1393,6 +1449,14 @@
       "onboard_time": 1669816421,
       "rank": 28,
       "category": "军事"
+    },
+    {
+      "raw_hot": 134553,
+      "num": 134553,
+      "word": "男子教科书式扶起摔倒老人",
+      "onboard_time": 1669887312,
+      "rank": 48,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 133056,
@@ -1419,12 +1483,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 125991,
-      "num": 125991,
-      "word": "男子教科书式扶起摔倒老人",
-      "onboard_time": 1669887312,
+      "raw_hot": 127406,
+      "num": 127406,
+      "word": "女子求职面试后老板报价2万约饭",
+      "onboard_time": 1669892953,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 126052,
+      "num": 126052,
+      "word": "广东加入堆雪人群聊",
+      "onboard_time": 1669890372,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 125856,
+      "num": 125856,
+      "word": "科学家没发现金星能孕育生命的迹象",
+      "onboard_time": 1669887913,
       "rank": 48,
-      "category": "社会正能量"
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 124900,
@@ -1499,6 +1579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 116941,
+      "num": 116941,
+      "word": "白岩松说C罗不该和B费争进球",
+      "onboard_time": 1669893313,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 116173,
       "num": 116173,
       "word": "男子联系小广告遇天价救护车",
@@ -1523,28 +1611,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 110778,
-      "num": 110778,
-      "word": "西安一小区起火有业主悬在窗外",
-      "onboard_time": 1669890732,
-      "rank": 42,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 109909,
       "num": 109909,
       "word": "梅西重新定义人墙",
       "onboard_time": 1669809737,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 109736,
-      "num": 109736,
-      "word": "科学家没发现金星能孕育生命的迹象",
-      "onboard_time": 1669887913,
-      "rank": 48,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 109710,
@@ -1579,28 +1651,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 103911,
-      "num": 103911,
-      "word": "哪吒汽车卖一辆亏4万",
-      "onboard_time": 1669890912,
-      "rank": 46,
-      "category": "财经,科技"
-    },
-    {
       "raw_hot": 103907,
       "num": 103907,
       "word": "突尼斯半场0比0法国",
       "onboard_time": 1669824913,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 101552,
-      "num": 101552,
-      "word": "广东加入堆雪人群聊",
-      "onboard_time": 1669890372,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 101355,
