@@ -1,0 +1,410 @@
+{
+  "runTime": 1669936822943,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 218559,
+        "num": 752288,
+        "word": "江泽民同志遗体由专机敬移北京",
+        "onboard_time": 1669893193,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 55098,
+        "num": 751511,
+        "word": "12月6日隆重举行江泽民同志追悼大会",
+        "onboard_time": 1669889471,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 151739,
+        "num": 744273,
+        "word": "各地持续优化新冠肺炎疫情防控举措",
+        "onboard_time": 1669905370,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1903597,
+        "num": 737621,
+        "word": "德国无缘16强",
+        "onboard_time": 1669929187,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1543746,
+        "num": 728324,
+        "word": "日本2比1反超西班牙",
+        "onboard_time": 1669926968,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 688769,
+        "num": 720696,
+        "word": "不参加社区核酸筛查人员如何就医",
+        "onboard_time": 1669913229,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 522634,
+        "num": 713451,
+        "word": "日本3分钟2球",
+        "onboard_time": 1669928288,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 519892,
+        "num": 708628,
+        "word": "本届世界杯首个乌龙球",
+        "onboard_time": 1669910890,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 364111,
+        "num": 702374,
+        "word": "谈好400元租房第二天房东加价到1000",
+        "onboard_time": 1669909693,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300923,
+        "num": 694311,
+        "word": "日本晋级16强",
+        "onboard_time": 1669929010,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 351059,
+        "num": 690546,
+        "word": "育儿嫂疑在1岁半娃耳边咒骂宝妈",
+        "onboard_time": 1669904591,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236098,
+        "num": 682422,
+        "word": "外交部回应美国务卿布林肯涉中国疫情表态",
+        "onboard_time": 1669906872,
+        "rank": 11,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 222825,
+        "num": 676679,
+        "word": "哥斯达黎加2比4德国",
+        "onboard_time": 1669929068,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177891,
+        "num": 666303,
+        "word": "穆勒",
+        "onboard_time": 1669936268,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175145,
+        "num": 657336,
+        "word": "比利时无缘16强",
+        "onboard_time": 1669914909,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 336909,
+        "num": 651692,
+        "word": "西安通报一高层住宅楼火灾致5死",
+        "onboard_time": 1669908671,
+        "rank": 15,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 247449,
+        "num": 643285,
+        "word": "这种戒指真的不建议戴",
+        "onboard_time": 1669901292,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174061,
+        "num": 638690,
+        "word": "感染新冠是什么感受",
+        "onboard_time": 1669902551,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173057,
+        "num": 631002,
+        "word": "加拿大1比2摩洛哥",
+        "onboard_time": 1669936687,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163063,
+        "num": 623472,
+        "word": "卢卡库",
+        "onboard_time": 1669936087,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156796,
+        "num": 619379,
+        "word": "大叔因500斤白菜卖30元痛哭系摆拍",
+        "onboard_time": 1669895414,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149414,
+        "num": 614634,
+        "word": "女子求职面试后老板报价2万约饭",
+        "onboard_time": 1669892953,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136320,
+        "num": 607447,
+        "word": "卢卡库浪费必进球帽子戏法",
+        "onboard_time": 1669915868,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129201,
+        "num": 601006,
+        "word": "小猫咪真的好像个小宝宝啊",
+        "onboard_time": 1669906693,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 121228,
+        "num": 592261,
+        "word": "女子在鹤岗花4万买房创业亏10多万",
+        "onboard_time": 1669885572,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119814,
+        "num": 584415,
+        "word": "广东变成了广冻",
+        "onboard_time": 1669906453,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115721,
+        "num": 577188,
+        "word": "德国队连续两届世界杯小组赛出局",
+        "onboard_time": 1669936209,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114838,
+        "num": 567496,
+        "word": "摩洛哥小组第一晋级",
+        "onboard_time": 1669915028,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113427,
+        "num": 564019,
+        "word": "大妈常玩手机致手指卡住不能动",
+        "onboard_time": 1669900391,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106075,
+        "num": 560137,
+        "word": "优衣库创始人称在中国开3000家店还不够",
+        "onboard_time": 1669901532,
+        "rank": 29,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 209126,
+        "num": 551289,
+        "word": "银行每人限时5秒撕卫生纸引争议",
+        "onboard_time": 1669936268,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103945,
+        "num": 545870,
+        "word": "欧盟已冻结俄3000亿欧元储备",
+        "onboard_time": 1669902852,
+        "rank": 31,
+        "category": "国外要闻,财经"
+      },
+      {
+        "raw_hot": 97560,
+        "num": 538560,
+        "word": "锦州发文能清零而不清零太可惜",
+        "onboard_time": 1669886711,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96779,
+        "num": 528715,
+        "word": "小鹏每卖一辆车平均亏超8万",
+        "onboard_time": 1669898712,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 82160,
+        "num": 522854,
+        "word": "国美电器已被申请破产清算",
+        "onboard_time": 1669893071,
+        "rank": 34,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 82019,
+        "num": 515580,
+        "word": "比利时黄金一代谢幕",
+        "onboard_time": 1669915747,
+        "rank": 35,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 77821,
+        "num": 507067,
+        "word": "黄健翔说VAR毁了足球",
+        "onboard_time": 1669889052,
+        "rank": 36,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 72087,
+        "num": 503365,
+        "word": "这猫长在我知识盲区了",
+        "onboard_time": 1669908191,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 69443,
+        "num": 495690,
+        "word": "重庆无疫小区实行常态化防控",
+        "onboard_time": 1669919468,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 69109,
+        "num": 491493,
+        "word": "德国队死磕哥斯达黎加",
+        "onboard_time": 1669904112,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 67998,
+        "num": 478286,
+        "word": "克罗地亚vs比利时",
+        "onboard_time": 1669905791,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 67037,
+        "num": 473823,
+        "word": "考研没延期",
+        "onboard_time": 1669894814,
+        "rank": 41,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 65575,
+        "num": 465076,
+        "word": "广州回归日常",
+        "onboard_time": 1669886592,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63729,
+        "num": 460417,
+        "word": "白岩松说C罗不该和B费争进球",
+        "onboard_time": 1669893313,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 62300,
+        "num": 455915,
+        "word": "克罗地亚点球被取消",
+        "onboard_time": 1669909693,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 61550,
+        "num": 444160,
+        "word": "女子拒退35万彩礼被列为失信人",
+        "onboard_time": 1669882391,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60592,
+        "num": 441214,
+        "word": "民警一路狂奔保住760万",
+        "onboard_time": 1669936386,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55209,
+        "num": 435759,
+        "word": "国美电器回应已被破产清算",
+        "onboard_time": 1669936507,
+        "rank": 47,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 52928,
+        "num": 424125,
+        "word": "6位航天员在太空拼桌吃饭",
+        "onboard_time": 1669936687,
+        "rank": 48,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 51840,
+        "num": 420002,
+        "word": "苏亚雷斯拒绝为2010年手球道歉",
+        "onboard_time": 1669900813,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#江泽民同志永垂不朽#"
+    }
+  }
+}
