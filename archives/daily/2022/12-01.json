@@ -1,21 +1,21 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1669866568387,
+  "endTime": 1669868723207,
   "band_list": [
+    {
+      "raw_hot": 4704139,
+      "num": 1683387,
+      "word": "官方通报18岁女生方舱质问工作人员",
+      "onboard_time": 1669860671,
+      "rank": 14,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 4111125,
       "num": 1564502,
       "word": "奥密克戎致病力已大幅降低",
       "onboard_time": 1669859109,
       "rank": 15,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 3848485,
-      "num": 1683387,
-      "word": "官方通报18岁女生方舱质问工作人员",
-      "onboard_time": 1669860671,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -35,19 +35,19 @@
       "category": "教育"
     },
     {
+      "raw_hot": 2019142,
+      "num": 1535349,
+      "word": "专家称目前无证据表明新冠有后遗症",
+      "onboard_time": 1669863669,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1931721,
       "num": 200547,
       "word": "深圳核酸",
       "onboard_time": 1669821553,
       "rank": 20,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1876772,
-      "num": 1535349,
-      "word": "专家称目前无证据表明新冠有后遗症",
-      "onboard_time": 1669863669,
-      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 1085764,
-      "num": 1780676,
+      "num": 1808571,
       "word": "江泽民同志在上海逝世享年96岁",
       "onboard_time": 1669797921,
       "rank": 0,
@@ -112,6 +112,14 @@
       "word": "女生买500根一盒棉签数后少88根",
       "onboard_time": 1669820475,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 958271,
+      "num": 958271,
+      "word": "艾滋病病毒进入人体后会发生什么",
+      "onboard_time": 1669865351,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -144,6 +152,14 @@
       "word": "世界杯16强已产生10席",
       "onboard_time": 1669849749,
       "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 829133,
+      "num": 829133,
+      "word": "张鹭",
+      "onboard_time": 1669864391,
+      "rank": 31,
       "category": "体育"
     },
     {
@@ -211,27 +227,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 627887,
-      "num": 596819,
-      "word": "艾滋病病毒进入人体后会发生什么",
-      "onboard_time": 1669865351,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 619462,
       "num": 561662,
       "word": "梅西回应墨西哥球衣事件",
       "onboard_time": 1669857729,
       "rank": 13,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 601996,
-      "num": 601996,
-      "word": "张鹭",
-      "onboard_time": 1669864391,
-      "rank": 31,
       "category": "体育"
     },
     {
@@ -275,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 512909,
+      "num": 512909,
+      "word": "5个月宝宝手握鸡腿大快朵颐进食",
+      "onboard_time": 1669865531,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 493166,
       "num": 493166,
       "word": "北京天安门下半旗志哀",
@@ -300,7 +308,7 @@
     },
     {
       "raw_hot": 481538,
-      "num": 1832443,
+      "num": 1863698,
       "word": "江泽民同志永垂不朽",
       "onboard_time": 1669804610,
       "rank": 19,
@@ -312,6 +320,14 @@
       "word": "南京大屠杀再添文物史料新证",
       "onboard_time": 1669862892,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 460708,
+      "num": 460708,
+      "word": "闪婚后妻子患病男子起诉退彩礼被驳",
+      "onboard_time": 1669865291,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -372,7 +388,7 @@
     },
     {
       "raw_hot": 414679,
-      "num": 1765476,
+      "num": 1788935,
       "word": "告全党全军全国各族人民书",
       "onboard_time": 1669797921,
       "rank": 2,
@@ -385,6 +401,14 @@
       "onboard_time": 1669816695,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 378740,
+      "num": 317205,
+      "word": "梅西回应失点",
+      "onboard_time": 1669865230,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 374378,
@@ -435,8 +459,8 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 324374,
-      "num": 324374,
+      "raw_hot": 325018,
+      "num": 325018,
       "word": "迷你世界致歉",
       "onboard_time": 1669863669,
       "rank": 32,
@@ -483,14 +507,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 289124,
-      "num": 205522,
-      "word": "梅西回应失点",
-      "onboard_time": 1669865230,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 287238,
       "num": 193778,
       "word": "沙特阿拉伯1比2墨西哥",
@@ -523,12 +539,28 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 264099,
+      "num": 264099,
+      "word": "天猫向ofo及戴威索要5亿借款",
+      "onboard_time": 1669867030,
+      "rank": 19,
+      "category": "科技"
+    },
+    {
       "raw_hot": 260037,
       "num": 260037,
       "word": "见过最震撼的日照金山",
       "onboard_time": 1669851611,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 258759,
+      "num": 258759,
+      "word": "浙江省考",
+      "onboard_time": 1669865831,
+      "rank": 44,
+      "category": "教育"
     },
     {
       "raw_hot": 233417,
@@ -547,11 +579,43 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 230252,
+      "num": 230252,
+      "word": "扎克伯格炮轰苹果",
+      "onboard_time": 1669863490,
+      "rank": 44,
+      "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 223368,
+      "num": 197317,
+      "word": "长沙93岁老人捐出100万元积蓄",
+      "onboard_time": 1669867269,
+      "rank": 30,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 223166,
       "num": 198298,
       "word": "深圳一公园1只百余斤野猪被困",
       "onboard_time": 1669825272,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 220788,
+      "num": 220788,
+      "word": "男孩吸饮料瓶被瓶子吸住舌头",
+      "onboard_time": 1669866671,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 210472,
+      "num": 210472,
+      "word": "58岁儿子陪84岁病母锻炼20年",
+      "onboard_time": 1669865230,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -561,14 +625,6 @@
       "onboard_time": 1669862530,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 207766,
-      "num": 207766,
-      "word": "闪婚后妻子患病男子起诉退彩礼被驳",
-      "onboard_time": 1669865291,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 197392,
@@ -611,6 +667,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 190354,
+      "num": 190354,
+      "word": "内马尔有望出战淘汰赛首战",
+      "onboard_time": 1669865051,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 190146,
       "num": 190146,
       "word": "1岁萌娃坐透明电梯被吓到腿软",
@@ -641,14 +705,6 @@
       "onboard_time": 1669854969,
       "rank": 29,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 186182,
-      "num": 186182,
-      "word": "扎克伯格炮轰苹果",
-      "onboard_time": 1669863490,
-      "rank": 44,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 184438,
@@ -699,14 +755,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 168489,
-      "num": 168489,
-      "word": "5个月宝宝手握鸡腿大快朵颐进食",
-      "onboard_time": 1669865531,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 166621,
       "num": 166621,
       "word": "00后女生为艺考减肥20斤",
@@ -747,6 +795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 156639,
+      "num": 156639,
+      "word": "苹果10月中国市场份额达25%",
+      "onboard_time": 1669867992,
+      "rank": 39,
+      "category": "科技"
+    },
+    {
       "raw_hot": 156416,
       "num": 156416,
       "word": "内马尔把嘲讽值拉满了",
@@ -769,14 +825,6 @@
       "onboard_time": 1669803229,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 150236,
-      "num": 150236,
-      "word": "58岁儿子陪84岁病母锻炼20年",
-      "onboard_time": 1669865230,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 147739,
@@ -811,20 +859,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 141575,
+      "num": 141575,
+      "word": "男子为供妹妹上大学辍学去打工",
+      "onboard_time": 1669866310,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 139730,
       "num": 139730,
       "word": "研究称婴儿恒星喝奶后也打嗝",
       "onboard_time": 1669811505,
       "rank": 27,
       "category": "科技"
-    },
-    {
-      "raw_hot": 136405,
-      "num": 136405,
-      "word": "浙江省考",
-      "onboard_time": 1669865831,
-      "rank": 44,
-      "category": "教育"
     },
     {
       "raw_hot": 135729,
@@ -851,11 +899,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 125693,
-      "num": 125693,
-      "word": "内马尔有望出战淘汰赛首战",
-      "onboard_time": 1669865051,
-      "rank": 45,
+      "raw_hot": 125260,
+      "num": 125260,
+      "word": "低温烫伤的危害有多大",
+      "onboard_time": 1669868651,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 124900,
+      "num": 124900,
+      "word": "梅西世界杯名场面",
+      "onboard_time": 1669868651,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -881,14 +937,6 @@
       "onboard_time": 1669842429,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 117052,
-      "num": 117052,
-      "word": "男子为供妹妹上大学辍学去打工",
-      "onboard_time": 1669866310,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 117018,
