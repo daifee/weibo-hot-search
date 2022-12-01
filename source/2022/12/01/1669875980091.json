@@ -1,0 +1,410 @@
+{
+  "runTime": 1669875980091,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 182950,
+        "num": 1143288,
+        "word": "江泽民同志在上海逝世享年96岁",
+        "onboard_time": 1669797921,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 22979,
+        "num": 1141316,
+        "word": "告全党全军全国各族人民书",
+        "onboard_time": 1669797921,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 675137,
+        "num": 1139778,
+        "word": "封控管理要快封快解应解尽解",
+        "onboard_time": 1669868951,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1768925,
+        "num": 1136914,
+        "word": "妈妈晒考上985的儿子高中做过的所有卷子",
+        "onboard_time": 1669868772,
+        "rank": 3,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 1628019,
+        "num": 1134627,
+        "word": "官方通报18岁女生方舱质问工作人员",
+        "onboard_time": 1669860671,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1340887,
+        "num": 1132707,
+        "word": "伊朗男子庆祝世界杯伊朗输球被击毙",
+        "onboard_time": 1669873091,
+        "rank": 5,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 1218929,
+        "num": 1130638,
+        "word": "曝李铁供出三名国足球员",
+        "onboard_time": 1669862052,
+        "rank": 6,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 1129808,
+        "num": 1129808,
+        "word": "奥密克戎致病力已大幅降低",
+        "onboard_time": 1669859109,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1032267,
+        "num": 1032267,
+        "word": "专家称目前无证据表明新冠有后遗症",
+        "onboard_time": 1669863669,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 527494,
+        "num": 527494,
+        "word": "小狗真的遇见了心软的神",
+        "onboard_time": 1669873391,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 504000,
+        "num": 504000,
+        "word": "安理会默哀一分钟",
+        "onboard_time": 1669862171,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 471129,
+        "num": 471129,
+        "word": "艾滋病病毒进入人体后会发生什么",
+        "onboard_time": 1669865351,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 450310,
+        "num": 450310,
+        "word": "儿童手表疑似诱导孩子消费被质疑",
+        "onboard_time": 1669870117,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 414030,
+        "num": 414030,
+        "word": "18岁男生高烧3天不退确诊接吻病",
+        "onboard_time": 1669874952,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339399,
+        "num": 339399,
+        "word": "5个月宝宝手握鸡腿大快朵颐进食",
+        "onboard_time": 1669865531,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338061,
+        "num": 338061,
+        "word": "广州多家银行房贷最长可延期一年",
+        "onboard_time": 1669869431,
+        "rank": 15,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 335250,
+        "num": 335250,
+        "word": "北京部分社区孕妇等阳性可居家隔离",
+        "onboard_time": 1669869671,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330401,
+        "num": 330401,
+        "word": "张鹭",
+        "onboard_time": 1669864391,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 285771,
+        "num": 285771,
+        "word": "大学生新电脑被高铁前座压坏起诉",
+        "onboard_time": 1669860908,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231516,
+        "num": 231516,
+        "word": "梅西发博庆祝阿根廷晋级",
+        "onboard_time": 1669873991,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 223079,
+        "num": 223079,
+        "word": "闪婚后妻子患病男子起诉退彩礼被驳",
+        "onboard_time": 1669865291,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222381,
+        "num": 222381,
+        "word": "金毛半夜跑主人床上睡觉还打呼噜",
+        "onboard_time": 1669866490,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219246,
+        "num": 219246,
+        "word": "传统卯榫结构将32块木片做成足球",
+        "onboard_time": 1669872490,
+        "rank": 22,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 201138,
+        "num": 201138,
+        "word": "89岁老人忘记孙子过世出门寻找",
+        "onboard_time": 1669869072,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185925,
+        "num": 185925,
+        "word": "莱万向梅西道歉",
+        "onboard_time": 1669855028,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183313,
+        "num": 183313,
+        "word": "老人不会乘电梯在33楼拽拖车下楼",
+        "onboard_time": 1669860849,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169481,
+        "num": 169481,
+        "word": "男子为博关注将废弃防疫封条贴脚上",
+        "onboard_time": 1669869490,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165745,
+        "num": 165745,
+        "word": "低温烫伤的危害有多大",
+        "onboard_time": 1669868651,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155919,
+        "num": 155919,
+        "word": "男子为供妹妹上大学辍学去打工",
+        "onboard_time": 1669866310,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155040,
+        "num": 155040,
+        "word": "天猫向ofo及戴威索要5亿借款",
+        "onboard_time": 1669867030,
+        "rank": 29,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 197973,
+        "num": 153634,
+        "word": "丁俊晖怒喷世界台联",
+        "onboard_time": 1669875430,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194149,
+        "num": 148309,
+        "word": "部门经理拒调岗成普通员工被辞",
+        "onboard_time": 1669874772,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142544,
+        "num": 142544,
+        "word": "苹果10月中国市场份额达25%",
+        "onboard_time": 1669867992,
+        "rank": 32,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 133791,
+        "num": 133791,
+        "word": "长沙93岁老人捐出100万元积蓄",
+        "onboard_time": 1669867269,
+        "rank": 33,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 133056,
+        "num": 133056,
+        "word": "AppleWatchSeries2被列为过时产品",
+        "onboard_time": 1669871349,
+        "rank": 34,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 128164,
+        "num": 128164,
+        "word": "湖人战胜开拓者",
+        "onboard_time": 1669874711,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126084,
+        "num": 126084,
+        "word": "男孩吸饮料瓶被瓶子吸住舌头",
+        "onboard_time": 1669866671,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122286,
+        "num": 122286,
+        "word": "美国前总统克林顿新冠阳性",
+        "onboard_time": 1669859171,
+        "rank": 37,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 115235,
+        "num": 115235,
+        "word": "梅西回应失点",
+        "onboard_time": 1669865230,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114040,
+        "num": 114040,
+        "word": "马斯克演示猴子用意念打字",
+        "onboard_time": 1669875491,
+        "rank": 39,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 112947,
+        "num": 112947,
+        "word": "内马尔有望出战淘汰赛首战",
+        "onboard_time": 1669865051,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111894,
+        "num": 111894,
+        "word": "感染HIV不等于得艾滋病",
+        "onboard_time": 1669854731,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107047,
+        "num": 107047,
+        "word": "咪咕音乐回应疑诱导儿童消费",
+        "onboard_time": 1669875251,
+        "rank": 42,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 106976,
+        "num": 106976,
+        "word": "迷你世界致歉",
+        "onboard_time": 1669863669,
+        "rank": 43,
+        "category": "社会新闻,游戏"
+      },
+      {
+        "raw_hot": 104628,
+        "num": 104628,
+        "word": "苹果iOS16.1.2正式版发布",
+        "onboard_time": 1669856672,
+        "rank": 44,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 99685,
+        "num": 99685,
+        "word": "女生买500根一盒棉签数后少88根",
+        "onboard_time": 1669820475,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96462,
+        "num": 96462,
+        "word": "浙江省考",
+        "onboard_time": 1669865831,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 96117,
+        "num": 96117,
+        "word": "95后女孩瘫痪20年做黏土自救",
+        "onboard_time": 1669858572,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95888,
+        "num": 95888,
+        "word": "苹果为何惹众怒",
+        "onboard_time": 1669875970,
+        "rank": 48,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 94300,
+        "num": 94300,
+        "word": "5个月萌娃稳稳站立在外公手心",
+        "onboard_time": 1669861211,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#江泽民同志永垂不朽#"
+    }
+  }
+}
