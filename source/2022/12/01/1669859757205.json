@@ -1,0 +1,410 @@
+{
+  "runTime": 1669859757205,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 481538,
+        "num": 1057085,
+        "word": "江泽民同志永垂不朽",
+        "onboard_time": 1669804610,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 207643,
+        "num": 1052664,
+        "word": "江泽民同志在上海逝世享年96岁",
+        "onboard_time": 1669797921,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 58938,
+        "num": 1005574,
+        "word": "告全党全军全国各族人民书",
+        "onboard_time": 1669797921,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2319836,
+        "num": 958140,
+        "word": "考研",
+        "onboard_time": 1669852148,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1654764,
+        "num": 920487,
+        "word": "莱万向梅西道歉",
+        "onboard_time": 1669855028,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1216391,
+        "num": 840809,
+        "word": "感染HIV不等于得艾滋病",
+        "onboard_time": 1669854731,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 835791,
+        "num": 835791,
+        "word": "世界杯16强已产生10席",
+        "onboard_time": 1669849749,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 758329,
+        "num": 758329,
+        "word": "济南疫情防控",
+        "onboard_time": 1669851129,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 685881,
+        "num": 685881,
+        "word": "山东省考",
+        "onboard_time": 1669858572,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 589933,
+        "num": 589933,
+        "word": "梅西所在球队从未小组出局",
+        "onboard_time": 1669853769,
+        "rank": 9,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 581871,
+        "num": 581871,
+        "word": "北京昨增本土确诊1023例",
+        "onboard_time": 1669854068,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 565584,
+        "num": 565584,
+        "word": "苹果iOS16.1.2正式版发布",
+        "onboard_time": 1669856672,
+        "rank": 11,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 452848,
+        "num": 452848,
+        "word": "低温烫伤可导致皮肤深层组织坏死",
+        "onboard_time": 1669857668,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 452710,
+        "num": 452710,
+        "word": "梅西回应墨西哥球衣事件",
+        "onboard_time": 1669857729,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 441965,
+        "num": 441965,
+        "word": "法医自述有人因偏见拒绝同桌吃饭",
+        "onboard_time": 1669856494,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 433335,
+        "num": 433335,
+        "word": "奥密克戎致病力已大幅降低",
+        "onboard_time": 1669859109,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 421733,
+        "num": 421733,
+        "word": "1937年的今天不能遗忘",
+        "onboard_time": 1669857488,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 392672,
+        "num": 392672,
+        "word": "女子帮邻居开门被冲出的大狗撕咬",
+        "onboard_time": 1669858088,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333761,
+        "num": 333761,
+        "word": "初雪中的西湖再现湖心亭看雪",
+        "onboard_time": 1669854490,
+        "rank": 18,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 311593,
+        "num": 311593,
+        "word": "深圳不以时空伴随作为判定密接标准",
+        "onboard_time": 1669852088,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 546665,
+        "num": 308398,
+        "word": "女生买500根一盒棉签数后少88根",
+        "onboard_time": 1669820475,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 351735,
+        "num": 308372,
+        "word": "妈妈误把过期泡脚包当茶包煮蛋",
+        "onboard_time": 1669820620,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303308,
+        "num": 303308,
+        "word": "梅西错失点球",
+        "onboard_time": 1669838468,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 282577,
+        "num": 282577,
+        "word": "马斯克在苹果总部与库克见面",
+        "onboard_time": 1669857188,
+        "rank": 23,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 260037,
+        "num": 260037,
+        "word": "见过最震撼的日照金山",
+        "onboard_time": 1669851611,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 259025,
+        "num": 259025,
+        "word": "波兰0比2阿根廷",
+        "onboard_time": 1669842429,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 242197,
+        "num": 242197,
+        "word": "95后女孩瘫痪20年做黏土自救",
+        "onboard_time": 1669858572,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231171,
+        "num": 231171,
+        "word": "关于艾滋病应该要了解的事",
+        "onboard_time": 1669854368,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193447,
+        "num": 193447,
+        "word": "净水器水管接反全家喝了一年废水",
+        "onboard_time": 1669820176,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187599,
+        "num": 187599,
+        "word": "17年前天地对话的孩子成了航天人",
+        "onboard_time": 1669854969,
+        "rank": 29,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 518334,
+        "num": 183420,
+        "word": "女子因撞名张珊珊个人信息遭曝光",
+        "onboard_time": 1669847469,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189607,
+        "num": 178856,
+        "word": "美国前总统克林顿新冠阳性",
+        "onboard_time": 1669859171,
+        "rank": 31,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 173700,
+        "num": 173700,
+        "word": "城阳疫情防控",
+        "onboard_time": 1669853828,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173023,
+        "num": 173023,
+        "word": "中国空间站进入长期有人驻留模式",
+        "onboard_time": 1669856768,
+        "rank": 33,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 169029,
+        "num": 169029,
+        "word": "妈妈骑车接儿子把娃落路上",
+        "onboard_time": 1669857428,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166621,
+        "num": 166621,
+        "word": "00后女生为艺考减肥20斤",
+        "onboard_time": 1669815138,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161822,
+        "num": 161822,
+        "word": "1岁萌娃坐透明电梯被吓到腿软",
+        "onboard_time": 1669821735,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153797,
+        "num": 153797,
+        "word": "深圳一公园1只百余斤野猪被困",
+        "onboard_time": 1669825272,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147903,
+        "num": 147903,
+        "word": "广州出发火车票瞬时搜索量增2.5倍",
+        "onboard_time": 1669816695,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144332,
+        "num": 144332,
+        "word": "家属称中学老师酒后殴打学生",
+        "onboard_time": 1669847107,
+        "rank": 39,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 143651,
+        "num": 143651,
+        "word": "图95",
+        "onboard_time": 1669818495,
+        "rank": 40,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 143452,
+        "num": 143452,
+        "word": "重庆中心城区将逐步放开",
+        "onboard_time": 1669818917,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139032,
+        "num": 139032,
+        "word": "十二月",
+        "onboard_time": 1669850228,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137176,
+        "num": 137176,
+        "word": "郑州人的生活回来了",
+        "onboard_time": 1669816394,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124084,
+        "num": 124084,
+        "word": "突尼斯1比0法国",
+        "onboard_time": 1669828991,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110399,
+        "num": 110399,
+        "word": "劳荣枝二哥仍不接受二审宣判结果",
+        "onboard_time": 1669810876,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109359,
+        "num": 109359,
+        "word": "女儿全网寻施救脑梗母亲好心人",
+        "onboard_time": 1669858929,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103668,
+        "num": 103668,
+        "word": "外交部回应美发表中国军力报告",
+        "onboard_time": 1669812619,
+        "rank": 47,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 103156,
+        "num": 103156,
+        "word": "还有1个月就2023了",
+        "onboard_time": 1669850888,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 95258,
+        "num": 95258,
+        "word": "雪中西湖似一幅绝美水墨画",
+        "onboard_time": 1669859588,
+        "rank": 49,
+        "category": "旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#江泽民同志在上海逝世#"
+    }
+  }
+}

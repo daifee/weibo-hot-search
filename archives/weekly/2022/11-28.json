@@ -1,6 +1,6 @@
 {
   "startTime": 1669566398830,
-  "endTime": 1669851347668,
+  "endTime": 1669859757205,
   "band_list": [
     {
       "raw_hot": 71270277,
@@ -492,7 +492,7 @@
     },
     {
       "raw_hot": 1730257,
-      "num": 220568,
+      "num": 259025,
       "word": "波兰0比2阿根廷",
       "onboard_time": 1669842429,
       "rank": 5,
@@ -561,6 +561,14 @@
       "onboard_time": 1669718318,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1654764,
+      "num": 920487,
+      "word": "莱万向梅西道歉",
+      "onboard_time": 1669855028,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 1646668,
@@ -979,6 +987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1216391,
+      "num": 840809,
+      "word": "感染HIV不等于得艾滋病",
+      "onboard_time": 1669854731,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1201897,
       "num": 1201897,
       "word": "李薇成为正夫人",
@@ -1308,7 +1324,7 @@
     },
     {
       "raw_hot": 958257,
-      "num": 225621,
+      "num": 303308,
       "word": "梅西错失点球",
       "onboard_time": 1669838468,
       "rank": 4,
@@ -1505,6 +1521,14 @@
       "onboard_time": 1669709617,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 835791,
+      "num": 835791,
+      "word": "世界杯16强已产生10席",
+      "onboard_time": 1669849749,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 833555,
@@ -1712,6 +1736,14 @@
       "word": "尿不湿放门口被工人当煤气灶偷走",
       "onboard_time": 1669781663,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 758329,
+      "num": 758329,
+      "word": "济南疫情防控",
+      "onboard_time": 1669851129,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -2025,6 +2057,14 @@
       "onboard_time": 1669640737,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 685881,
+      "num": 685881,
+      "word": "山东省考",
+      "onboard_time": 1669858572,
+      "rank": 8,
+      "category": "教育"
     },
     {
       "raw_hot": 684840,
@@ -2443,6 +2483,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 589933,
+      "num": 589933,
+      "word": "梅西所在球队从未小组出局",
+      "onboard_time": 1669853769,
+      "rank": 9,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 589917,
       "num": 589917,
       "word": "7岁女孩高烧一周被确诊亲吻病",
@@ -2491,6 +2539,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 581871,
+      "num": 581871,
+      "word": "北京昨增本土确诊1023例",
+      "onboard_time": 1669854068,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 577527,
       "num": 559443,
       "word": "国产ModelY售价全球最低",
@@ -2529,6 +2585,14 @@
       "onboard_time": 1669650698,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 565584,
+      "num": 565584,
+      "word": "苹果iOS16.1.2正式版发布",
+      "onboard_time": 1669856672,
+      "rank": 11,
+      "category": "科技"
     },
     {
       "raw_hot": 561337,
@@ -3155,6 +3219,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 452848,
+      "num": 452848,
+      "word": "低温烫伤可导致皮肤深层组织坏死",
+      "onboard_time": 1669857668,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 452710,
+      "num": 452710,
+      "word": "梅西回应墨西哥球衣事件",
+      "onboard_time": 1669857729,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 450905,
       "num": 450905,
       "word": "李黛辞职",
@@ -3251,6 +3331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 441965,
+      "num": 441965,
+      "word": "法医自述有人因偏见拒绝同桌吃饭",
+      "onboard_time": 1669856494,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 440833,
       "num": 440833,
       "word": "小伙拉横幅开喇叭要求妻子退彩礼",
@@ -3345,6 +3433,14 @@
       "onboard_time": 1669724977,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 433335,
+      "num": 433335,
+      "word": "奥密克戎致病力已大幅降低",
+      "onboard_time": 1669859109,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 433259,
@@ -3449,6 +3545,14 @@
       "onboard_time": 1669729347,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 421733,
+      "num": 421733,
+      "word": "1937年的今天不能遗忘",
+      "onboard_time": 1669857488,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 421437,
@@ -3737,6 +3841,14 @@
       "onboard_time": 1669691129,
       "rank": 47,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 392672,
+      "num": 392672,
+      "word": "女子帮邻居开门被冲出的大狗撕咬",
+      "onboard_time": 1669858088,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 391181,
@@ -4451,6 +4563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 333761,
+      "num": 333761,
+      "word": "初雪中的西湖再现湖心亭看雪",
+      "onboard_time": 1669854490,
+      "rank": 18,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 332741,
       "num": 308516,
       "word": "梅西接近加盟迈阿密国际",
@@ -4769,6 +4889,14 @@
       "onboard_time": 1669608638,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 311593,
+      "num": 311593,
+      "word": "深圳不以时空伴随作为判定密接标准",
+      "onboard_time": 1669852088,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 308799,
@@ -5155,6 +5283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 282577,
+      "num": 282577,
+      "word": "马斯克在苹果总部与库克见面",
+      "onboard_time": 1669857188,
+      "rank": 23,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 282184,
       "num": 282184,
       "word": "原来猫咪也会眼神杀",
@@ -5401,6 +5537,14 @@
       "onboard_time": 1669766119,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 260037,
+      "num": 260037,
+      "word": "见过最震撼的日照金山",
+      "onboard_time": 1669851611,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 259129,
@@ -5675,6 +5819,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 242197,
+      "num": 242197,
+      "word": "95后女孩瘫痪20年做黏土自救",
+      "onboard_time": 1669858572,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 241181,
       "num": 241181,
       "word": "EDGM",
@@ -5817,6 +5969,14 @@
       "onboard_time": 1669756333,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 231171,
+      "num": 231171,
+      "word": "关于艾滋病应该要了解的事",
+      "onboard_time": 1669854368,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 231166,
@@ -6619,6 +6779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 189607,
+      "num": 178856,
+      "word": "美国前总统克林顿新冠阳性",
+      "onboard_time": 1669859171,
+      "rank": 31,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 189534,
       "num": 189534,
       "word": "华晨宇演唱会全纪录紧张又治愈",
@@ -6681,6 +6849,14 @@
       "onboard_time": 1669699830,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 187599,
+      "num": 187599,
+      "word": "17年前天地对话的孩子成了航天人",
+      "onboard_time": 1669854969,
+      "rank": 29,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 187552,
@@ -7011,12 +7187,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 173700,
+      "num": 173700,
+      "word": "城阳疫情防控",
+      "onboard_time": 1669853828,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173167,
       "num": 173167,
       "word": "司机大叔飞奔的这几步好帅",
       "onboard_time": 1669692213,
       "rank": 42,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 173023,
+      "num": 173023,
+      "word": "中国空间站进入长期有人驻留模式",
+      "onboard_time": 1669856768,
+      "rank": 33,
+      "category": "科技"
     },
     {
       "raw_hot": 172911,
@@ -7121,6 +7313,14 @@
       "onboard_time": 1669605337,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 169029,
+      "num": 169029,
+      "word": "妈妈骑车接儿子把娃落路上",
+      "onboard_time": 1669857428,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 168993,
@@ -7521,14 +7721,6 @@
       "onboard_time": 1669691253,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 152828,
-      "num": 108187,
-      "word": "世界杯16强已产生10席",
-      "onboard_time": 1669849749,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 152572,
@@ -8211,14 +8403,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 114852,
-      "num": 114852,
-      "word": "济南疫情防控",
-      "onboard_time": 1669851129,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 113432,
       "num": 113432,
       "word": "11月的最后一天",
@@ -8289,6 +8473,14 @@
       "onboard_time": 1669804251,
       "rank": 47,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 109359,
+      "num": 109359,
+      "word": "女儿全网寻施救脑梗母亲好心人",
+      "onboard_time": 1669858929,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 109208,
@@ -8465,6 +8657,14 @@
       "onboard_time": 1669746795,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 95258,
+      "num": 95258,
+      "word": "雪中西湖似一幅绝美水墨画",
+      "onboard_time": 1669859588,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 95214,
