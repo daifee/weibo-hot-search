@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1669864333883,
+  "endTime": 1669864977133,
   "band_list": [
     {
       "raw_hot": 4111125,
@@ -11,20 +11,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 3142640,
+      "raw_hot": 3314261,
+      "num": 1128564,
+      "word": "官方通报18岁女生方舱质问工作人员",
+      "onboard_time": 1669860671,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3173246,
       "num": 1155812,
       "word": "曝李铁供出三名国足球员",
       "onboard_time": 1669862052,
       "rank": 4,
       "category": "社会新闻,体育"
-    },
-    {
-      "raw_hot": 2976601,
-      "num": 964428,
-      "word": "官方通报18岁女生方舱质问工作人员",
-      "onboard_time": 1669860671,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2319836,
@@ -75,7 +75,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1173257,
+      "raw_hot": 1187863,
       "num": 553477,
       "word": "安理会默哀一分钟",
       "onboard_time": 1669862171,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 1085764,
-      "num": 1514022,
+      "num": 1623409,
       "word": "江泽民同志在上海逝世享年96岁",
       "onboard_time": 1669797921,
       "rank": 0,
@@ -129,6 +129,22 @@
       "onboard_time": 1669849749,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 823658,
+      "num": 553230,
+      "word": "大学生新电脑被高铁前座压坏起诉",
+      "onboard_time": 1669860908,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 817875,
+      "num": 817875,
+      "word": "专家称目前无证据表明新冠有后遗症",
+      "onboard_time": 1669863669,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 758329,
@@ -195,14 +211,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 680739,
-      "num": 553230,
-      "word": "大学生新电脑被高铁前座压坏起诉",
-      "onboard_time": 1669860908,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 619462,
       "num": 561662,
       "word": "梅西回应墨西哥球衣事件",
@@ -233,6 +241,14 @@
       "onboard_time": 1669856672,
       "rank": 11,
       "category": "科技"
+    },
+    {
+      "raw_hot": 548953,
+      "num": 553644,
+      "word": "老人不会乘电梯在33楼拽拖车下楼",
+      "onboard_time": 1669860849,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 515837,
@@ -268,19 +284,11 @@
     },
     {
       "raw_hot": 481538,
-      "num": 1626235,
+      "num": 1657622,
       "word": "江泽民同志永垂不朽",
       "onboard_time": 1669804610,
       "rank": 19,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 451301,
-      "num": 553644,
-      "word": "老人不会乘电梯在33楼拽拖车下楼",
-      "onboard_time": 1669860849,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 441965,
@@ -345,6 +353,14 @@
       "onboard_time": 1669797921,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 408381,
+      "num": 408381,
+      "word": "南京大屠杀再添文物史料新证",
+      "onboard_time": 1669862892,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 394060,
@@ -443,14 +459,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 290494,
-      "num": 290494,
-      "word": "南京大屠杀再添文物史料新证",
-      "onboard_time": 1669862892,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 287238,
       "num": 193778,
       "word": "沙特阿拉伯1比2墨西哥",
@@ -491,6 +499,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 249854,
+      "num": 249854,
+      "word": "迷你世界致歉",
+      "onboard_time": 1669863669,
+      "rank": 32,
+      "category": "社会新闻,游戏"
+    },
+    {
+      "raw_hot": 233417,
+      "num": 233417,
+      "word": "5个月萌娃稳稳站立在外公手心",
+      "onboard_time": 1669861211,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 231171,
       "num": 231171,
       "word": "关于艾滋病应该要了解的事",
@@ -507,20 +531,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 221186,
-      "num": 221186,
-      "word": "5个月萌娃稳稳站立在外公手心",
-      "onboard_time": 1669861211,
-      "rank": 44,
-      "category": "社会新闻"
+      "raw_hot": 208686,
+      "num": 208686,
+      "word": "墨西哥拳王卡内洛向梅西道歉",
+      "onboard_time": 1669862530,
+      "rank": 31,
+      "category": "体育"
     },
     {
-      "raw_hot": 214306,
-      "num": 214306,
-      "word": "专家称目前无证据表明新冠有后遗症",
-      "onboard_time": 1669863669,
-      "rank": 27,
-      "category": "社会新闻"
+      "raw_hot": 201822,
+      "num": 201822,
+      "word": "张鹭",
+      "onboard_time": 1669864391,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 197392,
@@ -536,14 +560,6 @@
       "word": "法国进球被吹",
       "onboard_time": 1669828814,
       "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 192739,
-      "num": 192739,
-      "word": "墨西哥拳王卡内洛向梅西道歉",
-      "onboard_time": 1669862530,
-      "rank": 31,
       "category": "体育"
     },
     {
@@ -601,14 +617,6 @@
       "onboard_time": 1669854969,
       "rank": 29,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 186991,
-      "num": 186991,
-      "word": "迷你世界致歉",
-      "onboard_time": 1669863669,
-      "rank": 32,
-      "category": "社会新闻,游戏"
     },
     {
       "raw_hot": 184438,
@@ -771,6 +779,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 130701,
+      "num": 130701,
+      "word": "扎克伯格炮轰苹果",
+      "onboard_time": 1669863490,
+      "rank": 44,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 128216,
       "num": 128216,
       "word": "警方通报夫妻因楼上扰民强行破门打骂",
@@ -827,14 +843,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 110535,
-      "num": 110535,
-      "word": "扎克伯格炮轰苹果",
-      "onboard_time": 1669863490,
-      "rank": 44,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 109909,
       "num": 109909,
       "word": "梅西重新定义人墙",
@@ -857,6 +865,14 @@
       "onboard_time": 1669824433,
       "rank": 35,
       "category": "科技"
+    },
+    {
+      "raw_hot": 107337,
+      "num": 107337,
+      "word": "世界艾滋病日",
+      "onboard_time": 1669860130,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 105921,
@@ -913,6 +929,14 @@
       "onboard_time": 1669859588,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 93524,
+      "num": 93524,
+      "word": "山东雪窝子下雪",
+      "onboard_time": 1669863013,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 92378,
