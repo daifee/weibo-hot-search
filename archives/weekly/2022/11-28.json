@@ -1,6 +1,6 @@
 {
   "startTime": 1669566398830,
-  "endTime": 1669884081735,
+  "endTime": 1669886397063,
   "band_list": [
     {
       "raw_hot": 71270277,
@@ -683,6 +683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1532287,
+      "num": 833754,
+      "word": "高中生宿舍内卖油饼被勒令退学",
+      "onboard_time": 1669881371,
+      "rank": 7,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1508408,
       "num": 1508408,
       "word": "广州海珠试行闭环泡泡",
@@ -977,14 +985,6 @@
       "onboard_time": 1669697672,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1253033,
-      "num": 829567,
-      "word": "高中生宿舍内卖油饼被勒令退学",
-      "onboard_time": 1669881371,
-      "rank": 7,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1252040,
@@ -1435,6 +1435,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 969090,
+      "num": 815916,
+      "word": "女子拒退35万彩礼被列为失信人",
+      "onboard_time": 1669882391,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 958257,
       "num": 303308,
       "word": "梅西错失点球",
@@ -1721,6 +1729,22 @@
       "onboard_time": 1669790662,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 815796,
+      "num": 815796,
+      "word": "女子盐焗40多个鸡蛋开盖变炸蛋",
+      "onboard_time": 1669881851,
+      "rank": 22,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 815644,
+      "num": 815644,
+      "word": "老师暂停上课让学生撒欢玩雪",
+      "onboard_time": 1669881672,
+      "rank": 19,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 813555,
@@ -2083,6 +2107,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 715380,
+      "num": 715380,
+      "word": "林书豪被CBA罚款1万元",
+      "onboard_time": 1669881971,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 714421,
       "num": 714421,
       "word": "郑州下雪",
@@ -2145,14 +2177,6 @@
       "onboard_time": 1669820620,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 698959,
-      "num": 698959,
-      "word": "林书豪被CBA罚款1万元",
-      "onboard_time": 1669881971,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 698818,
@@ -2328,6 +2352,14 @@
       "word": "北京无社会面活动人员可不参加社区核酸筛查",
       "onboard_time": 1669804637,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 649790,
+      "num": 649790,
+      "word": "得知十混一初筛阳性后该怎么做",
+      "onboard_time": 1669884373,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -2851,14 +2883,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 544200,
-      "num": 544200,
-      "word": "老师暂停上课让学生撒欢玩雪",
-      "onboard_time": 1669881672,
-      "rank": 19,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 540075,
       "num": 540075,
       "word": "邓清明同志简历",
@@ -2985,22 +3009,6 @@
       "onboard_time": 1669708837,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 518687,
-      "num": 518687,
-      "word": "女子拒退35万彩礼被列为失信人",
-      "onboard_time": 1669882391,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 518260,
-      "num": 518260,
-      "word": "女子盐焗40多个鸡蛋开盖变炸蛋",
-      "onboard_time": 1669881851,
-      "rank": 22,
-      "category": "美食"
     },
     {
       "raw_hot": 517238,
@@ -3153,6 +3161,14 @@
       "onboard_time": 1669738762,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 493235,
+      "num": 493235,
+      "word": "复核结果阴性要立即解除相关人员管控",
+      "onboard_time": 1669884911,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 492068,
@@ -3747,6 +3763,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 423634,
+      "num": 423634,
+      "word": "房东主动给45名租户免一个月房租",
+      "onboard_time": 1669883351,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 423351,
       "num": 423351,
       "word": "关晓彤喜欢在闹市里面养老",
@@ -3825,6 +3849,14 @@
       "onboard_time": 1669763900,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 417408,
+      "num": 417408,
+      "word": "年轻人感染奥密克戎发热一般不超3天",
+      "onboard_time": 1669884791,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 416128,
@@ -4889,6 +4921,14 @@
       "onboard_time": 1669747515,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 331783,
+      "num": 331783,
+      "word": "哈工大学生回应被安排专机返乡",
+      "onboard_time": 1669885030,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 329889,
@@ -6115,6 +6155,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 248150,
+      "num": 248150,
+      "word": "日本vs西班牙",
+      "onboard_time": 1669883532,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 247639,
       "num": 247639,
       "word": "柳岩跳世界杯主题曲舞蹈",
@@ -6369,6 +6417,14 @@
       "onboard_time": 1669756333,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 231884,
+      "num": 231884,
+      "word": "女子在鹤岗花4万买房创业亏10多万",
+      "onboard_time": 1669885572,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 231171,
@@ -6691,6 +6747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 216333,
+      "num": 216333,
+      "word": "3个4岁萌娃暴走3公里去串门",
+      "onboard_time": 1669883171,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 216288,
       "num": 190900,
       "word": "尹岐新发型",
@@ -6763,6 +6827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 212270,
+      "num": 212270,
+      "word": "这就是燕雀安知鸿鹄之志的燕雀",
+      "onboard_time": 1669881971,
+      "rank": 34,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 212136,
       "num": 212136,
       "word": "Angelababy年度热度人物",
@@ -6817,6 +6889,14 @@
       "onboard_time": 1669862530,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 208269,
+      "num": 208269,
+      "word": "不要给2岁以下孩子看手机",
+      "onboard_time": 1669885152,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 208002,
@@ -7075,6 +7155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 194670,
+      "num": 194670,
+      "word": "山东四六级",
+      "onboard_time": 1669885392,
+      "rank": 32,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 193890,
       "num": 100735,
       "word": "法国进球被吹",
@@ -7225,14 +7313,6 @@
       "onboard_time": 1669694915,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 190688,
-      "num": 190688,
-      "word": "这就是燕雀安知鸿鹄之志的燕雀",
-      "onboard_time": 1669881971,
-      "rank": 34,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 190267,
@@ -7433,14 +7513,6 @@
       "onboard_time": 1669650096,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 184526,
-      "num": 184526,
-      "word": "日本vs西班牙",
-      "onboard_time": 1669883532,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 184459,
@@ -7656,6 +7728,14 @@
       "word": "上海全市共有约3千到5千只貉",
       "onboard_time": 1669619973,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 174131,
+      "num": 174131,
+      "word": "新华社科普长新冠",
+      "onboard_time": 1669885452,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -8691,14 +8771,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 137569,
-      "num": 137569,
-      "word": "房东主动给45名租户免一个月房租",
-      "onboard_time": 1669883351,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 137567,
       "num": 137567,
       "word": "满脑子都是石油冒泡的声音",
@@ -9043,6 +9115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 113635,
+      "num": 113635,
+      "word": "我国航天员在轨轮换成常态",
+      "onboard_time": 1669885752,
+      "rank": 42,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 113432,
       "num": 113432,
       "word": "11月的最后一天",
@@ -9089,6 +9169,14 @@
       "onboard_time": 1669742961,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 110288,
+      "num": 110288,
+      "word": "奶奶陪孙女学古筝自己练到10级",
+      "onboard_time": 1669885752,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 109869,
@@ -9160,14 +9248,6 @@
       "word": "母柯基为偷吃桌上美食用公柯基垫脚",
       "onboard_time": 1669745418,
       "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 106575,
-      "num": 106575,
-      "word": "3个4岁萌娃暴走3公里去串门",
-      "onboard_time": 1669883171,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -9320,6 +9400,14 @@
       "word": "伊朗vs美国首发",
       "onboard_time": 1669746795,
       "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 97694,
+      "num": 97694,
+      "word": "加拿大vs摩洛哥",
+      "onboard_time": 1669886234,
+      "rank": 49,
       "category": "体育"
     },
     {
