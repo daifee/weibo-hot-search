@@ -1,7 +1,15 @@
 {
   "startTime": 1669912152284,
-  "endTime": 1669944967814,
+  "endTime": 1669946379348,
   "band_list": [
+    {
+      "raw_hot": 2092611,
+      "num": 867650,
+      "word": "男婴被喂水呛咳死亡父亲以为其睡着",
+      "onboard_time": 1669943671,
+      "rank": 10,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1984879,
       "num": 911958,
@@ -43,11 +51,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1107292,
-      "num": 867650,
-      "word": "男婴被喂水呛咳死亡父亲以为其睡着",
-      "onboard_time": 1669943671,
-      "rank": 10,
+      "raw_hot": 1313549,
+      "num": 861827,
+      "word": "男子车祸后以为是1993年立刻向妻求婚",
+      "onboard_time": 1669942869,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -64,14 +72,6 @@
       "word": "女子印度街头直播被男子强吻",
       "onboard_time": 1669941788,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 884785,
-      "num": 848547,
-      "word": "男子车祸后以为是1993年立刻向妻求婚",
-      "onboard_time": 1669942869,
-      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -155,12 +155,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 668074,
+      "num": 835719,
+      "word": "成都地铁不再查验核酸检测报告",
+      "onboard_time": 1669943169,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 667463,
       "num": 745509,
       "word": "外交部回应美国务卿布林肯涉中国疫情表态",
       "onboard_time": 1669906872,
       "rank": 10,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 660017,
+      "num": 832123,
+      "word": "推特开始删除虚假账户",
+      "onboard_time": 1669941429,
+      "rank": 14,
+      "category": "科技"
     },
     {
       "raw_hot": 605148,
@@ -171,12 +187,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 592843,
-      "num": 832123,
-      "word": "推特开始删除虚假账户",
-      "onboard_time": 1669941429,
-      "rank": 14,
-      "category": "科技"
+      "raw_hot": 596504,
+      "num": 823123,
+      "word": "大爷300斤萝卜被偷找到已成萝卜丝",
+      "onboard_time": 1669942928,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 582592,
@@ -187,12 +203,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 562731,
-      "num": 823123,
-      "word": "大爷300斤萝卜被偷找到已成萝卜丝",
-      "onboard_time": 1669942928,
-      "rank": 15,
-      "category": "社会新闻"
+      "raw_hot": 578768,
+      "num": 799976,
+      "word": "日本球迷向首相请愿全国放假",
+      "onboard_time": 1669941129,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 562104,
@@ -209,22 +225,6 @@
       "onboard_time": 1669942328,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 475926,
-      "num": 809838,
-      "word": "成都地铁不再查验核酸检测报告",
-      "onboard_time": 1669943169,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 470787,
-      "num": 799976,
-      "word": "日本球迷向首相请愿全国放假",
-      "onboard_time": 1669941129,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 469475,
@@ -251,12 +251,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 409027,
+      "num": 757418,
+      "word": "日本主帅说能进世界杯八强",
+      "onboard_time": 1669941190,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 403012,
       "num": 763656,
       "word": "育儿嫂疑在1岁半娃耳边咒骂宝妈",
       "onboard_time": 1669904591,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 402882,
+      "num": 766550,
+      "word": "德国 虽败犹荣",
+      "onboard_time": 1669941068,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 368328,
@@ -283,28 +299,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 349596,
-      "num": 766550,
-      "word": "德国 虽败犹荣",
-      "onboard_time": 1669941068,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
       "raw_hot": 343892,
       "num": 669937,
       "word": "优衣库创始人称在中国开3000家店还不够",
       "onboard_time": 1669901532,
       "rank": 9,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 342061,
-      "num": 757418,
-      "word": "日本主帅说能进世界杯八强",
-      "onboard_time": 1669941190,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 317784,
@@ -320,6 +320,14 @@
       "word": "广东变成了广冻",
       "onboard_time": 1669906453,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 303619,
+      "num": 720666,
+      "word": "特等功臣女扮男装参加八路军",
+      "onboard_time": 1669942569,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -353,14 +361,6 @@
       "onboard_time": 1669894814,
       "rank": 8,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 259059,
-      "num": 720666,
-      "word": "特等功臣女扮男装参加八路军",
-      "onboard_time": 1669942569,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 257260,
@@ -411,6 +411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 212071,
+      "num": 676040,
+      "word": "95后支教老师将后进班变成年级第一",
+      "onboard_time": 1669944010,
+      "rank": 40,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 206245,
       "num": 577093,
       "word": "小鹏每卖一辆车平均亏超8万",
@@ -425,6 +433,14 @@
       "onboard_time": 1669892111,
       "rank": 21,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 199534,
+      "num": 655667,
+      "word": "德国队出局后更衣室无人说话",
+      "onboard_time": 1669946168,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 199326,
@@ -457,6 +473,22 @@
       "onboard_time": 1669936209,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 183261,
+      "num": 628059,
+      "word": "黄健翔不敢嘲笑日本队痴人说梦了",
+      "onboard_time": 1669944730,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 180815,
+      "num": 627116,
+      "word": "国务院联防联控机制专家回应热点",
+      "onboard_time": 1669944908,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 176828,
@@ -523,19 +555,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 159839,
-      "num": 611832,
-      "word": "95后支教老师将后进班变成年级第一",
-      "onboard_time": 1669944010,
-      "rank": 40,
-      "category": "教育,社会新闻"
+      "raw_hot": 157609,
+      "num": 605976,
+      "word": "死亡之组 刺激",
+      "onboard_time": 1669945329,
+      "rank": 36,
+      "category": "体育"
     },
     {
-      "raw_hot": 154473,
-      "num": 598206,
-      "word": "黄健翔不敢嘲笑日本队痴人说梦了",
-      "onboard_time": 1669944730,
-      "rank": 41,
+      "raw_hot": 155601,
+      "num": 584873,
+      "word": "穆勒 最后一次世界杯",
+      "onboard_time": 1669940949,
+      "rank": 39,
       "category": "体育"
     },
     {
@@ -675,11 +707,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 122373,
-      "num": 534539,
-      "word": "国务院联防联控机制专家回应热点",
-      "onboard_time": 1669944908,
-      "rank": 48,
+      "raw_hot": 115603,
+      "num": 503651,
+      "word": "锦州市有序恢复主城区生产生活秩序",
+      "onboard_time": 1669946109,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
