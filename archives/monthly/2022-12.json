@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1670009593429,
+  "endTime": 1670012380253,
   "band_list": [
     {
       "raw_hot": 6453532,
@@ -3163,6 +3163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 162760,
+      "num": 207008,
+      "word": "乌拉圭球员围攻裁判",
+      "onboard_time": 1670003413,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 161844,
       "num": 108764,
       "word": "梅西点球",
@@ -3265,6 +3273,14 @@
       "onboard_time": 1669882031,
       "rank": 35,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 151780,
+      "num": 129111,
+      "word": "韩国志愿者翻译孙兴慜采访时落泪",
+      "onboard_time": 1670008568,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 150476,
@@ -3481,14 +3497,6 @@
       "onboard_time": 1669816421,
       "rank": 28,
       "category": "军事"
-    },
-    {
-      "raw_hot": 135285,
-      "num": 207008,
-      "word": "乌拉圭球员围攻裁判",
-      "onboard_time": 1670003413,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 134553,
@@ -4195,6 +4203,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 89897,
+      "num": 95557,
+      "word": "塞尔维亚半场2比2瑞士",
+      "onboard_time": 1670011506,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 89699,
       "num": 89699,
       "word": "林书豪吐槽CBA赛区健身房",
@@ -4232,14 +4248,6 @@
       "word": "威少超远压哨三分",
       "onboard_time": 1669878613,
       "rank": 48,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 85548,
-      "num": 129111,
-      "word": "韩国志愿者翻译孙兴慜采访时落泪",
-      "onboard_time": 1670008568,
-      "rank": 30,
       "category": "体育"
     },
     {
@@ -4323,6 +4331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 69194,
+      "num": 144335,
+      "word": "塞尔维亚vs瑞士",
+      "onboard_time": 1670002750,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 67887,
       "num": 67887,
       "word": "齐耶赫超远吊射",
@@ -4368,14 +4384,6 @@
       "word": "法国将对阵波兰",
       "onboard_time": 1669845847,
       "rank": 32,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 54299,
-      "num": 144335,
-      "word": "塞尔维亚vs瑞士",
-      "onboard_time": 1670002750,
-      "rank": 20,
       "category": "体育"
     },
     {
@@ -4432,6 +4440,14 @@
       "word": "高科技介入足球是好是坏",
       "onboard_time": 1669832109,
       "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 29422,
+      "num": 91448,
+      "word": "沙奇里破门",
+      "onboard_time": 1670011567,
+      "rank": 35,
       "category": "体育"
     },
     {

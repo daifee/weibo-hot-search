@@ -1,6 +1,6 @@
 {
   "startTime": 1669998371554,
-  "endTime": 1670009593429,
+  "endTime": 1670012380253,
   "band_list": [
     {
       "raw_hot": 4176911,
@@ -435,11 +435,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 162760,
+      "num": 207008,
+      "word": "乌拉圭球员围攻裁判",
+      "onboard_time": 1670003413,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 157129,
       "num": 476780,
       "word": "喀麦隆vs巴西",
       "onboard_time": 1670002510,
       "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 151780,
+      "num": 129111,
+      "word": "韩国志愿者翻译孙兴慜采访时落泪",
+      "onboard_time": 1670008568,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -464,14 +480,6 @@
       "word": "胡明轩晋级三分大赛决赛",
       "onboard_time": 1669994172,
       "rank": 35,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 135285,
-      "num": 207008,
-      "word": "乌拉圭球员围攻裁判",
-      "onboard_time": 1670003413,
-      "rank": 16,
       "category": "体育"
     },
     {
@@ -595,11 +603,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 85548,
-      "num": 129111,
-      "word": "韩国志愿者翻译孙兴慜采访时落泪",
-      "onboard_time": 1670008568,
-      "rank": 30,
+      "raw_hot": 89897,
+      "num": 95557,
+      "word": "塞尔维亚半场2比2瑞士",
+      "onboard_time": 1670011506,
+      "rank": 31,
       "category": "体育"
     },
     {
@@ -611,20 +619,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 69194,
+      "num": 144335,
+      "word": "塞尔维亚vs瑞士",
+      "onboard_time": 1670002750,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 56208,
       "num": 386046,
       "word": "重庆乘坐交通工具只查验渝康码",
       "onboard_time": 1670004130,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 54299,
-      "num": 144335,
-      "word": "塞尔维亚vs瑞士",
-      "onboard_time": 1670002750,
-      "rank": 20,
-      "category": "体育"
     },
     {
       "raw_hot": 43810,
@@ -641,6 +649,14 @@
       "onboard_time": 1669968851,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 29422,
+      "num": 91448,
+      "word": "沙奇里破门",
+      "onboard_time": 1670011567,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 22247,
