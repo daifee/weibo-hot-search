@@ -1,14 +1,22 @@
 {
   "startTime": 1669912152284,
-  "endTime": 1669946379348,
+  "endTime": 1669949415810,
   "band_list": [
     {
-      "raw_hot": 2092611,
+      "raw_hot": 2433196,
       "num": 867650,
       "word": "男婴被喂水呛咳死亡父亲以为其睡着",
       "onboard_time": 1669943671,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2091185,
+      "num": 847025,
+      "word": "德国队出局后更衣室无人说话",
+      "onboard_time": 1669946168,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 1984879,
@@ -51,7 +59,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1313549,
+      "raw_hot": 1399249,
       "num": 861827,
       "word": "男子车祸后以为是1993年立刻向妻求婚",
       "onboard_time": 1669942869,
@@ -71,6 +79,14 @@
       "num": 858019,
       "word": "女子印度街头直播被男子强吻",
       "onboard_time": 1669941788,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 887339,
+      "num": 779155,
+      "word": "女子假扮孕妇藏202块CPU入境被查",
+      "onboard_time": 1669947430,
       "rank": 11,
       "category": "社会新闻"
     },
@@ -112,6 +128,14 @@
       "word": "女子二胎怀3胞胎出行要靠轮椅",
       "onboard_time": 1669938248,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 778042,
+      "num": 770702,
+      "word": "去年我国初婚人数首次跌破1200万",
+      "onboard_time": 1669947970,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -275,6 +299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 394254,
+      "num": 749206,
+      "word": "日本成为首个击败两支冠军球队的亚洲国家",
+      "onboard_time": 1669946414,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 368328,
       "num": 533582,
       "word": "国美电器已被申请破产清算",
@@ -339,11 +371,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 290327,
+      "num": 701491,
+      "word": "男子从高风险返乡未报备听从安排",
+      "onboard_time": 1669947249,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 282364,
       "num": 669088,
       "word": "卢卡库浪费必进球帽子戏法",
       "onboard_time": 1669915868,
       "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 269400,
+      "num": 688829,
+      "word": "C罗说想要小组第一",
+      "onboard_time": 1669947071,
+      "rank": 23,
       "category": "体育"
     },
     {
@@ -403,11 +451,35 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 232779,
+      "num": 665839,
+      "word": "黄健翔不敢嘲笑日本队痴人说梦了",
+      "onboard_time": 1669944730,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 228470,
+      "num": 652086,
+      "word": "国务院联防联控机制专家回应热点",
+      "onboard_time": 1669944908,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 222825,
       "num": 698307,
       "word": "哥斯达黎加2比4德国",
       "onboard_time": 1669929068,
       "rank": 12,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 214680,
+      "num": 636054,
+      "word": "死亡之组 刺激",
+      "onboard_time": 1669945329,
+      "rank": 36,
       "category": "体育"
     },
     {
@@ -433,14 +505,6 @@
       "onboard_time": 1669892111,
       "rank": 21,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 199534,
-      "num": 655667,
-      "word": "德国队出局后更衣室无人说话",
-      "onboard_time": 1669946168,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 199326,
@@ -475,22 +539,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 183261,
-      "num": 628059,
-      "word": "黄健翔不敢嘲笑日本队痴人说梦了",
-      "onboard_time": 1669944730,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 180815,
-      "num": 627116,
-      "word": "国务院联防联控机制专家回应热点",
-      "onboard_time": 1669944908,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 176828,
       "num": 651412,
       "word": "卢卡库赛后砸碎玻璃",
@@ -504,6 +552,14 @@
       "word": "比利时无缘16强",
       "onboard_time": 1669914909,
       "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 173068,
+      "num": 604712,
+      "word": "再见德国队",
+      "onboard_time": 1669948449,
+      "rank": 34,
       "category": "体育"
     },
     {
@@ -539,6 +595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 164009,
+      "num": 593924,
+      "word": "可爱到失控的猫",
+      "onboard_time": 1669948449,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 163063,
       "num": 634325,
       "word": "卢卡库",
@@ -552,14 +616,6 @@
       "word": "哈弗茨替补破门",
       "onboard_time": 1669928408,
       "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 157609,
-      "num": 605976,
-      "word": "死亡之组 刺激",
-      "onboard_time": 1669945329,
-      "rank": 36,
       "category": "体育"
     },
     {
@@ -651,12 +707,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 136572,
+      "num": 545381,
+      "word": "3名高中生国际核心期刊发文",
+      "onboard_time": 1669948989,
+      "rank": 41,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 135785,
       "num": 217523,
       "word": "克罗地亚0比0比利时",
       "onboard_time": 1669914787,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 133304,
+      "num": 536890,
+      "word": "从1到15看神舟系列飞船",
+      "onboard_time": 1669948329,
+      "rank": 42,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 132463,
@@ -752,6 +824,14 @@
       "word": "西安一高校雪后秒变童话世界",
       "onboard_time": 1669905912,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 108898,
+      "num": 490874,
+      "word": "1分钟学会3种倒车入库方法",
+      "onboard_time": 1669948148,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
