@@ -1,0 +1,410 @@
+{
+  "runTime": 1670013209822,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 24538,
+        "num": 112437,
+        "word": "江泽民同志生平",
+        "onboard_time": 1669979534,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 19089,
+        "num": 112299,
+        "word": "江泽民伟大光辉的一生",
+        "onboard_time": 1669976232,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 7422,
+        "num": 110968,
+        "word": "从太空看全球红树林治理",
+        "onboard_time": 1669968851,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 304128,
+        "num": 110043,
+        "word": "韩国2比1葡萄牙",
+        "onboard_time": 1670000530,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143794,
+        "num": 109305,
+        "word": "乌拉圭球员围攻裁判",
+        "onboard_time": 1670003413,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100365,
+        "num": 108527,
+        "word": "喀麦隆vs巴西",
+        "onboard_time": 1670002510,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100347,
+        "num": 107565,
+        "word": "C罗乌龙助攻",
+        "onboard_time": 1669998252,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95393,
+        "num": 106793,
+        "word": "苏亚雷斯哭了",
+        "onboard_time": 1670001190,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 72143,
+        "num": 106090,
+        "word": "历史首次3支亚足联球队进16强",
+        "onboard_time": 1670004370,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 69752,
+        "num": 105437,
+        "word": "韩国观众镜头",
+        "onboard_time": 1669999330,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 65613,
+        "num": 104358,
+        "word": "男孩偷吃雌激素处方药乳房发育",
+        "onboard_time": 1669989131,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65208,
+        "num": 103789,
+        "word": "杭州东站疫情防控",
+        "onboard_time": 1669994292,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63473,
+        "num": 103011,
+        "word": "C罗孙兴慜拥抱致意",
+        "onboard_time": 1670000471,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 63332,
+        "num": 102139,
+        "word": "乌拉圭 裁判",
+        "onboard_time": 1670002091,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 61058,
+        "num": 101561,
+        "word": "塞尔维亚vs瑞士",
+        "onboard_time": 1670002750,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 57675,
+        "num": 100153,
+        "word": "在卡塔尔住2000元一晚的酒店是什么体验",
+        "onboard_time": 1669998190,
+        "rank": 15,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 52038,
+        "num": 99817,
+        "word": "老年人请尽快接种新冠疫苗",
+        "onboard_time": 1670002452,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51519,
+        "num": 98310,
+        "word": "巴西首发",
+        "onboard_time": 1670003651,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 42733,
+        "num": 97666,
+        "word": "贵州茅台11亿成立房地产开发公司",
+        "onboard_time": 1669997951,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42157,
+        "num": 96744,
+        "word": "小伙患怪病身高从1米8变1米7",
+        "onboard_time": 1669989250,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40655,
+        "num": 95746,
+        "word": "智齿该拔就得拔",
+        "onboard_time": 1669997052,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39331,
+        "num": 95288,
+        "word": "C罗被换下",
+        "onboard_time": 1669999089,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 38807,
+        "num": 94561,
+        "word": "英国一核酸机构错报3.9万份阳性结果",
+        "onboard_time": 1669983671,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38762,
+        "num": 94018,
+        "word": "95后妈妈回应二胎生下3女儿",
+        "onboard_time": 1669984092,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38657,
+        "num": 92712,
+        "word": "不给乌拉圭点球",
+        "onboard_time": 1670001731,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 36747,
+        "num": 91755,
+        "word": "纽约老鼠泛滥政府高薪招聘灭鼠总管",
+        "onboard_time": 1669998791,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34746,
+        "num": 91375,
+        "word": "猫吃卫仕猫粮口吐白沫",
+        "onboard_time": 1669988772,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34193,
+        "num": 90254,
+        "word": "广州本轮疫情16万感染者有4例危重症",
+        "onboard_time": 1669978092,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34115,
+        "num": 89591,
+        "word": "孙兴慜哭了",
+        "onboard_time": 1670001070,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32248,
+        "num": 88279,
+        "word": "真喜欢你的人不舍得让你等的",
+        "onboard_time": 1669985171,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 105949,
+        "num": 87441,
+        "word": "韩国志愿者翻译孙兴慜采访时落泪",
+        "onboard_time": 1670008568,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 44760,
+        "num": 86981,
+        "word": "塞尔维亚半场2比2瑞士",
+        "onboard_time": 1670011506,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31502,
+        "num": 85919,
+        "word": "核酸检测乱象耗的是国库伤的是民心",
+        "onboard_time": 1669974190,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30744,
+        "num": 85409,
+        "word": "康辉超长口播",
+        "onboard_time": 1669983313,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27359,
+        "num": 84479,
+        "word": "各地调整核酸政策体现哪些新风向",
+        "onboard_time": 1669991712,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26890,
+        "num": 83550,
+        "word": "喀麦隆vs巴西首发",
+        "onboard_time": 1670006170,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26237,
+        "num": 82631,
+        "word": "26岁小伙拔智齿感染险瘫痪",
+        "onboard_time": 1669983072,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26131,
+        "num": 82299,
+        "word": "意大利姑娘远嫁广西农村扎根生活",
+        "onboard_time": 1669984391,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25169,
+        "num": 81399,
+        "word": "佩佩",
+        "onboard_time": 1669995492,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24399,
+        "num": 79854,
+        "word": "脑瘫女孩当美妆博主走红回应被质疑",
+        "onboard_time": 1669992730,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23577,
+        "num": 79817,
+        "word": "重庆乘坐交通工具只查验渝康码",
+        "onboard_time": 1670004130,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23511,
+        "num": 78779,
+        "word": "羽绒服是不是越厚越保暖",
+        "onboard_time": 1669989615,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22921,
+        "num": 77559,
+        "word": "斯诺登正式成为俄罗斯公民",
+        "onboard_time": 1669988231,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22272,
+        "num": 76836,
+        "word": "立陶宛高官称希望能恢复对华贸易",
+        "onboard_time": 1669981990,
+        "rank": 43,
+        "category": "国内要闻,国外要闻"
+      },
+      {
+        "raw_hot": 22110,
+        "num": 75769,
+        "word": "男子潜水连续两次被当成大鱼钓上岸",
+        "onboard_time": 1669990750,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21867,
+        "num": 75420,
+        "word": "2人欲开门乞讨被店员火速锁门外",
+        "onboard_time": 1669980492,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20718,
+        "num": 74318,
+        "word": "沙奇里破门",
+        "onboard_time": 1670011567,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19553,
+        "num": 73553,
+        "word": "沃尔玛回应火腿骨头外贴一层瘦肉",
+        "onboard_time": 1669980072,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18969,
+        "num": 72728,
+        "word": "健康的异地恋是什么感觉",
+        "onboard_time": 1669985232,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 18436,
+        "num": 71614,
+        "word": "违法行为不能仅批评教育了事",
+        "onboard_time": 1669989492,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#12月6日隆重举行江泽民同志追悼大会#"
+    }
+  }
+}
