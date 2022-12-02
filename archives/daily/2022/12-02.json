@@ -1,6 +1,6 @@
 {
   "startTime": 1669912152284,
-  "endTime": 1669966434467,
+  "endTime": 1669969409717,
   "band_list": [
     {
       "raw_hot": 6453532,
@@ -179,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 974102,
+      "num": 1582654,
+      "word": "男子转女性好友照片造黄谣已被立案",
+      "onboard_time": 1669963150,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 946278,
       "num": 1281963,
       "word": "郑州为什么是河南省会",
@@ -208,14 +216,6 @@
       "word": "深圳取消常态化核酸系谣言",
       "onboard_time": 1669938728,
       "rank": 7,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 826277,
-      "num": 1582654,
-      "word": "男子转女性好友照片造黄谣已被立案",
-      "onboard_time": 1669963150,
-      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -251,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 773003,
+      "num": 1436204,
+      "word": "山东考研",
+      "onboard_time": 1669964416,
+      "rank": 20,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 723824,
       "num": 778378,
       "word": "银行每人限时5秒撕卫生纸引争议",
@@ -273,14 +281,6 @@
       "onboard_time": 1669939447,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 688157,
-      "num": 1436204,
-      "word": "山东考研",
-      "onboard_time": 1669964416,
-      "rank": 20,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 680099,
@@ -329,6 +329,14 @@
       "onboard_time": 1669941429,
       "rank": 14,
       "category": "科技"
+    },
+    {
+      "raw_hot": 634607,
+      "num": 1245916,
+      "word": "西班牙主教练称被日本打崩了",
+      "onboard_time": 1669965311,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 605148,
@@ -403,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 515414,
+      "num": 523359,
+      "word": "卫健局回应一新生婴儿在医院去世",
+      "onboard_time": 1669967232,
+      "rank": 12,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 509205,
       "num": 1114403,
       "word": "恒驰汽车销售人员大规模停工欠薪",
@@ -417,6 +433,14 @@
       "onboard_time": 1669957991,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 472785,
+      "num": 1222496,
+      "word": "重庆的烟火气回来了",
+      "onboard_time": 1669964831,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 469475,
@@ -531,12 +555,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 364953,
+      "num": 1212710,
+      "word": "男子称沃尔玛火腿骨头外贴一层肉",
+      "onboard_time": 1669964950,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 360567,
       "num": 659293,
       "word": "小猫咪真的好像个小宝宝啊",
       "onboard_time": 1669906693,
       "rank": 16,
       "category": "情感"
+    },
+    {
+      "raw_hot": 358119,
+      "num": 908312,
+      "word": "女销售临盆前坚持接客户电话",
+      "onboard_time": 1669966214,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 353964,
@@ -611,6 +651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 300821,
+      "num": 493793,
+      "word": "卡塔尔小王子晒中国粉丝手绘",
+      "onboard_time": 1669968131,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 290409,
       "num": 930344,
       "word": "广州多区恢复堂食烟火气渐浓",
@@ -619,11 +667,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 288997,
-      "num": 1212710,
-      "word": "男子称沃尔玛火腿骨头外贴一层肉",
-      "onboard_time": 1669964950,
-      "rank": 34,
+      "raw_hot": 288363,
+      "num": 482151,
+      "word": "夫妻间经常谩骂侮辱也算家暴",
+      "onboard_time": 1669967471,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -632,14 +680,6 @@
       "word": "C罗说想要小组第一",
       "onboard_time": 1669947071,
       "rank": 23,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 284685,
-      "num": 1245916,
-      "word": "西班牙主教练称被日本打崩了",
-      "onboard_time": 1669965311,
-      "rank": 49,
       "category": "体育"
     },
     {
@@ -657,14 +697,6 @@
       "onboard_time": 1669964831,
       "rank": 33,
       "category": "社会正能量,教育"
-    },
-    {
-      "raw_hot": 270231,
-      "num": 1222496,
-      "word": "重庆的烟火气回来了",
-      "onboard_time": 1669964831,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 269321,
@@ -723,6 +755,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 255765,
+      "num": 465593,
+      "word": "90后男子待业5年欠30万贷款",
+      "onboard_time": 1669967351,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 249344,
       "num": 280288,
       "word": "哥斯达黎加vs德国",
@@ -771,20 +811,20 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 231106,
+      "num": 1297951,
+      "word": "文旅部召开全国剧本娱乐管理工作会",
+      "onboard_time": 1669964470,
+      "rank": 28,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 229161,
       "num": 691716,
       "word": "国务院联防联控机制专家回应热点",
       "onboard_time": 1669944908,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 227623,
-      "num": 1297951,
-      "word": "文旅部召开全国剧本娱乐管理工作会",
-      "onboard_time": 1669964470,
-      "rank": 28,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 227015,
@@ -867,6 +907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 197010,
+      "num": 428853,
+      "word": "韩媒抱怨VAR不帮韩国",
+      "onboard_time": 1669968192,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 194591,
       "num": 571160,
       "word": "欧盟已冻结俄3000亿欧元储备",
@@ -899,6 +947,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 181687,
+      "num": 415889,
+      "word": "为何日本第二个进球不算出界",
+      "onboard_time": 1669966511,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 181235,
       "num": 1080333,
       "word": "美检方请求驳回对孟晚舟指控",
@@ -921,6 +977,14 @@
       "onboard_time": 1669939812,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 176400,
+      "num": 993481,
+      "word": "野猪在重庆街头乱窜",
+      "onboard_time": 1669965551,
+      "rank": 39,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 175579,
@@ -977,6 +1041,14 @@
       "onboard_time": 1669883532,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 163421,
+      "num": 404180,
+      "word": "苹果新专利可实现SIM卡转换eSIM",
+      "onboard_time": 1669967232,
+      "rank": 35,
+      "category": "科技"
     },
     {
       "raw_hot": 163063,
@@ -1067,6 +1139,22 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 142130,
+      "num": 393769,
+      "word": "300元衣服老人穿28年依旧如新",
+      "onboard_time": 1669968671,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 141885,
+      "num": 390988,
+      "word": "92号汽油或将重回7元时代",
+      "onboard_time": 1669968971,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140388,
       "num": 700050,
       "word": "特斯拉Semi电动卡车正式交付",
@@ -1155,12 +1243,12 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 132355,
-      "num": 993481,
-      "word": "野猪在重庆街头乱窜",
-      "onboard_time": 1669965551,
-      "rank": 39,
-      "category": "社会新闻,幽默"
+      "raw_hot": 132186,
+      "num": 377450,
+      "word": "这些药网络禁售",
+      "onboard_time": 1669967532,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 131443,
@@ -1209,6 +1297,22 @@
       "onboard_time": 1669965911,
       "rank": 42,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 120656,
+      "num": 368123,
+      "word": "周琦被入室盗窃",
+      "onboard_time": 1669969274,
+      "rank": 42,
+      "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 119139,
+      "num": 357871,
+      "word": "天津地铁取消72小时核酸查验",
+      "onboard_time": 1669969391,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 115603,
@@ -1339,14 +1443,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 100501,
-      "num": 908312,
-      "word": "女销售临盆前坚持接客户电话",
-      "onboard_time": 1669966214,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 98243,
       "num": 504441,
       "word": "苹果AR头显系统名改为xrOS",
@@ -1457,6 +1553,14 @@
       "onboard_time": 1669905072,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 70065,
+      "num": 574021,
+      "word": "从太空看全球红树林治理",
+      "onboard_time": 1669968851,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 67887,
