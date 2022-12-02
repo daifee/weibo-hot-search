@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1670013209822,
+  "endTime": 1670015769541,
   "band_list": [
     {
       "raw_hot": 6453532,
@@ -2283,6 +2283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 280800,
+      "num": 476780,
+      "word": "喀麦隆vs巴西",
+      "onboard_time": 1670002510,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 280418,
       "num": 1617199,
       "word": "孙兴慜的偶像是C罗",
@@ -3216,14 +3224,6 @@
       "word": "布克51分",
       "onboard_time": 1669870212,
       "rank": 37,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 157129,
-      "num": 476780,
-      "word": "喀麦隆vs巴西",
-      "onboard_time": 1670002510,
-      "rank": 27,
       "category": "体育"
     },
     {
@@ -4204,7 +4204,7 @@
     },
     {
       "raw_hot": 89897,
-      "num": 95557,
+      "num": 111938,
       "word": "塞尔维亚半场2比2瑞士",
       "onboard_time": 1670011506,
       "rank": 31,
@@ -4444,7 +4444,7 @@
     },
     {
       "raw_hot": 29422,
-      "num": 91448,
+      "num": 108791,
       "word": "沙奇里破门",
       "onboard_time": 1670011567,
       "rank": 35,
@@ -4456,6 +4456,14 @@
       "word": "格纳布里头球破门",
       "onboard_time": 1669925226,
       "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 27371,
+      "num": 105209,
+      "word": "卡塔尔世界杯小组赛结束",
+      "onboard_time": 1670015647,
+      "rank": 37,
       "category": "体育"
     },
     {
