@@ -1,0 +1,410 @@
+{
+  "runTime": 1669955938544,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 117763,
+        "num": 1124801,
+        "word": "江泽民同志遗体由专机敬移北京",
+        "onboard_time": 1669893193,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 24785,
+        "num": 1123382,
+        "word": "联合国安理会就江泽民逝世举行默哀仪式",
+        "onboard_time": 1669897272,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 160841,
+        "num": 1105111,
+        "word": "世界首条高寒地区高铁10岁了",
+        "onboard_time": 1669951990,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2527106,
+        "num": 1096090,
+        "word": "男子90万年薪上班太无聊起诉公司",
+        "onboard_time": 1669950612,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2131142,
+        "num": 1088669,
+        "word": "男子新婚夜忘摘隐形眼球变白",
+        "onboard_time": 1669952049,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1266533,
+        "num": 1078497,
+        "word": "德国队出局后更衣室无人说话",
+        "onboard_time": 1669946168,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1085897,
+        "num": 1066891,
+        "word": "男子为好玩将核酸结果P图为尿性",
+        "onboard_time": 1669951569,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 858124,
+        "num": 1056917,
+        "word": "郑州为什么是河南省会",
+        "onboard_time": 1669950549,
+        "rank": 7,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 669807,
+        "num": 1043368,
+        "word": "女子假扮孕妇藏202块CPU入境被查",
+        "onboard_time": 1669947430,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 531342,
+        "num": 1032759,
+        "word": "楼里反复出现阳性可延长封控吗",
+        "onboard_time": 1669953069,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1671457,
+        "num": 1029274,
+        "word": "男婴被喂水呛咳死亡父亲以为其睡着",
+        "onboard_time": 1669943671,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1385607,
+        "num": 1014174,
+        "word": "去年我国初婚人数首次跌破1200万",
+        "onboard_time": 1669947970,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 482587,
+        "num": 1006470,
+        "word": "日本成为首个击败两支冠军球队的亚洲国家",
+        "onboard_time": 1669946414,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 427320,
+        "num": 991662,
+        "word": "世界杯最刺激一晚",
+        "onboard_time": 1669939929,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 424938,
+        "num": 987006,
+        "word": "日本足球给中国的启示",
+        "onboard_time": 1669949710,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 419637,
+        "num": 971189,
+        "word": "女子印度街头直播被男子强吻",
+        "onboard_time": 1669941788,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 410811,
+        "num": 966604,
+        "word": "德国主教练分析被淘汰原因",
+        "onboard_time": 1669953251,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 389112,
+        "num": 949763,
+        "word": "女子提热水淋车玻璃化冰",
+        "onboard_time": 1669954030,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 331086,
+        "num": 945338,
+        "word": "大爷300斤萝卜被偷找到已成萝卜丝",
+        "onboard_time": 1669942928,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290409,
+        "num": 930344,
+        "word": "广州多区恢复堂食烟火气渐浓",
+        "onboard_time": 1669949530,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273731,
+        "num": 916414,
+        "word": "女子二胎怀3胞胎出行要靠轮椅",
+        "onboard_time": 1669938248,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257320,
+        "num": 906316,
+        "word": "官方通报杭州大白暴力拉人隔离",
+        "onboard_time": 1669937766,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253624,
+        "num": 896657,
+        "word": "金毛从山上领回一只狍子",
+        "onboard_time": 1669940289,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251901,
+        "num": 892963,
+        "word": "日本主帅说能进世界杯八强",
+        "onboard_time": 1669941190,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 250097,
+        "num": 881441,
+        "word": "深圳取消常态化核酸系谣言",
+        "onboard_time": 1669938728,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244005,
+        "num": 870514,
+        "word": "北京增3026例本土无症状",
+        "onboard_time": 1669942328,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243540,
+        "num": 858547,
+        "word": "森保一 田忌赛马",
+        "onboard_time": 1669936987,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 236898,
+        "num": 843157,
+        "word": "可爱到失控的猫",
+        "onboard_time": 1669948449,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 236426,
+        "num": 837122,
+        "word": "成都地铁不再查验核酸检测报告",
+        "onboard_time": 1669943169,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227016,
+        "num": 822945,
+        "word": "99年民警自嘲式安慰轻生小伙",
+        "onboard_time": 1669953670,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200945,
+        "num": 817949,
+        "word": "3名高中生国际核心期刊发文",
+        "onboard_time": 1669948989,
+        "rank": 30,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 199342,
+        "num": 808798,
+        "word": "男子吐槽速食麻辣烫8包料5包是调味",
+        "onboard_time": 1669940109,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179262,
+        "num": 795915,
+        "word": "老师让初三学生暂停自习看满天朝霞",
+        "onboard_time": 1669952892,
+        "rank": 32,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 176612,
+        "num": 783318,
+        "word": "男子从高风险返乡未报备听从安排",
+        "onboard_time": 1669947249,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160968,
+        "num": 778472,
+        "word": "做核酸是否硬性要求",
+        "onboard_time": 1669939447,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159932,
+        "num": 768117,
+        "word": "男子洗手池手写惊艳立体字",
+        "onboard_time": 1669954990,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158641,
+        "num": 754203,
+        "word": "日本3分钟2球",
+        "onboard_time": 1669928288,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144324,
+        "num": 739996,
+        "word": "日本球迷向首相请愿全国放假",
+        "onboard_time": 1669941129,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144057,
+        "num": 728027,
+        "word": "C罗说想要小组第一",
+        "onboard_time": 1669947071,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143935,
+        "num": 718318,
+        "word": "银行每人限时5秒撕卫生纸引争议",
+        "onboard_time": 1669936268,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143868,
+        "num": 716020,
+        "word": "混阳人群复核为阴性隔离时间怎么定",
+        "onboard_time": 1669954271,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140388,
+        "num": 700050,
+        "word": "特斯拉Semi电动卡车正式交付",
+        "onboard_time": 1669951750,
+        "rank": 41,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 136675,
+        "num": 692070,
+        "word": "黄健翔不敢嘲笑日本队痴人说梦了",
+        "onboard_time": 1669944730,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134862,
+        "num": 676556,
+        "word": "特等功臣女扮男装参加八路军",
+        "onboard_time": 1669942569,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132770,
+        "num": 664691,
+        "word": "朋友圈疯传的新冠吃药顺序图不靠谱",
+        "onboard_time": 1669955412,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127348,
+        "num": 659858,
+        "word": "郑州部分饭店恢复堂食",
+        "onboard_time": 1669955710,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119082,
+        "num": 653470,
+        "word": "死亡之组 刺激",
+        "onboard_time": 1669945329,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119066,
+        "num": 634501,
+        "word": "前三季度结婚人数创新低",
+        "onboard_time": 1669955770,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118107,
+        "num": 629544,
+        "word": "德国 虽败犹荣",
+        "onboard_time": 1669941068,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106226,
+        "num": 616344,
+        "word": "西湖冬日限定雪景",
+        "onboard_time": 1669954332,
+        "rank": 49,
+        "category": "自然,旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#12月6日隆重举行江泽民同志追悼大会#"
+    }
+  }
+}
