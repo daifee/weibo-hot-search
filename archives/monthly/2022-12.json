@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1669995251983,
+  "endTime": 1669998371554,
   "band_list": [
     {
       "raw_hot": 6453532,
@@ -347,6 +347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1301189,
+      "num": 767713,
+      "word": "佩佩",
+      "onboard_time": 1669995492,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1294634,
       "num": 1294634,
       "word": "江泽民伟大光辉的一生",
@@ -416,6 +424,14 @@
       "word": "得知十混一初筛阳性后该怎么做",
       "onboard_time": 1669884373,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1129932,
+      "num": 721889,
+      "word": "杭州东站疫情防控",
+      "onboard_time": 1669994292,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -657,6 +673,14 @@
       "onboard_time": 1669824494,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 836946,
+      "num": 787257,
+      "word": "C罗",
+      "onboard_time": 1669987991,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 835791,
@@ -1267,14 +1291,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 509903,
-      "num": 787257,
-      "word": "C罗",
-      "onboard_time": 1669987991,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 509205,
       "num": 1114403,
       "word": "恒驰汽车销售人员大规模停工欠薪",
@@ -1443,6 +1459,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 437763,
+      "num": 738682,
+      "word": "加纳vs乌拉圭",
+      "onboard_time": 1669990271,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 434183,
+      "num": 730477,
+      "word": "韩国扳平",
+      "onboard_time": 1669995131,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 433865,
       "num": 808798,
       "word": "男子吐槽速食麻辣烫8包料5包是调味",
@@ -1489,6 +1521,14 @@
       "onboard_time": 1669818495,
       "rank": 6,
       "category": "军事"
+    },
+    {
+      "raw_hot": 421007,
+      "num": 706613,
+      "word": "韩国半场1比1葡萄牙",
+      "onboard_time": 1669996510,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 420926,
@@ -1619,14 +1659,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 394207,
-      "num": 712069,
-      "word": "加纳vs乌拉圭",
-      "onboard_time": 1669990271,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 394060,
       "num": 347832,
       "word": "广州出发火车票瞬时搜索量增2.5倍",
@@ -1657,14 +1689,6 @@
       "onboard_time": 1669865230,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 377412,
-      "num": 701620,
-      "word": "杭州东站疫情防控",
-      "onboard_time": 1669994292,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 374378,
@@ -1744,6 +1768,14 @@
       "word": "女子求职面试后老板报价2万约饭",
       "onboard_time": 1669892953,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 355779,
+      "num": 690433,
+      "word": "上海海关截获违规进境活体蝾螈232只",
+      "onboard_time": 1669993031,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -1929,6 +1961,14 @@
       "onboard_time": 1669852088,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 305567,
+      "num": 660640,
+      "word": "韩国教练坐观众席",
+      "onboard_time": 1669996571,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 305019,
@@ -2299,6 +2339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 234353,
+      "num": 686655,
+      "word": "脑瘫女孩当美妆博主走红回应被质疑",
+      "onboard_time": 1669992730,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 233819,
       "num": 697870,
       "word": "黄健翔不敢嘲笑日本队痴人说梦了",
@@ -2336,14 +2384,6 @@
       "word": "5个月萌娃稳稳站立在外公手心",
       "onboard_time": 1669861211,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 231187,
-      "num": 647653,
-      "word": "上海海关截获违规进境活体蝾螈232只",
-      "onboard_time": 1669993031,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -2403,11 +2443,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 221391,
-      "num": 686655,
-      "word": "脑瘫女孩当美妆博主走红回应被质疑",
-      "onboard_time": 1669992730,
-      "rank": 29,
+      "raw_hot": 221460,
+      "num": 603192,
+      "word": "智齿该拔就得拔",
+      "onboard_time": 1669997052,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -2875,14 +2915,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 168662,
-      "num": 569883,
-      "word": "韩国扳平",
-      "onboard_time": 1669995131,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 168462,
       "num": 168462,
       "word": "使用儿童安全座椅可大幅降低受伤风险",
@@ -2944,6 +2976,14 @@
       "word": "哈弗茨替补破门",
       "onboard_time": 1669928408,
       "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 162218,
+      "num": 567672,
+      "word": "C罗乌龙助攻",
+      "onboard_time": 1669998252,
+      "rank": 32,
       "category": "体育"
     },
     {
@@ -3219,6 +3259,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 138065,
+      "num": 593476,
+      "word": "胡明轩晋级三分大赛决赛",
+      "onboard_time": 1669994172,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 137512,
       "num": 543535,
       "word": "手把手教你正确停车",
@@ -3395,6 +3443,14 @@
       "category": "科技,国内要闻"
     },
     {
+      "raw_hot": 124160,
+      "num": 535407,
+      "word": "加纳半场0比2乌拉圭",
+      "onboard_time": 1669997591,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 124041,
       "num": 587761,
       "word": "民警一路狂奔保住760万",
@@ -3472,14 +3528,6 @@
       "word": "沙特阿拉伯半场0比0墨西哥",
       "onboard_time": 1669842429,
       "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 118190,
-      "num": 593476,
-      "word": "胡明轩晋级三分大赛决赛",
-      "onboard_time": 1669994172,
-      "rank": 42,
       "category": "体育"
     },
     {
@@ -3617,6 +3665,14 @@
       "onboard_time": 1669824433,
       "rank": 35,
       "category": "科技"
+    },
+    {
+      "raw_hot": 109085,
+      "num": 497498,
+      "word": "孙兴慜的偶像是C罗",
+      "onboard_time": 1669990032,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 108586,
@@ -3795,6 +3851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 98548,
+      "num": 480734,
+      "word": "贵州茅台11亿成立房地产开发公司",
+      "onboard_time": 1669997951,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 98255,
       "num": 98255,
       "word": "退伍老兵跳入冰水救起落水者",
@@ -3809,6 +3873,14 @@
       "onboard_time": 1669949530,
       "rank": 49,
       "category": "科技"
+    },
+    {
+      "raw_hot": 97788,
+      "num": 476640,
+      "word": "金英权破门",
+      "onboard_time": 1669996151,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 97539,

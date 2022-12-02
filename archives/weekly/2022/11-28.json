@@ -1,6 +1,6 @@
 {
   "startTime": 1669566398830,
-  "endTime": 1669995251983,
+  "endTime": 1669998371554,
   "band_list": [
     {
       "raw_hot": 71270277,
@@ -1131,6 +1131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1301189,
+      "num": 767713,
+      "word": "佩佩",
+      "onboard_time": 1669995492,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1295046,
       "num": 1295046,
       "word": "女子买房送60平阳台苦恼封窗太贵",
@@ -1465,6 +1473,14 @@
       "onboard_time": 1669709676,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1129932,
+      "num": 721889,
+      "word": "杭州东站疫情防控",
+      "onboard_time": 1669994292,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1126234,
@@ -2097,6 +2113,14 @@
       "onboard_time": 1669709617,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 836946,
+      "num": 787257,
+      "word": "C罗",
+      "onboard_time": 1669987991,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 835791,
@@ -3931,14 +3955,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 509903,
-      "num": 787257,
-      "word": "C罗",
-      "onboard_time": 1669987991,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 509858,
       "num": 509858,
       "word": "真的有人穿什么都好看",
@@ -4587,6 +4603,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 437763,
+      "num": 738682,
+      "word": "加纳vs乌拉圭",
+      "onboard_time": 1669990271,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 436531,
       "num": 421269,
       "word": "桂林一医生被指急诊室猥亵患者",
@@ -4801,6 +4825,14 @@
       "onboard_time": 1669594292,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 421007,
+      "num": 706613,
+      "word": "韩国半场1比1葡萄牙",
+      "onboard_time": 1669996510,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 420926,
@@ -5179,14 +5211,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 394207,
-      "num": 712069,
-      "word": "加纳vs乌拉圭",
-      "onboard_time": 1669990271,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 391423,
       "num": 391423,
       "word": "北京医院不得拒绝无48小时核酸患者进入",
@@ -5328,14 +5352,6 @@
       "word": "女子躲麦田给骗子转账民警赶赴劝阻",
       "onboard_time": 1669600230,
       "rank": 40,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 377412,
-      "num": 701620,
-      "word": "杭州东站疫情防控",
-      "onboard_time": 1669994292,
-      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -5681,6 +5697,14 @@
       "onboard_time": 1669664532,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 355779,
+      "num": 690433,
+      "word": "上海海关截获违规进境活体蝾螈232只",
+      "onboard_time": 1669993031,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 355444,
@@ -6537,6 +6561,14 @@
       "onboard_time": 1669688911,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 305567,
+      "num": 660640,
+      "word": "韩国教练坐观众席",
+      "onboard_time": 1669996571,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 305513,
@@ -7819,6 +7851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 234353,
+      "num": 686655,
+      "word": "脑瘫女孩当美妆博主走红回应被质疑",
+      "onboard_time": 1669992730,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 234185,
       "num": 234185,
       "word": "王者源梦新皮肤",
@@ -7881,14 +7921,6 @@
       "onboard_time": 1669756333,
       "rank": 10,
       "category": "体育"
-    },
-    {
-      "raw_hot": 231187,
-      "num": 647653,
-      "word": "上海海关截获违规进境活体蝾螈232只",
-      "onboard_time": 1669993031,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 231171,
@@ -8147,20 +8179,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 221460,
+      "num": 603192,
+      "word": "智齿该拔就得拔",
+      "onboard_time": 1669997052,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 221436,
       "num": 221436,
       "word": "与迪丽热巴共品诗中情怀",
       "onboard_time": 1669615355,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 221391,
-      "num": 686655,
-      "word": "脑瘫女孩当美妆博主走红回应被质疑",
-      "onboard_time": 1669992730,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 221150,
@@ -9899,6 +9931,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 162218,
+      "num": 567672,
+      "word": "C罗乌龙助攻",
+      "onboard_time": 1669998252,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 161916,
       "num": 161916,
       "word": "怎么会有这么话痨的垃圾桶",
@@ -10675,6 +10715,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 138065,
+      "num": 593476,
+      "word": "胡明轩晋级三分大赛决赛",
+      "onboard_time": 1669994172,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 137601,
       "num": 137601,
       "word": "意大利球迷心碎改编世界杯主题曲",
@@ -11003,6 +11051,14 @@
       "category": "科技,国内要闻"
     },
     {
+      "raw_hot": 124160,
+      "num": 535407,
+      "word": "加纳半场0比2乌拉圭",
+      "onboard_time": 1669997591,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 124041,
       "num": 587761,
       "word": "民警一路狂奔保住760万",
@@ -11112,14 +11168,6 @@
       "word": "沙特阿拉伯半场0比0墨西哥",
       "onboard_time": 1669842429,
       "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 118190,
-      "num": 593476,
-      "word": "胡明轩晋级三分大赛决赛",
-      "onboard_time": 1669994172,
-      "rank": 42,
       "category": "体育"
     },
     {
@@ -11369,6 +11417,14 @@
       "onboard_time": 1669824433,
       "rank": 35,
       "category": "科技"
+    },
+    {
+      "raw_hot": 109085,
+      "num": 497498,
+      "word": "孙兴慜的偶像是C罗",
+      "onboard_time": 1669990032,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 108752,
@@ -11667,6 +11723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 98548,
+      "num": 480734,
+      "word": "贵州茅台11亿成立房地产开发公司",
+      "onboard_time": 1669997951,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 98346,
       "num": 449324,
       "word": "神十五发射和月亮同框",
@@ -11696,6 +11760,14 @@
       "word": "伊朗vs美国首发",
       "onboard_time": 1669746795,
       "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 97788,
+      "num": 476640,
+      "word": "金英权破门",
+      "onboard_time": 1669996151,
+      "rank": 46,
       "category": "体育"
     },
     {
