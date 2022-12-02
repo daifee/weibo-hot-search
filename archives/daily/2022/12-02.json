@@ -1,6 +1,6 @@
 {
   "startTime": 1669912152284,
-  "endTime": 1669994258731,
+  "endTime": 1669995251983,
   "band_list": [
     {
       "raw_hot": 6453532,
@@ -363,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 790381,
+      "num": 787937,
+      "word": "葡萄牙开场五分钟进球",
+      "onboard_time": 1669994414,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 789283,
       "num": 872456,
       "word": "葡萄牙首发",
@@ -675,6 +683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 509903,
+      "num": 787257,
+      "word": "C罗",
+      "onboard_time": 1669987991,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 509205,
       "num": 1114403,
       "word": "恒驰汽车销售人员大规模停工欠薪",
@@ -689,14 +705,6 @@
       "onboard_time": 1669975332,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 486501,
-      "num": 787257,
-      "word": "C罗",
-      "onboard_time": 1669987991,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 485374,
@@ -867,11 +875,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 394207,
+      "num": 712069,
+      "word": "加纳vs乌拉圭",
+      "onboard_time": 1669990271,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 386907,
       "num": 698599,
       "word": "沃尔玛回应火腿骨头外贴一层瘦肉",
       "onboard_time": 1669980072,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 377412,
+      "num": 701620,
+      "word": "杭州东站疫情防控",
+      "onboard_time": 1669994292,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -937,6 +961,14 @@
       "onboard_time": 1669977253,
       "rank": 47,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 330510,
+      "num": 751690,
+      "word": "各地调整核酸政策体现哪些新风向",
+      "onboard_time": 1669991712,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 326015,
@@ -1107,6 +1139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 258778,
+      "num": 741264,
+      "word": "男子潜水连续两次被当成大鱼钓上岸",
+      "onboard_time": 1669990750,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 258603,
       "num": 1236716,
       "word": "99年民警自嘲式安慰轻生小伙",
@@ -1129,22 +1169,6 @@
       "onboard_time": 1669905370,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 257221,
-      "num": 751690,
-      "word": "各地调整核酸政策体现哪些新风向",
-      "onboard_time": 1669991712,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 254063,
-      "num": 741264,
-      "word": "男子潜水连续两次被当成大鱼钓上岸",
-      "onboard_time": 1669990750,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 249344,
@@ -1203,6 +1227,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 231187,
+      "num": 647653,
+      "word": "上海海关截获违规进境活体蝾螈232只",
+      "onboard_time": 1669993031,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 231106,
       "num": 1297951,
       "word": "文旅部召开全国剧本娱乐管理工作会",
@@ -1233,6 +1265,14 @@
       "onboard_time": 1669929068,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 221391,
+      "num": 686655,
+      "word": "脑瘫女孩当美妆博主走红回应被质疑",
+      "onboard_time": 1669992730,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 219747,
@@ -1363,14 +1403,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 190270,
-      "num": 705527,
-      "word": "加纳vs乌拉圭",
-      "onboard_time": 1669990271,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 189959,
       "num": 692823,
       "word": "德国队连续两届世界杯小组赛出局",
@@ -1427,6 +1459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 178978,
+      "num": 602705,
+      "word": "奥尔塔破门",
+      "onboard_time": 1669994532,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 177205,
       "num": 716020,
       "word": "混阳人群复核为阴性隔离时间怎么定",
@@ -1457,14 +1497,6 @@
       "onboard_time": 1669951990,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 175197,
-      "num": 686655,
-      "word": "脑瘫女孩当美妆博主走红回应被质疑",
-      "onboard_time": 1669992730,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 175145,
@@ -1520,6 +1552,14 @@
       "word": "巴西队球员孩子从小踢足球",
       "onboard_time": 1669977132,
       "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 168662,
+      "num": 569883,
+      "word": "韩国扳平",
+      "onboard_time": 1669995131,
+      "rank": 35,
       "category": "体育"
     },
     {
@@ -1761,14 +1801,6 @@
       "onboard_time": 1669889052,
       "rank": 29,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 130081,
-      "num": 613610,
-      "word": "上海海关截获违规进境活体蝾螈232只",
-      "onboard_time": 1669993031,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 127607,
