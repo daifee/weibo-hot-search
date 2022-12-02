@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1670006221995,
+  "endTime": 1670008472233,
   "band_list": [
     {
       "raw_hot": 6453532,
@@ -2411,6 +2411,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 259100,
+      "num": 538623,
+      "word": "巴西首发",
+      "onboard_time": 1670003651,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 258778,
       "num": 1220871,
       "word": "男子潜水连续两次被当成大鱼钓上岸",
@@ -2433,14 +2441,6 @@
       "onboard_time": 1669948989,
       "rank": 41,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 257072,
-      "num": 538623,
-      "word": "巴西首发",
-      "onboard_time": 1670003651,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 250495,
@@ -3539,6 +3539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 131178,
+      "num": 412439,
+      "word": "历史首次3支亚足联球队进16强",
+      "onboard_time": 1670004370,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 128456,
       "num": 128456,
       "word": "克罗地亚vs比利时首发",
@@ -3691,6 +3699,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 121102,
+      "num": 499413,
+      "word": "老年人请尽快接种新冠疫苗",
+      "onboard_time": 1670002452,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120967,
       "num": 120967,
       "word": "咪咕音乐回应疑诱导儿童消费",
@@ -3728,14 +3744,6 @@
       "word": "不断优化完善防控措施",
       "onboard_time": 1669850648,
       "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 116636,
-      "num": 499413,
-      "word": "老年人请尽快接种新冠疫苗",
-      "onboard_time": 1670002452,
-      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -4203,6 +4211,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 88339,
+      "num": 207008,
+      "word": "乌拉圭球员围攻裁判",
+      "onboard_time": 1670003413,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 88179,
       "num": 88179,
       "word": "起底核子基因",
@@ -4216,14 +4232,6 @@
       "word": "威少超远压哨三分",
       "onboard_time": 1669878613,
       "rank": 48,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 85097,
-      "num": 412439,
-      "word": "历史首次3支亚足联球队进16强",
-      "onboard_time": 1670004370,
-      "rank": 39,
       "category": "体育"
     },
     {
@@ -4339,6 +4347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 56208,
+      "num": 386046,
+      "word": "重庆乘坐交通工具只查验渝康码",
+      "onboard_time": 1670004130,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 56156,
       "num": 56156,
       "word": "法国将对阵波兰",
@@ -4371,12 +4387,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 48166,
-      "num": 386046,
-      "word": "重庆乘坐交通工具只查验渝康码",
-      "onboard_time": 1670004130,
+      "raw_hot": 43810,
+      "num": 275218,
+      "word": "喀麦隆vs巴西首发",
+      "onboard_time": 1670006170,
       "rank": 43,
-      "category": "社会新闻"
+      "category": "体育"
     },
     {
       "raw_hot": 40877,
@@ -4392,14 +4408,6 @@
       "word": "马丁内斯卸任比利时主帅",
       "onboard_time": 1669921508,
       "rank": 40,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 36553,
-      "num": 275218,
-      "word": "喀麦隆vs巴西首发",
-      "onboard_time": 1670006170,
-      "rank": 43,
       "category": "体育"
     },
     {

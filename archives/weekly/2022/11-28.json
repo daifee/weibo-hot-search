@@ -1,6 +1,6 @@
 {
   "startTime": 1669566398830,
-  "endTime": 1670006221995,
+  "endTime": 1670008472233,
   "band_list": [
     {
       "raw_hot": 71270277,
@@ -7539,6 +7539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 259100,
+      "num": 538623,
+      "word": "巴西首发",
+      "onboard_time": 1669653266,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 258938,
       "num": 143563,
       "word": "崔然竣MAMAsolo舞台",
@@ -7585,14 +7593,6 @@
       "onboard_time": 1669544431,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 257072,
-      "num": 538623,
-      "word": "巴西首发",
-      "onboard_time": 1669653266,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 257033,
@@ -11091,6 +11091,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 131178,
+      "num": 412439,
+      "word": "历史首次3支亚足联球队进16强",
+      "onboard_time": 1670004370,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130912,
       "num": 138835,
       "word": "柳州市城区最新核酸检测采样点信息",
@@ -11315,6 +11323,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 121102,
+      "num": 499413,
+      "word": "老年人请尽快接种新冠疫苗",
+      "onboard_time": 1670002452,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120967,
       "num": 120967,
       "word": "咪咕音乐回应疑诱导儿童消费",
@@ -11400,14 +11416,6 @@
       "word": "熊孩子卡手专心吃干脆面压惊",
       "onboard_time": 1669627594,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 116636,
-      "num": 499413,
-      "word": "老年人请尽快接种新冠疫苗",
-      "onboard_time": 1670002452,
-      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -12075,6 +12083,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 88339,
+      "num": 207008,
+      "word": "乌拉圭球员围攻裁判",
+      "onboard_time": 1670003413,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 88179,
       "num": 88179,
       "word": "起底核子基因",
@@ -12096,14 +12112,6 @@
       "word": "威少超远压哨三分",
       "onboard_time": 1669878613,
       "rank": 48,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 85097,
-      "num": 412439,
-      "word": "历史首次3支亚足联球队进16强",
-      "onboard_time": 1670004370,
-      "rank": 39,
       "category": "体育"
     },
     {
@@ -12243,6 +12251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 56208,
+      "num": 386046,
+      "word": "重庆乘坐交通工具只查验渝康码",
+      "onboard_time": 1670004130,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 56156,
       "num": 56156,
       "word": "法国将对阵波兰",
@@ -12275,19 +12291,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 48166,
-      "num": 386046,
-      "word": "重庆乘坐交通工具只查验渝康码",
-      "onboard_time": 1670004130,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 47264,
       "num": 31950,
       "word": "英格兰小组第一晋级",
       "onboard_time": 1669757532,
       "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 43810,
+      "num": 275218,
+      "word": "喀麦隆vs巴西首发",
+      "onboard_time": 1670006170,
+      "rank": 43,
       "category": "体育"
     },
     {
@@ -12361,14 +12377,6 @@
       "onboard_time": 1669677622,
       "rank": 49,
       "category": "科技"
-    },
-    {
-      "raw_hot": 36553,
-      "num": 275218,
-      "word": "喀麦隆vs巴西首发",
-      "onboard_time": 1670006170,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 32307,
