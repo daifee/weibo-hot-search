@@ -1,6 +1,6 @@
 {
   "startTime": 1669912152284,
-  "endTime": 1669950022318,
+  "endTime": 1669951423505,
   "band_list": [
     {
       "raw_hot": 2433196,
@@ -25,6 +25,14 @@
       "onboard_time": 1669929187,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1743988,
+      "num": 809259,
+      "word": "去年我国初婚人数首次跌破1200万",
+      "onboard_time": 1669947970,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1678203,
@@ -67,19 +75,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1169839,
-      "num": 809259,
-      "word": "去年我国初婚人数首次跌破1200万",
-      "onboard_time": 1669947970,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1075942,
       "num": 741190,
       "word": "这种戒指真的不建议戴",
       "onboard_time": 1669901292,
       "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1067437,
+      "num": 860746,
+      "word": "女子假扮孕妇藏202块CPU入境被查",
+      "onboard_time": 1669947430,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -91,12 +99,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 980057,
-      "num": 860746,
-      "word": "女子假扮孕妇藏202块CPU入境被查",
-      "onboard_time": 1669947430,
-      "rank": 11,
-      "category": "社会新闻"
+      "raw_hot": 1009301,
+      "num": 837764,
+      "word": "日本成为首个击败两支冠军球队的亚洲国家",
+      "onboard_time": 1669946414,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 834519,
@@ -219,14 +227,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 594679,
-      "num": 837764,
-      "word": "日本成为首个击败两支冠军球队的亚洲国家",
-      "onboard_time": 1669946414,
-      "rank": 15,
-      "category": "体育"
-    },
-    {
       "raw_hot": 582592,
       "num": 773793,
       "word": "谈好400元租房第二天房东加价到1000",
@@ -331,20 +331,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 353964,
+      "num": 754928,
+      "word": "男子从高风险返乡未报备听从安排",
+      "onboard_time": 1669947249,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 346021,
+      "num": 677775,
+      "word": "男子90万年薪上班太无聊起诉公司",
+      "onboard_time": 1669950612,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 343892,
       "num": 669937,
       "word": "优衣库创始人称在中国开3000家店还不够",
       "onboard_time": 1669901532,
       "rank": 9,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 319995,
-      "num": 754928,
-      "word": "男子从高风险返乡未报备听从安排",
-      "onboard_time": 1669947249,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 317784,
@@ -387,6 +395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 283469,
+      "num": 640257,
+      "word": "小伙制止男子殴打女性被捅19刀",
+      "onboard_time": 1669950310,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 282364,
       "num": 669088,
       "word": "卢卡库浪费必进球帽子戏法",
@@ -419,11 +435,27 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 255807,
+      "num": 631644,
+      "word": "3名高中生国际核心期刊发文",
+      "onboard_time": 1669948989,
+      "rank": 41,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 249344,
       "num": 280288,
       "word": "哥斯达黎加vs德国",
       "onboard_time": 1669906152,
       "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 249143,
+      "num": 608596,
+      "word": "日本足球给中国的启示",
+      "onboard_time": 1669949710,
+      "rank": 43,
       "category": "体育"
     },
     {
@@ -435,12 +467,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 245666,
+      "num": 649789,
+      "word": "可爱到失控的猫",
+      "onboard_time": 1669948449,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 237245,
       "num": 420002,
       "word": "苏亚雷斯拒绝为2010年手球道歉",
       "onboard_time": 1669900813,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 234741,
+      "num": 594868,
+      "word": "郑州为什么是河南省会",
+      "onboard_time": 1669950549,
+      "rank": 27,
+      "category": "其它"
     },
     {
       "raw_hot": 233819,
@@ -523,12 +571,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 195809,
-      "num": 649789,
-      "word": "可爱到失控的猫",
-      "onboard_time": 1669948449,
-      "rank": 35,
-      "category": "情感"
+      "raw_hot": 195855,
+      "num": 570375,
+      "word": "广州多区恢复堂食烟火气渐浓",
+      "onboard_time": 1669949530,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 194591,
@@ -561,14 +609,6 @@
       "onboard_time": 1669914909,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 174904,
-      "num": 627646,
-      "word": "3名高中生国际核心期刊发文",
-      "onboard_time": 1669948989,
-      "rank": 41,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 173068,
@@ -747,14 +787,6 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 128256,
-      "num": 570375,
-      "word": "广州多区恢复堂食烟火气渐浓",
-      "onboard_time": 1669949530,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 127607,
       "num": 127607,
       "word": "山东人有多爱面食",
@@ -785,14 +817,6 @@
       "onboard_time": 1669936386,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 115866,
-      "num": 552600,
-      "word": "日本足球给中国的启示",
-      "onboard_time": 1669949710,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 115603,
@@ -864,6 +888,22 @@
       "word": "锦州发文能清零而不清零太可惜",
       "onboard_time": 1669886711,
       "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 105552,
+      "num": 457045,
+      "word": "12年老兵最后一次上哨执勤汇报",
+      "onboard_time": 1669950790,
+      "rank": 47,
+      "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 102372,
+      "num": 439865,
+      "word": "300秒读懂反电信网络诈骗法",
+      "onboard_time": 1669951390,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
