@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1670023125376,
+  "endTime": 1670024004641,
   "band_list": [
     {
       "raw_hot": 6453532,
@@ -1803,6 +1803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 389604,
+      "num": 462705,
+      "word": "历史首次3支亚足联球队进16强",
+      "onboard_time": 1670004370,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 386907,
       "num": 698599,
       "word": "沃尔玛回应火腿骨头外贴一层瘦肉",
@@ -1824,6 +1832,14 @@
       "word": "梅西回应失点",
       "onboard_time": 1669865230,
       "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 376122,
+      "num": 459482,
+      "word": "乌拉圭球员围攻裁判",
+      "onboard_time": 1670003413,
+      "rank": 16,
       "category": "体育"
     },
     {
@@ -1971,14 +1987,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 345812,
-      "num": 428401,
-      "word": "历史首次3支亚足联球队进16强",
-      "onboard_time": 1670004370,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 342420,
       "num": 342420,
       "word": "部门经理拒调岗成普通员工被辞",
@@ -2059,14 +2067,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 327762,
-      "num": 422130,
-      "word": "乌拉圭球员围攻裁判",
-      "onboard_time": 1670003413,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 327167,
       "num": 327167,
       "word": "天猫向ofo及戴威索要5亿借款",
@@ -2121,6 +2121,14 @@
       "onboard_time": 1669963691,
       "rank": 22,
       "category": "美妆,社会新闻"
+    },
+    {
+      "raw_hot": 316399,
+      "num": 476780,
+      "word": "喀麦隆vs巴西",
+      "onboard_time": 1670002510,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 311593,
@@ -2217,14 +2225,6 @@
       "onboard_time": 1669968671,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 289044,
-      "num": 476780,
-      "word": "喀麦隆vs巴西",
-      "onboard_time": 1670002510,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 287793,
@@ -2771,6 +2771,30 @@
       "category": "体育"
     },
     {
+      "raw_hot": 202402,
+      "num": 427455,
+      "word": "韩国志愿者翻译孙兴慜采访时落泪",
+      "onboard_time": 1670008568,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 201809,
+      "num": 421790,
+      "word": "卡瓦尼怒捶VAR设备",
+      "onboard_time": 1670023087,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 198592,
+      "num": 358674,
+      "word": "内马尔看台观战",
+      "onboard_time": 1670022908,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 197962,
       "num": 672753,
       "word": "开车接打电话要扣3分",
@@ -3120,14 +3144,6 @@
       "word": "CBA",
       "onboard_time": 1669980492,
       "rank": 43,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 169246,
-      "num": 394759,
-      "word": "韩国志愿者翻译孙兴慜采访时落泪",
-      "onboard_time": 1670008568,
-      "rank": 30,
       "category": "体育"
     },
     {
@@ -3583,14 +3599,6 @@
       "num": 128456,
       "word": "克罗地亚vs比利时首发",
       "onboard_time": 1669903989,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 128250,
-      "num": 268150,
-      "word": "卡瓦尼怒捶VAR设备",
-      "onboard_time": 1670023087,
       "rank": 47,
       "category": "体育"
     },
@@ -4291,6 +4299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 84767,
+      "num": 322624,
+      "word": "杭州东站出站风险筛查已恢复正常",
+      "onboard_time": 1670023687,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 84159,
       "num": 84159,
       "word": "北京大兴核酸检测最新要求",
@@ -4313,14 +4329,6 @@
       "onboard_time": 1669919468,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 80588,
-      "num": 312146,
-      "word": "内马尔看台观战",
-      "onboard_time": 1670022908,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 77262,
@@ -4411,6 +4419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 61287,
+      "num": 287067,
+      "word": "班主任自费请全班55人喝奶茶",
+      "onboard_time": 1670023866,
+      "rank": 47,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 56401,
       "num": 186312,
       "word": "莱万晒女儿照片",
@@ -4435,19 +4451,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 53152,
+      "num": 280724,
+      "word": "喀麦隆vs巴西首发",
+      "onboard_time": 1670006170,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 51917,
       "num": 26645,
       "word": "查韦斯任意球破门",
       "onboard_time": 1669841707,
       "rank": 32,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 51059,
-      "num": 275218,
-      "word": "喀麦隆vs巴西首发",
-      "onboard_time": 1670006170,
-      "rank": 43,
       "category": "体育"
     },
     {
