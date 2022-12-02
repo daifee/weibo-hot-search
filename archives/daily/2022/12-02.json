@@ -1,18 +1,34 @@
 {
   "startTime": 1669912152284,
-  "endTime": 1669937688952,
+  "endTime": 1669944967814,
   "band_list": [
     {
       "raw_hot": 1984879,
-      "num": 818115,
+      "num": 911958,
       "word": "德国无缘16强",
       "onboard_time": 1669929187,
       "rank": 11,
       "category": "体育"
     },
     {
+      "raw_hot": 1678203,
+      "num": 931802,
+      "word": "官方通报杭州大白暴力拉人隔离",
+      "onboard_time": 1669937766,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1549950,
+      "num": 920110,
+      "word": "世界杯最刺激一晚",
+      "onboard_time": 1669939929,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1543746,
-      "num": 817358,
+      "num": 876869,
       "word": "日本2比1反超西班牙",
       "onboard_time": 1669926968,
       "rank": 3,
@@ -27,6 +43,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1107292,
+      "num": 867650,
+      "word": "男婴被喂水呛咳死亡父亲以为其睡着",
+      "onboard_time": 1669943671,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1075942,
       "num": 741190,
       "word": "这种戒指真的不建议戴",
@@ -35,12 +59,44 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1022505,
+      "num": 858019,
+      "word": "女子印度街头直播被男子强吻",
+      "onboard_time": 1669941788,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 884785,
+      "num": 848547,
+      "word": "男子车祸后以为是1993年立刻向妻求婚",
+      "onboard_time": 1669942869,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 834519,
-      "num": 840871,
+      "num": 951137,
       "word": "江泽民同志遗体由专机敬移北京",
       "onboard_time": 1669893193,
       "rank": 0,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 833585,
+      "num": 905069,
+      "word": "森保一 田忌赛马",
+      "onboard_time": 1669936987,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 826375,
+      "num": 894626,
+      "word": "深圳取消常态化核酸系谣言",
+      "onboard_time": 1669938728,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 791034,
@@ -51,8 +107,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 786430,
+      "num": 846528,
+      "word": "女子二胎怀3胞胎出行要靠轮椅",
+      "onboard_time": 1669938248,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 723824,
-      "num": 769040,
+      "num": 778378,
       "word": "银行每人限时5秒撕卫生纸引争议",
       "onboard_time": 1669936268,
       "rank": 30,
@@ -64,6 +128,14 @@
       "word": "不参加社区核酸筛查人员如何就医",
       "onboard_time": 1669913229,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 714298,
+      "num": 882822,
+      "word": "做核酸是否硬性要求",
+      "onboard_time": 1669939447,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -99,11 +171,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 592843,
+      "num": 832123,
+      "word": "推特开始删除虚假账户",
+      "onboard_time": 1669941429,
+      "rank": 14,
+      "category": "科技"
+    },
+    {
       "raw_hot": 582592,
       "num": 773793,
       "word": "谈好400元租房第二天房东加价到1000",
       "onboard_time": 1669909693,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 562731,
+      "num": 823123,
+      "word": "大爷300斤萝卜被偷找到已成萝卜丝",
+      "onboard_time": 1669942928,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -113,6 +201,46 @@
       "onboard_time": 1669909693,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 561032,
+      "num": 820220,
+      "word": "北京增3026例本土无症状",
+      "onboard_time": 1669942328,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 475926,
+      "num": 809838,
+      "word": "成都地铁不再查验核酸检测报告",
+      "onboard_time": 1669943169,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 470787,
+      "num": 799976,
+      "word": "日本球迷向首相请愿全国放假",
+      "onboard_time": 1669941129,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 469475,
+      "num": 789482,
+      "word": "金毛从山上领回一只狍子",
+      "onboard_time": 1669940289,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 433865,
+      "num": 773588,
+      "word": "男子吐槽速食麻辣烫8包料5包是调味",
+      "onboard_time": 1669940109,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 419744,
@@ -155,12 +283,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 349596,
+      "num": 766550,
+      "word": "德国 虽败犹荣",
+      "onboard_time": 1669941068,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 343892,
       "num": 669937,
       "word": "优衣库创始人称在中国开3000家店还不够",
       "onboard_time": 1669901532,
       "rank": 9,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 342061,
+      "num": 757418,
+      "word": "日本主帅说能进世界杯八强",
+      "onboard_time": 1669941190,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 317784,
@@ -211,8 +355,16 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 259059,
+      "num": 720666,
+      "word": "特等功臣女扮男装参加八路军",
+      "onboard_time": 1669942569,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 257260,
-      "num": 832229,
+      "num": 934171,
       "word": "各地持续优化新冠肺炎疫情防控举措",
       "onboard_time": 1669905370,
       "rank": 2,
@@ -227,6 +379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 246285,
+      "num": 710795,
+      "word": "妈妈给女儿送饭放雪地忘取成冰坨",
+      "onboard_time": 1669938610,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 237245,
       "num": 420002,
       "word": "苏亚雷斯拒绝为2010年手球道歉",
@@ -235,20 +395,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 233532,
+      "num": 733372,
+      "word": "6位航天员在太空拼桌吃饭",
+      "onboard_time": 1669936687,
+      "rank": 48,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 222825,
       "num": 698307,
       "word": "哥斯达黎加2比4德国",
       "onboard_time": 1669929068,
       "rank": 12,
       "category": "体育"
-    },
-    {
-      "raw_hot": 209970,
-      "num": 733372,
-      "word": "6位航天员在太空拼桌吃饭",
-      "onboard_time": 1669936687,
-      "rank": 48,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 206245,
@@ -275,6 +435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 197962,
+      "num": 672753,
+      "word": "开车接打电话要扣3分",
+      "onboard_time": 1669939628,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 194591,
       "num": 571160,
       "word": "欧盟已冻结俄3000亿欧元储备",
@@ -288,6 +456,14 @@
       "word": "德国队连续两届世界杯小组赛出局",
       "onboard_time": 1669936209,
       "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 176828,
+      "num": 651412,
+      "word": "卢卡库赛后砸碎玻璃",
+      "onboard_time": 1669939812,
+      "rank": 35,
       "category": "体育"
     },
     {
@@ -347,11 +523,43 @@
       "category": "体育"
     },
     {
-      "raw_hot": 160817,
-      "num": 615569,
-      "word": "森保一 田忌赛马",
-      "onboard_time": 1669936987,
-      "rank": 30,
+      "raw_hot": 159839,
+      "num": 611832,
+      "word": "95后支教老师将后进班变成年级第一",
+      "onboard_time": 1669944010,
+      "rank": 40,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 154473,
+      "num": 598206,
+      "word": "黄健翔不敢嘲笑日本队痴人说梦了",
+      "onboard_time": 1669944730,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 148728,
+      "num": 592395,
+      "word": "办理电话卡银行卡不得超出限制数量",
+      "onboard_time": 1669939867,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147752,
+      "num": 578454,
+      "word": "诺伊尔 告别世界杯",
+      "onboard_time": 1669938368,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 146964,
+      "num": 569035,
+      "word": "日本队争议进球",
+      "onboard_time": 1669940410,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -387,12 +595,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 139706,
+      "num": 561197,
+      "word": "卢卡库哭了",
+      "onboard_time": 1669937888,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 138437,
       "num": 523725,
       "word": "比利时黄金一代谢幕",
       "onboard_time": 1669915747,
       "rank": 31,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 137295,
+      "num": 557110,
+      "word": "德布劳内 遗憾",
+      "onboard_time": 1669938429,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 135785,
@@ -428,7 +652,7 @@
     },
     {
       "raw_hot": 125782,
-      "num": 833480,
+      "num": 949762,
       "word": "12月6日隆重举行江泽民同志追悼大会",
       "onboard_time": 1669889471,
       "rank": 1,
@@ -448,6 +672,14 @@
       "word": "民警一路狂奔保住760万",
       "onboard_time": 1669936386,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 122373,
+      "num": 534539,
+      "word": "国务院联防联控机制专家回应热点",
+      "onboard_time": 1669944908,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
