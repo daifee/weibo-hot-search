@@ -1,6 +1,6 @@
 {
   "startTime": 1669912152284,
-  "endTime": 1669990613681,
+  "endTime": 1669991605062,
   "band_list": [
     {
       "raw_hot": 6453532,
@@ -177,6 +177,14 @@
       "onboard_time": 1669958771,
       "rank": 36,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1273215,
+      "num": 628027,
+      "word": "男孩偷吃雌激素处方药乳房发育",
+      "onboard_time": 1669989131,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1209538,
@@ -363,6 +371,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 746697,
+      "num": 1366516,
+      "word": "韩国vs葡萄牙",
+      "onboard_time": 1669957991,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 723824,
       "num": 778378,
       "word": "银行每人限时5秒撕卫生纸引争议",
@@ -499,14 +515,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 595717,
-      "num": 628027,
-      "word": "男孩偷吃雌激素处方药乳房发育",
-      "onboard_time": 1669989131,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 585359,
       "num": 1608634,
       "word": "核酸企业该不该上市",
@@ -587,6 +595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 554184,
+      "num": 654668,
+      "word": "新冠抗原自测手把手教学",
+      "onboard_time": 1669987031,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 547800,
       "num": 1136825,
       "word": "科学家发现管不住嘴神经元",
@@ -635,12 +651,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 501687,
-      "num": 1366516,
-      "word": "韩国vs葡萄牙",
-      "onboard_time": 1669957991,
-      "rank": 46,
-      "category": "体育"
+      "raw_hot": 507702,
+      "num": 589283,
+      "word": "小伙患怪病身高从1米8变1米7",
+      "onboard_time": 1669989250,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 493211,
@@ -675,12 +691,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 471929,
-      "num": 654668,
-      "word": "新冠抗原自测手把手教学",
-      "onboard_time": 1669987031,
-      "rank": 35,
-      "category": "社会新闻"
+      "raw_hot": 471400,
+      "num": 583105,
+      "word": "葡萄牙首发",
+      "onboard_time": 1669989430,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 469475,
@@ -737,6 +753,14 @@
       "onboard_time": 1669949710,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 424723,
+      "num": 563091,
+      "word": "猫吃卫仕猫粮口吐白沫",
+      "onboard_time": 1669988772,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 419744,
@@ -843,6 +867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 372124,
+      "num": 538673,
+      "word": "羽绒服是不是越厚越保暖",
+      "onboard_time": 1669989615,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 368328,
       "num": 533582,
       "word": "国美电器已被申请破产清算",
@@ -888,14 +920,6 @@
       "word": "男子从高风险返乡未报备听从安排",
       "onboard_time": 1669947249,
       "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 350171,
-      "num": 589283,
-      "word": "小伙患怪病身高从1米8变1米7",
-      "onboard_time": 1669989250,
-      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -979,22 +1003,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 294684,
-      "num": 563091,
-      "word": "猫吃卫仕猫粮口吐白沫",
-      "onboard_time": 1669988772,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 292263,
-      "num": 553698,
-      "word": "葡萄牙首发",
-      "onboard_time": 1669989430,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 290409,
       "num": 930344,
       "word": "广州多区恢复堂食烟火气渐浓",
@@ -1008,6 +1016,14 @@
       "word": "300元衣服老人穿28年依旧如新",
       "onboard_time": 1669968671,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 287793,
+      "num": 542063,
+      "word": "斯诺登正式成为俄罗斯公民",
+      "onboard_time": 1669988231,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -1088,14 +1104,6 @@
       "word": "阳性居家隔离操作手册",
       "onboard_time": 1669973831,
       "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 262171,
-      "num": 542063,
-      "word": "斯诺登正式成为俄罗斯公民",
-      "onboard_time": 1669988231,
-      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -1315,6 +1323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 194062,
+      "num": 501631,
+      "word": "清冷感知识分子妆",
+      "onboard_time": 1669985773,
+      "rank": 38,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 191705,
       "num": 930709,
       "word": "威海大雪深不见脚",
@@ -1345,14 +1361,6 @@
       "onboard_time": 1669889471,
       "rank": 1,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 184996,
-      "num": 501631,
-      "word": "清冷感知识分子妆",
-      "onboard_time": 1669985773,
-      "rank": 38,
-      "category": "美妆"
     },
     {
       "raw_hot": 182965,
@@ -1393,14 +1401,6 @@
       "onboard_time": 1669974012,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 177310,
-      "num": 491057,
-      "word": "羽绒服是不是越厚越保暖",
-      "onboard_time": 1669989615,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 177205,
@@ -1561,6 +1561,14 @@
       "onboard_time": 1669954510,
       "rank": 37,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 149691,
+      "num": 431556,
+      "word": "男子潜水连续两次被当成大鱼钓上岸",
+      "onboard_time": 1669990750,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 148728,
@@ -1907,7 +1915,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 106945,
+      "raw_hot": 106989,
       "num": 397598,
       "word": "男子随手种的仙人掌5年长10米高",
       "onboard_time": 1669987391,
