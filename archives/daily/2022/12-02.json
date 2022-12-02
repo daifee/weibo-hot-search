@@ -1,6 +1,6 @@
 {
   "startTime": 1669912152284,
-  "endTime": 1669969409717,
+  "endTime": 1669970245267,
   "band_list": [
     {
       "raw_hot": 6453532,
@@ -283,12 +283,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 692593,
+      "num": 542088,
+      "word": "卫健局回应一新生婴儿在医院去世",
+      "onboard_time": 1669967232,
+      "rank": 12,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 680099,
       "num": 731926,
       "word": "西安通报一高层住宅楼火灾致5死",
       "onboard_time": 1669908671,
       "rank": 14,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 675301,
+      "num": 1245916,
+      "word": "西班牙主教练称被日本打崩了",
+      "onboard_time": 1669965311,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 673245,
@@ -329,14 +345,6 @@
       "onboard_time": 1669941429,
       "rank": 14,
       "category": "科技"
-    },
-    {
-      "raw_hot": 634607,
-      "num": 1245916,
-      "word": "西班牙主教练称被日本打崩了",
-      "onboard_time": 1669965311,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 605148,
@@ -411,12 +419,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 515414,
-      "num": 523359,
-      "word": "卫健局回应一新生婴儿在医院去世",
-      "onboard_time": 1669967232,
-      "rank": 12,
-      "category": "社会负面"
+      "raw_hot": 509918,
+      "num": 558173,
+      "word": "卡塔尔小王子晒中国粉丝手绘",
+      "onboard_time": 1669968131,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 509205,
@@ -507,12 +515,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 410691,
+      "num": 908312,
+      "word": "女销售临盆前坚持接客户电话",
+      "onboard_time": 1669966214,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 409027,
       "num": 892963,
       "word": "日本主帅说能进世界杯八强",
       "onboard_time": 1669941190,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 408097,
+      "num": 529589,
+      "word": "周琦被入室盗窃",
+      "onboard_time": 1669969274,
+      "rank": 42,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 404060,
@@ -563,6 +587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 360624,
+      "num": 516159,
+      "word": "92号汽油或将重回7元时代",
+      "onboard_time": 1669968971,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 360567,
       "num": 659293,
       "word": "小猫咪真的好像个小宝宝啊",
@@ -571,11 +603,11 @@
       "category": "情感"
     },
     {
-      "raw_hot": 358119,
-      "num": 908312,
-      "word": "女销售临盆前坚持接客户电话",
-      "onboard_time": 1669966214,
-      "rank": 45,
+      "raw_hot": 359134,
+      "num": 510702,
+      "word": "夫妻间经常谩骂侮辱也算家暴",
+      "onboard_time": 1669967471,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -619,6 +651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 312847,
+      "num": 496895,
+      "word": "90后男子待业5年欠30万贷款",
+      "onboard_time": 1669967351,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 305019,
       "num": 647879,
       "word": "广东变成了广冻",
@@ -651,12 +691,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 300821,
-      "num": 493793,
-      "word": "卡塔尔小王子晒中国粉丝手绘",
-      "onboard_time": 1669968131,
-      "rank": 18,
-      "category": "体育"
+      "raw_hot": 297301,
+      "num": 494560,
+      "word": "天津地铁取消72小时核酸查验",
+      "onboard_time": 1669969391,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 290409,
@@ -667,12 +707,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 288363,
-      "num": 482151,
-      "word": "夫妻间经常谩骂侮辱也算家暴",
-      "onboard_time": 1669967471,
-      "rank": 20,
-      "category": "社会新闻"
+      "raw_hot": 286421,
+      "num": 489588,
+      "word": "韩媒抱怨VAR不帮韩国",
+      "onboard_time": 1669968192,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 286077,
@@ -755,14 +795,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 255765,
-      "num": 465593,
-      "word": "90后男子待业5年欠30万贷款",
-      "onboard_time": 1669967351,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 249344,
       "num": 280288,
       "word": "哥斯达黎加vs德国",
@@ -843,6 +875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 222295,
+      "num": 456910,
+      "word": "300元衣服老人穿28年依旧如新",
+      "onboard_time": 1669968671,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 219747,
       "num": 1311784,
       "word": "知情人士称恒大汽车总部将解散消息不实",
@@ -891,6 +931,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 202880,
+      "num": 428446,
+      "word": "为何日本第二个进球不算出界",
+      "onboard_time": 1669966511,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 199326,
       "num": 704617,
       "word": "女子求职面试后老板报价2万约饭",
@@ -905,14 +953,6 @@
       "onboard_time": 1669939628,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 197010,
-      "num": 428853,
-      "word": "韩媒抱怨VAR不帮韩国",
-      "onboard_time": 1669968192,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 194591,
@@ -939,6 +979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 188608,
+      "num": 412455,
+      "word": "2023年度流行色",
+      "onboard_time": 1669969511,
+      "rank": 35,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 188269,
       "num": 949762,
       "word": "12月6日隆重举行江泽民同志追悼大会",
@@ -947,12 +995,12 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 181687,
-      "num": 415889,
-      "word": "为何日本第二个进球不算出界",
-      "onboard_time": 1669966511,
-      "rank": 33,
-      "category": "体育"
+      "raw_hot": 182965,
+      "num": 410712,
+      "word": "苹果新专利可实现SIM卡转换eSIM",
+      "onboard_time": 1669967232,
+      "rank": 35,
+      "category": "科技"
     },
     {
       "raw_hot": 181235,
@@ -1043,14 +1091,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 163421,
-      "num": 404180,
-      "word": "苹果新专利可实现SIM卡转换eSIM",
-      "onboard_time": 1669967232,
-      "rank": 35,
-      "category": "科技"
-    },
-    {
       "raw_hot": 163063,
       "num": 634325,
       "word": "卢卡库",
@@ -1137,22 +1177,6 @@
       "onboard_time": 1669959613,
       "rank": 37,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 142130,
-      "num": 393769,
-      "word": "300元衣服老人穿28年依旧如新",
-      "onboard_time": 1669968671,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 141885,
-      "num": 390988,
-      "word": "92号汽油或将重回7元时代",
-      "onboard_time": 1669968971,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 140388,
@@ -1259,6 +1283,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 131029,
+      "num": 586161,
+      "word": "从太空看全球红树林治理",
+      "onboard_time": 1669968851,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 127607,
       "num": 127607,
       "word": "山东人有多爱面食",
@@ -1297,22 +1329,6 @@
       "onboard_time": 1669965911,
       "rank": 42,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 120656,
-      "num": 368123,
-      "word": "周琦被入室盗窃",
-      "onboard_time": 1669969274,
-      "rank": 42,
-      "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 119139,
-      "num": 357871,
-      "word": "天津地铁取消72小时核酸查验",
-      "onboard_time": 1669969391,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 115603,
@@ -1483,6 +1499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 88600,
+      "num": 340809,
+      "word": "索尼电视三换主板仍有问题",
+      "onboard_time": 1669970172,
+      "rank": 49,
+      "category": "科技"
+    },
+    {
       "raw_hot": 87408,
       "num": 87408,
       "word": "哈工大学生回应被安排专机返乡",
@@ -1553,14 +1577,6 @@
       "onboard_time": 1669905072,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 70065,
-      "num": 574021,
-      "word": "从太空看全球红树林治理",
-      "onboard_time": 1669968851,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 67887,
