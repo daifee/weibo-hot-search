@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1669998371554,
+  "endTime": 1669999452711,
   "band_list": [
     {
       "raw_hot": 6453532,
@@ -1347,6 +1347,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 488837,
+      "num": 641145,
+      "word": "C罗乌龙助攻",
+      "onboard_time": 1669998252,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 488569,
       "num": 488569,
       "word": "低温烫伤可导致皮肤深层组织坏死",
@@ -1369,6 +1377,14 @@
       "onboard_time": 1669804610,
       "rank": 19,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 477282,
+      "num": 706613,
+      "word": "韩国半场1比1葡萄牙",
+      "onboard_time": 1669996510,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 474513,
@@ -1521,14 +1537,6 @@
       "onboard_time": 1669818495,
       "rank": 6,
       "category": "军事"
-    },
-    {
-      "raw_hot": 421007,
-      "num": 706613,
-      "word": "韩国半场1比1葡萄牙",
-      "onboard_time": 1669996510,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 420926,
@@ -1803,6 +1811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 352397,
+      "num": 660640,
+      "word": "韩国教练坐观众席",
+      "onboard_time": 1669996571,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 347022,
       "num": 347022,
       "word": "第一次见这么潦草的猫",
@@ -1891,6 +1907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 328784,
+      "num": 610551,
+      "word": "智齿该拔就得拔",
+      "onboard_time": 1669997052,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 328611,
       "num": 306973,
       "word": "原来还有无痛起床",
@@ -1961,14 +1985,6 @@
       "onboard_time": 1669852088,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 305567,
-      "num": 660640,
-      "word": "韩国教练坐观众席",
-      "onboard_time": 1669996571,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 305019,
@@ -2339,6 +2355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 235328,
+      "num": 578051,
+      "word": "贵州茅台11亿成立房地产开发公司",
+      "onboard_time": 1669997951,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 234353,
       "num": 686655,
       "word": "脑瘫女孩当美妆博主走红回应被质疑",
@@ -2441,14 +2465,6 @@
       "onboard_time": 1669929068,
       "rank": 12,
       "category": "体育"
-    },
-    {
-      "raw_hot": 221460,
-      "num": 603192,
-      "word": "智齿该拔就得拔",
-      "onboard_time": 1669997052,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 219747,
@@ -2907,6 +2923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 171384,
+      "num": 535661,
+      "word": "C罗被换下",
+      "onboard_time": 1669999089,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 168972,
       "num": 919881,
       "word": "巴西队球员孩子从小踢足球",
@@ -2976,14 +3000,6 @@
       "word": "哈弗茨替补破门",
       "onboard_time": 1669928408,
       "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 162218,
-      "num": 567672,
-      "word": "C罗乌龙助攻",
-      "onboard_time": 1669998252,
-      "rank": 32,
       "category": "体育"
     },
     {
@@ -3088,6 +3104,14 @@
       "word": "C罗即将加盟沙特豪门",
       "onboard_time": 1669803229,
       "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 150348,
+      "num": 508707,
+      "word": "韩国观众镜头",
+      "onboard_time": 1669999330,
+      "rank": 33,
       "category": "体育"
     },
     {
@@ -3475,6 +3499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 122367,
+      "num": 497498,
+      "word": "孙兴慜的偶像是C罗",
+      "onboard_time": 1669990032,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 122060,
       "num": 474312,
       "word": "卡塔尔画家创作1万平米世界杯画作",
@@ -3537,6 +3569,14 @@
       "onboard_time": 1669850648,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 116785,
+      "num": 477371,
+      "word": "佩佩39岁状态",
+      "onboard_time": 1669999031,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 116298,
@@ -3619,6 +3659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 111505,
+      "num": 472560,
+      "word": "在卡塔尔住2000元一晚的酒店是什么体验",
+      "onboard_time": 1669998190,
+      "rank": 39,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 111168,
       "num": 595802,
       "word": "韩乔生一首回家送给德国",
@@ -3665,14 +3713,6 @@
       "onboard_time": 1669824433,
       "rank": 35,
       "category": "科技"
-    },
-    {
-      "raw_hot": 109085,
-      "num": 497498,
-      "word": "孙兴慜的偶像是C罗",
-      "onboard_time": 1669990032,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 108586,
@@ -3849,14 +3889,6 @@
       "onboard_time": 1669850468,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 98548,
-      "num": 480734,
-      "word": "贵州茅台11亿成立房地产开发公司",
-      "onboard_time": 1669997951,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 98255,

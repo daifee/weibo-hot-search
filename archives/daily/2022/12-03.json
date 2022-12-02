@@ -1,6 +1,6 @@
 {
   "startTime": 1669998371554,
-  "endTime": 1669998371554,
+  "endTime": 1669999452711,
   "band_list": [
     {
       "raw_hot": 2037804,
@@ -59,11 +59,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 488837,
+      "num": 641145,
+      "word": "C罗乌龙助攻",
+      "onboard_time": 1669998252,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 481469,
       "num": 744680,
       "word": "葡萄牙开场五分钟进球",
       "onboard_time": 1669994414,
       "rank": 7,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 477282,
+      "num": 706613,
+      "word": "韩国半场1比1葡萄牙",
+      "onboard_time": 1669996510,
+      "rank": 13,
       "category": "体育"
     },
     {
@@ -83,14 +99,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 421007,
-      "num": 706613,
-      "word": "韩国半场1比1葡萄牙",
-      "onboard_time": 1669996510,
-      "rank": 13,
-      "category": "体育"
-    },
-    {
       "raw_hot": 399427,
       "num": 695988,
       "word": "核酸检测乱象耗的是国库伤的是民心",
@@ -105,6 +113,14 @@
       "onboard_time": 1669993031,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 352397,
+      "num": 660640,
+      "word": "韩国教练坐观众席",
+      "onboard_time": 1669996571,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 344868,
@@ -131,20 +147,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 328784,
+      "num": 610551,
+      "word": "智齿该拔就得拔",
+      "onboard_time": 1669997052,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 323107,
       "num": 790307,
       "word": "江泽民同志生平",
       "onboard_time": 1669979534,
       "rank": 0,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 305567,
-      "num": 660640,
-      "word": "韩国教练坐观众席",
-      "onboard_time": 1669996571,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 286300,
@@ -179,6 +195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 235328,
+      "num": 578051,
+      "word": "贵州茅台11亿成立房地产开发公司",
+      "onboard_time": 1669997951,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 234353,
       "num": 628542,
       "word": "脑瘫女孩当美妆博主走红回应被质疑",
@@ -200,14 +224,6 @@
       "word": "羽绒服是不是越厚越保暖",
       "onboard_time": 1669989615,
       "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 221460,
-      "num": 603192,
-      "word": "智齿该拔就得拔",
-      "onboard_time": 1669997052,
-      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -235,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 171384,
+      "num": 535661,
+      "word": "C罗被换下",
+      "onboard_time": 1669999089,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 169972,
       "num": 790242,
       "word": "江泽民伟大光辉的一生",
@@ -251,11 +275,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 162218,
-      "num": 567672,
-      "word": "C罗乌龙助攻",
-      "onboard_time": 1669998252,
-      "rank": 32,
+      "raw_hot": 150348,
+      "num": 508707,
+      "word": "韩国观众镜头",
+      "onboard_time": 1669999330,
+      "rank": 33,
       "category": "体育"
     },
     {
@@ -299,12 +323,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 122367,
+      "num": 497498,
+      "word": "孙兴慜的偶像是C罗",
+      "onboard_time": 1669990032,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121259,
       "num": 532018,
       "word": "斯诺登正式成为俄罗斯公民",
       "onboard_time": 1669988231,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 116785,
+      "num": 477371,
+      "word": "佩佩39岁状态",
+      "onboard_time": 1669999031,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 114789,
@@ -331,6 +371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 111505,
+      "num": 472560,
+      "word": "在卡塔尔住2000元一晚的酒店是什么体验",
+      "onboard_time": 1669998190,
+      "rank": 39,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 110052,
       "num": 498880,
       "word": "丈夫捐器官3年后妻子获优先移植",
@@ -339,27 +387,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 109085,
-      "num": 497498,
-      "word": "孙兴慜的偶像是C罗",
-      "onboard_time": 1669990032,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 99373,
       "num": 484899,
       "word": "沃尔玛回应火腿骨头外贴一层瘦肉",
       "onboard_time": 1669980072,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 98548,
-      "num": 480734,
-      "word": "贵州茅台11亿成立房地产开发公司",
-      "onboard_time": 1669997951,
-      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -406,6 +438,9 @@
   "hotgov_list": [
     {
       "word": "#江泽民同志永垂不朽#"
+    },
+    {
+      "word": "#12月6日隆重举行江泽民同志追悼大会#"
     }
   ]
 }
