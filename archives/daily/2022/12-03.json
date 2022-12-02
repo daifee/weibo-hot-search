@@ -1,6 +1,6 @@
 {
   "startTime": 1669998371554,
-  "endTime": 1670001437093,
+  "endTime": 1670002423449,
   "band_list": [
     {
       "raw_hot": 4176911,
@@ -16,6 +16,14 @@
       "word": "韩国vs葡萄牙",
       "onboard_time": 1669990332,
       "rank": 3,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2324254,
+      "num": 1851180,
+      "word": "苏亚雷斯哭了",
+      "onboard_time": 1670001190,
+      "rank": 16,
       "category": "体育"
     },
     {
@@ -91,11 +99,43 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 864038,
+      "num": 1866930,
+      "word": "C罗孙兴慜拥抱致意",
+      "onboard_time": 1670000471,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 841581,
+      "num": 1677244,
+      "word": "孙兴慜哭了",
+      "onboard_time": 1670001070,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 836946,
       "num": 1717511,
       "word": "C罗",
       "onboard_time": 1669987991,
       "rank": 5,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 686630,
+      "num": 1811093,
+      "word": "韩国出线",
+      "onboard_time": 1670001070,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 662243,
+      "num": 1560701,
+      "word": "不给乌拉圭点球",
+      "onboard_time": 1670001731,
+      "rank": 14,
       "category": "体育"
     },
     {
@@ -131,6 +171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 475204,
+      "num": 1556115,
+      "word": "苏亚雷斯",
+      "onboard_time": 1670001431,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 475176,
       "num": 1899299,
       "word": "韩国绝杀",
@@ -139,27 +187,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 467279,
-      "num": 1866930,
-      "word": "C罗孙兴慜拥抱致意",
-      "onboard_time": 1670000471,
-      "rank": 15,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 466354,
-      "num": 1851180,
-      "word": "苏亚雷斯哭了",
-      "onboard_time": 1670001190,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 434183,
       "num": 1309407,
       "word": "韩国扳平",
       "onboard_time": 1669995131,
       "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 431812,
+      "num": 1740029,
+      "word": "葡萄牙小组第一出线",
+      "onboard_time": 1670000711,
+      "rank": 22,
       "category": "体育"
     },
     {
@@ -177,14 +217,6 @@
       "onboard_time": 1669974190,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 388725,
-      "num": 1811093,
-      "word": "韩国出线",
-      "onboard_time": 1670001070,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 383648,
@@ -209,14 +241,6 @@
       "onboard_time": 1669997951,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 357261,
-      "num": 1740029,
-      "word": "葡萄牙小组第一出线",
-      "onboard_time": 1670000711,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 355779,
@@ -267,12 +291,12 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 317586,
-      "num": 1677244,
-      "word": "孙兴慜哭了",
-      "onboard_time": 1670001070,
-      "rank": 25,
-      "category": "体育"
+      "raw_hot": 308337,
+      "num": 1574692,
+      "word": "在卡塔尔住2000元一晚的酒店是什么体验",
+      "onboard_time": 1669998190,
+      "rank": 39,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 286300,
@@ -299,22 +323,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 265972,
-      "num": 1574692,
-      "word": "在卡塔尔住2000元一晚的酒店是什么体验",
-      "onboard_time": 1669998190,
-      "rank": 39,
-      "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 258608,
-      "num": 1556115,
-      "word": "苏亚雷斯",
-      "onboard_time": 1670001431,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 258267,
       "num": 1309780,
       "word": "95后妈妈回应二胎生下3女儿",
@@ -329,6 +337,14 @@
       "onboard_time": 1669983072,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 239362,
+      "num": 1421082,
+      "word": "乌拉圭 裁判",
+      "onboard_time": 1670002091,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 234353,
@@ -361,6 +377,14 @@
       "onboard_time": 1669983671,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 186726,
+      "num": 1332510,
+      "word": "孙兴慜助攻",
+      "onboard_time": 1670002091,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 185578,
@@ -427,12 +451,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123474,
+      "num": 1266667,
+      "word": "黄喜灿绝杀",
+      "onboard_time": 1670002030,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121259,
       "num": 532018,
       "word": "斯诺登正式成为俄罗斯公民",
       "onboard_time": 1669988231,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 117276,
+      "num": 1215708,
+      "word": "乌拉圭小组出局",
+      "onboard_time": 1670001851,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 114789,
@@ -505,6 +545,14 @@
       "onboard_time": 1669978391,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 73410,
+      "num": 1103683,
+      "word": "西班牙队否认放水",
+      "onboard_time": 1670002331,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 32824,

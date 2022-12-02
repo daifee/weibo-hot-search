@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1670001437093,
+  "endTime": 1670002423449,
   "band_list": [
     {
       "raw_hot": 6453532,
@@ -113,6 +113,14 @@
       "onboard_time": 1669868772,
       "rank": 12,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 2324254,
+      "num": 1851180,
+      "word": "苏亚雷斯哭了",
+      "onboard_time": 1670001190,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 2319836,
@@ -675,6 +683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 864038,
+      "num": 1866930,
+      "word": "C罗孙兴慜拥抱致意",
+      "onboard_time": 1670000471,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 860794,
       "num": 1113792,
       "word": "卫健局回应一新生婴儿在医院去世",
@@ -721,6 +737,14 @@
       "onboard_time": 1669885572,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 841581,
+      "num": 1677244,
+      "word": "孙兴慜哭了",
+      "onboard_time": 1670001070,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 841043,
@@ -995,6 +1019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 686630,
+      "num": 1811093,
+      "word": "韩国出线",
+      "onboard_time": 1670001070,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 685881,
       "num": 685881,
       "word": "山东省考",
@@ -1057,6 +1089,14 @@
       "onboard_time": 1669953069,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 662243,
+      "num": 1560701,
+      "word": "不给乌拉圭点球",
+      "onboard_time": 1670001731,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 660017,
@@ -1435,6 +1475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 475204,
+      "num": 1556115,
+      "word": "苏亚雷斯",
+      "onboard_time": 1670001431,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 475176,
       "num": 1899299,
       "word": "韩国绝杀",
@@ -1473,22 +1521,6 @@
       "onboard_time": 1669985232,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 467279,
-      "num": 1866930,
-      "word": "C罗孙兴慜拥抱致意",
-      "onboard_time": 1670000471,
-      "rank": 15,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 466354,
-      "num": 1851180,
-      "word": "苏亚雷斯哭了",
-      "onboard_time": 1670001190,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 458763,
@@ -1561,6 +1593,14 @@
       "onboard_time": 1669940109,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 431812,
+      "num": 1740029,
+      "word": "葡萄牙小组第一出线",
+      "onboard_time": 1670000711,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 431333,
@@ -1755,14 +1795,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 388725,
-      "num": 1811093,
-      "word": "韩国出线",
-      "onboard_time": 1670001070,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 386907,
       "num": 698599,
       "word": "沃尔玛回应火腿骨头外贴一层瘦肉",
@@ -1881,14 +1913,6 @@
       "onboard_time": 1669997951,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 357261,
-      "num": 1740029,
-      "word": "葡萄牙小组第一出线",
-      "onboard_time": 1670000711,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 355779,
@@ -2075,20 +2099,20 @@
       "category": "美妆,社会新闻"
     },
     {
-      "raw_hot": 317586,
-      "num": 1677244,
-      "word": "孙兴慜哭了",
-      "onboard_time": 1670001070,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 311593,
       "num": 311593,
       "word": "深圳不以时空伴随作为判定密接标准",
       "onboard_time": 1669852088,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 308337,
+      "num": 1574692,
+      "word": "在卡塔尔住2000元一晚的酒店是什么体验",
+      "onboard_time": 1669998190,
+      "rank": 39,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 305019,
@@ -2339,14 +2363,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 265972,
-      "num": 1574692,
-      "word": "在卡塔尔住2000元一晚的酒店是什么体验",
-      "onboard_time": 1669998190,
-      "rank": 39,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 264618,
       "num": 264618,
       "word": "HM裁员1500人",
@@ -2393,14 +2409,6 @@
       "onboard_time": 1669990750,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 258608,
-      "num": 1556115,
-      "word": "苏亚雷斯",
-      "onboard_time": 1670001431,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 258603,
@@ -2464,6 +2472,14 @@
       "word": "加拿大vs摩洛哥",
       "onboard_time": 1669886234,
       "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 239362,
+      "num": 1421082,
+      "word": "乌拉圭 裁判",
+      "onboard_time": 1670002091,
+      "rank": 23,
       "category": "体育"
     },
     {
@@ -2865,6 +2881,14 @@
       "onboard_time": 1669854969,
       "rank": 29,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 186726,
+      "num": 1332510,
+      "word": "孙兴慜助攻",
+      "onboard_time": 1670002091,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 186241,
@@ -3595,6 +3619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123474,
+      "num": 1266667,
+      "word": "黄喜灿绝杀",
+      "onboard_time": 1670002030,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 122518,
       "num": 122518,
       "word": "8旬父亲用扫把给儿子轿车扫雪",
@@ -3656,6 +3688,14 @@
       "word": "沙特阿拉伯半场0比0墨西哥",
       "onboard_time": 1669842429,
       "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 117276,
+      "num": 1215708,
+      "word": "乌拉圭小组出局",
+      "onboard_time": 1670001851,
+      "rank": 36,
       "category": "体育"
     },
     {
@@ -4201,6 +4241,14 @@
       "onboard_time": 1669810219,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 73410,
+      "num": 1103683,
+      "word": "西班牙队否认放水",
+      "onboard_time": 1670002331,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 70312,

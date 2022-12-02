@@ -1,6 +1,6 @@
 {
   "startTime": 1669566398830,
-  "endTime": 1670001437093,
+  "endTime": 1670002423449,
   "band_list": [
     {
       "raw_hot": 71270277,
@@ -376,6 +376,14 @@
       "word": "又爆冷一场",
       "onboard_time": 1669562321,
       "rank": 1,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2324254,
+      "num": 1851180,
+      "word": "苏亚雷斯哭了",
+      "onboard_time": 1670001190,
+      "rank": 16,
       "category": "体育"
     },
     {
@@ -2075,6 +2083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 864038,
+      "num": 1866930,
+      "word": "C罗孙兴慜拥抱致意",
+      "onboard_time": 1670000471,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 860794,
       "num": 1113792,
       "word": "卫健局回应一新生婴儿在医院去世",
@@ -2145,6 +2161,14 @@
       "onboard_time": 1669885572,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 841581,
+      "num": 1677244,
+      "word": "孙兴慜哭了",
+      "onboard_time": 1670001070,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 841270,
@@ -2915,6 +2939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 686630,
+      "num": 1811093,
+      "word": "韩国出线",
+      "onboard_time": 1670001070,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 685881,
       "num": 685881,
       "word": "山东省考",
@@ -3057,6 +3089,14 @@
       "onboard_time": 1669953069,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 662243,
+      "num": 1560701,
+      "word": "不给乌拉圭点球",
+      "onboard_time": 1670001731,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 660017,
@@ -4275,6 +4315,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 475204,
+      "num": 1556115,
+      "word": "苏亚雷斯",
+      "onboard_time": 1670001431,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 475176,
       "num": 1899299,
       "word": "韩国绝杀",
@@ -4347,14 +4395,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 467279,
-      "num": 1866930,
-      "word": "C罗孙兴慜拥抱致意",
-      "onboard_time": 1670000471,
-      "rank": 15,
-      "category": "体育"
-    },
-    {
       "raw_hot": 466854,
       "num": 466854,
       "word": "全国下雪到成都只剩头皮雪",
@@ -4369,14 +4409,6 @@
       "onboard_time": 1669777641,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 466354,
-      "num": 1851180,
-      "word": "苏亚雷斯哭了",
-      "onboard_time": 1670001190,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 466108,
@@ -4777,6 +4809,14 @@
       "onboard_time": 1669816421,
       "rank": 31,
       "category": "军事"
+    },
+    {
+      "raw_hot": 431812,
+      "num": 1740029,
+      "word": "葡萄牙小组第一出线",
+      "onboard_time": 1670000711,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 431496,
@@ -5339,14 +5379,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 388725,
-      "num": 1811093,
-      "word": "韩国出线",
-      "onboard_time": 1670001070,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 388431,
       "num": 388431,
       "word": "12岁女孩第一次画墙效果惊艳",
@@ -5793,14 +5825,6 @@
       "onboard_time": 1669779262,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 357261,
-      "num": 1740029,
-      "word": "葡萄牙小组第一出线",
-      "onboard_time": 1670000711,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 356165,
@@ -6547,14 +6571,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 317586,
-      "num": 1677244,
-      "word": "孙兴慜哭了",
-      "onboard_time": 1670001070,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 316396,
       "num": 316396,
       "word": "90后夫妻北漂7年拒绝买房买车",
@@ -6641,6 +6657,14 @@
       "onboard_time": 1669638699,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 308337,
+      "num": 1574692,
+      "word": "在卡塔尔住2000元一晚的酒店是什么体验",
+      "onboard_time": 1669998190,
+      "rank": 39,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 308110,
@@ -7427,14 +7451,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 265972,
-      "num": 1574692,
-      "word": "在卡塔尔住2000元一晚的酒店是什么体验",
-      "onboard_time": 1669998190,
-      "rank": 39,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 265195,
       "num": 265195,
       "word": "没给韩国角球",
@@ -7529,14 +7545,6 @@
       "onboard_time": 1669990750,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 258608,
-      "num": 1556115,
-      "word": "苏亚雷斯",
-      "onboard_time": 1670001431,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 258603,
@@ -7873,6 +7881,14 @@
       "onboard_time": 1669611942,
       "rank": 36,
       "category": "教育"
+    },
+    {
+      "raw_hot": 239362,
+      "num": 1421082,
+      "word": "乌拉圭 裁判",
+      "onboard_time": 1670002091,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 239113,
@@ -9233,6 +9249,14 @@
       "onboard_time": 1669627835,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 186726,
+      "num": 1332510,
+      "word": "孙兴慜助攻",
+      "onboard_time": 1670002091,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 186355,
@@ -11203,6 +11227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123474,
+      "num": 1266667,
+      "word": "黄喜灿绝杀",
+      "onboard_time": 1670002030,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 123184,
       "num": 123184,
       "word": "广东人是懂吃煲的",
@@ -11313,6 +11345,14 @@
       "onboard_time": 1669791632,
       "rank": 14,
       "category": "科技"
+    },
+    {
+      "raw_hot": 117276,
+      "num": 1215708,
+      "word": "乌拉圭小组出局",
+      "onboard_time": 1670001851,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 117018,
@@ -12088,6 +12128,14 @@
       "word": "克拉马里奇破门",
       "onboard_time": 1669569147,
       "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 73410,
+      "num": 1103683,
+      "word": "西班牙队否认放水",
+      "onboard_time": 1670002331,
+      "rank": 43,
       "category": "体育"
     },
     {
