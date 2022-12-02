@@ -1,6 +1,6 @@
 {
   "startTime": 1669566398830,
-  "endTime": 1669973617806,
+  "endTime": 1669976471519,
   "band_list": [
     {
       "raw_hot": 71270277,
@@ -953,6 +953,14 @@
       "onboard_time": 1669611460,
       "rank": 10,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 1435023,
+      "num": 720926,
+      "word": "核酸检测乱象耗的是国库伤的是民心",
+      "onboard_time": 1669974190,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1426847,
@@ -3611,6 +3619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 526546,
+      "num": 683722,
+      "word": "科学家发现管不住嘴神经元",
+      "onboard_time": 1669972031,
+      "rank": 41,
+      "category": "科技"
+    },
+    {
       "raw_hot": 525906,
       "num": 425375,
       "word": "王鹤棣自在从容对镜大片",
@@ -3673,6 +3689,14 @@
       "onboard_time": 1669820176,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 516249,
+      "num": 667707,
+      "word": "27人因考试买卖答案被判刑",
+      "onboard_time": 1669972513,
+      "rank": 47,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 516042,
@@ -4849,6 +4873,14 @@
       "onboard_time": 1669707516,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 398527,
+      "num": 645056,
+      "word": "江泽民伟大光辉的一生",
+      "onboard_time": 1669976232,
+      "rank": 15,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 396798,
@@ -6475,6 +6507,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 289534,
+      "num": 653097,
+      "word": "300元衣服老人穿28年依旧如新",
+      "onboard_time": 1669968671,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 289228,
       "num": 289228,
       "word": "税务师",
@@ -6507,6 +6547,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 287958,
+      "num": 602737,
+      "word": "广州普通门急诊凭绿码就医",
+      "onboard_time": 1669975271,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 287611,
       "num": 287611,
       "word": "张凯急了",
@@ -6529,14 +6577,6 @@
       "onboard_time": 1669734866,
       "rank": 42,
       "category": "科技"
-    },
-    {
-      "raw_hot": 286862,
-      "num": 653097,
-      "word": "300元衣服老人穿28年依旧如新",
-      "onboard_time": 1669968671,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 286576,
@@ -7323,6 +7363,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 241090,
+      "num": 589019,
+      "word": "阳性居家隔离操作手册",
+      "onboard_time": 1669973831,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 240180,
       "num": 240180,
       "word": "省考",
@@ -7601,14 +7649,6 @@
       "onboard_time": 1669789283,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 227212,
-      "num": 625827,
-      "word": "科学家发现管不住嘴神经元",
-      "onboard_time": 1669972031,
-      "rank": 41,
-      "category": "科技"
     },
     {
       "raw_hot": 227015,
@@ -8755,14 +8795,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 183321,
-      "num": 587602,
-      "word": "27人因考试买卖答案被判刑",
-      "onboard_time": 1669972513,
-      "rank": 47,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 182965,
       "num": 510419,
       "word": "苹果新专利可实现SIM卡转换eSIM",
@@ -8801,6 +8833,14 @@
       "onboard_time": 1669838826,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 181891,
+      "num": 563062,
+      "word": "警方回应男子拼接同学不雅照造谣一事",
+      "onboard_time": 1669972214,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 181792,
@@ -8945,6 +8985,14 @@
       "onboard_time": 1669620752,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 175918,
+      "num": 535034,
+      "word": "丈夫捐器官3年后妻子获优先移植",
+      "onboard_time": 1669975332,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 175841,
@@ -9955,6 +10003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 144433,
+      "num": 492995,
+      "word": "小折叠是美丽小废物吗",
+      "onboard_time": 1669970711,
+      "rank": 44,
+      "category": "科技"
+    },
+    {
       "raw_hot": 144415,
       "num": 144415,
       "word": "趁主人不注意光盘的狗狗",
@@ -10547,20 +10603,20 @@
       "category": "美食"
     },
     {
-      "raw_hot": 123112,
-      "num": 492767,
-      "word": "警方回应男子拼接同学不雅照造谣一事",
-      "onboard_time": 1669972214,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 122518,
       "num": 122518,
       "word": "8旬父亲用扫把给儿子轿车扫雪",
       "onboard_time": 1669881191,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 122060,
+      "num": 474312,
+      "word": "卡塔尔画家创作1万平米世界杯画作",
+      "onboard_time": 1669972872,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 121622,
@@ -10601,6 +10657,14 @@
       "onboard_time": 1669875251,
       "rank": 42,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 120895,
+      "num": 467426,
+      "word": "超萌小松鼠采食柿子全程被偷拍",
+      "onboard_time": 1669974732,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 120366,
@@ -10739,22 +10803,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 114508,
-      "num": 453933,
-      "word": "小折叠是美丽小废物吗",
-      "onboard_time": 1669970711,
-      "rank": 44,
-      "category": "科技"
-    },
-    {
-      "raw_hot": 114497,
-      "num": 469395,
-      "word": "卡塔尔画家创作1万平米世界杯画作",
-      "onboard_time": 1669972872,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 113635,
       "num": 113635,
       "word": "我国航天员在轨轮换成常态",
@@ -10784,6 +10832,14 @@
       "word": "瑞士球员说内马尔缺席比赛也不轻松",
       "onboard_time": 1669666513,
       "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 112390,
+      "num": 450678,
+      "word": "黄健翔灵魂四问德国队",
+      "onboard_time": 1669974012,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -10881,6 +10937,14 @@
       "onboard_time": 1669790243,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 108586,
+      "num": 429066,
+      "word": "研究称气候变暖将导致更多彩虹",
+      "onboard_time": 1669976232,
+      "rank": 47,
+      "category": "自然"
     },
     {
       "raw_hot": 108585,
