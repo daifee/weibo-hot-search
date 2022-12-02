@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1670002423449,
+  "endTime": 1670005327648,
   "band_list": [
     {
       "raw_hot": 6453532,
@@ -793,6 +793,14 @@
       "onboard_time": 1669938728,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 825814,
+      "num": 1421082,
+      "word": "乌拉圭 裁判",
+      "onboard_time": 1670002091,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 818613,
@@ -2475,14 +2483,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 239362,
-      "num": 1421082,
-      "word": "乌拉圭 裁判",
-      "onboard_time": 1670002091,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 239113,
       "num": 239113,
       "word": "金毛半夜跑主人床上睡觉还打呼噜",
@@ -2593,6 +2593,14 @@
       "onboard_time": 1669952892,
       "rank": 35,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 226106,
+      "num": 1103683,
+      "word": "西班牙队否认放水",
+      "onboard_time": 1670002331,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 223166,
@@ -3035,6 +3043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 174336,
+      "num": 538623,
+      "word": "巴西首发",
+      "onboard_time": 1670003651,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 173700,
       "num": 173700,
       "word": "城阳疫情防控",
@@ -3192,6 +3208,14 @@
       "word": "布克51分",
       "onboard_time": 1669870212,
       "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 157129,
+      "num": 476780,
+      "word": "喀麦隆vs巴西",
+      "onboard_time": 1670002510,
+      "rank": 27,
       "category": "体育"
     },
     {
@@ -3787,6 +3811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 111571,
+      "num": 499413,
+      "word": "老年人请尽快接种新冠疫苗",
+      "onboard_time": 1670002452,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 111168,
       "num": 595802,
       "word": "韩乔生一首回家送给德国",
@@ -4211,6 +4243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 77395,
+      "num": 449419,
+      "word": "纽约老鼠泛滥政府高薪招聘灭鼠总管",
+      "onboard_time": 1669998791,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 77262,
       "num": 210717,
       "word": "哥斯达黎加半场0比1德国",
@@ -4243,16 +4283,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 73410,
-      "num": 1103683,
-      "word": "西班牙队否认放水",
-      "onboard_time": 1670002331,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 70312,
-      "num": 70312,
+      "num": 359508,
       "word": "广州多区宣布解除疫情防控临时管控区",
       "onboard_time": 1669792524,
       "rank": 49,
@@ -4307,6 +4339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 55626,
+      "num": 412439,
+      "word": "历史首次3支亚足联球队进16强",
+      "onboard_time": 1670004370,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 51917,
       "num": 26645,
       "word": "查韦斯任意球破门",
@@ -4345,6 +4385,14 @@
       "onboard_time": 1669921508,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 32555,
+      "num": 386046,
+      "word": "重庆乘坐交通工具只查验渝康码",
+      "onboard_time": 1670004130,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 32307,

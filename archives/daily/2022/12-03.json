@@ -1,6 +1,6 @@
 {
   "startTime": 1669998371554,
-  "endTime": 1670002423449,
+  "endTime": 1670005327648,
   "band_list": [
     {
       "raw_hot": 4176911,
@@ -120,6 +120,14 @@
       "word": "C罗",
       "onboard_time": 1669987991,
       "rank": 5,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 825814,
+      "num": 1421082,
+      "word": "乌拉圭 裁判",
+      "onboard_time": 1670002091,
+      "rank": 23,
       "category": "体育"
     },
     {
@@ -339,14 +347,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 239362,
-      "num": 1421082,
-      "word": "乌拉圭 裁判",
-      "onboard_time": 1670002091,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 234353,
       "num": 1266451,
       "word": "脑瘫女孩当美妆博主走红回应被质疑",
@@ -369,6 +369,14 @@
       "onboard_time": 1669989615,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 226106,
+      "num": 1103683,
+      "word": "西班牙队否认放水",
+      "onboard_time": 1670002331,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 201228,
@@ -403,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 174336,
+      "num": 538623,
+      "word": "巴西首发",
+      "onboard_time": 1670003651,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 169972,
       "num": 2153376,
       "word": "江泽民伟大光辉的一生",
@@ -417,6 +433,14 @@
       "onboard_time": 1669990750,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 157129,
+      "num": 476780,
+      "word": "喀麦隆vs巴西",
+      "onboard_time": 1670002510,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 142132,
@@ -499,6 +523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 111571,
+      "num": 499413,
+      "word": "老年人请尽快接种新冠疫苗",
+      "onboard_time": 1670002452,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 110052,
       "num": 498880,
       "word": "丈夫捐器官3年后妻子获优先移植",
@@ -547,11 +579,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 73410,
-      "num": 1103683,
-      "word": "西班牙队否认放水",
-      "onboard_time": 1670002331,
-      "rank": 43,
+      "raw_hot": 77395,
+      "num": 449419,
+      "word": "纽约老鼠泛滥政府高薪招聘灭鼠总管",
+      "onboard_time": 1669998791,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 55626,
+      "num": 412439,
+      "word": "历史首次3支亚足联球队进16强",
+      "onboard_time": 1670004370,
+      "rank": 39,
       "category": "体育"
     },
     {
@@ -561,6 +601,22 @@
       "onboard_time": 1669968851,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 32555,
+      "num": 386046,
+      "word": "重庆乘坐交通工具只查验渝康码",
+      "onboard_time": 1670004130,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 22247,
+      "num": 359508,
+      "word": "广州多区宣布解除疫情防控临时管控区",
+      "onboard_time": 1670003770,
+      "rank": 48,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

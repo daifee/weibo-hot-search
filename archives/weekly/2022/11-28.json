@@ -1,6 +1,6 @@
 {
   "startTime": 1669566398830,
-  "endTime": 1670002423449,
+  "endTime": 1670005327648,
   "band_list": [
     {
       "raw_hot": 71270277,
@@ -2257,6 +2257,14 @@
       "onboard_time": 1669938728,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 825814,
+      "num": 1421082,
+      "word": "乌拉圭 裁判",
+      "onboard_time": 1670002091,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 824911,
@@ -7883,14 +7891,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 239362,
-      "num": 1421082,
-      "word": "乌拉圭 裁判",
-      "onboard_time": 1670002091,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 239113,
       "num": 239113,
       "word": "金毛半夜跑主人床上睡觉还打呼噜",
@@ -8201,6 +8201,14 @@
       "onboard_time": 1669708658,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 226106,
+      "num": 1103683,
+      "word": "西班牙队否认放水",
+      "onboard_time": 1670002331,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 225862,
@@ -9627,6 +9635,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 174336,
+      "num": 538623,
+      "word": "巴西首发",
+      "onboard_time": 1669653266,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 174260,
       "num": 174260,
       "word": "曾可妮翻唱你说你还不了",
@@ -10217,6 +10233,14 @@
       "onboard_time": 1669692092,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 157129,
+      "num": 476780,
+      "word": "喀麦隆vs巴西",
+      "onboard_time": 1670002510,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 157016,
@@ -11507,6 +11531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 111571,
+      "num": 499413,
+      "word": "老年人请尽快接种新冠疫苗",
+      "onboard_time": 1670002452,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 111168,
       "num": 595802,
       "word": "韩乔生一首回家送给德国",
@@ -11535,14 +11567,6 @@
       "num": 110616,
       "word": "塞内加尔晋级16强",
       "onboard_time": 1669742240,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 110476,
-      "num": 110476,
-      "word": "巴西首发",
-      "onboard_time": 1669653266,
       "rank": 49,
       "category": "体育"
     },
@@ -12115,6 +12139,14 @@
       "category": "艺人,动漫"
     },
     {
+      "raw_hot": 77395,
+      "num": 449419,
+      "word": "纽约老鼠泛滥政府高薪招聘灭鼠总管",
+      "onboard_time": 1669998791,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 77262,
       "num": 210717,
       "word": "哥斯达黎加半场0比1德国",
@@ -12128,14 +12160,6 @@
       "word": "克拉马里奇破门",
       "onboard_time": 1669569147,
       "rank": 49,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 73410,
-      "num": 1103683,
-      "word": "西班牙队否认放水",
-      "onboard_time": 1670002331,
-      "rank": 43,
       "category": "体育"
     },
     {
@@ -12216,6 +12240,14 @@
       "word": "法国将对阵波兰",
       "onboard_time": 1669845847,
       "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 55626,
+      "num": 412439,
+      "word": "历史首次3支亚足联球队进16强",
+      "onboard_time": 1670004370,
+      "rank": 39,
       "category": "体育"
     },
     {
@@ -12321,6 +12353,14 @@
       "onboard_time": 1669677622,
       "rank": 49,
       "category": "科技"
+    },
+    {
+      "raw_hot": 32555,
+      "num": 386046,
+      "word": "重庆乘坐交通工具只查验渝康码",
+      "onboard_time": 1670004130,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 32307,
