@@ -1,6 +1,6 @@
 {
   "startTime": 1669566398830,
-  "endTime": 1670088795450,
+  "endTime": 1670091718311,
   "band_list": [
     {
       "raw_hot": 71270277,
@@ -4419,20 +4419,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 525922,
+      "num": 550233,
+      "word": "阿根廷vs澳大利亚",
+      "onboard_time": 1670087231,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 525906,
       "num": 425375,
       "word": "王鹤棣自在从容对镜大片",
       "onboard_time": 1669724800,
       "rank": 18,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 524729,
-      "num": 550233,
-      "word": "阿根廷vs澳大利亚",
-      "onboard_time": 1670087231,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 524245,
@@ -10035,6 +10035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 194684,
+      "num": 226880,
+      "word": "卡佩罗说梅西动作跟不上想法",
+      "onboard_time": 1670090350,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 194404,
       "num": 878426,
       "word": "警方回应男子拼接同学不雅照造谣一事",
@@ -13619,6 +13627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 97462,
+      "num": 206890,
+      "word": "阿根廷vs澳大利亚首发",
+      "onboard_time": 1670091670,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 96403,
       "num": 845924,
       "word": "男足世界杯首个全女性裁判组",
@@ -13849,6 +13865,14 @@
       "onboard_time": 1669883712,
       "rank": 49,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 83979,
+      "num": 237699,
+      "word": "重庆疫情走势处于下降期",
+      "onboard_time": 1670089871,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 82492,
@@ -14200,6 +14224,14 @@
       "word": "沙奇里破门",
       "onboard_time": 1670011567,
       "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 29050,
+      "num": 203832,
+      "word": "沉着冷静范加尔",
+      "onboard_time": 1670090110,
+      "rank": 49,
       "category": "体育"
     },
     {
