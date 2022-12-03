@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1670041368725,
+  "endTime": 1670042311385,
   "band_list": [
     {
       "raw_hot": 6453532,
@@ -219,6 +219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1940721,
+      "num": 864884,
+      "word": "C罗拒绝韩国媒体采访",
+      "onboard_time": 1670038151,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1931721,
       "num": 200547,
       "word": "深圳核酸",
@@ -240,14 +248,6 @@
       "word": "韩国球迷挑衅C罗",
       "onboard_time": 1670034071,
       "rank": 9,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1779721,
-      "num": 864884,
-      "word": "C罗拒绝韩国媒体采访",
-      "onboard_time": 1670038151,
-      "rank": 36,
       "category": "体育"
     },
     {
@@ -1075,6 +1075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 714516,
+      "num": 803417,
+      "word": "赛事播错国歌被中国香港运动员叫停",
+      "onboard_time": 1670039950,
+      "rank": 13,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 714298,
       "num": 882822,
       "word": "做核酸是否硬性要求",
@@ -1297,6 +1305,14 @@
       "onboard_time": 1670033853,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 626092,
+      "num": 779999,
+      "word": "游戏停服",
+      "onboard_time": 1670041331,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 619462,
@@ -1528,6 +1544,14 @@
       "word": "不要给2岁以下孩子看手机",
       "onboard_time": 1669885152,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 529563,
+      "num": 793888,
+      "word": "北京辟谣网传取消查验健康宝",
+      "onboard_time": 1670039890,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -1931,14 +1955,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 415028,
-      "num": 782857,
-      "word": "赛事播错国歌被中国香港运动员叫停",
-      "onboard_time": 1670039950,
-      "rank": 13,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 414679,
       "num": 1788935,
       "word": "告全党全军全国各族人民书",
@@ -2235,7 +2251,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 347269,
+      "raw_hot": 349009,
       "num": 749031,
       "word": "幼师做干冰实验课堂秒变仙境",
       "onboard_time": 1670037549,
@@ -2337,14 +2353,6 @@
       "onboard_time": 1669896552,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 328161,
-      "num": 725526,
-      "word": "北京辟谣网传取消查验健康宝",
-      "onboard_time": 1670039890,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 327167,
@@ -2456,6 +2464,14 @@
       "word": "特等功臣女扮男装参加八路军",
       "onboard_time": 1669942569,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 302952,
+      "num": 705788,
+      "word": "官方辟谣北京全面放开",
+      "onboard_time": 1670040431,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -2787,6 +2803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 250214,
+      "num": 688410,
+      "word": "王楚钦王曼昱代表运动员宣誓",
+      "onboard_time": 1670039351,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 249838,
       "num": 249838,
       "word": "男子为供妹妹上大学辍学去打工",
@@ -2824,14 +2848,6 @@
       "word": "加拿大vs摩洛哥",
       "onboard_time": 1669886234,
       "rank": 49,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 243651,
-      "num": 688410,
-      "word": "王楚钦王曼昱代表运动员宣誓",
-      "onboard_time": 1670039351,
-      "rank": 25,
       "category": "体育"
     },
     {
@@ -3099,14 +3115,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 203971,
-      "num": 642989,
-      "word": "官方辟谣北京全面放开",
-      "onboard_time": 1670040431,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 202880,
       "num": 555857,
       "word": "为何日本第二个进球不算出界",
@@ -3177,6 +3185,14 @@
       "onboard_time": 1669828814,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 193457,
+      "num": 633197,
+      "word": "iPhone15系列配置或避免偏向Pro",
+      "onboard_time": 1670041571,
+      "rank": 29,
+      "category": "科技"
     },
     {
       "raw_hot": 192978,
@@ -3291,6 +3307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 186054,
+      "num": 623130,
+      "word": "雪后男子开门发现雪比人高",
+      "onboard_time": 1670038391,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 185980,
       "num": 185980,
       "word": "单亲患癌女孩给六旬奶奶做防丢失牌",
@@ -3313,14 +3337,6 @@
       "onboard_time": 1669967232,
       "rank": 35,
       "category": "科技"
-    },
-    {
-      "raw_hot": 182964,
-      "num": 608303,
-      "word": "雪后男子开门发现雪比人高",
-      "onboard_time": 1670038391,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 182841,
@@ -3571,6 +3587,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 163337,
+      "num": 570295,
+      "word": "女子骑车撞翻路边油锅",
+      "onboard_time": 1670038751,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 163326,
       "num": 647294,
       "word": "狗狗都怕被咬耳朵吗",
@@ -3728,14 +3752,6 @@
       "word": "中老铁路通车运营一周年",
       "onboard_time": 1670040552,
       "rank": 40,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 150638,
-      "num": 557832,
-      "word": "女子骑车撞翻路边油锅",
-      "onboard_time": 1670038751,
-      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -4235,12 +4251,28 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 119731,
-      "num": 497496,
-      "word": "游戏停服",
-      "onboard_time": 1670041331,
+      "raw_hot": 120102,
+      "num": 498599,
+      "word": "苏亚雷斯提及四岁儿子痛哭",
+      "onboard_time": 1670042231,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 119678,
+      "num": 488913,
+      "word": "爸爸穿着裂口的鞋去给女儿买新鞋",
+      "onboard_time": 1670042111,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 119420,
+      "num": 481299,
+      "word": "樊振东",
+      "onboard_time": 1670042291,
       "rank": 49,
-      "category": "游戏"
+      "category": "体育"
     },
     {
       "raw_hot": 119344,
