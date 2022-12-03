@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1670044594940,
+  "endTime": 1670045611394,
   "band_list": [
     {
       "raw_hot": 6453532,
@@ -107,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2480617,
+      "num": 779999,
+      "word": "游戏停服",
+      "onboard_time": 1670041331,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 2433196,
       "num": 1590464,
       "word": "男婴被喂水呛咳死亡父亲以为其睡着",
@@ -121,14 +129,6 @@
       "onboard_time": 1669868772,
       "rank": 12,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 2419230,
-      "num": 779999,
-      "word": "游戏停服",
-      "onboard_time": 1670041331,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 2324254,
@@ -923,6 +923,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 791262,
+      "num": 727961,
+      "word": "樊振东",
+      "onboard_time": 1670042291,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 790381,
       "num": 1471380,
       "word": "葡萄牙开场五分钟进球",
@@ -969,14 +977,6 @@
       "onboard_time": 1669964416,
       "rank": 20,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 772836,
-      "num": 727961,
-      "word": "樊振东",
-      "onboard_time": 1670042291,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 765576,
@@ -1299,6 +1299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 633323,
+      "num": 697368,
+      "word": "乌拉圭或遭FIFA严惩",
+      "onboard_time": 1670043372,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 631488,
       "num": 1309780,
       "word": "95后妈妈回应二胎生下3女儿",
@@ -1337,6 +1345,14 @@
       "onboard_time": 1669873391,
       "rank": 9,
       "category": "情感"
+    },
+    {
+      "raw_hot": 611546,
+      "num": 689785,
+      "word": "广州抗原试剂盒销售现状",
+      "onboard_time": 1670043671,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 605148,
@@ -1579,6 +1595,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 520078,
+      "num": 705708,
+      "word": "iPhone15系列配置或避免偏向Pro",
+      "onboard_time": 1670041571,
+      "rank": 29,
+      "category": "科技"
+    },
+    {
       "raw_hot": 517757,
       "num": 794848,
       "word": "美国新一代B21轰炸机首次公开",
@@ -1673,14 +1697,6 @@
       "onboard_time": 1669969511,
       "rank": 35,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 484411,
-      "num": 705708,
-      "word": "iPhone15系列配置或避免偏向Pro",
-      "onboard_time": 1670041571,
-      "rank": 29,
-      "category": "科技"
     },
     {
       "raw_hot": 481538,
@@ -1808,6 +1824,14 @@
       "word": "法医自述有人因偏见拒绝同桌吃饭",
       "onboard_time": 1669856494,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 441916,
+      "num": 671339,
+      "word": "爸爸穿着裂口的鞋去给女儿买新鞋",
+      "onboard_time": 1670042111,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -2091,14 +2115,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 390207,
-      "num": 669784,
-      "word": "爸爸穿着裂口的鞋去给女儿买新鞋",
-      "onboard_time": 1670042111,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 389604,
       "num": 751784,
       "word": "历史首次3支亚足联球队进16强",
@@ -2281,14 +2297,6 @@
       "onboard_time": 1669816394,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 352459,
-      "num": 668828,
-      "word": "乌拉圭或遭FIFA严惩",
-      "onboard_time": 1670043372,
-      "rank": 15,
-      "category": "体育"
     },
     {
       "raw_hot": 349009,
@@ -2883,14 +2891,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 245208,
-      "num": 609959,
-      "word": "广州抗原试剂盒销售现状",
-      "onboard_time": 1670043671,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 243847,
       "num": 243847,
       "word": "加拿大vs摩洛哥",
@@ -3035,6 +3035,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 222497,
+      "num": 588936,
+      "word": "为什么个别地方还是出现层层加码",
+      "onboard_time": 1670043791,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 219774,
+      "num": 551286,
+      "word": "韩网评论韩国晋级16强",
+      "onboard_time": 1670044813,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 219747,
       "num": 1311784,
       "word": "知情人士称恒大汽车总部将解散消息不实",
@@ -3065,6 +3081,14 @@
       "onboard_time": 1669865230,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 215245,
+      "num": 544085,
+      "word": "C罗回应与韩国队员冲突",
+      "onboard_time": 1670044870,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 214680,
@@ -3579,6 +3603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 171193,
+      "num": 556013,
+      "word": "榜一大哥网恋大妈被骗255万",
+      "onboard_time": 1670044931,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 168972,
       "num": 919881,
       "word": "巴西队球员孩子从小踢足球",
@@ -3792,14 +3824,6 @@
       "word": "中老铁路通车运营一周年",
       "onboard_time": 1670040552,
       "rank": 40,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 150920,
-      "num": 529806,
-      "word": "为什么个别地方还是出现层层加码",
-      "onboard_time": 1670043791,
-      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -4547,6 +4571,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 106335,
+      "num": 455469,
+      "word": "山东男团3比1深圳男团",
+      "onboard_time": 1670045231,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 105921,
       "num": 105921,
       "word": "澳大利亚成首支出线的亚足联球队",
@@ -4627,6 +4659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 101524,
+      "num": 447813,
+      "word": "国际足联宣布日本第二球有效",
+      "onboard_time": 1670045231,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 101355,
       "num": 101355,
       "word": "姆巴佩身价赶超C罗梅西",
@@ -4683,6 +4723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 98562,
+      "num": 441131,
+      "word": "VAR真的毁了足球吗",
+      "onboard_time": 1670043431,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 98380,
       "num": 1246826,
       "word": "金英权破门",
@@ -4713,6 +4761,14 @@
       "onboard_time": 1669898111,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 96989,
+      "num": 431101,
+      "word": "内马尔手机屏保是大力神杯",
+      "onboard_time": 1670045053,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 96608,
@@ -4761,6 +4817,14 @@
       "onboard_time": 1669887251,
       "rank": 49,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 94548,
+      "num": 426345,
+      "word": "喝酒能够帮助御寒吗",
+      "onboard_time": 1670045351,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 93851,
