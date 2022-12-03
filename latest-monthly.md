@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/12/01 00:28:49 ~ 2022/12/04 05:33:31
+本榜单时间：2022/12/01 00:28:49 ~ 2022/12/04 06:17:15
 </p>
 </blockquote>
 <p>
@@ -2883,6 +2883,12 @@ AG（热度：212821）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%A0%B9%E5%BB%B7%E6%99%8B%E7%BA%A78%E5%BC%BA%23" target="weibo">
+阿根廷晋级8强（热度：209969）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A2%A8%E8%A5%BF%E5%93%A5%E6%8B%B3%E7%8E%8B%E5%8D%A1%E5%86%85%E6%B4%9B%E5%90%91%E6%A2%85%E8%A5%BF%E9%81%93%E6%AD%89%23" target="weibo">
 墨西哥拳王卡内洛向梅西道歉（热度：208686）
 </a>
@@ -2915,12 +2921,6 @@ AG（热度：212821）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%BF%97%E6%84%BF%E8%80%85%E7%BF%BB%E8%AF%91%E5%AD%99%E5%85%B4%E6%85%9C%E9%87%87%E8%AE%BF%E6%97%B6%E8%90%BD%E6%B3%AA%23" target="weibo">
 韩国志愿者翻译孙兴慜采访时落泪（热度：202402）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%A0%B9%E5%BB%B7%E6%99%8B%E7%BA%A78%E5%BC%BA%23" target="weibo">
-阿根廷晋级8强（热度：201425）
 </a>
 </li>
 
