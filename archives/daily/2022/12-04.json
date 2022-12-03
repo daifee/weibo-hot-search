@@ -1,6 +1,6 @@
 {
   "startTime": 1670084691627,
-  "endTime": 1670094840456,
+  "endTime": 1670095994007,
   "band_list": [
     {
       "raw_hot": 1203833,
@@ -147,20 +147,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 277462,
+      "num": 226880,
+      "word": "卡佩罗说梅西动作跟不上想法",
+      "onboard_time": 1670090350,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 265913,
       "num": 619044,
       "word": "重庆遭遇1961年以来最强降温过程",
       "onboard_time": 1670075834,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 258327,
-      "num": 226880,
-      "word": "卡佩罗说梅西动作跟不上想法",
-      "onboard_time": 1670090350,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 253373,
