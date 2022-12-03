@@ -1,0 +1,410 @@
+{
+  "runTime": 1670110432489,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 60237,
+        "num": 356582,
+        "word": "江泽民同志生平",
+        "onboard_time": 1669979534,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 832348,
+        "num": 354483,
+        "word": "阿根廷vs澳大利亚",
+        "onboard_time": 1670087231,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90083,
+        "num": 353560,
+        "word": "80岁老人很少出门有必要打疫苗吗",
+        "onboard_time": 1670072712,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 459604,
+        "num": 351296,
+        "word": "梅西世界杯进球超越马拉多纳",
+        "onboard_time": 1670097010,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 389950,
+        "num": 348601,
+        "word": "阿根廷晋级8强",
+        "onboard_time": 1670101688,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 265826,
+        "num": 346256,
+        "word": "北京多处核酸检测点临时关闭",
+        "onboard_time": 1670083573,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250931,
+        "num": 344823,
+        "word": "9至45岁女性可接种HPV九价疫苗",
+        "onboard_time": 1670084351,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218773,
+        "num": 340961,
+        "word": "梅西1000号球衣海报",
+        "onboard_time": 1670098027,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204443,
+        "num": 340171,
+        "word": "济南要求所有公厕扫码并查验核酸",
+        "onboard_time": 1670080092,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199321,
+        "num": 336797,
+        "word": "荷兰3比1美国",
+        "onboard_time": 1670086597,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 208456,
+        "num": 335834,
+        "word": "卡佩罗说梅西动作跟不上想法",
+        "onboard_time": 1670090350,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188243,
+        "num": 334041,
+        "word": "张文宏称未来对新冠控制是降低致病率",
+        "onboard_time": 1670071873,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177031,
+        "num": 330810,
+        "word": "劳塔罗状态",
+        "onboard_time": 1670109487,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172075,
+        "num": 328544,
+        "word": "近一半研究生因缺钱想弃学",
+        "onboard_time": 1670068573,
+        "rank": 13,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 164985,
+        "num": 326428,
+        "word": "3人在美容院打溶脂针致皮肤严重溃烂",
+        "onboard_time": 1670076312,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162953,
+        "num": 324242,
+        "word": "武汉核酸",
+        "onboard_time": 1670075592,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161701,
+        "num": 322182,
+        "word": "阿根廷2比1澳大利亚",
+        "onboard_time": 1670101507,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149220,
+        "num": 319702,
+        "word": "离婚冷静期后遭丈夫殴打女子已离婚",
+        "onboard_time": 1670071778,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142746,
+        "num": 316804,
+        "word": "澳大利亚门将失误",
+        "onboard_time": 1670101507,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142103,
+        "num": 315764,
+        "word": "北京某酒店50元特价房温暖外卖小哥",
+        "onboard_time": 1670108826,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138949,
+        "num": 311981,
+        "word": "警方通报一女子在电梯内被男子猥亵",
+        "onboard_time": 1670080273,
+        "rank": 20,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 135679,
+        "num": 309840,
+        "word": "多地公布2023年考研报名人数",
+        "onboard_time": 1670077753,
+        "rank": 21,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 127918,
+        "num": 309072,
+        "word": "重庆遭遇1961年以来最强降温过程",
+        "onboard_time": 1670075834,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120343,
+        "num": 306985,
+        "word": "熬夜让内分泌紊乱易患结节或肿瘤",
+        "onboard_time": 1670074573,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117961,
+        "num": 302994,
+        "word": "比熊猫血还稀有的救命血",
+        "onboard_time": 1670072893,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105799,
+        "num": 301161,
+        "word": "狗狗雨夜被冻到发抖却把衣服让给小猫",
+        "onboard_time": 1670075497,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102104,
+        "num": 298651,
+        "word": "梅西里程碑之夜破门",
+        "onboard_time": 1670097188,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98186,
+        "num": 297587,
+        "word": "球王贝利放弃化疗转入临终病房",
+        "onboard_time": 1670075713,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97997,
+        "num": 295438,
+        "word": "iPhone14卫星求救成功挽救一名用户",
+        "onboard_time": 1670075352,
+        "rank": 28,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 97429,
+        "num": 291897,
+        "word": "重庆非必要不做核酸",
+        "onboard_time": 1670068752,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114001,
+        "num": 290533,
+        "word": "13岁男孩拿金项链换钱店主拒收获赞",
+        "onboard_time": 1670109426,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87671,
+        "num": 287935,
+        "word": "球迷骨折未愈坚持到现场看梅西",
+        "onboard_time": 1670109007,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87633,
+        "num": 285149,
+        "word": "保定疫情防控",
+        "onboard_time": 1670064912,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86553,
+        "num": 284094,
+        "word": "广州本轮疫情3岁以下婴幼儿占比1.04%",
+        "onboard_time": 1670074993,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86156,
+        "num": 282118,
+        "word": "男子取走自己1.8万元电脑谎称未取获刑",
+        "onboard_time": 1670061671,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83853,
+        "num": 278067,
+        "word": "包头通报核酸检测现双性结果",
+        "onboard_time": 1670081113,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83722,
+        "num": 276975,
+        "word": "阿根廷将对阵荷兰",
+        "onboard_time": 1670101867,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 76825,
+        "num": 274159,
+        "word": "宝宝睡醒家中无人吓得不敢吱声",
+        "onboard_time": 1670067311,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71233,
+        "num": 272559,
+        "word": "男子离婚半年后第二次去看孩子",
+        "onboard_time": 1670059333,
+        "rank": 38,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 66665,
+        "num": 270325,
+        "word": "中国球迷为什么来卡塔尔",
+        "onboard_time": 1670071631,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 66102,
+        "num": 267650,
+        "word": "叶秋退役",
+        "onboard_time": 1670063414,
+        "rank": 40,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 65574,
+        "num": 265341,
+        "word": "辽宁鞍钢一公司发生事故致7人遇难",
+        "onboard_time": 1670079133,
+        "rank": 41,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 65430,
+        "num": 262240,
+        "word": "00后帅小伙一双巧手让非遗出圈",
+        "onboard_time": 1670109426,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63427,
+        "num": 259763,
+        "word": "腾讯电竞",
+        "onboard_time": 1670063951,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 61715,
+        "num": 258665,
+        "word": "北京朝阳区就核酸检测点调整不高效致歉",
+        "onboard_time": 1670079016,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59916,
+        "num": 255345,
+        "word": "劳塔罗吐饼",
+        "onboard_time": 1670109246,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 57540,
+        "num": 254538,
+        "word": "为什么世界杯强队第三轮都输了",
+        "onboard_time": 1670069893,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 57347,
+        "num": 252670,
+        "word": "大妈微信存400万手机丢失没设密码",
+        "onboard_time": 1670053091,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46291,
+        "num": 248799,
+        "word": "视频回顾神十四航天员太空之旅",
+        "onboard_time": 1670109966,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43298,
+        "num": 246339,
+        "word": "巴西边后卫仅剩39岁阿尔维斯",
+        "onboard_time": 1670077093,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#江泽民同志永垂不朽#"
+    }
+  }
+}
