@@ -1,6 +1,6 @@
 {
   "startTime": 1669998371554,
-  "endTime": 1670042311385,
+  "endTime": 1670044594940,
   "band_list": [
     {
       "raw_hot": 4176911,
@@ -25,6 +25,14 @@
       "onboard_time": 1670028009,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2419230,
+      "num": 779999,
+      "word": "游戏停服",
+      "onboard_time": 1670041331,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 2324254,
@@ -171,6 +179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 852392,
+      "num": 803417,
+      "word": "赛事播错国歌被中国香港运动员叫停",
+      "onboard_time": 1670039950,
+      "rank": 13,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 841581,
       "num": 1677244,
       "word": "孙兴慜哭了",
@@ -203,6 +219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 772836,
+      "num": 727961,
+      "word": "樊振东",
+      "onboard_time": 1670042291,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 755851,
       "num": 882672,
       "word": "班主任自费请全班55人喝奶茶",
@@ -217,14 +241,6 @@
       "onboard_time": 1670024048,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 714516,
-      "num": 803417,
-      "word": "赛事播错国歌被中国香港运动员叫停",
-      "onboard_time": 1670039950,
-      "rank": 13,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 707808,
@@ -291,14 +307,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 626092,
-      "num": 779999,
-      "word": "游戏停服",
-      "onboard_time": 1670041331,
-      "rank": 49,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 615949,
       "num": 1656267,
       "word": "康辉超长口播",
@@ -339,19 +347,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 537904,
+      "num": 793888,
+      "word": "北京辟谣网传取消查验健康宝",
+      "onboard_time": 1670039890,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 530638,
       "num": 1531980,
       "word": "小伙患怪病身高从1米8变1米7",
       "onboard_time": 1669989250,
       "rank": 6,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 529563,
-      "num": 793888,
-      "word": "北京辟谣网传取消查验健康宝",
-      "onboard_time": 1670039890,
-      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -361,6 +369,14 @@
       "onboard_time": 1670033590,
       "rank": 35,
       "category": "军事"
+    },
+    {
+      "raw_hot": 484411,
+      "num": 705708,
+      "word": "iPhone15系列配置或避免偏向Pro",
+      "onboard_time": 1670041571,
+      "rank": 29,
+      "category": "科技"
     },
     {
       "raw_hot": 481469,
@@ -409,6 +425,14 @@
       "onboard_time": 1670035449,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 439467,
+      "num": 679685,
+      "word": "C罗梅西只能在决赛相遇",
+      "onboard_time": 1670042591,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 435797,
@@ -491,6 +515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 390207,
+      "num": 669784,
+      "word": "爸爸穿着裂口的鞋去给女儿买新鞋",
+      "onboard_time": 1670042111,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 389604,
       "num": 751784,
       "word": "历史首次3支亚足联球队进16强",
@@ -555,6 +587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 352459,
+      "num": 668828,
+      "word": "乌拉圭或遭FIFA严惩",
+      "onboard_time": 1670043372,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 349009,
       "num": 749031,
       "word": "幼师做干冰实验课堂秒变仙境",
@@ -611,6 +651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 310496,
+      "num": 705788,
+      "word": "官方辟谣北京全面放开",
+      "onboard_time": 1670040431,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 309379,
       "num": 696793,
       "word": "苏亚雷斯说这样告别世界杯很伤心",
@@ -632,14 +680,6 @@
       "word": "北京昨新增703例本土确诊2610例无症状",
       "onboard_time": 1670029090,
       "rank": 20,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 302952,
-      "num": 705788,
-      "word": "官方辟谣北京全面放开",
-      "onboard_time": 1670040431,
-      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -715,6 +755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 245208,
+      "num": 609959,
+      "word": "广州抗原试剂盒销售现状",
+      "onboard_time": 1670043671,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 234353,
       "num": 1266451,
       "word": "脑瘫女孩当美妆博主走红回应被质疑",
@@ -777,14 +825,6 @@
       "onboard_time": 1669983671,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 193457,
-      "num": 633197,
-      "word": "iPhone15系列配置或避免偏向Pro",
-      "onboard_time": 1670041571,
-      "rank": 29,
-      "category": "科技"
     },
     {
       "raw_hot": 186726,
@@ -931,6 +971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 150920,
+      "num": 529806,
+      "word": "为什么个别地方还是出现层层加码",
+      "onboard_time": 1670043791,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 142132,
       "num": 565468,
       "word": "意大利姑娘远嫁广西农村扎根生活",
@@ -1043,22 +1091,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 119678,
-      "num": 488913,
-      "word": "爸爸穿着裂口的鞋去给女儿买新鞋",
-      "onboard_time": 1670042111,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 119420,
-      "num": 481299,
-      "word": "樊振东",
-      "onboard_time": 1670042291,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 118712,
       "num": 280115,
       "word": "塞尔维亚2比3瑞士",
@@ -1107,12 +1139,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 113121,
+      "num": 461762,
+      "word": "威海海域现海浩奇观",
+      "onboard_time": 1670044511,
+      "rank": 45,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 112016,
+      "num": 451928,
+      "word": "神十五与木星同框",
+      "onboard_time": 1670043851,
+      "rank": 46,
+      "category": "科技"
+    },
+    {
       "raw_hot": 110052,
       "num": 498880,
       "word": "丈夫捐器官3年后妻子获优先移植",
       "onboard_time": 1669975332,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 109738,
+      "num": 439854,
+      "word": "那些和世界杯告别的球星",
+      "onboard_time": 1670044511,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 107377,

@@ -1,6 +1,6 @@
 {
   "startTime": 1669566398830,
-  "endTime": 1670042311385,
+  "endTime": 1670044594940,
   "band_list": [
     {
       "raw_hot": 71270277,
@@ -377,6 +377,14 @@
       "onboard_time": 1669868772,
       "rank": 12,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 2419230,
+      "num": 779999,
+      "word": "游戏停服",
+      "onboard_time": 1670041331,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 2365938,
@@ -2195,6 +2203,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 852392,
+      "num": 803417,
+      "word": "赛事播错国歌被中国香港运动员叫停",
+      "onboard_time": 1670039950,
+      "rank": 13,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 850912,
       "num": 850912,
       "word": "C罗上帝之发",
@@ -2579,6 +2595,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 772836,
+      "num": 727961,
+      "word": "樊振东",
+      "onboard_time": 1670042291,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 765576,
       "num": 765576,
       "word": "山东四六级",
@@ -2889,14 +2913,6 @@
       "onboard_time": 1669881971,
       "rank": 12,
       "category": "体育"
-    },
-    {
-      "raw_hot": 714516,
-      "num": 803417,
-      "word": "赛事播错国歌被中国香港运动员叫停",
-      "onboard_time": 1670039950,
-      "rank": 13,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 714421,
@@ -3465,14 +3481,6 @@
       "onboard_time": 1670033853,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 626092,
-      "num": 779999,
-      "word": "游戏停服",
-      "onboard_time": 1670041331,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 623317,
@@ -4059,6 +4067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 537904,
+      "num": 793888,
+      "word": "北京辟谣网传取消查验健康宝",
+      "onboard_time": 1670039890,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 537855,
       "num": 537855,
       "word": "北京疫情防控",
@@ -4136,14 +4152,6 @@
       "word": "动画片突然插播广告男孩怒砸电视",
       "onboard_time": 1669562682,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 529563,
-      "num": 793888,
-      "word": "北京辟谣网传取消查验健康宝",
-      "onboard_time": 1670039890,
-      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -4457,6 +4465,14 @@
       "onboard_time": 1669639353,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 484411,
+      "num": 705708,
+      "word": "iPhone15系列配置或避免偏向Pro",
+      "onboard_time": 1670041571,
+      "rank": 29,
+      "category": "科技"
     },
     {
       "raw_hot": 484141,
@@ -4920,6 +4936,14 @@
       "word": "世界杯16强就差亚洲球队",
       "onboard_time": 1669829351,
       "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 439467,
+      "num": 679685,
+      "word": "C罗梅西只能在决赛相遇",
+      "onboard_time": 1670042591,
+      "rank": 13,
       "category": "体育"
     },
     {
@@ -5627,6 +5651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 390207,
+      "num": 669784,
+      "word": "爸爸穿着裂口的鞋去给女儿买新鞋",
+      "onboard_time": 1670042111,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 389951,
       "num": 389951,
       "word": "林书豪吐槽CBA赛区健身房",
@@ -6233,6 +6265,14 @@
       "onboard_time": 1669701452,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 352459,
+      "num": 668828,
+      "word": "乌拉圭或遭FIFA严惩",
+      "onboard_time": 1670043372,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 352101,
@@ -6971,6 +7011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 310496,
+      "num": 705788,
+      "word": "官方辟谣北京全面放开",
+      "onboard_time": 1670040431,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 309379,
       "num": 696793,
       "word": "苏亚雷斯说这样告别世界杯很伤心",
@@ -7104,14 +7152,6 @@
       "word": "特等功臣女扮男装参加八路军",
       "onboard_time": 1669942569,
       "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 302952,
-      "num": 705788,
-      "word": "官方辟谣北京全面放开",
-      "onboard_time": 1670040431,
-      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -8168,6 +8208,14 @@
       "word": "2岁姐姐拼尽全力拉车保护妹妹",
       "onboard_time": 1669711058,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 245208,
+      "num": 609959,
+      "word": "广州抗原试剂盒销售现状",
+      "onboard_time": 1670043671,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -9361,14 +9409,6 @@
       "onboard_time": 1669778600,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 193457,
-      "num": 633197,
-      "word": "iPhone15系列配置或避免偏向Pro",
-      "onboard_time": 1670041571,
-      "rank": 29,
-      "category": "科技"
     },
     {
       "raw_hot": 193209,
@@ -10899,6 +10939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 150920,
+      "num": 529806,
+      "word": "为什么个别地方还是出现层层加码",
+      "onboard_time": 1670043791,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 150582,
       "num": 150582,
       "word": "渐行渐远的友情该挽回吗",
@@ -11899,22 +11947,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 119678,
-      "num": 488913,
-      "word": "爸爸穿着裂口的鞋去给女儿买新鞋",
-      "onboard_time": 1670042111,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 119420,
-      "num": 481299,
-      "word": "樊振东",
-      "onboard_time": 1670042291,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 119344,
       "num": 107023,
       "word": "沙特阿拉伯半场0比0墨西哥",
@@ -12083,6 +12115,14 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 113121,
+      "num": 461762,
+      "word": "威海海域现海浩奇观",
+      "onboard_time": 1670044511,
+      "rank": 45,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 112609,
       "num": 1004013,
       "word": "纪录片中国空间站",
@@ -12097,6 +12137,14 @@
       "onboard_time": 1669666513,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 112016,
+      "num": 451928,
+      "word": "神十五与木星同框",
+      "onboard_time": 1670043851,
+      "rank": 46,
+      "category": "科技"
     },
     {
       "raw_hot": 111873,
@@ -12160,6 +12208,14 @@
       "word": "克罗地亚进球",
       "onboard_time": 1669591644,
       "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 109738,
+      "num": 439854,
+      "word": "那些和世界杯告别的球星",
+      "onboard_time": 1670044511,
+      "rank": 48,
       "category": "体育"
     },
     {
