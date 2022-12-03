@@ -1,0 +1,410 @@
+{
+  "runTime": 1670067199126,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 33352,
+        "num": 558809,
+        "word": "江泽民同志生平",
+        "onboard_time": 1669979534,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 480684,
+        "num": 558728,
+        "word": "被内马尔和梅西友情破防了",
+        "onboard_time": 1670065151,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18962,
+        "num": 553520,
+        "word": "中国航天员完成首次在轨交接",
+        "onboard_time": 1670024227,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1019763,
+        "num": 549845,
+        "word": "女子流产大出血冒寒风上医院",
+        "onboard_time": 1670065215,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 664621,
+        "num": 544512,
+        "word": "男子取走自己1.8万元电脑谎称未取获刑",
+        "onboard_time": 1670061671,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 957372,
+        "num": 540538,
+        "word": "叶秋退役",
+        "onboard_time": 1670063414,
+        "rank": 5,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 405881,
+        "num": 537752,
+        "word": "男子离婚半年后第二次去看孩子",
+        "onboard_time": 1670059333,
+        "rank": 6,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 400964,
+        "num": 532291,
+        "word": "研究生考试12月24日举行",
+        "onboard_time": 1670057471,
+        "rank": 7,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 348042,
+        "num": 530521,
+        "word": "5位康复者讲述阳了后会经历什么",
+        "onboard_time": 1670052972,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327097,
+        "num": 525084,
+        "word": "男子地铁上不戴口罩唱歌引围观",
+        "onboard_time": 1670062452,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 679324,
+        "num": 521892,
+        "word": "C罗国籍被篡改为韩国",
+        "onboard_time": 1670048291,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 584748,
+        "num": 516228,
+        "word": "保定疫情防控",
+        "onboard_time": 1670064912,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 573998,
+        "num": 515038,
+        "word": "腾讯电竞",
+        "onboard_time": 1670063951,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 291485,
+        "num": 510908,
+        "word": "广州中小学暂不恢复线下教学",
+        "onboard_time": 1670064015,
+        "rank": 13,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 291151,
+        "num": 505818,
+        "word": "澳媒对梅西扎小人诅咒",
+        "onboard_time": 1670064733,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1045016,
+        "num": 500288,
+        "word": "大妈微信存400万手机丢失没设密码",
+        "onboard_time": 1670053091,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280341,
+        "num": 499593,
+        "word": "嘉世",
+        "onboard_time": 1670064432,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 279667,
+        "num": 494482,
+        "word": "电梯卡顿瞬间丈夫下意识抱住妻子",
+        "onboard_time": 1670061491,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269358,
+        "num": 490820,
+        "word": "广东一楼盘被质疑楼间距过近",
+        "onboard_time": 1670062752,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267079,
+        "num": 486541,
+        "word": "23岁女子腹痛晕倒确诊肠癌晚期",
+        "onboard_time": 1670045892,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234847,
+        "num": 483628,
+        "word": "男子砍伐自家种的树被判2年半",
+        "onboard_time": 1670056991,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204072,
+        "num": 478962,
+        "word": "孙颖莎",
+        "onboard_time": 1670066412,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178068,
+        "num": 475539,
+        "word": "送花给考研同学有什么意义吗",
+        "onboard_time": 1670056931,
+        "rank": 22,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 176812,
+        "num": 470834,
+        "word": "女生被奖励饼舍不得吃留给妈妈",
+        "onboard_time": 1670061971,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169949,
+        "num": 468604,
+        "word": "乌拉圭或遭FIFA严惩",
+        "onboard_time": 1670043372,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163716,
+        "num": 464795,
+        "word": "油价或迎下半年以来最大降幅",
+        "onboard_time": 1670059152,
+        "rank": 25,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 161572,
+        "num": 459998,
+        "word": "北京新增本土感染者1392例",
+        "onboard_time": 1670062452,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160774,
+        "num": 454344,
+        "word": "王楚钦",
+        "onboard_time": 1670066591,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156866,
+        "num": 449981,
+        "word": "吉林17岁失联女生父亲发声",
+        "onboard_time": 1670047392,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150694,
+        "num": 445916,
+        "word": "C罗回应与韩国队员冲突",
+        "onboard_time": 1670044870,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150265,
+        "num": 443454,
+        "word": "北京要求切实做到方舱患者应出尽出",
+        "onboard_time": 1670063111,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148601,
+        "num": 438818,
+        "word": "卡塔尔人为散场球迷准备零食",
+        "onboard_time": 1670061551,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145801,
+        "num": 437652,
+        "word": "广州抗原试剂盒销售现状",
+        "onboard_time": 1670043671,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143620,
+        "num": 431066,
+        "word": "榜一大哥网恋大妈被骗255万",
+        "onboard_time": 1670044931,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139937,
+        "num": 428431,
+        "word": "北京购买四类药品不再实名登记",
+        "onboard_time": 1670064492,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129278,
+        "num": 425318,
+        "word": "骗子找烧烤店订佛跳墙被老板戳穿",
+        "onboard_time": 1670049311,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119576,
+        "num": 419592,
+        "word": "雪夜拾荒助学的老爷爷曾任教浙大",
+        "onboard_time": 1670055372,
+        "rank": 36,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 110837,
+        "num": 415650,
+        "word": "姥姥用40年前旧外套为外孙女做旗袍",
+        "onboard_time": 1670058192,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109053,
+        "num": 411969,
+        "word": "加维是梅西迷弟",
+        "onboard_time": 1670060532,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109002,
+        "num": 408433,
+        "word": "教体局通报男老师言语骚扰初二女生",
+        "onboard_time": 1670051951,
+        "rank": 39,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 108995,
+        "num": 405386,
+        "word": "男子失业女友安慰称周末多打工养你",
+        "onboard_time": 1670052790,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102839,
+        "num": 400133,
+        "word": "88岁弟弟给102岁姐姐祝寿送红包",
+        "onboard_time": 1670066052,
+        "rank": 41,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 101108,
+        "num": 396621,
+        "word": "国际足联宣布日本第二球有效",
+        "onboard_time": 1670045231,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98042,
+        "num": 392497,
+        "word": "郑州快递还需再等等",
+        "onboard_time": 1670066772,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94195,
+        "num": 387423,
+        "word": "老师质疑校长对课后服务费实名投票",
+        "onboard_time": 1670061310,
+        "rank": 44,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 89758,
+        "num": 385840,
+        "word": "孙兴慜说赢葡萄牙不是奇迹",
+        "onboard_time": 1670044151,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89274,
+        "num": 382463,
+        "word": "考研进入倒计时这些注意事项要知道",
+        "onboard_time": 1670058251,
+        "rank": 46,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 85006,
+        "num": 377480,
+        "word": "神十四返回舱肩部装了闪光灯",
+        "onboard_time": 1670066890,
+        "rank": 47,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 82453,
+        "num": 372552,
+        "word": "女子婚后被取消土地款分配资格",
+        "onboard_time": 1670047572,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76889,
+        "num": 369572,
+        "word": "浏阳打人街道主任开除党籍",
+        "onboard_time": 1670047572,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#沉痛悼念江泽民同志#"
+    }
+  }
+}
