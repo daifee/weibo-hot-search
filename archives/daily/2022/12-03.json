@@ -1,6 +1,6 @@
 {
   "startTime": 1669998371554,
-  "endTime": 1670038493377,
+  "endTime": 1670041368725,
   "band_list": [
     {
       "raw_hot": 4176911,
@@ -60,10 +60,18 @@
     },
     {
       "raw_hot": 1882136,
-      "num": 835322,
+      "num": 845849,
       "word": "韩国球迷挑衅C罗",
       "onboard_time": 1670034071,
       "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1779721,
+      "num": 864884,
+      "word": "C罗拒绝韩国媒体采访",
+      "onboard_time": 1670038151,
+      "rank": 36,
       "category": "体育"
     },
     {
@@ -129,6 +137,14 @@
       "onboard_time": 1670025307,
       "rank": 5,
       "category": "情感"
+    },
+    {
+      "raw_hot": 951694,
+      "num": 840692,
+      "word": "佩佩为C罗出头",
+      "onboard_time": 1670037369,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 902908,
@@ -211,6 +227,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 687420,
+      "num": 831865,
+      "word": "韩国球迷高喊梅西",
+      "onboard_time": 1670038811,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 686630,
       "num": 1811093,
       "word": "韩国出线",
@@ -276,7 +300,7 @@
     },
     {
       "raw_hot": 552311,
-      "num": 798746,
+      "num": 814442,
       "word": "榴莲降价跟这条铁路有关系",
       "onboard_time": 1670035212,
       "rank": 34,
@@ -297,14 +321,6 @@
       "onboard_time": 1670032030,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 539166,
-      "num": 776589,
-      "word": "佩佩为C罗出头",
-      "onboard_time": 1670037369,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 530638,
@@ -364,7 +380,7 @@
     },
     {
       "raw_hot": 447293,
-      "num": 761839,
+      "num": 775879,
       "word": "智齿不疼也要拔吗",
       "onboard_time": 1670035449,
       "rank": 41,
@@ -404,7 +420,7 @@
     },
     {
       "raw_hot": 424968,
-      "num": 754416,
+      "num": 792768,
       "word": "卡瓦尼恐面临国际足联重罚",
       "onboard_time": 1670036171,
       "rank": 20,
@@ -433,6 +449,22 @@
       "onboard_time": 1670023087,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 419016,
+      "num": 799272,
+      "word": "诸神黄昏真的来了",
+      "onboard_time": 1670036710,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 415028,
+      "num": 782857,
+      "word": "赛事播错国歌被中国香港运动员叫停",
+      "onboard_time": 1670039950,
+      "rank": 13,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 399427,
@@ -507,6 +539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 347269,
+      "num": 749031,
+      "word": "幼师做干冰实验课堂秒变仙境",
+      "onboard_time": 1670037549,
+      "rank": 49,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 344868,
       "num": 1523292,
       "word": "广州本轮疫情16万感染者有4例危重症",
@@ -537,6 +577,14 @@
       "onboard_time": 1669986312,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 328161,
+      "num": 725526,
+      "word": "北京辟谣网传取消查验健康宝",
+      "onboard_time": 1670039890,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 323107,
@@ -603,6 +651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 275032,
+      "num": 714884,
+      "word": "湖人 表现",
+      "onboard_time": 1670038151,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 268777,
       "num": 756529,
       "word": "男子买500个水槽过滤网仅到货292个",
@@ -635,11 +691,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 235158,
-      "num": 694445,
-      "word": "诸神黄昏真的来了",
-      "onboard_time": 1670036710,
-      "rank": 36,
+      "raw_hot": 243651,
+      "num": 688410,
+      "word": "王楚钦王曼昱代表运动员宣誓",
+      "onboard_time": 1670039351,
+      "rank": 25,
       "category": "体育"
     },
     {
@@ -676,7 +732,7 @@
     },
     {
       "raw_hot": 213528,
-      "num": 661563,
+      "num": 668166,
       "word": "3岁重孙叮嘱97岁太爷爷要听话",
       "onboard_time": 1670035510,
       "rank": 49,
@@ -689,6 +745,14 @@
       "onboard_time": 1670035449,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 203971,
+      "num": 642989,
+      "word": "官方辟谣北京全面放开",
+      "onboard_time": 1670040431,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 202402,
@@ -723,6 +787,14 @@
       "category": "国内要闻,国外要闻"
     },
     {
+      "raw_hot": 182964,
+      "num": 608303,
+      "word": "雪后男子开门发现雪比人高",
+      "onboard_time": 1670038391,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 181561,
       "num": 604274,
       "word": "卡塔尔世界杯小组赛结束",
@@ -739,16 +811,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 180157,
-      "num": 622142,
-      "word": "湖人 表现",
-      "onboard_time": 1670038151,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 175385,
-      "num": 847923,
+      "num": 869140,
       "word": "近期7大防疫热点问答",
       "onboard_time": 1670028188,
       "rank": 3,
@@ -779,20 +843,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 171610,
+      "num": 596775,
+      "word": "五个超大城市同日优化出行政策",
+      "onboard_time": 1670034728,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 169972,
       "num": 2153376,
       "word": "江泽民伟大光辉的一生",
       "onboard_time": 1669976232,
       "rank": 1,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 169886,
-      "num": 588844,
-      "word": "五个超大城市同日优化出行政策",
-      "onboard_time": 1670034728,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 165802,
@@ -819,14 +883,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 160691,
-      "num": 572323,
-      "word": "C罗拒绝韩国媒体采访",
-      "onboard_time": 1670038151,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 152879,
       "num": 605314,
       "word": "我国空间站正式开启长期有人驻留模式",
@@ -841,6 +897,22 @@
       "onboard_time": 1670022847,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 151352,
+      "num": 566944,
+      "word": "中老铁路通车运营一周年",
+      "onboard_time": 1670040552,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 150638,
+      "num": 557832,
+      "word": "女子骑车撞翻路边油锅",
+      "onboard_time": 1670038751,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 142132,
@@ -915,6 +987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121394,
+      "num": 514614,
+      "word": "湖人战胜雄鹿",
+      "onboard_time": 1670038451,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121259,
       "num": 532018,
       "word": "斯诺登正式成为俄罗斯公民",
@@ -929,6 +1009,22 @@
       "onboard_time": 1670002452,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 121028,
+      "num": 502702,
+      "word": "詹姆斯28分11助攻",
+      "onboard_time": 1670041271,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 119731,
+      "num": 497496,
+      "word": "游戏停服",
+      "onboard_time": 1670041331,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 118712,
@@ -987,36 +1083,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 109109,
-      "num": 498908,
-      "word": "幼师做干冰实验课堂秒变仙境",
-      "onboard_time": 1670037549,
-      "rank": 49,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 107377,
       "num": 474399,
       "word": "浓眉半场23分",
       "onboard_time": 1670033949,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 102814,
-      "num": 488313,
-      "word": "湖人战胜雄鹿",
-      "onboard_time": 1670038451,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 100631,
-      "num": 477804,
-      "word": "雪后男子开门发现雪比人高",
-      "onboard_time": 1670038391,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 99373,
