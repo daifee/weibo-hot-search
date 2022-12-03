@@ -1,6 +1,6 @@
 {
   "startTime": 1670084691627,
-  "endTime": 1670095994007,
+  "endTime": 1670098719618,
   "band_list": [
     {
       "raw_hot": 1203833,
@@ -123,6 +123,22 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 380321,
+      "num": 224852,
+      "word": "梅西世界杯进球超越马拉多纳",
+      "onboard_time": 1670097010,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 372316,
+      "num": 226880,
+      "word": "卡佩罗说梅西动作跟不上想法",
+      "onboard_time": 1670090350,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 348079,
       "num": 603630,
       "word": "北京多处核酸检测点临时关闭",
@@ -145,14 +161,6 @@
       "onboard_time": 1670071778,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 277462,
-      "num": 226880,
-      "word": "卡佩罗说梅西动作跟不上想法",
-      "onboard_time": 1670090350,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 265913,
@@ -219,6 +227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 200355,
+      "num": 214534,
+      "word": "梅西里程碑之夜破门",
+      "onboard_time": 1670097188,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 197658,
       "num": 614757,
       "word": "大妈微信存400万手机丢失没设密码",
@@ -273,6 +289,14 @@
       "onboard_time": 1670063414,
       "rank": 29,
       "category": "游戏,艺人"
+    },
+    {
+      "raw_hot": 143332,
+      "num": 183004,
+      "word": "梅西1000号球衣海报",
+      "onboard_time": 1670098027,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 142397,
@@ -340,7 +364,7 @@
     },
     {
       "raw_hot": 123427,
-      "num": 206890,
+      "num": 221248,
       "word": "阿根廷vs澳大利亚首发",
       "onboard_time": 1670091670,
       "rank": 47,
@@ -409,6 +433,14 @@
       "onboard_time": 1670064733,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 100645,
+      "num": 180420,
+      "word": "德佩说阿根廷和澳大利亚我们都不怕",
+      "onboard_time": 1670096467,
+      "rank": 31,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 98993,
@@ -496,6 +528,14 @@
       "word": "德佩破门",
       "onboard_time": 1670083094,
       "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 55686,
+      "num": 203734,
+      "word": "阿根廷半场1比0澳大利亚",
+      "onboard_time": 1670097612,
+      "rank": 16,
       "category": "体育"
     },
     {
