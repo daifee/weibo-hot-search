@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/12/04 00:24:51 ~ 2022/12/04 02:36:52
+本榜单时间：2022/12/04 00:24:51 ~ 2022/12/04 03:14:00
 </p>
 </blockquote>
 <p>
@@ -389,6 +389,12 @@ AG（热度：71364）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%89%E7%9D%80%E5%86%B7%E9%9D%99%E8%8C%83%E5%8A%A0%E5%B0%94%23" target="weibo">
 沉着冷静范加尔（热度：29050）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BAKPL%E4%B8%96%E5%86%A0%E5%8A%A0%E6%B2%B9%23" target="weibo">
+为KPL世冠加油（热度：28476）
 </a>
 </li>
 
