@@ -1,6 +1,6 @@
 {
   "startTime": 1670084691627,
-  "endTime": 1670102133291,
+  "endTime": 1670103211585,
   "band_list": [
     {
       "raw_hot": 1203833,
@@ -195,6 +195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 246829,
+      "num": 288946,
+      "word": "澳大利亚门将失误",
+      "onboard_time": 1670101507,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 242402,
       "num": 618580,
       "word": "巴西边后卫仅剩39岁阿尔维斯",
@@ -243,8 +251,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 201425,
+      "num": 338289,
+      "word": "阿根廷晋级8强",
+      "onboard_time": 1670101688,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 199728,
-      "num": 267949,
+      "num": 283995,
       "word": "阿根廷将对阵荷兰",
       "onboard_time": 1670101867,
       "rank": 30,
@@ -273,14 +289,6 @@
       "onboard_time": 1670064912,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 162704,
-      "num": 267053,
-      "word": "澳大利亚门将失误",
-      "onboard_time": 1670101507,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 159616,
@@ -315,6 +323,14 @@
       "category": "游戏,艺人"
     },
     {
+      "raw_hot": 150319,
+      "num": 338898,
+      "word": "阿根廷2比1澳大利亚",
+      "onboard_time": 1670101507,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 142397,
       "num": 608780,
       "word": "比熊猫血还稀有的救命血",
@@ -345,6 +361,14 @@
       "onboard_time": 1670061671,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 134243,
+      "num": 598472,
+      "word": "澳媒对梅西扎小人诅咒",
+      "onboard_time": 1670064733,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 132590,
@@ -379,19 +403,19 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 124491,
-      "num": 338898,
-      "word": "阿根廷2比1澳大利亚",
-      "onboard_time": 1670101507,
-      "rank": 5,
-      "category": "体育"
-    },
-    {
       "raw_hot": 123427,
       "num": 289237,
       "word": "阿根廷vs澳大利亚首发",
       "onboard_time": 1670091670,
       "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 121956,
+      "num": 287493,
+      "word": "阿尔瓦雷斯连场破门",
+      "onboard_time": 1670101988,
+      "rank": 33,
       "category": "体育"
     },
     {
@@ -427,14 +451,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 113890,
-      "num": 338289,
-      "word": "阿根廷晋级8强",
-      "onboard_time": 1670101688,
-      "rank": 6,
-      "category": "体育"
-    },
-    {
       "raw_hot": 109239,
       "num": 602707,
       "word": "广东一楼盘被质疑楼间距过近",
@@ -448,14 +464,6 @@
       "word": "荷兰晋级8强",
       "onboard_time": 1670086930,
       "rank": 32,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 106969,
-      "num": 598472,
-      "word": "澳媒对梅西扎小人诅咒",
-      "onboard_time": 1670064733,
-      "rank": 43,
       "category": "体育"
     },
     {
@@ -568,14 +576,6 @@
       "word": "德佩破门",
       "onboard_time": 1670083094,
       "rank": 49,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 41358,
-      "num": 259846,
-      "word": "阿尔瓦雷斯连场破门",
-      "onboard_time": 1670101988,
-      "rank": 33,
       "category": "体育"
     },
     {

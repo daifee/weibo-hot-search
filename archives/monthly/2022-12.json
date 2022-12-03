@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1670102133291,
+  "endTime": 1670103211585,
   "band_list": [
     {
       "raw_hot": 6453532,
@@ -3507,6 +3507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 246829,
+      "num": 288946,
+      "word": "澳大利亚门将失误",
+      "onboard_time": 1670101507,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 246344,
       "num": 1062837,
       "word": "男子洗手池手写惊艳立体字",
@@ -3867,8 +3875,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 201425,
+      "num": 338289,
+      "word": "阿根廷晋级8强",
+      "onboard_time": 1670101688,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 199728,
-      "num": 267949,
+      "num": 283995,
       "word": "阿根廷将对阵荷兰",
       "onboard_time": 1670101867,
       "rank": 30,
@@ -4475,14 +4491,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 162704,
-      "num": 267053,
-      "word": "澳大利亚门将失误",
-      "onboard_time": 1670101507,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 161982,
       "num": 640976,
       "word": "刘诗雯说要为运动员争取更多利益",
@@ -4680,6 +4688,14 @@
       "word": "C罗即将加盟沙特豪门",
       "onboard_time": 1669803229,
       "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 150319,
+      "num": 338898,
+      "word": "阿根廷2比1澳大利亚",
+      "onboard_time": 1670101507,
+      "rank": 5,
       "category": "体育"
     },
     {
@@ -5123,14 +5139,6 @@
       "category": "科技,国内要闻"
     },
     {
-      "raw_hot": 124491,
-      "num": 338898,
-      "word": "阿根廷2比1澳大利亚",
-      "onboard_time": 1670101507,
-      "rank": 5,
-      "category": "体育"
-    },
-    {
       "raw_hot": 124041,
       "num": 587761,
       "word": "民警一路狂奔保住760万",
@@ -5184,6 +5192,14 @@
       "word": "卡塔尔画家创作1万平米世界杯画作",
       "onboard_time": 1669972872,
       "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 121956,
+      "num": 287493,
+      "word": "阿尔瓦雷斯连场破门",
+      "onboard_time": 1670101988,
+      "rank": 33,
       "category": "体育"
     },
     {
@@ -5385,14 +5401,6 @@
       "onboard_time": 1670089871,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 113890,
-      "num": 338289,
-      "word": "阿根廷晋级8强",
-      "onboard_time": 1670101688,
-      "rank": 6,
-      "category": "体育"
     },
     {
       "raw_hot": 113635,
@@ -6304,14 +6312,6 @@
       "word": "什琴斯尼连续两场扑点",
       "onboard_time": 1669838768,
       "rank": 13,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 41358,
-      "num": 259846,
-      "word": "阿尔瓦雷斯连场破门",
-      "onboard_time": 1670101988,
-      "rank": 33,
       "category": "体育"
     },
     {
