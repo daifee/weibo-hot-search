@@ -1,0 +1,410 @@
+{
+  "runTime": 1670051761179,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 19123,
+        "num": 862435,
+        "word": "江泽民同志生平",
+        "onboard_time": 1669979534,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 12861,
+        "num": 855923,
+        "word": "江泽民伟大光辉的一生",
+        "onboard_time": 1669976232,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 98386,
+        "num": 852121,
+        "word": "近期7大防疫热点问答",
+        "onboard_time": 1670028188,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2587385,
+        "num": 839928,
+        "word": "C罗国籍被篡改为韩国",
+        "onboard_time": 1670048291,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1300502,
+        "num": 833082,
+        "word": "23岁女子腹痛晕倒确诊肠癌晚期",
+        "onboard_time": 1670045892,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 610859,
+        "num": 825356,
+        "word": "乌拉圭或遭FIFA严惩",
+        "onboard_time": 1670043372,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 901168,
+        "num": 821685,
+        "word": "C罗拒绝韩国媒体采访",
+        "onboard_time": 1670038151,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 545146,
+        "num": 808199,
+        "word": "专家称奥密克戎毒力已是季节性感冒水平",
+        "onboard_time": 1670028009,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 590743,
+        "num": 802512,
+        "word": "榜一大哥网恋大妈被骗255万",
+        "onboard_time": 1670044931,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 520785,
+        "num": 797258,
+        "word": "C罗回应与韩国队员冲突",
+        "onboard_time": 1670044870,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 465707,
+        "num": 788336,
+        "word": "骗子找烧烤店订佛跳墙被老板戳穿",
+        "onboard_time": 1670049311,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 784195,
+        "num": 779735,
+        "word": "吉林17岁失联女生父亲发声",
+        "onboard_time": 1670047392,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 463786,
+        "num": 774267,
+        "word": "女子婚后被取消土地款分配资格",
+        "onboard_time": 1670047572,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 459679,
+        "num": 768352,
+        "word": "国际足联宣布日本第二球有效",
+        "onboard_time": 1670045231,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 435344,
+        "num": 761001,
+        "word": "广州抗原试剂盒销售现状",
+        "onboard_time": 1670043671,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 367827,
+        "num": 752392,
+        "word": "浏阳打人街道主任开除党籍",
+        "onboard_time": 1670047572,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307301,
+        "num": 745448,
+        "word": "佩佩为C罗出头",
+        "onboard_time": 1670037369,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 272361,
+        "num": 736500,
+        "word": "赛事播错国歌被中国香港运动员叫停",
+        "onboard_time": 1670039950,
+        "rank": 17,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 263480,
+        "num": 722809,
+        "word": "iPhone15系列配置或避免偏向Pro",
+        "onboard_time": 1670041571,
+        "rank": 18,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 251198,
+        "num": 718142,
+        "word": "林高远",
+        "onboard_time": 1670046910,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 246318,
+        "num": 711956,
+        "word": "爸爸穿着裂口的鞋去给女儿买新鞋",
+        "onboard_time": 1670042111,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227088,
+        "num": 706619,
+        "word": "为什么个别地方还是出现层层加码",
+        "onboard_time": 1670043791,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223968,
+        "num": 695402,
+        "word": "韩网评论韩国晋级16强",
+        "onboard_time": 1670044813,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202705,
+        "num": 688569,
+        "word": "智齿不疼也要拔吗",
+        "onboard_time": 1670035449,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200596,
+        "num": 682543,
+        "word": "官方辟谣北京全面放开",
+        "onboard_time": 1670040431,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198036,
+        "num": 671860,
+        "word": "内马尔手机屏保是大力神杯",
+        "onboard_time": 1670045053,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188599,
+        "num": 660869,
+        "word": "樊振东",
+        "onboard_time": 1670042291,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182554,
+        "num": 656572,
+        "word": "孙兴慜说赢葡萄牙不是奇迹",
+        "onboard_time": 1670044151,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166333,
+        "num": 645770,
+        "word": "专家称奥密克戎毒力非常低",
+        "onboard_time": 1670047331,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164672,
+        "num": 642627,
+        "word": "榴莲降价跟这条铁路有关系",
+        "onboard_time": 1670035212,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161895,
+        "num": 631247,
+        "word": "5岁妹妹看大24岁哥哥搂嫂子后吃醋",
+        "onboard_time": 1670029810,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154913,
+        "num": 623382,
+        "word": "C罗梅西只能在决赛相遇",
+        "onboard_time": 1670042591,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153619,
+        "num": 619830,
+        "word": "诸神黄昏真的来了",
+        "onboard_time": 1670036710,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141940,
+        "num": 611391,
+        "word": "女子喝便利蜂热可可嚼出蟑螂",
+        "onboard_time": 1670033853,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138926,
+        "num": 599582,
+        "word": "小城市最让你窒息的是什么",
+        "onboard_time": 1670025307,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 130782,
+        "num": 595714,
+        "word": "小男孩练外科缝合反手打手术结",
+        "onboard_time": 1670050390,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122289,
+        "num": 582829,
+        "word": "齐达内谈论亚洲球队进步很大",
+        "onboard_time": 1670047092,
+        "rank": 36,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 118453,
+        "num": 580229,
+        "word": "幼师做干冰实验课堂秒变仙境",
+        "onboard_time": 1670037549,
+        "rank": 37,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 106362,
+        "num": 571013,
+        "word": "北京辟谣网传取消查验健康宝",
+        "onboard_time": 1670039890,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104193,
+        "num": 559464,
+        "word": "韩国球迷高喊梅西",
+        "onboard_time": 1670038811,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102736,
+        "num": 552538,
+        "word": "浏阳街道干部殴打居民被政务撤职",
+        "onboard_time": 1670050815,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101588,
+        "num": 545492,
+        "word": "老人再婚脑瘫老伴不愿照料被诉离婚",
+        "onboard_time": 1670032030,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99902,
+        "num": 537267,
+        "word": "辽宁研考",
+        "onboard_time": 1670032209,
+        "rank": 42,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 91110,
+        "num": 531704,
+        "word": "建筑史学家郭黛姮逝世",
+        "onboard_time": 1670050632,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87237,
+        "num": 522221,
+        "word": "雪后男子开门发现雪比人高",
+        "onboard_time": 1670038391,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84254,
+        "num": 518378,
+        "word": "北京公布第三方核酸检测机构合格名单",
+        "onboard_time": 1670034189,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83587,
+        "num": 505620,
+        "word": "女主播拒见面男子捧玫瑰躺在雪中断桥",
+        "onboard_time": 1670029628,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78689,
+        "num": 497563,
+        "word": "卡瓦尼恐面临国际足联重罚",
+        "onboard_time": 1670036171,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 75906,
+        "num": 489959,
+        "word": "VAR真的毁了足球吗",
+        "onboard_time": 1670043431,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 73655,
+        "num": 482790,
+        "word": "汕头明润3比1四川丰谷",
+        "onboard_time": 1670051711,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#12月6日隆重举行江泽民同志追悼大会#"
+    }
+  }
+}
