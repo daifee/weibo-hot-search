@@ -1,6 +1,6 @@
 {
   "startTime": 1669998371554,
-  "endTime": 1670037627713,
+  "endTime": 1670038493377,
   "band_list": [
     {
       "raw_hot": 4176911,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 1882136,
-      "num": 808825,
+      "num": 835322,
       "word": "韩国球迷挑衅C罗",
       "onboard_time": 1670034071,
       "rank": 9,
@@ -204,7 +204,7 @@
     },
     {
       "raw_hot": 707808,
-      "num": 781012,
+      "num": 805657,
       "word": "B21",
       "onboard_time": 1670031489,
       "rank": 22,
@@ -251,19 +251,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 626279,
+      "num": 813489,
+      "word": "女子喝便利蜂热可可嚼出蟑螂",
+      "onboard_time": 1670033853,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 615949,
       "num": 1656267,
       "word": "康辉超长口播",
       "onboard_time": 1669983313,
       "rank": 12,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 579726,
-      "num": 751983,
-      "word": "女子喝便利蜂热可可嚼出蟑螂",
-      "onboard_time": 1670033853,
-      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -275,8 +275,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 552311,
+      "num": 798746,
+      "word": "榴莲降价跟这条铁路有关系",
+      "onboard_time": 1670035212,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 545130,
-      "num": 736913,
+      "num": 771227,
       "word": "北京公布第三方核酸检测机构合格名单",
       "onboard_time": 1670034189,
       "rank": 31,
@@ -291,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 539166,
+      "num": 776589,
+      "word": "佩佩为C罗出头",
+      "onboard_time": 1670037369,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 530638,
       "num": 1531980,
       "word": "小伙患怪病身高从1米8变1米7",
@@ -299,12 +315,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 524563,
-      "num": 746242,
-      "word": "榴莲降价跟这条铁路有关系",
-      "onboard_time": 1670035212,
-      "rank": 34,
-      "category": "社会新闻"
+      "raw_hot": 517757,
+      "num": 794848,
+      "word": "美国新一代B21轰炸机首次公开",
+      "onboard_time": 1670033590,
+      "rank": 35,
+      "category": "军事"
     },
     {
       "raw_hot": 481469,
@@ -339,19 +355,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 469546,
-      "num": 718140,
-      "word": "美国新一代B21轰炸机首次公开",
-      "onboard_time": 1670033590,
-      "rank": 35,
-      "category": "军事"
-    },
-    {
       "raw_hot": 458255,
       "num": 839327,
       "word": "男子称5000元大理石桌被保洁擦花",
       "onboard_time": 1670026568,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 447293,
+      "num": 761839,
+      "word": "智齿不疼也要拔吗",
+      "onboard_time": 1670035449,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -379,20 +395,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 430714,
-      "num": 706560,
-      "word": "智齿不疼也要拔吗",
-      "onboard_time": 1670035449,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 426273,
       "num": 727340,
       "word": "辽宁研考",
       "onboard_time": 1670032209,
       "rank": 39,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 424968,
+      "num": 754416,
+      "word": "卡瓦尼恐面临国际足联重罚",
+      "onboard_time": 1670036171,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 420622,
@@ -515,14 +531,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 335059,
-      "num": 667534,
-      "word": "卡瓦尼恐面临国际足联重罚",
-      "onboard_time": 1670036171,
-      "rank": 20,
-      "category": "体育"
-    },
-    {
       "raw_hot": 329649,
       "num": 1698839,
       "word": "C罗能否带葡萄牙完成复仇",
@@ -627,6 +635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 235158,
+      "num": 694445,
+      "word": "诸神黄昏真的来了",
+      "onboard_time": 1670036710,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 234353,
       "num": 1266451,
       "word": "脑瘫女孩当美妆博主走红回应被质疑",
@@ -659,8 +675,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 213528,
+      "num": 661563,
+      "word": "3岁重孙叮嘱97岁太爷爷要听话",
+      "onboard_time": 1670035510,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 212803,
-      "num": 587202,
+      "num": 641892,
       "word": "加纳主帅宣布辞职",
       "onboard_time": 1670035449,
       "rank": 44,
@@ -680,14 +704,6 @@
       "word": "英国一核酸机构错报3.9万份阳性结果",
       "onboard_time": 1669983671,
       "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 196007,
-      "num": 574082,
-      "word": "3岁重孙叮嘱97岁太爷爷要听话",
-      "onboard_time": 1670035510,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -723,6 +739,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 180157,
+      "num": 622142,
+      "word": "湖人 表现",
+      "onboard_time": 1670038151,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 175385,
+      "num": 847923,
+      "word": "近期7大防疫热点问答",
+      "onboard_time": 1670028188,
+      "rank": 3,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 175118,
       "num": 1336323,
       "word": "多家茶饮品牌相继撕掉日式标签",
@@ -732,7 +764,7 @@
     },
     {
       "raw_hot": 172654,
-      "num": 569715,
+      "num": 581077,
       "word": "湖人vs雄鹿",
       "onboard_time": 1670030348,
       "rank": 44,
@@ -753,6 +785,14 @@
       "onboard_time": 1669976232,
       "rank": 1,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 169886,
+      "num": 588844,
+      "word": "五个超大城市同日优化出行政策",
+      "onboard_time": 1670034728,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 165802,
@@ -779,20 +819,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 160902,
-      "num": 555119,
-      "word": "诸神黄昏真的来了",
-      "onboard_time": 1670036710,
+      "raw_hot": 160691,
+      "num": 572323,
+      "word": "C罗拒绝韩国媒体采访",
+      "onboard_time": 1670038151,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 156778,
-      "num": 543669,
-      "word": "五个超大城市同日优化出行政策",
-      "onboard_time": 1670034728,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 152879,
@@ -867,14 +899,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 130456,
-      "num": 497040,
-      "word": "佩佩为C罗出头",
-      "onboard_time": 1670037369,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 128496,
       "num": 546372,
       "word": "卡塔尔小王子晒中国粉丝手绘",
@@ -905,14 +929,6 @@
       "onboard_time": 1670002452,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 118993,
-      "num": 784839,
-      "word": "近期7大防疫热点问答",
-      "onboard_time": 1670028188,
-      "rank": 3,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 118712,
@@ -971,8 +987,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 107637,
-      "num": 464070,
+      "raw_hot": 109109,
+      "num": 498908,
       "word": "幼师做干冰实验课堂秒变仙境",
       "onboard_time": 1670037549,
       "rank": 49,
@@ -985,6 +1001,22 @@
       "onboard_time": 1670033949,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 102814,
+      "num": 488313,
+      "word": "湖人战胜雄鹿",
+      "onboard_time": 1670038451,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 100631,
+      "num": 477804,
+      "word": "雪后男子开门发现雪比人高",
+      "onboard_time": 1670038391,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 99373,
