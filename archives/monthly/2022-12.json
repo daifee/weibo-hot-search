@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1670084691627,
+  "endTime": 1670085760186,
   "band_list": [
     {
       "raw_hot": 6453532,
@@ -891,6 +891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 859531,
+      "num": 754142,
+      "word": "济南要求所有公厕扫码并查验核酸",
+      "onboard_time": 1670080092,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 857152,
       "num": 707353,
       "word": "考研没延期",
@@ -960,14 +968,6 @@
       "word": "35岁辣妈晒精致生活常被夸年轻",
       "onboard_time": 1669824494,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 837757,
-      "num": 754142,
-      "word": "济南要求所有公厕扫码并查验核酸",
-      "onboard_time": 1670080092,
-      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -1507,6 +1507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 631029,
+      "num": 626896,
+      "word": "荷兰球衣",
+      "onboard_time": 1670082614,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 628945,
       "num": 628945,
       "word": "凤鸣华府",
@@ -1769,14 +1777,6 @@
       "onboard_time": 1669972031,
       "rank": 41,
       "category": "科技"
-    },
-    {
-      "raw_hot": 547313,
-      "num": 626896,
-      "word": "荷兰球衣",
-      "onboard_time": 1670082614,
-      "rank": 6,
-      "category": "体育"
     },
     {
       "raw_hot": 545130,
@@ -3435,6 +3435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 248828,
+      "num": 601471,
+      "word": "9至45岁女性可接种HPV九价疫苗",
+      "onboard_time": 1670084351,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 246344,
       "num": 1062837,
       "word": "男子洗手池手写惊艳立体字",
@@ -3611,6 +3619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 222887,
+      "num": 613975,
+      "word": "荷兰半场2比0美国",
+      "onboard_time": 1670082793,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 222825,
       "num": 698307,
       "word": "哥斯达黎加2比4德国",
@@ -3721,6 +3737,14 @@
       "onboard_time": 1669944010,
       "rank": 40,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 211408,
+      "num": 603630,
+      "word": "北京多处核酸检测点临时关闭",
+      "onboard_time": 1670083573,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 211155,
@@ -3848,14 +3872,6 @@
       "word": "法国进球被吹",
       "onboard_time": 1669828814,
       "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 193792,
-      "num": 613975,
-      "word": "荷兰半场2比0美国",
-      "onboard_time": 1670082793,
-      "rank": 23,
       "category": "体育"
     },
     {
@@ -4563,6 +4579,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 151831,
+      "num": 599901,
+      "word": "美国 进攻",
+      "onboard_time": 1670084231,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 151710,
       "num": 386649,
       "word": "瑞士小组第二晋级",
@@ -5033,14 +5057,6 @@
       "onboard_time": 1669863070,
       "rank": 42,
       "category": "科技,国内要闻"
-    },
-    {
-      "raw_hot": 124228,
-      "num": 603630,
-      "word": "北京多处核酸检测点临时关闭",
-      "onboard_time": 1670083573,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 124041,
@@ -5563,22 +5579,6 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 103466,
-      "num": 601471,
-      "word": "9至45岁女性可接种HPV九价疫苗",
-      "onboard_time": 1670084351,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 103041,
-      "num": 599901,
-      "word": "美国 进攻",
-      "onboard_time": 1670084231,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 102736,
       "num": 552538,
       "word": "浏阳街道干部殴打居民被政务撤职",
@@ -5664,6 +5664,14 @@
       "word": "莱基破门",
       "onboard_time": 1669850468,
       "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 98993,
+      "num": 501598,
+      "word": "邓弗里斯助攻梅开二度",
+      "onboard_time": 1670085132,
+      "rank": 39,
       "category": "体育"
     },
     {
@@ -6088,6 +6096,14 @@
       "word": "法国大概率小组第一",
       "onboard_time": 1669830372,
       "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 59360,
+      "num": 479440,
+      "word": "德佩破门",
+      "onboard_time": 1670083094,
+      "rank": 49,
       "category": "体育"
     },
     {

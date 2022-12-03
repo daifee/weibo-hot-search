@@ -1,6 +1,6 @@
 {
   "startTime": 1670084691627,
-  "endTime": 1670084691627,
+  "endTime": 1670085760186,
   "band_list": [
     {
       "raw_hot": 1203833,
@@ -11,7 +11,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 837757,
+      "raw_hot": 859531,
       "num": 630904,
       "word": "济南要求所有公厕扫码并查验核酸",
       "onboard_time": 1670080092,
@@ -35,6 +35,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 631029,
+      "num": 626896,
+      "word": "荷兰球衣",
+      "onboard_time": 1670082614,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 554242,
       "num": 627774,
       "word": "球王贝利放弃化疗转入临终病房",
@@ -43,15 +51,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 547313,
-      "num": 626896,
-      "word": "荷兰球衣",
-      "onboard_time": 1670082614,
-      "rank": 6,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 540582,
+      "raw_hot": 542925,
       "num": 625898,
       "word": "熬夜让内分泌紊乱易患结节或肿瘤",
       "onboard_time": 1670074573,
@@ -123,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 248828,
+      "num": 601471,
+      "word": "9至45岁女性可接种HPV九价疫苗",
+      "onboard_time": 1670084351,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 242402,
       "num": 618580,
       "word": "巴西边后卫仅剩39岁阿尔维斯",
@@ -147,11 +155,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 222887,
+      "num": 613975,
+      "word": "荷兰半场2比0美国",
+      "onboard_time": 1670082793,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 221795,
       "num": 615919,
       "word": "3人在美容院打溶脂针致皮肤严重溃烂",
       "onboard_time": 1670076312,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 211408,
+      "num": 603630,
+      "word": "北京多处核酸检测点临时关闭",
+      "onboard_time": 1670083573,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -169,14 +193,6 @@
       "onboard_time": 1670053091,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 193792,
-      "num": 613975,
-      "word": "荷兰半场2比0美国",
-      "onboard_time": 1670082793,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 186692,
@@ -217,6 +233,14 @@
       "onboard_time": 1670073253,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 151831,
+      "num": 599901,
+      "word": "美国 进攻",
+      "onboard_time": 1670084231,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 150332,
@@ -291,14 +315,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 124228,
-      "num": 603630,
-      "word": "北京多处核酸检测点临时关闭",
-      "onboard_time": 1670083573,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 116610,
       "num": 603461,
       "word": "多国提出派航天员参与中国空间站任务",
@@ -315,12 +331,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 103466,
-      "num": 601471,
-      "word": "9至45岁女性可接种HPV九价疫苗",
-      "onboard_time": 1670084351,
-      "rank": 39,
-      "category": "社会新闻"
+      "raw_hot": 103635,
+      "num": 599410,
+      "word": "嘉世",
+      "onboard_time": 1670064432,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 103086,
@@ -331,27 +347,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 103041,
-      "num": 599901,
-      "word": "美国 进攻",
-      "onboard_time": 1670084231,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 102849,
-      "num": 599410,
-      "word": "嘉世",
-      "onboard_time": 1670064432,
-      "rank": 42,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 101510,
       "num": 598472,
       "word": "澳媒对梅西扎小人诅咒",
       "onboard_time": 1670064733,
       "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 98993,
+      "num": 501598,
+      "word": "邓弗里斯助攻梅开二度",
+      "onboard_time": 1670085132,
+      "rank": 39,
       "category": "体育"
     },
     {
@@ -401,6 +409,22 @@
       "onboard_time": 1670084652,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 71364,
+      "num": 482369,
+      "word": "AG",
+      "onboard_time": 1670077718,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 59360,
+      "num": 479440,
+      "word": "德佩破门",
+      "onboard_time": 1670083094,
+      "rank": 49,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
