@@ -1,6 +1,6 @@
 {
   "startTime": 1669998371554,
-  "endTime": 1670035709136,
+  "endTime": 1670037627713,
   "band_list": [
     {
       "raw_hot": 4176911,
@@ -59,6 +59,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1882136,
+      "num": 808825,
+      "word": "韩国球迷挑衅C罗",
+      "onboard_time": 1670034071,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1769761,
       "num": 2010001,
       "word": "C罗被换下",
@@ -88,14 +96,6 @@
       "word": "佩佩",
       "onboard_time": 1669995492,
       "rank": 4,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1175673,
-      "num": 808825,
-      "word": "韩国球迷挑衅C罗",
-      "onboard_time": 1670034071,
-      "rank": 9,
       "category": "体育"
     },
     {
@@ -203,6 +203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 707808,
+      "num": 781012,
+      "word": "B21",
+      "onboard_time": 1670031489,
+      "rank": 22,
+      "category": "军事"
+    },
+    {
       "raw_hot": 686630,
       "num": 1811093,
       "word": "韩国出线",
@@ -251,12 +259,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 588992,
-      "num": 781012,
-      "word": "B21",
-      "onboard_time": 1670031489,
-      "rank": 22,
-      "category": "军事"
+      "raw_hot": 579726,
+      "num": 751983,
+      "word": "女子喝便利蜂热可可嚼出蟑螂",
+      "onboard_time": 1670033853,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 553308,
@@ -264,6 +272,14 @@
       "word": "女子喂3天流浪猫被回赠活老鼠",
       "onboard_time": 1670024767,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 545130,
+      "num": 736913,
+      "word": "北京公布第三方核酸检测机构合格名单",
+      "onboard_time": 1670034189,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -283,20 +299,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 524563,
+      "num": 746242,
+      "word": "榴莲降价跟这条铁路有关系",
+      "onboard_time": 1670035212,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 481469,
       "num": 1471380,
       "word": "葡萄牙开场五分钟进球",
       "onboard_time": 1669994414,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 477651,
-      "num": 749040,
-      "word": "女子喝便利蜂热可可嚼出蟑螂",
-      "onboard_time": 1670033853,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 477282,
@@ -323,19 +339,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 469546,
+      "num": 718140,
+      "word": "美国新一代B21轰炸机首次公开",
+      "onboard_time": 1670033590,
+      "rank": 35,
+      "category": "军事"
+    },
+    {
       "raw_hot": 458255,
       "num": 839327,
       "word": "男子称5000元大理石桌被保洁擦花",
       "onboard_time": 1670026568,
       "rank": 12,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 436735,
-      "num": 736913,
-      "word": "北京公布第三方核酸检测机构合格名单",
-      "onboard_time": 1670034189,
-      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -361,6 +377,14 @@
       "onboard_time": 1670000711,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 430714,
+      "num": 706560,
+      "word": "智齿不疼也要拔吗",
+      "onboard_time": 1670035449,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 426273,
@@ -491,6 +515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 335059,
+      "num": 667534,
+      "word": "卡瓦尼恐面临国际足联重罚",
+      "onboard_time": 1670036171,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 329649,
       "num": 1698839,
       "word": "C罗能否带葡萄牙完成复仇",
@@ -595,14 +627,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 253680,
-      "num": 649424,
-      "word": "美国新一代B21轰炸机首次公开",
-      "onboard_time": 1670033590,
-      "rank": 35,
-      "category": "军事"
-    },
-    {
       "raw_hot": 234353,
       "num": 1266451,
       "word": "脑瘫女孩当美妆博主走红回应被质疑",
@@ -635,6 +659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 212803,
+      "num": 587202,
+      "word": "加纳主帅宣布辞职",
+      "onboard_time": 1670035449,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 202402,
       "num": 667376,
       "word": "韩国志愿者翻译孙兴慜采访时落泪",
@@ -648,6 +680,14 @@
       "word": "英国一核酸机构错报3.9万份阳性结果",
       "onboard_time": 1669983671,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 196007,
+      "num": 574082,
+      "word": "3岁重孙叮嘱97岁太爷爷要听话",
+      "onboard_time": 1670035510,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -691,6 +731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 172654,
+      "num": 569715,
+      "word": "湖人vs雄鹿",
+      "onboard_time": 1670030348,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 172614,
       "num": 599186,
       "word": "2022乒超联赛",
@@ -715,14 +763,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 165617,
-      "num": 593733,
-      "word": "榴莲降价跟这条铁路有关系",
-      "onboard_time": 1670035212,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 163288,
       "num": 655616,
       "word": "杭州东站出站风险筛查已恢复正常",
@@ -737,6 +777,22 @@
       "onboard_time": 1670029450,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 160902,
+      "num": 555119,
+      "word": "诸神黄昏真的来了",
+      "onboard_time": 1670036710,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 156778,
+      "num": 543669,
+      "word": "五个超大城市同日优化出行政策",
+      "onboard_time": 1670034728,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 152879,
@@ -811,6 +867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130456,
+      "num": 497040,
+      "word": "佩佩为C罗出头",
+      "onboard_time": 1670037369,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 128496,
       "num": 546372,
       "word": "卡塔尔小王子晒中国粉丝手绘",
@@ -819,36 +883,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 126239,
-      "num": 569715,
-      "word": "湖人vs雄鹿",
-      "onboard_time": 1670030348,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 124777,
-      "num": 541372,
-      "word": "智齿不疼也要拔吗",
-      "onboard_time": 1670035449,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 123474,
       "num": 1266667,
       "word": "黄喜灿绝杀",
       "onboard_time": 1670002030,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 122871,
-      "num": 535555,
-      "word": "五个超大城市同日优化出行政策",
-      "onboard_time": 1670034728,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 121259,
@@ -867,12 +907,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 119652,
-      "num": 518375,
-      "word": "加纳主帅宣布辞职",
-      "onboard_time": 1670035449,
-      "rank": 44,
-      "category": "体育"
+      "raw_hot": 118993,
+      "num": 784839,
+      "word": "近期7大防疫热点问答",
+      "onboard_time": 1670028188,
+      "rank": 3,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 118712,
@@ -881,6 +921,14 @@
       "onboard_time": 1670016547,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 118266,
+      "num": 477247,
+      "word": "B21可以顺利服役吗",
+      "onboard_time": 1670037130,
+      "rank": 47,
+      "category": "军事"
     },
     {
       "raw_hot": 117276,
@@ -923,20 +971,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 107637,
+      "num": 464070,
+      "word": "幼师做干冰实验课堂秒变仙境",
+      "onboard_time": 1670037549,
+      "rank": 49,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 107377,
       "num": 474399,
       "word": "浓眉半场23分",
       "onboard_time": 1670033949,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 106738,
-      "num": 482420,
-      "word": "3岁重孙叮嘱97岁太爷爷要听话",
-      "onboard_time": 1670035510,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 99373,
