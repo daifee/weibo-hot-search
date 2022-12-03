@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1670087741229,
+  "endTime": 1670088795450,
   "band_list": [
     {
       "raw_hot": 6453532,
@@ -1835,6 +1835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 524729,
+      "num": 550233,
+      "word": "阿根廷vs澳大利亚",
+      "onboard_time": 1670087231,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 522765,
       "num": 1492276,
       "word": "女子存钱银行多给1万法院判还钱",
@@ -2817,14 +2825,6 @@
       "onboard_time": 1669854490,
       "rank": 18,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 331318,
-      "num": 550233,
-      "word": "阿根廷vs澳大利亚",
-      "onboard_time": 1670087231,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 330510,

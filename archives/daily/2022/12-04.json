@@ -1,6 +1,6 @@
 {
   "startTime": 1670084691627,
-  "endTime": 1670087741229,
+  "endTime": 1670088795450,
   "band_list": [
     {
       "raw_hot": 1203833,
@@ -67,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 524729,
+      "num": 550233,
+      "word": "阿根廷vs澳大利亚",
+      "onboard_time": 1670087231,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 474216,
       "num": 601471,
       "word": "9至45岁女性可接种HPV九价疫苗",
@@ -121,14 +129,6 @@
       "onboard_time": 1670083573,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 331318,
-      "num": 550233,
-      "word": "阿根廷vs澳大利亚",
-      "onboard_time": 1670087231,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 317839,
