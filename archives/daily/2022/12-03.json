@@ -1,6 +1,6 @@
 {
   "startTime": 1669998371554,
-  "endTime": 1670048545234,
+  "endTime": 1670049431278,
   "band_list": [
     {
       "raw_hot": 4176911,
@@ -91,20 +91,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1460265,
+      "num": 768795,
+      "word": "23岁女子腹痛晕倒确诊肠癌晚期",
+      "onboard_time": 1670045892,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1446663,
       "num": 1988512,
       "word": "加纳0比2乌拉圭",
       "onboard_time": 1670001070,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1365110,
-      "num": 768795,
-      "word": "23岁女子腹痛晕倒确诊肠癌晚期",
-      "onboard_time": 1670045892,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1319120,
@@ -267,6 +267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 708791,
+      "num": 725720,
+      "word": "C罗回应与韩国队员冲突",
+      "onboard_time": 1670044870,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 707808,
       "num": 805657,
       "word": "B21",
@@ -299,14 +307,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 663926,
-      "num": 725720,
-      "word": "C罗回应与韩国队员冲突",
-      "onboard_time": 1670044870,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 662243,
       "num": 1560701,
       "word": "不给乌拉圭点球",
@@ -323,12 +323,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 660784,
+      "num": 717711,
+      "word": "C罗国籍被篡改为韩国",
+      "onboard_time": 1670048291,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 659990,
       "num": 870445,
       "word": "刘诗雯当选国际乒联运动员委员会主席",
       "onboard_time": 1670025907,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 647566,
+      "num": 708964,
+      "word": "吉林17岁失联女生父亲发声",
+      "onboard_time": 1670047392,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 644513,
@@ -395,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 531389,
+      "num": 721841,
+      "word": "国际足联宣布日本第二球有效",
+      "onboard_time": 1670045231,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 530638,
       "num": 1531980,
       "word": "小伙患怪病身高从1米8变1米7",
@@ -417,14 +441,6 @@
       "onboard_time": 1670033590,
       "rank": 35,
       "category": "军事"
-    },
-    {
-      "raw_hot": 500428,
-      "num": 721841,
-      "word": "国际足联宣布日本第二球有效",
-      "onboard_time": 1670045231,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 481469,
@@ -489,14 +505,6 @@
       "onboard_time": 1670042591,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 436458,
-      "num": 579365,
-      "word": "吉林17岁失联女生父亲发声",
-      "onboard_time": 1670047392,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 435797,
@@ -619,6 +627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 371972,
+      "num": 688376,
+      "word": "浏阳打人街道主任开除党籍",
+      "onboard_time": 1670047572,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 364805,
       "num": 1770373,
       "word": "智齿该拔就得拔",
@@ -648,6 +664,14 @@
       "word": "上海海关截获违规进境活体蝾螈232只",
       "onboard_time": 1669993031,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 353953,
+      "num": 676918,
+      "word": "女子婚后被取消土地款分配资格",
+      "onboard_time": 1670047572,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -763,7 +787,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 276386,
+      "raw_hot": 280075,
       "num": 674206,
       "word": "为什么个别地方还是出现层层加码",
       "onboard_time": 1670043791,
@@ -827,6 +851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 233770,
+      "num": 639616,
+      "word": "林高远",
+      "onboard_time": 1670046910,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 232170,
       "num": 1393050,
       "word": "健康的异地恋是什么感觉",
@@ -859,14 +891,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 217732,
-      "num": 639616,
-      "word": "林高远",
-      "onboard_time": 1670046910,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
       "raw_hot": 213528,
       "num": 668166,
       "word": "3岁重孙叮嘱97岁太爷爷要听话",
@@ -896,22 +920,6 @@
       "word": "英国一核酸机构错报3.9万份阳性结果",
       "onboard_time": 1669983671,
       "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 196085,
-      "num": 610982,
-      "word": "女子婚后被取消土地款分配资格",
-      "onboard_time": 1670047572,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 190430,
-      "num": 605009,
-      "word": "浏阳打人街道主任开除党籍",
-      "onboard_time": 1670047572,
-      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -1195,14 +1203,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 118096,
-      "num": 512630,
-      "word": "C罗国籍被篡改为韩国",
-      "onboard_time": 1670048291,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 117276,
       "num": 1215708,
       "word": "乌拉圭小组出局",
@@ -1283,6 +1283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 100023,
+      "num": 492698,
+      "word": "骗子找烧烤店订佛跳墙被老板戳穿",
+      "onboard_time": 1670049311,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 99373,
       "num": 484899,
       "word": "沃尔玛回应火腿骨头外贴一层瘦肉",
@@ -1296,6 +1304,14 @@
       "word": "金英权破门",
       "onboard_time": 1669996151,
       "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 97684,
+      "num": 483879,
+      "word": "库里19分11篮板",
+      "onboard_time": 1670049311,
+      "rank": 43,
       "category": "体育"
     },
     {
@@ -1353,6 +1369,14 @@
       "onboard_time": 1670011506,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 88088,
+      "num": 448583,
+      "word": "专家称奥密克戎毒力非常低",
+      "onboard_time": 1670047331,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 76197,
