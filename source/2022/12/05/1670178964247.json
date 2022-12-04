@@ -1,0 +1,410 @@
+{
+  "runTime": 1670178964247,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 113079,
+        "num": 284790,
+        "word": "宁波不再开展常态化核酸检测",
+        "onboard_time": 1670166915,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 373999,
+        "num": 282707,
+        "word": "英格兰vs塞内加尔",
+        "onboard_time": 1670174292,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 45668,
+        "num": 280019,
+        "word": "重症高风险人群最有效的保护是接种疫苗",
+        "onboard_time": 1670163433,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 352923,
+        "num": 275768,
+        "word": "新冠发病7天内身体会发生什么变化",
+        "onboard_time": 1670162112,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315803,
+        "num": 272983,
+        "word": "世界杯 裁判",
+        "onboard_time": 1670173390,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 303806,
+        "num": 267519,
+        "word": "杭州疫情防控",
+        "onboard_time": 1670168533,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297321,
+        "num": 264527,
+        "word": "姆巴佩 跑的真快",
+        "onboard_time": 1670169791,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 263497,
+        "num": 263497,
+        "word": "6名奥密克戎康复者自述",
+        "onboard_time": 1670170571,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161880,
+        "num": 161880,
+        "word": "法国3比1波兰",
+        "onboard_time": 1670173346,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145274,
+        "num": 145274,
+        "word": "姆巴佩太强了",
+        "onboard_time": 1670175372,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 295013,
+        "num": 143011,
+        "word": "婚礼后5天发现老婆与前男友领证",
+        "onboard_time": 1670165173,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235764,
+        "num": 139335,
+        "word": "C罗训练后落单独自压腿",
+        "onboard_time": 1670176213,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135610,
+        "num": 135610,
+        "word": "马克龙预测法国3比1胜波兰",
+        "onboard_time": 1670173631,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128833,
+        "num": 128833,
+        "word": "莱万",
+        "onboard_time": 1670170152,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123855,
+        "num": 123855,
+        "word": "男子塞招嫖卡被退伍军人一把揪住",
+        "onboard_time": 1670165652,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115622,
+        "num": 115622,
+        "word": "小狗被卡宠物箱遭其他狗狗围观",
+        "onboard_time": 1670174051,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113216,
+        "num": 113216,
+        "word": "法国解除封印",
+        "onboard_time": 1670171531,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107951,
+        "num": 107951,
+        "word": "山东疫情防控",
+        "onboard_time": 1670163253,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106123,
+        "num": 106123,
+        "word": "上海饭店商场仍须48小时核酸",
+        "onboard_time": 1670169615,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98609,
+        "num": 98609,
+        "word": "5岁听障女孩丢失30万人工耳蜗",
+        "onboard_time": 1670171112,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89806,
+        "num": 89806,
+        "word": "河南疫情防控",
+        "onboard_time": 1670164334,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75825,
+        "num": 75825,
+        "word": "姆巴佩弯道超车",
+        "onboard_time": 1670171684,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 73036,
+        "num": 73036,
+        "word": "杭州不再开展常态化核酸检测",
+        "onboard_time": 1670168953,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71494,
+        "num": 71494,
+        "word": "格列兹曼 强",
+        "onboard_time": 1670172192,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 66942,
+        "num": 66942,
+        "word": "大妈微信存400万没设密码手机已找回",
+        "onboard_time": 1670152391,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63485,
+        "num": 63485,
+        "word": "男子见阿根廷输球血压爆表鼻血狂喷",
+        "onboard_time": 1670171653,
+        "rank": 25,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 62951,
+        "num": 62951,
+        "word": "姆巴佩 进球",
+        "onboard_time": 1670171832,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 61744,
+        "num": 61744,
+        "word": "你会喜欢上频繁聊天的人吗",
+        "onboard_time": 1670148492,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 61190,
+        "num": 61190,
+        "word": "吉鲁倒钩 帅",
+        "onboard_time": 1670171413,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 59505,
+        "num": 59505,
+        "word": "原神",
+        "onboard_time": 1670158692,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 59233,
+        "num": 59233,
+        "word": "专家称新冠防控回归乙类管理条件渐趋成熟",
+        "onboard_time": 1670155392,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58749,
+        "num": 58749,
+        "word": "50岁被裁女空乘空窗期自学获offer",
+        "onboard_time": 1670158333,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57210,
+        "num": 57210,
+        "word": "核酸暴利如何终结",
+        "onboard_time": 1670152992,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55237,
+        "num": 55237,
+        "word": "男子卖彩虹圈玩出特效感月入超三万",
+        "onboard_time": 1670158152,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54947,
+        "num": 54947,
+        "word": "内马尔将出战对阵韩国比赛",
+        "onboard_time": 1670159593,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 52368,
+        "num": 52368,
+        "word": "浙江多地调整疫情防控措施",
+        "onboard_time": 1670169853,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49900,
+        "num": 49900,
+        "word": "法国晋级8强",
+        "onboard_time": 1670174652,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 48435,
+        "num": 48435,
+        "word": "姆巴佩梅开二度",
+        "onboard_time": 1670173031,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 48340,
+        "num": 48340,
+        "word": "学生希望猪肚加量食堂删掉猪肚2字",
+        "onboard_time": 1670144471,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47546,
+        "num": 47546,
+        "word": "法国 门将",
+        "onboard_time": 1670168533,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43891,
+        "num": 43891,
+        "word": "山东进入公共场所不再查验健康码和核酸",
+        "onboard_time": 1670163854,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41746,
+        "num": 43884,
+        "word": "如何提塑料袋不撞腿",
+        "onboard_time": 1670171471,
+        "rank": 41,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 40934,
+        "num": 43869,
+        "word": "郑州发布2022年163号通告",
+        "onboard_time": 1670155573,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40329,
+        "num": 43865,
+        "word": "莱万点球破门",
+        "onboard_time": 1670176451,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 39822,
+        "num": 43842,
+        "word": "小猫咪有多怕冷",
+        "onboard_time": 1670153054,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 38747,
+        "num": 43830,
+        "word": "宿舍关系有时也需要打直球",
+        "onboard_time": 1670161814,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 35131,
+        "num": 43820,
+        "word": "00后女大学生做宿舍美甲月入过万",
+        "onboard_time": 1670144351,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30842,
+        "num": 43812,
+        "word": "又一批医疗机构不再提供社会面核酸采样服务",
+        "onboard_time": 1670151014,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29675,
+        "num": 43789,
+        "word": "为什么航天员出舱需要被人抬着走",
+        "onboard_time": 1670164634,
+        "rank": 48,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 27218,
+        "num": 43778,
+        "word": "6岁男孩走路像小鸭子查出罕见病",
+        "onboard_time": 1670156653,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#江泽民同志生平#"
+    }
+  }
+}

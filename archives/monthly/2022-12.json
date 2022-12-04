@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1670178105296,
+  "endTime": 1670178964247,
   "band_list": [
     {
       "raw_hot": 6453532,
@@ -4667,6 +4667,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 235764,
+      "num": 139335,
+      "word": "C罗训练后落单独自压腿",
+      "onboard_time": 1670176213,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 235693,
       "num": 815752,
       "word": "卡塔尔世界杯上的中国队",
@@ -5057,14 +5065,6 @@
       "onboard_time": 1669897272,
       "rank": 32,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 203856,
-      "num": 71323,
-      "word": "C罗训练后落单独自压腿",
-      "onboard_time": 1670176213,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 202880,
