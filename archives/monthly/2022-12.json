@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1670175196882,
+  "endTime": 1670178105296,
   "band_list": [
     {
       "raw_hot": 6453532,
@@ -3235,6 +3235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 389320,
+      "num": 334036,
+      "word": "世界杯 裁判",
+      "onboard_time": 1670173390,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 388209,
       "num": 388209,
       "word": "波兰门将",
@@ -3713,14 +3721,6 @@
       "onboard_time": 1669854490,
       "rank": 18,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 331884,
-      "num": 331884,
-      "word": "世界杯 裁判",
-      "onboard_time": 1670173390,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 330510,
@@ -5059,6 +5059,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 203856,
+      "num": 71323,
+      "word": "C罗训练后落单独自压腿",
+      "onboard_time": 1670176213,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 202880,
       "num": 555857,
       "word": "为何日本第二个进球不算出界",
@@ -5745,6 +5753,14 @@
       "onboard_time": 1670145371,
       "rank": 46,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 165519,
+      "num": 165519,
+      "word": "姆巴佩太强了",
+      "onboard_time": 1670175372,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 165392,
@@ -6539,6 +6555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 131112,
+      "num": 135710,
+      "word": "小狗被卡宠物箱遭其他狗狗围观",
+      "onboard_time": 1670174051,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 131059,
       "num": 131059,
       "word": "蔡旭哲刚回来就想着下次飞天了",
@@ -7185,14 +7209,6 @@
       "onboard_time": 1670171471,
       "rank": 48,
       "category": "其它"
-    },
-    {
-      "raw_hot": 109551,
-      "num": 135710,
-      "word": "小狗被卡宠物箱遭其他狗狗围观",
-      "onboard_time": 1670174051,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 109541,
@@ -8049,6 +8065,14 @@
       "onboard_time": 1669903392,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 69509,
+      "num": 69509,
+      "word": "莱万点球破门",
+      "onboard_time": 1670176451,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 69194,
