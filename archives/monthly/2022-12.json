@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1670182387465,
+  "endTime": 1670185142093,
   "band_list": [
     {
       "raw_hot": 6453532,
@@ -6753,6 +6753,14 @@
       "onboard_time": 1669881191,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 122455,
+      "num": 65384,
+      "word": "英格兰半场2比0塞内加尔",
+      "onboard_time": 1670184369,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 122289,

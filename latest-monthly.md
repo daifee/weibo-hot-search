@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/12/01 00:28:49 ~ 2022/12/05 03:33:07
+本榜单时间：2022/12/01 00:28:49 ~ 2022/12/05 04:19:02
 </p>
 </blockquote>
 <p>
@@ -5079,6 +5079,12 @@ AppleWatchSeries2被列为过时产品（热度：133056）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E6%A0%BC%E5%85%B0%E5%8D%8A%E5%9C%BA2%E6%AF%940%E5%A1%9E%E5%86%85%E5%8A%A0%E5%B0%94%23" target="weibo">
+英格兰半场2比0塞内加尔（热度：122455）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BD%90%E8%BE%BE%E5%86%85%E8%B0%88%E8%AE%BA%E4%BA%9A%E6%B4%B2%E7%90%83%E9%98%9F%E8%BF%9B%E6%AD%A5%E5%BE%88%E5%A4%A7%23" target="weibo">
 齐达内谈论亚洲球队进步很大（热度：122289）
 </a>
@@ -6005,12 +6011,6 @@ B21可以顺利服役吗（热度：118266）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%94%A8%E6%9A%96%E8%B4%B4%E7%BB%99%E6%B5%81%E6%B5%AA%E7%8C%AB%E5%81%9A%E9%98%B2%E5%86%BB%E9%A5%AE%E6%B0%B4%E7%AE%B1%23" target="weibo">
 男子用暖贴给流浪猫做防冻饮水箱（热度：76246）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%96%80%E9%BA%A6%E9%9A%86%E8%A1%A5%E6%97%B6%E7%A0%B4%E9%97%A8%23" target="weibo">
-喀麦隆补时破门（热度：76197）
 </a>
 </li>
 
