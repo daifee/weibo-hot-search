@@ -1,6 +1,6 @@
 {
   "startTime": 1669566398830,
-  "endTime": 1670163372022,
+  "endTime": 1670164396767,
   "band_list": [
     {
       "raw_hot": 71270277,
@@ -313,6 +313,14 @@
       "onboard_time": 1670048291,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2763388,
+      "num": 1231589,
+      "word": "山东疫情防控",
+      "onboard_time": 1670163253,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2658521,
@@ -681,6 +689,14 @@
       "onboard_time": 1670034071,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1862183,
+      "num": 1119377,
+      "word": "新冠发病7天内身体会发生什么变化",
+      "onboard_time": 1670162112,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1854738,
@@ -1836,7 +1852,7 @@
     },
     {
       "raw_hot": 1100124,
-      "num": 892615,
+      "num": 951448,
       "word": "50岁被裁女空乘空窗期自学获offer",
       "onboard_time": 1670158333,
       "rank": 49,
@@ -1964,7 +1980,7 @@
     },
     {
       "raw_hot": 1052494,
-      "num": 888932,
+      "num": 929051,
       "word": "内马尔将出战对阵韩国比赛",
       "onboard_time": 1670159593,
       "rank": 26,
@@ -2304,14 +2320,6 @@
       "word": "00后女大学生做宿舍美甲月入过万",
       "onboard_time": 1670144351,
       "rank": 15,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 929754,
-      "num": 464528,
-      "word": "山东疫情防控",
-      "onboard_time": 1670163253,
-      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -3113,14 +3121,6 @@
       "onboard_time": 1669620933,
       "rank": 7,
       "category": "影视"
-    },
-    {
-      "raw_hot": 754165,
-      "num": 453015,
-      "word": "新冠发病7天内身体会发生什么变化",
-      "onboard_time": 1670162112,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 752539,
@@ -4595,6 +4595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 561242,
+      "num": 1253008,
+      "word": "刘洋出舱挥手笑得好甜",
+      "onboard_time": 1670159352,
+      "rank": 46,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 561032,
       "num": 870514,
       "word": "北京增3026例本土无症状",
@@ -5049,14 +5057,6 @@
       "onboard_time": 1670052790,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 507101,
-      "num": 936264,
-      "word": "刘洋出舱挥手笑得好甜",
-      "onboard_time": 1670159352,
-      "rank": 46,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 506334,
@@ -5849,6 +5849,14 @@
       "onboard_time": 1669678946,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 435936,
+      "num": 435936,
+      "word": "法国vs波兰",
+      "onboard_time": 1670162653,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 435797,
@@ -7459,6 +7467,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 346099,
+      "num": 346099,
+      "word": "山东进入公共场所不再查验健康码和核酸",
+      "onboard_time": 1670163854,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 345484,
       "num": 345484,
       "word": "MAMA四代女团合作剧透",
@@ -8539,6 +8555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 292699,
+      "num": 292699,
+      "word": "法国vs波兰首发",
+      "onboard_time": 1670162232,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 292647,
       "num": 553930,
       "word": "神十四返回迎来暗夜严寒挑战",
@@ -9067,14 +9091,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 275317,
-      "num": 275317,
-      "word": "法国vs波兰",
-      "onboard_time": 1670162653,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 275032,
       "num": 714884,
       "word": "湖人 表现",
@@ -9265,14 +9281,6 @@
       "onboard_time": 1670079133,
       "rank": 20,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 266565,
-      "num": 266565,
-      "word": "法国vs波兰首发",
-      "onboard_time": 1670162232,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 265195,
@@ -10017,6 +10025,14 @@
       "onboard_time": 1669756333,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 232309,
+      "num": 232309,
+      "word": "河南疫情防控",
+      "onboard_time": 1670164334,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 231717,
@@ -10825,6 +10841,14 @@
       "onboard_time": 1670118189,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 199834,
+      "num": 199834,
+      "word": "KPL",
+      "onboard_time": 1669727547,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 199787,
@@ -12763,14 +12787,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 153471,
-      "num": 153471,
-      "word": "KPL",
-      "onboard_time": 1669727547,
-      "rank": 37,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 153464,
       "num": 153464,
       "word": "偶遇张颜齐看巴西比赛",
@@ -12987,6 +13003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 148795,
+      "num": 148795,
+      "word": "航天员回地球第一顿饭有面条",
+      "onboard_time": 1670160254,
+      "rank": 46,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 148728,
       "num": 592395,
       "word": "办理电话卡银行卡不得超出限制数量",
@@ -13169,6 +13193,14 @@
       "onboard_time": 1669800019,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 144762,
+      "num": 1122756,
+      "word": "重症高风险人群最有效的保护是接种疫苗",
+      "onboard_time": 1670163433,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 144758,
@@ -13369,14 +13401,6 @@
       "onboard_time": 1669763601,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 141020,
-      "num": 141020,
-      "word": "航天员回地球第一顿饭有面条",
-      "onboard_time": 1670160254,
-      "rank": 46,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 140972,
@@ -13777,6 +13801,14 @@
       "onboard_time": 1669737505,
       "rank": 49,
       "category": "科技"
+    },
+    {
+      "raw_hot": 131059,
+      "num": 131059,
+      "word": "蔡旭哲刚回来就想着下次飞天了",
+      "onboard_time": 1670163493,
+      "rank": 39,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 130912,
