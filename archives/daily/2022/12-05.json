@@ -1,6 +1,6 @@
 {
   "startTime": 1670171104099,
-  "endTime": 1670174201842,
+  "endTime": 1670175196882,
   "band_list": [
     {
       "raw_hot": 2856406,
@@ -147,6 +147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 533936,
+      "num": 533936,
+      "word": "马克龙预测法国3比1胜波兰",
+      "onboard_time": 1670173631,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 528038,
       "num": 528038,
       "word": "上海饭店商场仍须48小时核酸",
@@ -163,19 +171,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 518185,
+      "num": 518185,
+      "word": "英格兰vs塞内加尔",
+      "onboard_time": 1670166313,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 469104,
       "num": 469104,
       "word": "法国半场1比0波兰",
       "onboard_time": 1670169254,
       "rank": 12,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 401786,
-      "num": 401786,
-      "word": "马克龙预测法国3比1胜波兰",
-      "onboard_time": 1670173631,
-      "rank": 16,
       "category": "体育"
     },
     {
@@ -211,6 +219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 331884,
+      "num": 331884,
+      "word": "世界杯 裁判",
+      "onboard_time": 1670173390,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 291775,
       "num": 291775,
       "word": "孔德 项链",
@@ -240,6 +256,14 @@
       "word": "内马尔将出战对阵韩国比赛",
       "onboard_time": 1670159593,
       "rank": 21,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 273877,
+      "num": 273877,
+      "word": "法国总统预测莱万进球",
+      "onboard_time": 1670173511,
+      "rank": 40,
       "category": "体育"
     },
     {
@@ -315,14 +339,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 194508,
-      "num": 194508,
-      "word": "世界杯 裁判",
-      "onboard_time": 1670173390,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 191126,
       "num": 191126,
       "word": "男子卖彩虹圈玩出特效感月入超三万",
@@ -345,6 +361,14 @@
       "onboard_time": 1670163433,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 167811,
+      "num": 167811,
+      "word": "姆巴佩梅开二度",
+      "onboard_time": 1670173031,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 167007,
@@ -379,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 146151,
+      "num": 146151,
+      "word": "法国晋级8强",
+      "onboard_time": 1670174652,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 138626,
       "num": 138626,
       "word": "吉鲁破门",
@@ -387,24 +419,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 132000,
-      "num": 132000,
-      "word": "英格兰vs塞内加尔",
-      "onboard_time": 1670166313,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 126045,
-      "num": 92255,
-      "word": "法国总统预测莱万进球",
-      "onboard_time": 1670173511,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 125275,
-      "num": 125275,
+      "num": 135641,
       "word": "6岁男孩走路像小鸭子查出罕见病",
       "onboard_time": 1670156653,
       "rank": 40,
@@ -412,7 +428,7 @@
     },
     {
       "raw_hot": 121819,
-      "num": 121819,
+      "num": 135650,
       "word": "又一批医疗机构不再提供社会面核酸采样服务",
       "onboard_time": 1670151014,
       "rank": 41,
@@ -444,15 +460,23 @@
     },
     {
       "raw_hot": 109657,
-      "num": 109657,
+      "num": 135685,
       "word": "如何提塑料袋不撞腿",
       "onboard_time": 1670171471,
       "rank": 48,
       "category": "其它"
     },
     {
+      "raw_hot": 109551,
+      "num": 135710,
+      "word": "小狗被卡宠物箱遭其他狗狗围观",
+      "onboard_time": 1670174051,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 105128,
-      "num": 110188,
+      "num": 135609,
       "word": "武汉地铁",
       "onboard_time": 1670152632,
       "rank": 45,
@@ -505,19 +529,14 @@
       "onboard_time": 1670174171,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 65634,
-      "num": 65634,
-      "word": "小狗被卡宠物箱遭其他狗狗围观",
-      "onboard_time": 1670174051,
-      "rank": 49,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
     {
       "word": "#江泽民同志生平#"
+    },
+    {
+      "word": "#江泽民同志永垂不朽#"
     }
   ]
 }
