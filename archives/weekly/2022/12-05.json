@@ -1,6 +1,6 @@
 {
   "startTime": 1670171104099,
-  "endTime": 1670178964247,
+  "endTime": 1670181265870,
   "band_list": [
     {
       "raw_hot": 2856406,
@@ -267,6 +267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 272530,
+      "num": 139335,
+      "word": "C罗训练后落单独自压腿",
+      "onboard_time": 1670176213,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 269192,
       "num": 269192,
       "word": "学生希望猪肚加量食堂删掉猪肚2字",
@@ -289,14 +297,6 @@
       "onboard_time": 1670158333,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 235764,
-      "num": 139335,
-      "word": "C罗训练后落单独自压腿",
-      "onboard_time": 1670176213,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 235246,
@@ -539,6 +539,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 70382,
+      "num": 70382,
+      "word": "英格兰vs塞内加尔首发",
+      "onboard_time": 1670179212,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 69509,
       "num": 69509,
       "word": "莱万点球破门",
@@ -552,6 +560,22 @@
       "word": "姆巴佩状态",
       "onboard_time": 1670174171,
       "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 43701,
+      "num": 41736,
+      "word": "姆巴佩莱万赛后拥抱",
+      "onboard_time": 1670178970,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 39926,
+      "num": 39926,
+      "word": "斯特林缺阵淘汰赛首战",
+      "onboard_time": 1670180350,
+      "rank": 32,
       "category": "体育"
     }
   ],
