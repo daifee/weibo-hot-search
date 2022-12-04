@@ -1,6 +1,6 @@
 {
   "startTime": 1670171104099,
-  "endTime": 1670192233338,
+  "endTime": 1670193214938,
   "band_list": [
     {
       "raw_hot": 2856406,
@@ -467,19 +467,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 121731,
+      "num": 121731,
+      "word": "英格兰3比0塞内加尔",
+      "onboard_time": 1670187909,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 114128,
       "num": 114128,
       "word": "梅西笑了",
       "onboard_time": 1670168352,
       "rank": 42,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 112423,
-      "num": 112423,
-      "word": "英格兰3比0塞内加尔",
-      "onboard_time": 1670187909,
-      "rank": 6,
       "category": "体育"
     },
     {
@@ -588,7 +588,7 @@
     },
     {
       "raw_hot": 48353,
-      "num": 41736,
+      "num": 45586,
       "word": "姆巴佩莱万赛后拥抱",
       "onboard_time": 1670178970,
       "rank": 30,
