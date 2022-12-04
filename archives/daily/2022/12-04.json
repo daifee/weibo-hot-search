@@ -1,6 +1,6 @@
 {
   "startTime": 1670084691627,
-  "endTime": 1670167080839,
+  "endTime": 1670168006215,
   "band_list": [
     {
       "raw_hot": 2763388,
@@ -19,7 +19,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2433237,
+      "raw_hot": 2441037,
       "num": 1477047,
       "word": "新冠发病7天内身体会发生什么变化",
       "onboard_time": 1670162112,
@@ -40,6 +40,14 @@
       "word": "专家称新冠防控回归乙类管理条件渐趋成熟",
       "onboard_time": 1670155392,
       "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1597448,
+      "num": 1446407,
+      "word": "婚礼后5天发现老婆与前男友领证",
+      "onboard_time": 1670165173,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -67,14 +75,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1446407,
-      "num": 1446407,
-      "word": "婚礼后5天发现老婆与前男友领证",
-      "onboard_time": 1670165173,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1435263,
       "num": 1027489,
       "word": "跳楼女孩怕砸到人报警求疏散人群",
@@ -83,19 +83,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1412822,
+      "num": 1412822,
+      "word": "河南疫情防控",
+      "onboard_time": 1670164334,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1372581,
       "num": 775129,
       "word": "38岁女子晒与68岁老公相处日常",
       "onboard_time": 1670148972,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1359197,
-      "num": 1359197,
-      "word": "河南疫情防控",
-      "onboard_time": 1670164334,
-      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -299,11 +299,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 816727,
+      "num": 816727,
+      "word": "宁波不再开展常态化核酸检测",
+      "onboard_time": 1670166915,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 809242,
       "num": 735164,
       "word": "婆婆上门叮嘱儿子别让儿媳工作",
       "onboard_time": 1670133371,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 798970,
+      "num": 492245,
+      "word": "男子塞招嫖卡被退伍军人一把揪住",
+      "onboard_time": 1670165652,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -449,6 +465,14 @@
       "onboard_time": 1670117348,
       "rank": 30,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 629295,
+      "num": 629295,
+      "word": "姆巴佩",
+      "onboard_time": 1670166313,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 626037,
@@ -641,14 +665,6 @@
       "onboard_time": 1670137870,
       "rank": 33,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 446863,
-      "num": 446863,
-      "word": "男子塞招嫖卡被退伍军人一把揪住",
-      "onboard_time": 1670165652,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 434805,
@@ -1043,14 +1059,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 272519,
-      "num": 272519,
-      "word": "姆巴佩",
-      "onboard_time": 1670166313,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 265913,
       "num": 619044,
       "word": "重庆遭遇1961年以来最强降温过程",
@@ -1112,14 +1120,6 @@
       "word": "武汉地铁",
       "onboard_time": 1670152632,
       "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 243606,
-      "num": 153977,
-      "word": "宁波不再开展常态化核酸检测",
-      "onboard_time": 1670166915,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -1211,12 +1211,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 217257,
+      "num": 217257,
+      "word": "英格兰vs塞内加尔",
+      "onboard_time": 1670166313,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 215558,
       "num": 533390,
       "word": "92号汽油或重回7元",
       "onboard_time": 1670147112,
       "rank": 29,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 214044,
+      "num": 214044,
+      "word": "波兰门将",
+      "onboard_time": 1670167453,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 210267,
@@ -1235,20 +1251,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 209466,
+      "num": 209466,
+      "word": "宝宝跌下床姥爷飞身接住",
+      "onboard_time": 1670164694,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 208737,
       "num": 710752,
       "word": "考研倒计时20天",
       "onboard_time": 1670121129,
       "rank": 26,
       "category": "教育"
-    },
-    {
-      "raw_hot": 208485,
-      "num": 208485,
-      "word": "英格兰vs塞内加尔",
-      "onboard_time": 1670166313,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 202137,
@@ -1313,14 +1329,6 @@
       "onboard_time": 1670149872,
       "rank": 34,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 192637,
-      "num": 192637,
-      "word": "宝宝跌下床姥爷飞身接住",
-      "onboard_time": 1670164694,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 186692,
@@ -1475,6 +1483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 157355,
+      "num": 157355,
+      "word": "为什么航天员出舱需要被人抬着走",
+      "onboard_time": 1670164634,
+      "rank": 33,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 154685,
       "num": 610744,
       "word": "荷兰 防守反击",
@@ -1528,14 +1544,6 @@
       "word": "航天员蔡旭哲出舱",
       "onboard_time": 1670160432,
       "rank": 34,
-      "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 147601,
-      "num": 147601,
-      "word": "为什么航天员出舱需要被人抬着走",
-      "onboard_time": 1670164634,
-      "rank": 33,
       "category": "科技,社会新闻"
     },
     {
