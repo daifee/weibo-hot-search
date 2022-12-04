@@ -1,6 +1,6 @@
 {
   "startTime": 1670171104099,
-  "endTime": 1670195905304,
+  "endTime": 1670196806092,
   "band_list": [
     {
       "raw_hot": 2856406,
@@ -211,8 +211,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 336733,
-      "num": 336733,
+      "raw_hot": 352713,
+      "num": 352713,
       "word": "姆巴佩太强了",
       "onboard_time": 1670175372,
       "rank": 12,
@@ -232,6 +232,14 @@
       "word": "吉鲁倒钩 帅",
       "onboard_time": 1670171413,
       "rank": 21,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 300117,
+      "num": 300117,
+      "word": "英格兰3比0塞内加尔",
+      "onboard_time": 1670187909,
+      "rank": 6,
       "category": "体育"
     },
     {
@@ -267,27 +275,27 @@
       "category": "体育"
     },
     {
-      "raw_hot": 273877,
-      "num": 273877,
-      "word": "法国总统预测莱万进球",
-      "onboard_time": 1670173511,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 272530,
-      "num": 236071,
+      "raw_hot": 277033,
+      "num": 277033,
       "word": "C罗训练后落单独自压腿",
       "onboard_time": 1670176213,
       "rank": 30,
       "category": "体育"
     },
     {
-      "raw_hot": 271464,
-      "num": 271464,
-      "word": "英格兰3比0塞内加尔",
-      "onboard_time": 1670187909,
-      "rank": 6,
+      "raw_hot": 276950,
+      "num": 276950,
+      "word": "5岁听障女孩丢失30万人工耳蜗",
+      "onboard_time": 1670171112,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 273877,
+      "num": 273877,
+      "word": "法国总统预测莱万进球",
+      "onboard_time": 1670173511,
+      "rank": 40,
       "category": "体育"
     },
     {
@@ -307,14 +315,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 249617,
-      "num": 249617,
-      "word": "5岁听障女孩丢失30万人工耳蜗",
-      "onboard_time": 1670171112,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 249554,
       "num": 249554,
       "word": "50岁被裁女空乘空窗期自学获offer",
@@ -323,8 +323,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 235246,
-      "num": 235246,
+      "raw_hot": 242346,
+      "num": 124908,
+      "word": "爷爷以10元成交价将房过户给孙子后反悔",
+      "onboard_time": 1670196487,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 235802,
+      "num": 235802,
       "word": "浙江多地调整疫情防控措施",
       "onboard_time": 1670169853,
       "rank": 28,
@@ -363,6 +371,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 193020,
+      "num": 193020,
+      "word": "神十四航天员平安抵京",
+      "onboard_time": 1670195707,
+      "rank": 35,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 191126,
       "num": 191126,
       "word": "男子卖彩虹圈玩出特效感月入超三万",
@@ -379,6 +395,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 173739,
+      "num": 173739,
+      "word": "小狗被卡宠物箱遭其他狗狗围观",
+      "onboard_time": 1670174051,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 172630,
+      "num": 123381,
+      "word": "姆巴佩一战刷新六项纪录",
+      "onboard_time": 1670195948,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 167822,
       "num": 1167868,
       "word": "重症高风险人群最有效的保护是接种疫苗",
@@ -393,6 +425,14 @@
       "onboard_time": 1670173031,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 167402,
+      "num": 122773,
+      "word": "金华不再开展常态化核酸检测",
+      "onboard_time": 1670196307,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 167007,
@@ -435,20 +475,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 142670,
+      "num": 142670,
+      "word": "世界杯",
+      "onboard_time": 1670196367,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 138626,
       "num": 138626,
       "word": "吉鲁破门",
       "onboard_time": 1670169853,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 137788,
-      "num": 137788,
-      "word": "小狗被卡宠物箱遭其他狗狗围观",
-      "onboard_time": 1670174051,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 127213,
@@ -473,6 +513,14 @@
       "onboard_time": 1670151014,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 115572,
+      "num": 117152,
+      "word": "男子见阿根廷输球血压爆表鼻血狂喷",
+      "onboard_time": 1670171653,
+      "rank": 44,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 114128,
@@ -515,14 +563,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 104380,
-      "num": 104380,
-      "word": "男子见阿根廷输球血压爆表鼻血狂喷",
-      "onboard_time": 1670171653,
-      "rank": 44,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 102832,
       "num": 110183,
       "word": "孩子拔牙后哭闹不止竟是拔错了牙",
@@ -555,20 +595,20 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 90436,
-      "num": 97901,
-      "word": "神十四航天员平安抵京",
-      "onboard_time": 1670195707,
-      "rank": 35,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 86191,
       "num": 97785,
       "word": "英格兰晋级8强",
       "onboard_time": 1670187848,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 70748,
+      "num": 117100,
+      "word": "回顾中国航天员回到地球的激动时刻",
+      "onboard_time": 1670196367,
+      "rank": 44,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 70382,
@@ -588,7 +628,7 @@
     },
     {
       "raw_hot": 67710,
-      "num": 97860,
+      "num": 117082,
       "word": "英格兰将对阵法国",
       "onboard_time": 1670195407,
       "rank": 39,
@@ -601,6 +641,22 @@
       "onboard_time": 1670174171,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 59595,
+      "num": 117071,
+      "word": "波兰点球",
+      "onboard_time": 1670196367,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 55295,
+      "num": 117066,
+      "word": "北京朝阳社会面核酸采样亭应开尽开",
+      "onboard_time": 1670196788,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 48353,
