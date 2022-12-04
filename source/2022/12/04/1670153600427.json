@@ -1,0 +1,410 @@
+{
+  "runTime": 1670153600427,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 506334,
+        "num": 771496,
+        "word": "神十四返回地球",
+        "onboard_time": 1670138531,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 798281,
+        "num": 742345,
+        "word": "明起武汉地铁不再查验核酸",
+        "onboard_time": 1670151312,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156789,
+        "num": 686718,
+        "word": "迎接3名航天员回家",
+        "onboard_time": 1670145792,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1372581,
+        "num": 623010,
+        "word": "38岁女子晒与68岁老公相处日常",
+        "onboard_time": 1670148972,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1050685,
+        "num": 561893,
+        "word": "学生希望猪肚加量食堂删掉猪肚2字",
+        "onboard_time": 1670144471,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 530472,
+        "num": 530472,
+        "word": "阿根廷队平均身高179",
+        "onboard_time": 1670149212,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 523057,
+        "num": 523057,
+        "word": "郑州回应能否取消多场合核酸查验",
+        "onboard_time": 1670146691,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 522797,
+        "num": 522797,
+        "word": "你会喜欢上频繁聊天的人吗",
+        "onboard_time": 1670148492,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 520999,
+        "num": 520999,
+        "word": "00后女大学生做宿舍美甲月入过万",
+        "onboard_time": 1670144351,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 447135,
+        "num": 447135,
+        "word": "wbg",
+        "onboard_time": 1670147771,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 411526,
+        "num": 411526,
+        "word": "孩子拔牙后哭闹不止竟是拔错了牙",
+        "onboard_time": 1670143270,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384579,
+        "num": 384579,
+        "word": "伊朗废除道德警察",
+        "onboard_time": 1670152213,
+        "rank": 11,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 362676,
+        "num": 362676,
+        "word": "记者与梅西握手后的反应",
+        "onboard_time": 1670151671,
+        "rank": 12,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 292647,
+        "num": 292647,
+        "word": "神十四返回迎来暗夜严寒挑战",
+        "onboard_time": 1670148313,
+        "rank": 13,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 41261,
+        "num": 290918,
+        "word": "关于宪法需要掌握的知识点",
+        "onboard_time": 1670151671,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289507,
+        "num": 289507,
+        "word": "三位币圈大佬先后意外去世",
+        "onboard_time": 1670138471,
+        "rank": 15,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 274740,
+        "num": 274740,
+        "word": "女子发现形如5只小狗的神奇花朵",
+        "onboard_time": 1670143693,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268791,
+        "num": 268791,
+        "word": "又一批医疗机构不再提供社会面核酸采样服务",
+        "onboard_time": 1670151014,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268482,
+        "num": 268482,
+        "word": "卡塔尔小王子与大熊猫合影",
+        "onboard_time": 1670142071,
+        "rank": 18,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 267711,
+        "num": 267711,
+        "word": "澳大利亚球员排队找梅西合影",
+        "onboard_time": 1670148192,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 261614,
+        "num": 261614,
+        "word": "大妈微信存400万没设密码手机已找回",
+        "onboard_time": 1670152391,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245617,
+        "num": 245617,
+        "word": "武汉地铁",
+        "onboard_time": 1670152632,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243292,
+        "num": 243292,
+        "word": "男子喂养山中白狐收到灵芝馈赠",
+        "onboard_time": 1670140453,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241024,
+        "num": 241024,
+        "word": "主人离世下葬狗狗坟前尽力埋贡品",
+        "onboard_time": 1670140931,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196245,
+        "num": 196245,
+        "word": "英格兰 预测",
+        "onboard_time": 1670146452,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195716,
+        "num": 195716,
+        "word": "核酸暴利如何终结",
+        "onboard_time": 1670152992,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194086,
+        "num": 194086,
+        "word": "直播神十四航天员返回地球",
+        "onboard_time": 1670149872,
+        "rank": 26,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 187860,
+        "num": 194086,
+        "word": "梅西儿子有多萌",
+        "onboard_time": 1670137870,
+        "rank": 27,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 184120,
+        "num": 194085,
+        "word": "福建街头垃圾桶旁现被遗弃女婴",
+        "onboard_time": 1670142372,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177731,
+        "num": 194083,
+        "word": "92号汽油或重回7元",
+        "onboard_time": 1670147112,
+        "rank": 29,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 198907,
+        "num": 194082,
+        "word": "郑州市内多公共场所不再查验核酸证明",
+        "onboard_time": 1670153415,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177591,
+        "num": 194082,
+        "word": "你认为考研成本高吗",
+        "onboard_time": 1670139311,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 175520,
+        "num": 194081,
+        "word": "女子见妈妈做早餐感慨还是单身好",
+        "onboard_time": 1670139613,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167754,
+        "num": 194079,
+        "word": "女孩点赞梅西获摸头回应",
+        "onboard_time": 1670142791,
+        "rank": 33,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 165473,
+        "num": 194078,
+        "word": "95后女生兼职遛狗月赚1千多元",
+        "onboard_time": 1670145972,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151943,
+        "num": 194078,
+        "word": "婆婆上门叮嘱儿子别让儿媳工作",
+        "onboard_time": 1670133371,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151304,
+        "num": 194077,
+        "word": "分手后想和前任做朋友吗",
+        "onboard_time": 1670145312,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 145871,
+        "num": 194075,
+        "word": "实拍神舟13号返回舱触地瞬间冲击坑",
+        "onboard_time": 1670140213,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143455,
+        "num": 194074,
+        "word": "男子租房40天偷卖房电器去旅游",
+        "onboard_time": 1670131930,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140966,
+        "num": 194074,
+        "word": "妻子7年拍500条视频鼓励瘫痪丈夫",
+        "onboard_time": 1670149212,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140228,
+        "num": 194072,
+        "word": "上海室外公共场所将不再查核酸",
+        "onboard_time": 1670138771,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139774,
+        "num": 194071,
+        "word": "这只小鸟真是摘柿子的高手",
+        "onboard_time": 1670145551,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136743,
+        "num": 194070,
+        "word": "小猫咪有多怕冷",
+        "onboard_time": 1670153054,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 129346,
+        "num": 194069,
+        "word": "近距离赏猫是一种快乐",
+        "onboard_time": 1670144531,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 121159,
+        "num": 194068,
+        "word": "女孩看流浪猫视频抱自家猫哭半小时",
+        "onboard_time": 1670147172,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118001,
+        "num": 194068,
+        "word": "上海发布回应为何感染人数持续增加",
+        "onboard_time": 1670134391,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111858,
+        "num": 194066,
+        "word": "外卖小哥等餐时两度揩油女顾客",
+        "onboard_time": 1670138052,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102290,
+        "num": 194065,
+        "word": "男孩吃混凝土司机赠其10元买食物",
+        "onboard_time": 1670133970,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96902,
+        "num": 194064,
+        "word": "官方通报泸州男教师骚扰女学生",
+        "onboard_time": 1670139070,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92908,
+        "num": 194064,
+        "word": "女主播跟爸妈赌气报警举报自己酒驾",
+        "onboard_time": 1670153592,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#江泽民同志永垂不朽#"
+    }
+  }
+}
