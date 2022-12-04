@@ -1,0 +1,410 @@
+{
+  "runTime": 1670132005434,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 75255,
+        "num": 809347,
+        "word": "江泽民同志生平",
+        "onboard_time": 1669979534,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1640359,
+        "num": 803902,
+        "word": "韩国球员误踩国旗被网暴",
+        "onboard_time": 1670126889,
+        "rank": 1,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 179370,
+        "num": 802288,
+        "word": "切实满足疫情处置期间群众基本生活需求",
+        "onboard_time": 1670125749,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1613711,
+        "num": 796292,
+        "word": "老人去世7天出现疫苗接种记录",
+        "onboard_time": 1670123829,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 784674,
+        "num": 785142,
+        "word": "很快就能吃到橙色的大白菜啦",
+        "onboard_time": 1670129171,
+        "rank": 4,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 600397,
+        "num": 783693,
+        "word": "新房刚装好十来年不来往婆婆要求长住",
+        "onboard_time": 1670122089,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 565174,
+        "num": 775776,
+        "word": "宝妈35岁初学古典舞4年后脱胎换骨",
+        "onboard_time": 1670127668,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 555355,
+        "num": 770174,
+        "word": "恭喜梅西",
+        "onboard_time": 1670112908,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 382561,
+        "num": 761790,
+        "word": "神十四返回舱搜救任务或为史上最难",
+        "onboard_time": 1670127249,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347701,
+        "num": 753637,
+        "word": "原来腐乳本来长这样的啊",
+        "onboard_time": 1670113387,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 319343,
+        "num": 753133,
+        "word": "这饭就是喂不进去",
+        "onboard_time": 1670126470,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 309998,
+        "num": 743538,
+        "word": "武汉多个小区取消便民核酸点",
+        "onboard_time": 1670123469,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286281,
+        "num": 735777,
+        "word": "梅西对着家人画面傻笑半分钟",
+        "onboard_time": 1670118789,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 285776,
+        "num": 733260,
+        "word": "员工被冤枉与领导起争执被扇脸",
+        "onboard_time": 1670128570,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1163215,
+        "num": 727043,
+        "word": "跳楼女孩怕砸到人报警求疏散人群",
+        "onboard_time": 1670125212,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265313,
+        "num": 719218,
+        "word": "原神流浪者",
+        "onboard_time": 1670129531,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 588854,
+        "num": 714141,
+        "word": "劳塔罗遭网暴",
+        "onboard_time": 1670124371,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 249071,
+        "num": 709250,
+        "word": "马龙3比1林高远",
+        "onboard_time": 1670128631,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 223201,
+        "num": 703666,
+        "word": "梅西神图再现",
+        "onboard_time": 1670123829,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 212585,
+        "num": 693261,
+        "word": "价格上涨致部分英国人吃宠物食品",
+        "onboard_time": 1670117348,
+        "rank": 19,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 340613,
+        "num": 690844,
+        "word": "女孩车祸失去一只眼球自制发光眼睛",
+        "onboard_time": 1670122869,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210579,
+        "num": 681960,
+        "word": "你舍不得删的那条短信",
+        "onboard_time": 1670129890,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 208520,
+        "num": 677943,
+        "word": "北京多数药房买不到连花清瘟",
+        "onboard_time": 1670113207,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171750,
+        "num": 671443,
+        "word": "网友称白色羽绒服洗出黄色水",
+        "onboard_time": 1670120531,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169086,
+        "num": 666702,
+        "word": "男子停车半小时车身独得鸟屎全覆盖",
+        "onboard_time": 1670118428,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166197,
+        "num": 659315,
+        "word": "世卫称还没到宣布新冠结束的时候",
+        "onboard_time": 1670117348,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155921,
+        "num": 652264,
+        "word": "梅西与中国女足的梦幻联动",
+        "onboard_time": 1670127190,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150900,
+        "num": 644957,
+        "word": "女孩西湖边脚颠手机秀惊人脚法",
+        "onboard_time": 1670120950,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149362,
+        "num": 637440,
+        "word": "这种形似喇叭的花全株有毒",
+        "onboard_time": 1670130669,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140998,
+        "num": 634309,
+        "word": "iPhone14Pro系列最快元旦到货",
+        "onboard_time": 1670119869,
+        "rank": 29,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 202668,
+        "num": 627496,
+        "word": "曹圭成因求婚电话被打爆无奈关机",
+        "onboard_time": 1670131212,
+        "rank": 30,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 136872,
+        "num": 620629,
+        "word": "考研倒计时20天",
+        "onboard_time": 1670121129,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 134960,
+        "num": 613837,
+        "word": "捐出百万积蓄的93岁老人离世",
+        "onboard_time": 1670129830,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129425,
+        "num": 610854,
+        "word": "苹果完全恢复在推特的广告",
+        "onboard_time": 1670123949,
+        "rank": 33,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 128518,
+        "num": 602935,
+        "word": "维金斯36分",
+        "onboard_time": 1670127371,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128289,
+        "num": 596366,
+        "word": "旅居卡塔尔大熊猫被四川话召唤",
+        "onboard_time": 1670119329,
+        "rank": 35,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 114181,
+        "num": 592124,
+        "word": "想吃一根烤甘蔗了",
+        "onboard_time": 1670131390,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 112781,
+        "num": 582687,
+        "word": "楼长小区里抡椅子殴打女业主",
+        "onboard_time": 1670118848,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112488,
+        "num": 579277,
+        "word": "25岁女儿带75岁养父房车环游中国",
+        "onboard_time": 1670114647,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108502,
+        "num": 573279,
+        "word": "专家称普通人群不需要每天做抗原",
+        "onboard_time": 1670129230,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108325,
+        "num": 564932,
+        "word": "粉笔模考",
+        "onboard_time": 1670124309,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 105295,
+        "num": 559225,
+        "word": "北京多处核酸检测点临时关闭",
+        "onboard_time": 1670083573,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99750,
+        "num": 552378,
+        "word": "球迷脸上的国旗是这样来的",
+        "onboard_time": 1670120229,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98013,
+        "num": 545788,
+        "word": "萌娃称重大哭下一秒抓起托盘",
+        "onboard_time": 1670127668,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94488,
+        "num": 538424,
+        "word": "2猫猫趴狗狗背上取暖",
+        "onboard_time": 1670117647,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81942,
+        "num": 532014,
+        "word": "男子租房40天偷卖房电器去旅游",
+        "onboard_time": 1670131930,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78701,
+        "num": 528402,
+        "word": "冬季怎样做运动才是正确方式",
+        "onboard_time": 1670129950,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 78606,
+        "num": 519060,
+        "word": "普通人如何辨别流感和新冠",
+        "onboard_time": 1670113207,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77294,
+        "num": 512329,
+        "word": "济南要求所有公厕扫码并查验核酸",
+        "onboard_time": 1670080092,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75364,
+        "num": 510659,
+        "word": "没人能拒绝副驾驶的惊喜",
+        "onboard_time": 1670114048,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#沉痛悼念江泽民同志#"
+    }
+  }
+}
