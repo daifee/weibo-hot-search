@@ -1,6 +1,6 @@
 {
   "startTime": 1670084691627,
-  "endTime": 1670150086078,
+  "endTime": 1670152468081,
   "band_list": [
     {
       "raw_hot": 2593774,
@@ -64,6 +64,14 @@
       "word": "武汉核酸",
       "onboard_time": 1670075592,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1192344,
+      "num": 635400,
+      "word": "38岁女子晒与68岁老公相处日常",
+      "onboard_time": 1670148972,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -387,6 +395,38 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 511001,
+      "num": 511001,
+      "word": "明起武汉地铁不再查验核酸",
+      "onboard_time": 1670151312,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 504003,
+      "num": 504003,
+      "word": "阿根廷队平均身高179",
+      "onboard_time": 1670149212,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 494570,
+      "num": 780858,
+      "word": "神十四返回地球",
+      "onboard_time": 1670138531,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 488570,
+      "num": 525055,
+      "word": "你会喜欢上频繁聊天的人吗",
+      "onboard_time": 1670148492,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 474216,
       "num": 716172,
       "word": "9至45岁女性可接种HPV九价疫苗",
@@ -547,14 +587,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 353457,
-      "num": 460167,
-      "word": "38岁女子晒与68岁老公相处日常",
-      "onboard_time": 1670148972,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 350982,
       "num": 720099,
       "word": "迪马利亚",
@@ -601,14 +633,6 @@
       "onboard_time": 1670123829,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 334748,
-      "num": 720489,
-      "word": "神十四返回地球",
-      "onboard_time": 1670138531,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 317839,
@@ -675,19 +699,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 290578,
-      "num": 525055,
-      "word": "你会喜欢上频繁聊天的人吗",
-      "onboard_time": 1670148492,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 290222,
       "num": 831690,
       "word": "球迷脸上的国旗是这样来的",
       "onboard_time": 1670120229,
       "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 287789,
+      "num": 503079,
+      "word": "澳大利亚球员排队找梅西合影",
+      "onboard_time": 1670148192,
+      "rank": 36,
       "category": "体育"
     },
     {
@@ -867,12 +891,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 214611,
-      "num": 503079,
-      "word": "澳大利亚球员排队找梅西合影",
-      "onboard_time": 1670148192,
-      "rank": 36,
-      "category": "体育"
+      "raw_hot": 221369,
+      "num": 553930,
+      "word": "神十四返回迎来暗夜严寒挑战",
+      "onboard_time": 1670148313,
+      "rank": 25,
+      "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 215558,
+      "num": 533390,
+      "word": "92号汽油或重回7元",
+      "onboard_time": 1670147112,
+      "rank": 29,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 210267,
@@ -915,14 +947,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 200695,
-      "num": 533390,
-      "word": "92号汽油或重回7元",
-      "onboard_time": 1670147112,
-      "rank": 29,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 199728,
       "num": 283995,
       "word": "阿根廷将对阵荷兰",
@@ -953,14 +977,6 @@
       "onboard_time": 1670126531,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 189894,
-      "num": 553930,
-      "word": "神十四返回迎来暗夜严寒挑战",
-      "onboard_time": 1670148313,
-      "rank": 25,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 186692,
@@ -1011,6 +1027,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 180064,
+      "num": 180064,
+      "word": "直播神十四航天员返回地球",
+      "onboard_time": 1670149872,
+      "rank": 34,
+      "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 179059,
+      "num": 180062,
+      "word": "记者与梅西握手后的反应",
+      "onboard_time": 1670151671,
+      "rank": 29,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 178774,
       "num": 637440,
       "word": "这种形似喇叭的花全株有毒",
@@ -1027,12 +1059,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 175537,
-      "num": 168503,
-      "word": "阿根廷队平均身高179",
-      "onboard_time": 1670149212,
-      "rank": 30,
-      "category": "体育"
+      "raw_hot": 172710,
+      "num": 180038,
+      "word": "又一批医疗机构不再提供社会面核酸采样服务",
+      "onboard_time": 1670151014,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 170783,
+      "num": 507232,
+      "word": "这只小鸟真是摘柿子的高手",
+      "onboard_time": 1670145551,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 168816,
@@ -1155,19 +1195,19 @@
       "category": "情感"
     },
     {
-      "raw_hot": 144584,
-      "num": 507232,
-      "word": "这只小鸟真是摘柿子的高手",
-      "onboard_time": 1670145551,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 143267,
       "num": 478624,
       "word": "走失萌娃要求民警穿警服才跟着走",
       "onboard_time": 1670141772,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 142930,
+      "num": 459007,
+      "word": "实拍神舟13号返回舱触地瞬间冲击坑",
+      "onboard_time": 1670140213,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -1193,14 +1233,6 @@
       "onboard_time": 1670132291,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 138199,
-      "num": 138199,
-      "word": "直播神十四航天员返回地球",
-      "onboard_time": 1670149872,
-      "rank": 34,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 137729,
@@ -1323,6 +1355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 122555,
+      "num": 179938,
+      "word": "伊朗废除道德警察",
+      "onboard_time": 1670152213,
+      "rank": 39,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 121956,
       "num": 287493,
       "word": "阿尔瓦雷斯连场破门",
@@ -1345,6 +1385,14 @@
       "onboard_time": 1670136311,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 119571,
+      "num": 179918,
+      "word": "妻子7年拍500条视频鼓励瘫痪丈夫",
+      "onboard_time": 1670149212,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 119280,
@@ -1387,11 +1435,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 115850,
-      "num": 459007,
-      "word": "实拍神舟13号返回舱触地瞬间冲击坑",
-      "onboard_time": 1670140213,
-      "rank": 43,
+      "raw_hot": 115869,
+      "num": 479242,
+      "word": "女孩看流浪猫视频抱自家猫哭半小时",
+      "onboard_time": 1670147172,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -1400,6 +1448,14 @@
       "word": "重庆疫情走势处于下降期",
       "onboard_time": 1670089871,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 113962,
+      "num": 179889,
+      "word": "小鸟树上摘柿子像极了一幅画",
+      "onboard_time": 1670151071,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -1440,14 +1496,6 @@
       "word": "广东一楼盘被质疑楼间距过近",
       "onboard_time": 1670062752,
       "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 108561,
-      "num": 479242,
-      "word": "女孩看流浪猫视频抱自家猫哭半小时",
-      "onboard_time": 1670147172,
-      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -1603,11 +1651,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 86542,
-      "num": 104196,
-      "word": "妻子7年拍500条视频鼓励瘫痪丈夫",
-      "onboard_time": 1670149212,
-      "rank": 48,
+      "raw_hot": 86989,
+      "num": 179820,
+      "word": "大妈微信存400万没设密码手机已找回",
+      "onboard_time": 1670152391,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -1729,6 +1777,14 @@
       "onboard_time": 1670092930,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 22847,
+      "num": 282880,
+      "word": "关于宪法需要掌握的知识点",
+      "onboard_time": 1670151671,
+      "rank": 14,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
