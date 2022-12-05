@@ -1,0 +1,410 @@
+{
+  "runTime": 1670253606095,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1610481,
+        "num": 1610481,
+        "word": "向江泽民同志作最后的诀别",
+        "onboard_time": 1670244071,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 869070,
+        "num": 869070,
+        "word": "江泽民同志遗体在北京火化",
+        "onboard_time": 1670228232,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 133475,
+        "num": 866729,
+        "word": "全国多地优化疫情防控措施",
+        "onboard_time": 1670198648,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1187369,
+        "num": 856430,
+        "word": "女子买全部橘子后发现大爷住洋楼",
+        "onboard_time": 1670238371,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1066722,
+        "num": 848101,
+        "word": "感染新冠怎么办",
+        "onboard_time": 1670231831,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 806400,
+        "num": 846340,
+        "word": "抗疫最困难的时期已经走过",
+        "onboard_time": 1670251152,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 705180,
+        "num": 836506,
+        "word": "日本vs克罗地亚",
+        "onboard_time": 1670250615,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 594797,
+        "num": 827490,
+        "word": "上海一小车从高架上掉落",
+        "onboard_time": 1670248573,
+        "rank": 7,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 527555,
+        "num": 822807,
+        "word": "保定回应舆情称网上夸张成分太大",
+        "onboard_time": 1670246532,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 479764,
+        "num": 818176,
+        "word": "曝C罗1月1日起为沙特球队效力",
+        "onboard_time": 1670242932,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 772808,
+        "num": 807898,
+        "word": "丈夫出轨生子妻子离婚获赔15万",
+        "onboard_time": 1670246292,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 578040,
+        "num": 800503,
+        "word": "90后公务员入职搬600斤自行车emo了",
+        "onboard_time": 1670242752,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 490733,
+        "num": 792263,
+        "word": "贵州女子远嫁印度和老公AA制",
+        "onboard_time": 1670244854,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 412837,
+        "num": 788920,
+        "word": "王者荣耀",
+        "onboard_time": 1670251933,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 406552,
+        "num": 776729,
+        "word": "奥密克戎导致肺炎或重症比例比流感低",
+        "onboard_time": 1670242271,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343670,
+        "num": 770425,
+        "word": "老公每天坚持给老婆打水泡脚洗头",
+        "onboard_time": 1670237352,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 317133,
+        "num": 761181,
+        "word": "北京增本土感染者2260例",
+        "onboard_time": 1670247673,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287730,
+        "num": 754871,
+        "word": "许昕",
+        "onboard_time": 1670241852,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 286033,
+        "num": 749538,
+        "word": "重庆解答感染者一直不做核酸怎么办",
+        "onboard_time": 1670241911,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275815,
+        "num": 743416,
+        "word": "女子编理由借同事朋友70万买奢侈品",
+        "onboard_time": 1670249713,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 662955,
+        "num": 734497,
+        "word": "赵钊彦",
+        "onboard_time": 1670248872,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 263041,
+        "num": 729387,
+        "word": "梅西说德国队出局让他很惊讶",
+        "onboard_time": 1670241071,
+        "rank": 21,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 258552,
+        "num": 719000,
+        "word": "AG对战GK",
+        "onboard_time": 1670251452,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 226634,
+        "num": 713281,
+        "word": "女子做糍粑驾车来回碾压秒成型",
+        "onboard_time": 1670243232,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213418,
+        "num": 707493,
+        "word": "超七成葡萄牙球迷反对C罗首发",
+        "onboard_time": 1670252351,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 212048,
+        "num": 701589,
+        "word": "奈雪的茶成乐乐茶第一大股东",
+        "onboard_time": 1670240831,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 211883,
+        "num": 690702,
+        "word": "妈妈假装逃单5岁儿子坚持让付钱",
+        "onboard_time": 1670251452,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208192,
+        "num": 687273,
+        "word": "女孩穿凉鞋同学爸爸量尺寸给买棉鞋",
+        "onboard_time": 1670248151,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207606,
+        "num": 679946,
+        "word": "父母结婚20年仍如初恋惹女儿嫉妒",
+        "onboard_time": 1670240172,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206486,
+        "num": 667535,
+        "word": "上海对7天内无核酸检测记录的不再赋黄码",
+        "onboard_time": 1670243052,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289934,
+        "num": 665733,
+        "word": "梅西预测4支球队世界杯夺冠",
+        "onboard_time": 1670252713,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196087,
+        "num": 654448,
+        "word": "姐弟卖脐橙补贴家用小伙一次买完",
+        "onboard_time": 1670249293,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196030,
+        "num": 650932,
+        "word": "俄里海沿岸现2500头海豹尸体",
+        "onboard_time": 1670250371,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191317,
+        "num": 641953,
+        "word": "10岁女孩失踪4月家长悬赏百万",
+        "onboard_time": 1670233872,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180110,
+        "num": 632276,
+        "word": "原来这就是梅西的守护神",
+        "onboard_time": 1670246051,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175371,
+        "num": 623571,
+        "word": "周恺",
+        "onboard_time": 1670248872,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170118,
+        "num": 619355,
+        "word": "女儿23点起床哭着要妈妈煮螺蛳粉",
+        "onboard_time": 1670234051,
+        "rank": 36,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 166748,
+        "num": 612713,
+        "word": "苏州疫情防控",
+        "onboard_time": 1670230032,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159614,
+        "num": 602458,
+        "word": "鲁班路",
+        "onboard_time": 1670239332,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158369,
+        "num": 599601,
+        "word": "12月5日新闻联播",
+        "onboard_time": 1670241616,
+        "rank": 39,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 154010,
+        "num": 588766,
+        "word": "赵子豪",
+        "onboard_time": 1670246713,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153166,
+        "num": 582995,
+        "word": "艾尔海森",
+        "onboard_time": 1670239872,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 150853,
+        "num": 575481,
+        "word": "1米长的萝卜长什么样",
+        "onboard_time": 1670245032,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136134,
+        "num": 570405,
+        "word": "杭州哄抬药价最高罚款300万",
+        "onboard_time": 1670252531,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131894,
+        "num": 560580,
+        "word": "重孙女睡觉太爷爷半小时来看8次",
+        "onboard_time": 1670228652,
+        "rank": 44,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 121145,
+        "num": 553406,
+        "word": "这发型也太公主了",
+        "onboard_time": 1670234292,
+        "rank": 45,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 101108,
+        "num": 545145,
+        "word": "爸爸带3岁娃每天到公司接妻子下班",
+        "onboard_time": 1670229431,
+        "rank": 46,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 99951,
+        "num": 540991,
+        "word": "日本vs克罗地亚首发",
+        "onboard_time": 1670249414,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92956,
+        "num": 533555,
+        "word": "日本克罗地亚预测",
+        "onboard_time": 1670232732,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92413,
+        "num": 526194,
+        "word": "我和我的飞机就是最后一发炮弹",
+        "onboard_time": 1670253133,
+        "rank": 49,
+        "category": "军事,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#江泽民伟大光辉的一生#"
+    }
+  }
+}
