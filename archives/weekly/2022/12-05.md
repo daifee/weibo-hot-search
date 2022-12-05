@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/12/05 00:25:04 ~ 2022/12/06 04:20:00
+本榜单时间：2022/12/05 00:25:04 ~ 2022/12/06 04:34:01
 </p>
 </blockquote>
 <p>
@@ -837,6 +837,12 @@ RNG（热度：365041）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%A5%BF%E5%8D%8A%E5%9C%BA4%E6%AF%940%E9%9F%A9%E5%9B%BD%23" target="weibo">
+巴西半场4比0韩国（热度：309974）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B6%E6%AF%8D%E7%BB%93%E5%A9%9A20%E5%B9%B4%E4%BB%8D%E5%A6%82%E5%88%9D%E6%81%8B%E6%83%B9%E5%A5%B3%E5%84%BF%E5%AB%89%E5%A6%92%23" target="weibo">
 父母结婚20年仍如初恋惹女儿嫉妒（热度：306687）
 </a>
@@ -1295,12 +1301,6 @@ AG对战GK（热度：258552）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%ACvs%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A%E9%A6%96%E5%8F%91%23" target="weibo">
 日本vs克罗地亚首发（热度：178627）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%A5%BF%E5%8D%8A%E5%9C%BA4%E6%AF%940%E9%9F%A9%E5%9B%BD%23" target="weibo">
-巴西半场4比0韩国（热度：177254）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1670257630924,
-  "endTime": 1670271600373,
+  "endTime": 1670272441663,
   "band_list": [
     {
       "raw_hot": 2099928,
@@ -203,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 309974,
+      "num": 315081,
+      "word": "巴西半场4比0韩国",
+      "onboard_time": 1670270587,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 279064,
       "num": 598659,
       "word": "保定回应舆情称网上夸张成分太大",
@@ -329,14 +337,6 @@
       "onboard_time": 1670240172,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 177254,
-      "num": 315081,
-      "word": "巴西半场4比0韩国",
-      "onboard_time": 1670270587,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 165376,

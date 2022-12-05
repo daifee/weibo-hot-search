@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/12/01 00:28:49 ~ 2022/12/06 04:20:00
+本榜单时间：2022/12/01 00:28:49 ~ 2022/12/06 04:34:01
 </p>
 </blockquote>
 <p>
@@ -3579,6 +3579,12 @@ iPhone14Pro系列最快元旦到货（热度：317324）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%A5%BF%E5%8D%8A%E5%9C%BA4%E6%AF%940%E9%9F%A9%E5%9B%BD%23" target="weibo">
+巴西半场4比0韩国（热度：309974）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E6%A0%BC%E5%85%B0%20%E9%A2%84%E6%B5%8B%23" target="weibo">
 英格兰 预测（热度：309926）
 </a>
@@ -5165,12 +5171,6 @@ KPL（热度：199834）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A1%E6%AF%940%E4%B8%B9%E9%BA%A6%23" target="weibo">
 澳大利亚1比0丹麦（热度：177390）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%A5%BF%E5%8D%8A%E5%9C%BA4%E6%AF%940%E9%9F%A9%E5%9B%BD%23" target="weibo">
-巴西半场4比0韩国（热度：177254）
 </a>
 </li>
 

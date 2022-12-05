@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1670271600373,
+  "endTime": 1670272441663,
   "band_list": [
     {
       "raw_hot": 6453532,
@@ -4755,6 +4755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 309974,
+      "num": 315081,
+      "word": "巴西半场4比0韩国",
+      "onboard_time": 1670270587,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 309926,
       "num": 614544,
       "word": "英格兰 预测",
@@ -6872,14 +6880,6 @@
       "word": "澳大利亚1比0丹麦",
       "onboard_time": 1669829291,
       "rank": 27,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 177254,
-      "num": 315081,
-      "word": "巴西半场4比0韩国",
-      "onboard_time": 1670270587,
-      "rank": 7,
       "category": "体育"
     },
     {
