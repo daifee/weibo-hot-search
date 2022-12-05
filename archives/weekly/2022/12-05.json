@@ -1,6 +1,6 @@
 {
   "startTime": 1670171104099,
-  "endTime": 1670274991057,
+  "endTime": 1670276013619,
   "band_list": [
     {
       "raw_hot": 3582523,
@@ -1467,6 +1467,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 219393,
+      "num": 262632,
+      "word": "巴西4比1韩国",
+      "onboard_time": 1670274367,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 219091,
       "num": 219091,
       "word": "普通家庭要储备抗原检测试剂吗",
@@ -1488,6 +1496,14 @@
       "word": "天王盖地虎 还得大吉鲁",
       "onboard_time": 1670169313,
       "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 217829,
+      "num": 195780,
+      "word": "韩国球迷用7比1嘲讽巴西",
+      "onboard_time": 1670274787,
+      "rank": 34,
       "category": "体育"
     },
     {
@@ -1705,14 +1721,6 @@
       "onboard_time": 1670227215,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 187442,
-      "num": 262632,
-      "word": "巴西4比1韩国",
-      "onboard_time": 1670274367,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 179724,
@@ -2459,6 +2467,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 78073,
+      "num": 206518,
+      "word": "美丽的桑巴足球",
+      "onboard_time": 1670274787,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 70748,
       "num": 117100,
       "word": "回顾中国航天员回到地球的激动时刻",
@@ -2547,28 +2563,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 39686,
+      "num": 32080,
+      "word": "罗纳尔多微笑观战巴西队比赛",
+      "onboard_time": 1670275327,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 32360,
       "num": 1405483,
       "word": "源力使者 聚光向前",
       "onboard_time": 1670238015,
       "rank": 14,
       "category": "科技"
-    },
-    {
-      "raw_hot": 31910,
-      "num": 206518,
-      "word": "美丽的桑巴足球",
-      "onboard_time": 1670274787,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 26252,
-      "num": 195780,
-      "word": "韩国球迷用7比1嘲讽巴西",
-      "onboard_time": 1670274787,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 22430,

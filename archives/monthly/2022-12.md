@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/12/01 00:28:49 ~ 2022/12/06 05:16:31
+本榜单时间：2022/12/01 00:28:49 ~ 2022/12/06 05:33:33
 </p>
 </blockquote>
 <p>
@@ -4515,6 +4515,12 @@ AG对战GK（热度：258552）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%A5%BF4%E6%AF%941%E9%9F%A9%E5%9B%BD%23" target="weibo">
+巴西4比1韩国（热度：219393）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BC%A0%E7%BB%9F%E5%8D%AF%E6%A6%AB%E7%BB%93%E6%9E%84%E5%B0%8632%E5%9D%97%E6%9C%A8%E7%89%87%E5%81%9A%E6%88%90%E8%B6%B3%E7%90%83%23" target="weibo">
 传统卯榫结构将32块木片做成足球（热度：219246）
 </a>
@@ -4541,6 +4547,12 @@ AG对战GK（热度：258552）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E7%8E%8B%E7%9B%96%E5%9C%B0%E8%99%8E%20%E8%BF%98%E5%BE%97%E5%A4%A7%E5%90%89%E9%B2%81%23" target="weibo">
 天王盖地虎 还得大吉鲁（热度：218567）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%90%83%E8%BF%B7%E7%94%A87%E6%AF%941%E5%98%B2%E8%AE%BD%E5%B7%B4%E8%A5%BF%23" target="weibo">
+韩国球迷用7比1嘲讽巴西（热度：217829）
 </a>
 </li>
 
@@ -4973,12 +4985,6 @@ KPL（热度：199834）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2317%E5%B9%B4%E5%89%8D%E5%A4%A9%E5%9C%B0%E5%AF%B9%E8%AF%9D%E7%9A%84%E5%AD%A9%E5%AD%90%E6%88%90%E4%BA%86%E8%88%AA%E5%A4%A9%E4%BA%BA%23" target="weibo">
 17年前天地对话的孩子成了航天人（热度：187599）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%A5%BF4%E6%AF%941%E9%9F%A9%E5%9B%BD%23" target="weibo">
-巴西4比1韩国（热度：187442）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ NBA球星看世界杯球星（热度：140832）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%BB%A1%E4%B8%80%E7%AE%B1%E6%B2%B9%E5%B0%91%E8%8A%B117.5%E5%85%83%23" target="weibo">
 加满一箱油少花17.5元（热度：135874）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A0%E6%AF%940%E6%AF%94%E5%88%A9%E6%97%B6%23" target="weibo">
-克罗地亚0比0比利时（热度：135785）
 </a>
 </li>
 
