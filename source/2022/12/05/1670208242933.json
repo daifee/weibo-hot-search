@@ -1,0 +1,410 @@
+{
+  "runTime": 1670208242933,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 781736,
+        "num": 781736,
+        "word": "全国多地优化疫情防控措施",
+        "onboard_time": 1670198648,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1767391,
+        "num": 760684,
+        "word": "与阳性擦肩戴口罩感染几率锐减",
+        "onboard_time": 1670205729,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97839,
+        "num": 718120,
+        "word": "重症高风险人群最有效的保护是接种疫苗",
+        "onboard_time": 1670163433,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 843658,
+        "num": 716561,
+        "word": "专家说在家自行吃药或耽误治疗",
+        "onboard_time": 1670198887,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 714118,
+        "num": 714118,
+        "word": "姆巴佩传给3秒后的自己",
+        "onboard_time": 1670207109,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 533827,
+        "num": 533827,
+        "word": "浓眉55分",
+        "onboard_time": 1670204770,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 526263,
+        "num": 526263,
+        "word": "杭州疫情防控",
+        "onboard_time": 1670168533,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 461131,
+        "num": 461131,
+        "word": "江苏省考",
+        "onboard_time": 1670203928,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 451122,
+        "num": 451122,
+        "word": "新冠发病7天内身体会发生什么变化",
+        "onboard_time": 1670162112,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 359886,
+        "num": 449173,
+        "word": "姆巴佩一战刷新六项纪录",
+        "onboard_time": 1670195948,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1200879,
+        "num": 442586,
+        "word": "女子因单位太冷把羽绒服让给狗子穿",
+        "onboard_time": 1670199609,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1058480,
+        "num": 438621,
+        "word": "爷爷以10元成交价将房过户给孙子后反悔",
+        "onboard_time": 1670196487,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 673180,
+        "num": 431757,
+        "word": "校方回应学生留言食堂删除猪肚二字",
+        "onboard_time": 1670206028,
+        "rank": 12,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 649749,
+        "num": 424160,
+        "word": "法国家庭将每天停电两小时",
+        "onboard_time": 1670206449,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 421031,
+        "num": 421031,
+        "word": "人民币升破7.0关口",
+        "onboard_time": 1670207051,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 411361,
+        "num": 411361,
+        "word": "婚礼后5天发现老婆与前男友领证",
+        "onboard_time": 1670165173,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348737,
+        "num": 348737,
+        "word": "女子嫌老人拉二胡太吵下楼抢音响",
+        "onboard_time": 1670203329,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329941,
+        "num": 329941,
+        "word": "库里后场三分5连中",
+        "onboard_time": 1670204289,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 317549,
+        "num": 317549,
+        "word": "华大基因被举报核酸检测不准",
+        "onboard_time": 1670207349,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297162,
+        "num": 297162,
+        "word": "浙江省考",
+        "onboard_time": 1670206629,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 253401,
+        "num": 253401,
+        "word": "男子塞招嫖卡被退伍军人一把揪住",
+        "onboard_time": 1670165652,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247877,
+        "num": 247877,
+        "word": "停服",
+        "onboard_time": 1670207890,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 225134,
+        "num": 225134,
+        "word": "北京朝阳社会面核酸采样亭应开尽开",
+        "onboard_time": 1670196788,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219971,
+        "num": 219971,
+        "word": "队友羡慕C罗肌肉",
+        "onboard_time": 1670206211,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 219605,
+        "num": 219605,
+        "word": "大连现奇观犹如海面开锅了",
+        "onboard_time": 1670206569,
+        "rank": 24,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 218989,
+        "num": 218989,
+        "word": "北京昨增1021例本土确诊",
+        "onboard_time": 1670200387,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179741,
+        "num": 179741,
+        "word": "合肥采样点位只增不减",
+        "onboard_time": 1670207528,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176648,
+        "num": 176648,
+        "word": "朱婷21分",
+        "onboard_time": 1670201647,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167302,
+        "num": 167302,
+        "word": "23岁姆巴佩已打进250球",
+        "onboard_time": 1670203687,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162008,
+        "num": 162008,
+        "word": "志愿者总是说谢谢最多的人",
+        "onboard_time": 1670201492,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161939,
+        "num": 161939,
+        "word": "C罗训练后落单独自压腿",
+        "onboard_time": 1670176213,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161879,
+        "num": 161879,
+        "word": "斯特林家中遭持枪抢劫",
+        "onboard_time": 1670205968,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156208,
+        "num": 156208,
+        "word": "阿根廷球迷比心高喊爱中国",
+        "onboard_time": 1670207649,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144869,
+        "num": 144869,
+        "word": "山东疫情防控",
+        "onboard_time": 1670163253,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138575,
+        "num": 138575,
+        "word": "男子见阿根廷输球血压爆表鼻血狂喷",
+        "onboard_time": 1670171653,
+        "rank": 34,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 133887,
+        "num": 133887,
+        "word": "原神",
+        "onboard_time": 1670158692,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 124219,
+        "num": 124219,
+        "word": "6名奥密克戎康复者自述",
+        "onboard_time": 1670170571,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122838,
+        "num": 122838,
+        "word": "5岁听障女孩丢失30万人工耳蜗",
+        "onboard_time": 1670171112,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120572,
+        "num": 120572,
+        "word": "小偷乔装行窃后的搜索纪录",
+        "onboard_time": 1670201108,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112806,
+        "num": 112806,
+        "word": "猫咪单爪熟练旋开存粮桶欲偷吃",
+        "onboard_time": 1670207769,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111137,
+        "num": 111137,
+        "word": "山东进入公共场所不再查验健康码和核酸",
+        "onboard_time": 1670163854,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108356,
+        "num": 108356,
+        "word": "孕产妇如何做好健康防护",
+        "onboard_time": 1670207948,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106643,
+        "num": 106643,
+        "word": "小狗被卡宠物箱遭其他狗狗围观",
+        "onboard_time": 1670174051,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106601,
+        "num": 106601,
+        "word": "晨雾中的白天鹅美如童话",
+        "onboard_time": 1670206869,
+        "rank": 43,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 106121,
+        "num": 106121,
+        "word": "姆巴佩 跑的真快",
+        "onboard_time": 1670169791,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105653,
+        "num": 105653,
+        "word": "专家回应有孩家庭如何备药",
+        "onboard_time": 1670206931,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103558,
+        "num": 103558,
+        "word": "姆巴佩弯道超车",
+        "onboard_time": 1670171684,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95833,
+        "num": 95833,
+        "word": "神十四航天员平安抵京",
+        "onboard_time": 1670195707,
+        "rank": 47,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 94190,
+        "num": 94190,
+        "word": "大四学生为助农购1吨芹菜捐母校",
+        "onboard_time": 1670197988,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 94022,
+        "num": 94022,
+        "word": "核酸暴利如何终结",
+        "onboard_time": 1670152992,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#江泽民同志永垂不朽#"
+    }
+  }
+}
