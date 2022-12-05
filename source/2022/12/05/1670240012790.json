@@ -1,0 +1,410 @@
+{
+  "runTime": 1670240012790,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1581364,
+        "num": 1581364,
+        "word": "江泽民同志遗体在北京火化",
+        "onboard_time": 1670228232,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1027660,
+        "num": 1569639,
+        "word": "感染新冠怎么办",
+        "onboard_time": 1670231831,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45251,
+        "num": 1556379,
+        "word": "全国多地优化疫情防控措施",
+        "onboard_time": 1670198648,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 565749,
+        "num": 1554447,
+        "word": "浙江已制定新冠分级诊疗方案",
+        "onboard_time": 1670223131,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 516440,
+        "num": 1540854,
+        "word": "这发型也太公主了",
+        "onboard_time": 1670234292,
+        "rank": 4,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 424033,
+        "num": 1519790,
+        "word": "女子头胎龙凤胎2胎又生双胞胎",
+        "onboard_time": 1670225712,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 394852,
+        "num": 1513501,
+        "word": "内马尔曾说日本可能成世界杯大黑马",
+        "onboard_time": 1670225053,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 324201,
+        "num": 1491795,
+        "word": "日本克罗地亚预测",
+        "onboard_time": 1670232732,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 305849,
+        "num": 1481746,
+        "word": "苏州疫情防控",
+        "onboard_time": 1670230032,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304623,
+        "num": 1470010,
+        "word": "重孙女睡觉太爷爷半小时来看8次",
+        "onboard_time": 1670228652,
+        "rank": 9,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 770043,
+        "num": 1454402,
+        "word": "夫妻准备办离婚丈夫路上兜了8圈",
+        "onboard_time": 1670220852,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 539698,
+        "num": 1445707,
+        "word": "女儿23点起床哭着要妈妈煮螺蛳粉",
+        "onboard_time": 1670234051,
+        "rank": 11,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 515021,
+        "num": 1432659,
+        "word": "10岁女孩失踪4月家长悬赏百万",
+        "onboard_time": 1670233872,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 373455,
+        "num": 1410360,
+        "word": "停服",
+        "onboard_time": 1670207890,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 32360,
+        "num": 1405483,
+        "word": "源力使者 聚光向前",
+        "onboard_time": 1670238015,
+        "rank": 14,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 263748,
+        "num": 1384832,
+        "word": "超75款游戏消失在2022年",
+        "onboard_time": 1670226371,
+        "rank": 15,
+        "category": "社会新闻,游戏"
+      },
+      {
+        "raw_hot": 239325,
+        "num": 1377354,
+        "word": "卡塔尔或将申办2036年奥运会",
+        "onboard_time": 1670226491,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 234486,
+        "num": 1368851,
+        "word": "男子泼水成冰失败热水浇头还滑倒",
+        "onboard_time": 1670230815,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227396,
+        "num": 1346407,
+        "word": "30岁男子植发后多器官衰竭死亡",
+        "onboard_time": 1670219349,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219011,
+        "num": 1331954,
+        "word": "内马尔喷止疼药出战韩国",
+        "onboard_time": 1670220311,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211432,
+        "num": 1320206,
+        "word": "小虎",
+        "onboard_time": 1670221932,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 197122,
+        "num": 1311140,
+        "word": "男子称做核酸导航误入方舱被隔离5天",
+        "onboard_time": 1670226790,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189804,
+        "num": 1297979,
+        "word": "妈妈带女儿在自家保时捷上作画引争议",
+        "onboard_time": 1670224991,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177311,
+        "num": 1283553,
+        "word": "RNG",
+        "onboard_time": 1670225171,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 175330,
+        "num": 1271749,
+        "word": "癌症宝宝遭开腹后又遇复发妈妈躲卫生间崩溃",
+        "onboard_time": 1670211851,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174908,
+        "num": 1258214,
+        "word": "俩男孩挖地窖爸妈加入挖出3室1厅",
+        "onboard_time": 1670224692,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174877,
+        "num": 1243734,
+        "word": "学校回应教师教室内踢翻学生",
+        "onboard_time": 1670231533,
+        "rank": 26,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 170900,
+        "num": 1235155,
+        "word": "知名餐饮品牌收筷子费后被反向抹零",
+        "onboard_time": 1670236751,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166618,
+        "num": 1214888,
+        "word": "王者荣耀 停服",
+        "onboard_time": 1670212510,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 159107,
+        "num": 1200288,
+        "word": "研究称成人大脑中有大量静默突触",
+        "onboard_time": 1670224332,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 756287,
+        "num": 1196718,
+        "word": "女子买全部橘子后发现大爷住洋楼",
+        "onboard_time": 1670238371,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 545896,
+        "num": 1176097,
+        "word": "鲁班路",
+        "onboard_time": 1670239332,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 357921,
+        "num": 1171404,
+        "word": "原来日本队晚饭吃这些东西",
+        "onboard_time": 1670236032,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 314677,
+        "num": 1153282,
+        "word": "老公每天坚持给老婆打水泡脚洗头",
+        "onboard_time": 1670237352,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 249259,
+        "num": 1134742,
+        "word": "阿根廷赛前我本人",
+        "onboard_time": 1670237052,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155203,
+        "num": 1124335,
+        "word": "与阳性人员擦肩而过感染几率有多大",
+        "onboard_time": 1670213291,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154564,
+        "num": 1118101,
+        "word": "科学家打造出婴儿虫洞",
+        "onboard_time": 1670232550,
+        "rank": 36,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 138827,
+        "num": 1104073,
+        "word": "艾尔海森",
+        "onboard_time": 1670239872,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 136647,
+        "num": 1089640,
+        "word": "妈妈让女孩掏钱给哥哥买房引争议",
+        "onboard_time": 1670218031,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134562,
+        "num": 1077058,
+        "word": "女子就医看监控发现丈夫带娃玩手机",
+        "onboard_time": 1670232372,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130585,
+        "num": 1057462,
+        "word": "70岁奶奶网恋外国男友4年转14万",
+        "onboard_time": 1670228413,
+        "rank": 40,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 130068,
+        "num": 1047819,
+        "word": "江西不再开展常态化核酸检测",
+        "onboard_time": 1670231496,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127097,
+        "num": 1040712,
+        "word": "莱万遭网暴",
+        "onboard_time": 1670221331,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126026,
+        "num": 1018079,
+        "word": "爸爸带3岁娃每天到公司接妻子下班",
+        "onboard_time": 1670229431,
+        "rank": 43,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 107536,
+        "num": 1006229,
+        "word": "FUTNOVA对战XYG",
+        "onboard_time": 1670237771,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 106454,
+        "num": 998866,
+        "word": "研究称职场正成为抑郁高发区",
+        "onboard_time": 1670233931,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104562,
+        "num": 979991,
+        "word": "9岁女孩发脾气锁门父母打119破拆",
+        "onboard_time": 1670233572,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102102,
+        "num": 964649,
+        "word": "加满一箱油少花17.5元",
+        "onboard_time": 1670233453,
+        "rank": 47,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 99660,
+        "num": 958832,
+        "word": "驻韩美军十几拳暴打韩国出租司机",
+        "onboard_time": 1670220910,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98172,
+        "num": 943960,
+        "word": "我也想要一个蘑菇房",
+        "onboard_time": 1670236332,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#江泽民伟大光辉的一生#"
+    }
+  }
+}

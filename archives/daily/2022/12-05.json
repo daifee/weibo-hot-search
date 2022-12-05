@@ -1,6 +1,6 @@
 {
   "startTime": 1670171104099,
-  "endTime": 1670238932379,
+  "endTime": 1670240012790,
   "band_list": [
     {
       "raw_hot": 3582523,
@@ -291,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 756287,
+      "num": 1196718,
+      "word": "女子买全部橘子后发现大爷住洋楼",
+      "onboard_time": 1670238371,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 749736,
       "num": 2552272,
       "word": "苏州疫情防控",
@@ -412,7 +420,7 @@
     },
     {
       "raw_hot": 593401,
-      "num": 1403826,
+      "num": 1445707,
       "word": "女儿23点起床哭着要妈妈煮螺蛳粉",
       "onboard_time": 1670234051,
       "rank": 26,
@@ -448,6 +456,14 @@
       "word": "爸爸花49元为2娃搭大棚式阳光房",
       "onboard_time": 1670208849,
       "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 545896,
+      "num": 1176097,
+      "word": "鲁班路",
+      "onboard_time": 1670239332,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -529,6 +545,14 @@
       "onboard_time": 1670166313,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 516440,
+      "num": 1540854,
+      "word": "这发型也太公主了",
+      "onboard_time": 1670234292,
+      "rank": 23,
+      "category": "时尚"
     },
     {
       "raw_hot": 506118,
@@ -684,7 +708,7 @@
     },
     {
       "raw_hot": 385807,
-      "num": 1121963,
+      "num": 1171404,
       "word": "原来日本队晚饭吃这些东西",
       "onboard_time": 1670236032,
       "rank": 38,
@@ -721,14 +745,6 @@
       "onboard_time": 1670225171,
       "rank": 22,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 354289,
-      "num": 1410144,
-      "word": "这发型也太公主了",
-      "onboard_time": 1670234292,
-      "rank": 23,
-      "category": "时尚"
     },
     {
       "raw_hot": 353956,
@@ -793,6 +809,14 @@
       "onboard_time": 1670204289,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 314677,
+      "num": 1153282,
+      "word": "老公每天坚持给老婆打水泡脚洗头",
+      "onboard_time": 1670237352,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 314085,
@@ -937,6 +961,14 @@
       "onboard_time": 1670158333,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 249259,
+      "num": 1134742,
+      "word": "阿根廷赛前我本人",
+      "onboard_time": 1670237052,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 243596,
@@ -1115,28 +1147,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 208959,
-      "num": 1112041,
-      "word": "女子买全部橘子后发现大爷住洋楼",
-      "onboard_time": 1670238371,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 208127,
       "num": 208127,
       "word": "深圳各类公共场所不再查验核酸",
       "onboard_time": 1670223792,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 206831,
-      "num": 1100882,
-      "word": "阿根廷赛前我本人",
-      "onboard_time": 1670237052,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 201655,
@@ -1169,14 +1185,6 @@
       "onboard_time": 1670171653,
       "rank": 44,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 199806,
-      "num": 1087916,
-      "word": "老公每天坚持给老婆打水泡脚洗头",
-      "onboard_time": 1670237352,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 196077,
@@ -1299,6 +1307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 170900,
+      "num": 1235155,
+      "word": "知名餐饮品牌收筷子费后被反向抹零",
+      "onboard_time": 1670236751,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 167822,
       "num": 1167868,
       "word": "重症高风险人群最有效的保护是接种疫苗",
@@ -1411,14 +1427,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 148222,
-      "num": 1055456,
-      "word": "知名餐饮品牌收筷子费后被反向抹零",
-      "onboard_time": 1670236751,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 146151,
       "num": 146151,
       "word": "法国晋级8强",
@@ -1473,6 +1481,14 @@
       "onboard_time": 1670209389,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 138827,
+      "num": 1104073,
+      "word": "艾尔海森",
+      "onboard_time": 1670239872,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 138626,
@@ -1588,7 +1604,7 @@
     },
     {
       "raw_hot": 119425,
-      "num": 951707,
+      "num": 1006229,
       "word": "FUTNOVA对战XYG",
       "onboard_time": 1670237771,
       "rank": 44,
@@ -1907,8 +1923,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 21840,
-      "num": 1322998,
+      "raw_hot": 32360,
+      "num": 1405483,
       "word": "源力使者 聚光向前",
       "onboard_time": 1670238015,
       "rank": 14,
