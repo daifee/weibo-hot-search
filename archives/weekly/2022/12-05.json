@@ -1,6 +1,6 @@
 {
   "startTime": 1670171104099,
-  "endTime": 1670276013619,
+  "endTime": 1670278690937,
   "band_list": [
     {
       "raw_hot": 3582523,
@@ -473,6 +473,14 @@
       "onboard_time": 1670207349,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 684996,
+      "num": 195780,
+      "word": "韩国球迷用7比1嘲讽巴西",
+      "onboard_time": 1670274787,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 681586,
@@ -1499,14 +1507,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 217829,
-      "num": 195780,
-      "word": "韩国球迷用7比1嘲讽巴西",
-      "onboard_time": 1670274787,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 217659,
       "num": 217659,
       "word": "大妈微信存400万没设密码手机已找回",
@@ -1723,6 +1723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 188150,
+      "num": 309304,
+      "word": "日本2比4克罗地亚",
+      "onboard_time": 1670263569,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 179724,
       "num": 179724,
       "word": "入睡前应关掉电热毯电源",
@@ -1881,14 +1889,6 @@
       "onboard_time": 1670211309,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 159959,
-      "num": 309304,
-      "word": "日本2比4克罗地亚",
-      "onboard_time": 1670263569,
-      "rank": 21,
-      "category": "体育"
     },
     {
       "raw_hot": 158100,
@@ -2403,6 +2403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 97620,
+      "num": 206518,
+      "word": "美丽的桑巴足球",
+      "onboard_time": 1670274787,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 95480,
       "num": 896638,
       "word": "用球星的名字画球星",
@@ -2417,6 +2425,14 @@
       "onboard_time": 1670249471,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 92994,
+      "num": 44264,
+      "word": "罗纳尔多微笑观战巴西队比赛",
+      "onboard_time": 1670275327,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 92629,
@@ -2465,14 +2481,6 @@
       "onboard_time": 1670208548,
       "rank": 49,
       "category": "科技"
-    },
-    {
-      "raw_hot": 78073,
-      "num": 206518,
-      "word": "美丽的桑巴足球",
-      "onboard_time": 1670274787,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 70748,
@@ -2563,14 +2571,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 39686,
-      "num": 32080,
-      "word": "罗纳尔多微笑观战巴西队比赛",
-      "onboard_time": 1670275327,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 32360,
       "num": 1405483,
       "word": "源力使者 聚光向前",
@@ -2579,7 +2579,7 @@
       "category": "科技"
     },
     {
-      "raw_hot": 22430,
+      "raw_hot": 29172,
       "num": 178709,
       "word": "男孩打碎邻居花盆专程留纸条道歉",
       "onboard_time": 1670273348,
