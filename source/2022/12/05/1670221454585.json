@@ -1,0 +1,410 @@
+{
+  "runTime": 1670221454585,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 560137,
+        "num": 729726,
+        "word": "普通市民常规出门不需戴N95",
+        "onboard_time": 1670217371,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 832222,
+        "num": 718689,
+        "word": "摄影师发现内马尔后的反应",
+        "onboard_time": 1670215116,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134196,
+        "num": 682629,
+        "word": "今天谢谢可爱的志愿者",
+        "onboard_time": 1670210830,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1433444,
+        "num": 679747,
+        "word": "癌症宝宝遭开腹后又遇复发妈妈躲卫生间崩溃",
+        "onboard_time": 1670211851,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 667097,
+        "num": 667097,
+        "word": "30岁男子植发后多器官衰竭死亡",
+        "onboard_time": 1670219349,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 633025,
+        "num": 633025,
+        "word": "与阳性擦肩戴口罩感染几率锐减",
+        "onboard_time": 1670205729,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 490044,
+        "num": 490044,
+        "word": "女孩靠做馒头三年内买车又买房",
+        "onboard_time": 1670209988,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 472698,
+        "num": 472698,
+        "word": "杭州不扫场所码了",
+        "onboard_time": 1670209029,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 440789,
+        "num": 440789,
+        "word": "外卖小哥坠井昏迷催单电话救其一命",
+        "onboard_time": 1670217730,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 417397,
+        "num": 417397,
+        "word": "马斯克称自己不会自杀",
+        "onboard_time": 1670215295,
+        "rank": 9,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1954032,
+        "num": 407205,
+        "word": "停服",
+        "onboard_time": 1670207890,
+        "rank": 10,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 680649,
+        "num": 404871,
+        "word": "妈妈让女孩掏钱给哥哥买房引争议",
+        "onboard_time": 1670218031,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 520497,
+        "num": 390054,
+        "word": "内马尔喷止疼药出战韩国",
+        "onboard_time": 1670220311,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 952658,
+        "num": 382317,
+        "word": "王者荣耀 停服",
+        "onboard_time": 1670212510,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 372375,
+        "num": 372375,
+        "word": "全球超10亿人有精神疾病",
+        "onboard_time": 1670215535,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 346416,
+        "num": 346416,
+        "word": "与阳性人员擦肩而过感染几率有多大",
+        "onboard_time": 1670213291,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335268,
+        "num": 335268,
+        "word": "主人花2000元为狗狗定制貂皮衣服",
+        "onboard_time": 1670216831,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309919,
+        "num": 309919,
+        "word": "爷爷以10元成交价将房过户给孙子后反悔",
+        "onboard_time": 1670196487,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308185,
+        "num": 308185,
+        "word": "华大基因回应核酸检测不准被举报",
+        "onboard_time": 1670207349,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296868,
+        "num": 296868,
+        "word": "吉林失联高三女生父亲回应女儿被目击",
+        "onboard_time": 1670210891,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253620,
+        "num": 253620,
+        "word": "人民币升破7.0关口",
+        "onboard_time": 1670207051,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 253326,
+        "num": 253326,
+        "word": "麦迪目睹美国队惨败后去打篮球",
+        "onboard_time": 1670214432,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 243596,
+        "num": 243596,
+        "word": "梅西曾义卖将善款捐给琼中女足",
+        "onboard_time": 1670218389,
+        "rank": 22,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 231804,
+        "num": 231804,
+        "word": "姆巴佩传给3秒后的自己",
+        "onboard_time": 1670207109,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202340,
+        "num": 202340,
+        "word": "湖南一城管当街多次扇拄拐商贩耳光",
+        "onboard_time": 1670217312,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202273,
+        "num": 202273,
+        "word": "医生推着上下铺婴儿车",
+        "onboard_time": 1670219891,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201407,
+        "num": 201407,
+        "word": "看着姆巴佩觉得年轻真好",
+        "onboard_time": 1670218991,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 200743,
+        "num": 200743,
+        "word": "孕产妇更容易感染新冠病毒吗",
+        "onboard_time": 1670216171,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188880,
+        "num": 188880,
+        "word": "校方回应学生留言食堂删除猪肚二字",
+        "onboard_time": 1670206028,
+        "rank": 28,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 179540,
+        "num": 179540,
+        "word": "92岁奶奶街头卖羽绒服还债",
+        "onboard_time": 1670213052,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191266,
+        "num": 178076,
+        "word": "夫妻准备办离婚丈夫路上兜了8圈",
+        "onboard_time": 1670220852,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175304,
+        "num": 175304,
+        "word": "闪耀暖暖",
+        "onboard_time": 1670219052,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 166200,
+        "num": 166200,
+        "word": "女子因单位太冷把羽绒服让给狗子穿",
+        "onboard_time": 1670199609,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161549,
+        "num": 161549,
+        "word": "法国家庭将每天停电两小时",
+        "onboard_time": 1670206449,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147279,
+        "num": 147279,
+        "word": "阿根廷球迷比心高喊爱中国",
+        "onboard_time": 1670207649,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143768,
+        "num": 143768,
+        "word": "可爱的终点是奶猫",
+        "onboard_time": 1670216230,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 143612,
+        "num": 143612,
+        "word": "2023年个税专项附加扣除开始确认",
+        "onboard_time": 1670220910,
+        "rank": 36,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 141225,
+        "num": 141225,
+        "word": "入睡前应关掉电热毯电源",
+        "onboard_time": 1670218870,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137903,
+        "num": 137903,
+        "word": "爸爸花49元为2娃搭大棚式阳光房",
+        "onboard_time": 1670208849,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135955,
+        "num": 135955,
+        "word": "合肥采样点位只增不减",
+        "onboard_time": 1670207528,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135210,
+        "num": 135210,
+        "word": "精神卫生人才缺口引关注",
+        "onboard_time": 1670220251,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133362,
+        "num": 133362,
+        "word": "梅西晒与妻子合影秀恩爱",
+        "onboard_time": 1670210470,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132805,
+        "num": 132805,
+        "word": "普通家庭要储备抗原检测试剂吗",
+        "onboard_time": 1670214189,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120743,
+        "num": 120743,
+        "word": "航天员带回了空间站生长的水稻",
+        "onboard_time": 1670209270,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113844,
+        "num": 113844,
+        "word": "驻韩美军十几拳暴打韩国出租司机",
+        "onboard_time": 1670220910,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109758,
+        "num": 109758,
+        "word": "莱万遭网暴",
+        "onboard_time": 1670221331,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103789,
+        "num": 103789,
+        "word": "离岸人民币一个月涨超3500基点",
+        "onboard_time": 1670216591,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 103684,
+        "num": 103684,
+        "word": "马斯克担忧个人安全",
+        "onboard_time": 1670216891,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102905,
+        "num": 102905,
+        "word": "猫咪单爪熟练旋开存粮桶欲偷吃",
+        "onboard_time": 1670207769,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100706,
+        "num": 100706,
+        "word": "专家说在家自行吃药或耽误治疗",
+        "onboard_time": 1670198887,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#江泽民伟大光辉的一生#"
+    }
+  }
+}
