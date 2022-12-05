@@ -1,6 +1,6 @@
 {
   "startTime": 1670257630924,
-  "endTime": 1670257630924,
+  "endTime": 1670258743078,
   "band_list": [
     {
       "raw_hot": 2099928,
@@ -115,12 +115,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 331241,
+      "num": 566626,
+      "word": "儿童睡觉尽量别用电热毯",
+      "onboard_time": 1670255711,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 279064,
       "num": 598659,
       "word": "保定回应舆情称网上夸张成分太大",
       "onboard_time": 1670246532,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 277043,
+      "num": 546531,
+      "word": "葡萄牙主帅回应C罗转会",
+      "onboard_time": 1670255592,
+      "rank": 25,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 256775,
@@ -163,14 +179,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 239751,
-      "num": 566626,
-      "word": "儿童睡觉尽量别用电热毯",
-      "onboard_time": 1670255711,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 235215,
       "num": 560177,
       "word": "森保一 记笔记",
@@ -195,19 +203,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 217592,
-      "num": 546531,
-      "word": "葡萄牙主帅回应C罗转会",
-      "onboard_time": 1670255592,
-      "rank": 25,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 212768,
       "num": 536327,
       "word": "日本半场1比0克罗地亚",
       "onboard_time": 1670255830,
       "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 201651,
+      "num": 449199,
+      "word": "克罗地亚进球",
+      "onboard_time": 1670257510,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -235,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 161216,
+      "num": 455330,
+      "word": "省外来返海口人员不再实施分类管控",
+      "onboard_time": 1670256491,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 160857,
       "num": 516858,
       "word": "女子做糍粑驾车来回碾压秒成型",
@@ -256,6 +272,14 @@
       "word": "许昕",
       "onboard_time": 1670241852,
       "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 154349,
+      "num": 405812,
+      "word": "格子军团",
+      "onboard_time": 1670258350,
+      "rank": 29,
       "category": "体育"
     },
     {
@@ -323,14 +347,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 124928,
-      "num": 455330,
-      "word": "省外来返海口人员不再实施分类管控",
-      "onboard_time": 1670256491,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 121236,
       "num": 451078,
       "word": "女孩穿凉鞋同学爸爸量尺寸给买棉鞋",
@@ -345,14 +361,6 @@
       "onboard_time": 1670241071,
       "rank": 43,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 112364,
-      "num": 438519,
-      "word": "克罗地亚进球",
-      "onboard_time": 1670257510,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 110447,
@@ -401,11 +409,22 @@
       "onboard_time": 1670246713,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 76009,
+      "num": 328376,
+      "word": "12月5日新闻联播",
+      "onboard_time": 1670241616,
+      "rank": 48,
+      "category": "国内要闻"
     }
   ],
   "hotgov_list": [
     {
       "word": "#江泽民伟大光辉的一生#"
+    },
+    {
+      "word": "#江泽民同志永垂不朽#"
     }
   ]
 }
