@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1670261637014,
+  "endTime": 1670264604018,
   "band_list": [
     {
       "raw_hot": 6453532,
@@ -561,6 +561,14 @@
       "onboard_time": 1669862171,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1499030,
+      "num": 262364,
+      "word": "加时赛之王",
+      "onboard_time": 1670260510,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 1480243,
@@ -1363,6 +1371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 895052,
+      "num": 141019,
+      "word": "克罗地亚点球战胜日本",
+      "onboard_time": 1670262611,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 892131,
       "num": 718689,
       "word": "摄影师发现内马尔后的反应",
@@ -1753,6 +1769,14 @@
       "onboard_time": 1670170571,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 779245,
+      "num": 270417,
+      "word": "韩媒称巴西人只关心决赛对手是谁",
+      "onboard_time": 1670259430,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 778165,
@@ -2363,6 +2387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 638240,
+      "num": 140636,
+      "word": "点球大战",
+      "onboard_time": 1670261890,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 637733,
       "num": 637733,
       "word": "华大基因回应核酸检测不准被举报",
@@ -2833,6 +2865,14 @@
       "onboard_time": 1669972031,
       "rank": 41,
       "category": "科技"
+    },
+    {
+      "raw_hot": 545433,
+      "num": 140371,
+      "word": "克罗地亚门将神了",
+      "onboard_time": 1670262611,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 545130,
@@ -3475,6 +3515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 433309,
+      "num": 140227,
+      "word": "克罗地亚晋级8强",
+      "onboard_time": 1670262372,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 432069,
       "num": 1606315,
       "word": "马斯克称自己不会自杀",
@@ -3488,14 +3536,6 @@
       "word": "葡萄牙小组第一出线",
       "onboard_time": 1670000711,
       "rank": 22,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 428627,
-      "num": 270417,
-      "word": "韩媒称巴西人只关心决赛对手是谁",
-      "onboard_time": 1670259430,
-      "rank": 11,
       "category": "体育"
     },
     {
@@ -3736,6 +3776,14 @@
       "word": "孙兴慜说赢葡萄牙不是奇迹",
       "onboard_time": 1670044151,
       "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 407824,
+      "num": 139928,
+      "word": "巴西vs韩国",
+      "onboard_time": 1670263812,
+      "rank": 11,
       "category": "体育"
     },
     {
@@ -5387,14 +5435,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 259105,
-      "num": 262364,
-      "word": "加时赛之王",
-      "onboard_time": 1670260510,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 259100,
       "num": 538623,
       "word": "巴西首发",
@@ -6353,6 +6393,14 @@
       "onboard_time": 1670210170,
       "rank": 44,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 195491,
+      "num": 139448,
+      "word": "利瓦科维奇 牛",
+      "onboard_time": 1670263029,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 195316,
@@ -8083,6 +8131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 129807,
+      "num": 77607,
+      "word": "南野拓实失点",
+      "onboard_time": 1670263449,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 128456,
       "num": 128456,
       "word": "克罗地亚vs比利时首发",
@@ -8153,6 +8209,14 @@
       "onboard_time": 1669955710,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 126724,
+      "num": 126724,
+      "word": "日本2比4克罗地亚",
+      "onboard_time": 1670263569,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 126550,
@@ -8585,6 +8649,14 @@
       "onboard_time": 1669897091,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 115918,
+      "num": 77493,
+      "word": "巴西vs韩国首发",
+      "onboard_time": 1670264470,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 115603,
@@ -10024,6 +10096,14 @@
       "word": "姆巴佩莱万赛后拥抱",
       "onboard_time": 1670178970,
       "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 47960,
+      "num": 47960,
+      "word": "伊东纯也停球好稳",
+      "onboard_time": 1670256970,
+      "rank": 44,
       "category": "体育"
     },
     {
