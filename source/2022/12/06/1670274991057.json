@@ -1,0 +1,410 @@
+{
+  "runTime": 1670274991057,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 80657,
+        "num": 277769,
+        "word": "向江泽民同志作最后的诀别",
+        "onboard_time": 1670244071,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 35836,
+        "num": 276260,
+        "word": "江泽民同志遗体在北京火化",
+        "onboard_time": 1670228232,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 10985,
+        "num": 273768,
+        "word": "全国多地优化疫情防控措施",
+        "onboard_time": 1670198648,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 647517,
+        "num": 270474,
+        "word": "巴西vs韩国",
+        "onboard_time": 1670263812,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 551852,
+        "num": 269581,
+        "word": "巴西半场4比0韩国",
+        "onboard_time": 1670270587,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 284519,
+        "num": 267369,
+        "word": "韩媒称巴西人只关心决赛对手是谁",
+        "onboard_time": 1670259430,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194293,
+        "num": 264289,
+        "word": "日本四次止步世界杯16强",
+        "onboard_time": 1670265729,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187442,
+        "num": 262632,
+        "word": "巴西4比1韩国",
+        "onboard_time": 1670274367,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179521,
+        "num": 259555,
+        "word": "内马尔点球破门",
+        "onboard_time": 1670268428,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142121,
+        "num": 256971,
+        "word": "日本2比4克罗地亚",
+        "onboard_time": 1670263569,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131463,
+        "num": 254902,
+        "word": "抗疫最困难的时期已经走过",
+        "onboard_time": 1670251152,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90478,
+        "num": 251599,
+        "word": "克罗地亚门将神了",
+        "onboard_time": 1670262611,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 69420,
+        "num": 250487,
+        "word": "梅西预测4支球队世界杯夺冠",
+        "onboard_time": 1670252713,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 55396,
+        "num": 247260,
+        "word": "超七成葡萄牙球迷反对C罗首发",
+        "onboard_time": 1670252351,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 53225,
+        "num": 243736,
+        "word": "日本vs克罗地亚",
+        "onboard_time": 1670250615,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 52962,
+        "num": 242650,
+        "word": "丈夫出轨生子妻子离婚获赔15万",
+        "onboard_time": 1670246292,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51708,
+        "num": 239934,
+        "word": "儿童睡觉尽量别用电热毯",
+        "onboard_time": 1670255711,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48453,
+        "num": 237558,
+        "word": "加时赛之王",
+        "onboard_time": 1670260510,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 46046,
+        "num": 234669,
+        "word": "葡萄牙主帅回应C罗转会",
+        "onboard_time": 1670255592,
+        "rank": 18,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 42556,
+        "num": 232503,
+        "word": "克罗地亚点球战胜日本",
+        "onboard_time": 1670262611,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 40788,
+        "num": 230964,
+        "word": "原来这就是梅西的守护神",
+        "onboard_time": 1670246051,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 38937,
+        "num": 228725,
+        "word": "贵州女子远嫁印度和老公AA制",
+        "onboard_time": 1670244854,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38292,
+        "num": 225991,
+        "word": "上海一小车从高架上掉落",
+        "onboard_time": 1670248573,
+        "rank": 22,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 38098,
+        "num": 223229,
+        "word": "点球大战",
+        "onboard_time": 1670261890,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 37296,
+        "num": 219905,
+        "word": "巴西vs韩国首发",
+        "onboard_time": 1670264470,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 35767,
+        "num": 217111,
+        "word": "保定回应舆情称网上夸张成分太大",
+        "onboard_time": 1670246532,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35339,
+        "num": 216123,
+        "word": "女子买全部橘子后发现大爷住洋楼",
+        "onboard_time": 1670238371,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34433,
+        "num": 213898,
+        "word": "莫德里奇",
+        "onboard_time": 1670253792,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33810,
+        "num": 210703,
+        "word": "女子编理由借同事朋友70万买奢侈品",
+        "onboard_time": 1670249713,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33049,
+        "num": 208426,
+        "word": "曝C罗1月1日起为沙特球队效力",
+        "onboard_time": 1670242932,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31910,
+        "num": 206518,
+        "word": "美丽的桑巴足球",
+        "onboard_time": 1670274787,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31444,
+        "num": 203675,
+        "word": "王者荣耀",
+        "onboard_time": 1670251933,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 30465,
+        "num": 200377,
+        "word": "老公每天坚持给老婆打水泡脚洗头",
+        "onboard_time": 1670237352,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 28062,
+        "num": 198095,
+        "word": "感染新冠怎么办",
+        "onboard_time": 1670231831,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26252,
+        "num": 195780,
+        "word": "韩国球迷用7比1嘲讽巴西",
+        "onboard_time": 1670274787,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25647,
+        "num": 192754,
+        "word": "格子军团",
+        "onboard_time": 1670258350,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25353,
+        "num": 190431,
+        "word": "梅西说德国队出局让他很惊讶",
+        "onboard_time": 1670241071,
+        "rank": 36,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 25159,
+        "num": 188313,
+        "word": "奥密克戎导致肺炎或重症比例比流感低",
+        "onboard_time": 1670242271,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24271,
+        "num": 186482,
+        "word": "北京增本土感染者2260例",
+        "onboard_time": 1670247673,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23930,
+        "num": 182542,
+        "word": "日本克罗地亚 加时赛",
+        "onboard_time": 1670259614,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23461,
+        "num": 182422,
+        "word": "女子做糍粑驾车来回碾压秒成型",
+        "onboard_time": 1670243232,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22430,
+        "num": 178709,
+        "word": "男孩打碎邻居花盆专程留纸条道歉",
+        "onboard_time": 1670273348,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22033,
+        "num": 177554,
+        "word": "克罗地亚晋级8强",
+        "onboard_time": 1670262372,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21684,
+        "num": 174780,
+        "word": "常规时间日本1比1克罗地亚",
+        "onboard_time": 1670261230,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21420,
+        "num": 171035,
+        "word": "森保一 记笔记",
+        "onboard_time": 1670255772,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21409,
+        "num": 169121,
+        "word": "上海对7天内无核酸检测记录的不再赋黄码",
+        "onboard_time": 1670243052,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21293,
+        "num": 167593,
+        "word": "父母结婚20年仍如初恋惹女儿嫉妒",
+        "onboard_time": 1670240172,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19693,
+        "num": 164630,
+        "word": "省外来返海口人员不再实施分类管控",
+        "onboard_time": 1670256491,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18908,
+        "num": 161422,
+        "word": "克罗地亚进球",
+        "onboard_time": 1670257510,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18570,
+        "num": 159618,
+        "word": "日本进球",
+        "onboard_time": 1670255352,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#江泽民同志永垂不朽#"
+    }
+  }
+}
