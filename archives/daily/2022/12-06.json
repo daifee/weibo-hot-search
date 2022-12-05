@@ -1,6 +1,6 @@
 {
   "startTime": 1670257630924,
-  "endTime": 1670267700340,
+  "endTime": 1670268797235,
   "band_list": [
     {
       "raw_hot": 2099928,
@@ -59,6 +59,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 894681,
+      "num": 139928,
+      "word": "巴西vs韩国",
+      "onboard_time": 1670263812,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 849745,
       "num": 296476,
       "word": "日本克罗地亚 加时赛",
@@ -104,14 +112,6 @@
       "word": "点球大战",
       "onboard_time": 1670261890,
       "rank": 7,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 565046,
-      "num": 139928,
-      "word": "巴西vs韩国",
-      "onboard_time": 1670263812,
-      "rank": 11,
       "category": "体育"
     },
     {
@@ -315,6 +315,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 184312,
+      "num": 67798,
+      "word": "日本四次止步世界杯16强",
+      "onboard_time": 1670265729,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 169067,
+      "num": 55435,
+      "word": "内马尔点球破门",
+      "onboard_time": 1670268428,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 165376,
       "num": 521307,
       "word": "北京增本土感染者2260例",
@@ -497,14 +513,6 @@
       "onboard_time": 1670249293,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 95702,
-      "num": 67798,
-      "word": "日本四次止步世界杯16强",
-      "onboard_time": 1670265729,
-      "rank": 11,
-      "category": "体育"
     },
     {
       "raw_hot": 95556,
