@@ -1,6 +1,6 @@
 {
   "startTime": 1670171104099,
-  "endTime": 1670253606095,
+  "endTime": 1670254547507,
   "band_list": [
     {
       "raw_hot": 3582523,
@@ -187,6 +187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1166607,
+      "num": 868480,
+      "word": "日本vs克罗地亚",
+      "onboard_time": 1670250615,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1152565,
       "num": 1152565,
       "word": "姆巴佩 进球",
@@ -259,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 967081,
+      "num": 846340,
+      "word": "抗疫最困难的时期已经走过",
+      "onboard_time": 1670251152,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 926295,
       "num": 926295,
       "word": "河南疫情防控",
@@ -304,14 +320,6 @@
       "word": "女子头胎龙凤胎2胎又生双胞胎",
       "onboard_time": 1670225712,
       "rank": 3,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 806400,
-      "num": 846340,
-      "word": "抗疫最困难的时期已经走过",
-      "onboard_time": 1670251152,
-      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -377,14 +385,6 @@
       "onboard_time": 1670217371,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 705180,
-      "num": 868480,
-      "word": "日本vs克罗地亚",
-      "onboard_time": 1670250615,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 704714,
@@ -464,6 +464,14 @@
       "word": "赵钊彦",
       "onboard_time": 1670248872,
       "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 657624,
+      "num": 733861,
+      "word": "梅西预测4支球队世界杯夺冠",
+      "onboard_time": 1670252713,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -715,6 +723,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 459270,
+      "num": 788920,
+      "word": "王者荣耀",
+      "onboard_time": 1670251933,
+      "rank": 13,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 443514,
       "num": 443514,
       "word": "92岁奶奶街头卖羽绒服还债",
@@ -745,14 +761,6 @@
       "onboard_time": 1670243232,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 412837,
-      "num": 788920,
-      "word": "王者荣耀",
-      "onboard_time": 1670251933,
-      "rank": 13,
-      "category": "游戏"
     },
     {
       "raw_hot": 411378,
@@ -1043,11 +1051,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 289934,
-      "num": 665733,
-      "word": "梅西预测4支球队世界杯夺冠",
-      "onboard_time": 1670252713,
-      "rank": 30,
+      "raw_hot": 285581,
+      "num": 707493,
+      "word": "超七成葡萄牙球迷反对C罗首发",
+      "onboard_time": 1670252351,
+      "rank": 24,
       "category": "体育"
     },
     {
@@ -1201,6 +1209,14 @@
       "onboard_time": 1670218389,
       "rank": 48,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 242310,
+      "num": 690702,
+      "word": "妈妈假装逃单5岁儿子坚持让付钱",
+      "onboard_time": 1670251452,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 242147,
@@ -1371,28 +1387,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 213418,
-      "num": 707493,
-      "word": "超七成葡萄牙球迷反对C罗首发",
-      "onboard_time": 1670252351,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 212430,
       "num": 212430,
       "word": "大四学生为助农购1吨芹菜捐母校",
       "onboard_time": 1670197988,
       "rank": 19,
       "category": "教育"
-    },
-    {
-      "raw_hot": 211883,
-      "num": 690702,
-      "word": "妈妈假装逃单5岁儿子坚持让付钱",
-      "onboard_time": 1670251452,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 210883,
@@ -1528,6 +1528,14 @@
       "word": "郑州发布2022年163号通告",
       "onboard_time": 1670155573,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 190194,
+      "num": 621454,
+      "word": "杭州哄抬药价最高罚款300万",
+      "onboard_time": 1670252531,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -1787,6 +1795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 140012,
+      "num": 546480,
+      "word": "金铲铲",
+      "onboard_time": 1670254092,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 138626,
       "num": 138626,
       "word": "吉鲁破门",
@@ -1795,19 +1811,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 137992,
+      "num": 541103,
+      "word": "莫德里奇",
+      "onboard_time": 1670253792,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 136785,
       "num": 136785,
       "word": "神十四航天员与家人拥抱好暖",
       "onboard_time": 1670210530,
       "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 136134,
-      "num": 570405,
-      "word": "杭州哄抬药价最高罚款300万",
-      "onboard_time": 1670252531,
-      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -2145,6 +2161,14 @@
       "onboard_time": 1670249772,
       "rank": 45,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 100673,
+      "num": 484014,
+      "word": "警方回应男子当街脚踢拖拽孩子",
+      "onboard_time": 1670253732,
+      "rank": 48,
+      "category": "社会负面"
     },
     {
       "raw_hot": 99751,
