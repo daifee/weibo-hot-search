@@ -1,6 +1,6 @@
 {
   "startTime": 1670171104099,
-  "endTime": 1670215167944,
+  "endTime": 1670217472060,
   "band_list": [
     {
       "raw_hot": 3582523,
@@ -40,6 +40,14 @@
       "word": "女子因单位太冷把羽绒服让给狗子穿",
       "onboard_time": 1670199609,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1725718,
+      "num": 770004,
+      "word": "癌症宝宝遭开腹后又遇复发妈妈躲卫生间崩溃",
+      "onboard_time": 1670211851,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -211,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 705915,
+      "num": 401374,
+      "word": "摄影师发现内马尔后的反应",
+      "onboard_time": 1670215116,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 689299,
       "num": 689299,
       "word": "姆巴佩一战刷新六项纪录",
@@ -251,8 +267,8 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 627468,
-      "num": 627468,
+      "raw_hot": 637733,
+      "num": 637733,
       "word": "华大基因回应核酸检测不准被举报",
       "onboard_time": 1670207349,
       "rank": 6,
@@ -331,6 +347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 522084,
+      "num": 522084,
+      "word": "与阳性人员擦肩而过感染几率有多大",
+      "onboard_time": 1670213291,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 522008,
       "num": 522008,
       "word": "法国vs波兰",
@@ -371,6 +395,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 443514,
+      "num": 443514,
+      "word": "92岁奶奶街头卖羽绒服还债",
+      "onboard_time": 1670213052,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 416989,
       "num": 416989,
       "word": "梅西晒与妻子合影秀恩爱",
@@ -391,14 +423,6 @@
       "num": 410750,
       "word": "华大声明",
       "onboard_time": 1670209510,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 398601,
-      "num": 398601,
-      "word": "92岁奶奶街头卖羽绒服还债",
-      "onboard_time": 1670213052,
       "rank": 30,
       "category": "社会新闻"
     },
@@ -459,20 +483,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 361744,
+      "num": 361744,
+      "word": "马斯克称自己不会自杀",
+      "onboard_time": 1670215295,
+      "rank": 16,
+      "category": "科技"
+    },
+    {
       "raw_hot": 352713,
       "num": 352713,
       "word": "姆巴佩太强了",
       "onboard_time": 1670175372,
       "rank": 12,
       "category": "体育"
-    },
-    {
-      "raw_hot": 340648,
-      "num": 168476,
-      "word": "与阳性人员擦肩而过感染几率有多大",
-      "onboard_time": 1670213291,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 336349,
@@ -504,6 +528,14 @@
       "word": "库里后场三分5连中",
       "onboard_time": 1670204289,
       "rank": 20,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 323329,
+      "num": 323329,
+      "word": "麦迪目睹美国队惨败后去打篮球",
+      "onboard_time": 1670214432,
+      "rank": 36,
       "category": "体育"
     },
     {
@@ -545,6 +577,14 @@
       "onboard_time": 1670168953,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 287505,
+      "num": 287505,
+      "word": "全球超10亿人有精神疾病",
+      "onboard_time": 1670215535,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 285144,
@@ -683,6 +723,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 209833,
+      "num": 209833,
+      "word": "内马尔重回赛场",
+      "onboard_time": 1670214251,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 203324,
+      "num": 203324,
+      "word": "普通家庭要储备抗原检测试剂吗",
+      "onboard_time": 1670214189,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 200747,
       "num": 200747,
       "word": "男子床上放火盆取暖引燃被褥烧家",
@@ -755,14 +811,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 182083,
-      "num": 182083,
-      "word": "内马尔重回赛场",
-      "onboard_time": 1670214251,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 177196,
       "num": 177196,
       "word": "孕产妇如何做好健康防护",
@@ -787,8 +835,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 168845,
-      "num": 168845,
+      "raw_hot": 173000,
+      "num": 173000,
       "word": "8岁男孩边练琵琶边哭满脸生无可恋",
       "onboard_time": 1670214251,
       "rank": 29,
@@ -859,6 +907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161346,
+      "num": 161346,
+      "word": "离岸人民币一个月涨超3500基点",
+      "onboard_time": 1670216591,
+      "rank": 32,
+      "category": "财经"
+    },
+    {
       "raw_hot": 160203,
       "num": 160203,
       "word": "没人能戒掉卤肉饭",
@@ -875,6 +931,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 155076,
+      "num": 155076,
+      "word": "孕产妇更容易感染新冠病毒吗",
+      "onboard_time": 1670216171,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 148224,
       "num": 148224,
       "word": "00后女大学生做宿舍美甲月入过万",
@@ -883,20 +947,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 148033,
+      "num": 148033,
+      "word": "可爱的终点是奶猫",
+      "onboard_time": 1670216230,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 146151,
       "num": 146151,
       "word": "法国晋级8强",
       "onboard_time": 1670174652,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 144935,
-      "num": 144935,
-      "word": "普通家庭要储备抗原检测试剂吗",
-      "onboard_time": 1670214189,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 142670,
@@ -911,14 +975,6 @@
       "num": 140687,
       "word": "穆里尼奥神预测姆巴佩金靴",
       "onboard_time": 1670209389,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 140281,
-      "num": 140281,
-      "word": "麦迪目睹美国队惨败后去打篮球",
-      "onboard_time": 1670214432,
       "rank": 36,
       "category": "体育"
     },
@@ -939,12 +995,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 135472,
+      "num": 135472,
+      "word": "主人花2000元为狗狗定制貂皮衣服",
+      "onboard_time": 1670216831,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 131905,
       "num": 131905,
       "word": "姆巴佩吉鲁深情对视",
       "onboard_time": 1670200808,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 131267,
+      "num": 131267,
+      "word": "马斯克担忧个人安全",
+      "onboard_time": 1670216891,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 130147,
+      "num": 130147,
+      "word": "华大基因曾诉王德明侵犯名誉权获胜",
+      "onboard_time": 1670217013,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 126146,
@@ -987,19 +1067,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 114436,
+      "num": 114436,
+      "word": "泼水成冰是啥原理",
+      "onboard_time": 1670216771,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 114128,
       "num": 114128,
       "word": "梅西笑了",
       "onboard_time": 1670168352,
       "rank": 42,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 113824,
-      "num": 113824,
-      "word": "摄影师发现内马尔后的反应",
-      "onboard_time": 1670215116,
-      "rank": 47,
       "category": "体育"
     },
     {
@@ -1035,12 +1115,36 @@
       "category": "其它"
     },
     {
+      "raw_hot": 108740,
+      "num": 108740,
+      "word": "湖南一城管当街多次扇拄拐商贩耳光",
+      "onboard_time": 1670217312,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 106853,
+      "num": 106853,
+      "word": "王德明曾多次举报华大基因",
+      "onboard_time": 1670217013,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 106601,
       "num": 106601,
       "word": "晨雾中的白天鹅美如童话",
       "onboard_time": 1670206869,
       "rank": 43,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 106028,
+      "num": 106028,
+      "word": "普通市民常规出门不需戴N95",
+      "onboard_time": 1670217371,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 105653,
