@@ -1,6 +1,6 @@
 {
   "startTime": 1670257630924,
-  "endTime": 1670258743078,
+  "endTime": 1670260627947,
   "band_list": [
     {
       "raw_hot": 2099928,
@@ -67,6 +67,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 564647,
+      "num": 296476,
+      "word": "日本克罗地亚 加时赛",
+      "onboard_time": 1670259614,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 460300,
       "num": 641371,
       "word": "感染新冠怎么办",
@@ -115,12 +123,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 331241,
+      "raw_hot": 332106,
       "num": 566626,
       "word": "儿童睡觉尽量别用电热毯",
       "onboard_time": 1670255711,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 292111,
+      "num": 250198,
+      "word": "韩媒称巴西人只关心决赛对手是谁",
+      "onboard_time": 1670259430,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 279064,
@@ -417,6 +433,22 @@
       "onboard_time": 1670241616,
       "rank": 48,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 73816,
+      "num": 73816,
+      "word": "加时赛之王",
+      "onboard_time": 1670260510,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 51486,
+      "num": 51486,
+      "word": "前田大然破门",
+      "onboard_time": 1670256015,
+      "rank": 49,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
