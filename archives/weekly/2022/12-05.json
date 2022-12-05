@@ -1,6 +1,6 @@
 {
   "startTime": 1670171104099,
-  "endTime": 1670221454585,
+  "endTime": 1670222341817,
   "band_list": [
     {
       "raw_hot": 3582523,
@@ -163,12 +163,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1002871,
+      "num": 340363,
+      "word": "夫妻准备办离婚丈夫路上兜了8圈",
+      "onboard_time": 1670220852,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 998978,
       "num": 1292710,
       "word": "宁波不再开展常态化核酸检测",
       "onboard_time": 1670166915,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 982475,
+      "num": 732704,
+      "word": "内马尔喷止疼药出战韩国",
+      "onboard_time": 1670220311,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 926295,
@@ -203,6 +219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 823442,
+      "num": 200190,
+      "word": "南京公共交通不再查验核酸",
+      "onboard_time": 1670222051,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 795855,
       "num": 795855,
       "word": "法国 门将",
@@ -224,6 +248,22 @@
       "word": "法国家庭将每天停电两小时",
       "onboard_time": 1670206449,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 743656,
+      "num": 743656,
+      "word": "普通市民常规出门不需戴N95",
+      "onboard_time": 1670217371,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 704714,
+      "num": 404871,
+      "word": "妈妈让女孩掏钱给哥哥买房引争议",
+      "onboard_time": 1670218031,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -251,14 +291,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 680649,
-      "num": 404871,
-      "word": "妈妈让女孩掏钱给哥哥买房引争议",
-      "onboard_time": 1670218031,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 677936,
       "num": 677936,
       "word": "法国进球",
@@ -275,8 +307,8 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 667097,
-      "num": 667097,
+      "raw_hot": 672029,
+      "num": 672029,
       "word": "30岁男子植发后多器官衰竭死亡",
       "onboard_time": 1670219349,
       "rank": 4,
@@ -312,14 +344,6 @@
       "word": "爸爸花49元为2娃搭大棚式阳光房",
       "onboard_time": 1670208849,
       "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 560137,
-      "num": 729726,
-      "word": "普通市民常规出门不需戴N95",
-      "onboard_time": 1670217371,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -387,14 +411,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 520497,
-      "num": 390054,
-      "word": "内马尔喷止疼药出战韩国",
-      "onboard_time": 1670220311,
-      "rank": 12,
-      "category": "体育"
-    },
-    {
       "raw_hot": 518185,
       "num": 518185,
       "word": "英格兰vs塞内加尔",
@@ -419,6 +435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 464283,
+      "num": 464283,
+      "word": "外卖小哥坠井昏迷催单电话救其一命",
+      "onboard_time": 1670217730,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 461131,
       "num": 461131,
       "word": "江苏省考",
@@ -432,14 +456,6 @@
       "word": "92岁奶奶街头卖羽绒服还债",
       "onboard_time": 1670213052,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 440789,
-      "num": 440789,
-      "word": "外卖小哥坠井昏迷催单电话救其一命",
-      "onboard_time": 1670217730,
-      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -667,6 +683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 274151,
+      "num": 274151,
+      "word": "莱万遭网暴",
+      "onboard_time": 1670221331,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 273877,
       "num": 273877,
       "word": "法国总统预测莱万进球",
@@ -720,6 +744,14 @@
       "word": "浙江多地调整疫情防控措施",
       "onboard_time": 1670169853,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 231119,
+      "num": 231119,
+      "word": "医生推着上下铺婴儿车",
+      "onboard_time": 1670219891,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -779,12 +811,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 216787,
+      "num": 216787,
+      "word": "看着姆巴佩觉得年轻真好",
+      "onboard_time": 1670218991,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 212430,
       "num": 212430,
       "word": "大四学生为助农购1吨芹菜捐母校",
       "onboard_time": 1670197988,
       "rank": 19,
       "category": "教育"
+    },
+    {
+      "raw_hot": 210883,
+      "num": 210883,
+      "word": "湖南一城管当街多次扇拄拐商贩耳光",
+      "onboard_time": 1670217312,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 209833,
@@ -795,28 +843,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 202340,
-      "num": 202340,
-      "word": "湖南一城管当街多次扇拄拐商贩耳光",
-      "onboard_time": 1670217312,
-      "rank": 47,
+      "raw_hot": 205462,
+      "num": 205462,
+      "word": "驻韩美军十几拳暴打韩国出租司机",
+      "onboard_time": 1670220910,
+      "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 202273,
-      "num": 202273,
-      "word": "医生推着上下铺婴儿车",
-      "onboard_time": 1670219891,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 201407,
-      "num": 201407,
-      "word": "看着姆巴佩觉得年轻真好",
-      "onboard_time": 1670218991,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 200747,
@@ -881,14 +913,6 @@
       "onboard_time": 1670210830,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 191266,
-      "num": 178076,
-      "word": "夫妻准备办离婚丈夫路上兜了8圈",
-      "onboard_time": 1670220852,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 191126,
@@ -1027,6 +1051,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 159098,
+      "num": 159098,
+      "word": "入睡前应关掉电热毯电源",
+      "onboard_time": 1670218870,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158100,
       "num": 158100,
       "word": "可爱的终点是奶猫",
@@ -1073,14 +1105,6 @@
       "onboard_time": 1670196367,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 141225,
-      "num": 141225,
-      "word": "入睡前应关掉电热毯电源",
-      "onboard_time": 1670218870,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 140687,
@@ -1179,6 +1203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 119281,
+      "num": 119281,
+      "word": "小虎",
+      "onboard_time": 1670221932,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 114436,
       "num": 114436,
       "word": "泼水成冰是啥原理",
@@ -1193,14 +1225,6 @@
       "onboard_time": 1670168352,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 113844,
-      "num": 113844,
-      "word": "驻韩美军十几拳暴打韩国出租司机",
-      "onboard_time": 1670220910,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 110493,
@@ -1225,14 +1249,6 @@
       "onboard_time": 1670214876,
       "rank": 48,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 109758,
-      "num": 109758,
-      "word": "莱万遭网暴",
-      "onboard_time": 1670221331,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 109657,
@@ -1291,6 +1307,14 @@
       "category": "科技,国内要闻"
     },
     {
+      "raw_hot": 104999,
+      "num": 108963,
+      "word": "专家表示囤药不科学",
+      "onboard_time": 1670221691,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 102832,
       "num": 110183,
       "word": "孩子拔牙后哭闹不止竟是拔错了牙",
@@ -1328,6 +1352,14 @@
       "word": "浓眉暴力隔扣",
       "onboard_time": 1670204949,
       "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 97653,
+      "num": 108936,
+      "word": "樊振东",
+      "onboard_time": 1670222232,
+      "rank": 49,
       "category": "体育"
     },
     {
