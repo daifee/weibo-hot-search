@@ -1,6 +1,6 @@
 {
   "startTime": 1670257630924,
-  "endTime": 1670260627947,
+  "endTime": 1670261637014,
   "band_list": [
     {
       "raw_hot": 2099928,
@@ -43,6 +43,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 849745,
+      "num": 296476,
+      "word": "日本克罗地亚 加时赛",
+      "onboard_time": 1670259614,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 680880,
       "num": 652042,
       "word": "女子买全部橘子后发现大爷住洋楼",
@@ -67,20 +75,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 564647,
-      "num": 296476,
-      "word": "日本克罗地亚 加时赛",
-      "onboard_time": 1670259614,
-      "rank": 5,
-      "category": "体育"
-    },
-    {
       "raw_hot": 460300,
       "num": 641371,
       "word": "感染新冠怎么办",
       "onboard_time": 1670231831,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 428627,
+      "num": 270417,
+      "word": "韩媒称巴西人只关心决赛对手是谁",
+      "onboard_time": 1670259430,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 426223,
@@ -131,14 +139,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 292111,
-      "num": 250198,
-      "word": "韩媒称巴西人只关心决赛对手是谁",
-      "onboard_time": 1670259430,
-      "rank": 11,
-      "category": "体育"
-    },
-    {
       "raw_hot": 279064,
       "num": 598659,
       "word": "保定回应舆情称网上夸张成分太大",
@@ -153,6 +153,14 @@
       "onboard_time": 1670255592,
       "rank": 25,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 259105,
+      "num": 262364,
+      "word": "加时赛之王",
+      "onboard_time": 1670260510,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 256775,
@@ -299,6 +307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 154233,
+      "num": 248195,
+      "word": "常规时间日本1比1克罗地亚",
+      "onboard_time": 1670261230,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 154154,
       "num": 500417,
       "word": "女子编理由借同事朋友70万买奢侈品",
@@ -435,12 +451,12 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 73816,
-      "num": 73816,
-      "word": "加时赛之王",
-      "onboard_time": 1670260510,
-      "rank": 40,
-      "category": "体育"
+      "raw_hot": 54355,
+      "num": 184923,
+      "word": "老师撒娇说手冷萌娃放怀里暖",
+      "onboard_time": 1670260690,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 51486,
