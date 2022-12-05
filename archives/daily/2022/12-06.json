@@ -1,6 +1,6 @@
 {
   "startTime": 1670257630924,
-  "endTime": 1670264604018,
+  "endTime": 1670265489576,
   "band_list": [
     {
       "raw_hot": 2099928,
@@ -123,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 447298,
+      "num": 139928,
+      "word": "巴西vs韩国",
+      "onboard_time": 1670263812,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 433309,
       "num": 140227,
       "word": "克罗地亚晋级8强",
@@ -145,14 +153,6 @@
       "onboard_time": 1670242752,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 407824,
-      "num": 139928,
-      "word": "巴西vs韩国",
-      "onboard_time": 1670263812,
-      "rank": 11,
-      "category": "体育"
     },
     {
       "raw_hot": 406877,
@@ -283,6 +283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 198293,
+      "num": 86404,
+      "word": "巴西vs韩国首发",
+      "onboard_time": 1670264470,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 195491,
       "num": 139448,
       "word": "利瓦科维奇 牛",
@@ -337,6 +345,14 @@
       "onboard_time": 1670243052,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 159959,
+      "num": 126724,
+      "word": "日本2比4克罗地亚",
+      "onboard_time": 1670263569,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 158273,
@@ -428,18 +444,10 @@
     },
     {
       "raw_hot": 129807,
-      "num": 77607,
+      "num": 85460,
       "word": "南野拓实失点",
       "onboard_time": 1670263449,
       "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 126724,
-      "num": 126724,
-      "word": "日本2比4克罗地亚",
-      "onboard_time": 1670263569,
-      "rank": 21,
       "category": "体育"
     },
     {
@@ -449,14 +457,6 @@
       "onboard_time": 1670248151,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 115918,
-      "num": 77493,
-      "word": "巴西vs韩国首发",
-      "onboard_time": 1670264470,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 114739,
@@ -540,7 +540,7 @@
     },
     {
       "raw_hot": 47960,
-      "num": 47960,
+      "num": 75077,
       "word": "伊东纯也停球好稳",
       "onboard_time": 1670256970,
       "rank": 44,

@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1670264604018,
+  "endTime": 1670265489576,
   "band_list": [
     {
       "raw_hot": 6453532,
@@ -3427,6 +3427,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 447298,
+      "num": 139928,
+      "word": "巴西vs韩国",
+      "onboard_time": 1670263812,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 447293,
       "num": 775879,
       "word": "智齿不疼也要拔吗",
@@ -3776,14 +3784,6 @@
       "word": "孙兴慜说赢葡萄牙不是奇迹",
       "onboard_time": 1670044151,
       "rank": 27,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 407824,
-      "num": 139928,
-      "word": "巴西vs韩国",
-      "onboard_time": 1670263812,
-      "rank": 11,
       "category": "体育"
     },
     {
@@ -6323,6 +6323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 198293,
+      "num": 86404,
+      "word": "巴西vs韩国首发",
+      "onboard_time": 1670264470,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 197962,
       "num": 672753,
       "word": "开车接打电话要扣3分",
@@ -7299,6 +7307,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 159959,
+      "num": 126724,
+      "word": "日本2比4克罗地亚",
+      "onboard_time": 1670263569,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 159078,
       "num": 159078,
       "word": "云南大理是懂浪漫的",
@@ -8132,7 +8148,7 @@
     },
     {
       "raw_hot": 129807,
-      "num": 77607,
+      "num": 85460,
       "word": "南野拓实失点",
       "onboard_time": 1670263449,
       "rank": 30,
@@ -8209,14 +8225,6 @@
       "onboard_time": 1669955710,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 126724,
-      "num": 126724,
-      "word": "日本2比4克罗地亚",
-      "onboard_time": 1670263569,
-      "rank": 21,
-      "category": "体育"
     },
     {
       "raw_hot": 126550,
@@ -8649,14 +8657,6 @@
       "onboard_time": 1669897091,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 115918,
-      "num": 77493,
-      "word": "巴西vs韩国首发",
-      "onboard_time": 1670264470,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 115603,
@@ -10100,7 +10100,7 @@
     },
     {
       "raw_hot": 47960,
-      "num": 47960,
+      "num": 75077,
       "word": "伊东纯也停球好稳",
       "onboard_time": 1670256970,
       "rank": 44,

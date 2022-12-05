@@ -1,6 +1,6 @@
 {
   "startTime": 1670171104099,
-  "endTime": 1670264604018,
+  "endTime": 1670265489576,
   "band_list": [
     {
       "raw_hot": 3582523,
@@ -787,6 +787,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 447298,
+      "num": 139928,
+      "word": "巴西vs韩国",
+      "onboard_time": 1670263812,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 443514,
       "num": 443514,
       "word": "92岁奶奶街头卖羽绒服还债",
@@ -849,14 +857,6 @@
       "onboard_time": 1670209510,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 407824,
-      "num": 139928,
-      "word": "巴西vs韩国",
-      "onboard_time": 1670263812,
-      "rank": 11,
-      "category": "体育"
     },
     {
       "raw_hot": 407081,
@@ -1571,6 +1571,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 198293,
+      "num": 86404,
+      "word": "巴西vs韩国首发",
+      "onboard_time": 1670264470,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 196087,
       "num": 768846,
       "word": "姐弟卖脐橙补贴家用小伙一次买完",
@@ -1835,6 +1843,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 159959,
+      "num": 126724,
+      "word": "日本2比4克罗地亚",
+      "onboard_time": 1670263569,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 158100,
       "num": 158100,
       "word": "可爱的终点是奶猫",
@@ -2036,7 +2052,7 @@
     },
     {
       "raw_hot": 129807,
-      "num": 77607,
+      "num": 85460,
       "word": "南野拓实失点",
       "onboard_time": 1670263449,
       "rank": 30,
@@ -2057,14 +2073,6 @@
       "onboard_time": 1670244493,
       "rank": 49,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 126724,
-      "num": 126724,
-      "word": "日本2比4克罗地亚",
-      "onboard_time": 1670263569,
-      "rank": 21,
-      "category": "体育"
     },
     {
       "raw_hot": 126269,
@@ -2137,14 +2145,6 @@
       "onboard_time": 1670236332,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 115918,
-      "num": 77493,
-      "word": "巴西vs韩国首发",
-      "onboard_time": 1670264470,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 115088,
@@ -2500,7 +2500,7 @@
     },
     {
       "raw_hot": 47960,
-      "num": 47960,
+      "num": 75077,
       "word": "伊东纯也停球好稳",
       "onboard_time": 1670256970,
       "rank": 44,
