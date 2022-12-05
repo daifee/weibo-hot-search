@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1670240012790,
+  "endTime": 1670243795370,
   "band_list": [
     {
       "raw_hot": 6453532,
@@ -1187,6 +1187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 966775,
+      "num": 1196718,
+      "word": "女子买全部橘子后发现大爷住洋楼",
+      "onboard_time": 1670238371,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 958257,
       "num": 303308,
       "word": "梅西错失点球",
@@ -1699,6 +1707,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 766337,
+      "num": 1176097,
+      "word": "鲁班路",
+      "onboard_time": 1670239332,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 765576,
       "num": 765576,
       "word": "山东四六级",
@@ -1736,14 +1752,6 @@
       "word": "济南疫情防控",
       "onboard_time": 1669851129,
       "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 756287,
-      "num": 1196718,
-      "word": "女子买全部橘子后发现大爷住洋楼",
-      "onboard_time": 1670238371,
-      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -1945,6 +1953,14 @@
       "onboard_time": 1669979534,
       "rank": 44,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 700841,
+      "num": 1015278,
+      "word": "奥密克戎导致肺炎或重症比例比流感低",
+      "onboard_time": 1670242271,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 697869,
@@ -2265,6 +2281,14 @@
       "onboard_time": 1670133970,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 632547,
+      "num": 1003691,
+      "word": "许昕",
+      "onboard_time": 1670241852,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 631488,
@@ -2689,14 +2713,6 @@
       "onboard_time": 1669972031,
       "rank": 41,
       "category": "科技"
-    },
-    {
-      "raw_hot": 545896,
-      "num": 1176097,
-      "word": "鲁班路",
-      "onboard_time": 1670239332,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 545130,
@@ -3579,6 +3595,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 407258,
+      "num": 990413,
+      "word": "90后公务员入职搬600斤自行车emo了",
+      "onboard_time": 1670242752,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 407081,
+      "num": 977648,
+      "word": "12月5日新闻联播",
+      "onboard_time": 1670241616,
+      "rank": 35,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 405156,
       "num": 724161,
       "word": "意大利姑娘远嫁广西农村扎根生活",
@@ -4051,6 +4083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 354034,
+      "num": 1153282,
+      "word": "老公每天坚持给老婆打水泡脚洗头",
+      "onboard_time": 1670237352,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 353964,
       "num": 783318,
       "word": "男子从高风险返乡未报备听从安排",
@@ -4443,14 +4483,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 314677,
-      "num": 1153282,
-      "word": "老公每天坚持给老婆打水泡脚洗头",
-      "onboard_time": 1670237352,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 314555,
       "num": 805482,
       "word": "3人在美容院打溶脂针致皮肤严重溃烂",
@@ -4515,6 +4547,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 306687,
+      "num": 956527,
+      "word": "父母结婚20年仍如初恋惹女儿嫉妒",
+      "onboard_time": 1670240172,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 305606,
       "num": 817246,
       "word": "折月亮",
@@ -4545,6 +4585,14 @@
       "onboard_time": 1670029090,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 303771,
+      "num": 951873,
+      "word": "C罗的身体极限到底有多强",
+      "onboard_time": 1670241312,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 303619,
@@ -4721,6 +4769,14 @@
       "onboard_time": 1669968671,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 288396,
+      "num": 935787,
+      "word": "梅西说德国队出局让他很惊讶",
+      "onboard_time": 1670241071,
+      "rank": 39,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 287793,
@@ -5011,6 +5067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 270389,
+      "num": 931867,
+      "word": "奈雪的茶成乐乐茶第一大股东",
+      "onboard_time": 1670240831,
+      "rank": 40,
+      "category": "财经"
+    },
+    {
       "raw_hot": 269358,
       "num": 809820,
       "word": "广东一楼盘被质疑楼间距过近",
@@ -5041,6 +5105,14 @@
       "onboard_time": 1670025367,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 267205,
+      "num": 1104073,
+      "word": "艾尔海森",
+      "onboard_time": 1670239872,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 267110,
@@ -5337,6 +5409,14 @@
       "onboard_time": 1669875491,
       "rank": 39,
       "category": "科技"
+    },
+    {
+      "raw_hot": 235999,
+      "num": 908016,
+      "word": "曝C罗1月1日起为沙特球队效力",
+      "onboard_time": 1670242932,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 235802,
@@ -5881,6 +5961,14 @@
       "onboard_time": 1670124309,
       "rank": 24,
       "category": "教育"
+    },
+    {
+      "raw_hot": 202095,
+      "num": 893363,
+      "word": "重庆解答感染者一直不做核酸怎么办",
+      "onboard_time": 1670241911,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 201655,
@@ -6547,6 +6635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 172721,
+      "num": 880444,
+      "word": "上海对7天内无核酸检测记录的不再赋黄码",
+      "onboard_time": 1670243052,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 172654,
       "num": 581077,
       "word": "湖人vs雄鹿",
@@ -7019,6 +7115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 152130,
+      "num": 867347,
+      "word": "男孩上学时请求妈妈多拿床被子给同学",
+      "onboard_time": 1670240112,
+      "rank": 46,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 152025,
       "num": 152025,
       "word": "雪中的鸣沙山月牙泉",
@@ -7379,14 +7483,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 138827,
-      "num": 1104073,
-      "word": "艾尔海森",
-      "onboard_time": 1670239872,
-      "rank": 37,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 138765,
       "num": 539215,
       "word": "男子派出所办业务时帮密封门缝",
@@ -7691,6 +7787,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 127967,
+      "num": 1006229,
+      "word": "FUTNOVA对战XYG",
+      "onboard_time": 1670237771,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 127846,
+      "num": 823721,
+      "word": "女子做糍粑驾车来回碾压秒成型",
+      "onboard_time": 1670243232,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127607,
       "num": 127607,
       "word": "山东人有多爱面食",
@@ -7985,14 +8097,6 @@
       "onboard_time": 1670042231,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 119425,
-      "num": 1006229,
-      "word": "FUTNOVA对战XYG",
-      "onboard_time": 1670237771,
-      "rank": 44,
-      "category": "游戏"
     },
     {
       "raw_hot": 119344,
