@@ -1,6 +1,6 @@
 {
   "startTime": 1670343998708,
-  "endTime": 1670361401673,
+  "endTime": 1670362419226,
   "band_list": [
     {
       "raw_hot": 1189894,
@@ -72,6 +72,14 @@
       "word": "孙继海说C罗今晚回家",
       "onboard_time": 1670336829,
       "rank": 5,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 637285,
+      "num": 637285,
+      "word": "葡萄牙6比1瑞士",
+      "onboard_time": 1670360408,
+      "rank": 3,
       "category": "体育"
     },
     {
@@ -184,14 +192,6 @@
       "word": "葡萄牙vs瑞士",
       "onboard_time": 1670349129,
       "rank": 10,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 406615,
-      "num": 406615,
-      "word": "葡萄牙6比1瑞士",
-      "onboard_time": 1670360408,
-      "rank": 3,
       "category": "体育"
     },
     {
@@ -572,7 +572,7 @@
     },
     {
       "raw_hot": 85968,
-      "num": 53137,
+      "num": 56931,
       "word": "西班牙连续三届世界杯无缘8强",
       "onboard_time": 1670353210,
       "rank": 30,
