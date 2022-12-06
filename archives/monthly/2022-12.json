@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1670347029395,
+  "endTime": 1670348049816,
   "band_list": [
     {
       "raw_hot": 8354155,
@@ -3987,6 +3987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 457895,
+      "num": 457895,
+      "word": "摩洛哥足球 纯粹",
+      "onboard_time": 1670343370,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 457846,
       "num": 1253404,
       "word": "前三季度结婚人数创新低",
@@ -4232,14 +4240,6 @@
       "word": "超七成葡萄牙球迷反对C罗首发",
       "onboard_time": 1670252351,
       "rank": 24,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 425595,
-      "num": 425595,
-      "word": "摩洛哥足球 纯粹",
-      "onboard_time": 1670343370,
-      "rank": 46,
       "category": "体育"
     },
     {
@@ -5459,6 +5459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 321735,
+      "num": 321735,
+      "word": "猫咪不慎被踩尾巴开启咒骂模式",
+      "onboard_time": 1670344150,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 321112,
       "num": 321112,
       "word": "6岁男孩走路像小鸭子查出罕见病",
@@ -5561,14 +5569,6 @@
       "onboard_time": 1670231533,
       "rank": 42,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 312411,
-      "num": 312411,
-      "word": "猫咪不慎被踩尾巴开启咒骂模式",
-      "onboard_time": 1670344150,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 311783,
@@ -8971,6 +8971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 148793,
+      "num": 148793,
+      "word": "佩戴口罩能否超过8个小时",
+      "onboard_time": 1670344569,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 148728,
       "num": 592395,
       "word": "办理电话卡银行卡不得超出限制数量",
@@ -9025,14 +9033,6 @@
       "onboard_time": 1669908191,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 146215,
-      "num": 146215,
-      "word": "佩戴口罩能否超过8个小时",
-      "onboard_time": 1670344569,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 146151,
@@ -9479,6 +9479,14 @@
       "num": 616272,
       "word": "猛龙vs篮网",
       "onboard_time": 1670030348,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 134388,
+      "num": 134388,
+      "word": "西班牙教练表情",
+      "onboard_time": 1670346612,
       "rank": 39,
       "category": "体育"
     },
@@ -11648,14 +11656,6 @@
       "word": "美国进球",
       "onboard_time": 1670086453,
       "rank": 46,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 75070,
-      "num": 75070,
-      "word": "西班牙教练表情",
-      "onboard_time": 1670346612,
-      "rank": 39,
       "category": "体育"
     },
     {
