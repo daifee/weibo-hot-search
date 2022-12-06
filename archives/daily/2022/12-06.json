@@ -1,10 +1,26 @@
 {
   "startTime": 1670257630924,
-  "endTime": 1670283222712,
+  "endTime": 1670290491802,
   "band_list": [
     {
+      "raw_hot": 5420384,
+      "num": 1218122,
+      "word": "抗疫3年其实我们清零了很多次",
+      "onboard_time": 1670283609,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2342059,
+      "num": 2342059,
+      "word": "人民日报社论",
+      "onboard_time": 1670285468,
+      "rank": 0,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 2337592,
-      "num": 810290,
+      "num": 855651,
       "word": "韩国球迷用7比1嘲讽巴西",
       "onboard_time": 1670274787,
       "rank": 34,
@@ -20,7 +36,7 @@
     },
     {
       "raw_hot": 2028721,
-      "num": 794857,
+      "num": 855848,
       "word": "抗疫最困难的时期已经走过",
       "onboard_time": 1670251152,
       "rank": 4,
@@ -36,10 +52,18 @@
     },
     {
       "raw_hot": 1754517,
-      "num": 784783,
+      "num": 1104198,
       "word": "巴西vs韩国",
       "onboard_time": 1670263812,
       "rank": 11,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1695237,
+      "num": 1181116,
+      "word": "韩国队被打花了",
+      "onboard_time": 1670282947,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -49,6 +73,22 @@
       "onboard_time": 1670260510,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1107284,
+      "num": 1107284,
+      "word": "如果阳了怎么办",
+      "onboard_time": 1670286970,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1073025,
+      "num": 211848,
+      "word": "停服",
+      "onboard_time": 1670287389,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 944072,
@@ -75,6 +115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 852324,
+      "num": 852324,
+      "word": "女子送狗给老人1月后发现骨瘦如柴",
+      "onboard_time": 1670284387,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 849745,
       "num": 296476,
       "word": "日本克罗地亚 加时赛",
@@ -89,6 +137,14 @@
       "onboard_time": 1670259430,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 682835,
+      "num": 1104301,
+      "word": "北京各类公共场所不再查验核酸",
+      "onboard_time": 1670290269,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 680880,
@@ -123,6 +179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 639272,
+      "num": 639272,
+      "word": "江苏疫情防控",
+      "onboard_time": 1670284665,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 638240,
       "num": 637575,
       "word": "点球大战",
@@ -147,6 +211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 600494,
+      "num": 878293,
+      "word": "零下40°C内蒙古神奇不冻河流水潺潺",
+      "onboard_time": 1670284327,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 551852,
       "num": 735218,
       "word": "巴西半场4比0韩国",
@@ -163,6 +235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 524519,
+      "num": 524519,
+      "word": "北京增414例社会面",
+      "onboard_time": 1670287688,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 460300,
       "num": 703386,
       "word": "感染新冠怎么办",
@@ -176,6 +256,14 @@
       "word": "内马尔点球破门",
       "onboard_time": 1670268428,
       "rank": 6,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 443755,
+      "num": 386567,
+      "word": "耐克正式与欧文解约",
+      "onboard_time": 1670288169,
+      "rank": 17,
       "category": "体育"
     },
     {
@@ -195,6 +283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 424671,
+      "num": 424671,
+      "word": "25岁女生逗奶奶相亲认识84岁老头",
+      "onboard_time": 1670284626,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 424309,
       "num": 736783,
       "word": "90后公务员入职搬600斤自行车emo了",
@@ -208,6 +304,14 @@
       "word": "丈夫出轨生子妻子离婚获赔15万",
       "onboard_time": 1670246292,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 389774,
+      "num": 389774,
+      "word": "有必要囤药吗",
+      "onboard_time": 1670286850,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -235,11 +339,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 293831,
+      "num": 293831,
+      "word": "饭店每日免费送熬汤剩骨给养犬顾客",
+      "onboard_time": 1670288674,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 293458,
       "num": 759431,
       "word": "重庆解答感染者一直不做核酸怎么办",
       "onboard_time": 1670241911,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 280494,
+      "num": 280494,
+      "word": "熊猫能承受零下10℃到20℃的气温",
+      "onboard_time": 1670285709,
+      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -257,6 +377,22 @@
       "onboard_time": 1670255592,
       "rank": 25,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 274564,
+      "num": 274564,
+      "word": "马斯克称自己被枪杀可能性很大",
+      "onboard_time": 1670284665,
+      "rank": 24,
+      "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 267277,
+      "num": 267277,
+      "word": "医生一年两次出手救同一陌生人",
+      "onboard_time": 1670287113,
+      "rank": 25,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 256775,
@@ -283,6 +419,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 245099,
+      "num": 566156,
+      "word": "巴西队降维打击",
+      "onboard_time": 1670282587,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 244848,
       "num": 611401,
       "word": "奥密克戎导致肺炎或重症比例比流感低",
@@ -297,6 +441,14 @@
       "onboard_time": 1670237352,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 237536,
+      "num": 679214,
+      "word": "川大研发重组新冠蛋白疫苗获批",
+      "onboard_time": 1670281747,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 235215,
@@ -315,6 +467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 226375,
+      "num": 226375,
+      "word": "苹果考虑在印度生产部分iPad",
+      "onboard_time": 1670287331,
+      "rank": 29,
+      "category": "科技"
+    },
+    {
       "raw_hot": 212768,
       "num": 536327,
       "word": "日本半场1比0克罗地亚",
@@ -323,12 +483,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 212585,
+      "num": 556592,
+      "word": "女子编理由借同事朋友70万买奢侈品",
+      "onboard_time": 1670249713,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 201651,
       "num": 449199,
       "word": "克罗地亚进球",
       "onboard_time": 1670257510,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 200782,
+      "num": 683371,
+      "word": "女子做糍粑驾车来回碾压秒成型",
+      "onboard_time": 1670243232,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 198293,
@@ -371,20 +547,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 177908,
-      "num": 683371,
-      "word": "女子做糍粑驾车来回碾压秒成型",
-      "onboard_time": 1670243232,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 176759,
-      "num": 679214,
-      "word": "川大研发重组新冠蛋白疫苗获批",
-      "onboard_time": 1670281747,
-      "rank": 40,
-      "category": "社会新闻"
+      "raw_hot": 180928,
+      "num": 180928,
+      "word": "董路说中国足球学不了日本",
+      "onboard_time": 1670286669,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 166945,
@@ -409,6 +577,14 @@
       "onboard_time": 1670247673,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 164937,
+      "num": 142675,
+      "word": "巴西为什么被称为足球王国",
+      "onboard_time": 1670289729,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 161216,
@@ -451,14 +627,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 154154,
-      "num": 556592,
-      "word": "女子编理由借同事朋友70万买奢侈品",
-      "onboard_time": 1670249713,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 151265,
       "num": 492777,
       "word": "金铲铲",
@@ -491,6 +659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 143064,
+      "num": 606641,
+      "word": "苹果又两名高管离职",
+      "onboard_time": 1670281447,
+      "rank": 37,
+      "category": "科技"
+    },
+    {
       "raw_hot": 143028,
       "num": 471683,
       "word": "女儿23点起床哭着要妈妈煮螺蛳粉",
@@ -499,12 +675,36 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 142689,
+      "num": 502357,
+      "word": "湖南发布新冠肺炎中医药防治方案",
+      "onboard_time": 1670282166,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 139172,
       "num": 466204,
       "word": "佩里西奇头球破门",
       "onboard_time": 1670257332,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 138479,
+      "num": 138479,
+      "word": "解封后家庭该常备哪些药物",
+      "onboard_time": 1670290089,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 131727,
+      "num": 517783,
+      "word": "深圳首批吸入式新冠疫苗开打",
+      "onboard_time": 1670282166,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 131496,
@@ -523,12 +723,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 127263,
-      "num": 606641,
-      "word": "苹果又两名高管离职",
-      "onboard_time": 1670281447,
-      "rank": 37,
-      "category": "科技"
+      "raw_hot": 126371,
+      "num": 126371,
+      "word": "专家表示可适当备药",
+      "onboard_time": 1670289070,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 121236,
@@ -580,7 +780,7 @@
     },
     {
       "raw_hot": 100818,
-      "num": 815112,
+      "num": 1317366,
       "word": "全国多地优化疫情防控措施",
       "onboard_time": 1670198648,
       "rank": 2,
@@ -593,14 +793,6 @@
       "onboard_time": 1670249293,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 97243,
-      "num": 566156,
-      "word": "巴西队降维打击",
-      "onboard_time": 1670282587,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 95556,
@@ -633,14 +825,6 @@
       "onboard_time": 1670241616,
       "rank": 48,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 74824,
-      "num": 523218,
-      "word": "韩国队被打花了",
-      "onboard_time": 1670282947,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 67495,
@@ -681,22 +865,6 @@
       "onboard_time": 1670256970,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 33863,
-      "num": 517783,
-      "word": "深圳首批吸入式新冠疫苗开打",
-      "onboard_time": 1670282166,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 30120,
-      "num": 502357,
-      "word": "湖南发布新冠肺炎中医药防治方案",
-      "onboard_time": 1670282166,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 9720,
