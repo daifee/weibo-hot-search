@@ -1,6 +1,6 @@
 {
   "startTime": 1670343998708,
-  "endTime": 1670345155573,
+  "endTime": 1670347029395,
   "band_list": [
     {
       "raw_hot": 1066170,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 891825,
-      "num": 444494,
+      "num": 559166,
       "word": "加维犯规",
       "onboard_time": 1670341150,
       "rank": 4,
@@ -48,6 +48,22 @@
       "word": "摩洛哥半场0比0西班牙",
       "onboard_time": 1670342170,
       "rank": 6,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 606723,
+      "num": 606723,
+      "word": "连花清瘟线上线下差价50元",
+      "onboard_time": 1670342111,
+      "rank": 21,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 540002,
+      "num": 540002,
+      "word": "摩洛哥西班牙 加时赛",
+      "onboard_time": 1670346728,
+      "rank": 4,
       "category": "体育"
     },
     {
@@ -83,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 425595,
+      "num": 425595,
+      "word": "摩洛哥足球 纯粹",
+      "onboard_time": 1670343370,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 417523,
       "num": 417523,
       "word": "姆巴佩梅西C罗250球所用场次对比",
@@ -107,12 +131,12 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 350528,
-      "num": 311231,
-      "word": "连花清瘟线上线下差价50元",
-      "onboard_time": 1670342111,
-      "rank": 21,
-      "category": "社会新闻,财经"
+      "raw_hot": 338155,
+      "num": 338155,
+      "word": "西班牙传控",
+      "onboard_time": 1670344328,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 314555,
@@ -128,6 +152,14 @@
       "word": "6男子吃鸡时打架留下2人只愿AA",
       "onboard_time": 1670335571,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 312411,
+      "num": 312411,
+      "word": "猫咪不慎被踩尾巴开启咒骂模式",
+      "onboard_time": 1670344150,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -168,22 +200,6 @@
       "word": "广州16万感染者仅4例重症",
       "onboard_time": 1670319249,
       "rank": 20,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 254263,
-      "num": 254263,
-      "word": "摩洛哥足球 纯粹",
-      "onboard_time": 1670343370,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 236153,
-      "num": 236153,
-      "word": "猫咪不慎被踩尾巴开启咒骂模式",
-      "onboard_time": 1670344150,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -228,7 +244,7 @@
     },
     {
       "raw_hot": 184915,
-      "num": 463454,
+      "num": 582282,
       "word": "药师详解奥密克戎轻症处理妙招",
       "onboard_time": 1670333291,
       "rank": 2,
@@ -243,8 +259,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 158659,
-      "num": 139528,
+      "raw_hot": 163733,
+      "num": 163733,
       "word": "高校跳舞考试动作没感情全是技巧",
       "onboard_time": 1670343550,
       "rank": 32,
@@ -259,20 +275,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 152123,
+      "num": 152123,
+      "word": "莫拉塔",
+      "onboard_time": 1670345769,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 146215,
+      "num": 146215,
+      "word": "佩戴口罩能否超过8个小时",
+      "onboard_time": 1670344569,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144554,
       "num": 144554,
       "word": "北京每日投放连花清瘟40万盒",
       "onboard_time": 1670336652,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 142571,
-      "num": 142571,
-      "word": "西班牙传控",
-      "onboard_time": 1670344328,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 140748,
@@ -403,16 +427,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 97672,
-      "num": 97672,
-      "word": "佩戴口罩能否超过8个小时",
-      "onboard_time": 1670344569,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 89791,
-      "num": 89791,
+      "raw_hot": 97360,
+      "num": 97360,
       "word": "久违了欢迎回家过年",
       "onboard_time": 1670343909,
       "rank": 48,
@@ -427,6 +443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 87903,
+      "num": 87903,
+      "word": "外婆嫌灯开太多拍手碎碎念",
+      "onboard_time": 1670343790,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 83425,
       "num": 83425,
       "word": "新冠抗原自测标准做法",
@@ -435,12 +459,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 75165,
-      "num": 75165,
-      "word": "外婆嫌灯开太多拍手碎碎念",
-      "onboard_time": 1670343790,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 75070,
+      "num": 75070,
+      "word": "西班牙教练表情",
+      "onboard_time": 1670346612,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 63522,
+      "num": 63522,
+      "word": "布努神扑",
+      "onboard_time": 1670346248,
+      "rank": 48,
+      "category": "体育"
     }
   ],
   "hotgov_list": [

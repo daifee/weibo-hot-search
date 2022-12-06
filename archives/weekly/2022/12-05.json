@@ -1,6 +1,6 @@
 {
   "startTime": 1670171104099,
-  "endTime": 1670345155573,
+  "endTime": 1670347029395,
   "band_list": [
     {
       "raw_hot": 8354155,
@@ -604,7 +604,7 @@
     },
     {
       "raw_hot": 891825,
-      "num": 444494,
+      "num": 559166,
       "word": "加维犯规",
       "onboard_time": 1670341150,
       "rank": 4,
@@ -1035,6 +1035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 606723,
+      "num": 606723,
+      "word": "连花清瘟线上线下差价50元",
+      "onboard_time": 1670342111,
+      "rank": 21,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 606271,
       "num": 1417815,
       "word": "上海对7天内无核酸检测记录的不再赋黄码",
@@ -1184,6 +1192,14 @@
       "word": "卡塔尔或将申办2036年奥运会",
       "onboard_time": 1670226491,
       "rank": 20,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 540002,
+      "num": 540002,
+      "word": "摩洛哥西班牙 加时赛",
+      "onboard_time": 1670346728,
+      "rank": 4,
       "category": "体育"
     },
     {
@@ -1483,6 +1499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 425595,
+      "num": 425595,
+      "word": "摩洛哥足球 纯粹",
+      "onboard_time": 1670343370,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 424671,
       "num": 424671,
       "word": "25岁女生逗奶奶相亲认识84岁老头",
@@ -1731,20 +1755,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 350528,
-      "num": 311231,
-      "word": "连花清瘟线上线下差价50元",
-      "onboard_time": 1670342111,
-      "rank": 21,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 338471,
       "num": 2046529,
       "word": "男子泼水成冰失败热水浇头还滑倒",
       "onboard_time": 1670230815,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 338155,
+      "num": 338155,
+      "word": "西班牙传控",
+      "onboard_time": 1670344328,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 337658,
@@ -1897,6 +1921,14 @@
       "onboard_time": 1670231533,
       "rank": 42,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 312411,
+      "num": 312411,
+      "word": "猫咪不慎被踩尾巴开启咒骂模式",
+      "onboard_time": 1670344150,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 311783,
@@ -2291,14 +2323,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 254263,
-      "num": 254263,
-      "word": "摩洛哥足球 纯粹",
-      "onboard_time": 1670343370,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 250378,
       "num": 250378,
       "word": "北京每日投放连花清瘟40万盒",
@@ -2392,14 +2416,6 @@
       "word": "奥密克戎致病力如何",
       "onboard_time": 1670302450,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 236153,
-      "num": 236153,
-      "word": "猫咪不慎被踩尾巴开启咒骂模式",
-      "onboard_time": 1670344150,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -3091,6 +3107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 163733,
+      "num": 163733,
+      "word": "高校跳舞考试动作没感情全是技巧",
+      "onboard_time": 1670343550,
+      "rank": 32,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 163711,
       "num": 163711,
       "word": "宿舍关系有时也需要打直球",
@@ -3153,14 +3177,6 @@
       "onboard_time": 1670289070,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 158659,
-      "num": 139528,
-      "word": "高校跳舞考试动作没感情全是技巧",
-      "onboard_time": 1670343550,
-      "rank": 32,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 158100,
@@ -3227,6 +3243,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 152123,
+      "num": 152123,
+      "word": "莫拉塔",
+      "onboard_time": 1670345769,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 151265,
       "num": 546480,
       "word": "金铲铲",
@@ -3265,6 +3289,14 @@
       "onboard_time": 1670304369,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 146215,
+      "num": 146215,
+      "word": "佩戴口罩能否超过8个小时",
+      "onboard_time": 1670344569,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 146151,
@@ -3329,14 +3361,6 @@
       "onboard_time": 1670323390,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 142571,
-      "num": 142571,
-      "word": "西班牙传控",
-      "onboard_time": 1670344328,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 142084,
@@ -3995,11 +4019,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 97672,
-      "num": 97672,
-      "word": "佩戴口罩能否超过8个小时",
-      "onboard_time": 1670344569,
-      "rank": 41,
+      "raw_hot": 97360,
+      "num": 97360,
+      "word": "久违了欢迎回家过年",
+      "onboard_time": 1670343909,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -4091,19 +4115,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 89791,
-      "num": 89791,
-      "word": "久违了欢迎回家过年",
-      "onboard_time": 1670343909,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 88683,
       "num": 88683,
       "word": "多地试水职业农民评职称",
       "onboard_time": 1670210289,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 87903,
+      "num": 87903,
+      "word": "外婆嫌灯开太多拍手碎碎念",
+      "onboard_time": 1670343790,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -4187,12 +4211,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 75165,
-      "num": 75165,
-      "word": "外婆嫌灯开太多拍手碎碎念",
-      "onboard_time": 1670343790,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 75070,
+      "num": 75070,
+      "word": "西班牙教练表情",
+      "onboard_time": 1670346612,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 70999,
@@ -4255,6 +4279,14 @@
       "num": 65790,
       "word": "姆巴佩状态",
       "onboard_time": 1670174171,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 63522,
+      "num": 63522,
+      "word": "布努神扑",
+      "onboard_time": 1670346248,
       "rank": 48,
       "category": "体育"
     },
