@@ -1,0 +1,402 @@
+{
+  "runTime": 1670339982796,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 230722,
+        "num": 750989,
+        "word": "全国下半旗志哀",
+        "onboard_time": 1670322430,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 922894,
+        "num": 747392,
+        "word": "奥密克戎毒力接近季节性流感",
+        "onboard_time": 1670312711,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237484,
+        "num": 728920,
+        "word": "药师详解奥密克戎轻症处理妙招",
+        "onboard_time": 1670333291,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1076253,
+        "num": 723581,
+        "word": "孙继海说C罗今晚回家",
+        "onboard_time": 1670336829,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1020262,
+        "num": 715135,
+        "word": "以岭药业新专利可制作含连花清瘟口罩",
+        "onboard_time": 1670331012,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 806417,
+        "num": 702176,
+        "word": "摩洛哥vs西班牙",
+        "onboard_time": 1670338390,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 695082,
+        "num": 695082,
+        "word": "连花清瘟胶囊涨价超3倍",
+        "onboard_time": 1670330110,
+        "rank": 6,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 524721,
+        "num": 693291,
+        "word": "广州疫情政策调整后就诊人数并无大幅增加",
+        "onboard_time": 1670332030,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 428085,
+        "num": 691085,
+        "word": "广州16万感染者仅4例重症",
+        "onboard_time": 1670319249,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316323,
+        "num": 687401,
+        "word": "超八成巴西球员月收入低于1350元",
+        "onboard_time": 1670323629,
+        "rank": 9,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 961495,
+        "num": 685283,
+        "word": "女子减重340斤皮肤下垂如围裙",
+        "onboard_time": 1670326089,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 683729,
+        "num": 683729,
+        "word": "女子隔离7天2只猫独自在家拆家",
+        "onboard_time": 1670334131,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 619697,
+        "num": 619697,
+        "word": "3中国人在尼泊尔打斗致1死1伤",
+        "onboard_time": 1670333651,
+        "rank": 12,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 590642,
+        "num": 590642,
+        "word": "6男子吃鸡时打架留下2人只愿AA",
+        "onboard_time": 1670335571,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 485340,
+        "num": 485340,
+        "word": "20岁女生有1个妹妹再喜提双胞胎弟弟",
+        "onboard_time": 1670321230,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 467639,
+        "num": 467639,
+        "word": "蒙古国示威者试图冲击国家宫",
+        "onboard_time": 1670334429,
+        "rank": 15,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 351105,
+        "num": 351105,
+        "word": "小胖闯非洲",
+        "onboard_time": 1670329990,
+        "rank": 16,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 302516,
+        "num": 302516,
+        "word": "警方通报女子遭泼墨捆绑殴打",
+        "onboard_time": 1670337371,
+        "rank": 17,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 285674,
+        "num": 285674,
+        "word": "大四男生晒一家三口幸福视频",
+        "onboard_time": 1670337789,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281525,
+        "num": 281525,
+        "word": "阳性病例现在主要是上呼吸道症状",
+        "onboard_time": 1670317030,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279262,
+        "num": 279262,
+        "word": "儿童新冠发病7日图",
+        "onboard_time": 1670333889,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242670,
+        "num": 242670,
+        "word": "北京每日投放连花清瘟40万盒",
+        "onboard_time": 1670336652,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230850,
+        "num": 230850,
+        "word": "山东人都是饺子籍",
+        "onboard_time": 1670330529,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219547,
+        "num": 219547,
+        "word": "西班牙葡萄牙能否会师",
+        "onboard_time": 1670335215,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211556,
+        "num": 211556,
+        "word": "浙江将组织1万家企业出国参加经贸活动",
+        "onboard_time": 1670327949,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203237,
+        "num": 203237,
+        "word": "巴西是唯一每届世界杯都参加的国家",
+        "onboard_time": 1670318110,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185464,
+        "num": 185464,
+        "word": "C罗仍希望加盟欧冠球队",
+        "onboard_time": 1670322310,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185134,
+        "num": 185134,
+        "word": "新冠抗原自测标准做法",
+        "onboard_time": 1670336829,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179662,
+        "num": 179662,
+        "word": "医生录给自己做胃镜视频缓解患者恐惧",
+        "onboard_time": 1670332631,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177849,
+        "num": 177849,
+        "word": "顾客称点海底捞外卖玉米疑发霉",
+        "onboard_time": 1670334672,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173450,
+        "num": 173450,
+        "word": "男子回应大三已完成结婚生子",
+        "onboard_time": 1670318589,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159620,
+        "num": 159620,
+        "word": "北京增本土感染者1431例",
+        "onboard_time": 1670332269,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159228,
+        "num": 159228,
+        "word": "双十二到了双十一快递还没收到货",
+        "onboard_time": 1670321110,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 153876,
+        "num": 153876,
+        "word": "广州明确核酸频次不与健康码颜色关联",
+        "onboard_time": 1670331910,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152599,
+        "num": 152599,
+        "word": "特斯拉市值一夜蒸发2729亿元",
+        "onboard_time": 1670321830,
+        "rank": 34,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 141804,
+        "num": 141804,
+        "word": "庐山和雪有多配",
+        "onboard_time": 1670338629,
+        "rank": 35,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 140526,
+        "num": 140526,
+        "word": "政治老师为抢课将历史老师反锁门外",
+        "onboard_time": 1670319011,
+        "rank": 36,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 133705,
+        "num": 133705,
+        "word": "潘懋元逝世",
+        "onboard_time": 1670311812,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130325,
+        "num": 130325,
+        "word": "小太阳取暖忘断电7分钟烧整间屋",
+        "onboard_time": 1670312110,
+        "rank": 38,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 121063,
+        "num": 121063,
+        "word": "妈妈担心狗感冒给狗盖棉被烤小太阳",
+        "onboard_time": 1670318530,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118441,
+        "num": 118441,
+        "word": "姆巴佩梅西C罗250球所用场次对比",
+        "onboard_time": 1670339411,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116662,
+        "num": 116662,
+        "word": "女子买棉签用彩笔计数发现少50支",
+        "onboard_time": 1670327051,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107661,
+        "num": 107661,
+        "word": "全国多地宣布非必要不再查核酸",
+        "onboard_time": 1670326572,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103828,
+        "num": 103828,
+        "word": "近视可能引起的4种继发病",
+        "onboard_time": 1670322370,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102968,
+        "num": 102968,
+        "word": "骗子用足球游戏画面冒充世界杯直播",
+        "onboard_time": 1670322370,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100540,
+        "num": 100540,
+        "word": "程序员为泄愤离职后锁公司硬盘",
+        "onboard_time": 1670312411,
+        "rank": 45,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 83942,
+        "num": 83942,
+        "word": "男生受伤深夜静音式在宿舍消毒",
+        "onboard_time": 1670339710,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82793,
+        "num": 82793,
+        "word": "美40家军企占全球百强军企过半销售额",
+        "onboard_time": 1670339891,
+        "rank": 47,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 78134,
+        "num": 78134,
+        "word": "妻子包饺子赚钱照顾车祸昏迷丈夫",
+        "onboard_time": 1670339830,
+        "rank": 48,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#江泽民同志把毕生心血献给中国人民#"
+    }
+  }
+}
