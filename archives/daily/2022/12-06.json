@@ -1,6 +1,6 @@
 {
   "startTime": 1670257630924,
-  "endTime": 1670315062385,
+  "endTime": 1670315887504,
   "band_list": [
     {
       "raw_hot": 8354155,
@@ -41,6 +41,14 @@
       "onboard_time": 1670292764,
       "rank": 3,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 2532827,
+      "num": 383846,
+      "word": "潘懋元逝世",
+      "onboard_time": 1670311812,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2464630,
@@ -107,14 +115,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 1933878,
-      "num": 383846,
-      "word": "潘懋元逝世",
-      "onboard_time": 1670311812,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1754517,
       "num": 1104198,
       "word": "巴西vs韩国",
@@ -137,6 +137,14 @@
       "onboard_time": 1670282947,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1574299,
+      "num": 382762,
+      "word": "奥密克戎毒力接近季节性流感",
+      "onboard_time": 1670312711,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1539888,
@@ -203,20 +211,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 1000959,
-      "num": 382762,
-      "word": "奥密克戎毒力接近季节性流感",
-      "onboard_time": 1670312711,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 944072,
       "num": 627799,
       "word": "王者荣耀",
       "onboard_time": 1670251933,
       "rank": 10,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 938663,
+      "num": 371274,
+      "word": "程序员为泄愤离职后锁公司硬盘",
+      "onboard_time": 1670312411,
+      "rank": 12,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 932918,
@@ -281,14 +289,6 @@
       "onboard_time": 1670292670,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 809985,
-      "num": 371274,
-      "word": "程序员为泄愤离职后锁公司硬盘",
-      "onboard_time": 1670312411,
-      "rank": 12,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 796918,
@@ -395,6 +395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 612469,
+      "num": 377051,
+      "word": "小太阳取暖忘断电7分钟烧整间屋",
+      "onboard_time": 1670312110,
+      "rank": 8,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 600494,
       "num": 878293,
       "word": "零下40°C内蒙古神奇不冻河流水潺潺",
@@ -443,6 +451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 547139,
+      "num": 377760,
+      "word": "三亚机票酒店预订暴涨3倍",
+      "onboard_time": 1670311509,
+      "rank": 33,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 545433,
       "num": 775363,
       "word": "克罗地亚门将神了",
@@ -465,14 +481,6 @@
       "onboard_time": 1670287688,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 493785,
-      "num": 377760,
-      "word": "三亚机票酒店预订暴涨3倍",
-      "onboard_time": 1670311509,
-      "rank": 33,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 467265,
@@ -521,14 +529,6 @@
       "onboard_time": 1670292882,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 440035,
-      "num": 377051,
-      "word": "小太阳取暖忘断电7分钟烧整间屋",
-      "onboard_time": 1670312110,
-      "rank": 8,
-      "category": "社会负面"
     },
     {
       "raw_hot": 433603,
@@ -603,7 +603,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 414578,
+      "raw_hot": 415542,
       "num": 376122,
       "word": "网友吐槽买瓶饮料都要下载APP",
       "onboard_time": 1670310190,
@@ -700,7 +700,7 @@
     },
     {
       "raw_hot": 294438,
-      "num": 294438,
+      "num": 316254,
       "word": "杭州入杭报备暂停登记",
       "onboard_time": 1670311211,
       "rank": 30,
@@ -779,6 +779,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 261083,
+      "num": 261083,
+      "word": "抗原检测试剂市场规模将达6000亿",
+      "onboard_time": 1670312350,
+      "rank": 25,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 256775,
       "num": 695090,
       "word": "妈妈假装逃单5岁儿子坚持让付钱",
@@ -809,6 +817,14 @@
       "onboard_time": 1670242932,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 247086,
+      "num": 247086,
+      "word": "个税扣除新增3岁以下婴幼儿照护项目",
+      "onboard_time": 1670309891,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 245443,
@@ -843,14 +859,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 238900,
-      "num": 238900,
-      "word": "个税扣除新增3岁以下婴幼儿照护项目",
-      "onboard_time": 1670309891,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 237854,
       "num": 208825,
       "word": "联合国秘书长吊唁江泽民",
@@ -883,12 +891,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 224621,
-      "num": 224621,
-      "word": "抗原检测试剂市场规模将达6000亿",
-      "onboard_time": 1670312350,
-      "rank": 25,
-      "category": "社会新闻,财经"
+      "raw_hot": 226036,
+      "num": 226036,
+      "word": "西班牙会被摩洛哥爆冷吗",
+      "onboard_time": 1670307669,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 219574,
@@ -915,12 +923,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 211660,
-      "num": 211660,
-      "word": "西班牙会被摩洛哥爆冷吗",
-      "onboard_time": 1670307669,
-      "rank": 48,
-      "category": "体育"
+      "raw_hot": 210738,
+      "num": 145752,
+      "word": "是连花清瘟不是莲花清温",
+      "onboard_time": 1670315290,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 208101,
@@ -1067,6 +1075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 161048,
+      "num": 150160,
+      "word": "海南多地放宽入琼限制",
+      "onboard_time": 1670314811,
+      "rank": 30,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 160447,
       "num": 584469,
       "word": "上海对7天内无核酸检测记录的不再赋黄码",
@@ -1121,14 +1137,6 @@
       "onboard_time": 1670254092,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 150160,
-      "num": 150160,
-      "word": "海南多地放宽入琼限制",
-      "onboard_time": 1670314811,
-      "rank": 30,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 147464,
@@ -1211,6 +1219,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 133658,
+      "num": 133658,
+      "word": "老板用面条换白菜间接请卖菜大叔吃饭",
+      "onboard_time": 1670313189,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 131727,
       "num": 517783,
       "word": "深圳首批吸入式新冠疫苗开打",
@@ -1267,14 +1283,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 124507,
-      "num": 124507,
-      "word": "老板用面条换白菜间接请卖菜大叔吃饭",
-      "onboard_time": 1670313189,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 121236,
       "num": 451078,
       "word": "女孩穿凉鞋同学爸爸量尺寸给买棉鞋",
@@ -1288,6 +1296,14 @@
       "word": "恩师希望梅西拿到世界杯后就退役",
       "onboard_time": 1670308813,
       "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 119876,
+      "num": 119876,
+      "word": "C罗今晚能取得进球吗",
+      "onboard_time": 1670314750,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -1312,6 +1328,14 @@
       "word": "美丽的桑巴足球",
       "onboard_time": 1670274787,
       "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 113033,
+      "num": 113033,
+      "word": "巴西队四位传奇看台同框",
+      "onboard_time": 1670314510,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -1363,12 +1387,44 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 97401,
+      "num": 97401,
+      "word": "姚金成所持RNG数百万股权被冻结",
+      "onboard_time": 1670315412,
+      "rank": 42,
+      "category": "游戏,社会新闻"
+    },
+    {
       "raw_hot": 95556,
       "num": 503247,
       "word": "原来这就是梅西的守护神",
       "onboard_time": 1670246051,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 95493,
+      "num": 95493,
+      "word": "朱鹮为什么叫东方宝石",
+      "onboard_time": 1670314332,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 92263,
+      "num": 92263,
+      "word": "湖北林场白雪皑皑云雾缭绕",
+      "onboard_time": 1670315710,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 91311,
+      "num": 91311,
+      "word": "老奶奶亲手缝制50多双鞋垫送消防员",
+      "onboard_time": 1670314691,
+      "rank": 46,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 89489,
@@ -1379,18 +1435,18 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 88390,
-      "num": 88390,
-      "word": "C罗今晚能取得进球吗",
-      "onboard_time": 1670314750,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 88119,
       "num": 409876,
       "word": "赵子豪",
       "onboard_time": 1670246713,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 87891,
+      "num": 87891,
+      "word": "巴西足球完美又纯粹",
+      "onboard_time": 1670315830,
       "rank": 49,
       "category": "体育"
     },
@@ -1403,28 +1459,12 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 86570,
-      "num": 86570,
-      "word": "朱鹮为什么叫东方宝石",
-      "onboard_time": 1670314332,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 85659,
       "num": 85659,
       "word": "警方回应男子爬行拦车哭着说不活了",
       "onboard_time": 1670310730,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 84050,
-      "num": 84050,
-      "word": "老奶奶亲手缝制50多双鞋垫送消防员",
-      "onboard_time": 1670314691,
-      "rank": 46,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 82677,
@@ -1465,14 +1505,6 @@
       "onboard_time": 1670241616,
       "rank": 48,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 75927,
-      "num": 75927,
-      "word": "巴西队四位传奇看台同框",
-      "onboard_time": 1670314510,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 70999,
