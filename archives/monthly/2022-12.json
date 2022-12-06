@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1670354107579,
+  "endTime": 1670355202551,
   "band_list": [
     {
       "raw_hot": 8354155,
@@ -1547,6 +1547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 947533,
+      "num": 947533,
+      "word": "C罗对阵瑞士无缘首发",
+      "onboard_time": 1670350690,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 946278,
       "num": 1281963,
       "word": "郑州为什么是河南省会",
@@ -1601,14 +1609,6 @@
       "onboard_time": 1670301730,
       "rank": 11,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 931615,
-      "num": 931615,
-      "word": "C罗对阵瑞士无缘首发",
-      "onboard_time": 1670350690,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 929762,
@@ -11979,6 +11979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 51261,
+      "num": 36274,
+      "word": "西班牙队本场状态",
+      "onboard_time": 1670353507,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 50755,
       "num": 224762,
       "word": "莫拉塔破门",
@@ -12059,14 +12067,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 33022,
-      "num": 33022,
-      "word": "西班牙队本场状态",
-      "onboard_time": 1670353507,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 32360,
       "num": 1405483,
       "word": "源力使者 聚光向前",
@@ -12128,6 +12128,14 @@
       "word": "格纳布里头球破门",
       "onboard_time": 1669925226,
       "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 26729,
+      "num": 26729,
+      "word": "加维反差萌",
+      "onboard_time": 1670354768,
+      "rank": 39,
       "category": "体育"
     },
     {

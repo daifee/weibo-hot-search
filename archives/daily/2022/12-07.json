@@ -1,6 +1,6 @@
 {
   "startTime": 1670343998708,
-  "endTime": 1670354107579,
+  "endTime": 1670355202551,
   "band_list": [
     {
       "raw_hot": 1189894,
@@ -35,8 +35,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 931615,
-      "num": 931615,
+      "raw_hot": 947533,
+      "num": 947533,
       "word": "C罗对阵瑞士无缘首发",
       "onboard_time": 1670350690,
       "rank": 30,
@@ -571,8 +571,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 33022,
-      "num": 33022,
+      "raw_hot": 51261,
+      "num": 36274,
       "word": "西班牙队本场状态",
       "onboard_time": 1670353507,
       "rank": 37,
@@ -584,6 +584,14 @@
       "word": "德容说没有方法能够阻止梅西",
       "onboard_time": 1670351649,
       "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 26729,
+      "num": 26729,
+      "word": "加维反差萌",
+      "onboard_time": 1670354768,
+      "rank": 39,
       "category": "体育"
     }
   ],
