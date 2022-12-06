@@ -1,6 +1,6 @@
 {
   "startTime": 1670343998708,
-  "endTime": 1670351027131,
+  "endTime": 1670351867199,
   "band_list": [
     {
       "raw_hot": 1189894,
@@ -91,6 +91,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 561616,
+      "num": 561616,
+      "word": "葡萄牙首发",
+      "onboard_time": 1670349129,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 540002,
       "num": 540002,
       "word": "摩洛哥西班牙 加时赛",
@@ -104,14 +112,6 @@
       "word": "摩洛哥点球战胜西班牙",
       "onboard_time": 1670349129,
       "rank": 6,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 508207,
-      "num": 508207,
-      "word": "葡萄牙首发",
-      "onboard_time": 1670349129,
-      "rank": 7,
       "category": "体育"
     },
     {
@@ -259,6 +259,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 267007,
+      "num": 267007,
+      "word": "C罗对阵瑞士无缘首发",
+      "onboard_time": 1670350690,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 266524,
       "num": 266524,
       "word": "广州16万感染者仅4例重症",
@@ -315,14 +323,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 173511,
-      "num": 80673,
-      "word": "C罗对阵瑞士无缘首发",
-      "onboard_time": 1670350690,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 164205,
       "num": 164205,
       "word": "阳性病例现在主要是上呼吸道症状",
@@ -371,6 +371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 145350,
+      "num": 145350,
+      "word": "勺子点球",
+      "onboard_time": 1670350568,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 144554,
       "num": 144554,
       "word": "北京每日投放连花清瘟40万盒",
@@ -385,14 +393,6 @@
       "onboard_time": 1670339710,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 135511,
-      "num": 135511,
-      "word": "勺子点球",
-      "onboard_time": 1670350568,
-      "rank": 20,
-      "category": "体育"
     },
     {
       "raw_hot": 134396,
@@ -547,6 +547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 68704,
+      "num": 68704,
+      "word": "曼联为葡萄牙队加油",
+      "onboard_time": 1670350268,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 63522,
       "num": 63522,
       "word": "布努神扑",
@@ -555,11 +563,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 46275,
-      "num": 46275,
-      "word": "曼联为葡萄牙队加油",
-      "onboard_time": 1670350268,
-      "rank": 43,
+      "raw_hot": 18883,
+      "num": 44608,
+      "word": "德容说没有方法能够阻止梅西",
+      "onboard_time": 1670351649,
+      "rank": 48,
       "category": "体育"
     }
   ],
