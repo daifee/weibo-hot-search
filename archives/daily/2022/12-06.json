@@ -1,6 +1,6 @@
 {
   "startTime": 1670257630924,
-  "endTime": 1670339982796,
+  "endTime": 1670340945656,
   "band_list": [
     {
       "raw_hot": 8354155,
@@ -243,7 +243,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1076253,
+      "raw_hot": 1113464,
       "num": 723581,
       "word": "孙继海说C罗今晚回家",
       "onboard_time": 1670336829,
@@ -281,6 +281,14 @@
       "onboard_time": 1670317030,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 953263,
+      "num": 702176,
+      "word": "摩洛哥vs西班牙",
+      "onboard_time": 1670338390,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 944072,
@@ -369,14 +377,6 @@
       "onboard_time": 1670292670,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 806417,
-      "num": 702176,
-      "word": "摩洛哥vs西班牙",
-      "onboard_time": 1670338390,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 797824,
@@ -843,6 +843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 366157,
+      "num": 366157,
+      "word": "大四男生晒一家三口幸福视频",
+      "onboard_time": 1670337789,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 361263,
       "num": 605700,
       "word": "莫德里奇",
@@ -889,6 +897,14 @@
       "onboard_time": 1670310070,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 330005,
+      "num": 330005,
+      "word": "警方通报女子遭泼墨捆绑殴打",
+      "onboard_time": 1670337371,
+      "rank": 17,
+      "category": "社会负面"
     },
     {
       "raw_hot": 324133,
@@ -963,14 +979,6 @@
       "category": "游戏,社会新闻"
     },
     {
-      "raw_hot": 302516,
-      "num": 302516,
-      "word": "警方通报女子遭泼墨捆绑殴打",
-      "onboard_time": 1670337371,
-      "rank": 17,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 295021,
       "num": 311280,
       "word": "饭店每日免费送熬汤剩骨给养犬顾客",
@@ -1011,14 +1019,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 285674,
-      "num": 285674,
-      "word": "大四男生晒一家三口幸福视频",
-      "onboard_time": 1670337789,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 280494,
       "num": 297410,
       "word": "熊猫能承受零下10℃到20℃的气温",
@@ -1036,7 +1036,7 @@
     },
     {
       "raw_hot": 279262,
-      "num": 279262,
+      "num": 587869,
       "word": "儿童新冠发病7日图",
       "onboard_time": 1670333889,
       "rank": 48,
@@ -1049,6 +1049,14 @@
       "onboard_time": 1670246532,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 277528,
+      "num": 277528,
+      "word": "西班牙球衣 好看",
+      "onboard_time": 1670340189,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 277043,
@@ -1115,12 +1123,28 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 262163,
+      "num": 262163,
+      "word": "姆巴佩梅西C罗250球所用场次对比",
+      "onboard_time": 1670339411,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 261232,
       "num": 261232,
       "word": "广州明确核酸频次不与健康码颜色关联",
       "onboard_time": 1670331910,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 260786,
+      "num": 260786,
+      "word": "加维 帅",
+      "onboard_time": 1670340310,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 257561,
@@ -1153,6 +1177,14 @@
       "onboard_time": 1670309590,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 250378,
+      "num": 250378,
+      "word": "北京每日投放连花清瘟40万盒",
+      "onboard_time": 1670336652,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 247227,
@@ -1201,14 +1233,6 @@
       "onboard_time": 1670237352,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 242670,
-      "num": 242670,
-      "word": "北京每日投放连花清瘟40万盒",
-      "onboard_time": 1670336652,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 242185,
@@ -1611,6 +1635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 153705,
+      "num": 153705,
+      "word": "庐山和雪有多配",
+      "onboard_time": 1670338629,
+      "rank": 35,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 151265,
       "num": 492777,
       "word": "金铲铲",
@@ -1699,12 +1731,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 141804,
-      "num": 141804,
-      "word": "庐山和雪有多配",
-      "onboard_time": 1670338629,
-      "rank": 35,
-      "category": "旅游,社会新闻"
+      "raw_hot": 142084,
+      "num": 142084,
+      "word": "男生受伤深夜静音式在宿舍消毒",
+      "onboard_time": 1670339710,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 140511,
@@ -1843,20 +1875,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 118441,
-      "num": 118441,
-      "word": "姆巴佩梅西C罗250球所用场次对比",
-      "onboard_time": 1670339411,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 114739,
       "num": 441073,
       "word": "梅西说德国队出局让他很惊讶",
       "onboard_time": 1670241071,
       "rank": 43,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 114455,
+      "num": 114455,
+      "word": "谁来帮加维系鞋带",
+      "onboard_time": 1670340671,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 113953,
@@ -1905,6 +1937,14 @@
       "onboard_time": 1670324349,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 108674,
+      "num": 108674,
+      "word": "4岁女孩误吞61颗磁力珠致肠穿孔",
+      "onboard_time": 1670340611,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 108514,
@@ -2056,14 +2096,6 @@
       "word": "警方回应男子爬行拦车哭着说不活了",
       "onboard_time": 1670310730,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 83942,
-      "num": 83942,
-      "word": "男生受伤深夜静音式在宿舍消毒",
-      "onboard_time": 1670339710,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
