@@ -1,0 +1,410 @@
+{
+  "runTime": 1670369676352,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2120220,
+        "num": 2120220,
+        "word": "葡萄牙6比1瑞士",
+        "onboard_time": 1670360408,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1467112,
+        "num": 1467112,
+        "word": "摩洛哥3比0西班牙",
+        "onboard_time": 1670350449,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158858,
+        "num": 936879,
+        "word": "药师详解奥密克戎轻症处理妙招",
+        "onboard_time": 1670333291,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 839597,
+        "num": 839597,
+        "word": "C罗连续31场首发纪录终结",
+        "onboard_time": 1670356746,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 805297,
+        "num": 805297,
+        "word": "连花清瘟线上线下差价50元",
+        "onboard_time": 1670342111,
+        "rank": 4,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 429063,
+        "num": 429063,
+        "word": "加维都摔绿了",
+        "onboard_time": 1670348468,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 427954,
+        "num": 427954,
+        "word": "佩戴口罩能否超过8个小时",
+        "onboard_time": 1670344569,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 417352,
+        "num": 417352,
+        "word": "久违了欢迎回家过年",
+        "onboard_time": 1670343909,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 397374,
+        "num": 397374,
+        "word": "帽子戏法",
+        "onboard_time": 1670368507,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 341104,
+        "num": 362230,
+        "word": "孙继海说C罗今晚回家",
+        "onboard_time": 1670336829,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 432514,
+        "num": 357553,
+        "word": "西班牙点球三连失",
+        "onboard_time": 1670368147,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 352607,
+        "num": 352607,
+        "word": "卡塔尔世界杯8强出炉",
+        "onboard_time": 1670368626,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 346154,
+        "num": 346154,
+        "word": "男子徒手掰坏劳斯莱斯小金人",
+        "onboard_time": 1670342050,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326764,
+        "num": 326764,
+        "word": "C罗对阵瑞士无缘首发",
+        "onboard_time": 1670350690,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 262418,
+        "num": 262418,
+        "word": "猫咪不慎被踩尾巴开启咒骂模式",
+        "onboard_time": 1670344150,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257092,
+        "num": 257092,
+        "word": "女子隔离7天2只猫独自在家拆家",
+        "onboard_time": 1670334131,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231782,
+        "num": 231782,
+        "word": "阳性病例现在主要是上呼吸道症状",
+        "onboard_time": 1670317030,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226049,
+        "num": 226049,
+        "word": "西班牙队本场状态",
+        "onboard_time": 1670353507,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 223748,
+        "num": 223748,
+        "word": "女子减重340斤皮肤下垂如围裙",
+        "onboard_time": 1670326089,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216514,
+        "num": 216514,
+        "word": "4岁女孩误吞61颗磁力珠致肠穿孔",
+        "onboard_time": 1670340611,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215267,
+        "num": 215267,
+        "word": "3中国人在尼泊尔打斗致1死1伤",
+        "onboard_time": 1670333651,
+        "rank": 20,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 215120,
+        "num": 215120,
+        "word": "原神",
+        "onboard_time": 1670368266,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 168895,
+        "num": 168895,
+        "word": "大四男生晒一家三口幸福视频",
+        "onboard_time": 1670337789,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164008,
+        "num": 164008,
+        "word": "6男子吃鸡时打架留下2人只愿AA",
+        "onboard_time": 1670335571,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161945,
+        "num": 161945,
+        "word": "摩洛哥足球 纯粹",
+        "onboard_time": 1670343370,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153653,
+        "num": 153653,
+        "word": "20岁女生有1个妹妹再喜提双胞胎弟弟",
+        "onboard_time": 1670321230,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150971,
+        "num": 150971,
+        "word": "蒙古国示威者试图冲击国家宫",
+        "onboard_time": 1670334429,
+        "rank": 26,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 146950,
+        "num": 146950,
+        "word": "葡萄牙将对阵摩洛哥",
+        "onboard_time": 1670368266,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143385,
+        "num": 143385,
+        "word": "摩洛哥门将",
+        "onboard_time": 1670349548,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142392,
+        "num": 142392,
+        "word": "西班牙连续三届世界杯无缘8强",
+        "onboard_time": 1670353210,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137364,
+        "num": 137364,
+        "word": "广州疫情政策调整后就诊人数并无大幅增加",
+        "onboard_time": 1670332030,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136678,
+        "num": 136678,
+        "word": "贡萨洛拉莫斯帽子戏法",
+        "onboard_time": 1670368207,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129878,
+        "num": 129878,
+        "word": "佩佩头球破门",
+        "onboard_time": 1670368147,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126623,
+        "num": 126623,
+        "word": "以岭药业新专利可制作含连花清瘟口罩",
+        "onboard_time": 1670331012,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115429,
+        "num": 115429,
+        "word": "西班牙教练表情",
+        "onboard_time": 1670346612,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114359,
+        "num": 114359,
+        "word": "北京增本土感染者1431例",
+        "onboard_time": 1670332269,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112299,
+        "num": 112299,
+        "word": "小胖闯非洲",
+        "onboard_time": 1670329990,
+        "rank": 36,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 109457,
+        "num": 109457,
+        "word": "儿童新冠发病7日图",
+        "onboard_time": 1670333889,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107298,
+        "num": 107298,
+        "word": "外婆嫌灯开太多拍手碎碎念",
+        "onboard_time": 1670343790,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106543,
+        "num": 106543,
+        "word": "浙江将组织1万家企业出国参加经贸活动",
+        "onboard_time": 1670327949,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102260,
+        "num": 102260,
+        "word": "恩里克 战术",
+        "onboard_time": 1670368207,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100732,
+        "num": 100732,
+        "word": "特斯拉市值一夜蒸发2729亿元",
+        "onboard_time": 1670321830,
+        "rank": 41,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 99686,
+        "num": 99686,
+        "word": "摩洛哥vs西班牙",
+        "onboard_time": 1670338390,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96430,
+        "num": 96430,
+        "word": "新冠康复日记",
+        "onboard_time": 1670342530,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87137,
+        "num": 87137,
+        "word": "男子掰坏豪车车主称维修费27万",
+        "onboard_time": 1670369166,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84572,
+        "num": 84572,
+        "word": "警方通报女子遭泼墨捆绑殴打",
+        "onboard_time": 1670337371,
+        "rank": 45,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 84396,
+        "num": 84396,
+        "word": "广州16万感染者仅4例重症",
+        "onboard_time": 1670319249,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81610,
+        "num": 81610,
+        "word": "北京每日投放连花清瘟40万盒",
+        "onboard_time": 1670336652,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 69065,
+        "num": 69065,
+        "word": "婚姻中如何保持爱和吸引",
+        "onboard_time": 1670341450,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 68464,
+        "num": 68464,
+        "word": "佩佩为C罗戴袖标",
+        "onboard_time": 1670369287,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#江泽民同志追悼大会#"
+    }
+  }
+}
