@@ -1,6 +1,6 @@
 {
   "startTime": 1670343998708,
-  "endTime": 1670358817285,
+  "endTime": 1670361401673,
   "band_list": [
     {
       "raw_hot": 1189894,
@@ -72,6 +72,14 @@
       "word": "孙继海说C罗今晚回家",
       "onboard_time": 1670336829,
       "rank": 5,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 624105,
+      "num": 624105,
+      "word": "C罗连续31场首发纪录终结",
+      "onboard_time": 1670356746,
+      "rank": 10,
       "category": "体育"
     },
     {
@@ -171,6 +179,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 406829,
+      "num": 406829,
+      "word": "葡萄牙vs瑞士",
+      "onboard_time": 1670349129,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 406615,
+      "num": 406615,
+      "word": "葡萄牙6比1瑞士",
+      "onboard_time": 1670360408,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 406099,
       "num": 406099,
       "word": "摩洛哥晋级8强",
@@ -185,14 +209,6 @@
       "onboard_time": 1670331012,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 380234,
-      "num": 380234,
-      "word": "葡萄牙vs瑞士",
-      "onboard_time": 1670349129,
-      "rank": 10,
-      "category": "体育"
     },
     {
       "raw_hot": 365483,
@@ -299,14 +315,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 214887,
-      "num": 214887,
-      "word": "C罗连续31场首发纪录终结",
-      "onboard_time": 1670356746,
-      "rank": 10,
-      "category": "体育"
-    },
-    {
       "raw_hot": 197036,
       "num": 197036,
       "word": "警方通报女子遭泼墨捆绑殴打",
@@ -353,6 +361,14 @@
       "onboard_time": 1670343550,
       "rank": 32,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 161602,
+      "num": 68484,
+      "word": "贡萨洛拉莫斯梅开二度",
+      "onboard_time": 1670359447,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 156334,
@@ -507,6 +523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 101786,
+      "num": 65816,
+      "word": "西班牙队本场状态",
+      "onboard_time": 1670353507,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 100382,
       "num": 100382,
       "word": "庐山和雪有多配",
@@ -531,14 +555,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 95842,
-      "num": 52348,
-      "word": "西班牙队本场状态",
-      "onboard_time": 1670353507,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 88459,
       "num": 88459,
       "word": "巴西是唯一每届世界杯都参加的国家",
@@ -556,7 +572,7 @@
     },
     {
       "raw_hot": 85968,
-      "num": 51363,
+      "num": 53137,
       "word": "西班牙连续三届世界杯无缘8强",
       "onboard_time": 1670353210,
       "rank": 30,
@@ -584,6 +600,14 @@
       "word": "布努神扑",
       "onboard_time": 1670346248,
       "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 47889,
+      "num": 30396,
+      "word": "格雷罗破门",
+      "onboard_time": 1670359508,
+      "rank": 30,
       "category": "体育"
     },
     {
