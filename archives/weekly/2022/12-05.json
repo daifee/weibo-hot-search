@@ -1,6 +1,6 @@
 {
   "startTime": 1670171104099,
-  "endTime": 1670366101259,
+  "endTime": 1670368791621,
   "band_list": [
     {
       "raw_hot": 8354155,
@@ -105,6 +105,14 @@
       "onboard_time": 1670312711,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2108847,
+      "num": 2108847,
+      "word": "葡萄牙6比1瑞士",
+      "onboard_time": 1670360408,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 2099928,
@@ -307,6 +315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1412933,
+      "num": 1412933,
+      "word": "摩洛哥3比0西班牙",
+      "onboard_time": 1670350449,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1394810,
       "num": 685283,
       "word": "女子减重340斤皮肤下垂如围裙",
@@ -393,14 +409,6 @@
       "onboard_time": 1670246292,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1201646,
-      "num": 1201646,
-      "word": "葡萄牙6比1瑞士",
-      "onboard_time": 1670360408,
-      "rank": 3,
-      "category": "体育"
     },
     {
       "raw_hot": 1189894,
@@ -552,14 +560,6 @@
       "word": "摩洛哥足球 纯粹",
       "onboard_time": 1670343370,
       "rank": 46,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 950993,
-      "num": 950993,
-      "word": "摩洛哥3比0西班牙",
-      "onboard_time": 1670350449,
-      "rank": 3,
       "category": "体育"
     },
     {
@@ -747,6 +747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 791102,
+      "num": 791102,
+      "word": "C罗连续31场首发纪录终结",
+      "onboard_time": 1670356746,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 781835,
       "num": 781835,
       "word": "6名奥密克戎康复者自述",
@@ -833,6 +841,14 @@
       "onboard_time": 1670346612,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 705098,
+      "num": 705098,
+      "word": "连花清瘟线上线下差价50元",
+      "onboard_time": 1670342111,
+      "rank": 21,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 704714,
@@ -1019,14 +1035,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 624105,
-      "num": 624105,
-      "word": "C罗连续31场首发纪录终结",
-      "onboard_time": 1670356746,
-      "rank": 10,
-      "category": "体育"
-    },
-    {
       "raw_hot": 622601,
       "num": 420507,
       "word": "世界杯裁判",
@@ -1089,14 +1097,6 @@
       "onboard_time": 1670225053,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 606723,
-      "num": 606723,
-      "word": "连花清瘟线上线下差价50元",
-      "onboard_time": 1670342111,
-      "rank": 21,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 606271,
@@ -1699,6 +1699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 389416,
+      "num": 389416,
+      "word": "佩戴口罩能否超过8个小时",
+      "onboard_time": 1670344569,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 389320,
       "num": 334036,
       "word": "世界杯 裁判",
@@ -1827,6 +1835,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 355225,
+      "num": 355225,
+      "word": "久违了欢迎回家过年",
+      "onboard_time": 1670343909,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 353956,
       "num": 353956,
       "word": "麦迪目睹美国队惨败后去打篮球",
@@ -1947,6 +1963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 325332,
+      "num": 325332,
+      "word": "西班牙点球三连失",
+      "onboard_time": 1670368147,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 324133,
       "num": 324133,
       "word": "骗子用足球游戏画面冒充世界杯直播",
@@ -2027,6 +2051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 310848,
+      "num": 310848,
+      "word": "男子徒手掰坏劳斯莱斯小金人",
+      "onboard_time": 1670342050,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 310804,
       "num": 310804,
       "word": "世界杯仅剩10场比赛了",
@@ -2041,14 +2073,6 @@
       "onboard_time": 1670315412,
       "rank": 42,
       "category": "游戏,社会新闻"
-    },
-    {
-      "raw_hot": 307847,
-      "num": 307847,
-      "word": "男子徒手掰坏劳斯莱斯小金人",
-      "onboard_time": 1670342050,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 306687,
@@ -2497,6 +2521,14 @@
       "onboard_time": 1670302450,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 236465,
+      "num": 236465,
+      "word": "西班牙队本场状态",
+      "onboard_time": 1670353507,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 235802,
@@ -3115,6 +3147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 169060,
+      "num": 169060,
+      "word": "西班牙连续三届世界杯无缘8强",
+      "onboard_time": 1670353210,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 167822,
       "num": 1167868,
       "word": "重症高风险人群最有效的保护是接种疫苗",
@@ -3299,6 +3339,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 154822,
+      "num": 154822,
+      "word": "葡萄牙将对阵摩洛哥",
+      "onboard_time": 1670368266,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 154349,
       "num": 405812,
       "word": "格子军团",
@@ -3368,14 +3416,6 @@
       "word": "男子冬天脱衣跳河救小猫",
       "onboard_time": 1670228351,
       "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 148793,
-      "num": 148793,
-      "word": "佩戴口罩能否超过8个小时",
-      "onboard_time": 1670344569,
-      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -3651,6 +3691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129464,
+      "num": 129464,
+      "word": "外婆嫌灯开太多拍手碎碎念",
+      "onboard_time": 1670343790,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 128211,
       "num": 128211,
       "word": "内马尔说我做到了",
@@ -3763,6 +3811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 120480,
+      "num": 120480,
+      "word": "点球",
+      "onboard_time": 1670368207,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 118993,
       "num": 1548570,
       "word": "看内马尔踢球是种享受",
@@ -3803,11 +3859,19 @@
       "category": "情感"
     },
     {
-      "raw_hot": 115195,
-      "num": 115195,
-      "word": "西班牙队本场状态",
-      "onboard_time": 1670353507,
-      "rank": 37,
+      "raw_hot": 115989,
+      "num": 115989,
+      "word": "恩里克 战术",
+      "onboard_time": 1670368207,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 115615,
+      "num": 115615,
+      "word": "贡萨洛拉莫斯帽子戏法",
+      "onboard_time": 1670368207,
+      "rank": 33,
       "category": "体育"
     },
     {
@@ -3880,6 +3944,14 @@
       "word": "美丽的桑巴足球",
       "onboard_time": 1670274787,
       "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 111446,
+      "num": 111446,
+      "word": "拉莫斯 帅",
+      "onboard_time": 1670368207,
+      "rank": 34,
       "category": "体育"
     },
     {
@@ -4035,6 +4107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 103471,
+      "num": 103471,
+      "word": "佩佩头球破门",
+      "onboard_time": 1670368147,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 102832,
       "num": 110183,
       "word": "孩子拔牙后哭闹不止竟是拔错了牙",
@@ -4129,14 +4209,6 @@
       "onboard_time": 1670204949,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 97360,
-      "num": 97360,
-      "word": "久违了欢迎回家过年",
-      "onboard_time": 1670343909,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 95493,
@@ -4235,14 +4307,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 87903,
-      "num": 87903,
-      "word": "外婆嫌灯开太多拍手碎碎念",
-      "onboard_time": 1670343790,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 87257,
       "num": 88190,
       "word": "居家上网课如何保护眼睛",
@@ -4251,19 +4315,19 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 86353,
+      "num": 86353,
+      "word": "贡萨洛拉莫斯破门",
+      "onboard_time": 1670368207,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 86191,
       "num": 97785,
       "word": "英格兰晋级8强",
       "onboard_time": 1670187848,
       "rank": 11,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 85968,
-      "num": 76224,
-      "word": "西班牙连续三届世界杯无缘8强",
-      "onboard_time": 1670353210,
-      "rank": 30,
       "category": "体育"
     },
     {
@@ -4329,6 +4393,22 @@
       "onboard_time": 1670339830,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 74868,
+      "num": 74868,
+      "word": "卡塔尔世界杯8强出炉",
+      "onboard_time": 1670368626,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 73064,
+      "num": 73064,
+      "word": "帽子戏法",
+      "onboard_time": 1670368507,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 70999,
