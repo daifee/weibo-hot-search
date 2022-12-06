@@ -1,6 +1,6 @@
 {
   "startTime": 1670257630924,
-  "endTime": 1670294669405,
+  "endTime": 1670295295754,
   "band_list": [
     {
       "raw_hot": 8354155,
@@ -11,7 +11,7 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 5859965,
+      "raw_hot": 5877039,
       "num": 7109965,
       "word": "全国默哀3分钟",
       "onboard_time": 1670292527,
@@ -75,7 +75,7 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 1894006,
+      "raw_hot": 1958270,
       "num": 1345268,
       "word": "防空警报",
       "onboard_time": 1670292764,
@@ -115,7 +115,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1164584,
+      "raw_hot": 1187993,
       "num": 528783,
       "word": "嘉宾称巴西队跳舞不尊重韩国",
       "onboard_time": 1670291110,
@@ -153,6 +153,14 @@
       "onboard_time": 1670252713,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 928879,
+      "num": 928879,
+      "word": "江泽民同志把毕生心血献给中国人民",
+      "onboard_time": 1670293451,
+      "rank": 9,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 895052,
@@ -259,20 +267,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 595847,
+      "num": 410354,
+      "word": "内马尔受伤后哭了一整夜",
+      "onboard_time": 1670292586,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 586068,
+      "num": 586068,
+      "word": "专家辟谣长期戴口罩会致肺结节",
+      "onboard_time": 1670292670,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 565996,
       "num": 565996,
       "word": "巴西为什么被称为足球王国",
       "onboard_time": 1670289729,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 556353,
-      "num": 556353,
-      "word": "江泽民同志把毕生心血献给中国人民",
-      "onboard_time": 1670293451,
-      "rank": 9,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 551852,
@@ -295,22 +311,6 @@
       "num": 524519,
       "word": "北京增414例社会面",
       "onboard_time": 1670287688,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 512663,
-      "num": 391512,
-      "word": "内马尔受伤后哭了一整夜",
-      "onboard_time": 1670292586,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 476938,
-      "num": 476938,
-      "word": "专家辟谣长期戴口罩会致肺结节",
-      "onboard_time": 1670292670,
       "rank": 13,
       "category": "社会新闻"
     },
@@ -355,8 +355,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 427655,
+      "num": 206509,
+      "word": "孙兴慜说尽力了",
+      "onboard_time": 1670293090,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 426571,
-      "num": 203935,
+      "num": 380453,
       "word": "北京堂食仍需48小时核酸",
       "onboard_time": 1670292069,
       "rank": 30,
@@ -387,8 +395,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 414011,
-      "num": 414011,
+      "raw_hot": 423289,
+      "num": 423289,
       "word": "半岁雪豹被放归赖着不走",
       "onboard_time": 1670292227,
       "rank": 16,
@@ -403,11 +411,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 392296,
+      "num": 392296,
+      "word": "山东人的早餐标准有多高",
+      "onboard_time": 1670291470,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 389774,
       "num": 389774,
       "word": "有必要囤药吗",
       "onboard_time": 1670286850,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 385551,
+      "num": 201508,
+      "word": "何超琼说爱国是家训",
+      "onboard_time": 1670292882,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -425,22 +449,6 @@
       "onboard_time": 1670253792,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 352546,
-      "num": 201508,
-      "word": "何超琼说爱国是家训",
-      "onboard_time": 1670292882,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 343609,
-      "num": 343609,
-      "word": "山东人的早餐标准有多高",
-      "onboard_time": 1670291470,
-      "rank": 46,
-      "category": "美食"
     },
     {
       "raw_hot": 336724,
@@ -473,14 +481,6 @@
       "onboard_time": 1670241911,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 292970,
-      "num": 205720,
-      "word": "孙兴慜说尽力了",
-      "onboard_time": 1670293090,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 280494,
@@ -627,6 +627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 208101,
+      "num": 208101,
+      "word": "北京居民进入社区村可不扫码",
+      "onboard_time": 1670293389,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 201651,
       "num": 449199,
       "word": "克罗地亚进球",
@@ -707,20 +715,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 166608,
+      "num": 166608,
+      "word": "极其沉痛地悼念敬爱的江泽民同志",
+      "onboard_time": 1670293211,
+      "rank": 42,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 165376,
       "num": 589219,
       "word": "北京增本土感染者2260例",
       "onboard_time": 1670247673,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 165266,
-      "num": 165266,
-      "word": "极其沉痛地悼念敬爱的江泽民同志",
-      "onboard_time": 1670293211,
-      "rank": 42,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 161216,
@@ -736,14 +744,6 @@
       "word": "上海对7天内无核酸检测记录的不再赋黄码",
       "onboard_time": 1670243052,
       "rank": 31,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 160153,
-      "num": 160153,
-      "word": "北京居民进入社区村可不扫码",
-      "onboard_time": 1670293389,
-      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -875,6 +875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 126017,
+      "num": 126017,
+      "word": "当下如何做好个人防护",
+      "onboard_time": 1670294831,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 121236,
       "num": 451078,
       "word": "女孩穿凉鞋同学爸爸量尺寸给买棉鞋",
@@ -907,6 +915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 111382,
+      "num": 111382,
+      "word": "巴西世界杯纪录",
+      "onboard_time": 1670295130,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 110447,
       "num": 431799,
       "word": "AG对战GK",
@@ -921,6 +937,14 @@
       "onboard_time": 1670230032,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 105664,
+      "num": 105664,
+      "word": "马斯克脑机接口公司因动物实验被调查",
+      "onboard_time": 1670294711,
+      "rank": 49,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 100818,
