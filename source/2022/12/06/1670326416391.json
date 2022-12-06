@@ -1,0 +1,410 @@
+{
+  "runTime": 1670326416391,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 534256,
+        "num": 832991,
+        "word": "全国下半旗志哀",
+        "onboard_time": 1670322430,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 419994,
+        "num": 419994,
+        "word": "江泽民同志同我们永别了",
+        "onboard_time": 1670296211,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 201574,
+        "num": 419775,
+        "word": "奥密克戎致病力如何",
+        "onboard_time": 1670302450,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1432754,
+        "num": 413066,
+        "word": "潘懋元逝世",
+        "onboard_time": 1670311812,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1151352,
+        "num": 410081,
+        "word": "奥密克戎毒力接近季节性流感",
+        "onboard_time": 1670312711,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 815711,
+        "num": 402178,
+        "word": "超八成巴西球员月收入低于1350元",
+        "onboard_time": 1670323629,
+        "rank": 5,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 770862,
+        "num": 397433,
+        "word": "广州16万感染者仅4例重症",
+        "onboard_time": 1670319249,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 643865,
+        "num": 394270,
+        "word": "C罗仍希望加盟欧冠球队",
+        "onboard_time": 1670322310,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 529927,
+        "num": 387766,
+        "word": "阳性病例现在主要是上呼吸道症状",
+        "onboard_time": 1670317030,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 441296,
+        "num": 382302,
+        "word": "巴西是唯一每届世界杯都参加的国家",
+        "onboard_time": 1670318110,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1365972,
+        "num": 380604,
+        "word": "20岁女生有1个妹妹再喜提双胞胎弟弟",
+        "onboard_time": 1670321230,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1233041,
+        "num": 373339,
+        "word": "是连花清瘟不是莲花清温",
+        "onboard_time": 1670315290,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 603136,
+        "num": 369096,
+        "word": "男子回应大三已完成结婚生子",
+        "onboard_time": 1670318589,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 501444,
+        "num": 363104,
+        "word": "女子收2万彩礼被退婚霸气还15万",
+        "onboard_time": 1670308509,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 432405,
+        "num": 362579,
+        "word": "政治老师为抢课将历史老师反锁门外",
+        "onboard_time": 1670319011,
+        "rank": 14,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 357819,
+        "num": 357819,
+        "word": "程序员为泄愤离职后锁公司硬盘",
+        "onboard_time": 1670312411,
+        "rank": 15,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 357026,
+        "num": 357026,
+        "word": "双十二到了双十一快递还没收到货",
+        "onboard_time": 1670321110,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 345289,
+        "num": 345289,
+        "word": "小太阳取暖忘断电7分钟烧整间屋",
+        "onboard_time": 1670312110,
+        "rank": 17,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 324133,
+        "num": 324133,
+        "word": "骗子用足球游戏画面冒充世界杯直播",
+        "onboard_time": 1670322370,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 321715,
+        "num": 321715,
+        "word": "女子高度近视3000度被迫摘除眼球",
+        "onboard_time": 1670300529,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310687,
+        "num": 310687,
+        "word": "特斯拉市值一夜蒸发2729亿元",
+        "onboard_time": 1670321830,
+        "rank": 20,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 295291,
+        "num": 295291,
+        "word": "核子基因已开发上千种基因检测项目",
+        "onboard_time": 1670319549,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294381,
+        "num": 294381,
+        "word": "顾客买6斤半土鸡胃里塞1斤多玉米",
+        "onboard_time": 1670309649,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276493,
+        "num": 276493,
+        "word": "以岭药业回应连花清瘟涨价传闻",
+        "onboard_time": 1670323990,
+        "rank": 23,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 266020,
+        "num": 266020,
+        "word": "外交部提醒日方谨言慎行",
+        "onboard_time": 1670322670,
+        "rank": 24,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 251577,
+        "num": 251577,
+        "word": "大学生上3年半网课完成结婚生子",
+        "onboard_time": 1670302210,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 220061,
+        "num": 220061,
+        "word": "妈妈担心狗感冒给狗盖棉被烤小太阳",
+        "onboard_time": 1670318530,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215166,
+        "num": 215166,
+        "word": "4岁女童趴火盆取暖深3度烧伤恐无法生育",
+        "onboard_time": 1670301730,
+        "rank": 27,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 214355,
+        "num": 214355,
+        "word": "小鸟熟练摘下柿子整颗带走",
+        "onboard_time": 1670323089,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197265,
+        "num": 197265,
+        "word": "近视可能引起的4种继发病",
+        "onboard_time": 1670322370,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196694,
+        "num": 196694,
+        "word": "西班牙会被摩洛哥爆冷吗",
+        "onboard_time": 1670307669,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183663,
+        "num": 183663,
+        "word": "三亚机票酒店预订暴涨3倍",
+        "onboard_time": 1670311509,
+        "rank": 31,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 166340,
+        "num": 166340,
+        "word": "感染新冠病毒有哪些症状",
+        "onboard_time": 1670324949,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158652,
+        "num": 158652,
+        "word": "研究发现蚂蚁也产奶",
+        "onboard_time": 1670321292,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148646,
+        "num": 148646,
+        "word": "女子减重340斤皮肤下垂如围裙",
+        "onboard_time": 1670326089,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142727,
+        "num": 142727,
+        "word": "网友吐槽买瓶饮料都要下载APP",
+        "onboard_time": 1670310190,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142571,
+        "num": 142571,
+        "word": "当地协会回应网络主播在尼泊尔遇害",
+        "onboard_time": 1670323390,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139864,
+        "num": 139864,
+        "word": "有药店连花清瘟单盒卖百元",
+        "onboard_time": 1670304909,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134058,
+        "num": 134058,
+        "word": "姚金成所持RNG数百万股权被冻结",
+        "onboard_time": 1670315412,
+        "rank": 38,
+        "category": "游戏,社会新闻"
+      },
+      {
+        "raw_hot": 130376,
+        "num": 130376,
+        "word": "东北女子在院子地上铺满饺子",
+        "onboard_time": 1670309649,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130268,
+        "num": 130268,
+        "word": "这就是中国珠算的魅力",
+        "onboard_time": 1670320091,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129114,
+        "num": 129114,
+        "word": "女子被捆绑浇墨水疑为吸引眼球",
+        "onboard_time": 1670318651,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127343,
+        "num": 127343,
+        "word": "韩媒说韩国队不用道歉",
+        "onboard_time": 1670310910,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122385,
+        "num": 122385,
+        "word": "巴西球员轮流摸罗纳尔多双腿",
+        "onboard_time": 1670307010,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114497,
+        "num": 114497,
+        "word": "罗纳尔多当年有多强",
+        "onboard_time": 1670325311,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109196,
+        "num": 109196,
+        "word": "吴天一院士一个选择走一生",
+        "onboard_time": 1670324470,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108785,
+        "num": 108785,
+        "word": "巴西本土球员需额外打工维持生计",
+        "onboard_time": 1670324349,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106298,
+        "num": 106298,
+        "word": "护士做泪道冲洗拿自己练手",
+        "onboard_time": 1670310070,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104218,
+        "num": 104218,
+        "word": "美国一警察局长驾车被拦后亮警徽",
+        "onboard_time": 1670317870,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100724,
+        "num": 100724,
+        "word": "多地药房因哄抬价格被罚",
+        "onboard_time": 1670326329,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#江泽民同志追悼大会#"
+    }
+  }
+}
