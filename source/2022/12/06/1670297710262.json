@@ -1,0 +1,410 @@
+{
+  "runTime": 1670297710262,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3755595,
+        "num": 3755595,
+        "word": "全国默哀3分钟",
+        "onboard_time": 1670292527,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 3502350,
+        "num": 3502350,
+        "word": "江泽民同志追悼大会",
+        "onboard_time": 1670291769,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1874081,
+        "num": 1874081,
+        "word": "江泽民同志同我们永别了",
+        "onboard_time": 1670296211,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1544433,
+        "num": 1544433,
+        "word": "防空警报",
+        "onboard_time": 1670292764,
+        "rank": 3,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1393296,
+        "num": 1393296,
+        "word": "如果阳了怎么办",
+        "onboard_time": 1670286970,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1304731,
+        "num": 1304731,
+        "word": "江泽民同志把毕生心血献给中国人民",
+        "onboard_time": 1670293451,
+        "rank": 5,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 812657,
+        "num": 812657,
+        "word": "专家辟谣长期戴口罩会致肺结节",
+        "onboard_time": 1670292670,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 735402,
+        "num": 735402,
+        "word": "鸣笛",
+        "onboard_time": 1670292764,
+        "rank": 7,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 386457,
+        "num": 386457,
+        "word": "向江泽民同志作最后的诀别",
+        "onboard_time": 1670244071,
+        "rank": 8,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 326761,
+        "num": 326761,
+        "word": "巴西为什么被称为足球王国",
+        "onboard_time": 1670289729,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1593139,
+        "num": 326652,
+        "word": "抗疫3年其实我们清零了很多次",
+        "onboard_time": 1670283609,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 524439,
+        "num": 325626,
+        "word": "女子送狗给老人1月后发现骨瘦如柴",
+        "onboard_time": 1670284387,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1234374,
+        "num": 325281,
+        "word": "嘉宾称巴西队跳舞不尊重韩国",
+        "onboard_time": 1670291110,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 485218,
+        "num": 324548,
+        "word": "半岁雪豹被放归赖着不走",
+        "onboard_time": 1670292227,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 467265,
+        "num": 324010,
+        "word": "山东人的早餐标准有多高",
+        "onboard_time": 1670291470,
+        "rank": 14,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 579622,
+        "num": 323703,
+        "word": "内马尔受伤后哭了一整夜",
+        "onboard_time": 1670292586,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 453254,
+        "num": 323024,
+        "word": "党中央号召全党全军全国各族人民",
+        "onboard_time": 1670295969,
+        "rank": 16,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 451711,
+        "num": 322050,
+        "word": "何超琼说爱国是家训",
+        "onboard_time": 1670292882,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 439680,
+        "num": 321625,
+        "word": "韩国队被打花了",
+        "onboard_time": 1670282947,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 321417,
+        "num": 321417,
+        "word": "北京堂食仍需48小时核酸",
+        "onboard_time": 1670292069,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278566,
+        "num": 278566,
+        "word": "人民日报社论",
+        "onboard_time": 1670285468,
+        "rank": 20,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 689166,
+        "num": 278167,
+        "word": "韩国球迷用7比1嘲讽巴西",
+        "onboard_time": 1670274787,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 260123,
+        "num": 260123,
+        "word": "25岁女生逗奶奶相亲认识84岁老头",
+        "onboard_time": 1670284626,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220805,
+        "num": 220805,
+        "word": "江苏疫情防控",
+        "onboard_time": 1670284665,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 407315,
+        "num": 215928,
+        "word": "孙兴慜说尽力了",
+        "onboard_time": 1670293090,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211043,
+        "num": 211043,
+        "word": "零下40°C内蒙古神奇不冻河流水潺潺",
+        "onboard_time": 1670284327,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203151,
+        "num": 203151,
+        "word": "马斯克脑机接口公司因动物实验被调查",
+        "onboard_time": 1670294711,
+        "rank": 26,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 241946,
+        "num": 203065,
+        "word": "三球王",
+        "onboard_time": 1670291650,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196752,
+        "num": 196752,
+        "word": "北京各类公共场所不再查验核酸",
+        "onboard_time": 1670290269,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173432,
+        "num": 173432,
+        "word": "伦纳德绝杀黄蜂",
+        "onboard_time": 1670296269,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 229765,
+        "num": 173023,
+        "word": "巴西世界杯纪录",
+        "onboard_time": 1670295130,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171454,
+        "num": 171454,
+        "word": "北京居民进入社区村可不扫码",
+        "onboard_time": 1670293389,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164281,
+        "num": 164281,
+        "word": "北京继续提供社会面免费核酸检测服务",
+        "onboard_time": 1670291529,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215354,
+        "num": 162630,
+        "word": "韩媒称巴西人只关心决赛对手是谁",
+        "onboard_time": 1670259430,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155007,
+        "num": 155007,
+        "word": "妈妈假装逃单5岁儿子坚持让付钱",
+        "onboard_time": 1670251452,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153475,
+        "num": 153475,
+        "word": "梅西预测4支球队世界杯夺冠",
+        "onboard_time": 1670252713,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177838,
+        "num": 152390,
+        "word": "耐克正式与欧文解约",
+        "onboard_time": 1670288169,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148851,
+        "num": 148851,
+        "word": "马斯克称自己被枪杀可能性很大",
+        "onboard_time": 1670284665,
+        "rank": 37,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 145557,
+        "num": 145557,
+        "word": "饭店每日免费送熬汤剩骨给养犬顾客",
+        "onboard_time": 1670288674,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157550,
+        "num": 144504,
+        "word": "巴西vs韩国",
+        "onboard_time": 1670263812,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143091,
+        "num": 143091,
+        "word": "儿童睡觉尽量别用电热毯",
+        "onboard_time": 1670255711,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140502,
+        "num": 140502,
+        "word": "女子买全部橘子后发现大爷住洋楼",
+        "onboard_time": 1670238371,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140094,
+        "num": 140094,
+        "word": "多地电影院有序开放",
+        "onboard_time": 1670295549,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134778,
+        "num": 134778,
+        "word": "极其沉痛地悼念敬爱的江泽民同志",
+        "onboard_time": 1670293211,
+        "rank": 43,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 132595,
+        "num": 132595,
+        "word": "感染奥密克戎后有何症状",
+        "onboard_time": 1670296269,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131994,
+        "num": 131994,
+        "word": "日本四次止步世界杯16强",
+        "onboard_time": 1670265729,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129822,
+        "num": 129822,
+        "word": "保持只争朝夕奋发有为的奋斗姿态",
+        "onboard_time": 1670297108,
+        "rank": 46,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 128588,
+        "num": 128588,
+        "word": "90后公务员入职搬600斤自行车emo了",
+        "onboard_time": 1670242752,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128114,
+        "num": 128114,
+        "word": "步行者vs勇士",
+        "onboard_time": 1670297411,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122716,
+        "num": 122716,
+        "word": "女子编理由借同事朋友70万买奢侈品",
+        "onboard_time": 1670249713,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#江泽民伟大光辉的一生#"
+    }
+  }
+}
