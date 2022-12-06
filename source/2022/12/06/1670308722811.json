@@ -1,0 +1,410 @@
+{
+  "runTime": 1670308722811,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1614160,
+        "num": 1614160,
+        "word": "江泽民同志同我们永别了",
+        "onboard_time": 1670296211,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 921193,
+        "num": 921193,
+        "word": "全国默哀3分钟",
+        "onboard_time": 1670292527,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 35105,
+        "num": 843654,
+        "word": "全国多地优化疫情防控措施",
+        "onboard_time": 1670198648,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1965143,
+        "num": 837252,
+        "word": "有药店连花清瘟单盒卖百元",
+        "onboard_time": 1670304909,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 829640,
+        "num": 829640,
+        "word": "杭州健康码核酸倒计时取消了",
+        "onboard_time": 1670297709,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 571600,
+        "num": 571600,
+        "word": "研究称每天八杯水并不适用所有人",
+        "onboard_time": 1670305812,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 552598,
+        "num": 552598,
+        "word": "SUV高速失控狂飙500公里",
+        "onboard_time": 1670303889,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 509979,
+        "num": 509979,
+        "word": "如果阳了怎么办",
+        "onboard_time": 1670286970,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 356778,
+        "num": 356778,
+        "word": "江泽民同志追悼大会",
+        "onboard_time": 1670291769,
+        "rank": 8,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 322129,
+        "num": 322129,
+        "word": "孙兴慜0球告别世界杯",
+        "onboard_time": 1670299629,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1458701,
+        "num": 322074,
+        "word": "女子高度近视3000度被迫摘除眼球",
+        "onboard_time": 1670300529,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 714384,
+        "num": 321414,
+        "word": "4岁女童趴火盆取暖深3度烧伤恐无法生育",
+        "onboard_time": 1670301730,
+        "rank": 11,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 428058,
+        "num": 320416,
+        "word": "巴西球员说要继续跳舞直到决赛",
+        "onboard_time": 1670306229,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 421354,
+        "num": 319512,
+        "word": "嘉宾称巴西队跳舞不尊重韩国",
+        "onboard_time": 1670291110,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 395805,
+        "num": 318672,
+        "word": "店主没带汤勺用鸭头盛卤汁",
+        "onboard_time": 1670304489,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318551,
+        "num": 318551,
+        "word": "抗疫3年其实我们清零了很多次",
+        "onboard_time": 1670283609,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281697,
+        "num": 281697,
+        "word": "八旬院士仍每天工作直到老伴没收电脑",
+        "onboard_time": 1670306288,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262443,
+        "num": 262443,
+        "word": "全国多地疫情防控层层减码",
+        "onboard_time": 1670302690,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244154,
+        "num": 244154,
+        "word": "巴西球员轮流摸罗纳尔多双腿",
+        "onboard_time": 1670307010,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211545,
+        "num": 211545,
+        "word": "半岁雪豹被放归赖着不走",
+        "onboard_time": 1670292227,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1312616,
+        "num": 211022,
+        "word": "大学生上3年半网课完成结婚生子",
+        "onboard_time": 1670302210,
+        "rank": 20,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 209635,
+        "num": 209635,
+        "word": "B站回应启动新一轮裁员",
+        "onboard_time": 1670299269,
+        "rank": 21,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 208588,
+        "num": 208588,
+        "word": "江泽民同志把毕生心血献给中国人民",
+        "onboard_time": 1670293451,
+        "rank": 22,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 186133,
+        "num": 186133,
+        "word": "大妈蚂蚁搬家式9天偷200件物品",
+        "onboard_time": 1670298369,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172734,
+        "num": 172734,
+        "word": "韩国球迷用7比1嘲讽巴西",
+        "onboard_time": 1670274787,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152498,
+        "num": 152498,
+        "word": "专家辟谣长期戴口罩会致肺结节",
+        "onboard_time": 1670292670,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146453,
+        "num": 146453,
+        "word": "女子送狗给老人1月后发现骨瘦如柴",
+        "onboard_time": 1670284387,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162059,
+        "num": 146111,
+        "word": "内马尔受伤后哭了一整夜",
+        "onboard_time": 1670292586,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145189,
+        "num": 145189,
+        "word": "颜强说亚洲足球没进步",
+        "onboard_time": 1670304369,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142176,
+        "num": 142176,
+        "word": "党中央号召全党全军全国各族人民",
+        "onboard_time": 1670295969,
+        "rank": 29,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 135681,
+        "num": 135681,
+        "word": "北京堂食仍需48小时核酸",
+        "onboard_time": 1670292069,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135611,
+        "num": 135611,
+        "word": "巴西为什么被称为足球王国",
+        "onboard_time": 1670289729,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123266,
+        "num": 123266,
+        "word": "醉驾男遇上碰瓷女双双被拘",
+        "onboard_time": 1670299930,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121963,
+        "num": 121963,
+        "word": "何超琼说爱国是家训",
+        "onboard_time": 1670292882,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120707,
+        "num": 120707,
+        "word": "山东人的早餐标准有多高",
+        "onboard_time": 1670291470,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 117444,
+        "num": 117444,
+        "word": "韩国队被打花了",
+        "onboard_time": 1670282947,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104035,
+        "num": 104035,
+        "word": "防空警报",
+        "onboard_time": 1670292764,
+        "rank": 36,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 102879,
+        "num": 102879,
+        "word": "女子收2万彩礼被退婚霸气还15万",
+        "onboard_time": 1670308509,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96973,
+        "num": 96973,
+        "word": "韩媒称巴西人只关心决赛对手是谁",
+        "onboard_time": 1670259430,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90478,
+        "num": 90478,
+        "word": "人民日报社论",
+        "onboard_time": 1670285468,
+        "rank": 39,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 90119,
+        "num": 90400,
+        "word": "25岁女生逗奶奶相亲认识84岁老头",
+        "onboard_time": 1670284626,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89320,
+        "num": 89632,
+        "word": "耐克正式与欧文解约",
+        "onboard_time": 1670288169,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88605,
+        "num": 88360,
+        "word": "脆弱群体感染奥密克戎怎么救治",
+        "onboard_time": 1670307549,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87257,
+        "num": 88190,
+        "word": "居家上网课如何保护眼睛",
+        "onboard_time": 1670304789,
+        "rank": 43,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 82876,
+        "num": 86969,
+        "word": "零下40°C内蒙古神奇不冻河流水潺潺",
+        "onboard_time": 1670284327,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81778,
+        "num": 86325,
+        "word": "江苏疫情防控",
+        "onboard_time": 1670284665,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79889,
+        "num": 85932,
+        "word": "荣耀辟谣借壳上市",
+        "onboard_time": 1670307611,
+        "rank": 46,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 79221,
+        "num": 84858,
+        "word": "北京继续提供社会面免费核酸检测服务",
+        "onboard_time": 1670291529,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75927,
+        "num": 84201,
+        "word": "联合国秘书长吊唁江泽民",
+        "onboard_time": 1670298911,
+        "rank": 48,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 75736,
+        "num": 83301,
+        "word": "北京居民进入社区村可不扫码",
+        "onboard_time": 1670293389,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#江泽民同志永垂不朽#"
+    }
+  }
+}
