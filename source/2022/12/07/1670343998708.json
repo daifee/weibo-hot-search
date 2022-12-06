@@ -1,0 +1,410 @@
+{
+  "runTime": 1670343998708,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1062911,
+        "num": 1062911,
+        "word": "摩洛哥vs西班牙",
+        "onboard_time": 1670338390,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 464050,
+        "num": 464050,
+        "word": "奥密克戎毒力接近季节性流感",
+        "onboard_time": 1670312711,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184915,
+        "num": 463454,
+        "word": "药师详解奥密克戎轻症处理妙招",
+        "onboard_time": 1670333291,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1018644,
+        "num": 455583,
+        "word": "加维 帅",
+        "onboard_time": 1670340310,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 891825,
+        "num": 444494,
+        "word": "加维犯规",
+        "onboard_time": 1670341150,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 694520,
+        "num": 440008,
+        "word": "孙继海说C罗今晚回家",
+        "onboard_time": 1670336829,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 518028,
+        "num": 435059,
+        "word": "摩洛哥半场0比0西班牙",
+        "onboard_time": 1670342170,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 490194,
+        "num": 424280,
+        "word": "西班牙球衣 好看",
+        "onboard_time": 1670340189,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 480172,
+        "num": 420507,
+        "word": "世界杯裁判",
+        "onboard_time": 1670342350,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 417523,
+        "num": 417523,
+        "word": "姆巴佩梅西C罗250球所用场次对比",
+        "onboard_time": 1670339411,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 506195,
+        "num": 416820,
+        "word": "女子减重340斤皮肤下垂如围裙",
+        "onboard_time": 1670326089,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 414757,
+        "num": 414757,
+        "word": "4岁女孩误吞61颗磁力珠致肠穿孔",
+        "onboard_time": 1670340611,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 400952,
+        "num": 400952,
+        "word": "以岭药业新专利可制作含连花清瘟口罩",
+        "onboard_time": 1670331012,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365483,
+        "num": 365483,
+        "word": "3中国人在尼泊尔打斗致1死1伤",
+        "onboard_time": 1670333651,
+        "rank": 13,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 314555,
+        "num": 314555,
+        "word": "女子隔离7天2只猫独自在家拆家",
+        "onboard_time": 1670334131,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312591,
+        "num": 312591,
+        "word": "6男子吃鸡时打架留下2人只愿AA",
+        "onboard_time": 1670335571,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308702,
+        "num": 308702,
+        "word": "20岁女生有1个妹妹再喜提双胞胎弟弟",
+        "onboard_time": 1670321230,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305690,
+        "num": 305690,
+        "word": "连花清瘟胶囊涨价超3倍",
+        "onboard_time": 1670330110,
+        "rank": 17,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 278186,
+        "num": 278186,
+        "word": "男子徒手掰坏劳斯莱斯小金人",
+        "onboard_time": 1670342050,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267475,
+        "num": 267475,
+        "word": "蒙古国示威者试图冲击国家宫",
+        "onboard_time": 1670334429,
+        "rank": 19,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 266524,
+        "num": 266524,
+        "word": "广州16万感染者仅4例重症",
+        "onboard_time": 1670319249,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254970,
+        "num": 254970,
+        "word": "连花清瘟线上线下差价50元",
+        "onboard_time": 1670342111,
+        "rank": 21,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 233993,
+        "num": 233993,
+        "word": "大四男生晒一家三口幸福视频",
+        "onboard_time": 1670337789,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232889,
+        "num": 232889,
+        "word": "广州疫情政策调整后就诊人数并无大幅增加",
+        "onboard_time": 1670332030,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197036,
+        "num": 197036,
+        "word": "警方通报女子遭泼墨捆绑殴打",
+        "onboard_time": 1670337371,
+        "rank": 24,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 195851,
+        "num": 195851,
+        "word": "小胖闯非洲",
+        "onboard_time": 1670329990,
+        "rank": 25,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 172505,
+        "num": 172505,
+        "word": "内马尔把全场最佳颁给拉菲尼亚",
+        "onboard_time": 1670341870,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164205,
+        "num": 164205,
+        "word": "阳性病例现在主要是上呼吸道症状",
+        "onboard_time": 1670317030,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156334,
+        "num": 156334,
+        "word": "婚姻中如何保持爱和吸引",
+        "onboard_time": 1670341450,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 144554,
+        "num": 144554,
+        "word": "北京每日投放连花清瘟40万盒",
+        "onboard_time": 1670336652,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140748,
+        "num": 140748,
+        "word": "男生受伤深夜静音式在宿舍消毒",
+        "onboard_time": 1670339710,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134396,
+        "num": 134396,
+        "word": "超八成巴西球员月收入低于1350元",
+        "onboard_time": 1670323629,
+        "rank": 31,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 129037,
+        "num": 129037,
+        "word": "高校跳舞考试动作没感情全是技巧",
+        "onboard_time": 1670343550,
+        "rank": 32,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 127477,
+        "num": 127477,
+        "word": "儿童新冠发病7日图",
+        "onboard_time": 1670333889,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120473,
+        "num": 120473,
+        "word": "山东人都是饺子籍",
+        "onboard_time": 1670330529,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118911,
+        "num": 118911,
+        "word": "用小太阳取暖千万别离太近",
+        "onboard_time": 1670342650,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115421,
+        "num": 115421,
+        "word": "北京增本土感染者1431例",
+        "onboard_time": 1670332269,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114428,
+        "num": 114428,
+        "word": "浙江将组织1万家企业出国参加经贸活动",
+        "onboard_time": 1670327949,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112228,
+        "num": 112228,
+        "word": "新冠康复日记",
+        "onboard_time": 1670342530,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111243,
+        "num": 111243,
+        "word": "特斯拉市值一夜蒸发2729亿元",
+        "onboard_time": 1670321830,
+        "rank": 39,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 111194,
+        "num": 111194,
+        "word": "广州明确核酸频次不与健康码颜色关联",
+        "onboard_time": 1670331910,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108603,
+        "num": 108603,
+        "word": "加维成世界杯历史淘汰赛第二年轻球员",
+        "onboard_time": 1670343011,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106546,
+        "num": 106546,
+        "word": "全国下半旗志哀",
+        "onboard_time": 1670322430,
+        "rank": 42,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 100844,
+        "num": 100844,
+        "word": "C罗仍希望加盟欧冠球队",
+        "onboard_time": 1670322310,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100382,
+        "num": 100382,
+        "word": "庐山和雪有多配",
+        "onboard_time": 1670338629,
+        "rank": 44,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 99858,
+        "num": 99858,
+        "word": "双十二到了双十一快递还没收到货",
+        "onboard_time": 1670321110,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 98125,
+        "num": 98125,
+        "word": "摩洛哥足球 纯粹",
+        "onboard_time": 1670343370,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88459,
+        "num": 88459,
+        "word": "巴西是唯一每届世界杯都参加的国家",
+        "onboard_time": 1670318110,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 84898,
+        "num": 84898,
+        "word": "久违了欢迎回家过年",
+        "onboard_time": 1670343909,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83425,
+        "num": 83425,
+        "word": "新冠抗原自测标准做法",
+        "onboard_time": 1670336829,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#江泽民同志永垂不朽#"
+    }
+  }
+}

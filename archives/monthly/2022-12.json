@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1670340945656,
+  "endTime": 1670343998708,
   "band_list": [
     {
       "raw_hot": 8354155,
@@ -1291,6 +1291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1062911,
+      "num": 1062911,
+      "word": "摩洛哥vs西班牙",
+      "onboard_time": 1670338390,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1062230,
       "num": 1629426,
       "word": "爷爷怕孙子孙媳不来住提前装WiFi",
@@ -1384,6 +1392,14 @@
       "word": "C罗让韩国球员闭嘴",
       "onboard_time": 1670031489,
       "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1018644,
+      "num": 455583,
+      "word": "加维 帅",
+      "onboard_time": 1670340310,
+      "rank": 21,
       "category": "体育"
     },
     {
@@ -1496,14 +1512,6 @@
       "word": "梅西错失点球",
       "onboard_time": 1669838468,
       "rank": 4,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 953263,
-      "num": 702176,
-      "word": "摩洛哥vs西班牙",
-      "onboard_time": 1670338390,
-      "rank": 5,
       "category": "体育"
     },
     {
@@ -1656,6 +1664,14 @@
       "word": "摄影师发现内马尔后的反应",
       "onboard_time": 1670215116,
       "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 891825,
+      "num": 444494,
+      "word": "加维犯规",
+      "onboard_time": 1670341150,
+      "rank": 4,
       "category": "体育"
     },
     {
@@ -3571,6 +3587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 518028,
+      "num": 435059,
+      "word": "摩洛哥半场0比0西班牙",
+      "onboard_time": 1670342170,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 517757,
       "num": 794848,
       "word": "美国新一代B21轰炸机首次公开",
@@ -3723,6 +3747,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 490194,
+      "num": 424280,
+      "word": "西班牙球衣 好看",
+      "onboard_time": 1670340189,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 488569,
       "num": 488569,
       "word": "低温烫伤可导致皮肤深层组织坏死",
@@ -3753,6 +3785,14 @@
       "onboard_time": 1669804610,
       "rank": 19,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 480172,
+      "num": 420507,
+      "word": "世界杯裁判",
+      "onboard_time": 1670342350,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 479831,
@@ -4291,6 +4331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 417523,
+      "num": 417523,
+      "word": "姆巴佩梅西C罗250球所用场次对比",
+      "onboard_time": 1670339411,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 416989,
       "num": 416989,
       "word": "梅西晒与妻子合影秀恩爱",
@@ -4320,6 +4368,14 @@
       "word": "违法行为不能仅批评教育了事",
       "onboard_time": 1669989492,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 414757,
+      "num": 414757,
+      "word": "4岁女孩误吞61颗磁力珠致肠穿孔",
+      "onboard_time": 1670340611,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -6043,12 +6099,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 277528,
-      "num": 277528,
-      "word": "西班牙球衣 好看",
-      "onboard_time": 1670340189,
-      "rank": 19,
-      "category": "体育"
+      "raw_hot": 278186,
+      "num": 278186,
+      "word": "男子徒手掰坏劳斯莱斯小金人",
+      "onboard_time": 1670342050,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 277426,
@@ -6323,14 +6379,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 262163,
-      "num": 262163,
-      "word": "姆巴佩梅西C罗250球所用场次对比",
-      "onboard_time": 1670339411,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 261457,
       "num": 261457,
       "word": "猫咪单爪熟练旋开存粮桶欲偷吃",
@@ -6345,14 +6393,6 @@
       "onboard_time": 1670331910,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 260786,
-      "num": 260786,
-      "word": "加维 帅",
-      "onboard_time": 1670340310,
-      "rank": 21,
-      "category": "体育"
     },
     {
       "raw_hot": 260037,
@@ -6433,6 +6473,14 @@
       "onboard_time": 1670291529,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 254970,
+      "num": 254970,
+      "word": "连花清瘟线上线下差价50元",
+      "onboard_time": 1670342111,
+      "rank": 21,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 254814,
@@ -8171,6 +8219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 172505,
+      "num": 172505,
+      "word": "内马尔把全场最佳颁给拉菲尼亚",
+      "onboard_time": 1670341870,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 171876,
       "num": 1853060,
       "word": "假如C罗当了主教练",
@@ -8633,6 +8689,14 @@
       "onboard_time": 1669809798,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 156334,
+      "num": 156334,
+      "word": "婚姻中如何保持爱和吸引",
+      "onboard_time": 1670341450,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 155601,
@@ -9523,6 +9587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129037,
+      "num": 129037,
+      "word": "高校跳舞考试动作没感情全是技巧",
+      "onboard_time": 1670343550,
+      "rank": 32,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 128456,
       "num": 128456,
       "word": "克罗地亚vs比利时首发",
@@ -9939,6 +10011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 118911,
+      "num": 118911,
+      "word": "用小太阳取暖千万别离太近",
+      "onboard_time": 1670342650,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 118810,
       "num": 323693,
       "word": "阿根廷半场1比0澳大利亚",
@@ -10211,6 +10291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 112228,
+      "num": 112228,
+      "word": "新冠康复日记",
+      "onboard_time": 1670342530,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 112016,
       "num": 451928,
       "word": "神十五与木星同框",
@@ -10403,12 +10491,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 108674,
-      "num": 108674,
-      "word": "4岁女孩误吞61颗磁力珠致肠穿孔",
-      "onboard_time": 1670340611,
-      "rank": 46,
-      "category": "社会新闻"
+      "raw_hot": 108603,
+      "num": 108603,
+      "word": "加维成世界杯历史淘汰赛第二年轻球员",
+      "onboard_time": 1670343011,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 108586,
@@ -10899,6 +10987,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 98125,
+      "num": 98125,
+      "word": "摩洛哥足球 纯粹",
+      "onboard_time": 1670343370,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 97684,
       "num": 483879,
       "word": "库里19分11篮板",
@@ -11321,6 +11417,14 @@
       "onboard_time": 1670066890,
       "rank": 47,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 84898,
+      "num": 84898,
+      "word": "久违了欢迎回家过年",
+      "onboard_time": 1670343909,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 84159,
