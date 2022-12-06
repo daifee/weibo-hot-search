@@ -1,10 +1,10 @@
 {
   "startTime": 1670343998708,
-  "endTime": 1670348049816,
+  "endTime": 1670351027131,
   "band_list": [
     {
-      "raw_hot": 1066170,
-      "num": 1066170,
+      "raw_hot": 1189894,
+      "num": 1189894,
       "word": "摩洛哥vs西班牙",
       "onboard_time": 1670338390,
       "rank": 0,
@@ -19,11 +19,43 @@
       "category": "体育"
     },
     {
+      "raw_hot": 952582,
+      "num": 952582,
+      "word": "摩洛哥足球 纯粹",
+      "onboard_time": 1670343370,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 950993,
+      "num": 950993,
+      "word": "摩洛哥3比0西班牙",
+      "onboard_time": 1670350449,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 891825,
       "num": 559166,
       "word": "加维犯规",
       "onboard_time": 1670341150,
       "rank": 4,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 882561,
+      "num": 882561,
+      "word": "加维都摔绿了",
+      "onboard_time": 1670348468,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 723256,
+      "num": 723256,
+      "word": "西班牙教练表情",
+      "onboard_time": 1670346612,
+      "rank": 39,
       "category": "体育"
     },
     {
@@ -67,6 +99,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 518781,
+      "num": 518781,
+      "word": "摩洛哥点球战胜西班牙",
+      "onboard_time": 1670349129,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 508207,
+      "num": 508207,
+      "word": "葡萄牙首发",
+      "onboard_time": 1670349129,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 506195,
       "num": 416820,
       "word": "女子减重340斤皮肤下垂如围裙",
@@ -91,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 470498,
+      "num": 470498,
+      "word": "西班牙传控",
+      "onboard_time": 1670344328,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 464050,
       "num": 464050,
       "word": "奥密克戎毒力接近季节性流感",
@@ -99,18 +155,18 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 457895,
-      "num": 457895,
-      "word": "摩洛哥足球 纯粹",
-      "onboard_time": 1670343370,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 417523,
       "num": 417523,
       "word": "姆巴佩梅西C罗250球所用场次对比",
       "onboard_time": 1670339411,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 406099,
+      "num": 406099,
+      "word": "摩洛哥晋级8强",
+      "onboard_time": 1670349129,
       "rank": 9,
       "category": "体育"
     },
@@ -123,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 380234,
+      "num": 380234,
+      "word": "葡萄牙vs瑞士",
+      "onboard_time": 1670349129,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 365483,
       "num": 365483,
       "word": "3中国人在尼泊尔打斗致1死1伤",
@@ -131,11 +195,11 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 338155,
-      "num": 338155,
-      "word": "西班牙传控",
-      "onboard_time": 1670344328,
-      "rank": 28,
+      "raw_hot": 329505,
+      "num": 329505,
+      "word": "点球大战",
+      "onboard_time": 1670348410,
+      "rank": 11,
       "category": "体育"
     },
     {
@@ -244,11 +308,19 @@
     },
     {
       "raw_hot": 184915,
-      "num": 582282,
+      "num": 951582,
       "word": "药师详解奥密克戎轻症处理妙招",
       "onboard_time": 1670333291,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 173511,
+      "num": 80673,
+      "word": "C罗对阵瑞士无缘首发",
+      "onboard_time": 1670350690,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 164205,
@@ -291,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 146675,
+      "num": 146675,
+      "word": "摩洛哥门将",
+      "onboard_time": 1670349548,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 144554,
       "num": 144554,
       "word": "北京每日投放连花清瘟40万盒",
@@ -307,20 +387,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 135511,
+      "num": 135511,
+      "word": "勺子点球",
+      "onboard_time": 1670350568,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 134396,
       "num": 134396,
       "word": "超八成巴西球员月收入低于1350元",
       "onboard_time": 1670323629,
       "rank": 31,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 134388,
-      "num": 134388,
-      "word": "西班牙教练表情",
-      "onboard_time": 1670346612,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 127477,
@@ -411,8 +491,8 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 100844,
-      "num": 100844,
+      "raw_hot": 104812,
+      "num": 104812,
       "word": "C罗仍希望加盟欧冠球队",
       "onboard_time": 1670322310,
       "rank": 43,
@@ -472,6 +552,14 @@
       "word": "布努神扑",
       "onboard_time": 1670346248,
       "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 46275,
+      "num": 46275,
+      "word": "曼联为葡萄牙队加油",
+      "onboard_time": 1670350268,
+      "rank": 43,
       "category": "体育"
     }
   ],
