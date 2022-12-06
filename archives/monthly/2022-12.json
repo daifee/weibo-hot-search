@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1670351867199,
+  "endTime": 1670354107579,
   "band_list": [
     {
       "raw_hot": 8354155,
@@ -1601,6 +1601,14 @@
       "onboard_time": 1670301730,
       "rank": 11,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 931615,
+      "num": 931615,
+      "word": "C罗对阵瑞士无缘首发",
+      "onboard_time": 1670350690,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 929762,
@@ -6411,14 +6419,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 267007,
-      "num": 267007,
-      "word": "C罗对阵瑞士无缘首发",
-      "onboard_time": 1670350690,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 266328,
       "num": 266328,
       "word": "外交部回应美发表中国军力报告",
@@ -7955,6 +7955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 182396,
+      "num": 182396,
+      "word": "勺子点球",
+      "onboard_time": 1670350568,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 182155,
       "num": 182155,
       "word": "罗纳尔多当年有多强",
@@ -9136,14 +9144,6 @@
       "word": "湖人战胜开拓者",
       "onboard_time": 1669874711,
       "rank": 35,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 145350,
-      "num": 145350,
-      "word": "勺子点球",
-      "onboard_time": 1670350568,
-      "rank": 20,
       "category": "体育"
     },
     {
@@ -11531,6 +11531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 85968,
+      "num": 44452,
+      "word": "西班牙连续三届世界杯无缘8强",
+      "onboard_time": 1670353210,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 85659,
       "num": 85659,
       "word": "警方回应男子爬行拦车哭着说不活了",
@@ -12051,6 +12059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 33022,
+      "num": 33022,
+      "word": "西班牙队本场状态",
+      "onboard_time": 1670353507,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 32360,
       "num": 1405483,
       "word": "源力使者 聚光向前",
@@ -12099,19 +12115,19 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 28361,
+      "num": 44608,
+      "word": "德容说没有方法能够阻止梅西",
+      "onboard_time": 1670351649,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 28317,
       "num": 179901,
       "word": "格纳布里头球破门",
       "onboard_time": 1669925226,
       "rank": 31,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 18883,
-      "num": 44608,
-      "word": "德容说没有方法能够阻止梅西",
-      "onboard_time": 1670351649,
-      "rank": 48,
       "category": "体育"
     },
     {

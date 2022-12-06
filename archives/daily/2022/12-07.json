@@ -1,6 +1,6 @@
 {
   "startTime": 1670343998708,
-  "endTime": 1670351867199,
+  "endTime": 1670354107579,
   "band_list": [
     {
       "raw_hot": 1189894,
@@ -32,6 +32,14 @@
       "word": "摩洛哥3比0西班牙",
       "onboard_time": 1670350449,
       "rank": 3,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 931615,
+      "num": 931615,
+      "word": "C罗对阵瑞士无缘首发",
+      "onboard_time": 1670350690,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -259,14 +267,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 267007,
-      "num": 267007,
-      "word": "C罗对阵瑞士无缘首发",
-      "onboard_time": 1670350690,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 266524,
       "num": 266524,
       "word": "广州16万感染者仅4例重症",
@@ -323,6 +323,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 182396,
+      "num": 182396,
+      "word": "勺子点球",
+      "onboard_time": 1670350568,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 164205,
       "num": 164205,
       "word": "阳性病例现在主要是上呼吸道症状",
@@ -368,14 +376,6 @@
       "word": "摩洛哥门将",
       "onboard_time": 1670349548,
       "rank": 17,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 145350,
-      "num": 145350,
-      "word": "勺子点球",
-      "onboard_time": 1670350568,
-      "rank": 20,
       "category": "体育"
     },
     {
@@ -539,6 +539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 85968,
+      "num": 44452,
+      "word": "西班牙连续三届世界杯无缘8强",
+      "onboard_time": 1670353210,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 83425,
       "num": 83425,
       "word": "新冠抗原自测标准做法",
@@ -563,7 +571,15 @@
       "category": "体育"
     },
     {
-      "raw_hot": 18883,
+      "raw_hot": 33022,
+      "num": 33022,
+      "word": "西班牙队本场状态",
+      "onboard_time": 1670353507,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 28361,
       "num": 44608,
       "word": "德容说没有方法能够阻止梅西",
       "onboard_time": 1670351649,
