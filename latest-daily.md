@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/12/07 00:26:38 ~ 2022/12/07 04:19:00
+本榜单时间：2022/12/07 00:26:38 ~ 2022/12/07 04:33:37
 </p>
 </blockquote>
 <p>
@@ -237,6 +237,12 @@ C罗对阵瑞士无缘首发（热度：947533）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23C%E7%BD%97%E8%BF%9E%E7%BB%AD31%E5%9C%BA%E9%A6%96%E5%8F%91%E7%BA%AA%E5%BD%95%E7%BB%88%E7%BB%93%23" target="weibo">
+C罗连续31场首发纪录终结（热度：214887）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A5%B3%E5%AD%90%E9%81%AD%E6%B3%BC%E5%A2%A8%E6%8D%86%E7%BB%91%E6%AE%B4%E6%89%93%23" target="weibo">
 警方通报女子遭泼墨捆绑殴打（热度：197036）
 </a>
@@ -305,12 +311,6 @@ C罗对阵瑞士无缘首发（热度：947533）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E5%8F%97%E4%BC%A4%E6%B7%B1%E5%A4%9C%E9%9D%99%E9%9F%B3%E5%BC%8F%E5%9C%A8%E5%AE%BF%E8%88%8D%E6%B6%88%E6%AF%92%23" target="weibo">
 男生受伤深夜静音式在宿舍消毒（热度：140748）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23C%E7%BD%97%E8%BF%9E%E7%BB%AD31%E5%9C%BA%E9%A6%96%E5%8F%91%E7%BA%AA%E5%BD%95%E7%BB%88%E7%BB%93%23" target="weibo">
-C罗连续31场首发纪录终结（热度：136436）
 </a>
 </li>
 
@@ -412,7 +412,7 @@ C罗仍希望加盟欧冠球队（热度：104812）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E7%8F%AD%E7%89%99%E9%98%9F%E6%9C%AC%E5%9C%BA%E7%8A%B6%E6%80%81%23" target="weibo">
-西班牙队本场状态（热度：92821）
+西班牙队本场状态（热度：95842）
 </a>
 </li>
 
