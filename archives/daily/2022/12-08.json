@@ -1,6 +1,6 @@
 {
   "startTime": 1670430424869,
-  "endTime": 1670438311210,
+  "endTime": 1670440522791,
   "band_list": [
     {
       "raw_hot": 1887733,
@@ -443,8 +443,16 @@
       "category": "影视"
     },
     {
-      "raw_hot": 32063,
-      "num": 32063,
+      "raw_hot": 49634,
+      "num": 31191,
+      "word": "世界杯身价暴涨的球员",
+      "onboard_time": 1670438350,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 43444,
+      "num": 43444,
       "word": "感染后出现哪些症状需到医院就诊",
       "onboard_time": 1670436429,
       "rank": 49,
