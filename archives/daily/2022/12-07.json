@@ -1,6 +1,6 @@
 {
   "startTime": 1670343998708,
-  "endTime": 1670378747252,
+  "endTime": 1670381503943,
   "band_list": [
     {
       "raw_hot": 3747876,
@@ -17,6 +17,14 @@
       "onboard_time": 1670360408,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1865247,
+      "num": 1865247,
+      "word": "2023年元旦放假安排来了",
+      "onboard_time": 1670376070,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1792940,
@@ -57,6 +65,14 @@
       "onboard_time": 1670340310,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 976710,
+      "num": 464687,
+      "word": "金毛眼球被抠流落街头被救后离世",
+      "onboard_time": 1670377570,
+      "rank": 13,
+      "category": "社会负面"
     },
     {
       "raw_hot": 952582,
@@ -123,14 +139,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 748361,
-      "num": 748361,
-      "word": "2023年元旦放假安排来了",
-      "onboard_time": 1670376070,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 730413,
       "num": 730413,
       "word": "C罗说这是不可思议的一天",
@@ -187,6 +195,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 607274,
+      "num": 607274,
+      "word": "专家建议新冠肺炎应改称新冠病毒传染病",
+      "onboard_time": 1670379339,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 572383,
+      "num": 460994,
+      "word": "AppStore应用最高定价74999元",
+      "onboard_time": 1670379339,
+      "rank": 11,
+      "category": "科技"
+    },
+    {
       "raw_hot": 563457,
       "num": 563457,
       "word": "感染者中90%是无症状可居家隔离",
@@ -209,6 +233,14 @@
       "onboard_time": 1670346728,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 526813,
+      "num": 449103,
+      "word": "原神",
+      "onboard_time": 1670368266,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 518781,
@@ -251,28 +283,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 467855,
+      "num": 467855,
+      "word": "原来内马尔在对儿子比心",
+      "onboard_time": 1670376190,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 464050,
       "num": 464050,
       "word": "奥密克戎毒力接近季节性流感",
       "onboard_time": 1670312711,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 458653,
-      "num": 458653,
-      "word": "金毛眼球被抠流落街头被救后离世",
-      "onboard_time": 1670377570,
-      "rank": 13,
-      "category": "社会负面"
-    },
-    {
-      "raw_hot": 440479,
-      "num": 440479,
-      "word": "原来内马尔在对儿子比心",
-      "onboard_time": 1670376190,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 439188,
@@ -312,6 +336,14 @@
       "word": "久违了欢迎回家过年",
       "onboard_time": 1670343909,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 416048,
+      "num": 416048,
+      "word": "昆明一地要求非必要不返乡",
+      "onboard_time": 1670377570,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -387,14 +419,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 345609,
-      "num": 345609,
-      "word": "原神",
-      "onboard_time": 1670368266,
-      "rank": 29,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 329505,
       "num": 329505,
       "word": "点球大战",
@@ -443,6 +467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 306083,
+      "num": 306083,
+      "word": "范志毅说C罗替补是好事",
+      "onboard_time": 1670379851,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 305690,
       "num": 305690,
       "word": "连花清瘟胶囊涨价超3倍",
@@ -483,14 +515,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 271568,
-      "num": 271568,
-      "word": "昆明一地要求非必要不返乡",
-      "onboard_time": 1670377570,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 267475,
       "num": 267475,
       "word": "蒙古国示威者试图冲击国家宫",
@@ -507,8 +531,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 257286,
+      "num": 257286,
+      "word": "男孩时隔4个月见父母礼貌喊叔叔",
+      "onboard_time": 1670378412,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 253407,
-      "num": 1300465,
+      "num": 1330436,
       "word": "药师详解奥密克戎轻症处理妙招",
       "onboard_time": 1670333291,
       "rank": 2,
@@ -571,6 +603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 214561,
+      "num": 214561,
+      "word": "男子醉驾致2死1伤却浑然不知",
+      "onboard_time": 1670380571,
+      "rank": 25,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 200384,
       "num": 200384,
       "word": "大雪节气意味着什么",
@@ -619,6 +659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 174399,
+      "num": 174399,
+      "word": "苹果将推出类似卡拉OK功能",
+      "onboard_time": 1670380632,
+      "rank": 28,
+      "category": "科技"
+    },
+    {
       "raw_hot": 169060,
       "num": 169060,
       "word": "西班牙连续三届世界杯无缘8强",
@@ -659,20 +707,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 156221,
+      "num": 156221,
+      "word": "苹果汽车计划2026年推出",
+      "onboard_time": 1670377450,
+      "rank": 34,
+      "category": "科技"
+    },
+    {
       "raw_hot": 156215,
       "num": 156215,
       "word": "男子掰坏豪车车主称维修费27万",
       "onboard_time": 1670369166,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 156077,
-      "num": 156077,
-      "word": "苹果汽车计划2026年推出",
-      "onboard_time": 1670377450,
-      "rank": 34,
-      "category": "科技"
     },
     {
       "raw_hot": 154822,
@@ -739,11 +787,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 135553,
-      "num": 135553,
-      "word": "男孩时隔4个月见父母礼貌喊叔叔",
-      "onboard_time": 1670378412,
-      "rank": 43,
+      "raw_hot": 135421,
+      "num": 135421,
+      "word": "大雪是冬季的第三个节气",
+      "onboard_time": 1670380151,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -771,11 +819,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 129441,
+      "num": 129441,
+      "word": "C罗和佩佩跨越20年的神仙友情",
+      "onboard_time": 1670380151,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 127477,
       "num": 127477,
       "word": "儿童新冠发病7日图",
       "onboard_time": 1670333889,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 126524,
+      "num": 126524,
+      "word": "全盲女子6年教会数千名盲女孩化妆",
+      "onboard_time": 1670380991,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -811,12 +875,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 119415,
+      "num": 119415,
+      "word": "C罗否认加盟沙特球队",
+      "onboard_time": 1670381351,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 118911,
       "num": 118911,
       "word": "用小太阳取暖千万别离太近",
       "onboard_time": 1670342650,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 118735,
+      "num": 118735,
+      "word": "2022乒乓球世青赛",
+      "onboard_time": 1670381292,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 118690,
@@ -867,6 +947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 114790,
+      "num": 114790,
+      "word": "iPhone电池保养小技巧",
+      "onboard_time": 1670381471,
+      "rank": 47,
+      "category": "科技"
+    },
+    {
       "raw_hot": 114428,
       "num": 114428,
       "word": "浙江将组织1万家企业出国参加经贸活动",
@@ -904,6 +992,14 @@
       "word": "广州明确核酸频次不与健康码颜色关联",
       "onboard_time": 1670331910,
       "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 108279,
+      "num": 108279,
+      "word": "47岁交警为保护战友被撞牺牲",
+      "onboard_time": 1670380389,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
