@@ -1,0 +1,410 @@
+{
+  "runTime": 1670411735640,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3078395,
+        "num": 3078395,
+        "word": "健康码",
+        "onboard_time": 1670395093,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2311363,
+        "num": 2311363,
+        "word": "完全恢复到疫情前需要哪些条件",
+        "onboard_time": 1670400914,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224085,
+        "num": 1572724,
+        "word": "防控措施有了这些新优化",
+        "onboard_time": 1670392993,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1497388,
+        "num": 1497388,
+        "word": "田曦薇白敬亭互关了",
+        "onboard_time": 1670408773,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1447562,
+        "num": 1447562,
+        "word": "卡塔尔已经开始拆球场了",
+        "onboard_time": 1670400494,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 874865,
+        "num": 874865,
+        "word": "阿凡达2票价你能接受吗",
+        "onboard_time": 1670404872,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 727540,
+        "num": 727540,
+        "word": "考研生赴考困难可申请借考",
+        "onboard_time": 1670402952,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 662187,
+        "num": 662187,
+        "word": "地铁取消核酸查验首日情况如何",
+        "onboard_time": 1670407692,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 636021,
+        "num": 636021,
+        "word": "爱的二八定律",
+        "onboard_time": 1670409253,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 451864,
+        "num": 451864,
+        "word": "猫咪绝育后骂骂咧咧看到主人秒委屈",
+        "onboard_time": 1670404872,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 685460,
+        "num": 446029,
+        "word": "上海一商场工人吊装玻璃时坠亡",
+        "onboard_time": 1670410273,
+        "rank": 10,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 542466,
+        "num": 442440,
+        "word": "叶婷",
+        "onboard_time": 1670397553,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 464870,
+        "num": 440318,
+        "word": "马云卸任浙商总会会长",
+        "onboard_time": 1670404633,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 437434,
+        "num": 437434,
+        "word": "环球港",
+        "onboard_time": 1670406133,
+        "rank": 13,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 436033,
+        "num": 436033,
+        "word": "众星为胡歌新剧打call",
+        "onboard_time": 1670410933,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 425567,
+        "num": 425567,
+        "word": "男子熟睡时疑被老鼠咬破头",
+        "onboard_time": 1670394133,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 409728,
+        "num": 409728,
+        "word": "你准备出去浪吗",
+        "onboard_time": 1670401814,
+        "rank": 16,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 390383,
+        "num": 390383,
+        "word": "考研人到底有多努力",
+        "onboard_time": 1670410152,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 369573,
+        "num": 369573,
+        "word": "上海进入餐饮场所仍须查48小时核酸",
+        "onboard_time": 1670409733,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348756,
+        "num": 348756,
+        "word": "羽绒服会让安全座椅失效",
+        "onboard_time": 1670407033,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 320538,
+        "num": 320538,
+        "word": "新十条不是完全放开不防是主动优化",
+        "onboard_time": 1670406252,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289660,
+        "num": 289660,
+        "word": "上海迪士尼乐园12月8日起重新开放",
+        "onboard_time": 1670406372,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264038,
+        "num": 264038,
+        "word": "广州白云机场不再查验核酸健康码",
+        "onboard_time": 1670409897,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263158,
+        "num": 263158,
+        "word": "分享欲本身就是偏爱",
+        "onboard_time": 1670403193,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 262195,
+        "num": 262195,
+        "word": "男子花13元吃饭米线只有数根",
+        "onboard_time": 1670396233,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254425,
+        "num": 254425,
+        "word": "新十条",
+        "onboard_time": 1670393054,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233445,
+        "num": 233445,
+        "word": "北理工通报方岱宁相关视频事件",
+        "onboard_time": 1670395034,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230303,
+        "num": 230303,
+        "word": "央视2023电视剧片单",
+        "onboard_time": 1670408473,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 207829,
+        "num": 207829,
+        "word": "这孟婆汤是掺水了吧",
+        "onboard_time": 1670406072,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 203655,
+        "num": 203655,
+        "word": "李薇越来越有正夫人的气势了",
+        "onboard_time": 1670407394,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 202611,
+        "num": 202611,
+        "word": "人民网评风吹半夏现实激励意义",
+        "onboard_time": 1670403616,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 201975,
+        "num": 201975,
+        "word": "iPhone15折叠屏渲染图曝光",
+        "onboard_time": 1670395513,
+        "rank": 31,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 200811,
+        "num": 200811,
+        "word": "2023考研时间",
+        "onboard_time": 1670404513,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 199404,
+        "num": 199404,
+        "word": "比利时队长阿扎尔退出国家队",
+        "onboard_time": 1670409973,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197144,
+        "num": 197144,
+        "word": "柯南新剧场版预热特别篇预告",
+        "onboard_time": 1670403493,
+        "rank": 34,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 197115,
+        "num": 197115,
+        "word": "这个春节可以回家过年吗",
+        "onboard_time": 1670411352,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193462,
+        "num": 193462,
+        "word": "卡塔尔小王子秀C罗同款手势",
+        "onboard_time": 1670403792,
+        "rank": 36,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 189095,
+        "num": 189095,
+        "word": "许半夏嘴上在怼眼睛在哭",
+        "onboard_time": 1670410817,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 183774,
+        "num": 183774,
+        "word": "女子20多年子宫肌瘤大似苹果拒手术",
+        "onboard_time": 1670398632,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183003,
+        "num": 183003,
+        "word": "购火车票乘车停止查验核酸证明",
+        "onboard_time": 1670400733,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181549,
+        "num": 181549,
+        "word": "杭州东站不再查看健康码",
+        "onboard_time": 1670408535,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177410,
+        "num": 177410,
+        "word": "紧急患者有无核酸结果医疗需求都应满足",
+        "onboard_time": 1670410873,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173425,
+        "num": 173425,
+        "word": "梅西来中国只为见他一面",
+        "onboard_time": 1670391793,
+        "rank": 42,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 170566,
+        "num": 170566,
+        "word": "尼泊尔遇害主播家属回应",
+        "onboard_time": 1670396475,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168849,
+        "num": 168849,
+        "word": "县委大院全员变装",
+        "onboard_time": 1670407219,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 168448,
+        "num": 168448,
+        "word": "C罗有事儿佩佩真上啊",
+        "onboard_time": 1670398693,
+        "rank": 45,
+        "category": "体育,幽默"
+      },
+      {
+        "raw_hot": 162154,
+        "num": 162154,
+        "word": "王子异雅加达音乐节舞台",
+        "onboard_time": 1670411653,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 153824,
+        "num": 153824,
+        "word": "易炼红同志任浙江省委书记",
+        "onboard_time": 1670400794,
+        "rank": 47,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 150456,
+        "num": 150456,
+        "word": "叶冰艳",
+        "onboard_time": 1670411653,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149998,
+        "num": 149998,
+        "word": "33岁女子怀孕36周仍坚持健身",
+        "onboard_time": 1670384951,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央政治局会议要求优化疫情防控措施#"
+    }
+  }
+}
