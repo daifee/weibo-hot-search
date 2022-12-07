@@ -1,0 +1,410 @@
+{
+  "runTime": 1670387956565,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1857585,
+        "num": 1857585,
+        "word": "33岁女子怀孕36周仍坚持健身",
+        "onboard_time": 1670384951,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1363033,
+        "num": 1363033,
+        "word": "专家建议新冠肺炎应改称新冠病毒传染病",
+        "onboard_time": 1670379339,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87332,
+        "num": 1187697,
+        "word": "药师详解奥密克戎轻症处理妙招",
+        "onboard_time": 1670333291,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1173835,
+        "num": 1173835,
+        "word": "2023年元旦放假安排来了",
+        "onboard_time": 1670376070,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1032605,
+        "num": 1032605,
+        "word": "卡塔尔世界杯惊现唐僧",
+        "onboard_time": 1670383572,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 877704,
+        "num": 877704,
+        "word": "iPhone电池保养小技巧",
+        "onboard_time": 1670381471,
+        "rank": 5,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 725956,
+        "num": 725956,
+        "word": "卡塔尔世界杯8强出炉",
+        "onboard_time": 1670368626,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 536716,
+        "num": 536716,
+        "word": "肖四",
+        "onboard_time": 1670387231,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 507164,
+        "num": 507164,
+        "word": "网红触电身亡父母索赔121万",
+        "onboard_time": 1670370488,
+        "rank": 8,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 505474,
+        "num": 505474,
+        "word": "幼童独自在28楼天台边沿奔跑",
+        "onboard_time": 1670383332,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 623719,
+        "num": 477947,
+        "word": "金毛眼球被抠流落街头被救后离世",
+        "onboard_time": 1670377570,
+        "rank": 10,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 410552,
+        "num": 410552,
+        "word": "昆明一地要求非必要不返乡",
+        "onboard_time": 1670377570,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 385429,
+        "num": 385429,
+        "word": "三胞胎妈妈再怀孕婆婆支持",
+        "onboard_time": 1670370426,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384683,
+        "num": 384683,
+        "word": "健康上报",
+        "onboard_time": 1670383213,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 381586,
+        "num": 381586,
+        "word": "C罗说这是不可思议的一天",
+        "onboard_time": 1670373849,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 334079,
+        "num": 334079,
+        "word": "男子醉驾致2死1伤却浑然不知",
+        "onboard_time": 1670380571,
+        "rank": 15,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 331971,
+        "num": 331971,
+        "word": "有锁iPhone14被国内破解",
+        "onboard_time": 1670386751,
+        "rank": 16,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 330131,
+        "num": 330131,
+        "word": "AppStore应用最高定价74999元",
+        "onboard_time": 1670379339,
+        "rank": 17,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 329838,
+        "num": 329838,
+        "word": "业主发现锅炉工人室内还穿棉衣",
+        "onboard_time": 1670370188,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309660,
+        "num": 309660,
+        "word": "手机从26楼坠落7秒落地记录全过程",
+        "onboard_time": 1670372347,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280353,
+        "num": 280353,
+        "word": "连花清瘟线上线下差价50元",
+        "onboard_time": 1670342111,
+        "rank": 20,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 274949,
+        "num": 274949,
+        "word": "你会付费购买APP吗",
+        "onboard_time": 1670384172,
+        "rank": 21,
+        "category": "科技,社会议题"
+      },
+      {
+        "raw_hot": 265158,
+        "num": 265158,
+        "word": "原来内马尔在对儿子比心",
+        "onboard_time": 1670376190,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 261811,
+        "num": 261811,
+        "word": "教资成绩",
+        "onboard_time": 1670370068,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 259445,
+        "num": 259445,
+        "word": "世界杯1/4决赛对阵名单",
+        "onboard_time": 1670384590,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 256964,
+        "num": 256964,
+        "word": "芜湖疫情防控",
+        "onboard_time": 1670385972,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236187,
+        "num": 236187,
+        "word": "一家人打多份工只为8岁植物人女儿苏醒",
+        "onboard_time": 1670384291,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233457,
+        "num": 233457,
+        "word": "患者胸痛1个月肺里取出1根针",
+        "onboard_time": 1670370426,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209921,
+        "num": 209921,
+        "word": "范志毅说C罗替补是好事",
+        "onboard_time": 1670379851,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207253,
+        "num": 207253,
+        "word": "梅西说踢了1000场比赛太疯狂了",
+        "onboard_time": 1670382791,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203039,
+        "num": 203039,
+        "word": "男子闯医院封控住院部遭保安围殴",
+        "onboard_time": 1670383870,
+        "rank": 30,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 196531,
+        "num": 196531,
+        "word": "感染者中90%是无症状可居家隔离",
+        "onboard_time": 1670374449,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196376,
+        "num": 196376,
+        "word": "男子买饼需求全被老板说服",
+        "onboard_time": 1670376308,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194450,
+        "num": 194450,
+        "word": "葡萄牙6比1瑞士",
+        "onboard_time": 1670360408,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193853,
+        "num": 193853,
+        "word": "男孩时隔4个月见父母礼貌喊叔叔",
+        "onboard_time": 1670378412,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184577,
+        "num": 184577,
+        "word": "Viper",
+        "onboard_time": 1670370968,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 177716,
+        "num": 177716,
+        "word": "C罗和佩佩跨越20年的神仙友情",
+        "onboard_time": 1670380151,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171929,
+        "num": 171929,
+        "word": "爷爷退休全职带娃陪练体能获赞",
+        "onboard_time": 1670384051,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166104,
+        "num": 166104,
+        "word": "现在蒸馒头都这么卷了吗",
+        "onboard_time": 1670371689,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 165250,
+        "num": 165250,
+        "word": "男生课余钻研摄影大学3年赚6万",
+        "onboard_time": 1670387231,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163410,
+        "num": 163410,
+        "word": "去卡塔尔看球要多少钱",
+        "onboard_time": 1670386213,
+        "rank": 40,
+        "category": "体育,财经"
+      },
+      {
+        "raw_hot": 157298,
+        "num": 157298,
+        "word": "2023年经济工作",
+        "onboard_time": 1670384051,
+        "rank": 41,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 142403,
+        "num": 142403,
+        "word": "龚俊提醒你谨防足球诈骗",
+        "onboard_time": 1670387592,
+        "rank": 42,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 140918,
+        "num": 140918,
+        "word": "原神",
+        "onboard_time": 1670368266,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 138047,
+        "num": 138047,
+        "word": "官方回应网传女孩举报父亲被打死后失联",
+        "onboard_time": 1670387831,
+        "rank": 44,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 130587,
+        "num": 130587,
+        "word": "黄健翔说西班牙输日本不冤",
+        "onboard_time": 1670373729,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123930,
+        "num": 123930,
+        "word": "许昕周恺3比1林高远范胜鹏",
+        "onboard_time": 1670387771,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111788,
+        "num": 111788,
+        "word": "湖人不敌骑士",
+        "onboard_time": 1670381950,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110387,
+        "num": 110387,
+        "word": "大雪节气宜适当进补",
+        "onboard_time": 1670387952,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108761,
+        "num": 108761,
+        "word": "C罗在替补席也是焦点",
+        "onboard_time": 1670386691,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#江泽民同志追悼大会#"
+    }
+  }
+}

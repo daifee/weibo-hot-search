@@ -1,6 +1,6 @@
 {
   "startTime": 1670343998708,
-  "endTime": 1670387010447,
+  "endTime": 1670387956565,
   "band_list": [
     {
       "raw_hot": 3747876,
@@ -24,6 +24,14 @@
       "word": "2023年元旦放假安排来了",
       "onboard_time": 1670376070,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1857585,
+      "num": 1857585,
+      "word": "33岁女子怀孕36周仍坚持健身",
+      "onboard_time": 1670384951,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -67,20 +75,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1144255,
-      "num": 1144255,
-      "word": "33岁女子怀孕36周仍坚持健身",
-      "onboard_time": 1670384951,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1107189,
       "num": 1107189,
       "word": "iPhone电池保养小技巧",
       "onboard_time": 1670381471,
       "rank": 47,
       "category": "科技"
+    },
+    {
+      "raw_hot": 1032605,
+      "num": 1032605,
+      "word": "卡塔尔世界杯惊现唐僧",
+      "onboard_time": 1670383572,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 1018644,
@@ -92,7 +100,7 @@
     },
     {
       "raw_hot": 1007100,
-      "num": 468474,
+      "num": 477947,
       "word": "金毛眼球被抠流落街头被救后离世",
       "onboard_time": 1670377570,
       "rank": 13,
@@ -161,14 +169,6 @@
       "onboard_time": 1670342111,
       "rank": 21,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 785293,
-      "num": 785293,
-      "word": "卡塔尔世界杯惊现唐僧",
-      "onboard_time": 1670383572,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 730413,
@@ -267,6 +267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 536716,
+      "num": 536716,
+      "word": "肖四",
+      "onboard_time": 1670387231,
+      "rank": 7,
+      "category": "教育"
+    },
+    {
       "raw_hot": 518781,
       "num": 518781,
       "word": "摩洛哥点球战胜西班牙",
@@ -280,6 +288,14 @@
       "word": "女子减重340斤皮肤下垂如围裙",
       "onboard_time": 1670326089,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 505474,
+      "num": 505474,
+      "word": "幼童独自在28楼天台边沿奔跑",
+      "onboard_time": 1670383332,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -328,14 +344,6 @@
       "word": "昆明一地要求非必要不返乡",
       "onboard_time": 1670377570,
       "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 441922,
-      "num": 441922,
-      "word": "幼童独自在28楼天台边沿奔跑",
-      "onboard_time": 1670383332,
-      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -419,6 +427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 384683,
+      "num": 384683,
+      "word": "健康上报",
+      "onboard_time": 1670383213,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 372841,
       "num": 372841,
       "word": "黄健翔说西班牙输日本不冤",
@@ -433,14 +449,6 @@
       "onboard_time": 1670379851,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 367591,
-      "num": 367591,
-      "word": "健康上报",
-      "onboard_time": 1670383213,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 366899,
@@ -473,6 +481,14 @@
       "onboard_time": 1670342050,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 331971,
+      "num": 331971,
+      "word": "有锁iPhone14被国内破解",
+      "onboard_time": 1670386751,
+      "rank": 43,
+      "category": "科技"
     },
     {
       "raw_hot": 329505,
@@ -595,6 +611,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 259445,
+      "num": 259445,
+      "word": "世界杯1/4决赛对阵名单",
+      "onboard_time": 1670384590,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 256964,
+      "num": 256964,
+      "word": "芜湖疫情防控",
+      "onboard_time": 1670385972,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 253407,
       "num": 1330436,
       "word": "药师详解奥密克戎轻症处理妙招",
@@ -625,6 +657,14 @@
       "onboard_time": 1670353507,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 236187,
+      "num": 236187,
+      "word": "一家人打多份工只为8岁植物人女儿苏醒",
+      "onboard_time": 1670384291,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 233993,
@@ -659,14 +699,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 220919,
-      "num": 220919,
-      "word": "世界杯1/4决赛对阵名单",
-      "onboard_time": 1670384590,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 217561,
       "num": 217561,
       "word": "内马尔把全场最佳颁给拉菲尼亚",
@@ -675,19 +707,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 203039,
+      "num": 203039,
+      "word": "男子闯医院封控住院部遭保安围殴",
+      "onboard_time": 1670383870,
+      "rank": 39,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 200384,
       "num": 200384,
       "word": "大雪节气意味着什么",
       "onboard_time": 1670373129,
       "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 199851,
-      "num": 199851,
-      "word": "一家人打多份工只为8岁植物人女儿苏醒",
-      "onboard_time": 1670384291,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -739,12 +771,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 177716,
+      "num": 177716,
+      "word": "C罗和佩佩跨越20年的神仙友情",
+      "onboard_time": 1670380151,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 174399,
       "num": 174399,
       "word": "苹果将推出类似卡拉OK功能",
       "onboard_time": 1670380632,
       "rank": 28,
       "category": "科技"
+    },
+    {
+      "raw_hot": 171929,
+      "num": 171929,
+      "word": "爷爷退休全职带娃陪练体能获赞",
+      "onboard_time": 1670384051,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 171745,
@@ -771,28 +819,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 168902,
-      "num": 168902,
-      "word": "爷爷退休全职带娃陪练体能获赞",
-      "onboard_time": 1670384051,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 168891,
-      "num": 168891,
-      "word": "芜湖疫情防控",
-      "onboard_time": 1670385972,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 168402,
       "num": 168402,
       "word": "开服",
       "onboard_time": 1670373549,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 165250,
+      "num": 165250,
+      "word": "男生课余钻研摄影大学3年赚6万",
+      "onboard_time": 1670387231,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 163733,
@@ -803,12 +843,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 162737,
-      "num": 162737,
-      "word": "C罗和佩佩跨越20年的神仙友情",
-      "onboard_time": 1670380151,
-      "rank": 40,
-      "category": "体育"
+      "raw_hot": 163410,
+      "num": 163410,
+      "word": "去卡塔尔看球要多少钱",
+      "onboard_time": 1670386213,
+      "rank": 38,
+      "category": "体育,财经"
     },
     {
       "raw_hot": 161602,
@@ -859,22 +899,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 154070,
-      "num": 154070,
-      "word": "去卡塔尔看球要多少钱",
-      "onboard_time": 1670386213,
-      "rank": 38,
-      "category": "体育,财经"
-    },
-    {
-      "raw_hot": 152294,
-      "num": 152294,
-      "word": "男子闯医院封控住院部遭保安围殴",
-      "onboard_time": 1670383870,
-      "rank": 39,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 152123,
       "num": 152123,
       "word": "莫拉塔",
@@ -923,6 +947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 142403,
+      "num": 142403,
+      "word": "龚俊提醒你谨防足球诈骗",
+      "onboard_time": 1670387592,
+      "rank": 42,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 140748,
       "num": 140748,
       "word": "男生受伤深夜静音式在宿舍消毒",
@@ -937,6 +969,14 @@
       "onboard_time": 1670386691,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 138047,
+      "num": 138047,
+      "word": "官方回应网传女孩举报父亲被打死后失联",
+      "onboard_time": 1670387831,
+      "rank": 44,
+      "category": "社会负面"
     },
     {
       "raw_hot": 136678,
@@ -971,14 +1011,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 131080,
-      "num": 131080,
-      "word": "有锁iPhone14被国内破解",
-      "onboard_time": 1670386751,
-      "rank": 43,
-      "category": "科技"
-    },
-    {
       "raw_hot": 129878,
       "num": 129878,
       "word": "佩佩头球破门",
@@ -1008,6 +1040,14 @@
       "word": "世界杯第一个无比赛日",
       "onboard_time": 1670369887,
       "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 123930,
+      "num": 123930,
+      "word": "许昕周恺3比1林高远范胜鹏",
+      "onboard_time": 1670387771,
+      "rank": 46,
       "category": "体育"
     },
     {
@@ -1168,6 +1208,14 @@
       "word": "广州明确核酸频次不与健康码颜色关联",
       "onboard_time": 1670331910,
       "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 110387,
+      "num": 110387,
+      "word": "大雪节气宜适当进补",
+      "onboard_time": 1670387952,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
