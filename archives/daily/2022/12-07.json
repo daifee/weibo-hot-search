@@ -1,10 +1,10 @@
 {
   "startTime": 1670343998708,
-  "endTime": 1670401463272,
+  "endTime": 1670402292096,
   "band_list": [
     {
-      "raw_hot": 6408869,
-      "num": 6408869,
+      "raw_hot": 8813662,
+      "num": 8813662,
       "word": "健康码",
       "onboard_time": 1670395093,
       "rank": 45,
@@ -24,6 +24,14 @@
       "word": "抗原阳了这次我却一点都不慌了",
       "onboard_time": 1670369708,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2433568,
+      "num": 2433568,
+      "word": "购火车票乘车停止查验核酸证明",
+      "onboard_time": 1670400733,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -131,14 +139,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 1216623,
-      "num": 1216623,
-      "word": "购火车票乘车停止查验核酸证明",
-      "onboard_time": 1670400733,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1189894,
       "num": 1189894,
       "word": "摩洛哥vs西班牙",
@@ -153,6 +153,14 @@
       "onboard_time": 1670381471,
       "rank": 47,
       "category": "科技"
+    },
+    {
+      "raw_hot": 1091945,
+      "num": 1091945,
+      "word": "叶婷",
+      "onboard_time": 1670397553,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1032605,
@@ -177,14 +185,6 @@
       "onboard_time": 1670377570,
       "rank": 13,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 990590,
-      "num": 990590,
-      "word": "叶婷",
-      "onboard_time": 1670397553,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 952582,
@@ -339,6 +339,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 624725,
+      "num": 552576,
+      "word": "易炼红同志任浙江省委书记",
+      "onboard_time": 1670400794,
+      "rank": 11,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 622601,
       "num": 420507,
       "word": "世界杯裁判",
@@ -371,12 +379,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 605207,
+      "num": 605207,
+      "word": "完全恢复到疫情前需要哪些条件",
+      "onboard_time": 1670400914,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 586762,
       "num": 586762,
       "word": "C罗与不服老的自己和解了",
       "onboard_time": 1670395216,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 582012,
+      "num": 582012,
+      "word": "优化防控不是完全放开",
+      "onboard_time": 1670400133,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 567915,
@@ -427,14 +451,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 529832,
-      "num": 529832,
-      "word": "易炼红同志任浙江省委书记",
-      "onboard_time": 1670400794,
-      "rank": 11,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 523971,
       "num": 574391,
       "word": "iPhone15折叠屏渲染图曝光",
@@ -467,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 492784,
+      "num": 492784,
+      "word": "卡塔尔已经开始拆球场了",
+      "onboard_time": 1670400494,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 490194,
       "num": 424280,
       "word": "西班牙球衣 好看",
@@ -481,14 +505,6 @@
       "onboard_time": 1670392215,
       "rank": 46,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 478983,
-      "num": 478983,
-      "word": "优化防控不是完全放开",
-      "onboard_time": 1670400133,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 478226,
@@ -675,6 +691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 383469,
+      "num": 383469,
+      "word": "女子20多年子宫肌瘤大似苹果拒手术",
+      "onboard_time": 1670398632,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 377268,
       "num": 377268,
       "word": "有锁iPhone14被国内破解",
@@ -721,14 +745,6 @@
       "onboard_time": 1670333651,
       "rank": 13,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 358075,
-      "num": 358075,
-      "word": "女子20多年子宫肌瘤大似苹果拒手术",
-      "onboard_time": 1670398632,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 356163,
@@ -793,14 +809,6 @@
       "onboard_time": 1670344150,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 320791,
-      "num": 320791,
-      "word": "卡塔尔已经开始拆球场了",
-      "onboard_time": 1670400494,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 317105,
@@ -972,7 +980,7 @@
     },
     {
       "raw_hot": 253407,
-      "num": 1830278,
+      "num": 2233306,
       "word": "药师详解奥密克戎轻症处理妙招",
       "onboard_time": 1670333291,
       "rank": 2,
@@ -1155,14 +1163,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 191740,
-      "num": 191740,
-      "word": "完全恢复到疫情前需要哪些条件",
-      "onboard_time": 1670400914,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 191501,
       "num": 191501,
       "word": "你有注意力缺陷综合征吗",
@@ -1185,6 +1185,14 @@
       "onboard_time": 1670398215,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 187951,
+      "num": 187951,
+      "word": "你准备出去浪吗",
+      "onboard_time": 1670401814,
+      "rank": 32,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 187544,
@@ -1347,6 +1355,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 166199,
+      "num": 166199,
+      "word": "老腾地铁手机表情包",
+      "onboard_time": 1670400655,
+      "rank": 40,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 163733,
       "num": 163733,
       "word": "高校跳舞考试动作没感情全是技巧",
@@ -1371,6 +1387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 159364,
+      "num": 159364,
+      "word": "C罗在葡萄牙是否不可代替",
+      "onboard_time": 1670401873,
+      "rank": 38,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 157702,
       "num": 157702,
       "word": "恋与制作人",
@@ -1385,14 +1409,6 @@
       "onboard_time": 1670380991,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 156532,
-      "num": 156532,
-      "word": "老腾地铁手机表情包",
-      "onboard_time": 1670400655,
-      "rank": 40,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 156334,
@@ -1467,6 +1483,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 147693,
+      "num": 147693,
+      "word": "何时能恢复到疫情前生活状态",
+      "onboard_time": 1670401934,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 147068,
       "num": 147068,
       "word": "新10条执行坚决纠正简单化一刀切",
@@ -1481,6 +1505,14 @@
       "onboard_time": 1670349548,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 145323,
+      "num": 145323,
+      "word": "英雄联盟剪纸仙灵皮肤",
+      "onboard_time": 1670397734,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 144958,
@@ -1523,8 +1555,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 142460,
-      "num": 142460,
+      "raw_hot": 142516,
+      "num": 142516,
       "word": "风吹半夏情节真高能",
       "onboard_time": 1670396475,
       "rank": 45,
@@ -1611,14 +1643,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 135320,
-      "num": 135320,
-      "word": "英雄联盟剪纸仙灵皮肤",
-      "onboard_time": 1670397734,
-      "rank": 42,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 134396,
       "num": 134396,
       "word": "超八成巴西球员月收入低于1350元",
@@ -1651,6 +1675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 130658,
+      "num": 130658,
+      "word": "琴行老板免费教35岁环卫工人弹琴",
+      "onboard_time": 1670402233,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 129878,
       "num": 129878,
       "word": "佩佩头球破门",
@@ -1675,20 +1707,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 127475,
+      "num": 127475,
+      "word": "再苦也不能苦自己",
+      "onboard_time": 1670400853,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 124205,
       "num": 124205,
       "word": "世界杯第一个无比赛日",
       "onboard_time": 1670369887,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 124170,
-      "num": 124170,
-      "word": "再苦也不能苦自己",
-      "onboard_time": 1670400853,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 123930,

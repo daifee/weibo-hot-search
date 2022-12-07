@@ -1,0 +1,410 @@
+{
+  "runTime": 1670402292096,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8813662,
+        "num": 8813662,
+        "word": "健康码",
+        "onboard_time": 1670395093,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2433568,
+        "num": 2433568,
+        "word": "购火车票乘车停止查验核酸证明",
+        "onboard_time": 1670400733,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33458,
+        "num": 2233306,
+        "word": "药师详解奥密克戎轻症处理妙招",
+        "onboard_time": 1670333291,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2102539,
+        "num": 2102539,
+        "word": "新十条",
+        "onboard_time": 1670393054,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1091945,
+        "num": 1091945,
+        "word": "叶婷",
+        "onboard_time": 1670397553,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 988855,
+        "num": 988855,
+        "word": "男子熟睡时疑被老鼠咬破头",
+        "onboard_time": 1670394133,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 719923,
+        "num": 719923,
+        "word": "全家没有一个混吃混喝的",
+        "onboard_time": 1670395932,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 605207,
+        "num": 605207,
+        "word": "完全恢复到疫情前需要哪些条件",
+        "onboard_time": 1670400914,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 592096,
+        "num": 592096,
+        "word": "疫情防控新10条新闻发布会",
+        "onboard_time": 1670397015,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 582012,
+        "num": 582012,
+        "word": "优化防控不是完全放开",
+        "onboard_time": 1670400133,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 624725,
+        "num": 552576,
+        "word": "易炼红同志任浙江省委书记",
+        "onboard_time": 1670400794,
+        "rank": 10,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 502083,
+        "num": 502083,
+        "word": "C罗与不服老的自己和解了",
+        "onboard_time": 1670395216,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 492784,
+        "num": 492784,
+        "word": "卡塔尔已经开始拆球场了",
+        "onboard_time": 1670400494,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 489778,
+        "num": 489778,
+        "word": "尼泊尔遇害主播家属回应",
+        "onboard_time": 1670396475,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 451797,
+        "num": 451797,
+        "word": "iPhone15折叠屏渲染图曝光",
+        "onboard_time": 1670395513,
+        "rank": 14,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 424974,
+        "num": 424974,
+        "word": "梅西来中国只为见他一面",
+        "onboard_time": 1670391793,
+        "rank": 15,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 404484,
+        "num": 404484,
+        "word": "33岁女子怀孕36周仍坚持健身",
+        "onboard_time": 1670384951,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 383469,
+        "num": 383469,
+        "word": "女子20多年子宫肌瘤大似苹果拒手术",
+        "onboard_time": 1670398632,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368959,
+        "num": 368959,
+        "word": "男子花13元吃饭米线只有数根",
+        "onboard_time": 1670396233,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 341808,
+        "num": 341808,
+        "word": "贝克汉姆是多少球迷的意难平",
+        "onboard_time": 1670398392,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 301241,
+        "num": 301241,
+        "word": "爱的二八定律韩国口碑",
+        "onboard_time": 1670395814,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 280752,
+        "num": 280752,
+        "word": "C罗有事儿佩佩真上啊",
+        "onboard_time": 1670398693,
+        "rank": 21,
+        "category": "体育,幽默"
+      },
+      {
+        "raw_hot": 273118,
+        "num": 273118,
+        "word": "员工爆料奶茶店用过期原料冰里冻蟑螂",
+        "onboard_time": 1670396713,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269453,
+        "num": 269453,
+        "word": "中铁三局招聘文员要求身材好引质疑",
+        "onboard_time": 1670391432,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266367,
+        "num": 266367,
+        "word": "肖四",
+        "onboard_time": 1670387231,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 246122,
+        "num": 246122,
+        "word": "北理工通报方岱宁相关视频事件",
+        "onboard_time": 1670395034,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233571,
+        "num": 233571,
+        "word": "无疫情学校要开展正常线下教学",
+        "onboard_time": 1670392215,
+        "rank": 26,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 227334,
+        "num": 227334,
+        "word": "看小狗的眉毛就知道很好吃",
+        "onboard_time": 1670394974,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 195307,
+        "num": 195307,
+        "word": "不再开展落地检",
+        "onboard_time": 1670392333,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194936,
+        "num": 194936,
+        "word": "除中小学等特殊场所外不查健康码",
+        "onboard_time": 1670399053,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191274,
+        "num": 191274,
+        "word": "尹峥李薇三连吻",
+        "onboard_time": 1670389392,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 188085,
+        "num": 188085,
+        "word": "iPadmini3将被列为停产产品",
+        "onboard_time": 1670398992,
+        "rank": 31,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 187951,
+        "num": 187951,
+        "word": "你准备出去浪吗",
+        "onboard_time": 1670401814,
+        "rank": 32,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 181481,
+        "num": 181481,
+        "word": "你有注意力缺陷综合征吗",
+        "onboard_time": 1670399592,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 176106,
+        "num": 176106,
+        "word": "阿凡达2口碑解禁",
+        "onboard_time": 1670395633,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 166199,
+        "num": 166199,
+        "word": "老腾地铁手机表情包",
+        "onboard_time": 1670400655,
+        "rank": 35,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 164552,
+        "num": 164552,
+        "word": "优化防疫后你有出游计划吗",
+        "onboard_time": 1670399832,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161951,
+        "num": 161951,
+        "word": "韩剧是懂初雪仪式感的",
+        "onboard_time": 1670389815,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 159364,
+        "num": 159364,
+        "word": "C罗在葡萄牙是否不可代替",
+        "onboard_time": 1670401873,
+        "rank": 38,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 155039,
+        "num": 155039,
+        "word": "李光洁县委大院演县长曹立新",
+        "onboard_time": 1670389452,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 153227,
+        "num": 153227,
+        "word": "出租车插队未果隧道逼停保时捷",
+        "onboard_time": 1670394553,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150872,
+        "num": 150872,
+        "word": "我在网上学狗叫",
+        "onboard_time": 1670400016,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 147693,
+        "num": 147693,
+        "word": "何时能恢复到疫情前生活状态",
+        "onboard_time": 1670401934,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145323,
+        "num": 145323,
+        "word": "英雄联盟剪纸仙灵皮肤",
+        "onboard_time": 1670397734,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 142516,
+        "num": 142516,
+        "word": "风吹半夏情节真高能",
+        "onboard_time": 1670396475,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 130658,
+        "num": 130658,
+        "word": "琴行老板免费教35岁环卫工人弹琴",
+        "onboard_time": 1670402233,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127475,
+        "num": 127475,
+        "word": "再苦也不能苦自己",
+        "onboard_time": 1670400853,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 127133,
+        "num": 127133,
+        "word": "有锁iPhone14被国内破解",
+        "onboard_time": 1670386751,
+        "rank": 47,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 124330,
+        "num": 124330,
+        "word": "进一步优化防疫新十条",
+        "onboard_time": 1670392152,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118337,
+        "num": 118337,
+        "word": "陈飞宇周也倒数说爱你大雪海报",
+        "onboard_time": 1670391672,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央政治局会议要求优化疫情防控措施#"
+    }
+  }
+}
