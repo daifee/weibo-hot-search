@@ -1,6 +1,6 @@
 {
   "startTime": 1670430424869,
-  "endTime": 1670434446397,
+  "endTime": 1670437416640,
   "band_list": [
     {
       "raw_hot": 1887733,
@@ -441,6 +441,14 @@
       "onboard_time": 1670433431,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 22504,
+      "num": 28887,
+      "word": "感染后出现哪些症状需到医院就诊",
+      "onboard_time": 1670436429,
+      "rank": 49,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
