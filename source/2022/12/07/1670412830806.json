@@ -1,0 +1,410 @@
+{
+  "runTime": 1670412830806,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2573683,
+        "num": 2573683,
+        "word": "健康码",
+        "onboard_time": 1670395093,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2181744,
+        "num": 2181744,
+        "word": "完全恢复到疫情前需要哪些条件",
+        "onboard_time": 1670400914,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214401,
+        "num": 1735155,
+        "word": "防控措施有了这些新优化",
+        "onboard_time": 1670392993,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1501042,
+        "num": 1501042,
+        "word": "田曦薇白敬亭互关了",
+        "onboard_time": 1670408773,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1431246,
+        "num": 1431246,
+        "word": "卡塔尔已经开始拆球场了",
+        "onboard_time": 1670400494,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 932596,
+        "num": 932596,
+        "word": "上海一商场工人吊装玻璃时坠亡",
+        "onboard_time": 1670410273,
+        "rank": 5,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 801969,
+        "num": 801969,
+        "word": "阿凡达2票价你能接受吗",
+        "onboard_time": 1670404872,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 699959,
+        "num": 699959,
+        "word": "爱的二八定律",
+        "onboard_time": 1670409253,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 619757,
+        "num": 619757,
+        "word": "地铁取消核酸查验首日情况如何",
+        "onboard_time": 1670407692,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 538760,
+        "num": 538760,
+        "word": "考研生赴考困难可申请借考",
+        "onboard_time": 1670402952,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 777615,
+        "num": 518255,
+        "word": "seventeen全员续约7年",
+        "onboard_time": 1670411893,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 495315,
+        "num": 495315,
+        "word": "考研人到底有多努力",
+        "onboard_time": 1670410152,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 458121,
+        "num": 458121,
+        "word": "上海进入餐饮场所仍须查48小时核酸",
+        "onboard_time": 1670409733,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 452955,
+        "num": 452955,
+        "word": "叶婷",
+        "onboard_time": 1670397553,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 438833,
+        "num": 438833,
+        "word": "众星为胡歌新剧打call",
+        "onboard_time": 1670410933,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 385242,
+        "num": 385242,
+        "word": "猫咪绝育后骂骂咧咧看到主人秒委屈",
+        "onboard_time": 1670404872,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371480,
+        "num": 371480,
+        "word": "马云卸任浙商总会会长",
+        "onboard_time": 1670404633,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 369822,
+        "num": 369822,
+        "word": "男子熟睡时疑被老鼠咬破头",
+        "onboard_time": 1670394133,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 344920,
+        "num": 344920,
+        "word": "羽绒服会让安全座椅失效",
+        "onboard_time": 1670407033,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343740,
+        "num": 343740,
+        "word": "环球港",
+        "onboard_time": 1670406133,
+        "rank": 19,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 328790,
+        "num": 328790,
+        "word": "央视2023电视剧片单",
+        "onboard_time": 1670408473,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 327787,
+        "num": 327787,
+        "word": "你准备出去浪吗",
+        "onboard_time": 1670401814,
+        "rank": 21,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 327190,
+        "num": 327190,
+        "word": "这个春节可以回家过年吗",
+        "onboard_time": 1670411352,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306151,
+        "num": 306151,
+        "word": "广州白云机场不再查验核酸健康码",
+        "onboard_time": 1670409897,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280824,
+        "num": 280824,
+        "word": "新十条不是完全放开不防是主动优化",
+        "onboard_time": 1670406252,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271212,
+        "num": 271212,
+        "word": "iPhone15折叠屏渲染图曝光",
+        "onboard_time": 1670395513,
+        "rank": 25,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 265825,
+        "num": 265825,
+        "word": "紧急患者有无核酸结果医疗需求都应满足",
+        "onboard_time": 1670410873,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248731,
+        "num": 248731,
+        "word": "分享欲本身就是偏爱",
+        "onboard_time": 1670403193,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 236918,
+        "num": 236918,
+        "word": "比利时队长阿扎尔退出国家队",
+        "onboard_time": 1670409973,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 223475,
+        "num": 223475,
+        "word": "上海迪士尼乐园12月8日起重新开放",
+        "onboard_time": 1670406372,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223191,
+        "num": 223191,
+        "word": "李薇越来越有正夫人的气势了",
+        "onboard_time": 1670407394,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 223003,
+        "num": 223003,
+        "word": "男子花13元吃饭米线只有数根",
+        "onboard_time": 1670396233,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215972,
+        "num": 215972,
+        "word": "北理工通报方岱宁相关视频事件",
+        "onboard_time": 1670395034,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213650,
+        "num": 213650,
+        "word": "新十条",
+        "onboard_time": 1670393054,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203514,
+        "num": 203514,
+        "word": "武汉首批吸入式新冠疫苗开打",
+        "onboard_time": 1670411953,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202149,
+        "num": 202149,
+        "word": "RedVelvet回归初一位",
+        "onboard_time": 1670412734,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188728,
+        "num": 188728,
+        "word": "婆婆转10万缓和夫妻矛盾儿媳拒还",
+        "onboard_time": 1670412433,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183715,
+        "num": 183715,
+        "word": "柯南新剧场版预热特别篇预告",
+        "onboard_time": 1670403493,
+        "rank": 37,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 178371,
+        "num": 178371,
+        "word": "这孟婆汤是掺水了吧",
+        "onboard_time": 1670406072,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 176205,
+        "num": 176205,
+        "word": "人民网评风吹半夏现实激励意义",
+        "onboard_time": 1670403616,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 175486,
+        "num": 175486,
+        "word": "女子20多年子宫肌瘤大似苹果拒手术",
+        "onboard_time": 1670398632,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175521,
+        "num": 172175,
+        "word": "许半夏嘴上在怼眼睛在哭",
+        "onboard_time": 1670410817,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 167707,
+        "num": 167707,
+        "word": "卡塔尔小王子秀C罗同款手势",
+        "onboard_time": 1670403792,
+        "rank": 42,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 158967,
+        "num": 158967,
+        "word": "2023考研时间",
+        "onboard_time": 1670404513,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 158567,
+        "num": 158567,
+        "word": "C罗有事儿佩佩真上啊",
+        "onboard_time": 1670398693,
+        "rank": 44,
+        "category": "体育,幽默"
+      },
+      {
+        "raw_hot": 157988,
+        "num": 157988,
+        "word": "县委大院全员变装",
+        "onboard_time": 1670407219,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 153006,
+        "num": 153006,
+        "word": "杭州东站不再查看健康码",
+        "onboard_time": 1670408535,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149621,
+        "num": 149621,
+        "word": "当加纳主持人念中超队名",
+        "onboard_time": 1670412253,
+        "rank": 47,
+        "category": "体育,幽默"
+      },
+      {
+        "raw_hot": 145069,
+        "num": 145069,
+        "word": "这是疯狂动物城吧",
+        "onboard_time": 1670412192,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 137658,
+        "num": 137658,
+        "word": "梅西来中国只为见他一面",
+        "onboard_time": 1670391793,
+        "rank": 49,
+        "category": "体育,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央政治局会议要求优化疫情防控措施#"
+    }
+  }
+}

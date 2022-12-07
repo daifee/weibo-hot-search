@@ -1,6 +1,6 @@
 {
   "startTime": 1670171104099,
-  "endTime": 1670411735640,
+  "endTime": 1670412830806,
   "band_list": [
     {
       "raw_hot": 8813662,
@@ -395,20 +395,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1501042,
+      "num": 1501042,
+      "word": "田曦薇白敬亭互关了",
+      "onboard_time": 1670408773,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1499030,
       "num": 646924,
       "word": "加时赛之王",
       "onboard_time": 1670260510,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1497388,
-      "num": 1497388,
-      "word": "田曦薇白敬亭互关了",
-      "onboard_time": 1670408773,
-      "rank": 12,
-      "category": "影视"
     },
     {
       "raw_hot": 1467112,
@@ -803,6 +803,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 932596,
+      "num": 932596,
+      "word": "上海一商场工人吊装玻璃时坠亡",
+      "onboard_time": 1670410273,
+      "rank": 10,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 929762,
       "num": 733861,
       "word": "梅西预测4支球队世界杯夺冠",
@@ -1051,6 +1059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 777615,
+      "num": 518255,
+      "word": "seventeen全员续约7年",
+      "onboard_time": 1670411893,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 773559,
       "num": 2582203,
       "word": "男子称做核酸导航误入方舱被隔离5天",
@@ -1155,6 +1171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 699959,
+      "num": 699959,
+      "word": "爱的二八定律",
+      "onboard_time": 1670409253,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 692291,
       "num": 1099245,
       "word": "保定回应舆情称网上夸张成分太大",
@@ -1177,14 +1201,6 @@
       "onboard_time": 1670207349,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 685460,
-      "num": 446029,
-      "word": "上海一商场工人吊装玻璃时坠亡",
-      "onboard_time": 1670410273,
-      "rank": 10,
-      "category": "社会负面"
     },
     {
       "raw_hot": 683729,
@@ -1337,14 +1353,6 @@
       "onboard_time": 1670207349,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 636021,
-      "num": 636021,
-      "word": "爱的二八定律",
-      "onboard_time": 1670409253,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 632547,
@@ -1827,6 +1835,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 495315,
+      "num": 495315,
+      "word": "考研人到底有多努力",
+      "onboard_time": 1670410152,
+      "rank": 17,
+      "category": "教育"
+    },
+    {
       "raw_hot": 490194,
       "num": 424280,
       "word": "西班牙球衣 好看",
@@ -1947,6 +1963,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 458121,
+      "num": 458121,
+      "word": "上海进入餐饮场所仍须查48小时核酸",
+      "onboard_time": 1670409733,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 456587,
       "num": 767554,
       "word": "内马尔点球破门",
@@ -2019,8 +2043,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 436033,
-      "num": 436033,
+      "raw_hot": 438833,
+      "num": 438833,
       "word": "众星为胡歌新剧打call",
       "onboard_time": 1670410933,
       "rank": 14,
@@ -2275,14 +2299,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 390383,
-      "num": 390383,
-      "word": "考研人到底有多努力",
-      "onboard_time": 1670410152,
-      "rank": 17,
-      "category": "教育"
-    },
-    {
       "raw_hot": 389774,
       "num": 389774,
       "word": "有必要囤药吗",
@@ -2425,14 +2441,6 @@
       "onboard_time": 1670379851,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 369573,
-      "num": 369573,
-      "word": "上海进入餐饮场所仍须查48小时核酸",
-      "onboard_time": 1670409733,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 366899,
@@ -2659,6 +2667,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 328790,
+      "num": 328790,
+      "word": "央视2023电视剧片单",
+      "onboard_time": 1670408473,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 327190,
+      "num": 327190,
+      "word": "这个春节可以回家过年吗",
+      "onboard_time": 1670411352,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 324133,
       "num": 324133,
       "word": "骗子用足球游戏画面冒充世界杯直播",
@@ -2800,6 +2824,14 @@
       "word": "父母结婚20年仍如初恋惹女儿嫉妒",
       "onboard_time": 1670240172,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 306151,
+      "num": 306151,
+      "word": "广州白云机场不再查验核酸健康码",
+      "onboard_time": 1670409897,
+      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -3147,19 +3179,19 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 265825,
+      "num": 265825,
+      "word": "紧急患者有无核酸结果医疗需求都应满足",
+      "onboard_time": 1670410873,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 265811,
       "num": 1989291,
       "word": "北京环球度假区明日暂时关闭",
       "onboard_time": 1670225592,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 264038,
-      "num": 264038,
-      "word": "广州白云机场不再查验核酸健康码",
-      "onboard_time": 1670409897,
-      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -3403,6 +3435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 236918,
+      "num": 236918,
+      "word": "比利时队长阿扎尔退出国家队",
+      "onboard_time": 1670409973,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 236465,
       "num": 236465,
       "word": "西班牙队本场状态",
@@ -3457,14 +3497,6 @@
       "onboard_time": 1670226014,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 230303,
-      "num": 230303,
-      "word": "央视2023电视剧片单",
-      "onboard_time": 1670408473,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 229583,
@@ -3537,6 +3569,14 @@
       "onboard_time": 1670224632,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 223191,
+      "num": 223191,
+      "word": "李薇越来越有正夫人的气势了",
+      "onboard_time": 1670407394,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 222800,
@@ -3771,12 +3811,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 203655,
-      "num": 203655,
-      "word": "李薇越来越有正夫人的气势了",
-      "onboard_time": 1670407394,
-      "rank": 49,
-      "category": "影视"
+      "raw_hot": 203514,
+      "num": 203514,
+      "word": "武汉首批吸入式新冠疫苗开打",
+      "onboard_time": 1670411953,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 203039,
@@ -3785,6 +3825,14 @@
       "onboard_time": 1670383870,
       "rank": 39,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 202149,
+      "num": 202149,
+      "word": "RedVelvet回归初一位",
+      "onboard_time": 1670412734,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 201655,
@@ -3835,14 +3883,6 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 199404,
-      "num": 199404,
-      "word": "比利时队长阿扎尔退出国家队",
-      "onboard_time": 1670409973,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 198293,
       "num": 522440,
       "word": "巴西vs韩国首发",
@@ -3856,14 +3896,6 @@
       "word": "近视可能引起的4种继发病",
       "onboard_time": 1670322370,
       "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 197115,
-      "num": 197115,
-      "word": "这个春节可以回家过年吗",
-      "onboard_time": 1670411352,
-      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -4017,6 +4049,14 @@
       "onboard_time": 1670410817,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 188728,
+      "num": 188728,
+      "word": "婆婆转10万缓和夫妻矛盾儿媳拒还",
+      "onboard_time": 1670412433,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 188665,
@@ -4185,14 +4225,6 @@
       "onboard_time": 1670380151,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 177410,
-      "num": 177410,
-      "word": "紧急患者有无核酸结果医疗需求都应满足",
-      "onboard_time": 1670410873,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 177196,
@@ -4771,6 +4803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 149621,
+      "num": 149621,
+      "word": "当加纳主持人念中超队名",
+      "onboard_time": 1670412253,
+      "rank": 47,
+      "category": "体育,幽默"
+    },
+    {
       "raw_hot": 148224,
       "num": 148224,
       "word": "00后女大学生做宿舍美甲月入过万",
@@ -4841,6 +4881,14 @@
       "onboard_time": 1670397734,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 145069,
+      "num": 145069,
+      "word": "这是疯狂动物城吧",
+      "onboard_time": 1670412192,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 144958,
