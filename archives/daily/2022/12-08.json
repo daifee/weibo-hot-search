@@ -1,6 +1,6 @@
 {
   "startTime": 1670430424869,
-  "endTime": 1670430424869,
+  "endTime": 1670431538328,
   "band_list": [
     {
       "raw_hot": 1887733,
@@ -35,6 +35,22 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 684483,
+      "num": 684483,
+      "word": "马斯克决定任命朱晓彤为特斯拉全球CEO",
+      "onboard_time": 1670426654,
+      "rank": 10,
+      "category": "财经,科技"
+    },
+    {
+      "raw_hot": 625729,
+      "num": 439144,
+      "word": "双胞胎因分数接近被学校认定作弊",
+      "onboard_time": 1670427854,
+      "rank": 11,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 588891,
       "num": 588891,
       "word": "完全恢复到疫情前需要哪些条件",
@@ -43,12 +59,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 566369,
-      "num": 439860,
-      "word": "马斯克决定任命朱晓彤为特斯拉全球CEO",
-      "onboard_time": 1670426654,
-      "rank": 10,
-      "category": "财经,科技"
+      "raw_hot": 526090,
+      "num": 324512,
+      "word": "杭州抗新冠中药方火了",
+      "onboard_time": 1670428513,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 522848,
@@ -57,14 +73,6 @@
       "onboard_time": 1670424015,
       "rank": 6,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 485177,
-      "num": 439144,
-      "word": "双胞胎因分数接近被学校认定作弊",
-      "onboard_time": 1670427854,
-      "rank": 11,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 477943,
@@ -91,11 +99,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 408308,
-      "num": 153148,
-      "word": "杭州抗新冠中药方火了",
-      "onboard_time": 1670428513,
-      "rank": 30,
+      "raw_hot": 442492,
+      "num": 442492,
+      "word": "地包天小猫被网友吐槽长相如丧尸",
+      "onboard_time": 1670427016,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -105,14 +113,6 @@
       "onboard_time": 1670420895,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 380455,
-      "num": 380455,
-      "word": "地包天小猫被网友吐槽长相如丧尸",
-      "onboard_time": 1670427016,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 326080,
@@ -147,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 265587,
+      "num": 265587,
+      "word": "Doinb去哪儿",
+      "onboard_time": 1670429234,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 244650,
       "num": 244650,
       "word": "继父4年第1次听女儿叫爸掩面痛哭",
@@ -177,14 +185,6 @@
       "onboard_time": 1670423320,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 177214,
-      "num": 151672,
-      "word": "Doinb去哪儿",
-      "onboard_time": 1670429234,
-      "rank": 31,
-      "category": "游戏"
     },
     {
       "raw_hot": 174020,
@@ -219,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 166816,
+      "num": 166816,
+      "word": "女生罗森买到过期2天牛奶",
+      "onboard_time": 1670429293,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 164401,
       "num": 164401,
       "word": "小伙辞职带妈妈减肥4个月变化惊艳",
@@ -243,8 +251,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 153816,
-      "num": 153816,
+      "raw_hot": 159863,
+      "num": 159863,
       "word": "考研人到底有多努力",
       "onboard_time": 1670410152,
       "rank": 29,
@@ -273,14 +281,6 @@
       "onboard_time": 1670409253,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 145787,
-      "num": 145787,
-      "word": "女生罗森买到过期2天牛奶",
-      "onboard_time": 1670429293,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 143509,
@@ -379,8 +379,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 99901,
-      "num": 99901,
+      "raw_hot": 103887,
+      "num": 103887,
       "word": "又到了猫咪烧焦的季节",
       "onboard_time": 1670429893,
       "rank": 48,
@@ -395,12 +395,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 76924,
+      "num": 76924,
+      "word": "童骁骑求婚野猫",
+      "onboard_time": 1670425899,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 67196,
       "num": 1143031,
       "word": "防控措施有了这些新优化",
       "onboard_time": 1670392993,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 63529,
+      "num": 76028,
+      "word": "卡塔尔偶遇中文八级球迷",
+      "onboard_time": 1670431216,
+      "rank": 49,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
