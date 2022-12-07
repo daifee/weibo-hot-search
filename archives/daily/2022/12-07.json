@@ -1,10 +1,10 @@
 {
   "startTime": 1670343998708,
-  "endTime": 1670398432984,
+  "endTime": 1670401463272,
   "band_list": [
     {
-      "raw_hot": 5249440,
-      "num": 5249440,
+      "raw_hot": 6408869,
+      "num": 6408869,
       "word": "健康码",
       "onboard_time": 1670395093,
       "rank": 45,
@@ -131,6 +131,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1216623,
+      "num": 1216623,
+      "word": "购火车票乘车停止查验核酸证明",
+      "onboard_time": 1670400733,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1189894,
       "num": 1189894,
       "word": "摩洛哥vs西班牙",
@@ -171,6 +179,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 990590,
+      "num": 990590,
+      "word": "叶婷",
+      "onboard_time": 1670397553,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 952582,
       "num": 952582,
       "word": "摩洛哥足球 纯粹",
@@ -192,6 +208,14 @@
       "word": "手机从26楼坠落7秒落地记录全过程",
       "onboard_time": 1670372347,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 934287,
+      "num": 934287,
+      "word": "疫情防控新10条新闻发布会",
+      "onboard_time": 1670397015,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -243,20 +267,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 847538,
-      "num": 847538,
-      "word": "疫情防控新10条新闻发布会",
-      "onboard_time": 1670397015,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 839597,
       "num": 839597,
       "word": "C罗连续31场首发纪录终结",
       "onboard_time": 1670356746,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 819913,
+      "num": 819913,
+      "word": "全家没有一个混吃混喝的",
+      "onboard_time": 1670395932,
+      "rank": 14,
+      "category": "幽默"
     },
     {
       "raw_hot": 805297,
@@ -347,12 +371,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 586762,
+      "num": 586762,
+      "word": "C罗与不服老的自己和解了",
+      "onboard_time": 1670395216,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 567915,
       "num": 461834,
       "word": "原神",
       "onboard_time": 1670368266,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 566392,
+      "num": 566392,
+      "word": "尼泊尔遇害主播家属回应",
+      "onboard_time": 1670396475,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 563457,
@@ -387,12 +427,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 535836,
-      "num": 535836,
-      "word": "C罗与不服老的自己和解了",
-      "onboard_time": 1670395216,
-      "rank": 12,
-      "category": "体育"
+      "raw_hot": 529832,
+      "num": 529832,
+      "word": "易炼红同志任浙江省委书记",
+      "onboard_time": 1670400794,
+      "rank": 11,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 523971,
+      "num": 574391,
+      "word": "iPhone15折叠屏渲染图曝光",
+      "onboard_time": 1670395513,
+      "rank": 17,
+      "category": "科技"
     },
     {
       "raw_hot": 518781,
@@ -401,14 +449,6 @@
       "onboard_time": 1670349129,
       "rank": 6,
       "category": "体育"
-    },
-    {
-      "raw_hot": 509878,
-      "num": 509878,
-      "word": "全家没有一个混吃混喝的",
-      "onboard_time": 1670395932,
-      "rank": 14,
-      "category": "幽默"
     },
     {
       "raw_hot": 506195,
@@ -441,6 +481,14 @@
       "onboard_time": 1670392215,
       "rank": 46,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 478983,
+      "num": 478983,
+      "word": "优化防控不是完全放开",
+      "onboard_time": 1670400133,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 478226,
@@ -491,20 +539,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 452750,
-      "num": 452750,
+      "raw_hot": 456444,
+      "num": 456444,
       "word": "男子花13元吃饭米线只有数根",
       "onboard_time": 1670396233,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 450189,
-      "num": 450189,
-      "word": "iPhone15折叠屏渲染图曝光",
-      "onboard_time": 1670395513,
-      "rank": 17,
-      "category": "科技"
     },
     {
       "raw_hot": 444616,
@@ -552,14 +592,6 @@
       "word": "佩戴口罩能否超过8个小时",
       "onboard_time": 1670344569,
       "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 422706,
-      "num": 422706,
-      "word": "尼泊尔遇害主播家属回应",
-      "onboard_time": 1670396475,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -691,6 +723,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 358075,
+      "num": 358075,
+      "word": "女子20多年子宫肌瘤大似苹果拒手术",
+      "onboard_time": 1670398632,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 356163,
       "num": 356163,
       "word": "现在蒸馒头都这么卷了吗",
@@ -705,6 +745,22 @@
       "onboard_time": 1670342050,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 344718,
+      "num": 344718,
+      "word": "贝克汉姆是多少球迷的意难平",
+      "onboard_time": 1670398392,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 334947,
+      "num": 334947,
+      "word": "C罗有事儿佩佩真上啊",
+      "onboard_time": 1670398693,
+      "rank": 20,
+      "category": "体育,幽默"
     },
     {
       "raw_hot": 329505,
@@ -723,12 +779,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 322900,
+      "num": 322900,
+      "word": "员工爆料奶茶店用过期原料冰里冻蟑螂",
+      "onboard_time": 1670396713,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 321735,
       "num": 321735,
       "word": "猫咪不慎被踩尾巴开启咒骂模式",
       "onboard_time": 1670344150,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 320791,
+      "num": 320791,
+      "word": "卡塔尔已经开始拆球场了",
+      "onboard_time": 1670400494,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 317105,
@@ -777,14 +849,6 @@
       "onboard_time": 1670330110,
       "rank": 17,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 298334,
-      "num": 298334,
-      "word": "员工爆料奶茶店用过期原料冰里冻蟑螂",
-      "onboard_time": 1670396713,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 291338,
@@ -915,6 +979,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 251565,
+      "num": 251565,
+      "word": "除中小学等特殊场所外不查健康码",
+      "onboard_time": 1670399053,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 245603,
       "num": 245603,
       "word": "阿凡达2口碑解禁",
@@ -995,6 +1067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 214520,
+      "num": 214520,
+      "word": "iPadmini3将被列为停产产品",
+      "onboard_time": 1670398992,
+      "rank": 30,
+      "category": "科技"
+    },
+    {
       "raw_hot": 214424,
       "num": 214424,
       "word": "进一步缩小核酸检测范围减少频次",
@@ -1016,6 +1096,14 @@
       "word": "非高风险区不得限制人员流动",
       "onboard_time": 1670392572,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204372,
+      "num": 204372,
+      "word": "优化防疫后你有出游计划吗",
+      "onboard_time": 1670399832,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -1065,6 +1153,22 @@
       "onboard_time": 1670389993,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 191740,
+      "num": 191740,
+      "word": "完全恢复到疫情前需要哪些条件",
+      "onboard_time": 1670400914,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 191501,
+      "num": 191501,
+      "word": "你有注意力缺陷综合征吗",
+      "onboard_time": 1670399592,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 189264,
@@ -1179,6 +1283,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 172202,
+      "num": 172202,
+      "word": "我在网上学狗叫",
+      "onboard_time": 1670400016,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 171929,
       "num": 171929,
       "word": "爷爷退休全职带娃陪练体能获赞",
@@ -1275,6 +1387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 156532,
+      "num": 156532,
+      "word": "老腾地铁手机表情包",
+      "onboard_time": 1670400655,
+      "rank": 40,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 156334,
       "num": 156334,
       "word": "婚姻中如何保持爱和吸引",
@@ -1347,11 +1467,11 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 150130,
-      "num": 150130,
-      "word": "叶婷",
-      "onboard_time": 1670397553,
-      "rank": 40,
+      "raw_hot": 147068,
+      "num": 147068,
+      "word": "新10条执行坚决纠正简单化一刀切",
+      "onboard_time": 1670401093,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -1491,6 +1611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 135320,
+      "num": 135320,
+      "word": "英雄联盟剪纸仙灵皮肤",
+      "onboard_time": 1670397734,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 134396,
       "num": 134396,
       "word": "超八成巴西球员月收入低于1350元",
@@ -1523,14 +1651,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 129968,
-      "num": 129968,
-      "word": "贝克汉姆是多少球迷的意难平",
-      "onboard_time": 1670398392,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 129878,
       "num": 129878,
       "word": "佩佩头球破门",
@@ -1561,6 +1681,14 @@
       "onboard_time": 1670369887,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 124170,
+      "num": 124170,
+      "word": "再苦也不能苦自己",
+      "onboard_time": 1670400853,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 123930,
@@ -1884,6 +2012,9 @@
     },
     {
       "word": "#江泽民同志追悼大会#"
+    },
+    {
+      "word": "#中央政治局会议要求优化疫情防控措施#"
     }
   ]
 }
