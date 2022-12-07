@@ -1,7 +1,15 @@
 {
   "startTime": 1670343998708,
-  "endTime": 1670369676352,
+  "endTime": 1670377214956,
   "band_list": [
+    {
+      "raw_hot": 3747876,
+      "num": 3747876,
+      "word": "抗原阳了这次我却一点都不慌了",
+      "onboard_time": 1670369708,
+      "rank": 0,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 2120220,
       "num": 2120220,
@@ -11,11 +19,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1792940,
+      "num": 1289094,
+      "word": "网红触电身亡父母索赔121万",
+      "onboard_time": 1670370488,
+      "rank": 3,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1467112,
       "num": 1467112,
       "word": "摩洛哥3比0西班牙",
       "onboard_time": 1670350449,
       "rank": 3,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1271537,
+      "num": 1271537,
+      "word": "卡塔尔世界杯8强出炉",
+      "onboard_time": 1670368626,
+      "rank": 46,
       "category": "体育"
     },
     {
@@ -49,6 +73,22 @@
       "onboard_time": 1670350690,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 935255,
+      "num": 935255,
+      "word": "手机从26楼坠落7秒落地记录全过程",
+      "onboard_time": 1670372347,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 924060,
+      "num": 649936,
+      "word": "三胞胎妈妈再怀孕婆婆支持",
+      "onboard_time": 1670370426,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 891825,
@@ -91,6 +131,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 708270,
+      "num": 708270,
+      "word": "教资成绩",
+      "onboard_time": 1670370068,
+      "rank": 8,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 701417,
+      "num": 701417,
+      "word": "业主发现锅炉工人室内还穿棉衣",
+      "onboard_time": 1670370188,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 694520,
       "num": 440008,
       "word": "孙继海说C罗今晚回家",
@@ -131,6 +187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 537791,
+      "num": 537791,
+      "word": "C罗说这是不可思议的一天",
+      "onboard_time": 1670373849,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 518781,
       "num": 518781,
       "word": "摩洛哥点球战胜西班牙",
@@ -155,6 +219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 485878,
+      "num": 485878,
+      "word": "感染者中90%是无症状可居家隔离",
+      "onboard_time": 1670374449,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 475244,
       "num": 414757,
       "word": "4岁女孩误吞61颗磁力珠致肠穿孔",
@@ -171,11 +243,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 465848,
+      "num": 465848,
+      "word": "2023年元旦放假安排来了",
+      "onboard_time": 1670376070,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 464050,
       "num": 464050,
       "word": "奥密克戎毒力接近季节性流感",
       "onboard_time": 1670312711,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 439188,
+      "num": 439188,
+      "word": "患者胸痛1个月肺里取出1根针",
+      "onboard_time": 1670370426,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -243,6 +331,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 372841,
+      "num": 372841,
+      "word": "黄健翔说西班牙输日本不冤",
+      "onboard_time": 1670373729,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 366899,
+      "num": 366899,
+      "word": "Viper",
+      "onboard_time": 1670370968,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 365483,
       "num": 365483,
       "word": "3中国人在尼泊尔打斗致1死1伤",
@@ -251,12 +355,12 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 352607,
-      "num": 352607,
-      "word": "卡塔尔世界杯8强出炉",
-      "onboard_time": 1670368626,
-      "rank": 46,
-      "category": "体育"
+      "raw_hot": 356163,
+      "num": 356163,
+      "word": "现在蒸馒头都这么卷了吗",
+      "onboard_time": 1670371689,
+      "rank": 19,
+      "category": "美食"
     },
     {
       "raw_hot": 346154,
@@ -280,6 +384,14 @@
       "word": "猫咪不慎被踩尾巴开启咒骂模式",
       "onboard_time": 1670344150,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 315797,
+      "num": 315797,
+      "word": "北京昨增1170例本土确诊",
+      "onboard_time": 1670375230,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -315,6 +427,38 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 290386,
+      "num": 290386,
+      "word": "主教练称C罗对替补出场无异议",
+      "onboard_time": 1670372829,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 276771,
+      "num": 276771,
+      "word": "男子手被缝16针用手肘码牌打麻将",
+      "onboard_time": 1670371868,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 275983,
+      "num": 275983,
+      "word": "原神",
+      "onboard_time": 1670368266,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 272933,
+      "num": 272933,
+      "word": "大雪",
+      "onboard_time": 1670369887,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 267475,
       "num": 267475,
       "word": "蒙古国示威者试图冲击国家宫",
@@ -328,6 +472,22 @@
       "word": "广州16万感染者仅4例重症",
       "onboard_time": 1670319249,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 253407,
+      "num": 1300465,
+      "word": "药师详解奥密克戎轻症处理妙招",
+      "onboard_time": 1670333291,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 239667,
+      "num": 239667,
+      "word": "药店连花清瘟大幅涨价监管告诫将严打",
+      "onboard_time": 1670372048,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -363,6 +523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 222800,
+      "num": 222800,
+      "word": "摩洛哥记者现场含泪致谢门将",
+      "onboard_time": 1670372408,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 217561,
       "num": 217561,
       "word": "内马尔把全场最佳颁给拉菲尼亚",
@@ -371,12 +539,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 215120,
-      "num": 215120,
-      "word": "原神",
-      "onboard_time": 1670368266,
-      "rank": 29,
-      "category": "游戏"
+      "raw_hot": 204847,
+      "num": 204847,
+      "word": "原来内马尔在对儿子比心",
+      "onboard_time": 1670376190,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 200384,
+      "num": 200384,
+      "word": "大雪节气意味着什么",
+      "onboard_time": 1670373129,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 197036,
@@ -395,12 +571,20 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 184915,
-      "num": 951582,
-      "word": "药师详解奥密克戎轻症处理妙招",
-      "onboard_time": 1670333291,
-      "rank": 2,
-      "category": "国内要闻"
+      "raw_hot": 187544,
+      "num": 187544,
+      "word": "南京大屠杀幸存者向远松去世",
+      "onboard_time": 1670375290,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 185782,
+      "num": 185782,
+      "word": "男子买饼需求全被老板说服",
+      "onboard_time": 1670376308,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 182396,
@@ -411,12 +595,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 179783,
+      "num": 179783,
+      "word": "湖人vs骑士",
+      "onboard_time": 1670374930,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 169060,
       "num": 169060,
       "word": "西班牙连续三届世界杯无缘8强",
       "onboard_time": 1670353210,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 168402,
+      "num": 168402,
+      "word": "开服",
+      "onboard_time": 1670373549,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 163733,
@@ -443,6 +643,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 156215,
+      "num": 156215,
+      "word": "男子掰坏豪车车主称维修费27万",
+      "onboard_time": 1670369166,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 154822,
       "num": 154822,
       "word": "葡萄牙将对阵摩洛哥",
@@ -457,6 +665,14 @@
       "onboard_time": 1670345769,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 150913,
+      "num": 150913,
+      "word": "终于等到C罗",
+      "onboard_time": 1670370488,
+      "rank": 42,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 146675,
@@ -523,6 +739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 124205,
+      "num": 124205,
+      "word": "世界杯第一个无比赛日",
+      "onboard_time": 1670369887,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 120747,
       "num": 120747,
       "word": "摩洛哥防守",
@@ -560,6 +784,30 @@
       "word": "加维成世界杯历史淘汰赛第二年轻球员",
       "onboard_time": 1670343011,
       "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 118232,
+      "num": 118232,
+      "word": "老人遇电诈被同事悄悄带到派出所",
+      "onboard_time": 1670376669,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 118099,
+      "num": 118099,
+      "word": "詹俊神预言摩洛哥赢球",
+      "onboard_time": 1670377090,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 117058,
+      "num": 117058,
+      "word": "库里当选体育画报年度最佳运动员",
+      "onboard_time": 1670376611,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -657,14 +905,6 @@
       "onboard_time": 1670318110,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 87137,
-      "num": 87137,
-      "word": "男子掰坏豪车车主称维修费27万",
-      "onboard_time": 1670369166,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 86353,

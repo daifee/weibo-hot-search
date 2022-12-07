@@ -1,0 +1,410 @@
+{
+  "runTime": 1670377214956,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3747876,
+        "num": 3747876,
+        "word": "抗原阳了这次我却一点都不慌了",
+        "onboard_time": 1670369708,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1364926,
+        "num": 1364926,
+        "word": "葡萄牙6比1瑞士",
+        "onboard_time": 1670360408,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 253407,
+        "num": 1300465,
+        "word": "药师详解奥密克戎轻症处理妙招",
+        "onboard_time": 1670333291,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1792940,
+        "num": 1289094,
+        "word": "网红触电身亡父母索赔121万",
+        "onboard_time": 1670370488,
+        "rank": 3,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1271537,
+        "num": 1271537,
+        "word": "卡塔尔世界杯8强出炉",
+        "onboard_time": 1670368626,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 935255,
+        "num": 935255,
+        "word": "手机从26楼坠落7秒落地记录全过程",
+        "onboard_time": 1670372347,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 749910,
+        "num": 749910,
+        "word": "连花清瘟线上线下差价50元",
+        "onboard_time": 1670342111,
+        "rank": 6,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 728152,
+        "num": 728152,
+        "word": "摩洛哥3比0西班牙",
+        "onboard_time": 1670350449,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 708270,
+        "num": 708270,
+        "word": "教资成绩",
+        "onboard_time": 1670370068,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 701417,
+        "num": 701417,
+        "word": "业主发现锅炉工人室内还穿棉衣",
+        "onboard_time": 1670370188,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 924060,
+        "num": 649936,
+        "word": "三胞胎妈妈再怀孕婆婆支持",
+        "onboard_time": 1670370426,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 537791,
+        "num": 537791,
+        "word": "C罗说这是不可思议的一天",
+        "onboard_time": 1670373849,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 485878,
+        "num": 485878,
+        "word": "感染者中90%是无症状可居家隔离",
+        "onboard_time": 1670374449,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 465848,
+        "num": 465848,
+        "word": "2023年元旦放假安排来了",
+        "onboard_time": 1670376070,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 439188,
+        "num": 439188,
+        "word": "患者胸痛1个月肺里取出1根针",
+        "onboard_time": 1670370426,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 383251,
+        "num": 383251,
+        "word": "C罗连续31场首发纪录终结",
+        "onboard_time": 1670356746,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 372841,
+        "num": 372841,
+        "word": "黄健翔说西班牙输日本不冤",
+        "onboard_time": 1670373729,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 366899,
+        "num": 366899,
+        "word": "Viper",
+        "onboard_time": 1670370968,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 366129,
+        "num": 366129,
+        "word": "帽子戏法",
+        "onboard_time": 1670368507,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 356163,
+        "num": 356163,
+        "word": "现在蒸馒头都这么卷了吗",
+        "onboard_time": 1670371689,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 315797,
+        "num": 315797,
+        "word": "北京昨增1170例本土确诊",
+        "onboard_time": 1670375230,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290386,
+        "num": 290386,
+        "word": "主教练称C罗对替补出场无异议",
+        "onboard_time": 1670372829,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 288906,
+        "num": 288906,
+        "word": "加维都摔绿了",
+        "onboard_time": 1670348468,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 276771,
+        "num": 276771,
+        "word": "男子手被缝16针用手肘码牌打麻将",
+        "onboard_time": 1670371868,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275983,
+        "num": 275983,
+        "word": "原神",
+        "onboard_time": 1670368266,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 272933,
+        "num": 272933,
+        "word": "大雪",
+        "onboard_time": 1670369887,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262400,
+        "num": 262400,
+        "word": "西班牙点球三连失",
+        "onboard_time": 1670368147,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 239667,
+        "num": 239667,
+        "word": "药店连花清瘟大幅涨价监管告诫将严打",
+        "onboard_time": 1670372048,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222800,
+        "num": 222800,
+        "word": "摩洛哥记者现场含泪致谢门将",
+        "onboard_time": 1670372408,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193101,
+        "num": 205721,
+        "word": "4岁女孩误吞61颗磁力珠致肠穿孔",
+        "onboard_time": 1670340611,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204847,
+        "num": 204847,
+        "word": "原来内马尔在对儿子比心",
+        "onboard_time": 1670376190,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204084,
+        "num": 204084,
+        "word": "孙继海说C罗今晚回家",
+        "onboard_time": 1670336829,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 200384,
+        "num": 200384,
+        "word": "大雪节气意味着什么",
+        "onboard_time": 1670373129,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194142,
+        "num": 194142,
+        "word": "以岭药业新专利可制作含连花清瘟口罩",
+        "onboard_time": 1670331012,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190893,
+        "num": 190893,
+        "word": "猫咪不慎被踩尾巴开启咒骂模式",
+        "onboard_time": 1670344150,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187544,
+        "num": 187544,
+        "word": "南京大屠杀幸存者向远松去世",
+        "onboard_time": 1670375290,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185782,
+        "num": 185782,
+        "word": "男子买饼需求全被老板说服",
+        "onboard_time": 1670376308,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179783,
+        "num": 179783,
+        "word": "湖人vs骑士",
+        "onboard_time": 1670374930,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176080,
+        "num": 176080,
+        "word": "女子隔离7天2只猫独自在家拆家",
+        "onboard_time": 1670334131,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168402,
+        "num": 168402,
+        "word": "开服",
+        "onboard_time": 1670373549,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 156215,
+        "num": 156215,
+        "word": "男子掰坏豪车车主称维修费27万",
+        "onboard_time": 1670369166,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155687,
+        "num": 155687,
+        "word": "久违了欢迎回家过年",
+        "onboard_time": 1670343909,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150913,
+        "num": 150913,
+        "word": "终于等到C罗",
+        "onboard_time": 1670370488,
+        "rank": 42,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 142570,
+        "num": 142570,
+        "word": "3中国人在尼泊尔打斗致1死1伤",
+        "onboard_time": 1670333651,
+        "rank": 43,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 134080,
+        "num": 134080,
+        "word": "6男子吃鸡时打架留下2人只愿AA",
+        "onboard_time": 1670335571,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124205,
+        "num": 124205,
+        "word": "世界杯第一个无比赛日",
+        "onboard_time": 1670369887,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121497,
+        "num": 121497,
+        "word": "佩戴口罩能否超过8个小时",
+        "onboard_time": 1670344569,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118232,
+        "num": 118232,
+        "word": "老人遇电诈被同事悄悄带到派出所",
+        "onboard_time": 1670376669,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118099,
+        "num": 118099,
+        "word": "詹俊神预言摩洛哥赢球",
+        "onboard_time": 1670377090,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117058,
+        "num": 117058,
+        "word": "库里当选体育画报年度最佳运动员",
+        "onboard_time": 1670376611,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#江泽民同志把毕生心血献给中国人民#"
+    }
+  }
+}
