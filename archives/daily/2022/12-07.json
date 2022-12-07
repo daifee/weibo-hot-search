@@ -1,7 +1,15 @@
 {
   "startTime": 1670343998708,
-  "endTime": 1670397413165,
+  "endTime": 1670398432984,
   "band_list": [
+    {
+      "raw_hot": 5249440,
+      "num": 5249440,
+      "word": "健康码",
+      "onboard_time": 1670395093,
+      "rank": 45,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 3776401,
       "num": 3776401,
@@ -16,14 +24,6 @@
       "word": "抗原阳了这次我却一点都不慌了",
       "onboard_time": 1670369708,
       "rank": 0,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 3693733,
-      "num": 3693733,
-      "word": "健康码",
-      "onboard_time": 1670395093,
-      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -91,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1545311,
+      "num": 1545311,
+      "word": "男子熟睡时疑被老鼠咬破头",
+      "onboard_time": 1670394133,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1467112,
       "num": 1467112,
       "word": "摩洛哥3比0西班牙",
@@ -137,14 +145,6 @@
       "onboard_time": 1670381471,
       "rank": 47,
       "category": "科技"
-    },
-    {
-      "raw_hot": 1103697,
-      "num": 1103697,
-      "word": "男子熟睡时疑被老鼠咬破头",
-      "onboard_time": 1670394133,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1032605,
@@ -241,6 +241,14 @@
       "onboard_time": 1670389392,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 847538,
+      "num": 847538,
+      "word": "疫情防控新10条新闻发布会",
+      "onboard_time": 1670397015,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 839597,
@@ -379,12 +387,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 535836,
+      "num": 535836,
+      "word": "C罗与不服老的自己和解了",
+      "onboard_time": 1670395216,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 518781,
       "num": 518781,
       "word": "摩洛哥点球战胜西班牙",
       "onboard_time": 1670349129,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 509878,
+      "num": 509878,
+      "word": "全家没有一个混吃混喝的",
+      "onboard_time": 1670395932,
+      "rank": 14,
+      "category": "幽默"
     },
     {
       "raw_hot": 506195,
@@ -419,12 +443,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 480402,
-      "num": 480402,
-      "word": "C罗与不服老的自己和解了",
-      "onboard_time": 1670395216,
-      "rank": 12,
-      "category": "体育"
+      "raw_hot": 478226,
+      "num": 478226,
+      "word": "北理工通报方岱宁相关视频事件",
+      "onboard_time": 1670395034,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 475244,
@@ -459,20 +483,28 @@
       "category": "影视"
     },
     {
-      "raw_hot": 464868,
-      "num": 464868,
-      "word": "北理工通报方岱宁相关视频事件",
-      "onboard_time": 1670395034,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 464050,
       "num": 464050,
       "word": "奥密克戎毒力接近季节性流感",
       "onboard_time": 1670312711,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 452750,
+      "num": 452750,
+      "word": "男子花13元吃饭米线只有数根",
+      "onboard_time": 1670396233,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 450189,
+      "num": 450189,
+      "word": "iPhone15折叠屏渲染图曝光",
+      "onboard_time": 1670395513,
+      "rank": 17,
+      "category": "科技"
     },
     {
       "raw_hot": 444616,
@@ -523,6 +555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 422706,
+      "num": 422706,
+      "word": "尼泊尔遇害主播家属回应",
+      "onboard_time": 1670396475,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 417523,
       "num": 417523,
       "word": "姆巴佩梅西C罗250球所用场次对比",
@@ -561,14 +601,6 @@
       "onboard_time": 1670349129,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 403971,
-      "num": 403971,
-      "word": "全家没有一个混吃混喝的",
-      "onboard_time": 1670395932,
-      "rank": 14,
-      "category": "幽默"
     },
     {
       "raw_hot": 400952,
@@ -627,14 +659,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 374853,
-      "num": 374853,
-      "word": "疫情防控新10条新闻发布会",
-      "onboard_time": 1670397015,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 372841,
       "num": 372841,
       "word": "黄健翔说西班牙输日本不冤",
@@ -683,14 +707,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 345857,
-      "num": 345857,
-      "word": "iPhone15折叠屏渲染图曝光",
-      "onboard_time": 1670395513,
-      "rank": 17,
-      "category": "科技"
-    },
-    {
       "raw_hot": 329505,
       "num": 329505,
       "word": "点球大战",
@@ -699,8 +715,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 321872,
-      "num": 321872,
+      "raw_hot": 329454,
+      "num": 329454,
       "word": "看小狗的眉毛就知道很好吃",
       "onboard_time": 1670394974,
       "rank": 40,
@@ -763,6 +779,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 298334,
+      "num": 298334,
+      "word": "员工爆料奶茶店用过期原料冰里冻蟑螂",
+      "onboard_time": 1670396713,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 291338,
       "num": 291338,
       "word": "男子买饼需求全被老板说服",
@@ -777,14 +801,6 @@
       "onboard_time": 1670372829,
       "rank": 21,
       "category": "体育"
-    },
-    {
-      "raw_hot": 288353,
-      "num": 288353,
-      "word": "男子花13元吃饭米线只有数根",
-      "onboard_time": 1670396233,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 284183,
@@ -851,8 +867,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 263736,
-      "num": 263736,
+      "raw_hot": 266501,
+      "num": 266501,
       "word": "出租车插队未果隧道逼停保时捷",
       "onboard_time": 1670394553,
       "rank": 38,
@@ -1003,14 +1019,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 209862,
-      "num": 200316,
-      "word": "尼泊尔遇害主播家属回应",
-      "onboard_time": 1670396475,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 203039,
       "num": 203039,
       "word": "男子闯医院封控住院部遭保安围殴",
@@ -1067,11 +1075,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 188051,
+      "num": 188051,
+      "word": "优化防疫政策新十条划重点",
+      "onboard_time": 1670398215,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187544,
       "num": 187544,
       "word": "南京大屠杀幸存者向远松去世",
       "onboard_time": 1670375290,
       "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 186581,
+      "num": 186581,
+      "word": "速览疫情防控新10条",
+      "onboard_time": 1670397913,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -1195,14 +1219,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 169048,
-      "num": 169048,
-      "word": "员工爆料奶茶店用过期原料冰里冻蟑螂",
-      "onboard_time": 1670396713,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 168402,
       "num": 168402,
       "word": "开服",
@@ -1243,6 +1259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 157702,
+      "num": 157702,
+      "word": "恋与制作人",
+      "onboard_time": 1670393234,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 157611,
       "num": 157611,
       "word": "全盲女子6年教会数千名盲女孩化妆",
@@ -1275,20 +1299,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 156212,
-      "num": 156212,
-      "word": "恋与制作人",
-      "onboard_time": 1670393234,
-      "rank": 36,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 154822,
       "num": 154822,
       "word": "葡萄牙将对阵摩洛哥",
       "onboard_time": 1670368266,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 153176,
+      "num": 153176,
+      "word": "老年人接种新冠疫苗有哪些便利措施",
+      "onboard_time": 1670398334,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 152123,
@@ -1321,6 +1345,14 @@
       "onboard_time": 1670370488,
       "rank": 42,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 150130,
+      "num": 150130,
+      "word": "叶婷",
+      "onboard_time": 1670397553,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 146675,
@@ -1387,6 +1419,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 142065,
+      "num": 142065,
+      "word": "山峥海薇今晚雪中拥抱",
+      "onboard_time": 1670397973,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 141676,
       "num": 141676,
       "word": "如何优化核酸检测",
@@ -1409,6 +1449,14 @@
       "onboard_time": 1670386691,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 138275,
+      "num": 138275,
+      "word": "加强重点人群健康情况摸底及分类管理",
+      "onboard_time": 1670397734,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 137964,
@@ -1465,6 +1513,22 @@
       "onboard_time": 1670396713,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 130829,
+      "num": 130829,
+      "word": "男子用锤敲镜子竟然锤子断了",
+      "onboard_time": 1670398272,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 129968,
+      "num": 129968,
+      "word": "贝克汉姆是多少球迷的意难平",
+      "onboard_time": 1670398392,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 129878,
