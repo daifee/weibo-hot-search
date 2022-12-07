@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1670445222908,
+  "endTime": 1670447833839,
   "band_list": [
     {
       "raw_hot": 8813662,
@@ -14649,6 +14649,14 @@
       "onboard_time": 1670354768,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 21588,
+      "num": 21588,
+      "word": "苹果汽车售价或低于10万美元",
+      "onboard_time": 1670445668,
+      "rank": 26,
+      "category": "科技"
     },
     {
       "raw_hot": 9720,
