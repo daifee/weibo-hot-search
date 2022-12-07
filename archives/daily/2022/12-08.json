@@ -1,6 +1,6 @@
 {
   "startTime": 1670430424869,
-  "endTime": 1670440522791,
+  "endTime": 1670441612746,
   "band_list": [
     {
       "raw_hot": 1887733,
@@ -411,6 +411,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 67721,
+      "num": 31191,
+      "word": "世界杯身价暴涨的球员",
+      "onboard_time": 1670438350,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 67196,
       "num": 1143031,
       "word": "防控措施有了这些新优化",
@@ -441,14 +449,6 @@
       "onboard_time": 1670433431,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 49634,
-      "num": 31191,
-      "word": "世界杯身价暴涨的球员",
-      "onboard_time": 1670438350,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 43444,

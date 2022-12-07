@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1670440522791,
+  "endTime": 1670441612746,
   "band_list": [
     {
       "raw_hot": 8813662,
@@ -14331,6 +14331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 67721,
+      "num": 31191,
+      "word": "世界杯身价暴涨的球员",
+      "onboard_time": 1670438350,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 67710,
       "num": 117082,
       "word": "英格兰将对阵法国",
@@ -14496,14 +14504,6 @@
       "word": "什琴斯尼连续两场扑点",
       "onboard_time": 1669838768,
       "rank": 13,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 49634,
-      "num": 31191,
-      "word": "世界杯身价暴涨的球员",
-      "onboard_time": 1670438350,
-      "rank": 30,
       "category": "体育"
     },
     {
