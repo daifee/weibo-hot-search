@@ -1,0 +1,410 @@
+{
+  "runTime": 1670456035236,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1136867,
+        "num": 1136867,
+        "word": "布洛芬遭抢购多家药企称产能可满足需求",
+        "onboard_time": 1670423954,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 866779,
+        "num": 866779,
+        "word": "杭州抗新冠中药方火了",
+        "onboard_time": 1670428513,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38697,
+        "num": 673812,
+        "word": "防控措施有了这些新优化",
+        "onboard_time": 1670392993,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 617551,
+        "num": 617551,
+        "word": "双胞胎因分数接近被学校认定作弊",
+        "onboard_time": 1670427854,
+        "rank": 3,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 392674,
+        "num": 392674,
+        "word": "这个春节可以回家过年吗",
+        "onboard_time": 1670411352,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 389031,
+        "num": 389031,
+        "word": "马斯克决定任命朱晓彤为特斯拉全球CEO",
+        "onboard_time": 1670426654,
+        "rank": 5,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 378319,
+        "num": 378319,
+        "word": "沙特",
+        "onboard_time": 1670427374,
+        "rank": 6,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 354996,
+        "num": 354996,
+        "word": "多地已取消强制性落地检",
+        "onboard_time": 1670452566,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 341445,
+        "num": 341445,
+        "word": "网传任嘉伦武庚纪停拍",
+        "onboard_time": 1670454187,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 270984,
+        "num": 270984,
+        "word": "大学生坐火车返乡被挤厕所站2小时",
+        "onboard_time": 1670425695,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339540,
+        "num": 260267,
+        "word": "多地核酸检测采购项目宣告终止",
+        "onboard_time": 1670454786,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228725,
+        "num": 228725,
+        "word": "完全恢复到疫情前需要哪些条件",
+        "onboard_time": 1670400914,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226229,
+        "num": 226229,
+        "word": "女生罗森买到过期2天牛奶",
+        "onboard_time": 1670429293,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213671,
+        "num": 213671,
+        "word": "多款感冒药卖断货",
+        "onboard_time": 1670454366,
+        "rank": 13,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 191379,
+        "num": 191379,
+        "word": "三体",
+        "onboard_time": 1670415015,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 181823,
+        "num": 181823,
+        "word": "县委大院首播收视率破2",
+        "onboard_time": 1670420895,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 180656,
+        "num": 180656,
+        "word": "世界杯身价暴涨的球员",
+        "onboard_time": 1670438350,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177047,
+        "num": 177047,
+        "word": "继父4年第1次听女儿叫爸掩面痛哭",
+        "onboard_time": 1670415855,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161287,
+        "num": 161287,
+        "word": "新冠阳性感染者如何居家隔离",
+        "onboard_time": 1670423657,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149218,
+        "num": 149218,
+        "word": "白敬亭发弹幕山上有代拍",
+        "onboard_time": 1670426713,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 132341,
+        "num": 132341,
+        "word": "小伙辞职带妈妈减肥4个月变化惊艳",
+        "onboard_time": 1670425095,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128288,
+        "num": 128288,
+        "word": "婆婆转10万缓和夫妻矛盾儿媳拒还",
+        "onboard_time": 1670412433,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128036,
+        "num": 128036,
+        "word": "北京健康宝",
+        "onboard_time": 1670418194,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117279,
+        "num": 117279,
+        "word": "杨国福麻辣烫被曝吃出蚯蚓",
+        "onboard_time": 1670424015,
+        "rank": 23,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 112328,
+        "num": 112328,
+        "word": "男子养8只哈士奇暴雪后进山狂欢",
+        "onboard_time": 1670422034,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105891,
+        "num": 105891,
+        "word": "地包天小猫被网友吐槽长相如丧尸",
+        "onboard_time": 1670427016,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103617,
+        "num": 103617,
+        "word": "33岁妈妈给3个娃每人一本房产证",
+        "onboard_time": 1670414534,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102723,
+        "num": 102723,
+        "word": "90后男子花3千硬装入住150平毛坯房",
+        "onboard_time": 1670413994,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99443,
+        "num": 99443,
+        "word": "内马尔多少有点街溜子气质",
+        "onboard_time": 1670418133,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95554,
+        "num": 95554,
+        "word": "赵丽颖李光洁挂腰吻花絮视频",
+        "onboard_time": 1670423320,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 355188,
+        "num": 95531,
+        "word": "猫咪躺前车玻璃死亡车主将其掩埋",
+        "onboard_time": 1670455087,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229725,
+        "num": 95515,
+        "word": "南京一地铁口被大量共享单车堵死",
+        "onboard_time": 1670455145,
+        "rank": 31,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 186098,
+        "num": 95499,
+        "word": "盛海琳称要携幼女拼命好好活着",
+        "onboard_time": 1670454426,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95452,
+        "num": 95452,
+        "word": "济南一瀑布被寒潮速冻后的样子",
+        "onboard_time": 1670455568,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90322,
+        "num": 90322,
+        "word": "如何评价电视剧县委大院",
+        "onboard_time": 1670428033,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 89169,
+        "num": 89169,
+        "word": "60岁生双胞胎的盛海琳丈夫离世",
+        "onboard_time": 1670413515,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87985,
+        "num": 87985,
+        "word": "广州地铁",
+        "onboard_time": 1670416514,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86572,
+        "num": 86572,
+        "word": "上海进入餐饮场所仍须查48小时核酸",
+        "onboard_time": 1670409733,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85002,
+        "num": 85002,
+        "word": "胡歌正午阳光时隔7年再合作",
+        "onboard_time": 1670418974,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 83009,
+        "num": 83009,
+        "word": "苹果汽车售价或低于10万美元",
+        "onboard_time": 1670445668,
+        "rank": 39,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 82485,
+        "num": 82485,
+        "word": "这小猫咪怎么虎里虎气的",
+        "onboard_time": 1670426115,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 80192,
+        "num": 80192,
+        "word": "王楚钦",
+        "onboard_time": 1670416815,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 78724,
+        "num": 78724,
+        "word": "阿凡达2票价你能接受吗",
+        "onboard_time": 1670404872,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 76994,
+        "num": 76994,
+        "word": "Doinb去哪儿",
+        "onboard_time": 1670429234,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 76129,
+        "num": 76129,
+        "word": "卡塔尔已经开始拆球场了",
+        "onboard_time": 1670400494,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 75290,
+        "num": 75290,
+        "word": "男孩嚼饭3分钟妈妈一口吃掉送上学",
+        "onboard_time": 1670455867,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70262,
+        "num": 70262,
+        "word": "许半夏和赵垒分手",
+        "onboard_time": 1670414833,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 69411,
+        "num": 69411,
+        "word": "进返京不再查验核酸和健康码",
+        "onboard_time": 1670417834,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68112,
+        "num": 68112,
+        "word": "杭州一医院新冠抢救药已有三个月储备",
+        "onboard_time": 1670419394,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66042,
+        "num": 66042,
+        "word": "爱的二八定律",
+        "onboard_time": 1670409253,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央政治局会议要求优化疫情防控措施#"
+    }
+  }
+}
