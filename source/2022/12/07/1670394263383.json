@@ -1,0 +1,410 @@
+{
+  "runTime": 1670394263383,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2382390,
+        "num": 2382390,
+        "word": "进一步优化防疫新十条",
+        "onboard_time": 1670392152,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2009115,
+        "num": 2009115,
+        "word": "中铁三局招聘文员要求身材好引质疑",
+        "onboard_time": 1670391432,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50741,
+        "num": 1453006,
+        "word": "药师详解奥密克戎轻症处理妙招",
+        "onboard_time": 1670333291,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1181143,
+        "num": 1181143,
+        "word": "新十条",
+        "onboard_time": 1670393054,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1112777,
+        "num": 1112777,
+        "word": "33岁女子怀孕36周仍坚持健身",
+        "onboard_time": 1670384951,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1109591,
+        "num": 1109591,
+        "word": "不再开展落地检",
+        "onboard_time": 1670392333,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 902654,
+        "num": 902654,
+        "word": "你做好可能会被感染的准备了吗",
+        "onboard_time": 1670392215,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 849969,
+        "num": 849969,
+        "word": "官方回应网传女孩举报父亲被打死后失联",
+        "onboard_time": 1670387831,
+        "rank": 7,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 645389,
+        "num": 645389,
+        "word": "肖四",
+        "onboard_time": 1670387231,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 553645,
+        "num": 553645,
+        "word": "不再对跨地区流动人员查验健康码",
+        "onboard_time": 1670392391,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 597068,
+        "num": 538674,
+        "word": "梅西来中国只为见他一面",
+        "onboard_time": 1670391793,
+        "rank": 10,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 457356,
+        "num": 457356,
+        "word": "卡塔尔世界杯惊现唐僧",
+        "onboard_time": 1670383572,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 432403,
+        "num": 432403,
+        "word": "韩剧是懂初雪仪式感的",
+        "onboard_time": 1670389815,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 393030,
+        "num": 393030,
+        "word": "蛋糕店用盗版玩具装饰蛋糕被告侵权",
+        "onboard_time": 1670390592,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 360549,
+        "num": 360549,
+        "word": "李光洁县委大院演县长曹立新",
+        "onboard_time": 1670389452,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 354284,
+        "num": 354284,
+        "word": "尹峥李薇三连吻",
+        "onboard_time": 1670389392,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 305431,
+        "num": 305431,
+        "word": "2023年元旦放假安排来了",
+        "onboard_time": 1670376070,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301760,
+        "num": 301760,
+        "word": "徐璐陈都灵新剧豆瓣评分3.6",
+        "onboard_time": 1670389392,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 296508,
+        "num": 296508,
+        "word": "金毛眼球被抠流落街头被救后离世",
+        "onboard_time": 1670377570,
+        "rank": 18,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 284586,
+        "num": 284586,
+        "word": "卿卿日常今晚更新了",
+        "onboard_time": 1670389392,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 284183,
+        "num": 284183,
+        "word": "黄磊说青山常在迎客远来今晚见",
+        "onboard_time": 1670390232,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 266606,
+        "num": 266606,
+        "word": "这是姆巴佩的弟弟姆九佩吧",
+        "onboard_time": 1670389993,
+        "rank": 21,
+        "category": "体育,幽默"
+      },
+      {
+        "raw_hot": 257404,
+        "num": 257404,
+        "word": "陈飞宇周也倒数说爱你大雪海报",
+        "onboard_time": 1670391672,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 254234,
+        "num": 254234,
+        "word": "有锁iPhone14被国内破解",
+        "onboard_time": 1670386751,
+        "rank": 23,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 234156,
+        "num": 234156,
+        "word": "县委大院全阵容官宣",
+        "onboard_time": 1670389512,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 227234,
+        "num": 227234,
+        "word": "iPhone电池保养小技巧",
+        "onboard_time": 1670381471,
+        "rank": 25,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 221003,
+        "num": 221003,
+        "word": "幼童独自在28楼天台边沿奔跑",
+        "onboard_time": 1670383332,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212583,
+        "num": 212583,
+        "word": "县委大院改了微博简介",
+        "onboard_time": 1670389512,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 210583,
+        "num": 210583,
+        "word": "非高风险区不得限制人员流动",
+        "onboard_time": 1670392572,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204840,
+        "num": 204840,
+        "word": "健康上报",
+        "onboard_time": 1670383213,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194418,
+        "num": 194418,
+        "word": "wbg",
+        "onboard_time": 1670393892,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 182480,
+        "num": 182480,
+        "word": "专家建议新冠肺炎应改称新冠病毒传染病",
+        "onboard_time": 1670379339,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180735,
+        "num": 180735,
+        "word": "患者胸痛1个月肺里取出1根针",
+        "onboard_time": 1670370426,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180418,
+        "num": 180418,
+        "word": "7日国务院联防联控机制发布会",
+        "onboard_time": 1670392692,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164738,
+        "num": 164738,
+        "word": "手机从26楼坠落7秒落地记录全过程",
+        "onboard_time": 1670372347,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163628,
+        "num": 163628,
+        "word": "芜湖疫情防控",
+        "onboard_time": 1670385972,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156212,
+        "num": 156212,
+        "word": "恋与制作人",
+        "onboard_time": 1670393234,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 155987,
+        "num": 155987,
+        "word": "三胞胎妈妈再怀孕婆婆支持",
+        "onboard_time": 1670370426,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155855,
+        "num": 155855,
+        "word": "AppStore应用最高定价74999元",
+        "onboard_time": 1670379339,
+        "rank": 38,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 154311,
+        "num": 154311,
+        "word": "C罗说这是不可思议的一天",
+        "onboard_time": 1670373849,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147687,
+        "num": 147687,
+        "word": "昆明一地要求非必要不返乡",
+        "onboard_time": 1670377570,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144958,
+        "num": 144958,
+        "word": "严禁以各种方式封堵单元门小区门",
+        "onboard_time": 1670392271,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144951,
+        "num": 144951,
+        "word": "感染者中90%是无症状可居家隔离",
+        "onboard_time": 1670374449,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144743,
+        "num": 144743,
+        "word": "业主发现锅炉工人室内还穿棉衣",
+        "onboard_time": 1670370188,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143037,
+        "num": 143037,
+        "word": "具备条件的无症状和轻型一般居家隔离",
+        "onboard_time": 1670394014,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139976,
+        "num": 139976,
+        "word": "男子熟睡时疑被老鼠咬破头",
+        "onboard_time": 1670394133,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139169,
+        "num": 139169,
+        "word": "无疫情学校要开展正常线下教学",
+        "onboard_time": 1670392215,
+        "rank": 46,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 135873,
+        "num": 135873,
+        "word": "世界杯1/4决赛对阵名单",
+        "onboard_time": 1670384590,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131403,
+        "num": 131403,
+        "word": "教资成绩",
+        "onboard_time": 1670370068,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 126955,
+        "num": 126955,
+        "word": "宝宝睡醒哭闹爸爸连滚带爬去照看",
+        "onboard_time": 1670393892,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#江泽民同志永垂不朽#"
+    }
+  }
+}

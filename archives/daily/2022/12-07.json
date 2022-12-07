@@ -1,12 +1,20 @@
 {
   "startTime": 1670343998708,
-  "endTime": 1670391225923,
+  "endTime": 1670394263383,
   "band_list": [
     {
       "raw_hot": 3747876,
       "num": 3747876,
       "word": "抗原阳了这次我却一点都不慌了",
       "onboard_time": 1670369708,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2382390,
+      "num": 2382390,
+      "word": "进一步优化防疫新十条",
+      "onboard_time": 1670392152,
       "rank": 0,
       "category": "社会新闻"
     },
@@ -24,6 +32,14 @@
       "word": "2023年元旦放假安排来了",
       "onboard_time": 1670376070,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2009115,
+      "num": 2009115,
+      "word": "中铁三局招聘文员要求身材好引质疑",
+      "onboard_time": 1670391432,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -81,6 +97,22 @@
       "onboard_time": 1670338390,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1181143,
+      "num": 1181143,
+      "word": "新十条",
+      "onboard_time": 1670393054,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1109591,
+      "num": 1109591,
+      "word": "不再开展落地检",
+      "onboard_time": 1670392333,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1107189,
@@ -153,6 +185,14 @@
       "onboard_time": 1670387831,
       "rank": 44,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 902654,
+      "num": 902654,
+      "word": "你做好可能会被感染的准备了吗",
+      "onboard_time": 1670392215,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 891825,
@@ -267,6 +307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 597068,
+      "num": 538674,
+      "word": "梅西来中国只为见他一面",
+      "onboard_time": 1670391793,
+      "rank": 10,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 567915,
       "num": 461834,
       "word": "原神",
@@ -289,6 +337,14 @@
       "onboard_time": 1670349129,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 553645,
+      "num": 553645,
+      "word": "不再对跨地区流动人员查验健康码",
+      "onboard_time": 1670392391,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 540002,
@@ -403,6 +459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 432403,
+      "num": 432403,
+      "word": "韩剧是懂初雪仪式感的",
+      "onboard_time": 1670389815,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 427954,
       "num": 427954,
       "word": "佩戴口罩能否超过8个小时",
@@ -473,6 +537,14 @@
       "onboard_time": 1670368507,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 393030,
+      "num": 393030,
+      "word": "蛋糕店用盗版玩具装饰蛋糕被告侵权",
+      "onboard_time": 1670390592,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 384683,
@@ -547,14 +619,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 327782,
-      "num": 327782,
-      "word": "韩剧是懂初雪仪式感的",
-      "onboard_time": 1670389815,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 321735,
       "num": 321735,
       "word": "猫咪不慎被踩尾巴开启咒骂模式",
@@ -627,6 +691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 284183,
+      "num": 284183,
+      "word": "黄磊说青山常在迎客远来今晚见",
+      "onboard_time": 1670390232,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 280584,
       "num": 280584,
       "word": "芜湖疫情防控",
@@ -667,20 +739,20 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 266606,
+      "num": 266606,
+      "word": "这是姆巴佩的弟弟姆九佩吧",
+      "onboard_time": 1670389993,
+      "rank": 47,
+      "category": "体育,幽默"
+    },
+    {
       "raw_hot": 266524,
       "num": 266524,
       "word": "广州16万感染者仅4例重症",
       "onboard_time": 1670319249,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 264396,
-      "num": 255571,
-      "word": "黄磊说青山常在迎客远来今晚见",
-      "onboard_time": 1670390232,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 263266,
@@ -699,8 +771,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 257404,
+      "num": 257404,
+      "word": "陈飞宇周也倒数说爱你大雪海报",
+      "onboard_time": 1670391672,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 253407,
-      "num": 1330436,
+      "num": 1453006,
       "word": "药师详解奥密克戎轻症处理妙招",
       "onboard_time": 1670333291,
       "rank": 2,
@@ -787,6 +867,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 210583,
+      "num": 210583,
+      "word": "非高风险区不得限制人员流动",
+      "onboard_time": 1670392572,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 203039,
       "num": 203039,
       "word": "男子闯医院封控住院部遭保安围殴",
@@ -835,12 +923,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 190492,
-      "num": 190492,
-      "word": "这是姆巴佩的弟弟姆九佩吧",
-      "onboard_time": 1670389993,
-      "rank": 47,
-      "category": "体育,幽默"
+      "raw_hot": 194418,
+      "num": 194418,
+      "word": "wbg",
+      "onboard_time": 1670393892,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 189264,
@@ -865,6 +953,14 @@
       "onboard_time": 1670350568,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 180418,
+      "num": 180418,
+      "word": "7日国务院联防联控机制发布会",
+      "onboard_time": 1670392692,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 180261,
@@ -1003,14 +1099,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 160954,
-      "num": 160954,
-      "word": "蛋糕店用盗版玩具装饰蛋糕被告侵权",
-      "onboard_time": 1670390592,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 157611,
       "num": 157611,
       "word": "全盲女子6年教会数千名盲女孩化妆",
@@ -1041,6 +1129,14 @@
       "onboard_time": 1670369166,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 156212,
+      "num": 156212,
+      "word": "恋与制作人",
+      "onboard_time": 1670393234,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 154822,
@@ -1091,6 +1187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 144958,
+      "num": 144958,
+      "word": "严禁以各种方式封堵单元门小区门",
+      "onboard_time": 1670392271,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144554,
       "num": 144554,
       "word": "北京每日投放连花清瘟40万盒",
@@ -1105,6 +1209,14 @@
       "onboard_time": 1670390773,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 143037,
+      "num": 143037,
+      "word": "具备条件的无症状和轻型一般居家隔离",
+      "onboard_time": 1670394014,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 142403,
@@ -1123,12 +1235,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 139976,
+      "num": 139976,
+      "word": "男子熟睡时疑被老鼠咬破头",
+      "onboard_time": 1670394133,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 139848,
       "num": 139848,
       "word": "C罗在替补席也是焦点",
       "onboard_time": 1670386691,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139169,
+      "num": 139169,
+      "word": "无疫情学校要开展正常线下教学",
+      "onboard_time": 1670392215,
+      "rank": 46,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 137964,
@@ -1192,6 +1320,14 @@
       "word": "儿童新冠发病7日图",
       "onboard_time": 1670333889,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 126955,
+      "num": 126955,
+      "word": "宝宝睡醒哭闹爸爸连滚带爬去照看",
+      "onboard_time": 1670393892,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
