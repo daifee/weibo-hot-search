@@ -1,6 +1,6 @@
 {
   "startTime": 1670343998708,
-  "endTime": 1670422647568,
+  "endTime": 1670423610975,
   "band_list": [
     {
       "raw_hot": 8813662,
@@ -203,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1229195,
+      "num": 1229195,
+      "word": "县委大院首播收视率破2",
+      "onboard_time": 1670420895,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1223701,
       "num": 1091945,
       "word": "叶婷",
@@ -257,14 +265,6 @@
       "onboard_time": 1670377570,
       "rank": 13,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 967645,
-      "num": 967645,
-      "word": "县委大院首播收视率破2",
-      "onboard_time": 1670420895,
-      "rank": 6,
-      "category": "影视"
     },
     {
       "raw_hot": 952582,
@@ -419,6 +419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 760419,
+      "num": 760419,
+      "word": "北京健康宝",
+      "onboard_time": 1670418194,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 752145,
       "num": 525158,
       "word": "马云卸任浙商总会会长",
@@ -441,14 +449,6 @@
       "onboard_time": 1670373849,
       "rank": 11,
       "category": "体育"
-    },
-    {
-      "raw_hot": 726220,
-      "num": 726220,
-      "word": "北京健康宝",
-      "onboard_time": 1670418194,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 723256,
@@ -507,6 +507,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 665774,
+      "num": 665774,
+      "word": "杭州一医院新冠抢救药已有三个月储备",
+      "onboard_time": 1670419394,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 663805,
       "num": 663805,
       "word": "刘诗诗为胡歌宣传新剧县委大院",
@@ -531,20 +539,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 631727,
+      "num": 631727,
+      "word": "内马尔多少有点街溜子气质",
+      "onboard_time": 1670418133,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 629824,
       "num": 629824,
       "word": "卿卿日常今晚更新了",
       "onboard_time": 1670389392,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 625992,
-      "num": 625992,
-      "word": "内马尔多少有点街溜子气质",
-      "onboard_time": 1670418133,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 624725,
@@ -643,14 +651,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 562416,
-      "num": 562416,
-      "word": "杭州一医院新冠抢救药已有三个月储备",
-      "onboard_time": 1670419394,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 561616,
       "num": 561616,
       "word": "葡萄牙首发",
@@ -744,6 +744,14 @@
       "word": "县委大院",
       "onboard_time": 1670415015,
       "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 486516,
+      "num": 486516,
+      "word": "胡歌梅晓歌长腿干饭人",
+      "onboard_time": 1670423417,
+      "rank": 14,
       "category": "影视"
     },
     {
@@ -1371,6 +1379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 277774,
+      "num": 252544,
+      "word": "编剧是真没上过班吧",
+      "onboard_time": 1670422517,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 276771,
       "num": 276771,
       "word": "男子手被缝16针用手肘码牌打麻将",
@@ -1443,6 +1459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 259917,
+      "num": 259917,
+      "word": "杭州地铁不再查验健康码",
+      "onboard_time": 1670421794,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 259445,
       "num": 259445,
       "word": "世界杯1/4决赛对阵名单",
@@ -1497,6 +1521,14 @@
       "onboard_time": 1670406072,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 248918,
+      "num": 248918,
+      "word": "赵丽颖李光洁挂腰吻花絮视频",
+      "onboard_time": 1670423320,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 245603,
@@ -1568,14 +1600,6 @@
       "word": "阳性病例现在主要是上呼吸道症状",
       "onboard_time": 1670317030,
       "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 228306,
-      "num": 228306,
-      "word": "杭州地铁不再查验健康码",
-      "onboard_time": 1670421794,
-      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -1675,6 +1699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 206076,
+      "num": 206076,
+      "word": "男子养8只哈士奇暴雪后进山狂欢",
+      "onboard_time": 1670422034,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 204372,
       "num": 204372,
       "word": "优化防疫后你有出游计划吗",
@@ -1760,14 +1792,6 @@
       "word": "卿卿日常",
       "onboard_time": 1670389392,
       "rank": 36,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 194887,
-      "num": 194887,
-      "word": "编剧是真没上过班吧",
-      "onboard_time": 1670422517,
-      "rank": 41,
       "category": "影视"
     },
     {
@@ -2113,14 +2137,6 @@
       "onboard_time": 1670359447,
       "rank": 10,
       "category": "体育"
-    },
-    {
-      "raw_hot": 159982,
-      "num": 159982,
-      "word": "男子养8只哈士奇暴雪后进山狂欢",
-      "onboard_time": 1670422034,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 157702,
@@ -2489,6 +2505,14 @@
       "onboard_time": 1670382851,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 132436,
+      "num": 132436,
+      "word": "庞星火给大家细致入微的防疫提醒",
+      "onboard_time": 1670423354,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 131951,
