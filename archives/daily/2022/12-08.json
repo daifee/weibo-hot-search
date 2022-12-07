@@ -1,6 +1,6 @@
 {
   "startTime": 1670430424869,
-  "endTime": 1670452502576,
+  "endTime": 1670455125110,
   "band_list": [
     {
       "raw_hot": 1887733,
@@ -35,6 +35,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 871004,
+      "num": 871004,
+      "word": "杭州抗新冠中药方火了",
+      "onboard_time": 1670428513,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 684483,
       "num": 684483,
       "word": "马斯克决定任命朱晓彤为特斯拉全球CEO",
@@ -44,7 +52,7 @@
     },
     {
       "raw_hot": 625729,
-      "num": 500917,
+      "num": 501080,
       "word": "双胞胎因分数接近被学校认定作弊",
       "onboard_time": 1670427854,
       "rank": 11,
@@ -56,14 +64,6 @@
       "word": "完全恢复到疫情前需要哪些条件",
       "onboard_time": 1670400914,
       "rank": 5,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 528926,
-      "num": 528926,
-      "word": "杭州抗新冠中药方火了",
-      "onboard_time": 1670428513,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -139,6 +139,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 308615,
+      "num": 210963,
+      "word": "多地已取消强制性落地检",
+      "onboard_time": 1670452566,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 303924,
+      "num": 303924,
+      "word": "这个春节可以回家过年吗",
+      "onboard_time": 1670411352,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 282476,
       "num": 282476,
       "word": "广州地铁",
@@ -156,7 +172,7 @@
     },
     {
       "raw_hot": 260959,
-      "num": 208416,
+      "num": 221232,
       "word": "女生罗森买到过期2天牛奶",
       "onboard_time": 1670429293,
       "rank": 35,
@@ -185,6 +201,14 @@
       "onboard_time": 1670413515,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 226074,
+      "num": 226074,
+      "word": "网传任嘉伦武庚纪停拍",
+      "onboard_time": 1670454187,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 203388,
@@ -243,6 +267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 162659,
+      "num": 82238,
+      "word": "多款感冒药卖断货",
+      "onboard_time": 1670454366,
+      "rank": 30,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 162235,
       "num": 162235,
       "word": "90后男子花3千硬装入住150平毛坯房",
@@ -283,20 +315,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 143509,
-      "num": 143509,
-      "word": "这个春节可以回家过年吗",
-      "onboard_time": 1670411352,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 142819,
       "num": 142819,
       "word": "县委大院",
       "onboard_time": 1670415015,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 137248,
+      "num": 137248,
+      "word": "世界杯身价暴涨的球员",
+      "onboard_time": 1670438350,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 129515,
@@ -395,12 +427,36 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 96934,
+      "num": 96934,
+      "word": "卡塔尔已经开始拆球场了",
+      "onboard_time": 1670400494,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 95330,
+      "num": 81595,
+      "word": "盛海琳称要携幼女拼命好好活着",
+      "onboard_time": 1670454426,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 94257,
       "num": 94257,
       "word": "如何评价电视剧县委大院",
       "onboard_time": 1670428033,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 90038,
+      "num": 90038,
+      "word": "多地核酸检测采购项目宣告终止",
+      "onboard_time": 1670454786,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 76924,
@@ -411,28 +467,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 67721,
-      "num": 64235,
-      "word": "世界杯身价暴涨的球员",
-      "onboard_time": 1670438350,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 67196,
       "num": 1143031,
       "word": "防控措施有了这些新优化",
       "onboard_time": 1670392993,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 67008,
-      "num": 67008,
-      "word": "卡塔尔已经开始拆球场了",
-      "onboard_time": 1670400494,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 63529,
@@ -443,6 +483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 61508,
+      "num": 61508,
+      "word": "苹果汽车售价或低于10万美元",
+      "onboard_time": 1670445668,
+      "rank": 26,
+      "category": "科技"
+    },
+    {
       "raw_hot": 55546,
       "num": 55546,
       "word": "周茜要把陈宇宙忘了",
@@ -451,20 +499,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 48496,
+      "num": 48496,
+      "word": "猫咪躺前车玻璃死亡车主将其掩埋",
+      "onboard_time": 1670455087,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 43444,
       "num": 43444,
       "word": "感染后出现哪些症状需到医院就诊",
       "onboard_time": 1670436429,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 38869,
-      "num": 38869,
-      "word": "苹果汽车售价或低于10万美元",
-      "onboard_time": 1670445668,
-      "rank": 26,
-      "category": "科技"
     }
   ],
   "hotgov_list": [
