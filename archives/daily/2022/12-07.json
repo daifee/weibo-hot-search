@@ -1,6 +1,6 @@
 {
   "startTime": 1670343998708,
-  "endTime": 1670416539106,
+  "endTime": 1670417682563,
   "band_list": [
     {
       "raw_hot": 8813662,
@@ -8,6 +8,14 @@
       "word": "健康码",
       "onboard_time": 1670395093,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 4299921,
+      "num": 4299921,
+      "word": "专家称最终8至9成的人或经历新冠感染",
+      "onboard_time": 1670412913,
+      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -23,14 +31,6 @@
       "num": 3747876,
       "word": "抗原阳了这次我却一点都不慌了",
       "onboard_time": 1670369708,
-      "rank": 0,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 3392662,
-      "num": 3392662,
-      "word": "专家称最终8至9成的人或经历新冠感染",
-      "onboard_time": 1670412913,
       "rank": 0,
       "category": "社会新闻"
     },
@@ -227,6 +227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1026723,
+      "num": 1026723,
+      "word": "三体",
+      "onboard_time": 1670415015,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1018644,
       "num": 455583,
       "word": "加维 帅",
@@ -323,12 +331,28 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 889814,
+      "num": 530797,
+      "word": "北京疫情发布会",
+      "onboard_time": 1670415974,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 882561,
       "num": 882561,
       "word": "加维都摔绿了",
       "onboard_time": 1670348468,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 881151,
+      "num": 881151,
+      "word": "60岁生双胞胎的盛海琳丈夫离世",
+      "onboard_time": 1670413515,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 876197,
@@ -369,14 +393,6 @@
       "onboard_time": 1670342111,
       "rank": 21,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 798680,
-      "num": 798680,
-      "word": "60岁生双胞胎的盛海琳丈夫离世",
-      "onboard_time": 1670413515,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 777615,
@@ -441,14 +457,6 @@
       "onboard_time": 1670336829,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 666465,
-      "num": 666465,
-      "word": "三体",
-      "onboard_time": 1670415015,
-      "rank": 8,
-      "category": "影视"
     },
     {
       "raw_hot": 663805,
@@ -579,6 +587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 558536,
+      "num": 515924,
+      "word": "继父4年第1次听女儿叫爸掩面痛哭",
+      "onboard_time": 1670415855,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 553645,
       "num": 553645,
       "word": "不再对跨地区流动人员查验健康码",
@@ -643,8 +659,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 493518,
-      "num": 493518,
+      "raw_hot": 494047,
+      "num": 494047,
       "word": "33岁妈妈给3个娃每人一本房产证",
       "onboard_time": 1670414534,
       "rank": 15,
@@ -731,6 +747,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 465828,
+      "num": 465828,
+      "word": "广州地铁",
+      "onboard_time": 1670416514,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 464050,
       "num": 464050,
       "word": "奥密克戎毒力接近季节性流感",
@@ -740,7 +764,7 @@
     },
     {
       "raw_hot": 460880,
-      "num": 367257,
+      "num": 447514,
       "word": "许半夏和赵垒分手",
       "onboard_time": 1670414833,
       "rank": 20,
@@ -761,6 +785,14 @@
       "onboard_time": 1670396233,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 449954,
+      "num": 449954,
+      "word": "C罗被载入历史的一球",
+      "onboard_time": 1670413334,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 444616,
@@ -819,6 +851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 422274,
+      "num": 411963,
+      "word": "县委大院",
+      "onboard_time": 1670415015,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 417523,
       "num": 417523,
       "word": "姆巴佩梅西C罗250球所用场次对比",
@@ -849,14 +889,6 @@
       "onboard_time": 1670411352,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 408235,
-      "num": 344300,
-      "word": "县委大院",
-      "onboard_time": 1670415015,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 407267,
@@ -907,6 +939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 393554,
+      "num": 393554,
+      "word": "樊振东",
+      "onboard_time": 1670415674,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 393030,
       "num": 393030,
       "word": "蛋糕店用盗版玩具装饰蛋糕被告侵权",
@@ -937,14 +977,6 @@
       "onboard_time": 1670386751,
       "rank": 43,
       "category": "科技"
-    },
-    {
-      "raw_hot": 376915,
-      "num": 376915,
-      "word": "C罗被载入历史的一球",
-      "onboard_time": 1670413334,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 376140,
@@ -1025,6 +1057,14 @@
       "onboard_time": 1670398392,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 340509,
+      "num": 340509,
+      "word": "90后男子花3千硬装入住150平毛坯房",
+      "onboard_time": 1670413994,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 338466,
@@ -1123,14 +1163,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 312657,
-      "num": 312657,
-      "word": "90后男子花3千硬装入住150平毛坯房",
-      "onboard_time": 1670413994,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 312591,
       "num": 312591,
       "word": "6男子吃鸡时打架留下2人只愿AA",
@@ -1139,19 +1171,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 311669,
+      "num": 311669,
+      "word": "网购二手Prada包一擦就掉色",
+      "onboard_time": 1670413634,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 308702,
       "num": 308702,
       "word": "20岁女生有1个妹妹再喜提双胞胎弟弟",
       "onboard_time": 1670321230,
       "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 308168,
-      "num": 308168,
-      "word": "网购二手Prada包一擦就掉色",
-      "onboard_time": 1670413634,
-      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -1179,6 +1211,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 296218,
+      "num": 151578,
+      "word": "卿卿日常大结局预告好甜",
+      "onboard_time": 1670417655,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 291338,
       "num": 291338,
       "word": "男子买饼需求全被老板说服",
@@ -1193,14 +1233,6 @@
       "onboard_time": 1670372829,
       "rank": 21,
       "category": "体育"
-    },
-    {
-      "raw_hot": 288546,
-      "num": 288546,
-      "word": "北京疫情发布会",
-      "onboard_time": 1670415974,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 284183,
@@ -1331,14 +1363,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 251073,
-      "num": 251073,
-      "word": "樊振东",
-      "onboard_time": 1670415674,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 249061,
       "num": 249061,
       "word": "这孟婆汤是掺水了吧",
@@ -1353,6 +1377,14 @@
       "onboard_time": 1670395633,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 244693,
+      "num": 244693,
+      "word": "长沙南站的双码查验口已经全部撤离",
+      "onboard_time": 1670415914,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 239667,
@@ -1419,12 +1451,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 227212,
-      "num": 227212,
-      "word": "继父4年第1次听女儿叫爸掩面痛哭",
-      "onboard_time": 1670415855,
-      "rank": 33,
-      "category": "社会新闻"
+      "raw_hot": 228969,
+      "num": 228969,
+      "word": "王楚钦",
+      "onboard_time": 1670416815,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 224085,
@@ -1547,6 +1579,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 201473,
+      "num": 201473,
+      "word": "张新成演我上班第一天",
+      "onboard_time": 1670417054,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 201442,
+      "num": 201442,
+      "word": "终于等到山峥海薇大婚",
+      "onboard_time": 1670416994,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 200384,
       "num": 200384,
       "word": "大雪节气意味着什么",
@@ -1617,6 +1665,14 @@
       "onboard_time": 1670399592,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 189967,
+      "num": 189967,
+      "word": "许半夏赵垒解除误会",
+      "onboard_time": 1670417233,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 189264,
@@ -1835,6 +1891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 168788,
+      "num": 168788,
+      "word": "这身离谱的穿搭瞬间都合理了",
+      "onboard_time": 1670416874,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 168734,
       "num": 168734,
       "word": "男生坐行李箱上迎寒风敲2小时代码",
@@ -1865,14 +1929,6 @@
       "onboard_time": 1670400655,
       "rank": 40,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 165345,
-      "num": 165345,
-      "word": "广州地铁",
-      "onboard_time": 1670416514,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 163733,
@@ -1947,6 +2003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 155598,
+      "num": 155598,
+      "word": "孙颖莎",
+      "onboard_time": 1670417115,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 154822,
       "num": 154822,
       "word": "葡萄牙将对阵摩洛哥",
@@ -1993,6 +2057,22 @@
       "onboard_time": 1670382130,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 151513,
+      "num": 151513,
+      "word": "当一个艺术爱好者失恋后",
+      "onboard_time": 1670417594,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 151353,
+      "num": 151353,
+      "word": "sky光遇",
+      "onboard_time": 1670417655,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 150913,
