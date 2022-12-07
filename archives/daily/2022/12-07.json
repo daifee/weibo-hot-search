@@ -1,7 +1,15 @@
 {
   "startTime": 1670343998708,
-  "endTime": 1670395166620,
+  "endTime": 1670397413165,
   "band_list": [
+    {
+      "raw_hot": 3776401,
+      "num": 3776401,
+      "word": "新十条",
+      "onboard_time": 1670393054,
+      "rank": 3,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 3747876,
       "num": 3747876,
@@ -11,11 +19,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3693733,
+      "num": 3693733,
+      "word": "健康码",
+      "onboard_time": 1670395093,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2382390,
       "num": 2382390,
       "word": "进一步优化防疫新十条",
       "onboard_time": 1670392152,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2325939,
+      "num": 1147354,
+      "word": "你做好可能会被感染的准备了吗",
+      "onboard_time": 1670392215,
+      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -47,14 +71,6 @@
       "num": 1857585,
       "word": "33岁女子怀孕36周仍坚持健身",
       "onboard_time": 1670384951,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1812220,
-      "num": 1812220,
-      "word": "新十条",
-      "onboard_time": 1670393054,
       "rank": 3,
       "category": "社会新闻"
     },
@@ -115,20 +131,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1147354,
-      "num": 1147354,
-      "word": "你做好可能会被感染的准备了吗",
-      "onboard_time": 1670392215,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1107189,
       "num": 1107189,
       "word": "iPhone电池保养小技巧",
       "onboard_time": 1670381471,
       "rank": 47,
       "category": "科技"
+    },
+    {
+      "raw_hot": 1103697,
+      "num": 1103697,
+      "word": "男子熟睡时疑被老鼠咬破头",
+      "onboard_time": 1670394133,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1032605,
@@ -203,6 +219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 891461,
+      "num": 891461,
+      "word": "梅西来中国只为见他一面",
+      "onboard_time": 1670391793,
+      "rank": 10,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 882561,
       "num": 882561,
       "word": "加维都摔绿了",
@@ -275,14 +299,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 671951,
-      "num": 671951,
-      "word": "梅西来中国只为见他一面",
-      "onboard_time": 1670391793,
-      "rank": 10,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 629824,
       "num": 629824,
       "word": "卿卿日常今晚更新了",
@@ -305,6 +321,14 @@
       "onboard_time": 1670379339,
       "rank": 11,
       "category": "科技"
+    },
+    {
+      "raw_hot": 620567,
+      "num": 620567,
+      "word": "爱的二八定律韩国口碑",
+      "onboard_time": 1670395814,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 611887,
@@ -379,19 +403,27 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 492157,
-      "num": 481827,
-      "word": "男子熟睡时疑被老鼠咬破头",
-      "onboard_time": 1670394133,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 490194,
       "num": 424280,
       "word": "西班牙球衣 好看",
       "onboard_time": 1670340189,
       "rank": 7,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 483566,
+      "num": 483566,
+      "word": "无疫情学校要开展正常线下教学",
+      "onboard_time": 1670392215,
+      "rank": 46,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 480402,
+      "num": 480402,
+      "word": "C罗与不服老的自己和解了",
+      "onboard_time": 1670395216,
+      "rank": 12,
       "category": "体育"
     },
     {
@@ -425,6 +457,14 @@
       "onboard_time": 1670389512,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 464868,
+      "num": 464868,
+      "word": "北理工通报方岱宁相关视频事件",
+      "onboard_time": 1670395034,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 464050,
@@ -523,6 +563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 403971,
+      "num": 403971,
+      "word": "全家没有一个混吃混喝的",
+      "onboard_time": 1670395932,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 400952,
       "num": 400952,
       "word": "以岭药业新专利可制作含连花清瘟口罩",
@@ -569,6 +617,22 @@
       "onboard_time": 1670386751,
       "rank": 43,
       "category": "科技"
+    },
+    {
+      "raw_hot": 376140,
+      "num": 376140,
+      "word": "wbg",
+      "onboard_time": 1670393892,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 374853,
+      "num": 374853,
+      "word": "疫情防控新10条新闻发布会",
+      "onboard_time": 1670397015,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 372841,
@@ -619,12 +683,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 337908,
-      "num": 337908,
-      "word": "无疫情学校要开展正常线下教学",
-      "onboard_time": 1670392215,
-      "rank": 46,
-      "category": "社会新闻,教育"
+      "raw_hot": 345857,
+      "num": 345857,
+      "word": "iPhone15折叠屏渲染图曝光",
+      "onboard_time": 1670395513,
+      "rank": 17,
+      "category": "科技"
     },
     {
       "raw_hot": 329505,
@@ -633,6 +697,14 @@
       "onboard_time": 1670348410,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 321872,
+      "num": 321872,
+      "word": "看小狗的眉毛就知道很好吃",
+      "onboard_time": 1670394974,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 321735,
@@ -657,14 +729,6 @@
       "onboard_time": 1670375230,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 314824,
-      "num": 314824,
-      "word": "wbg",
-      "onboard_time": 1670393892,
-      "rank": 30,
-      "category": "游戏"
     },
     {
       "raw_hot": 314555,
@@ -713,6 +777,14 @@
       "onboard_time": 1670372829,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 288353,
+      "num": 288353,
+      "word": "男子花13元吃饭米线只有数根",
+      "onboard_time": 1670396233,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 284183,
@@ -779,6 +851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 263736,
+      "num": 263736,
+      "word": "出租车插队未果隧道逼停保时捷",
+      "onboard_time": 1670394553,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 263266,
       "num": 263266,
       "word": "男孩时隔4个月见父母礼貌喊叔叔",
@@ -803,12 +883,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 255990,
+      "num": 255990,
+      "word": "7日国务院联防联控机制发布会",
+      "onboard_time": 1670392692,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 253407,
       "num": 1830278,
       "word": "药师详解奥密克戎轻症处理妙招",
       "onboard_time": 1670333291,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 245603,
+      "num": 245603,
+      "word": "阿凡达2口碑解禁",
+      "onboard_time": 1670395633,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 239667,
@@ -907,6 +1003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 209862,
+      "num": 200316,
+      "word": "尼泊尔遇害主播家属回应",
+      "onboard_time": 1670396475,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 203039,
       "num": 203039,
       "word": "男子闯医院封控住院部遭保安围殴",
@@ -971,20 +1075,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 182560,
+      "num": 182560,
+      "word": "方岱宁视频中女性不是博士后李某某",
+      "onboard_time": 1670396893,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 182396,
       "num": 182396,
       "word": "勺子点球",
       "onboard_time": 1670350568,
       "rank": 20,
       "category": "体育"
-    },
-    {
-      "raw_hot": 180418,
-      "num": 180418,
-      "word": "7日国务院联防联控机制发布会",
-      "onboard_time": 1670392692,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 180261,
@@ -1089,6 +1193,14 @@
       "onboard_time": 1670353210,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 169048,
+      "num": 169048,
+      "word": "员工爆料奶茶店用过期原料冰里冻蟑螂",
+      "onboard_time": 1670396713,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 168402,
@@ -1211,36 +1323,12 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 149138,
-      "num": 149138,
-      "word": "北理工通报方岱宁相关视频事件",
-      "onboard_time": 1670395034,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 147618,
-      "num": 147618,
-      "word": "出租车插队未果隧道逼停保时捷",
-      "onboard_time": 1670394553,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 146675,
       "num": 146675,
       "word": "摩洛哥门将",
       "onboard_time": 1670349548,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 145285,
-      "num": 145285,
-      "word": "看小狗的眉毛就知道很好吃",
-      "onboard_time": 1670394974,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 144958,
@@ -1283,6 +1371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 142460,
+      "num": 142460,
+      "word": "风吹半夏情节真高能",
+      "onboard_time": 1670396475,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 142403,
       "num": 142403,
       "word": "龚俊提醒你谨防足球诈骗",
@@ -1296,14 +1392,6 @@
       "word": "如何优化核酸检测",
       "onboard_time": 1670394914,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 141216,
-      "num": 141216,
-      "word": "健康码",
-      "onboard_time": 1670395093,
-      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -1329,6 +1417,14 @@
       "onboard_time": 1670391072,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 137942,
+      "num": 137942,
+      "word": "研究揭示为何天冷更易感冒",
+      "onboard_time": 1670397073,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 136678,
@@ -1361,6 +1457,14 @@
       "onboard_time": 1670382851,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 131951,
+      "num": 131951,
+      "word": "伊甸园2",
+      "onboard_time": 1670396713,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 129878,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1670397413165,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3776401,
+        "num": 3776401,
+        "word": "新十条",
+        "onboard_time": 1670393054,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3693733,
+        "num": 3693733,
+        "word": "健康码",
+        "onboard_time": 1670395093,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34359,
+        "num": 1365989,
+        "word": "药师详解奥密克戎轻症处理妙招",
+        "onboard_time": 1670333291,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1201568,
+        "num": 1201568,
+        "word": "不再开展落地检",
+        "onboard_time": 1670392333,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1103697,
+        "num": 1103697,
+        "word": "男子熟睡时疑被老鼠咬破头",
+        "onboard_time": 1670394133,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2325939,
+        "num": 1097652,
+        "word": "你做好可能会被感染的准备了吗",
+        "onboard_time": 1670392215,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1054741,
+        "num": 1054741,
+        "word": "进一步优化防疫新十条",
+        "onboard_time": 1670392152,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 891461,
+        "num": 891461,
+        "word": "梅西来中国只为见他一面",
+        "onboard_time": 1670391793,
+        "rank": 7,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 620567,
+        "num": 620567,
+        "word": "爱的二八定律韩国口碑",
+        "onboard_time": 1670395814,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 603575,
+        "num": 603575,
+        "word": "33岁女子怀孕36周仍坚持健身",
+        "onboard_time": 1670384951,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1283997,
+        "num": 556531,
+        "word": "中铁三局招聘文员要求身材好引质疑",
+        "onboard_time": 1670391432,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 483566,
+        "num": 483566,
+        "word": "无疫情学校要开展正常线下教学",
+        "onboard_time": 1670392215,
+        "rank": 11,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 480402,
+        "num": 480402,
+        "word": "C罗与不服老的自己和解了",
+        "onboard_time": 1670395216,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 464868,
+        "num": 464868,
+        "word": "北理工通报方岱宁相关视频事件",
+        "onboard_time": 1670395034,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 403971,
+        "num": 403971,
+        "word": "全家没有一个混吃混喝的",
+        "onboard_time": 1670395932,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 376140,
+        "num": 376140,
+        "word": "wbg",
+        "onboard_time": 1670393892,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 374853,
+        "num": 374853,
+        "word": "疫情防控新10条新闻发布会",
+        "onboard_time": 1670397015,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345857,
+        "num": 345857,
+        "word": "iPhone15折叠屏渲染图曝光",
+        "onboard_time": 1670395513,
+        "rank": 17,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 340041,
+        "num": 340041,
+        "word": "肖四",
+        "onboard_time": 1670387231,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 321872,
+        "num": 321872,
+        "word": "看小狗的眉毛就知道很好吃",
+        "onboard_time": 1670394974,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 346950,
+        "num": 318575,
+        "word": "官方回应网传女孩举报父亲被打死后失联",
+        "onboard_time": 1670387831,
+        "rank": 20,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 297557,
+        "num": 297557,
+        "word": "尹峥李薇三连吻",
+        "onboard_time": 1670389392,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 288353,
+        "num": 288353,
+        "word": "男子花13元吃饭米线只有数根",
+        "onboard_time": 1670396233,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263736,
+        "num": 263736,
+        "word": "出租车插队未果隧道逼停保时捷",
+        "onboard_time": 1670394553,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255990,
+        "num": 255990,
+        "word": "7日国务院联防联控机制发布会",
+        "onboard_time": 1670392692,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252232,
+        "num": 252232,
+        "word": "韩剧是懂初雪仪式感的",
+        "onboard_time": 1670389815,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 245603,
+        "num": 245603,
+        "word": "阿凡达2口碑解禁",
+        "onboard_time": 1670395633,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 239118,
+        "num": 239118,
+        "word": "不再对跨地区流动人员查验健康码",
+        "onboard_time": 1670392391,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235690,
+        "num": 235690,
+        "word": "蛋糕店用盗版玩具装饰蛋糕被告侵权",
+        "onboard_time": 1670390592,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200486,
+        "num": 200486,
+        "word": "李光洁县委大院演县长曹立新",
+        "onboard_time": 1670389452,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 209862,
+        "num": 200316,
+        "word": "尼泊尔遇害主播家属回应",
+        "onboard_time": 1670396475,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199323,
+        "num": 199323,
+        "word": "幼童独自在28楼天台边沿奔跑",
+        "onboard_time": 1670383332,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187269,
+        "num": 187269,
+        "word": "有锁iPhone14被国内破解",
+        "onboard_time": 1670386751,
+        "rank": 32,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 187120,
+        "num": 187120,
+        "word": "陈飞宇周也倒数说爱你大雪海报",
+        "onboard_time": 1670391672,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 182560,
+        "num": 182560,
+        "word": "方岱宁视频中女性不是博士后李某某",
+        "onboard_time": 1670396893,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173179,
+        "num": 173179,
+        "word": "卿卿日常今晚更新了",
+        "onboard_time": 1670389392,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 169048,
+        "num": 169048,
+        "word": "员工爆料奶茶店用过期原料冰里冻蟑螂",
+        "onboard_time": 1670396713,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163021,
+        "num": 163021,
+        "word": "徐璐陈都灵新剧豆瓣评分3.6",
+        "onboard_time": 1670389392,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 153135,
+        "num": 153135,
+        "word": "iPhone电池保养小技巧",
+        "onboard_time": 1670381471,
+        "rank": 38,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 152959,
+        "num": 152959,
+        "word": "县委大院全阵容官宣",
+        "onboard_time": 1670389512,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 150725,
+        "num": 150725,
+        "word": "金毛眼球被抠流落街头被救后离世",
+        "onboard_time": 1670377570,
+        "rank": 40,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 150163,
+        "num": 150163,
+        "word": "卡塔尔世界杯惊现唐僧",
+        "onboard_time": 1670383572,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145935,
+        "num": 145935,
+        "word": "黄磊说青山常在迎客远来今晚见",
+        "onboard_time": 1670390232,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 145915,
+        "num": 145915,
+        "word": "恋与制作人",
+        "onboard_time": 1670393234,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 143164,
+        "num": 143164,
+        "word": "2023年元旦放假安排来了",
+        "onboard_time": 1670376070,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142460,
+        "num": 142460,
+        "word": "风吹半夏情节真高能",
+        "onboard_time": 1670396475,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 137942,
+        "num": 137942,
+        "word": "研究揭示为何天冷更易感冒",
+        "onboard_time": 1670397073,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137281,
+        "num": 137281,
+        "word": "这是姆巴佩的弟弟姆九佩吧",
+        "onboard_time": 1670389993,
+        "rank": 47,
+        "category": "体育,幽默"
+      },
+      {
+        "raw_hot": 135964,
+        "num": 135964,
+        "word": "健康上报",
+        "onboard_time": 1670383213,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131951,
+        "num": 131951,
+        "word": "伊甸园2",
+        "onboard_time": 1670396713,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#江泽民同志把毕生心血献给中国人民#"
+    }
+  }
+}
