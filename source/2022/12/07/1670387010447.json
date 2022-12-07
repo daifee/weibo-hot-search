@@ -1,0 +1,410 @@
+{
+  "runTime": 1670387010447,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1492887,
+        "num": 1492887,
+        "word": "专家建议新冠肺炎应改称新冠病毒传染病",
+        "onboard_time": 1670379339,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1489474,
+        "num": 1489474,
+        "word": "2023年元旦放假安排来了",
+        "onboard_time": 1670376070,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94758,
+        "num": 1216080,
+        "word": "药师详解奥密克戎轻症处理妙招",
+        "onboard_time": 1670333291,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1144255,
+        "num": 1144255,
+        "word": "33岁女子怀孕36周仍坚持健身",
+        "onboard_time": 1670384951,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1107189,
+        "num": 1107189,
+        "word": "iPhone电池保养小技巧",
+        "onboard_time": 1670381471,
+        "rank": 4,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 862143,
+        "num": 862143,
+        "word": "卡塔尔世界杯8强出炉",
+        "onboard_time": 1670368626,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 785293,
+        "num": 785293,
+        "word": "卡塔尔世界杯惊现唐僧",
+        "onboard_time": 1670383572,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 554017,
+        "num": 554017,
+        "word": "网红触电身亡父母索赔121万",
+        "onboard_time": 1670370488,
+        "rank": 7,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 441922,
+        "num": 441922,
+        "word": "幼童独自在28楼天台边沿奔跑",
+        "onboard_time": 1670383332,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 406676,
+        "num": 406676,
+        "word": "C罗说这是不可思议的一天",
+        "onboard_time": 1670373849,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 550592,
+        "num": 401075,
+        "word": "金毛眼球被抠流落街头被救后离世",
+        "onboard_time": 1670377570,
+        "rank": 10,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 393090,
+        "num": 393090,
+        "word": "男子醉驾致2死1伤却浑然不知",
+        "onboard_time": 1670380571,
+        "rank": 11,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 379210,
+        "num": 379210,
+        "word": "昆明一地要求非必要不返乡",
+        "onboard_time": 1670377570,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368251,
+        "num": 368251,
+        "word": "三胞胎妈妈再怀孕婆婆支持",
+        "onboard_time": 1670370426,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 367591,
+        "num": 367591,
+        "word": "健康上报",
+        "onboard_time": 1670383213,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 351671,
+        "num": 351671,
+        "word": "AppStore应用最高定价74999元",
+        "onboard_time": 1670379339,
+        "rank": 15,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 344862,
+        "num": 344862,
+        "word": "业主发现锅炉工人室内还穿棉衣",
+        "onboard_time": 1670370188,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294956,
+        "num": 294956,
+        "word": "手机从26楼坠落7秒落地记录全过程",
+        "onboard_time": 1670372347,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278868,
+        "num": 278868,
+        "word": "你会付费购买APP吗",
+        "onboard_time": 1670384172,
+        "rank": 18,
+        "category": "科技,社会议题"
+      },
+      {
+        "raw_hot": 273883,
+        "num": 273883,
+        "word": "连花清瘟线上线下差价50元",
+        "onboard_time": 1670342111,
+        "rank": 19,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 258170,
+        "num": 258170,
+        "word": "教资成绩",
+        "onboard_time": 1670370068,
+        "rank": 20,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 243120,
+        "num": 243120,
+        "word": "范志毅说C罗替补是好事",
+        "onboard_time": 1670379851,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 239105,
+        "num": 239105,
+        "word": "梅西说踢了1000场比赛太疯狂了",
+        "onboard_time": 1670382791,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 235065,
+        "num": 235065,
+        "word": "患者胸痛1个月肺里取出1根针",
+        "onboard_time": 1670370426,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220919,
+        "num": 220919,
+        "word": "世界杯1/4决赛对阵名单",
+        "onboard_time": 1670384590,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213524,
+        "num": 213524,
+        "word": "原来内马尔在对儿子比心",
+        "onboard_time": 1670376190,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 210458,
+        "num": 210458,
+        "word": "葡萄牙6比1瑞士",
+        "onboard_time": 1670360408,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199851,
+        "num": 199851,
+        "word": "一家人打多份工只为8岁植物人女儿苏醒",
+        "onboard_time": 1670384291,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198337,
+        "num": 198337,
+        "word": "Viper",
+        "onboard_time": 1670370968,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 183509,
+        "num": 183509,
+        "word": "感染者中90%是无症状可居家隔离",
+        "onboard_time": 1670374449,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179128,
+        "num": 179128,
+        "word": "现在蒸馒头都这么卷了吗",
+        "onboard_time": 1670371689,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 177260,
+        "num": 177260,
+        "word": "2023年经济工作",
+        "onboard_time": 1670384051,
+        "rank": 31,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 176803,
+        "num": 176803,
+        "word": "男孩时隔4个月见父母礼貌喊叔叔",
+        "onboard_time": 1670378412,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172850,
+        "num": 172850,
+        "word": "男子买饼需求全被老板说服",
+        "onboard_time": 1670376308,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170265,
+        "num": 170265,
+        "word": "二十四节气",
+        "onboard_time": 1670385791,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168902,
+        "num": 168902,
+        "word": "爷爷退休全职带娃陪练体能获赞",
+        "onboard_time": 1670384051,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168891,
+        "num": 168891,
+        "word": "芜湖疫情防控",
+        "onboard_time": 1670385972,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162737,
+        "num": 162737,
+        "word": "C罗和佩佩跨越20年的神仙友情",
+        "onboard_time": 1670380151,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154070,
+        "num": 154070,
+        "word": "去卡塔尔看球要多少钱",
+        "onboard_time": 1670386213,
+        "rank": 38,
+        "category": "体育,财经"
+      },
+      {
+        "raw_hot": 152294,
+        "num": 152294,
+        "word": "男子闯医院封控住院部遭保安围殴",
+        "onboard_time": 1670383870,
+        "rank": 39,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 146882,
+        "num": 146882,
+        "word": "原神",
+        "onboard_time": 1670368266,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 139848,
+        "num": 139848,
+        "word": "C罗在替补席也是焦点",
+        "onboard_time": 1670386691,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138649,
+        "num": 138649,
+        "word": "湖人不敌骑士",
+        "onboard_time": 1670381950,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131080,
+        "num": 131080,
+        "word": "有锁iPhone14被国内破解",
+        "onboard_time": 1670386751,
+        "rank": 43,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 122718,
+        "num": 122718,
+        "word": "黄健翔说西班牙输日本不冤",
+        "onboard_time": 1670373729,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113692,
+        "num": 113692,
+        "word": "老师匿名资助家庭困难学生10年",
+        "onboard_time": 1670386573,
+        "rank": 45,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 110746,
+        "num": 110746,
+        "word": "原神3.3",
+        "onboard_time": 1670382851,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 107254,
+        "num": 107254,
+        "word": "邓刚雨天守钓大青鱼",
+        "onboard_time": 1670386632,
+        "rank": 47,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 101786,
+        "num": 101786,
+        "word": "摩洛哥记者现场含泪致谢门将",
+        "onboard_time": 1670372408,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98087,
+        "num": 98087,
+        "word": "判罚记录最高的一场球赛",
+        "onboard_time": 1670386993,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#江泽民同志永垂不朽#"
+    }
+  }
+}

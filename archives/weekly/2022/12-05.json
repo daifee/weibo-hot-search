@@ -1,6 +1,6 @@
 {
   "startTime": 1670171104099,
-  "endTime": 1670384311235,
+  "endTime": 1670387010447,
   "band_list": [
     {
       "raw_hot": 8354155,
@@ -491,6 +491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1144255,
+      "num": 1144255,
+      "word": "33岁女子怀孕36周仍坚持健身",
+      "onboard_time": 1670384951,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1136426,
       "num": 1136426,
       "word": "杭州不扫场所码了",
@@ -505,6 +513,14 @@
       "onboard_time": 1670336829,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1107189,
+      "num": 1107189,
+      "word": "iPhone电池保养小技巧",
+      "onboard_time": 1670381471,
+      "rank": 47,
+      "category": "科技"
     },
     {
       "raw_hot": 1086052,
@@ -827,12 +843,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 791442,
-      "num": 791442,
-      "word": "iPhone电池保养小技巧",
-      "onboard_time": 1670381471,
-      "rank": 47,
-      "category": "科技"
+      "raw_hot": 785293,
+      "num": 785293,
+      "word": "卡塔尔世界杯惊现唐僧",
+      "onboard_time": 1670383572,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 781835,
@@ -1651,6 +1667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 441922,
+      "num": 441922,
+      "word": "幼童独自在28楼天台边沿奔跑",
+      "onboard_time": 1670383332,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 441443,
       "num": 441443,
       "word": "男子醉驾致2死1伤却浑然不知",
@@ -1985,6 +2009,14 @@
       "onboard_time": 1670379851,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 367591,
+      "num": 367591,
+      "word": "健康上报",
+      "onboard_time": 1670383213,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 366899,
@@ -2443,6 +2475,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 278868,
+      "num": 278868,
+      "word": "你会付费购买APP吗",
+      "onboard_time": 1670384172,
+      "rank": 35,
+      "category": "科技,社会议题"
+    },
+    {
       "raw_hot": 277043,
       "num": 546531,
       "word": "葡萄牙主帅回应C罗转会",
@@ -2464,14 +2504,6 @@
       "word": "男子手被缝16针用手肘码牌打麻将",
       "onboard_time": 1670371868,
       "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 276083,
-      "num": 276083,
-      "word": "健康上报",
-      "onboard_time": 1670383213,
-      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -2577,14 +2609,6 @@
       "onboard_time": 1670239872,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 266493,
-      "num": 154946,
-      "word": "卡塔尔世界杯惊现唐僧",
-      "onboard_time": 1670383572,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 266020,
@@ -2755,6 +2779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 239105,
+      "num": 239105,
+      "word": "梅西说踢了1000场比赛太疯狂了",
+      "onboard_time": 1670382791,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 239018,
       "num": 239018,
       "word": "北京增本土感染者1431例",
@@ -2923,6 +2955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 220919,
+      "num": 220919,
+      "word": "世界杯1/4决赛对阵名单",
+      "onboard_time": 1670384590,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 220037,
       "num": 220037,
       "word": "樊振东",
@@ -2977,14 +3017,6 @@
       "onboard_time": 1670169313,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 218132,
-      "num": 218132,
-      "word": "幼童独自在28楼天台边沿奔跑",
-      "onboard_time": 1670383332,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 217659,
@@ -3123,19 +3155,19 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 199851,
+      "num": 199851,
+      "word": "一家人打多份工只为8岁植物人女儿苏醒",
+      "onboard_time": 1670384291,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 198293,
       "num": 522440,
       "word": "巴西vs韩国首发",
       "onboard_time": 1670264470,
       "rank": 31,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 197551,
-      "num": 154693,
-      "word": "梅西说踢了1000场比赛太疯狂了",
-      "onboard_time": 1670382791,
-      "rank": 43,
       "category": "体育"
     },
     {
@@ -3316,7 +3348,7 @@
     },
     {
       "raw_hot": 180261,
-      "num": 154271,
+      "num": 177260,
       "word": "2023年经济工作",
       "onboard_time": 1670384051,
       "rank": 32,
@@ -3475,12 +3507,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 170265,
+      "num": 170265,
+      "word": "二十四节气",
+      "onboard_time": 1670385791,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 169060,
       "num": 169060,
       "word": "西班牙连续三届世界杯无缘8强",
       "onboard_time": 1670353210,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 168902,
+      "num": 168902,
+      "word": "爷爷退休全职带娃陪练体能获赞",
+      "onboard_time": 1670384051,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 168891,
+      "num": 168891,
+      "word": "芜湖疫情防控",
+      "onboard_time": 1670385972,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 168402,
@@ -3585,6 +3641,14 @@
       "onboard_time": 1670161814,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 162737,
+      "num": 162737,
+      "word": "C罗和佩佩跨越20年的神仙友情",
+      "onboard_time": 1670380151,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 161879,
@@ -3723,6 +3787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 154070,
+      "num": 154070,
+      "word": "去卡塔尔看球要多少钱",
+      "onboard_time": 1670386213,
+      "rank": 38,
+      "category": "体育,财经"
+    },
+    {
       "raw_hot": 153745,
       "num": 153745,
       "word": "金玟哉说巴西是交手过最强球队",
@@ -3737,6 +3809,14 @@
       "onboard_time": 1670338629,
       "rank": 35,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 152294,
+      "num": 152294,
+      "word": "男子闯医院封控住院部遭保安围殴",
+      "onboard_time": 1670383870,
+      "rank": 39,
+      "category": "社会负面"
     },
     {
       "raw_hot": 152130,
@@ -3768,14 +3848,6 @@
       "word": "迟暮英雄永在神坛",
       "onboard_time": 1670382130,
       "rank": 31,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 151561,
-      "num": 151561,
-      "word": "C罗和佩佩跨越20年的神仙友情",
-      "onboard_time": 1670380151,
-      "rank": 40,
       "category": "体育"
     },
     {
@@ -3939,12 +4011,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 139996,
-      "num": 139996,
-      "word": "你会付费购买APP吗",
-      "onboard_time": 1670384172,
-      "rank": 35,
-      "category": "科技,社会议题"
+      "raw_hot": 139848,
+      "num": 139848,
+      "word": "C罗在替补席也是焦点",
+      "onboard_time": 1670386691,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 139172,
@@ -4089,6 +4161,14 @@
       "onboard_time": 1670216891,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 131080,
+      "num": 131080,
+      "word": "有锁iPhone14被国内破解",
+      "onboard_time": 1670386751,
+      "rank": 43,
+      "category": "科技"
     },
     {
       "raw_hot": 130939,
@@ -4419,6 +4499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 113692,
+      "num": 113692,
+      "word": "老师匿名资助家庭困难学生10年",
+      "onboard_time": 1670386573,
+      "rank": 45,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 113219,
       "num": 1025323,
       "word": "萌娃化身摄影师随手帮妈妈拍大片",
@@ -4531,12 +4619,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 107652,
-      "num": 107652,
-      "word": "爷爷退休全职带娃陪练体能获赞",
-      "onboard_time": 1670384051,
-      "rank": 46,
-      "category": "社会新闻"
+      "raw_hot": 107254,
+      "num": 107254,
+      "word": "邓刚雨天守钓大青鱼",
+      "onboard_time": 1670386632,
+      "rank": 47,
+      "category": "其它"
     },
     {
       "raw_hot": 107216,
@@ -4545,14 +4633,6 @@
       "onboard_time": 1670301490,
       "rank": 49,
       "category": "教育"
-    },
-    {
-      "raw_hot": 106896,
-      "num": 106896,
-      "word": "一家人打多份工只为8岁植物人女儿苏醒",
-      "onboard_time": 1670384291,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 106853,
@@ -4720,6 +4800,14 @@
       "word": "浓眉暴力隔扣",
       "onboard_time": 1670204949,
       "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 98087,
+      "num": 98087,
+      "word": "判罚记录最高的一场球赛",
+      "onboard_time": 1670386993,
+      "rank": 49,
       "category": "体育"
     },
     {
