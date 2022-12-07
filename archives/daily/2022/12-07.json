@@ -1,6 +1,6 @@
 {
   "startTime": 1670343998708,
-  "endTime": 1670419547914,
+  "endTime": 1670420242261,
   "band_list": [
     {
       "raw_hot": 8813662,
@@ -99,6 +99,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1992594,
+      "num": 1992594,
+      "word": "三体",
+      "onboard_time": 1670415015,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1857585,
       "num": 1857585,
       "word": "33岁女子怀孕36周仍坚持健身",
@@ -113,6 +121,14 @@
       "onboard_time": 1670370488,
       "rank": 3,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 1727263,
+      "num": 1727263,
+      "word": "进返京不再查验核酸和健康码",
+      "onboard_time": 1670417834,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1547007,
@@ -147,14 +163,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1454569,
-      "num": 1454569,
-      "word": "三体",
-      "onboard_time": 1670415015,
-      "rank": 8,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1447562,
       "num": 1447562,
       "word": "卡塔尔已经开始拆球场了",
@@ -168,14 +176,6 @@
       "word": "不再开展落地检",
       "onboard_time": 1670392333,
       "rank": 5,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1381835,
-      "num": 1381835,
-      "word": "进返京不再查验核酸和健康码",
-      "onboard_time": 1670417834,
-      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -419,8 +419,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 741682,
-      "num": 741682,
+      "raw_hot": 746485,
+      "num": 746485,
       "word": "继父4年第1次听女儿叫爸掩面痛哭",
       "onboard_time": 1670415855,
       "rank": 33,
@@ -475,6 +475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 689972,
+      "num": 689972,
+      "word": "广州地铁",
+      "onboard_time": 1670416514,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 669389,
       "num": 669389,
       "word": "胡歌正午阳光时隔7年再合作",
@@ -499,19 +507,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 630678,
-      "num": 630678,
-      "word": "广州地铁",
-      "onboard_time": 1670416514,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 629824,
       "num": 629824,
       "word": "卿卿日常今晚更新了",
       "onboard_time": 1670389392,
       "rank": 6,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 628808,
+      "num": 628808,
+      "word": "卿卿日常大结局预告好甜",
+      "onboard_time": 1670417655,
+      "rank": 47,
       "category": "影视"
     },
     {
@@ -579,6 +587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 576875,
+      "num": 576875,
+      "word": "北京健康宝",
+      "onboard_time": 1670418194,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 571094,
       "num": 571094,
       "word": "陈梦",
@@ -601,14 +617,6 @@
       "onboard_time": 1670396475,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 565407,
-      "num": 565407,
-      "word": "卿卿日常大结局预告好甜",
-      "onboard_time": 1670417655,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 563457,
@@ -705,6 +713,14 @@
       "onboard_time": 1670340189,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 488049,
+      "num": 488049,
+      "word": "县委大院",
+      "onboard_time": 1670415015,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 485540,
@@ -867,14 +883,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 431439,
-      "num": 431439,
-      "word": "县委大院",
-      "onboard_time": 1670415015,
-      "rank": 21,
-      "category": "影视"
-    },
-    {
       "raw_hot": 427954,
       "num": 427954,
       "word": "佩戴口罩能否超过8个小时",
@@ -963,8 +971,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 393554,
-      "num": 393554,
+      "raw_hot": 394852,
+      "num": 394852,
       "word": "樊振东",
       "onboard_time": 1670415674,
       "rank": 27,
@@ -1027,12 +1035,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 366920,
-      "num": 366920,
-      "word": "北京健康宝",
-      "onboard_time": 1670418194,
-      "rank": 21,
-      "category": "社会新闻"
+      "raw_hot": 367661,
+      "num": 367661,
+      "word": "内马尔多少有点街溜子气质",
+      "onboard_time": 1670418133,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 366899,
@@ -1371,14 +1379,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 259918,
-      "num": 259918,
-      "word": "内马尔多少有点街溜子气质",
-      "onboard_time": 1670418133,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 259445,
       "num": 259445,
       "word": "世界杯1/4决赛对阵名单",
@@ -1417,6 +1417,14 @@
       "onboard_time": 1670399053,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 250402,
+      "num": 250402,
+      "word": "魏桥",
+      "onboard_time": 1670418915,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 249061,
@@ -1528,6 +1536,14 @@
       "word": "新10条执行坚决纠正简单化一刀切",
       "onboard_time": 1670401093,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 219477,
+      "num": 219477,
+      "word": "杭州一医院新冠抢救药已有三个月储备",
+      "onboard_time": 1670419394,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -1763,6 +1779,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 185696,
+      "num": 185696,
+      "word": "樊振东神级削球",
+      "onboard_time": 1670419874,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 185559,
+      "num": 185559,
+      "word": "县委大院全员原声",
+      "onboard_time": 1670419935,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 185235,
       "num": 185235,
       "word": "BLACKPINK世巡日本站海报",
@@ -1832,14 +1864,6 @@
       "word": "C罗和佩佩跨越20年的神仙友情",
       "onboard_time": 1670380151,
       "rank": 40,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 177396,
-      "num": 177396,
-      "word": "魏桥",
-      "onboard_time": 1670418915,
-      "rank": 42,
       "category": "体育"
     },
     {
@@ -2307,14 +2331,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 139181,
-      "num": 139181,
-      "word": "杭州一医院新冠抢救药已有三个月储备",
-      "onboard_time": 1670419394,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 138684,
       "num": 138684,
       "word": "吴尊友介绍如何区别预防新冠和流感",
@@ -2425,6 +2441,14 @@
       "onboard_time": 1670368147,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 129564,
+      "num": 139956,
+      "word": "向远松曾目睹江滩上尸积如山",
+      "onboard_time": 1670419994,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 129464,
@@ -2577,6 +2601,14 @@
       "onboard_time": 1670368207,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 115661,
+      "num": 139533,
+      "word": "2022年度沙雕新闻合集",
+      "onboard_time": 1670420233,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 115421,
