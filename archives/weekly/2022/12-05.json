@@ -1,6 +1,6 @@
 {
   "startTime": 1670171104099,
-  "endTime": 1670417682563,
+  "endTime": 1670419547914,
   "band_list": [
     {
       "raw_hot": 8813662,
@@ -35,8 +35,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 4299921,
-      "num": 4299921,
+      "raw_hot": 4824396,
+      "num": 4824396,
       "word": "专家称最终8至9成的人或经历新冠感染",
       "onboard_time": 1670412913,
       "rank": 0,
@@ -427,6 +427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1454569,
+      "num": 1454569,
+      "word": "三体",
+      "onboard_time": 1670415015,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1447562,
       "num": 1447562,
       "word": "卡塔尔已经开始拆球场了",
@@ -472,6 +480,14 @@
       "word": "不再开展落地检",
       "onboard_time": 1670392333,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1381835,
+      "num": 1381835,
+      "word": "进返京不再查验核酸和健康码",
+      "onboard_time": 1670417834,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -715,14 +731,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1026723,
-      "num": 1026723,
-      "word": "三体",
-      "onboard_time": 1670415015,
-      "rank": 8,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1018644,
       "num": 455583,
       "word": "加维 帅",
@@ -924,7 +932,7 @@
     },
     {
       "raw_hot": 889814,
-      "num": 530797,
+      "num": 631904,
       "word": "北京疫情发布会",
       "onboard_time": 1670415974,
       "rank": 26,
@@ -1171,6 +1179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 741682,
+      "num": 741682,
+      "word": "继父4年第1次听女儿叫爸掩面痛哭",
+      "onboard_time": 1670415855,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 730413,
       "num": 730413,
       "word": "C罗说这是不可思议的一天",
@@ -1307,6 +1323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 669389,
+      "num": 669389,
+      "word": "胡歌正午阳光时隔7年再合作",
+      "onboard_time": 1670418974,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 668028,
       "num": 2093334,
       "word": "莱万遭网暴",
@@ -1409,6 +1433,14 @@
       "onboard_time": 1670241852,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 630678,
+      "num": 630678,
+      "word": "广州地铁",
+      "onboard_time": 1670416514,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 629824,
@@ -1659,6 +1691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 565407,
+      "num": 565407,
+      "word": "卿卿日常大结局预告好甜",
+      "onboard_time": 1670417655,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 563629,
       "num": 563629,
       "word": "爸爸花49元为2娃搭大棚式阳光房",
@@ -1681,14 +1721,6 @@
       "onboard_time": 1670349129,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 558536,
-      "num": 515924,
-      "word": "继父4年第1次听女儿叫爸掩面痛哭",
-      "onboard_time": 1670415855,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 556227,
@@ -2035,14 +2067,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 465828,
-      "num": 465828,
-      "word": "广州地铁",
-      "onboard_time": 1670416514,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 464283,
       "num": 1489803,
       "word": "外卖小哥坠井昏迷催单电话救其一命",
@@ -2203,6 +2227,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 431439,
+      "num": 431439,
+      "word": "县委大院",
+      "onboard_time": 1670415015,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 428833,
       "num": 428833,
       "word": "湖南县长喊话打工游子回家过年",
@@ -2257,14 +2289,6 @@
       "onboard_time": 1670284626,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 422274,
-      "num": 411963,
-      "word": "县委大院",
-      "onboard_time": 1670415015,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 417523,
@@ -2579,6 +2603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 366920,
+      "num": 366920,
+      "word": "北京健康宝",
+      "onboard_time": 1670418194,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 366899,
       "num": 366899,
       "word": "Viper",
@@ -2604,7 +2636,7 @@
     },
     {
       "raw_hot": 361501,
-      "num": 244941,
+      "num": 276079,
       "word": "电影版想见你将于近期上映",
       "onboard_time": 1670413815,
       "rank": 30,
@@ -2657,6 +2689,14 @@
       "onboard_time": 1670175372,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 349572,
+      "num": 349572,
+      "word": "长沙南站的双码查验口已经全部撤离",
+      "onboard_time": 1670415914,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 348756,
@@ -2963,6 +3003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 310120,
+      "num": 279375,
+      "word": "张新成演我上班第一天",
+      "onboard_time": 1670417054,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 309223,
       "num": 309223,
       "word": "姚金成所持RNG数百万股权被冻结",
@@ -2995,6 +3043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 301417,
+      "num": 301417,
+      "word": "王楚钦",
+      "onboard_time": 1670416815,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 300117,
       "num": 300117,
       "word": "英格兰3比0塞内加尔",
@@ -3017,14 +3073,6 @@
       "onboard_time": 1670206629,
       "rank": 19,
       "category": "教育"
-    },
-    {
-      "raw_hot": 296218,
-      "num": 151578,
-      "word": "卿卿日常大结局预告好甜",
-      "onboard_time": 1670417655,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 295021,
@@ -3379,6 +3427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 259918,
+      "num": 259918,
+      "word": "内马尔多少有点街溜子气质",
+      "onboard_time": 1670418133,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 259445,
       "num": 259445,
       "word": "世界杯1/4决赛对阵名单",
@@ -3521,14 +3577,6 @@
       "onboard_time": 1670282587,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 244693,
-      "num": 244693,
-      "word": "长沙南站的双码查验口已经全部撤离",
-      "onboard_time": 1670415914,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 243596,
@@ -3680,14 +3728,6 @@
       "word": "湖人vs奇才",
       "onboard_time": 1670200591,
       "rank": 25,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 228969,
-      "num": 228969,
-      "word": "王楚钦",
-      "onboard_time": 1670416815,
-      "rank": 32,
       "category": "体育"
     },
     {
@@ -4019,20 +4059,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 201473,
-      "num": 201473,
-      "word": "张新成演我上班第一天",
-      "onboard_time": 1670417054,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 201442,
       "num": 201442,
       "word": "终于等到山峥海薇大婚",
       "onboard_time": 1670416994,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 201404,
+      "num": 201404,
+      "word": "这身离谱的穿搭瞬间都合理了",
+      "onboard_time": 1670416874,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 200747,
@@ -4275,6 +4315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 188246,
+      "num": 188246,
+      "word": "罗渽民黄仁俊candy挑战视频",
+      "onboard_time": 1670419454,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 188051,
       "num": 188051,
       "word": "优化防疫政策新十条划重点",
@@ -4432,6 +4480,14 @@
       "word": "C罗和佩佩跨越20年的神仙友情",
       "onboard_time": 1670380151,
       "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 177396,
+      "num": 177396,
+      "word": "魏桥",
+      "onboard_time": 1670418915,
+      "rank": 42,
       "category": "体育"
     },
     {
@@ -4635,14 +4691,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 168788,
-      "num": 168788,
-      "word": "这身离谱的穿搭瞬间都合理了",
-      "onboard_time": 1670416874,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 168734,
       "num": 168734,
       "word": "男生坐行李箱上迎寒风敲2小时代码",
@@ -4745,6 +4793,14 @@
       "onboard_time": 1670314510,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 165357,
+      "num": 165357,
+      "word": "黄磊帮吕青山喊大家来为光明县把把关",
+      "onboard_time": 1670418073,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 164282,
@@ -4993,6 +5049,14 @@
       "onboard_time": 1670378649,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 151902,
+      "num": 151902,
+      "word": "山峥海薇回娘家",
+      "onboard_time": 1670418254,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 151817,
@@ -5315,6 +5379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 139181,
+      "num": 139181,
+      "word": "杭州一医院新冠抢救药已有三个月储备",
+      "onboard_time": 1670419394,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 139172,
       "num": 466204,
       "word": "佩里西奇头球破门",
@@ -5369,6 +5441,14 @@
       "onboard_time": 1670397073,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 137440,
+      "num": 137440,
+      "word": "这个风衣穿搭别太离谱",
+      "onboard_time": 1670419276,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 136785,

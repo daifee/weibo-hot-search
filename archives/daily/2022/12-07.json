@@ -1,6 +1,6 @@
 {
   "startTime": 1670343998708,
-  "endTime": 1670417682563,
+  "endTime": 1670419547914,
   "band_list": [
     {
       "raw_hot": 8813662,
@@ -11,8 +11,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 4299921,
-      "num": 4299921,
+      "raw_hot": 4824396,
+      "num": 4824396,
       "word": "专家称最终8至9成的人或经历新冠感染",
       "onboard_time": 1670412913,
       "rank": 0,
@@ -147,6 +147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1454569,
+      "num": 1454569,
+      "word": "三体",
+      "onboard_time": 1670415015,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1447562,
       "num": 1447562,
       "word": "卡塔尔已经开始拆球场了",
@@ -160,6 +168,14 @@
       "word": "不再开展落地检",
       "onboard_time": 1670392333,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1381835,
+      "num": 1381835,
+      "word": "进返京不再查验核酸和健康码",
+      "onboard_time": 1670417834,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -225,14 +241,6 @@
       "onboard_time": 1670383572,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1026723,
-      "num": 1026723,
-      "word": "三体",
-      "onboard_time": 1670415015,
-      "rank": 8,
-      "category": "影视"
     },
     {
       "raw_hot": 1018644,
@@ -332,7 +340,7 @@
     },
     {
       "raw_hot": 889814,
-      "num": 530797,
+      "num": 631904,
       "word": "北京疫情发布会",
       "onboard_time": 1670415974,
       "rank": 26,
@@ -411,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 741682,
+      "num": 741682,
+      "word": "继父4年第1次听女儿叫爸掩面痛哭",
+      "onboard_time": 1670415855,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 730413,
       "num": 730413,
       "word": "C罗说这是不可思议的一天",
@@ -459,6 +475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 669389,
+      "num": 669389,
+      "word": "胡歌正午阳光时隔7年再合作",
+      "onboard_time": 1670418974,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 663805,
       "num": 663805,
       "word": "刘诗诗为胡歌宣传新剧县委大院",
@@ -472,6 +496,14 @@
       "word": "地铁取消核酸查验首日情况如何",
       "onboard_time": 1670407692,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 630678,
+      "num": 630678,
+      "word": "广州地铁",
+      "onboard_time": 1670416514,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -571,6 +603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 565407,
+      "num": 565407,
+      "word": "卿卿日常大结局预告好甜",
+      "onboard_time": 1670417655,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 563457,
       "num": 563457,
       "word": "感染者中90%是无症状可居家隔离",
@@ -585,14 +625,6 @@
       "onboard_time": 1670349129,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 558536,
-      "num": 515924,
-      "word": "继父4年第1次听女儿叫爸掩面痛哭",
-      "onboard_time": 1670415855,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 553645,
@@ -747,14 +779,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 465828,
-      "num": 465828,
-      "word": "广州地铁",
-      "onboard_time": 1670416514,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 464050,
       "num": 464050,
       "word": "奥密克戎毒力接近季节性流感",
@@ -843,20 +867,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 431439,
+      "num": 431439,
+      "word": "县委大院",
+      "onboard_time": 1670415015,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 427954,
       "num": 427954,
       "word": "佩戴口罩能否超过8个小时",
       "onboard_time": 1670344569,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 422274,
-      "num": 411963,
-      "word": "县委大院",
-      "onboard_time": 1670415015,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 417523,
@@ -1003,6 +1027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 366920,
+      "num": 366920,
+      "word": "北京健康宝",
+      "onboard_time": 1670418194,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 366899,
       "num": 366899,
       "word": "Viper",
@@ -1020,7 +1052,7 @@
     },
     {
       "raw_hot": 361501,
-      "num": 244941,
+      "num": 276079,
       "word": "电影版想见你将于近期上映",
       "onboard_time": 1670413815,
       "rank": 30,
@@ -1033,6 +1065,14 @@
       "onboard_time": 1670371689,
       "rank": 19,
       "category": "美食"
+    },
+    {
+      "raw_hot": 349572,
+      "num": 349572,
+      "word": "长沙南站的双码查验口已经全部撤离",
+      "onboard_time": 1670415914,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 348756,
@@ -1179,6 +1219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 310120,
+      "num": 279375,
+      "word": "张新成演我上班第一天",
+      "onboard_time": 1670417054,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 308702,
       "num": 308702,
       "word": "20岁女生有1个妹妹再喜提双胞胎弟弟",
@@ -1203,20 +1251,20 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 301417,
+      "num": 301417,
+      "word": "王楚钦",
+      "onboard_time": 1670416815,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 298160,
       "num": 298160,
       "word": "柯南新剧场版预热特别篇预告",
       "onboard_time": 1670403493,
       "rank": 38,
       "category": "影视,动漫"
-    },
-    {
-      "raw_hot": 296218,
-      "num": 151578,
-      "word": "卿卿日常大结局预告好甜",
-      "onboard_time": 1670417655,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 291338,
@@ -1323,6 +1371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 259918,
+      "num": 259918,
+      "word": "内马尔多少有点街溜子气质",
+      "onboard_time": 1670418133,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 259445,
       "num": 259445,
       "word": "世界杯1/4决赛对阵名单",
@@ -1377,14 +1433,6 @@
       "onboard_time": 1670395633,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 244693,
-      "num": 244693,
-      "word": "长沙南站的双码查验口已经全部撤离",
-      "onboard_time": 1670415914,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 239667,
@@ -1449,14 +1497,6 @@
       "onboard_time": 1670317030,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 228969,
-      "num": 228969,
-      "word": "王楚钦",
-      "onboard_time": 1670416815,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 224085,
@@ -1579,20 +1619,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 201473,
-      "num": 201473,
-      "word": "张新成演我上班第一天",
-      "onboard_time": 1670417054,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 201442,
       "num": 201442,
       "word": "终于等到山峥海薇大婚",
       "onboard_time": 1670416994,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 201404,
+      "num": 201404,
+      "word": "这身离谱的穿搭瞬间都合理了",
+      "onboard_time": 1670416874,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 200384,
@@ -1691,6 +1731,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 188246,
+      "num": 188246,
+      "word": "罗渽民黄仁俊candy挑战视频",
+      "onboard_time": 1670419454,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 188051,
       "num": 188051,
       "word": "优化防疫政策新十条划重点",
@@ -1784,6 +1832,14 @@
       "word": "C罗和佩佩跨越20年的神仙友情",
       "onboard_time": 1670380151,
       "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 177396,
+      "num": 177396,
+      "word": "魏桥",
+      "onboard_time": 1670418915,
+      "rank": 42,
       "category": "体育"
     },
     {
@@ -1891,14 +1947,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 168788,
-      "num": 168788,
-      "word": "这身离谱的穿搭瞬间都合理了",
-      "onboard_time": 1670416874,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 168734,
       "num": 168734,
       "word": "男生坐行李箱上迎寒风敲2小时代码",
@@ -1929,6 +1977,14 @@
       "onboard_time": 1670400655,
       "rank": 40,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 165357,
+      "num": 165357,
+      "word": "黄磊帮吕青山喊大家来为光明县把把关",
+      "onboard_time": 1670418073,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 163733,
@@ -2049,6 +2105,14 @@
       "onboard_time": 1670378649,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 151902,
+      "num": 151902,
+      "word": "山峥海薇回娘家",
+      "onboard_time": 1670418254,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 151817,
@@ -2243,6 +2307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 139181,
+      "num": 139181,
+      "word": "杭州一医院新冠抢救药已有三个月储备",
+      "onboard_time": 1670419394,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 138684,
       "num": 138684,
       "word": "吴尊友介绍如何区别预防新冠和流感",
@@ -2273,6 +2345,14 @@
       "onboard_time": 1670397073,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 137440,
+      "num": 137440,
+      "word": "这个风衣穿搭别太离谱",
+      "onboard_time": 1670419276,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 136678,
