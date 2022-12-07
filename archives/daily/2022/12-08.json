@@ -1,6 +1,6 @@
 {
   "startTime": 1670430424869,
-  "endTime": 1670431538328,
+  "endTime": 1670433452254,
   "band_list": [
     {
       "raw_hot": 1887733,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 625729,
-      "num": 439144,
+      "num": 500917,
       "word": "双胞胎因分数接近被学校认定作弊",
       "onboard_time": 1670427854,
       "rank": 11,
@@ -59,8 +59,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 526090,
-      "num": 324512,
+      "raw_hot": 528926,
+      "num": 528926,
       "word": "杭州抗新冠中药方火了",
       "onboard_time": 1670428513,
       "rank": 30,
@@ -163,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 244409,
+      "num": 208416,
+      "word": "女生罗森买到过期2天牛奶",
+      "onboard_time": 1670429293,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 242072,
       "num": 242072,
       "word": "C罗被载入历史的一球",
@@ -216,14 +224,6 @@
       "word": "33岁妈妈给3个娃每人一本房产证",
       "onboard_time": 1670414534,
       "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 166816,
-      "num": 166816,
-      "word": "女生罗森买到过期2天牛奶",
-      "onboard_time": 1670429293,
-      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -379,6 +379,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 107930,
+      "num": 107930,
+      "word": "seventeenFNS舞台DREAM",
+      "onboard_time": 1670432771,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 103887,
       "num": 103887,
       "word": "又到了猫咪烧焦的季节",
@@ -411,12 +419,28 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 67008,
+      "num": 67008,
+      "word": "卡塔尔已经开始拆球场了",
+      "onboard_time": 1670400494,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 63529,
       "num": 76028,
       "word": "卡塔尔偶遇中文八级球迷",
       "onboard_time": 1670431216,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 42801,
+      "num": 42801,
+      "word": "周茜要把陈宇宙忘了",
+      "onboard_time": 1670433431,
+      "rank": 49,
+      "category": "影视"
     }
   ],
   "hotgov_list": [

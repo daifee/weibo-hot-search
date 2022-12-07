@@ -1,6 +1,6 @@
 {
   "startTime": 1670171104099,
-  "endTime": 1670431538328,
+  "endTime": 1670433452254,
   "band_list": [
     {
       "raw_hot": 8813662,
@@ -1556,7 +1556,7 @@
     },
     {
       "raw_hot": 625729,
-      "num": 439144,
+      "num": 500917,
       "word": "双胞胎因分数接近被学校认定作弊",
       "onboard_time": 1670427854,
       "rank": 11,
@@ -1955,19 +1955,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 528926,
+      "num": 528926,
+      "word": "杭州抗新冠中药方火了",
+      "onboard_time": 1670428513,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 528038,
       "num": 528038,
       "word": "上海饭店商场仍须48小时核酸",
       "onboard_time": 1670169615,
       "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 526090,
-      "num": 324512,
-      "word": "杭州抗新冠中药方火了",
-      "onboard_time": 1670428513,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -3795,6 +3795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 244409,
+      "num": 208416,
+      "word": "女生罗森买到过期2天牛奶",
+      "onboard_time": 1670429293,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 243596,
       "num": 243596,
       "word": "梅西曾义卖将善款捐给琼中女足",
@@ -5025,14 +5033,6 @@
       "onboard_time": 1670282409,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 166816,
-      "num": 166816,
-      "word": "女生罗森买到过期2天牛奶",
-      "onboard_time": 1670429293,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 166772,
@@ -6387,6 +6387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 107930,
+      "num": 107930,
+      "word": "seventeenFNS舞台DREAM",
+      "onboard_time": 1670432771,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 107254,
       "num": 107254,
       "word": "邓刚雨天守钓大青鱼",
@@ -6937,6 +6945,14 @@
       "onboard_time": 1670359508,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 42801,
+      "num": 42801,
+      "word": "周茜要把陈宇宙忘了",
+      "onboard_time": 1670433431,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 39926,

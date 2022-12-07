@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/12/01 00:28:49 ~ 2022/12/08 00:45:38
+本榜单时间：2022/12/01 00:28:49 ~ 2022/12/08 01:17:32
 </p>
 </blockquote>
 <p>
@@ -3183,14 +3183,14 @@ B站回应启动新一轮裁员（热度：556227）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E9%A5%AD%E5%BA%97%E5%95%86%E5%9C%BA%E4%BB%8D%E9%A1%BB48%E5%B0%8F%E6%97%B6%E6%A0%B8%E9%85%B8%23" target="weibo">
-上海饭店商场仍须48小时核酸（热度：528038）
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E6%8A%97%E6%96%B0%E5%86%A0%E4%B8%AD%E8%8D%AF%E6%96%B9%E7%81%AB%E4%BA%86%23" target="weibo">
+杭州抗新冠中药方火了（热度：528926）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E6%8A%97%E6%96%B0%E5%86%A0%E4%B8%AD%E8%8D%AF%E6%96%B9%E7%81%AB%E4%BA%86%23" target="weibo">
-杭州抗新冠中药方火了（热度：526090）
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E9%A5%AD%E5%BA%97%E5%95%86%E5%9C%BA%E4%BB%8D%E9%A1%BB48%E5%B0%8F%E6%97%B6%E6%A0%B8%E9%85%B8%23" target="weibo">
+上海饭店商场仍须48小时核酸（热度：528038）
 </a>
 </li>
 
