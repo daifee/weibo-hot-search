@@ -1,0 +1,410 @@
+{
+  "runTime": 1670391225923,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1677845,
+        "num": 1677845,
+        "word": "33岁女子怀孕36周仍坚持健身",
+        "onboard_time": 1670384951,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1291548,
+        "num": 1291548,
+        "word": "肖四",
+        "onboard_time": 1670387231,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 74402,
+        "num": 965739,
+        "word": "药师详解奥密克戎轻症处理妙招",
+        "onboard_time": 1670333291,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 923880,
+        "num": 923880,
+        "word": "官方回应网传女孩举报父亲被打死后失联",
+        "onboard_time": 1670387831,
+        "rank": 3,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 828451,
+        "num": 828451,
+        "word": "卡塔尔世界杯惊现唐僧",
+        "onboard_time": 1670383572,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 609468,
+        "num": 609468,
+        "word": "卿卿日常今晚更新了",
+        "onboard_time": 1670389392,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 574131,
+        "num": 574131,
+        "word": "2023年元旦放假安排来了",
+        "onboard_time": 1670376070,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 545545,
+        "num": 545545,
+        "word": "专家建议新冠肺炎应改称新冠病毒传染病",
+        "onboard_time": 1670379339,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 441301,
+        "num": 441301,
+        "word": "县委大院全阵容官宣",
+        "onboard_time": 1670389512,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 411249,
+        "num": 411249,
+        "word": "徐璐陈都灵新剧豆瓣评分3.6",
+        "onboard_time": 1670389392,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 602500,
+        "num": 407147,
+        "word": "尹峥李薇三连吻",
+        "onboard_time": 1670389392,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 470423,
+        "num": 404865,
+        "word": "金毛眼球被抠流落街头被救后离世",
+        "onboard_time": 1670377570,
+        "rank": 11,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 398099,
+        "num": 398099,
+        "word": "李光洁县委大院演县长曹立新",
+        "onboard_time": 1670389452,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 375472,
+        "num": 375472,
+        "word": "有锁iPhone14被国内破解",
+        "onboard_time": 1670386751,
+        "rank": 13,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 353807,
+        "num": 353807,
+        "word": "iPhone电池保养小技巧",
+        "onboard_time": 1670381471,
+        "rank": 14,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 344736,
+        "num": 344736,
+        "word": "幼童独自在28楼天台边沿奔跑",
+        "onboard_time": 1670383332,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327782,
+        "num": 327782,
+        "word": "韩剧是懂初雪仪式感的",
+        "onboard_time": 1670389815,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 306412,
+        "num": 306412,
+        "word": "卡塔尔世界杯8强出炉",
+        "onboard_time": 1670368626,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 289577,
+        "num": 289577,
+        "word": "手机从26楼坠落7秒落地记录全过程",
+        "onboard_time": 1670372347,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280584,
+        "num": 280584,
+        "word": "芜湖疫情防控",
+        "onboard_time": 1670385972,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310325,
+        "num": 279104,
+        "word": "县委大院改了微博简介",
+        "onboard_time": 1670389512,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 263718,
+        "num": 263718,
+        "word": "三胞胎妈妈再怀孕婆婆支持",
+        "onboard_time": 1670370426,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264396,
+        "num": 255571,
+        "word": "黄磊说青山常在迎客远来今晚见",
+        "onboard_time": 1670390232,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 244174,
+        "num": 244174,
+        "word": "业主发现锅炉工人室内还穿棉衣",
+        "onboard_time": 1670370188,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243701,
+        "num": 243701,
+        "word": "AppStore应用最高定价74999元",
+        "onboard_time": 1670379339,
+        "rank": 24,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 243264,
+        "num": 243264,
+        "word": "C罗说这是不可思议的一天",
+        "onboard_time": 1670373849,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 229674,
+        "num": 229674,
+        "word": "昆明一地要求非必要不返乡",
+        "onboard_time": 1670377570,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229423,
+        "num": 229423,
+        "word": "患者胸痛1个月肺里取出1根针",
+        "onboard_time": 1670370426,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219078,
+        "num": 219078,
+        "word": "网红触电身亡父母索赔121万",
+        "onboard_time": 1670370488,
+        "rank": 28,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 208526,
+        "num": 208526,
+        "word": "世界杯1/4决赛对阵名单",
+        "onboard_time": 1670384590,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207917,
+        "num": 207917,
+        "word": "原来内马尔在对儿子比心",
+        "onboard_time": 1670376190,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203610,
+        "num": 203610,
+        "word": "感染者中90%是无症状可居家隔离",
+        "onboard_time": 1670374449,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199833,
+        "num": 199833,
+        "word": "健康上报",
+        "onboard_time": 1670383213,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196672,
+        "num": 196672,
+        "word": "连花清瘟线上线下差价50元",
+        "onboard_time": 1670342111,
+        "rank": 33,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 192041,
+        "num": 192041,
+        "word": "教资成绩",
+        "onboard_time": 1670370068,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 190492,
+        "num": 190492,
+        "word": "这是姆巴佩的弟弟姆九佩吧",
+        "onboard_time": 1670389993,
+        "rank": 35,
+        "category": "体育,幽默"
+      },
+      {
+        "raw_hot": 177699,
+        "num": 177699,
+        "word": "男子醉驾致2死1伤却浑然不知",
+        "onboard_time": 1670380571,
+        "rank": 36,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 174704,
+        "num": 174704,
+        "word": "哪些人群属于重症高风险人群",
+        "onboard_time": 1670390173,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160954,
+        "num": 160954,
+        "word": "蛋糕店用盗版玩具装饰蛋糕被告侵权",
+        "onboard_time": 1670390592,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158891,
+        "num": 158891,
+        "word": "一家人打多份工只为8岁植物人女儿苏醒",
+        "onboard_time": 1670384291,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158739,
+        "num": 158739,
+        "word": "男子闯医院封控住院部遭保安围殴",
+        "onboard_time": 1670383870,
+        "rank": 40,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 157527,
+        "num": 157527,
+        "word": "男生课余钻研摄影大学3年赚6万",
+        "onboard_time": 1670387231,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156007,
+        "num": 156007,
+        "word": "你会付费购买APP吗",
+        "onboard_time": 1670384172,
+        "rank": 42,
+        "category": "科技,社会议题"
+      },
+      {
+        "raw_hot": 155930,
+        "num": 155930,
+        "word": "卿卿日常",
+        "onboard_time": 1670389392,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 146741,
+        "num": 146741,
+        "word": "范志毅说C罗替补是好事",
+        "onboard_time": 1670379851,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143921,
+        "num": 143921,
+        "word": "县委大院单人剧照",
+        "onboard_time": 1670390773,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 138454,
+        "num": 138454,
+        "word": "许半夏许友仁父女和解",
+        "onboard_time": 1670389392,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 128194,
+        "num": 128194,
+        "word": "C罗和佩佩跨越20年的神仙友情",
+        "onboard_time": 1670380151,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167242,
+        "num": 127896,
+        "word": "张新成说小林哥入职倒计时",
+        "onboard_time": 1670390414,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 137964,
+        "num": 126917,
+        "word": "陈宇宙说去不了马尔代夫了",
+        "onboard_time": 1670391072,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#江泽民同志把毕生心血献给中国人民#"
+    }
+  }
+}
