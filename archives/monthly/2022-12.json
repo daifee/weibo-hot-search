@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1670433452254,
+  "endTime": 1670434446397,
   "band_list": [
     {
       "raw_hot": 8813662,
@@ -7755,6 +7755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 260959,
+      "num": 208416,
+      "word": "女生罗森买到过期2天牛奶",
+      "onboard_time": 1670429293,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 260037,
       "num": 260037,
       "word": "见过最震撼的日照金山",
@@ -8073,14 +8081,6 @@
       "onboard_time": 1670282587,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 244409,
-      "num": 208416,
-      "word": "女生罗森买到过期2天牛奶",
-      "onboard_time": 1670429293,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 243847,
@@ -14435,6 +14435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 55546,
+      "num": 55546,
+      "word": "周茜要把陈宇宙忘了",
+      "onboard_time": 1670433431,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 54355,
       "num": 184923,
       "word": "老师撒娇说手冷萌娃放怀里暖",
@@ -14521,14 +14529,6 @@
       "onboard_time": 1670109966,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 42801,
-      "num": 42801,
-      "word": "周茜要把陈宇宙忘了",
-      "onboard_time": 1670433431,
-      "rank": 49,
-      "category": "影视"
     },
     {
       "raw_hot": 41261,
