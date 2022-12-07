@@ -1,6 +1,6 @@
 {
   "startTime": 1670171104099,
-  "endTime": 1670381503943,
+  "endTime": 1670382108944,
   "band_list": [
     {
       "raw_hot": 8354155,
@@ -155,6 +155,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 1984540,
+      "num": 1984540,
+      "word": "2023年元旦放假安排来了",
+      "onboard_time": 1670376070,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1958270,
       "num": 1544433,
       "word": "防空警报",
@@ -177,14 +185,6 @@
       "onboard_time": 1670169791,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1865247,
-      "num": 1865247,
-      "word": "2023年元旦放假安排来了",
-      "onboard_time": 1670376070,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1812362,
@@ -555,6 +555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1007100,
+      "num": 468474,
+      "word": "金毛眼球被抠流落街头被救后离世",
+      "onboard_time": 1670377570,
+      "rank": 13,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 999109,
       "num": 803680,
       "word": "广州16万感染者仅4例重症",
@@ -585,14 +593,6 @@
       "onboard_time": 1670242752,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 976710,
-      "num": 464687,
-      "word": "金毛眼球被抠流落街头被救后离世",
-      "onboard_time": 1670377570,
-      "rank": 13,
-      "category": "社会负面"
     },
     {
       "raw_hot": 952582,
@@ -899,6 +899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 739104,
+      "num": 739104,
+      "word": "专家建议新冠肺炎应改称新冠病毒传染病",
+      "onboard_time": 1670379339,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 730413,
       "num": 730413,
       "word": "C罗说这是不可思议的一天",
@@ -1123,6 +1131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 621938,
+      "num": 621938,
+      "word": "AppStore应用最高定价74999元",
+      "onboard_time": 1670379339,
+      "rank": 11,
+      "category": "科技"
+    },
+    {
       "raw_hot": 621353,
       "num": 787153,
       "word": "日本四次止步世界杯16强",
@@ -1177,14 +1193,6 @@
       "onboard_time": 1670225053,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 607274,
-      "num": 607274,
-      "word": "专家建议新冠肺炎应改称新冠病毒传染病",
-      "onboard_time": 1670379339,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 606271,
@@ -1275,20 +1283,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 572383,
-      "num": 460994,
-      "word": "AppStore应用最高定价74999元",
-      "onboard_time": 1670379339,
-      "rank": 11,
-      "category": "科技"
-    },
-    {
       "raw_hot": 571600,
       "num": 571600,
       "word": "研究称每天八杯水并不适用所有人",
       "onboard_time": 1670305812,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 567915,
+      "num": 461834,
+      "word": "原神",
+      "onboard_time": 1670158692,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 565996,
@@ -1433,14 +1441,6 @@
       "onboard_time": 1670169615,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 526813,
-      "num": 449103,
-      "word": "原神",
-      "onboard_time": 1670158692,
-      "rank": 29,
-      "category": "游戏"
     },
     {
       "raw_hot": 524519,
@@ -1675,6 +1675,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 429277,
+      "num": 429277,
+      "word": "昆明一地要求非必要不返乡",
+      "onboard_time": 1670377570,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 428833,
       "num": 428833,
       "word": "湖南县长喊话打工游子回家过年",
@@ -1753,14 +1761,6 @@
       "onboard_time": 1670210470,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 416048,
-      "num": 416048,
-      "word": "昆明一地要求非必要不返乡",
-      "onboard_time": 1670377570,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 415603,
@@ -2019,6 +2019,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 355881,
+      "num": 355881,
+      "word": "范志毅说C罗替补是好事",
+      "onboard_time": 1670379851,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 353956,
       "num": 353956,
       "word": "麦迪目睹美国队惨败后去打篮球",
@@ -2243,6 +2251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 309855,
+      "num": 309855,
+      "word": "男子醉驾致2死1伤却浑然不知",
+      "onboard_time": 1670380571,
+      "rank": 25,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 309223,
       "num": 309223,
       "word": "姚金成所持RNG数百万股权被冻结",
@@ -2257,14 +2273,6 @@
       "onboard_time": 1670240172,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 306083,
-      "num": 306083,
-      "word": "范志毅说C罗替补是好事",
-      "onboard_time": 1670379851,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 303771,
@@ -2571,6 +2579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 263266,
+      "num": 263266,
+      "word": "男孩时隔4个月见父母礼貌喊叔叔",
+      "onboard_time": 1670378412,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 261457,
       "num": 261457,
       "word": "猫咪单爪熟练旋开存粮桶欲偷吃",
@@ -2600,14 +2616,6 @@
       "word": "美国一警察局长驾车被拦后亮警徽",
       "onboard_time": 1670317870,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 257286,
-      "num": 257286,
-      "word": "男孩时隔4个月见父母礼貌喊叔叔",
-      "onboard_time": 1670378412,
-      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -2979,14 +2987,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 214561,
-      "num": 214561,
-      "word": "男子醉驾致2死1伤却浑然不知",
-      "onboard_time": 1670380571,
-      "rank": 25,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 214355,
       "num": 214355,
       "word": "小鸟熟练摘下柿子整颗带走",
@@ -3009,6 +3009,14 @@
       "onboard_time": 1670197988,
       "rank": 19,
       "category": "教育"
+    },
+    {
+      "raw_hot": 211860,
+      "num": 211860,
+      "word": "iPhone电池保养小技巧",
+      "onboard_time": 1670381471,
+      "rank": 47,
+      "category": "科技"
     },
     {
       "raw_hot": 210883,
@@ -3392,6 +3400,14 @@
       "word": "假如C罗当了主教练",
       "onboard_time": 1670227873,
       "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 171745,
+      "num": 171745,
+      "word": "湖人不敌骑士",
+      "onboard_time": 1670381950,
+      "rank": 28,
       "category": "体育"
     },
     {
@@ -3867,6 +3883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 138633,
+      "num": 138633,
+      "word": "全盲女子6年教会数千名盲女孩化妆",
+      "onboard_time": 1670380991,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 138626,
       "num": 138626,
       "word": "吉鲁破门",
@@ -4075,14 +4099,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 126524,
-      "num": 126524,
-      "word": "全盲女子6年教会数千名盲女孩化妆",
-      "onboard_time": 1670380991,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 126269,
       "num": 911480,
       "word": "6岁东北小朋友滑冰场上动作娴熟",
@@ -4251,6 +4267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 116972,
+      "num": 116972,
+      "word": "阿什拉夫亲吻母亲",
+      "onboard_time": 1670382071,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 116164,
       "num": 1040506,
       "word": "我也想要一个蘑菇房",
@@ -4273,14 +4297,6 @@
       "onboard_time": 1670246292,
       "rank": 45,
       "category": "军事,社会新闻"
-    },
-    {
-      "raw_hot": 114790,
-      "num": 114790,
-      "word": "iPhone电池保养小技巧",
-      "onboard_time": 1670381471,
-      "rank": 47,
-      "category": "科技"
     },
     {
       "raw_hot": 114705,
@@ -4512,6 +4528,14 @@
       "word": "专家表示囤药不科学",
       "onboard_time": 1670221691,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 104238,
+      "num": 104238,
+      "word": "成都地铁有多能抓住成都人的心",
+      "onboard_time": 1670381772,
+      "rank": 49,
       "category": "社会新闻"
     },
     {

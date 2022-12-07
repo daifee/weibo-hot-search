@@ -1,6 +1,6 @@
 {
   "startTime": 1670343998708,
-  "endTime": 1670381503943,
+  "endTime": 1670382108944,
   "band_list": [
     {
       "raw_hot": 3747876,
@@ -19,8 +19,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1865247,
-      "num": 1865247,
+      "raw_hot": 1984540,
+      "num": 1984540,
       "word": "2023年元旦放假安排来了",
       "onboard_time": 1670376070,
       "rank": 13,
@@ -67,8 +67,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 976710,
-      "num": 464687,
+      "raw_hot": 1007100,
+      "num": 468474,
       "word": "金毛眼球被抠流落街头被救后离世",
       "onboard_time": 1670377570,
       "rank": 13,
@@ -139,6 +139,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 739104,
+      "num": 739104,
+      "word": "专家建议新冠肺炎应改称新冠病毒传染病",
+      "onboard_time": 1670379339,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 730413,
       "num": 730413,
       "word": "C罗说这是不可思议的一天",
@@ -187,6 +195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 621938,
+      "num": 621938,
+      "word": "AppStore应用最高定价74999元",
+      "onboard_time": 1670379339,
+      "rank": 11,
+      "category": "科技"
+    },
+    {
       "raw_hot": 611887,
       "num": 435059,
       "word": "摩洛哥半场0比0西班牙",
@@ -195,20 +211,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 607274,
-      "num": 607274,
-      "word": "专家建议新冠肺炎应改称新冠病毒传染病",
-      "onboard_time": 1670379339,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 572383,
-      "num": 460994,
-      "word": "AppStore应用最高定价74999元",
-      "onboard_time": 1670379339,
-      "rank": 11,
-      "category": "科技"
+      "raw_hot": 567915,
+      "num": 461834,
+      "word": "原神",
+      "onboard_time": 1670368266,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 563457,
@@ -233,14 +241,6 @@
       "onboard_time": 1670346728,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 526813,
-      "num": 449103,
-      "word": "原神",
-      "onboard_time": 1670368266,
-      "rank": 29,
-      "category": "游戏"
     },
     {
       "raw_hot": 518781,
@@ -315,6 +315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 429277,
+      "num": 429277,
+      "word": "昆明一地要求非必要不返乡",
+      "onboard_time": 1670377570,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 427954,
       "num": 427954,
       "word": "佩戴口罩能否超过8个小时",
@@ -336,14 +344,6 @@
       "word": "久违了欢迎回家过年",
       "onboard_time": 1670343909,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 416048,
-      "num": 416048,
-      "word": "昆明一地要求非必要不返乡",
-      "onboard_time": 1670377570,
-      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -411,6 +411,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 355881,
+      "num": 355881,
+      "word": "范志毅说C罗替补是好事",
+      "onboard_time": 1670379851,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 346154,
       "num": 346154,
       "word": "男子徒手掰坏劳斯莱斯小金人",
@@ -459,20 +467,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 309855,
+      "num": 309855,
+      "word": "男子醉驾致2死1伤却浑然不知",
+      "onboard_time": 1670380571,
+      "rank": 25,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 308702,
       "num": 308702,
       "word": "20岁女生有1个妹妹再喜提双胞胎弟弟",
       "onboard_time": 1670321230,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 306083,
-      "num": 306083,
-      "word": "范志毅说C罗替补是好事",
-      "onboard_time": 1670379851,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 305690,
@@ -531,8 +539,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 257286,
-      "num": 257286,
+      "raw_hot": 263266,
+      "num": 263266,
       "word": "男孩时隔4个月见父母礼貌喊叔叔",
       "onboard_time": 1670378412,
       "rank": 43,
@@ -603,12 +611,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 214561,
-      "num": 214561,
-      "word": "男子醉驾致2死1伤却浑然不知",
-      "onboard_time": 1670380571,
-      "rank": 25,
-      "category": "社会负面"
+      "raw_hot": 211860,
+      "num": 211860,
+      "word": "iPhone电池保养小技巧",
+      "onboard_time": 1670381471,
+      "rank": 47,
+      "category": "科技"
     },
     {
       "raw_hot": 200384,
@@ -665,6 +673,14 @@
       "onboard_time": 1670380632,
       "rank": 28,
       "category": "科技"
+    },
+    {
+      "raw_hot": 171745,
+      "num": 171745,
+      "word": "湖人不敌骑士",
+      "onboard_time": 1670381950,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 169060,
@@ -779,6 +795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 138633,
+      "num": 138633,
+      "word": "全盲女子6年教会数千名盲女孩化妆",
+      "onboard_time": 1670380991,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 136678,
       "num": 136678,
       "word": "贡萨洛拉莫斯帽子戏法",
@@ -832,14 +856,6 @@
       "word": "儿童新冠发病7日图",
       "onboard_time": 1670333889,
       "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 126524,
-      "num": 126524,
-      "word": "全盲女子6年教会数千名盲女孩化妆",
-      "onboard_time": 1670380991,
-      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -931,6 +947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 116972,
+      "num": 116972,
+      "word": "阿什拉夫亲吻母亲",
+      "onboard_time": 1670382071,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 115989,
       "num": 115989,
       "word": "恩里克 战术",
@@ -945,14 +969,6 @@
       "onboard_time": 1670332269,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 114790,
-      "num": 114790,
-      "word": "iPhone电池保养小技巧",
-      "onboard_time": 1670381471,
-      "rank": 47,
-      "category": "科技"
     },
     {
       "raw_hot": 114428,
@@ -1017,6 +1033,14 @@
       "onboard_time": 1670322310,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 104238,
+      "num": 104238,
+      "word": "成都地铁有多能抓住成都人的心",
+      "onboard_time": 1670381772,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 100382,
