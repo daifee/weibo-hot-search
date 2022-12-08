@@ -1,6 +1,6 @@
 {
   "startTime": 1670430424869,
-  "endTime": 1670502965708,
+  "endTime": 1670504108823,
   "band_list": [
     {
       "raw_hot": 4028892,
@@ -8,6 +8,14 @@
       "word": "告别健康码",
       "onboard_time": 1670484675,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3279536,
+      "num": 3279536,
+      "word": "元旦春节将使疫情形势达到高峰",
+      "onboard_time": 1670497819,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -32,14 +40,6 @@
       "word": "核酸检测公司将何去何从",
       "onboard_time": 1670482275,
       "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2950843,
-      "num": 2950843,
-      "word": "元旦春节将使疫情形势达到高峰",
-      "onboard_time": 1670497819,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -355,6 +355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 647928,
+      "num": 647928,
+      "word": "scout",
+      "onboard_time": 1670501059,
+      "rank": 5,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 646945,
       "num": 646945,
       "word": "第一次在手机上体会晕车",
@@ -395,20 +403,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 620302,
+      "num": 620302,
+      "word": "教师资格证",
+      "onboard_time": 1670502678,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 616313,
       "num": 488193,
       "word": "肖战王鹤棣专访",
       "onboard_time": 1670462469,
       "rank": 10,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 615930,
-      "num": 615930,
-      "word": "scout",
-      "onboard_time": 1670501059,
-      "rank": 5,
-      "category": "游戏"
     },
     {
       "raw_hot": 614625,
@@ -448,6 +456,14 @@
       "word": "国务院联防联控机制举行新闻发布会",
       "onboard_time": 1670483355,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 561271,
+      "num": 561271,
+      "word": "核酸检测公司开始破产了",
+      "onboard_time": 1670502377,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -739,6 +755,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 444912,
+      "num": 444912,
+      "word": "杞县官方通报女孩举报失联事件",
+      "onboard_time": 1670501120,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 442779,
       "num": 442779,
       "word": "女子离婚后5年没见儿子视频接通泪如雨下",
@@ -841,6 +865,14 @@
       "onboard_time": 1670499138,
       "rank": 47,
       "category": "教育,情感"
+    },
+    {
+      "raw_hot": 412145,
+      "num": 412145,
+      "word": "西班牙主帅下课",
+      "onboard_time": 1670501778,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 411001,
@@ -955,6 +987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 373293,
+      "num": 373293,
+      "word": "县委大院",
+      "onboard_time": 1670415015,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 371671,
       "num": 371671,
       "word": "三体12月10日播出",
@@ -993,6 +1033,14 @@
       "onboard_time": 1670452566,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 351327,
+      "num": 351327,
+      "word": "近20年罕见的国产剧",
+      "onboard_time": 1670500459,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 348420,
@@ -1089,6 +1137,14 @@
       "onboard_time": 1670496676,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 320030,
+      "num": 320030,
+      "word": "教资面试",
+      "onboard_time": 1670503159,
+      "rank": 21,
+      "category": "教育"
     },
     {
       "raw_hot": 315138,
@@ -1251,22 +1307,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 288451,
-      "num": 288451,
-      "word": "杞县官方通报女孩举报失联事件",
-      "onboard_time": 1670501120,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 285477,
-      "num": 285477,
-      "word": "西班牙主帅下课",
-      "onboard_time": 1670501778,
-      "rank": 21,
-      "category": "体育"
-    },
-    {
       "raw_hot": 285278,
       "num": 253933,
       "word": "许半夏对赵垒早就有贼心了",
@@ -1288,14 +1328,6 @@
       "word": "TVB超能使者是今年的最佳港剧吗",
       "onboard_time": 1670476216,
       "rank": 21,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 280522,
-      "num": 280522,
-      "word": "县委大院",
-      "onboard_time": 1670415015,
-      "rank": 37,
       "category": "影视"
     },
     {
@@ -1427,14 +1459,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 259789,
-      "num": 259789,
-      "word": "近20年罕见的国产剧",
-      "onboard_time": 1670500459,
-      "rank": 26,
-      "category": "影视"
-    },
-    {
       "raw_hot": 258225,
       "num": 197596,
       "word": "宋慧乔黑暗荣耀正式预告",
@@ -1457,6 +1481,14 @@
       "onboard_time": 1670476933,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 249123,
+      "num": 249123,
+      "word": "风吹半夏",
+      "onboard_time": 1670502558,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 248869,
@@ -1499,12 +1531,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 242711,
-      "num": 242711,
-      "word": "教师资格证",
-      "onboard_time": 1670502678,
-      "rank": 30,
-      "category": "教育"
+      "raw_hot": 242531,
+      "num": 242531,
+      "word": "混凝土浇好未干10分钟掉进3人",
+      "onboard_time": 1670501957,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 242072,
@@ -1803,11 +1835,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 190141,
-      "num": 190141,
-      "word": "风吹半夏",
-      "onboard_time": 1670502558,
-      "rank": 39,
+      "raw_hot": 191490,
+      "num": 191490,
+      "word": "风吹半夏全员狠人",
+      "onboard_time": 1670503578,
+      "rank": 33,
       "category": "影视"
     },
     {
@@ -1857,6 +1889,14 @@
       "onboard_time": 1670467932,
       "rank": 42,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 185112,
+      "num": 185112,
+      "word": "XYG对战BAC",
+      "onboard_time": 1670503939,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 183684,
@@ -1931,6 +1971,14 @@
       "category": "体育,幽默"
     },
     {
+      "raw_hot": 172675,
+      "num": 172675,
+      "word": "李峋拼命工作晕倒",
+      "onboard_time": 1670503278,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 170853,
       "num": 170853,
       "word": "这小猫咪怎么虎里虎气的",
@@ -1953,6 +2001,14 @@
       "onboard_time": 1670475674,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 169007,
+      "num": 169007,
+      "word": "该履行等疫情结束的诺言了",
+      "onboard_time": 1670503099,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 168624,
@@ -2035,6 +2091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 162355,
+      "num": 162355,
+      "word": "女儿目睹爸爸飞奔跳水救男孩",
+      "onboard_time": 1670502918,
+      "rank": 49,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 162235,
       "num": 162235,
       "word": "90后男子花3千硬装入住150平毛坯房",
@@ -2075,6 +2139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 160109,
+      "num": 160109,
+      "word": "童骁骑的遗愿清单里都是野猫",
+      "onboard_time": 1670503939,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 159863,
       "num": 159863,
       "word": "考研人到底有多努力",
@@ -2104,14 +2176,6 @@
       "word": "你认为下班可以踩点走吗",
       "onboard_time": 1670496618,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 157093,
-      "num": 157093,
-      "word": "核酸检测公司开始破产了",
-      "onboard_time": 1670502377,
-      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -2227,14 +2291,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 146624,
-      "num": 146624,
-      "word": "混凝土浇好未干10分钟掉进3人",
-      "onboard_time": 1670501957,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 146359,
       "num": 146359,
       "word": "王者世冠KIC主题曲",
@@ -2315,6 +2371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 136254,
+      "num": 136254,
+      "word": "天花板级别的托尼老师",
+      "onboard_time": 1670503758,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 135819,
       "num": 135819,
       "word": "放弃沟通就是放弃对方吗",
@@ -2377,14 +2441,6 @@
       "onboard_time": 1670416815,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 124796,
-      "num": 124796,
-      "word": "女儿目睹爸爸飞奔跳水救男孩",
-      "onboard_time": 1670502918,
-      "rank": 49,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 124161,
@@ -2587,8 +2643,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 44987,
-      "num": 364851,
+      "raw_hot": 52442,
+      "num": 380580,
       "word": "当甲骨文遇到现代科技",
       "onboard_time": 1670500822,
       "rank": 14,

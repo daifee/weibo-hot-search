@@ -1,0 +1,410 @@
+{
+  "runTime": 1670504108823,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3279536,
+        "num": 3279536,
+        "word": "元旦春节将使疫情形势达到高峰",
+        "onboard_time": 1670497819,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1713594,
+        "num": 1713594,
+        "word": "告别健康码",
+        "onboard_time": 1670484675,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203473,
+        "num": 923306,
+        "word": "新冠病毒感染者居家治疗指南",
+        "onboard_time": 1670470572,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 914418,
+        "num": 914418,
+        "word": "核酸检测才是检验新冠的金标准",
+        "onboard_time": 1670497037,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 709374,
+        "num": 709374,
+        "word": "教资笔试成绩12月9日可查",
+        "onboard_time": 1670485635,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 647928,
+        "num": 647928,
+        "word": "scout",
+        "onboard_time": 1670501059,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 628754,
+        "num": 628754,
+        "word": "钢腿女孩和消防小哥恋爱了",
+        "onboard_time": 1670491758,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 620302,
+        "num": 620302,
+        "word": "教师资格证",
+        "onboard_time": 1670502678,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 561271,
+        "num": 561271,
+        "word": "核酸检测公司开始破产了",
+        "onboard_time": 1670502377,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 444912,
+        "num": 444912,
+        "word": "杞县官方通报女孩举报失联事件",
+        "onboard_time": 1670501120,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 438661,
+        "num": 438661,
+        "word": "金莎回忆新冠康复过程",
+        "onboard_time": 1670495057,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 413863,
+        "num": 413863,
+        "word": "核酸检测公司将何去何从",
+        "onboard_time": 1670482275,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 412145,
+        "num": 412145,
+        "word": "西班牙主帅下课",
+        "onboard_time": 1670501778,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 381313,
+        "num": 381313,
+        "word": "张大仙护崽",
+        "onboard_time": 1670498897,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 52442,
+        "num": 380580,
+        "word": "当甲骨文遇到现代科技",
+        "onboard_time": 1670500822,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 380017,
+        "num": 380017,
+        "word": "陈乔恩回忆艾伦父母帮自己庆生感动哭",
+        "onboard_time": 1670488819,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 376758,
+        "num": 376758,
+        "word": "考研可以改变命运吗",
+        "onboard_time": 1670499138,
+        "rank": 16,
+        "category": "教育,情感"
+      },
+      {
+        "raw_hot": 373293,
+        "num": 373293,
+        "word": "县委大院",
+        "onboard_time": 1670499020,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 351327,
+        "num": 351327,
+        "word": "近20年罕见的国产剧",
+        "onboard_time": 1670500459,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 337429,
+        "num": 337429,
+        "word": "女子吃甘蔗卡喉被家人硬抠出血",
+        "onboard_time": 1670497397,
+        "rank": 19,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 425910,
+        "num": 334499,
+        "word": "专家称一两个月内会出现大规模疫情冲击",
+        "onboard_time": 1670480294,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 320030,
+        "num": 320030,
+        "word": "教资面试",
+        "onboard_time": 1670503159,
+        "rank": 21,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 318498,
+        "num": 318498,
+        "word": "新娘穿妈妈30年前婚纱出嫁超惊艳",
+        "onboard_time": 1670496676,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311103,
+        "num": 311103,
+        "word": "混管阳性同楼人员不需临时封控",
+        "onboard_time": 1670488277,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300026,
+        "num": 300026,
+        "word": "研究称生育会导致骨骼永久变化",
+        "onboard_time": 1670495057,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292897,
+        "num": 292897,
+        "word": "俩孩童遇电梯迫降从16楼坠至1楼",
+        "onboard_time": 1670495779,
+        "rank": 25,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 255650,
+        "num": 255650,
+        "word": "Angelababy短发怼脸花絮视频",
+        "onboard_time": 1670489236,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 249123,
+        "num": 249123,
+        "word": "风吹半夏",
+        "onboard_time": 1670502558,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 242531,
+        "num": 242531,
+        "word": "混凝土浇好未干10分钟掉进3人",
+        "onboard_time": 1670501957,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232875,
+        "num": 232875,
+        "word": "只有考研人才能听懂的BGM",
+        "onboard_time": 1670491876,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 228030,
+        "num": 228030,
+        "word": "哈尔滨市发布第75号公告",
+        "onboard_time": 1670494220,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208887,
+        "num": 208887,
+        "word": "尹峥成为元储",
+        "onboard_time": 1670493557,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 203271,
+        "num": 203271,
+        "word": "葡媒称C罗对瑞士未首发威胁离队",
+        "onboard_time": 1670494036,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191490,
+        "num": 191490,
+        "word": "风吹半夏全员狠人",
+        "onboard_time": 1670503578,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 190755,
+        "num": 190755,
+        "word": "xbb",
+        "onboard_time": 1670487977,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190355,
+        "num": 190355,
+        "word": "想明白以后就释然了",
+        "onboard_time": 1670498000,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 185644,
+        "num": 185644,
+        "word": "梅西有多宠内马尔",
+        "onboard_time": 1670495537,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185112,
+        "num": 185112,
+        "word": "XYG对战BAC",
+        "onboard_time": 1670503939,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 182915,
+        "num": 182915,
+        "word": "韩国将翻拍白敬亭赵今麦开端",
+        "onboard_time": 1670493436,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 173184,
+        "num": 173184,
+        "word": "C罗从未威胁过要离开国家队",
+        "onboard_time": 1670495957,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172675,
+        "num": 172675,
+        "word": "李峋拼命工作晕倒",
+        "onboard_time": 1670503278,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 169007,
+        "num": 169007,
+        "word": "该履行等疫情结束的诺言了",
+        "onboard_time": 1670503099,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 166518,
+        "num": 166518,
+        "word": "尹峥为李薇受伤",
+        "onboard_time": 1670501298,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 162355,
+        "num": 162355,
+        "word": "女儿目睹爸爸飞奔跳水救男孩",
+        "onboard_time": 1670502918,
+        "rank": 43,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 160109,
+        "num": 160109,
+        "word": "童骁骑的遗愿清单里都是野猫",
+        "onboard_time": 1670503939,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 146147,
+        "num": 146147,
+        "word": "2022LOL冬季转会期",
+        "onboard_time": 1670496197,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 140901,
+        "num": 140901,
+        "word": "央视认证谢谢你医生是爆款大剧",
+        "onboard_time": 1670494220,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 140047,
+        "num": 140047,
+        "word": "一起吃教资面试的苦",
+        "onboard_time": 1670502623,
+        "rank": 47,
+        "category": "教育,情感"
+      },
+      {
+        "raw_hot": 137621,
+        "num": 137621,
+        "word": "居家隔离出现这5种情况建议就医",
+        "onboard_time": 1670489476,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136254,
+        "num": 136254,
+        "word": "天花板级别的托尼老师",
+        "onboard_time": 1670503758,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#构建新时代中阿命运共同体#"
+    }
+  }
+}
