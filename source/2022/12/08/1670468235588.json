@@ -1,0 +1,410 @@
+{
+  "runTime": 1670468235588,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2466790,
+        "num": 2466790,
+        "word": "发现自己阳性了怎么办",
+        "onboard_time": 1670460729,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2111270,
+        "num": 2111270,
+        "word": "张文宏团队称阳性后99.5%的人不必去医院",
+        "onboard_time": 1670465651,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32702,
+        "num": 1602271,
+        "word": "防控措施有了这些新优化",
+        "onboard_time": 1670392993,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1577154,
+        "num": 1577154,
+        "word": "出现症状不带病上班上学",
+        "onboard_time": 1670462710,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 998533,
+        "num": 998533,
+        "word": "女子4万首付买的房子净升值近千万",
+        "onboard_time": 1670456647,
+        "rank": 4,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 782037,
+        "num": 782037,
+        "word": "多地包机出国抢订单",
+        "onboard_time": 1670463612,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 689541,
+        "num": 689541,
+        "word": "向太说风吹半夏好好看",
+        "onboard_time": 1670461990,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 646945,
+        "num": 646945,
+        "word": "第一次在手机上体会晕车",
+        "onboard_time": 1670466311,
+        "rank": 7,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 541559,
+        "num": 541559,
+        "word": "金希澈给tomboy手动消音",
+        "onboard_time": 1670468053,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 488382,
+        "num": 488382,
+        "word": "想见你",
+        "onboard_time": 1670466791,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 533479,
+        "num": 488193,
+        "word": "肖战王鹤棣专访",
+        "onboard_time": 1670462469,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 487970,
+        "num": 487970,
+        "word": "李峋朱韵三年前vs三年后",
+        "onboard_time": 1670466430,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 463774,
+        "num": 463774,
+        "word": "服用布洛芬前后千万不要喝酒",
+        "onboard_time": 1670462890,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 459924,
+        "num": 459924,
+        "word": "主人晒狗舔伤口视频被网友催打疫苗",
+        "onboard_time": 1670461868,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 440113,
+        "num": 440113,
+        "word": "布洛芬遭抢购多家药企称产能可满足需求",
+        "onboard_time": 1670423954,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 433700,
+        "num": 433700,
+        "word": "赵露思王安宇同框路透",
+        "onboard_time": 1670466131,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 418439,
+        "num": 418439,
+        "word": "世界杯最难打破的纪录",
+        "onboard_time": 1670465950,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 408622,
+        "num": 408622,
+        "word": "猫咪躺前车玻璃死亡车主将其掩埋",
+        "onboard_time": 1670455087,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 382079,
+        "num": 382079,
+        "word": "袁家军同志兼任重庆市委书记",
+        "onboard_time": 1670465290,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 374605,
+        "num": 374605,
+        "word": "李春生接受审查调查",
+        "onboard_time": 1670467451,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 412543,
+        "num": 346026,
+        "word": "秦施为阳华霸气讨公道",
+        "onboard_time": 1670465472,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 381495,
+        "num": 344149,
+        "word": "赵丽颖今年两部作品破万",
+        "onboard_time": 1670462949,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 380563,
+        "num": 340961,
+        "word": "曾可妮把张婧仪搂进羽绒服里",
+        "onboard_time": 1670458748,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 317411,
+        "num": 317411,
+        "word": "警方回应女子反映父亲被殴打致死",
+        "onboard_time": 1670466551,
+        "rank": 23,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 316100,
+        "num": 316100,
+        "word": "借考",
+        "onboard_time": 1670460154,
+        "rank": 24,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 305430,
+        "num": 305430,
+        "word": "冬季皮肤瘙痒可能是洗澡方法错了",
+        "onboard_time": 1670465950,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294419,
+        "num": 294419,
+        "word": "2岁女孩手指被撞断护士10米外找回",
+        "onboard_time": 1670465049,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279866,
+        "num": 279866,
+        "word": "男孩嚼饭3分钟妈妈一口吃掉送上学",
+        "onboard_time": 1670455867,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255012,
+        "num": 255012,
+        "word": "多地核酸检测采购项目宣告终止",
+        "onboard_time": 1670454786,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239229,
+        "num": 239229,
+        "word": "南京一地铁口被大量共享单车堵死",
+        "onboard_time": 1670455145,
+        "rank": 29,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 347308,
+        "num": 236648,
+        "word": "神奇女侠3被取消",
+        "onboard_time": 1670464691,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 296707,
+        "num": 235032,
+        "word": "女法医JD定档1212",
+        "onboard_time": 1670467148,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 264952,
+        "num": 230865,
+        "word": "尹峥对李薇说登徒子还想骗我",
+        "onboard_time": 1670462230,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 257409,
+        "num": 225324,
+        "word": "许半夏对赵垒早就有贼心了",
+        "onboard_time": 1670467512,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 244903,
+        "num": 220576,
+        "word": "阿Sa阿娇十年后再合作新剧",
+        "onboard_time": 1670468172,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 220065,
+        "num": 220065,
+        "word": "普京称世界核战争威胁增加",
+        "onboard_time": 1670461149,
+        "rank": 35,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 202828,
+        "num": 202828,
+        "word": "内马尔的球感有多恐怖",
+        "onboard_time": 1670466551,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199311,
+        "num": 199311,
+        "word": "得了新冠是否需要去医院",
+        "onboard_time": 1670463911,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195392,
+        "num": 195392,
+        "word": "女子离婚后5年没见儿子视频接通泪如雨下",
+        "onboard_time": 1670456168,
+        "rank": 38,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 188259,
+        "num": 188259,
+        "word": "邻居阳性了我该如何防护",
+        "onboard_time": 1670465590,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240460,
+        "num": 187420,
+        "word": "编剧是真没上过班吧",
+        "onboard_time": 1670422517,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 223118,
+        "num": 186553,
+        "word": "胡歌演的梅晓歌有点反差感在身上",
+        "onboard_time": 1670456647,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 185376,
+        "num": 185376,
+        "word": "00后德国队小球迷每天练球4小时",
+        "onboard_time": 1670467932,
+        "rank": 42,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 178798,
+        "num": 178798,
+        "word": "北京增社会面178例",
+        "onboard_time": 1670461269,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173826,
+        "num": 173826,
+        "word": "分手后你会和前任和好吗",
+        "onboard_time": 1670457547,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 163819,
+        "num": 163819,
+        "word": "地包天小猫被网友吐槽长相如丧尸",
+        "onboard_time": 1670427016,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163041,
+        "num": 163041,
+        "word": "河北考研可申请异地借考",
+        "onboard_time": 1670466791,
+        "rank": 46,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 150785,
+        "num": 150785,
+        "word": "阿圭罗直播连线梅西",
+        "onboard_time": 1670465350,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137375,
+        "num": 144063,
+        "word": "OPPO发布首款小折叠手机",
+        "onboard_time": 1670467271,
+        "rank": 48,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 143387,
+        "num": 143387,
+        "word": "90后女孩神级复刻敦煌飞天",
+        "onboard_time": 1670467871,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央政治局会议要求优化疫情防控措施#"
+    }
+  }
+}

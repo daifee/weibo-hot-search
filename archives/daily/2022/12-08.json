@@ -1,6 +1,6 @@
 {
   "startTime": 1670430424869,
-  "endTime": 1670467630080,
+  "endTime": 1670468235588,
   "band_list": [
     {
       "raw_hot": 2697329,
@@ -11,11 +11,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2430369,
-      "num": 2430369,
+      "raw_hot": 2466790,
+      "num": 2466790,
       "word": "发现自己阳性了怎么办",
       "onboard_time": 1670460729,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2111270,
+      "num": 2111270,
+      "word": "张文宏团队称阳性后99.5%的人不必去医院",
+      "onboard_time": 1670465651,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -41,14 +49,6 @@
       "onboard_time": 1670456647,
       "rank": 1,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 1546720,
-      "num": 1546720,
-      "word": "张文宏团队称阳性后99.5%的人不必去医院",
-      "onboard_time": 1670465651,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1403905,
@@ -123,8 +123,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 763087,
-      "num": 763087,
+      "raw_hot": 782037,
+      "num": 782037,
       "word": "多地包机出国抢订单",
       "onboard_time": 1670463612,
       "rank": 20,
@@ -155,6 +155,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 646945,
+      "num": 646945,
+      "word": "第一次在手机上体会晕车",
+      "onboard_time": 1670466311,
+      "rank": 15,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 625729,
       "num": 617551,
       "word": "双胞胎因分数接近被学校认定作弊",
@@ -172,7 +180,7 @@
     },
     {
       "raw_hot": 616313,
-      "num": 468278,
+      "num": 488193,
       "word": "肖战王鹤棣专访",
       "onboard_time": 1670462469,
       "rank": 10,
@@ -203,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 541559,
+      "num": 541559,
+      "word": "金希澈给tomboy手动消音",
+      "onboard_time": 1670468053,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 522848,
       "num": 522848,
       "word": "杨国福麻辣烫被曝吃出蚯蚓",
@@ -219,8 +235,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 484255,
-      "num": 466445,
+      "raw_hot": 488382,
+      "num": 488382,
+      "word": "想见你",
+      "onboard_time": 1670466791,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 487970,
+      "num": 487970,
       "word": "李峋朱韵三年前vs三年后",
       "onboard_time": 1670466430,
       "rank": 11,
@@ -299,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 433700,
+      "num": 433700,
+      "word": "赵露思王安宇同框路透",
+      "onboard_time": 1670466131,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 419408,
       "num": 419408,
       "word": "分手后你会和前任和好吗",
@@ -307,12 +339,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 410471,
-      "num": 410471,
-      "word": "第一次在手机上体会晕车",
-      "onboard_time": 1670466311,
-      "rank": 15,
-      "category": "幽默,情感"
+      "raw_hot": 418439,
+      "num": 418439,
+      "word": "世界杯最难打破的纪录",
+      "onboard_time": 1670465950,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 399197,
@@ -320,14 +352,6 @@
       "word": "县委大院首播收视率破2",
       "onboard_time": 1670420895,
       "rank": 12,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 398062,
-      "num": 342938,
-      "word": "赵露思王安宇同框路透",
-      "onboard_time": 1670466131,
-      "rank": 20,
       "category": "影视"
     },
     {
@@ -347,14 +371,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 387631,
-      "num": 342537,
-      "word": "想见你",
-      "onboard_time": 1670466791,
-      "rank": 21,
-      "category": "影视"
-    },
-    {
       "raw_hot": 386409,
       "num": 341995,
       "word": "神奇女侠3被取消",
@@ -363,12 +379,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 359356,
-      "num": 359356,
-      "word": "世界杯最难打破的纪录",
-      "onboard_time": 1670465950,
-      "rank": 18,
-      "category": "体育"
+      "raw_hot": 374605,
+      "num": 374605,
+      "word": "李春生接受审查调查",
+      "onboard_time": 1670467451,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 354996,
@@ -395,6 +411,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 317411,
+      "num": 317411,
+      "word": "警方回应女子反映父亲被殴打致死",
+      "onboard_time": 1670466551,
+      "rank": 32,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 313051,
       "num": 313051,
       "word": "北京增社会面178例",
@@ -419,11 +443,27 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 284193,
-      "num": 284193,
+      "raw_hot": 305430,
+      "num": 305430,
       "word": "冬季皮肤瘙痒可能是洗澡方法错了",
       "onboard_time": 1670465950,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 296707,
+      "num": 236865,
+      "word": "女法医JD定档1212",
+      "onboard_time": 1670467148,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 294419,
+      "num": 294419,
+      "word": "2岁女孩手指被撞断护士10米外找回",
+      "onboard_time": 1670465049,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -459,14 +499,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 269439,
-      "num": 269439,
-      "word": "2岁女孩手指被撞断护士10米外找回",
-      "onboard_time": 1670465049,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 265941,
       "num": 248119,
       "word": "尹峥对李薇说登徒子还想骗我",
@@ -491,6 +523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 257409,
+      "num": 225324,
+      "word": "许半夏对赵垒早就有贼心了",
+      "onboard_time": 1670467512,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 254029,
       "num": 254029,
       "word": "这粤语真的非说不可吗",
@@ -507,12 +547,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 245419,
-      "num": 245419,
-      "word": "警方回应女子反映父亲被殴打致死",
-      "onboard_time": 1670466551,
-      "rank": 32,
-      "category": "社会负面"
+      "raw_hot": 244903,
+      "num": 220576,
+      "word": "阿Sa阿娇十年后再合作新剧",
+      "onboard_time": 1670468172,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 244650,
@@ -537,14 +577,6 @@
       "onboard_time": 1670413515,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 236865,
-      "num": 236865,
-      "word": "女法医JD定档1212",
-      "onboard_time": 1670467148,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 225740,
@@ -611,19 +643,19 @@
       "category": "影视"
     },
     {
+      "raw_hot": 202828,
+      "num": 202828,
+      "word": "内马尔的球感有多恐怖",
+      "onboard_time": 1670466551,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 194336,
       "num": 194336,
       "word": "邻居阳性了我该如何防护",
       "onboard_time": 1670465590,
       "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 192970,
-      "num": 192970,
-      "word": "李春生接受审查调查",
-      "onboard_time": 1670467451,
-      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -633,14 +665,6 @@
       "onboard_time": 1670458748,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 188548,
-      "num": 188548,
-      "word": "内马尔的球感有多恐怖",
-      "onboard_time": 1670466551,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 188249,
@@ -657,6 +681,14 @@
       "onboard_time": 1670454426,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 185376,
+      "num": 185376,
+      "word": "00后德国队小球迷每天练球4小时",
+      "onboard_time": 1670467932,
+      "rank": 42,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 180656,
@@ -715,6 +747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 163041,
+      "num": 163041,
+      "word": "河北考研可申请异地借考",
+      "onboard_time": 1670466791,
+      "rank": 46,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 162896,
       "num": 162896,
       "word": "你元旦有出游计划吗",
@@ -753,14 +793,6 @@
       "onboard_time": 1670467451,
       "rank": 45,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 158818,
-      "num": 158818,
-      "word": "河北考研可申请异地借考",
-      "onboard_time": 1670466791,
-      "rank": 46,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 154944,
@@ -819,12 +851,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 143387,
+      "num": 143387,
+      "word": "90后女孩神级复刻敦煌飞天",
+      "onboard_time": 1670467871,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 142819,
       "num": 142819,
       "word": "县委大院",
       "onboard_time": 1670415015,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 137375,
+      "num": 144063,
+      "word": "OPPO发布首款小折叠手机",
+      "onboard_time": 1670467271,
+      "rank": 48,
+      "category": "科技"
     },
     {
       "raw_hot": 129515,
