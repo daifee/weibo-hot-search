@@ -1,6 +1,6 @@
 {
   "startTime": 1670430424869,
-  "endTime": 1670491101637,
+  "endTime": 1670492019439,
   "band_list": [
     {
       "raw_hot": 4028892,
@@ -91,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1632829,
+      "num": 1632829,
+      "word": "混管阳性同楼人员不需临时封控",
+      "onboard_time": 1670488277,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1596103,
       "num": 1596103,
       "word": "女子4万首付买的房子净升值近千万",
@@ -99,20 +107,20 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 1406053,
-      "num": 1406053,
-      "word": "混管阳性同楼人员不需临时封控",
-      "onboard_time": 1670488277,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1403905,
       "num": 1403905,
       "word": "三体",
       "onboard_time": 1670415015,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1354892,
+      "num": 1354892,
+      "word": "xbb",
+      "onboard_time": 1670487977,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1255833,
@@ -217,14 +225,6 @@
       "onboard_time": 1670485996,
       "rank": 10,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 822844,
-      "num": 822844,
-      "word": "xbb",
-      "onboard_time": 1670487977,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 788144,
@@ -435,6 +435,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 522268,
+      "num": 522268,
+      "word": "陈乔恩回忆艾伦父母帮自己庆生感动哭",
+      "onboard_time": 1670488819,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 520901,
       "num": 465261,
       "word": "JDG永远有Yagao的名字",
@@ -611,14 +619,6 @@
       "category": "国外要闻,军事"
     },
     {
-      "raw_hot": 452130,
-      "num": 452130,
-      "word": "陈乔恩回忆艾伦父母帮自己庆生感动哭",
-      "onboard_time": 1670488819,
-      "rank": 9,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 449719,
       "num": 449719,
       "word": "胡歌演的梅晓歌有点反差感在身上",
@@ -689,6 +689,14 @@
       "onboard_time": 1670457547,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 411001,
+      "num": 411001,
+      "word": "上海继续保留常态化核酸采样点",
+      "onboard_time": 1670486716,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 410046,
@@ -785,14 +793,6 @@
       "onboard_time": 1670474835,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 360961,
-      "num": 360961,
-      "word": "上海继续保留常态化核酸采样点",
-      "onboard_time": 1670486716,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 355708,
@@ -931,6 +931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 312615,
+      "num": 312615,
+      "word": "女子果断脱羽绒服为街头急产儿保暖",
+      "onboard_time": 1670488937,
+      "rank": 24,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 312249,
       "num": 312249,
       "word": "北京健康宝",
@@ -961,6 +969,14 @@
       "onboard_time": 1670487375,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 309055,
+      "num": 309055,
+      "word": "居家隔离出现这5种情况建议就医",
+      "onboard_time": 1670489476,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 305213,
@@ -1059,6 +1075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 277414,
+      "num": 277414,
+      "word": "李峋朱韵未来的LP总裁与总裁夫人",
+      "onboard_time": 1670490436,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 276977,
       "num": 276977,
       "word": "关晓彤新剧角色是娇俏小女人",
@@ -1123,14 +1147,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 270888,
-      "num": 270888,
-      "word": "居家隔离出现这5种情况建议就医",
-      "onboard_time": 1670489476,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 265941,
       "num": 248119,
       "word": "尹峥对李薇说登徒子还想骗我",
@@ -1145,14 +1161,6 @@
       "onboard_time": 1670429234,
       "rank": 31,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 265119,
-      "num": 265119,
-      "word": "李峋朱韵未来的LP总裁与总裁夫人",
-      "onboard_time": 1670490436,
-      "rank": 23,
-      "category": "影视"
     },
     {
       "raw_hot": 264847,
@@ -1177,14 +1185,6 @@
       "onboard_time": 1670469313,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 255830,
-      "num": 255830,
-      "word": "女子果断脱羽绒服为街头急产儿保暖",
-      "onboard_time": 1670488937,
-      "rank": 24,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 254029,
@@ -1307,6 +1307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 229792,
+      "num": 229792,
+      "word": "爸爸自制300平米冰场供儿子训练",
+      "onboard_time": 1670487435,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 229398,
       "num": 211457,
       "word": "神隐开机路透",
@@ -1371,12 +1379,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 216007,
-      "num": 216007,
-      "word": "爸爸自制300平米冰场供儿子训练",
-      "onboard_time": 1670487435,
-      "rank": 46,
-      "category": "社会新闻"
+      "raw_hot": 215673,
+      "num": 196963,
+      "word": "赵露思颖儿神隐同框视频",
+      "onboard_time": 1670491398,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 213671,
@@ -1457,6 +1465,14 @@
       "onboard_time": 1670477354,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 198042,
+      "num": 198042,
+      "word": "死神到底帅在哪",
+      "onboard_time": 1670488220,
+      "rank": 43,
+      "category": "动漫"
     },
     {
       "raw_hot": 195654,
@@ -1563,11 +1579,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 178089,
+      "num": 164981,
+      "word": "奔跑吧全员游戏ID曝光",
+      "onboard_time": 1670488156,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 177738,
       "num": 177738,
       "word": "发热门诊要扩大接诊空间",
       "onboard_time": 1670487019,
       "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 175017,
+      "num": 175017,
+      "word": "姐姐放假悄悄回家被弟弟激动抱起",
+      "onboard_time": 1670489956,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -1641,14 +1673,6 @@
       "onboard_time": 1670475735,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 164981,
-      "num": 164981,
-      "word": "奔跑吧全员游戏ID曝光",
-      "onboard_time": 1670488156,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 164401,
@@ -1731,6 +1755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 160073,
+      "num": 160073,
+      "word": "家长找高手线上碾压孩子帮其戒网瘾",
+      "onboard_time": 1670490856,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 159863,
       "num": 159863,
       "word": "考研人到底有多努力",
@@ -1761,14 +1793,6 @@
       "onboard_time": 1670483475,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 155696,
-      "num": 155696,
-      "word": "死神到底帅在哪",
-      "onboard_time": 1670488220,
-      "rank": 43,
-      "category": "动漫"
     },
     {
       "raw_hot": 154944,
@@ -1843,6 +1867,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 147343,
+      "num": 147343,
+      "word": "许魏洲回应深V西装造型",
+      "onboard_time": 1670491457,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 146359,
       "num": 146359,
       "word": "王者世冠KIC主题曲",
@@ -1899,6 +1931,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 142285,
+      "num": 142285,
+      "word": "原来这才是真正的猫步",
+      "onboard_time": 1670491156,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 139783,
       "num": 139285,
       "word": "尹峥有多爱吃醋",
@@ -1939,12 +1979,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 130192,
-      "num": 130192,
-      "word": "姐姐放假悄悄回家被弟弟激动抱起",
-      "onboard_time": 1670489956,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 131747,
+      "num": 131747,
+      "word": "只有考研人才能听懂的BGM",
+      "onboard_time": 1670491876,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 129515,
@@ -1969,6 +2009,14 @@
       "onboard_time": 1670473035,
       "rank": 49,
       "category": "体育,幽默"
+    },
+    {
+      "raw_hot": 128730,
+      "num": 128730,
+      "word": "钢腿女孩和消防小哥恋爱了",
+      "onboard_time": 1670491758,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 124985,
@@ -2000,14 +2048,6 @@
       "word": "男子养8只哈士奇暴雪后进山狂欢",
       "onboard_time": 1670422034,
       "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 116964,
-      "num": 116964,
-      "word": "家长找高手线上碾压孩子帮其戒网瘾",
-      "onboard_time": 1670490856,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
