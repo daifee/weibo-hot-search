@@ -1,6 +1,6 @@
 {
   "startTime": 1670171104099,
-  "endTime": 1670477631074,
+  "endTime": 1670480677071,
   "band_list": [
     {
       "raw_hot": 8813662,
@@ -323,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1841809,
+      "num": 1841809,
+      "word": "想见你",
+      "onboard_time": 1670466791,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1812362,
       "num": 1032071,
       "word": "是连花清瘟不是莲花清温",
@@ -449,14 +457,6 @@
       "onboard_time": 1670198887,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1554996,
-      "num": 1554996,
-      "word": "想见你",
-      "onboard_time": 1670466791,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 1547007,
@@ -1163,6 +1163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 844486,
+      "num": 844486,
+      "word": "郑恺说婚后一回家就不想出门",
+      "onboard_time": 1670477775,
+      "rank": 4,
+      "category": "综艺,综艺"
+    },
+    {
       "raw_hot": 841763,
       "num": 841763,
       "word": "向太说风吹半夏好好看",
@@ -1819,6 +1827,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 619694,
+      "num": 1741939,
+      "word": "新冠阳性居家康复指引",
+      "onboard_time": 1670470093,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 616313,
       "num": 488193,
       "word": "肖战王鹤棣专访",
@@ -2091,6 +2107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 548256,
+      "num": 474640,
+      "word": "王鹤棣成立个人品牌",
+      "onboard_time": 1670476754,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 547139,
       "num": 1006154,
       "word": "三亚机票酒店预订暴涨3倍",
@@ -2243,6 +2267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 520901,
+      "num": 379133,
+      "word": "JDG永远有Yagao的名字",
+      "onboard_time": 1670478435,
+      "rank": 11,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 519999,
       "num": 519999,
       "word": "服用布洛芬前后千万不要喝酒",
@@ -2275,12 +2307,12 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 514700,
-      "num": 1741939,
-      "word": "新冠阳性居家康复指引",
-      "onboard_time": 1670470093,
-      "rank": 2,
-      "category": "国内要闻"
+      "raw_hot": 514606,
+      "num": 514606,
+      "word": "机智的医生生活国内上线",
+      "onboard_time": 1670475435,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 506118,
@@ -2313,14 +2345,6 @@
       "onboard_time": 1670423954,
       "rank": 11,
       "category": "影视"
-    },
-    {
-      "raw_hot": 497342,
-      "num": 474640,
-      "word": "王鹤棣成立个人品牌",
-      "onboard_time": 1670476754,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 495819,
@@ -2403,6 +2427,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 483694,
+      "num": 377608,
+      "word": "这才是真正的氛围感美人吧",
+      "onboard_time": 1670474294,
+      "rank": 22,
+      "category": "情感,艺人"
+    },
+    {
       "raw_hot": 483566,
       "num": 483566,
       "word": "无疫情学校要开展正常线下教学",
@@ -2417,6 +2449,14 @@
       "onboard_time": 1670466551,
       "rank": 32,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 482604,
+      "num": 482604,
+      "word": "荷兰vs阿根廷",
+      "onboard_time": 1670476334,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 481635,
@@ -2489,14 +2529,6 @@
       "onboard_time": 1670344328,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 470333,
-      "num": 470333,
-      "word": "机智的医生生活国内上线",
-      "onboard_time": 1670475435,
-      "rank": 11,
-      "category": "影视"
     },
     {
       "raw_hot": 470020,
@@ -3211,12 +3243,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 371671,
+      "num": 371671,
+      "word": "三体12月10日播出",
+      "onboard_time": 1670476814,
+      "rank": 33,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 370627,
       "num": 370627,
       "word": "范志毅说C罗替补是好事",
       "onboard_time": 1670379851,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 368053,
+      "num": 368053,
+      "word": "小猫有点聪明但不多",
+      "onboard_time": 1670474835,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 366899,
@@ -3627,11 +3675,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 315138,
+      "num": 315138,
+      "word": "田曦薇王星越的新剧cp感",
+      "onboard_time": 1670478018,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 314921,
       "num": 236397,
       "word": "肖战微博视界大会场内花絮",
       "onboard_time": 1670470572,
       "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 314299,
+      "num": 303859,
+      "word": "卿卿日常胡丹丹回应网友别演反派",
+      "onboard_time": 1670478618,
+      "rank": 20,
       "category": "影视"
     },
     {
@@ -3649,14 +3713,6 @@
       "onboard_time": 1670461269,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 312717,
-      "num": 312717,
-      "word": "荷兰vs阿根廷",
-      "onboard_time": 1670476334,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 311783,
@@ -3691,6 +3747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 311032,
+      "num": 311032,
+      "word": "高位截瘫父亲做10万双鞋供出博士女儿",
+      "onboard_time": 1670477114,
+      "rank": 48,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 310804,
       "num": 310804,
       "word": "世界杯仅剩10场比赛了",
@@ -3705,14 +3769,6 @@
       "onboard_time": 1670417054,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 309646,
-      "num": 309646,
-      "word": "这才是真正的氛围感美人吧",
-      "onboard_time": 1670474294,
-      "rank": 22,
-      "category": "情感,艺人"
     },
     {
       "raw_hot": 309223,
@@ -3747,12 +3803,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 305213,
+      "num": 305213,
+      "word": "结婚后朋友会越来越少吗",
+      "onboard_time": 1670478735,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 303771,
       "num": 1140079,
       "word": "C罗的身体极限到底有多强",
       "onboard_time": 1670241312,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 302377,
+      "num": 302377,
+      "word": "郑钧说被刘芸驯服了",
+      "onboard_time": 1670478254,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 301417,
@@ -3947,6 +4019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 283273,
+      "num": 283273,
+      "word": "赵露思新剧开机状态",
+      "onboard_time": 1670478674,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 280643,
       "num": 280643,
       "word": "TVB超能使者是今年的最佳港剧吗",
@@ -4096,6 +4176,14 @@
       "word": "全国多地疫情防控层层减码",
       "onboard_time": 1670302690,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 271898,
+      "num": 271898,
+      "word": "九尾的火舞操控太丝滑了",
+      "onboard_time": 1670478435,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -4283,14 +4371,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 257735,
-      "num": 257735,
-      "word": "小猫有点聪明但不多",
-      "onboard_time": 1670474835,
-      "rank": 24,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 257561,
       "num": 257561,
       "word": "美国一警察局长驾车被拦后亮警徽",
@@ -4417,6 +4497,14 @@
       "onboard_time": 1670463911,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 248571,
+      "num": 248571,
+      "word": "齐司礼",
+      "onboard_time": 1670478496,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 248261,
@@ -4675,6 +4763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 227654,
+      "num": 227654,
+      "word": "专家称一两个月内会出现大规模疫情冲击",
+      "onboard_time": 1670480294,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 227253,
       "num": 227253,
       "word": "男子失业半年重拾梦想画画养家",
@@ -4803,6 +4899,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 220317,
+      "num": 220317,
+      "word": "尹峥向岳父大人求娶李薇",
+      "onboard_time": 1670478496,
+      "rank": 32,
+      "category": "影视,艺人"
+    },
+    {
       "raw_hot": 219971,
       "num": 219971,
       "word": "队友羡慕C罗肌肉",
@@ -4873,6 +4977,14 @@
       "onboard_time": 1670218991,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 216465,
+      "num": 216465,
+      "word": "如果考研坚持不下去怎么办",
+      "onboard_time": 1670476515,
+      "rank": 49,
+      "category": "教育,情感"
     },
     {
       "raw_hot": 215861,
@@ -5017,14 +5129,6 @@
       "onboard_time": 1670412073,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 206602,
-      "num": 206602,
-      "word": "三体12月10日播出",
-      "onboard_time": 1670476814,
-      "rank": 33,
-      "category": "动漫"
     },
     {
       "raw_hot": 206184,
@@ -5483,6 +5587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 183684,
+      "num": 129628,
+      "word": "张婧仪朱韵金句台词海报",
+      "onboard_time": 1670480656,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 182816,
       "num": 182816,
       "word": "感染奥密克戎后有何症状",
@@ -5553,6 +5665,14 @@
       "onboard_time": 1670438350,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 180374,
+      "num": 180374,
+      "word": "BOYSTORY临场反应能力",
+      "onboard_time": 1670479817,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 180261,
@@ -5633,14 +5753,6 @@
       "onboard_time": 1670318651,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 177040,
-      "num": 177040,
-      "word": "如果考研坚持不下去怎么办",
-      "onboard_time": 1670476515,
-      "rank": 49,
-      "category": "教育,情感"
     },
     {
       "raw_hot": 176967,
@@ -6099,6 +6211,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 160140,
+      "num": 160140,
+      "word": "合伙吧少年今日开播",
+      "onboard_time": 1670480236,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 159992,
       "num": 256458,
       "word": "解封后家庭该常备哪些药物",
@@ -6467,14 +6587,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 145894,
-      "num": 145894,
-      "word": "高位截瘫父亲做10万双鞋供出博士女儿",
-      "onboard_time": 1670477114,
-      "rank": 48,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 145885,
       "num": 145885,
       "word": "又被蒜香五花肉馋到了",
@@ -6513,6 +6625,14 @@
       "onboard_time": 1670392271,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 144431,
+      "num": 144431,
+      "word": "陈梦3比2陈幸同",
+      "onboard_time": 1670480236,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 143921,
@@ -6979,6 +7099,14 @@
       "category": "体育,幽默"
     },
     {
+      "raw_hot": 128840,
+      "num": 128840,
+      "word": "熊孩子头卡电饭煲消防员都看懵了",
+      "onboard_time": 1670479574,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 128513,
       "num": 128513,
       "word": "这才是真正的移动办公",
@@ -7049,6 +7177,14 @@
       "onboard_time": 1670294831,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 125975,
+      "num": 125975,
+      "word": "妈妈奖励13岁儿子考第一却被暖哭",
+      "onboard_time": 1670479515,
+      "rank": 49,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 124985,
@@ -8064,6 +8200,14 @@
       "word": "各地最新防疫优化调整措施",
       "onboard_time": 1670282347,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 5389,
+      "num": 369494,
+      "word": "暖阳说这才是真电竞buff",
+      "onboard_time": 1670479218,
+      "rank": 14,
       "category": "社会新闻"
     }
   ],
