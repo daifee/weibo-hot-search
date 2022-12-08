@@ -1,6 +1,6 @@
 {
   "startTime": 1670430424869,
-  "endTime": 1670504108823,
+  "endTime": 1670505937834,
   "band_list": [
     {
       "raw_hot": 4028892,
@@ -73,6 +73,14 @@
       "onboard_time": 1670470273,
       "rank": 41,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 2128942,
+      "num": 814863,
+      "word": "核酸检测公司开始破产了",
+      "onboard_time": 1670502377,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1887733,
@@ -275,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 773644,
+      "num": 773644,
+      "word": "教师资格证",
+      "onboard_time": 1670502678,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 732688,
       "num": 732688,
       "word": "陈乔恩回忆艾伦父母帮自己庆生感动哭",
@@ -403,14 +419,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 620302,
-      "num": 620302,
-      "word": "教师资格证",
-      "onboard_time": 1670502678,
-      "rank": 30,
-      "category": "教育"
-    },
-    {
       "raw_hot": 616313,
       "num": 488193,
       "word": "肖战王鹤棣专访",
@@ -456,14 +464,6 @@
       "word": "国务院联防联控机制举行新闻发布会",
       "onboard_time": 1670483355,
       "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 561271,
-      "num": 561271,
-      "word": "核酸检测公司开始破产了",
-      "onboard_time": 1670502377,
-      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -528,6 +528,14 @@
       "word": "宝宝在菜地啃着萝卜陪妈妈",
       "onboard_time": 1670473273,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 526880,
+      "num": 526880,
+      "word": "杞县官方通报女孩举报失联事件",
+      "onboard_time": 1670501120,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -755,14 +763,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 444912,
-      "num": 444912,
-      "word": "杞县官方通报女孩举报失联事件",
-      "onboard_time": 1670501120,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 442779,
       "num": 442779,
       "word": "女子离婚后5年没见儿子视频接通泪如雨下",
@@ -865,6 +865,22 @@
       "onboard_time": 1670499138,
       "rank": 47,
       "category": "教育,情感"
+    },
+    {
+      "raw_hot": 414778,
+      "num": 414778,
+      "word": "近20年罕见的国产剧",
+      "onboard_time": 1670500459,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 412891,
+      "num": 412891,
+      "word": "县委大院",
+      "onboard_time": 1670415015,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 412145,
@@ -971,6 +987,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 381653,
+      "num": 381653,
+      "word": "混凝土浇好未干10分钟掉进3人",
+      "onboard_time": 1670501957,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 377379,
       "num": 377379,
       "word": "张真源小张盲盒12视频",
@@ -985,14 +1009,6 @@
       "onboard_time": 1670468471,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 373293,
-      "num": 373293,
-      "word": "县委大院",
-      "onboard_time": 1670415015,
-      "rank": 37,
-      "category": "影视"
     },
     {
       "raw_hot": 371671,
@@ -1035,12 +1051,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 351327,
-      "num": 351327,
-      "word": "近20年罕见的国产剧",
-      "onboard_time": 1670500459,
-      "rank": 26,
-      "category": "影视"
+      "raw_hot": 352378,
+      "num": 352378,
+      "word": "狗子和主人独处太兴奋狂摇尾巴骨折",
+      "onboard_time": 1670504597,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 348420,
@@ -1187,6 +1203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 312348,
+      "num": 312348,
+      "word": "女儿目睹爸爸飞奔跳水救男孩",
+      "onboard_time": 1670502918,
+      "rank": 49,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 312249,
       "num": 312249,
       "word": "北京健康宝",
@@ -1256,6 +1280,14 @@
       "word": "女法医JD定档1212",
       "onboard_time": 1670467148,
       "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 295321,
+      "num": 295321,
+      "word": "童骁骑的遗愿清单里都是野猫",
+      "onboard_time": 1670503939,
+      "rank": 44,
       "category": "影视"
     },
     {
@@ -1531,12 +1563,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 242531,
-      "num": 242531,
-      "word": "混凝土浇好未干10分钟掉进3人",
-      "onboard_time": 1670501957,
-      "rank": 44,
-      "category": "社会新闻"
+      "raw_hot": 243863,
+      "num": 243863,
+      "word": "风吹半夏全员狠人",
+      "onboard_time": 1670503578,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 242072,
@@ -1553,6 +1585,14 @@
       "onboard_time": 1670413515,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 238821,
+      "num": 238821,
+      "word": "陈敏尔同志兼任天津市委书记",
+      "onboard_time": 1670504237,
+      "rank": 25,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 238332,
@@ -1585,6 +1625,14 @@
       "onboard_time": 1670488220,
       "rank": 43,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 233961,
+      "num": 842115,
+      "word": "老人小孩孕产妇防疫手册",
+      "onboard_time": 1670504597,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 233679,
@@ -1811,6 +1859,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 195507,
+      "num": 195507,
+      "word": "2022LPL全明星",
+      "onboard_time": 1670504425,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 195215,
       "num": 195215,
       "word": "2022PEL全明星周末",
@@ -1833,14 +1889,6 @@
       "onboard_time": 1670487019,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 191490,
-      "num": 191490,
-      "word": "风吹半夏全员狠人",
-      "onboard_time": 1670503578,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 189928,
@@ -2091,14 +2139,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 162355,
-      "num": 162355,
-      "word": "女儿目睹爸爸飞奔跳水救男孩",
-      "onboard_time": 1670502918,
-      "rank": 49,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 162235,
       "num": 162235,
       "word": "90后男子花3千硬装入住150平毛坯房",
@@ -2137,14 +2177,6 @@
       "onboard_time": 1670480236,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 160109,
-      "num": 160109,
-      "word": "童骁骑的遗愿清单里都是野猫",
-      "onboard_time": 1670503939,
-      "rank": 44,
-      "category": "影视"
     },
     {
       "raw_hot": 159863,
@@ -2363,6 +2395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 136863,
+      "num": 136863,
+      "word": "我们正式迈向结束疫情生活的道路",
+      "onboard_time": 1670505439,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 136780,
       "num": 136780,
       "word": "瑞丽市核子基因因信息作假经营异常",
@@ -2435,6 +2475,22 @@
       "category": "体育,幽默"
     },
     {
+      "raw_hot": 127989,
+      "num": 127989,
+      "word": "赵丽颖说许半夏喜欢旗鼓相当的人",
+      "onboard_time": 1670505800,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 127786,
+      "num": 127786,
+      "word": "你最喜欢的体育解说是谁",
+      "onboard_time": 1670504959,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 124985,
       "num": 124985,
       "word": "王楚钦",
@@ -2457,6 +2513,14 @@
       "onboard_time": 1670488635,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 123041,
+      "num": 123041,
+      "word": "河北教资",
+      "onboard_time": 1670504780,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 122838,
