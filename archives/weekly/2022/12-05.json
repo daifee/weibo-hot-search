@@ -1,6 +1,6 @@
 {
   "startTime": 1670171104099,
-  "endTime": 1670474378112,
+  "endTime": 1670476676463,
   "band_list": [
     {
       "raw_hot": 8813662,
@@ -136,6 +136,14 @@
       "word": "潘懋元逝世",
       "onboard_time": 1670311812,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2469012,
+      "num": 2469012,
+      "word": "女生准时下班被批踩点走",
+      "onboard_time": 1670470633,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -425,14 +433,6 @@
       "onboard_time": 1670212510,
       "rank": 13,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 1604233,
-      "num": 1604233,
-      "word": "女生准时下班被批踩点走",
-      "onboard_time": 1670470633,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1596103,
@@ -825,6 +825,14 @@
       "onboard_time": 1670340310,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1012193,
+      "num": 1012193,
+      "word": "想见你",
+      "onboard_time": 1670466791,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 1007100,
@@ -1427,14 +1435,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 699368,
-      "num": 699368,
-      "word": "想见你",
-      "onboard_time": 1670466791,
-      "rank": 21,
-      "category": "影视"
-    },
-    {
       "raw_hot": 692291,
       "num": 1099245,
       "word": "保定回应舆情称网上夸张成分太大",
@@ -1809,6 +1809,14 @@
       "onboard_time": 1670333651,
       "rank": 45,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 619428,
+      "num": 619428,
+      "word": "近视男孩就医发现视网膜脱落已半年",
+      "onboard_time": 1670472914,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 616313,
@@ -2331,6 +2339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 490016,
+      "num": 225412,
+      "word": "肖战对迷人又可爱反派角色的执念",
+      "onboard_time": 1670475194,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 488049,
       "num": 488049,
       "word": "县委大院",
@@ -2408,6 +2424,14 @@
       "word": "北京朝阳社会面核酸采样亭应开尽开",
       "onboard_time": 1670196788,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 478952,
+      "num": 478952,
+      "word": "宝宝在菜地啃着萝卜陪妈妈",
+      "onboard_time": 1670473273,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -2587,6 +2611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 452606,
+      "num": 452606,
+      "word": "机智的医生生活国内上线",
+      "onboard_time": 1670475435,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 451711,
       "num": 392339,
       "word": "何超琼说爱国是家训",
@@ -2609,14 +2641,6 @@
       "onboard_time": 1670456647,
       "rank": 16,
       "category": "影视"
-    },
-    {
-      "raw_hot": 444795,
-      "num": 444795,
-      "word": "宝宝在菜地啃着萝卜陪妈妈",
-      "onboard_time": 1670473273,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 444616,
@@ -2673,6 +2697,14 @@
       "onboard_time": 1670410933,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 438127,
+      "num": 438127,
+      "word": "中国裁判组结束世界杯之旅",
+      "onboard_time": 1670473753,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 437833,
@@ -2785,6 +2817,14 @@
       "onboard_time": 1670284626,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 421943,
+      "num": 421943,
+      "word": "提前感受考研那几天的状态",
+      "onboard_time": 1670472552,
+      "rank": 43,
+      "category": "教育,情感"
     },
     {
       "raw_hot": 419408,
@@ -2977,6 +3017,14 @@
       "onboard_time": 1670390592,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 391854,
+      "num": 391854,
+      "word": "孙颖莎3比1王曼昱",
+      "onboard_time": 1670474896,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 391035,
@@ -3475,6 +3523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 322861,
+      "num": 322861,
+      "word": "许半夏拼命建钢厂病倒",
+      "onboard_time": 1670475674,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 322543,
       "num": 322543,
       "word": "山东人都是饺子籍",
@@ -3547,14 +3603,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 315563,
-      "num": 315563,
-      "word": "近视男孩就医发现视网膜脱落已半年",
-      "onboard_time": 1670472914,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 314921,
       "num": 236397,
       "word": "肖战微博视界大会场内花絮",
@@ -3593,6 +3641,14 @@
       "onboard_time": 1670413634,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 311653,
+      "num": 311653,
+      "word": "阿凡达2IMAX平均票价133.43元",
+      "onboard_time": 1670473634,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 311576,
@@ -3649,14 +3705,6 @@
       "onboard_time": 1670419874,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 305149,
-      "num": 305149,
-      "word": "提前感受考研那几天的状态",
-      "onboard_time": 1670472552,
-      "rank": 43,
-      "category": "教育,情感"
     },
     {
       "raw_hot": 303771,
@@ -3859,11 +3907,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 283057,
-      "num": 237917,
-      "word": "阿凡达2IMAX平均票价133.43元",
-      "onboard_time": 1670473634,
-      "rank": 30,
+      "raw_hot": 280643,
+      "num": 280643,
+      "word": "TVB超能使者是今年的最佳港剧吗",
+      "onboard_time": 1670476216,
+      "rank": 21,
       "category": "影视"
     },
     {
@@ -4195,6 +4243,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 257735,
+      "num": 257735,
+      "word": "小猫有点聪明但不多",
+      "onboard_time": 1670474835,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 257561,
       "num": 257561,
       "word": "美国一警察局长驾车被拦后亮警徽",
@@ -4441,6 +4497,14 @@
       "onboard_time": 1670281747,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 237492,
+      "num": 223063,
+      "word": "上一次追胡歌的剧还是上一次",
+      "onboard_time": 1670475134,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 237306,
@@ -5195,6 +5259,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 191552,
+      "num": 191552,
+      "word": "考研上岸感人的瞬间",
+      "onboard_time": 1670475494,
+      "rank": 36,
+      "category": "教育,情感"
+    },
+    {
       "raw_hot": 191501,
       "num": 191501,
       "word": "你有注意力缺陷综合征吗",
@@ -5209,14 +5281,6 @@
       "onboard_time": 1670158152,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 190750,
-      "num": 190750,
-      "word": "中国裁判组结束世界杯之旅",
-      "onboard_time": 1670473753,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 190577,
@@ -5699,6 +5763,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 169889,
+      "num": 169889,
+      "word": "这舞蹈没有感情全是学分",
+      "onboard_time": 1670475674,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 169217,
       "num": 169217,
       "word": "赵垒省二钢竞标会背刺许半夏",
@@ -5787,6 +5859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 166809,
+      "num": 166809,
+      "word": "当中国航天遇上绝美景观",
+      "onboard_time": 1670476515,
+      "rank": 45,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 166772,
       "num": 646788,
       "word": "亚足联球队全部出局",
@@ -5857,6 +5937,14 @@
       "onboard_time": 1670386213,
       "rank": 38,
       "category": "体育,财经"
+    },
+    {
+      "raw_hot": 163239,
+      "num": 163239,
+      "word": "荷兰vs阿根廷",
+      "onboard_time": 1670476334,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 162896,
@@ -5987,6 +6075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 156342,
+      "num": 156342,
+      "word": "世界杯摄影师是懂打小抄的",
+      "onboard_time": 1670475913,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 156334,
       "num": 156334,
       "word": "婚姻中如何保持爱和吸引",
@@ -6009,6 +6105,14 @@
       "onboard_time": 1670369166,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 156040,
+      "num": 156040,
+      "word": "如果考研坚持不下去怎么办",
+      "onboard_time": 1670476515,
+      "rank": 49,
+      "category": "教育,情感"
     },
     {
       "raw_hot": 155598,
@@ -6729,6 +6833,14 @@
       "onboard_time": 1670402233,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 129904,
+      "num": 403644,
+      "word": "今天的快乐是开黑给的",
+      "onboard_time": 1670475735,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 129878,
@@ -7745,6 +7857,14 @@
       "onboard_time": 1670196367,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 55752,
+      "num": 169818,
+      "word": "信用分超550租房或可免押金",
+      "onboard_time": 1670475617,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 55546,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1670476676463,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2740778,
+        "num": 2740778,
+        "word": "张文宏团队称阳性后99.5%的人不必去医院",
+        "onboard_time": 1670465651,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2469012,
+        "num": 2469012,
+        "word": "女生准时下班被批踩点走",
+        "onboard_time": 1670470633,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 412373,
+        "num": 1045909,
+        "word": "新冠阳性居家康复指引",
+        "onboard_time": 1670470093,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1012193,
+        "num": 1012193,
+        "word": "想见你",
+        "onboard_time": 1670466791,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 863515,
+        "num": 863515,
+        "word": "发现自己阳性了怎么办",
+        "onboard_time": 1670460729,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 619428,
+        "num": 619428,
+        "word": "近视男孩就医发现视网膜脱落已半年",
+        "onboard_time": 1670472914,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 585169,
+        "num": 585169,
+        "word": "不建议布洛芬与对乙酰氨基酚同服",
+        "onboard_time": 1670468293,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 562408,
+        "num": 562408,
+        "word": "英格兰为限制姆巴佩准备了两年",
+        "onboard_time": 1670469013,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 478952,
+        "num": 478952,
+        "word": "宝宝在菜地啃着萝卜陪妈妈",
+        "onboard_time": 1670473273,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 456403,
+        "num": 456403,
+        "word": "出现症状不带病上班上学",
+        "onboard_time": 1670462710,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1797428,
+        "num": 455479,
+        "word": "河南19岁女生实名举报后被人带走失联",
+        "onboard_time": 1670470273,
+        "rank": 10,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 452606,
+        "num": 452606,
+        "word": "机智的医生生活国内上线",
+        "onboard_time": 1670475435,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 438127,
+        "num": 438127,
+        "word": "中国裁判组结束世界杯之旅",
+        "onboard_time": 1670473753,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 421943,
+        "num": 421943,
+        "word": "提前感受考研那几天的状态",
+        "onboard_time": 1670472552,
+        "rank": 13,
+        "category": "教育,情感"
+      },
+      {
+        "raw_hot": 129904,
+        "num": 403644,
+        "word": "今天的快乐是开黑给的",
+        "onboard_time": 1670475735,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 391854,
+        "num": 391854,
+        "word": "孙颖莎3比1王曼昱",
+        "onboard_time": 1670474896,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 389595,
+        "num": 389595,
+        "word": "张艺兴陈晓杨颖十二月封面",
+        "onboard_time": 1670473634,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 377751,
+        "num": 377751,
+        "word": "警方回应女子反映父亲被殴打致死",
+        "onboard_time": 1670466551,
+        "rank": 17,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 366303,
+        "num": 366303,
+        "word": "阿Sa阿娇十年后再合作新剧",
+        "onboard_time": 1670468172,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 322861,
+        "num": 322861,
+        "word": "许半夏拼命建钢厂病倒",
+        "onboard_time": 1670475674,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 311653,
+        "num": 311653,
+        "word": "阿凡达2IMAX平均票价133.43元",
+        "onboard_time": 1670473634,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 280643,
+        "num": 280643,
+        "word": "TVB超能使者是今年的最佳港剧吗",
+        "onboard_time": 1670476216,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 273196,
+        "num": 273196,
+        "word": "多地包机出国抢订单",
+        "onboard_time": 1670463612,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261962,
+        "num": 261962,
+        "word": "借考",
+        "onboard_time": 1670460154,
+        "rank": 23,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 257735,
+        "num": 257735,
+        "word": "小猫有点聪明但不多",
+        "onboard_time": 1670474835,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 254969,
+        "num": 254969,
+        "word": "猫咪躺前车玻璃死亡车主将其掩埋",
+        "onboard_time": 1670455087,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245795,
+        "num": 245795,
+        "word": "金希澈给tomboy手动消音",
+        "onboard_time": 1670468053,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236104,
+        "num": 236104,
+        "word": "内马尔的球感有多恐怖",
+        "onboard_time": 1670466551,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 230154,
+        "num": 230154,
+        "word": "在云南300元能买32只大闸蟹",
+        "onboard_time": 1670471173,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 228033,
+        "num": 228033,
+        "word": "郑州需要一场烟火秀",
+        "onboard_time": 1670468471,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 490016,
+        "num": 225412,
+        "word": "肖战对迷人又可爱反派角色的执念",
+        "onboard_time": 1670475194,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 237492,
+        "num": 223063,
+        "word": "上一次追胡歌的剧还是上一次",
+        "onboard_time": 1670475134,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 237459,
+        "num": 221174,
+        "word": "赵丽颖说也是许半夏粉丝",
+        "onboard_time": 1670470153,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 237288,
+        "num": 218963,
+        "word": "李峋朱韵三年前vs三年后",
+        "onboard_time": 1670466430,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 217353,
+        "num": 217353,
+        "word": "新婚小伙推迟备孕捐造血干细胞",
+        "onboard_time": 1670469433,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201138,
+        "num": 201138,
+        "word": "袁家军同志兼任重庆市委书记",
+        "onboard_time": 1670465290,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191552,
+        "num": 191552,
+        "word": "考研上岸感人的瞬间",
+        "onboard_time": 1670475494,
+        "rank": 36,
+        "category": "教育,情感"
+      },
+      {
+        "raw_hot": 191303,
+        "num": 191303,
+        "word": "男孩嚼饭3分钟妈妈一口吃掉送上学",
+        "onboard_time": 1670455867,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169889,
+        "num": 169889,
+        "word": "这舞蹈没有感情全是学分",
+        "onboard_time": 1670475674,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 55752,
+        "num": 169818,
+        "word": "信用分超550租房或可免押金",
+        "onboard_time": 1670475617,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185112,
+        "num": 169666,
+        "word": "刘畊宏王婉霏官宣加盟哎呀好身材4",
+        "onboard_time": 1670470753,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208857,
+        "num": 169429,
+        "word": "县委大院是懂比喻的",
+        "onboard_time": 1670468952,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 203183,
+        "num": 169257,
+        "word": "赵露思王安宇同框路透",
+        "onboard_time": 1670466131,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 169231,
+        "num": 169231,
+        "word": "冬季皮肤瘙痒可能是洗澡方法错了",
+        "onboard_time": 1670465950,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168912,
+        "num": 168912,
+        "word": "服用布洛芬前后千万不要喝酒",
+        "onboard_time": 1670462890,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166809,
+        "num": 166809,
+        "word": "当中国航天遇上绝美景观",
+        "onboard_time": 1670476515,
+        "rank": 45,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 166001,
+        "num": 166001,
+        "word": "主人晒狗舔伤口视频被网友催打疫苗",
+        "onboard_time": 1670461868,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163239,
+        "num": 163239,
+        "word": "荷兰vs阿根廷",
+        "onboard_time": 1670476334,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156342,
+        "num": 156342,
+        "word": "世界杯摄影师是懂打小抄的",
+        "onboard_time": 1670475913,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156040,
+        "num": 156040,
+        "word": "如果考研坚持不下去怎么办",
+        "onboard_time": 1670476515,
+        "rank": 49,
+        "category": "教育,情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央政治局会议要求优化疫情防控措施#"
+    }
+  }
+}
