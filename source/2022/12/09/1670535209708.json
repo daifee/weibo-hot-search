@@ -1,0 +1,410 @@
+{
+  "runTime": 1670535209708,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 265149,
+        "num": 265149,
+        "word": "我们正式迈向结束疫情生活的道路",
+        "onboard_time": 1670505439,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180473,
+        "num": 180473,
+        "word": "老人手包一次性内裤遭质疑不卫生",
+        "onboard_time": 1670515098,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25393,
+        "num": 163638,
+        "word": "老人小孩孕产妇防疫手册",
+        "onboard_time": 1670504597,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 159177,
+        "num": 159177,
+        "word": "武汉阳性患者感染全记录",
+        "onboard_time": 1670514797,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83465,
+        "num": 83465,
+        "word": "直播间疯狂刷礼物可能是在洗钱",
+        "onboard_time": 1670513118,
+        "rank": 4,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 64583,
+        "num": 64583,
+        "word": "钟南山院士谈奥密克戎",
+        "onboard_time": 1670507837,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44860,
+        "num": 44860,
+        "word": "席琳迪翁患僵人综合征",
+        "onboard_time": 1670509578,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43064,
+        "num": 43064,
+        "word": "为什么大家都在囤布洛芬",
+        "onboard_time": 1670506758,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42962,
+        "num": 42962,
+        "word": "想见你电影版定档1231",
+        "onboard_time": 1670516714,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 42869,
+        "num": 42869,
+        "word": "重庆烤羊店两只羊出逃被找回当吉祥物",
+        "onboard_time": 1670512877,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85846,
+        "num": 40795,
+        "word": "核酸检测公司开始破产了",
+        "onboard_time": 1670502377,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60480,
+        "num": 40495,
+        "word": "元旦春节将使疫情形势达到高峰",
+        "onboard_time": 1670497819,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36438,
+        "num": 36438,
+        "word": "黄景瑜打伞vs陈飞宇打伞",
+        "onboard_time": 1670519472,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 35076,
+        "num": 35076,
+        "word": "抗原自测盒日均销量增长400多倍",
+        "onboard_time": 1670507779,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34301,
+        "num": 34301,
+        "word": "2023年部分节假日安排出炉",
+        "onboard_time": 1670521993,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29030,
+        "num": 29030,
+        "word": "研究称生育会导致骨骼永久变化",
+        "onboard_time": 1670495057,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28926,
+        "num": 28926,
+        "word": "网传玉骨遥12月19开播",
+        "onboard_time": 1670519833,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 26371,
+        "num": 26371,
+        "word": "如何利用朋友圈正向社交",
+        "onboard_time": 1670513420,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 24592,
+        "num": 24592,
+        "word": "杨国福被曝反向抹零",
+        "onboard_time": 1670507478,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24173,
+        "num": 24173,
+        "word": "终于吃到了路飞手上的那块肉",
+        "onboard_time": 1670513838,
+        "rank": 19,
+        "category": "动漫,幽默"
+      },
+      {
+        "raw_hot": 25216,
+        "num": 24098,
+        "word": "核酸检测才是检验新冠的金标准",
+        "onboard_time": 1670497037,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23856,
+        "num": 23856,
+        "word": "白敬亭说卿卿日常热度破11000就跳女团舞",
+        "onboard_time": 1670510958,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 23364,
+        "num": 23364,
+        "word": "小炒黄牛肉",
+        "onboard_time": 1670513059,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 22777,
+        "num": 22777,
+        "word": "黄宗泽从法证忙到廉政",
+        "onboard_time": 1670528413,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 22679,
+        "num": 22679,
+        "word": "秦霄贤哈妮克孜还原命韵峋环醉酒抱",
+        "onboard_time": 1670511799,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22357,
+        "num": 22357,
+        "word": "狗子和主人独处太兴奋狂摇尾巴骨折",
+        "onboard_time": 1670504597,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21616,
+        "num": 21616,
+        "word": "部落冲突",
+        "onboard_time": 1670516115,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 20870,
+        "num": 20870,
+        "word": "重庆地铁回应运行过程中车门敞开",
+        "onboard_time": 1670517194,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20553,
+        "num": 20553,
+        "word": "县委大院 真实",
+        "onboard_time": 1670509998,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 20422,
+        "num": 20422,
+        "word": "千万别随便帮女生提行李箱",
+        "onboard_time": 1670511198,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 19417,
+        "num": 19417,
+        "word": "看出深圳的快节奏了",
+        "onboard_time": 1670511022,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 19302,
+        "num": 19302,
+        "word": "童骁骑的遗愿清单里都是野猫",
+        "onboard_time": 1670503939,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 18771,
+        "num": 18771,
+        "word": "今晚火星几乎彻夜可见",
+        "onboard_time": 1670505981,
+        "rank": 32,
+        "category": "自然,社会新闻"
+      },
+      {
+        "raw_hot": 18346,
+        "num": 18346,
+        "word": "教资69",
+        "onboard_time": 1670510239,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 17451,
+        "num": 17451,
+        "word": "阳华脱衣服像跳nxde",
+        "onboard_time": 1670515817,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 17387,
+        "num": 17387,
+        "word": "王一博刘雯辛芷蕾同框",
+        "onboard_time": 1670506639,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 17335,
+        "num": 17335,
+        "word": "兔子急了能有多凶",
+        "onboard_time": 1670509879,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 17109,
+        "num": 17109,
+        "word": "金莎回忆新冠康复过程",
+        "onboard_time": 1670495057,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16223,
+        "num": 16223,
+        "word": "你好星期六",
+        "onboard_time": 1670511859,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16026,
+        "num": 16026,
+        "word": "EDG",
+        "onboard_time": 1670508678,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 15936,
+        "num": 15936,
+        "word": "陈敏尔同志兼任天津市委书记",
+        "onboard_time": 1670504237,
+        "rank": 40,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 15697,
+        "num": 15697,
+        "word": "风吹半夏全员狠人",
+        "onboard_time": 1670503578,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 15435,
+        "num": 15435,
+        "word": "妹妹拍毕业照姐姐帮忙拉耳朵",
+        "onboard_time": 1670522653,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15259,
+        "num": 15259,
+        "word": "阳华直接把爱意表达给秦施",
+        "onboard_time": 1670518754,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 14805,
+        "num": 14805,
+        "word": "钢腿女孩和消防小哥恋爱了",
+        "onboard_time": 1670491758,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14055,
+        "num": 14055,
+        "word": "混凝土浇好未干10分钟掉进3人",
+        "onboard_time": 1670501957,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 13825,
+        "num": 13825,
+        "word": "告别健康码",
+        "onboard_time": 1670484675,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 12326,
+        "num": 12326,
+        "word": "scout",
+        "onboard_time": 1670501059,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 11968,
+        "num": 11968,
+        "word": "哪一刻你明白了考研的意义",
+        "onboard_time": 1670512758,
+        "rank": 48,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 11692,
+        "num": 11692,
+        "word": "考研可以改变命运吗",
+        "onboard_time": 1670499138,
+        "rank": 49,
+        "category": "教育,情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席出访#"
+    }
+  }
+}
