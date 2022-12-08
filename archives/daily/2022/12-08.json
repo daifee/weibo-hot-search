@@ -1,6 +1,6 @@
 {
   "startTime": 1670430424869,
-  "endTime": 1670506620352,
+  "endTime": 1670509034205,
   "band_list": [
     {
       "raw_hot": 4028892,
@@ -139,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1309993,
+      "num": 1309993,
+      "word": "我们正式迈向结束疫情生活的道路",
+      "onboard_time": 1670505439,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1255833,
       "num": 1255833,
       "word": "多地核酸检测采购项目宣告终止",
@@ -153,6 +161,14 @@
       "onboard_time": 1670497037,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1121150,
+      "num": 428768,
+      "word": "王一博刘雯辛芷蕾同框",
+      "onboard_time": 1670506639,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1031399,
@@ -185,6 +201,14 @@
       "onboard_time": 1670427374,
       "rank": 4,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 917005,
+      "num": 917005,
+      "word": "县委大院",
+      "onboard_time": 1670415015,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 910833,
@@ -225,6 +249,14 @@
       "onboard_time": 1670485635,
       "rank": 21,
       "category": "教育"
+    },
+    {
+      "raw_hot": 877989,
+      "num": 877989,
+      "word": "为什么大家都在囤布洛芬",
+      "onboard_time": 1670506758,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 871004,
@@ -305,6 +337,22 @@
       "onboard_time": 1670480594,
       "rank": 27,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 695159,
+      "num": 695159,
+      "word": "狗子和主人独处太兴奋狂摇尾巴骨折",
+      "onboard_time": 1670504597,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 690831,
+      "num": 690831,
+      "word": "白敬亭直播",
+      "onboard_time": 1670506278,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 686328,
@@ -433,6 +481,14 @@
       "onboard_time": 1670480895,
       "rank": 28,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 610303,
+      "num": 428349,
+      "word": "钟南山院士谈奥密克戎",
+      "onboard_time": 1670507837,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 588891,
@@ -619,14 +675,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 487149,
-      "num": 487149,
-      "word": "县委大院",
-      "onboard_time": 1670415015,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
       "raw_hot": 485269,
       "num": 485269,
       "word": "赵丽颖说也是许半夏粉丝",
@@ -731,12 +779,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 463609,
-      "num": 352378,
-      "word": "狗子和主人独处太兴奋狂摇尾巴骨折",
+      "raw_hot": 463277,
+      "num": 1021778,
+      "word": "老人小孩孕产妇防疫手册",
       "onboard_time": 1670504597,
-      "rank": 14,
-      "category": "社会新闻"
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 462973,
@@ -833,6 +881,14 @@
       "onboard_time": 1670489476,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 430345,
+      "num": 430345,
+      "word": "秦施被调戏",
+      "onboard_time": 1670508319,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 427565,
@@ -953,6 +1009,14 @@
       "onboard_time": 1670420895,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 396475,
+      "num": 396475,
+      "word": "杨国福被曝反向抹零",
+      "onboard_time": 1670507478,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 392674,
@@ -1251,6 +1315,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 310631,
+      "num": 280519,
+      "word": "吴磊周雨彤你好星期六同框cp感",
+      "onboard_time": 1670508379,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 309237,
       "num": 309237,
       "word": "张天爱回应拿行李箱买菜",
@@ -1273,14 +1345,6 @@
       "onboard_time": 1670478735,
       "rank": 19,
       "category": "情感"
-    },
-    {
-      "raw_hot": 304864,
-      "num": 861522,
-      "word": "老人小孩孕产妇防疫手册",
-      "onboard_time": 1670504597,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 304544,
@@ -1427,14 +1491,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 275739,
-      "num": 275739,
-      "word": "白敬亭直播",
-      "onboard_time": 1670506278,
-      "rank": 21,
-      "category": "影视"
-    },
-    {
       "raw_hot": 274445,
       "num": 251021,
       "word": "阳华没考到硕士的原因",
@@ -1464,6 +1520,14 @@
       "word": "新十条",
       "onboard_time": 1670459314,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 273143,
+      "num": 273143,
+      "word": "专家建议春运错峰还乡",
+      "onboard_time": 1670506458,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -1529,6 +1593,14 @@
       "onboard_time": 1670469313,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 256039,
+      "num": 256039,
+      "word": "抗原自测盒日均销量增长400多倍",
+      "onboard_time": 1670507779,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 254029,
@@ -1841,14 +1913,6 @@
       "onboard_time": 1670423320,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 201380,
-      "num": 201380,
-      "word": "我们正式迈向结束疫情生活的道路",
-      "onboard_time": 1670505439,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 199721,
@@ -2243,6 +2307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 158538,
+      "num": 158538,
+      "word": "李峋说可朱韵不行",
+      "onboard_time": 1670508860,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 156342,
       "num": 156342,
       "word": "世界杯摄影师是懂打小抄的",
@@ -2419,6 +2491,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 141507,
+      "num": 141507,
+      "word": "EDG",
+      "onboard_time": 1670508678,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 140140,
+      "num": 140140,
+      "word": "深圳地铁即日起不再查验健康码",
+      "onboard_time": 1670508797,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 139783,
       "num": 139285,
       "word": "尹峥有多爱吃醋",
@@ -2443,6 +2531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 136714,
+      "num": 136714,
+      "word": "左航崽儿vlog",
+      "onboard_time": 1670506824,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 136254,
       "num": 136254,
       "word": "天花板级别的托尼老师",
@@ -2465,14 +2561,6 @@
       "onboard_time": 1670487676,
       "rank": 48,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 134092,
-      "num": 134092,
-      "word": "专家建议春运错峰还乡",
-      "onboard_time": 1670506458,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 133730,
