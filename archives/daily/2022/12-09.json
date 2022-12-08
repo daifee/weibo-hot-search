@@ -1,6 +1,6 @@
 {
   "startTime": 1670516838629,
-  "endTime": 1670517899322,
+  "endTime": 1670519827613,
   "band_list": [
     {
       "raw_hot": 2672256,
@@ -19,8 +19,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1049438,
-      "num": 1049438,
+      "raw_hot": 1200799,
+      "num": 1200799,
       "word": "老人手包一次性内裤遭质疑不卫生",
       "onboard_time": 1670515098,
       "rank": 11,
@@ -139,20 +139,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 335683,
+      "num": 335683,
+      "word": "想见你电影版定档1231",
+      "onboard_time": 1670516714,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 305411,
       "num": 305411,
       "word": "看出深圳的快节奏了",
       "onboard_time": 1670511022,
       "rank": 18,
       "category": "情感"
-    },
-    {
-      "raw_hot": 274063,
-      "num": 274063,
-      "word": "想见你电影版定档1231",
-      "onboard_time": 1670516714,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 231902,
@@ -195,6 +195,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 193338,
+      "num": 193338,
+      "word": "2022超话大赏",
+      "onboard_time": 1670518933,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 175341,
       "num": 175341,
       "word": "抗原自测盒日均销量增长400多倍",
@@ -233,6 +241,14 @@
       "onboard_time": 1670495057,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 147217,
+      "num": 147217,
+      "word": "重庆地铁回应运行过程中车门敞开",
+      "onboard_time": 1670517194,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 145537,
@@ -313,6 +329,14 @@
       "onboard_time": 1670491758,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 110384,
+      "num": 110384,
+      "word": "黄景瑜打伞vs陈飞宇打伞",
+      "onboard_time": 1670519472,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 109620,
@@ -411,17 +435,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 77681,
-      "num": 77681,
-      "word": "重庆地铁回应运行过程中车门敞开",
-      "onboard_time": 1670517194,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 62579,
+      "num": 62579,
+      "word": "我的N宫格挑战",
+      "onboard_time": 1670517914,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 60690,
+      "num": 60690,
+      "word": "阳华直接把爱意表达给秦施",
+      "onboard_time": 1670518754,
+      "rank": 47,
+      "category": "影视"
     }
   ],
   "hotgov_list": [
     {
       "word": "#习主席出访#"
+    },
+    {
+      "word": "#构建新时代中阿命运共同体#"
     }
   ]
 }
