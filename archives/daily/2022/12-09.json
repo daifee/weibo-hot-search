@@ -1,6 +1,6 @@
 {
   "startTime": 1670516838629,
-  "endTime": 1670519827613,
+  "endTime": 1670520835178,
   "band_list": [
     {
       "raw_hot": 2672256,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 697625,
-      "num": 425363,
+      "num": 508615,
       "word": "武汉阳性患者感染全记录",
       "onboard_time": 1670514797,
       "rank": 13,
@@ -243,8 +243,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 147217,
-      "num": 147217,
+      "raw_hot": 148093,
+      "num": 148093,
       "word": "重庆地铁回应运行过程中车门敞开",
       "onboard_time": 1670517194,
       "rank": 49,
@@ -273,6 +273,14 @@
       "onboard_time": 1670509879,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 140034,
+      "num": 140034,
+      "word": "网传玉骨遥12月19开播",
+      "onboard_time": 1670519833,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 135868,
@@ -315,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 120435,
+      "num": 120435,
+      "word": "黄景瑜打伞vs陈飞宇打伞",
+      "onboard_time": 1670519472,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 118260,
       "num": 118260,
       "word": "秦施被调戏",
@@ -329,14 +345,6 @@
       "onboard_time": 1670491758,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 110384,
-      "num": 110384,
-      "word": "黄景瑜打伞vs陈飞宇打伞",
-      "onboard_time": 1670519472,
-      "rank": 26,
-      "category": "影视"
     },
     {
       "raw_hot": 109620,
