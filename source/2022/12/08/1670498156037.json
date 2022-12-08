@@ -1,0 +1,410 @@
+{
+  "runTime": 1670498156037,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3404713,
+        "num": 3404713,
+        "word": "告别健康码",
+        "onboard_time": 1670484675,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1201289,
+        "num": 1201289,
+        "word": "核酸检测公司将何去何从",
+        "onboard_time": 1670482275,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160280,
+        "num": 909089,
+        "word": "新冠病毒感染者居家治疗指南",
+        "onboard_time": 1670470572,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 908115,
+        "num": 908115,
+        "word": "韩国将翻拍白敬亭赵今麦开端",
+        "onboard_time": 1670493436,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 833380,
+        "num": 833380,
+        "word": "混管阳性同楼人员不需临时封控",
+        "onboard_time": 1670488277,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 665209,
+        "num": 665209,
+        "word": "钢腿女孩和消防小哥恋爱了",
+        "onboard_time": 1670491758,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 651567,
+        "num": 651567,
+        "word": "陈乔恩回忆艾伦父母帮自己庆生感动哭",
+        "onboard_time": 1670488819,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 644180,
+        "num": 644180,
+        "word": "葡媒称C罗对瑞士未首发威胁离队",
+        "onboard_time": 1670494036,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 522382,
+        "num": 522382,
+        "word": "研究称生育会导致骨骼永久变化",
+        "onboard_time": 1670495057,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 503584,
+        "num": 503584,
+        "word": "只有考研人才能听懂的BGM",
+        "onboard_time": 1670491876,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 580601,
+        "num": 503086,
+        "word": "金莎回忆新冠康复过程",
+        "onboard_time": 1670495057,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 496343,
+        "num": 496343,
+        "word": "哈尔滨市发布第75号公告",
+        "onboard_time": 1670494220,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 483527,
+        "num": 483527,
+        "word": "JackeyLove续约TES",
+        "onboard_time": 1670495358,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 437873,
+        "num": 437873,
+        "word": "2022LOL冬季转会期",
+        "onboard_time": 1670496197,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 423050,
+        "num": 423050,
+        "word": "Angelababy短发怼脸花絮视频",
+        "onboard_time": 1670489236,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 393844,
+        "num": 393844,
+        "word": "尹峥成为元储",
+        "onboard_time": 1670493557,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 392573,
+        "num": 392573,
+        "word": "xbb",
+        "onboard_time": 1670487977,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 385335,
+        "num": 385335,
+        "word": "俩孩童遇电梯迫降从16楼坠至1楼",
+        "onboard_time": 1670495779,
+        "rank": 17,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 361126,
+        "num": 361126,
+        "word": "央视认证谢谢你医生是爆款大剧",
+        "onboard_time": 1670494220,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 329687,
+        "num": 329687,
+        "word": "C罗从未威胁过要离开国家队",
+        "onboard_time": 1670495957,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 754036,
+        "num": 314688,
+        "word": "专家称一两个月内会出现大规模疫情冲击",
+        "onboard_time": 1670480294,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251670,
+        "num": 251670,
+        "word": "梅西有多宠内马尔",
+        "onboard_time": 1670495537,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 231845,
+        "num": 231845,
+        "word": "这猫喂的过于严谨了",
+        "onboard_time": 1670485818,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 225504,
+        "num": 225504,
+        "word": "赵露思颖儿神隐同框视频",
+        "onboard_time": 1670491398,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 247077,
+        "num": 221634,
+        "word": "被梅西的人生经历整破防了",
+        "onboard_time": 1670493138,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 214473,
+        "num": 214473,
+        "word": "妇联回应女子被公公家暴致满脸血",
+        "onboard_time": 1670485576,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212237,
+        "num": 212237,
+        "word": "上海继续保留常态化核酸采样点",
+        "onboard_time": 1670486716,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210875,
+        "num": 210875,
+        "word": "居家隔离出现这5种情况建议就医",
+        "onboard_time": 1670489476,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210024,
+        "num": 210024,
+        "word": "关晓彤怼脸生图",
+        "onboard_time": 1670485996,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 199664,
+        "num": 199664,
+        "word": "张艺兴DNA音乐联盟预告片",
+        "onboard_time": 1670495717,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 197558,
+        "num": 197558,
+        "word": "李峋朱韵未来的LP总裁与总裁夫人",
+        "onboard_time": 1670490436,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 186118,
+        "num": 186118,
+        "word": "不建议布洛芬与对乙酰氨基酚同服",
+        "onboard_time": 1670468293,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185626,
+        "num": 185626,
+        "word": "卿卿日常",
+        "onboard_time": 1670497698,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 181786,
+        "num": 181786,
+        "word": "阳华没考到硕士的原因",
+        "onboard_time": 1670494697,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 178240,
+        "num": 178240,
+        "word": "死神到底帅在哪",
+        "onboard_time": 1670488220,
+        "rank": 34,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 177093,
+        "num": 177093,
+        "word": "女子吃甘蔗卡喉被家人硬抠出血",
+        "onboard_time": 1670497397,
+        "rank": 35,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 169509,
+        "num": 169509,
+        "word": "核酸检测才是检验新冠的金标准",
+        "onboard_time": 1670497037,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162646,
+        "num": 162646,
+        "word": "教资笔试成绩12月9日可查",
+        "onboard_time": 1670485635,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 162449,
+        "num": 162449,
+        "word": "想明白以后就释然了",
+        "onboard_time": 1670498000,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 159265,
+        "num": 159265,
+        "word": "你认为下班可以踩点走吗",
+        "onboard_time": 1670496618,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157913,
+        "num": 157913,
+        "word": "新娘穿妈妈30年前婚纱出嫁超惊艳",
+        "onboard_time": 1670496676,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154491,
+        "num": 154491,
+        "word": "白鹿刘些宁跑男合体宣传宁安如梦",
+        "onboard_time": 1670492476,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148855,
+        "num": 148855,
+        "word": "家长找高手线上碾压孩子帮其戒网瘾",
+        "onboard_time": 1670490856,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148420,
+        "num": 148420,
+        "word": "神级开麦舞台名场面",
+        "onboard_time": 1670498000,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 146280,
+        "num": 146280,
+        "word": "女子果断脱羽绒服为街头急产儿保暖",
+        "onboard_time": 1670488937,
+        "rank": 44,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 145310,
+        "num": 145310,
+        "word": "王鹤棣说苍兰诀对我意义重大",
+        "onboard_time": 1670486539,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 139163,
+        "num": 139163,
+        "word": "两女生合开女子专属健身房",
+        "onboard_time": 1670480594,
+        "rank": 46,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 132844,
+        "num": 132844,
+        "word": "元旦春节将使疫情形势达到高峰",
+        "onboard_time": 1670497819,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117687,
+        "num": 117687,
+        "word": "金毛难产男子接生4小时并悉心照料",
+        "onboard_time": 1670498119,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117560,
+        "num": 117560,
+        "word": "荷兰vs阿根廷",
+        "onboard_time": 1670476334,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席出访#"
+    }
+  }
+}
