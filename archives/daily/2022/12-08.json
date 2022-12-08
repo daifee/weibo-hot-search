@@ -1,6 +1,6 @@
 {
   "startTime": 1670430424869,
-  "endTime": 1670512751236,
+  "endTime": 1670513704215,
   "band_list": [
     {
       "raw_hot": 4535372,
@@ -171,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1175269,
+      "num": 1175269,
+      "word": "席琳迪翁患僵人综合征",
+      "onboard_time": 1670509578,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1127327,
       "num": 1127327,
       "word": "核酸检测才是检验新冠的金标准",
@@ -185,14 +193,6 @@
       "onboard_time": 1670506639,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1108169,
-      "num": 1108169,
-      "word": "席琳迪翁患僵人综合征",
-      "onboard_time": 1670509578,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 1031399,
@@ -403,6 +403,14 @@
       "category": "财经,科技"
     },
     {
+      "raw_hot": 679479,
+      "num": 679479,
+      "word": "教资69",
+      "onboard_time": 1670510239,
+      "rank": 9,
+      "category": "教育"
+    },
+    {
       "raw_hot": 675208,
       "num": 675208,
       "word": "只有考研人才能听懂的BGM",
@@ -483,14 +491,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 625802,
-      "num": 625802,
-      "word": "教资69",
-      "onboard_time": 1670510239,
-      "rank": 9,
-      "category": "教育"
-    },
-    {
       "raw_hot": 625729,
       "num": 617551,
       "word": "双胞胎因分数接近被学校认定作弊",
@@ -513,6 +513,14 @@
       "onboard_time": 1670461868,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 616596,
+      "num": 616596,
+      "word": "千万别随便帮女生提行李箱",
+      "onboard_time": 1670511198,
+      "rank": 18,
+      "category": "幽默"
     },
     {
       "raw_hot": 616313,
@@ -729,6 +737,14 @@
       "onboard_time": 1670470153,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 484897,
+      "num": 484897,
+      "word": "秦霄贤哈妮克孜还原命韵峋环醉酒抱",
+      "onboard_time": 1670511799,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 483694,
@@ -1259,14 +1275,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 328557,
-      "num": 328557,
-      "word": "千万别随便帮女生提行李箱",
-      "onboard_time": 1670511198,
-      "rank": 18,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 326811,
       "num": 326811,
       "word": "赵露思新剧开机状态",
@@ -1419,12 +1427,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 302711,
+      "num": 302711,
+      "word": "看出深圳的快节奏了",
+      "onboard_time": 1670511022,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 302377,
       "num": 302377,
       "word": "郑钧说被刘芸驯服了",
       "onboard_time": 1670478254,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 296886,
+      "num": 296886,
+      "word": "兔子急了能有多凶",
+      "onboard_time": 1670509879,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 296707,
@@ -1593,14 +1617,6 @@
       "onboard_time": 1670459314,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 273313,
-      "num": 273313,
-      "word": "兔子急了能有多凶",
-      "onboard_time": 1670509879,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 273143,
@@ -2099,6 +2115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 186976,
+      "num": 186976,
+      "word": "哪一刻你明白了考研的意义",
+      "onboard_time": 1670512758,
+      "rank": 29,
+      "category": "情感,教育"
+    },
+    {
       "raw_hot": 186543,
       "num": 181509,
       "word": "尹峥李薇为新川主送上肉松",
@@ -2155,14 +2179,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 182845,
-      "num": 182845,
-      "word": "看出深圳的快节奏了",
-      "onboard_time": 1670511022,
-      "rank": 29,
-      "category": "情感"
-    },
-    {
       "raw_hot": 180660,
       "num": 180660,
       "word": "光与夜之恋",
@@ -2203,12 +2219,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 176879,
+      "num": 176879,
+      "word": "小炒黄牛肉",
+      "onboard_time": 1670513059,
+      "rank": 34,
+      "category": "美食"
+    },
+    {
       "raw_hot": 174020,
       "num": 174020,
       "word": "卿卿日常大结局预告好甜",
       "onboard_time": 1670417655,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 173376,
+      "num": 173376,
+      "word": "今晚火星几乎彻夜可见",
+      "onboard_time": 1670505981,
+      "rank": 34,
+      "category": "自然,社会新闻"
     },
     {
       "raw_hot": 172682,
@@ -2225,14 +2257,6 @@
       "onboard_time": 1670503278,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 172191,
-      "num": 172191,
-      "word": "今晚火星几乎彻夜可见",
-      "onboard_time": 1670505981,
-      "rank": 34,
-      "category": "自然,社会新闻"
     },
     {
       "raw_hot": 170853,
@@ -2305,6 +2329,14 @@
       "onboard_time": 1670475735,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 165540,
+      "num": 165540,
+      "word": "重庆烤羊店两只羊出逃被找回当吉祥物",
+      "onboard_time": 1670512877,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 164836,
@@ -2475,6 +2507,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 153621,
+      "num": 153621,
+      "word": "胡歌说梅晓歌是话梅",
+      "onboard_time": 1670512938,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 153086,
       "num": 153086,
       "word": "代驾小哥帮老人1小时卖光1000斤白菜",
@@ -2488,6 +2528,14 @@
       "word": "李薇就是尹峥的底线",
       "onboard_time": 1670463011,
       "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 152151,
+      "num": 149586,
+      "word": "王骁县委大院30秒沉默镜头辛酸感",
+      "onboard_time": 1670509879,
+      "rank": 40,
       "category": "影视"
     },
     {
@@ -2563,6 +2611,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 146800,
+      "num": 146800,
+      "word": "如何利用朋友圈正向社交",
+      "onboard_time": 1670513420,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 146359,
       "num": 146359,
       "word": "王者世冠KIC主题曲",
@@ -2585,6 +2641,14 @@
       "onboard_time": 1670480236,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 144241,
+      "num": 144241,
+      "word": "直播间疯狂刷礼物可能是在洗钱",
+      "onboard_time": 1670513118,
+      "rank": 44,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 143387,
