@@ -1,0 +1,410 @@
+{
+  "runTime": 1670491101637,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3594891,
+        "num": 3594891,
+        "word": "告别健康码",
+        "onboard_time": 1670484675,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1571558,
+        "num": 1571558,
+        "word": "核酸检测公司将何去何从",
+        "onboard_time": 1670482275,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245254,
+        "num": 1479303,
+        "word": "新冠病毒感染者居家治疗指南",
+        "onboard_time": 1670470572,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1406053,
+        "num": 1406053,
+        "word": "混管阳性同楼人员不需临时封控",
+        "onboard_time": 1670488277,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 822844,
+        "num": 822844,
+        "word": "xbb",
+        "onboard_time": 1670487977,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 735805,
+        "num": 735805,
+        "word": "女生准时下班被批踩点走",
+        "onboard_time": 1670470633,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 546444,
+        "num": 546444,
+        "word": "白敬亭今晚直播陪看卿卿日常",
+        "onboard_time": 1670489476,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 473170,
+        "num": 473170,
+        "word": "两女生合开女子专属健身房",
+        "onboard_time": 1670480594,
+        "rank": 7,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 455495,
+        "num": 455495,
+        "word": "这猫喂的过于严谨了",
+        "onboard_time": 1670485818,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 452130,
+        "num": 452130,
+        "word": "陈乔恩回忆艾伦父母帮自己庆生感动哭",
+        "onboard_time": 1670488819,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 848272,
+        "num": 447031,
+        "word": "Angelababy短发怼脸花絮视频",
+        "onboard_time": 1670489236,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 566545,
+        "num": 440157,
+        "word": "关晓彤怼脸生图",
+        "onboard_time": 1670485996,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 492936,
+        "num": 433885,
+        "word": "李光洁模仿赵丽颖助跑",
+        "onboard_time": 1670489057,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 427565,
+        "num": 427565,
+        "word": "妇联回应女子被公公家暴致满脸血",
+        "onboard_time": 1670485576,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 801,
+        "num": 414304,
+        "word": "iQOO11发布会",
+        "onboard_time": 1670487977,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 401525,
+        "num": 401525,
+        "word": "檀健次谈和杨紫合作",
+        "onboard_time": 1670487735,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 373997,
+        "num": 373997,
+        "word": "教资笔试成绩12月9日可查",
+        "onboard_time": 1670485635,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 360961,
+        "num": 360961,
+        "word": "上海继续保留常态化核酸采样点",
+        "onboard_time": 1670486716,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 340146,
+        "num": 340146,
+        "word": "不建议布洛芬与对乙酰氨基酚同服",
+        "onboard_time": 1670468293,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334353,
+        "num": 334353,
+        "word": "安徽考研允许考生跨省跨市借考",
+        "onboard_time": 1670487257,
+        "rank": 19,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 753771,
+        "num": 323677,
+        "word": "专家称一两个月内会出现大规模疫情冲击",
+        "onboard_time": 1670480294,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309237,
+        "num": 309237,
+        "word": "张天爱回应拿行李箱买菜",
+        "onboard_time": 1670487375,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 270888,
+        "num": 270888,
+        "word": "居家隔离出现这5种情况建议就医",
+        "onboard_time": 1670489476,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265119,
+        "num": 265119,
+        "word": "李峋朱韵未来的LP总裁与总裁夫人",
+        "onboard_time": 1670490436,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 255830,
+        "num": 255830,
+        "word": "女子果断脱羽绒服为街头急产儿保暖",
+        "onboard_time": 1670488937,
+        "rank": 24,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 253467,
+        "num": 253467,
+        "word": "布洛芬商标已被抢注",
+        "onboard_time": 1670485696,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251485,
+        "num": 251485,
+        "word": "国务院联防联控机制举行新闻发布会",
+        "onboard_time": 1670483355,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238837,
+        "num": 238837,
+        "word": "听得出校长是真的想放假了",
+        "onboard_time": 1670485218,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 234849,
+        "num": 234849,
+        "word": "结婚后朋友会越来越少吗",
+        "onboard_time": 1670478735,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219883,
+        "num": 219883,
+        "word": "妈妈奖励13岁儿子考第一却被暖哭",
+        "onboard_time": 1670479515,
+        "rank": 29,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 364547,
+        "num": 218736,
+        "word": "河南19岁女生实名举报后被人带走失联",
+        "onboard_time": 1670470273,
+        "rank": 30,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 216645,
+        "num": 216645,
+        "word": "虞书欣张凌赫云之羽上班路透",
+        "onboard_time": 1670488156,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 216007,
+        "num": 216007,
+        "word": "爸爸自制300平米冰场供儿子训练",
+        "onboard_time": 1670487435,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197199,
+        "num": 197199,
+        "word": "蔡依林说亲爱的今晚12点见",
+        "onboard_time": 1670484856,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 182927,
+        "num": 182927,
+        "word": "检出混管阳性的楼栋不再封控",
+        "onboard_time": 1670489356,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165553,
+        "num": 165553,
+        "word": "平均50岁的云爸爸直播间要招90后",
+        "onboard_time": 1670487019,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164981,
+        "num": 164981,
+        "word": "奔跑吧全员游戏ID曝光",
+        "onboard_time": 1670488156,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161766,
+        "num": 161766,
+        "word": "JDG永远有Yagao的名字",
+        "onboard_time": 1670478435,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 155696,
+        "num": 155696,
+        "word": "死神到底帅在哪",
+        "onboard_time": 1670488220,
+        "rank": 38,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 154281,
+        "num": 154281,
+        "word": "李峋对朱韵心动的证据",
+        "onboard_time": 1670484258,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 152606,
+        "num": 152606,
+        "word": "想见你",
+        "onboard_time": 1670466791,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 146328,
+        "num": 146328,
+        "word": "郑恺说婚后一回家就不想出门",
+        "onboard_time": 1670477775,
+        "rank": 41,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 142814,
+        "num": 142814,
+        "word": "荷兰vs阿根廷",
+        "onboard_time": 1670476334,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139524,
+        "num": 139524,
+        "word": "西安地铁即日起不再查验一码通",
+        "onboard_time": 1670483897,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137885,
+        "num": 137885,
+        "word": "县委大院首播评价",
+        "onboard_time": 1670488036,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 135380,
+        "num": 135380,
+        "word": "英格兰为限制姆巴佩准备了两年",
+        "onboard_time": 1670469013,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133913,
+        "num": 133913,
+        "word": "老年人每周开展2次抗原检测",
+        "onboard_time": 1670484737,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133843,
+        "num": 133843,
+        "word": "张文宏团队称阳性后99.5%的人不必去医院",
+        "onboard_time": 1670465651,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130192,
+        "num": 130192,
+        "word": "姐姐放假悄悄回家被弟弟激动抱起",
+        "onboard_time": 1670489956,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116964,
+        "num": 116964,
+        "word": "家长找高手线上碾压孩子帮其戒网瘾",
+        "onboard_time": 1670490856,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#构建新时代中阿命运共同体#"
+    }
+  }
+}
