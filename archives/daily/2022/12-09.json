@@ -1,6 +1,6 @@
 {
   "startTime": 1670516838629,
-  "endTime": 1670516838629,
+  "endTime": 1670517899322,
   "band_list": [
     {
       "raw_hot": 2672256,
@@ -16,6 +16,14 @@
       "word": "钟南山院士谈奥密克戎",
       "onboard_time": 1670507837,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1049438,
+      "num": 1049438,
+      "word": "老人手包一次性内裤遭质疑不卫生",
+      "onboard_time": 1670515098,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -35,11 +43,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 756937,
-      "num": 426460,
-      "word": "老人手包一次性内裤遭质疑不卫生",
-      "onboard_time": 1670515098,
-      "rank": 11,
+      "raw_hot": 697625,
+      "num": 425363,
+      "word": "武汉阳性患者感染全记录",
+      "onboard_time": 1670514797,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -83,14 +91,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 450796,
-      "num": 425363,
-      "word": "武汉阳性患者感染全记录",
-      "onboard_time": 1670514797,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 445701,
       "num": 445701,
       "word": "重庆烤羊店两只羊出逃被找回当吉祥物",
@@ -131,8 +131,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 345444,
-      "num": 345444,
+      "raw_hot": 353419,
+      "num": 353419,
       "word": "如何利用朋友圈正向社交",
       "onboard_time": 1670513420,
       "rank": 17,
@@ -145,6 +145,14 @@
       "onboard_time": 1670511022,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 274063,
+      "num": 274063,
+      "word": "想见你电影版定档1231",
+      "onboard_time": 1670516714,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 231902,
@@ -339,14 +347,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 103112,
-      "num": 103112,
-      "word": "想见你电影版定档1231",
-      "onboard_time": 1670516714,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 102518,
       "num": 102518,
       "word": "县委大院",
@@ -379,6 +379,22 @@
       "category": "情感,教育"
     },
     {
+      "raw_hot": 95702,
+      "num": 95702,
+      "word": "你好星期六",
+      "onboard_time": 1670511859,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 94969,
+      "num": 94969,
+      "word": "部落冲突",
+      "onboard_time": 1670516115,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 94087,
       "num": 94087,
       "word": "陈敏尔同志兼任天津市委书记",
@@ -387,18 +403,18 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 93358,
-      "num": 93358,
-      "word": "部落冲突",
-      "onboard_time": 1670516115,
-      "rank": 48,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 92869,
       "num": 92869,
       "word": "深圳地铁即日起不再查验健康码",
       "onboard_time": 1670508797,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 77681,
+      "num": 77681,
+      "word": "重庆地铁回应运行过程中车门敞开",
+      "onboard_time": 1670517194,
       "rank": 49,
       "category": "社会新闻"
     }
