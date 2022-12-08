@@ -1,6 +1,6 @@
 {
   "startTime": 1670430424869,
-  "endTime": 1670499214012,
+  "endTime": 1670502965708,
   "band_list": [
     {
       "raw_hot": 4028892,
@@ -32,6 +32,14 @@
       "word": "核酸检测公司将何去何从",
       "onboard_time": 1670482275,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2950843,
+      "num": 2950843,
+      "word": "元旦春节将使疫情形势达到高峰",
+      "onboard_time": 1670497819,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -131,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1127327,
+      "num": 1127327,
+      "word": "核酸检测才是检验新冠的金标准",
+      "onboard_time": 1670497037,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1031399,
       "num": 1031399,
       "word": "郑州上门核酸检测最高每人598元",
@@ -193,6 +209,14 @@
       "onboard_time": 1670477775,
       "rank": 4,
       "category": "综艺,综艺"
+    },
+    {
+      "raw_hot": 879169,
+      "num": 879169,
+      "word": "教资笔试成绩12月9日可查",
+      "onboard_time": 1670485635,
+      "rank": 21,
+      "category": "教育"
     },
     {
       "raw_hot": 871004,
@@ -379,6 +403,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 615930,
+      "num": 615930,
+      "word": "scout",
+      "onboard_time": 1670501059,
+      "rank": 5,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 614625,
       "num": 614625,
       "word": "Angelababy机车短发造型",
@@ -480,14 +512,6 @@
       "word": "宝宝在菜地啃着萝卜陪妈妈",
       "onboard_time": 1670473273,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 524982,
-      "num": 524982,
-      "word": "核酸检测才是检验新冠的金标准",
-      "onboard_time": 1670497037,
-      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -667,12 +691,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 466829,
+      "num": 466829,
+      "word": "张大仙护崽",
+      "onboard_time": 1670498897,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 462973,
       "num": 462973,
       "word": "秦施为阳华霸气讨公道",
       "onboard_time": 1670465472,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 462441,
+      "num": 421888,
+      "word": "张极异乡人vlog",
+      "onboard_time": 1670502799,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 460374,
@@ -739,14 +779,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 431764,
-      "num": 431764,
-      "word": "元旦春节将使疫情形势达到高峰",
-      "onboard_time": 1670497819,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 431739,
       "num": 431739,
       "word": "布洛芬商标已被抢注",
@@ -779,6 +811,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 424941,
+      "num": 424941,
+      "word": "女子吃甘蔗卡喉被家人硬抠出血",
+      "onboard_time": 1670497397,
+      "rank": 35,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 421943,
       "num": 421943,
       "word": "提前感受考研那几天的状态",
@@ -793,6 +833,14 @@
       "onboard_time": 1670457547,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 418418,
+      "num": 418418,
+      "word": "考研可以改变命运吗",
+      "onboard_time": 1670499138,
+      "rank": 47,
+      "category": "教育,情感"
     },
     {
       "raw_hot": 411001,
@@ -891,12 +939,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 373997,
-      "num": 373997,
-      "word": "教资笔试成绩12月9日可查",
-      "onboard_time": 1670485635,
-      "rank": 21,
-      "category": "教育"
+      "raw_hot": 377379,
+      "num": 377379,
+      "word": "张真源小张盲盒12视频",
+      "onboard_time": 1670502740,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 373670,
@@ -1035,6 +1083,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 320989,
+      "num": 320989,
+      "word": "新娘穿妈妈30年前婚纱出嫁超惊艳",
+      "onboard_time": 1670496676,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 315138,
       "num": 315138,
       "word": "田曦薇王星越的新剧cp感",
@@ -1065,14 +1121,6 @@
       "onboard_time": 1670461269,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 312972,
-      "num": 312972,
-      "word": "女子吃甘蔗卡喉被家人硬抠出血",
-      "onboard_time": 1670497397,
-      "rank": 35,
-      "category": "社会负面"
     },
     {
       "raw_hot": 312867,
@@ -1203,6 +1251,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 288451,
+      "num": 288451,
+      "word": "杞县官方通报女孩举报失联事件",
+      "onboard_time": 1670501120,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 285477,
+      "num": 285477,
+      "word": "西班牙主帅下课",
+      "onboard_time": 1670501778,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 285278,
       "num": 253933,
       "word": "许半夏对赵垒早就有贼心了",
@@ -1224,6 +1288,14 @@
       "word": "TVB超能使者是今年的最佳港剧吗",
       "onboard_time": 1670476216,
       "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 280522,
+      "num": 280522,
+      "word": "县委大院",
+      "onboard_time": 1670415015,
+      "rank": 37,
       "category": "影视"
     },
     {
@@ -1355,6 +1427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 259789,
+      "num": 259789,
+      "word": "近20年罕见的国产剧",
+      "onboard_time": 1670500459,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 258225,
       "num": 197596,
       "word": "宋慧乔黑暗荣耀正式预告",
@@ -1419,20 +1499,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 242711,
+      "num": 242711,
+      "word": "教师资格证",
+      "onboard_time": 1670502678,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 242072,
       "num": 242072,
       "word": "C罗被载入历史的一球",
       "onboard_time": 1670413334,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 241207,
-      "num": 241207,
-      "word": "新娘穿妈妈30年前婚纱出嫁超惊艳",
-      "onboard_time": 1670496676,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 239669,
@@ -1473,6 +1553,14 @@
       "onboard_time": 1670488220,
       "rank": 43,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 233679,
+      "num": 233679,
+      "word": "想明白以后就释然了",
+      "onboard_time": 1670498000,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 230634,
@@ -1595,6 +1683,14 @@
       "category": "教育,情感"
     },
     {
+      "raw_hot": 208075,
+      "num": 208075,
+      "word": "尹峥为李薇受伤",
+      "onboard_time": 1670501298,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 207609,
       "num": 175535,
       "word": "白鹿刘些宁跑男合体宣传宁安如梦",
@@ -1683,14 +1779,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 195383,
-      "num": 195383,
-      "word": "县委大院",
-      "onboard_time": 1670415015,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
       "raw_hot": 195215,
       "num": 195215,
       "word": "2022PEL全明星周末",
@@ -1699,12 +1787,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 194648,
+      "num": 194648,
+      "word": "一起吃教资面试的苦",
+      "onboard_time": 1670502623,
+      "rank": 38,
+      "category": "教育,情感"
+    },
+    {
       "raw_hot": 191892,
       "num": 191892,
       "word": "平均50岁的云爸爸直播间要招90后",
       "onboard_time": 1670487019,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 190141,
+      "num": 190141,
+      "word": "风吹半夏",
+      "onboard_time": 1670502558,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 189928,
@@ -1931,14 +2035,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 162449,
-      "num": 162449,
-      "word": "想明白以后就释然了",
-      "onboard_time": 1670498000,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 162235,
       "num": 162235,
       "word": "90后男子花3千硬装入住150平毛坯房",
@@ -2008,6 +2104,14 @@
       "word": "你认为下班可以踩点走吗",
       "onboard_time": 1670496618,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 157093,
+      "num": 157093,
+      "word": "核酸检测公司开始破产了",
+      "onboard_time": 1670502377,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -2123,6 +2227,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 146624,
+      "num": 146624,
+      "word": "混凝土浇好未干10分钟掉进3人",
+      "onboard_time": 1670501957,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 146359,
       "num": 146359,
       "word": "王者世冠KIC主题曲",
@@ -2227,12 +2339,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 132399,
-      "num": 132399,
-      "word": "张大仙护崽",
-      "onboard_time": 1670498897,
-      "rank": 46,
-      "category": "游戏"
+      "raw_hot": 130869,
+      "num": 130869,
+      "word": "小熊猫雪地中边吃边撒欢",
+      "onboard_time": 1670501671,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 129515,
@@ -2259,20 +2371,20 @@
       "category": "体育,幽默"
     },
     {
-      "raw_hot": 126210,
-      "num": 126210,
-      "word": "考研可以改变命运吗",
-      "onboard_time": 1670499138,
-      "rank": 47,
-      "category": "教育,情感"
-    },
-    {
       "raw_hot": 124985,
       "num": 124985,
       "word": "王楚钦",
       "onboard_time": 1670416815,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 124796,
+      "num": 124796,
+      "word": "女儿目睹爸爸飞奔跳水救男孩",
+      "onboard_time": 1670502918,
+      "rank": 49,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 124161,
@@ -2471,6 +2583,14 @@
       "num": 414304,
       "word": "iQOO11发布会",
       "onboard_time": 1670487977,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 44987,
+      "num": 364851,
+      "word": "当甲骨文遇到现代科技",
+      "onboard_time": 1670500822,
       "rank": 14,
       "category": "社会新闻"
     },
