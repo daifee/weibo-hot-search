@@ -1,6 +1,6 @@
 {
   "startTime": 1670430424869,
-  "endTime": 1670464780119,
+  "endTime": 1670467630080,
   "band_list": [
     {
       "raw_hot": 2697329,
@@ -8,6 +8,14 @@
       "word": "劳荣枝在狱中读活着",
       "onboard_time": 1670460335,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2430369,
+      "num": 2430369,
+      "word": "发现自己阳性了怎么办",
+      "onboard_time": 1670460729,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -19,6 +27,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1692177,
+      "num": 1692177,
+      "word": "出现症状不带病上班上学",
+      "onboard_time": 1670462710,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1596103,
       "num": 1596103,
       "word": "女子4万首付买的房子净升值近千万",
@@ -27,20 +43,20 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 1546720,
+      "num": 1546720,
+      "word": "张文宏团队称阳性后99.5%的人不必去医院",
+      "onboard_time": 1670465651,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1403905,
       "num": 1403905,
       "word": "三体",
       "onboard_time": 1670415015,
       "rank": 1,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1344779,
-      "num": 1344779,
-      "word": "发现自己阳性了怎么办",
-      "onboard_time": 1670460729,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1255833,
@@ -91,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 841763,
+      "num": 841763,
+      "word": "向太说风吹半夏好好看",
+      "onboard_time": 1670461990,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 788144,
       "num": 627701,
       "word": "曾可妮把张婧仪搂进羽绒服里",
@@ -99,11 +123,11 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 775760,
-      "num": 775760,
-      "word": "出现症状不带病上班上学",
-      "onboard_time": 1670462710,
-      "rank": 33,
+      "raw_hot": 763087,
+      "num": 763087,
+      "word": "多地包机出国抢订单",
+      "onboard_time": 1670463612,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -113,14 +137,6 @@
       "onboard_time": 1670426654,
       "rank": 10,
       "category": "财经,科技"
-    },
-    {
-      "raw_hot": 682164,
-      "num": 682164,
-      "word": "向太说风吹半夏好好看",
-      "onboard_time": 1670461990,
-      "rank": 13,
-      "category": "影视"
     },
     {
       "raw_hot": 658036,
@@ -155,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 616313,
+      "num": 468278,
+      "word": "肖战王鹤棣专访",
+      "onboard_time": 1670462469,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 588891,
       "num": 588891,
       "word": "完全恢复到疫情前需要哪些条件",
@@ -187,6 +211,22 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 519999,
+      "num": 519999,
+      "word": "服用布洛芬前后千万不要喝酒",
+      "onboard_time": 1670462890,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 484255,
+      "num": 466445,
+      "word": "李峋朱韵三年前vs三年后",
+      "onboard_time": 1670466430,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 477943,
       "num": 477943,
       "word": "大学生坐火车返乡被挤厕所站2小时",
@@ -208,6 +248,14 @@
       "word": "编剧是真没上过班吧",
       "onboard_time": 1670422517,
       "rank": 9,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 462973,
+      "num": 462973,
+      "word": "秦施为阳华霸气讨公道",
+      "onboard_time": 1670465472,
+      "rank": 12,
       "category": "影视"
     },
     {
@@ -251,20 +299,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 421061,
-      "num": 421061,
-      "word": "服用布洛芬前后千万不要喝酒",
-      "onboard_time": 1670462890,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 419408,
       "num": 419408,
       "word": "分手后你会和前任和好吗",
       "onboard_time": 1670457547,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 410471,
+      "num": 410471,
+      "word": "第一次在手机上体会晕车",
+      "onboard_time": 1670466311,
+      "rank": 15,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 399197,
@@ -275,12 +323,52 @@
       "category": "影视"
     },
     {
+      "raw_hot": 398062,
+      "num": 342938,
+      "word": "赵露思王安宇同框路透",
+      "onboard_time": 1670466131,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 392674,
       "num": 392674,
       "word": "这个春节可以回家过年吗",
       "onboard_time": 1670411352,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 391035,
+      "num": 391035,
+      "word": "袁家军同志兼任重庆市委书记",
+      "onboard_time": 1670465290,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 387631,
+      "num": 342537,
+      "word": "想见你",
+      "onboard_time": 1670466791,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 386409,
+      "num": 341995,
+      "word": "神奇女侠3被取消",
+      "onboard_time": 1670464691,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 359356,
+      "num": 359356,
+      "word": "世界杯最难打破的纪录",
+      "onboard_time": 1670465950,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 354996,
@@ -307,14 +395,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 325685,
-      "num": 325685,
-      "word": "多地包机出国抢订单",
-      "onboard_time": 1670463612,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 313051,
       "num": 313051,
       "word": "北京增社会面178例",
@@ -336,6 +416,14 @@
       "word": "北京健康宝",
       "onboard_time": 1670418194,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 284193,
+      "num": 284193,
+      "word": "冬季皮肤瘙痒可能是洗澡方法错了",
+      "onboard_time": 1670465950,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -371,6 +459,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 269439,
+      "num": 269439,
+      "word": "2岁女孩手指被撞断护士10米外找回",
+      "onboard_time": 1670465049,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 265941,
+      "num": 248119,
+      "word": "尹峥对李薇说登徒子还想骗我",
+      "onboard_time": 1670462230,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 265587,
       "num": 265587,
       "word": "Doinb去哪儿",
@@ -395,6 +499,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 248869,
+      "num": 248869,
+      "word": "得了新冠是否需要去医院",
+      "onboard_time": 1670463911,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 245419,
+      "num": 245419,
+      "word": "警方回应女子反映父亲被殴打致死",
+      "onboard_time": 1670466551,
+      "rank": 32,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 244650,
       "num": 244650,
       "word": "继父4年第1次听女儿叫爸掩面痛哭",
@@ -411,14 +531,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 241960,
-      "num": 241960,
-      "word": "得了新冠是否需要去医院",
-      "onboard_time": 1670463911,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 239669,
       "num": 239669,
       "word": "60岁生双胞胎的盛海琳丈夫离世",
@@ -427,11 +539,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 227406,
-      "num": 227406,
-      "word": "尹峥对李薇说登徒子还想骗我",
-      "onboard_time": 1670462230,
-      "rank": 39,
+      "raw_hot": 236865,
+      "num": 236865,
+      "word": "女法医JD定档1212",
+      "onboard_time": 1670467148,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 225740,
+      "num": 158203,
+      "word": "点燃我温暖你今日更新剧照",
+      "onboard_time": 1670467571,
+      "rank": 47,
       "category": "影视"
     },
     {
@@ -441,6 +561,14 @@
       "onboard_time": 1670456347,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 222129,
+      "num": 222129,
+      "word": "赵垒像个傻白甜被许半夏拿捏",
+      "onboard_time": 1670467451,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 213671,
@@ -459,6 +587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 205650,
+      "num": 205650,
+      "word": "廉政狙击定档1210",
+      "onboard_time": 1670466311,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 204064,
       "num": 204064,
       "word": "济南一瀑布被寒潮速冻后的样子",
@@ -475,12 +611,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 194336,
+      "num": 194336,
+      "word": "邻居阳性了我该如何防护",
+      "onboard_time": 1670465590,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192970,
+      "num": 192970,
+      "word": "李春生接受审查调查",
+      "onboard_time": 1670467451,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189011,
       "num": 189011,
       "word": "新冠感染者社区健康管理专家指引",
       "onboard_time": 1670458748,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 188548,
+      "num": 188548,
+      "word": "内马尔的球感有多恐怖",
+      "onboard_time": 1670466551,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 188249,
@@ -505,14 +665,6 @@
       "onboard_time": 1670438350,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 176735,
-      "num": 176735,
-      "word": "神奇女侠3被取消",
-      "onboard_time": 1670464691,
-      "rank": 37,
-      "category": "影视"
     },
     {
       "raw_hot": 174020,
@@ -593,6 +745,30 @@
       "onboard_time": 1670410152,
       "rank": 29,
       "category": "教育"
+    },
+    {
+      "raw_hot": 159276,
+      "num": 159276,
+      "word": "苏州经贸团将包机赴欧",
+      "onboard_time": 1670467451,
+      "rank": 45,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 158818,
+      "num": 158818,
+      "word": "河北考研可申请异地借考",
+      "onboard_time": 1670466791,
+      "rank": 46,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 154944,
+      "num": 154944,
+      "word": "阿圭罗直播连线梅西",
+      "onboard_time": 1670465350,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 154916,
@@ -780,7 +956,7 @@
     },
     {
       "raw_hot": 67196,
-      "num": 1377686,
+      "num": 1619217,
       "word": "防控措施有了这些新优化",
       "onboard_time": 1670392993,
       "rank": 2,
