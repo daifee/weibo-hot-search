@@ -1,10 +1,10 @@
 {
   "startTime": 1670430424869,
-  "endTime": 1670469707909,
+  "endTime": 1670470574974,
   "band_list": [
     {
-      "raw_hot": 2917417,
-      "num": 2917417,
+      "raw_hot": 3165039,
+      "num": 3165039,
       "word": "张文宏团队称阳性后99.5%的人不必去医院",
       "onboard_time": 1670465651,
       "rank": 3,
@@ -99,8 +99,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 875831,
-      "num": 875831,
+      "raw_hot": 905546,
+      "num": 905546,
       "word": "阿Sa阿娇十年后再合作新剧",
       "onboard_time": 1670468172,
       "rank": 34,
@@ -139,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 734910,
+      "num": 559580,
+      "word": "英格兰为限制姆巴佩准备了两年",
+      "onboard_time": 1670469013,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 699368,
       "num": 699368,
       "word": "想见你",
@@ -161,6 +169,14 @@
       "onboard_time": 1670426654,
       "rank": 10,
       "category": "财经,科技"
+    },
+    {
+      "raw_hot": 658647,
+      "num": 658647,
+      "word": "不建议布洛芬与对乙酰氨基酚同服",
+      "onboard_time": 1670468293,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 658036,
@@ -243,8 +259,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 528936,
-      "num": 528936,
+      "raw_hot": 534216,
+      "num": 534216,
       "word": "世界杯最难打破的纪录",
       "onboard_time": 1670465950,
       "rank": 18,
@@ -275,6 +291,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 485269,
+      "num": 485269,
+      "word": "赵丽颖说也是许半夏粉丝",
+      "onboard_time": 1670470153,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 482666,
+      "num": 482666,
+      "word": "警方回应女子反映父亲被殴打致死",
+      "onboard_time": 1670466551,
+      "rank": 32,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 477943,
       "num": 477943,
       "word": "大学生坐火车返乡被挤厕所站2小时",
@@ -289,6 +321,14 @@
       "onboard_time": 1670423657,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 467684,
+      "num": 467684,
+      "word": "县委大院是懂比喻的",
+      "onboard_time": 1670468952,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 466838,
@@ -347,14 +387,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 435960,
-      "num": 435960,
-      "word": "警方回应女子反映父亲被殴打致死",
-      "onboard_time": 1670466551,
-      "rank": 32,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 433700,
       "num": 433700,
       "word": "赵露思王安宇同框路透",
@@ -369,14 +401,6 @@
       "onboard_time": 1670457547,
       "rank": 19,
       "category": "情感"
-    },
-    {
-      "raw_hot": 415508,
-      "num": 415508,
-      "word": "不建议布洛芬与对乙酰氨基酚同服",
-      "onboard_time": 1670468293,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 399197,
@@ -411,12 +435,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 360622,
-      "num": 342246,
-      "word": "县委大院是懂比喻的",
-      "onboard_time": 1670468952,
-      "rank": 20,
-      "category": "影视"
+      "raw_hot": 373670,
+      "num": 373670,
+      "word": "郑州需要一场烟火秀",
+      "onboard_time": 1670468471,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 354996,
@@ -435,8 +459,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 327485,
-      "num": 327485,
+      "raw_hot": 329260,
+      "num": 329260,
       "word": "冬季皮肤瘙痒可能是洗澡方法错了",
       "onboard_time": 1670465950,
       "rank": 25,
@@ -492,7 +516,7 @@
     },
     {
       "raw_hot": 290611,
-      "num": 252223,
+      "num": 253126,
       "word": "变形金刚7内地版中字预告",
       "onboard_time": 1670469253,
       "rank": 32,
@@ -500,11 +524,19 @@
     },
     {
       "raw_hot": 285278,
-      "num": 250524,
+      "num": 253933,
       "word": "许半夏对赵垒早就有贼心了",
       "onboard_time": 1670467512,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 283905,
+      "num": 283905,
+      "word": "内马尔的球感有多恐怖",
+      "onboard_time": 1670466551,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 282476,
@@ -571,12 +603,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 258797,
-      "num": 258797,
-      "word": "郑州需要一场烟火秀",
-      "onboard_time": 1670468471,
-      "rank": 29,
-      "category": "社会新闻"
+      "raw_hot": 259884,
+      "num": 1274878,
+      "word": "新冠阳性居家康复指引",
+      "onboard_time": 1670470093,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 258225,
@@ -595,20 +627,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 249490,
-      "num": 249490,
-      "word": "英格兰为限制姆巴佩准备了两年",
-      "onboard_time": 1670469013,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 248869,
       "num": 248869,
       "word": "得了新冠是否需要去医院",
       "onboard_time": 1670463911,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 247432,
+      "num": 215861,
+      "word": "罗云熙顾云峥的杀青vlog",
+      "onboard_time": 1670470313,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 244650,
@@ -633,6 +665,22 @@
       "onboard_time": 1670413515,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 229941,
+      "num": 229941,
+      "word": "邻居阳性了我该如何防护",
+      "onboard_time": 1670465590,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 229398,
+      "num": 211457,
+      "word": "神隐开机路透",
+      "onboard_time": 1670470513,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 225740,
@@ -667,12 +715,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 219626,
-      "num": 219626,
-      "word": "内马尔的球感有多恐怖",
-      "onboard_time": 1670466551,
-      "rank": 42,
-      "category": "体育"
+      "raw_hot": 216670,
+      "num": 216670,
+      "word": "新婚小伙推迟备孕捐造血干细胞",
+      "onboard_time": 1670469433,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 213671,
@@ -681,14 +729,6 @@
       "onboard_time": 1670454366,
       "rank": 30,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 206883,
-      "num": 206883,
-      "word": "邻居阳性了我该如何防护",
-      "onboard_time": 1670465590,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 206184,
@@ -724,7 +764,7 @@
     },
     {
       "raw_hot": 199721,
-      "num": 199721,
+      "num": 216364,
       "word": "杞县警方回应网传女子失联",
       "onboard_time": 1670469133,
       "rank": 39,
@@ -732,11 +772,19 @@
     },
     {
       "raw_hot": 195654,
-      "num": 195654,
+      "num": 214415,
       "word": "河北考研可申请异地借考",
       "onboard_time": 1670466791,
       "rank": 46,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 189518,
+      "num": 214956,
+      "word": "河南19岁女生实名举报后被人带走失联",
+      "onboard_time": 1670470273,
+      "rank": 41,
+      "category": "社会负面"
     },
     {
       "raw_hot": 189011,
@@ -961,14 +1009,6 @@
       "onboard_time": 1670416815,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 124443,
-      "num": 160391,
-      "word": "新婚小伙推迟备孕捐造血干细胞",
-      "onboard_time": 1670469433,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 122838,
