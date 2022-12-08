@@ -1,6 +1,6 @@
 {
   "startTime": 1670430424869,
-  "endTime": 1670494841753,
+  "endTime": 1670495800597,
   "band_list": [
     {
       "raw_hot": 4028892,
@@ -227,8 +227,8 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 809332,
-      "num": 809332,
+      "raw_hot": 814992,
+      "num": 814992,
       "word": "韩国将翻拍白敬亭赵今麦开端",
       "onboard_time": 1670493436,
       "rank": 5,
@@ -273,6 +273,14 @@
       "onboard_time": 1670426654,
       "rank": 10,
       "category": "财经,科技"
+    },
+    {
+      "raw_hot": 675208,
+      "num": 675208,
+      "word": "只有考研人才能听懂的BGM",
+      "onboard_time": 1670491876,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 658036,
@@ -355,20 +363,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 590171,
+      "num": 590171,
+      "word": "钢腿女孩和消防小哥恋爱了",
+      "onboard_time": 1670491758,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 588891,
       "num": 588891,
       "word": "完全恢复到疫情前需要哪些条件",
       "onboard_time": 1670400914,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 582303,
-      "num": 582303,
-      "word": "只有考研人才能听懂的BGM",
-      "onboard_time": 1670491876,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 570492,
@@ -521,6 +529,14 @@
       "onboard_time": 1670466430,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 487704,
+      "num": 403821,
+      "word": "金莎回忆新冠康复过程",
+      "onboard_time": 1670495057,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 485269,
@@ -715,14 +731,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 415752,
-      "num": 415752,
-      "word": "钢腿女孩和消防小哥恋爱了",
-      "onboard_time": 1670491758,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 411001,
       "num": 411001,
       "word": "上海继续保留常态化核酸采样点",
@@ -739,12 +747,36 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 409606,
+      "num": 409606,
+      "word": "央视认证谢谢你医生是爆款大剧",
+      "onboard_time": 1670494220,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 408840,
       "num": 408840,
       "word": "刘宇宁刚刚仔视频",
       "onboard_time": 1670477534,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 405266,
+      "num": 405266,
+      "word": "尹峥成为元储",
+      "onboard_time": 1670493557,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 402757,
+      "num": 402757,
+      "word": "葡媒称C罗对瑞士未首发威胁离队",
+      "onboard_time": 1670494036,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 399197,
@@ -827,6 +859,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 365513,
+      "num": 365513,
+      "word": "哈尔滨市发布第75号公告",
+      "onboard_time": 1670494220,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 361525,
       "num": 361525,
       "word": "女子果断脱羽绒服为街头急产儿保暖",
@@ -897,14 +937,6 @@
       "onboard_time": 1670487257,
       "rank": 42,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 331157,
-      "num": 331157,
-      "word": "央视认证谢谢你医生是爆款大剧",
-      "onboard_time": 1670494220,
-      "rank": 12,
-      "category": "影视"
     },
     {
       "raw_hot": 329260,
@@ -1075,14 +1107,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 292538,
-      "num": 244774,
-      "word": "尹峥成为元储",
-      "onboard_time": 1670493557,
-      "rank": 21,
-      "category": "影视"
-    },
-    {
       "raw_hot": 290611,
       "num": 253126,
       "word": "变形金刚7内地版中字预告",
@@ -1113,6 +1137,14 @@
       "onboard_time": 1670476216,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 280433,
+      "num": 280433,
+      "word": "被梅西的人生经历整破防了",
+      "onboard_time": 1670493138,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 278093,
@@ -1152,6 +1184,14 @@
       "word": "李峋对朱韵心动的证据",
       "onboard_time": 1670484258,
       "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 274445,
+      "num": 251021,
+      "word": "阳华没考到硕士的原因",
+      "onboard_time": 1670494697,
+      "rank": 23,
       "category": "影视"
     },
     {
@@ -1251,14 +1291,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 249578,
-      "num": 249578,
-      "word": "被梅西的人生经历整破防了",
-      "onboard_time": 1670493138,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 248869,
       "num": 248869,
       "word": "得了新冠是否需要去医院",
@@ -1289,6 +1321,14 @@
       "onboard_time": 1670483475,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 245520,
+      "num": 245520,
+      "word": "JackeyLove续约TES",
+      "onboard_time": 1670495358,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 244650,
@@ -1337,14 +1377,6 @@
       "onboard_time": 1670476515,
       "rank": 49,
       "category": "教育,情感"
-    },
-    {
-      "raw_hot": 235760,
-      "num": 235760,
-      "word": "阳华没考到硕士的原因",
-      "onboard_time": 1670494697,
-      "rank": 23,
-      "category": "影视"
     },
     {
       "raw_hot": 235253,
@@ -1476,7 +1508,7 @@
     },
     {
       "raw_hot": 207609,
-      "num": 147409,
+      "num": 175535,
       "word": "白鹿刘些宁跑男合体宣传宁安如梦",
       "onboard_time": 1670492476,
       "rank": 30,
@@ -1667,6 +1699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 175881,
+      "num": 175881,
+      "word": "张艺兴DNA音乐联盟预告片",
+      "onboard_time": 1670495717,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 174020,
       "num": 174020,
       "word": "卿卿日常大结局预告好甜",
@@ -1689,6 +1729,14 @@
       "onboard_time": 1670426115,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 170163,
+      "num": 170163,
+      "word": "家长找高手线上碾压孩子帮其戒网瘾",
+      "onboard_time": 1670490856,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 169889,
@@ -1811,14 +1859,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 160695,
-      "num": 142747,
-      "word": "葡媒称C罗对瑞士未首发威胁离队",
-      "onboard_time": 1670494036,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 160140,
       "num": 160140,
       "word": "合伙吧少年今日开播",
@@ -1827,20 +1867,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 160073,
-      "num": 160073,
-      "word": "家长找高手线上碾压孩子帮其戒网瘾",
-      "onboard_time": 1670490856,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 159863,
       "num": 159863,
       "word": "考研人到底有多努力",
       "onboard_time": 1670410152,
       "rank": 29,
       "category": "教育"
+    },
+    {
+      "raw_hot": 159398,
+      "num": 159398,
+      "word": "我和电竞就差一个转场",
+      "onboard_time": 1670489659,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 159276,
@@ -1863,6 +1903,14 @@
       "num": 156148,
       "word": "男子逛超市遇妈妈被唠叨式教育",
       "onboard_time": 1670483475,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 155023,
+      "num": 155023,
+      "word": "研究称生育会导致骨骼永久变化",
+      "onboard_time": 1670495057,
       "rank": 38,
       "category": "社会新闻"
     },
@@ -2051,14 +2099,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 134136,
-      "num": 134136,
-      "word": "哈尔滨市发布第75号公告",
-      "onboard_time": 1670494220,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 133730,
       "num": 133730,
       "word": "居家隔离如何最大限度避免家庭内传播",
@@ -2123,6 +2163,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 119774,
+      "num": 119774,
+      "word": "这猫一看就是练家子",
+      "onboard_time": 1670492836,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 115791,
+      "num": 115791,
+      "word": "梅西有多宠内马尔",
+      "onboard_time": 1670495537,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 115546,
       "num": 115546,
       "word": "seventeen全员续约7年",
@@ -2131,20 +2187,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 115143,
+      "num": 115143,
+      "word": "警方回应女子称被公公家暴满脸血",
+      "onboard_time": 1670495418,
+      "rank": 48,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 112887,
       "num": 112887,
       "word": "杭州一医院新冠抢救药已有三个月储备",
       "onboard_time": 1670419394,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 111636,
-      "num": 111636,
-      "word": "这猫一看就是练家子",
-      "onboard_time": 1670492836,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 110979,
@@ -2185,6 +2241,14 @@
       "onboard_time": 1670493858,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 109614,
+      "num": 109614,
+      "word": "俩孩童遇电梯迫降从16楼坠至1楼",
+      "onboard_time": 1670495779,
+      "rank": 49,
+      "category": "社会负面"
     },
     {
       "raw_hot": 107930,
