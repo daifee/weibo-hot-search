@@ -1,0 +1,410 @@
+{
+  "runTime": 1670499214012,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2829098,
+        "num": 2829098,
+        "word": "告别健康码",
+        "onboard_time": 1670484675,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1180969,
+        "num": 1180969,
+        "word": "核酸检测公司将何去何从",
+        "onboard_time": 1670482275,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185814,
+        "num": 883570,
+        "word": "新冠病毒感染者居家治疗指南",
+        "onboard_time": 1670470572,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 854543,
+        "num": 854543,
+        "word": "韩国将翻拍白敬亭赵今麦开端",
+        "onboard_time": 1670493436,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 740733,
+        "num": 740733,
+        "word": "混管阳性同楼人员不需临时封控",
+        "onboard_time": 1670488277,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 732688,
+        "num": 732688,
+        "word": "陈乔恩回忆艾伦父母帮自己庆生感动哭",
+        "onboard_time": 1670488819,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 587131,
+        "num": 587131,
+        "word": "钢腿女孩和消防小哥恋爱了",
+        "onboard_time": 1670491758,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 573594,
+        "num": 573594,
+        "word": "葡媒称C罗对瑞士未首发威胁离队",
+        "onboard_time": 1670494036,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 560357,
+        "num": 560357,
+        "word": "研究称生育会导致骨骼永久变化",
+        "onboard_time": 1670495057,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 524982,
+        "num": 524982,
+        "word": "核酸检测才是检验新冠的金标准",
+        "onboard_time": 1670497037,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 577804,
+        "num": 506693,
+        "word": "金莎回忆新冠康复过程",
+        "onboard_time": 1670495057,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 465334,
+        "num": 465334,
+        "word": "哈尔滨市发布第75号公告",
+        "onboard_time": 1670494220,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 431764,
+        "num": 431764,
+        "word": "元旦春节将使疫情形势达到高峰",
+        "onboard_time": 1670497819,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 427057,
+        "num": 427057,
+        "word": "俩孩童遇电梯迫降从16楼坠至1楼",
+        "onboard_time": 1670495779,
+        "rank": 13,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 421194,
+        "num": 421194,
+        "word": "只有考研人才能听懂的BGM",
+        "onboard_time": 1670491876,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 409510,
+        "num": 409510,
+        "word": "2022LOL冬季转会期",
+        "onboard_time": 1670496197,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 407763,
+        "num": 407763,
+        "word": "2022年最后一次圆月",
+        "onboard_time": 1670498297,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 359375,
+        "num": 359375,
+        "word": "Angelababy短发怼脸花絮视频",
+        "onboard_time": 1670489236,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 336492,
+        "num": 336492,
+        "word": "JackeyLove续约TES",
+        "onboard_time": 1670495358,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 325851,
+        "num": 325851,
+        "word": "xbb",
+        "onboard_time": 1670487977,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 673594,
+        "num": 321544,
+        "word": "专家称一两个月内会出现大规模疫情冲击",
+        "onboard_time": 1670480294,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315798,
+        "num": 315798,
+        "word": "尹峥成为元储",
+        "onboard_time": 1670493557,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 312972,
+        "num": 312972,
+        "word": "女子吃甘蔗卡喉被家人硬抠出血",
+        "onboard_time": 1670497397,
+        "rank": 22,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 309895,
+        "num": 309895,
+        "word": "央视认证谢谢你医生是爆款大剧",
+        "onboard_time": 1670494220,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 302281,
+        "num": 302281,
+        "word": "C罗从未威胁过要离开国家队",
+        "onboard_time": 1670495957,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 291916,
+        "num": 291916,
+        "word": "梅西有多宠内马尔",
+        "onboard_time": 1670495537,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 241207,
+        "num": 241207,
+        "word": "新娘穿妈妈30年前婚纱出嫁超惊艳",
+        "onboard_time": 1670496676,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202032,
+        "num": 202032,
+        "word": "这猫喂的过于严谨了",
+        "onboard_time": 1670485818,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 210419,
+        "num": 198936,
+        "word": "被梅西的人生经历整破防了",
+        "onboard_time": 1670493138,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195383,
+        "num": 195383,
+        "word": "县委大院",
+        "onboard_time": 1670499020,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 291412,
+        "num": 194210,
+        "word": "李薇改口喊和夫人母亲",
+        "onboard_time": 1670498659,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 192969,
+        "num": 192969,
+        "word": "关晓彤怼脸生图",
+        "onboard_time": 1670485996,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 192174,
+        "num": 192174,
+        "word": "赵露思颖儿神隐同框视频",
+        "onboard_time": 1670491398,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 180849,
+        "num": 180849,
+        "word": "李峋朱韵未来的LP总裁与总裁夫人",
+        "onboard_time": 1670490436,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 175958,
+        "num": 175958,
+        "word": "妇联回应女子被公公家暴致满脸血",
+        "onboard_time": 1670485576,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173856,
+        "num": 173856,
+        "word": "上海继续保留常态化核酸采样点",
+        "onboard_time": 1670486716,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168066,
+        "num": 168066,
+        "word": "居家隔离出现这5种情况建议就医",
+        "onboard_time": 1670489476,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163304,
+        "num": 163304,
+        "word": "不建议布洛芬与对乙酰氨基酚同服",
+        "onboard_time": 1670468293,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163243,
+        "num": 163243,
+        "word": "教资笔试成绩12月9日可查",
+        "onboard_time": 1670485635,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 163242,
+        "num": 163242,
+        "word": "卿卿日常",
+        "onboard_time": 1670497698,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 162417,
+        "num": 162417,
+        "word": "张艺兴DNA音乐联盟预告片",
+        "onboard_time": 1670495717,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 153073,
+        "num": 153073,
+        "word": "阳华没考到硕士的原因",
+        "onboard_time": 1670494697,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 152273,
+        "num": 152273,
+        "word": "你认为下班可以踩点走吗",
+        "onboard_time": 1670496618,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151699,
+        "num": 151699,
+        "word": "张极晒冬日氛围感写真",
+        "onboard_time": 1670498839,
+        "rank": 43,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 146242,
+        "num": 146242,
+        "word": "想明白以后就释然了",
+        "onboard_time": 1670498000,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 141935,
+        "num": 141935,
+        "word": "死神到底帅在哪",
+        "onboard_time": 1670488220,
+        "rank": 45,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 132399,
+        "num": 132399,
+        "word": "张大仙护崽",
+        "onboard_time": 1670498897,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 126210,
+        "num": 126210,
+        "word": "考研可以改变命运吗",
+        "onboard_time": 1670499138,
+        "rank": 47,
+        "category": "教育,情感"
+      },
+      {
+        "raw_hot": 123248,
+        "num": 123248,
+        "word": "家长找高手线上碾压孩子帮其戒网瘾",
+        "onboard_time": 1670490856,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122839,
+        "num": 122839,
+        "word": "女子果断脱羽绒服为街头急产儿保暖",
+        "onboard_time": 1670488937,
+        "rank": 49,
+        "category": "社会正能量"
+      }
+    ],
+    "hotgov": {
+      "word": "#构建新时代中阿命运共同体#"
+    }
+  }
+}
