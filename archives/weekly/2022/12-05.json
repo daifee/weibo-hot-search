@@ -1,6 +1,6 @@
 {
   "startTime": 1670171104099,
-  "endTime": 1670476676463,
+  "endTime": 1670477631074,
   "band_list": [
     {
       "raw_hot": 8813662,
@@ -451,6 +451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1554996,
+      "num": 1554996,
+      "word": "想见你",
+      "onboard_time": 1670466791,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1547007,
       "num": 1547007,
       "word": "专家建议新冠肺炎应改称新冠病毒传染病",
@@ -825,14 +833,6 @@
       "onboard_time": 1670340310,
       "rank": 21,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1012193,
-      "num": 1012193,
-      "word": "想见你",
-      "onboard_time": 1670466791,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 1007100,
@@ -1619,6 +1619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 657090,
+      "num": 657090,
+      "word": "近视男孩就医发现视网膜脱落已半年",
+      "onboard_time": 1670472914,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 656876,
       "num": 656876,
       "word": "南京一地铁口被大量共享单车堵死",
@@ -1809,14 +1817,6 @@
       "onboard_time": 1670333651,
       "rank": 45,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 619428,
-      "num": 619428,
-      "word": "近视男孩就医发现视网膜脱落已半年",
-      "onboard_time": 1670472914,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 616313,
@@ -2195,6 +2195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 529569,
+      "num": 529569,
+      "word": "宝宝在菜地啃着萝卜陪妈妈",
+      "onboard_time": 1670473273,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 528038,
       "num": 528038,
       "word": "上海饭店商场仍须48小时核酸",
@@ -2305,6 +2313,14 @@
       "onboard_time": 1670423954,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 497342,
+      "num": 474640,
+      "word": "王鹤棣成立个人品牌",
+      "onboard_time": 1670476754,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 495819,
@@ -2427,14 +2443,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 478952,
-      "num": 478952,
-      "word": "宝宝在菜地啃着萝卜陪妈妈",
-      "onboard_time": 1670473273,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 478226,
       "num": 478226,
       "word": "北理工通报方岱宁相关视频事件",
@@ -2451,6 +2459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 475673,
+      "num": 475673,
+      "word": "中国裁判组结束世界杯之旅",
+      "onboard_time": 1670473753,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 475244,
       "num": 414757,
       "word": "4岁女孩误吞61颗磁力珠致肠穿孔",
@@ -2459,12 +2475,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 473772,
+      "num": 473772,
+      "word": "肖战2023年的新年愿望",
+      "onboard_time": 1670477417,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 470498,
       "num": 470498,
       "word": "西班牙传控",
       "onboard_time": 1670344328,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 470333,
+      "num": 470333,
+      "word": "机智的医生生活国内上线",
+      "onboard_time": 1670475435,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 470020,
@@ -2611,14 +2643,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 452606,
-      "num": 452606,
-      "word": "机智的医生生活国内上线",
-      "onboard_time": 1670475435,
-      "rank": 11,
-      "category": "影视"
-    },
-    {
       "raw_hot": 451711,
       "num": 392339,
       "word": "何超琼说爱国是家训",
@@ -2697,14 +2721,6 @@
       "onboard_time": 1670410933,
       "rank": 14,
       "category": "影视"
-    },
-    {
-      "raw_hot": 438127,
-      "num": 438127,
-      "word": "中国裁判组结束世界杯之旅",
-      "onboard_time": 1670473753,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 437833,
@@ -2929,6 +2945,14 @@
       "onboard_time": 1670473634,
       "rank": 13,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 408840,
+      "num": 408840,
+      "word": "刘宇宁刚刚仔视频",
+      "onboard_time": 1670477534,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 407267,
@@ -3627,6 +3651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 312717,
+      "num": 312717,
+      "word": "荷兰vs阿根廷",
+      "onboard_time": 1670476334,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 311783,
       "num": 284492,
       "word": "感染新冠病毒有哪些症状",
@@ -3673,6 +3705,14 @@
       "onboard_time": 1670417054,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 309646,
+      "num": 309646,
+      "word": "这才是真正的氛围感美人吧",
+      "onboard_time": 1670474294,
+      "rank": 22,
+      "category": "情感,艺人"
     },
     {
       "raw_hot": 309223,
@@ -4923,6 +4963,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 211218,
+      "num": 211218,
+      "word": "考研上岸感人的瞬间",
+      "onboard_time": 1670475494,
+      "rank": 36,
+      "category": "教育,情感"
+    },
+    {
       "raw_hot": 210883,
       "num": 210883,
       "word": "湖南一城管当街多次扇拄拐商贩耳光",
@@ -4969,6 +5017,14 @@
       "onboard_time": 1670412073,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 206602,
+      "num": 206602,
+      "word": "三体12月10日播出",
+      "onboard_time": 1670476814,
+      "rank": 33,
+      "category": "动漫"
     },
     {
       "raw_hot": 206184,
@@ -5089,6 +5145,14 @@
       "onboard_time": 1670469133,
       "rank": 39,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 199446,
+      "num": 199446,
+      "word": "王嘉尔新歌ComeAliveMV预告",
+      "onboard_time": 1670477354,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 198293,
@@ -5257,14 +5321,6 @@
       "onboard_time": 1670415793,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 191552,
-      "num": 191552,
-      "word": "考研上岸感人的瞬间",
-      "onboard_time": 1670475494,
-      "rank": 36,
-      "category": "教育,情感"
     },
     {
       "raw_hot": 191501,
@@ -5579,6 +5635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 177040,
+      "num": 177040,
+      "word": "如果考研坚持不下去怎么办",
+      "onboard_time": 1670476515,
+      "rank": 49,
+      "category": "教育,情感"
+    },
+    {
       "raw_hot": 176967,
       "num": 176967,
       "word": "记者探访杭州东站优化首日",
@@ -5883,6 +5947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 166259,
+      "num": 415626,
+      "word": "今天的快乐是开黑给的",
+      "onboard_time": 1670475735,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 166199,
       "num": 166199,
       "word": "老腾地铁手机表情包",
@@ -5939,12 +6011,12 @@
       "category": "体育,财经"
     },
     {
-      "raw_hot": 163239,
-      "num": 163239,
-      "word": "荷兰vs阿根廷",
-      "onboard_time": 1670476334,
-      "rank": 47,
-      "category": "体育"
+      "raw_hot": 163374,
+      "num": 163374,
+      "word": "这狗狗居然会使眼色",
+      "onboard_time": 1670476933,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 162896,
@@ -6105,14 +6177,6 @@
       "onboard_time": 1670369166,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 156040,
-      "num": 156040,
-      "word": "如果考研坚持不下去怎么办",
-      "onboard_time": 1670476515,
-      "rank": 49,
-      "category": "教育,情感"
     },
     {
       "raw_hot": 155598,
@@ -6331,6 +6395,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 148563,
+      "num": 148563,
+      "word": "浙江万家企业组团去欧洲抢订单",
+      "onboard_time": 1670476694,
+      "rank": 46,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 148224,
       "num": 148224,
       "word": "00后女大学生做宿舍美甲月入过万",
@@ -6371,6 +6443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 146359,
+      "num": 146359,
+      "word": "王者世冠KIC主题曲",
+      "onboard_time": 1670477473,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 146151,
       "num": 146151,
       "word": "法国晋级8强",
@@ -6385,6 +6465,14 @@
       "onboard_time": 1670408953,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 145894,
+      "num": 145894,
+      "word": "高位截瘫父亲做10万双鞋供出博士女儿",
+      "onboard_time": 1670477114,
+      "rank": 48,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 145885,
@@ -6480,6 +6568,14 @@
       "word": "湖南发布新冠肺炎中医药防治方案",
       "onboard_time": 1670282166,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 142672,
+      "num": 142672,
+      "word": "心相印湿厕巾包裹着黑色异物",
+      "onboard_time": 1670477354,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -6833,14 +6929,6 @@
       "onboard_time": 1670402233,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 129904,
-      "num": 403644,
-      "word": "今天的快乐是开黑给的",
-      "onboard_time": 1670475735,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 129878,
@@ -7715,6 +7803,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 80718,
+      "num": 186368,
+      "word": "信用分超550租房或可免押金",
+      "onboard_time": 1670475617,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 80464,
       "num": 80464,
       "word": "首架C919飞机即将交付东航",
@@ -7857,14 +7953,6 @@
       "onboard_time": 1670196367,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 55752,
-      "num": 169818,
-      "word": "信用分超550租房或可免押金",
-      "onboard_time": 1670475617,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 55546,
