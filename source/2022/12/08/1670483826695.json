@@ -1,0 +1,410 @@
+{
+  "runTime": 1670483826695,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3024964,
+        "num": 3024964,
+        "word": "专家称一两个月内会出现大规模疫情冲击",
+        "onboard_time": 1670480294,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1752730,
+        "num": 1752730,
+        "word": "女生准时下班被批踩点走",
+        "onboard_time": 1670470633,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 537857,
+        "num": 1451539,
+        "word": "新冠阳性居家康复指引",
+        "onboard_time": 1670470093,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1164411,
+        "num": 1164411,
+        "word": "想见你",
+        "onboard_time": 1670466791,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 998851,
+        "num": 998851,
+        "word": "张文宏团队称阳性后99.5%的人不必去医院",
+        "onboard_time": 1670465651,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 844192,
+        "num": 844192,
+        "word": "郑恺说婚后一回家就不想出门",
+        "onboard_time": 1670477775,
+        "rank": 5,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 628410,
+        "num": 628410,
+        "word": "两女生合开女子专属健身房",
+        "onboard_time": 1670480594,
+        "rank": 6,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 615776,
+        "num": 615776,
+        "word": "不建议布洛芬与对乙酰氨基酚同服",
+        "onboard_time": 1670468293,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 608616,
+        "num": 608616,
+        "word": "核酸检测公司将何去何从",
+        "onboard_time": 1670482275,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 589364,
+        "num": 589364,
+        "word": "Angelababy机车短发造型",
+        "onboard_time": 1670480895,
+        "rank": 9,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 504029,
+        "num": 504029,
+        "word": "妈妈奖励13岁儿子考第一却被暖哭",
+        "onboard_time": 1670479515,
+        "rank": 10,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 400394,
+        "num": 400394,
+        "word": "王鹤棣成立个人品牌",
+        "onboard_time": 1670476754,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 382297,
+        "num": 382297,
+        "word": "JDG永远有Yagao的名字",
+        "onboard_time": 1670478435,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 358458,
+        "num": 358458,
+        "word": "上海餐饮场所不再查验核酸",
+        "onboard_time": 1670481855,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37718,
+        "num": 327240,
+        "word": "九尾的火舞操控太丝滑了",
+        "onboard_time": 1670482818,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326811,
+        "num": 326811,
+        "word": "赵露思新剧开机状态",
+        "onboard_time": 1670478674,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 276977,
+        "num": 276977,
+        "word": "关晓彤新剧角色是娇俏小女人",
+        "onboard_time": 1670481618,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 269258,
+        "num": 269258,
+        "word": "结婚后朋友会越来越少吗",
+        "onboard_time": 1670478735,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 262822,
+        "num": 262822,
+        "word": "近视男孩就医发现视网膜脱落已半年",
+        "onboard_time": 1670472914,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253803,
+        "num": 253803,
+        "word": "英格兰为限制姆巴佩准备了两年",
+        "onboard_time": 1670469013,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 264847,
+        "num": 251926,
+        "word": "冯提莫打游戏vlog",
+        "onboard_time": 1670483235,
+        "rank": 20,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 246000,
+        "num": 246000,
+        "word": "这狗狗居然会使眼色",
+        "onboard_time": 1670476933,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 236354,
+        "num": 236354,
+        "word": "陈宇宙没能看到宇宙钢铁厂实现未来",
+        "onboard_time": 1670483475,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 228111,
+        "num": 228111,
+        "word": "小猫有点聪明但不多",
+        "onboard_time": 1670474835,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 227566,
+        "num": 227566,
+        "word": "荷兰vs阿根廷",
+        "onboard_time": 1670476334,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221623,
+        "num": 221623,
+        "word": "齐司礼",
+        "onboard_time": 1670478496,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 214872,
+        "num": 214872,
+        "word": "李一桐落跑新娘变落水新娘花絮",
+        "onboard_time": 1670483656,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 194010,
+        "num": 194010,
+        "word": "三体12月10日播出",
+        "onboard_time": 1670476814,
+        "rank": 27,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 190810,
+        "num": 190810,
+        "word": "借考",
+        "onboard_time": 1670460154,
+        "rank": 28,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 186389,
+        "num": 186389,
+        "word": "高位截瘫父亲做10万双鞋供出博士女儿",
+        "onboard_time": 1670477114,
+        "rank": 29,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 683835,
+        "num": 185813,
+        "word": "河南19岁女生实名举报后被人带走失联",
+        "onboard_time": 1670470273,
+        "rank": 30,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 229489,
+        "num": 184887,
+        "word": "肖战对迷人又可爱反派角色的执念",
+        "onboard_time": 1670475194,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 204871,
+        "num": 184230,
+        "word": "田曦薇王星越的新剧cp感",
+        "onboard_time": 1670478018,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 203148,
+        "num": 183673,
+        "word": "这才是真正的氛围感美人吧",
+        "onboard_time": 1670474294,
+        "rank": 33,
+        "category": "情感,艺人"
+      },
+      {
+        "raw_hot": 196952,
+        "num": 182408,
+        "word": "郑钧说被刘芸驯服了",
+        "onboard_time": 1670478254,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182140,
+        "num": 182140,
+        "word": "郑州需要一场烟火秀",
+        "onboard_time": 1670468471,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165016,
+        "num": 165016,
+        "word": "宝宝在菜地啃着萝卜陪妈妈",
+        "onboard_time": 1670473273,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162725,
+        "num": 162725,
+        "word": "熊孩子头卡电饭煲消防员都看懵了",
+        "onboard_time": 1670479574,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156148,
+        "num": 156148,
+        "word": "男子逛超市遇妈妈被唠叨式教育",
+        "onboard_time": 1670483475,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153345,
+        "num": 153345,
+        "word": "如果考研坚持不下去怎么办",
+        "onboard_time": 1670476515,
+        "rank": 39,
+        "category": "教育,情感"
+      },
+      {
+        "raw_hot": 189381,
+        "num": 153201,
+        "word": "机智的医生生活国内上线",
+        "onboard_time": 1670475435,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 186481,
+        "num": 153031,
+        "word": "大鹏全网选人标准",
+        "onboard_time": 1670481495,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 186132,
+        "num": 152632,
+        "word": "尹峥向岳父大人求娶李薇",
+        "onboard_time": 1670478496,
+        "rank": 42,
+        "category": "影视,艺人"
+      },
+      {
+        "raw_hot": 152020,
+        "num": 152020,
+        "word": "国务院联防联控机制举行新闻发布会",
+        "onboard_time": 1670483355,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148562,
+        "num": 148562,
+        "word": "人类终于驯服AI头像了",
+        "onboard_time": 1670481618,
+        "rank": 44,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 147342,
+        "num": 147342,
+        "word": "警方回应女子反映父亲被殴打致死",
+        "onboard_time": 1670466551,
+        "rank": 45,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 145309,
+        "num": 145309,
+        "word": "发现自己阳性了怎么办",
+        "onboard_time": 1670460729,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145100,
+        "num": 145100,
+        "word": "电暖器着火7岁男孩淡定拔电源",
+        "onboard_time": 1670482334,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144023,
+        "num": 144023,
+        "word": "中国裁判组结束世界杯之旅",
+        "onboard_time": 1670473753,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131793,
+        "num": 131793,
+        "word": "提前感受考研那几天的状态",
+        "onboard_time": 1670472552,
+        "rank": 49,
+        "category": "教育,情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席出访#"
+    }
+  }
+}
