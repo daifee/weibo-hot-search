@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1670523798398,
+  "endTime": 1670524679916,
   "band_list": [
     {
       "raw_hot": 8813662,
@@ -17275,6 +17275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 36189,
+      "num": 36189,
+      "word": "妹妹拍毕业照姐姐帮忙拉耳朵",
+      "onboard_time": 1670522653,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32921,
       "num": 32921,
       "word": "阿凡达2于12月14日开启点映",
@@ -17305,6 +17313,14 @@
       "onboard_time": 1670015948,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 31190,
+      "num": 31190,
+      "word": "田曦薇新上错花轿嫁对郎已取得备案号",
+      "onboard_time": 1670523911,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 29422,
@@ -17345,14 +17361,6 @@
       "onboard_time": 1669925226,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 27246,
-      "num": 27246,
-      "word": "妹妹拍毕业照姐姐帮忙拉耳朵",
-      "onboard_time": 1670522653,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 26729,
