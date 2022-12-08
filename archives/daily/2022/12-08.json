@@ -1,7 +1,15 @@
 {
   "startTime": 1670430424869,
-  "endTime": 1670456035236,
+  "endTime": 1670463380447,
   "band_list": [
+    {
+      "raw_hot": 2697329,
+      "num": 2697329,
+      "word": "劳荣枝在狱中读活着",
+      "onboard_time": 1670460335,
+      "rank": 0,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1887733,
       "num": 1887733,
@@ -11,12 +19,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1503340,
+      "num": 1503340,
+      "word": "女子4万首付买的房子净升值近千万",
+      "onboard_time": 1670456647,
+      "rank": 1,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 1403905,
       "num": 1403905,
       "word": "三体",
       "onboard_time": 1670415015,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1255833,
+      "num": 1255833,
+      "word": "多地核酸检测采购项目宣告终止",
+      "onboard_time": 1670454786,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1031399,
@@ -35,6 +59,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 910833,
+      "num": 910833,
+      "word": "猫咪躺前车玻璃死亡车主将其掩埋",
+      "onboard_time": 1670455087,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 871004,
       "num": 871004,
       "word": "杭州抗新冠中药方火了",
@@ -43,12 +75,52 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 862910,
+      "num": 862910,
+      "word": "肖战王鹤棣新浪娱乐专访",
+      "onboard_time": 1670462469,
+      "rank": 6,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 842138,
+      "num": 842138,
+      "word": "发现自己阳性了怎么办",
+      "onboard_time": 1670460729,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 788144,
+      "num": 627701,
+      "word": "曾可妮把张婧仪搂进羽绒服里",
+      "onboard_time": 1670458748,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 684483,
       "num": 684483,
       "word": "马斯克决定任命朱晓彤为特斯拉全球CEO",
       "onboard_time": 1670426654,
       "rank": 10,
       "category": "财经,科技"
+    },
+    {
+      "raw_hot": 658036,
+      "num": 658036,
+      "word": "借考",
+      "onboard_time": 1670460154,
+      "rank": 8,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 656876,
+      "num": 656876,
+      "word": "南京一地铁口被大量共享单车堵死",
+      "onboard_time": 1670455145,
+      "rank": 31,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 625729,
@@ -67,12 +139,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 570492,
+      "num": 570492,
+      "word": "刘宇宁一念关山回眸路透视频",
+      "onboard_time": 1670463129,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 550124,
+      "num": 550124,
+      "word": "男孩嚼饭3分钟妈妈一口吃掉送上学",
+      "onboard_time": 1670455867,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 522848,
       "num": 522848,
       "word": "杨国福麻辣烫被曝吃出蚯蚓",
       "onboard_time": 1670424015,
       "rank": 6,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 521947,
+      "num": 521947,
+      "word": "向太说风吹半夏好好看",
+      "onboard_time": 1670461990,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 477943,
@@ -99,12 +195,52 @@
       "category": "影视"
     },
     {
+      "raw_hot": 456492,
+      "num": 456492,
+      "word": "普京称世界核战争威胁增加",
+      "onboard_time": 1670461149,
+      "rank": 14,
+      "category": "国外要闻,军事"
+    },
+    {
+      "raw_hot": 453873,
+      "num": 453873,
+      "word": "主人晒狗舔伤口视频被网友催打疫苗",
+      "onboard_time": 1670461868,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 449719,
+      "num": 449719,
+      "word": "胡歌演的梅晓歌有点反差感在身上",
+      "onboard_time": 1670456647,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 442779,
+      "num": 442779,
+      "word": "女子离婚后5年没见儿子视频接通泪如雨下",
+      "onboard_time": 1670456168,
+      "rank": 17,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 442492,
       "num": 442492,
       "word": "地包天小猫被网友吐槽长相如丧尸",
       "onboard_time": 1670427016,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 419408,
+      "num": 419408,
+      "word": "分手后你会和前任和好吗",
+      "onboard_time": 1670457547,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 399197,
@@ -120,14 +256,6 @@
       "word": "这个春节可以回家过年吗",
       "onboard_time": 1670411352,
       "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 355188,
-      "num": 95531,
-      "word": "猫咪躺前车玻璃死亡车主将其掩埋",
-      "onboard_time": 1670455087,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -147,20 +275,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 339540,
-      "num": 260267,
-      "word": "多地核酸检测采购项目宣告终止",
-      "onboard_time": 1670454786,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 326080,
       "num": 326080,
       "word": "白敬亭发弹幕山上有代拍",
       "onboard_time": 1670426713,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 313051,
+      "num": 313051,
+      "word": "北京增社会面178例",
+      "onboard_time": 1670461269,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 312867,
@@ -187,6 +315,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 278093,
+      "num": 278093,
+      "word": "元旦住宿预订量上涨近300%",
+      "onboard_time": 1670459529,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 273322,
+      "num": 273322,
+      "word": "新十条",
+      "onboard_time": 1670459314,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 265587,
       "num": 265587,
       "word": "Doinb去哪儿",
@@ -203,12 +347,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 254029,
+      "num": 254029,
+      "word": "这粤语真的非说不可吗",
+      "onboard_time": 1670456886,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 244650,
       "num": 244650,
       "word": "继父4年第1次听女儿叫爸掩面痛哭",
       "onboard_time": 1670415855,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 244639,
+      "num": 244639,
+      "word": "赵丽颖今年两部作品破万",
+      "onboard_time": 1670462949,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 242072,
@@ -227,12 +387,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 229725,
-      "num": 95515,
-      "word": "南京一地铁口被大量共享单车堵死",
-      "onboard_time": 1670455145,
+      "raw_hot": 224011,
+      "num": 224011,
+      "word": "德保罗",
+      "onboard_time": 1670456347,
       "rank": 31,
-      "category": "社会新闻,科技"
+      "category": "体育"
+    },
+    {
+      "raw_hot": 223251,
+      "num": 223251,
+      "word": "黑色大衣有多好穿",
+      "onboard_time": 1670458868,
+      "rank": 32,
+      "category": "时尚"
+    },
+    {
+      "raw_hot": 219056,
+      "num": 219056,
+      "word": "出现症状不带病上班上学",
+      "onboard_time": 1670462710,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 213671,
@@ -243,12 +419,36 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 204064,
+      "num": 204064,
+      "word": "济南一瀑布被寒潮速冻后的样子",
+      "onboard_time": 1670455568,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 203388,
       "num": 203388,
       "word": "赵丽颖李光洁挂腰吻花絮视频",
       "onboard_time": 1670423320,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 189011,
+      "num": 189011,
+      "word": "新冠感染者社区健康管理专家指引",
+      "onboard_time": 1670458748,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 188249,
+      "num": 188249,
+      "word": "抗原检测结果要在有效时间内读取",
+      "onboard_time": 1670460909,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186098,
@@ -259,12 +459,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 185930,
+      "num": 185930,
+      "word": "服用布洛芬前后千万不要喝酒",
+      "onboard_time": 1670462890,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 180656,
       "num": 180656,
       "word": "世界杯身价暴涨的球员",
       "onboard_time": 1670438350,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 180272,
+      "num": 180272,
+      "word": "尹峥对李薇说登徒子还想骗我",
+      "onboard_time": 1670462230,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 174020,
@@ -323,6 +539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 161113,
+      "num": 161113,
+      "word": "弹棉花夫妻无人处捡50万上交",
+      "onboard_time": 1670460489,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 159863,
       "num": 159863,
       "word": "考研人到底有多努力",
@@ -331,12 +555,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 152340,
+      "num": 152340,
+      "word": "李薇就是尹峥的底线",
+      "onboard_time": 1670463011,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 150167,
       "num": 150167,
       "word": "阿凡达2票价你能接受吗",
       "onboard_time": 1670404872,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 149501,
+      "num": 149501,
+      "word": "周杰伦新加坡演唱会要来了",
+      "onboard_time": 1670459074,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 147510,
@@ -467,14 +707,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 95452,
-      "num": 95452,
-      "word": "济南一瀑布被寒潮速冻后的样子",
-      "onboard_time": 1670455568,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 94257,
       "num": 94257,
       "word": "如何评价电视剧县委大院",
@@ -499,16 +731,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 75290,
-      "num": 75290,
-      "word": "男孩嚼饭3分钟妈妈一口吃掉送上学",
-      "onboard_time": 1670455867,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 67196,
-      "num": 1143031,
+      "num": 1377686,
       "word": "防控措施有了这些新优化",
       "onboard_time": 1670392993,
       "rank": 2,
