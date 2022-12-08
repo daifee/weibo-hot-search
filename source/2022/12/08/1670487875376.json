@@ -1,0 +1,410 @@
+{
+  "runTime": 1670487875376,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3152597,
+        "num": 3152597,
+        "word": "告别健康码",
+        "onboard_time": 1670484675,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3044071,
+        "num": 3044071,
+        "word": "核酸检测公司将何去何从",
+        "onboard_time": 1670482275,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304620,
+        "num": 2035331,
+        "word": "新冠病毒感染者居家治疗指南",
+        "onboard_time": 1670470572,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1071254,
+        "num": 1071254,
+        "word": "女生准时下班被批踩点走",
+        "onboard_time": 1670470633,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 643601,
+        "num": 643601,
+        "word": "两女生合开女子专属健身房",
+        "onboard_time": 1670480594,
+        "rank": 4,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 563422,
+        "num": 563422,
+        "word": "不建议布洛芬与对乙酰氨基酚同服",
+        "onboard_time": 1670468293,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 559343,
+        "num": 559343,
+        "word": "国务院联防联控机制举行新闻发布会",
+        "onboard_time": 1670483355,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 517442,
+        "num": 517442,
+        "word": "王鹤棣说苍兰诀对我意义重大",
+        "onboard_time": 1670486539,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 515870,
+        "num": 515870,
+        "word": "想见你",
+        "onboard_time": 1670466791,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 438249,
+        "num": 438249,
+        "word": "张文宏团队称阳性后99.5%的人不必去医院",
+        "onboard_time": 1670465651,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 836050,
+        "num": 437817,
+        "word": "关晓彤怼脸生图",
+        "onboard_time": 1670485996,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 431739,
+        "num": 431739,
+        "word": "布洛芬商标已被抢注",
+        "onboard_time": 1670485696,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 408757,
+        "num": 408757,
+        "word": "这猫喂的过于严谨了",
+        "onboard_time": 1670485818,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 400468,
+        "num": 400468,
+        "word": "郑恺说婚后一回家就不想出门",
+        "onboard_time": 1670477775,
+        "rank": 13,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 355708,
+        "num": 355708,
+        "word": "老年人每周开展2次抗原检测",
+        "onboard_time": 1670484737,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352343,
+        "num": 352343,
+        "word": "妇联回应女子被公公家暴致满脸血",
+        "onboard_time": 1670485576,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348420,
+        "num": 348420,
+        "word": "听得出校长是真的想放假了",
+        "onboard_time": 1670485218,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 329026,
+        "num": 329026,
+        "word": "妈妈奖励13岁儿子考第一却被暖哭",
+        "onboard_time": 1670479515,
+        "rank": 17,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 324807,
+        "num": 324807,
+        "word": "Angelababy机车短发造型",
+        "onboard_time": 1670480895,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 304544,
+        "num": 304544,
+        "word": "西安地铁即日起不再查验一码通",
+        "onboard_time": 1670483897,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1307839,
+        "num": 304309,
+        "word": "专家称一两个月内会出现大规模疫情冲击",
+        "onboard_time": 1670480294,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302875,
+        "num": 302875,
+        "word": "教资笔试成绩12月9日可查",
+        "onboard_time": 1670485635,
+        "rank": 21,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 275871,
+        "num": 275871,
+        "word": "李峋对朱韵心动的证据",
+        "onboard_time": 1670484258,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 273019,
+        "num": 273019,
+        "word": "蔡依林说亲爱的今晚12点见",
+        "onboard_time": 1670484856,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 272578,
+        "num": 272578,
+        "word": "请回答1997主创将重聚",
+        "onboard_time": 1670484436,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 265549,
+        "num": 265549,
+        "word": "檀健次谈和杨紫合作",
+        "onboard_time": 1670487735,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 252214,
+        "num": 252214,
+        "word": "上海餐饮场所不再查验核酸",
+        "onboard_time": 1670481855,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221423,
+        "num": 221423,
+        "word": "JDG永远有Yagao的名字",
+        "onboard_time": 1670478435,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 206278,
+        "num": 206278,
+        "word": "电暖器着火7岁男孩淡定拔电源",
+        "onboard_time": 1670482334,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191335,
+        "num": 191335,
+        "word": "平均50岁的云爸爸直播间要招90后",
+        "onboard_time": 1670487019,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 431014,
+        "num": 190774,
+        "word": "河南19岁女生实名举报后被人带走失联",
+        "onboard_time": 1670470273,
+        "rank": 30,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 188361,
+        "num": 188361,
+        "word": "赵露思新剧开机状态",
+        "onboard_time": 1670478674,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 186990,
+        "num": 186990,
+        "word": "肖战对迷人又可爱反派角色的执念",
+        "onboard_time": 1670475194,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 182654,
+        "num": 182654,
+        "word": "张天爱回应拿行李箱买菜",
+        "onboard_time": 1670487375,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 177971,
+        "num": 177971,
+        "word": "英格兰为限制姆巴佩准备了两年",
+        "onboard_time": 1670469013,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177738,
+        "num": 177738,
+        "word": "发热门诊要扩大接诊空间",
+        "onboard_time": 1670487019,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172323,
+        "num": 172323,
+        "word": "新冠阳性居家康复指引",
+        "onboard_time": 1670470093,
+        "rank": 36,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 171054,
+        "num": 171054,
+        "word": "荷兰vs阿根廷",
+        "onboard_time": 1670476334,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162531,
+        "num": 162531,
+        "word": "发热门诊不能随意关停",
+        "onboard_time": 1670487196,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160308,
+        "num": 160308,
+        "word": "郑州需要一场烟火秀",
+        "onboard_time": 1670468471,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159702,
+        "num": 159702,
+        "word": "结婚后朋友会越来越少吗",
+        "onboard_time": 1670478735,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 150005,
+        "num": 150005,
+        "word": "云之羽",
+        "onboard_time": 1670484856,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 143643,
+        "num": 143643,
+        "word": "安徽考研允许考生跨省跨市借考",
+        "onboard_time": 1670487257,
+        "rank": 42,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 142389,
+        "num": 142389,
+        "word": "尹峥向岳父大人求娶李薇",
+        "onboard_time": 1670478496,
+        "rank": 43,
+        "category": "影视,艺人"
+      },
+      {
+        "raw_hot": 139306,
+        "num": 139306,
+        "word": "熊孩子头卡电饭煲消防员都看懵了",
+        "onboard_time": 1670479574,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139783,
+        "num": 139285,
+        "word": "尹峥有多爱吃醋",
+        "onboard_time": 1670487435,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 138534,
+        "num": 138534,
+        "word": "爸爸自制300平米冰场供儿子训练",
+        "onboard_time": 1670487435,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135819,
+        "num": 135819,
+        "word": "放弃沟通就是放弃对方吗",
+        "onboard_time": 1670487019,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 135041,
+        "num": 135041,
+        "word": "女子地下室杂物间开猫洞给流浪猫住",
+        "onboard_time": 1670487676,
+        "rank": 48,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 133730,
+        "num": 133730,
+        "word": "居家隔离如何最大限度避免家庭内传播",
+        "onboard_time": 1670486716,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#构建新时代中阿命运共同体#"
+    }
+  }
+}
