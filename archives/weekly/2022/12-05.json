@@ -1,6 +1,6 @@
 {
   "startTime": 1670171104099,
-  "endTime": 1670606248958,
+  "endTime": 1670607250319,
   "band_list": [
     {
       "raw_hot": 8994548,
@@ -25,6 +25,14 @@
       "onboard_time": 1670291769,
       "rank": 6,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 7598442,
+      "num": 7598442,
+      "word": "内马尔进球",
+      "onboard_time": 1670606296,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 5877039,
@@ -683,6 +691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1558083,
+      "num": 1558083,
+      "word": "克罗地亚 上届亚军",
+      "onboard_time": 1670602936,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1555094,
       "num": 1555094,
       "word": "导演说赵丽颖让团队决定接下风吹半夏",
@@ -1019,14 +1035,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1211201,
-      "num": 1211201,
-      "word": "克罗地亚 上届亚军",
-      "onboard_time": 1670602936,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1211046,
       "num": 1221686,
       "word": "丈夫出轨生子妻子离婚获赔15万",
@@ -1137,6 +1145,14 @@
       "onboard_time": 1670497037,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1122145,
+      "num": 1122145,
+      "word": "加时赛",
+      "onboard_time": 1670605037,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 1121150,
@@ -1384,14 +1400,6 @@
       "word": "梅西预测4支球队世界杯夺冠",
       "onboard_time": 1670252713,
       "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 928538,
-      "num": 928538,
-      "word": "加时赛",
-      "onboard_time": 1670605037,
-      "rank": 6,
       "category": "体育"
     },
     {
@@ -2483,6 +2491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 637777,
+      "num": 199713,
+      "word": "克罗地亚扳平",
+      "onboard_time": 1670607196,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 637733,
       "num": 637733,
       "word": "华大基因回应核酸检测不准被举报",
@@ -2585,6 +2601,14 @@
       "onboard_time": 1670395814,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 620353,
+      "num": 620353,
+      "word": "莫德里奇",
+      "onboard_time": 1670253792,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 619734,
@@ -2817,6 +2841,14 @@
       "onboard_time": 1670400133,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 581687,
+      "num": 581687,
+      "word": "莫德里奇 中场大师",
+      "onboard_time": 1670604676,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 581149,
@@ -3212,7 +3244,7 @@
     },
     {
       "raw_hot": 526583,
-      "num": 3063506,
+      "num": 3156475,
       "word": "迈向结束疫情生活的道路不等于结束疫情",
       "onboard_time": 1670591660,
       "rank": 2,
@@ -3233,6 +3265,14 @@
       "onboard_time": 1670395513,
       "rank": 17,
       "category": "科技"
+    },
+    {
+      "raw_hot": 523809,
+      "num": 523809,
+      "word": "魔笛 胖虎",
+      "onboard_time": 1670603536,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 522181,
@@ -3939,6 +3979,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 442690,
+      "num": 442690,
+      "word": "裁判 偏",
+      "onboard_time": 1670606296,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 442492,
       "num": 442492,
       "word": "地包天小猫被网友吐槽长相如丧尸",
@@ -4177,14 +4225,6 @@
       "onboard_time": 1670284626,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 422151,
-      "num": 422151,
-      "word": "魔笛 胖虎",
-      "onboard_time": 1670603536,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 421943,
@@ -4875,14 +4915,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 361263,
-      "num": 605700,
-      "word": "莫德里奇",
-      "onboard_time": 1670253792,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 361085,
       "num": 361085,
       "word": "六级",
@@ -5113,6 +5145,14 @@
       "onboard_time": 1670241071,
       "rank": 39,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 337353,
+      "num": 337353,
+      "word": "裁判 黄牌",
+      "onboard_time": 1670604977,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 337039,
@@ -5809,6 +5849,14 @@
       "onboard_time": 1670562557,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 300218,
+      "num": 300218,
+      "word": "罗纳尔多",
+      "onboard_time": 1670605757,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 300117,
@@ -6547,14 +6595,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 262603,
-      "num": 262603,
-      "word": "裁判 黄牌",
-      "onboard_time": 1670604977,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
       "raw_hot": 262399,
       "num": 262399,
       "word": "女子花千元买柯基第二天查出细小",
@@ -6913,14 +6953,6 @@
       "onboard_time": 1670309891,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 246945,
-      "num": 246945,
-      "word": "莫德里奇 中场大师",
-      "onboard_time": 1670604676,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 246817,
@@ -7921,14 +7953,6 @@
       "onboard_time": 1670412734,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 202110,
-      "num": 202110,
-      "word": "罗纳尔多",
-      "onboard_time": 1670605757,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 202050,
@@ -9259,6 +9283,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 163654,
+      "num": 163654,
+      "word": "世界杯直播",
+      "onboard_time": 1670602338,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 163410,
       "num": 163410,
       "word": "去卡塔尔看球要多少钱",
@@ -9699,14 +9731,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 151980,
-      "num": 151980,
-      "word": "世界杯直播",
-      "onboard_time": 1670602338,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 151902,
       "num": 151902,
       "word": "山峥海薇回娘家",
@@ -10016,6 +10040,14 @@
       "word": "县委大院单人剧照",
       "onboard_time": 1670390773,
       "rank": 45,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 143736,
+      "num": 143736,
+      "word": "李薇说明年一定比今年更好",
+      "onboard_time": 1670606836,
+      "rank": 39,
       "category": "影视"
     },
     {

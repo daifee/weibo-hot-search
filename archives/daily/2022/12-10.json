@@ -1,7 +1,15 @@
 {
   "startTime": 1670603204032,
-  "endTime": 1670606248958,
+  "endTime": 1670607250319,
   "band_list": [
+    {
+      "raw_hot": 7598442,
+      "num": 7598442,
+      "word": "内马尔进球",
+      "onboard_time": 1670606296,
+      "rank": 0,
+      "category": "体育"
+    },
     {
       "raw_hot": 4688843,
       "num": 4688843,
@@ -43,6 +51,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1558083,
+      "num": 1558083,
+      "word": "克罗地亚 上届亚军",
+      "onboard_time": 1670602936,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1489329,
       "num": 1489329,
       "word": "克罗地亚半场0比0巴西",
@@ -59,11 +75,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1211201,
-      "num": 1211201,
-      "word": "克罗地亚 上届亚军",
-      "onboard_time": 1670602936,
-      "rank": 18,
+      "raw_hot": 1122145,
+      "num": 1122145,
+      "word": "加时赛",
+      "onboard_time": 1670605037,
+      "rank": 6,
       "category": "体育"
     },
     {
@@ -73,14 +89,6 @@
       "onboard_time": 1670594001,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 928538,
-      "num": 928538,
-      "word": "加时赛",
-      "onboard_time": 1670605037,
-      "rank": 6,
-      "category": "体育"
     },
     {
       "raw_hot": 879267,
@@ -115,12 +123,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 637777,
+      "num": 199713,
+      "word": "克罗地亚扳平",
+      "onboard_time": 1670607196,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 620353,
+      "num": 620353,
+      "word": "莫德里奇",
+      "onboard_time": 1670598322,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 611808,
       "num": 611808,
       "word": "浦东机场",
       "onboard_time": 1670600597,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 581687,
+      "num": 581687,
+      "word": "莫德里奇 中场大师",
+      "onboard_time": 1670604676,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 551894,
@@ -131,12 +163,28 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 523809,
+      "num": 523809,
+      "word": "魔笛 胖虎",
+      "onboard_time": 1670603536,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 444755,
       "num": 444755,
       "word": "卿卿日常 传承",
       "onboard_time": 1670595740,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 442690,
+      "num": 442690,
+      "word": "裁判 偏",
+      "onboard_time": 1670606296,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 434368,
@@ -153,14 +201,6 @@
       "onboard_time": 1670596280,
       "rank": 15,
       "category": "影视"
-    },
-    {
-      "raw_hot": 422151,
-      "num": 422151,
-      "word": "魔笛 胖虎",
-      "onboard_time": 1670603536,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 421910,
@@ -185,6 +225,14 @@
       "onboard_time": 1670601497,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 337353,
+      "num": 337353,
+      "word": "裁判 黄牌",
+      "onboard_time": 1670604977,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 332938,
@@ -227,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 300218,
+      "num": 300218,
+      "word": "罗纳尔多",
+      "onboard_time": 1670605757,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 297259,
       "num": 297259,
       "word": "梅西",
@@ -244,7 +300,7 @@
     },
     {
       "raw_hot": 293328,
-      "num": 3063506,
+      "num": 3156475,
       "word": "迈向结束疫情生活的道路不等于结束疫情",
       "onboard_time": 1670591660,
       "rank": 2,
@@ -283,22 +339,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 270806,
-      "num": 270806,
-      "word": "莫德里奇",
-      "onboard_time": 1670598322,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 262603,
-      "num": 262603,
-      "word": "裁判 黄牌",
-      "onboard_time": 1670604977,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
       "raw_hot": 262399,
       "num": 262399,
       "word": "女子花千元买柯基第二天查出细小",
@@ -321,14 +361,6 @@
       "onboard_time": 1670581880,
       "rank": 28,
       "category": "美食,社会新闻"
-    },
-    {
-      "raw_hot": 246945,
-      "num": 246945,
-      "word": "莫德里奇 中场大师",
-      "onboard_time": 1670604676,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 246468,
@@ -371,14 +403,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 202110,
-      "num": 202110,
-      "word": "罗纳尔多",
-      "onboard_time": 1670605757,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 190438,
       "num": 190438,
       "word": "男子未戴手套制作蛋糕胚被指恶心",
@@ -411,6 +435,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 163654,
+      "num": 163654,
+      "word": "世界杯直播",
+      "onboard_time": 1670602338,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 158462,
       "num": 158462,
       "word": "Doinb",
@@ -425,14 +457,6 @@
       "onboard_time": 1670594538,
       "rank": 42,
       "category": "教育"
-    },
-    {
-      "raw_hot": 151980,
-      "num": 151980,
-      "word": "世界杯直播",
-      "onboard_time": 1670602338,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 147545,
@@ -457,6 +481,14 @@
       "onboard_time": 1670582542,
       "rank": 46,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 143736,
+      "num": 143736,
+      "word": "李薇说明年一定比今年更好",
+      "onboard_time": 1670606836,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 134944,
