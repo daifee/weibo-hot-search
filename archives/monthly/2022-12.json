@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1670596417913,
+  "endTime": 1670599080813,
   "band_list": [
     {
       "raw_hot": 8994548,
@@ -313,6 +313,14 @@
       "onboard_time": 1670053091,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2570729,
+      "num": 2570729,
+      "word": "克罗地亚vs巴西",
+      "onboard_time": 1670594060,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 2555673,
@@ -891,6 +899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1691669,
+      "num": 1691669,
+      "word": "张栋梁17年前vs17年后",
+      "onboard_time": 1670594001,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1678203,
       "num": 931802,
       "word": "官方通报杭州大白暴力拉人隔离",
@@ -920,14 +936,6 @@
       "word": "莱万向梅西道歉",
       "onboard_time": 1669855028,
       "rank": 4,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1638580,
-      "num": 1638580,
-      "word": "克罗地亚vs巴西",
-      "onboard_time": 1670594060,
-      "rank": 3,
       "category": "体育"
     },
     {
@@ -1540,7 +1548,7 @@
     },
     {
       "raw_hot": 1246879,
-      "num": 452043,
+      "num": 467073,
       "word": "中国四大直辖市完成换帅",
       "onboard_time": 1670591240,
       "rank": 30,
@@ -2249,14 +2257,6 @@
       "onboard_time": 1670037369,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 950885,
-      "num": 950885,
-      "word": "张栋梁17年前vs17年后",
-      "onboard_time": 1670594001,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 947533,
@@ -3227,6 +3227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 769602,
+      "num": 456456,
+      "word": "郝葭 芳如",
+      "onboard_time": 1670596280,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 766468,
       "num": 1376329,
       "word": "贵州女子远嫁印度和老公AA制",
@@ -4131,6 +4139,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 650582,
+      "num": 448178,
+      "word": "孙悦 状态",
+      "onboard_time": 1670598322,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 649902,
       "num": 649902,
       "word": "金希澈给tomboy手动消音",
@@ -4417,6 +4433,14 @@
       "onboard_time": 1669857729,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 619143,
+      "num": 429734,
+      "word": "卿卿日常 传承",
+      "onboard_time": 1670595740,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 617780,
@@ -4977,6 +5001,14 @@
       "onboard_time": 1670071778,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 561742,
+      "num": 295346,
+      "word": "陈飞宇说很荣幸能演绎李峋的人生",
+      "onboard_time": 1670597837,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 561242,
@@ -5739,6 +5771,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 492836,
+      "num": 492836,
+      "word": "女子买螃蟹抓掉到楼下的袜子",
+      "onboard_time": 1670595502,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 492814,
       "num": 492814,
       "word": "欧豪风吹半夏未播镜头",
@@ -5785,6 +5825,14 @@
       "onboard_time": 1669857668,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 488517,
+      "num": 488517,
+      "word": "黄桃罐头",
+      "onboard_time": 1670581880,
+      "rank": 43,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 488415,
@@ -6379,6 +6427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 447142,
+      "num": 291034,
+      "word": "梁咏琪胆小鬼一开口爷青回",
+      "onboard_time": 1670598081,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 445701,
       "num": 445701,
       "word": "重庆烤羊店两只羊出逃被找回当吉祥物",
@@ -6713,6 +6769,14 @@
       "onboard_time": 1669857488,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 425231,
+      "num": 425231,
+      "word": "梅西收到中国球迷赠送的画册",
+      "onboard_time": 1670596041,
+      "rank": 29,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 424968,
@@ -7475,6 +7539,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 385814,
+      "num": 202658,
+      "word": "财阀家的小儿子",
+      "onboard_time": 1670598322,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 385807,
       "num": 1171404,
       "word": "原来日本队晚饭吃这些东西",
@@ -7529,14 +7601,6 @@
       "onboard_time": 1669999031,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 383382,
-      "num": 383382,
-      "word": "黄桃罐头",
-      "onboard_time": 1670581880,
-      "rank": 43,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 382561,
@@ -7627,6 +7691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 375837,
+      "num": 332111,
+      "word": "卿卿日常 群像",
+      "onboard_time": 1670595863,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 374378,
       "num": 374378,
       "word": "专家称居家隔离可缓解床位紧张难题",
@@ -7649,6 +7721,14 @@
       "onboard_time": 1670327051,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 373932,
+      "num": 202441,
+      "word": "胡夏的名字被父母姓氏承包了",
+      "onboard_time": 1670596880,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 373670,
@@ -7865,6 +7945,14 @@
       "onboard_time": 1670253792,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 361085,
+      "num": 361085,
+      "word": "六级",
+      "onboard_time": 1670594538,
+      "rank": 36,
+      "category": "教育"
     },
     {
       "raw_hot": 360567,
@@ -8089,14 +8177,6 @@
       "onboard_time": 1670578759,
       "rank": 23,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 349795,
-      "num": 332111,
-      "word": "卿卿日常 群像",
-      "onboard_time": 1670595863,
-      "rank": 20,
-      "category": "影视"
     },
     {
       "raw_hot": 349572,
@@ -8609,14 +8689,6 @@
       "onboard_time": 1669896552,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 328398,
-      "num": 269329,
-      "word": "卿卿日常 传承",
-      "onboard_time": 1670595740,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 327167,
@@ -9779,14 +9851,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 282157,
-      "num": 214259,
-      "word": "郝葭 芳如",
-      "onboard_time": 1670596280,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 281150,
       "num": 816759,
       "word": "乌拉圭主帅说出局因误判点球",
@@ -10475,14 +10539,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 261391,
-      "num": 261391,
-      "word": "六级",
-      "onboard_time": 1670594538,
-      "rank": 36,
-      "category": "教育"
-    },
-    {
       "raw_hot": 261232,
       "num": 261232,
       "word": "广州明确核酸频次不与健康码颜色关联",
@@ -10665,6 +10721,14 @@
       "onboard_time": 1670117647,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 254085,
+      "num": 254085,
+      "word": "克罗地亚vs巴西首发",
+      "onboard_time": 1670596041,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 254029,
@@ -11625,14 +11689,6 @@
       "onboard_time": 1670224632,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 223423,
-      "num": 223423,
-      "word": "梅西收到中国球迷赠送的画册",
-      "onboard_time": 1670596041,
-      "rank": 29,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 223191,
@@ -14315,14 +14371,6 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 163468,
-      "num": 200970,
-      "word": "克罗地亚vs巴西首发",
-      "onboard_time": 1670596041,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 163410,
       "num": 163410,
       "word": "去卡塔尔看球要多少钱",
@@ -15433,6 +15481,14 @@
       "onboard_time": 1670397734,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 145306,
+      "num": 201806,
+      "word": "有个来报恩的女儿是种什么体验",
+      "onboard_time": 1670598560,
+      "rank": 39,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 145069,
@@ -16715,6 +16771,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 125829,
+      "num": 201455,
+      "word": "正骨到底怎么个正法儿",
+      "onboard_time": 1670596280,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 125628,
       "num": 808176,
       "word": "江苏四组市级南北挂钩发展方案出炉",
@@ -16881,14 +16945,6 @@
       "onboard_time": 1670504780,
       "rank": 49,
       "category": "教育"
-    },
-    {
-      "raw_hot": 122988,
-      "num": 200390,
-      "word": "正骨到底怎么个正法儿",
-      "onboard_time": 1670596280,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 122518,
@@ -17211,12 +17267,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 118195,
+      "num": 201292,
+      "word": "互联网黑话解说",
+      "onboard_time": 1670597960,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 118099,
       "num": 118099,
       "word": "詹俊神预言摩洛哥赢球",
       "onboard_time": 1670377090,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 117983,
+      "num": 201181,
+      "word": "XYG阵容",
+      "onboard_time": 1670596519,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 117883,
@@ -17883,6 +17955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 106906,
+      "num": 200932,
+      "word": "别忽视给居家老人备好常用药",
+      "onboard_time": 1670599039,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 106853,
       "num": 548115,
       "word": "和猫咪玩打手板游戏",
@@ -18312,6 +18392,14 @@
       "word": "邓弗里斯助攻梅开二度",
       "onboard_time": 1670085132,
       "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 98394,
+      "num": 200769,
+      "word": "年轻人是懂看球仪式感的",
+      "onboard_time": 1670598861,
+      "rank": 49,
       "category": "体育"
     },
     {
