@@ -1,7 +1,15 @@
 {
   "startTime": 1670171104099,
-  "endTime": 1670607250319,
+  "endTime": 1670610197072,
   "band_list": [
+    {
+      "raw_hot": 11360361,
+      "num": 11360361,
+      "word": "克罗地亚vs巴西",
+      "onboard_time": 1670594060,
+      "rank": 3,
+      "category": "体育"
+    },
     {
       "raw_hot": 8994548,
       "num": 8994548,
@@ -35,6 +43,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 6043465,
+      "num": 6043465,
+      "word": "克罗地亚门将",
+      "onboard_time": 1670601080,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 5877039,
       "num": 7109965,
       "word": "全国默哀3分钟",
@@ -59,11 +75,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 4688843,
-      "num": 4688843,
-      "word": "克罗地亚门将",
-      "onboard_time": 1670601080,
-      "rank": 7,
+      "raw_hot": 4581475,
+      "num": 5662950,
+      "word": "巴西淘汰",
+      "onboard_time": 1670608756,
+      "rank": 3,
       "category": "体育"
     },
     {
@@ -115,14 +131,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 3500385,
-      "num": 3500385,
-      "word": "克罗地亚vs巴西",
-      "onboard_time": 1670594060,
-      "rank": 3,
-      "category": "体育"
-    },
-    {
       "raw_hot": 3279536,
       "num": 3279536,
       "word": "元旦春节将使疫情形势达到高峰",
@@ -137,6 +145,14 @@
       "onboard_time": 1670228232,
       "rank": 6,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 3248376,
+      "num": 3248376,
+      "word": "巴西门将",
+      "onboard_time": 1670608756,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 3218902,
@@ -403,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2062847,
+      "num": 2062847,
+      "word": "内马尔哭了",
+      "onboard_time": 1670608996,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2057821,
       "num": 1723011,
       "word": "女子多次出轨后与丈夫合谋仙人跳",
@@ -465,6 +489,22 @@
       "onboard_time": 1670292764,
       "rank": 4,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 1955926,
+      "num": 1955926,
+      "word": "克罗地亚 上届亚军",
+      "onboard_time": 1670602936,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1907668,
+      "num": 1907668,
+      "word": "莫德里奇 中场大师",
+      "onboard_time": 1670604676,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 1898210,
@@ -627,6 +667,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1661852,
+      "num": 1661852,
+      "word": "荷兰vs阿根廷",
+      "onboard_time": 1670476334,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1633271,
       "num": 1150835,
       "word": "新冠发病7天内身体会发生什么变化",
@@ -675,6 +723,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 1591774,
+      "num": 1591774,
+      "word": "利瓦科维奇 门神",
+      "onboard_time": 1670604376,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1585806,
       "num": 1174016,
       "word": "专家说在家自行吃药或耽误治疗",
@@ -689,14 +745,6 @@
       "onboard_time": 1670580558,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1558083,
-      "num": 1558083,
-      "word": "克罗地亚 上届亚军",
-      "onboard_time": 1670602936,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 1555094,
@@ -899,12 +947,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1352296,
+      "num": 1352296,
+      "word": "点球大战",
+      "onboard_time": 1670261890,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1345925,
       "num": 1345925,
       "word": "婆婆转10万缓和夫妻矛盾儿媳拒还",
       "onboard_time": 1670412433,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1323665,
+      "num": 1323665,
+      "word": "魔笛 胖虎",
+      "onboard_time": 1670603536,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 1316233,
@@ -920,6 +984,14 @@
       "word": "梅西",
       "onboard_time": 1670588600,
       "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1286934,
+      "num": 1286934,
+      "word": "莫德里奇",
+      "onboard_time": 1670253792,
+      "rank": 40,
       "category": "体育"
     },
     {
@@ -953,6 +1025,14 @@
       "onboard_time": 1670454786,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1252775,
+      "num": 1252775,
+      "word": "裁判 偏",
+      "onboard_time": 1670606296,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 1252029,
@@ -1667,14 +1747,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 849008,
-      "num": 849008,
-      "word": "利瓦科维奇 门神",
-      "onboard_time": 1670604376,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
       "raw_hot": 848272,
       "num": 447031,
       "word": "Angelababy短发怼脸花絮视频",
@@ -2171,6 +2243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 687133,
+      "num": 687133,
+      "word": "安东尼",
+      "onboard_time": 1670607315,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 686328,
       "num": 686328,
       "word": "李春生接受审查调查",
@@ -2483,16 +2563,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 638240,
-      "num": 637575,
-      "word": "点球大战",
-      "onboard_time": 1670261890,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
       "raw_hot": 637777,
-      "num": 199713,
+      "num": 421205,
       "word": "克罗地亚扳平",
       "onboard_time": 1670607196,
       "rank": 30,
@@ -2603,14 +2675,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 620353,
-      "num": 620353,
-      "word": "莫德里奇",
-      "onboard_time": 1670253792,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 619734,
       "num": 785184,
       "word": "巴西4比1韩国",
@@ -2697,6 +2761,14 @@
       "onboard_time": 1670600597,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 611408,
+      "num": 611408,
+      "word": "克罗地亚晋级4强",
+      "onboard_time": 1670608396,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 608555,
@@ -2803,6 +2875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 586275,
+      "num": 586275,
+      "word": "巴西爆冷",
+      "onboard_time": 1670608756,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 585992,
       "num": 452178,
       "word": "苏醒为了梅西能夺冠有多拼",
@@ -2835,20 +2915,20 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 582506,
+      "num": 582506,
+      "word": "罗纳尔多",
+      "onboard_time": 1670605757,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 582012,
       "num": 582012,
       "word": "优化防控不是完全放开",
       "onboard_time": 1670400133,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 581687,
-      "num": 581687,
-      "word": "莫德里奇 中场大师",
-      "onboard_time": 1670604676,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 581149,
@@ -3267,14 +3347,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 523809,
-      "num": 523809,
-      "word": "魔笛 胖虎",
-      "onboard_time": 1670603536,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 522181,
       "num": 2197337,
       "word": "与阳性人员擦肩而过感染几率有多大",
@@ -3617,14 +3689,6 @@
       "onboard_time": 1670466551,
       "rank": 32,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 482604,
-      "num": 482604,
-      "word": "荷兰vs阿根廷",
-      "onboard_time": 1670476334,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 481635,
@@ -3977,14 +4041,6 @@
       "onboard_time": 1670456168,
       "rank": 17,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 442690,
-      "num": 442690,
-      "word": "裁判 偏",
-      "onboard_time": 1670606296,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 442492,
@@ -4979,6 +5035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 355610,
+      "num": 102707,
+      "word": "克罗地亚5比3巴西",
+      "onboard_time": 1670608516,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 354996,
       "num": 354996,
       "word": "多地已取消强制性落地检",
@@ -5619,6 +5683,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 313257,
+      "num": 313257,
+      "word": "我vs梅西",
+      "onboard_time": 1670606954,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 313051,
       "num": 313051,
       "word": "北京增社会面178例",
@@ -5849,14 +5921,6 @@
       "onboard_time": 1670562557,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 300218,
-      "num": 300218,
-      "word": "罗纳尔多",
-      "onboard_time": 1670605757,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 300117,
@@ -7289,6 +7353,14 @@
       "onboard_time": 1670226014,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 230904,
+      "num": 405812,
+      "word": "格子军团",
+      "onboard_time": 1670258350,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 230634,
@@ -9603,14 +9675,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 154349,
-      "num": 405812,
-      "word": "格子军团",
-      "onboard_time": 1670258350,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 154344,
       "num": 154344,
       "word": "拉伊卜小王子的十个秘密",
@@ -11539,6 +11603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 106026,
+      "num": 106026,
+      "word": "克罗地亚防守",
+      "onboard_time": 1670609836,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 105843,
       "num": 105843,
       "word": "暖阳澜五连绝世",
@@ -11617,6 +11689,14 @@
       "onboard_time": 1670307549,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 102707,
+      "num": 102707,
+      "word": "内马尔追平贝利纪录",
+      "onboard_time": 1670609836,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 102362,
