@@ -1,6 +1,6 @@
 {
   "startTime": 1670516838629,
-  "endTime": 1670582202639,
+  "endTime": 1670584544266,
   "band_list": [
     {
       "raw_hot": 8994548,
@@ -107,12 +107,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1604728,
+      "num": 578511,
+      "word": "NCT4名成员发生坠落事故",
+      "onboard_time": 1670584161,
+      "rank": 10,
+      "category": "艺人,社会新闻"
+    },
+    {
       "raw_hot": 1555094,
       "num": 1555094,
       "word": "导演说赵丽颖让团队决定接下风吹半夏",
       "onboard_time": 1670563036,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1543079,
+      "num": 571906,
+      "word": "白敬亭 直播",
+      "onboard_time": 1670581760,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1508200,
@@ -128,6 +144,14 @@
       "word": "钟南山院士谈奥密克戎",
       "onboard_time": 1670507837,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1286501,
+      "num": 1286501,
+      "word": "男子点炸鸡没熟反馈后被补偿炸焦的",
+      "onboard_time": 1670580558,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -259,6 +283,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 797935,
+      "num": 797935,
+      "word": "原来长大真的会变好看",
+      "onboard_time": 1670580439,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 756757,
       "num": 543150,
       "word": "张婧仪骑士公主纱裙十二宫格",
@@ -299,19 +331,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 705336,
-      "num": 452435,
-      "word": "白敬亭 直播",
-      "onboard_time": 1670581760,
-      "rank": 10,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 697625,
       "num": 578561,
       "word": "武汉阳性患者感染全记录",
       "onboard_time": 1670514797,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 694789,
+      "num": 694789,
+      "word": "4类人群不建议首选布洛芬退烧",
+      "onboard_time": 1670581580,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -361,6 +393,14 @@
       "onboard_time": 1670573898,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 607289,
+      "num": 607289,
+      "word": "王嘉尔 可能是最后一支MV了",
+      "onboard_time": 1670583629,
+      "rank": 9,
+      "category": "音乐"
     },
     {
       "raw_hot": 604951,
@@ -435,6 +475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 542840,
+      "num": 440122,
+      "word": "卿卿日常",
+      "onboard_time": 1670579301,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 541518,
       "num": 541518,
       "word": "母亲因孩子吵遭邻居多人围殴",
@@ -491,14 +539,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 511414,
-      "num": 443028,
-      "word": "男子点炸鸡没熟反馈后被补偿炸焦的",
-      "onboard_time": 1670580558,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 505535,
       "num": 505535,
       "word": "原来南方人才是最抗冻的",
@@ -531,6 +571,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 494924,
+      "num": 494924,
+      "word": "财政部决定发行7500亿元特别国债",
+      "onboard_time": 1670582542,
+      "rank": 13,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 492970,
       "num": 492970,
       "word": "黄澄澄演技",
@@ -561,14 +609,6 @@
       "onboard_time": 1670575700,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 466539,
-      "num": 440122,
-      "word": "卿卿日常",
-      "onboard_time": 1670579301,
-      "rank": 13,
-      "category": "影视"
     },
     {
       "raw_hot": 454504,
@@ -627,20 +667,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 422589,
-      "num": 422589,
-      "word": "原来长大真的会变好看",
-      "onboard_time": 1670580439,
-      "rank": 28,
-      "category": "情感"
-    },
-    {
       "raw_hot": 416276,
       "num": 416276,
       "word": "王大陆蔡卓宜官宣加盟哎呀好身材4",
       "onboard_time": 1670554513,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 407969,
+      "num": 407969,
+      "word": "喜来登称婚房太吵扣3千押金",
+      "onboard_time": 1670581161,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 406920,
@@ -659,6 +699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 400227,
+      "num": 400227,
+      "word": "被考研人的一天整破防了",
+      "onboard_time": 1670582181,
+      "rank": 48,
+      "category": "情感,教育"
+    },
+    {
       "raw_hot": 400043,
       "num": 400043,
       "word": "叶婷",
@@ -672,6 +720,14 @@
       "word": "女子接假冒防疫电话被骗2504万",
       "onboard_time": 1670569941,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 395613,
+      "num": 395613,
+      "word": "邻居归还药锅放白色颗粒引人困惑",
+      "onboard_time": 1670579900,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -721,6 +777,14 @@
       "onboard_time": 1670560818,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 360355,
+      "num": 360355,
+      "word": "黄桃罐头",
+      "onboard_time": 1670581880,
+      "rank": 43,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 359178,
@@ -779,12 +843,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 336094,
+      "num": 336094,
+      "word": "李峋的黑背心不是P的",
+      "onboard_time": 1670579840,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 335683,
       "num": 335683,
       "word": "想见你电影版定档1231",
       "onboard_time": 1670516714,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 331613,
+      "num": 238275,
+      "word": "沈月的古装造型",
+      "onboard_time": 1670582360,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 329590,
@@ -843,12 +923,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 307323,
-      "num": 307323,
-      "word": "邻居归还药锅放白色颗粒引人困惑",
-      "onboard_time": 1670579900,
-      "rank": 35,
-      "category": "社会新闻"
+      "raw_hot": 308137,
+      "num": 233494,
+      "word": "汤唯 大钟奖出席名单",
+      "onboard_time": 1670580080,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 305411,
@@ -889,6 +969,14 @@
       "onboard_time": 1670574625,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 290137,
+      "num": 229471,
+      "word": "卿卿日常直播",
+      "onboard_time": 1670582661,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 287587,
@@ -963,6 +1051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 264903,
+      "num": 225136,
+      "word": "尹峥说想和李薇白首不相离",
+      "onboard_time": 1670584224,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 263740,
       "num": 263740,
       "word": "吸入式新冠疫苗河南今日开打",
@@ -985,6 +1081,14 @@
       "onboard_time": 1670558896,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 258977,
+      "num": 258977,
+      "word": "睡眠不好的人有福了",
+      "onboard_time": 1670581340,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 258190,
@@ -1051,6 +1155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 246817,
+      "num": 121836,
+      "word": "昌隆直播",
+      "onboard_time": 1670583861,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 244433,
       "num": 244433,
       "word": "命韵峋环领证",
@@ -1089,6 +1201,14 @@
       "onboard_time": 1670554513,
       "rank": 48,
       "category": "科技"
+    },
+    {
+      "raw_hot": 239091,
+      "num": 239091,
+      "word": "男子未戴手套制作蛋糕胚被指恶心",
+      "onboard_time": 1670583680,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 239023,
@@ -1163,20 +1283,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 225925,
-      "num": 179120,
-      "word": "李峋的黑背心不是P的",
-      "onboard_time": 1670579840,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 219531,
       "num": 208985,
       "word": "命韵峋环和好后拥吻",
       "onboard_time": 1670576539,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 218657,
+      "num": 218657,
+      "word": "退烧药与感冒药别叠加使用",
+      "onboard_time": 1670583018,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 217019,
@@ -1291,20 +1411,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 202050,
+      "num": 202050,
+      "word": "郭襄已被注册商标",
+      "onboard_time": 1670581824,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 199331,
       "num": 199331,
       "word": "王一博刘雯辛芷蕾同框",
       "onboard_time": 1670506639,
       "rank": 23,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 199035,
-      "num": 199035,
-      "word": "喜来登称婚房太吵扣3千押金",
-      "onboard_time": 1670581161,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 198196,
@@ -1384,14 +1504,6 @@
       "word": "各地保持现有核酸采样点布局规模不变",
       "onboard_time": 1670576481,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 192884,
-      "num": 192884,
-      "word": "4类人群不建议首选布洛芬退烧",
-      "onboard_time": 1670581580,
-      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -1587,22 +1699,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 159343,
-      "num": 159343,
-      "word": "黄桃罐头",
-      "onboard_time": 1670581880,
-      "rank": 43,
-      "category": "美食,社会新闻"
-    },
-    {
-      "raw_hot": 156364,
-      "num": 156364,
-      "word": "睡眠不好的人有福了",
-      "onboard_time": 1670581340,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
       "raw_hot": 155608,
       "num": 154009,
       "word": "苏有朋登billboard中国封面",
@@ -1672,14 +1768,6 @@
       "word": "新冠康复日记",
       "onboard_time": 1670560034,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 149580,
-      "num": 149580,
-      "word": "郭襄已被注册商标",
-      "onboard_time": 1670581824,
-      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -1811,14 +1899,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 138970,
-      "num": 138970,
-      "word": "被考研人的一天整破防了",
-      "onboard_time": 1670582181,
-      "rank": 48,
-      "category": "情感,教育"
-    },
-    {
       "raw_hot": 138704,
       "num": 138704,
       "word": "看内马尔过人是一种享受",
@@ -1939,6 +2019,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 125828,
+      "num": 125828,
+      "word": "被这支老年足球队激励到了",
+      "onboard_time": 1670584521,
+      "rank": 44,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 125158,
       "num": 125158,
       "word": "刘耀文无限超越班试镜视频",
@@ -2043,6 +2131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 114020,
+      "num": 114020,
+      "word": "男子乘高铁将脚伸女乘客头边",
+      "onboard_time": 1670584281,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 113812,
       "num": 113812,
       "word": "如何看待外卖员送餐迟到",
@@ -2057,6 +2153,14 @@
       "onboard_time": 1670552652,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 111562,
+      "num": 111562,
+      "word": "C919舱内首曝光",
+      "onboard_time": 1670584400,
+      "rank": 49,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 106937,
