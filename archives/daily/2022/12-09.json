@@ -1,6 +1,6 @@
 {
   "startTime": 1670516838629,
-  "endTime": 1670574237328,
+  "endTime": 1670575086917,
   "band_list": [
     {
       "raw_hot": 8994548,
@@ -11,20 +11,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3031906,
+      "num": 3031906,
+      "word": "郭襄",
+      "onboard_time": 1670568257,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2672256,
       "num": 2672256,
       "word": "我们正式迈向结束疫情生活的道路",
       "onboard_time": 1670505439,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2493142,
-      "num": 2493142,
-      "word": "郭襄",
-      "onboard_time": 1670568257,
-      "rank": 5,
-      "category": "影视"
     },
     {
       "raw_hot": 2335771,
@@ -171,8 +171,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 924857,
-      "num": 924857,
+      "raw_hot": 991735,
+      "num": 991735,
       "word": "把方舱医院升级改造成亚定点医院",
       "onboard_time": 1670571919,
       "rank": 5,
@@ -411,6 +411,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 501079,
+      "num": 501079,
+      "word": "网传陈飞宇张婧仪二搭出演偏偏宠爱",
+      "onboard_time": 1670572826,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 492970,
       "num": 492970,
       "word": "黄澄澄演技",
@@ -435,20 +443,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 461712,
-      "num": 461712,
-      "word": "网传陈飞宇张婧仪二搭出演偏偏宠爱",
-      "onboard_time": 1670572826,
-      "rank": 11,
-      "category": "影视"
-    },
-    {
       "raw_hot": 454504,
       "num": 454504,
       "word": "TGA2022",
       "onboard_time": 1670547614,
       "rank": 13,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 447033,
+      "num": 447033,
+      "word": "女子四胎出院90岁奶奶开车接回家",
+      "onboard_time": 1670573477,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 445701,
@@ -515,6 +523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 395837,
+      "num": 395837,
+      "word": "女子接假冒防疫电话被骗2504万",
+      "onboard_time": 1670569941,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 394382,
       "num": 394382,
       "word": "白敬亭说卿卿日常热度破11000就跳女团舞",
@@ -537,14 +553,6 @@
       "onboard_time": 1670558474,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 384280,
-      "num": 384280,
-      "word": "女子接假冒防疫电话被骗2504万",
-      "onboard_time": 1670569941,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 382167,
@@ -675,6 +683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 297204,
+      "num": 123413,
+      "word": "刘耀文唱的粤语歌",
+      "onboard_time": 1670575038,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 287587,
       "num": 287587,
       "word": "虞书欣红秀封面",
@@ -739,12 +755,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 268195,
+      "num": 121504,
+      "word": "年末红毯看内娱",
+      "onboard_time": 1670575038,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 267143,
       "num": 267143,
       "word": "梅西准备好了",
       "onboard_time": 1670550013,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 263740,
+      "num": 263740,
+      "word": "吸入式新冠疫苗河南今日开打",
+      "onboard_time": 1670571437,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 263109,
@@ -907,14 +939,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 221791,
-      "num": 221791,
-      "word": "吸入式新冠疫苗河南今日开打",
-      "onboard_time": 1670571437,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 217019,
       "num": 217019,
       "word": "太阳朴智旻将合作",
@@ -977,6 +1001,14 @@
       "onboard_time": 1670509998,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 208725,
+      "num": 208725,
+      "word": "你想过放弃考研吗",
+      "onboard_time": 1670573599,
+      "rank": 35,
+      "category": "情感,教育"
     },
     {
       "raw_hot": 208256,
@@ -1043,12 +1075,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 196025,
-      "num": 196025,
-      "word": "女子四胎出院90岁奶奶开车接回家",
-      "onboard_time": 1670573477,
-      "rank": 28,
-      "category": "社会新闻"
+      "raw_hot": 196547,
+      "num": 196547,
+      "word": "朝阳打歌中心",
+      "onboard_time": 1670572579,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 195644,
@@ -1139,12 +1171,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 185982,
+      "num": 185982,
+      "word": "妈妈将萌娃画作制成灯具送同学",
+      "onboard_time": 1670574079,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 183081,
       "num": 183081,
       "word": "对哄抬连花清瘟价格进行核查处理",
       "onboard_time": 1670562557,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 181123,
+      "num": 181123,
+      "word": "超40地启动新一轮消费券发放",
+      "onboard_time": 1670574981,
+      "rank": 30,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 180139,
@@ -1203,14 +1251,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 173292,
-      "num": 173292,
-      "word": "朝阳打歌中心",
-      "onboard_time": 1670572579,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 167179,
       "num": 154192,
       "word": "王鹤棣用收获总结2022年",
@@ -1235,12 +1275,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 162697,
-      "num": 162697,
-      "word": "你想过放弃考研吗",
-      "onboard_time": 1670573599,
-      "rank": 35,
-      "category": "情感,教育"
+      "raw_hot": 163841,
+      "num": 163841,
+      "word": "QQ等级全球第一的人找到了",
+      "onboard_time": 1670574798,
+      "rank": 37,
+      "category": "科技,幽默"
+    },
+    {
+      "raw_hot": 163596,
+      "num": 163596,
+      "word": "所有医疗机构都要接诊新冠阳性患者",
+      "onboard_time": 1670573898,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 161830,
@@ -1259,20 +1307,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 156983,
-      "num": 156983,
-      "word": "所有医疗机构都要接诊新冠阳性患者",
-      "onboard_time": 1670573898,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 155608,
       "num": 154009,
       "word": "苏有朋登billboard中国封面",
       "onboard_time": 1670564957,
       "rank": 41,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 154721,
+      "num": 154721,
+      "word": "Uzi儿子出生",
+      "onboard_time": 1670574625,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 154170,
@@ -1336,14 +1384,6 @@
       "word": "新冠康复日记",
       "onboard_time": 1670560034,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 150187,
-      "num": 150187,
-      "word": "妈妈将萌娃画作制成灯具送同学",
-      "onboard_time": 1670574079,
-      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -1545,6 +1585,14 @@
       "onboard_time": 1670554575,
       "rank": 45,
       "category": "情感,社会议题"
+    },
+    {
+      "raw_hot": 126355,
+      "num": 126355,
+      "word": "朱韵连说四个要",
+      "onboard_time": 1670574981,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 126338,
@@ -1839,6 +1887,9 @@
     },
     {
       "word": "#丝路繁华连接中阿文明#"
+    },
+    {
+      "word": "#中阿峰会是个什么会#"
     }
   ]
 }
