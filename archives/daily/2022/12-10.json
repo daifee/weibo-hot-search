@@ -1,6 +1,6 @@
 {
   "startTime": 1670603204032,
-  "endTime": 1670613280419,
+  "endTime": 1670614404461,
   "band_list": [
     {
       "raw_hot": 11360361,
@@ -219,6 +219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 641478,
+      "num": 641478,
+      "word": "葡萄牙主帅承认C罗不满替补",
+      "onboard_time": 1670611454,
+      "rank": 7,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 637777,
       "num": 421205,
       "word": "克罗地亚扳平",
@@ -257,14 +265,6 @@
       "onboard_time": 1670591240,
       "rank": 11,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 534457,
-      "num": 534457,
-      "word": "葡萄牙主帅承认C罗不满替补",
-      "onboard_time": 1670611454,
-      "rank": 7,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 444755,
@@ -707,6 +707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 89147,
+      "num": 89147,
+      "word": "抖音世界杯4K直播涉嫌侵权",
+      "onboard_time": 1670611936,
+      "rank": 30,
+      "category": "科技"
+    },
+    {
       "raw_hot": 75298,
       "num": 75298,
       "word": "如何评价韩剧财阀家的小儿子",
@@ -715,20 +723,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 70879,
-      "num": 70879,
-      "word": "抖音世界杯4K直播涉嫌侵权",
-      "onboard_time": 1670611936,
-      "rank": 30,
-      "category": "科技"
-    },
-    {
-      "raw_hot": 33871,
-      "num": 44364,
+      "raw_hot": 52058,
+      "num": 52058,
       "word": "RNG",
       "onboard_time": 1670612053,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 31483,
+      "num": 31483,
+      "word": "卿卿日常",
+      "onboard_time": 1670579301,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 20675,
