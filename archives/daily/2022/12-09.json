@@ -1,6 +1,6 @@
 {
   "startTime": 1670516838629,
-  "endTime": 1670563038087,
+  "endTime": 1670564010943,
   "band_list": [
     {
       "raw_hot": 8994548,
@@ -19,8 +19,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2211799,
-      "num": 2211799,
+      "raw_hot": 2284973,
+      "num": 2284973,
       "word": "19岁女生断骨增高后无法行走",
       "onboard_time": 1670558354,
       "rank": 4,
@@ -171,6 +171,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 721382,
+      "num": 721382,
+      "word": "导演说赵丽颖让团队决定接下风吹半夏",
+      "onboard_time": 1670563036,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 719020,
       "num": 719020,
       "word": "钟南山院士称无症状可能不算病",
@@ -283,6 +291,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 538962,
+      "num": 538962,
+      "word": "6旬老人患癌两年报销近百万",
+      "onboard_time": 1670561598,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 536702,
+      "num": 536702,
+      "word": "张颜齐现场追星内马尔",
+      "onboard_time": 1670560875,
+      "rank": 13,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 528693,
       "num": 426080,
       "word": "元旦春节将使疫情形势达到高峰",
@@ -315,14 +339,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 488598,
-      "num": 488598,
-      "word": "张颜齐现场追星内马尔",
-      "onboard_time": 1670560875,
-      "rank": 13,
-      "category": "体育,艺人"
-    },
-    {
       "raw_hot": 471579,
       "num": 471579,
       "word": "LOL全明星将被取消",
@@ -344,6 +360,14 @@
       "word": "重庆烤羊店两只羊出逃被找回当吉祥物",
       "onboard_time": 1670512877,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 431973,
+      "num": 431973,
+      "word": "男生玩游戏不小心扒掉老师裤子",
+      "onboard_time": 1670561656,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -491,28 +515,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 321963,
-      "num": 321963,
-      "word": "6旬老人患癌两年报销近百万",
-      "onboard_time": 1670561598,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 321705,
       "num": 321705,
       "word": "刘耀文原创新歌不冬眠",
       "onboard_time": 1670552773,
       "rank": 16,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 309897,
-      "num": 309897,
-      "word": "男生玩游戏不小心扒掉老师裤子",
-      "onboard_time": 1670561656,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 305411,
@@ -571,6 +579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 272617,
+      "num": 272617,
+      "word": "原神瑶瑶",
+      "onboard_time": 1670560818,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 271158,
       "num": 271158,
       "word": "黄景瑜打伞vs陈飞宇打伞",
@@ -617,6 +633,14 @@
       "onboard_time": 1670558896,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 255971,
+      "num": 1631645,
+      "word": "做好个人防护的8个小贴士",
+      "onboard_time": 1670560276,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 252499,
@@ -787,14 +811,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 205684,
-      "num": 205684,
-      "word": "原神瑶瑶",
-      "onboard_time": 1670560818,
-      "rank": 38,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 203783,
       "num": 203783,
       "word": "光遇",
@@ -811,14 +827,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 201749,
-      "num": 1631645,
-      "word": "做好个人防护的8个小贴士",
-      "onboard_time": 1670560276,
-      "rank": 2,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 199331,
       "num": 199331,
       "word": "王一博刘雯辛芷蕾同框",
@@ -833,6 +841,14 @@
       "onboard_time": 1670559136,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 195644,
+      "num": 195644,
+      "word": "宋亚轩百忧戒舞台直拍视频",
+      "onboard_time": 1670563819,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 193393,
@@ -875,12 +891,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 189746,
+      "num": 189746,
+      "word": "许半夏好像在当一种很新的老板",
+      "onboard_time": 1670563819,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 189341,
+      "num": 189341,
+      "word": "竟然被一只大熊猫背影杀了",
+      "onboard_time": 1670563456,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 188997,
       "num": 135740,
       "word": "王鹤棣粉色卫衣上班路透",
       "onboard_time": 1670556914,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 187178,
+      "num": 187178,
+      "word": "安崎梁靖康现代爱情故事",
+      "onboard_time": 1670563876,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 186289,
@@ -1032,6 +1072,14 @@
       "word": "研究称生育会导致骨骼永久变化",
       "onboard_time": 1670495057,
       "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 142954,
+      "num": 142954,
+      "word": "如果陈祥榕还在今天21岁了",
+      "onboard_time": 1670563936,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
