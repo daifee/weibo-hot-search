@@ -1,10 +1,10 @@
 {
   "startTime": 1670603204032,
-  "endTime": 1670603204032,
+  "endTime": 1670604293813,
   "band_list": [
     {
-      "raw_hot": 1945175,
-      "num": 1945175,
+      "raw_hot": 2235061,
+      "num": 2235061,
       "word": "克罗地亚vs巴西",
       "onboard_time": 1670594060,
       "rank": 0,
@@ -20,11 +20,19 @@
     },
     {
       "raw_hot": 1728973,
-      "num": 655008,
+      "num": 723834,
       "word": "白敬亭说和田曦薇现实中也是非常好的朋友",
       "onboard_time": 1670600481,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1710225,
+      "num": 1710225,
+      "word": "克罗地亚门将",
+      "onboard_time": 1670601080,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 1489329,
@@ -32,6 +40,14 @@
       "word": "克罗地亚半场0比0巴西",
       "onboard_time": 1670601319,
       "rank": 3,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1385906,
+      "num": 1385906,
+      "word": "巴西队又双叒有人染白发了",
+      "onboard_time": 1670599879,
+      "rank": 5,
       "category": "体育"
     },
     {
@@ -43,11 +59,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 953135,
-      "num": 953135,
-      "word": "巴西队又双叒有人染白发了",
-      "onboard_time": 1670599879,
-      "rank": 5,
+      "raw_hot": 983635,
+      "num": 983635,
+      "word": "内马尔状态",
+      "onboard_time": 1670602397,
+      "rank": 12,
       "category": "体育"
     },
     {
@@ -59,20 +75,20 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 743459,
-      "num": 743459,
-      "word": "克罗地亚门将",
-      "onboard_time": 1670601080,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 691768,
-      "num": 691768,
+      "raw_hot": 790714,
+      "num": 790714,
       "word": "厂家称黄桃罐头没有任何药效",
       "onboard_time": 1670600000,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 742261,
+      "num": 742261,
+      "word": "克罗地亚 上届亚军",
+      "onboard_time": 1670602936,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 664537,
@@ -83,6 +99,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 611808,
+      "num": 611808,
+      "word": "浦东机场",
+      "onboard_time": 1670600597,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 551894,
       "num": 551894,
       "word": "中国四大直辖市完成换帅",
@@ -91,28 +115,12 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 542588,
-      "num": 542588,
-      "word": "内马尔状态",
-      "onboard_time": 1670602397,
-      "rank": 12,
-      "category": "体育"
-    },
-    {
       "raw_hot": 444755,
       "num": 444755,
       "word": "卿卿日常 传承",
       "onboard_time": 1670595740,
       "rank": 13,
       "category": "影视"
-    },
-    {
-      "raw_hot": 439940,
-      "num": 439940,
-      "word": "浦东机场",
-      "onboard_time": 1670600597,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 423358,
@@ -139,12 +147,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 344265,
-      "num": 344265,
-      "word": "克罗地亚 上届亚军",
-      "onboard_time": 1670602936,
-      "rank": 18,
-      "category": "体育"
+      "raw_hot": 361453,
+      "num": 361453,
+      "word": "健康码会走入历史吗",
+      "onboard_time": 1670601497,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 332938,
+      "num": 332938,
+      "word": "财阀家的小儿子",
+      "onboard_time": 1670598322,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 330458,
@@ -155,14 +171,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 328179,
-      "num": 328179,
-      "word": "财阀家的小儿子",
-      "onboard_time": 1670598322,
-      "rank": 20,
-      "category": "影视"
-    },
-    {
       "raw_hot": 324210,
       "num": 324210,
       "word": "陈飞宇说很荣幸能演绎李峋的人生",
@@ -171,12 +179,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 297380,
-      "num": 297380,
+      "raw_hot": 321910,
+      "num": 321910,
       "word": "绍兴姑娘商场消费上万但不舍打车",
       "onboard_time": 1670601023,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 318237,
+      "num": 318237,
+      "word": "王石分享感染新冠经历",
+      "onboard_time": 1670602277,
+      "rank": 35,
+      "category": "财经"
     },
     {
       "raw_hot": 297259,
@@ -185,6 +201,14 @@
       "onboard_time": 1670588600,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 295590,
+      "num": 295590,
+      "word": "节气姑娘有了自己的名字",
+      "onboard_time": 1670602696,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 293328,
@@ -227,14 +251,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 274321,
-      "num": 274321,
-      "word": "健康码会走入历史吗",
-      "onboard_time": 1670601497,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 270806,
       "num": 270806,
       "word": "莫德里奇",
@@ -243,8 +259,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 262362,
-      "num": 262362,
+      "raw_hot": 262399,
+      "num": 262399,
       "word": "女子花千元买柯基第二天查出细小",
       "onboard_time": 1670600424,
       "rank": 27,
@@ -256,14 +272,6 @@
       "word": "卿卿日常 群像",
       "onboard_time": 1670595863,
       "rank": 33,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 251019,
-      "num": 158286,
-      "word": "节气姑娘有了自己的名字",
-      "onboard_time": 1670602696,
-      "rank": 40,
       "category": "影视"
     },
     {
@@ -284,7 +292,7 @@
     },
     {
       "raw_hot": 242760,
-      "num": 158187,
+      "num": 180931,
       "word": "卿卿日常 女性角色",
       "onboard_time": 1670601627,
       "rank": 41,
@@ -299,12 +307,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 198978,
-      "num": 198978,
-      "word": "王石分享感染新冠经历",
-      "onboard_time": 1670602277,
-      "rank": 35,
-      "category": "财经"
+      "raw_hot": 232767,
+      "num": 183491,
+      "word": "哇唧唧哇创始人说颜值经济是一种危机",
+      "onboard_time": 1670604020,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 190438,
@@ -337,6 +345,14 @@
       "onboard_time": 1670588359,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 158032,
+      "num": 158032,
+      "word": "魔笛 胖虎",
+      "onboard_time": 1670603536,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 157861,
@@ -401,11 +417,22 @@
       "onboard_time": 1670590826,
       "rank": 49,
       "category": "教育"
+    },
+    {
+      "raw_hot": 107890,
+      "num": 107890,
+      "word": "克罗地亚门将可爱",
+      "onboard_time": 1670604075,
+      "rank": 48,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
     {
       "word": "#中阿峰会是个什么会#"
+    },
+    {
+      "word": "#在实现民族振兴的道路上携手前进#"
     }
   ]
 }

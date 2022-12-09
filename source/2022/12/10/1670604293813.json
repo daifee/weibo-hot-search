@@ -1,0 +1,410 @@
+{
+  "runTime": 1670604293813,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2235061,
+        "num": 2235061,
+        "word": "克罗地亚vs巴西",
+        "onboard_time": 1670594060,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1710225,
+        "num": 1710225,
+        "word": "克罗地亚门将",
+        "onboard_time": 1670601080,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 271996,
+        "num": 1468882,
+        "word": "迈向结束疫情生活的道路不等于结束疫情",
+        "onboard_time": 1670591660,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1446925,
+        "num": 1446925,
+        "word": "巴西状态",
+        "onboard_time": 1670599759,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1385906,
+        "num": 1385906,
+        "word": "巴西队又双叒有人染白发了",
+        "onboard_time": 1670599879,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1004972,
+        "num": 1004972,
+        "word": "克罗地亚半场0比0巴西",
+        "onboard_time": 1670601319,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 983635,
+        "num": 983635,
+        "word": "内马尔状态",
+        "onboard_time": 1670602397,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 838792,
+        "num": 838792,
+        "word": "4人毒杀89只狗",
+        "onboard_time": 1670599518,
+        "rank": 7,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 790714,
+        "num": 790714,
+        "word": "厂家称黄桃罐头没有任何药效",
+        "onboard_time": 1670600000,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 742261,
+        "num": 742261,
+        "word": "克罗地亚 上届亚军",
+        "onboard_time": 1670602936,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1524229,
+        "num": 723834,
+        "word": "白敬亭说和田曦薇现实中也是非常好的朋友",
+        "onboard_time": 1670600481,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 700922,
+        "num": 700922,
+        "word": "张栋梁17年前vs17年后",
+        "onboard_time": 1670594001,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 611808,
+        "num": 611808,
+        "word": "浦东机场",
+        "onboard_time": 1670600597,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 466072,
+        "num": 466072,
+        "word": "中国四大直辖市完成换帅",
+        "onboard_time": 1670591240,
+        "rank": 13,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 411734,
+        "num": 411734,
+        "word": "孙悦 状态",
+        "onboard_time": 1670598322,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 375774,
+        "num": 375774,
+        "word": "卿卿日常 传承",
+        "onboard_time": 1670595740,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 373419,
+        "num": 373419,
+        "word": "郝葭 芳如",
+        "onboard_time": 1670596280,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 361453,
+        "num": 361453,
+        "word": "健康码会走入历史吗",
+        "onboard_time": 1670601497,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 332938,
+        "num": 332938,
+        "word": "财阀家的小儿子",
+        "onboard_time": 1670598322,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 323368,
+        "num": 323368,
+        "word": "有个来报恩的女儿是种什么体验",
+        "onboard_time": 1670598560,
+        "rank": 19,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 321910,
+        "num": 321910,
+        "word": "绍兴姑娘商场消费上万但不舍打车",
+        "onboard_time": 1670601023,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318237,
+        "num": 318237,
+        "word": "王石分享感染新冠经历",
+        "onboard_time": 1670602277,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 295590,
+        "num": 295590,
+        "word": "节气姑娘有了自己的名字",
+        "onboard_time": 1670602696,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 262399,
+        "num": 262399,
+        "word": "女子花千元买柯基第二天查出细小",
+        "onboard_time": 1670600424,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257544,
+        "num": 257544,
+        "word": "陈飞宇说很荣幸能演绎李峋的人生",
+        "onboard_time": 1670597837,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 251120,
+        "num": 251120,
+        "word": "王嘉尔 可能是最后一支MV了",
+        "onboard_time": 1670583629,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 238820,
+        "num": 238820,
+        "word": "莫德里奇",
+        "onboard_time": 1670598322,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 214053,
+        "num": 214053,
+        "word": "不用再担心核酸阳性医院不接诊",
+        "onboard_time": 1670575160,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208061,
+        "num": 208061,
+        "word": "4类人群不建议首选布洛芬退烧",
+        "onboard_time": 1670581580,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192909,
+        "num": 192909,
+        "word": "梅西",
+        "onboard_time": 1670588600,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 249947,
+        "num": 190014,
+        "word": "少爷和我",
+        "onboard_time": 1670591300,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 232767,
+        "num": 183491,
+        "word": "哇唧唧哇创始人说颜值经济是一种危机",
+        "onboard_time": 1670604020,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230785,
+        "num": 180931,
+        "word": "卿卿日常 女性角色",
+        "onboard_time": 1670601627,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 225799,
+        "num": 174035,
+        "word": "陈奕迅 演唱会",
+        "onboard_time": 1670585539,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 221728,
+        "num": 167006,
+        "word": "卿卿日常 群像",
+        "onboard_time": 1670595863,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 221259,
+        "num": 164451,
+        "word": "NCT4名成员发生坠落事故",
+        "onboard_time": 1670584161,
+        "rank": 35,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 158782,
+        "num": 158782,
+        "word": "黄桃罐头",
+        "onboard_time": 1670581880,
+        "rank": 36,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 158032,
+        "num": 158032,
+        "word": "魔笛 胖虎",
+        "onboard_time": 1670603536,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153503,
+        "num": 153503,
+        "word": "男子未戴手套制作蛋糕胚被指恶心",
+        "onboard_time": 1670583680,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148325,
+        "num": 148325,
+        "word": "女子买螃蟹抓掉到楼下的袜子",
+        "onboard_time": 1670595502,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144020,
+        "num": 144020,
+        "word": "睡眠不好的人有福了",
+        "onboard_time": 1670581340,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140325,
+        "num": 140325,
+        "word": "世界杯直播",
+        "onboard_time": 1670602338,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137993,
+        "num": 137993,
+        "word": "Doinb",
+        "onboard_time": 1670588359,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 122743,
+        "num": 122743,
+        "word": "六级",
+        "onboard_time": 1670594538,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 121788,
+        "num": 121788,
+        "word": "男子点炸鸡没熟反馈后被补偿炸焦的",
+        "onboard_time": 1670580558,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116278,
+        "num": 116278,
+        "word": "伊朗大使称在伊朗女性地位更高",
+        "onboard_time": 1670591780,
+        "rank": 45,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 114640,
+        "num": 114640,
+        "word": "财政部决定发行7500亿元特别国债",
+        "onboard_time": 1670582542,
+        "rank": 46,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 110604,
+        "num": 110604,
+        "word": "被考研人的一天整破防了",
+        "onboard_time": 1670582181,
+        "rank": 47,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 107890,
+        "num": 107890,
+        "word": "克罗地亚门将可爱",
+        "onboard_time": 1670604075,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98020,
+        "num": 107810,
+        "word": "克罗地亚狂想曲 桑巴",
+        "onboard_time": 1670600000,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#在实现民族振兴的道路上携手前进#"
+    }
+  }
+}
