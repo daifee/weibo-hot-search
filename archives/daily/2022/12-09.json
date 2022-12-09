@@ -1,6 +1,6 @@
 {
   "startTime": 1670516838629,
-  "endTime": 1670564010943,
+  "endTime": 1670566986310,
   "band_list": [
     {
       "raw_hot": 8994548,
@@ -49,6 +49,14 @@
       "onboard_time": 1670548029,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1555094,
+      "num": 1555094,
+      "word": "导演说赵丽颖让团队决定接下风吹半夏",
+      "onboard_time": 1670563036,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 1508200,
@@ -171,14 +179,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 721382,
-      "num": 721382,
-      "word": "导演说赵丽颖让团队决定接下风吹半夏",
-      "onboard_time": 1670563036,
-      "rank": 9,
-      "category": "影视"
-    },
-    {
       "raw_hot": 719020,
       "num": 719020,
       "word": "钟南山院士称无症状可能不算病",
@@ -233,6 +233,14 @@
       "onboard_time": 1670555354,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 604951,
+      "num": 510491,
+      "word": "男生玩游戏不小心扒掉老师裤子",
+      "onboard_time": 1670561656,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 590102,
@@ -291,8 +299,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 538962,
-      "num": 538962,
+      "raw_hot": 539821,
+      "num": 539821,
       "word": "6旬老人患癌两年报销近百万",
       "onboard_time": 1670561598,
       "rank": 22,
@@ -331,6 +339,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 496056,
+      "num": 496056,
+      "word": "竟然被一只大熊猫背影杀了",
+      "onboard_time": 1670563456,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 492814,
       "num": 492814,
       "word": "欧豪风吹半夏未播镜头",
@@ -363,14 +379,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 431973,
-      "num": 431973,
-      "word": "男生玩游戏不小心扒掉老师裤子",
-      "onboard_time": 1670561656,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 427733,
       "num": 427733,
       "word": "泫雅或将签约朴宰范经纪公司",
@@ -393,6 +401,14 @@
       "onboard_time": 1670510239,
       "rank": 14,
       "category": "教育"
+    },
+    {
+      "raw_hot": 416833,
+      "num": 416833,
+      "word": "钟南山回应新冠后遗症",
+      "onboard_time": 1670565623,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 416276,
@@ -449,6 +465,30 @@
       "onboard_time": 1670558474,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 382167,
+      "num": 382167,
+      "word": "杨紫说颜淡的新剧本已就位",
+      "onboard_time": 1670565314,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 376902,
+      "num": 376902,
+      "word": "张婧仪回应朱韵恋爱脑",
+      "onboard_time": 1670564897,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 368837,
+      "num": 368837,
+      "word": "原神瑶瑶",
+      "onboard_time": 1670560818,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 359178,
@@ -579,11 +619,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 272617,
-      "num": 272617,
-      "word": "原神瑶瑶",
-      "onboard_time": 1670560818,
-      "rank": 38,
+      "raw_hot": 276422,
+      "num": 276422,
+      "word": "网易将在逆水寒中为魔兽老兵提供主题服",
+      "onboard_time": 1670564776,
+      "rank": 21,
       "category": "游戏"
     },
     {
@@ -673,6 +713,14 @@
       "onboard_time": 1670550970,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 244218,
+      "num": 244218,
+      "word": "刘璇一家四口首封",
+      "onboard_time": 1670564356,
+      "rank": 24,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 243232,
@@ -811,6 +859,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 204514,
+      "num": 204514,
+      "word": "蔡依林MV扮演DJ",
+      "onboard_time": 1670564178,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 203783,
       "num": 203783,
       "word": "光遇",
@@ -849,6 +905,14 @@
       "onboard_time": 1670563819,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 195448,
+      "num": 195448,
+      "word": "艾尔登法环获年度最佳游戏",
+      "onboard_time": 1670566819,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 193393,
@@ -891,20 +955,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 189939,
+      "num": 189939,
+      "word": "黄澄澄演技",
+      "onboard_time": 1670566756,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 189746,
       "num": 189746,
       "word": "许半夏好像在当一种很新的老板",
       "onboard_time": 1670563819,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 189341,
-      "num": 189341,
-      "word": "竟然被一只大熊猫背影杀了",
-      "onboard_time": 1670563456,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 188997,
@@ -971,6 +1035,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 174658,
+      "num": 174658,
+      "word": "时代少年团东榜舞台直拍",
+      "onboard_time": 1670565623,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 167179,
+      "num": 154192,
+      "word": "王鹤棣用收获总结2022年",
+      "onboard_time": 1670565496,
+      "rank": 40,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 166765,
       "num": 166765,
       "word": "EDG",
@@ -993,6 +1073,14 @@
       "onboard_time": 1670544429,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 155608,
+      "num": 154009,
+      "word": "苏有朋登billboard中国封面",
+      "onboard_time": 1670564957,
+      "rank": 41,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 154170,
@@ -1147,6 +1235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 136820,
+      "num": 136820,
+      "word": "钟南山建议老年人足量全程接种疫苗",
+      "onboard_time": 1670565314,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 135585,
       "num": 135585,
       "word": "你好星期六",
@@ -1169,6 +1265,14 @@
       "onboard_time": 1670550429,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 131731,
+      "num": 131731,
+      "word": "年轻人追世界杯是为了合群吗",
+      "onboard_time": 1670566878,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 130986,
@@ -1203,6 +1307,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 128219,
+      "num": 128219,
+      "word": "广东这6座城市最适合养老",
+      "onboard_time": 1670566098,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 128062,
       "num": 128062,
       "word": "如何看待年轻人喜欢云逛市集",
@@ -1225,6 +1337,14 @@
       "onboard_time": 1670491876,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 124196,
+      "num": 124196,
+      "word": "个人防疫手册",
+      "onboard_time": 1670565797,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 123294,
