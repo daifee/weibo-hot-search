@@ -1,6 +1,6 @@
 {
   "startTime": 1670516838629,
-  "endTime": 1670556964063,
+  "endTime": 1670559799793,
   "band_list": [
     {
       "raw_hot": 8994548,
@@ -99,8 +99,24 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 849179,
+      "num": 544879,
+      "word": "达州疫情防控",
+      "onboard_time": 1670553073,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 840371,
+      "num": 840371,
+      "word": "19岁女生断骨增高后无法行走",
+      "onboard_time": 1670558354,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 756757,
-      "num": 533132,
+      "num": 543150,
       "word": "张婧仪骑士公主纱裙十二宫格",
       "onboard_time": 1670556854,
       "rank": 11,
@@ -147,14 +163,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 670217,
-      "num": 516097,
-      "word": "达州疫情防控",
-      "onboard_time": 1670553073,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 660238,
       "num": 660238,
       "word": "奶奶看错时间凌晨叫孩子吃饭上学",
@@ -171,12 +179,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 630419,
+      "num": 630419,
+      "word": "李兰娟称无症状感染不是疾病",
+      "onboard_time": 1670555953,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 590102,
       "num": 590102,
       "word": "小炒黄牛肉",
       "onboard_time": 1670513059,
       "rank": 5,
       "category": "美食"
+    },
+    {
+      "raw_hot": 587902,
+      "num": 587902,
+      "word": "电视剧大赏",
+      "onboard_time": 1670556975,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 583117,
@@ -203,12 +227,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 554862,
+      "num": 554862,
+      "word": "1.35米男子找工作遇挫回乡后月入过万",
+      "onboard_time": 1670553914,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 536202,
+      "num": 536202,
+      "word": "母亲因孩子吵遭邻居多人围殴",
+      "onboard_time": 1670555233,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 528693,
       "num": 426080,
       "word": "元旦春节将使疫情形势达到高峰",
       "onboard_time": 1670497819,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 506583,
+      "num": 506583,
+      "word": "原神",
+      "onboard_time": 1670558418,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 505535,
@@ -227,6 +275,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 501742,
+      "num": 501742,
+      "word": "情侣给对方惊喜不料喜提4台手机",
+      "onboard_time": 1670558595,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 492814,
       "num": 492814,
       "word": "欧豪风吹半夏未播镜头",
@@ -235,12 +291,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 476143,
-      "num": 476143,
-      "word": "1.35米男子找工作遇挫回乡后月入过万",
-      "onboard_time": 1670553914,
-      "rank": 31,
-      "category": "社会新闻"
+      "raw_hot": 471579,
+      "num": 471579,
+      "word": "LOL全明星将被取消",
+      "onboard_time": 1670556073,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 454504,
@@ -331,12 +387,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 355601,
-      "num": 355601,
-      "word": "LOL全明星将被取消",
-      "onboard_time": 1670556073,
-      "rank": 49,
-      "category": "游戏"
+      "raw_hot": 384712,
+      "num": 384712,
+      "word": "虞书欣对小兰花和虞美人说排名不分先后",
+      "onboard_time": 1670558474,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 353419,
@@ -363,12 +419,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 331096,
+      "num": 331096,
+      "word": "这是打折款小猫吧",
+      "onboard_time": 1670557392,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 329590,
       "num": 329590,
       "word": "刘耀文新歌简介",
       "onboard_time": 1670555894,
       "rank": 16,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 326200,
+      "num": 326200,
+      "word": "男子切羊肉卷切出大片抹茶绿",
+      "onboard_time": 1670558955,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 325026,
@@ -385,14 +457,6 @@
       "onboard_time": 1670552773,
       "rank": 16,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 315466,
-      "num": 315466,
-      "word": "母亲因孩子吵遭邻居多人围殴",
-      "onboard_time": 1670555233,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 305411,
@@ -465,6 +529,14 @@
       "onboard_time": 1670554033,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 252224,
+      "num": 252224,
+      "word": "义乌兔年小商品火爆",
+      "onboard_time": 1670556793,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 249235,
@@ -611,12 +683,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 198817,
-      "num": 198817,
-      "word": "李兰娟称无症状感染不是疾病",
-      "onboard_time": 1670555953,
-      "rank": 43,
-      "category": "社会新闻"
+      "raw_hot": 198196,
+      "num": 198196,
+      "word": "风吹半夏主创评价赵丽颖",
+      "onboard_time": 1670559136,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 193393,
@@ -641,6 +713,14 @@
       "onboard_time": 1670544011,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 192129,
+      "num": 192129,
+      "word": "胡歌说张新成未来可期",
+      "onboard_time": 1670559674,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 191292,
@@ -673,6 +753,14 @@
       "onboard_time": 1670554393,
       "rank": 32,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 178559,
+      "num": 178559,
+      "word": "柯南新电影密钥延期至0117",
+      "onboard_time": 1670557574,
+      "rank": 43,
+      "category": "动漫,影视"
     },
     {
       "raw_hot": 176011,
@@ -768,6 +856,14 @@
       "word": "核酸检测才是检验新冠的金标准",
       "onboard_time": 1670497037,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 144949,
+      "num": 144949,
+      "word": "2023年春节可拼出16天长假",
+      "onboard_time": 1670558115,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -881,6 +977,14 @@
       "onboard_time": 1670506458,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 129956,
+      "num": 141950,
+      "word": "原神获TGA玩家之声",
+      "onboard_time": 1670559674,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 128809,
