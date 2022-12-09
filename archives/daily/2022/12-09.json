@@ -1,6 +1,6 @@
 {
   "startTime": 1670516838629,
-  "endTime": 1670559799793,
+  "endTime": 1670560758077,
   "band_list": [
     {
       "raw_hot": 8994548,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1971502,
-      "num": 555110,
+      "num": 660447,
       "word": "妻子4小时备火锅丈夫转身另煮面吃",
       "onboard_time": 1670546950,
       "rank": 10,
@@ -40,6 +40,14 @@
       "word": "钟南山称99%感染者7至10天完全恢复",
       "onboard_time": 1670548029,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1695905,
+      "num": 1695905,
+      "word": "19岁女生断骨增高后无法行走",
+      "onboard_time": 1670558354,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -83,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1104331,
+      "num": 1104331,
+      "word": "Rookie加入TES",
+      "onboard_time": 1670559795,
+      "rank": 5,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1025809,
       "num": 427005,
       "word": "核酸检测公司开始破产了",
@@ -99,19 +115,27 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 849179,
-      "num": 544879,
-      "word": "达州疫情防控",
-      "onboard_time": 1670553073,
-      "rank": 25,
+      "raw_hot": 886100,
+      "num": 886100,
+      "word": "男子切羊肉卷切出大片抹茶绿",
+      "onboard_time": 1670558955,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 840371,
-      "num": 840371,
-      "word": "19岁女生断骨增高后无法行走",
-      "onboard_time": 1670558354,
-      "rank": 4,
+      "raw_hot": 879867,
+      "num": 879867,
+      "word": "情侣给对方惊喜不料喜提4台手机",
+      "onboard_time": 1670558595,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 849179,
+      "num": 654734,
+      "word": "达州疫情防控",
+      "onboard_time": 1670553073,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -121,6 +145,14 @@
       "onboard_time": 1670556854,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 737010,
+      "num": 737010,
+      "word": "李兰娟称无症状感染不是疾病",
+      "onboard_time": 1670555953,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 721792,
@@ -163,6 +195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 671702,
+      "num": 671702,
+      "word": "原神",
+      "onboard_time": 1670558418,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 660238,
       "num": 660238,
       "word": "奶奶看错时间凌晨叫孩子吃饭上学",
@@ -177,14 +217,6 @@
       "onboard_time": 1670555354,
       "rank": 8,
       "category": "影视"
-    },
-    {
-      "raw_hot": 630419,
-      "num": 630419,
-      "word": "李兰娟称无症状感染不是疾病",
-      "onboard_time": 1670555953,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 590102,
@@ -235,8 +267,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 536202,
-      "num": 536202,
+      "raw_hot": 541518,
+      "num": 541518,
       "word": "母亲因孩子吵遭邻居多人围殴",
       "onboard_time": 1670555233,
       "rank": 34,
@@ -249,14 +281,6 @@
       "onboard_time": 1670497819,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 506583,
-      "num": 506583,
-      "word": "原神",
-      "onboard_time": 1670558418,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 505535,
@@ -273,14 +297,6 @@
       "onboard_time": 1670545629,
       "rank": 11,
       "category": "情感"
-    },
-    {
-      "raw_hot": 501742,
-      "num": 501742,
-      "word": "情侣给对方惊喜不料喜提4台手机",
-      "onboard_time": 1670558595,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 492814,
@@ -395,6 +411,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 359178,
+      "num": 359178,
+      "word": "这是打折款小猫吧",
+      "onboard_time": 1670557392,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 357778,
+      "num": 357778,
+      "word": "胡歌说张新成未来可期",
+      "onboard_time": 1670559674,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 353419,
       "num": 353419,
       "word": "如何利用朋友圈正向社交",
@@ -419,28 +451,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 331096,
-      "num": 331096,
-      "word": "这是打折款小猫吧",
-      "onboard_time": 1670557392,
-      "rank": 23,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 329590,
       "num": 329590,
       "word": "刘耀文新歌简介",
       "onboard_time": 1670555894,
       "rank": 16,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 326200,
-      "num": 326200,
-      "word": "男子切羊肉卷切出大片抹茶绿",
-      "onboard_time": 1670558955,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 325026,
@@ -473,6 +489,14 @@
       "onboard_time": 1670554994,
       "rank": 21,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 280431,
+      "num": 280431,
+      "word": "义乌兔年小商品火爆",
+      "onboard_time": 1670556793,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 279104,
@@ -531,12 +555,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 252224,
-      "num": 252224,
-      "word": "义乌兔年小商品火爆",
-      "onboard_time": 1670556793,
-      "rank": 28,
-      "category": "社会新闻"
+      "raw_hot": 252499,
+      "num": 252499,
+      "word": "撒贝宁何同学梦幻联动",
+      "onboard_time": 1670553973,
+      "rank": 37,
+      "category": "科技,艺人"
     },
     {
       "raw_hot": 249235,
@@ -611,14 +635,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 229780,
-      "num": 229780,
-      "word": "撒贝宁何同学梦幻联动",
-      "onboard_time": 1670553973,
-      "rank": 37,
-      "category": "科技,艺人"
-    },
-    {
       "raw_hot": 227947,
       "num": 227947,
       "word": "沈小婷跳HypeBoy",
@@ -651,6 +667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 212957,
+      "num": 212957,
+      "word": "微博综艺大赏",
+      "onboard_time": 1670560455,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 209467,
       "num": 209467,
       "word": "县委大院 真实",
@@ -660,7 +684,7 @@
     },
     {
       "raw_hot": 208256,
-      "num": 180104,
+      "num": 184766,
       "word": "卿卿日常今晚大结局了",
       "onboard_time": 1670552533,
       "rank": 38,
@@ -691,6 +715,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 195529,
+      "num": 195529,
+      "word": "这就是势均力敌的美貌吧",
+      "onboard_time": 1670558896,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 193393,
       "num": 193393,
       "word": "金铲铲",
@@ -713,14 +745,6 @@
       "onboard_time": 1670544011,
       "rank": 28,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 192129,
-      "num": 192129,
-      "word": "胡歌说张新成未来可期",
-      "onboard_time": 1670559674,
-      "rank": 41,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 191292,
@@ -753,6 +777,22 @@
       "onboard_time": 1670554393,
       "rank": 32,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 184188,
+      "num": 184188,
+      "word": "2023年春节可拼出16天长假",
+      "onboard_time": 1670558115,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 180139,
+      "num": 180139,
+      "word": "进世界杯的方法找到了",
+      "onboard_time": 1670560394,
+      "rank": 46,
+      "category": "体育,幽默"
     },
     {
       "raw_hot": 178559,
@@ -835,6 +875,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 150198,
+      "num": 168863,
+      "word": "新冠康复日记",
+      "onboard_time": 1670560034,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 148093,
       "num": 148093,
       "word": "重庆地铁回应运行过程中车门敞开",
@@ -856,14 +904,6 @@
       "word": "核酸检测才是检验新冠的金标准",
       "onboard_time": 1670497037,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 144949,
-      "num": 144949,
-      "word": "2023年春节可拼出16天长假",
-      "onboard_time": 1670558115,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -1217,6 +1257,14 @@
       "onboard_time": 1670528413,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 42063,
+      "num": 1607419,
+      "word": "做好个人防护的8个小贴士",
+      "onboard_time": 1670560276,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 32921,
