@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1670628002988,
+  "endTime": 1670628848711,
   "band_list": [
     {
       "raw_hot": 11360361,
@@ -1899,8 +1899,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1138619,
-      "num": 1138619,
+      "raw_hot": 1148790,
+      "num": 1148790,
       "word": "巴西爆冷",
       "onboard_time": 1670608756,
       "rank": 18,
@@ -2721,6 +2721,14 @@
       "onboard_time": 1670415974,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 889185,
+      "num": 889185,
+      "word": "荷兰5比6阿根廷",
+      "onboard_time": 1670625013,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 882561,
@@ -6097,14 +6105,6 @@
       "onboard_time": 1670423417,
       "rank": 14,
       "category": "影视"
-    },
-    {
-      "raw_hot": 486018,
-      "num": 486018,
-      "word": "荷兰5比6阿根廷",
-      "onboard_time": 1670625013,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 485540,
@@ -12067,6 +12067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 223901,
+      "num": 223901,
+      "word": "央视曝光天价疏通马桶骗局",
+      "onboard_time": 1670615893,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 223868,
       "num": 1626004,
       "word": "羽生结弦冰演",
@@ -13827,6 +13835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 181948,
+      "num": 181948,
+      "word": "圣马丁",
+      "onboard_time": 1670628732,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 181903,
       "num": 168388,
       "word": "如何看待自我感动式的爱",
@@ -13897,6 +13913,14 @@
       "onboard_time": 1670406913,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 180968,
+      "num": 180968,
+      "word": "世界杯四强",
+      "onboard_time": 1670628250,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 180758,
@@ -15619,14 +15643,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 150151,
-      "num": 150151,
-      "word": "央视曝光天价疏通马桶骗局",
-      "onboard_time": 1670615893,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 150005,
       "num": 150005,
       "word": "云之羽",
@@ -16971,6 +16987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 130301,
+      "num": 130301,
+      "word": "阿根廷点球",
+      "onboard_time": 1670628131,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 129956,
       "num": 141950,
       "word": "原神获TGA玩家之声",
@@ -17169,6 +17193,14 @@
       "onboard_time": 1669955710,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 126650,
+      "num": 106497,
+      "word": "内马尔点球",
+      "onboard_time": 1670628131,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 126550,
@@ -17617,6 +17649,14 @@
       "onboard_time": 1670594426,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 119694,
+      "num": 119694,
+      "word": "劳塔罗自我救赎",
+      "onboard_time": 1670628549,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 119415,
@@ -18425,6 +18465,14 @@
       "onboard_time": 1670159292,
       "rank": 46,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 107066,
+      "num": 107066,
+      "word": "帕雷德斯",
+      "onboard_time": 1670628549,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 106989,
@@ -19664,6 +19712,14 @@
       "word": "梅西又双叒被撞脸",
       "onboard_time": 1670521032,
       "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 71776,
+      "num": 71776,
+      "word": "阿根廷黄牌",
+      "onboard_time": 1670628490,
+      "rank": 48,
       "category": "体育"
     },
     {

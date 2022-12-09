@@ -1,6 +1,6 @@
 {
   "startTime": 1670603204032,
-  "endTime": 1670628002988,
+  "endTime": 1670628848711,
   "band_list": [
     {
       "raw_hot": 11360361,
@@ -171,8 +171,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1138619,
-      "num": 1138619,
+      "raw_hot": 1148790,
+      "num": 1148790,
       "word": "巴西爆冷",
       "onboard_time": 1670608756,
       "rank": 18,
@@ -193,6 +193,14 @@
       "onboard_time": 1670594001,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 889185,
+      "num": 889185,
+      "word": "荷兰5比6阿根廷",
+      "onboard_time": 1670625013,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 879267,
@@ -281,14 +289,6 @@
       "onboard_time": 1670591240,
       "rank": 11,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 486018,
-      "num": 486018,
-      "word": "荷兰5比6阿根廷",
-      "onboard_time": 1670625013,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 444755,
@@ -563,6 +563,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 223901,
+      "num": 223901,
+      "word": "央视曝光天价疏通马桶骗局",
+      "onboard_time": 1670615893,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 190438,
       "num": 190438,
       "word": "男子未戴手套制作蛋糕胚被指恶心",
@@ -576,6 +584,22 @@
       "word": "阿根廷首发",
       "onboard_time": 1670610916,
       "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 181948,
+      "num": 181948,
+      "word": "圣马丁",
+      "onboard_time": 1670628732,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 180968,
+      "num": 180968,
+      "word": "世界杯四强",
+      "onboard_time": 1670628250,
+      "rank": 24,
       "category": "体育"
     },
     {
@@ -641,14 +665,6 @@
       "onboard_time": 1670610675,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 150151,
-      "num": 150151,
-      "word": "央视曝光天价疏通马桶骗局",
-      "onboard_time": 1670615893,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 147545,
@@ -723,12 +739,36 @@
       "category": "情感,教育"
     },
     {
+      "raw_hot": 130301,
+      "num": 130301,
+      "word": "阿根廷点球",
+      "onboard_time": 1670628131,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 127016,
       "num": 134396,
       "word": "四级",
       "onboard_time": 1670590826,
       "rank": 49,
       "category": "教育"
+    },
+    {
+      "raw_hot": 126650,
+      "num": 106497,
+      "word": "内马尔点球",
+      "onboard_time": 1670628131,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 119694,
+      "num": 119694,
+      "word": "劳塔罗自我救赎",
+      "onboard_time": 1670628549,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 119202,
@@ -744,6 +784,14 @@
       "word": "内马尔个人能力",
       "onboard_time": 1670610074,
       "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 107066,
+      "num": 107066,
+      "word": "帕雷德斯",
+      "onboard_time": 1670628549,
+      "rank": 33,
       "category": "体育"
     },
     {
@@ -779,12 +827,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 76833,
+      "num": 76833,
+      "word": "梅西点球",
+      "onboard_time": 1670628671,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 75298,
       "num": 75298,
       "word": "如何评价韩剧财阀家的小儿子",
       "onboard_time": 1670607557,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 71776,
+      "num": 71776,
+      "word": "阿根廷黄牌",
+      "onboard_time": 1670628490,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 60071,
