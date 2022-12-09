@@ -1,6 +1,6 @@
 {
   "startTime": 1670516838629,
-  "endTime": 1670556115560,
+  "endTime": 1670556964063,
   "band_list": [
     {
       "raw_hot": 8994548,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1971502,
-      "num": 516714,
+      "num": 555110,
       "word": "妻子4小时备火锅丈夫转身另煮面吃",
       "onboard_time": 1670546950,
       "rank": 10,
@@ -99,6 +99,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 756757,
+      "num": 533132,
+      "word": "张婧仪骑士公主纱裙十二宫格",
+      "onboard_time": 1670556854,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 721792,
       "num": 721792,
       "word": "想见你",
@@ -139,6 +147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 670217,
+      "num": 516097,
+      "word": "达州疫情防控",
+      "onboard_time": 1670553073,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 660238,
       "num": 660238,
       "word": "奶奶看错时间凌晨叫孩子吃饭上学",
@@ -147,8 +163,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 595267,
-      "num": 595267,
+      "raw_hot": 641621,
+      "num": 641621,
       "word": "张艺凡终于和井柏然合作了",
       "onboard_time": 1670555354,
       "rank": 8,
@@ -179,8 +195,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 535516,
-      "num": 535516,
+      "raw_hot": 566938,
+      "num": 566938,
       "word": "00后木鱼购买人数增速超中年人2倍",
       "onboard_time": 1670551753,
       "rank": 19,
@@ -211,11 +227,19 @@
       "category": "情感"
     },
     {
-      "raw_hot": 488593,
-      "num": 488593,
-      "word": "达州疫情防控",
-      "onboard_time": 1670553073,
-      "rank": 25,
+      "raw_hot": 492814,
+      "num": 492814,
+      "word": "欧豪风吹半夏未播镜头",
+      "onboard_time": 1670556073,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 476143,
+      "num": 476143,
+      "word": "1.35米男子找工作遇挫回乡后月入过万",
+      "onboard_time": 1670553914,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -232,14 +256,6 @@
       "word": "重庆烤羊店两只羊出逃被找回当吉祥物",
       "onboard_time": 1670512877,
       "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 435732,
-      "num": 435732,
-      "word": "1.35米男子找工作遇挫回乡后月入过万",
-      "onboard_time": 1670553914,
-      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -307,12 +323,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 373782,
-      "num": 127215,
-      "word": "欧豪风吹半夏未播镜头",
+      "raw_hot": 384793,
+      "num": 384793,
+      "word": "刘耀文初雪视频背景音乐是新歌",
+      "onboard_time": 1670556433,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 355601,
+      "num": 355601,
+      "word": "LOL全明星将被取消",
       "onboard_time": 1670556073,
-      "rank": 47,
-      "category": "影视"
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 353419,
@@ -363,6 +387,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 315466,
+      "num": 315466,
+      "word": "母亲因孩子吵遭邻居多人围殴",
+      "onboard_time": 1670555233,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 305411,
       "num": 305411,
       "word": "看出深圳的快节奏了",
@@ -377,6 +409,14 @@
       "onboard_time": 1670554994,
       "rank": 21,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 279104,
+      "num": 279104,
+      "word": "天气一冷猫咪就会失去爪子",
+      "onboard_time": 1670552112,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 277260,
@@ -401,14 +441,6 @@
       "onboard_time": 1670551331,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 270133,
-      "num": 270133,
-      "word": "天气一冷猫咪就会失去爪子",
-      "onboard_time": 1670552112,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 269449,
@@ -441,6 +473,14 @@
       "onboard_time": 1670542928,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 248750,
+      "num": 248750,
+      "word": "朱孝天韩雯雯官宣加盟哎呀好身材4",
+      "onboard_time": 1670556675,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 244433,
@@ -499,6 +539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 229780,
+      "num": 229780,
+      "word": "撒贝宁何同学梦幻联动",
+      "onboard_time": 1670553973,
+      "rank": 37,
+      "category": "科技,艺人"
+    },
+    {
       "raw_hot": 227947,
       "num": 227947,
       "word": "沈小婷跳HypeBoy",
@@ -507,12 +555,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 221877,
-      "num": 221877,
-      "word": "撒贝宁何同学梦幻联动",
-      "onboard_time": 1670553973,
+      "raw_hot": 217019,
+      "num": 217019,
+      "word": "太阳朴智旻将合作",
+      "onboard_time": 1670555712,
       "rank": 37,
-      "category": "科技,艺人"
+      "category": "音乐"
     },
     {
       "raw_hot": 215232,
@@ -539,6 +587,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 208256,
+      "num": 180104,
+      "word": "卿卿日常今晚大结局了",
+      "onboard_time": 1670552533,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 203402,
       "num": 203402,
       "word": "阳华脱衣服像跳nxde",
@@ -553,6 +609,14 @@
       "onboard_time": 1670506639,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 198817,
+      "num": 198817,
+      "word": "李兰娟称无症状感染不是疾病",
+      "onboard_time": 1670555953,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 193393,
@@ -587,14 +651,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 191290,
-      "num": 191290,
-      "word": "母亲因孩子吵遭邻居多人围殴",
-      "onboard_time": 1670555233,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 190573,
       "num": 190573,
       "word": "TOP将登月旅行",
@@ -603,28 +659,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 188997,
+      "num": 135740,
+      "word": "王鹤棣粉色卫衣上班路透",
+      "onboard_time": 1670556914,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 186289,
       "num": 186289,
       "word": "一人之下5动画开播",
       "onboard_time": 1670554393,
       "rank": 32,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 184386,
-      "num": 184386,
-      "word": "太阳朴智旻将合作",
-      "onboard_time": 1670555712,
-      "rank": 37,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 177014,
-      "num": 177014,
-      "word": "卿卿日常今晚大结局了",
-      "onboard_time": 1670552533,
-      "rank": 38,
-      "category": "影视"
     },
     {
       "raw_hot": 176011,
@@ -715,14 +763,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 145860,
-      "num": 145860,
-      "word": "李兰娟称无症状感染不是疾病",
-      "onboard_time": 1670555953,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 145537,
       "num": 145537,
       "word": "核酸检测才是检验新冠的金标准",
@@ -785,6 +825,14 @@
       "onboard_time": 1670549469,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139098,
+      "num": 139098,
+      "word": "一图看懂2023放假安排",
+      "onboard_time": 1670556619,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 137106,
@@ -907,12 +955,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 114348,
-      "num": 117836,
-      "word": "LOL全明星将被取消",
-      "onboard_time": 1670556073,
-      "rank": 49,
-      "category": "游戏"
+      "raw_hot": 113812,
+      "num": 113812,
+      "word": "如何看待外卖员送餐迟到",
+      "onboard_time": 1670556314,
+      "rank": 48,
+      "category": "社会议题"
     },
     {
       "raw_hot": 111881,
