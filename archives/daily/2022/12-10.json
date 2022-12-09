@@ -1,6 +1,6 @@
 {
   "startTime": 1670603204032,
-  "endTime": 1670621621642,
+  "endTime": 1670624294608,
   "band_list": [
     {
       "raw_hot": 11360361,
@@ -75,6 +75,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1914368,
+      "num": 1914368,
+      "word": "梅西",
+      "onboard_time": 1670588600,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1907668,
       "num": 1907668,
       "word": "莫德里奇 中场大师",
@@ -131,6 +139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1340391,
+      "num": 1340391,
+      "word": "裁判 偏",
+      "onboard_time": 1670606296,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1323665,
       "num": 1323665,
       "word": "魔笛 胖虎",
@@ -144,14 +160,6 @@
       "word": "莫德里奇",
       "onboard_time": 1670598322,
       "rank": 26,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1252775,
-      "num": 1252775,
-      "word": "裁判 偏",
-      "onboard_time": 1670606296,
-      "rank": 13,
       "category": "体育"
     },
     {
@@ -176,14 +184,6 @@
       "word": "巴西爆冷",
       "onboard_time": 1670608756,
       "rank": 18,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 917171,
-      "num": 917171,
-      "word": "梅西",
-      "onboard_time": 1670588600,
-      "rank": 23,
       "category": "体育"
     },
     {
@@ -339,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 358453,
+      "num": 358453,
+      "word": "梅西追平巴蒂纪录",
+      "onboard_time": 1670622431,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 355610,
       "num": 102707,
       "word": "克罗地亚5比3巴西",
@@ -395,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 316568,
+      "num": 316568,
+      "word": "阿根廷晋级4强",
+      "onboard_time": 1670623630,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 295590,
       "num": 295590,
       "word": "节气姑娘有了自己的名字",
@@ -443,19 +459,19 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 273900,
+      "num": 273900,
+      "word": "梅西手术刀助攻",
+      "onboard_time": 1670616614,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 270903,
       "num": 270903,
       "word": "巴西点球",
       "onboard_time": 1670610618,
       "rank": 23,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 264305,
-      "num": 264305,
-      "word": "梅西手术刀助攻",
-      "onboard_time": 1670616614,
-      "rank": 18,
       "category": "体育"
     },
     {
@@ -544,6 +560,14 @@
       "word": "阿根廷首发",
       "onboard_time": 1670610916,
       "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 184782,
+      "num": 33895,
+      "word": "阿根廷门将神了",
+      "onboard_time": 1670624229,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -643,6 +667,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 139912,
+      "num": 139912,
+      "word": "抖音世界杯4K直播涉嫌侵权",
+      "onboard_time": 1670611936,
+      "rank": 30,
+      "category": "科技"
+    },
+    {
       "raw_hot": 134944,
       "num": 134944,
       "word": "相信卡塔尔世界杯将成载入史册的世界杯",
@@ -681,14 +713,6 @@
       "onboard_time": 1670590826,
       "rank": 49,
       "category": "教育"
-    },
-    {
-      "raw_hot": 123467,
-      "num": 123467,
-      "word": "抖音世界杯4K直播涉嫌侵权",
-      "onboard_time": 1670611936,
-      "rank": 30,
-      "category": "科技"
     },
     {
       "raw_hot": 119202,
@@ -755,8 +779,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 52058,
-      "num": 52058,
+      "raw_hot": 54148,
+      "num": 54148,
       "word": "RNG",
       "onboard_time": 1670612053,
       "rank": 46,
@@ -796,6 +820,9 @@
     },
     {
       "word": "#丝路繁华连接中阿文明#"
+    },
+    {
+      "word": "#构建新时代中阿命运共同体#"
     }
   ]
 }

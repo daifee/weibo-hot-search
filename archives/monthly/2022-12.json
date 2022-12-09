@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1670621621642,
+  "endTime": 1670624294608,
   "band_list": [
     {
       "raw_hot": 11360361,
@@ -787,6 +787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1914368,
+      "num": 1914368,
+      "word": "梅西",
+      "onboard_time": 1670588600,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1907668,
       "num": 1907668,
       "word": "莫德里奇 中场大师",
@@ -1515,6 +1523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1340391,
+      "num": 1340391,
+      "word": "裁判 偏",
+      "onboard_time": 1670606296,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1323665,
       "num": 1323665,
       "word": "魔笛 胖虎",
@@ -1553,14 +1569,6 @@
       "onboard_time": 1670506758,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1306148,
-      "num": 1306148,
-      "word": "梅西",
-      "onboard_time": 1670588600,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 1304233,
@@ -1657,14 +1665,6 @@
       "onboard_time": 1670454786,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1252775,
-      "num": 1252775,
-      "word": "裁判 偏",
-      "onboard_time": 1670606296,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 1252029,
@@ -8259,6 +8259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 358453,
+      "num": 358453,
+      "word": "梅西追平巴蒂纪录",
+      "onboard_time": 1670622431,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 357778,
       "num": 357778,
       "word": "胡歌说张新成未来可期",
@@ -9257,6 +9265,14 @@
       "onboard_time": 1670389512,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 316568,
+      "num": 316568,
+      "word": "阿根廷晋级4强",
+      "onboard_time": 1670623630,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 316399,
@@ -10451,6 +10467,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 273900,
+      "num": 273900,
+      "word": "梅西手术刀助攻",
+      "onboard_time": 1670616614,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 273877,
       "num": 273877,
       "word": "法国总统预测莱万进球",
@@ -10769,14 +10793,6 @@
       "onboard_time": 1669880590,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 264305,
-      "num": 264305,
-      "word": "梅西手术刀助攻",
-      "onboard_time": 1670616614,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 264200,
@@ -13651,6 +13667,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 184782,
+      "num": 33895,
+      "word": "阿根廷门将神了",
+      "onboard_time": 1670624229,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 184737,
       "num": 818262,
       "word": "中国球迷为什么来卡塔尔",
@@ -16243,6 +16267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 139912,
+      "num": 139912,
+      "word": "抖音世界杯4K直播涉嫌侵权",
+      "onboard_time": 1670611936,
+      "rank": 30,
+      "category": "科技"
+    },
+    {
       "raw_hot": 139848,
       "num": 139848,
       "word": "C罗在替补席也是焦点",
@@ -17329,14 +17361,6 @@
       "onboard_time": 1670002030,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 123467,
-      "num": 123467,
-      "word": "抖音世界杯4K直播涉嫌侵权",
-      "onboard_time": 1670611936,
-      "rank": 30,
-      "category": "科技"
     },
     {
       "raw_hot": 123427,
