@@ -1,6 +1,6 @@
 {
   "startTime": 1670171104099,
-  "endTime": 1670592291236,
+  "endTime": 1670592996468,
   "band_list": [
     {
       "raw_hot": 8994548,
@@ -164,7 +164,7 @@
     },
     {
       "raw_hot": 2753965,
-      "num": 1906225,
+      "num": 1908354,
       "word": "NCT4名成员发生坠落事故",
       "onboard_time": 1670584161,
       "rank": 10,
@@ -1059,6 +1059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1111721,
+      "num": 1111721,
+      "word": "梅西",
+      "onboard_time": 1670588600,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1107189,
       "num": 1107189,
       "word": "iPhone电池保养小技巧",
@@ -1075,14 +1083,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 1094511,
-      "num": 1094511,
-      "word": "梅西",
-      "onboard_time": 1670588600,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1086052,
       "num": 1086052,
       "word": "法国3比1波兰",
@@ -1097,6 +1097,14 @@
       "onboard_time": 1670207109,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1074331,
+      "num": 1074331,
+      "word": "少爷和我",
+      "onboard_time": 1670591300,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 1073059,
@@ -1459,14 +1467,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 888672,
-      "num": 888672,
-      "word": "少爷和我",
-      "onboard_time": 1670591300,
-      "rank": 5,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 882561,
       "num": 882561,
       "word": "加维都摔绿了",
@@ -1609,6 +1609,14 @@
       "onboard_time": 1670485996,
       "rank": 10,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 834348,
+      "num": 247502,
+      "word": "中国四大直辖市完成换帅",
+      "onboard_time": 1670591240,
+      "rank": 30,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 830333,
@@ -2627,14 +2635,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 586806,
-      "num": 247502,
-      "word": "中国四大直辖市完成换帅",
-      "onboard_time": 1670591240,
-      "rank": 30,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 586762,
       "num": 586762,
       "word": "C罗与不服老的自己和解了",
@@ -2865,6 +2865,14 @@
       "onboard_time": 1670476754,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 547584,
+      "num": 447578,
+      "word": "卿卿日常大结局全员HE",
+      "onboard_time": 1670589861,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 547139,
@@ -3465,14 +3473,6 @@
       "onboard_time": 1670340611,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 474964,
-      "num": 271290,
-      "word": "卿卿日常大结局全员HE",
-      "onboard_time": 1670589861,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 473772,
@@ -4603,6 +4603,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 365225,
+      "num": 1189914,
+      "word": "迈向结束疫情生活的道路不等于结束疫情",
+      "onboard_time": 1670591660,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 365041,
       "num": 2124266,
       "word": "RNG",
@@ -4865,6 +4873,14 @@
       "onboard_time": 1670291650,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 336486,
+      "num": 244830,
+      "word": "秦霄贤哈妮克孜对视眼神",
+      "onboard_time": 1670591961,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 336349,
@@ -5163,6 +5179,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 321036,
+      "num": 239240,
+      "word": "周深时光音乐会演唱光亮",
+      "onboard_time": 1670591423,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 320989,
       "num": 320989,
       "word": "新娘穿妈妈30年前婚纱出嫁超惊艳",
@@ -5321,6 +5345,14 @@
       "onboard_time": 1670332631,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 311460,
+      "num": 226212,
+      "word": "时光音乐会",
+      "onboard_time": 1670592559,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 311032,
@@ -5649,14 +5681,6 @@
       "onboard_time": 1670582661,
       "rank": 33,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 289903,
-      "num": 244830,
-      "word": "秦霄贤哈妮克孜对视眼神",
-      "onboard_time": 1670591961,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 288897,
@@ -6227,14 +6251,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 261245,
-      "num": 239240,
-      "word": "周深时光音乐会演唱光亮",
-      "onboard_time": 1670591423,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 261232,
       "num": 261232,
       "word": "广州明确核酸频次不与健康码颜色关联",
@@ -6403,6 +6419,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 253388,
+      "num": 253388,
+      "word": "新冠感染居家用药三原则",
+      "onboard_time": 1670587279,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 252499,
       "num": 252499,
       "word": "撒贝宁何同学梦幻联动",
@@ -6441,14 +6465,6 @@
       "onboard_time": 1670580198,
       "rank": 32,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 250775,
-      "num": 251707,
-      "word": "新冠感染居家用药三原则",
-      "onboard_time": 1670587279,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 250378,
@@ -6601,6 +6617,14 @@
       "onboard_time": 1670564356,
       "rank": 24,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 243601,
+      "num": 249580,
+      "word": "一家人围坐取暖火盆突然爆炸",
+      "onboard_time": 1670590101,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 243596,
@@ -6971,6 +6995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 227021,
+      "num": 249214,
+      "word": "四级",
+      "onboard_time": 1670590826,
+      "rank": 28,
+      "category": "教育"
+    },
+    {
       "raw_hot": 225740,
       "num": 158203,
       "word": "点燃我温暖你今日更新剧照",
@@ -7137,14 +7169,6 @@
       "onboard_time": 1670576539,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 219143,
-      "num": 249580,
-      "word": "一家人围坐取暖火盆突然爆炸",
-      "onboard_time": 1670590101,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 219091,
@@ -7811,14 +7835,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 194133,
-      "num": 249214,
-      "word": "四级",
-      "onboard_time": 1670590826,
-      "rank": 28,
-      "category": "教育"
-    },
-    {
       "raw_hot": 193834,
       "num": 685739,
       "word": "罗纳尔多微笑观战巴西队比赛",
@@ -8067,6 +8083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 187034,
+      "num": 236591,
+      "word": "伊朗大使称在伊朗女性地位更高",
+      "onboard_time": 1670591780,
+      "rank": 44,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 186976,
       "num": 186976,
       "word": "哪一刻你明白了考研的意义",
@@ -8137,14 +8161,6 @@
       "onboard_time": 1670467932,
       "rank": 42,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 185374,
-      "num": 1189914,
-      "word": "迈向结束疫情生活的道路不等于结束疫情",
-      "onboard_time": 1670591660,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 185235,
@@ -10483,6 +10499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123656,
+      "num": 225337,
+      "word": "儿保科医师疑因偷盗婴儿被开除",
+      "onboard_time": 1670592319,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 123510,
       "num": 123510,
       "word": "云顶S8赛季开启",
@@ -10673,14 +10697,6 @@
       "onboard_time": 1670233931,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 117080,
-      "num": 236591,
-      "word": "伊朗大使称在伊朗女性地位更高",
-      "onboard_time": 1670591780,
-      "rank": 44,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 117058,
@@ -11169,6 +11185,14 @@
       "onboard_time": 1670253732,
       "rank": 48,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 100021,
+      "num": 225237,
+      "word": "感染新冠后如何对症服药",
+      "onboard_time": 1670592501,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 99751,
