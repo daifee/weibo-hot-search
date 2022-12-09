@@ -1,6 +1,6 @@
 {
   "startTime": 1670171104099,
-  "endTime": 1670604293813,
+  "endTime": 1670606248958,
   "band_list": [
     {
       "raw_hot": 8994548,
@@ -51,6 +51,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 4688843,
+      "num": 4688843,
+      "word": "克罗地亚门将",
+      "onboard_time": 1670601080,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 4535372,
       "num": 5570744,
       "word": "我们正式迈向结束疫情生活的道路",
@@ -99,6 +107,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 3500385,
+      "num": 3500385,
+      "word": "克罗地亚vs巴西",
+      "onboard_time": 1670594060,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 3279536,
       "num": 3279536,
       "word": "元旦春节将使疫情形势达到高峰",
@@ -129,6 +145,14 @@
       "onboard_time": 1670480294,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3047517,
+      "num": 3047517,
+      "word": "内马尔状态",
+      "onboard_time": 1670602397,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 3044071,
@@ -185,14 +209,6 @@
       "onboard_time": 1670460335,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2679649,
-      "num": 2679649,
-      "word": "克罗地亚vs巴西",
-      "onboard_time": 1670594060,
-      "rank": 3,
-      "category": "体育"
     },
     {
       "raw_hot": 2654472,
@@ -569,14 +585,6 @@
       "onboard_time": 1670565623,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1710225,
-      "num": 1710225,
-      "word": "克罗地亚门将",
-      "onboard_time": 1670601080,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 1695237,
@@ -1011,6 +1019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1211201,
+      "num": 1211201,
+      "word": "克罗地亚 上届亚军",
+      "onboard_time": 1670602936,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1211046,
       "num": 1221686,
       "word": "丈夫出轨生子妻子离婚获赔15万",
@@ -1283,14 +1299,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 983635,
-      "num": 983635,
-      "word": "内马尔状态",
-      "onboard_time": 1670602397,
-      "rank": 12,
-      "category": "体育"
-    },
-    {
       "raw_hot": 980577,
       "num": 1382517,
       "word": "90后公务员入职搬600斤自行车emo了",
@@ -1376,6 +1384,14 @@
       "word": "梅西预测4支球队世界杯夺冠",
       "onboard_time": 1670252713,
       "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 928538,
+      "num": 928538,
+      "word": "加时赛",
+      "onboard_time": 1670605037,
+      "rank": 6,
       "category": "体育"
     },
     {
@@ -1641,6 +1657,14 @@
       "onboard_time": 1670553073,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 849008,
+      "num": 849008,
+      "word": "利瓦科维奇 门神",
+      "onboard_time": 1670604376,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 848272,
@@ -1969,14 +1993,6 @@
       "onboard_time": 1670217371,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 742261,
-      "num": 742261,
-      "word": "克罗地亚 上届亚军",
-      "onboard_time": 1670602936,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 737010,
@@ -3196,7 +3212,7 @@
     },
     {
       "raw_hot": 526583,
-      "num": 1558567,
+      "num": 3063506,
       "word": "迈向结束疫情生活的道路不等于结束疫情",
       "onboard_time": 1670591660,
       "rank": 2,
@@ -3979,6 +3995,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 434368,
+      "num": 434368,
+      "word": "哇唧唧哇创始人说颜值经济是一种危机",
+      "onboard_time": 1670604020,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 433700,
       "num": 433700,
       "word": "赵露思王安宇同框路透",
@@ -4153,6 +4177,14 @@
       "onboard_time": 1670284626,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 422151,
+      "num": 422151,
+      "word": "魔笛 胖虎",
+      "onboard_time": 1670603536,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 421943,
@@ -5195,6 +5227,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 332229,
+      "num": 332229,
+      "word": "王石分享感染新冠经历",
+      "onboard_time": 1670602277,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
       "raw_hot": 332125,
       "num": 981740,
       "word": "北京增本土感染者2260例",
@@ -5473,14 +5513,6 @@
       "onboard_time": 1670323990,
       "rank": 29,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 318237,
-      "num": 318237,
-      "word": "王石分享感染新冠经历",
-      "onboard_time": 1670602277,
-      "rank": 35,
-      "category": "财经"
     },
     {
       "raw_hot": 317441,
@@ -6515,6 +6547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 262603,
+      "num": 262603,
+      "word": "裁判 黄牌",
+      "onboard_time": 1670604977,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 262399,
       "num": 262399,
       "word": "女子花千元买柯基第二天查出细小",
@@ -6875,6 +6915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 246945,
+      "num": 246945,
+      "word": "莫德里奇 中场大师",
+      "onboard_time": 1670604676,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 246817,
       "num": 121836,
       "word": "昌隆直播",
@@ -7001,6 +7049,14 @@
       "onboard_time": 1670372048,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 239612,
+      "num": 239612,
+      "word": "克罗地亚门将可爱",
+      "onboard_time": 1670604075,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 239105,
@@ -7179,14 +7235,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 232767,
-      "num": 183491,
-      "word": "哇唧唧哇创始人说颜值经济是一种危机",
-      "onboard_time": 1670604020,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 232461,
       "num": 232461,
       "word": "2023年部分节假日安排出炉",
@@ -7329,6 +7377,14 @@
       "onboard_time": 1670489956,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 225080,
+      "num": 225080,
+      "word": "陈飞宇谢谢观众的审判",
+      "onboard_time": 1670601739,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 225017,
@@ -7865,6 +7921,14 @@
       "onboard_time": 1670412734,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 202110,
+      "num": 202110,
+      "word": "罗纳尔多",
+      "onboard_time": 1670605757,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 202050,
@@ -9155,6 +9219,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 164433,
+      "num": 164433,
+      "word": "MAMA女团合作舞台直拍",
+      "onboard_time": 1670605757,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 164282,
       "num": 164282,
       "word": "6岁男孩走路像小鸭子查出罕见病",
@@ -9369,14 +9441,6 @@
       "onboard_time": 1670216230,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 158032,
-      "num": 158032,
-      "word": "魔笛 胖虎",
-      "onboard_time": 1670603536,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 157702,
@@ -10443,6 +10507,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 134944,
+      "num": 134944,
+      "word": "相信卡塔尔世界杯将成载入史册的世界杯",
+      "onboard_time": 1670606235,
+      "rank": 43,
+      "category": "体育,国内要闻"
+    },
+    {
       "raw_hot": 134677,
       "num": 134677,
       "word": "克罗地亚狂想曲 桑巴",
@@ -11371,14 +11443,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 107890,
-      "num": 107890,
-      "word": "克罗地亚门将可爱",
-      "onboard_time": 1670604075,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 107254,
       "num": 107254,
       "word": "邓刚雨天守钓大青鱼",
@@ -11735,6 +11799,14 @@
       "num": 222468,
       "word": "重庆一吊车侧翻司机跳车逃生",
       "onboard_time": 1670594900,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 92078,
+      "num": 126520,
+      "word": "新冠防疫手册",
+      "onboard_time": 1670604556,
       "rank": 49,
       "category": "社会新闻"
     },

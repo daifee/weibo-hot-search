@@ -1,13 +1,29 @@
 {
   "startTime": 1670603204032,
-  "endTime": 1670604293813,
+  "endTime": 1670606248958,
   "band_list": [
     {
-      "raw_hot": 2235061,
-      "num": 2235061,
+      "raw_hot": 4688843,
+      "num": 4688843,
+      "word": "克罗地亚门将",
+      "onboard_time": 1670601080,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 3500385,
+      "num": 3500385,
       "word": "克罗地亚vs巴西",
       "onboard_time": 1670594060,
       "rank": 0,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 3047517,
+      "num": 3047517,
+      "word": "内马尔状态",
+      "onboard_time": 1670602397,
+      "rank": 12,
       "category": "体育"
     },
     {
@@ -27,14 +43,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1710225,
-      "num": 1710225,
-      "word": "克罗地亚门将",
-      "onboard_time": 1670601080,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1489329,
       "num": 1489329,
       "word": "克罗地亚半场0比0巴西",
@@ -51,6 +59,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1211201,
+      "num": 1211201,
+      "word": "克罗地亚 上届亚军",
+      "onboard_time": 1670602936,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 987442,
       "num": 987442,
       "word": "张栋梁17年前vs17年后",
@@ -59,11 +75,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 983635,
-      "num": 983635,
-      "word": "内马尔状态",
-      "onboard_time": 1670602397,
-      "rank": 12,
+      "raw_hot": 928538,
+      "num": 928538,
+      "word": "加时赛",
+      "onboard_time": 1670605037,
+      "rank": 6,
       "category": "体育"
     },
     {
@@ -75,20 +91,20 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 849008,
+      "num": 849008,
+      "word": "利瓦科维奇 门神",
+      "onboard_time": 1670604376,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 790714,
       "num": 790714,
       "word": "厂家称黄桃罐头没有任何药效",
       "onboard_time": 1670600000,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 742261,
-      "num": 742261,
-      "word": "克罗地亚 上届亚军",
-      "onboard_time": 1670602936,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 664537,
@@ -123,12 +139,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 434368,
+      "num": 434368,
+      "word": "哇唧唧哇创始人说颜值经济是一种危机",
+      "onboard_time": 1670604020,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 423358,
       "num": 423358,
       "word": "郝葭 芳如",
       "onboard_time": 1670596280,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 422151,
+      "num": 422151,
+      "word": "魔笛 胖虎",
+      "onboard_time": 1670603536,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 421910,
@@ -163,6 +195,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 332229,
+      "num": 332229,
+      "word": "王石分享感染新冠经历",
+      "onboard_time": 1670602277,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
       "raw_hot": 330458,
       "num": 330458,
       "word": "4类人群不建议首选布洛芬退烧",
@@ -187,14 +227,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 318237,
-      "num": 318237,
-      "word": "王石分享感染新冠经历",
-      "onboard_time": 1670602277,
-      "rank": 35,
-      "category": "财经"
-    },
-    {
       "raw_hot": 297259,
       "num": 297259,
       "word": "梅西",
@@ -212,7 +244,7 @@
     },
     {
       "raw_hot": 293328,
-      "num": 1558567,
+      "num": 3063506,
       "word": "迈向结束疫情生活的道路不等于结束疫情",
       "onboard_time": 1670591660,
       "rank": 2,
@@ -259,6 +291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 262603,
+      "num": 262603,
+      "word": "裁判 黄牌",
+      "onboard_time": 1670604977,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 262399,
       "num": 262399,
       "word": "女子花千元买柯基第二天查出细小",
@@ -283,6 +323,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 246945,
+      "num": 246945,
+      "word": "莫德里奇 中场大师",
+      "onboard_time": 1670604676,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 246468,
       "num": 246468,
       "word": "女子买螃蟹抓掉到楼下的袜子",
@@ -299,6 +347,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 239612,
+      "num": 239612,
+      "word": "克罗地亚门将可爱",
+      "onboard_time": 1670604075,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 235976,
       "num": 235976,
       "word": "不用再担心核酸阳性医院不接诊",
@@ -307,12 +363,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 232767,
-      "num": 183491,
-      "word": "哇唧唧哇创始人说颜值经济是一种危机",
-      "onboard_time": 1670604020,
+      "raw_hot": 225080,
+      "num": 225080,
+      "word": "陈飞宇谢谢观众的审判",
+      "onboard_time": 1670601739,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 202110,
+      "num": 202110,
+      "word": "罗纳尔多",
+      "onboard_time": 1670605757,
       "rank": 31,
-      "category": "艺人"
+      "category": "体育"
     },
     {
       "raw_hot": 190438,
@@ -339,20 +403,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 164433,
+      "num": 164433,
+      "word": "MAMA女团合作舞台直拍",
+      "onboard_time": 1670605757,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 158462,
       "num": 158462,
       "word": "Doinb",
       "onboard_time": 1670588359,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 158032,
-      "num": 158032,
-      "word": "魔笛 胖虎",
-      "onboard_time": 1670603536,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 157861,
@@ -395,6 +459,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 134944,
+      "num": 134944,
+      "word": "相信卡塔尔世界杯将成载入史册的世界杯",
+      "onboard_time": 1670606235,
+      "rank": 43,
+      "category": "体育,国内要闻"
+    },
+    {
       "raw_hot": 134677,
       "num": 134677,
       "word": "克罗地亚狂想曲 桑巴",
@@ -419,12 +491,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 107890,
-      "num": 107890,
-      "word": "克罗地亚门将可爱",
-      "onboard_time": 1670604075,
-      "rank": 48,
-      "category": "体育"
+      "raw_hot": 92078,
+      "num": 126520,
+      "word": "新冠防疫手册",
+      "onboard_time": 1670604556,
+      "rank": 49,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
@@ -433,6 +505,9 @@
     },
     {
       "word": "#在实现民族振兴的道路上携手前进#"
+    },
+    {
+      "word": "#丝路繁华连接中阿文明#"
     }
   ]
 }
