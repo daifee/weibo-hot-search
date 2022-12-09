@@ -1,7 +1,15 @@
 {
   "startTime": 1670516838629,
-  "endTime": 1670542499115,
+  "endTime": 1670549991386,
   "band_list": [
+    {
+      "raw_hot": 8818405,
+      "num": 8818405,
+      "word": "调休",
+      "onboard_time": 1670542387,
+      "rank": 6,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 2672256,
       "num": 2672256,
@@ -9,6 +17,22 @@
       "onboard_time": 1670505439,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1971502,
+      "num": 504882,
+      "word": "妻子4小时备火锅丈夫转身另煮面吃",
+      "onboard_time": 1670546950,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1508200,
+      "num": 1279362,
+      "word": "NMIXX成员JINNI退团",
+      "onboard_time": 1670542628,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1495611,
@@ -27,11 +51,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1211240,
+      "num": 1211240,
+      "word": "男子发现5岁女儿非亲生索赔15万",
+      "onboard_time": 1670545149,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1025809,
       "num": 427005,
       "word": "核酸检测公司开始破产了",
       "onboard_time": 1670502377,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 934052,
+      "num": 934052,
+      "word": "钟南山称99%感染者7至10天完全恢复",
+      "onboard_time": 1670548029,
+      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -41,6 +81,14 @@
       "onboard_time": 1670511198,
       "rank": 3,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 721792,
+      "num": 721792,
+      "word": "想见你",
+      "onboard_time": 1670545508,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 697625,
@@ -91,12 +139,60 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 512899,
+      "num": 512899,
+      "word": "奶奶看错时间凌晨叫孩子吃饭上学",
+      "onboard_time": 1670548090,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 505535,
+      "num": 505535,
+      "word": "原来南方人才是最抗冻的",
+      "onboard_time": 1670540647,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 504130,
+      "num": 504130,
+      "word": "很担心考研人的精神状态",
+      "onboard_time": 1670545629,
+      "rank": 11,
+      "category": "情感"
+    },
+    {
       "raw_hot": 445701,
       "num": 445701,
       "word": "重庆烤羊店两只羊出逃被找回当吉祥物",
       "onboard_time": 1670512877,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 445042,
+      "num": 445042,
+      "word": "明年五一休5天",
+      "onboard_time": 1670547614,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 438863,
+      "num": 438863,
+      "word": "TGA2022",
+      "onboard_time": 1670547614,
+      "rank": 13,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 427733,
+      "num": 427733,
+      "word": "泫雅或将签约朴宰范经纪公司",
+      "onboard_time": 1670546830,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 427300,
@@ -113,14 +209,6 @@
       "onboard_time": 1670510239,
       "rank": 14,
       "category": "教育"
-    },
-    {
-      "raw_hot": 420605,
-      "num": 420605,
-      "word": "原来南方人才是最抗冻的",
-      "onboard_time": 1670540647,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 403574,
@@ -147,6 +235,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 351462,
+      "num": 351462,
+      "word": "教资考了69分有多难受",
+      "onboard_time": 1670542869,
+      "rank": 15,
+      "category": "教育"
+    },
+    {
       "raw_hot": 335683,
       "num": 335683,
       "word": "想见你电影版定档1231",
@@ -155,11 +251,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 306347,
-      "num": 306347,
-      "word": "调休",
-      "onboard_time": 1670542387,
-      "rank": 6,
+      "raw_hot": 335536,
+      "num": 335536,
+      "word": "叶婷",
+      "onboard_time": 1670544789,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -179,12 +275,44 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 237769,
-      "num": 237769,
+      "raw_hot": 269449,
+      "num": 269449,
+      "word": "男生为履行对室友承诺穿JK跑步",
+      "onboard_time": 1670543410,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 261649,
+      "num": 261649,
       "word": "黄景瑜打伞vs陈飞宇打伞",
       "onboard_time": 1670519472,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 249235,
+      "num": 249235,
+      "word": "女子用脚按电梯被物业配诗警示",
+      "onboard_time": 1670542928,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 239023,
+      "num": 239023,
+      "word": "西安一奔跑的婆罗门鸡引发热议",
+      "onboard_time": 1670545929,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 234419,
+      "num": 234419,
+      "word": "抗原检测试剂盒成交额暴涨334%",
+      "onboard_time": 1670545929,
+      "rank": 24,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 232461,
@@ -203,6 +331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 230530,
+      "num": 230530,
+      "word": "核酸减码后如何治愈心理创伤",
+      "onboard_time": 1670543410,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 227947,
       "num": 227947,
       "word": "沈小婷跳HypeBoy",
@@ -216,6 +352,14 @@
       "word": "混凝土浇好未干10分钟掉进3人",
       "onboard_time": 1670501957,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 213934,
+      "num": 213934,
+      "word": "杨国福被曝反向抹零",
+      "onboard_time": 1670507478,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -243,6 +387,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 193393,
+      "num": 193393,
+      "word": "金铲铲",
+      "onboard_time": 1670543350,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 193338,
       "num": 193338,
       "word": "2022超话大赏",
@@ -251,19 +403,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 192574,
+      "num": 192574,
+      "word": "天气冷的猫都凝固了",
+      "onboard_time": 1670544011,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 176011,
+      "num": 1299272,
+      "word": "老人小孩孕产妇防疫手册",
+      "onboard_time": 1670504597,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 175341,
       "num": 175341,
       "word": "抗原自测盒日均销量增长400多倍",
       "onboard_time": 1670507779,
       "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 166965,
-      "num": 166965,
-      "word": "杨国福被曝反向抹零",
-      "onboard_time": 1670507478,
-      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -283,12 +443,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 160480,
+      "num": 160480,
+      "word": "男子跪地乞讨成功后开心比耶",
+      "onboard_time": 1670544429,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 154170,
       "num": 154170,
       "word": "今晚火星几乎彻夜可见",
       "onboard_time": 1670505981,
       "rank": 27,
       "category": "自然,社会新闻"
+    },
+    {
+      "raw_hot": 152948,
+      "num": 152948,
+      "word": "黄澄澄跟陈宇宙告别",
+      "onboard_time": 1670544850,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 151766,
@@ -299,20 +475,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 149745,
-      "num": 1161527,
-      "word": "老人小孩孕产妇防疫手册",
-      "onboard_time": 1670504597,
-      "rank": 2,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 148093,
       "num": 148093,
       "word": "重庆地铁回应运行过程中车门敞开",
       "onboard_time": 1670517194,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147858,
+      "num": 147858,
+      "word": "蔡依林亲爱的对象上线",
+      "onboard_time": 1670547310,
+      "rank": 38,
+      "category": "音乐"
     },
     {
       "raw_hot": 145537,
@@ -355,12 +531,44 @@
       "category": "影视"
     },
     {
+      "raw_hot": 139215,
+      "num": 139215,
+      "word": "詹俊说荷兰会为范加尔拼尽所有",
+      "onboard_time": 1670549469,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 135585,
+      "num": 135585,
+      "word": "你好星期六",
+      "onboard_time": 1670511859,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 130986,
+      "num": 130986,
+      "word": "16年老兵退伍家人拉横幅迎接",
+      "onboard_time": 1670549650,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 130446,
       "num": 130446,
       "word": "专家建议春运错峰还乡",
       "onboard_time": 1670506458,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 127044,
+      "num": 127044,
+      "word": "舍不得张婧仪朱韵",
+      "onboard_time": 1670546950,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 126338,
@@ -385,6 +593,14 @@
       "onboard_time": 1670513838,
       "rank": 34,
       "category": "动漫,幽默"
+    },
+    {
+      "raw_hot": 122155,
+      "num": 122155,
+      "word": "新川主尹岐父子间剪不断的羁绊",
+      "onboard_time": 1670548989,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 118260,
@@ -457,14 +673,6 @@
       "onboard_time": 1670512758,
       "rank": 46,
       "category": "情感,教育"
-    },
-    {
-      "raw_hot": 95702,
-      "num": 95702,
-      "word": "你好星期六",
-      "onboard_time": 1670511859,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 94969,
@@ -593,6 +801,9 @@
     },
     {
       "word": "#构建新时代中阿命运共同体#"
+    },
+    {
+      "word": "#在实现民族振兴的道路上携手前进#"
     }
   ]
 }

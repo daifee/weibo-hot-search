@@ -1,0 +1,410 @@
+{
+  "runTime": 1670549991386,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8818405,
+        "num": 8818405,
+        "word": "调休",
+        "onboard_time": 1670542387,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1402497,
+        "num": 1402497,
+        "word": "我们正式迈向结束疫情生活的道路",
+        "onboard_time": 1670505439,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176011,
+        "num": 1299272,
+        "word": "老人小孩孕产妇防疫手册",
+        "onboard_time": 1670504597,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1508200,
+        "num": 1279362,
+        "word": "NMIXX成员JINNI退团",
+        "onboard_time": 1670542628,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1211240,
+        "num": 1211240,
+        "word": "男子发现5岁女儿非亲生索赔15万",
+        "onboard_time": 1670545149,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 934052,
+        "num": 934052,
+        "word": "钟南山称99%感染者7至10天完全恢复",
+        "onboard_time": 1670548029,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 721792,
+        "num": 721792,
+        "word": "想见你",
+        "onboard_time": 1670545508,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 566294,
+        "num": 566294,
+        "word": "老人手包一次性内裤遭质疑不卫生",
+        "onboard_time": 1670515098,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 512899,
+        "num": 512899,
+        "word": "奶奶看错时间凌晨叫孩子吃饭上学",
+        "onboard_time": 1670548090,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 505535,
+        "num": 505535,
+        "word": "原来南方人才是最抗冻的",
+        "onboard_time": 1670540647,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1971502,
+        "num": 504882,
+        "word": "妻子4小时备火锅丈夫转身另煮面吃",
+        "onboard_time": 1670546950,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 504130,
+        "num": 504130,
+        "word": "很担心考研人的精神状态",
+        "onboard_time": 1670545629,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 445042,
+        "num": 445042,
+        "word": "明年五一休5天",
+        "onboard_time": 1670547614,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 438863,
+        "num": 438863,
+        "word": "TGA2022",
+        "onboard_time": 1670547614,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 427733,
+        "num": 427733,
+        "word": "泫雅或将签约朴宰范经纪公司",
+        "onboard_time": 1670546830,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 351462,
+        "num": 351462,
+        "word": "教资考了69分有多难受",
+        "onboard_time": 1670542869,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 351247,
+        "num": 351247,
+        "word": "武汉阳性患者感染全记录",
+        "onboard_time": 1670514797,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335536,
+        "num": 335536,
+        "word": "叶婷",
+        "onboard_time": 1670544789,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318257,
+        "num": 318257,
+        "word": "元旦春节将使疫情形势达到高峰",
+        "onboard_time": 1670497819,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276105,
+        "num": 276105,
+        "word": "核酸检测公司开始破产了",
+        "onboard_time": 1670502377,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269449,
+        "num": 269449,
+        "word": "男生为履行对室友承诺穿JK跑步",
+        "onboard_time": 1670543410,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261649,
+        "num": 261649,
+        "word": "黄景瑜打伞vs陈飞宇打伞",
+        "onboard_time": 1670519472,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 249235,
+        "num": 249235,
+        "word": "女子用脚按电梯被物业配诗警示",
+        "onboard_time": 1670542928,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239023,
+        "num": 239023,
+        "word": "西安一奔跑的婆罗门鸡引发热议",
+        "onboard_time": 1670545929,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234419,
+        "num": 234419,
+        "word": "抗原检测试剂盒成交额暴涨334%",
+        "onboard_time": 1670545929,
+        "rank": 24,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 230530,
+        "num": 230530,
+        "word": "核酸减码后如何治愈心理创伤",
+        "onboard_time": 1670543410,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213934,
+        "num": 213934,
+        "word": "杨国福被曝反向抹零",
+        "onboard_time": 1670507478,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193393,
+        "num": 193393,
+        "word": "金铲铲",
+        "onboard_time": 1670543350,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 192574,
+        "num": 192574,
+        "word": "天气冷的猫都凝固了",
+        "onboard_time": 1670544011,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 190412,
+        "num": 190412,
+        "word": "看出深圳的快节奏了",
+        "onboard_time": 1670511022,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 190243,
+        "num": 190243,
+        "word": "想见你电影版定档1231",
+        "onboard_time": 1670516714,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 189114,
+        "num": 189114,
+        "word": "白敬亭说卿卿日常热度破11000就跳女团舞",
+        "onboard_time": 1670510958,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 161603,
+        "num": 161603,
+        "word": "席琳迪翁患僵人综合征",
+        "onboard_time": 1670509578,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161012,
+        "num": 161012,
+        "word": "县委大院 真实",
+        "onboard_time": 1670509998,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 160480,
+        "num": 160480,
+        "word": "男子跪地乞讨成功后开心比耶",
+        "onboard_time": 1670544429,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155355,
+        "num": 155355,
+        "word": "直播间疯狂刷礼物可能是在洗钱",
+        "onboard_time": 1670513118,
+        "rank": 35,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 152948,
+        "num": 152948,
+        "word": "黄澄澄跟陈宇宙告别",
+        "onboard_time": 1670544850,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 148185,
+        "num": 148185,
+        "word": "重庆烤羊店两只羊出逃被找回当吉祥物",
+        "onboard_time": 1670512877,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147858,
+        "num": 147858,
+        "word": "蔡依林亲爱的对象上线",
+        "onboard_time": 1670547310,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 144242,
+        "num": 144242,
+        "word": "千万别随便帮女生提行李箱",
+        "onboard_time": 1670511198,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 143789,
+        "num": 143789,
+        "word": "钟南山院士谈奥密克戎",
+        "onboard_time": 1670507837,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139215,
+        "num": 139215,
+        "word": "詹俊说荷兰会为范加尔拼尽所有",
+        "onboard_time": 1670549469,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135585,
+        "num": 135585,
+        "word": "你好星期六",
+        "onboard_time": 1670511859,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132099,
+        "num": 132099,
+        "word": "2023中秋国庆连休8天",
+        "onboard_time": 1670541730,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135249,
+        "num": 131705,
+        "word": "秦霄贤哈妮克孜还原命韵峋环醉酒抱",
+        "onboard_time": 1670511799,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130986,
+        "num": 130986,
+        "word": "16年老兵退伍家人拉横幅迎接",
+        "onboard_time": 1670549650,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129247,
+        "num": 129247,
+        "word": "今晚火星几乎彻夜可见",
+        "onboard_time": 1670505981,
+        "rank": 46,
+        "category": "自然,社会新闻"
+      },
+      {
+        "raw_hot": 128984,
+        "num": 128984,
+        "word": "抗原自测盒日均销量增长400多倍",
+        "onboard_time": 1670507779,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127044,
+        "num": 127044,
+        "word": "舍不得张婧仪朱韵",
+        "onboard_time": 1670546950,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 122155,
+        "num": 122155,
+        "word": "新川主尹岐父子间剪不断的羁绊",
+        "onboard_time": 1670548989,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#在实现民族振兴的道路上携手前进#"
+    }
+  }
+}
