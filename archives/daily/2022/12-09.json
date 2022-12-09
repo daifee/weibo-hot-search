@@ -1,6 +1,6 @@
 {
   "startTime": 1670516838629,
-  "endTime": 1670592996468,
+  "endTime": 1670595416930,
   "band_list": [
     {
       "raw_hot": 8994548,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 2753965,
-      "num": 1908354,
+      "num": 1931207,
       "word": "NCT4名成员发生坠落事故",
       "onboard_time": 1670584161,
       "rank": 10,
@@ -155,6 +155,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1469486,
+      "num": 1469486,
+      "word": "少爷和我",
+      "onboard_time": 1670591300,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1332986,
+      "num": 1332986,
+      "word": "克罗地亚vs巴西",
+      "onboard_time": 1670594060,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1278978,
       "num": 1278978,
       "word": "男子未戴手套制作蛋糕胚被指恶心",
@@ -185,6 +201,14 @@
       "onboard_time": 1670545149,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1210018,
+      "num": 452043,
+      "word": "中国四大直辖市完成换帅",
+      "onboard_time": 1670591240,
+      "rank": 30,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 1183646,
@@ -225,14 +249,6 @@
       "onboard_time": 1670559795,
       "rank": 5,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 1074331,
-      "num": 1074331,
-      "word": "少爷和我",
-      "onboard_time": 1670591300,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 1025809,
@@ -299,14 +315,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 834348,
-      "num": 247502,
-      "word": "中国四大直辖市完成换帅",
-      "onboard_time": 1670591240,
-      "rank": 30,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 830333,
       "num": 830333,
       "word": "女子四胎出院90岁奶奶开车接回家",
@@ -329,6 +337,14 @@
       "onboard_time": 1670578581,
       "rank": 6,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 792519,
+      "num": 792519,
+      "word": "张栋梁17年前vs17年后",
+      "onboard_time": 1670594001,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 759505,
@@ -491,6 +507,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 580010,
+      "num": 447578,
+      "word": "卿卿日常大结局全员HE",
+      "onboard_time": 1670589861,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 574123,
       "num": 574123,
       "word": "为什么大家都在囤布洛芬",
@@ -521,14 +545,6 @@
       "onboard_time": 1670553914,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 547584,
-      "num": 447578,
-      "word": "卿卿日常大结局全员HE",
-      "onboard_time": 1670589861,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 542840,
@@ -585,6 +601,14 @@
       "onboard_time": 1670497819,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 526583,
+      "num": 1396401,
+      "word": "迈向结束疫情生活的道路不等于结束疫情",
+      "onboard_time": 1670591660,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 516443,
@@ -867,20 +891,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 369356,
+      "num": 369356,
+      "word": "伊朗大使称在伊朗女性地位更高",
+      "onboard_time": 1670591780,
+      "rank": 44,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 368837,
       "num": 368837,
       "word": "原神瑶瑶",
       "onboard_time": 1670560818,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 365225,
-      "num": 1189914,
-      "word": "迈向结束疫情生活的道路不等于结束疫情",
-      "onboard_time": 1670591660,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 359178,
@@ -913,6 +937,14 @@
       "onboard_time": 1670513420,
       "rank": 17,
       "category": "情感"
+    },
+    {
+      "raw_hot": 352386,
+      "num": 352386,
+      "word": "儿保科医师疑因偷盗婴儿被开除",
+      "onboard_time": 1670592319,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 352225,
@@ -1075,6 +1107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 310976,
+      "num": 310976,
+      "word": "李峋把飞扬改名LP",
+      "onboard_time": 1670593159,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 310853,
       "num": 310853,
       "word": "杨幂许凯爱的二八定律厨房吻花絮",
@@ -1105,6 +1145,14 @@
       "onboard_time": 1670576427,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 302590,
+      "num": 302590,
+      "word": "四级",
+      "onboard_time": 1670590826,
+      "rank": 28,
+      "category": "教育"
     },
     {
       "raw_hot": 300510,
@@ -1251,12 +1299,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 263521,
+      "num": 234325,
+      "word": "李峋的独白",
+      "onboard_time": 1670595320,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 263109,
       "num": 263109,
       "word": "快乐再出发2定档1215",
       "onboard_time": 1670554033,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 261455,
+      "num": 261455,
+      "word": "一家人围坐取暖火盆突然爆炸",
+      "onboard_time": 1670590101,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 260340,
@@ -1347,6 +1411,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 246674,
+      "num": 230367,
+      "word": "李薇废除女诫",
+      "onboard_time": 1670595260,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 244433,
       "num": 244433,
       "word": "命韵峋环领证",
@@ -1361,14 +1433,6 @@
       "onboard_time": 1670564356,
       "rank": 24,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 243601,
-      "num": 249580,
-      "word": "一家人围坐取暖火盆突然爆炸",
-      "onboard_time": 1670590101,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 243232,
@@ -1491,12 +1555,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 227021,
-      "num": 249214,
-      "word": "四级",
-      "onboard_time": 1670590826,
-      "rank": 28,
-      "category": "教育"
+      "raw_hot": 219734,
+      "num": 226741,
+      "word": "任迪小六子订婚",
+      "onboard_time": 1670593398,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 219531,
@@ -1771,14 +1835,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 187034,
-      "num": 236591,
-      "word": "伊朗大使称在伊朗女性地位更高",
-      "onboard_time": 1670591780,
-      "rank": 44,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 186751,
       "num": 181829,
       "word": "蔡徐坤晒隧道写真",
@@ -1817,6 +1873,14 @@
       "onboard_time": 1670562557,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 183071,
+      "num": 228367,
+      "word": "六级",
+      "onboard_time": 1670594538,
+      "rank": 36,
+      "category": "教育"
     },
     {
       "raw_hot": 181123,
@@ -2195,6 +2259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 132111,
+      "num": 225871,
+      "word": "XYG对战WB",
+      "onboard_time": 1670594001,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 131731,
       "num": 131731,
       "word": "年轻人追世界杯是为了合群吗",
@@ -2288,14 +2360,6 @@
       "word": "个人防疫手册",
       "onboard_time": 1670565797,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 123656,
-      "num": 225337,
-      "word": "儿保科医师疑因偷盗婴儿被开除",
-      "onboard_time": 1670592319,
-      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -2393,6 +2457,14 @@
       "onboard_time": 1670556314,
       "rank": 48,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 112621,
+      "num": 223880,
+      "word": "1个视频学会抗原自测操作",
+      "onboard_time": 1670595023,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 111881,
@@ -2531,12 +2603,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 92174,
+      "num": 222468,
+      "word": "重庆一吊车侧翻司机跳车逃生",
+      "onboard_time": 1670594900,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 91821,
       "num": 233482,
       "word": "C919第一声客舱广播",
       "onboard_time": 1670591119,
       "rank": 49,
       "category": "科技"
+    },
+    {
+      "raw_hot": 91629,
+      "num": 418489,
+      "word": "为什么大家都去这拍大片",
+      "onboard_time": 1670594426,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 71857,
