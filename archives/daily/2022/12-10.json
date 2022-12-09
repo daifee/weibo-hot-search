@@ -1,6 +1,6 @@
 {
   "startTime": 1670603204032,
-  "endTime": 1670624294608,
+  "endTime": 1670625296561,
   "band_list": [
     {
       "raw_hot": 11360361,
@@ -211,6 +211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 666566,
+      "num": 666566,
+      "word": "阿根廷晋级4强",
+      "onboard_time": 1670623630,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 664537,
       "num": 664537,
       "word": "孙悦 状态",
@@ -315,6 +323,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 412828,
+      "num": 412828,
+      "word": "阿根廷门将神了",
+      "onboard_time": 1670624229,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 384126,
       "num": 255783,
       "word": "荷兰半场0比1阿根廷",
@@ -339,8 +355,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 358453,
-      "num": 358453,
+      "raw_hot": 360269,
+      "num": 360269,
       "word": "梅西追平巴蒂纪录",
       "onboard_time": 1670622431,
       "rank": 10,
@@ -403,11 +419,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 316568,
-      "num": 316568,
-      "word": "阿根廷晋级4强",
-      "onboard_time": 1670623630,
-      "rank": 12,
+      "raw_hot": 301689,
+      "num": 273900,
+      "word": "梅西手术刀助攻",
+      "onboard_time": 1670616614,
+      "rank": 18,
       "category": "体育"
     },
     {
@@ -457,14 +473,6 @@
       "onboard_time": 1670585539,
       "rank": 32,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 273900,
-      "num": 273900,
-      "word": "梅西手术刀助攻",
-      "onboard_time": 1670616614,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 270903,
@@ -560,14 +568,6 @@
       "word": "阿根廷首发",
       "onboard_time": 1670610916,
       "rank": 25,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 184782,
-      "num": 33895,
-      "word": "阿根廷门将神了",
-      "onboard_time": 1670624229,
-      "rank": 47,
       "category": "体育"
     },
     {
@@ -667,8 +667,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 139912,
-      "num": 139912,
+      "raw_hot": 143007,
+      "num": 143007,
       "word": "抖音世界杯4K直播涉嫌侵权",
       "onboard_time": 1670611936,
       "rank": 30,
@@ -792,6 +792,14 @@
       "word": "克罗地亚 大心脏",
       "onboard_time": 1670620272,
       "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 49904,
+      "num": 49904,
+      "word": "荷兰5比6阿根廷",
+      "onboard_time": 1670625013,
+      "rank": 39,
       "category": "体育"
     },
     {
