@@ -1,6 +1,6 @@
 {
   "startTime": 1670171104099,
-  "endTime": 1670610197072,
+  "endTime": 1670611085775,
   "band_list": [
     {
       "raw_hot": 11360361,
@@ -219,6 +219,14 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 2705830,
+      "num": 2705830,
+      "word": "内马尔哭了",
+      "onboard_time": 1670608996,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2699210,
       "num": 1409620,
       "word": "鸣笛",
@@ -419,14 +427,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2062847,
-      "num": 2062847,
-      "word": "内马尔哭了",
-      "onboard_time": 1670608996,
-      "rank": 5,
-      "category": "体育"
-    },
-    {
       "raw_hot": 2057821,
       "num": 1723011,
       "word": "女子多次出轨后与丈夫合谋仙人跳",
@@ -504,6 +504,14 @@
       "word": "莫德里奇 中场大师",
       "onboard_time": 1670604676,
       "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1906437,
+      "num": 1906437,
+      "word": "荷兰vs阿根廷",
+      "onboard_time": 1670476334,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -665,14 +673,6 @@
       "onboard_time": 1670580558,
       "rank": 4,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1661852,
-      "num": 1661852,
-      "word": "荷兰vs阿根廷",
-      "onboard_time": 1670476334,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 1633271,
@@ -1393,6 +1393,14 @@
       "onboard_time": 1670317030,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 984771,
+      "num": 984771,
+      "word": "巴西爆冷",
+      "onboard_time": 1670608756,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 980577,
@@ -2875,14 +2883,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 586275,
-      "num": 586275,
-      "word": "巴西爆冷",
-      "onboard_time": 1670608756,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 585992,
       "num": 452178,
       "word": "苏醒为了梅西能夺冠有多拼",
@@ -4281,6 +4281,14 @@
       "onboard_time": 1670284626,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 423667,
+      "num": 399550,
+      "word": "我vs梅西",
+      "onboard_time": 1670606954,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 421943,
@@ -5683,14 +5691,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 313257,
-      "num": 313257,
-      "word": "我vs梅西",
-      "onboard_time": 1670606954,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 313051,
       "num": 313051,
       "word": "北京增社会面178例",
@@ -6481,6 +6481,14 @@
       "onboard_time": 1670508797,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 270903,
+      "num": 270903,
+      "word": "巴西点球",
+      "onboard_time": 1670610618,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 270703,
@@ -8563,6 +8571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 187284,
+      "num": 187284,
+      "word": "阿根廷首发",
+      "onboard_time": 1670610916,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 186976,
       "num": 186976,
       "word": "哪一刻你明白了考研的意义",
@@ -8825,6 +8841,14 @@
       "onboard_time": 1670218870,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 179574,
+      "num": 179574,
+      "word": "利瓦科维奇 身价",
+      "onboard_time": 1670611035,
+      "rank": 27,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 179449,
@@ -9563,6 +9587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 157371,
+      "num": 157371,
+      "word": "卡恩",
+      "onboard_time": 1670610675,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 156712,
       "num": 174711,
       "word": "被这支老年足球队激励到了",
@@ -10249,6 +10281,14 @@
       "onboard_time": 1670491156,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 142232,
+      "num": 142232,
+      "word": "贝利",
+      "onboard_time": 1670610855,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 142084,
@@ -11155,6 +11195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119202,
+      "num": 119202,
+      "word": "克罗地亚狂想曲",
+      "onboard_time": 1670610675,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 118993,
       "num": 1548570,
       "word": "看内马尔踢球是种享受",
@@ -11256,6 +11304,14 @@
       "word": "阿什拉夫亲吻母亲",
       "onboard_time": 1670382071,
       "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 116924,
+      "num": 116924,
+      "word": "内马尔个人能力",
+      "onboard_time": 1670610074,
+      "rank": 39,
       "category": "体育"
     },
     {
@@ -11683,6 +11739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 102790,
+      "num": 102790,
+      "word": "沙溢问白鹿白梦妍是哪个角色名",
+      "onboard_time": 1670610313,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 102768,
       "num": 102768,
       "word": "脆弱群体感染奥密克戎怎么救治",
@@ -12072,6 +12136,14 @@
       "word": "童骁骑求婚野猫",
       "onboard_time": 1670425899,
       "rank": 48,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 75298,
+      "num": 75298,
+      "word": "如何评价韩剧财阀家的小儿子",
+      "onboard_time": 1670607557,
+      "rank": 49,
       "category": "影视"
     },
     {

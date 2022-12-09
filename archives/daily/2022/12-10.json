@@ -1,6 +1,6 @@
 {
   "startTime": 1670603204032,
-  "endTime": 1670610197072,
+  "endTime": 1670611085775,
   "band_list": [
     {
       "raw_hot": 11360361,
@@ -51,8 +51,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 2062847,
-      "num": 2062847,
+      "raw_hot": 2705830,
+      "num": 2705830,
       "word": "内马尔哭了",
       "onboard_time": 1670608996,
       "rank": 5,
@@ -75,6 +75,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1906437,
+      "num": 1906437,
+      "word": "荷兰vs阿根廷",
+      "onboard_time": 1670609836,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1784017,
       "num": 1784017,
       "word": "巴西状态",
@@ -89,14 +97,6 @@
       "onboard_time": 1670600481,
       "rank": 10,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1661852,
-      "num": 1661852,
-      "word": "荷兰vs阿根廷",
-      "onboard_time": 1670609836,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 1591774,
@@ -171,6 +171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 984771,
+      "num": 984771,
+      "word": "巴西爆冷",
+      "onboard_time": 1670608756,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 879267,
       "num": 879267,
       "word": "4人毒杀89只狗",
@@ -235,14 +243,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 586275,
-      "num": 586275,
-      "word": "巴西爆冷",
-      "onboard_time": 1670608756,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 582506,
       "num": 582506,
       "word": "罗纳尔多",
@@ -273,6 +273,14 @@
       "onboard_time": 1670604020,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 423667,
+      "num": 399550,
+      "word": "我vs梅西",
+      "onboard_time": 1670606954,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 423358,
@@ -363,14 +371,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 313257,
-      "num": 313257,
-      "word": "我vs梅西",
-      "onboard_time": 1670606954,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 295590,
       "num": 295590,
       "word": "节气姑娘有了自己的名字",
@@ -417,6 +417,14 @@
       "onboard_time": 1670585539,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 270903,
+      "num": 270903,
+      "word": "巴西点球",
+      "onboard_time": 1670610618,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 262399,
@@ -499,6 +507,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 187284,
+      "num": 187284,
+      "word": "阿根廷首发",
+      "onboard_time": 1670610916,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 179574,
+      "num": 179574,
+      "word": "利瓦科维奇 身价",
+      "onboard_time": 1670611035,
+      "rank": 27,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 168937,
       "num": 168937,
       "word": "睡眠不好的人有福了",
@@ -547,6 +571,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 157371,
+      "num": 157371,
+      "word": "卡恩",
+      "onboard_time": 1670610675,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 147545,
       "num": 147545,
       "word": "原来长大真的会变好看",
@@ -577,6 +609,14 @@
       "onboard_time": 1670606836,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 142232,
+      "num": 142232,
+      "word": "贝利",
+      "onboard_time": 1670610855,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 134944,
@@ -611,12 +651,36 @@
       "category": "教育"
     },
     {
+      "raw_hot": 119202,
+      "num": 119202,
+      "word": "克罗地亚狂想曲",
+      "onboard_time": 1670610675,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 116924,
+      "num": 116924,
+      "word": "内马尔个人能力",
+      "onboard_time": 1670610074,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 106026,
       "num": 106026,
       "word": "克罗地亚防守",
       "onboard_time": 1670609836,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 102790,
+      "num": 102790,
+      "word": "沙溢问白鹿白梦妍是哪个角色名",
+      "onboard_time": 1670610313,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 102707,
@@ -633,6 +697,14 @@
       "onboard_time": 1670604556,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 75298,
+      "num": 75298,
+      "word": "如何评价韩剧财阀家的小儿子",
+      "onboard_time": 1670607557,
+      "rank": 49,
+      "category": "影视"
     }
   ],
   "hotgov_list": [
