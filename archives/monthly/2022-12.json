@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1670625296561,
+  "endTime": 1670628002988,
   "band_list": [
     {
       "raw_hot": 11360361,
@@ -1651,6 +1651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1264092,
+      "num": 1264092,
+      "word": "阿根廷门将神了",
+      "onboard_time": 1670624229,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1260475,
       "num": 962723,
       "word": "女子收2万彩礼被退婚霸气还15万",
@@ -1888,6 +1896,14 @@
       "word": "姆巴佩 进球",
       "onboard_time": 1670171832,
       "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1138619,
+      "num": 1138619,
+      "word": "巴西爆冷",
+      "onboard_time": 1670608756,
+      "rank": 18,
       "category": "体育"
     },
     {
@@ -2337,14 +2353,6 @@
       "onboard_time": 1670317030,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 984771,
-      "num": 984771,
-      "word": "巴西爆冷",
-      "onboard_time": 1670608756,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 981932,
@@ -6091,6 +6099,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 486018,
+      "num": 486018,
+      "word": "荷兰5比6阿根廷",
+      "onboard_time": 1670625013,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 485540,
       "num": 485540,
       "word": "环球港",
@@ -7289,14 +7305,6 @@
       "onboard_time": 1670586741,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 412828,
-      "num": 412828,
-      "word": "阿根廷门将神了",
-      "onboard_time": 1670624229,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 412605,
@@ -15611,6 +15619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 150151,
+      "num": 150151,
+      "word": "央视曝光天价疏通马桶骗局",
+      "onboard_time": 1670615893,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 150005,
       "num": 150005,
       "word": "云之羽",
@@ -19347,14 +19363,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 88075,
-      "num": 88075,
-      "word": "央视曝光天价疏通马桶骗局",
-      "onboard_time": 1670615893,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 87967,
       "num": 87967,
       "word": "老人店铺门口摆摊被泼水倒垃圾",
@@ -19843,6 +19851,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 60071,
+      "num": 60071,
+      "word": "伊甸园",
+      "onboard_time": 1670627290,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 59916,
       "num": 255345,
       "word": "劳塔罗吐饼",
@@ -19984,14 +20000,6 @@
       "word": "什琴斯尼连续两场扑点",
       "onboard_time": 1669838768,
       "rank": 13,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 49904,
-      "num": 49904,
-      "word": "荷兰5比6阿根廷",
-      "onboard_time": 1670625013,
-      "rank": 39,
       "category": "体育"
     },
     {

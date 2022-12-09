@@ -1,6 +1,6 @@
 {
   "startTime": 1670603204032,
-  "endTime": 1670625296561,
+  "endTime": 1670628002988,
   "band_list": [
     {
       "raw_hot": 11360361,
@@ -163,6 +163,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1264092,
+      "num": 1264092,
+      "word": "阿根廷门将神了",
+      "onboard_time": 1670624229,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1138619,
+      "num": 1138619,
+      "word": "巴西爆冷",
+      "onboard_time": 1670608756,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1122145,
       "num": 1122145,
       "word": "加时赛",
@@ -177,14 +193,6 @@
       "onboard_time": 1670594001,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 984771,
-      "num": 984771,
-      "word": "巴西爆冷",
-      "onboard_time": 1670608756,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 879267,
@@ -275,6 +283,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 486018,
+      "num": 486018,
+      "word": "荷兰5比6阿根廷",
+      "onboard_time": 1670625013,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 444755,
       "num": 444755,
       "word": "卿卿日常 传承",
@@ -321,14 +337,6 @@
       "onboard_time": 1670598560,
       "rank": 16,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 412828,
-      "num": 412828,
-      "word": "阿根廷门将神了",
-      "onboard_time": 1670624229,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 384126,
@@ -635,6 +643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 150151,
+      "num": 150151,
+      "word": "央视曝光天价疏通马桶骗局",
+      "onboard_time": 1670615893,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 147545,
       "num": 147545,
       "word": "原来长大真的会变好看",
@@ -763,20 +779,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 88075,
-      "num": 88075,
-      "word": "央视曝光天价疏通马桶骗局",
-      "onboard_time": 1670615893,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 75298,
       "num": 75298,
       "word": "如何评价韩剧财阀家的小儿子",
       "onboard_time": 1670607557,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 60071,
+      "num": 60071,
+      "word": "伊甸园",
+      "onboard_time": 1670627290,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 54148,
@@ -792,14 +808,6 @@
       "word": "克罗地亚 大心脏",
       "onboard_time": 1670620272,
       "rank": 26,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 49904,
-      "num": 49904,
-      "word": "荷兰5比6阿根廷",
-      "onboard_time": 1670625013,
-      "rank": 39,
       "category": "体育"
     },
     {
