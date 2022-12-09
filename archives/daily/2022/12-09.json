@@ -1,6 +1,6 @@
 {
   "startTime": 1670516838629,
-  "endTime": 1670554050763,
+  "endTime": 1670554668022,
   "band_list": [
     {
       "raw_hot": 8994548,
@@ -35,7 +35,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1723011,
+      "raw_hot": 1751521,
       "num": 1723011,
       "word": "女子多次出轨后与丈夫合谋仙人跳",
       "onboard_time": 1670551453,
@@ -75,8 +75,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1176006,
-      "num": 1176006,
+      "raw_hot": 1183646,
+      "num": 1183646,
       "word": "小姨背22年卖孩子黑锅外甥如今找回",
       "onboard_time": 1670550072,
       "rank": 11,
@@ -107,6 +107,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 719020,
+      "num": 719020,
+      "word": "钟南山院士称无症状可能不算病",
+      "onboard_time": 1670551153,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 716667,
       "num": 716667,
       "word": "明年五一休5天",
@@ -120,14 +128,6 @@
       "word": "武汉阳性患者感染全记录",
       "onboard_time": 1670514797,
       "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 694512,
-      "num": 694512,
-      "word": "钟南山院士称无症状可能不算病",
-      "onboard_time": 1670551153,
-      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -195,20 +195,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 454504,
+      "num": 454504,
+      "word": "TGA2022",
+      "onboard_time": 1670547614,
+      "rank": 13,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 445701,
       "num": 445701,
       "word": "重庆烤羊店两只羊出逃被找回当吉祥物",
       "onboard_time": 1670512877,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 438863,
-      "num": 438863,
-      "word": "TGA2022",
-      "onboard_time": 1670547614,
-      "rank": 13,
-      "category": "游戏"
     },
     {
       "raw_hot": 427733,
@@ -235,8 +235,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 405725,
-      "num": 405725,
+      "raw_hot": 406920,
+      "num": 406920,
       "word": "杭州椰子酒店回应对女顾客造黄谣",
       "onboard_time": 1670551692,
       "rank": 12,
@@ -251,12 +251,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 400043,
+      "num": 400043,
+      "word": "叶婷",
+      "onboard_time": 1670544789,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 394382,
       "num": 394382,
       "word": "白敬亭说卿卿日常热度破11000就跳女团舞",
       "onboard_time": 1670510958,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 375093,
+      "num": 375093,
+      "word": "00后木鱼购买人数增速超中年人2倍",
+      "onboard_time": 1670551753,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 353419,
@@ -275,20 +291,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 343931,
-      "num": 343931,
-      "word": "叶婷",
-      "onboard_time": 1670544789,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 335683,
       "num": 335683,
       "word": "想见你电影版定档1231",
       "onboard_time": 1670516714,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 325026,
+      "num": 325026,
+      "word": "江苏省考",
+      "onboard_time": 1670551934,
+      "rank": 17,
+      "category": "教育"
     },
     {
       "raw_hot": 321705,
@@ -299,14 +315,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 308110,
-      "num": 308110,
-      "word": "江苏省考",
-      "onboard_time": 1670551934,
-      "rank": 17,
-      "category": "教育"
-    },
-    {
       "raw_hot": 305411,
       "num": 305411,
       "word": "看出深圳的快节奏了",
@@ -315,19 +323,19 @@
       "category": "情感"
     },
     {
-      "raw_hot": 292664,
-      "num": 292664,
-      "word": "00后木鱼购买人数增速超中年人2倍",
-      "onboard_time": 1670551753,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 277260,
       "num": 237061,
       "word": "2023中秋国庆连休8天",
       "onboard_time": 1670541730,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 274051,
+      "num": 274051,
+      "word": "达州疫情防控",
+      "onboard_time": 1670553073,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -355,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 268527,
+      "num": 194106,
+      "word": "王大陆蔡卓宜官宣加盟哎呀好身材4",
+      "onboard_time": 1670554513,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 267143,
       "num": 267143,
       "word": "梅西准备好了",
@@ -379,6 +395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 244250,
+      "num": 244250,
+      "word": "快乐再出发2定档1215",
+      "onboard_time": 1670554033,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 243232,
       "num": 243232,
       "word": "抗原检测试剂盒成交额暴涨334%",
@@ -392,14 +416,6 @@
       "word": "西安一奔跑的婆罗门鸡引发热议",
       "onboard_time": 1670545929,
       "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 232633,
-      "num": 232633,
-      "word": "达州疫情防控",
-      "onboard_time": 1670553073,
-      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -459,6 +475,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 209038,
+      "num": 209038,
+      "word": "天气一冷猫咪就会失去爪子",
+      "onboard_time": 1670552112,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 203402,
       "num": 203402,
       "word": "阳华脱衣服像跳nxde",
@@ -515,20 +539,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 187606,
+      "num": 187606,
+      "word": "1.35米男子找工作遇挫回乡后月入过万",
+      "onboard_time": 1670553914,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 184397,
+      "num": 184397,
+      "word": "一人之下5动画开播",
+      "onboard_time": 1670554393,
+      "rank": 32,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 180841,
+      "num": 180841,
+      "word": "撒贝宁何同学梦幻联动",
+      "onboard_time": 1670553973,
+      "rank": 37,
+      "category": "科技,艺人"
+    },
+    {
       "raw_hot": 176011,
       "num": 1762455,
       "word": "老人小孩孕产妇防疫手册",
       "onboard_time": 1670504597,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 175464,
-      "num": 175464,
-      "word": "天气一冷猫咪就会失去爪子",
-      "onboard_time": 1670552112,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 175341,
@@ -561,14 +601,6 @@
       "onboard_time": 1670544429,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 154529,
-      "num": 111830,
-      "word": "快乐再出发2定档1215",
-      "onboard_time": 1670554033,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 154170,
@@ -619,12 +651,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 146815,
-      "num": 146815,
-      "word": "撒贝宁何同学梦幻联动",
-      "onboard_time": 1670553973,
-      "rank": 37,
-      "category": "科技,艺人"
+      "raw_hot": 146861,
+      "num": 146861,
+      "word": "卿卿日常今晚大结局了",
+      "onboard_time": 1670552533,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 145537,
@@ -656,14 +688,6 @@
       "word": "舍不得张婧仪朱韵",
       "onboard_time": 1670546950,
       "rank": 48,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 142709,
-      "num": 142709,
-      "word": "卿卿日常今晚大结局了",
-      "onboard_time": 1670552533,
-      "rank": 38,
       "category": "影视"
     },
     {
@@ -747,6 +771,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 128809,
+      "num": 128809,
+      "word": "死亡搁浅2公布",
+      "onboard_time": 1670552773,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 128062,
+      "num": 128062,
+      "word": "如何看待年轻人喜欢云逛市集",
+      "onboard_time": 1670554575,
+      "rank": 45,
+      "category": "情感,社会议题"
+    },
+    {
       "raw_hot": 126338,
       "num": 126338,
       "word": "蒋依依与古偶的适配度",
@@ -809,6 +849,14 @@
       "onboard_time": 1670552652,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 108847,
+      "num": 108847,
+      "word": "华为与OPPO签订全球专利交叉许可协议",
+      "onboard_time": 1670554513,
+      "rank": 48,
+      "category": "科技"
     },
     {
       "raw_hot": 106937,

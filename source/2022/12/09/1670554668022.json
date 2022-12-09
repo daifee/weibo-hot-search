@@ -1,0 +1,410 @@
+{
+  "runTime": 1670554668022,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6953614,
+        "num": 6953614,
+        "word": "调休",
+        "onboard_time": 1670542387,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1745573,
+        "num": 1745573,
+        "word": "钟南山称99%感染者7至10天完全恢复",
+        "onboard_time": 1670548029,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120908,
+        "num": 1413978,
+        "word": "老人小孩孕产妇防疫手册",
+        "onboard_time": 1670504597,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1751521,
+        "num": 1384622,
+        "word": "女子多次出轨后与丈夫合谋仙人跳",
+        "onboard_time": 1670551453,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1183646,
+        "num": 1183646,
+        "word": "小姨背22年卖孩子黑锅外甥如今找回",
+        "onboard_time": 1670550072,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 744756,
+        "num": 744756,
+        "word": "NMIXX成员JINNI退团",
+        "onboard_time": 1670542628,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 719020,
+        "num": 719020,
+        "word": "钟南山院士称无症状可能不算病",
+        "onboard_time": 1670551153,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 593771,
+        "num": 593771,
+        "word": "想见你",
+        "onboard_time": 1670545508,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 454504,
+        "num": 454504,
+        "word": "TGA2022",
+        "onboard_time": 1670547614,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 430714,
+        "num": 430714,
+        "word": "男子发现5岁女儿非亲生索赔15万",
+        "onboard_time": 1670545149,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1679422,
+        "num": 427927,
+        "word": "妻子4小时备火锅丈夫转身另煮面吃",
+        "onboard_time": 1670546950,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 406920,
+        "num": 406920,
+        "word": "杭州椰子酒店回应对女顾客造黄谣",
+        "onboard_time": 1670551692,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 400043,
+        "num": 400043,
+        "word": "叶婷",
+        "onboard_time": 1670544789,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 399331,
+        "num": 399331,
+        "word": "奶奶看错时间凌晨叫孩子吃饭上学",
+        "onboard_time": 1670548090,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 383736,
+        "num": 383736,
+        "word": "明年五一休5天",
+        "onboard_time": 1670547614,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 375093,
+        "num": 375093,
+        "word": "00后木鱼购买人数增速超中年人2倍",
+        "onboard_time": 1670551753,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325026,
+        "num": 325026,
+        "word": "江苏省考",
+        "onboard_time": 1670551934,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 310871,
+        "num": 310871,
+        "word": "刘耀文原创新歌不冬眠",
+        "onboard_time": 1670552773,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 280517,
+        "num": 280517,
+        "word": "我们正式迈向结束疫情生活的道路",
+        "onboard_time": 1670505439,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274051,
+        "num": 274051,
+        "word": "达州疫情防控",
+        "onboard_time": 1670553073,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268262,
+        "num": 268262,
+        "word": "很担心考研人的精神状态",
+        "onboard_time": 1670545629,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 265670,
+        "num": 265670,
+        "word": "鹿晗工作室说好好看世界杯",
+        "onboard_time": 1670551331,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259345,
+        "num": 259345,
+        "word": "梅西准备好了",
+        "onboard_time": 1670550013,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 251387,
+        "num": 251387,
+        "word": "老人手包一次性内裤遭质疑不卫生",
+        "onboard_time": 1670515098,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244250,
+        "num": 244250,
+        "word": "快乐再出发2定档1215",
+        "onboard_time": 1670554033,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233875,
+        "num": 233875,
+        "word": "教资考了69分有多难受",
+        "onboard_time": 1670542869,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 219708,
+        "num": 219708,
+        "word": "命韵峋环领证",
+        "onboard_time": 1670550970,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 209038,
+        "num": 209038,
+        "word": "天气一冷猫咪就会失去爪子",
+        "onboard_time": 1670552112,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 203029,
+        "num": 203029,
+        "word": "泫雅或将签约朴宰范经纪公司",
+        "onboard_time": 1670546830,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200249,
+        "num": 200249,
+        "word": "原来南方人才是最抗冻的",
+        "onboard_time": 1670540647,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268527,
+        "num": 194106,
+        "word": "王大陆蔡卓宜官宣加盟哎呀好身材4",
+        "onboard_time": 1670554513,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187606,
+        "num": 187606,
+        "word": "1.35米男子找工作遇挫回乡后月入过万",
+        "onboard_time": 1670553914,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184397,
+        "num": 184397,
+        "word": "一人之下5动画开播",
+        "onboard_time": 1670554393,
+        "rank": 32,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 184090,
+        "num": 184090,
+        "word": "黄景瑜打伞vs陈飞宇打伞",
+        "onboard_time": 1670519472,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 180841,
+        "num": 180841,
+        "word": "撒贝宁何同学梦幻联动",
+        "onboard_time": 1670553973,
+        "rank": 34,
+        "category": "科技,艺人"
+      },
+      {
+        "raw_hot": 179454,
+        "num": 179454,
+        "word": "武汉阳性患者感染全记录",
+        "onboard_time": 1670514797,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170098,
+        "num": 170098,
+        "word": "C919",
+        "onboard_time": 1670552171,
+        "rank": 36,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 158102,
+        "num": 158102,
+        "word": "TOP将登月旅行",
+        "onboard_time": 1670551815,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146861,
+        "num": 146861,
+        "word": "卿卿日常今晚大结局了",
+        "onboard_time": 1670552533,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 144844,
+        "num": 144844,
+        "word": "想见你电影版定档1231",
+        "onboard_time": 1670516714,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 140267,
+        "num": 140267,
+        "word": "为什么大家都在囤布洛芬",
+        "onboard_time": 1670506758,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140263,
+        "num": 140263,
+        "word": "抗原检测试剂盒成交额暴涨334%",
+        "onboard_time": 1670545929,
+        "rank": 41,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 136321,
+        "num": 136321,
+        "word": "白敬亭说卿卿日常热度破11000就跳女团舞",
+        "onboard_time": 1670510958,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 128809,
+        "num": 128809,
+        "word": "死亡搁浅2公布",
+        "onboard_time": 1670552773,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 128267,
+        "num": 128267,
+        "word": "直播间疯狂刷礼物可能是在洗钱",
+        "onboard_time": 1670513118,
+        "rank": 44,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 128062,
+        "num": 128062,
+        "word": "如何看待年轻人喜欢云逛市集",
+        "onboard_time": 1670554575,
+        "rank": 45,
+        "category": "情感,社会议题"
+      },
+      {
+        "raw_hot": 126614,
+        "num": 126614,
+        "word": "许知远说年轻人生活在巨大的反差里",
+        "onboard_time": 1670552353,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 110361,
+        "num": 110361,
+        "word": "杨国福被曝反向抹零",
+        "onboard_time": 1670507478,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108847,
+        "num": 108847,
+        "word": "华为与OPPO签订全球专利交叉许可协议",
+        "onboard_time": 1670554513,
+        "rank": 48,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 100886,
+        "num": 100886,
+        "word": "金铲铲",
+        "onboard_time": 1670543350,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#构建新时代中阿命运共同体#"
+    }
+  }
+}
