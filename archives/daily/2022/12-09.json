@@ -1,6 +1,6 @@
 {
   "startTime": 1670516838629,
-  "endTime": 1670590425047,
+  "endTime": 1670592291236,
   "band_list": [
     {
       "raw_hot": 8994548,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 2753965,
-      "num": 663347,
+      "num": 1906225,
       "word": "NCT4名成员发生坠落事故",
       "onboard_time": 1670584161,
       "rank": 10,
@@ -219,6 +219,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1094511,
+      "num": 1094511,
+      "word": "梅西",
+      "onboard_time": 1670588600,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1025809,
       "num": 427005,
       "word": "核酸检测公司开始破产了",
@@ -265,6 +273,14 @@
       "onboard_time": 1670511198,
       "rank": 3,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 888672,
+      "num": 888672,
+      "word": "少爷和我",
+      "onboard_time": 1670591300,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 879867,
@@ -451,6 +467,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 586806,
+      "num": 247502,
+      "word": "中国四大直辖市完成换帅",
+      "onboard_time": 1670591240,
+      "rank": 30,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 585992,
       "num": 452178,
       "word": "苏醒为了梅西能夺冠有多拼",
@@ -611,6 +635,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 497277,
+      "num": 465678,
+      "word": "陈奕迅 演唱会",
+      "onboard_time": 1670585539,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 492970,
       "num": 492970,
       "word": "黄澄澄演技",
@@ -627,12 +659,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 488999,
-      "num": 464740,
-      "word": "陈奕迅 演唱会",
-      "onboard_time": 1670585539,
-      "rank": 47,
-      "category": "音乐"
+      "raw_hot": 474964,
+      "num": 271290,
+      "word": "卿卿日常大结局全员HE",
+      "onboard_time": 1670589861,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 471579,
@@ -649,14 +681,6 @@
       "onboard_time": 1670575700,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 463146,
-      "num": 463146,
-      "word": "梅西",
-      "onboard_time": 1670588600,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 459712,
@@ -731,6 +755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 412829,
+      "num": 309096,
+      "word": "命韵峋环求婚完整版",
+      "onboard_time": 1670586741,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 406920,
       "num": 406920,
       "word": "杭州椰子酒店回应对女顾客造黄谣",
@@ -761,14 +793,6 @@
       "onboard_time": 1670544789,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 397774,
-      "num": 309096,
-      "word": "命韵峋环求婚完整版",
-      "onboard_time": 1670586741,
-      "rank": 20,
-      "category": "影视"
     },
     {
       "raw_hot": 396452,
@@ -940,7 +964,7 @@
     },
     {
       "raw_hot": 332645,
-      "num": 222808,
+      "num": 245673,
       "word": "陈飞宇李峋的收官特辑",
       "onboard_time": 1670588059,
       "rank": 31,
@@ -1051,14 +1075,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 304192,
-      "num": 223762,
-      "word": "卿卿日常大结局全员HE",
-      "onboard_time": 1670589861,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 300510,
       "num": 300510,
       "word": "刘耀文希望在镜头前可以更有自信一点",
@@ -1091,6 +1107,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 289903,
+      "num": 244830,
+      "word": "秦霄贤哈妮克孜对视眼神",
+      "onboard_time": 1670591961,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 287587,
       "num": 287587,
       "word": "虞书欣红秀封面",
@@ -1104,6 +1128,14 @@
       "word": "傅菁新剧女扮男装",
       "onboard_time": 1670562315,
       "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 282261,
+      "num": 240015,
+      "word": "山峥海薇约定白首不相离",
+      "onboard_time": 1670592141,
+      "rank": 40,
       "category": "影视"
     },
     {
@@ -1148,7 +1180,7 @@
     },
     {
       "raw_hot": 270703,
-      "num": 205830,
+      "num": 238776,
       "word": "迪丽热巴推荐与君初相识恰似故人归",
       "onboard_time": 1670587459,
       "rank": 33,
@@ -1200,6 +1232,14 @@
       "word": "快乐再出发2定档1215",
       "onboard_time": 1670554033,
       "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 261245,
+      "num": 239240,
+      "word": "周深时光音乐会演唱光亮",
+      "onboard_time": 1670591423,
+      "rank": 41,
       "category": "综艺"
     },
     {
@@ -1257,6 +1297,14 @@
       "onboard_time": 1670580198,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 250775,
+      "num": 251707,
+      "word": "新冠感染居家用药三原则",
+      "onboard_time": 1670587279,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 249235,
@@ -1340,7 +1388,7 @@
     },
     {
       "raw_hot": 236041,
-      "num": 236041,
+      "num": 242540,
       "word": "浙江省考",
       "onboard_time": 1670586622,
       "rank": 35,
@@ -1425,6 +1473,14 @@
       "onboard_time": 1670576539,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 219143,
+      "num": 249580,
+      "word": "一家人围坐取暖火盆突然爆炸",
+      "onboard_time": 1670590101,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 217019,
@@ -1548,18 +1604,10 @@
     },
     {
       "raw_hot": 202050,
-      "num": 202050,
+      "num": 236102,
       "word": "郭襄已被注册商标",
       "onboard_time": 1670581824,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 200465,
-      "num": 200465,
-      "word": "新冠感染居家用药三原则",
-      "onboard_time": 1670587279,
-      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -1572,7 +1620,7 @@
     },
     {
       "raw_hot": 198796,
-      "num": 198796,
+      "num": 243164,
       "word": "周恺 靠谱",
       "onboard_time": 1670588900,
       "rank": 36,
@@ -1617,6 +1665,14 @@
       "onboard_time": 1670566819,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 194133,
+      "num": 249214,
+      "word": "四级",
+      "onboard_time": 1670590826,
+      "rank": 28,
+      "category": "教育"
     },
     {
       "raw_hot": 193573,
@@ -1721,6 +1777,14 @@
       "onboard_time": 1670574079,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 185374,
+      "num": 1189914,
+      "word": "迈向结束疫情生活的道路不等于结束疫情",
+      "onboard_time": 1670591660,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 184548,
@@ -2267,12 +2331,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 116567,
-      "num": 189787,
-      "word": "一家人围坐取暖火盆突然爆炸",
-      "onboard_time": 1670590101,
-      "rank": 46,
-      "category": "社会新闻"
+      "raw_hot": 117080,
+      "num": 236591,
+      "word": "伊朗大使称在伊朗女性地位更高",
+      "onboard_time": 1670591780,
+      "rank": 44,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 116446,
@@ -2441,6 +2505,14 @@
       "onboard_time": 1670508797,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 91821,
+      "num": 233482,
+      "word": "C919第一声客舱广播",
+      "onboard_time": 1670591119,
+      "rank": 49,
+      "category": "科技"
     },
     {
       "raw_hot": 71857,

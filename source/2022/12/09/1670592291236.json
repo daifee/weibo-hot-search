@@ -1,0 +1,410 @@
+{
+  "runTime": 1670592291236,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1906225,
+        "num": 1906225,
+        "word": "NCT4名成员发生坠落事故",
+        "onboard_time": 1670584161,
+        "rank": 0,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 1389221,
+        "num": 1389221,
+        "word": "男子点炸鸡没熟反馈后被补偿炸焦的",
+        "onboard_time": 1670580558,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185374,
+        "num": 1189914,
+        "word": "迈向结束疫情生活的道路不等于结束疫情",
+        "onboard_time": 1670591660,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1094511,
+        "num": 1094511,
+        "word": "梅西",
+        "onboard_time": 1670588600,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 941495,
+        "num": 941495,
+        "word": "男子未戴手套制作蛋糕胚被指恶心",
+        "onboard_time": 1670583680,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 888672,
+        "num": 888672,
+        "word": "少爷和我",
+        "onboard_time": 1670591300,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 815457,
+        "num": 815457,
+        "word": "4类人群不建议首选布洛芬退烧",
+        "onboard_time": 1670581580,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 649587,
+        "num": 649587,
+        "word": "财政部决定发行7500亿元特别国债",
+        "onboard_time": 1670582542,
+        "rank": 7,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 606179,
+        "num": 606179,
+        "word": "王嘉尔 可能是最后一支MV了",
+        "onboard_time": 1670583629,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 468177,
+        "num": 468177,
+        "word": "原来长大真的会变好看",
+        "onboard_time": 1670580439,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 497277,
+        "num": 465678,
+        "word": "陈奕迅 演唱会",
+        "onboard_time": 1670585539,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 477949,
+        "num": 465446,
+        "word": "李薇怀孕",
+        "onboard_time": 1670580558,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 475424,
+        "num": 463468,
+        "word": "郭襄",
+        "onboard_time": 1670568257,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 460791,
+        "num": 460791,
+        "word": "不用再担心核酸阳性医院不接诊",
+        "onboard_time": 1670575160,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350282,
+        "num": 350282,
+        "word": "黄桃罐头",
+        "onboard_time": 1670581880,
+        "rank": 14,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 326265,
+        "num": 326265,
+        "word": "Doinb",
+        "onboard_time": 1670588359,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 305319,
+        "num": 305319,
+        "word": "喜来登称婚房太吵扣3千押金",
+        "onboard_time": 1670581161,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301057,
+        "num": 301057,
+        "word": "睡眠不好的人有福了",
+        "onboard_time": 1670581340,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 280619,
+        "num": 280619,
+        "word": "邻居归还药锅放白色颗粒引人困惑",
+        "onboard_time": 1670579900,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274187,
+        "num": 274187,
+        "word": "国债",
+        "onboard_time": 1670587519,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 474964,
+        "num": 271290,
+        "word": "卿卿日常大结局全员HE",
+        "onboard_time": 1670589861,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 412829,
+        "num": 264617,
+        "word": "命韵峋环求婚完整版",
+        "onboard_time": 1670586741,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 425051,
+        "num": 261217,
+        "word": "白敬亭田曦薇直播同框",
+        "onboard_time": 1670588120,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 252379,
+        "num": 252379,
+        "word": "女子四胎出院90岁奶奶开车接回家",
+        "onboard_time": 1670573477,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250775,
+        "num": 251707,
+        "word": "新冠感染居家用药三原则",
+        "onboard_time": 1670587279,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234047,
+        "num": 251183,
+        "word": "被考研人的一天整破防了",
+        "onboard_time": 1670582181,
+        "rank": 25,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 220869,
+        "num": 250583,
+        "word": "退烧药与感冒药别叠加使用",
+        "onboard_time": 1670583018,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219143,
+        "num": 249580,
+        "word": "一家人围坐取暖火盆突然爆炸",
+        "onboard_time": 1670590101,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194133,
+        "num": 249214,
+        "word": "四级",
+        "onboard_time": 1670590826,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 191403,
+        "num": 247950,
+        "word": "钟南山回应新冠后遗症",
+        "onboard_time": 1670565623,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 586806,
+        "num": 247502,
+        "word": "中国四大直辖市完成换帅",
+        "onboard_time": 1670591240,
+        "rank": 30,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 326650,
+        "num": 246539,
+        "word": "林允儿大钟奖最佳女配角",
+        "onboard_time": 1670589920,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 301716,
+        "num": 245673,
+        "word": "陈飞宇李峋的收官特辑",
+        "onboard_time": 1670588059,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 300141,
+        "num": 245007,
+        "word": "张歆艺分享新冠康复过程",
+        "onboard_time": 1670569757,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 289903,
+        "num": 244830,
+        "word": "秦霄贤哈妮克孜对视眼神",
+        "onboard_time": 1670591961,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184996,
+        "num": 243413,
+        "word": "林孝埈",
+        "onboard_time": 1670574919,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175173,
+        "num": 243164,
+        "word": "周恺 靠谱",
+        "onboard_time": 1670588900,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173316,
+        "num": 242540,
+        "word": "浙江省考",
+        "onboard_time": 1670586622,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 166013,
+        "num": 241071,
+        "word": "达州疾控回应市民扎堆就诊",
+        "onboard_time": 1670576239,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163395,
+        "num": 240633,
+        "word": "人社局回复感染后居家薪资怎么算",
+        "onboard_time": 1670567838,
+        "rank": 39,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 282261,
+        "num": 240015,
+        "word": "山峥海薇约定白首不相离",
+        "onboard_time": 1670592141,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 261245,
+        "num": 239240,
+        "word": "周深时光音乐会演唱光亮",
+        "onboard_time": 1670591423,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 255660,
+        "num": 238776,
+        "word": "迪丽热巴推荐与君初相识恰似故人归",
+        "onboard_time": 1670587459,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 145257,
+        "num": 237998,
+        "word": "居然还有实心的猫",
+        "onboard_time": 1670578759,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 117080,
+        "num": 236591,
+        "word": "伊朗大使称在伊朗女性地位更高",
+        "onboard_time": 1670591780,
+        "rank": 44,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 110748,
+        "num": 236102,
+        "word": "郭襄已被注册商标",
+        "onboard_time": 1670581824,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103008,
+        "num": 235135,
+        "word": "C919从上海浦东飞上海虹桥",
+        "onboard_time": 1670570297,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101719,
+        "num": 234999,
+        "word": "Ruler加入JDG",
+        "onboard_time": 1670578581,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 93135,
+        "num": 233846,
+        "word": "我们正式迈向结束疫情生活的道路",
+        "onboard_time": 1670505439,
+        "rank": 48,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 91821,
+        "num": 233482,
+        "word": "C919第一声客舱广播",
+        "onboard_time": 1670591119,
+        "rank": 49,
+        "category": "科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#中阿峰会是个什么会#"
+    }
+  }
+}
