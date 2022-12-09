@@ -1,6 +1,6 @@
 {
   "startTime": 1670603204032,
-  "endTime": 1670618198767,
+  "endTime": 1670620621593,
   "band_list": [
     {
       "raw_hot": 11360361,
@@ -24,6 +24,14 @@
       "word": "克罗地亚门将",
       "onboard_time": 1670601080,
       "rank": 7,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 4708503,
+      "num": 5917006,
+      "word": "荷兰vs阿根廷",
+      "onboard_time": 1670609836,
+      "rank": 8,
       "category": "体育"
     },
     {
@@ -72,14 +80,6 @@
       "word": "莫德里奇 中场大师",
       "onboard_time": 1670604676,
       "rank": 25,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1906437,
-      "num": 1906437,
-      "word": "荷兰vs阿根廷",
-      "onboard_time": 1670609836,
-      "rank": 8,
       "category": "体育"
     },
     {
@@ -179,6 +179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 917171,
+      "num": 917171,
+      "word": "梅西",
+      "onboard_time": 1670588600,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 879267,
       "num": 879267,
       "word": "4人毒杀89只狗",
@@ -193,14 +201,6 @@
       "onboard_time": 1670600000,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 747291,
-      "num": 747291,
-      "word": "梅西",
-      "onboard_time": 1670588600,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 687133,
@@ -451,6 +451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 264305,
+      "num": 264305,
+      "word": "梅西手术刀助攻",
+      "onboard_time": 1670616614,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 262399,
       "num": 262399,
       "word": "女子花千元买柯基第二天查出细小",
@@ -555,14 +563,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 166177,
-      "num": 166177,
-      "word": "梅西手术刀助攻",
-      "onboard_time": 1670616614,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 164948,
       "num": 164948,
       "word": "男子点炸鸡没熟反馈后被补偿炸焦的",
@@ -659,6 +659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 134520,
+      "num": 134520,
+      "word": "管泽元",
+      "onboard_time": 1670612114,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 131765,
       "num": 134554,
       "word": "被考研人的一天整破防了",
@@ -723,19 +731,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 101916,
-      "num": 101916,
-      "word": "管泽元",
-      "onboard_time": 1670612114,
-      "rank": 20,
-      "category": "体育"
-    },
-    {
       "raw_hot": 92078,
       "num": 126520,
       "word": "新冠防疫手册",
       "onboard_time": 1670604556,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 77987,
+      "num": 77987,
+      "word": "央视曝光天价疏通马桶骗局",
+      "onboard_time": 1670615893,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -747,20 +755,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 62779,
-      "num": 62779,
-      "word": "央视曝光天价疏通马桶骗局",
-      "onboard_time": 1670615893,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 52058,
       "num": 52058,
       "word": "RNG",
       "onboard_time": 1670612053,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 50246,
+      "num": 50246,
+      "word": "克罗地亚 大心脏",
+      "onboard_time": 1670620272,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 31483,
