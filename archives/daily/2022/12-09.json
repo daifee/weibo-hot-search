@@ -1,6 +1,6 @@
 {
   "startTime": 1670516838629,
-  "endTime": 1670585605756,
+  "endTime": 1670589285155,
   "band_list": [
     {
       "raw_hot": 8994548,
@@ -115,6 +115,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1575553,
+      "num": 1575553,
+      "word": "男子点炸鸡没熟反馈后被补偿炸焦的",
+      "onboard_time": 1670580558,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1555094,
       "num": 1555094,
       "word": "导演说赵丽颖让团队决定接下风吹半夏",
@@ -147,11 +155,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1436035,
-      "num": 1436035,
-      "word": "男子点炸鸡没熟反馈后被补偿炸焦的",
-      "onboard_time": 1670580558,
-      "rank": 27,
+      "raw_hot": 1278978,
+      "num": 1278978,
+      "word": "男子未戴手套制作蛋糕胚被指恶心",
+      "onboard_time": 1670583680,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -219,6 +227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1013046,
+      "num": 1013046,
+      "word": "4类人群不建议首选布洛芬退烧",
+      "onboard_time": 1670581580,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 991735,
       "num": 991735,
       "word": "把方舱医院升级改造成亚定点医院",
@@ -259,14 +275,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 854432,
-      "num": 854432,
-      "word": "4类人群不建议首选布洛芬退烧",
-      "onboard_time": 1670581580,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 849179,
       "num": 654734,
       "word": "达州疫情防控",
@@ -299,6 +307,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 759505,
+      "num": 439761,
+      "word": "白敬亭田曦薇直播同框",
+      "onboard_time": 1670588120,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 756757,
       "num": 543150,
       "word": "张婧仪骑士公主纱裙十二宫格",
@@ -313,6 +329,14 @@
       "onboard_time": 1670555953,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 731916,
+      "num": 731916,
+      "word": "财政部决定发行7500亿元特别国债",
+      "onboard_time": 1670582542,
+      "rank": 13,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 721792,
@@ -369,14 +393,6 @@
       "onboard_time": 1670558418,
       "rank": 14,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 665518,
-      "num": 665518,
-      "word": "财政部决定发行7500亿元特别国债",
-      "onboard_time": 1670582542,
-      "rank": 13,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 660238,
@@ -611,14 +627,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 484642,
-      "num": 484642,
-      "word": "男子未戴手套制作蛋糕胚被指恶心",
-      "onboard_time": 1670583680,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 471579,
       "num": 471579,
       "word": "LOL全明星将被取消",
@@ -729,6 +737,22 @@
       "onboard_time": 1670544789,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 397774,
+      "num": 302753,
+      "word": "命韵峋环求婚完整版",
+      "onboard_time": 1670586741,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 396531,
+      "num": 302668,
+      "word": "陈奕迅 演唱会",
+      "onboard_time": 1670585539,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 396452,
@@ -867,6 +891,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 346656,
+      "num": 302652,
+      "word": "汤唯 大钟奖出席名单",
+      "onboard_time": 1670580080,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 336094,
       "num": 336094,
       "word": "李峋的黑背心不是P的",
@@ -880,6 +912,14 @@
       "word": "想见你电影版定档1231",
       "onboard_time": 1670516714,
       "rank": 42,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 332645,
+      "num": 209012,
+      "word": "陈飞宇李峋的收官特辑",
+      "onboard_time": 1670588059,
+      "rank": 31,
       "category": "影视"
     },
     {
@@ -939,14 +979,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 313668,
-      "num": 286821,
-      "word": "汤唯 大钟奖出席名单",
-      "onboard_time": 1670580080,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 310853,
       "num": 310853,
       "word": "杨幂许凯爱的二八定律厨房吻花絮",
@@ -955,12 +987,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 307851,
+      "num": 307851,
+      "word": "国债",
+      "onboard_time": 1670587519,
+      "rank": 18,
+      "category": "财经"
+    },
+    {
       "raw_hot": 305411,
       "num": 305411,
       "word": "看出深圳的快节奏了",
       "onboard_time": 1670511022,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 305335,
+      "num": 206795,
+      "word": "Irene音银舞台ending",
+      "onboard_time": 1670588959,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 305251,
@@ -977,6 +1025,14 @@
       "onboard_time": 1670581340,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 302935,
+      "num": 302935,
+      "word": "Doinb",
+      "onboard_time": 1670588359,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 300510,
@@ -1089,6 +1145,14 @@
       "onboard_time": 1670550013,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 267100,
+      "num": 205830,
+      "word": "迪丽热巴推荐与君初相识恰似故人归",
+      "onboard_time": 1670587459,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 264903,
@@ -1259,6 +1323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 234568,
+      "num": 201637,
+      "word": "李峋的目标是往后余生和朱韵在一起",
+      "onboard_time": 1670588959,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 234536,
       "num": 187178,
       "word": "安崎梁靖康现代爱情故事",
@@ -1313,14 +1385,6 @@
       "onboard_time": 1670515575,
       "rank": 20,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 221329,
-      "num": 174222,
-      "word": "陈奕迅 演唱会",
-      "onboard_time": 1670585539,
-      "rank": 47,
-      "category": "音乐"
     },
     {
       "raw_hot": 219531,
@@ -1451,12 +1515,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 200511,
+      "num": 200511,
+      "word": "浙江省考",
+      "onboard_time": 1670586622,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
       "raw_hot": 199331,
       "num": 199331,
       "word": "王一博刘雯辛芷蕾同框",
       "onboard_time": 1670506639,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 198796,
+      "num": 198796,
+      "word": "周恺 靠谱",
+      "onboard_time": 1670588900,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 198196,
@@ -1651,6 +1731,14 @@
       "category": "动漫,影视"
     },
     {
+      "raw_hot": 177704,
+      "num": 177704,
+      "word": "新冠感染居家用药三原则",
+      "onboard_time": 1670587279,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 176332,
       "num": 176332,
       "word": "李庚希张超新剧前5集都在互怼",
@@ -1729,6 +1817,14 @@
       "onboard_time": 1670544429,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 159150,
+      "num": 159150,
+      "word": "梅西",
+      "onboard_time": 1670588600,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 156712,
@@ -1812,7 +1908,7 @@
     },
     {
       "raw_hot": 149444,
-      "num": 149444,
+      "num": 343079,
       "word": "C罗球迷有多会玩",
       "onboard_time": 1670562918,
       "rank": 49,

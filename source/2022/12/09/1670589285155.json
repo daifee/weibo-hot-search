@@ -1,0 +1,410 @@
+{
+  "runTime": 1670589285155,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1575553,
+        "num": 1575553,
+        "word": "男子点炸鸡没熟反馈后被补偿炸焦的",
+        "onboard_time": 1670580558,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1278978,
+        "num": 1278978,
+        "word": "男子未戴手套制作蛋糕胚被指恶心",
+        "onboard_time": 1670583680,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112631,
+        "num": 1030678,
+        "word": "我们正式迈向结束疫情生活的道路",
+        "onboard_time": 1670505439,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1013046,
+        "num": 1013046,
+        "word": "4类人群不建议首选布洛芬退烧",
+        "onboard_time": 1670581580,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 910890,
+        "num": 910890,
+        "word": "郭襄",
+        "onboard_time": 1670568257,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 731916,
+        "num": 731916,
+        "word": "财政部决定发行7500亿元特别国债",
+        "onboard_time": 1670582542,
+        "rank": 5,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 716234,
+        "num": 716234,
+        "word": "李薇怀孕",
+        "onboard_time": 1670580558,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 645051,
+        "num": 645051,
+        "word": "王嘉尔 可能是最后一支MV了",
+        "onboard_time": 1670583629,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 561181,
+        "num": 561181,
+        "word": "原来长大真的会变好看",
+        "onboard_time": 1670580439,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 452788,
+        "num": 452788,
+        "word": "不用再担心核酸阳性医院不接诊",
+        "onboard_time": 1670575160,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1395922,
+        "num": 449120,
+        "word": "NCT4名成员发生坠落事故",
+        "onboard_time": 1670584161,
+        "rank": 10,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 759505,
+        "num": 439761,
+        "word": "白敬亭田曦薇直播同框",
+        "onboard_time": 1670588120,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 403138,
+        "num": 403138,
+        "word": "张歆艺分享新冠康复过程",
+        "onboard_time": 1670569757,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 343662,
+        "num": 343662,
+        "word": "黄桃罐头",
+        "onboard_time": 1670581880,
+        "rank": 13,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 95298,
+        "num": 343079,
+        "word": "C罗球迷有多会玩",
+        "onboard_time": 1670562918,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 342904,
+        "num": 342904,
+        "word": "喜来登称婚房太吵扣3千押金",
+        "onboard_time": 1670581161,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334341,
+        "num": 334341,
+        "word": "人社局回复感染后居家薪资怎么算",
+        "onboard_time": 1670567838,
+        "rank": 16,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 311247,
+        "num": 311247,
+        "word": "林孝埈",
+        "onboard_time": 1670574919,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 307851,
+        "num": 307851,
+        "word": "国债",
+        "onboard_time": 1670587519,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 302935,
+        "num": 302935,
+        "word": "Doinb",
+        "onboard_time": 1670588359,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 397774,
+        "num": 302753,
+        "word": "命韵峋环求婚完整版",
+        "onboard_time": 1670586741,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 396531,
+        "num": 302668,
+        "word": "陈奕迅 演唱会",
+        "onboard_time": 1670585539,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 346656,
+        "num": 302652,
+        "word": "汤唯 大钟奖出席名单",
+        "onboard_time": 1670580080,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 301721,
+        "num": 301721,
+        "word": "睡眠不好的人有福了",
+        "onboard_time": 1670581340,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 291009,
+        "num": 291009,
+        "word": "被考研人的一天整破防了",
+        "onboard_time": 1670582181,
+        "rank": 24,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 263519,
+        "num": 263519,
+        "word": "女子四胎出院90岁奶奶开车接回家",
+        "onboard_time": 1670573477,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257032,
+        "num": 257032,
+        "word": "顺丰",
+        "onboard_time": 1670575398,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244391,
+        "num": 244391,
+        "word": "退烧药与感冒药别叠加使用",
+        "onboard_time": 1670583018,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236946,
+        "num": 236946,
+        "word": "邻居归还药锅放白色颗粒引人困惑",
+        "onboard_time": 1670579900,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214142,
+        "num": 214142,
+        "word": "钟南山回应新冠后遗症",
+        "onboard_time": 1670565623,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343646,
+        "num": 213655,
+        "word": "白鹿说亲戚结婚自己要表演节目",
+        "onboard_time": 1670584824,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 332645,
+        "num": 209012,
+        "word": "陈飞宇李峋的收官特辑",
+        "onboard_time": 1670588059,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 305335,
+        "num": 206795,
+        "word": "Irene音银舞台ending",
+        "onboard_time": 1670588959,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 267100,
+        "num": 205830,
+        "word": "迪丽热巴推荐与君初相识恰似故人归",
+        "onboard_time": 1670587459,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 234568,
+        "num": 201637,
+        "word": "李峋的目标是往后余生和朱韵在一起",
+        "onboard_time": 1670588959,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 200511,
+        "num": 200511,
+        "word": "浙江省考",
+        "onboard_time": 1670586622,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 198796,
+        "num": 198796,
+        "word": "周恺 靠谱",
+        "onboard_time": 1670588900,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178396,
+        "num": 178396,
+        "word": "达州疾控回应市民扎堆就诊",
+        "onboard_time": 1670576239,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177704,
+        "num": 177704,
+        "word": "新冠感染居家用药三原则",
+        "onboard_time": 1670587279,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165255,
+        "num": 165255,
+        "word": "Ruler加入JDG",
+        "onboard_time": 1670578581,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 232778,
+        "num": 163394,
+        "word": "李峋的黑背心不是P的",
+        "onboard_time": 1670579840,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 159150,
+        "num": 159150,
+        "word": "梅西",
+        "onboard_time": 1670588600,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142235,
+        "num": 142235,
+        "word": "居然还有实心的猫",
+        "onboard_time": 1670578759,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 134495,
+        "num": 134495,
+        "word": "C919从上海浦东飞上海虹桥",
+        "onboard_time": 1670570297,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130287,
+        "num": 130287,
+        "word": "巴西和阿根廷能会师半决赛吗",
+        "onboard_time": 1670568419,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127262,
+        "num": 127262,
+        "word": "郭襄已被注册商标",
+        "onboard_time": 1670581824,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118497,
+        "num": 118497,
+        "word": "把方舱医院升级改造成亚定点医院",
+        "onboard_time": 1670571919,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116550,
+        "num": 116550,
+        "word": "小学生网课偷吃被老师投放在主屏幕",
+        "onboard_time": 1670579238,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116384,
+        "num": 116384,
+        "word": "球迷用100只大闸蟹预测阿根廷赢",
+        "onboard_time": 1670585062,
+        "rank": 48,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 108899,
+        "num": 108899,
+        "word": "女子接假冒防疫电话被骗2504万",
+        "onboard_time": 1670569941,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#丝路繁华连接中阿文明#"
+    }
+  }
+}
