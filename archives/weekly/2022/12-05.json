@@ -1,6 +1,6 @@
 {
   "startTime": 1670171104099,
-  "endTime": 1670614404461,
+  "endTime": 1670617384362,
   "band_list": [
     {
       "raw_hot": 11360361,
@@ -4785,6 +4785,14 @@
       "onboard_time": 1670383213,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 384126,
+      "num": 255783,
+      "word": "荷兰半场0比1阿根廷",
+      "onboard_time": 1670616433,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 382415,
@@ -11083,6 +11091,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 123467,
+      "num": 123467,
+      "word": "抖音世界杯4K直播涉嫌侵权",
+      "onboard_time": 1670611936,
+      "rank": 30,
+      "category": "科技"
+    },
+    {
       "raw_hot": 123294,
       "num": 123294,
       "word": "终于吃到了路飞手上的那块肉",
@@ -11643,6 +11659,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 106282,
+      "num": 106282,
+      "word": "梅西手术刀助攻",
+      "onboard_time": 1670616614,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 106222,
       "num": 106222,
       "word": "呼叫AI来玩图",
@@ -11793,6 +11817,14 @@
       "onboard_time": 1670317092,
       "rank": 41,
       "category": "科技"
+    },
+    {
+      "raw_hot": 101916,
+      "num": 101916,
+      "word": "管泽元",
+      "onboard_time": 1670612114,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 101818,
@@ -12025,14 +12057,6 @@
       "onboard_time": 1670332330,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 89147,
-      "num": 89147,
-      "word": "抖音世界杯4K直播涉嫌侵权",
-      "onboard_time": 1670611936,
-      "rank": 30,
-      "category": "科技"
     },
     {
       "raw_hot": 88683,
@@ -12377,6 +12401,14 @@
       "onboard_time": 1670359508,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 46894,
+      "num": 46894,
+      "word": "央视曝光天价疏通马桶骗局",
+      "onboard_time": 1670615893,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 46423,

@@ -1,6 +1,6 @@
 {
   "startTime": 1670603204032,
-  "endTime": 1670614404461,
+  "endTime": 1670617384362,
   "band_list": [
     {
       "raw_hot": 11360361,
@@ -313,6 +313,14 @@
       "onboard_time": 1670598560,
       "rank": 16,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 384126,
+      "num": 255783,
+      "word": "荷兰半场0比1阿根廷",
+      "onboard_time": 1670616433,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 365923,
@@ -659,6 +667,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 123467,
+      "num": 123467,
+      "word": "抖音世界杯4K直播涉嫌侵权",
+      "onboard_time": 1670611936,
+      "rank": 30,
+      "category": "科技"
+    },
+    {
       "raw_hot": 119202,
       "num": 119202,
       "word": "克罗地亚狂想曲",
@@ -672,6 +688,14 @@
       "word": "内马尔个人能力",
       "onboard_time": 1670610074,
       "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 106282,
+      "num": 106282,
+      "word": "梅西手术刀助攻",
+      "onboard_time": 1670616614,
+      "rank": 18,
       "category": "体育"
     },
     {
@@ -699,20 +723,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 101916,
+      "num": 101916,
+      "word": "管泽元",
+      "onboard_time": 1670612114,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 92078,
       "num": 126520,
       "word": "新冠防疫手册",
       "onboard_time": 1670604556,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 89147,
-      "num": 89147,
-      "word": "抖音世界杯4K直播涉嫌侵权",
-      "onboard_time": 1670611936,
-      "rank": 30,
-      "category": "科技"
     },
     {
       "raw_hot": 75298,
@@ -729,6 +753,14 @@
       "onboard_time": 1670612053,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 46894,
+      "num": 46894,
+      "word": "央视曝光天价疏通马桶骗局",
+      "onboard_time": 1670615893,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 31483,
