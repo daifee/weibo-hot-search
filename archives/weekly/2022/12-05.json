@@ -1,6 +1,6 @@
 {
   "startTime": 1670171104099,
-  "endTime": 1670599080813,
+  "endTime": 1670600049176,
   "band_list": [
     {
       "raw_hot": 8994548,
@@ -187,20 +187,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2679649,
+      "num": 2679649,
+      "word": "克罗地亚vs巴西",
+      "onboard_time": 1670594060,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2654472,
       "num": 2654472,
       "word": "完全恢复到疫情前需要哪些条件",
       "onboard_time": 1670400914,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2570729,
-      "num": 2570729,
-      "word": "克罗地亚vs巴西",
-      "onboard_time": 1670594060,
-      "rank": 3,
-      "category": "体育"
     },
     {
       "raw_hot": 2555673,
@@ -1731,6 +1731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 792816,
+      "num": 792816,
+      "word": "孙悦 状态",
+      "onboard_time": 1670598322,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 788144,
       "num": 627701,
       "word": "曾可妮把张婧仪搂进羽绒服里",
@@ -2289,14 +2297,6 @@
       "onboard_time": 1670424015,
       "rank": 12,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 650582,
-      "num": 448178,
-      "word": "孙悦 状态",
-      "onboard_time": 1670598322,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 649902,
@@ -3083,6 +3083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 530995,
+      "num": 530995,
+      "word": "女子买螃蟹抓掉到楼下的袜子",
+      "onboard_time": 1670595502,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 529569,
       "num": 529569,
       "word": "宝宝在菜地啃着萝卜陪妈妈",
@@ -3227,6 +3235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 511500,
+      "num": 280988,
+      "word": "财阀家的小儿子",
+      "onboard_time": 1670598322,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 509031,
       "num": 509031,
       "word": "白鹿说亲戚结婚自己要表演节目",
@@ -3361,14 +3377,6 @@
       "onboard_time": 1670489057,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 492836,
-      "num": 492836,
-      "word": "女子买螃蟹抓掉到楼下的袜子",
-      "onboard_time": 1670595502,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 492814,
@@ -4507,14 +4515,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 385814,
-      "num": 202658,
-      "word": "财阀家的小儿子",
-      "onboard_time": 1670598322,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 385807,
       "num": 1171404,
       "word": "原来日本队晚饭吃这些东西",
@@ -5643,6 +5643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 302154,
+      "num": 134112,
+      "word": "李诞这辈子也不能和谐音梗和解了",
+      "onboard_time": 1670599100,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 301417,
       "num": 301417,
       "word": "王楚钦",
@@ -5849,6 +5857,14 @@
       "onboard_time": 1670554994,
       "rank": 21,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 286454,
+      "num": 286454,
+      "word": "有个来报恩的女儿是种什么体验",
+      "onboard_time": 1670598560,
+      "rank": 39,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 286094,
@@ -9363,6 +9379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 154262,
+      "num": 154262,
+      "word": "巴西状态",
+      "onboard_time": 1670599759,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 154233,
       "num": 248195,
       "word": "常规时间日本1比1克罗地亚",
@@ -9753,14 +9777,6 @@
       "onboard_time": 1670397734,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 145306,
-      "num": 201806,
-      "word": "有个来报恩的女儿是种什么体验",
-      "onboard_time": 1670598560,
-      "rank": 39,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 145069,
@@ -10267,6 +10283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 135060,
+      "num": 135060,
+      "word": "XYG 状态",
+      "onboard_time": 1670599160,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 135041,
       "num": 135041,
       "word": "女子地下室杂物间开猫洞给流浪猫住",
@@ -10385,6 +10409,14 @@
       "onboard_time": 1670282166,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 131662,
+      "num": 131662,
+      "word": "4人毒杀89只狗",
+      "onboard_time": 1670599518,
+      "rank": 42,
+      "category": "社会负面"
     },
     {
       "raw_hot": 131414,
@@ -11051,6 +11083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 113165,
+      "num": 113165,
+      "word": "巴西队又双叒有人染白发了",
+      "onboard_time": 1670599879,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 112621,
       "num": 223880,
       "word": "1个视频学会抗原自测操作",
@@ -11195,6 +11235,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 107703,
+      "num": 107703,
+      "word": "厂家称黄桃罐头没有任何药效",
+      "onboard_time": 1670600000,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 107254,
       "num": 107254,
       "word": "邓刚雨天守钓大青鱼",
@@ -11209,6 +11257,14 @@
       "onboard_time": 1670301490,
       "rank": 49,
       "category": "教育"
+    },
+    {
+      "raw_hot": 107054,
+      "num": 107054,
+      "word": "克罗地亚狂想曲 桑巴",
+      "onboard_time": 1670600000,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 106906,
@@ -11257,6 +11313,14 @@
       "onboard_time": 1670230332,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 105843,
+      "num": 105843,
+      "word": "暖阳澜五连绝世",
+      "onboard_time": 1670597542,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 105653,

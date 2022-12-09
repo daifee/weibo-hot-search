@@ -1,6 +1,6 @@
 {
   "startTime": 1670516838629,
-  "endTime": 1670599080813,
+  "endTime": 1670600049176,
   "band_list": [
     {
       "raw_hot": 8994548,
@@ -35,20 +35,20 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 2679649,
+      "num": 2679649,
+      "word": "克罗地亚vs巴西",
+      "onboard_time": 1670594060,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2672256,
       "num": 2672256,
       "word": "我们正式迈向结束疫情生活的道路",
       "onboard_time": 1670505439,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2570729,
-      "num": 2570729,
-      "word": "克罗地亚vs巴西",
-      "onboard_time": 1670594060,
-      "rank": 3,
-      "category": "体育"
     },
     {
       "raw_hot": 2335771,
@@ -347,6 +347,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 792816,
+      "num": 792816,
+      "word": "孙悦 状态",
+      "onboard_time": 1670598322,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 769602,
       "num": 456456,
       "word": "郝葭 芳如",
@@ -457,14 +465,6 @@
       "onboard_time": 1670570297,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 650582,
-      "num": 448178,
-      "word": "孙悦 状态",
-      "onboard_time": 1670598322,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 641621,
@@ -627,6 +627,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 530995,
+      "num": 530995,
+      "word": "女子买螃蟹抓掉到楼下的袜子",
+      "onboard_time": 1670595502,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 528693,
       "num": 426080,
       "word": "元旦春节将使疫情形势达到高峰",
@@ -657,6 +665,14 @@
       "onboard_time": 1670581161,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 511500,
+      "num": 280988,
+      "word": "财阀家的小儿子",
+      "onboard_time": 1670598322,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 509031,
@@ -713,14 +729,6 @@
       "onboard_time": 1670566756,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 492836,
-      "num": 492836,
-      "word": "女子买螃蟹抓掉到楼下的袜子",
-      "onboard_time": 1670595502,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 492814,
@@ -923,14 +931,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 385814,
-      "num": 202658,
-      "word": "财阀家的小儿子",
-      "onboard_time": 1670598322,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 384793,
       "num": 384793,
       "word": "刘耀文初雪视频背景音乐是新歌",
@@ -1089,6 +1089,14 @@
       "onboard_time": 1670591961,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 336204,
+      "num": 336204,
+      "word": "莫德里奇",
+      "onboard_time": 1670598322,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 336094,
@@ -1259,6 +1267,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 302154,
+      "num": 134112,
+      "word": "李诞这辈子也不能和谐音梗和解了",
+      "onboard_time": 1670599100,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 300510,
       "num": 300510,
       "word": "刘耀文希望在镜头前可以更有自信一点",
@@ -1297,6 +1313,14 @@
       "onboard_time": 1670554994,
       "rank": 21,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 286454,
+      "num": 286454,
+      "word": "有个来报恩的女儿是种什么体验",
+      "onboard_time": 1670598560,
+      "rank": 39,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 283074,
@@ -1731,14 +1755,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 212577,
-      "num": 212577,
-      "word": "莫德里奇",
-      "onboard_time": 1670598322,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 209467,
       "num": 209467,
       "word": "县委大院 真实",
@@ -2115,6 +2131,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 154262,
+      "num": 154262,
+      "word": "巴西状态",
+      "onboard_time": 1670599759,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 154170,
       "num": 154170,
       "word": "今晚火星几乎彻夜可见",
@@ -2225,14 +2249,6 @@
       "onboard_time": 1670497037,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 145306,
-      "num": 201806,
-      "word": "有个来报恩的女儿是种什么体验",
-      "onboard_time": 1670598560,
-      "rank": 39,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 144341,
@@ -2363,6 +2379,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 135060,
+      "num": 135060,
+      "word": "XYG 状态",
+      "onboard_time": 1670599160,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 134175,
       "num": 134175,
       "word": "手把手教你抗原自测",
@@ -2385,6 +2409,14 @@
       "onboard_time": 1670566878,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 131662,
+      "num": 131662,
+      "word": "4人毒杀89只狗",
+      "onboard_time": 1670599518,
+      "rank": 42,
+      "category": "社会负面"
     },
     {
       "raw_hot": 131414,
@@ -2603,6 +2635,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 113165,
+      "num": 113165,
+      "word": "巴西队又双叒有人染白发了",
+      "onboard_time": 1670599879,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 112621,
       "num": 223880,
       "word": "1个视频学会抗原自测操作",
@@ -2635,6 +2675,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 107703,
+      "num": 107703,
+      "word": "厂家称黄桃罐头没有任何药效",
+      "onboard_time": 1670600000,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 107054,
+      "num": 107054,
+      "word": "克罗地亚狂想曲 桑巴",
+      "onboard_time": 1670600000,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 106937,
       "num": 106937,
       "word": "考研可以改变命运吗",
@@ -2657,6 +2713,14 @@
       "onboard_time": 1670522653,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 105843,
+      "num": 105843,
+      "word": "暖阳澜五连绝世",
+      "onboard_time": 1670597542,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 104730,
