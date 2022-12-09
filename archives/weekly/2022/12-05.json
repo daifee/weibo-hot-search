@@ -1,6 +1,6 @@
 {
   "startTime": 1670171104099,
-  "endTime": 1670595416930,
+  "endTime": 1670596417913,
   "band_list": [
     {
       "raw_hot": 8994548,
@@ -571,6 +571,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1638580,
+      "num": 1638580,
+      "word": "克罗地亚vs巴西",
+      "onboard_time": 1670594060,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1633271,
       "num": 1150835,
       "word": "新冠发病7天内身体会发生什么变化",
@@ -827,20 +835,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1332986,
-      "num": 1332986,
-      "word": "克罗地亚vs巴西",
-      "onboard_time": 1670594060,
-      "rank": 3,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1316233,
       "num": 1316233,
       "word": "为什么大家都在囤布洛芬",
       "onboard_time": 1670506758,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1306148,
+      "num": 1306148,
+      "word": "梅西",
+      "onboard_time": 1670588600,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 1286618,
@@ -899,6 +907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1246879,
+      "num": 452043,
+      "word": "中国四大直辖市完成换帅",
+      "onboard_time": 1670591240,
+      "rank": 30,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 1237898,
       "num": 2494323,
       "word": "浙江已制定新冠分级诊疗方案",
@@ -953,14 +969,6 @@
       "onboard_time": 1670246292,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1210018,
-      "num": 452043,
-      "word": "中国四大直辖市完成换帅",
-      "onboard_time": 1670591240,
-      "rank": 30,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 1189894,
@@ -1080,14 +1088,6 @@
       "word": "孙继海说C罗今晚回家",
       "onboard_time": 1670336829,
       "rank": 34,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1111721,
-      "num": 1111721,
-      "word": "梅西",
-      "onboard_time": 1670588600,
-      "rank": 41,
       "category": "体育"
     },
     {
@@ -1257,6 +1257,14 @@
       "onboard_time": 1670343370,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 950885,
+      "num": 950885,
+      "word": "张栋梁17年前vs17年后",
+      "onboard_time": 1670594001,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 947533,
@@ -1721,14 +1729,6 @@
       "onboard_time": 1670168533,
       "rank": 6,
       "category": "体育"
-    },
-    {
-      "raw_hot": 792519,
-      "num": 792519,
-      "word": "张栋梁17年前vs17年后",
-      "onboard_time": 1670594001,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 788144,
@@ -4259,6 +4259,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 403490,
+      "num": 403490,
+      "word": "儿保科医师疑因偷盗婴儿被开除",
+      "onboard_time": 1670592319,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 400806,
       "num": 378287,
       "word": "店主没带汤勺用鸭头盛卤汁",
@@ -4755,14 +4763,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 352386,
-      "num": 352386,
-      "word": "儿保科医师疑因偷盗婴儿被开除",
-      "onboard_time": 1670592319,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 352225,
       "num": 352225,
       "word": "女子嫌52元红包少被诉还6万恋爱花费",
@@ -4785,6 +4785,14 @@
       "onboard_time": 1670578759,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 349795,
+      "num": 332111,
+      "word": "卿卿日常 群像",
+      "onboard_time": 1670595863,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 349572,
@@ -4897,6 +4905,14 @@
       "onboard_time": 1670241071,
       "rank": 39,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 337039,
+      "num": 331755,
+      "word": "李峋的独白",
+      "onboard_time": 1670595320,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 336724,
@@ -5115,6 +5131,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 328398,
+      "num": 269329,
+      "word": "卿卿日常 传承",
+      "onboard_time": 1670595740,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 326811,
       "num": 326811,
       "word": "赵露思新剧开机状态",
@@ -5329,6 +5353,14 @@
       "onboard_time": 1670231533,
       "rank": 42,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 313329,
+      "num": 214266,
+      "word": "吴磊周雨彤爱情而已对镜合拍",
+      "onboard_time": 1670595921,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 313051,
@@ -5811,6 +5843,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 282157,
+      "num": 214259,
+      "word": "郝葭 芳如",
+      "onboard_time": 1670596280,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 280643,
       "num": 280643,
       "word": "TVB超能使者是今年的最佳港剧吗",
@@ -6267,14 +6307,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 263521,
-      "num": 234325,
-      "word": "李峋的独白",
-      "onboard_time": 1670595320,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 263266,
       "num": 263266,
       "word": "男孩时隔4个月见父母礼貌喊叔叔",
@@ -6313,6 +6345,14 @@
       "onboard_time": 1670590101,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 261391,
+      "num": 261391,
+      "word": "六级",
+      "onboard_time": 1670594538,
+      "rank": 36,
+      "category": "教育"
     },
     {
       "raw_hot": 261232,
@@ -7113,6 +7153,14 @@
       "onboard_time": 1670224632,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 223423,
+      "num": 223423,
+      "word": "梅西收到中国球迷赠送的画册",
+      "onboard_time": 1670596041,
+      "rank": 29,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 223191,
@@ -8267,14 +8315,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 183071,
-      "num": 228367,
-      "word": "六级",
-      "onboard_time": 1670594538,
-      "rank": 36,
-      "category": "教育"
-    },
-    {
       "raw_hot": 182927,
       "num": 182927,
       "word": "检出混管阳性的楼栋不再封控",
@@ -8937,6 +8977,14 @@
       "onboard_time": 1670161814,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 163468,
+      "num": 200970,
+      "word": "克罗地亚vs巴西首发",
+      "onboard_time": 1670596041,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 163410,
@@ -10603,6 +10651,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 122988,
+      "num": 200390,
+      "word": "正骨到底怎么个正法儿",
+      "onboard_time": 1670596280,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 122471,
       "num": 122471,
       "word": "古人怎么休假",
@@ -10681,6 +10737,14 @@
       "onboard_time": 1670492836,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 119724,
+      "num": 418489,
+      "word": "为什么大家都去这拍大片",
+      "onboard_time": 1670594426,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 119415,
@@ -11401,14 +11465,6 @@
       "onboard_time": 1670591119,
       "rank": 49,
       "category": "科技"
-    },
-    {
-      "raw_hot": 91629,
-      "num": 418489,
-      "word": "为什么大家都去这拍大片",
-      "onboard_time": 1670594426,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 91425,

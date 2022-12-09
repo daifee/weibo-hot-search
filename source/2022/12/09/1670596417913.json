@@ -1,0 +1,410 @@
+{
+  "runTime": 1670596417913,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1638580,
+        "num": 1638580,
+        "word": "克罗地亚vs巴西",
+        "onboard_time": 1670594060,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1530567,
+        "num": 1530567,
+        "word": "NCT4名成员发生坠落事故",
+        "onboard_time": 1670584161,
+        "rank": 1,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 498663,
+        "num": 1385986,
+        "word": "迈向结束疫情生活的道路不等于结束疫情",
+        "onboard_time": 1670591660,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1306148,
+        "num": 1306148,
+        "word": "梅西",
+        "onboard_time": 1670588600,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1261481,
+        "num": 1261481,
+        "word": "少爷和我",
+        "onboard_time": 1670591300,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 950885,
+        "num": 950885,
+        "word": "张栋梁17年前vs17年后",
+        "onboard_time": 1670594001,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 722046,
+        "num": 722046,
+        "word": "男子点炸鸡没熟反馈后被补偿炸焦的",
+        "onboard_time": 1670580558,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 614823,
+        "num": 614823,
+        "word": "4类人群不建议首选布洛芬退烧",
+        "onboard_time": 1670581580,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 500995,
+        "num": 500995,
+        "word": "男子未戴手套制作蛋糕胚被指恶心",
+        "onboard_time": 1670583680,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 451825,
+        "num": 451825,
+        "word": "不用再担心核酸阳性医院不接诊",
+        "onboard_time": 1670575160,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1246879,
+        "num": 440515,
+        "word": "中国四大直辖市完成换帅",
+        "onboard_time": 1670591240,
+        "rank": 10,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 477217,
+        "num": 433311,
+        "word": "卿卿日常大结局全员HE",
+        "onboard_time": 1670589861,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 457073,
+        "num": 422638,
+        "word": "王嘉尔 可能是最后一支MV了",
+        "onboard_time": 1670583629,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 411897,
+        "num": 411897,
+        "word": "陈奕迅 演唱会",
+        "onboard_time": 1670585539,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 119724,
+        "num": 403905,
+        "word": "为什么大家都去这拍大片",
+        "onboard_time": 1670594426,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 403490,
+        "num": 403490,
+        "word": "儿保科医师疑因偷盗婴儿被开除",
+        "onboard_time": 1670592319,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 376574,
+        "num": 376574,
+        "word": "财政部决定发行7500亿元特别国债",
+        "onboard_time": 1670582542,
+        "rank": 16,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 364074,
+        "num": 364074,
+        "word": "伊朗大使称在伊朗女性地位更高",
+        "onboard_time": 1670591780,
+        "rank": 17,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 355824,
+        "num": 355824,
+        "word": "原来长大真的会变好看",
+        "onboard_time": 1670580439,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 332427,
+        "num": 332427,
+        "word": "黄桃罐头",
+        "onboard_time": 1670581880,
+        "rank": 19,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 349795,
+        "num": 332111,
+        "word": "卿卿日常 群像",
+        "onboard_time": 1670595863,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 337039,
+        "num": 331755,
+        "word": "李峋的独白",
+        "onboard_time": 1670595320,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 331037,
+        "num": 331037,
+        "word": "李薇怀孕",
+        "onboard_time": 1670580558,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 278045,
+        "num": 278045,
+        "word": "睡眠不好的人有福了",
+        "onboard_time": 1670581340,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 269492,
+        "num": 269492,
+        "word": "四级",
+        "onboard_time": 1670590826,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 328398,
+        "num": 269329,
+        "word": "卿卿日常 传承",
+        "onboard_time": 1670595740,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 261391,
+        "num": 261391,
+        "word": "六级",
+        "onboard_time": 1670594538,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 233537,
+        "num": 233537,
+        "word": "新冠感染居家用药三原则",
+        "onboard_time": 1670587279,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230457,
+        "num": 230457,
+        "word": "一家人围坐取暖火盆突然爆炸",
+        "onboard_time": 1670590101,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223423,
+        "num": 223423,
+        "word": "梅西收到中国球迷赠送的画册",
+        "onboard_time": 1670596041,
+        "rank": 29,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 330304,
+        "num": 222580,
+        "word": "白敬亭田曦薇直播同框",
+        "onboard_time": 1670588120,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 313329,
+        "num": 214266,
+        "word": "吴磊周雨彤爱情而已对镜合拍",
+        "onboard_time": 1670595921,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 282157,
+        "num": 214259,
+        "word": "郝葭 芳如",
+        "onboard_time": 1670596280,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 201481,
+        "num": 201481,
+        "word": "国债",
+        "onboard_time": 1670587519,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 188783,
+        "num": 201416,
+        "word": "Doinb",
+        "onboard_time": 1670588359,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 254054,
+        "num": 201291,
+        "word": "秦霄贤哈妮克孜对视眼神",
+        "onboard_time": 1670591961,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178908,
+        "num": 201250,
+        "word": "被考研人的一天整破防了",
+        "onboard_time": 1670582181,
+        "rank": 36,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 177757,
+        "num": 201157,
+        "word": "女子四胎出院90岁奶奶开车接回家",
+        "onboard_time": 1670573477,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166275,
+        "num": 201029,
+        "word": "喜来登称婚房太吵扣3千押金",
+        "onboard_time": 1670581161,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163468,
+        "num": 200970,
+        "word": "克罗地亚vs巴西首发",
+        "onboard_time": 1670596041,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 245250,
+        "num": 200801,
+        "word": "林允儿大钟奖最佳女配角",
+        "onboard_time": 1670589920,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 233176,
+        "num": 200751,
+        "word": "李峋把飞扬改名LP",
+        "onboard_time": 1670593159,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 156598,
+        "num": 200618,
+        "word": "邻居归还药锅放白色颗粒引人困惑",
+        "onboard_time": 1670579900,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130159,
+        "num": 200534,
+        "word": "退烧药与感冒药别叠加使用",
+        "onboard_time": 1670583018,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122988,
+        "num": 200390,
+        "word": "正骨到底怎么个正法儿",
+        "onboard_time": 1670596280,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 122682,
+        "num": 200260,
+        "word": "林孝埈",
+        "onboard_time": 1670574919,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115420,
+        "num": 200169,
+        "word": "浙江省考",
+        "onboard_time": 1670586622,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 115009,
+        "num": 200084,
+        "word": "达州疾控回应市民扎堆就诊",
+        "onboard_time": 1670576239,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114142,
+        "num": 200041,
+        "word": "XYG对战WB",
+        "onboard_time": 1670594001,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 111301,
+        "num": 199917,
+        "word": "居然还有实心的猫",
+        "onboard_time": 1670578759,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#丝路繁华连接中阿文明#"
+    }
+  }
+}
