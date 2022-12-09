@@ -1,6 +1,6 @@
 {
   "startTime": 1670603204032,
-  "endTime": 1670611085775,
+  "endTime": 1670613280419,
   "band_list": [
     {
       "raw_hot": 11360361,
@@ -259,12 +259,28 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 534457,
+      "num": 534457,
+      "word": "葡萄牙主帅承认C罗不满替补",
+      "onboard_time": 1670611454,
+      "rank": 7,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 444755,
       "num": 444755,
       "word": "卿卿日常 传承",
       "onboard_time": 1670595740,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 435336,
+      "num": 435336,
+      "word": "贝利",
+      "onboard_time": 1670610855,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 434368,
@@ -611,14 +627,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 142232,
-      "num": 142232,
-      "word": "贝利",
-      "onboard_time": 1670610855,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 134944,
       "num": 134944,
       "word": "相信卡塔尔世界杯将成载入史册的世界杯",
@@ -705,6 +713,30 @@
       "onboard_time": 1670607557,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 70879,
+      "num": 70879,
+      "word": "抖音世界杯4K直播涉嫌侵权",
+      "onboard_time": 1670611936,
+      "rank": 30,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 33871,
+      "num": 44364,
+      "word": "RNG",
+      "onboard_time": 1670612053,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 20675,
+      "num": 44299,
+      "word": "中阿友好相信还会好上加好",
+      "onboard_time": 1670613192,
+      "rank": 49,
+      "category": "国内要闻"
     }
   ],
   "hotgov_list": [
