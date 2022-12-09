@@ -1,6 +1,6 @@
 {
   "startTime": 1670516838629,
-  "endTime": 1670589285155,
+  "endTime": 1670590425047,
   "band_list": [
     {
       "raw_hot": 8994548,
@@ -308,7 +308,7 @@
     },
     {
       "raw_hot": 759505,
-      "num": 439761,
+      "num": 465232,
       "word": "白敬亭田曦薇直播同框",
       "onboard_time": 1670588120,
       "rank": 11,
@@ -627,6 +627,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 488999,
+      "num": 464740,
+      "word": "陈奕迅 演唱会",
+      "onboard_time": 1670585539,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 471579,
       "num": 471579,
       "word": "LOL全明星将被取消",
@@ -641,6 +649,14 @@
       "onboard_time": 1670575700,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 463146,
+      "num": 463146,
+      "word": "梅西",
+      "onboard_time": 1670588600,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 459712,
@@ -731,6 +747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 403566,
+      "num": 403566,
+      "word": "Doinb",
+      "onboard_time": 1670588359,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 400043,
       "num": 400043,
       "word": "叶婷",
@@ -740,19 +764,11 @@
     },
     {
       "raw_hot": 397774,
-      "num": 302753,
+      "num": 309096,
       "word": "命韵峋环求婚完整版",
       "onboard_time": 1670586741,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 396531,
-      "num": 302668,
-      "word": "陈奕迅 演唱会",
-      "onboard_time": 1670585539,
-      "rank": 47,
-      "category": "音乐"
     },
     {
       "raw_hot": 396452,
@@ -803,6 +819,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 383382,
+      "num": 383382,
+      "word": "黄桃罐头",
+      "onboard_time": 1670581880,
+      "rank": 43,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 382167,
       "num": 382167,
       "word": "杨紫说颜淡的新剧本已就位",
@@ -825,14 +849,6 @@
       "onboard_time": 1670560818,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 363054,
-      "num": 363054,
-      "word": "黄桃罐头",
-      "onboard_time": 1670581880,
-      "rank": 43,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 359178,
@@ -899,6 +915,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 339626,
+      "num": 285754,
+      "word": "林允儿大钟奖最佳女配角",
+      "onboard_time": 1670589920,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 336094,
       "num": 336094,
       "word": "李峋的黑背心不是P的",
@@ -916,11 +940,19 @@
     },
     {
       "raw_hot": 332645,
-      "num": 209012,
+      "num": 222808,
       "word": "陈飞宇李峋的收官特辑",
       "onboard_time": 1670588059,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 331754,
+      "num": 331754,
+      "word": "国债",
+      "onboard_time": 1670587519,
+      "rank": 18,
+      "category": "财经"
     },
     {
       "raw_hot": 331613,
@@ -929,6 +961,14 @@
       "onboard_time": 1670582360,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 329692,
+      "num": 329692,
+      "word": "睡眠不好的人有福了",
+      "onboard_time": 1670581340,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 329590,
@@ -987,14 +1027,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 307851,
-      "num": 307851,
-      "word": "国债",
-      "onboard_time": 1670587519,
-      "rank": 18,
-      "category": "财经"
-    },
-    {
       "raw_hot": 305411,
       "num": 305411,
       "word": "看出深圳的快节奏了",
@@ -1019,20 +1051,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 304558,
-      "num": 304558,
-      "word": "睡眠不好的人有福了",
-      "onboard_time": 1670581340,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 302935,
-      "num": 302935,
-      "word": "Doinb",
-      "onboard_time": 1670588359,
-      "rank": 19,
-      "category": "游戏"
+      "raw_hot": 304192,
+      "num": 223762,
+      "word": "卿卿日常大结局全员HE",
+      "onboard_time": 1670589861,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 300510,
@@ -1123,6 +1147,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 270703,
+      "num": 205830,
+      "word": "迪丽热巴推荐与君初相识恰似故人归",
+      "onboard_time": 1670587459,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 270573,
       "num": 270573,
       "word": "鹿晗工作室说好好看世界杯",
@@ -1145,14 +1177,6 @@
       "onboard_time": 1670550013,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 267100,
-      "num": 205830,
-      "word": "迪丽热巴推荐与君初相识恰似故人归",
-      "onboard_time": 1670587459,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 264903,
@@ -1315,6 +1339,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 236041,
+      "num": 236041,
+      "word": "浙江省考",
+      "onboard_time": 1670586622,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
       "raw_hot": 234830,
       "num": 201450,
       "word": "刘些宁商量式淘汰李晨",
@@ -1459,6 +1491,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 209257,
+      "num": 189870,
+      "word": "命韵峋环抵头拥抱花絮",
+      "onboard_time": 1670589560,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 208256,
       "num": 184766,
       "word": "卿卿日常今晚大结局了",
@@ -1515,12 +1555,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 200511,
-      "num": 200511,
-      "word": "浙江省考",
-      "onboard_time": 1670586622,
-      "rank": 35,
-      "category": "教育"
+      "raw_hot": 200465,
+      "num": 200465,
+      "word": "新冠感染居家用药三原则",
+      "onboard_time": 1670587279,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 199331,
@@ -1731,14 +1771,6 @@
       "category": "动漫,影视"
     },
     {
-      "raw_hot": 177704,
-      "num": 177704,
-      "word": "新冠感染居家用药三原则",
-      "onboard_time": 1670587279,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 176332,
       "num": 176332,
       "word": "李庚希张超新剧前5集都在互怼",
@@ -1817,14 +1849,6 @@
       "onboard_time": 1670544429,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 159150,
-      "num": 159150,
-      "word": "梅西",
-      "onboard_time": 1670588600,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 156712,
@@ -1908,7 +1932,7 @@
     },
     {
       "raw_hot": 149444,
-      "num": 343079,
+      "num": 429921,
       "word": "C罗球迷有多会玩",
       "onboard_time": 1670562918,
       "rank": 49,
@@ -2004,7 +2028,7 @@
     },
     {
       "raw_hot": 140542,
-      "num": 174466,
+      "num": 189722,
       "word": "球迷用100只大闸蟹预测阿根廷赢",
       "onboard_time": 1670585062,
       "rank": 42,
@@ -2243,6 +2267,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 116567,
+      "num": 189787,
+      "word": "一家人围坐取暖火盆突然爆炸",
+      "onboard_time": 1670590101,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 116446,
       "num": 116446,
       "word": "原来画画如此简单",
@@ -2297,6 +2329,14 @@
       "onboard_time": 1670584400,
       "rank": 49,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 108396,
+      "num": 189737,
+      "word": "艾尔海森",
+      "onboard_time": 1670587459,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 106937,
