@@ -1,6 +1,6 @@
 {
   "startTime": 1670516838629,
-  "endTime": 1670577497917,
+  "endTime": 1670578415838,
   "band_list": [
     {
       "raw_hot": 8994548,
@@ -115,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1422237,
+      "num": 1422237,
+      "word": "顺丰",
+      "onboard_time": 1670575398,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1249211,
       "num": 1249211,
       "word": "老人手包一次性内裤遭质疑不卫生",
@@ -160,14 +168,6 @@
       "word": "男子切羊肉卷切出大片抹茶绿",
       "onboard_time": 1670558955,
       "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1114808,
-      "num": 1114808,
-      "word": "顺丰",
-      "onboard_time": 1670575398,
-      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -227,8 +227,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 812692,
-      "num": 812692,
+      "raw_hot": 830333,
+      "num": 830333,
       "word": "女子四胎出院90岁奶奶开车接回家",
       "onboard_time": 1670573477,
       "rank": 28,
@@ -321,6 +321,14 @@
       "onboard_time": 1670555354,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 614276,
+      "num": 614276,
+      "word": "所有医疗机构都要接诊新冠阳性患者",
+      "onboard_time": 1670573898,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 604951,
@@ -427,14 +435,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 523121,
-      "num": 523121,
-      "word": "所有医疗机构都要接诊新冠阳性患者",
-      "onboard_time": 1670573898,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 505535,
       "num": 505535,
       "word": "原来南方人才是最抗冻的",
@@ -481,6 +481,22 @@
       "onboard_time": 1670556073,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 469216,
+      "num": 469216,
+      "word": "赵丽颖转型成功了吗",
+      "onboard_time": 1670575700,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 455950,
+      "num": 455950,
+      "word": "赵露思紫色纱裙造型",
+      "onboard_time": 1670577561,
+      "rank": 10,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 454504,
@@ -547,20 +563,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 406279,
+      "num": 406279,
+      "word": "不用再担心核酸阳性医院不接诊",
+      "onboard_time": 1670575160,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 403574,
       "num": 403574,
       "word": "告别健康码",
       "onboard_time": 1670484675,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 400254,
-      "num": 400254,
-      "word": "赵丽颖转型成功了吗",
-      "onboard_time": 1670575700,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 400043,
@@ -747,12 +763,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 291281,
-      "num": 291281,
-      "word": "不用再担心核酸阳性医院不接诊",
-      "onboard_time": 1670575160,
-      "rank": 17,
-      "category": "社会新闻"
+      "raw_hot": 293712,
+      "num": 282224,
+      "word": "Uzi儿子出生",
+      "onboard_time": 1670574625,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 287587,
@@ -769,14 +785,6 @@
       "onboard_time": 1670562315,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 282224,
-      "num": 282224,
-      "word": "Uzi儿子出生",
-      "onboard_time": 1670574625,
-      "rank": 39,
-      "category": "游戏"
     },
     {
       "raw_hot": 280431,
@@ -800,6 +808,14 @@
       "word": "2023中秋国庆连休8天",
       "onboard_time": 1670541730,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 276261,
+      "num": 276261,
+      "word": "达州疾控回应市民扎堆就诊",
+      "onboard_time": 1670576239,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -867,6 +883,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 253998,
+      "num": 253998,
+      "word": "你想过放弃考研吗",
+      "onboard_time": 1670573599,
+      "rank": 35,
+      "category": "情感,教育"
+    },
+    {
       "raw_hot": 253409,
       "num": 253409,
       "word": "白鹿王鹤棣虞书欣智族GQ年度青年演员",
@@ -921,14 +945,6 @@
       "onboard_time": 1670545929,
       "rank": 24,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 242401,
-      "num": 242401,
-      "word": "你想过放弃考研吗",
-      "onboard_time": 1670573599,
-      "rank": 35,
-      "category": "情感,教育"
     },
     {
       "raw_hot": 240645,
@@ -1011,6 +1027,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 219531,
+      "num": 208985,
+      "word": "命韵峋环和好后拥吻",
+      "onboard_time": 1670576539,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 217019,
       "num": 217019,
       "word": "太阳朴智旻将合作",
@@ -1075,12 +1099,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 208985,
-      "num": 208985,
-      "word": "命韵峋环和好后拥吻",
-      "onboard_time": 1670576539,
-      "rank": 26,
-      "category": "影视"
+      "raw_hot": 208641,
+      "num": 208641,
+      "word": "女子嫌52元红包少被诉还6万恋爱花费",
+      "onboard_time": 1670577021,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 208256,
@@ -1145,6 +1169,14 @@
       "onboard_time": 1670559136,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 197446,
+      "num": 182686,
+      "word": "大张伟再爆金句得过且过",
+      "onboard_time": 1670577919,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 196547,
@@ -1299,6 +1331,14 @@
       "category": "体育,幽默"
     },
     {
+      "raw_hot": 180137,
+      "num": 180137,
+      "word": "为什么一只猫能带动140门生意",
+      "onboard_time": 1670576427,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 178559,
       "num": 178559,
       "word": "柯南新电影密钥延期至0117",
@@ -1384,14 +1424,6 @@
       "word": "男子跪地乞讨成功后开心比耶",
       "onboard_time": 1670544429,
       "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 159278,
-      "num": 159278,
-      "word": "达州疾控回应市民扎堆就诊",
-      "onboard_time": 1670576239,
-      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -1515,14 +1547,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 144325,
-      "num": 144325,
-      "word": "为什么一只猫能带动140门生意",
-      "onboard_time": 1670576427,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 142954,
       "num": 142954,
       "word": "如果陈祥榕还在今天21岁了",
@@ -1552,6 +1576,14 @@
       "word": "兔子急了能有多凶",
       "onboard_time": 1670509879,
       "rank": 31,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 141239,
+      "num": 141239,
+      "word": "双方都还挺有礼貌的",
+      "onboard_time": 1670577319,
+      "rank": 47,
       "category": "幽默"
     },
     {
@@ -1699,14 +1731,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 124910,
-      "num": 124910,
-      "word": "双方都还挺有礼貌的",
-      "onboard_time": 1670577319,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 124864,
       "num": 124864,
       "word": "只有考研人才能听懂的BGM",
@@ -1739,14 +1763,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 122166,
-      "num": 122166,
-      "word": "女子嫌52元红包少被诉还6万恋爱花费",
-      "onboard_time": 1670577021,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 122155,
       "num": 122155,
       "word": "新川主尹岐父子间剪不断的羁绊",
@@ -1763,6 +1779,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 120133,
+      "num": 120133,
+      "word": "原来恋爱相处中没有小事",
+      "onboard_time": 1670577919,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 118635,
       "num": 118635,
       "word": "小义20岁很澜不快乐",
@@ -1777,6 +1801,22 @@
       "onboard_time": 1670508319,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 116446,
+      "num": 116446,
+      "word": "原来画画如此简单",
+      "onboard_time": 1670578039,
+      "rank": 48,
+      "category": "其它"
+    },
+    {
+      "raw_hot": 116301,
+      "num": 116301,
+      "word": "爷爷2天吃光整盒药被奶奶长辈式批评",
+      "onboard_time": 1670577979,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 114920,
@@ -1955,6 +1995,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 33015,
+      "num": 150778,
+      "word": "购物车里的2022是怎样的",
+      "onboard_time": 1670576427,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32921,
       "num": 32921,
       "word": "阿凡达2于12月14日开启点映",
@@ -1977,14 +2025,6 @@
       "onboard_time": 1670523911,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 25771,
-      "num": 150584,
-      "word": "购物车里的2022是怎样的",
-      "onboard_time": 1670576427,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 19857,
