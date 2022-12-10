@@ -1,6 +1,6 @@
 {
   "startTime": 1670603204032,
-  "endTime": 1670653372698,
+  "endTime": 1670654273175,
   "band_list": [
     {
       "raw_hot": 11360361,
@@ -283,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 938986,
+      "num": 938986,
+      "word": "内马尔怒吼",
+      "onboard_time": 1670649620,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 903420,
       "num": 903420,
       "word": "方舱医院升级改造你支持吗",
@@ -297,14 +305,6 @@
       "onboard_time": 1670643435,
       "rank": 5,
       "category": "教育"
-    },
-    {
-      "raw_hot": 886223,
-      "num": 886223,
-      "word": "内马尔怒吼",
-      "onboard_time": 1670649620,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 882757,
@@ -355,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 757828,
+      "num": 757828,
+      "word": "主播回应直播卖衣服称东北土不拉唧",
+      "onboard_time": 1670650336,
+      "rank": 46,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 713476,
       "num": 713476,
       "word": "于正称白鹿以爱为营确定时无男主角",
@@ -369,6 +377,14 @@
       "onboard_time": 1670648235,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 704378,
+      "num": 704378,
+      "word": "荷兰球员找梅西握手遭拒",
+      "onboard_time": 1670651836,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 687133,
@@ -467,14 +483,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 575676,
-      "num": 575676,
-      "word": "主播回应直播卖衣服称东北土不拉唧",
-      "onboard_time": 1670650336,
-      "rank": 46,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 567308,
       "num": 567308,
       "word": "尽量让自己和身边人晚感染少感染",
@@ -561,6 +569,14 @@
       "onboard_time": 1670644875,
       "rank": 25,
       "category": "教育"
+    },
+    {
+      "raw_hot": 460263,
+      "num": 460263,
+      "word": "赵樱子说粤语",
+      "onboard_time": 1670652558,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 456870,
@@ -667,14 +683,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 416070,
-      "num": 416070,
-      "word": "荷兰球员找梅西握手遭拒",
-      "onboard_time": 1670651836,
-      "rank": 15,
-      "category": "体育"
-    },
-    {
       "raw_hot": 414260,
       "num": 414260,
       "word": "男子将1500亩地瓜梗卖到国外赚百万",
@@ -715,20 +723,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 379655,
+      "num": 379655,
+      "word": "孟美岐线下演唱会票价",
+      "onboard_time": 1670653157,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 376549,
       "num": 376549,
       "word": "财阀家的小儿子反转",
       "onboard_time": 1670636892,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 372524,
-      "num": 372524,
-      "word": "赵樱子说粤语",
-      "onboard_time": 1670652558,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 370337,
@@ -907,6 +915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 309204,
+      "num": 309204,
+      "word": "许半夏真的剩下一个人了",
+      "onboard_time": 1670653036,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 302444,
       "num": 302444,
       "word": "学着妈妈的样子给妈妈丢人",
@@ -1083,6 +1099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 237485,
+      "num": 237485,
+      "word": "内马尔有多无奈",
+      "onboard_time": 1670650577,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 235976,
       "num": 235976,
       "word": "不用再担心核酸阳性医院不接诊",
@@ -1113,14 +1137,6 @@
       "onboard_time": 1670601739,
       "rank": 29,
       "category": "影视"
-    },
-    {
-      "raw_hot": 213677,
-      "num": 213677,
-      "word": "内马尔有多无奈",
-      "onboard_time": 1670650577,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 212200,
@@ -1251,14 +1267,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 171949,
-      "num": 165783,
-      "word": "许半夏真的剩下一个人了",
-      "onboard_time": 1670653036,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
       "raw_hot": 170686,
       "num": 170686,
       "word": "被薛凯琪眼神温柔到了",
@@ -1371,14 +1379,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 158441,
-      "num": 158441,
-      "word": "孟美岐线下演唱会票价",
-      "onboard_time": 1670653157,
-      "rank": 38,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 157371,
       "num": 157371,
       "word": "卡恩",
@@ -1416,6 +1416,14 @@
       "word": "墨⽩今⽇开播",
       "onboard_time": 1670650156,
       "rank": 44,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 150096,
+      "num": 150096,
+      "word": "命韵峋环 心动循环",
+      "onboard_time": 1670653997,
+      "rank": 35,
       "category": "影视"
     },
     {
@@ -1515,6 +1523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 134249,
+      "num": 134249,
+      "word": "怀疑这狗狗是超市的业务员",
+      "onboard_time": 1670652679,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 131765,
       "num": 134554,
       "word": "被考研人的一天整破防了",
@@ -1537,6 +1553,14 @@
       "onboard_time": 1670653096,
       "rank": 47,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 126037,
+      "num": 126037,
+      "word": "KPL竞人运动年终汇报",
+      "onboard_time": 1670653997,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 123044,
