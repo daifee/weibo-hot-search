@@ -1,6 +1,6 @@
 {
   "startTime": 1670171104099,
-  "endTime": 1670689529040,
+  "endTime": 1670690602218,
   "band_list": [
     {
       "raw_hot": 11360361,
@@ -315,8 +315,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2477224,
-      "num": 2477224,
+      "raw_hot": 2510842,
+      "num": 2510842,
       "word": "摩洛哥半场1比0葡萄牙",
       "onboard_time": 1670687537,
       "rank": 1,
@@ -907,6 +907,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1541258,
+      "num": 1541258,
+      "word": "C罗上场",
+      "onboard_time": 1670688795,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1540983,
       "num": 1149836,
       "word": "山东疫情防控",
@@ -1171,6 +1179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1285749,
+      "num": 1285749,
+      "word": "摩洛哥vs葡萄牙",
+      "onboard_time": 1670657117,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1278978,
       "num": 1278978,
       "word": "男子未戴手套制作蛋糕胚被指恶心",
@@ -1249,14 +1265,6 @@
       "onboard_time": 1670223131,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1236932,
-      "num": 1236932,
-      "word": "摩洛哥vs葡萄牙",
-      "onboard_time": 1670657117,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 1233470,
@@ -1369,14 +1377,6 @@
       "onboard_time": 1670558955,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1159635,
-      "num": 1159635,
-      "word": "C罗上场",
-      "onboard_time": 1670688795,
-      "rank": 6,
-      "category": "体育"
     },
     {
       "raw_hot": 1155542,
@@ -5555,6 +5555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 390281,
+      "num": 390281,
+      "word": "王冰冰反向支持葡萄牙",
+      "onboard_time": 1670687118,
+      "rank": 22,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 389774,
       "num": 389774,
       "word": "有必要囤药吗",
@@ -6465,14 +6473,6 @@
       "onboard_time": 1670656758,
       "rank": 15,
       "category": "影视"
-    },
-    {
-      "raw_hot": 330769,
-      "num": 330769,
-      "word": "王冰冰反向支持葡萄牙",
-      "onboard_time": 1670687118,
-      "rank": 22,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 330223,
@@ -7641,6 +7641,14 @@
       "onboard_time": 1670249713,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 275712,
+      "num": 275712,
+      "word": "第一次见耳朵这么小的狗子",
+      "onboard_time": 1670687057,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 274564,
@@ -9547,14 +9555,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 206117,
-      "num": 206117,
-      "word": "第一次见耳朵这么小的狗子",
-      "onboard_time": 1670687057,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 205650,
       "num": 205650,
       "word": "廉政狙击定档1210",
@@ -10091,6 +10091,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 191720,
+      "num": 191720,
+      "word": "刘耀文无限超越班网名",
+      "onboard_time": 1670689937,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 191706,
       "num": 191706,
       "word": "尹峥李薇红线一线牵",
@@ -10249,6 +10257,14 @@
       "onboard_time": 1670684778,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 187912,
+      "num": 187912,
+      "word": "摩洛哥 反击",
+      "onboard_time": 1670687359,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 187544,
@@ -11009,6 +11025,14 @@
       "onboard_time": 1670475674,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 169445,
+      "num": 142795,
+      "word": "拉莫斯 表现",
+      "onboard_time": 1670689756,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 169217,
@@ -12507,14 +12531,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 140151,
-      "num": 140151,
-      "word": "摩洛哥 反击",
-      "onboard_time": 1670687359,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 140034,
       "num": 140034,
       "word": "网传玉骨遥12月19开播",
@@ -12897,6 +12913,14 @@
       "onboard_time": 1670382851,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 132949,
+      "num": 132949,
+      "word": "周洁琼说结婚是非常神圣的",
+      "onboard_time": 1670690355,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 132436,
