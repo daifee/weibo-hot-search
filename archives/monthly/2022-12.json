@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1670692563263,
+  "endTime": 1670693599580,
   "band_list": [
     {
       "raw_hot": 13790167,
@@ -155,20 +155,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 4031142,
+      "num": 4031142,
+      "word": "C罗哭了",
+      "onboard_time": 1670692035,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 4028892,
       "num": 4028892,
       "word": "告别健康码",
       "onboard_time": 1670484675,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 3916933,
-      "num": 3916933,
-      "word": "C罗哭了",
-      "onboard_time": 1670692035,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 3776401,
@@ -233,6 +233,14 @@
       "onboard_time": 1669983313,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3329535,
+      "num": 3329535,
+      "word": "英格兰vs法国",
+      "onboard_time": 1670691436,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 3279536,
@@ -417,14 +425,6 @@
       "onboard_time": 1670460335,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2660846,
-      "num": 2660846,
-      "word": "英格兰vs法国",
-      "onboard_time": 1670691436,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 2654472,
@@ -2019,6 +2019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1190736,
+      "num": 1052936,
+      "word": "梅西 诸神黄昏希望",
+      "onboard_time": 1670693177,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1189894,
       "num": 1189894,
       "word": "摩洛哥vs西班牙",
@@ -2323,6 +2331,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 1090207,
+      "num": 1090207,
+      "word": "B费",
+      "onboard_time": 1670691680,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1086052,
       "num": 1086052,
       "word": "法国3比1波兰",
@@ -2449,6 +2465,14 @@
       "onboard_time": 1670209988,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1040351,
+      "num": 1040351,
+      "word": "C罗背影",
+      "onboard_time": 1670692454,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 1037989,
@@ -3755,6 +3779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 778862,
+      "num": 778862,
+      "word": "佩佩 遗憾",
+      "onboard_time": 1670692394,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 778165,
       "num": 669937,
       "word": "优衣库创始人称在中国开3000家店还不够",
@@ -4265,6 +4297,14 @@
       "onboard_time": 1670370188,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 700053,
+      "num": 700053,
+      "word": "阿根廷vs克罗地亚",
+      "onboard_time": 1670692035,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 699959,
@@ -5401,14 +5441,6 @@
       "onboard_time": 1669942928,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 596458,
-      "num": 244672,
-      "word": "B费",
-      "onboard_time": 1670691680,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 596247,
@@ -7339,14 +7371,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 455329,
-      "num": 455329,
-      "word": "佩佩 遗憾",
-      "onboard_time": 1670692394,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 454504,
       "num": 454504,
       "word": "TGA2022",
@@ -7577,14 +7601,6 @@
       "onboard_time": 1670370426,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 438909,
-      "num": 438909,
-      "word": "C罗背影",
-      "onboard_time": 1670692454,
-      "rank": 20,
-      "category": "体育"
     },
     {
       "raw_hot": 438833,
@@ -12859,6 +12875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 243352,
+      "num": 243352,
+      "word": "摩洛哥创造历史",
+      "onboard_time": 1670692698,
+      "rank": 25,
+      "category": "体育,国外要闻"
+    },
+    {
       "raw_hot": 243232,
       "num": 243232,
       "word": "抗原检测试剂盒成交额暴涨334%",
@@ -12961,14 +12985,6 @@
       "onboard_time": 1670648355,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 239181,
-      "num": 239181,
-      "word": "阿根廷vs克罗地亚",
-      "onboard_time": 1670692035,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 239113,
@@ -13457,6 +13473,14 @@
       "onboard_time": 1670223851,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 227297,
+      "num": 227297,
+      "word": "从小小罗到C罗",
+      "onboard_time": 1670692756,
+      "rank": 26,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 227253,
@@ -14377,6 +14401,14 @@
       "onboard_time": 1669966511,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 202636,
+      "num": 202636,
+      "word": "范志毅预测C罗会替补进球",
+      "onboard_time": 1670692096,
+      "rank": 42,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 202402,
@@ -15963,14 +15995,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 176708,
-      "num": 176708,
-      "word": "范志毅预测C罗会替补进球",
-      "onboard_time": 1670692096,
-      "rank": 42,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 176491,
       "num": 176491,
       "word": "刘昊然县委大院演青年梅晓歌",
@@ -16009,6 +16033,14 @@
       "onboard_time": 1670387231,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 175878,
+      "num": 175878,
+      "word": "C罗边走边哭",
+      "onboard_time": 1670693354,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 175579,
@@ -16393,6 +16425,14 @@
       "onboard_time": 1670076432,
       "rank": 38,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 169781,
+      "num": 169781,
+      "word": "竞技体育 残酷",
+      "onboard_time": 1670693114,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 169499,
@@ -18875,6 +18915,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 134974,
+      "num": 134974,
+      "word": "一个时代结束了",
+      "onboard_time": 1670693354,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 134944,
       "num": 134944,
       "word": "相信卡塔尔世界杯将成载入史册的世界杯",
@@ -19419,6 +19467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 127225,
+      "num": 127225,
+      "word": "这就是足球",
+      "onboard_time": 1670693354,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 127000,
       "num": 127000,
       "word": "女子给流浪老人买鞋袜蹲地为其更换",
@@ -19875,6 +19931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 120570,
+      "num": 120570,
+      "word": "布努 门神",
+      "onboard_time": 1670693476,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 120480,
       "num": 120480,
       "word": "点球",
@@ -20155,6 +20219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 116570,
+      "num": 116570,
+      "word": "内马尔说这是最伤心的失利",
+      "onboard_time": 1670693536,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 116446,
       "num": 116446,
       "word": "原来画画如此简单",
@@ -20231,6 +20303,14 @@
       "num": 503651,
       "word": "锦州市有序恢复主城区生产生活秩序",
       "onboard_time": 1669946109,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 115597,
+      "num": 115597,
+      "word": "女子提醒楼上太吵萌娃奶声奶气道歉",
+      "onboard_time": 1670692756,
       "rank": 49,
       "category": "社会新闻"
     },
