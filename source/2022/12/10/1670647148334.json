@@ -1,0 +1,410 @@
+{
+  "runTime": 1670647148334,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3181184,
+        "num": 3181184,
+        "word": "年轻人阳性了可以不吃药吗",
+        "onboard_time": 1670640373,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1846030,
+        "num": 1846030,
+        "word": "四级",
+        "onboard_time": 1670642115,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 541048,
+        "num": 1545639,
+        "word": "阳性感染者居家康复手册",
+        "onboard_time": 1670641514,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1358383,
+        "num": 1358383,
+        "word": "世界杯四强",
+        "onboard_time": 1670628250,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1249318,
+        "num": 1249318,
+        "word": "梅西赛后采访发飙",
+        "onboard_time": 1670645955,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 857864,
+        "num": 857864,
+        "word": "荷兰阿根廷冲突",
+        "onboard_time": 1670645536,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 804291,
+        "num": 804291,
+        "word": "四级作文",
+        "onboard_time": 1670643314,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 782205,
+        "num": 782205,
+        "word": "三体",
+        "onboard_time": 1670641218,
+        "rank": 7,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 759991,
+        "num": 759991,
+        "word": "感染新冠后每日症状参考",
+        "onboard_time": 1670642416,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 724516,
+        "num": 724516,
+        "word": "四级答案",
+        "onboard_time": 1670643435,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 713531,
+        "num": 713531,
+        "word": "学生因手抄试卷晚交作业引老师泪目",
+        "onboard_time": 1670644218,
+        "rank": 10,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 591980,
+        "num": 591980,
+        "word": "疑智障儿子偷钱买卡片爸爸上门退钱被拒",
+        "onboard_time": 1670636832,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 548798,
+        "num": 548798,
+        "word": "N95口罩搜索暴涨715%",
+        "onboard_time": 1670639774,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 526885,
+        "num": 526885,
+        "word": "新川来了第二个李薇",
+        "onboard_time": 1670643734,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 162163,
+        "num": 453037,
+        "word": "是我没想到的反转了",
+        "onboard_time": 1670644875,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 435697,
+        "num": 435697,
+        "word": "四级听力",
+        "onboard_time": 1670645894,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 425691,
+        "num": 425691,
+        "word": "核酸点保留愿检尽检你赞成吗",
+        "onboard_time": 1670634971,
+        "rank": 16,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 419624,
+        "num": 419624,
+        "word": "斗罗大陆",
+        "onboard_time": 1670642294,
+        "rank": 17,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 417819,
+        "num": 417819,
+        "word": "六级",
+        "onboard_time": 1670644154,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 416237,
+        "num": 416237,
+        "word": "荷兰vs阿根廷",
+        "onboard_time": 1670609836,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 392226,
+        "num": 392226,
+        "word": "克罗地亚vs巴西",
+        "onboard_time": 1670594060,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 389089,
+        "num": 389089,
+        "word": "柳智宇还俗后宣布恋情",
+        "onboard_time": 1670644694,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 385343,
+        "num": 385343,
+        "word": "六级翻译",
+        "onboard_time": 1670644875,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 351235,
+        "num": 351235,
+        "word": "两小羊从烤羊店出逃意外成网红",
+        "onboard_time": 1670638452,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330020,
+        "num": 330020,
+        "word": "内马尔哭了",
+        "onboard_time": 1670608996,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 311195,
+        "num": 311195,
+        "word": "梅西炮轰裁判",
+        "onboard_time": 1670646195,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 300209,
+        "num": 300209,
+        "word": "男子给70万抚养费被前妻和现任买房",
+        "onboard_time": 1670637973,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308482,
+        "num": 297622,
+        "word": "内马尔进球",
+        "onboard_time": 1670606296,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 285475,
+        "num": 285475,
+        "word": "吴磊对周雨彤说冬天很冷我很暖",
+        "onboard_time": 1670644820,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 274395,
+        "num": 274395,
+        "word": "巴西淘汰",
+        "onboard_time": 1670608756,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 249608,
+        "num": 249608,
+        "word": "四级翻译",
+        "onboard_time": 1670644033,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 245925,
+        "num": 245925,
+        "word": "财阀家的小儿子反转",
+        "onboard_time": 1670636892,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 244484,
+        "num": 244484,
+        "word": "张小斐黄晓明好事成双登央视片单",
+        "onboard_time": 1670644753,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 241786,
+        "num": 241786,
+        "word": "湖人 加时",
+        "onboard_time": 1670643314,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 230846,
+        "num": 230846,
+        "word": "尽量让自己和身边人晚感染少感染",
+        "onboard_time": 1670634191,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226109,
+        "num": 226109,
+        "word": "女子买鞋穿4年掉色卖家仍暖心售后",
+        "onboard_time": 1670645655,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219664,
+        "num": 219664,
+        "word": "白敬亭说和田曦薇现实中也是非常好的朋友",
+        "onboard_time": 1670600481,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 219364,
+        "num": 219364,
+        "word": "四级阅读",
+        "onboard_time": 1670645234,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 213953,
+        "num": 213953,
+        "word": "北京疫情发布不再公布各区数据",
+        "onboard_time": 1670635089,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201713,
+        "num": 201713,
+        "word": "克罗地亚门将",
+        "onboard_time": 1670601080,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201514,
+        "num": 201514,
+        "word": "吴尊模仿梅西进球的经典动作",
+        "onboard_time": 1670641334,
+        "rank": 40,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 191004,
+        "num": 191004,
+        "word": "六级作文",
+        "onboard_time": 1670645894,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 188974,
+        "num": 188974,
+        "word": "内马尔点球",
+        "onboard_time": 1670628131,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177620,
+        "num": 177620,
+        "word": "葡萄牙主帅承认C罗不满替补",
+        "onboard_time": 1670611454,
+        "rank": 43,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 170528,
+        "num": 170528,
+        "word": "财阀家的小儿子 不要感情戏",
+        "onboard_time": 1670641573,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 169553,
+        "num": 169553,
+        "word": "爸爸给14个月的女儿洗脚满眼宠溺",
+        "onboard_time": 1670633414,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166622,
+        "num": 166622,
+        "word": "六级预测",
+        "onboard_time": 1670645234,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 162070,
+        "num": 162070,
+        "word": "荷兰5比6阿根廷",
+        "onboard_time": 1670625013,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158848,
+        "num": 158848,
+        "word": "陈飞宇进组伟大的胜利",
+        "onboard_time": 1670636951,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 153223,
+        "num": 153223,
+        "word": "梅西",
+        "onboard_time": 1670588600,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中阿峰会是个什么会#"
+    }
+  }
+}

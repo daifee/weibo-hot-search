@@ -1,6 +1,6 @@
 {
   "startTime": 1670171104099,
-  "endTime": 1670646195596,
+  "endTime": 1670647148334,
   "band_list": [
     {
       "raw_hot": 11360361,
@@ -171,19 +171,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3181184,
+      "num": 3181184,
+      "word": "年轻人阳性了可以不吃药吗",
+      "onboard_time": 1670640373,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 3170725,
       "num": 3024964,
       "word": "专家称一两个月内会出现大规模疫情冲击",
       "onboard_time": 1670480294,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 3164447,
-      "num": 3164447,
-      "word": "年轻人阳性了可以不吃药吗",
-      "onboard_time": 1670640373,
-      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -1107,6 +1107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1249318,
+      "num": 1249318,
+      "word": "梅西赛后采访发飙",
+      "onboard_time": 1670645955,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1249211,
       "num": 1249211,
       "word": "老人手包一次性内裤遭质疑不卫生",
@@ -1811,6 +1819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 857864,
+      "num": 857864,
+      "word": "荷兰阿根廷冲突",
+      "onboard_time": 1670645536,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 852324,
       "num": 852324,
       "word": "女子送狗给老人1月后发现骨瘦如柴",
@@ -2131,20 +2147,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 759991,
+      "num": 759991,
+      "word": "感染新冠后每日症状参考",
+      "onboard_time": 1670642416,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 759505,
       "num": 465232,
       "word": "白敬亭田曦薇直播同框",
       "onboard_time": 1670588120,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 756959,
-      "num": 756959,
-      "word": "感染新冠后每日症状参考",
-      "onboard_time": 1670642416,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 756757,
@@ -2249,6 +2265,14 @@
       "onboard_time": 1670547614,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 713531,
+      "num": 713531,
+      "word": "学生因手抄试卷晚交作业引老师泪目",
+      "onboard_time": 1670644218,
+      "rank": 10,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 710718,
@@ -2777,14 +2801,6 @@
       "onboard_time": 1670400794,
       "rank": 11,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 624716,
-      "num": 624716,
-      "word": "学生因手抄试卷晚交作业引老师泪目",
-      "onboard_time": 1670644218,
-      "rank": 10,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 622601,
@@ -3497,6 +3513,14 @@
       "onboard_time": 1670169615,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 526885,
+      "num": 526885,
+      "word": "新川来了第二个李薇",
+      "onboard_time": 1670643734,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 526880,
@@ -4307,20 +4331,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 436263,
-      "num": 436263,
-      "word": "新川来了第二个李薇",
-      "onboard_time": 1670643734,
-      "rank": 16,
-      "category": "影视"
-    },
-    {
       "raw_hot": 435782,
       "num": 435782,
       "word": "拉布拉多警犬因肥胖被要求减肥",
       "onboard_time": 1670632632,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 435697,
+      "num": 435697,
+      "word": "四级听力",
+      "onboard_time": 1670645894,
+      "rank": 17,
+      "category": "教育"
     },
     {
       "raw_hot": 435336,
@@ -4539,12 +4563,12 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 421640,
-      "num": 421640,
-      "word": "四级听力",
-      "onboard_time": 1670645894,
-      "rank": 17,
-      "category": "教育"
+      "raw_hot": 419624,
+      "num": 419624,
+      "word": "斗罗大陆",
+      "onboard_time": 1670642294,
+      "rank": 42,
+      "category": "动漫"
     },
     {
       "raw_hot": 419408,
@@ -4593,14 +4617,6 @@
       "onboard_time": 1670508379,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 416801,
-      "num": 416801,
-      "word": "斗罗大陆",
-      "onboard_time": 1670642294,
-      "rank": 42,
-      "category": "动漫"
     },
     {
       "raw_hot": 416276,
@@ -4859,14 +4875,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 398108,
-      "num": 398108,
-      "word": "荷兰阿根廷冲突",
-      "onboard_time": 1670645536,
-      "rank": 21,
-      "category": "体育"
-    },
-    {
       "raw_hot": 398099,
       "num": 398099,
       "word": "李光洁县委大院演县长曹立新",
@@ -4979,6 +4987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 389089,
+      "num": 389089,
+      "word": "柳智宇还俗后宣布恋情",
+      "onboard_time": 1670644694,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 388993,
       "num": 388993,
       "word": "人民网评风吹半夏现实激励意义",
@@ -5041,6 +5057,14 @@
       "onboard_time": 1670236032,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 385343,
+      "num": 385343,
+      "word": "六级翻译",
+      "onboard_time": 1670644875,
+      "rank": 25,
+      "category": "教育"
     },
     {
       "raw_hot": 384793,
@@ -5385,14 +5409,6 @@
       "onboard_time": 1670608516,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 355446,
-      "num": 355446,
-      "word": "六级翻译",
-      "onboard_time": 1670644875,
-      "rank": 25,
-      "category": "教育"
     },
     {
       "raw_hot": 354996,
@@ -6035,14 +6051,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 317372,
-      "num": 298167,
-      "word": "柳智宇还俗后宣布恋情",
-      "onboard_time": 1670644694,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 317105,
       "num": 317105,
       "word": "县委大院改了微博简介",
@@ -6153,6 +6161,14 @@
       "onboard_time": 1670592559,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 311195,
+      "num": 311195,
+      "word": "梅西炮轰裁判",
+      "onboard_time": 1670646195,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 311032,
@@ -7939,6 +7955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 226109,
+      "num": 226109,
+      "word": "女子买鞋穿4年掉色卖家仍暖心售后",
+      "onboard_time": 1670645655,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 225740,
       "num": 158203,
       "word": "点燃我温暖你今日更新剧照",
@@ -9203,14 +9227,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 183262,
-      "num": 176823,
-      "word": "梅西赛后采访发飙",
-      "onboard_time": 1670645955,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 183081,
       "num": 183081,
       "word": "对哄抬连花清瘟价格进行核查处理",
@@ -9993,6 +10009,14 @@
       "onboard_time": 1670487196,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 162163,
+      "num": 478011,
+      "word": "是我没想到的反转了",
+      "onboard_time": 1670644875,
+      "rank": 14,
+      "category": "情感"
     },
     {
       "raw_hot": 162154,
@@ -11305,14 +11329,6 @@
       "onboard_time": 1670505800,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 133489,
-      "num": 478011,
-      "word": "是我没想到的反转了",
-      "onboard_time": 1670644875,
-      "rank": 14,
-      "category": "情感"
     },
     {
       "raw_hot": 133361,
