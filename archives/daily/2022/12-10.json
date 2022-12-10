@@ -1,6 +1,6 @@
 {
   "startTime": 1670603204032,
-  "endTime": 1670682818584,
+  "endTime": 1670685477331,
   "band_list": [
     {
       "raw_hot": 11360361,
@@ -123,6 +123,14 @@
       "category": "动漫,影视"
     },
     {
+      "raw_hot": 1992342,
+      "num": 1992342,
+      "word": "C罗",
+      "onboard_time": 1670684540,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1966147,
       "num": 1966147,
       "word": "六级答案",
@@ -145,6 +153,14 @@
       "onboard_time": 1670634971,
       "rank": 42,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 1919438,
+      "num": 1919438,
+      "word": "阳性第2天身体有多大变化",
+      "onboard_time": 1670681779,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1914368,
@@ -347,6 +363,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1097816,
+      "num": 1097816,
+      "word": "摩洛哥vs葡萄牙",
+      "onboard_time": 1670657117,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1090919,
       "num": 1090919,
       "word": "葡萄牙首发",
@@ -459,6 +483,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 836620,
+      "num": 836620,
+      "word": "你好星期六 磕cp",
+      "onboard_time": 1670682139,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 806857,
       "num": 806857,
       "word": "专家称奥密克戎更易导致再感染",
@@ -499,6 +531,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 768651,
+      "num": 768651,
+      "word": "范世錡迟到激怒尔冬升",
+      "onboard_time": 1670683281,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 765371,
       "num": 765371,
       "word": "主播回应直播卖衣服称东北土不拉唧",
@@ -513,6 +553,14 @@
       "onboard_time": 1670642416,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 750532,
+      "num": 750532,
+      "word": "女子买衣服花600元一看标价499",
+      "onboard_time": 1670682679,
+      "rank": 45,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 713476,
@@ -641,14 +689,6 @@
       "onboard_time": 1670643734,
       "rank": 16,
       "category": "影视"
-    },
-    {
-      "raw_hot": 628181,
-      "num": 628181,
-      "word": "摩洛哥vs葡萄牙",
-      "onboard_time": 1670657117,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 626469,
@@ -803,6 +843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 505035,
+      "num": 505035,
+      "word": "财阀家的小儿子",
+      "onboard_time": 1670598322,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 504292,
       "num": 1256549,
       "word": "北京发布新冠阳性感染者居家康复手册",
@@ -857,6 +905,14 @@
       "onboard_time": 1670648896,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 466441,
+      "num": 466441,
+      "word": "深圳一公园回应设露天公厕引争议",
+      "onboard_time": 1670681779,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 463986,
@@ -921,6 +977,14 @@
       "onboard_time": 1670595740,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 443782,
+      "num": 443782,
+      "word": "钟南山称得了奥密克戎相当于接种疫苗",
+      "onboard_time": 1670683399,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 440103,
@@ -1035,6 +1099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 410600,
+      "num": 410600,
+      "word": "惠英红质疑薛凯琪戏路",
+      "onboard_time": 1670685079,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 410271,
       "num": 410271,
       "word": "大学生返乡该有的待遇",
@@ -1091,6 +1163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 379560,
+      "num": 379560,
+      "word": "宝妈被追尾1岁娃从车中滚落",
+      "onboard_time": 1670681060,
+      "rank": 43,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 377622,
       "num": 377622,
       "word": "TheShy年度最受欢迎选手",
@@ -1113,14 +1193,6 @@
       "onboard_time": 1670630108,
       "rank": 20,
       "category": "体育"
-    },
-    {
-      "raw_hot": 370025,
-      "num": 370025,
-      "word": "阳性第2天身体有多大变化",
-      "onboard_time": 1670681779,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 368343,
@@ -1153,14 +1225,6 @@
       "onboard_time": 1670663719,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 363218,
-      "num": 363218,
-      "word": "宝妈被追尾1岁娃从车中滚落",
-      "onboard_time": 1670681060,
-      "rank": 43,
-      "category": "社会负面"
     },
     {
       "raw_hot": 361453,
@@ -1235,14 +1299,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 345836,
-      "num": 345836,
-      "word": "你好星期六 磕cp",
-      "onboard_time": 1670682139,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 345301,
       "num": 345301,
       "word": "蜜蜂狗",
@@ -1289,14 +1345,6 @@
       "onboard_time": 1670615893,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 332938,
-      "num": 332938,
-      "word": "财阀家的小儿子",
-      "onboard_time": 1670598322,
-      "rank": 20,
-      "category": "影视"
     },
     {
       "raw_hot": 332913,
@@ -1387,6 +1435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 320971,
+      "num": 299970,
+      "word": "刘耀文搜索刘耀文神图",
+      "onboard_time": 1670685024,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 319543,
       "num": 319543,
       "word": "主人找猫发现猫藏寻猫启事旁角落",
@@ -1425,6 +1481,14 @@
       "onboard_time": 1670654299,
       "rank": 16,
       "category": "动漫,影视"
+    },
+    {
+      "raw_hot": 304161,
+      "num": 304161,
+      "word": "许佳琪跳了TOMBOY",
+      "onboard_time": 1670683157,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 302444,
@@ -1531,6 +1595,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 289504,
+      "num": 289504,
+      "word": "鬼灭之刃第三季新预告",
+      "onboard_time": 1670682022,
+      "rank": 42,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 288134,
       "num": 268274,
       "word": "如何评价张艺兴成立厂牌",
@@ -1600,6 +1672,14 @@
       "word": "巴西点球",
       "onboard_time": 1670610618,
       "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 268862,
+      "num": 222888,
+      "word": "C罗替补",
+      "onboard_time": 1670685259,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -1867,14 +1947,6 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 213359,
-      "num": 213359,
-      "word": "深圳一公园回应设露天公厕引争议",
-      "onboard_time": 1670681779,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 212200,
       "num": 212200,
       "word": "王凯谭松韵新剧向风而行cp感",
@@ -2017,6 +2089,14 @@
       "onboard_time": 1670682261,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 187998,
+      "num": 187998,
+      "word": "2022S联赛秋季赛",
+      "onboard_time": 1670684778,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 187284,
@@ -2195,6 +2275,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 169942,
+      "num": 169942,
+      "word": "Meiko五获年度最佳辅助",
+      "onboard_time": 1670685024,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 168937,
       "num": 168937,
       "word": "睡眠不好的人有福了",
@@ -2347,14 +2435,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 160985,
-      "num": 160985,
-      "word": "鬼灭之刃第三季新预告",
-      "onboard_time": 1670682022,
-      "rank": 42,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 159964,
       "num": 159964,
       "word": "命韵峋环两次看雪视频",
@@ -2449,14 +2529,6 @@
       "onboard_time": 1670640434,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 155266,
-      "num": 155266,
-      "word": "女子买衣服花600元一看标价499",
-      "onboard_time": 1670682679,
-      "rank": 45,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 153542,
@@ -2587,6 +2659,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 135630,
+      "num": 135630,
+      "word": "老人求助买苹果店老板专挑小的烂的",
+      "onboard_time": 1670684301,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 135123,
       "num": 135123,
       "word": "用家乡话给阿根廷打call",
@@ -2609,6 +2689,14 @@
       "onboard_time": 1670600000,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 134580,
+      "num": 134580,
+      "word": "无畏 帅",
+      "onboard_time": 1670685198,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 134520,
@@ -2883,8 +2971,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 54272,
-      "num": 1189955,
+      "raw_hot": 57911,
+      "num": 1617110,
       "word": "钟南山回应新冠后遗症",
       "onboard_time": 1670565623,
       "rank": 2,
