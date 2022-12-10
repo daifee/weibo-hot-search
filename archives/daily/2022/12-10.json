@@ -1,6 +1,6 @@
 {
   "startTime": 1670603204032,
-  "endTime": 1670661411959,
+  "endTime": 1670663823307,
   "band_list": [
     {
       "raw_hot": 11360361,
@@ -139,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1845722,
+      "num": 1845722,
+      "word": "三体建模 丑",
+      "onboard_time": 1670661197,
+      "rank": 31,
+      "category": "动漫,影视"
+    },
+    {
       "raw_hot": 1784017,
       "num": 1784017,
       "word": "巴西状态",
@@ -195,7 +203,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1386158,
+      "raw_hot": 1416152,
       "num": 437333,
       "word": "刘强东分享感染新冠经历",
       "onboard_time": 1670659037,
@@ -411,6 +419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 683633,
+      "num": 683633,
+      "word": "世界冠军邓琳琳被求婚",
+      "onboard_time": 1670657717,
+      "rank": 11,
+      "category": "体育,综艺"
+    },
+    {
       "raw_hot": 666566,
       "num": 666566,
       "word": "阿根廷晋级4强",
@@ -507,20 +523,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 595149,
+      "num": 595149,
+      "word": "许半夏赵垒分手变求婚",
+      "onboard_time": 1670661739,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 582506,
       "num": 582506,
       "word": "罗纳尔多",
       "onboard_time": 1670605757,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 573112,
-      "num": 573112,
-      "word": "世界冠军邓琳琳被求婚",
-      "onboard_time": 1670657717,
-      "rank": 11,
-      "category": "体育,综艺"
     },
     {
       "raw_hot": 567308,
@@ -609,6 +625,14 @@
       "onboard_time": 1670653036,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 504292,
+      "num": 1256549,
+      "word": "北京发布新冠阳性感染者居家康复手册",
+      "onboard_time": 1670659578,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 497343,
@@ -729,6 +753,14 @@
       "onboard_time": 1670598560,
       "rank": 16,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 419980,
+      "num": 419980,
+      "word": "摩洛哥 预测",
+      "onboard_time": 1670658857,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 419624,
@@ -875,6 +907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 338709,
+      "num": 338709,
+      "word": "陈晓 人生路遥",
+      "onboard_time": 1670662099,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 337353,
       "num": 337353,
       "word": "裁判 黄牌",
@@ -897,6 +937,14 @@
       "onboard_time": 1670598322,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 332913,
+      "num": 332913,
+      "word": "秦霄贤对哈妮克孜说我肯定是打不赢你的人",
+      "onboard_time": 1670660179,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 332537,
@@ -963,6 +1011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 319976,
+      "num": 319976,
+      "word": "公交车军人专座比人高遭吐槽",
+      "onboard_time": 1670661558,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 318936,
       "num": 318936,
       "word": "张小斐黄晓明好事成双登央视片单",
@@ -1019,8 +1075,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 294411,
-      "num": 228596,
+      "raw_hot": 295586,
+      "num": 255806,
       "word": "马嘉祺打个响指高音就飙上去了",
       "onboard_time": 1670660779,
       "rank": 20,
@@ -1091,28 +1147,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 279308,
-      "num": 279308,
-      "word": "摩洛哥 预测",
-      "onboard_time": 1670658857,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 275966,
       "num": 239409,
       "word": "陈奕迅 演唱会",
       "onboard_time": 1670585539,
       "rank": 32,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 273352,
-      "num": 227772,
-      "word": "秦霄贤对哈妮克孜说我肯定是打不赢你的人",
-      "onboard_time": 1670660179,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 271240,
@@ -1147,6 +1187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 257573,
+      "num": 257573,
+      "word": "小镇村民直播卖珍珠年入几十亿",
+      "onboard_time": 1670660779,
+      "rank": 29,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 256293,
       "num": 237221,
       "word": "卿卿日常 群像",
@@ -1169,6 +1217,14 @@
       "onboard_time": 1670629810,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 251640,
+      "num": 251640,
+      "word": "管泽元真去剃头了",
+      "onboard_time": 1670663179,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 250857,
@@ -1259,14 +1315,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 231199,
-      "num": 166192,
-      "word": "三体建模 丑",
-      "onboard_time": 1670661197,
-      "rank": 31,
-      "category": "动漫,影视"
-    },
-    {
       "raw_hot": 230904,
       "num": 230904,
       "word": "格子军团",
@@ -1323,14 +1371,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 209254,
-      "num": 1256549,
-      "word": "北京发布新冠阳性感染者居家康复手册",
-      "onboard_time": 1670659578,
-      "rank": 2,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 195411,
       "num": 195411,
       "word": "白鹿灰色大衣贝雷帽上班路透",
@@ -1371,6 +1411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 186729,
+      "num": 186729,
+      "word": "女子家住28楼窗外云雾缭绕",
+      "onboard_time": 1670661558,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 186264,
       "num": 193458,
       "word": "买多大内存手机才够用",
@@ -1401,6 +1449,14 @@
       "onboard_time": 1670628732,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 181098,
+      "num": 181098,
+      "word": "当男朋友是个足球迷时",
+      "onboard_time": 1670658319,
+      "rank": 33,
+      "category": "体育,情感"
     },
     {
       "raw_hot": 180464,
@@ -1499,14 +1555,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 166281,
-      "num": 166281,
-      "word": "小镇村民直播卖珍珠年入几十亿",
-      "onboard_time": 1670660779,
-      "rank": 29,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 165660,
       "num": 165660,
       "word": "看完卿卿日常准备卿断食",
@@ -1587,20 +1635,28 @@
       "category": "影视"
     },
     {
-      "raw_hot": 159280,
-      "num": 159280,
-      "word": "当男朋友是个足球迷时",
-      "onboard_time": 1670658319,
-      "rank": 33,
-      "category": "体育,情感"
-    },
-    {
       "raw_hot": 158462,
       "num": 158462,
       "word": "Doinb",
       "onboard_time": 1670588359,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 158317,
+      "num": 121570,
+      "word": "韩雯雯聊到朱孝天变老哭了",
+      "onboard_time": 1670662939,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 158223,
+      "num": 120938,
+      "word": "命韵峋环520场是领证",
+      "onboard_time": 1670663659,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 157952,
@@ -1899,12 +1955,44 @@
       "category": "体育"
     },
     {
+      "raw_hot": 101910,
+      "num": 101910,
+      "word": "梅西进球时队友的状态",
+      "onboard_time": 1670663719,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 101290,
+      "num": 101290,
+      "word": "主人找猫发现猫藏寻猫启事旁角落",
+      "onboard_time": 1670663599,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 96400,
+      "num": 96400,
+      "word": "这新脑子还没用明白呢",
+      "onboard_time": 1670663057,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 92078,
       "num": 126520,
       "word": "新冠防疫手册",
       "onboard_time": 1670604556,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 90027,
+      "num": 90027,
+      "word": "詹俊预测葡萄牙晋级无压力",
+      "onboard_time": 1670663480,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 83550,
@@ -1929,6 +2017,14 @@
       "onboard_time": 1670660179,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 77431,
+      "num": 931476,
+      "word": "得了新冠怎么自愈",
+      "onboard_time": 1670663423,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 76833,
