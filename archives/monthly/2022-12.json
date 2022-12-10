@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1670699657399,
+  "endTime": 1670700789972,
   "band_list": [
     {
       "raw_hot": 13790167,
@@ -16883,6 +16883,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 162953,
+      "num": 162953,
+      "word": "楚阿梅尼世界波",
+      "onboard_time": 1670700552,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 162940,
       "num": 685102,
       "word": "北京要求切实做到方舱患者应出尽出",
@@ -21748,7 +21756,7 @@
     },
     {
       "raw_hot": 91196,
-      "num": 62224,
+      "num": 62861,
       "word": "李现说他的青春结束了",
       "onboard_time": 1670698816,
       "rank": 30,
@@ -22323,19 +22331,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 66040,
+      "num": 66040,
+      "word": "英格兰vs法国首发",
+      "onboard_time": 1670699533,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 65790,
       "num": 65790,
       "word": "姆巴佩状态",
       "onboard_time": 1670174171,
       "rank": 48,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 65679,
-      "num": 65679,
-      "word": "英格兰vs法国首发",
-      "onboard_time": 1670699533,
-      "rank": 28,
       "category": "体育"
     },
     {
@@ -22457,6 +22465,14 @@
       "onboard_time": 1670433431,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 55447,
+      "num": 55447,
+      "word": "詹俊说摩洛哥练了金钟罩铁布衫",
+      "onboard_time": 1670699172,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 54355,
@@ -22641,14 +22657,6 @@
       "onboard_time": 1670523192,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 32702,
-      "num": 32702,
-      "word": "詹俊说摩洛哥练了金钟罩铁布衫",
-      "onboard_time": 1670699172,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 32360,

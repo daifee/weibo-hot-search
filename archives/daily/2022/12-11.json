@@ -1,6 +1,6 @@
 {
   "startTime": 1670689529040,
-  "endTime": 1670699657399,
+  "endTime": 1670700789972,
   "band_list": [
     {
       "raw_hot": 13790167,
@@ -547,6 +547,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 162953,
+      "num": 162953,
+      "word": "楚阿梅尼世界波",
+      "onboard_time": 1670700552,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 155869,
       "num": 155869,
       "word": "非洲球队首进世界杯四强",
@@ -676,18 +684,26 @@
     },
     {
       "raw_hot": 91196,
-      "num": 62224,
+      "num": 62861,
       "word": "李现说他的青春结束了",
       "onboard_time": 1670698816,
       "rank": 30,
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 65679,
-      "num": 65679,
+      "raw_hot": 66040,
+      "num": 66040,
       "word": "英格兰vs法国首发",
       "onboard_time": 1670699533,
       "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 55447,
+      "num": 55447,
+      "word": "詹俊说摩洛哥练了金钟罩铁布衫",
+      "onboard_time": 1670699172,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -705,14 +721,6 @@
       "onboard_time": 1670565623,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 32702,
-      "num": 32702,
-      "word": "詹俊说摩洛哥练了金钟罩铁布衫",
-      "onboard_time": 1670699172,
-      "rank": 47,
-      "category": "体育"
     }
   ],
   "hotgov_list": [
