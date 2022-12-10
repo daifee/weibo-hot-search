@@ -1,6 +1,6 @@
 {
   "startTime": 1670603204032,
-  "endTime": 1670663823307,
+  "endTime": 1670664808314,
   "band_list": [
     {
       "raw_hot": 11360361,
@@ -99,6 +99,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 2080396,
+      "num": 2080396,
+      "word": "三体建模 丑",
+      "onboard_time": 1670661197,
+      "rank": 31,
+      "category": "动漫,影视"
+    },
+    {
       "raw_hot": 1955926,
       "num": 1955926,
       "word": "克罗地亚 上届亚军",
@@ -137,14 +145,6 @@
       "onboard_time": 1670656219,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1845722,
-      "num": 1845722,
-      "word": "三体建模 丑",
-      "onboard_time": 1670661197,
-      "rank": 31,
-      "category": "动漫,影视"
     },
     {
       "raw_hot": 1784017,
@@ -619,6 +619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 516843,
+      "num": 383190,
+      "word": "管泽元真去剃头了",
+      "onboard_time": 1670663179,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 509576,
       "num": 509576,
       "word": "许半夏真的剩下一个人了",
@@ -731,6 +739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 425147,
+      "num": 956091,
+      "word": "得了新冠怎么自愈",
+      "onboard_time": 1670663423,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 423667,
       "num": 399550,
       "word": "我vs梅西",
@@ -817,6 +833,14 @@
       "onboard_time": 1670616433,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 382538,
+      "num": 382538,
+      "word": "公交车军人专座比人高遭吐槽",
+      "onboard_time": 1670661558,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 379205,
@@ -1011,14 +1035,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 319976,
-      "num": 319976,
-      "word": "公交车军人专座比人高遭吐槽",
-      "onboard_time": 1670661558,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 318936,
       "num": 318936,
       "word": "张小斐黄晓明好事成双登央视片单",
@@ -1076,7 +1092,7 @@
     },
     {
       "raw_hot": 295586,
-      "num": 255806,
+      "num": 282613,
       "word": "马嘉祺打个响指高音就飙上去了",
       "onboard_time": 1670660779,
       "rank": 20,
@@ -1187,8 +1203,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 257573,
-      "num": 257573,
+      "raw_hot": 261810,
+      "num": 261810,
       "word": "小镇村民直播卖珍珠年入几十亿",
       "onboard_time": 1670660779,
       "rank": 29,
@@ -1217,14 +1233,6 @@
       "onboard_time": 1670629810,
       "rank": 32,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 251640,
-      "num": 251640,
-      "word": "管泽元真去剃头了",
-      "onboard_time": 1670663179,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 250857,
@@ -1281,6 +1289,14 @@
       "onboard_time": 1670648355,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 238203,
+      "num": 238203,
+      "word": "女子家住28楼窗外云雾缭绕",
+      "onboard_time": 1670661558,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 237697,
@@ -1371,6 +1387,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 201077,
+      "num": 172095,
+      "word": "央视2023电视剧片单",
+      "onboard_time": 1670664439,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 197467,
+      "num": 197467,
+      "word": "主人找猫发现猫藏寻猫启事旁角落",
+      "onboard_time": 1670663599,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 195411,
       "num": 195411,
       "word": "白鹿灰色大衣贝雷帽上班路透",
@@ -1411,14 +1443,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 186729,
-      "num": 186729,
-      "word": "女子家住28楼窗外云雾缭绕",
-      "onboard_time": 1670661558,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 186264,
       "num": 193458,
       "word": "买多大内存手机才够用",
@@ -1449,6 +1473,14 @@
       "onboard_time": 1670628732,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 181307,
+      "num": 171111,
+      "word": "王大陆蔡卓宜约会像运动会",
+      "onboard_time": 1670664740,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 181098,
@@ -1547,6 +1579,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 167057,
+      "num": 167057,
+      "word": "董思成LoveTalk舞台直拍",
+      "onboard_time": 1670662879,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 166523,
+      "num": 166523,
+      "word": "梅西进球时队友的状态",
+      "onboard_time": 1670663719,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 166417,
       "num": 166417,
       "word": "四级听力答案",
@@ -1633,6 +1681,14 @@
       "onboard_time": 1670637131,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 159814,
+      "num": 130278,
+      "word": "吉克隽逸的胎毛刘海",
+      "onboard_time": 1670663959,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 158462,
@@ -1939,6 +1995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 105665,
+      "num": 105665,
+      "word": "体温超过38.5℃就要吃退烧药",
+      "onboard_time": 1670664378,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 102790,
       "num": 102790,
       "word": "沙溢问白鹿白梦妍是哪个角色名",
@@ -1955,20 +2019,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 101910,
-      "num": 101910,
-      "word": "梅西进球时队友的状态",
-      "onboard_time": 1670663719,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 101290,
-      "num": 101290,
-      "word": "主人找猫发现猫藏寻猫启事旁角落",
-      "onboard_time": 1670663599,
-      "rank": 46,
-      "category": "社会新闻"
+      "raw_hot": 96439,
+      "num": 96439,
+      "word": "上海老字号平价糕团有多绝",
+      "onboard_time": 1670664740,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 96400,
@@ -2017,14 +2073,6 @@
       "onboard_time": 1670660179,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 77431,
-      "num": 931476,
-      "word": "得了新冠怎么自愈",
-      "onboard_time": 1670663423,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 76833,
