@@ -1,6 +1,6 @@
 {
   "startTime": 1670603204032,
-  "endTime": 1670649388576,
+  "endTime": 1670650415778,
   "band_list": [
     {
       "raw_hot": 11360361,
@@ -67,19 +67,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 3078815,
+      "num": 3078815,
+      "word": "梅西赛后采访发飙",
+      "onboard_time": 1670645955,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 3047517,
       "num": 3047517,
       "word": "内马尔状态",
       "onboard_time": 1670602397,
       "rank": 12,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 2756020,
-      "num": 2756020,
-      "word": "梅西赛后采访发飙",
-      "onboard_time": 1670645955,
-      "rank": 46,
       "category": "体育"
     },
     {
@@ -339,12 +339,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 713476,
+      "num": 713476,
+      "word": "于正称白鹿以爱为营确定时无男主角",
+      "onboard_time": 1670647276,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 687133,
       "num": 687133,
       "word": "安东尼",
       "onboard_time": 1670607315,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 675303,
+      "num": 675303,
+      "word": "女子因病被男友家嫌弃爸爸气到抹泪",
+      "onboard_time": 1670647455,
+      "rank": 12,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 666566,
@@ -403,14 +419,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 632605,
-      "num": 632605,
-      "word": "于正称白鹿以爱为营确定时无男主角",
-      "onboard_time": 1670647276,
-      "rank": 9,
-      "category": "影视"
-    },
-    {
       "raw_hot": 626469,
       "num": 626469,
       "word": "四六级",
@@ -433,6 +441,14 @@
       "onboard_time": 1670608396,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 586175,
+      "num": 586175,
+      "word": "新冠阳性吃消炎药有用吗",
+      "onboard_time": 1670648235,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 582506,
@@ -483,14 +499,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 539474,
-      "num": 539474,
-      "word": "女子因病被男友家嫌弃爸爸气到抹泪",
-      "onboard_time": 1670647455,
-      "rank": 12,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 525959,
       "num": 525959,
       "word": "用了退烧药就别再用复方感冒药",
@@ -523,8 +531,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 458379,
-      "num": 458379,
+      "raw_hot": 463986,
+      "num": 463986,
       "word": "六级翻译",
       "onboard_time": 1670644875,
       "rank": 25,
@@ -675,14 +683,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 373863,
-      "num": 373863,
-      "word": "新冠阳性吃消炎药有用吗",
-      "onboard_time": 1670648235,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 370337,
       "num": 370337,
       "word": "世界杯裁判",
@@ -808,6 +808,14 @@
       "word": "湖人 加时",
       "onboard_time": 1670643314,
       "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 326635,
+      "num": 326635,
+      "word": "梅西黄牌",
+      "onboard_time": 1670648478,
+      "rank": 42,
       "category": "体育"
     },
     {
@@ -1019,8 +1027,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 238546,
-      "num": 238546,
+      "raw_hot": 239383,
+      "num": 239383,
       "word": "薛凯琪扮演的冯程程",
       "onboard_time": 1670648355,
       "rank": 32,
@@ -1033,6 +1041,22 @@
       "onboard_time": 1670575160,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 235107,
+      "num": 235107,
+      "word": "内马尔怒吼",
+      "onboard_time": 1670649620,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 233445,
+      "num": 233445,
+      "word": "大马丁怒批裁判",
+      "onboard_time": 1670647819,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 230904,
@@ -1051,20 +1075,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 211772,
+      "num": 211772,
+      "word": "陈飞宇冬日焰火故事感大片",
+      "onboard_time": 1670649377,
+      "rank": 47,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 204267,
       "num": 204267,
       "word": "六级作文",
       "onboard_time": 1670645894,
       "rank": 42,
       "category": "教育"
-    },
-    {
-      "raw_hot": 197307,
-      "num": 147215,
-      "word": "陈飞宇冬日焰火故事感大片",
-      "onboard_time": 1670649377,
-      "rank": 47,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 195411,
@@ -1131,11 +1155,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 181583,
-      "num": 181583,
-      "word": "大马丁怒批裁判",
-      "onboard_time": 1670647819,
-      "rank": 36,
+      "raw_hot": 180464,
+      "num": 180464,
+      "word": "舍不得内马尔",
+      "onboard_time": 1670649858,
+      "rank": 39,
       "category": "体育"
     },
     {
@@ -1235,20 +1259,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 164297,
-      "num": 164297,
-      "word": "梅西黄牌",
-      "onboard_time": 1670648478,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 163654,
       "num": 163654,
       "word": "世界杯直播",
       "onboard_time": 1670602338,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 162429,
+      "num": 162429,
+      "word": "梅西进球苏醒激动到声音变形",
+      "onboard_time": 1670649620,
+      "rank": 41,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 162163,
@@ -1299,6 +1323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 156045,
+      "num": 155095,
+      "word": "内马尔曾说这是最后一届世界杯",
+      "onboard_time": 1670648896,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 155525,
       "num": 155525,
       "word": "他为国放弃所有名誉隐姓埋名17年",
@@ -1307,11 +1339,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 155095,
-      "num": 155095,
-      "word": "内马尔曾说这是最后一届世界杯",
-      "onboard_time": 1670648896,
+      "raw_hot": 151629,
+      "num": 151629,
+      "word": "墨⽩今⽇开播",
+      "onboard_time": 1670650156,
       "rank": 44,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 149895,
+      "num": 149895,
+      "word": "梅西世界杯第10球",
+      "onboard_time": 1670650336,
+      "rank": 45,
       "category": "体育"
     },
     {
@@ -1353,6 +1393,14 @@
       "onboard_time": 1670642053,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 144504,
+      "num": 144504,
+      "word": "主播回应直播卖衣服称东北土不拉唧",
+      "onboard_time": 1670650336,
+      "rank": 46,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 143736,
