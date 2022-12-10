@@ -1,26 +1,58 @@
 {
   "startTime": 1670689529040,
-  "endTime": 1670690602218,
+  "endTime": 1670692563263,
   "band_list": [
     {
-      "raw_hot": 3278902,
-      "num": 3278902,
+      "raw_hot": 13790167,
+      "num": 13790167,
       "word": "C罗",
       "onboard_time": 1670684540,
       "rank": 0,
       "category": "体育"
     },
     {
-      "raw_hot": 2510842,
-      "num": 2510842,
+      "raw_hot": 4255240,
+      "num": 4255240,
+      "word": "摩洛哥1比0葡萄牙",
+      "onboard_time": 1670692220,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 3916933,
+      "num": 3916933,
+      "word": "C罗哭了",
+      "onboard_time": 1670692035,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 3742669,
+      "num": 3742669,
       "word": "摩洛哥半场1比0葡萄牙",
       "onboard_time": 1670687537,
       "rank": 1,
       "category": "体育"
     },
     {
-      "raw_hot": 1573422,
-      "num": 1573422,
+      "raw_hot": 2660846,
+      "num": 2660846,
+      "word": "英格兰vs法国",
+      "onboard_time": 1670691436,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2637679,
+      "num": 2637679,
+      "word": "摩洛哥vs葡萄牙",
+      "onboard_time": 1670657117,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2044659,
+      "num": 2044659,
       "word": "摩洛哥 进球",
       "onboard_time": 1670687178,
       "rank": 3,
@@ -43,11 +75,27 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1285749,
-      "num": 1285749,
-      "word": "摩洛哥vs葡萄牙",
-      "onboard_time": 1670657117,
-      "rank": 5,
+      "raw_hot": 1251328,
+      "num": 2967584,
+      "word": "葡萄牙淘汰",
+      "onboard_time": 1670691799,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1158564,
+      "num": 1158564,
+      "word": "摩洛哥球衣",
+      "onboard_time": 1670686458,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1147375,
+      "num": 1147375,
+      "word": "摩洛哥 预测",
+      "onboard_time": 1670658857,
+      "rank": 19,
       "category": "体育"
     },
     {
@@ -59,12 +107,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 800619,
-      "num": 800619,
-      "word": "摩洛哥球衣",
-      "onboard_time": 1670686458,
-      "rank": 8,
+      "raw_hot": 817511,
+      "num": 817511,
+      "word": "世界杯",
+      "onboard_time": 1670670981,
+      "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 750577,
+      "num": 750577,
+      "word": "菲利克斯 状态",
+      "onboard_time": 1670688677,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 710298,
+      "num": 710298,
+      "word": "王冰冰反向支持葡萄牙",
+      "onboard_time": 1670687118,
+      "rank": 22,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 677428,
@@ -75,11 +139,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 625831,
-      "num": 625831,
+      "raw_hot": 658268,
+      "num": 658268,
       "word": "卡卡将解说摩洛哥vs葡萄牙",
       "onboard_time": 1670685500,
       "rank": 10,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 645207,
+      "num": 645207,
+      "word": "葡萄牙 白色球衣",
+      "onboard_time": 1670686700,
+      "rank": 16,
       "category": "体育"
     },
     {
@@ -89,6 +161,14 @@
       "onboard_time": 1670683399,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 596458,
+      "num": 244672,
+      "word": "B费",
+      "onboard_time": 1670691680,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 568183,
@@ -123,11 +203,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 471602,
-      "num": 471602,
-      "word": "葡萄牙 白色球衣",
-      "onboard_time": 1670686700,
-      "rank": 16,
+      "raw_hot": 455329,
+      "num": 455329,
+      "word": "佩佩 遗憾",
+      "onboard_time": 1670692394,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 438909,
+      "num": 438909,
+      "word": "C罗背影",
+      "onboard_time": 1670692454,
+      "rank": 20,
       "category": "体育"
     },
     {
@@ -147,36 +235,36 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 390281,
-      "num": 390281,
-      "word": "王冰冰反向支持葡萄牙",
-      "onboard_time": 1670687118,
-      "rank": 22,
-      "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 386819,
-      "num": 386819,
-      "word": "摩洛哥 预测",
-      "onboard_time": 1670658857,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 376896,
-      "num": 376896,
-      "word": "世界杯",
-      "onboard_time": 1670670981,
-      "rank": 20,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 350007,
-      "num": 350007,
+      "raw_hot": 378375,
+      "num": 378375,
       "word": "财阀家的小儿子",
       "onboard_time": 1670684540,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 319434,
+      "num": 187912,
+      "word": "摩洛哥 反击",
+      "onboard_time": 1670687359,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 287908,
+      "num": 287908,
+      "word": "财阀家的小儿子第十集",
+      "onboard_time": 1670686098,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 277768,
+      "num": 277768,
+      "word": "葡萄牙爆冷",
+      "onboard_time": 1670691976,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 275712,
@@ -195,6 +283,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 259020,
+      "num": 259020,
+      "word": "卡卡预测的冠军就剩英格兰了",
+      "onboard_time": 1670679319,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 254708,
       "num": 254708,
       "word": "高辛夷怀孕",
@@ -211,12 +307,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 238915,
-      "num": 238915,
-      "word": "财阀家的小儿子第十集",
-      "onboard_time": 1670686098,
-      "rank": 35,
-      "category": "影视"
+      "raw_hot": 239181,
+      "num": 239181,
+      "word": "阿根廷vs克罗地亚",
+      "onboard_time": 1670692035,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 232306,
@@ -251,14 +347,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 215021,
-      "num": 215021,
-      "word": "菲利克斯 状态",
-      "onboard_time": 1670688677,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 210343,
       "num": 210343,
       "word": "钟南山称重复感染在一段时间内大概率不会发生",
@@ -291,20 +379,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 187912,
-      "num": 187912,
-      "word": "摩洛哥 反击",
-      "onboard_time": 1670687359,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 186364,
       "num": 186364,
       "word": "鬼灭之刃第三季新预告",
       "onboard_time": 1670682022,
       "rank": 37,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 182843,
+      "num": 176409,
+      "word": "葡萄牙 配合",
+      "onboard_time": 1670691858,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 180011,
@@ -315,6 +403,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 179932,
+      "num": 179932,
+      "word": "C罗痛哭",
+      "onboard_time": 1670692454,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 176708,
+      "num": 176708,
+      "word": "范志毅预测C罗会替补进球",
+      "onboard_time": 1670692096,
+      "rank": 42,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 175338,
       "num": 175338,
       "word": "吴磊送的帽子吓到周雨彤",
@@ -323,11 +427,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 172084,
-      "num": 172084,
-      "word": "卡卡预测的冠军就剩英格兰了",
-      "onboard_time": 1670679319,
-      "rank": 39,
+      "raw_hot": 174471,
+      "num": 174471,
+      "word": "C罗谢幕",
+      "onboard_time": 1670692454,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -340,11 +444,19 @@
     },
     {
       "raw_hot": 167887,
-      "num": 221673,
+      "num": 1193250,
       "word": "宝妈被追尾1岁娃从车中滚落",
       "onboard_time": 1670681060,
       "rank": 29,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 167698,
+      "num": 167698,
+      "word": "摩洛哥门将",
+      "onboard_time": 1670692454,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 167047,
@@ -361,6 +473,14 @@
       "onboard_time": 1670683157,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 155869,
+      "num": 155869,
+      "word": "非洲球队首进世界杯四强",
+      "onboard_time": 1670692335,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 154465,
@@ -388,7 +508,7 @@
     },
     {
       "raw_hot": 144765,
-      "num": 144765,
+      "num": 278510,
       "word": "体温超过38.5℃就要吃退烧药",
       "onboard_time": 1670664378,
       "rank": 46,
@@ -430,6 +550,9 @@
   "hotgov_list": [
     {
       "word": "#中阿友好相信还会好上加好#"
+    },
+    {
+      "word": "#北京发布新冠阳性感染者居家康复手册#"
     }
   ]
 }
