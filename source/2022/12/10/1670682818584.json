@@ -1,0 +1,410 @@
+{
+  "runTime": 1670682818584,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2325174,
+        "num": 2325174,
+        "word": "钟南山预计明年上半年能恢复到疫情前生活",
+        "onboard_time": 1670672959,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1368299,
+        "num": 1368299,
+        "word": "猪哼 hero",
+        "onboard_time": 1670678539,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 54272,
+        "num": 1189955,
+        "word": "钟南山回应新冠后遗症",
+        "onboard_time": 1670565623,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1148093,
+        "num": 1148093,
+        "word": "钟南山称重复感染在一段时间内大概率不会发生",
+        "onboard_time": 1670678720,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1090919,
+        "num": 1090919,
+        "word": "葡萄牙首发",
+        "onboard_time": 1670673319,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 820491,
+        "num": 820491,
+        "word": "叶一茜说森碟是家里运动健将",
+        "onboard_time": 1670675301,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 800591,
+        "num": 800591,
+        "word": "北京呼吁新冠无症状和轻症患者勿打120",
+        "onboard_time": 1670678360,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 787927,
+        "num": 787927,
+        "word": "卡卡预测的冠军就剩英格兰了",
+        "onboard_time": 1670679319,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 575371,
+        "num": 575371,
+        "word": "摩洛哥vs葡萄牙",
+        "onboard_time": 1670657117,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 535039,
+        "num": 535039,
+        "word": "体温超过38.5℃就要吃退烧药",
+        "onboard_time": 1670664378,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 492992,
+        "num": 492992,
+        "word": "高辛夷怀孕",
+        "onboard_time": 1670674880,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 440103,
+        "num": 440103,
+        "word": "周柯宇沈月见面社恐现场",
+        "onboard_time": 1670681298,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 414343,
+        "num": 414343,
+        "word": "异地恋分手还要再见一面吗",
+        "onboard_time": 1670676140,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 391437,
+        "num": 391437,
+        "word": "刘强东分享感染新冠经历",
+        "onboard_time": 1670659037,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 374668,
+        "num": 374668,
+        "word": "三体建模 丑",
+        "onboard_time": 1670661197,
+        "rank": 14,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 370025,
+        "num": 370025,
+        "word": "阳性第2天身体有多大变化",
+        "onboard_time": 1670681779,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 363218,
+        "num": 363218,
+        "word": "宝妈被追尾1岁娃从车中滚落",
+        "onboard_time": 1670681060,
+        "rank": 16,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 356254,
+        "num": 356254,
+        "word": "吴磊周雨彤公主抱",
+        "onboard_time": 1670682318,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 352392,
+        "num": 352392,
+        "word": "东北人吃黄桃罐头必须喝汤吗",
+        "onboard_time": 1670674160,
+        "rank": 18,
+        "category": "美食,情感"
+      },
+      {
+        "raw_hot": 345836,
+        "num": 345836,
+        "word": "你好星期六 磕cp",
+        "onboard_time": 1670682139,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 297031,
+        "num": 297031,
+        "word": "世界杯",
+        "onboard_time": 1670670981,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 296773,
+        "num": 296773,
+        "word": "爱情而已",
+        "onboard_time": 1670681540,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 295362,
+        "num": 295362,
+        "word": "六级答案",
+        "onboard_time": 1670665223,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 293387,
+        "num": 293387,
+        "word": "蜜蜂狗",
+        "onboard_time": 1670676979,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 291684,
+        "num": 291684,
+        "word": "余霜 黑裙",
+        "onboard_time": 1670672061,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 290719,
+        "num": 290719,
+        "word": "王鹤棣说演员需要第三视角审视自己",
+        "onboard_time": 1670680222,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 283864,
+        "num": 283864,
+        "word": "果然奶牛猫都是神经病",
+        "onboard_time": 1670677399,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 278914,
+        "num": 278914,
+        "word": "孕产妇感染了影响胎儿吗",
+        "onboard_time": 1670666059,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274160,
+        "num": 274160,
+        "word": "阳华提离婚秦施慌了",
+        "onboard_time": 1670673979,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 267290,
+        "num": 267290,
+        "word": "TheShy年度最受欢迎选手",
+        "onboard_time": 1670676917,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 250757,
+        "num": 250757,
+        "word": "许半夏被前夫打花絮",
+        "onboard_time": 1670678900,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 247188,
+        "num": 247188,
+        "word": "新冠病毒是否会通过下水管道传播",
+        "onboard_time": 1670672959,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225900,
+        "num": 225900,
+        "word": "刘耀文听到篮球的反应",
+        "onboard_time": 1670682022,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213359,
+        "num": 213359,
+        "word": "深圳一公园回应设露天公厕引争议",
+        "onboard_time": 1670681779,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198763,
+        "num": 198763,
+        "word": "删掉喜欢的人真的会忘记吗",
+        "onboard_time": 1670667024,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 198598,
+        "num": 198598,
+        "word": "无限超越班",
+        "onboard_time": 1670679319,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190990,
+        "num": 190990,
+        "word": "范丞丞说马上进下一个组",
+        "onboard_time": 1670677280,
+        "rank": 36,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 173390,
+        "num": 173390,
+        "word": "六级听力",
+        "onboard_time": 1670666427,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 172180,
+        "num": 172180,
+        "word": "Hero",
+        "onboard_time": 1670674521,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 169382,
+        "num": 169382,
+        "word": "得了新冠怎么自愈",
+        "onboard_time": 1670663423,
+        "rank": 39,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 188612,
+        "num": 165592,
+        "word": "无限超越班先导片今晚播出",
+        "onboard_time": 1670682261,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180343,
+        "num": 163787,
+        "word": "檀健次蔡文静演月光变奏曲",
+        "onboard_time": 1670680457,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160985,
+        "num": 160985,
+        "word": "鬼灭之刃第三季新预告",
+        "onboard_time": 1670682022,
+        "rank": 42,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 159594,
+        "num": 159594,
+        "word": "世界杯四强诞生",
+        "onboard_time": 1670656038,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158717,
+        "num": 158717,
+        "word": "闪耀暖暖",
+        "onboard_time": 1670675425,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 155266,
+        "num": 155266,
+        "word": "女子买衣服花600元一看标价499",
+        "onboard_time": 1670682679,
+        "rank": 45,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 153542,
+        "num": 153542,
+        "word": "暖暖发布十周年MV",
+        "onboard_time": 1670682440,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 146197,
+        "num": 146197,
+        "word": "摩洛哥 预测",
+        "onboard_time": 1670658857,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134996,
+        "num": 146193,
+        "word": "王楚钦2比3徐瑛彬",
+        "onboard_time": 1670675781,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134315,
+        "num": 146187,
+        "word": "六级听力答案",
+        "onboard_time": 1670669779,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#从习主席署名文章看大国外交#"
+    }
+  }
+}

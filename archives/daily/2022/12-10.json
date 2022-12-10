@@ -1,6 +1,6 @@
 {
   "startTime": 1670603204032,
-  "endTime": 1670681770242,
+  "endTime": 1670682818584,
   "band_list": [
     {
       "raw_hot": 11360361,
@@ -323,6 +323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1148093,
+      "num": 1148093,
+      "word": "钟南山称重复感染在一段时间内大概率不会发生",
+      "onboard_time": 1670678720,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1122145,
       "num": 1122145,
       "word": "加时赛",
@@ -337,6 +345,14 @@
       "onboard_time": 1670643314,
       "rank": 4,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1090919,
+      "num": 1090919,
+      "word": "葡萄牙首发",
+      "onboard_time": 1670673319,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 1070212,
@@ -361,14 +377,6 @@
       "onboard_time": 1670675301,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1011054,
-      "num": 1011054,
-      "word": "葡萄牙首发",
-      "onboard_time": 1670673319,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 992087,
@@ -451,19 +459,19 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 834718,
-      "num": 834718,
-      "word": "钟南山称重复感染在一段时间内大概率不会发生",
-      "onboard_time": 1670678720,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 806857,
       "num": 806857,
       "word": "专家称奥密克戎更易导致再感染",
       "onboard_time": 1670631491,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 800591,
+      "num": 800591,
+      "word": "北京呼吁新冠无症状和轻症患者勿打120",
+      "onboard_time": 1670678360,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -504,14 +512,6 @@
       "word": "感染新冠后每日症状参考",
       "onboard_time": 1670642416,
       "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 753647,
-      "num": 753647,
-      "word": "北京呼吁新冠无症状和轻症患者勿打120",
-      "onboard_time": 1670678360,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -923,6 +923,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 440103,
+      "num": 440103,
+      "word": "周柯宇沈月见面社恐现场",
+      "onboard_time": 1670681298,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 435782,
       "num": 435782,
       "word": "拉布拉多警犬因肥胖被要求减肥",
@@ -1107,6 +1115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 370025,
+      "num": 370025,
+      "word": "阳性第2天身体有多大变化",
+      "onboard_time": 1670681779,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 368343,
       "num": 368343,
       "word": "阳了不要重复吃多种退烧药",
@@ -1137,6 +1153,14 @@
       "onboard_time": 1670663719,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 363218,
+      "num": 363218,
+      "word": "宝妈被追尾1岁娃从车中滚落",
+      "onboard_time": 1670681060,
+      "rank": 43,
+      "category": "社会负面"
     },
     {
       "raw_hot": 361453,
@@ -1171,6 +1195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 356254,
+      "num": 356254,
+      "word": "吴磊周雨彤公主抱",
+      "onboard_time": 1670682318,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 355610,
       "num": 102707,
       "word": "克罗地亚5比3巴西",
@@ -1201,6 +1233,14 @@
       "onboard_time": 1670674340,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 345836,
+      "num": 345836,
+      "word": "你好星期六 磕cp",
+      "onboard_time": 1670682139,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 345301,
@@ -1427,6 +1467,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 296773,
+      "num": 296773,
+      "word": "爱情而已",
+      "onboard_time": 1670681540,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 296554,
       "num": 296554,
       "word": "居然被一个零钱包吓到了",
@@ -1467,20 +1515,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 290719,
+      "num": 290719,
+      "word": "王鹤棣说演员需要第三视角审视自己",
+      "onboard_time": 1670680222,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 290369,
       "num": 290369,
       "word": "王嘉尔 可能是最后一支MV了",
       "onboard_time": 1670583629,
       "rank": 24,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 288422,
-      "num": 288422,
-      "word": "王鹤棣说演员需要第三视角审视自己",
-      "onboard_time": 1670680222,
-      "rank": 24,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 288134,
@@ -1619,6 +1667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 250757,
+      "num": 250757,
+      "word": "许半夏被前夫打花絮",
+      "onboard_time": 1670678900,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 250074,
       "num": 250074,
       "word": "卡瓦尼说C罗是他遇到最好的前锋",
@@ -1641,14 +1697,6 @@
       "onboard_time": 1670639892,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 247341,
-      "num": 247341,
-      "word": "周柯宇沈月见面社恐现场",
-      "onboard_time": 1670681298,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 246828,
@@ -1787,19 +1835,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 225900,
+      "num": 225900,
+      "word": "刘耀文听到篮球的反应",
+      "onboard_time": 1670682022,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 225080,
       "num": 225080,
       "word": "陈飞宇谢谢观众的审判",
       "onboard_time": 1670601739,
       "rank": 29,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 219999,
-      "num": 219999,
-      "word": "许半夏被前夫打花絮",
-      "onboard_time": 1670678900,
-      "rank": 44,
       "category": "影视"
     },
     {
@@ -1817,6 +1865,14 @@
       "onboard_time": 1670677280,
       "rank": 46,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 213359,
+      "num": 213359,
+      "word": "深圳一公园回应设露天公厕引争议",
+      "onboard_time": 1670681779,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 212200,
@@ -1953,6 +2009,14 @@
       "onboard_time": 1670583680,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 188612,
+      "num": 165592,
+      "word": "无限超越班先导片今晚播出",
+      "onboard_time": 1670682261,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 187284,
@@ -2283,6 +2347,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 160985,
+      "num": 160985,
+      "word": "鬼灭之刃第三季新预告",
+      "onboard_time": 1670682022,
+      "rank": 42,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 159964,
       "num": 159964,
       "word": "命韵峋环两次看雪视频",
@@ -2379,6 +2451,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 155266,
+      "num": 155266,
+      "word": "女子买衣服花600元一看标价499",
+      "onboard_time": 1670682679,
+      "rank": 45,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 153542,
+      "num": 153542,
+      "word": "暖暖发布十周年MV",
+      "onboard_time": 1670682440,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 151766,
       "num": 151766,
       "word": "欧豪风吹半夏从痞子到厨子",
@@ -2441,14 +2529,6 @@
       "onboard_time": 1670591780,
       "rank": 45,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 146386,
-      "num": 146386,
-      "word": "宝妈被追尾1岁娃从车中滚落",
-      "onboard_time": 1670681060,
-      "rank": 43,
-      "category": "社会负面"
     },
     {
       "raw_hot": 145966,
@@ -2803,6 +2883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 54272,
+      "num": 1189955,
+      "word": "钟南山回应新冠后遗症",
+      "onboard_time": 1670565623,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 54148,
       "num": 54148,
       "word": "RNG",
@@ -2833,14 +2921,6 @@
       "onboard_time": 1670673628,
       "rank": 14,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 23281,
-      "num": 1044727,
-      "word": "钟南山回应新冠后遗症",
-      "onboard_time": 1670565623,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 20675,
@@ -2877,6 +2957,9 @@
     },
     {
       "word": "#北京发布新冠阳性感染者居家康复手册#"
+    },
+    {
+      "word": "#从习主席署名文章看大国外交#"
     }
   ]
 }
