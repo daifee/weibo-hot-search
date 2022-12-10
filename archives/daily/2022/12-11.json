@@ -1,6 +1,6 @@
 {
   "startTime": 1670689529040,
-  "endTime": 1670710636498,
+  "endTime": 1670711614760,
   "band_list": [
     {
       "raw_hot": 13790167,
@@ -235,6 +235,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 551168,
+      "num": 551168,
+      "word": "英格兰1比2法国",
+      "onboard_time": 1670706372,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 494138,
       "num": 494138,
       "word": "C罗替补",
@@ -256,14 +264,6 @@
       "word": "摩洛哥晋级4强",
       "onboard_time": 1670692220,
       "rank": 11,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 435496,
-      "num": 435496,
-      "word": "英格兰1比2法国",
-      "onboard_time": 1670706372,
-      "rank": 8,
       "category": "体育"
     },
     {
@@ -571,6 +571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 159469,
+      "num": 159469,
+      "word": "李现说他的青春结束了",
+      "onboard_time": 1670698816,
+      "rank": 30,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 155869,
       "num": 155869,
       "word": "非洲球队首进世界杯四强",
@@ -625,14 +633,6 @@
       "onboard_time": 1670673979,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 139197,
-      "num": 139197,
-      "word": "李现说他的青春结束了",
-      "onboard_time": 1670698816,
-      "rank": 30,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 134974,
@@ -715,8 +715,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 86067,
-      "num": 86067,
+      "raw_hot": 99608,
+      "num": 99608,
       "word": "一个家庭手握多少资产才算有钱",
       "onboard_time": 1670706852,
       "rank": 49,
@@ -724,7 +724,7 @@
     },
     {
       "raw_hot": 79703,
-      "num": 56752,
+      "num": 58787,
       "word": "詹俊说摩洛哥练了金钟罩铁布衫",
       "onboard_time": 1670699172,
       "rank": 47,
@@ -755,20 +755,20 @@
       "category": "动漫,影视"
     },
     {
+      "raw_hot": 46334,
+      "num": 46334,
+      "word": "谁能看懂潘粤明画的C罗",
+      "onboard_time": 1670689634,
+      "rank": 33,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 40215,
       "num": 1766046,
       "word": "钟南山回应新冠后遗症",
       "onboard_time": 1670565623,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 38859,
-      "num": 38859,
-      "word": "谁能看懂潘粤明画的C罗",
-      "onboard_time": 1670689634,
-      "rank": 33,
-      "category": "体育,艺人"
     }
   ],
   "hotgov_list": [
