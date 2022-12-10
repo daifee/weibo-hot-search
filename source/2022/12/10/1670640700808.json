@@ -1,0 +1,410 @@
+{
+  "runTime": 1670640700808,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2558965,
+        "num": 2558965,
+        "word": "世界杯四强",
+        "onboard_time": 1670628250,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1938777,
+        "num": 1938777,
+        "word": "核酸点保留愿检尽检你赞成吗",
+        "onboard_time": 1670634971,
+        "rank": 1,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 147667,
+        "num": 1548268,
+        "word": "迈向结束疫情生活的道路不等于结束疫情",
+        "onboard_time": 1670591660,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1447199,
+        "num": 1447199,
+        "word": "疑智障儿子偷钱买卡片爸爸上门退钱被拒",
+        "onboard_time": 1670636832,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1065259,
+        "num": 1065259,
+        "word": "内马尔哭了",
+        "onboard_time": 1670608996,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 888197,
+        "num": 888197,
+        "word": "荷兰5比6阿根廷",
+        "onboard_time": 1670625013,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 703054,
+        "num": 703054,
+        "word": "克罗地亚vs巴西",
+        "onboard_time": 1670594060,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 637367,
+        "num": 637367,
+        "word": "北京疫情发布不再公布各区数据",
+        "onboard_time": 1670635089,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 620856,
+        "num": 620856,
+        "word": "荷兰vs阿根廷",
+        "onboard_time": 1670609836,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 543656,
+        "num": 543656,
+        "word": "尽量让自己和身边人晚感染少感染",
+        "onboard_time": 1670634191,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 525959,
+        "num": 525959,
+        "word": "用了退烧药就别再用复方感冒药",
+        "onboard_time": 1670636470,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 462668,
+        "num": 462668,
+        "word": "男子给70万抚养费被前妻和现任买房",
+        "onboard_time": 1670637973,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 454273,
+        "num": 454273,
+        "word": "内马尔进球",
+        "onboard_time": 1670606296,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 418308,
+        "num": 418308,
+        "word": "白敬亭说和田曦薇现实中也是非常好的朋友",
+        "onboard_time": 1670600481,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 411521,
+        "num": 411521,
+        "word": "两小羊从烤羊店出逃意外成网红",
+        "onboard_time": 1670638452,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 392962,
+        "num": 392962,
+        "word": "爸爸给14个月的女儿洗脚满眼宠溺",
+        "onboard_time": 1670633414,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 387851,
+        "num": 387851,
+        "word": "巴西淘汰",
+        "onboard_time": 1670608756,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 379767,
+        "num": 379767,
+        "word": "葡萄牙主帅承认C罗不满替补",
+        "onboard_time": 1670611454,
+        "rank": 17,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 371940,
+        "num": 371940,
+        "word": "N95口罩搜索暴涨715%",
+        "onboard_time": 1670639774,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 369824,
+        "num": 369824,
+        "word": "大学生返乡该有的待遇",
+        "onboard_time": 1670634491,
+        "rank": 19,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 359550,
+        "num": 359550,
+        "word": "财阀家的小儿子反转",
+        "onboard_time": 1670636892,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 351454,
+        "num": 351454,
+        "word": "四六级",
+        "onboard_time": 1670633951,
+        "rank": 21,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 348769,
+        "num": 348769,
+        "word": "专家称奥密克戎更易导致再感染",
+        "onboard_time": 1670631491,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335621,
+        "num": 335621,
+        "word": "梅西",
+        "onboard_time": 1670588600,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 317483,
+        "num": 317483,
+        "word": "杨洋援军明日到达正脸路透",
+        "onboard_time": 1670640253,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 298862,
+        "num": 298862,
+        "word": "克罗地亚门将",
+        "onboard_time": 1670601080,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 294498,
+        "num": 294498,
+        "word": "陈飞宇进组伟大的胜利",
+        "onboard_time": 1670636951,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 273425,
+        "num": 273425,
+        "word": "裁判 偏",
+        "onboard_time": 1670606296,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 270310,
+        "num": 270310,
+        "word": "风吹半夏散伙宴席坐满了",
+        "onboard_time": 1670632990,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 262989,
+        "num": 262989,
+        "word": "刘畊宏苏醒互动为梅西打call",
+        "onboard_time": 1670636892,
+        "rank": 29,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 259287,
+        "num": 259287,
+        "word": "卿卿日常 传承",
+        "onboard_time": 1670595740,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 253012,
+        "num": 253012,
+        "word": "拉布拉多警犬因肥胖被要求减肥",
+        "onboard_time": 1670632632,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247633,
+        "num": 247633,
+        "word": "伟大的胜利",
+        "onboard_time": 1670639892,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 245922,
+        "num": 245922,
+        "word": "世界杯裁判",
+        "onboard_time": 1670630108,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 242114,
+        "num": 242114,
+        "word": "内马尔点球",
+        "onboard_time": 1670628131,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 239321,
+        "num": 239321,
+        "word": "阿根廷门将神了",
+        "onboard_time": 1670624229,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 219957,
+        "num": 219957,
+        "word": "巴西门将",
+        "onboard_time": 1670608756,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 208158,
+        "num": 208158,
+        "word": "方舱医院升级改造你支持吗",
+        "onboard_time": 1670632090,
+        "rank": 37,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 204036,
+        "num": 204036,
+        "word": "年轻人阳性了可以不吃药吗",
+        "onboard_time": 1670640373,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201587,
+        "num": 201587,
+        "word": "莫德里奇",
+        "onboard_time": 1670598322,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191032,
+        "num": 191032,
+        "word": "aespa与RedVelvet将合作新曲",
+        "onboard_time": 1670629810,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 190331,
+        "num": 190331,
+        "word": "孙悦 状态",
+        "onboard_time": 1670598322,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190067,
+        "num": 190067,
+        "word": "北京协和医院科普新冠备药",
+        "onboard_time": 1670629930,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189875,
+        "num": 189875,
+        "word": "央美画家画一条鱼吃一条鱼",
+        "onboard_time": 1670639533,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177374,
+        "num": 177374,
+        "word": "哇唧唧哇创始人说颜值经济是一种危机",
+        "onboard_time": 1670604020,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172763,
+        "num": 172763,
+        "word": "厂家称黄桃罐头没有任何药效",
+        "onboard_time": 1670600000,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156495,
+        "num": 156495,
+        "word": "吴磊给周雨彤涂口红",
+        "onboard_time": 1670640614,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155910,
+        "num": 155910,
+        "word": "郝葭 芳如",
+        "onboard_time": 1670596280,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 155525,
+        "num": 155525,
+        "word": "他为国放弃所有名誉隐姓埋名17年",
+        "onboard_time": 1670640434,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155259,
+        "num": 155259,
+        "word": "阳了不要重复吃多种退烧药",
+        "onboard_time": 1670633711,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中阿峰会是个什么会#"
+    }
+  }
+}
