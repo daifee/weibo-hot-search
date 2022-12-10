@@ -1,6 +1,6 @@
 {
   "startTime": 1670603204032,
-  "endTime": 1670670889912,
+  "endTime": 1670672000949,
   "band_list": [
     {
       "raw_hot": 11360361,
@@ -179,6 +179,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1594570,
+      "num": 1594570,
+      "word": "体温超过38.5℃就要吃退烧药",
+      "onboard_time": 1670664378,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1591774,
       "num": 1591774,
       "word": "利瓦科维奇 门神",
@@ -201,14 +209,6 @@
       "onboard_time": 1670601319,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1481376,
-      "num": 1481376,
-      "word": "体温超过38.5℃就要吃退烧药",
-      "onboard_time": 1670664378,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1457144,
@@ -361,6 +361,14 @@
       "onboard_time": 1670666059,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 913476,
+      "num": 913476,
+      "word": "马龙",
+      "onboard_time": 1670669479,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 903420,
@@ -563,6 +571,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 628181,
+      "num": 628181,
+      "word": "摩洛哥vs葡萄牙",
+      "onboard_time": 1670657117,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 626469,
       "num": 626469,
       "word": "四六级",
@@ -603,14 +619,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 568139,
-      "num": 568139,
-      "word": "摩洛哥vs葡萄牙",
-      "onboard_time": 1670657117,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 567308,
       "num": 567308,
       "word": "尽量让自己和身边人晚感染少感染",
@@ -635,6 +643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 553528,
+      "num": 553528,
+      "word": "虞书欣翻跳untouchable",
+      "onboard_time": 1670670139,
+      "rank": 9,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 551961,
       "num": 2045672,
       "word": "阳性感染者居家康复手册",
@@ -649,14 +665,6 @@
       "onboard_time": 1670591240,
       "rank": 11,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 548226,
-      "num": 548226,
-      "word": "马龙",
-      "onboard_time": 1670669479,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 525959,
@@ -755,12 +763,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 457256,
-      "num": 457256,
-      "word": "虞书欣翻跳untouchable",
-      "onboard_time": 1670670139,
+      "raw_hot": 459663,
+      "num": 459663,
+      "word": "王楚钦",
+      "onboard_time": 1670670981,
       "rank": 9,
-      "category": "作品衍生"
+      "category": "体育"
     },
     {
       "raw_hot": 456870,
@@ -777,6 +785,14 @@
       "onboard_time": 1670648478,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 452630,
+      "num": 452630,
+      "word": "删掉喜欢的人真的会忘记吗",
+      "onboard_time": 1670667024,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 448704,
@@ -859,14 +875,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 420835,
-      "num": 420835,
-      "word": "删掉喜欢的人真的会忘记吗",
-      "onboard_time": 1670667024,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
       "raw_hot": 419980,
       "num": 419980,
       "word": "摩洛哥 预测",
@@ -921,6 +929,14 @@
       "onboard_time": 1670667623,
       "rank": 29,
       "category": "教育"
+    },
+    {
+      "raw_hot": 404566,
+      "num": 404566,
+      "word": "世界杯",
+      "onboard_time": 1670670981,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 404511,
@@ -1227,6 +1243,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 296554,
+      "num": 296554,
+      "word": "居然被一个零钱包吓到了",
+      "onboard_time": 1670669240,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 295590,
       "num": 295590,
       "word": "节气姑娘有了自己的名字",
@@ -1419,14 +1443,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 245610,
-      "num": 210464,
-      "word": "居然被一个零钱包吓到了",
-      "onboard_time": 1670669240,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 242760,
       "num": 180931,
       "word": "卿卿日常 女性角色",
@@ -1441,6 +1457,14 @@
       "onboard_time": 1670604075,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 239610,
+      "num": 239610,
+      "word": "猪猪说能快一点吗我要窒息了",
+      "onboard_time": 1670668400,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 239383,
@@ -1595,6 +1619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 189564,
+      "num": 189564,
+      "word": "明年一定会比今年更好",
+      "onboard_time": 1670671461,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 187284,
       "num": 187284,
       "word": "阿根廷首发",
@@ -1699,12 +1731,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 175015,
+      "num": 175015,
+      "word": "六级听力答案",
+      "onboard_time": 1670669779,
+      "rank": 43,
+      "category": "教育"
+    },
+    {
       "raw_hot": 174607,
       "num": 174607,
       "word": "管泽元寸头撞脸于震",
       "onboard_time": 1670666779,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 173735,
+      "num": 173735,
+      "word": "星火",
+      "onboard_time": 1670671340,
+      "rank": 38,
+      "category": "教育"
     },
     {
       "raw_hot": 173452,
@@ -1763,6 +1811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 167222,
+      "num": 167222,
+      "word": "灭火消防员救了一万只干饭鸡",
+      "onboard_time": 1670667979,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 167057,
       "num": 167057,
       "word": "董思成LoveTalk舞台直拍",
@@ -1785,14 +1841,6 @@
       "onboard_time": 1670634491,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 165478,
-      "num": 165478,
-      "word": "猪猪说能快一点吗我要窒息了",
-      "onboard_time": 1670668400,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 165027,
@@ -1915,14 +1963,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 157843,
-      "num": 157843,
-      "word": "六级听力答案",
-      "onboard_time": 1670669779,
-      "rank": 43,
-      "category": "教育"
-    },
-    {
       "raw_hot": 157371,
       "num": 157371,
       "word": "卡恩",
@@ -1945,6 +1985,14 @@
       "onboard_time": 1670639774,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 156544,
+      "num": 156544,
+      "word": "黄宗泽问为什么受伤的总是我",
+      "onboard_time": 1670667919,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 155525,
@@ -1993,14 +2041,6 @@
       "onboard_time": 1670650336,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 148860,
-      "num": 148860,
-      "word": "灭火消防员救了一万只干饭鸡",
-      "onboard_time": 1670667979,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 148111,
@@ -2131,12 +2171,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 127812,
+      "num": 127812,
+      "word": "董路解释C罗在球队的贡献方式",
+      "onboard_time": 1670671578,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 127000,
       "num": 127000,
       "word": "女子给流浪老人买鞋袜蹲地为其更换",
       "onboard_time": 1670653096,
       "rank": 47,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 126268,
+      "num": 126268,
+      "word": "同事之间的迷惑行为",
+      "onboard_time": 1670671759,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 126037,
@@ -2386,6 +2442,9 @@
     },
     {
       "word": "#中阿友好相信还会好上加好#"
+    },
+    {
+      "word": "#北京发布新冠阳性感染者居家康复手册#"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1670670889912,
+  "endTime": 1670672000949,
   "band_list": [
     {
       "raw_hot": 11360361,
@@ -1179,6 +1179,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 1594570,
+      "num": 1594570,
+      "word": "体温超过38.5℃就要吃退烧药",
+      "onboard_time": 1670664378,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1591774,
       "num": 1591774,
       "word": "利瓦科维奇 门神",
@@ -1345,14 +1353,6 @@
       "onboard_time": 1670601319,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1481376,
-      "num": 1481376,
-      "word": "体温超过38.5℃就要吃退烧药",
-      "onboard_time": 1670664378,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1480243,
@@ -2768,6 +2768,14 @@
       "word": "林孝埈",
       "onboard_time": 1670574919,
       "rank": 5,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 913476,
+      "num": 913476,
+      "word": "马龙",
+      "onboard_time": 1670669479,
+      "rank": 7,
       "category": "体育"
     },
     {
@@ -4843,6 +4851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 628181,
+      "num": 628181,
+      "word": "摩洛哥vs葡萄牙",
+      "onboard_time": 1670657117,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 626469,
       "num": 626469,
       "word": "四六级",
@@ -5467,14 +5483,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 568139,
-      "num": 568139,
-      "word": "摩洛哥vs葡萄牙",
-      "onboard_time": 1670657117,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 567308,
       "num": 567308,
       "word": "尽量让自己和身边人晚感染少感染",
@@ -5667,6 +5675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 553528,
+      "num": 553528,
+      "word": "虞书欣翻跳untouchable",
+      "onboard_time": 1670670139,
+      "rank": 9,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 553308,
       "num": 860831,
       "word": "女子喂3天流浪猫被回赠活老鼠",
@@ -5721,14 +5737,6 @@
       "onboard_time": 1670476754,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 548226,
-      "num": 548226,
-      "word": "马龙",
-      "onboard_time": 1670669479,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 547800,
@@ -7003,14 +7011,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 457256,
-      "num": 457256,
-      "word": "虞书欣翻跳untouchable",
-      "onboard_time": 1670670139,
-      "rank": 9,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 456870,
       "num": 456870,
       "word": "北京协和医院科普新冠备药",
@@ -7073,6 +7073,14 @@
       "onboard_time": 1670288169,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 452630,
+      "num": 452630,
+      "word": "删掉喜欢的人真的会忘记吗",
+      "onboard_time": 1670667024,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 452499,
@@ -7635,14 +7643,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 420835,
-      "num": 420835,
-      "word": "删掉喜欢的人真的会忘记吗",
-      "onboard_time": 1670667024,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
       "raw_hot": 420622,
       "num": 820967,
       "word": "药店卖雌激素药给初一男生被立案",
@@ -8073,6 +8073,14 @@
       "onboard_time": 1669984391,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 404566,
+      "num": 404566,
+      "word": "世界杯",
+      "onboard_time": 1669850109,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 404555,
@@ -10523,6 +10531,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 296554,
+      "num": 296554,
+      "word": "居然被一个零钱包吓到了",
+      "onboard_time": 1670669240,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 296261,
       "num": 197426,
       "word": "梅西莱万赛后拥抱",
@@ -12243,14 +12259,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 245610,
-      "num": 210464,
-      "word": "居然被一个零钱包吓到了",
-      "onboard_time": 1670669240,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 245603,
       "num": 245603,
       "word": "阿凡达2口碑解禁",
@@ -12393,6 +12401,14 @@
       "onboard_time": 1670604075,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 239610,
+      "num": 239610,
+      "word": "猪猪说能快一点吗我要窒息了",
+      "onboard_time": 1670668400,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 239383,
@@ -14403,6 +14419,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 189564,
+      "num": 189564,
+      "word": "明年一定会比今年更好",
+      "onboard_time": 1670671461,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 189266,
       "num": 187664,
       "word": "突尼斯进球",
@@ -15291,6 +15315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 175015,
+      "num": 175015,
+      "word": "六级听力答案",
+      "onboard_time": 1670669779,
+      "rank": 43,
+      "category": "教育"
+    },
+    {
       "raw_hot": 174738,
       "num": 174738,
       "word": "我国成功在海上发射一箭十四星",
@@ -15353,6 +15385,14 @@
       "onboard_time": 1670174051,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 173735,
+      "num": 173735,
+      "word": "星火",
+      "onboard_time": 1670671340,
+      "rank": 38,
+      "category": "教育"
     },
     {
       "raw_hot": 173700,
@@ -15747,6 +15787,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 167222,
+      "num": 167222,
+      "word": "灭火消防员救了一万只干饭鸡",
+      "onboard_time": 1670667979,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 167179,
       "num": 154192,
       "word": "王鹤棣用收获总结2022年",
@@ -15857,14 +15905,6 @@
       "onboard_time": 1670634491,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 165478,
-      "num": 165478,
-      "word": "猪猪说能快一点吗我要窒息了",
-      "onboard_time": 1670668400,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 165392,
@@ -16371,14 +16411,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 157843,
-      "num": 157843,
-      "word": "六级听力答案",
-      "onboard_time": 1670669779,
-      "rank": 43,
-      "category": "教育"
-    },
-    {
       "raw_hot": 157702,
       "num": 174330,
       "word": "恋与制作人",
@@ -16457,6 +16489,14 @@
       "onboard_time": 1670510777,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 156544,
+      "num": 156544,
+      "word": "黄宗泽问为什么受伤的总是我",
+      "onboard_time": 1670667919,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 156416,
@@ -16665,14 +16705,6 @@
       "onboard_time": 1669905072,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 152971,
-      "num": 180847,
-      "word": "世界杯",
-      "onboard_time": 1669850109,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 152948,
@@ -17009,14 +17041,6 @@
       "onboard_time": 1670068692,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 148860,
-      "num": 148860,
-      "word": "灭火消防员救了一万只干饭鸡",
-      "onboard_time": 1670667979,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 148728,
@@ -18499,6 +18523,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 127812,
+      "num": 127812,
+      "word": "董路解释C罗在球队的贡献方式",
+      "onboard_time": 1670671578,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 127786,
       "num": 127786,
       "word": "你最喜欢的体育解说是谁",
@@ -18577,6 +18609,14 @@
       "onboard_time": 1670246952,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 126268,
+      "num": 126268,
+      "word": "同事之间的迷惑行为",
+      "onboard_time": 1670671759,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 126259,
@@ -21776,6 +21816,9 @@
     },
     {
       "word": "#中阿友好相信还会好上加好#"
+    },
+    {
+      "word": "#北京发布新冠阳性感染者居家康复手册#"
     }
   ]
 }
