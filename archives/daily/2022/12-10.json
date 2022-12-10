@@ -1,6 +1,6 @@
 {
   "startTime": 1670603204032,
-  "endTime": 1670635602076,
+  "endTime": 1670637257057,
   "band_list": [
     {
       "raw_hot": 11360361,
@@ -51,8 +51,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 3049928,
-      "num": 3049928,
+      "raw_hot": 3098510,
+      "num": 3098510,
       "word": "世界杯四强",
       "onboard_time": 1670628250,
       "rank": 24,
@@ -227,6 +227,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 806857,
+      "num": 806857,
+      "word": "专家称奥密克戎更易导致再感染",
+      "onboard_time": 1670631491,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 790714,
       "num": 790714,
       "word": "厂家称黄桃罐头没有任何药效",
@@ -243,14 +251,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 679024,
-      "num": 679024,
-      "word": "专家称奥密克戎更易导致再感染",
-      "onboard_time": 1670631491,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 666566,
       "num": 666566,
       "word": "阿根廷晋级4强",
@@ -265,6 +265,22 @@
       "onboard_time": 1670598322,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 659042,
+      "num": 659042,
+      "word": "爸爸给14个月的女儿洗脚满眼宠溺",
+      "onboard_time": 1670633414,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 653807,
+      "num": 653807,
+      "word": "核酸点保留愿检尽检你赞成吗",
+      "onboard_time": 1670634971,
+      "rank": 42,
+      "category": "社会议题"
     },
     {
       "raw_hot": 641478,
@@ -307,20 +323,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 576913,
+      "num": 576913,
+      "word": "北京疫情发布不再公布各区数据",
+      "onboard_time": 1670635089,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 551894,
       "num": 551894,
       "word": "中国四大直辖市完成换帅",
       "onboard_time": 1670591240,
       "rank": 11,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 505932,
-      "num": 505932,
-      "word": "爸爸给14个月的女儿洗脚满眼宠溺",
-      "onboard_time": 1670633414,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 456870,
@@ -337,6 +353,14 @@
       "onboard_time": 1670595740,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 435782,
+      "num": 435782,
+      "word": "拉布拉多警犬因肥胖被要求减肥",
+      "onboard_time": 1670632632,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 435336,
@@ -371,6 +395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 423291,
+      "num": 423291,
+      "word": "尽量让自己和身边人晚感染少感染",
+      "onboard_time": 1670634191,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 421910,
       "num": 421910,
       "word": "有个来报恩的女儿是种什么体验",
@@ -395,20 +427,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 408424,
+      "num": 408424,
+      "word": "大学生返乡该有的待遇",
+      "onboard_time": 1670634491,
+      "rank": 31,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 404511,
       "num": 142808,
       "word": "陈飞宇超话翻牌3小时",
       "onboard_time": 1670635572,
       "rank": 47,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 396674,
-      "num": 396674,
-      "word": "拉布拉多警犬因肥胖被要求减肥",
-      "onboard_time": 1670632632,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 384126,
@@ -425,6 +457,14 @@
       "onboard_time": 1670630108,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 368343,
+      "num": 368343,
+      "word": "阳了不要重复吃多种退烧药",
+      "onboard_time": 1670633711,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 365923,
@@ -467,14 +507,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 348818,
-      "num": 348818,
-      "word": "尽量让自己和身边人晚感染少感染",
-      "onboard_time": 1670634191,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 337353,
       "num": 337353,
       "word": "裁判 黄牌",
@@ -499,6 +531,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 332537,
+      "num": 332537,
+      "word": "陈飞宇进组伟大的胜利",
+      "onboard_time": 1670636951,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 332229,
       "num": 332229,
       "word": "王石分享感染新冠经历",
@@ -512,14 +552,6 @@
       "word": "4类人群不建议首选布洛芬退烧",
       "onboard_time": 1670581580,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 329335,
-      "num": 329335,
-      "word": "阳了不要重复吃多种退烧药",
-      "onboard_time": 1670633711,
-      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -555,20 +587,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 302444,
+      "num": 302444,
+      "word": "学着妈妈的样子给妈妈丢人",
+      "onboard_time": 1670633172,
+      "rank": 29,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 301689,
       "num": 273900,
       "word": "梅西手术刀助攻",
       "onboard_time": 1670616614,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 299319,
-      "num": 299319,
-      "word": "学着妈妈的样子给妈妈丢人",
-      "onboard_time": 1670633172,
-      "rank": 29,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 295590,
@@ -635,14 +667,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 269329,
-      "num": 269329,
-      "word": "大学生返乡该有的待遇",
-      "onboard_time": 1670634491,
-      "rank": 31,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 262399,
       "num": 262399,
       "word": "女子花千元买柯基第二天查出细小",
@@ -699,14 +723,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 236934,
-      "num": 236934,
-      "word": "北京疫情发布不再公布各区数据",
-      "onboard_time": 1670635089,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 235976,
       "num": 235976,
       "word": "不用再担心核酸阳性医院不接诊",
@@ -731,12 +747,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 192829,
-      "num": 192829,
-      "word": "核酸点保留愿检尽检你赞成吗",
-      "onboard_time": 1670634971,
-      "rank": 42,
-      "category": "社会议题"
+      "raw_hot": 210541,
+      "num": 210541,
+      "word": "刘畊宏苏醒互动为梅西打call",
+      "onboard_time": 1670636892,
+      "rank": 41,
+      "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 194362,
+      "num": 194362,
+      "word": "财阀家的小儿子反转",
+      "onboard_time": 1670636892,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 190438,
@@ -753,6 +777,30 @@
       "onboard_time": 1670610916,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 186260,
+      "num": 186260,
+      "word": "用了退烧药就别再用复方感冒药",
+      "onboard_time": 1670636470,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 185162,
+      "num": 185162,
+      "word": "点燃我温暖你最爱台词",
+      "onboard_time": 1670636351,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 182088,
+      "num": 182088,
+      "word": "疑智障儿子偷钱买卡片爸爸上门退钱被拒",
+      "onboard_time": 1670636832,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 181948,
@@ -809,6 +857,14 @@
       "onboard_time": 1670602338,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 161027,
+      "num": 161027,
+      "word": "廉政狙击今晚开播",
+      "onboard_time": 1670637131,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 158462,
