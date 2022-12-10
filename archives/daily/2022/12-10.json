@@ -1,6 +1,6 @@
 {
   "startTime": 1670603204032,
-  "endTime": 1670679262355,
+  "endTime": 1670681770242,
   "band_list": [
     {
       "raw_hot": 11360361,
@@ -219,6 +219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1464619,
+      "num": 1464619,
+      "word": "猪哼 hero",
+      "onboard_time": 1670678539,
+      "rank": 13,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1457144,
       "num": 1457144,
       "word": "疑智障儿子偷钱买卡片爸爸上门退钱被拒",
@@ -347,6 +355,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1026855,
+      "num": 1026855,
+      "word": "叶一茜说森碟是家里运动健将",
+      "onboard_time": 1670675301,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1011054,
+      "num": 1011054,
+      "word": "葡萄牙首发",
+      "onboard_time": 1670673319,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 992087,
       "num": 321790,
       "word": "王大陆蔡卓宜约会像运动会",
@@ -385,14 +409,6 @@
       "onboard_time": 1670666059,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 908427,
-      "num": 908427,
-      "word": "叶一茜说森碟是家里运动健将",
-      "onboard_time": 1670675301,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 903420,
@@ -435,12 +451,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 834718,
+      "num": 834718,
+      "word": "钟南山称重复感染在一段时间内大概率不会发生",
+      "onboard_time": 1670678720,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 806857,
       "num": 806857,
       "word": "专家称奥密克戎更易导致再感染",
       "onboard_time": 1670631491,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 790784,
+      "num": 790784,
+      "word": "卡卡预测的冠军就剩英格兰了",
+      "onboard_time": 1670679319,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 790714,
@@ -472,6 +504,14 @@
       "word": "感染新冠后每日症状参考",
       "onboard_time": 1670642416,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 753647,
+      "num": 753647,
+      "word": "北京呼吁新冠无症状和轻症患者勿打120",
+      "onboard_time": 1670678360,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -803,12 +843,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 485292,
-      "num": 485292,
-      "word": "葡萄牙首发",
-      "onboard_time": 1670673319,
-      "rank": 18,
-      "category": "体育"
+      "raw_hot": 485788,
+      "num": 485788,
+      "word": "异地恋分手还要再见一面吗",
+      "onboard_time": 1670676140,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 476649,
@@ -883,14 +923,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 436396,
-      "num": 436396,
-      "word": "猪哼 hero",
-      "onboard_time": 1670678539,
-      "rank": 13,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 435782,
       "num": 435782,
       "word": "拉布拉多警犬因肥胖被要求减肥",
@@ -929,14 +961,6 @@
       "onboard_time": 1670604020,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 428964,
-      "num": 428964,
-      "word": "异地恋分手还要再见一面吗",
-      "onboard_time": 1670676140,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 423667,
@@ -1163,12 +1187,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 353364,
+      "num": 353364,
+      "word": "吴磊周雨彤摸脸杀",
+      "onboard_time": 1670677229,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 350913,
       "num": 350913,
       "word": "墨白开播就求婚",
       "onboard_time": 1670674340,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 345301,
+      "num": 345301,
+      "word": "蜜蜂狗",
+      "onboard_time": 1670676979,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 338709,
@@ -1371,6 +1411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 299442,
+      "num": 299442,
+      "word": "果然奶牛猫都是神经病",
+      "onboard_time": 1670677399,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 299035,
       "num": 299035,
       "word": "陈飞宇寸头外网生图",
@@ -1419,20 +1467,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 291554,
-      "num": 291554,
-      "word": "吴磊周雨彤摸脸杀",
-      "onboard_time": 1670677229,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 290369,
       "num": 290369,
       "word": "王嘉尔 可能是最后一支MV了",
       "onboard_time": 1670583629,
       "rank": 24,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 288422,
+      "num": 288422,
+      "word": "王鹤棣说演员需要第三视角审视自己",
+      "onboard_time": 1670680222,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 288134,
@@ -1489,14 +1537,6 @@
       "onboard_time": 1670585539,
       "rank": 32,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 275835,
-      "num": 275835,
-      "word": "蜜蜂狗",
-      "onboard_time": 1670676979,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 271240,
@@ -1587,14 +1627,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 248401,
-      "num": 223397,
-      "word": "钟南山称重复感染在一段时间内大概率不会发生",
-      "onboard_time": 1670678720,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 248109,
       "num": 248109,
       "word": "黄桃罐头",
@@ -1609,6 +1641,14 @@
       "onboard_time": 1670639892,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 247341,
+      "num": 247341,
+      "word": "周柯宇沈月见面社恐现场",
+      "onboard_time": 1670681298,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 246828,
@@ -1649,6 +1689,14 @@
       "onboard_time": 1670601627,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 240990,
+      "num": 235268,
+      "word": "无限超越班",
+      "onboard_time": 1670679319,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 239612,
@@ -1715,6 +1763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 233759,
+      "num": 233759,
+      "word": "LESSERAFIM2022MMA表演舞台练习室版",
+      "onboard_time": 1670679198,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 233445,
       "num": 233445,
       "word": "大马丁怒批裁判",
@@ -1739,12 +1795,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 219999,
+      "num": 219999,
+      "word": "许半夏被前夫打花絮",
+      "onboard_time": 1670678900,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 216806,
       "num": 216806,
       "word": "来看我们的演唱会",
       "onboard_time": 1670676500,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 213847,
+      "num": 213847,
+      "word": "范丞丞说马上进下一个组",
+      "onboard_time": 1670677280,
+      "rank": 46,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 212200,
@@ -1827,12 +1899,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 203843,
-      "num": 203843,
-      "word": "北京呼吁新冠无症状和轻症患者勿打120",
-      "onboard_time": 1670678360,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 196151,
+      "num": 177745,
+      "word": "檀健次蔡文静演月光变奏曲",
+      "onboard_time": 1670680457,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 195650,
@@ -1867,28 +1939,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 194666,
+      "num": 168895,
+      "word": "秦霄贤哈妮克孜还原点燃我温暖你名场面",
+      "onboard_time": 1670679981,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 190438,
       "num": 190438,
       "word": "男子未戴手套制作蛋糕胚被指恶心",
       "onboard_time": 1670583680,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 190242,
-      "num": 156878,
-      "word": "LESSERAFIM2022MMA表演舞台练习室版",
-      "onboard_time": 1670679198,
-      "rank": 47,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 187303,
-      "num": 187303,
-      "word": "果然奶牛猫都是神经病",
-      "onboard_time": 1670677399,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 187284,
@@ -1905,14 +1969,6 @@
       "onboard_time": 1670673559,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 186858,
-      "num": 186858,
-      "word": "范丞丞说马上进下一个组",
-      "onboard_time": 1670677280,
-      "rank": 46,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 186264,
@@ -1952,14 +2008,6 @@
       "word": "宋茜陈妍希温暖的甜蜜的闺蜜大片",
       "onboard_time": 1670666598,
       "rank": 36,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 182157,
-      "num": 182157,
-      "word": "许半夏被前夫打花絮",
-      "onboard_time": 1670678900,
-      "rank": 44,
       "category": "影视"
     },
     {
@@ -2395,6 +2443,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 146386,
+      "num": 146386,
+      "word": "宝妈被追尾1岁娃从车中滚落",
+      "onboard_time": 1670681060,
+      "rank": 43,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 145966,
       "num": 145966,
       "word": "黄桃罐头无法缓解新冠症状",
@@ -2555,12 +2611,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121695,
+      "num": 121695,
+      "word": "短道世界杯混合接力中国队夺银",
+      "onboard_time": 1670677039,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121514,
       "num": 97984,
       "word": "刘耀文片场大片",
       "onboard_time": 1670660539,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 121135,
+      "num": 121135,
+      "word": "内马尔是有些叛逆在身上的",
+      "onboard_time": 1670681540,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 119694,
@@ -2761,6 +2833,14 @@
       "onboard_time": 1670673628,
       "rank": 14,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 23281,
+      "num": 1044727,
+      "word": "钟南山回应新冠后遗症",
+      "onboard_time": 1670565623,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 20675,
