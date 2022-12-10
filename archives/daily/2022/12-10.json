@@ -1,6 +1,6 @@
 {
   "startTime": 1670603204032,
-  "endTime": 1670675607084,
+  "endTime": 1670676703241,
   "band_list": [
     {
       "raw_hot": 11360361,
@@ -83,8 +83,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 2816380,
-      "num": 2816380,
+      "raw_hot": 2929846,
+      "num": 2929846,
       "word": "钟南山预计明年上半年能恢复到疫情前生活",
       "onboard_time": 1670672959,
       "rank": 0,
@@ -467,6 +467,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 712854,
+      "num": 712854,
+      "word": "高辛夷怀孕",
+      "onboard_time": 1670674880,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 707865,
       "num": 707865,
       "word": "新冠阳性吃消炎药有用吗",
@@ -611,20 +619,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 603977,
+      "num": 451903,
+      "word": "余霜 黑裙",
+      "onboard_time": 1670672061,
+      "rank": 11,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 595149,
       "num": 595149,
       "word": "许半夏赵垒分手变求婚",
       "onboard_time": 1670661739,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 591964,
-      "num": 337361,
-      "word": "余霜 黑裙",
-      "onboard_time": 1670672061,
-      "rank": 11,
-      "category": "游戏"
     },
     {
       "raw_hot": 582506,
@@ -667,14 +675,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 553122,
-      "num": 337268,
-      "word": "高辛夷怀孕",
-      "onboard_time": 1670674880,
-      "rank": 12,
-      "category": "影视"
-    },
-    {
       "raw_hot": 551961,
       "num": 2045672,
       "word": "阳性感染者居家康复手册",
@@ -689,6 +689,14 @@
       "onboard_time": 1670591240,
       "rank": 11,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 542518,
+      "num": 542518,
+      "word": "阳华提离婚秦施慌了",
+      "onboard_time": 1670673979,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 525959,
@@ -763,20 +771,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 488204,
+      "num": 488204,
+      "word": "Hero",
+      "onboard_time": 1670674521,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 476649,
       "num": 476649,
       "word": "内马尔曾说这是最后一届世界杯",
       "onboard_time": 1670648896,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 470267,
-      "num": 470267,
-      "word": "阳华提离婚秦施慌了",
-      "onboard_time": 1670673979,
-      "rank": 7,
-      "category": "影视"
     },
     {
       "raw_hot": 463986,
@@ -883,6 +891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 432711,
+      "num": 432711,
+      "word": "新冠病毒是否会通过下水管道传播",
+      "onboard_time": 1670672959,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 423667,
       "num": 399550,
       "word": "我vs梅西",
@@ -945,6 +961,14 @@
       "onboard_time": 1670629330,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 411367,
+      "num": 411367,
+      "word": "东北人吃黄桃罐头必须喝汤吗",
+      "onboard_time": 1670674160,
+      "rank": 26,
+      "category": "美食,情感"
     },
     {
       "raw_hot": 410271,
@@ -1011,6 +1035,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 376484,
+      "num": 376484,
+      "word": "叶一茜说森碟是家里运动健将",
+      "onboard_time": 1670675301,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 370337,
       "num": 370337,
       "word": "世界杯裁判",
@@ -1075,6 +1107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 359128,
+      "num": 359128,
+      "word": "白岩松支持00后整顿职场",
+      "onboard_time": 1670672122,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 355610,
       "num": 102707,
       "word": "克罗地亚5比3巴西",
@@ -1089,6 +1129,14 @@
       "onboard_time": 1670640614,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 350913,
+      "num": 350913,
+      "word": "墨白开播就求婚",
+      "onboard_time": 1670674340,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 338709,
@@ -1195,14 +1243,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 324740,
-      "num": 324740,
-      "word": "新冠病毒是否会通过下水管道传播",
-      "onboard_time": 1670672959,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 324646,
       "num": 324646,
       "word": "刘畊宏苏醒互动为梅西打call",
@@ -1211,28 +1251,12 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 324489,
-      "num": 324489,
-      "word": "白岩松支持00后整顿职场",
-      "onboard_time": 1670672122,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 324210,
       "num": 324210,
       "word": "陈飞宇说很荣幸能演绎李峋的人生",
       "onboard_time": 1670597837,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 322679,
-      "num": 322679,
-      "word": "Hero",
-      "onboard_time": 1670674521,
-      "rank": 17,
-      "category": "游戏"
     },
     {
       "raw_hot": 322409,
@@ -1307,20 +1331,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 300765,
+      "num": 300765,
+      "word": "诺伊尔赛季报销",
+      "onboard_time": 1670673080,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 299035,
       "num": 299035,
       "word": "陈飞宇寸头外网生图",
       "onboard_time": 1670665039,
       "rank": 23,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 298210,
-      "num": 298210,
-      "word": "诺伊尔赛季报销",
-      "onboard_time": 1670673080,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 296554,
@@ -1371,14 +1395,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 289073,
-      "num": 289073,
-      "word": "墨白开播就求婚",
-      "onboard_time": 1670674340,
-      "rank": 20,
-      "category": "影视"
-    },
-    {
       "raw_hot": 288134,
       "num": 268274,
       "word": "如何评价张艺兴成立厂牌",
@@ -1425,14 +1441,6 @@
       "onboard_time": 1670585539,
       "rank": 32,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 273192,
-      "num": 273192,
-      "word": "东北人吃黄桃罐头必须喝汤吗",
-      "onboard_time": 1670674160,
-      "rank": 26,
-      "category": "美食,情感"
     },
     {
       "raw_hot": 271240,
@@ -1547,6 +1555,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 246107,
+      "num": 246107,
+      "word": "卡瓦尼说C罗是他遇到最好的前锋",
+      "onboard_time": 1670673799,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 245292,
+      "num": 245292,
+      "word": "明年一定会比今年更好",
+      "onboard_time": 1670671461,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 242760,
       "num": 180931,
       "word": "卿卿日常 女性角色",
@@ -1635,12 +1659,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 214149,
-      "num": 214149,
-      "word": "明年一定会比今年更好",
-      "onboard_time": 1670671461,
+      "raw_hot": 223199,
+      "num": 223199,
+      "word": "内娱舞台西装杀",
+      "onboard_time": 1670675660,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 216806,
+      "num": 216806,
+      "word": "来看我们的演唱会",
+      "onboard_time": 1670676500,
       "rank": 34,
-      "category": "影视"
+      "category": "综艺"
     },
     {
       "raw_hot": 212200,
@@ -1697,6 +1729,14 @@
       "onboard_time": 1670653997,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 209834,
+      "num": 209834,
+      "word": "王楚钦2比3徐瑛彬",
+      "onboard_time": 1670675781,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 209410,
@@ -1776,6 +1816,14 @@
       "word": "点燃我温暖你最爱台词",
       "onboard_time": 1670636351,
       "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 184116,
+      "num": 184116,
+      "word": "爱的二八定律",
+      "onboard_time": 1670675718,
+      "rank": 36,
       "category": "影视"
     },
     {
@@ -1867,6 +1915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 172692,
+      "num": 165091,
+      "word": "演唱会能有多上头",
+      "onboard_time": 1670676258,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 172618,
       "num": 172618,
       "word": "杨坤出道20年第11张专辑",
@@ -1880,14 +1936,6 @@
       "word": "被薛凯琪眼神温柔到了",
       "onboard_time": 1670652679,
       "rank": 36,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 170567,
-      "num": 170567,
-      "word": "叶一茜说森碟是家里运动健将",
-      "onboard_time": 1670675301,
-      "rank": 37,
       "category": "综艺"
     },
     {
@@ -1905,14 +1953,6 @@
       "onboard_time": 1670670025,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 169657,
-      "num": 169657,
-      "word": "卡瓦尼说C罗是他遇到最好的前锋",
-      "onboard_time": 1670673799,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 168937,
@@ -2011,6 +2051,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 162701,
+      "num": 162701,
+      "word": "异地恋分手还要再见一面吗",
+      "onboard_time": 1670676140,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 162429,
       "num": 162429,
       "word": "梅西进球苏醒激动到声音变形",
@@ -2099,6 +2147,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 157774,
+      "num": 157774,
+      "word": "魏桥",
+      "onboard_time": 1670674340,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 157371,
       "num": 157371,
       "word": "卡恩",
@@ -2131,20 +2187,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 155697,
-      "num": 155697,
-      "word": "魏桥",
-      "onboard_time": 1670674340,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 155525,
       "num": 155525,
       "word": "他为国放弃所有名誉隐姓埋名17年",
       "onboard_time": 1670640434,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152805,
+      "num": 152805,
+      "word": "闪耀暖暖",
+      "onboard_time": 1670675425,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 151766,
@@ -2257,6 +2313,14 @@
       "onboard_time": 1670652798,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 136146,
+      "num": 136146,
+      "word": "明白十二生肖中为啥没猫了",
+      "onboard_time": 1670676679,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 135123,
@@ -2563,20 +2627,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 30348,
+      "num": 398451,
+      "word": "绅士鞋有多舒适",
+      "onboard_time": 1670673628,
+      "rank": 14,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 20675,
       "num": 44299,
       "word": "中阿友好相信还会好上加好",
       "onboard_time": 1670613192,
       "rank": 49,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 14171,
-      "num": 329931,
-      "word": "绅士鞋有多舒适",
-      "onboard_time": 1670673628,
-      "rank": 14,
-      "category": "音乐"
     },
     {
       "raw_hot": 9216,
