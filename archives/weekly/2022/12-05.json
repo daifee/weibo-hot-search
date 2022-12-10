@@ -1,6 +1,6 @@
 {
   "startTime": 1670171104099,
-  "endTime": 1670628848711,
+  "endTime": 1670635602076,
   "band_list": [
     {
       "raw_hot": 11360361,
@@ -177,6 +177,14 @@
       "onboard_time": 1670480294,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3049928,
+      "num": 3049928,
+      "word": "世界杯四强",
+      "onboard_time": 1670628250,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 3047517,
@@ -824,6 +832,14 @@
       "word": "加时赛之王",
       "onboard_time": 1670260510,
       "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1493388,
+      "num": 1493388,
+      "word": "荷兰5比6阿根廷",
+      "onboard_time": 1670625013,
+      "rank": 39,
       "category": "体育"
     },
     {
@@ -1611,6 +1627,14 @@
       "category": "综艺,综艺"
     },
     {
+      "raw_hot": 903420,
+      "num": 903420,
+      "word": "方舱医院升级改造你支持吗",
+      "onboard_time": 1670632090,
+      "rank": 6,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 895052,
       "num": 511413,
       "word": "克罗地亚点球战胜日本",
@@ -1657,14 +1681,6 @@
       "onboard_time": 1670415974,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 889185,
-      "num": 889185,
-      "word": "荷兰5比6阿根廷",
-      "onboard_time": 1670625013,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 882561,
@@ -2321,6 +2337,14 @@
       "onboard_time": 1670510239,
       "rank": 9,
       "category": "教育"
+    },
+    {
+      "raw_hot": 679024,
+      "num": 679024,
+      "word": "专家称奥密克戎更易导致再感染",
+      "onboard_time": 1670631491,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 677936,
@@ -3499,6 +3523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 505932,
+      "num": 505932,
+      "word": "爸爸给14个月的女儿洗脚满眼宠溺",
+      "onboard_time": 1670633414,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 505535,
       "num": 505535,
       "word": "原来南方人才是最抗冻的",
@@ -3960,6 +3992,14 @@
       "word": "上海进入餐饮场所仍须查48小时核酸",
       "onboard_time": 1670409733,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 456870,
+      "num": 456870,
+      "word": "北京协和医院科普新冠备药",
+      "onboard_time": 1670629930,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -4435,6 +4475,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 414260,
+      "num": 414260,
+      "word": "男子将1500亩地瓜梗卖到国外赚百万",
+      "onboard_time": 1670630891,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 413256,
+      "num": 413256,
+      "word": "这些药真的不能混着吃",
+      "onboard_time": 1670629330,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 412932,
       "num": 412932,
       "word": "这个春节可以回家过年吗",
@@ -4587,6 +4643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 404511,
+      "num": 142808,
+      "word": "陈飞宇超话翻牌3小时",
+      "onboard_time": 1670635572,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 403566,
       "num": 403566,
       "word": "Doinb",
@@ -4625,6 +4689,14 @@
       "onboard_time": 1670368507,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 396674,
+      "num": 396674,
+      "word": "拉布拉多警犬因肥胖被要求减肥",
+      "onboard_time": 1670632632,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 396452,
@@ -5035,6 +5107,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 360403,
+      "num": 360403,
+      "word": "风吹半夏散伙宴席坐满了",
+      "onboard_time": 1670632990,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 360269,
       "num": 360269,
       "word": "梅西追平巴蒂纪录",
@@ -5168,6 +5248,14 @@
       "word": "长沙南站的双码查验口已经全部撤离",
       "onboard_time": 1670415914,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 348818,
+      "num": 348818,
+      "word": "尽量让自己和身边人晚感染少感染",
+      "onboard_time": 1670634191,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -5371,6 +5459,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 334048,
+      "num": 334048,
+      "word": "央视曝光天价疏通马桶骗局",
+      "onboard_time": 1670615893,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 333768,
       "num": 333768,
       "word": "吉鲁倒钩 帅",
@@ -5497,6 +5593,14 @@
       "onboard_time": 1670394974,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 329335,
+      "num": 329335,
+      "word": "阳了不要重复吃多种退烧药",
+      "onboard_time": 1670633711,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 329260,
@@ -5843,6 +5947,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 310014,
+      "num": 310014,
+      "word": "内马尔点球",
+      "onboard_time": 1670628131,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 309237,
       "num": 309237,
       "word": "张天爱回应拿行李箱买菜",
@@ -5931,6 +6043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 303925,
+      "num": 303925,
+      "word": "四六级",
+      "onboard_time": 1670633951,
+      "rank": 28,
+      "category": "教育"
+    },
+    {
       "raw_hot": 303771,
       "num": 1140079,
       "word": "C罗的身体极限到底有多强",
@@ -5993,6 +6113,14 @@
       "onboard_time": 1670187909,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 299319,
+      "num": 299319,
+      "word": "学着妈妈的样子给妈妈丢人",
+      "onboard_time": 1670633172,
+      "rank": 29,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 298160,
@@ -6531,6 +6659,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 271240,
+      "num": 271240,
+      "word": "抖音世界杯4K直播涉嫌侵权",
+      "onboard_time": 1670611936,
+      "rank": 30,
+      "category": "科技"
+    },
+    {
       "raw_hot": 271158,
       "num": 271158,
       "word": "黄景瑜打伞vs陈飞宇打伞",
@@ -6585,6 +6721,14 @@
       "onboard_time": 1670543410,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 269329,
+      "num": 269329,
+      "word": "大学生返乡该有的待遇",
+      "onboard_time": 1670634491,
+      "rank": 31,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 269192,
@@ -6963,6 +7107,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 252264,
+      "num": 252264,
+      "word": "aespa与RedVelvet将合作新曲",
+      "onboard_time": 1670629810,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 251805,
       "num": 195034,
       "word": "张婧仪偷跑背影物料",
@@ -7299,6 +7451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 236934,
+      "num": 236934,
+      "word": "北京疫情发布不再公布各区数据",
+      "onboard_time": 1670635089,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 236918,
       "num": 236918,
       "word": "比利时队长阿扎尔退出国家队",
@@ -7593,14 +7753,6 @@
       "onboard_time": 1670243831,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 223901,
-      "num": 223901,
-      "word": "央视曝光天价疏通马桶骗局",
-      "onboard_time": 1670615893,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 223868,
@@ -8443,6 +8595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 192829,
+      "num": 192829,
+      "word": "核酸点保留愿检尽检你赞成吗",
+      "onboard_time": 1670634971,
+      "rank": 42,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 192668,
       "num": 192668,
       "word": "23岁姆巴佩已打进250球",
@@ -8849,14 +9009,6 @@
       "onboard_time": 1670406913,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 180968,
-      "num": 180968,
-      "word": "世界杯四强",
-      "onboard_time": 1670628250,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 180660,
@@ -9409,6 +9561,14 @@
       "onboard_time": 1670314510,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 165660,
+      "num": 165660,
+      "word": "看完卿卿日常准备卿断食",
+      "onboard_time": 1670634491,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 165357,
@@ -10275,14 +10435,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 143007,
-      "num": 143007,
-      "word": "抖音世界杯4K直播涉嫌侵权",
-      "onboard_time": 1670611936,
-      "rank": 30,
-      "category": "科技"
-    },
-    {
       "raw_hot": 142954,
       "num": 142954,
       "word": "如果陈祥榕还在今天21岁了",
@@ -11073,14 +11225,6 @@
       "onboard_time": 1670400853,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 126650,
-      "num": 106497,
-      "word": "内马尔点球",
-      "onboard_time": 1670628131,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 126269,
