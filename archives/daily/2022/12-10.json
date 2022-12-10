@@ -1,6 +1,6 @@
 {
   "startTime": 1670603204032,
-  "endTime": 1670640700808,
+  "endTime": 1670642404175,
   "band_list": [
     {
       "raw_hot": 11360361,
@@ -75,6 +75,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2068636,
+      "num": 2068636,
+      "word": "年轻人阳性了可以不吃药吗",
+      "onboard_time": 1670640373,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1955926,
       "num": 1955926,
       "word": "克罗地亚 上届亚军",
@@ -147,8 +155,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1447199,
-      "num": 1447199,
+      "raw_hot": 1457144,
+      "num": 1457144,
       "word": "疑智障儿子偷钱买卡片爸爸上门退钱被拒",
       "onboard_time": 1670636832,
       "rank": 48,
@@ -259,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 782304,
+      "num": 782304,
+      "word": "N95口罩搜索暴涨715%",
+      "onboard_time": 1670639774,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 687133,
       "num": 687133,
       "word": "安东尼",
@@ -363,12 +379,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 462668,
-      "num": 462668,
+      "raw_hot": 522352,
+      "num": 522352,
       "word": "男子给70万抚养费被前妻和现任买房",
       "onboard_time": 1670637973,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 504560,
+      "num": 504560,
+      "word": "两小羊从烤羊店出逃意外成网红",
+      "onboard_time": 1670638452,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 472105,
+      "num": 472105,
+      "word": "三体",
+      "onboard_time": 1670641218,
+      "rank": 13,
+      "category": "动漫"
     },
     {
       "raw_hot": 456870,
@@ -451,14 +483,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 411521,
-      "num": 411521,
-      "word": "两小羊从烤羊店出逃意外成网红",
-      "onboard_time": 1670638452,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 410271,
       "num": 410271,
       "word": "大学生返乡该有的待遇",
@@ -491,14 +515,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 371940,
-      "num": 371940,
-      "word": "N95口罩搜索暴涨715%",
-      "onboard_time": 1670639774,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 370337,
       "num": 370337,
       "word": "世界杯裁判",
@@ -521,6 +537,14 @@
       "onboard_time": 1670591300,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 363126,
+      "num": 363126,
+      "word": "四六级",
+      "onboard_time": 1670633951,
+      "rank": 28,
+      "category": "教育"
     },
     {
       "raw_hot": 361453,
@@ -555,12 +579,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 351454,
-      "num": 351454,
-      "word": "四六级",
-      "onboard_time": 1670633951,
-      "rank": 28,
-      "category": "教育"
+      "raw_hot": 354208,
+      "num": 354208,
+      "word": "吴磊给周雨彤涂口红",
+      "onboard_time": 1670640614,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 337353,
@@ -691,6 +715,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 289821,
+      "num": 289821,
+      "word": "四级",
+      "onboard_time": 1670590826,
+      "rank": 49,
+      "category": "教育"
+    },
+    {
       "raw_hot": 287173,
       "num": 244792,
       "word": "NCT4名成员发生坠落事故",
@@ -729,6 +761,14 @@
       "onboard_time": 1670610618,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 263141,
+      "num": 263141,
+      "word": "吴尊模仿梅西进球的经典动作",
+      "onboard_time": 1670641334,
+      "rank": 27,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 262399,
@@ -803,6 +843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 231976,
+      "num": 1598974,
+      "word": "阳性感染者居家康复手册",
+      "onboard_time": 1670641514,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 230904,
       "num": 230904,
       "word": "格子军团",
@@ -819,12 +867,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 204036,
-      "num": 204036,
-      "word": "年轻人阳性了可以不吃药吗",
-      "onboard_time": 1670640373,
-      "rank": 38,
-      "category": "社会新闻"
+      "raw_hot": 195145,
+      "num": 195145,
+      "word": "央美画家画一条鱼吃一条鱼",
+      "onboard_time": 1670639533,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 190438,
@@ -833,14 +881,6 @@
       "onboard_time": 1670583680,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 189875,
-      "num": 189875,
-      "word": "央美画家画一条鱼吃一条鱼",
-      "onboard_time": 1670639533,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 187284,
@@ -883,12 +923,44 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 174694,
+      "num": 174694,
+      "word": "斗罗大陆",
+      "onboard_time": 1670642294,
+      "rank": 42,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 171098,
+      "num": 171098,
+      "word": "财阀家的小儿子 不要感情戏",
+      "onboard_time": 1670641573,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 170535,
+      "num": 170535,
+      "word": "苏醒王铮亮看世界杯reaction",
+      "onboard_time": 1670638990,
+      "rank": 45,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 168937,
       "num": 168937,
       "word": "睡眠不好的人有福了",
       "onboard_time": 1670581340,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 168704,
+      "num": 168704,
+      "word": "白鹿灰色大衣贝雷帽上班路透",
+      "onboard_time": 1670642233,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 165660,
@@ -963,14 +1035,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 156495,
-      "num": 156495,
-      "word": "吴磊给周雨彤涂口红",
-      "onboard_time": 1670640614,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 155525,
       "num": 155525,
       "word": "他为国放弃所有名誉隐姓埋名17年",
@@ -1001,6 +1065,14 @@
       "onboard_time": 1670582542,
       "rank": 46,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 144574,
+      "num": 144574,
+      "word": "萌娃脱衣不听劝妈妈带其赤膊遛弯",
+      "onboard_time": 1670642053,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 143736,
@@ -1049,14 +1121,6 @@
       "onboard_time": 1670628131,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 127016,
-      "num": 134396,
-      "word": "四级",
-      "onboard_time": 1670590826,
-      "rank": 49,
-      "category": "教育"
     },
     {
       "raw_hot": 119694,
