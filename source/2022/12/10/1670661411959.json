@@ -1,0 +1,410 @@
+{
+  "runTime": 1670661411959,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1857791,
+        "num": 1857791,
+        "word": "广西一医生隐瞒双胎信息欲偷婴儿贩卖",
+        "onboard_time": 1670656219,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1349289,
+        "num": 1349289,
+        "word": "梅西赛后采访发飙",
+        "onboard_time": 1670645955,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209254,
+        "num": 1148136,
+        "word": "北京发布新冠阳性感染者居家康复手册",
+        "onboard_time": 1670659578,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1115022,
+        "num": 1115022,
+        "word": "年轻人阳性了可以不吃药吗",
+        "onboard_time": 1670640373,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 745276,
+        "num": 745276,
+        "word": "荷兰球员找梅西握手遭拒",
+        "onboard_time": 1670651836,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 624324,
+        "num": 624324,
+        "word": "世界杯四强诞生",
+        "onboard_time": 1670656038,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 573112,
+        "num": 573112,
+        "word": "世界冠军邓琳琳被求婚",
+        "onboard_time": 1670657717,
+        "rank": 6,
+        "category": "体育,综艺"
+      },
+      {
+        "raw_hot": 519758,
+        "num": 519758,
+        "word": "医生低头取物头发被酒精灯点燃",
+        "onboard_time": 1670657238,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 453131,
+        "num": 453131,
+        "word": "孟美岐线下演唱会票价",
+        "onboard_time": 1670653157,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 449930,
+        "num": 449930,
+        "word": "孙悦回应50岁状态",
+        "onboard_time": 1670657238,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1386158,
+        "num": 435222,
+        "word": "刘强东分享感染新冠经历",
+        "onboard_time": 1670659037,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 412258,
+        "num": 412258,
+        "word": "主播回应直播卖衣服称东北土不拉唧",
+        "onboard_time": 1670650336,
+        "rank": 11,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 379205,
+        "num": 379205,
+        "word": "摩洛哥vs葡萄牙",
+        "onboard_time": 1670657117,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 368189,
+        "num": 368189,
+        "word": "女子因病被男友家嫌弃爸爸气到抹泪",
+        "onboard_time": 1670647455,
+        "rank": 13,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 333028,
+        "num": 333028,
+        "word": "三体",
+        "onboard_time": 1670641218,
+        "rank": 14,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 329235,
+        "num": 329235,
+        "word": "许半夏真的剩下一个人了",
+        "onboard_time": 1670653036,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 283332,
+        "num": 283332,
+        "word": "内马尔怒吼",
+        "onboard_time": 1670649620,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 279308,
+        "num": 279308,
+        "word": "摩洛哥 预测",
+        "onboard_time": 1670658857,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 238833,
+        "num": 238833,
+        "word": "新冠阳性吃消炎药有用吗",
+        "onboard_time": 1670648235,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228743,
+        "num": 228743,
+        "word": "RNG官宣朱开离队",
+        "onboard_time": 1670657717,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 294411,
+        "num": 228596,
+        "word": "马嘉祺打个响指高音就飙上去了",
+        "onboard_time": 1670660779,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 286268,
+        "num": 228540,
+        "word": "如何评价张艺兴成立厂牌",
+        "onboard_time": 1670656939,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 273352,
+        "num": 227772,
+        "word": "秦霄贤对哈妮克孜说我肯定是打不赢你的人",
+        "onboard_time": 1670660179,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223295,
+        "num": 223295,
+        "word": "N95口罩搜索暴涨715%",
+        "onboard_time": 1670639774,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211380,
+        "num": 211380,
+        "word": "荷兰阿根廷冲突",
+        "onboard_time": 1670645536,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190114,
+        "num": 190114,
+        "word": "柳智宇还俗后宣布恋情",
+        "onboard_time": 1670644694,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185793,
+        "num": 185793,
+        "word": "内马尔曾说这是最后一届世界杯",
+        "onboard_time": 1670648896,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185153,
+        "num": 185153,
+        "word": "年轻人的晚八是不相通的",
+        "onboard_time": 1670657897,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 175418,
+        "num": 175418,
+        "word": "四级",
+        "onboard_time": 1670642115,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 166281,
+        "num": 166281,
+        "word": "小镇村民直播卖珍珠年入几十亿",
+        "onboard_time": 1670660779,
+        "rank": 29,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 230013,
+        "num": 166263,
+        "word": "你好星期六剪的吴磊周雨彤视频",
+        "onboard_time": 1670658319,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 231199,
+        "num": 166192,
+        "word": "三体建模 丑",
+        "onboard_time": 1670661197,
+        "rank": 31,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 227483,
+        "num": 166067,
+        "word": "新川来了第二个李薇",
+        "onboard_time": 1670643734,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 210889,
+        "num": 166019,
+        "word": "以爱为营",
+        "onboard_time": 1670656758,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 187602,
+        "num": 165982,
+        "word": "为什么年轻人不爱看黄金8点档了",
+        "onboard_time": 1670654479,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 165923,
+        "num": 165923,
+        "word": "学生因手抄试卷晚交作业引老师泪目",
+        "onboard_time": 1670644218,
+        "rank": 35,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 159280,
+        "num": 159280,
+        "word": "当男朋友是个足球迷时",
+        "onboard_time": 1670658319,
+        "rank": 36,
+        "category": "体育,情感"
+      },
+      {
+        "raw_hot": 141330,
+        "num": 141330,
+        "word": "感染新冠后每日症状参考",
+        "onboard_time": 1670642416,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130906,
+        "num": 130906,
+        "word": "女子买鞋穿4年掉色卖家仍暖心售后",
+        "onboard_time": 1670645655,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118188,
+        "num": 118188,
+        "word": "斗罗大陆",
+        "onboard_time": 1670642294,
+        "rank": 39,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 180297,
+        "num": 116837,
+        "word": "值得N刷的群像剧",
+        "onboard_time": 1670660837,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 113375,
+        "num": 113375,
+        "word": "怀疑这狗狗是超市的业务员",
+        "onboard_time": 1670652679,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 104840,
+        "num": 104840,
+        "word": "四级答案",
+        "onboard_time": 1670643435,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 104022,
+        "num": 104022,
+        "word": "内马尔有多无奈",
+        "onboard_time": 1670650577,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100152,
+        "num": 104018,
+        "word": "梅西黄牌",
+        "onboard_time": 1670648478,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95668,
+        "num": 104018,
+        "word": "六级",
+        "onboard_time": 1670644154,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 92379,
+        "num": 104013,
+        "word": "疑智障儿子偷钱买卡片爸爸上门退钱被拒",
+        "onboard_time": 1670636832,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85367,
+        "num": 104010,
+        "word": "阳性感染者居家康复手册",
+        "onboard_time": 1670641514,
+        "rank": 47,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 83550,
+        "num": 104005,
+        "word": "梅西也是有脾气的",
+        "onboard_time": 1670660779,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83488,
+        "num": 104002,
+        "word": "北京一店铺高价销售抗原试剂被立案",
+        "onboard_time": 1670661379,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中阿友好相信还会好上加好#"
+    }
+  }
+}
