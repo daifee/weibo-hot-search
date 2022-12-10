@@ -1,6 +1,6 @@
 {
   "startTime": 1670603204032,
-  "endTime": 1670637257057,
+  "endTime": 1670640067068,
   "band_list": [
     {
       "raw_hot": 11360361,
@@ -99,6 +99,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1789175,
+      "num": 1789175,
+      "word": "核酸点保留愿检尽检你赞成吗",
+      "onboard_time": 1670634971,
+      "rank": 42,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 1784017,
       "num": 1784017,
       "word": "巴西状态",
@@ -153,6 +161,14 @@
       "onboard_time": 1670607676,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1341201,
+      "num": 1341201,
+      "word": "疑智障儿子偷钱买卡片爸爸上门退钱被拒",
+      "onboard_time": 1670636832,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1340391,
@@ -275,14 +291,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 653807,
-      "num": 653807,
-      "word": "核酸点保留愿检尽检你赞成吗",
-      "onboard_time": 1670634971,
-      "rank": 42,
-      "category": "社会议题"
-    },
-    {
       "raw_hot": 641478,
       "num": 641478,
       "word": "葡萄牙主帅承认C罗不满替补",
@@ -297,6 +305,14 @@
       "onboard_time": 1670607196,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 635160,
+      "num": 635160,
+      "word": "北京疫情发布不再公布各区数据",
+      "onboard_time": 1670635089,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 611808,
@@ -323,11 +339,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 576913,
-      "num": 576913,
-      "word": "北京疫情发布不再公布各区数据",
-      "onboard_time": 1670635089,
-      "rank": 37,
+      "raw_hot": 567308,
+      "num": 567308,
+      "word": "尽量让自己和身边人晚感染少感染",
+      "onboard_time": 1670634191,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -344,6 +360,14 @@
       "word": "北京协和医院科普新冠备药",
       "onboard_time": 1670629930,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 444932,
+      "num": 444932,
+      "word": "用了退烧药就别再用复方感冒药",
+      "onboard_time": 1670636470,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -395,14 +419,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 423291,
-      "num": 423291,
-      "word": "尽量让自己和身边人晚感染少感染",
-      "onboard_time": 1670634191,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 421910,
       "num": 421910,
       "word": "有个来报恩的女儿是种什么体验",
@@ -427,8 +443,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 408424,
-      "num": 408424,
+      "raw_hot": 410271,
+      "num": 410271,
       "word": "大学生返乡该有的待遇",
       "onboard_time": 1670634491,
       "rank": 31,
@@ -449,6 +465,22 @@
       "onboard_time": 1670616433,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 381416,
+      "num": 381416,
+      "word": "男子给70万抚养费被前妻和现任买房",
+      "onboard_time": 1670637973,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 376549,
+      "num": 376549,
+      "word": "财阀家的小儿子反转",
+      "onboard_time": 1670636892,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 370337,
@@ -507,6 +539,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 347298,
+      "num": 347298,
+      "word": "四六级",
+      "onboard_time": 1670633951,
+      "rank": 28,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 341000,
+      "num": 341000,
+      "word": "两小羊从烤羊店出逃意外成网红",
+      "onboard_time": 1670638452,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 337353,
       "num": 337353,
       "word": "裁判 黄牌",
@@ -555,6 +603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 324646,
+      "num": 324646,
+      "word": "刘畊宏苏醒互动为梅西打call",
+      "onboard_time": 1670636892,
+      "rank": 41,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 324210,
       "num": 324210,
       "word": "陈飞宇说很荣幸能演绎李峋的人生",
@@ -577,14 +633,6 @@
       "onboard_time": 1670628131,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 303925,
-      "num": 303925,
-      "word": "四六级",
-      "onboard_time": 1670633951,
-      "rank": 28,
-      "category": "教育"
     },
     {
       "raw_hot": 302444,
@@ -747,19 +795,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 210541,
-      "num": 210541,
-      "word": "刘畊宏苏醒互动为梅西打call",
-      "onboard_time": 1670636892,
-      "rank": 41,
-      "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 194362,
-      "num": 194362,
-      "word": "财阀家的小儿子反转",
-      "onboard_time": 1670636892,
-      "rank": 44,
+      "raw_hot": 224862,
+      "num": 224862,
+      "word": "伟大的胜利",
+      "onboard_time": 1670639892,
+      "rank": 35,
       "category": "影视"
     },
     {
@@ -779,11 +819,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 186260,
-      "num": 186260,
-      "word": "用了退烧药就别再用复方感冒药",
-      "onboard_time": 1670636470,
-      "rank": 46,
+      "raw_hot": 186914,
+      "num": 186914,
+      "word": "N95口罩搜索暴涨715%",
+      "onboard_time": 1670639774,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -793,14 +833,6 @@
       "onboard_time": 1670636351,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 182088,
-      "num": 182088,
-      "word": "疑智障儿子偷钱买卡片爸爸上门退钱被拒",
-      "onboard_time": 1670636832,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 181948,
@@ -817,6 +849,14 @@
       "onboard_time": 1670611035,
       "rank": 27,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 178339,
+      "num": 178339,
+      "word": "魏大勋捉迷藏只藏了上半身",
+      "onboard_time": 1670638153,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 168937,
@@ -889,6 +929,14 @@
       "onboard_time": 1670610675,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 156753,
+      "num": 156753,
+      "word": "他把人生的三分之二献给了中国",
+      "onboard_time": 1670639774,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 147545,
