@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1670696527694,
+  "endTime": 1670697403376,
   "band_list": [
     {
       "raw_hot": 13790167,
@@ -19427,6 +19427,14 @@
       "category": "情感,社会议题"
     },
     {
+      "raw_hot": 128013,
+      "num": 128013,
+      "word": "舍不得C罗",
+      "onboard_time": 1670695221,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 127991,
       "num": 127991,
       "word": "反电信网络诈骗法正式施行",
@@ -20321,6 +20329,14 @@
       "onboard_time": 1670420233,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 115626,
+      "num": 87557,
+      "word": "布努 帅",
+      "onboard_time": 1670693595,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 115603,
@@ -21297,14 +21313,6 @@
       "onboard_time": 1669887251,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 100131,
-      "num": 100131,
-      "word": "舍不得C罗",
-      "onboard_time": 1670695221,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 100021,
