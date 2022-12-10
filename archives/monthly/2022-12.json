@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1670704412271,
+  "endTime": 1670706943650,
   "band_list": [
     {
       "raw_hot": 13790167,
@@ -2179,6 +2179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1137465,
+      "num": 1137465,
+      "word": "姆巴佩",
+      "onboard_time": 1670166313,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1136426,
       "num": 1136426,
       "word": "杭州不扫场所码了",
@@ -3329,14 +3337,6 @@
       "onboard_time": 1670489236,
       "rank": 10,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 844875,
-      "num": 844875,
-      "word": "姆巴佩",
-      "onboard_time": 1670166313,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 843014,
@@ -15387,6 +15387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 186005,
+      "num": 139318,
+      "word": "凯恩点球破门",
+      "onboard_time": 1670704691,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 185982,
       "num": 185982,
       "word": "妈妈将萌娃画作制成灯具送同学",
@@ -18587,6 +18595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 139626,
+      "num": 139626,
+      "word": "英格兰1比2法国",
+      "onboard_time": 1670706372,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 139529,
       "num": 139529,
       "word": "廉政狙击副本是复仇归来吧",
@@ -18609,6 +18625,14 @@
       "onboard_time": 1670549469,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139197,
+      "num": 139197,
+      "word": "李现说他的青春结束了",
+      "onboard_time": 1670698816,
+      "rank": 30,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 139172,
@@ -19003,14 +19027,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 134308,
-      "num": 134308,
-      "word": "李现说他的青春结束了",
-      "onboard_time": 1670698816,
-      "rank": 30,
-      "category": "体育,艺人"
-    },
-    {
       "raw_hot": 134175,
       "num": 134175,
       "word": "手把手教你抗原自测",
@@ -19336,6 +19352,14 @@
       "word": "南野拓实失点",
       "onboard_time": 1670263449,
       "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 129613,
+      "num": 129613,
+      "word": "吉鲁头球破门",
+      "onboard_time": 1670706132,
+      "rank": 14,
       "category": "体育"
     },
     {
@@ -22769,6 +22793,14 @@
       "onboard_time": 1670613192,
       "rank": 49,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 18390,
+      "num": 21267,
+      "word": "一个家庭手握多少资产才算有钱",
+      "onboard_time": 1670706852,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 9720,
