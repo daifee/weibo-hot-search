@@ -1,6 +1,6 @@
 {
   "startTime": 1670171104099,
-  "endTime": 1670664808314,
+  "endTime": 1670667543818,
   "band_list": [
     {
       "raw_hot": 11360361,
@@ -411,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2173640,
+      "num": 2173640,
+      "word": "六级",
+      "onboard_time": 1670594538,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
       "raw_hot": 2172849,
       "num": 2172849,
       "word": "布洛芬遭抢购多家药企称产能可满足需求",
@@ -529,6 +537,14 @@
       "onboard_time": 1670546950,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1966147,
+      "num": 1966147,
+      "word": "六级答案",
+      "onboard_time": 1670665223,
+      "rank": 1,
+      "category": "教育"
     },
     {
       "raw_hot": 1958270,
@@ -964,7 +980,7 @@
     },
     {
       "raw_hot": 1416152,
-      "num": 437333,
+      "num": 482796,
       "word": "刘强东分享感染新冠经历",
       "onboard_time": 1670659037,
       "rank": 10,
@@ -1497,6 +1513,14 @@
       "onboard_time": 1670166915,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 992087,
+      "num": 321790,
+      "word": "王大陆蔡卓宜约会像运动会",
+      "onboard_time": 1670664740,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 991735,
@@ -2323,6 +2347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 718755,
+      "num": 1690798,
+      "word": "得了新冠怎么自愈",
+      "onboard_time": 1670663423,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 716667,
       "num": 716667,
       "word": "明年五一休5天",
@@ -2451,6 +2483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 687163,
+      "num": 687163,
+      "word": "六级作文",
+      "onboard_time": 1670645894,
+      "rank": 42,
+      "category": "教育"
+    },
+    {
       "raw_hot": 687133,
       "num": 687133,
       "word": "安东尼",
@@ -2577,6 +2617,14 @@
       "onboard_time": 1670418974,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 668332,
+      "num": 668332,
+      "word": "管泽元真去剃头了",
+      "onboard_time": 1670663179,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 668028,
@@ -3451,14 +3499,6 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 546519,
-      "num": 546519,
-      "word": "六级",
-      "onboard_time": 1670594538,
-      "rank": 36,
-      "category": "教育"
-    },
-    {
       "raw_hot": 546444,
       "num": 546444,
       "word": "白敬亭今晚直播陪看卿卿日常",
@@ -3611,6 +3651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 532438,
+      "num": 532438,
+      "word": "体温超过38.5℃就要吃退烧药",
+      "onboard_time": 1670664378,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 530995,
       "num": 530995,
       "word": "女子买螃蟹抓掉到楼下的袜子",
@@ -3755,14 +3803,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 516843,
-      "num": 383190,
-      "word": "管泽元真去剃头了",
-      "onboard_time": 1670663179,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
       "raw_hot": 516696,
       "num": 516696,
       "word": "妈妈奖励13岁儿子考第一却被暖哭",
@@ -3897,6 +3937,14 @@
       "onboard_time": 1670572826,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 500534,
+      "num": 500534,
+      "word": "六级阅读",
+      "onboard_time": 1670666240,
+      "rank": 9,
+      "category": "教育"
     },
     {
       "raw_hot": 498411,
@@ -4387,6 +4435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 453330,
+      "num": 453330,
+      "word": "摩洛哥vs葡萄牙",
+      "onboard_time": 1670657117,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 453254,
       "num": 452838,
       "word": "党中央号召全党全军全国各族人民",
@@ -4721,14 +4777,6 @@
       "onboard_time": 1670596041,
       "rank": 29,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 425147,
-      "num": 956091,
-      "word": "得了新冠怎么自愈",
-      "onboard_time": 1670663423,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 424941,
@@ -5339,14 +5387,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 379205,
-      "num": 379205,
-      "word": "摩洛哥vs葡萄牙",
-      "onboard_time": 1670657117,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 377379,
       "num": 377379,
       "word": "张真源小张盲盒12视频",
@@ -5393,6 +5433,14 @@
       "onboard_time": 1670595863,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 375773,
+      "num": 375773,
+      "word": "孕产妇感染了影响胎儿吗",
+      "onboard_time": 1670666059,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 374007,
@@ -6099,6 +6147,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 325386,
+      "num": 325386,
+      "word": "梅西进球时队友的状态",
+      "onboard_time": 1670663719,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 324822,
       "num": 273858,
       "word": "GQ",
@@ -6169,6 +6225,14 @@
       "onboard_time": 1670330529,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 322409,
+      "num": 322409,
+      "word": "六级听力",
+      "onboard_time": 1670666427,
+      "rank": 19,
+      "category": "教育"
     },
     {
       "raw_hot": 321910,
@@ -6256,6 +6320,14 @@
       "word": "小学生网课偷吃被老师投放在主屏幕",
       "onboard_time": 1670579238,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 319543,
+      "num": 319543,
+      "word": "主人找猫发现猫藏寻猫启事旁角落",
+      "onboard_time": 1670663599,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -6611,6 +6683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 299035,
+      "num": 299035,
+      "word": "陈飞宇寸头外网生图",
+      "onboard_time": 1670665039,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 298160,
       "num": 298160,
       "word": "柯南新剧场版预热特别篇预告",
@@ -6721,6 +6801,14 @@
       "onboard_time": 1670209270,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 293935,
+      "num": 138065,
+      "word": "杨幂说不提倡恋爱脑",
+      "onboard_time": 1670667500,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 293712,
@@ -6849,14 +6937,6 @@
       "onboard_time": 1670152992,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 284254,
-      "num": 284254,
-      "word": "六级作文",
-      "onboard_time": 1670645894,
-      "rank": 42,
-      "category": "教育"
     },
     {
       "raw_hot": 284183,
@@ -8731,6 +8811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 209410,
+      "num": 209410,
+      "word": "白敬亭南来北往造型",
+      "onboard_time": 1670665521,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 209257,
       "num": 189870,
       "word": "命韵峋环抵头拥抱花絮",
@@ -9009,14 +9097,6 @@
       "onboard_time": 1670559136,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 197467,
-      "num": 197467,
-      "word": "主人找猫发现猫藏寻猫启事旁角落",
-      "onboard_time": 1670663599,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 197446,
@@ -9595,6 +9675,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 184112,
+      "num": 184112,
+      "word": "宋茜陈妍希温暖的甜蜜的闺蜜大片",
+      "onboard_time": 1670666598,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 183684,
       "num": 169694,
       "word": "张婧仪朱韵金句台词海报",
@@ -9673,14 +9761,6 @@
       "onboard_time": 1670299930,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 181307,
-      "num": 171111,
-      "word": "王大陆蔡卓宜约会像运动会",
-      "onboard_time": 1670664740,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 181123,
@@ -10315,14 +10395,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 166523,
-      "num": 166523,
-      "word": "梅西进球时队友的状态",
-      "onboard_time": 1670663719,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 166417,
       "num": 166417,
       "word": "四级听力答案",
@@ -10528,6 +10600,14 @@
       "word": "杜兰特29分9篮板",
       "onboard_time": 1670474113,
       "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 161439,
+      "num": 161439,
+      "word": "管泽元寸头撞脸于震",
+      "onboard_time": 1670666779,
+      "rank": 41,
       "category": "体育"
     },
     {
@@ -11083,6 +11163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 150399,
+      "num": 150399,
+      "word": "男子手暖栏杆解救被冻小鸟遭质疑",
+      "onboard_time": 1670665639,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 150198,
       "num": 168863,
       "word": "新冠康复日记",
@@ -11337,6 +11425,14 @@
       "onboard_time": 1670390773,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 143890,
+      "num": 143890,
+      "word": "删掉喜欢的人真的会忘记吗",
+      "onboard_time": 1670667024,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 143736,
@@ -12675,6 +12771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 114383,
+      "num": 130946,
+      "word": "阿根廷球员朝荷兰球员做鬼脸庆祝",
+      "onboard_time": 1670667321,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 114128,
       "num": 114128,
       "word": "梅西笑了",
@@ -12969,14 +13073,6 @@
       "onboard_time": 1670597542,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 105665,
-      "num": 105665,
-      "word": "体温超过38.5℃就要吃退烧药",
-      "onboard_time": 1670664378,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 105653,

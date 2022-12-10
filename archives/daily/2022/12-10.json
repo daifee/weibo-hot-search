@@ -1,6 +1,6 @@
 {
   "startTime": 1670603204032,
-  "endTime": 1670664808314,
+  "endTime": 1670667543818,
   "band_list": [
     {
       "raw_hot": 11360361,
@@ -99,12 +99,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 2173640,
+      "num": 2173640,
+      "word": "六级",
+      "onboard_time": 1670594538,
+      "rank": 42,
+      "category": "教育"
+    },
+    {
       "raw_hot": 2080396,
       "num": 2080396,
       "word": "三体建模 丑",
       "onboard_time": 1670661197,
       "rank": 31,
       "category": "动漫,影视"
+    },
+    {
+      "raw_hot": 1966147,
+      "num": 1966147,
+      "word": "六级答案",
+      "onboard_time": 1670665223,
+      "rank": 1,
+      "category": "教育"
     },
     {
       "raw_hot": 1955926,
@@ -204,7 +220,7 @@
     },
     {
       "raw_hot": 1416152,
-      "num": 437333,
+      "num": 482796,
       "word": "刘强东分享感染新冠经历",
       "onboard_time": 1670659037,
       "rank": 10,
@@ -297,6 +313,14 @@
       "onboard_time": 1670647455,
       "rank": 12,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 992087,
+      "num": 321790,
+      "word": "王大陆蔡卓宜约会像运动会",
+      "onboard_time": 1670664740,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 987442,
@@ -395,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 718755,
+      "num": 1690798,
+      "word": "得了新冠怎么自愈",
+      "onboard_time": 1670663423,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 713476,
       "num": 713476,
       "word": "于正称白鹿以爱为营确定时无男主角",
@@ -411,6 +443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 687163,
+      "num": 687163,
+      "word": "六级作文",
+      "onboard_time": 1670645894,
+      "rank": 42,
+      "category": "教育"
+    },
+    {
       "raw_hot": 687133,
       "num": 687133,
       "word": "安东尼",
@@ -425,6 +465,14 @@
       "onboard_time": 1670657717,
       "rank": 11,
       "category": "体育,综艺"
+    },
+    {
+      "raw_hot": 668332,
+      "num": 668332,
+      "word": "管泽元真去剃头了",
+      "onboard_time": 1670663179,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 666566,
@@ -579,12 +627,12 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 546519,
-      "num": 546519,
-      "word": "六级",
-      "onboard_time": 1670594538,
-      "rank": 42,
-      "category": "教育"
+      "raw_hot": 532438,
+      "num": 532438,
+      "word": "体温超过38.5℃就要吃退烧药",
+      "onboard_time": 1670664378,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 525959,
@@ -619,14 +667,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 516843,
-      "num": 383190,
-      "word": "管泽元真去剃头了",
-      "onboard_time": 1670663179,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
       "raw_hot": 509576,
       "num": 509576,
       "word": "许半夏真的剩下一个人了",
@@ -641,6 +681,14 @@
       "onboard_time": 1670659578,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 500534,
+      "num": 500534,
+      "word": "六级阅读",
+      "onboard_time": 1670666240,
+      "rank": 9,
+      "category": "教育"
     },
     {
       "raw_hot": 497343,
@@ -691,6 +739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 453330,
+      "num": 453330,
+      "word": "摩洛哥vs葡萄牙",
+      "onboard_time": 1670657117,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 444755,
       "num": 444755,
       "word": "卿卿日常 传承",
@@ -737,14 +793,6 @@
       "onboard_time": 1670604020,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 425147,
-      "num": 956091,
-      "word": "得了新冠怎么自愈",
-      "onboard_time": 1670663423,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 423667,
@@ -843,20 +891,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 379205,
-      "num": 379205,
-      "word": "摩洛哥vs葡萄牙",
-      "onboard_time": 1670657117,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 376549,
       "num": 376549,
       "word": "财阀家的小儿子反转",
       "onboard_time": 1670636892,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 375773,
+      "num": 375773,
+      "word": "孕产妇感染了影响胎儿吗",
+      "onboard_time": 1670666059,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 370337,
@@ -1011,6 +1059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 325386,
+      "num": 325386,
+      "word": "梅西进球时队友的状态",
+      "onboard_time": 1670663719,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 324646,
       "num": 324646,
       "word": "刘畊宏苏醒互动为梅西打call",
@@ -1027,11 +1083,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 322409,
+      "num": 322409,
+      "word": "六级听力",
+      "onboard_time": 1670666427,
+      "rank": 19,
+      "category": "教育"
+    },
+    {
       "raw_hot": 321910,
       "num": 321910,
       "word": "绍兴姑娘商场消费上万但不舍打车",
       "onboard_time": 1670601023,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 319543,
+      "num": 319543,
+      "word": "主人找猫发现猫藏寻猫启事旁角落",
+      "onboard_time": 1670663599,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -1083,6 +1155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 299035,
+      "num": 299035,
+      "word": "陈飞宇寸头外网生图",
+      "onboard_time": 1670665039,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 295590,
       "num": 295590,
       "word": "节气姑娘有了自己的名字",
@@ -1097,6 +1177,14 @@
       "onboard_time": 1670660779,
       "rank": 20,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 293935,
+      "num": 138065,
+      "word": "杨幂说不提倡恋爱脑",
+      "onboard_time": 1670667500,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 293328,
@@ -1137,14 +1225,6 @@
       "onboard_time": 1670584161,
       "rank": 30,
       "category": "艺人,社会新闻"
-    },
-    {
-      "raw_hot": 284254,
-      "num": 284254,
-      "word": "六级作文",
-      "onboard_time": 1670645894,
-      "rank": 42,
-      "category": "教育"
     },
     {
       "raw_hot": 280413,
@@ -1267,6 +1347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 245435,
+      "num": 245435,
+      "word": "央视2023电视剧片单",
+      "onboard_time": 1670664439,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 242760,
       "num": 180931,
       "word": "卿卿日常 女性角色",
@@ -1387,20 +1475,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 201077,
-      "num": 172095,
-      "word": "央视2023电视剧片单",
-      "onboard_time": 1670664439,
-      "rank": 31,
+      "raw_hot": 209410,
+      "num": 209410,
+      "word": "白敬亭南来北往造型",
+      "onboard_time": 1670665521,
+      "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 197467,
-      "num": 197467,
-      "word": "主人找猫发现猫藏寻猫启事旁角落",
-      "onboard_time": 1670663599,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 195411,
@@ -1467,20 +1547,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 184112,
+      "num": 184112,
+      "word": "宋茜陈妍希温暖的甜蜜的闺蜜大片",
+      "onboard_time": 1670666598,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 181948,
       "num": 181948,
       "word": "圣马丁",
       "onboard_time": 1670628732,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 181307,
-      "num": 171111,
-      "word": "王大陆蔡卓宜约会像运动会",
-      "onboard_time": 1670664740,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 181098,
@@ -1587,14 +1667,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 166523,
-      "num": 166523,
-      "word": "梅西进球时队友的状态",
-      "onboard_time": 1670663719,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 166417,
       "num": 166417,
       "word": "四级听力答案",
@@ -1665,6 +1737,14 @@
       "onboard_time": 1670644875,
       "rank": 14,
       "category": "情感"
+    },
+    {
+      "raw_hot": 161439,
+      "num": 161439,
+      "word": "管泽元寸头撞脸于震",
+      "onboard_time": 1670666779,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 161063,
@@ -1779,6 +1859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 150399,
+      "num": 150399,
+      "word": "男子手暖栏杆解救被冻小鸟遭质疑",
+      "onboard_time": 1670665639,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 149895,
       "num": 149895,
       "word": "梅西世界杯第10球",
@@ -1833,6 +1921,14 @@
       "onboard_time": 1670642053,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 143890,
+      "num": 143890,
+      "word": "删掉喜欢的人真的会忘记吗",
+      "onboard_time": 1670667024,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 143736,
@@ -1971,6 +2067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 114383,
+      "num": 130946,
+      "word": "阿根廷球员朝荷兰球员做鬼脸庆祝",
+      "onboard_time": 1670667321,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 110783,
       "num": 117199,
       "word": "这样吃炸串更便宜了",
@@ -1993,14 +2097,6 @@
       "onboard_time": 1670609836,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 105665,
-      "num": 105665,
-      "word": "体温超过38.5℃就要吃退烧药",
-      "onboard_time": 1670664378,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 102790,
@@ -2137,6 +2233,14 @@
       "onboard_time": 1670613192,
       "rank": 49,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 9216,
+      "num": 139395,
+      "word": "2022LPL全明星",
+      "onboard_time": 1670504425,
+      "rank": 46,
+      "category": "游戏"
     }
   ],
   "hotgov_list": [
