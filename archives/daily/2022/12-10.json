@@ -1,6 +1,6 @@
 {
   "startTime": 1670603204032,
-  "endTime": 1670642404175,
+  "endTime": 1670643280331,
   "band_list": [
     {
       "raw_hot": 11360361,
@@ -67,6 +67,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2845549,
+      "num": 2845549,
+      "word": "年轻人阳性了可以不吃药吗",
+      "onboard_time": 1670640373,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2705830,
       "num": 2705830,
       "word": "内马尔哭了",
@@ -75,12 +83,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 2068636,
-      "num": 2068636,
-      "word": "年轻人阳性了可以不吃药吗",
-      "onboard_time": 1670640373,
-      "rank": 38,
-      "category": "社会新闻"
+      "raw_hot": 2038196,
+      "num": 2038196,
+      "word": "四级",
+      "onboard_time": 1670590826,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 1955926,
@@ -235,6 +243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 940535,
+      "num": 940535,
+      "word": "N95口罩搜索暴涨715%",
+      "onboard_time": 1670639774,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 903420,
       "num": 903420,
       "word": "方舱医院升级改造你支持吗",
@@ -264,14 +280,6 @@
       "word": "厂家称黄桃罐头没有任何药效",
       "onboard_time": 1670600000,
       "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 782304,
-      "num": 782304,
-      "word": "N95口罩搜索暴涨715%",
-      "onboard_time": 1670639774,
-      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -331,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 626469,
+      "num": 626469,
+      "word": "四六级",
+      "onboard_time": 1670633951,
+      "rank": 28,
+      "category": "教育"
+    },
+    {
       "raw_hot": 611808,
       "num": 611808,
       "word": "浦东机场",
@@ -363,6 +379,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 557070,
+      "num": 557070,
+      "word": "两小羊从烤羊店出逃意外成网红",
+      "onboard_time": 1670638452,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 552488,
+      "num": 552488,
+      "word": "三体",
+      "onboard_time": 1670641218,
+      "rank": 13,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 551894,
       "num": 551894,
       "word": "中国四大直辖市完成换帅",
@@ -385,22 +417,6 @@
       "onboard_time": 1670637973,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 504560,
-      "num": 504560,
-      "word": "两小羊从烤羊店出逃意外成网红",
-      "onboard_time": 1670638452,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 472105,
-      "num": 472105,
-      "word": "三体",
-      "onboard_time": 1670641218,
-      "rank": 13,
-      "category": "动漫"
     },
     {
       "raw_hot": 456870,
@@ -539,14 +555,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 363126,
-      "num": 363126,
-      "word": "四六级",
-      "onboard_time": 1670633951,
-      "rank": 28,
-      "category": "教育"
-    },
-    {
       "raw_hot": 361453,
       "num": 361453,
       "word": "健康码会走入历史吗",
@@ -593,6 +601,14 @@
       "onboard_time": 1670604977,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 335250,
+      "num": 2045672,
+      "word": "阳性感染者居家康复手册",
+      "onboard_time": 1670641514,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 334048,
@@ -715,14 +731,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 289821,
-      "num": 289821,
-      "word": "四级",
-      "onboard_time": 1670590826,
-      "rank": 49,
-      "category": "教育"
-    },
-    {
       "raw_hot": 287173,
       "num": 244792,
       "word": "NCT4名成员发生坠落事故",
@@ -737,6 +745,14 @@
       "onboard_time": 1670598081,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 280324,
+      "num": 280324,
+      "word": "斗罗大陆",
+      "onboard_time": 1670642294,
+      "rank": 42,
+      "category": "动漫"
     },
     {
       "raw_hot": 275966,
@@ -775,6 +791,14 @@
       "num": 262399,
       "word": "女子花千元买柯基第二天查出细小",
       "onboard_time": 1670600424,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 259858,
+      "num": 259858,
+      "word": "感染新冠后每日症状参考",
+      "onboard_time": 1670642416,
       "rank": 27,
       "category": "社会新闻"
     },
@@ -843,14 +867,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 231976,
-      "num": 1598974,
-      "word": "阳性感染者居家康复手册",
-      "onboard_time": 1670641514,
-      "rank": 2,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 230904,
       "num": 230904,
       "word": "格子军团",
@@ -867,12 +883,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 195411,
+      "num": 195411,
+      "word": "白鹿灰色大衣贝雷帽上班路透",
+      "onboard_time": 1670642233,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 195145,
       "num": 195145,
       "word": "央美画家画一条鱼吃一条鱼",
       "onboard_time": 1670639533,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 194753,
+      "num": 194753,
+      "word": "赵丽颖眼中的钢三角",
+      "onboard_time": 1670642834,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 190438,
@@ -889,6 +921,14 @@
       "onboard_time": 1670610916,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 185576,
+      "num": 185576,
+      "word": "财阀家的小儿子 不要感情戏",
+      "onboard_time": 1670641573,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 185162,
@@ -923,20 +963,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 174694,
-      "num": 174694,
-      "word": "斗罗大陆",
-      "onboard_time": 1670642294,
-      "rank": 42,
-      "category": "动漫"
-    },
-    {
-      "raw_hot": 171098,
-      "num": 171098,
-      "word": "财阀家的小儿子 不要感情戏",
-      "onboard_time": 1670641573,
-      "rank": 44,
-      "category": "影视"
+      "raw_hot": 173452,
+      "num": 173452,
+      "word": "少数人可能是新冠流感双重感染",
+      "onboard_time": 1670642714,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 170535,
@@ -953,14 +985,6 @@
       "onboard_time": 1670581340,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 168704,
-      "num": 168704,
-      "word": "白鹿灰色大衣贝雷帽上班路透",
-      "onboard_time": 1670642233,
-      "rank": 46,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 165660,
@@ -1263,6 +1287,9 @@
     },
     {
       "word": "#构建新时代中阿命运共同体#"
+    },
+    {
+      "word": "#中阿友好相信还会好上加好#"
     }
   ]
 }
