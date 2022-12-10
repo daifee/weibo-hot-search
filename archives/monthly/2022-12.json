@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1670686418718,
+  "endTime": 1670689529040,
   "band_list": [
     {
       "raw_hot": 11360361,
@@ -457,6 +457,14 @@
       "onboard_time": 1670041331,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 2477224,
+      "num": 2477224,
+      "word": "摩洛哥半场1比0葡萄牙",
+      "onboard_time": 1670687537,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 2470139,
@@ -1068,7 +1076,7 @@
     },
     {
       "raw_hot": 1714543,
-      "num": 1714543,
+      "num": 1766046,
       "word": "钟南山回应新冠后遗症",
       "onboard_time": 1670565623,
       "rank": 15,
@@ -1233,6 +1241,14 @@
       "onboard_time": 1670580558,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1573422,
+      "num": 1573422,
+      "word": "摩洛哥 进球",
+      "onboard_time": 1670687178,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 1572227,
@@ -1867,6 +1883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1236932,
+      "num": 1236932,
+      "word": "摩洛哥vs葡萄牙",
+      "onboard_time": 1670657117,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1233470,
       "num": 1233470,
       "word": "荷兰球员找梅西握手遭拒",
@@ -2025,6 +2049,14 @@
       "onboard_time": 1670558955,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1159635,
+      "num": 1159635,
+      "word": "C罗上场",
+      "onboard_time": 1670688795,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 1156648,
@@ -2217,14 +2249,6 @@
       "onboard_time": 1670643314,
       "rank": 4,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1097816,
-      "num": 1097816,
-      "word": "摩洛哥vs葡萄牙",
-      "onboard_time": 1670657117,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 1097552,
@@ -3459,6 +3483,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 800619,
+      "num": 800619,
+      "word": "摩洛哥球衣",
+      "onboard_time": 1670686458,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 800591,
       "num": 800591,
       "word": "北京呼吁新冠无症状和轻症患者勿打120",
@@ -4403,6 +4435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 677428,
+      "num": 677428,
+      "word": "惠英红质疑薛凯琪戏路",
+      "onboard_time": 1670685079,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 675301,
       "num": 1245916,
       "word": "西班牙主教练称被日本打崩了",
@@ -4987,6 +5027,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 625831,
+      "num": 625831,
+      "word": "卡卡将解说摩洛哥vs葡萄牙",
+      "onboard_time": 1670685500,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 625729,
       "num": 617551,
       "word": "双胞胎因分数接近被学校认定作弊",
@@ -5264,6 +5312,14 @@
       "word": "零下40°C内蒙古神奇不冻河流水潺潺",
       "onboard_time": 1670284327,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 598434,
+      "num": 598434,
+      "word": "钟南山称得了奥密克戎相当于接种疫苗",
+      "onboard_time": 1670683399,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -5867,14 +5923,6 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 547118,
-      "num": 547118,
-      "word": "惠英红质疑薛凯琪戏路",
-      "onboard_time": 1670685079,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 546444,
       "num": 546444,
       "word": "白敬亭今晚直播陪看卿卿日常",
@@ -6120,14 +6168,6 @@
       "word": "杞县官方通报女孩举报失联事件",
       "onboard_time": 1670501120,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 526591,
-      "num": 526591,
-      "word": "钟南山称得了奥密克戎相当于接种疫苗",
-      "onboard_time": 1670683399,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -6675,6 +6715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 488403,
+      "num": 488403,
+      "word": "老人求助买苹果店老板专挑小的烂的",
+      "onboard_time": 1670684301,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 488204,
       "num": 488204,
       "word": "Hero",
@@ -6921,6 +6969,14 @@
       "onboard_time": 1670056931,
       "rank": 7,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 471602,
+      "num": 471602,
+      "word": "葡萄牙 白色球衣",
+      "onboard_time": 1670686700,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 471579,
@@ -8227,6 +8283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 405828,
+      "num": 405828,
+      "word": "你好星期六 嗑cp",
+      "onboard_time": 1670682139,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 405785,
       "num": 405785,
       "word": "六级阅读答案",
@@ -8409,6 +8473,14 @@
       "onboard_time": 1669968192,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 394319,
+      "num": 394319,
+      "word": "Rookie转会原因",
+      "onboard_time": 1670687477,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 394060,
@@ -9833,6 +9905,14 @@
       "onboard_time": 1670656758,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 330769,
+      "num": 330769,
+      "word": "王冰冰反向支持葡萄牙",
+      "onboard_time": 1670687118,
+      "rank": 22,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 330510,
@@ -12243,14 +12323,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 254139,
-      "num": 254139,
-      "word": "老人求助买苹果店老板专挑小的烂的",
-      "onboard_time": 1670684301,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 254085,
       "num": 254085,
       "word": "克罗地亚vs巴西首发",
@@ -13307,6 +13379,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 226460,
+      "num": 226460,
+      "word": "狼队六冠王",
+      "onboard_time": 1670686279,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 226106,
       "num": 1103683,
       "word": "西班牙队否认放水",
@@ -13531,6 +13611,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 219660,
+      "num": 219660,
+      "word": "管泽元 解说",
+      "onboard_time": 1670685622,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 219605,
       "num": 219605,
       "word": "大连现奇观犹如海面开锅了",
@@ -13689,6 +13777,14 @@
       "onboard_time": 1670147112,
       "rank": 29,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 215021,
+      "num": 215021,
+      "word": "菲利克斯 状态",
+      "onboard_time": 1670688677,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 214766,
@@ -14099,6 +14195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 206117,
+      "num": 206117,
+      "word": "第一次见耳朵这么小的狗子",
+      "onboard_time": 1670687057,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 205650,
       "num": 205650,
       "word": "廉政狙击定档1210",
@@ -14497,6 +14601,14 @@
       "onboard_time": 1670210170,
       "rank": 44,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 195815,
+      "num": 195815,
+      "word": "无畏 帅",
+      "onboard_time": 1670685198,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 195654,
@@ -15075,14 +15187,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 186496,
-      "num": 186496,
-      "word": "管泽元 解说",
-      "onboard_time": 1670685622,
-      "rank": 36,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 186289,
       "num": 186289,
       "word": "一人之下5动画开播",
@@ -15537,6 +15641,14 @@
       "onboard_time": 1670576427,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 180011,
+      "num": 180011,
+      "word": "无限超越班下期沈月哭了",
+      "onboard_time": 1670686519,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 179848,
@@ -17483,6 +17595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 150309,
+      "num": 150309,
+      "word": "刘耀文睡醒就开始练习粤语",
+      "onboard_time": 1670688138,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 150308,
       "num": 708626,
       "word": "电商平台发布3600个残疾人岗位",
@@ -17513,6 +17633,14 @@
       "onboard_time": 1670650336,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 149891,
+      "num": 149891,
+      "word": "许半夏把钢厂法人变更为童骁骑",
+      "onboard_time": 1670688438,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 149730,
@@ -17577,14 +17705,6 @@
       "onboard_time": 1670068692,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 148891,
-      "num": 148891,
-      "word": "无畏 帅",
-      "onboard_time": 1670685198,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 148728,
@@ -18099,14 +18219,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 141441,
-      "num": 141441,
-      "word": "卡卡将解说摩洛哥vs葡萄牙",
-      "onboard_time": 1670685500,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 141239,
       "num": 141239,
       "word": "双方都还挺有礼貌的",
@@ -18121,6 +18233,14 @@
       "onboard_time": 1670227691,
       "rank": 39,
       "category": "科技"
+    },
+    {
+      "raw_hot": 141131,
+      "num": 141131,
+      "word": "恩内斯里头球破门",
+      "onboard_time": 1670688023,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 140972,
@@ -18185,6 +18305,14 @@
       "onboard_time": 1669951750,
       "rank": 45,
       "category": "科技"
+    },
+    {
+      "raw_hot": 140151,
+      "num": 140151,
+      "word": "摩洛哥 反击",
+      "onboard_time": 1670687359,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 140080,
@@ -18705,14 +18833,6 @@
       "onboard_time": 1670405293,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 133667,
-      "num": 133667,
-      "word": "狼队六冠王",
-      "onboard_time": 1670686279,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 133620,
