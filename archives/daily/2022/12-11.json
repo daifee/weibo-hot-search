@@ -1,6 +1,6 @@
 {
   "startTime": 1670689529040,
-  "endTime": 1670700789972,
+  "endTime": 1670703535584,
   "band_list": [
     {
       "raw_hot": 13790167,
@@ -619,6 +619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 134201,
+      "num": 134201,
+      "word": "李现说他的青春结束了",
+      "onboard_time": 1670698816,
+      "rank": 30,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 132949,
       "num": 132949,
       "word": "周洁琼说结婚是非常神圣的",
@@ -683,12 +691,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 91196,
-      "num": 62861,
-      "word": "李现说他的青春结束了",
-      "onboard_time": 1670698816,
-      "rank": 30,
-      "category": "体育,艺人"
+      "raw_hot": 79703,
+      "num": 55447,
+      "word": "詹俊说摩洛哥练了金钟罩铁布衫",
+      "onboard_time": 1670699172,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 68789,
+      "num": 68789,
+      "word": "英格兰半场0比1法国",
+      "onboard_time": 1670702172,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 66040,
@@ -696,14 +712,6 @@
       "word": "英格兰vs法国首发",
       "onboard_time": 1670699533,
       "rank": 28,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 55447,
-      "num": 55447,
-      "word": "詹俊说摩洛哥练了金钟罩铁布衫",
-      "onboard_time": 1670699172,
-      "rank": 47,
       "category": "体育"
     },
     {
