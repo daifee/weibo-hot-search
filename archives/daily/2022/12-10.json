@@ -1,6 +1,6 @@
 {
   "startTime": 1670603204032,
-  "endTime": 1670685477331,
+  "endTime": 1670686418718,
   "band_list": [
     {
       "raw_hot": 11360361,
@@ -40,6 +40,14 @@
       "word": "巴西淘汰",
       "onboard_time": 1670608756,
       "rank": 3,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 3452721,
+      "num": 3452721,
+      "word": "C罗",
+      "onboard_time": 1670684540,
+      "rank": 0,
       "category": "体育"
     },
     {
@@ -115,20 +123,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 2127613,
+      "num": 2127613,
+      "word": "阳性第2天身体有多大变化",
+      "onboard_time": 1670681779,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2080396,
       "num": 2080396,
       "word": "三体建模 丑",
       "onboard_time": 1670661197,
       "rank": 31,
       "category": "动漫,影视"
-    },
-    {
-      "raw_hot": 1992342,
-      "num": 1992342,
-      "word": "C罗",
-      "onboard_time": 1670684540,
-      "rank": 0,
-      "category": "体育"
     },
     {
       "raw_hot": 1966147,
@@ -153,14 +161,6 @@
       "onboard_time": 1670634971,
       "rank": 42,
       "category": "社会议题"
-    },
-    {
-      "raw_hot": 1919438,
-      "num": 1919438,
-      "word": "阳性第2天身体有多大变化",
-      "onboard_time": 1670681779,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1914368,
@@ -419,6 +419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 970880,
+      "num": 970880,
+      "word": "范世錡迟到激怒尔冬升",
+      "onboard_time": 1670683281,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 940535,
       "num": 940535,
       "word": "N95口罩搜索暴涨715%",
@@ -473,6 +481,14 @@
       "onboard_time": 1670599518,
       "rank": 6,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 873154,
+      "num": 873154,
+      "word": "女子买衣服花600元一看标价499",
+      "onboard_time": 1670682679,
+      "rank": 45,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 856152,
@@ -531,14 +547,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 768651,
-      "num": 768651,
-      "word": "范世錡迟到激怒尔冬升",
-      "onboard_time": 1670683281,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 765371,
       "num": 765371,
       "word": "主播回应直播卖衣服称东北土不拉唧",
@@ -553,14 +561,6 @@
       "onboard_time": 1670642416,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 750532,
-      "num": 750532,
-      "word": "女子买衣服花600元一看标价499",
-      "onboard_time": 1670682679,
-      "rank": 45,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 713476,
@@ -601,6 +601,14 @@
       "onboard_time": 1670657717,
       "rank": 11,
       "category": "体育,综艺"
+    },
+    {
+      "raw_hot": 682029,
+      "num": 541309,
+      "word": "C罗替补",
+      "onboard_time": 1670685259,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 668332,
@@ -787,12 +795,28 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 547118,
+      "num": 547118,
+      "word": "惠英红质疑薛凯琪戏路",
+      "onboard_time": 1670685079,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 542518,
       "num": 542518,
       "word": "阳华提离婚秦施慌了",
       "onboard_time": 1670673979,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 526591,
+      "num": 526591,
+      "word": "钟南山称得了奥密克戎相当于接种疫苗",
+      "onboard_time": 1670683399,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 525959,
@@ -979,14 +1003,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 443782,
-      "num": 443782,
-      "word": "钟南山称得了奥密克戎相当于接种疫苗",
-      "onboard_time": 1670683399,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 440103,
       "num": 440103,
       "word": "周柯宇沈月见面社恐现场",
@@ -1097,14 +1113,6 @@
       "onboard_time": 1670629330,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 410600,
-      "num": 410600,
-      "word": "惠英红质疑薛凯琪戏路",
-      "onboard_time": 1670685079,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 410271,
@@ -1459,6 +1467,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 317966,
+      "num": 317966,
+      "word": "刘耀文做简历",
+      "onboard_time": 1670686037,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 317483,
       "num": 317483,
       "word": "杨洋援军明日到达正脸路透",
@@ -1675,14 +1691,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 268862,
-      "num": 222888,
-      "word": "C罗替补",
-      "onboard_time": 1670685259,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 263141,
       "num": 263141,
       "word": "吴尊模仿梅西进球的经典动作",
@@ -1729,6 +1737,14 @@
       "onboard_time": 1670655557,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 254139,
+      "num": 254139,
+      "word": "老人求助买苹果店老板专挑小的烂的",
+      "onboard_time": 1670684301,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 252264,
@@ -1816,6 +1832,14 @@
       "word": "卿卿日常 女性角色",
       "onboard_time": 1670601627,
       "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 242706,
+      "num": 242706,
+      "word": "财阀家的小儿子第十集",
+      "onboard_time": 1670686098,
+      "rank": 27,
       "category": "影视"
     },
     {
@@ -2027,6 +2051,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 198056,
+      "num": 198056,
+      "word": "吴磊送的帽子吓到周雨彤",
+      "onboard_time": 1670685622,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 196151,
       "num": 177745,
       "word": "檀健次蔡文静演月光变奏曲",
@@ -2075,6 +2107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 192856,
+      "num": 161240,
+      "word": "孟佳称砂锅粥完全颠覆了她的想象",
+      "onboard_time": 1670685559,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 190438,
       "num": 190438,
       "word": "男子未戴手套制作蛋糕胚被指恶心",
@@ -2113,6 +2153,14 @@
       "onboard_time": 1670673559,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 186496,
+      "num": 186496,
+      "word": "管泽元 解说",
+      "onboard_time": 1670685622,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 186264,
@@ -2579,6 +2627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 148891,
+      "num": 148891,
+      "word": "无畏 帅",
+      "onboard_time": 1670685198,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 148111,
       "num": 148111,
       "word": "好身材运动伴侣太好嗑了",
@@ -2609,6 +2665,14 @@
       "onboard_time": 1670677459,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 145346,
+      "num": 145346,
+      "word": "原来纸巾做的玫瑰花这么好看",
+      "onboard_time": 1670685978,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 145192,
@@ -2643,11 +2707,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 141441,
+      "num": 141441,
+      "word": "卡卡将解说摩洛哥vs葡萄牙",
+      "onboard_time": 1670685500,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 140028,
       "num": 140028,
       "word": "内马尔尽力了",
       "onboard_time": 1670652798,
       "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 137131,
+      "num": 137131,
+      "word": "男子用牙啃苹果雕出梅西侧脸",
+      "onboard_time": 1670685679,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -2657,14 +2737,6 @@
       "onboard_time": 1670676679,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 135630,
-      "num": 135630,
-      "word": "老人求助买苹果店老板专挑小的烂的",
-      "onboard_time": 1670684301,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 135123,
@@ -2691,19 +2763,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 134580,
-      "num": 134580,
-      "word": "无畏 帅",
-      "onboard_time": 1670685198,
-      "rank": 49,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 134520,
       "num": 134520,
       "word": "管泽元",
       "onboard_time": 1670612114,
       "rank": 20,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 133667,
+      "num": 133667,
+      "word": "狼队六冠王",
+      "onboard_time": 1670686279,
+      "rank": 49,
       "category": "体育"
     },
     {
