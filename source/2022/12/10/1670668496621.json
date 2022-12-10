@@ -1,0 +1,410 @@
+{
+  "runTime": 1670668496621,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1664361,
+        "num": 1664361,
+        "word": "六级答案",
+        "onboard_time": 1670665223,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1619997,
+        "num": 1619997,
+        "word": "六级",
+        "onboard_time": 1670644154,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 790442,
+        "num": 1522678,
+        "word": "得了新冠怎么自愈",
+        "onboard_time": 1670663423,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1432309,
+        "num": 1432309,
+        "word": "三体建模 丑",
+        "onboard_time": 1670661197,
+        "rank": 3,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 684619,
+        "num": 684619,
+        "word": "年轻人阳性了可以不吃药吗",
+        "onboard_time": 1670640373,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 649212,
+        "num": 649212,
+        "word": "体温超过38.5℃就要吃退烧药",
+        "onboard_time": 1670664378,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 583537,
+        "num": 583537,
+        "word": "管泽元真去剃头了",
+        "onboard_time": 1670663179,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 569348,
+        "num": 569348,
+        "word": "梅西赛后采访发飙",
+        "onboard_time": 1670645955,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 495937,
+        "num": 495937,
+        "word": "六级阅读",
+        "onboard_time": 1670666240,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 476521,
+        "num": 476521,
+        "word": "摩洛哥vs葡萄牙",
+        "onboard_time": 1670657117,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1096356,
+        "num": 472069,
+        "word": "刘强东分享感染新冠经历",
+        "onboard_time": 1670659037,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 571073,
+        "num": 463822,
+        "word": "孕产妇感染了影响胎儿吗",
+        "onboard_time": 1670666059,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 448704,
+        "num": 448704,
+        "word": "Irene音中Birthday竖版直拍",
+        "onboard_time": 1670668038,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 431684,
+        "num": 431684,
+        "word": "六级作文",
+        "onboard_time": 1670665339,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 393803,
+        "num": 393803,
+        "word": "杨幂说不提倡恋爱脑",
+        "onboard_time": 1670667500,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 365212,
+        "num": 365212,
+        "word": "梅西进球时队友的状态",
+        "onboard_time": 1670663719,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 357510,
+        "num": 357510,
+        "word": "许半夏赵垒分手变求婚",
+        "onboard_time": 1670661739,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 337018,
+        "num": 337018,
+        "word": "公交车军人专座比人高遭吐槽",
+        "onboard_time": 1670661558,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306836,
+        "num": 306836,
+        "word": "主人找猫发现猫藏寻猫启事旁角落",
+        "onboard_time": 1670663599,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277931,
+        "num": 277931,
+        "word": "央视2023电视剧片单",
+        "onboard_time": 1670664439,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 945994,
+        "num": 274892,
+        "word": "王大陆蔡卓宜约会像运动会",
+        "onboard_time": 1670664740,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 426729,
+        "num": 273439,
+        "word": "广西一医生隐瞒双胎信息欲偷婴儿贩卖",
+        "onboard_time": 1670656219,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285606,
+        "num": 273039,
+        "word": "陈飞宇寸头外网生图",
+        "onboard_time": 1670665039,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 271348,
+        "num": 271348,
+        "word": "六级听力",
+        "onboard_time": 1670666427,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 261936,
+        "num": 261936,
+        "word": "荷兰球员找梅西握手遭拒",
+        "onboard_time": 1670651836,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 240531,
+        "num": 240531,
+        "word": "世界冠军邓琳琳被求婚",
+        "onboard_time": 1670657717,
+        "rank": 25,
+        "category": "体育,综艺"
+      },
+      {
+        "raw_hot": 240391,
+        "num": 240391,
+        "word": "世界杯四强诞生",
+        "onboard_time": 1670656038,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 236976,
+        "num": 236976,
+        "word": "孟美岐线下演唱会票价",
+        "onboard_time": 1670653157,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 235329,
+        "num": 235329,
+        "word": "删掉喜欢的人真的会忘记吗",
+        "onboard_time": 1670667024,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 234325,
+        "num": 234325,
+        "word": "六级阅读答案",
+        "onboard_time": 1670667623,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 218532,
+        "num": 218532,
+        "word": "陈晓 人生路遥",
+        "onboard_time": 1670662099,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 214242,
+        "num": 214242,
+        "word": "摩洛哥 预测",
+        "onboard_time": 1670658857,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 208241,
+        "num": 208241,
+        "word": "内马尔曾说这是最后一届世界杯",
+        "onboard_time": 1670648896,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207663,
+        "num": 207663,
+        "word": "白敬亭南来北往造型",
+        "onboard_time": 1670665521,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 200551,
+        "num": 200551,
+        "word": "六级翻译",
+        "onboard_time": 1670644875,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 188775,
+        "num": 188775,
+        "word": "小镇村民直播卖珍珠年入几十亿",
+        "onboard_time": 1670660779,
+        "rank": 35,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 187229,
+        "num": 187229,
+        "word": "四级",
+        "onboard_time": 1670642115,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 182836,
+        "num": 182836,
+        "word": "马嘉祺打个响指高音就飙上去了",
+        "onboard_time": 1670660779,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 178482,
+        "num": 178482,
+        "word": "女子因病被男友家嫌弃爸爸气到抹泪",
+        "onboard_time": 1670647455,
+        "rank": 38,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 176405,
+        "num": 176405,
+        "word": "如何评价张艺兴成立厂牌",
+        "onboard_time": 1670656939,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 174607,
+        "num": 174607,
+        "word": "管泽元寸头撞脸于震",
+        "onboard_time": 1670666779,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170695,
+        "num": 170695,
+        "word": "三体",
+        "onboard_time": 1670641218,
+        "rank": 41,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 170280,
+        "num": 170280,
+        "word": "医生低头取物头发被酒精灯点燃",
+        "onboard_time": 1670657238,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164787,
+        "num": 164787,
+        "word": "墨白",
+        "onboard_time": 1670667680,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 160154,
+        "num": 160154,
+        "word": "内马尔怒吼",
+        "onboard_time": 1670649620,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137656,
+        "num": 137656,
+        "word": "女子家住28楼窗外云雾缭绕",
+        "onboard_time": 1670661558,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135280,
+        "num": 135280,
+        "word": "北京发布新冠阳性感染者居家康复手册",
+        "onboard_time": 1670659578,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128415,
+        "num": 128415,
+        "word": "男子手暖栏杆解救被冻小鸟遭质疑",
+        "onboard_time": 1670665639,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127929,
+        "num": 127929,
+        "word": "灭火消防员救了一万只干饭鸡",
+        "onboard_time": 1670667979,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123906,
+        "num": 125484,
+        "word": "猪猪说能快一点吗我要窒息了",
+        "onboard_time": 1670668400,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#构建新时代中阿命运共同体#"
+    }
+  }
+}

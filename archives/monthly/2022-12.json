@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1670667543818,
+  "endTime": 1670668496621,
   "band_list": [
     {
       "raw_hot": 11360361,
@@ -3435,6 +3435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 790442,
+      "num": 1690798,
+      "word": "得了新冠怎么自愈",
+      "onboard_time": 1670663423,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 790381,
       "num": 1471380,
       "word": "葡萄牙开场五分钟进球",
@@ -3881,14 +3889,6 @@
       "onboard_time": 1670551153,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 718755,
-      "num": 1690798,
-      "word": "得了新冠怎么自愈",
-      "onboard_time": 1670663423,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 716667,
@@ -4617,6 +4617,14 @@
       "onboard_time": 1670468053,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 649212,
+      "num": 649212,
+      "word": "体温超过38.5℃就要吃退烧药",
+      "onboard_time": 1670664378,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 648334,
@@ -5435,6 +5443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 571073,
+      "num": 463822,
+      "word": "孕产妇感染了影响胎儿吗",
+      "onboard_time": 1670666059,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 570492,
       "num": 570492,
       "word": "刘宇宁一念关山回眸路透视频",
@@ -5905,14 +5921,6 @@
       "onboard_time": 1670204770,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 532438,
-      "num": 532438,
-      "word": "体温超过38.5℃就要吃退烧药",
-      "onboard_time": 1670664378,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 531389,
@@ -6643,6 +6651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 476521,
+      "num": 476521,
+      "word": "摩洛哥vs葡萄牙",
+      "onboard_time": 1670657117,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 475673,
       "num": 475673,
       "word": "中国裁判组结束世界杯之旅",
@@ -7019,14 +7035,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 453330,
-      "num": 453330,
-      "word": "摩洛哥vs葡萄牙",
-      "onboard_time": 1670657117,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 453254,
       "num": 452838,
       "word": "党中央号召全党全军全国各族人民",
@@ -7105,6 +7113,14 @@
       "onboard_time": 1670137870,
       "rank": 33,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 448704,
+      "num": 448704,
+      "word": "Irene音中Birthday竖版直拍",
+      "onboard_time": 1670668038,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 447293,
@@ -8179,6 +8195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 393803,
+      "num": 393803,
+      "word": "杨幂说不提倡恋爱脑",
+      "onboard_time": 1670667500,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 393381,
       "num": 321183,
       "word": "东北女子在院子地上铺满饺子",
@@ -8515,14 +8539,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 375773,
-      "num": 375773,
-      "word": "孕产妇感染了影响胎儿吗",
-      "onboard_time": 1670666059,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 374378,
       "num": 374378,
       "word": "专家称居家隔离可缓解床位紧张难题",
@@ -8720,6 +8736,14 @@
       "word": "赵睿全明星MVP",
       "onboard_time": 1670073914,
       "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 365212,
+      "num": 365212,
+      "word": "梅西进球时队友的状态",
+      "onboard_time": 1670663719,
+      "rank": 45,
       "category": "体育"
     },
     {
@@ -9659,14 +9683,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 325386,
-      "num": 325386,
-      "word": "梅西进球时队友的状态",
-      "onboard_time": 1670663719,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 325018,
       "num": 325018,
       "word": "迷你世界致歉",
@@ -10545,14 +10561,6 @@
       "onboard_time": 1670209270,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 293935,
-      "num": 138065,
-      "word": "杨幂说不提倡恋爱脑",
-      "onboard_time": 1670667500,
-      "rank": 47,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 293712,
@@ -12491,6 +12499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 235329,
+      "num": 235329,
+      "word": "删掉喜欢的人真的会忘记吗",
+      "onboard_time": 1670667024,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 235253,
       "num": 235253,
       "word": "死神到底帅在哪",
@@ -12545,6 +12561,14 @@
       "onboard_time": 1669992730,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 234325,
+      "num": 234325,
+      "word": "六级阅读答案",
+      "onboard_time": 1670667623,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 233819,
@@ -15227,6 +15251,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 174607,
+      "num": 174607,
+      "word": "管泽元寸头撞脸于震",
+      "onboard_time": 1670666779,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 174399,
       "num": 174399,
       "word": "苹果将推出类似卡拉OK功能",
@@ -15795,6 +15827,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 164787,
+      "num": 164787,
+      "word": "墨白",
+      "onboard_time": 1670667680,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 164610,
       "num": 164610,
       "word": "法棍被列入非遗名录",
@@ -16033,14 +16073,6 @@
       "onboard_time": 1669989012,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 161439,
-      "num": 161439,
-      "word": "管泽元寸头撞脸于震",
-      "onboard_time": 1670666779,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 161355,
@@ -17203,14 +17235,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 143890,
-      "num": 143890,
-      "word": "删掉喜欢的人真的会忘记吗",
-      "onboard_time": 1670667024,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
       "raw_hot": 143736,
       "num": 143736,
       "word": "李薇说明年一定比今年更好",
@@ -18371,6 +18395,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 127929,
+      "num": 127929,
+      "word": "灭火消防员救了一万只干饭鸡",
+      "onboard_time": 1670667979,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127786,
       "num": 127786,
       "word": "你最喜欢的体育解说是谁",
@@ -18617,6 +18649,14 @@
       "onboard_time": 1670387771,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 123906,
+      "num": 125484,
+      "word": "猪猪说能快一点吗我要窒息了",
+      "onboard_time": 1670668400,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 123898,

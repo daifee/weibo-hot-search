@@ -1,6 +1,6 @@
 {
   "startTime": 1670603204032,
-  "endTime": 1670667543818,
+  "endTime": 1670668496621,
   "band_list": [
     {
       "raw_hot": 11360361,
@@ -403,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 790442,
+      "num": 1690798,
+      "word": "得了新冠怎么自愈",
+      "onboard_time": 1670663423,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 765371,
       "num": 765371,
       "word": "主播回应直播卖衣服称东北土不拉唧",
@@ -417,14 +425,6 @@
       "onboard_time": 1670642416,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 718755,
-      "num": 1690798,
-      "word": "得了新冠怎么自愈",
-      "onboard_time": 1670663423,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 713476,
@@ -504,6 +504,14 @@
       "word": "爸爸给14个月的女儿洗脚满眼宠溺",
       "onboard_time": 1670633414,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 649212,
+      "num": 649212,
+      "word": "体温超过38.5℃就要吃退烧药",
+      "onboard_time": 1670664378,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -587,6 +595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 571073,
+      "num": 463822,
+      "word": "孕产妇感染了影响胎儿吗",
+      "onboard_time": 1670666059,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 567308,
       "num": 567308,
       "word": "尽量让自己和身边人晚感染少感染",
@@ -625,14 +641,6 @@
       "onboard_time": 1670591240,
       "rank": 11,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 532438,
-      "num": 532438,
-      "word": "体温超过38.5℃就要吃退烧药",
-      "onboard_time": 1670664378,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 525959,
@@ -707,6 +715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 476521,
+      "num": 476521,
+      "word": "摩洛哥vs葡萄牙",
+      "onboard_time": 1670657117,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 463986,
       "num": 463986,
       "word": "六级翻译",
@@ -739,12 +755,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 453330,
-      "num": 453330,
-      "word": "摩洛哥vs葡萄牙",
-      "onboard_time": 1670657117,
-      "rank": 16,
-      "category": "体育"
+      "raw_hot": 448704,
+      "num": 448704,
+      "word": "Irene音中Birthday竖版直拍",
+      "onboard_time": 1670668038,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 444755,
@@ -875,6 +891,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 393803,
+      "num": 393803,
+      "word": "杨幂说不提倡恋爱脑",
+      "onboard_time": 1670667500,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 384126,
       "num": 255783,
       "word": "荷兰半场0比1阿根廷",
@@ -897,14 +921,6 @@
       "onboard_time": 1670636892,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 375773,
-      "num": 375773,
-      "word": "孕产妇感染了影响胎儿吗",
-      "onboard_time": 1670666059,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 370337,
@@ -937,6 +953,14 @@
       "onboard_time": 1670644820,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 365212,
+      "num": 365212,
+      "word": "梅西进球时队友的状态",
+      "onboard_time": 1670663719,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 361453,
@@ -1059,14 +1083,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 325386,
-      "num": 325386,
-      "word": "梅西进球时队友的状态",
-      "onboard_time": 1670663719,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 324646,
       "num": 324646,
       "word": "刘畊宏苏醒互动为梅西打call",
@@ -1179,14 +1195,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 293935,
-      "num": 138065,
-      "word": "杨幂说不提倡恋爱脑",
-      "onboard_time": 1670667500,
-      "rank": 47,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 293328,
       "num": 3156475,
       "word": "迈向结束疫情生活的道路不等于结束疫情",
@@ -1240,6 +1248,14 @@
       "word": "为什么年轻人不爱看黄金8点档了",
       "onboard_time": 1670654479,
       "rank": 20,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 277931,
+      "num": 277931,
+      "word": "央视2023电视剧片单",
+      "onboard_time": 1670664439,
+      "rank": 31,
       "category": "影视"
     },
     {
@@ -1347,14 +1363,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 245435,
-      "num": 245435,
-      "word": "央视2023电视剧片单",
-      "onboard_time": 1670664439,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 242760,
       "num": 180931,
       "word": "卿卿日常 女性角色",
@@ -1409,6 +1417,22 @@
       "onboard_time": 1670575160,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 235329,
+      "num": 235329,
+      "word": "删掉喜欢的人真的会忘记吗",
+      "onboard_time": 1670667024,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 234325,
+      "num": 234325,
+      "word": "六级阅读答案",
+      "onboard_time": 1670667623,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 233445,
@@ -1611,6 +1635,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 174607,
+      "num": 174607,
+      "word": "管泽元寸头撞脸于震",
+      "onboard_time": 1670666779,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 173452,
       "num": 173452,
       "word": "少数人可能是新冠流感双重感染",
@@ -1699,6 +1731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 164787,
+      "num": 164787,
+      "word": "墨白",
+      "onboard_time": 1670667680,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 164433,
       "num": 164433,
       "word": "MAMA女团合作舞台直拍",
@@ -1737,14 +1777,6 @@
       "onboard_time": 1670644875,
       "rank": 14,
       "category": "情感"
-    },
-    {
-      "raw_hot": 161439,
-      "num": 161439,
-      "word": "管泽元寸头撞脸于震",
-      "onboard_time": 1670666779,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 161063,
@@ -1923,14 +1955,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 143890,
-      "num": 143890,
-      "word": "删掉喜欢的人真的会忘记吗",
-      "onboard_time": 1670667024,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
       "raw_hot": 143736,
       "num": 143736,
       "word": "李薇说明年一定比今年更好",
@@ -2003,6 +2027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 127929,
+      "num": 127929,
+      "word": "灭火消防员救了一万只干饭鸡",
+      "onboard_time": 1670667979,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127000,
       "num": 127000,
       "word": "女子给流浪老人买鞋袜蹲地为其更换",
@@ -2017,6 +2049,14 @@
       "onboard_time": 1670653997,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 123906,
+      "num": 125484,
+      "word": "猪猪说能快一点吗我要窒息了",
+      "onboard_time": 1670668400,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 123044,
