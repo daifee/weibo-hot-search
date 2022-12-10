@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1670643280331,
+  "endTime": 1670646195596,
   "band_list": [
     {
       "raw_hot": 11360361,
@@ -251,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3164447,
+      "num": 3164447,
+      "word": "年轻人阳性了可以不吃药吗",
+      "onboard_time": 1670640373,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 3098510,
       "num": 3098510,
       "word": "世界杯四强",
@@ -304,14 +312,6 @@
       "word": "杭州疫情防控",
       "onboard_time": 1670168533,
       "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2845549,
-      "num": 2845549,
-      "word": "年轻人阳性了可以不吃药吗",
-      "onboard_time": 1670640373,
-      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -433,6 +433,14 @@
       "onboard_time": 1670041331,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 2470139,
+      "num": 2470139,
+      "word": "四级",
+      "onboard_time": 1670590826,
+      "rank": 28,
+      "category": "教育"
     },
     {
       "raw_hot": 2469012,
@@ -705,14 +713,6 @@
       "onboard_time": 1670567838,
       "rank": 49,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 2038196,
-      "num": 2038196,
-      "word": "四级",
-      "onboard_time": 1670590826,
-      "rank": 28,
-      "category": "教育"
     },
     {
       "raw_hot": 2036710,
@@ -2091,6 +2091,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1097898,
+      "num": 1097898,
+      "word": "四级作文",
+      "onboard_time": 1670643314,
+      "rank": 4,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1097552,
       "num": 813415,
       "word": "5位康复者讲述阳了后会经历什么",
@@ -2785,6 +2793,14 @@
       "onboard_time": 1670415974,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 889383,
+      "num": 889383,
+      "word": "四级答案",
+      "onboard_time": 1670643435,
+      "rank": 5,
+      "category": "教育"
     },
     {
       "raw_hot": 882561,
@@ -3567,6 +3583,14 @@
       "num": 758329,
       "word": "济南疫情防控",
       "onboard_time": 1669851129,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 756959,
+      "num": 756959,
+      "word": "感染新冠后每日症状参考",
+      "onboard_time": 1670642416,
       "rank": 27,
       "category": "社会新闻"
     },
@@ -4667,6 +4691,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 624716,
+      "num": 624716,
+      "word": "学生因手抄试卷晚交作业引老师泪目",
+      "onboard_time": 1670644218,
+      "rank": 10,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 622601,
       "num": 420507,
       "word": "世界杯裁判",
@@ -5443,6 +5475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 551961,
+      "num": 2045672,
+      "word": "阳性感染者居家康复手册",
+      "onboard_time": 1670641514,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 551927,
       "num": 551927,
       "word": "檀健次谈和杨紫合作",
@@ -5489,6 +5529,14 @@
       "onboard_time": 1670311509,
       "rank": 33,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 546519,
+      "num": 546519,
+      "word": "六级",
+      "onboard_time": 1670594538,
+      "rank": 36,
+      "category": "教育"
     },
     {
       "raw_hot": 546444,
@@ -6931,6 +6979,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 436263,
+      "num": 436263,
+      "word": "新川来了第二个李薇",
+      "onboard_time": 1670643734,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 435797,
       "num": 717257,
       "word": "世界杯16强",
@@ -7251,6 +7307,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 421640,
+      "num": 421640,
+      "word": "四级听力",
+      "onboard_time": 1670645894,
+      "rank": 17,
+      "category": "教育"
+    },
+    {
       "raw_hot": 420926,
       "num": 207186,
       "word": "突尼斯1比0法国",
@@ -7363,12 +7427,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 416801,
+      "num": 416801,
+      "word": "斗罗大陆",
+      "onboard_time": 1670642294,
+      "rank": 42,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 416276,
       "num": 416276,
       "word": "王大陆蔡卓宜官宣加盟哎呀好身材4",
       "onboard_time": 1670554513,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 416224,
+      "num": 416224,
+      "word": "四级翻译",
+      "onboard_time": 1670644033,
+      "rank": 19,
+      "category": "教育"
     },
     {
       "raw_hot": 415603,
@@ -7752,6 +7832,14 @@
       "word": "这饭就是喂不进去",
       "onboard_time": 1670126470,
       "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 398108,
+      "num": 398108,
+      "word": "荷兰阿根廷冲突",
+      "onboard_time": 1670645536,
+      "rank": 21,
       "category": "体育"
     },
     {
@@ -8331,6 +8419,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 365505,
+      "num": 365505,
+      "word": "吴磊对周雨彤说冬天很冷我很暖",
+      "onboard_time": 1670644820,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 365427,
       "num": 834754,
       "word": "赵睿全明星MVP",
@@ -8401,14 +8497,6 @@
       "onboard_time": 1670601497,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 361085,
-      "num": 361085,
-      "word": "六级",
-      "onboard_time": 1670594538,
-      "rank": 36,
-      "category": "教育"
     },
     {
       "raw_hot": 360567,
@@ -8553,6 +8641,14 @@
       "onboard_time": 1670608516,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 355446,
+      "num": 355446,
+      "word": "六级翻译",
+      "onboard_time": 1670644875,
+      "rank": 25,
+      "category": "教育"
     },
     {
       "raw_hot": 355408,
@@ -9003,14 +9099,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 335250,
-      "num": 2045672,
-      "word": "阳性感染者居家康复手册",
-      "onboard_time": 1670641514,
-      "rank": 2,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 334947,
       "num": 334947,
       "word": "C罗有事儿佩佩真上啊",
@@ -9217,6 +9305,14 @@
       "onboard_time": 1669896552,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 328567,
+      "num": 328567,
+      "word": "湖人 加时",
+      "onboard_time": 1670643314,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 327167,
@@ -9483,6 +9579,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 318936,
+      "num": 318936,
+      "word": "张小斐黄晓明好事成双登央视片单",
+      "onboard_time": 1670644753,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 318483,
       "num": 816179,
       "word": "广州中小学暂不恢复线下教学",
@@ -9513,6 +9617,14 @@
       "onboard_time": 1670403193,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 317372,
+      "num": 298167,
+      "word": "柳智宇还俗后宣布恋情",
+      "onboard_time": 1670644694,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 317324,
@@ -10099,6 +10211,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 292917,
+      "num": 292917,
+      "word": "四级阅读",
+      "onboard_time": 1670645234,
+      "rank": 31,
+      "category": "教育"
+    },
+    {
       "raw_hot": 292699,
       "num": 292699,
       "word": "法国vs波兰首发",
@@ -10497,14 +10617,6 @@
       "onboard_time": 1670064432,
       "rank": 9,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 280324,
-      "num": 280324,
-      "word": "斗罗大陆",
-      "onboard_time": 1670642294,
-      "rank": 42,
-      "category": "动漫"
     },
     {
       "raw_hot": 280098,
@@ -11200,14 +11312,6 @@
       "word": "杭州地铁不再查验健康码",
       "onboard_time": 1670421794,
       "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 259858,
-      "num": 259858,
-      "word": "感染新冠后每日症状参考",
-      "onboard_time": 1670642416,
-      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -13019,6 +13123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 204267,
+      "num": 204267,
+      "word": "六级作文",
+      "onboard_time": 1670645894,
+      "rank": 42,
+      "category": "教育"
+    },
+    {
       "raw_hot": 204064,
       "num": 204064,
       "word": "济南一瀑布被寒潮速冻后的样子",
@@ -14059,6 +14171,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 183262,
+      "num": 176823,
+      "word": "梅西赛后采访发飙",
+      "onboard_time": 1670645955,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 183182,
       "num": 685880,
       "word": "女生被奖励饼舍不得吃留给妈妈",
@@ -14499,6 +14619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 176964,
+      "num": 176964,
+      "word": "六级预测",
+      "onboard_time": 1670645234,
+      "rank": 45,
+      "category": "教育"
+    },
+    {
       "raw_hot": 176828,
       "num": 651412,
       "word": "卢卡库赛后砸碎玻璃",
@@ -14713,6 +14841,14 @@
       "onboard_time": 1670030348,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 172618,
+      "num": 172618,
+      "word": "杨坤出道20年第11张专辑",
+      "onboard_time": 1670646017,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 172614,
@@ -17153,6 +17289,14 @@
       "onboard_time": 1670505800,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 133489,
+      "num": 478011,
+      "word": "是我没想到的反转了",
+      "onboard_time": 1670644875,
+      "rank": 14,
+      "category": "情感"
     },
     {
       "raw_hot": 133361,

@@ -1,6 +1,6 @@
 {
   "startTime": 1670603204032,
-  "endTime": 1670643280331,
+  "endTime": 1670646195596,
   "band_list": [
     {
       "raw_hot": 11360361,
@@ -51,6 +51,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 3164447,
+      "num": 3164447,
+      "word": "年轻人阳性了可以不吃药吗",
+      "onboard_time": 1670640373,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 3098510,
       "num": 3098510,
       "word": "世界杯四强",
@@ -67,14 +75,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 2845549,
-      "num": 2845549,
-      "word": "年轻人阳性了可以不吃药吗",
-      "onboard_time": 1670640373,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 2705830,
       "num": 2705830,
       "word": "内马尔哭了",
@@ -83,8 +83,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 2038196,
-      "num": 2038196,
+      "raw_hot": 2470139,
+      "num": 2470139,
       "word": "四级",
       "onboard_time": 1670590826,
       "rank": 49,
@@ -235,6 +235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1097898,
+      "num": 1097898,
+      "word": "四级作文",
+      "onboard_time": 1670643314,
+      "rank": 4,
+      "category": "教育"
+    },
+    {
       "raw_hot": 987442,
       "num": 987442,
       "word": "张栋梁17年前vs17年后",
@@ -259,12 +267,28 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 889383,
+      "num": 889383,
+      "word": "四级答案",
+      "onboard_time": 1670643435,
+      "rank": 5,
+      "category": "教育"
+    },
+    {
       "raw_hot": 879267,
       "num": 879267,
       "word": "4人毒杀89只狗",
       "onboard_time": 1670599518,
       "rank": 6,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 856152,
+      "num": 856152,
+      "word": "三体",
+      "onboard_time": 1670641218,
+      "rank": 13,
+      "category": "动漫"
     },
     {
       "raw_hot": 806857,
@@ -280,6 +304,14 @@
       "word": "厂家称黄桃罐头没有任何药效",
       "onboard_time": 1670600000,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 756959,
+      "num": 756959,
+      "word": "感染新冠后每日症状参考",
+      "onboard_time": 1670642416,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -347,6 +379,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 624716,
+      "num": 624716,
+      "word": "学生因手抄试卷晚交作业引老师泪目",
+      "onboard_time": 1670644218,
+      "rank": 10,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 611808,
       "num": 611808,
       "word": "浦东机场",
@@ -387,12 +427,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 552488,
-      "num": 552488,
-      "word": "三体",
-      "onboard_time": 1670641218,
-      "rank": 13,
-      "category": "动漫"
+      "raw_hot": 551961,
+      "num": 2045672,
+      "word": "阳性感染者居家康复手册",
+      "onboard_time": 1670641514,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 551894,
@@ -401,6 +441,14 @@
       "onboard_time": 1670591240,
       "rank": 11,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 546519,
+      "num": 546519,
+      "word": "六级",
+      "onboard_time": 1670594538,
+      "rank": 42,
+      "category": "教育"
     },
     {
       "raw_hot": 525959,
@@ -432,6 +480,14 @@
       "word": "卿卿日常 传承",
       "onboard_time": 1670595740,
       "rank": 13,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 436263,
+      "num": 436263,
+      "word": "新川来了第二个李薇",
+      "onboard_time": 1670643734,
+      "rank": 16,
       "category": "影视"
     },
     {
@@ -483,6 +539,30 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 421640,
+      "num": 421640,
+      "word": "四级听力",
+      "onboard_time": 1670645894,
+      "rank": 17,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 416801,
+      "num": 416801,
+      "word": "斗罗大陆",
+      "onboard_time": 1670642294,
+      "rank": 42,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 416224,
+      "num": 416224,
+      "word": "四级翻译",
+      "onboard_time": 1670644033,
+      "rank": 19,
+      "category": "教育"
+    },
+    {
       "raw_hot": 414260,
       "num": 414260,
       "word": "男子将1500亩地瓜梗卖到国外赚百万",
@@ -513,6 +593,14 @@
       "onboard_time": 1670635572,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 398108,
+      "num": 398108,
+      "word": "荷兰阿根廷冲突",
+      "onboard_time": 1670645536,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 384126,
@@ -555,6 +643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 365505,
+      "num": 365505,
+      "word": "吴磊对周雨彤说冬天很冷我很暖",
+      "onboard_time": 1670644820,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 361453,
       "num": 361453,
       "word": "健康码会走入历史吗",
@@ -587,6 +683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 355446,
+      "num": 355446,
+      "word": "六级翻译",
+      "onboard_time": 1670644875,
+      "rank": 25,
+      "category": "教育"
+    },
+    {
       "raw_hot": 354208,
       "num": 354208,
       "word": "吴磊给周雨彤涂口红",
@@ -601,14 +705,6 @@
       "onboard_time": 1670604977,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 335250,
-      "num": 2045672,
-      "word": "阳性感染者居家康复手册",
-      "onboard_time": 1670641514,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 334048,
@@ -651,6 +747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 328567,
+      "num": 328567,
+      "word": "湖人 加时",
+      "onboard_time": 1670643314,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 324646,
       "num": 324646,
       "word": "刘畊宏苏醒互动为梅西打call",
@@ -675,12 +779,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 318936,
+      "num": 318936,
+      "word": "张小斐黄晓明好事成双登央视片单",
+      "onboard_time": 1670644753,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 317483,
       "num": 317483,
       "word": "杨洋援军明日到达正脸路透",
       "onboard_time": 1670640253,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 317372,
+      "num": 298167,
+      "word": "柳智宇还俗后宣布恋情",
+      "onboard_time": 1670644694,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 310014,
@@ -723,6 +843,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 292917,
+      "num": 292917,
+      "word": "四级阅读",
+      "onboard_time": 1670645234,
+      "rank": 31,
+      "category": "教育"
+    },
+    {
       "raw_hot": 290369,
       "num": 290369,
       "word": "王嘉尔 可能是最后一支MV了",
@@ -745,14 +873,6 @@
       "onboard_time": 1670598081,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 280324,
-      "num": 280324,
-      "word": "斗罗大陆",
-      "onboard_time": 1670642294,
-      "rank": 42,
-      "category": "动漫"
     },
     {
       "raw_hot": 275966,
@@ -791,14 +911,6 @@
       "num": 262399,
       "word": "女子花千元买柯基第二天查出细小",
       "onboard_time": 1670600424,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 259858,
-      "num": 259858,
-      "word": "感染新冠后每日症状参考",
-      "onboard_time": 1670642416,
       "rank": 27,
       "category": "社会新闻"
     },
@@ -883,6 +995,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 204267,
+      "num": 204267,
+      "word": "六级作文",
+      "onboard_time": 1670645894,
+      "rank": 42,
+      "category": "教育"
+    },
+    {
       "raw_hot": 195411,
       "num": 195411,
       "word": "白鹿灰色大衣贝雷帽上班路透",
@@ -939,6 +1059,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 183262,
+      "num": 176823,
+      "word": "梅西赛后采访发飙",
+      "onboard_time": 1670645955,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 181948,
       "num": 181948,
       "word": "圣马丁",
@@ -963,12 +1091,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 176964,
+      "num": 176964,
+      "word": "六级预测",
+      "onboard_time": 1670645234,
+      "rank": 45,
+      "category": "教育"
+    },
+    {
       "raw_hot": 173452,
       "num": 173452,
       "word": "少数人可能是新冠流感双重感染",
       "onboard_time": 1670642714,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 172618,
+      "num": 172618,
+      "word": "杨坤出道20年第11张专辑",
+      "onboard_time": 1670646017,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 170535,
@@ -1033,14 +1177,6 @@
       "onboard_time": 1670588359,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 157861,
-      "num": 157861,
-      "word": "六级",
-      "onboard_time": 1670594538,
-      "rank": 42,
-      "category": "教育"
     },
     {
       "raw_hot": 157371,
@@ -1129,6 +1265,14 @@
       "onboard_time": 1670612114,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 133489,
+      "num": 478011,
+      "word": "是我没想到的反转了",
+      "onboard_time": 1670644875,
+      "rank": 14,
+      "category": "情感"
     },
     {
       "raw_hot": 131765,
