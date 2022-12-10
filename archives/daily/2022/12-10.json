@@ -1,6 +1,6 @@
 {
   "startTime": 1670603204032,
-  "endTime": 1670647148334,
+  "endTime": 1670649388576,
   "band_list": [
     {
       "raw_hot": 11360361,
@@ -72,6 +72,14 @@
       "word": "内马尔状态",
       "onboard_time": 1670602397,
       "rank": 12,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2756020,
+      "num": 2756020,
+      "word": "梅西赛后采访发飙",
+      "onboard_time": 1670645955,
+      "rank": 46,
       "category": "体育"
     },
     {
@@ -171,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1430032,
+      "num": 1430032,
+      "word": "荷兰阿根廷冲突",
+      "onboard_time": 1670645536,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1385906,
       "num": 1385906,
       "word": "巴西队又双叒有人染白发了",
@@ -216,14 +232,6 @@
       "word": "阿根廷门将神了",
       "onboard_time": 1670624229,
       "rank": 47,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1249318,
-      "num": 1249318,
-      "word": "梅西赛后采访发飙",
-      "onboard_time": 1670645955,
-      "rank": 46,
       "category": "体育"
     },
     {
@@ -283,20 +291,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 882757,
+      "num": 882757,
+      "word": "学生因手抄试卷晚交作业引老师泪目",
+      "onboard_time": 1670644218,
+      "rank": 10,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 879267,
       "num": 879267,
       "word": "4人毒杀89只狗",
       "onboard_time": 1670599518,
       "rank": 6,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 857864,
-      "num": 857864,
-      "word": "荷兰阿根廷冲突",
-      "onboard_time": 1670645536,
-      "rank": 21,
-      "category": "体育"
     },
     {
       "raw_hot": 856152,
@@ -329,14 +337,6 @@
       "onboard_time": 1670642416,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 713531,
-      "num": 713531,
-      "word": "学生因手抄试卷晚交作业引老师泪目",
-      "onboard_time": 1670644218,
-      "rank": 10,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 687133,
@@ -393,6 +393,22 @@
       "onboard_time": 1670635089,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 632713,
+      "num": 632713,
+      "word": "新川来了第二个李薇",
+      "onboard_time": 1670643734,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 632605,
+      "num": 632605,
+      "word": "于正称白鹿以爱为营确定时无男主角",
+      "onboard_time": 1670647276,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 626469,
@@ -467,12 +483,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 526885,
-      "num": 526885,
-      "word": "新川来了第二个李薇",
-      "onboard_time": 1670643734,
-      "rank": 16,
-      "category": "影视"
+      "raw_hot": 539474,
+      "num": 539474,
+      "word": "女子因病被男友家嫌弃爸爸气到抹泪",
+      "onboard_time": 1670647455,
+      "rank": 12,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 525959,
@@ -489,6 +505,30 @@
       "onboard_time": 1670637973,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 518723,
+      "num": 518723,
+      "word": "女子买鞋穿4年掉色卖家仍暖心售后",
+      "onboard_time": 1670645655,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 497343,
+      "num": 497343,
+      "word": "梅西炮轰裁判",
+      "onboard_time": 1670646195,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 458379,
+      "num": 458379,
+      "word": "六级翻译",
+      "onboard_time": 1670644875,
+      "rank": 25,
+      "category": "教育"
     },
     {
       "raw_hot": 456870,
@@ -521,6 +561,14 @@
       "onboard_time": 1670645894,
       "rank": 17,
       "category": "教育"
+    },
+    {
+      "raw_hot": 435338,
+      "num": 435338,
+      "word": "柳智宇还俗后宣布恋情",
+      "onboard_time": 1670644694,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 435336,
@@ -611,22 +659,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 389089,
-      "num": 389089,
-      "word": "柳智宇还俗后宣布恋情",
-      "onboard_time": 1670644694,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 385343,
-      "num": 385343,
-      "word": "六级翻译",
-      "onboard_time": 1670644875,
-      "rank": 25,
-      "category": "教育"
-    },
-    {
       "raw_hot": 384126,
       "num": 255783,
       "word": "荷兰半场0比1阿根廷",
@@ -641,6 +673,14 @@
       "onboard_time": 1670636892,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 373863,
+      "num": 373863,
+      "word": "新冠阳性吃消炎药有用吗",
+      "onboard_time": 1670648235,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 370337,
@@ -811,14 +851,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 311195,
-      "num": 311195,
-      "word": "梅西炮轰裁判",
-      "onboard_time": 1670646195,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 310014,
       "num": 310014,
       "word": "内马尔点球",
@@ -987,6 +1019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 238546,
+      "num": 238546,
+      "word": "薛凯琪扮演的冯程程",
+      "onboard_time": 1670648355,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 235976,
       "num": 235976,
       "word": "不用再担心核酸阳性医院不接诊",
@@ -1003,14 +1043,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 226109,
-      "num": 226109,
-      "word": "女子买鞋穿4年掉色卖家仍暖心售后",
-      "onboard_time": 1670645655,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 225080,
       "num": 225080,
       "word": "陈飞宇谢谢观众的审判",
@@ -1025,6 +1057,14 @@
       "onboard_time": 1670645894,
       "rank": 42,
       "category": "教育"
+    },
+    {
+      "raw_hot": 197307,
+      "num": 147215,
+      "word": "陈飞宇冬日焰火故事感大片",
+      "onboard_time": 1670649377,
+      "rank": 47,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 195411,
@@ -1091,6 +1131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 181583,
+      "num": 181583,
+      "word": "大马丁怒批裁判",
+      "onboard_time": 1670647819,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 179574,
       "num": 179574,
       "word": "利瓦科维奇 身价",
@@ -1147,12 +1195,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 166417,
+      "num": 166417,
+      "word": "四级听力答案",
+      "onboard_time": 1670649021,
+      "rank": 40,
+      "category": "教育"
+    },
+    {
       "raw_hot": 165660,
       "num": 165660,
       "word": "看完卿卿日常准备卿断食",
       "onboard_time": 1670634491,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 165027,
+      "num": 165027,
+      "word": "郭晓婷说钮钴禄如玥一定能笑到最后",
+      "onboard_time": 1670648777,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 164948,
@@ -1171,6 +1235,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 164297,
+      "num": 164297,
+      "word": "梅西黄牌",
+      "onboard_time": 1670648478,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 163654,
       "num": 163654,
       "word": "世界杯直播",
@@ -1185,6 +1257,14 @@
       "onboard_time": 1670644875,
       "rank": 14,
       "category": "情感"
+    },
+    {
+      "raw_hot": 161063,
+      "num": 146410,
+      "word": "运动员脚踝受伤危害有多大",
+      "onboard_time": 1670649377,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 161027,
@@ -1225,6 +1305,22 @@
       "onboard_time": 1670640434,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 155095,
+      "num": 155095,
+      "word": "内马尔曾说这是最后一届世界杯",
+      "onboard_time": 1670648896,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 148111,
+      "num": 148111,
+      "word": "好身材运动伴侣太好嗑了",
+      "onboard_time": 1670644634,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 147545,
