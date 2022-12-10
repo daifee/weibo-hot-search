@@ -1,6 +1,6 @@
 {
   "startTime": 1670689529040,
-  "endTime": 1670707996843,
+  "endTime": 1670710636498,
   "band_list": [
     {
       "raw_hot": 13790167,
@@ -259,6 +259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 435496,
+      "num": 435496,
+      "word": "英格兰1比2法国",
+      "onboard_time": 1670706372,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 405828,
       "num": 405828,
       "word": "你好星期六 嗑cp",
@@ -312,14 +320,6 @@
       "word": "阿根廷 预测",
       "onboard_time": 1670693834,
       "rank": 14,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 297004,
-      "num": 297004,
-      "word": "英格兰1比2法国",
-      "onboard_time": 1670706372,
-      "rank": 8,
       "category": "体育"
     },
     {
@@ -715,6 +715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 86067,
+      "num": 86067,
+      "word": "一个家庭手握多少资产才算有钱",
+      "onboard_time": 1670706852,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 79703,
       "num": 56752,
       "word": "詹俊说摩洛哥练了金钟罩铁布衫",
@@ -755,12 +763,12 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 36796,
-      "num": 36796,
-      "word": "一个家庭手握多少资产才算有钱",
-      "onboard_time": 1670706852,
-      "rank": 49,
-      "category": "财经"
+      "raw_hot": 38859,
+      "num": 38859,
+      "word": "谁能看懂潘粤明画的C罗",
+      "onboard_time": 1670689634,
+      "rank": 33,
+      "category": "体育,艺人"
     }
   ],
   "hotgov_list": [

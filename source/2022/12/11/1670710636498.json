@@ -1,0 +1,410 @@
+{
+  "runTime": 1670710636498,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 676720,
+        "num": 676720,
+        "word": "C罗哭了",
+        "onboard_time": 1670692035,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 651189,
+        "num": 651189,
+        "word": "英格兰vs法国",
+        "onboard_time": 1670691436,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 435496,
+        "num": 435496,
+        "word": "英格兰1比2法国",
+        "onboard_time": 1670706372,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 409243,
+        "num": 409243,
+        "word": "姆巴佩",
+        "onboard_time": 1670694075,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 312851,
+        "num": 312851,
+        "word": "梅西 诸神黄昏希望",
+        "onboard_time": 1670693177,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 266502,
+        "num": 266502,
+        "word": "摩洛哥1比0葡萄牙",
+        "onboard_time": 1670692220,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155217,
+        "num": 155217,
+        "word": "阳性第2天身体有多大变化",
+        "onboard_time": 1670681779,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154229,
+        "num": 154229,
+        "word": "阿根廷 预测",
+        "onboard_time": 1670693834,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19291,
+        "num": 129402,
+        "word": "葡萄牙淘汰",
+        "onboard_time": 1670691799,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 53584,
+        "num": 128587,
+        "word": "体温超过38.5℃就要吃退烧药",
+        "onboard_time": 1670664378,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128489,
+        "num": 128489,
+        "word": "李现说他的青春结束了",
+        "onboard_time": 1670698816,
+        "rank": 10,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 122548,
+        "num": 122548,
+        "word": "阿根廷vs克罗地亚",
+        "onboard_time": 1670692035,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121000,
+        "num": 121000,
+        "word": "摩洛哥晋级4强",
+        "onboard_time": 1670692220,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116575,
+        "num": 116575,
+        "word": "内马尔说这是最伤心的失利",
+        "onboard_time": 1670693536,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88673,
+        "num": 88673,
+        "word": "钟南山称得了奥密克戎相当于接种疫苗",
+        "onboard_time": 1670683399,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86067,
+        "num": 86067,
+        "word": "一个家庭手握多少资产才算有钱",
+        "onboard_time": 1670706852,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 84804,
+        "num": 84804,
+        "word": "C罗",
+        "onboard_time": 1670684540,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 79690,
+        "num": 79690,
+        "word": "佩佩 遗憾",
+        "onboard_time": 1670692394,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 76194,
+        "num": 76194,
+        "word": "卡卡预测的冠军就剩英格兰了",
+        "onboard_time": 1670679319,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 73403,
+        "num": 73403,
+        "word": "摩洛哥vs葡萄牙",
+        "onboard_time": 1670657117,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 73076,
+        "num": 73076,
+        "word": "女子买衣服花600元一看标价499",
+        "onboard_time": 1670682679,
+        "rank": 20,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 67137,
+        "num": 67137,
+        "word": "从小小罗到C罗",
+        "onboard_time": 1670692756,
+        "rank": 21,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 64002,
+        "num": 64002,
+        "word": "世界杯",
+        "onboard_time": 1670670981,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 55591,
+        "num": 55591,
+        "word": "詹俊说摩洛哥练了金钟罩铁布衫",
+        "onboard_time": 1670699172,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 52071,
+        "num": 52071,
+        "word": "C罗背影",
+        "onboard_time": 1670692454,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 51250,
+        "num": 51250,
+        "word": "摩洛哥创造历史",
+        "onboard_time": 1670692698,
+        "rank": 25,
+        "category": "体育,国外要闻"
+      },
+      {
+        "raw_hot": 49504,
+        "num": 49504,
+        "word": "范世錡迟到激怒尔冬升",
+        "onboard_time": 1670683281,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 48694,
+        "num": 48694,
+        "word": "女子提醒楼上太吵萌娃奶声奶气道歉",
+        "onboard_time": 1670692756,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47755,
+        "num": 47755,
+        "word": "B费",
+        "onboard_time": 1670691680,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26712,
+        "num": 45863,
+        "word": "宝妈被追尾1岁娃从车中滚落",
+        "onboard_time": 1670681060,
+        "rank": 29,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 45710,
+        "num": 45710,
+        "word": "楚阿梅尼世界波",
+        "onboard_time": 1670700552,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 40561,
+        "num": 40561,
+        "word": "凯恩点球破门",
+        "onboard_time": 1670704691,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 39217,
+        "num": 39217,
+        "word": "北京呼吁新冠无症状和轻症患者勿打120",
+        "onboard_time": 1670678360,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38859,
+        "num": 38859,
+        "word": "谁能看懂潘粤明画的C罗",
+        "onboard_time": 1670689634,
+        "rank": 33,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 36876,
+        "num": 36876,
+        "word": "吉鲁头球破门",
+        "onboard_time": 1670706132,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 35668,
+        "num": 35668,
+        "word": "钟南山预计明年上半年能恢复到疫情前生活",
+        "onboard_time": 1670672959,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33217,
+        "num": 33217,
+        "word": "第一次见耳朵这么小的狗子",
+        "onboard_time": 1670687057,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 29890,
+        "num": 29890,
+        "word": "老人求助买苹果店老板专挑小的烂的",
+        "onboard_time": 1670684301,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29333,
+        "num": 29333,
+        "word": "财阀家的小儿子",
+        "onboard_time": 1670684540,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 27310,
+        "num": 27310,
+        "word": "深圳一公园回应设露天公厕引争议",
+        "onboard_time": 1670681779,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37881,
+        "num": 27092,
+        "word": "桑托斯 战术",
+        "onboard_time": 1670694315,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26213,
+        "num": 26213,
+        "word": "舍不得C罗",
+        "onboard_time": 1670695221,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24978,
+        "num": 24978,
+        "word": "你好星期六 嗑cp",
+        "onboard_time": 1670682139,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24886,
+        "num": 24886,
+        "word": "余霜 黑裙",
+        "onboard_time": 1670672061,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 22351,
+        "num": 22351,
+        "word": "异地恋分手还要再见一面吗",
+        "onboard_time": 1670676140,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 21952,
+        "num": 21952,
+        "word": "Rookie转会原因",
+        "onboard_time": 1670687477,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 21877,
+        "num": 21877,
+        "word": "惠英红质疑薛凯琪戏路",
+        "onboard_time": 1670685079,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21856,
+        "num": 21856,
+        "word": "英格兰半场0比1法国",
+        "onboard_time": 1670702172,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21771,
+        "num": 21771,
+        "word": "许半夏把钢厂法人变更为童骁骑",
+        "onboard_time": 1670688438,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 21548,
+        "num": 21548,
+        "word": "财阀家的小儿子第十集",
+        "onboard_time": 1670686098,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#从习主席署名文章看大国外交#"
+    }
+  }
+}
