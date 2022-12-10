@@ -1,0 +1,410 @@
+{
+  "runTime": 1670679262355,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2480540,
+        "num": 2480540,
+        "word": "钟南山预计明年上半年能恢复到疫情前生活",
+        "onboard_time": 1670672959,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 908427,
+        "num": 908427,
+        "word": "叶一茜说森碟是家里运动健将",
+        "onboard_time": 1670675301,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 335140,
+        "num": 839807,
+        "word": "得了新冠怎么自愈",
+        "onboard_time": 1670663423,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1026920,
+        "num": 839432,
+        "word": "高辛夷怀孕",
+        "onboard_time": 1670674880,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 825260,
+        "num": 825260,
+        "word": "体温超过38.5℃就要吃退烧药",
+        "onboard_time": 1670664378,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 630266,
+        "num": 630266,
+        "word": "东北人吃黄桃罐头必须喝汤吗",
+        "onboard_time": 1670674160,
+        "rank": 5,
+        "category": "美食,情感"
+      },
+      {
+        "raw_hot": 575005,
+        "num": 575005,
+        "word": "三体建模 丑",
+        "onboard_time": 1670661197,
+        "rank": 6,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 520641,
+        "num": 520641,
+        "word": "摩洛哥vs葡萄牙",
+        "onboard_time": 1670657117,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 514993,
+        "num": 514993,
+        "word": "马龙",
+        "onboard_time": 1670669479,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 485292,
+        "num": 485292,
+        "word": "葡萄牙首发",
+        "onboard_time": 1670673319,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 542836,
+        "num": 485282,
+        "word": "余霜 黑裙",
+        "onboard_time": 1670672061,
+        "rank": 10,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 503198,
+        "num": 476997,
+        "word": "刘强东分享感染新冠经历",
+        "onboard_time": 1670659037,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 463174,
+        "num": 463174,
+        "word": "阳华提离婚秦施慌了",
+        "onboard_time": 1670673979,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 436396,
+        "num": 436396,
+        "word": "猪哼 hero",
+        "onboard_time": 1670678539,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 428964,
+        "num": 428964,
+        "word": "异地恋分手还要再见一面吗",
+        "onboard_time": 1670676140,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 428842,
+        "num": 428842,
+        "word": "新冠病毒是否会通过下水管道传播",
+        "onboard_time": 1670672959,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 424230,
+        "num": 424230,
+        "word": "六级答案",
+        "onboard_time": 1670665223,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 377622,
+        "num": 377622,
+        "word": "TheShy年度最受欢迎选手",
+        "onboard_time": 1670676917,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 352383,
+        "num": 352383,
+        "word": "Hero",
+        "onboard_time": 1670674521,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 300605,
+        "num": 300605,
+        "word": "孕产妇感染了影响胎儿吗",
+        "onboard_time": 1670666059,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291554,
+        "num": 291554,
+        "word": "吴磊周雨彤摸脸杀",
+        "onboard_time": 1670677229,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 275835,
+        "num": 275835,
+        "word": "蜜蜂狗",
+        "onboard_time": 1670676979,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 273607,
+        "num": 273607,
+        "word": "赵垒见许半夏父母被问工资",
+        "onboard_time": 1670676740,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 271727,
+        "num": 271727,
+        "word": "世界杯",
+        "onboard_time": 1670670981,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 245596,
+        "num": 245596,
+        "word": "内娱舞台西装杀",
+        "onboard_time": 1670675660,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 239717,
+        "num": 239717,
+        "word": "六级听力",
+        "onboard_time": 1670666427,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 236839,
+        "num": 236839,
+        "word": "诺伊尔赛季报销",
+        "onboard_time": 1670673080,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 234151,
+        "num": 234151,
+        "word": "卡瓦尼说C罗是他遇到最好的前锋",
+        "onboard_time": 1670673799,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 233839,
+        "num": 233839,
+        "word": "孙悦给儿子安利邓紫棋",
+        "onboard_time": 1670673679,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225527,
+        "num": 225527,
+        "word": "墨白开播就求婚",
+        "onboard_time": 1670674340,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 248401,
+        "num": 223397,
+        "word": "钟南山称重复感染在一段时间内大概率不会发生",
+        "onboard_time": 1670678720,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219551,
+        "num": 219551,
+        "word": "删掉喜欢的人真的会忘记吗",
+        "onboard_time": 1670667024,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 209552,
+        "num": 209552,
+        "word": "闪耀暖暖",
+        "onboard_time": 1670675425,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 209041,
+        "num": 209041,
+        "word": "世界杯四强诞生",
+        "onboard_time": 1670656038,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203843,
+        "num": 203843,
+        "word": "北京呼吁新冠无症状和轻症患者勿打120",
+        "onboard_time": 1670678360,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203508,
+        "num": 203508,
+        "word": "你好星期六",
+        "onboard_time": 1670672600,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196198,
+        "num": 196198,
+        "word": "白岩松支持00后整顿职场",
+        "onboard_time": 1670672122,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188556,
+        "num": 188556,
+        "word": "星火",
+        "onboard_time": 1670671340,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 187946,
+        "num": 187946,
+        "word": "六级听力答案",
+        "onboard_time": 1670669779,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 187303,
+        "num": 187303,
+        "word": "果然奶牛猫都是神经病",
+        "onboard_time": 1670677399,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 186858,
+        "num": 186858,
+        "word": "范丞丞说马上进下一个组",
+        "onboard_time": 1670677280,
+        "rank": 40,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 186458,
+        "num": 186458,
+        "word": "王楚钦2比3徐瑛彬",
+        "onboard_time": 1670675781,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182902,
+        "num": 182902,
+        "word": "摩洛哥 预测",
+        "onboard_time": 1670658857,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182492,
+        "num": 182492,
+        "word": "虞书欣翻跳untouchable",
+        "onboard_time": 1670670139,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 182157,
+        "num": 182157,
+        "word": "许半夏被前夫打花絮",
+        "onboard_time": 1670678900,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 171066,
+        "num": 171066,
+        "word": "杨幂说下一个角色一定是不一样的",
+        "onboard_time": 1670669537,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 157204,
+        "num": 157204,
+        "word": "公交车军人专座比人高遭吐槽",
+        "onboard_time": 1670661558,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190242,
+        "num": 156878,
+        "word": "LESSERAFIM2022MMA表演舞台练习室版",
+        "onboard_time": 1670679198,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 164015,
+        "num": 156820,
+        "word": "在聊天中标点符号的重要性",
+        "onboard_time": 1670679198,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 156316,
+        "num": 156316,
+        "word": "居然被一个零钱包吓到了",
+        "onboard_time": 1670669240,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#构建新时代中阿命运共同体#"
+    }
+  }
+}

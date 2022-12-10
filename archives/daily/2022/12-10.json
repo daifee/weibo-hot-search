@@ -1,6 +1,6 @@
 {
   "startTime": 1670603204032,
-  "endTime": 1670678535627,
+  "endTime": 1670679262355,
   "band_list": [
     {
       "raw_hot": 11360361,
@@ -339,6 +339,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 1026920,
+      "num": 839432,
+      "word": "高辛夷怀孕",
+      "onboard_time": 1670674880,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 992087,
       "num": 321790,
       "word": "王大陆蔡卓宜约会像运动会",
@@ -353,14 +361,6 @@
       "onboard_time": 1670594001,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 978548,
-      "num": 832944,
-      "word": "高辛夷怀孕",
-      "onboard_time": 1670674880,
-      "rank": 12,
-      "category": "影视"
     },
     {
       "raw_hot": 940535,
@@ -385,6 +385,14 @@
       "onboard_time": 1670666059,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 908427,
+      "num": 908427,
+      "word": "叶一茜说森碟是家里运动健将",
+      "onboard_time": 1670675301,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 903420,
@@ -425,14 +433,6 @@
       "onboard_time": 1670641218,
       "rank": 13,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 825484,
-      "num": 825484,
-      "word": "叶一茜说森碟是家里运动健将",
-      "onboard_time": 1670675301,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 806857,
@@ -636,7 +636,7 @@
     },
     {
       "raw_hot": 603977,
-      "num": 451903,
+      "num": 485282,
       "word": "余霜 黑裙",
       "onboard_time": 1670672061,
       "rank": 11,
@@ -803,6 +803,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 485292,
+      "num": 485292,
+      "word": "葡萄牙首发",
+      "onboard_time": 1670673319,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 476649,
       "num": 476649,
       "word": "内马尔曾说这是最后一届世界杯",
@@ -875,6 +883,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 436396,
+      "num": 436396,
+      "word": "猪哼 hero",
+      "onboard_time": 1670678539,
+      "rank": 13,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 435782,
       "num": 435782,
       "word": "拉布拉多警犬因肥胖被要求减肥",
@@ -913,6 +929,14 @@
       "onboard_time": 1670604020,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 428964,
+      "num": 428964,
+      "word": "异地恋分手还要再见一面吗",
+      "onboard_time": 1670676140,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 423667,
@@ -1035,6 +1059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 377622,
+      "num": 377622,
+      "word": "TheShy年度最受欢迎选手",
+      "onboard_time": 1670676917,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 376549,
       "num": 376549,
       "word": "财阀家的小儿子反转",
@@ -1113,14 +1145,6 @@
       "onboard_time": 1670672122,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 358904,
-      "num": 358904,
-      "word": "异地恋分手还要再见一面吗",
-      "onboard_time": 1670676140,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 355610,
@@ -1307,14 +1331,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 315539,
-      "num": 315539,
-      "word": "TheShy年度最受欢迎选手",
-      "onboard_time": 1670676917,
-      "rank": 17,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 310014,
       "num": 310014,
       "word": "内马尔点球",
@@ -1363,14 +1379,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 297414,
-      "num": 297414,
-      "word": "葡萄牙首发",
-      "onboard_time": 1670673319,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 296554,
       "num": 296554,
       "word": "居然被一个零钱包吓到了",
@@ -1409,6 +1417,14 @@
       "onboard_time": 1670645234,
       "rank": 31,
       "category": "教育"
+    },
+    {
+      "raw_hot": 291554,
+      "num": 291554,
+      "word": "吴磊周雨彤摸脸杀",
+      "onboard_time": 1670677229,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 290369,
@@ -1459,14 +1475,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 280067,
-      "num": 280067,
-      "word": "吴磊周雨彤摸脸杀",
-      "onboard_time": 1670677229,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 277931,
       "num": 277931,
       "word": "央视2023电视剧片单",
@@ -1481,6 +1489,14 @@
       "onboard_time": 1670585539,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 275835,
+      "num": 275835,
+      "word": "蜜蜂狗",
+      "onboard_time": 1670676979,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 271240,
@@ -1569,6 +1585,14 @@
       "onboard_time": 1670673799,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 248401,
+      "num": 223397,
+      "word": "钟南山称重复感染在一段时间内大概率不会发生",
+      "onboard_time": 1670678720,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 248109,
@@ -1683,6 +1707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 233839,
+      "num": 233839,
+      "word": "孙悦给儿子安利邓紫棋",
+      "onboard_time": 1670673679,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 233445,
       "num": 233445,
       "word": "大马丁怒批裁判",
@@ -1705,14 +1737,6 @@
       "onboard_time": 1670601739,
       "rank": 29,
       "category": "影视"
-    },
-    {
-      "raw_hot": 220736,
-      "num": 220736,
-      "word": "孙悦给儿子安利邓紫棋",
-      "onboard_time": 1670673679,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 216806,
@@ -1745,14 +1769,6 @@
       "onboard_time": 1670649377,
       "rank": 47,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 211140,
-      "num": 211140,
-      "word": "蜜蜂狗",
-      "onboard_time": 1670676979,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 210718,
@@ -1795,6 +1811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 209552,
+      "num": 209552,
+      "word": "闪耀暖暖",
+      "onboard_time": 1670675425,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 209410,
       "num": 209410,
       "word": "白敬亭南来北往造型",
@@ -1803,12 +1827,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 205229,
-      "num": 205229,
-      "word": "闪耀暖暖",
-      "onboard_time": 1670675425,
-      "rank": 45,
-      "category": "游戏"
+      "raw_hot": 203843,
+      "num": 203843,
+      "word": "北京呼吁新冠无症状和轻症患者勿打120",
+      "onboard_time": 1670678360,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 195650,
@@ -1851,6 +1875,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 190242,
+      "num": 156878,
+      "word": "LESSERAFIM2022MMA表演舞台练习室版",
+      "onboard_time": 1670679198,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 187303,
+      "num": 187303,
+      "word": "果然奶牛猫都是神经病",
+      "onboard_time": 1670677399,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 187284,
       "num": 187284,
       "word": "阿根廷首发",
@@ -1865,6 +1905,14 @@
       "onboard_time": 1670673559,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 186858,
+      "num": 186858,
+      "word": "范丞丞说马上进下一个组",
+      "onboard_time": 1670677280,
+      "rank": 46,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 186264,
@@ -1904,6 +1952,14 @@
       "word": "宋茜陈妍希温暖的甜蜜的闺蜜大片",
       "onboard_time": 1670666598,
       "rank": 36,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 182157,
+      "num": 182157,
+      "word": "许半夏被前夫打花絮",
+      "onboard_time": 1670678900,
+      "rank": 44,
       "category": "影视"
     },
     {
@@ -2001,14 +2057,6 @@
       "onboard_time": 1670646017,
       "rank": 49,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 171167,
-      "num": 171167,
-      "word": "果然奶牛猫都是神经病",
-      "onboard_time": 1670677399,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 170686,
@@ -2123,6 +2171,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 164015,
+      "num": 156820,
+      "word": "在聊天中标点符号的重要性",
+      "onboard_time": 1670679198,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 163654,
       "num": 163654,
       "word": "世界杯直播",
@@ -2161,14 +2217,6 @@
       "onboard_time": 1670675600,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 161305,
-      "num": 161305,
-      "word": "范丞丞说马上进下一个组",
-      "onboard_time": 1670677280,
-      "rank": 46,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 161063,
@@ -2473,14 +2521,6 @@
       "onboard_time": 1670671578,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 127050,
-      "num": 137036,
-      "word": "北京呼吁新冠无症状和轻症患者勿打120",
-      "onboard_time": 1670678360,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 127000,
