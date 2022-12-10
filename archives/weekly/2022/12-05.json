@@ -1,6 +1,6 @@
 {
   "startTime": 1670171104099,
-  "endTime": 1670711614760,
+  "endTime": 1670714329026,
   "band_list": [
     {
       "raw_hot": 13790167,
@@ -2971,6 +2971,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 663707,
+      "num": 663707,
+      "word": "英格兰1比2法国",
+      "onboard_time": 1670706372,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 663306,
       "num": 663306,
       "word": "世界杯四强诞生",
@@ -3808,14 +3816,6 @@
       "word": "巴西半场4比0韩国",
       "onboard_time": 1670270587,
       "rank": 7,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 551168,
-      "num": 551168,
-      "word": "英格兰1比2法国",
-      "onboard_time": 1670706372,
-      "rank": 8,
       "category": "体育"
     },
     {
@@ -4921,6 +4921,14 @@
       "onboard_time": 1670377570,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 443959,
+      "num": 443959,
+      "word": "李现说他的青春结束了",
+      "onboard_time": 1670698816,
+      "rank": 30,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 443514,
@@ -6672,6 +6680,14 @@
       "word": "赵露思新剧开机状态",
       "onboard_time": 1670478674,
       "rank": 24,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 326312,
+      "num": 326312,
+      "word": "陈晓说陈妍希的演技是殿堂级的",
+      "onboard_time": 1670713869,
+      "rank": 8,
       "category": "影视"
     },
     {
@@ -9355,6 +9371,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 216980,
+      "num": 216980,
+      "word": "一个家庭手握多少资产才算有钱",
+      "onboard_time": 1670706852,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 216960,
       "num": 204778,
       "word": "陈飞宇周也倒数说爱你拍摄花絮视频",
@@ -11739,14 +11763,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 159469,
-      "num": 159469,
-      "word": "李现说他的青春结束了",
-      "onboard_time": 1670698816,
-      "rank": 30,
-      "category": "体育,艺人"
-    },
-    {
       "raw_hot": 159398,
       "num": 159398,
       "word": "我和电竞就差一个转场",
@@ -11984,6 +12000,14 @@
       "word": "山西千年盐湖开满硝花",
       "onboard_time": 1670427314,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 154496,
+      "num": 154496,
+      "word": "女子提醒楼上太吵萌娃奶声奶气道歉",
+      "onboard_time": 1670692756,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -12473,6 +12497,14 @@
       "onboard_time": 1670412192,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 145049,
+      "num": 145049,
+      "word": "凯恩失点",
+      "onboard_time": 1670713869,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 144981,
@@ -13915,14 +13947,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 115597,
-      "num": 115597,
-      "word": "女子提醒楼上太吵萌娃奶声奶气道歉",
-      "onboard_time": 1670692756,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 115143,
       "num": 115143,
       "word": "警方回应女子称被公公家暴满脸血",
@@ -14049,6 +14073,14 @@
       "onboard_time": 1670552652,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 111746,
+      "num": 111746,
+      "word": "张远谈自己的初恋",
+      "onboard_time": 1670714110,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 111562,
@@ -14467,14 +14499,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 99608,
-      "num": 99608,
-      "word": "一个家庭手握多少资产才算有钱",
-      "onboard_time": 1670706852,
-      "rank": 49,
-      "category": "财经"
-    },
-    {
       "raw_hot": 98394,
       "num": 200769,
       "word": "年轻人是懂看球仪式感的",
@@ -14788,7 +14812,7 @@
     },
     {
       "raw_hot": 79703,
-      "num": 58787,
+      "num": 79035,
       "word": "詹俊说摩洛哥练了金钟罩铁布衫",
       "onboard_time": 1670699172,
       "rank": 47,
@@ -14801,6 +14825,14 @@
       "onboard_time": 1670339830,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 77907,
+      "num": 77907,
+      "word": "法国vs摩洛哥",
+      "onboard_time": 1670713629,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 76924,
@@ -14891,6 +14923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 68624,
+      "num": 68624,
+      "word": "葡萄牙出局",
+      "onboard_time": 1670713690,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 68464,
       "num": 68464,
       "word": "佩佩为C罗戴袖标",
@@ -14905,6 +14945,14 @@
       "onboard_time": 1670316549,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 67780,
+      "num": 67780,
+      "word": "本届世界杯最大黑马",
+      "onboard_time": 1670693476,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 67710,
@@ -14995,6 +15043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 58378,
+      "num": 58378,
+      "word": "凯恩哭了",
+      "onboard_time": 1670714110,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 55546,
       "num": 55546,
       "word": "周茜要把陈宇宙忘了",
@@ -15080,6 +15136,14 @@
       "word": "格雷罗破门",
       "onboard_time": 1670359508,
       "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 47379,
+      "num": 47379,
+      "word": "韩乔生说C罗用意志力与岁月对抗",
+      "onboard_time": 1670714288,
+      "rank": 48,
       "category": "体育"
     },
     {
