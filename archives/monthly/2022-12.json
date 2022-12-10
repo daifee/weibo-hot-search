@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1670693599580,
+  "endTime": 1670696527694,
   "band_list": [
     {
       "raw_hot": 13790167,
@@ -1067,6 +1067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1741928,
+      "num": 1741928,
+      "word": "梅西 诸神黄昏希望",
+      "onboard_time": 1670693177,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1737084,
       "num": 2379892,
       "word": "夫妻准备办离婚丈夫路上兜了8圈",
@@ -1867,6 +1875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1257268,
+      "num": 1257268,
+      "word": "内马尔说这是最伤心的失利",
+      "onboard_time": 1670693536,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1255833,
       "num": 1255833,
       "word": "多地核酸检测采购项目宣告终止",
@@ -2016,14 +2032,6 @@
       "word": "突尼斯vs法国",
       "onboard_time": 1669819696,
       "rank": 11,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1190736,
-      "num": 1052936,
-      "word": "梅西 诸神黄昏希望",
-      "onboard_time": 1670693177,
-      "rank": 10,
       "category": "体育"
     },
     {
@@ -7219,6 +7227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 464129,
+      "num": 464129,
+      "word": "摩洛哥晋级4强",
+      "onboard_time": 1670692220,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 463986,
       "num": 463986,
       "word": "六级翻译",
@@ -8633,6 +8649,14 @@
       "onboard_time": 1670465290,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 389881,
+      "num": 389881,
+      "word": "从小小罗到C罗",
+      "onboard_time": 1670692756,
+      "rank": 26,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 389774,
@@ -10920,6 +10944,14 @@
       "word": "英格兰3比0塞内加尔",
       "onboard_time": 1670187909,
       "rank": 6,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 299950,
+      "num": 299950,
+      "word": "阿根廷 预测",
+      "onboard_time": 1670693834,
+      "rank": 14,
       "category": "体育"
     },
     {
@@ -13473,14 +13505,6 @@
       "onboard_time": 1670223851,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 227297,
-      "num": 227297,
-      "word": "从小小罗到C罗",
-      "onboard_time": 1670692756,
-      "rank": 26,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 227253,
@@ -19107,6 +19131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 132333,
+      "num": 132333,
+      "word": "姆巴佩领衔英法大战",
+      "onboard_time": 1670694674,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132243,
       "num": 133911,
       "word": "小猫咪防盗窗上丝滑穿行",
@@ -20219,14 +20251,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 116570,
-      "num": 116570,
-      "word": "内马尔说这是最伤心的失利",
-      "onboard_time": 1670693536,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 116446,
       "num": 116446,
       "word": "原来画画如此简单",
@@ -21273,6 +21297,14 @@
       "onboard_time": 1669887251,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 100131,
+      "num": 100131,
+      "word": "舍不得C罗",
+      "onboard_time": 1670695221,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 100021,
