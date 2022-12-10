@@ -1,6 +1,6 @@
 {
   "startTime": 1670603204032,
-  "endTime": 1670668496621,
+  "endTime": 1670670889912,
   "band_list": [
     {
       "raw_hot": 11360361,
@@ -203,6 +203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1481376,
+      "num": 1481376,
+      "word": "体温超过38.5℃就要吃退烧药",
+      "onboard_time": 1670664378,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1457144,
       "num": 1457144,
       "word": "疑智障儿子偷钱买卡片爸爸上门退钱被拒",
@@ -345,6 +353,14 @@
       "onboard_time": 1670649620,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 935786,
+      "num": 935786,
+      "word": "孕产妇感染了影响胎儿吗",
+      "onboard_time": 1670666059,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 903420,
@@ -507,14 +523,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 649212,
-      "num": 649212,
-      "word": "体温超过38.5℃就要吃退烧药",
-      "onboard_time": 1670664378,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 648334,
       "num": 648334,
       "word": "孟美岐线下演唱会票价",
@@ -595,12 +603,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 571073,
-      "num": 463822,
-      "word": "孕产妇感染了影响胎儿吗",
-      "onboard_time": 1670666059,
-      "rank": 14,
-      "category": "社会新闻"
+      "raw_hot": 568139,
+      "num": 568139,
+      "word": "摩洛哥vs葡萄牙",
+      "onboard_time": 1670657117,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 567308,
@@ -641,6 +649,14 @@
       "onboard_time": 1670591240,
       "rank": 11,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 548226,
+      "num": 548226,
+      "word": "马龙",
+      "onboard_time": 1670669479,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 525959,
@@ -699,6 +715,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 497472,
+      "num": 497472,
+      "word": "杨幂说下一个角色一定是不一样的",
+      "onboard_time": 1670669537,
+      "rank": 8,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 497343,
       "num": 497343,
       "word": "梅西炮轰裁判",
@@ -712,14 +736,6 @@
       "word": "内马尔曾说这是最后一届世界杯",
       "onboard_time": 1670648896,
       "rank": 44,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 476521,
-      "num": 476521,
-      "word": "摩洛哥vs葡萄牙",
-      "onboard_time": 1670657117,
-      "rank": 16,
       "category": "体育"
     },
     {
@@ -737,6 +753,14 @@
       "onboard_time": 1670652558,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 457256,
+      "num": 457256,
+      "word": "虞书欣翻跳untouchable",
+      "onboard_time": 1670670139,
+      "rank": 9,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 456870,
@@ -835,6 +859,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 420835,
+      "num": 420835,
+      "word": "删掉喜欢的人真的会忘记吗",
+      "onboard_time": 1670667024,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 419980,
       "num": 419980,
       "word": "摩洛哥 预测",
@@ -881,6 +913,14 @@
       "onboard_time": 1670634491,
       "rank": 31,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 405785,
+      "num": 405785,
+      "word": "六级阅读答案",
+      "onboard_time": 1670667623,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 404511,
@@ -1081,6 +1121,14 @@
       "onboard_time": 1670643314,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 324917,
+      "num": 324917,
+      "word": "吴磊嗑cp的表情三进阶",
+      "onboard_time": 1670669121,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 324646,
@@ -1307,6 +1355,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 260768,
+      "num": 260768,
+      "word": "Yoon宋雨琦Liz歌谣大祝祭剧透",
+      "onboard_time": 1670669179,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 256293,
       "num": 237221,
       "word": "卿卿日常 群像",
@@ -1361,6 +1417,14 @@
       "onboard_time": 1670595502,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 245610,
+      "num": 210464,
+      "word": "居然被一个零钱包吓到了",
+      "onboard_time": 1670669240,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 242760,
@@ -1419,22 +1483,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 235329,
-      "num": 235329,
-      "word": "删掉喜欢的人真的会忘记吗",
-      "onboard_time": 1670667024,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 234325,
-      "num": 234325,
-      "word": "六级阅读答案",
-      "onboard_time": 1670667623,
-      "rank": 29,
-      "category": "教育"
-    },
-    {
       "raw_hot": 233445,
       "num": 233445,
       "word": "大马丁怒批裁判",
@@ -1489,6 +1537,14 @@
       "onboard_time": 1670652679,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 210465,
+      "num": 210465,
+      "word": "墨白",
+      "onboard_time": 1670667680,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 210063,
@@ -1635,6 +1691,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 176458,
+      "num": 176458,
+      "word": "李永钦LoveTalk舞台直拍",
+      "onboard_time": 1670670623,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 174607,
       "num": 174607,
       "word": "管泽元寸头撞脸于震",
@@ -1673,6 +1737,14 @@
       "onboard_time": 1670638990,
       "rank": 45,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 170335,
+      "num": 160908,
+      "word": "李薇对尹峥撒娇花絮",
+      "onboard_time": 1670670025,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 168937,
@@ -1715,6 +1787,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 165478,
+      "num": 165478,
+      "word": "猪猪说能快一点吗我要窒息了",
+      "onboard_time": 1670668400,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 165027,
       "num": 165027,
       "word": "郭晓婷说钮钴禄如玥一定能笑到最后",
@@ -1729,14 +1809,6 @@
       "onboard_time": 1670580558,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 164787,
-      "num": 164787,
-      "word": "墨白",
-      "onboard_time": 1670667680,
-      "rank": 43,
-      "category": "影视"
     },
     {
       "raw_hot": 164433,
@@ -1795,6 +1867,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 159964,
+      "num": 159964,
+      "word": "命韵峋环两次看雪视频",
+      "onboard_time": 1670670381,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 159814,
       "num": 130278,
       "word": "吉克隽逸的胎毛刘海",
@@ -1833,6 +1913,14 @@
       "onboard_time": 1670655626,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 157843,
+      "num": 157843,
+      "word": "六级听力答案",
+      "onboard_time": 1670669779,
+      "rank": 43,
+      "category": "教育"
     },
     {
       "raw_hot": 157371,
@@ -1905,6 +1993,14 @@
       "onboard_time": 1670650336,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 148860,
+      "num": 148860,
+      "word": "灭火消防员救了一万只干饭鸡",
+      "onboard_time": 1670667979,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 148111,
@@ -2011,6 +2107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 132243,
+      "num": 133911,
+      "word": "小猫咪防盗窗上丝滑穿行",
+      "onboard_time": 1670670860,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 131765,
       "num": 134554,
       "word": "被考研人的一天整破防了",
@@ -2027,14 +2131,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 127929,
-      "num": 127929,
-      "word": "灭火消防员救了一万只干饭鸡",
-      "onboard_time": 1670667979,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 127000,
       "num": 127000,
       "word": "女子给流浪老人买鞋袜蹲地为其更换",
@@ -2049,14 +2145,6 @@
       "onboard_time": 1670653997,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 123906,
-      "num": 125484,
-      "word": "猪猪说能快一点吗我要窒息了",
-      "onboard_time": 1670668400,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 123044,
