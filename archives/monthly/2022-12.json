@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1670672000949,
+  "endTime": 1670675607084,
   "band_list": [
     {
       "raw_hot": 11360361,
@@ -320,6 +320,14 @@
       "word": "杭州疫情防控",
       "onboard_time": 1670168533,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2816380,
+      "num": 2816380,
+      "word": "钟南山预计明年上半年能恢复到疫情前生活",
+      "onboard_time": 1670672959,
+      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -1803,6 +1811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1250897,
+      "num": 1250897,
+      "word": "马龙",
+      "onboard_time": 1670669479,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1249211,
       "num": 1249211,
       "word": "老人手包一次性内裤遭质疑不卫生",
@@ -2768,14 +2784,6 @@
       "word": "林孝埈",
       "onboard_time": 1670574919,
       "rank": 5,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 913476,
-      "num": 913476,
-      "word": "马龙",
-      "onboard_time": 1670669479,
-      "rank": 7,
       "category": "体育"
     },
     {
@@ -5211,6 +5219,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 591964,
+      "num": 337361,
+      "word": "余霜 黑裙",
+      "onboard_time": 1670672061,
+      "rank": 11,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 590642,
       "num": 590642,
       "word": "6男子吃鸡时打架留下2人只愿AA",
@@ -5689,6 +5705,14 @@
       "onboard_time": 1670024767,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 553122,
+      "num": 337268,
+      "word": "高辛夷怀孕",
+      "onboard_time": 1670674880,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 552311,
@@ -6785,6 +6809,14 @@
       "onboard_time": 1670344328,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 470267,
+      "num": 470267,
+      "word": "阳华提离婚秦施慌了",
+      "onboard_time": 1670673979,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 470020,
@@ -9299,6 +9331,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 338360,
+      "num": 338360,
+      "word": "星火",
+      "onboard_time": 1670671340,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
       "raw_hot": 338170,
       "num": 842184,
       "word": "旅居卡塔尔大熊猫被四川话召唤",
@@ -9345,6 +9385,14 @@
       "onboard_time": 1670061491,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 336980,
+      "num": 336980,
+      "word": "你好星期六",
+      "onboard_time": 1670511859,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 336747,
@@ -9755,6 +9803,14 @@
       "category": "时尚,艺人"
     },
     {
+      "raw_hot": 324740,
+      "num": 324740,
+      "word": "新冠病毒是否会通过下水管道传播",
+      "onboard_time": 1670672959,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 324646,
       "num": 324646,
       "word": "刘畊宏苏醒互动为梅西打call",
@@ -9769,6 +9825,14 @@
       "onboard_time": 1670562377,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 324489,
+      "num": 324489,
+      "word": "白岩松支持00后整顿职场",
+      "onboard_time": 1670672122,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 324133,
@@ -9825,6 +9889,14 @@
       "onboard_time": 1670475674,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 322679,
+      "num": 322679,
+      "word": "Hero",
+      "onboard_time": 1670674521,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 322543,
@@ -10483,6 +10555,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 298210,
+      "num": 298210,
+      "word": "诺伊尔赛季报销",
+      "onboard_time": 1670673080,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 298160,
       "num": 298160,
       "word": "柯南新剧场版预热特别篇预告",
@@ -10777,6 +10857,14 @@
       "onboard_time": 1669968671,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 289073,
+      "num": 289073,
+      "word": "墨白开播就求婚",
+      "onboard_time": 1670674340,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 288897,
@@ -11321,6 +11409,14 @@
       "onboard_time": 1670129531,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 273192,
+      "num": 273192,
+      "word": "东北人吃黄桃罐头必须喝汤吗",
+      "onboard_time": 1670674160,
+      "rank": 26,
+      "category": "美食,情感"
     },
     {
       "raw_hot": 273143,
@@ -12209,6 +12305,14 @@
       "onboard_time": 1670101507,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 246828,
+      "num": 246828,
+      "word": "六级听力答案",
+      "onboard_time": 1670669779,
+      "rank": 43,
+      "category": "教育"
     },
     {
       "raw_hot": 246817,
@@ -13323,6 +13427,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 214149,
+      "num": 214149,
+      "word": "明年一定会比今年更好",
+      "onboard_time": 1670671461,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 213913,
       "num": 204550,
       "word": "白鹿奔跑吧游戏ID白梦妍",
@@ -13504,6 +13616,14 @@
       "word": "墨白",
       "onboard_time": 1670667680,
       "rank": 43,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 210446,
+      "num": 210446,
+      "word": "李光洁说义无反顾才能不辜负彼此",
+      "onboard_time": 1670675360,
+      "rank": 33,
       "category": "影视"
     },
     {
@@ -14419,14 +14539,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 189564,
-      "num": 189564,
-      "word": "明年一定会比今年更好",
-      "onboard_time": 1670671461,
-      "rank": 34,
-      "category": "影视"
-    },
-    {
       "raw_hot": 189266,
       "num": 187664,
       "word": "突尼斯进球",
@@ -15315,14 +15427,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 175015,
-      "num": 175015,
-      "word": "六级听力答案",
-      "onboard_time": 1670669779,
-      "rank": 43,
-      "category": "教育"
-    },
-    {
       "raw_hot": 174738,
       "num": 174738,
       "word": "我国成功在海上发射一箭十四星",
@@ -15385,14 +15489,6 @@
       "onboard_time": 1670174051,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 173735,
-      "num": 173735,
-      "word": "星火",
-      "onboard_time": 1670671340,
-      "rank": 38,
-      "category": "教育"
     },
     {
       "raw_hot": 173700,
@@ -15595,6 +15691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 170567,
+      "num": 170567,
+      "word": "叶一茜说森碟是家里运动健将",
+      "onboard_time": 1670675301,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 170535,
       "num": 170535,
       "word": "苏醒王铮亮看世界杯reaction",
@@ -15665,6 +15769,14 @@
       "onboard_time": 1670076432,
       "rank": 38,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 169657,
+      "num": 169657,
+      "word": "卡瓦尼说C罗是他遇到最好的前锋",
+      "onboard_time": 1670673799,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 169499,
@@ -15833,6 +15945,14 @@
       "onboard_time": 1670476515,
       "rank": 45,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 166808,
+      "num": 166808,
+      "word": "毕雯珺 古装",
+      "onboard_time": 1670672959,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 166772,
@@ -16113,6 +16233,14 @@
       "onboard_time": 1670411653,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 162124,
+      "num": 153292,
+      "word": "eStar对战Hero",
+      "onboard_time": 1670675600,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 161982,
@@ -17017,6 +17145,14 @@
       "onboard_time": 1670562918,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 149351,
+      "num": 153238,
+      "word": "孙悦给儿子安利邓紫棋",
+      "onboard_time": 1670673679,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 149133,
@@ -17953,14 +18089,6 @@
       "onboard_time": 1669816421,
       "rank": 28,
       "category": "军事"
-    },
-    {
-      "raw_hot": 135585,
-      "num": 135585,
-      "word": "你好星期六",
-      "onboard_time": 1670511859,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 135503,
@@ -21737,6 +21865,14 @@
       "onboard_time": 1670613192,
       "rank": 49,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 14171,
+      "num": 329931,
+      "word": "绅士鞋有多舒适",
+      "onboard_time": 1670673628,
+      "rank": 14,
+      "category": "音乐"
     },
     {
       "raw_hot": 9720,
