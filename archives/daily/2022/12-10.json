@@ -1,6 +1,6 @@
 {
   "startTime": 1670603204032,
-  "endTime": 1670657605818,
+  "endTime": 1670660587429,
   "band_list": [
     {
       "raw_hot": 11360361,
@@ -131,6 +131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1874951,
+      "num": 1874951,
+      "word": "广西一医生隐瞒双胎信息欲偷婴儿贩卖",
+      "onboard_time": 1670656219,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1784017,
       "num": 1784017,
       "word": "巴西状态",
@@ -241,6 +249,14 @@
       "onboard_time": 1670651836,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1158240,
+      "num": 437333,
+      "word": "刘强东分享感染新冠经历",
+      "onboard_time": 1670659037,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1148790,
@@ -411,6 +427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 663306,
+      "num": 663306,
+      "word": "世界杯四强诞生",
+      "onboard_time": 1670656038,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 659042,
       "num": 659042,
       "word": "爸爸给14个月的女儿洗脚满眼宠溺",
@@ -483,14 +507,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 602945,
-      "num": 374330,
-      "word": "广西一医生隐瞒双胎信息欲偷婴儿贩卖",
-      "onboard_time": 1670656219,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 582506,
       "num": 582506,
       "word": "罗纳尔多",
@@ -505,6 +521,14 @@
       "onboard_time": 1670634191,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 563799,
+      "num": 563799,
+      "word": "孙悦回应50岁状态",
+      "onboard_time": 1670657238,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 557070,
@@ -579,20 +603,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 490849,
-      "num": 371734,
-      "word": "世界杯四强诞生",
-      "onboard_time": 1670656038,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 476649,
       "num": 476649,
       "word": "内马尔曾说这是最后一届世界杯",
       "onboard_time": 1670648896,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 465873,
+      "num": 465873,
+      "word": "医生低头取物头发被酒精灯点燃",
+      "onboard_time": 1670657238,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 463986,
@@ -673,6 +697,14 @@
       "onboard_time": 1670604020,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 433034,
+      "num": 433034,
+      "word": "世界冠军邓琳琳被求婚",
+      "onboard_time": 1670657717,
+      "rank": 11,
+      "category": "体育,综艺"
     },
     {
       "raw_hot": 423667,
@@ -891,6 +923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 328635,
+      "num": 328635,
+      "word": "摩洛哥vs葡萄牙",
+      "onboard_time": 1670657117,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 328567,
       "num": 328567,
       "word": "湖人 加时",
@@ -937,14 +977,6 @@
       "onboard_time": 1670640253,
       "rank": 24,
       "category": "影视"
-    },
-    {
-      "raw_hot": 315628,
-      "num": 315628,
-      "word": "摩洛哥vs葡萄牙",
-      "onboard_time": 1670657117,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 310014,
@@ -1011,6 +1043,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 288134,
+      "num": 268274,
+      "word": "如何评价张艺兴成立厂牌",
+      "onboard_time": 1670656939,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 287173,
       "num": 244792,
       "word": "NCT4名成员发生坠落事故",
@@ -1067,22 +1107,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 268274,
-      "num": 268274,
-      "word": "如何评价张艺兴成立厂牌",
-      "onboard_time": 1670656939,
-      "rank": 21,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 266445,
-      "num": 266445,
-      "word": "孙悦回应50岁状态",
-      "onboard_time": 1670657238,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 263141,
       "num": 263141,
       "word": "吴尊模仿梅西进球的经典动作",
@@ -1121,6 +1145,14 @@
       "onboard_time": 1670629810,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 250857,
+      "num": 250857,
+      "word": "你好星期六剪的吴磊周雨彤视频",
+      "onboard_time": 1670658319,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 248109,
@@ -1171,6 +1203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 237697,
+      "num": 256607,
+      "word": "RNG官宣朱开离队",
+      "onboard_time": 1670657717,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 237485,
       "num": 237485,
       "word": "内马尔有多无奈",
@@ -1211,12 +1251,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 220681,
+      "num": 220681,
+      "word": "摩洛哥 预测",
+      "onboard_time": 1670658857,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 212200,
       "num": 212200,
       "word": "王凯谭松韵新剧向风而行cp感",
       "onboard_time": 1670652377,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 212137,
+      "num": 212137,
+      "word": "年轻人的晚八是不相通的",
+      "onboard_time": 1670657897,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 211772,
@@ -1611,6 +1667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 144003,
+      "num": 144003,
+      "word": "当男朋友是个足球迷时",
+      "onboard_time": 1670658319,
+      "rank": 33,
+      "category": "体育,情感"
+    },
+    {
       "raw_hot": 143736,
       "num": 143736,
       "word": "李薇说明年一定比今年更好",
@@ -1707,6 +1771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121514,
+      "num": 97984,
+      "word": "刘耀文片场大片",
+      "onboard_time": 1670660539,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 119694,
       "num": 119694,
       "word": "劳塔罗自我救赎",
@@ -1729,14 +1801,6 @@
       "onboard_time": 1670657539,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 117127,
-      "num": 117127,
-      "word": "医生低头取物头发被酒精灯点燃",
-      "onboard_time": 1670657238,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 116924,
@@ -1787,10 +1851,26 @@
       "category": "体育"
     },
     {
+      "raw_hot": 95795,
+      "num": 1256549,
+      "word": "北京发布新冠阳性感染者居家康复手册",
+      "onboard_time": 1670659578,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 92078,
       "num": 126520,
       "word": "新冠防疫手册",
       "onboard_time": 1670604556,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 80041,
+      "num": 94997,
+      "word": "女子徒手抓老鼠面不改色快准狠",
+      "onboard_time": 1670660179,
       "rank": 49,
       "category": "社会新闻"
     },
