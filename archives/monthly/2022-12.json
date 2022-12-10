@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1670650415778,
+  "endTime": 1670653372698,
   "band_list": [
     {
       "raw_hot": 11360361,
@@ -2179,6 +2179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1070212,
+      "num": 1070212,
+      "word": "女子因病被男友家嫌弃爸爸气到抹泪",
+      "onboard_time": 1670647455,
+      "rank": 12,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 1067437,
       "num": 1350579,
       "word": "女子假扮孕妇藏202块CPU入境被查",
@@ -2817,6 +2825,14 @@
       "onboard_time": 1670643435,
       "rank": 5,
       "category": "教育"
+    },
+    {
+      "raw_hot": 886223,
+      "num": 886223,
+      "word": "内马尔怒吼",
+      "onboard_time": 1670649620,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 882757,
@@ -3891,6 +3907,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 707865,
+      "num": 707865,
+      "word": "新冠阳性吃消炎药有用吗",
+      "onboard_time": 1670648235,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 707808,
       "num": 805657,
       "word": "B21",
@@ -4161,14 +4185,6 @@
       "onboard_time": 1670101688,
       "rank": 6,
       "category": "体育"
-    },
-    {
-      "raw_hot": 675303,
-      "num": 675303,
-      "word": "女子因病被男友家嫌弃爸爸气到抹泪",
-      "onboard_time": 1670647455,
-      "rank": 12,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 675301,
@@ -5115,14 +5131,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 586175,
-      "num": 586175,
-      "word": "新冠阳性吃消炎药有用吗",
-      "onboard_time": 1670648235,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 585992,
       "num": 452178,
       "word": "苏醒为了梅西能夺冠有多拼",
@@ -5281,6 +5289,14 @@
       "onboard_time": 1669941129,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 575676,
+      "num": 575676,
+      "word": "主播回应直播卖衣服称东北土不拉唧",
+      "onboard_time": 1670650336,
+      "rank": 46,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 575170,
@@ -6467,6 +6483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 476649,
+      "num": 476649,
+      "word": "内马尔曾说这是最后一届世界杯",
+      "onboard_time": 1670648896,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 475673,
       "num": 475673,
       "word": "中国裁判组结束世界杯之旅",
@@ -6825,6 +6849,14 @@
       "onboard_time": 1670547614,
       "rank": 13,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 454484,
+      "num": 454484,
+      "word": "梅西黄牌",
+      "onboard_time": 1670648478,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 453254,
@@ -7521,6 +7553,14 @@
       "onboard_time": 1670644033,
       "rank": 19,
       "category": "教育"
+    },
+    {
+      "raw_hot": 416070,
+      "num": 416070,
+      "word": "荷兰球员找梅西握手遭拒",
+      "onboard_time": 1670651836,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 415603,
@@ -8345,6 +8385,14 @@
       "onboard_time": 1670373729,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 372524,
+      "num": 372524,
+      "word": "赵樱子说粤语",
+      "onboard_time": 1670652558,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 372411,
@@ -9393,14 +9441,6 @@
       "onboard_time": 1670478674,
       "rank": 24,
       "category": "影视"
-    },
-    {
-      "raw_hot": 326635,
-      "num": 326635,
-      "word": "梅西黄牌",
-      "onboard_time": 1670648478,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 326443,
@@ -10553,6 +10593,14 @@
       "onboard_time": 1670066412,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 284254,
+      "num": 284254,
+      "word": "六级作文",
+      "onboard_time": 1670645894,
+      "rank": 42,
+      "category": "教育"
     },
     {
       "raw_hot": 284183,
@@ -12147,14 +12195,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 235107,
-      "num": 235107,
-      "word": "内马尔怒吼",
-      "onboard_time": 1670649620,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 235073,
       "num": 797111,
       "word": "C罗今晚能取得进球吗",
@@ -12891,6 +12931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 213677,
+      "num": 213677,
+      "word": "内马尔有多无奈",
+      "onboard_time": 1670650577,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 213671,
       "num": 213671,
       "word": "多款感冒药卖断货",
@@ -12969,6 +13017,14 @@
       "onboard_time": 1669881971,
       "rank": 34,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 212200,
+      "num": 212200,
+      "word": "王凯谭松韵新剧向风而行cp感",
+      "onboard_time": 1670652377,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 212183,
@@ -13209,14 +13265,6 @@
       "onboard_time": 1670399832,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 204267,
-      "num": 204267,
-      "word": "六级作文",
-      "onboard_time": 1670645894,
-      "rank": 42,
-      "category": "教育"
     },
     {
       "raw_hot": 204064,
@@ -14963,6 +15011,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 171949,
+      "num": 165783,
+      "word": "许半夏真的剩下一个人了",
+      "onboard_time": 1670653036,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 171929,
       "num": 171929,
       "word": "爷爷退休全职带娃陪练体能获赞",
@@ -15033,6 +15089,14 @@
       "onboard_time": 1670145551,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 170686,
+      "num": 170686,
+      "word": "被薛凯琪眼神温柔到了",
+      "onboard_time": 1670652679,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 170535,
@@ -15755,6 +15819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 158441,
+      "num": 158441,
+      "word": "孟美岐线下演唱会票价",
+      "onboard_time": 1670653157,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 158100,
       "num": 158100,
       "word": "可爱的终点是奶猫",
@@ -15889,14 +15961,6 @@
       "onboard_time": 1670483475,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 156045,
-      "num": 155095,
-      "word": "内马尔曾说这是最后一届世界杯",
-      "onboard_time": 1670648896,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 155608,
@@ -16161,6 +16225,14 @@
       "onboard_time": 1670382130,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 151766,
+      "num": 151766,
+      "word": "欧豪风吹半夏从痞子到厨子",
+      "onboard_time": 1670651656,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 151710,
@@ -16611,6 +16683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 144981,
+      "num": 144981,
+      "word": "阴阳师",
+      "onboard_time": 1670650939,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 144958,
       "num": 144958,
       "word": "严禁以各种方式封堵单元门小区门",
@@ -16633,14 +16713,6 @@
       "onboard_time": 1670642053,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 144504,
-      "num": 144504,
-      "word": "主播回应直播卖衣服称东北土不拉唧",
-      "onboard_time": 1670650336,
-      "rank": 46,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 144433,
@@ -16969,6 +17041,14 @@
       "onboard_time": 1670519833,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 140028,
+      "num": 140028,
+      "word": "内马尔尽力了",
+      "onboard_time": 1670652798,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 139990,
@@ -17875,6 +17955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 127000,
+      "num": 127000,
+      "word": "女子给流浪老人买鞋袜蹲地为其更换",
+      "onboard_time": 1670653096,
+      "rank": 47,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 126550,
       "num": 685637,
       "word": "男子开挖机挖到野兔将其放生",
@@ -18105,6 +18193,14 @@
       "onboard_time": 1670383691,
       "rank": 41,
       "category": "科技"
+    },
+    {
+      "raw_hot": 123044,
+      "num": 123044,
+      "word": "魔笛安慰罗德里戈",
+      "onboard_time": 1670653337,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 123041,
