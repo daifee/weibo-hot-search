@@ -1,6 +1,6 @@
 {
   "startTime": 1670603204032,
-  "endTime": 1670676703241,
+  "endTime": 1670678535627,
   "band_list": [
     {
       "raw_hot": 11360361,
@@ -236,7 +236,7 @@
     },
     {
       "raw_hot": 1416152,
-      "num": 482796,
+      "num": 489237,
       "word": "刘强东分享感染新冠经历",
       "onboard_time": 1670659037,
       "rank": 10,
@@ -355,6 +355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 978548,
+      "num": 832944,
+      "word": "高辛夷怀孕",
+      "onboard_time": 1670674880,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 940535,
       "num": 940535,
       "word": "N95口罩搜索暴涨715%",
@@ -419,6 +427,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 825484,
+      "num": 825484,
+      "word": "叶一茜说森碟是家里运动健将",
+      "onboard_time": 1670675301,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 806857,
       "num": 806857,
       "word": "专家称奥密克戎更易导致再感染",
@@ -464,14 +480,6 @@
       "word": "于正称白鹿以爱为营确定时无男主角",
       "onboard_time": 1670647276,
       "rank": 9,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 712854,
-      "num": 712854,
-      "word": "高辛夷怀孕",
-      "onboard_time": 1670674880,
-      "rank": 12,
       "category": "影视"
     },
     {
@@ -553,6 +561,14 @@
       "onboard_time": 1670653157,
       "rank": 38,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 643857,
+      "num": 643857,
+      "word": "东北人吃黄桃罐头必须喝汤吗",
+      "onboard_time": 1670674160,
+      "rank": 26,
+      "category": "美食,情感"
     },
     {
       "raw_hot": 641478,
@@ -739,6 +755,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 507750,
+      "num": 507750,
+      "word": "新冠病毒是否会通过下水管道传播",
+      "onboard_time": 1670672959,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 504292,
       "num": 1256549,
       "word": "北京发布新冠阳性感染者居家康复手册",
@@ -891,14 +915,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 432711,
-      "num": 432711,
-      "word": "新冠病毒是否会通过下水管道传播",
-      "onboard_time": 1670672959,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 423667,
       "num": 399550,
       "word": "我vs梅西",
@@ -963,14 +979,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 411367,
-      "num": 411367,
-      "word": "东北人吃黄桃罐头必须喝汤吗",
-      "onboard_time": 1670674160,
-      "rank": 26,
-      "category": "美食,情感"
-    },
-    {
       "raw_hot": 410271,
       "num": 410271,
       "word": "大学生返乡该有的待遇",
@@ -1033,14 +1041,6 @@
       "onboard_time": 1670636892,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 376484,
-      "num": 376484,
-      "word": "叶一茜说森碟是家里运动健将",
-      "onboard_time": 1670675301,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 370337,
@@ -1113,6 +1113,14 @@
       "onboard_time": 1670672122,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 358904,
+      "num": 358904,
+      "word": "异地恋分手还要再见一面吗",
+      "onboard_time": 1670676140,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 355610,
@@ -1299,6 +1307,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 315539,
+      "num": 315539,
+      "word": "TheShy年度最受欢迎选手",
+      "onboard_time": 1670676917,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 310014,
       "num": 310014,
       "word": "内马尔点球",
@@ -1345,6 +1361,14 @@
       "onboard_time": 1670665039,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 297414,
+      "num": 297414,
+      "word": "葡萄牙首发",
+      "onboard_time": 1670673319,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 296554,
@@ -1411,6 +1435,14 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 284213,
+      "num": 284213,
+      "word": "赵垒见许半夏父母被问工资",
+      "onboard_time": 1670676740,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 280413,
       "num": 243627,
       "word": "梁咏琪胆小鬼一开口爷青回",
@@ -1425,6 +1457,14 @@
       "onboard_time": 1670654479,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 280067,
+      "num": 280067,
+      "word": "吴磊周雨彤摸脸杀",
+      "onboard_time": 1670677229,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 277931,
@@ -1523,6 +1563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 250074,
+      "num": 250074,
+      "word": "卡瓦尼说C罗是他遇到最好的前锋",
+      "onboard_time": 1670673799,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 248109,
       "num": 248109,
       "word": "黄桃罐头",
@@ -1547,20 +1595,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 246616,
+      "num": 246616,
+      "word": "内娱舞台西装杀",
+      "onboard_time": 1670675660,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 246468,
       "num": 246468,
       "word": "女子买螃蟹抓掉到楼下的袜子",
       "onboard_time": 1670595502,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 246107,
-      "num": 246107,
-      "word": "卡瓦尼说C罗是他遇到最好的前锋",
-      "onboard_time": 1670673799,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 245292,
@@ -1659,12 +1707,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 223199,
-      "num": 223199,
-      "word": "内娱舞台西装杀",
-      "onboard_time": 1670675660,
-      "rank": 31,
-      "category": "音乐"
+      "raw_hot": 220736,
+      "num": 220736,
+      "word": "孙悦给儿子安利邓紫棋",
+      "onboard_time": 1670673679,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 216806,
@@ -1697,6 +1745,14 @@
       "onboard_time": 1670649377,
       "rank": 47,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 211140,
+      "num": 211140,
+      "word": "蜜蜂狗",
+      "onboard_time": 1670676979,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 210718,
@@ -1745,6 +1801,22 @@
       "onboard_time": 1670665521,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 205229,
+      "num": 205229,
+      "word": "闪耀暖暖",
+      "onboard_time": 1670675425,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 195650,
+      "num": 195650,
+      "word": "毕雯珺露腹肌",
+      "onboard_time": 1670677998,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 195411,
@@ -1931,6 +2003,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 171167,
+      "num": 171167,
+      "word": "果然奶牛猫都是神经病",
+      "onboard_time": 1670677399,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 170686,
       "num": 170686,
       "word": "被薛凯琪眼神温柔到了",
@@ -2011,6 +2091,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 165617,
+      "num": 165617,
+      "word": "徐瑛彬 铁血一单",
+      "onboard_time": 1670676799,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 165027,
       "num": 165027,
       "word": "郭晓婷说钮钴禄如玥一定能笑到最后",
@@ -2051,14 +2139,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 162701,
-      "num": 162701,
-      "word": "异地恋分手还要再见一面吗",
-      "onboard_time": 1670676140,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 162429,
       "num": 162429,
       "word": "梅西进球苏醒激动到声音变形",
@@ -2081,6 +2161,14 @@
       "onboard_time": 1670675600,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 161305,
+      "num": 161305,
+      "word": "范丞丞说马上进下一个组",
+      "onboard_time": 1670677280,
+      "rank": 46,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 161063,
@@ -2195,14 +2283,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 152805,
-      "num": 152805,
-      "word": "闪耀暖暖",
-      "onboard_time": 1670675425,
-      "rank": 45,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 151766,
       "num": 151766,
       "word": "欧豪风吹半夏从痞子到厨子",
@@ -2243,14 +2323,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 149351,
-      "num": 153238,
-      "word": "孙悦给儿子安利邓紫棋",
-      "onboard_time": 1670673679,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 148111,
       "num": 148111,
       "word": "好身材运动伴侣太好嗑了",
@@ -2273,6 +2345,14 @@
       "onboard_time": 1670591780,
       "rank": 45,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 145966,
+      "num": 145966,
+      "word": "黄桃罐头无法缓解新冠症状",
+      "onboard_time": 1670677459,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 145192,
@@ -2393,6 +2473,14 @@
       "onboard_time": 1670671578,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127050,
+      "num": 137036,
+      "word": "北京呼吁新冠无症状和轻症患者勿打120",
+      "onboard_time": 1670678360,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 127000,
