@@ -1,6 +1,6 @@
 {
   "startTime": 1670171104099,
-  "endTime": 1670714329026,
+  "endTime": 1670715223967,
   "band_list": [
     {
       "raw_hot": 13790167,
@@ -2619,6 +2619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 718078,
+      "num": 718078,
+      "word": "英格兰1比2法国",
+      "onboard_time": 1670706372,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 716667,
       "num": 716667,
       "word": "明年五一休5天",
@@ -2969,14 +2977,6 @@
       "onboard_time": 1670414714,
       "rank": 9,
       "category": "影视"
-    },
-    {
-      "raw_hot": 663707,
-      "num": 663707,
-      "word": "英格兰1比2法国",
-      "onboard_time": 1670706372,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 663306,
@@ -3632,6 +3632,14 @@
       "word": "卿卿日常大结局全员HE",
       "onboard_time": 1670589861,
       "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 575234,
+      "num": 575234,
+      "word": "陈晓说陈妍希的演技是殿堂级的",
+      "onboard_time": 1670713869,
+      "rank": 8,
       "category": "影视"
     },
     {
@@ -4363,6 +4371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 493620,
+      "num": 493620,
+      "word": "李现说他的青春结束了",
+      "onboard_time": 1670698816,
+      "rank": 30,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 492970,
       "num": 492970,
       "word": "黄澄澄演技",
@@ -4921,14 +4937,6 @@
       "onboard_time": 1670377570,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 443959,
-      "num": 443959,
-      "word": "李现说他的青春结束了",
-      "onboard_time": 1670698816,
-      "rank": 30,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 443514,
@@ -6683,14 +6691,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 326312,
-      "num": 326312,
-      "word": "陈晓说陈妍希的演技是殿堂级的",
-      "onboard_time": 1670713869,
-      "rank": 8,
-      "category": "影视"
-    },
-    {
       "raw_hot": 324917,
       "num": 324917,
       "word": "吴磊嗑cp的表情三进阶",
@@ -7961,6 +7961,14 @@
       "onboard_time": 1670551331,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 270551,
+      "num": 270551,
+      "word": "一个家庭手握多少资产才算有钱",
+      "onboard_time": 1670706852,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 270389,
@@ -9371,14 +9379,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 216980,
-      "num": 216980,
-      "word": "一个家庭手握多少资产才算有钱",
-      "onboard_time": 1670706852,
-      "rank": 49,
-      "category": "财经"
-    },
-    {
       "raw_hot": 216960,
       "num": 204778,
       "word": "陈飞宇周也倒数说爱你拍摄花絮视频",
@@ -9841,6 +9841,14 @@
       "onboard_time": 1670416874,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 201070,
+      "num": 201070,
+      "word": "女子提醒楼上太吵萌娃奶声奶气道歉",
+      "onboard_time": 1670692756,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 200747,
@@ -11387,6 +11395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 166852,
+      "num": 166852,
+      "word": "张远谈自己的初恋",
+      "onboard_time": 1670714110,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 166809,
       "num": 166809,
       "word": "当中国航天遇上绝美景观",
@@ -12000,14 +12016,6 @@
       "word": "山西千年盐湖开满硝花",
       "onboard_time": 1670427314,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 154496,
-      "num": 154496,
-      "word": "女子提醒楼上太吵萌娃奶声奶气道歉",
-      "onboard_time": 1670692756,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -13491,6 +13499,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 126280,
+      "num": 126280,
+      "word": "本届世界杯最大黑马",
+      "onboard_time": 1670693476,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 126269,
       "num": 911480,
       "word": "6岁东北小朋友滑冰场上动作娴熟",
@@ -14075,14 +14091,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 111746,
-      "num": 111746,
-      "word": "张远谈自己的初恋",
-      "onboard_time": 1670714110,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 111562,
       "num": 111562,
       "word": "C919舱内首曝光",
@@ -14499,6 +14507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 99479,
+      "num": 99479,
+      "word": "钱学森晚年卧床见航天员就笑容满面",
+      "onboard_time": 1670714468,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 98394,
       "num": 200769,
       "word": "年轻人是懂看球仪式感的",
@@ -14529,6 +14545,14 @@
       "onboard_time": 1670663057,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 95505,
+      "num": 95505,
+      "word": "凯恩哭了",
+      "onboard_time": 1670714110,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 95493,
@@ -14691,6 +14715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 87601,
+      "num": 87601,
+      "word": "韩乔生说C罗用意志力与岁月对抗",
+      "onboard_time": 1670714288,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 87257,
       "num": 88190,
       "word": "居家上网课如何保护眼睛",
@@ -14721,6 +14753,14 @@
       "onboard_time": 1670310730,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 85209,
+      "num": 85209,
+      "word": "法国晋级4强",
+      "onboard_time": 1670714468,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 83550,
@@ -14891,6 +14931,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 70402,
+      "num": 70402,
+      "word": "萨卡",
+      "onboard_time": 1670714771,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 70382,
       "num": 70382,
       "word": "英格兰vs塞内加尔首发",
@@ -14947,14 +14995,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 67780,
-      "num": 67780,
-      "word": "本届世界杯最大黑马",
-      "onboard_time": 1670693476,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 67710,
       "num": 117082,
       "word": "英格兰将对阵法国",
@@ -14984,6 +15024,14 @@
       "word": "姆巴佩状态",
       "onboard_time": 1670174171,
       "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 63755,
+      "num": 63755,
+      "word": "半决赛法国对阵摩洛哥",
+      "onboard_time": 1670715189,
+      "rank": 46,
       "category": "体育"
     },
     {
@@ -15040,14 +15088,6 @@
       "word": "波兰点球",
       "onboard_time": 1670196367,
       "rank": 48,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 58378,
-      "num": 58378,
-      "word": "凯恩哭了",
-      "onboard_time": 1670714110,
-      "rank": 40,
       "category": "体育"
     },
     {
@@ -15136,14 +15176,6 @@
       "word": "格雷罗破门",
       "onboard_time": 1670359508,
       "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 47379,
-      "num": 47379,
-      "word": "韩乔生说C罗用意志力与岁月对抗",
-      "onboard_time": 1670714288,
-      "rank": 48,
       "category": "体育"
     },
     {

@@ -1,6 +1,6 @@
 {
   "startTime": 1670689529040,
-  "endTime": 1670714329026,
+  "endTime": 1670715223967,
   "band_list": [
     {
       "raw_hot": 13790167,
@@ -171,6 +171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 718078,
+      "num": 718078,
+      "word": "英格兰1比2法国",
+      "onboard_time": 1670706372,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 710298,
       "num": 710298,
       "word": "王冰冰反向支持葡萄牙",
@@ -193,14 +201,6 @@
       "onboard_time": 1670685079,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 663707,
-      "num": 663707,
-      "word": "英格兰1比2法国",
-      "onboard_time": 1670706372,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 658268,
@@ -227,6 +227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 575234,
+      "num": 575234,
+      "word": "陈晓说陈妍希的演技是殿堂级的",
+      "onboard_time": 1670713869,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 568183,
       "num": 568183,
       "word": "钟南山预计明年上半年能恢复到疫情前生活",
@@ -251,6 +259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 493620,
+      "num": 493620,
+      "word": "李现说他的青春结束了",
+      "onboard_time": 1670698816,
+      "rank": 30,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 488403,
       "num": 488403,
       "word": "老人求助买苹果店老板专挑小的烂的",
@@ -265,14 +281,6 @@
       "onboard_time": 1670692220,
       "rank": 11,
       "category": "体育"
-    },
-    {
-      "raw_hot": 443959,
-      "num": 443959,
-      "word": "李现说他的青春结束了",
-      "onboard_time": 1670698816,
-      "rank": 30,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 405828,
@@ -315,14 +323,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 326312,
-      "num": 326312,
-      "word": "陈晓说陈妍希的演技是殿堂级的",
-      "onboard_time": 1670713869,
-      "rank": 8,
-      "category": "影视"
-    },
-    {
       "raw_hot": 319434,
       "num": 187912,
       "word": "摩洛哥 反击",
@@ -361,6 +361,14 @@
       "onboard_time": 1670687057,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 270551,
+      "num": 270551,
+      "word": "一个家庭手握多少资产才算有钱",
+      "onboard_time": 1670706852,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 269861,
@@ -427,14 +435,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 216980,
-      "num": 216980,
-      "word": "一个家庭手握多少资产才算有钱",
-      "onboard_time": 1670706852,
-      "rank": 49,
-      "category": "财经"
-    },
-    {
       "raw_hot": 210343,
       "num": 210343,
       "word": "钟南山称重复感染在一段时间内大概率不会发生",
@@ -457,6 +457,14 @@
       "onboard_time": 1670672061,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 201070,
+      "num": 201070,
+      "word": "女子提醒楼上太吵萌娃奶声奶气道歉",
+      "onboard_time": 1670692756,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 195815,
@@ -579,6 +587,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 166852,
+      "num": 166852,
+      "word": "张远谈自己的初恋",
+      "onboard_time": 1670714110,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 165619,
       "num": 165619,
       "word": "许佳琪跳了TOMBOY",
@@ -601,14 +617,6 @@
       "onboard_time": 1670692335,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 154496,
-      "num": 154496,
-      "word": "女子提醒楼上太吵萌娃奶声奶气道歉",
-      "onboard_time": 1670692756,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 154465,
@@ -715,6 +723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 126280,
+      "num": 126280,
+      "word": "本届世界杯最大黑马",
+      "onboard_time": 1670693476,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 120570,
       "num": 120570,
       "word": "布努 门神",
@@ -731,19 +747,43 @@
       "category": "体育"
     },
     {
-      "raw_hot": 111746,
-      "num": 111746,
-      "word": "张远谈自己的初恋",
-      "onboard_time": 1670714110,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 107138,
       "num": 107138,
       "word": "桑托斯 战术",
       "onboard_time": 1670694315,
       "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 99479,
+      "num": 99479,
+      "word": "钱学森晚年卧床见航天员就笑容满面",
+      "onboard_time": 1670714468,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 95505,
+      "num": 95505,
+      "word": "凯恩哭了",
+      "onboard_time": 1670714110,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 87601,
+      "num": 87601,
+      "word": "韩乔生说C罗用意志力与岁月对抗",
+      "onboard_time": 1670714288,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 85209,
+      "num": 85209,
+      "word": "法国晋级4强",
+      "onboard_time": 1670714468,
+      "rank": 38,
       "category": "体育"
     },
     {
@@ -763,6 +803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 70402,
+      "num": 70402,
+      "word": "萨卡",
+      "onboard_time": 1670714771,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 68789,
       "num": 68789,
       "word": "英格兰半场0比1法国",
@@ -779,14 +827,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 67780,
-      "num": 67780,
-      "word": "本届世界杯最大黑马",
-      "onboard_time": 1670693476,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 66040,
       "num": 66040,
       "word": "英格兰vs法国首发",
@@ -795,11 +835,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 58378,
-      "num": 58378,
-      "word": "凯恩哭了",
-      "onboard_time": 1670714110,
-      "rank": 40,
+      "raw_hot": 63755,
+      "num": 63755,
+      "word": "半决赛法国对阵摩洛哥",
+      "onboard_time": 1670715189,
+      "rank": 46,
       "category": "体育"
     },
     {
@@ -809,14 +849,6 @@
       "onboard_time": 1670661197,
       "rank": 45,
       "category": "动漫,影视"
-    },
-    {
-      "raw_hot": 47379,
-      "num": 47379,
-      "word": "韩乔生说C罗用意志力与岁月对抗",
-      "onboard_time": 1670714288,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 46334,
