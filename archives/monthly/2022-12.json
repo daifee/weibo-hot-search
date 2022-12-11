@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1670800732668,
+  "endTime": 1670801610183,
   "band_list": [
     {
       "raw_hot": 13790167,
@@ -1163,6 +1163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1740444,
+      "num": 1740444,
+      "word": "行程卡下线",
+      "onboard_time": 1670776632,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1737084,
       "num": 2379892,
       "word": "夫妻准备办离婚丈夫路上兜了8圈",
@@ -2273,14 +2281,6 @@
       "onboard_time": 1670118789,
       "rank": 21,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1156532,
-      "num": 1156532,
-      "word": "行程卡下线",
-      "onboard_time": 1670776632,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1155542,
@@ -7211,6 +7211,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 503696,
+      "num": 95395,
+      "word": "广东一女网红开车送货途中遇害",
+      "onboard_time": 1670800746,
+      "rank": 30,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 503281,
       "num": 2428629,
       "word": "俩男孩挖地窖爸妈加入挖出3室1厅",
@@ -11475,6 +11483,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 317426,
+      "num": 317426,
+      "word": "呼和浩特4.1级地震",
+      "onboard_time": 1670800386,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 317324,
       "num": 878380,
       "word": "iPhone14Pro系列最快元旦到货",
@@ -11553,6 +11569,14 @@
       "onboard_time": 1670595921,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 313255,
+      "num": 313255,
+      "word": "开窗通风是否会有被传染的风险",
+      "onboard_time": 1670790612,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 313051,
@@ -12097,6 +12121,14 @@
       "onboard_time": 1669865831,
       "rank": 44,
       "category": "教育"
+    },
+    {
+      "raw_hot": 297034,
+      "num": 297034,
+      "word": "iPhone15Ultra或万元起步",
+      "onboard_time": 1670800027,
+      "rank": 16,
+      "category": "科技"
     },
     {
       "raw_hot": 296886,
@@ -13763,14 +13795,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 251255,
-      "num": 251255,
-      "word": "开窗通风是否会有被传染的风险",
-      "onboard_time": 1670790612,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 251198,
       "num": 718142,
       "word": "林高远",
@@ -14568,6 +14592,14 @@
       "word": "2023年部分节假日安排出炉",
       "onboard_time": 1670521993,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 232307,
+      "num": 232307,
+      "word": "江苏省中医院公布防治新冠中药方",
+      "onboard_time": 1670798467,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -16515,14 +16547,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 192364,
-      "num": 192364,
-      "word": "呼和浩特4.1级地震",
-      "onboard_time": 1670800386,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 192254,
       "num": 192254,
       "word": "这小猫咪怎么虎里虎气的",
@@ -18379,14 +18403,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 166986,
-      "num": 166986,
-      "word": "江苏省中医院公布防治新冠中药方",
-      "onboard_time": 1670798467,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 166945,
       "num": 623352,
       "word": "巴西将对阵克罗地亚",
@@ -20219,14 +20235,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 143152,
-      "num": 143152,
-      "word": "iPhone15Ultra或万元起步",
-      "onboard_time": 1670800027,
-      "rank": 16,
-      "category": "科技"
-    },
-    {
       "raw_hot": 143064,
       "num": 606641,
       "word": "苹果又两名高管离职",
@@ -20881,6 +20889,14 @@
       "onboard_time": 1669914787,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 135759,
+      "num": 94323,
+      "word": "厂家回应黄桃罐头中含有石头",
+      "onboard_time": 1670800687,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 135729,
@@ -24427,6 +24443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 76095,
+      "num": 76095,
+      "word": "趴着玩手机的正确姿势",
+      "onboard_time": 1670801168,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 75605,
       "num": 462458,
       "word": "美国进球",
@@ -24441,6 +24465,14 @@
       "onboard_time": 1670607557,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 74530,
+      "num": 74530,
+      "word": "冰面被冲走男子大喊提醒冰钓者上岸",
+      "onboard_time": 1670800986,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 74367,
@@ -24723,6 +24755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 59695,
+      "num": 59695,
+      "word": "保洁打扫房间顺便帮警方抓了嫌犯",
+      "onboard_time": 1670801287,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 59595,
       "num": 117071,
       "word": "波兰点球",
@@ -24945,14 +24985,6 @@
       "onboard_time": 1670180350,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 39601,
-      "num": 39601,
-      "word": "厂家回应黄桃罐头中含有石头",
-      "onboard_time": 1670800687,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 39069,

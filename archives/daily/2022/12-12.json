@@ -1,6 +1,6 @@
 {
   "startTime": 1670775913271,
-  "endTime": 1670800732668,
+  "endTime": 1670801610183,
   "band_list": [
     {
       "raw_hot": 3734719,
@@ -19,19 +19,19 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 1740444,
+      "num": 1740444,
+      "word": "行程卡下线",
+      "onboard_time": 1670776632,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1311879,
       "num": 1311879,
       "word": "二次感染新冠会更严重吗",
       "onboard_time": 1670763136,
       "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1156532,
-      "num": 1156532,
-      "word": "行程卡下线",
-      "onboard_time": 1670776632,
-      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -51,8 +51,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 936005,
-      "num": 936005,
+      "raw_hot": 988726,
+      "num": 988726,
       "word": "预计1个月内达到感染峰值",
       "onboard_time": 1670760077,
       "rank": 6,
@@ -83,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 503696,
+      "num": 95395,
+      "word": "广东一女网红开车送货途中遇害",
+      "onboard_time": 1670800746,
+      "rank": 30,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 498358,
       "num": 498358,
       "word": "江泽民同志骨灰撒入江海",
@@ -107,12 +115,36 @@
       "category": "体育,音乐"
     },
     {
+      "raw_hot": 317426,
+      "num": 317426,
+      "word": "呼和浩特4.1级地震",
+      "onboard_time": 1670800386,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 313255,
+      "num": 313255,
+      "word": "开窗通风是否会有被传染的风险",
+      "onboard_time": 1670790612,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 304648,
       "num": 304648,
       "word": "爱的二八定律大结局",
       "onboard_time": 1670761458,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 297034,
+      "num": 297034,
+      "word": "iPhone15Ultra或万元起步",
+      "onboard_time": 1670800027,
+      "rank": 16,
+      "category": "科技"
     },
     {
       "raw_hot": 282077,
@@ -155,12 +187,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 251255,
-      "num": 251255,
-      "word": "开窗通风是否会有被传染的风险",
-      "onboard_time": 1670790612,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 252873,
+      "num": 1254046,
+      "word": "无症状感染者不需要吃药",
+      "onboard_time": 1670767756,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 240550,
@@ -171,12 +203,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 239046,
-      "num": 1240216,
-      "word": "无症状感染者不需要吃药",
-      "onboard_time": 1670767756,
-      "rank": 2,
-      "category": "国内要闻"
+      "raw_hot": 232307,
+      "num": 232307,
+      "word": "江苏省中医院公布防治新冠中药方",
+      "onboard_time": 1670798467,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 222075,
@@ -251,14 +283,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 192364,
-      "num": 192364,
-      "word": "呼和浩特4.1级地震",
-      "onboard_time": 1670800386,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 179639,
       "num": 179639,
       "word": "有一种思念叫做异地恋",
@@ -275,28 +299,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 166986,
-      "num": 166986,
-      "word": "江苏省中医院公布防治新冠中药方",
-      "onboard_time": 1670798467,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 144468,
       "num": 144468,
       "word": "玩偶调戏路人帅哥反被拿捏",
       "onboard_time": 1670770698,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 143152,
-      "num": 143152,
-      "word": "iPhone15Ultra或万元起步",
-      "onboard_time": 1670800027,
-      "rank": 16,
-      "category": "科技"
     },
     {
       "raw_hot": 140883,
@@ -321,6 +329,14 @@
       "onboard_time": 1670761335,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 135759,
+      "num": 94323,
+      "word": "厂家回应黄桃罐头中含有石头",
+      "onboard_time": 1670800687,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 134166,
@@ -427,6 +443,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 102551,
+      "num": 102551,
+      "word": "许半夏遭前夫报复",
+      "onboard_time": 1670760918,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 102352,
       "num": 102352,
       "word": "巴黎街头球迷狂欢变骚乱",
@@ -451,12 +475,20 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 78511,
-      "num": 78511,
-      "word": "许半夏遭前夫报复",
-      "onboard_time": 1670760918,
-      "rank": 49,
-      "category": "影视"
+      "raw_hot": 76095,
+      "num": 76095,
+      "word": "趴着玩手机的正确姿势",
+      "onboard_time": 1670801168,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 74530,
+      "num": 74530,
+      "word": "冰面被冲走男子大喊提醒冰钓者上岸",
+      "onboard_time": 1670800986,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 71066,
@@ -483,6 +515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 59695,
+      "num": 59695,
+      "word": "保洁打扫房间顺便帮警方抓了嫌犯",
+      "onboard_time": 1670801287,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 58930,
       "num": 58930,
       "word": "王以太当客服说了65次亲",
@@ -497,14 +537,6 @@
       "onboard_time": 1670783050,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 39601,
-      "num": 39601,
-      "word": "厂家回应黄桃罐头中含有石头",
-      "onboard_time": 1670800687,
-      "rank": 48,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
