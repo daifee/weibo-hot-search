@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/12/12 00:25:13 ~ 2022/12/12 04:33:21
+本榜单时间：2022/12/12 00:25:13 ~ 2022/12/12 05:15:41
 </p>
 </blockquote>
 <p>
@@ -321,6 +321,12 @@ C罗告别世界杯球迷纷纷落泪（热度：80251）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%80%E7%AA%97%E9%80%9A%E9%A3%8E%E6%98%AF%E5%90%A6%E4%BC%9A%E6%9C%89%E8%A2%AB%E4%BC%A0%E6%9F%93%E7%9A%84%E9%A3%8E%E9%99%A9%23" target="weibo">
+开窗通风是否会有被传染的风险（热度：74876）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AD%A6%E6%B1%89%E5%8F%91%E7%83%AD%E9%97%A8%E8%AF%8A%E6%82%A3%E8%80%85%E5%A4%A7%E6%8E%92%E9%95%BF%E9%BE%99%23" target="weibo">
 武汉发热门诊患者大排长龙（热度：71066）
 </a>
@@ -353,12 +359,6 @@ C罗 双眼皮贴（热度：69175）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E5%8D%8A%E5%A4%8F%E9%81%AD%E5%89%8D%E5%A4%AB%E6%8A%A5%E5%A4%8D%23" target="weibo">
 许半夏遭前夫报复（热度：25989）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%80%E7%AA%97%E9%80%9A%E9%A3%8E%E6%98%AF%E5%90%A6%E4%BC%9A%E6%9C%89%E8%A2%AB%E4%BC%A0%E6%9F%93%E7%9A%84%E9%A3%8E%E9%99%A9%23" target="weibo">
-开窗通风是否会有被传染的风险（热度：12759）
 </a>
 </li>
 
