@@ -1,6 +1,6 @@
 {
   "startTime": 1670689529040,
-  "endTime": 1670739778480,
+  "endTime": 1670740672571,
   "band_list": [
     {
       "raw_hot": 13790167,
@@ -219,6 +219,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 880900,
+      "num": 880900,
+      "word": "草莓塔",
+      "onboard_time": 1670736193,
+      "rank": 35,
+      "category": "美食,情感"
+    },
+    {
       "raw_hot": 873010,
       "num": 873010,
       "word": "世界杯4强出炉",
@@ -307,6 +315,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 704539,
+      "num": 704539,
+      "word": "国足都曾击败过本届世界杯4强",
+      "onboard_time": 1670735112,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 700053,
       "num": 700053,
       "word": "阿根廷vs克罗地亚",
@@ -329,14 +345,6 @@
       "onboard_time": 1670728631,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 694444,
-      "num": 694444,
-      "word": "草莓塔",
-      "onboard_time": 1670736193,
-      "rank": 35,
-      "category": "美食,情感"
     },
     {
       "raw_hot": 692907,
@@ -376,14 +384,6 @@
       "word": "葡萄牙 白色球衣",
       "onboard_time": 1670686700,
       "rank": 16,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 634199,
-      "num": 634199,
-      "word": "国足都曾击败过本届世界杯4强",
-      "onboard_time": 1670735112,
-      "rank": 41,
       "category": "体育"
     },
     {
@@ -443,6 +443,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 552173,
+      "num": 542621,
+      "word": "李光洁为联系老婆踢走整个群",
+      "onboard_time": 1670737755,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 494138,
       "num": 494138,
       "word": "C罗替补",
@@ -489,14 +497,6 @@
       "onboard_time": 1670727370,
       "rank": 18,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 455837,
-      "num": 455837,
-      "word": "李光洁为联系老婆踢走整个群",
-      "onboard_time": 1670737755,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 453864,
@@ -627,6 +627,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 340978,
+      "num": 340978,
+      "word": "AAA",
+      "onboard_time": 1670739913,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 337846,
+      "num": 337846,
+      "word": "连花清瘟不是所有体质都适用",
+      "onboard_time": 1670737874,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 328044,
       "num": 328044,
       "word": "桑托斯说不后悔C罗替补",
@@ -691,14 +707,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 304452,
-      "num": 304452,
-      "word": "连花清瘟不是所有体质都适用",
-      "onboard_time": 1670737874,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 303686,
       "num": 303686,
       "word": "周深问阿杜到底在车底还是车里",
@@ -761,6 +769,14 @@
       "onboard_time": 1670730912,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 279814,
+      "num": 279814,
+      "word": "女生夜间打车被问是不是恨嫁",
+      "onboard_time": 1670739255,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 279286,
@@ -995,6 +1011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 199670,
+      "num": 199670,
+      "word": "70万天价药入医保患儿打6针仅付3万",
+      "onboard_time": 1670737515,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 195815,
       "num": 195815,
       "word": "无畏 帅",
@@ -1113,14 +1137,6 @@
       "onboard_time": 1670732892,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 176161,
-      "num": 176161,
-      "word": "70万天价药入医保患儿打6针仅付3万",
-      "onboard_time": 1670737515,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 175878,
@@ -1299,6 +1315,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 145103,
+      "num": 145103,
+      "word": "石狮遇到猫",
+      "onboard_time": 1670738775,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 145049,
       "num": 145049,
       "word": "凯恩失点",
@@ -1320,14 +1344,6 @@
       "word": "体温超过38.5℃就要吃退烧药",
       "onboard_time": 1670664378,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 144274,
-      "num": 144274,
-      "word": "女生夜间打车被问是不是恨嫁",
-      "onboard_time": 1670739255,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -1353,6 +1369,14 @@
       "onboard_time": 1670673979,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 139542,
+      "num": 139542,
+      "word": "世界杯半决赛赛程出炉",
+      "onboard_time": 1670738294,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 134974,
@@ -1443,20 +1467,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 123962,
-      "num": 123962,
-      "word": "世界杯半决赛赛程出炉",
-      "onboard_time": 1670738294,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 123051,
       "num": 123051,
       "word": "清清的对抗路信念",
       "onboard_time": 1670735952,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 122160,
+      "num": 122160,
+      "word": "小鬼在搞一种很新的emo",
+      "onboard_time": 1670738174,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 120612,
@@ -1483,20 +1507,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 114794,
-      "num": 114794,
-      "word": "小鬼在搞一种很新的emo",
-      "onboard_time": 1670738174,
+      "raw_hot": 112872,
+      "num": 112872,
+      "word": "关晓彤时尚健康萌宠封面拍摄花絮",
+      "onboard_time": 1670739794,
       "rank": 45,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 113671,
-      "num": 113671,
-      "word": "石狮遇到猫",
-      "onboard_time": 1670738775,
-      "rank": 46,
-      "category": "幽默"
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 107465,
@@ -1513,6 +1529,22 @@
       "onboard_time": 1670694315,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 106460,
+      "num": 106460,
+      "word": "武汉发热门诊患者大排长龙",
+      "onboard_time": 1670740575,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 105440,
+      "num": 105440,
+      "word": "夫妻领养女孩给儿换亲养大后舍不得",
+      "onboard_time": 1670740634,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 95505,
