@@ -1,6 +1,6 @@
 {
   "startTime": 1670775913271,
-  "endTime": 1670797055093,
+  "endTime": 1670798040362,
   "band_list": [
     {
       "raw_hot": 3734719,
@@ -363,6 +363,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 115444,
+      "num": 115444,
+      "word": "开窗通风是否会有被传染的风险",
+      "onboard_time": 1670790612,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 111026,
       "num": 111026,
       "word": "小米",
@@ -377,14 +385,6 @@
       "onboard_time": 1670766915,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 106208,
-      "num": 87980,
-      "word": "开窗通风是否会有被传染的风险",
-      "onboard_time": 1670790612,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 104417,
@@ -459,8 +459,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 25989,
-      "num": 25989,
+      "raw_hot": 27200,
+      "num": 27200,
       "word": "许半夏遭前夫报复",
       "onboard_time": 1670760918,
       "rank": 49,
