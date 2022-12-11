@@ -1,6 +1,6 @@
 {
   "startTime": 1670689529040,
-  "endTime": 1670746984369,
+  "endTime": 1670747810215,
   "band_list": [
     {
       "raw_hot": 13790167,
@@ -235,6 +235,22 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 976340,
+      "num": 976340,
+      "word": "C罗 双眼皮贴",
+      "onboard_time": 1670745978,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 934598,
+      "num": 934598,
+      "word": "美国男子被发现是新冠超级免疫者",
+      "onboard_time": 1670744114,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 927350,
       "num": 927350,
       "word": "范世錡迟到激怒尔冬升",
@@ -403,11 +419,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 670367,
-      "num": 670367,
-      "word": "美国男子被发现是新冠超级免疫者",
-      "onboard_time": 1670744114,
-      "rank": 6,
+      "raw_hot": 676398,
+      "num": 537630,
+      "word": "北京流行的毒株比广州更厉害吗",
+      "onboard_time": 1670743575,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -448,14 +464,6 @@
       "word": "夫妻领养女孩给儿换亲养大后舍不得",
       "onboard_time": 1670740634,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 643989,
-      "num": 486721,
-      "word": "北京流行的毒株比广州更厉害吗",
-      "onboard_time": 1670743575,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -515,6 +523,22 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 540175,
+      "num": 540175,
+      "word": "杨幂对杜华说不建议公开吐槽自己家艺人",
+      "onboard_time": 1670744422,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 539155,
+      "num": 539155,
+      "word": "陈梦",
+      "onboard_time": 1670746695,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 533048,
       "num": 533048,
       "word": "孙颖莎",
@@ -537,14 +561,6 @@
       "onboard_time": 1670684301,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 481146,
-      "num": 481146,
-      "word": "C罗 双眼皮贴",
-      "onboard_time": 1670745978,
-      "rank": 11,
-      "category": "体育"
     },
     {
       "raw_hot": 475256,
@@ -587,6 +603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 452320,
+      "num": 452320,
+      "word": "李诞说今年没有不回家的理由了",
+      "onboard_time": 1670746517,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 445815,
       "num": 445815,
       "word": "我军潜艇遭外国反潜机跟踪机智脱身",
@@ -595,12 +619,12 @@
       "category": "军事,社会新闻"
     },
     {
-      "raw_hot": 423920,
-      "num": 423920,
-      "word": "杨幂对杜华说不建议公开吐槽自己家艺人",
-      "onboard_time": 1670744422,
-      "rank": 13,
-      "category": "综艺"
+      "raw_hot": 429322,
+      "num": 429322,
+      "word": "阳了后买不到药怎么办",
+      "onboard_time": 1670744536,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 423393,
@@ -715,12 +739,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 364544,
-      "num": 364544,
-      "word": "阳了后买不到药怎么办",
-      "onboard_time": 1670744536,
-      "rank": 15,
-      "category": "社会新闻"
+      "raw_hot": 359474,
+      "num": 1351236,
+      "word": "感染新冠居家中医药干预指引",
+      "onboard_time": 1670745856,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 355143,
+      "num": 355143,
+      "word": "林孝埈银牌",
+      "onboard_time": 1670746875,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 353672,
@@ -875,12 +907,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 295729,
-      "num": 295729,
-      "word": "李诞说今年没有不回家的理由了",
-      "onboard_time": 1670746517,
-      "rank": 19,
-      "category": "艺人"
+      "raw_hot": 289175,
+      "num": 289175,
+      "word": "大学生火车跳20分钟健美操赶交作业",
+      "onboard_time": 1670745856,
+      "rank": 49,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 287908,
@@ -971,22 +1003,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 260899,
-      "num": 1281733,
-      "word": "感染新冠居家中医药干预指引",
-      "onboard_time": 1670745856,
-      "rank": 2,
-      "category": "国内要闻"
-    },
-    {
-      "raw_hot": 260575,
-      "num": 260575,
-      "word": "陈梦",
-      "onboard_time": 1670746695,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 259753,
       "num": 259753,
       "word": "阿云嘎说谢谢蔡徐坤胡彦斌支持中国音乐剧",
@@ -1067,8 +1083,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 226371,
+      "num": 226371,
+      "word": "田曦薇拍求医戏片场连跪四次",
+      "onboard_time": 1670746875,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 225730,
-      "num": 189928,
+      "num": 191301,
       "word": "王鹤棣以爱为营车窗戏氛围感",
       "onboard_time": 1670743820,
       "rank": 26,
@@ -1105,6 +1129,14 @@
       "onboard_time": 1670685622,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 218009,
+      "num": 218009,
+      "word": "孙颖莎3比1王曼昱",
+      "onboard_time": 1670745195,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 214198,
@@ -1155,6 +1187,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 208338,
+      "num": 208338,
+      "word": "专家称应尽量避免感染或晚感染",
+      "onboard_time": 1670746575,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 202636,
       "num": 202636,
       "word": "范志毅预测C罗会替补进球",
@@ -1195,14 +1235,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 194548,
-      "num": 194548,
-      "word": "孙颖莎3比1王曼昱",
-      "onboard_time": 1670745195,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 194438,
       "num": 194438,
       "word": "视频里的消防员爸爸走了",
@@ -1225,6 +1257,14 @@
       "onboard_time": 1670689937,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 190112,
+      "num": 190112,
+      "word": "许半夏被村民联名起诉",
+      "onboard_time": 1670746935,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 189272,
@@ -1281,6 +1321,14 @@
       "onboard_time": 1670692454,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 179085,
+      "num": 179085,
+      "word": "专家反驳早阳早自由",
+      "onboard_time": 1670747655,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 178130,
@@ -1385,14 +1433,6 @@
       "onboard_time": 1670714110,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 171759,
-      "num": 171759,
-      "word": "田曦薇拍求医戏片场连跪四次",
-      "onboard_time": 1670746875,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 171414,
@@ -1555,14 +1595,6 @@
       "category": "美食,情感"
     },
     {
-      "raw_hot": 152056,
-      "num": 152056,
-      "word": "专家称应尽量避免感染或晚感染",
-      "onboard_time": 1670746575,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 151233,
       "num": 151233,
       "word": "马嘉祺说要平衡好学业跟事业",
@@ -1587,12 +1619,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 145467,
-      "num": 132403,
-      "word": "许半夏被村民联名起诉",
-      "onboard_time": 1670746935,
-      "rank": 47,
-      "category": "影视"
+      "raw_hot": 149353,
+      "num": 149353,
+      "word": "感染者同住人要注意什么",
+      "onboard_time": 1670745075,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 145049,
@@ -1659,14 +1691,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 138685,
-      "num": 138685,
-      "word": "感染者同住人要注意什么",
-      "onboard_time": 1670745075,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 134974,
       "num": 134974,
       "word": "一个时代结束了",
@@ -1707,14 +1731,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 130331,
-      "num": 130331,
-      "word": "林孝埈银牌",
-      "onboard_time": 1670746875,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 129613,
       "num": 129613,
       "word": "吉鲁头球破门",
@@ -1737,14 +1753,6 @@
       "onboard_time": 1670695221,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 127362,
-      "num": 127362,
-      "word": "大学生火车跳20分钟健美操赶交作业",
-      "onboard_time": 1670745856,
-      "rank": 49,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 127308,
@@ -1801,6 +1809,14 @@
       "onboard_time": 1670738174,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 121540,
+      "num": 121540,
+      "word": "2岁娃被小女孩纠正猎豹外套崩溃哭",
+      "onboard_time": 1670747296,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 120612,
