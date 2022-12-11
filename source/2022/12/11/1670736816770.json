@@ -1,0 +1,410 @@
+{
+  "runTime": 1670736816770,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1986312,
+        "num": 1986312,
+        "word": "女子买连花清瘟被捆绑5种药品",
+        "onboard_time": 1670730251,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1086005,
+        "num": 1086005,
+        "word": "葡萄牙总统称C罗不太可能再征战世界杯",
+        "onboard_time": 1670726412,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 222961,
+        "num": 964354,
+        "word": "这些有关防疫的传言都不可信",
+        "onboard_time": 1670729111,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 856646,
+        "num": 856646,
+        "word": "钟南山认为今年就地过年可能性很小",
+        "onboard_time": 1670722451,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 773838,
+        "num": 773838,
+        "word": "卡卡发文鼓励C罗",
+        "onboard_time": 1670728452,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 654012,
+        "num": 654012,
+        "word": "刘畊宏50岁的年龄18岁的身体",
+        "onboard_time": 1670733853,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 589241,
+        "num": 589241,
+        "word": "感染新冠后为什么会全身酸疼",
+        "onboard_time": 1670727015,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 572373,
+        "num": 572373,
+        "word": "丈夫转1万生活费妻子花5千办美容卡",
+        "onboard_time": 1670716751,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 508931,
+        "num": 508931,
+        "word": "决赛会是克罗地亚vs摩洛哥吗",
+        "onboard_time": 1670728750,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 496400,
+        "num": 496400,
+        "word": "葡萄牙球迷怒喷桑托斯",
+        "onboard_time": 1670734573,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 493941,
+        "num": 493941,
+        "word": "疫情结束了去见想见的人吧",
+        "onboard_time": 1670728631,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 392961,
+        "num": 392961,
+        "word": "10岁男孩122斤跟爸爸运动减34斤",
+        "onboard_time": 1670733618,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 359019,
+        "num": 359019,
+        "word": "红毯还是得看女明星",
+        "onboard_time": 1670722690,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 341547,
+        "num": 341547,
+        "word": "赵丽颖金丝眼镜礼帽造型",
+        "onboard_time": 1670727911,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 339562,
+        "num": 339562,
+        "word": "国足都曾击败过本届世界杯4强",
+        "onboard_time": 1670735112,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 323681,
+        "num": 323681,
+        "word": "女子超市拎起葡萄边抖边吃还不买",
+        "onboard_time": 1670728092,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303686,
+        "num": 303686,
+        "word": "周深问阿杜到底在车底还是车里",
+        "onboard_time": 1670735173,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 277888,
+        "num": 277888,
+        "word": "云中谁寄锦书来开播",
+        "onboard_time": 1670733254,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 277197,
+        "num": 277197,
+        "word": "内马尔说自己在心理上被击垮了",
+        "onboard_time": 1670729591,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 265293,
+        "num": 265293,
+        "word": "佘诗曼邓萃雯张可颐再现金枝欲孽",
+        "onboard_time": 1670730912,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 263369,
+        "num": 263369,
+        "word": "沉船捞出165年前牛仔裤80万卖出",
+        "onboard_time": 1670727911,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258084,
+        "num": 258084,
+        "word": "C罗女友发文指责葡萄牙主教练",
+        "onboard_time": 1670715790,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 250879,
+        "num": 250879,
+        "word": "陈飞宇张婧仪片场交流打太极",
+        "onboard_time": 1670735534,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 250181,
+        "num": 250181,
+        "word": "桑托斯说不后悔C罗替补",
+        "onboard_time": 1670729652,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 242486,
+        "num": 242486,
+        "word": "不是一阳性就要用药",
+        "onboard_time": 1670727491,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240115,
+        "num": 240115,
+        "word": "张真源三周年PB拍摄花絮",
+        "onboard_time": 1670736070,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 239004,
+        "num": 239004,
+        "word": "王鹤棣时宴穿西装喝咖啡",
+        "onboard_time": 1670730672,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 224160,
+        "num": 224160,
+        "word": "Hero发公告呼吁理智观赛",
+        "onboard_time": 1670731632,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 221797,
+        "num": 221797,
+        "word": "没想到数学试卷都出口了",
+        "onboard_time": 1670735353,
+        "rank": 28,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 218978,
+        "num": 218978,
+        "word": "梅西 诸神黄昏希望",
+        "onboard_time": 1670693177,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211412,
+        "num": 211412,
+        "word": "陈晓说陈妍希的演技是殿堂级的",
+        "onboard_time": 1670713869,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 196798,
+        "num": 196798,
+        "word": "前任突然加微信你如何回复",
+        "onboard_time": 1670724016,
+        "rank": 31,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 186584,
+        "num": 186584,
+        "word": "小七翻译官",
+        "onboard_time": 1670729773,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 186243,
+        "num": 186243,
+        "word": "久哲 BP",
+        "onboard_time": 1670726352,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 177725,
+        "num": 177725,
+        "word": "阳性居家要注意什么",
+        "onboard_time": 1670734153,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168109,
+        "num": 168109,
+        "word": "草莓塔",
+        "onboard_time": 1670736193,
+        "rank": 35,
+        "category": "美食,情感"
+      },
+      {
+        "raw_hot": 168088,
+        "num": 168088,
+        "word": "被华晨宇演唱会庆功宴整破防了",
+        "onboard_time": 1670735952,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 165410,
+        "num": 165410,
+        "word": "女子手卡便池男友笑问消防员笑没",
+        "onboard_time": 1670721614,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164737,
+        "num": 164737,
+        "word": "C罗",
+        "onboard_time": 1670684540,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163003,
+        "num": 163003,
+        "word": "童骁骑想独自抗下滩涂事件",
+        "onboard_time": 1670735653,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 161462,
+        "num": 161462,
+        "word": "北京12月10日新增感染者情况",
+        "onboard_time": 1670724612,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153719,
+        "num": 153719,
+        "word": "父子录视频父亲失足掉河引质疑",
+        "onboard_time": 1670725092,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153696,
+        "num": 153696,
+        "word": "英格兰1比2法国",
+        "onboard_time": 1670706372,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151220,
+        "num": 151220,
+        "word": "摩洛哥1比0葡萄牙",
+        "onboard_time": 1670692220,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146509,
+        "num": 146509,
+        "word": "马嘉祺个人单曲预告片",
+        "onboard_time": 1670732172,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 141121,
+        "num": 141121,
+        "word": "为什么这届年轻人喜欢假东西",
+        "onboard_time": 1670736734,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137619,
+        "num": 137619,
+        "word": "阳性第2天身体有多大变化",
+        "onboard_time": 1670681779,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182068,
+        "num": 136807,
+        "word": "时代少年团说2023年想开演唱会",
+        "onboard_time": 1670736793,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 132947,
+        "num": 132947,
+        "word": "STAYC见面会唱王心凌爱你",
+        "onboard_time": 1670732172,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 123051,
+        "num": 123051,
+        "word": "清清的对抗路信念",
+        "onboard_time": 1670735952,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#从习主席署名文章看大国外交#"
+    }
+  }
+}
