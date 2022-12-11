@@ -1,0 +1,410 @@
+{
+  "runTime": 1670776987602,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3734719,
+        "num": 3734719,
+        "word": "行程卡",
+        "onboard_time": 1670776033,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1618198,
+        "num": 1618198,
+        "word": "拉伊卜小王子首次回应身世",
+        "onboard_time": 1670771356,
+        "rank": 1,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 208438,
+        "num": 1240216,
+        "word": "无症状感染者不需要吃药",
+        "onboard_time": 1670767756,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1067568,
+        "num": 1067568,
+        "word": "二次感染新冠会更严重吗",
+        "onboard_time": 1670763136,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1052935,
+        "num": 1052935,
+        "word": "C罗说梦想结束了",
+        "onboard_time": 1670772915,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 709932,
+        "num": 709932,
+        "word": "预计1个月内达到感染峰值",
+        "onboard_time": 1670760077,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 690661,
+        "num": 690661,
+        "word": "保定放开之后",
+        "onboard_time": 1670770758,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 682304,
+        "num": 682304,
+        "word": "女孩在家楼下补课后失联已11年",
+        "onboard_time": 1670770825,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 485869,
+        "num": 485869,
+        "word": "结婚12年才发现喜被里有葱",
+        "onboard_time": 1670754435,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 414149,
+        "num": 414149,
+        "word": "江泽民同志骨灰撒入江海",
+        "onboard_time": 1670754021,
+        "rank": 9,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 798013,
+        "num": 410925,
+        "word": "赵丽颖回复谢娜十三角关系我一定到位",
+        "onboard_time": 1670773819,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 399430,
+        "num": 399430,
+        "word": "财阀家的小儿子",
+        "onboard_time": 1670759597,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 382115,
+        "num": 382115,
+        "word": "世界杯半决赛现场将播放孤勇者",
+        "onboard_time": 1670772736,
+        "rank": 12,
+        "category": "体育,音乐"
+      },
+      {
+        "raw_hot": 252438,
+        "num": 252438,
+        "word": "财阀家的小儿子11",
+        "onboard_time": 1670771235,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 252298,
+        "num": 252298,
+        "word": "张艺兴说为梦想努力奋斗的人值得尊敬",
+        "onboard_time": 1670759476,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248255,
+        "num": 248255,
+        "word": "女子开空调烧熏香守母亲遗体3个月",
+        "onboard_time": 1670754078,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244437,
+        "num": 244437,
+        "word": "Doinb 盛世如你所愿",
+        "onboard_time": 1670765958,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 231928,
+        "num": 231928,
+        "word": "爱的二八定律大结局",
+        "onboard_time": 1670761458,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 228653,
+        "num": 228653,
+        "word": "奥密克戎如何正确用药",
+        "onboard_time": 1670773095,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200148,
+        "num": 200148,
+        "word": "小米13",
+        "onboard_time": 1670759537,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 188766,
+        "num": 188766,
+        "word": "部分地区强调不戴口罩造成疫情传播将追责",
+        "onboard_time": 1670761037,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185806,
+        "num": 185806,
+        "word": "陈飞宇金发夜色大片",
+        "onboard_time": 1670770758,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 175916,
+        "num": 175916,
+        "word": "阳过一次后多久可能再阳",
+        "onboard_time": 1670762776,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175501,
+        "num": 175501,
+        "word": "德尚说摩洛哥晋级是理所当然的",
+        "onboard_time": 1670773219,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173446,
+        "num": 173446,
+        "word": "让你长时间单身的原因",
+        "onboard_time": 1670763797,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 170737,
+        "num": 170737,
+        "word": "女儿月薪3千攒1年钱为妈妈买金手镯",
+        "onboard_time": 1670755276,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166916,
+        "num": 166916,
+        "word": "蒋依依小品首秀",
+        "onboard_time": 1670769677,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151583,
+        "num": 151583,
+        "word": "行程卡下线",
+        "onboard_time": 1670776632,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147929,
+        "num": 147929,
+        "word": "有一种思念叫做异地恋",
+        "onboard_time": 1670771175,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 146743,
+        "num": 146743,
+        "word": "马思纯晒楼梯间随拍",
+        "onboard_time": 1670771057,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144196,
+        "num": 144196,
+        "word": "免疫力低下人群冬季如何运动",
+        "onboard_time": 1670774654,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127042,
+        "num": 127042,
+        "word": "14岁男孩手掌一直出汗如下雨",
+        "onboard_time": 1670760858,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126199,
+        "num": 126199,
+        "word": "拿招聘文员要求身材好玩梗也是物化女性",
+        "onboard_time": 1670775552,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121341,
+        "num": 121341,
+        "word": "韩雯雯有多依赖朱孝天",
+        "onboard_time": 1670776094,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114444,
+        "num": 114444,
+        "word": "LWX 刀妹",
+        "onboard_time": 1670765596,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 114271,
+        "num": 114271,
+        "word": "陶俊辉发现秦施阳华离婚",
+        "onboard_time": 1670761335,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 110482,
+        "num": 110482,
+        "word": "玩偶调戏路人帅哥反被拿捏",
+        "onboard_time": 1670770698,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108028,
+        "num": 108028,
+        "word": "樊振东3比1马龙",
+        "onboard_time": 1670762658,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106809,
+        "num": 106809,
+        "word": "家政阿姨偷吃饭菜雇主每天吃口水菜",
+        "onboard_time": 1670749695,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99580,
+        "num": 99580,
+        "word": "许半夏赵垒在钢厂结婚",
+        "onboard_time": 1670758820,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 97660,
+        "num": 97660,
+        "word": "苏醒说人一辈子或找到伴侣或忠于自己",
+        "onboard_time": 1670767337,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97080,
+        "num": 97080,
+        "word": "白鲨首夺CFS总冠军",
+        "onboard_time": 1670766915,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 96865,
+        "num": 96865,
+        "word": "阳华用和秦施结婚纪念日买股票",
+        "onboard_time": 1670772195,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 95780,
+        "num": 95780,
+        "word": "小米",
+        "onboard_time": 1670757556,
+        "rank": 43,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 88924,
+        "num": 88924,
+        "word": "马嘉祺听到有弦乐团的反应",
+        "onboard_time": 1670769558,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86153,
+        "num": 86153,
+        "word": "当小狗被主人说变丑后",
+        "onboard_time": 1670763020,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 80338,
+        "num": 80338,
+        "word": "巴黎街头球迷狂欢变骚乱",
+        "onboard_time": 1670773095,
+        "rank": 46,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 67754,
+        "num": 67754,
+        "word": "武汉发热门诊患者大排长龙",
+        "onboard_time": 1670740575,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65706,
+        "num": 65706,
+        "word": "怪不得世界杯出图快",
+        "onboard_time": 1670765116,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 64824,
+        "num": 64824,
+        "word": "C罗告别世界杯球迷纷纷落泪",
+        "onboard_time": 1670748797,
+        "rank": 49,
+        "category": "体育,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中阿友好相信还会好上加好#"
+    }
+  }
+}
