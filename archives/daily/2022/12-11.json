@@ -1,6 +1,6 @@
 {
   "startTime": 1670689529040,
-  "endTime": 1670727716273,
+  "endTime": 1670729061558,
   "band_list": [
     {
       "raw_hot": 13790167,
@@ -105,6 +105,14 @@
       "onboard_time": 1670722451,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1267725,
+      "num": 1267725,
+      "word": "葡萄牙总统称C罗不太可能再征战世界杯",
+      "onboard_time": 1670726412,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 1257268,
@@ -227,20 +235,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 738812,
+      "num": 738812,
+      "word": "前任突然加微信你如何回复",
+      "onboard_time": 1670724016,
+      "rank": 40,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 732745,
       "num": 732745,
       "word": "女子手卡便池男友笑问消防员笑没",
       "onboard_time": 1670721614,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 730398,
-      "num": 730398,
-      "word": "前任突然加微信你如何回复",
-      "onboard_time": 1670724016,
-      "rank": 40,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 712575,
@@ -259,6 +267,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 709549,
+      "num": 709549,
+      "word": "赵丽颖金丝眼镜礼帽造型",
+      "onboard_time": 1670727911,
+      "rank": 5,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 700053,
       "num": 700053,
       "word": "阿根廷vs克罗地亚",
@@ -275,19 +291,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 670162,
+      "num": 670162,
+      "word": "内马尔发文告别世界杯",
+      "onboard_time": 1670721730,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 658268,
       "num": 658268,
       "word": "卡卡将解说摩洛哥vs葡萄牙",
       "onboard_time": 1670685500,
       "rank": 10,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 648141,
-      "num": 648141,
-      "word": "内马尔发文告别世界杯",
-      "onboard_time": 1670721730,
-      "rank": 35,
       "category": "体育"
     },
     {
@@ -339,14 +355,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 516631,
-      "num": 516631,
-      "word": "葡萄牙总统称C罗不太可能再征战世界杯",
-      "onboard_time": 1670726412,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 494138,
       "num": 494138,
       "word": "C罗替补",
@@ -387,11 +395,27 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 419003,
+      "num": 419003,
+      "word": "久哲 BP",
+      "onboard_time": 1670726352,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 413537,
       "num": 413537,
       "word": "黄桃罐头为啥突然火了",
       "onboard_time": 1670718190,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 406762,
+      "num": 406762,
+      "word": "父子录视频父亲失足掉河引质疑",
+      "onboard_time": 1670725092,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -419,6 +443,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 390337,
+      "num": 390337,
+      "word": "不是一阳性就要用药",
+      "onboard_time": 1670727491,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 389881,
       "num": 389881,
       "word": "从小小罗到C罗",
@@ -427,11 +459,11 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 384943,
-      "num": 384943,
-      "word": "父子录视频父亲失足掉河引质疑",
-      "onboard_time": 1670725092,
-      "rank": 16,
+      "raw_hot": 384521,
+      "num": 384521,
+      "word": "感染新冠后为什么会全身酸疼",
+      "onboard_time": 1670727015,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -459,6 +491,22 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 327984,
+      "num": 327984,
+      "word": "黄晓明夸张小斐演技好",
+      "onboard_time": 1670727253,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 327657,
+      "num": 327657,
+      "word": "葡萄牙球员不满裁判安排",
+      "onboard_time": 1670725991,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 324885,
       "num": 324885,
       "word": "李诞说有腿毛的人不适合穿秋裤",
@@ -481,14 +529,6 @@
       "onboard_time": 1670706852,
       "rank": 49,
       "category": "财经"
-    },
-    {
-      "raw_hot": 305657,
-      "num": 305657,
-      "word": "葡萄牙球员不满裁判安排",
-      "onboard_time": 1670725991,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 300810,
@@ -531,6 +571,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 286131,
+      "num": 286131,
+      "word": "女子超市拎起葡萄边抖边吃还不买",
+      "onboard_time": 1670728092,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 283928,
+      "num": 283928,
+      "word": "沉船捞出165年前牛仔裤80万卖出",
+      "onboard_time": 1670727911,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 277768,
       "num": 277768,
       "word": "葡萄牙爆冷",
@@ -561,14 +617,6 @@
       "onboard_time": 1670676140,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 263113,
-      "num": 263113,
-      "word": "久哲 BP",
-      "onboard_time": 1670726352,
-      "rank": 34,
-      "category": "游戏"
     },
     {
       "raw_hot": 259753,
@@ -633,14 +681,6 @@
       "onboard_time": 1670686279,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 226002,
-      "num": 226002,
-      "word": "黄晓明夸张小斐演技好",
-      "onboard_time": 1670727253,
-      "rank": 29,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 225567,
@@ -715,20 +755,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 198369,
+      "num": 198369,
+      "word": "多地核酸采样服务调整",
+      "onboard_time": 1670726470,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 195815,
       "num": 195815,
       "word": "无畏 帅",
       "onboard_time": 1670685198,
       "rank": 36,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 195646,
-      "num": 195646,
-      "word": "多地核酸采样服务调整",
-      "onboard_time": 1670726470,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 194438,
@@ -779,14 +819,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 183225,
-      "num": 183225,
-      "word": "感染新冠后为什么会全身酸疼",
-      "onboard_time": 1670727015,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 182843,
       "num": 176409,
       "word": "葡萄牙 配合",
@@ -817,6 +849,14 @@
       "onboard_time": 1670681060,
       "rank": 29,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 178112,
+      "num": 133006,
+      "word": "无限超越班金枝欲孽预告",
+      "onboard_time": 1670729053,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 175878,
@@ -955,14 +995,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 148520,
-      "num": 148520,
-      "word": "不是一阳性就要用药",
-      "onboard_time": 1670727491,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 145049,
       "num": 145049,
       "word": "凯恩失点",
@@ -1011,6 +1043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 133380,
+      "num": 133380,
+      "word": "决赛会是克罗地亚vs摩洛哥吗",
+      "onboard_time": 1670728750,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132949,
       "num": 132949,
       "word": "周洁琼说结婚是非常神圣的",
@@ -1024,6 +1064,14 @@
       "word": "姆巴佩领衔英法大战",
       "onboard_time": 1670694674,
       "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 132093,
+      "num": 132093,
+      "word": "卡卡发文鼓励C罗",
+      "onboard_time": 1670728452,
+      "rank": 48,
       "category": "体育"
     },
     {
