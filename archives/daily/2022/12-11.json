@@ -1,6 +1,6 @@
 {
   "startTime": 1670689529040,
-  "endTime": 1670733539097,
+  "endTime": 1670735809787,
   "band_list": [
     {
       "raw_hot": 13790167,
@@ -59,20 +59,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2267035,
+      "num": 2267035,
+      "word": "女子买连花清瘟被捆绑5种药品",
+      "onboard_time": 1670730251,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2044659,
       "num": 2044659,
       "word": "摩洛哥 进球",
       "onboard_time": 1670687178,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1820099,
-      "num": 1820099,
-      "word": "女子买连花清瘟被捆绑5种药品",
-      "onboard_time": 1670730251,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1741928,
@@ -403,6 +403,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 515972,
+      "num": 515972,
+      "word": "刘畊宏50岁的年龄18岁的身体",
+      "onboard_time": 1670733853,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 494138,
       "num": 494138,
       "word": "C罗替补",
@@ -555,6 +563,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 335519,
+      "num": 335519,
+      "word": "10岁男孩122斤跟爸爸运动减34斤",
+      "onboard_time": 1670733618,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 328044,
       "num": 328044,
       "word": "桑托斯说不后悔C罗替补",
@@ -592,6 +608,14 @@
       "word": "摩洛哥 反击",
       "onboard_time": 1670687359,
       "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 313020,
+      "num": 313020,
+      "word": "内马尔说自己在心理上被击垮了",
+      "onboard_time": 1670729591,
+      "rank": 39,
       "category": "体育"
     },
     {
@@ -651,12 +675,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 287515,
+      "num": 287515,
+      "word": "周深问阿杜到底在车底还是车里",
+      "onboard_time": 1670735173,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 287222,
       "num": 287222,
       "word": "省二钢被查封伍建设破产",
       "onboard_time": 1670723890,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 280112,
+      "num": 280112,
+      "word": "佘诗曼邓萃雯张可颐再现金枝欲孽",
+      "onboard_time": 1670730912,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 279286,
@@ -699,14 +739,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 273044,
-      "num": 273044,
-      "word": "佘诗曼邓萃雯张可颐再现金枝欲孽",
-      "onboard_time": 1670730912,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 269861,
       "num": 269861,
       "word": "异地恋分手还要再见一面吗",
@@ -715,12 +747,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 269035,
-      "num": 269035,
-      "word": "内马尔说自己在心理上被击垮了",
-      "onboard_time": 1670729591,
-      "rank": 39,
-      "category": "体育"
+      "raw_hot": 263751,
+      "num": 263751,
+      "word": "云中谁寄锦书来开播",
+      "onboard_time": 1670733254,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 259753,
@@ -753,6 +785,14 @@
       "onboard_time": 1670692698,
       "rank": 25,
       "category": "体育,国外要闻"
+    },
+    {
+      "raw_hot": 240769,
+      "num": 240769,
+      "word": "葡萄牙球迷怒喷桑托斯",
+      "onboard_time": 1670734573,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 232306,
@@ -907,6 +947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 189272,
+      "num": 189272,
+      "word": "童骁骑想独自抗下滩涂事件",
+      "onboard_time": 1670735653,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 186689,
       "num": 186689,
       "word": "拥有一副理科脸的体育生",
@@ -937,6 +985,14 @@
       "onboard_time": 1670691858,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 181680,
+      "num": 181680,
+      "word": "陈飞宇张婧仪片场交流打太极",
+      "onboard_time": 1670735534,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 180011,
@@ -1027,6 +1083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 171797,
+      "num": 171797,
+      "word": "阳性居家要注意什么",
+      "onboard_time": 1670734153,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 171414,
       "num": 171414,
       "word": "按揉两个穴位可清肺热",
@@ -1083,11 +1147,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 163792,
+      "num": 163792,
+      "word": "李光洁风吹半夏县委大院包子联动",
+      "onboard_time": 1670734753,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 162953,
       "num": 162953,
       "word": "楚阿梅尼世界波",
       "onboard_time": 1670700552,
       "rank": 11,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 158689,
+      "num": 158689,
+      "word": "国足都曾击败过本届世界杯4强",
+      "onboard_time": 1670735112,
+      "rank": 41,
       "category": "体育"
     },
     {
@@ -1169,6 +1249,14 @@
       "onboard_time": 1670673979,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 138414,
+      "num": 138414,
+      "word": "没想到数学试卷都出口了",
+      "onboard_time": 1670735353,
+      "rank": 46,
+      "category": "幽默,教育"
     },
     {
       "raw_hot": 134974,
