@@ -1,6 +1,6 @@
 {
   "startTime": 1670689529040,
-  "endTime": 1670762039385,
+  "endTime": 1670763150099,
   "band_list": [
     {
       "raw_hot": 13790167,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 1833549,
-      "num": 959759,
+      "num": 1194847,
       "word": "结婚12年才发现喜被里有葱",
       "onboard_time": 1670754435,
       "rank": 35,
@@ -243,6 +243,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1112996,
+      "num": 1112996,
+      "word": "预计1个月内达到感染峰值",
+      "onboard_time": 1670760077,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1090207,
       "num": 1090207,
       "word": "B费",
@@ -324,7 +332,7 @@
     },
     {
       "raw_hot": 850333,
-      "num": 467825,
+      "num": 579904,
       "word": "女子开空调烧熏香守母亲遗体3个月",
       "onboard_time": 1670754078,
       "rank": 30,
@@ -337,6 +345,14 @@
       "onboard_time": 1670706372,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 817939,
+      "num": 817939,
+      "word": "LWX状态",
+      "onboard_time": 1670761396,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 817511,
@@ -588,7 +604,7 @@
     },
     {
       "raw_hot": 616766,
-      "num": 430006,
+      "num": 578572,
       "word": "张艺兴说为梦想努力奋斗的人值得尊敬",
       "onboard_time": 1670759476,
       "rank": 11,
@@ -635,6 +651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 580658,
+      "num": 580658,
+      "word": "芈月传作者评赵丽颖风吹半夏少女感",
+      "onboard_time": 1670760315,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 578142,
       "num": 578142,
       "word": "GQ",
@@ -675,20 +699,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 535991,
+      "num": 535991,
+      "word": "樊振东3比1马龙",
+      "onboard_time": 1670762658,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 533048,
       "num": 533048,
       "word": "孙颖莎",
       "onboard_time": 1670742736,
       "rank": 21,
       "category": "体育"
-    },
-    {
-      "raw_hot": 521058,
-      "num": 521058,
-      "word": "芈月传作者评赵丽颖风吹半夏少女感",
-      "onboard_time": 1670760315,
-      "rank": 8,
-      "category": "影视"
     },
     {
       "raw_hot": 520296,
@@ -723,6 +747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 485045,
+      "num": 485045,
+      "word": "陶俊辉发现秦施阳华离婚",
+      "onboard_time": 1670761335,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 475256,
       "num": 475256,
       "word": "久哲 BP",
@@ -744,14 +776,6 @@
       "word": "东北居民网购宠物猪收到已冻僵",
       "onboard_time": 1670737153,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 464349,
-      "num": 464349,
-      "word": "预计1个月内达到感染峰值",
-      "onboard_time": 1670760077,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -931,6 +955,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 383208,
+      "num": 383208,
+      "word": "14岁男孩手掌一直出汗如下雨",
+      "onboard_time": 1670760858,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 378375,
       "num": 378375,
       "word": "财阀家的小儿子",
@@ -995,14 +1027,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 345331,
-      "num": 345331,
-      "word": "陶俊辉发现秦施阳华离婚",
-      "onboard_time": 1670761335,
-      "rank": 16,
-      "category": "影视"
-    },
-    {
       "raw_hot": 338500,
       "num": 338500,
       "word": "2022内娱名场面",
@@ -1057,6 +1081,14 @@
       "onboard_time": 1670720891,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 321264,
+      "num": 294230,
+      "word": "爱的二八定律大结局",
+      "onboard_time": 1670761458,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 319434,
@@ -1251,6 +1283,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 274909,
+      "num": 274909,
+      "word": "部分地区强调不戴口罩造成疫情传播将追责",
+      "onboard_time": 1670761037,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 274783,
       "num": 274783,
       "word": "孕妇感染会影响胎儿吗",
@@ -1436,7 +1476,7 @@
     },
     {
       "raw_hot": 222572,
-      "num": 188217,
+      "num": 201019,
       "word": "许半夏遭前夫报复",
       "onboard_time": 1670760918,
       "rank": 32,
@@ -1444,7 +1484,7 @@
     },
     {
       "raw_hot": 222502,
-      "num": 187352,
+      "num": 196515,
       "word": "我真的信岁月不败美人",
       "onboard_time": 1670757915,
       "rank": 33,
@@ -1457,6 +1497,14 @@
       "onboard_time": 1670685622,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 219356,
+      "num": 211410,
+      "word": "野猫不想因为孩子放弃出国",
+      "onboard_time": 1670759420,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 218604,
@@ -1483,12 +1531,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 217243,
-      "num": 183119,
-      "word": "爱的二八定律大结局",
-      "onboard_time": 1670761458,
-      "rank": 35,
-      "category": "影视"
+      "raw_hot": 214253,
+      "num": 214253,
+      "word": "许昕",
+      "onboard_time": 1670762955,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 214198,
@@ -1512,14 +1560,6 @@
       "word": "多地核酸采样服务调整",
       "onboard_time": 1670726470,
       "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 210780,
-      "num": 210780,
-      "word": "14岁男孩手掌一直出汗如下雨",
-      "onboard_time": 1670760858,
-      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -1651,6 +1691,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 189192,
+      "num": 163288,
+      "word": "原来这才是一见钟情的意义",
+      "onboard_time": 1670762236,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 188830,
       "num": 188830,
       "word": "陈梦陈幸同多拍相持",
@@ -1704,6 +1752,14 @@
       "word": "葡萄牙 配合",
       "onboard_time": 1670691858,
       "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 180926,
+      "num": 180926,
+      "word": "内马尔有多认真避免受伤",
+      "onboard_time": 1670762422,
+      "rank": 36,
       "category": "体育"
     },
     {
@@ -1761,6 +1817,14 @@
       "onboard_time": 1670734153,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 177596,
+      "num": 160786,
+      "word": "赵垒首次登门遭岳父轮番盘问",
+      "onboard_time": 1670762537,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 177030,
@@ -2067,14 +2131,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 147438,
-      "num": 147438,
-      "word": "部分地区强调不戴口罩造成疫情传播将追责",
-      "onboard_time": 1670761037,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 145832,
       "num": 145832,
       "word": "为什么说要过好今天",
@@ -2179,20 +2235,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 136569,
-      "num": 136569,
-      "word": "LWX状态",
-      "onboard_time": 1670761396,
-      "rank": 41,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 135930,
       "num": 135930,
       "word": "徐瑛彬3比2周恺",
       "onboard_time": 1670760315,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 135555,
+      "num": 135555,
+      "word": "阳过一次后多久可能再阳",
+      "onboard_time": 1670762776,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 135435,
@@ -2385,6 +2441,22 @@
       "onboard_time": 1670693595,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 115567,
+      "num": 115567,
+      "word": "二次感染新冠会更严重吗",
+      "onboard_time": 1670763136,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 115535,
+      "num": 115535,
+      "word": "当小狗被主人说变丑后",
+      "onboard_time": 1670763020,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 113552,
