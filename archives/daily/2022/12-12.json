@@ -1,6 +1,6 @@
 {
   "startTime": 1670775913271,
-  "endTime": 1670779994655,
+  "endTime": 1670782942295,
   "band_list": [
     {
       "raw_hot": 3734719,
@@ -441,6 +441,14 @@
       "onboard_time": 1670770876,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 25989,
+      "num": 25989,
+      "word": "许半夏遭前夫报复",
+      "onboard_time": 1670760918,
+      "rank": 49,
+      "category": "影视"
     }
   ],
   "hotgov_list": [
