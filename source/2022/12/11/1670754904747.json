@@ -1,0 +1,410 @@
+{
+  "runTime": 1670754904747,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3059807,
+        "num": 3059807,
+        "word": "江泽民同志骨灰撒入江海",
+        "onboard_time": 1670754021,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 951667,
+        "num": 951667,
+        "word": "美国男子被发现是新冠超级免疫者",
+        "onboard_time": 1670744114,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286118,
+        "num": 813012,
+        "word": "感染新冠居家中医药干预指引",
+        "onboard_time": 1670745856,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1950866,
+        "num": 812912,
+        "word": "家政阿姨偷吃饭菜雇主每天吃口水菜",
+        "onboard_time": 1670749695,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1000244,
+        "num": 809842,
+        "word": "C罗 双眼皮贴",
+        "onboard_time": 1670745978,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 777757,
+        "num": 777757,
+        "word": "田曦薇拍求医戏片场连跪四次",
+        "onboard_time": 1670746875,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 577910,
+        "num": 577910,
+        "word": "感染后半年内通常不会再次感染",
+        "onboard_time": 1670748555,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 444360,
+        "num": 444360,
+        "word": "GQ",
+        "onboard_time": 1670753776,
+        "rank": 7,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 432228,
+        "num": 432228,
+        "word": "阳了后买不到药怎么办",
+        "onboard_time": 1670744536,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 425467,
+        "num": 425467,
+        "word": "北京流行的毒株比广州更厉害吗",
+        "onboard_time": 1670743575,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 937027,
+        "num": 418049,
+        "word": "武汉发热门诊患者大排长龙",
+        "onboard_time": 1670740575,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 637419,
+        "num": 417972,
+        "word": "许凯 胡子",
+        "onboard_time": 1670753911,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 636422,
+        "num": 417160,
+        "word": "张兰分享感染新冠后的感受",
+        "onboard_time": 1670753776,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 409662,
+        "num": 409662,
+        "word": "C罗告别世界杯球迷纷纷落泪",
+        "onboard_time": 1670748797,
+        "rank": 13,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 407238,
+        "num": 407238,
+        "word": "冯巩当选民革第十四届中央副主席",
+        "onboard_time": 1670741417,
+        "rank": 14,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 404040,
+        "num": 404040,
+        "word": "如梦之梦",
+        "onboard_time": 1670749454,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 400751,
+        "num": 400751,
+        "word": "赵露思关晓彤白鹿今日工作室出图",
+        "onboard_time": 1670750477,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 361908,
+        "num": 361908,
+        "word": "男子工地上班女友打地铺玩手机",
+        "onboard_time": 1670749156,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 342519,
+        "num": 342519,
+        "word": "大学生火车跳20分钟健美操赶交作业",
+        "onboard_time": 1670745856,
+        "rank": 18,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 330190,
+        "num": 330190,
+        "word": "EDG",
+        "onboard_time": 1670752516,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 374182,
+        "num": 329738,
+        "word": "梅西盘核桃有点上头",
+        "onboard_time": 1670751856,
+        "rank": 20,
+        "category": "体育,综艺"
+      },
+      {
+        "raw_hot": 359578,
+        "num": 329419,
+        "word": "杨幂说傅菁英气骨相好",
+        "onboard_time": 1670752219,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 327490,
+        "num": 327490,
+        "word": "2022内娱名场面",
+        "onboard_time": 1670752696,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 305850,
+        "num": 305850,
+        "word": "专家称应尽量避免感染或晚感染",
+        "onboard_time": 1670746575,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295966,
+        "num": 295966,
+        "word": "夫妻领养女孩给儿换亲养大后舍不得",
+        "onboard_time": 1670740634,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249919,
+        "num": 249919,
+        "word": "林孝埈银牌",
+        "onboard_time": 1670746875,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 226454,
+        "num": 226454,
+        "word": "15元吃垮早市",
+        "onboard_time": 1670752996,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 225325,
+        "num": 225325,
+        "word": "陈梦",
+        "onboard_time": 1670746695,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192642,
+        "num": 192642,
+        "word": "2岁娃被小女孩纠正猎豹外套崩溃哭",
+        "onboard_time": 1670747296,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184494,
+        "num": 184494,
+        "word": "女子买连花清瘟被捆绑5种药品",
+        "onboard_time": 1670730251,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327958,
+        "num": 183755,
+        "word": "女子开空调烧熏香守母亲遗体3个月",
+        "onboard_time": 1670754078,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257351,
+        "num": 182534,
+        "word": "许半夏哭着说没事",
+        "onboard_time": 1670749756,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 232532,
+        "num": 181312,
+        "word": "小鬼给我点时间创作vlog",
+        "onboard_time": 1670754797,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 218119,
+        "num": 180787,
+        "word": "山峥海薇互相投喂花絮",
+        "onboard_time": 1670754556,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 205582,
+        "num": 179731,
+        "word": "许半夏打算独自顶罪",
+        "onboard_time": 1670754198,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 199404,
+        "num": 178535,
+        "word": "结婚12年才发现喜被里有葱",
+        "onboard_time": 1670754435,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194530,
+        "num": 176425,
+        "word": "叶舒华训狗达人",
+        "onboard_time": 1670745135,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176350,
+        "num": 176350,
+        "word": "孙颖莎乒超总积分第一",
+        "onboard_time": 1670753236,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172436,
+        "num": 172436,
+        "word": "连花清瘟不是所有体质都适用",
+        "onboard_time": 1670737874,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169318,
+        "num": 169318,
+        "word": "草莓塔",
+        "onboard_time": 1670736193,
+        "rank": 39,
+        "category": "美食,情感"
+      },
+      {
+        "raw_hot": 178999,
+        "num": 168582,
+        "word": "李诞说今年没有不回家的理由了",
+        "onboard_time": 1670746517,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178762,
+        "num": 167906,
+        "word": "谁会来唱中国世界杯主题曲",
+        "onboard_time": 1670751136,
+        "rank": 41,
+        "category": "体育,音乐"
+      },
+      {
+        "raw_hot": 166545,
+        "num": 166545,
+        "word": "大妈们擅闯舞蹈房跳舞致屋内狼藉",
+        "onboard_time": 1670751675,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165743,
+        "num": 165743,
+        "word": "为什么这届年轻人喜欢假东西",
+        "onboard_time": 1670736734,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156956,
+        "num": 156956,
+        "word": "什么样的口罩才具有防疫功能",
+        "onboard_time": 1670753477,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155620,
+        "num": 155620,
+        "word": "真正的离开都悄无声息",
+        "onboard_time": 1670753176,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 153755,
+        "num": 153755,
+        "word": "林孝埈摔倒",
+        "onboard_time": 1670741474,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148919,
+        "num": 148919,
+        "word": "感染新冠后为什么会全身酸疼",
+        "onboard_time": 1670727015,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142649,
+        "num": 142649,
+        "word": "山东鲁能3比2深圳大学",
+        "onboard_time": 1670754435,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139920,
+        "num": 139920,
+        "word": "葡萄牙总统称C罗不太可能再征战世界杯",
+        "onboard_time": 1670726412,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中阿友好相信还会好上加好#"
+    }
+  }
+}

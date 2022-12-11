@@ -1,6 +1,6 @@
 {
   "startTime": 1670689529040,
-  "endTime": 1670753942324,
+  "endTime": 1670754904747,
   "band_list": [
     {
       "raw_hot": 13790167,
@@ -41,6 +41,14 @@
       "onboard_time": 1670691436,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 3059807,
+      "num": 3059807,
+      "word": "江泽民同志骨灰撒入江海",
+      "onboard_time": 1670754021,
+      "rank": 0,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 2874397,
@@ -515,6 +523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 637419,
+      "num": 417972,
+      "word": "许凯 胡子",
+      "onboard_time": 1670753911,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 614487,
       "num": 614487,
       "word": "林孝埈银牌",
@@ -673,14 +689,6 @@
       "onboard_time": 1670727491,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 452485,
-      "num": 126780,
-      "word": "许凯 胡子",
-      "onboard_time": 1670753911,
-      "rank": 47,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 452320,
@@ -929,6 +937,14 @@
       "onboard_time": 1670727253,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 327958,
+      "num": 183755,
+      "word": "女子开空调烧熏香守母亲遗体3个月",
+      "onboard_time": 1670754078,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 327825,
@@ -1211,6 +1227,14 @@
       "category": "体育,作品衍生"
     },
     {
+      "raw_hot": 232532,
+      "num": 181312,
+      "word": "小鬼给我点时间创作vlog",
+      "onboard_time": 1670754797,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 232306,
       "num": 232306,
       "word": "猪哼 hero",
@@ -1241,6 +1265,14 @@
       "onboard_time": 1670686279,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 226454,
+      "num": 226454,
+      "word": "15元吃垮早市",
+      "onboard_time": 1670752996,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 225730,
@@ -1281,6 +1313,14 @@
       "onboard_time": 1670685622,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 218119,
+      "num": 180787,
+      "word": "山峥海薇互相投喂花絮",
+      "onboard_time": 1670754556,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 218009,
@@ -1347,6 +1387,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 205582,
+      "num": 179731,
+      "word": "许半夏打算独自顶罪",
+      "onboard_time": 1670754198,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 202636,
       "num": 202636,
       "word": "范志毅预测C罗会替补进球",
@@ -1376,6 +1424,14 @@
       "word": "70万天价药入医保患儿打6针仅付3万",
       "onboard_time": 1670737515,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 199404,
+      "num": 178535,
+      "word": "结婚12年才发现喜被里有葱",
+      "onboard_time": 1670754435,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -1528,6 +1584,14 @@
       "word": "勇士战胜凯尔特人",
       "onboard_time": 1670732892,
       "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 176350,
+      "num": 176350,
+      "word": "孙颖莎乒超总积分第一",
+      "onboard_time": 1670753236,
+      "rank": 43,
       "category": "体育"
     },
     {
@@ -1747,6 +1811,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 156956,
+      "num": 156956,
+      "word": "什么样的口罩才具有防疫功能",
+      "onboard_time": 1670753477,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 156310,
       "num": 156310,
       "word": "退烧药使用一般不超过3天",
@@ -1771,20 +1843,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 155620,
+      "num": 155620,
+      "word": "真正的离开都悄无声息",
+      "onboard_time": 1670753176,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 154465,
       "num": 154465,
       "word": "东北人吃黄桃罐头必须喝汤吗",
       "onboard_time": 1670674160,
       "rank": 43,
       "category": "美食,情感"
-    },
-    {
-      "raw_hot": 154452,
-      "num": 154452,
-      "word": "15元吃垮早市",
-      "onboard_time": 1670752996,
-      "rank": 39,
-      "category": "美食"
     },
     {
       "raw_hot": 151233,
@@ -1851,28 +1923,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 142649,
+      "num": 142649,
+      "word": "山东鲁能3比2深圳大学",
+      "onboard_time": 1670754435,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 142106,
       "num": 142106,
       "word": "当人类幼崽学会了谐音梗",
       "onboard_time": 1670751136,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 142018,
-      "num": 142018,
-      "word": "什么样的口罩才具有防疫功能",
-      "onboard_time": 1670753477,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 141840,
-      "num": 141840,
-      "word": "孙颖莎乒超总积分第一",
-      "onboard_time": 1670753236,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 141712,
@@ -1937,14 +2001,6 @@
       "onboard_time": 1670693354,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 134506,
-      "num": 134506,
-      "word": "真正的离开都悄无声息",
-      "onboard_time": 1670753176,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 134343,
