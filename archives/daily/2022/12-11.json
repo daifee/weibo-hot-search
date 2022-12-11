@@ -1,6 +1,6 @@
 {
   "startTime": 1670689529040,
-  "endTime": 1670747810215,
+  "endTime": 1670750236627,
   "band_list": [
     {
       "raw_hot": 13790167,
@@ -107,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1554314,
+      "num": 1554314,
+      "word": "C罗 双眼皮贴",
+      "onboard_time": 1670745978,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1541258,
       "num": 1541258,
       "word": "C罗上场",
@@ -161,6 +169,14 @@
       "onboard_time": 1670691799,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1184345,
+      "num": 1184345,
+      "word": "美国男子被发现是新冠超级免疫者",
+      "onboard_time": 1670744114,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1158564,
@@ -233,22 +249,6 @@
       "onboard_time": 1670741417,
       "rank": 30,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 976340,
-      "num": 976340,
-      "word": "C罗 双眼皮贴",
-      "onboard_time": 1670745978,
-      "rank": 11,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 934598,
-      "num": 934598,
-      "word": "美国男子被发现是新冠超级免疫者",
-      "onboard_time": 1670744114,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 927350,
@@ -420,11 +420,19 @@
     },
     {
       "raw_hot": 676398,
-      "num": 537630,
+      "num": 638041,
       "word": "北京流行的毒株比广州更厉害吗",
       "onboard_time": 1670743575,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 676042,
+      "num": 676042,
+      "word": "陈梦",
+      "onboard_time": 1670746695,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 670162,
@@ -451,6 +459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 652092,
+      "num": 652092,
+      "word": "田曦薇拍求医戏片场连跪四次",
+      "onboard_time": 1670746875,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 645207,
       "num": 645207,
       "word": "葡萄牙 白色球衣",
@@ -465,6 +481,22 @@
       "onboard_time": 1670740634,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 638499,
+      "num": 638499,
+      "word": "大学生火车跳20分钟健美操赶交作业",
+      "onboard_time": 1670745856,
+      "rank": 49,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 614487,
+      "num": 614487,
+      "word": "林孝埈银牌",
+      "onboard_time": 1670746875,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 611936,
@@ -531,20 +563,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 539155,
-      "num": 539155,
-      "word": "陈梦",
-      "onboard_time": 1670746695,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 533048,
       "num": 533048,
       "word": "孙颖莎",
       "onboard_time": 1670742736,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 520296,
+      "num": 520296,
+      "word": "阳了后买不到药怎么办",
+      "onboard_time": 1670744536,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 494138,
@@ -569,6 +601,14 @@
       "onboard_time": 1670726352,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 473361,
+      "num": 1354338,
+      "word": "感染新冠居家中医药干预指引",
+      "onboard_time": 1670745856,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 466151,
@@ -619,20 +659,20 @@
       "category": "军事,社会新闻"
     },
     {
-      "raw_hot": 429322,
-      "num": 429322,
-      "word": "阳了后买不到药怎么办",
-      "onboard_time": 1670744536,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 423393,
       "num": 423393,
       "word": "马嘉祺个人单曲预告片",
       "onboard_time": 1670732172,
       "rank": 11,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 415285,
+      "num": 415285,
+      "word": "如梦之梦",
+      "onboard_time": 1670749454,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 413537,
@@ -665,6 +705,14 @@
       "onboard_time": 1670682139,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 400691,
+      "num": 400691,
+      "word": "专家称应尽量避免感染或晚感染",
+      "onboard_time": 1670746575,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 400629,
@@ -736,22 +784,6 @@
       "word": "卡卡预测的冠军就剩英格兰了",
       "onboard_time": 1670679319,
       "rank": 39,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 359474,
-      "num": 1351236,
-      "word": "感染新冠居家中医药干预指引",
-      "onboard_time": 1670745856,
-      "rank": 2,
-      "category": "国内要闻"
-    },
-    {
-      "raw_hot": 355143,
-      "num": 355143,
-      "word": "林孝埈银牌",
-      "onboard_time": 1670746875,
-      "rank": 48,
       "category": "体育"
     },
     {
@@ -907,14 +939,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 289175,
-      "num": 289175,
-      "word": "大学生火车跳20分钟健美操赶交作业",
-      "onboard_time": 1670745856,
-      "rank": 49,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 287908,
       "num": 287908,
       "word": "财阀家的小儿子第十集",
@@ -929,6 +953,14 @@
       "onboard_time": 1670723890,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 285951,
+      "num": 285951,
+      "word": "2岁娃被小女孩纠正猎豹外套崩溃哭",
+      "onboard_time": 1670747296,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 280702,
@@ -1043,12 +1075,28 @@
       "category": "体育,国外要闻"
     },
     {
+      "raw_hot": 242017,
+      "num": 242017,
+      "word": "白敬亭GQ红毯学长小课堂",
+      "onboard_time": 1670749819,
+      "rank": 23,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 240115,
       "num": 240115,
       "word": "张真源三周年PB拍摄花絮",
       "onboard_time": 1670736070,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 233437,
+      "num": 233437,
+      "word": "张颜齐说最合格的球迷是鹿晗",
+      "onboard_time": 1670750116,
+      "rank": 24,
+      "category": "体育,作品衍生"
     },
     {
       "raw_hot": 232306,
@@ -1083,16 +1131,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 226371,
-      "num": 226371,
-      "word": "田曦薇拍求医戏片场连跪四次",
-      "onboard_time": 1670746875,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 225730,
-      "num": 191301,
+      "num": 195459,
       "word": "王鹤棣以爱为营车窗戏氛围感",
       "onboard_time": 1670743820,
       "rank": 26,
@@ -1155,6 +1195,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 212957,
+      "num": 212957,
+      "word": "感染后半年内通常不会再次感染",
+      "onboard_time": 1670748555,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 212512,
       "num": 212512,
       "word": "多地核酸采样服务调整",
@@ -1179,20 +1227,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 209490,
+      "num": 209490,
+      "word": "如何看待年轻博主高薪现象",
+      "onboard_time": 1670748019,
+      "rank": 28,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 208771,
       "num": 208771,
       "word": "白鹿毛线帽针织衫上班路透",
       "onboard_time": 1670730132,
       "rank": 35,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 208338,
-      "num": 208338,
-      "word": "专家称应尽量避免感染或晚感染",
-      "onboard_time": 1670746575,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 202636,
@@ -1241,6 +1289,14 @@
       "onboard_time": 1670722813,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 194318,
+      "num": 194318,
+      "word": "C罗告别世界杯球迷纷纷落泪",
+      "onboard_time": 1670748797,
+      "rank": 32,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 194098,
@@ -1297,6 +1353,22 @@
       "onboard_time": 1670704691,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 184640,
+      "num": 184640,
+      "word": "许半夏哭着说没事",
+      "onboard_time": 1670749756,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 183900,
+      "num": 183900,
+      "word": "家政阿姨偷吃饭菜雇主每天吃口水菜",
+      "onboard_time": 1670749695,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 182843,
@@ -1465,6 +1537,14 @@
       "onboard_time": 1670689756,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 168699,
+      "num": 171258,
+      "word": "山峥海薇初见倾心南风知意",
+      "onboard_time": 1670750056,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 168088,
@@ -1809,14 +1889,6 @@
       "onboard_time": 1670738174,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 121540,
-      "num": 121540,
-      "word": "2岁娃被小女孩纠正猎豹外套崩溃哭",
-      "onboard_time": 1670747296,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 120612,

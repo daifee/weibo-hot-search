@@ -1,0 +1,410 @@
+{
+  "runTime": 1670750236627,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1571120,
+        "num": 1571120,
+        "word": "内马尔宣布将参加2026年世界杯",
+        "onboard_time": 1670743395,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1554314,
+        "num": 1554314,
+        "word": "C罗 双眼皮贴",
+        "onboard_time": 1670745978,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 473361,
+        "num": 1354338,
+        "word": "感染新冠居家中医药干预指引",
+        "onboard_time": 1670745856,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1184345,
+        "num": 1184345,
+        "word": "美国男子被发现是新冠超级免疫者",
+        "onboard_time": 1670744114,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1802430,
+        "num": 1139830,
+        "word": "武汉发热门诊患者大排长龙",
+        "onboard_time": 1670740575,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 676042,
+        "num": 676042,
+        "word": "陈梦",
+        "onboard_time": 1670746695,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 652092,
+        "num": 652092,
+        "word": "田曦薇拍求医戏片场连跪四次",
+        "onboard_time": 1670746875,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 638499,
+        "num": 638499,
+        "word": "大学生火车跳20分钟健美操赶交作业",
+        "onboard_time": 1670745856,
+        "rank": 7,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 638041,
+        "num": 638041,
+        "word": "北京流行的毒株比广州更厉害吗",
+        "onboard_time": 1670743575,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 614487,
+        "num": 614487,
+        "word": "林孝埈银牌",
+        "onboard_time": 1670746875,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 520296,
+        "num": 520296,
+        "word": "阳了后买不到药怎么办",
+        "onboard_time": 1670744536,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 516532,
+        "num": 516532,
+        "word": "杨幂对杜华说不建议公开吐槽自己家艺人",
+        "onboard_time": 1670744422,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 420447,
+        "num": 420447,
+        "word": "冯巩当选民革第十四届中央副主席",
+        "onboard_time": 1670741417,
+        "rank": 12,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 415285,
+        "num": 415285,
+        "word": "如梦之梦",
+        "onboard_time": 1670749454,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 400691,
+        "num": 400691,
+        "word": "专家称应尽量避免感染或晚感染",
+        "onboard_time": 1670746575,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 395992,
+        "num": 395992,
+        "word": "夫妻领养女孩给儿换亲养大后舍不得",
+        "onboard_time": 1670740634,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 381612,
+        "num": 381612,
+        "word": "女子买连花清瘟被捆绑5种药品",
+        "onboard_time": 1670730251,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348611,
+        "num": 348611,
+        "word": "AAA",
+        "onboard_time": 1670739913,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 291891,
+        "num": 291891,
+        "word": "林孝埈摔倒",
+        "onboard_time": 1670741474,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 285951,
+        "num": 285951,
+        "word": "2岁娃被小女孩纠正猎豹外套崩溃哭",
+        "onboard_time": 1670747296,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260375,
+        "num": 260375,
+        "word": "李诞说今年没有不回家的理由了",
+        "onboard_time": 1670746517,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243108,
+        "num": 243108,
+        "word": "为什么这届年轻人喜欢假东西",
+        "onboard_time": 1670736734,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242880,
+        "num": 242880,
+        "word": "吴磊拍照一把拉过周雨彤",
+        "onboard_time": 1670743219,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 242017,
+        "num": 242017,
+        "word": "白敬亭GQ红毯学长小课堂",
+        "onboard_time": 1670749819,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 233437,
+        "num": 233437,
+        "word": "张颜齐说最合格的球迷是鹿晗",
+        "onboard_time": 1670750116,
+        "rank": 24,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 226602,
+        "num": 226602,
+        "word": "孙颖莎",
+        "onboard_time": 1670742736,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 222528,
+        "num": 222528,
+        "word": "文俊辉徐明浩不出席AAA颁奖礼",
+        "onboard_time": 1670744956,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212957,
+        "num": 212957,
+        "word": "感染后半年内通常不会再次感染",
+        "onboard_time": 1670748555,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209490,
+        "num": 209490,
+        "word": "如何看待年轻博主高薪现象",
+        "onboard_time": 1670748019,
+        "rank": 28,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 196309,
+        "num": 196309,
+        "word": "感染新冠后为什么会全身酸疼",
+        "onboard_time": 1670727015,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208336,
+        "num": 195501,
+        "word": "叶舒华训狗达人",
+        "onboard_time": 1670745135,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201526,
+        "num": 195459,
+        "word": "王鹤棣以爱为营车窗戏氛围感",
+        "onboard_time": 1670743820,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 194318,
+        "num": 194318,
+        "word": "C罗告别世界杯球迷纷纷落泪",
+        "onboard_time": 1670748797,
+        "rank": 32,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 192268,
+        "num": 192268,
+        "word": "葡萄牙总统称C罗不太可能再征战世界杯",
+        "onboard_time": 1670726412,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184640,
+        "num": 184640,
+        "word": "许半夏哭着说没事",
+        "onboard_time": 1670749756,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 183900,
+        "num": 183900,
+        "word": "家政阿姨偷吃饭菜雇主每天吃口水菜",
+        "onboard_time": 1670749695,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184623,
+        "num": 183610,
+        "word": "许半夏被村民联名起诉",
+        "onboard_time": 1670746935,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 183052,
+        "num": 183052,
+        "word": "女生夜间打车被问是不是恨嫁",
+        "onboard_time": 1670739255,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175904,
+        "num": 175904,
+        "word": "孙颖莎3比1王曼昱",
+        "onboard_time": 1670745195,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171294,
+        "num": 171294,
+        "word": "东北居民网购宠物猪收到已冻僵",
+        "onboard_time": 1670737153,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168699,
+        "num": 171258,
+        "word": "山峥海薇初见倾心南风知意",
+        "onboard_time": 1670750056,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 173877,
+        "num": 171248,
+        "word": "丁程鑫全团唯一驾照持有者",
+        "onboard_time": 1670743395,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 171230,
+        "num": 171230,
+        "word": "草莓塔",
+        "onboard_time": 1670736193,
+        "rank": 42,
+        "category": "美食,情感"
+      },
+      {
+        "raw_hot": 155290,
+        "num": 155290,
+        "word": "连花清瘟不是所有体质都适用",
+        "onboard_time": 1670737874,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149712,
+        "num": 149712,
+        "word": "刘畊宏50岁的年龄18岁的身体",
+        "onboard_time": 1670733853,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137295,
+        "num": 137295,
+        "word": "专家反驳早阳早自由",
+        "onboard_time": 1670747655,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130940,
+        "num": 130940,
+        "word": "卡卡发文鼓励C罗",
+        "onboard_time": 1670728452,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128105,
+        "num": 128105,
+        "word": "王曼昱",
+        "onboard_time": 1670744054,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126413,
+        "num": 126413,
+        "word": "感染者同住人要注意什么",
+        "onboard_time": 1670745075,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122512,
+        "num": 122512,
+        "word": "国足都曾击败过本届世界杯4强",
+        "onboard_time": 1670735112,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中阿友好相信还会好上加好#"
+    }
+  }
+}
