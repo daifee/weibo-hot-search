@@ -1,6 +1,6 @@
 {
   "startTime": 1670775913271,
-  "endTime": 1670798040362,
+  "endTime": 1670800732668,
   "band_list": [
     {
       "raw_hot": 3734719,
@@ -27,6 +27,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1156532,
+      "num": 1156532,
+      "word": "行程卡下线",
+      "onboard_time": 1670776632,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1052935,
       "num": 1052935,
       "word": "C罗说梦想结束了",
@@ -43,6 +51,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 936005,
+      "num": 936005,
+      "word": "预计1个月内达到感染峰值",
+      "onboard_time": 1670760077,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 867852,
       "num": 867852,
       "word": "女孩在家楼下补课后失联已11年",
@@ -56,14 +72,6 @@
       "word": "保定放开之后",
       "onboard_time": 1670770758,
       "rank": 5,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 811977,
-      "num": 811977,
-      "word": "预计1个月内达到感染峰值",
-      "onboard_time": 1670760077,
-      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -97,14 +105,6 @@
       "onboard_time": 1670772736,
       "rank": 9,
       "category": "体育,音乐"
-    },
-    {
-      "raw_hot": 344119,
-      "num": 344119,
-      "word": "行程卡下线",
-      "onboard_time": 1670776632,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 304648,
@@ -152,6 +152,14 @@
       "word": "奥密克戎如何正确用药",
       "onboard_time": 1670773095,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 251255,
+      "num": 251255,
+      "word": "开窗通风是否会有被传染的风险",
+      "onboard_time": 1670790612,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -243,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 192364,
+      "num": 192364,
+      "word": "呼和浩特4.1级地震",
+      "onboard_time": 1670800386,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 179639,
       "num": 179639,
       "word": "有一种思念叫做异地恋",
@@ -259,12 +275,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 166986,
+      "num": 166986,
+      "word": "江苏省中医院公布防治新冠中药方",
+      "onboard_time": 1670798467,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144468,
       "num": 144468,
       "word": "玩偶调戏路人帅哥反被拿捏",
       "onboard_time": 1670770698,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 143152,
+      "num": 143152,
+      "word": "iPhone15Ultra或万元起步",
+      "onboard_time": 1670800027,
+      "rank": 16,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 140883,
+      "num": 140883,
+      "word": "行程卡再见",
+      "onboard_time": 1670800147,
+      "rank": 18,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 136053,
@@ -363,14 +403,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 115444,
-      "num": 115444,
-      "word": "开窗通风是否会有被传染的风险",
-      "onboard_time": 1670790612,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 111026,
       "num": 111026,
       "word": "小米",
@@ -419,6 +451,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 78511,
+      "num": 78511,
+      "word": "许半夏遭前夫报复",
+      "onboard_time": 1670760918,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 71066,
       "num": 71066,
       "word": "武汉发热门诊患者大排长龙",
@@ -451,20 +491,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 34470,
-      "num": 34470,
+      "raw_hot": 41768,
+      "num": 41768,
       "word": "手术全麻是怎样一种体验",
       "onboard_time": 1670783050,
       "rank": 46,
       "category": "情感"
     },
     {
-      "raw_hot": 27200,
-      "num": 27200,
-      "word": "许半夏遭前夫报复",
-      "onboard_time": 1670760918,
-      "rank": 49,
-      "category": "影视"
+      "raw_hot": 39601,
+      "num": 39601,
+      "word": "厂家回应黄桃罐头中含有石头",
+      "onboard_time": 1670800687,
+      "rank": 48,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
