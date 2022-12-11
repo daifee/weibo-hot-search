@@ -1,6 +1,6 @@
 {
   "startTime": 1670689529040,
-  "endTime": 1670742976886,
+  "endTime": 1670744026301,
   "band_list": [
     {
       "raw_hot": 13790167,
@@ -67,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2181414,
+      "num": 2181414,
+      "word": "武汉发热门诊患者大排长龙",
+      "onboard_time": 1670740575,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2044659,
       "num": 2044659,
       "word": "摩洛哥 进球",
@@ -128,14 +136,6 @@
       "word": "钟南山认为今年就地过年可能性很小",
       "onboard_time": 1670722451,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1266307,
-      "num": 1266307,
-      "word": "武汉发热门诊患者大排长龙",
-      "onboard_time": 1670740575,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -275,6 +275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 774147,
+      "num": 774147,
+      "word": "林孝埈摔倒",
+      "onboard_time": 1670741474,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 768891,
       "num": 768891,
       "word": "刘畊宏50岁的年龄18岁的身体",
@@ -305,6 +313,14 @@
       "onboard_time": 1670721614,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 720636,
+      "num": 438558,
+      "word": "冯巩当选民革第十四届中央副主席",
+      "onboard_time": 1670741417,
+      "rank": 30,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 712575,
@@ -411,6 +427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 621479,
+      "num": 621479,
+      "word": "夫妻领养女孩给儿换亲养大后舍不得",
+      "onboard_time": 1670740634,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 611936,
       "num": 611936,
       "word": "女子超市拎起葡萄边抖边吃还不买",
@@ -451,14 +475,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 568822,
-      "num": 568822,
-      "word": "林孝埈摔倒",
-      "onboard_time": 1670741474,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
       "raw_hot": 568183,
       "num": 568183,
       "word": "钟南山预计明年上半年能恢复到疫情前生活",
@@ -475,12 +491,12 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 514746,
-      "num": 463105,
-      "word": "夫妻领养女孩给儿换亲养大后舍不得",
-      "onboard_time": 1670740634,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 533048,
+      "num": 533048,
+      "word": "孙颖莎",
+      "onboard_time": 1670742736,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 494138,
@@ -595,12 +611,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 398954,
+      "num": 398954,
+      "word": "女生夜间打车被问是不是恨嫁",
+      "onboard_time": 1670739255,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 395469,
       "num": 395469,
       "word": "沉船捞出165年前牛仔裤80万卖出",
       "onboard_time": 1670727911,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 394872,
+      "num": 394872,
+      "word": "吴磊拍照一把拉过周雨彤",
+      "onboard_time": 1670743219,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 394319,
@@ -616,14 +648,6 @@
       "word": "10岁男孩122斤跟爸爸运动减34斤",
       "onboard_time": 1670733618,
       "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 391835,
-      "num": 391835,
-      "word": "女生夜间打车被问是不是恨嫁",
-      "onboard_time": 1670739255,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -649,14 +673,6 @@
       "onboard_time": 1670679319,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 365758,
-      "num": 164293,
-      "word": "冯巩当选民革第十四届中央副主席",
-      "onboard_time": 1670741417,
-      "rank": 30,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 353672,
@@ -696,6 +712,14 @@
       "word": "黄晓明夸张小斐演技好",
       "onboard_time": 1670727253,
       "rank": 29,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 327825,
+      "num": 327825,
+      "word": "丁程鑫全团唯一驾照持有者",
+      "onboard_time": 1670743395,
+      "rank": 16,
       "category": "作品衍生"
     },
     {
@@ -832,6 +856,14 @@
       "word": "葡萄牙爆冷",
       "onboard_time": 1670691976,
       "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 276960,
+      "num": 276960,
+      "word": "内马尔宣布将参加2026年世界杯",
+      "onboard_time": 1670743395,
+      "rank": 21,
       "category": "体育"
     },
     {
@@ -979,6 +1011,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 214198,
+      "num": 214198,
+      "word": "傅菁GQ红毯背后顶楼氛围感",
+      "onboard_time": 1670743635,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 213892,
       "num": 213892,
       "word": "陶俊辉纠缠秦施",
@@ -1017,14 +1057,6 @@
       "onboard_time": 1670730132,
       "rank": 35,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 207570,
-      "num": 207570,
-      "word": "孙颖莎",
-      "onboard_time": 1670742736,
-      "rank": 21,
-      "category": "体育"
     },
     {
       "raw_hot": 202636,
@@ -1097,6 +1129,14 @@
       "onboard_time": 1670735653,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 187740,
+      "num": 187740,
+      "word": "王鹤棣以爱为营车窗戏氛围感",
+      "onboard_time": 1670743820,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 186689,
@@ -1219,6 +1259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 173794,
+      "num": 171642,
+      "word": "霍汶希GQ红毯背后群发C位卡",
+      "onboard_time": 1670741954,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 173783,
       "num": 173783,
       "word": "想跳舞的心摁都摁不住",
@@ -1339,12 +1387,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 159431,
+      "num": 159431,
+      "word": "球迷用漫画总结C罗世界杯之旅",
+      "onboard_time": 1670743754,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 157715,
       "num": 157715,
       "word": "坂本龙一线上音乐会",
       "onboard_time": 1670731753,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 156310,
+      "num": 156310,
+      "word": "退烧药使用一般不超过3天",
+      "onboard_time": 1670741354,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 156124,
@@ -1395,14 +1459,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 147844,
-      "num": 147844,
-      "word": "退烧药使用一般不超过3天",
-      "onboard_time": 1670741354,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 145049,
       "num": 145049,
       "word": "凯恩失点",
@@ -1451,14 +1507,6 @@
       "category": "社会新闻,军事"
     },
     {
-      "raw_hot": 140508,
-      "num": 140508,
-      "word": "霍汶希GQ红毯背后群发C位卡",
-      "onboard_time": 1670741954,
-      "rank": 36,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 140114,
       "num": 140114,
       "word": "阳华提离婚秦施慌了",
@@ -1467,12 +1515,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 138666,
-      "num": 138666,
+      "raw_hot": 138928,
+      "num": 138928,
       "word": "梁洁新剧搞事业",
       "onboard_time": 1670742854,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 137692,
+      "num": 137692,
+      "word": "北京流行的毒株比广州更厉害吗",
+      "onboard_time": 1670743575,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 134974,
@@ -1625,6 +1681,14 @@
       "onboard_time": 1670739794,
       "rank": 45,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 107832,
+      "num": 107832,
+      "word": "一句话暖陌生人一整天",
+      "onboard_time": 1670743635,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 107138,
