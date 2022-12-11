@@ -1,6 +1,6 @@
 {
   "startTime": 1670689529040,
-  "endTime": 1670740672571,
+  "endTime": 1670742976886,
   "band_list": [
     {
       "raw_hot": 13790167,
@@ -131,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1266307,
+      "num": 1266307,
+      "word": "武汉发热门诊患者大排长龙",
+      "onboard_time": 1670740575,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1257268,
       "num": 1257268,
       "word": "内马尔说这是最伤心的失利",
@@ -201,6 +209,14 @@
       "onboard_time": 1670692454,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 986754,
+      "num": 986754,
+      "word": "AAA",
+      "onboard_time": 1670739913,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 927350,
@@ -371,6 +387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 663248,
+      "num": 663248,
+      "word": "李光洁为联系老婆踢走整个群",
+      "onboard_time": 1670737755,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 658268,
       "num": 658268,
       "word": "卡卡将解说摩洛哥vs葡萄牙",
@@ -427,6 +451,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 568822,
+      "num": 568822,
+      "word": "林孝埈摔倒",
+      "onboard_time": 1670741474,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 568183,
       "num": 568183,
       "word": "钟南山预计明年上半年能恢复到疫情前生活",
@@ -443,12 +475,12 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 552173,
-      "num": 542621,
-      "word": "李光洁为联系老婆踢走整个群",
-      "onboard_time": 1670737755,
-      "rank": 12,
-      "category": "综艺"
+      "raw_hot": 514746,
+      "num": 463105,
+      "word": "夫妻领养女孩给儿换亲养大后舍不得",
+      "onboard_time": 1670740634,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 494138,
@@ -587,6 +619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 391835,
+      "num": 391835,
+      "word": "女生夜间打车被问是不是恨嫁",
+      "onboard_time": 1670739255,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 389881,
       "num": 389881,
       "word": "从小小罗到C罗",
@@ -611,6 +651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 365758,
+      "num": 164293,
+      "word": "冯巩当选民革第十四届中央副主席",
+      "onboard_time": 1670741417,
+      "rank": 30,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 353672,
       "num": 353672,
       "word": "你担心奥密克戎重复感染吗",
@@ -625,14 +673,6 @@
       "onboard_time": 1670730672,
       "rank": 19,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 340978,
-      "num": 340978,
-      "word": "AAA",
-      "onboard_time": 1670739913,
-      "rank": 14,
-      "category": "影视"
     },
     {
       "raw_hot": 337846,
@@ -769,14 +809,6 @@
       "onboard_time": 1670730912,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 279814,
-      "num": 279814,
-      "word": "女生夜间打车被问是不是恨嫁",
-      "onboard_time": 1670739255,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 279286,
@@ -987,6 +1019,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 207570,
+      "num": 207570,
+      "word": "孙颖莎",
+      "onboard_time": 1670742736,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 202636,
       "num": 202636,
       "word": "范志毅预测C罗会替补进球",
@@ -1123,6 +1163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 177874,
+      "num": 177874,
+      "word": "快乐再出发全员冰雪海报",
+      "onboard_time": 1670741234,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 177725,
       "num": 177725,
       "word": "阳性居家要注意什么",
@@ -1171,6 +1219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 173783,
+      "num": 173783,
+      "word": "想跳舞的心摁都摁不住",
+      "onboard_time": 1670742076,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 173722,
       "num": 173722,
       "word": "化学博导相亲有多燃",
@@ -1195,6 +1251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 169785,
+      "num": 169785,
+      "word": "世界杯半决赛赛程出炉",
+      "onboard_time": 1670738294,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 169781,
       "num": 169781,
       "word": "竞技体育 残酷",
@@ -1217,6 +1281,14 @@
       "onboard_time": 1670735952,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 167788,
+      "num": 167788,
+      "word": "农民画师网上卖画为顾客绘梦",
+      "onboard_time": 1670742495,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 167698,
@@ -1275,6 +1347,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 156124,
+      "num": 156124,
+      "word": "石狮遇到猫",
+      "onboard_time": 1670738775,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 155869,
       "num": 155869,
       "word": "非洲球队首进世界杯四强",
@@ -1315,12 +1395,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 145103,
-      "num": 145103,
-      "word": "石狮遇到猫",
-      "onboard_time": 1670738775,
-      "rank": 46,
-      "category": "幽默"
+      "raw_hot": 147844,
+      "num": 147844,
+      "word": "退烧药使用一般不超过3天",
+      "onboard_time": 1670741354,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 145049,
@@ -1347,6 +1427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 141712,
+      "num": 141712,
+      "word": "国乒于何一退出国家队",
+      "onboard_time": 1670739734,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141131,
       "num": 141131,
       "word": "恩内斯里头球破门",
@@ -1363,6 +1451,14 @@
       "category": "社会新闻,军事"
     },
     {
+      "raw_hot": 140508,
+      "num": 140508,
+      "word": "霍汶希GQ红毯背后群发C位卡",
+      "onboard_time": 1670741954,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 140114,
       "num": 140114,
       "word": "阳华提离婚秦施慌了",
@@ -1371,12 +1467,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 139542,
-      "num": 139542,
-      "word": "世界杯半决赛赛程出炉",
-      "onboard_time": 1670738294,
-      "rank": 42,
-      "category": "体育"
+      "raw_hot": 138666,
+      "num": 138666,
+      "word": "梁洁新剧搞事业",
+      "onboard_time": 1670742854,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 134974,
@@ -1475,6 +1571,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 122784,
+      "num": 122784,
+      "word": "藏在WB西装里的小心思",
+      "onboard_time": 1670742854,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 122160,
       "num": 122160,
       "word": "小鬼在搞一种很新的emo",
@@ -1499,6 +1603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 117615,
+      "num": 117615,
+      "word": "的哥讨书10年捐了100个图书室",
+      "onboard_time": 1670742254,
+      "rank": 45,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 115626,
       "num": 87557,
       "word": "布努 帅",
@@ -1515,36 +1627,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 107465,
-      "num": 107465,
-      "word": "国乒于何一退出国家队",
-      "onboard_time": 1670739734,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 107138,
       "num": 107138,
       "word": "桑托斯 战术",
       "onboard_time": 1670694315,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 106460,
-      "num": 106460,
-      "word": "武汉发热门诊患者大排长龙",
-      "onboard_time": 1670740575,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 105440,
-      "num": 105440,
-      "word": "夫妻领养女孩给儿换亲养大后舍不得",
-      "onboard_time": 1670740634,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 95505,
