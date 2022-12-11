@@ -1,6 +1,6 @@
 {
   "startTime": 1670171104099,
-  "endTime": 1670732619584,
+  "endTime": 1670733539097,
   "band_list": [
     {
       "raw_hot": 13790167,
@@ -715,6 +715,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1820099,
+      "num": 1820099,
+      "word": "女子买连花清瘟被捆绑5种药品",
+      "onboard_time": 1670730251,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1812362,
       "num": 1032071,
       "word": "是连花清瘟不是莲花清温",
@@ -1112,14 +1120,6 @@
       "word": "刘强东分享感染新冠经历",
       "onboard_time": 1670659037,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1395764,
-      "num": 1395764,
-      "word": "女子买连花清瘟被捆绑5种药品",
-      "onboard_time": 1670730251,
-      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -1659,6 +1659,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 1063660,
+      "num": 1063660,
+      "word": "卡卡发文鼓励C罗",
+      "onboard_time": 1670728452,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1061606,
       "num": 1061606,
       "word": "南京公共交通不再查验核酸",
@@ -1713,14 +1721,6 @@
       "onboard_time": 1670675301,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1026246,
-      "num": 1026246,
-      "word": "卡卡发文鼓励C罗",
-      "onboard_time": 1670728452,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 1018644,
@@ -2827,6 +2827,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 699277,
+      "num": 699277,
+      "word": "决赛会是克罗地亚vs摩洛哥吗",
+      "onboard_time": 1670728750,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 698253,
+      "num": 698253,
+      "word": "疫情结束了去见想见的人吧",
+      "onboard_time": 1670728631,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 697625,
       "num": 578561,
       "word": "武汉阳性患者感染全记录",
@@ -3667,14 +3683,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 587354,
-      "num": 587354,
-      "word": "决赛会是克罗地亚vs摩洛哥吗",
-      "onboard_time": 1670728750,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 586762,
       "num": 586762,
       "word": "C罗与不服老的自己和解了",
@@ -3769,14 +3777,6 @@
       "onboard_time": 1670589861,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 578507,
-      "num": 578507,
-      "word": "疫情结束了去见想见的人吧",
-      "onboard_time": 1670728631,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 575288,
@@ -5835,6 +5835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 395469,
+      "num": 395469,
+      "word": "沉船捞出165年前牛仔裤80万卖出",
+      "onboard_time": 1670727911,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 394852,
       "num": 394852,
       "word": "樊振东",
@@ -5849,14 +5857,6 @@
       "onboard_time": 1670687477,
       "rank": 18,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 393932,
-      "num": 393932,
-      "word": "沉船捞出165年前牛仔裤80万卖出",
-      "onboard_time": 1670727911,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 393803,
@@ -6912,6 +6912,14 @@
       "word": "湖人 加时",
       "onboard_time": 1670643314,
       "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 328044,
+      "num": 328044,
+      "word": "桑托斯说不后悔C罗替补",
+      "onboard_time": 1670729652,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -7979,6 +7987,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 279286,
+      "num": 279286,
+      "word": "Hero发公告呼吁理智观赛",
+      "onboard_time": 1670731632,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 279262,
       "num": 587869,
       "word": "儿童新冠发病7日图",
@@ -8099,14 +8115,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 276689,
-      "num": 276689,
-      "word": "桑托斯说不后悔C罗替补",
-      "onboard_time": 1670729652,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 275871,
       "num": 275871,
       "word": "李峋对朱韵心动的证据",
@@ -8193,6 +8201,14 @@
       "onboard_time": 1670506458,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 273044,
+      "num": 273044,
+      "word": "佘诗曼邓萃雯张可颐再现金枝欲孽",
+      "onboard_time": 1670730912,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 273019,
@@ -8313,6 +8329,14 @@
       "onboard_time": 1670144471,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 269035,
+      "num": 269035,
+      "word": "内马尔说自己在心理上被击垮了",
+      "onboard_time": 1670729591,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 268950,
@@ -9179,14 +9203,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 237073,
-      "num": 237073,
-      "word": "Hero发公告呼吁理智观赛",
-      "onboard_time": 1670731632,
-      "rank": 28,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 236918,
       "num": 236918,
       "word": "比利时队长阿扎尔退出国家队",
@@ -9217,14 +9233,6 @@
       "onboard_time": 1670384291,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 235975,
-      "num": 235975,
-      "word": "佘诗曼邓萃雯张可颐再现金枝欲孽",
-      "onboard_time": 1670730912,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 235802,
@@ -9473,14 +9481,6 @@
       "onboard_time": 1670317270,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 227115,
-      "num": 227115,
-      "word": "内马尔说自己在心理上被击垮了",
-      "onboard_time": 1670729591,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 226460,
@@ -11347,6 +11347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 177030,
+      "num": 177030,
+      "word": "勇士战胜凯尔特人",
+      "onboard_time": 1670732892,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 176967,
       "num": 176967,
       "word": "记者探访杭州东站优化首日",
@@ -11401,6 +11409,14 @@
       "onboard_time": 1670693354,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 175158,
+      "num": 175158,
+      "word": "STAYC见面会唱王心凌爱你",
+      "onboard_time": 1670732172,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 174738,
@@ -12273,14 +12289,6 @@
       "onboard_time": 1670496618,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 158384,
-      "num": 158384,
-      "word": "STAYC见面会唱王心凌爱你",
-      "onboard_time": 1670732172,
-      "rank": 43,
-      "category": "音乐"
     },
     {
       "raw_hot": 158317,
@@ -13987,6 +13995,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 127308,
+      "num": 127308,
+      "word": "300万字的评价区树洞",
+      "onboard_time": 1670733434,
+      "rank": 48,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 127225,
       "num": 127225,
       "word": "这就是足球",
@@ -14073,6 +14089,14 @@
       "onboard_time": 1670197628,
       "rank": 40,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 124899,
+      "num": 124899,
+      "word": "你们是来砸场子的吧",
+      "onboard_time": 1670733434,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 124440,
