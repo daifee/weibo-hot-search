@@ -1,0 +1,410 @@
+{
+  "runTime": 1670724461128,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2417240,
+        "num": 2417240,
+        "word": "C罗女友发文指责葡萄牙主教练",
+        "onboard_time": 1670715790,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1523547,
+        "num": 1523547,
+        "word": "丈夫转1万生活费妻子花5千办美容卡",
+        "onboard_time": 1670716751,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92224,
+        "num": 1265148,
+        "word": "钟南山回应新冠后遗症",
+        "onboard_time": 1670565623,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1156027,
+        "num": 1156027,
+        "word": "C罗哭了",
+        "onboard_time": 1670692035,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1117600,
+        "num": 1117600,
+        "word": "陈晓说陈妍希的演技是殿堂级的",
+        "onboard_time": 1670713869,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 873010,
+        "num": 873010,
+        "word": "世界杯4强出炉",
+        "onboard_time": 1670714530,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 789343,
+        "num": 789343,
+        "word": "英格兰1比2法国",
+        "onboard_time": 1670706372,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 775216,
+        "num": 775216,
+        "word": "阳性第2天身体有多大变化",
+        "onboard_time": 1670681779,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 702493,
+        "num": 702493,
+        "word": "女子手卡便池男友笑问消防员笑没",
+        "onboard_time": 1670721614,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 700127,
+        "num": 700127,
+        "word": "摩洛哥1比0葡萄牙",
+        "onboard_time": 1670692220,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1070654,
+        "num": 661795,
+        "word": "钟南山认为今年就地过年可能性很小",
+        "onboard_time": 1670722451,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 594559,
+        "num": 594559,
+        "word": "李现说他的青春结束了",
+        "onboard_time": 1670698816,
+        "rank": 11,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 577794,
+        "num": 577794,
+        "word": "梅西 诸神黄昏希望",
+        "onboard_time": 1670693177,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 443313,
+        "num": 443313,
+        "word": "内马尔发文告别世界杯",
+        "onboard_time": 1670721730,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 439732,
+        "num": 439732,
+        "word": "姆巴佩笑成表情包",
+        "onboard_time": 1670716629,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 398548,
+        "num": 398548,
+        "word": "C罗",
+        "onboard_time": 1670684540,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 376539,
+        "num": 376539,
+        "word": "红毯还是得看女明星",
+        "onboard_time": 1670722690,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 352535,
+        "num": 352535,
+        "word": "刘畊宏发文感慨C罗淘汰",
+        "onboard_time": 1670721910,
+        "rank": 17,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 345516,
+        "num": 345516,
+        "word": "范世錡迟到激怒尔冬升",
+        "onboard_time": 1670683281,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 332286,
+        "num": 332286,
+        "word": "黄桃罐头为啥突然火了",
+        "onboard_time": 1670718190,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325204,
+        "num": 325204,
+        "word": "钟南山称得了奥密克戎相当于接种疫苗",
+        "onboard_time": 1670683399,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324968,
+        "num": 324968,
+        "word": "我军潜艇遭外国反潜机跟踪机智脱身",
+        "onboard_time": 1670717710,
+        "rank": 21,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 319821,
+        "num": 319821,
+        "word": "李诞说有腿毛的人不适合穿秋裤",
+        "onboard_time": 1670720891,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 298546,
+        "num": 298546,
+        "word": "感染后抗原多久能测出来",
+        "onboard_time": 1670719751,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279045,
+        "num": 279045,
+        "word": "在北京的快递为什么迟到了",
+        "onboard_time": 1670717412,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277576,
+        "num": 277576,
+        "word": "阿根廷 预测",
+        "onboard_time": 1670693834,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 271334,
+        "num": 271334,
+        "word": "你担心奥密克戎重复感染吗",
+        "onboard_time": 1670715551,
+        "rank": 26,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 263863,
+        "num": 263863,
+        "word": "孕妇感染会影响胎儿吗",
+        "onboard_time": 1670719270,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224327,
+        "num": 224327,
+        "word": "一个家庭手握多少资产才算有钱",
+        "onboard_time": 1670706852,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 224127,
+        "num": 224127,
+        "word": "摩洛哥晋级4强",
+        "onboard_time": 1670692220,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221756,
+        "num": 221756,
+        "word": "省二钢被查封伍建设破产",
+        "onboard_time": 1670723890,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 203192,
+        "num": 203192,
+        "word": "心疼C罗",
+        "onboard_time": 1670715909,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201187,
+        "num": 201187,
+        "word": "陶俊辉纠缠秦施",
+        "onboard_time": 1670718490,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 199861,
+        "num": 199861,
+        "word": "aespaRedVelvet团体预告照",
+        "onboard_time": 1670716990,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 194438,
+        "num": 194438,
+        "word": "视频里的消防员爸爸走了",
+        "onboard_time": 1670722813,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188880,
+        "num": 188880,
+        "word": "英格兰vs法国",
+        "onboard_time": 1670691436,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182649,
+        "num": 182649,
+        "word": "女子买衣服花600元一看标价499",
+        "onboard_time": 1670682679,
+        "rank": 36,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 177234,
+        "num": 177234,
+        "word": "钱学森晚年卧床见航天员就笑容满面",
+        "onboard_time": 1670714468,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176622,
+        "num": 176622,
+        "word": "王冰冰反向支持葡萄牙",
+        "onboard_time": 1670687118,
+        "rank": 38,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 174450,
+        "num": 174450,
+        "word": "姆巴佩",
+        "onboard_time": 1670694075,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169029,
+        "num": 169029,
+        "word": "前任突然加微信你如何回复",
+        "onboard_time": 1670724016,
+        "rank": 40,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 166184,
+        "num": 166184,
+        "word": "第一次见耳朵这么小的狗子",
+        "onboard_time": 1670687057,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 165273,
+        "num": 165273,
+        "word": "钟南山预计明年上半年能恢复到疫情前生活",
+        "onboard_time": 1670672959,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163890,
+        "num": 163890,
+        "word": "阿云嘎说谢谢蔡徐坤胡彦斌支持中国音乐剧",
+        "onboard_time": 1670716271,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 162713,
+        "num": 162713,
+        "word": "不同类型口罩防护效果对比",
+        "onboard_time": 1670715790,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154536,
+        "num": 154536,
+        "word": "你好星期六 嗑cp",
+        "onboard_time": 1670682139,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152661,
+        "num": 152661,
+        "word": "高辛夷怀孕",
+        "onboard_time": 1670674880,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 182962,
+        "num": 152544,
+        "word": "世界杯",
+        "onboard_time": 1670670981,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145402,
+        "num": 145402,
+        "word": "恢复疫情前的生活你期待吗",
+        "onboard_time": 1670716450,
+        "rank": 48,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 135134,
+        "num": 135134,
+        "word": "化学博导相亲有多燃",
+        "onboard_time": 1670684959,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#中阿友好相信还会好上加好#"
+    }
+  }
+}
