@@ -1,6 +1,6 @@
 {
   "startTime": 1670689529040,
-  "endTime": 1670724461128,
+  "endTime": 1670727094896,
   "band_list": [
     {
       "raw_hot": 13790167,
@@ -99,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1343242,
+      "num": 1343242,
+      "word": "钟南山认为今年就地过年可能性很小",
+      "onboard_time": 1670722451,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1257268,
       "num": 1257268,
       "word": "内马尔说这是最伤心的失利",
@@ -153,14 +161,6 @@
       "onboard_time": 1670691680,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1070654,
-      "num": 661795,
-      "word": "钟南山认为今年就地过年可能性很小",
-      "onboard_time": 1670722451,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1040351,
@@ -227,6 +227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 732745,
+      "num": 732745,
+      "word": "女子手卡便池男友笑问消防员笑没",
+      "onboard_time": 1670721614,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 712575,
       "num": 712575,
       "word": "李现说他的青春结束了",
@@ -241,14 +249,6 @@
       "onboard_time": 1670687118,
       "rank": 22,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 702493,
-      "num": 702493,
-      "word": "女子手卡便池男友笑问消防员笑没",
-      "onboard_time": 1670721614,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 700053,
@@ -272,6 +272,14 @@
       "word": "卡卡将解说摩洛哥vs葡萄牙",
       "onboard_time": 1670685500,
       "rank": 10,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 648141,
+      "num": 648141,
+      "word": "内马尔发文告别世界杯",
+      "onboard_time": 1670721730,
+      "rank": 35,
       "category": "体育"
     },
     {
@@ -299,6 +307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 568667,
+      "num": 568667,
+      "word": "前任突然加微信你如何回复",
+      "onboard_time": 1670724016,
+      "rank": 40,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 568183,
       "num": 568183,
       "word": "钟南山预计明年上半年能恢复到疫情前生活",
@@ -313,6 +329,14 @@
       "onboard_time": 1670682679,
       "rank": 13,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 547741,
+      "num": 547741,
+      "word": "红毯还是得看女明星",
+      "onboard_time": 1670722690,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 494138,
@@ -345,14 +369,6 @@
       "onboard_time": 1670717710,
       "rank": 13,
       "category": "军事,社会新闻"
-    },
-    {
-      "raw_hot": 443313,
-      "num": 443313,
-      "word": "内马尔发文告别世界杯",
-      "onboard_time": 1670721730,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 413537,
@@ -395,20 +411,20 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 384943,
+      "num": 384943,
+      "word": "父子录视频父亲失足掉河引质疑",
+      "onboard_time": 1670725092,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 378375,
       "num": 378375,
       "word": "财阀家的小儿子",
       "onboard_time": 1670684540,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 376539,
-      "num": 376539,
-      "word": "红毯还是得看女明星",
-      "onboard_time": 1670722690,
-      "rank": 40,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 371527,
@@ -427,8 +443,8 @@
       "category": "社会议题"
     },
     {
-      "raw_hot": 319821,
-      "num": 319821,
+      "raw_hot": 324885,
+      "num": 324885,
       "word": "李诞说有腿毛的人不适合穿秋裤",
       "onboard_time": 1670720891,
       "rank": 49,
@@ -467,11 +483,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 292352,
+      "num": 292352,
+      "word": "北京12月10日新增感染者情况",
+      "onboard_time": 1670724612,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 287908,
       "num": 287908,
       "word": "财阀家的小儿子第十集",
       "onboard_time": 1670686098,
       "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 287222,
+      "num": 287222,
+      "word": "省二钢被查封伍建设破产",
+      "onboard_time": 1670723890,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -505,6 +537,14 @@
       "onboard_time": 1670676140,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 264448,
+      "num": 264448,
+      "word": "葡萄牙球员不满裁判安排",
+      "onboard_time": 1670725991,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 259753,
@@ -587,14 +627,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 221756,
-      "num": 221756,
-      "word": "省二钢被查封伍建设破产",
-      "onboard_time": 1670723890,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 219660,
       "num": 219660,
       "word": "管泽元 解说",
@@ -649,6 +681,14 @@
       "onboard_time": 1670692756,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 199794,
+      "num": 199794,
+      "word": "葡萄牙总统称C罗不太可能再征战世界杯",
+      "onboard_time": 1670726412,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 195815,
@@ -779,6 +819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 171414,
+      "num": 171414,
+      "word": "按揉两个穴位可清肺热",
+      "onboard_time": 1670724673,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 169781,
       "num": 169781,
       "word": "竞技体育 残酷",
@@ -795,14 +843,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 169029,
-      "num": 169029,
-      "word": "前任突然加微信你如何回复",
-      "onboard_time": 1670724016,
-      "rank": 40,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 167698,
       "num": 167698,
       "word": "摩洛哥门将",
@@ -817,6 +857,14 @@
       "onboard_time": 1670665223,
       "rank": 41,
       "category": "教育"
+    },
+    {
+      "raw_hot": 165987,
+      "num": 165987,
+      "word": "久哲 BP",
+      "onboard_time": 1670726352,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 165619,
@@ -841,6 +889,14 @@
       "onboard_time": 1670700552,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 160120,
+      "num": 160120,
+      "word": "多地核酸采样服务调整",
+      "onboard_time": 1670726470,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 155869,
@@ -915,6 +971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 134343,
+      "num": 134343,
+      "word": "卡配罗",
+      "onboard_time": 1670726712,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132949,
       "num": 132949,
       "word": "周洁琼说结婚是非常神圣的",
@@ -939,6 +1003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 128591,
+      "num": 128591,
+      "word": "刘诗诗白衣回眸路透",
+      "onboard_time": 1670720891,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 128013,
       "num": 128013,
       "word": "舍不得C罗",
@@ -953,6 +1025,14 @@
       "onboard_time": 1670693354,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127125,
+      "num": 127125,
+      "word": "感染新冠后为什么会全身酸疼",
+      "onboard_time": 1670727015,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 126280,
