@@ -1,6 +1,6 @@
 {
   "startTime": 1670689529040,
-  "endTime": 1670763150099,
+  "endTime": 1670764942971,
   "band_list": [
     {
       "raw_hot": 13790167,
@@ -67,6 +67,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2552830,
+      "num": 2552830,
+      "word": "预计1个月内达到感染峰值",
+      "onboard_time": 1670760077,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2286485,
       "num": 2286485,
       "word": "武汉发热门诊患者大排长龙",
@@ -108,7 +116,7 @@
     },
     {
       "raw_hot": 1833549,
-      "num": 1194847,
+      "num": 1645465,
       "word": "结婚12年才发现喜被里有葱",
       "onboard_time": 1670754435,
       "rank": 35,
@@ -243,14 +251,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1112996,
-      "num": 1112996,
-      "word": "预计1个月内达到感染峰值",
-      "onboard_time": 1670760077,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1090207,
       "num": 1090207,
       "word": "B费",
@@ -289,6 +289,14 @@
       "onboard_time": 1670741417,
       "rank": 30,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 979893,
+      "num": 571626,
+      "word": "王一博微博粉丝数量破4000万",
+      "onboard_time": 1670764757,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 928594,
@@ -361,6 +369,14 @@
       "onboard_time": 1670670981,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 796039,
+      "num": 796039,
+      "word": "小米13",
+      "onboard_time": 1670759537,
+      "rank": 7,
+      "category": "科技"
     },
     {
       "raw_hot": 778862,
@@ -515,14 +531,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 690664,
-      "num": 690664,
-      "word": "小米13",
-      "onboard_time": 1670759537,
-      "rank": 7,
-      "category": "科技"
-    },
-    {
       "raw_hot": 677428,
       "num": 677428,
       "word": "惠英红质疑薛凯琪戏路",
@@ -548,7 +556,7 @@
     },
     {
       "raw_hot": 668423,
-      "num": 1354338,
+      "num": 1864664,
       "word": "感染新冠居家中医药干预指引",
       "onboard_time": 1670745856,
       "rank": 2,
@@ -592,6 +600,14 @@
       "word": "夫妻领养女孩给儿换亲养大后舍不得",
       "onboard_time": 1670740634,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 642911,
+      "num": 568499,
+      "word": "二次感染新冠会更严重吗",
+      "onboard_time": 1670763136,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -641,6 +657,14 @@
       "onboard_time": 1670727015,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 588258,
+      "num": 588258,
+      "word": "樊振东3比1马龙",
+      "onboard_time": 1670762658,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 586541,
@@ -699,14 +723,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 535991,
-      "num": 535991,
-      "word": "樊振东3比1马龙",
-      "onboard_time": 1670762658,
-      "rank": 12,
-      "category": "体育"
-    },
-    {
       "raw_hot": 533048,
       "num": 533048,
       "word": "孙颖莎",
@@ -723,11 +739,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 518258,
+      "num": 518258,
+      "word": "阳过一次后多久可能再阳",
+      "onboard_time": 1670762776,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 516004,
       "num": 516004,
       "word": "如梦之梦",
       "onboard_time": 1670749454,
       "rank": 13,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 509144,
+      "num": 509144,
+      "word": "陶俊辉发现秦施阳华离婚",
+      "onboard_time": 1670761335,
+      "rank": 16,
       "category": "影视"
     },
     {
@@ -745,14 +777,6 @@
       "onboard_time": 1670684301,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 485045,
-      "num": 485045,
-      "word": "陶俊辉发现秦施阳华离婚",
-      "onboard_time": 1670761335,
-      "rank": 16,
-      "category": "影视"
     },
     {
       "raw_hot": 475256,
@@ -785,6 +809,14 @@
       "onboard_time": 1670692220,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 459017,
+      "num": 459017,
+      "word": "部分地区强调不戴口罩造成疫情传播将追责",
+      "onboard_time": 1670761037,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 457860,
@@ -851,6 +883,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 422355,
+      "num": 422355,
+      "word": "14岁男孩手掌一直出汗如下雨",
+      "onboard_time": 1670760858,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 416734,
       "num": 416734,
       "word": "胡歌20岁到40岁荧幕变化",
@@ -865,6 +905,14 @@
       "onboard_time": 1670718190,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 407563,
+      "num": 407563,
+      "word": "许昕",
+      "onboard_time": 1670762955,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 406762,
@@ -923,6 +971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 394555,
+      "num": 394555,
+      "word": "小米13pro",
+      "onboard_time": 1670763623,
+      "rank": 21,
+      "category": "科技"
+    },
+    {
       "raw_hot": 394501,
       "num": 394501,
       "word": "梅西盘核桃有点上头",
@@ -953,14 +1009,6 @@
       "onboard_time": 1670692756,
       "rank": 26,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 383208,
-      "num": 383208,
-      "word": "14岁男孩手掌一直出汗如下雨",
-      "onboard_time": 1670760858,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 378375,
@@ -1027,6 +1075,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 346480,
+      "num": 346480,
+      "word": "爱的二八定律大结局",
+      "onboard_time": 1670761458,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 338500,
       "num": 338500,
       "word": "2022内娱名场面",
@@ -1081,14 +1137,6 @@
       "onboard_time": 1670720891,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 321264,
-      "num": 294230,
-      "word": "爱的二八定律大结局",
-      "onboard_time": 1670761458,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 319434,
@@ -1211,6 +1259,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 288051,
+      "num": 288051,
+      "word": "野猫不想因为孩子放弃出国",
+      "onboard_time": 1670759420,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 287908,
       "num": 287908,
       "word": "财阀家的小儿子第十集",
@@ -1281,14 +1337,6 @@
       "onboard_time": 1670687057,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 274909,
-      "num": 274909,
-      "word": "部分地区强调不戴口罩造成疫情传播将追责",
-      "onboard_time": 1670761037,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 274783,
@@ -1387,6 +1435,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 232334,
+      "num": 232334,
+      "word": "当小狗被主人说变丑后",
+      "onboard_time": 1670763020,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 232306,
       "num": 232306,
       "word": "猪哼 hero",
@@ -1476,7 +1532,7 @@
     },
     {
       "raw_hot": 222572,
-      "num": 201019,
+      "num": 213276,
       "word": "许半夏遭前夫报复",
       "onboard_time": 1670760918,
       "rank": 32,
@@ -1491,20 +1547,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 221175,
+      "num": 221175,
+      "word": "内马尔有多认真避免受伤",
+      "onboard_time": 1670762422,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 219660,
       "num": 219660,
       "word": "管泽元 解说",
       "onboard_time": 1670685622,
       "rank": 30,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 219356,
-      "num": 211410,
-      "word": "野猫不想因为孩子放弃出国",
-      "onboard_time": 1670759420,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 218604,
@@ -1528,14 +1584,6 @@
       "word": "孙颖莎3比1王曼昱",
       "onboard_time": 1670745195,
       "rank": 28,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 214253,
-      "num": 214253,
-      "word": "许昕",
-      "onboard_time": 1670762955,
-      "rank": 29,
       "category": "体育"
     },
     {
@@ -1692,7 +1740,7 @@
     },
     {
       "raw_hot": 189192,
-      "num": 163288,
+      "num": 180880,
       "word": "原来这才是一见钟情的意义",
       "onboard_time": 1670762236,
       "rank": 40,
@@ -1755,12 +1803,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 180926,
-      "num": 180926,
-      "word": "内马尔有多认真避免受伤",
-      "onboard_time": 1670762422,
-      "rank": 36,
-      "category": "体育"
+      "raw_hot": 180323,
+      "num": 180323,
+      "word": "让你长时间单身的原因",
+      "onboard_time": 1670763797,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 180011,
@@ -2027,6 +2075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 162776,
+      "num": 162776,
+      "word": "徐瑛彬3比2周恺",
+      "onboard_time": 1670760315,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 162660,
       "num": 153935,
       "word": "早期的综艺有多敢拍",
@@ -2131,6 +2187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 146228,
+      "num": 142895,
+      "word": "我们的歌",
+      "onboard_time": 1670764877,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 145832,
       "num": 145832,
       "word": "为什么说要过好今天",
@@ -2227,28 +2291,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 139349,
+      "num": 139349,
+      "word": "Roc梅开二度再五杀",
+      "onboard_time": 1670764820,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 139329,
+      "num": 139329,
+      "word": "欧冠跟世界杯哪个水准更高",
+      "onboard_time": 1670764275,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 138928,
       "num": 138928,
       "word": "梁洁新剧搞事业",
       "onboard_time": 1670742854,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 135930,
-      "num": 135930,
-      "word": "徐瑛彬3比2周恺",
-      "onboard_time": 1670760315,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 135555,
-      "num": 135555,
-      "word": "阳过一次后多久可能再阳",
-      "onboard_time": 1670762776,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 135435,
@@ -2441,22 +2505,6 @@
       "onboard_time": 1670693595,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 115567,
-      "num": 115567,
-      "word": "二次感染新冠会更严重吗",
-      "onboard_time": 1670763136,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 115535,
-      "num": 115535,
-      "word": "当小狗被主人说变丑后",
-      "onboard_time": 1670763020,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 113552,
