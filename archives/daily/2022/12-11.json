@@ -1,6 +1,6 @@
 {
   "startTime": 1670689529040,
-  "endTime": 1670771888938,
+  "endTime": 1670772825400,
   "band_list": [
     {
       "raw_hot": 13790167,
@@ -233,6 +233,14 @@
       "onboard_time": 1670744114,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1182511,
+      "num": 1182511,
+      "word": "拉伊卜小王子首次回应身世",
+      "onboard_time": 1670771356,
+      "rank": 38,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 1158564,
@@ -475,6 +483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 722927,
+      "num": 722927,
+      "word": "女孩在家楼下补课后失联已11年",
+      "onboard_time": 1670770825,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 719792,
       "num": 719792,
       "word": "大学生火车跳20分钟健美操赶交作业",
@@ -696,6 +712,14 @@
       "word": "女子超市拎起葡萄边抖边吃还不买",
       "onboard_time": 1670728092,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 607172,
+      "num": 607172,
+      "word": "保定放开之后",
+      "onboard_time": 1670770758,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -1076,7 +1100,7 @@
     },
     {
       "raw_hot": 393450,
-      "num": 335482,
+      "num": 362027,
       "word": "财阀家的小儿子11",
       "onboard_time": 1670771235,
       "rank": 20,
@@ -1113,14 +1137,6 @@
       "onboard_time": 1670765596,
       "rank": 27,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 382614,
-      "num": 382614,
-      "word": "女孩在家楼下补课后失联已11年",
-      "onboard_time": 1670770825,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 375337,
@@ -1193,14 +1209,6 @@
       "onboard_time": 1670730672,
       "rank": 19,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 344991,
-      "num": 344991,
-      "word": "保定放开之后",
-      "onboard_time": 1670770758,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 338500,
@@ -1963,6 +1971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 188197,
+      "num": 188197,
+      "word": "阳华用和秦施结婚纪念日买股票",
+      "onboard_time": 1670772195,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 187993,
       "num": 113886,
       "word": "周峻纬新剧男友力",
@@ -2097,6 +2113,14 @@
       "onboard_time": 1670732892,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 176752,
+      "num": 136072,
+      "word": "世界杯半决赛现场将播放孤勇者",
+      "onboard_time": 1670772736,
+      "rank": 40,
+      "category": "体育,音乐"
     },
     {
       "raw_hot": 176350,
@@ -2329,14 +2353,6 @@
       "onboard_time": 1670745796,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 160774,
-      "num": 160774,
-      "word": "拉伊卜小王子首次回应身世",
-      "onboard_time": 1670771356,
-      "rank": 38,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 159431,
@@ -2833,6 +2849,14 @@
       "onboard_time": 1670714110,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 95322,
+      "num": 95322,
+      "word": "11岁男孩帮父母摆摊一次擀七张皮",
+      "onboard_time": 1670772736,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 92224,
