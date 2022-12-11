@@ -1,6 +1,6 @@
 {
   "startTime": 1670689529040,
-  "endTime": 1670765671130,
+  "endTime": 1670768186553,
   "band_list": [
     {
       "raw_hot": 13790167,
@@ -107,6 +107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2031451,
+      "num": 2031451,
+      "word": "二次感染新冠会更严重吗",
+      "onboard_time": 1670763136,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2027520,
       "num": 889879,
       "word": "家政阿姨偷吃饭菜雇主每天吃口水菜",
@@ -195,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1328109,
+      "num": 1328109,
+      "word": "白鲨首夺CFS总冠军",
+      "onboard_time": 1670766915,
+      "rank": 3,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1257268,
       "num": 1257268,
       "word": "内马尔说这是最伤心的失利",
@@ -249,14 +265,6 @@
       "onboard_time": 1670713869,
       "rank": 8,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1092762,
-      "num": 1092762,
-      "word": "二次感染新冠会更严重吗",
-      "onboard_time": 1670763136,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1090207,
@@ -352,6 +360,14 @@
       "word": "女子开空调烧熏香守母亲遗体3个月",
       "onboard_time": 1670754078,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 832388,
+      "num": 832388,
+      "word": "阳过一次后多久可能再阳",
+      "onboard_time": 1670762776,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -619,6 +635,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 630832,
+      "num": 630832,
+      "word": "芈月传作者评赵丽颖风吹半夏少女感",
+      "onboard_time": 1670760315,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 616766,
       "num": 578572,
       "word": "张艺兴说为梦想努力奋斗的人值得尊敬",
@@ -643,12 +667,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 610079,
-      "num": 610079,
-      "word": "阳过一次后多久可能再阳",
-      "onboard_time": 1670762776,
-      "rank": 43,
-      "category": "社会新闻"
+      "raw_hot": 598667,
+      "num": 598667,
+      "word": "Doinb 盛世如你所愿",
+      "onboard_time": 1670765958,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 598434,
@@ -681,14 +705,6 @@
       "onboard_time": 1670716629,
       "rank": 12,
       "category": "体育"
-    },
-    {
-      "raw_hot": 583082,
-      "num": 583082,
-      "word": "芈月传作者评赵丽颖风吹半夏少女感",
-      "onboard_time": 1670760315,
-      "rank": 8,
-      "category": "影视"
     },
     {
       "raw_hot": 578142,
@@ -825,6 +841,14 @@
       "onboard_time": 1670727370,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 457684,
+      "num": 457684,
+      "word": "让你长时间单身的原因",
+      "onboard_time": 1670763797,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 453864,
@@ -1019,6 +1043,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 379965,
+      "num": 379965,
+      "word": "苏醒说人一辈子或找到伴侣或忠于自己",
+      "onboard_time": 1670767337,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 378375,
       "num": 378375,
       "word": "财阀家的小儿子",
@@ -1059,6 +1091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 356165,
+      "num": 356165,
+      "word": "AG",
+      "onboard_time": 1670766197,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 353672,
       "num": 353672,
       "word": "你担心奥密克戎重复感染吗",
@@ -1097,6 +1137,14 @@
       "onboard_time": 1670737874,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 328657,
+      "num": 328657,
+      "word": "LWX 刀妹",
+      "onboard_time": 1670765596,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 328044,
@@ -1160,6 +1208,14 @@
       "word": "内马尔说自己在心理上被击垮了",
       "onboard_time": 1670729591,
       "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 311709,
+      "num": 311709,
+      "word": "樊振东乒超单打全胜",
+      "onboard_time": 1670767097,
+      "rank": 29,
       "category": "体育"
     },
     {
@@ -1411,14 +1467,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 243468,
-      "num": 243468,
-      "word": "让你长时间单身的原因",
-      "onboard_time": 1670763797,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 243352,
       "num": 243352,
       "word": "摩洛哥创造历史",
@@ -1555,8 +1603,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 221175,
-      "num": 221175,
+      "raw_hot": 222377,
+      "num": 222377,
       "word": "内马尔有多认真避免受伤",
       "onboard_time": 1670762422,
       "rank": 36,
@@ -1731,6 +1779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 194343,
+      "num": 194343,
+      "word": "怪不得世界杯出图快",
+      "onboard_time": 1670765116,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 194098,
       "num": 194098,
       "word": "恢复疫情前的生活你期待吗",
@@ -1795,6 +1851,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 186494,
+      "num": 186494,
+      "word": "穿靴子的猫2定档1223",
+      "onboard_time": 1670767997,
+      "rank": 39,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 186364,
       "num": 186364,
       "word": "鬼灭之刃第三季新预告",
@@ -1811,6 +1875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 185985,
+      "num": 185985,
+      "word": "赵垒说我认识童骁骑",
+      "onboard_time": 1670767876,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 182874,
       "num": 182874,
       "word": "欧豪说童骁骑的反骨被正骨了",
@@ -1825,6 +1897,14 @@
       "onboard_time": 1670691858,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 180665,
+      "num": 180665,
+      "word": "黄宗泽吴卓羲新剧直播教粤语",
+      "onboard_time": 1670766796,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 180011,
@@ -1939,6 +2019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 173856,
+      "num": 173856,
+      "word": "倒车的声音真是五花八门",
+      "onboard_time": 1670767876,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 173794,
       "num": 171642,
       "word": "霍汶希GQ红毯背后群发C位卡",
@@ -1961,6 +2049,14 @@
       "onboard_time": 1670684959,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 173541,
+      "num": 173541,
+      "word": "施情华意是he",
+      "onboard_time": 1670767337,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 172866,
@@ -2139,6 +2235,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 156560,
+      "num": 156560,
+      "word": "九尾 火舞",
+      "onboard_time": 1670767638,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 156310,
       "num": 156310,
       "word": "退烧药使用一般不超过3天",
@@ -2203,6 +2307,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 148490,
+      "num": 148490,
+      "word": "明天有双子座流星雨",
+      "onboard_time": 1670767457,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 148226,
+      "num": 148226,
+      "word": "男子捧几十元礼物坐1元公交见女友",
+      "onboard_time": 1670766796,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 146213,
       "num": 146213,
       "word": "后会有7",
@@ -2256,14 +2376,6 @@
       "word": "山东鲁能3比2深圳大学",
       "onboard_time": 1670754435,
       "rank": 48,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 142402,
-      "num": 142402,
-      "word": "怪不得世界杯出图快",
-      "onboard_time": 1670765116,
-      "rank": 46,
       "category": "体育"
     },
     {
@@ -2635,6 +2747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 76570,
+      "num": 1361238,
+      "word": "无症状感染者不需要吃药",
+      "onboard_time": 1670767756,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 70402,
       "num": 70402,
       "word": "萨卡",
@@ -2697,6 +2817,14 @@
       "onboard_time": 1670727618,
       "rank": 14,
       "category": "体育,情感"
+    },
+    {
+      "raw_hot": 16100,
+      "num": 458004,
+      "word": "有了徕卡小米成了吗",
+      "onboard_time": 1670767337,
+      "rank": 14,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
