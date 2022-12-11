@@ -1,6 +1,6 @@
 {
   "startTime": 1670171104099,
-  "endTime": 1670768186553,
+  "endTime": 1670769200570,
   "band_list": [
     {
       "raw_hot": 13790167,
@@ -379,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2493148,
+      "num": 2493148,
+      "word": "二次感染新冠会更严重吗",
+      "onboard_time": 1670763136,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2470139,
       "num": 2470139,
       "word": "四级",
@@ -617,14 +625,6 @@
       "onboard_time": 1670687178,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 2031451,
-      "num": 2031451,
-      "word": "二次感染新冠会更严重吗",
-      "onboard_time": 1670763136,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2028721,
@@ -3283,6 +3283,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 670421,
+      "num": 670421,
+      "word": "Doinb 盛世如你所愿",
+      "onboard_time": 1670765958,
+      "rank": 9,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 670162,
       "num": 670162,
       "word": "内马尔发文告别世界杯",
@@ -3921,14 +3929,6 @@
       "onboard_time": 1670284327,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 598667,
-      "num": 598667,
-      "word": "Doinb 盛世如你所愿",
-      "onboard_time": 1670765958,
-      "rank": 9,
-      "category": "游戏"
     },
     {
       "raw_hot": 598434,
@@ -5123,6 +5123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 475039,
+      "num": 475039,
+      "word": "让你长时间单身的原因",
+      "onboard_time": 1670763797,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 473772,
       "num": 473772,
       "word": "肖战2023年的新年愿望",
@@ -5331,6 +5339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 460180,
+      "num": 460180,
+      "word": "苏醒说人一辈子或找到伴侣或忠于自己",
+      "onboard_time": 1670767337,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 459712,
       "num": 459712,
       "word": "被考研人的一天整破防了",
@@ -5361,14 +5377,6 @@
       "onboard_time": 1670727370,
       "rank": 18,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 457684,
-      "num": 457684,
-      "word": "让你长时间单身的原因",
-      "onboard_time": 1670763797,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 456870,
@@ -5649,6 +5657,14 @@
       "onboard_time": 1670610855,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 434886,
+      "num": 434886,
+      "word": "朱一龙在消失的她中的可塑性",
+      "onboard_time": 1670768597,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 434368,
@@ -6539,6 +6555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 382939,
+      "num": 382939,
+      "word": "LWX 刀妹",
+      "onboard_time": 1670765596,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 382538,
       "num": 382538,
       "word": "公交车军人专座比人高遭吐槽",
@@ -6577,14 +6601,6 @@
       "onboard_time": 1670501957,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 379965,
-      "num": 379965,
-      "word": "苏醒说人一辈子或找到伴侣或忠于自己",
-      "onboard_time": 1670767337,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 379560,
@@ -6657,6 +6673,14 @@
       "onboard_time": 1670752219,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 374066,
+      "num": 374066,
+      "word": "九尾 火舞",
+      "onboard_time": 1670767638,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 374007,
@@ -7467,14 +7491,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 328657,
-      "num": 328657,
-      "word": "LWX 刀妹",
-      "onboard_time": 1670765596,
-      "rank": 27,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 328567,
       "num": 328567,
       "word": "湖人 加时",
@@ -7521,6 +7537,14 @@
       "onboard_time": 1670478674,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 325874,
+      "num": 325874,
+      "word": "杨坤马嘉祺决定合体演绎全新歌曲",
+      "onboard_time": 1670767396,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 324917,
@@ -9107,6 +9131,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 264801,
+      "num": 264801,
+      "word": "男子捧几十元礼物坐1元公交见女友",
+      "onboard_time": 1670766796,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 263740,
       "num": 263740,
       "word": "吸入式新冠疫苗河南今日开打",
@@ -9465,6 +9497,14 @@
       "onboard_time": 1670580198,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 250780,
+      "num": 1361238,
+      "word": "无症状感染者不需要吃药",
+      "onboard_time": 1670767756,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 250757,
@@ -10659,6 +10699,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 213742,
+      "num": 213742,
+      "word": "怪不得世界杯出图快",
+      "onboard_time": 1670765116,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 213671,
       "num": 213671,
       "word": "多款感冒药卖断货",
@@ -11259,6 +11307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 196024,
+      "num": 192994,
+      "word": "赵垒说我认识童骁骑",
+      "onboard_time": 1670767876,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 195865,
       "num": 195865,
       "word": "幼年狗狗勇敢撵跑闯入羊群独狼",
@@ -11417,14 +11473,6 @@
       "onboard_time": 1670722813,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 194343,
-      "num": 194343,
-      "word": "怪不得世界杯出图快",
-      "onboard_time": 1670765116,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 194098,
@@ -11849,14 +11897,6 @@
       "onboard_time": 1670704691,
       "rank": 10,
       "category": "体育"
-    },
-    {
-      "raw_hot": 185985,
-      "num": 185985,
-      "word": "赵垒说我认识童骁骑",
-      "onboard_time": 1670767876,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 185982,
@@ -12617,6 +12657,14 @@
       "onboard_time": 1670329030,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 171238,
+      "num": 171238,
+      "word": "袁励岑 表现",
+      "onboard_time": 1670768897,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 171132,
@@ -13475,14 +13523,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 156560,
-      "num": 156560,
-      "word": "九尾 火舞",
-      "onboard_time": 1670767638,
-      "rank": 47,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 156544,
       "num": 156544,
       "word": "黄宗泽问为什么受伤的总是我",
@@ -13979,14 +14019,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 148226,
-      "num": 148226,
-      "word": "男子捧几十元礼物坐1元公交见女友",
-      "onboard_time": 1670766796,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 148224,
       "num": 148224,
       "word": "00后女大学生做宿舍美甲月入过万",
@@ -14163,6 +14195,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 144972,
+      "num": 144972,
+      "word": "周传雄回顾我们的歌表达感谢",
+      "onboard_time": 1670769135,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 144958,
       "num": 144958,
       "word": "严禁以各种方式封堵单元门小区门",
@@ -14177,6 +14217,14 @@
       "onboard_time": 1670738892,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 144790,
+      "num": 144790,
+      "word": "山东鲁能3比2上海地产集团",
+      "onboard_time": 1670768779,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 144574,
@@ -16763,14 +16811,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 76570,
-      "num": 1361238,
-      "word": "无症状感染者不需要吃药",
-      "onboard_time": 1670767756,
-      "rank": 2,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 75298,
       "num": 75298,
       "word": "如何评价韩剧财阀家的小儿子",
@@ -17172,7 +17212,7 @@
     },
     {
       "raw_hot": 16100,
-      "num": 458004,
+      "num": 470675,
       "word": "有了徕卡小米成了吗",
       "onboard_time": 1670767337,
       "rank": 14,
