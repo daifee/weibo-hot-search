@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/12/12 00:25:13 ~ 2022/12/12 05:33:25
+本榜单时间：2022/12/12 00:25:13 ~ 2022/12/12 06:17:35
 </p>
 </blockquote>
 <p>
@@ -297,6 +297,12 @@ LWX 刀妹（热度：134166）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%80%E7%AA%97%E9%80%9A%E9%A3%8E%E6%98%AF%E5%90%A6%E4%BC%9A%E6%9C%89%E8%A2%AB%E4%BC%A0%E6%9F%93%E7%9A%84%E9%A3%8E%E9%99%A9%23" target="weibo">
+开窗通风是否会有被传染的风险（热度：106208）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%B0%8F%E7%8B%97%E8%A2%AB%E4%B8%BB%E4%BA%BA%E8%AF%B4%E5%8F%98%E4%B8%91%E5%90%8E%23" target="weibo">
 当小狗被主人说变丑后（热度：104417）
 </a>
@@ -305,12 +311,6 @@ LWX 刀妹（热度：134166）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E9%BB%8E%E8%A1%97%E5%A4%B4%E7%90%83%E8%BF%B7%E7%8B%82%E6%AC%A2%E5%8F%98%E9%AA%9A%E4%B9%B1%23" target="weibo">
 巴黎街头球迷狂欢变骚乱（热度：102352）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%80%E7%AA%97%E9%80%9A%E9%A3%8E%E6%98%AF%E5%90%A6%E4%BC%9A%E6%9C%89%E8%A2%AB%E4%BC%A0%E6%9F%93%E7%9A%84%E9%A3%8E%E9%99%A9%23" target="weibo">
-开窗通风是否会有被传染的风险（热度：93723）
 </a>
 </li>
 
