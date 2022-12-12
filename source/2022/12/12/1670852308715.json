@@ -1,0 +1,410 @@
+{
+  "runTime": 1670852308715,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2866048,
+        "num": 2866048,
+        "word": "刘加勇医生",
+        "onboard_time": 1670846836,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1625398,
+        "num": 1625398,
+        "word": "黄桃罐头",
+        "onboard_time": 1670846536,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 53016,
+        "num": 1385778,
+        "word": "压缩网络水军生存空间",
+        "onboard_time": 1670814914,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1796448,
+        "num": 1373665,
+        "word": "女子确诊阳性丈夫塑料袋套头送水",
+        "onboard_time": 1670844975,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1185645,
+        "num": 1185645,
+        "word": "多喝水多睡觉对新冠管用吗",
+        "onboard_time": 1670849236,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 752205,
+        "num": 752205,
+        "word": "行程卡下线倒计时",
+        "onboard_time": 1670850197,
+        "rank": 5,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 742438,
+        "num": 742438,
+        "word": "健康码",
+        "onboard_time": 1670844556,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 617468,
+        "num": 617468,
+        "word": "上班阳了算工伤吗",
+        "onboard_time": 1670829375,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 597301,
+        "num": 597301,
+        "word": "Ning重回赛场",
+        "onboard_time": 1670846716,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 501434,
+        "num": 501434,
+        "word": "侯宁",
+        "onboard_time": 1670840298,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1009175,
+        "num": 501280,
+        "word": "田亮森碟与赌王四太合照",
+        "onboard_time": 1670850496,
+        "rank": 10,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 882552,
+        "num": 500831,
+        "word": "叶舒华好勇",
+        "onboard_time": 1670848274,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 584573,
+        "num": 500774,
+        "word": "小说里的贵气感有了脸",
+        "onboard_time": 1670845817,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 500145,
+        "num": 500145,
+        "word": "地狱犬",
+        "onboard_time": 1670838675,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 415058,
+        "num": 415058,
+        "word": "剪秋本宫的头好痛",
+        "onboard_time": 1670845396,
+        "rank": 14,
+        "category": "幽默,影视"
+      },
+      {
+        "raw_hot": 397707,
+        "num": 397707,
+        "word": "于和伟 病毒开始攻击检测工具了吗",
+        "onboard_time": 1670835435,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 363692,
+        "num": 363692,
+        "word": "上海疫情风险区清零",
+        "onboard_time": 1670845337,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 362565,
+        "num": 362565,
+        "word": "一诺",
+        "onboard_time": 1670849713,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 357626,
+        "num": 357626,
+        "word": "75元抗原卖200多被罚20万",
+        "onboard_time": 1670850737,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 351365,
+        "num": 351365,
+        "word": "杨紫车内侧颜随拍",
+        "onboard_time": 1670849177,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 347715,
+        "num": 347715,
+        "word": "20221212",
+        "onboard_time": 1670843236,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 339405,
+        "num": 339405,
+        "word": "UP",
+        "onboard_time": 1670846476,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 315179,
+        "num": 315179,
+        "word": "北京确保研究生招生考试如期举行",
+        "onboard_time": 1670837298,
+        "rank": 22,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 310870,
+        "num": 310870,
+        "word": "除连花清瘟布洛芬外还有哪些药可用",
+        "onboard_time": 1670839577,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274063,
+        "num": 274063,
+        "word": "许半夏嫁对人了",
+        "onboard_time": 1670847735,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 251606,
+        "num": 251606,
+        "word": "何运晨说饭碗保住了",
+        "onboard_time": 1670847795,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 249015,
+        "num": 249015,
+        "word": "FoFo",
+        "onboard_time": 1670846955,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 240989,
+        "num": 240989,
+        "word": "GQ 机智的回答也能获得大量曝光",
+        "onboard_time": 1670833817,
+        "rank": 27,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 235259,
+        "num": 235259,
+        "word": "美国借口西藏人权制裁两名中国官员",
+        "onboard_time": 1670850378,
+        "rank": 28,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 228191,
+        "num": 228191,
+        "word": "小男孩等妈妈生产一问爸爸去厕所了",
+        "onboard_time": 1670842637,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305916,
+        "num": 219311,
+        "word": "腾讯会议崩了",
+        "onboard_time": 1670827455,
+        "rank": 30,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 235020,
+        "num": 216960,
+        "word": "居家治疗转阴后如何消杀",
+        "onboard_time": 1670850676,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209211,
+        "num": 209211,
+        "word": "宝娟我的嗓子",
+        "onboard_time": 1670828235,
+        "rank": 32,
+        "category": "幽默,影视"
+      },
+      {
+        "raw_hot": 200573,
+        "num": 200573,
+        "word": "WE",
+        "onboard_time": 1670846612,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 193833,
+        "num": 193833,
+        "word": "谢霆锋帮李雪琴实现烤肠自由",
+        "onboard_time": 1670844497,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186907,
+        "num": 186907,
+        "word": "张文宏称新冠终将成为季节性流行病",
+        "onboard_time": 1670828411,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178140,
+        "num": 178140,
+        "word": "12日北京一次性投放2500万抗原试剂",
+        "onboard_time": 1670838737,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176318,
+        "num": 176318,
+        "word": "家里有人阳了怎么预防",
+        "onboard_time": 1670851155,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175023,
+        "num": 175023,
+        "word": "AG",
+        "onboard_time": 1670849535,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 159623,
+        "num": 159623,
+        "word": "酒吧回应有人穿防护服蹦迪",
+        "onboard_time": 1670838019,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155857,
+        "num": 155857,
+        "word": "C罗乘私人飞机离开卡塔尔",
+        "onboard_time": 1670826915,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152543,
+        "num": 152543,
+        "word": "要不还是给孩子点外卖吧",
+        "onboard_time": 1670842637,
+        "rank": 41,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 148286,
+        "num": 148286,
+        "word": "女子拔手指倒刺感染致手臂抬不起来",
+        "onboard_time": 1670841198,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146875,
+        "num": 146875,
+        "word": "白鹿朗读做最好的自己",
+        "onboard_time": 1670850794,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143729,
+        "num": 143729,
+        "word": "内马尔上内地综艺有多搞笑",
+        "onboard_time": 1670834178,
+        "rank": 44,
+        "category": "体育,综艺"
+      },
+      {
+        "raw_hot": 141884,
+        "num": 141884,
+        "word": "感冒药看准五个字",
+        "onboard_time": 1670843596,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132083,
+        "num": 132083,
+        "word": "许半夏把钢厂开业典礼和婚礼一起办",
+        "onboard_time": 1670851218,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 127189,
+        "num": 127189,
+        "word": "男子喝水喉咙里像放了刀子一样",
+        "onboard_time": 1670822417,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125764,
+        "num": 125764,
+        "word": "郭启东被裘毕正抛弃",
+        "onboard_time": 1670848875,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 122631,
+        "num": 122631,
+        "word": "韩乔生说小罗梅西是传承",
+        "onboard_time": 1670852116,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#扎实做好非物质文化遗产的系统性保护#"
+    }
+  }
+}
