@@ -1,6 +1,6 @@
 {
   "startTime": 1670775913271,
-  "endTime": 1670818972569,
+  "endTime": 1670819923825,
   "band_list": [
     {
       "raw_hot": 3734719,
@@ -11,8 +11,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2242751,
-      "num": 2242751,
+      "raw_hot": 2274260,
+      "num": 2274260,
       "word": "连花清瘟胶囊有上百种替代药",
       "onboard_time": 1670812330,
       "rank": 11,
@@ -67,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1282697,
+      "num": 1282697,
+      "word": "维C泡腾片为何不宜长期服用",
+      "onboard_time": 1670816112,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1251615,
       "num": 1251615,
       "word": "梅西刮胡子了",
@@ -83,11 +91,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1184178,
-      "num": 1184178,
-      "word": "维C泡腾片为何不宜长期服用",
-      "onboard_time": 1670816112,
-      "rank": 44,
+      "raw_hot": 1104449,
+      "num": 549191,
+      "word": "行程卡行程码商标申请均被驳回",
+      "onboard_time": 1670817672,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -163,12 +171,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 764096,
-      "num": 549191,
-      "word": "行程卡行程码商标申请均被驳回",
-      "onboard_time": 1670817672,
-      "rank": 10,
-      "category": "社会新闻"
+      "raw_hot": 737295,
+      "num": 516345,
+      "word": "林秋离去世",
+      "onboard_time": 1670819233,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 676074,
@@ -177,6 +185,14 @@
       "onboard_time": 1670816712,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 648488,
+      "num": 514044,
+      "word": "校方通报男生被指在女友孕期出轨",
+      "onboard_time": 1670818753,
+      "rank": 48,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 612829,
@@ -209,6 +225,14 @@
       "onboard_time": 1670807891,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 539474,
+      "num": 539474,
+      "word": "田曦薇新剧齐刘海马尾造型",
+      "onboard_time": 1670818152,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 529241,
@@ -275,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 424378,
+      "num": 424378,
+      "word": "男子4天贴身照顾确诊妻子仍为阴性",
+      "onboard_time": 1670817312,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 424131,
       "num": 424131,
       "word": "孩子阳了需要去医院吗",
@@ -289,14 +321,6 @@
       "onboard_time": 1670759597,
       "rank": 11,
       "category": "影视"
-    },
-    {
-      "raw_hot": 398694,
-      "num": 398694,
-      "word": "男子4天贴身照顾确诊妻子仍为阴性",
-      "onboard_time": 1670817312,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 392966,
@@ -320,6 +344,14 @@
       "word": "西安首批投放5000剂次吸入式新冠疫苗",
       "onboard_time": 1670810950,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 369274,
+      "num": 369274,
+      "word": "女子自酿红酒打开瞬间喷满新房",
+      "onboard_time": 1670816592,
+      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -371,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 338017,
+      "num": 338017,
+      "word": "钟欣潼说要跟阿Sa一起看女法医JD",
+      "onboard_time": 1670819833,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 335736,
       "num": 335736,
       "word": "女子首次滑雪门票花99查摔伤花502",
@@ -379,27 +419,19 @@
       "category": "社会新闻,体育"
     },
     {
-      "raw_hot": 333967,
-      "num": 333967,
-      "word": "女子自酿红酒打开瞬间喷满新房",
-      "onboard_time": 1670816592,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 328785,
-      "num": 328785,
-      "word": "田曦薇新剧齐刘海马尾造型",
-      "onboard_time": 1670818152,
-      "rank": 24,
-      "category": "影视"
-    },
-    {
       "raw_hot": 328058,
       "num": 328058,
       "word": "安东内拉模仿梅西发火",
       "onboard_time": 1670813414,
       "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 322696,
+      "num": 322696,
+      "word": "卡卡预测的冠军都淘汰了",
+      "onboard_time": 1670817132,
+      "rank": 27,
       "category": "体育"
     },
     {
@@ -419,12 +451,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 317265,
+      "num": 317265,
+      "word": "姆巴佩被摸头后的反应",
+      "onboard_time": 1670818513,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 313255,
       "num": 313255,
       "word": "开窗通风是否会有被传染的风险",
       "onboard_time": 1670790612,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 312072,
+      "num": 312072,
+      "word": "这是川渝男人的标配服饰吗",
+      "onboard_time": 1670818453,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 304648,
@@ -435,12 +483,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 298184,
-      "num": 298184,
-      "word": "卡卡预测的冠军都淘汰了",
-      "onboard_time": 1670817132,
-      "rank": 27,
-      "category": "体育"
+      "raw_hot": 287819,
+      "num": 287819,
+      "word": "流浪狗去面店讨食物被浇热油烫伤",
+      "onboard_time": 1670816052,
+      "rank": 30,
+      "category": "社会负面"
     },
     {
       "raw_hot": 282077,
@@ -473,14 +521,6 @@
       "onboard_time": 1670754078,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 276762,
-      "num": 276762,
-      "word": "流浪狗去面店讨食物被浇热油烫伤",
-      "onboard_time": 1670816052,
-      "rank": 30,
-      "category": "社会负面"
     },
     {
       "raw_hot": 274834,
@@ -587,6 +627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 229317,
+      "num": 229317,
+      "word": "大学生食堂盛汤夹走唯一汤骨被制止",
+      "onboard_time": 1670819233,
+      "rank": 39,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 222075,
       "num": 222075,
       "word": "小米13",
@@ -675,6 +723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 202983,
+      "num": 202983,
+      "word": "猫从来不喝碗里的水",
+      "onboard_time": 1670818217,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 202853,
       "num": 202853,
       "word": "德尚说摩洛哥晋级是理所当然的",
@@ -715,6 +771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 198561,
+      "num": 198561,
+      "word": "莫德里奇吹魔笛自己笑了",
+      "onboard_time": 1670818993,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 198432,
       "num": 198432,
       "word": "犯罪团伙用虚拟币交易洗钱120亿",
@@ -740,7 +804,7 @@
     },
     {
       "raw_hot": 191634,
-      "num": 417419,
+      "num": 483869,
       "word": "熬夜看球最6搭档",
       "onboard_time": 1670812691,
       "rank": 31,
@@ -753,6 +817,14 @@
       "onboard_time": 1670801888,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 182853,
+      "num": 182853,
+      "word": "她们的2022比作品更精彩",
+      "onboard_time": 1670819654,
+      "rank": 46,
+      "category": "情感,艺人"
     },
     {
       "raw_hot": 179639,
@@ -771,20 +843,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 173263,
+      "num": 173263,
+      "word": "小伙往返120公里给女友送零食",
+      "onboard_time": 1670817792,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 167943,
       "num": 167943,
       "word": "这是他们最后一届世界杯",
       "onboard_time": 1670803688,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 167696,
-      "num": 167696,
-      "word": "小伙往返120公里给女友送零食",
-      "onboard_time": 1670817792,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 165236,
@@ -811,20 +883,12 @@
       "category": "动漫,影视"
     },
     {
-      "raw_hot": 158645,
-      "num": 158645,
-      "word": "姆巴佩被摸头后的反应",
-      "onboard_time": 1670818513,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 157905,
-      "num": 157905,
-      "word": "猫从来不喝碗里的水",
-      "onboard_time": 1670818217,
-      "rank": 46,
-      "category": "幽默"
+      "raw_hot": 157600,
+      "num": 157600,
+      "word": "近一半结婚人群年龄超30岁",
+      "onboard_time": 1670819732,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 152566,
@@ -833,14 +897,6 @@
       "onboard_time": 1670814852,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 151440,
-      "num": 151440,
-      "word": "这是川渝男人的标配服饰吗",
-      "onboard_time": 1670818453,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 151166,
@@ -873,14 +929,6 @@
       "onboard_time": 1670770698,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 143992,
-      "num": 143992,
-      "word": "校方通报男生被指在女友孕期出轨",
-      "onboard_time": 1670818753,
-      "rank": 48,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 140750,
