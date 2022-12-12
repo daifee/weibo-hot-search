@@ -1,0 +1,410 @@
+{
+  "runTime": 1670855672004,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2325596,
+        "num": 2325596,
+        "word": "刘加勇医生",
+        "onboard_time": 1670846836,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1471248,
+        "num": 1471248,
+        "word": "黄桃罐头",
+        "onboard_time": 1670846536,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 15137,
+        "num": 1387142,
+        "word": "感染者同住人要注意什么",
+        "onboard_time": 1670745075,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1312060,
+        "num": 1312060,
+        "word": "女子确诊阳性丈夫塑料袋套头送水",
+        "onboard_time": 1670844975,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1127524,
+        "num": 1127524,
+        "word": "阳性者尽量少叫快递外卖",
+        "onboard_time": 1670853621,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1100301,
+        "num": 1100301,
+        "word": "多喝水多睡觉对新冠管用吗",
+        "onboard_time": 1670849236,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 899781,
+        "num": 899781,
+        "word": "女生教科书式防疫去上班第2天阳了",
+        "onboard_time": 1670852955,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 709714,
+        "num": 709714,
+        "word": "75元抗原卖200多被罚20万",
+        "onboard_time": 1670850737,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 562016,
+        "num": 562016,
+        "word": "健康码",
+        "onboard_time": 1670844556,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 498246,
+        "num": 498246,
+        "word": "侯宁",
+        "onboard_time": 1670840298,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1137514,
+        "num": 449369,
+        "word": "田亮森碟与赌王四太合照",
+        "onboard_time": 1670850496,
+        "rank": 10,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 567308,
+        "num": 435502,
+        "word": "小说里的贵气感有了脸",
+        "onboard_time": 1670845817,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 565481,
+        "num": 410324,
+        "word": "叶舒华好勇",
+        "onboard_time": 1670848274,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 360047,
+        "num": 360047,
+        "word": "行程卡",
+        "onboard_time": 1670853917,
+        "rank": 13,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 354720,
+        "num": 354720,
+        "word": "剪秋本宫的头好痛",
+        "onboard_time": 1670845396,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 347893,
+        "num": 347893,
+        "word": "美国借口西藏人权制裁两名中国官员",
+        "onboard_time": 1670850378,
+        "rank": 15,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 343836,
+        "num": 343836,
+        "word": "上班阳了算工伤吗",
+        "onboard_time": 1670829375,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326679,
+        "num": 326679,
+        "word": "行程卡下线倒计时",
+        "onboard_time": 1670850197,
+        "rank": 17,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 324910,
+        "num": 324910,
+        "word": "鲁豫有约官宣陈晓",
+        "onboard_time": 1670853017,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 314176,
+        "num": 314176,
+        "word": "居家治疗转阴后如何消杀",
+        "onboard_time": 1670850676,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295375,
+        "num": 295375,
+        "word": "Ning重回赛场",
+        "onboard_time": 1670846716,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 263344,
+        "num": 263344,
+        "word": "于和伟 病毒开始攻击检测工具了吗",
+        "onboard_time": 1670835435,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 262825,
+        "num": 262825,
+        "word": "许半夏嫁对人了",
+        "onboard_time": 1670847735,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 256582,
+        "num": 256582,
+        "word": "上海疫情风险区清零",
+        "onboard_time": 1670845337,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250625,
+        "num": 250625,
+        "word": "杨紫车内侧颜随拍",
+        "onboard_time": 1670849177,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 250123,
+        "num": 250123,
+        "word": "家里有人阳了怎么预防",
+        "onboard_time": 1670851155,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236754,
+        "num": 236754,
+        "word": "风吹半夏 王全",
+        "onboard_time": 1670852534,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 225464,
+        "num": 225464,
+        "word": "地狱犬",
+        "onboard_time": 1670838675,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224880,
+        "num": 224880,
+        "word": "女子用自榨油做炸蛋膨胀成蘑菇云",
+        "onboard_time": 1670854277,
+        "rank": 28,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 212301,
+        "num": 212301,
+        "word": "广东人对菜心爱到直接生吃",
+        "onboard_time": 1670853976,
+        "rank": 29,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 243397,
+        "num": 211055,
+        "word": "腾讯会议崩了",
+        "onboard_time": 1670827455,
+        "rank": 30,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 226182,
+        "num": 210489,
+        "word": "GQ 机智的回答也能获得大量曝光",
+        "onboard_time": 1670833817,
+        "rank": 31,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 208906,
+        "num": 208906,
+        "word": "一诺",
+        "onboard_time": 1670849713,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 208637,
+        "num": 208637,
+        "word": "小男孩等妈妈生产一问爸爸去厕所了",
+        "onboard_time": 1670842637,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202345,
+        "num": 202345,
+        "word": "短短十几秒震惊我两次",
+        "onboard_time": 1670852355,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 187277,
+        "num": 187277,
+        "word": "20221212",
+        "onboard_time": 1670843236,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 184579,
+        "num": 184579,
+        "word": "在北京的我这两天be like",
+        "onboard_time": 1670854035,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 183135,
+        "num": 183135,
+        "word": "除连花清瘟布洛芬外还有哪些药可用",
+        "onboard_time": 1670839577,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167509,
+        "num": 167509,
+        "word": "北京确保研究生招生考试如期举行",
+        "onboard_time": 1670837298,
+        "rank": 38,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 165994,
+        "num": 165994,
+        "word": "12日北京一次性投放2500万抗原试剂",
+        "onboard_time": 1670838737,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164530,
+        "num": 164530,
+        "word": "张文宏称新冠终将成为季节性流行病",
+        "onboard_time": 1670828411,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162558,
+        "num": 162558,
+        "word": "这猫咪是蜘蛛变的吧",
+        "onboard_time": 1670854696,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 161994,
+        "num": 161994,
+        "word": "UP",
+        "onboard_time": 1670846476,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 157301,
+        "num": 157301,
+        "word": "用户行程卡数据将被删除",
+        "onboard_time": 1670854035,
+        "rank": 43,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 156339,
+        "num": 156339,
+        "word": "许半夏赵垒的吻戏花絮",
+        "onboard_time": 1670855535,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 155870,
+        "num": 155870,
+        "word": "弟弟要买新车全家凑钱支持",
+        "onboard_time": 1670855419,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144351,
+        "num": 144351,
+        "word": "女子拔手指倒刺感染致手臂抬不起来",
+        "onboard_time": 1670841198,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146146,
+        "num": 142812,
+        "word": "足球场上那些永不放弃的门将",
+        "onboard_time": 1670855656,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140084,
+        "num": 140084,
+        "word": "谢霆锋帮李雪琴实现烤肠自由",
+        "onboard_time": 1670844497,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136903,
+        "num": 136903,
+        "word": "县委大院",
+        "onboard_time": 1670854875,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#扎实做好非物质文化遗产的系统性保护#"
+    }
+  }
+}

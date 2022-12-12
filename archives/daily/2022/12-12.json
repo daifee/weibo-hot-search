@@ -1,6 +1,6 @@
 {
   "startTime": 1670775913271,
-  "endTime": 1670854652694,
+  "endTime": 1670855672004,
   "band_list": [
     {
       "raw_hot": 4501119,
@@ -211,6 +211,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1137514,
+      "num": 501280,
+      "word": "田亮森碟与赌王四太合照",
+      "onboard_time": 1670850496,
+      "rank": 10,
+      "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 1127524,
+      "num": 1127524,
+      "word": "阳性者尽量少叫快递外卖",
+      "onboard_time": 1670853621,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1104449,
       "num": 1006493,
       "word": "行程卡行程码商标申请均被驳回",
@@ -241,14 +257,6 @@
       "onboard_time": 1670803328,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1024347,
-      "num": 501280,
-      "word": "田亮森碟与赌王四太合照",
-      "onboard_time": 1670850496,
-      "rank": 10,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 1018086,
@@ -321,6 +329,14 @@
       "onboard_time": 1670819233,
       "rank": 39,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 899781,
+      "num": 899781,
+      "word": "女生教科书式防疫去上班第2天阳了",
+      "onboard_time": 1670852955,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 867852,
@@ -416,14 +432,6 @@
       "word": "除连花清瘟布洛芬外还有哪些药可用",
       "onboard_time": 1670839577,
       "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 712093,
-      "num": 479315,
-      "word": "女生教科书式防疫去上班第2天阳了",
-      "onboard_time": 1670852955,
-      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -609,14 +617,6 @@
       "onboard_time": 1670814551,
       "rank": 28,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 520751,
-      "num": 460638,
-      "word": "阳性者尽量少叫快递外卖",
-      "onboard_time": 1670853621,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 519941,
@@ -955,6 +955,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 347893,
+      "num": 347893,
+      "word": "美国借口西藏人权制裁两名中国官员",
+      "onboard_time": 1670850378,
+      "rank": 33,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 346677,
       "num": 346677,
       "word": "女法医JD今日开播",
@@ -1001,14 +1009,6 @@
       "onboard_time": 1670829977,
       "rank": 42,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 336450,
-      "num": 336450,
-      "word": "美国借口西藏人权制裁两名中国官员",
-      "onboard_time": 1670850378,
-      "rank": 33,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 335736,
@@ -1387,8 +1387,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 236728,
-      "num": 236728,
+      "raw_hot": 236754,
+      "num": 236754,
       "word": "风吹半夏 王全",
       "onboard_time": 1670852534,
       "rank": 30,
@@ -1425,6 +1425,14 @@
       "onboard_time": 1670844019,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 224880,
+      "num": 224880,
+      "word": "女子用自榨油做炸蛋膨胀成蘑菇云",
+      "onboard_time": 1670854277,
+      "rank": 48,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 222075,
@@ -1515,6 +1523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 212301,
+      "num": 212301,
+      "word": "广东人对菜心爱到直接生吃",
+      "onboard_time": 1670853976,
+      "rank": 45,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 211710,
       "num": 161858,
       "word": "许凯说秦施跟杨幂相似度极高",
@@ -1577,6 +1593,14 @@
       "onboard_time": 1670773219,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 202345,
+      "num": 202345,
+      "word": "短短十几秒震惊我两次",
+      "onboard_time": 1670852355,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 202016,
@@ -1737,6 +1761,14 @@
       "onboard_time": 1670836516,
       "rank": 41,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 184579,
+      "num": 184579,
+      "word": "在北京的我这两天be like",
+      "onboard_time": 1670854035,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 182853,
@@ -1931,6 +1963,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 162558,
+      "num": 162558,
+      "word": "这猫咪是蜘蛛变的吧",
+      "onboard_time": 1670854696,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 162504,
       "num": 162504,
       "word": "花万元买手机值吗",
@@ -1955,6 +1995,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 157301,
+      "num": 157301,
+      "word": "用户行程卡数据将被删除",
+      "onboard_time": 1670854035,
+      "rank": 43,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 156423,
       "num": 156423,
       "word": "能当水果吃的小黄姜",
@@ -1963,20 +2011,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 156339,
+      "num": 156339,
+      "word": "许半夏赵垒的吻戏花絮",
+      "onboard_time": 1670855535,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 155870,
+      "num": 155870,
+      "word": "弟弟要买新车全家凑钱支持",
+      "onboard_time": 1670855419,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 152566,
       "num": 152566,
       "word": "内马尔发文致谢蒂特",
       "onboard_time": 1670814852,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 151204,
-      "num": 151204,
-      "word": "短短十几秒震惊我两次",
-      "onboard_time": 1670852355,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 151166,
@@ -2001,14 +2057,6 @@
       "onboard_time": 1670849418,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 148945,
-      "num": 148945,
-      "word": "广东人对菜心爱到直接生吃",
-      "onboard_time": 1670853976,
-      "rank": 45,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 147702,
@@ -2041,6 +2089,14 @@
       "onboard_time": 1670837236,
       "rank": 44,
       "category": "美食"
+    },
+    {
+      "raw_hot": 146146,
+      "num": 142812,
+      "word": "足球场上那些永不放弃的门将",
+      "onboard_time": 1670855656,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 145920,
@@ -2115,12 +2171,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 137230,
-      "num": 137230,
-      "word": "女子用自榨油做炸蛋膨胀成蘑菇云",
-      "onboard_time": 1670854277,
-      "rank": 48,
-      "category": "社会新闻,美食"
+      "raw_hot": 136903,
+      "num": 136903,
+      "word": "县委大院",
+      "onboard_time": 1670854875,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 136053,
@@ -2555,7 +2611,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1421,
+      "raw_hot": 15137,
       "num": 1561482,
       "word": "感染者同住人要注意什么",
       "onboard_time": 1670745075,
