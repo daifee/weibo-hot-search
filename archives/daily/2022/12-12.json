@@ -1,6 +1,6 @@
 {
   "startTime": 1670775913271,
-  "endTime": 1670813445365,
+  "endTime": 1670814060956,
   "band_list": [
     {
       "raw_hot": 3734719,
@@ -51,6 +51,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1251615,
+      "num": 1251615,
+      "word": "梅西刮胡子了",
+      "onboard_time": 1670811189,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1250342,
       "num": 1250342,
       "word": "怀孕27周女子分享阳了后体验",
@@ -59,18 +67,18 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1072309,
+      "num": 1072309,
+      "word": "连花清瘟胶囊有上百种替代药",
+      "onboard_time": 1670812330,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1052935,
       "num": 1052935,
       "word": "C罗说梦想结束了",
       "onboard_time": 1670772915,
-      "rank": 3,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1051256,
-      "num": 1051256,
-      "word": "梅西刮胡子了",
-      "onboard_time": 1670811189,
       "rank": 3,
       "category": "体育"
     },
@@ -107,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 824457,
+      "num": 824457,
+      "word": "塞尔维亚",
+      "onboard_time": 1670811311,
+      "rank": 5,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 815755,
       "num": 815755,
       "word": "保定放开之后",
@@ -115,28 +131,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 797453,
-      "num": 797453,
-      "word": "塞尔维亚",
-      "onboard_time": 1670811311,
-      "rank": 5,
-      "category": "国外要闻"
+      "raw_hot": 796052,
+      "num": 796052,
+      "word": "武汉女子称这次感染和2020年很不同",
+      "onboard_time": 1670809815,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 763919,
-      "num": 763919,
+      "raw_hot": 786665,
+      "num": 786665,
       "word": "专家称新冠肺炎最终会降为丙类丙管",
       "onboard_time": 1670809511,
       "rank": 31,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 712593,
-      "num": 712593,
-      "word": "武汉女子称这次感染和2020年很不同",
-      "onboard_time": 1670809815,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 638752,
+      "num": 638752,
+      "word": "马嘉祺新歌偷的歌词",
+      "onboard_time": 1670813112,
+      "rank": 17,
+      "category": "音乐"
     },
     {
       "raw_hot": 612829,
@@ -171,12 +187,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 529016,
-      "num": 529016,
-      "word": "连花清瘟胶囊有上百种替代药",
-      "onboard_time": 1670812330,
+      "raw_hot": 519941,
+      "num": 519941,
+      "word": "王鹤棣时宴冷得打拳",
+      "onboard_time": 1670812213,
       "rank": 11,
-      "category": "社会新闻"
+      "category": "作品衍生"
     },
     {
       "raw_hot": 498358,
@@ -187,20 +203,20 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 463624,
+      "num": 463624,
+      "word": "黄景瑜张婧仪雨中撑伞氛围感",
+      "onboard_time": 1670812691,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 447787,
       "num": 447787,
       "word": "浙江多地倡议全民戴口罩",
       "onboard_time": 1670802907,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 440877,
-      "num": 440877,
-      "word": "黄景瑜张婧仪雨中撑伞氛围感",
-      "onboard_time": 1670812691,
-      "rank": 13,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 399430,
@@ -219,6 +235,14 @@
       "category": "体育,音乐"
     },
     {
+      "raw_hot": 376780,
+      "num": 376780,
+      "word": "徐峥新片射门定档1216",
+      "onboard_time": 1670812511,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 350352,
       "num": 350352,
       "word": "iPhone15Ultra或万元起步",
@@ -235,14 +259,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 338667,
-      "num": 338667,
-      "word": "马嘉祺新歌偷的歌词",
-      "onboard_time": 1670813112,
-      "rank": 17,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 335736,
       "num": 335736,
       "word": "女子首次滑雪门票花99查摔伤花502",
@@ -251,11 +267,27 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 328278,
+      "num": 328278,
+      "word": "西安首批投放5000剂次吸入式新冠疫苗",
+      "onboard_time": 1670810950,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 317426,
       "num": 317426,
       "word": "呼和浩特4.1级地震",
       "onboard_time": 1670800386,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 313401,
+      "num": 313401,
+      "word": "孩子阳了需要去医院吗",
+      "onboard_time": 1670811731,
+      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -275,11 +307,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 292148,
-      "num": 292148,
-      "word": "西安首批投放5000剂次吸入式新冠疫苗",
-      "onboard_time": 1670810950,
-      "rank": 20,
+      "raw_hot": 302099,
+      "num": 302099,
+      "word": "男子被多次记大过遭解雇起诉获赔15万",
+      "onboard_time": 1670812105,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -307,14 +339,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 275533,
-      "num": 275533,
-      "word": "孩子阳了需要去医院吗",
-      "onboard_time": 1670811731,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 274834,
       "num": 274834,
       "word": "Doinb 盛世如你所愿",
@@ -328,14 +352,6 @@
       "word": "胡歌县委大院播出首周战报",
       "onboard_time": 1670808670,
       "rank": 19,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 260820,
-      "num": 260820,
-      "word": "徐峥新片射门定档1216",
-      "onboard_time": 1670812511,
-      "rank": 25,
       "category": "影视"
     },
     {
@@ -400,14 +416,6 @@
       "word": "江苏省中医院公布防治新冠中药方",
       "onboard_time": 1670798467,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 228726,
-      "num": 228726,
-      "word": "男子被多次记大过遭解雇起诉获赔15万",
-      "onboard_time": 1670812105,
-      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -531,6 +539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 198432,
+      "num": 198432,
+      "word": "犯罪团伙用虚拟币交易洗钱120亿",
+      "onboard_time": 1670810590,
+      "rank": 32,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 198368,
       "num": 198368,
       "word": "部分地区强调不戴口罩造成疫情传播将追责",
@@ -563,14 +579,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 184686,
-      "num": 184686,
-      "word": "犯罪团伙用虚拟币交易洗钱120亿",
-      "onboard_time": 1670810590,
-      "rank": 32,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 179639,
       "num": 179639,
       "word": "有一种思念叫做异地恋",
@@ -595,12 +603,36 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 153375,
-      "num": 153375,
+      "raw_hot": 162504,
+      "num": 162504,
+      "word": "花万元买手机值吗",
+      "onboard_time": 1670813470,
+      "rank": 33,
+      "category": "科技,财经"
+    },
+    {
+      "raw_hot": 159987,
+      "num": 159987,
       "word": "国漫画师用平板还原山海经世界",
       "onboard_time": 1670811851,
       "rank": 35,
       "category": "动漫,影视"
+    },
+    {
+      "raw_hot": 156535,
+      "num": 156535,
+      "word": "安东内拉模仿梅西发火",
+      "onboard_time": 1670813414,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 152090,
+      "num": 152090,
+      "word": "狗狗被主人遗弃路边含泪等待新主人",
+      "onboard_time": 1670813230,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 151166,
@@ -675,12 +707,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 133899,
+      "num": 133899,
+      "word": "保你平安跨年来保你平安",
+      "onboard_time": 1670813470,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 132505,
       "num": 132505,
       "word": "一张画看完C罗的整个青春",
       "onboard_time": 1670778431,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 131896,
+      "num": 131896,
+      "word": "不同地区流行的变异株症状有何不同",
+      "onboard_time": 1670813831,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 130531,
@@ -763,14 +811,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 113693,
-      "num": 113693,
-      "word": "狗狗被主人遗弃路边含泪等待新主人",
-      "onboard_time": 1670813230,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 111722,
       "num": 111722,
       "word": "财阀家的小儿子收视破新高",
@@ -785,14 +825,6 @@
       "onboard_time": 1670757556,
       "rank": 37,
       "category": "科技"
-    },
-    {
-      "raw_hot": 110940,
-      "num": 110940,
-      "word": "安东内拉模仿梅西发火",
-      "onboard_time": 1670813414,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 108192,
