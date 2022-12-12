@@ -1,6 +1,6 @@
 {
   "startTime": 1670862485364,
-  "endTime": 1670863658910,
+  "endTime": 1670865435495,
   "band_list": [
     {
       "raw_hot": 1643130,
@@ -99,7 +99,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 441658,
+      "raw_hot": 457687,
       "num": 360515,
       "word": "伴娘穿露肩礼服肌肉健硕",
       "onboard_time": 1670859855,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 402356,
-      "num": 357617,
+      "num": 382359,
       "word": "宝鹃扮演者回应网友喊宝鹃",
       "onboard_time": 1670860274,
       "rank": 17,
@@ -147,6 +147,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 309738,
+      "num": 309738,
+      "word": "健康码会退出吗",
+      "onboard_time": 1670862674,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 305837,
       "num": 305837,
       "word": "素食主义家长问婴儿喝椰奶还是豆浆",
@@ -163,12 +171,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 284881,
-      "num": 284881,
+      "raw_hot": 293261,
+      "num": 293261,
       "word": "新冠引起的发烧一般不超过4天",
       "onboard_time": 1670860336,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 287271,
+      "num": 287271,
+      "word": "你身边有多少人中招了",
+      "onboard_time": 1670861775,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 263750,
@@ -185,14 +201,6 @@
       "onboard_time": 1670856617,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 243529,
-      "num": 243529,
-      "word": "你身边有多少人中招了",
-      "onboard_time": 1670861775,
-      "rank": 35,
-      "category": "情感"
     },
     {
       "raw_hot": 239939,
@@ -267,6 +275,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 166392,
+      "num": 166392,
+      "word": "你计划什么年纪结婚",
+      "onboard_time": 1670862254,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 166352,
       "num": 166352,
       "word": "上海疫情风险区清零",
@@ -281,22 +297,6 @@
       "onboard_time": 1670846716,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 149027,
-      "num": 149027,
-      "word": "健康码会退出吗",
-      "onboard_time": 1670862674,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 148622,
-      "num": 148622,
-      "word": "你计划什么年纪结婚",
-      "onboard_time": 1670862254,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 140560,
@@ -417,6 +417,22 @@
       "onboard_time": 1670863271,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 61557,
+      "num": 61557,
+      "word": "这就是破碎感美人吧",
+      "onboard_time": 1670853075,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 60395,
+      "num": 60395,
+      "word": "田曦薇新剧初次爱你演医学少女",
+      "onboard_time": 1670865192,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 27443,
