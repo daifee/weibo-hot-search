@@ -1,0 +1,410 @@
+{
+  "runTime": 1670827179211,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2675243,
+        "num": 2675243,
+        "word": "男子喝水喉咙里像放了刀子一样",
+        "onboard_time": 1670822417,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 899147,
+        "num": 899147,
+        "word": "林秋离去世",
+        "onboard_time": 1670819233,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163876,
+        "num": 847303,
+        "word": "抗原自测9大注意事项",
+        "onboard_time": 1670806029,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1613656,
+        "num": 845852,
+        "word": "校方通报男生被指在女友孕期出轨",
+        "onboard_time": 1670818753,
+        "rank": 3,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 836496,
+        "num": 836496,
+        "word": "连花清瘟胶囊有上百种替代药",
+        "onboard_time": 1670812330,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 573256,
+        "num": 573256,
+        "word": "大学生食堂盛汤夹走唯一汤骨被制止",
+        "onboard_time": 1670819233,
+        "rank": 5,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 560714,
+        "num": 560714,
+        "word": "马嘉祺新歌偷的歌词",
+        "onboard_time": 1670813112,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 551864,
+        "num": 551864,
+        "word": "女子看错药名误服肛门栓剂",
+        "onboard_time": 1670820675,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 534289,
+        "num": 534289,
+        "word": "C罗回去了",
+        "onboard_time": 1670821934,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 500256,
+        "num": 500256,
+        "word": "婆婆给出生9天宝宝喂米糊",
+        "onboard_time": 1670807348,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 479591,
+        "num": 479591,
+        "word": "普通的卡塔尔人家里长啥样",
+        "onboard_time": 1670822234,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 447445,
+        "num": 447445,
+        "word": "英格兰队回国带回一只猫",
+        "onboard_time": 1670825295,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 437175,
+        "num": 437175,
+        "word": "电影想见你莫俊杰预告",
+        "onboard_time": 1670822835,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 421579,
+        "num": 421579,
+        "word": "新冠出院后即使复阳也不传染",
+        "onboard_time": 1670824335,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 419632,
+        "num": 419632,
+        "word": "维C泡腾片为何不宜长期服用",
+        "onboard_time": 1670816112,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 369546,
+        "num": 369546,
+        "word": "田曦薇新剧齐刘海马尾造型",
+        "onboard_time": 1670818152,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 361192,
+        "num": 361192,
+        "word": "近一半结婚人群年龄超30岁",
+        "onboard_time": 1670819732,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352559,
+        "num": 352559,
+        "word": "名侦探学院",
+        "onboard_time": 1670822234,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 316794,
+        "num": 316794,
+        "word": "R1SE官博更新",
+        "onboard_time": 1670820975,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 289136,
+        "num": 289136,
+        "word": "行程卡行程码商标申请均被驳回",
+        "onboard_time": 1670817672,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286497,
+        "num": 286497,
+        "word": "武汉女子称这次感染和2020年很不同",
+        "onboard_time": 1670809815,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278261,
+        "num": 278261,
+        "word": "余承东称华为手机又活过来了",
+        "onboard_time": 1670824218,
+        "rank": 21,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 246335,
+        "num": 246335,
+        "word": "文韬的手电筒一开以为天亮了",
+        "onboard_time": 1670825594,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238753,
+        "num": 238753,
+        "word": "莫德里奇吹魔笛自己笑了",
+        "onboard_time": 1670818993,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 236959,
+        "num": 236959,
+        "word": "怀孕27周女子分享阳了后体验",
+        "onboard_time": 1670806267,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221480,
+        "num": 221480,
+        "word": "胡歌说自己是影视圈流动人口",
+        "onboard_time": 1670825594,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 216582,
+        "num": 216582,
+        "word": "这是川渝男人的标配服饰吗",
+        "onboard_time": 1670818453,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 215276,
+        "num": 215276,
+        "word": "十年后马丽还是治得了大鹏",
+        "onboard_time": 1670823134,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 185100,
+        "num": 185100,
+        "word": "中国茶申遗成功",
+        "onboard_time": 1670822714,
+        "rank": 28,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 166187,
+        "num": 166187,
+        "word": "猫从来不喝碗里的水",
+        "onboard_time": 1670818217,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 214019,
+        "num": 165638,
+        "word": "许半夏童骁骑找王全讲和",
+        "onboard_time": 1670822534,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 211710,
+        "num": 161858,
+        "word": "许凯说秦施跟杨幂相似度极高",
+        "onboard_time": 1670826555,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 183115,
+        "num": 155940,
+        "word": "孤勇者",
+        "onboard_time": 1670821514,
+        "rank": 32,
+        "category": "体育,音乐"
+      },
+      {
+        "raw_hot": 168511,
+        "num": 155169,
+        "word": "钟欣潼说要跟阿Sa一起看女法医JD",
+        "onboard_time": 1670819833,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 151864,
+        "num": 151864,
+        "word": "当主人帮狗狗出气后",
+        "onboard_time": 1670825474,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 145618,
+        "num": 145618,
+        "word": "男子4天贴身照顾确诊妻子仍为阴性",
+        "onboard_time": 1670817312,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145565,
+        "num": 145565,
+        "word": "梅西刮胡子了",
+        "onboard_time": 1670811189,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143439,
+        "num": 143439,
+        "word": "大叔开网店一年帮7000只猫狗重新奔跑",
+        "onboard_time": 1670821514,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138046,
+        "num": 138046,
+        "word": "行程卡下线",
+        "onboard_time": 1670776632,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136660,
+        "num": 136660,
+        "word": "塞尔维亚",
+        "onboard_time": 1670811311,
+        "rank": 39,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 155000,
+        "num": 135934,
+        "word": "欧豪说野蛮是童骁骑的保护色",
+        "onboard_time": 1670825715,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 144793,
+        "num": 134986,
+        "word": "张杰录offer4是为了给演唱会盖楼吧",
+        "onboard_time": 1670816712,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131203,
+        "num": 131203,
+        "word": "孩子阳了需要去医院吗",
+        "onboard_time": 1670811731,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131186,
+        "num": 131186,
+        "word": "被梅西吃糖可爱到了",
+        "onboard_time": 1670825474,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127178,
+        "num": 127178,
+        "word": "女子自酿红酒打开瞬间喷满新房",
+        "onboard_time": 1670816592,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126027,
+        "num": 126027,
+        "word": "为什么不建议新手滑雪选高级道",
+        "onboard_time": 1670826977,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123633,
+        "num": 123633,
+        "word": "专家称新冠肺炎最终会降为丙类丙管",
+        "onboard_time": 1670809511,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140064,
+        "num": 123408,
+        "word": "快乐再出发真的好冷海报",
+        "onboard_time": 1670827154,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122275,
+        "num": 122275,
+        "word": "姆巴佩被摸头后的反应",
+        "onboard_time": 1670818513,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120851,
+        "num": 120851,
+        "word": "行程卡",
+        "onboard_time": 1670776033,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚定奉行独立自主的和平外交政策#"
+    }
+  }
+}
