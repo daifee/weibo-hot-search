@@ -1,6 +1,6 @@
 {
   "startTime": 1670775913271,
-  "endTime": 1670822260827,
+  "endTime": 1670823217188,
   "band_list": [
     {
       "raw_hot": 3734719,
@@ -11,20 +11,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2345769,
+      "num": 1102652,
+      "word": "校方通报男生被指在女友孕期出轨",
+      "onboard_time": 1670818753,
+      "rank": 48,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 2274260,
       "num": 2274260,
       "word": "连花清瘟胶囊有上百种替代药",
       "onboard_time": 1670812330,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2113985,
-      "num": 1102652,
-      "word": "校方通报男生被指在女友孕期出轨",
-      "onboard_time": 1670818753,
-      "rank": 48,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1806322,
@@ -35,20 +35,20 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 1774981,
+      "num": 1774981,
+      "word": "林秋离去世",
+      "onboard_time": 1670819233,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1740444,
       "num": 1740444,
       "word": "行程卡下线",
       "onboard_time": 1670776632,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1722285,
-      "num": 1722285,
-      "word": "林秋离去世",
-      "onboard_time": 1670819233,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 1636641,
@@ -155,20 +155,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 922116,
+      "num": 922116,
+      "word": "大学生食堂盛汤夹走唯一汤骨被制止",
+      "onboard_time": 1670819233,
+      "rank": 39,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 867852,
       "num": 867852,
       "word": "女孩在家楼下补课后失联已11年",
       "onboard_time": 1670770825,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 844079,
-      "num": 844079,
-      "word": "大学生食堂盛汤夹走唯一汤骨被制止",
-      "onboard_time": 1670819233,
-      "rank": 39,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 824457,
@@ -267,6 +267,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 512845,
+      "num": 512845,
+      "word": "女子看错药名误服肛门栓剂",
+      "onboard_time": 1670820675,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 502921,
+      "num": 502921,
+      "word": "近一半结婚人群年龄超30岁",
+      "onboard_time": 1670819732,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 498358,
       "num": 498358,
       "word": "江泽民同志骨灰撒入江海",
@@ -323,14 +339,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 445111,
-      "num": 445111,
-      "word": "近一半结婚人群年龄超30岁",
-      "onboard_time": 1670819732,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 424378,
       "num": 424378,
       "word": "男子4天贴身照顾确诊妻子仍为阴性",
@@ -353,6 +361,14 @@
       "onboard_time": 1670818217,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 402073,
+      "num": 402073,
+      "word": "姆巴佩被摸头后的反应",
+      "onboard_time": 1670818513,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 399430,
@@ -387,6 +403,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 386930,
+      "num": 386930,
+      "word": "男子喝水喉咙里像放了刀子一样",
+      "onboard_time": 1670822417,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 381056,
       "num": 381056,
       "word": "西安首批投放5000剂次吸入式新冠疫苗",
@@ -401,14 +425,6 @@
       "onboard_time": 1670816592,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 368709,
-      "num": 368709,
-      "word": "姆巴佩被摸头后的反应",
-      "onboard_time": 1670818513,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 368539,
@@ -435,14 +451,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 359685,
-      "num": 359685,
-      "word": "女子看错药名误服肛门栓剂",
-      "onboard_time": 1670820675,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 350352,
       "num": 350352,
       "word": "iPhone15Ultra或万元起步",
@@ -467,12 +475,28 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 342679,
+      "num": 342679,
+      "word": "电影想见你莫俊杰预告",
+      "onboard_time": 1670822835,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 342017,
       "num": 342017,
       "word": "狗狗被主人遗弃路边含泪等待新主人",
       "onboard_time": 1670813230,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 341355,
+      "num": 341355,
+      "word": "C罗回去了",
+      "onboard_time": 1670821934,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 335736,
@@ -547,6 +571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 290739,
+      "num": 290739,
+      "word": "名侦探学院",
+      "onboard_time": 1670822234,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 287819,
       "num": 287819,
       "word": "流浪狗去面店讨食物被浇热油烫伤",
@@ -577,6 +609,14 @@
       "onboard_time": 1670812390,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 279135,
+      "num": 279135,
+      "word": "十年后马丽还是治得了大鹏",
+      "onboard_time": 1670823134,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 278143,
@@ -643,6 +683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 250068,
+      "num": 245153,
+      "word": "孤勇者",
+      "onboard_time": 1670821514,
+      "rank": 33,
+      "category": "体育,音乐"
+    },
+    {
       "raw_hot": 248917,
       "num": 248917,
       "word": "厂家回应黄桃罐头中含有石头",
@@ -667,6 +715,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 241227,
+      "num": 241227,
+      "word": "普通的卡塔尔人家里长啥样",
+      "onboard_time": 1670822234,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 240550,
       "num": 201983,
       "word": "蒋依依小品首秀",
@@ -689,14 +745,6 @@
       "onboard_time": 1670798467,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 223262,
-      "num": 223262,
-      "word": "孤勇者",
-      "onboard_time": 1670821514,
-      "rank": 33,
-      "category": "体育,音乐"
     },
     {
       "raw_hot": 222075,
@@ -732,7 +780,7 @@
     },
     {
       "raw_hot": 217570,
-      "num": 1109910,
+      "num": 1147808,
       "word": "抗原自测9大注意事项",
       "onboard_time": 1670806029,
       "rank": 25,
@@ -745,6 +793,14 @@
       "onboard_time": 1670805908,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 216418,
+      "num": 216418,
+      "word": "中国茶申遗成功",
+      "onboard_time": 1670822714,
+      "rank": 38,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 212710,
@@ -843,6 +899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 198210,
+      "num": 189075,
+      "word": "许半夏童骁骑找王全讲和",
+      "onboard_time": 1670822534,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 196130,
       "num": 196130,
       "word": "女儿月薪3千攒1年钱为妈妈买金手镯",
@@ -881,6 +945,14 @@
       "onboard_time": 1670819654,
       "rank": 46,
       "category": "情感,艺人"
+    },
+    {
+      "raw_hot": 182503,
+      "num": 169871,
+      "word": "赵丽颖说许半夏是一个很体面的人",
+      "onboard_time": 1670823076,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 179947,
@@ -931,14 +1003,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 166990,
-      "num": 166990,
-      "word": "C罗回去了",
-      "onboard_time": 1670821934,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 166753,
       "num": 166753,
       "word": "大叔开网店一年帮7000只猫狗重新奔跑",
@@ -955,20 +1019,20 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 165168,
+      "num": 151375,
+      "word": "刘诗诗一念关山蓝衣高马尾造型",
+      "onboard_time": 1670823193,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 164617,
       "num": 164617,
       "word": "余承东回应被叫余大嘴",
       "onboard_time": 1670822174,
       "rank": 47,
       "category": "科技"
-    },
-    {
-      "raw_hot": 164213,
-      "num": 164213,
-      "word": "名侦探学院",
-      "onboard_time": 1670822234,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 162504,
@@ -985,14 +1049,6 @@
       "onboard_time": 1670811851,
       "rank": 35,
       "category": "动漫,影视"
-    },
-    {
-      "raw_hot": 158729,
-      "num": 158729,
-      "word": "普通的卡塔尔人家里长啥样",
-      "onboard_time": 1670822234,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 152566,
@@ -1041,6 +1097,14 @@
       "onboard_time": 1670809869,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 140085,
+      "num": 145014,
+      "word": "放假回家路上的离谱事",
+      "onboard_time": 1670822835,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 136053,
