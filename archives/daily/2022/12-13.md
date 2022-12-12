@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/12/13 00:28:05 ~ 2022/12/13 05:33:21
+本榜单时间：2022/12/13 00:28:05 ~ 2022/12/13 06:18:38
 </p>
 </blockquote>
 <p>
@@ -135,6 +135,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E8%BA%AB%E8%BE%B9%E6%9C%89%E5%A4%9A%E5%B0%91%E4%BA%BA%E4%B8%AD%E6%8B%9B%E4%BA%86%23" target="weibo">
+你身边有多少人中招了（热度：305184）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E8%AF%B4%E9%87%8C%E7%9A%84%E8%B4%B5%E6%B0%94%E6%84%9F%E6%9C%89%E4%BA%86%E8%84%B8%23" target="weibo">
 小说里的贵气感有了脸（热度：298406）
 </a>
@@ -143,12 +149,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%86%A0%E5%BC%95%E8%B5%B7%E7%9A%84%E5%8F%91%E7%83%A7%E4%B8%80%E8%88%AC%E4%B8%8D%E8%B6%85%E8%BF%874%E5%A4%A9%23" target="weibo">
 新冠引起的发烧一般不超过4天（热度：293261）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E8%BA%AB%E8%BE%B9%E6%9C%89%E5%A4%9A%E5%B0%91%E4%BA%BA%E4%B8%AD%E6%8B%9B%E4%BA%86%23" target="weibo">
-你身边有多少人中招了（热度：287271）
 </a>
 </li>
 
@@ -351,14 +351,20 @@ GQ 机智的回答也能获得大量曝光（热度：92839）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%AE%A2%E5%90%90%E6%A7%BD%E6%91%8A%E4%B8%BB%E5%B0%86%E8%8F%9C%E4%BB%B7%E5%B0%8F%E6%95%B0%E7%82%B9%E5%B5%8C%E5%AD%97%E9%87%8C%23" target="weibo">
+顾客吐槽摊主将菜价小数点嵌字里（热度：47461）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%84%9F%E6%9F%93%E8%80%85%E5%90%8C%E4%BD%8F%E4%BA%BA%E8%A6%81%E6%B3%A8%E6%84%8F%E4%BB%80%E4%B9%88%23" target="weibo">
 感染者同住人要注意什么（热度：27443）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%AE%A2%E5%90%90%E6%A7%BD%E6%91%8A%E4%B8%BB%E5%B0%86%E8%8F%9C%E4%BB%B7%E5%B0%8F%E6%95%B0%E7%82%B9%E5%B5%8C%E5%AD%97%E9%87%8C%23" target="weibo">
-顾客吐槽摊主将菜价小数点嵌字里（热度：19500）
+<a href="https://s.weibo.com/weibo?q=%23%E5%9C%B0%E7%8B%B1%E7%8A%AC%E7%9A%84%E7%97%85%E5%8E%9F%E6%80%A7%E4%B8%8EBA.5%E7%9B%B8%E5%90%8C%E6%88%96%E6%9B%B4%E4%BD%8E%23" target="weibo">
+地狱犬的病原性与BA.5相同或更低（热度：20515）
 </a>
 </li>
 
