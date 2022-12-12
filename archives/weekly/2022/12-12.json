@@ -1,6 +1,6 @@
 {
   "startTime": 1670775913271,
-  "endTime": 1670872686971,
+  "endTime": 1670873645279,
   "band_list": [
     {
       "raw_hot": 4501119,
@@ -2811,20 +2811,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 33476,
+      "num": 33476,
+      "word": "上海现60岁以上老人打疫苗1针奖500",
+      "onboard_time": 1670872090,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 31848,
       "num": 1561482,
       "word": "感染者同住人要注意什么",
       "onboard_time": 1670745075,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 17786,
-      "num": 17786,
-      "word": "上海现60岁以上老人打疫苗1针奖500",
-      "onboard_time": 1670872090,
-      "rank": 48,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
