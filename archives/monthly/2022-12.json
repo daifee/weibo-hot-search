@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1670844829510,
+  "endTime": 1670848625870,
   "band_list": [
     {
       "raw_hot": 13790167,
@@ -132,7 +132,7 @@
     },
     {
       "raw_hot": 4501119,
-      "num": 213086,
+      "num": 219939,
       "word": "腾讯会议崩了",
       "onboard_time": 1670827455,
       "rank": 31,
@@ -300,7 +300,7 @@
     },
     {
       "raw_hot": 3203505,
-      "num": 545047,
+      "num": 658585,
       "word": "于和伟 病毒开始攻击检测工具了吗",
       "onboard_time": 1670835435,
       "rank": 10,
@@ -760,6 +760,14 @@
       "word": "女子买连花清瘟被捆绑5种药品",
       "onboard_time": 1670730251,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2261299,
+      "num": 1204322,
+      "word": "女子确诊阳性丈夫塑料袋套头送水",
+      "onboard_time": 1670844975,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -1617,6 +1625,14 @@
       "onboard_time": 1670726412,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1515234,
+      "num": 1515234,
+      "word": "20221212",
+      "onboard_time": 1670843236,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 1508200,
@@ -3083,6 +3099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 973587,
+      "num": 973587,
+      "word": "Ning重回赛场",
+      "onboard_time": 1670846716,
+      "rank": 5,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 970880,
       "num": 970880,
       "word": "范世錡迟到激怒尔冬升",
@@ -3161,6 +3185,14 @@
       "onboard_time": 1669950549,
       "rank": 27,
       "category": "其它"
+    },
+    {
+      "raw_hot": 945261,
+      "num": 945261,
+      "word": "刘加勇医生",
+      "onboard_time": 1670846836,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 944072,
@@ -4387,6 +4419,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 769310,
+      "num": 769310,
+      "word": "黄桃罐头",
+      "onboard_time": 1670581880,
+      "rank": 43,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 768891,
       "num": 768891,
       "word": "刘畊宏50岁的年龄18岁的身体",
@@ -4561,6 +4601,14 @@
       "onboard_time": 1669818735,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 743960,
+      "num": 743960,
+      "word": "UP",
+      "onboard_time": 1670846476,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 743656,
@@ -6627,14 +6675,6 @@
       "category": "时尚,艺人"
     },
     {
-      "raw_hot": 575605,
-      "num": 575605,
-      "word": "20221212",
-      "onboard_time": 1670843236,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 575288,
       "num": 575288,
       "word": "红毯还是得看女明星",
@@ -6689,6 +6729,14 @@
       "onboard_time": 1670551753,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 566395,
+      "num": 566395,
+      "word": "剪秋本宫的头好痛",
+      "onboard_time": 1670845396,
+      "rank": 11,
+      "category": "幽默,影视"
     },
     {
       "raw_hot": 566392,
@@ -7865,14 +7913,6 @@
       "onboard_time": 1669857668,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 488517,
-      "num": 488517,
-      "word": "黄桃罐头",
-      "onboard_time": 1670581880,
-      "rank": 43,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 488415,
@@ -9235,6 +9275,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 422251,
+      "num": 422251,
+      "word": "小男孩等妈妈生产一问爸爸去厕所了",
+      "onboard_time": 1670842637,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 421943,
       "num": 421943,
       "word": "提前感受考研那几天的状态",
@@ -9337,6 +9385,14 @@
       "onboard_time": 1670499138,
       "rank": 47,
       "category": "教育,情感"
+    },
+    {
+      "raw_hot": 418237,
+      "num": 418237,
+      "word": "小说里的贵气感有了脸",
+      "onboard_time": 1670845817,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 417523,
@@ -10057,6 +10113,14 @@
       "onboard_time": 1670474896,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 391461,
+      "num": 391461,
+      "word": "警方通报男子当街持刀捅死一女子",
+      "onboard_time": 1670844855,
+      "rank": 17,
+      "category": "社会负面"
     },
     {
       "raw_hot": 391423,
@@ -11075,14 +11139,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 350932,
-      "num": 212342,
-      "word": "小男孩等妈妈生产一问爸爸去厕所了",
-      "onboard_time": 1670842637,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 350921,
       "num": 350921,
       "word": "居然还有实心的猫",
@@ -11281,6 +11337,14 @@
       "onboard_time": 1669905370,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 340523,
+      "num": 340523,
+      "word": "上海疫情风险区清零",
+      "onboard_time": 1670845337,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 340509,
@@ -11801,6 +11865,14 @@
       "onboard_time": 1670743395,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 327712,
+      "num": 327712,
+      "word": "谢霆锋帮李雪琴实现烤肠自由",
+      "onboard_time": 1670844497,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 327657,
@@ -12505,6 +12577,14 @@
       "onboard_time": 1669998190,
       "rank": 39,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 308066,
+      "num": 308066,
+      "word": "FoFo",
+      "onboard_time": 1670846955,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 307572,
@@ -13627,6 +13707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 277944,
+      "num": 277944,
+      "word": "何运晨说饭碗保住了",
+      "onboard_time": 1670847795,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 277888,
       "num": 277888,
       "word": "云中谁寄锦书来开播",
@@ -14427,6 +14515,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 257097,
+      "num": 218309,
+      "word": "叶舒华好勇",
+      "onboard_time": 1670848274,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 256775,
       "num": 695090,
       "word": "妈妈假装逃单5岁儿子坚持让付钱",
@@ -14827,6 +14923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 248732,
+      "num": 248732,
+      "word": "要不还是给孩子点外卖吧",
+      "onboard_time": 1670842637,
+      "rank": 42,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 248571,
       "num": 248571,
       "word": "齐司礼",
@@ -14977,6 +15081,14 @@
       "onboard_time": 1670395633,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 245546,
+      "num": 245546,
+      "word": "WE",
+      "onboard_time": 1670846612,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 245292,
@@ -15137,14 +15249,6 @@
       "onboard_time": 1670736070,
       "rank": 25,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 239871,
-      "num": 239871,
-      "word": "谢霆锋帮李雪琴实现烤肠自由",
-      "onboard_time": 1670844497,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 239667,
@@ -15369,6 +15473,14 @@
       "onboard_time": 1670835435,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 235334,
+      "num": 235334,
+      "word": "蒲熠星说为了团队拼了",
+      "onboard_time": 1670847136,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 235253,
@@ -16825,14 +16937,6 @@
       "onboard_time": 1670463430,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 206050,
-      "num": 206050,
-      "word": "要不还是给孩子点外卖吧",
-      "onboard_time": 1670842637,
-      "rank": 42,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 205650,
@@ -18747,6 +18851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 178312,
+      "num": 178312,
+      "word": "如何让宠物在冬季有效保暖",
+      "onboard_time": 1670847435,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 178112,
       "num": 174562,
       "word": "无限超越班金枝欲孽预告",
@@ -19145,6 +19257,14 @@
       "onboard_time": 1670833934,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 173193,
+      "num": 173193,
+      "word": "许半夏嫁对人了",
+      "onboard_time": 1670847735,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 173068,
