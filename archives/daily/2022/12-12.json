@@ -1,10 +1,10 @@
 {
   "startTime": 1670775913271,
-  "endTime": 1670841426087,
+  "endTime": 1670843754298,
   "band_list": [
     {
       "raw_hot": 4501119,
-      "num": 212289,
+      "num": 213086,
       "word": "腾讯会议崩了",
       "onboard_time": 1670827455,
       "rank": 31,
@@ -67,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2167458,
+      "num": 2167458,
+      "word": "地狱犬",
+      "onboard_time": 1670838675,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1806322,
       "num": 1806322,
       "word": "拉伊卜小王子首次回应身世",
@@ -121,14 +129,6 @@
       "onboard_time": 1670800746,
       "rank": 30,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 1431520,
-      "num": 1431520,
-      "word": "地狱犬",
-      "onboard_time": 1670838675,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1311879,
@@ -219,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 942915,
+      "num": 942915,
+      "word": "酒吧回应有人穿防护服蹦迪",
+      "onboard_time": 1670838019,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 940361,
       "num": 940361,
       "word": "北京确保研究生招生考试如期举行",
@@ -299,11 +307,11 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 729584,
-      "num": 729584,
-      "word": "酒吧回应有人穿防护服蹦迪",
-      "onboard_time": 1670838019,
-      "rank": 12,
+      "raw_hot": 719899,
+      "num": 719899,
+      "word": "侯宁",
+      "onboard_time": 1670840298,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -337,6 +345,22 @@
       "onboard_time": 1670833817,
       "rank": 10,
       "category": "时尚,艺人"
+    },
+    {
+      "raw_hot": 635660,
+      "num": 635660,
+      "word": "12日北京一次性投放2500万抗原试剂",
+      "onboard_time": 1670838737,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 619820,
+      "num": 619820,
+      "word": "除连花清瘟布洛芬外还有哪些药可用",
+      "onboard_time": 1670839577,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 614750,
@@ -483,14 +507,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 502073,
-      "num": 502073,
-      "word": "侯宁",
-      "onboard_time": 1670840298,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 499230,
       "num": 499230,
       "word": "内马尔上内地综艺有多搞笑",
@@ -571,20 +587,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 451028,
-      "num": 451028,
-      "word": "12日北京一次性投放2500万抗原试剂",
-      "onboard_time": 1670838737,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 447787,
       "num": 447787,
       "word": "浙江多地倡议全民戴口罩",
       "onboard_time": 1670802907,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 430112,
+      "num": 430112,
+      "word": "scout",
+      "onboard_time": 1670841018,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 424378,
@@ -787,14 +803,6 @@
       "category": "社会新闻,体育"
     },
     {
-      "raw_hot": 333316,
-      "num": 333316,
-      "word": "除连花清瘟布洛芬外还有哪些药可用",
-      "onboard_time": 1670839577,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 328058,
       "num": 328058,
       "word": "安东内拉模仿梅西发火",
@@ -873,6 +881,14 @@
       "onboard_time": 1670821634,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 292902,
+      "num": 292902,
+      "word": "民警给骗子发自拍问我是你宝贝吗",
+      "onboard_time": 1670839938,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 287819,
@@ -963,6 +979,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 262163,
+      "num": 262163,
+      "word": "女子拔手指倒刺感染致手臂抬不起来",
+      "onboard_time": 1670841198,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 259290,
       "num": 259290,
       "word": "财阀家的小儿子11",
@@ -1011,6 +1035,14 @@
       "category": "体育,音乐"
     },
     {
+      "raw_hot": 249781,
+      "num": 249781,
+      "word": "果然没人躲得过校园社死",
+      "onboard_time": 1670837420,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 249655,
       "num": 249655,
       "word": "云之羽",
@@ -1025,6 +1057,14 @@
       "onboard_time": 1670800687,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 246997,
+      "num": 246997,
+      "word": "Irene人歌Birthday直拍",
+      "onboard_time": 1670842995,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 246929,
@@ -1043,6 +1083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 246166,
+      "num": 246166,
+      "word": "许半夏补偿赵垒吻",
+      "onboard_time": 1670841736,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 245089,
       "num": 245089,
       "word": "小米13香",
@@ -1051,20 +1099,20 @@
       "category": "科技"
     },
     {
+      "raw_hot": 241458,
+      "num": 212342,
+      "word": "小男孩等妈妈生产一问爸爸去厕所了",
+      "onboard_time": 1670842637,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 240550,
       "num": 201983,
       "word": "蒋依依小品首秀",
       "onboard_time": 1670769677,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 240321,
-      "num": 240321,
-      "word": "果然没人躲得过校园社死",
-      "onboard_time": 1670837420,
-      "rank": 29,
-      "category": "幽默"
     },
     {
       "raw_hot": 238137,
@@ -1251,6 +1299,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 200841,
+      "num": 200841,
+      "word": "20221212",
+      "onboard_time": 1670843236,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 200227,
       "num": 200227,
       "word": "阳过一次后多久可能再阳",
@@ -1315,20 +1371,20 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 196453,
-      "num": 196453,
-      "word": "民警给骗子发自拍问我是你宝贝吗",
-      "onboard_time": 1670839938,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 196130,
       "num": 196130,
       "word": "女儿月薪3千攒1年钱为妈妈买金手镯",
       "onboard_time": 1670755276,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 193230,
+      "num": 193230,
+      "word": "2022LOL冬季转会期",
+      "onboard_time": 1670840596,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 192951,
@@ -1427,6 +1483,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 176560,
+      "num": 176560,
+      "word": "名侦探学院6开播",
+      "onboard_time": 1670843476,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 176168,
+      "num": 176168,
+      "word": "叮当快药回应网传有药不卖",
+      "onboard_time": 1670841137,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 175616,
       "num": 175616,
       "word": "众星为大鹏新电影保你平安宣传",
@@ -1435,12 +1507,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 173803,
-      "num": 173803,
-      "word": "scout",
-      "onboard_time": 1670841018,
-      "rank": 38,
-      "category": "游戏"
+      "raw_hot": 174222,
+      "num": 174222,
+      "word": "要不还是给孩子点外卖吧",
+      "onboard_time": 1670842637,
+      "rank": 42,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 173263,
@@ -1547,14 +1619,6 @@
       "category": "科技,财经"
     },
     {
-      "raw_hot": 160491,
-      "num": 160491,
-      "word": "叮当快药回应网传有药不卖",
-      "onboard_time": 1670841137,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 159987,
       "num": 159987,
       "word": "国漫画师用平板还原山海经世界",
@@ -1619,6 +1683,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 146226,
+      "num": 146226,
+      "word": "感冒药看准五个字",
+      "onboard_time": 1670843596,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145920,
       "num": 145920,
       "word": "儿童出现发热咳嗽怎么办",
@@ -1627,27 +1699,27 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 144952,
-      "num": 144952,
-      "word": "2022LOL冬季转会期",
-      "onboard_time": 1670840596,
-      "rank": 47,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 144877,
-      "num": 144877,
-      "word": "女子拔手指倒刺感染致手臂抬不起来",
-      "onboard_time": 1670841198,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 144468,
       "num": 144468,
       "word": "玩偶调戏路人帅哥反被拿捏",
       "onboard_time": 1670770698,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 142954,
+      "num": 142954,
+      "word": "这才是我想拍的结婚照",
+      "onboard_time": 1670842337,
+      "rank": 48,
+      "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 142322,
+      "num": 142322,
+      "word": "曾全网追的野象群分家了",
+      "onboard_time": 1670843717,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -2063,6 +2135,14 @@
       "num": 184479,
       "word": "被淘宝卖家的那些举动暖到了",
       "onboard_time": 1670839224,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 46815,
+      "num": 175705,
+      "word": "淘宝大米卖家用动画片科普球赛",
+      "onboard_time": 1670842822,
       "rank": 39,
       "category": "社会新闻"
     },
