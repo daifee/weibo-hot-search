@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1670801610183,
+  "endTime": 1670809233064,
   "band_list": [
     {
       "raw_hot": 13790167,
@@ -1603,6 +1603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1465273,
+      "num": 1465273,
+      "word": "广东一女网红开车送货途中遇害",
+      "onboard_time": 1670800746,
+      "rank": 30,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1464619,
       "num": 1464619,
       "word": "猪哼 hero",
@@ -2075,6 +2083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1250342,
+      "num": 1250342,
+      "word": "怀孕27周女子分享阳了后体验",
+      "onboard_time": 1670806267,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1249211,
       "num": 1249211,
       "word": "老人手包一次性内裤遭质疑不卫生",
@@ -2176,6 +2192,14 @@
       "word": "天津地铁取消72小时核酸查验",
       "onboard_time": 1669969391,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1208196,
+      "num": 1208196,
+      "word": "婆婆给出生9天宝宝喂米糊",
+      "onboard_time": 1670807348,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -2668,11 +2692,19 @@
     },
     {
       "raw_hot": 1046660,
-      "num": 410925,
+      "num": 454620,
       "word": "赵丽颖回复谢娜十三角关系我一定到位",
       "onboard_time": 1670773819,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1042959,
+      "num": 1042959,
+      "word": "张文宏建议老人这一个月不去跳广场舞",
+      "onboard_time": 1670803328,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1040351,
@@ -6427,6 +6459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 563322,
+      "num": 563322,
+      "word": "雷军回应对标iPhone被笑话",
+      "onboard_time": 1670802126,
+      "rank": 9,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 562298,
       "num": 562298,
       "word": "竟然被一只大熊猫背影杀了",
@@ -7209,14 +7249,6 @@
       "onboard_time": 1670545629,
       "rank": 11,
       "category": "情感"
-    },
-    {
-      "raw_hot": 503696,
-      "num": 95395,
-      "word": "广东一女网红开车送货途中遇害",
-      "onboard_time": 1670800746,
-      "rank": 30,
-      "category": "社会负面"
     },
     {
       "raw_hot": 503281,
@@ -8203,6 +8235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 447787,
+      "num": 447787,
+      "word": "浙江多地倡议全民戴口罩",
+      "onboard_time": 1670802907,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 447293,
       "num": 775879,
       "word": "智齿不疼也要拔吗",
@@ -8217,6 +8257,14 @@
       "onboard_time": 1670598081,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 446769,
+      "num": 446769,
+      "word": "财阀 爷孙CP",
+      "onboard_time": 1670805308,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 445815,
@@ -10451,6 +10499,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 350352,
+      "num": 350352,
+      "word": "iPhone15Ultra或万元起步",
+      "onboard_time": 1670800027,
+      "rank": 16,
+      "category": "科技"
+    },
+    {
       "raw_hot": 349572,
       "num": 349572,
       "word": "长沙南站的双码查验口已经全部撤离",
@@ -11915,6 +11971,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 303830,
+      "num": 303830,
+      "word": "克罗地亚称没有针对梅西制定计划",
+      "onboard_time": 1670807891,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 303771,
       "num": 1140079,
       "word": "C罗的身体极限到底有多强",
@@ -12121,14 +12185,6 @@
       "onboard_time": 1669865831,
       "rank": 44,
       "category": "教育"
-    },
-    {
-      "raw_hot": 297034,
-      "num": 297034,
-      "word": "iPhone15Ultra或万元起步",
-      "onboard_time": 1670800027,
-      "rank": 16,
-      "category": "科技"
     },
     {
       "raw_hot": 296886,
@@ -13763,6 +13819,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 252414,
+      "num": 252414,
+      "word": "胡歌县委大院播出首周战报",
+      "onboard_time": 1670808670,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 252264,
       "num": 252264,
       "word": "aespa与RedVelvet将合作新曲",
@@ -13947,6 +14011,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 248917,
+      "num": 248917,
+      "word": "厂家回应黄桃罐头中含有石头",
+      "onboard_time": 1670800687,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 248869,
       "num": 248869,
       "word": "得了新冠是否需要去医院",
@@ -14000,6 +14072,14 @@
       "word": "个税扣除新增3岁以下婴幼儿照护项目",
       "onboard_time": 1670309891,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 246929,
+      "num": 246929,
+      "word": "童朝晖称奥密克戎不同分支致病力没区别",
+      "onboard_time": 1670802547,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -14105,6 +14185,14 @@
       "onboard_time": 1670282587,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 245089,
+      "num": 245089,
+      "word": "小米13香",
+      "onboard_time": 1670805308,
+      "rank": 22,
+      "category": "科技"
     },
     {
       "raw_hot": 244433,
@@ -15171,6 +15259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 218814,
+      "num": 218814,
+      "word": "近八成人长时间内不会重复感染奥密克戎",
+      "onboard_time": 1670807108,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 218604,
       "num": 218604,
       "word": "真正的离开都悄无声息",
@@ -15216,6 +15312,14 @@
       "word": "专家称奥密克戎毒力非常低",
       "onboard_time": 1670047331,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 217570,
+      "num": 217570,
+      "word": "抗原自测9大注意事项",
+      "onboard_time": 1670806029,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -15809,6 +15913,14 @@
       "onboard_time": 1669897272,
       "rank": 32,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 204947,
+      "num": 204947,
+      "word": "詹雯婷张远S级和声",
+      "onboard_time": 1670808310,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 204842,
@@ -16643,6 +16755,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 190928,
+      "num": 190928,
+      "word": "张朝阳称人没有退休概念",
+      "onboard_time": 1670805908,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 190875,
       "num": 1186801,
       "word": "日本球员说目标是世界杯夺冠",
@@ -16673,6 +16793,14 @@
       "onboard_time": 1670746935,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 190002,
+      "num": 190002,
+      "word": "Newjeans新专预告",
+      "onboard_time": 1670804348,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 189967,
@@ -16785,6 +16913,14 @@
       "onboard_time": 1670682261,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 188511,
+      "num": 188511,
+      "word": "财阀家的小儿子12",
+      "onboard_time": 1670801888,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 188466,
@@ -18315,6 +18451,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 167943,
+      "num": 167943,
+      "word": "这是他们最后一届世界杯",
+      "onboard_time": 1670803688,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 167811,
       "num": 167811,
       "word": "姆巴佩梅开二度",
@@ -18545,6 +18689,14 @@
       "onboard_time": 1670418073,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 165236,
+      "num": 165236,
+      "word": "行程卡再见",
+      "onboard_time": 1670800147,
+      "rank": 18,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 165198,
@@ -19635,6 +19787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 150929,
+      "num": 150929,
+      "word": "冰面被冲走男子大喊提醒冰钓者上岸",
+      "onboard_time": 1670800986,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 150913,
       "num": 150913,
       "word": "终于等到C罗",
@@ -20451,14 +20611,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 140883,
-      "num": 140883,
-      "word": "行程卡再见",
-      "onboard_time": 1670800147,
-      "rank": 18,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 140832,
       "num": 140832,
       "word": "NBA球星看世界杯球星",
@@ -20889,14 +21041,6 @@
       "onboard_time": 1669914787,
       "rank": 20,
       "category": "体育"
-    },
-    {
-      "raw_hot": 135759,
-      "num": 94323,
-      "word": "厂家回应黄桃罐头中含有石头",
-      "onboard_time": 1670800687,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 135729,
@@ -21379,6 +21523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 130531,
+      "num": 130531,
+      "word": "保洁打扫房间顺便帮警方抓了嫌犯",
+      "onboard_time": 1670801287,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 130301,
       "num": 130301,
       "word": "阿根廷点球",
@@ -21649,6 +21801,14 @@
       "onboard_time": 1670653096,
       "rank": 47,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 126957,
+      "num": 126957,
+      "word": "关于新冠病毒你要知道的30件事",
+      "onboard_time": 1670803868,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 126550,
@@ -22787,6 +22947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 111722,
+      "num": 111722,
+      "word": "财阀家的小儿子收视破新高",
+      "onboard_time": 1670808249,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 111562,
       "num": 111562,
       "word": "C919舱内首曝光",
@@ -23249,6 +23417,14 @@
       "onboard_time": 1670206931,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 105607,
+      "num": 105607,
+      "word": "女子首次滑雪门票花99查摔伤花502",
+      "onboard_time": 1670809212,
+      "rank": 49,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 105552,
@@ -24467,14 +24643,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 74530,
-      "num": 74530,
-      "word": "冰面被冲走男子大喊提醒冰钓者上岸",
-      "onboard_time": 1670800986,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 74367,
       "num": 74367,
       "word": "陪诊师真的月入上万吗",
@@ -24753,14 +24921,6 @@
       "onboard_time": 1670109246,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 59695,
-      "num": 59695,
-      "word": "保洁打扫房间顺便帮警方抓了嫌犯",
-      "onboard_time": 1670801287,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 59595,

@@ -1,6 +1,6 @@
 {
   "startTime": 1670775913271,
-  "endTime": 1670801610183,
+  "endTime": 1670809233064,
   "band_list": [
     {
       "raw_hot": 3734719,
@@ -27,11 +27,35 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1465273,
+      "num": 1465273,
+      "word": "广东一女网红开车送货途中遇害",
+      "onboard_time": 1670800746,
+      "rank": 30,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1311879,
       "num": 1311879,
       "word": "二次感染新冠会更严重吗",
       "onboard_time": 1670763136,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1250342,
+      "num": 1250342,
+      "word": "怀孕27周女子分享阳了后体验",
+      "onboard_time": 1670806267,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1208196,
+      "num": 1208196,
+      "word": "婆婆给出生9天宝宝喂米糊",
+      "onboard_time": 1670807348,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -44,11 +68,19 @@
     },
     {
       "raw_hot": 1046660,
-      "num": 410925,
+      "num": 454620,
       "word": "赵丽颖回复谢娜十三角关系我一定到位",
       "onboard_time": 1670773819,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1042959,
+      "num": 1042959,
+      "word": "张文宏建议老人这一个月不去跳广场舞",
+      "onboard_time": 1670803328,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 988726,
@@ -83,12 +115,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 503696,
-      "num": 95395,
-      "word": "广东一女网红开车送货途中遇害",
-      "onboard_time": 1670800746,
-      "rank": 30,
-      "category": "社会负面"
+      "raw_hot": 563322,
+      "num": 563322,
+      "word": "雷军回应对标iPhone被笑话",
+      "onboard_time": 1670802126,
+      "rank": 9,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 498358,
@@ -97,6 +129,22 @@
       "onboard_time": 1670754021,
       "rank": 8,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 447787,
+      "num": 447787,
+      "word": "浙江多地倡议全民戴口罩",
+      "onboard_time": 1670802907,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 446769,
+      "num": 446769,
+      "word": "财阀 爷孙CP",
+      "onboard_time": 1670805308,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 399430,
@@ -113,6 +161,22 @@
       "onboard_time": 1670772736,
       "rank": 9,
       "category": "体育,音乐"
+    },
+    {
+      "raw_hot": 350352,
+      "num": 350352,
+      "word": "iPhone15Ultra或万元起步",
+      "onboard_time": 1670800027,
+      "rank": 16,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 342736,
+      "num": 1263242,
+      "word": "无症状感染者不需要吃药",
+      "onboard_time": 1670767756,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 317426,
@@ -139,12 +203,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 297034,
-      "num": 297034,
-      "word": "iPhone15Ultra或万元起步",
-      "onboard_time": 1670800027,
+      "raw_hot": 303830,
+      "num": 303830,
+      "word": "克罗地亚称没有针对梅西制定计划",
+      "onboard_time": 1670807891,
       "rank": 16,
-      "category": "科技"
+      "category": "体育"
     },
     {
       "raw_hot": 282077,
@@ -187,12 +251,36 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 252873,
-      "num": 1254046,
-      "word": "无症状感染者不需要吃药",
-      "onboard_time": 1670767756,
-      "rank": 2,
-      "category": "国内要闻"
+      "raw_hot": 252414,
+      "num": 252414,
+      "word": "胡歌县委大院播出首周战报",
+      "onboard_time": 1670808670,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 248917,
+      "num": 248917,
+      "word": "厂家回应黄桃罐头中含有石头",
+      "onboard_time": 1670800687,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 246929,
+      "num": 246929,
+      "word": "童朝晖称奥密克戎不同分支致病力没区别",
+      "onboard_time": 1670802547,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 245089,
+      "num": 245089,
+      "word": "小米13香",
+      "onboard_time": 1670805308,
+      "rank": 22,
+      "category": "科技"
     },
     {
       "raw_hot": 240550,
@@ -219,6 +307,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 219124,
+      "num": 219124,
+      "word": "新冠阳性感染者如何居家隔离",
+      "onboard_time": 1670801827,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 219067,
       "num": 201907,
       "word": "陈飞宇金发夜色大片",
@@ -227,12 +323,44 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 218814,
+      "num": 218814,
+      "word": "近八成人长时间内不会重复感染奥密克戎",
+      "onboard_time": 1670807108,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 217570,
+      "num": 217570,
+      "word": "抗原自测9大注意事项",
+      "onboard_time": 1670806029,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 212710,
       "num": 212710,
       "word": "免疫力低下人群冬季如何运动",
       "onboard_time": 1670774654,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 210657,
+      "num": 210657,
+      "word": "马思纯晒楼梯间随拍",
+      "onboard_time": 1670771057,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 204947,
+      "num": 204947,
+      "word": "詹雯婷张远S级和声",
+      "onboard_time": 1670808310,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 202853,
@@ -283,6 +411,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 190928,
+      "num": 190928,
+      "word": "张朝阳称人没有退休概念",
+      "onboard_time": 1670805908,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 190002,
+      "num": 190002,
+      "word": "Newjeans新专预告",
+      "onboard_time": 1670804348,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 188511,
+      "num": 188511,
+      "word": "财阀家的小儿子12",
+      "onboard_time": 1670801888,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 179639,
       "num": 179639,
       "word": "有一种思念叫做异地恋",
@@ -291,12 +443,28 @@
       "category": "情感"
     },
     {
-      "raw_hot": 168664,
-      "num": 168664,
-      "word": "马思纯晒楼梯间随拍",
-      "onboard_time": 1670771057,
-      "rank": 27,
-      "category": "艺人"
+      "raw_hot": 167943,
+      "num": 167943,
+      "word": "这是他们最后一届世界杯",
+      "onboard_time": 1670803688,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 165236,
+      "num": 165236,
+      "word": "行程卡再见",
+      "onboard_time": 1670800147,
+      "rank": 18,
+      "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 150929,
+      "num": 150929,
+      "word": "冰面被冲走男子大喊提醒冰钓者上岸",
+      "onboard_time": 1670800986,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 144468,
@@ -305,14 +473,6 @@
       "onboard_time": 1670770698,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 140883,
-      "num": 140883,
-      "word": "行程卡再见",
-      "onboard_time": 1670800147,
-      "rank": 18,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 136053,
@@ -331,12 +491,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 135759,
-      "num": 94323,
-      "word": "厂家回应黄桃罐头中含有石头",
-      "onboard_time": 1670800687,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 135717,
+      "num": 135717,
+      "word": "王以太当客服说了65次亲",
+      "onboard_time": 1670770876,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 134166,
@@ -355,12 +515,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130531,
+      "num": 130531,
+      "word": "保洁打扫房间顺便帮警方抓了嫌犯",
+      "onboard_time": 1670801287,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127297,
       "num": 127297,
       "word": "樊振东3比1马龙",
       "onboard_time": 1670762658,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 126957,
+      "num": 126957,
+      "word": "关于新冠病毒你要知道的30件事",
+      "onboard_time": 1670803868,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 124384,
@@ -419,6 +595,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 111722,
+      "num": 111722,
+      "word": "财阀家的小儿子收视破新高",
+      "onboard_time": 1670808249,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 111026,
       "num": 111026,
       "word": "小米",
@@ -433,6 +617,14 @@
       "onboard_time": 1670766915,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 105607,
+      "num": 105607,
+      "word": "女子首次滑雪门票花99查摔伤花502",
+      "onboard_time": 1670809212,
+      "rank": 49,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 104417,
@@ -483,14 +675,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 74530,
-      "num": 74530,
-      "word": "冰面被冲走男子大喊提醒冰钓者上岸",
-      "onboard_time": 1670800986,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 71066,
       "num": 71066,
       "word": "武汉发热门诊患者大排长龙",
@@ -513,22 +697,6 @@
       "onboard_time": 1670765116,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 59695,
-      "num": 59695,
-      "word": "保洁打扫房间顺便帮警方抓了嫌犯",
-      "onboard_time": 1670801287,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 58930,
-      "num": 58930,
-      "word": "王以太当客服说了65次亲",
-      "onboard_time": 1670770876,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 41768,
