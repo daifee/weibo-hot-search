@@ -1,6 +1,6 @@
 {
   "startTime": 1670862485364,
-  "endTime": 1670870338346,
+  "endTime": 1670872686971,
   "band_list": [
     {
       "raw_hot": 1643130,
@@ -449,6 +449,14 @@
       "onboard_time": 1670745075,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 17786,
+      "num": 17786,
+      "word": "上海现60岁以上老人打疫苗1针奖500",
+      "onboard_time": 1670872090,
+      "rank": 48,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
