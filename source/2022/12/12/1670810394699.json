@@ -1,0 +1,410 @@
+{
+  "runTime": 1670810394699,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1681287,
+        "num": 1681287,
+        "word": "行程卡",
+        "onboard_time": 1670776033,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1292017,
+        "num": 1292017,
+        "word": "婆婆给出生9天宝宝喂米糊",
+        "onboard_time": 1670807348,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315022,
+        "num": 1273876,
+        "word": "无症状感染者不需要吃药",
+        "onboard_time": 1670767756,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1258213,
+        "num": 1258213,
+        "word": "广东一女网红开车送货途中遇害",
+        "onboard_time": 1670800746,
+        "rank": 3,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1217175,
+        "num": 1217175,
+        "word": "怀孕27周女子分享阳了后体验",
+        "onboard_time": 1670806267,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 820780,
+        "num": 820780,
+        "word": "二次感染新冠会更严重吗",
+        "onboard_time": 1670763136,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 731680,
+        "num": 731680,
+        "word": "张文宏建议老人这一个月不去跳广场舞",
+        "onboard_time": 1670803328,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 612829,
+        "num": 612829,
+        "word": "财阀 爷孙CP",
+        "onboard_time": 1670805308,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 579741,
+        "num": 579741,
+        "word": "行程卡下线",
+        "onboard_time": 1670776632,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 554015,
+        "num": 554015,
+        "word": "克罗地亚称没有针对梅西制定计划",
+        "onboard_time": 1670807891,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 523217,
+        "num": 523217,
+        "word": "预计1个月内达到感染峰值",
+        "onboard_time": 1670760077,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 482819,
+        "num": 482819,
+        "word": "拉伊卜小王子首次回应身世",
+        "onboard_time": 1670771356,
+        "rank": 11,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 463590,
+        "num": 463590,
+        "word": "雷军回应对标iPhone被笑话",
+        "onboard_time": 1670802126,
+        "rank": 12,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 422317,
+        "num": 422317,
+        "word": "赵丽颖回复谢娜十三角关系我一定到位",
+        "onboard_time": 1670773819,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 363150,
+        "num": 363150,
+        "word": "保定放开之后",
+        "onboard_time": 1670770758,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326812,
+        "num": 326812,
+        "word": "iPhone15Ultra或万元起步",
+        "onboard_time": 1670800027,
+        "rank": 15,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 284036,
+        "num": 284036,
+        "word": "浙江多地倡议全民戴口罩",
+        "onboard_time": 1670802907,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269662,
+        "num": 269662,
+        "word": "胡歌县委大院播出首周战报",
+        "onboard_time": 1670808670,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 252891,
+        "num": 252891,
+        "word": "近八成人长时间内不会重复感染奥密克戎",
+        "onboard_time": 1670807108,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220995,
+        "num": 220995,
+        "word": "Newjeans新专预告",
+        "onboard_time": 1670804348,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 217043,
+        "num": 217043,
+        "word": "张朝阳称人没有退休概念",
+        "onboard_time": 1670805908,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215713,
+        "num": 215713,
+        "word": "抗原自测9大注意事项",
+        "onboard_time": 1670806029,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211353,
+        "num": 211353,
+        "word": "结婚12年才发现喜被里有葱",
+        "onboard_time": 1670754435,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209667,
+        "num": 209667,
+        "word": "厂家回应黄桃罐头中含有石头",
+        "onboard_time": 1670800687,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209029,
+        "num": 209029,
+        "word": "C罗说梦想结束了",
+        "onboard_time": 1670772915,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203296,
+        "num": 203296,
+        "word": "詹雯婷张远S级和声",
+        "onboard_time": 1670808310,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198133,
+        "num": 198133,
+        "word": "女子首次滑雪门票花99查摔伤花502",
+        "onboard_time": 1670809212,
+        "rank": 26,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 198022,
+        "num": 198022,
+        "word": "马思纯晒楼梯间随拍",
+        "onboard_time": 1670771057,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173921,
+        "num": 173921,
+        "word": "小米13香",
+        "onboard_time": 1670805308,
+        "rank": 28,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 170247,
+        "num": 170247,
+        "word": "阳过一次后多久可能再阳",
+        "onboard_time": 1670762776,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223063,
+        "num": 169329,
+        "word": "武汉女子称这次感染和2020年很不同",
+        "onboard_time": 1670809815,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207966,
+        "num": 169122,
+        "word": "专家称新冠肺炎最终会降为丙类丙管",
+        "onboard_time": 1670809511,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159398,
+        "num": 159398,
+        "word": "童朝晖称奥密克戎不同分支致病力没区别",
+        "onboard_time": 1670802547,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156902,
+        "num": 156902,
+        "word": "新冠阳性感染者如何居家隔离",
+        "onboard_time": 1670801827,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151166,
+        "num": 151166,
+        "word": "王以太当客服说了65次亲",
+        "onboard_time": 1670770876,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151126,
+        "num": 151126,
+        "word": "呼和浩特4.1级地震",
+        "onboard_time": 1670800386,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150863,
+        "num": 150863,
+        "word": "女孩在家楼下补课后失联已11年",
+        "onboard_time": 1670770825,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146886,
+        "num": 146886,
+        "word": "行程卡再见",
+        "onboard_time": 1670800147,
+        "rank": 37,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 145920,
+        "num": 145920,
+        "word": "儿童出现发热咳嗽怎么办",
+        "onboard_time": 1670809691,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140750,
+        "num": 140750,
+        "word": "杨坤歌里的顶级浪漫",
+        "onboard_time": 1670809869,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135986,
+        "num": 135986,
+        "word": "世界杯半决赛现场将播放孤勇者",
+        "onboard_time": 1670772736,
+        "rank": 40,
+        "category": "体育,音乐"
+      },
+      {
+        "raw_hot": 134496,
+        "num": 134496,
+        "word": "财阀家的小儿子12",
+        "onboard_time": 1670801888,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 124941,
+        "num": 124941,
+        "word": "张艺兴说为梦想努力奋斗的人值得尊敬",
+        "onboard_time": 1670759476,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122449,
+        "num": 122449,
+        "word": "这是他们最后一届世界杯",
+        "onboard_time": 1670803688,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120185,
+        "num": 120185,
+        "word": "冰面被冲走男子大喊提醒冰钓者上岸",
+        "onboard_time": 1670800986,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118802,
+        "num": 118802,
+        "word": "开窗通风是否会有被传染的风险",
+        "onboard_time": 1670790612,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114859,
+        "num": 114859,
+        "word": "Doinb 盛世如你所愿",
+        "onboard_time": 1670765958,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 114221,
+        "num": 114221,
+        "word": "保洁打扫房间顺便帮警方抓了嫌犯",
+        "onboard_time": 1670801287,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113432,
+        "num": 113432,
+        "word": "女子开空调烧熏香守母亲遗体3个月",
+        "onboard_time": 1670754078,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112535,
+        "num": 112535,
+        "word": "C罗希望时间能成为一个好的顾问",
+        "onboard_time": 1670810290,
+        "rank": 49,
+        "category": "体育,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中阿友好相信还会好上加好#"
+    }
+  }
+}

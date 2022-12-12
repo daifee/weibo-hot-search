@@ -1,6 +1,6 @@
 {
   "startTime": 1670775913271,
-  "endTime": 1670809233064,
+  "endTime": 1670810394699,
   "band_list": [
     {
       "raw_hot": 3734719,
@@ -43,19 +43,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1292017,
+      "num": 1292017,
+      "word": "婆婆给出生9天宝宝喂米糊",
+      "onboard_time": 1670807348,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1250342,
       "num": 1250342,
       "word": "怀孕27周女子分享阳了后体验",
       "onboard_time": 1670806267,
       "rank": 3,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1208196,
-      "num": 1208196,
-      "word": "婆婆给出生9天宝宝喂米糊",
-      "onboard_time": 1670807348,
-      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -107,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 612829,
+      "num": 612829,
+      "word": "财阀 爷孙CP",
+      "onboard_time": 1670805308,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 595395,
       "num": 595395,
       "word": "结婚12年才发现喜被里有葱",
@@ -123,6 +131,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 554015,
+      "num": 554015,
+      "word": "克罗地亚称没有针对梅西制定计划",
+      "onboard_time": 1670807891,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 498358,
       "num": 498358,
       "word": "江泽民同志骨灰撒入江海",
@@ -137,14 +153,6 @@
       "onboard_time": 1670802907,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 446769,
-      "num": 446769,
-      "word": "财阀 爷孙CP",
-      "onboard_time": 1670805308,
-      "rank": 13,
-      "category": "影视"
     },
     {
       "raw_hot": 399430,
@@ -172,7 +180,7 @@
     },
     {
       "raw_hot": 342736,
-      "num": 1263242,
+      "num": 1273876,
       "word": "无症状感染者不需要吃药",
       "onboard_time": 1670767756,
       "rank": 2,
@@ -203,14 +211,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 303830,
-      "num": 303830,
-      "word": "克罗地亚称没有针对梅西制定计划",
-      "onboard_time": 1670807891,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 282077,
       "num": 282077,
       "word": "张艺兴说为梦想努力奋斗的人值得尊敬",
@@ -235,6 +235,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 269662,
+      "num": 269662,
+      "word": "胡歌县委大院播出首周战报",
+      "onboard_time": 1670808670,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 259290,
       "num": 259290,
       "word": "财阀家的小儿子11",
@@ -251,12 +259,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 252414,
-      "num": 252414,
-      "word": "胡歌县委大院播出首周战报",
-      "onboard_time": 1670808670,
-      "rank": 19,
-      "category": "影视"
+      "raw_hot": 252891,
+      "num": 252891,
+      "word": "近八成人长时间内不会重复感染奥密克戎",
+      "onboard_time": 1670807108,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 248917,
@@ -299,12 +307,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 223063,
+      "num": 169329,
+      "word": "武汉女子称这次感染和2020年很不同",
+      "onboard_time": 1670809815,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 222075,
       "num": 222075,
       "word": "小米13",
       "onboard_time": 1670759537,
       "rank": 18,
       "category": "科技"
+    },
+    {
+      "raw_hot": 220995,
+      "num": 220995,
+      "word": "Newjeans新专预告",
+      "onboard_time": 1670804348,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 219124,
@@ -323,19 +347,19 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 218814,
-      "num": 218814,
-      "word": "近八成人长时间内不会重复感染奥密克戎",
-      "onboard_time": 1670807108,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 217570,
       "num": 217570,
       "word": "抗原自测9大注意事项",
       "onboard_time": 1670806029,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 217043,
+      "num": 217043,
+      "word": "张朝阳称人没有退休概念",
+      "onboard_time": 1670805908,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -353,6 +377,14 @@
       "onboard_time": 1670771057,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 207966,
+      "num": 169122,
+      "word": "专家称新冠肺炎最终会降为丙类丙管",
+      "onboard_time": 1670809511,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 204947,
@@ -403,28 +435,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 198133,
+      "num": 198133,
+      "word": "女子首次滑雪门票花99查摔伤花502",
+      "onboard_time": 1670809212,
+      "rank": 49,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 196130,
       "num": 196130,
       "word": "女儿月薪3千攒1年钱为妈妈买金手镯",
       "onboard_time": 1670755276,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 190928,
-      "num": 190928,
-      "word": "张朝阳称人没有退休概念",
-      "onboard_time": 1670805908,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 190002,
-      "num": 190002,
-      "word": "Newjeans新专预告",
-      "onboard_time": 1670804348,
-      "rank": 30,
-      "category": "音乐"
     },
     {
       "raw_hot": 188511,
@@ -459,11 +483,27 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 151166,
+      "num": 151166,
+      "word": "王以太当客服说了65次亲",
+      "onboard_time": 1670770876,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 150929,
       "num": 150929,
       "word": "冰面被冲走男子大喊提醒冰钓者上岸",
       "onboard_time": 1670800986,
       "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 145920,
+      "num": 145920,
+      "word": "儿童出现发热咳嗽怎么办",
+      "onboard_time": 1670809691,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -473,6 +513,14 @@
       "onboard_time": 1670770698,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 140750,
+      "num": 140750,
+      "word": "杨坤歌里的顶级浪漫",
+      "onboard_time": 1670809869,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 136053,
@@ -489,14 +537,6 @@
       "onboard_time": 1670761335,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 135717,
-      "num": 135717,
-      "word": "王以太当客服说了65次亲",
-      "onboard_time": 1670770876,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 134166,
@@ -595,6 +635,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 112535,
+      "num": 112535,
+      "word": "C罗希望时间能成为一个好的顾问",
+      "onboard_time": 1670810290,
+      "rank": 49,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 111722,
       "num": 111722,
       "word": "财阀家的小儿子收视破新高",
@@ -617,14 +665,6 @@
       "onboard_time": 1670766915,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 105607,
-      "num": 105607,
-      "word": "女子首次滑雪门票花99查摔伤花502",
-      "onboard_time": 1670809212,
-      "rank": 49,
-      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 104417,
