@@ -1,6 +1,6 @@
 {
   "startTime": 1670775913271,
-  "endTime": 1670843754298,
+  "endTime": 1670844829510,
   "band_list": [
     {
       "raw_hot": 4501119,
@@ -59,19 +59,19 @@
       "category": "科技"
     },
     {
+      "raw_hot": 2286587,
+      "num": 2286587,
+      "word": "地狱犬",
+      "onboard_time": 1670838675,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2274260,
       "num": 2274260,
       "word": "连花清瘟胶囊有上百种替代药",
       "onboard_time": 1670812330,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2167458,
-      "num": 2167458,
-      "word": "地狱犬",
-      "onboard_time": 1670838675,
-      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -299,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 756369,
+      "num": 756369,
+      "word": "侯宁",
+      "onboard_time": 1670840298,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 734041,
       "num": 734041,
       "word": "Doinb新赛季休息",
@@ -307,11 +315,11 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 719899,
-      "num": 719899,
-      "word": "侯宁",
-      "onboard_time": 1670840298,
-      "rank": 19,
+      "raw_hot": 733297,
+      "num": 733297,
+      "word": "除连花清瘟布洛芬外还有哪些药可用",
+      "onboard_time": 1670839577,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -352,14 +360,6 @@
       "word": "12日北京一次性投放2500万抗原试剂",
       "onboard_time": 1670838737,
       "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 619820,
-      "num": 619820,
-      "word": "除连花清瘟布洛芬外还有哪些药可用",
-      "onboard_time": 1670839577,
-      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -409,6 +409,14 @@
       "onboard_time": 1670828896,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 575605,
+      "num": 575605,
+      "word": "20221212",
+      "onboard_time": 1670843236,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 563322,
@@ -635,6 +643,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 407984,
+      "num": 407984,
+      "word": "minji2022MAMA舞台直拍",
+      "onboard_time": 1670844196,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 402073,
       "num": 402073,
       "word": "姆巴佩被摸头后的反应",
@@ -755,6 +771,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 354077,
+      "num": 354077,
+      "word": "民警给骗子发自拍问我是你宝贝吗",
+      "onboard_time": 1670839938,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 350932,
+      "num": 212342,
+      "word": "小男孩等妈妈生产一问爸爸去厕所了",
+      "onboard_time": 1670842637,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 350352,
       "num": 350352,
       "word": "iPhone15Ultra或万元起步",
@@ -769,6 +801,14 @@
       "onboard_time": 1670815151,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 343800,
+      "num": 343800,
+      "word": "女子拔手指倒刺感染致手臂抬不起来",
+      "onboard_time": 1670841198,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 342736,
@@ -835,6 +875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 315199,
+      "num": 315199,
+      "word": "健康码",
+      "onboard_time": 1670844556,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 313255,
       "num": 313255,
       "word": "开窗通风是否会有被传染的风险",
@@ -881,14 +929,6 @@
       "onboard_time": 1670821634,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 292902,
-      "num": 292902,
-      "word": "民警给骗子发自拍问我是你宝贝吗",
-      "onboard_time": 1670839938,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 287819,
@@ -977,14 +1017,6 @@
       "onboard_time": 1670815932,
       "rank": 36,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 262163,
-      "num": 262163,
-      "word": "女子拔手指倒刺感染致手臂抬不起来",
-      "onboard_time": 1670841198,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 259290,
@@ -1099,19 +1131,19 @@
       "category": "科技"
     },
     {
-      "raw_hot": 241458,
-      "num": 212342,
-      "word": "小男孩等妈妈生产一问爸爸去厕所了",
-      "onboard_time": 1670842637,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 240550,
       "num": 201983,
       "word": "蒋依依小品首秀",
       "onboard_time": 1670769677,
       "rank": 20,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 239871,
+      "num": 239871,
+      "word": "谢霆锋帮李雪琴实现烤肠自由",
+      "onboard_time": 1670844497,
+      "rank": 24,
       "category": "综艺"
     },
     {
@@ -1145,6 +1177,14 @@
       "onboard_time": 1670798467,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 230440,
+      "num": 230440,
+      "word": "月歌行定档1215",
+      "onboard_time": 1670844019,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 222075,
@@ -1251,6 +1291,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 210222,
+      "num": 210222,
+      "word": "感冒药看准五个字",
+      "onboard_time": 1670843596,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 209090,
+      "num": 209090,
+      "word": "名侦探学院6开播",
+      "onboard_time": 1670843476,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 209035,
       "num": 209035,
       "word": "黄宗泽吴卓羲拿错剧本",
@@ -1265,6 +1321,14 @@
       "onboard_time": 1670810290,
       "rank": 49,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 206050,
+      "num": 206050,
+      "word": "要不还是给孩子点外卖吧",
+      "onboard_time": 1670842637,
+      "rank": 42,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 204947,
@@ -1297,14 +1361,6 @@
       "onboard_time": 1670828536,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 200841,
-      "num": 200841,
-      "word": "20221212",
-      "onboard_time": 1670843236,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 200227,
@@ -1403,6 +1459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 189143,
+      "num": 189143,
+      "word": "叮当快药回应网传有药不卖",
+      "onboard_time": 1670841137,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 188843,
       "num": 134796,
       "word": "快乐再出发真的好冷海报",
@@ -1483,20 +1547,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 176560,
-      "num": 176560,
-      "word": "名侦探学院6开播",
-      "onboard_time": 1670843476,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 176168,
-      "num": 176168,
-      "word": "叮当快药回应网传有药不卖",
-      "onboard_time": 1670841137,
-      "rank": 43,
-      "category": "社会新闻"
+      "raw_hot": 178821,
+      "num": 178821,
+      "word": "月歌行",
+      "onboard_time": 1670844676,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 175616,
@@ -1505,14 +1561,6 @@
       "onboard_time": 1670818513,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 174222,
-      "num": 174222,
-      "word": "要不还是给孩子点外卖吧",
-      "onboard_time": 1670842637,
-      "rank": 42,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 173263,
@@ -1569,6 +1617,14 @@
       "onboard_time": 1670833156,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 166239,
+      "num": 166239,
+      "word": "陈韵如这次想要勇敢爱一次",
+      "onboard_time": 1670843956,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 166195,
@@ -1681,14 +1737,6 @@
       "onboard_time": 1670837236,
       "rank": 44,
       "category": "美食"
-    },
-    {
-      "raw_hot": 146226,
-      "num": 146226,
-      "word": "感冒药看准五个字",
-      "onboard_time": 1670843596,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 145920,
@@ -2140,7 +2188,7 @@
     },
     {
       "raw_hot": 46815,
-      "num": 175705,
+      "num": 177982,
       "word": "淘宝大米卖家用动画片科普球赛",
       "onboard_time": 1670842822,
       "rank": 39,
