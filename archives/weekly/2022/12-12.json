@@ -1,6 +1,6 @@
 {
   "startTime": 1670775913271,
-  "endTime": 1670819923825,
+  "endTime": 1670822260827,
   "band_list": [
     {
       "raw_hot": 3734719,
@@ -19,6 +19,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2113985,
+      "num": 1102652,
+      "word": "校方通报男生被指在女友孕期出轨",
+      "onboard_time": 1670818753,
+      "rank": 48,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1806322,
       "num": 1806322,
       "word": "拉伊卜小王子首次回应身世",
@@ -33,6 +41,14 @@
       "onboard_time": 1670776632,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1722285,
+      "num": 1722285,
+      "word": "林秋离去世",
+      "onboard_time": 1670819233,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1636641,
@@ -92,7 +108,7 @@
     },
     {
       "raw_hot": 1104449,
-      "num": 549191,
+      "num": 1006493,
       "word": "行程卡行程码商标申请均被驳回",
       "onboard_time": 1670817672,
       "rank": 10,
@@ -147,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 844079,
+      "num": 844079,
+      "word": "大学生食堂盛汤夹走唯一汤骨被制止",
+      "onboard_time": 1670819233,
+      "rank": 39,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 824457,
       "num": 824457,
       "word": "塞尔维亚",
@@ -171,12 +195,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 737295,
-      "num": 516345,
-      "word": "林秋离去世",
-      "onboard_time": 1670819233,
-      "rank": 11,
-      "category": "艺人"
+      "raw_hot": 686277,
+      "num": 639999,
+      "word": "R1SE官博更新",
+      "onboard_time": 1670820975,
+      "rank": 10,
+      "category": "音乐"
     },
     {
       "raw_hot": 676074,
@@ -187,12 +211,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 648488,
-      "num": 514044,
-      "word": "校方通报男生被指在女友孕期出轨",
-      "onboard_time": 1670818753,
-      "rank": 48,
-      "category": "社会新闻,教育"
+      "raw_hot": 614750,
+      "num": 614750,
+      "word": "田曦薇新剧齐刘海马尾造型",
+      "onboard_time": 1670818152,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 612829,
@@ -227,14 +251,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 539474,
-      "num": 539474,
-      "word": "田曦薇新剧齐刘海马尾造型",
-      "onboard_time": 1670818152,
-      "rank": 24,
-      "category": "影视"
-    },
-    {
       "raw_hot": 529241,
       "num": 529241,
       "word": "科索沃",
@@ -257,6 +273,14 @@
       "onboard_time": 1670754021,
       "rank": 8,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 481817,
+      "num": 481817,
+      "word": "这是川渝男人的标配服饰吗",
+      "onboard_time": 1670818453,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 463624,
@@ -299,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 445111,
+      "num": 445111,
+      "word": "近一半结婚人群年龄超30岁",
+      "onboard_time": 1670819732,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 424378,
       "num": 424378,
       "word": "男子4天贴身照顾确诊妻子仍为阴性",
@@ -315,12 +347,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 409839,
+      "num": 409839,
+      "word": "猫从来不喝碗里的水",
+      "onboard_time": 1670818217,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 399430,
       "num": 399430,
       "word": "财阀家的小儿子",
       "onboard_time": 1670759597,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 399361,
+      "num": 399361,
+      "word": "莫德里奇吹魔笛自己笑了",
+      "onboard_time": 1670818993,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 392966,
@@ -355,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 368709,
+      "num": 368709,
+      "word": "姆巴佩被摸头后的反应",
+      "onboard_time": 1670818513,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 368539,
       "num": 368539,
       "word": "你最爱的双男主王炸组合",
@@ -369,6 +425,22 @@
       "onboard_time": 1670817312,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 359983,
+      "num": 359983,
+      "word": "钟欣潼说要跟阿Sa一起看女法医JD",
+      "onboard_time": 1670819833,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 359685,
+      "num": 359685,
+      "word": "女子看错药名误服肛门栓剂",
+      "onboard_time": 1670820675,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 350352,
@@ -401,14 +473,6 @@
       "onboard_time": 1670813230,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 338017,
-      "num": 338017,
-      "word": "钟欣潼说要跟阿Sa一起看女法医JD",
-      "onboard_time": 1670819833,
-      "rank": 21,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 335736,
@@ -451,14 +515,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 317265,
-      "num": 317265,
-      "word": "姆巴佩被摸头后的反应",
-      "onboard_time": 1670818513,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 313255,
       "num": 313255,
       "word": "开窗通风是否会有被传染的风险",
@@ -467,20 +523,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 312072,
-      "num": 312072,
-      "word": "这是川渝男人的标配服饰吗",
-      "onboard_time": 1670818453,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 304648,
       "num": 304648,
       "word": "爱的二八定律大结局",
       "onboard_time": 1670761458,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 297177,
+      "num": 297177,
+      "word": "光遇",
+      "onboard_time": 1670821153,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 296825,
+      "num": 296825,
+      "word": "名侦探学院第六季官宣定档",
+      "onboard_time": 1670821634,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 287819,
@@ -627,12 +691,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 229317,
-      "num": 229317,
-      "word": "大学生食堂盛汤夹走唯一汤骨被制止",
-      "onboard_time": 1670819233,
-      "rank": 39,
-      "category": "社会新闻,教育"
+      "raw_hot": 223262,
+      "num": 223262,
+      "word": "孤勇者",
+      "onboard_time": 1670821514,
+      "rank": 33,
+      "category": "体育,音乐"
     },
     {
       "raw_hot": 222075,
@@ -668,7 +732,7 @@
     },
     {
       "raw_hot": 217570,
-      "num": 217570,
+      "num": 1109910,
       "word": "抗原自测9大注意事项",
       "onboard_time": 1670806029,
       "rank": 25,
@@ -723,14 +787,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 202983,
-      "num": 202983,
-      "word": "猫从来不喝碗里的水",
-      "onboard_time": 1670818217,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 202853,
       "num": 202853,
       "word": "德尚说摩洛哥晋级是理所当然的",
@@ -771,14 +827,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 198561,
-      "num": 198561,
-      "word": "莫德里奇吹魔笛自己笑了",
-      "onboard_time": 1670818993,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 198432,
       "num": 198432,
       "word": "犯罪团伙用虚拟币交易洗钱120亿",
@@ -801,6 +849,14 @@
       "onboard_time": 1670755276,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192951,
+      "num": 192951,
+      "word": "世界杯音乐盛典惊喜来电",
+      "onboard_time": 1670821182,
+      "rank": 36,
+      "category": "体育,音乐"
     },
     {
       "raw_hot": 191634,
@@ -827,12 +883,28 @@
       "category": "情感,艺人"
     },
     {
+      "raw_hot": 179947,
+      "num": 179947,
+      "word": "四川远古版疯狂的石头",
+      "onboard_time": 1670822174,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 179639,
       "num": 179639,
       "word": "有一种思念叫做异地恋",
       "onboard_time": 1670771175,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 179136,
+      "num": 179136,
+      "word": "用实力说话的女演员有多酷",
+      "onboard_time": 1670821395,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 175616,
@@ -859,12 +931,44 @@
       "category": "体育"
     },
     {
+      "raw_hot": 166990,
+      "num": 166990,
+      "word": "C罗回去了",
+      "onboard_time": 1670821934,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 166753,
+      "num": 166753,
+      "word": "大叔开网店一年帮7000只猫狗重新奔跑",
+      "onboard_time": 1670821514,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 165236,
       "num": 165236,
       "word": "行程卡再见",
       "onboard_time": 1670800147,
       "rank": 18,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 164617,
+      "num": 164617,
+      "word": "余承东回应被叫余大嘴",
+      "onboard_time": 1670822174,
+      "rank": 47,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 164213,
+      "num": 164213,
+      "word": "名侦探学院",
+      "onboard_time": 1670822234,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 162504,
@@ -883,12 +987,12 @@
       "category": "动漫,影视"
     },
     {
-      "raw_hot": 157600,
-      "num": 157600,
-      "word": "近一半结婚人群年龄超30岁",
-      "onboard_time": 1670819732,
+      "raw_hot": 158729,
+      "num": 158729,
+      "word": "普通的卡塔尔人家里长啥样",
+      "onboard_time": 1670822234,
       "rank": 49,
-      "category": "社会新闻"
+      "category": "体育"
     },
     {
       "raw_hot": 152566,
@@ -1217,6 +1321,9 @@
     },
     {
       "word": "#中阿友好相信还会好上加好#"
+    },
+    {
+      "word": "#敢字当头拿出拼劲#"
     }
   ]
 }
