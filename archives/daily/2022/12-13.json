@@ -1,6 +1,6 @@
 {
   "startTime": 1670862485364,
-  "endTime": 1670865435495,
+  "endTime": 1670866458082,
   "band_list": [
     {
       "raw_hot": 1643130,
@@ -123,6 +123,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 357098,
+      "num": 357098,
+      "word": "健康码会退出吗",
+      "onboard_time": 1670862674,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 356457,
       "num": 356457,
       "word": "健康码",
@@ -145,14 +153,6 @@
       "onboard_time": 1670846536,
       "rank": 15,
       "category": "美食"
-    },
-    {
-      "raw_hot": 309738,
-      "num": 309738,
-      "word": "健康码会退出吗",
-      "onboard_time": 1670862674,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 305837,
@@ -419,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 64870,
+      "num": 64870,
+      "word": "田曦薇新剧初次爱你演医学少女",
+      "onboard_time": 1670865192,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 61557,
       "num": 61557,
       "word": "这就是破碎感美人吧",
@@ -427,12 +435,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 60395,
-      "num": 60395,
-      "word": "田曦薇新剧初次爱你演医学少女",
-      "onboard_time": 1670865192,
-      "rank": 47,
-      "category": "影视"
+      "raw_hot": 56240,
+      "num": 56240,
+      "word": "于和伟 病毒开始攻击检测工具了吗",
+      "onboard_time": 1670835435,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 27443,
