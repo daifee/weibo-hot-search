@@ -1,6 +1,6 @@
 {
   "startTime": 1670775913271,
-  "endTime": 1670848625870,
+  "endTime": 1670849782378,
   "band_list": [
     {
       "raw_hot": 4501119,
@@ -80,6 +80,14 @@
       "word": "女子确诊阳性丈夫塑料袋套头送水",
       "onboard_time": 1670844975,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1853091,
+      "num": 1853091,
+      "word": "刘加勇医生",
+      "onboard_time": 1670846836,
+      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -227,6 +235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1013783,
+      "num": 570939,
+      "word": "叶舒华好勇",
+      "onboard_time": 1670848274,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 988726,
       "num": 988726,
       "word": "预计1个月内达到感染峰值",
@@ -251,12 +267,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 945261,
-      "num": 945261,
-      "word": "刘加勇医生",
-      "onboard_time": 1670846836,
-      "rank": 6,
-      "category": "社会新闻"
+      "raw_hot": 954334,
+      "num": 954334,
+      "word": "黄桃罐头",
+      "onboard_time": 1670846536,
+      "rank": 8,
+      "category": "美食"
     },
     {
       "raw_hot": 942915,
@@ -337,14 +353,6 @@
       "onboard_time": 1670809511,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 769310,
-      "num": 769310,
-      "word": "黄桃罐头",
-      "onboard_time": 1670846536,
-      "rank": 8,
-      "category": "美食"
     },
     {
       "raw_hot": 756369,
@@ -459,20 +467,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 591761,
+      "num": 591761,
+      "word": "剪秋本宫的头好痛",
+      "onboard_time": 1670845396,
+      "rank": 11,
+      "category": "幽默,影视"
+    },
+    {
       "raw_hot": 583818,
       "num": 583818,
       "word": "女子住1楼质问物业为啥要交电梯费",
       "onboard_time": 1670828896,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 566395,
-      "num": 566395,
-      "word": "剪秋本宫的头好痛",
-      "onboard_time": 1670845396,
-      "rank": 11,
-      "category": "幽默,影视"
     },
     {
       "raw_hot": 563322,
@@ -529,6 +537,14 @@
       "onboard_time": 1670827755,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 535253,
+      "num": 535253,
+      "word": "杨紫车内侧颜随拍",
+      "onboard_time": 1670849177,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 532574,
@@ -611,6 +627,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 477542,
+      "num": 477542,
+      "word": "小说里的贵气感有了脸",
+      "onboard_time": 1670845817,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 471673,
       "num": 471673,
       "word": "想见你",
@@ -635,6 +659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 461881,
+      "num": 461881,
+      "word": "上海疫情风险区清零",
+      "onboard_time": 1670845337,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 459133,
       "num": 459133,
       "word": "赵丽颖清冷电影质感大片",
@@ -649,6 +681,14 @@
       "onboard_time": 1670815511,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 450885,
+      "num": 396033,
+      "word": "警方通报男子当街持刀捅死一女子",
+      "onboard_time": 1670844855,
+      "rank": 17,
+      "category": "社会负面"
     },
     {
       "raw_hot": 447787,
@@ -689,14 +729,6 @@
       "onboard_time": 1670842637,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 418237,
-      "num": 418237,
-      "word": "小说里的贵气感有了脸",
-      "onboard_time": 1670845817,
-      "rank": 15,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 409839,
@@ -761,14 +793,6 @@
       "onboard_time": 1670772736,
       "rank": 9,
       "category": "体育,音乐"
-    },
-    {
-      "raw_hot": 391461,
-      "num": 391461,
-      "word": "警方通报男子当街持刀捅死一女子",
-      "onboard_time": 1670844855,
-      "rank": 17,
-      "category": "社会负面"
     },
     {
       "raw_hot": 389944,
@@ -899,14 +923,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 340523,
-      "num": 340523,
-      "word": "上海疫情风险区清零",
-      "onboard_time": 1670845337,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 339973,
       "num": 339973,
       "word": "大爷垃圾桶内发现弃婴",
@@ -963,6 +979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 315968,
+      "num": 315968,
+      "word": "FoFo",
+      "onboard_time": 1670846955,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 313255,
       "num": 313255,
       "word": "开窗通风是否会有被传染的风险",
@@ -985,14 +1009,6 @@
       "onboard_time": 1670837357,
       "rank": 20,
       "category": "音乐,体育"
-    },
-    {
-      "raw_hot": 308066,
-      "num": 308066,
-      "word": "FoFo",
-      "onboard_time": 1670846955,
-      "rank": 23,
-      "category": "游戏"
     },
     {
       "raw_hot": 304648,
@@ -1129,14 +1145,6 @@
       "onboard_time": 1670814671,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 257097,
-      "num": 218309,
-      "word": "叶舒华好勇",
-      "onboard_time": 1670848274,
-      "rank": 31,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 255406,
@@ -1467,6 +1475,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 201741,
+      "num": 201741,
+      "word": "多喝水多睡觉对新冠管用吗",
+      "onboard_time": 1670849236,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 201669,
+      "num": 201669,
+      "word": "许半夏嫁对人了",
+      "onboard_time": 1670847735,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 201249,
       "num": 155784,
       "word": "新少年包拯定档1214",
@@ -1635,6 +1659,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 180044,
+      "num": 180044,
+      "word": "一诺",
+      "onboard_time": 1670849713,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 179947,
       "num": 179947,
       "word": "四川远古版疯狂的石头",
@@ -1699,14 +1731,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 173193,
-      "num": 173193,
-      "word": "许半夏嫁对人了",
-      "onboard_time": 1670847735,
-      "rank": 39,
-      "category": "影视"
-    },
-    {
       "raw_hot": 169354,
       "num": 169354,
       "word": "欧豪说野蛮是童骁骑的保护色",
@@ -1769,6 +1793,14 @@
       "onboard_time": 1670825474,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 165351,
+      "num": 165351,
+      "word": "AG",
+      "onboard_time": 1670849535,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 165236,
@@ -1849,6 +1881,14 @@
       "onboard_time": 1670800986,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 149808,
+      "num": 149808,
+      "word": "风吹半夏今晚记得来吃席",
+      "onboard_time": 1670849418,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 147702,
@@ -2020,7 +2060,7 @@
     },
     {
       "raw_hot": 131885,
-      "num": 131885,
+      "num": 1022351,
       "word": "压缩网络水军生存空间",
       "onboard_time": 1670814914,
       "rank": 38,
@@ -2121,6 +2161,14 @@
       "onboard_time": 1670767337,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 121529,
+      "num": 121529,
+      "word": "黄桃罐头如何引发囤货热潮",
+      "onboard_time": 1670849356,
+      "rank": 49,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 121341,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1670849782378,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1853091,
+        "num": 1853091,
+        "word": "刘加勇医生",
+        "onboard_time": 1670846836,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1176095,
+        "num": 1176095,
+        "word": "地狱犬",
+        "onboard_time": 1670838675,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28962,
+        "num": 1022351,
+        "word": "压缩网络水军生存空间",
+        "onboard_time": 1670814914,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2200195,
+        "num": 1017777,
+        "word": "女子确诊阳性丈夫塑料袋套头送水",
+        "onboard_time": 1670844975,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1007207,
+        "num": 1007207,
+        "word": "20221212",
+        "onboard_time": 1670843236,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1001432,
+        "num": 1001432,
+        "word": "健康码",
+        "onboard_time": 1670844556,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 954334,
+        "num": 954334,
+        "word": "黄桃罐头",
+        "onboard_time": 1670846536,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 784413,
+        "num": 784413,
+        "word": "Ning重回赛场",
+        "onboard_time": 1670846716,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 640284,
+        "num": 640284,
+        "word": "上班阳了算工伤吗",
+        "onboard_time": 1670829375,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 591761,
+        "num": 591761,
+        "word": "剪秋本宫的头好痛",
+        "onboard_time": 1670845396,
+        "rank": 9,
+        "category": "幽默,影视"
+      },
+      {
+        "raw_hot": 1013783,
+        "num": 570939,
+        "word": "叶舒华好勇",
+        "onboard_time": 1670848274,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 549694,
+        "num": 549694,
+        "word": "UP",
+        "onboard_time": 1670846476,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 535253,
+        "num": 535253,
+        "word": "杨紫车内侧颜随拍",
+        "onboard_time": 1670849177,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 523342,
+        "num": 523342,
+        "word": "于和伟 病毒开始攻击检测工具了吗",
+        "onboard_time": 1670835435,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 477542,
+        "num": 477542,
+        "word": "小说里的贵气感有了脸",
+        "onboard_time": 1670845817,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 461881,
+        "num": 461881,
+        "word": "上海疫情风险区清零",
+        "onboard_time": 1670845337,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 403511,
+        "num": 403511,
+        "word": "侯宁",
+        "onboard_time": 1670840298,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 450885,
+        "num": 396033,
+        "word": "警方通报男子当街持刀捅死一女子",
+        "onboard_time": 1670844855,
+        "rank": 17,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 386425,
+        "num": 386425,
+        "word": "北京确保研究生招生考试如期举行",
+        "onboard_time": 1670837298,
+        "rank": 18,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 328545,
+        "num": 328545,
+        "word": "除连花清瘟布洛芬外还有哪些药可用",
+        "onboard_time": 1670839577,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321744,
+        "num": 321744,
+        "word": "小男孩等妈妈生产一问爸爸去厕所了",
+        "onboard_time": 1670842637,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315968,
+        "num": 315968,
+        "word": "FoFo",
+        "onboard_time": 1670846955,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 293817,
+        "num": 293817,
+        "word": "谢霆锋帮李雪琴实现烤肠自由",
+        "onboard_time": 1670844497,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 278958,
+        "num": 278958,
+        "word": "宝娟我的嗓子",
+        "onboard_time": 1670828235,
+        "rank": 23,
+        "category": "幽默,影视"
+      },
+      {
+        "raw_hot": 277043,
+        "num": 277043,
+        "word": "何运晨说饭碗保住了",
+        "onboard_time": 1670847795,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 247540,
+        "num": 247540,
+        "word": "酒吧回应有人穿防护服蹦迪",
+        "onboard_time": 1670838019,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234278,
+        "num": 234278,
+        "word": "张文宏称新冠终将成为季节性流行病",
+        "onboard_time": 1670828411,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229051,
+        "num": 229051,
+        "word": "WE",
+        "onboard_time": 1670846612,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 226779,
+        "num": 226779,
+        "word": "男子喝水喉咙里像放了刀子一样",
+        "onboard_time": 1670822417,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210681,
+        "num": 210681,
+        "word": "蒲熠星说为了团队拼了",
+        "onboard_time": 1670847136,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 460092,
+        "num": 210493,
+        "word": "腾讯会议崩了",
+        "onboard_time": 1670827455,
+        "rank": 30,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 210009,
+        "num": 210009,
+        "word": "GQ 机智的回答也能获得大量曝光",
+        "onboard_time": 1670833817,
+        "rank": 31,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 203509,
+        "num": 203509,
+        "word": "感冒药看准五个字",
+        "onboard_time": 1670843596,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201741,
+        "num": 201741,
+        "word": "多喝水多睡觉对新冠管用吗",
+        "onboard_time": 1670849236,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201669,
+        "num": 201669,
+        "word": "许半夏嫁对人了",
+        "onboard_time": 1670847735,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 185052,
+        "num": 185052,
+        "word": "minji2022MAMA舞台直拍",
+        "onboard_time": 1670844196,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 181526,
+        "num": 181526,
+        "word": "要不还是给孩子点外卖吧",
+        "onboard_time": 1670842637,
+        "rank": 36,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 180109,
+        "num": 180109,
+        "word": "女子拔手指倒刺感染致手臂抬不起来",
+        "onboard_time": 1670841198,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180044,
+        "num": 180044,
+        "word": "一诺",
+        "onboard_time": 1670849713,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 175840,
+        "num": 175840,
+        "word": "12日北京一次性投放2500万抗原试剂",
+        "onboard_time": 1670838737,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174459,
+        "num": 174459,
+        "word": "C罗乘私人飞机离开卡塔尔",
+        "onboard_time": 1670826915,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165351,
+        "num": 165351,
+        "word": "AG",
+        "onboard_time": 1670849535,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 162365,
+        "num": 162365,
+        "word": "月歌行定档1215",
+        "onboard_time": 1670844019,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 156535,
+        "num": 156535,
+        "word": "scout",
+        "onboard_time": 1670841018,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 149808,
+        "num": 149808,
+        "word": "风吹半夏今晚记得来吃席",
+        "onboard_time": 1670849418,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 137220,
+        "num": 137220,
+        "word": "商家辟谣黄桃罐头无药效网友怼你不懂",
+        "onboard_time": 1670828775,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136099,
+        "num": 136099,
+        "word": "内马尔上内地综艺有多搞笑",
+        "onboard_time": 1670834178,
+        "rank": 46,
+        "category": "体育,综艺"
+      },
+      {
+        "raw_hot": 125516,
+        "num": 125516,
+        "word": "民警给骗子发自拍问我是你宝贝吗",
+        "onboard_time": 1670839938,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123941,
+        "num": 123941,
+        "word": "Doinb新赛季休息",
+        "onboard_time": 1670838076,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 121529,
+        "num": 121529,
+        "word": "黄桃罐头如何引发囤货热潮",
+        "onboard_time": 1670849356,
+        "rank": 49,
+        "category": "美食,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#构建新时代中阿命运共同体#"
+    }
+  }
+}
