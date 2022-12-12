@@ -1,6 +1,6 @@
 {
   "startTime": 1670775913271,
-  "endTime": 1670852308715,
+  "endTime": 1670854652694,
   "band_list": [
     {
       "raw_hot": 4501119,
@@ -27,8 +27,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2866048,
-      "num": 2866048,
+      "raw_hot": 2889760,
+      "num": 2889760,
       "word": "刘加勇医生",
       "onboard_time": 1670846836,
       "rank": 6,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 2261299,
-      "num": 1373665,
+      "num": 1539190,
       "word": "女子确诊阳性丈夫塑料袋套头送水",
       "onboard_time": 1670844975,
       "rank": 3,
@@ -123,20 +123,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1652068,
+      "num": 1652068,
+      "word": "黄桃罐头",
+      "onboard_time": 1670846536,
+      "rank": 8,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1636641,
       "num": 1636641,
       "word": "马嘉祺新歌偷的歌词",
       "onboard_time": 1670813112,
       "rank": 17,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1625398,
-      "num": 1625398,
-      "word": "黄桃罐头",
-      "onboard_time": 1670846536,
-      "rank": 8,
-      "category": "美食"
     },
     {
       "raw_hot": 1530771,
@@ -243,7 +243,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1018103,
+      "raw_hot": 1024347,
       "num": 501280,
       "word": "田亮森碟与赌王四太合照",
       "onboard_time": 1670850496,
@@ -395,6 +395,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 741565,
+      "num": 741565,
+      "word": "75元抗原卖200多被罚20万",
+      "onboard_time": 1670850737,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 734041,
       "num": 734041,
       "word": "Doinb新赛季休息",
@@ -408,6 +416,14 @@
       "word": "除连花清瘟布洛芬外还有哪些药可用",
       "onboard_time": 1670839577,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 712093,
+      "num": 479315,
+      "word": "女生教科书式防疫去上班第2天阳了",
+      "onboard_time": 1670852955,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -449,6 +465,14 @@
       "onboard_time": 1670838737,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 618654,
+      "num": 500774,
+      "word": "小说里的贵气感有了脸",
+      "onboard_time": 1670845817,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 614750,
@@ -497,14 +521,6 @@
       "onboard_time": 1670845396,
       "rank": 11,
       "category": "幽默,影视"
-    },
-    {
-      "raw_hot": 584573,
-      "num": 500774,
-      "word": "小说里的贵气感有了脸",
-      "onboard_time": 1670845817,
-      "rank": 15,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 583818,
@@ -593,6 +609,14 @@
       "onboard_time": 1670814551,
       "rank": 28,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 520751,
+      "num": 460638,
+      "word": "阳性者尽量少叫快递外卖",
+      "onboard_time": 1670853621,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 519941,
@@ -721,6 +745,14 @@
       "onboard_time": 1670802907,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 439818,
+      "num": 439818,
+      "word": "鲁豫有约官宣陈晓",
+      "onboard_time": 1670853017,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 430112,
@@ -899,14 +931,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 357626,
-      "num": 357626,
-      "word": "75元抗原卖200多被罚20万",
-      "onboard_time": 1670850737,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 355621,
       "num": 355621,
       "word": "名侦探学院",
@@ -963,12 +987,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 340554,
+      "num": 340554,
+      "word": "居家治疗转阴后如何消杀",
+      "onboard_time": 1670850676,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 339973,
       "num": 339973,
       "word": "大爷垃圾桶内发现弃婴",
       "onboard_time": 1670829977,
       "rank": 42,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 336450,
+      "num": 336450,
+      "word": "美国借口西藏人权制裁两名中国官员",
+      "onboard_time": 1670850378,
+      "rank": 33,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 335736,
@@ -1051,6 +1091,14 @@
       "category": "音乐,体育"
     },
     {
+      "raw_hot": 305124,
+      "num": 305124,
+      "word": "许半夏嫁对人了",
+      "onboard_time": 1670847735,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 304648,
       "num": 304648,
       "word": "爱的二八定律大结局",
@@ -1073,6 +1121,14 @@
       "onboard_time": 1670821634,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 291875,
+      "num": 291875,
+      "word": "家里有人阳了怎么预防",
+      "onboard_time": 1670851155,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 287819,
@@ -1155,20 +1211,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 274063,
-      "num": 274063,
-      "word": "许半夏嫁对人了",
-      "onboard_time": 1670847735,
-      "rank": 39,
-      "category": "影视"
-    },
-    {
       "raw_hot": 273597,
       "num": 273597,
       "word": "刘耀文说舞台就像一个家",
       "onboard_time": 1670836697,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 272058,
+      "num": 272058,
+      "word": "梅晓歌访问老乡傻哥宝根发小见面",
+      "onboard_time": 1670854277,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 262509,
@@ -1331,6 +1387,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 236728,
+      "num": 236728,
+      "word": "风吹半夏 王全",
+      "onboard_time": 1670852534,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 235504,
       "num": 235504,
       "word": "许半夏被裘毕正连累",
@@ -1345,22 +1409,6 @@
       "onboard_time": 1670847136,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 235259,
-      "num": 235259,
-      "word": "美国借口西藏人权制裁两名中国官员",
-      "onboard_time": 1670850378,
-      "rank": 33,
-      "category": "国内要闻"
-    },
-    {
-      "raw_hot": 235020,
-      "num": 216960,
-      "word": "居家治疗转阴后如何消杀",
-      "onboard_time": 1670850676,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 232307,
@@ -1643,6 +1691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 189848,
+      "num": 189848,
+      "word": "初次爱你",
+      "onboard_time": 1670854220,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 189143,
       "num": 189143,
       "word": "叮当快药回应网传有药不卖",
@@ -1744,14 +1800,6 @@
       "word": "如何让宠物在冬季有效保暖",
       "onboard_time": 1670847435,
       "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 176318,
-      "num": 176318,
-      "word": "家里有人阳了怎么预防",
-      "onboard_time": 1670851155,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -1923,6 +1971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 151204,
+      "num": 151204,
+      "word": "短短十几秒震惊我两次",
+      "onboard_time": 1670852355,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 151166,
       "num": 151166,
       "word": "王以太当客服说了65次亲",
@@ -1947,12 +2003,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 148945,
+      "num": 148945,
+      "word": "广东人对菜心爱到直接生吃",
+      "onboard_time": 1670853976,
+      "rank": 45,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 147702,
       "num": 147702,
       "word": "娃总打人爸爸喇叭循环放不要和他玩",
       "onboard_time": 1670832495,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147272,
+      "num": 147272,
+      "word": "刘耀文单曲不冬眠战报",
+      "onboard_time": 1670853194,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 146875,
@@ -2019,6 +2091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 140636,
+      "num": 140636,
+      "word": "陆虎为汪苏泷新专辑打call",
+      "onboard_time": 1670854515,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 140085,
       "num": 145014,
       "word": "放假回家路上的离谱事",
@@ -2033,6 +2113,14 @@
       "onboard_time": 1670840477,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 137230,
+      "num": 137230,
+      "word": "女子用自榨油做炸蛋膨胀成蘑菇云",
+      "onboard_time": 1670854277,
+      "rank": 48,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 136053,
@@ -2465,6 +2553,14 @@
       "onboard_time": 1670783050,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1421,
+      "num": 1561482,
+      "word": "感染者同住人要注意什么",
+      "onboard_time": 1670745075,
+      "rank": 2,
+      "category": "国内要闻"
     }
   ],
   "hotgov_list": [
