@@ -1,6 +1,6 @@
 {
   "startTime": 1670775913271,
-  "endTime": 1670829464523,
+  "endTime": 1670830423938,
   "band_list": [
     {
       "raw_hot": 4501119,
@@ -51,6 +51,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 1802548,
+      "num": 1802548,
+      "word": "宝娟我的嗓子",
+      "onboard_time": 1670828235,
+      "rank": 1,
+      "category": "幽默,影视"
+    },
+    {
       "raw_hot": 1774981,
       "num": 1774981,
       "word": "林秋离去世",
@@ -97,14 +105,6 @@
       "onboard_time": 1670763136,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1302537,
-      "num": 1302537,
-      "word": "宝娟我的嗓子",
-      "onboard_time": 1670828235,
-      "rank": 1,
-      "category": "幽默,影视"
     },
     {
       "raw_hot": 1282697,
@@ -171,12 +171,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 957825,
+      "num": 957825,
+      "word": "张文宏称新冠终将成为季节性流行病",
+      "onboard_time": 1670828411,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 957633,
       "num": 957633,
       "word": "武汉女子称这次感染和2020年很不同",
       "onboard_time": 1670809815,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 935962,
+      "num": 935962,
+      "word": "C罗乘私人飞机离开卡塔尔",
+      "onboard_time": 1670826915,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 922116,
@@ -219,20 +235,20 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 799862,
+      "num": 568485,
+      "word": "上班阳了算工伤吗",
+      "onboard_time": 1670829375,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 786665,
       "num": 786665,
       "word": "专家称新冠肺炎最终会降为丙类丙管",
       "onboard_time": 1670809511,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 757133,
-      "num": 757133,
-      "word": "C罗乘私人飞机离开卡塔尔",
-      "onboard_time": 1670826915,
-      "rank": 6,
-      "category": "体育"
     },
     {
       "raw_hot": 687311,
@@ -323,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 539677,
+      "num": 539677,
+      "word": "梅西发色是内马尔带他染的吧",
+      "onboard_time": 1670827755,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 532574,
       "num": 532574,
       "word": "普通的卡塔尔人家里长啥样",
@@ -353,14 +377,6 @@
       "onboard_time": 1670819732,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 502883,
-      "num": 502883,
-      "word": "梅西发色是内马尔带他染的吧",
-      "onboard_time": 1670827755,
-      "rank": 10,
-      "category": "体育"
     },
     {
       "raw_hot": 498358,
@@ -531,12 +547,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 357444,
+      "num": 357444,
+      "word": "女子住1楼质问物业为啥要交电梯费",
+      "onboard_time": 1670828896,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 355621,
       "num": 355621,
       "word": "名侦探学院",
       "onboard_time": 1670822234,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 354611,
+      "num": 354611,
+      "word": "商家辟谣黄桃罐头无药效网友怼你不懂",
+      "onboard_time": 1670828775,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 350352,
@@ -553,14 +585,6 @@
       "onboard_time": 1670815151,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 344448,
-      "num": 344448,
-      "word": "张文宏称新冠终将成为季节性流行病",
-      "onboard_time": 1670828411,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 342736,
@@ -779,6 +803,14 @@
       "category": "体育,音乐"
     },
     {
+      "raw_hot": 249655,
+      "num": 249655,
+      "word": "云之羽",
+      "onboard_time": 1670828297,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 248917,
       "num": 248917,
       "word": "厂家回应黄桃罐头中含有石头",
@@ -817,14 +849,6 @@
       "onboard_time": 1670769677,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 238434,
-      "num": 238434,
-      "word": "云之羽",
-      "onboard_time": 1670828297,
-      "rank": 23,
-      "category": "影视"
     },
     {
       "raw_hot": 238130,
@@ -1051,20 +1075,20 @@
       "category": "体育,音乐"
     },
     {
+      "raw_hot": 191783,
+      "num": 161475,
+      "word": "赵垒挑衅许半夏情敌",
+      "onboard_time": 1670830156,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 191634,
       "num": 483869,
       "word": "熬夜看球最6搭档",
       "onboard_time": 1670812691,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 189719,
-      "num": 189719,
-      "word": "商家辟谣黄桃罐头无药效网友怼你不懂",
-      "onboard_time": 1670828775,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 188843,
@@ -1139,14 +1163,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 174652,
-      "num": 174652,
-      "word": "女子住1楼质问物业为啥要交电梯费",
-      "onboard_time": 1670828896,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 173263,
       "num": 173263,
       "word": "小伙往返120公里给女友送零食",
@@ -1185,6 +1201,14 @@
       "onboard_time": 1670821514,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 166195,
+      "num": 105550,
+      "word": "许半夏给赵垒系领带花絮",
+      "onboard_time": 1670830397,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 165851,
@@ -1233,6 +1257,22 @@
       "onboard_time": 1670811851,
       "rank": 35,
       "category": "动漫,影视"
+    },
+    {
+      "raw_hot": 159525,
+      "num": 159525,
+      "word": "女孩跳楼男子飞身扑救当肉垫",
+      "onboard_time": 1670829617,
+      "rank": 35,
+      "category": "社会正能量"
+    },
+    {
+      "raw_hot": 156423,
+      "num": 156423,
+      "word": "能当水果吃的小黄姜",
+      "onboard_time": 1670828594,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 152566,
@@ -1395,14 +1435,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 129058,
-      "num": 129058,
-      "word": "能当水果吃的小黄姜",
-      "onboard_time": 1670828594,
-      "rank": 45,
-      "category": "美食"
-    },
-    {
       "raw_hot": 127297,
       "num": 127297,
       "word": "樊振东3比1马龙",
@@ -1435,20 +1467,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 125770,
-      "num": 125770,
-      "word": "上班阳了算工伤吗",
-      "onboard_time": 1670829375,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 125142,
       "num": 125142,
       "word": "看得出来他话很多",
       "onboard_time": 1670829316,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 124519,
+      "num": 124519,
+      "word": "大爷垃圾桶内发现弃婴",
+      "onboard_time": 1670829977,
+      "rank": 42,
+      "category": "社会负面"
     },
     {
       "raw_hot": 124384,
@@ -1515,6 +1547,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 111617,
+      "num": 111617,
+      "word": "学生谎称无桌写作业老师送桌上门",
+      "onboard_time": 1670829675,
+      "rank": 45,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 111026,
       "num": 111026,
       "word": "小米",
@@ -1539,12 +1579,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 105737,
+      "num": 105737,
+      "word": "民警找回5头牛获赠哞哞哞锦旗",
+      "onboard_time": 1670830397,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 104417,
       "num": 104417,
       "word": "当小狗被主人说变丑后",
       "onboard_time": 1670763020,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 104409,
+      "num": 104409,
+      "word": "这届家长是懂带娃的",
+      "onboard_time": 1670830397,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 102551,
