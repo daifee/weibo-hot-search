@@ -1,0 +1,410 @@
+{
+  "runTime": 1670833546818,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2334275,
+        "num": 2334275,
+        "word": "上班阳了算工伤吗",
+        "onboard_time": 1670829375,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1645460,
+        "num": 1645460,
+        "word": "宝娟我的嗓子",
+        "onboard_time": 1670828235,
+        "rank": 1,
+        "category": "幽默,影视"
+      },
+      {
+        "raw_hot": 109246,
+        "num": 1321677,
+        "word": "抗原自测9大注意事项",
+        "onboard_time": 1670806029,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1253421,
+        "num": 1253421,
+        "word": "男子喝水喉咙里像放了刀子一样",
+        "onboard_time": 1670822417,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1188813,
+        "num": 1188813,
+        "word": "张文宏称新冠终将成为季节性流行病",
+        "onboard_time": 1670828411,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1089285,
+        "num": 1089285,
+        "word": "顺丰崩了",
+        "onboard_time": 1670832916,
+        "rank": 5,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 769328,
+        "num": 769328,
+        "word": "C罗乘私人飞机离开卡塔尔",
+        "onboard_time": 1670826915,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 719986,
+        "num": 719986,
+        "word": "校方通报男生被指在女友孕期出轨",
+        "onboard_time": 1670818753,
+        "rank": 7,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 583818,
+        "num": 583818,
+        "word": "女子住1楼质问物业为啥要交电梯费",
+        "onboard_time": 1670828896,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 539968,
+        "num": 539968,
+        "word": "鹿晗想和C罗梅西踢场球",
+        "onboard_time": 1670827334,
+        "rank": 9,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 524495,
+        "num": 524495,
+        "word": "女孩跳楼男子飞身扑救当肉垫",
+        "onboard_time": 1670829617,
+        "rank": 10,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 488275,
+        "num": 488275,
+        "word": "商家辟谣黄桃罐头无药效网友怼你不懂",
+        "onboard_time": 1670828775,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 410609,
+        "num": 410609,
+        "word": "林秋离去世",
+        "onboard_time": 1670819233,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 380892,
+        "num": 380892,
+        "word": "塞尔维亚与科索沃处于开战边缘",
+        "onboard_time": 1670831777,
+        "rank": 13,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 359165,
+        "num": 359165,
+        "word": "大姨妈前奇怪的生理反应",
+        "onboard_time": 1670831116,
+        "rank": 14,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 333792,
+        "num": 333792,
+        "word": "大爷垃圾桶内发现弃婴",
+        "onboard_time": 1670829977,
+        "rank": 15,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 318086,
+        "num": 318086,
+        "word": "梅西发色是内马尔带他染的吧",
+        "onboard_time": 1670827755,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 299859,
+        "num": 299859,
+        "word": "英格兰队回国带回一只猫",
+        "onboard_time": 1670825295,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 262967,
+        "num": 262967,
+        "word": "连花清瘟胶囊有上百种替代药",
+        "onboard_time": 1670812330,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243055,
+        "num": 243055,
+        "word": "新冠出院后即使复阳也不传染",
+        "onboard_time": 1670824335,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233749,
+        "num": 233749,
+        "word": "大学生食堂盛汤夹走唯一汤骨被制止",
+        "onboard_time": 1670819233,
+        "rank": 20,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 205156,
+        "num": 205156,
+        "word": "水木一郎去世",
+        "onboard_time": 1670828657,
+        "rank": 21,
+        "category": "艺人,动漫"
+      },
+      {
+        "raw_hot": 197883,
+        "num": 197883,
+        "word": "云之羽",
+        "onboard_time": 1670828297,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 197692,
+        "num": 197692,
+        "word": "维C泡腾片为何不宜长期服用",
+        "onboard_time": 1670816112,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195821,
+        "num": 195821,
+        "word": "学生谎称无桌写作业老师送桌上门",
+        "onboard_time": 1670829675,
+        "rank": 24,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 194862,
+        "num": 194862,
+        "word": "田曦薇新剧齐刘海马尾造型",
+        "onboard_time": 1670818152,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 190819,
+        "num": 190819,
+        "word": "关晓彤黑裙复古大片",
+        "onboard_time": 1670833095,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 190069,
+        "num": 190069,
+        "word": "女子看错药名误服肛门栓剂",
+        "onboard_time": 1670820675,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189936,
+        "num": 189936,
+        "word": "赵垒挑衅许半夏情敌",
+        "onboard_time": 1670830156,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 176095,
+        "num": 176095,
+        "word": "名侦探学院",
+        "onboard_time": 1670822234,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 633808,
+        "num": 175958,
+        "word": "腾讯会议崩了",
+        "onboard_time": 1670827455,
+        "rank": 30,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 185836,
+        "num": 175565,
+        "word": "医疗机构可为新冠患者在线开具处方",
+        "onboard_time": 1670833034,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174940,
+        "num": 174940,
+        "word": "近一半结婚人群年龄超30岁",
+        "onboard_time": 1670819732,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167856,
+        "num": 167856,
+        "word": "R1SE官博更新",
+        "onboard_time": 1670820975,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 164396,
+        "num": 164396,
+        "word": "婆婆给出生9天宝宝喂米糊",
+        "onboard_time": 1670807348,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155784,
+        "num": 155784,
+        "word": "新少年包拯定档1214",
+        "onboard_time": 1670828536,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 143250,
+        "num": 143250,
+        "word": "余承东称华为手机又活过来了",
+        "onboard_time": 1670824218,
+        "rank": 36,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 136065,
+        "num": 136065,
+        "word": "电影想见你莫俊杰预告",
+        "onboard_time": 1670822835,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 125822,
+        "num": 134029,
+        "word": "娃总打人爸爸喇叭循环放不要和他玩",
+        "onboard_time": 1670832495,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166685,
+        "num": 133915,
+        "word": "杨坤为马嘉祺新歌打call",
+        "onboard_time": 1670833156,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 133718,
+        "num": 133718,
+        "word": "李宇春说来我们民谣2022看一场久违的live",
+        "onboard_time": 1670832629,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127744,
+        "num": 127744,
+        "word": "虞书欣云之羽造型反差感",
+        "onboard_time": 1670829256,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 125790,
+        "num": 125790,
+        "word": "行程卡行程码商标申请均被驳回",
+        "onboard_time": 1670817672,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121494,
+        "num": 121494,
+        "word": "普通的卡塔尔人家里长啥样",
+        "onboard_time": 1670822234,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120562,
+        "num": 120562,
+        "word": "能当水果吃的小黄姜",
+        "onboard_time": 1670828594,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 118111,
+        "num": 118111,
+        "word": "不愧是负责任的商家",
+        "onboard_time": 1670833095,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 109010,
+        "num": 109010,
+        "word": "阿里将推100场海外展会",
+        "onboard_time": 1670833458,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104711,
+        "num": 104711,
+        "word": "塞尔维亚",
+        "onboard_time": 1670811311,
+        "rank": 47,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 104422,
+        "num": 104422,
+        "word": "武汉女子称这次感染和2020年很不同",
+        "onboard_time": 1670809815,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92810,
+        "num": 92810,
+        "word": "这是川渝男人的标配服饰吗",
+        "onboard_time": 1670818453,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#敢字当头拿出拼劲#"
+    }
+  }
+}
