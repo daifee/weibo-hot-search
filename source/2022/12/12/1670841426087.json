@@ -1,0 +1,410 @@
+{
+  "runTime": 1670841426087,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1858091,
+        "num": 1858091,
+        "word": "上班阳了算工伤吗",
+        "onboard_time": 1670829375,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1431520,
+        "num": 1431520,
+        "word": "地狱犬",
+        "onboard_time": 1670838675,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45359,
+        "num": 944782,
+        "word": "抗原自测9大注意事项",
+        "onboard_time": 1670806029,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 935650,
+        "num": 935650,
+        "word": "北京确保研究生招生考试如期举行",
+        "onboard_time": 1670837298,
+        "rank": 3,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 753450,
+        "num": 753450,
+        "word": "男子喝水喉咙里像放了刀子一样",
+        "onboard_time": 1670822417,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 729584,
+        "num": 729584,
+        "word": "酒吧回应有人穿防护服蹦迪",
+        "onboard_time": 1670838019,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 648493,
+        "num": 648493,
+        "word": "Doinb新赛季休息",
+        "onboard_time": 1670838076,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 593201,
+        "num": 593201,
+        "word": "顺丰崩了",
+        "onboard_time": 1670832916,
+        "rank": 7,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 525107,
+        "num": 525107,
+        "word": "沈小婷确定不出席AAA颁奖礼",
+        "onboard_time": 1670838619,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 509281,
+        "num": 509281,
+        "word": "宝娟我的嗓子",
+        "onboard_time": 1670828235,
+        "rank": 9,
+        "category": "幽默,影视"
+      },
+      {
+        "raw_hot": 1305466,
+        "num": 507072,
+        "word": "于和伟 病毒开始攻击检测工具了吗",
+        "onboard_time": 1670835435,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 502073,
+        "num": 502073,
+        "word": "侯宁",
+        "onboard_time": 1670840298,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 488743,
+        "num": 488743,
+        "word": "张文宏称新冠终将成为季节性流行病",
+        "onboard_time": 1670828411,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 483670,
+        "num": 483670,
+        "word": "牛棚被烧毁老人小心询问灭火多少钱",
+        "onboard_time": 1670835435,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 451207,
+        "num": 451207,
+        "word": "想见你",
+        "onboard_time": 1670836337,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 451028,
+        "num": 451028,
+        "word": "12日北京一次性投放2500万抗原试剂",
+        "onboard_time": 1670838737,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 421807,
+        "num": 421807,
+        "word": "LNG",
+        "onboard_time": 1670838256,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 379968,
+        "num": 379968,
+        "word": "北京疫情发布会",
+        "onboard_time": 1670833696,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353744,
+        "num": 353744,
+        "word": "GQ 机智的回答也能获得大量曝光",
+        "onboard_time": 1670833817,
+        "rank": 18,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 333316,
+        "num": 333316,
+        "word": "除连花清瘟布洛芬外还有哪些药可用",
+        "onboard_time": 1670839577,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325818,
+        "num": 325818,
+        "word": "谢娜说感谢大家一路以来的掌声与陪伴",
+        "onboard_time": 1670838619,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 302806,
+        "num": 302806,
+        "word": "C罗乘私人飞机离开卡塔尔",
+        "onboard_time": 1670826915,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 284932,
+        "num": 284932,
+        "word": "女子住1楼质问物业为啥要交电梯费",
+        "onboard_time": 1670828896,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270386,
+        "num": 270386,
+        "word": "校方通报男生被指在女友孕期出轨",
+        "onboard_time": 1670818753,
+        "rank": 23,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 255108,
+        "num": 255108,
+        "word": "女孩跳楼男子飞身扑救当肉垫",
+        "onboard_time": 1670829617,
+        "rank": 24,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 254559,
+        "num": 254559,
+        "word": "北京发布新冠病毒感染者用药目录",
+        "onboard_time": 1670837298,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251589,
+        "num": 251589,
+        "word": "内马尔上内地综艺有多搞笑",
+        "onboard_time": 1670834178,
+        "rank": 26,
+        "category": "体育,综艺"
+      },
+      {
+        "raw_hot": 250358,
+        "num": 250358,
+        "word": "名侦探学院",
+        "onboard_time": 1670822234,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240321,
+        "num": 240321,
+        "word": "果然没人躲得过校园社死",
+        "onboard_time": 1670837420,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 228190,
+        "num": 228190,
+        "word": "易烊千玺奇迹送选金球奖",
+        "onboard_time": 1670834234,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 202591,
+        "num": 202591,
+        "word": "山东女生送闺蜜化妆品到内蒙被冻炸",
+        "onboard_time": 1670834355,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201604,
+        "num": 201604,
+        "word": "商家辟谣黄桃罐头无药效网友怼你不懂",
+        "onboard_time": 1670828775,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196919,
+        "num": 196919,
+        "word": "许半夏被裘毕正连累",
+        "onboard_time": 1670835435,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 196453,
+        "num": 196453,
+        "word": "民警给骗子发自拍问我是你宝贝吗",
+        "onboard_time": 1670839938,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195858,
+        "num": 195858,
+        "word": "大姨妈前奇怪的生理反应",
+        "onboard_time": 1670831116,
+        "rank": 34,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 193867,
+        "num": 193867,
+        "word": "英格兰队回国带回一只猫",
+        "onboard_time": 1670825295,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191593,
+        "num": 191593,
+        "word": "挂周深的电话是种什么体验",
+        "onboard_time": 1670837357,
+        "rank": 36,
+        "category": "音乐,体育"
+      },
+      {
+        "raw_hot": 175638,
+        "num": 175638,
+        "word": "鹿晗想和C罗梅西踢场球",
+        "onboard_time": 1670827334,
+        "rank": 37,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 173803,
+        "num": 173803,
+        "word": "scout",
+        "onboard_time": 1670841018,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 61424,
+        "num": 173070,
+        "word": "被淘宝卖家的那些举动暖到了",
+        "onboard_time": 1670839224,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172936,
+        "num": 172936,
+        "word": "腾讯会议崩了",
+        "onboard_time": 1670827455,
+        "rank": 40,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 169570,
+        "num": 169570,
+        "word": "大爷垃圾桶内发现弃婴",
+        "onboard_time": 1670829977,
+        "rank": 41,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 169007,
+        "num": 169007,
+        "word": "刘耀文说舞台就像一个家",
+        "onboard_time": 1670836697,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160491,
+        "num": 160491,
+        "word": "叮当快药回应网传有药不卖",
+        "onboard_time": 1670841137,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157366,
+        "num": 157366,
+        "word": "林秋离去世",
+        "onboard_time": 1670819233,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152063,
+        "num": 152063,
+        "word": "新冠出院后即使复阳也不传染",
+        "onboard_time": 1670824335,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145790,
+        "num": 145790,
+        "word": "被成都彩虹蘸料惊艳住了",
+        "onboard_time": 1670837236,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 144952,
+        "num": 144952,
+        "word": "2022LOL冬季转会期",
+        "onboard_time": 1670840596,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 144877,
+        "num": 144877,
+        "word": "女子拔手指倒刺感染致手臂抬不起来",
+        "onboard_time": 1670841198,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139355,
+        "num": 139355,
+        "word": "李艺彤文韬水下大片",
+        "onboard_time": 1670840477,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#敢字当头拿出拼劲#"
+    }
+  }
+}
