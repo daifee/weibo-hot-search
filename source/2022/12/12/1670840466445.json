@@ -1,0 +1,410 @@
+{
+  "runTime": 1670840466445,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1895186,
+        "num": 1895186,
+        "word": "上班阳了算工伤吗",
+        "onboard_time": 1670829375,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 940361,
+        "num": 940361,
+        "word": "北京确保研究生招生考试如期举行",
+        "onboard_time": 1670837298,
+        "rank": 1,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 48762,
+        "num": 880544,
+        "word": "抗原自测9大注意事项",
+        "onboard_time": 1670806029,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 872850,
+        "num": 872850,
+        "word": "顺丰崩了",
+        "onboard_time": 1670832916,
+        "rank": 3,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 829286,
+        "num": 829286,
+        "word": "地狱犬",
+        "onboard_time": 1670838675,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 783785,
+        "num": 783785,
+        "word": "男子喝水喉咙里像放了刀子一样",
+        "onboard_time": 1670822417,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 734041,
+        "num": 734041,
+        "word": "Doinb新赛季休息",
+        "onboard_time": 1670838076,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 593009,
+        "num": 593009,
+        "word": "宝娟我的嗓子",
+        "onboard_time": 1670828235,
+        "rank": 7,
+        "category": "幽默,影视"
+      },
+      {
+        "raw_hot": 551821,
+        "num": 551821,
+        "word": "牛棚被烧毁老人小心询问灭火多少钱",
+        "onboard_time": 1670835435,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 546302,
+        "num": 546302,
+        "word": "北京疫情发布会",
+        "onboard_time": 1670833696,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1439832,
+        "num": 545047,
+        "word": "于和伟 病毒开始攻击检测工具了吗",
+        "onboard_time": 1670835435,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 603049,
+        "num": 544395,
+        "word": "沈小婷确定不出席AAA颁奖礼",
+        "onboard_time": 1670838619,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 542206,
+        "num": 542206,
+        "word": "酒吧回应有人穿防护服蹦迪",
+        "onboard_time": 1670838019,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 503815,
+        "num": 503815,
+        "word": "张文宏称新冠终将成为季节性流行病",
+        "onboard_time": 1670828411,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 481705,
+        "num": 481705,
+        "word": "LNG",
+        "onboard_time": 1670838256,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 457947,
+        "num": 457947,
+        "word": "想见你",
+        "onboard_time": 1670836337,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 390987,
+        "num": 390987,
+        "word": "GQ 机智的回答也能获得大量曝光",
+        "onboard_time": 1670833817,
+        "rank": 16,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 384576,
+        "num": 384576,
+        "word": "C罗乘私人飞机离开卡塔尔",
+        "onboard_time": 1670826915,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 363627,
+        "num": 363627,
+        "word": "谢娜说感谢大家一路以来的掌声与陪伴",
+        "onboard_time": 1670838619,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 359238,
+        "num": 359238,
+        "word": "侯宁",
+        "onboard_time": 1670840298,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350090,
+        "num": 350090,
+        "word": "校方通报男生被指在女友孕期出轨",
+        "onboard_time": 1670818753,
+        "rank": 20,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 315104,
+        "num": 315104,
+        "word": "12日北京一次性投放2500万抗原试剂",
+        "onboard_time": 1670838737,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312843,
+        "num": 312843,
+        "word": "内马尔上内地综艺有多搞笑",
+        "onboard_time": 1670834178,
+        "rank": 22,
+        "category": "体育,综艺"
+      },
+      {
+        "raw_hot": 271876,
+        "num": 271876,
+        "word": "女子住1楼质问物业为啥要交电梯费",
+        "onboard_time": 1670828896,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253149,
+        "num": 253149,
+        "word": "女孩跳楼男子飞身扑救当肉垫",
+        "onboard_time": 1670829617,
+        "rank": 24,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 250316,
+        "num": 250316,
+        "word": "山东女生送闺蜜化妆品到内蒙被冻炸",
+        "onboard_time": 1670834355,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241831,
+        "num": 241831,
+        "word": "名侦探学院",
+        "onboard_time": 1670822234,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237340,
+        "num": 237340,
+        "word": "易烊千玺奇迹送选金球奖",
+        "onboard_time": 1670834234,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 233185,
+        "num": 233185,
+        "word": "北京发布新冠病毒感染者用药目录",
+        "onboard_time": 1670837298,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228820,
+        "num": 228820,
+        "word": "果然没人躲得过校园社死",
+        "onboard_time": 1670837420,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 236402,
+        "num": 228295,
+        "word": "挂周深的电话是种什么体验",
+        "onboard_time": 1670837357,
+        "rank": 30,
+        "category": "音乐,体育"
+      },
+      {
+        "raw_hot": 223546,
+        "num": 223546,
+        "word": "许半夏被裘毕正连累",
+        "onboard_time": 1670835435,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 219042,
+        "num": 219042,
+        "word": "商家辟谣黄桃罐头无药效网友怼你不懂",
+        "onboard_time": 1670828775,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207223,
+        "num": 207223,
+        "word": "大姨妈前奇怪的生理反应",
+        "onboard_time": 1670831116,
+        "rank": 33,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 176557,
+        "num": 203863,
+        "word": "除连花清瘟布洛芬外还有哪些药可用",
+        "onboard_time": 1670839577,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202858,
+        "num": 202858,
+        "word": "英格兰队回国带回一只猫",
+        "onboard_time": 1670825295,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190795,
+        "num": 190795,
+        "word": "刘耀文说舞台就像一个家",
+        "onboard_time": 1670836697,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185602,
+        "num": 185602,
+        "word": "鹿晗想和C罗梅西踢场球",
+        "onboard_time": 1670827334,
+        "rank": 37,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 185562,
+        "num": 185562,
+        "word": "腾讯会议崩了",
+        "onboard_time": 1670827455,
+        "rank": 38,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 55366,
+        "num": 184479,
+        "word": "被淘宝卖家的那些举动暖到了",
+        "onboard_time": 1670839224,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166822,
+        "num": 183984,
+        "word": "新冠出院后即使复阳也不传染",
+        "onboard_time": 1670824335,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183859,
+        "num": 183859,
+        "word": "大爷垃圾桶内发现弃婴",
+        "onboard_time": 1670829977,
+        "rank": 41,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 170310,
+        "num": 170310,
+        "word": "林秋离去世",
+        "onboard_time": 1670819233,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158419,
+        "num": 158419,
+        "word": "哪一刻异地恋情绪达到顶峰",
+        "onboard_time": 1670836276,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 146734,
+        "num": 146734,
+        "word": "被成都彩虹蘸料惊艳住了",
+        "onboard_time": 1670837236,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 146473,
+        "num": 146473,
+        "word": "专家释疑为何感觉身边无症状很少",
+        "onboard_time": 1670833934,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139451,
+        "num": 139451,
+        "word": "梅西发色是内马尔带他染的吧",
+        "onboard_time": 1670827755,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122321,
+        "num": 122321,
+        "word": "民警给骗子发自拍问我是你宝贝吗",
+        "onboard_time": 1670839938,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119262,
+        "num": 119262,
+        "word": "维C泡腾片为何不宜长期服用",
+        "onboard_time": 1670816112,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118803,
+        "num": 118803,
+        "word": "关晓彤黑裙复古大片",
+        "onboard_time": 1670833095,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#敢字当头拿出拼劲#"
+    }
+  }
+}

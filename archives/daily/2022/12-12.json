@@ -1,6 +1,6 @@
 {
   "startTime": 1670775913271,
-  "endTime": 1670837634754,
+  "endTime": 1670840466445,
   "band_list": [
     {
       "raw_hot": 4501119,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 3203505,
-      "num": 507299,
+      "num": 545047,
       "word": "于和伟 病毒开始攻击检测工具了吗",
       "onboard_time": 1670835435,
       "rank": 10,
@@ -211,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 940361,
+      "num": 940361,
+      "word": "北京确保研究生招生考试如期举行",
+      "onboard_time": 1670837298,
+      "rank": 11,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 935962,
       "num": 935962,
       "word": "C罗乘私人飞机离开卡塔尔",
@@ -240,6 +248,14 @@
       "word": "北京疫情发布会",
       "onboard_time": 1670833696,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 829286,
+      "num": 829286,
+      "word": "地狱犬",
+      "onboard_time": 1670838675,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -275,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 734041,
+      "num": 734041,
+      "word": "Doinb新赛季休息",
+      "onboard_time": 1670838076,
+      "rank": 6,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 687311,
       "num": 687311,
       "word": "英格兰队回国带回一只猫",
@@ -289,14 +313,6 @@
       "onboard_time": 1670820975,
       "rank": 10,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 685528,
-      "num": 505266,
-      "word": "北京确保研究生招生考试如期举行",
-      "onboard_time": 1670837298,
-      "rank": 11,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 676074,
@@ -329,6 +345,14 @@
       "onboard_time": 1670805308,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 603049,
+      "num": 544395,
+      "word": "沈小婷确定不出席AAA颁奖礼",
+      "onboard_time": 1670838619,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 595395,
@@ -379,6 +403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 551821,
+      "num": 551821,
+      "word": "牛棚被烧毁老人小心询问灭火多少钱",
+      "onboard_time": 1670835435,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 545239,
       "num": 545239,
       "word": "女孩跳楼男子飞身扑救当肉垫",
@@ -392,6 +424,14 @@
       "word": "新冠出院后即使复阳也不传染",
       "onboard_time": 1670824335,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 542206,
+      "num": 542206,
+      "word": "酒吧回应有人穿防护服蹦迪",
+      "onboard_time": 1670838019,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -475,6 +515,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 481705,
+      "num": 481705,
+      "word": "LNG",
+      "onboard_time": 1670838256,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 471673,
       "num": 471673,
       "word": "想见你",
@@ -545,14 +593,6 @@
       "onboard_time": 1670818217,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 409144,
-      "num": 409144,
-      "word": "牛棚被烧毁老人小心询问灭火多少钱",
-      "onboard_time": 1670835435,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 408478,
@@ -659,12 +699,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 363627,
+      "num": 363627,
+      "word": "谢娜说感谢大家一路以来的掌声与陪伴",
+      "onboard_time": 1670838619,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 359983,
       "num": 359983,
       "word": "钟欣潼说要跟阿Sa一起看女法医JD",
       "onboard_time": 1670819833,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 359238,
+      "num": 359238,
+      "word": "侯宁",
+      "onboard_time": 1670840298,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 355621,
@@ -752,6 +808,14 @@
       "word": "呼和浩特4.1级地震",
       "onboard_time": 1670800386,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 315104,
+      "num": 315104,
+      "word": "12日北京一次性投放2500万抗原试剂",
+      "onboard_time": 1670838737,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -1003,12 +1067,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 233185,
+      "num": 233185,
+      "word": "北京发布新冠病毒感染者用药目录",
+      "onboard_time": 1670837298,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 232307,
       "num": 232307,
       "word": "江苏省中医院公布防治新冠中药方",
       "onboard_time": 1670798467,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 228820,
+      "num": 228820,
+      "word": "果然没人躲得过校园社死",
+      "onboard_time": 1670837420,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 222075,
@@ -1331,6 +1411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 176557,
+      "num": 203863,
+      "word": "除连花清瘟布洛芬外还有哪些药可用",
+      "onboard_time": 1670839577,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 175616,
       "num": 175616,
       "word": "众星为大鹏新电影保你平安宣传",
@@ -1451,12 +1539,12 @@
       "category": "动漫,影视"
     },
     {
-      "raw_hot": 159567,
-      "num": 159567,
-      "word": "北京发布新冠病毒感染者用药目录",
-      "onboard_time": 1670837298,
-      "rank": 35,
-      "category": "社会新闻"
+      "raw_hot": 158419,
+      "num": 158419,
+      "word": "哪一刻异地恋情绪达到顶峰",
+      "onboard_time": 1670836276,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 156423,
@@ -1497,6 +1585,14 @@
       "onboard_time": 1670832495,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 146734,
+      "num": 146734,
+      "word": "被成都彩虹蘸料惊艳住了",
+      "onboard_time": 1670837236,
+      "rank": 44,
+      "category": "美食"
     },
     {
       "raw_hot": 145920,
@@ -1659,14 +1755,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 130056,
-      "num": 130056,
-      "word": "被成都彩虹蘸料惊艳住了",
-      "onboard_time": 1670837236,
-      "rank": 44,
-      "category": "美食"
-    },
-    {
       "raw_hot": 129846,
       "num": 129846,
       "word": "社牛新娘自己主持婚礼逗笑全场",
@@ -1731,6 +1819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 122321,
+      "num": 122321,
+      "word": "民警给骗子发自拍问我是你宝贝吗",
+      "onboard_time": 1670839938,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 121924,
       "num": 121924,
       "word": "苏醒说人一辈子或找到伴侣或忠于自己",
@@ -1777,14 +1873,6 @@
       "onboard_time": 1670772195,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 113415,
-      "num": 113415,
-      "word": "哪一刻异地恋情绪达到顶峰",
-      "onboard_time": 1670836276,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 112467,
@@ -1929,6 +2017,14 @@
       "onboard_time": 1670765116,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 55366,
+      "num": 184479,
+      "word": "被淘宝卖家的那些举动暖到了",
+      "onboard_time": 1670839224,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 41768,
