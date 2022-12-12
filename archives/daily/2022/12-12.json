@@ -1,6 +1,6 @@
 {
   "startTime": 1670775913271,
-  "endTime": 1670823217188,
+  "endTime": 1670826273946,
   "band_list": [
     {
       "raw_hot": 3734719,
@@ -8,6 +8,14 @@
       "word": "行程卡",
       "onboard_time": 1670776033,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2483345,
+      "num": 2483345,
+      "word": "男子喝水喉咙里像放了刀子一样",
+      "onboard_time": 1670822417,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -235,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 595027,
+      "num": 595027,
+      "word": "女子看错药名误服肛门栓剂",
+      "onboard_time": 1670820675,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 563322,
       "num": 563322,
       "word": "雷军回应对标iPhone被笑话",
@@ -243,11 +259,27 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 562946,
+      "num": 562946,
+      "word": "C罗回去了",
+      "onboard_time": 1670821934,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 554015,
       "num": 554015,
       "word": "克罗地亚称没有针对梅西制定计划",
       "onboard_time": 1670807891,
       "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 532574,
+      "num": 532574,
+      "word": "普通的卡塔尔人家里长啥样",
+      "onboard_time": 1670822234,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -267,14 +299,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 512845,
-      "num": 512845,
-      "word": "女子看错药名误服肛门栓剂",
-      "onboard_time": 1670820675,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 502921,
       "num": 502921,
       "word": "近一半结婚人群年龄超30岁",
@@ -289,6 +313,14 @@
       "onboard_time": 1670754021,
       "rank": 8,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 482255,
+      "num": 482255,
+      "word": "电影想见你莫俊杰预告",
+      "onboard_time": 1670822835,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 481817,
@@ -403,14 +435,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 386930,
-      "num": 386930,
-      "word": "男子喝水喉咙里像放了刀子一样",
-      "onboard_time": 1670822417,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 381056,
       "num": 381056,
       "word": "西安首批投放5000剂次吸入式新冠疫苗",
@@ -451,6 +475,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 355621,
+      "num": 355621,
+      "word": "名侦探学院",
+      "onboard_time": 1670822234,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 350352,
       "num": 350352,
       "word": "iPhone15Ultra或万元起步",
@@ -475,28 +507,12 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 342679,
-      "num": 342679,
-      "word": "电影想见你莫俊杰预告",
-      "onboard_time": 1670822835,
-      "rank": 19,
-      "category": "影视"
-    },
-    {
       "raw_hot": 342017,
       "num": 342017,
       "word": "狗狗被主人遗弃路边含泪等待新主人",
       "onboard_time": 1670813230,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 341355,
-      "num": 341355,
-      "word": "C罗回去了",
-      "onboard_time": 1670821934,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 335736,
@@ -547,6 +563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 311805,
+      "num": 311805,
+      "word": "新冠出院后即使复阳也不传染",
+      "onboard_time": 1670824335,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 304648,
       "num": 304648,
       "word": "爱的二八定律大结局",
@@ -568,14 +592,6 @@
       "word": "名侦探学院第六季官宣定档",
       "onboard_time": 1670821634,
       "rank": 27,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 290739,
-      "num": 290739,
-      "word": "名侦探学院",
-      "onboard_time": 1670822234,
-      "rank": 48,
       "category": "综艺"
     },
     {
@@ -715,14 +731,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 241227,
-      "num": 241227,
-      "word": "普通的卡塔尔人家里长啥样",
-      "onboard_time": 1670822234,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 240550,
       "num": 201983,
       "word": "蒋依依小品首秀",
@@ -739,12 +747,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 233087,
+      "num": 233087,
+      "word": "英格兰队回国带回一只猫",
+      "onboard_time": 1670825295,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 232307,
       "num": 232307,
       "word": "江苏省中医院公布防治新冠中药方",
       "onboard_time": 1670798467,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 229117,
+      "num": 229117,
+      "word": "余承东称华为手机又活过来了",
+      "onboard_time": 1670824218,
+      "rank": 25,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 222075,
@@ -801,6 +825,14 @@
       "onboard_time": 1670822714,
       "rank": 38,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 214513,
+      "num": 214513,
+      "word": "胡歌说自己是影视圈流动人口",
+      "onboard_time": 1670825594,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 212710,
@@ -900,11 +932,19 @@
     },
     {
       "raw_hot": 198210,
-      "num": 189075,
+      "num": 197435,
       "word": "许半夏童骁骑找王全讲和",
       "onboard_time": 1670822534,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 197270,
+      "num": 197270,
+      "word": "文韬的手电筒一开以为天亮了",
+      "onboard_time": 1670825594,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 196130,
@@ -993,6 +1033,22 @@
       "onboard_time": 1670817792,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 169354,
+      "num": 169354,
+      "word": "欧豪说野蛮是童骁骑的保护色",
+      "onboard_time": 1670825715,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 169161,
+      "num": 169161,
+      "word": "唐九洲说这次不是唐一洲是唐六洲",
+      "onboard_time": 1670825893,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 167943,
@@ -1089,6 +1145,14 @@
       "onboard_time": 1670770698,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 143180,
+      "num": 143180,
+      "word": "当主人帮狗狗出气后",
+      "onboard_time": 1670825474,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 140750,
@@ -1283,12 +1347,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 111566,
+      "num": 111566,
+      "word": "被梅西吃糖可爱到了",
+      "onboard_time": 1670825474,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 111026,
       "num": 111026,
       "word": "小米",
       "onboard_time": 1670757556,
       "rank": 37,
       "category": "科技"
+    },
+    {
+      "raw_hot": 109658,
+      "num": 109658,
+      "word": "云南普洱是世界茶叶的发源地",
+      "onboard_time": 1670825893,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 108192,
