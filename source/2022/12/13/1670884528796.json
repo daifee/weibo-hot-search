@@ -1,0 +1,410 @@
+{
+  "runTime": 1670884528796,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 413607,
+        "num": 413607,
+        "word": "男子称妻子孕肚像被蜈蚣爬满太恐怖",
+        "onboard_time": 1670860575,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 406020,
+        "num": 406020,
+        "word": "你身边有多少人中招了",
+        "onboard_time": 1670861775,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 10535,
+        "num": 283795,
+        "word": "感染者同住人要注意什么",
+        "onboard_time": 1670745075,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 196410,
+        "num": 196410,
+        "word": "新冠引起的发烧一般不超过4天",
+        "onboard_time": 1670860336,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178672,
+        "num": 178672,
+        "word": "阳性者尽量少叫快递外卖",
+        "onboard_time": 1670853621,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155590,
+        "num": 155590,
+        "word": "女子确诊阳性丈夫塑料袋套头送水",
+        "onboard_time": 1670844975,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155362,
+        "num": 155362,
+        "word": "伴娘穿露肩礼服肌肉健硕",
+        "onboard_time": 1670859855,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142002,
+        "num": 142002,
+        "word": "多喝水多睡觉对新冠管用吗",
+        "onboard_time": 1670849236,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125742,
+        "num": 125742,
+        "word": "素食主义家长问婴儿喝椰奶还是豆浆",
+        "onboard_time": 1670859494,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116142,
+        "num": 116142,
+        "word": "女子吃火锅加热3次还有蠕动虫子",
+        "onboard_time": 1670857156,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95879,
+        "num": 95879,
+        "word": "弟弟要买新车全家凑钱支持",
+        "onboard_time": 1670855419,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93146,
+        "num": 93146,
+        "word": "健康码会退出吗",
+        "onboard_time": 1670862674,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88486,
+        "num": 88486,
+        "word": "女生教科书式防疫去上班第2天阳了",
+        "onboard_time": 1670852955,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86651,
+        "num": 86651,
+        "word": "上海现60岁以上老人打疫苗1针奖500",
+        "onboard_time": 1670872090,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66640,
+        "num": 66640,
+        "word": "75元抗原卖200多被罚20万",
+        "onboard_time": 1670850737,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66619,
+        "num": 66619,
+        "word": "美国借口西藏人权制裁两名中国官员",
+        "onboard_time": 1670850378,
+        "rank": 15,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 64858,
+        "num": 64858,
+        "word": "于和伟 病毒开始攻击检测工具了吗",
+        "onboard_time": 1670835435,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56929,
+        "num": 56929,
+        "word": "行程卡带来了什么",
+        "onboard_time": 1670857819,
+        "rank": 17,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 56126,
+        "num": 56126,
+        "word": "宝鹃扮演者回应网友喊宝鹃",
+        "onboard_time": 1670860274,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 53924,
+        "num": 53924,
+        "word": "你计划什么年纪结婚",
+        "onboard_time": 1670862254,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 53700,
+        "num": 53700,
+        "word": "顾客吐槽摊主将菜价小数点嵌字里",
+        "onboard_time": 1670879709,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51321,
+        "num": 51321,
+        "word": "田亮森碟与赌王四太合照",
+        "onboard_time": 1670850496,
+        "rank": 21,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 48052,
+        "num": 48052,
+        "word": "小说里的贵气感有了脸",
+        "onboard_time": 1670845817,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 47970,
+        "num": 47970,
+        "word": "侯宁",
+        "onboard_time": 1670840298,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45178,
+        "num": 45178,
+        "word": "地狱犬的病原性与BA.5相同或更低",
+        "onboard_time": 1670882709,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44731,
+        "num": 44731,
+        "word": "家里有人阳了怎么预防",
+        "onboard_time": 1670851155,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44647,
+        "num": 44647,
+        "word": "健康码",
+        "onboard_time": 1670844556,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43782,
+        "num": 43782,
+        "word": "女子用自榨油做炸蛋膨胀成蘑菇云",
+        "onboard_time": 1670854277,
+        "rank": 27,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 42111,
+        "num": 42111,
+        "word": "刘加勇医生",
+        "onboard_time": 1670846836,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37343,
+        "num": 37343,
+        "word": "居家治疗转阴后如何消杀",
+        "onboard_time": 1670850676,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68383,
+        "num": 37107,
+        "word": "在北京的我这两天be like",
+        "onboard_time": 1670854035,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 36344,
+        "num": 36344,
+        "word": "黄桃罐头",
+        "onboard_time": 1670846536,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 35518,
+        "num": 35518,
+        "word": "田曦薇新剧初次爱你演医学少女",
+        "onboard_time": 1670865192,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 35089,
+        "num": 35089,
+        "word": "上海疫情风险区清零",
+        "onboard_time": 1670845337,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33357,
+        "num": 33357,
+        "word": "2023金球奖提名",
+        "onboard_time": 1670856617,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 31736,
+        "num": 31736,
+        "word": "除连花清瘟布洛芬外还有哪些药可用",
+        "onboard_time": 1670839577,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31123,
+        "num": 31123,
+        "word": "地狱犬",
+        "onboard_time": 1670838675,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27665,
+        "num": 27665,
+        "word": "郭帆评价阿凡达2",
+        "onboard_time": 1670858775,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 27212,
+        "num": 27212,
+        "word": "风吹半夏 王全",
+        "onboard_time": 1670852534,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 25144,
+        "num": 25144,
+        "word": "行程卡",
+        "onboard_time": 1670853917,
+        "rank": 39,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 25751,
+        "num": 24261,
+        "word": "许半夏嫁对人了",
+        "onboard_time": 1670847735,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 23296,
+        "num": 23296,
+        "word": "UP",
+        "onboard_time": 1670846476,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 21463,
+        "num": 21463,
+        "word": "剪秋本宫的头好痛",
+        "onboard_time": 1670845396,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 21309,
+        "num": 21309,
+        "word": "艺考时这猫坐我前面",
+        "onboard_time": 1670861533,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 19576,
+        "num": 19576,
+        "word": "叶舒华好勇",
+        "onboard_time": 1670848274,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 19476,
+        "num": 19476,
+        "word": "GQ 机智的回答也能获得大量曝光",
+        "onboard_time": 1670833817,
+        "rank": 45,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 19347,
+        "num": 19347,
+        "word": "这就是破碎感美人吧",
+        "onboard_time": 1670853075,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 18840,
+        "num": 18840,
+        "word": "用户行程卡数据将被删除",
+        "onboard_time": 1670854035,
+        "rank": 47,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 18106,
+        "num": 18106,
+        "word": "Ning重回赛场",
+        "onboard_time": 1670846716,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 17283,
+        "num": 17283,
+        "word": "广东人对菜心爱到直接生吃",
+        "onboard_time": 1670853976,
+        "rank": 49,
+        "category": "美食,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#构建新时代中阿命运共同体#"
+    }
+  }
+}

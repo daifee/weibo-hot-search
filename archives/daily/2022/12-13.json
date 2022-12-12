@@ -1,6 +1,6 @@
 {
   "startTime": 1670862485364,
-  "endTime": 1670883518301,
+  "endTime": 1670884528796,
   "band_list": [
     {
       "raw_hot": 1643130,
@@ -107,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 406020,
+      "num": 406020,
+      "word": "你身边有多少人中招了",
+      "onboard_time": 1670861775,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 402356,
       "num": 382359,
       "word": "宝鹃扮演者回应网友喊宝鹃",
@@ -161,14 +169,6 @@
       "onboard_time": 1670859494,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 305184,
-      "num": 305184,
-      "word": "你身边有多少人中招了",
-      "onboard_time": 1670861775,
-      "rank": 35,
-      "category": "情感"
     },
     {
       "raw_hot": 298406,
@@ -411,19 +411,19 @@
       "category": "时尚,艺人"
     },
     {
+      "raw_hot": 86651,
+      "num": 86651,
+      "word": "上海现60岁以上老人打疫苗1针奖500",
+      "onboard_time": 1670872090,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 82454,
       "num": 82454,
       "word": "我拍下的2022",
       "onboard_time": 1670863271,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 65649,
-      "num": 62518,
-      "word": "上海现60岁以上老人打疫苗1针奖500",
-      "onboard_time": 1670872090,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -435,6 +435,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 64858,
+      "num": 64858,
+      "word": "于和伟 病毒开始攻击检测工具了吗",
+      "onboard_time": 1670835435,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 61557,
       "num": 61557,
       "word": "这就是破碎感美人吧",
@@ -443,19 +451,19 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 56240,
-      "num": 56240,
-      "word": "于和伟 病毒开始攻击检测工具了吗",
-      "onboard_time": 1670835435,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 47461,
-      "num": 47461,
+      "raw_hot": 53700,
+      "num": 53700,
       "word": "顾客吐槽摊主将菜价小数点嵌字里",
       "onboard_time": 1670879709,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 45178,
+      "num": 45178,
+      "word": "地狱犬的病原性与BA.5相同或更低",
+      "onboard_time": 1670882709,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -465,14 +473,6 @@
       "onboard_time": 1670745075,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 20515,
-      "num": 20515,
-      "word": "地狱犬的病原性与BA.5相同或更低",
-      "onboard_time": 1670882709,
-      "rank": 39,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
