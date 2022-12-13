@@ -1,6 +1,6 @@
 {
   "startTime": 1670775913271,
-  "endTime": 1670960003375,
+  "endTime": 1670962814027,
   "band_list": [
     {
       "raw_hot": 4521108,
@@ -323,6 +323,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 1438213,
+      "num": 1438213,
+      "word": "阿根廷vs克罗地亚",
+      "onboard_time": 1670907551,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1311879,
       "num": 1311879,
       "word": "二次感染新冠会更严重吗",
@@ -643,6 +651,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 897409,
+      "num": 897409,
+      "word": "梅西点球破门",
+      "onboard_time": 1670960230,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 893257,
       "num": 893257,
       "word": "王曼昱感谢肖战",
@@ -665,14 +681,6 @@
       "onboard_time": 1670770825,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 863235,
-      "num": 863235,
-      "word": "阿根廷vs克罗地亚",
-      "onboard_time": 1670907551,
-      "rank": 21,
-      "category": "体育"
     },
     {
       "raw_hot": 854880,
@@ -1259,6 +1267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 525119,
+      "num": 525119,
+      "word": "阿根廷半场2比0克罗地亚",
+      "onboard_time": 1670961250,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 523322,
       "num": 523322,
       "word": "国家公祭日",
@@ -1385,6 +1401,14 @@
       "onboard_time": 1670937617,
       "rank": 49,
       "category": "体育,幽默"
+    },
+    {
+      "raw_hot": 484833,
+      "num": 484833,
+      "word": "梅西",
+      "onboard_time": 1670960049,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 483019,
@@ -1585,6 +1609,14 @@
       "onboard_time": 1670853017,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 439283,
+      "num": 439283,
+      "word": "阿根廷从未输过世界杯半决赛",
+      "onboard_time": 1670958489,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 433310,
@@ -2251,6 +2283,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 302607,
+      "num": 232677,
+      "word": "梅西成为世界杯历史出场王",
+      "onboard_time": 1670958968,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 300654,
       "num": 300654,
       "word": "范志毅向前国足后卫赵鹏道歉",
@@ -2771,6 +2811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 232843,
+      "num": 232843,
+      "word": "克罗地亚球衣",
+      "onboard_time": 1670958729,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 232817,
       "num": 232817,
       "word": "工人施工不使用安全带被罚展览一天",
@@ -2843,6 +2891,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 222993,
+      "num": 222993,
+      "word": "阿尔瓦雷斯超级一条龙破门",
+      "onboard_time": 1670961129,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 222075,
       "num": 222075,
       "word": "小米13",
@@ -2897,6 +2953,14 @@
       "onboard_time": 1670887448,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 219709,
+      "num": 177289,
+      "word": "C罗不打算从国家队退役",
+      "onboard_time": 1670957709,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 219124,
@@ -3081,6 +3145,14 @@
       "onboard_time": 1670808310,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 203855,
+      "num": 174471,
+      "word": "梅西成为阿根廷队世界杯射手王",
+      "onboard_time": 1670962029,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 202853,
@@ -3329,6 +3401,14 @@
       "onboard_time": 1670909351,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 188007,
+      "num": 188007,
+      "word": "小罗",
+      "onboard_time": 1670962210,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 187981,
@@ -4283,6 +4363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 126824,
+      "num": 126824,
+      "word": "阿尔瓦雷斯造点",
+      "onboard_time": 1670961129,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 126730,
       "num": 126730,
       "word": "2022年全国粮食总产量",
@@ -4531,14 +4619,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 113369,
-      "num": 113369,
-      "word": "克罗地亚球衣",
-      "onboard_time": 1670958729,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 112802,
       "num": 112802,
       "word": "7岁女孩写行草书行云流水",
@@ -4635,14 +4715,6 @@
       "category": "国内要闻,军事"
     },
     {
-      "raw_hot": 107894,
-      "num": 81984,
-      "word": "阿根廷从未输过世界杯半决赛",
-      "onboard_time": 1670958489,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 106797,
       "num": 101855,
       "word": "米卢认为克罗地亚状态极佳",
@@ -4657,6 +4729,14 @@
       "onboard_time": 1670830397,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 105407,
+      "num": 105407,
+      "word": "裁判",
+      "onboard_time": 1670962090,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 104947,
@@ -4721,14 +4801,6 @@
       "onboard_time": 1670863033,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 96808,
-      "num": 79065,
-      "word": "C罗不打算从国家队退役",
-      "onboard_time": 1670957709,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 96037,
@@ -4851,6 +4923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 67588,
+      "num": 40241,
+      "word": "克罗地亚究竟强在哪儿",
+      "onboard_time": 1670948892,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 64530,
       "num": 456846,
       "word": "告诉你为什么不能忘记南京大屠杀",
@@ -4875,14 +4955,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 61174,
-      "num": 33440,
-      "word": "梅西成为世界杯历史出场王",
-      "onboard_time": 1670958968,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 61146,
       "num": 320621,
       "word": "为30余万南京大屠杀遇难同胞默哀",
@@ -4891,12 +4963,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 56719,
+      "num": 24732,
+      "word": "梅西莫德里奇拥抱",
+      "onboard_time": 1670962090,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 56220,
       "num": 1561482,
       "word": "感染者同住人要注意什么",
       "onboard_time": 1670745075,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 48419,
+      "num": 37633,
+      "word": "阿根廷主帅看球迷雨中庆祝落泪",
+      "onboard_time": 1670950631,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 47881,
@@ -4937,22 +5025,6 @@
       "onboard_time": 1670940074,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 40241,
-      "num": 40241,
-      "word": "克罗地亚究竟强在哪儿",
-      "onboard_time": 1670948892,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 34297,
-      "num": 33417,
-      "word": "阿根廷主帅看球迷雨中庆祝落泪",
-      "onboard_time": 1670950631,
-      "rank": 32,
-      "category": "体育"
     }
   ],
   "hotgov_list": [
