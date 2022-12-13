@@ -1,6 +1,6 @@
 {
   "startTime": 1670775913271,
-  "endTime": 1670938660858,
+  "endTime": 1670941083984,
   "band_list": [
     {
       "raw_hot": 4521108,
@@ -49,6 +49,14 @@
       "onboard_time": 1670914392,
       "rank": 0,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 3245351,
+      "num": 3245351,
+      "word": "马航MH370起落架舱门残骸被发现",
+      "onboard_time": 1670938393,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3203505,
@@ -411,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1107765,
+      "num": 1107765,
+      "word": "N95口罩与KN95的区别",
+      "onboard_time": 1670939416,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1104449,
       "num": 1006493,
       "word": "行程卡行程码商标申请均被驳回",
@@ -675,6 +691,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 791952,
+      "num": 791952,
+      "word": "县委大院编剧为创作曾挂职副县长半年",
+      "onboard_time": 1670937792,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 786665,
       "num": 786665,
       "word": "专家称新冠肺炎最终会降为丙类丙管",
@@ -777,6 +801,14 @@
       "onboard_time": 1670901613,
       "rank": 27,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 726915,
+      "num": 726915,
+      "word": "风吹半夏结局",
+      "onboard_time": 1670939594,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 722428,
@@ -1187,6 +1219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 508562,
+      "num": 508562,
+      "word": "seventeen获AAA年度歌手",
+      "onboard_time": 1670938934,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 503655,
       "num": 503655,
       "word": "4人消费近300元后趁店家忙逃单",
@@ -1249,6 +1289,14 @@
       "onboard_time": 1670929511,
       "rank": 19,
       "category": "军事,国内要闻"
+    },
+    {
+      "raw_hot": 485089,
+      "num": 485089,
+      "word": "梅西说给你俩窝窝",
+      "onboard_time": 1670937617,
+      "rank": 49,
+      "category": "体育,幽默"
     },
     {
       "raw_hot": 483019,
@@ -1579,6 +1627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 398959,
+      "num": 398959,
+      "word": "王若吉",
+      "onboard_time": 1670940554,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 397181,
       "num": 397181,
       "word": "大姨妈前奇怪的生理反应",
@@ -1625,6 +1681,14 @@
       "onboard_time": 1670772736,
       "rank": 9,
       "category": "体育,音乐"
+    },
+    {
+      "raw_hot": 392848,
+      "num": 392848,
+      "word": "欧文预测克罗地亚淘汰阿根廷",
+      "onboard_time": 1670936353,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 389944,
@@ -2011,6 +2075,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 312704,
+      "num": 312704,
+      "word": "广西药店回应外地网友抢购药品",
+      "onboard_time": 1670929217,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 312534,
       "num": 312534,
       "word": "国务院联防联控机制新闻发布会",
@@ -2065,14 +2137,6 @@
       "onboard_time": 1670761458,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 300521,
-      "num": 300521,
-      "word": "广西药店回应外地网友抢购药品",
-      "onboard_time": 1670929217,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 297177,
@@ -2299,6 +2363,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 257338,
+      "num": 257338,
+      "word": "沈腾是懂送礼物的",
+      "onboard_time": 1670938334,
+      "rank": 37,
+      "category": "作品衍生,幽默"
+    },
+    {
       "raw_hot": 257052,
       "num": 257052,
       "word": "上海现60岁以上老人打疫苗1针奖500",
@@ -2387,6 +2459,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 247589,
+      "num": 247589,
+      "word": "张元英AAA主持出场视频",
+      "onboard_time": 1670940134,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 246997,
       "num": 246997,
       "word": "Irene人歌Birthday直拍",
@@ -2456,14 +2536,6 @@
       "word": "罗云熙白鹿月照千峰过审",
       "onboard_time": 1670893269,
       "rank": 29,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 242268,
-      "num": 242268,
-      "word": "县委大院编剧为创作曾挂职副县长半年",
-      "onboard_time": 1670937792,
-      "rank": 42,
       "category": "影视"
     },
     {
@@ -2545,6 +2617,14 @@
       "onboard_time": 1670798467,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 230865,
+      "num": 230865,
+      "word": "卡塔尔世界杯首场半决赛",
+      "onboard_time": 1670937015,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 230590,
@@ -2705,14 +2785,6 @@
       "onboard_time": 1670822714,
       "rank": 38,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 215279,
-      "num": 215279,
-      "word": "梅西说给你俩窝窝",
-      "onboard_time": 1670937617,
-      "rank": 49,
-      "category": "体育,幽默"
     },
     {
       "raw_hot": 214019,
@@ -2891,14 +2963,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 199743,
-      "num": 199743,
-      "word": "马航MH370起落架舱门残骸被发现",
-      "onboard_time": 1670938393,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 199670,
       "num": 199670,
       "word": "内马尔发文要重新振作",
@@ -2921,6 +2985,14 @@
       "onboard_time": 1670834955,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 198650,
+      "num": 198650,
+      "word": "一家4人阳性男子自驾600公里回家",
+      "onboard_time": 1670940674,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 198432,
@@ -2955,14 +3027,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 196621,
-      "num": 196621,
-      "word": "沈腾是懂送礼物的",
-      "onboard_time": 1670938334,
-      "rank": 37,
-      "category": "作品衍生,幽默"
-    },
-    {
       "raw_hot": 196130,
       "num": 196130,
       "word": "女儿月薪3千攒1年钱为妈妈买金手镯",
@@ -2977,14 +3041,6 @@
       "onboard_time": 1670858419,
       "rank": 47,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 195449,
-      "num": 195449,
-      "word": "卡塔尔世界杯首场半决赛",
-      "onboard_time": 1670937015,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 194786,
@@ -3251,6 +3307,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 174649,
+      "num": 174649,
+      "word": "女子心情不好爷爷拿糖来哄",
+      "onboard_time": 1670935874,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173334,
       "num": 173334,
       "word": "这是今日10点的南京",
@@ -3321,6 +3385,14 @@
       "onboard_time": 1670803688,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 167685,
+      "num": 167685,
+      "word": "美国11月CPI同比7.1%",
+      "onboard_time": 1670940854,
+      "rank": 45,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 167346,
@@ -3547,6 +3619,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 153049,
+      "num": 153049,
+      "word": "退烧药和复方感冒药别一起吃",
+      "onboard_time": 1670940854,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 153042,
       "num": 153042,
       "word": "1000多年前古人就在茶上拉花了",
@@ -3601,14 +3681,6 @@
       "onboard_time": 1670849418,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 149603,
-      "num": 149603,
-      "word": "女子心情不好爷爷拿糖来哄",
-      "onboard_time": 1670935874,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 147702,
@@ -3681,14 +3753,6 @@
       "onboard_time": 1670770698,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 143389,
-      "num": 143389,
-      "word": "欧文预测克罗地亚淘汰阿根廷",
-      "onboard_time": 1670936353,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 142954,
@@ -4523,6 +4587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 57178,
+      "num": 1559442,
+      "word": "不同年龄段儿童退烧药怎么选",
+      "onboard_time": 1670921474,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 56220,
       "num": 1561482,
       "word": "感染者同住人要注意什么",
@@ -4561,6 +4633,14 @@
       "onboard_time": 1670783050,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 40460,
+      "num": 472269,
+      "word": "这座城从未停止与那段历史对话",
+      "onboard_time": 1670940074,
+      "rank": 14,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

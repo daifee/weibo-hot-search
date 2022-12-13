@@ -1,0 +1,410 @@
+{
+  "runTime": 1670941083984,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3245351,
+        "num": 3245351,
+        "word": "马航MH370起落架舱门残骸被发现",
+        "onboard_time": 1670938393,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1645052,
+        "num": 1645052,
+        "word": "新冠特效药",
+        "onboard_time": 1670923513,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57178,
+        "num": 1559442,
+        "word": "不同年龄段儿童退烧药怎么选",
+        "onboard_time": 1670921474,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1543577,
+        "num": 1543577,
+        "word": "阳敌",
+        "onboard_time": 1670920693,
+        "rank": 3,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 1211455,
+        "num": 1211455,
+        "word": "男子发烧近40度床上印出人形汗印",
+        "onboard_time": 1670926933,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1107765,
+        "num": 1107765,
+        "word": "N95口罩与KN95的区别",
+        "onboard_time": 1670939416,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 948356,
+        "num": 948356,
+        "word": "地狱犬已在9省份检出但尚未流行",
+        "onboard_time": 1670924354,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 838014,
+        "num": 838014,
+        "word": "被烧伤四人求助已被停止治疗",
+        "onboard_time": 1670926995,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 791952,
+        "num": 791952,
+        "word": "县委大院编剧为创作曾挂职副县长半年",
+        "onboard_time": 1670937792,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 726915,
+        "num": 726915,
+        "word": "风吹半夏结局",
+        "onboard_time": 1670939594,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 596092,
+        "num": 596092,
+        "word": "王曼昱感谢肖战",
+        "onboard_time": 1670934672,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 519756,
+        "num": 519756,
+        "word": "许半夏变卖家产补偿滩涂村民",
+        "onboard_time": 1670934616,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 508562,
+        "num": 508562,
+        "word": "seventeen获AAA年度歌手",
+        "onboard_time": 1670938934,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 485089,
+        "num": 485089,
+        "word": "梅西说给你俩窝窝",
+        "onboard_time": 1670937617,
+        "rank": 13,
+        "category": "体育,幽默"
+      },
+      {
+        "raw_hot": 40460,
+        "num": 472269,
+        "word": "这座城从未停止与那段历史对话",
+        "onboard_time": 1670940074,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 466830,
+        "num": 466830,
+        "word": "明星们一定要这样带货吗",
+        "onboard_time": 1670921953,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 424205,
+        "num": 424205,
+        "word": "男孩患罕见病长61厘米长巨手",
+        "onboard_time": 1670935453,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 419752,
+        "num": 419752,
+        "word": "克罗地亚阿根廷预测",
+        "onboard_time": 1670931192,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 398959,
+        "num": 398959,
+        "word": "王若吉",
+        "onboard_time": 1670940554,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 392848,
+        "num": 392848,
+        "word": "欧文预测克罗地亚淘汰阿根廷",
+        "onboard_time": 1670936353,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 391934,
+        "num": 391934,
+        "word": "考研准考证",
+        "onboard_time": 1670924417,
+        "rank": 20,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 366560,
+        "num": 366560,
+        "word": "谷歌拒将正确中国国歌置顶",
+        "onboard_time": 1670921832,
+        "rank": 21,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 347516,
+        "num": 347516,
+        "word": "再见爱人 卢歌苏诗丁",
+        "onboard_time": 1670934312,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 346370,
+        "num": 346370,
+        "word": "第一次感觉那么对不起狗",
+        "onboard_time": 1670935034,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 312704,
+        "num": 312704,
+        "word": "广西药店回应外地网友抢购药品",
+        "onboard_time": 1670929217,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301281,
+        "num": 301281,
+        "word": "女子洗碗用猪食充当洗洁精引争议",
+        "onboard_time": 1670931074,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293762,
+        "num": 293762,
+        "word": "老师阳性后用唐老鸭式哑音上课",
+        "onboard_time": 1670925313,
+        "rank": 26,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 270112,
+        "num": 270112,
+        "word": "宝宝拉在床上爸爸直接将床单剪洞",
+        "onboard_time": 1670925735,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257338,
+        "num": 257338,
+        "word": "沈腾是懂送礼物的",
+        "onboard_time": 1670938334,
+        "rank": 28,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 252738,
+        "num": 252738,
+        "word": "为什么不建议大家异地恋",
+        "onboard_time": 1670923694,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 247589,
+        "num": 247589,
+        "word": "张元英AAA主持出场视频",
+        "onboard_time": 1670940134,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 239504,
+        "num": 239504,
+        "word": "刘畊宏直播",
+        "onboard_time": 1670932332,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230865,
+        "num": 230865,
+        "word": "卡塔尔世界杯首场半决赛",
+        "onboard_time": 1670937015,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 227515,
+        "num": 227515,
+        "word": "女子吃饭相中碗服务员一把薅出",
+        "onboard_time": 1670926095,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226022,
+        "num": 226022,
+        "word": "35岁梅西对阵37岁莫德里奇",
+        "onboard_time": 1670932693,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 225901,
+        "num": 225901,
+        "word": "女子下班回家发现2千万豪宅塌了",
+        "onboard_time": 1670914032,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225672,
+        "num": 225672,
+        "word": "父子3人中招宝妈一拖三照顾陪输液",
+        "onboard_time": 1670931616,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218207,
+        "num": 218207,
+        "word": "杨迪",
+        "onboard_time": 1670915415,
+        "rank": 37,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 210737,
+        "num": 210737,
+        "word": "晒干的橘子皮就是陈皮吗",
+        "onboard_time": 1670928495,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 200281,
+        "num": 200281,
+        "word": "感染后第三天症状最重",
+        "onboard_time": 1670915415,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198650,
+        "num": 198650,
+        "word": "一家4人阳性男子自驾600公里回家",
+        "onboard_time": 1670940674,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 713518,
+        "num": 198381,
+        "word": "小红书现异地购药攻略抢占县城退烧药",
+        "onboard_time": 1670924774,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196157,
+        "num": 196157,
+        "word": "宜宾世界杯1.4亿赌球案告破",
+        "onboard_time": 1670929993,
+        "rank": 42,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 183868,
+        "num": 183868,
+        "word": "阿凡达2好看吗",
+        "onboard_time": 1670935573,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 174649,
+        "num": 174649,
+        "word": "女子心情不好爷爷拿糖来哄",
+        "onboard_time": 1670935874,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167685,
+        "num": 167685,
+        "word": "美国11月CPI同比7.1%",
+        "onboard_time": 1670940854,
+        "rank": 45,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 163765,
+        "num": 163765,
+        "word": "王曼昱主管教练",
+        "onboard_time": 1670922554,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163306,
+        "num": 163306,
+        "word": "杨紫范丞丞199爱改名要久久爱",
+        "onboard_time": 1670928194,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 155874,
+        "num": 155874,
+        "word": "陈采尼将去GQ现场点评红毯",
+        "onboard_time": 1670938094,
+        "rank": 48,
+        "category": "时尚,网红"
+      },
+      {
+        "raw_hot": 153049,
+        "num": 153049,
+        "word": "退烧药和复方感冒药别一起吃",
+        "onboard_time": 1670940854,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#第9个国家公祭日#"
+    }
+  }
+}
