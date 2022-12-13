@@ -1,6 +1,6 @@
 {
   "startTime": 1670862485364,
-  "endTime": 1670888102755,
+  "endTime": 1670895746645,
   "band_list": [
     {
       "raw_hot": 1643130,
@@ -11,12 +11,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1271247,
-      "num": 1271247,
+      "raw_hot": 1324981,
+      "num": 1324981,
       "word": "阳性者尽量少叫快递外卖",
       "onboard_time": 1670853621,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1206737,
+      "num": 890786,
+      "word": "孕妇怕感染在车里办公",
+      "onboard_time": 1670891529,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1137013,
+      "num": 242277,
+      "word": "腾讯会议",
+      "onboard_time": 1670892130,
+      "rank": 30,
+      "category": "科技"
     },
     {
       "raw_hot": 1078578,
@@ -25,6 +41,22 @@
       "onboard_time": 1670854035,
       "rank": 3,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 1023233,
+      "num": 1023233,
+      "word": "顾客买49.9元草莓塔全是绿色草莓",
+      "onboard_time": 1670887868,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 848193,
+      "num": 848193,
+      "word": "黄磊县委大院演技",
+      "onboard_time": 1670889969,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 790068,
@@ -51,6 +83,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 677629,
+      "num": 677629,
+      "word": "阳康多久可以返岗",
+      "onboard_time": 1670892130,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 650286,
       "num": 650286,
       "word": "行程卡带来了什么",
@@ -67,11 +107,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 610574,
+      "num": 610574,
+      "word": "马斯克失去世界首富位置",
+      "onboard_time": 1670893148,
+      "rank": 6,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 592482,
       "num": 592482,
       "word": "女子吃火锅加热3次还有蠕动虫子",
       "onboard_time": 1670857156,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 566097,
+      "num": 566097,
+      "word": "错把酒精当生理盐水28天女婴角膜烧伤",
+      "onboard_time": 1670887147,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -83,8 +139,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 515189,
+      "num": 515189,
+      "word": "上海置地广场店员称一小时客流堪比一周",
+      "onboard_time": 1670888287,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 507447,
-      "num": 218210,
+      "num": 325414,
       "word": "在北京的我这两天be like",
       "onboard_time": 1670854035,
       "rank": 30,
@@ -107,12 +171,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 469453,
-      "num": 263012,
-      "word": "错把酒精当生理盐水28天女婴角膜烧伤",
-      "onboard_time": 1670887147,
-      "rank": 32,
+      "raw_hot": 471161,
+      "num": 471161,
+      "word": "主人给狗晒窝忘收回狗子委屈哭泣",
+      "onboard_time": 1670888168,
+      "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 461865,
+      "num": 461865,
+      "word": "沧州空气",
+      "onboard_time": 1670892552,
+      "rank": 11,
+      "category": "社会负面"
     },
     {
       "raw_hot": 457687,
@@ -121,6 +193,14 @@
       "onboard_time": 1670859855,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 445328,
+      "num": 445328,
+      "word": "国家公祭日",
+      "onboard_time": 1670887627,
+      "rank": 13,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 402356,
@@ -139,10 +219,26 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 384707,
+      "num": 384707,
+      "word": "嗓子疼如何缓解",
+      "onboard_time": 1670889612,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 369862,
       "num": 369862,
       "word": "多喝水多睡觉对新冠管用吗",
       "onboard_time": 1670849236,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 366501,
+      "num": 366501,
+      "word": "阳性了之后怎么还失眠了",
+      "onboard_time": 1670890388,
       "rank": 14,
       "category": "社会新闻"
     },
@@ -153,6 +249,14 @@
       "onboard_time": 1670850496,
       "rank": 12,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 360219,
+      "num": 360219,
+      "word": "一楼的住户该不该交电梯费",
+      "onboard_time": 1670886968,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 357098,
@@ -169,6 +273,14 @@
       "onboard_time": 1670844556,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 352906,
+      "num": 352906,
+      "word": "南京大屠杀",
+      "onboard_time": 1670887627,
+      "rank": 30,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 326161,
@@ -195,12 +307,36 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 281891,
+      "num": 281891,
+      "word": "今晚为梅西莫德里奇熬夜",
+      "onboard_time": 1670894652,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 263750,
       "num": 263750,
       "word": "叶舒华好勇",
       "onboard_time": 1670848274,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 261374,
+      "num": 261374,
+      "word": "女子用自榨油做炸蛋膨胀成蘑菇云",
+      "onboard_time": 1670854277,
+      "rank": 27,
+      "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 259873,
+      "num": 241578,
+      "word": "阳性感染者只咳嗽发烧算无症状吗",
+      "onboard_time": 1670895252,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 257052,
@@ -211,12 +347,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 249550,
-      "num": 110697,
-      "word": "南京大屠杀",
-      "onboard_time": 1670887627,
-      "rank": 30,
-      "category": "国内要闻"
+      "raw_hot": 255975,
+      "num": 255975,
+      "word": "世界杯",
+      "onboard_time": 1670892370,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 243689,
@@ -227,11 +363,19 @@
       "category": "影视"
     },
     {
-      "raw_hot": 242252,
-      "num": 242252,
-      "word": "国家公祭日",
-      "onboard_time": 1670887627,
-      "rank": 13,
+      "raw_hot": 242649,
+      "num": 242649,
+      "word": "罗云熙白鹿月照千峰过审",
+      "onboard_time": 1670893269,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 240726,
+      "num": 240726,
+      "word": "19371213永不敢忘",
+      "onboard_time": 1670891768,
+      "rank": 32,
       "category": "国内要闻"
     },
     {
@@ -241,6 +385,14 @@
       "onboard_time": 1670859618,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 232817,
+      "num": 232817,
+      "word": "工人施工不使用安全带被罚展览一天",
+      "onboard_time": 1670891288,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 220981,
@@ -267,12 +419,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 209210,
+      "num": 209210,
+      "word": "谷爱凌要期末考试了",
+      "onboard_time": 1670889189,
+      "rank": 34,
+      "category": "体育,网红"
+    },
+    {
       "raw_hot": 204232,
       "num": 204232,
       "word": "广东人对菜心爱到直接生吃",
       "onboard_time": 1670853976,
       "rank": 24,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 202817,
+      "num": 202817,
+      "word": "富力联席董事长张力涉嫌行贿",
+      "onboard_time": 1670889612,
+      "rank": 35,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 194918,
@@ -283,20 +451,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 193533,
+      "num": 193533,
+      "word": "aespaRedVelvet新曲预告视频",
+      "onboard_time": 1670891649,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 193196,
       "num": 193196,
       "word": "侯宁",
       "onboard_time": 1670840298,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 189562,
-      "num": 189562,
-      "word": "女子用自榨油做炸蛋膨胀成蘑菇云",
-      "onboard_time": 1670854277,
-      "rank": 27,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 185567,
@@ -307,20 +475,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 184932,
-      "num": 110220,
-      "word": "一楼的住户该不该交电梯费",
-      "onboard_time": 1670886968,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 179394,
       "num": 179394,
       "word": "地狱犬的病原性与BA.5相同或更低",
       "onboard_time": 1670882709,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 177631,
+      "num": 177631,
+      "word": "国家公祭广场下半旗志哀死难同胞",
+      "onboard_time": 1670893391,
+      "rank": 37,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 172678,
@@ -355,12 +523,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 161282,
+      "num": 161282,
+      "word": "特斯拉市值一夜蒸发2442亿",
+      "onboard_time": 1670895489,
+      "rank": 40,
+      "category": "财经"
+    },
+    {
       "raw_hot": 153173,
       "num": 153173,
       "word": "Ning重回赛场",
       "onboard_time": 1670846716,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 141032,
+      "num": 141032,
+      "word": "哪些情况下口罩必须更换",
+      "onboard_time": 1670887508,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 140560,
@@ -384,6 +568,30 @@
       "word": "家里有人阳了怎么预防",
       "onboard_time": 1670851155,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 128850,
+      "num": 128850,
+      "word": "世界杯季军战现场将播放逆战",
+      "onboard_time": 1670894349,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 128412,
+      "num": 128412,
+      "word": "慰安妇制度受害者方奶奶逝世",
+      "onboard_time": 1670895070,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 125427,
+      "num": 125427,
+      "word": "广州复工后货运数据增长翻倍",
+      "onboard_time": 1670895669,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -417,14 +625,6 @@
       "onboard_time": 1670847735,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 111253,
-      "num": 111253,
-      "word": "哪些情况下口罩必须更换",
-      "onboard_time": 1670887508,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 110650,
@@ -507,14 +707,6 @@
       "category": "时尚,艺人"
     },
     {
-      "raw_hot": 88301,
-      "num": 88301,
-      "word": "顾客买49.9元草莓塔全是绿色草莓",
-      "onboard_time": 1670887868,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 85646,
       "num": 85646,
       "word": "顾客吐槽摊主将菜价小数点嵌字里",
@@ -555,7 +747,7 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 33922,
+      "raw_hot": 53942,
       "num": 1134672,
       "word": "感染者同住人要注意什么",
       "onboard_time": 1670745075,
