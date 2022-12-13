@@ -1,7 +1,15 @@
 {
   "startTime": 1670862485364,
-  "endTime": 1670897258030,
+  "endTime": 1670900021508,
   "band_list": [
+    {
+      "raw_hot": 1843289,
+      "num": 1843289,
+      "word": "阳性感染者只咳嗽发烧算无症状吗",
+      "onboard_time": 1670895252,
+      "rank": 31,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1643130,
       "num": 1643130,
@@ -20,7 +28,7 @@
     },
     {
       "raw_hot": 1231292,
-      "num": 927016,
+      "num": 940988,
       "word": "孕妇怕感染在车里办公",
       "onboard_time": 1670891529,
       "rank": 3,
@@ -51,11 +59,27 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 910618,
-      "num": 910618,
-      "word": "阳性感染者只咳嗽发烧算无症状吗",
-      "onboard_time": 1670895252,
-      "rank": 31,
+      "raw_hot": 986440,
+      "num": 986440,
+      "word": "男子看网传视频发现儿子被霸凌",
+      "onboard_time": 1670895850,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 925739,
+      "num": 925739,
+      "word": "南京大屠杀",
+      "onboard_time": 1670887627,
+      "rank": 30,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 863328,
+      "num": 863328,
+      "word": "大规模核酸取消后感染人数如何预估",
+      "onboard_time": 1670896510,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -131,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 589760,
+      "num": 589760,
+      "word": "今晚为梅西莫德里奇熬夜",
+      "onboard_time": 1670894652,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 582484,
       "num": 582484,
       "word": "沧州空气",
@@ -155,14 +187,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 534171,
-      "num": 534171,
-      "word": "今晚为梅西莫德里奇熬夜",
-      "onboard_time": 1670894652,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 523322,
       "num": 523322,
       "word": "国家公祭日",
@@ -185,14 +209,6 @@
       "onboard_time": 1670854035,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 500573,
-      "num": 500573,
-      "word": "男子看网传视频发现儿子被霸凌",
-      "onboard_time": 1670895850,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 498722,
@@ -225,14 +241,6 @@
       "onboard_time": 1670859855,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 453980,
-      "num": 453980,
-      "word": "南京大屠杀",
-      "onboard_time": 1670887627,
-      "rank": 30,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 402356,
@@ -307,6 +315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 348109,
+      "num": 348109,
+      "word": "农村大哥自费为行人留灯17年",
+      "onboard_time": 1670897650,
+      "rank": 11,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 326161,
       "num": 326161,
       "word": "黄桃罐头",
@@ -347,12 +363,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 262740,
+      "num": 262740,
+      "word": "韩版风声定档",
+      "onboard_time": 1670898131,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 261374,
       "num": 261374,
       "word": "女子用自榨油做炸蛋膨胀成蘑菇云",
       "onboard_time": 1670854277,
       "rank": 27,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 259155,
+      "num": 259155,
+      "word": "阳过一次后还会再阳吗",
+      "onboard_time": 1670897169,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 257052,
@@ -369,6 +401,14 @@
       "onboard_time": 1670892370,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 255697,
+      "num": 255697,
+      "word": "阿根廷主帅说看莫德里奇踢球是享受",
+      "onboard_time": 1670896689,
+      "rank": 43,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 243689,
@@ -403,11 +443,11 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 239420,
-      "num": 239420,
-      "word": "大规模核酸取消后感染人数如何预估",
-      "onboard_time": 1670896510,
-      "rank": 26,
+      "raw_hot": 238691,
+      "num": 195911,
+      "word": "怀孕18周孕妇分享感染新冠经历",
+      "onboard_time": 1670898851,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -459,6 +499,14 @@
       "category": "体育,网红"
     },
     {
+      "raw_hot": 206375,
+      "num": 206375,
+      "word": "阳过何时可以返岗",
+      "onboard_time": 1670897349,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 204232,
       "num": 204232,
       "word": "广东人对菜心爱到直接生吃",
@@ -507,6 +555,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 185118,
+      "num": 185118,
+      "word": "张凌赫云之羽安慰虞书欣路透",
+      "onboard_time": 1670899813,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 179394,
       "num": 179394,
       "word": "地狱犬的病原性与BA.5相同或更低",
@@ -521,6 +577,14 @@
       "onboard_time": 1670850378,
       "rank": 29,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 170824,
+      "num": 170824,
+      "word": "公祭日南京鸣响防空警报",
+      "onboard_time": 1670899090,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 170782,
@@ -555,14 +619,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 144950,
-      "num": 144950,
-      "word": "阿根廷主帅说看莫德里奇踢球是享受",
-      "onboard_time": 1670896689,
-      "rank": 43,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 141032,
       "num": 141032,
       "word": "哪些情况下口罩必须更换",
@@ -593,6 +649,30 @@
       "onboard_time": 1670851155,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 130857,
+      "num": 130857,
+      "word": "格力电器再次大手笔分红",
+      "onboard_time": 1670899632,
+      "rank": 42,
+      "category": "财经,科技"
+    },
+    {
+      "raw_hot": 129867,
+      "num": 129867,
+      "word": "侵华日军日记曝光慰安所细节",
+      "onboard_time": 1670899632,
+      "rank": 43,
+      "category": "社会新闻,军事"
+    },
+    {
+      "raw_hot": 129427,
+      "num": 129427,
+      "word": "秦霄贤被妈妈说怕媳妇",
+      "onboard_time": 1670898613,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 128850,
@@ -635,12 +715,28 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 118695,
-      "num": 118695,
+      "raw_hot": 121862,
+      "num": 121862,
+      "word": "女子被骗去酒店隔离转给对方29万",
+      "onboard_time": 1670899870,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 120368,
+      "num": 120368,
       "word": "赵丽颖戏里戏外事业双排",
       "onboard_time": 1670889369,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 117976,
+      "num": 117976,
+      "word": "2女孩给老师送家长亲手做的棉鞋",
+      "onboard_time": 1670899329,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 117167,
@@ -649,14 +745,6 @@
       "onboard_time": 1670837298,
       "rank": 39,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 114100,
-      "num": 114100,
-      "word": "阳过一次后还会再阳吗",
-      "onboard_time": 1670897169,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 111924,
@@ -785,6 +873,14 @@
       "onboard_time": 1670853075,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 58892,
+      "num": 313735,
+      "word": "今天以国之名祭奠遇难同胞",
+      "onboard_time": 1670897291,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 56220,
