@@ -1,6 +1,6 @@
 {
   "startTime": 1670948842910,
-  "endTime": 1670949957704,
+  "endTime": 1670951809921,
   "band_list": [
     {
       "raw_hot": 1255089,
@@ -27,6 +27,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 863235,
+      "num": 863235,
+      "word": "阿根廷vs克罗地亚",
+      "onboard_time": 1670944934,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 847772,
       "num": 847772,
       "word": "女子混吃7种感冒止咳药全身长满脓疱",
@@ -49,14 +57,6 @@
       "onboard_time": 1670946853,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 688681,
-      "num": 688681,
-      "word": "阿根廷vs克罗地亚",
-      "onboard_time": 1670944934,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 636186,
@@ -163,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 266957,
+      "num": 266957,
+      "word": "云南家暴纵火案将宣判",
+      "onboard_time": 1670947091,
+      "rank": 26,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 266191,
       "num": 266191,
       "word": "县委大院编剧为创作曾挂职副县长半年",
@@ -177,14 +185,6 @@
       "onboard_time": 1670942473,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 257835,
-      "num": 257835,
-      "word": "云南家暴纵火案将宣判",
-      "onboard_time": 1670947091,
-      "rank": 26,
-      "category": "社会负面"
     },
     {
       "raw_hot": 231919,
@@ -355,6 +355,14 @@
       "category": "体育,幽默"
     },
     {
+      "raw_hot": 121099,
+      "num": 121099,
+      "word": "这门票太值了",
+      "onboard_time": 1670949432,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 119481,
       "num": 119481,
       "word": "seventeen获AAA年度歌手",
@@ -395,20 +403,20 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 83910,
-      "num": 83910,
-      "word": "这门票太值了",
-      "onboard_time": 1670949432,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 80522,
       "num": 80522,
       "word": "刘语熙预测会平局",
       "onboard_time": 1670949013,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 69096,
+      "num": 69096,
+      "word": "自制学校门口的土豆夹饼",
+      "onboard_time": 1670946672,
+      "rank": 42,
+      "category": "美食"
     },
     {
       "raw_hot": 53940,
