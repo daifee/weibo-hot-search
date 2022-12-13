@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1670963655692,
+  "endTime": 1670966213633,
   "band_list": [
     {
       "raw_hot": 13790167,
@@ -857,6 +857,14 @@
       "onboard_time": 1669974190,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2225251,
+      "num": 2225251,
+      "word": "阿根廷vs克罗地亚",
+      "onboard_time": 1670692035,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 2184190,
@@ -1971,14 +1979,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 1438213,
-      "num": 1438213,
-      "word": "阿根廷vs克罗地亚",
-      "onboard_time": 1670692035,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1436674,
       "num": 318710,
       "word": "大学生上3年半网课完成结婚生子",
@@ -2016,6 +2016,14 @@
       "word": "荷兰阿根廷冲突",
       "onboard_time": 1670645536,
       "rank": 21,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1423372,
+      "num": 1423372,
+      "word": "裁判",
+      "onboard_time": 1670962090,
+      "rank": 17,
       "category": "体育"
     },
     {
@@ -2899,6 +2907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1099573,
+      "num": 1099573,
+      "word": "梅西莫德里奇拥抱",
+      "onboard_time": 1670962090,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1097920,
       "num": 634462,
       "word": "N1",
@@ -3779,6 +3795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 913631,
+      "num": 913631,
+      "word": "阿根廷队杀疯了",
+      "onboard_time": 1670964850,
+      "rank": 5,
+      "category": "体育,幽默"
+    },
+    {
       "raw_hot": 911095,
       "num": 911095,
       "word": "千万别随便帮女生提行李箱",
@@ -4523,6 +4547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 805452,
+      "num": 805452,
+      "word": "阿根廷3比0克罗地亚",
+      "onboard_time": 1670965150,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 805306,
       "num": 805306,
       "word": "鹿晗想和C罗梅西踢场球",
@@ -4715,6 +4747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 786243,
+      "num": 786243,
+      "word": "梅西过人",
+      "onboard_time": 1670964070,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 785612,
       "num": 785612,
       "word": "世界杯决赛或将播放心墙",
@@ -4776,6 +4816,14 @@
       "word": "韩媒称巴西人只关心决赛对手是谁",
       "onboard_time": 1670259430,
       "rank": 11,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 779138,
+      "num": 779138,
+      "word": "迪巴拉上场",
+      "onboard_time": 1670964070,
+      "rank": 8,
       "category": "体育"
     },
     {
@@ -8691,6 +8739,14 @@
       "category": "军事,国内要闻"
     },
     {
+      "raw_hot": 489055,
+      "num": 489055,
+      "word": "梅西成为阿根廷队世界杯射手王",
+      "onboard_time": 1670962029,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 488569,
       "num": 488569,
       "word": "低温烫伤可导致皮肤深层组织坏死",
@@ -10136,14 +10192,6 @@
       "word": "日本足球给中国的启示",
       "onboard_time": 1669949710,
       "rank": 43,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 424678,
-      "num": 424678,
-      "word": "裁判",
-      "onboard_time": 1670962090,
-      "rank": 17,
       "category": "体育"
     },
     {
@@ -12011,6 +12059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 358475,
+      "num": 358475,
+      "word": "小罗",
+      "onboard_time": 1670962210,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 358454,
       "num": 1763494,
       "word": "贵州茅台11亿成立房地产开发公司",
@@ -12353,6 +12409,14 @@
       "onboard_time": 1670850378,
       "rank": 33,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 347304,
+      "num": 347304,
+      "word": "阿尔瓦雷斯 牛",
+      "onboard_time": 1670963048,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 347140,
@@ -14371,6 +14435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 294035,
+      "num": 294035,
+      "word": "利瓦科维奇",
+      "onboard_time": 1670964251,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 293712,
       "num": 282224,
       "word": "Uzi儿子出生",
@@ -14409,6 +14481,14 @@
       "onboard_time": 1670161814,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 292267,
+      "num": 219543,
+      "word": "梅西个人能力",
+      "onboard_time": 1670965450,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 291916,
@@ -15683,14 +15763,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 262914,
-      "num": 262914,
-      "word": "小罗",
-      "onboard_time": 1670962210,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 262740,
       "num": 262740,
       "word": "韩版风声定档",
@@ -15953,6 +16025,14 @@
       "onboard_time": 1670232550,
       "rank": 41,
       "category": "科技"
+    },
+    {
+      "raw_hot": 256139,
+      "num": 256139,
+      "word": "魔笛被换下",
+      "onboard_time": 1670964429,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 255990,
@@ -18681,14 +18761,6 @@
       "onboard_time": 1670570419,
       "rank": 31,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 203855,
-      "num": 174471,
-      "word": "梅西成为阿根廷队世界杯射手王",
-      "onboard_time": 1670962029,
-      "rank": 11,
-      "category": "体育"
     },
     {
       "raw_hot": 203402,
@@ -21523,14 +21595,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 168801,
-      "num": 168801,
-      "word": "阿尔瓦雷斯 牛",
-      "onboard_time": 1670963048,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 168734,
       "num": 168734,
       "word": "男生坐行李箱上迎寒风敲2小时代码",
@@ -23777,14 +23841,6 @@
       "onboard_time": 1670642053,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 144456,
-      "num": 144456,
-      "word": "梅西莫德里奇拥抱",
-      "onboard_time": 1670962090,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 144433,
@@ -27235,6 +27291,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 107515,
+      "num": 107515,
+      "word": "阿根廷主帅看球迷雨中庆祝落泪",
+      "onboard_time": 1670950631,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 107377,
       "num": 474399,
       "word": "浓眉半场23分",
@@ -27449,6 +27513,14 @@
       "onboard_time": 1669905133,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 105344,
+      "num": 26266,
+      "word": "阿根廷晋级决赛",
+      "onboard_time": 1670965330,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 105238,
@@ -29075,6 +29147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 58008,
+      "num": 58008,
+      "word": "你感染后的身体感受",
+      "onboard_time": 1670963469,
+      "rank": 48,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 56401,
       "num": 186312,
       "word": "莱万晒女儿照片",
@@ -29192,14 +29272,6 @@
       "word": "什琴斯尼连续两场扑点",
       "onboard_time": 1669838768,
       "rank": 13,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 48419,
-      "num": 37633,
-      "word": "阿根廷主帅看球迷雨中庆祝落泪",
-      "onboard_time": 1670950631,
-      "rank": 32,
       "category": "体育"
     },
     {
@@ -29403,6 +29475,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 30012,
+      "num": 30012,
+      "word": "利瓦科维奇原来还是学霸",
+      "onboard_time": 1670962927,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 29422,
       "num": 108791,
       "word": "沙奇里破门",
@@ -29457,14 +29537,6 @@
       "onboard_time": 1670613192,
       "rank": 49,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 18067,
-      "num": 18067,
-      "word": "你感染后的身体感受",
-      "onboard_time": 1670963469,
-      "rank": 48,
-      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 16100,
