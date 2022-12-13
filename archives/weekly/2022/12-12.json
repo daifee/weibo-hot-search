@@ -1,6 +1,6 @@
 {
   "startTime": 1670775913271,
-  "endTime": 1670945909490,
+  "endTime": 1670948842910,
   "band_list": [
     {
       "raw_hot": 4521108,
@@ -691,6 +691,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 847772,
+      "num": 847772,
+      "word": "女子混吃7种感冒止咳药全身长满脓疱",
+      "onboard_time": 1670944694,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 824457,
       "num": 824457,
       "word": "塞尔维亚",
@@ -931,6 +939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 659330,
+      "num": 659330,
+      "word": "阿根廷vs克罗地亚",
+      "onboard_time": 1670907551,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 656631,
       "num": 656631,
       "word": "抗原阳了新冠保险会赔钱吗",
@@ -1083,14 +1099,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 581849,
-      "num": 581849,
-      "word": "阿根廷vs克罗地亚",
-      "onboard_time": 1670907551,
-      "rank": 21,
-      "category": "体育"
-    },
-    {
       "raw_hot": 573686,
       "num": 573686,
       "word": "刘畊宏直播",
@@ -1105,6 +1113,14 @@
       "onboard_time": 1670926095,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 569835,
+      "num": 569835,
+      "word": "伊甸园",
+      "onboard_time": 1670946853,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 567629,
@@ -1137,6 +1153,14 @@
       "onboard_time": 1670821934,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 554797,
+      "num": 554797,
+      "word": "行程卡纪念版",
+      "onboard_time": 1670945352,
+      "rank": 30,
+      "category": "科技"
     },
     {
       "raw_hot": 554015,
@@ -1483,6 +1507,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 455991,
+      "num": 455991,
+      "word": "孩子确诊量体温温度涨幅肉眼可见",
+      "onboard_time": 1670944874,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 455378,
       "num": 455378,
       "word": "世冠抽签",
@@ -1553,6 +1585,14 @@
       "onboard_time": 1670853017,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 433310,
+      "num": 433310,
+      "word": "莫德里奇",
+      "onboard_time": 1670944993,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 430112,
@@ -2179,6 +2219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 308791,
+      "num": 182719,
+      "word": "北京1岁宝宝照顾阳性妈妈",
+      "onboard_time": 1670947691,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 307611,
       "num": 307611,
       "word": "特斯拉市值一夜蒸发2442亿",
@@ -2203,20 +2251,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 300654,
+      "num": 300654,
+      "word": "范志毅向前国足后卫赵鹏道歉",
+      "onboard_time": 1670945175,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 300518,
       "num": 300518,
       "word": "张元英AAA主持出场视频",
       "onboard_time": 1670940134,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 300333,
-      "num": 300333,
-      "word": "女子混吃7种感冒止咳药全身长满脓疱",
-      "onboard_time": 1670944694,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 297177,
@@ -2563,14 +2611,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 248859,
-      "num": 248859,
-      "word": "行程卡纪念版",
-      "onboard_time": 1670945352,
-      "rank": 30,
-      "category": "科技"
-    },
-    {
       "raw_hot": 248732,
       "num": 248732,
       "word": "要不还是给孩子点外卖吧",
@@ -2867,14 +2907,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 218170,
-      "num": 218170,
-      "word": "范志毅向前国足后卫赵鹏道歉",
-      "onboard_time": 1670945175,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 217812,
       "num": 217812,
       "word": "晒干的橘子皮就是陈皮吗",
@@ -3035,6 +3067,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 204368,
+      "num": 204368,
+      "word": "一个学期没练功的舞蹈生",
+      "onboard_time": 1670946253,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 203976,
+      "num": 203976,
+      "word": "云南家暴纵火案将宣判",
+      "onboard_time": 1670947091,
+      "rank": 26,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 202853,
       "num": 202853,
       "word": "德尚说摩洛哥晋级是理所当然的",
@@ -3073,14 +3121,6 @@
       "onboard_time": 1670910671,
       "rank": 30,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 201417,
-      "num": 201417,
-      "word": "孩子确诊量体温温度涨幅肉眼可见",
-      "onboard_time": 1670944874,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 201249,
@@ -3145,14 +3185,6 @@
       "onboard_time": 1670761037,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 198363,
-      "num": 198363,
-      "word": "莫德里奇",
-      "onboard_time": 1670944993,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 198355,
@@ -4000,6 +4032,14 @@
       "word": "捐出二战相册美国典当行老板发声",
       "onboard_time": 1670936420,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 138416,
+      "num": 138416,
+      "word": "男子到朋友家围炉煮茶烧化桌子",
+      "onboard_time": 1670946132,
+      "rank": 40,
       "category": "社会新闻"
     },
     {
