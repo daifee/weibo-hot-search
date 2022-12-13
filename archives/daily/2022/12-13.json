@@ -1,6 +1,6 @@
 {
   "startTime": 1670862485364,
-  "endTime": 1670895746645,
+  "endTime": 1670897258030,
   "band_list": [
     {
       "raw_hot": 1643130,
@@ -19,8 +19,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1206737,
-      "num": 890786,
+      "raw_hot": 1231292,
+      "num": 927016,
       "word": "孕妇怕感染在车里办公",
       "onboard_time": 1670891529,
       "rank": 3,
@@ -48,6 +48,14 @@
       "word": "顾客买49.9元草莓塔全是绿色草莓",
       "onboard_time": 1670887868,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 910618,
+      "num": 910618,
+      "word": "阳性感染者只咳嗽发烧算无症状吗",
+      "onboard_time": 1670895252,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -99,6 +107,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 645336,
+      "num": 645336,
+      "word": "马斯克失去世界首富位置",
+      "onboard_time": 1670893148,
+      "rank": 6,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 625391,
       "num": 625391,
       "word": "女子确诊阳性丈夫塑料袋套头送水",
@@ -107,20 +123,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 610574,
-      "num": 610574,
-      "word": "马斯克失去世界首富位置",
-      "onboard_time": 1670893148,
-      "rank": 6,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 592482,
       "num": 592482,
       "word": "女子吃火锅加热3次还有蠕动虫子",
       "onboard_time": 1670857156,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 582484,
+      "num": 582484,
+      "word": "沧州空气",
+      "onboard_time": 1670892552,
+      "rank": 11,
+      "category": "社会负面"
     },
     {
       "raw_hot": 566097,
@@ -139,6 +155,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 534171,
+      "num": 534171,
+      "word": "今晚为梅西莫德里奇熬夜",
+      "onboard_time": 1670894652,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 523322,
+      "num": 523322,
+      "word": "国家公祭日",
+      "onboard_time": 1670887627,
+      "rank": 13,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 515189,
       "num": 515189,
       "word": "上海置地广场店员称一小时客流堪比一周",
@@ -153,6 +185,14 @@
       "onboard_time": 1670854035,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 500573,
+      "num": 500573,
+      "word": "男子看网传视频发现儿子被霸凌",
+      "onboard_time": 1670895850,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 498722,
@@ -179,14 +219,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 461865,
-      "num": 461865,
-      "word": "沧州空气",
-      "onboard_time": 1670892552,
-      "rank": 11,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 457687,
       "num": 360515,
       "word": "伴娘穿露肩礼服肌肉健硕",
@@ -195,11 +227,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 445328,
-      "num": 445328,
-      "word": "国家公祭日",
+      "raw_hot": 453980,
+      "num": 453980,
+      "word": "南京大屠杀",
       "onboard_time": 1670887627,
-      "rank": 13,
+      "rank": 30,
       "category": "国内要闻"
     },
     {
@@ -275,14 +307,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 352906,
-      "num": 352906,
-      "word": "南京大屠杀",
-      "onboard_time": 1670887627,
-      "rank": 30,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 326161,
       "num": 326161,
       "word": "黄桃罐头",
@@ -299,20 +323,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 307611,
+      "num": 307611,
+      "word": "特斯拉市值一夜蒸发2442亿",
+      "onboard_time": 1670895489,
+      "rank": 40,
+      "category": "财经"
+    },
+    {
       "raw_hot": 298406,
       "num": 298406,
       "word": "小说里的贵气感有了脸",
       "onboard_time": 1670845817,
       "rank": 18,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 281891,
-      "num": 281891,
-      "word": "今晚为梅西莫德里奇熬夜",
-      "onboard_time": 1670894652,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 263750,
@@ -329,14 +353,6 @@
       "onboard_time": 1670854277,
       "rank": 27,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 259873,
-      "num": 241578,
-      "word": "阳性感染者只咳嗽发烧算无症状吗",
-      "onboard_time": 1670895252,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 257052,
@@ -387,6 +403,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 239420,
+      "num": 239420,
+      "word": "大规模核酸取消后感染人数如何预估",
+      "onboard_time": 1670896510,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 232817,
       "num": 232817,
       "word": "工人施工不使用安全带被罚展览一天",
@@ -417,6 +441,14 @@
       "onboard_time": 1670850737,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 209983,
+      "num": 209983,
+      "word": "国家公祭广场下半旗志哀死难同胞",
+      "onboard_time": 1670893391,
+      "rank": 37,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 209210,
@@ -451,8 +483,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 193533,
-      "num": 193533,
+      "raw_hot": 194786,
+      "num": 194786,
       "word": "aespaRedVelvet新曲预告视频",
       "onboard_time": 1670891649,
       "rank": 36,
@@ -481,14 +513,6 @@
       "onboard_time": 1670882709,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 177631,
-      "num": 177631,
-      "word": "国家公祭广场下半旗志哀死难同胞",
-      "onboard_time": 1670893391,
-      "rank": 37,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 172678,
@@ -523,20 +547,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 161282,
-      "num": 161282,
-      "word": "特斯拉市值一夜蒸发2442亿",
-      "onboard_time": 1670895489,
-      "rank": 40,
-      "category": "财经"
-    },
-    {
       "raw_hot": 153173,
       "num": 153173,
       "word": "Ning重回赛场",
       "onboard_time": 1670846716,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 144950,
+      "num": 144950,
+      "word": "阿根廷主帅说看莫德里奇踢球是享受",
+      "onboard_time": 1670896689,
+      "rank": 43,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 141032,
@@ -611,12 +635,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 118695,
+      "num": 118695,
+      "word": "赵丽颖戏里戏外事业双排",
+      "onboard_time": 1670889369,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 117167,
       "num": 117167,
       "word": "北京确保研究生招生考试如期举行",
       "onboard_time": 1670837298,
       "rank": 39,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 114100,
+      "num": 114100,
+      "word": "阳过一次后还会再阳吗",
+      "onboard_time": 1670897169,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 111924,
@@ -747,7 +787,7 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 53942,
+      "raw_hot": 56220,
       "num": 1134672,
       "word": "感染者同住人要注意什么",
       "onboard_time": 1670745075,

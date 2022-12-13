@@ -1,6 +1,6 @@
 {
   "startTime": 1670775913271,
-  "endTime": 1670895746645,
+  "endTime": 1670897258030,
   "band_list": [
     {
       "raw_hot": 4501119,
@@ -211,8 +211,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1206737,
-      "num": 890786,
+      "raw_hot": 1231292,
+      "num": 927016,
       "word": "孕妇怕感染在车里办公",
       "onboard_time": 1670891529,
       "rank": 3,
@@ -377,6 +377,14 @@
       "onboard_time": 1670819233,
       "rank": 39,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 910618,
+      "num": 910618,
+      "word": "阳性感染者只咳嗽发烧算无症状吗",
+      "onboard_time": 1670895252,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 867852,
@@ -563,6 +571,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 645336,
+      "num": 645336,
+      "word": "马斯克失去世界首富位置",
+      "onboard_time": 1670893148,
+      "rank": 6,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 635660,
       "num": 635660,
       "word": "12日北京一次性投放2500万抗原试剂",
@@ -593,14 +609,6 @@
       "onboard_time": 1670805308,
       "rank": 13,
       "category": "影视"
-    },
-    {
-      "raw_hot": 610574,
-      "num": 610574,
-      "word": "马斯克失去世界首富位置",
-      "onboard_time": 1670893148,
-      "rank": 6,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 603049,
@@ -641,6 +649,14 @@
       "onboard_time": 1670828896,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 582484,
+      "num": 582484,
+      "word": "沧州空气",
+      "onboard_time": 1670892552,
+      "rank": 11,
+      "category": "社会负面"
     },
     {
       "raw_hot": 566097,
@@ -715,6 +731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 534171,
+      "num": 534171,
+      "word": "今晚为梅西莫德里奇熬夜",
+      "onboard_time": 1670894652,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 532574,
       "num": 532574,
       "word": "普通的卡塔尔人家里长啥样",
@@ -729,6 +753,14 @@
       "onboard_time": 1670814551,
       "rank": 28,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 523322,
+      "num": 523322,
+      "word": "国家公祭日",
+      "onboard_time": 1670887627,
+      "rank": 13,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 519941,
@@ -760,6 +792,14 @@
       "word": "近一半结婚人群年龄超30岁",
       "onboard_time": 1670819732,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 500573,
+      "num": 500573,
+      "word": "男子看网传视频发现儿子被霸凌",
+      "onboard_time": 1670895850,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -851,14 +891,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 461865,
-      "num": 461865,
-      "word": "沧州空气",
-      "onboard_time": 1670892552,
-      "rank": 11,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 459133,
       "num": 459133,
       "word": "赵丽颖清冷电影质感大片",
@@ -883,6 +915,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 453980,
+      "num": 453980,
+      "word": "南京大屠杀",
+      "onboard_time": 1670887627,
+      "rank": 30,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 450885,
       "num": 396033,
       "word": "警方通报男子当街持刀捅死一女子",
@@ -897,14 +937,6 @@
       "onboard_time": 1670802907,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 445328,
-      "num": 445328,
-      "word": "国家公祭日",
-      "onboard_time": 1670887627,
-      "rank": 13,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 439818,
@@ -1171,14 +1203,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 352906,
-      "num": 352906,
-      "word": "南京大屠杀",
-      "onboard_time": 1670887627,
-      "rank": 30,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 350352,
       "num": 350352,
       "word": "iPhone15Ultra或万元起步",
@@ -1339,6 +1363,14 @@
       "category": "音乐,体育"
     },
     {
+      "raw_hot": 307611,
+      "num": 307611,
+      "word": "特斯拉市值一夜蒸发2442亿",
+      "onboard_time": 1670895489,
+      "rank": 40,
+      "category": "财经"
+    },
+    {
       "raw_hot": 305124,
       "num": 305124,
       "word": "许半夏嫁对人了",
@@ -1401,14 +1433,6 @@
       "onboard_time": 1670759476,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 281891,
-      "num": 281891,
-      "word": "今晚为梅西莫德里奇熬夜",
-      "onboard_time": 1670894652,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 280620,
@@ -1497,14 +1521,6 @@
       "onboard_time": 1670815932,
       "rank": 36,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 259873,
-      "num": 241578,
-      "word": "阳性感染者只咳嗽发烧算无症状吗",
-      "onboard_time": 1670895252,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 259290,
@@ -1681,6 +1697,14 @@
       "onboard_time": 1670859618,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 239420,
+      "num": 239420,
+      "word": "大规模核酸取消后感染人数如何预估",
+      "onboard_time": 1670896510,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 238137,
@@ -1883,6 +1907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 209983,
+      "num": 209983,
+      "word": "国家公祭广场下半旗志哀死难同胞",
+      "onboard_time": 1670893391,
+      "rank": 37,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 209210,
       "num": 209210,
       "word": "谷爱凌要期末考试了",
@@ -2035,8 +2067,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 193533,
-      "num": 193533,
+      "raw_hot": 194786,
+      "num": 194786,
       "word": "aespaRedVelvet新曲预告视频",
       "onboard_time": 1670891649,
       "rank": 36,
@@ -2193,14 +2225,6 @@
       "onboard_time": 1670847435,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 177631,
-      "num": 177631,
-      "word": "国家公祭广场下半旗志哀死难同胞",
-      "onboard_time": 1670893391,
-      "rank": 37,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 175616,
@@ -2363,14 +2387,6 @@
       "category": "科技,财经"
     },
     {
-      "raw_hot": 161282,
-      "num": 161282,
-      "word": "特斯拉市值一夜蒸发2442亿",
-      "onboard_time": 1670895489,
-      "rank": 40,
-      "category": "财经"
-    },
-    {
       "raw_hot": 159987,
       "num": 159987,
       "word": "国漫画师用平板还原山海经世界",
@@ -2481,6 +2497,14 @@
       "onboard_time": 1670809691,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 144950,
+      "num": 144950,
+      "word": "阿根廷主帅说看莫德里奇踢球是享受",
+      "onboard_time": 1670896689,
+      "rank": 43,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 144468,
@@ -2843,6 +2867,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 118695,
+      "num": 118695,
+      "word": "赵丽颖戏里戏外事业双排",
+      "onboard_time": 1670889369,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 118427,
       "num": 118427,
       "word": "欢迎乘坐春熙路直达西岭雪山的雪国巴士",
@@ -2865,6 +2897,14 @@
       "onboard_time": 1670772195,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 114100,
+      "num": 114100,
+      "word": "阳过一次后还会再阳吗",
+      "onboard_time": 1670897169,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 112802,
@@ -3099,7 +3139,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 53942,
+      "raw_hot": 56220,
       "num": 1561482,
       "word": "感染者同住人要注意什么",
       "onboard_time": 1670745075,
