@@ -1,6 +1,6 @@
 {
   "startTime": 1670862485364,
-  "endTime": 1670941083984,
+  "endTime": 1670942166959,
   "band_list": [
     {
       "raw_hot": 4521108,
@@ -71,6 +71,14 @@
       "num": 2123668,
       "word": "地狱犬已在9省份检出但尚未流行",
       "onboard_time": 1670924354,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2123347,
+      "num": 2123347,
+      "word": "N95口罩与KN95的区别",
+      "onboard_time": 1670939416,
       "rank": 5,
       "category": "社会新闻"
     },
@@ -195,14 +203,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1107765,
-      "num": 1107765,
-      "word": "N95口罩与KN95的区别",
-      "onboard_time": 1670939416,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1078578,
       "num": 1078578,
       "word": "用户行程卡数据将被删除",
@@ -291,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 852863,
+      "num": 852863,
+      "word": "风吹半夏结局",
+      "onboard_time": 1670939594,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 848193,
       "num": 848193,
       "word": "黄磊县委大院演技",
@@ -307,8 +315,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 791952,
-      "num": 791952,
+      "raw_hot": 807386,
+      "num": 807386,
       "word": "县委大院编剧为创作曾挂职副县长半年",
       "onboard_time": 1670937792,
       "rank": 42,
@@ -379,14 +387,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 726915,
-      "num": 726915,
-      "word": "风吹半夏结局",
-      "onboard_time": 1670939594,
-      "rank": 9,
-      "category": "影视"
-    },
-    {
       "raw_hot": 722428,
       "num": 722428,
       "word": "许半夏变卖家产补偿滩涂村民",
@@ -400,6 +400,14 @@
       "word": "女孩给阳性爸爸送饭后飞奔逃走",
       "onboard_time": 1670916493,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 702876,
+      "num": 702876,
+      "word": "一家4人阳性男子自驾600公里回家",
+      "onboard_time": 1670940674,
+      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -611,8 +619,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 508562,
-      "num": 508562,
+      "raw_hot": 512529,
+      "num": 512529,
       "word": "seventeen获AAA年度歌手",
       "onboard_time": 1670938934,
       "rank": 12,
@@ -633,6 +641,14 @@
       "onboard_time": 1670902332,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 503257,
+      "num": 503257,
+      "word": "欧文预测克罗地亚淘汰阿根廷",
+      "onboard_time": 1670936353,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 500623,
@@ -681,6 +697,14 @@
       "onboard_time": 1670929511,
       "rank": 19,
       "category": "军事,国内要闻"
+    },
+    {
+      "raw_hot": 486632,
+      "num": 486632,
+      "word": "王若吉",
+      "onboard_time": 1670940554,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 485089,
@@ -851,14 +875,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 398959,
-      "num": 398959,
-      "word": "王若吉",
-      "onboard_time": 1670940554,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 394713,
       "num": 394713,
       "word": "RNG老板股权再被冻结3500万",
@@ -880,14 +896,6 @@
       "word": "35岁梅西对阵37岁莫德里奇",
       "onboard_time": 1670932693,
       "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 392848,
-      "num": 392848,
-      "word": "欧文预测克罗地亚淘汰阿根廷",
-      "onboard_time": 1670936353,
-      "rank": 48,
       "category": "体育"
     },
     {
@@ -945,6 +953,14 @@
       "onboard_time": 1670850496,
       "rank": 12,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 363705,
+      "num": 346424,
+      "word": "龚俊确定不出席GQ",
+      "onboard_time": 1670941094,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 360219,
@@ -1011,6 +1027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 334573,
+      "num": 334573,
+      "word": "广西药店回应外地网友抢购药品",
+      "onboard_time": 1670929217,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 326161,
       "num": 326161,
       "word": "黄桃罐头",
@@ -1059,14 +1083,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 312704,
-      "num": 312704,
-      "word": "广西药店回应外地网友抢购药品",
-      "onboard_time": 1670929217,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 312534,
       "num": 312534,
       "word": "国务院联防联控机制新闻发布会",
@@ -1097,6 +1113,14 @@
       "onboard_time": 1670895489,
       "rank": 40,
       "category": "财经"
+    },
+    {
+      "raw_hot": 300518,
+      "num": 300518,
+      "word": "张元英AAA主持出场视频",
+      "onboard_time": 1670940134,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 298406,
@@ -1219,20 +1243,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 254483,
+      "num": 254483,
+      "word": "卡塔尔世界杯首场半决赛",
+      "onboard_time": 1670937015,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 254367,
       "num": 254367,
       "word": "5位幸存者合影12年后仅1人在世",
       "onboard_time": 1670908871,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 247589,
-      "num": 247589,
-      "word": "张元英AAA主持出场视频",
-      "onboard_time": 1670940134,
-      "rank": 30,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 246497,
@@ -1291,20 +1315,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 230865,
-      "num": 230865,
-      "word": "卡塔尔世界杯首场半决赛",
-      "onboard_time": 1670937015,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 230590,
       "num": 230590,
       "word": "AAA红毯BKPP生图",
       "onboard_time": 1670921115,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 229442,
+      "num": 229442,
+      "word": "黄桃罐头 连花清瘟",
+      "onboard_time": 1670941574,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 227965,
@@ -1451,12 +1475,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 198650,
-      "num": 198650,
-      "word": "一家4人阳性男子自驾600公里回家",
-      "onboard_time": 1670940674,
-      "rank": 40,
-      "category": "社会新闻"
+      "raw_hot": 198355,
+      "num": 198355,
+      "word": "许半夏钢铁公司起起落落落落",
+      "onboard_time": 1670941753,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 197223,
@@ -1465,6 +1489,14 @@
       "onboard_time": 1670917872,
       "rank": 40,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 195710,
+      "num": 195710,
+      "word": "老师讲人体结构叫男生脱衣展示",
+      "onboard_time": 1670941335,
+      "rank": 41,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 194918,
@@ -1553,6 +1585,14 @@
       "onboard_time": 1670938094,
       "rank": 41,
       "category": "时尚,网红"
+    },
+    {
+      "raw_hot": 183495,
+      "num": 183495,
+      "word": "萨内蒂看好阿根廷进决赛",
+      "onboard_time": 1670941155,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 179394,
@@ -1801,6 +1841,22 @@
       "onboard_time": 1670918649,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 149733,
+      "num": 149733,
+      "word": "羊羊对照表",
+      "onboard_time": 1670942114,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 149272,
+      "num": 149272,
+      "word": "37岁前中甲球员染新冠后去世",
+      "onboard_time": 1670942114,
+      "rank": 48,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 147029,
@@ -2163,6 +2219,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 96037,
+      "num": 1559442,
+      "word": "不同年龄段儿童退烧药怎么选",
+      "onboard_time": 1670921474,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 95616,
       "num": 95616,
       "word": "一图回顾行程码的一生",
@@ -2243,14 +2307,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 57178,
-      "num": 1559442,
-      "word": "不同年龄段儿童退烧药怎么选",
-      "onboard_time": 1670921474,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 56220,
       "num": 1134672,
       "word": "感染者同住人要注意什么",
@@ -2276,7 +2332,7 @@
     },
     {
       "raw_hot": 40460,
-      "num": 472269,
+      "num": 493606,
       "word": "这座城从未停止与那段历史对话",
       "onboard_time": 1670940074,
       "rank": 14,
