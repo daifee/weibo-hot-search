@@ -1,6 +1,6 @@
 {
   "startTime": 1670775913271,
-  "endTime": 1670970903300,
+  "endTime": 1670973579013,
   "band_list": [
     {
       "raw_hot": 4521108,
@@ -347,6 +347,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1392869,
+      "num": 1392869,
+      "word": "阿根廷队杀疯了",
+      "onboard_time": 1670964850,
+      "rank": 5,
+      "category": "体育,幽默"
+    },
+    {
+      "raw_hot": 1358698,
+      "num": 1358698,
+      "word": "阿根廷3比0克罗地亚",
+      "onboard_time": 1670965150,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1311879,
       "num": 1311879,
       "word": "二次感染新冠会更严重吗",
@@ -457,14 +473,6 @@
       "onboard_time": 1670892130,
       "rank": 30,
       "category": "科技"
-    },
-    {
-      "raw_hot": 1135225,
-      "num": 1135225,
-      "word": "阿根廷队杀疯了",
-      "onboard_time": 1670964850,
-      "rank": 5,
-      "category": "体育,幽默"
     },
     {
       "raw_hot": 1111936,
@@ -793,14 +801,6 @@
       "onboard_time": 1670937792,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 805452,
-      "num": 805452,
-      "word": "阿根廷3比0克罗地亚",
-      "onboard_time": 1670965150,
-      "rank": 6,
-      "category": "体育"
     },
     {
       "raw_hot": 805306,
@@ -2539,6 +2539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 278020,
+      "num": 278020,
+      "word": "新冠特效药阿兹夫定可线上购买",
+      "onboard_time": 1670967010,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 277944,
       "num": 277944,
       "word": "何运晨说饭碗保住了",
@@ -2827,6 +2835,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 244946,
+      "num": 244946,
+      "word": "克罗地亚球衣",
+      "onboard_time": 1670958729,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 242649,
       "num": 242649,
       "word": "罗云熙白鹿月照千峰过审",
@@ -2905,14 +2921,6 @@
       "onboard_time": 1670847136,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 232843,
-      "num": 232843,
-      "word": "克罗地亚球衣",
-      "onboard_time": 1670958729,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 232817,
@@ -3627,6 +3635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 177987,
+      "num": 177987,
+      "word": "法国队",
+      "onboard_time": 1670973489,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 177432,
       "num": 177432,
       "word": "1药网回应网售辉瑞新冠口服药",
@@ -3977,6 +3993,14 @@
       "onboard_time": 1670902152,
       "rank": 40,
       "category": "教育"
+    },
+    {
+      "raw_hot": 155135,
+      "num": 155135,
+      "word": "梅西神助攻",
+      "onboard_time": 1670971388,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 154629,
@@ -4803,14 +4827,6 @@
       "category": "国内要闻,军事"
     },
     {
-      "raw_hot": 107257,
-      "num": 107257,
-      "word": "新冠特效药阿兹夫定可线上购买",
-      "onboard_time": 1670967010,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 106797,
       "num": 101855,
       "word": "米卢认为克罗地亚状态极佳",
@@ -4899,6 +4915,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 96219,
+      "num": 96219,
+      "word": "你感染后的身体感受",
+      "onboard_time": 1670963469,
+      "rank": 48,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 96037,
       "num": 1755882,
       "word": "不同年龄段儿童退烧药怎么选",
@@ -4913,6 +4937,14 @@
       "onboard_time": 1670886728,
       "rank": 47,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 95321,
+      "num": 95321,
+      "word": "专家称医护或需轻伤不下火线",
+      "onboard_time": 1670953270,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 93653,
@@ -4955,14 +4987,6 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 76789,
-      "num": 76789,
-      "word": "专家称医护或需轻伤不下火线",
-      "onboard_time": 1670953270,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 76113,
       "num": 76113,
       "word": "田曦薇新剧初次爱你演医学少女",
@@ -4976,6 +5000,14 @@
       "word": "趴着玩手机的正确姿势",
       "onboard_time": 1670801168,
       "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 71541,
+      "num": 71541,
+      "word": "法国vs摩洛哥",
+      "onboard_time": 1670973550,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -5019,19 +5051,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 68382,
-      "num": 68382,
-      "word": "你感染后的身体感受",
-      "onboard_time": 1670963469,
-      "rank": 48,
-      "category": "情感,社会新闻"
-    },
-    {
       "raw_hot": 67588,
       "num": 40241,
       "word": "克罗地亚究竟强在哪儿",
       "onboard_time": 1670948892,
       "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 65099,
+      "num": 65099,
+      "word": "阿根廷国家队",
+      "onboard_time": 1670967428,
+      "rank": 29,
       "category": "体育"
     },
     {
@@ -5049,14 +5081,6 @@
       "onboard_time": 1670839224,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 61394,
-      "num": 61394,
-      "word": "阿根廷国家队",
-      "onboard_time": 1670967428,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 61177,
