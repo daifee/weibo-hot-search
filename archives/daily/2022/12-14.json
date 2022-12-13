@@ -1,7 +1,15 @@
 {
   "startTime": 1670948842910,
-  "endTime": 1670973579013,
+  "endTime": 1670974457772,
   "band_list": [
+    {
+      "raw_hot": 2379154,
+      "num": 2379154,
+      "word": "阿根廷3比0克罗地亚",
+      "onboard_time": 1670965150,
+      "rank": 6,
+      "category": "体育"
+    },
     {
       "raw_hot": 2225251,
       "num": 2225251,
@@ -33,14 +41,6 @@
       "onboard_time": 1670964850,
       "rank": 5,
       "category": "体育,幽默"
-    },
-    {
-      "raw_hot": 1358698,
-      "num": 1358698,
-      "word": "阿根廷3比0克罗地亚",
-      "onboard_time": 1670965150,
-      "rank": 6,
-      "category": "体育"
     },
     {
       "raw_hot": 1255089,
@@ -235,6 +235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 387627,
+      "num": 387627,
+      "word": "一家4人阳性男子自驾600公里回家",
+      "onboard_time": 1670940674,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 358475,
       "num": 358475,
       "word": "小罗",
@@ -251,11 +259,27 @@
       "category": "体育"
     },
     {
-      "raw_hot": 337023,
-      "num": 337023,
-      "word": "一家4人阳性男子自驾600公里回家",
-      "onboard_time": 1670940674,
-      "rank": 17,
+      "raw_hot": 313502,
+      "num": 313502,
+      "word": "法国vs摩洛哥",
+      "onboard_time": 1670973550,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 307005,
+      "num": 307005,
+      "word": "男子发烧近40度床上印出人形汗印",
+      "onboard_time": 1670926933,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 304546,
+      "num": 304546,
+      "word": "新冠特效药阿兹夫定可线上购买",
+      "onboard_time": 1670967010,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -283,20 +307,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 292711,
-      "num": 292711,
-      "word": "男子发烧近40度床上印出人形汗印",
-      "onboard_time": 1670926933,
-      "rank": 19,
-      "category": "社会新闻"
+      "raw_hot": 277823,
+      "num": 277823,
+      "word": "克罗地亚球衣",
+      "onboard_time": 1670958729,
+      "rank": 29,
+      "category": "体育"
     },
     {
-      "raw_hot": 278020,
-      "num": 278020,
-      "word": "新冠特效药阿兹夫定可线上购买",
-      "onboard_time": 1670967010,
-      "rank": 27,
-      "category": "社会新闻"
+      "raw_hot": 277153,
+      "num": 277153,
+      "word": "刘畊宏直播",
+      "onboard_time": 1670932332,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 266957,
@@ -328,14 +352,6 @@
       "word": "魔笛被换下",
       "onboard_time": 1670964429,
       "rank": 15,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 244946,
-      "num": 244946,
-      "word": "克罗地亚球衣",
-      "onboard_time": 1670958729,
-      "rank": 29,
       "category": "体育"
     },
     {
@@ -387,6 +403,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 203197,
+      "num": 203197,
+      "word": "明星们一定要这样带货吗",
+      "onboard_time": 1670921953,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 193048,
       "num": 193048,
       "word": "广西药店回应外地网友抢购药品",
@@ -409,14 +433,6 @@
       "onboard_time": 1670934672,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 184046,
-      "num": 184046,
-      "word": "明星们一定要这样带货吗",
-      "onboard_time": 1670921953,
-      "rank": 28,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 183085,
@@ -451,14 +467,6 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 168013,
-      "num": 168013,
-      "word": "刘畊宏直播",
-      "onboard_time": 1670932332,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 167269,
       "num": 167269,
       "word": "张元英AAA主持出场视频",
@@ -475,11 +483,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 162930,
+      "num": 162930,
+      "word": "老师讲人体结构叫男生脱衣展示",
+      "onboard_time": 1670941335,
+      "rank": 38,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 159757,
       "num": 159757,
       "word": "35岁梅西对阵37岁莫德里奇",
       "onboard_time": 1670932693,
       "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 157832,
+      "num": 140698,
+      "word": "詹俊说巅峰梅西不过如此",
+      "onboard_time": 1670974389,
+      "rank": 31,
       "category": "体育"
     },
     {
@@ -507,6 +531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 150599,
+      "num": 140348,
+      "word": "男子回应对病床上父亲动粗打骂",
+      "onboard_time": 1670974213,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 150001,
       "num": 150001,
       "word": "这门票太值了",
@@ -521,14 +553,6 @@
       "onboard_time": 1670940554,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 142711,
-      "num": 142711,
-      "word": "老师讲人体结构叫男生脱衣展示",
-      "onboard_time": 1670941335,
-      "rank": 38,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 138416,
@@ -577,6 +601,14 @@
       "onboard_time": 1670937617,
       "rank": 44,
       "category": "体育,幽默"
+    },
+    {
+      "raw_hot": 121137,
+      "num": 89560,
+      "word": "EDG",
+      "onboard_time": 1670974449,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 119481,
@@ -651,19 +683,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 89897,
+      "num": 89897,
+      "word": "核聚变",
+      "onboard_time": 1670974213,
+      "rank": 46,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 80522,
       "num": 80522,
       "word": "刘语熙预测会平局",
       "onboard_time": 1670949013,
       "rank": 49,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 71541,
-      "num": 71541,
-      "word": "法国vs摩洛哥",
-      "onboard_time": 1670973550,
-      "rank": 47,
       "category": "体育"
     },
     {
@@ -691,8 +723,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 53940,
-      "num": 1513021,
+      "raw_hot": 60881,
+      "num": 1824560,
       "word": "不同年龄段儿童退烧药怎么选",
       "onboard_time": 1670921474,
       "rank": 2,

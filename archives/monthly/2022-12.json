@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1670973579013,
+  "endTime": 1670974457772,
   "band_list": [
     {
       "raw_hot": 13790167,
@@ -721,6 +721,14 @@
       "onboard_time": 1670392152,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2379154,
+      "num": 2379154,
+      "word": "阿根廷3比0克罗地亚",
+      "onboard_time": 1670965150,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 2345769,
@@ -2144,14 +2152,6 @@
       "word": "卡塔尔世界杯8强出炉",
       "onboard_time": 1670368626,
       "rank": 46,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1358698,
-      "num": 1358698,
-      "word": "阿根廷3比0克罗地亚",
-      "onboard_time": 1670965150,
-      "rank": 6,
       "category": "体育"
     },
     {
@@ -13651,6 +13651,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 313502,
+      "num": 313502,
+      "word": "法国vs摩洛哥",
+      "onboard_time": 1670713629,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 313329,
       "num": 214266,
       "word": "吴磊周雨彤爱情而已对镜合拍",
@@ -14032,6 +14040,14 @@
       "word": "广东变成了广冻",
       "onboard_time": 1669906453,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 304546,
+      "num": 304546,
+      "word": "新冠特效药阿兹夫定可线上购买",
+      "onboard_time": 1670967010,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -15139,14 +15155,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 278020,
-      "num": 278020,
-      "word": "新冠特效药阿兹夫定可线上购买",
-      "onboard_time": 1670967010,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 277944,
       "num": 277944,
       "word": "何运晨说饭碗保住了",
@@ -15161,6 +15169,14 @@
       "onboard_time": 1670733254,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 277823,
+      "num": 277823,
+      "word": "克罗地亚球衣",
+      "onboard_time": 1670958729,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 277768,
@@ -16665,14 +16681,6 @@
       "onboard_time": 1670805308,
       "rank": 22,
       "category": "科技"
-    },
-    {
-      "raw_hot": 244946,
-      "num": 244946,
-      "word": "克罗地亚球衣",
-      "onboard_time": 1670958729,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 244433,
@@ -22659,6 +22667,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 157832,
+      "num": 140698,
+      "word": "詹俊说巅峰梅西不过如此",
+      "onboard_time": 1670974389,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 157715,
       "num": 157715,
       "word": "坂本龙一线上音乐会",
@@ -23304,6 +23320,14 @@
       "word": "这就是中国珠算的魅力",
       "onboard_time": 1670320091,
       "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 150599,
+      "num": 140348,
+      "word": "男子回应对病床上父亲动粗打骂",
+      "onboard_time": 1670974213,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -28068,7 +28092,7 @@
     },
     {
       "raw_hot": 96037,
-      "num": 1755882,
+      "num": 1824560,
       "word": "不同年龄段儿童退烧药怎么选",
       "onboard_time": 1670921474,
       "rank": 2,
@@ -28411,6 +28435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 89897,
+      "num": 89897,
+      "word": "核聚变",
+      "onboard_time": 1670974213,
+      "rank": 46,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 89699,
       "num": 89699,
       "word": "林书豪吐槽CBA赛区健身房",
@@ -28745,14 +28777,6 @@
       "onboard_time": 1670339830,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 77907,
-      "num": 77907,
-      "word": "法国vs摩洛哥",
-      "onboard_time": 1670713629,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 77278,

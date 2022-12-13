@@ -1,6 +1,6 @@
 {
   "startTime": 1670775913271,
-  "endTime": 1670973579013,
+  "endTime": 1670974457772,
   "band_list": [
     {
       "raw_hot": 4521108,
@@ -105,6 +105,14 @@
       "onboard_time": 1670902573,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2379154,
+      "num": 2379154,
+      "word": "阿根廷3比0克罗地亚",
+      "onboard_time": 1670965150,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 2345769,
@@ -353,14 +361,6 @@
       "onboard_time": 1670964850,
       "rank": 5,
       "category": "体育,幽默"
-    },
-    {
-      "raw_hot": 1358698,
-      "num": 1358698,
-      "word": "阿根廷3比0克罗地亚",
-      "onboard_time": 1670965150,
-      "rank": 6,
-      "category": "体育"
     },
     {
       "raw_hot": 1311879,
@@ -2291,6 +2291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 313502,
+      "num": 313502,
+      "word": "法国vs摩洛哥",
+      "onboard_time": 1670973550,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 313255,
       "num": 313255,
       "word": "开窗通风是否会有被传染的风险",
@@ -2361,6 +2369,14 @@
       "onboard_time": 1670761458,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 304546,
+      "num": 304546,
+      "word": "新冠特效药阿兹夫定可线上购买",
+      "onboard_time": 1670967010,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 302607,
@@ -2539,20 +2555,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 278020,
-      "num": 278020,
-      "word": "新冠特效药阿兹夫定可线上购买",
-      "onboard_time": 1670967010,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 277944,
       "num": 277944,
       "word": "何运晨说饭碗保住了",
       "onboard_time": 1670847795,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 277823,
+      "num": 277823,
+      "word": "克罗地亚球衣",
+      "onboard_time": 1670958729,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 274834,
@@ -2833,14 +2849,6 @@
       "onboard_time": 1670805308,
       "rank": 22,
       "category": "科技"
-    },
-    {
-      "raw_hot": 244946,
-      "num": 244946,
-      "word": "克罗地亚球衣",
-      "onboard_time": 1670958729,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 242649,
@@ -3963,6 +3971,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 157832,
+      "num": 140698,
+      "word": "詹俊说巅峰梅西不过如此",
+      "onboard_time": 1670974389,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 157635,
       "num": 157635,
       "word": "被拾荒助学爷爷感动女子捐出60万",
@@ -4080,6 +4096,14 @@
       "word": "冰面被冲走男子大喊提醒冰钓者上岸",
       "onboard_time": 1670800986,
       "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 150599,
+      "num": 140348,
+      "word": "男子回应对病床上父亲动粗打骂",
+      "onboard_time": 1670974213,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -4611,6 +4635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 121137,
+      "num": 89560,
+      "word": "EDG",
+      "onboard_time": 1670974449,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 120368,
       "num": 120368,
       "word": "赵丽颖戏里戏外事业双排",
@@ -4924,7 +4956,7 @@
     },
     {
       "raw_hot": 96037,
-      "num": 1755882,
+      "num": 1824560,
       "word": "不同年龄段儿童退烧药怎么选",
       "onboard_time": 1670921474,
       "rank": 2,
@@ -4953,6 +4985,14 @@
       "onboard_time": 1670774774,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 89897,
+      "num": 89897,
+      "word": "核聚变",
+      "onboard_time": 1670974213,
+      "rank": 46,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 85646,
@@ -5000,14 +5040,6 @@
       "word": "趴着玩手机的正确姿势",
       "onboard_time": 1670801168,
       "rank": 38,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 71541,
-      "num": 71541,
-      "word": "法国vs摩洛哥",
-      "onboard_time": 1670973550,
-      "rank": 47,
       "category": "体育"
     },
     {
