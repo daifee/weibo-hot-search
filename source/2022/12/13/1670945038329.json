@@ -1,0 +1,410 @@
+{
+  "runTime": 1670945038329,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2217314,
+        "num": 2217314,
+        "word": "马航MH370起落架舱门残骸被发现",
+        "onboard_time": 1670938393,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1941029,
+        "num": 1941029,
+        "word": "N95口罩与KN95的区别",
+        "onboard_time": 1670939416,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90885,
+        "num": 1755882,
+        "word": "不同年龄段儿童退烧药怎么选",
+        "onboard_time": 1670921474,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1604035,
+        "num": 1604035,
+        "word": "黄桃罐头 连花清瘟",
+        "onboard_time": 1670941574,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1014282,
+        "num": 1014282,
+        "word": "阳敌",
+        "onboard_time": 1670920693,
+        "rank": 4,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 973818,
+        "num": 973818,
+        "word": "一家4人阳性男子自驾600公里回家",
+        "onboard_time": 1670940674,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 932798,
+        "num": 932798,
+        "word": "美羊羊",
+        "onboard_time": 1670942533,
+        "rank": 6,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 875965,
+        "num": 875965,
+        "word": "男子给孕妻买退烧药货架摆满却不卖",
+        "onboard_time": 1670943194,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 870336,
+        "num": 870336,
+        "word": "37岁前中甲球员染新冠后去世",
+        "onboard_time": 1670942114,
+        "rank": 8,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 842550,
+        "num": 842550,
+        "word": "地狱犬已在9省份检出但尚未流行",
+        "onboard_time": 1670924354,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 779359,
+        "num": 779359,
+        "word": "风吹半夏结局",
+        "onboard_time": 1670939594,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 645553,
+        "num": 645553,
+        "word": "男子发烧近40度床上印出人形汗印",
+        "onboard_time": 1670926933,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 554709,
+        "num": 554709,
+        "word": "新冠特效药",
+        "onboard_time": 1670923513,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 524833,
+        "num": 524833,
+        "word": "县委大院编剧为创作曾挂职副县长半年",
+        "onboard_time": 1670937792,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 468424,
+        "num": 468424,
+        "word": "羊羊对照表",
+        "onboard_time": 1670942114,
+        "rank": 14,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 415563,
+        "num": 415563,
+        "word": "被烧伤四人求助已被停止治疗",
+        "onboard_time": 1670926995,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 397861,
+        "num": 397861,
+        "word": "龚俊确定不出席GQ",
+        "onboard_time": 1670941094,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 347830,
+        "num": 347830,
+        "word": "王若吉",
+        "onboard_time": 1670940554,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 332444,
+        "num": 332444,
+        "word": "王曼昱感谢肖战",
+        "onboard_time": 1670934672,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 307025,
+        "num": 307025,
+        "word": "阿根廷vs克罗地亚",
+        "onboard_time": 1670944934,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 304198,
+        "num": 304198,
+        "word": "再见爱人 卢歌苏诗丁",
+        "onboard_time": 1670934312,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 297224,
+        "num": 297224,
+        "word": "明星们一定要这样带货吗",
+        "onboard_time": 1670921953,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 293598,
+        "num": 293598,
+        "word": "梅西说给你俩窝窝",
+        "onboard_time": 1670937617,
+        "rank": 22,
+        "category": "体育,幽默"
+      },
+      {
+        "raw_hot": 289495,
+        "num": 289495,
+        "word": "张元英AAA主持出场视频",
+        "onboard_time": 1670940134,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 277371,
+        "num": 277371,
+        "word": "广西药店回应外地网友抢购药品",
+        "onboard_time": 1670929217,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278350,
+        "num": 276314,
+        "word": "35岁梅西对阵37岁莫德里奇",
+        "onboard_time": 1670932693,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 264126,
+        "num": 264126,
+        "word": "欧文预测克罗地亚淘汰阿根廷",
+        "onboard_time": 1670936353,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 263314,
+        "num": 263314,
+        "word": "克罗地亚阿根廷预测",
+        "onboard_time": 1670931192,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 256762,
+        "num": 256762,
+        "word": "许半夏变卖家产补偿滩涂村民",
+        "onboard_time": 1670934616,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 254194,
+        "num": 254194,
+        "word": "家里有阳了该怎么消毒",
+        "onboard_time": 1670943016,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244254,
+        "num": 244254,
+        "word": "世冠抽签",
+        "onboard_time": 1670944454,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 239499,
+        "num": 239499,
+        "word": "老师讲人体结构叫男生脱衣展示",
+        "onboard_time": 1670941335,
+        "rank": 31,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 232640,
+        "num": 232640,
+        "word": "女子假扮男主播与闺蜜网恋12年",
+        "onboard_time": 1670942473,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227303,
+        "num": 227303,
+        "word": "seventeen获AAA年度歌手",
+        "onboard_time": 1670938934,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 217480,
+        "num": 217480,
+        "word": "山东地方镇黄桃罐头订单暴涨",
+        "onboard_time": 1670943133,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216392,
+        "num": 216392,
+        "word": "KPL",
+        "onboard_time": 1670944574,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 208520,
+        "num": 208520,
+        "word": "女子洗碗用猪食充当洗洁精引争议",
+        "onboard_time": 1670931074,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198735,
+        "num": 198735,
+        "word": "谷歌拒将正确中国国歌置顶",
+        "onboard_time": 1670921832,
+        "rank": 37,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 197928,
+        "num": 197928,
+        "word": "有一种爱情叫梅西与安东内拉",
+        "onboard_time": 1670943915,
+        "rank": 38,
+        "category": "体育,情感"
+      },
+      {
+        "raw_hot": 197267,
+        "num": 197267,
+        "word": "女子吃饭相中碗服务员一把薅出",
+        "onboard_time": 1670926095,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196761,
+        "num": 196761,
+        "word": "宝宝拉在床上爸爸直接将床单剪洞",
+        "onboard_time": 1670925735,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195178,
+        "num": 195178,
+        "word": "为什么不建议大家异地恋",
+        "onboard_time": 1670923694,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 187421,
+        "num": 187421,
+        "word": "宜宾世界杯1.4亿赌球案告破",
+        "onboard_time": 1670929993,
+        "rank": 42,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 181456,
+        "num": 181456,
+        "word": "男孩患罕见病长61厘米长巨手",
+        "onboard_time": 1670935453,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178831,
+        "num": 178831,
+        "word": "女子混吃7种感冒止咳药全身长满脓疱",
+        "onboard_time": 1670944694,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173273,
+        "num": 173273,
+        "word": "杨迪",
+        "onboard_time": 1670915415,
+        "rank": 45,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 172783,
+        "num": 172783,
+        "word": "莫德里奇",
+        "onboard_time": 1670944993,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171362,
+        "num": 171362,
+        "word": "老师阳性后用唐老鸭式哑音上课",
+        "onboard_time": 1670925313,
+        "rank": 47,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 169460,
+        "num": 169460,
+        "word": "第一次感觉那么对不起狗",
+        "onboard_time": 1670935034,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 169425,
+        "num": 169425,
+        "word": "许半夏钢铁公司起起落落落落",
+        "onboard_time": 1670941753,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十大报告里看未来#"
+    }
+  }
+}
