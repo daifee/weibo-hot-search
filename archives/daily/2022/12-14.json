@@ -1,6 +1,6 @@
 {
   "startTime": 1670948842910,
-  "endTime": 1670958915752,
+  "endTime": 1670960003375,
   "band_list": [
     {
       "raw_hot": 1255089,
@@ -228,7 +228,7 @@
     },
     {
       "raw_hot": 185137,
-      "num": 75470,
+      "num": 111550,
       "word": "阿根廷vs克罗地亚首发",
       "onboard_time": 1670957768,
       "rank": 10,
@@ -403,6 +403,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 113369,
+      "num": 113369,
+      "word": "克罗地亚球衣",
+      "onboard_time": 1670958729,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 107894,
+      "num": 81984,
+      "word": "阿根廷从未输过世界杯半决赛",
+      "onboard_time": 1670958489,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 106797,
       "num": 101855,
       "word": "米卢认为克罗地亚状态极佳",
@@ -417,6 +433,14 @@
       "onboard_time": 1670929993,
       "rank": 49,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 96808,
+      "num": 79065,
+      "word": "C罗不打算从国家队退役",
+      "onboard_time": 1670957709,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 80522,
@@ -443,20 +467,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 61174,
+      "num": 33440,
+      "word": "梅西成为世界杯历史出场王",
+      "onboard_time": 1670958968,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 53940,
       "num": 1091058,
       "word": "不同年龄段儿童退烧药怎么选",
       "onboard_time": 1670921474,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 46268,
-      "num": 34240,
-      "word": "阿根廷从未输过世界杯半决赛",
-      "onboard_time": 1670958489,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 40241,
@@ -475,18 +499,10 @@
       "category": "影视"
     },
     {
-      "raw_hot": 35009,
-      "num": 35009,
-      "word": "克罗地亚球衣",
-      "onboard_time": 1670958729,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 33662,
-      "num": 33662,
-      "word": "C罗不打算从国家队退役",
-      "onboard_time": 1670957709,
+      "raw_hot": 34297,
+      "num": 33417,
+      "word": "阿根廷主帅看球迷雨中庆祝落泪",
+      "onboard_time": 1670950631,
       "rank": 32,
       "category": "体育"
     }
