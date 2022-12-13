@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1670967225036,
+  "endTime": 1670969916711,
   "band_list": [
     {
       "raw_hot": 13790167,
@@ -2779,6 +2779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1135225,
+      "num": 1135225,
+      "word": "阿根廷队杀疯了",
+      "onboard_time": 1670964850,
+      "rank": 5,
+      "category": "体育,幽默"
+    },
+    {
       "raw_hot": 1129932,
       "num": 1942714,
       "word": "杭州东站疫情防控",
@@ -2937,14 +2945,6 @@
       "onboard_time": 1670052972,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1091002,
-      "num": 1091002,
-      "word": "阿根廷队杀疯了",
-      "onboard_time": 1670964850,
-      "rank": 5,
-      "category": "体育,幽默"
     },
     {
       "raw_hot": 1090919,
@@ -29019,6 +29019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 67013,
+      "num": 67013,
+      "word": "新冠特效药阿兹夫定可线上购买",
+      "onboard_time": 1670967010,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 66040,
       "num": 66040,
       "word": "英格兰vs法国首发",
@@ -29097,6 +29105,14 @@
       "onboard_time": 1670839224,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 61394,
+      "num": 61394,
+      "word": "阿根廷国家队",
+      "onboard_time": 1670967428,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 61177,

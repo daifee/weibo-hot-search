@@ -1,6 +1,6 @@
 {
   "startTime": 1670948842910,
-  "endTime": 1670967225036,
+  "endTime": 1670969916711,
   "band_list": [
     {
       "raw_hot": 2225251,
@@ -43,20 +43,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1135225,
+      "num": 1135225,
+      "word": "阿根廷队杀疯了",
+      "onboard_time": 1670964850,
+      "rank": 5,
+      "category": "体育,幽默"
+    },
+    {
       "raw_hot": 1099573,
       "num": 1099573,
       "word": "梅西莫德里奇拥抱",
       "onboard_time": 1670962090,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1091002,
-      "num": 1091002,
-      "word": "阿根廷队杀疯了",
-      "onboard_time": 1670964850,
-      "rank": 5,
-      "category": "体育,幽默"
     },
     {
       "raw_hot": 1040954,
@@ -640,6 +640,22 @@
       "word": "克罗地亚究竟强在哪儿",
       "onboard_time": 1670948892,
       "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 67013,
+      "num": 67013,
+      "word": "新冠特效药阿兹夫定可线上购买",
+      "onboard_time": 1670967010,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 61394,
+      "num": 61394,
+      "word": "阿根廷国家队",
+      "onboard_time": 1670967428,
+      "rank": 29,
       "category": "体育"
     },
     {

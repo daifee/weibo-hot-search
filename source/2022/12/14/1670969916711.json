@@ -1,0 +1,410 @@
+{
+  "runTime": 1670969916711,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1138967,
+        "num": 1138967,
+        "word": "阿根廷vs克罗地亚",
+        "onboard_time": 1670944934,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1135225,
+        "num": 1135225,
+        "word": "阿根廷队杀疯了",
+        "onboard_time": 1670964850,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22509,
+        "num": 731384,
+        "word": "不同年龄段儿童退烧药怎么选",
+        "onboard_time": 1670921474,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 537528,
+        "num": 537528,
+        "word": "梅西",
+        "onboard_time": 1670960049,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 388361,
+        "num": 388361,
+        "word": "梅西莫德里奇拥抱",
+        "onboard_time": 1670962090,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 252859,
+        "num": 252859,
+        "word": "裁判",
+        "onboard_time": 1670962090,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 352762,
+        "num": 251873,
+        "word": "梅西个人能力",
+        "onboard_time": 1670965450,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 235239,
+        "num": 235239,
+        "word": "阿根廷3比0克罗地亚",
+        "onboard_time": 1670965150,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 227254,
+        "num": 227254,
+        "word": "迪巴拉上场",
+        "onboard_time": 1670964070,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 238388,
+        "num": 207114,
+        "word": "梅西成为阿根廷队世界杯射手王",
+        "onboard_time": 1670962029,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171668,
+        "num": 171668,
+        "word": "男子给孕妻买退烧药货架摆满却不卖",
+        "onboard_time": 1670943194,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159435,
+        "num": 159435,
+        "word": "N95口罩与KN95的区别",
+        "onboard_time": 1670939416,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153963,
+        "num": 153963,
+        "word": "梅西过人",
+        "onboard_time": 1670964070,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136532,
+        "num": 136532,
+        "word": "女子混吃7种感冒止咳药全身长满脓疱",
+        "onboard_time": 1670944694,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127266,
+        "num": 127266,
+        "word": "利瓦科维奇",
+        "onboard_time": 1670964251,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121148,
+        "num": 121148,
+        "word": "克罗地亚球衣",
+        "onboard_time": 1670958729,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119696,
+        "num": 119696,
+        "word": "阿根廷主帅看球迷雨中庆祝落泪",
+        "onboard_time": 1670950631,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118055,
+        "num": 118055,
+        "word": "小罗",
+        "onboard_time": 1670962210,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117406,
+        "num": 117406,
+        "word": "马航MH370起落架舱门残骸被发现",
+        "onboard_time": 1670938393,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109708,
+        "num": 109708,
+        "word": "莫德里奇",
+        "onboard_time": 1670944993,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104271,
+        "num": 104271,
+        "word": "一家4人阳性男子自驾600公里回家",
+        "onboard_time": 1670940674,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98739,
+        "num": 98739,
+        "word": "梅西点球破门",
+        "onboard_time": 1670960230,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92706,
+        "num": 92706,
+        "word": "魔笛被换下",
+        "onboard_time": 1670964429,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92637,
+        "num": 92637,
+        "word": "阿尔瓦雷斯 牛",
+        "onboard_time": 1670963048,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 84345,
+        "num": 84345,
+        "word": "男子发烧近40度床上印出人形汗印",
+        "onboard_time": 1670926933,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71738,
+        "num": 71738,
+        "word": "孩子确诊量体温温度涨幅肉眼可见",
+        "onboard_time": 1670944874,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68477,
+        "num": 68477,
+        "word": "风吹半夏结局",
+        "onboard_time": 1670939594,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 67013,
+        "num": 67013,
+        "word": "新冠特效药阿兹夫定可线上购买",
+        "onboard_time": 1670967010,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64764,
+        "num": 64764,
+        "word": "你感染后的身体感受",
+        "onboard_time": 1670963469,
+        "rank": 28,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 61394,
+        "num": 61394,
+        "word": "阿根廷国家队",
+        "onboard_time": 1670967428,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96192,
+        "num": 60926,
+        "word": "北京1岁宝宝照顾阳性妈妈",
+        "onboard_time": 1670947691,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60316,
+        "num": 60316,
+        "word": "黄桃罐头 连花清瘟",
+        "onboard_time": 1670941574,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49185,
+        "num": 49185,
+        "word": "县委大院编剧为创作曾挂职副县长半年",
+        "onboard_time": 1670937792,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 46969,
+        "num": 46969,
+        "word": "家里有阳了该怎么消毒",
+        "onboard_time": 1670943016,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45878,
+        "num": 45878,
+        "word": "谷歌拒将正确中国国歌置顶",
+        "onboard_time": 1670921832,
+        "rank": 34,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 42296,
+        "num": 42296,
+        "word": "女子假扮男主播与闺蜜网恋12年",
+        "onboard_time": 1670942473,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39329,
+        "num": 39329,
+        "word": "地狱犬已在9省份检出但尚未流行",
+        "onboard_time": 1670924354,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39189,
+        "num": 39189,
+        "word": "龚俊确定不出席GQ",
+        "onboard_time": 1670941094,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39185,
+        "num": 39185,
+        "word": "明星们一定要这样带货吗",
+        "onboard_time": 1670921953,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 38562,
+        "num": 38562,
+        "word": "行程卡纪念版",
+        "onboard_time": 1670945352,
+        "rank": 39,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 34718,
+        "num": 34718,
+        "word": "山东地方镇黄桃罐头订单暴涨",
+        "onboard_time": 1670943133,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32634,
+        "num": 32634,
+        "word": "专家称医护或需轻伤不下火线",
+        "onboard_time": 1670953270,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31963,
+        "num": 31963,
+        "word": "再见爱人 卢歌苏诗丁",
+        "onboard_time": 1670934312,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27674,
+        "num": 27674,
+        "word": "许半夏变卖家产补偿滩涂村民",
+        "onboard_time": 1670934616,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 27368,
+        "num": 27368,
+        "word": "利瓦科维奇原来还是学霸",
+        "onboard_time": 1670962927,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26857,
+        "num": 26857,
+        "word": "美羊羊",
+        "onboard_time": 1670942533,
+        "rank": 45,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 25968,
+        "num": 25968,
+        "word": "羊羊对照表",
+        "onboard_time": 1670942114,
+        "rank": 46,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 25397,
+        "num": 25397,
+        "word": "seventeen获AAA年度歌手",
+        "onboard_time": 1670938934,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 25320,
+        "num": 25320,
+        "word": "伊甸园",
+        "onboard_time": 1670946853,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24207,
+        "num": 24207,
+        "word": "这门票太值了",
+        "onboard_time": 1670949432,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#第9个国家公祭日#"
+    }
+  }
+}
