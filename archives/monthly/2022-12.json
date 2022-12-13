@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1670962814027,
+  "endTime": 1670963655692,
   "band_list": [
     {
       "raw_hot": 13790167,
@@ -10139,6 +10139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 424678,
+      "num": 424678,
+      "word": "裁判",
+      "onboard_time": 1670962090,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 424671,
       "num": 424671,
       "word": "25岁女生逗奶奶相亲认识84岁老头",
@@ -15675,6 +15683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 262914,
+      "num": 262914,
+      "word": "小罗",
+      "onboard_time": 1670962210,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 262740,
       "num": 262740,
       "word": "韩版风声定档",
@@ -19827,14 +19843,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 188007,
-      "num": 188007,
-      "word": "小罗",
-      "onboard_time": 1670962210,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 187998,
       "num": 187998,
       "word": "2022S联赛秋季赛",
@@ -21512,6 +21520,14 @@
       "word": "梅西与中国女足的梦幻联动",
       "onboard_time": 1670127190,
       "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 168801,
+      "num": 168801,
+      "word": "阿尔瓦雷斯 牛",
+      "onboard_time": 1670963048,
+      "rank": 9,
       "category": "体育"
     },
     {
@@ -23761,6 +23777,14 @@
       "onboard_time": 1670642053,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 144456,
+      "num": 144456,
+      "word": "梅西莫德里奇拥抱",
+      "onboard_time": 1670962090,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 144433,
@@ -27427,14 +27451,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 105407,
-      "num": 105407,
-      "word": "裁判",
-      "onboard_time": 1670962090,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 105238,
       "num": 549379,
       "word": "95后女孩全身只有手能动自学黏土",
@@ -29059,14 +29075,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 56719,
-      "num": 24732,
-      "word": "梅西莫德里奇拥抱",
-      "onboard_time": 1670962090,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 56401,
       "num": 186312,
       "word": "莱万晒女儿照片",
@@ -29449,6 +29457,14 @@
       "onboard_time": 1670613192,
       "rank": 49,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 18067,
+      "num": 18067,
+      "word": "你感染后的身体感受",
+      "onboard_time": 1670963469,
+      "rank": 48,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 16100,

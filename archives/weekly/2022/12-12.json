@@ -1,6 +1,6 @@
 {
   "startTime": 1670775913271,
-  "endTime": 1670962814027,
+  "endTime": 1670963655692,
   "band_list": [
     {
       "raw_hot": 4521108,
@@ -1035,6 +1035,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 618221,
+      "num": 484833,
+      "word": "梅西",
+      "onboard_time": 1670960049,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 614750,
       "num": 614750,
       "word": "田曦薇新剧齐刘海马尾造型",
@@ -1403,14 +1411,6 @@
       "category": "体育,幽默"
     },
     {
-      "raw_hot": 484833,
-      "num": 484833,
-      "word": "梅西",
-      "onboard_time": 1670960049,
-      "rank": 4,
-      "category": "体育"
-    },
-    {
       "raw_hot": 483019,
       "num": 483019,
       "word": "宝宝拉在床上爸爸直接将床单剪洞",
@@ -1633,6 +1633,14 @@
       "onboard_time": 1670841018,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 424678,
+      "num": 424678,
+      "word": "裁判",
+      "onboard_time": 1670962090,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 424378,
@@ -2505,6 +2513,14 @@
       "onboard_time": 1670947091,
       "rank": 26,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 262914,
+      "num": 262914,
+      "word": "小罗",
+      "onboard_time": 1670962210,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 262740,
@@ -3403,14 +3419,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 188007,
-      "num": 188007,
-      "word": "小罗",
-      "onboard_time": 1670962210,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 187981,
       "num": 187981,
       "word": "阿凡达2好看吗",
@@ -3657,6 +3665,14 @@
       "onboard_time": 1670825893,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 168801,
+      "num": 168801,
+      "word": "阿尔瓦雷斯 牛",
+      "onboard_time": 1670963048,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 168302,
@@ -4057,6 +4073,14 @@
       "onboard_time": 1670770698,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 144456,
+      "num": 144456,
+      "word": "梅西莫德里奇拥抱",
+      "onboard_time": 1670962090,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 142954,
@@ -4731,14 +4755,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 105407,
-      "num": 105407,
-      "word": "裁判",
-      "onboard_time": 1670962090,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 104947,
       "num": 104947,
       "word": "外孙女接棒外婆为南京大屠杀证言",
@@ -4963,14 +4979,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 56719,
-      "num": 24732,
-      "word": "梅西莫德里奇拥抱",
-      "onboard_time": 1670962090,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 56220,
       "num": 1561482,
       "word": "感染者同住人要注意什么",
@@ -5025,6 +5033,14 @@
       "onboard_time": 1670940074,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18067,
+      "num": 18067,
+      "word": "你感染后的身体感受",
+      "onboard_time": 1670963469,
+      "rank": 48,
+      "category": "情感,社会新闻"
     }
   ],
   "hotgov_list": [
