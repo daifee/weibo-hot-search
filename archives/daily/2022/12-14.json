@@ -1,6 +1,6 @@
 {
   "startTime": 1670948842910,
-  "endTime": 1670956699086,
+  "endTime": 1670958915752,
   "band_list": [
     {
       "raw_hot": 1255089,
@@ -227,6 +227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 185137,
+      "num": 75470,
+      "word": "阿根廷vs克罗地亚首发",
+      "onboard_time": 1670957768,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 184851,
       "num": 184851,
       "word": "王曼昱感谢肖战",
@@ -395,20 +403,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 106797,
+      "num": 101855,
+      "word": "米卢认为克罗地亚状态极佳",
+      "onboard_time": 1670952013,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 106671,
       "num": 106671,
       "word": "宜宾世界杯1.4亿赌球案告破",
       "onboard_time": 1670929993,
       "rank": 49,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 101855,
-      "num": 101855,
-      "word": "米卢认为克罗地亚状态极佳",
-      "onboard_time": 1670952013,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 80522,
@@ -419,8 +427,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 75325,
-      "num": 75325,
+      "raw_hot": 76789,
+      "num": 76789,
       "word": "专家称医护或需轻伤不下火线",
       "onboard_time": 1670953270,
       "rank": 19,
@@ -443,11 +451,43 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 32553,
-      "num": 32553,
+      "raw_hot": 46268,
+      "num": 34240,
+      "word": "阿根廷从未输过世界杯半决赛",
+      "onboard_time": 1670958489,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 40241,
+      "num": 40241,
       "word": "克罗地亚究竟强在哪儿",
       "onboard_time": 1670948892,
       "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 35063,
+      "num": 35063,
+      "word": "阿凡达2好看吗",
+      "onboard_time": 1670935573,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 35009,
+      "num": 35009,
+      "word": "克罗地亚球衣",
+      "onboard_time": 1670958729,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 33662,
+      "num": 33662,
+      "word": "C罗不打算从国家队退役",
+      "onboard_time": 1670957709,
+      "rank": 32,
       "category": "体育"
     }
   ],

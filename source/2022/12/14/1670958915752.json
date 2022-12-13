@@ -1,0 +1,410 @@
+{
+  "runTime": 1670958915752,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 671835,
+        "num": 671835,
+        "word": "阿根廷vs克罗地亚",
+        "onboard_time": 1670944934,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 208508,
+        "num": 208508,
+        "word": "N95口罩与KN95的区别",
+        "onboard_time": 1670939416,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 13992,
+        "num": 196208,
+        "word": "不同年龄段儿童退烧药怎么选",
+        "onboard_time": 1670921474,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184778,
+        "num": 184778,
+        "word": "马航MH370起落架舱门残骸被发现",
+        "onboard_time": 1670938393,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150789,
+        "num": 150789,
+        "word": "男子给孕妻买退烧药货架摆满却不卖",
+        "onboard_time": 1670943194,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116747,
+        "num": 116747,
+        "word": "女子混吃7种感冒止咳药全身长满脓疱",
+        "onboard_time": 1670944694,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93650,
+        "num": 93650,
+        "word": "黄桃罐头 连花清瘟",
+        "onboard_time": 1670941574,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88038,
+        "num": 88038,
+        "word": "地狱犬已在9省份检出但尚未流行",
+        "onboard_time": 1670924354,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82243,
+        "num": 82243,
+        "word": "男子发烧近40度床上印出人形汗印",
+        "onboard_time": 1670926933,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76789,
+        "num": 76789,
+        "word": "专家称医护或需轻伤不下火线",
+        "onboard_time": 1670953270,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185137,
+        "num": 75470,
+        "word": "阿根廷vs克罗地亚首发",
+        "onboard_time": 1670957768,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106797,
+        "num": 75002,
+        "word": "米卢认为克罗地亚状态极佳",
+        "onboard_time": 1670952013,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 72548,
+        "num": 72548,
+        "word": "风吹半夏结局",
+        "onboard_time": 1670939594,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 69407,
+        "num": 69407,
+        "word": "一家4人阳性男子自驾600公里回家",
+        "onboard_time": 1670940674,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67753,
+        "num": 67753,
+        "word": "伊甸园",
+        "onboard_time": 1670946853,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 66190,
+        "num": 66190,
+        "word": "孩子确诊量体温温度涨幅肉眼可见",
+        "onboard_time": 1670944874,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64324,
+        "num": 64324,
+        "word": "行程卡纪念版",
+        "onboard_time": 1670945352,
+        "rank": 16,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 62791,
+        "num": 62791,
+        "word": "范志毅向前国足后卫赵鹏道歉",
+        "onboard_time": 1670945175,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 62263,
+        "num": 62263,
+        "word": "女子假扮男主播与闺蜜网恋12年",
+        "onboard_time": 1670942473,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51101,
+        "num": 51101,
+        "word": "再见爱人 卢歌苏诗丁",
+        "onboard_time": 1670934312,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 48796,
+        "num": 48796,
+        "word": "35岁梅西对阵37岁莫德里奇",
+        "onboard_time": 1670932693,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43108,
+        "num": 43108,
+        "word": "谷歌拒将正确中国国歌置顶",
+        "onboard_time": 1670921832,
+        "rank": 21,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 42654,
+        "num": 42654,
+        "word": "家里有阳了该怎么消毒",
+        "onboard_time": 1670943016,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41255,
+        "num": 41255,
+        "word": "美羊羊",
+        "onboard_time": 1670942533,
+        "rank": 23,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 40241,
+        "num": 40241,
+        "word": "克罗地亚究竟强在哪儿",
+        "onboard_time": 1670948892,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 39087,
+        "num": 39087,
+        "word": "广西药店回应外地网友抢购药品",
+        "onboard_time": 1670929217,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38345,
+        "num": 38345,
+        "word": "梅西说给你俩窝窝",
+        "onboard_time": 1670937617,
+        "rank": 26,
+        "category": "体育,幽默"
+      },
+      {
+        "raw_hot": 36645,
+        "num": 36645,
+        "word": "一个学期没练功的舞蹈生",
+        "onboard_time": 1670946253,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 35063,
+        "num": 35063,
+        "word": "阿凡达2好看吗",
+        "onboard_time": 1670935573,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 35009,
+        "num": 35009,
+        "word": "克罗地亚球衣",
+        "onboard_time": 1670958729,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 82392,
+        "num": 34373,
+        "word": "北京1岁宝宝照顾阳性妈妈",
+        "onboard_time": 1670947691,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46268,
+        "num": 34240,
+        "word": "阿根廷从未输过世界杯半决赛",
+        "onboard_time": 1670958489,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33662,
+        "num": 33662,
+        "word": "C罗不打算从国家队退役",
+        "onboard_time": 1670957709,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32736,
+        "num": 32736,
+        "word": "羊羊对照表",
+        "onboard_time": 1670942114,
+        "rank": 33,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 32308,
+        "num": 32308,
+        "word": "欧文预测克罗地亚淘汰阿根廷",
+        "onboard_time": 1670936353,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32078,
+        "num": 32078,
+        "word": "阳敌",
+        "onboard_time": 1670920693,
+        "rank": 35,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 30184,
+        "num": 30184,
+        "word": "山东地方镇黄桃罐头订单暴涨",
+        "onboard_time": 1670943133,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30081,
+        "num": 30081,
+        "word": "这门票太值了",
+        "onboard_time": 1670949432,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 29662,
+        "num": 29662,
+        "word": "县委大院编剧为创作曾挂职副县长半年",
+        "onboard_time": 1670937792,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 29591,
+        "num": 29591,
+        "word": "世冠抽签",
+        "onboard_time": 1670944454,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 29025,
+        "num": 29025,
+        "word": "张元英AAA主持出场视频",
+        "onboard_time": 1670940134,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 28181,
+        "num": 28181,
+        "word": "云南家暴纵火案将宣判",
+        "onboard_time": 1670947091,
+        "rank": 41,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 27132,
+        "num": 27132,
+        "word": "老师讲人体结构叫男生脱衣展示",
+        "onboard_time": 1670941335,
+        "rank": 42,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 25591,
+        "num": 25591,
+        "word": "王曼昱感谢肖战",
+        "onboard_time": 1670934672,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25543,
+        "num": 25543,
+        "word": "自制学校门口的土豆夹饼",
+        "onboard_time": 1670946672,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 24135,
+        "num": 24135,
+        "word": "新冠特效药",
+        "onboard_time": 1670923513,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23925,
+        "num": 23925,
+        "word": "许半夏变卖家产补偿滩涂村民",
+        "onboard_time": 1670934616,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 23911,
+        "num": 23911,
+        "word": "seventeen获AAA年度歌手",
+        "onboard_time": 1670938934,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 23901,
+        "num": 23901,
+        "word": "龚俊确定不出席GQ",
+        "onboard_time": 1670941094,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23769,
+        "num": 23769,
+        "word": "克罗地亚阿根廷预测",
+        "onboard_time": 1670931192,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#第9个国家公祭日#"
+    }
+  }
+}
