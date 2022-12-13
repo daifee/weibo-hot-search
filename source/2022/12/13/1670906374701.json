@@ -1,0 +1,410 @@
+{
+  "runTime": 1670906374701,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2424426,
+        "num": 2424426,
+        "word": "她还没等到道歉",
+        "onboard_time": 1670902573,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1389922,
+        "num": 1389922,
+        "word": "阳性感染者只咳嗽发烧算无症状吗",
+        "onboard_time": 1670895252,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200320,
+        "num": 1327754,
+        "word": "疫情下常见情绪反应及指南",
+        "onboard_time": 1670902751,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2458934,
+        "num": 1319489,
+        "word": "护士将导尿管插错疑致孕妇流产",
+        "onboard_time": 1670901131,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1267644,
+        "num": 1267644,
+        "word": "心墙",
+        "onboard_time": 1670904491,
+        "rank": 4,
+        "category": "体育,音乐"
+      },
+      {
+        "raw_hot": 1045996,
+        "num": 1045996,
+        "word": "将妻子送出火场再救儿子时父子俩遇难",
+        "onboard_time": 1670903832,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 952878,
+        "num": 952878,
+        "word": "领导半夜给员工安排工作要求秒回",
+        "onboard_time": 1670900771,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 728649,
+        "num": 728649,
+        "word": "首次全国大规模异地借考如何实现",
+        "onboard_time": 1670901613,
+        "rank": 7,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 655275,
+        "num": 655275,
+        "word": "阳性人员家属要不要提前吃药",
+        "onboard_time": 1670902814,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 630106,
+        "num": 630106,
+        "word": "男子看网传视频发现儿子被霸凌",
+        "onboard_time": 1670895850,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 569321,
+        "num": 569321,
+        "word": "孕妇怕感染在车里办公",
+        "onboard_time": 1670891529,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 503655,
+        "num": 503655,
+        "word": "4人消费近300元后趁店家忙逃单",
+        "onboard_time": 1670902332,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 492553,
+        "num": 492553,
+        "word": "小狗也想养自己的小狗吧",
+        "onboard_time": 1670904015,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 490018,
+        "num": 490018,
+        "word": "地狱犬",
+        "onboard_time": 1670905332,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42687,
+        "num": 430947,
+        "word": "请世界听这和平之声",
+        "onboard_time": 1670904015,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 414848,
+        "num": 414848,
+        "word": "马龙樊振东个人信息遭泄露",
+        "onboard_time": 1670905151,
+        "rank": 15,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 386143,
+        "num": 386143,
+        "word": "大规模核酸取消后感染人数如何预估",
+        "onboard_time": 1670896510,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 376437,
+        "num": 376437,
+        "word": "克罗地亚战阿根廷还会拖堂吗",
+        "onboard_time": 1670904072,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 367822,
+        "num": 367822,
+        "word": "如何分辨新冠和普通感冒",
+        "onboard_time": 1670905272,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354458,
+        "num": 354458,
+        "word": "RNG老板股权再被冻结3500万",
+        "onboard_time": 1670903351,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 352627,
+        "num": 352627,
+        "word": "顾客买49.9元草莓塔全是绿色草莓",
+        "onboard_time": 1670887868,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303385,
+        "num": 303385,
+        "word": "专家提醒别拿电解质水当水喝",
+        "onboard_time": 1670900892,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292928,
+        "num": 292928,
+        "word": "黄磊县委大院演技",
+        "onboard_time": 1670889969,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 286007,
+        "num": 286007,
+        "word": "中国疾控科普BQ.1",
+        "onboard_time": 1670904551,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279262,
+        "num": 279262,
+        "word": "女子被骗去酒店隔离转给对方29万",
+        "onboard_time": 1670899870,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278247,
+        "num": 278247,
+        "word": "有点社恐的小猫",
+        "onboard_time": 1670900950,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 265971,
+        "num": 265971,
+        "word": "阳性者尽量少叫快递外卖",
+        "onboard_time": 1670853621,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265931,
+        "num": 265931,
+        "word": "阳康多久可以返岗",
+        "onboard_time": 1670892130,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265619,
+        "num": 265619,
+        "word": "宝鹃扮演者回应网友喊宝鹃",
+        "onboard_time": 1670860274,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 248748,
+        "num": 248748,
+        "word": "宝妈分享6个月女儿转阴全过程",
+        "onboard_time": 1670903111,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244079,
+        "num": 244079,
+        "word": "侵华日军日记曝光慰安所细节",
+        "onboard_time": 1670899632,
+        "rank": 30,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 231907,
+        "num": 231907,
+        "word": "女生教科书式防疫去上班第2天阳了",
+        "onboard_time": 1670852955,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212540,
+        "num": 212540,
+        "word": "南京大屠杀",
+        "onboard_time": 1670887627,
+        "rank": 32,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 210434,
+        "num": 210434,
+        "word": "今晚为梅西莫德里奇熬夜",
+        "onboard_time": 1670894652,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 200426,
+        "num": 200426,
+        "word": "阳过一次后还会再阳吗",
+        "onboard_time": 1670897169,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192709,
+        "num": 192709,
+        "word": "特斯拉市值一夜蒸发2442亿",
+        "onboard_time": 1670895489,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 182116,
+        "num": 182116,
+        "word": "电影想见你王诠胜角色预告",
+        "onboard_time": 1670906175,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 173294,
+        "num": 173294,
+        "word": "阿根廷主帅说看莫德里奇踢球是享受",
+        "onboard_time": 1670896689,
+        "rank": 37,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 154629,
+        "num": 154629,
+        "word": "梅西训练笑得好开心",
+        "onboard_time": 1670905151,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154400,
+        "num": 154400,
+        "word": "素食主义家长问婴儿喝椰奶还是豆浆",
+        "onboard_time": 1670859494,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153042,
+        "num": 153042,
+        "word": "1000多年前古人就在茶上拉花了",
+        "onboard_time": 1670905272,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152898,
+        "num": 152898,
+        "word": "女子吃火锅加热3次还有蠕动虫子",
+        "onboard_time": 1670857156,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140220,
+        "num": 140220,
+        "word": "在北京的我这两天be like",
+        "onboard_time": 1670854035,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 139007,
+        "num": 139007,
+        "word": "格力电器再次大手笔分红",
+        "onboard_time": 1670899632,
+        "rank": 43,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 138419,
+        "num": 138419,
+        "word": "FTX创始人被捕",
+        "onboard_time": 1670900230,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 137791,
+        "num": 137791,
+        "word": "这是今日10点的南京",
+        "onboard_time": 1670901131,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137479,
+        "num": 137479,
+        "word": "上海多家温泉馆回应儿童混浴限制",
+        "onboard_time": 1670906111,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136912,
+        "num": 136912,
+        "word": "韩版风声定档",
+        "onboard_time": 1670898131,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 136218,
+        "num": 136218,
+        "word": "下班后的工作消息该回复吗",
+        "onboard_time": 1670905870,
+        "rank": 48,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 133954,
+        "num": 133954,
+        "word": "主人给狗晒窝忘收回狗子委屈哭泣",
+        "onboard_time": 1670888168,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#国家公祭日#"
+    }
+  }
+}
