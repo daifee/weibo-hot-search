@@ -1,6 +1,6 @@
 {
   "startTime": 1670948842910,
-  "endTime": 1670948842910,
+  "endTime": 1670949957704,
   "band_list": [
     {
       "raw_hot": 1255089,
@@ -43,8 +43,16 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 659330,
-      "num": 659330,
+      "raw_hot": 721164,
+      "num": 721164,
+      "word": "伊甸园",
+      "onboard_time": 1670946853,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 688681,
+      "num": 688681,
       "word": "阿根廷vs克罗地亚",
       "onboard_time": 1670944934,
       "rank": 5,
@@ -59,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 585786,
+      "num": 585786,
+      "word": "行程卡纪念版",
+      "onboard_time": 1670945352,
+      "rank": 11,
+      "category": "科技"
+    },
+    {
       "raw_hot": 580896,
       "num": 580896,
       "word": "美羊羊",
@@ -67,28 +83,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 569835,
-      "num": 569835,
-      "word": "伊甸园",
-      "onboard_time": 1670946853,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 559668,
       "num": 559668,
       "word": "阳敌",
       "onboard_time": 1670920693,
       "rank": 10,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 554797,
-      "num": 554797,
-      "word": "行程卡纪念版",
-      "onboard_time": 1670945352,
-      "rank": 11,
-      "category": "科技"
     },
     {
       "raw_hot": 485975,
@@ -131,19 +131,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 394772,
+      "num": 182719,
+      "word": "北京1岁宝宝照顾阳性妈妈",
+      "onboard_time": 1670947691,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 337023,
       "num": 337023,
       "word": "一家4人阳性男子自驾600公里回家",
       "onboard_time": 1670940674,
       "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 308791,
-      "num": 182719,
-      "word": "北京1岁宝宝照顾阳性妈妈",
-      "onboard_time": 1670947691,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -179,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 257835,
+      "num": 257835,
+      "word": "云南家暴纵火案将宣判",
+      "onboard_time": 1670947091,
+      "rank": 26,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 231919,
       "num": 231919,
       "word": "再见爱人 卢歌苏诗丁",
@@ -203,20 +211,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 204368,
-      "num": 204368,
+      "raw_hot": 218014,
+      "num": 218014,
       "word": "一个学期没练功的舞蹈生",
       "onboard_time": 1670946253,
       "rank": 25,
       "category": "幽默"
     },
     {
-      "raw_hot": 203976,
-      "num": 203976,
-      "word": "云南家暴纵火案将宣判",
-      "onboard_time": 1670947091,
-      "rank": 26,
-      "category": "社会负面"
+      "raw_hot": 193048,
+      "num": 193048,
+      "word": "广西药店回应外地网友抢购药品",
+      "onboard_time": 1670929217,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 184851,
@@ -249,14 +257,6 @@
       "onboard_time": 1670941094,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 179883,
-      "num": 179883,
-      "word": "广西药店回应外地网友抢购药品",
-      "onboard_time": 1670929217,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 170267,
@@ -393,6 +393,22 @@
       "onboard_time": 1670929993,
       "rank": 49,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 83910,
+      "num": 83910,
+      "word": "这门票太值了",
+      "onboard_time": 1670949432,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 80522,
+      "num": 80522,
+      "word": "刘语熙预测会平局",
+      "onboard_time": 1670949013,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 53940,
