@@ -1,0 +1,410 @@
+{
+  "runTime": 1670916819321,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3252657,
+        "num": 3252657,
+        "word": "伊朗球员因支持女性将被处决",
+        "onboard_time": 1670914392,
+        "rank": 0,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 1320102,
+        "num": 1320102,
+        "word": "1家5口4人阳15岁女儿照顾全家",
+        "onboard_time": 1670907851,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122269,
+        "num": 1248582,
+        "word": "疫情下常见情绪反应及指南",
+        "onboard_time": 1670902751,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1201400,
+        "num": 1201400,
+        "word": "女子下班回家发现2千万豪宅塌了",
+        "onboard_time": 1670914032,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1146967,
+        "num": 1146967,
+        "word": "护士将导尿管插错疑致孕妇流产",
+        "onboard_time": 1670901131,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1054643,
+        "num": 1054643,
+        "word": "杨迪",
+        "onboard_time": 1670915415,
+        "rank": 5,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 1029982,
+        "num": 1029982,
+        "word": "她还没等到道歉",
+        "onboard_time": 1670902573,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 614542,
+        "num": 614542,
+        "word": "中青年阳了7天内会发生什么",
+        "onboard_time": 1670913913,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 544709,
+        "num": 544709,
+        "word": "抗原阳了新冠保险会赔钱吗",
+        "onboard_time": 1670910016,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 531365,
+        "num": 531365,
+        "word": "如何分辨新冠和普通感冒",
+        "onboard_time": 1670905272,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1552703,
+        "num": 500109,
+        "word": "AAA",
+        "onboard_time": 1670911512,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 544370,
+        "num": 480032,
+        "word": "网传高校学生被保安锁喉带走",
+        "onboard_time": 1670912772,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 455307,
+        "num": 455307,
+        "word": "维C泡腾片不要过量服用",
+        "onboard_time": 1670912234,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 439281,
+        "num": 439281,
+        "word": "C罗和梅西家庭氛围的区别",
+        "onboard_time": 1670908871,
+        "rank": 13,
+        "category": "体育,幽默"
+      },
+      {
+        "raw_hot": 397089,
+        "num": 397089,
+        "word": "阿根廷vs克罗地亚",
+        "onboard_time": 1670907551,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 372294,
+        "num": 372294,
+        "word": "莫德里奇说孤勇者可以激励队友",
+        "onboard_time": 1670908750,
+        "rank": 15,
+        "category": "体育,音乐"
+      },
+      {
+        "raw_hot": 361084,
+        "num": 361084,
+        "word": "阳性感染者只咳嗽发烧算无症状吗",
+        "onboard_time": 1670895252,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334658,
+        "num": 334658,
+        "word": "妈妈巧用尿不湿给高烧儿子降温",
+        "onboard_time": 1670914331,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 320840,
+        "num": 320840,
+        "word": "著名大V侯宁去世",
+        "onboard_time": 1670910852,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 320240,
+        "num": 320240,
+        "word": "8岁男童突发关节疼痛被确诊患癌症之王",
+        "onboard_time": 1670909170,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318486,
+        "num": 318486,
+        "word": "卫健委回应护士操作不当致婴儿骨折",
+        "onboard_time": 1670913551,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296029,
+        "num": 296029,
+        "word": "浙江一大学给学生发新冠预防中药包",
+        "onboard_time": 1670913191,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281414,
+        "num": 281414,
+        "word": "电解质水是智商税吗",
+        "onboard_time": 1670910252,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276176,
+        "num": 276176,
+        "word": "将妻子送出火场再救儿子时父子俩遇难",
+        "onboard_time": 1670903832,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272520,
+        "num": 272520,
+        "word": "首次全国大规模异地借考如何实现",
+        "onboard_time": 1670901613,
+        "rank": 24,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 261578,
+        "num": 261578,
+        "word": "心墙",
+        "onboard_time": 1670904491,
+        "rank": 25,
+        "category": "体育,音乐"
+      },
+      {
+        "raw_hot": 234601,
+        "num": 234601,
+        "word": "地狱犬",
+        "onboard_time": 1670905332,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227965,
+        "num": 227965,
+        "word": "一口气炫完6集初次爱你",
+        "onboard_time": 1670911872,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 221330,
+        "num": 221330,
+        "word": "感染后第三天症状最重",
+        "onboard_time": 1670915415,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213702,
+        "num": 213702,
+        "word": "马龙樊振东个人信息遭泄露",
+        "onboard_time": 1670905151,
+        "rank": 29,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 213289,
+        "num": 213289,
+        "word": "阳性人员家属要不要提前吃药",
+        "onboard_time": 1670902814,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212551,
+        "num": 212551,
+        "word": "3女1男吃饭逃单得逞后回头笑",
+        "onboard_time": 1670911215,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203548,
+        "num": 203548,
+        "word": "女子买猫粮抽中一只泰迪",
+        "onboard_time": 1670906831,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193683,
+        "num": 193683,
+        "word": "关于我在厦门的一天",
+        "onboard_time": 1670913373,
+        "rank": 33,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 185576,
+        "num": 185576,
+        "word": "再见爱人",
+        "onboard_time": 1670913131,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185549,
+        "num": 185549,
+        "word": "电影想见你王诠胜角色预告",
+        "onboard_time": 1670906175,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 175822,
+        "num": 175822,
+        "word": "暴雪与新代理展开洽谈",
+        "onboard_time": 1670910671,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 167218,
+        "num": 167218,
+        "word": "塞尔达传说王国之泪",
+        "onboard_time": 1670915474,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 166432,
+        "num": 166432,
+        "word": "老师让我们练字的原因",
+        "onboard_time": 1670910313,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 165684,
+        "num": 165684,
+        "word": "国务院联防联控机制新闻发布会",
+        "onboard_time": 1670915773,
+        "rank": 39,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 164123,
+        "num": 164123,
+        "word": "线上问诊发热人数一周增加超100万",
+        "onboard_time": 1670916132,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160636,
+        "num": 160636,
+        "word": "小狗也想养自己的小狗吧",
+        "onboard_time": 1670904015,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 145112,
+        "num": 145112,
+        "word": "5位幸存者合影22年后仅1人在世",
+        "onboard_time": 1670908871,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140592,
+        "num": 140592,
+        "word": "女孩给阳性爸爸送饭后飞奔逃走",
+        "onboard_time": 1670916493,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137727,
+        "num": 137727,
+        "word": "4人消费近300元后趁店家忙逃单",
+        "onboard_time": 1670902332,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136481,
+        "num": 136481,
+        "word": "被拾荒助学爷爷感动女子捐出60万",
+        "onboard_time": 1670915533,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136151,
+        "num": 136151,
+        "word": "想见你",
+        "onboard_time": 1670908032,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 131322,
+        "num": 131322,
+        "word": "梅西这么多年来的颜值变化",
+        "onboard_time": 1670916073,
+        "rank": 47,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 130587,
+        "num": 130587,
+        "word": "女儿被爸爸呼噜吵醒塞袜子消音",
+        "onboard_time": 1670909591,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126862,
+        "num": 126862,
+        "word": "妈妈去世前留下语音安慰儿子",
+        "onboard_time": 1670916793,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#国家公祭日#"
+    }
+  }
+}
