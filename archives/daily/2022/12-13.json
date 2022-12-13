@@ -1,6 +1,6 @@
 {
   "startTime": 1670862485364,
-  "endTime": 1670927839644,
+  "endTime": 1670930164757,
   "band_list": [
     {
       "raw_hot": 4521108,
@@ -17,6 +17,14 @@
       "onboard_time": 1670915415,
       "rank": 20,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 3313526,
+      "num": 3313526,
+      "word": "新冠特效药",
+      "onboard_time": 1670923513,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3252657,
@@ -51,19 +59,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2195035,
-      "num": 2195035,
-      "word": "新冠特效药",
-      "onboard_time": 1670923513,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2002558,
-      "num": 2002558,
+      "raw_hot": 2123668,
+      "num": 2123668,
       "word": "地狱犬已在9省份检出但尚未流行",
       "onboard_time": 1670924354,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1847022,
+      "num": 1847022,
+      "word": "小红书现异地购药攻略抢占县城退烧药",
+      "onboard_time": 1670924774,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -113,14 +121,6 @@
       "onboard_time": 1670904491,
       "rank": 8,
       "category": "体育,音乐"
-    },
-    {
-      "raw_hot": 1368665,
-      "num": 1368665,
-      "word": "小红书现异地购药攻略抢占县城退烧药",
-      "onboard_time": 1670924774,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1324981,
@@ -185,6 +185,14 @@
       "onboard_time": 1670854035,
       "rank": 3,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 1073524,
+      "num": 1073524,
+      "word": "男子发烧近40度床上印出人形汗印",
+      "onboard_time": 1670926933,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1065716,
@@ -347,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 673096,
+      "num": 673096,
+      "word": "被烧伤四人求助已被停止治疗",
+      "onboard_time": 1670926995,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 663061,
       "num": 663061,
       "word": "阳性人员家属要不要提前吃药",
@@ -433,6 +449,14 @@
       "onboard_time": 1670892552,
       "rank": 11,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 571456,
+      "num": 571456,
+      "word": "女子吃饭相中碗服务员一把薅出",
+      "onboard_time": 1670926095,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 567629,
@@ -539,6 +563,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 490105,
+      "num": 490105,
+      "word": "老师阳性后用唐老鸭式哑音上课",
+      "onboard_time": 1670925313,
+      "rank": 27,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 490018,
       "num": 490018,
       "word": "地狱犬",
@@ -553,6 +585,14 @@
       "onboard_time": 1670858775,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 481749,
+      "num": 481749,
+      "word": "宝宝拉在床上爸爸直接将床单剪洞",
+      "onboard_time": 1670925735,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 481196,
@@ -587,12 +627,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 444162,
-      "num": 444162,
-      "word": "女子吃饭相中碗服务员一把薅出",
-      "onboard_time": 1670926095,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 450111,
+      "num": 450111,
+      "word": "杨紫范丞丞199爱改名要久久爱",
+      "onboard_time": 1670928194,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 441927,
@@ -625,6 +665,14 @@
       "onboard_time": 1670909292,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 416278,
+      "num": 416278,
+      "word": "西部战区回应印军非法越线拦阻",
+      "onboard_time": 1670929511,
+      "rank": 19,
+      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 414318,
@@ -707,6 +755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 371868,
+      "num": 371868,
+      "word": "诊所爆满市民坐车内输液",
+      "onboard_time": 1670927832,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 369862,
       "num": 369862,
       "word": "多喝水多睡觉对新冠管用吗",
@@ -779,14 +835,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 344693,
-      "num": 344693,
-      "word": "老师阳性后用唐老鸭式哑音上课",
-      "onboard_time": 1670925313,
-      "rank": 27,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 336892,
       "num": 336892,
       "word": "为什么不建议大家异地恋",
@@ -811,6 +859,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 324665,
+      "num": 324665,
+      "word": "南北方变异的病毒株略有不同",
+      "onboard_time": 1670925433,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 319105,
       "num": 319105,
       "word": "阿根廷主帅说看莫德里奇踢球是享受",
@@ -833,14 +889,6 @@
       "onboard_time": 1670922615,
       "rank": 32,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 315539,
-      "num": 315539,
-      "word": "宝宝拉在床上爸爸直接将床单剪洞",
-      "onboard_time": 1670925735,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 314966,
@@ -875,14 +923,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 307831,
-      "num": 212369,
-      "word": "男子发烧近40度床上印出人形汗印",
-      "onboard_time": 1670926933,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 307611,
       "num": 307611,
       "word": "特斯拉市值一夜蒸发2442亿",
@@ -905,6 +945,14 @@
       "onboard_time": 1670913191,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 294437,
+      "num": 294437,
+      "word": "NMIXX吴海媛AAA获奖感言",
+      "onboard_time": 1670928015,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 286007,
@@ -1076,7 +1124,7 @@
     },
     {
       "raw_hot": 225592,
-      "num": 2224889,
+      "num": 2586044,
       "word": "疫情下常见情绪反应及指南",
       "onboard_time": 1670902751,
       "rank": 2,
@@ -1123,12 +1171,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 213456,
-      "num": 211286,
-      "word": "被烧伤四人求助已被停止治疗",
-      "onboard_time": 1670926995,
-      "rank": 31,
-      "category": "社会新闻"
+      "raw_hot": 214457,
+      "num": 214457,
+      "word": "晒干的橘子皮就是陈皮吗",
+      "onboard_time": 1670928495,
+      "rank": 32,
+      "category": "美食"
     },
     {
       "raw_hot": 212387,
@@ -1155,19 +1203,19 @@
       "category": "体育,网红"
     },
     {
+      "raw_hot": 208891,
+      "num": 208891,
+      "word": "昆明医科大学回应",
+      "onboard_time": 1670927234,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 207269,
       "num": 207269,
       "word": "阳过何时可以返岗",
       "onboard_time": 1670897349,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 204997,
-      "num": 204997,
-      "word": "南北方变异的病毒株略有不同",
-      "onboard_time": 1670925433,
-      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -1185,6 +1233,14 @@
       "onboard_time": 1670889612,
       "rank": 35,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 202540,
+      "num": 202540,
+      "word": "诺兰拍原子弹爆炸没用电脑特效",
+      "onboard_time": 1670926336,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 201762,
@@ -1233,6 +1289,14 @@
       "onboard_time": 1670840298,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192939,
+      "num": 192939,
+      "word": "阿凡达2首映日票房破5000W",
+      "onboard_time": 1670928257,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 192929,
@@ -1297,14 +1361,6 @@
       "onboard_time": 1670898613,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 176141,
-      "num": 176141,
-      "word": "诺兰拍原子弹爆炸没用电脑特效",
-      "onboard_time": 1670926336,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 176098,
@@ -1435,6 +1491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 154178,
+      "num": 154178,
+      "word": "广西药店回应外地网友抢购药品",
+      "onboard_time": 1670929217,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 153173,
       "num": 153173,
       "word": "Ning重回赛场",
@@ -1483,6 +1547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 141563,
+      "num": 141563,
+      "word": "这猫是懂暗示的",
+      "onboard_time": 1670929273,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 141032,
       "num": 141032,
       "word": "哪些情况下口罩必须更换",
@@ -1515,12 +1587,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 135037,
-      "num": 135037,
-      "word": "昆明医科大学回应",
-      "onboard_time": 1670927234,
-      "rank": 46,
-      "category": "社会新闻"
+      "raw_hot": 131064,
+      "num": 131064,
+      "word": "被梅西送球衣的男孩长大了",
+      "onboard_time": 1670930114,
+      "rank": 48,
+      "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 130060,
+      "num": 130060,
+      "word": "宜宾世界杯1.4亿赌球案告破",
+      "onboard_time": 1670929993,
+      "rank": 49,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 128850,
@@ -1601,14 +1681,6 @@
       "onboard_time": 1670923513,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 120605,
-      "num": 120605,
-      "word": "诊所爆满市民坐车内输液",
-      "onboard_time": 1670927832,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 120368,
