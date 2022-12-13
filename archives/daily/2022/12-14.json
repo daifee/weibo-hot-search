@@ -1,6 +1,6 @@
 {
   "startTime": 1670948842910,
-  "endTime": 1670966213633,
+  "endTime": 1670967225036,
   "band_list": [
     {
       "raw_hot": 2225251,
@@ -51,20 +51,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1091002,
+      "num": 1091002,
+      "word": "阿根廷队杀疯了",
+      "onboard_time": 1670964850,
+      "rank": 5,
+      "category": "体育,幽默"
+    },
+    {
       "raw_hot": 1040954,
       "num": 1040954,
       "word": "男子给孕妻买退烧药货架摆满却不卖",
       "onboard_time": 1670943194,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 913631,
-      "num": 913631,
-      "word": "阿根廷队杀疯了",
-      "onboard_time": 1670964850,
-      "rank": 5,
-      "category": "体育,幽默"
     },
     {
       "raw_hot": 897409,
@@ -187,6 +187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 459977,
+      "num": 380932,
+      "word": "梅西个人能力",
+      "onboard_time": 1670965450,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 455991,
       "num": 455991,
       "word": "孩子确诊量体温温度涨幅肉眼可见",
@@ -281,14 +289,6 @@
       "onboard_time": 1670926933,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 292267,
-      "num": 219543,
-      "word": "梅西个人能力",
-      "onboard_time": 1670965450,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 266957,
@@ -467,6 +467,14 @@
       "category": "体育,情感"
     },
     {
+      "raw_hot": 153256,
+      "num": 153256,
+      "word": "阿根廷主帅看球迷雨中庆祝落泪",
+      "onboard_time": 1670950631,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 150001,
       "num": 150001,
       "word": "这门票太值了",
@@ -571,14 +579,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 107515,
-      "num": 107515,
-      "word": "阿根廷主帅看球迷雨中庆祝落泪",
-      "onboard_time": 1670950631,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 106797,
       "num": 101855,
       "word": "米卢认为克罗地亚状态极佳",
@@ -627,20 +627,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 68382,
+      "num": 68382,
+      "word": "你感染后的身体感受",
+      "onboard_time": 1670963469,
+      "rank": 48,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 67588,
       "num": 40241,
       "word": "克罗地亚究竟强在哪儿",
       "onboard_time": 1670948892,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 58008,
-      "num": 58008,
-      "word": "你感染后的身体感受",
-      "onboard_time": 1670963469,
-      "rank": 48,
-      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 53940,
@@ -651,20 +651,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 35839,
+      "num": 35839,
+      "word": "利瓦科维奇原来还是学霸",
+      "onboard_time": 1670962927,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 35063,
       "num": 35063,
       "word": "阿凡达2好看吗",
       "onboard_time": 1670935573,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 30012,
-      "num": 30012,
-      "word": "利瓦科维奇原来还是学霸",
-      "onboard_time": 1670962927,
-      "rank": 37,
-      "category": "体育"
     }
   ],
   "hotgov_list": [
