@@ -1,7 +1,15 @@
 {
   "startTime": 1670862485364,
-  "endTime": 1670913598380,
+  "endTime": 1670915904318,
   "band_list": [
+    {
+      "raw_hot": 2483307,
+      "num": 2483307,
+      "word": "伊朗球员因支持女性将被处决",
+      "onboard_time": 1670914392,
+      "rank": 0,
+      "category": "体育,社会新闻"
+    },
     {
       "raw_hot": 2458934,
       "num": 1341835,
@@ -35,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1691209,
+      "num": 607111,
+      "word": "AAA",
+      "onboard_time": 1670911512,
+      "rank": 7,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1643130,
       "num": 1643130,
       "word": "男子称妻子孕肚像被蜈蚣爬满太恐怖",
@@ -57,14 +73,6 @@
       "onboard_time": 1670853621,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1267562,
-      "num": 607111,
-      "word": "AAA",
-      "onboard_time": 1670911512,
-      "rank": 7,
-      "category": "音乐"
     },
     {
       "raw_hot": 1231292,
@@ -105,6 +113,14 @@
       "onboard_time": 1670887627,
       "rank": 30,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 1031822,
+      "num": 1031822,
+      "word": "女子下班回家发现2千万豪宅塌了",
+      "onboard_time": 1670914032,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1023233,
@@ -339,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 513447,
+      "num": 443681,
+      "word": "网传高校学生被保安锁喉带走",
+      "onboard_time": 1670912772,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 507447,
       "num": 325414,
       "word": "在北京的我这两天be like",
@@ -403,12 +427,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 446229,
+      "num": 446229,
+      "word": "维C泡腾片不要过量服用",
+      "onboard_time": 1670912234,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 441927,
       "num": 441927,
       "word": "克罗地亚战阿根廷还会拖堂吗",
       "onboard_time": 1670904072,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 439903,
+      "num": 439903,
+      "word": "著名大V侯宁去世",
+      "onboard_time": 1670910852,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 432885,
@@ -419,11 +459,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 426752,
-      "num": 426752,
-      "word": "著名大V侯宁去世",
-      "onboard_time": 1670910852,
-      "rank": 18,
+      "raw_hot": 430034,
+      "num": 430034,
+      "word": "中青年阳了7天内会发生什么",
+      "onboard_time": 1670913913,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -499,6 +539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 368257,
+      "num": 368257,
+      "word": "电解质水是智商税吗",
+      "onboard_time": 1670910252,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 366501,
       "num": 366501,
       "word": "阳性了之后怎么还失眠了",
@@ -555,20 +603,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 333866,
+      "num": 333866,
+      "word": "杨迪",
+      "onboard_time": 1670915415,
+      "rank": 20,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 326161,
       "num": 326161,
       "word": "黄桃罐头",
       "onboard_time": 1670846536,
       "rank": 15,
       "category": "美食"
-    },
-    {
-      "raw_hot": 326007,
-      "num": 326007,
-      "word": "电解质水是智商税吗",
-      "onboard_time": 1670910252,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 319105,
@@ -603,6 +651,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 305519,
+      "num": 305519,
+      "word": "卫健委回应护士操作不当致婴儿骨折",
+      "onboard_time": 1670913551,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 298406,
       "num": 298406,
       "word": "小说里的贵气感有了脸",
@@ -611,19 +667,19 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 296849,
+      "num": 296849,
+      "word": "浙江一大学给学生发新冠预防中药包",
+      "onboard_time": 1670913191,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 286007,
       "num": 286007,
       "word": "中国疾控科普BQ.1",
       "onboard_time": 1670904551,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 285969,
-      "num": 285969,
-      "word": "维C泡腾片不要过量服用",
-      "onboard_time": 1670912234,
-      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -648,6 +704,14 @@
       "word": "女儿被爸爸呼噜吵醒塞袜子消音",
       "onboard_time": 1670909591,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 268037,
+      "num": 224261,
+      "word": "妈妈巧用尿不湿给高烧儿子降温",
+      "onboard_time": 1670914331,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -755,6 +819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 225965,
+      "num": 225965,
+      "word": "3女1男吃饭逃单得逞后回头笑",
+      "onboard_time": 1670911215,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 225592,
       "num": 1356796,
       "word": "疫情下常见情绪反应及指南",
@@ -801,6 +873,14 @@
       "onboard_time": 1670850737,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 212387,
+      "num": 212387,
+      "word": "再见爱人",
+      "onboard_time": 1670913131,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 209983,
@@ -907,6 +987,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 180998,
+      "num": 180998,
+      "word": "关于我在厦门的一天",
+      "onboard_time": 1670913373,
+      "rank": 46,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 179394,
       "num": 179394,
       "word": "地狱犬的病原性与BA.5相同或更低",
@@ -963,12 +1051,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 170629,
+      "num": 170629,
+      "word": "一口气炫完6集初次爱你",
+      "onboard_time": 1670911872,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 170554,
       "num": 170554,
       "word": "姆巴佩训练游戏被罚俯卧撑",
       "onboard_time": 1670912234,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 167734,
+      "num": 167734,
+      "word": "感染后第三天症状最重",
+      "onboard_time": 1670915415,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 166392,
@@ -987,19 +1091,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 164549,
-      "num": 164549,
-      "word": "再见爱人",
-      "onboard_time": 1670913131,
-      "rank": 34,
-      "category": "综艺"
+      "raw_hot": 159400,
+      "num": 159400,
+      "word": "塞尔达传说王国之泪",
+      "onboard_time": 1670915474,
+      "rank": 39,
+      "category": "游戏"
     },
     {
-      "raw_hot": 159232,
-      "num": 159232,
-      "word": "3女1男吃饭逃单得逞后回头笑",
-      "onboard_time": 1670911215,
-      "rank": 37,
+      "raw_hot": 157635,
+      "num": 157635,
+      "word": "被拾荒助学爷爷感动女子捐出60万",
+      "onboard_time": 1670915533,
+      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -1019,22 +1123,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 154268,
-      "num": 154268,
-      "word": "一口气炫完6集初次爱你",
-      "onboard_time": 1670911872,
-      "rank": 43,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 153762,
-      "num": 153762,
-      "word": "网传高校学生被保安锁喉带走",
-      "onboard_time": 1670912772,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 153173,
       "num": 153173,
       "word": "Ning重回赛场",
@@ -1048,6 +1136,22 @@
       "word": "1000多年前古人就在茶上拉花了",
       "onboard_time": 1670905272,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147405,
+      "num": 147405,
+      "word": "国务院联防联控机制新闻发布会",
+      "onboard_time": 1670915773,
+      "rank": 42,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 145965,
+      "num": 145965,
+      "word": "5位幸存者合影22年后仅1人在世",
+      "onboard_time": 1670908871,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -1083,14 +1187,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 135110,
-      "num": 135110,
-      "word": "浙江一大学给学生发新冠预防中药包",
-      "onboard_time": 1670913191,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 128850,
       "num": 128850,
       "word": "世界杯季军战现场将播放逆战",
@@ -1105,14 +1201,6 @@
       "onboard_time": 1670895070,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 126650,
-      "num": 126650,
-      "word": "关于我在厦门的一天",
-      "onboard_time": 1670913373,
-      "rank": 46,
-      "category": "旅游"
     },
     {
       "raw_hot": 125427,
@@ -1219,14 +1307,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 115063,
-      "num": 115063,
-      "word": "卫健委回应护士操作不当致婴儿骨折",
-      "onboard_time": 1670913551,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 114082,
       "num": 121281,
       "word": "篮网战胜奇才",
@@ -1273,6 +1353,14 @@
       "onboard_time": 1670849177,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 104947,
+      "num": 104947,
+      "word": "外孙女接棒外婆为南京大屠杀证言",
+      "onboard_time": 1670915893,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 104451,
