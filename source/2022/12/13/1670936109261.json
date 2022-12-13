@@ -1,0 +1,410 @@
+{
+  "runTime": 1670936109261,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3049885,
+        "num": 3049885,
+        "word": "新冠特效药",
+        "onboard_time": 1670923513,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2164208,
+        "num": 2164208,
+        "word": "阳敌",
+        "onboard_time": 1670920693,
+        "rank": 1,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 95762,
+        "num": 1681676,
+        "word": "疫情下常见情绪反应及指南",
+        "onboard_time": 1670902751,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1580792,
+        "num": 1580792,
+        "word": "男子发烧近40度床上印出人形汗印",
+        "onboard_time": 1670926933,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1549723,
+        "num": 1549723,
+        "word": "小红书现异地购药攻略抢占县城退烧药",
+        "onboard_time": 1670924774,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1165261,
+        "num": 1165261,
+        "word": "地狱犬已在9省份检出但尚未流行",
+        "onboard_time": 1670924354,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 928773,
+        "num": 928773,
+        "word": "克罗地亚阿根廷预测",
+        "onboard_time": 1670931192,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 928329,
+        "num": 928329,
+        "word": "被烧伤四人求助已被停止治疗",
+        "onboard_time": 1670926995,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 660911,
+        "num": 660911,
+        "word": "女子洗碗用猪食充当洗洁精引争议",
+        "onboard_time": 1670931074,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 616037,
+        "num": 616037,
+        "word": "许半夏变卖家产补偿滩涂村民",
+        "onboard_time": 1670934616,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 617214,
+        "num": 611610,
+        "word": "明星们一定要这样带货吗",
+        "onboard_time": 1670921953,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 591022,
+        "num": 591022,
+        "word": "诊所爆满市民坐车内输液",
+        "onboard_time": 1670927832,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 583736,
+        "num": 583736,
+        "word": "考研准考证",
+        "onboard_time": 1670924417,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 562766,
+        "num": 562766,
+        "word": "刘畊宏直播",
+        "onboard_time": 1670932332,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 539807,
+        "num": 539807,
+        "word": "王曼昱感谢肖战",
+        "onboard_time": 1670934672,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 415175,
+        "num": 415175,
+        "word": "再见爱人 卢歌苏诗丁",
+        "onboard_time": 1670934312,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 407621,
+        "num": 407621,
+        "word": "杨迪",
+        "onboard_time": 1670915415,
+        "rank": 16,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 404797,
+        "num": 404797,
+        "word": "谷歌拒将正确中国国歌置顶",
+        "onboard_time": 1670921832,
+        "rank": 17,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 402607,
+        "num": 402607,
+        "word": "女子下班回家发现2千万豪宅塌了",
+        "onboard_time": 1670914032,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347140,
+        "num": 347140,
+        "word": "父子3人中招宝妈一拖三照顾陪输液",
+        "onboard_time": 1670931616,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345683,
+        "num": 345683,
+        "word": "中方巡逻遭印军非法越线拦阻",
+        "onboard_time": 1670931016,
+        "rank": 20,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 311486,
+        "num": 311486,
+        "word": "35岁梅西对阵37岁莫德里奇",
+        "onboard_time": 1670932693,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 308851,
+        "num": 308851,
+        "word": "宜宾世界杯1.4亿赌球案告破",
+        "onboard_time": 1670929993,
+        "rank": 22,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 305838,
+        "num": 305838,
+        "word": "AAA",
+        "onboard_time": 1670911512,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 301269,
+        "num": 301269,
+        "word": "王曼昱主管教练",
+        "onboard_time": 1670922554,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 276604,
+        "num": 276604,
+        "word": "老师阳性后用唐老鸭式哑音上课",
+        "onboard_time": 1670925313,
+        "rank": 25,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 272521,
+        "num": 272521,
+        "word": "广西药店回应外地网友抢购药品",
+        "onboard_time": 1670929217,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261787,
+        "num": 261787,
+        "word": "感染后第三天症状最重",
+        "onboard_time": 1670915415,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253625,
+        "num": 253625,
+        "word": "杨紫范丞丞199爱改名要久久爱",
+        "onboard_time": 1670928194,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 253398,
+        "num": 253398,
+        "word": "女子吃饭相中碗服务员一把薅出",
+        "onboard_time": 1670926095,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249119,
+        "num": 249119,
+        "word": "为什么不建议大家异地恋",
+        "onboard_time": 1670923694,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 232694,
+        "num": 232694,
+        "word": "宝宝拉在床上爸爸直接将床单剪洞",
+        "onboard_time": 1670925735,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222174,
+        "num": 222174,
+        "word": "第一次感觉那么对不起狗",
+        "onboard_time": 1670935034,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 196005,
+        "num": 196005,
+        "word": "辉瑞新冠特效药网售放开",
+        "onboard_time": 1670923034,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191653,
+        "num": 191653,
+        "word": "男孩患罕见病长61厘米长巨手",
+        "onboard_time": 1670935453,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188385,
+        "num": 188385,
+        "word": "内娱女明星百花齐放",
+        "onboard_time": 1670922135,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 184859,
+        "num": 184859,
+        "word": "大学生故意买金箔酒起诉10倍赔偿",
+        "onboard_time": 1670918293,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184401,
+        "num": 184401,
+        "word": "晒干的橘子皮就是陈皮吗",
+        "onboard_time": 1670928495,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 171173,
+        "num": 171173,
+        "word": "阿凡达2好看吗",
+        "onboard_time": 1670935573,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 167292,
+        "num": 167292,
+        "word": "张晚意新剧勇敢的翅膀特效",
+        "onboard_time": 1670935333,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 170549,
+        "num": 167201,
+        "word": "阿凡达2首映日票房破5000W",
+        "onboard_time": 1670928257,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 165548,
+        "num": 165548,
+        "word": "女子花2小时堆好雪人被一脚踢飞",
+        "onboard_time": 1670932272,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158350,
+        "num": 158350,
+        "word": "阿根廷vs克罗地亚",
+        "onboard_time": 1670907551,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155140,
+        "num": 155140,
+        "word": "妈妈去世前留下语音安慰儿子",
+        "onboard_time": 1670916793,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150350,
+        "num": 150350,
+        "word": "2元1斤女孩实现草莓自由",
+        "onboard_time": 1670918173,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144507,
+        "num": 144507,
+        "word": "韩素希AAA红毯",
+        "onboard_time": 1670917334,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 134662,
+        "num": 134662,
+        "word": "女子心情不好爷爷拿糖来哄",
+        "onboard_time": 1670935874,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134496,
+        "num": 134496,
+        "word": "地狱犬",
+        "onboard_time": 1670905332,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131991,
+        "num": 131991,
+        "word": "NMIXX吴海媛AAA获奖感言",
+        "onboard_time": 1670928015,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 130870,
+        "num": 130870,
+        "word": "一根香肠就能拿捏的小狗",
+        "onboard_time": 1670935695,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#第9个国家公祭日#"
+    }
+  }
+}
