@@ -1,6 +1,6 @@
 {
   "startTime": 1670862485364,
-  "endTime": 1670924038484,
+  "endTime": 1670926871310,
   "band_list": [
     {
       "raw_hot": 4135984,
@@ -11,20 +11,20 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 3735938,
+      "num": 3735938,
+      "word": "阳敌",
+      "onboard_time": 1670920693,
+      "rank": 47,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 3252657,
       "num": 3252657,
       "word": "伊朗球员因支持女性将被处决",
       "onboard_time": 1670914392,
       "rank": 0,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 3109630,
-      "num": 3109630,
-      "word": "阳敌",
-      "onboard_time": 1670920693,
-      "rank": 47,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 2458934,
@@ -43,11 +43,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2313548,
+      "num": 2313548,
+      "word": "辉瑞新冠特效药网售放开",
+      "onboard_time": 1670923034,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1846653,
       "num": 1846653,
       "word": "阳性感染者只咳嗽发烧算无症状吗",
       "onboard_time": 1670895252,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1737559,
+      "num": 1737559,
+      "word": "新冠特效药",
+      "onboard_time": 1670923513,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -83,20 +99,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1570723,
+      "num": 1570723,
+      "word": "地狱犬已在9省份检出但尚未流行",
+      "onboard_time": 1670924354,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1473001,
       "num": 1473001,
       "word": "心墙",
       "onboard_time": 1670904491,
       "rank": 8,
       "category": "体育,音乐"
-    },
-    {
-      "raw_hot": 1385864,
-      "num": 1385864,
-      "word": "辉瑞新冠特效药网售放开",
-      "onboard_time": 1670923034,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1324981,
@@ -179,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 992498,
+      "num": 992498,
+      "word": "考研准考证",
+      "onboard_time": 1670924417,
+      "rank": 6,
+      "category": "教育"
+    },
+    {
       "raw_hot": 986440,
       "num": 986440,
       "word": "男子看网传视频发现儿子被霸凌",
@@ -195,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 925687,
+      "num": 825267,
+      "word": "谷歌拒将正确中国国歌置顶",
+      "onboard_time": 1670921832,
+      "rank": 30,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 871610,
       "num": 871610,
       "word": "大规模核酸取消后感染人数如何预估",
@@ -209,6 +241,14 @@
       "onboard_time": 1670889969,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 825650,
+      "num": 825650,
+      "word": "小红书现异地购药攻略抢占县城退烧药",
+      "onboard_time": 1670924774,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 819050,
@@ -265,6 +305,14 @@
       "onboard_time": 1670853917,
       "rank": 5,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 736680,
+      "num": 736680,
+      "word": "明星们一定要这样带货吗",
+      "onboard_time": 1670921953,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 728649,
@@ -395,14 +443,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 567387,
-      "num": 215946,
-      "word": "谷歌拒将正确中国国歌置顶",
-      "onboard_time": 1670921832,
-      "rank": 30,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 566097,
       "num": 566097,
       "word": "错把酒精当生理盐水28天女婴角膜烧伤",
@@ -475,6 +515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 500623,
+      "num": 500623,
+      "word": "美媒质疑阿根廷队黑人球员太少",
+      "onboard_time": 1670921054,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 498722,
       "num": 498722,
       "word": "弟弟要买新车全家凑钱支持",
@@ -491,28 +539,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 491489,
-      "num": 491489,
-      "word": "明星们一定要这样带货吗",
-      "onboard_time": 1670921953,
-      "rank": 20,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 490018,
       "num": 490018,
       "word": "地狱犬",
       "onboard_time": 1670838675,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 485960,
-      "num": 485960,
-      "word": "美媒质疑阿根廷队黑人球员太少",
-      "onboard_time": 1670921054,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 482078,
@@ -523,8 +555,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 474220,
-      "num": 474220,
+      "raw_hot": 481196,
+      "num": 481196,
       "word": "内娱女明星百花齐放",
       "onboard_time": 1670922135,
       "rank": 17,
@@ -592,14 +624,6 @@
       "word": "妈妈去世前留下语音安慰儿子",
       "onboard_time": 1670916793,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 412073,
-      "num": 412073,
-      "word": "新冠特效药",
-      "onboard_time": 1670923513,
-      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -763,6 +787,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 323183,
+      "num": 323183,
+      "word": "为什么不建议大家异地恋",
+      "onboard_time": 1670923694,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 319105,
       "num": 319105,
       "word": "阿根廷主帅说看莫德里奇踢球是享受",
@@ -777,6 +809,14 @@
       "onboard_time": 1670913551,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 315682,
+      "num": 315682,
+      "word": "外交部回应印媒称中印边界发生冲突",
+      "onboard_time": 1670922615,
+      "rank": 32,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 314966,
@@ -939,6 +979,14 @@
       "category": "动漫,影视"
     },
     {
+      "raw_hot": 244208,
+      "num": 244208,
+      "word": "老师阳性后用唐老鸭式哑音上课",
+      "onboard_time": 1670925313,
+      "rank": 27,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 243689,
       "num": 243689,
       "word": "2023金球奖提名",
@@ -969,14 +1017,6 @@
       "onboard_time": 1670859618,
       "rank": 21,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 236856,
-      "num": 236856,
-      "word": "外交部回应印媒称中印边界发生冲突",
-      "onboard_time": 1670922615,
-      "rank": 32,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 232817,
@@ -1012,7 +1052,7 @@
     },
     {
       "raw_hot": 225592,
-      "num": 1896492,
+      "num": 2015821,
       "word": "疫情下常见情绪反应及指南",
       "onboard_time": 1670902751,
       "rank": 2,
@@ -1032,6 +1072,14 @@
       "word": "第9个南京大屠杀死难者国家公祭日",
       "onboard_time": 1670885828,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 220186,
+      "num": 220186,
+      "word": "女子吃饭相中碗服务员一把薅出",
+      "onboard_time": 1670926095,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -1121,6 +1169,14 @@
       "onboard_time": 1670917872,
       "rank": 40,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 197219,
+      "num": 197219,
+      "word": "宝宝拉在床上爸爸直接将床单剪洞",
+      "onboard_time": 1670925735,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 194918,
@@ -1339,14 +1395,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 153688,
-      "num": 153688,
-      "word": "为什么不建议大家异地恋",
-      "onboard_time": 1670923694,
-      "rank": 40,
-      "category": "情感"
-    },
-    {
       "raw_hot": 153173,
       "num": 153173,
       "word": "Ning重回赛场",
@@ -1409,6 +1457,22 @@
       "onboard_time": 1670850676,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 138136,
+      "num": 138136,
+      "word": "南北方变异的病毒株略有不同",
+      "onboard_time": 1670925433,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 136724,
+      "num": 136724,
+      "word": "诺兰拍原子弹爆炸没用电脑特效",
+      "onboard_time": 1670926336,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 136218,
@@ -1665,6 +1729,14 @@
       "onboard_time": 1670839577,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 99300,
+      "num": 107298,
+      "word": "北京恢复进出京跨省团队游",
+      "onboard_time": 1670926515,
+      "rank": 48,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 98855,
