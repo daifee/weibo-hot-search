@@ -1,6 +1,6 @@
 {
   "startTime": 1670775913271,
-  "endTime": 1670931216034,
+  "endTime": 1670934980001,
   "band_list": [
     {
       "raw_hot": 4521108,
@@ -235,6 +235,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1670205,
+      "num": 1670205,
+      "word": "男子发烧近40度床上印出人形汗印",
+      "onboard_time": 1670926933,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1652068,
       "num": 1652068,
       "word": "黄桃罐头",
@@ -257,14 +265,6 @@
       "onboard_time": 1670813112,
       "rank": 17,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1576752,
-      "num": 1576752,
-      "word": "男子发烧近40度床上印出人形汗印",
-      "onboard_time": 1670926933,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1530771,
@@ -595,6 +595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 856244,
+      "num": 856244,
+      "word": "克罗地亚阿根廷预测",
+      "onboard_time": 1670931192,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 854880,
       "num": 854880,
       "word": "北京疫情发布会",
@@ -795,6 +803,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 685410,
+      "num": 685410,
+      "word": "诊所爆满市民坐车内输液",
+      "onboard_time": 1670927832,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 677629,
       "num": 677629,
       "word": "阳康多久可以返岗",
@@ -883,6 +899,14 @@
       "category": "体育,幽默"
     },
     {
+      "raw_hot": 622988,
+      "num": 622988,
+      "word": "女子洗碗用猪食充当洗洁精引争议",
+      "onboard_time": 1670931074,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 618654,
       "num": 500774,
       "word": "小说里的贵气感有了脸",
@@ -969,6 +993,14 @@
       "onboard_time": 1670892552,
       "rank": 11,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 573686,
+      "num": 573686,
+      "word": "刘畊宏直播",
+      "onboard_time": 1670932332,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 571456,
@@ -1113,14 +1145,6 @@
       "onboard_time": 1670812213,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 519123,
-      "num": 519123,
-      "word": "诊所爆满市民坐车内输液",
-      "onboard_time": 1670927832,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 515189,
@@ -1451,6 +1475,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 405455,
+      "num": 405455,
+      "word": "中方巡逻遭印军非法越线拦阻",
+      "onboard_time": 1670931016,
+      "rank": 44,
+      "category": "军事,国内要闻"
+    },
+    {
       "raw_hot": 404483,
       "num": 404483,
       "word": "女子应聘出纳岗被要求出示房产证",
@@ -1529,6 +1561,14 @@
       "onboard_time": 1670903351,
       "rank": 13,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 393374,
+      "num": 393374,
+      "word": "宜宾世界杯1.4亿赌球案告破",
+      "onboard_time": 1670929993,
+      "rank": 49,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 392966,
@@ -1971,6 +2011,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 303365,
+      "num": 303365,
+      "word": "父子3人中招宝妈一拖三照顾陪输液",
+      "onboard_time": 1670931616,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 300521,
+      "num": 300521,
+      "word": "广西药店回应外地网友抢购药品",
+      "onboard_time": 1670929217,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 297177,
       "num": 297177,
       "word": "光遇",
@@ -2137,6 +2193,14 @@
       "onboard_time": 1670836697,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 272972,
+      "num": 272972,
+      "word": "许半夏变卖家产补偿滩涂村民",
+      "onboard_time": 1670934616,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 272058,
@@ -2339,6 +2403,14 @@
       "category": "动漫,影视"
     },
     {
+      "raw_hot": 245493,
+      "num": 245493,
+      "word": "再见爱人 卢歌苏诗丁",
+      "onboard_time": 1670934312,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 245089,
       "num": 245089,
       "word": "小米13香",
@@ -2433,6 +2505,14 @@
       "onboard_time": 1670798467,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 231132,
+      "num": 231132,
+      "word": "35岁梅西对阵37岁莫德里奇",
+      "onboard_time": 1670932693,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 230590,
@@ -2553,14 +2633,6 @@
       "onboard_time": 1670770758,
       "rank": 21,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 218655,
-      "num": 218655,
-      "word": "宜宾世界杯1.4亿赌球案告破",
-      "onboard_time": 1670929993,
-      "rank": 49,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 217812,
@@ -2697,6 +2769,14 @@
       "onboard_time": 1670810290,
       "rank": 49,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 206095,
+      "num": 206095,
+      "word": "阿凡达2首映日票房破5000W",
+      "onboard_time": 1670928257,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 204947,
@@ -2875,14 +2955,6 @@
       "category": "体育,音乐"
     },
     {
-      "raw_hot": 192939,
-      "num": 192939,
-      "word": "阿凡达2首映日票房破5000W",
-      "onboard_time": 1670928257,
-      "rank": 38,
-      "category": "影视"
-    },
-    {
       "raw_hot": 192929,
       "num": 192929,
       "word": "格力电器再次大手笔分红",
@@ -2953,14 +3025,6 @@
       "onboard_time": 1670909351,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 187115,
-      "num": 187115,
-      "word": "广西药店回应外地网友抢购药品",
-      "onboard_time": 1670929217,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 185836,
@@ -3323,20 +3387,20 @@
       "category": "动漫,影视"
     },
     {
+      "raw_hot": 160410,
+      "num": 160410,
+      "word": "王曼昱感谢肖战",
+      "onboard_time": 1670934672,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 159987,
       "num": 159987,
       "word": "国漫画师用平板还原山海经世界",
       "onboard_time": 1670811851,
       "rank": 35,
       "category": "动漫,影视"
-    },
-    {
-      "raw_hot": 159936,
-      "num": 159936,
-      "word": "中方巡逻遭印军非法越线拦阻",
-      "onboard_time": 1670931016,
-      "rank": 44,
-      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 158419,
@@ -3385,6 +3449,14 @@
       "onboard_time": 1670905151,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 154446,
+      "num": 154446,
+      "word": "女子花2小时堆好雪人被一脚踢飞",
+      "onboard_time": 1670932272,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 153042,
@@ -3441,14 +3513,6 @@
       "onboard_time": 1670849418,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 148277,
-      "num": 148277,
-      "word": "女子洗碗用猪食充当洗洁精引争议",
-      "onboard_time": 1670931074,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 147702,
@@ -3547,14 +3611,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 141155,
-      "num": 141155,
-      "word": "克罗地亚阿根廷预测",
-      "onboard_time": 1670931192,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 141032,
       "num": 141032,
       "word": "哪些情况下口罩必须更换",
@@ -3593,6 +3649,14 @@
       "onboard_time": 1670840477,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 137857,
+      "num": 137857,
+      "word": "黄健翔说姆巴佩还能进3球",
+      "onboard_time": 1670934913,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 136903,
@@ -3753,6 +3817,14 @@
       "onboard_time": 1670834896,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 129803,
+      "num": 129803,
+      "word": "在对象手机里发现过什么",
+      "onboard_time": 1670932935,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 128850,
