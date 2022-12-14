@@ -1,10 +1,10 @@
 {
   "startTime": 1670948842910,
-  "endTime": 1670991829916,
+  "endTime": 1670992779537,
   "band_list": [
     {
-      "raw_hot": 3996205,
-      "num": 3996205,
+      "raw_hot": 4870645,
+      "num": 4870645,
       "word": "沪上阿姨",
       "onboard_time": 1670984291,
       "rank": 5,
@@ -19,8 +19,8 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 2893586,
-      "num": 2893586,
+      "raw_hot": 3124294,
+      "num": 3124294,
       "word": "各省第一波感染高峰",
       "onboard_time": 1670987233,
       "rank": 12,
@@ -67,6 +67,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 1634860,
+      "num": 1634860,
+      "word": "第四针",
+      "onboard_time": 1670989814,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1455599,
       "num": 1455599,
       "word": "恋爱四年半男友考上公务员被分手",
@@ -91,14 +99,6 @@
       "category": "体育,幽默"
     },
     {
-      "raw_hot": 1368106,
-      "num": 1368106,
-      "word": "第四针",
-      "onboard_time": 1670989814,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1266591,
       "num": 1266591,
       "word": "大学生花850买上床下桌卧室变宿舍",
@@ -113,6 +113,14 @@
       "onboard_time": 1670938393,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1223528,
+      "num": 1223528,
+      "word": "高中同学车祸失忆全班接力救助17年",
+      "onboard_time": 1670989453,
+      "rank": 7,
+      "category": "社会正能量,教育"
     },
     {
       "raw_hot": 1190778,
@@ -179,20 +187,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 899895,
-      "num": 899895,
-      "word": "高中同学车祸失忆全班接力救助17年",
-      "onboard_time": 1670989453,
-      "rank": 7,
-      "category": "社会正能量,教育"
-    },
-    {
       "raw_hot": 897409,
       "num": 897409,
       "word": "梅西点球破门",
       "onboard_time": 1670960230,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 869372,
+      "num": 869372,
+      "word": "女子感染新冠乱吃药致肝衰竭进ICU",
+      "onboard_time": 1670990232,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 859131,
@@ -243,6 +251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 745522,
+      "num": 745522,
+      "word": "女硕士当6年全职妈妈靠科普找回自信",
+      "onboard_time": 1670988071,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 731283,
       "num": 569076,
       "word": "37岁前中甲球员染新冠后去世",
@@ -257,14 +273,6 @@
       "onboard_time": 1670946853,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 716883,
-      "num": 716883,
-      "word": "女硕士当6年全职妈妈靠科普找回自信",
-      "onboard_time": 1670988071,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 711965,
@@ -296,14 +304,6 @@
       "word": "康复后衣物上是否有病毒存活",
       "onboard_time": 1670980392,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 632304,
-      "num": 632304,
-      "word": "女子感染新冠乱吃药致肝衰竭进ICU",
-      "onboard_time": 1670990232,
-      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -395,6 +395,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 480121,
+      "num": 480121,
+      "word": "韩出租司机因听不懂日语被日籍乘客暴打",
+      "onboard_time": 1670990833,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 478703,
+      "num": 478703,
+      "word": "baolan",
+      "onboard_time": 1670991793,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 474193,
+      "num": 474193,
+      "word": "UP英雄联盟",
+      "onboard_time": 1670990893,
+      "rank": 20,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 464518,
       "num": 464518,
       "word": "女子跑车刚买半年被16岁学生划破",
@@ -425,14 +449,6 @@
       "onboard_time": 1670965450,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 457992,
-      "num": 457992,
-      "word": "UP英雄联盟",
-      "onboard_time": 1670990893,
-      "rank": 20,
-      "category": "游戏"
     },
     {
       "raw_hot": 455991,
@@ -499,6 +515,14 @@
       "category": "体育,音乐"
     },
     {
+      "raw_hot": 406591,
+      "num": 406591,
+      "word": "LWX续约FPX",
+      "onboard_time": 1670991673,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 398905,
       "num": 398905,
       "word": "男子发烧近40度床上印出人形汗印",
@@ -523,20 +547,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 388538,
+      "num": 388538,
+      "word": "魔笛 克罗地亚角球",
+      "onboard_time": 1670987833,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 387627,
       "num": 387627,
       "word": "一家4人阳性男子自驾600公里回家",
       "onboard_time": 1670940674,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 375165,
-      "num": 375165,
-      "word": "魔笛 克罗地亚角球",
-      "onboard_time": 1670987833,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 358475,
@@ -555,6 +579,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 347623,
+      "num": 347623,
+      "word": "WBG",
+      "onboard_time": 1670990174,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 347304,
       "num": 347304,
       "word": "阿尔瓦雷斯 牛",
@@ -563,20 +595,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 344463,
-      "num": 344463,
-      "word": "WBG",
-      "onboard_time": 1670990174,
-      "rank": 26,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 334596,
       "num": 334596,
       "word": "倒数说爱你陈飞宇周也拥抱花絮视频",
       "onboard_time": 1670991193,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 333167,
+      "num": 333167,
+      "word": "光与夜之恋",
+      "onboard_time": 1670992394,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 330545,
@@ -593,14 +625,6 @@
       "onboard_time": 1670991254,
       "rank": 29,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 319567,
-      "num": 319567,
-      "word": "韩出租司机因听不懂日语被日籍乘客暴打",
-      "onboard_time": 1670990833,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 313502,
@@ -739,14 +763,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 269309,
-      "num": 269309,
-      "word": "LWX续约FPX",
-      "onboard_time": 1670991673,
-      "rank": 35,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 266957,
       "num": 266957,
       "word": "云南家暴纵火案将宣判",
@@ -793,6 +809,14 @@
       "onboard_time": 1670976130,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 261188,
+      "num": 261188,
+      "word": "快乐再出发第二季预告",
+      "onboard_time": 1670991734,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 256139,
@@ -899,12 +923,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 215050,
-      "num": 215050,
-      "word": "快乐再出发第二季预告",
-      "onboard_time": 1670991734,
-      "rank": 43,
-      "category": "综艺"
+      "raw_hot": 207317,
+      "num": 207317,
+      "word": "淘宝公布2022年度十大宝贝",
+      "onboard_time": 1670992660,
+      "rank": 47,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 203197,
@@ -945,14 +969,6 @@
       "onboard_time": 1670983570,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 188346,
-      "num": 188346,
-      "word": "baolan",
-      "onboard_time": 1670991793,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 185137,
@@ -1155,6 +1171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 137870,
+      "num": 646633,
+      "word": "原神3.3版本 流浪者",
+      "onboard_time": 1670990953,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 137157,
       "num": 137157,
       "word": "世界杯",
@@ -1249,14 +1273,6 @@
       "onboard_time": 1670965330,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 99290,
-      "num": 646633,
-      "word": "原神3.3版本 流浪者",
-      "onboard_time": 1670990953,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 96219,

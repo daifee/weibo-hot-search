@@ -1,7 +1,15 @@
 {
   "startTime": 1670775913271,
-  "endTime": 1670991829916,
+  "endTime": 1670992779537,
   "band_list": [
+    {
+      "raw_hot": 4870645,
+      "num": 4870645,
+      "word": "沪上阿姨",
+      "onboard_time": 1670984291,
+      "rank": 5,
+      "category": "游戏"
+    },
     {
       "raw_hot": 4521108,
       "num": 4521108,
@@ -25,14 +33,6 @@
       "onboard_time": 1670915415,
       "rank": 20,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 3996205,
-      "num": 3996205,
-      "word": "沪上阿姨",
-      "onboard_time": 1670984291,
-      "rank": 5,
-      "category": "游戏"
     },
     {
       "raw_hot": 3734719,
@@ -83,8 +83,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2893586,
-      "num": 2893586,
+      "raw_hot": 3124294,
+      "num": 3124294,
       "word": "各省第一波感染高峰",
       "onboard_time": 1670987233,
       "rank": 12,
@@ -347,6 +347,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1634860,
+      "num": 1634860,
+      "word": "第四针",
+      "onboard_time": 1670989814,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1604035,
       "num": 1604035,
       "word": "黄桃罐头 连花清瘟",
@@ -411,14 +419,6 @@
       "category": "体育,幽默"
     },
     {
-      "raw_hot": 1368106,
-      "num": 1368106,
-      "word": "第四针",
-      "onboard_time": 1670989814,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1311879,
       "num": 1311879,
       "word": "二次感染新冠会更严重吗",
@@ -481,6 +481,14 @@
       "onboard_time": 1670891529,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1223528,
+      "num": 1223528,
+      "word": "高中同学车祸失忆全班接力救助17年",
+      "onboard_time": 1670989453,
+      "rank": 7,
+      "category": "社会正能量,教育"
     },
     {
       "raw_hot": 1190778,
@@ -795,14 +803,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 899895,
-      "num": 899895,
-      "word": "高中同学车祸失忆全班接力救助17年",
-      "onboard_time": 1670989453,
-      "rank": 7,
-      "category": "社会正能量,教育"
-    },
-    {
       "raw_hot": 897409,
       "num": 897409,
       "word": "梅西点球破门",
@@ -824,6 +824,14 @@
       "word": "大规模核酸取消后感染人数如何预估",
       "onboard_time": 1670896510,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 869372,
+      "num": 869372,
+      "word": "女子感染新冠乱吃药致肝衰竭进ICU",
+      "onboard_time": 1670990232,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -1019,6 +1027,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 745522,
+      "num": 745522,
+      "word": "女硕士当6年全职妈妈靠科普找回自信",
+      "onboard_time": 1670988071,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 744464,
       "num": 744464,
       "word": "电影想见你王诠胜角色预告",
@@ -1088,14 +1104,6 @@
       "word": "女孩给阳性爸爸送饭后飞奔逃走",
       "onboard_time": 1670916493,
       "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 716883,
-      "num": 716883,
-      "word": "女硕士当6年全职妈妈靠科普找回自信",
-      "onboard_time": 1670988071,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -1240,14 +1248,6 @@
       "word": "康复后衣物上是否有病毒存活",
       "onboard_time": 1670980392,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 632304,
-      "num": 632304,
-      "word": "女子感染新冠乱吃药致肝衰竭进ICU",
-      "onboard_time": 1670990232,
-      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -1723,6 +1723,30 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 480121,
+      "num": 480121,
+      "word": "韩出租司机因听不懂日语被日籍乘客暴打",
+      "onboard_time": 1670990833,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 478703,
+      "num": 478703,
+      "word": "baolan",
+      "onboard_time": 1670991793,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 474193,
+      "num": 474193,
+      "word": "UP英雄联盟",
+      "onboard_time": 1670990893,
+      "rank": 20,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 471673,
       "num": 471673,
       "word": "想见你",
@@ -1809,14 +1833,6 @@
       "onboard_time": 1670814491,
       "rank": 12,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 457992,
-      "num": 457992,
-      "word": "UP英雄联盟",
-      "onboard_time": 1670990893,
-      "rank": 20,
-      "category": "游戏"
     },
     {
       "raw_hot": 457687,
@@ -2035,6 +2051,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 406591,
+      "num": 406591,
+      "word": "LWX续约FPX",
+      "onboard_time": 1670991673,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 405455,
       "num": 405455,
       "word": "中方巡逻遭印军非法越线拦阻",
@@ -2187,6 +2211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 388538,
+      "num": 388538,
+      "word": "魔笛 克罗地亚角球",
+      "onboard_time": 1670987833,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 384707,
       "num": 384707,
       "word": "嗓子疼如何缓解",
@@ -2233,14 +2265,6 @@
       "onboard_time": 1670834355,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 375165,
-      "num": 375165,
-      "word": "魔笛 克罗地亚角球",
-      "onboard_time": 1670987833,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 369274,
@@ -2387,6 +2411,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 347623,
+      "num": 347623,
+      "word": "WBG",
+      "onboard_time": 1670990174,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 347304,
       "num": 347304,
       "word": "阿尔瓦雷斯 牛",
@@ -2409,14 +2441,6 @@
       "onboard_time": 1670815151,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 344463,
-      "num": 344463,
-      "word": "WBG",
-      "onboard_time": 1670990174,
-      "rank": 26,
-      "category": "游戏"
     },
     {
       "raw_hot": 343800,
@@ -2499,6 +2523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 333167,
+      "num": 333167,
+      "word": "光与夜之恋",
+      "onboard_time": 1670992394,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 331176,
       "num": 331176,
       "word": "广东人对菜心爱到直接生吃",
@@ -2560,14 +2592,6 @@
       "word": "专家谈颜值高的人更不易患新冠",
       "onboard_time": 1670818093,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 319567,
-      "num": 319567,
-      "word": "韩出租司机因听不懂日语被日籍乘客暴打",
-      "onboard_time": 1670990833,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -3011,14 +3035,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 269309,
-      "num": 269309,
-      "word": "LWX续约FPX",
-      "onboard_time": 1670991673,
-      "rank": 35,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 268954,
       "num": 268954,
       "word": "家里有阳了该怎么消毒",
@@ -3073,6 +3089,14 @@
       "onboard_time": 1670815932,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 261188,
+      "num": 261188,
+      "word": "快乐再出发第二季预告",
+      "onboard_time": 1670991734,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 260730,
@@ -3627,14 +3651,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 215050,
-      "num": 215050,
-      "word": "快乐再出发第二季预告",
-      "onboard_time": 1670991734,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 214019,
       "num": 197435,
       "word": "许半夏童骁骑找王全讲和",
@@ -3713,6 +3729,14 @@
       "onboard_time": 1670811491,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 207317,
+      "num": 207317,
+      "word": "淘宝公布2022年度十大宝贝",
+      "onboard_time": 1670992660,
+      "rank": 47,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 207269,
@@ -4017,14 +4041,6 @@
       "onboard_time": 1670909351,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 188346,
-      "num": 188346,
-      "word": "baolan",
-      "onboard_time": 1670991793,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 187981,
@@ -4851,6 +4867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 137870,
+      "num": 646633,
+      "word": "原神3.3版本 流浪者",
+      "onboard_time": 1670990953,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 137857,
       "num": 137857,
       "word": "黄健翔说姆巴佩还能进3球",
@@ -5505,14 +5529,6 @@
       "onboard_time": 1670926515,
       "rank": 48,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 99290,
-      "num": 646633,
-      "word": "原神3.3版本 流浪者",
-      "onboard_time": 1670990953,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 98855,

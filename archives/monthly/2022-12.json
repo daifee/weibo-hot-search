@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1670991829916,
+  "endTime": 1670992779537,
   "band_list": [
     {
       "raw_hot": 13790167,
@@ -89,6 +89,14 @@
       "onboard_time": 1670283609,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 4870645,
+      "num": 4870645,
+      "word": "沪上阿姨",
+      "onboard_time": 1670984291,
+      "rank": 5,
+      "category": "游戏"
     },
     {
       "raw_hot": 4824396,
@@ -201,14 +209,6 @@
       "onboard_time": 1670484675,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 3996205,
-      "num": 3996205,
-      "word": "沪上阿姨",
-      "onboard_time": 1670984291,
-      "rank": 5,
-      "category": "游戏"
     },
     {
       "raw_hot": 3776401,
@@ -387,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3124294,
+      "num": 3124294,
+      "word": "各省第一波感染高峰",
+      "onboard_time": 1670987233,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 3098510,
       "num": 3098510,
       "word": "世界杯四强",
@@ -448,14 +456,6 @@
       "word": "钟南山预计明年上半年能恢复到疫情前生活",
       "onboard_time": 1670672959,
       "rank": 0,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2893586,
-      "num": 2893586,
-      "word": "各省第一波感染高峰",
-      "onboard_time": 1670987233,
-      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -1587,6 +1587,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1634860,
+      "num": 1634860,
+      "word": "第四针",
+      "onboard_time": 1670989814,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1632829,
       "num": 1632829,
       "word": "混管阳性同楼人员不需临时封控",
@@ -2171,14 +2179,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1368106,
-      "num": 1368106,
-      "word": "第四针",
-      "onboard_time": 1670989814,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1365972,
       "num": 788559,
       "word": "20岁女生有1个妹妹再喜提双胞胎弟弟",
@@ -2569,6 +2569,14 @@
       "onboard_time": 1670397553,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1223528,
+      "num": 1223528,
+      "word": "高中同学车祸失忆全班接力救助17年",
+      "onboard_time": 1670989453,
+      "rank": 7,
+      "category": "社会正能量,教育"
     },
     {
       "raw_hot": 1216391,
@@ -3971,14 +3979,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 899895,
-      "num": 899895,
-      "word": "高中同学车祸失忆全班接力救助17年",
-      "onboard_time": 1670989453,
-      "rank": 7,
-      "category": "社会正能量,教育"
-    },
-    {
       "raw_hot": 899621,
       "num": 899621,
       "word": "年轻人感染奥密克戎发热一般不超3天",
@@ -4185,6 +4185,14 @@
       "onboard_time": 1670469013,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 869372,
+      "num": 869372,
+      "word": "女子感染新冠乱吃药致肝衰竭进ICU",
+      "onboard_time": 1670990232,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 867852,
@@ -5243,6 +5251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 745522,
+      "num": 745522,
+      "word": "女硕士当6年全职妈妈靠科普找回自信",
+      "onboard_time": 1670988071,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 744464,
       "num": 744464,
       "word": "电影想见你王诠胜角色预告",
@@ -5480,14 +5496,6 @@
       "word": "钟南山院士称无症状可能不算病",
       "onboard_time": 1670551153,
       "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 716883,
-      "num": 716883,
-      "word": "女硕士当6年全职妈妈靠科普找回自信",
-      "onboard_time": 1670988071,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -6713,14 +6721,6 @@
       "onboard_time": 1670241852,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 632304,
-      "num": 632304,
-      "word": "女子感染新冠乱吃药致肝衰竭进ICU",
-      "onboard_time": 1670990232,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 631727,
@@ -9155,12 +9155,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 480121,
+      "num": 480121,
+      "word": "韩出租司机因听不懂日语被日籍乘客暴打",
+      "onboard_time": 1670990833,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 479831,
       "num": 479831,
       "word": "北京朝阳社会面核酸采样亭应开尽开",
       "onboard_time": 1670196788,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 478703,
+      "num": 478703,
+      "word": "baolan",
+      "onboard_time": 1670991793,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 478226,
@@ -9257,6 +9273,14 @@
       "onboard_time": 1670084351,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 474193,
+      "num": 474193,
+      "word": "UP英雄联盟",
+      "onboard_time": 1670990893,
+      "rank": 20,
+      "category": "游戏"
     },
     {
       "raw_hot": 473772,
@@ -9657,14 +9681,6 @@
       "onboard_time": 1670409733,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 457992,
-      "num": 457992,
-      "word": "UP英雄联盟",
-      "onboard_time": 1670990893,
-      "rank": 20,
-      "category": "游戏"
     },
     {
       "raw_hot": 457860,
@@ -11035,6 +11051,14 @@
       "category": "幽默,教育"
     },
     {
+      "raw_hot": 406591,
+      "num": 406591,
+      "word": "LWX续约FPX",
+      "onboard_time": 1670991673,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 406099,
       "num": 406099,
       "word": "摩洛哥晋级8强",
@@ -11571,6 +11595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 388538,
+      "num": 388538,
+      "word": "魔笛 克罗地亚角球",
+      "onboard_time": 1670987833,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 388209,
       "num": 388209,
       "word": "波兰门将",
@@ -11889,14 +11921,6 @@
       "onboard_time": 1670752219,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 375165,
-      "num": 375165,
-      "word": "魔笛 克罗地亚角球",
-      "onboard_time": 1670987833,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 374378,
@@ -12699,6 +12723,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 347623,
+      "num": 347623,
+      "word": "WBG",
+      "onboard_time": 1670990174,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 347304,
       "num": 347304,
       "word": "阿尔瓦雷斯 牛",
@@ -12777,14 +12809,6 @@
       "onboard_time": 1670398392,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 344463,
-      "num": 344463,
-      "word": "WBG",
-      "onboard_time": 1670990174,
-      "rank": 26,
-      "category": "游戏"
     },
     {
       "raw_hot": 343947,
@@ -13177,6 +13201,14 @@
       "onboard_time": 1669854490,
       "rank": 18,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 333167,
+      "num": 333167,
+      "word": "光与夜之恋",
+      "onboard_time": 1670472793,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 333018,
@@ -13753,14 +13785,6 @@
       "onboard_time": 1670503159,
       "rank": 21,
       "category": "教育"
-    },
-    {
-      "raw_hot": 319567,
-      "num": 319567,
-      "word": "韩出租司机因听不懂日语被日籍乘客暴打",
-      "onboard_time": 1670990833,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 319566,
@@ -15939,14 +15963,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 269309,
-      "num": 269309,
-      "word": "LWX续约FPX",
-      "onboard_time": 1670991673,
-      "rank": 35,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 269139,
       "num": 269139,
       "word": "长沙93岁老人捐出100万元积蓄",
@@ -16273,6 +16289,14 @@
       "onboard_time": 1670331910,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 261188,
+      "num": 261188,
+      "word": "快乐再出发第二季预告",
+      "onboard_time": 1670991734,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 260959,
@@ -18587,14 +18611,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 215050,
-      "num": 215050,
-      "word": "快乐再出发第二季预告",
-      "onboard_time": 1670991734,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 214766,
       "num": 861086,
       "word": "女孩穿凉鞋同学爸爸量尺寸给买棉鞋",
@@ -19121,6 +19137,14 @@
       "onboard_time": 1670568153,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 207317,
+      "num": 207317,
+      "word": "淘宝公布2022年度十大宝贝",
+      "onboard_time": 1670992660,
+      "rank": 47,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 207269,
@@ -20387,14 +20411,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 188346,
-      "num": 188346,
-      "word": "baolan",
-      "onboard_time": 1670991793,
-      "rank": 49,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 188249,
       "num": 188249,
       "word": "抗原检测结果要在有效时间内读取",
@@ -21033,14 +21049,6 @@
       "onboard_time": 1670766796,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 180660,
-      "num": 180660,
-      "word": "光与夜之恋",
-      "onboard_time": 1670472793,
-      "rank": 39,
-      "category": "游戏"
     },
     {
       "raw_hot": 180656,
@@ -25107,6 +25115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 137870,
+      "num": 646633,
+      "word": "原神3.3版本 流浪者",
+      "onboard_time": 1670990953,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 137857,
       "num": 137857,
       "word": "黄健翔说姆巴佩还能进3球",
@@ -28481,14 +28497,6 @@
       "onboard_time": 1670926515,
       "rank": 48,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 99290,
-      "num": 646633,
-      "word": "原神3.3版本 流浪者",
-      "onboard_time": 1670990953,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 98993,

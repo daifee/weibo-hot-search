@@ -1,0 +1,410 @@
+{
+  "runTime": 1670992779537,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4870645,
+        "num": 4870645,
+        "word": "沪上阿姨",
+        "onboard_time": 1670984291,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 3124294,
+        "num": 3124294,
+        "word": "各省第一波感染高峰",
+        "onboard_time": 1670987233,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249594,
+        "num": 1877613,
+        "word": "防治奥密克戎17个热点问题",
+        "onboard_time": 1670989152,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1634860,
+        "num": 1634860,
+        "word": "第四针",
+        "onboard_time": 1670989814,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1283766,
+        "num": 1283766,
+        "word": "远嫁非洲女孩周周回应现状",
+        "onboard_time": 1670980691,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1223528,
+        "num": 1223528,
+        "word": "高中同学车祸失忆全班接力救助17年",
+        "onboard_time": 1670989453,
+        "rank": 5,
+        "category": "社会正能量,教育"
+      },
+      {
+        "raw_hot": 1218466,
+        "num": 1218466,
+        "word": "考研",
+        "onboard_time": 1670977031,
+        "rank": 6,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 994357,
+        "num": 994357,
+        "word": "大学生花850买上床下桌卧室变宿舍",
+        "onboard_time": 1670977331,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 869372,
+        "num": 869372,
+        "word": "女子感染新冠乱吃药致肝衰竭进ICU",
+        "onboard_time": 1670990232,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 745522,
+        "num": 745522,
+        "word": "女硕士当6年全职妈妈靠科普找回自信",
+        "onboard_time": 1670988071,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1030561,
+        "num": 731999,
+        "word": "邢昭林感染新冠",
+        "onboard_time": 1670990418,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 673848,
+        "num": 673848,
+        "word": "莫德里奇质疑裁判判罚",
+        "onboard_time": 1670982791,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 657958,
+        "num": 657958,
+        "word": "LPL 转会期",
+        "onboard_time": 1670988616,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 648174,
+        "num": 648174,
+        "word": "恋爱四年半男友考上公务员被分手",
+        "onboard_time": 1670975229,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137870,
+        "num": 626889,
+        "word": "原神3.3版本 流浪者",
+        "onboard_time": 1670990953,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 612961,
+        "num": 612961,
+        "word": "新冠抗体保护期为3到6个月",
+        "onboard_time": 1670974930,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 548489,
+        "num": 548489,
+        "word": "陈奕迅打进世界杯半决赛",
+        "onboard_time": 1670985071,
+        "rank": 16,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 480121,
+        "num": 480121,
+        "word": "韩出租司机因听不懂日语被日籍乘客暴打",
+        "onboard_time": 1670990833,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 478703,
+        "num": 478703,
+        "word": "baolan",
+        "onboard_time": 1670991793,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 474193,
+        "num": 474193,
+        "word": "UP英雄联盟",
+        "onboard_time": 1670990893,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 460505,
+        "num": 460505,
+        "word": "虞书欣蓝发侧颜海报",
+        "onboard_time": 1670991313,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 460127,
+        "num": 460127,
+        "word": "世界杯四强球员身价",
+        "onboard_time": 1670986272,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 425160,
+        "num": 425160,
+        "word": "阿根廷3比0克罗地亚",
+        "onboard_time": 1670965150,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 406591,
+        "num": 406591,
+        "word": "LWX续约FPX",
+        "onboard_time": 1670991673,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 390953,
+        "num": 390953,
+        "word": "猫咪摔坏价值12万翡翠手镯被连夜送走",
+        "onboard_time": 1670976491,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 388538,
+        "num": 388538,
+        "word": "魔笛 克罗地亚角球",
+        "onboard_time": 1670987833,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 347623,
+        "num": 347623,
+        "word": "WBG",
+        "onboard_time": 1670990174,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 333492,
+        "num": 333492,
+        "word": "女子偶遇酷似已故儿子的小伙",
+        "onboard_time": 1670979013,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333167,
+        "num": 333167,
+        "word": "光与夜之恋",
+        "onboard_time": 1670992394,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 312134,
+        "num": 312134,
+        "word": "N95口罩与KN95的区别",
+        "onboard_time": 1670939416,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305195,
+        "num": 305195,
+        "word": "梅西成为阿根廷队世界杯射手王",
+        "onboard_time": 1670962029,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 300753,
+        "num": 300753,
+        "word": "时代少年团三周年无尽的冒险舞台直拍",
+        "onboard_time": 1670991254,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 298881,
+        "num": 298881,
+        "word": "流浪地球2起航之前预告",
+        "onboard_time": 1670985614,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 287748,
+        "num": 287748,
+        "word": "康复后衣物上是否有病毒存活",
+        "onboard_time": 1670980392,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280365,
+        "num": 280365,
+        "word": "RNG 转会期",
+        "onboard_time": 1670983090,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 266758,
+        "num": 266758,
+        "word": "梅西发文庆祝晋级决赛",
+        "onboard_time": 1670985671,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 261195,
+        "num": 261195,
+        "word": "猫咪蜷缩在墙角被冻僵",
+        "onboard_time": 1670987713,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261188,
+        "num": 261188,
+        "word": "快乐再出发第二季预告",
+        "onboard_time": 1670991734,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 253170,
+        "num": 253170,
+        "word": "倒数说爱你陈飞宇周也拥抱花絮视频",
+        "onboard_time": 1670991193,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 246382,
+        "num": 246382,
+        "word": "苏醒 全世界还有谁可以这样啊",
+        "onboard_time": 1670977031,
+        "rank": 39,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 244121,
+        "num": 244121,
+        "word": "名侦探学院6嘉宾自制悬疑片",
+        "onboard_time": 1670988433,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 232157,
+        "num": 232157,
+        "word": "EDG",
+        "onboard_time": 1670974449,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 225811,
+        "num": 225811,
+        "word": "梅西",
+        "onboard_time": 1670960049,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 222711,
+        "num": 222711,
+        "word": "男子称自家晾晒藕粉疑遭邻居撒农药",
+        "onboard_time": 1670985432,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221126,
+        "num": 221126,
+        "word": "深大计算机系学生作业是养鹅",
+        "onboard_time": 1670986151,
+        "rank": 44,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 216313,
+        "num": 216313,
+        "word": "周深是懂废话文学的",
+        "onboard_time": 1670988852,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208974,
+        "num": 208974,
+        "word": "法国vs摩洛哥",
+        "onboard_time": 1670973550,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207317,
+        "num": 207317,
+        "word": "淘宝公布2022年度十大宝贝",
+        "onboard_time": 1670992660,
+        "rank": 47,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 196509,
+        "num": 196509,
+        "word": "女子跑车刚买半年被16岁学生划破",
+        "onboard_time": 1670976731,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193611,
+        "num": 193611,
+        "word": "阿根廷vs克罗地亚",
+        "onboard_time": 1670944934,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#新时代新征程新伟业#"
+    }
+  }
+}
