@@ -1,6 +1,6 @@
 {
   "startTime": 1670775913271,
-  "endTime": 1671014188650,
+  "endTime": 1671016552995,
   "band_list": [
     {
       "raw_hot": 4870645,
@@ -131,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2441935,
+      "num": 2441935,
+      "word": "男子高烧近40度睡觉掀被子直冒烟",
+      "onboard_time": 1671010698,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2429125,
       "num": 2429125,
       "word": "上班阳了算工伤吗",
@@ -243,20 +251,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2022895,
+      "num": 1285207,
+      "word": "华西医院通报医学生病危",
+      "onboard_time": 1671007636,
+      "rank": 4,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 2007261,
       "num": 2007261,
       "word": "阳性者尽量少叫快递外卖",
       "onboard_time": 1670853621,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1892079,
-      "num": 1285207,
-      "word": "华西医院通报医学生病危",
-      "onboard_time": 1671007636,
-      "rank": 4,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1875241,
@@ -313,14 +321,6 @@
       "onboard_time": 1671010877,
       "rank": 1,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1780839,
-      "num": 1780839,
-      "word": "男子高烧近40度睡觉掀被子直冒烟",
-      "onboard_time": 1671010698,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1774981,
@@ -659,6 +659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1093962,
+      "num": 1093962,
+      "word": "女子给确诊闺蜜做饭9天未感染",
+      "onboard_time": 1671011356,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1078578,
       "num": 1078578,
       "word": "用户行程卡数据将被删除",
@@ -835,6 +843,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 973259,
+      "num": 771588,
+      "word": "丈夫确诊妻子把脚放其额头上降温",
+      "onboard_time": 1671012975,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 965805,
       "num": 965805,
       "word": "核酸阳性第几天会转阴",
@@ -923,6 +939,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 902975,
+      "num": 902975,
+      "word": "iG公告",
+      "onboard_time": 1671014297,
+      "rank": 5,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 897409,
       "num": 897409,
       "word": "梅西点球破门",
@@ -1008,14 +1032,6 @@
       "word": "女子混吃7种感冒止咳药全身长满脓疱",
       "onboard_time": 1670944694,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 847373,
-      "num": 847373,
-      "word": "女子给确诊闺蜜做饭9天未感染",
-      "onboard_time": 1671011356,
-      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -1249,6 +1265,14 @@
       "onboard_time": 1671009917,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 729600,
+      "num": 729600,
+      "word": "韦神宣布退役",
+      "onboard_time": 1671015257,
+      "rank": 12,
+      "category": "游戏"
     },
     {
       "raw_hot": 728649,
@@ -2227,6 +2251,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 449620,
+      "num": 449620,
+      "word": "五月天新歌为你写下这首情歌",
+      "onboard_time": 1671016156,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 447787,
       "num": 447787,
       "word": "浙江多地倡议全民戴口罩",
@@ -2339,6 +2371,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 420727,
+      "num": 420727,
+      "word": "邓紫棋西语歌助兴阿根廷",
+      "onboard_time": 1671016097,
+      "rank": 18,
+      "category": "体育,音乐"
+    },
+    {
       "raw_hot": 419129,
       "num": 419129,
       "word": "第一次感觉那么对不起狗",
@@ -2369,6 +2409,14 @@
       "onboard_time": 1670979670,
       "rank": 21,
       "category": "体育,音乐"
+    },
+    {
+      "raw_hot": 409939,
+      "num": 409939,
+      "word": "Scout与Loud经纪公司签约",
+      "onboard_time": 1671013875,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 409839,
@@ -2651,6 +2699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 367461,
+      "num": 367461,
+      "word": "WBG",
+      "onboard_time": 1670990174,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 366501,
       "num": 366501,
       "word": "阳性了之后怎么还失眠了",
@@ -2771,14 +2827,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 347623,
-      "num": 347623,
-      "word": "WBG",
-      "onboard_time": 1670990174,
-      "rank": 26,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 347304,
       "num": 347304,
       "word": "阿尔瓦雷斯 牛",
@@ -2801,6 +2849,14 @@
       "onboard_time": 1670815151,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 345300,
+      "num": 345300,
+      "word": "杨紫说一次开心的拍摄谢谢大家",
+      "onboard_time": 1671013576,
+      "rank": 18,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 343800,
@@ -3171,14 +3227,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 295765,
-      "num": 295765,
-      "word": "杨紫说一次开心的拍摄谢谢大家",
-      "onboard_time": 1671013576,
-      "rank": 18,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 294437,
       "num": 294437,
       "word": "NMIXX吴海媛AAA获奖感言",
@@ -3257,14 +3305,6 @@
       "onboard_time": 1671009619,
       "rank": 21,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 285928,
-      "num": 193862,
-      "word": "丈夫确诊妻子把脚放其额头上降温",
-      "onboard_time": 1671012975,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 285414,
@@ -3369,6 +3409,14 @@
       "onboard_time": 1670823134,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 278690,
+      "num": 278690,
+      "word": "为什么会突然不爱了",
+      "onboard_time": 1671014115,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 278143,
@@ -3883,6 +3931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 234087,
+      "num": 234087,
+      "word": "流星雨",
+      "onboard_time": 1671015556,
+      "rank": 29,
+      "category": "自然"
+    },
+    {
       "raw_hot": 232817,
       "num": 232817,
       "word": "工人施工不使用安全带被罚展览一天",
@@ -3985,6 +4041,14 @@
       "onboard_time": 1670998335,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 224464,
+      "num": 224464,
+      "word": "SMTOWN冬专歌单",
+      "onboard_time": 1671015856,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 223731,
@@ -4315,6 +4379,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 205410,
+      "num": 205410,
+      "word": "柠檬",
+      "onboard_time": 1671011777,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 204947,
       "num": 204947,
       "word": "詹雯婷张远S级和声",
@@ -4393,6 +4465,14 @@
       "onboard_time": 1670763797,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 199993,
+      "num": 199993,
+      "word": "网传GQ盛典流程",
+      "onboard_time": 1671013996,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 199711,
@@ -4609,6 +4689,14 @@
       "onboard_time": 1670854220,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 189809,
+      "num": 189809,
+      "word": "京东首批增援北京快递小哥已抵达",
+      "onboard_time": 1671015856,
+      "rank": 36,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 189716,
@@ -4835,6 +4923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 178973,
+      "num": 178973,
+      "word": "外交部回应谷歌拒置顶正确中国国歌",
+      "onboard_time": 1671014776,
+      "rank": 40,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 178821,
       "num": 178821,
       "word": "月歌行",
@@ -4969,6 +5065,14 @@
       "onboard_time": 1670833934,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 171754,
+      "num": 171754,
+      "word": "OST一响会哭的程度",
+      "onboard_time": 1671015978,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 171579,
@@ -5155,14 +5259,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 165359,
-      "num": 165359,
-      "word": "网传GQ盛典流程",
-      "onboard_time": 1671013996,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 165236,
       "num": 165236,
       "word": "行程卡再见",
@@ -5177,14 +5273,6 @@
       "onboard_time": 1670823193,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 165054,
-      "num": 165054,
-      "word": "柠檬",
-      "onboard_time": 1671011777,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 164617,
@@ -5299,6 +5387,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 155598,
+      "num": 155598,
+      "word": "TT官宣Huanfeng加入",
+      "onboard_time": 1671016456,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 155183,
       "num": 155183,
       "word": "中级经济师",
@@ -5401,6 +5497,14 @@
       "onboard_time": 1670770876,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 150990,
+      "num": 150990,
+      "word": "卡卡说C罗是接近完美的存在",
+      "onboard_time": 1671016397,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 150929,
@@ -5569,14 +5673,6 @@
       "onboard_time": 1670834178,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 141654,
-      "num": 141654,
-      "word": "为什么会突然不爱了",
-      "onboard_time": 1671014115,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 141032,
@@ -6585,6 +6681,14 @@
       "onboard_time": 1670962927,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 13504,
+      "num": 491994,
+      "word": "OPPO发布第二颗自研芯片",
+      "onboard_time": 1671015625,
+      "rank": 14,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
