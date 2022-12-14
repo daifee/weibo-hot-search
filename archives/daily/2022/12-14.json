@@ -1,6 +1,6 @@
 {
   "startTime": 1670948842910,
-  "endTime": 1670999090236,
+  "endTime": 1670999953861,
   "band_list": [
     {
       "raw_hot": 4870645,
@@ -243,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 828201,
+      "num": 828201,
+      "word": "妈妈连续4天做饭儿子崩溃大哭",
+      "onboard_time": 1670994793,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 796227,
       "num": 796227,
       "word": "女子偶遇酷似已故儿子的小伙",
@@ -291,11 +299,11 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 762832,
-      "num": 762832,
-      "word": "妈妈连续4天做饭儿子崩溃大哭",
-      "onboard_time": 1670994793,
-      "rank": 7,
+      "raw_hot": 761659,
+      "num": 632194,
+      "word": "女子割腕送医跳楼身亡亲属索赔被驳",
+      "onboard_time": 1670996296,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -331,6 +339,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 697926,
+      "num": 697926,
+      "word": "吴彤把尔冬升叫成陈凯歌",
+      "onboard_time": 1670997494,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 670190,
       "num": 670190,
       "word": "苏醒 全世界还有谁可以这样啊",
@@ -345,14 +361,6 @@
       "onboard_time": 1670991793,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 644118,
-      "num": 644118,
-      "word": "吴彤把尔冬升叫成陈凯歌",
-      "onboard_time": 1670997494,
-      "rank": 9,
-      "category": "综艺"
     },
     {
       "raw_hot": 636186,
@@ -371,11 +379,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 632194,
-      "num": 632194,
-      "word": "女子割腕送医跳楼身亡亲属索赔被驳",
-      "onboard_time": 1670996296,
-      "rank": 10,
+      "raw_hot": 612149,
+      "num": 500615,
+      "word": "华西医院称医学生发烧3天还坚持上班不实",
+      "onboard_time": 1670997076,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -467,12 +475,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 500615,
-      "num": 500615,
-      "word": "华西医院称医学生发烧3天还坚持上班不实",
-      "onboard_time": 1670997076,
-      "rank": 13,
-      "category": "社会新闻"
+      "raw_hot": 498562,
+      "num": 498562,
+      "word": "梅西离大力神杯只差一步了",
+      "onboard_time": 1670996956,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 497103,
@@ -553,14 +561,6 @@
       "onboard_time": 1670944874,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 451881,
-      "num": 451881,
-      "word": "梅西离大力神杯只差一步了",
-      "onboard_time": 1670996956,
-      "rank": 15,
-      "category": "体育"
     },
     {
       "raw_hot": 448003,
@@ -739,6 +739,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 317883,
+      "num": 317883,
+      "word": "鹿晗战损妆造型",
+      "onboard_time": 1670996655,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 313502,
       "num": 313502,
       "word": "法国vs摩洛哥",
@@ -819,12 +827,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 280344,
-      "num": 280344,
-      "word": "鹿晗战损妆造型",
-      "onboard_time": 1670996655,
-      "rank": 24,
-      "category": "作品衍生"
+      "raw_hot": 280566,
+      "num": 280566,
+      "word": "赵樱子想演小龙女",
+      "onboard_time": 1670999294,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 279147,
@@ -1139,6 +1147,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 199140,
+      "num": 199140,
+      "word": "TheShy",
+      "onboard_time": 1670999417,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 198274,
       "num": 198274,
       "word": "流浪地球",
@@ -1152,6 +1168,14 @@
       "word": "广西药店回应外地网友抢购药品",
       "onboard_time": 1670929217,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192123,
+      "num": 192123,
+      "word": "男子科目一作弊从头到脚高科技",
+      "onboard_time": 1670998755,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -1177,6 +1201,14 @@
       "onboard_time": 1670983570,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 187742,
+      "num": 187742,
+      "word": "Straykids看kard演出的反应",
+      "onboard_time": 1670999534,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 185137,
@@ -1243,12 +1275,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 178375,
-      "num": 178375,
+      "raw_hot": 180366,
+      "num": 180366,
       "word": "张新成谈和胡歌吴越合作的感受",
       "onboard_time": 1670998155,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 179222,
+      "num": 179222,
+      "word": "痰咳不出来试试这个姿势",
+      "onboard_time": 1670999175,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 177987,
@@ -1379,6 +1419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 145531,
+      "num": 145531,
+      "word": "天津网友曝柠檬遭哄抢",
+      "onboard_time": 1670999714,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144946,
       "num": 144946,
       "word": "爱的迫降开播3周年",
@@ -1393,14 +1441,6 @@
       "onboard_time": 1670998395,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 142775,
-      "num": 142775,
-      "word": "男子科目一作弊从头到脚高科技",
-      "onboard_time": 1670998755,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 139303,
