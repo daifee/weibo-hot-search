@@ -1,0 +1,410 @@
+{
+  "runTime": 1671039243502,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 496665,
+        "num": 496665,
+        "word": "C罗在皇马基地训练",
+        "onboard_time": 1671033088,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 482809,
+        "num": 482809,
+        "word": "男生帮女友改论文把女友改哭了",
+        "onboard_time": 1671031951,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169292,
+        "num": 456388,
+        "word": "儿童感染奥密克戎应注意这几点",
+        "onboard_time": 1671022459,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 453928,
+        "num": 453928,
+        "word": "沪上阿姨致歉",
+        "onboard_time": 1671021872,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 313878,
+        "num": 313878,
+        "word": "男子高烧近40度睡觉掀被子直冒烟",
+        "onboard_time": 1671010698,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257074,
+        "num": 257074,
+        "word": "县委大院拍出了体制内的真实",
+        "onboard_time": 1671033925,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 247969,
+        "num": 247969,
+        "word": "杨迪回应照片被贴工位作阳敌护体符",
+        "onboard_time": 1671030273,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239105,
+        "num": 239105,
+        "word": "复阳",
+        "onboard_time": 1671017477,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223194,
+        "num": 223194,
+        "word": "席梦思已经七次申请破产保护",
+        "onboard_time": 1671035902,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 212205,
+        "num": 212205,
+        "word": "张杰也逃不过家长群接龙",
+        "onboard_time": 1671027695,
+        "rank": 9,
+        "category": "综艺,幽默"
+      },
+      {
+        "raw_hot": 233275,
+        "num": 201222,
+        "word": "儿童感染新冠出现下列症状要立即就诊",
+        "onboard_time": 1671034106,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230784,
+        "num": 193235,
+        "word": "华西医院通报医学生病危",
+        "onboard_time": 1671007636,
+        "rank": 11,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 179540,
+        "num": 179540,
+        "word": "妈妈阳性爸爸住公司女儿留家照顾",
+        "onboard_time": 1671019224,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170703,
+        "num": 170703,
+        "word": "体操冠军杨威确诊新冠高烧40度",
+        "onboard_time": 1671029494,
+        "rank": 13,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 146352,
+        "num": 146352,
+        "word": "白敬亭跳wadada",
+        "onboard_time": 1671022277,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145709,
+        "num": 145709,
+        "word": "专家科普为何北京有症状感染者更多",
+        "onboard_time": 1671019698,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145247,
+        "num": 145247,
+        "word": "同事阳了自己不去上班算旷工吗",
+        "onboard_time": 1671023132,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133031,
+        "num": 133031,
+        "word": "教育局回应班主任核酸把关不严被调查",
+        "onboard_time": 1671026554,
+        "rank": 17,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 130680,
+        "num": 130680,
+        "word": "商家回应买N95口罩超1月不发货",
+        "onboard_time": 1671022827,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117488,
+        "num": 117488,
+        "word": "咖啡店回应连花清瘟四件套",
+        "onboard_time": 1671033985,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115879,
+        "num": 115879,
+        "word": "林更新 婴儿纸尿裤倒水冻起来",
+        "onboard_time": 1671024213,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109353,
+        "num": 109353,
+        "word": "张朝阳呼吁不要囤退烧药",
+        "onboard_time": 1671026432,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107527,
+        "num": 107527,
+        "word": "杨幂也在看少爷和我",
+        "onboard_time": 1671029734,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103470,
+        "num": 103470,
+        "word": "一次吃8根熟香蕉才能缓解便秘",
+        "onboard_time": 1671025534,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99004,
+        "num": 99004,
+        "word": "发烧最想吃什么",
+        "onboard_time": 1671031772,
+        "rank": 24,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 97158,
+        "num": 97158,
+        "word": "住70楼是种什么体验",
+        "onboard_time": 1671030933,
+        "rank": 25,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 91386,
+        "num": 91386,
+        "word": "风吹半夏大结局",
+        "onboard_time": 1671022156,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 88878,
+        "num": 88878,
+        "word": "蒲熠星解题好像开了挂",
+        "onboard_time": 1671036141,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86533,
+        "num": 86533,
+        "word": "扛得住死亡拍摄角度的美貌",
+        "onboard_time": 1671034286,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 82545,
+        "num": 82545,
+        "word": "韦神宣布退役",
+        "onboard_time": 1671015257,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 79084,
+        "num": 79084,
+        "word": "北京全市均调整为常态防控状态",
+        "onboard_time": 1671009798,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77713,
+        "num": 77713,
+        "word": "夺冠是梅西成为球王的最关键一步",
+        "onboard_time": 1671020419,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 74673,
+        "num": 74673,
+        "word": "男子为新鲜用活鱼煮火锅热汤四溅",
+        "onboard_time": 1671032188,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66108,
+        "num": 66108,
+        "word": "卡卡说C罗是接近完美的存在",
+        "onboard_time": 1671016397,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 62892,
+        "num": 62892,
+        "word": "山东下个月或出现首波感染高峰",
+        "onboard_time": 1671020178,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62868,
+        "num": 62868,
+        "word": "东北地区有穿搭博主了",
+        "onboard_time": 1671030215,
+        "rank": 35,
+        "category": "时尚,幽默"
+      },
+      {
+        "raw_hot": 62143,
+        "num": 62143,
+        "word": "方博 林高远",
+        "onboard_time": 1671026734,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 61969,
+        "num": 61969,
+        "word": "好想要周深这样的天秤座朋友",
+        "onboard_time": 1671033147,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 59675,
+        "num": 59675,
+        "word": "金钟仁姜涩琪李帝努柳智敏合作曲",
+        "onboard_time": 1671030576,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 58338,
+        "num": 58338,
+        "word": "当品种猫回村后",
+        "onboard_time": 1671027573,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 57283,
+        "num": 57283,
+        "word": "丁程鑫GQ盛典出发路透",
+        "onboard_time": 1671030994,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 55473,
+        "num": 55473,
+        "word": "Newjeans新歌预告",
+        "onboard_time": 1671027334,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 54096,
+        "num": 54096,
+        "word": "私人销售抗原违法吗",
+        "onboard_time": 1671031173,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53777,
+        "num": 53777,
+        "word": "张踩铃分享全家新冠心得",
+        "onboard_time": 1671030094,
+        "rank": 43,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 50614,
+        "num": 50614,
+        "word": "江西一药店连花清瘟涨12元被顶格处罚",
+        "onboard_time": 1671021978,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45345,
+        "num": 45345,
+        "word": "王一博成毅陈哲远张凌赫GQ彩排路透",
+        "onboard_time": 1671028174,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 44982,
+        "num": 44982,
+        "word": "为什么会突然不爱了",
+        "onboard_time": 1671014115,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 41888,
+        "num": 41888,
+        "word": "丈夫确诊妻子把脚放其额头上降温",
+        "onboard_time": 1671012975,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41352,
+        "num": 41352,
+        "word": "女子给确诊闺蜜做饭9天未感染",
+        "onboard_time": 1671011356,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39162,
+        "num": 39162,
+        "word": "流星雨",
+        "onboard_time": 1671015556,
+        "rank": 49,
+        "category": "自然"
+      }
+    ],
+    "hotgov": {
+      "word": "#应对气候变化保护生物多样性#"
+    }
+  }
+}
