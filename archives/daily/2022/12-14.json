@@ -1,6 +1,6 @@
 {
   "startTime": 1670948842910,
-  "endTime": 1671009501962,
+  "endTime": 1671010433697,
   "band_list": [
     {
       "raw_hot": 4870645,
@@ -121,6 +121,14 @@
       "onboard_time": 1670964850,
       "rank": 5,
       "category": "体育,幽默"
+    },
+    {
+      "raw_hot": 1346409,
+      "num": 1346409,
+      "word": "369确诊新冠",
+      "onboard_time": 1671008295,
+      "rank": 10,
+      "category": "游戏"
     },
     {
       "raw_hot": 1266591,
@@ -257,14 +265,6 @@
       "onboard_time": 1670990232,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 956272,
-      "num": 637411,
-      "word": "369确诊新冠",
-      "onboard_time": 1671008295,
-      "rank": 10,
-      "category": "游戏"
     },
     {
       "raw_hot": 897409,
@@ -483,7 +483,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 586302,
+      "raw_hot": 625221,
       "num": 1549413,
       "word": "新冠疫苗第2剂加强针来了",
       "onboard_time": 1671007756,
@@ -715,6 +715,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 446148,
+      "num": 446148,
+      "word": "男子世界杯花12万买彩票想退钱",
+      "onboard_time": 1671007820,
+      "rank": 17,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 439283,
       "num": 439283,
       "word": "阿根廷从未输过世界杯半决赛",
@@ -883,14 +891,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 329922,
-      "num": 329922,
-      "word": "男子世界杯花12万买彩票想退钱",
-      "onboard_time": 1671007820,
-      "rank": 17,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 326598,
       "num": 326598,
       "word": "TES",
@@ -979,12 +979,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 288502,
+      "num": 288502,
+      "word": "少年刺伤霸凌者获无罪后因压力过大辍学",
+      "onboard_time": 1671006916,
+      "rank": 39,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 288022,
       "num": 288022,
       "word": "名侦探学院6嘉宾自制悬疑片",
       "onboard_time": 1670988433,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 285962,
+      "num": 285962,
+      "word": "杨紫T锦绣十二月刊封面",
+      "onboard_time": 1671009619,
+      "rank": 21,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 284787,
@@ -1139,6 +1155,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 258255,
+      "num": 258255,
+      "word": "许半夏决定和童骁骑一起自首",
+      "onboard_time": 1671009917,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 256196,
       "num": 256196,
       "word": "鹿晗新歌MV预告视频",
@@ -1195,20 +1219,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 242405,
-      "num": 242405,
-      "word": "少年刺伤霸凌者获无罪后因压力过大辍学",
-      "onboard_time": 1671006916,
-      "rank": 39,
-      "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 240973,
-      "num": 240973,
+      "raw_hot": 242920,
+      "num": 242920,
       "word": "去乌镇吃碗羊肉面有多惬意",
       "onboard_time": 1671007996,
       "rank": 26,
       "category": "美食"
+    },
+    {
+      "raw_hot": 238608,
+      "num": 227426,
+      "word": "初二男生遭15人围殴刺伤3人获无罪",
+      "onboard_time": 1671009495,
+      "rank": 47,
+      "category": "社会负面,教育"
     },
     {
       "raw_hot": 235172,
@@ -1347,6 +1371,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 206481,
+      "num": 206481,
+      "word": "Iwandy加入WE",
+      "onboard_time": 1671008536,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 205759,
       "num": 205759,
       "word": "WBG主教练Easyhoon",
@@ -1371,12 +1403,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 202861,
-      "num": 202861,
-      "word": "Iwandy加入WE",
-      "onboard_time": 1671008536,
-      "rank": 37,
-      "category": "游戏"
+      "raw_hot": 201580,
+      "num": 201580,
+      "word": "北京全市均调整为常态防控状态",
+      "onboard_time": 1671009798,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 199711,
@@ -1579,14 +1611,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 173682,
-      "num": 151642,
-      "word": "初二男生遭15人围殴刺伤3人获无罪",
-      "onboard_time": 1671009495,
-      "rank": 47,
-      "category": "社会负面,教育"
-    },
-    {
       "raw_hot": 171564,
       "num": 171564,
       "word": "保障好群众就医用药是当务之急",
@@ -1625,6 +1649,14 @@
       "onboard_time": 1670941335,
       "rank": 38,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 169075,
+      "num": 169075,
+      "word": "上海派出6000只麻鸭清理稻田",
+      "onboard_time": 1671009917,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 167269,
@@ -1721,6 +1753,14 @@
       "onboard_time": 1670949432,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 147682,
+      "num": 147682,
+      "word": "2022中国军人催泪瞬间",
+      "onboard_time": 1671010397,
+      "rank": 47,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 146275,
