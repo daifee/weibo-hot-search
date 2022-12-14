@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1670992779537,
+  "endTime": 1670995055402,
   "band_list": [
     {
       "raw_hot": 13790167,
@@ -267,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3597005,
+      "num": 3597005,
+      "word": "各省第一波感染高峰",
+      "onboard_time": 1670987233,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 3582523,
       "num": 2364900,
       "word": "停服",
@@ -387,11 +395,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 3124294,
-      "num": 3124294,
-      "word": "各省第一波感染高峰",
-      "onboard_time": 1670987233,
-      "rank": 12,
+      "raw_hot": 3134355,
+      "num": 3134355,
+      "word": "医院回应医学生阳性带病上岗猝死",
+      "onboard_time": 1670992816,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -3587,6 +3595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 964311,
+      "num": 964311,
+      "word": "女子感染新冠乱吃药致肝衰竭进ICU",
+      "onboard_time": 1670990232,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 963048,
       "num": 963048,
       "word": "沙特",
@@ -4185,14 +4201,6 @@
       "onboard_time": 1670469013,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 869372,
-      "num": 869372,
-      "word": "女子感染新冠乱吃药致肝衰竭进ICU",
-      "onboard_time": 1670990232,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 867852,
@@ -5225,6 +5233,14 @@
       "onboard_time": 1670024048,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 747121,
+      "num": 747121,
+      "word": "淘宝公布2022年度十大宝贝",
+      "onboard_time": 1670992660,
+      "rank": 47,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 746485,
@@ -6507,6 +6523,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 648325,
+      "num": 648325,
+      "word": "baolan",
+      "onboard_time": 1670991793,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 647928,
       "num": 647928,
       "word": "scout",
@@ -7529,6 +7553,14 @@
       "onboard_time": 1670579180,
       "rank": 22,
       "category": "时尚,艺人"
+    },
+    {
+      "raw_hot": 576889,
+      "num": 576889,
+      "word": "2岁娃误把黄豆放鼻孔10天被泡发",
+      "onboard_time": 1670992816,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 575288,
@@ -9171,14 +9203,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 478703,
-      "num": 478703,
-      "word": "baolan",
-      "onboard_time": 1670991793,
-      "rank": 49,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 478226,
       "num": 478226,
       "word": "北理工通报方岱宁相关视频事件",
@@ -9193,6 +9217,14 @@
       "onboard_time": 1670425695,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 477522,
+      "num": 477522,
+      "word": "电影想见你黄雨萱预告",
+      "onboard_time": 1670994194,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 477282,
@@ -9971,6 +10003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 445352,
+      "num": 445352,
+      "word": "太原一楼体外大屏现不雅按摩广告",
+      "onboard_time": 1670993416,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 444616,
       "num": 444616,
       "word": "昆明一地要求非必要不返乡",
@@ -10401,6 +10441,14 @@
       "onboard_time": 1670252351,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 425909,
+      "num": 425909,
+      "word": "王一博GQ盛典机场出发图",
+      "onboard_time": 1670994373,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 425486,
@@ -11873,6 +11921,14 @@
       "onboard_time": 1670564897,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 376828,
+      "num": 376828,
+      "word": "第4针来了",
+      "onboard_time": 1670993713,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 376731,
@@ -13849,6 +13905,14 @@
       "onboard_time": 1670064015,
       "rank": 17,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 318459,
+      "num": 318459,
+      "word": "专家研判一个多月内或达到感染高峰",
+      "onboard_time": 1670993654,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 317966,
@@ -16076,7 +16140,7 @@
     },
     {
       "raw_hot": 266232,
-      "num": 1936102,
+      "num": 3139103,
       "word": "防治奥密克戎17个热点问题",
       "onboard_time": 1670989152,
       "rank": 2,
@@ -16249,6 +16313,14 @@
       "onboard_time": 1670600424,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 262210,
+      "num": 262210,
+      "word": "孤勇者",
+      "onboard_time": 1670821514,
+      "rank": 33,
+      "category": "体育,音乐"
     },
     {
       "raw_hot": 261810,
@@ -16489,6 +16561,14 @@
       "onboard_time": 1670232550,
       "rank": 41,
       "category": "科技"
+    },
+    {
+      "raw_hot": 256196,
+      "num": 256196,
+      "word": "鹿晗新歌MV预告视频",
+      "onboard_time": 1670992993,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 256139,
@@ -16793,14 +16873,6 @@
       "onboard_time": 1670673799,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 250068,
-      "num": 245153,
-      "word": "孤勇者",
-      "onboard_time": 1670821514,
-      "rank": 33,
-      "category": "体育,音乐"
     },
     {
       "raw_hot": 249838,
@@ -19139,14 +19211,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 207317,
-      "num": 207317,
-      "word": "淘宝公布2022年度十大宝贝",
-      "onboard_time": 1670992660,
-      "rank": 47,
-      "category": "社会新闻,科技"
-    },
-    {
       "raw_hot": 207269,
       "num": 207269,
       "word": "阳过何时可以返岗",
@@ -19265,6 +19329,14 @@
       "onboard_time": 1670570419,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 203850,
+      "num": 203850,
+      "word": "10号果然是万能的",
+      "onboard_time": 1670994553,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 203402,
@@ -20779,6 +20851,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 183724,
+      "num": 183724,
+      "word": "谁是憋气冠军",
+      "onboard_time": 1670994853,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 183684,
       "num": 169694,
       "word": "张婧仪朱韵金句台词海报",
@@ -20873,6 +20953,14 @@
       "onboard_time": 1670858594,
       "rank": 32,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 182574,
+      "num": 182574,
+      "word": "主人阳性后狗狗陪身边不肯离开",
+      "onboard_time": 1670994793,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 182560,
