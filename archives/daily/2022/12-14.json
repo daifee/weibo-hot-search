@@ -1,6 +1,6 @@
 {
   "startTime": 1670948842910,
-  "endTime": 1670995055402,
+  "endTime": 1670996025446,
   "band_list": [
     {
       "raw_hot": 4870645,
@@ -27,8 +27,8 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 3134355,
-      "num": 3134355,
+      "raw_hot": 3218270,
+      "num": 3218270,
       "word": "医院回应医学生阳性带病上岗猝死",
       "onboard_time": 1670992816,
       "rank": 3,
@@ -259,8 +259,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 747121,
-      "num": 747121,
+      "raw_hot": 766982,
+      "num": 766982,
       "word": "淘宝公布2022年度十大宝贝",
       "onboard_time": 1670992660,
       "rank": 47,
@@ -281,6 +281,14 @@
       "onboard_time": 1670942114,
       "rank": 9,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 726092,
+      "num": 726092,
+      "word": "张云龙官宣妻子的浪漫旅行6",
+      "onboard_time": 1670995334,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 721164,
@@ -307,8 +315,8 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 648325,
-      "num": 648325,
+      "raw_hot": 665142,
+      "num": 665142,
       "word": "baolan",
       "onboard_time": 1670991793,
       "rank": 49,
@@ -339,6 +347,22 @@
       "category": "科技"
     },
     {
+      "raw_hot": 584949,
+      "num": 584949,
+      "word": "2岁娃误把黄豆放鼻孔10天被泡发",
+      "onboard_time": 1670992816,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 582370,
+      "num": 582370,
+      "word": "太原一楼体外大屏现不雅按摩广告",
+      "onboard_time": 1670993416,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 580896,
       "num": 580896,
       "word": "美羊羊",
@@ -347,12 +371,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 576889,
-      "num": 576889,
-      "word": "2岁娃误把黄豆放鼻孔10天被泡发",
-      "onboard_time": 1670992816,
-      "rank": 13,
-      "category": "社会新闻"
+      "raw_hot": 566484,
+      "num": 566484,
+      "word": "电影想见你黄雨萱预告",
+      "onboard_time": 1670994194,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 561283,
@@ -411,6 +435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 496858,
+      "num": 496858,
+      "word": "第4针来了",
+      "onboard_time": 1670993713,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 489723,
       "num": 489723,
       "word": "虞书欣蓝发侧颜海报",
@@ -435,14 +467,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 477522,
-      "num": 477522,
-      "word": "电影想见你黄雨萱预告",
-      "onboard_time": 1670994194,
-      "rank": 14,
-      "category": "影视"
-    },
-    {
       "raw_hot": 474193,
       "num": 474193,
       "word": "UP英雄联盟",
@@ -456,6 +480,14 @@
       "word": "女子跑车刚买半年被16岁学生划破",
       "onboard_time": 1670976731,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 464470,
+      "num": 464470,
+      "word": "专家研判一个多月内或达到感染高峰",
+      "onboard_time": 1670993654,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -497,14 +529,6 @@
       "onboard_time": 1670944454,
       "rank": 14,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 445352,
-      "num": 445352,
-      "word": "太原一楼体外大屏现不雅按摩广告",
-      "onboard_time": 1670993416,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 439283,
@@ -611,14 +635,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 376828,
-      "num": 376828,
-      "word": "第4针来了",
-      "onboard_time": 1670993713,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 358475,
       "num": 358475,
       "word": "小罗",
@@ -681,14 +697,6 @@
       "onboard_time": 1670991254,
       "rank": 29,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 318459,
-      "num": 318459,
-      "word": "专家研判一个多月内或达到感染高峰",
-      "onboard_time": 1670993654,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 313502,
@@ -995,11 +1003,43 @@
       "category": "体育"
     },
     {
+      "raw_hot": 219612,
+      "num": 219612,
+      "word": "张彬彬徐璐月歌行cp感",
+      "onboard_time": 1670995697,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 218014,
       "num": 218014,
       "word": "一个学期没练功的舞蹈生",
       "onboard_time": 1670946253,
       "rank": 25,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 210459,
+      "num": 211426,
+      "word": "丁程鑫无尽的冒险单人直拍",
+      "onboard_time": 1670995574,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 210363,
+      "num": 210363,
+      "word": "无限超越班网课",
+      "onboard_time": 1670995274,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 207856,
+      "num": 207856,
+      "word": "被陌生人可爱到的瞬间",
+      "onboard_time": 1670995635,
+      "rank": 41,
       "category": "幽默"
     },
     {
@@ -1017,6 +1057,30 @@
       "onboard_time": 1670921953,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 201731,
+      "num": 201731,
+      "word": "一下就把上班的痛苦转移了",
+      "onboard_time": 1670995096,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 199711,
+      "num": 199711,
+      "word": "流浪地球2星尘海报",
+      "onboard_time": 1670995934,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 193929,
+      "num": 193929,
+      "word": "湖人vs凯尔特人",
+      "onboard_time": 1670995635,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 193048,

@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1670995055402,
+  "endTime": 1670996025446,
   "band_list": [
     {
       "raw_hot": 13790167,
@@ -363,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3218270,
+      "num": 3218270,
+      "word": "医院回应医学生阳性带病上岗猝死",
+      "onboard_time": 1670992816,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 3203505,
       "num": 658585,
       "word": "于和伟 病毒开始攻击检测工具了吗",
@@ -392,14 +400,6 @@
       "word": "专家称一两个月内会出现大规模疫情冲击",
       "onboard_time": 1670480294,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 3134355,
-      "num": 3134355,
-      "word": "医院回应医学生阳性带病上岗猝死",
-      "onboard_time": 1670992816,
-      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -5067,6 +5067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 766982,
+      "num": 766982,
+      "word": "淘宝公布2022年度十大宝贝",
+      "onboard_time": 1670992660,
+      "rank": 47,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 766468,
       "num": 1376329,
       "word": "贵州女子远嫁印度和老公AA制",
@@ -5233,14 +5241,6 @@
       "onboard_time": 1670024048,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 747121,
-      "num": 747121,
-      "word": "淘宝公布2022年度十大宝贝",
-      "onboard_time": 1670992660,
-      "rank": 47,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 746485,
@@ -5433,6 +5433,14 @@
       "onboard_time": 1670051951,
       "rank": 33,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 726092,
+      "num": 726092,
+      "word": "张云龙官宣妻子的浪漫旅行6",
+      "onboard_time": 1670995334,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 723824,
@@ -6243,6 +6251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 665142,
+      "num": 665142,
+      "word": "baolan",
+      "onboard_time": 1670991793,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 663805,
       "num": 663805,
       "word": "刘诗诗为胡歌宣传新剧县委大院",
@@ -6521,14 +6537,6 @@
       "onboard_time": 1670653157,
       "rank": 38,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 648325,
-      "num": 648325,
-      "word": "baolan",
-      "onboard_time": 1670991793,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 647928,
@@ -7395,6 +7403,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 584949,
+      "num": 584949,
+      "word": "2岁娃误把黄豆放鼻孔10天被泡发",
+      "onboard_time": 1670992816,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 584354,
       "num": 1698839,
       "word": "C罗能否带葡萄牙完成复仇",
@@ -7473,6 +7489,14 @@
       "onboard_time": 1670892552,
       "rank": 11,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 582370,
+      "num": 582370,
+      "word": "太原一楼体外大屏现不雅按摩广告",
+      "onboard_time": 1670993416,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 582326,
@@ -7555,14 +7579,6 @@
       "category": "时尚,艺人"
     },
     {
-      "raw_hot": 576889,
-      "num": 576889,
-      "word": "2岁娃误把黄豆放鼻孔10天被泡发",
-      "onboard_time": 1670992816,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 575288,
       "num": 575288,
       "word": "红毯还是得看女明星",
@@ -7641,6 +7657,14 @@
       "onboard_time": 1670551753,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 566484,
+      "num": 566484,
+      "word": "电影想见你黄雨萱预告",
+      "onboard_time": 1670994194,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 566392,
@@ -8835,6 +8859,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 496858,
+      "num": 496858,
+      "word": "第4针来了",
+      "onboard_time": 1670993713,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 496343,
       "num": 496343,
       "word": "哈尔滨市发布第75号公告",
@@ -9219,14 +9251,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 477522,
-      "num": 477522,
-      "word": "电影想见你黄雨萱预告",
-      "onboard_time": 1670994194,
-      "rank": 14,
-      "category": "影视"
-    },
-    {
       "raw_hot": 477282,
       "num": 706613,
       "word": "韩国半场1比1葡萄牙",
@@ -9520,6 +9544,14 @@
       "word": "女子跑车刚买半年被16岁学生划破",
       "onboard_time": 1670976731,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 464470,
+      "num": 464470,
+      "word": "专家研判一个多月内或达到感染高峰",
+      "onboard_time": 1670993654,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -10000,14 +10032,6 @@
       "word": "重庆烤羊店两只羊出逃被找回当吉祥物",
       "onboard_time": 1670512877,
       "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 445352,
-      "num": 445352,
-      "word": "太原一楼体外大屏现不雅按摩广告",
-      "onboard_time": 1670993416,
-      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -11921,14 +11945,6 @@
       "onboard_time": 1670564897,
       "rank": 17,
       "category": "影视"
-    },
-    {
-      "raw_hot": 376828,
-      "num": 376828,
-      "word": "第4针来了",
-      "onboard_time": 1670993713,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 376731,
@@ -13905,14 +13921,6 @@
       "onboard_time": 1670064015,
       "rank": 17,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 318459,
-      "num": 318459,
-      "word": "专家研判一个多月内或达到感染高峰",
-      "onboard_time": 1670993654,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 317966,
@@ -18443,6 +18451,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 219612,
+      "num": 219612,
+      "word": "张彬彬徐璐月歌行cp感",
+      "onboard_time": 1670995697,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 219605,
       "num": 219605,
       "word": "大连现奇观犹如海面开锅了",
@@ -19003,12 +19019,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 210459,
+      "num": 211426,
+      "word": "丁程鑫无尽的冒险单人直拍",
+      "onboard_time": 1670995574,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 210446,
       "num": 210446,
       "word": "李光洁说义无反顾才能不辜负彼此",
       "onboard_time": 1670675360,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 210363,
+      "num": 210363,
+      "word": "无限超越班网课",
+      "onboard_time": 1670995274,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 210222,
@@ -19185,6 +19217,14 @@
       "onboard_time": 1670501298,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 207856,
+      "num": 207856,
+      "word": "被陌生人可爱到的瞬间",
+      "onboard_time": 1670995635,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 207609,
@@ -19435,6 +19475,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 201731,
+      "num": 201731,
+      "word": "一下就把上班的痛苦转移了",
+      "onboard_time": 1670995096,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 201655,
       "num": 1682857,
       "word": "女子就医看监控发现丈夫带娃玩手机",
@@ -19537,6 +19585,14 @@
       "onboard_time": 1670469133,
       "rank": 39,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 199711,
+      "num": 199711,
+      "word": "流浪地球2星尘海报",
+      "onboard_time": 1670995934,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 199670,
@@ -20025,6 +20081,14 @@
       "onboard_time": 1669985773,
       "rank": 38,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 193929,
+      "num": 193929,
+      "word": "湖人vs凯尔特人",
+      "onboard_time": 1670995635,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 193890,

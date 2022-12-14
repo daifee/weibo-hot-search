@@ -1,6 +1,6 @@
 {
   "startTime": 1670775913271,
-  "endTime": 1670995055402,
+  "endTime": 1670996025446,
   "band_list": [
     {
       "raw_hot": 4870645,
@@ -83,20 +83,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3218270,
+      "num": 3218270,
+      "word": "医院回应医学生阳性带病上岗猝死",
+      "onboard_time": 1670992816,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 3203505,
       "num": 658585,
       "word": "于和伟 病毒开始攻击检测工具了吗",
       "onboard_time": 1670835435,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 3134355,
-      "num": 3134355,
-      "word": "医院回应医学生阳性带病上岗猝死",
-      "onboard_time": 1670992816,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2889760,
@@ -1003,6 +1003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 766982,
+      "num": 766982,
+      "word": "淘宝公布2022年度十大宝贝",
+      "onboard_time": 1670992660,
+      "rank": 47,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 757939,
       "num": 757939,
       "word": "你身边有多少人中招了",
@@ -1024,14 +1032,6 @@
       "word": "行程卡下线倒计时",
       "onboard_time": 1670850197,
       "rank": 5,
-      "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 747121,
-      "num": 747121,
-      "word": "淘宝公布2022年度十大宝贝",
-      "onboard_time": 1670992660,
-      "rank": 47,
       "category": "社会新闻,科技"
     },
     {
@@ -1097,6 +1097,14 @@
       "onboard_time": 1670901613,
       "rank": 27,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 726092,
+      "num": 726092,
+      "word": "张云龙官宣妻子的浪漫旅行6",
+      "onboard_time": 1670995334,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 722428,
@@ -1187,6 +1195,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 665142,
+      "num": 665142,
+      "word": "baolan",
+      "onboard_time": 1670991793,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 663061,
       "num": 663061,
       "word": "阳性人员家属要不要提前吃药",
@@ -1233,14 +1249,6 @@
       "onboard_time": 1670857819,
       "rank": 39,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 648325,
-      "num": 648325,
-      "word": "baolan",
-      "onboard_time": 1670991793,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 645336,
@@ -1363,6 +1371,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 584949,
+      "num": 584949,
+      "word": "2岁娃误把黄豆放鼻孔10天被泡发",
+      "onboard_time": 1670992816,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 583818,
       "num": 583818,
       "word": "女子住1楼质问物业为啥要交电梯费",
@@ -1379,11 +1395,11 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 576889,
-      "num": 576889,
-      "word": "2岁娃误把黄豆放鼻孔10天被泡发",
-      "onboard_time": 1670992816,
-      "rank": 13,
+      "raw_hot": 582370,
+      "num": 582370,
+      "word": "太原一楼体外大屏现不雅按摩广告",
+      "onboard_time": 1670993416,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -1409,6 +1425,14 @@
       "onboard_time": 1670918173,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 566484,
+      "num": 566484,
+      "word": "电影想见你黄雨萱预告",
+      "onboard_time": 1670994194,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 566097,
@@ -1667,6 +1691,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 496858,
+      "num": 496858,
+      "word": "第4针来了",
+      "onboard_time": 1670993713,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 490105,
       "num": 490105,
       "word": "老师阳性后用唐老鸭式哑音上课",
@@ -1763,14 +1795,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 477522,
-      "num": 477522,
-      "word": "电影想见你黄雨萱预告",
-      "onboard_time": 1670994194,
-      "rank": 14,
-      "category": "影视"
-    },
-    {
       "raw_hot": 474193,
       "num": 474193,
       "word": "UP英雄联盟",
@@ -1808,6 +1832,14 @@
       "word": "女子跑车刚买半年被16岁学生划破",
       "onboard_time": 1670976731,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 464470,
+      "num": 464470,
+      "word": "专家研判一个多月内或达到感染高峰",
+      "onboard_time": 1670993654,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -1937,14 +1969,6 @@
       "onboard_time": 1670934312,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 445352,
-      "num": 445352,
-      "word": "太原一楼体外大屏现不雅按摩广告",
-      "onboard_time": 1670993416,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 441927,
@@ -2297,14 +2321,6 @@
       "onboard_time": 1670831777,
       "rank": 13,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 376828,
-      "num": 376828,
-      "word": "第4针来了",
-      "onboard_time": 1670993713,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 376731,
@@ -2664,14 +2680,6 @@
       "word": "卫健委回应护士操作不当致婴儿骨折",
       "onboard_time": 1670913551,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 318459,
-      "num": 318459,
-      "word": "专家研判一个多月内或达到感染高峰",
-      "onboard_time": 1670993654,
-      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -3651,6 +3659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 219612,
+      "num": 219612,
+      "word": "张彬彬徐璐月歌行cp感",
+      "onboard_time": 1670995697,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 219124,
       "num": 219124,
       "word": "新冠阳性感染者如何居家隔离",
@@ -3763,6 +3779,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 210459,
+      "num": 211426,
+      "word": "丁程鑫无尽的冒险单人直拍",
+      "onboard_time": 1670995574,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 210363,
+      "num": 210363,
+      "word": "无限超越班网课",
+      "onboard_time": 1670995274,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 210222,
       "num": 210222,
       "word": "感冒药看准五个字",
@@ -3801,6 +3833,14 @@
       "onboard_time": 1670811491,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 207856,
+      "num": 207856,
+      "word": "被陌生人可爱到的瞬间",
+      "onboard_time": 1670995635,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 207269,
@@ -3883,6 +3923,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 201731,
+      "num": 201731,
+      "word": "一下就把上班的痛苦转移了",
+      "onboard_time": 1670995096,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 201249,
       "num": 155784,
       "word": "新少年包拯定档1214",
@@ -3905,6 +3953,14 @@
       "onboard_time": 1670763797,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 199711,
+      "num": 199711,
+      "word": "流浪地球2星尘海报",
+      "onboard_time": 1670995934,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 199670,
@@ -3993,6 +4049,14 @@
       "onboard_time": 1670891649,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 193929,
+      "num": 193929,
+      "word": "湖人vs凯尔特人",
+      "onboard_time": 1670995635,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 193683,
