@@ -1,6 +1,6 @@
 {
   "startTime": 1671035224820,
-  "endTime": 1671049211903,
+  "endTime": 1671050073146,
   "band_list": [
     {
       "raw_hot": 926917,
@@ -67,8 +67,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 550500,
-      "num": 550500,
+      "raw_hot": 555471,
+      "num": 555471,
       "word": "法国vs摩洛哥",
       "onboard_time": 1671030696,
       "rank": 8,
@@ -497,6 +497,14 @@
       "onboard_time": 1671043575,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 15554,
+      "num": 15554,
+      "word": "刚回家的大学生精神状况",
+      "onboard_time": 1671049814,
+      "rank": 47,
+      "category": "幽默,情感"
     }
   ],
   "hotgov_list": [

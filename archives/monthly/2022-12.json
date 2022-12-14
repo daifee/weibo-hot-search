@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1671049211903,
+  "endTime": 1671050073146,
   "band_list": [
     {
       "raw_hot": 13790167,
@@ -31833,6 +31833,14 @@
       "onboard_time": 1670767337,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 15554,
+      "num": 15554,
+      "word": "刚回家的大学生精神状况",
+      "onboard_time": 1671049814,
+      "rank": 47,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 13504,
