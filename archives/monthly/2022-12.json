@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1671053612913,
+  "endTime": 1671056289255,
   "band_list": [
     {
       "raw_hot": 13790167,
@@ -7712,6 +7712,14 @@
       "word": "法国vs波兰",
       "onboard_time": 1670162653,
       "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 590117,
+      "num": 590117,
+      "word": "法国2比0摩洛哥",
+      "onboard_time": 1671051733,
+      "rank": 6,
       "category": "体育"
     },
     {
@@ -17899,14 +17907,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 247550,
-      "num": 247550,
-      "word": "法国2比0摩洛哥",
-      "onboard_time": 1671051733,
-      "rank": 6,
-      "category": "体育"
-    },
-    {
       "raw_hot": 247432,
       "num": 215861,
       "word": "罗云熙顾云峥的杀青vlog",
@@ -22761,6 +22761,14 @@
       "onboard_time": 1670380151,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 177644,
+      "num": 79760,
+      "word": "法国总统现场观战法国vs摩洛哥",
+      "onboard_time": 1671052633,
+      "rank": 30,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 177596,
@@ -31523,14 +31531,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 51828,
-      "num": 32264,
-      "word": "法国总统现场观战法国vs摩洛哥",
-      "onboard_time": 1671052633,
-      "rank": 30,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 51486,
       "num": 51486,
       "word": "前田大然破门",
@@ -31843,6 +31843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 21405,
+      "num": 21405,
+      "word": "复阳者是否有感染性",
+      "onboard_time": 1671055814,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 20675,
       "num": 44299,
       "word": "中阿友好相信还会好上加好",
@@ -31857,6 +31865,14 @@
       "onboard_time": 1671043575,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 17951,
+      "num": 17951,
+      "word": "杭州核酸单管每人次16元",
+      "onboard_time": 1671056234,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 16100,
