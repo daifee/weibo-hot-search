@@ -1,6 +1,6 @@
 {
   "startTime": 1671035224820,
-  "endTime": 1671050073146,
+  "endTime": 1671052626088,
   "band_list": [
     {
       "raw_hot": 926917,
@@ -17,6 +17,14 @@
       "onboard_time": 1671021872,
       "rank": 0,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 818881,
+      "num": 818881,
+      "word": "法国vs摩洛哥",
+      "onboard_time": 1671030696,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 702454,
@@ -65,14 +73,6 @@
       "onboard_time": 1671010698,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 555471,
-      "num": 555471,
-      "word": "法国vs摩洛哥",
-      "onboard_time": 1671030696,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 506325,
@@ -363,6 +363,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 125290,
+      "num": 31906,
+      "word": "穆阿尼破门",
+      "onboard_time": 1671051493,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 119296,
       "num": 119296,
       "word": "山东下个月或出现首波感染高峰",
@@ -409,6 +417,14 @@
       "onboard_time": 1671027334,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 113907,
+      "num": 113907,
+      "word": "法国2比0摩洛哥",
+      "onboard_time": 1671051733,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 110975,
@@ -483,28 +499,28 @@
       "category": "情感"
     },
     {
-      "raw_hot": 25080,
-      "num": 25080,
+      "raw_hot": 35743,
+      "num": 35743,
+      "word": "刚回家的大学生精神状况",
+      "onboard_time": 1671049814,
+      "rank": 47,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 28071,
+      "num": 28071,
       "word": "法国队",
       "onboard_time": 1670973489,
       "rank": 34,
       "category": "体育"
     },
     {
-      "raw_hot": 18835,
-      "num": 18835,
+      "raw_hot": 19604,
+      "num": 19604,
       "word": "赵丽颖谈许半夏发型变化",
       "onboard_time": 1671043575,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 15554,
-      "num": 15554,
-      "word": "刚回家的大学生精神状况",
-      "onboard_time": 1671049814,
-      "rank": 47,
-      "category": "幽默,情感"
     }
   ],
   "hotgov_list": [
