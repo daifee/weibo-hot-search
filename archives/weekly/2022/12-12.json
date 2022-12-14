@@ -1,6 +1,6 @@
 {
   "startTime": 1670775913271,
-  "endTime": 1671002250186,
+  "endTime": 1671003237376,
   "band_list": [
     {
       "raw_hot": 4870645,
@@ -859,6 +859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 869663,
+      "num": 869663,
+      "word": "天津网友曝柠檬遭哄抢",
+      "onboard_time": 1670999714,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 867852,
       "num": 867852,
       "word": "女孩在家楼下补课后失联已11年",
@@ -1193,14 +1201,6 @@
       "onboard_time": 1670825295,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 686597,
-      "num": 686597,
-      "word": "天津网友曝柠檬遭哄抢",
-      "onboard_time": 1670999714,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 686277,
@@ -1563,6 +1563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 545862,
+      "num": 545862,
+      "word": "被请回答1988花絮笑死",
+      "onboard_time": 1671000556,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 545239,
       "num": 545239,
       "word": "女孩跳楼男子飞身扑救当肉垫",
@@ -1673,14 +1681,6 @@
       "onboard_time": 1670812213,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 519411,
-      "num": 519411,
-      "word": "被请回答1988花絮笑死",
-      "onboard_time": 1671000556,
-      "rank": 14,
-      "category": "影视"
     },
     {
       "raw_hot": 515189,
@@ -1947,6 +1947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 461572,
+      "num": 461572,
+      "word": "痰咳不出来试试这个姿势",
+      "onboard_time": 1670999175,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 459977,
       "num": 380932,
       "word": "梅西个人能力",
@@ -2137,14 +2145,6 @@
       "onboard_time": 1670935034,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 416557,
-      "num": 416557,
-      "word": "痰咳不出来试试这个姿势",
-      "onboard_time": 1670999175,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 416426,
@@ -2467,12 +2467,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 364656,
+      "num": 364656,
+      "word": "光与夜之恋",
+      "onboard_time": 1670992394,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 363627,
       "num": 363627,
       "word": "谢娜说感谢大家一路以来的掌声与陪伴",
       "onboard_time": 1670838619,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 360758,
+      "num": 360758,
+      "word": "男子为节省抗原检测试剂自制混管",
+      "onboard_time": 1671001516,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 360219,
@@ -2675,14 +2691,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 333167,
-      "num": 333167,
-      "word": "光与夜之恋",
-      "onboard_time": 1670992394,
-      "rank": 28,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 331176,
       "num": 331176,
       "word": "广东人对菜心爱到直接生吃",
@@ -2747,20 +2755,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 319335,
+      "num": 319335,
+      "word": "男子科目一作弊从头到脚高科技",
+      "onboard_time": 1670998755,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 319105,
       "num": 319105,
       "word": "阿根廷主帅说看莫德里奇踢球是享受",
       "onboard_time": 1670896689,
       "rank": 43,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 318834,
-      "num": 318834,
-      "word": "男子科目一作弊从头到脚高科技",
-      "onboard_time": 1670998755,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 318486,
@@ -2897,6 +2905,14 @@
       "onboard_time": 1670967010,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 304106,
+      "num": 304106,
+      "word": "GQ盛典",
+      "onboard_time": 1671003136,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 302607,
@@ -4011,6 +4027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 203481,
+      "num": 203481,
+      "word": "2022年度十大黑马剧",
+      "onboard_time": 1671002236,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 202853,
       "num": 202853,
       "word": "德尚说摩洛哥晋级是理所当然的",
@@ -4089,6 +4113,14 @@
       "onboard_time": 1670815092,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 199346,
+      "num": 199346,
+      "word": "婆婆打牌赢钱给儿媳当零花",
+      "onboard_time": 1671001396,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 198870,
@@ -4243,6 +4275,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 190016,
+      "num": 190016,
+      "word": "新冠疫苗第二剂次加强免疫接种实施方案",
+      "onboard_time": 1671002896,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189951,
       "num": 189951,
       "word": "保你平安演员为自己辟谣",
@@ -4360,6 +4400,14 @@
       "word": "男子回应对病床上父亲动粗打骂",
       "onboard_time": 1670974213,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 184855,
+      "num": 184855,
+      "word": "核酸阳性第几天会转阴",
+      "onboard_time": 1671002296,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -4595,11 +4643,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 171249,
-      "num": 171249,
-      "word": "男子为节省抗原检测试剂自制混管",
-      "onboard_time": 1671001516,
-      "rank": 36,
+      "raw_hot": 171564,
+      "num": 171564,
+      "word": "保障好群众就医用药是当务之急",
+      "onboard_time": 1671002896,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -4843,6 +4891,14 @@
       "category": "动漫,影视"
     },
     {
+      "raw_hot": 160304,
+      "num": 160304,
+      "word": "TES",
+      "onboard_time": 1671003076,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 159987,
       "num": 159987,
       "word": "国漫画师用平板还原山海经世界",
@@ -4881,14 +4937,6 @@
       "onboard_time": 1670828594,
       "rank": 45,
       "category": "美食"
-    },
-    {
-      "raw_hot": 156412,
-      "num": 156412,
-      "word": "婆婆打牌赢钱给儿媳当零花",
-      "onboard_time": 1671001396,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 156339,
@@ -4963,12 +5011,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 152630,
+      "num": 152630,
+      "word": "吴京说在浩渺宇宙间打开无尽可能",
+      "onboard_time": 1671001996,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 152566,
       "num": 152566,
       "word": "内马尔发文致谢蒂特",
       "onboard_time": 1670814852,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 152439,
+      "num": 152439,
+      "word": "父母都阳性8岁娃全副武装照顾",
+      "onboard_time": 1671002956,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 151629,
@@ -5001,6 +5065,14 @@
       "onboard_time": 1670800986,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 150395,
+      "num": 152128,
+      "word": "年度封面之星",
+      "onboard_time": 1671002656,
+      "rank": 49,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 150001,
@@ -5087,14 +5159,6 @@
       "num": 144946,
       "word": "爱的迫降开播3周年",
       "onboard_time": 1670980571,
-      "rank": 47,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 144670,
-      "num": 138652,
-      "word": "2022年度十大黑马剧",
-      "onboard_time": 1671002236,
       "rank": 47,
       "category": "影视"
     },
