@@ -1,6 +1,6 @@
 {
   "startTime": 1670775913271,
-  "endTime": 1670986202570,
+  "endTime": 1670986819932,
   "band_list": [
     {
       "raw_hot": 4521108,
@@ -435,6 +435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1253684,
+      "num": 1253684,
+      "word": "沪上阿姨",
+      "onboard_time": 1670984291,
+      "rank": 5,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1251615,
       "num": 1251615,
       "word": "梅西刮胡子了",
@@ -641,14 +649,6 @@
       "onboard_time": 1670848274,
       "rank": 31,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1004625,
-      "num": 1004625,
-      "word": "沪上阿姨",
-      "onboard_time": 1670984291,
-      "rank": 5,
-      "category": "游戏"
     },
     {
       "raw_hot": 992822,
@@ -939,6 +939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 764409,
+      "num": 764409,
+      "word": "莫德里奇质疑裁判判罚",
+      "onboard_time": 1670982791,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 757939,
       "num": 757939,
       "word": "你身边有多少人中招了",
@@ -1185,14 +1193,6 @@
       "onboard_time": 1670908871,
       "rank": 37,
       "category": "体育,幽默"
-    },
-    {
-      "raw_hot": 622852,
-      "num": 622852,
-      "word": "莫德里奇质疑裁判判罚",
-      "onboard_time": 1670982791,
-      "rank": 10,
-      "category": "体育"
     },
     {
       "raw_hot": 618654,
@@ -1555,6 +1555,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 494612,
+      "num": 494612,
+      "word": "陈奕迅打进世界杯半决赛",
+      "onboard_time": 1670985071,
+      "rank": 22,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 490105,
       "num": 490105,
       "word": "老师阳性后用唐老鸭式哑音上课",
@@ -1673,6 +1681,14 @@
       "onboard_time": 1670812691,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 462771,
+      "num": 462771,
+      "word": "RNG 转会期",
+      "onboard_time": 1670983090,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 462490,
@@ -1891,14 +1907,6 @@
       "category": "体育,音乐"
     },
     {
-      "raw_hot": 411101,
-      "num": 411101,
-      "word": "RNG 转会期",
-      "onboard_time": 1670983090,
-      "rank": 33,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 409839,
       "num": 409839,
       "word": "猫从来不喝碗里的水",
@@ -2001,6 +2009,14 @@
       "onboard_time": 1670831116,
       "rank": 14,
       "category": "其它"
+    },
+    {
+      "raw_hot": 395209,
+      "num": 254555,
+      "word": "梅西发文庆祝晋级决赛",
+      "onboard_time": 1670985671,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 394881,
@@ -2115,20 +2131,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 371348,
-      "num": 254555,
-      "word": "梅西发文庆祝晋级决赛",
-      "onboard_time": 1670985671,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 369286,
-      "num": 369286,
-      "word": "陈奕迅打进世界杯半决赛",
-      "onboard_time": 1670985071,
-      "rank": 22,
-      "category": "体育,艺人"
+      "raw_hot": 373238,
+      "num": 373238,
+      "word": "流浪地球2起航之前预告",
+      "onboard_time": 1670985614,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 369274,
@@ -2675,6 +2683,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 284725,
+      "num": 284725,
+      "word": "胡彦斌说卢歌忘记了善良",
+      "onboard_time": 1670985131,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 284066,
       "num": 205156,
       "word": "水木一郎去世",
@@ -2819,6 +2835,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 271464,
+      "num": 271464,
+      "word": "消防员火场拎出一脸生无可恋狗子",
+      "onboard_time": 1670984051,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 271226,
       "num": 271226,
       "word": "贺炜金句盛赞梅西",
@@ -2897,14 +2921,6 @@
       "onboard_time": 1670814671,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 258028,
-      "num": 258028,
-      "word": "消防员火场拎出一脸生无可恋狗子",
-      "onboard_time": 1670984051,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 257338,
@@ -3043,6 +3059,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 248493,
+      "num": 248493,
+      "word": "县委大院李保平酒后吐真言",
+      "onboard_time": 1670986032,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 246997,
       "num": 246997,
       "word": "Irene人歌Birthday直拍",
@@ -3153,14 +3177,6 @@
       "onboard_time": 1670859618,
       "rank": 21,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 239878,
-      "num": 239878,
-      "word": "胡彦斌说卢歌忘记了善良",
-      "onboard_time": 1670985131,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 238137,
@@ -3483,6 +3499,14 @@
       "category": "体育,网红"
     },
     {
+      "raw_hot": 209118,
+      "num": 209118,
+      "word": "男子称自家晾晒藕粉疑遭邻居撒农药",
+      "onboard_time": 1670985432,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 209090,
       "num": 209090,
       "word": "名侦探学院6开播",
@@ -3520,14 +3544,6 @@
       "word": "阿凡达2首映日票房破5000W",
       "onboard_time": 1670928257,
       "rank": 38,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 205810,
-      "num": 205810,
-      "word": "县委大院李保平酒后吐真言",
-      "onboard_time": 1670986032,
-      "rank": 36,
       "category": "影视"
     },
     {
@@ -3747,6 +3763,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 189951,
+      "num": 189951,
+      "word": "保你平安演员为自己辟谣",
+      "onboard_time": 1670986692,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 189848,
       "num": 189848,
       "word": "初次爱你",
@@ -3859,6 +3883,14 @@
       "category": "情感,艺人"
     },
     {
+      "raw_hot": 182756,
+      "num": 182756,
+      "word": "深大计算机系学生作业是养鹅",
+      "onboard_time": 1670986151,
+      "rank": 48,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 182689,
       "num": 182689,
       "word": "黄桃罐头被抢注商标",
@@ -3969,6 +4001,14 @@
       "onboard_time": 1670898613,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 176174,
+      "num": 176174,
+      "word": "赵丽颖风吹半夏收官剧照",
+      "onboard_time": 1670985973,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 176098,
@@ -4235,14 +4275,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 164381,
-      "num": 164381,
-      "word": "赵丽颖风吹半夏收官剧照",
-      "onboard_time": 1670985973,
-      "rank": 44,
-      "category": "影视"
-    },
-    {
       "raw_hot": 164123,
       "num": 164123,
       "word": "线上问诊发热人数一周增加超100万",
@@ -4320,14 +4352,6 @@
       "word": "被拾荒助学爷爷感动女子捐出60万",
       "onboard_time": 1670915533,
       "rank": 40,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 157606,
-      "num": 157606,
-      "word": "男子称自家晾晒藕粉疑遭邻居撒农药",
-      "onboard_time": 1670985432,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -4417,14 +4441,6 @@
       "onboard_time": 1670918532,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 151380,
-      "num": 151380,
-      "word": "深大计算机系学生作业是养鹅",
-      "onboard_time": 1670986151,
-      "rank": 48,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 151180,
@@ -5371,6 +5387,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 77106,
+      "num": 567840,
+      "word": "世界杯万能玩梗句式",
+      "onboard_time": 1670983214,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 76113,
       "num": 76113,
       "word": "田曦薇新剧初次爱你演医学少女",
@@ -5384,14 +5408,6 @@
       "word": "趴着玩手机的正确姿势",
       "onboard_time": 1670801168,
       "rank": 38,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 74458,
-      "num": 567840,
-      "word": "世界杯万能玩梗句式",
-      "onboard_time": 1670983214,
-      "rank": 14,
       "category": "体育"
     },
     {

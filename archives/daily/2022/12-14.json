@@ -1,6 +1,6 @@
 {
   "startTime": 1670948842910,
-  "endTime": 1670986202570,
+  "endTime": 1670986819932,
   "band_list": [
     {
       "raw_hot": 3447409,
@@ -91,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1253684,
+      "num": 1253684,
+      "word": "沪上阿姨",
+      "onboard_time": 1670984291,
+      "rank": 5,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1190778,
       "num": 1190778,
       "word": "新冠抗体保护期为3到6个月",
@@ -137,14 +145,6 @@
       "onboard_time": 1670943194,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1004625,
-      "num": 1004625,
-      "word": "沪上阿姨",
-      "onboard_time": 1670984291,
-      "rank": 5,
-      "category": "游戏"
     },
     {
       "raw_hot": 897409,
@@ -195,6 +195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 764409,
+      "num": 764409,
+      "word": "莫德里奇质疑裁判判罚",
+      "onboard_time": 1670982791,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 731283,
       "num": 569076,
       "word": "37岁前中甲球员染新冠后去世",
@@ -233,14 +241,6 @@
       "onboard_time": 1670980392,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 622852,
-      "num": 622852,
-      "word": "莫德里奇质疑裁判判罚",
-      "onboard_time": 1670982791,
-      "rank": 10,
-      "category": "体育"
     },
     {
       "raw_hot": 585786,
@@ -299,6 +299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 494612,
+      "num": 494612,
+      "word": "陈奕迅打进世界杯半决赛",
+      "onboard_time": 1670985071,
+      "rank": 22,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 485975,
       "num": 485975,
       "word": "地狱犬已在9省份检出但尚未流行",
@@ -313,6 +321,14 @@
       "onboard_time": 1670976731,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 462771,
+      "num": 462771,
+      "word": "RNG 转会期",
+      "onboard_time": 1670983090,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 462490,
@@ -379,20 +395,20 @@
       "category": "体育,音乐"
     },
     {
-      "raw_hot": 411101,
-      "num": 411101,
-      "word": "RNG 转会期",
-      "onboard_time": 1670983090,
-      "rank": 33,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 398905,
       "num": 398905,
       "word": "男子发烧近40度床上印出人形汗印",
       "onboard_time": 1670926933,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 395209,
+      "num": 254555,
+      "word": "梅西发文庆祝晋级决赛",
+      "onboard_time": 1670985671,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 394772,
@@ -411,20 +427,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 371348,
-      "num": 254555,
-      "word": "梅西发文庆祝晋级决赛",
-      "onboard_time": 1670985671,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 369286,
-      "num": 369286,
-      "word": "陈奕迅打进世界杯半决赛",
-      "onboard_time": 1670985071,
-      "rank": 22,
-      "category": "体育,艺人"
+      "raw_hot": 373238,
+      "num": 373238,
+      "word": "流浪地球2起航之前预告",
+      "onboard_time": 1670985614,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 358475,
@@ -507,6 +515,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 284725,
+      "num": 284725,
+      "word": "胡彦斌说卢歌忘记了善良",
+      "onboard_time": 1670985131,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 282918,
       "num": 282918,
       "word": "阳康后家里衣物可用56℃热水浸泡",
@@ -543,6 +559,14 @@
       "num": 276897,
       "word": "不同新冠毒株可能造成二次感染",
       "onboard_time": 1670975769,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 271464,
+      "num": 271464,
+      "word": "消防员火场拎出一脸生无可恋狗子",
+      "onboard_time": 1670984051,
       "rank": 29,
       "category": "社会新闻"
     },
@@ -587,14 +611,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 258028,
-      "num": 258028,
-      "word": "消防员火场拎出一脸生无可恋狗子",
-      "onboard_time": 1670984051,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 256139,
       "num": 256139,
       "word": "魔笛被换下",
@@ -627,20 +643,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 248493,
+      "num": 248493,
+      "word": "县委大院李保平酒后吐真言",
+      "onboard_time": 1670986032,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 245215,
       "num": 245215,
       "word": "虞书欣云之羽最新上班路透",
       "onboard_time": 1670985731,
       "rank": 32,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 239878,
-      "num": 239878,
-      "word": "胡彦斌说卢歌忘记了善良",
-      "onboard_time": 1670985131,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 231919,
@@ -691,12 +707,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 205810,
-      "num": 205810,
-      "word": "县委大院李保平酒后吐真言",
-      "onboard_time": 1670986032,
-      "rank": 36,
-      "category": "影视"
+      "raw_hot": 209118,
+      "num": 209118,
+      "word": "男子称自家晾晒藕粉疑遭邻居撒农药",
+      "onboard_time": 1670985432,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 203197,
@@ -713,6 +729,14 @@
       "onboard_time": 1670929217,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 189951,
+      "num": 189951,
+      "word": "保你平安演员为自己辟谣",
+      "onboard_time": 1670986692,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 189716,
@@ -755,6 +779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 182756,
+      "num": 182756,
+      "word": "深大计算机系学生作业是养鹅",
+      "onboard_time": 1670986151,
+      "rank": 48,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 181248,
       "num": 181248,
       "word": "龚俊确定不出席GQ",
@@ -769,6 +801,14 @@
       "onboard_time": 1670973489,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 176174,
+      "num": 176174,
+      "word": "赵丽颖风吹半夏收官剧照",
+      "onboard_time": 1670985973,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 175591,
@@ -835,14 +875,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 164381,
-      "num": 164381,
-      "word": "赵丽颖风吹半夏收官剧照",
-      "onboard_time": 1670985973,
-      "rank": 44,
-      "category": "影视"
-    },
-    {
       "raw_hot": 159757,
       "num": 159757,
       "word": "35岁梅西对阵37岁莫德里奇",
@@ -857,14 +889,6 @@
       "onboard_time": 1670974389,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 157606,
-      "num": 157606,
-      "word": "男子称自家晾晒藕粉疑遭邻居撒农药",
-      "onboard_time": 1670985432,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 155965,
@@ -889,14 +913,6 @@
       "onboard_time": 1670950631,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 151380,
-      "num": 151380,
-      "word": "深大计算机系学生作业是养鹅",
-      "onboard_time": 1670986151,
-      "rank": 48,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 150001,
@@ -1059,7 +1075,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 74458,
+      "raw_hot": 77106,
       "num": 567840,
       "word": "世界杯万能玩梗句式",
       "onboard_time": 1670983214,
