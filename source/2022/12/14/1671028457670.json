@@ -1,0 +1,410 @@
+{
+  "runTime": 1671028457670,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1685620,
+        "num": 1685620,
+        "word": "沪上阿姨致歉",
+        "onboard_time": 1671021872,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1363818,
+        "num": 1363818,
+        "word": "复阳",
+        "onboard_time": 1671017477,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 491902,
+        "num": 1336425,
+        "word": "儿童感染奥密克戎应注意这几点",
+        "onboard_time": 1671022459,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1333148,
+        "num": 1333148,
+        "word": "男子高烧近40度睡觉掀被子直冒烟",
+        "onboard_time": 1671010698,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1244532,
+        "num": 1244532,
+        "word": "同事阳了自己不去上班算旷工吗",
+        "onboard_time": 1671023132,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 855351,
+        "num": 855351,
+        "word": "妈妈阳性爸爸住公司女儿留家照顾",
+        "onboard_time": 1671019224,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 837557,
+        "num": 837557,
+        "word": "商家回应买N95口罩超1月不发货",
+        "onboard_time": 1671022827,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 723183,
+        "num": 723183,
+        "word": "高卫东被双开",
+        "onboard_time": 1671024991,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 706299,
+        "num": 706299,
+        "word": "一次吃8根熟香蕉才能缓解便秘",
+        "onboard_time": 1671025534,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 705720,
+        "num": 705720,
+        "word": "方博 林高远",
+        "onboard_time": 1671026734,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 998347,
+        "num": 696845,
+        "word": "白敬亭跳wadada",
+        "onboard_time": 1671022277,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 857028,
+        "num": 668434,
+        "word": "华西医院通报医学生病危",
+        "onboard_time": 1671007636,
+        "rank": 11,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 735890,
+        "num": 648963,
+        "word": "林更新 婴儿纸尿裤倒水冻起来",
+        "onboard_time": 1671024213,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 731414,
+        "num": 631525,
+        "word": "杨紫说柠檬泡水一起增强免疫力",
+        "onboard_time": 1671025295,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141384,
+        "num": 622285,
+        "word": "双子座流星雨有多美",
+        "onboard_time": 1671026432,
+        "rank": 14,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 605975,
+        "num": 605975,
+        "word": "教育局回应班主任核酸把关不严被调查",
+        "onboard_time": 1671026554,
+        "rank": 15,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 534428,
+        "num": 534428,
+        "word": "丈夫确诊妻子把脚放其额头上降温",
+        "onboard_time": 1671012975,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 531180,
+        "num": 531180,
+        "word": "张杰也逃不过家长群接龙",
+        "onboard_time": 1671027695,
+        "rank": 17,
+        "category": "综艺,幽默"
+      },
+      {
+        "raw_hot": 512013,
+        "num": 512013,
+        "word": "江西一药店连花清瘟涨12元被顶格处罚",
+        "onboard_time": 1671021978,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 485823,
+        "num": 485823,
+        "word": "北京全市均调整为常态防控状态",
+        "onboard_time": 1671009798,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 447181,
+        "num": 447181,
+        "word": "张朝阳呼吁不要囤退烧药",
+        "onboard_time": 1671026432,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384922,
+        "num": 384922,
+        "word": "专家科普为何北京有症状感染者更多",
+        "onboard_time": 1671019698,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 363394,
+        "num": 363394,
+        "word": "王一博成毅陈哲远张凌赫GQ彩排路透",
+        "onboard_time": 1671028174,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 360651,
+        "num": 360651,
+        "word": "许半夏终于和记忆和解了",
+        "onboard_time": 1671023014,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 330209,
+        "num": 330209,
+        "word": "Newjeans新歌预告",
+        "onboard_time": 1671027334,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 326704,
+        "num": 326704,
+        "word": "卡卡说C罗是接近完美的存在",
+        "onboard_time": 1671016397,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 310182,
+        "num": 310182,
+        "word": "韦神宣布退役",
+        "onboard_time": 1671015257,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 304359,
+        "num": 304359,
+        "word": "夺冠是梅西成为球王的最关键一步",
+        "onboard_time": 1671020419,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 300770,
+        "num": 300770,
+        "word": "山东下个月或出现首波感染高峰",
+        "onboard_time": 1671020178,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294134,
+        "num": 294134,
+        "word": "许半夏决定和童骁骑一起自首",
+        "onboard_time": 1671009917,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 259130,
+        "num": 259130,
+        "word": "辽粤大战 赵睿",
+        "onboard_time": 1671021377,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 266791,
+        "num": 259092,
+        "word": "赵丽颖说和许半夏一路走来有风雨和灿烂",
+        "onboard_time": 1671027334,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 259018,
+        "num": 259018,
+        "word": "女子给确诊闺蜜做饭9天未感染",
+        "onboard_time": 1671011356,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262033,
+        "num": 257388,
+        "word": "风吹半夏大结局",
+        "onboard_time": 1671022156,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 235594,
+        "num": 235594,
+        "word": "当品种猫回村后",
+        "onboard_time": 1671027573,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 221778,
+        "num": 221778,
+        "word": "流星雨",
+        "onboard_time": 1671015556,
+        "rank": 35,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 219626,
+        "num": 219626,
+        "word": "考研可设置核酸阳性考场",
+        "onboard_time": 1671010877,
+        "rank": 36,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 208483,
+        "num": 208483,
+        "word": "京东首批增援北京快递小哥已抵达",
+        "onboard_time": 1671015856,
+        "rank": 37,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 205456,
+        "num": 205456,
+        "word": "鹅鸭杀",
+        "onboard_time": 1671027155,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 202293,
+        "num": 202293,
+        "word": "为什么会突然不爱了",
+        "onboard_time": 1671014115,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 198340,
+        "num": 198340,
+        "word": "上海派出6000只麻鸭清理稻田",
+        "onboard_time": 1671009917,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195672,
+        "num": 195672,
+        "word": "终于等到我cp的售后了",
+        "onboard_time": 1671027573,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193939,
+        "num": 193939,
+        "word": "周深说对王宝钏挖野菜印象深刻",
+        "onboard_time": 1671027035,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 182631,
+        "num": 182631,
+        "word": "最近半个月的精神状态",
+        "onboard_time": 1671018259,
+        "rank": 43,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 179938,
+        "num": 179938,
+        "word": "初二男生遭15人围殴刺伤3人获无罪",
+        "onboard_time": 1671009495,
+        "rank": 44,
+        "category": "社会负面,教育"
+      },
+      {
+        "raw_hot": 179566,
+        "num": 179566,
+        "word": "风吹半夏全员不舍告别",
+        "onboard_time": 1671025834,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 173241,
+        "num": 173241,
+        "word": "WBG小虎正式连接",
+        "onboard_time": 1671016997,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 167631,
+        "num": 167631,
+        "word": "郭艾伦",
+        "onboard_time": 1671028055,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166046,
+        "num": 166046,
+        "word": "新少年包拯开播",
+        "onboard_time": 1671021737,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 149761,
+        "num": 149761,
+        "word": "周鹏威姆斯观看辽粤大战",
+        "onboard_time": 1671028297,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#应对气候变化保护生物多样性#"
+    }
+  }
+}
