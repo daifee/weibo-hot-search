@@ -1,10 +1,10 @@
 {
   "startTime": 1671035224820,
-  "endTime": 1671059964294,
+  "endTime": 1671060847377,
   "band_list": [
     {
-      "raw_hot": 1279982,
-      "num": 1279982,
+      "raw_hot": 1366877,
+      "num": 1366877,
       "word": "法国2比0摩洛哥",
       "onboard_time": 1671051733,
       "rank": 6,
@@ -27,19 +27,27 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 837354,
+      "num": 837354,
+      "word": "杭州核酸单管每人次16元",
+      "onboard_time": 1671056234,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 824642,
+      "num": 824642,
+      "word": "姆巴佩进球比赛法国从未输球",
+      "onboard_time": 1671044174,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 818881,
       "num": 818881,
       "word": "法国vs摩洛哥",
       "onboard_time": 1671030696,
       "rank": 8,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 794299,
-      "num": 794299,
-      "word": "姆巴佩进球比赛法国从未输球",
-      "onboard_time": 1671044174,
-      "rank": 10,
       "category": "体育"
     },
     {
@@ -83,20 +91,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 624824,
-      "num": 624824,
-      "word": "杭州核酸单管每人次16元",
-      "onboard_time": 1671056234,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 611109,
       "num": 611109,
       "word": "男子高烧近40度睡觉掀被子直冒烟",
       "onboard_time": 1671010698,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 543425,
+      "num": 543425,
+      "word": "同事阳了自己不去上班算旷工吗",
+      "onboard_time": 1671023132,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 525525,
+      "num": 525525,
+      "word": "姆巴佩",
+      "onboard_time": 1671059481,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 506325,
@@ -123,14 +139,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 396155,
-      "num": 396155,
-      "word": "同事阳了自己不去上班算旷工吗",
-      "onboard_time": 1671023132,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 369761,
       "num": 369761,
       "word": "杨幂也在看少爷和我",
@@ -153,6 +161,14 @@
       "onboard_time": 1671052633,
       "rank": 30,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 340138,
+      "num": 340138,
+      "word": "一盒连花清瘟搭售14种药",
+      "onboard_time": 1671058154,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 333917,
@@ -195,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 266790,
+      "num": 266790,
+      "word": "浙江多所高校调整期末安排",
+      "onboard_time": 1671057976,
+      "rank": 16,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 260139,
       "num": 260139,
       "word": "周杰伦买了三幅蔡康永文字画作",
@@ -212,7 +236,7 @@
     },
     {
       "raw_hot": 250755,
-      "num": 741885,
+      "num": 825709,
       "word": "儿童感染奥密克戎应注意这几点",
       "onboard_time": 1671022459,
       "rank": 2,
@@ -251,14 +275,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 207265,
-      "num": 207265,
-      "word": "姆巴佩",
-      "onboard_time": 1671059481,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 198810,
       "num": 175302,
       "word": "张踩铃分享全家新冠心得",
@@ -273,14 +289,6 @@
       "onboard_time": 1671030994,
       "rank": 25,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 188399,
-      "num": 188399,
-      "word": "浙江多所高校调整期末安排",
-      "onboard_time": 1671057976,
-      "rank": 16,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 180842,
@@ -307,14 +315,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 179267,
-      "num": 179267,
-      "word": "一盒连花清瘟搭售14种药",
-      "onboard_time": 1671058154,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 177860,
       "num": 177860,
       "word": "摩洛哥足协免费给本国球迷发球票",
@@ -331,12 +331,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 173085,
+      "num": 173085,
+      "word": "北京多家医院有医护人员感染",
+      "onboard_time": 1671059060,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 171268,
       "num": 171268,
       "word": "方博 林高远",
       "onboard_time": 1671026734,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 170006,
+      "num": 170006,
+      "word": "林更新 婴儿纸尿裤倒水冻起来",
+      "onboard_time": 1671024213,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 165214,
@@ -363,20 +379,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 153915,
+      "num": 126306,
+      "word": "许半夏胜诉",
+      "onboard_time": 1671059840,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 149655,
       "num": 149655,
       "word": "韦神宣布退役",
       "onboard_time": 1671015257,
       "rank": 33,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 148235,
-      "num": 148235,
-      "word": "林更新 婴儿纸尿裤倒水冻起来",
-      "onboard_time": 1671024213,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 145849,
@@ -435,12 +451,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 130124,
+      "num": 130124,
+      "word": "法国晋级将与阿根廷争冠",
+      "onboard_time": 1671059720,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 125290,
       "num": 53275,
       "word": "穆阿尼破门",
       "onboard_time": 1671051493,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 120395,
+      "num": 113648,
+      "word": "风吹半夏大结局你被虐到了吗",
+      "onboard_time": 1671060322,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 119296,
@@ -499,6 +531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 96517,
+      "num": 96517,
+      "word": "姆巴佩鞋带都被踢断了",
+      "onboard_time": 1671060504,
+      "rank": 39,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 95522,
       "num": 95522,
       "word": "女子给确诊闺蜜做饭9天未感染",
@@ -507,12 +547,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 88847,
-      "num": 88847,
-      "word": "北京多家医院有医护人员感染",
-      "onboard_time": 1671059060,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 94473,
+      "num": 94473,
+      "word": "致敬摩洛哥",
+      "onboard_time": 1671059299,
+      "rank": 41,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 87565,
@@ -539,36 +579,44 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 85809,
+      "num": 85809,
+      "word": "精神病人为发泄情绪四楼扔刀子获刑",
+      "onboard_time": 1671060562,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 85691,
+      "num": 85691,
+      "word": "TXT将1月27日回归",
+      "onboard_time": 1671060684,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 84116,
+      "num": 84116,
+      "word": "少爷和我",
+      "onboard_time": 1671060802,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 78465,
+      "num": 78465,
+      "word": "中国医药与辉瑞公司签订协议",
+      "onboard_time": 1671060744,
+      "rank": 49,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 73969,
       "num": 73969,
       "word": "复阳者是否有感染性",
       "onboard_time": 1671055814,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 73351,
-      "num": 73351,
-      "word": "致敬摩洛哥",
-      "onboard_time": 1671059299,
-      "rank": 41,
-      "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 71222,
-      "num": 71222,
-      "word": "法国晋级将与阿根廷争冠",
-      "onboard_time": 1671059720,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 67255,
-      "num": 67255,
-      "word": "许半夏胜诉",
-      "onboard_time": 1671059840,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 56889,
