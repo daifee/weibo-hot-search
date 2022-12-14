@@ -1,6 +1,6 @@
 {
   "startTime": 1670948842910,
-  "endTime": 1670981918078,
+  "endTime": 1670983545919,
   "band_list": [
     {
       "raw_hot": 3447409,
@@ -33,6 +33,22 @@
       "onboard_time": 1670960049,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1787952,
+      "num": 1787952,
+      "word": "远嫁非洲女孩周周回应现状",
+      "onboard_time": 1670980691,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1533759,
+      "num": 1533759,
+      "word": "考研",
+      "onboard_time": 1670977031,
+      "rank": 9,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 1455599,
@@ -107,20 +123,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1048975,
-      "num": 1048975,
+      "raw_hot": 1077038,
+      "num": 1077038,
       "word": "克罗地亚主帅说被公正地击败了",
       "onboard_time": 1670976012,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1048074,
-      "num": 1048074,
-      "word": "考研",
-      "onboard_time": 1670977031,
-      "rank": 9,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 1040954,
@@ -147,11 +155,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 805474,
-      "num": 805474,
-      "word": "远嫁非洲女孩周周回应现状",
-      "onboard_time": 1670980691,
-      "rank": 10,
+      "raw_hot": 818725,
+      "num": 818725,
+      "word": "今天起不再公布无症状感染者数据",
+      "onboard_time": 1670981414,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -283,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 462490,
+      "num": 462490,
+      "word": "公司回应停缴4名被烧伤人员医疗费",
+      "onboard_time": 1670979732,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 459977,
       "num": 380932,
       "word": "梅西个人能力",
@@ -331,6 +347,22 @@
       "category": "科技"
     },
     {
+      "raw_hot": 412712,
+      "num": 412712,
+      "word": "世界杯半决赛现场响起孤勇者",
+      "onboard_time": 1670979670,
+      "rank": 21,
+      "category": "体育,音乐"
+    },
+    {
+      "raw_hot": 409701,
+      "num": 409701,
+      "word": "地狱犬",
+      "onboard_time": 1670982014,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 398905,
       "num": 398905,
       "word": "男子发烧近40度床上印出人形汗印",
@@ -355,28 +387,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 365364,
-      "num": 365364,
-      "word": "世界杯半决赛现场响起孤勇者",
-      "onboard_time": 1670979670,
-      "rank": 21,
-      "category": "体育,音乐"
-    },
-    {
       "raw_hot": 358475,
       "num": 358475,
       "word": "小罗",
       "onboard_time": 1670962210,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 355685,
-      "num": 355685,
-      "word": "公司回应停缴4名被烧伤人员医疗费",
-      "onboard_time": 1670979732,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 351100,
@@ -449,14 +465,6 @@
       "onboard_time": 1670974449,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 278603,
-      "num": 278603,
-      "word": "今天起不再公布无症状感染者数据",
-      "onboard_time": 1670981414,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 277823,
@@ -603,6 +611,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 213288,
+      "num": 213288,
+      "word": "RNG 转会期",
+      "onboard_time": 1670983090,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 212784,
+      "num": 212784,
+      "word": "江苏省考",
+      "onboard_time": 1670982614,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
       "raw_hot": 203197,
       "num": 203197,
       "word": "明星们一定要这样带货吗",
@@ -667,6 +691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 175591,
+      "num": 175591,
+      "word": "苹果拟允许用第三方应用商店",
+      "onboard_time": 1670981171,
+      "rank": 48,
+      "category": "科技"
+    },
+    {
       "raw_hot": 174661,
       "num": 174661,
       "word": "阴阳师",
@@ -723,14 +755,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 159527,
-      "num": 159527,
-      "word": "苹果拟允许用第三方应用商店",
-      "onboard_time": 1670981171,
-      "rank": 48,
-      "category": "科技"
-    },
-    {
       "raw_hot": 157832,
       "num": 140698,
       "word": "詹俊说巅峰梅西不过如此",
@@ -771,6 +795,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 147640,
+      "num": 147640,
+      "word": "梅西笑了我也笑了",
+      "onboard_time": 1670982492,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 146275,
       "num": 146275,
       "word": "王若吉",
@@ -779,12 +811,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 144946,
+      "num": 144946,
+      "word": "爱的迫降开播3周年",
+      "onboard_time": 1670980571,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 139303,
+      "num": 139303,
+      "word": "风吹半夏今晚大结局",
+      "onboard_time": 1670978052,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 138416,
       "num": 138416,
       "word": "男子到朋友家围炉煮茶烧化桌子",
       "onboard_time": 1670946132,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 137157,
+      "num": 137157,
+      "word": "世界杯",
+      "onboard_time": 1670978290,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 126824,
@@ -945,6 +1001,14 @@
       "onboard_time": 1670935573,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 9438,
+      "num": 567840,
+      "word": "世界杯万能玩梗句式",
+      "onboard_time": 1670983214,
+      "rank": 14,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
