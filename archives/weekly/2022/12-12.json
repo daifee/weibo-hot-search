@@ -1,6 +1,6 @@
 {
   "startTime": 1670775913271,
-  "endTime": 1670989047068,
+  "endTime": 1670991829916,
   "band_list": [
     {
       "raw_hot": 4521108,
@@ -25,6 +25,14 @@
       "onboard_time": 1670915415,
       "rank": 20,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 3996205,
+      "num": 3996205,
+      "word": "沪上阿姨",
+      "onboard_time": 1670984291,
+      "rank": 5,
+      "category": "游戏"
     },
     {
       "raw_hot": 3734719,
@@ -73,6 +81,14 @@
       "onboard_time": 1670835435,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2893586,
+      "num": 2893586,
+      "word": "各省第一波感染高峰",
+      "onboard_time": 1670987233,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2889760,
@@ -177,14 +193,6 @@
       "onboard_time": 1670907551,
       "rank": 21,
       "category": "体育"
-    },
-    {
-      "raw_hot": 2203070,
-      "num": 2203070,
-      "word": "沪上阿姨",
-      "onboard_time": 1670984291,
-      "rank": 5,
-      "category": "游戏"
     },
     {
       "raw_hot": 2123668,
@@ -403,6 +411,14 @@
       "category": "体育,幽默"
     },
     {
+      "raw_hot": 1368106,
+      "num": 1368106,
+      "word": "第四针",
+      "onboard_time": 1670989814,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1311879,
       "num": 1311879,
       "word": "二次感染新冠会更严重吗",
@@ -456,14 +472,6 @@
       "word": "怀孕27周女子分享阳了后体验",
       "onboard_time": 1670806267,
       "rank": 3,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1236858,
-      "num": 1236858,
-      "word": "各省第一波感染高峰",
-      "onboard_time": 1670987233,
-      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -601,6 +609,14 @@
       "onboard_time": 1670887627,
       "rank": 30,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 1063560,
+      "num": 769903,
+      "word": "邢昭林感染新冠",
+      "onboard_time": 1670990418,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1053807,
@@ -779,6 +795,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 899895,
+      "num": 899895,
+      "word": "高中同学车祸失忆全班接力救助17年",
+      "onboard_time": 1670989453,
+      "rank": 7,
+      "category": "社会正能量,教育"
+    },
+    {
       "raw_hot": 897409,
       "num": 897409,
       "word": "梅西点球破门",
@@ -939,6 +963,14 @@
       "category": "体育,音乐"
     },
     {
+      "raw_hot": 782305,
+      "num": 782305,
+      "word": "LPL 转会期",
+      "onboard_time": 1670988616,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 779138,
       "num": 779138,
       "word": "迪巴拉上场",
@@ -1056,6 +1088,14 @@
       "word": "女孩给阳性爸爸送饭后飞奔逃走",
       "onboard_time": 1670916493,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 716883,
+      "num": 716883,
+      "word": "女硕士当6年全职妈妈靠科普找回自信",
+      "onboard_time": 1670988071,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -1200,6 +1240,14 @@
       "word": "康复后衣物上是否有病毒存活",
       "onboard_time": 1670980392,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 632304,
+      "num": 632304,
+      "word": "女子感染新冠乱吃药致肝衰竭进ICU",
+      "onboard_time": 1670990232,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -1571,6 +1619,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 497103,
+      "num": 497103,
+      "word": "世界杯四强球员身价",
+      "onboard_time": 1670986272,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 496996,
       "num": 496996,
       "word": "小狗也想养自己的小狗吧",
@@ -1593,6 +1649,14 @@
       "onboard_time": 1670929511,
       "rank": 19,
       "category": "军事,国内要闻"
+    },
+    {
+      "raw_hot": 489723,
+      "num": 489723,
+      "word": "虞书欣蓝发侧颜海报",
+      "onboard_time": 1670991313,
+      "rank": 19,
+      "category": "音乐"
     },
     {
       "raw_hot": 486632,
@@ -1745,6 +1809,14 @@
       "onboard_time": 1670814491,
       "rank": 12,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 457992,
+      "num": 457992,
+      "word": "UP英雄联盟",
+      "onboard_time": 1670990893,
+      "rank": 20,
+      "category": "游戏"
     },
     {
       "raw_hot": 457687,
@@ -2163,6 +2235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 375165,
+      "num": 375165,
+      "word": "魔笛 克罗地亚角球",
+      "onboard_time": 1670987833,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 369274,
       "num": 369274,
       "word": "女子自酿红酒打开瞬间喷满新房",
@@ -2331,6 +2411,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 344463,
+      "num": 344463,
+      "word": "WBG",
+      "onboard_time": 1670990174,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 343800,
       "num": 343800,
       "word": "女子拔手指倒刺感染致手臂抬不起来",
@@ -2395,6 +2483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 334596,
+      "num": 334596,
+      "word": "倒数说爱你陈飞宇周也拥抱花絮视频",
+      "onboard_time": 1670991193,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 334573,
       "num": 334573,
       "word": "广西药店回应外地网友抢购药品",
@@ -2443,12 +2539,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 324419,
-      "num": 250899,
-      "word": "魔笛 克罗地亚角球",
-      "onboard_time": 1670987833,
-      "rank": 40,
-      "category": "体育"
+      "raw_hot": 323260,
+      "num": 323260,
+      "word": "时代少年团三周年无尽的冒险舞台直拍",
+      "onboard_time": 1670991254,
+      "rank": 29,
+      "category": "音乐"
     },
     {
       "raw_hot": 322696,
@@ -2464,6 +2560,14 @@
       "word": "专家谈颜值高的人更不易患新冠",
       "onboard_time": 1670818093,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 319567,
+      "num": 319567,
+      "word": "韩出租司机因听不懂日语被日籍乘客暴打",
+      "onboard_time": 1670990833,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -2851,6 +2955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 275786,
+      "num": 275786,
+      "word": "猫咪蜷缩在墙角被冻僵",
+      "onboard_time": 1670987713,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 274834,
       "num": 274834,
       "word": "Doinb 盛世如你所愿",
@@ -2899,6 +3011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 269309,
+      "num": 269309,
+      "word": "LWX续约FPX",
+      "onboard_time": 1670991673,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 268954,
       "num": 268954,
       "word": "家里有阳了该怎么消毒",
@@ -2913,6 +3033,14 @@
       "onboard_time": 1670947091,
       "rank": 26,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 266232,
+      "num": 1936102,
+      "word": "防治奥密克戎17个热点问题",
+      "onboard_time": 1670989152,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 264517,
@@ -3065,14 +3193,6 @@
       "onboard_time": 1670974213,
       "rank": 46,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 251016,
-      "num": 251016,
-      "word": "女硕士当6年全职妈妈靠科普找回自信",
-      "onboard_time": 1670988071,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 250068,
@@ -3507,6 +3627,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 215050,
+      "num": 215050,
+      "word": "快乐再出发第二季预告",
+      "onboard_time": 1670991734,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 214019,
       "num": 197435,
       "word": "许半夏童骁骑找王全讲和",
@@ -3649,14 +3777,6 @@
       "onboard_time": 1670829256,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 202005,
-      "num": 202005,
-      "word": "猫咪蜷缩在墙角被冻僵",
-      "onboard_time": 1670987713,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 201762,
@@ -3897,6 +4017,14 @@
       "onboard_time": 1670909351,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 188346,
+      "num": 188346,
+      "word": "baolan",
+      "onboard_time": 1670991793,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 187981,
@@ -4385,14 +4513,6 @@
       "onboard_time": 1670813470,
       "rank": 33,
       "category": "科技,财经"
-    },
-    {
-      "raw_hot": 162122,
-      "num": 162122,
-      "word": "LPL 转会期",
-      "onboard_time": 1670988616,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 160838,
@@ -5387,6 +5507,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 99290,
+      "num": 646633,
+      "word": "原神3.3版本 流浪者",
+      "onboard_time": 1670990953,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 98855,
       "num": 98855,
       "word": "赵垒婚后秒变陪许半夏应酬的家属",
@@ -5659,6 +5787,9 @@
     },
     {
       "word": "#二十大报告里看未来#"
+    },
+    {
+      "word": "#新时代新征程新伟业#"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1670989047068,
+  "endTime": 1670991829916,
   "band_list": [
     {
       "raw_hot": 13790167,
@@ -201,6 +201,14 @@
       "onboard_time": 1670484675,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3996205,
+      "num": 3996205,
+      "word": "沪上阿姨",
+      "onboard_time": 1670984291,
+      "rank": 5,
+      "category": "游戏"
     },
     {
       "raw_hot": 3776401,
@@ -440,6 +448,14 @@
       "word": "钟南山预计明年上半年能恢复到疫情前生活",
       "onboard_time": 1670672959,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2893586,
+      "num": 2893586,
+      "word": "各省第一波感染高峰",
+      "onboard_time": 1670987233,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -881,14 +897,6 @@
       "onboard_time": 1670692035,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 2203070,
-      "num": 2203070,
-      "word": "沪上阿姨",
-      "onboard_time": 1670984291,
-      "rank": 5,
-      "category": "游戏"
     },
     {
       "raw_hot": 2184190,
@@ -2163,6 +2171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1368106,
+      "num": 1368106,
+      "word": "第四针",
+      "onboard_time": 1670989814,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1365972,
       "num": 788559,
       "word": "20岁女生有1个妹妹再喜提双胞胎弟弟",
@@ -2503,14 +2519,6 @@
       "num": 2494323,
       "word": "浙江已制定新冠分级诊疗方案",
       "onboard_time": 1670223131,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1236858,
-      "num": 1236858,
-      "word": "各省第一波感染高峰",
-      "onboard_time": 1670987233,
       "rank": 12,
       "category": "社会新闻"
     },
@@ -3161,6 +3169,14 @@
       "onboard_time": 1670728452,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1063560,
+      "num": 769903,
+      "word": "邢昭林感染新冠",
+      "onboard_time": 1670990418,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1062230,
@@ -3953,6 +3969,14 @@
       "onboard_time": 1670029628,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 899895,
+      "num": 899895,
+      "word": "高中同学车祸失忆全班接力救助17年",
+      "onboard_time": 1670989453,
+      "rank": 7,
+      "category": "社会正能量,教育"
     },
     {
       "raw_hot": 899621,
@@ -4875,6 +4899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 782305,
+      "num": 782305,
+      "word": "LPL 转会期",
+      "onboard_time": 1670988616,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 782037,
       "num": 782037,
       "word": "多地包机出国抢订单",
@@ -5448,6 +5480,14 @@
       "word": "钟南山院士称无症状可能不算病",
       "onboard_time": 1670551153,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 716883,
+      "num": 716883,
+      "word": "女硕士当6年全职妈妈靠科普找回自信",
+      "onboard_time": 1670988071,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -6673,6 +6713,14 @@
       "onboard_time": 1670241852,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 632304,
+      "num": 632304,
+      "word": "女子感染新冠乱吃药致肝衰竭进ICU",
+      "onboard_time": 1670990232,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 631727,
@@ -8739,6 +8787,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 497103,
+      "num": 497103,
+      "word": "世界杯四强球员身价",
+      "onboard_time": 1670986272,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 496996,
       "num": 496996,
       "word": "小狗也想养自己的小狗吧",
@@ -8873,6 +8929,14 @@
       "onboard_time": 1670929511,
       "rank": 19,
       "category": "军事,国内要闻"
+    },
+    {
+      "raw_hot": 489723,
+      "num": 489723,
+      "word": "虞书欣蓝发侧颜海报",
+      "onboard_time": 1670991313,
+      "rank": 19,
+      "category": "音乐"
     },
     {
       "raw_hot": 488569,
@@ -9593,6 +9657,14 @@
       "onboard_time": 1670409733,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 457992,
+      "num": 457992,
+      "word": "UP英雄联盟",
+      "onboard_time": 1670990893,
+      "rank": 20,
+      "category": "游戏"
     },
     {
       "raw_hot": 457860,
@@ -11819,6 +11891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 375165,
+      "num": 375165,
+      "word": "魔笛 克罗地亚角球",
+      "onboard_time": 1670987833,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 374378,
       "num": 374378,
       "word": "专家称居家隔离可缓解床位紧张难题",
@@ -12699,6 +12779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 344463,
+      "num": 344463,
+      "word": "WBG",
+      "onboard_time": 1670990174,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 343947,
       "num": 570311,
       "word": "澳大利亚球迷嘲讽梅西被光速打脸",
@@ -13041,6 +13129,14 @@
       "onboard_time": 1670914331,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 334596,
+      "num": 334596,
+      "word": "倒数说爱你陈飞宇周也拥抱花絮视频",
+      "onboard_time": 1670991193,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 334573,
@@ -13435,14 +13531,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 324419,
-      "num": 250899,
-      "word": "魔笛 克罗地亚角球",
-      "onboard_time": 1670987833,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 324133,
       "num": 324133,
       "word": "骗子用足球游戏画面冒充世界杯直播",
@@ -13481,6 +13569,14 @@
       "onboard_time": 1670241911,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 323260,
+      "num": 323260,
+      "word": "时代少年团三周年无尽的冒险舞台直拍",
+      "onboard_time": 1670991254,
+      "rank": 29,
+      "category": "音乐"
     },
     {
       "raw_hot": 323219,
@@ -13657,6 +13753,14 @@
       "onboard_time": 1670503159,
       "rank": 21,
       "category": "教育"
+    },
+    {
+      "raw_hot": 319567,
+      "num": 319567,
+      "word": "韩出租司机因听不懂日语被日籍乘客暴打",
+      "onboard_time": 1670990833,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 319566,
@@ -15547,6 +15651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 275786,
+      "num": 275786,
+      "word": "猫咪蜷缩在墙角被冻僵",
+      "onboard_time": 1670987713,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 275712,
       "num": 275712,
       "word": "第一次见耳朵这么小的狗子",
@@ -15827,6 +15939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 269309,
+      "num": 269309,
+      "word": "LWX续约FPX",
+      "onboard_time": 1670991673,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 269139,
       "num": 269139,
       "word": "长沙93岁老人捐出100万元积蓄",
@@ -15937,6 +16057,14 @@
       "onboard_time": 1669812619,
       "rank": 18,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 266232,
+      "num": 1936102,
+      "word": "防治奥密克戎17个热点问题",
+      "onboard_time": 1670989152,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 266020,
@@ -16569,14 +16697,6 @@
       "onboard_time": 1670046910,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 251016,
-      "num": 251016,
-      "word": "女硕士当6年全职妈妈靠科普找回自信",
-      "onboard_time": 1670988071,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 250879,
@@ -18467,6 +18587,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 215050,
+      "num": 215050,
+      "word": "快乐再出发第二季预告",
+      "onboard_time": 1670991734,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 214766,
       "num": 861086,
       "word": "女孩穿凉鞋同学爸爸量尺寸给买棉鞋",
@@ -19201,14 +19329,6 @@
       "onboard_time": 1670829256,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 202005,
-      "num": 202005,
-      "word": "猫咪蜷缩在墙角被冻僵",
-      "onboard_time": 1670987713,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 201762,
@@ -20265,6 +20385,14 @@
       "onboard_time": 1670909351,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 188346,
+      "num": 188346,
+      "word": "baolan",
+      "onboard_time": 1670991793,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 188249,
@@ -22736,14 +22864,6 @@
       "word": "eStar对战Hero",
       "onboard_time": 1670675600,
       "rank": 47,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 162122,
-      "num": 162122,
-      "word": "LPL 转会期",
-      "onboard_time": 1670988616,
-      "rank": 48,
       "category": "游戏"
     },
     {
@@ -28363,6 +28483,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 99290,
+      "num": 646633,
+      "word": "原神3.3版本 流浪者",
+      "onboard_time": 1670990953,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 98993,
       "num": 501598,
       "word": "邓弗里斯助攻梅开二度",
@@ -30136,6 +30264,9 @@
     },
     {
       "word": "#二十大报告里看未来#"
+    },
+    {
+      "word": "#新时代新征程新伟业#"
     }
   ]
 }
