@@ -1,6 +1,6 @@
 {
   "startTime": 1670948842910,
-  "endTime": 1671028457670,
+  "endTime": 1671031186507,
   "band_list": [
     {
       "raw_hot": 4870645,
@@ -155,6 +155,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1437001,
+      "num": 1437001,
+      "word": "教育局回应班主任核酸把关不严被调查",
+      "onboard_time": 1671026554,
+      "rank": 29,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1423372,
       "num": 1423372,
       "word": "裁判",
@@ -233,6 +241,14 @@
       "onboard_time": 1671012975,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1178903,
+      "num": 1178903,
+      "word": "张杰也逃不过家长群接龙",
+      "onboard_time": 1671027695,
+      "rank": 17,
+      "category": "综艺,幽默"
     },
     {
       "raw_hot": 1176518,
@@ -707,14 +723,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 605975,
-      "num": 605975,
-      "word": "教育局回应班主任核酸把关不严被调查",
-      "onboard_time": 1671026554,
-      "rank": 29,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 595851,
       "num": 595851,
       "word": "RedVelvet与aespa合作曲今日公开",
@@ -835,6 +843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 546212,
+      "num": 546212,
+      "word": "张朝阳呼吁不要囤退烧药",
+      "onboard_time": 1671026432,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 537918,
       "num": 537918,
       "word": "女子炖汤忘计时一锅骨头成骨灰",
@@ -851,20 +867,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 531180,
-      "num": 531180,
-      "word": "张杰也逃不过家长群接龙",
-      "onboard_time": 1671027695,
-      "rank": 17,
-      "category": "综艺,幽默"
-    },
-    {
       "raw_hot": 531104,
       "num": 1745552,
       "word": "儿童感染奥密克戎应注意这几点",
       "onboard_time": 1671022459,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 528547,
+      "num": 528547,
+      "word": "法国vs摩洛哥",
+      "onboard_time": 1670973550,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 525119,
@@ -1027,14 +1043,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 447181,
-      "num": 447181,
-      "word": "张朝阳呼吁不要囤退烧药",
-      "onboard_time": 1671026432,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 444981,
       "num": 444981,
       "word": "风吹半夏大结局",
@@ -1179,6 +1187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 385142,
+      "num": 385142,
+      "word": "杨迪回应照片被贴工位作阳敌护体符",
+      "onboard_time": 1671030273,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 380364,
       "num": 380364,
       "word": "杨紫说一次开心的拍摄谢谢大家",
@@ -1193,6 +1209,14 @@
       "onboard_time": 1670996655,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 376132,
+      "num": 376132,
+      "word": "杨幂也在看少爷和我",
+      "onboard_time": 1671029734,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 375880,
@@ -1267,6 +1291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 340091,
+      "num": 340091,
+      "word": "高烧男子因药店搭配高价药怒骂是黑店",
+      "onboard_time": 1671028716,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 335069,
       "num": 335069,
       "word": "北京两天内现存快递积压件全部清零",
@@ -1307,6 +1339,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 329031,
+      "num": 329031,
+      "word": "金钟仁姜涩琪李帝努柳智敏合作曲",
+      "onboard_time": 1671030576,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 326598,
       "num": 326598,
       "word": "TES",
@@ -1339,6 +1379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 318788,
+      "num": 318788,
+      "word": "当品种猫回村后",
+      "onboard_time": 1671027573,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 318523,
       "num": 318523,
       "word": "蔡徐坤说对于迷演唱会是有遗憾的",
@@ -1347,12 +1395,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 313502,
-      "num": 313502,
-      "word": "法国vs摩洛哥",
-      "onboard_time": 1670973550,
-      "rank": 47,
-      "category": "体育"
+      "raw_hot": 316936,
+      "num": 316936,
+      "word": "体操冠军杨威确诊新冠高烧40度",
+      "onboard_time": 1671029494,
+      "rank": 23,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 310968,
@@ -1683,6 +1731,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 248371,
+      "num": 248371,
+      "word": "东北地区有穿搭博主了",
+      "onboard_time": 1671030215,
+      "rank": 29,
+      "category": "时尚,幽默"
+    },
+    {
       "raw_hot": 247628,
       "num": 247628,
       "word": "裴珠泫BeautifulChristmasMV镜头",
@@ -1707,12 +1763,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 235594,
-      "num": 235594,
-      "word": "当品种猫回村后",
-      "onboard_time": 1671027573,
-      "rank": 34,
-      "category": "幽默"
+      "raw_hot": 242223,
+      "num": 242223,
+      "word": "丁程鑫GQ盛典出发路透",
+      "onboard_time": 1671030994,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 235259,
@@ -1753,6 +1809,14 @@
       "onboard_time": 1670934312,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 231039,
+      "num": 231039,
+      "word": "张踩铃分享全家新冠心得",
+      "onboard_time": 1671030094,
+      "rank": 32,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 230914,
@@ -2011,6 +2075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 198621,
+      "num": 194971,
+      "word": "李宇春世界杯音乐盛典直拍",
+      "onboard_time": 1671030872,
+      "rank": 41,
+      "category": "音乐,体育"
+    },
+    {
       "raw_hot": 196622,
       "num": 196622,
       "word": "OST一响会哭的程度",
@@ -2075,6 +2147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 192364,
+      "num": 192364,
+      "word": "郭艾伦",
+      "onboard_time": 1671028055,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 192119,
       "num": 192119,
       "word": "蔡徐坤晴雨午后邂逅视频",
@@ -2131,12 +2211,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 187870,
+      "num": 187870,
+      "word": "广东男篮战胜辽宁男篮",
+      "onboard_time": 1671029555,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 187742,
       "num": 187742,
       "word": "Straykids看kard演出的反应",
       "onboard_time": 1670999534,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 187059,
+      "num": 187059,
+      "word": "私人销售抗原违法吗",
+      "onboard_time": 1671031173,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 185763,
@@ -2243,6 +2339,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 180536,
+      "num": 180536,
+      "word": "许半夏终于不用负重前行了",
+      "onboard_time": 1671031110,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 180366,
       "num": 180366,
       "word": "张新成谈和胡歌吴越合作的感受",
@@ -2265,6 +2369,14 @@
       "onboard_time": 1671013096,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 176491,
+      "num": 176491,
+      "word": "住70楼是种什么体验",
+      "onboard_time": 1671030933,
+      "rank": 47,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 176394,
@@ -2353,14 +2465,6 @@
       "onboard_time": 1670941335,
       "rank": 38,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 167631,
-      "num": 167631,
-      "word": "郭艾伦",
-      "onboard_time": 1671028055,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 167269,
