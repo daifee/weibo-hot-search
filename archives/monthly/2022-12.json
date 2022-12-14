@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1670999953861,
+  "endTime": 1671002250186,
   "band_list": [
     {
       "raw_hot": 13790167,
@@ -5779,8 +5779,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 697926,
-      "num": 697926,
+      "raw_hot": 698189,
+      "num": 698189,
       "word": "吴彤把尔冬升叫成陈凯歌",
       "onboard_time": 1670997494,
       "rank": 9,
@@ -5953,6 +5953,14 @@
       "onboard_time": 1670001070,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 686597,
+      "num": 686597,
+      "word": "天津网友曝柠檬遭哄抢",
+      "onboard_time": 1670999714,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 686328,
@@ -6161,6 +6169,14 @@
       "onboard_time": 1670206028,
       "rank": 12,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 672415,
+      "num": 500615,
+      "word": "华西医院称医学生发烧3天还坚持上班不实",
+      "onboard_time": 1670997076,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 672029,
@@ -6739,6 +6755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 637265,
+      "num": 637265,
+      "word": "TheShy",
+      "onboard_time": 1670999417,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 637244,
       "num": 637244,
       "word": "复核结果阴性要立即解除相关人员管控",
@@ -7081,14 +7105,6 @@
       "onboard_time": 1670312110,
       "rank": 8,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 612149,
-      "num": 500615,
-      "word": "华西医院称医学生发烧3天还坚持上班不实",
-      "onboard_time": 1670997076,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 611936,
@@ -7891,6 +7907,14 @@
       "category": "科技,财经"
     },
     {
+      "raw_hot": 556138,
+      "num": 556138,
+      "word": "梅西离大力神杯只差一步了",
+      "onboard_time": 1670996956,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 554862,
       "num": 554862,
       "word": "1.35米男子找工作遇挫回乡后月入过万",
@@ -8515,6 +8539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 519411,
+      "num": 519411,
+      "word": "被请回答1988花絮笑死",
+      "onboard_time": 1671000556,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 518781,
       "num": 518781,
       "word": "摩洛哥点球战胜西班牙",
@@ -8841,14 +8873,6 @@
       "onboard_time": 1670834178,
       "rank": 16,
       "category": "体育,综艺"
-    },
-    {
-      "raw_hot": 498562,
-      "num": 498562,
-      "word": "梅西离大力神杯只差一步了",
-      "onboard_time": 1670996956,
-      "rank": 15,
-      "category": "体育"
     },
     {
       "raw_hot": 498411,
@@ -10811,6 +10835,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 416557,
+      "num": 416557,
+      "word": "痰咳不出来试试这个姿势",
+      "onboard_time": 1670999175,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 416426,
       "num": 416426,
       "word": "苹果iOS16.2正式版发布",
@@ -11977,6 +12009,14 @@
       "onboard_time": 1670386751,
       "rank": 43,
       "category": "科技"
+    },
+    {
+      "raw_hot": 377131,
+      "num": 377131,
+      "word": "鹿晗战损妆造型",
+      "onboard_time": 1670996655,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 376902,
@@ -13947,6 +13987,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 318834,
+      "num": 318834,
+      "word": "男子科目一作弊从头到脚高科技",
+      "onboard_time": 1670998755,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 318486,
       "num": 318486,
       "word": "卫健委回应护士操作不当致婴儿骨折",
@@ -13969,14 +14017,6 @@
       "onboard_time": 1670686037,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 317883,
-      "num": 317883,
-      "word": "鹿晗战损妆造型",
-      "onboard_time": 1670996655,
-      "rank": 24,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 317839,
@@ -14771,6 +14811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 297192,
+      "num": 297192,
+      "word": "赵樱子想演小龙女",
+      "onboard_time": 1670999294,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 297177,
       "num": 297177,
       "word": "光遇",
@@ -15473,14 +15521,6 @@
       "onboard_time": 1670385972,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 280566,
-      "num": 280566,
-      "word": "赵樱子想演小龙女",
-      "onboard_time": 1670999294,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 280494,
@@ -18115,6 +18155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 227124,
+      "num": 227124,
+      "word": "流浪地球",
+      "onboard_time": 1670997494,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 227015,
       "num": 1167507,
       "word": "老师让初三学生暂停自习看满天朝霞",
@@ -19699,14 +19747,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 199140,
-      "num": 199140,
-      "word": "TheShy",
-      "onboard_time": 1670999417,
-      "rank": 30,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 198870,
       "num": 198870,
       "word": "拿招聘文员要求身材好玩梗也是物化女性",
@@ -19753,14 +19793,6 @@
       "onboard_time": 1670264470,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 198274,
-      "num": 198274,
-      "word": "流浪地球",
-      "onboard_time": 1670997494,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 198196,
@@ -19883,6 +19915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 196499,
+      "num": 196499,
+      "word": "EXOloveshot发行四周年",
+      "onboard_time": 1671001096,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 196479,
       "num": 196479,
       "word": "要关心关爱医务人员",
@@ -19897,6 +19937,14 @@
       "onboard_time": 1669890732,
       "rank": 42,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 196349,
+      "num": 196349,
+      "word": "安宥真崔叡娜金采源宫胁咲良AAA同框",
+      "onboard_time": 1671000914,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 196151,
@@ -20305,14 +20353,6 @@
       "onboard_time": 1670426115,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 192123,
-      "num": 192123,
-      "word": "男子科目一作弊从头到脚高科技",
-      "onboard_time": 1670998755,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 191892,
@@ -21467,14 +21507,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 179222,
-      "num": 179222,
-      "word": "痰咳不出来试试这个姿势",
-      "onboard_time": 1670999175,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 179136,
       "num": 179136,
       "word": "用实力说话的女演员有多酷",
@@ -22192,6 +22224,14 @@
       "word": "专家解读新冠感染全过程",
       "onboard_time": 1670329030,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 171249,
+      "num": 171249,
+      "word": "男子为节省抗原检测试剂自制混管",
+      "onboard_time": 1671001516,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -23611,6 +23651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 156412,
+      "num": 156412,
+      "word": "婆婆打牌赢钱给儿媳当零花",
+      "onboard_time": 1671001396,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 156342,
       "num": 156342,
       "word": "世界杯摄影师是懂打小抄的",
@@ -23929,6 +23977,14 @@
       "onboard_time": 1670055012,
       "rank": 38,
       "category": "科技,财经"
+    },
+    {
+      "raw_hot": 152788,
+      "num": 152788,
+      "word": "华晨宇新专辑希忘Hope预告片",
+      "onboard_time": 1671001516,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 152566,
@@ -24611,14 +24667,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 145531,
-      "num": 145531,
-      "word": "天津网友曝柠檬遭哄抢",
-      "onboard_time": 1670999714,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 145346,
       "num": 145346,
       "word": "原来纸巾做的玫瑰花这么好看",
@@ -24697,6 +24745,14 @@
       "onboard_time": 1670768779,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 144670,
+      "num": 138652,
+      "word": "2022年度十大黑马剧",
+      "onboard_time": 1671002236,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 144603,
@@ -25371,6 +25427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 138187,
+      "num": 138187,
+      "word": "原来王维是个斜杠青年",
+      "onboard_time": 1671001818,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 138065,
       "num": 593476,
       "word": "胡明轩晋级三分大赛决赛",
@@ -25417,6 +25481,14 @@
       "onboard_time": 1670129230,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 137526,
+      "num": 137526,
+      "word": "马思纯充电完成vlog",
+      "onboard_time": 1671001396,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 137521,

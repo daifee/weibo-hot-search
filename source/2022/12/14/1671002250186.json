@@ -1,0 +1,410 @@
+{
+  "runTime": 1671002250186,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3314915,
+        "num": 3314915,
+        "word": "各省第一波感染高峰",
+        "onboard_time": 1670987233,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2646045,
+        "num": 2646045,
+        "word": "沪上阿姨",
+        "onboard_time": 1670984291,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 172302,
+        "num": 1172638,
+        "word": "防治奥密克戎17个热点问题",
+        "onboard_time": 1670989152,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 964405,
+        "num": 964405,
+        "word": "张云龙官宣妻子的浪漫旅行6",
+        "onboard_time": 1670995334,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 751766,
+        "num": 751766,
+        "word": "妈妈连续4天做饭儿子崩溃大哭",
+        "onboard_time": 1670994793,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 698189,
+        "num": 698189,
+        "word": "吴彤把尔冬升叫成陈凯歌",
+        "onboard_time": 1670997494,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 686597,
+        "num": 686597,
+        "word": "天津网友曝柠檬遭哄抢",
+        "onboard_time": 1670999714,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 667472,
+        "num": 667472,
+        "word": "第4针来了",
+        "onboard_time": 1670993713,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 637265,
+        "num": 637265,
+        "word": "TheShy",
+        "onboard_time": 1670999417,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 613721,
+        "num": 613721,
+        "word": "太原一楼体外大屏现不雅按摩广告",
+        "onboard_time": 1670993416,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1381128,
+        "num": 597142,
+        "word": "医院回应医学生阳性带病上岗猝死",
+        "onboard_time": 1670992816,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 725297,
+        "num": 581340,
+        "word": "女子割腕送医跳楼身亡亲属索赔被驳",
+        "onboard_time": 1670996296,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 559470,
+        "num": 559470,
+        "word": "考研",
+        "onboard_time": 1670977031,
+        "rank": 12,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 556138,
+        "num": 556138,
+        "word": "梅西离大力神杯只差一步了",
+        "onboard_time": 1670996956,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 519411,
+        "num": 519411,
+        "word": "被请回答1988花絮笑死",
+        "onboard_time": 1671000556,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 416557,
+        "num": 416557,
+        "word": "痰咳不出来试试这个姿势",
+        "onboard_time": 1670999175,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 386695,
+        "num": 386695,
+        "word": "女子感染新冠乱吃药致肝衰竭进ICU",
+        "onboard_time": 1670990232,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 377131,
+        "num": 377131,
+        "word": "鹿晗战损妆造型",
+        "onboard_time": 1670996655,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 344031,
+        "num": 344031,
+        "word": "淘宝公布2022年度十大宝贝",
+        "onboard_time": 1670992660,
+        "rank": 18,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 342887,
+        "num": 342887,
+        "word": "邢昭林感染新冠",
+        "onboard_time": 1670990418,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 672415,
+        "num": 333112,
+        "word": "华西医院称医学生发烧3天还坚持上班不实",
+        "onboard_time": 1670997076,
+        "rank": 20,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 318834,
+        "num": 318834,
+        "word": "男子科目一作弊从头到脚高科技",
+        "onboard_time": 1670998755,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312979,
+        "num": 312979,
+        "word": "2岁娃误把黄豆放鼻孔10天被泡发",
+        "onboard_time": 1670992816,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297192,
+        "num": 297192,
+        "word": "赵樱子想演小龙女",
+        "onboard_time": 1670999294,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 294597,
+        "num": 294597,
+        "word": "第四针",
+        "onboard_time": 1670989814,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289353,
+        "num": 289353,
+        "word": "专家研判一个多月内或达到感染高峰",
+        "onboard_time": 1670993654,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275858,
+        "num": 275858,
+        "word": "高中同学车祸失忆全班接力救助17年",
+        "onboard_time": 1670989453,
+        "rank": 26,
+        "category": "社会正能量,教育"
+      },
+      {
+        "raw_hot": 227124,
+        "num": 227124,
+        "word": "流浪地球",
+        "onboard_time": 1670997494,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 217318,
+        "num": 217318,
+        "word": "新冠抗体保护期为3到6个月",
+        "onboard_time": 1670974930,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212395,
+        "num": 212395,
+        "word": "电影想见你黄雨萱预告",
+        "onboard_time": 1670994194,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 211936,
+        "num": 211936,
+        "word": "UP英雄联盟",
+        "onboard_time": 1670990893,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 209581,
+        "num": 209581,
+        "word": "baolan",
+        "onboard_time": 1670991793,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 196499,
+        "num": 196499,
+        "word": "EXOloveshot发行四周年",
+        "onboard_time": 1671001096,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 196349,
+        "num": 196349,
+        "word": "安宥真崔叡娜金采源宫胁咲良AAA同框",
+        "onboard_time": 1671000914,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 187025,
+        "num": 187025,
+        "word": "LPL 转会期",
+        "onboard_time": 1670988616,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 180570,
+        "num": 180570,
+        "word": "大学生花850买上床下桌卧室变宿舍",
+        "onboard_time": 1670977331,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171249,
+        "num": 171249,
+        "word": "男子为节省抗原检测试剂自制混管",
+        "onboard_time": 1671001516,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170872,
+        "num": 170872,
+        "word": "王一博GQ盛典机场出发图",
+        "onboard_time": 1670994373,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 169587,
+        "num": 169587,
+        "word": "世界杯四强球员身价",
+        "onboard_time": 1670986272,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169208,
+        "num": 169208,
+        "word": "远嫁非洲女孩周周回应现状",
+        "onboard_time": 1670980691,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156412,
+        "num": 156412,
+        "word": "婆婆打牌赢钱给儿媳当零花",
+        "onboard_time": 1671001396,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156389,
+        "num": 156389,
+        "word": "Straykids看kard演出的反应",
+        "onboard_time": 1670999534,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 152788,
+        "num": 152788,
+        "word": "华晨宇新专辑希忘Hope预告片",
+        "onboard_time": 1671001516,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 148599,
+        "num": 148599,
+        "word": "女硕士当6年全职妈妈靠科普找回自信",
+        "onboard_time": 1670988071,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145524,
+        "num": 145524,
+        "word": "一下就把上班的痛苦转移了",
+        "onboard_time": 1670995096,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 143573,
+        "num": 143573,
+        "word": "莫德里奇质疑裁判判罚",
+        "onboard_time": 1670982791,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138657,
+        "num": 138657,
+        "word": "RNG 转会期",
+        "onboard_time": 1670983090,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 144670,
+        "num": 138652,
+        "word": "2022年度十大黑马剧",
+        "onboard_time": 1671002236,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 138187,
+        "num": 138187,
+        "word": "原来王维是个斜杠青年",
+        "onboard_time": 1671001818,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137526,
+        "num": 137526,
+        "word": "马思纯充电完成vlog",
+        "onboard_time": 1671001396,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十大报告里看未来#"
+    }
+  }
+}

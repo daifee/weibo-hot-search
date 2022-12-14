@@ -1,6 +1,6 @@
 {
   "startTime": 1670775913271,
-  "endTime": 1670999953861,
+  "endTime": 1671002250186,
   "band_list": [
     {
       "raw_hot": 4870645,
@@ -1171,8 +1171,8 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 697926,
-      "num": 697926,
+      "raw_hot": 698189,
+      "num": 698189,
       "word": "吴彤把尔冬升叫成陈凯歌",
       "onboard_time": 1670997494,
       "rank": 9,
@@ -1193,6 +1193,14 @@
       "onboard_time": 1670825295,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 686597,
+      "num": 686597,
+      "word": "天津网友曝柠檬遭哄抢",
+      "onboard_time": 1670999714,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 686277,
@@ -1225,6 +1233,14 @@
       "onboard_time": 1670816712,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 672415,
+      "num": 500615,
+      "word": "华西医院称医学生发烧3天还坚持上班不实",
+      "onboard_time": 1670997076,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 670190,
@@ -1299,6 +1315,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 637265,
+      "num": 637265,
+      "word": "TheShy",
+      "onboard_time": 1670999417,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 635660,
       "num": 635660,
       "word": "12日北京一次性投放2500万抗原试剂",
@@ -1361,14 +1385,6 @@
       "onboard_time": 1670805308,
       "rank": 13,
       "category": "影视"
-    },
-    {
-      "raw_hot": 612149,
-      "num": 500615,
-      "word": "华西医院称医学生发烧3天还坚持上班不实",
-      "onboard_time": 1670997076,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 603049,
@@ -1515,6 +1531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 556138,
+      "num": 556138,
+      "word": "梅西离大力神杯只差一步了",
+      "onboard_time": 1670996956,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 554015,
       "num": 554015,
       "word": "克罗地亚称没有针对梅西制定计划",
@@ -1651,6 +1675,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 519411,
+      "num": 519411,
+      "word": "被请回答1988花絮笑死",
+      "onboard_time": 1671000556,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 515189,
       "num": 515189,
       "word": "上海置地广场店员称一小时客流堪比一周",
@@ -1713,14 +1745,6 @@
       "onboard_time": 1670834178,
       "rank": 16,
       "category": "体育,综艺"
-    },
-    {
-      "raw_hot": 498562,
-      "num": 498562,
-      "word": "梅西离大力神杯只差一步了",
-      "onboard_time": 1670996956,
-      "rank": 15,
-      "category": "体育"
     },
     {
       "raw_hot": 498358,
@@ -2115,6 +2139,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 416557,
+      "num": 416557,
+      "word": "痰咳不出来试试这个姿势",
+      "onboard_time": 1670999175,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 416426,
       "num": 416426,
       "word": "苹果iOS16.2正式版发布",
@@ -2361,6 +2393,14 @@
       "onboard_time": 1670831777,
       "rank": 13,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 377131,
+      "num": 377131,
+      "word": "鹿晗战损妆造型",
+      "onboard_time": 1670996655,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 376731,
@@ -2715,20 +2755,20 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 318834,
+      "num": 318834,
+      "word": "男子科目一作弊从头到脚高科技",
+      "onboard_time": 1670998755,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 318486,
       "num": 318486,
       "word": "卫健委回应护士操作不当致婴儿骨折",
       "onboard_time": 1670913551,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 317883,
-      "num": 317883,
-      "word": "鹿晗战损妆造型",
-      "onboard_time": 1670996655,
-      "rank": 24,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 317426,
@@ -2883,6 +2923,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 297192,
+      "num": 297192,
+      "word": "赵樱子想演小龙女",
+      "onboard_time": 1670999294,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 297177,
       "num": 297177,
       "word": "光遇",
@@ -3033,14 +3081,6 @@
       "onboard_time": 1670812390,
       "rank": 38,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 280566,
-      "num": 280566,
-      "word": "赵樱子想演小龙女",
-      "onboard_time": 1670999294,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 280281,
@@ -3619,6 +3659,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 227124,
+      "num": 227124,
+      "word": "流浪地球",
+      "onboard_time": 1670997494,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 225965,
       "num": 225965,
       "word": "3女1男吃饭逃单得逞后回头笑",
@@ -4043,14 +4091,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 199140,
-      "num": 199140,
-      "word": "TheShy",
-      "onboard_time": 1670999417,
-      "rank": 30,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 198870,
       "num": 198870,
       "word": "拿招聘文员要求身材好玩梗也是物化女性",
@@ -4091,14 +4131,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 198274,
-      "num": 198274,
-      "word": "流浪地球",
-      "onboard_time": 1670997494,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 197227,
       "num": 197227,
       "word": "学生谎称无桌写作业老师送桌上门",
@@ -4113,6 +4145,22 @@
       "onboard_time": 1670917872,
       "rank": 40,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 196499,
+      "num": 196499,
+      "word": "EXOloveshot发行四周年",
+      "onboard_time": 1671001096,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 196349,
+      "num": 196349,
+      "word": "安宥真崔叡娜金采源宫胁咲良AAA同框",
+      "onboard_time": 1671000914,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 196130,
@@ -4176,14 +4224,6 @@
       "word": "运营商将如何删除行程卡相关数据",
       "onboard_time": 1670905631,
       "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 192123,
-      "num": 192123,
-      "word": "男子科目一作弊从头到脚高科技",
-      "onboard_time": 1670998755,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -4419,14 +4459,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 179222,
-      "num": 179222,
-      "word": "痰咳不出来试试这个姿势",
-      "onboard_time": 1670999175,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 179136,
       "num": 179136,
       "word": "用实力说话的女演员有多酷",
@@ -4560,6 +4592,14 @@
       "word": "专家释疑为何感觉身边无症状很少",
       "onboard_time": 1670833934,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 171249,
+      "num": 171249,
+      "word": "男子为节省抗原检测试剂自制混管",
+      "onboard_time": 1671001516,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -4843,6 +4883,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 156412,
+      "num": 156412,
+      "word": "婆婆打牌赢钱给儿媳当零花",
+      "onboard_time": 1671001396,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 156339,
       "num": 156339,
       "word": "许半夏赵垒的吻戏花絮",
@@ -4905,6 +4953,14 @@
       "onboard_time": 1670905272,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152788,
+      "num": 152788,
+      "word": "华晨宇新专辑希忘Hope预告片",
+      "onboard_time": 1671001516,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 152566,
@@ -5027,18 +5083,18 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 145531,
-      "num": 145531,
-      "word": "天津网友曝柠檬遭哄抢",
-      "onboard_time": 1670999714,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 144946,
       "num": 144946,
       "word": "爱的迫降开播3周年",
       "onboard_time": 1670980571,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 144670,
+      "num": 138652,
+      "word": "2022年度十大黑马剧",
+      "onboard_time": 1671002236,
       "rank": 47,
       "category": "影视"
     },
@@ -5147,6 +5203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 138187,
+      "num": 138187,
+      "word": "原来王维是个斜杠青年",
+      "onboard_time": 1671001818,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 137870,
       "num": 646633,
       "word": "原神3.3版本 流浪者",
@@ -5161,6 +5225,14 @@
       "onboard_time": 1670934913,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 137526,
+      "num": 137526,
+      "word": "马思纯充电完成vlog",
+      "onboard_time": 1671001396,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 136903,
