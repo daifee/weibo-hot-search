@@ -1,6 +1,6 @@
 {
   "startTime": 1670948842910,
-  "endTime": 1671031186507,
+  "endTime": 1671032139493,
   "band_list": [
     {
       "raw_hot": 4870645,
@@ -531,6 +531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 770005,
+      "num": 770005,
+      "word": "法国vs摩洛哥",
+      "onboard_time": 1670973550,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 766982,
       "num": 766982,
       "word": "淘宝公布2022年度十大宝贝",
@@ -617,6 +625,14 @@
       "onboard_time": 1670997494,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 683975,
+      "num": 683975,
+      "word": "杨迪回应照片被贴工位作阳敌护体符",
+      "onboard_time": 1671030273,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 682543,
@@ -875,14 +891,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 528547,
-      "num": 528547,
-      "word": "法国vs摩洛哥",
-      "onboard_time": 1670973550,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 525119,
       "num": 525119,
       "word": "阿根廷半场2比0克罗地亚",
@@ -1019,6 +1027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 457491,
+      "num": 457491,
+      "word": "体操冠军杨威确诊新冠高烧40度",
+      "onboard_time": 1671029494,
+      "rank": 23,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 455991,
       "num": 455991,
       "word": "孩子确诊量体温温度涨幅肉眼可见",
@@ -1033,6 +1049,14 @@
       "onboard_time": 1671016156,
       "rank": 17,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 448568,
+      "num": 448568,
+      "word": "杨幂也在看少爷和我",
+      "onboard_time": 1671029734,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 448003,
@@ -1187,14 +1211,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 385142,
-      "num": 385142,
-      "word": "杨迪回应照片被贴工位作阳敌护体符",
-      "onboard_time": 1671030273,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 380364,
       "num": 380364,
       "word": "杨紫说一次开心的拍摄谢谢大家",
@@ -1209,14 +1225,6 @@
       "onboard_time": 1670996655,
       "rank": 24,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 376132,
-      "num": 376132,
-      "word": "杨幂也在看少爷和我",
-      "onboard_time": 1671029734,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 375880,
@@ -1256,6 +1264,14 @@
       "word": "王一博成毅陈哲远张凌赫GQ彩排路透",
       "onboard_time": 1671028174,
       "rank": 22,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 358925,
+      "num": 358925,
+      "word": "丁程鑫GQ盛典出发路透",
+      "onboard_time": 1671030994,
+      "rank": 31,
       "category": "作品衍生"
     },
     {
@@ -1393,14 +1409,6 @@
       "onboard_time": 1671024455,
       "rank": 23,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 316936,
-      "num": 316936,
-      "word": "体操冠军杨威确诊新冠高烧40度",
-      "onboard_time": 1671029494,
-      "rank": 23,
-      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 310968,
@@ -1707,6 +1715,14 @@
       "category": "作品衍生,幽默"
     },
     {
+      "raw_hot": 253356,
+      "num": 253356,
+      "word": "住70楼是种什么体验",
+      "onboard_time": 1671030933,
+      "rank": 47,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 251548,
       "num": 251548,
       "word": "核聚变",
@@ -1763,12 +1779,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 242223,
-      "num": 242223,
-      "word": "丁程鑫GQ盛典出发路透",
-      "onboard_time": 1671030994,
-      "rank": 31,
-      "category": "作品衍生"
+      "raw_hot": 237072,
+      "num": 231039,
+      "word": "张踩铃分享全家新冠心得",
+      "onboard_time": 1671030094,
+      "rank": 32,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 235259,
@@ -1809,14 +1825,6 @@
       "onboard_time": 1670934312,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 231039,
-      "num": 231039,
-      "word": "张踩铃分享全家新冠心得",
-      "onboard_time": 1671030094,
-      "rank": 32,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 230914,
@@ -2371,20 +2379,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 176491,
-      "num": 176491,
-      "word": "住70楼是种什么体验",
-      "onboard_time": 1671030933,
-      "rank": 47,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 176394,
       "num": 176394,
       "word": "梅晓歌当众道歉",
       "onboard_time": 1671017718,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 175940,
+      "num": 175940,
+      "word": "发烧最想吃什么",
+      "onboard_time": 1671031772,
+      "rank": 40,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 175591,
@@ -2483,6 +2491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 165308,
+      "num": 165308,
+      "word": "男生帮女友改论文把女友改哭了",
+      "onboard_time": 1671031951,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 164793,
       "num": 164793,
       "word": "员工给工位贴杨迪照片寓意阳敌护体",
@@ -2577,6 +2593,14 @@
       "onboard_time": 1670949432,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 149822,
+      "num": 149822,
+      "word": "吴宣仪GQ彩排路透",
+      "onboard_time": 1671031292,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 149761,
