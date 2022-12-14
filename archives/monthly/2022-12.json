@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1671056289255,
+  "endTime": 1671057310064,
   "band_list": [
     {
       "raw_hot": 13790167,
@@ -5787,6 +5787,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 721376,
+      "num": 721376,
+      "word": "法国2比0摩洛哥",
+      "onboard_time": 1671051733,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 721164,
       "num": 721164,
       "word": "伊甸园",
@@ -7712,14 +7720,6 @@
       "word": "法国vs波兰",
       "onboard_time": 1670162653,
       "rank": 19,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 590117,
-      "num": 590117,
-      "word": "法国2比0摩洛哥",
-      "onboard_time": 1671051733,
-      "rank": 6,
       "category": "体育"
     },
     {
@@ -17556,7 +17556,7 @@
     },
     {
       "raw_hot": 253553,
-      "num": 229106,
+      "num": 241415,
       "word": "儿童感染新冠出现下列症状要立即就诊",
       "onboard_time": 1671034106,
       "rank": 40,
@@ -19265,6 +19265,14 @@
       "onboard_time": 1670715790,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 222518,
+      "num": 112692,
+      "word": "法国总统现场观战法国vs摩洛哥",
+      "onboard_time": 1671052633,
+      "rank": 30,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 222502,
@@ -22761,14 +22769,6 @@
       "onboard_time": 1670380151,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 177644,
-      "num": 79760,
-      "word": "法国总统现场观战法国vs摩洛哥",
-      "onboard_time": 1671052633,
-      "rank": 30,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 177596,
@@ -31139,6 +31139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 71168,
+      "num": 71168,
+      "word": "杭州核酸单管每人次16元",
+      "onboard_time": 1671056234,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 70999,
       "num": 70999,
       "word": "儿童孕产妇及老年人防疫注意事项",
@@ -31659,6 +31667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 42330,
+      "num": 42330,
+      "word": "复阳者是否有感染性",
+      "onboard_time": 1671055814,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41768,
       "num": 41768,
       "word": "手术全麻是怎样一种体验",
@@ -31843,12 +31859,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 21405,
-      "num": 21405,
-      "word": "复阳者是否有感染性",
-      "onboard_time": 1671055814,
-      "rank": 45,
-      "category": "社会新闻"
+      "raw_hot": 25831,
+      "num": 25831,
+      "word": "李光洁说祝大家都能成为富婆",
+      "onboard_time": 1671057135,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 20675,
@@ -31865,14 +31881,6 @@
       "onboard_time": 1671043575,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 17951,
-      "num": 17951,
-      "word": "杭州核酸单管每人次16元",
-      "onboard_time": 1671056234,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 16100,

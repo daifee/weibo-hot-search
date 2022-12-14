@@ -1,6 +1,6 @@
 {
   "startTime": 1671035224820,
-  "endTime": 1671056289255,
+  "endTime": 1671057310064,
   "band_list": [
     {
       "raw_hot": 926917,
@@ -24,6 +24,14 @@
       "word": "法国vs摩洛哥",
       "onboard_time": 1671030696,
       "rank": 8,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 721376,
+      "num": 721376,
+      "word": "法国2比0摩洛哥",
+      "onboard_time": 1671051733,
+      "rank": 6,
       "category": "体育"
     },
     {
@@ -73,14 +81,6 @@
       "onboard_time": 1671010698,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 590117,
-      "num": 590117,
-      "word": "法国2比0摩洛哥",
-      "onboard_time": 1671051733,
-      "rank": 6,
-      "category": "体育"
     },
     {
       "raw_hot": 506325,
@@ -188,7 +188,7 @@
     },
     {
       "raw_hot": 253553,
-      "num": 229106,
+      "num": 241415,
       "word": "儿童感染新冠出现下列症状要立即就诊",
       "onboard_time": 1671034106,
       "rank": 40,
@@ -225,6 +225,14 @@
       "onboard_time": 1671035902,
       "rank": 45,
       "category": "财经"
+    },
+    {
+      "raw_hot": 222518,
+      "num": 112692,
+      "word": "法国总统现场观战法国vs摩洛哥",
+      "onboard_time": 1671052633,
+      "rank": 30,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 219260,
@@ -281,14 +289,6 @@
       "onboard_time": 1671042914,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 177644,
-      "num": 79760,
-      "word": "法国总统现场观战法国vs摩洛哥",
-      "onboard_time": 1671052633,
-      "rank": 30,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 175590,
@@ -483,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 71168,
+      "num": 71168,
+      "word": "杭州核酸单管每人次16元",
+      "onboard_time": 1671056234,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 56889,
       "num": 56889,
       "word": "阿根廷球迷感谢沙特敲警钟",
@@ -507,6 +515,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 42330,
+      "num": 42330,
+      "word": "复阳者是否有感染性",
+      "onboard_time": 1671055814,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35743,
       "num": 35743,
       "word": "刚回家的大学生精神状况",
@@ -523,12 +539,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 21405,
-      "num": 21405,
-      "word": "复阳者是否有感染性",
-      "onboard_time": 1671055814,
-      "rank": 45,
-      "category": "社会新闻"
+      "raw_hot": 25831,
+      "num": 25831,
+      "word": "李光洁说祝大家都能成为富婆",
+      "onboard_time": 1671057135,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 19604,
@@ -537,14 +553,6 @@
       "onboard_time": 1671043575,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 17951,
-      "num": 17951,
-      "word": "杭州核酸单管每人次16元",
-      "onboard_time": 1671056234,
-      "rank": 49,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
