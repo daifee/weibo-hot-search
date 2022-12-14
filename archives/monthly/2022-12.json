@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1671016552995,
+  "endTime": 1671017626523,
   "band_list": [
     {
       "raw_hot": 13790167,
@@ -2755,6 +2755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1181134,
+      "num": 771588,
+      "word": "丈夫确诊妻子把脚放其额头上降温",
+      "onboard_time": 1671012975,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1175269,
       "num": 1175269,
       "word": "席琳迪翁患僵人综合征",
@@ -2969,6 +2977,14 @@
       "onboard_time": 1670497037,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1126193,
+      "num": 1126193,
+      "word": "韦神宣布退役",
+      "onboard_time": 1671015257,
+      "rank": 12,
+      "category": "游戏"
     },
     {
       "raw_hot": 1122145,
@@ -3681,14 +3697,6 @@
       "onboard_time": 1670846716,
       "rank": 5,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 973259,
-      "num": 771588,
-      "word": "丈夫确诊妻子把脚放其额头上降温",
-      "onboard_time": 1671012975,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 970880,
@@ -5323,6 +5331,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 759157,
+      "num": 759157,
+      "word": "京东首批增援北京快递小哥已抵达",
+      "onboard_time": 1671015856,
+      "rank": 36,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 758396,
       "num": 947911,
       "word": "网友称白色羽绒服洗出黄色水",
@@ -5585,14 +5601,6 @@
       "onboard_time": 1670373849,
       "rank": 11,
       "category": "体育"
-    },
-    {
-      "raw_hot": 729600,
-      "num": 729600,
-      "word": "韦神宣布退役",
-      "onboard_time": 1671015257,
-      "rank": 12,
-      "category": "游戏"
     },
     {
       "raw_hot": 728649,
@@ -9611,6 +9619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 474487,
+      "num": 474487,
+      "word": "Scout与Loud经纪公司签约",
+      "onboard_time": 1671013875,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 474216,
       "num": 716172,
       "word": "9至45岁女性可接种HPV九价疫苗",
@@ -11323,14 +11339,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 409939,
-      "num": 409939,
-      "word": "Scout与Loud经纪公司签约",
-      "onboard_time": 1671013875,
-      "rank": 19,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 409839,
       "num": 409839,
       "word": "猫从来不喝碗里的水",
@@ -12219,6 +12227,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 380364,
+      "num": 380364,
+      "word": "杨紫说一次开心的拍摄谢谢大家",
+      "onboard_time": 1671013576,
+      "rank": 18,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 379560,
       "num": 1193250,
       "word": "宝妈被追尾1岁娃从车中滚落",
@@ -12361,6 +12377,14 @@
       "onboard_time": 1670596880,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 373835,
+      "num": 373835,
+      "word": "WBG",
+      "onboard_time": 1670990174,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 373670,
@@ -12513,14 +12537,6 @@
       "onboard_time": 1670072893,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 367461,
-      "num": 367461,
-      "word": "WBG",
-      "onboard_time": 1670990174,
-      "rank": 26,
-      "category": "游戏"
     },
     {
       "raw_hot": 367427,
@@ -13211,14 +13227,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 345300,
-      "num": 345300,
-      "word": "杨紫说一次开心的拍摄谢谢大家",
-      "onboard_time": 1671013576,
-      "rank": 18,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 344718,
       "num": 344718,
       "word": "贝克汉姆是多少球迷的意难平",
@@ -13619,6 +13627,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 333703,
+      "num": 333703,
+      "word": "卡卡说C罗是接近完美的存在",
+      "onboard_time": 1671016397,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 333018,
       "num": 333018,
       "word": "朱婷21分",
@@ -13633,6 +13649,14 @@
       "onboard_time": 1670660179,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 332827,
+      "num": 218453,
+      "word": "TT官宣Huanfeng加入",
+      "onboard_time": 1671016456,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 332645,
@@ -15299,6 +15323,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 292281,
+      "num": 292281,
+      "word": "为什么会突然不爱了",
+      "onboard_time": 1671014115,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 291916,
       "num": 291916,
       "word": "梅西有多宠内马尔",
@@ -15961,14 +15993,6 @@
       "onboard_time": 1670384172,
       "rank": 35,
       "category": "科技,社会议题"
-    },
-    {
-      "raw_hot": 278690,
-      "num": 278690,
-      "word": "为什么会突然不爱了",
-      "onboard_time": 1671014115,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 278624,
@@ -18979,6 +19003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 219066,
+      "num": 219066,
+      "word": "柠檬",
+      "onboard_time": 1671011777,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 218985,
       "num": 218985,
       "word": "李一桐落跑新娘变落水新娘花絮",
@@ -19321,6 +19353,14 @@
       "onboard_time": 1670403373,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 213221,
+      "num": 213221,
+      "word": "混入羊群的萨摩耶",
+      "onboard_time": 1671015797,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 212957,
@@ -19835,14 +19875,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 205410,
-      "num": 205410,
-      "word": "柠檬",
-      "onboard_time": 1671011777,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 204947,
       "num": 204947,
       "word": "詹雯婷张远S级和声",
@@ -19873,6 +19905,14 @@
       "onboard_time": 1670399832,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204289,
+      "num": 204289,
+      "word": "外交部回应谷歌拒置顶正确中国国歌",
+      "onboard_time": 1671014776,
+      "rank": 40,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 204064,
@@ -20033,6 +20073,14 @@
       "onboard_time": 1670416874,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 201271,
+      "num": 201271,
+      "word": "WBG小虎正式连接",
+      "onboard_time": 1671016997,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 201249,
@@ -20961,14 +21009,6 @@
       "onboard_time": 1670854220,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 189809,
-      "num": 189809,
-      "word": "京东首批增援北京快递小哥已抵达",
-      "onboard_time": 1671015856,
-      "rank": 36,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 189746,
@@ -21963,6 +22003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 179315,
+      "num": 179315,
+      "word": "OST一响会哭的程度",
+      "onboard_time": 1671015978,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 179136,
       "num": 179136,
       "word": "用实力说话的女演员有多酷",
@@ -21993,14 +22041,6 @@
       "onboard_time": 1669994532,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 178973,
-      "num": 178973,
-      "word": "外交部回应谷歌拒置顶正确中国国歌",
-      "onboard_time": 1671014776,
-      "rank": 40,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 178821,
@@ -22657,14 +22697,6 @@
       "onboard_time": 1670227873,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 171754,
-      "num": 171754,
-      "word": "OST一响会哭的程度",
-      "onboard_time": 1671015978,
-      "rank": 45,
-      "category": "影视"
     },
     {
       "raw_hot": 171745,
@@ -23915,6 +23947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 159185,
+      "num": 159185,
+      "word": "复阳",
+      "onboard_time": 1671017477,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 159078,
       "num": 159078,
       "word": "云南大理是懂浪漫的",
@@ -24233,14 +24273,6 @@
       "onboard_time": 1669940949,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 155598,
-      "num": 155598,
-      "word": "TT官宣Huanfeng加入",
-      "onboard_time": 1671016456,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 155525,
@@ -24675,19 +24707,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 150990,
-      "num": 150990,
-      "word": "卡卡说C罗是接近完美的存在",
-      "onboard_time": 1671016397,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 150929,
       "num": 150929,
       "word": "冰面被冲走男子大喊提醒冰钓者上岸",
       "onboard_time": 1670800986,
       "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 150918,
+      "num": 150918,
+      "word": "小偷在特警楼下行窃被追1公里累瘫",
+      "onboard_time": 1671017422,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -31068,7 +31100,7 @@
     },
     {
       "raw_hot": 13504,
-      "num": 491994,
+      "num": 599461,
       "word": "OPPO发布第二颗自研芯片",
       "onboard_time": 1671015625,
       "rank": 14,
