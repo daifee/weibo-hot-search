@@ -1,0 +1,410 @@
+{
+  "runTime": 1670981918078,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3447409,
+        "num": 3447409,
+        "word": "哈工大通报志愿者拍考研试卷袋",
+        "onboard_time": 1670977750,
+        "rank": 0,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 2026368,
+        "num": 2026368,
+        "word": "阿根廷3比0克罗地亚",
+        "onboard_time": 1670965150,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 69945,
+        "num": 1516671,
+        "word": "不同年龄段儿童退烧药怎么选",
+        "onboard_time": 1670921474,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1455599,
+        "num": 1455599,
+        "word": "恋爱四年半男友考上公务员被分手",
+        "onboard_time": 1670975229,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1321843,
+        "num": 1321843,
+        "word": "梅西",
+        "onboard_time": 1670960049,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1266591,
+        "num": 1266591,
+        "word": "大学生花850买上床下桌卧室变宿舍",
+        "onboard_time": 1670977331,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1190778,
+        "num": 1190778,
+        "word": "新冠抗体保护期为3到6个月",
+        "onboard_time": 1670974930,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1142735,
+        "num": 1142735,
+        "word": "猫咪摔坏价值12万翡翠手镯被连夜送走",
+        "onboard_time": 1670976491,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1048975,
+        "num": 1048975,
+        "word": "克罗地亚主帅说被公正地击败了",
+        "onboard_time": 1670976012,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1048074,
+        "num": 1048074,
+        "word": "考研",
+        "onboard_time": 1670977031,
+        "rank": 9,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 805474,
+        "num": 805474,
+        "word": "远嫁非洲女孩周周回应现状",
+        "onboard_time": 1670980691,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 796227,
+        "num": 796227,
+        "word": "女子偶遇酷似已故儿子的小伙",
+        "onboard_time": 1670979013,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 700717,
+        "num": 700717,
+        "word": "N95口罩与KN95的区别",
+        "onboard_time": 1670939416,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 670190,
+        "num": 670190,
+        "word": "苏醒 全世界还有谁可以这样啊",
+        "onboard_time": 1670977031,
+        "rank": 13,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 633055,
+        "num": 633055,
+        "word": "康复后衣物上是否有病毒存活",
+        "onboard_time": 1670980392,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 557276,
+        "num": 557276,
+        "word": "梅西成为阿根廷队世界杯射手王",
+        "onboard_time": 1670962029,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 464518,
+        "num": 464518,
+        "word": "女子跑车刚买半年被16岁学生划破",
+        "onboard_time": 1670976731,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 422664,
+        "num": 422664,
+        "word": "阿根廷vs克罗地亚",
+        "onboard_time": 1670944934,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 416426,
+        "num": 416426,
+        "word": "苹果iOS16.2正式版发布",
+        "onboard_time": 1670978173,
+        "rank": 18,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 405570,
+        "num": 405570,
+        "word": "风吹半夏结局",
+        "onboard_time": 1670939594,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 398905,
+        "num": 398905,
+        "word": "男子发烧近40度床上印出人形汗印",
+        "onboard_time": 1670926933,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365364,
+        "num": 365364,
+        "word": "世界杯半决赛现场响起孤勇者",
+        "onboard_time": 1670979670,
+        "rank": 21,
+        "category": "体育,音乐"
+      },
+      {
+        "raw_hot": 355685,
+        "num": 355685,
+        "word": "公司回应停缴4名被烧伤人员医疗费",
+        "onboard_time": 1670979732,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 351100,
+        "num": 351100,
+        "word": "美国将宣布有关核聚变重大突破",
+        "onboard_time": 1670975291,
+        "rank": 23,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 343925,
+        "num": 343925,
+        "word": "女子混吃7种感冒止咳药全身长满脓疱",
+        "onboard_time": 1670944694,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312896,
+        "num": 312896,
+        "word": "法国vs摩洛哥",
+        "onboard_time": 1670973550,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 282918,
+        "num": 282918,
+        "word": "阳康后家里衣物可用56℃热水浸泡",
+        "onboard_time": 1670978771,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279147,
+        "num": 279147,
+        "word": "EDG",
+        "onboard_time": 1670974449,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 278603,
+        "num": 278603,
+        "word": "今天起不再公布无症状感染者数据",
+        "onboard_time": 1670981414,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276897,
+        "num": 276897,
+        "word": "不同新冠毒株可能造成二次感染",
+        "onboard_time": 1670975769,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271226,
+        "num": 271226,
+        "word": "贺炜金句盛赞梅西",
+        "onboard_time": 1670977812,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 271001,
+        "num": 271001,
+        "word": "阿根廷队杀疯了",
+        "onboard_time": 1670964850,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 262983,
+        "num": 262983,
+        "word": "蜘蛛侠平行宇宙2正式预告",
+        "onboard_time": 1670976130,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 253643,
+        "num": 253643,
+        "word": "沈腾是懂送礼物的",
+        "onboard_time": 1670938334,
+        "rank": 33,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 251548,
+        "num": 251548,
+        "word": "核聚变",
+        "onboard_time": 1670974213,
+        "rank": 34,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 249320,
+        "num": 249320,
+        "word": "男子跟着雪地脚印发现冻僵猫咪",
+        "onboard_time": 1670978651,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239037,
+        "num": 239037,
+        "word": "一家4人阳性男子自驾600公里回家",
+        "onboard_time": 1670940674,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219427,
+        "num": 219427,
+        "word": "北京1岁宝宝照顾阳性妈妈",
+        "onboard_time": 1670947691,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217049,
+        "num": 217049,
+        "word": "黄桃罐头 连花清瘟",
+        "onboard_time": 1670941574,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184945,
+        "num": 184945,
+        "word": "男子回应对病床上父亲动粗打骂",
+        "onboard_time": 1670974213,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181470,
+        "num": 181470,
+        "word": "克罗地亚球衣",
+        "onboard_time": 1670958729,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180376,
+        "num": 180376,
+        "word": "梅西莫德里奇拥抱",
+        "onboard_time": 1670962090,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175845,
+        "num": 175845,
+        "word": "刘畊宏直播",
+        "onboard_time": 1670932332,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174661,
+        "num": 174661,
+        "word": "阴阳师",
+        "onboard_time": 1670981712,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 172614,
+        "num": 172614,
+        "word": "再见爱人 卢歌苏诗丁",
+        "onboard_time": 1670934312,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170224,
+        "num": 170224,
+        "word": "张元英韩素希同框图",
+        "onboard_time": 1670981292,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 169858,
+        "num": 169858,
+        "word": "老师讲人体结构叫男生脱衣展示",
+        "onboard_time": 1670941335,
+        "rank": 46,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 162451,
+        "num": 162451,
+        "word": "马航MH370起落架舱门残骸被发现",
+        "onboard_time": 1670938393,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159527,
+        "num": 159527,
+        "word": "苹果拟允许用第三方应用商店",
+        "onboard_time": 1670981171,
+        "rank": 48,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 157103,
+        "num": 157103,
+        "word": "伊甸园",
+        "onboard_time": 1670946853,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十大报告里看未来#"
+    }
+  }
+}
