@@ -1,6 +1,6 @@
 {
   "startTime": 1670775913271,
-  "endTime": 1670988211944,
+  "endTime": 1670989047068,
   "band_list": [
     {
       "raw_hot": 4521108,
@@ -179,6 +179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2203070,
+      "num": 2203070,
+      "word": "沪上阿姨",
+      "onboard_time": 1670984291,
+      "rank": 5,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 2123668,
       "num": 2123668,
       "word": "地狱犬已在9省份检出但尚未流行",
@@ -257,14 +265,6 @@
       "onboard_time": 1670977031,
       "rank": 9,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 1779895,
-      "num": 1779895,
-      "word": "沪上阿姨",
-      "onboard_time": 1670984291,
-      "rank": 5,
-      "category": "游戏"
     },
     {
       "raw_hot": 1774981,
@@ -456,6 +456,14 @@
       "word": "怀孕27周女子分享阳了后体验",
       "onboard_time": 1670806267,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1236858,
+      "num": 1236858,
+      "word": "各省第一波感染高峰",
+      "onboard_time": 1670987233,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -1051,6 +1059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 711965,
+      "num": 711965,
+      "word": "陈奕迅打进世界杯半决赛",
+      "onboard_time": 1670985071,
+      "rank": 22,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 697510,
       "num": 697510,
       "word": "马龙樊振东个人信息遭泄露",
@@ -1097,14 +1113,6 @@
       "onboard_time": 1670816712,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 674139,
-      "num": 674139,
-      "word": "陈奕迅打进世界杯半决赛",
-      "onboard_time": 1670985071,
-      "rank": 22,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 670190,
@@ -1499,14 +1507,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 514540,
-      "num": 514540,
-      "word": "各省第一波感染高峰",
-      "onboard_time": 1670987233,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 512529,
       "num": 512529,
       "word": "seventeen获AAA年度歌手",
@@ -1857,6 +1857,14 @@
       "onboard_time": 1670841018,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 425486,
+      "num": 425486,
+      "word": "虞书欣首张实体专辑Esther",
+      "onboard_time": 1670988493,
+      "rank": 15,
+      "category": "音乐"
     },
     {
       "raw_hot": 424378,
@@ -2403,6 +2411,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 330545,
+      "num": 330545,
+      "word": "男子称自家晾晒藕粉疑遭邻居撒农药",
+      "onboard_time": 1670985432,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 328058,
       "num": 328058,
       "word": "安东内拉模仿梅西发火",
@@ -2425,6 +2441,14 @@
       "onboard_time": 1670925433,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 324419,
+      "num": 250899,
+      "word": "魔笛 克罗地亚角球",
+      "onboard_time": 1670987833,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 322696,
@@ -2587,14 +2611,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 303821,
-      "num": 303821,
-      "word": "男子称自家晾晒藕粉疑遭邻居撒农药",
-      "onboard_time": 1670985432,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 302607,
       "num": 232677,
       "word": "梅西成为世界杯历史出场王",
@@ -2673,6 +2689,14 @@
       "onboard_time": 1670942473,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 288022,
+      "num": 288022,
+      "word": "名侦探学院6嘉宾自制悬疑片",
+      "onboard_time": 1670988433,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 287819,
@@ -3043,6 +3067,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 251016,
+      "num": 251016,
+      "word": "女硕士当6年全职妈妈靠科普找回自信",
+      "onboard_time": 1670988071,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 250068,
       "num": 245153,
       "word": "孤勇者",
@@ -3331,6 +3363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 222942,
+      "num": 222942,
+      "word": "周深是懂废话文学的",
+      "onboard_time": 1670988852,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 222075,
       "num": 222075,
       "word": "小米13",
@@ -3611,6 +3651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 202005,
+      "num": 202005,
+      "word": "猫咪蜷缩在墙角被冻僵",
+      "onboard_time": 1670987713,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 201762,
       "num": 201762,
       "word": "暴雪与新代理展开洽谈",
@@ -3648,14 +3696,6 @@
       "word": "内马尔发文要重新振作",
       "onboard_time": 1670815092,
       "rank": 33,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 199164,
-      "num": 199164,
-      "word": "魔笛 克罗地亚角球",
-      "onboard_time": 1670987833,
-      "rank": 40,
       "category": "体育"
     },
     {
@@ -4139,20 +4179,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 169863,
+      "num": 169863,
+      "word": "北斗超GPS已主导国内导航定位",
+      "onboard_time": 1670987774,
+      "rank": 48,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 169354,
       "num": 169354,
       "word": "欧豪说野蛮是童骁骑的保护色",
       "onboard_time": 1670825715,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 169192,
-      "num": 169192,
-      "word": "猫咪蜷缩在墙角被冻僵",
-      "onboard_time": 1670987713,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 169161,
@@ -4169,14 +4209,6 @@
       "onboard_time": 1670851218,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 168178,
-      "num": 168178,
-      "word": "北斗超GPS已主导国内导航定位",
-      "onboard_time": 1670987774,
-      "rank": 48,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 167943,
@@ -4267,14 +4299,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 165982,
-      "num": 165982,
-      "word": "女硕士当6年全职妈妈靠科普找回自信",
-      "onboard_time": 1670988071,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 165851,
       "num": 165851,
       "word": "当主人帮狗狗出气后",
@@ -4361,6 +4385,14 @@
       "onboard_time": 1670813470,
       "rank": 33,
       "category": "科技,财经"
+    },
+    {
+      "raw_hot": 162122,
+      "num": 162122,
+      "word": "LPL 转会期",
+      "onboard_time": 1670988616,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 160838,

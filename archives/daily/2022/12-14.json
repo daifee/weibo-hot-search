@@ -1,6 +1,6 @@
 {
   "startTime": 1670948842910,
-  "endTime": 1670988211944,
+  "endTime": 1670989047068,
   "band_list": [
     {
       "raw_hot": 3447409,
@@ -27,6 +27,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2203070,
+      "num": 2203070,
+      "word": "沪上阿姨",
+      "onboard_time": 1670984291,
+      "rank": 5,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 2091548,
       "num": 2091548,
       "word": "远嫁非洲女孩周周回应现状",
@@ -49,14 +57,6 @@
       "onboard_time": 1670977031,
       "rank": 9,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 1779895,
-      "num": 1779895,
-      "word": "沪上阿姨",
-      "onboard_time": 1670984291,
-      "rank": 5,
-      "category": "游戏"
     },
     {
       "raw_hot": 1455599,
@@ -96,6 +96,14 @@
       "word": "马航MH370起落架舱门残骸被发现",
       "onboard_time": 1670938393,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1236858,
+      "num": 1236858,
+      "word": "各省第一波感染高峰",
+      "onboard_time": 1670987233,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -219,8 +227,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 674139,
-      "num": 674139,
+      "raw_hot": 711965,
+      "num": 711965,
       "word": "陈奕迅打进世界杯半决赛",
       "onboard_time": 1670985071,
       "rank": 22,
@@ -315,14 +323,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 514540,
-      "num": 514540,
-      "word": "各省第一波感染高峰",
-      "onboard_time": 1670987233,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 485975,
       "num": 485975,
       "word": "地狱犬已在9省份检出但尚未流行",
@@ -393,6 +393,14 @@
       "onboard_time": 1670939594,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 425486,
+      "num": 425486,
+      "word": "虞书欣首张实体专辑Esther",
+      "onboard_time": 1670988493,
+      "rank": 15,
+      "category": "音乐"
     },
     {
       "raw_hot": 421746,
@@ -475,6 +483,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 330545,
+      "num": 330545,
+      "word": "男子称自家晾晒藕粉疑遭邻居撒农药",
+      "onboard_time": 1670985432,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 324419,
+      "num": 250899,
+      "word": "魔笛 克罗地亚角球",
+      "onboard_time": 1670987833,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 313502,
       "num": 313502,
       "word": "法国vs摩洛哥",
@@ -496,14 +520,6 @@
       "word": "新冠特效药阿兹夫定可线上购买",
       "onboard_time": 1670967010,
       "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 303821,
-      "num": 303821,
-      "word": "男子称自家晾晒藕粉疑遭邻居撒农药",
-      "onboard_time": 1670985432,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -529,6 +545,14 @@
       "onboard_time": 1670964251,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 288022,
+      "num": 288022,
+      "word": "名侦探学院6嘉宾自制悬疑片",
+      "onboard_time": 1670988433,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 284787,
@@ -667,6 +691,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 251016,
+      "num": 251016,
+      "word": "女硕士当6年全职妈妈靠科普找回自信",
+      "onboard_time": 1670988071,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 249320,
       "num": 249320,
       "word": "男子跟着雪地脚印发现冻僵猫咪",
@@ -723,6 +755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 222942,
+      "num": 222942,
+      "word": "周深是懂废话文学的",
+      "onboard_time": 1670988852,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 219709,
       "num": 177289,
       "word": "C罗不打算从国家队退役",
@@ -747,12 +787,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 199164,
-      "num": 199164,
-      "word": "魔笛 克罗地亚角球",
-      "onboard_time": 1670987833,
-      "rank": 40,
-      "category": "体育"
+      "raw_hot": 202005,
+      "num": 202005,
+      "word": "猫咪蜷缩在墙角被冻僵",
+      "onboard_time": 1670987713,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 193048,
@@ -875,28 +915,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 169863,
+      "num": 169863,
+      "word": "北斗超GPS已主导国内导航定位",
+      "onboard_time": 1670987774,
+      "rank": 48,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 169858,
       "num": 169858,
       "word": "老师讲人体结构叫男生脱衣展示",
       "onboard_time": 1670941335,
       "rank": 38,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 169192,
-      "num": 169192,
-      "word": "猫咪蜷缩在墙角被冻僵",
-      "onboard_time": 1670987713,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 168178,
-      "num": 168178,
-      "word": "北斗超GPS已主导国内导航定位",
-      "onboard_time": 1670987774,
-      "rank": 48,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 167269,
@@ -915,12 +947,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 165982,
-      "num": 165982,
-      "word": "女硕士当6年全职妈妈靠科普找回自信",
-      "onboard_time": 1670988071,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 162122,
+      "num": 162122,
+      "word": "LPL 转会期",
+      "onboard_time": 1670988616,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 159757,
