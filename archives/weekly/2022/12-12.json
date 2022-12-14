@@ -1,6 +1,6 @@
 {
   "startTime": 1670775913271,
-  "endTime": 1671022531122,
+  "endTime": 1671024376988,
   "band_list": [
     {
       "raw_hot": 4870645,
@@ -259,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2041756,
+      "num": 2041756,
+      "word": "沪上阿姨致歉",
+      "onboard_time": 1671021872,
+      "rank": 13,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 2022895,
       "num": 1285207,
       "word": "华西医院通报医学生病危",
@@ -433,6 +441,14 @@
       "onboard_time": 1670843236,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1498203,
+      "num": 529047,
+      "word": "白敬亭跳wadada",
+      "onboard_time": 1671022277,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 1473001,
@@ -883,6 +899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 961277,
+      "num": 961277,
+      "word": "妈妈阳性爸爸住公司女儿留家照顾",
+      "onboard_time": 1671019224,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 957633,
       "num": 957633,
       "word": "武汉女子称这次感染和2020年很不同",
@@ -977,14 +1001,6 @@
       "onboard_time": 1670934672,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 875505,
-      "num": 529047,
-      "word": "白敬亭跳wadada",
-      "onboard_time": 1671022277,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 871610,
@@ -1099,14 +1115,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 811930,
-      "num": 811930,
-      "word": "妈妈阳性爸爸住公司女儿留家照顾",
-      "onboard_time": 1671019224,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 809845,
       "num": 809845,
       "word": "弟弟要买新车全家凑钱支持",
@@ -1209,6 +1217,14 @@
       "onboard_time": 1670992660,
       "rank": 47,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 763832,
+      "num": 763832,
+      "word": "江西一药店连花清瘟涨12元被顶格处罚",
+      "onboard_time": 1671021978,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 761659,
@@ -1579,6 +1595,14 @@
       "category": "体育,幽默"
     },
     {
+      "raw_hot": 626918,
+      "num": 469537,
+      "word": "林更新 婴儿纸尿裤倒水冻起来",
+      "onboard_time": 1671024213,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 625221,
       "num": 1733648,
       "word": "新冠疫苗第2剂加强针来了",
@@ -1705,14 +1729,6 @@
       "onboard_time": 1670892552,
       "rank": 11,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 575087,
-      "num": 515605,
-      "word": "沪上阿姨致歉",
-      "onboard_time": 1671021872,
-      "rank": 13,
-      "category": "游戏"
     },
     {
       "raw_hot": 573686,
@@ -2163,6 +2179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 474916,
+      "num": 474916,
+      "word": "专家科普为何北京有症状感染者更多",
+      "onboard_time": 1671019698,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 474487,
       "num": 474487,
       "word": "Scout与Loud经纪公司签约",
@@ -2208,6 +2232,14 @@
       "word": "女子跑车刚买半年被16岁学生划破",
       "onboard_time": 1670976731,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 464289,
+      "num": 464289,
+      "word": "山东下个月或出现首波感染高峰",
+      "onboard_time": 1671020178,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -2363,19 +2395,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 444981,
+      "num": 444981,
+      "word": "风吹半夏大结局",
+      "onboard_time": 1671022156,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 442219,
+      "num": 442219,
+      "word": "夺冠是梅西成为球王的最关键一步",
+      "onboard_time": 1671020419,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 441927,
       "num": 441927,
       "word": "克罗地亚战阿根廷还会拖堂吗",
       "onboard_time": 1670904072,
       "rank": 26,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 439915,
-      "num": 439915,
-      "word": "夺冠是梅西成为球王的最关键一步",
-      "onboard_time": 1671020419,
-      "rank": 34,
       "category": "体育"
     },
     {
@@ -2401,6 +2441,14 @@
       "onboard_time": 1670958489,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 434494,
+      "num": 434494,
+      "word": "同事阳了自己不去上班算旷工吗",
+      "onboard_time": 1671023132,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 430112,
@@ -2875,6 +2923,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 358654,
+      "num": 358654,
+      "word": "最近半个月的精神状态",
+      "onboard_time": 1671018259,
+      "rank": 27,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 358475,
       "num": 358475,
       "word": "小罗",
@@ -3019,20 +3075,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 336627,
+      "num": 336627,
+      "word": "许半夏终于和记忆和解了",
+      "onboard_time": 1671023014,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 335736,
       "num": 335736,
       "word": "女子首次滑雪门票花99查摔伤花502",
       "onboard_time": 1670809212,
       "rank": 49,
       "category": "社会新闻,体育"
-    },
-    {
-      "raw_hot": 335208,
-      "num": 335208,
-      "word": "山东下个月或出现首波感染高峰",
-      "onboard_time": 1671020178,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 335069,
@@ -3115,6 +3171,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 325459,
+      "num": 325459,
+      "word": "流星雨",
+      "onboard_time": 1671015556,
+      "rank": 29,
+      "category": "自然"
+    },
+    {
       "raw_hot": 324665,
       "num": 324665,
       "word": "南北方变异的病毒株略有不同",
@@ -3147,11 +3211,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 320177,
-      "num": 320177,
-      "word": "专家科普为何北京有症状感染者更多",
-      "onboard_time": 1671019698,
-      "rank": 25,
+      "raw_hot": 321429,
+      "num": 1557142,
+      "word": "儿童感染奥密克戎应注意这几点",
+      "onboard_time": 1671022459,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 320106,
+      "num": 320106,
+      "word": "商家回应买N95口罩超1月不发货",
+      "onboard_time": 1671022827,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -3315,6 +3387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 302767,
+      "num": 302767,
+      "word": "童骁骑在陈宇宙墓前独白",
+      "onboard_time": 1671023673,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 302607,
       "num": 232677,
       "word": "梅西成为世界杯历史出场王",
@@ -3385,14 +3465,6 @@
       "onboard_time": 1670964251,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 293071,
-      "num": 293071,
-      "word": "最近半个月的精神状态",
-      "onboard_time": 1671018259,
-      "rank": 27,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 292281,
@@ -3667,6 +3739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 267749,
+      "num": 267749,
+      "word": "安娜给刘烨直播黄山美景",
+      "onboard_time": 1671019099,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 266957,
       "num": 266957,
       "word": "云南家暴纵火案将宣判",
@@ -3833,14 +3913,6 @@
       "onboard_time": 1670837298,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 254559,
-      "num": 254559,
-      "word": "流星雨",
-      "onboard_time": 1671015556,
-      "rank": 29,
-      "category": "自然"
     },
     {
       "raw_hot": 254483,
@@ -4059,14 +4131,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 238965,
-      "num": 238965,
-      "word": "江西一药店连花清瘟涨12元被顶格处罚",
-      "onboard_time": 1671021978,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 238137,
       "num": 238137,
       "word": "关晓彤黑裙复古大片",
@@ -4233,6 +4297,14 @@
       "onboard_time": 1671015856,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 224453,
+      "num": 224453,
+      "word": "天下长河结局意难平",
+      "onboard_time": 1671024274,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 223731,
@@ -4459,6 +4531,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 211185,
+      "num": 211185,
+      "word": "天龙八部之乔峰传首支预告",
+      "onboard_time": 1671021195,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 210657,
       "num": 210657,
       "word": "马思纯晒楼梯间随拍",
@@ -4569,14 +4649,6 @@
       "onboard_time": 1671003076,
       "rank": 36,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 205424,
-      "num": 205424,
-      "word": "天龙八部之乔峰传首支预告",
-      "onboard_time": 1671021195,
-      "rank": 45,
-      "category": "影视"
     },
     {
       "raw_hot": 204947,
@@ -4787,14 +4859,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 195231,
-      "num": 195231,
-      "word": "安娜给刘烨直播黄山美景",
-      "onboard_time": 1671019099,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 194786,
       "num": 194786,
       "word": "aespaRedVelvet新曲预告视频",
@@ -4881,6 +4945,14 @@
       "onboard_time": 1670922734,
       "rank": 41,
       "category": "财经"
+    },
+    {
+      "raw_hot": 190896,
+      "num": 190896,
+      "word": "辽粤大战",
+      "onboard_time": 1671020298,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 190511,
@@ -6763,6 +6835,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 78194,
+      "num": 467100,
+      "word": "从海边沙漠到卡塔尔珍珠",
+      "onboard_time": 1671022827,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 77106,
       "num": 567840,
       "word": "世界杯万能玩梗句式",
@@ -6937,14 +7017,6 @@
       "onboard_time": 1671015625,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 12632,
-      "num": 1315861,
-      "word": "儿童感染奥密克戎应注意这几点",
-      "onboard_time": 1671022459,
-      "rank": 2,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
@@ -6977,6 +7049,9 @@
     },
     {
       "word": "#应对气候变化保护生物多样性#"
+    },
+    {
+      "word": "#神十五乘组首个在轨vlog#"
     }
   ]
 }
