@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1671021400236,
+  "endTime": 1671022531122,
   "band_list": [
     {
       "raw_hot": 13790167,
@@ -603,6 +603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2556650,
+      "num": 2556650,
+      "word": "复阳",
+      "onboard_time": 1671017477,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2555673,
       "num": 2555673,
       "word": "三体",
@@ -801,14 +809,6 @@
       "onboard_time": 1670569757,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2332621,
-      "num": 2332621,
-      "word": "复阳",
-      "onboard_time": 1671017477,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2331843,
@@ -4307,6 +4307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 875505,
+      "num": 529047,
+      "word": "白敬亭跳wadada",
+      "onboard_time": 1671022277,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 873154,
       "num": 873154,
       "word": "女子买衣服花600元一看标价499",
@@ -4808,6 +4816,14 @@
       "word": "专家辟谣长期戴口罩会致肺结节",
       "onboard_time": 1670292670,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 811930,
+      "num": 811930,
+      "word": "妈妈阳性爸爸住公司女儿留家照顾",
+      "onboard_time": 1671019224,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -5675,14 +5691,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 722828,
-      "num": 520326,
-      "word": "妈妈阳性爸爸住公司女儿留家照顾",
-      "onboard_time": 1671019224,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 722428,
       "num": 722428,
       "word": "许半夏变卖家产补偿滩涂村民",
@@ -6193,6 +6201,14 @@
       "onboard_time": 1670657717,
       "rank": 11,
       "category": "体育,综艺"
+    },
+    {
+      "raw_hot": 682543,
+      "num": 682543,
+      "word": "辽粤大战 赵睿",
+      "onboard_time": 1671021377,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 682074,
@@ -7883,6 +7899,14 @@
       "category": "国内要闻,国外要闻"
     },
     {
+      "raw_hot": 575087,
+      "num": 515605,
+      "word": "沪上阿姨致歉",
+      "onboard_time": 1671021872,
+      "rank": 13,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 573686,
       "num": 573686,
       "word": "刘畊宏直播",
@@ -8939,6 +8963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 509653,
+      "num": 509653,
+      "word": "王一博成毅王鹤棣到达上海",
+      "onboard_time": 1671021798,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 509576,
       "num": 509576,
       "word": "许半夏真的剩下一个人了",
@@ -9145,14 +9177,6 @@
       "onboard_time": 1670761037,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 498210,
-      "num": 498210,
-      "word": "辽粤大战 赵睿",
-      "onboard_time": 1671021377,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 497472,
@@ -10491,6 +10515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 439915,
+      "num": 439915,
+      "word": "夺冠是梅西成为球王的最关键一步",
+      "onboard_time": 1671020419,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 439903,
       "num": 439903,
       "word": "著名大V侯宁去世",
@@ -11201,6 +11233,14 @@
       "onboard_time": 1670500459,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 414739,
+      "num": 414739,
+      "word": "黄雅莉新冠康复日记",
+      "onboard_time": 1671021439,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 414679,
@@ -13627,6 +13667,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 335208,
+      "num": 335208,
+      "word": "山东下个月或出现首波感染高峰",
+      "onboard_time": 1671020178,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 335069,
+      "num": 335069,
+      "word": "北京两天内现存快递积压件全部清零",
+      "onboard_time": 1671018795,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 334947,
       "num": 334947,
       "word": "C罗有事儿佩佩真上啊",
@@ -13995,14 +14051,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 326242,
-      "num": 326242,
-      "word": "北京两天内现存快递积压件全部清零",
-      "onboard_time": 1671018795,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 326015,
       "num": 712588,
       "word": "女子用泡脚桶加热时起火",
@@ -14273,6 +14321,14 @@
       "onboard_time": 1670158391,
       "rank": 15,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 320177,
+      "num": 320177,
+      "word": "专家科普为何北京有症状感染者更多",
+      "onboard_time": 1671019698,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 320173,
@@ -15353,6 +15409,14 @@
       "onboard_time": 1670574625,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 293071,
+      "num": 293071,
+      "word": "最近半个月的精神状态",
+      "onboard_time": 1671018259,
+      "rank": 27,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 292917,
@@ -16747,14 +16811,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 263527,
-      "num": 263527,
-      "word": "专家科普为何北京有症状感染者更多",
-      "onboard_time": 1671019698,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 263266,
       "num": 263266,
       "word": "男孩时隔4个月见父母礼貌喊叔叔",
@@ -16825,6 +16881,14 @@
       "onboard_time": 1670821514,
       "rank": 33,
       "category": "体育,音乐"
+    },
+    {
+      "raw_hot": 262142,
+      "num": 262142,
+      "word": "新少年包拯开播",
+      "onboard_time": 1671021737,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 261810,
@@ -16977,14 +17041,6 @@
       "onboard_time": 1669990750,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 258748,
-      "num": 258748,
-      "word": "最近半个月的精神状态",
-      "onboard_time": 1671018259,
-      "rank": 27,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 258603,
@@ -17161,6 +17217,14 @@
       "onboard_time": 1670837298,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 254559,
+      "num": 254559,
+      "word": "流星雨",
+      "onboard_time": 1671015556,
+      "rank": 29,
+      "category": "自然"
     },
     {
       "raw_hot": 254483,
@@ -17547,6 +17611,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 247628,
+      "num": 247628,
+      "word": "裴珠泫BeautifulChristmasMV镜头",
+      "onboard_time": 1671017839,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 247432,
       "num": 215861,
       "word": "罗云熙顾云峥的杀青vlog",
@@ -17753,14 +17825,6 @@
       "onboard_time": 1670564356,
       "rank": 24,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 243878,
-      "num": 243878,
-      "word": "裴珠泫BeautifulChristmasMV镜头",
-      "onboard_time": 1671017839,
-      "rank": 28,
-      "category": "音乐"
     },
     {
       "raw_hot": 243847,
@@ -17976,6 +18040,14 @@
       "word": "北京增本土感染者1431例",
       "onboard_time": 1670332269,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 238965,
+      "num": 238965,
+      "word": "江西一药店连花清瘟涨12元被顶格处罚",
+      "onboard_time": 1671021978,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -18225,14 +18297,6 @@
       "onboard_time": 1669992730,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 234087,
-      "num": 234087,
-      "word": "流星雨",
-      "onboard_time": 1671015556,
-      "rank": 29,
-      "category": "自然"
     },
     {
       "raw_hot": 233839,
@@ -19955,6 +20019,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 205424,
+      "num": 205424,
+      "word": "天龙八部之乔峰传首支预告",
+      "onboard_time": 1671021195,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 204947,
       "num": 204947,
       "word": "詹雯婷张远S级和声",
@@ -20273,14 +20345,6 @@
       "onboard_time": 1671001396,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 199193,
-      "num": 199193,
-      "word": "夺冠是梅西成为球王的最关键一步",
-      "onboard_time": 1671020419,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 198870,
@@ -20635,6 +20699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 195231,
+      "num": 195231,
+      "word": "安娜给刘烨直播黄山美景",
+      "onboard_time": 1671019099,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 195215,
       "num": 195215,
       "word": "2022PEL全明星周末",
@@ -20731,6 +20803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 194206,
+      "num": 194206,
+      "word": "许半夏投资互联网",
+      "onboard_time": 1671021978,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 194098,
       "num": 194098,
       "word": "恢复疫情前的生活你期待吗",
@@ -20769,6 +20849,14 @@
       "onboard_time": 1670275327,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 193718,
+      "num": 193718,
+      "word": "朴志晟钟辰乐candy挑战视频",
+      "onboard_time": 1671021978,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 193683,
@@ -22795,6 +22883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 171863,
+      "num": 171863,
+      "word": "辽宁男篮vs广东男篮",
+      "onboard_time": 1671022097,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 171745,
       "num": 171745,
       "word": "湖人不敌骑士",
@@ -22945,6 +23041,14 @@
       "onboard_time": 1670490856,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 170093,
+      "num": 170093,
+      "word": "马丽为网传鞋码在线回应",
+      "onboard_time": 1671019099,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 170060,
@@ -23353,14 +23457,6 @@
       "onboard_time": 1670145371,
       "rank": 46,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 166475,
-      "num": 166475,
-      "word": "山东下个月或出现首波感染高峰",
-      "onboard_time": 1671020178,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 166429,
@@ -24395,14 +24491,6 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 155229,
-      "num": 155229,
-      "word": "天龙八部之乔峰传首支预告",
-      "onboard_time": 1671021195,
-      "rank": 45,
-      "category": "影视"
-    },
-    {
       "raw_hot": 155183,
       "num": 155183,
       "word": "中级经济师",
@@ -25393,14 +25481,6 @@
       "onboard_time": 1670713869,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 145019,
-      "num": 145019,
-      "word": "马丽为网传鞋码在线回应",
-      "onboard_time": 1671019099,
-      "rank": 48,
-      "category": "影视"
     },
     {
       "raw_hot": 144972,
@@ -31240,6 +31320,14 @@
       "word": "雷军致敬了哪5款超跑色",
       "onboard_time": 1670770825,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12632,
+      "num": 1315861,
+      "word": "儿童感染奥密克戎应注意这几点",
+      "onboard_time": 1671022459,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
