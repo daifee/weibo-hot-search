@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1671045329057,
+  "endTime": 1671046398305,
   "band_list": [
     {
       "raw_hot": 13790167,
@@ -11001,6 +11001,14 @@
       "onboard_time": 1670485576,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 427098,
+      "num": 427098,
+      "word": "姆巴佩进球比赛法国从未输球",
+      "onboard_time": 1671044174,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 427057,
@@ -23027,14 +23035,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 174585,
-      "num": 72451,
-      "word": "姆巴佩进球比赛法国从未输球",
-      "onboard_time": 1671044174,
-      "rank": 10,
-      "category": "体育"
-    },
-    {
       "raw_hot": 174471,
       "num": 174471,
       "word": "C罗谢幕",
@@ -24297,6 +24297,14 @@
       "onboard_time": 1670649620,
       "rank": 41,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 162226,
+      "num": 70402,
+      "word": "摩洛哥足协免费给本国球迷发球票",
+      "onboard_time": 1671042914,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 162163,
@@ -29249,14 +29257,6 @@
       "onboard_time": 1669984032,
       "rank": 42,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 111016,
-      "num": 70402,
-      "word": "摩洛哥足协免费给本国球迷发球票",
-      "onboard_time": 1671042914,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 110854,
