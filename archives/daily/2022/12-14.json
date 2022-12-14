@@ -1,6 +1,6 @@
 {
   "startTime": 1670948842910,
-  "endTime": 1671013230780,
+  "endTime": 1671014188650,
   "band_list": [
     {
       "raw_hot": 4870645,
@@ -75,20 +75,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1892079,
+      "num": 1285207,
+      "word": "华西医院通报医学生病危",
+      "onboard_time": 1671007636,
+      "rank": 4,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1875241,
       "num": 1875241,
       "word": "梅西",
       "onboard_time": 1670960049,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1858166,
-      "num": 1285207,
-      "word": "华西医院通报医学生病危",
-      "onboard_time": 1671007636,
-      "rank": 4,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1799372,
@@ -105,6 +105,14 @@
       "onboard_time": 1671010877,
       "rank": 1,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1780839,
+      "num": 1780839,
+      "word": "男子高烧近40度睡觉掀被子直冒烟",
+      "onboard_time": 1671010698,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1634860,
@@ -145,14 +153,6 @@
       "onboard_time": 1670964850,
       "rank": 5,
       "category": "体育,幽默"
-    },
-    {
-      "raw_hot": 1324102,
-      "num": 1324102,
-      "word": "男子高烧近40度睡觉掀被子直冒烟",
-      "onboard_time": 1671010698,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1266591,
@@ -211,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1111330,
+      "num": 1111330,
+      "word": "初二男生遭15人围殴刺伤3人获无罪",
+      "onboard_time": 1671009495,
+      "rank": 47,
+      "category": "社会负面,教育"
+    },
+    {
       "raw_hot": 1099573,
       "num": 1099573,
       "word": "梅西莫德里奇拥抱",
@@ -259,14 +267,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 1009484,
-      "num": 1009484,
-      "word": "初二男生遭15人围殴刺伤3人获无罪",
-      "onboard_time": 1671009495,
-      "rank": 47,
-      "category": "社会负面,教育"
-    },
-    {
       "raw_hot": 1006107,
       "num": 1006107,
       "word": "GQ盛典",
@@ -283,6 +283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 977460,
+      "num": 977460,
+      "word": "北京全市均调整为常态防控状态",
+      "onboard_time": 1671009798,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 965805,
       "num": 965805,
       "word": "核酸阳性第几天会转阴",
@@ -296,14 +304,6 @@
       "word": "女子感染新冠乱吃药致肝衰竭进ICU",
       "onboard_time": 1670990232,
       "rank": 15,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 938595,
-      "num": 938595,
-      "word": "北京全市均调整为常态防控状态",
-      "onboard_time": 1671009798,
-      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -344,6 +344,14 @@
       "word": "女子混吃7种感冒止咳药全身长满脓疱",
       "onboard_time": 1670944694,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 847373,
+      "num": 847373,
+      "word": "女子给确诊闺蜜做饭9天未感染",
+      "onboard_time": 1671011356,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -427,6 +435,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 730883,
+      "num": 730883,
+      "word": "许半夏决定和童骁骑一起自首",
+      "onboard_time": 1671009917,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 721164,
       "num": 721164,
       "word": "伊甸园",
@@ -441,14 +457,6 @@
       "onboard_time": 1670985071,
       "rank": 22,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 710377,
-      "num": 710377,
-      "word": "女子给确诊闺蜜做饭9天未感染",
-      "onboard_time": 1671011356,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 698189,
@@ -532,19 +540,11 @@
     },
     {
       "raw_hot": 625221,
-      "num": 1549413,
+      "num": 1733648,
       "word": "新冠疫苗第2剂加强针来了",
       "onboard_time": 1671007756,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 607723,
-      "num": 607723,
-      "word": "许半夏决定和童骁骑一起自首",
-      "onboard_time": 1671009917,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 595851,
@@ -611,6 +611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 560266,
+      "num": 560266,
+      "word": "五月天新歌12月14日上线",
+      "onboard_time": 1671013096,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 559668,
       "num": 559668,
       "word": "阳敌",
@@ -633,6 +641,14 @@
       "onboard_time": 1670996956,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 554289,
+      "num": 554289,
+      "word": "上海派出6000只麻鸭清理稻田",
+      "onboard_time": 1671009917,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 552773,
@@ -712,14 +728,6 @@
       "word": "韩出租司机因听不懂日语被日籍乘客暴打",
       "onboard_time": 1670990833,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 479394,
-      "num": 479394,
-      "word": "上海派出6000只麻鸭清理稻田",
-      "onboard_time": 1671009917,
-      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -833,14 +841,6 @@
       "onboard_time": 1670986151,
       "rank": 48,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 417173,
-      "num": 417173,
-      "word": "五月天新歌12月14日上线",
-      "onboard_time": 1671013096,
-      "rank": 17,
-      "category": "音乐"
     },
     {
       "raw_hot": 416426,
@@ -1051,6 +1051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 295765,
+      "num": 295765,
+      "word": "杨紫说一次开心的拍摄谢谢大家",
+      "onboard_time": 1671013576,
+      "rank": 18,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 294035,
       "num": 294035,
       "word": "利瓦科维奇",
@@ -1075,12 +1083,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 286159,
+      "num": 286159,
+      "word": "考研将分类设置考场考点",
+      "onboard_time": 1671011042,
+      "rank": 22,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 285962,
       "num": 285962,
       "word": "杨紫T锦绣十二月刊封面",
       "onboard_time": 1671009619,
       "rank": 21,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 285928,
+      "num": 193862,
+      "word": "丈夫确诊妻子把脚放其额头上降温",
+      "onboard_time": 1671012975,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 284787,
@@ -1113,14 +1137,6 @@
       "onboard_time": 1670974449,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 278702,
-      "num": 244140,
-      "word": "考研将分类设置考场考点",
-      "onboard_time": 1671011042,
-      "rank": 22,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 277823,
@@ -1323,6 +1339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 230914,
+      "num": 230914,
+      "word": "杨超越和小学生对暗号失败",
+      "onboard_time": 1671012256,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 230750,
       "num": 230750,
       "word": "羊羊对照表",
@@ -1419,12 +1443,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 212403,
-      "num": 212403,
-      "word": "杨超越和小学生对暗号失败",
-      "onboard_time": 1671012256,
-      "rank": 31,
-      "category": "影视"
+      "raw_hot": 212069,
+      "num": 212069,
+      "word": "林加德说梅西就是神",
+      "onboard_time": 1671011897,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 210459,
@@ -1611,6 +1635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 183896,
+      "num": 183896,
+      "word": "第一次送礼的小流浪猫",
+      "onboard_time": 1671011596,
+      "rank": 38,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 183724,
       "num": 183724,
       "word": "谁是憋气冠军",
@@ -1699,20 +1731,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 172908,
-      "num": 172908,
-      "word": "林加德说梅西就是神",
-      "onboard_time": 1671011897,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 172715,
-      "num": 172715,
-      "word": "第一次送礼的小流浪猫",
-      "onboard_time": 1671011596,
-      "rank": 38,
-      "category": "幽默,情感"
+      "raw_hot": 171579,
+      "num": 171579,
+      "word": "Scout与Laud经纪公司签约",
+      "onboard_time": 1671013875,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 171564,
@@ -1768,6 +1792,22 @@
       "word": "新冠特效药",
       "onboard_time": 1670923513,
       "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 165359,
+      "num": 165359,
+      "word": "网传GQ盛典流程",
+      "onboard_time": 1671013996,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 165054,
+      "num": 165054,
+      "word": "柠檬",
+      "onboard_time": 1671011777,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -1859,6 +1899,14 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 146512,
+      "num": 146512,
+      "word": "吉克隽逸像把排骨穿身上了",
+      "onboard_time": 1671013696,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 146275,
       "num": 146275,
       "word": "王若吉",
@@ -1883,20 +1931,28 @@
       "category": "影视"
     },
     {
-      "raw_hot": 142802,
-      "num": 142802,
-      "word": "丈夫确诊妻子把脚放其额头上降温",
-      "onboard_time": 1671012975,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 142778,
       "num": 142778,
       "word": "浓眉关键两罚不中",
       "onboard_time": 1670998395,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 141654,
+      "num": 141654,
+      "word": "为什么会突然不爱了",
+      "onboard_time": 1671014115,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 140892,
+      "num": 140892,
+      "word": "1岁多萌宝捧水杯给阳性爸妈送水",
+      "onboard_time": 1671013696,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 139303,
