@@ -1,6 +1,6 @@
 {
   "startTime": 1670775913271,
-  "endTime": 1671042180873,
+  "endTime": 1671043053224,
   "band_list": [
     {
       "raw_hot": 4870645,
@@ -7355,20 +7355,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 56889,
+      "num": 56889,
+      "word": "阿根廷球迷感谢沙特敲警钟",
+      "onboard_time": 1671039377,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 56220,
       "num": 1561482,
       "word": "感染者同住人要注意什么",
       "onboard_time": 1670745075,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 52032,
-      "num": 52032,
-      "word": "阿根廷球迷感谢沙特敲警钟",
-      "onboard_time": 1671039377,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 47881,
@@ -7424,6 +7424,14 @@
       "word": "利瓦科维奇原来还是学霸",
       "onboard_time": 1670962927,
       "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 26602,
+      "num": 26602,
+      "word": "摩洛哥足协免费给本国球迷发球票",
+      "onboard_time": 1671042914,
+      "rank": 48,
       "category": "体育"
     },
     {

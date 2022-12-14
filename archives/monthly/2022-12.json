@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1671042180873,
+  "endTime": 1671043053224,
   "band_list": [
     {
       "raw_hot": 13790167,
@@ -31395,6 +31395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 56889,
+      "num": 56889,
+      "word": "阿根廷球迷感谢沙特敲警钟",
+      "onboard_time": 1671039377,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 56401,
       "num": 186312,
       "word": "莱万晒女儿照片",
@@ -31465,14 +31473,6 @@
       "onboard_time": 1670500822,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 52032,
-      "num": 52032,
-      "word": "阿根廷球迷感谢沙特敲警钟",
-      "onboard_time": 1671039377,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 51917,
@@ -31784,6 +31784,14 @@
       "word": "加维反差萌",
       "onboard_time": 1670354768,
       "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 26602,
+      "num": 26602,
+      "word": "摩洛哥足协免费给本国球迷发球票",
+      "onboard_time": 1671042914,
+      "rank": 48,
       "category": "体育"
     },
     {
