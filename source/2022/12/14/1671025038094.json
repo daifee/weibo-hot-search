@@ -1,0 +1,410 @@
+{
+  "runTime": 1671025038094,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2096713,
+        "num": 2096713,
+        "word": "沪上阿姨致歉",
+        "onboard_time": 1671021872,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 2083685,
+        "num": 2083685,
+        "word": "复阳",
+        "onboard_time": 1671017477,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 415663,
+        "num": 1745552,
+        "word": "儿童感染奥密克戎应注意这几点",
+        "onboard_time": 1671022459,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1466979,
+        "num": 1466979,
+        "word": "男子高烧近40度睡觉掀被子直冒烟",
+        "onboard_time": 1671010698,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1025681,
+        "num": 1025681,
+        "word": "妈妈阳性爸爸住公司女儿留家照顾",
+        "onboard_time": 1671019224,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 787552,
+        "num": 787552,
+        "word": "江西一药店连花清瘟涨12元被顶格处罚",
+        "onboard_time": 1671021978,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 562834,
+        "num": 562834,
+        "word": "专家科普为何北京有症状感染者更多",
+        "onboard_time": 1671019698,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 518230,
+        "num": 518230,
+        "word": "卡卡说C罗是接近完美的存在",
+        "onboard_time": 1671016397,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 517687,
+        "num": 517687,
+        "word": "许半夏决定和童骁骑一起自首",
+        "onboard_time": 1671009917,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 508713,
+        "num": 508713,
+        "word": "北京全市均调整为常态防控状态",
+        "onboard_time": 1671009798,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1447479,
+        "num": 507921,
+        "word": "白敬亭跳wadada",
+        "onboard_time": 1671022277,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1117158,
+        "num": 501864,
+        "word": "林更新 婴儿纸尿裤倒水冻起来",
+        "onboard_time": 1671024213,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 937357,
+        "num": 493434,
+        "word": "华西医院通报医学生病危",
+        "onboard_time": 1671007636,
+        "rank": 12,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 724244,
+        "num": 489085,
+        "word": "丈夫确诊妻子把脚放其额头上降温",
+        "onboard_time": 1671012975,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87991,
+        "num": 480504,
+        "word": "从海边沙漠到卡塔尔珍珠",
+        "onboard_time": 1671022827,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 602540,
+        "num": 477180,
+        "word": "同事阳了自己不去上班算旷工吗",
+        "onboard_time": 1671023132,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 474553,
+        "num": 474553,
+        "word": "山东下个月或出现首波感染高峰",
+        "onboard_time": 1671020178,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 432176,
+        "num": 432176,
+        "word": "夺冠是梅西成为球王的最关键一步",
+        "onboard_time": 1671020419,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 417128,
+        "num": 417128,
+        "word": "风吹半夏大结局",
+        "onboard_time": 1671022156,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 399343,
+        "num": 399343,
+        "word": "商家回应买N95口罩超1月不发货",
+        "onboard_time": 1671022827,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 388460,
+        "num": 388460,
+        "word": "韦神宣布退役",
+        "onboard_time": 1671015257,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 383411,
+        "num": 383411,
+        "word": "辽粤大战 赵睿",
+        "onboard_time": 1671021377,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 366351,
+        "num": 366351,
+        "word": "许半夏终于和记忆和解了",
+        "onboard_time": 1671023014,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 318523,
+        "num": 318523,
+        "word": "蔡徐坤说对于迷演唱会是有遗憾的",
+        "onboard_time": 1671024455,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 317917,
+        "num": 317917,
+        "word": "王一博成毅王鹤棣到达上海",
+        "onboard_time": 1671021798,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 313168,
+        "num": 313168,
+        "word": "京东首批增援北京快递小哥已抵达",
+        "onboard_time": 1671015856,
+        "rank": 25,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 309094,
+        "num": 309094,
+        "word": "最近半个月的精神状态",
+        "onboard_time": 1671018259,
+        "rank": 26,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 300971,
+        "num": 300971,
+        "word": "考研可设置核酸阳性考场",
+        "onboard_time": 1671010877,
+        "rank": 27,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 299118,
+        "num": 299118,
+        "word": "流星雨",
+        "onboard_time": 1671015556,
+        "rank": 28,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 292382,
+        "num": 292382,
+        "word": "混入羊群的萨摩耶",
+        "onboard_time": 1671015797,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 290138,
+        "num": 290138,
+        "word": "童骁骑在陈宇宙墓前独白",
+        "onboard_time": 1671023673,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 283624,
+        "num": 283624,
+        "word": "女子给确诊闺蜜做饭9天未感染",
+        "onboard_time": 1671011356,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257427,
+        "num": 257427,
+        "word": "沪上阿姨",
+        "onboard_time": 1670984291,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 244124,
+        "num": 244124,
+        "word": "安娜给刘烨直播黄山美景",
+        "onboard_time": 1671019099,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240015,
+        "num": 240015,
+        "word": "WBG小虎正式连接",
+        "onboard_time": 1671016997,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 231590,
+        "num": 231590,
+        "word": "Ming祝小虎好运",
+        "onboard_time": 1671019277,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 227307,
+        "num": 227307,
+        "word": "初二男生遭15人围殴刺伤3人获无罪",
+        "onboard_time": 1671009495,
+        "rank": 36,
+        "category": "社会负面,教育"
+      },
+      {
+        "raw_hot": 219023,
+        "num": 219023,
+        "word": "为什么会突然不爱了",
+        "onboard_time": 1671014115,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 217233,
+        "num": 217233,
+        "word": "新少年包拯开播",
+        "onboard_time": 1671021737,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 214976,
+        "num": 214976,
+        "word": "北京两天内现存快递积压件全部清零",
+        "onboard_time": 1671018795,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204544,
+        "num": 204544,
+        "word": "上海派出6000只麻鸭清理稻田",
+        "onboard_time": 1671009917,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203550,
+        "num": 203550,
+        "word": "辽粤大战",
+        "onboard_time": 1671020298,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199853,
+        "num": 199853,
+        "word": "天龙八部之乔峰传首支预告",
+        "onboard_time": 1671021195,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 196890,
+        "num": 196890,
+        "word": "父母都阳性8岁娃全副武装照顾",
+        "onboard_time": 1671002956,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195398,
+        "num": 195398,
+        "word": "风吹半夏",
+        "onboard_time": 1671020478,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 194175,
+        "num": 194175,
+        "word": "iG公告",
+        "onboard_time": 1671014297,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 190924,
+        "num": 190924,
+        "word": "黄雅莉新冠康复日记",
+        "onboard_time": 1671021439,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186447,
+        "num": 186447,
+        "word": "天下长河结局意难平",
+        "onboard_time": 1671024274,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 182214,
+        "num": 182214,
+        "word": "大姨防范意识一流",
+        "onboard_time": 1671024693,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 182040,
+        "num": 182040,
+        "word": "高卫东被双开",
+        "onboard_time": 1671024991,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#应对气候变化保护生物多样性#"
+    }
+  }
+}
