@@ -1,0 +1,410 @@
+{
+  "runTime": 1671013230780,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2169804,
+        "num": 2169804,
+        "word": "369确诊新冠",
+        "onboard_time": 1671008295,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1783743,
+        "num": 1783743,
+        "word": "考研可设置核酸阳性考场",
+        "onboard_time": 1671010877,
+        "rank": 1,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 542117,
+        "num": 1524090,
+        "word": "新冠疫苗第2剂加强针来了",
+        "onboard_time": 1671007756,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1324102,
+        "num": 1324102,
+        "word": "男子高烧近40度睡觉掀被子直冒烟",
+        "onboard_time": 1671010698,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1858166,
+        "num": 1285207,
+        "word": "华西医院通报医学生病危",
+        "onboard_time": 1671007636,
+        "rank": 4,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1128546,
+        "num": 1128546,
+        "word": "沪上阿姨",
+        "onboard_time": 1670984291,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1056436,
+        "num": 1056436,
+        "word": "父母都阳性8岁娃全副武装照顾",
+        "onboard_time": 1671002956,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1009484,
+        "num": 1009484,
+        "word": "初二男生遭15人围殴刺伤3人获无罪",
+        "onboard_time": 1671009495,
+        "rank": 7,
+        "category": "社会负面,教育"
+      },
+      {
+        "raw_hot": 938595,
+        "num": 938595,
+        "word": "北京全市均调整为常态防控状态",
+        "onboard_time": 1671009798,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 790826,
+        "num": 790826,
+        "word": "GQ盛典",
+        "onboard_time": 1671003136,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 710377,
+        "num": 710377,
+        "word": "女子给确诊闺蜜做饭9天未感染",
+        "onboard_time": 1671011356,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 607723,
+        "num": 607723,
+        "word": "许半夏决定和童骁骑一起自首",
+        "onboard_time": 1671009917,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 595851,
+        "num": 595851,
+        "word": "RedVelvet与aespa合作曲今日公开",
+        "onboard_time": 1671011178,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 496489,
+        "num": 496489,
+        "word": "超50%的00后都在做副业赚钱",
+        "onboard_time": 1671006018,
+        "rank": 13,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 488349,
+        "num": 488349,
+        "word": "男子世界杯花12万买彩票想退钱",
+        "onboard_time": 1671007820,
+        "rank": 14,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 479394,
+        "num": 479394,
+        "word": "上海派出6000只麻鸭清理稻田",
+        "onboard_time": 1671009917,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 459661,
+        "num": 459661,
+        "word": "各省第一波感染高峰",
+        "onboard_time": 1670987233,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 417173,
+        "num": 417173,
+        "word": "五月天新歌12月14日上线",
+        "onboard_time": 1671013096,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 381303,
+        "num": 381303,
+        "word": "yugo毕业",
+        "onboard_time": 1671007035,
+        "rank": 18,
+        "category": "动漫,网红"
+      },
+      {
+        "raw_hot": 312223,
+        "num": 312223,
+        "word": "考研",
+        "onboard_time": 1670977031,
+        "rank": 19,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 309075,
+        "num": 309075,
+        "word": "核酸阳性第几天会转阴",
+        "onboard_time": 1671002296,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245125,
+        "num": 245125,
+        "word": "少年刺伤霸凌者获无罪后因压力过大辍学",
+        "onboard_time": 1671006916,
+        "rank": 21,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 278702,
+        "num": 244140,
+        "word": "考研将分类设置考场考点",
+        "onboard_time": 1671011042,
+        "rank": 22,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 466933,
+        "num": 243848,
+        "word": "警方通报孩子在家门前遭碾压死亡",
+        "onboard_time": 1671007337,
+        "rank": 23,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 241754,
+        "num": 241754,
+        "word": "女子割腕送医跳楼身亡亲属索赔被驳",
+        "onboard_time": 1670996296,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240547,
+        "num": 240547,
+        "word": "UP英雄联盟",
+        "onboard_time": 1670990893,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 233798,
+        "num": 233798,
+        "word": "李一桐网名叫nidajie",
+        "onboard_time": 1671008835,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230616,
+        "num": 230616,
+        "word": "妈妈连续4天做饭儿子崩溃大哭",
+        "onboard_time": 1670994793,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225572,
+        "num": 225572,
+        "word": "女子炖汤忘计时一锅骨头成骨灰",
+        "onboard_time": 1671004276,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213979,
+        "num": 213979,
+        "word": "主播熬夜看梅西后直播补觉",
+        "onboard_time": 1671004698,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 212954,
+        "num": 212954,
+        "word": "TheShy",
+        "onboard_time": 1670999417,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 212403,
+        "num": 212403,
+        "word": "杨超越和小学生对暗号失败",
+        "onboard_time": 1671012256,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 200993,
+        "num": 200993,
+        "word": "黑龙江招生考试院通报志愿者拍试卷袋",
+        "onboard_time": 1671004577,
+        "rank": 32,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 192119,
+        "num": 192119,
+        "word": "蔡徐坤晴雨午后邂逅视频",
+        "onboard_time": 1671011956,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 186755,
+        "num": 186755,
+        "word": "太原一楼体外大屏现不雅按摩广告",
+        "onboard_time": 1670993416,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182447,
+        "num": 182447,
+        "word": "WBG",
+        "onboard_time": 1670990174,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 177421,
+        "num": 177421,
+        "word": "法国能和阿根廷会师吗",
+        "onboard_time": 1671013096,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172908,
+        "num": 172908,
+        "word": "林加德说梅西就是神",
+        "onboard_time": 1671011897,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172715,
+        "num": 172715,
+        "word": "第一次送礼的小流浪猫",
+        "onboard_time": 1671011596,
+        "rank": 38,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 166768,
+        "num": 166768,
+        "word": "女子感染新冠乱吃药致肝衰竭进ICU",
+        "onboard_time": 1670990232,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164550,
+        "num": 164550,
+        "word": "梅西离大力神杯只差一步了",
+        "onboard_time": 1670996956,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160481,
+        "num": 160481,
+        "word": "男子为节省抗原检测试剂自制混管",
+        "onboard_time": 1671001516,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157597,
+        "num": 157597,
+        "word": "2022年度十大黑马剧",
+        "onboard_time": 1671002236,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 155735,
+        "num": 155735,
+        "word": "时代少年团入围亚洲流行音乐大奖最佳团体",
+        "onboard_time": 1671005115,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 152242,
+        "num": 152242,
+        "word": "天津网友曝柠檬遭哄抢",
+        "onboard_time": 1670999714,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147011,
+        "num": 147011,
+        "word": "第四针",
+        "onboard_time": 1670989814,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145586,
+        "num": 145586,
+        "word": "TES",
+        "onboard_time": 1671003076,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 143542,
+        "num": 143542,
+        "word": "邢昭林感染新冠",
+        "onboard_time": 1670990418,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143527,
+        "num": 143527,
+        "word": "鹿晗战损妆造型",
+        "onboard_time": 1670996655,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 142802,
+        "num": 142802,
+        "word": "丈夫确诊妻子把脚放其额头上降温",
+        "onboard_time": 1671012975,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#应对气候变化保护生物多样性#"
+    }
+  }
+}
