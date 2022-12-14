@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1671017626523,
+  "endTime": 1671021400236,
   "band_list": [
     {
       "raw_hot": 13790167,
@@ -801,6 +801,14 @@
       "onboard_time": 1670569757,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2332621,
+      "num": 2332621,
+      "word": "复阳",
+      "onboard_time": 1671017477,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2331843,
@@ -4939,6 +4947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 793476,
+      "num": 793476,
+      "word": "京东首批增援北京快递小哥已抵达",
+      "onboard_time": 1671015856,
+      "rank": 36,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 792816,
       "num": 792816,
       "word": "孙悦 状态",
@@ -5331,14 +5347,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 759157,
-      "num": 759157,
-      "word": "京东首批增援北京快递小哥已抵达",
-      "onboard_time": 1671015856,
-      "rank": 36,
-      "category": "社会新闻,科技"
-    },
-    {
       "raw_hot": 758396,
       "num": 947911,
       "word": "网友称白色羽绒服洗出黄色水",
@@ -5619,6 +5627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 727571,
+      "num": 727571,
+      "word": "混入羊群的萨摩耶",
+      "onboard_time": 1671015797,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 727400,
       "num": 834187,
       "word": "教体局通报男老师言语骚扰初二女生",
@@ -5657,6 +5673,14 @@
       "onboard_time": 1670346612,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 722828,
+      "num": 520326,
+      "word": "妈妈阳性爸爸住公司女儿留家照顾",
+      "onboard_time": 1671019224,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 722428,
@@ -6169,6 +6193,14 @@
       "onboard_time": 1670657717,
       "rank": 11,
       "category": "体育,综艺"
+    },
+    {
+      "raw_hot": 682074,
+      "num": 682074,
+      "word": "卡卡说C罗是接近完美的存在",
+      "onboard_time": 1671016397,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 682029,
@@ -6737,6 +6769,14 @@
       "onboard_time": 1670857819,
       "rank": 39,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 650280,
+      "num": 650280,
+      "word": "WBG小虎正式连接",
+      "onboard_time": 1671016997,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 649902,
@@ -9105,6 +9145,14 @@
       "onboard_time": 1670761037,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 498210,
+      "num": 498210,
+      "word": "辽粤大战 赵睿",
+      "onboard_time": 1671021377,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 497472,
@@ -11963,6 +12011,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 389440,
+      "num": 389440,
+      "word": "Ming祝小虎好运",
+      "onboard_time": 1671019277,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 389320,
       "num": 334036,
       "word": "世界杯 裁判",
@@ -12321,6 +12377,14 @@
       "onboard_time": 1670003413,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 375880,
+      "num": 375880,
+      "word": "风吹半夏",
+      "onboard_time": 1670502558,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 375837,
@@ -13627,14 +13691,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 333703,
-      "num": 333703,
-      "word": "卡卡说C罗是接近完美的存在",
-      "onboard_time": 1671016397,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 333018,
       "num": 333018,
       "word": "朱婷21分",
@@ -13652,7 +13708,7 @@
     },
     {
       "raw_hot": 332827,
-      "num": 218453,
+      "num": 228602,
       "word": "TT官宣Huanfeng加入",
       "onboard_time": 1671016456,
       "rank": 47,
@@ -13937,6 +13993,14 @@
       "onboard_time": 1669896132,
       "rank": 15,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 326242,
+      "num": 326242,
+      "word": "北京两天内现存快递积压件全部清零",
+      "onboard_time": 1671018795,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 326015,
@@ -16683,6 +16747,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 263527,
+      "num": 263527,
+      "word": "专家科普为何北京有症状感染者更多",
+      "onboard_time": 1671019698,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 263266,
       "num": 263266,
       "word": "男孩时隔4个月见父母礼貌喊叔叔",
@@ -16905,6 +16977,14 @@
       "onboard_time": 1669990750,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 258748,
+      "num": 258748,
+      "word": "最近半个月的精神状态",
+      "onboard_time": 1671018259,
+      "rank": 27,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 258603,
@@ -17379,14 +17459,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 249123,
-      "num": 249123,
-      "word": "风吹半夏",
-      "onboard_time": 1670502558,
-      "rank": 39,
-      "category": "影视"
-    },
-    {
       "raw_hot": 249120,
       "num": 249120,
       "word": "赵垒终于知道自己有多爱许半夏",
@@ -17681,6 +17753,14 @@
       "onboard_time": 1670564356,
       "rank": 24,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 243878,
+      "num": 243878,
+      "word": "裴珠泫BeautifulChristmasMV镜头",
+      "onboard_time": 1671017839,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 243847,
@@ -18073,6 +18153,14 @@
       "onboard_time": 1670847136,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 235259,
+      "num": 235259,
+      "word": "王源跳客厅狂欢舞蹈视频",
+      "onboard_time": 1671019099,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 235253,
@@ -19355,14 +19443,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 213221,
-      "num": 213221,
-      "word": "混入羊群的萨摩耶",
-      "onboard_time": 1671015797,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 212957,
       "num": 212957,
       "word": "微博综艺大赏",
@@ -20075,14 +20155,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 201271,
-      "num": 201271,
-      "word": "WBG小虎正式连接",
-      "onboard_time": 1671016997,
-      "rank": 36,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 201249,
       "num": 155784,
       "word": "新少年包拯定档1214",
@@ -20201,6 +20273,14 @@
       "onboard_time": 1671001396,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 199193,
+      "num": 199193,
+      "word": "夺冠是梅西成为球王的最关键一步",
+      "onboard_time": 1671020419,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 198870,
@@ -20361,6 +20441,14 @@
       "onboard_time": 1670403792,
       "rank": 43,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 196622,
+      "num": 196622,
+      "word": "OST一响会哭的程度",
+      "onboard_time": 1671015978,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 196547,
@@ -21595,6 +21683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 182920,
+      "num": 182920,
+      "word": "OMG官宣新赛季大名单",
+      "onboard_time": 1671018138,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 182874,
       "num": 182874,
       "word": "欧豪说童骁骑的反骨被正骨了",
@@ -22003,14 +22099,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 179315,
-      "num": 179315,
-      "word": "OST一响会哭的程度",
-      "onboard_time": 1671015978,
-      "rank": 45,
-      "category": "影视"
-    },
-    {
       "raw_hot": 179136,
       "num": 179136,
       "word": "用实力说话的女演员有多酷",
@@ -22289,6 +22377,14 @@
       "onboard_time": 1669965551,
       "rank": 39,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 176394,
+      "num": 176394,
+      "word": "梅晓歌当众道歉",
+      "onboard_time": 1671017718,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 176389,
@@ -23259,6 +23355,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 166475,
+      "num": 166475,
+      "word": "山东下个月或出现首波感染高峰",
+      "onboard_time": 1671020178,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 166429,
       "num": 166429,
       "word": "这就是破碎感美人吧",
@@ -23425,6 +23529,14 @@
       "onboard_time": 1670506278,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 164793,
+      "num": 164793,
+      "word": "员工给工位贴杨迪照片寓意阳敌护体",
+      "onboard_time": 1671020236,
+      "rank": 43,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 164617,
@@ -23947,14 +24059,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 159185,
-      "num": 159185,
-      "word": "复阳",
-      "onboard_time": 1671017477,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 159078,
       "num": 159078,
       "word": "云南大理是懂浪漫的",
@@ -24289,6 +24393,14 @@
       "onboard_time": 1670059959,
       "rank": 31,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 155229,
+      "num": 155229,
+      "word": "天龙八部之乔峰传首支预告",
+      "onboard_time": 1671021195,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 155183,
@@ -25283,6 +25395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 145019,
+      "num": 145019,
+      "word": "马丽为网传鞋码在线回应",
+      "onboard_time": 1671019099,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 144972,
       "num": 144972,
       "word": "周传雄回顾我们的歌表达感谢",
@@ -26057,6 +26177,14 @@
       "onboard_time": 1670129230,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 137643,
+      "num": 137643,
+      "word": "雪后黄山秒变仙侠世界",
+      "onboard_time": 1671021257,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 137526,

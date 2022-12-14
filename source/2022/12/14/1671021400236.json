@@ -1,0 +1,410 @@
+{
+  "runTime": 1671021400236,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2332621,
+        "num": 2332621,
+        "word": "复阳",
+        "onboard_time": 1671017477,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1875109,
+        "num": 1875109,
+        "word": "男子高烧近40度睡觉掀被子直冒烟",
+        "onboard_time": 1671010698,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365493,
+        "num": 1172690,
+        "word": "新冠疫苗第2剂加强针来了",
+        "onboard_time": 1671007756,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 846563,
+        "num": 846563,
+        "word": "韦神宣布退役",
+        "onboard_time": 1671015257,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 793476,
+        "num": 793476,
+        "word": "京东首批增援北京快递小哥已抵达",
+        "onboard_time": 1671015856,
+        "rank": 4,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 727571,
+        "num": 727571,
+        "word": "混入羊群的萨摩耶",
+        "onboard_time": 1671015797,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 682074,
+        "num": 682074,
+        "word": "卡卡说C罗是接近完美的存在",
+        "onboard_time": 1671016397,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 650280,
+        "num": 650280,
+        "word": "WBG小虎正式连接",
+        "onboard_time": 1671016997,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 553930,
+        "num": 553930,
+        "word": "考研可设置核酸阳性考场",
+        "onboard_time": 1671010877,
+        "rank": 8,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 522475,
+        "num": 522475,
+        "word": "许半夏决定和童骁骑一起自首",
+        "onboard_time": 1671009917,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1090480,
+        "num": 521002,
+        "word": "华西医院通报医学生病危",
+        "onboard_time": 1671007636,
+        "rank": 10,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 977577,
+        "num": 520893,
+        "word": "丈夫确诊妻子把脚放其额头上降温",
+        "onboard_time": 1671012975,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 722828,
+        "num": 520326,
+        "word": "妈妈阳性爸爸住公司女儿留家照顾",
+        "onboard_time": 1671019224,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 518736,
+        "num": 518736,
+        "word": "北京全市均调整为常态防控状态",
+        "onboard_time": 1671009798,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 498210,
+        "num": 498210,
+        "word": "辽粤大战 赵睿",
+        "onboard_time": 1671021377,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 497060,
+        "num": 497060,
+        "word": "沪上阿姨",
+        "onboard_time": 1670984291,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 468536,
+        "num": 468536,
+        "word": "女子给确诊闺蜜做饭9天未感染",
+        "onboard_time": 1671011356,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 407936,
+        "num": 407936,
+        "word": "父母都阳性8岁娃全副武装照顾",
+        "onboard_time": 1671002956,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 389440,
+        "num": 389440,
+        "word": "Ming祝小虎好运",
+        "onboard_time": 1671019277,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 375880,
+        "num": 375880,
+        "word": "风吹半夏",
+        "onboard_time": 1671020478,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 326242,
+        "num": 326242,
+        "word": "北京两天内现存快递积压件全部清零",
+        "onboard_time": 1671018795,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321209,
+        "num": 321209,
+        "word": "369确诊新冠",
+        "onboard_time": 1671008295,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 300964,
+        "num": 300964,
+        "word": "初二男生遭15人围殴刺伤3人获无罪",
+        "onboard_time": 1671009495,
+        "rank": 22,
+        "category": "社会负面,教育"
+      },
+      {
+        "raw_hot": 287375,
+        "num": 287375,
+        "word": "上海派出6000只麻鸭清理稻田",
+        "onboard_time": 1671009917,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274613,
+        "num": 274613,
+        "word": "GQ盛典",
+        "onboard_time": 1671003136,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 263527,
+        "num": 263527,
+        "word": "专家科普为何北京有症状感染者更多",
+        "onboard_time": 1671019698,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260949,
+        "num": 260949,
+        "word": "iG公告",
+        "onboard_time": 1671014297,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 258748,
+        "num": 258748,
+        "word": "最近半个月的精神状态",
+        "onboard_time": 1671018259,
+        "rank": 27,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 243878,
+        "num": 243878,
+        "word": "裴珠泫BeautifulChristmasMV镜头",
+        "onboard_time": 1671017839,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 241065,
+        "num": 241065,
+        "word": "为什么会突然不爱了",
+        "onboard_time": 1671014115,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 235259,
+        "num": 235259,
+        "word": "王源跳客厅狂欢舞蹈视频",
+        "onboard_time": 1671019099,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 228602,
+        "num": 228602,
+        "word": "TT官宣Huanfeng加入",
+        "onboard_time": 1671016456,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 219683,
+        "num": 219683,
+        "word": "男子世界杯花12万买彩票想退钱",
+        "onboard_time": 1671007820,
+        "rank": 32,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 208804,
+        "num": 208804,
+        "word": "流星雨",
+        "onboard_time": 1671015556,
+        "rank": 33,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 199193,
+        "num": 199193,
+        "word": "夺冠是梅西成为球王的最关键一步",
+        "onboard_time": 1671020419,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196622,
+        "num": 196622,
+        "word": "OST一响会哭的程度",
+        "onboard_time": 1671015978,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 194237,
+        "num": 194237,
+        "word": "Scout与Loud经纪公司签约",
+        "onboard_time": 1671013875,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 189871,
+        "num": 189871,
+        "word": "杨紫说一次开心的拍摄谢谢大家",
+        "onboard_time": 1671013576,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 182920,
+        "num": 182920,
+        "word": "OMG官宣新赛季大名单",
+        "onboard_time": 1671018138,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 177854,
+        "num": 177854,
+        "word": "RedVelvet与aespa合作曲今日公开",
+        "onboard_time": 1671011178,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 176394,
+        "num": 176394,
+        "word": "梅晓歌当众道歉",
+        "onboard_time": 1671017718,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 175622,
+        "num": 175622,
+        "word": "超50%的00后都在做副业赚钱",
+        "onboard_time": 1671006018,
+        "rank": 41,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 166475,
+        "num": 166475,
+        "word": "山东下个月或出现首波感染高峰",
+        "onboard_time": 1671020178,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164793,
+        "num": 164793,
+        "word": "员工给工位贴杨迪照片寓意阳敌护体",
+        "onboard_time": 1671020236,
+        "rank": 43,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 156677,
+        "num": 156677,
+        "word": "EDG",
+        "onboard_time": 1671017779,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 155229,
+        "num": 155229,
+        "word": "天龙八部之乔峰传首支预告",
+        "onboard_time": 1671021195,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 152261,
+        "num": 152261,
+        "word": "核酸阳性第几天会转阴",
+        "onboard_time": 1671002296,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146711,
+        "num": 146711,
+        "word": "杨超越和小学生对暗号失败",
+        "onboard_time": 1671012256,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 145019,
+        "num": 145019,
+        "word": "马丽为网传鞋码在线回应",
+        "onboard_time": 1671019099,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 137643,
+        "num": 137643,
+        "word": "雪后黄山秒变仙侠世界",
+        "onboard_time": 1671021257,
+        "rank": 49,
+        "category": "旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#新时代新征程新伟业#"
+    }
+  }
+}
