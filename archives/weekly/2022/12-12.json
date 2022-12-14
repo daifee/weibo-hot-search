@@ -1,6 +1,6 @@
 {
   "startTime": 1670775913271,
-  "endTime": 1671007120696,
+  "endTime": 1671009501962,
   "band_list": [
     {
       "raw_hot": 4870645,
@@ -57,6 +57,14 @@
       "onboard_time": 1670987233,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3542523,
+      "num": 3542523,
+      "word": "华西医院通报医学生阳性病危",
+      "onboard_time": 1671007636,
+      "rank": 0,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 3447409,
@@ -691,6 +699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1027271,
+      "num": 1027271,
+      "word": "超50%的00后都在做副业赚钱",
+      "onboard_time": 1671006018,
+      "rank": 42,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 1023233,
       "num": 1023233,
       "word": "顾客买49.9元草莓塔全是绿色草莓",
@@ -795,6 +811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 956272,
+      "num": 637411,
+      "word": "369确诊新冠",
+      "onboard_time": 1671008295,
+      "rank": 10,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 954387,
       "num": 954387,
       "word": "谷歌拒将正确中国国歌置顶",
@@ -897,6 +921,14 @@
       "onboard_time": 1670770825,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 859692,
+      "num": 859692,
+      "word": "yugo毕业",
+      "onboard_time": 1671007035,
+      "rank": 12,
+      "category": "网红"
     },
     {
       "raw_hot": 859131,
@@ -1475,12 +1507,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 586302,
+      "num": 1549413,
+      "word": "新冠疫苗第2剂加强针来了",
+      "onboard_time": 1671007756,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 585786,
       "num": 585786,
       "word": "行程卡纪念版",
       "onboard_time": 1670945352,
       "rank": 30,
       "category": "科技"
+    },
+    {
+      "raw_hot": 585278,
+      "num": 585278,
+      "word": "警方通报孩子在家门前遭碾压死亡",
+      "onboard_time": 1671007337,
+      "rank": 11,
+      "category": "社会负面"
     },
     {
       "raw_hot": 584949,
@@ -1571,14 +1619,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 558076,
-      "num": 558076,
-      "word": "超50%的00后都在做副业赚钱",
-      "onboard_time": 1671006018,
-      "rank": 42,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 557276,
       "num": 557276,
       "word": "梅西成为阿根廷队世界杯射手王",
@@ -1657,6 +1697,14 @@
       "onboard_time": 1670827755,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 537918,
+      "num": 537918,
+      "word": "女子炖汤忘计时一锅骨头成骨灰",
+      "onboard_time": 1671004276,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 535854,
@@ -1851,14 +1899,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 487193,
-      "num": 487193,
-      "word": "yugo毕业",
-      "onboard_time": 1671007035,
-      "rank": 12,
-      "category": "网红"
-    },
-    {
       "raw_hot": 486632,
       "num": 486632,
       "word": "王若吉",
@@ -1979,20 +2019,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 463160,
-      "num": 463160,
-      "word": "女子炖汤忘计时一锅骨头成骨灰",
-      "onboard_time": 1671004276,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 462771,
       "num": 462771,
       "word": "RNG 转会期",
       "onboard_time": 1670983090,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 462511,
+      "num": 462511,
+      "word": "李一桐网名叫nidajie",
+      "onboard_time": 1671008835,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 462490,
@@ -2769,6 +2809,14 @@
       "onboard_time": 1670985432,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 329922,
+      "num": 329922,
+      "word": "男子世界杯花12万买彩票想退钱",
+      "onboard_time": 1671007820,
+      "rank": 17,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 328058,
@@ -3627,12 +3675,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 242405,
+      "num": 242405,
+      "word": "少年刺伤霸凌者获无罪后因压力过大辍学",
+      "onboard_time": 1671006916,
+      "rank": 39,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 241119,
       "num": 241119,
       "word": "老师讲人体结构叫男生脱衣展示",
       "onboard_time": 1670941335,
       "rank": 41,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 240973,
+      "num": 240973,
+      "word": "去乌镇吃碗羊肉面有多惬意",
+      "onboard_time": 1671007996,
+      "rank": 26,
+      "category": "美食"
     },
     {
       "raw_hot": 240726,
@@ -4131,6 +4195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 202861,
+      "num": 202861,
+      "word": "Iwandy加入WE",
+      "onboard_time": 1671008536,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 202853,
       "num": 202853,
       "word": "德尚说摩洛哥晋级是理所当然的",
@@ -4571,14 +4643,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 181133,
-      "num": 181133,
-      "word": "少年刺伤霸凌者获无罪后因压力过大辍学",
-      "onboard_time": 1671006916,
-      "rank": 39,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 180989,
       "num": 180989,
       "word": "疾控局回应第二剂次加强针接种问题",
@@ -4737,6 +4801,14 @@
       "onboard_time": 1670935874,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 173682,
+      "num": 151642,
+      "word": "初二男生遭15人围殴刺伤3人获无罪",
+      "onboard_time": 1671009495,
+      "rank": 47,
+      "category": "社会负面,教育"
     },
     {
       "raw_hot": 173334,

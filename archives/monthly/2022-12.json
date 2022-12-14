@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1671007120696,
+  "endTime": 1671009501962,
   "band_list": [
     {
       "raw_hot": 13790167,
@@ -281,6 +281,14 @@
       "onboard_time": 1670207890,
       "rank": 21,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 3542523,
+      "num": 3542523,
+      "word": "华西医院通报医学生阳性病危",
+      "onboard_time": 1671007636,
+      "rank": 0,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 3520566,
@@ -3347,6 +3355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1027271,
+      "num": 1027271,
+      "word": "超50%的00后都在做副业赚钱",
+      "onboard_time": 1671006018,
+      "rank": 42,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 1026920,
       "num": 839432,
       "word": "高辛夷怀孕",
@@ -3665,6 +3681,14 @@
       "onboard_time": 1670809815,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 956272,
+      "num": 637411,
+      "word": "369确诊新冠",
+      "onboard_time": 1671008295,
+      "rank": 10,
+      "category": "游戏"
     },
     {
       "raw_hot": 954387,
@@ -4289,6 +4313,14 @@
       "onboard_time": 1669968971,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 859692,
+      "num": 859692,
+      "word": "yugo毕业",
+      "onboard_time": 1671007035,
+      "rank": 12,
+      "category": "网红"
     },
     {
       "raw_hot": 859531,
@@ -7483,6 +7515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 586302,
+      "num": 1549413,
+      "word": "新冠疫苗第2剂加强针来了",
+      "onboard_time": 1671007756,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 585992,
       "num": 452178,
       "word": "苏醒为了梅西能夺冠有多拼",
@@ -7513,6 +7553,14 @@
       "onboard_time": 1669962130,
       "rank": 39,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 585278,
+      "num": 585278,
+      "word": "警方通报孩子在家门前遭碾压死亡",
+      "onboard_time": 1671007337,
+      "rank": 11,
+      "category": "社会负面"
     },
     {
       "raw_hot": 584949,
@@ -7923,14 +7971,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 558076,
-      "num": 558076,
-      "word": "超50%的00后都在做副业赚钱",
-      "onboard_time": 1671006018,
-      "rank": 42,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 557496,
       "num": 889943,
       "word": "男子停车半小时车身独得鸟屎全覆盖",
@@ -8257,6 +8297,14 @@
       "onboard_time": 1670171531,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 537918,
+      "num": 537918,
+      "word": "女子炖汤忘计时一锅骨头成骨灰",
+      "onboard_time": 1671004276,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 537904,
@@ -9171,14 +9219,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 487193,
-      "num": 487193,
-      "word": "yugo毕业",
-      "onboard_time": 1671007035,
-      "rank": 12,
-      "category": "网红"
-    },
-    {
       "raw_hot": 486632,
       "num": 486632,
       "word": "王若吉",
@@ -9739,14 +9779,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 463160,
-      "num": 463160,
-      "word": "女子炖汤忘计时一锅骨头成骨灰",
-      "onboard_time": 1671004276,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 462973,
       "num": 462973,
       "word": "秦施为阳华霸气讨公道",
@@ -9761,6 +9793,14 @@
       "onboard_time": 1670983090,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 462511,
+      "num": 462511,
+      "word": "李一桐网名叫nidajie",
+      "onboard_time": 1671008835,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 462490,
@@ -13569,6 +13609,14 @@
       "onboard_time": 1670204289,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 329922,
+      "num": 329922,
+      "word": "男子世界杯花12万买彩票想退钱",
+      "onboard_time": 1671007820,
+      "rank": 17,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 329692,
@@ -17507,6 +17555,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 242405,
+      "num": 242405,
+      "word": "少年刺伤霸凌者获无罪后因压力过大辍学",
+      "onboard_time": 1671006916,
+      "rank": 39,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 242185,
       "num": 242185,
       "word": "以手换命女子出院与被救儿童母亲相拥而泣",
@@ -17537,6 +17593,14 @@
       "onboard_time": 1670679319,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 240973,
+      "num": 240973,
+      "word": "去乌镇吃碗羊肉面有多惬意",
+      "onboard_time": 1671007996,
+      "rank": 26,
+      "category": "美食"
     },
     {
       "raw_hot": 240762,
@@ -19651,6 +19715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 202861,
+      "num": 202861,
+      "word": "Iwandy加入WE",
+      "onboard_time": 1671008536,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 202853,
       "num": 202853,
       "word": "德尚说摩洛哥晋级是理所当然的",
@@ -21443,14 +21515,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 181133,
-      "num": 181133,
-      "word": "少年刺伤霸凌者获无罪后因压力过大辍学",
-      "onboard_time": 1671006916,
-      "rank": 39,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 181123,
       "num": 181123,
       "word": "超40地启动新一轮消费券发放",
@@ -22177,6 +22241,14 @@
       "onboard_time": 1669853828,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 173682,
+      "num": 151642,
+      "word": "初二男生遭15人围殴刺伤3人获无罪",
+      "onboard_time": 1671009495,
+      "rank": 47,
+      "category": "社会负面,教育"
     },
     {
       "raw_hot": 173541,
