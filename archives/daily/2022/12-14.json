@@ -1,6 +1,6 @@
 {
   "startTime": 1670948842910,
-  "endTime": 1670983545919,
+  "endTime": 1670986202570,
   "band_list": [
     {
       "raw_hot": 3447409,
@@ -27,6 +27,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2091548,
+      "num": 2091548,
+      "word": "远嫁非洲女孩周周回应现状",
+      "onboard_time": 1670980691,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1875241,
       "num": 1875241,
       "word": "梅西",
@@ -35,16 +43,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1787952,
-      "num": 1787952,
-      "word": "远嫁非洲女孩周周回应现状",
-      "onboard_time": 1670980691,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1533759,
-      "num": 1533759,
+      "raw_hot": 1799372,
+      "num": 1799372,
       "word": "考研",
       "onboard_time": 1670977031,
       "rank": 9,
@@ -139,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1004625,
+      "num": 1004625,
+      "word": "沪上阿姨",
+      "onboard_time": 1670984291,
+      "rank": 5,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 897409,
       "num": 897409,
       "word": "梅西点球破门",
@@ -147,19 +155,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 859131,
+      "num": 859131,
+      "word": "今天起不再公布无症状感染者数据",
+      "onboard_time": 1670981414,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 847772,
       "num": 847772,
       "word": "女子混吃7种感冒止咳药全身长满脓疱",
       "onboard_time": 1670944694,
       "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 818725,
-      "num": 818725,
-      "word": "今天起不再公布无症状感染者数据",
-      "onboard_time": 1670981414,
-      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -227,6 +235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 622852,
+      "num": 622852,
+      "word": "莫德里奇质疑裁判判罚",
+      "onboard_time": 1670982791,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 585786,
       "num": 585786,
       "word": "行程卡纪念版",
@@ -241,6 +257,14 @@
       "onboard_time": 1670942533,
       "rank": 7,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 561283,
+      "num": 561283,
+      "word": "地狱犬",
+      "onboard_time": 1670982014,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 559668,
@@ -355,12 +379,12 @@
       "category": "体育,音乐"
     },
     {
-      "raw_hot": 409701,
-      "num": 409701,
-      "word": "地狱犬",
-      "onboard_time": 1670982014,
-      "rank": 19,
-      "category": "社会新闻"
+      "raw_hot": 411101,
+      "num": 411101,
+      "word": "RNG 转会期",
+      "onboard_time": 1670983090,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 398905,
@@ -385,6 +409,22 @@
       "onboard_time": 1670940674,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 371348,
+      "num": 254555,
+      "word": "梅西发文庆祝晋级决赛",
+      "onboard_time": 1670985671,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 369286,
+      "num": 369286,
+      "word": "陈奕迅打进世界杯半决赛",
+      "onboard_time": 1670985071,
+      "rank": 22,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 358475,
@@ -419,6 +459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 306422,
+      "num": 293487,
+      "word": "梅西笑了我也笑了",
+      "onboard_time": 1670982492,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 304546,
       "num": 304546,
       "word": "新冠特效药阿兹夫定可线上购买",
@@ -449,6 +497,14 @@
       "onboard_time": 1670964251,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 284787,
+      "num": 284787,
+      "word": "江苏省考",
+      "onboard_time": 1670982614,
+      "rank": 34,
+      "category": "教育"
     },
     {
       "raw_hot": 282918,
@@ -531,6 +587,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 258028,
+      "num": 258028,
+      "word": "消防员火场拎出一脸生无可恋狗子",
+      "onboard_time": 1670984051,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 256139,
       "num": 256139,
       "word": "魔笛被换下",
@@ -561,6 +625,22 @@
       "onboard_time": 1670978651,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 245215,
+      "num": 245215,
+      "word": "虞书欣云之羽最新上班路透",
+      "onboard_time": 1670985731,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 239878,
+      "num": 239878,
+      "word": "胡彦斌说卢歌忘记了善良",
+      "onboard_time": 1670985131,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 231919,
@@ -611,20 +691,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 213288,
-      "num": 213288,
-      "word": "RNG 转会期",
-      "onboard_time": 1670983090,
-      "rank": 33,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 212784,
-      "num": 212784,
-      "word": "江苏省考",
-      "onboard_time": 1670982614,
-      "rank": 34,
-      "category": "教育"
+      "raw_hot": 205810,
+      "num": 205810,
+      "word": "县委大院李保平酒后吐真言",
+      "onboard_time": 1670986032,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 203197,
@@ -641,6 +713,14 @@
       "onboard_time": 1670929217,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 189716,
+      "num": 189716,
+      "word": "伟大的战争有朱一龙",
+      "onboard_time": 1670983570,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 185137,
@@ -731,6 +811,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 167975,
+      "num": 167975,
+      "word": "沈月无限超越班最新上班路透",
+      "onboard_time": 1670984951,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 167269,
       "num": 167269,
       "word": "张元英AAA主持出场视频",
@@ -747,6 +835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 164381,
+      "num": 164381,
+      "word": "赵丽颖风吹半夏收官剧照",
+      "onboard_time": 1670985973,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 159757,
       "num": 159757,
       "word": "35岁梅西对阵37岁莫德里奇",
@@ -761,6 +857,14 @@
       "onboard_time": 1670974389,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 157606,
+      "num": 157606,
+      "word": "男子称自家晾晒藕粉疑遭邻居撒农药",
+      "onboard_time": 1670985432,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 155965,
@@ -787,20 +891,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 151380,
+      "num": 151380,
+      "word": "深大计算机系学生作业是养鹅",
+      "onboard_time": 1670986151,
+      "rank": 48,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 150001,
       "num": 150001,
       "word": "这门票太值了",
       "onboard_time": 1670949432,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 147640,
-      "num": 147640,
-      "word": "梅西笑了我也笑了",
-      "onboard_time": 1670982492,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 146275,
@@ -955,6 +1059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 74458,
+      "num": 567840,
+      "word": "世界杯万能玩梗句式",
+      "onboard_time": 1670983214,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 69945,
       "num": 1824560,
       "word": "不同年龄段儿童退烧药怎么选",
@@ -1001,14 +1113,6 @@
       "onboard_time": 1670935573,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 9438,
-      "num": 567840,
-      "word": "世界杯万能玩梗句式",
-      "onboard_time": 1670983214,
-      "rank": 14,
-      "category": "体育"
     }
   ],
   "hotgov_list": [
