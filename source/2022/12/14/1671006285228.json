@@ -1,0 +1,410 @@
+{
+  "runTime": 1671006285228,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3808693,
+        "num": 3808693,
+        "word": "沪上阿姨",
+        "onboard_time": 1670984291,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 2233141,
+        "num": 2233141,
+        "word": "各省第一波感染高峰",
+        "onboard_time": 1670987233,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139609,
+        "num": 1238424,
+        "word": "防治奥密克戎17个热点问题",
+        "onboard_time": 1670989152,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1207754,
+        "num": 1207754,
+        "word": "父母都阳性8岁娃全副武装照顾",
+        "onboard_time": 1671002956,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 970234,
+        "num": 970234,
+        "word": "GQ盛典",
+        "onboard_time": 1671003136,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 873897,
+        "num": 873897,
+        "word": "核酸阳性第几天会转阴",
+        "onboard_time": 1671002296,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 780613,
+        "num": 780613,
+        "word": "天津网友曝柠檬遭哄抢",
+        "onboard_time": 1670999714,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 660023,
+        "num": 660023,
+        "word": "考研",
+        "onboard_time": 1670977031,
+        "rank": 7,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 656100,
+        "num": 656100,
+        "word": "男子为节省抗原检测试剂自制混管",
+        "onboard_time": 1671001516,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 636595,
+        "num": 636595,
+        "word": "被请回答1988花絮笑死",
+        "onboard_time": 1671000556,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 630958,
+        "num": 630958,
+        "word": "黑龙江招生考试院通报志愿者拍试卷袋",
+        "onboard_time": 1671004577,
+        "rank": 10,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 536816,
+        "num": 536816,
+        "word": "女子割腕送医跳楼身亡亲属索赔被驳",
+        "onboard_time": 1670996296,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 505994,
+        "num": 505994,
+        "word": "主播熬夜看梅西后直播补觉",
+        "onboard_time": 1671004698,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 458801,
+        "num": 458801,
+        "word": "妈妈连续4天做饭儿子崩溃大哭",
+        "onboard_time": 1670994793,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 421150,
+        "num": 421150,
+        "word": "太原一楼体外大屏现不雅按摩广告",
+        "onboard_time": 1670993416,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 409247,
+        "num": 409247,
+        "word": "TheShy",
+        "onboard_time": 1670999417,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 393243,
+        "num": 393243,
+        "word": "女子炖汤忘计时一锅骨头成骨灰",
+        "onboard_time": 1671004276,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 379918,
+        "num": 379918,
+        "word": "张云龙官宣妻子的浪漫旅行6",
+        "onboard_time": 1670995334,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 333984,
+        "num": 333984,
+        "word": "第4针来了",
+        "onboard_time": 1670993713,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326598,
+        "num": 326598,
+        "word": "TES",
+        "onboard_time": 1671003076,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 312187,
+        "num": 312187,
+        "word": "梅西离大力神杯只差一步了",
+        "onboard_time": 1670996956,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 311533,
+        "num": 311533,
+        "word": "吴彤把尔冬升叫成陈凯歌",
+        "onboard_time": 1670997494,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 310968,
+        "num": 310968,
+        "word": "刘耀文贺峻霖舞台比心wink",
+        "onboard_time": 1671004822,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 295483,
+        "num": 295483,
+        "word": "第四针",
+        "onboard_time": 1670989814,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272306,
+        "num": 272306,
+        "word": "痰咳不出来试试这个姿势",
+        "onboard_time": 1670999175,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 266030,
+        "num": 266030,
+        "word": "光与夜之恋",
+        "onboard_time": 1670992394,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 261117,
+        "num": 261117,
+        "word": "2022年度十大黑马剧",
+        "onboard_time": 1671002236,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 258060,
+        "num": 258060,
+        "word": "女子感染新冠乱吃药致肝衰竭进ICU",
+        "onboard_time": 1670990232,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238947,
+        "num": 238947,
+        "word": "邢昭林感染新冠",
+        "onboard_time": 1670990418,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195663,
+        "num": 233274,
+        "word": "男子科目一作弊从头到脚高科技",
+        "onboard_time": 1670998755,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232923,
+        "num": 232923,
+        "word": "淘宝公布2022年度十大宝贝",
+        "onboard_time": 1670992660,
+        "rank": 30,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 230939,
+        "num": 230939,
+        "word": "2岁娃误把黄豆放鼻孔10天被泡发",
+        "onboard_time": 1670992816,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229501,
+        "num": 229501,
+        "word": "时代少年团入围亚洲流行音乐大奖最佳团体",
+        "onboard_time": 1671005115,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 224159,
+        "num": 224159,
+        "word": "专家研判一个多月内或达到感染高峰",
+        "onboard_time": 1670993654,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216508,
+        "num": 216508,
+        "word": "鹿晗战损妆造型",
+        "onboard_time": 1670996655,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 216262,
+        "num": 216262,
+        "word": "何运晨当卧底有点东西",
+        "onboard_time": 1671003795,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205759,
+        "num": 205759,
+        "word": "WBG主教练Easyhoon",
+        "onboard_time": 1671003076,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 197345,
+        "num": 197345,
+        "word": "婆婆打牌赢钱给儿媳当零花",
+        "onboard_time": 1671001396,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190511,
+        "num": 190511,
+        "word": "赵垒对许半夏说你开心最重要",
+        "onboard_time": 1671004515,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 186436,
+        "num": 186436,
+        "word": "UP英雄联盟",
+        "onboard_time": 1670990893,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 185763,
+        "num": 185763,
+        "word": "张彬彬唱月歌行OST半心劫",
+        "onboard_time": 1671006018,
+        "rank": 40,
+        "category": "影视,音乐"
+      },
+      {
+        "raw_hot": 180989,
+        "num": 180989,
+        "word": "疾控局回应第二剂次加强针接种问题",
+        "onboard_time": 1671005656,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180626,
+        "num": 180626,
+        "word": "超50%的00后都在做副业赚钱",
+        "onboard_time": 1671006018,
+        "rank": 42,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 180590,
+        "num": 180590,
+        "word": "高中同学车祸失忆全班接力救助17年",
+        "onboard_time": 1670989453,
+        "rank": 43,
+        "category": "社会正能量,教育"
+      },
+      {
+        "raw_hot": 180149,
+        "num": 180149,
+        "word": "赵樱子想演小龙女",
+        "onboard_time": 1670999294,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174907,
+        "num": 174907,
+        "word": "流浪地球",
+        "onboard_time": 1670997494,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 164961,
+        "num": 164961,
+        "word": "电影想见你黄雨萱预告",
+        "onboard_time": 1670994194,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 163665,
+        "num": 163665,
+        "word": "逆水寒新时装赤狐魅语",
+        "onboard_time": 1671005776,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 160358,
+        "num": 160358,
+        "word": "baolan",
+        "onboard_time": 1670991793,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 144072,
+        "num": 144072,
+        "word": "WBG",
+        "onboard_time": 1670990174,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#新时代新征程新伟业#"
+    }
+  }
+}
