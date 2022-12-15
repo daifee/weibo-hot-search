@@ -1,6 +1,6 @@
 {
   "startTime": 1671121651972,
-  "endTime": 1671122754259,
+  "endTime": 1671124654750,
   "band_list": [
     {
       "raw_hot": 1139606,
@@ -123,8 +123,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 339946,
-      "num": 339946,
+      "raw_hot": 344901,
+      "num": 344901,
       "word": "摩洛哥官方抗议半决赛判罚",
       "onboard_time": 1671119611,
       "rank": 17,
@@ -259,6 +259,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 189365,
+      "num": 189365,
+      "word": "卫龙破发",
+      "onboard_time": 1671121526,
+      "rank": 39,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 181224,
       "num": 181224,
       "word": "美国白宫将重启免费新冠居家检测",
@@ -275,11 +283,27 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 171753,
+      "num": 171753,
+      "word": "商家推出小羊人套餐被质疑抖机灵",
+      "onboard_time": 1671119852,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162282,
       "num": 162282,
       "word": "公交司机贴退烧贴吓坏乘客",
       "onboard_time": 1671116979,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 158175,
+      "num": 158175,
+      "word": "美国驻华使馆暂停所有常规签证服务",
+      "onboard_time": 1671121947,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -305,14 +329,6 @@
       "onboard_time": 1671119548,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 151582,
-      "num": 151582,
-      "word": "商家推出小羊人套餐被质疑抖机灵",
-      "onboard_time": 1671119852,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 151527,
@@ -379,20 +395,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 108944,
-      "num": 108944,
-      "word": "卫龙破发",
-      "onboard_time": 1671121526,
-      "rank": 39,
-      "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 102487,
-      "num": 102487,
+      "raw_hot": 116642,
+      "num": 116642,
       "word": "拥有两千多个杯子是什么体验",
       "onboard_time": 1671120272,
       "rank": 47,
       "category": "时尚,幽默"
+    },
+    {
+      "raw_hot": 112300,
+      "num": 82907,
+      "word": "被张若昀GQ红毯拽到",
+      "onboard_time": 1671123921,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 100745,
@@ -417,11 +433,22 @@
       "onboard_time": 1671094773,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 54779,
+      "num": 60785,
+      "word": "央视解说严肃专业又好笑",
+      "onboard_time": 1671124639,
+      "rank": 49,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
     {
       "word": "#坚定不移走好高质量发展之路#"
+    },
+    {
+      "word": "#建设开放型世界经济#"
     }
   ]
 }
