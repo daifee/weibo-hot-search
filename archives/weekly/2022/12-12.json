@@ -1,6 +1,6 @@
 {
   "startTime": 1670775913271,
-  "endTime": 1671138954890,
+  "endTime": 1671140021246,
   "band_list": [
     {
       "raw_hot": 4870645,
@@ -10057,6 +10057,14 @@
       "onboard_time": 1671049814,
       "rank": 47,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 30885,
+      "num": 30885,
+      "word": "北方疫情持续时间预计长于南方",
+      "onboard_time": 1671137952,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 25831,
