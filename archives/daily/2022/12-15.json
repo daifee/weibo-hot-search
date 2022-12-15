@@ -1,6 +1,6 @@
 {
   "startTime": 1671035224820,
-  "endTime": 1671086370982,
+  "endTime": 1671088642192,
   "band_list": [
     {
       "raw_hot": 4163142,
@@ -123,6 +123,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 918684,
+      "num": 918684,
+      "word": "钟南山主讲全国高校抗疫大讲堂",
+      "onboard_time": 1671088110,
+      "rank": 4,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 863858,
+      "num": 863858,
+      "word": "北大教授建议大规模发放现金或消费券",
+      "onboard_time": 1671083306,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 862568,
       "num": 862568,
       "word": "沪上阿姨致歉",
@@ -180,19 +196,11 @@
     },
     {
       "raw_hot": 782043,
-      "num": 445043,
+      "num": 477012,
       "word": "董璇复出拍戏五个月暴瘦70斤",
       "onboard_time": 1671081992,
       "rank": 23,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 750704,
-      "num": 750704,
-      "word": "北大教授建议大规模发放现金或消费券",
-      "onboard_time": 1671083306,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 728765,
@@ -291,6 +299,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 571241,
+      "num": 571241,
+      "word": "00后女租客退房垃圾堆成山",
+      "onboard_time": 1671084149,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 565597,
       "num": 565597,
       "word": "李现 GQ盛典",
@@ -304,6 +320,14 @@
       "word": "和阳性亲友共同生活怎么防护",
       "onboard_time": 1671062610,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 557358,
+      "num": 557358,
+      "word": "医生教你阳了怎么好得快",
+      "onboard_time": 1671082350,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -363,20 +387,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 522291,
-      "num": 522291,
-      "word": "医生教你阳了怎么好得快",
-      "onboard_time": 1671082350,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 515720,
       "num": 501698,
       "word": "Jennie对DJ说给我放PINKVENOM",
       "onboard_time": 1671077612,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 513347,
+      "num": 513347,
+      "word": "阳性康复后还有传染性吗",
+      "onboard_time": 1671087330,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 512601,
@@ -431,6 +455,22 @@
       "num": 464427,
       "word": "皇马同意本泽马参加世界杯决赛",
       "onboard_time": 1671068910,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 461789,
+      "num": 461789,
+      "word": "特朗普预告15日将宣布重大消息",
+      "onboard_time": 1671086246,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 458578,
+      "num": 458578,
+      "word": "梅西精神天津人",
+      "onboard_time": 1671083790,
       "rank": 32,
       "category": "体育"
     },
@@ -499,6 +539,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 403314,
+      "num": 403314,
+      "word": "明星GQ盛典造型",
+      "onboard_time": 1671084929,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 392122,
       "num": 392122,
       "word": "王一博GQ上班路透VSGQ下班路透",
@@ -515,20 +563,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 378636,
-      "num": 378636,
-      "word": "明星GQ盛典造型",
-      "onboard_time": 1671084929,
-      "rank": 26,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 369761,
       "num": 369761,
       "word": "杨幂也在看少爷和我",
       "onboard_time": 1671029734,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 363785,
+      "num": 363785,
+      "word": "成人布洛芬药物不能和儿童用药混吃",
+      "onboard_time": 1671082828,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 359827,
@@ -545,14 +593,6 @@
       "onboard_time": 1671052633,
       "rank": 30,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 353933,
-      "num": 353933,
-      "word": "成人布洛芬药物不能和儿童用药混吃",
-      "onboard_time": 1671082828,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 341503,
@@ -643,12 +683,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 301416,
-      "num": 301416,
-      "word": "梅西精神天津人",
-      "onboard_time": 1671083790,
-      "rank": 32,
-      "category": "体育"
+      "raw_hot": 296743,
+      "num": 296743,
+      "word": "女司机收养重病弃婴14年丈夫离婚",
+      "onboard_time": 1671083010,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 289713,
@@ -721,14 +761,6 @@
       "onboard_time": 1671075570,
       "rank": 27,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 273447,
-      "num": 273447,
-      "word": "00后女租客退房垃圾堆成山",
-      "onboard_time": 1671084149,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 273350,
@@ -819,14 +851,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 251245,
-      "num": 251245,
-      "word": "女司机收养重病弃婴14年丈夫离婚",
-      "onboard_time": 1671083010,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 249860,
       "num": 249860,
       "word": "张艺兴说之后会发一首适合冬天听的情歌",
@@ -867,6 +891,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 230022,
+      "num": 230022,
+      "word": "两个外国小朋友吵架后全程不说话",
+      "onboard_time": 1671086485,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 229970,
       "num": 229970,
       "word": "疫情三年让你明白了哪些道理",
@@ -889,6 +921,14 @@
       "onboard_time": 1671079773,
       "rank": 33,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 224686,
+      "num": 224686,
+      "word": "想见你",
+      "onboard_time": 1671088348,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 224540,
@@ -1011,6 +1051,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 194758,
+      "num": 194758,
+      "word": "金智秀韩版嘉人一月刊封面",
+      "onboard_time": 1671088167,
+      "rank": 24,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 193521,
       "num": 134347,
       "word": "陈都灵孤舟开机路透图",
@@ -1131,6 +1179,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 175428,
+      "num": 175428,
+      "word": "女子家中养10多只猫臭到邻居不敢开窗",
+      "onboard_time": 1671087629,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 174141,
       "num": 174141,
       "word": "上班阳了算工伤吗",
@@ -1171,6 +1227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 169093,
+      "num": 169093,
+      "word": "奥比岛",
+      "onboard_time": 1671084326,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 167627,
       "num": 163264,
       "word": "GQ盛典今晚见",
@@ -1195,6 +1259,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 163836,
+      "num": 163836,
+      "word": "3小时内混吃2次感冒药影响肝功能",
+      "onboard_time": 1671086789,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 163776,
+      "num": 163060,
+      "word": "洗猫店对猫咪们的备注",
+      "onboard_time": 1671087269,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 162580,
       "num": 162580,
       "word": "4名95后创业助400家农户卖脐橙",
@@ -1211,20 +1291,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 162332,
+      "num": 162332,
+      "word": "梁洁粉发齐刘海",
+      "onboard_time": 1671086068,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 161260,
       "num": 161260,
       "word": "刘语熙看好法国晋级",
       "onboard_time": 1671034583,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 158738,
-      "num": 158738,
-      "word": "梁洁粉发齐刘海",
-      "onboard_time": 1671086068,
-      "rank": 36,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 158525,
@@ -1241,14 +1321,6 @@
       "onboard_time": 1671074010,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 156036,
-      "num": 156036,
-      "word": "奥比岛",
-      "onboard_time": 1671084326,
-      "rank": 41,
-      "category": "游戏"
     },
     {
       "raw_hot": 155856,
@@ -1363,6 +1435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 141560,
+      "num": 141560,
+      "word": "刘畊宏说要有积累才能发光发热",
+      "onboard_time": 1671088526,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 141434,
       "num": 141434,
       "word": "当品种猫回村后",
@@ -1403,12 +1483,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 130626,
+      "num": 130626,
+      "word": "希望改编成动画的游戏",
+      "onboard_time": 1671088230,
+      "rank": 46,
+      "category": "游戏,动漫"
+    },
+    {
       "raw_hot": 130124,
       "num": 130124,
       "word": "法国晋级将与阿根廷争冠",
       "onboard_time": 1671059720,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 129280,
+      "num": 129280,
+      "word": "科学家揭开一夜好眠之谜",
+      "onboard_time": 1671088526,
+      "rank": 47,
+      "category": "其它"
     },
     {
       "raw_hot": 128793,
@@ -1539,6 +1635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 106256,
+      "num": 1350138,
+      "word": "60秒速看居家防疫知识",
+      "onboard_time": 1671086188,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 95522,
       "num": 95522,
       "word": "女子给确诊闺蜜做饭9天未感染",
@@ -1649,14 +1753,6 @@
       "onboard_time": 1671043575,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 10032,
-      "num": 1350138,
-      "word": "60秒速看居家防疫知识",
-      "onboard_time": 1671086188,
-      "rank": 2,
-      "category": "国内要闻"
     }
   ],
   "hotgov_list": [
