@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1671072586124,
+  "endTime": 1671073209839,
   "band_list": [
     {
       "raw_hot": 13790167,
@@ -2219,6 +2219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1400487,
+      "num": 1400487,
+      "word": "小狗误食6粒布洛芬器官衰竭死亡",
+      "onboard_time": 1671071548,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1399249,
       "num": 866682,
       "word": "男子车祸后以为是1993年立刻向妻求婚",
@@ -3297,6 +3305,14 @@
       "onboard_time": 1670976012,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1077025,
+      "num": 1077025,
+      "word": "GQ 盛典",
+      "onboard_time": 1671072686,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 1073059,
@@ -4808,14 +4824,6 @@
       "word": "女子四胎出院90岁奶奶开车接回家",
       "onboard_time": 1670573477,
       "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 829999,
-      "num": 598833,
-      "word": "小狗误食6粒布洛芬器官衰竭死亡",
-      "onboard_time": 1671071548,
-      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -10211,6 +10219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 464427,
+      "num": 464427,
+      "word": "皇马同意本泽马参加世界杯决赛",
+      "onboard_time": 1671068910,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 464283,
       "num": 1489803,
       "word": "外卖小哥坠井昏迷催单电话救其一命",
@@ -10881,14 +10897,6 @@
       "onboard_time": 1670370426,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 439163,
-      "num": 439163,
-      "word": "皇马同意本泽马参加世界杯决赛",
-      "onboard_time": 1671068910,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 438833,
@@ -14657,6 +14665,14 @@
       "onboard_time": 1670818093,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 321943,
+      "num": 321943,
+      "word": "库里左肩 受伤",
+      "onboard_time": 1671071789,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 321910,
@@ -18715,6 +18731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 235759,
+      "num": 235759,
+      "word": "鞠婧祎BeMyPOI音源上线",
+      "onboard_time": 1671071731,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 235693,
       "num": 815752,
       "word": "卡塔尔世界杯上的中国队",
@@ -18921,14 +18945,6 @@
       "onboard_time": 1670891288,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 232535,
-      "num": 232535,
-      "word": "库里左肩 受伤",
-      "onboard_time": 1671071789,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 232532,
@@ -19385,6 +19401,14 @@
       "onboard_time": 1670229431,
       "rank": 47,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 224998,
+      "num": 202717,
+      "word": "挖掘机安装破碎锤在路中央搞破坏",
+      "onboard_time": 1671071731,
+      "rank": 37,
+      "category": "社会负面"
     },
     {
       "raw_hot": 224915,
@@ -19987,6 +20011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 214670,
+      "num": 214670,
+      "word": "这类人不适合吃黄桃罐头",
+      "onboard_time": 1671070710,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 214520,
       "num": 214520,
       "word": "iPadmini3将被列为停产产品",
@@ -20569,14 +20601,6 @@
       "onboard_time": 1670810290,
       "rank": 49,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 206823,
-      "num": 206823,
-      "word": "鞠婧祎BeMyPOI音源上线",
-      "onboard_time": 1671071731,
-      "rank": 27,
-      "category": "音乐"
     },
     {
       "raw_hot": 206632,
@@ -21539,6 +21563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 193521,
+      "num": 130240,
+      "word": "陈都灵孤舟开机路透图",
+      "onboard_time": 1671073170,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 193468,
       "num": 193468,
       "word": "博士情侣下海拼死救回轻生女子",
@@ -21601,14 +21633,6 @@
       "onboard_time": 1670685559,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 192840,
-      "num": 192840,
-      "word": "这类人不适合吃黄桃罐头",
-      "onboard_time": 1671070710,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 192694,
@@ -23467,6 +23491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 173604,
+      "num": 173604,
+      "word": "这就是电子羽绒服吧",
+      "onboard_time": 1671071070,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 173541,
       "num": 173541,
       "word": "施情华意是he",
@@ -23969,14 +24001,6 @@
       "onboard_time": 1670127190,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 168795,
-      "num": 168795,
-      "word": "挖掘机安装破碎锤在路中央搞破坏",
-      "onboard_time": 1671071731,
-      "rank": 37,
-      "category": "社会负面"
     },
     {
       "raw_hot": 168734,
@@ -26531,6 +26555,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 142900,
+      "num": 142900,
+      "word": "糖丸爷爷生前录音听到泪目",
+      "onboard_time": 1671072750,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 142890,
       "num": 561387,
       "word": "企业通报8人被脱硫灰埋压",
@@ -27443,14 +27475,6 @@
       "category": "体育,国内要闻"
     },
     {
-      "raw_hot": 134888,
-      "num": 134888,
-      "word": "这就是电子羽绒服吧",
-      "onboard_time": 1671071070,
-      "rank": 46,
-      "category": "影视"
-    },
-    {
       "raw_hot": 134677,
       "num": 134677,
       "word": "克罗地亚狂想曲 桑巴",
@@ -28073,6 +28097,14 @@
       "onboard_time": 1670552773,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 128793,
+      "num": 128793,
+      "word": "他用一生做了一颗拯救数十万儿童的糖丸",
+      "onboard_time": 1671073170,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 128591,

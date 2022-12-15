@@ -1,6 +1,6 @@
 {
   "startTime": 1671035224820,
-  "endTime": 1671072586124,
+  "endTime": 1671073209839,
   "band_list": [
     {
       "raw_hot": 4163142,
@@ -16,6 +16,14 @@
       "word": "女子坐地铁不戴口罩称有病毒的人才戴",
       "onboard_time": 1671062125,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1400487,
+      "num": 1400487,
+      "word": "小狗误食6粒布洛芬器官衰竭死亡",
+      "onboard_time": 1671071548,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -41,6 +49,14 @@
       "onboard_time": 1671068129,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1077025,
+      "num": 1077025,
+      "word": "GQ 盛典",
+      "onboard_time": 1671072686,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 1062655,
@@ -88,14 +104,6 @@
       "word": "杭州核酸单管每人次16元",
       "onboard_time": 1671056234,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 829999,
-      "num": 598833,
-      "word": "小狗误食6粒布洛芬器官衰竭死亡",
-      "onboard_time": 1671071548,
-      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -251,6 +259,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 464427,
+      "num": 464427,
+      "word": "皇马同意本泽马参加世界杯决赛",
+      "onboard_time": 1671068910,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 454354,
       "num": 454354,
       "word": "新冠印度仿制药被卖到一盒上千元",
@@ -265,14 +281,6 @@
       "onboard_time": 1671063089,
       "rank": 14,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 439163,
-      "num": 439163,
-      "word": "皇马同意本泽马参加世界杯决赛",
-      "onboard_time": 1671068910,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 430410,
@@ -353,6 +361,14 @@
       "onboard_time": 1671022277,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 321943,
+      "num": 321943,
+      "word": "库里左肩 受伤",
+      "onboard_time": 1671071789,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 315677,
@@ -467,12 +483,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 232535,
-      "num": 232535,
-      "word": "库里左肩 受伤",
-      "onboard_time": 1671071789,
-      "rank": 24,
-      "category": "体育"
+      "raw_hot": 235759,
+      "num": 235759,
+      "word": "鞠婧祎BeMyPOI音源上线",
+      "onboard_time": 1671071731,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 230985,
@@ -499,6 +515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 224998,
+      "num": 202717,
+      "word": "挖掘机安装破碎锤在路中央搞破坏",
+      "onboard_time": 1671071731,
+      "rank": 37,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 224540,
       "num": 224540,
       "word": "成毅GQ盛典黑色皮衣彩排路透",
@@ -523,6 +547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 214670,
+      "num": 214670,
+      "word": "这类人不适合吃黄桃罐头",
+      "onboard_time": 1671070710,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 213812,
       "num": 213812,
       "word": "风吹半夏大结局你被虐到了吗",
@@ -537,14 +569,6 @@
       "onboard_time": 1671062188,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 206823,
-      "num": 206823,
-      "word": "鞠婧祎BeMyPOI音源上线",
-      "onboard_time": 1671071731,
-      "rank": 27,
-      "category": "音乐"
     },
     {
       "raw_hot": 202768,
@@ -571,12 +595,12 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 192840,
-      "num": 192840,
-      "word": "这类人不适合吃黄桃罐头",
-      "onboard_time": 1671070710,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 193521,
+      "num": 130240,
+      "word": "陈都灵孤舟开机路透图",
+      "onboard_time": 1671073170,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 191454,
@@ -667,6 +691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 173604,
+      "num": 173604,
+      "word": "这就是电子羽绒服吧",
+      "onboard_time": 1671071070,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 173085,
       "num": 173085,
       "word": "北京多家医院有医护人员感染",
@@ -689,14 +721,6 @@
       "onboard_time": 1671026734,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 168795,
-      "num": 168795,
-      "word": "挖掘机安装破碎锤在路中央搞破坏",
-      "onboard_time": 1671071731,
-      "rank": 37,
-      "category": "社会负面"
     },
     {
       "raw_hot": 165858,
@@ -779,6 +803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 142900,
+      "num": 142900,
+      "word": "糖丸爷爷生前录音听到泪目",
+      "onboard_time": 1671072750,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 142255,
       "num": 142255,
       "word": "咖啡店回应连花清瘟四件套",
@@ -819,14 +851,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 134888,
-      "num": 134888,
-      "word": "这就是电子羽绒服吧",
-      "onboard_time": 1671071070,
-      "rank": 46,
-      "category": "影视"
-    },
-    {
       "raw_hot": 131921,
       "num": 131921,
       "word": "流星划过夜空瞬间有多治愈",
@@ -849,6 +873,14 @@
       "onboard_time": 1671059720,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 128793,
+      "num": 128793,
+      "word": "他用一生做了一颗拯救数十万儿童的糖丸",
+      "onboard_time": 1671073170,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 125290,
