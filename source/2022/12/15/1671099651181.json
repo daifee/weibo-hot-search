@@ -1,0 +1,410 @@
+{
+  "runTime": 1671099651181,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1932743,
+        "num": 1932743,
+        "word": "网曝中国人寿新冠保险阳了却不理赔",
+        "onboard_time": 1671094773,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1274762,
+        "num": 1274762,
+        "word": "这个研究生我当定了",
+        "onboard_time": 1671094049,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 41629,
+        "num": 1126609,
+        "word": "儿童感染新冠居家照看要点",
+        "onboard_time": 1671099154,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1124977,
+        "num": 1124977,
+        "word": "阳性康复后还有传染性吗",
+        "onboard_time": 1671087330,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1079574,
+        "num": 1079574,
+        "word": "GQ 盛典",
+        "onboard_time": 1671072686,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 947146,
+        "num": 947146,
+        "word": "王一博GQ亮片刺绣造型",
+        "onboard_time": 1671098434,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 732425,
+        "num": 732425,
+        "word": "钟南山提出8条个人防护建议",
+        "onboard_time": 1671093630,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 669022,
+        "num": 669022,
+        "word": "布洛芬和连花清瘟能一起吃吗",
+        "onboard_time": 1671080253,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 556685,
+        "num": 556685,
+        "word": "女子确诊给婆婆诉苦连眼睫毛都痛",
+        "onboard_time": 1671092491,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 540712,
+        "num": 540712,
+        "word": "钟南山说大家一起阳的观念不可取",
+        "onboard_time": 1671095912,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3089771,
+        "num": 534089,
+        "word": "张嘉倪 赢麻了",
+        "onboard_time": 1671095251,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 509023,
+        "num": 509023,
+        "word": "男子焦虑房贷车贷嫌牛奶贵妻子怒砸",
+        "onboard_time": 1671091829,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 483994,
+        "num": 483994,
+        "word": "杭州多家药店免费发放新冠抗原试剂",
+        "onboard_time": 1671096515,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 468303,
+        "num": 468303,
+        "word": "易梦玲好美",
+        "onboard_time": 1671099033,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 67603,
+        "num": 465989,
+        "word": "玩儿下去",
+        "onboard_time": 1671098434,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 465921,
+        "num": 465921,
+        "word": "养女大学毕业带回十年多年亲儿",
+        "onboard_time": 1671095251,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 463291,
+        "num": 463291,
+        "word": "阿根廷队的格局",
+        "onboard_time": 1671097112,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 438227,
+        "num": 438227,
+        "word": "陆毅鲍蕾全家不分开坐飞机的原因",
+        "onboard_time": 1671090205,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 407488,
+        "num": 407488,
+        "word": "缓解新冠咳嗽的方法",
+        "onboard_time": 1671095973,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 399296,
+        "num": 399296,
+        "word": "WBG辅助Crisp",
+        "onboard_time": 1671099390,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 382776,
+        "num": 382776,
+        "word": "关晓彤黑色抹胸短裙造型",
+        "onboard_time": 1671091291,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 332014,
+        "num": 332014,
+        "word": "王鹤棣穿了个工具箱",
+        "onboard_time": 1671093749,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 326373,
+        "num": 326373,
+        "word": "刘芸跟郑钧冷战每天抱着玲娜贝儿睡觉",
+        "onboard_time": 1671094173,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 307462,
+        "num": 307462,
+        "word": "钟南山主讲全国高校抗疫大讲堂",
+        "onboard_time": 1671088110,
+        "rank": 23,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 305557,
+        "num": 305557,
+        "word": "江苏考研房订单量居全国榜首",
+        "onboard_time": 1671097174,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303786,
+        "num": 303786,
+        "word": "田曦薇GQ红毯造型路透",
+        "onboard_time": 1671095673,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 263915,
+        "num": 263915,
+        "word": "工程车当街破坏致人死亡司机被击毙",
+        "onboard_time": 1671089547,
+        "rank": 26,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 247408,
+        "num": 247408,
+        "word": "2颗爱马仕白菜能卖99元",
+        "onboard_time": 1671094412,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231462,
+        "num": 231462,
+        "word": "中国人寿客服回应新冠阳性不理赔",
+        "onboard_time": 1671097233,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224442,
+        "num": 224442,
+        "word": "实现硕士研究生招生考试考生应考尽考",
+        "onboard_time": 1671088409,
+        "rank": 29,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 457920,
+        "num": 224286,
+        "word": "郑州被挖机损毁车辆车主发声",
+        "onboard_time": 1671096752,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285944,
+        "num": 224163,
+        "word": "EXO将在家族演唱会上唱初雪",
+        "onboard_time": 1671092850,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 253291,
+        "num": 224038,
+        "word": "SuperJunior新歌上线",
+        "onboard_time": 1671098912,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 223129,
+        "num": 223129,
+        "word": "杨迪已被注册成商标",
+        "onboard_time": 1671075330,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221057,
+        "num": 221057,
+        "word": "明星GQ工作室出图",
+        "onboard_time": 1671091951,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 215556,
+        "num": 215556,
+        "word": "医生教你阳了怎么好得快",
+        "onboard_time": 1671082350,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203545,
+        "num": 203545,
+        "word": "Yagao加入BLG",
+        "onboard_time": 1671096454,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 187482,
+        "num": 187482,
+        "word": "钟南山称越晚变阳症状可能越轻",
+        "onboard_time": 1671099154,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167803,
+        "num": 167803,
+        "word": "洗猫店对猫咪们的备注",
+        "onboard_time": 1671087269,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 154185,
+        "num": 154185,
+        "word": "女子家中养10多只猫臭到邻居不敢开窗",
+        "onboard_time": 1671087629,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213458,
+        "num": 153173,
+        "word": "陈乔恩说姐43岁才结婚怕什么",
+        "onboard_time": 1671091291,
+        "rank": 40,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 204693,
+        "num": 146875,
+        "word": "明星GQ盛典造型",
+        "onboard_time": 1671084929,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 136563,
+        "num": 136563,
+        "word": "杭州一小店可用照片换咖啡",
+        "onboard_time": 1671095673,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132964,
+        "num": 132964,
+        "word": "OPPO",
+        "onboard_time": 1671095912,
+        "rank": 43,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 123904,
+        "num": 123904,
+        "word": "特朗普预告15日将宣布重大消息",
+        "onboard_time": 1671086246,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123750,
+        "num": 123750,
+        "word": "华西医院23岁医学生抢救无效去世",
+        "onboard_time": 1671061164,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118440,
+        "num": 118440,
+        "word": "阳性研考生由属地制定赴考措施",
+        "onboard_time": 1671090268,
+        "rank": 46,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 109542,
+        "num": 109542,
+        "word": "德尚谈本泽马出战决赛时表情",
+        "onboard_time": 1671099631,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108964,
+        "num": 108964,
+        "word": "Light加入WBG",
+        "onboard_time": 1671082049,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 105956,
+        "num": 105956,
+        "word": "老人牙疼邻居骑行10公里送医",
+        "onboard_time": 1671099092,
+        "rank": 49,
+        "category": "社会正能量"
+      }
+    ],
+    "hotgov": {
+      "word": "#神十五乘组首个在轨vlog#"
+    }
+  }
+}
