@@ -1,6 +1,6 @@
 {
   "startTime": 1671035224820,
-  "endTime": 1671081464924,
+  "endTime": 1671082417947,
   "band_list": [
     {
       "raw_hot": 4163142,
@@ -35,19 +35,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1792161,
+      "num": 1792161,
+      "word": "至今还未感染的你是怎么做到的",
+      "onboard_time": 1671063209,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1788293,
+      "num": 1788293,
+      "word": "布洛芬和连花清瘟能一起吃吗",
+      "onboard_time": 1671080253,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1737571,
       "num": 1737571,
       "word": "重庆荣昌区4.0级地震",
       "onboard_time": 1671064411,
       "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1499707,
-      "num": 1499707,
-      "word": "至今还未感染的你是怎么做到的",
-      "onboard_time": 1671063209,
-      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -112,14 +120,6 @@
       "word": "男生帮女友改论文把女友改哭了",
       "onboard_time": 1671031951,
       "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 910823,
-      "num": 479458,
-      "word": "布洛芬和连花清瘟能一起吃吗",
-      "onboard_time": 1671080253,
-      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -315,6 +315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 540304,
+      "num": 540304,
+      "word": "王冰冰常驻综艺回归",
+      "onboard_time": 1671080371,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 536074,
       "num": 536074,
       "word": "徐峥新片29个主演全是素人",
@@ -347,6 +355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 512601,
+      "num": 512601,
+      "word": "网易放假1天让员工看世界杯决赛",
+      "onboard_time": 1671078993,
+      "rank": 38,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 506325,
       "num": 506325,
       "word": "华西医院通报医学生病危",
@@ -371,20 +387,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 477624,
+      "num": 477624,
+      "word": "新生儿出生八天被确诊患罕见病",
+      "onboard_time": 1671078392,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 464427,
       "num": 464427,
       "word": "皇马同意本泽马参加世界杯决赛",
       "onboard_time": 1671068910,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 461318,
-      "num": 461318,
-      "word": "网易放假1天让员工看世界杯决赛",
-      "onboard_time": 1671078993,
-      "rank": 38,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 454354,
@@ -401,22 +417,6 @@
       "onboard_time": 1671063089,
       "rank": 14,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 440039,
-      "num": 440039,
-      "word": "王冰冰常驻综艺回归",
-      "onboard_time": 1671080371,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 430667,
-      "num": 430667,
-      "word": "新生儿出生八天被确诊患罕见病",
-      "onboard_time": 1671078392,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 430410,
@@ -475,6 +475,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 388118,
+      "num": 388118,
+      "word": "李子维说每一次我都会爱上你",
+      "onboard_time": 1671079953,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 384415,
       "num": 384415,
       "word": "厦门地震",
@@ -507,14 +515,6 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 355948,
-      "num": 355948,
-      "word": "李子维说每一次我都会爱上你",
-      "onboard_time": 1671079953,
-      "rank": 22,
-      "category": "影视"
-    },
-    {
       "raw_hot": 341503,
       "num": 341503,
       "word": "鹿晗MV一人分饰两角",
@@ -537,6 +537,14 @@
       "onboard_time": 1671022277,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 332609,
+      "num": 332609,
+      "word": "秦霄贤对徐梦洁说你说话我就冲",
+      "onboard_time": 1671080433,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 329160,
@@ -595,12 +603,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 301588,
-      "num": 301588,
-      "word": "秦霄贤对徐梦洁说你说话我就冲",
-      "onboard_time": 1671080433,
-      "rank": 27,
-      "category": "综艺"
+      "raw_hot": 306036,
+      "num": 306036,
+      "word": "董璇复出拍戏五个月暴瘦70斤",
+      "onboard_time": 1671081992,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 289713,
+      "num": 289713,
+      "word": "赵丽颖演齐了士农工商",
+      "onboard_time": 1671076290,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 289673,
@@ -659,14 +675,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 275022,
-      "num": 275022,
-      "word": "赵丽颖演齐了士农工商",
-      "onboard_time": 1671076290,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 274173,
       "num": 274173,
       "word": "RNG官宣Wei续约",
@@ -676,7 +684,7 @@
     },
     {
       "raw_hot": 273350,
-      "num": 1744861,
+      "num": 1789516,
       "word": "儿童感染奥密克戎应注意这几点",
       "onboard_time": 1671022459,
       "rank": 2,
@@ -697,6 +705,14 @@
       "onboard_time": 1671078935,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 269982,
+      "num": 251898,
+      "word": "Light加入WBG",
+      "onboard_time": 1671082049,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 266790,
@@ -745,6 +761,14 @@
       "onboard_time": 1671062368,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 249860,
+      "num": 249860,
+      "word": "张艺兴说之后会发一首适合冬天听的情歌",
+      "onboard_time": 1671081992,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 239642,
@@ -849,6 +873,22 @@
       "onboard_time": 1671071070,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 217743,
+      "num": 187639,
+      "word": "月歌行",
+      "onboard_time": 1671082290,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 214008,
+      "num": 214008,
+      "word": "当事人回应不要彩礼还帮丈夫还债",
+      "onboard_time": 1671080494,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 213812,
@@ -1051,14 +1091,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 168048,
-      "num": 168048,
-      "word": "当事人回应不要彩礼还帮丈夫还债",
-      "onboard_time": 1671080494,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 167627,
       "num": 163264,
       "word": "GQ盛典今晚见",
@@ -1235,6 +1267,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 136381,
+      "num": 136381,
+      "word": "女子买护肤品给男友当年终奖",
+      "onboard_time": 1671082409,
+      "rank": 45,
+      "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 135947,
+      "num": 135947,
+      "word": "医生教你阳了怎么好得快",
+      "onboard_time": 1671082350,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 131921,
       "num": 131921,
       "word": "流星划过夜空瞬间有多治愈",
@@ -1281,6 +1329,14 @@
       "onboard_time": 1671051493,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 125289,
+      "num": 131634,
+      "word": "iOS16.3Beta发布",
+      "onboard_time": 1671082231,
+      "rank": 49,
+      "category": "科技"
     },
     {
       "raw_hot": 122620,
