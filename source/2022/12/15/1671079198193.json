@@ -1,0 +1,410 @@
+{
+  "runTime": 1671079198193,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2438519,
+        "num": 2438519,
+        "word": "杨迪已被注册成商标",
+        "onboard_time": 1671075330,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1820322,
+        "num": 1820322,
+        "word": "小狗误食6粒布洛芬器官衰竭死亡",
+        "onboard_time": 1671071548,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154918,
+        "num": 1187752,
+        "word": "儿童感染奥密克戎应注意这几点",
+        "onboard_time": 1671022459,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1161867,
+        "num": 1161867,
+        "word": "GQ 盛典",
+        "onboard_time": 1671072686,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1025193,
+        "num": 1025193,
+        "word": "台湾地震",
+        "onboard_time": 1671077974,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 969563,
+        "num": 969563,
+        "word": "郑州工程用路面钻机肇事男子被击毙",
+        "onboard_time": 1671075990,
+        "rank": 5,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 837509,
+        "num": 837509,
+        "word": "至今还未感染的你是怎么做到的",
+        "onboard_time": 1671063209,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 728765,
+        "num": 728765,
+        "word": "厦门震感",
+        "onboard_time": 1671078213,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 673112,
+        "num": 673112,
+        "word": "女子吃5天感冒药多脏器功能衰竭",
+        "onboard_time": 1671075632,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 657742,
+        "num": 657742,
+        "word": "女子坐地铁不戴口罩称有病毒的人才戴",
+        "onboard_time": 1671062125,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1523723,
+        "num": 646312,
+        "word": "华西医院23岁医学生抢救无效去世",
+        "onboard_time": 1671061164,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 748854,
+        "num": 616374,
+        "word": "郑州花园路",
+        "onboard_time": 1671076832,
+        "rank": 11,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 536074,
+        "num": 536074,
+        "word": "徐峥新片29个主演全是素人",
+        "onboard_time": 1671074731,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 525041,
+        "num": 525041,
+        "word": "杭州已有街道卫生服务中心可做单管核酸",
+        "onboard_time": 1671074490,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 492966,
+        "num": 492966,
+        "word": "主人阳性后狗狗成家里顶梁柱",
+        "onboard_time": 1671068129,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 472794,
+        "num": 472794,
+        "word": "阳了真的会浑身疼吗",
+        "onboard_time": 1671061044,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 456638,
+        "num": 456638,
+        "word": "女子买退烧药发现价签贴3层涨20元",
+        "onboard_time": 1671067168,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 448648,
+        "num": 448648,
+        "word": "女子买块羊血怎么摔都摔不烂",
+        "onboard_time": 1671070591,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 392122,
+        "num": 392122,
+        "word": "王一博GQ上班路透VSGQ下班路透",
+        "onboard_time": 1671078993,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 380104,
+        "num": 380104,
+        "word": "北方抢黄桃罐头南方抢醋",
+        "onboard_time": 1671076290,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 366862,
+        "num": 366862,
+        "word": "林志颖晒全力复健照",
+        "onboard_time": 1671076832,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 354697,
+        "num": 354697,
+        "word": "重庆荣昌区4.0级地震",
+        "onboard_time": 1671064411,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347076,
+        "num": 347076,
+        "word": "陈晓说我没有代表作",
+        "onboard_time": 1671069268,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 309443,
+        "num": 309443,
+        "word": "光与夜之恋",
+        "onboard_time": 1671078449,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 301644,
+        "num": 301644,
+        "word": "Jennie对DJ说给我放PINKVENOM",
+        "onboard_time": 1671077612,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 290717,
+        "num": 290717,
+        "word": "考研",
+        "onboard_time": 1671067767,
+        "rank": 25,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 290574,
+        "num": 290574,
+        "word": "皇马同意本泽马参加世界杯决赛",
+        "onboard_time": 1671068910,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 276312,
+        "num": 276312,
+        "word": "江苏血液中心库存跌破最低警戒线",
+        "onboard_time": 1671070229,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275022,
+        "num": 275022,
+        "word": "赵丽颖演齐了士农工商",
+        "onboard_time": 1671076290,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 219044,
+        "num": 273839,
+        "word": "中国外交领事机构馆舍和人员不可侵犯",
+        "onboard_time": 1671074548,
+        "rank": 29,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 272889,
+        "num": 272889,
+        "word": "张婉婷宋宁峰终于不相杀了",
+        "onboard_time": 1671074969,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 261318,
+        "num": 261318,
+        "word": "法国2比0摩洛哥",
+        "onboard_time": 1671051733,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 259142,
+        "num": 259142,
+        "word": "王栎鑫送网友禁止蕉绿套餐",
+        "onboard_time": 1671075392,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256703,
+        "num": 256703,
+        "word": "李现 GQ盛典",
+        "onboard_time": 1671074909,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 231720,
+        "num": 231720,
+        "word": "本泽马 世界杯",
+        "onboard_time": 1671066270,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 215055,
+        "num": 215055,
+        "word": "RNG官宣Wei续约",
+        "onboard_time": 1671075570,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 212004,
+        "num": 212004,
+        "word": "王者墨子新皮肤",
+        "onboard_time": 1671068309,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 210629,
+        "num": 210629,
+        "word": "新冠印度仿制药被卖到一盒上千元",
+        "onboard_time": 1671066453,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207235,
+        "num": 207235,
+        "word": "网易放假1天让员工看世界杯决赛",
+        "onboard_time": 1671078993,
+        "rank": 38,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 206554,
+        "num": 206554,
+        "word": "月歌行一首歌吻3次",
+        "onboard_time": 1671076950,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 205337,
+        "num": 205337,
+        "word": "和阳性亲友共同生活怎么防护",
+        "onboard_time": 1671062610,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202925,
+        "num": 202925,
+        "word": "Uzi遗憾总是贯彻人生",
+        "onboard_time": 1671067589,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 199245,
+        "num": 199245,
+        "word": "水下摄影师说朱一龙潜水有经验",
+        "onboard_time": 1671077793,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 189023,
+        "num": 189023,
+        "word": "过量服用对乙酰氨基酚感冒药可致肝衰竭",
+        "onboard_time": 1671078935,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188826,
+        "num": 188826,
+        "word": "黄景瑜张婧仪新剧杀青",
+        "onboard_time": 1671071669,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 188353,
+        "num": 188353,
+        "word": "这类人不适合吃黄桃罐头",
+        "onboard_time": 1671070710,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166642,
+        "num": 166642,
+        "word": "中国医药与辉瑞公司签订协议",
+        "onboard_time": 1671060744,
+        "rank": 46,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 162432,
+        "num": 162432,
+        "word": "周深献唱月歌行主题曲",
+        "onboard_time": 1671078511,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 158525,
+        "num": 158525,
+        "word": "手游中的灵魂莲华",
+        "onboard_time": 1671078693,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 152266,
+        "num": 152266,
+        "word": "2022年度弹幕优雅",
+        "onboard_time": 1671078754,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#应对气候变化保护生物多样性#"
+    }
+  }
+}

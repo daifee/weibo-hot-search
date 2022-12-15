@@ -1,6 +1,6 @@
 {
   "startTime": 1670775913271,
-  "endTime": 1671078245555,
+  "endTime": 1671079198193,
   "band_list": [
     {
       "raw_hot": 4870645,
@@ -155,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2438519,
+      "num": 2438519,
+      "word": "杨迪已被注册成商标",
+      "onboard_time": 1671075330,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2429125,
       "num": 2429125,
       "word": "上班阳了算工伤吗",
@@ -177,14 +185,6 @@
       "onboard_time": 1670965150,
       "rank": 6,
       "category": "体育"
-    },
-    {
-      "raw_hot": 2362950,
-      "num": 2362950,
-      "word": "杨迪已被注册成商标",
-      "onboard_time": 1671075330,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 2345769,
@@ -923,6 +923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1025193,
+      "num": 1025193,
+      "word": "台湾地震",
+      "onboard_time": 1671077974,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1023233,
       "num": 1023233,
       "word": "顾客买49.9元草莓塔全是绿色草莓",
@@ -1451,6 +1459,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 748854,
+      "num": 616374,
+      "word": "郑州花园路",
+      "onboard_time": 1671076832,
+      "rank": 12,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 746045,
       "num": 736680,
       "word": "明星们一定要这样带货吗",
@@ -1513,6 +1529,14 @@
       "onboard_time": 1671009917,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 728765,
+      "num": 728765,
+      "word": "厦门震感",
+      "onboard_time": 1671078213,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 728649,
@@ -1681,6 +1705,14 @@
       "onboard_time": 1670816712,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 673112,
+      "num": 673112,
+      "word": "女子吃5天感冒药多脏器功能衰竭",
+      "onboard_time": 1671075632,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 672415,
@@ -2195,6 +2227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 536074,
+      "num": 536074,
+      "word": "徐峥新片29个主演全是素人",
+      "onboard_time": 1671074731,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 535854,
       "num": 535854,
       "word": "男孩患罕见病长61厘米长巨手",
@@ -2315,14 +2355,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 512439,
-      "num": 501201,
-      "word": "郑州花园路",
-      "onboard_time": 1671076832,
-      "rank": 12,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 512324,
       "num": 512324,
       "word": "商家辟谣黄桃罐头无药效网友怼你不懂",
@@ -2337,14 +2369,6 @@
       "onboard_time": 1671021798,
       "rank": 14,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 506246,
-      "num": 506246,
-      "word": "台湾地震",
-      "onboard_time": 1671077974,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 505994,
@@ -2393,14 +2417,6 @@
       "onboard_time": 1670834178,
       "rank": 16,
       "category": "体育,综艺"
-    },
-    {
-      "raw_hot": 498669,
-      "num": 498669,
-      "word": "女子吃5天感冒药多脏器功能衰竭",
-      "onboard_time": 1671075632,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 498358,
@@ -2496,14 +2512,6 @@
       "word": "电影想见你莫俊杰预告",
       "onboard_time": 1670822835,
       "rank": 19,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 482197,
-      "num": 482197,
-      "word": "徐峥新片29个主演全是素人",
-      "onboard_time": 1671074731,
-      "rank": 17,
       "category": "影视"
     },
     {
@@ -3155,6 +3163,14 @@
       "category": "体育,音乐"
     },
     {
+      "raw_hot": 392122,
+      "num": 392122,
+      "word": "王一博GQ上班路透VSGQ下班路透",
+      "onboard_time": 1671078993,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 389944,
       "num": 389944,
       "word": "徐峥新片射门定档1216",
@@ -3235,6 +3251,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 380104,
+      "num": 380104,
+      "word": "北方抢黄桃罐头南方抢醋",
+      "onboard_time": 1671076290,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 377131,
       "num": 377131,
       "word": "鹿晗战损妆造型",
@@ -3305,6 +3329,14 @@
       "onboard_time": 1670910252,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 366862,
+      "num": 366862,
+      "word": "林志颖晒全力复健照",
+      "onboard_time": 1671076832,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 366803,
@@ -3601,14 +3633,6 @@
       "onboard_time": 1670929217,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 334528,
-      "num": 334528,
-      "word": "林志颖晒全力复健照",
-      "onboard_time": 1671076832,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 332827,
@@ -3939,14 +3963,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 299564,
-      "num": 299564,
-      "word": "北方抢黄桃罐头南方抢醋",
-      "onboard_time": 1671076290,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 297192,
       "num": 297192,
       "word": "赵樱子想演小龙女",
@@ -4235,6 +4251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 276312,
+      "num": 276312,
+      "word": "江苏血液中心库存跌破最低警戒线",
+      "onboard_time": 1671070229,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 275786,
       "num": 275786,
       "word": "猫咪蜷缩在墙角被冻僵",
@@ -4249,6 +4273,14 @@
       "onboard_time": 1671063512,
       "rank": 22,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 275022,
+      "num": 275022,
+      "word": "赵丽颖演齐了士农工商",
+      "onboard_time": 1671076290,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 274834,
@@ -4280,6 +4312,14 @@
       "word": "刘耀文说舞台就像一个家",
       "onboard_time": 1670836697,
       "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 272889,
+      "num": 272889,
+      "word": "张婉婷宋宁峰终于不相杀了",
+      "onboard_time": 1671074969,
+      "rank": 31,
       "category": "综艺"
     },
     {
@@ -4353,14 +4393,6 @@
       "onboard_time": 1670989152,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 266173,
-      "num": 266173,
-      "word": "赵丽颖演齐了士农工商",
-      "onboard_time": 1671076290,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 264517,
@@ -4467,12 +4499,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 258386,
-      "num": 258386,
-      "word": "张婉婷宋宁峰终于不相杀了",
-      "onboard_time": 1671074969,
-      "rank": 31,
-      "category": "综艺"
+      "raw_hot": 259142,
+      "num": 259142,
+      "word": "王栎鑫送网友禁止蕉绿套餐",
+      "onboard_time": 1671075392,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 258227,
@@ -4593,14 +4625,6 @@
       "onboard_time": 1670837420,
       "rank": 29,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 249708,
-      "num": 249708,
-      "word": "江苏血液中心库存跌破最低警戒线",
-      "onboard_time": 1671070229,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 249655,
@@ -5107,14 +5131,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 220392,
-      "num": 220392,
-      "word": "王栎鑫送网友禁止蕉绿套餐",
-      "onboard_time": 1671075392,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 220268,
       "num": 220268,
       "word": "赵垒挑衅许半夏情敌",
@@ -5169,6 +5185,14 @@
       "onboard_time": 1671011777,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 219044,
+      "num": 273839,
+      "word": "中国外交领事机构馆舍和人员不可侵犯",
+      "onboard_time": 1671074548,
+      "rank": 48,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 218532,
@@ -5411,6 +5435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 207235,
+      "num": 207235,
+      "word": "网易放假1天让员工看世界杯决赛",
+      "onboard_time": 1671078993,
+      "rank": 38,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 206875,
       "num": 206875,
       "word": "C罗希望时间能成为一个好的顾问",
@@ -5449,14 +5481,6 @@
       "onboard_time": 1671027155,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 205417,
-      "num": 268489,
-      "word": "中国外交领事机构馆舍和人员不可侵犯",
-      "onboard_time": 1671074548,
-      "rank": 48,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 204947,
@@ -5887,6 +5911,14 @@
       "num": 189143,
       "word": "叮当快药回应网传有药不卖",
       "onboard_time": 1670841137,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 189023,
+      "num": 189023,
+      "word": "过量服用对乙酰氨基酚感冒药可致肝衰竭",
+      "onboard_time": 1671078935,
       "rank": 43,
       "category": "社会新闻"
     },
@@ -6651,6 +6683,14 @@
       "category": "科技,财经"
     },
     {
+      "raw_hot": 162432,
+      "num": 162432,
+      "word": "周深献唱月歌行主题曲",
+      "onboard_time": 1671078511,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 161260,
       "num": 161260,
       "word": "刘语熙看好法国晋级",
@@ -6673,6 +6713,14 @@
       "onboard_time": 1670811851,
       "rank": 35,
       "category": "动漫,影视"
+    },
+    {
+      "raw_hot": 158525,
+      "num": 158525,
+      "word": "手游中的灵魂莲华",
+      "onboard_time": 1671078693,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 158419,
@@ -6825,6 +6873,14 @@
       "onboard_time": 1670814852,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 152266,
+      "num": 152266,
+      "word": "2022年度弹幕优雅",
+      "onboard_time": 1671078754,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 151629,
