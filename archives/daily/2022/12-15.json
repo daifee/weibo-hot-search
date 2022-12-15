@@ -1,6 +1,6 @@
 {
   "startTime": 1671035224820,
-  "endTime": 1671114886225,
+  "endTime": 1671117591793,
   "band_list": [
     {
       "raw_hot": 4163142,
@@ -57,6 +57,14 @@
       "onboard_time": 1671109719,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2057910,
+      "num": 2057910,
+      "word": "腿姐阳了",
+      "onboard_time": 1671112419,
+      "rank": 13,
+      "category": "教育"
     },
     {
       "raw_hot": 2044502,
@@ -195,6 +203,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1410261,
+      "num": 1410261,
+      "word": "倪虹洁睡衣",
+      "onboard_time": 1671115479,
+      "rank": 3,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1391112,
       "num": 1391112,
       "word": "GQ 盛典",
@@ -209,6 +225,14 @@
       "onboard_time": 1671051733,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1326961,
+      "num": 1326961,
+      "word": "1岁宝宝高烧39度头顶冒烟",
+      "onboard_time": 1671113798,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1323968,
@@ -305,14 +329,6 @@
       "onboard_time": 1671061044,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1058426,
-      "num": 1058426,
-      "word": "腿姐阳了",
-      "onboard_time": 1671112419,
-      "rank": 13,
-      "category": "教育"
     },
     {
       "raw_hot": 1026756,
@@ -563,6 +579,14 @@
       "category": "综艺,幽默"
     },
     {
+      "raw_hot": 693803,
+      "num": 592209,
+      "word": "梅西点赞邓紫棋微博",
+      "onboard_time": 1671115419,
+      "rank": 11,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 686056,
       "num": 686056,
       "word": "体操冠军杨威确诊新冠高烧40度",
@@ -723,6 +747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 570703,
+      "num": 570703,
+      "word": "一新冠患者因过量饮水导致水中毒",
+      "onboard_time": 1671116381,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 565597,
       "num": 565597,
       "word": "李现 GQ盛典",
@@ -787,6 +819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 537680,
+      "num": 537680,
+      "word": "布洛芬什么姿势的效果最好",
+      "onboard_time": 1671113259,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 536074,
       "num": 536074,
       "word": "徐峥新片29个主演全是素人",
@@ -801,14 +841,6 @@
       "onboard_time": 1671074490,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 526253,
-      "num": 526253,
-      "word": "布洛芬什么姿势的效果最好",
-      "onboard_time": 1671113259,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 525525,
@@ -856,14 +888,6 @@
       "word": "特朗普预告15日将宣布重大消息",
       "onboard_time": 1671086246,
       "rank": 12,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 495398,
-      "num": 495398,
-      "word": "1岁宝宝高烧39度头顶冒烟",
-      "onboard_time": 1671113798,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -1019,6 +1043,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 425830,
+      "num": 425830,
+      "word": "沈阳市民捡到1岁男童2天没人领",
+      "onboard_time": 1671113018,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 418816,
       "num": 418816,
       "word": "人民日报任仲平",
@@ -1083,12 +1115,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 407219,
-      "num": 407219,
-      "word": "沈阳市民捡到1岁男童2天没人领",
-      "onboard_time": 1671113018,
-      "rank": 35,
-      "category": "社会新闻"
+      "raw_hot": 407639,
+      "num": 272164,
+      "word": "丁程鑫毛绒睡衣造型",
+      "onboard_time": 1671115538,
+      "rank": 30,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 403314,
@@ -1209,6 +1241,14 @@
       "onboard_time": 1671091829,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 351642,
+      "num": 351642,
+      "word": "新冠7天我经历了什么",
+      "onboard_time": 1671114821,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 341503,
@@ -1427,6 +1467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 286252,
+      "num": 286252,
+      "word": "爸妈房间隔离3岁女儿独自吃饭睡觉",
+      "onboard_time": 1671113981,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 283940,
       "num": 283940,
       "word": "男子嘚瑟自己干服病毒结果悲剧了",
@@ -1489,6 +1537,14 @@
       "onboard_time": 1671063512,
       "rank": 22,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 274346,
+      "num": 274346,
+      "word": "皇马官方宣布签下恩德里克",
+      "onboard_time": 1671116440,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 274173,
@@ -1659,8 +1715,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 239563,
+      "num": 239563,
+      "word": "疑似陨石碎片水泥地砸出大坑",
+      "onboard_time": 1671114580,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 237579,
-      "num": 1371769,
+      "num": 1443403,
       "word": "疫情防控期9个倡议",
       "onboard_time": 1671109116,
       "rank": 2,
@@ -1995,12 +2059,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 183101,
-      "num": 183101,
-      "word": "爸妈房间隔离3岁女儿独自吃饭睡觉",
-      "onboard_time": 1671113981,
-      "rank": 44,
-      "category": "社会新闻"
+      "raw_hot": 181942,
+      "num": 137337,
+      "word": "张杰GQ红毯V我50",
+      "onboard_time": 1671117580,
+      "rank": 47,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 181918,
@@ -2097,14 +2161,6 @@
       "onboard_time": 1671030576,
       "rank": 29,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 175190,
-      "num": 175190,
-      "word": "疑似陨石碎片水泥地砸出大坑",
-      "onboard_time": 1671114580,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 174141,
@@ -2259,6 +2315,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 158556,
+      "num": 158556,
+      "word": "普通口罩打结秒变N95无科学依据",
+      "onboard_time": 1671116618,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158525,
       "num": 158525,
       "word": "手游中的灵魂莲华",
@@ -2307,6 +2371,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 153369,
+      "num": 153369,
+      "word": "我头疼的原因找到了",
+      "onboard_time": 1671116917,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 152441,
       "num": 152441,
       "word": "家庭自制电解质水",
@@ -2321,14 +2393,6 @@
       "onboard_time": 1671078754,
       "rank": 49,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 150537,
-      "num": 150537,
-      "word": "新冠7天我经历了什么",
-      "onboard_time": 1671114821,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 150491,
@@ -2449,6 +2513,14 @@
       "onboard_time": 1671027573,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 139068,
+      "num": 139068,
+      "word": "公交司机贴退烧贴吓坏乘客",
+      "onboard_time": 1671116979,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 137430,
@@ -2585,6 +2657,14 @@
       "onboard_time": 1671081393,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 121635,
+      "num": 137173,
+      "word": "女子确诊新冠后又碰上药物过敏",
+      "onboard_time": 1671117518,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 121108,
