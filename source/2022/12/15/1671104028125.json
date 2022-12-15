@@ -1,0 +1,410 @@
+{
+  "runTime": 1671104028125,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1379617,
+        "num": 1379617,
+        "word": "杭州火球",
+        "onboard_time": 1671101916,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1359265,
+        "num": 1359265,
+        "word": "网曝中国人寿新冠保险阳了却不理赔",
+        "onboard_time": 1671094773,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129969,
+        "num": 1331668,
+        "word": "儿童感染新冠居家照看要点",
+        "onboard_time": 1671099154,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1328964,
+        "num": 1328964,
+        "word": "钟南山称越晚变阳症状可能越轻",
+        "onboard_time": 1671099154,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1323968,
+        "num": 1323968,
+        "word": "杭州疑似有陨石掉落",
+        "onboard_time": 1671101916,
+        "rank": 4,
+        "category": "自然,社会新闻"
+      },
+      {
+        "raw_hot": 1064406,
+        "num": 1064406,
+        "word": "GQ 盛典",
+        "onboard_time": 1671072686,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 856259,
+        "num": 856259,
+        "word": "GQ是懂红毯的",
+        "onboard_time": 1671101794,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 783825,
+        "num": 783825,
+        "word": "阳性康复后还有传染性吗",
+        "onboard_time": 1671087330,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 747315,
+        "num": 747315,
+        "word": "GQ睡衣趴",
+        "onboard_time": 1671103776,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 657251,
+        "num": 657251,
+        "word": "这个研究生我当定了",
+        "onboard_time": 1671094049,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 2152131,
+        "num": 655911,
+        "word": "张嘉倪 赢麻了",
+        "onboard_time": 1671095251,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1680519,
+        "num": 652077,
+        "word": "孙千晒和赵丽颖的聊天记录",
+        "onboard_time": 1671100953,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1491576,
+        "num": 646540,
+        "word": "田曦薇 仙",
+        "onboard_time": 1671099995,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1239623,
+        "num": 638112,
+        "word": "妻子用卫生巾给阳性老公降温",
+        "onboard_time": 1671100596,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 4349,
+        "num": 633004,
+        "word": "折叠屏首次轻过直板机",
+        "onboard_time": 1671102033,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 776124,
+        "num": 631590,
+        "word": "女子同事全阳了仅她一人来上班",
+        "onboard_time": 1671102454,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 628109,
+        "num": 628109,
+        "word": "全家阳性丈夫成天选做饭人",
+        "onboard_time": 1671100232,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 478586,
+        "num": 478586,
+        "word": "WBG辅助Crisp",
+        "onboard_time": 1671099390,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 427980,
+        "num": 427980,
+        "word": "布洛芬和连花清瘟能一起吃吗",
+        "onboard_time": 1671080253,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 425586,
+        "num": 425586,
+        "word": "阿根廷队的格局",
+        "onboard_time": 1671097112,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 570493,
+        "num": 413431,
+        "word": "易梦玲好美",
+        "onboard_time": 1671099033,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1359855,
+        "num": 392166,
+        "word": "王鹤棣 黑色睡袍",
+        "onboard_time": 1671102394,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 883804,
+        "num": 348823,
+        "word": "李现 紫色浴袍带枕头",
+        "onboard_time": 1671102274,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 809167,
+        "num": 344789,
+        "word": "白鹿 在逃公主",
+        "onboard_time": 1671102214,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 322718,
+        "num": 322718,
+        "word": "短时间大面积感染易致新变异株出现",
+        "onboard_time": 1671102454,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306767,
+        "num": 306767,
+        "word": "杭州多家药店免费发放新冠抗原试剂",
+        "onboard_time": 1671096515,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275161,
+        "num": 275161,
+        "word": "男子焦虑房贷车贷嫌牛奶贵妻子怒砸",
+        "onboard_time": 1671091829,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273247,
+        "num": 273247,
+        "word": "钟南山提出8条个人防护建议",
+        "onboard_time": 1671093630,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247240,
+        "num": 247240,
+        "word": "郑州被挖机损毁车辆车主发声",
+        "onboard_time": 1671096752,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229008,
+        "num": 229008,
+        "word": "缓解新冠咳嗽的方法",
+        "onboard_time": 1671095973,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 560443,
+        "num": 227100,
+        "word": "王一博GQ亮片刺绣造型",
+        "onboard_time": 1671098434,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 413968,
+        "num": 224411,
+        "word": "周柯宇薛凯琪还原尼克朱迪贴脸",
+        "onboard_time": 1671103356,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 370805,
+        "num": 221901,
+        "word": "崔智秀齐刘海造型",
+        "onboard_time": 1671102214,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 218930,
+        "num": 218930,
+        "word": "养女大学毕业带回十年多年亲儿",
+        "onboard_time": 1671095251,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214939,
+        "num": 214939,
+        "word": "女子确诊给婆婆诉苦连眼睫毛都痛",
+        "onboard_time": 1671092491,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208059,
+        "num": 208059,
+        "word": "钟南山主讲全国高校抗疫大讲堂",
+        "onboard_time": 1671088110,
+        "rank": 35,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 181653,
+        "num": 181653,
+        "word": "工程车当街破坏致人死亡司机被击毙",
+        "onboard_time": 1671089547,
+        "rank": 36,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 179429,
+        "num": 179429,
+        "word": "中国人寿客服回应新冠阳性不理赔",
+        "onboard_time": 1671097233,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169277,
+        "num": 169277,
+        "word": "江苏考研房订单量居全国榜首",
+        "onboard_time": 1671097174,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168658,
+        "num": 168658,
+        "word": "钟南山说大家一起阳的观念不可取",
+        "onboard_time": 1671095912,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283711,
+        "num": 165808,
+        "word": "关晓彤黑色抹胸短裙造型",
+        "onboard_time": 1671091291,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 273553,
+        "num": 163360,
+        "word": "陆毅鲍蕾全家不分开坐飞机的原因",
+        "onboard_time": 1671090205,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150286,
+        "num": 150286,
+        "word": "钟南山称明年初社会将更开放有生气",
+        "onboard_time": 1671103415,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149885,
+        "num": 149885,
+        "word": "实现硕士研究生招生考试考生应考尽考",
+        "onboard_time": 1671088409,
+        "rank": 43,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 147895,
+        "num": 147895,
+        "word": "中国光纤之父赵梓森逝世",
+        "onboard_time": 1671102874,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136087,
+        "num": 136087,
+        "word": "2颗爱马仕白菜能卖99元",
+        "onboard_time": 1671094412,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129590,
+        "num": 129590,
+        "word": "医生教你阳了怎么好得快",
+        "onboard_time": 1671082350,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121108,
+        "num": 121108,
+        "word": "赛里木湖出现冰推奇观",
+        "onboard_time": 1671103114,
+        "rank": 47,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 116893,
+        "num": 116893,
+        "word": "洗猫店对猫咪们的备注",
+        "onboard_time": 1671087269,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 106777,
+        "num": 106777,
+        "word": "微盘点",
+        "onboard_time": 1671104015,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#建设开放型世界经济#"
+    }
+  }
+}

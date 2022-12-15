@@ -1,6 +1,6 @@
 {
   "startTime": 1670775913271,
-  "endTime": 1671102964781,
+  "endTime": 1671104028125,
   "band_list": [
     {
       "raw_hot": 4870645,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 3920721,
-      "num": 642886,
+      "num": 655911,
       "word": "张嘉倪 赢麻了",
       "onboard_time": 1671095251,
       "rank": 10,
@@ -348,7 +348,7 @@
     },
     {
       "raw_hot": 1862283,
-      "num": 618653,
+      "num": 652077,
       "word": "孙千晒和赵丽颖的聊天记录",
       "onboard_time": 1671100953,
       "rank": 11,
@@ -468,7 +468,7 @@
     },
     {
       "raw_hot": 1671940,
-      "num": 632752,
+      "num": 646540,
       "word": "田曦薇 仙",
       "onboard_time": 1671099995,
       "rank": 11,
@@ -635,12 +635,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1379617,
+      "num": 1379617,
+      "word": "杭州火球",
+      "onboard_time": 1671101916,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1366877,
       "num": 1366877,
       "word": "法国2比0摩洛哥",
       "onboard_time": 1671051733,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1323968,
+      "num": 1323968,
+      "word": "杭州疑似有陨石掉落",
+      "onboard_time": 1671101916,
+      "rank": 6,
+      "category": "自然,社会新闻"
     },
     {
       "raw_hot": 1318629,
@@ -728,6 +744,14 @@
       "word": "同事阳了自己不去上班算旷工吗",
       "onboard_time": 1671023132,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1239623,
+      "num": 638112,
+      "word": "妻子用卫生巾给阳性老公降温",
+      "onboard_time": 1671100596,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -953,14 +977,6 @@
       "onboard_time": 1670990418,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1063483,
-      "num": 607849,
-      "word": "妻子用卫生巾给阳性老公降温",
-      "onboard_time": 1671100596,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1062655,
@@ -1355,6 +1371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 856259,
+      "num": 856259,
+      "word": "GQ是懂红毯的",
+      "onboard_time": 1671101794,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 854880,
       "num": 854880,
       "word": "北京疫情发布会",
@@ -1587,14 +1611,6 @@
       "category": "体育,音乐"
     },
     {
-      "raw_hot": 783040,
-      "num": 783040,
-      "word": "杭州火球",
-      "onboard_time": 1671101916,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 782305,
       "num": 782305,
       "word": "LPL 转会期",
@@ -1624,6 +1640,14 @@
       "word": "中青年阳了7天内会发生什么",
       "onboard_time": 1670913913,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 776124,
+      "num": 631590,
+      "word": "女子同事全阳了仅她一人来上班",
+      "onboard_time": 1671102454,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -1667,6 +1691,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 747315,
+      "num": 747315,
+      "word": "GQ睡衣趴",
+      "onboard_time": 1671103776,
+      "rank": 8,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 746045,
       "num": 736680,
       "word": "明星们一定要这样带货吗",
@@ -1705,14 +1737,6 @@
       "onboard_time": 1670850737,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 736282,
-      "num": 736282,
-      "word": "杭州疑似有陨石掉落",
-      "onboard_time": 1671101916,
-      "rank": 6,
-      "category": "自然,社会新闻"
     },
     {
       "raw_hot": 734041,
@@ -2083,20 +2107,20 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 628109,
+      "num": 628109,
+      "word": "全家阳性丈夫成天选做饭人",
+      "onboard_time": 1671100232,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 627664,
       "num": 627664,
       "word": "中国医药与辉瑞公司签订协议",
       "onboard_time": 1671060744,
       "rank": 49,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 627262,
-      "num": 229868,
-      "word": "GQ是懂红毯的",
-      "onboard_time": 1671101794,
-      "rank": 30,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 627162,
@@ -2233,14 +2257,6 @@
       "onboard_time": 1670845396,
       "rank": 11,
       "category": "幽默,影视"
-    },
-    {
-      "raw_hot": 591599,
-      "num": 591599,
-      "word": "全家阳性丈夫成天选做饭人",
-      "onboard_time": 1671100232,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 589760,
@@ -3387,6 +3403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 413968,
+      "num": 224411,
+      "word": "周柯宇薛凯琪还原尼克朱迪贴脸",
+      "onboard_time": 1671103356,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 412712,
       "num": 412712,
       "word": "世界杯半决赛现场响起孤勇者",
@@ -4193,6 +4217,14 @@
       "onboard_time": 1670991254,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 322718,
+      "num": 322718,
+      "word": "短时间大面积感染易致新变异株出现",
+      "onboard_time": 1671102454,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 322696,
@@ -5929,14 +5961,6 @@
       "onboard_time": 1671027395,
       "rank": 38,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 214215,
-      "num": 214215,
-      "word": "女子同事全阳了仅她一人来上班",
-      "onboard_time": 1671102454,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 214019,
@@ -7715,6 +7739,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 150286,
+      "num": 150286,
+      "word": "钟南山称明年初社会将更开放有生气",
+      "onboard_time": 1671103415,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 150001,
       "num": 150001,
       "word": "这门票太值了",
@@ -7745,6 +7777,14 @@
       "onboard_time": 1671028297,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 147895,
+      "num": 147895,
+      "word": "中国光纤之父赵梓森逝世",
+      "onboard_time": 1671102874,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 147702,
@@ -8163,14 +8203,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 133597,
-      "num": 133597,
-      "word": "短时间大面积感染易致新变异株出现",
-      "onboard_time": 1671102454,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 133380,
       "num": 133380,
       "word": "防疫重心从防控感染转到医疗救治",
@@ -8299,6 +8331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129969,
+      "num": 1331668,
+      "word": "儿童感染新冠居家照看要点",
+      "onboard_time": 1671099154,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 129846,
       "num": 129846,
       "word": "社牛新娘自己主持婚礼逗笑全场",
@@ -8337,14 +8377,6 @@
       "onboard_time": 1671073170,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 128793,
-      "num": 1126609,
-      "word": "儿童感染新冠居家照看要点",
-      "onboard_time": 1671099154,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 128412,
@@ -8449,14 +8481,6 @@
       "onboard_time": 1670848875,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 125445,
-      "num": 125445,
-      "word": "中国光纤之父赵梓森逝世",
-      "onboard_time": 1671102874,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 125427,
@@ -8577,6 +8601,14 @@
       "onboard_time": 1670776094,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 121108,
+      "num": 121108,
+      "word": "赛里木湖出现冰推奇观",
+      "onboard_time": 1671103114,
+      "rank": 47,
+      "category": "旅游"
     },
     {
       "raw_hot": 120368,
@@ -8841,6 +8873,14 @@
       "onboard_time": 1670952013,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 106777,
+      "num": 106777,
+      "word": "微盘点",
+      "onboard_time": 1671104015,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 106467,
@@ -9292,7 +9332,7 @@
     },
     {
       "raw_hot": 22722,
-      "num": 597201,
+      "num": 633004,
       "word": "折叠屏首次轻过直板机",
       "onboard_time": 1671102033,
       "rank": 14,
