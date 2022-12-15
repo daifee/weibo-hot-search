@@ -1,6 +1,6 @@
 {
   "startTime": 1671121651972,
-  "endTime": 1671136425186,
+  "endTime": 1671138954890,
   "band_list": [
     {
       "raw_hot": 1139606,
@@ -489,6 +489,14 @@
       "onboard_time": 1671132553,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 18543,
+      "num": 19128,
+      "word": "王鹤棣 黑色睡袍",
+      "onboard_time": 1671102394,
+      "rank": 47,
+      "category": "作品衍生"
     }
   ],
   "hotgov_list": [
