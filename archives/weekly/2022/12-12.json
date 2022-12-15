@@ -1,6 +1,6 @@
 {
   "startTime": 1670775913271,
-  "endTime": 1671082417947,
+  "endTime": 1671085453418,
   "band_list": [
     {
       "raw_hot": 4870645,
@@ -307,6 +307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1986499,
+      "num": 1986499,
+      "word": "至今还未感染的你是怎么做到的",
+      "onboard_time": 1671063209,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1929960,
       "num": 1929960,
       "word": "女子坐地铁不戴口罩称有病毒的人才戴",
@@ -363,16 +371,8 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 1792161,
-      "num": 1792161,
-      "word": "至今还未感染的你是怎么做到的",
-      "onboard_time": 1671063209,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1788293,
-      "num": 1788293,
+      "raw_hot": 1796178,
+      "num": 1796178,
       "word": "布洛芬和连花清瘟能一起吃吗",
       "onboard_time": 1671080253,
       "rank": 11,
@@ -1467,6 +1467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 755231,
+      "num": 445043,
+      "word": "董璇复出拍戏五个月暴瘦70斤",
+      "onboard_time": 1671081992,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 752205,
       "num": 752205,
       "word": "行程卡下线倒计时",
@@ -2107,6 +2115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 561185,
+      "num": 561185,
+      "word": "北大教授建议大规模发放现金或消费券",
+      "onboard_time": 1671083306,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 560266,
       "num": 560266,
       "word": "五月天新歌12月14日上线",
@@ -2651,6 +2667,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 466749,
+      "num": 466749,
+      "word": "李子维说每一次我都会爱上你",
+      "onboard_time": 1671079953,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 464518,
       "num": 464518,
       "word": "女子跑车刚买半年被16岁学生划破",
@@ -2913,6 +2937,14 @@
       "onboard_time": 1671077793,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 427005,
+      "num": 427005,
+      "word": "医生教你阳了怎么好得快",
+      "onboard_time": 1671082350,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 425909,
@@ -3249,14 +3281,6 @@
       "onboard_time": 1670987833,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 388118,
-      "num": 388118,
-      "word": "李子维说每一次我都会爱上你",
-      "onboard_time": 1671079953,
-      "rank": 22,
-      "category": "影视"
     },
     {
       "raw_hot": 384707,
@@ -3971,14 +3995,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 306036,
-      "num": 306036,
-      "word": "董璇复出拍戏五个月暴瘦70斤",
-      "onboard_time": 1671081992,
-      "rank": 23,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 305124,
       "num": 305124,
       "word": "许半夏嫁对人了",
@@ -4137,6 +4153,14 @@
       "onboard_time": 1670988433,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 287927,
+      "num": 287927,
+      "word": "成人布洛芬药物不能和儿童用药混吃",
+      "onboard_time": 1671082828,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 287819,
@@ -4403,10 +4427,26 @@
       "category": "影视"
     },
     {
+      "raw_hot": 272040,
+      "num": 272040,
+      "word": "Light加入WBG",
+      "onboard_time": 1671082049,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 271980,
       "num": 271980,
       "word": "过量服用对乙酰氨基酚感冒药可致肝衰竭",
       "onboard_time": 1671078935,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 271969,
+      "num": 271969,
+      "word": "当事人回应不要彩礼还帮丈夫还债",
+      "onboard_time": 1671080494,
       "rank": 43,
       "category": "社会新闻"
     },
@@ -4425,14 +4465,6 @@
       "onboard_time": 1670977812,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 269982,
-      "num": 251898,
-      "word": "Light加入WBG",
-      "onboard_time": 1671082049,
-      "rank": 30,
-      "category": "游戏"
     },
     {
       "raw_hot": 268954,
@@ -5011,6 +5043,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 232176,
+      "num": 232176,
+      "word": "女司机收养重病弃婴14年丈夫离婚",
+      "onboard_time": 1671083010,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 230985,
       "num": 230985,
       "word": "发烧最想吃什么",
@@ -5129,6 +5169,14 @@
       "onboard_time": 1670998335,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 224930,
+      "num": 224930,
+      "word": "明星GQ盛典造型",
+      "onboard_time": 1671084929,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 224540,
@@ -5393,14 +5441,6 @@
       "onboard_time": 1670822534,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 214008,
-      "num": 214008,
-      "word": "当事人回应不要彩礼还帮丈夫还债",
-      "onboard_time": 1671080494,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 213812,
@@ -6099,6 +6139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 186070,
+      "num": 186070,
+      "word": "梅西精神天津人",
+      "onboard_time": 1671083790,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 185836,
       "num": 175565,
       "word": "医疗机构可为新冠患者在线开具处方",
@@ -6227,6 +6275,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 181918,
+      "num": 181918,
+      "word": "大宋少年志全员宣传王佑硕新剧",
+      "onboard_time": 1671083489,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 181812,
       "num": 140001,
       "word": "虞书欣云之羽造型反差感",
@@ -6281,6 +6337,14 @@
       "onboard_time": 1670771175,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 179577,
+      "num": 179577,
+      "word": "任嘉伦烈焰之武庚纪组讯",
+      "onboard_time": 1671085109,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 179394,
@@ -6377,6 +6441,14 @@
       "onboard_time": 1670927113,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 175955,
+      "num": 175955,
+      "word": "张碧晨唱yesok",
+      "onboard_time": 1671083248,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 175845,
@@ -6875,6 +6947,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 156036,
+      "num": 156036,
+      "word": "奥比岛",
+      "onboard_time": 1671084326,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 155856,
       "num": 155856,
       "word": "特奥破门",
@@ -7219,6 +7299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 142715,
+      "num": 376906,
+      "word": "值得相信的永远是Mate",
+      "onboard_time": 1671084029,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 142322,
       "num": 142322,
       "word": "曾全网追的野象群分家了",
@@ -7417,14 +7505,6 @@
       "onboard_time": 1670761335,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 135947,
-      "num": 135947,
-      "word": "医生教你阳了怎么好得快",
-      "onboard_time": 1671082350,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 134324,
@@ -7753,6 +7833,14 @@
       "onboard_time": 1670861533,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 124041,
+      "num": 124041,
+      "word": "00后女租客退房垃圾堆成山",
+      "onboard_time": 1671084149,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 123540,
