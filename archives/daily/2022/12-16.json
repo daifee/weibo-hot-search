@@ -1,6 +1,6 @@
 {
   "startTime": 1671121651972,
-  "endTime": 1671128474703,
+  "endTime": 1671129277897,
   "band_list": [
     {
       "raw_hot": 1139606,
@@ -195,20 +195,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 278385,
+      "num": 278385,
+      "word": "熬夜真的无解吗",
+      "onboard_time": 1671124699,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 262659,
       "num": 262659,
       "word": "钟南山称明年初社会将更开放有生气",
       "onboard_time": 1671103415,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 253283,
-      "num": 253283,
-      "word": "熬夜真的无解吗",
-      "onboard_time": 1671124699,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 252118,

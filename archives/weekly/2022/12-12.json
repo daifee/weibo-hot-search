@@ -1,6 +1,6 @@
 {
   "startTime": 1670775913271,
-  "endTime": 1671128474703,
+  "endTime": 1671129277897,
   "band_list": [
     {
       "raw_hot": 4870645,
@@ -5235,6 +5235,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 278385,
+      "num": 278385,
+      "word": "熬夜真的无解吗",
+      "onboard_time": 1671124699,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 278143,
       "num": 278143,
       "word": "女子开空调烧熏香守母亲遗体3个月",
@@ -5657,14 +5665,6 @@
       "onboard_time": 1671098912,
       "rank": 32,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 253283,
-      "num": 253283,
-      "word": "熬夜真的无解吗",
-      "onboard_time": 1671124699,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 252891,
