@@ -1,0 +1,410 @@
+{
+  "runTime": 1671086370982,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1776140,
+        "num": 1776140,
+        "word": "至今还未感染的你是怎么做到的",
+        "onboard_time": 1671063209,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1663272,
+        "num": 1663272,
+        "word": "布洛芬和连花清瘟能一起吃吗",
+        "onboard_time": 1671080253,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 10032,
+        "num": 1350138,
+        "word": "60秒速看居家防疫知识",
+        "onboard_time": 1671086188,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1157701,
+        "num": 1157701,
+        "word": "杨迪已被注册成商标",
+        "onboard_time": 1671075330,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 776709,
+        "num": 776709,
+        "word": "GQ 盛典",
+        "onboard_time": 1671072686,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 752356,
+        "num": 752356,
+        "word": "小狗误食6粒布洛芬器官衰竭死亡",
+        "onboard_time": 1671071548,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 750704,
+        "num": 750704,
+        "word": "北大教授建议大规模发放现金或消费券",
+        "onboard_time": 1671083306,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 522291,
+        "num": 522291,
+        "word": "医生教你阳了怎么好得快",
+        "onboard_time": 1671082350,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 427109,
+        "num": 427109,
+        "word": "考研",
+        "onboard_time": 1671067767,
+        "rank": 8,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 378636,
+        "num": 378636,
+        "word": "明星GQ盛典造型",
+        "onboard_time": 1671084929,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 782043,
+        "num": 372876,
+        "word": "董璇复出拍戏五个月暴瘦70斤",
+        "onboard_time": 1671081992,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 572767,
+        "num": 371800,
+        "word": "华西医院23岁医学生抢救无效去世",
+        "onboard_time": 1671061164,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365386,
+        "num": 365386,
+        "word": "李子维说每一次我都会爱上你",
+        "onboard_time": 1671079953,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 358650,
+        "num": 358650,
+        "word": "网易放假1天让员工看世界杯决赛",
+        "onboard_time": 1671078993,
+        "rank": 13,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 131781,
+        "num": 354194,
+        "word": "值得相信的永远是Mate",
+        "onboard_time": 1671084029,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353933,
+        "num": 353933,
+        "word": "成人布洛芬药物不能和儿童用药混吃",
+        "onboard_time": 1671082828,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350246,
+        "num": 350246,
+        "word": "郑州花园路",
+        "onboard_time": 1671076832,
+        "rank": 16,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 60634,
+        "num": 322142,
+        "word": "儿童感染奥密克戎应注意这几点",
+        "onboard_time": 1671022459,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310446,
+        "num": 310446,
+        "word": "王冰冰常驻综艺回归",
+        "onboard_time": 1671080371,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 308858,
+        "num": 308858,
+        "word": "新生儿出生八天被确诊患罕见病",
+        "onboard_time": 1671078392,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301416,
+        "num": 301416,
+        "word": "梅西精神天津人",
+        "onboard_time": 1671083790,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 275060,
+        "num": 275060,
+        "word": "郑州工程用路面钻机肇事男子被击毙",
+        "onboard_time": 1671075990,
+        "rank": 21,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 273447,
+        "num": 273447,
+        "word": "00后女租客退房垃圾堆成山",
+        "onboard_time": 1671084149,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266667,
+        "num": 266667,
+        "word": "当事人回应不要彩礼还帮丈夫还债",
+        "onboard_time": 1671080494,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251245,
+        "num": 251245,
+        "word": "女司机收养重病弃婴14年丈夫离婚",
+        "onboard_time": 1671083010,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238240,
+        "num": 238240,
+        "word": "Light加入WBG",
+        "onboard_time": 1671082049,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 236394,
+        "num": 236394,
+        "word": "女子吃5天感冒药多脏器功能衰竭",
+        "onboard_time": 1671075632,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218940,
+        "num": 218940,
+        "word": "女子买块羊血怎么摔都摔不烂",
+        "onboard_time": 1671070591,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204421,
+        "num": 204421,
+        "word": "林志颖晒全力复健照",
+        "onboard_time": 1671076832,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199173,
+        "num": 199173,
+        "word": "王鹤棣时宴干饭人vlog",
+        "onboard_time": 1671081033,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 190867,
+        "num": 190867,
+        "word": "北方抢黄桃罐头南方抢醋",
+        "onboard_time": 1671076290,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187682,
+        "num": 187682,
+        "word": "阳了真的会浑身疼吗",
+        "onboard_time": 1671061044,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182896,
+        "num": 182896,
+        "word": "主人阳性后狗狗成家里顶梁柱",
+        "onboard_time": 1671068129,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161592,
+        "num": 161592,
+        "word": "张碧晨唱yesok",
+        "onboard_time": 1671083248,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159519,
+        "num": 159519,
+        "word": "Jennie对DJ说给我放PINKVENOM",
+        "onboard_time": 1671077612,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159039,
+        "num": 159039,
+        "word": "徐峥新片29个主演全是素人",
+        "onboard_time": 1671074731,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 158738,
+        "num": 158738,
+        "word": "梁洁粉发齐刘海",
+        "onboard_time": 1671086068,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 158628,
+        "num": 158628,
+        "word": "秦霄贤对徐梦洁说你说话我就冲",
+        "onboard_time": 1671080433,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150889,
+        "num": 150889,
+        "word": "奥比岛",
+        "onboard_time": 1671084326,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 150491,
+        "num": 150491,
+        "word": "如何最大程度让自己不阳",
+        "onboard_time": 1671086009,
+        "rank": 39,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 154364,
+        "num": 146945,
+        "word": "赵丽颖演齐了士农工商",
+        "onboard_time": 1671076290,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 153652,
+        "num": 146680,
+        "word": "大宋少年志全员宣传王佑硕新剧",
+        "onboard_time": 1671083489,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 143043,
+        "num": 143043,
+        "word": "女子买退烧药发现价签贴3层涨20元",
+        "onboard_time": 1671067168,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140036,
+        "num": 140036,
+        "word": "杭州已有街道卫生服务中心可做单管核酸",
+        "onboard_time": 1671074490,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130120,
+        "num": 130120,
+        "word": "本泽马 世界杯",
+        "onboard_time": 1671066270,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127372,
+        "num": 127372,
+        "word": "女子坐地铁不戴口罩称有病毒的人才戴",
+        "onboard_time": 1671062125,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125136,
+        "num": 125136,
+        "word": "官方回应路面钻机街头旋转冲撞",
+        "onboard_time": 1671085949,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122803,
+        "num": 122803,
+        "word": "法国主帅说卫冕冠军不是压力",
+        "onboard_time": 1671086310,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121345,
+        "num": 121345,
+        "word": "光与夜之恋",
+        "onboard_time": 1671078449,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 120477,
+        "num": 120477,
+        "word": "江苏血液中心库存跌破最低警戒线",
+        "onboard_time": 1671070229,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#五级书记一起抓合力推进乡村振兴#"
+    }
+  }
+}
