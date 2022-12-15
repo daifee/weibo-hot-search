@@ -1,6 +1,6 @@
 {
   "startTime": 1671035224820,
-  "endTime": 1671104028125,
+  "endTime": 1671107777524,
   "band_list": [
     {
       "raw_hot": 4163142,
@@ -12,11 +12,19 @@
     },
     {
       "raw_hot": 3920721,
-      "num": 655911,
+      "num": 749997,
       "word": "张嘉倪 赢麻了",
       "onboard_time": 1671095251,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 2623991,
+      "num": 2623991,
+      "word": "杭州火球",
+      "onboard_time": 1671101916,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2438519,
@@ -25,6 +33,14 @@
       "onboard_time": 1671075330,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2430333,
+      "num": 2430333,
+      "word": "女子同事全阳了仅她一人来上班",
+      "onboard_time": 1671102454,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2209720,
@@ -60,7 +76,7 @@
     },
     {
       "raw_hot": 1862283,
-      "num": 652077,
+      "num": 747153,
       "word": "孙千晒和赵丽颖的聊天记录",
       "onboard_time": 1671100953,
       "rank": 11,
@@ -83,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1745098,
+      "num": 1745098,
+      "word": "GQ睡衣趴",
+      "onboard_time": 1671103776,
+      "rank": 8,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1737571,
       "num": 1737571,
       "word": "重庆荣昌区4.0级地震",
@@ -92,7 +116,7 @@
     },
     {
       "raw_hot": 1671940,
-      "num": 646540,
+      "num": 749121,
       "word": "田曦薇 仙",
       "onboard_time": 1671099995,
       "rank": 11,
@@ -115,6 +139,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 1490387,
+      "num": 1490387,
+      "word": "这免疫系统是杀疯了吧",
+      "onboard_time": 1671104674,
+      "rank": 4,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1446662,
       "num": 1446662,
       "word": "钟南山称越晚变阳症状可能越轻",
@@ -129,14 +161,6 @@
       "onboard_time": 1671072686,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1379617,
-      "num": 1379617,
-      "word": "杭州火球",
-      "onboard_time": 1671101916,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1366877,
@@ -176,6 +200,14 @@
       "word": "妻子用卫生巾给阳性老公降温",
       "onboard_time": 1671100596,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1125759,
+      "num": 1125759,
+      "word": "短时间大面积感染易致新变异株出现",
+      "onboard_time": 1671102454,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -228,7 +260,7 @@
     },
     {
       "raw_hot": 994200,
-      "num": 379460,
+      "num": 444408,
       "word": "白鹿 在逃公主",
       "onboard_time": 1671102214,
       "rank": 22,
@@ -249,6 +281,14 @@
       "onboard_time": 1671091829,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 948244,
+      "num": 948244,
+      "word": "GQ是懂红毯的",
+      "onboard_time": 1671101794,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 947146,
@@ -275,6 +315,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 893766,
+      "num": 893766,
+      "word": "23岁儿媳被公公用凳子抡头打伤",
+      "onboard_time": 1671105577,
+      "rank": 7,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 893039,
       "num": 893039,
       "word": "易梦玲好美",
@@ -297,14 +345,6 @@
       "onboard_time": 1671021872,
       "rank": 0,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 856259,
-      "num": 856259,
-      "word": "GQ是懂红毯的",
-      "onboard_time": 1671101794,
-      "rank": 30,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 852610,
@@ -387,20 +427,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 776124,
-      "num": 631590,
-      "word": "女子同事全阳了仅她一人来上班",
-      "onboard_time": 1671102454,
-      "rank": 37,
+      "raw_hot": 751385,
+      "num": 751385,
+      "word": "钟南山称明年初社会将更开放有生气",
+      "onboard_time": 1671103415,
+      "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 747315,
-      "num": 747315,
-      "word": "GQ睡衣趴",
-      "onboard_time": 1671103776,
-      "rank": 8,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 728765,
@@ -457,6 +489,14 @@
       "onboard_time": 1671075632,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 659310,
+      "num": 439590,
+      "word": "GQ红毯",
+      "onboard_time": 1671104916,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 635070,
@@ -555,12 +595,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 569521,
+      "num": 569521,
+      "word": "肖秀荣",
+      "onboard_time": 1671106477,
+      "rank": 15,
+      "category": "教育"
+    },
+    {
       "raw_hot": 565597,
       "num": 565597,
       "word": "李现 GQ盛典",
       "onboard_time": 1671074909,
       "rank": 9,
       "category": "综艺,时尚"
+    },
+    {
+      "raw_hot": 562802,
+      "num": 250900,
+      "word": "关晓彤今天露腿了",
+      "onboard_time": 1671104436,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 558424,
@@ -707,6 +763,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 478211,
+      "num": 478211,
+      "word": "独居的人阳了后有多难",
+      "onboard_time": 1671104072,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 477624,
       "num": 477624,
       "word": "新生儿出生八天被确诊患罕见病",
@@ -801,6 +865,14 @@
       "onboard_time": 1671077793,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 427082,
+      "num": 427082,
+      "word": "浙江两地天降火球",
+      "onboard_time": 1671104916,
+      "rank": 23,
+      "category": "自然,社会新闻"
     },
     {
       "raw_hot": 418816,
@@ -939,6 +1011,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 343420,
+      "num": 343420,
+      "word": "500元的外卖有多精致",
+      "onboard_time": 1671104376,
+      "rank": 26,
+      "category": "美食"
+    },
+    {
       "raw_hot": 341503,
       "num": 341503,
       "word": "鹿晗MV一人分饰两角",
@@ -985,14 +1065,6 @@
       "onboard_time": 1671086485,
       "rank": 22,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 322718,
-      "num": 322718,
-      "word": "短时间大面积感染易致新变异株出现",
-      "onboard_time": 1671102454,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 321943,
@@ -1080,6 +1152,14 @@
       "word": "女子家中养10多只猫臭到邻居不敢开窗",
       "onboard_time": 1671087629,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 303963,
+      "num": 303963,
+      "word": "浦江 陨石",
+      "onboard_time": 1671105934,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -1331,6 +1411,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 242952,
+      "num": 242952,
+      "word": "县委大院王晚菊被家暴",
+      "onboard_time": 1671106899,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 239642,
       "num": 239642,
       "word": "一次吃8根熟香蕉才能缓解便秘",
@@ -1539,6 +1627,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 197138,
+      "num": 197138,
+      "word": "LNG",
+      "onboard_time": 1671107497,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 195462,
       "num": 195462,
       "word": "马嘉祺我们的歌唱我的美丽预告",
@@ -1699,6 +1795,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 175836,
+      "num": 175836,
+      "word": "金华浦江村民称捡到陨石石块",
+      "onboard_time": 1671106957,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 175590,
       "num": 175590,
       "word": "金钟仁姜涩琪李帝努柳智敏合作曲",
@@ -1787,6 +1891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 165051,
+      "num": 165051,
+      "word": "周洁琼郑业成不分周业合拍视频",
+      "onboard_time": 1671105095,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 164514,
       "num": 164514,
       "word": "杭州一小店可用照片换咖啡",
@@ -1843,6 +1955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 159824,
+      "num": 159824,
+      "word": "初恋真的无可替代吗",
+      "onboard_time": 1671107555,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 158525,
       "num": 158525,
       "word": "手游中的灵魂莲华",
@@ -1883,6 +2003,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 153564,
+      "num": 153564,
+      "word": "男子嘚瑟自己干服病毒结果悲剧了",
+      "onboard_time": 1671107376,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152441,
+      "num": 152441,
+      "word": "家庭自制电解质水",
+      "onboard_time": 1671107136,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 152266,
       "num": 152266,
       "word": "2022年度弹幕优雅",
@@ -1899,12 +2035,12 @@
       "category": "社会议题"
     },
     {
-      "raw_hot": 150286,
-      "num": 150286,
-      "word": "钟南山称明年初社会将更开放有生气",
-      "onboard_time": 1671103415,
-      "rank": 42,
-      "category": "社会新闻"
+      "raw_hot": 149656,
+      "num": 149656,
+      "word": "这是飞行员测试吗",
+      "onboard_time": 1671107738,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 149655,
@@ -2068,7 +2204,7 @@
     },
     {
       "raw_hot": 129969,
-      "num": 1331668,
+      "num": 2047931,
       "word": "儿童感染新冠居家照看要点",
       "onboard_time": 1671099154,
       "rank": 2,
