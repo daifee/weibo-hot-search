@@ -1,6 +1,6 @@
 {
   "startTime": 1670775913271,
-  "endTime": 1671095919903,
+  "endTime": 1671096831597,
   "band_list": [
     {
       "raw_hot": 4870645,
@@ -43,6 +43,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 3920721,
+      "num": 598594,
+      "word": "张嘉倪 赢麻了",
+      "onboard_time": 1671095251,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 3734719,
       "num": 3734719,
       "word": "行程卡",
@@ -57,14 +65,6 @@
       "onboard_time": 1670923513,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 3641102,
-      "num": 598594,
-      "word": "张嘉倪 赢麻了",
-      "onboard_time": 1671095251,
-      "rank": 10,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 3597005,
@@ -587,6 +587,14 @@
       "category": "体育,幽默"
     },
     {
+      "raw_hot": 1391112,
+      "num": 1391112,
+      "word": "GQ 盛典",
+      "onboard_time": 1671072686,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1366877,
       "num": 1366877,
       "word": "法国2比0摩洛哥",
@@ -600,14 +608,6 @@
       "word": "陆毅鲍蕾全家不分开坐飞机的原因",
       "onboard_time": 1671090205,
       "rank": 4,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1315344,
-      "num": 1315344,
-      "word": "GQ 盛典",
-      "onboard_time": 1671072686,
-      "rank": 5,
       "category": "综艺"
     },
     {
@@ -712,6 +712,14 @@
       "word": "张文宏称新冠终将成为季节性流行病",
       "onboard_time": 1670828411,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1186445,
+      "num": 1186445,
+      "word": "网曝中国人寿新冠保险阳了却不理赔",
+      "onboard_time": 1671094773,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -1105,6 +1113,14 @@
       "onboard_time": 1670809815,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 954839,
+      "num": 954839,
+      "word": "这个研究生我当定了",
+      "onboard_time": 1671094049,
+      "rank": 9,
+      "category": "幽默"
     },
     {
       "raw_hot": 954387,
@@ -1804,7 +1820,7 @@
     },
     {
       "raw_hot": 676006,
-      "num": 498350,
+      "num": 501789,
       "word": "关晓彤黑色抹胸短裙造型",
       "onboard_time": 1671091291,
       "rank": 11,
@@ -1923,14 +1939,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 641759,
-      "num": 571012,
-      "word": "网曝中国人寿新冠保险阳了却不理赔",
-      "onboard_time": 1671094773,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 637265,
       "num": 637265,
       "word": "TheShy",
@@ -2001,14 +2009,6 @@
       "onboard_time": 1671007756,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 624198,
-      "num": 624198,
-      "word": "这个研究生我当定了",
-      "onboard_time": 1671094049,
-      "rank": 9,
-      "category": "幽默"
     },
     {
       "raw_hot": 618654,
@@ -3316,7 +3316,7 @@
     },
     {
       "raw_hot": 401026,
-      "num": 238281,
+      "num": 261835,
       "word": "田曦薇GQ红毯造型路透",
       "onboard_time": 1671095673,
       "rank": 21,
@@ -3803,6 +3803,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 342075,
+      "num": 342075,
+      "word": "钟南山说大家一起阳的观念不可取",
+      "onboard_time": 1671095912,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 342017,
       "num": 342017,
       "word": "狗狗被主人遗弃路边含泪等待新主人",
@@ -3849,6 +3857,14 @@
       "onboard_time": 1670829977,
       "rank": 42,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 337069,
+      "num": 262821,
+      "word": "王鹤棣穿了个工具箱",
+      "onboard_time": 1671093749,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 336892,
@@ -4323,14 +4339,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 295965,
-      "num": 157059,
-      "word": "王鹤棣穿了个工具箱",
-      "onboard_time": 1671093749,
-      "rank": 31,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 294437,
       "num": 294437,
       "word": "NMIXX吴海媛AAA获奖感言",
@@ -4513,6 +4521,14 @@
       "onboard_time": 1670897169,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 280793,
+      "num": 177008,
+      "word": "多地现阿凡达裸眼3D大屏",
+      "onboard_time": 1671095794,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 280620,
@@ -4755,6 +4771,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 266434,
+      "num": 266434,
+      "word": "OPPO",
+      "onboard_time": 1671095912,
+      "rank": 47,
+      "category": "科技"
+    },
+    {
       "raw_hot": 266232,
       "num": 3139103,
       "word": "防治奥密克戎17个热点问题",
@@ -4817,6 +4841,14 @@
       "onboard_time": 1671021737,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 261601,
+      "num": 261601,
+      "word": "养女大学毕业带回十年多年亲儿",
+      "onboard_time": 1671095251,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 261188,
@@ -5276,7 +5308,7 @@
     },
     {
       "raw_hot": 233844,
-      "num": 155866,
+      "num": 158107,
       "word": "陈飞宇希望被观众记住饰演的角色",
       "onboard_time": 1671093509,
       "rank": 47,
@@ -5659,14 +5691,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 216640,
-      "num": 97934,
-      "word": "OPPO",
-      "onboard_time": 1671095912,
-      "rank": 47,
-      "category": "科技"
-    },
-    {
       "raw_hot": 216418,
       "num": 216418,
       "word": "中国茶申遗成功",
@@ -5907,14 +5931,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 205217,
-      "num": 155631,
-      "word": "多地现阿凡达裸眼3D大屏",
-      "onboard_time": 1671095794,
-      "rank": 34,
-      "category": "影视"
-    },
-    {
       "raw_hot": 204947,
       "num": 204947,
       "word": "詹雯婷张远S级和声",
@@ -5937,6 +5953,14 @@
       "onboard_time": 1670994553,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 203732,
+      "num": 203732,
+      "word": "2颗爱马仕白菜能卖99元",
+      "onboard_time": 1671094412,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 203550,
@@ -6587,6 +6611,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 181060,
+      "num": 181060,
+      "word": "Yagao加入BLG",
+      "onboard_time": 1671096454,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 180989,
       "num": 180989,
       "word": "疾控局回应第二剂次加强针接种问题",
@@ -6753,6 +6785,14 @@
       "onboard_time": 1671083248,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 175902,
+      "num": 175902,
+      "word": "决战平安京五周年",
+      "onboard_time": 1671096274,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 175845,
@@ -7115,6 +7155,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 164514,
+      "num": 164514,
+      "word": "杭州一小店可用照片换咖啡",
+      "onboard_time": 1671095673,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 164123,
       "num": 164123,
       "word": "线上问诊发热人数一周增加超100万",
@@ -7137,6 +7185,22 @@
       "onboard_time": 1671005776,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 163464,
+      "num": 163464,
+      "word": "姆巴佩晃人有多厉害",
+      "onboard_time": 1671092310,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 162942,
+      "num": 156722,
+      "word": "白鹿GQ盛典上班路透",
+      "onboard_time": 1671096274,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 162713,
@@ -7187,11 +7251,11 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 161406,
-      "num": 161406,
-      "word": "2颗爱马仕白菜能卖99元",
-      "onboard_time": 1671094412,
-      "rank": 27,
+      "raw_hot": 161567,
+      "num": 161567,
+      "word": "郑州被挖机损毁车辆车主发声",
+      "onboard_time": 1671096752,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -7225,14 +7289,6 @@
       "onboard_time": 1671078693,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 158455,
-      "num": 158455,
-      "word": "姆巴佩晃人有多厉害",
-      "onboard_time": 1671092310,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 158419,
@@ -7593,6 +7649,14 @@
       "onboard_time": 1671048313,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 145581,
+      "num": 145581,
+      "word": "缓解新冠咳嗽的方法",
+      "onboard_time": 1671095973,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 145059,
@@ -8067,14 +8131,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 128306,
-      "num": 128306,
-      "word": "杭州一小店可用照片换咖啡",
-      "onboard_time": 1671095673,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 127570,
       "num": 127570,
       "word": "廉政狙击反派",
@@ -8291,14 +8347,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 120460,
-      "num": 120460,
-      "word": "养女大学毕业带回十年多年亲儿",
-      "onboard_time": 1671095251,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 120368,
       "num": 120368,
       "word": "赵丽颖戏里戏外事业双排",
@@ -8425,6 +8473,14 @@
       "onboard_time": 1670912113,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 115261,
+      "num": 123036,
+      "word": "杭州多家药店免费发放新冠抗原试剂",
+      "onboard_time": 1671096515,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 114082,
@@ -8665,14 +8721,6 @@
       "onboard_time": 1670963469,
       "rank": 48,
       "category": "情感,社会新闻"
-    },
-    {
-      "raw_hot": 96116,
-      "num": 96116,
-      "word": "钟南山说大家一起阳的观念不可取",
-      "onboard_time": 1671095912,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 96037,
