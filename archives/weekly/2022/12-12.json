@@ -1,6 +1,6 @@
 {
   "startTime": 1670775913271,
-  "endTime": 1671060847377,
+  "endTime": 1671068446646,
   "band_list": [
     {
       "raw_hot": 4870645,
@@ -25,6 +25,14 @@
       "onboard_time": 1670827455,
       "rank": 31,
       "category": "科技"
+    },
+    {
+      "raw_hot": 4163142,
+      "num": 4163142,
+      "word": "华西医院23岁医学生抢救无效去世",
+      "onboard_time": 1671061164,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 4135984,
@@ -283,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1929960,
+      "num": 1929960,
+      "word": "女子坐地铁不戴口罩称有病毒的人才戴",
+      "onboard_time": 1671062125,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1875241,
       "num": 1875241,
       "word": "梅西",
@@ -505,6 +521,14 @@
       "onboard_time": 1670964850,
       "rank": 5,
       "category": "体育,幽默"
+    },
+    {
+      "raw_hot": 1385837,
+      "num": 1385837,
+      "word": "至今还未感染的你是怎么做到的",
+      "onboard_time": 1671063209,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1366877,
@@ -785,6 +809,14 @@
       "onboard_time": 1670990418,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1062655,
+      "num": 1062655,
+      "word": "阳了真的会浑身疼吗",
+      "onboard_time": 1671061044,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1053807,
@@ -1113,6 +1145,14 @@
       "onboard_time": 1670939594,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 852610,
+      "num": 852610,
+      "word": "杨迪晒阳敌表情包",
+      "onboard_time": 1671064769,
+      "rank": 6,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 848193,
@@ -1723,6 +1763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 627664,
+      "num": 627664,
+      "word": "中国医药与辉瑞公司签订协议",
+      "onboard_time": 1671060744,
+      "rank": 49,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 627162,
       "num": 627162,
       "word": "C罗和梅西家庭氛围的区别",
@@ -1939,6 +1987,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 558424,
+      "num": 558424,
+      "word": "和阳性亲友共同生活怎么防护",
+      "onboard_time": 1671062610,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 557276,
       "num": 557276,
       "word": "梅西成为阿根廷队世界杯射手王",
@@ -2017,6 +2073,14 @@
       "onboard_time": 1670912772,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 542059,
+      "num": 542059,
+      "word": "少爷和我",
+      "onboard_time": 1671060802,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 540880,
@@ -2515,6 +2579,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 452232,
+      "num": 452232,
+      "word": "新冠印度仿制药被卖到一盒上千元",
+      "onboard_time": 1671066453,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 450885,
       "num": 396033,
       "word": "警方通报男子当街持刀捅死一女子",
@@ -2561,6 +2633,14 @@
       "onboard_time": 1671022156,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 442519,
+      "num": 442519,
+      "word": "特斯拉高速径直追尾大货车司机身亡",
+      "onboard_time": 1671063089,
+      "rank": 14,
+      "category": "社会负面"
     },
     {
       "raw_hot": 442219,
@@ -2683,6 +2763,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 418816,
+      "num": 418816,
+      "word": "人民日报任仲平",
+      "onboard_time": 1671063871,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 417301,
       "num": 417301,
       "word": "儿童感染新冠出现下列症状要立即就诊",
@@ -2745,6 +2833,14 @@
       "onboard_time": 1670844196,
       "rank": 15,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 407888,
+      "num": 407888,
+      "word": "女子买退烧药发现价签贴3层涨20元",
+      "onboard_time": 1671067168,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 406591,
@@ -3531,6 +3627,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 312301,
+      "num": 312301,
+      "word": "本泽马 世界杯",
+      "onboard_time": 1671066270,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 312232,
       "num": 307678,
       "word": "挂周深的电话是种什么体验",
@@ -3561,6 +3665,14 @@
       "onboard_time": 1670917273,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 307707,
+      "num": 307707,
+      "word": "Uzi遗憾总是贯彻人生",
+      "onboard_time": 1671067589,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 307611,
@@ -3739,6 +3851,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 286825,
+      "num": 286825,
+      "word": "精神病人为发泄情绪四楼扔刀子获刑",
+      "onboard_time": 1671060562,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 286159,
       "num": 286159,
       "word": "考研将分类设置考场考点",
@@ -3905,6 +4025,14 @@
       "onboard_time": 1670987713,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 275533,
+      "num": 275533,
+      "word": "谁能拒绝猫咪的暖被窝申请",
+      "onboard_time": 1671063512,
+      "rank": 22,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 274834,
@@ -4113,6 +4241,14 @@
       "onboard_time": 1670938334,
       "rank": 37,
       "category": "作品衍生,幽默"
+    },
+    {
+      "raw_hot": 257247,
+      "num": 257247,
+      "word": "当老婆得知我变阳后的反应",
+      "onboard_time": 1671062368,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 257052,
@@ -4539,6 +4675,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 227252,
+      "num": 227252,
+      "word": "今天为糖丸爷爷发条微博",
+      "onboard_time": 1671063930,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 227124,
       "num": 227124,
       "word": "流浪地球",
@@ -4577,6 +4721,14 @@
       "onboard_time": 1670998335,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 224540,
+      "num": 224540,
+      "word": "成毅GQ盛典黑色皮衣彩排路透",
+      "onboard_time": 1671061284,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 224464,
@@ -4723,6 +4875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 219042,
+      "num": 219042,
+      "word": "疫情三年让你明白了哪些道理",
+      "onboard_time": 1671065492,
+      "rank": 29,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 218014,
       "num": 218014,
       "word": "一个学期没练功的舞蹈生",
@@ -4803,6 +4963,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 213812,
+      "num": 213812,
+      "word": "风吹半夏大结局你被虐到了吗",
+      "onboard_time": 1671060322,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 212710,
       "num": 212710,
       "word": "免疫力低下人群冬季如何运动",
@@ -4833,6 +5001,14 @@
       "onboard_time": 1670826555,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 211510,
+      "num": 211510,
+      "word": "阿根廷法国会师决赛",
+      "onboard_time": 1671062188,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 211185,
@@ -5467,6 +5643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 183913,
+      "num": 183913,
+      "word": "重庆荣昌区4.0级地震",
+      "onboard_time": 1671064411,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 183896,
       "num": 183896,
       "word": "第一次送礼的小流浪猫",
@@ -5795,6 +5979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 171125,
+      "num": 171125,
+      "word": "姆巴佩鞋带都被踢断了",
+      "onboard_time": 1671060504,
+      "rank": 39,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 170824,
       "num": 170824,
       "word": "公祭日南京鸣响防空警报",
@@ -5945,6 +6137,14 @@
       "onboard_time": 1670830397,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 165858,
+      "num": 165858,
+      "word": "卡塔尔世界杯",
+      "onboard_time": 1671062668,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 165851,
@@ -6107,6 +6307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 157058,
+      "num": 157058,
+      "word": "主人阳性后狗狗成家里顶梁柱",
+      "onboard_time": 1671068129,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 156423,
       "num": 156423,
       "word": "能当水果吃的小黄姜",
@@ -6145,6 +6353,14 @@
       "onboard_time": 1670971388,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 154868,
+      "num": 154868,
+      "word": "李亚鹏确诊新冠",
+      "onboard_time": 1671062547,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 154629,
@@ -6337,6 +6553,14 @@
       "onboard_time": 1670850794,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 146786,
+      "num": 146786,
+      "word": "农学生的挂科理由有多离谱",
+      "onboard_time": 1671063330,
+      "rank": 47,
+      "category": "幽默,教育"
     },
     {
       "raw_hot": 146734,
@@ -6563,6 +6787,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 137571,
+      "num": 137571,
+      "word": "王者墨子新皮肤",
+      "onboard_time": 1671068309,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 137526,
       "num": 137526,
       "word": "马思纯充电完成vlog",
@@ -6681,6 +6913,14 @@
       "onboard_time": 1670778431,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 131921,
+      "num": 131921,
+      "word": "流星划过夜空瞬间有多治愈",
+      "onboard_time": 1671068429,
+      "rank": 49,
+      "category": "自然"
     },
     {
       "raw_hot": 131896,
@@ -6961,14 +7201,6 @@
       "onboard_time": 1670776094,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 120395,
-      "num": 113648,
-      "word": "风吹半夏大结局你被虐到了吗",
-      "onboard_time": 1671060322,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 120368,
@@ -7283,14 +7515,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 96517,
-      "num": 96517,
-      "word": "姆巴佩鞋带都被踢断了",
-      "onboard_time": 1671060504,
-      "rank": 39,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 96219,
       "num": 96219,
       "word": "你感染后的身体感受",
@@ -7355,14 +7579,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 85809,
-      "num": 85809,
-      "word": "精神病人为发泄情绪四楼扔刀子获刑",
-      "onboard_time": 1671060562,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 85691,
       "num": 85691,
       "word": "TXT将1月27日回归",
@@ -7377,14 +7593,6 @@
       "onboard_time": 1670879709,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 84116,
-      "num": 84116,
-      "word": "少爷和我",
-      "onboard_time": 1671060802,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 82454,
@@ -7409,14 +7617,6 @@
       "onboard_time": 1670748797,
       "rank": 43,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 78465,
-      "num": 78465,
-      "word": "中国医药与辉瑞公司签订协议",
-      "onboard_time": 1671060744,
-      "rank": 49,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 77106,
