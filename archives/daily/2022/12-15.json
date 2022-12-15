@@ -1,6 +1,6 @@
 {
   "startTime": 1671035224820,
-  "endTime": 1671069855629,
+  "endTime": 1671072586124,
   "band_list": [
     {
       "raw_hot": 4163142,
@@ -35,6 +35,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1091711,
+      "num": 1091711,
+      "word": "主人阳性后狗狗成家里顶梁柱",
+      "onboard_time": 1671068129,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1062655,
       "num": 1062655,
       "word": "阳了真的会浑身疼吗",
@@ -43,19 +51,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 972176,
+      "num": 972176,
+      "word": "女子买退烧药发现价签贴3层涨20元",
+      "onboard_time": 1671067168,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 926917,
       "num": 926917,
       "word": "男生帮女友改论文把女友改哭了",
       "onboard_time": 1671031951,
       "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 868042,
-      "num": 868042,
-      "word": "女子买退烧药发现价签贴3层涨20元",
-      "onboard_time": 1671067168,
-      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -83,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 829999,
+      "num": 598833,
+      "word": "小狗误食6粒布洛芬器官衰竭死亡",
+      "onboard_time": 1671071548,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 824642,
       "num": 824642,
       "word": "姆巴佩进球比赛法国从未输球",
@@ -107,14 +123,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 707922,
-      "num": 707922,
-      "word": "主人阳性后狗狗成家里顶梁柱",
-      "onboard_time": 1671068129,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 702454,
       "num": 702454,
       "word": "张杰也逃不过家长群接龙",
@@ -137,6 +145,14 @@
       "onboard_time": 1671033088,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 646060,
+      "num": 646060,
+      "word": "女子买块羊血怎么摔都摔不烂",
+      "onboard_time": 1671070591,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 635070,
@@ -179,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 597161,
+      "num": 597161,
+      "word": "陈晓说我没有代表作",
+      "onboard_time": 1671069268,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 558424,
       "num": 558424,
       "word": "和阳性亲友共同生活怎么防护",
@@ -219,8 +243,8 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 459059,
-      "num": 459059,
+      "raw_hot": 490773,
+      "num": 490773,
       "word": "王者墨子新皮肤",
       "onboard_time": 1671068309,
       "rank": 48,
@@ -241,6 +265,14 @@
       "onboard_time": 1671063089,
       "rank": 14,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 439163,
+      "num": 439163,
+      "word": "皇马同意本泽马参加世界杯决赛",
+      "onboard_time": 1671068910,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 430410,
@@ -273,6 +305,14 @@
       "onboard_time": 1671034106,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 416100,
+      "num": 416100,
+      "word": "黄景瑜张婧仪新剧杀青",
+      "onboard_time": 1671071669,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 369761,
@@ -363,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 282780,
+      "num": 282780,
+      "word": "赵丽颖欧豪风吹半夏前后呼应",
+      "onboard_time": 1671070112,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 275533,
       "num": 275533,
       "word": "谁能拒绝猫咪的暖被窝申请",
@@ -411,20 +459,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 256536,
-      "num": 256536,
-      "word": "陈晓说我没有代表作",
-      "onboard_time": 1671069268,
-      "rank": 23,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 239642,
       "num": 239642,
       "word": "一次吃8根熟香蕉才能缓解便秘",
       "onboard_time": 1671025534,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 232535,
+      "num": 232535,
+      "word": "库里左肩 受伤",
+      "onboard_time": 1671071789,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 230985,
@@ -491,6 +539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 206823,
+      "num": 206823,
+      "word": "鞠婧祎BeMyPOI音源上线",
+      "onboard_time": 1671071731,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 202768,
       "num": 202768,
       "word": "林更新 婴儿纸尿裤倒水冻起来",
@@ -515,20 +571,28 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 192840,
+      "num": 192840,
+      "word": "这类人不适合吃黄桃罐头",
+      "onboard_time": 1671070710,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 191454,
+      "num": 191454,
+      "word": "男子捡手机无视失主追赶捡起就跑",
+      "onboard_time": 1671069569,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 190547,
       "num": 190547,
       "word": "丁程鑫GQ盛典出发路透",
       "onboard_time": 1671030994,
       "rank": 25,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 188915,
-      "num": 188915,
-      "word": "皇马同意本泽马参加世界杯决赛",
-      "onboard_time": 1671068910,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 184521,
@@ -544,6 +608,14 @@
       "word": "重庆荣昌区4.0级地震",
       "onboard_time": 1671064411,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 181619,
+      "num": 181619,
+      "word": "不是所有人都适宜喝柠檬水",
+      "onboard_time": 1671069510,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -619,6 +691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 168795,
+      "num": 168795,
+      "word": "挖掘机安装破碎锤在路中央搞破坏",
+      "onboard_time": 1671071731,
+      "rank": 37,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 165858,
       "num": 165858,
       "word": "卡塔尔世界杯",
@@ -641,14 +721,6 @@
       "onboard_time": 1671034583,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 160624,
-      "num": 160624,
-      "word": "不是所有人都适宜喝柠檬水",
-      "onboard_time": 1671069510,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 155856,
@@ -707,14 +779,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 143441,
-      "num": 143441,
-      "word": "男子捡手机无视失主追赶捡起就跑",
-      "onboard_time": 1671069569,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 142255,
       "num": 142255,
       "word": "咖啡店回应连花清瘟四件套",
@@ -753,6 +817,14 @@
       "onboard_time": 1671033147,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 134888,
+      "num": 134888,
+      "word": "这就是电子羽绒服吧",
+      "onboard_time": 1671071070,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 131921,
