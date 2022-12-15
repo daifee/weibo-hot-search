@@ -1,0 +1,410 @@
+{
+  "runTime": 1671069855629,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3802498,
+        "num": 3802498,
+        "word": "华西医院23岁医学生抢救无效去世",
+        "onboard_time": 1671061164,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1803089,
+        "num": 1803089,
+        "word": "女子坐地铁不戴口罩称有病毒的人才戴",
+        "onboard_time": 1671062125,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253127,
+        "num": 1292106,
+        "word": "儿童感染奥密克戎应注意这几点",
+        "onboard_time": 1671022459,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1184115,
+        "num": 1184115,
+        "word": "至今还未感染的你是怎么做到的",
+        "onboard_time": 1671063209,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 915827,
+        "num": 915827,
+        "word": "阳了真的会浑身疼吗",
+        "onboard_time": 1671061044,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 868042,
+        "num": 868042,
+        "word": "女子买退烧药发现价签贴3层涨20元",
+        "onboard_time": 1671067168,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 826623,
+        "num": 826623,
+        "word": "杨迪晒阳敌表情包",
+        "onboard_time": 1671064769,
+        "rank": 6,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 800712,
+        "num": 800712,
+        "word": "考研",
+        "onboard_time": 1671067767,
+        "rank": 7,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 748673,
+        "num": 748673,
+        "word": "法国2比0摩洛哥",
+        "onboard_time": 1671051733,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 707922,
+        "num": 707922,
+        "word": "主人阳性后狗狗成家里顶梁柱",
+        "onboard_time": 1671068129,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 630020,
+        "num": 630020,
+        "word": "vivi刘畊宏亮相卡塔尔",
+        "onboard_time": 1671068548,
+        "rank": 10,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 459059,
+        "num": 459059,
+        "word": "王者墨子新皮肤",
+        "onboard_time": 1671068309,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 454354,
+        "num": 454354,
+        "word": "新冠印度仿制药被卖到一盒上千元",
+        "onboard_time": 1671066453,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 453895,
+        "num": 453895,
+        "word": "中国医药与辉瑞公司签订协议",
+        "onboard_time": 1671060744,
+        "rank": 13,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 449784,
+        "num": 449784,
+        "word": "少爷和我",
+        "onboard_time": 1671060802,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 436849,
+        "num": 436849,
+        "word": "张杰也逃不过家长群接龙",
+        "onboard_time": 1671027695,
+        "rank": 15,
+        "category": "综艺,幽默"
+      },
+      {
+        "raw_hot": 430410,
+        "num": 430410,
+        "word": "Uzi遗憾总是贯彻人生",
+        "onboard_time": 1671067589,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 370568,
+        "num": 370568,
+        "word": "和阳性亲友共同生活怎么防护",
+        "onboard_time": 1671062610,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 369400,
+        "num": 369400,
+        "word": "姆巴佩进球比赛法国从未输球",
+        "onboard_time": 1671044174,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 346953,
+        "num": 346953,
+        "word": "特斯拉高速径直追尾大货车司机身亡",
+        "onboard_time": 1671063089,
+        "rank": 19,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 343837,
+        "num": 343837,
+        "word": "人民日报任仲平",
+        "onboard_time": 1671063871,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304306,
+        "num": 304306,
+        "word": "本泽马 世界杯",
+        "onboard_time": 1671066270,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 262281,
+        "num": 262281,
+        "word": "同事阳了自己不去上班算旷工吗",
+        "onboard_time": 1671023132,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256536,
+        "num": 256536,
+        "word": "陈晓说我没有代表作",
+        "onboard_time": 1671069268,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 252955,
+        "num": 252955,
+        "word": "沪上阿姨致歉",
+        "onboard_time": 1671021872,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 250277,
+        "num": 250277,
+        "word": "县委大院拍出了体制内的真实",
+        "onboard_time": 1671033925,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 229970,
+        "num": 229970,
+        "word": "疫情三年让你明白了哪些道理",
+        "onboard_time": 1671065492,
+        "rank": 26,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 219575,
+        "num": 219575,
+        "word": "精神病人为发泄情绪四楼扔刀子获刑",
+        "onboard_time": 1671060562,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206412,
+        "num": 206412,
+        "word": "法国vs摩洛哥",
+        "onboard_time": 1671030696,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202816,
+        "num": 202816,
+        "word": "谁能拒绝猫咪的暖被窝申请",
+        "onboard_time": 1671063512,
+        "rank": 29,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 194765,
+        "num": 194765,
+        "word": "苏打绿相信响彻世界杯赛场",
+        "onboard_time": 1671068910,
+        "rank": 30,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 188974,
+        "num": 188974,
+        "word": "今天为糖丸爷爷发条微博",
+        "onboard_time": 1671063930,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188915,
+        "num": 188915,
+        "word": "皇马同意本泽马参加世界杯决赛",
+        "onboard_time": 1671068910,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185907,
+        "num": 185907,
+        "word": "林更新 婴儿纸尿裤倒水冻起来",
+        "onboard_time": 1671024213,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184521,
+        "num": 184521,
+        "word": "姆巴佩鞋带都被踢断了",
+        "onboard_time": 1671060504,
+        "rank": 34,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 183765,
+        "num": 183765,
+        "word": "一盒连花清瘟搭售14种药",
+        "onboard_time": 1671058154,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179277,
+        "num": 179277,
+        "word": "当老婆得知我变阳后的反应",
+        "onboard_time": 1671062368,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 178074,
+        "num": 178074,
+        "word": "风吹半夏大结局你被虐到了吗",
+        "onboard_time": 1671060322,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 174141,
+        "num": 174141,
+        "word": "上班阳了算工伤吗",
+        "onboard_time": 1671065791,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171742,
+        "num": 171742,
+        "word": "张婉婷安慰人的方式",
+        "onboard_time": 1671069328,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165175,
+        "num": 165175,
+        "word": "成毅GQ盛典黑色皮衣彩排路透",
+        "onboard_time": 1671061284,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 160624,
+        "num": 160624,
+        "word": "不是所有人都适宜喝柠檬水",
+        "onboard_time": 1671069510,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155350,
+        "num": 155350,
+        "word": "一次吃8根熟香蕉才能缓解便秘",
+        "onboard_time": 1671025534,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146555,
+        "num": 146555,
+        "word": "居家隔离期间工资该怎么算",
+        "onboard_time": 1671069448,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143441,
+        "num": 143441,
+        "word": "男子捡手机无视失主追赶捡起就跑",
+        "onboard_time": 1671069569,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143165,
+        "num": 143165,
+        "word": "男生帮女友改论文把女友改哭了",
+        "onboard_time": 1671031951,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142507,
+        "num": 142507,
+        "word": "C罗在皇马基地训练",
+        "onboard_time": 1671033088,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134932,
+        "num": 134932,
+        "word": "卡塔尔世界杯",
+        "onboard_time": 1671062668,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134008,
+        "num": 134008,
+        "word": "男子高烧近40度睡觉掀被子直冒烟",
+        "onboard_time": 1671010698,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132712,
+        "num": 132712,
+        "word": "重庆荣昌区4.0级地震",
+        "onboard_time": 1671064411,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#神十五乘组首个在轨vlog#"
+    }
+  }
+}

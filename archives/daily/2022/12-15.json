@@ -1,6 +1,6 @@
 {
   "startTime": 1671035224820,
-  "endTime": 1671068446646,
+  "endTime": 1671069855629,
   "band_list": [
     {
       "raw_hot": 4163142,
@@ -51,6 +51,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 868042,
+      "num": 868042,
+      "word": "女子买退烧药发现价签贴3层涨20元",
+      "onboard_time": 1671067168,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 862568,
       "num": 862568,
       "word": "沪上阿姨致歉",
@@ -89,6 +97,22 @@
       "onboard_time": 1671030696,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 800712,
+      "num": 800712,
+      "word": "考研",
+      "onboard_time": 1671067767,
+      "rank": 8,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 707922,
+      "num": 707922,
+      "word": "主人阳性后狗狗成家里顶梁柱",
+      "onboard_time": 1671068129,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 702454,
@@ -131,6 +155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 630020,
+      "num": 630020,
+      "word": "vivi刘畊宏亮相卡塔尔",
+      "onboard_time": 1671068548,
+      "rank": 10,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 627664,
       "num": 627664,
       "word": "中国医药与辉瑞公司签订协议",
@@ -145,14 +177,6 @@
       "onboard_time": 1671010698,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 582741,
-      "num": 582741,
-      "word": "考研",
-      "onboard_time": 1671067767,
-      "rank": 8,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 558424,
@@ -195,8 +219,16 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 452232,
-      "num": 452232,
+      "raw_hot": 459059,
+      "num": 459059,
+      "word": "王者墨子新皮肤",
+      "onboard_time": 1671068309,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 454354,
+      "num": 454354,
       "word": "新冠印度仿制药被卖到一盒上千元",
       "onboard_time": 1671066453,
       "rank": 13,
@@ -209,6 +241,14 @@
       "onboard_time": 1671063089,
       "rank": 14,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 430410,
+      "num": 430410,
+      "word": "Uzi遗憾总是贯彻人生",
+      "onboard_time": 1671067589,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 418816,
@@ -232,14 +272,6 @@
       "word": "儿童感染新冠出现下列症状要立即就诊",
       "onboard_time": 1671034106,
       "rank": 40,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 407888,
-      "num": 407888,
-      "word": "女子买退烧药发现价签贴3层涨20元",
-      "onboard_time": 1671067168,
-      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -297,14 +329,6 @@
       "onboard_time": 1671066270,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 307707,
-      "num": 307707,
-      "word": "Uzi遗憾总是贯彻人生",
-      "onboard_time": 1671067589,
-      "rank": 19,
-      "category": "游戏"
     },
     {
       "raw_hot": 306697,
@@ -387,6 +411,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 256536,
+      "num": 256536,
+      "word": "陈晓说我没有代表作",
+      "onboard_time": 1671069268,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 239642,
       "num": 239642,
       "word": "一次吃8根熟香蕉才能缓解便秘",
@@ -401,6 +433,14 @@
       "onboard_time": 1671031772,
       "rank": 23,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 229970,
+      "num": 229970,
+      "word": "疫情三年让你明白了哪些道理",
+      "onboard_time": 1671065492,
+      "rank": 29,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 227252,
@@ -435,14 +475,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 219042,
-      "num": 219042,
-      "word": "疫情三年让你明白了哪些道理",
-      "onboard_time": 1671065492,
-      "rank": 29,
-      "category": "情感,社会新闻"
-    },
-    {
       "raw_hot": 213812,
       "num": 213812,
       "word": "风吹半夏大结局你被虐到了吗",
@@ -475,12 +507,36 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 194765,
+      "num": 194765,
+      "word": "苏打绿相信响彻世界杯赛场",
+      "onboard_time": 1671068910,
+      "rank": 30,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 190547,
       "num": 190547,
       "word": "丁程鑫GQ盛典出发路透",
       "onboard_time": 1671030994,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 188915,
+      "num": 188915,
+      "word": "皇马同意本泽马参加世界杯决赛",
+      "onboard_time": 1671068910,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 184521,
+      "num": 184521,
+      "word": "姆巴佩鞋带都被踢断了",
+      "onboard_time": 1671060504,
+      "rank": 39,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 183913,
@@ -531,6 +587,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 174141,
+      "num": 174141,
+      "word": "上班阳了算工伤吗",
+      "onboard_time": 1671065791,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173085,
       "num": 173085,
       "word": "北京多家医院有医护人员感染",
@@ -539,28 +603,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 171742,
+      "num": 171742,
+      "word": "张婉婷安慰人的方式",
+      "onboard_time": 1671069328,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 171268,
       "num": 171268,
       "word": "方博 林高远",
       "onboard_time": 1671026734,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 171125,
-      "num": 171125,
-      "word": "姆巴佩鞋带都被踢断了",
-      "onboard_time": 1671060504,
-      "rank": 39,
-      "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 167583,
-      "num": 167583,
-      "word": "上班阳了算工伤吗",
-      "onboard_time": 1671065791,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 165858,
@@ -587,11 +643,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 157058,
-      "num": 157058,
-      "word": "主人阳性后狗狗成家里顶梁柱",
-      "onboard_time": 1671068129,
-      "rank": 45,
+      "raw_hot": 160624,
+      "num": 160624,
+      "word": "不是所有人都适宜喝柠檬水",
+      "onboard_time": 1671069510,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -635,12 +691,28 @@
       "category": "幽默,教育"
     },
     {
+      "raw_hot": 146555,
+      "num": 146555,
+      "word": "居家隔离期间工资该怎么算",
+      "onboard_time": 1671069448,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145849,
       "num": 72270,
       "word": "法国半场1比0摩洛哥",
       "onboard_time": 1671048313,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 143441,
+      "num": 143441,
+      "word": "男子捡手机无视失主追赶捡起就跑",
+      "onboard_time": 1671069569,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 142255,
@@ -673,14 +745,6 @@
       "onboard_time": 1671027573,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 137571,
-      "num": 137571,
-      "word": "王者墨子新皮肤",
-      "onboard_time": 1671068309,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 137430,
