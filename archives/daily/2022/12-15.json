@@ -1,6 +1,6 @@
 {
   "startTime": 1671035224820,
-  "endTime": 1671099651181,
+  "endTime": 1671100637756,
   "band_list": [
     {
       "raw_hot": 4163142,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 3920721,
-      "num": 598594,
+      "num": 642886,
       "word": "张嘉倪 赢麻了",
       "onboard_time": 1671095251,
       "rank": 10,
@@ -171,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 969509,
+      "num": 632752,
+      "word": "田曦薇 仙",
+      "onboard_time": 1671099995,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 963559,
       "num": 963559,
       "word": "男子焦虑房贷车贷嫌牛奶贵妻子怒砸",
@@ -203,6 +211,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 893039,
+      "num": 893039,
+      "word": "易梦玲好美",
+      "onboard_time": 1671099033,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 863858,
       "num": 863858,
       "word": "北大教授建议大规模发放现金或消费券",
@@ -225,6 +241,14 @@
       "onboard_time": 1671064769,
       "rank": 6,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 849613,
+      "num": 849613,
+      "word": "钟南山称越晚变阳症状可能越轻",
+      "onboard_time": 1671099154,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 840100,
@@ -281,6 +305,14 @@
       "onboard_time": 1671093630,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 786264,
+      "num": 615601,
+      "word": "WBG辅助Crisp",
+      "onboard_time": 1671099390,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 782043,
@@ -409,6 +441,22 @@
       "onboard_time": 1671069268,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 592913,
+      "num": 592913,
+      "word": "阿根廷队的格局",
+      "onboard_time": 1671097112,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 592538,
+      "num": 592538,
+      "word": "杭州多家药店免费发放新冠抗原试剂",
+      "onboard_time": 1671096515,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 565597,
@@ -563,28 +611,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 483994,
-      "num": 483994,
-      "word": "杭州多家药店免费发放新冠抗原试剂",
-      "onboard_time": 1671096515,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 477624,
       "num": 477624,
       "word": "新生儿出生八天被确诊患罕见病",
       "onboard_time": 1671078392,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 468303,
-      "num": 468303,
-      "word": "易梦玲好美",
-      "onboard_time": 1671099033,
-      "rank": 13,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 466749,
@@ -619,14 +651,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 463291,
-      "num": 463291,
-      "word": "阿根廷队的格局",
-      "onboard_time": 1671097112,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 458578,
       "num": 458578,
       "word": "梅西精神天津人",
@@ -636,7 +660,7 @@
     },
     {
       "raw_hot": 457920,
-      "num": 224286,
+      "num": 246204,
       "word": "郑州被挖机损毁车辆车主发声",
       "onboard_time": 1671096752,
       "rank": 39,
@@ -657,6 +681,14 @@
       "onboard_time": 1671063089,
       "rank": 14,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 435640,
+      "num": 435640,
+      "word": "缓解新冠咳嗽的方法",
+      "onboard_time": 1671095973,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 430410,
@@ -715,14 +747,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 407488,
-      "num": 407488,
-      "word": "缓解新冠咳嗽的方法",
-      "onboard_time": 1671095973,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 403314,
       "num": 403314,
       "word": "明星GQ盛典造型",
@@ -739,14 +763,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 399296,
-      "num": 399296,
-      "word": "WBG辅助Crisp",
-      "onboard_time": 1671099390,
-      "rank": 19,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 392122,
       "num": 392122,
       "word": "王一博GQ上班路透VSGQ下班路透",
@@ -761,6 +777,14 @@
       "onboard_time": 1671078213,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 378520,
+      "num": 378520,
+      "word": "王鹤棣穿了个工具箱",
+      "onboard_time": 1671093749,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 369761,
@@ -819,14 +843,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 337069,
-      "num": 332014,
-      "word": "王鹤棣穿了个工具箱",
-      "onboard_time": 1671093749,
-      "rank": 31,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 333917,
       "num": 333917,
       "word": "白敬亭跳wadada",
@@ -865,6 +881,14 @@
       "onboard_time": 1671071789,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 318689,
+      "num": 318689,
+      "word": "江苏考研房订单量居全国榜首",
+      "onboard_time": 1671097174,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 315677,
@@ -939,20 +963,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 305557,
-      "num": 305557,
-      "word": "江苏考研房订单量居全国榜首",
-      "onboard_time": 1671097174,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 296743,
       "num": 296743,
       "word": "女司机收养重病弃婴14年丈夫离婚",
       "onboard_time": 1671083010,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 295575,
+      "num": 244240,
+      "word": "李现GQ黑西装造型",
+      "onboard_time": 1671100055,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 295424,
@@ -1148,11 +1172,19 @@
     },
     {
       "raw_hot": 253291,
-      "num": 224038,
+      "num": 230808,
       "word": "SuperJunior新歌上线",
       "onboard_time": 1671098912,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 251978,
+      "num": 251978,
+      "word": "2颗爱马仕白菜能卖99元",
+      "onboard_time": 1671094412,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 249860,
@@ -1161,14 +1193,6 @@
       "onboard_time": 1671081992,
       "rank": 34,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 247408,
-      "num": 247408,
-      "word": "2颗爱马仕白菜能卖99元",
-      "onboard_time": 1671094412,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 244224,
@@ -1212,7 +1236,7 @@
     },
     {
       "raw_hot": 231462,
-      "num": 231462,
+      "num": 250118,
       "word": "中国人寿客服回应新冠阳性不理赔",
       "onboard_time": 1671097233,
       "rank": 28,
@@ -1459,14 +1483,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 187482,
-      "num": 187482,
-      "word": "钟南山称越晚变阳症状可能越轻",
-      "onboard_time": 1671099154,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 184521,
       "num": 184521,
       "word": "姆巴佩鞋带都被踢断了",
@@ -1585,6 +1601,14 @@
       "onboard_time": 1671084326,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 171798,
+      "num": 132630,
+      "word": "今年单曲循环最多的歌",
+      "onboard_time": 1671100534,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 171765,
@@ -1891,6 +1915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129602,
+      "num": 129602,
+      "word": "全家阳性丈夫成天选做饭人",
+      "onboard_time": 1671100232,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 129280,
       "num": 129280,
       "word": "科学家揭开一夜好眠之谜",
@@ -2075,6 +2107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 99980,
+      "num": 99980,
+      "word": "妻子用卫生巾给阳性老公降温",
+      "onboard_time": 1671100596,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 97075,
       "num": 115501,
       "word": "原神试胆大会",
@@ -2139,19 +2179,27 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 81107,
+      "num": 1126609,
+      "word": "儿童感染新冠居家照看要点",
+      "onboard_time": 1671099154,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 79441,
+      "num": 592717,
+      "word": "玩儿下去",
+      "onboard_time": 1671098434,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 73969,
       "num": 73969,
       "word": "复阳者是否有感染性",
       "onboard_time": 1671055814,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 67603,
-      "num": 465989,
-      "word": "玩儿下去",
-      "onboard_time": 1671098434,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -2177,14 +2225,6 @@
       "onboard_time": 1671014115,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 41629,
-      "num": 1126609,
-      "word": "儿童感染新冠居家照看要点",
-      "onboard_time": 1671099154,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 35743,
@@ -2231,6 +2271,9 @@
     },
     {
       "word": "#五级书记一起抓合力推进乡村振兴#"
+    },
+    {
+      "word": "#建设开放型世界经济#"
     }
   ]
 }
