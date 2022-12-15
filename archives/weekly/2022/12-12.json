@@ -1,6 +1,6 @@
 {
   "startTime": 1670775913271,
-  "endTime": 1671079198193,
+  "endTime": 1671081464924,
   "band_list": [
     {
       "raw_hot": 4870645,
@@ -483,6 +483,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1499707,
+      "num": 1499707,
+      "word": "至今还未感染的你是怎么做到的",
+      "onboard_time": 1671063209,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1498203,
       "num": 696845,
       "word": "白敬亭跳wadada",
@@ -547,14 +555,6 @@
       "category": "体育,幽默"
     },
     {
-      "raw_hot": 1385837,
-      "num": 1385837,
-      "word": "至今还未感染的你是怎么做到的",
-      "onboard_time": 1671063209,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1366877,
       "num": 1366877,
       "word": "法国2比0摩洛哥",
@@ -577,6 +577,14 @@
       "onboard_time": 1670914032,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1296103,
+      "num": 1296103,
+      "word": "GQ 盛典",
+      "onboard_time": 1671072686,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 1282697,
@@ -641,14 +649,6 @@
       "onboard_time": 1670891529,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1226693,
-      "num": 1226693,
-      "word": "GQ 盛典",
-      "onboard_time": 1671072686,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 1223528,
@@ -1131,6 +1131,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 910823,
+      "num": 479458,
+      "word": "布洛芬和连花清瘟能一起吃吗",
+      "onboard_time": 1671080253,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 902975,
       "num": 902975,
       "word": "iG公告",
@@ -1249,6 +1257,14 @@
       "onboard_time": 1671056234,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 831906,
+      "num": 831906,
+      "word": "郑州花园路",
+      "onboard_time": 1671076832,
+      "rank": 12,
+      "category": "社会负面"
     },
     {
       "raw_hot": 828201,
@@ -1457,14 +1473,6 @@
       "onboard_time": 1670850197,
       "rank": 5,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 748854,
-      "num": 616374,
-      "word": "郑州花园路",
-      "onboard_time": 1671076832,
-      "rank": 12,
-      "category": "社会负面"
     },
     {
       "raw_hot": 746045,
@@ -2195,6 +2203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 543874,
+      "num": 477110,
+      "word": "林志颖晒全力复健照",
+      "onboard_time": 1671076832,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 542059,
       "num": 542059,
       "word": "少爷和我",
@@ -2443,6 +2459,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 492072,
+      "num": 492072,
+      "word": "北方抢黄桃罐头南方抢醋",
+      "onboard_time": 1671076290,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 490773,
       "num": 490773,
       "word": "王者墨子新皮肤",
@@ -2675,6 +2699,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 461318,
+      "num": 461318,
+      "word": "网易放假1天让员工看世界杯决赛",
+      "onboard_time": 1671078993,
+      "rank": 38,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 459977,
       "num": 380932,
       "word": "梅西个人能力",
@@ -2819,6 +2851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 440039,
+      "num": 440039,
+      "word": "王冰冰常驻综艺回归",
+      "onboard_time": 1671080371,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 439903,
       "num": 439903,
       "word": "著名大V侯宁去世",
@@ -2841,6 +2881,14 @@
       "onboard_time": 1670958489,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 430667,
+      "num": 430667,
+      "word": "新生儿出生八天被确诊患罕见病",
+      "onboard_time": 1671078392,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 430410,
@@ -3251,14 +3299,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 380104,
-      "num": 380104,
-      "word": "北方抢黄桃罐头南方抢醋",
-      "onboard_time": 1671076290,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 377131,
       "num": 377131,
       "word": "鹿晗战损妆造型",
@@ -3329,14 +3369,6 @@
       "onboard_time": 1670910252,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 366862,
-      "num": 366862,
-      "word": "林志颖晒全力复健照",
-      "onboard_time": 1671076832,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 366803,
@@ -3459,6 +3491,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 355948,
+      "num": 355948,
+      "word": "李子维说每一次我都会爱上你",
+      "onboard_time": 1671079953,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 355621,
       "num": 355621,
       "word": "名侦探学院",
@@ -3553,6 +3593,14 @@
       "onboard_time": 1670813230,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 341503,
+      "num": 341503,
+      "word": "鹿晗MV一人分饰两角",
+      "onboard_time": 1671080313,
+      "rank": 24,
+      "category": "音乐"
     },
     {
       "raw_hot": 340554,
@@ -3883,6 +3931,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 310169,
+      "num": 310169,
+      "word": "王鹤棣时宴干饭人vlog",
+      "onboard_time": 1671081033,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 309537,
       "num": 309537,
       "word": "浙江老教师收到60万汇款",
@@ -3945,6 +4001,14 @@
       "onboard_time": 1670958968,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 301588,
+      "num": 301588,
+      "word": "秦霄贤对徐梦洁说你说话我就冲",
+      "onboard_time": 1671080433,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 300654,
@@ -4329,6 +4393,14 @@
       "onboard_time": 1670854277,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 271980,
+      "num": 271980,
+      "word": "过量服用对乙酰氨基酚感冒药可致肝衰竭",
+      "onboard_time": 1671078935,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 271464,
@@ -4995,6 +5067,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 226813,
+      "num": 226813,
+      "word": "女子买盐撒冰面防止路人摔倒",
+      "onboard_time": 1671079773,
+      "rank": 33,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 225965,
       "num": 225965,
       "word": "3女1男吃饭逃单得逞后回头笑",
@@ -5433,14 +5513,6 @@
       "onboard_time": 1670897349,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 207235,
-      "num": 207235,
-      "word": "网易放假1天让员工看世界杯决赛",
-      "onboard_time": 1671078993,
-      "rank": 38,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 206875,
@@ -5915,14 +5987,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 189023,
-      "num": 189023,
-      "word": "过量服用对乙酰氨基酚感冒药可致肝衰竭",
-      "onboard_time": 1671078935,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 188895,
       "num": 188895,
       "word": "李光洁发文告别赵垒",
@@ -6283,6 +6347,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 175845,
+      "num": 175845,
+      "word": "孙千发长文告别野猫",
+      "onboard_time": 1671081393,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 175616,
       "num": 175616,
       "word": "众星为大鹏新电影保你平安宣传",
@@ -6457,6 +6529,14 @@
       "onboard_time": 1670851218,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 168048,
+      "num": 168048,
+      "word": "当事人回应不要彩礼还帮丈夫还债",
+      "onboard_time": 1671080494,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 167943,
@@ -7641,6 +7721,14 @@
       "onboard_time": 1670852116,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 122620,
+      "num": 122620,
+      "word": "卫龙港交所上市",
+      "onboard_time": 1671081393,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 122392,
