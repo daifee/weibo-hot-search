@@ -1,6 +1,6 @@
 {
   "startTime": 1671035224820,
-  "endTime": 1671089615944,
+  "endTime": 1671092703045,
   "band_list": [
     {
       "raw_hot": 4163142,
@@ -59,6 +59,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1633911,
+      "num": 1633911,
+      "word": "阳性康复后还有传染性吗",
+      "onboard_time": 1671087330,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1526660,
+      "num": 1526660,
+      "word": "实现硕士研究生招生考试考生应考尽考",
+      "onboard_time": 1671088409,
+      "rank": 15,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 1366877,
       "num": 1366877,
       "word": "法国2比0摩洛哥",
@@ -67,12 +83,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1296103,
-      "num": 1296103,
+      "raw_hot": 1314650,
+      "num": 1314650,
       "word": "GQ 盛典",
       "onboard_time": 1671072686,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1282536,
+      "num": 1282536,
+      "word": "陆毅鲍蕾全家不分开坐飞机的原因",
+      "onboard_time": 1671090205,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1123362,
+      "num": 890354,
+      "word": "陈乔恩说姐43岁才结婚怕什么",
+      "onboard_time": 1671091291,
+      "rank": 6,
+      "category": "综艺,综艺"
     },
     {
       "raw_hot": 1091711,
@@ -88,14 +120,6 @@
       "word": "阳了真的会浑身疼吗",
       "onboard_time": 1671061044,
       "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1049643,
-      "num": 1049643,
-      "word": "阳性康复后还有传染性吗",
-      "onboard_time": 1671087330,
-      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -251,6 +275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 676006,
+      "num": 422156,
+      "word": "关晓彤黑色抹胸短裙造型",
+      "onboard_time": 1671091291,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 673112,
       "num": 673112,
       "word": "女子吃5天感冒药多脏器功能衰竭",
@@ -393,6 +425,14 @@
       "onboard_time": 1671059481,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 524931,
+      "num": 524931,
+      "word": "阳性研考生由属地制定赴考措施",
+      "onboard_time": 1671090268,
+      "rank": 8,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 515720,
@@ -587,6 +627,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 357005,
+      "num": 357005,
+      "word": "明星GQ工作室出图",
+      "onboard_time": 1671091951,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 356855,
       "num": 356855,
       "word": "法国总统现场观战法国vs摩洛哥",
@@ -595,12 +643,12 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 347328,
-      "num": 347328,
-      "word": "实现硕士研究生招生考试考生应考尽考",
-      "onboard_time": 1671088409,
+      "raw_hot": 353398,
+      "num": 336150,
+      "word": "GQ文案 一样能打",
+      "onboard_time": 1671091829,
       "rank": 15,
-      "category": "教育,社会新闻"
+      "category": "作品衍生"
     },
     {
       "raw_hot": 341503,
@@ -617,6 +665,14 @@
       "onboard_time": 1671058154,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 339121,
+      "num": 339121,
+      "word": "工程车当街破坏致人死亡司机被击毙",
+      "onboard_time": 1671089547,
+      "rank": 35,
+      "category": "社会负面"
     },
     {
       "raw_hot": 333917,
@@ -643,6 +699,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 323932,
+      "num": 323932,
+      "word": "两个外国小朋友吵架后全程不说话",
+      "onboard_time": 1671086485,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 321943,
       "num": 321943,
       "word": "库里左肩 受伤",
@@ -667,11 +731,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 311824,
+      "num": 311824,
+      "word": "洗猫店对猫咪们的备注",
+      "onboard_time": 1671087269,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 310169,
       "num": 310169,
       "word": "王鹤棣时宴干饭人vlog",
       "onboard_time": 1671081033,
       "rank": 26,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 309528,
+      "num": 296948,
+      "word": "陈哲远智族GQ大片",
+      "onboard_time": 1671092369,
+      "rank": 20,
       "category": "作品衍生"
     },
     {
@@ -699,6 +779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 305896,
+      "num": 305896,
+      "word": "女子家中养10多只猫臭到邻居不敢开窗",
+      "onboard_time": 1671087629,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 296743,
       "num": 296743,
       "word": "女司机收养重病弃婴14年丈夫离婚",
@@ -713,14 +801,6 @@
       "onboard_time": 1671088348,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 295380,
-      "num": 295380,
-      "word": "两个外国小朋友吵架后全程不说话",
-      "onboard_time": 1671086485,
-      "rank": 22,
-      "category": "幽默"
     },
     {
       "raw_hot": 294367,
@@ -752,14 +832,6 @@
       "word": "精神病人为发泄情绪四楼扔刀子获刑",
       "onboard_time": 1671060562,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 283843,
-      "num": 283843,
-      "word": "女子家中养10多只猫臭到邻居不敢开窗",
-      "onboard_time": 1671087629,
-      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -809,14 +881,6 @@
       "onboard_time": 1671075570,
       "rank": 27,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 273900,
-      "num": 273900,
-      "word": "洗猫店对猫咪们的备注",
-      "onboard_time": 1671087269,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 273350,
@@ -907,12 +971,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 252137,
+      "num": 252137,
+      "word": "男子焦虑房贷车贷嫌牛奶贵妻子怒砸",
+      "onboard_time": 1671091829,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 249860,
       "num": 249860,
       "word": "张艺兴说之后会发一首适合冬天听的情歌",
       "onboard_time": 1671081992,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 244224,
+      "num": 192508,
+      "word": "吴磊握手失败",
+      "onboard_time": 1671089313,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 239642,
@@ -1083,6 +1163,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 196814,
+      "num": 196814,
+      "word": "国务院联防联控机制发布会",
+      "onboard_time": 1671089609,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 195462,
       "num": 195462,
       "word": "马嘉祺我们的歌唱我的美丽预告",
@@ -1113,14 +1201,6 @@
       "onboard_time": 1671074490,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 192508,
-      "num": 192508,
-      "word": "吴磊握手失败",
-      "onboard_time": 1671089313,
-      "rank": 30,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 191454,
@@ -1211,6 +1291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 175974,
+      "num": 136090,
+      "word": "张若昀GQ冰蓝衬衫造型",
+      "onboard_time": 1671092610,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 175955,
       "num": 175955,
       "word": "张碧晨唱yesok",
@@ -1281,14 +1369,6 @@
       "onboard_time": 1671026734,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 170036,
-      "num": 170036,
-      "word": "工程车当街破坏致人死亡司机被击毙",
-      "onboard_time": 1671089547,
-      "rank": 35,
-      "category": "社会负面"
     },
     {
       "raw_hot": 167627,
@@ -1531,6 +1611,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 130816,
+      "num": 130816,
+      "word": "小太阳起火直接泼水导致爆燃烧家",
+      "onboard_time": 1671091109,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 130626,
       "num": 130626,
       "word": "希望改编成动画的游戏",
@@ -1545,6 +1633,14 @@
       "onboard_time": 1671059720,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 129784,
+      "num": 129784,
+      "word": "增加基层人力可招已离退休人员",
+      "onboard_time": 1671092369,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 129280,
@@ -1627,6 +1723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 118531,
+      "num": 118531,
+      "word": "女子确诊给婆婆诉苦连眼睫毛都痛",
+      "onboard_time": 1671092491,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 117638,
       "num": 117638,
       "word": "清明上河图放大后堪称宋代旅游攻略",
@@ -1675,20 +1779,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 113118,
-      "num": 113118,
-      "word": "国务院联防联控机制发布会",
-      "onboard_time": 1671089609,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 110975,
       "num": 110975,
       "word": "王一博成毅陈哲远张凌赫GQ彩排路透",
       "onboard_time": 1671028174,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 110416,
+      "num": 110416,
+      "word": "姆巴佩晃人有多厉害",
+      "onboard_time": 1671092310,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 107088,
@@ -1708,11 +1812,19 @@
     },
     {
       "raw_hot": 106256,
-      "num": 1350138,
+      "num": 1412382,
       "word": "60秒速看居家防疫知识",
       "onboard_time": 1671086188,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 100221,
+      "num": 110100,
+      "word": "飞机上看准静止锋像冰淇淋鸳鸯锅",
+      "onboard_time": 1671092610,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 95522,

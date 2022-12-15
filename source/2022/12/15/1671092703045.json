@@ -1,0 +1,410 @@
+{
+  "runTime": 1671092703045,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1633911,
+        "num": 1633911,
+        "word": "阳性康复后还有传染性吗",
+        "onboard_time": 1671087330,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1526660,
+        "num": 1526660,
+        "word": "实现硕士研究生招生考试考生应考尽考",
+        "onboard_time": 1671088409,
+        "rank": 1,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 85886,
+        "num": 1412382,
+        "word": "60秒速看居家防疫知识",
+        "onboard_time": 1671086188,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1314650,
+        "num": 1314650,
+        "word": "GQ 盛典",
+        "onboard_time": 1671072686,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1282536,
+        "num": 1282536,
+        "word": "陆毅鲍蕾全家不分开坐飞机的原因",
+        "onboard_time": 1671090205,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 941267,
+        "num": 941267,
+        "word": "布洛芬和连花清瘟能一起吃吗",
+        "onboard_time": 1671080253,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1123362,
+        "num": 890354,
+        "word": "陈乔恩说姐43岁才结婚怕什么",
+        "onboard_time": 1671091291,
+        "rank": 6,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 804772,
+        "num": 804772,
+        "word": "至今还未感染的你是怎么做到的",
+        "onboard_time": 1671063209,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 524931,
+        "num": 524931,
+        "word": "阳性研考生由属地制定赴考措施",
+        "onboard_time": 1671090268,
+        "rank": 8,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 456491,
+        "num": 456491,
+        "word": "钟南山主讲全国高校抗疫大讲堂",
+        "onboard_time": 1671088110,
+        "rank": 9,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 709640,
+        "num": 439015,
+        "word": "杨迪已被注册成商标",
+        "onboard_time": 1671075330,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 676006,
+        "num": 422156,
+        "word": "关晓彤黑色抹胸短裙造型",
+        "onboard_time": 1671091291,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 357005,
+        "num": 357005,
+        "word": "明星GQ工作室出图",
+        "onboard_time": 1671091951,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 351419,
+        "num": 351419,
+        "word": "特朗普预告15日将宣布重大消息",
+        "onboard_time": 1671086246,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339121,
+        "num": 339121,
+        "word": "工程车当街破坏致人死亡司机被击毙",
+        "onboard_time": 1671089547,
+        "rank": 14,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 353398,
+        "num": 336150,
+        "word": "GQ文案 一样能打",
+        "onboard_time": 1671091829,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 323932,
+        "num": 323932,
+        "word": "两个外国小朋友吵架后全程不说话",
+        "onboard_time": 1671086485,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 320636,
+        "num": 320636,
+        "word": "小狗误食6粒布洛芬器官衰竭死亡",
+        "onboard_time": 1671071548,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311824,
+        "num": 311824,
+        "word": "洗猫店对猫咪们的备注",
+        "onboard_time": 1671087269,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 305896,
+        "num": 305896,
+        "word": "女子家中养10多只猫臭到邻居不敢开窗",
+        "onboard_time": 1671087629,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309528,
+        "num": 296948,
+        "word": "陈哲远智族GQ大片",
+        "onboard_time": 1671092369,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 279203,
+        "num": 279203,
+        "word": "董璇复出拍戏五个月暴瘦70斤",
+        "onboard_time": 1671081992,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 278455,
+        "num": 278455,
+        "word": "医生教你阳了怎么好得快",
+        "onboard_time": 1671082350,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260836,
+        "num": 260836,
+        "word": "华西医院23岁医学生抢救无效去世",
+        "onboard_time": 1671061164,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252137,
+        "num": 252137,
+        "word": "男子焦虑房贷车贷嫌牛奶贵妻子怒砸",
+        "onboard_time": 1671091829,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228770,
+        "num": 228770,
+        "word": "00后女租客退房垃圾堆成山",
+        "onboard_time": 1671084149,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228051,
+        "num": 228051,
+        "word": "北大教授建议大规模发放现金或消费券",
+        "onboard_time": 1671083306,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212357,
+        "num": 212357,
+        "word": "考研",
+        "onboard_time": 1671067767,
+        "rank": 27,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 196814,
+        "num": 196814,
+        "word": "国务院联防联控机制发布会",
+        "onboard_time": 1671089609,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172549,
+        "num": 172549,
+        "word": "新生儿出生八天被确诊患罕见病",
+        "onboard_time": 1671078392,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244224,
+        "num": 171973,
+        "word": "吴磊握手失败",
+        "onboard_time": 1671089313,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 212476,
+        "num": 168666,
+        "word": "明星GQ盛典造型",
+        "onboard_time": 1671084929,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 211841,
+        "num": 168239,
+        "word": "赵丽颖2022年关键词是扛",
+        "onboard_time": 1671089487,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204716,
+        "num": 166211,
+        "word": "想见你",
+        "onboard_time": 1671088348,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 202990,
+        "num": 163008,
+        "word": "金智秀韩版嘉人一月刊封面",
+        "onboard_time": 1671088167,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 162668,
+        "num": 162668,
+        "word": "郑州花园路",
+        "onboard_time": 1671076832,
+        "rank": 35,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 159374,
+        "num": 159374,
+        "word": "北方抢黄桃罐头南方抢醋",
+        "onboard_time": 1671076290,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159186,
+        "num": 159186,
+        "word": "成人布洛芬药物不能和儿童用药混吃",
+        "onboard_time": 1671082828,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154820,
+        "num": 154820,
+        "word": "3小时内混吃2次感冒药影响肝功能",
+        "onboard_time": 1671086789,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136940,
+        "num": 136940,
+        "word": "梅西精神天津人",
+        "onboard_time": 1671083790,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175974,
+        "num": 136090,
+        "word": "张若昀GQ冰蓝衬衫造型",
+        "onboard_time": 1671092610,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 132747,
+        "num": 132747,
+        "word": "如何最大程度让自己不阳",
+        "onboard_time": 1671086009,
+        "rank": 41,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 131447,
+        "num": 131447,
+        "word": "工地男子给流浪猫煮面投喂",
+        "onboard_time": 1671088707,
+        "rank": 42,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 130816,
+        "num": 130816,
+        "word": "小太阳起火直接泼水导致爆燃烧家",
+        "onboard_time": 1671091109,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129784,
+        "num": 129784,
+        "word": "增加基层人力可招已离退休人员",
+        "onboard_time": 1671092369,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123864,
+        "num": 123864,
+        "word": "女司机收养重病弃婴14年丈夫离婚",
+        "onboard_time": 1671083010,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118531,
+        "num": 118531,
+        "word": "女子确诊给婆婆诉苦连眼睫毛都痛",
+        "onboard_time": 1671092491,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110416,
+        "num": 110416,
+        "word": "姆巴佩晃人有多厉害",
+        "onboard_time": 1671092310,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104508,
+        "num": 110354,
+        "word": "女子吃5天感冒药多脏器功能衰竭",
+        "onboard_time": 1671075632,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100221,
+        "num": 110100,
+        "word": "飞机上看准静止锋像冰淇淋鸳鸯锅",
+        "onboard_time": 1671092610,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#应对气候变化保护生物多样性#"
+    }
+  }
+}
