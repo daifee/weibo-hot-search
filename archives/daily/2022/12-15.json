@@ -1,6 +1,6 @@
 {
   "startTime": 1671035224820,
-  "endTime": 1671117591793,
+  "endTime": 1671118540863,
   "band_list": [
     {
       "raw_hot": 4163142,
@@ -235,6 +235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1325800,
+      "num": 1325800,
+      "word": "张嘉倪何洛洛豪门姐弟",
+      "onboard_time": 1671118415,
+      "rank": 3,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1323968,
       "num": 1323968,
       "word": "杭州疑似有陨石掉落",
@@ -257,6 +265,14 @@
       "onboard_time": 1671094049,
       "rank": 9,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1245572,
+      "num": 1245572,
+      "word": "田曦薇给我演恶女",
+      "onboard_time": 1671117816,
+      "rank": 4,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1239623,
@@ -328,6 +344,14 @@
       "word": "阳了真的会浑身疼吗",
       "onboard_time": 1671061044,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1048097,
+      "num": 1048097,
+      "word": "一新冠患者因过量饮水导致水中毒",
+      "onboard_time": 1671116381,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -515,6 +539,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 799295,
+      "num": 592209,
+      "word": "梅西点赞邓紫棋微博",
+      "onboard_time": 1671115419,
+      "rank": 11,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 799139,
       "num": 799139,
       "word": "钟南山提出8条个人防护建议",
@@ -577,14 +609,6 @@
       "onboard_time": 1671027695,
       "rank": 3,
       "category": "综艺,幽默"
-    },
-    {
-      "raw_hot": 693803,
-      "num": 592209,
-      "word": "梅西点赞邓紫棋微博",
-      "onboard_time": 1671115419,
-      "rank": 11,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 686056,
@@ -744,14 +768,6 @@
       "word": "独居的人阳了后有多难",
       "onboard_time": 1671104072,
       "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 570703,
-      "num": 570703,
-      "word": "一新冠患者因过量饮水导致水中毒",
-      "onboard_time": 1671116381,
-      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -1004,7 +1020,7 @@
     },
     {
       "raw_hot": 437820,
-      "num": 338081,
+      "num": 366736,
       "word": "余承恩是GQ红毯主持人",
       "onboard_time": 1671112837,
       "rank": 31,
@@ -1123,6 +1139,22 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 404601,
+      "num": 292979,
+      "word": "白鹿自带银色彩带",
+      "onboard_time": 1671118297,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 403492,
+      "num": 403492,
+      "word": "皇马官方宣布签下恩德里克",
+      "onboard_time": 1671116440,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 403314,
       "num": 403314,
       "word": "明星GQ盛典造型",
@@ -1203,6 +1235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 363013,
+      "num": 363013,
+      "word": "新冠7天我经历了什么",
+      "onboard_time": 1671114821,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 361212,
       "num": 229387,
       "word": "张杰GQ后台指导李现唱歌",
@@ -1241,14 +1281,6 @@
       "onboard_time": 1671091829,
       "rank": 15,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 351642,
-      "num": 351642,
-      "word": "新冠7天我经历了什么",
-      "onboard_time": 1671114821,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 341503,
@@ -1305,6 +1337,14 @@
       "onboard_time": 1671074669,
       "rank": 16,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 326433,
+      "num": 247985,
+      "word": "李现张若昀互换奖杯",
+      "onboard_time": 1671117699,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 323932,
@@ -1539,14 +1579,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 274346,
-      "num": 274346,
-      "word": "皇马官方宣布签下恩德里克",
-      "onboard_time": 1671116440,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 274173,
       "num": 274173,
       "word": "RNG官宣Wei续约",
@@ -1724,7 +1756,7 @@
     },
     {
       "raw_hot": 237579,
-      "num": 1443403,
+      "num": 1445272,
       "word": "疫情防控期9个倡议",
       "onboard_time": 1671109116,
       "rank": 2,
@@ -1801,6 +1833,14 @@
       "onboard_time": 1671079773,
       "rank": 33,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 225028,
+      "num": 215300,
+      "word": "小沈阳新冠后变敏阳阳",
+      "onboard_time": 1671118355,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 224540,
@@ -2027,6 +2067,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 190205,
+      "num": 190205,
+      "word": "我头疼的原因找到了",
+      "onboard_time": 1671116917,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 188895,
       "num": 188895,
       "word": "李光洁发文告别赵垒",
@@ -2115,12 +2163,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 177766,
+      "num": 177766,
+      "word": "阳过也要戴口罩",
+      "onboard_time": 1671117637,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 177487,
       "num": 177487,
       "word": "增加基层人力可招已离退休人员",
       "onboard_time": 1671092369,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 177314,
+      "num": 177314,
+      "word": "2022年五十大喜感新闻",
+      "onboard_time": 1671118415,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 175955,
@@ -2233,6 +2297,14 @@
       "onboard_time": 1671062668,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 165754,
+      "num": 165754,
+      "word": "公交司机贴退烧贴吓坏乘客",
+      "onboard_time": 1671116979,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 165214,
@@ -2371,14 +2443,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 153369,
-      "num": 153369,
-      "word": "我头疼的原因找到了",
-      "onboard_time": 1671116917,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 152441,
       "num": 152441,
       "word": "家庭自制电解质水",
@@ -2393,6 +2457,14 @@
       "onboard_time": 1671078754,
       "rank": 49,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 150561,
+      "num": 150561,
+      "word": "女子确诊新冠后又碰上药物过敏",
+      "onboard_time": 1671117518,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 150491,
@@ -2513,14 +2585,6 @@
       "onboard_time": 1671027573,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 139068,
-      "num": 139068,
-      "word": "公交司机贴退烧贴吓坏乘客",
-      "onboard_time": 1671116979,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 137430,
@@ -2657,14 +2721,6 @@
       "onboard_time": 1671081393,
       "rank": 49,
       "category": "财经"
-    },
-    {
-      "raw_hot": 121635,
-      "num": 137173,
-      "word": "女子确诊新冠后又碰上药物过敏",
-      "onboard_time": 1671117518,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 121108,
