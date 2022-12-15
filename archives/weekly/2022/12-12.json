@@ -1,6 +1,6 @@
 {
   "startTime": 1670775913271,
-  "endTime": 1671111477787,
+  "endTime": 1671113874537,
   "band_list": [
     {
       "raw_hot": 4870645,
@@ -320,6 +320,14 @@
       "word": "至今还未感染的你是怎么做到的",
       "onboard_time": 1671063209,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2027649,
+      "num": 2027649,
+      "word": "男子阳性后摆烂妻子被传染秒重视",
+      "onboard_time": 1671109719,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -643,12 +651,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1444716,
+      "num": 402079,
+      "word": "王一博不参加GQ睡衣趴的原因",
+      "onboard_time": 1671112539,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1437001,
       "num": 1437001,
       "word": "教育局回应班主任核酸把关不严被调查",
       "onboard_time": 1671026554,
       "rank": 29,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1423396,
+      "num": 1423396,
+      "word": "GQ是懂红毯的",
+      "onboard_time": 1671101794,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1423372,
@@ -795,14 +819,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1238093,
-      "num": 1238093,
-      "word": "GQ是懂红毯的",
-      "onboard_time": 1671101794,
-      "rank": 30,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 1231292,
       "num": 1056053,
       "word": "孕妇怕感染在车里办公",
@@ -841,6 +857,14 @@
       "onboard_time": 1670828411,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1188486,
+      "num": 1188486,
+      "word": "克罗地亚总统暗示阿根廷赢在裁判",
+      "onboard_time": 1671108636,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 1185645,
@@ -1067,6 +1091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1051028,
+      "num": 1051028,
+      "word": "马思纯杀回来了",
+      "onboard_time": 1671111096,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1046660,
       "num": 454620,
       "word": "赵丽颖回复谢娜十三角关系我一定到位",
@@ -1265,14 +1297,6 @@
       "onboard_time": 1671091829,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 960320,
-      "num": 960320,
-      "word": "克罗地亚总统暗示阿根廷赢在裁判",
-      "onboard_time": 1671108636,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 957633,
@@ -1539,14 +1563,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 825938,
-      "num": 653194,
-      "word": "男子阳性后摆烂妻子被传染秒重视",
-      "onboard_time": 1671109719,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 824642,
       "num": 824642,
       "word": "姆巴佩进球比赛法国从未输球",
@@ -1633,6 +1649,14 @@
       "onboard_time": 1670827334,
       "rank": 5,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 803254,
+      "num": 803254,
+      "word": "阿根廷更衣室扔对手球衣",
+      "onboard_time": 1671110675,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 799139,
@@ -2179,6 +2203,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 636067,
+      "num": 636067,
+      "word": "腿姐阳了",
+      "onboard_time": 1671112419,
+      "rank": 13,
+      "category": "教育"
+    },
+    {
       "raw_hot": 635660,
       "num": 635660,
       "word": "12日北京一次性投放2500万抗原试剂",
@@ -2241,6 +2273,14 @@
       "onboard_time": 1671007756,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 621749,
+      "num": 621749,
+      "word": "女子离婚净身出户带孩子住毛坯房",
+      "onboard_time": 1671111636,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 619593,
@@ -3571,6 +3611,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 409919,
+      "num": 409919,
+      "word": "男子阳了后贴退热贴哭着喊找妈妈",
+      "onboard_time": 1671109477,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 409839,
       "num": 409839,
       "word": "猫从来不喝碗里的水",
@@ -3859,14 +3907,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 379761,
-      "num": 379761,
-      "word": "男子阳了后贴退热贴哭着喊找妈妈",
-      "onboard_time": 1671109477,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 378520,
       "num": 378520,
       "word": "王鹤棣穿了个工具箱",
@@ -4035,6 +4075,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 359483,
+      "num": 359483,
+      "word": "美国白宫将重启免费新冠居家检测",
+      "onboard_time": 1671110312,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 358925,
       "num": 358925,
       "word": "丁程鑫GQ盛典出发路透",
@@ -4057,6 +4105,14 @@
       "onboard_time": 1670962210,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 357374,
+      "num": 297324,
+      "word": "余承恩是GQ红毯主持人",
+      "onboard_time": 1671112837,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 357098,
@@ -4105,14 +4161,6 @@
       "onboard_time": 1670900892,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 353429,
-      "num": 274436,
-      "word": "马思纯杀回来了",
-      "onboard_time": 1671111096,
-      "rank": 32,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 353398,
@@ -4195,12 +4243,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 341682,
+      "num": 341682,
+      "word": "手机里出现这些APP立刻删除",
+      "onboard_time": 1671109597,
+      "rank": 39,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 341503,
       "num": 341503,
       "word": "鹿晗MV一人分饰两角",
       "onboard_time": 1671080313,
       "rank": 24,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 341084,
+      "num": 341084,
+      "word": "第十版新冠诊疗方案与防控方案即将出台",
+      "onboard_time": 1671111580,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 340554,
@@ -4473,14 +4537,6 @@
       "onboard_time": 1670800386,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 316867,
-      "num": 316867,
-      "word": "阿根廷更衣室扔对手球衣",
-      "onboard_time": 1671110675,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 315968,
@@ -4777,6 +4833,14 @@
       "onboard_time": 1670851155,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 291571,
+      "num": 291571,
+      "word": "影院回应阿凡达2票价高",
+      "onboard_time": 1671113558,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 289713,
@@ -5699,6 +5763,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 236035,
+      "num": 236035,
+      "word": "沈阳市民捡到1岁男童2天没人领",
+      "onboard_time": 1671113018,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 235759,
       "num": 235759,
       "word": "鞠婧祎BeMyPOI音源上线",
@@ -5747,6 +5819,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 234603,
+      "num": 212373,
+      "word": "周深说去KTV唱歌像加班",
+      "onboard_time": 1671112657,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 233844,
       "num": 158107,
       "word": "陈飞宇希望被观众记住饰演的角色",
@@ -5769,14 +5849,6 @@
       "onboard_time": 1671108453,
       "rank": 31,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 232460,
-      "num": 232460,
-      "word": "手机里出现这些APP立刻删除",
-      "onboard_time": 1671109597,
-      "rank": 39,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 232307,
@@ -6409,14 +6481,6 @@
       "onboard_time": 1670808310,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 204448,
-      "num": 204448,
-      "word": "美国白宫将重启免费新冠居家检测",
-      "onboard_time": 1671110312,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 204289,
@@ -7107,6 +7171,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 182076,
+      "num": 182076,
+      "word": "布洛芬什么姿势的效果最好",
+      "onboard_time": 1671113259,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 181918,
       "num": 181918,
       "word": "大宋少年志全员宣传王佑硕新剧",
@@ -7201,6 +7273,14 @@
       "onboard_time": 1670900230,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 178463,
+      "num": 178463,
+      "word": "1岁宝宝高烧39度头顶冒烟",
+      "onboard_time": 1671113798,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 178312,
@@ -7825,6 +7905,14 @@
       "onboard_time": 1670836276,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 158170,
+      "num": 158170,
+      "word": "雪人界翘臀天花板",
+      "onboard_time": 1671113680,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 157832,
@@ -9563,6 +9651,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 50117,
+      "num": 212796,
+      "word": "永远会被中国美学感动",
+      "onboard_time": 1671112837,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 48418,
       "num": 576792,
       "word": "Find N2",
@@ -9665,6 +9761,14 @@
       "onboard_time": 1671015625,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12531,
+      "num": 623568,
+      "word": "电动时代驾驶乐趣在哪儿",
+      "onboard_time": 1671112837,
+      "rank": 14,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
@@ -9706,6 +9810,9 @@
     },
     {
       "word": "#建设开放型世界经济#"
+    },
+    {
+      "word": "#坚定不移走好高质量发展之路#"
     }
   ]
 }
