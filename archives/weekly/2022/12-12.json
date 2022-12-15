@@ -1,6 +1,6 @@
 {
   "startTime": 1670775913271,
-  "endTime": 1671075482355,
+  "endTime": 1671078245555,
   "band_list": [
     {
       "raw_hot": 4870645,
@@ -177,6 +177,14 @@
       "onboard_time": 1670965150,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2362950,
+      "num": 2362950,
+      "word": "杨迪已被注册成商标",
+      "onboard_time": 1671075330,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 2345769,
@@ -376,6 +384,14 @@
       "word": "行程卡下线",
       "onboard_time": 1670776632,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1737571,
+      "num": 1737571,
+      "word": "重庆荣昌区4.0级地震",
+      "onboard_time": 1671064411,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -731,14 +747,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 1135939,
-      "num": 565107,
-      "word": "杨迪已被注册成商标",
-      "onboard_time": 1671075330,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1126193,
       "num": 1126193,
       "word": "韦神宣布退役",
@@ -897,6 +905,14 @@
       "onboard_time": 1671006018,
       "rank": 42,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 1026756,
+      "num": 1026756,
+      "word": "郑州工程用路面钻机肇事男子被击毙",
+      "onboard_time": 1671075990,
+      "rank": 5,
+      "category": "社会负面"
     },
     {
       "raw_hot": 1025681,
@@ -2227,6 +2243,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 528046,
+      "num": 528046,
+      "word": "杭州已有街道卫生服务中心可做单管核酸",
+      "onboard_time": 1671074490,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 527401,
       "num": 527401,
       "word": "女子被骗去酒店隔离转给对方29万",
@@ -2267,6 +2291,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 515720,
+      "num": 501698,
+      "word": "Jennie对DJ说给我放PINKVENOM",
+      "onboard_time": 1671077612,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 515189,
       "num": 515189,
       "word": "上海置地广场店员称一小时客流堪比一周",
@@ -2283,6 +2315,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 512439,
+      "num": 501201,
+      "word": "郑州花园路",
+      "onboard_time": 1671076832,
+      "rank": 12,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 512324,
       "num": 512324,
       "word": "商家辟谣黄桃罐头无药效网友怼你不懂",
@@ -2297,6 +2337,14 @@
       "onboard_time": 1671021798,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 506246,
+      "num": 506246,
+      "word": "台湾地震",
+      "onboard_time": 1671077974,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 505994,
@@ -2345,6 +2393,14 @@
       "onboard_time": 1670834178,
       "rank": 16,
       "category": "体育,综艺"
+    },
+    {
+      "raw_hot": 498669,
+      "num": 498669,
+      "word": "女子吃5天感冒药多脏器功能衰竭",
+      "onboard_time": 1671075632,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 498358,
@@ -2440,6 +2496,14 @@
       "word": "电影想见你莫俊杰预告",
       "onboard_time": 1670822835,
       "rank": 19,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 482197,
+      "num": 482197,
+      "word": "徐峥新片29个主演全是素人",
+      "onboard_time": 1671074731,
+      "rank": 17,
       "category": "影视"
     },
     {
@@ -2787,6 +2851,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 428596,
+      "num": 428596,
+      "word": "水下摄影师说朱一龙潜水有经验",
+      "onboard_time": 1671077793,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 425909,
       "num": 425909,
       "word": "王一博GQ盛典机场出发图",
@@ -3120,6 +3192,14 @@
       "word": "嗓子疼如何缓解",
       "onboard_time": 1670889612,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 384415,
+      "num": 384415,
+      "word": "厦门地震",
+      "onboard_time": 1671078213,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -3523,6 +3603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 334528,
+      "num": 334528,
+      "word": "林志颖晒全力复健照",
+      "onboard_time": 1671076832,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 332827,
       "num": 228602,
       "word": "TT官宣Huanfeng加入",
@@ -3691,14 +3779,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 316146,
-      "num": 316146,
-      "word": "徐峥新片29个主演全是素人",
-      "onboard_time": 1671074731,
-      "rank": 17,
-      "category": "影视"
-    },
-    {
       "raw_hot": 315968,
       "num": 315968,
       "word": "FoFo",
@@ -3857,6 +3937,14 @@
       "onboard_time": 1670940134,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 299564,
+      "num": 299564,
+      "word": "北方抢黄桃罐头南方抢醋",
+      "onboard_time": 1671076290,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 297192,
@@ -4179,6 +4267,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 274173,
+      "num": 274173,
+      "word": "RNG官宣Wei续约",
+      "onboard_time": 1671075570,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 273597,
       "num": 273597,
       "word": "刘耀文说舞台就像一个家",
@@ -4257,6 +4353,14 @@
       "onboard_time": 1670989152,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 266173,
+      "num": 266173,
+      "word": "赵丽颖演齐了士农工商",
+      "onboard_time": 1671076290,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 264517,
@@ -4361,6 +4465,14 @@
       "onboard_time": 1670771235,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 258386,
+      "num": 258386,
+      "word": "张婉婷宋宁峰终于不相杀了",
+      "onboard_time": 1671074969,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 258227,
@@ -4481,6 +4593,14 @@
       "onboard_time": 1670837420,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 249708,
+      "num": 249708,
+      "word": "江苏血液中心库存跌破最低警戒线",
+      "onboard_time": 1671070229,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 249655,
@@ -4979,6 +5099,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 220634,
+      "num": 220634,
+      "word": "宋亚轩音乐会百忧戒舞台直拍",
+      "onboard_time": 1671077733,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 220392,
+      "num": 220392,
+      "word": "王栎鑫送网友禁止蕉绿套餐",
+      "onboard_time": 1671075392,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 220268,
       "num": 220268,
       "word": "赵垒挑衅许半夏情敌",
@@ -5131,6 +5267,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 213671,
+      "num": 213671,
+      "word": "月歌行一首歌吻3次",
+      "onboard_time": 1671076950,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 212710,
       "num": 212710,
       "word": "免疫力低下人群冬季如何运动",
@@ -5227,14 +5371,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 209259,
-      "num": 209259,
-      "word": "杭州已有街道卫生服务中心可做单管核酸",
-      "onboard_time": 1671074490,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 209210,
       "num": 209210,
       "word": "谷爱凌要期末考试了",
@@ -5313,6 +5449,14 @@
       "onboard_time": 1671027155,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 205417,
+      "num": 268489,
+      "word": "中国外交领事机构馆舍和人员不可侵犯",
+      "onboard_time": 1671074548,
+      "rank": 48,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 204947,
@@ -5441,14 +5585,6 @@
       "onboard_time": 1671001396,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 199281,
-      "num": 192937,
-      "word": "王栎鑫送网友禁止蕉绿套餐",
-      "onboard_time": 1671075392,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 198870,
@@ -5755,6 +5891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 188895,
+      "num": 188895,
+      "word": "李光洁发文告别赵垒",
+      "onboard_time": 1671078152,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 188843,
       "num": 134796,
       "word": "快乐再出发真的好冷海报",
@@ -5873,14 +6017,6 @@
       "onboard_time": 1671060504,
       "rank": 39,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 183913,
-      "num": 183913,
-      "word": "重庆荣昌区4.0级地震",
-      "onboard_time": 1671064411,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 183896,
@@ -6195,6 +6331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 171765,
+      "num": 171765,
+      "word": "如何看待网购出问题商家失联",
+      "onboard_time": 1671077913,
+      "rank": 45,
+      "category": "社会议题,科技"
+    },
+    {
       "raw_hot": 171742,
       "num": 171742,
       "word": "张婉婷安慰人的方式",
@@ -6481,6 +6625,14 @@
       "onboard_time": 1670945893,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 162580,
+      "num": 162580,
+      "word": "4名95后创业助400家农户卖脐橙",
+      "onboard_time": 1671077252,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 162558,
@@ -7225,14 +7377,6 @@
       "onboard_time": 1670935695,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 130691,
-      "num": 130691,
-      "word": "中国外交领事机构馆舍和人员不可侵犯",
-      "onboard_time": 1671074548,
-      "rank": 48,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 130531,

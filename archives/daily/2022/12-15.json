@@ -1,6 +1,6 @@
 {
   "startTime": 1671035224820,
-  "endTime": 1671075482355,
+  "endTime": 1671078245555,
   "band_list": [
     {
       "raw_hot": 4163142,
@@ -9,6 +9,14 @@
       "onboard_time": 1671061164,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2362950,
+      "num": 2362950,
+      "word": "杨迪已被注册成商标",
+      "onboard_time": 1671075330,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 2209720,
@@ -24,6 +32,14 @@
       "word": "女子坐地铁不戴口罩称有病毒的人才戴",
       "onboard_time": 1671062125,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1737571,
+      "num": 1737571,
+      "word": "重庆荣昌区4.0级地震",
+      "onboard_time": 1671064411,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -51,14 +67,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1135939,
-      "num": 565107,
-      "word": "杨迪已被注册成商标",
-      "onboard_time": 1671075330,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1091711,
       "num": 1091711,
       "word": "主人阳性后狗狗成家里顶梁柱",
@@ -73,6 +81,14 @@
       "onboard_time": 1671061044,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1026756,
+      "num": 1026756,
+      "word": "郑州工程用路面钻机肇事男子被击毙",
+      "onboard_time": 1671075990,
+      "rank": 5,
+      "category": "社会负面"
     },
     {
       "raw_hot": 972176,
@@ -251,12 +267,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 528046,
+      "num": 528046,
+      "word": "杭州已有街道卫生服务中心可做单管核酸",
+      "onboard_time": 1671074490,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 525525,
       "num": 525525,
       "word": "姆巴佩",
       "onboard_time": 1671059481,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 515720,
+      "num": 501698,
+      "word": "Jennie对DJ说给我放PINKVENOM",
+      "onboard_time": 1671077612,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 512439,
+      "num": 501201,
+      "word": "郑州花园路",
+      "onboard_time": 1671076832,
+      "rank": 12,
+      "category": "社会负面"
     },
     {
       "raw_hot": 506325,
@@ -267,12 +307,36 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 506246,
+      "num": 506246,
+      "word": "台湾地震",
+      "onboard_time": 1671077974,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 498669,
+      "num": 498669,
+      "word": "女子吃5天感冒药多脏器功能衰竭",
+      "onboard_time": 1671075632,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 490773,
       "num": 490773,
       "word": "王者墨子新皮肤",
       "onboard_time": 1671068309,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 482197,
+      "num": 482197,
+      "word": "徐峥新片29个主演全是素人",
+      "onboard_time": 1671074731,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 464427,
@@ -307,6 +371,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 428596,
+      "num": 428596,
+      "word": "水下摄影师说朱一龙潜水有经验",
+      "onboard_time": 1671077793,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 418816,
       "num": 418816,
       "word": "人民日报任仲平",
@@ -337,6 +409,14 @@
       "onboard_time": 1671071669,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 384415,
+      "num": 384415,
+      "word": "厦门地震",
+      "onboard_time": 1671078213,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 369761,
@@ -371,6 +451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 334528,
+      "num": 334528,
+      "word": "林志颖晒全力复健照",
+      "onboard_time": 1671076832,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 333917,
       "num": 333917,
       "word": "白敬亭跳wadada",
@@ -395,14 +483,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 316146,
-      "num": 316146,
-      "word": "徐峥新片29个主演全是素人",
-      "onboard_time": 1671074731,
-      "rank": 17,
-      "category": "影视"
-    },
-    {
       "raw_hot": 315677,
       "num": 315677,
       "word": "专家科普为何北京有症状感染者更多",
@@ -424,6 +504,14 @@
       "word": "商家回应买N95口罩超1月不发货",
       "onboard_time": 1671022827,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 299564,
+      "num": 299564,
+      "word": "北方抢黄桃罐头南方抢醋",
+      "onboard_time": 1671076290,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -475,8 +563,16 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 274173,
+      "num": 274173,
+      "word": "RNG官宣Wei续约",
+      "onboard_time": 1671075570,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 273350,
-      "num": 1584726,
+      "num": 1744861,
       "word": "儿童感染奥密克戎应注意这几点",
       "onboard_time": 1671022459,
       "rank": 2,
@@ -489,6 +585,14 @@
       "onboard_time": 1671057976,
       "rank": 16,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 266173,
+      "num": 266173,
+      "word": "赵丽颖演齐了士农工商",
+      "onboard_time": 1671076290,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 262402,
@@ -507,6 +611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 258386,
+      "num": 258386,
+      "word": "张婉婷宋宁峰终于不相杀了",
+      "onboard_time": 1671074969,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 257597,
       "num": 257597,
       "word": "张朝阳呼吁不要囤退烧药",
@@ -521,6 +633,14 @@
       "onboard_time": 1671062368,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 249708,
+      "num": 249708,
+      "word": "江苏血液中心库存跌破最低警戒线",
+      "onboard_time": 1671070229,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 239642,
@@ -587,6 +707,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 220634,
+      "num": 220634,
+      "word": "宋亚轩音乐会百忧戒舞台直拍",
+      "onboard_time": 1671077733,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 220392,
+      "num": 220392,
+      "word": "王栎鑫送网友禁止蕉绿套餐",
+      "onboard_time": 1671075392,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 219260,
       "num": 219260,
       "word": "北京全市均调整为常态防控状态",
@@ -611,6 +747,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 213671,
+      "num": 213671,
+      "word": "月歌行一首歌吻3次",
+      "onboard_time": 1671076950,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 211510,
       "num": 211510,
       "word": "阿根廷法国会师决赛",
@@ -627,12 +771,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 209259,
-      "num": 209259,
-      "word": "杭州已有街道卫生服务中心可做单管核酸",
-      "onboard_time": 1671074490,
-      "rank": 44,
-      "category": "社会新闻"
+      "raw_hot": 205417,
+      "num": 268489,
+      "word": "中国外交领事机构馆舍和人员不可侵犯",
+      "onboard_time": 1671074548,
+      "rank": 48,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 202768,
@@ -640,14 +784,6 @@
       "word": "林更新 婴儿纸尿裤倒水冻起来",
       "onboard_time": 1671024213,
       "rank": 20,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 199281,
-      "num": 192937,
-      "word": "王栎鑫送网友禁止蕉绿套餐",
-      "onboard_time": 1671075392,
-      "rank": 33,
       "category": "艺人"
     },
     {
@@ -707,20 +843,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 188895,
+      "num": 188895,
+      "word": "李光洁发文告别赵垒",
+      "onboard_time": 1671078152,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 184521,
       "num": 184521,
       "word": "姆巴佩鞋带都被踢断了",
       "onboard_time": 1671060504,
       "rank": 39,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 183913,
-      "num": 183913,
-      "word": "重庆荣昌区4.0级地震",
-      "onboard_time": 1671064411,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 180842,
@@ -779,6 +915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 171765,
+      "num": 171765,
+      "word": "如何看待网购出问题商家失联",
+      "onboard_time": 1671077913,
+      "rank": 45,
+      "category": "社会议题,科技"
+    },
+    {
       "raw_hot": 171742,
       "num": 171742,
       "word": "张婉婷安慰人的方式",
@@ -817,6 +961,14 @@
       "onboard_time": 1671059360,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 162580,
+      "num": 162580,
+      "word": "4名95后创业助400家农户卖脐橙",
+      "onboard_time": 1671077252,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 161260,
@@ -953,14 +1105,6 @@
       "onboard_time": 1671034286,
       "rank": 39,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 130691,
-      "num": 130691,
-      "word": "中国外交领事机构馆舍和人员不可侵犯",
-      "onboard_time": 1671074548,
-      "rank": 48,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 130124,
