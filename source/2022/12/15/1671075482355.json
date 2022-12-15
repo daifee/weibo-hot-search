@@ -1,0 +1,410 @@
+{
+  "runTime": 1671075482355,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2209720,
+        "num": 2209720,
+        "word": "小狗误食6粒布洛芬器官衰竭死亡",
+        "onboard_time": 1671071548,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1091765,
+        "num": 1091765,
+        "word": "GQ 盛典",
+        "onboard_time": 1671072686,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161479,
+        "num": 931286,
+        "word": "儿童感染奥密克戎应注意这几点",
+        "onboard_time": 1671022459,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1809118,
+        "num": 914057,
+        "word": "华西医院23岁医学生抢救无效去世",
+        "onboard_time": 1671061164,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 875876,
+        "num": 875876,
+        "word": "女子坐地铁不戴口罩称有病毒的人才戴",
+        "onboard_time": 1671062125,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 756643,
+        "num": 756643,
+        "word": "至今还未感染的你是怎么做到的",
+        "onboard_time": 1671063209,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 679930,
+        "num": 679930,
+        "word": "女子买退烧药发现价签贴3层涨20元",
+        "onboard_time": 1671067168,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 656835,
+        "num": 656835,
+        "word": "主人阳性后狗狗成家里顶梁柱",
+        "onboard_time": 1671068129,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 627942,
+        "num": 627942,
+        "word": "女子买块羊血怎么摔都摔不烂",
+        "onboard_time": 1671070591,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 565597,
+        "num": 565597,
+        "word": "李现 GQ盛典",
+        "onboard_time": 1671074909,
+        "rank": 9,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 1135939,
+        "num": 565107,
+        "word": "杨迪已被注册成商标",
+        "onboard_time": 1671075330,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 536214,
+        "num": 536214,
+        "word": "阳了真的会浑身疼吗",
+        "onboard_time": 1671061044,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 502384,
+        "num": 502384,
+        "word": "陈晓说我没有代表作",
+        "onboard_time": 1671069268,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 484480,
+        "num": 484480,
+        "word": "考研",
+        "onboard_time": 1671067767,
+        "rank": 13,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 405113,
+        "num": 405113,
+        "word": "皇马同意本泽马参加世界杯决赛",
+        "onboard_time": 1671068910,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 332049,
+        "num": 332049,
+        "word": "法国2比0摩洛哥",
+        "onboard_time": 1671051733,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 329160,
+        "num": 329160,
+        "word": "赵丽颖ELLE一月封面",
+        "onboard_time": 1671074669,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 316146,
+        "num": 316146,
+        "word": "徐峥新片29个主演全是素人",
+        "onboard_time": 1671074731,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 296716,
+        "num": 296716,
+        "word": "Uzi遗憾总是贯彻人生",
+        "onboard_time": 1671067589,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 292884,
+        "num": 292884,
+        "word": "王者墨子新皮肤",
+        "onboard_time": 1671068309,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 276658,
+        "num": 276658,
+        "word": "这类人不适合吃黄桃罐头",
+        "onboard_time": 1671070710,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262402,
+        "num": 262402,
+        "word": "鞠婧祎BeMyPOI舞台ending镜头",
+        "onboard_time": 1671075091,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 231225,
+        "num": 231225,
+        "word": "库里左肩 受伤",
+        "onboard_time": 1671071789,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 230942,
+        "num": 230942,
+        "word": "新冠印度仿制药被卖到一盒上千元",
+        "onboard_time": 1671066453,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229261,
+        "num": 229261,
+        "word": "黄景瑜张婧仪新剧杀青",
+        "onboard_time": 1671071669,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 212752,
+        "num": 212752,
+        "word": "中国医药与辉瑞公司签订协议",
+        "onboard_time": 1671060744,
+        "rank": 25,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 210750,
+        "num": 210750,
+        "word": "vivi刘畊宏亮相卡塔尔",
+        "onboard_time": 1671068548,
+        "rank": 26,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 209259,
+        "num": 209259,
+        "word": "杭州已有街道卫生服务中心可做单管核酸",
+        "onboard_time": 1671074490,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195347,
+        "num": 195347,
+        "word": "本泽马 世界杯",
+        "onboard_time": 1671066270,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182371,
+        "num": 195185,
+        "word": "不是所有人都适宜喝柠檬水",
+        "onboard_time": 1671069510,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220980,
+        "num": 194711,
+        "word": "挖掘机安装破碎锤在路中央搞破坏",
+        "onboard_time": 1671071731,
+        "rank": 30,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 210616,
+        "num": 193721,
+        "word": "少爷和我",
+        "onboard_time": 1671060802,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199895,
+        "num": 193509,
+        "word": "这就是电子羽绒服吧",
+        "onboard_time": 1671071070,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 199281,
+        "num": 192937,
+        "word": "王栎鑫送网友禁止蕉绿套餐",
+        "onboard_time": 1671075392,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192415,
+        "num": 192415,
+        "word": "特斯拉高速径直追尾大货车司机身亡",
+        "onboard_time": 1671063089,
+        "rank": 34,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 185087,
+        "num": 185087,
+        "word": "和阳性亲友共同生活怎么防护",
+        "onboard_time": 1671062610,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173693,
+        "num": 173693,
+        "word": "马嘉祺我们的歌唱我的美丽预告",
+        "onboard_time": 1671073469,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168323,
+        "num": 168323,
+        "word": "男子捡手机无视失主追赶捡起就跑",
+        "onboard_time": 1671069569,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165831,
+        "num": 165831,
+        "word": "一盒连花清瘟搭售14种药",
+        "onboard_time": 1671058154,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162267,
+        "num": 162267,
+        "word": "人民日报任仲平",
+        "onboard_time": 1671063871,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167627,
+        "num": 162183,
+        "word": "GQ盛典今晚见",
+        "onboard_time": 1671074490,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161999,
+        "num": 161999,
+        "word": "沪上阿姨致歉",
+        "onboard_time": 1671021872,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 152405,
+        "num": 152405,
+        "word": "姆巴佩进球比赛法国从未输球",
+        "onboard_time": 1671044174,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146530,
+        "num": 146530,
+        "word": "法国vs摩洛哥",
+        "onboard_time": 1671030696,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136042,
+        "num": 136042,
+        "word": "县委大院拍出了体制内的真实",
+        "onboard_time": 1671033925,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 134006,
+        "num": 134006,
+        "word": "苏打绿相信响彻世界杯赛场",
+        "onboard_time": 1671068910,
+        "rank": 45,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 130691,
+        "num": 130691,
+        "word": "中国外交领事机构馆舍和人员不可侵犯",
+        "onboard_time": 1671074548,
+        "rank": 46,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 119353,
+        "num": 125348,
+        "word": "卡塔尔世界杯",
+        "onboard_time": 1671062668,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107088,
+        "num": 124651,
+        "word": "150秒生死时速的最快就诊",
+        "onboard_time": 1671075091,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104711,
+        "num": 124322,
+        "word": "糖丸爷爷生前录音听到泪目",
+        "onboard_time": 1671072750,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#应对气候变化保护生物多样性#"
+    }
+  }
+}

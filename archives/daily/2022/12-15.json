@@ -1,6 +1,6 @@
 {
   "startTime": 1671035224820,
-  "endTime": 1671074624913,
+  "endTime": 1671075482355,
   "band_list": [
     {
       "raw_hot": 4163142,
@@ -11,8 +11,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1998201,
-      "num": 1998201,
+      "raw_hot": 2209720,
+      "num": 2209720,
       "word": "小狗误食6粒布洛芬器官衰竭死亡",
       "onboard_time": 1671071548,
       "rank": 10,
@@ -49,6 +49,14 @@
       "onboard_time": 1671072686,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1135939,
+      "num": 565107,
+      "word": "杨迪已被注册成商标",
+      "onboard_time": 1671075330,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1091711,
@@ -211,6 +219,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 565597,
+      "num": 565597,
+      "word": "李现 GQ盛典",
+      "onboard_time": 1671074909,
+      "rank": 9,
+      "category": "综艺,时尚"
+    },
+    {
       "raw_hot": 558424,
       "num": 558424,
       "word": "和阳性亲友共同生活怎么防护",
@@ -363,12 +379,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 329160,
+      "num": 329160,
+      "word": "赵丽颖ELLE一月封面",
+      "onboard_time": 1671074669,
+      "rank": 16,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 321943,
       "num": 321943,
       "word": "库里左肩 受伤",
       "onboard_time": 1671071789,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 316146,
+      "num": 316146,
+      "word": "徐峥新片29个主演全是素人",
+      "onboard_time": 1671074731,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 315677,
@@ -427,6 +459,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 276658,
+      "num": 276658,
+      "word": "这类人不适合吃黄桃罐头",
+      "onboard_time": 1671070710,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 275533,
       "num": 275533,
       "word": "谁能拒绝猫咪的暖被窝申请",
@@ -443,20 +483,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 268374,
-      "num": 268374,
-      "word": "这类人不适合吃黄桃罐头",
-      "onboard_time": 1671070710,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 266790,
       "num": 266790,
       "word": "浙江多所高校调整期末安排",
       "onboard_time": 1671057976,
       "rank": 16,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 262402,
+      "num": 262402,
+      "word": "鞠婧祎BeMyPOI舞台ending镜头",
+      "onboard_time": 1671075091,
+      "rank": 21,
+      "category": "音乐"
     },
     {
       "raw_hot": 260139,
@@ -587,11 +627,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 209259,
+      "num": 209259,
+      "word": "杭州已有街道卫生服务中心可做单管核酸",
+      "onboard_time": 1671074490,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 202768,
       "num": 202768,
       "word": "林更新 婴儿纸尿裤倒水冻起来",
       "onboard_time": 1671024213,
       "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 199281,
+      "num": 192937,
+      "word": "王栎鑫送网友禁止蕉绿套餐",
+      "onboard_time": 1671075392,
+      "rank": 33,
       "category": "艺人"
     },
     {
@@ -739,6 +795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 167627,
+      "num": 163264,
+      "word": "GQ盛典今晚见",
+      "onboard_time": 1671074490,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 165858,
       "num": 165858,
       "word": "卡塔尔世界杯",
@@ -753,14 +817,6 @@
       "onboard_time": 1671059360,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 163264,
-      "num": 163264,
-      "word": "GQ盛典今晚见",
-      "onboard_time": 1671074490,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 161260,
@@ -875,14 +931,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 137832,
-      "num": 137832,
-      "word": "杭州已有街道卫生服务中心可做单管核酸",
-      "onboard_time": 1671074490,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 137430,
       "num": 137430,
       "word": "好想要周深这样的天秤座朋友",
@@ -905,6 +953,14 @@
       "onboard_time": 1671034286,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 130691,
+      "num": 130691,
+      "word": "中国外交领事机构馆舍和人员不可侵犯",
+      "onboard_time": 1671074548,
+      "rank": 48,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 130124,
@@ -945,14 +1001,6 @@
       "onboard_time": 1671020178,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 118592,
-      "num": 118592,
-      "word": "中国外交领事机构馆舍和人员不可侵犯",
-      "onboard_time": 1671074548,
-      "rank": 48,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 116800,
@@ -1001,6 +1049,14 @@
       "onboard_time": 1671028174,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 107088,
+      "num": 124651,
+      "word": "150秒生死时速的最快就诊",
+      "onboard_time": 1671075091,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 106467,
