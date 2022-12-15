@@ -1,6 +1,6 @@
 {
   "startTime": 1671121651972,
-  "endTime": 1671142635578,
+  "endTime": 1671143583571,
   "band_list": [
     {
       "raw_hot": 1139606,
@@ -251,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 227450,
+      "num": 227450,
+      "word": "北方疫情持续时间预计长于南方",
+      "onboard_time": 1671137952,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 224641,
       "num": 224641,
       "word": "卫龙破发",
@@ -304,14 +312,6 @@
       "word": "商家推出小羊人套餐被质疑抖机灵",
       "onboard_time": 1671119852,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 169538,
-      "num": 169538,
-      "word": "北方疫情持续时间预计长于南方",
-      "onboard_time": 1671137952,
-      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -451,6 +451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 97106,
+      "num": 97106,
+      "word": "倪虹洁好辣",
+      "onboard_time": 1671140411,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 92778,
       "num": 92778,
       "word": "网曝中国人寿新冠保险阳了却不理赔",
@@ -465,14 +473,6 @@
       "onboard_time": 1671127095,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 66280,
-      "num": 66280,
-      "word": "倪虹洁好辣",
-      "onboard_time": 1671140411,
-      "rank": 13,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 54779,
@@ -499,28 +499,28 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 23439,
-      "num": 23439,
-      "word": "韩乔生说梅西距球王只差一场胜利",
-      "onboard_time": 1671132073,
-      "rank": 37,
-      "category": "体育,社会新闻"
+      "raw_hot": 26190,
+      "num": 26190,
+      "word": "王鹤棣 黑色睡袍",
+      "onboard_time": 1671102394,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
-      "raw_hot": 22882,
-      "num": 22882,
+      "raw_hot": 25008,
+      "num": 25008,
       "word": "张新成林志为体制内电子男友",
       "onboard_time": 1671132553,
       "rank": 47,
       "category": "影视"
     },
     {
-      "raw_hot": 18543,
-      "num": 19128,
-      "word": "王鹤棣 黑色睡袍",
-      "onboard_time": 1671102394,
-      "rank": 47,
-      "category": "作品衍生"
+      "raw_hot": 23439,
+      "num": 23439,
+      "word": "韩乔生说梅西距球王只差一场胜利",
+      "onboard_time": 1671132073,
+      "rank": 37,
+      "category": "体育,社会新闻"
     }
   ],
   "hotgov_list": [
