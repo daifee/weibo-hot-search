@@ -1,6 +1,6 @@
 {
   "startTime": 1671121651972,
-  "endTime": 1671167786455,
+  "endTime": 1671168805519,
   "band_list": [
     {
       "raw_hot": 7857110,
@@ -24,6 +24,14 @@
       "word": "退烧止痛布洛芬和泰诺选哪个",
       "onboard_time": 1671146661,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2153175,
+      "num": 2153175,
+      "word": "感染者尽量不要接触冰箱",
+      "onboard_time": 1671166051,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -51,11 +59,11 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 1155373,
-      "num": 1155373,
-      "word": "感染者尽量不要接触冰箱",
-      "onboard_time": 1671166051,
-      "rank": 4,
+      "raw_hot": 1333141,
+      "num": 1333141,
+      "word": "男子遇人高烧3颗布洛芬送去2颗",
+      "onboard_time": 1671164672,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -72,6 +80,14 @@
       "word": "为什么买不到抗原",
       "onboard_time": 1671157828,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1089355,
+      "num": 1089355,
+      "word": "胡锡进新冠检测呈阳性",
+      "onboard_time": 1671166531,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -115,14 +131,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 935183,
-      "num": 935183,
-      "word": "男子遇人高烧3颗布洛芬送去2颗",
-      "onboard_time": 1671164672,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 920013,
       "num": 391993,
       "word": "关晓彤 驯服高跟鞋中",
@@ -155,20 +163,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 874822,
-      "num": 530268,
-      "word": "胡锡进新冠检测呈阳性",
-      "onboard_time": 1671166531,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 864630,
       "num": 864630,
       "word": "父母阳性3岁半宝宝独自客厅生活",
       "onboard_time": 1671159991,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 745286,
+      "num": 369823,
+      "word": "肖战白衬衫",
+      "onboard_time": 1671168273,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 715687,
@@ -243,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 571882,
+      "num": 571882,
+      "word": "无畏道歉",
+      "onboard_time": 1671167672,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 571323,
       "num": 571323,
       "word": "身高185在山东算大高个吗",
@@ -283,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 535994,
+      "num": 535994,
+      "word": "影院称阿凡达2是一部救命片",
+      "onboard_time": 1671167015,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 535571,
       "num": 556455,
       "word": "美国一架F35B垂直降落失控",
@@ -315,6 +339,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 512221,
+      "num": 512221,
+      "word": "比起感染他们更怕养不起家",
+      "onboard_time": 1671164612,
+      "rank": 35,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 489665,
       "num": 280250,
       "word": "倪虹洁睡衣",
@@ -337,14 +369,6 @@
       "onboard_time": 1671146723,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 412732,
-      "num": 412732,
-      "word": "比起感染他们更怕养不起家",
-      "onboard_time": 1671164612,
-      "rank": 35,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 409420,
@@ -395,20 +419,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 391850,
+      "num": 391850,
+      "word": "东莞凉茶店自制凉茶中添加布洛芬",
+      "onboard_time": 1671166354,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 377461,
       "num": 377461,
       "word": "手机里出现这些APP立刻删除",
       "onboard_time": 1671109597,
       "rank": 37,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 374156,
-      "num": 374156,
-      "word": "东莞凉茶店自制凉茶中添加布洛芬",
-      "onboard_time": 1671166354,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 366938,
@@ -547,20 +571,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 301190,
-      "num": 301190,
-      "word": "影院称阿凡达2是一部救命片",
-      "onboard_time": 1671167015,
-      "rank": 21,
-      "category": "影视"
-    },
-    {
       "raw_hot": 298314,
       "num": 298314,
       "word": "病了才知道免疫系统有多努力",
       "onboard_time": 1671156631,
       "rank": 38,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 296516,
+      "num": 296516,
+      "word": "汪苏泷春夏全城热恋MV上线",
+      "onboard_time": 1671168572,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 296251,
@@ -739,6 +763,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 245001,
+      "num": 245001,
+      "word": "教资面试",
+      "onboard_time": 1671166894,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
       "raw_hot": 244954,
       "num": 155870,
       "word": "李现张若昀互换奖杯",
@@ -827,14 +859,6 @@
       "category": "自然,社会新闻"
     },
     {
-      "raw_hot": 219115,
-      "num": 219115,
-      "word": "教资面试",
-      "onboard_time": 1671166894,
-      "rank": 34,
-      "category": "教育"
-    },
-    {
       "raw_hot": 205967,
       "num": 205967,
       "word": "同住人阳了家中如何消毒",
@@ -881,6 +905,14 @@
       "onboard_time": 1671164973,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 187462,
+      "num": 187462,
+      "word": "田曦薇GQ盛典内场照",
+      "onboard_time": 1671168092,
+      "rank": 38,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 186731,
@@ -1035,14 +1067,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 158415,
-      "num": 158415,
-      "word": "无畏道歉",
-      "onboard_time": 1671167672,
-      "rank": 49,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 158242,
       "num": 158242,
       "word": "李宇春献唱冰冻星球2国际推广曲",
@@ -1081,6 +1105,14 @@
       "onboard_time": 1671163772,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 152609,
+      "num": 152609,
+      "word": "猫咪对狗狗的威慑能有多大",
+      "onboard_time": 1671168212,
+      "rank": 48,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 152391,
@@ -1129,6 +1161,14 @@
       "onboard_time": 1671113981,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147862,
+      "num": 147862,
+      "word": "林志为改了五版发言稿但没用上",
+      "onboard_time": 1671168630,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 146014,
@@ -1331,6 +1371,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 27671,
+      "num": 484971,
+      "word": "你镜头下的故事",
+      "onboard_time": 1671166832,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 25677,
       "num": 185095,
       "word": "当代年轻人看球新花样",
@@ -1345,14 +1393,6 @@
       "onboard_time": 1671132073,
       "rank": 37,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 20404,
-      "num": 452939,
-      "word": "你镜头下的故事",
-      "onboard_time": 1671166832,
-      "rank": 14,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
