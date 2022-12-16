@@ -1,0 +1,411 @@
+{
+  "startTime": 1671207916313,
+  "endTime": 1671207916313,
+  "band_list": [
+    {
+      "raw_hot": 1808400,
+      "num": 1808400,
+      "word": "女子退烧后发现银手镯变黑了",
+      "onboard_time": 1671200735,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1366823,
+      "num": 592791,
+      "word": "张靓颖道歉",
+      "onboard_time": 1671198392,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 772445,
+      "num": 592572,
+      "word": "宁艺卓 杀疯了",
+      "onboard_time": 1671200795,
+      "rank": 4,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 683450,
+      "num": 683450,
+      "word": "陈采尼",
+      "onboard_time": 1671202115,
+      "rank": 1,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 603027,
+      "num": 297839,
+      "word": "叶舒华 高马尾",
+      "onboard_time": 1671202832,
+      "rank": 11,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 589908,
+      "num": 589908,
+      "word": "米哈伊洛维奇去世",
+      "onboard_time": 1671202415,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 555283,
+      "num": 555283,
+      "word": "布洛芬和对乙酰氨基酚有什么区别",
+      "onboard_time": 1671188731,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 534501,
+      "num": 534501,
+      "word": "女子发烧敷20分钟面膜揭下变3D立体",
+      "onboard_time": 1671188851,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 528081,
+      "num": 299293,
+      "word": "江西高中生胡鑫宇失踪已过60天",
+      "onboard_time": 1671205348,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 394155,
+      "num": 296478,
+      "word": "陈钰琪新剧一集就下线",
+      "onboard_time": 1671206069,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 336490,
+      "num": 336490,
+      "word": "男孩花200元网购藏獒收到小土狗",
+      "onboard_time": 1671204150,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 303370,
+      "num": 303370,
+      "word": "妈妈熬汤呈绿色阳性娃吓得不敢喝",
+      "onboard_time": 1671194731,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 293029,
+      "num": 293029,
+      "word": "阿凡达",
+      "onboard_time": 1671203373,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 257205,
+      "num": 257205,
+      "word": "男孩考99分崩溃控诉父母",
+      "onboard_time": 1671195154,
+      "rank": 14,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 241263,
+      "num": 241263,
+      "word": "男子发烧卧床让孩子送水",
+      "onboard_time": 1671205348,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 229240,
+      "num": 201203,
+      "word": "gidle 造型",
+      "onboard_time": 1671200915,
+      "rank": 20,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 228860,
+      "num": 228860,
+      "word": "连续三天抗原阴性可认为不具备传染性",
+      "onboard_time": 1671200014,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 224001,
+      "num": 224001,
+      "word": "如何让山东人破防",
+      "onboard_time": 1671203550,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 221175,
+      "num": 203722,
+      "word": "多款确诊即赔新冠险下架",
+      "onboard_time": 1671197553,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 217671,
+      "num": 198445,
+      "word": "宋雨琦 帅",
+      "onboard_time": 1671198873,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 209364,
+      "num": 197509,
+      "word": "沈小婷Wadada开场solo",
+      "onboard_time": 1671193651,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 204902,
+      "num": 173360,
+      "word": "张元英申有娜赵美延合作舞台",
+      "onboard_time": 1671204451,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 204003,
+      "num": 204003,
+      "word": "当男朋友得知我阳了的反应",
+      "onboard_time": 1671198271,
+      "rank": 18,
+      "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 198946,
+      "num": 162369,
+      "word": "aespa2022第一个年末舞台",
+      "onboard_time": 1671204392,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 196726,
+      "num": 160231,
+      "word": "enhypen 舞台",
+      "onboard_time": 1671207866,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 195938,
+      "num": 195938,
+      "word": "这是北京街头外卖员的身影",
+      "onboard_time": 1671198573,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 193871,
+      "num": 157120,
+      "word": "蔡徐坤金发赛车服造型",
+      "onboard_time": 1671207264,
+      "rank": 32,
+      "category": "音乐,体育"
+    },
+    {
+      "raw_hot": 176773,
+      "num": 146447,
+      "word": "刘畊宏感谢周深陪他从教练变回歌手",
+      "onboard_time": 1671206785,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 173526,
+      "num": 173526,
+      "word": "骗子诈骗1250万买彩票中1450万",
+      "onboard_time": 1671183270,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 170079,
+      "num": 170079,
+      "word": "买7元掏耳勺胶套掉耳道花175元取出",
+      "onboard_time": 1671196835,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 170016,
+      "num": 170016,
+      "word": "你担心别人知道你阳过吗",
+      "onboard_time": 1671200435,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 168758,
+      "num": 168758,
+      "word": "杭州所有医疗机构门急诊取消核验48小时核酸证明",
+      "onboard_time": 1671193894,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 165567,
+      "num": 165567,
+      "word": "小智故事最终章",
+      "onboard_time": 1671190530,
+      "rank": 29,
+      "category": "游戏,动漫"
+    },
+    {
+      "raw_hot": 161250,
+      "num": 125962,
+      "word": "IVE的DanceBreak",
+      "onboard_time": 1671206249,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 153461,
+      "num": 153461,
+      "word": "印度一校长欲猥亵女生被数十名同学拿棍棒围殴",
+      "onboard_time": 1671187109,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 146952,
+      "num": 146952,
+      "word": "清融 我很坚强的",
+      "onboard_time": 1671202233,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 143957,
+      "num": 143957,
+      "word": "小狗也拒绝不了小奶猫的贴贴",
+      "onboard_time": 1671199175,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 140630,
+      "num": 136127,
+      "word": "网曝大连一医院不收阳性患者",
+      "onboard_time": 1671191552,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 138140,
+      "num": 138140,
+      "word": "世界杯决赛",
+      "onboard_time": 1671178766,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 131467,
+      "num": 131467,
+      "word": "体彩部门回应男子花12万买彩票想退钱",
+      "onboard_time": 1671189931,
+      "rank": 39,
+      "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 118349,
+      "num": 118349,
+      "word": "冬天喝上一杯热腾腾的烤梨",
+      "onboard_time": 1671202775,
+      "rank": 41,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 111887,
+      "num": 111887,
+      "word": "我终于会扎丸子头了",
+      "onboard_time": 1671198635,
+      "rank": 42,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 107336,
+      "num": 107336,
+      "word": "北京大风",
+      "onboard_time": 1671207026,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 106514,
+      "num": 106514,
+      "word": "成都一诊所抗原卖40元一支",
+      "onboard_time": 1671182971,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 105866,
+      "num": 105866,
+      "word": "北京考研生19日开始健康打卡",
+      "onboard_time": 1671189811,
+      "rank": 45,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 92564,
+      "num": 92564,
+      "word": "新冠对精神健康影响或超十年",
+      "onboard_time": 1671179849,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 92149,
+      "num": 92149,
+      "word": "药企回应扑热息痛2元20片不涨价",
+      "onboard_time": 1671183633,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 91731,
+      "num": 91731,
+      "word": "花海吓一跳",
+      "onboard_time": 1671203191,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 85543,
+      "num": 85543,
+      "word": "女子发烧叫妈被误以为鸭子在叫",
+      "onboard_time": 1671207686,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25211,
+      "num": 593208,
+      "word": "中国成功发射试验二十一号卫星",
+      "onboard_time": 1671207087,
+      "rank": 2,
+      "category": "国内要闻"
+    }
+  ],
+  "hotgov_list": [
+    {
+      "word": "#中央经济工作会议举行#"
+    }
+  ]
+}

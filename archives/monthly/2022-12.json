@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1671204889626,
+  "endTime": 1671207916313,
   "band_list": [
     {
       "raw_hot": 13790167,
@@ -8731,20 +8731,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 603027,
+      "num": 480093,
+      "word": "叶舒华 高马尾",
+      "onboard_time": 1671202832,
+      "rank": 10,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 601443,
       "num": 833906,
       "word": "保定疫情防控",
       "onboard_time": 1670064912,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 601423,
-      "num": 480093,
-      "word": "叶舒华 高马尾",
-      "onboard_time": 1671202832,
-      "rank": 10,
-      "category": "音乐"
     },
     {
       "raw_hot": 600494,
@@ -10169,6 +10169,14 @@
       "onboard_time": 1670814551,
       "rank": 28,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 528081,
+      "num": 299293,
+      "word": "江西高中生胡鑫宇失踪已过60天",
+      "onboard_time": 1671205348,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 528046,
@@ -13979,6 +13987,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 394155,
+      "num": 296478,
+      "word": "陈钰琪新剧一集就下线",
+      "onboard_time": 1671206069,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 394060,
       "num": 347832,
       "word": "广州出发火车票瞬时搜索量增2.5倍",
@@ -15993,6 +16009,14 @@
       "onboard_time": 1670123829,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 336490,
+      "num": 336490,
+      "word": "男孩花200元网购藏獒收到小土狗",
+      "onboard_time": 1671204150,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 336486,
@@ -21219,6 +21243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 241263,
+      "num": 241263,
+      "word": "男子发烧卧床让孩子送水",
+      "onboard_time": 1671205348,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 241119,
       "num": 241119,
       "word": "老师讲人体结构叫男生脱衣展示",
@@ -22417,6 +22449,14 @@
       "onboard_time": 1670456347,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 224001,
+      "num": 224001,
+      "word": "如何让山东人破防",
+      "onboard_time": 1671203550,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 223903,
@@ -24283,6 +24323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 196726,
+      "num": 160231,
+      "word": "enhypen 舞台",
+      "onboard_time": 1671207866,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 196724,
       "num": 196724,
       "word": "卡塔尔小王子秀C罗同款手势",
@@ -24697,6 +24745,14 @@
       "onboard_time": 1669828814,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 193871,
+      "num": 157120,
+      "word": "蔡徐坤金发赛车服造型",
+      "onboard_time": 1671207264,
+      "rank": 32,
+      "category": "音乐,体育"
     },
     {
       "raw_hot": 193834,
@@ -26585,6 +26641,14 @@
       "onboard_time": 1669939812,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 176773,
+      "num": 146447,
+      "word": "刘畊宏感谢周深陪他从教练变回歌手",
+      "onboard_time": 1671206785,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 176491,
@@ -28489,6 +28553,14 @@
       "onboard_time": 1671034583,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 161250,
+      "num": 125962,
+      "word": "IVE的DanceBreak",
+      "onboard_time": 1671206249,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 161216,
@@ -30737,14 +30809,6 @@
       "onboard_time": 1670149212,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 140903,
-      "num": 185637,
-      "word": "如何让山东人破防",
-      "onboard_time": 1671203550,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 140892,
@@ -34363,6 +34427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 107336,
+      "num": 107336,
+      "word": "北京大风",
+      "onboard_time": 1671207026,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 107254,
       "num": 107254,
       "word": "邓刚雨天守钓大青鱼",
@@ -34409,14 +34481,6 @@
       "onboard_time": 1670628549,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 106998,
-      "num": 181899,
-      "word": "男孩花200元网购藏獒收到小土狗",
-      "onboard_time": 1671204150,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 106989,
@@ -35731,6 +35795,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 85543,
+      "num": 85543,
+      "word": "女子发烧叫妈被误以为鸭子在叫",
+      "onboard_time": 1671207686,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 85209,
       "num": 85209,
       "word": "法国晋级4强",
@@ -36873,6 +36945,14 @@
       "onboard_time": 1671163231,
       "rank": 39,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 25211,
+      "num": 593208,
+      "word": "中国成功发射试验二十一号卫星",
+      "onboard_time": 1671207087,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 23439,
