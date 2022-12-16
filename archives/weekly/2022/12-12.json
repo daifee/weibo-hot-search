@@ -1,6 +1,6 @@
 {
   "startTime": 1670775913271,
-  "endTime": 1671212004517,
+  "endTime": 1671214922921,
   "band_list": [
     {
       "raw_hot": 7857110,
@@ -9083,6 +9083,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 187131,
+      "num": 187131,
+      "word": "迟一天少一人就是大胜利",
+      "onboard_time": 1671210260,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187059,
       "num": 187059,
       "word": "私人销售抗原违法吗",
@@ -10731,14 +10739,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 146634,
-      "num": 146634,
-      "word": "迟一天少一人就是大胜利",
-      "onboard_time": 1671210260,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 146555,
       "num": 146555,
       "word": "居家隔离期间工资该怎么算",
@@ -11273,6 +11273,14 @@
       "onboard_time": 1670836636,
       "rank": 48,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 132977,
+      "num": 92467,
+      "word": "C罗前往迪拜",
+      "onboard_time": 1671211458,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 132508,
@@ -12529,14 +12537,6 @@
       "onboard_time": 1670900415,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 60285,
-      "num": 60285,
-      "word": "C罗前往迪拜",
-      "onboard_time": 1671211458,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 56889,
