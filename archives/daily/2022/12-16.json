@@ -1,6 +1,6 @@
 {
   "startTime": 1671121651972,
-  "endTime": 1671168805519,
+  "endTime": 1671171769859,
   "band_list": [
     {
       "raw_hot": 7857110,
@@ -91,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1084938,
+      "num": 480713,
+      "word": "孕妈阳性第2天感受不到胎动",
+      "onboard_time": 1671170606,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1043092,
       "num": 1043092,
       "word": "男子阳性后摆烂妻子被传染秒重视",
@@ -171,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 857854,
+      "num": 857854,
+      "word": "义乌开始生产阿根廷夺冠球衣",
+      "onboard_time": 1671169351,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 745286,
       "num": 369823,
       "word": "肖战白衬衫",
@@ -185,6 +201,14 @@
       "onboard_time": 1671163171,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 686025,
+      "num": 686025,
+      "word": "影院称阿凡达2是一部救命片",
+      "onboard_time": 1671167015,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 671223,
@@ -251,8 +275,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 571882,
-      "num": 571882,
+      "raw_hot": 583522,
+      "num": 583522,
       "word": "无畏道歉",
       "onboard_time": 1671167672,
       "rank": 49,
@@ -297,14 +321,6 @@
       "onboard_time": 1671153630,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 535994,
-      "num": 535994,
-      "word": "影院称阿凡达2是一部救命片",
-      "onboard_time": 1671167015,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 535571,
@@ -353,6 +369,14 @@
       "onboard_time": 1671115479,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 476581,
+      "num": 476581,
+      "word": "国考笔试与教资面试撞了怎么办",
+      "onboard_time": 1671168690,
+      "rank": 11,
+      "category": "教育"
     },
     {
       "raw_hot": 475089,
@@ -424,6 +448,14 @@
       "word": "东莞凉茶店自制凉茶中添加布洛芬",
       "onboard_time": 1671166354,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 390814,
+      "num": 390814,
+      "word": "上海有人大量购买抗原加价50%出售",
+      "onboard_time": 1671169949,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -547,6 +579,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 313868,
+      "num": 313868,
+      "word": "核酸阳性第几天会转阴",
+      "onboard_time": 1671167613,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 311462,
+      "num": 311462,
+      "word": "网购连花清瘟收到感冒灵",
+      "onboard_time": 1671170126,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 306472,
       "num": 306472,
       "word": "阿根廷更衣室扔对手球衣",
@@ -569,6 +617,14 @@
       "onboard_time": 1671116440,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 299990,
+      "num": 299990,
+      "word": "Karsa加入WBG",
+      "onboard_time": 1671171209,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 298314,
@@ -731,6 +787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 252069,
+      "num": 252069,
+      "word": "Hero发布无畏处罚公告",
+      "onboard_time": 1671171270,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 251162,
       "num": 172517,
       "word": "马思纯杀回来了",
@@ -835,6 +899,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 227435,
+      "num": 227435,
+      "word": "王鹤棣对视歪头杀",
+      "onboard_time": 1671171209,
+      "rank": 30,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 226809,
       "num": 226809,
       "word": "女子离婚净身出户带孩子住毛坯房",
@@ -851,6 +923,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 223322,
+      "num": 223322,
+      "word": "田曦薇GQ盛典内场照",
+      "onboard_time": 1671168092,
+      "rank": 38,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 222531,
       "num": 222531,
       "word": "浙江两地天降火球",
@@ -865,6 +945,14 @@
       "onboard_time": 1671156326,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 203532,
+      "num": 203532,
+      "word": "猫咪对狗狗的威慑能有多大",
+      "onboard_time": 1671168212,
+      "rank": 48,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 203397,
@@ -907,14 +995,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 187462,
-      "num": 187462,
-      "word": "田曦薇GQ盛典内场照",
-      "onboard_time": 1671168092,
-      "rank": 38,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 186731,
       "num": 186731,
       "word": "FNC官宣Rekkles回归",
@@ -937,6 +1017,14 @@
       "onboard_time": 1671163953,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 181413,
+      "num": 181413,
+      "word": "墨西哥球迷向梅西道歉",
+      "onboard_time": 1671171150,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 181224,
@@ -977,14 +1065,6 @@
       "onboard_time": 1671121345,
       "rank": 41,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 173435,
-      "num": 173435,
-      "word": "核酸阳性第几天会转阴",
-      "onboard_time": 1671167613,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 172740,
@@ -1059,6 +1139,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 164212,
+      "num": 164212,
+      "word": "王楚然获胜靠的是走心",
+      "onboard_time": 1671170490,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 163143,
+      "num": 228343,
+      "word": "菜鸟调津冀黔渝川五地快递员紧急入京",
+      "onboard_time": 1671170250,
+      "rank": 29,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 160073,
       "num": 160073,
       "word": "丁程鑫有你的季节舞台直拍",
@@ -1105,14 +1201,6 @@
       "onboard_time": 1671163772,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 152609,
-      "num": 152609,
-      "word": "猫咪对狗狗的威慑能有多大",
-      "onboard_time": 1671168212,
-      "rank": 48,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 152391,
@@ -1251,6 +1339,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 131590,
+      "num": 131590,
+      "word": "秦霄贤唱歌赢了萧敬腾和GAI",
+      "onboard_time": 1671169052,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 131383,
+      "num": 131383,
+      "word": "徐璐月歌行仙侠造型",
+      "onboard_time": 1671171029,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 131065,
       "num": 131065,
       "word": "疑似陨石碎片水泥地砸出大坑",
@@ -1259,12 +1363,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 130575,
+      "num": 127456,
+      "word": "阿根廷将穿主场球衣参加决赛",
+      "onboard_time": 1671171749,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 126339,
+      "num": 126339,
+      "word": "阿根廷开始备战决赛",
+      "onboard_time": 1671170070,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 124721,
       "num": 124721,
       "word": "宝妈带俩娃开10小时高速见异地丈夫",
       "onboard_time": 1671154590,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 124532,
+      "num": 124532,
+      "word": "这馒头多少有点不忍心下嘴",
+      "onboard_time": 1671170848,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 121783,
