@@ -1,0 +1,410 @@
+{
+  "runTime": 1671167786455,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3007961,
+        "num": 3007961,
+        "word": "国考重启",
+        "onboard_time": 1671160589,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1560919,
+        "num": 1560919,
+        "word": "爱奇艺VIP再涨价",
+        "onboard_time": 1671160951,
+        "rank": 1,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 105936,
+        "num": 1243052,
+        "word": "2022这些同框浪漫又硬核",
+        "onboard_time": 1671162336,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1170130,
+        "num": 1170130,
+        "word": "专家提醒千万别清洗陨石",
+        "onboard_time": 1671155909,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1155373,
+        "num": 1155373,
+        "word": "感染者尽量不要接触冰箱",
+        "onboard_time": 1671166051,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1080734,
+        "num": 1080734,
+        "word": "退烧止痛布洛芬和泰诺选哪个",
+        "onboard_time": 1671146661,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 935183,
+        "num": 935183,
+        "word": "男子遇人高烧3颗布洛芬送去2颗",
+        "onboard_time": 1671164672,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 715687,
+        "num": 715687,
+        "word": "河南卫生健康系统将暂时取消节假日",
+        "onboard_time": 1671163171,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 658879,
+        "num": 658879,
+        "word": "父母阳性3岁半宝宝独自客厅生活",
+        "onboard_time": 1671159991,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 545660,
+        "num": 545660,
+        "word": "周大福2万元钻戒当掉卖不了3千",
+        "onboard_time": 1671152852,
+        "rank": 9,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 874822,
+        "num": 530268,
+        "word": "胡锡进新冠检测呈阳性",
+        "onboard_time": 1671166531,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 490863,
+        "num": 490863,
+        "word": "网友吃2颗布洛芬后发现已过期",
+        "onboard_time": 1671157106,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 462740,
+        "num": 462740,
+        "word": "感染新冠发病7天内可能出现这些症状",
+        "onboard_time": 1671151171,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 460977,
+        "num": 460977,
+        "word": "无畏 点投降",
+        "onboard_time": 1671150332,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 20404,
+        "num": 452939,
+        "word": "你镜头下的故事",
+        "onboard_time": 1671166832,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 450624,
+        "num": 450624,
+        "word": "布洛芬注册批文超500个为何一盒难求",
+        "onboard_time": 1671159748,
+        "rank": 15,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 412732,
+        "num": 412732,
+        "word": "比起感染他们更怕养不起家",
+        "onboard_time": 1671164612,
+        "rank": 16,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 374156,
+        "num": 374156,
+        "word": "东莞凉茶店自制凉茶中添加布洛芬",
+        "onboard_time": 1671166354,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 373393,
+        "num": 373393,
+        "word": "身高185在山东算大高个吗",
+        "onboard_time": 1671160472,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347019,
+        "num": 347019,
+        "word": "火球坠落浦江时3人路过万幸躲过",
+        "onboard_time": 1671162214,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304644,
+        "num": 304644,
+        "word": "法国三名主力感染骆驼流感",
+        "onboard_time": 1671157889,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 301190,
+        "num": 301190,
+        "word": "影院称阿凡达2是一部救命片",
+        "onboard_time": 1671167015,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 300490,
+        "num": 300490,
+        "word": "省考",
+        "onboard_time": 1671163532,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 289491,
+        "num": 289491,
+        "word": "鹿晗说最喜欢MV里的沙地飘移片段",
+        "onboard_time": 1671167191,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 283259,
+        "num": 283259,
+        "word": "王心凌在KTV实现下班愿望",
+        "onboard_time": 1671162813,
+        "rank": 24,
+        "category": "音乐,体育"
+      },
+      {
+        "raw_hot": 274255,
+        "num": 274255,
+        "word": "梅西缺席阿根廷队训练",
+        "onboard_time": 1671158730,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 268946,
+        "num": 268946,
+        "word": "美国一架F35B垂直降落失控",
+        "onboard_time": 1671161252,
+        "rank": 26,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 268815,
+        "num": 268815,
+        "word": "出现什么症状要小心可能演变成重症",
+        "onboard_time": 1671146542,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267232,
+        "num": 267232,
+        "word": "IZONE年末限定合体",
+        "onboard_time": 1671161493,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 263776,
+        "num": 263776,
+        "word": "外卖员安慰阳性顾客不要哭多喝水",
+        "onboard_time": 1671160288,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263179,
+        "num": 263179,
+        "word": "汪苏泷新歌MV女主是谁",
+        "onboard_time": 1671165994,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 250898,
+        "num": 250898,
+        "word": "法考",
+        "onboard_time": 1671162993,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 246595,
+        "num": 246595,
+        "word": "山东省考",
+        "onboard_time": 1671163413,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 236841,
+        "num": 236841,
+        "word": "感染一次奥密克戎就像打了一针疫苗",
+        "onboard_time": 1671159270,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219115,
+        "num": 219115,
+        "word": "教资面试",
+        "onboard_time": 1671166894,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 210963,
+        "num": 210963,
+        "word": "病了才知道免疫系统有多努力",
+        "onboard_time": 1671156631,
+        "rank": 35,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 206479,
+        "num": 206479,
+        "word": "宝宝确诊新冠难受哭泣还安慰妈妈",
+        "onboard_time": 1671155909,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201830,
+        "num": 201830,
+        "word": "婷美",
+        "onboard_time": 1671148707,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 190214,
+        "num": 190214,
+        "word": "早阳早好的观点对不对",
+        "onboard_time": 1671159089,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188106,
+        "num": 188106,
+        "word": "白敬亭觉得尹峥格局很大",
+        "onboard_time": 1671164973,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 186761,
+        "num": 186761,
+        "word": "田曦薇给我演恶女",
+        "onboard_time": 1671117816,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 185226,
+        "num": 185226,
+        "word": "宋亚轩我喜欢你单人直拍",
+        "onboard_time": 1671164314,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179760,
+        "num": 179760,
+        "word": "女生拒绝周末去公司打扫卫生被辞",
+        "onboard_time": 1671159151,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175188,
+        "num": 175188,
+        "word": "蔡徐坤世界杯音乐盛典今晚见",
+        "onboard_time": 1671164132,
+        "rank": 43,
+        "category": "音乐,体育"
+      },
+      {
+        "raw_hot": 173435,
+        "num": 173435,
+        "word": "核酸阳性第几天会转阴",
+        "onboard_time": 1671167613,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172316,
+        "num": 172316,
+        "word": "水中毒",
+        "onboard_time": 1671158730,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170440,
+        "num": 170440,
+        "word": "佘诗曼无限超越班重现刘三好",
+        "onboard_time": 1671167370,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164778,
+        "num": 164778,
+        "word": "宝鹃嗓多久能恢复正常",
+        "onboard_time": 1671160232,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160073,
+        "num": 160073,
+        "word": "丁程鑫有你的季节舞台直拍",
+        "onboard_time": 1671167015,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158415,
+        "num": 158415,
+        "word": "无畏道歉",
+        "onboard_time": 1671167672,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动全球生物多样性治理迈上新台阶#"
+    }
+  }
+}
