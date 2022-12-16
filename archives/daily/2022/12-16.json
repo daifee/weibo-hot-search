@@ -1,6 +1,6 @@
 {
   "startTime": 1671121651972,
-  "endTime": 1671174950983,
+  "endTime": 1671175999760,
   "band_list": [
     {
       "raw_hot": 7857110,
@@ -19,19 +19,19 @@
       "category": "科技,财经"
     },
     {
+      "raw_hot": 2304134,
+      "num": 2304134,
+      "word": "孕妈阳性第2天感受不到胎动",
+      "onboard_time": 1671170606,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2293227,
       "num": 2293227,
       "word": "退烧止痛布洛芬和泰诺选哪个",
       "onboard_time": 1671146661,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2269319,
-      "num": 2269319,
-      "word": "孕妈阳性第2天感受不到胎动",
-      "onboard_time": 1671170606,
-      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -267,6 +267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 593501,
+      "num": 593501,
+      "word": "原来财阀家的小儿子车祸戏是这么拍的",
+      "onboard_time": 1671172410,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 590304,
       "num": 461230,
       "word": "钟南山说无症状感染者基本无新冠后遗症",
@@ -289,14 +297,6 @@
       "onboard_time": 1671160472,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 556903,
-      "num": 556903,
-      "word": "原来财阀家的小儿子车祸戏是这么拍的",
-      "onboard_time": 1671172410,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 556557,
@@ -419,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 421022,
+      "num": 398312,
+      "word": "张若昀走红毯好像在憋气",
+      "onboard_time": 1671174749,
+      "rank": 48,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 409420,
       "num": 409420,
       "word": "克罗地亚总统暗示阿根廷赢在裁判",
@@ -449,6 +457,14 @@
       "onboard_time": 1671150090,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 404984,
+      "num": 404984,
+      "word": "菜鸟调津冀黔渝川五地快递员紧急入京",
+      "onboard_time": 1671170250,
+      "rank": 29,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 401966,
@@ -483,8 +499,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 388505,
-      "num": 388505,
+      "raw_hot": 388814,
+      "num": 388814,
       "word": "墨西哥球迷向梅西道歉",
       "onboard_time": 1671171150,
       "rank": 37,
@@ -497,6 +513,14 @@
       "onboard_time": 1671109597,
       "rank": 37,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 372506,
+      "num": 372506,
+      "word": "Hero发布无畏处罚公告",
+      "onboard_time": 1671171270,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 366938,
@@ -521,14 +545,6 @@
       "onboard_time": 1671162813,
       "rank": 21,
       "category": "音乐,体育"
-    },
-    {
-      "raw_hot": 363994,
-      "num": 363994,
-      "word": "Hero发布无畏处罚公告",
-      "onboard_time": 1671171270,
-      "rank": 25,
-      "category": "游戏"
     },
     {
       "raw_hot": 357413,
@@ -627,14 +643,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 309020,
-      "num": 309020,
-      "word": "菜鸟调津冀黔渝川五地快递员紧急入京",
-      "onboard_time": 1671170250,
-      "rank": 29,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 306472,
       "num": 306472,
       "word": "阿根廷更衣室扔对手球衣",
@@ -657,6 +665,14 @@
       "onboard_time": 1671116440,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 299139,
+      "num": 299139,
+      "word": "药店高价卖布洛芬被举报店员频说谎",
+      "onboard_time": 1671173488,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 298314,
@@ -763,6 +779,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 267695,
+      "num": 267695,
+      "word": "何炅所说的钝感力",
+      "onboard_time": 1671173669,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 267187,
       "num": 267187,
       "word": "波兰主裁判将执法世界杯决赛",
@@ -801,6 +825,14 @@
       "onboard_time": 1671103415,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 261037,
+      "num": 261037,
+      "word": "吴磊叫自己游客小吴",
+      "onboard_time": 1671175110,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 255482,
@@ -915,6 +947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 235506,
+      "num": 235506,
+      "word": "杨迪牙齿粘辣椒皮被认为是造型",
+      "onboard_time": 1671174268,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 229583,
       "num": 229583,
       "word": "独居的人阳了后有多难",
@@ -971,28 +1011,12 @@
       "category": "自然,社会新闻"
     },
     {
-      "raw_hot": 221403,
-      "num": 221403,
-      "word": "药店高价卖布洛芬被举报店员频说谎",
-      "onboard_time": 1671173488,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 216102,
       "num": 216102,
       "word": "猫咪对狗狗的威慑能有多大",
       "onboard_time": 1671168212,
       "rank": 48,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 211121,
-      "num": 211121,
-      "word": "何炅所说的钝感力",
-      "onboard_time": 1671173669,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 205967,
@@ -1019,6 +1043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 200174,
+      "num": 200174,
+      "word": "王鹤棣白鹿获GQ年度青年演员",
+      "onboard_time": 1671173848,
+      "rank": 31,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 196528,
       "num": 196528,
       "word": "独居的人阳了之后有多难",
@@ -1033,22 +1065,6 @@
       "onboard_time": 1671147684,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 190119,
-      "num": 190119,
-      "word": "杨迪牙齿粘辣椒皮被认为是造型",
-      "onboard_time": 1671174268,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 188915,
-      "num": 188915,
-      "word": "王鹤棣白鹿获GQ年度青年演员",
-      "onboard_time": 1671173848,
-      "rank": 31,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 188106,
@@ -1067,8 +1083,16 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 186146,
-      "num": 186146,
+      "raw_hot": 186662,
+      "num": 186662,
+      "word": "阿根廷将穿主场球衣参加决赛",
+      "onboard_time": 1671171749,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 186485,
+      "num": 186485,
       "word": "国考报考者可重新选择考试地点",
       "onboard_time": 1671172768,
       "rank": 32,
@@ -1091,14 +1115,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 184114,
-      "num": 184114,
-      "word": "阿根廷将穿主场球衣参加决赛",
-      "onboard_time": 1671171749,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 181224,
       "num": 181224,
       "word": "美国白宫将重启免费新冠居家检测",
@@ -1113,6 +1129,14 @@
       "onboard_time": 1671157106,
       "rank": 29,
       "category": "科技,财经"
+    },
+    {
+      "raw_hot": 177865,
+      "num": 177865,
+      "word": "张远把蘑菇屋记成去年的事",
+      "onboard_time": 1671175833,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 177736,
@@ -1145,6 +1169,14 @@
       "onboard_time": 1671121345,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 173576,
+      "num": 173576,
+      "word": "阿凡达2 特效",
+      "onboard_time": 1671175231,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 172740,
@@ -1211,6 +1243,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 168393,
+      "num": 168393,
+      "word": "张天爱吵架帅不过三秒",
+      "onboard_time": 1671175709,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 168271,
       "num": 168271,
       "word": "梁洁说今晚上班",
@@ -1249,6 +1289,14 @@
       "onboard_time": 1671170490,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 163178,
+      "num": 163178,
+      "word": "北京海淀倡议居民加入骑手行列",
+      "onboard_time": 1671175948,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 160073,
@@ -1355,8 +1403,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 146770,
-      "num": 146770,
+      "raw_hot": 147234,
+      "num": 147234,
       "word": "GAI王斯然真夫妻的默契",
       "onboard_time": 1671174929,
       "rank": 47,
@@ -1371,12 +1419,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 145341,
-      "num": 145341,
-      "word": "张若昀走红毯好像在憋气",
-      "onboard_time": 1671174749,
-      "rank": 48,
-      "category": "作品衍生,时尚"
+      "raw_hot": 145399,
+      "num": 145399,
+      "word": "村民捡到第三块陨石碎片",
+      "onboard_time": 1671175049,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 142695,
@@ -1481,6 +1529,14 @@
       "onboard_time": 1671114580,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 131000,
+      "num": 131000,
+      "word": "成年人的委屈该不该藏起来",
+      "onboard_time": 1671175889,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 126339,
@@ -1612,7 +1668,7 @@
     },
     {
       "raw_hot": 47294,
-      "num": 318240,
+      "num": 336956,
       "word": "手机做出了玉质感",
       "onboard_time": 1671174030,
       "rank": 14,
@@ -1625,6 +1681,14 @@
       "onboard_time": 1671110853,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 27806,
+      "num": 171192,
+      "word": "忘情一刻",
+      "onboard_time": 1671174030,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 27671,
@@ -1649,14 +1713,6 @@
       "onboard_time": 1671132073,
       "rank": 37,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 12875,
-      "num": 171192,
-      "word": "忘情一刻",
-      "onboard_time": 1671174030,
-      "rank": 39,
-      "category": "情感"
     }
   ],
   "hotgov_list": [
