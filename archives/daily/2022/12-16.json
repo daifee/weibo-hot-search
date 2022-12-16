@@ -1,6 +1,6 @@
 {
   "startTime": 1671121651972,
-  "endTime": 1671182221213,
+  "endTime": 1671183213792,
   "band_list": [
     {
       "raw_hot": 7857110,
@@ -91,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1264677,
+      "num": 1264677,
+      "word": "新冠对精神健康影响或超十年",
+      "onboard_time": 1671179849,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1139606,
       "num": 932868,
       "word": "张嘉倪何洛洛豪门姐弟",
@@ -112,14 +120,6 @@
       "word": "胡锡进新冠检测呈阳性",
       "onboard_time": 1671166531,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1073006,
-      "num": 1073006,
-      "word": "新冠对精神健康影响或超十年",
-      "onboard_time": 1671179849,
-      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -219,8 +219,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 764603,
-      "num": 764603,
+      "raw_hot": 786321,
+      "num": 786321,
       "word": "盐蒸橙子",
       "onboard_time": 1671178348,
       "rank": 31,
@@ -283,6 +283,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 640150,
+      "num": 640150,
+      "word": "世界杯决赛",
+      "onboard_time": 1671178766,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 632742,
       "num": 352902,
       "word": "1岁宝宝高烧39度头顶冒烟",
@@ -323,14 +331,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 603064,
-      "num": 603064,
-      "word": "世界杯决赛",
-      "onboard_time": 1671178766,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 599206,
       "num": 599206,
       "word": "阳了之后反复发烧怎么办",
@@ -361,6 +361,14 @@
       "onboard_time": 1671149005,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 589607,
+      "num": 589607,
+      "word": "东北制药回应退烧药一板只卖2元",
+      "onboard_time": 1671179490,
+      "rank": 16,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 583522,
@@ -427,6 +435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 540153,
+      "num": 540153,
+      "word": "刘亦菲李现去有风的地方cp感",
+      "onboard_time": 1671180750,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 535571,
       "num": 556455,
       "word": "美国一架F35B垂直降落失控",
@@ -459,14 +475,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 514296,
-      "num": 514296,
-      "word": "刘亦菲李现去有风的地方cp感",
-      "onboard_time": 1671180750,
-      "rank": 12,
-      "category": "影视"
-    },
-    {
       "raw_hot": 512221,
       "num": 512221,
       "word": "比起感染他们更怕养不起家",
@@ -491,6 +499,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 476462,
+      "num": 476462,
+      "word": "研究揭示马桶不盖盖后果多严重",
+      "onboard_time": 1671181351,
+      "rank": 29,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 475089,
       "num": 475089,
       "word": "法考",
@@ -499,8 +515,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 441990,
-      "num": 441990,
+      "raw_hot": 449918,
+      "num": 449918,
       "word": "2022热播剧TOP1",
       "onboard_time": 1671179490,
       "rank": 35,
@@ -529,14 +545,6 @@
       "onboard_time": 1671119312,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 409280,
-      "num": 409280,
-      "word": "东北制药回应退烧药一板只卖2元",
-      "onboard_time": 1671179490,
-      "rank": 16,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 407906,
@@ -667,6 +675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 355242,
+      "num": 355242,
+      "word": "白敬亭立定跳远跳出3米",
+      "onboard_time": 1671181232,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 355199,
       "num": 355199,
       "word": "药店高价卖布洛芬被举报店员频说谎",
@@ -683,6 +699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 352331,
+      "num": 352331,
+      "word": "KBS",
+      "onboard_time": 1671176309,
+      "rank": 14,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 351517,
       "num": 351517,
       "word": "10岁弟弟瞒着妈妈偷塞姐姐500元",
@@ -697,6 +721,14 @@
       "onboard_time": 1671160892,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 345940,
+      "num": 345940,
+      "word": "专家判断这块陨石来自46亿年前",
+      "onboard_time": 1671179971,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 344901,
@@ -731,6 +763,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 324302,
+      "num": 324302,
+      "word": "张新成周雨彤大宋少年志2预告",
+      "onboard_time": 1671181949,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 321716,
       "num": 321716,
       "word": "宝娟嗓多久能恢复正常",
@@ -747,36 +787,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 319473,
-      "num": 319473,
-      "word": "专家判断这块陨石来自46亿年前",
-      "onboard_time": 1671179971,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 318769,
       "num": 318769,
       "word": "短时间大面积感染易致新变异株出现",
       "onboard_time": 1671102454,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 314253,
-      "num": 314253,
-      "word": "KBS",
-      "onboard_time": 1671176309,
-      "rank": 14,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 313406,
-      "num": 313406,
-      "word": "白敬亭立定跳远跳出3米",
-      "onboard_time": 1671181232,
-      "rank": 18,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 306472,
@@ -825,6 +841,14 @@
       "onboard_time": 1671099033,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 295582,
+      "num": 295582,
+      "word": "徐峥请前女足成员客串环卫工人",
+      "onboard_time": 1671179073,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 293555,
@@ -971,14 +995,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 255859,
-      "num": 255859,
-      "word": "徐峥请前女足成员客串环卫工人",
-      "onboard_time": 1671179073,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
       "raw_hot": 255482,
       "num": 255482,
       "word": "倪虹洁好辣",
@@ -1009,6 +1025,14 @@
       "onboard_time": 1671179307,
       "rank": 26,
       "category": "音乐,体育"
+    },
+    {
+      "raw_hot": 250729,
+      "num": 250729,
+      "word": "帅到像AI是种什么体验",
+      "onboard_time": 1671177990,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 246800,
@@ -1049,14 +1073,6 @@
       "onboard_time": 1671117699,
       "rank": 33,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 244507,
-      "num": 244507,
-      "word": "帅到像AI是种什么体验",
-      "onboard_time": 1671177990,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 242865,
@@ -1131,12 +1147,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 236563,
-      "num": 223807,
-      "word": "张新成周雨彤大宋少年志2预告",
-      "onboard_time": 1671181949,
-      "rank": 31,
-      "category": "影视"
+      "raw_hot": 235967,
+      "num": 235967,
+      "word": "三亚小哥带女友看一种很新的雪",
+      "onboard_time": 1671181351,
+      "rank": 34,
+      "category": "游戏,社会新闻"
     },
     {
       "raw_hot": 235506,
@@ -1145,6 +1161,14 @@
       "onboard_time": 1671174268,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 232542,
+      "num": 232542,
+      "word": "这届年轻人有多能吃苦",
+      "onboard_time": 1671181232,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 232455,
@@ -1195,14 +1219,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 225165,
-      "num": 225165,
-      "word": "研究揭示马桶不盖盖后果多严重",
-      "onboard_time": 1671181351,
-      "rank": 29,
-      "category": "社会新闻,科技"
-    },
-    {
       "raw_hot": 224641,
       "num": 224641,
       "word": "卫龙破发",
@@ -1217,14 +1233,6 @@
       "onboard_time": 1671168092,
       "rank": 38,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 223136,
-      "num": 223136,
-      "word": "这届年轻人有多能吃苦",
-      "onboard_time": 1671181232,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 222531,
@@ -1267,6 +1275,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 202347,
+      "num": 202347,
+      "word": "买新冠保险核酸阳性后被理赔员拉黑",
+      "onboard_time": 1671181588,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 200614,
       "num": 200614,
       "word": "负责人否认影院划分阴阳场",
@@ -1283,12 +1299,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 198198,
-      "num": 198198,
-      "word": "三亚小哥带女友看一种很新的雪",
-      "onboard_time": 1671181351,
-      "rank": 34,
-      "category": "游戏,社会新闻"
+      "raw_hot": 196640,
+      "num": 196640,
+      "word": "女朋友是懂送礼的",
+      "onboard_time": 1671181588,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 196528,
@@ -1313,6 +1329,14 @@
       "onboard_time": 1671175833,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 190928,
+      "num": 190928,
+      "word": "NCTDREAM今日冬专回归",
+      "onboard_time": 1671182307,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 188106,
@@ -1379,6 +1403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 179743,
+      "num": 179743,
+      "word": "聚焦2023环球时报年会",
+      "onboard_time": 1671182190,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 179431,
       "num": 179431,
       "word": "OPPO将给一加单独投入100亿资金",
@@ -1395,12 +1427,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 176100,
-      "num": 176100,
-      "word": "女朋友是懂送礼的",
-      "onboard_time": 1671181588,
-      "rank": 38,
-      "category": "幽默"
+      "raw_hot": 175328,
+      "num": 175328,
+      "word": "县委大院好多梗",
+      "onboard_time": 1671182971,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 175262,
@@ -1611,6 +1643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 155146,
+      "num": 155146,
+      "word": "你一眼就心动的内娱剧男主",
+      "onboard_time": 1671182433,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 153875,
       "num": 153875,
       "word": "浦江 陨石",
@@ -1691,22 +1731,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 151379,
-      "num": 151379,
-      "word": "买新冠保险核酸阳性后被理赔员拉黑",
-      "onboard_time": 1671181588,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 151025,
-      "num": 151025,
-      "word": "聚焦2023环球时报年会",
-      "onboard_time": 1671182190,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 150909,
       "num": 150909,
       "word": "一定要和喜欢的人有效沟通",
@@ -1729,6 +1753,14 @@
       "onboard_time": 1671141314,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 144661,
+      "num": 144661,
+      "word": "成都一诊所抗原卖40元一支",
+      "onboard_time": 1671182971,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 142695,
@@ -1779,12 +1811,28 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 137274,
+      "num": 137274,
+      "word": "和球星拍照的方式",
+      "onboard_time": 1671183088,
+      "rank": 46,
+      "category": "体育,幽默"
+    },
+    {
       "raw_hot": 137265,
       "num": 137265,
       "word": "门将扑点球的难度有多大",
       "onboard_time": 1671160530,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 136440,
+      "num": 136440,
+      "word": "70岁老人感染新冠后的治疗过程",
+      "onboard_time": 1671182491,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 134433,
@@ -1915,6 +1963,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 107833,
+      "num": 1301840,
+      "word": "加强两节返乡人员的医疗保障",
+      "onboard_time": 1671181769,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 100745,
       "num": 97476,
       "word": "周深说懒羊羊很红的",
@@ -1977,14 +2033,6 @@
       "onboard_time": 1671124639,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 49913,
-      "num": 1190032,
-      "word": "加强两节返乡人员的医疗保障",
-      "onboard_time": 1671181769,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 47294,

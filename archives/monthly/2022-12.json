@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1671182221213,
+  "endTime": 1671183213792,
   "band_list": [
     {
       "raw_hot": 13790167,
@@ -2859,6 +2859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1264677,
+      "num": 1264677,
+      "word": "新冠对精神健康影响或超十年",
+      "onboard_time": 1671179849,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1264092,
       "num": 1264092,
       "word": "阿根廷门将神了",
@@ -3705,14 +3713,6 @@
       "onboard_time": 1670330110,
       "rank": 49,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 1073006,
-      "num": 1073006,
-      "word": "新冠对精神健康影响或超十年",
-      "onboard_time": 1671179849,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1072345,
@@ -5875,6 +5875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 786321,
+      "num": 786321,
+      "word": "盐蒸橙子",
+      "onboard_time": 1671178348,
+      "rank": 31,
+      "category": "美食,情感"
+    },
+    {
       "raw_hot": 786264,
       "num": 615601,
       "word": "WBG辅助Crisp",
@@ -6137,14 +6145,6 @@
       "onboard_time": 1670650336,
       "rank": 46,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 764603,
-      "num": 764603,
-      "word": "盐蒸橙子",
-      "onboard_time": 1671178348,
-      "rank": 31,
-      "category": "美食,情感"
     },
     {
       "raw_hot": 761659,
@@ -7891,6 +7891,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 640150,
+      "num": 640150,
+      "word": "世界杯决赛",
+      "onboard_time": 1671178766,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 639706,
       "num": 639706,
       "word": "抗原自测盒日均销量增长400多倍",
@@ -8515,14 +8523,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 603064,
-      "num": 603064,
-      "word": "世界杯决赛",
-      "onboard_time": 1671178766,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 603049,
       "num": 544395,
       "word": "沈小婷确定不出席AAA颁奖礼",
@@ -8745,6 +8745,14 @@
       "onboard_time": 1670158093,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 589607,
+      "num": 589607,
+      "word": "东北制药回应退烧药一板只卖2元",
+      "onboard_time": 1671179490,
+      "rank": 16,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 589241,
@@ -9659,6 +9667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 540153,
+      "num": 540153,
+      "word": "刘亦菲李现去有风的地方cp感",
+      "onboard_time": 1671180750,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 540002,
       "num": 540002,
       "word": "摩洛哥西班牙 加时赛",
@@ -10240,14 +10256,6 @@
       "word": "机智的医生生活国内上线",
       "onboard_time": 1670475435,
       "rank": 11,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 514296,
-      "num": 514296,
-      "word": "刘亦菲李现去有风的地方cp感",
-      "onboard_time": 1671180750,
-      "rank": 12,
       "category": "影视"
     },
     {
@@ -11035,6 +11043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 476462,
+      "num": 476462,
+      "word": "研究揭示马桶不盖盖后果多严重",
+      "onboard_time": 1671181351,
+      "rank": 29,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 475673,
       "num": 475673,
       "word": "中国裁判组结束世界杯之旅",
@@ -11819,6 +11835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 449918,
+      "num": 449918,
+      "word": "2022热播剧TOP1",
+      "onboard_time": 1671179490,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 449719,
       "num": 449719,
       "word": "胡歌演的梅晓歌有点反差感在身上",
@@ -11977,14 +12001,6 @@
       "onboard_time": 1671020419,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 441990,
-      "num": 441990,
-      "word": "2022热播剧TOP1",
-      "onboard_time": 1671179490,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 441965,
@@ -13065,14 +13081,6 @@
       "onboard_time": 1671119312,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 409280,
-      "num": 409280,
-      "word": "东北制药回应退烧药一板只卖2元",
-      "onboard_time": 1671179490,
-      "rank": 16,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 409027,
@@ -14939,6 +14947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 355242,
+      "num": 355242,
+      "word": "白敬亭立定跳远跳出3米",
+      "onboard_time": 1671181232,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 355199,
       "num": 355199,
       "word": "药店高价卖布洛芬被举报店员频说谎",
@@ -15057,6 +15073,14 @@
       "onboard_time": 1670175372,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 352331,
+      "num": 352331,
+      "word": "KBS",
+      "onboard_time": 1671176309,
+      "rank": 14,
+      "category": "音乐"
     },
     {
       "raw_hot": 352225,
@@ -15264,6 +15288,14 @@
       "word": "江泽民同志治丧委员会名单",
       "onboard_time": 1669799717,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 345940,
+      "num": 345940,
+      "word": "专家判断这块陨石来自46亿年前",
+      "onboard_time": 1671179971,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -16155,6 +16187,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 324302,
+      "num": 324302,
+      "word": "张新成周雨彤大宋少年志2预告",
+      "onboard_time": 1671181949,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 324133,
       "num": 324133,
       "word": "骗子用足球游戏画面冒充世界杯直播",
@@ -16427,14 +16467,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 319473,
-      "num": 319473,
-      "word": "专家判断这块陨石来自46亿年前",
-      "onboard_time": 1671179971,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 319434,
       "num": 187912,
       "word": "摩洛哥 反击",
@@ -16651,28 +16683,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 314253,
-      "num": 314253,
-      "word": "KBS",
-      "onboard_time": 1671176309,
-      "rank": 14,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 314085,
       "num": 1752524,
       "word": "学校回应教师教室内踢翻学生",
       "onboard_time": 1670231533,
       "rank": 42,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 313406,
-      "num": 313406,
-      "word": "白敬亭立定跳远跳出3米",
-      "onboard_time": 1671181232,
-      "rank": 18,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 313329,
@@ -17521,6 +17537,14 @@
       "onboard_time": 1670660779,
       "rank": 20,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 295582,
+      "num": 295582,
+      "word": "徐峥请前女足成员客串环卫工人",
+      "onboard_time": 1671179073,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 295575,
@@ -19699,14 +19723,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 255859,
-      "num": 255859,
-      "word": "徐峥请前女足成员客串环卫工人",
-      "onboard_time": 1671179073,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
       "raw_hot": 255540,
       "num": 217402,
       "word": "张雪迎新剧婚纱造型",
@@ -19985,6 +20001,14 @@
       "onboard_time": 1670678900,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 250729,
+      "num": 250729,
+      "word": "帅到像AI是种什么体验",
+      "onboard_time": 1671177990,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 250495,
@@ -20425,14 +20449,6 @@
       "onboard_time": 1670805308,
       "rank": 22,
       "category": "科技"
-    },
-    {
-      "raw_hot": 244507,
-      "num": 244507,
-      "word": "帅到像AI是种什么体验",
-      "onboard_time": 1671177990,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 244433,
@@ -20899,14 +20915,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 236563,
-      "num": 223807,
-      "word": "张新成周雨彤大宋少年志2预告",
-      "onboard_time": 1671181949,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 236465,
       "num": 236465,
       "word": "西班牙队本场状态",
@@ -20929,6 +20937,14 @@
       "onboard_time": 1670384291,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 235967,
+      "num": 235967,
+      "word": "三亚小哥带女友看一种很新的雪",
+      "onboard_time": 1671181351,
+      "rank": 34,
+      "category": "游戏,社会新闻"
     },
     {
       "raw_hot": 235802,
@@ -21177,6 +21193,14 @@
       "onboard_time": 1671108453,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 232542,
+      "num": 232542,
+      "word": "这届年轻人有多能吃苦",
+      "onboard_time": 1671181232,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 232532,
@@ -21667,14 +21691,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 225165,
-      "num": 225165,
-      "word": "研究揭示马桶不盖盖后果多严重",
-      "onboard_time": 1671181351,
-      "rank": 29,
-      "category": "社会新闻,科技"
-    },
-    {
       "raw_hot": 225080,
       "num": 225080,
       "word": "陈飞宇谢谢观众的审判",
@@ -21801,14 +21817,6 @@
       "onboard_time": 1669825272,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 223136,
-      "num": 223136,
-      "word": "这届年轻人有多能吃苦",
-      "onboard_time": 1671181232,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 222993,
@@ -23219,6 +23227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 202347,
+      "num": 202347,
+      "word": "买新冠保险核酸阳性后被理赔员拉黑",
+      "onboard_time": 1671181588,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 202149,
       "num": 202149,
       "word": "RedVelvet回归初一位",
@@ -23483,14 +23499,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 198198,
-      "num": 198198,
-      "word": "三亚小哥带女友看一种很新的雪",
-      "onboard_time": 1671181351,
-      "rank": 34,
-      "category": "游戏,社会新闻"
-    },
-    {
       "raw_hot": 198196,
       "num": 198196,
       "word": "风吹半夏主创评价赵丽颖",
@@ -23601,6 +23609,14 @@
       "onboard_time": 1670403792,
       "rank": 43,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 196640,
+      "num": 196640,
+      "word": "女朋友是懂送礼的",
+      "onboard_time": 1671181588,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 196622,
@@ -24297,6 +24313,14 @@
       "onboard_time": 1671088707,
       "rank": 31,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 190928,
+      "num": 190928,
+      "word": "NCTDREAM今日冬专回归",
+      "onboard_time": 1671182307,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 190875,
@@ -25507,6 +25531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 179743,
+      "num": 179743,
+      "word": "聚焦2023环球时报年会",
+      "onboard_time": 1671182190,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 179724,
       "num": 179724,
       "word": "入睡前应关掉电热毯电源",
@@ -25923,14 +25955,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 176100,
-      "num": 176100,
-      "word": "女朋友是懂送礼的",
-      "onboard_time": 1671181588,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 176098,
       "num": 176098,
       "word": "赵丽颖拍摄路透",
@@ -26009,6 +26033,14 @@
       "onboard_time": 1670028188,
       "rank": 3,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 175328,
+      "num": 175328,
+      "word": "县委大院好多梗",
+      "onboard_time": 1671182971,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 175262,
@@ -28307,6 +28339,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 155146,
+      "num": 155146,
+      "word": "你一眼就心动的内娱剧男主",
+      "onboard_time": 1671182433,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 155135,
       "num": 155135,
       "word": "梅西神助攻",
@@ -28771,14 +28811,6 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 151379,
-      "num": 151379,
-      "word": "买新冠保险核酸阳性后被理赔员拉黑",
-      "onboard_time": 1671181588,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 151353,
       "num": 151353,
       "word": "sky光遇",
@@ -28817,14 +28849,6 @@
       "onboard_time": 1670061551,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 151025,
-      "num": 151025,
-      "word": "聚焦2023环球时报年会",
-      "onboard_time": 1671182190,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 150929,
@@ -29537,6 +29561,14 @@
       "onboard_time": 1670768779,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 144661,
+      "num": 144661,
+      "word": "成都一诊所抗原卖40元一支",
+      "onboard_time": 1671182971,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 144603,
@@ -30411,6 +30443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 137274,
+      "num": 137274,
+      "word": "和球星拍照的方式",
+      "onboard_time": 1671183088,
+      "rank": 46,
+      "category": "体育,幽默"
+    },
+    {
       "raw_hot": 137265,
       "num": 137265,
       "word": "门将扑点球的难度有多大",
@@ -30489,6 +30529,14 @@
       "onboard_time": 1670998995,
       "rank": 47,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 136440,
+      "num": 136440,
+      "word": "70岁老人感染新冠后的治疗过程",
+      "onboard_time": 1671182491,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 136381,
@@ -33427,6 +33475,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 107833,
+      "num": 1301840,
+      "word": "加强两节返乡人员的医疗保障",
+      "onboard_time": 1671181769,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 107832,
       "num": 107832,
       "word": "一句话暖陌生人一整天",
@@ -35585,14 +35641,6 @@
       "onboard_time": 1669838768,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 49913,
-      "num": 1190032,
-      "word": "加强两节返乡人员的医疗保障",
-      "onboard_time": 1671181769,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 48418,
