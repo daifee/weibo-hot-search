@@ -1,6 +1,6 @@
 {
   "startTime": 1671207916313,
-  "endTime": 1671226407571,
+  "endTime": 1671229019043,
   "band_list": [
     {
       "raw_hot": 1808400,
@@ -451,6 +451,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 63535,
+      "num": 29037,
+      "word": "转阴后仍有症状怎么办",
+      "onboard_time": 1671226813,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 62181,
       "num": 124907,
       "word": "足球教练的脚法能有多绝",
@@ -475,6 +483,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 36916,
+      "num": 36916,
+      "word": "阿凡达2的水世界有多壮观",
+      "onboard_time": 1671220272,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 35328,
+      "num": 35328,
+      "word": "互联网企业有责任向大众传递正确信息",
+      "onboard_time": 1671223751,
+      "rank": 48,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 34506,
       "num": 593208,
       "word": "中国成功发射试验二十一号卫星",
@@ -483,28 +507,20 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 29248,
-      "num": 29248,
+      "raw_hot": 33686,
+      "num": 33686,
       "word": "雅鲁藏布江现巨大鲫鱼状沙滩",
       "onboard_time": 1671216734,
       "rank": 48,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 25802,
-      "num": 25802,
-      "word": "阿凡达2的水世界有多壮观",
-      "onboard_time": 1671220272,
-      "rank": 43,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 18986,
-      "num": 18986,
-      "word": "互联网企业有责任向大众传递正确信息",
-      "onboard_time": 1671223751,
+      "raw_hot": 15002,
+      "num": 18898,
+      "word": "众人屋前烤火地面突然爆炸",
+      "onboard_time": 1671228672,
       "rank": 48,
-      "category": "国内要闻"
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
