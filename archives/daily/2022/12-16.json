@@ -1,6 +1,6 @@
 {
   "startTime": 1671121651972,
-  "endTime": 1671196920384,
+  "endTime": 1671197616964,
   "band_list": [
     {
       "raw_hot": 7857110,
@@ -275,6 +275,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 795940,
+      "num": 795940,
+      "word": "男孩考99分崩溃控诉父母",
+      "onboard_time": 1671195154,
+      "rank": 12,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 786321,
       "num": 786321,
       "word": "盐蒸橙子",
@@ -287,6 +295,14 @@
       "num": 785296,
       "word": "成都一诊所抗原卖40元一支",
       "onboard_time": 1671182971,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 779714,
+      "num": 779714,
+      "word": "妈妈熬汤呈绿色阳性娃吓得不敢喝",
+      "onboard_time": 1671194731,
       "rank": 45,
       "category": "社会新闻"
     },
@@ -345,14 +361,6 @@
       "onboard_time": 1671174749,
       "rank": 48,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 680445,
-      "num": 490371,
-      "word": "妈妈熬汤呈绿色阳性娃吓得不敢喝",
-      "onboard_time": 1671194731,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 671223,
@@ -435,20 +443,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 613622,
+      "num": 613622,
+      "word": "蔡徐坤倒立话筒唱新编曲HardToGet",
+      "onboard_time": 1671196471,
+      "rank": 6,
+      "category": "音乐,体育"
+    },
+    {
       "raw_hot": 607400,
       "num": 607400,
       "word": "第一次去女朋友家就被镇住了",
       "onboard_time": 1671183387,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 599732,
-      "num": 599732,
-      "word": "蔡徐坤倒立话筒唱新编曲HardToGet",
-      "onboard_time": 1671196471,
-      "rank": 6,
-      "category": "音乐,体育"
     },
     {
       "raw_hot": 599206,
@@ -497,14 +505,6 @@
       "onboard_time": 1671149005,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 584024,
-      "num": 489409,
-      "word": "男孩考99分崩溃控诉父母",
-      "onboard_time": 1671195154,
-      "rank": 12,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 583522,
@@ -715,6 +715,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 421824,
+      "num": 421824,
+      "word": "杭州所有医疗机构门急诊取消核验48小时核酸证明",
+      "onboard_time": 1671193894,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 419283,
+      "num": 419283,
+      "word": "周深 和声",
+      "onboard_time": 1671196773,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 409420,
       "num": 409420,
       "word": "克罗地亚总统暗示阿根廷赢在裁判",
@@ -825,14 +841,6 @@
       "onboard_time": 1671171150,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 380585,
-      "num": 380585,
-      "word": "杭州所有医疗机构门急诊取消核验48小时核酸证明",
-      "onboard_time": 1671193894,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 377461,
@@ -987,6 +995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 341864,
+      "num": 302864,
+      "word": "庞博是懂爱情的",
+      "onboard_time": 1671195752,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 334843,
       "num": 334843,
       "word": "核酸阳性第几天会转阴",
@@ -1011,14 +1027,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 331116,
-      "num": 271748,
-      "word": "庞博是懂爱情的",
-      "onboard_time": 1671195752,
-      "rank": 25,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 330874,
       "num": 330874,
       "word": "宝可梦",
@@ -1033,14 +1041,6 @@
       "onboard_time": 1671108694,
       "rank": 22,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 324335,
-      "num": 206479,
-      "word": "周深 和声",
-      "onboard_time": 1671196773,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 324302,
@@ -2059,6 +2059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 163412,
+      "num": 170957,
+      "word": "买7元掏耳勺胶套掉耳道花175元取出",
+      "onboard_time": 1671196835,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162925,
       "num": 162925,
       "word": "黄宗泽欧阳震华催无限超越班开播",
@@ -2523,6 +2531,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 109264,
+      "num": 161226,
+      "word": "00后女租客欠租失联留下满屋垃圾",
+      "onboard_time": 1671197440,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 109239,
       "num": 318022,
       "word": "OPPO折叠屏值不值得买",
@@ -2539,16 +2555,16 @@
       "category": "旅游,自然"
     },
     {
-      "raw_hot": 106201,
-      "num": 170957,
-      "word": "买7元掏耳勺胶套掉耳道花175元取出",
-      "onboard_time": 1671196835,
-      "rank": 49,
+      "raw_hot": 105464,
+      "num": 161107,
+      "word": "多款确诊即赔新冠险下架",
+      "onboard_time": 1671197553,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
       "raw_hot": 104749,
-      "num": 104749,
+      "num": 160638,
       "word": "盘点东北制药产业版图",
       "onboard_time": 1671190234,
       "rank": 49,
@@ -2651,6 +2667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 35081,
+      "num": 173410,
+      "word": "网商银行推出暖心K套餐",
+      "onboard_time": 1671195635,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30243,
       "num": 28853,
       "word": "何广智是GQ红毯孤勇者吧",
@@ -2689,14 +2713,6 @@
       "onboard_time": 1671132073,
       "rank": 37,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 18808,
-      "num": 173410,
-      "word": "网商银行推出暖心K套餐",
-      "onboard_time": 1671195635,
-      "rank": 39,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
