@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1671225352218,
+  "endTime": 1671226407571,
   "band_list": [
     {
       "raw_hot": 13790167,
@@ -37059,20 +37059,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 18986,
+      "num": 18986,
+      "word": "互联网企业有责任向大众传递正确信息",
+      "onboard_time": 1671223751,
+      "rank": 48,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 16100,
       "num": 470675,
       "word": "有了徕卡小米成了吗",
       "onboard_time": 1670767337,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 14774,
-      "num": 16223,
-      "word": "互联网企业有责任向大众传递正确信息",
-      "onboard_time": 1671223751,
-      "rank": 48,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 13504,
