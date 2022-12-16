@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1671161611258,
+  "endTime": 1671164512282,
   "band_list": [
     {
       "raw_hot": 13790167,
@@ -833,6 +833,14 @@
       "onboard_time": 1670965150,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2364524,
+      "num": 2364524,
+      "word": "爱奇艺VIP再涨价",
+      "onboard_time": 1671160951,
+      "rank": 17,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 2345769,
@@ -5379,6 +5387,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 823099,
+      "num": 823099,
+      "word": "父母阳性3岁半宝宝独自客厅生活",
+      "onboard_time": 1671159991,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 822768,
       "num": 822768,
       "word": "英格兰1比2法国",
@@ -8499,6 +8515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 592220,
+      "num": 592220,
+      "word": "布洛芬注册批文超500个为何一盒难求",
+      "onboard_time": 1671159748,
+      "rank": 24,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 591761,
       "num": 591761,
       "word": "剪秋本宫的头好痛",
@@ -9595,6 +9619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 535571,
+      "num": 535571,
+      "word": "美国一架F35B垂直降落失控",
+      "onboard_time": 1671161252,
+      "rank": 37,
+      "category": "军事"
+    },
+    {
       "raw_hot": 535313,
       "num": 535313,
       "word": "Knight加入JDG",
@@ -9736,6 +9768,14 @@
       "word": "女子被骗去酒店隔离转给对方29万",
       "onboard_time": 1670899870,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 526949,
+      "num": 526949,
+      "word": "身高185在山东算大高个吗",
+      "onboard_time": 1671160472,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -10217,14 +10257,6 @@
       "onboard_time": 1670056991,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 501647,
-      "num": 501647,
-      "word": "布洛芬注册批文超500个为何一盒难求",
-      "onboard_time": 1671159748,
-      "rank": 24,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 501610,
@@ -10835,6 +10867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 475089,
+      "num": 475089,
+      "word": "法考",
+      "onboard_time": 1671162993,
+      "rank": 14,
+      "category": "教育"
+    },
+    {
       "raw_hot": 475039,
       "num": 475039,
       "word": "让你长时间单身的原因",
@@ -10953,6 +10993,14 @@
       "onboard_time": 1670344328,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 470105,
+      "num": 470105,
+      "word": "省考",
+      "onboard_time": 1671163532,
+      "rank": 15,
+      "category": "教育"
     },
     {
       "raw_hot": 470020,
@@ -12459,14 +12507,6 @@
       "category": "教育,情感"
     },
     {
-      "raw_hot": 418168,
-      "num": 418168,
-      "word": "父母阳性3岁半宝宝独自客厅生活",
-      "onboard_time": 1671159991,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 417523,
       "num": 417523,
       "word": "姆巴佩梅西C罗250球所用场次对比",
@@ -12873,6 +12913,14 @@
       "onboard_time": 1671150090,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 407767,
+      "num": 407767,
+      "word": "河南卫生健康系统将暂时取消节假日",
+      "onboard_time": 1671163171,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 407763,
@@ -13635,6 +13683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 384963,
+      "num": 384963,
+      "word": "外卖员安慰阳性顾客不要哭多喝水",
+      "onboard_time": 1671160288,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 384793,
       "num": 384793,
       "word": "刘耀文初雪视频背景音乐是新歌",
@@ -14251,6 +14307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 364872,
+      "num": 364872,
+      "word": "王心凌在KTV实现下班愿望",
+      "onboard_time": 1671162813,
+      "rank": 21,
+      "category": "音乐,体育"
+    },
+    {
       "raw_hot": 364819,
       "num": 364819,
       "word": "男子工地上班女友打地铺玩手机",
@@ -14345,14 +14409,6 @@
       "onboard_time": 1671101315,
       "rank": 32,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 360992,
-      "num": 360992,
-      "word": "爱奇艺VIP再涨价",
-      "onboard_time": 1671160951,
-      "rank": 17,
-      "category": "科技,财经"
     },
     {
       "raw_hot": 360567,
@@ -14497,6 +14553,14 @@
       "onboard_time": 1670163433,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 357413,
+      "num": 357413,
+      "word": "火球坠落浦江时3人路过万幸躲过",
+      "onboard_time": 1671162214,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 357109,
@@ -16899,6 +16963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 302076,
+      "num": 302076,
+      "word": "宝娟嗓多久能恢复正常",
+      "onboard_time": 1671160232,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 301689,
       "num": 273900,
       "word": "梅西手术刀助攻",
@@ -17001,14 +17073,6 @@
       "onboard_time": 1670677399,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 299192,
-      "num": 299192,
-      "word": "身高185在山东算大高个吗",
-      "onboard_time": 1671160472,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 299035,
@@ -17785,6 +17849,14 @@
       "onboard_time": 1669867992,
       "rank": 39,
       "category": "科技"
+    },
+    {
+      "raw_hot": 283102,
+      "num": 283102,
+      "word": "感染一次奥密克戎就像打了一针疫苗",
+      "onboard_time": 1671159270,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 283074,
@@ -18889,14 +18961,6 @@
       "onboard_time": 1670760918,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 263501,
-      "num": 263501,
-      "word": "宝娟嗓多久能恢复正常",
-      "onboard_time": 1671160232,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 263266,
@@ -21379,6 +21443,14 @@
       "category": "体育,情感"
     },
     {
+      "raw_hot": 221729,
+      "num": 221729,
+      "word": "早阳早好的观点对不对",
+      "onboard_time": 1671159089,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 221673,
       "num": 221673,
       "word": "新10条执行坚决纠正简单化一刀切",
@@ -22091,14 +22163,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 211243,
-      "num": 211243,
-      "word": "感染一次奥密克戎就像打了一针疫苗",
-      "onboard_time": 1671159270,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 211218,
       "num": 211218,
       "word": "考研上岸感人的瞬间",
@@ -22185,14 +22249,6 @@
       "onboard_time": 1670675360,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 210437,
-      "num": 210437,
-      "word": "外卖员安慰阳性顾客不要哭多喝水",
-      "onboard_time": 1671160288,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 210363,
@@ -22761,14 +22817,6 @@
       "onboard_time": 1670828536,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 201124,
-      "num": 201124,
-      "word": "美国一架F35B垂直降落失控",
-      "onboard_time": 1671161252,
-      "rank": 37,
-      "category": "军事"
     },
     {
       "raw_hot": 201070,
@@ -24131,6 +24179,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 186731,
+      "num": 186731,
+      "word": "FNC官宣Rekkles回归",
+      "onboard_time": 1671161975,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 186726,
       "num": 1332510,
       "word": "孙兴慜助攻",
@@ -24377,6 +24433,14 @@
       "onboard_time": 1670974213,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 184788,
+      "num": 184788,
+      "word": "宋亚轩我喜欢你单人直拍",
+      "onboard_time": 1671164314,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 184737,
@@ -25387,20 +25451,20 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 175417,
-      "num": 175417,
-      "word": "早阳早好的观点对不对",
-      "onboard_time": 1671159089,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 175385,
       "num": 869140,
       "word": "近期7大防疫热点问答",
       "onboard_time": 1670028188,
       "rank": 3,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 175262,
+      "num": 175262,
+      "word": "华语音乐打歌中心全明星阵容",
+      "onboard_time": 1671163413,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 175158,
@@ -25657,6 +25721,14 @@
       "onboard_time": 1670714110,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 172740,
+      "num": 172740,
+      "word": "成毅张凌赫陈哲远GQ内场生图",
+      "onboard_time": 1671164192,
+      "rank": 43,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 172692,
@@ -27507,6 +27579,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 155946,
+      "num": 155946,
+      "word": "00后小伙找不到工作睡树林",
+      "onboard_time": 1671163953,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 155869,
       "num": 155869,
       "word": "非洲球队首进世界杯四强",
@@ -27521,6 +27601,14 @@
       "onboard_time": 1671059060,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 155821,
+      "num": 155821,
+      "word": "蔡徐坤世界杯音乐盛典今晚见",
+      "onboard_time": 1671164132,
+      "rank": 48,
+      "category": "音乐,体育"
     },
     {
       "raw_hot": 155608,
@@ -27553,6 +27641,14 @@
       "onboard_time": 1670059959,
       "rank": 31,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 155428,
+      "num": 155428,
+      "word": "快乐再出发兄弟为家乡荣誉拼了",
+      "onboard_time": 1671164492,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 155183,
@@ -31803,6 +31899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 116858,
+      "num": 1535216,
+      "word": "2022这些同框浪漫又硬核",
+      "onboard_time": 1671162336,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 116800,
       "num": 116800,
       "word": "当代网友为什么沉迷评论区",
@@ -35017,6 +35121,14 @@
       "onboard_time": 1671102033,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21398,
+      "num": 175759,
+      "word": "当代年轻人看球新花样",
+      "onboard_time": 1671163231,
+      "rank": 39,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 20675,
