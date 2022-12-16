@@ -1,0 +1,410 @@
+{
+  "runTime": 1671161611258,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7857110,
+        "num": 7857110,
+        "word": "国考重启",
+        "onboard_time": 1671160589,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1765681,
+        "num": 1765681,
+        "word": "专家提醒千万别清洗陨石",
+        "onboard_time": 1671155909,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79156,
+        "num": 1370320,
+        "word": "疫情防控期9个倡议",
+        "onboard_time": 1671109116,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1153058,
+        "num": 1153058,
+        "word": "退烧止痛布洛芬和泰诺选哪个",
+        "onboard_time": 1671146661,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1137609,
+        "num": 1137609,
+        "word": "为什么买不到抗原",
+        "onboard_time": 1671157828,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 881301,
+        "num": 881301,
+        "word": "网友吃2颗布洛芬后发现已过期",
+        "onboard_time": 1671157106,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 836231,
+        "num": 836231,
+        "word": "法国三名主力感染骆驼流感",
+        "onboard_time": 1671157889,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 759801,
+        "num": 759801,
+        "word": "周大福2万元钻戒当掉卖不了3千",
+        "onboard_time": 1671152852,
+        "rank": 7,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 633756,
+        "num": 633756,
+        "word": "无畏 点投降",
+        "onboard_time": 1671150332,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 594403,
+        "num": 594403,
+        "word": "梅西缺席阿根廷队训练",
+        "onboard_time": 1671158730,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 526295,
+        "num": 526295,
+        "word": "宝宝确诊新冠难受哭泣还安慰妈妈",
+        "onboard_time": 1671155909,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 501647,
+        "num": 501647,
+        "word": "布洛芬注册批文超500个为何一盒难求",
+        "onboard_time": 1671159748,
+        "rank": 11,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 499876,
+        "num": 499876,
+        "word": "水中毒",
+        "onboard_time": 1671158730,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 474233,
+        "num": 474233,
+        "word": "感染新冠发病7天内可能出现这些症状",
+        "onboard_time": 1671151171,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 430284,
+        "num": 430284,
+        "word": "出现什么症状要小心可能演变成重症",
+        "onboard_time": 1671146542,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 418168,
+        "num": 418168,
+        "word": "父母阳性3岁半宝宝独自客厅生活",
+        "onboard_time": 1671159991,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 407906,
+        "num": 407906,
+        "word": "萧玦",
+        "onboard_time": 1671159448,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 360992,
+        "num": 360992,
+        "word": "爱奇艺VIP再涨价",
+        "onboard_time": 1671160951,
+        "rank": 17,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 350673,
+        "num": 350673,
+        "word": "婷美",
+        "onboard_time": 1671148707,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 349124,
+        "num": 349124,
+        "word": "赵丽颖王一博有翡开播二周年",
+        "onboard_time": 1671160892,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 331874,
+        "num": 331874,
+        "word": "田曦薇给我演恶女",
+        "onboard_time": 1671117816,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 331544,
+        "num": 331544,
+        "word": "女生拒绝周末去公司打扫卫生被辞",
+        "onboard_time": 1671159151,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310074,
+        "num": 310074,
+        "word": "张嘉倪何洛洛豪门姐弟",
+        "onboard_time": 1671118415,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 305392,
+        "num": 305392,
+        "word": "王鹤棣GQ盛典内场图",
+        "onboard_time": 1671160951,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 299192,
+        "num": 299192,
+        "word": "身高185在山东算大高个吗",
+        "onboard_time": 1671160472,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298314,
+        "num": 298314,
+        "word": "病了才知道免疫系统有多努力",
+        "onboard_time": 1671156631,
+        "rank": 25,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 289884,
+        "num": 289884,
+        "word": "IZONE年末限定合体",
+        "onboard_time": 1671161493,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 280942,
+        "num": 280942,
+        "word": "男子阳性后摆烂妻子被传染秒重视",
+        "onboard_time": 1671109719,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272192,
+        "num": 272192,
+        "word": "都暻秀说伯贤退伍后EXO将回归",
+        "onboard_time": 1671159567,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263501,
+        "num": 263501,
+        "word": "宝娟嗓多久能恢复正常",
+        "onboard_time": 1671160232,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227482,
+        "num": 227482,
+        "word": "小沈阳新冠后变敏阳阳",
+        "onboard_time": 1671118355,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210437,
+        "num": 210437,
+        "word": "外卖员安慰阳性顾客不要哭多喝水",
+        "onboard_time": 1671160288,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209770,
+        "num": 209770,
+        "word": "感染一次奥密克戎就像打了一针疫苗",
+        "onboard_time": 1671159270,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205595,
+        "num": 205595,
+        "word": "Jennie金智秀演唱会后台随拍",
+        "onboard_time": 1671157169,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 202570,
+        "num": 202570,
+        "word": "一新冠患者因过量饮水导致水中毒",
+        "onboard_time": 1671116381,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202515,
+        "num": 202515,
+        "word": "成毅获GQ年度突破艺人",
+        "onboard_time": 1671159748,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 201292,
+        "num": 201292,
+        "word": "阿凡达2上映瞬间票房破亿",
+        "onboard_time": 1671155909,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 201124,
+        "num": 201124,
+        "word": "美国一架F35B垂直降落失控",
+        "onboard_time": 1671161252,
+        "rank": 37,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 187380,
+        "num": 187380,
+        "word": "独居的人阳了之后有多难",
+        "onboard_time": 1671155547,
+        "rank": 38,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 184503,
+        "num": 184503,
+        "word": "关晓彤 驯服高跟鞋中",
+        "onboard_time": 1671119611,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 175990,
+        "num": 175990,
+        "word": "成都的围炉煮茶有多火",
+        "onboard_time": 1671154770,
+        "rank": 40,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 175417,
+        "num": 175417,
+        "word": "早阳早好的观点对不对",
+        "onboard_time": 1671159089,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169536,
+        "num": 169536,
+        "word": "专家呼吁捐赠陨石样品用于科研",
+        "onboard_time": 1671161434,
+        "rank": 42,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 160221,
+        "num": 160221,
+        "word": "张凌赫差点被红毯绊倒",
+        "onboard_time": 1671150090,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 159566,
+        "num": 159566,
+        "word": "被张若昀GQ红毯拽到",
+        "onboard_time": 1671123921,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 159368,
+        "num": 159368,
+        "word": "同住人阳了家中如何消毒",
+        "onboard_time": 1671156326,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152108,
+        "num": 152108,
+        "word": "生活在别处的我阵容官宣",
+        "onboard_time": 1671161252,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 150344,
+        "num": 150344,
+        "word": "大高个舅舅进门看懵宝宝",
+        "onboard_time": 1671146723,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137432,
+        "num": 137432,
+        "word": "负责人否认影院划分阴阳场",
+        "onboard_time": 1671159089,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123259,
+        "num": 123259,
+        "word": "疫情谣言能有多离谱",
+        "onboard_time": 1671160712,
+        "rank": 49,
+        "category": "社会新闻,情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#建设开放型世界经济#"
+    }
+  }
+}
