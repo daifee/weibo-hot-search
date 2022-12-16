@@ -1,6 +1,6 @@
 {
   "startTime": 1670775913271,
-  "endTime": 1671175999760,
+  "endTime": 1671178945802,
   "band_list": [
     {
       "raw_hot": 7857110,
@@ -1419,6 +1419,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 972934,
+      "num": 972934,
+      "word": "男孩阳了给同学发消息让吃席",
+      "onboard_time": 1671177389,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 972176,
       "num": 972176,
       "word": "女子买退烧药发现价签贴3层涨20元",
@@ -1785,6 +1793,14 @@
       "onboard_time": 1670811311,
       "rank": 5,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 822250,
+      "num": 822250,
+      "word": "北京海淀倡议居民加入骑手行列",
+      "onboard_time": 1671175948,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 819050,
@@ -2579,6 +2595,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 612033,
+      "num": 612033,
+      "word": "张若昀走红毯好像在憋气",
+      "onboard_time": 1671174749,
+      "rank": 48,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 611583,
       "num": 438713,
       "word": "关晓彤今天露腿了",
@@ -2763,6 +2787,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 575193,
+      "num": 575193,
+      "word": "东北制药",
+      "onboard_time": 1671176549,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 573686,
       "num": 573686,
       "word": "刘畊宏直播",
@@ -2808,6 +2840,14 @@
       "word": "错把酒精当生理盐水28天女婴角膜烧伤",
       "onboard_time": 1670887147,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 565971,
+      "num": 565971,
+      "word": "31岁未婚女子被催多晃悠让媒婆知道",
+      "onboard_time": 1671176849,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -3955,14 +3995,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 421022,
-      "num": 398312,
-      "word": "张若昀走红毯好像在憋气",
-      "onboard_time": 1671174749,
-      "rank": 48,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 420727,
       "num": 420727,
       "word": "邓紫棋西语歌助兴阿根廷",
@@ -4723,6 +4755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 355199,
+      "num": 355199,
+      "word": "药店高价卖布洛芬被举报店员频说谎",
+      "onboard_time": 1671173488,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 354613,
       "num": 354613,
       "word": "北方疫情持续时间预计长于南方",
@@ -5203,6 +5243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 314253,
+      "num": 314253,
+      "word": "KBS",
+      "onboard_time": 1671176309,
+      "rank": 14,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 313255,
       "num": 313255,
       "word": "开窗通风是否会有被传染的风险",
@@ -5379,6 +5427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 302564,
+      "num": 302564,
+      "word": "新郎零下7度被绑电线杆泼酱油",
+      "onboard_time": 1671176128,
+      "rank": 15,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 300654,
       "num": 300654,
       "word": "范志毅向前国足后卫赵鹏道歉",
@@ -5393,14 +5449,6 @@
       "onboard_time": 1670940134,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 299139,
-      "num": 299139,
-      "word": "药店高价卖布洛芬被举报店员频说谎",
-      "onboard_time": 1671173488,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 298314,
@@ -5939,6 +5987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 271791,
+      "num": 271791,
+      "word": "何炅所说的钝感力",
+      "onboard_time": 1671173669,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 271464,
       "num": 271464,
       "word": "消防员火场拎出一脸生无可恋狗子",
@@ -5969,14 +6025,6 @@
       "onboard_time": 1671019099,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 267695,
-      "num": 267695,
-      "word": "何炅所说的钝感力",
-      "onboard_time": 1671173669,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 267187,
@@ -6025,6 +6073,14 @@
       "onboard_time": 1671155909,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 266453,
+      "num": 266453,
+      "word": "村民捡到第三块陨石碎片",
+      "onboard_time": 1671175049,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 266434,
@@ -6539,6 +6595,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 242859,
+      "num": 242859,
+      "word": "涵艺爆料EDG转会期",
+      "onboard_time": 1671176188,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 242649,
       "num": 242649,
       "word": "罗云熙白鹿月照千峰过审",
@@ -6753,6 +6817,14 @@
       "onboard_time": 1671108453,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 232455,
+      "num": 232455,
+      "word": "内娱女演员代表作",
+      "onboard_time": 1671177749,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 232307,
@@ -7105,6 +7177,14 @@
       "onboard_time": 1671074548,
       "rank": 48,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 218987,
+      "num": 218987,
+      "word": "GAI王斯然真夫妻的默契",
+      "onboard_time": 1671174929,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 218532,
@@ -7851,6 +7931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 191602,
+      "num": 191602,
+      "word": "张远把蘑菇屋记成去年的事",
+      "onboard_time": 1671175833,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 191454,
       "num": 191454,
       "word": "男子捡手机无视失主追赶捡起就跑",
@@ -7881,6 +7969,14 @@
       "onboard_time": 1671088707,
       "rank": 31,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 190825,
+      "num": 190825,
+      "word": "盐蒸橙子",
+      "onboard_time": 1671178348,
+      "rank": 31,
+      "category": "美食,情感"
     },
     {
       "raw_hot": 190511,
@@ -8049,6 +8145,14 @@
       "onboard_time": 1671172768,
       "rank": 32,
       "category": "教育"
+    },
+    {
+      "raw_hot": 186239,
+      "num": 186239,
+      "word": "阿凡达2 特效",
+      "onboard_time": 1671175231,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 185919,
@@ -8339,14 +8443,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 177865,
-      "num": 177865,
-      "word": "张远把蘑菇屋记成去年的事",
-      "onboard_time": 1671175833,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 177860,
       "num": 177860,
       "word": "摩洛哥足协免费给本国球迷发球票",
@@ -8529,14 +8625,6 @@
       "onboard_time": 1670935874,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 173576,
-      "num": 173576,
-      "word": "阿凡达2 特效",
-      "onboard_time": 1671175231,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 173334,
@@ -8761,6 +8849,14 @@
       "onboard_time": 1671174569,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 168075,
+      "num": 168075,
+      "word": "吴磊追赶落日随拍",
+      "onboard_time": 1671176967,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 167943,
@@ -9003,14 +9099,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 163178,
-      "num": 163178,
-      "word": "北京海淀倡议居民加入骑手行列",
-      "onboard_time": 1671175948,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 162942,
       "num": 156722,
       "word": "白鹿GQ盛典上班路透",
@@ -9187,6 +9275,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 155996,
+      "num": 155996,
+      "word": "帅到像AI是种什么体验",
+      "onboard_time": 1671177990,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 155856,
       "num": 155856,
       "word": "特奥破门",
@@ -9281,6 +9377,14 @@
       "onboard_time": 1671163772,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 152885,
+      "num": 152885,
+      "word": "张新成用英语推荐县委大院",
+      "onboard_time": 1671176787,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 152788,
@@ -9499,14 +9603,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 147234,
-      "num": 147234,
-      "word": "GAI王斯然真夫妻的默契",
-      "onboard_time": 1671174929,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 147029,
       "num": 147029,
       "word": "梅西这么多年来的颜值变化",
@@ -9601,14 +9697,6 @@
       "onboard_time": 1671048313,
       "rank": 10,
       "category": "体育"
-    },
-    {
-      "raw_hot": 145399,
-      "num": 145399,
-      "word": "村民捡到第三块陨石碎片",
-      "onboard_time": 1671175049,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 145059,
@@ -9771,6 +9859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 139477,
+      "num": 139477,
+      "word": "黄宗泽欧阳震华催无限超越班开播",
+      "onboard_time": 1671178834,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 139355,
       "num": 139355,
       "word": "李艺彤文韬水下大片",
@@ -9923,6 +10019,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 134913,
+      "num": 134913,
+      "word": "世界杯决赛",
+      "onboard_time": 1671178766,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 134433,
       "num": 134433,
       "word": "孩子感染新冠持续高热怎么办",
@@ -10073,6 +10177,14 @@
       "onboard_time": 1670814132,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 131518,
+      "num": 131518,
+      "word": "TheShy续约WBG",
+      "onboard_time": 1671178834,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 131186,
@@ -10377,6 +10489,14 @@
       "onboard_time": 1670749695,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 123499,
+      "num": 123499,
+      "word": "TTG体验杭州亚运会足球项目",
+      "onboard_time": 1671178410,
+      "rank": 49,
+      "category": "游戏,体育"
     },
     {
       "raw_hot": 122803,
