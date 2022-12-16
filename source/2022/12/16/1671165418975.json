@@ -1,0 +1,410 @@
+{
+  "runTime": 1671165418975,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6722782,
+        "num": 6722782,
+        "word": "国考重启",
+        "onboard_time": 1671160589,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 2575026,
+        "num": 2575026,
+        "word": "爱奇艺VIP再涨价",
+        "onboard_time": 1671160951,
+        "rank": 1,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 139252,
+        "num": 1551163,
+        "word": "2022这些同框浪漫又硬核",
+        "onboard_time": 1671162336,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1340409,
+        "num": 1340409,
+        "word": "专家提醒千万别清洗陨石",
+        "onboard_time": 1671155909,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1061965,
+        "num": 1061965,
+        "word": "退烧止痛布洛芬和泰诺选哪个",
+        "onboard_time": 1671146661,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 864630,
+        "num": 864630,
+        "word": "父母阳性3岁半宝宝独自客厅生活",
+        "onboard_time": 1671159991,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 689209,
+        "num": 689209,
+        "word": "河南卫生健康系统将暂时取消节假日",
+        "onboard_time": 1671163171,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 671223,
+        "num": 671223,
+        "word": "布洛芬注册批文超500个为何一盒难求",
+        "onboard_time": 1671159748,
+        "rank": 7,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 571323,
+        "num": 571323,
+        "word": "身高185在山东算大高个吗",
+        "onboard_time": 1671160472,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 435688,
+        "num": 556455,
+        "word": "美国一架F35B垂直降落失控",
+        "onboard_time": 1671161252,
+        "rank": 9,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 552852,
+        "num": 552852,
+        "word": "无畏 点投降",
+        "onboard_time": 1671150332,
+        "rank": 10,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 551211,
+        "num": 551211,
+        "word": "周大福2万元钻戒当掉卖不了3千",
+        "onboard_time": 1671152852,
+        "rank": 11,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 518043,
+        "num": 518043,
+        "word": "省考",
+        "onboard_time": 1671163532,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 513573,
+        "num": 513573,
+        "word": "网友吃2颗布洛芬后发现已过期",
+        "onboard_time": 1671157106,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 455103,
+        "num": 455103,
+        "word": "法考",
+        "onboard_time": 1671162993,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 407824,
+        "num": 407824,
+        "word": "梅西缺席阿根廷队训练",
+        "onboard_time": 1671158730,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 406230,
+        "num": 406230,
+        "word": "感染新冠发病7天内可能出现这些症状",
+        "onboard_time": 1671151171,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 398866,
+        "num": 398866,
+        "word": "外卖员安慰阳性顾客不要哭多喝水",
+        "onboard_time": 1671160288,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 379796,
+        "num": 379796,
+        "word": "法国三名主力感染骆驼流感",
+        "onboard_time": 1671157889,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 353037,
+        "num": 353037,
+        "word": "出现什么症状要小心可能演变成重症",
+        "onboard_time": 1671146542,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 349338,
+        "num": 349338,
+        "word": "火球坠落浦江时3人路过万幸躲过",
+        "onboard_time": 1671162214,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321716,
+        "num": 321716,
+        "word": "宝娟嗓多久能恢复正常",
+        "onboard_time": 1671160232,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321686,
+        "num": 321686,
+        "word": "王心凌在KTV实现下班愿望",
+        "onboard_time": 1671162813,
+        "rank": 22,
+        "category": "音乐,体育"
+      },
+      {
+        "raw_hot": 295156,
+        "num": 295156,
+        "word": "水中毒",
+        "onboard_time": 1671158730,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293555,
+        "num": 293555,
+        "word": "感染一次奥密克戎就像打了一针疫苗",
+        "onboard_time": 1671159270,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283620,
+        "num": 283620,
+        "word": "IZONE年末限定合体",
+        "onboard_time": 1671161493,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 280273,
+        "num": 280273,
+        "word": "女生拒绝周末去公司打扫卫生被辞",
+        "onboard_time": 1671159151,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276268,
+        "num": 276268,
+        "word": "山东省考",
+        "onboard_time": 1671163413,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 271368,
+        "num": 271368,
+        "word": "婷美",
+        "onboard_time": 1671148707,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 267041,
+        "num": 267041,
+        "word": "田曦薇给我演恶女",
+        "onboard_time": 1671117816,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 249765,
+        "num": 249765,
+        "word": "男子遇人高烧3颗布洛芬送去2颗",
+        "onboard_time": 1671164672,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240830,
+        "num": 240830,
+        "word": "早阳早好的观点对不对",
+        "onboard_time": 1671159089,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238333,
+        "num": 238333,
+        "word": "宋亚轩我喜欢你单人直拍",
+        "onboard_time": 1671164314,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234337,
+        "num": 234337,
+        "word": "病了才知道免疫系统有多努力",
+        "onboard_time": 1671156631,
+        "rank": 33,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 230753,
+        "num": 230753,
+        "word": "萧玦",
+        "onboard_time": 1671159448,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 223503,
+        "num": 223503,
+        "word": "比起感染他们更怕养不起家",
+        "onboard_time": 1671164612,
+        "rank": 35,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 213044,
+        "num": 213044,
+        "word": "宝宝确诊新冠难受哭泣还安慰妈妈",
+        "onboard_time": 1671155909,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193896,
+        "num": 193896,
+        "word": "独居的人阳了之后有多难",
+        "onboard_time": 1671155547,
+        "rank": 37,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 185533,
+        "num": 185533,
+        "word": "赵丽颖王一博有翡开播二周年",
+        "onboard_time": 1671160892,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 25677,
+        "num": 185095,
+        "word": "当代年轻人看球新花样",
+        "onboard_time": 1671163231,
+        "rank": 39,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 185032,
+        "num": 185032,
+        "word": "00后小伙找不到工作睡树林",
+        "onboard_time": 1671163953,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183686,
+        "num": 183686,
+        "word": "白敬亭觉得尹峥格局很大",
+        "onboard_time": 1671164973,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 176998,
+        "num": 176998,
+        "word": "阿凡达2上映瞬间票房破亿",
+        "onboard_time": 1671155909,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 173234,
+        "num": 173234,
+        "word": "蔡徐坤世界杯音乐盛典今晚见",
+        "onboard_time": 1671164132,
+        "rank": 43,
+        "category": "音乐,体育"
+      },
+      {
+        "raw_hot": 170392,
+        "num": 170392,
+        "word": "FNC官宣Rekkles回归",
+        "onboard_time": 1671161975,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 170042,
+        "num": 170042,
+        "word": "张嘉倪何洛洛豪门姐弟",
+        "onboard_time": 1671118415,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 152986,
+        "num": 152986,
+        "word": "原来狗狗也会掩饰尴尬",
+        "onboard_time": 1671163772,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 150712,
+        "num": 150712,
+        "word": "一新冠患者因过量饮水导致水中毒",
+        "onboard_time": 1671116381,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146654,
+        "num": 146654,
+        "word": "成毅张凌赫陈哲远GQ内场生图",
+        "onboard_time": 1671164192,
+        "rank": 48,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 131801,
+        "num": 131801,
+        "word": "华语音乐打歌中心全明星阵容",
+        "onboard_time": 1671163413,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#建设开放型世界经济#"
+    }
+  }
+}
