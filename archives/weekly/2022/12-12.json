@@ -1,6 +1,6 @@
 {
   "startTime": 1670775913271,
-  "endTime": 1671219196551,
+  "endTime": 1671221926666,
   "band_list": [
     {
       "raw_hot": 7857110,
@@ -12675,6 +12675,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 29248,
+      "num": 29248,
+      "word": "雅鲁藏布江现巨大鲫鱼状沙滩",
+      "onboard_time": 1671216734,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27806,
       "num": 171192,
       "word": "忘情一刻",
@@ -12689,14 +12697,6 @@
       "onboard_time": 1671166832,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 27056,
-      "num": 27056,
-      "word": "雅鲁藏布江现巨大鲫鱼状沙滩",
-      "onboard_time": 1671216734,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 25831,
@@ -12736,6 +12736,14 @@
       "word": "赵丽颖谈许半夏发型变化",
       "onboard_time": 1671043575,
       "rank": 46,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 17796,
+      "num": 20935,
+      "word": "阿凡达2的水世界有多壮观",
+      "onboard_time": 1671220272,
+      "rank": 43,
       "category": "影视"
     },
     {
