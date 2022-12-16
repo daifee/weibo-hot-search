@@ -1,6 +1,6 @@
 {
   "startTime": 1671207916313,
-  "endTime": 1671232678981,
+  "endTime": 1671233627312,
   "band_list": [
     {
       "raw_hot": 1808400,
@@ -75,8 +75,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 443691,
-      "num": 443691,
+      "raw_hot": 485181,
+      "num": 485181,
+      "word": "张伯礼提醒警惕奥密克戎不断变异",
+      "onboard_time": 1671229574,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 457456,
+      "num": 457456,
       "word": "专家称阳性后浑身疼的男性居多",
       "onboard_time": 1671209004,
       "rank": 10,
@@ -107,14 +115,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 320958,
-      "num": 320958,
-      "word": "张伯礼提醒警惕奥密克戎不断变异",
-      "onboard_time": 1671229574,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 303370,
       "num": 303370,
       "word": "妈妈熬汤呈绿色阳性娃吓得不敢喝",
@@ -139,12 +139,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 268208,
+      "num": 170050,
+      "word": "那些发烧时不适合做的事",
+      "onboard_time": 1671232516,
+      "rank": 20,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 257205,
       "num": 257205,
       "word": "男孩考99分崩溃控诉父母",
       "onboard_time": 1671195154,
       "rank": 14,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 240843,
+      "num": 240843,
+      "word": "C罗前往迪拜",
+      "onboard_time": 1671211458,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 234268,
+      "num": 234268,
+      "word": "当男朋友得知我阳了的反应",
+      "onboard_time": 1671198271,
+      "rank": 18,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 229240,
@@ -211,14 +235,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 204003,
-      "num": 204003,
-      "word": "当男朋友得知我阳了的反应",
-      "onboard_time": 1671198271,
-      "rank": 18,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 198946,
       "num": 162369,
       "word": "aespa2022第一个年末舞台",
@@ -259,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 184689,
+      "num": 77493,
+      "word": "感染新冠为何浑身疼",
+      "onboard_time": 1671232938,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173526,
       "num": 173526,
       "word": "骗子诈骗1250万买彩票中1450万",
@@ -291,6 +315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 168159,
+      "num": 168159,
+      "word": "你会鼓励你的孩子生娃吗",
+      "onboard_time": 1671232037,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 165567,
       "num": 165567,
       "word": "小智故事最终章",
@@ -307,16 +339,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 159537,
-      "num": 159537,
-      "word": "C罗前往迪拜",
-      "onboard_time": 1671211458,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 155747,
-      "num": 138284,
+      "num": 154898,
       "word": "转阴后仍有症状怎么办",
       "onboard_time": 1671226813,
       "rank": 32,
@@ -355,6 +379,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 142542,
+      "num": 142542,
+      "word": "为什么身边没有无症状感染者",
+      "onboard_time": 1671233117,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140630,
       "num": 136127,
       "word": "网曝大连一医院不收阳性患者",
@@ -388,7 +420,7 @@
     },
     {
       "raw_hot": 121583,
-      "num": 92993,
+      "num": 109585,
       "word": "张嘉倪羽毛抹胸裙造型",
       "onboard_time": 1671194434,
       "rank": 33,
@@ -401,6 +433,14 @@
       "onboard_time": 1671202775,
       "rank": 41,
       "category": "美食"
+    },
+    {
+      "raw_hot": 115785,
+      "num": 115785,
+      "word": "阿凡达2的水世界有多壮观",
+      "onboard_time": 1671220272,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 111887,
@@ -443,12 +483,12 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 103015,
-      "num": 103015,
-      "word": "阿凡达2的水世界有多壮观",
-      "onboard_time": 1671220272,
-      "rank": 43,
-      "category": "影视"
+      "raw_hot": 95585,
+      "num": 95585,
+      "word": "雅鲁藏布江现巨大鲫鱼状沙滩",
+      "onboard_time": 1671216734,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 92564,
@@ -475,32 +515,16 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 82020,
-      "num": 82020,
-      "word": "那些发烧时不适合做的事",
-      "onboard_time": 1671232516,
-      "rank": 20,
-      "category": "社会新闻,幽默"
+      "raw_hot": 88170,
+      "num": 88170,
+      "word": "梅西阿根廷球衣全球售罄",
+      "onboard_time": 1671231917,
+      "rank": 45,
+      "category": "体育"
     },
     {
-      "raw_hot": 80255,
-      "num": 80255,
-      "word": "你会鼓励你的孩子生娃吗",
-      "onboard_time": 1671232037,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 68409,
-      "num": 68409,
-      "word": "雅鲁藏布江现巨大鲫鱼状沙滩",
-      "onboard_time": 1671216734,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 65333,
-      "num": 65333,
+      "raw_hot": 79493,
+      "num": 79493,
       "word": "众人屋前烤火地面突然爆炸",
       "onboard_time": 1671228672,
       "rank": 48,
@@ -515,11 +539,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 53879,
-      "num": 53879,
+      "raw_hot": 61141,
+      "num": 61141,
       "word": "梅晓歌乔麦短暂结束异地恋",
       "onboard_time": 1671230475,
       "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 55533,
+      "num": 55533,
+      "word": "梅晓歌乔麦小别胜新婚",
+      "onboard_time": 1671200316,
+      "rank": 41,
       "category": "影视"
     },
     {
@@ -531,20 +563,12 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 44265,
-      "num": 40046,
+      "raw_hot": 46578,
+      "num": 46578,
       "word": "庞博是懂爱情的",
       "onboard_time": 1671195752,
       "rank": 41,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 38160,
-      "num": 38160,
-      "word": "梅西阿根廷球衣全球售罄",
-      "onboard_time": 1671231917,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 37157,
