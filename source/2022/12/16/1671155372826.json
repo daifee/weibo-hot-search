@@ -1,0 +1,410 @@
+{
+  "runTime": 1671155372826,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2112448,
+        "num": 2112448,
+        "word": "退烧止痛布洛芬和泰诺选哪个",
+        "onboard_time": 1671146661,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1556447,
+        "num": 1556447,
+        "word": "无畏 点投降",
+        "onboard_time": 1671150332,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 163818,
+        "num": 1435048,
+        "word": "疫情防控期9个倡议",
+        "onboard_time": 1671109116,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1370754,
+        "num": 1370754,
+        "word": "周大福2万元钻戒当掉卖不了3千",
+        "onboard_time": 1671152852,
+        "rank": 3,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 1020366,
+        "num": 1020366,
+        "word": "感染新冠发病7天内可能出现这些症状",
+        "onboard_time": 1671151171,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 880446,
+        "num": 880446,
+        "word": "婷美",
+        "onboard_time": 1671148707,
+        "rank": 5,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 797064,
+        "num": 797064,
+        "word": "出现什么症状要小心可能演变成重症",
+        "onboard_time": 1671146542,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 605418,
+        "num": 605418,
+        "word": "男子阳性后摆烂妻子被传染秒重视",
+        "onboard_time": 1671109719,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 526529,
+        "num": 526529,
+        "word": "一新冠患者因过量饮水导致水中毒",
+        "onboard_time": 1671116381,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 521189,
+        "num": 521189,
+        "word": "你是还没阳过的天选打工人吗",
+        "onboard_time": 1671152792,
+        "rank": 9,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 461230,
+        "num": 461230,
+        "word": "钟南山说无症状感染者基本无新冠后遗症",
+        "onboard_time": 1671149005,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 435125,
+        "num": 435125,
+        "word": "小沈阳新冠后变敏阳阳",
+        "onboard_time": 1671118355,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 410710,
+        "num": 410710,
+        "word": "田曦薇给我演恶女",
+        "onboard_time": 1671117816,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 407900,
+        "num": 407900,
+        "word": "张凌赫差点被红毯绊倒",
+        "onboard_time": 1671150090,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 377734,
+        "num": 377734,
+        "word": "阳了之后反复发烧怎么办",
+        "onboard_time": 1671148888,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 376495,
+        "num": 376495,
+        "word": "张嘉倪何洛洛豪门姐弟",
+        "onboard_time": 1671118415,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 353870,
+        "num": 353870,
+        "word": "护士难受站不稳强撑在工作台配药",
+        "onboard_time": 1671153630,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 319364,
+        "num": 319364,
+        "word": "EXO七人舞台合照",
+        "onboard_time": 1671150208,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 315038,
+        "num": 315038,
+        "word": "大高个舅舅进门看懵宝宝",
+        "onboard_time": 1671146723,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304140,
+        "num": 304140,
+        "word": "手机里出现这些APP立刻删除",
+        "onboard_time": 1671109597,
+        "rank": 19,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 319042,
+        "num": 297453,
+        "word": "梅西点赞邓紫棋微博",
+        "onboard_time": 1671115419,
+        "rank": 20,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 274276,
+        "num": 274276,
+        "word": "王一博口罩上印着无名",
+        "onboard_time": 1671119852,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 266923,
+        "num": 266923,
+        "word": "曝葡萄牙主帅即将离任",
+        "onboard_time": 1671151713,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 257450,
+        "num": 257450,
+        "word": "10岁弟弟瞒着妈妈偷塞姐姐500元",
+        "onboard_time": 1671147324,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246800,
+        "num": 246800,
+        "word": "酷云认证赵丽颖风吹半夏双卫视年冠",
+        "onboard_time": 1671154348,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 242402,
+        "num": 242402,
+        "word": "经常烂嘴角可能是免疫力差",
+        "onboard_time": 1671152009,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239310,
+        "num": 239310,
+        "word": "女子网购鲨鱼裤发现里面有条内裤",
+        "onboard_time": 1671118772,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238211,
+        "num": 238211,
+        "word": "黄河的源头是巴掌大的小泉眼",
+        "onboard_time": 1671147566,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231657,
+        "num": 231657,
+        "word": "波兰主裁判将执法世界杯决赛",
+        "onboard_time": 1671151292,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 218731,
+        "num": 218731,
+        "word": "阳过后多久可以返岗",
+        "onboard_time": 1671119312,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233283,
+        "num": 218543,
+        "word": "关晓彤 驯服高跟鞋中",
+        "onboard_time": 1671119611,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 224690,
+        "num": 216862,
+        "word": "被张若昀GQ红毯拽到",
+        "onboard_time": 1671123921,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 204150,
+        "num": 204150,
+        "word": "倪虹洁好辣",
+        "onboard_time": 1671140411,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 192339,
+        "num": 192339,
+        "word": "北方疫情持续时间预计长于南方",
+        "onboard_time": 1671137952,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187249,
+        "num": 187249,
+        "word": "公交司机贴退烧贴吓坏乘客",
+        "onboard_time": 1671116979,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175852,
+        "num": 175852,
+        "word": "女子确诊新冠后又碰上药物过敏",
+        "onboard_time": 1671117518,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174497,
+        "num": 174497,
+        "word": "美国驻华使馆暂停所有常规签证服务",
+        "onboard_time": 1671121947,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172941,
+        "num": 172941,
+        "word": "2人网购抗原试剂被骗4.3万",
+        "onboard_time": 1671146661,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172517,
+        "num": 172517,
+        "word": "马思纯杀回来了",
+        "onboard_time": 1671111096,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 171808,
+        "num": 171808,
+        "word": "阿根廷更衣室扔对手球衣",
+        "onboard_time": 1671110675,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159038,
+        "num": 159038,
+        "word": "女子离婚净身出户带孩子住毛坯房",
+        "onboard_time": 1671111636,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157991,
+        "num": 157991,
+        "word": "快递员正努力将包裹送到你手中",
+        "onboard_time": 1671147684,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156130,
+        "num": 156130,
+        "word": "克罗地亚总统暗示阿根廷赢在裁判",
+        "onboard_time": 1671108636,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146014,
+        "num": 146014,
+        "word": "余承恩叫李现老大梦回亲爱的热爱的",
+        "onboard_time": 1671141314,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 145878,
+        "num": 145878,
+        "word": "成都的围炉煮茶有多火",
+        "onboard_time": 1671154770,
+        "rank": 44,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 132235,
+        "num": 132235,
+        "word": "GQ睡衣趴",
+        "onboard_time": 1671103776,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 126477,
+        "num": 126477,
+        "word": "你感染新冠了吗",
+        "onboard_time": 1671148346,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124721,
+        "num": 124721,
+        "word": "宝妈带俩娃开10小时高速见异地丈夫",
+        "onboard_time": 1671154590,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122991,
+        "num": 122991,
+        "word": "市民拍下天降火球划过西湖瞬间",
+        "onboard_time": 1671146661,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120512,
+        "num": 120512,
+        "word": "腿姐阳了",
+        "onboard_time": 1671112419,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚定不移走好高质量发展之路#"
+    }
+  }
+}
