@@ -1,6 +1,6 @@
 {
   "startTime": 1671121651972,
-  "endTime": 1671172622354,
+  "endTime": 1671174950983,
   "band_list": [
     {
       "raw_hot": 7857110,
@@ -27,6 +27,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2269319,
+      "num": 2269319,
+      "word": "孕妈阳性第2天感受不到胎动",
+      "onboard_time": 1671170606,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2153175,
       "num": 2153175,
       "word": "感染者尽量不要接触冰箱",
@@ -49,14 +57,6 @@
       "onboard_time": 1671150332,
       "rank": 1,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 1524296,
-      "num": 1524296,
-      "word": "孕妈阳性第2天感受不到胎动",
-      "onboard_time": 1671170606,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1370754,
@@ -291,6 +291,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 556903,
+      "num": 556903,
+      "word": "原来财阀家的小儿子车祸戏是这么拍的",
+      "onboard_time": 1671172410,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 556557,
+      "num": 556557,
+      "word": "网购连花清瘟收到感冒灵",
+      "onboard_time": 1671170126,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 554541,
       "num": 554541,
       "word": "水中毒",
@@ -371,6 +387,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 502646,
+      "num": 419246,
+      "word": "上海有人大量购买抗原加价50%出售",
+      "onboard_time": 1671169949,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 489665,
       "num": 280250,
       "word": "倪虹洁睡衣",
@@ -392,14 +416,6 @@
       "word": "大高个舅舅进门看懵宝宝",
       "onboard_time": 1671146723,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 419246,
-      "num": 419246,
-      "word": "上海有人大量购买抗原加价50%出售",
-      "onboard_time": 1671169949,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -467,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 388505,
+      "num": 388505,
+      "word": "墨西哥球迷向梅西道歉",
+      "onboard_time": 1671171150,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 377461,
       "num": 377461,
       "word": "手机里出现这些APP立刻删除",
@@ -499,6 +523,14 @@
       "category": "音乐,体育"
     },
     {
+      "raw_hot": 363994,
+      "num": 363994,
+      "word": "Hero发布无畏处罚公告",
+      "onboard_time": 1671171270,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 357413,
       "num": 357413,
       "word": "火球坠落浦江时3人路过万幸躲过",
@@ -513,14 +545,6 @@
       "onboard_time": 1671159567,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 356080,
-      "num": 356080,
-      "word": "网购连花清瘟收到感冒灵",
-      "onboard_time": 1671170126,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 354613,
@@ -579,14 +603,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 325482,
-      "num": 325482,
-      "word": "Hero发布无畏处罚公告",
-      "onboard_time": 1671171270,
-      "rank": 25,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 321716,
       "num": 321716,
       "word": "宝娟嗓多久能恢复正常",
@@ -609,6 +625,14 @@
       "onboard_time": 1671102454,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 309020,
+      "num": 309020,
+      "word": "菜鸟调津冀黔渝川五地快递员紧急入京",
+      "onboard_time": 1671170250,
+      "rank": 29,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 306472,
@@ -675,14 +699,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 290958,
-      "num": 290958,
-      "word": "墨西哥球迷向梅西道歉",
-      "onboard_time": 1671171150,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 289884,
       "num": 289884,
       "word": "IZONE年末限定合体",
@@ -745,14 +761,6 @@
       "onboard_time": 1671154770,
       "rank": 44,
       "category": "美食,社会新闻"
-    },
-    {
-      "raw_hot": 268281,
-      "num": 268281,
-      "word": "原来财阀家的小儿子车祸戏是这么拍的",
-      "onboard_time": 1671172410,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 267187,
@@ -859,6 +867,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 242865,
+      "num": 242865,
+      "word": "成毅演我走台步",
+      "onboard_time": 1671173967,
+      "rank": 21,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 242092,
       "num": 134287,
       "word": "陆虎一口东北饭包都不给张远",
@@ -955,12 +971,28 @@
       "category": "自然,社会新闻"
     },
     {
+      "raw_hot": 221403,
+      "num": 221403,
+      "word": "药店高价卖布洛芬被举报店员频说谎",
+      "onboard_time": 1671173488,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 216102,
       "num": 216102,
       "word": "猫咪对狗狗的威慑能有多大",
       "onboard_time": 1671168212,
       "rank": 48,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 211121,
+      "num": 211121,
+      "word": "何炅所说的钝感力",
+      "onboard_time": 1671173669,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 205967,
@@ -987,14 +1019,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 199139,
-      "num": 228343,
-      "word": "菜鸟调津冀黔渝川五地快递员紧急入京",
-      "onboard_time": 1671170250,
-      "rank": 29,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 196528,
       "num": 196528,
       "word": "独居的人阳了之后有多难",
@@ -1009,6 +1033,22 @@
       "onboard_time": 1671147684,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 190119,
+      "num": 190119,
+      "word": "杨迪牙齿粘辣椒皮被认为是造型",
+      "onboard_time": 1671174268,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 188915,
+      "num": 188915,
+      "word": "王鹤棣白鹿获GQ年度青年演员",
+      "onboard_time": 1671173848,
+      "rank": 31,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 188106,
@@ -1027,6 +1067,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 186146,
+      "num": 186146,
+      "word": "国考报考者可重新选择考试地点",
+      "onboard_time": 1671172768,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
       "raw_hot": 185919,
       "num": 185919,
       "word": "你感染新冠了吗",
@@ -1043,6 +1091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 184114,
+      "num": 184114,
+      "word": "阿根廷将穿主场球衣参加决赛",
+      "onboard_time": 1671171749,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 181224,
       "num": 181224,
       "word": "美国白宫将重启免费新冠居家检测",
@@ -1057,6 +1113,14 @@
       "onboard_time": 1671157106,
       "rank": 29,
       "category": "科技,财经"
+    },
+    {
+      "raw_hot": 177736,
+      "num": 177736,
+      "word": "王栎鑫帮林墨放唱片温馨又搞笑",
+      "onboard_time": 1671173606,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 175262,
@@ -1131,12 +1195,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 169839,
+      "num": 169839,
+      "word": "徐璐月歌行仙侠造型",
+      "onboard_time": 1671171029,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 169536,
       "num": 169536,
       "word": "专家呼吁捐赠陨石样品用于科研",
       "onboard_time": 1671161434,
       "rank": 42,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 168271,
+      "num": 168271,
+      "word": "梁洁说今晚上班",
+      "onboard_time": 1671174569,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 167087,
@@ -1155,6 +1235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 164476,
+      "num": 176737,
+      "word": "豪华纯电选国产还是外资",
+      "onboard_time": 1671174388,
+      "rank": 36,
+      "category": "科技"
+    },
+    {
       "raw_hot": 164212,
       "num": 164212,
       "word": "王楚然获胜靠的是走心",
@@ -1169,14 +1257,6 @@
       "onboard_time": 1671167015,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 159592,
-      "num": 159592,
-      "word": "阿根廷将穿主场球衣参加决赛",
-      "onboard_time": 1671171749,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 158242,
@@ -1275,12 +1355,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 146770,
+      "num": 146770,
+      "word": "GAI王斯然真夫妻的默契",
+      "onboard_time": 1671174929,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 146014,
       "num": 146014,
       "word": "余承恩叫李现老大梦回亲爱的热爱的",
       "onboard_time": 1671141314,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 145341,
+      "num": 145341,
+      "word": "张若昀走红毯好像在憋气",
+      "onboard_time": 1671174749,
+      "rank": 48,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 142695,
@@ -1377,14 +1473,6 @@
       "onboard_time": 1671169052,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 131383,
-      "num": 131383,
-      "word": "徐璐月歌行仙侠造型",
-      "onboard_time": 1671171029,
-      "rank": 43,
-      "category": "影视"
     },
     {
       "raw_hot": 131065,
@@ -1523,6 +1611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 47294,
+      "num": 318240,
+      "word": "手机做出了玉质感",
+      "onboard_time": 1671174030,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30243,
       "num": 28853,
       "word": "何广智是GQ红毯孤勇者吧",
@@ -1553,6 +1649,14 @@
       "onboard_time": 1671132073,
       "rank": 37,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 12875,
+      "num": 171192,
+      "word": "忘情一刻",
+      "onboard_time": 1671174030,
+      "rank": 39,
+      "category": "情感"
     }
   ],
   "hotgov_list": [
