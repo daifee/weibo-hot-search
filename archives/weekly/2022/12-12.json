@@ -1,6 +1,6 @@
 {
   "startTime": 1670775913271,
-  "endTime": 1671200162006,
+  "endTime": 1671201189224,
   "band_list": [
     {
       "raw_hot": 7857110,
@@ -1468,7 +1468,7 @@
     },
     {
       "raw_hot": 979426,
-      "num": 459809,
+      "num": 531365,
       "word": "aespa 妆造",
       "onboard_time": 1671198754,
       "rank": 10,
@@ -2171,6 +2171,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 748716,
+      "num": 748716,
+      "word": "宁艺卓 杀疯了",
+      "onboard_time": 1671200795,
+      "rank": 7,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 746045,
       "num": 736680,
       "word": "明星们一定要这样带货吗",
@@ -2216,6 +2224,14 @@
       "word": "75元抗原卖200多被罚20万",
       "onboard_time": 1670850737,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 735902,
+      "num": 735902,
+      "word": "多款确诊即赔新冠险下架",
+      "onboard_time": 1671197553,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -3379,14 +3395,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 532527,
-      "num": 439099,
-      "word": "多款确诊即赔新冠险下架",
-      "onboard_time": 1671197553,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 531999,
       "num": 531999,
       "word": "流浪地球2起航之前预告",
@@ -4203,6 +4211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 433418,
+      "num": 433418,
+      "word": "柳智敏 镜头",
+      "onboard_time": 1671199355,
+      "rank": 13,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 430410,
       "num": 430410,
       "word": "Uzi遗憾总是贯彻人生",
@@ -4225,14 +4241,6 @@
       "onboard_time": 1671077793,
       "rank": 19,
       "category": "影视"
-    },
-    {
-      "raw_hot": 427567,
-      "num": 427567,
-      "word": "柳智敏 镜头",
-      "onboard_time": 1671199355,
-      "rank": 13,
-      "category": "音乐"
     },
     {
       "raw_hot": 425909,
@@ -4561,6 +4569,14 @@
       "onboard_time": 1671189931,
       "rank": 47,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 401271,
+      "num": 401271,
+      "word": "这是北京街头外卖员的身影",
+      "onboard_time": 1671198573,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 401026,
@@ -4987,6 +5003,14 @@
       "category": "音乐,体育"
     },
     {
+      "raw_hot": 364666,
+      "num": 316343,
+      "word": "gidle 造型",
+      "onboard_time": 1671200915,
+      "rank": 20,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 364656,
       "num": 364656,
       "word": "光与夜之恋",
@@ -5073,6 +5097,14 @@
       "onboard_time": 1671033925,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 359625,
+      "num": 265169,
+      "word": "吕严土豆",
+      "onboard_time": 1671199715,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 358925,
@@ -5683,6 +5715,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 317437,
+      "num": 317437,
+      "word": "连续三天抗原阴性可认为不具备传染性",
+      "onboard_time": 1671200014,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 317426,
       "num": 317426,
       "word": "呼和浩特4.1级地震",
@@ -5785,14 +5825,6 @@
       "onboard_time": 1671004822,
       "rank": 22,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 310742,
-      "num": 205891,
-      "word": "吕严土豆",
-      "onboard_time": 1671199715,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 310169,
@@ -6627,14 +6659,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 265894,
-      "num": 265894,
-      "word": "这是北京街头外卖员的身影",
-      "onboard_time": 1671198573,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 264517,
       "num": 264517,
       "word": "INTO1朝阳打歌中心清唱天生就要飞",
@@ -6705,6 +6729,14 @@
       "onboard_time": 1671021737,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 261937,
+      "num": 261937,
+      "word": "当男朋友得知我阳了的反应",
+      "onboard_time": 1671198271,
+      "rank": 27,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 261188,
@@ -6929,6 +6961,14 @@
       "onboard_time": 1671094412,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 251555,
+      "num": 251555,
+      "word": "我终于会扎丸子头了",
+      "onboard_time": 1671198635,
+      "rank": 29,
+      "category": "美妆"
     },
     {
       "raw_hot": 251548,
@@ -7339,6 +7379,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 237964,
+      "num": 237964,
+      "word": "EDGM 鸡毛",
+      "onboard_time": 1671199355,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 237776,
       "num": 224358,
       "word": "吴宣仪GQ红毯表现",
@@ -7409,6 +7457,14 @@
       "onboard_time": 1670835435,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 235475,
+      "num": 235475,
+      "word": "小狗也拒绝不了小奶猫的贴贴",
+      "onboard_time": 1671199175,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 235334,
@@ -7595,14 +7651,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 227750,
-      "num": 227750,
-      "word": "当男朋友得知我阳了的反应",
-      "onboard_time": 1671198271,
-      "rank": 27,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 227435,
       "num": 227435,
       "word": "王鹤棣对视歪头杀",
@@ -7697,6 +7745,14 @@
       "onboard_time": 1671024274,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 224103,
+      "num": 224103,
+      "word": "女子退烧后发现银手镯变黑了",
+      "onboard_time": 1671200735,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 224058,
@@ -8145,14 +8201,6 @@
       "onboard_time": 1671187228,
       "rank": 40,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 208188,
-      "num": 208188,
-      "word": "我终于会扎丸子头了",
-      "onboard_time": 1671198635,
-      "rank": 29,
-      "category": "美妆"
     },
     {
       "raw_hot": 207856,
@@ -9179,14 +9227,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 178599,
-      "num": 178599,
-      "word": "EDGM 鸡毛",
-      "onboard_time": 1671199355,
-      "rank": 37,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 178312,
       "num": 178312,
       "word": "如何让宠物在冬季有效保暖",
@@ -9955,14 +9995,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 161963,
-      "num": 178286,
-      "word": "小狗也拒绝不了小奶猫的贴贴",
-      "onboard_time": 1671199175,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 161525,
       "num": 178234,
       "word": "eStar锁定世冠四强",
@@ -9988,7 +10020,7 @@
     },
     {
       "raw_hot": 160143,
-      "num": 178539,
+      "num": 193690,
       "word": "谁是元宇宙扣篮第一人",
       "onboard_time": 1671190350,
       "rank": 37,
@@ -10185,6 +10217,14 @@
       "onboard_time": 1671059840,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 153715,
+      "num": 153715,
+      "word": "你担心别人知道你阳过吗",
+      "onboard_time": 1671200435,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 153404,
@@ -10667,6 +10707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 141621,
+      "num": 141621,
+      "word": "专家呼吁建立心理应急服务体系",
+      "onboard_time": 1671200435,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 141384,
       "num": 622285,
       "word": "双子座流星雨有多美",
@@ -10713,14 +10761,6 @@
       "onboard_time": 1671188250,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 140170,
-      "num": 178120,
-      "word": "连续三天抗原阴性可认为不具备传染性",
-      "onboard_time": 1671200014,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 140085,
