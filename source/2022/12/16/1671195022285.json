@@ -1,0 +1,410 @@
+{
+  "runTime": 1671195022285,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2073566,
+        "num": 2073566,
+        "word": "女子发烧敷20分钟面膜揭下变3D立体",
+        "onboard_time": 1671188851,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1429512,
+        "num": 1429512,
+        "word": "东北制药",
+        "onboard_time": 1671176549,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116520,
+        "num": 1190973,
+        "word": "加强两节返乡人员的医疗保障",
+        "onboard_time": 1671181769,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1117448,
+        "num": 1117448,
+        "word": "布洛芬和对乙酰氨基酚有什么区别",
+        "onboard_time": 1671188731,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1032954,
+        "num": 1032954,
+        "word": "沈小婷Wadada开场solo",
+        "onboard_time": 1671193651,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 704092,
+        "num": 704092,
+        "word": "陈飞宇张婧仪版Fallingyou",
+        "onboard_time": 1671183387,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 605498,
+        "num": 605498,
+        "word": "candy",
+        "onboard_time": 1671183930,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 592225,
+        "num": 592225,
+        "word": "北京考研生19日开始健康打卡",
+        "onboard_time": 1671189811,
+        "rank": 7,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 560183,
+        "num": 560183,
+        "word": "男孩阳了给同学发消息让吃席",
+        "onboard_time": 1671177389,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 550465,
+        "num": 550465,
+        "word": "网曝大连一医院不收阳性患者",
+        "onboard_time": 1671191552,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 539232,
+        "num": 539232,
+        "word": "骗子诈骗1250万买彩票中1450万",
+        "onboard_time": 1671183270,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 523697,
+        "num": 523697,
+        "word": "小智故事最终章",
+        "onboard_time": 1671190530,
+        "rank": 11,
+        "category": "游戏,动漫"
+      },
+      {
+        "raw_hot": 511071,
+        "num": 511071,
+        "word": "印度一校长欲猥亵女生被数十名同学拿棍棒围殴",
+        "onboard_time": 1671187109,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 437978,
+        "num": 437978,
+        "word": "新冠对精神健康影响或超十年",
+        "onboard_time": 1671179849,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 426436,
+        "num": 426436,
+        "word": "点燃我温暖你",
+        "onboard_time": 1671190413,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 401405,
+        "num": 401405,
+        "word": "体彩部门回应男子花12万买彩票想退钱",
+        "onboard_time": 1671189931,
+        "rank": 15,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 362089,
+        "num": 362089,
+        "word": "张元英白色薄纱蝴蝶结长裙造型",
+        "onboard_time": 1671189510,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 349920,
+        "num": 349920,
+        "word": "世界杯决赛",
+        "onboard_time": 1671178766,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 346792,
+        "num": 346792,
+        "word": "成都一诊所抗原卖40元一支",
+        "onboard_time": 1671182971,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343079,
+        "num": 343079,
+        "word": "王冰冰说年轻人嘴上佛实际却很拼",
+        "onboard_time": 1671193472,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 300413,
+        "num": 300413,
+        "word": "感染者尽量不要接触冰箱",
+        "onboard_time": 1671166051,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292034,
+        "num": 292034,
+        "word": "王心凌再唱第一次爱的人",
+        "onboard_time": 1671194731,
+        "rank": 21,
+        "category": "音乐,体育"
+      },
+      {
+        "raw_hot": 275951,
+        "num": 275951,
+        "word": "ive 美",
+        "onboard_time": 1671189392,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 259909,
+        "num": 259909,
+        "word": "药企回应扑热息痛2元20片不涨价",
+        "onboard_time": 1671183633,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262638,
+        "num": 258698,
+        "word": "KBS直播",
+        "onboard_time": 1671192933,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 250785,
+        "num": 250785,
+        "word": "研究揭示马桶不盖盖后果多严重",
+        "onboard_time": 1671181351,
+        "rank": 25,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 250216,
+        "num": 250216,
+        "word": "宝可梦",
+        "onboard_time": 1671190890,
+        "rank": 26,
+        "category": "游戏,动漫"
+      },
+      {
+        "raw_hot": 230203,
+        "num": 230203,
+        "word": "男子纵火烧死妻子案一审宣判死刑",
+        "onboard_time": 1671183209,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227696,
+        "num": 227696,
+        "word": "法国总统说更喜欢在巴黎的梅西",
+        "onboard_time": 1671186867,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 210052,
+        "num": 210052,
+        "word": "盐蒸橙子",
+        "onboard_time": 1671178348,
+        "rank": 29,
+        "category": "美食,情感"
+      },
+      {
+        "raw_hot": 367162,
+        "num": 209731,
+        "word": "韩红确诊感染新冠",
+        "onboard_time": 1671185309,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253098,
+        "num": 209166,
+        "word": "时光音乐会",
+        "onboard_time": 1671194731,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236390,
+        "num": 208961,
+        "word": "朱志鑫上网课",
+        "onboard_time": 1671191311,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233714,
+        "num": 208249,
+        "word": "KBS",
+        "onboard_time": 1671176309,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 208026,
+        "num": 208026,
+        "word": "eStar对战EDGM",
+        "onboard_time": 1671190950,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 200214,
+        "num": 200214,
+        "word": "杭州所有医疗机构门急诊取消核验48小时核酸证明",
+        "onboard_time": 1671193894,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198655,
+        "num": 198655,
+        "word": "杭州第五十八次疫情发布会",
+        "onboard_time": 1671190472,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172444,
+        "num": 172444,
+        "word": "中央经济工作会议举行",
+        "onboard_time": 1671192394,
+        "rank": 37,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 170476,
+        "num": 170476,
+        "word": "东北制药回应退烧药一板只卖2元",
+        "onboard_time": 1671179490,
+        "rank": 38,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 162378,
+        "num": 162378,
+        "word": "北京海淀倡议居民加入骑手行列",
+        "onboard_time": 1671175948,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224058,
+        "num": 162258,
+        "word": "王一博GQ黑白大片",
+        "onboard_time": 1671194615,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 225835,
+        "num": 161045,
+        "word": "马嘉祺希望大家能捂着耳朵生活",
+        "onboard_time": 1671190890,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 152602,
+        "num": 152602,
+        "word": "专家判断这块陨石来自46亿年前",
+        "onboard_time": 1671179971,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128037,
+        "num": 152590,
+        "word": "帅到像AI是种什么体验",
+        "onboard_time": 1671177990,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 121754,
+        "num": 152579,
+        "word": "第一次去女朋友家就被镇住了",
+        "onboard_time": 1671183387,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 119056,
+        "num": 152578,
+        "word": "妈妈熬汤呈绿色阳性娃吓得不敢喝",
+        "onboard_time": 1671194731,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117095,
+        "num": 152560,
+        "word": "核酸阳性第几天会转阴",
+        "onboard_time": 1671167613,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216876,
+        "num": 152553,
+        "word": "成毅说入梦时",
+        "onboard_time": 1671194973,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 101610,
+        "num": 152538,
+        "word": "布斯克茨退出西班牙国家队",
+        "onboard_time": 1671194615,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98037,
+        "num": 152521,
+        "word": "小伙带丈母娘在巴黎卖刀削面",
+        "onboard_time": 1671194790,
+        "rank": 49,
+        "category": "社会新闻,美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#一带一路是大家携手前进的阳光大道#"
+    }
+  }
+}

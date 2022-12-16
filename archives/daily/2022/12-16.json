@@ -1,6 +1,6 @@
 {
   "startTime": 1671121651972,
-  "endTime": 1671193950974,
+  "endTime": 1671195022285,
   "band_list": [
     {
       "raw_hot": 7857110,
@@ -161,6 +161,14 @@
       "onboard_time": 1671109719,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1032954,
+      "num": 1032954,
+      "word": "沈小婷Wadada开场solo",
+      "onboard_time": 1671193651,
+      "rank": 18,
+      "category": "音乐"
     },
     {
       "raw_hot": 1020366,
@@ -443,20 +451,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 592225,
+      "num": 592225,
+      "word": "北京考研生19日开始健康打卡",
+      "onboard_time": 1671189811,
+      "rank": 46,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 590304,
       "num": 461230,
       "word": "钟南山说无症状感染者基本无新冠后遗症",
       "onboard_time": 1671149005,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 586754,
-      "num": 586754,
-      "word": "北京考研生19日开始健康打卡",
-      "onboard_time": 1671189811,
-      "rank": 46,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 583522,
@@ -497,6 +505,14 @@
       "onboard_time": 1671115419,
       "rank": 7,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 550465,
+      "num": 550465,
+      "word": "网曝大连一医院不收阳性患者",
+      "onboard_time": 1671191552,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 550209,
@@ -563,6 +579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 523697,
+      "num": 523697,
+      "word": "小智故事最终章",
+      "onboard_time": 1671190530,
+      "rank": 12,
+      "category": "游戏,动漫"
+    },
+    {
       "raw_hot": 521189,
       "num": 521189,
       "word": "你是还没阳过的天选打工人吗",
@@ -593,22 +617,6 @@
       "onboard_time": 1671169949,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 496385,
-      "num": 496385,
-      "word": "网曝大连一医院不收阳性患者",
-      "onboard_time": 1671191552,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 495610,
-      "num": 495610,
-      "word": "小智故事最终章",
-      "onboard_time": 1671190530,
-      "rank": 12,
-      "category": "游戏,动漫"
     },
     {
       "raw_hot": 490151,
@@ -723,6 +731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 401405,
+      "num": 401405,
+      "word": "体彩部门回应男子花12万买彩票想退钱",
+      "onboard_time": 1671189931,
+      "rank": 47,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 399949,
       "num": 399949,
       "word": "Karsa加入WBG",
@@ -819,6 +835,14 @@
       "category": "音乐,体育"
     },
     {
+      "raw_hot": 362089,
+      "num": 362089,
+      "word": "张元英白色薄纱蝴蝶结长裙造型",
+      "onboard_time": 1671189510,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 357413,
       "num": 357413,
       "word": "火球坠落浦江时3人路过万幸躲过",
@@ -851,28 +875,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 355035,
-      "num": 355035,
-      "word": "体彩部门回应男子花12万买彩票想退钱",
-      "onboard_time": 1671189931,
-      "rank": 47,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 354613,
       "num": 354613,
       "word": "北方疫情持续时间预计长于南方",
       "onboard_time": 1671137952,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 351688,
-      "num": 351688,
-      "word": "沈小婷Wadada开场solo",
-      "onboard_time": 1671193651,
-      "rank": 18,
-      "category": "音乐"
     },
     {
       "raw_hot": 351517,
@@ -905,6 +913,14 @@
       "onboard_time": 1671119611,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 343079,
+      "num": 343079,
+      "word": "王冰冰说年轻人嘴上佛实际却很拼",
+      "onboard_time": 1671193472,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 334843,
@@ -977,14 +993,6 @@
       "onboard_time": 1671188071,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 317191,
-      "num": 317191,
-      "word": "张元英白色薄纱蝴蝶结长裙造型",
-      "onboard_time": 1671189510,
-      "rank": 22,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 309459,
@@ -1089,6 +1097,14 @@
       "onboard_time": 1671188666,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 292034,
+      "num": 292034,
+      "word": "王心凌再唱第一次爱的人",
+      "onboard_time": 1671194731,
+      "rank": 21,
+      "category": "音乐,体育"
     },
     {
       "raw_hot": 291943,
@@ -1219,6 +1235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 262638,
+      "num": 258698,
+      "word": "KBS直播",
+      "onboard_time": 1671192933,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 261037,
       "num": 261037,
       "word": "吴磊叫自己游客小吴",
@@ -1235,20 +1259,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 256829,
-      "num": 256829,
-      "word": "KBS直播",
-      "onboard_time": 1671192933,
-      "rank": 25,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 255482,
       "num": 255482,
       "word": "倪虹洁好辣",
       "onboard_time": 1671140411,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 253098,
+      "num": 209166,
+      "word": "时光音乐会",
+      "onboard_time": 1671194731,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 252118,
@@ -1531,6 +1555,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 224058,
+      "num": 162258,
+      "word": "王一博GQ黑白大片",
+      "onboard_time": 1671194615,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 223322,
       "num": 223322,
       "word": "田曦薇GQ盛典内场照",
@@ -1547,20 +1579,20 @@
       "category": "自然,社会新闻"
     },
     {
-      "raw_hot": 222493,
-      "num": 222493,
-      "word": "王冰冰说年轻人嘴上佛实际却很拼",
-      "onboard_time": 1671193472,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 218987,
       "num": 218987,
       "word": "GAI王斯然真夫妻的默契",
       "onboard_time": 1671174929,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 216876,
+      "num": 152553,
+      "word": "成毅说入梦时",
+      "onboard_time": 1671194973,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 216102,
@@ -1611,12 +1643,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 200214,
+      "num": 200214,
+      "word": "杭州所有医疗机构门急诊取消核验48小时核酸证明",
+      "onboard_time": 1671193894,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 200174,
       "num": 200174,
       "word": "王鹤棣白鹿获GQ年度青年演员",
       "onboard_time": 1671173848,
       "rank": 31,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 198655,
+      "num": 198655,
+      "word": "杭州第五十八次疫情发布会",
+      "onboard_time": 1671190472,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 196640,
@@ -1753,14 +1801,6 @@
       "onboard_time": 1671173606,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 177613,
-      "num": 177613,
-      "word": "杭州第五十八次疫情发布会",
-      "onboard_time": 1671190472,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 175328,
@@ -2347,6 +2387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 119056,
+      "num": 152578,
+      "word": "妈妈熬汤呈绿色阳性娃吓得不敢喝",
+      "onboard_time": 1671194731,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 118783,
       "num": 118783,
       "word": "如果阳了怎么办",
@@ -2403,6 +2451,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 101610,
+      "num": 152538,
+      "word": "布斯克茨退出西班牙国家队",
+      "onboard_time": 1671194615,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 100745,
       "num": 97476,
       "word": "周深说懒羊羊很红的",
@@ -2427,12 +2483,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 100187,
-      "num": 143977,
-      "word": "杭州所有医疗机构门急诊取消核验48小时核酸证明",
-      "onboard_time": 1671193894,
+      "raw_hot": 98037,
+      "num": 152521,
+      "word": "小伙带丈母娘在巴黎卖刀削面",
+      "onboard_time": 1671194790,
       "rank": 49,
-      "category": "社会新闻"
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 97547,
