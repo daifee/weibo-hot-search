@@ -1,6 +1,6 @@
 {
   "startTime": 1671121651972,
-  "endTime": 1671183213792,
+  "endTime": 1671185975951,
   "band_list": [
     {
       "raw_hot": 7857110,
@@ -43,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2178570,
+      "num": 2178570,
+      "word": "东北制药",
+      "onboard_time": 1671176549,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2153175,
       "num": 2153175,
       "word": "感染者尽量不要接触冰箱",
@@ -56,14 +64,6 @@
       "word": "专家提醒千万别清洗陨石",
       "onboard_time": 1671155909,
       "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1832886,
-      "num": 1832886,
-      "word": "东北制药",
-      "onboard_time": 1671176549,
-      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -107,6 +107,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1138657,
+      "num": 1138657,
+      "word": "陈飞宇张婧仪版Fallingyou",
+      "onboard_time": 1671183387,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1137609,
       "num": 1137609,
       "word": "为什么买不到抗原",
@@ -128,6 +136,14 @@
       "word": "男子阳性后摆烂妻子被传染秒重视",
       "onboard_time": 1671109719,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1039983,
+      "num": 1039983,
+      "word": "骗子诈骗1250万买彩票中1450万",
+      "onboard_time": 1671183270,
+      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -177,6 +193,14 @@
       "onboard_time": 1671119611,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 912934,
+      "num": 912934,
+      "word": "东北制药回应退烧药一板只卖2元",
+      "onboard_time": 1671179490,
+      "rank": 16,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 902155,
@@ -235,12 +259,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 736889,
+      "num": 736889,
+      "word": "candy",
+      "onboard_time": 1671183930,
+      "rank": 8,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 715687,
       "num": 715687,
       "word": "河南卫生健康系统将暂时取消节假日",
       "onboard_time": 1671163171,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 707294,
+      "num": 707294,
+      "word": "研究揭示马桶不盖盖后果多严重",
+      "onboard_time": 1671181351,
+      "rank": 29,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 701755,
@@ -273,6 +313,14 @@
       "onboard_time": 1671159748,
       "rank": 24,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 660217,
+      "num": 660217,
+      "word": "成都一诊所抗原卖40元一支",
+      "onboard_time": 1671182971,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 649016,
@@ -361,14 +409,6 @@
       "onboard_time": 1671149005,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 589607,
-      "num": 589607,
-      "word": "东北制药回应退烧药一板只卖2元",
-      "onboard_time": 1671179490,
-      "rank": 16,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 583522,
@@ -491,20 +531,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 490053,
+      "num": 490053,
+      "word": "男子纵火烧死妻子案一审宣判死刑",
+      "onboard_time": 1671183209,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 489665,
       "num": 280250,
       "word": "倪虹洁睡衣",
       "onboard_time": 1671115479,
       "rank": 20,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 476462,
-      "num": 476462,
-      "word": "研究揭示马桶不盖盖后果多严重",
-      "onboard_time": 1671181351,
-      "rank": 29,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 475089,
@@ -569,6 +609,14 @@
       "onboard_time": 1671170250,
       "rank": 29,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 404919,
+      "num": 404919,
+      "word": "KBS",
+      "onboard_time": 1671176309,
+      "rank": 14,
+      "category": "音乐"
     },
     {
       "raw_hot": 401966,
@@ -699,14 +747,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 352331,
-      "num": 352331,
-      "word": "KBS",
-      "onboard_time": 1671176309,
-      "rank": 14,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 351517,
       "num": 351517,
       "word": "10岁弟弟瞒着妈妈偷塞姐姐500元",
@@ -785,6 +825,14 @@
       "onboard_time": 1671147566,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 319237,
+      "num": 319237,
+      "word": "韩红确诊感染新冠",
+      "onboard_time": 1671185309,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 318769,
@@ -881,6 +929,14 @@
       "onboard_time": 1671167191,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 288910,
+      "num": 201871,
+      "word": "第一次去女朋友家就被镇住了",
+      "onboard_time": 1671183387,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 288873,
@@ -1075,6 +1131,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 243428,
+      "num": 243428,
+      "word": "XYG",
+      "onboard_time": 1671184770,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 242865,
       "num": 242865,
       "word": "成毅演我走台步",
@@ -1219,12 +1283,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 225543,
+      "num": 201524,
+      "word": "关晓彤GQ内场走红毯视频",
+      "onboard_time": 1671183568,
+      "rank": 31,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 224641,
       "num": 224641,
       "word": "卫龙破发",
       "onboard_time": 1671121526,
       "rank": 39,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 224580,
+      "num": 200190,
+      "word": "药企回应扑热息痛2元20片不涨价",
+      "onboard_time": 1671183633,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 223322,
@@ -1755,14 +1835,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 144661,
-      "num": 144661,
-      "word": "成都一诊所抗原卖40元一支",
-      "onboard_time": 1671182971,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 142695,
       "num": 142695,
       "word": "张新成林志为体制内电子男友",
@@ -1809,6 +1881,22 @@
       "onboard_time": 1671160712,
       "rank": 48,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 138411,
+      "num": 1346474,
+      "word": "加强两节返乡人员的医疗保障",
+      "onboard_time": 1671181769,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 137979,
+      "num": 137979,
+      "word": "会跳舞的边牧",
+      "onboard_time": 1671184770,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 137274,
@@ -1923,6 +2011,14 @@
       "category": "游戏,体育"
     },
     {
+      "raw_hot": 122124,
+      "num": 122124,
+      "word": "女子发现老人倒地上演最美转身",
+      "onboard_time": 1671185849,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 121783,
       "num": 121783,
       "word": "女子同事全阳了仅她一人来上班",
@@ -1955,20 +2051,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 110873,
+      "num": 110873,
+      "word": "这猫突然就emo了",
+      "onboard_time": 1671185790,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 109239,
       "num": 318022,
       "word": "OPPO折叠屏值不值得买",
       "onboard_time": 1671156028,
       "rank": 14,
       "category": "科技"
-    },
-    {
-      "raw_hot": 107833,
-      "num": 1301840,
-      "word": "加强两节返乡人员的医疗保障",
-      "onboard_time": 1671181769,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 100745,
@@ -2043,6 +2139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 45673,
+      "num": 150612,
+      "word": "那些熬过才懂的事",
+      "onboard_time": 1671184834,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30243,
       "num": 28853,
       "word": "何广智是GQ红毯孤勇者吧",
@@ -2092,6 +2196,9 @@
     },
     {
       "word": "#推动全球生物多样性治理迈上新台阶#"
+    },
+    {
+      "word": "#一带一路是大家携手前进的阳光大道#"
     }
   ]
 }
