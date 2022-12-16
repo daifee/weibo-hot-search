@@ -1,0 +1,410 @@
+{
+  "runTime": 1671179738939,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1678675,
+        "num": 1678675,
+        "word": "男孩阳了给同学发消息让吃席",
+        "onboard_time": 1671177389,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1404869,
+        "num": 1404869,
+        "word": "感染者尽量不要接触冰箱",
+        "onboard_time": 1671166051,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53895,
+        "num": 1065348,
+        "word": "2022这些同框浪漫又硬核",
+        "onboard_time": 1671162336,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1553625,
+        "num": 1034034,
+        "word": "孕妈阳性第2天感受不到胎动",
+        "onboard_time": 1671170606,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 954153,
+        "num": 954153,
+        "word": "东北制药",
+        "onboard_time": 1671176549,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 880109,
+        "num": 880109,
+        "word": "北京海淀倡议居民加入骑手行列",
+        "onboard_time": 1671175948,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 681617,
+        "num": 681617,
+        "word": "张若昀走红毯好像在憋气",
+        "onboard_time": 1671174749,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 639125,
+        "num": 639125,
+        "word": "男子遇人高烧3颗布洛芬送去2颗",
+        "onboard_time": 1671164672,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 626545,
+        "num": 626545,
+        "word": "TheShy续约WBG",
+        "onboard_time": 1671178834,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 620194,
+        "num": 620194,
+        "word": "31岁未婚女子被催多晃悠让媒婆知道",
+        "onboard_time": 1671176849,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 454652,
+        "num": 454652,
+        "word": "盐蒸橙子",
+        "onboard_time": 1671178348,
+        "rank": 10,
+        "category": "美食,情感"
+      },
+      {
+        "raw_hot": 441836,
+        "num": 441836,
+        "word": "原来财阀家的小儿子车祸戏是这么拍的",
+        "onboard_time": 1671172410,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 430608,
+        "num": 430608,
+        "word": "义乌开始生产阿根廷夺冠球衣",
+        "onboard_time": 1671169351,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 369163,
+        "num": 369163,
+        "word": "新郎零下7度被绑电线杆泼酱油",
+        "onboard_time": 1671176128,
+        "rank": 13,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 336846,
+        "num": 336846,
+        "word": "退烧止痛布洛芬和泰诺选哪个",
+        "onboard_time": 1671146661,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307386,
+        "num": 307386,
+        "word": "世界杯决赛",
+        "onboard_time": 1671178766,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 292853,
+        "num": 292853,
+        "word": "药店高价卖布洛芬被举报店员频说谎",
+        "onboard_time": 1671173488,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281091,
+        "num": 281091,
+        "word": "村民捡到第三块陨石碎片",
+        "onboard_time": 1671175049,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276507,
+        "num": 276507,
+        "word": "菜鸟调津冀黔渝川五地快递员紧急入京",
+        "onboard_time": 1671170250,
+        "rank": 18,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 273220,
+        "num": 273220,
+        "word": "KBS",
+        "onboard_time": 1671176309,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 252078,
+        "num": 252078,
+        "word": "国考重启",
+        "onboard_time": 1671160589,
+        "rank": 20,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 232055,
+        "num": 232055,
+        "word": "Hero发布无畏处罚公告",
+        "onboard_time": 1671171270,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 230787,
+        "num": 230787,
+        "word": "核酸阳性第几天会转阴",
+        "onboard_time": 1671167613,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230406,
+        "num": 230406,
+        "word": "涵艺爆料EDG转会期",
+        "onboard_time": 1671176188,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 225909,
+        "num": 225909,
+        "word": "何炅所说的钝感力",
+        "onboard_time": 1671173669,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 215877,
+        "num": 215877,
+        "word": "徐峥请前女足成员客串环卫工人",
+        "onboard_time": 1671179073,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 215263,
+        "num": 215263,
+        "word": "蔡徐坤再唱情人",
+        "onboard_time": 1671179307,
+        "rank": 26,
+        "category": "音乐,体育"
+      },
+      {
+        "raw_hot": 213420,
+        "num": 213420,
+        "word": "内娱女演员代表作",
+        "onboard_time": 1671177749,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 203060,
+        "num": 203060,
+        "word": "影院称阿凡达2是一部救命片",
+        "onboard_time": 1671167015,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 200282,
+        "num": 200282,
+        "word": "上海有人大量购买抗原加价50%出售",
+        "onboard_time": 1671169949,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219064,
+        "num": 197626,
+        "word": "爱奇艺VIP再涨价",
+        "onboard_time": 1671160951,
+        "rank": 30,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 192172,
+        "num": 192172,
+        "word": "网购连花清瘟收到感冒灵",
+        "onboard_time": 1671170126,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188765,
+        "num": 188765,
+        "word": "帅到像AI是种什么体验",
+        "onboard_time": 1671177990,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 181808,
+        "num": 181808,
+        "word": "网友吃2颗布洛芬后发现已过期",
+        "onboard_time": 1671157106,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179977,
+        "num": 179977,
+        "word": "GAI王斯然真夫妻的默契",
+        "onboard_time": 1671174929,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179755,
+        "num": 179755,
+        "word": "2022热播剧TOP1",
+        "onboard_time": 1671179490,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 177218,
+        "num": 177218,
+        "word": "阿凡达2 特效",
+        "onboard_time": 1671175231,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 176977,
+        "num": 176977,
+        "word": "国考笔试与教资面试撞了怎么办",
+        "onboard_time": 1671168690,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 168558,
+        "num": 168558,
+        "word": "不能使用消毒剂直接进行人体消毒",
+        "onboard_time": 1671178950,
+        "rank": 38,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 164523,
+        "num": 164523,
+        "word": "张远把蘑菇屋记成去年的事",
+        "onboard_time": 1671175833,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162925,
+        "num": 162925,
+        "word": "黄宗泽欧阳震华催无限超越班开播",
+        "onboard_time": 1671178834,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162158,
+        "num": 162158,
+        "word": "北京协和医院科普居家消毒操作",
+        "onboard_time": 1671179249,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159762,
+        "num": 159762,
+        "word": "墨西哥球迷向梅西道歉",
+        "onboard_time": 1671171150,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154720,
+        "num": 154720,
+        "word": "肖战白衬衫",
+        "onboard_time": 1671168273,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 153649,
+        "num": 153649,
+        "word": "比起感染他们更怕养不起家",
+        "onboard_time": 1671164612,
+        "rank": 44,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 153404,
+        "num": 153404,
+        "word": "美军F35B战机降落时机头触地",
+        "onboard_time": 1671179490,
+        "rank": 45,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 148262,
+        "num": 148262,
+        "word": "Karsa加入WBG",
+        "onboard_time": 1671171209,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 146796,
+        "num": 146796,
+        "word": "杨迪牙齿粘辣椒皮被认为是造型",
+        "onboard_time": 1671174268,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140934,
+        "num": 140934,
+        "word": "病了才知道免疫系统有多努力",
+        "onboard_time": 1671156631,
+        "rank": 48,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 136044,
+        "num": 140638,
+        "word": "医院回应核酸单人单管40元被吐槽",
+        "onboard_time": 1671179730,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚定不移走好高质量发展之路#"
+    }
+  }
+}

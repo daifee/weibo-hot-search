@@ -1,6 +1,6 @@
 {
   "startTime": 1670775913271,
-  "endTime": 1671178945802,
+  "endTime": 1671179738939,
   "band_list": [
     {
       "raw_hot": 7857110,
@@ -561,6 +561,14 @@
       "onboard_time": 1670911512,
       "rank": 7,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1678675,
+      "num": 1678675,
+      "word": "男孩阳了给同学发消息让吃席",
+      "onboard_time": 1671177389,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1671940,
@@ -1419,14 +1427,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 972934,
-      "num": 972934,
-      "word": "男孩阳了给同学发消息让吃席",
-      "onboard_time": 1671177389,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 972176,
       "num": 972176,
       "word": "女子买退烧药发现价签贴3层涨20元",
@@ -1473,6 +1473,14 @@
       "onboard_time": 1670921832,
       "rank": 30,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 954153,
+      "num": 954153,
+      "word": "东北制药",
+      "onboard_time": 1671176549,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 952878,
@@ -1643,6 +1651,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 880109,
+      "num": 880109,
+      "word": "北京海淀倡议居民加入骑手行列",
+      "onboard_time": 1671175948,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 871610,
       "num": 871610,
       "word": "大规模核酸取消后感染人数如何预估",
@@ -1793,14 +1809,6 @@
       "onboard_time": 1670811311,
       "rank": 5,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 822250,
-      "num": 822250,
-      "word": "北京海淀倡议居民加入骑手行列",
-      "onboard_time": 1671175948,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 819050,
@@ -2291,6 +2299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 681617,
+      "num": 681617,
+      "word": "张若昀走红毯好像在憋气",
+      "onboard_time": 1671174749,
+      "rank": 48,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 677629,
       "num": 677629,
       "word": "阳康多久可以返岗",
@@ -2531,6 +2547,14 @@
       "category": "体育,幽默"
     },
     {
+      "raw_hot": 626545,
+      "num": 626545,
+      "word": "TheShy续约WBG",
+      "onboard_time": 1671178834,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 625221,
       "num": 1733648,
       "word": "新冠疫苗第2剂加强针来了",
@@ -2552,6 +2576,14 @@
       "word": "女子网购鲨鱼裤发现里面有条内裤",
       "onboard_time": 1671118772,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 620194,
+      "num": 620194,
+      "word": "31岁未婚女子被催多晃悠让媒婆知道",
+      "onboard_time": 1671176849,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -2593,14 +2625,6 @@
       "onboard_time": 1670805308,
       "rank": 13,
       "category": "影视"
-    },
-    {
-      "raw_hot": 612033,
-      "num": 612033,
-      "word": "张若昀走红毯好像在憋气",
-      "onboard_time": 1671174749,
-      "rank": 48,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 611583,
@@ -2787,14 +2811,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 575193,
-      "num": 575193,
-      "word": "东北制药",
-      "onboard_time": 1671176549,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 573686,
       "num": 573686,
       "word": "刘畊宏直播",
@@ -2840,14 +2856,6 @@
       "word": "错把酒精当生理盐水28天女婴角膜烧伤",
       "onboard_time": 1670887147,
       "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 565971,
-      "num": 565971,
-      "word": "31岁未婚女子被催多晃悠让媒婆知道",
-      "onboard_time": 1671176849,
-      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -3771,6 +3779,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 454652,
+      "num": 454652,
+      "word": "盐蒸橙子",
+      "onboard_time": 1671178348,
+      "rank": 31,
+      "category": "美食,情感"
+    },
+    {
       "raw_hot": 454354,
       "num": 454354,
       "word": "新冠印度仿制药被卖到一盒上千元",
@@ -4545,6 +4561,14 @@
       "onboard_time": 1670816592,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 369163,
+      "num": 369163,
+      "word": "新郎零下7度被绑电线杆泼酱油",
+      "onboard_time": 1671176128,
+      "rank": 15,
+      "category": "社会负面"
     },
     {
       "raw_hot": 369010,
@@ -5347,6 +5371,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 307386,
+      "num": 307386,
+      "word": "世界杯决赛",
+      "onboard_time": 1671178766,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 307007,
       "num": 307007,
       "word": "赵丽颖2022年关键词是扛",
@@ -5425,14 +5457,6 @@
       "onboard_time": 1670958968,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 302564,
-      "num": 302564,
-      "word": "新郎零下7度被绑电线杆泼酱油",
-      "onboard_time": 1671176128,
-      "rank": 15,
-      "category": "社会负面"
     },
     {
       "raw_hot": 300654,
@@ -5755,6 +5779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 281091,
+      "num": 281091,
+      "word": "村民捡到第三块陨石碎片",
+      "onboard_time": 1671175049,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 280793,
       "num": 177008,
       "word": "多地现阿凡达裸眼3D大屏",
@@ -6073,14 +6105,6 @@
       "onboard_time": 1671155909,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 266453,
-      "num": 266453,
-      "word": "村民捡到第三块陨石碎片",
-      "onboard_time": 1671175049,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 266434,
@@ -7283,12 +7307,28 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 215877,
+      "num": 215877,
+      "word": "徐峥请前女足成员客串环卫工人",
+      "onboard_time": 1671179073,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 215794,
       "num": 215794,
       "word": "高校女生宿舍自制大通铺",
       "onboard_time": 1671027395,
       "rank": 38,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 215263,
+      "num": 215263,
+      "word": "蔡徐坤再唱情人",
+      "onboard_time": 1671179307,
+      "rank": 26,
+      "category": "音乐,体育"
     },
     {
       "raw_hot": 214019,
@@ -7971,14 +8011,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 190825,
-      "num": 190825,
-      "word": "盐蒸橙子",
-      "onboard_time": 1671178348,
-      "rank": 31,
-      "category": "美食,情感"
-    },
-    {
       "raw_hot": 190511,
       "num": 190511,
       "word": "赵垒对许半夏说你开心最重要",
@@ -8057,6 +8089,14 @@
       "onboard_time": 1670827154,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 188765,
+      "num": 188765,
+      "word": "帅到像AI是种什么体验",
+      "onboard_time": 1671177990,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 188512,
@@ -8377,6 +8417,14 @@
       "onboard_time": 1670822174,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 179755,
+      "num": 179755,
+      "word": "2022热播剧TOP1",
+      "onboard_time": 1671179490,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 179639,
@@ -8827,6 +8875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 168558,
+      "num": 168558,
+      "word": "不能使用消毒剂直接进行人体消毒",
+      "onboard_time": 1671178950,
+      "rank": 38,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 168393,
       "num": 168393,
       "word": "张天爱吵架帅不过三秒",
@@ -9107,6 +9163,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 162925,
+      "num": 162925,
+      "word": "黄宗泽欧阳震华催无限超越班开播",
+      "onboard_time": 1671178834,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 162713,
       "num": 162713,
       "word": "当猫遇到榴莲的第一反应",
@@ -9153,6 +9217,14 @@
       "onboard_time": 1671086068,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 162158,
+      "num": 162158,
+      "word": "北京协和医院科普居家消毒操作",
+      "onboard_time": 1671179249,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 161260,
@@ -9275,14 +9347,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 155996,
-      "num": 155996,
-      "word": "帅到像AI是种什么体验",
-      "onboard_time": 1671177990,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 155856,
       "num": 155856,
       "word": "特奥破门",
@@ -9345,6 +9409,14 @@
       "onboard_time": 1671059840,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 153404,
+      "num": 153404,
+      "word": "美军F35B战机降落时机头触地",
+      "onboard_time": 1671179490,
+      "rank": 45,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 153256,
@@ -9859,14 +9931,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 139477,
-      "num": 139477,
-      "word": "黄宗泽欧阳震华催无限超越班开播",
-      "onboard_time": 1671178834,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 139355,
       "num": 139355,
       "word": "李艺彤文韬水下大片",
@@ -10011,20 +10075,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 136044,
+      "num": 140638,
+      "word": "医院回应核酸单人单管40元被吐槽",
+      "onboard_time": 1671179730,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 136038,
       "num": 136038,
       "word": "陶俊辉发现秦施阳华离婚",
       "onboard_time": 1670761335,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 134913,
-      "num": 134913,
-      "word": "世界杯决赛",
-      "onboard_time": 1671178766,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 134433,
@@ -10177,14 +10241,6 @@
       "onboard_time": 1670814132,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 131518,
-      "num": 131518,
-      "word": "TheShy续约WBG",
-      "onboard_time": 1671178834,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 131186,
