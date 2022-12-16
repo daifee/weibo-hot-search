@@ -1,0 +1,410 @@
+{
+  "runTime": 1671200162006,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3342348,
+        "num": 3342348,
+        "word": "张靓颖道歉",
+        "onboard_time": 1671198392,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1492087,
+        "num": 1492087,
+        "word": "女子发烧敷20分钟面膜揭下变3D立体",
+        "onboard_time": 1671188851,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 69486,
+        "num": 1173406,
+        "word": "加强两节返乡人员的医疗保障",
+        "onboard_time": 1671181769,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1054648,
+        "num": 1054648,
+        "word": "男孩考99分崩溃控诉父母",
+        "onboard_time": 1671195154,
+        "rank": 3,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1013674,
+        "num": 1013674,
+        "word": "宋雨琦 帅",
+        "onboard_time": 1671198873,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 976179,
+        "num": 976179,
+        "word": "东北制药",
+        "onboard_time": 1671176549,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 925786,
+        "num": 925786,
+        "word": "布洛芬和对乙酰氨基酚有什么区别",
+        "onboard_time": 1671188731,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 731096,
+        "num": 731096,
+        "word": "华鼎奖",
+        "onboard_time": 1671197913,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 653457,
+        "num": 653457,
+        "word": "妈妈熬汤呈绿色阳性娃吓得不敢喝",
+        "onboard_time": 1671194731,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 471567,
+        "num": 471567,
+        "word": "杭州所有医疗机构门急诊取消核验48小时核酸证明",
+        "onboard_time": 1671193894,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 979426,
+        "num": 459809,
+        "word": "aespa 妆造",
+        "onboard_time": 1671198754,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 574035,
+        "num": 450424,
+        "word": "沈小婷Wadada开场solo",
+        "onboard_time": 1671193651,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 532527,
+        "num": 439099,
+        "word": "多款确诊即赔新冠险下架",
+        "onboard_time": 1671197553,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 427567,
+        "num": 427567,
+        "word": "柳智敏 镜头",
+        "onboard_time": 1671199355,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 377840,
+        "num": 377840,
+        "word": "骗子诈骗1250万买彩票中1450万",
+        "onboard_time": 1671183270,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 375754,
+        "num": 375754,
+        "word": "世界杯决赛",
+        "onboard_time": 1671178766,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 364275,
+        "num": 364275,
+        "word": "买7元掏耳勺胶套掉耳道花175元取出",
+        "onboard_time": 1671196835,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 320084,
+        "num": 320084,
+        "word": "男孩阳了给同学发消息让吃席",
+        "onboard_time": 1671177389,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278277,
+        "num": 278277,
+        "word": "网曝大连一医院不收阳性患者",
+        "onboard_time": 1671191552,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277120,
+        "num": 277120,
+        "word": "新冠对精神健康影响或超十年",
+        "onboard_time": 1671179849,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 392518,
+        "num": 273406,
+        "word": "陈飞宇张婧仪版Fallingyou",
+        "onboard_time": 1671183387,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 374210,
+        "num": 270990,
+        "word": "王心凌再唱第一次爱的人",
+        "onboard_time": 1671194731,
+        "rank": 21,
+        "category": "音乐,体育"
+      },
+      {
+        "raw_hot": 336416,
+        "num": 270184,
+        "word": "张栋梁北极星的眼泪梦回何群",
+        "onboard_time": 1671195451,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 267315,
+        "num": 267315,
+        "word": "北京考研生19日开始健康打卡",
+        "onboard_time": 1671189811,
+        "rank": 23,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 265894,
+        "num": 265894,
+        "word": "这是北京街头外卖员的身影",
+        "onboard_time": 1671198573,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245212,
+        "num": 245212,
+        "word": "印度一校长欲猥亵女生被数十名同学拿棍棒围殴",
+        "onboard_time": 1671187109,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243330,
+        "num": 243330,
+        "word": "成都一诊所抗原卖40元一支",
+        "onboard_time": 1671182971,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227750,
+        "num": 227750,
+        "word": "当男朋友得知我阳了的反应",
+        "onboard_time": 1671198271,
+        "rank": 27,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 222275,
+        "num": 222275,
+        "word": "小智故事最终章",
+        "onboard_time": 1671190530,
+        "rank": 28,
+        "category": "游戏,动漫"
+      },
+      {
+        "raw_hot": 208188,
+        "num": 208188,
+        "word": "我终于会扎丸子头了",
+        "onboard_time": 1671198635,
+        "rank": 29,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 319888,
+        "num": 206952,
+        "word": "赵露思提名华鼎奖古装剧最佳女演员",
+        "onboard_time": 1671198034,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 310742,
+        "num": 205891,
+        "word": "吕严土豆",
+        "onboard_time": 1671199715,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 322257,
+        "num": 204614,
+        "word": "蔡徐坤废墟朋克HardToGet",
+        "onboard_time": 1671199473,
+        "rank": 32,
+        "category": "音乐,体育"
+      },
+      {
+        "raw_hot": 307795,
+        "num": 202206,
+        "word": "刘亦菲提名华鼎奖最佳女主角",
+        "onboard_time": 1671195871,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 201089,
+        "num": 201089,
+        "word": "药企回应扑热息痛2元20片不涨价",
+        "onboard_time": 1671183633,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186666,
+        "num": 186666,
+        "word": "研究揭示马桶不盖盖后果多严重",
+        "onboard_time": 1671181351,
+        "rank": 35,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 180957,
+        "num": 180957,
+        "word": "男子纵火烧死妻子案一审宣判死刑",
+        "onboard_time": 1671183209,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178599,
+        "num": 178599,
+        "word": "EDGM 鸡毛",
+        "onboard_time": 1671199355,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 172928,
+        "num": 178576,
+        "word": "eStar对战EDGM",
+        "onboard_time": 1671190950,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 24493,
+        "num": 178539,
+        "word": "谁是元宇宙扣篮第一人",
+        "onboard_time": 1671199234,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285890,
+        "num": 178461,
+        "word": "张嘉倪羽毛抹胸裙造型",
+        "onboard_time": 1671194434,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 286743,
+        "num": 178397,
+        "word": "庞博是懂爱情的",
+        "onboard_time": 1671195752,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 276431,
+        "num": 178313,
+        "word": "周深 和声",
+        "onboard_time": 1671196773,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161963,
+        "num": 178286,
+        "word": "小狗也拒绝不了小奶猫的贴贴",
+        "onboard_time": 1671199175,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 161525,
+        "num": 178234,
+        "word": "eStar锁定世冠四强",
+        "onboard_time": 1671200076,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 158437,
+        "num": 178151,
+        "word": "体彩部门回应男子花12万买彩票想退钱",
+        "onboard_time": 1671189931,
+        "rank": 45,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 140170,
+        "num": 178120,
+        "word": "连续三天抗原阴性可认为不具备传染性",
+        "onboard_time": 1671200014,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138257,
+        "num": 178057,
+        "word": "中央经济工作会议举行",
+        "onboard_time": 1671192394,
+        "rank": 47,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 138069,
+        "num": 177967,
+        "word": "盐蒸橙子",
+        "onboard_time": 1671178348,
+        "rank": 48,
+        "category": "美食,情感"
+      },
+      {
+        "raw_hot": 136377,
+        "num": 177926,
+        "word": "宝可梦",
+        "onboard_time": 1671190890,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#一带一路是大家携手前进的阳光大道#"
+    }
+  }
+}
