@@ -1,6 +1,6 @@
 {
   "startTime": 1670775913271,
-  "endTime": 1671186891258,
+  "endTime": 1671189285047,
   "band_list": [
     {
       "raw_hot": 7857110,
@@ -147,19 +147,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2657303,
+      "num": 2657303,
+      "word": "东北制药",
+      "onboard_time": 1671176549,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2623991,
       "num": 2623991,
       "word": "杭州火球",
       "onboard_time": 1671101916,
       "rank": 5,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2577335,
-      "num": 2577335,
-      "word": "东北制药",
-      "onboard_time": 1671176549,
-      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -811,6 +811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1349753,
+      "num": 1349753,
+      "word": "陈飞宇张婧仪版Fallingyou",
+      "onboard_time": 1671183387,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1333141,
       "num": 1333141,
       "word": "男子遇人高烧3颗布洛芬送去2颗",
@@ -1073,14 +1081,6 @@
       "onboard_time": 1670976491,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1138657,
-      "num": 1138657,
-      "word": "陈飞宇张婧仪版Fallingyou",
-      "onboard_time": 1671183387,
-      "rank": 4,
-      "category": "影视"
     },
     {
       "raw_hot": 1137609,
@@ -2019,6 +2019,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 785296,
+      "num": 785296,
+      "word": "成都一诊所抗原卖40元一支",
+      "onboard_time": 1671182971,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 782305,
       "num": 782305,
       "word": "LPL 转会期",
@@ -2056,14 +2064,6 @@
       "word": "中青年阳了7天内会发生什么",
       "onboard_time": 1670913913,
       "rank": 15,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 775982,
-      "num": 775982,
-      "word": "成都一诊所抗原卖40元一支",
-      "onboard_time": 1671182971,
-      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -2723,6 +2723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 607400,
+      "num": 607400,
+      "word": "第一次去女朋友家就被镇住了",
+      "onboard_time": 1671183387,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 603266,
       "num": 490975,
       "word": "EXO将在家族演唱会上唱初雪",
@@ -3147,6 +3155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 541666,
+      "num": 541666,
+      "word": "韩红确诊感染新冠",
+      "onboard_time": 1671185309,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 540880,
       "num": 540880,
       "word": "莫德里奇说孤勇者可以激励队友",
@@ -3395,14 +3411,6 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 510524,
-      "num": 510524,
-      "word": "韩红确诊感染新冠",
-      "onboard_time": 1671185309,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 509653,
       "num": 509653,
       "word": "王一博成毅王鹤棣到达上海",
@@ -3448,6 +3456,14 @@
       "word": "上海有人大量购买抗原加价50%出售",
       "onboard_time": 1671169949,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 500739,
+      "num": 500739,
+      "word": "印度一校长欲猥亵女生被数十名同学拿棍棒围殴",
+      "onboard_time": 1671187109,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -3529,6 +3545,14 @@
       "onboard_time": 1671068309,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 490151,
+      "num": 490151,
+      "word": "药企回应扑热息痛2元20片不涨价",
+      "onboard_time": 1671183633,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 490105,
@@ -3729,6 +3753,14 @@
       "onboard_time": 1670976731,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 464510,
+      "num": 464510,
+      "word": "aespa歌谣大祝祭红毯",
+      "onboard_time": 1671186088,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 464427,
@@ -4193,14 +4225,6 @@
       "onboard_time": 1670979670,
       "rank": 21,
       "category": "体育,音乐"
-    },
-    {
-      "raw_hot": 411090,
-      "num": 411090,
-      "word": "aespa歌谣大祝祭红毯",
-      "onboard_time": 1671186088,
-      "rank": 13,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 410876,
@@ -4715,6 +4739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 367917,
+      "num": 367917,
+      "word": "宋亚轩有首单曲叫成年",
+      "onboard_time": 1671188666,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 366938,
       "num": 366938,
       "word": "EXO七人舞台合照",
@@ -4945,14 +4977,6 @@
       "onboard_time": 1671091829,
       "rank": 15,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 353230,
-      "num": 353230,
-      "word": "药企回应扑热息痛2元20片不涨价",
-      "onboard_time": 1671183633,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 351517,
@@ -5243,14 +5267,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 327214,
-      "num": 327214,
-      "word": "第一次去女朋友家就被镇住了",
-      "onboard_time": 1671183387,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 326598,
       "num": 326598,
       "word": "TES",
@@ -5395,6 +5411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 318122,
+      "num": 318122,
+      "word": "杨紫李现亲爱的热爱的将在台湾播出",
+      "onboard_time": 1671188071,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 317426,
       "num": 317426,
       "word": "呼和浩特4.1级地震",
@@ -5441,6 +5465,14 @@
       "onboard_time": 1670824218,
       "rank": 25,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 312590,
+      "num": 312590,
+      "word": "法国总统说更喜欢在巴黎的梅西",
+      "onboard_time": 1671186867,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 312534,
@@ -5515,6 +5547,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 309459,
+      "num": 309459,
+      "word": "张亚东听王心凌爱你给整不会了",
+      "onboard_time": 1671187472,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 307611,
       "num": 307611,
       "word": "特斯拉市值一夜蒸发2442亿",
@@ -5553,6 +5593,14 @@
       "onboard_time": 1671087629,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 305744,
+      "num": 305744,
+      "word": "关晓彤GQ内场走红毯视频",
+      "onboard_time": 1671183568,
+      "rank": 31,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 305446,
@@ -5729,6 +5777,14 @@
       "onboard_time": 1671159270,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 292373,
+      "num": 198644,
+      "word": "丁程鑫说遗憾三周年舞台没和粉丝见面",
+      "onboard_time": 1671188666,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 292281,
@@ -6283,14 +6339,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 264827,
-      "num": 214848,
-      "word": "关晓彤GQ内场走红毯视频",
-      "onboard_time": 1671183568,
-      "rank": 31,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 264517,
       "num": 264517,
       "word": "INTO1朝阳打歌中心清唱天生就要飞",
@@ -6771,6 +6819,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 244455,
+      "num": 192860,
+      "word": "杨洋说消防员宋焰来了",
+      "onboard_time": 1671187591,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 244224,
       "num": 230808,
       "word": "吴磊握手失败",
@@ -6897,6 +6953,14 @@
       "onboard_time": 1671114580,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 239148,
+      "num": 188846,
+      "word": "小鬼无奈失去演唱机会",
+      "onboard_time": 1671187950,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 238639,
@@ -7371,6 +7435,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 220602,
+      "num": 220602,
+      "word": "女子发烧敷20分钟面膜揭下变3D立体",
+      "onboard_time": 1671188851,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 220268,
       "num": 220268,
       "word": "赵垒挑衅许半夏情敌",
@@ -7699,6 +7771,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 208847,
+      "num": 140205,
+      "word": "GQ镜头下的王一博侧颜",
+      "onboard_time": 1671187228,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 207856,
       "num": 207856,
       "word": "被陌生人可爱到的瞬间",
@@ -7777,6 +7857,14 @@
       "onboard_time": 1671014776,
       "rank": 40,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 203948,
+      "num": 203948,
+      "word": "布洛芬和对乙酰氨基酚有什么区别",
+      "onboard_time": 1671188731,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 203850,
@@ -10179,6 +10267,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 140227,
+      "num": 140227,
+      "word": "面对焦虑该抱有怎样的心态",
+      "onboard_time": 1671188250,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 140085,
       "num": 145014,
       "word": "放假回家路上的离谱事",
@@ -10200,6 +10296,14 @@
       "word": "大熊猫让柔弱小树承受了太多",
       "onboard_time": 1671157406,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 139520,
+      "num": 139520,
+      "word": "南航机组暖心叮嘱援京快递员",
+      "onboard_time": 1671187891,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -10385,6 +10489,14 @@
       "onboard_time": 1670761335,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 135412,
+      "num": 135412,
+      "word": "XYG教练阳了",
+      "onboard_time": 1671187529,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 134433,
@@ -11187,6 +11299,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 108499,
+      "num": 108499,
+      "word": "宝可梦朱紫",
+      "onboard_time": 1671189209,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 108192,
       "num": 108192,
       "word": "白鲨首夺CFS总冠军",
@@ -11289,6 +11409,14 @@
       "onboard_time": 1670830397,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 103625,
+      "num": 103625,
+      "word": "如果阳了怎么办",
+      "onboard_time": 1671189152,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 102831,
@@ -11417,14 +11545,6 @@
       "onboard_time": 1670774774,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 93475,
-      "num": 93475,
-      "word": "法国总统说更喜欢在巴黎的梅西",
-      "onboard_time": 1671186867,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 93436,
