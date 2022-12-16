@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1671218067866,
+  "endTime": 1671219196551,
   "band_list": [
     {
       "raw_hot": 13790167,
@@ -36987,6 +36987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 27056,
+      "num": 27056,
+      "word": "雅鲁藏布江现巨大鲫鱼状沙滩",
+      "onboard_time": 1671216734,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 26729,
       "num": 26729,
       "word": "加维反差萌",
@@ -37033,14 +37041,6 @@
       "onboard_time": 1670613192,
       "rank": 49,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 20181,
-      "num": 22508,
-      "word": "雅鲁藏布江现巨大鲫鱼状沙滩",
-      "onboard_time": 1671216734,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 19604,
