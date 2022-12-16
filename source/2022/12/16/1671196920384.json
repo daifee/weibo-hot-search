@@ -1,0 +1,410 @@
+{
+  "runTime": 1671196920384,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1905132,
+        "num": 1905132,
+        "word": "女子发烧敷20分钟面膜揭下变3D立体",
+        "onboard_time": 1671188851,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1261467,
+        "num": 1261467,
+        "word": "东北制药",
+        "onboard_time": 1671176549,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115591,
+        "num": 1007533,
+        "word": "加强两节返乡人员的医疗保障",
+        "onboard_time": 1671181769,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 971637,
+        "num": 971637,
+        "word": "沈小婷Wadada开场solo",
+        "onboard_time": 1671193651,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 888584,
+        "num": 888584,
+        "word": "布洛芬和对乙酰氨基酚有什么区别",
+        "onboard_time": 1671188731,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 644283,
+        "num": 644283,
+        "word": "网曝大连一医院不收阳性患者",
+        "onboard_time": 1671191552,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 599732,
+        "num": 599732,
+        "word": "蔡徐坤倒立话筒唱新编曲HardToGet",
+        "onboard_time": 1671196471,
+        "rank": 6,
+        "category": "音乐,体育"
+      },
+      {
+        "raw_hot": 595863,
+        "num": 595863,
+        "word": "王心凌再唱第一次爱的人",
+        "onboard_time": 1671194731,
+        "rank": 7,
+        "category": "音乐,体育"
+      },
+      {
+        "raw_hot": 532533,
+        "num": 532533,
+        "word": "男孩阳了给同学发消息让吃席",
+        "onboard_time": 1671177389,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 493337,
+        "num": 493337,
+        "word": "骗子诈骗1250万买彩票中1450万",
+        "onboard_time": 1671183270,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 680445,
+        "num": 490371,
+        "word": "妈妈熬汤呈绿色阳性娃吓得不敢喝",
+        "onboard_time": 1671194731,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 589600,
+        "num": 489624,
+        "word": "陈飞宇张婧仪版Fallingyou",
+        "onboard_time": 1671183387,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 584024,
+        "num": 489409,
+        "word": "男孩考99分崩溃控诉父母",
+        "onboard_time": 1671195154,
+        "rank": 12,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 485991,
+        "num": 485991,
+        "word": "刘亦菲提名华鼎奖最佳女主角",
+        "onboard_time": 1671195871,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 415187,
+        "num": 415187,
+        "word": "candy",
+        "onboard_time": 1671183930,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 389040,
+        "num": 389040,
+        "word": "北京考研生19日开始健康打卡",
+        "onboard_time": 1671189811,
+        "rank": 15,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 380585,
+        "num": 380585,
+        "word": "杭州所有医疗机构门急诊取消核验48小时核酸证明",
+        "onboard_time": 1671193894,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 378850,
+        "num": 378850,
+        "word": "印度一校长欲猥亵女生被数十名同学拿棍棒围殴",
+        "onboard_time": 1671187109,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 373691,
+        "num": 373691,
+        "word": "小智故事最终章",
+        "onboard_time": 1671190530,
+        "rank": 18,
+        "category": "游戏,动漫"
+      },
+      {
+        "raw_hot": 366395,
+        "num": 366395,
+        "word": "世界杯决赛",
+        "onboard_time": 1671178766,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 393510,
+        "num": 358069,
+        "word": "张嘉倪羽毛抹胸裙造型",
+        "onboard_time": 1671194434,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 367980,
+        "num": 357531,
+        "word": "王鹤棣跳locking",
+        "onboard_time": 1671196350,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 334537,
+        "num": 334537,
+        "word": "张栋梁北极星的眼泪梦回何群",
+        "onboard_time": 1671195451,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 284754,
+        "num": 284754,
+        "word": "新冠对精神健康影响或超十年",
+        "onboard_time": 1671179849,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283522,
+        "num": 283522,
+        "word": "成都一诊所抗原卖40元一支",
+        "onboard_time": 1671182971,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 331116,
+        "num": 271748,
+        "word": "庞博是懂爱情的",
+        "onboard_time": 1671195752,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 256262,
+        "num": 256262,
+        "word": "体彩部门回应男子花12万买彩票想退钱",
+        "onboard_time": 1671189931,
+        "rank": 26,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 229315,
+        "num": 229315,
+        "word": "研究揭示马桶不盖盖后果多严重",
+        "onboard_time": 1671181351,
+        "rank": 27,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 222248,
+        "num": 222248,
+        "word": "药企回应扑热息痛2元20片不涨价",
+        "onboard_time": 1671183633,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208203,
+        "num": 208203,
+        "word": "宝可梦",
+        "onboard_time": 1671190890,
+        "rank": 29,
+        "category": "游戏,动漫"
+      },
+      {
+        "raw_hot": 324335,
+        "num": 206479,
+        "word": "周深 和声",
+        "onboard_time": 1671196773,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 315453,
+        "num": 203555,
+        "word": "王冰冰说年轻人嘴上佛实际却很拼",
+        "onboard_time": 1671193472,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 313178,
+        "num": 203131,
+        "word": "Minji雪允洪恩採Hyein李瑞合作舞台",
+        "onboard_time": 1671195572,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 198019,
+        "num": 198019,
+        "word": "男子纵火烧死妻子案一审宣判死刑",
+        "onboard_time": 1671183209,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195164,
+        "num": 195164,
+        "word": "eStar对战EDGM",
+        "onboard_time": 1671190950,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 306352,
+        "num": 192272,
+        "word": "小鬼元宇宙新专歌曲三连唱",
+        "onboard_time": 1671196649,
+        "rank": 35,
+        "category": "音乐,体育"
+      },
+      {
+        "raw_hot": 188740,
+        "num": 188740,
+        "word": "中央经济工作会议举行",
+        "onboard_time": 1671192394,
+        "rank": 36,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 188681,
+        "num": 188681,
+        "word": "法国总统说更喜欢在巴黎的梅西",
+        "onboard_time": 1671186867,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183988,
+        "num": 183988,
+        "word": "感染者尽量不要接触冰箱",
+        "onboard_time": 1671166051,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18808,
+        "num": 173410,
+        "word": "网商银行推出暖心K套餐",
+        "onboard_time": 1671195635,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295315,
+        "num": 173337,
+        "word": "点燃我温暖你",
+        "onboard_time": 1671190413,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 285594,
+        "num": 173334,
+        "word": "韩红确诊感染新冠",
+        "onboard_time": 1671185309,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173005,
+        "num": 173005,
+        "word": "盐蒸橙子",
+        "onboard_time": 1671178348,
+        "rank": 42,
+        "category": "美食,情感"
+      },
+      {
+        "raw_hot": 150489,
+        "num": 172769,
+        "word": "布斯克茨退出西班牙国家队",
+        "onboard_time": 1671194615,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147275,
+        "num": 172647,
+        "word": "东北制药回应退烧药一板只卖2元",
+        "onboard_time": 1671179490,
+        "rank": 44,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 130502,
+        "num": 172170,
+        "word": "专家判断这块陨石来自46亿年前",
+        "onboard_time": 1671179971,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124081,
+        "num": 171747,
+        "word": "杭州第五十八次疫情发布会",
+        "onboard_time": 1671190472,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118237,
+        "num": 171691,
+        "word": "北京海淀倡议居民加入骑手行列",
+        "onboard_time": 1671175948,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106909,
+        "num": 171232,
+        "word": "流星雨划过湿地上空唯美又浪漫",
+        "onboard_time": 1671196773,
+        "rank": 48,
+        "category": "旅游,自然"
+      },
+      {
+        "raw_hot": 106201,
+        "num": 170957,
+        "word": "买7元掏耳勺胶套掉耳道花175元取出",
+        "onboard_time": 1671196835,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#一带一路是大家携手前进的阳光大道#"
+    }
+  }
+}

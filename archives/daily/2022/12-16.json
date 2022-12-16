@@ -1,6 +1,6 @@
 {
   "startTime": 1671121651972,
-  "endTime": 1671195022285,
+  "endTime": 1671196920384,
   "band_list": [
     {
       "raw_hot": 7857110,
@@ -347,6 +347,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 680445,
+      "num": 490371,
+      "word": "妈妈熬汤呈绿色阳性娃吓得不敢喝",
+      "onboard_time": 1671194731,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 671223,
       "num": 671223,
       "word": "布洛芬注册批文超500个为何一盒难求",
@@ -369,6 +377,14 @@
       "onboard_time": 1671112419,
       "rank": 6,
       "category": "教育"
+    },
+    {
+      "raw_hot": 644283,
+      "num": 644283,
+      "word": "网曝大连一医院不收阳性患者",
+      "onboard_time": 1671191552,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 640150,
@@ -427,12 +443,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 599732,
+      "num": 599732,
+      "word": "蔡徐坤倒立话筒唱新编曲HardToGet",
+      "onboard_time": 1671196471,
+      "rank": 6,
+      "category": "音乐,体育"
+    },
+    {
       "raw_hot": 599206,
       "num": 599206,
       "word": "阳了之后反复发烧怎么办",
       "onboard_time": 1671148888,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 595863,
+      "num": 595863,
+      "word": "王心凌再唱第一次爱的人",
+      "onboard_time": 1671194731,
+      "rank": 21,
+      "category": "音乐,体育"
     },
     {
       "raw_hot": 594403,
@@ -465,6 +497,14 @@
       "onboard_time": 1671149005,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 584024,
+      "num": 489409,
+      "word": "男孩考99分崩溃控诉父母",
+      "onboard_time": 1671195154,
+      "rank": 12,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 583522,
@@ -505,14 +545,6 @@
       "onboard_time": 1671115419,
       "rank": 7,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 550465,
-      "num": 550465,
-      "word": "网曝大连一医院不收阳性患者",
-      "onboard_time": 1671191552,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 550209,
@@ -633,6 +665,14 @@
       "onboard_time": 1671115479,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 485991,
+      "num": 485991,
+      "word": "刘亦菲提名华鼎奖最佳女主角",
+      "onboard_time": 1671195871,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 475089,
@@ -763,6 +803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 393510,
+      "num": 358069,
+      "word": "张嘉倪羽毛抹胸裙造型",
+      "onboard_time": 1671194434,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 391850,
       "num": 391850,
       "word": "东莞凉茶店自制凉茶中添加布洛芬",
@@ -777,6 +825,14 @@
       "onboard_time": 1671171150,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 380585,
+      "num": 380585,
+      "word": "杭州所有医疗机构门急诊取消核验48小时核酸证明",
+      "onboard_time": 1671193894,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 377461,
@@ -801,6 +857,14 @@
       "onboard_time": 1671176128,
       "rank": 15,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 367980,
+      "num": 357531,
+      "word": "王鹤棣跳locking",
+      "onboard_time": 1671196350,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 367917,
@@ -931,12 +995,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 334537,
+      "num": 334537,
+      "word": "张栋梁北极星的眼泪梦回何群",
+      "onboard_time": 1671195451,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 331544,
       "num": 331544,
       "word": "女生拒绝周末去公司打扫卫生被辞",
       "onboard_time": 1671159151,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 331116,
+      "num": 271748,
+      "word": "庞博是懂爱情的",
+      "onboard_time": 1671195752,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 330874,
@@ -953,6 +1033,14 @@
       "onboard_time": 1671108694,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 324335,
+      "num": 206479,
+      "word": "周深 和声",
+      "onboard_time": 1671196773,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 324302,
@@ -995,6 +1083,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 313178,
+      "num": 203131,
+      "word": "Minji雪允洪恩採Hyein李瑞合作舞台",
+      "onboard_time": 1671195572,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 309459,
       "num": 309459,
       "word": "张亚东听王心凌爱你给整不会了",
@@ -1009,6 +1105,14 @@
       "onboard_time": 1671110675,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 306352,
+      "num": 192272,
+      "word": "小鬼元宇宙新专歌曲三连唱",
+      "onboard_time": 1671196649,
+      "rank": 35,
+      "category": "音乐,体育"
     },
     {
       "raw_hot": 305744,
@@ -1097,14 +1201,6 @@
       "onboard_time": 1671188666,
       "rank": 30,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 292034,
-      "num": 292034,
-      "word": "王心凌再唱第一次爱的人",
-      "onboard_time": 1671194731,
-      "rank": 21,
-      "category": "音乐,体育"
     },
     {
       "raw_hot": 291943,
@@ -1643,14 +1739,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 200214,
-      "num": 200214,
-      "word": "杭州所有医疗机构门急诊取消核验48小时核酸证明",
-      "onboard_time": 1671193894,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 200174,
       "num": 200174,
       "word": "王鹤棣白鹿获GQ年度青年演员",
@@ -2139,6 +2227,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 150489,
+      "num": 172769,
+      "word": "布斯克茨退出西班牙国家队",
+      "onboard_time": 1671194615,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 149334,
       "num": 149334,
       "word": "全球每分钟有100万个塑料瓶被买走",
@@ -2387,14 +2483,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 119056,
-      "num": 152578,
-      "word": "妈妈熬汤呈绿色阳性娃吓得不敢喝",
-      "onboard_time": 1671194731,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 118783,
       "num": 118783,
       "word": "如果阳了怎么办",
@@ -2443,20 +2531,28 @@
       "category": "科技"
     },
     {
+      "raw_hot": 106909,
+      "num": 171232,
+      "word": "流星雨划过湿地上空唯美又浪漫",
+      "onboard_time": 1671196773,
+      "rank": 48,
+      "category": "旅游,自然"
+    },
+    {
+      "raw_hot": 106201,
+      "num": 170957,
+      "word": "买7元掏耳勺胶套掉耳道花175元取出",
+      "onboard_time": 1671196835,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 104749,
       "num": 104749,
       "word": "盘点东北制药产业版图",
       "onboard_time": 1671190234,
       "rank": 49,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 101610,
-      "num": 152538,
-      "word": "布斯克茨退出西班牙国家队",
-      "onboard_time": 1671194615,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 100745,
@@ -2593,6 +2689,14 @@
       "onboard_time": 1671132073,
       "rank": 37,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 18808,
+      "num": 173410,
+      "word": "网商银行推出暖心K套餐",
+      "onboard_time": 1671195635,
+      "rank": 39,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
