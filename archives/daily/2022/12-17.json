@@ -1,6 +1,6 @@
 {
   "startTime": 1671207916313,
-  "endTime": 1671244420610,
+  "endTime": 1671245009946,
   "band_list": [
     {
       "raw_hot": 1808400,
@@ -11,16 +11,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1656007,
-      "num": 1656007,
+      "raw_hot": 1781061,
+      "num": 1781061,
       "word": "女生囤的连花清瘟一次没吃全过期",
       "onboard_time": 1671240746,
       "rank": 10,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1470667,
-      "num": 1470667,
+      "raw_hot": 1595416,
+      "num": 1595416,
       "word": "成华区",
       "onboard_time": 1671241887,
       "rank": 1,
@@ -35,19 +35,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1245476,
+      "num": 1245476,
+      "word": "为什么咽口水像吞刀片",
+      "onboard_time": 1671241167,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1164594,
       "num": 1164594,
       "word": "为什么身边没有无症状感染者",
       "onboard_time": 1671233117,
       "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1154877,
-      "num": 1154877,
-      "word": "为什么咽口水像吞刀片",
-      "onboard_time": 1671241167,
-      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -131,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 553529,
+      "num": 553529,
+      "word": "财阀家的小儿子奶奶是凶手",
+      "onboard_time": 1671240326,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 534501,
       "num": 534501,
       "word": "女子发烧敷20分钟面膜揭下变3D立体",
@@ -145,14 +153,6 @@
       "onboard_time": 1671238586,
       "rank": 19,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 515350,
-      "num": 515350,
-      "word": "财阀家的小儿子奶奶是凶手",
-      "onboard_time": 1671240326,
-      "rank": 14,
-      "category": "影视"
     },
     {
       "raw_hot": 485181,
@@ -195,32 +195,40 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 420992,
-      "num": 420992,
+      "raw_hot": 428497,
+      "num": 428497,
       "word": "画家把李诞画成B超照",
       "onboard_time": 1671237207,
       "rank": 21,
       "category": "综艺"
     },
     {
-      "raw_hot": 399991,
-      "num": 399991,
-      "word": "申有娜的腰部线条",
-      "onboard_time": 1671241467,
-      "rank": 39,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 397219,
-      "num": 397219,
+      "raw_hot": 418808,
+      "num": 418808,
       "word": "多地专家研判当地疫情高峰时间",
       "onboard_time": 1671240148,
       "rank": 33,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 396033,
-      "num": 396033,
+      "raw_hot": 405219,
+      "num": 405219,
+      "word": "申有娜的腰部线条",
+      "onboard_time": 1671241467,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 403894,
+      "num": 403894,
+      "word": "官方通报网传干部发不雅信息",
+      "onboard_time": 1671243508,
+      "rank": 20,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 397689,
+      "num": 397689,
       "word": "世上最大圆柱体水族馆破裂鱼涌入街头",
       "onboard_time": 1671242308,
       "rank": 14,
@@ -283,6 +291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 312868,
+      "num": 312868,
+      "word": "姆巴佩有多喜欢C罗",
+      "onboard_time": 1671243266,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 308170,
       "num": 308170,
       "word": "田朴珺称我爱自己比爱王石多",
@@ -315,6 +331,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 262991,
+      "num": 262991,
+      "word": "卡塔尔的熊猫想家了",
+      "onboard_time": 1671241105,
+      "rank": 33,
+      "category": "体育,情感"
+    },
+    {
+      "raw_hot": 261062,
+      "num": 261062,
+      "word": "男子网购整箱感冒药收快递是兽药",
+      "onboard_time": 1671241290,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 259528,
       "num": 259528,
       "word": "江苏省考",
@@ -323,36 +355,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 259018,
-      "num": 259018,
-      "word": "官方通报网传干部发不雅信息",
-      "onboard_time": 1671243508,
-      "rank": 20,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 257205,
       "num": 257205,
       "word": "男孩考99分崩溃控诉父母",
       "onboard_time": 1671195154,
       "rank": 14,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 252744,
-      "num": 252744,
-      "word": "男子网购整箱感冒药收快递是兽药",
-      "onboard_time": 1671241290,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 250358,
-      "num": 250358,
-      "word": "姆巴佩有多喜欢C罗",
-      "onboard_time": 1671243266,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 247050,
@@ -377,14 +385,6 @@
       "onboard_time": 1671211458,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 238600,
-      "num": 238600,
-      "word": "卡塔尔的熊猫想家了",
-      "onboard_time": 1671241105,
-      "rank": 33,
-      "category": "体育,情感"
     },
     {
       "raw_hot": 238067,
@@ -515,6 +515,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 190550,
+      "num": 190550,
+      "word": "斗罗大陆",
+      "onboard_time": 1671244529,
+      "rank": 28,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 190158,
       "num": 190158,
       "word": "你阳了后最想吃什么",
@@ -571,6 +579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 166264,
+      "num": 166264,
+      "word": "张元英love舞台直拍",
+      "onboard_time": 1671243809,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 165567,
       "num": 165567,
       "word": "小智故事最终章",
@@ -585,6 +601,14 @@
       "onboard_time": 1671234323,
       "rank": 29,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 162352,
+      "num": 162352,
+      "word": "女孩未完成作业欲跳楼轻生",
+      "onboard_time": 1671242187,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 161250,
@@ -603,28 +627,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 154856,
+      "num": 154856,
+      "word": "不要带长毛猫去玩雪",
+      "onboard_time": 1671243689,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 153461,
       "num": 153461,
       "word": "印度一校长欲猥亵女生被数十名同学拿棍棒围殴",
       "onboard_time": 1671187109,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 150907,
-      "num": 150907,
-      "word": "女孩未完成作业欲跳楼轻生",
-      "onboard_time": 1671242187,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 150307,
-      "num": 150307,
-      "word": "张元英love舞台直拍",
-      "onboard_time": 1671243809,
-      "rank": 34,
-      "category": "音乐"
     },
     {
       "raw_hot": 148881,
@@ -659,6 +675,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 144640,
+      "num": 144640,
+      "word": "马伊琍吊带裙造型复古浪漫感",
+      "onboard_time": 1671237988,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 144399,
       "num": 144399,
       "word": "阿凡达2的水世界有多壮观",
@@ -691,28 +715,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 136162,
-      "num": 136162,
-      "word": "马伊琍吊带裙造型复古浪漫感",
-      "onboard_time": 1671237988,
-      "rank": 38,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 135331,
-      "num": 135331,
-      "word": "不要带长毛猫去玩雪",
-      "onboard_time": 1671243689,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 131467,
       "num": 131467,
       "word": "体彩部门回应男子花12万买彩票想退钱",
       "onboard_time": 1671189931,
       "rank": 39,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 131215,
+      "num": 131215,
+      "word": "小伙用武则天翻糖蛋糕拿下世界冠军",
+      "onboard_time": 1671244588,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 127514,
+      "num": 127514,
+      "word": "阿云嘎说谢谢你们对音乐剧的支持",
+      "onboard_time": 1671244827,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 126091,
@@ -785,6 +809,22 @@
       "onboard_time": 1671198635,
       "rank": 42,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 108902,
+      "num": 108902,
+      "word": "哈尔滨10人团队雕出巨型兔子雪雕",
+      "onboard_time": 1671244767,
+      "rank": 47,
+      "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 108252,
+      "num": 108252,
+      "word": "95后乡村小学老师教学生跳街舞",
+      "onboard_time": 1671244889,
+      "rank": 49,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 107336,
@@ -892,7 +932,7 @@
     },
     {
       "raw_hot": 41474,
-      "num": 1173110,
+      "num": 1371024,
       "word": "中国成功发射试验二十一号卫星",
       "onboard_time": 1671207087,
       "rank": 2,
