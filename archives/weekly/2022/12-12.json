@@ -1,6 +1,6 @@
 {
   "startTime": 1670775913271,
-  "endTime": 1671302064267,
+  "endTime": 1671304413779,
   "band_list": [
     {
       "raw_hot": 7857110,
@@ -14771,6 +14771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 83189,
+      "num": 83189,
+      "word": "中国留学生参加毕业典礼惊艳全场",
+      "onboard_time": 1671300795,
+      "rank": 48,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 82454,
       "num": 82454,
       "word": "我拍下的2022",
@@ -14865,6 +14873,14 @@
       "onboard_time": 1671055814,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 73082,
+      "num": 40438,
+      "word": "日本门将全程哭着采访",
+      "onboard_time": 1671301215,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 71066,
@@ -15043,14 +15059,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 49550,
-      "num": 49550,
-      "word": "中国留学生参加毕业典礼惊艳全场",
-      "onboard_time": 1671300795,
-      "rank": 48,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 48418,
       "num": 576792,
       "word": "Find N2",
@@ -15185,6 +15193,14 @@
       "onboard_time": 1671163231,
       "rank": 39,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 24859,
+      "num": 24859,
+      "word": "洗澡时浴霸起火女子教科书式扑救",
+      "onboard_time": 1671303014,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 23439,

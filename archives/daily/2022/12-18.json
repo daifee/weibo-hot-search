@@ -1,6 +1,6 @@
 {
   "startTime": 1671294199148,
-  "endTime": 1671302064267,
+  "endTime": 1671304413779,
   "band_list": [
     {
       "raw_hot": 2153870,
@@ -459,6 +459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 83189,
+      "num": 83189,
+      "word": "中国留学生参加毕业典礼惊艳全场",
+      "onboard_time": 1671300795,
+      "rank": 48,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 78790,
       "num": 127284,
       "word": "摩洛哥防守",
@@ -481,6 +489,14 @@
       "onboard_time": 1671282629,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 73082,
+      "num": 40438,
+      "word": "日本门将全程哭着采访",
+      "onboard_time": 1671301215,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 69363,
@@ -531,12 +547,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 49550,
-      "num": 49550,
-      "word": "中国留学生参加毕业典礼惊艳全场",
-      "onboard_time": 1671300795,
-      "rank": 48,
-      "category": "教育,社会新闻"
+      "raw_hot": 24859,
+      "num": 24859,
+      "word": "洗澡时浴霸起火女子教科书式扑救",
+      "onboard_time": 1671303014,
+      "rank": 45,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
