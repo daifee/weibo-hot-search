@@ -1,0 +1,410 @@
+{
+  "runTime": 1671286479553,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2698724,
+        "num": 2698724,
+        "word": "赵樱子首次回应红毯假摔",
+        "onboard_time": 1671283050,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1366395,
+        "num": 1366395,
+        "word": "转阴后失去味觉怎么办",
+        "onboard_time": 1671272369,
+        "rank": 1,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 137173,
+        "num": 1311877,
+        "word": "疫情期间5类人群膳食建议",
+        "onboard_time": 1671269908,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1999700,
+        "num": 1296711,
+        "word": "周柯宇 谈过恋爱",
+        "onboard_time": 1671283830,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1273708,
+        "num": 1273708,
+        "word": "少爷和我",
+        "onboard_time": 1671280351,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 874440,
+        "num": 874440,
+        "word": "买退烧药被自动退货一看价格翻8倍",
+        "onboard_time": 1671276209,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 715114,
+        "num": 715114,
+        "word": "苏州核酸采样屋变身发热诊疗站",
+        "onboard_time": 1671282149,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 558262,
+        "num": 558262,
+        "word": "红糖姜葱汤",
+        "onboard_time": 1671267748,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 464395,
+        "num": 464395,
+        "word": "牛肉方便面里真的有牛肉了",
+        "onboard_time": 1671284491,
+        "rank": 8,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 436339,
+        "num": 436339,
+        "word": "2人毒杀狗被发现后不慎掉下路基",
+        "onboard_time": 1671275249,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 883618,
+        "num": 436162,
+        "word": "郭晓婷回应没当过女一",
+        "onboard_time": 1671277529,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 542135,
+        "num": 435439,
+        "word": "山东血库A型血O型血仅剩3天用量",
+        "onboard_time": 1671276989,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 762050,
+        "num": 435366,
+        "word": "成龙说刘耀文的言行举止很像年轻的吴彦祖",
+        "onboard_time": 1671282330,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 434089,
+        "num": 434089,
+        "word": "虞书欣直播",
+        "onboard_time": 1671279389,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 385636,
+        "num": 385636,
+        "word": "梅西生日居然是阿根廷的节日",
+        "onboard_time": 1671279268,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 358169,
+        "num": 358169,
+        "word": "新疆100块钱的糕点",
+        "onboard_time": 1671285094,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 322268,
+        "num": 322268,
+        "word": "吴尊友回应新十条为什么要等三年",
+        "onboard_time": 1671280470,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 710724,
+        "num": 321103,
+        "word": "惠英红赵雅芝为薛凯琪吵架",
+        "onboard_time": 1671280830,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 316775,
+        "num": 316775,
+        "word": "孩子反复高烧宝妈记录41次体温",
+        "onboard_time": 1671280408,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305115,
+        "num": 305115,
+        "word": "XYG 状态",
+        "onboard_time": 1671282629,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 679565,
+        "num": 303138,
+        "word": "17岁女孩在家中遭4人揪头发打耳光",
+        "onboard_time": 1671274713,
+        "rank": 20,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 419395,
+        "num": 302465,
+        "word": "迪幂孟扎",
+        "onboard_time": 1671286113,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 412565,
+        "num": 301579,
+        "word": "陈楚生全开麦唱功",
+        "onboard_time": 1671286229,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 300174,
+        "num": 300174,
+        "word": "我国是布洛芬原料药最大生产国",
+        "onboard_time": 1671273088,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254992,
+        "num": 254992,
+        "word": "克罗地亚 预测",
+        "onboard_time": 1671285152,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 235530,
+        "num": 235530,
+        "word": "喉咙痛可以吃冰棍缓解吗",
+        "onboard_time": 1671270926,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227795,
+        "num": 227795,
+        "word": "阳康后多久能产生抗体",
+        "onboard_time": 1671268766,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210601,
+        "num": 210601,
+        "word": "医院发热门诊9成患者是阳性",
+        "onboard_time": 1671265225,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207349,
+        "num": 207349,
+        "word": "你网购买的药到货了吗",
+        "onboard_time": 1671284010,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191990,
+        "num": 191990,
+        "word": "WBG小蜘蛛夺冠",
+        "onboard_time": 1671284491,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 293027,
+        "num": 191684,
+        "word": "单依纯演唱会",
+        "onboard_time": 1671284850,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 289673,
+        "num": 191011,
+        "word": "再就业男团15年限定版倔强舞台",
+        "onboard_time": 1671285269,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 283660,
+        "num": 190604,
+        "word": "某某某获喜剧大赛2第一名",
+        "onboard_time": 1671286172,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 519947,
+        "num": 189799,
+        "word": "吴镇宇 为什么摔得那么假呢",
+        "onboard_time": 1671285751,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198623,
+        "num": 189475,
+        "word": "河南发布2023年全国硕士研究生考试须知",
+        "onboard_time": 1671286172,
+        "rank": 34,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 251159,
+        "num": 188681,
+        "word": "张歆艺呼吁要多给产后女性呵护",
+        "onboard_time": 1671280950,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188592,
+        "num": 188592,
+        "word": "常州市民晒政府免费发的抗疫药",
+        "onboard_time": 1671276450,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179036,
+        "num": 179036,
+        "word": "二次感染比例究竟有多高",
+        "onboard_time": 1671271709,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174139,
+        "num": 174139,
+        "word": "男子无意刷到老婆和别人婚礼视频",
+        "onboard_time": 1671285930,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162846,
+        "num": 162846,
+        "word": "你有没有忘不掉的某某某",
+        "onboard_time": 1671282389,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 159828,
+        "num": 159828,
+        "word": "辽宁男篮vs浙江男篮",
+        "onboard_time": 1671280530,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148208,
+        "num": 148208,
+        "word": "怎么忍心拒绝这么热情的猫",
+        "onboard_time": 1671281008,
+        "rank": 41,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 147281,
+        "num": 147281,
+        "word": "老师收到辣油浸泡过的作业本",
+        "onboard_time": 1671285391,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145184,
+        "num": 145184,
+        "word": "零下30度的东北早市",
+        "onboard_time": 1671278191,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 733088,
+        "num": 145176,
+        "word": "这姐真的太疯了",
+        "onboard_time": 1671285568,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129596,
+        "num": 145094,
+        "word": "提高免疫力的正确打开方式",
+        "onboard_time": 1671268647,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123232,
+        "num": 145020,
+        "word": "村医把1000片药分成百份送给村民",
+        "onboard_time": 1671271408,
+        "rank": 46,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 122796,
+        "num": 145001,
+        "word": "为什么不建议大家去抢购仿制药",
+        "onboard_time": 1671283471,
+        "rank": 47,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 114331,
+        "num": 144886,
+        "word": "有雪又有海的城市真的很浪漫",
+        "onboard_time": 1671275008,
+        "rank": 48,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 111740,
+        "num": 144874,
+        "word": "4岁儿子踩椅子给阳性妈妈做饭",
+        "onboard_time": 1671286472,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#为全面建设社会主义现代化国家开好局起好步#"
+    }
+  }
+}

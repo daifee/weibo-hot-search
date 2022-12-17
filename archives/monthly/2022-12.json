@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1671283982410,
+  "endTime": 1671286479553,
   "band_list": [
     {
       "raw_hot": 13790167,
@@ -585,6 +585,14 @@
       "onboard_time": 1670292764,
       "rank": 3,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 2698724,
+      "num": 2698724,
+      "word": "赵樱子首次回应红毯假摔",
+      "onboard_time": 1671283050,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 2697329,
@@ -1377,6 +1385,14 @@
       "onboard_time": 1670244071,
       "rank": 34,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 1999700,
+      "num": 1296711,
+      "word": "周柯宇 谈过恋爱",
+      "onboard_time": 1671283830,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 1984879,
@@ -6531,6 +6547,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 762050,
+      "num": 746168,
+      "word": "成龙说刘耀文的言行举止很像年轻的吴彦祖",
+      "onboard_time": 1671282330,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 761659,
       "num": 632194,
       "word": "女子割腕送医跳楼身亡亲属索赔被驳",
@@ -6683,14 +6707,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 746168,
-      "num": 746168,
-      "word": "成龙说刘耀文的言行举止很像年轻的吴彦祖",
-      "onboard_time": 1671282330,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 746045,
       "num": 736680,
       "word": "明星们一定要这样带货吗",
@@ -6833,6 +6849,14 @@
       "onboard_time": 1670839577,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 733088,
+      "num": 145176,
+      "word": "这姐真的太疯了",
+      "onboard_time": 1671285568,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 732745,
@@ -7072,6 +7096,14 @@
       "word": "开塞露救了差点被剪的蓝宝石戒指",
       "onboard_time": 1671260246,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 715114,
+      "num": 715114,
+      "word": "苏州核酸采样屋变身发热诊疗站",
+      "onboard_time": 1671282149,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -8931,14 +8963,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 609791,
-      "num": 609791,
-      "word": "赵樱子首次回应红毯假摔",
-      "onboard_time": 1671283050,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 609773,
       "num": 836953,
       "word": "熬夜让内分泌紊乱易患结节或肿瘤",
@@ -9575,14 +9599,6 @@
       "num": 1473720,
       "word": "10岁女孩失踪4月家长悬赏百万",
       "onboard_time": 1670233872,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 580180,
-      "num": 580180,
-      "word": "苏州核酸采样屋变身发热诊疗站",
-      "onboard_time": 1671282149,
       "rank": 19,
       "category": "社会新闻"
     },
@@ -10801,6 +10817,14 @@
       "onboard_time": 1670462890,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 519947,
+      "num": 189799,
+      "word": "吴镇宇 为什么摔得那么假呢",
+      "onboard_time": 1671285751,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 519941,
@@ -12161,6 +12185,14 @@
       "onboard_time": 1671068910,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 464395,
+      "num": 464395,
+      "word": "牛肉方便面里真的有牛肉了",
+      "onboard_time": 1671284491,
+      "rank": 8,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 464283,
@@ -13539,6 +13571,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 419395,
+      "num": 302465,
+      "word": "迪幂孟扎",
+      "onboard_time": 1671286113,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 419306,
       "num": 419306,
       "word": "小猫咪有多怕冷",
@@ -13849,6 +13889,14 @@
       "onboard_time": 1670319549,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 412565,
+      "num": 301579,
+      "word": "陈楚生全开麦唱功",
+      "onboard_time": 1671286229,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 412336,
@@ -14939,6 +14987,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 385636,
+      "num": 385636,
+      "word": "梅西生日居然是阿根廷的节日",
+      "onboard_time": 1671279268,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 385206,
       "num": 808113,
       "word": "内马尔看台观战",
@@ -15376,14 +15432,6 @@
       "word": "范志毅说C罗替补是好事",
       "onboard_time": 1670379851,
       "rank": 19,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 370085,
-      "num": 370085,
-      "word": "梅西生日居然是阿根廷的节日",
-      "onboard_time": 1671279268,
-      "rank": 29,
       "category": "体育"
     },
     {
@@ -15889,6 +15937,14 @@
       "onboard_time": 1669997951,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 358169,
+      "num": 358169,
+      "word": "新疆100块钱的糕点",
+      "onboard_time": 1671285094,
+      "rank": 15,
+      "category": "美食"
     },
     {
       "raw_hot": 357778,
@@ -17499,14 +17555,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 322262,
-      "num": 174923,
-      "word": "周柯宇 谈过恋爱",
-      "onboard_time": 1671283830,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 322257,
       "num": 204614,
       "word": "蔡徐坤废墟朋克HardToGet",
@@ -19027,6 +19075,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 293027,
+      "num": 191684,
+      "word": "单依纯演唱会",
+      "onboard_time": 1671284850,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 292917,
       "num": 292917,
       "word": "四级阅读",
@@ -19241,6 +19297,14 @@
       "onboard_time": 1671030933,
       "rank": 47,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 289673,
+      "num": 191011,
+      "word": "再就业男团15年限定版倔强舞台",
+      "onboard_time": 1671285269,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 289534,
@@ -19569,6 +19633,14 @@
       "onboard_time": 1671107376,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 283660,
+      "num": 190604,
+      "word": "某某某获喜剧大赛2第一名",
+      "onboard_time": 1671286172,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 283236,
@@ -21251,6 +21323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 254992,
+      "num": 254992,
+      "word": "克罗地亚 预测",
+      "onboard_time": 1671285152,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 254814,
       "num": 1090415,
       "word": "不同人群健康防护实用指南",
@@ -21465,6 +21545,14 @@
       "onboard_time": 1670046910,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 251159,
+      "num": 188681,
+      "word": "张歆艺呼吁要多给产后女性呵护",
+      "onboard_time": 1671280950,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 251087,
@@ -22657,14 +22745,6 @@
       "onboard_time": 1670488220,
       "rank": 43,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 235240,
-      "num": 186817,
-      "word": "张歆艺呼吁要多给产后女性呵护",
-      "onboard_time": 1671280950,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 235215,
@@ -24811,6 +24891,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 207349,
+      "num": 207349,
+      "word": "你网购买的药到货了吗",
+      "onboard_time": 1671284010,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 207269,
       "num": 207269,
       "word": "阳过何时可以返岗",
@@ -25337,6 +25425,14 @@
       "onboard_time": 1671190472,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 198623,
+      "num": 189475,
+      "word": "河南发布2023年全国硕士研究生考试须知",
+      "onboard_time": 1671286172,
+      "rank": 34,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 198621,
@@ -26145,6 +26241,14 @@
       "onboard_time": 1671011956,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 191990,
+      "num": 191990,
+      "word": "WBG小蜘蛛夺冠",
+      "onboard_time": 1671284491,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 191892,
@@ -28249,6 +28353,14 @@
       "onboard_time": 1670380632,
       "rank": 28,
       "category": "科技"
+    },
+    {
+      "raw_hot": 174139,
+      "num": 174139,
+      "word": "男子无意刷到老婆和别人婚礼视频",
+      "onboard_time": 1671285930,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 174025,
@@ -31523,6 +31635,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 148208,
+      "num": 148208,
+      "word": "怎么忍心拒绝这么热情的猫",
+      "onboard_time": 1671281008,
+      "rank": 49,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 148111,
       "num": 148111,
       "word": "好身材运动伴侣太好嗑了",
@@ -31625,6 +31745,14 @@
       "onboard_time": 1670491457,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 147281,
+      "num": 147281,
+      "word": "老师收到辣油浸泡过的作业本",
+      "onboard_time": 1671285391,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 147272,
@@ -34723,6 +34851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 122796,
+      "num": 145001,
+      "word": "为什么不建议大家去抢购仿制药",
+      "onboard_time": 1671283471,
+      "rank": 49,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 122784,
       "num": 122784,
       "word": "藏在WB西装里的小心思",
@@ -35137,14 +35273,6 @@
       "onboard_time": 1670231773,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 118957,
-      "num": 118957,
-      "word": "怎么忍心拒绝这么热情的猫",
-      "onboard_time": 1671281008,
-      "rank": 49,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 118911,
@@ -35595,14 +35723,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 114608,
-      "num": 114608,
-      "word": "为什么不建议大家去抢购仿制药",
-      "onboard_time": 1671283471,
-      "rank": 49,
-      "category": "社会议题"
-    },
-    {
       "raw_hot": 114517,
       "num": 237699,
       "word": "重庆疫情走势处于下降期",
@@ -35857,6 +35977,14 @@
       "onboard_time": 1669928408,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 111740,
+      "num": 144874,
+      "word": "4岁儿子踩椅子给阳性妈妈做饭",
+      "onboard_time": 1671286472,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 111722,
