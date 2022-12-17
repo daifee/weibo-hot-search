@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1671297268721,
+  "endTime": 1671298392205,
   "band_list": [
     {
       "raw_hot": 13790167,
@@ -3067,6 +3067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1259413,
+      "num": 1259413,
+      "word": "克罗地亚世界杯季军",
+      "onboard_time": 1671296484,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1257268,
       "num": 1257268,
       "word": "内马尔说这是最伤心的失利",
@@ -3089,6 +3097,14 @@
       "onboard_time": 1670995334,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1253440,
+      "num": 1253440,
+      "word": "摩洛哥围攻裁判",
+      "onboard_time": 1671296245,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 1252029,
@@ -3777,14 +3793,6 @@
       "onboard_time": 1670905272,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1111349,
-      "num": 1111349,
-      "word": "克罗地亚世界杯季军",
-      "onboard_time": 1671296484,
-      "rank": 3,
-      "category": "体育"
     },
     {
       "raw_hot": 1111330,
@@ -5448,14 +5456,6 @@
       "word": "世界杯4强出炉",
       "onboard_time": 1670714530,
       "rank": 5,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 871829,
-      "num": 871829,
-      "word": "摩洛哥围攻裁判",
-      "onboard_time": 1671296245,
-      "rank": 6,
       "category": "体育"
     },
     {
@@ -10259,6 +10259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 551065,
+      "num": 391131,
+      "word": "苏醒解说",
+      "onboard_time": 1671295703,
+      "rank": 20,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 550209,
       "num": 378930,
       "word": "王一博口罩上印着无名",
@@ -10401,14 +10409,6 @@
       "onboard_time": 1671259166,
       "rank": 9,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 544078,
-      "num": 251217,
-      "word": "苏醒解说",
-      "onboard_time": 1671295703,
-      "rank": 20,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 543874,
@@ -29348,7 +29348,7 @@
     },
     {
       "raw_hot": 168560,
-      "num": 143660,
+      "num": 154184,
       "word": "不再使用的核酸采样点也有大作用",
       "onboard_time": 1671294326,
       "rank": 39,
@@ -33097,6 +33097,14 @@
       "onboard_time": 1669968851,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 139361,
+      "num": 139361,
+      "word": "莫德里奇世界杯最后一舞",
+      "onboard_time": 1671296961,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 139355,
@@ -37731,14 +37739,6 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 94983,
-      "num": 94983,
-      "word": "莫德里奇世界杯最后一舞",
-      "onboard_time": 1671296961,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 94969,
       "num": 94969,
       "word": "部落冲突",
@@ -38787,6 +38787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 63358,
+      "num": 71439,
+      "word": "摩洛哥失误",
+      "onboard_time": 1671295761,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 62579,
       "num": 62579,
       "word": "我的N宫格挑战",
@@ -39024,6 +39032,14 @@
       "word": "莫拉塔破门",
       "onboard_time": 1669924567,
       "rank": 17,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 50448,
+      "num": 71403,
+      "word": "克罗地亚踢得放松",
+      "onboard_time": 1671297980,
+      "rank": 49,
       "category": "体育"
     },
     {

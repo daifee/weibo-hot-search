@@ -1,0 +1,410 @@
+{
+  "runTime": 1671298392205,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1259413,
+        "num": 1259413,
+        "word": "克罗地亚世界杯季军",
+        "onboard_time": 1671296484,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1253440,
+        "num": 1253440,
+        "word": "摩洛哥围攻裁判",
+        "onboard_time": 1671296245,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97717,
+        "num": 1099068,
+        "word": "阳性居家治疗时怎样保护家人",
+        "onboard_time": 1671275548,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1064532,
+        "num": 1064532,
+        "word": "克罗地亚2比1摩洛哥",
+        "onboard_time": 1671296245,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 997087,
+        "num": 997087,
+        "word": "赵樱子 尬",
+        "onboard_time": 1671287492,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 767994,
+        "num": 767994,
+        "word": "迪幂孟扎",
+        "onboard_time": 1671286113,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 701679,
+        "num": 701679,
+        "word": "魔笛 帅",
+        "onboard_time": 1671291749,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 686904,
+        "num": 686904,
+        "word": "宋仲基 抿嘴",
+        "onboard_time": 1671291570,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 458979,
+        "num": 458979,
+        "word": "男子无意刷到老婆和别人婚礼视频",
+        "onboard_time": 1671285930,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 405267,
+        "num": 405267,
+        "word": "河南一麦地现10层高楼当地避而不谈",
+        "onboard_time": 1671292472,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 551065,
+        "num": 391131,
+        "word": "苏醒解说",
+        "onboard_time": 1671295703,
+        "rank": 10,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 534776,
+        "num": 385867,
+        "word": "惠英红说沈月的脸是老天赏饭吃",
+        "onboard_time": 1671290010,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 528502,
+        "num": 384847,
+        "word": "这姐真的太疯了",
+        "onboard_time": 1671285568,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 324504,
+        "num": 324504,
+        "word": "克罗地亚半场2比1摩洛哥",
+        "onboard_time": 1671292409,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 303259,
+        "num": 303259,
+        "word": "莫德里奇",
+        "onboard_time": 1671289588,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 287567,
+        "num": 287567,
+        "word": "克罗地亚摩洛哥 观赏性",
+        "onboard_time": 1671293129,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 279589,
+        "num": 279589,
+        "word": "克罗地亚获得世界杯季军",
+        "onboard_time": 1671296663,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 274139,
+        "num": 274139,
+        "word": "男孩理发店内虐待小狗被咬",
+        "onboard_time": 1671290551,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219316,
+        "num": 219316,
+        "word": "克罗地亚vs摩洛哥",
+        "onboard_time": 1671261506,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 208344,
+        "num": 208344,
+        "word": "吴尊友回应新十条为什么要等三年",
+        "onboard_time": 1671280470,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 432136,
+        "num": 206544,
+        "word": "世界杯现场响起张杰的逆战",
+        "onboard_time": 1671291688,
+        "rank": 20,
+        "category": "体育,音乐"
+      },
+      {
+        "raw_hot": 365606,
+        "num": 204731,
+        "word": "周柯宇 谈过恋爱",
+        "onboard_time": 1671283830,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 353910,
+        "num": 204345,
+        "word": "周杰伦演唱会",
+        "onboard_time": 1671289588,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 201885,
+        "num": 201885,
+        "word": "转阴后失去味觉怎么办",
+        "onboard_time": 1671272369,
+        "rank": 23,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 177024,
+        "num": 177024,
+        "word": "新疆100块钱的糕点",
+        "onboard_time": 1671285094,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 157174,
+        "num": 157174,
+        "word": "17岁女孩在家中遭4人揪头发打耳光",
+        "onboard_time": 1671274713,
+        "rank": 25,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 154184,
+        "num": 154184,
+        "word": "不再使用的核酸采样点也有大作用",
+        "onboard_time": 1671294326,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145946,
+        "num": 145946,
+        "word": "牛肉方便面里真的有牛肉了",
+        "onboard_time": 1671284491,
+        "rank": 27,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 139361,
+        "num": 139361,
+        "word": "莫德里奇世界杯最后一舞",
+        "onboard_time": 1671296961,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131910,
+        "num": 131910,
+        "word": "2人毒杀狗被发现后不慎掉下路基",
+        "onboard_time": 1671275249,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232947,
+        "num": 130157,
+        "word": "某某某获喜剧大赛2第一名",
+        "onboard_time": 1671286172,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 226612,
+        "num": 129125,
+        "word": "吴镇宇 为什么摔得那么假呢",
+        "onboard_time": 1671285751,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208305,
+        "num": 127573,
+        "word": "少爷和我",
+        "onboard_time": 1671280351,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176658,
+        "num": 125994,
+        "word": "虞书欣直播",
+        "onboard_time": 1671279389,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124745,
+        "num": 124745,
+        "word": "苏州核酸屋变身值得借鉴吗",
+        "onboard_time": 1671289172,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111917,
+        "num": 111917,
+        "word": "济南已投放110万片布洛芬",
+        "onboard_time": 1671288572,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107003,
+        "num": 107003,
+        "word": "世界杯",
+        "onboard_time": 1671271767,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90303,
+        "num": 90303,
+        "word": "摩洛哥 黑马",
+        "onboard_time": 1671297141,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89345,
+        "num": 89345,
+        "word": "我国是布洛芬原料药最大生产国",
+        "onboard_time": 1671273088,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87582,
+        "num": 87582,
+        "word": "男子购买鱿鱼片仅有包装展示一小块",
+        "onboard_time": 1671288334,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170831,
+        "num": 82901,
+        "word": "财阀家的小儿子 爷爷下线",
+        "onboard_time": 1671287672,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 154259,
+        "num": 81116,
+        "word": "毒蛇吐信子没有脚印子",
+        "onboard_time": 1671294086,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77526,
+        "num": 77526,
+        "word": "摩洛哥球迷",
+        "onboard_time": 1671292110,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 73659,
+        "num": 73659,
+        "word": "4岁儿子踩椅子给阳性妈妈做饭",
+        "onboard_time": 1671286472,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71553,
+        "num": 71553,
+        "word": "梅西生日居然是阿根廷的节日",
+        "onboard_time": 1671279268,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 71454,
+        "num": 71454,
+        "word": "丈夫记录妻子感染现状被问开美颜没",
+        "onboard_time": 1671289230,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64356,
+        "num": 71452,
+        "word": "XYG 状态",
+        "onboard_time": 1671282629,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 63358,
+        "num": 71439,
+        "word": "摩洛哥失误",
+        "onboard_time": 1671295761,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 54156,
+        "num": 71427,
+        "word": "老师收到辣油浸泡过的作业本",
+        "onboard_time": 1671285391,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50448,
+        "num": 71403,
+        "word": "克罗地亚踢得放松",
+        "onboard_time": 1671297980,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#为全面建设社会主义现代化国家开好局起好步#"
+    }
+  }
+}
