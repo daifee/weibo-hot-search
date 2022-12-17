@@ -1,6 +1,6 @@
 {
   "startTime": 1671207916313,
-  "endTime": 1671266100789,
+  "endTime": 1671268572568,
   "band_list": [
     {
       "raw_hot": 2621376,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2043815,
-      "num": 841786,
+      "num": 899008,
       "word": "易梦玲回应穿山寨礼服",
       "onboard_time": 1671258863,
       "rank": 21,
@@ -99,6 +99,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 957249,
+      "num": 957249,
+      "word": "医院发热门诊9成患者是阳性",
+      "onboard_time": 1671265225,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 941245,
       "num": 941245,
       "word": "陈慧琳与儿子出车祸",
@@ -137,6 +145,14 @@
       "onboard_time": 1671238948,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 847474,
+      "num": 387842,
+      "word": "张艺兴哈佛商学院演讲视频",
+      "onboard_time": 1671266847,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 807124,
@@ -355,20 +371,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 503776,
+      "num": 503776,
+      "word": "批发市场柠檬被人疯抢",
+      "onboard_time": 1671262408,
+      "rank": 9,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 485181,
       "num": 485181,
       "word": "张伯礼提醒警惕奥密克戎不断变异",
       "onboard_time": 1671229574,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 483005,
-      "num": 483005,
-      "word": "批发市场柠檬被人疯抢",
-      "onboard_time": 1671262408,
-      "rank": 9,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 466609,
@@ -412,7 +428,7 @@
     },
     {
       "raw_hot": 450555,
-      "num": 359041,
+      "num": 436076,
       "word": "药店回应1瓶酒精50毫升卖9元",
       "onboard_time": 1671262826,
       "rank": 11,
@@ -497,6 +513,22 @@
       "onboard_time": 1671206069,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 392173,
+      "num": 392173,
+      "word": "卡塔尔偶遇中文八级外国人",
+      "onboard_time": 1671263187,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 383934,
+      "num": 383934,
+      "word": "易梦玲朋友回应",
+      "onboard_time": 1671265947,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 382934,
@@ -627,14 +659,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 302720,
-      "num": 302720,
-      "word": "卡塔尔偶遇中文八级外国人",
-      "onboard_time": 1671263187,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
       "raw_hot": 293716,
       "num": 293716,
       "word": "今冬疫情面临一峰三波",
@@ -665,6 +689,22 @@
       "onboard_time": 1671247349,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 279833,
+      "num": 279833,
+      "word": "红糖姜葱汤",
+      "onboard_time": 1671267748,
+      "rank": 15,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 273046,
+      "num": 273046,
+      "word": "被财阀家的小儿子爷孙俩虐到了",
+      "onboard_time": 1671265288,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 268688,
@@ -852,7 +892,7 @@
     },
     {
       "raw_hot": 217431,
-      "num": 846475,
+      "num": 903674,
       "word": "居家消毒的8个常见误区",
       "onboard_time": 1671261029,
       "rank": 2,
@@ -865,6 +905,14 @@
       "onboard_time": 1671251730,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 213829,
+      "num": 213829,
+      "word": "内马尔回国开派对遭批",
+      "onboard_time": 1671267808,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 209639,
@@ -987,20 +1035,12 @@
       "category": "美食,情感"
     },
     {
-      "raw_hot": 190032,
-      "num": 189689,
-      "word": "医院发热门诊9成患者是阳性",
-      "onboard_time": 1671265225,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 189935,
-      "num": 189935,
-      "word": "被财阀家的小儿子爷孙俩虐到了",
-      "onboard_time": 1671265288,
-      "rank": 45,
-      "category": "影视"
+      "raw_hot": 189829,
+      "num": 189829,
+      "word": "华晨宇希忘Hope专辑封面首曝光",
+      "onboard_time": 1671268166,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 188910,
@@ -1073,6 +1113,14 @@
       "onboard_time": 1671243809,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 175949,
+      "num": 175949,
+      "word": "交警抱起高烧晕厥女童嘶吼狂奔",
+      "onboard_time": 1671266847,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 175206,
@@ -1155,6 +1203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 168222,
+      "num": 168222,
+      "word": "马嘉祺想做不敢做的事是吃生腌",
+      "onboard_time": 1671267926,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 165729,
       "num": 165729,
       "word": "任嘉伦新歌唱跳",
@@ -1177,14 +1233,6 @@
       "onboard_time": 1671258986,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 165011,
-      "num": 165011,
-      "word": "易梦玲朋友回应",
-      "onboard_time": 1671265947,
-      "rank": 37,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 164694,
@@ -1307,6 +1355,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 146896,
+      "num": 146896,
+      "word": "王心凌说自己的爱好是工作",
+      "onboard_time": 1671267507,
+      "rank": 37,
+      "category": "音乐,体育"
+    },
+    {
       "raw_hot": 146326,
       "num": 146326,
       "word": "国庆档后电影票房首次破亿",
@@ -1371,6 +1427,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 141662,
+      "num": 141662,
+      "word": "方文山说任嘉伦年轻有想法的音乐人",
+      "onboard_time": 1671267028,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 140630,
       "num": 136127,
       "word": "网曝大连一医院不收阳性患者",
@@ -1400,6 +1464,14 @@
       "word": "世界杯决赛",
       "onboard_time": 1671178766,
       "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 132132,
+      "num": 132132,
+      "word": "梅西惊人球感",
+      "onboard_time": 1671266066,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -1443,12 +1515,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 127188,
+      "num": 127188,
+      "word": "NCTDREAM音中初舞台",
+      "onboard_time": 1671267507,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 126928,
+      "num": 126928,
+      "word": "海南岛国际电影节开幕红毯",
+      "onboard_time": 1671266608,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 126091,
       "num": 126091,
       "word": "BoA李泰容李帝努合作舞台",
       "onboard_time": 1671239306,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 125461,
+      "num": 125461,
+      "word": "看着不好惹却好脾气的小猫",
+      "onboard_time": 1671268527,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 124546,
@@ -1465,6 +1561,14 @@
       "onboard_time": 1671237806,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 124237,
+      "num": 124237,
+      "word": "神农架国家公园梦幻晨雾",
+      "onboard_time": 1671268228,
+      "rank": 49,
+      "category": "旅游,自然"
     },
     {
       "raw_hot": 121583,
@@ -1641,14 +1745,6 @@
       "onboard_time": 1671250769,
       "rank": 48,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 96830,
-      "num": 111037,
-      "word": "梅西惊人球感",
-      "onboard_time": 1671266066,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 92564,
