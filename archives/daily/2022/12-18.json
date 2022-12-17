@@ -1,6 +1,6 @@
 {
   "startTime": 1671294199148,
-  "endTime": 1671301218118,
+  "endTime": 1671302064267,
   "band_list": [
     {
       "raw_hot": 2153870,
@@ -355,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 166822,
+      "num": 166822,
+      "word": "莫德里奇世界杯最后一舞",
+      "onboard_time": 1671296961,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 166584,
       "num": 166584,
       "word": "摩洛哥球迷",
@@ -384,14 +392,6 @@
       "word": "摩洛哥 黑马",
       "onboard_time": 1671297141,
       "rank": 35,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 139361,
-      "num": 139361,
-      "word": "莫德里奇世界杯最后一舞",
-      "onboard_time": 1671296961,
-      "rank": 44,
       "category": "体育"
     },
     {
@@ -515,6 +515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 53935,
+      "num": 53935,
+      "word": "你网购买的药到货了吗",
+      "onboard_time": 1671284010,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 50448,
       "num": 71403,
       "word": "克罗地亚踢得放松",
@@ -523,16 +531,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 49553,
-      "num": 49553,
-      "word": "你网购买的药到货了吗",
-      "onboard_time": 1671284010,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 24041,
-      "num": 47018,
+      "raw_hot": 49550,
+      "num": 49550,
       "word": "中国留学生参加毕业典礼惊艳全场",
       "onboard_time": 1671300795,
       "rank": 48,
