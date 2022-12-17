@@ -1,0 +1,410 @@
+{
+  "runTime": 1671262377174,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1123743,
+        "num": 1123743,
+        "word": "男子发烧超40度脸部全是汗还冒烟",
+        "onboard_time": 1671252630,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 859952,
+        "num": 859952,
+        "word": "浙江党政机关企事业单位带头不再查验核酸",
+        "onboard_time": 1671257066,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143612,
+        "num": 637748,
+        "word": "居家消毒的8个常见误区",
+        "onboard_time": 1671261029,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2043815,
+        "num": 610793,
+        "word": "易梦玲回应穿山寨礼服",
+        "onboard_time": 1671258863,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 560572,
+        "num": 560572,
+        "word": "有人在天津儿童医院卖美林一瓶2500",
+        "onboard_time": 1671259947,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 544124,
+        "num": 544124,
+        "word": "郑州研考生须进行两次核酸检测",
+        "onboard_time": 1671259166,
+        "rank": 5,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 489884,
+        "num": 489884,
+        "word": "女子发烧被老妈摊一脸大饼",
+        "onboard_time": 1671253348,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 485592,
+        "num": 485592,
+        "word": "女子感冒去诊所配药2元一包",
+        "onboard_time": 1671255928,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 450581,
+        "num": 450581,
+        "word": "抗原T区颜色越深病情越重吗",
+        "onboard_time": 1671255326,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 428305,
+        "num": 428305,
+        "word": "刘耀文向成龙毛遂自荐",
+        "onboard_time": 1671256829,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 553463,
+        "num": 426870,
+        "word": "成华区",
+        "onboard_time": 1671241887,
+        "rank": 10,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 424019,
+        "num": 424019,
+        "word": "为什么咽口水像吞刀片",
+        "onboard_time": 1671241167,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 393044,
+        "num": 393044,
+        "word": "儿媳阳性公婆紧急从外地赶回照顾",
+        "onboard_time": 1671248251,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 389148,
+        "num": 389148,
+        "word": "官方通报网传干部发不雅信息",
+        "onboard_time": 1671243508,
+        "rank": 13,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 387774,
+        "num": 387774,
+        "word": "开塞露救了差点被剪的蓝宝石戒指",
+        "onboard_time": 1671260246,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371583,
+        "num": 371583,
+        "word": "孩子银手镯变色意外发现汞中毒",
+        "onboard_time": 1671257427,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 331667,
+        "num": 331667,
+        "word": "县委大院做五休二",
+        "onboard_time": 1671252388,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 324665,
+        "num": 324665,
+        "word": "腰疼背疼是因为抗病毒的它在工作",
+        "onboard_time": 1671248130,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293716,
+        "num": 293716,
+        "word": "今冬疫情面临一峰三波",
+        "onboard_time": 1671256888,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268688,
+        "num": 268688,
+        "word": "aespaRedVelvet圣诞颂MV幕后花絮照",
+        "onboard_time": 1671261867,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 264246,
+        "num": 264246,
+        "word": "女生囤的连花清瘟一次没吃全过期",
+        "onboard_time": 1671240746,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251342,
+        "num": 251342,
+        "word": "进口退烧药遭哄抢",
+        "onboard_time": 1671253168,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231464,
+        "num": 231464,
+        "word": "专家建议两次抗原阴性就可以返岗",
+        "onboard_time": 1671245067,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212447,
+        "num": 212447,
+        "word": "于正回应许凯谭松韵新剧番位",
+        "onboard_time": 1671250228,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 196725,
+        "num": 196725,
+        "word": "阳了要保证充足蛋白质摄入",
+        "onboard_time": 1671260845,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192564,
+        "num": 192564,
+        "word": "陈慧琳与儿子出车祸",
+        "onboard_time": 1671245189,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182287,
+        "num": 182287,
+        "word": "吴尊友分析今冬新冠疫情形势",
+        "onboard_time": 1671257366,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178859,
+        "num": 178859,
+        "word": "岳云鹏分享感染新冠后的感受",
+        "onboard_time": 1671246809,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172910,
+        "num": 172910,
+        "word": "蛋仔派对",
+        "onboard_time": 1671254788,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 168866,
+        "num": 168866,
+        "word": "本泽马德尚关系破裂",
+        "onboard_time": 1671254248,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 181284,
+        "num": 168486,
+        "word": "骑行男子遇荒废别墅区挑1栋入住",
+        "onboard_time": 1671261146,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167849,
+        "num": 167849,
+        "word": "小伙用武则天翻糖蛋糕拿下世界冠军",
+        "onboard_time": 1671244588,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165729,
+        "num": 165729,
+        "word": "任嘉伦新歌唱跳",
+        "onboard_time": 1671261627,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 163620,
+        "num": 163620,
+        "word": "吴磊赵露思星汉灿烂美国播出",
+        "onboard_time": 1671262168,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 162067,
+        "num": 162067,
+        "word": "GQ盛典红毯幕后故事",
+        "onboard_time": 1671261627,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 155282,
+        "num": 155282,
+        "word": "研究称寄生虫能将人体细胞变僵尸",
+        "onboard_time": 1671261867,
+        "rank": 35,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 153714,
+        "num": 153714,
+        "word": "财阀家的小儿子奶奶是凶手",
+        "onboard_time": 1671240326,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 147864,
+        "num": 147864,
+        "word": "Faker的首选是Viper",
+        "onboard_time": 1671251607,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 146326,
+        "num": 146326,
+        "word": "国庆档后电影票房首次破亿",
+        "onboard_time": 1671261867,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 145234,
+        "num": 145234,
+        "word": "申有娜的腰部线条",
+        "onboard_time": 1671241467,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 137812,
+        "num": 137812,
+        "word": "陈飞宇张婧仪合唱录歌vlog",
+        "onboard_time": 1671253048,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 135971,
+        "num": 135971,
+        "word": "克罗地亚vs摩洛哥",
+        "onboard_time": 1671261506,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135019,
+        "num": 135019,
+        "word": "你身体的免疫系统有多努力",
+        "onboard_time": 1671252746,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132824,
+        "num": 132824,
+        "word": "张凌赫云之羽看到代拍的反应",
+        "onboard_time": 1671260187,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 130631,
+        "num": 130631,
+        "word": "世界杯季军赛今晚上演",
+        "onboard_time": 1671258986,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122638,
+        "num": 122638,
+        "word": "IE将在2023年2月14日永久禁用",
+        "onboard_time": 1671259285,
+        "rank": 45,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 119315,
+        "num": 119315,
+        "word": "威少好拼",
+        "onboard_time": 1671257966,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106888,
+        "num": 106888,
+        "word": "姆巴佩有多喜欢C罗",
+        "onboard_time": 1671243266,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105144,
+        "num": 105144,
+        "word": "世界杯是什么",
+        "onboard_time": 1671261926,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103458,
+        "num": 103458,
+        "word": "第一次见绿眼睛的小猫咪",
+        "onboard_time": 1671262288,
+        "rank": 49,
+        "category": "幽默,情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#守护地球生命共同体中国一直在行动#"
+    }
+  }
+}
