@@ -1,6 +1,6 @@
 {
   "startTime": 1671207916313,
-  "endTime": 1671240239600,
+  "endTime": 1671241773750,
   "band_list": [
     {
       "raw_hot": 1808400,
@@ -24,6 +24,14 @@
       "word": "为什么身边没有无症状感染者",
       "onboard_time": 1671233117,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 852848,
+      "num": 852848,
+      "word": "女子上班时发烧想回家被父母拒绝",
+      "onboard_time": 1671238948,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -67,6 +75,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 597894,
+      "num": 597894,
+      "word": "法国队5人缺席训练",
+      "onboard_time": 1671239848,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 589908,
       "num": 589908,
       "word": "米哈伊洛维奇去世",
@@ -79,6 +95,14 @@
       "num": 299293,
       "word": "江西高中生胡鑫宇失踪已过60天",
       "onboard_time": 1671205348,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 567420,
+      "num": 419647,
+      "word": "女生囤的连花清瘟一次没吃全过期",
+      "onboard_time": 1671240746,
       "rank": 10,
       "category": "社会新闻"
     },
@@ -131,11 +155,43 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 444145,
+      "num": 444145,
+      "word": "再恋爱脑就不应该了",
+      "onboard_time": 1671238586,
+      "rank": 19,
+      "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 420992,
+      "num": 420992,
+      "word": "画家把李诞画成B超照",
+      "onboard_time": 1671237207,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 394584,
+      "num": 394584,
+      "word": "当你有个川渝男朋友",
+      "onboard_time": 1671237387,
+      "rank": 11,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 394155,
       "num": 371701,
       "word": "陈钰琪新剧一集就下线",
       "onboard_time": 1671206069,
       "rank": 12,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 385558,
+      "num": 385558,
+      "word": "财阀家的小儿子奶奶是凶手",
+      "onboard_time": 1671240326,
+      "rank": 14,
       "category": "影视"
     },
     {
@@ -145,14 +201,6 @@
       "onboard_time": 1671232516,
       "rank": 20,
       "category": "社会新闻,幽默"
-    },
-    {
-      "raw_hot": 368202,
-      "num": 331686,
-      "word": "女子上班时发烧想回家被父母拒绝",
-      "onboard_time": 1671238948,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 339208,
@@ -171,12 +219,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 323518,
-      "num": 323518,
-      "word": "当你有个川渝男朋友",
-      "onboard_time": 1671237387,
-      "rank": 11,
-      "category": "幽默,情感"
+      "raw_hot": 330677,
+      "num": 330677,
+      "word": "弟弟看姐姐化妆好多问题",
+      "onboard_time": 1671235344,
+      "rank": 16,
+      "category": "幽默,美妆"
     },
     {
       "raw_hot": 322805,
@@ -219,14 +267,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 270691,
-      "num": 270691,
-      "word": "弟弟看姐姐化妆好多问题",
-      "onboard_time": 1671235344,
-      "rank": 16,
-      "category": "幽默,美妆"
-    },
-    {
       "raw_hot": 259528,
       "num": 259528,
       "word": "江苏省考",
@@ -243,16 +283,16 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 254441,
-      "num": 254441,
-      "word": "再恋爱脑就不应该了",
-      "onboard_time": 1671238586,
-      "rank": 19,
-      "category": "幽默,艺人"
+      "raw_hot": 252848,
+      "num": 252848,
+      "word": "为什么咽口水像吞刀片",
+      "onboard_time": 1671241167,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 247050,
-      "num": 163215,
+      "num": 232044,
       "word": "八点档台剧到底有多野",
       "onboard_time": 1671234923,
       "rank": 31,
@@ -273,14 +313,6 @@
       "onboard_time": 1671211458,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 239085,
-      "num": 239085,
-      "word": "画家把李诞画成B超照",
-      "onboard_time": 1671237207,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 238067,
@@ -312,6 +344,14 @@
       "word": "连续三天抗原阴性可认为不具备传染性",
       "onboard_time": 1671200014,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 224183,
+      "num": 224183,
+      "word": "多地专家研判当地疫情高峰时间",
+      "onboard_time": 1671240148,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -419,14 +459,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 176395,
-      "num": 160966,
-      "word": "多地专家研判当地疫情高峰时间",
-      "onboard_time": 1671240148,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 175206,
       "num": 175206,
       "word": "老年人感染后要关注是否憋气",
@@ -491,6 +523,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 160483,
+      "num": 160483,
+      "word": "卡塔尔的熊猫想家了",
+      "onboard_time": 1671241105,
+      "rank": 33,
+      "category": "体育,情感"
+    },
+    {
       "raw_hot": 155747,
       "num": 154898,
       "word": "转阴后仍有症状怎么办",
@@ -507,20 +547,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 148881,
+      "num": 148881,
+      "word": "财阀家的小儿子",
+      "onboard_time": 1671200615,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 146952,
       "num": 146952,
       "word": "清融 我很坚强的",
       "onboard_time": 1671202233,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 146947,
-      "num": 146947,
-      "word": "法国队5人缺席训练",
-      "onboard_time": 1671239848,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 144896,
@@ -563,20 +603,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 136416,
-      "num": 131117,
-      "word": "财阀家的小儿子",
-      "onboard_time": 1671200615,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
       "raw_hot": 131467,
       "num": 131467,
       "word": "体彩部门回应男子花12万买彩票想退钱",
       "onboard_time": 1671189931,
       "rank": 39,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 130917,
+      "num": 130917,
+      "word": "申有娜的腰部线条",
+      "onboard_time": 1671241467,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 126091,
@@ -611,12 +651,36 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 118572,
+      "num": 118572,
+      "word": "男子网购整箱感冒药收快递是兽药",
+      "onboard_time": 1671241290,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 118349,
       "num": 124995,
       "word": "冬天喝上一杯热腾腾的烤梨",
       "onboard_time": 1671202775,
       "rank": 41,
       "category": "美食"
+    },
+    {
+      "raw_hot": 117985,
+      "num": 117985,
+      "word": "请回答1988爆笑未播花絮",
+      "onboard_time": 1671208705,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 117044,
+      "num": 117044,
+      "word": "外公为外孙女起名写整页笔记",
+      "onboard_time": 1671241347,
+      "rank": 48,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 115394,
@@ -641,14 +705,6 @@
       "onboard_time": 1671198635,
       "rank": 42,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 110677,
-      "num": 103622,
-      "word": "请回答1988爆笑未播花絮",
-      "onboard_time": 1671208705,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 107336,
@@ -747,8 +803,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 38163,
-      "num": 735057,
+      "raw_hot": 41474,
+      "num": 1006721,
       "word": "中国成功发射试验二十一号卫星",
       "onboard_time": 1671207087,
       "rank": 2,
