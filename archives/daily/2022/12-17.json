@@ -1,6 +1,6 @@
 {
   "startTime": 1671207916313,
-  "endTime": 1671265307904,
+  "endTime": 1671266100789,
   "band_list": [
     {
       "raw_hot": 2621376,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2043815,
-      "num": 749653,
+      "num": 841786,
       "word": "易梦玲回应穿山寨礼服",
       "onboard_time": 1671258863,
       "rank": 21,
@@ -75,8 +75,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1053205,
+      "num": 1053205,
+      "word": "研究称寄生虫能将人体细胞变僵尸",
+      "onboard_time": 1671261867,
+      "rank": 35,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 1030925,
-      "num": 743376,
+      "num": 813129,
       "word": "有人在天津儿童医院卖美林一瓶2500",
       "onboard_time": 1671259947,
       "rank": 16,
@@ -129,14 +137,6 @@
       "onboard_time": 1671238948,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 824393,
-      "num": 824393,
-      "word": "研究称寄生虫能将人体细胞变僵尸",
-      "onboard_time": 1671261867,
-      "rank": 35,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 807124,
@@ -363,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 483005,
+      "num": 483005,
+      "word": "批发市场柠檬被人疯抢",
+      "onboard_time": 1671262408,
+      "rank": 9,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 466609,
       "num": 466609,
       "word": "女子发烧叫妈被误以为鸭子在叫",
@@ -403,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 450555,
+      "num": 359041,
+      "word": "药店回应1瓶酒精50毫升卖9元",
+      "onboard_time": 1671262826,
+      "rank": 11,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 430884,
       "num": 430884,
       "word": "赵露思神隐红裙造型",
@@ -433,14 +449,6 @@
       "onboard_time": 1671244588,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 416537,
-      "num": 359041,
-      "word": "药店回应1瓶酒精50毫升卖9元",
-      "onboard_time": 1671262826,
-      "rank": 11,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 416223,
@@ -515,14 +523,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 361329,
-      "num": 361329,
-      "word": "批发市场柠檬被人疯抢",
-      "onboard_time": 1671262408,
-      "rank": 9,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 355483,
       "num": 355483,
       "word": "斗罗大陆",
@@ -563,6 +563,14 @@
       "category": "幽默,美妆"
     },
     {
+      "raw_hot": 323969,
+      "num": 323969,
+      "word": "克罗地亚vs摩洛哥",
+      "onboard_time": 1671261506,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 322805,
       "num": 322805,
       "word": "梅西阿根廷球衣全球售罄",
@@ -587,6 +595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 309470,
+      "num": 309470,
+      "word": "第一次见绿眼睛的小猫咪",
+      "onboard_time": 1671262288,
+      "rank": 49,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 308170,
       "num": 308170,
       "word": "田朴珺称我爱自己比爱王石多",
@@ -609,6 +625,14 @@
       "onboard_time": 1671194731,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 302720,
+      "num": 302720,
+      "word": "卡塔尔偶遇中文八级外国人",
+      "onboard_time": 1671263187,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 293716,
@@ -641,22 +665,6 @@
       "onboard_time": 1671247349,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 273386,
-      "num": 273386,
-      "word": "克罗地亚vs摩洛哥",
-      "onboard_time": 1671261506,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 270991,
-      "num": 270991,
-      "word": "第一次见绿眼睛的小猫咪",
-      "onboard_time": 1671262288,
-      "rank": 49,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 268688,
@@ -721,14 +729,6 @@
       "onboard_time": 1671198271,
       "rank": 18,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 242623,
-      "num": 242623,
-      "word": "卡塔尔偶遇中文八级外国人",
-      "onboard_time": 1671263187,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 240843,
@@ -851,6 +851,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 217431,
+      "num": 846475,
+      "word": "居家消毒的8个常见误区",
+      "onboard_time": 1671261029,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 215092,
       "num": 215092,
       "word": "刘培钰吐槽杨蒙恩经常在冰箱里找袜子",
@@ -875,6 +883,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 207390,
+      "num": 207390,
+      "word": "张艺兴浅跳3wishes",
+      "onboard_time": 1671263964,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 204902,
       "num": 173360,
       "word": "张元英申有娜赵美延合作舞台",
@@ -889,14 +905,6 @@
       "onboard_time": 1671206785,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 200304,
-      "num": 200304,
-      "word": "张艺兴浅跳3wishes",
-      "onboard_time": 1671263964,
-      "rank": 28,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 198946,
@@ -955,14 +963,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 191947,
-      "num": 760222,
-      "word": "居家消毒的8个常见误区",
-      "onboard_time": 1671261029,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 191188,
       "num": 191188,
       "word": "吴尊友分析今冬新冠疫情形势",
@@ -971,12 +971,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 190977,
+      "num": 190977,
+      "word": "热心大哥在郑州街头送药不要钱",
+      "onboard_time": 1671264388,
+      "rank": 46,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 190158,
       "num": 190158,
       "word": "你阳了后最想吃什么",
       "onboard_time": 1671235704,
       "rank": 26,
       "category": "美食,情感"
+    },
+    {
+      "raw_hot": 190032,
+      "num": 189689,
+      "word": "医院发热门诊9成患者是阳性",
+      "onboard_time": 1671265225,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 189935,
+      "num": 189935,
+      "word": "被财阀家的小儿子爷孙俩虐到了",
+      "onboard_time": 1671265288,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 188910,
@@ -1115,6 +1139,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 169021,
+      "num": 169021,
+      "word": "严浩翔是懂打歌的",
+      "onboard_time": 1671265648,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 168758,
       "num": 168758,
       "word": "杭州所有医疗机构门急诊取消核验48小时核酸证明",
@@ -1145,6 +1177,14 @@
       "onboard_time": 1671258986,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 165011,
+      "num": 165011,
+      "word": "易梦玲朋友回应",
+      "onboard_time": 1671265947,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 164694,
@@ -1251,6 +1291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 147890,
+      "num": 147890,
+      "word": "张凌赫云之羽看到代拍的反应",
+      "onboard_time": 1671260187,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 146952,
       "num": 146952,
       "word": "清融 我很坚强的",
@@ -1315,8 +1363,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 142623,
-      "num": 142623,
+      "raw_hot": 142943,
+      "num": 142943,
       "word": "虞书欣EP拍摄花絮",
       "onboard_time": 1671264748,
       "rank": 43,
@@ -1347,36 +1395,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 138508,
-      "num": 138508,
-      "word": "被财阀家的小儿子爷孙俩虐到了",
-      "onboard_time": 1671265288,
-      "rank": 45,
-      "category": "影视"
-    },
-    {
       "raw_hot": 138140,
       "num": 138140,
       "word": "世界杯决赛",
       "onboard_time": 1671178766,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 135708,
-      "num": 135708,
-      "word": "热心大哥在郑州街头送药不要钱",
-      "onboard_time": 1671264388,
-      "rank": 46,
-      "category": "社会正能量"
-    },
-    {
-      "raw_hot": 132824,
-      "num": 132824,
-      "word": "张凌赫云之羽看到代拍的反应",
-      "onboard_time": 1671260187,
-      "rank": 43,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 131467,
@@ -1619,12 +1643,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 97461,
-      "num": 97461,
-      "word": "医院发热门诊9成患者是阳性",
-      "onboard_time": 1671265225,
+      "raw_hot": 96830,
+      "num": 111037,
+      "word": "梅西惊人球感",
+      "onboard_time": 1671266066,
       "rank": 49,
-      "category": "社会新闻"
+      "category": "体育"
     },
     {
       "raw_hot": 92564,
