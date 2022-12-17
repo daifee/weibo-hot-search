@@ -1,6 +1,6 @@
 {
   "startTime": 1671207916313,
-  "endTime": 1671290198445,
+  "endTime": 1671291213293,
   "band_list": [
     {
       "raw_hot": 3741950,
@@ -27,6 +27,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 2357115,
+      "num": 2357115,
+      "word": "迪幂孟扎",
+      "onboard_time": 1671286113,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2147343,
       "num": 2147343,
       "word": "红糖姜葱汤",
@@ -51,14 +59,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1980321,
-      "num": 1461013,
-      "word": "迪幂孟扎",
-      "onboard_time": 1671286113,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1808400,
       "num": 1808400,
       "word": "女子退烧后发现银手镯变黑了",
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 1723786,
-      "num": 1394600,
+      "num": 1620679,
       "word": "这姐真的太疯了",
       "onboard_time": 1671285568,
       "rank": 44,
@@ -220,7 +220,7 @@
     },
     {
       "raw_hot": 1056680,
-      "num": 420890,
+      "num": 429454,
       "word": "吴镇宇 为什么摔得那么假呢",
       "onboard_time": 1671285751,
       "rank": 33,
@@ -291,12 +291,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 911456,
+      "num": 380198,
+      "word": "惠英红说沈月的脸是老天赏饭吃",
+      "onboard_time": 1671290010,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 891120,
       "num": 891120,
       "word": "腰疼背疼是因为抗病毒的它在工作",
       "onboard_time": 1671248130,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 882805,
+      "num": 420007,
+      "word": "周杰伦演唱会",
+      "onboard_time": 1671289588,
+      "rank": 21,
+      "category": "音乐"
     },
     {
       "raw_hot": 859952,
@@ -435,6 +451,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 665827,
+      "num": 665827,
+      "word": "莫德里奇",
+      "onboard_time": 1671289588,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 655562,
       "num": 655562,
       "word": "新疆100块钱的糕点",
@@ -481,14 +505,6 @@
       "onboard_time": 1671239848,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 593784,
-      "num": 260193,
-      "word": "周杰伦演唱会",
-      "onboard_time": 1671289588,
-      "rank": 21,
-      "category": "音乐"
     },
     {
       "raw_hot": 590208,
@@ -811,6 +827,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 406162,
+      "num": 406162,
+      "word": "济南已投放110万片布洛芬",
+      "onboard_time": 1671288572,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 397689,
       "num": 397689,
       "word": "世上最大圆柱体水族馆破裂鱼涌入街头",
@@ -913,14 +937,6 @@
       "onboard_time": 1671243266,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 364657,
-      "num": 192559,
-      "word": "惠英红说沈月的脸是老天赏饭吃",
-      "onboard_time": 1671290010,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 359684,
@@ -1099,14 +1115,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 296451,
-      "num": 296451,
-      "word": "莫德里奇",
-      "onboard_time": 1671289588,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 293716,
       "num": 293716,
       "word": "今冬疫情面临一峰三波",
@@ -1163,16 +1171,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 286347,
-      "num": 286347,
-      "word": "济南已投放110万片布洛芬",
-      "onboard_time": 1671288572,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 284506,
-      "num": 156223,
+      "num": 169064,
       "word": "文俊辉直播",
       "onboard_time": 1671289412,
       "rank": 40,
@@ -1184,6 +1184,22 @@
       "word": "开心麻花祝贺左凌峰刘同夺冠",
       "onboard_time": 1671289292,
       "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 273279,
+      "num": 273279,
+      "word": "摩洛哥进球",
+      "onboard_time": 1671290010,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 273189,
+      "num": 186767,
+      "word": "尔冬升说期待再和丁程鑫合作",
+      "onboard_time": 1671291030,
+      "rank": 34,
       "category": "综艺"
     },
     {
@@ -1267,6 +1283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 262871,
+      "num": 1874384,
+      "word": "阳性居家治疗时怎样保护家人",
+      "onboard_time": 1671275548,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 261062,
       "num": 261062,
       "word": "男子网购整箱感冒药收快递是兽药",
@@ -1297,14 +1321,6 @@
       "onboard_time": 1671278551,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 249779,
-      "num": 1461411,
-      "word": "阳性居家治疗时怎样保护家人",
-      "onboard_time": 1671275548,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 248108,
@@ -1369,6 +1385,14 @@
       "onboard_time": 1671235464,
       "rank": 22,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 235362,
+      "num": 186130,
+      "word": "丈夫记录妻子感染现状被问开美颜没",
+      "onboard_time": 1671289230,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 230419,
@@ -1555,6 +1579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 209937,
+      "num": 209937,
+      "word": "苏州核酸屋变身值得借鉴吗",
+      "onboard_time": 1671289172,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 209890,
       "num": 209890,
       "word": "有雪又有海的城市真的很浪漫",
@@ -1601,6 +1633,14 @@
       "onboard_time": 1671278191,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 207071,
+      "num": 207071,
+      "word": "克罗地亚进球",
+      "onboard_time": 1671290429,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 204990,
@@ -1689,6 +1729,14 @@
       "onboard_time": 1671198573,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 194539,
+      "num": 194539,
+      "word": "克罗地亚摩洛哥扳平",
+      "onboard_time": 1671290248,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 194299,
@@ -1835,6 +1883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 184554,
+      "num": 184554,
+      "word": "格瓦迪奥尔头球破门",
+      "onboard_time": 1671290847,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 182276,
       "num": 182276,
       "word": "龚俊晒拍的日照金山",
@@ -1843,11 +1899,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 178395,
-      "num": 178395,
-      "word": "苏州核酸屋变身值得借鉴吗",
-      "onboard_time": 1671289172,
-      "rank": 34,
+      "raw_hot": 180846,
+      "num": 180846,
+      "word": "男子购买鱿鱼片仅有包装展示一小块",
+      "onboard_time": 1671288334,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -1953,14 +2009,6 @@
       "onboard_time": 1671265648,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 168954,
-      "num": 168954,
-      "word": "丈夫记录妻子感染现状被问开美颜没",
-      "onboard_time": 1671289230,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 168758,
@@ -2139,20 +2187,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 151267,
+      "num": 151267,
+      "word": "进球大战",
+      "onboard_time": 1671290908,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 149494,
       "num": 142492,
       "word": "陈奕迅演唱会好能跳",
       "onboard_time": 1671275189,
       "rank": 41,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 149403,
-      "num": 149403,
-      "word": "摩洛哥进球",
-      "onboard_time": 1671290010,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 149032,
@@ -2465,14 +2513,6 @@
       "onboard_time": 1671246928,
       "rank": 44,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 119471,
-      "num": 119471,
-      "word": "男子购买鱿鱼片仅有包装展示一小块",
-      "onboard_time": 1671288334,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 118349,
