@@ -1,6 +1,6 @@
 {
   "startTime": 1670775913271,
-  "endTime": 1671251796920,
+  "endTime": 1671254120129,
   "band_list": [
     {
       "raw_hot": 7857110,
@@ -1219,6 +1219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1114337,
+      "num": 1114337,
+      "word": "儿媳阳性公婆紧急从外地赶回照顾",
+      "onboard_time": 1671248251,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1111936,
       "num": 1111936,
       "word": "如何分辨新冠和普通感冒",
@@ -1795,6 +1803,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 891120,
+      "num": 891120,
+      "word": "腰疼背疼是因为抗病毒的它在工作",
+      "onboard_time": 1671248130,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 880446,
       "num": 880446,
       "word": "婷美",
@@ -1817,14 +1833,6 @@
       "onboard_time": 1671202415,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 874023,
-      "num": 874023,
-      "word": "儿媳阳性公婆紧急从外地赶回照顾",
-      "onboard_time": 1671248251,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 871610,
@@ -2091,14 +2099,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 802048,
-      "num": 802048,
-      "word": "腰疼背疼是因为抗病毒的它在工作",
-      "onboard_time": 1671248130,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 799295,
       "num": 592209,
       "word": "梅西点赞邓紫棋微博",
@@ -2289,6 +2289,22 @@
       "onboard_time": 1670850197,
       "rank": 5,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 751168,
+      "num": 540473,
+      "word": "于正回应许凯谭松韵新剧番位",
+      "onboard_time": 1671250228,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 746657,
+      "num": 746657,
+      "word": "县委大院做五休二",
+      "onboard_time": 1671252388,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 746045,
@@ -3131,6 +3147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 589071,
+      "num": 589071,
+      "word": "出租司机中途扔下乘客去抢退烧药",
+      "onboard_time": 1671249806,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 588543,
       "num": 588543,
       "word": "独居的人阳了后有多难",
@@ -3611,6 +3635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 528039,
+      "num": 528039,
+      "word": "男子发烧超40度脸部全是汗还冒烟",
+      "onboard_time": 1671252630,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 527627,
       "num": 435125,
       "word": "小沈阳新冠后变敏阳阳",
@@ -3651,6 +3683,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 524186,
+      "num": 524186,
+      "word": "任嘉伦感谢方文山张艺兴写词作曲",
+      "onboard_time": 1671252268,
+      "rank": 13,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 523697,
       "num": 523697,
       "word": "小智故事最终章",
@@ -3673,14 +3713,6 @@
       "onboard_time": 1671152792,
       "rank": 19,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 520983,
-      "num": 520983,
-      "word": "于正回应许凯谭松韵新剧番位",
-      "onboard_time": 1671250228,
-      "rank": 18,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 519941,
@@ -3769,6 +3801,14 @@
       "onboard_time": 1671021798,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 507137,
+      "num": 507137,
+      "word": "陈飞宇张婧仪合唱录歌vlog",
+      "onboard_time": 1671253048,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 505994,
@@ -5155,14 +5195,6 @@
       "category": "社会新闻,幽默"
     },
     {
-      "raw_hot": 381599,
-      "num": 381599,
-      "word": "出租司机中途扔下乘客去抢退烧药",
-      "onboard_time": 1671249806,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 381377,
       "num": 381377,
       "word": "感染后第三天症状最重",
@@ -5265,6 +5297,14 @@
       "onboard_time": 1671171270,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 372355,
+      "num": 271736,
+      "word": "三体",
+      "onboard_time": 1671251607,
+      "rank": 32,
+      "category": "动漫,影视"
     },
     {
       "raw_hot": 369274,
@@ -6163,6 +6203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 313448,
+      "num": 271322,
+      "word": "成毅周末花絮视频",
+      "onboard_time": 1671253830,
+      "rank": 21,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 313255,
       "num": 313255,
       "word": "开窗通风是否会有被传染的风险",
@@ -6915,6 +6963,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 275017,
+      "num": 275017,
+      "word": "进口退烧药遭哄抢",
+      "onboard_time": 1671253168,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 274881,
       "num": 185241,
       "word": "申留真 踢帽子",
@@ -7049,6 +7105,14 @@
       "onboard_time": 1671151292,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 266974,
+      "num": 266974,
+      "word": "Faker的首选是Viper",
+      "onboard_time": 1671251607,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 266957,
@@ -8307,12 +8371,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 222811,
+      "num": 222811,
+      "word": "家中出现新冠感染者如何进行日常消毒",
+      "onboard_time": 1671249389,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 222637,
       "num": 186413,
       "word": "张若昀GQ冰蓝衬衫造型",
       "onboard_time": 1671092610,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 222414,
+      "num": 222414,
+      "word": "女子发烧被老妈摊一脸大饼",
+      "onboard_time": 1671253348,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 222075,
@@ -8553,6 +8633,14 @@
       "onboard_time": 1671027395,
       "rank": 38,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 215092,
+      "num": 215092,
+      "word": "刘培钰吐槽杨蒙恩经常在冰箱里找袜子",
+      "onboard_time": 1671251730,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 214019,
@@ -8947,14 +9035,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 199365,
-      "num": 199365,
-      "word": "刘培钰吐槽杨蒙恩经常在冰箱里找袜子",
-      "onboard_time": 1671251730,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 199346,
       "num": 199346,
       "word": "婆婆打牌赢钱给儿媳当零花",
@@ -9025,6 +9105,14 @@
       "onboard_time": 1670941753,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 197242,
+      "num": 197242,
+      "word": "你身体的免疫系统有多努力",
+      "onboard_time": 1671252746,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 197227,
@@ -9403,6 +9491,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 189623,
+      "num": 155795,
+      "word": "时代少年团音乐分享会专访上线",
+      "onboard_time": 1671253228,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 189143,
       "num": 189143,
       "word": "叮当快药回应网传有药不卖",
@@ -9553,6 +9649,14 @@
       "onboard_time": 1671148346,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 185888,
+      "num": 185888,
+      "word": "唐长安城东市遗址发现唐代街道和房屋",
+      "onboard_time": 1671252927,
+      "rank": 37,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 185836,
@@ -9995,14 +10099,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 175536,
-      "num": 175536,
-      "word": "三体",
-      "onboard_time": 1671251607,
-      "rank": 32,
-      "category": "动漫,影视"
-    },
-    {
       "raw_hot": 175328,
       "num": 175328,
       "word": "县委大院好多梗",
@@ -10249,14 +10345,6 @@
       "onboard_time": 1671250589,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 169970,
-      "num": 169970,
-      "word": "家中出现新冠感染者如何进行日常消毒",
-      "onboard_time": 1671249389,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 169863,
@@ -12721,14 +12809,6 @@
       "onboard_time": 1671104015,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 106610,
-      "num": 106610,
-      "word": "Faker的首选是Viper",
-      "onboard_time": 1671251607,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 106467,
