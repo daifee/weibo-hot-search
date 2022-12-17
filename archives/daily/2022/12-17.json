@@ -1,6 +1,6 @@
 {
   "startTime": 1671207916313,
-  "endTime": 1671281310419,
+  "endTime": 1671283204107,
   "band_list": [
     {
       "raw_hot": 2621376,
@@ -43,8 +43,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1633355,
-      "num": 1633355,
+      "raw_hot": 1680213,
+      "num": 1680213,
       "word": "转阴后失去味觉怎么办",
       "onboard_time": 1671272369,
       "rank": 17,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 1223177,
-      "num": 533273,
+      "num": 590515,
       "word": "虞书欣直播",
       "onboard_time": 1671279389,
       "rank": 10,
@@ -123,19 +123,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1147655,
+      "num": 1147655,
+      "word": "买退烧药被自动退货一看价格翻8倍",
+      "onboard_time": 1671276209,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1114337,
       "num": 1114337,
       "word": "儿媳阳性公婆紧急从外地赶回照顾",
       "onboard_time": 1671248251,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1091338,
-      "num": 1091338,
-      "word": "买退烧药被自动退货一看价格翻8倍",
-      "onboard_time": 1671276209,
-      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -195,12 +195,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 963089,
+      "num": 963089,
+      "word": "少爷和我",
+      "onboard_time": 1671280351,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 941245,
       "num": 941245,
       "word": "陈慧琳与儿子出车祸",
       "onboard_time": 1671245189,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 939409,
+      "num": 939409,
+      "word": "惠英红赵雅芝为薛凯琪吵架",
+      "onboard_time": 1671280830,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 891120,
@@ -443,6 +459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 545008,
+      "num": 545008,
+      "word": "成龙说刘耀文的言行举止很像年轻的吴彦祖",
+      "onboard_time": 1671282330,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 544124,
       "num": 544124,
       "word": "郑州研考生须进行两次核酸检测",
@@ -539,20 +563,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 455241,
+      "num": 455241,
+      "word": "SBS演艺大赏",
+      "onboard_time": 1671279868,
+      "rank": 20,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 453274,
       "num": 453274,
       "word": "发烧时为什么不能敷面膜",
       "onboard_time": 1671233721,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 450634,
-      "num": 450634,
-      "word": "少爷和我",
-      "onboard_time": 1671280351,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 450555,
@@ -611,14 +635,6 @@
       "category": "动漫,影视"
     },
     {
-      "raw_hot": 414438,
-      "num": 414438,
-      "word": "SBS演艺大赏",
-      "onboard_time": 1671279868,
-      "rank": 20,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 413724,
       "num": 413724,
       "word": "孩子银手镯变色意外发现汞中毒",
@@ -633,6 +649,14 @@
       "onboard_time": 1671245727,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 408038,
+      "num": 408038,
+      "word": "XYG 状态",
+      "onboard_time": 1671282629,
+      "rank": 13,
+      "category": "游戏"
     },
     {
       "raw_hot": 397689,
@@ -707,12 +731,12 @@
       "category": "动漫,影视"
     },
     {
-      "raw_hot": 369794,
-      "num": 369794,
-      "word": "惠英红赵雅芝为薛凯琪吵架",
-      "onboard_time": 1671280830,
-      "rank": 14,
-      "category": "综艺"
+      "raw_hot": 368220,
+      "num": 368220,
+      "word": "梅西生日居然是阿根廷的节日",
+      "onboard_time": 1671279268,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 364806,
@@ -795,6 +819,14 @@
       "category": "幽默,美妆"
     },
     {
+      "raw_hot": 330034,
+      "num": 292364,
+      "word": "沈月无限超越班面试哭了",
+      "onboard_time": 1671282389,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 323969,
       "num": 323969,
       "word": "克罗地亚vs摩洛哥",
@@ -811,8 +843,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 319296,
+      "num": 291957,
+      "word": "再见老张",
+      "onboard_time": 1671282269,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 319265,
-      "num": 270838,
+      "num": 282424,
       "word": "阳康后多久能产生抗体",
       "onboard_time": 1671268766,
       "rank": 24,
@@ -899,6 +939,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 292903,
+      "num": 292903,
+      "word": "苏州核酸采样屋变身发热诊疗站",
+      "onboard_time": 1671282149,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 291713,
       "num": 291713,
       "word": "男子发烧卧床让孩子送水",
@@ -915,12 +963,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 279355,
-      "num": 279355,
-      "word": "梅西生日居然是阿根廷的节日",
-      "onboard_time": 1671279268,
-      "rank": 29,
-      "category": "体育"
+      "raw_hot": 281239,
+      "num": 281239,
+      "word": "孩子反复高烧宝妈记录41次体温",
+      "onboard_time": 1671280408,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 273046,
@@ -1083,6 +1131,22 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 235240,
+      "num": 186817,
+      "word": "张歆艺呼吁要多给产后女性呵护",
+      "onboard_time": 1671280950,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 235058,
+      "num": 152273,
+      "word": "赵樱子首次回应红毯假摔",
+      "onboard_time": 1671283050,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 230419,
       "num": 230419,
       "word": "王鹤棣户外烟雾氛围感大片",
@@ -1163,6 +1227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 222587,
+      "num": 151755,
+      "word": "一年一度喜剧大赛",
+      "onboard_time": 1671282689,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 221927,
       "num": 178108,
       "word": "李泰容黄冠亨刘扬扬李帝努跳Candy",
@@ -1235,14 +1307,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 213804,
-      "num": 186817,
-      "word": "张歆艺呼吁要多给产后女性呵护",
-      "onboard_time": 1671280950,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 209890,
       "num": 209890,
       "word": "有雪又有海的城市真的很浪漫",
@@ -1305,6 +1369,14 @@
       "onboard_time": 1671206785,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 204076,
+      "num": 204076,
+      "word": "零下30度的东北早市",
+      "onboard_time": 1671278191,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 198946,
@@ -1475,11 +1547,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 184662,
-      "num": 184662,
-      "word": "零下30度的东北早市",
-      "onboard_time": 1671278191,
-      "rank": 34,
+      "raw_hot": 183365,
+      "num": 183365,
+      "word": "你有没有忘不掉的某某某",
+      "onboard_time": 1671282389,
+      "rank": 35,
       "category": "情感"
     },
     {
@@ -1739,20 +1811,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 153128,
+      "num": 153128,
+      "word": "辽宁男篮vs浙江男篮",
+      "onboard_time": 1671280530,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 153038,
       "num": 153038,
       "word": "无限超越班演员自我介绍",
       "onboard_time": 1671274227,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 152242,
-      "num": 152242,
-      "word": "辽宁男篮vs浙江男篮",
-      "onboard_time": 1671280530,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 151998,
@@ -2067,14 +2139,6 @@
       "category": "旅游,自然"
     },
     {
-      "raw_hot": 122080,
-      "num": 122080,
-      "word": "孩子反复高烧宝妈记录41次体温",
-      "onboard_time": 1671280408,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 121583,
       "num": 109585,
       "word": "张嘉倪羽毛抹胸裙造型",
@@ -2153,6 +2217,14 @@
       "onboard_time": 1671258144,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 109235,
+      "num": 109235,
+      "word": "怎么忍心拒绝这么热情的猫",
+      "onboard_time": 1671281008,
+      "rank": 49,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 109167,
@@ -2289,14 +2361,6 @@
       "onboard_time": 1671279991,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 92804,
-      "num": 92804,
-      "word": "怎么忍心拒绝这么热情的猫",
-      "onboard_time": 1671281008,
-      "rank": 49,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 92564,
