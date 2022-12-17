@@ -1,6 +1,6 @@
 {
   "startTime": 1671207916313,
-  "endTime": 1671262377174,
+  "endTime": 1671265307904,
   "band_list": [
     {
       "raw_hot": 2621376,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2043815,
-      "num": 637219,
+      "num": 749653,
       "word": "易梦玲回应穿山寨礼服",
       "onboard_time": 1671258863,
       "rank": 21,
@@ -75,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1030925,
+      "num": 743376,
+      "word": "有人在天津儿童医院卖美林一瓶2500",
+      "onboard_time": 1671259947,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 983270,
       "num": 983270,
       "word": "官方通报网传干部发不雅信息",
@@ -123,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 824393,
+      "num": 824393,
+      "word": "研究称寄生虫能将人体细胞变僵尸",
+      "onboard_time": 1671261867,
+      "rank": 35,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 807124,
       "num": 807124,
       "word": "女子发烧被老妈摊一脸大饼",
@@ -168,6 +184,14 @@
       "word": "扑热息痛不涨价你买到了吗",
       "onboard_time": 1671234382,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 715289,
+      "num": 715289,
+      "word": "开塞露救了差点被剪的蓝宝石戒指",
+      "onboard_time": 1671260246,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -256,14 +280,6 @@
       "word": "江西高中生胡鑫宇失踪已过60天",
       "onboard_time": 1671205348,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 560572,
-      "num": 560572,
-      "word": "有人在天津儿童医院卖美林一瓶2500",
-      "onboard_time": 1671259947,
-      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -419,6 +435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 416537,
+      "num": 359041,
+      "word": "药店回应1瓶酒精50毫升卖9元",
+      "onboard_time": 1671262826,
+      "rank": 11,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 416223,
       "num": 416223,
       "word": "唐三小舞即将全面升级",
@@ -467,14 +491,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 387774,
-      "num": 387774,
-      "word": "开塞露救了差点被剪的蓝宝石戒指",
-      "onboard_time": 1671260246,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 382934,
       "num": 382934,
       "word": "那些发烧时不适合做的事",
@@ -499,6 +515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 361329,
+      "num": 361329,
+      "word": "批发市场柠檬被人疯抢",
+      "onboard_time": 1671262408,
+      "rank": 9,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 355483,
       "num": 355483,
       "word": "斗罗大陆",
@@ -521,6 +545,14 @@
       "onboard_time": 1671204150,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 335342,
+      "num": 335342,
+      "word": "吴磊赵露思星汉灿烂美国播出",
+      "onboard_time": 1671262168,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 330677,
@@ -611,6 +643,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 273386,
+      "num": 273386,
+      "word": "克罗地亚vs摩洛哥",
+      "onboard_time": 1671261506,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 270991,
+      "num": 270991,
+      "word": "第一次见绿眼睛的小猫咪",
+      "onboard_time": 1671262288,
+      "rank": 49,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 268688,
       "num": 268688,
       "word": "aespaRedVelvet圣诞颂MV幕后花絮照",
@@ -651,6 +699,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 248108,
+      "num": 248108,
+      "word": "骑行男子遇荒废别墅区挑1栋入住",
+      "onboard_time": 1671261146,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 247050,
       "num": 232044,
       "word": "八点档台剧到底有多野",
@@ -665,6 +721,14 @@
       "onboard_time": 1671198271,
       "rank": 18,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 242623,
+      "num": 242623,
+      "word": "卡塔尔偶遇中文八级外国人",
+      "onboard_time": 1671263187,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 240843,
@@ -795,6 +859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 209639,
+      "num": 209639,
+      "word": "田曦薇晒卢晚晚可爱视频",
+      "onboard_time": 1671264685,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 209364,
       "num": 197509,
       "word": "沈小婷Wadada开场solo",
@@ -817,6 +889,14 @@
       "onboard_time": 1671206785,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 200304,
+      "num": 200304,
+      "word": "张艺兴浅跳3wishes",
+      "onboard_time": 1671263964,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 198946,
@@ -875,6 +955,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 191947,
+      "num": 760222,
+      "word": "居家消毒的8个常见误区",
+      "onboard_time": 1671261029,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 191188,
       "num": 191188,
       "word": "吴尊友分析今冬新冠疫情形势",
@@ -889,6 +977,14 @@
       "onboard_time": 1671235704,
       "rank": 26,
       "category": "美食,情感"
+    },
+    {
+      "raw_hot": 188910,
+      "num": 188910,
+      "word": "专家解释感染后为何会复阳",
+      "onboard_time": 1671264089,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 187131,
@@ -939,14 +1035,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 181284,
-      "num": 168486,
-      "word": "骑行男子遇荒废别墅区挑1栋入住",
-      "onboard_time": 1671261146,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 178382,
       "num": 178382,
       "word": "姚明连任中国篮协主席",
@@ -977,6 +1065,14 @@
       "onboard_time": 1671183270,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 173406,
+      "num": 173406,
+      "word": "GQ盛典红毯幕后故事",
+      "onboard_time": 1671261627,
+      "rank": 34,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 170293,
@@ -1067,22 +1163,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 163620,
-      "num": 163620,
-      "word": "吴磊赵露思星汉灿烂美国播出",
-      "onboard_time": 1671262168,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 162067,
-      "num": 162067,
-      "word": "GQ盛典红毯幕后故事",
-      "onboard_time": 1671261627,
-      "rank": 34,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 161250,
       "num": 125962,
       "word": "IVE的DanceBreak",
@@ -1091,8 +1171,16 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 160282,
+      "num": 160282,
+      "word": "刘宇宁唱爱情废柴视频",
+      "onboard_time": 1671264928,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 158264,
-      "num": 158264,
+      "num": 330815,
       "word": "球迷才懂的世界杯名场面",
       "onboard_time": 1671260366,
       "rank": 35,
@@ -1105,14 +1193,6 @@
       "onboard_time": 1671226813,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 155282,
-      "num": 155282,
-      "word": "研究称寄生虫能将人体细胞变僵尸",
-      "onboard_time": 1671261867,
-      "rank": 35,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 153461,
@@ -1235,12 +1315,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 143612,
-      "num": 679545,
-      "word": "居家消毒的8个常见误区",
-      "onboard_time": 1671261029,
-      "rank": 2,
-      "category": "社会新闻"
+      "raw_hot": 142623,
+      "num": 142623,
+      "word": "虞书欣EP拍摄花絮",
+      "onboard_time": 1671264748,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 140630,
@@ -1259,6 +1339,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 138572,
+      "num": 138572,
+      "word": "秦霄贤说我都是蹦着走的",
+      "onboard_time": 1671264627,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 138508,
+      "num": 138508,
+      "word": "被财阀家的小儿子爷孙俩虐到了",
+      "onboard_time": 1671265288,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 138140,
       "num": 138140,
       "word": "世界杯决赛",
@@ -1267,12 +1363,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 135971,
-      "num": 135971,
-      "word": "克罗地亚vs摩洛哥",
-      "onboard_time": 1671261506,
-      "rank": 41,
-      "category": "体育"
+      "raw_hot": 135708,
+      "num": 135708,
+      "word": "热心大哥在郑州街头送药不要钱",
+      "onboard_time": 1671264388,
+      "rank": 46,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 132824,
@@ -1483,14 +1579,6 @@
       "category": "社会新闻,军事"
     },
     {
-      "raw_hot": 103458,
-      "num": 103458,
-      "word": "第一次见绿眼睛的小猫咪",
-      "onboard_time": 1671262288,
-      "rank": 49,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 103340,
       "num": 103340,
       "word": "民警与女友约会前抽空先抓了个嫌犯",
@@ -1529,6 +1617,14 @@
       "onboard_time": 1671250769,
       "rank": 48,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 97461,
+      "num": 97461,
+      "word": "医院发热门诊9成患者是阳性",
+      "onboard_time": 1671265225,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 92564,
