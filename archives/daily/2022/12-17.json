@@ -1,7 +1,15 @@
 {
   "startTime": 1671207916313,
-  "endTime": 1671286479553,
+  "endTime": 1671287610236,
   "band_list": [
+    {
+      "raw_hot": 3401470,
+      "num": 3401470,
+      "word": "赵樱子 尬",
+      "onboard_time": 1671287492,
+      "rank": 0,
+      "category": "综艺"
+    },
     {
       "raw_hot": 2698724,
       "num": 2698724,
@@ -67,6 +75,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 1615267,
+      "num": 728915,
+      "word": "迪幂孟扎",
+      "onboard_time": 1671286113,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1417646,
       "num": 1417646,
       "word": "山东血库A型血O型血仅剩3天用量",
@@ -112,6 +128,14 @@
       "word": "郭晓婷回应没当过女一",
       "onboard_time": 1671277529,
       "rank": 4,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1278821,
+      "num": 443608,
+      "word": "这姐真的太疯了",
+      "onboard_time": 1671285568,
+      "rank": 44,
       "category": "综艺"
     },
     {
@@ -209,6 +233,14 @@
       "onboard_time": 1671273088,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1000397,
+      "num": 427124,
+      "word": "某某某获喜剧大赛2第一名",
+      "onboard_time": 1671286172,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 983270,
@@ -323,20 +355,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 741037,
+      "num": 384738,
+      "word": "男子无意刷到老婆和别人婚礼视频",
+      "onboard_time": 1671285930,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 734651,
       "num": 734651,
       "word": "村医把1000片药分成百份送给村民",
       "onboard_time": 1671271408,
       "rank": 34,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 733088,
-      "num": 145176,
-      "word": "这姐真的太疯了",
-      "onboard_time": 1671285568,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 727876,
@@ -443,6 +475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 580085,
+      "num": 580085,
+      "word": "牛肉方便面里真的有牛肉了",
+      "onboard_time": 1671284491,
+      "rank": 8,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 573499,
       "num": 573499,
       "word": "江苏省考",
@@ -465,6 +505,14 @@
       "onboard_time": 1671205348,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 565790,
+      "num": 565790,
+      "word": "新疆100块钱的糕点",
+      "onboard_time": 1671285094,
+      "rank": 15,
+      "category": "美食"
     },
     {
       "raw_hot": 555283,
@@ -547,6 +595,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 507020,
+      "num": 279547,
+      "word": "虞书欣读发疯文学",
+      "onboard_time": 1671287192,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 503776,
       "num": 503776,
       "word": "批发市场柠檬被人疯抢",
@@ -593,14 +649,6 @@
       "onboard_time": 1671241467,
       "rank": 39,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 464395,
-      "num": 464395,
-      "word": "牛肉方便面里真的有牛肉了",
-      "onboard_time": 1671284491,
-      "rank": 8,
-      "category": "美食,幽默"
     },
     {
       "raw_hot": 457456,
@@ -655,14 +703,6 @@
       "num": 428497,
       "word": "画家把李诞画成B超照",
       "onboard_time": 1671237207,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 419395,
-      "num": 302465,
-      "word": "迪幂孟扎",
-      "onboard_time": 1671286113,
       "rank": 21,
       "category": "综艺"
     },
@@ -827,14 +867,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 358169,
-      "num": 358169,
-      "word": "新疆100块钱的糕点",
-      "onboard_time": 1671285094,
-      "rank": 15,
-      "category": "美食"
-    },
-    {
       "raw_hot": 356188,
       "num": 356188,
       "word": "二次感染比例究竟有多高",
@@ -905,6 +937,14 @@
       "onboard_time": 1671235344,
       "rank": 16,
       "category": "幽默,美妆"
+    },
+    {
+      "raw_hot": 324395,
+      "num": 324395,
+      "word": "克罗地亚 预测",
+      "onboard_time": 1671285152,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 323969,
@@ -1011,6 +1051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 293201,
+      "num": 255480,
+      "word": "张碧晨王琳凯双人舞",
+      "onboard_time": 1671287372,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 293029,
       "num": 293029,
       "word": "阿凡达",
@@ -1020,11 +1068,19 @@
     },
     {
       "raw_hot": 293027,
-      "num": 191684,
+      "num": 214563,
       "word": "单依纯演唱会",
       "onboard_time": 1671284850,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 292063,
+      "num": 216630,
+      "word": "喜剧大赛决赛 剪",
+      "onboard_time": 1671286532,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 291713,
@@ -1044,19 +1100,19 @@
     },
     {
       "raw_hot": 289673,
-      "num": 191011,
+      "num": 215853,
       "word": "再就业男团15年限定版倔强舞台",
       "onboard_time": 1671285269,
       "rank": 31,
       "category": "综艺"
     },
     {
-      "raw_hot": 283660,
-      "num": 190604,
-      "word": "某某某获喜剧大赛2第一名",
+      "raw_hot": 289265,
+      "num": 289265,
+      "word": "河南发布2023年全国硕士研究生考试须知",
       "onboard_time": 1671286172,
-      "rank": 32,
-      "category": "综艺"
+      "rank": 34,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 273046,
@@ -1115,6 +1171,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 265876,
+      "num": 214766,
+      "word": "世界杯决赛现场将播放心墙",
+      "onboard_time": 1671287431,
+      "rank": 33,
+      "category": "体育,音乐"
+    },
+    {
       "raw_hot": 264218,
       "num": 264218,
       "word": "卡塔尔的熊猫想家了",
@@ -1145,14 +1209,6 @@
       "onboard_time": 1671195154,
       "rank": 14,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 254992,
-      "num": 254992,
-      "word": "克罗地亚 预测",
-      "onboard_time": 1671285152,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 251159,
@@ -1363,6 +1419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 216740,
+      "num": 216740,
+      "word": "你网购买的药到货了吗",
+      "onboard_time": 1671284010,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 216206,
       "num": 170958,
       "word": "年度喜剧小队第二名少爷和我",
@@ -1443,14 +1507,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 207349,
-      "num": 207349,
-      "word": "你网购买的药到货了吗",
-      "onboard_time": 1671284010,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 207135,
       "num": 207135,
       "word": "零下30度的东北早市",
@@ -1489,14 +1545,6 @@
       "onboard_time": 1671204392,
       "rank": 30,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 198623,
-      "num": 189475,
-      "word": "河南发布2023年全国硕士研究生考试须知",
-      "onboard_time": 1671286172,
-      "rank": 34,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 198544,
@@ -1691,6 +1739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 181408,
+      "num": 181408,
+      "word": "老师收到辣油浸泡过的作业本",
+      "onboard_time": 1671285391,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 181059,
       "num": 181059,
       "word": "世界杯",
@@ -1728,14 +1784,6 @@
       "word": "老年人感染后要关注是否憋气",
       "onboard_time": 1671237627,
       "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 174139,
-      "num": 174139,
-      "word": "男子无意刷到老婆和别人婚礼视频",
-      "onboard_time": 1671285930,
-      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -2035,14 +2083,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 147281,
-      "num": 147281,
-      "word": "老师收到辣油浸泡过的作业本",
-      "onboard_time": 1671285391,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 146952,
       "num": 146952,
       "word": "清融 我很坚强的",
@@ -2177,6 +2217,14 @@
       "onboard_time": 1671274587,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 133501,
+      "num": 144874,
+      "word": "4岁儿子踩椅子给阳性妈妈做饭",
+      "onboard_time": 1671286472,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132506,
@@ -2379,12 +2427,12 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 111740,
-      "num": 144874,
-      "word": "4岁儿子踩椅子给阳性妈妈做饭",
-      "onboard_time": 1671286472,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 110474,
+      "num": 110474,
+      "word": "当小女孩拥有了艾莎公主鞋",
+      "onboard_time": 1671287492,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 110439,
