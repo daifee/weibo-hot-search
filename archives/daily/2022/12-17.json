@@ -1,10 +1,10 @@
 {
   "startTime": 1671207916313,
-  "endTime": 1671287610236,
+  "endTime": 1671290198445,
   "band_list": [
     {
-      "raw_hot": 3401470,
-      "num": 3401470,
+      "raw_hot": 3741950,
+      "num": 3741950,
       "word": "赵樱子 尬",
       "onboard_time": 1671287492,
       "rank": 0,
@@ -51,6 +51,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1980321,
+      "num": 1461013,
+      "word": "迪幂孟扎",
+      "onboard_time": 1671286113,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1808400,
       "num": 1808400,
       "word": "女子退烧后发现银手镯变黑了",
@@ -67,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1723786,
+      "num": 1394600,
+      "word": "这姐真的太疯了",
+      "onboard_time": 1671285568,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1680213,
       "num": 1680213,
       "word": "转阴后失去味觉怎么办",
@@ -75,12 +91,20 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 1615267,
-      "num": 728915,
-      "word": "迪幂孟扎",
-      "onboard_time": 1671286113,
-      "rank": 21,
-      "category": "综艺"
+      "raw_hot": 1585879,
+      "num": 1585879,
+      "word": "克罗地亚vs摩洛哥",
+      "onboard_time": 1671261506,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1459316,
+      "num": 1459316,
+      "word": "男子无意刷到老婆和别人婚礼视频",
+      "onboard_time": 1671285930,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1417646,
@@ -128,14 +152,6 @@
       "word": "郭晓婷回应没当过女一",
       "onboard_time": 1671277529,
       "rank": 4,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1278821,
-      "num": 443608,
-      "word": "这姐真的太疯了",
-      "onboard_time": 1671285568,
-      "rank": 44,
       "category": "综艺"
     },
     {
@@ -203,6 +219,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 1056680,
+      "num": 420890,
+      "word": "吴镇宇 为什么摔得那么假呢",
+      "onboard_time": 1671285751,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1053205,
       "num": 1053205,
       "word": "研究称寄生虫能将人体细胞变僵尸",
@@ -236,7 +260,7 @@
     },
     {
       "raw_hot": 1000397,
-      "num": 427124,
+      "num": 437949,
       "word": "某某某获喜剧大赛2第一名",
       "onboard_time": 1671286172,
       "rank": 32,
@@ -355,14 +379,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 741037,
-      "num": 384738,
-      "word": "男子无意刷到老婆和别人婚礼视频",
-      "onboard_time": 1671285930,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 734651,
       "num": 734651,
       "word": "村医把1000片药分成百份送给村民",
@@ -377,6 +393,14 @@
       "onboard_time": 1671234382,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 726921,
+      "num": 275677,
+      "word": "财阀家的小儿子 爷爷下线",
+      "onboard_time": 1671287672,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 715289,
@@ -409,6 +433,14 @@
       "onboard_time": 1671202115,
       "rank": 1,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 655562,
+      "num": 655562,
+      "word": "新疆100块钱的糕点",
+      "onboard_time": 1671285094,
+      "rank": 15,
+      "category": "美食"
     },
     {
       "raw_hot": 608753,
@@ -451,6 +483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 593784,
+      "num": 260193,
+      "word": "周杰伦演唱会",
+      "onboard_time": 1671289588,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 590208,
       "num": 590208,
       "word": "女子感冒去诊所配药2元一包",
@@ -491,6 +531,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 570785,
+      "num": 570785,
+      "word": "河南发布2023年全国硕士研究生考试须知",
+      "onboard_time": 1671286172,
+      "rank": 34,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 569571,
       "num": 569571,
       "word": "进口退烧药遭哄抢",
@@ -505,14 +553,6 @@
       "onboard_time": 1671205348,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 565790,
-      "num": 565790,
-      "word": "新疆100块钱的糕点",
-      "onboard_time": 1671285094,
-      "rank": 15,
-      "category": "美食"
     },
     {
       "raw_hot": 555283,
@@ -579,12 +619,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 519947,
-      "num": 189799,
-      "word": "吴镇宇 为什么摔得那么假呢",
-      "onboard_time": 1671285751,
-      "rank": 33,
-      "category": "综艺"
+      "raw_hot": 511754,
+      "num": 247062,
+      "word": "财阀家的小儿子",
+      "onboard_time": 1671200615,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 507137,
@@ -811,6 +851,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 388255,
+      "num": 216630,
+      "word": "喜剧大赛决赛 剪",
+      "onboard_time": 1671286532,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 387288,
       "num": 387288,
       "word": "肉眼可见王圣迪的冷",
@@ -843,6 +891,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 373080,
+      "num": 373080,
+      "word": "世界杯",
+      "onboard_time": 1671271767,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 372355,
       "num": 298960,
       "word": "三体",
@@ -857,6 +913,14 @@
       "onboard_time": 1671243266,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 364657,
+      "num": 192559,
+      "word": "惠英红说沈月的脸是老天赏饭吃",
+      "onboard_time": 1671290010,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 359684,
@@ -944,14 +1008,6 @@
       "word": "克罗地亚 预测",
       "onboard_time": 1671285152,
       "rank": 24,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 323969,
-      "num": 323969,
-      "word": "克罗地亚vs摩洛哥",
-      "onboard_time": 1671261506,
-      "rank": 41,
       "category": "体育"
     },
     {
@@ -1043,6 +1099,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 296451,
+      "num": 296451,
+      "word": "莫德里奇",
+      "onboard_time": 1671289588,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 293716,
       "num": 293716,
       "word": "今冬疫情面临一峰三波",
@@ -1075,14 +1139,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 292063,
-      "num": 216630,
-      "word": "喜剧大赛决赛 剪",
-      "onboard_time": 1671286532,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 291713,
       "num": 291713,
       "word": "男子发烧卧床让孩子送水",
@@ -1107,12 +1163,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 289265,
-      "num": 289265,
-      "word": "河南发布2023年全国硕士研究生考试须知",
-      "onboard_time": 1671286172,
-      "rank": 34,
-      "category": "教育,社会新闻"
+      "raw_hot": 286347,
+      "num": 286347,
+      "word": "济南已投放110万片布洛芬",
+      "onboard_time": 1671288572,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 284506,
+      "num": 156223,
+      "word": "文俊辉直播",
+      "onboard_time": 1671289412,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 273685,
+      "num": 156094,
+      "word": "开心麻花祝贺左凌峰刘同夺冠",
+      "onboard_time": 1671289292,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 273046,
@@ -1225,6 +1297,14 @@
       "onboard_time": 1671278551,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 249779,
+      "num": 1461411,
+      "word": "阳性居家治疗时怎样保护家人",
+      "onboard_time": 1671275548,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 248108,
@@ -1467,6 +1547,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 211529,
+      "num": 211529,
+      "word": "4岁儿子踩椅子给阳性妈妈做饭",
+      "onboard_time": 1671286472,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 209890,
       "num": 209890,
       "word": "有雪又有海的城市真的很浪漫",
@@ -1529,6 +1617,14 @@
       "onboard_time": 1671204451,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 204698,
+      "num": 204698,
+      "word": "老师收到辣油浸泡过的作业本",
+      "onboard_time": 1671285391,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 204156,
@@ -1707,6 +1803,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 185536,
+      "num": 185536,
+      "word": "格子军团",
+      "onboard_time": 1671289951,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 184871,
       "num": 184871,
       "word": "逆水寒全新单机式玩法",
@@ -1739,20 +1843,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 181408,
-      "num": 181408,
-      "word": "老师收到辣油浸泡过的作业本",
-      "onboard_time": 1671285391,
-      "rank": 42,
+      "raw_hot": 178395,
+      "num": 178395,
+      "word": "苏州核酸屋变身值得借鉴吗",
+      "onboard_time": 1671289172,
+      "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 181059,
-      "num": 181059,
-      "word": "世界杯",
-      "onboard_time": 1671271767,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 178382,
@@ -1859,6 +1955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 168954,
+      "num": 168954,
+      "word": "丈夫记录妻子感染现状被问开美颜没",
+      "onboard_time": 1671289230,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 168758,
       "num": 168758,
       "word": "杭州所有医疗机构门急诊取消核验48小时核酸证明",
@@ -1923,14 +2027,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 163103,
-      "num": 163103,
-      "word": "阳性居家治疗时怎样保护家人",
-      "onboard_time": 1671275548,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 161250,
       "num": 125962,
       "word": "IVE的DanceBreak",
@@ -1969,6 +2065,14 @@
       "onboard_time": 1671275369,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 156267,
+      "num": 156267,
+      "word": "世界杯三四名决赛",
+      "onboard_time": 1671288572,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 155747,
@@ -2043,20 +2147,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 149403,
+      "num": 149403,
+      "word": "摩洛哥进球",
+      "onboard_time": 1671290010,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 149032,
       "num": 149032,
       "word": "奥斯卡live舞台好燃",
       "onboard_time": 1671256767,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 148881,
-      "num": 148881,
-      "word": "财阀家的小儿子",
-      "onboard_time": 1671200615,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 148680,
@@ -2219,14 +2323,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 133501,
-      "num": 144874,
-      "word": "4岁儿子踩椅子给阳性妈妈做饭",
-      "onboard_time": 1671286472,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 132506,
       "num": 132506,
       "word": "各地增援快递员陆续抵京",
@@ -2369,6 +2465,14 @@
       "onboard_time": 1671246928,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 119471,
+      "num": 119471,
+      "word": "男子购买鱿鱼片仅有包装展示一小块",
+      "onboard_time": 1671288334,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 118349,

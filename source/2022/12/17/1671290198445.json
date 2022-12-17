@@ -1,0 +1,410 @@
+{
+  "runTime": 1671290198445,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3741950,
+        "num": 3741950,
+        "word": "赵樱子 尬",
+        "onboard_time": 1671287492,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1585879,
+        "num": 1585879,
+        "word": "克罗地亚vs摩洛哥",
+        "onboard_time": 1671261506,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 249779,
+        "num": 1461411,
+        "word": "阳性居家治疗时怎样保护家人",
+        "onboard_time": 1671275548,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1980321,
+        "num": 1461013,
+        "word": "迪幂孟扎",
+        "onboard_time": 1671286113,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1459316,
+        "num": 1459316,
+        "word": "男子无意刷到老婆和别人婚礼视频",
+        "onboard_time": 1671285930,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1723786,
+        "num": 1394600,
+        "word": "这姐真的太疯了",
+        "onboard_time": 1671285568,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 927463,
+        "num": 927463,
+        "word": "转阴后失去味觉怎么办",
+        "onboard_time": 1671272369,
+        "rank": 6,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 655562,
+        "num": 655562,
+        "word": "新疆100块钱的糕点",
+        "onboard_time": 1671285094,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 570785,
+        "num": 570785,
+        "word": "河南发布2023年全国硕士研究生考试须知",
+        "onboard_time": 1671286172,
+        "rank": 8,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 468610,
+        "num": 468610,
+        "word": "牛肉方便面里真的有牛肉了",
+        "onboard_time": 1671284491,
+        "rank": 9,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 1356351,
+        "num": 459443,
+        "word": "周柯宇 谈过恋爱",
+        "onboard_time": 1671283830,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 833937,
+        "num": 437949,
+        "word": "某某某获喜剧大赛2第一名",
+        "onboard_time": 1671286172,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1056680,
+        "num": 420890,
+        "word": "吴镇宇 为什么摔得那么假呢",
+        "onboard_time": 1671285751,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 373080,
+        "num": 373080,
+        "word": "世界杯",
+        "onboard_time": 1671271767,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 324085,
+        "num": 324085,
+        "word": "克罗地亚 预测",
+        "onboard_time": 1671285152,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 300284,
+        "num": 300284,
+        "word": "苏州核酸采样屋变身发热诊疗站",
+        "onboard_time": 1671282149,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296451,
+        "num": 296451,
+        "word": "莫德里奇",
+        "onboard_time": 1671289588,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 286347,
+        "num": 286347,
+        "word": "济南已投放110万片布洛芬",
+        "onboard_time": 1671288572,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280768,
+        "num": 280768,
+        "word": "2人毒杀狗被发现后不慎掉下路基",
+        "onboard_time": 1671275249,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276832,
+        "num": 276832,
+        "word": "吴尊友回应新十条为什么要等三年",
+        "onboard_time": 1671280470,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 726921,
+        "num": 275677,
+        "word": "财阀家的小儿子 爷爷下线",
+        "onboard_time": 1671287672,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 593784,
+        "num": 260193,
+        "word": "周杰伦演唱会",
+        "onboard_time": 1671289588,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 511754,
+        "num": 247062,
+        "word": "财阀家的小儿子",
+        "onboard_time": 1671288212,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 413994,
+        "num": 228581,
+        "word": "17岁女孩在家中遭4人揪头发打耳光",
+        "onboard_time": 1671274713,
+        "rank": 23,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 226496,
+        "num": 226496,
+        "word": "我国是布洛芬原料药最大生产国",
+        "onboard_time": 1671273088,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 466037,
+        "num": 225319,
+        "word": "少爷和我",
+        "onboard_time": 1671280351,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220090,
+        "num": 220090,
+        "word": "红糖姜葱汤",
+        "onboard_time": 1671267748,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 211529,
+        "num": 211529,
+        "word": "4岁儿子踩椅子给阳性妈妈做饭",
+        "onboard_time": 1671286472,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210598,
+        "num": 210598,
+        "word": "梅西生日居然是阿根廷的节日",
+        "onboard_time": 1671279268,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204698,
+        "num": 204698,
+        "word": "老师收到辣油浸泡过的作业本",
+        "onboard_time": 1671285391,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 388255,
+        "num": 197270,
+        "word": "喜剧大赛决赛 剪",
+        "onboard_time": 1671286532,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 364657,
+        "num": 192559,
+        "word": "惠英红说沈月的脸是老天赏饭吃",
+        "onboard_time": 1671290010,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 329856,
+        "num": 189211,
+        "word": "虞书欣读发疯文学",
+        "onboard_time": 1671287192,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185536,
+        "num": 185536,
+        "word": "格子军团",
+        "onboard_time": 1671289951,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178395,
+        "num": 178395,
+        "word": "苏州核酸屋变身值得借鉴吗",
+        "onboard_time": 1671289172,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170783,
+        "num": 170783,
+        "word": "医院发热门诊9成患者是阳性",
+        "onboard_time": 1671265225,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168954,
+        "num": 168954,
+        "word": "丈夫记录妻子感染现状被问开美颜没",
+        "onboard_time": 1671289230,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168367,
+        "num": 168367,
+        "word": "阳康后多久能产生抗体",
+        "onboard_time": 1671268766,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165753,
+        "num": 165753,
+        "word": "你网购买的药到货了吗",
+        "onboard_time": 1671284010,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156267,
+        "num": 156267,
+        "word": "世界杯三四名决赛",
+        "onboard_time": 1671288572,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 284506,
+        "num": 156223,
+        "word": "文俊辉直播",
+        "onboard_time": 1671289412,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 273685,
+        "num": 156094,
+        "word": "开心麻花祝贺左凌峰刘同夺冠",
+        "onboard_time": 1671289292,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229240,
+        "num": 156027,
+        "word": "陈楚生全开麦唱功",
+        "onboard_time": 1671286229,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155624,
+        "num": 155624,
+        "word": "喉咙痛可以吃冰棍缓解吗",
+        "onboard_time": 1671270926,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155287,
+        "num": 155287,
+        "word": "XYG 状态",
+        "onboard_time": 1671282629,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 154256,
+        "num": 154256,
+        "word": "二次感染比例究竟有多高",
+        "onboard_time": 1671271709,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149403,
+        "num": 149403,
+        "word": "摩洛哥进球",
+        "onboard_time": 1671290010,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140182,
+        "num": 140182,
+        "word": "孩子反复高烧宝妈记录41次体温",
+        "onboard_time": 1671280408,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119471,
+        "num": 119471,
+        "word": "男子购买鱿鱼片仅有包装展示一小块",
+        "onboard_time": 1671288334,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117329,
+        "num": 117329,
+        "word": "常州市民晒政府免费发的抗疫药",
+        "onboard_time": 1671276450,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#为全面建设社会主义现代化国家开好局起好步#"
+    }
+  }
+}
