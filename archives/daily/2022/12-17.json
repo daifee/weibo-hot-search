@@ -1,6 +1,6 @@
 {
   "startTime": 1671207916313,
-  "endTime": 1671269606618,
+  "endTime": 1671272252238,
   "band_list": [
     {
       "raw_hot": 2621376,
@@ -11,8 +11,16 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 2058892,
+      "num": 2058892,
+      "word": "红糖姜葱汤",
+      "onboard_time": 1671267748,
+      "rank": 15,
+      "category": "美食"
+    },
+    {
       "raw_hot": 2043815,
-      "num": 899008,
+      "num": 1281240,
       "word": "易梦玲回应穿山寨礼服",
       "onboard_time": 1671258863,
       "rank": 21,
@@ -107,6 +115,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 974993,
+      "num": 974993,
+      "word": "张艺兴哈佛商学院演讲视频",
+      "onboard_time": 1671266847,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 941245,
       "num": 941245,
       "word": "陈慧琳与儿子出车祸",
@@ -121,22 +137,6 @@
       "onboard_time": 1671248130,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 869887,
-      "num": 869887,
-      "word": "红糖姜葱汤",
-      "onboard_time": 1671267748,
-      "rank": 15,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 866137,
-      "num": 866137,
-      "word": "张艺兴哈佛商学院演讲视频",
-      "onboard_time": 1671266847,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 859952,
@@ -161,6 +161,14 @@
       "onboard_time": 1671238948,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 849865,
+      "num": 849865,
+      "word": "内马尔回国开派对遭批",
+      "onboard_time": 1671267808,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 807124,
@@ -235,6 +243,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 604793,
+      "num": 282022,
+      "word": "谢兴阳 现在可不兴阳",
+      "onboard_time": 1671270868,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 603027,
       "num": 297839,
       "word": "叶舒华 高马尾",
@@ -257,6 +273,14 @@
       "onboard_time": 1671239848,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 596101,
+      "num": 279411,
+      "word": "宋茜黑白色鱼尾裙",
+      "onboard_time": 1671270329,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 590208,
@@ -395,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 483480,
+      "num": 483480,
+      "word": "提高免疫力的正确打开方式",
+      "onboard_time": 1671268647,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 466609,
       "num": 466609,
       "word": "女子发烧叫妈被误以为鸭子在叫",
@@ -417,14 +449,6 @@
       "onboard_time": 1671241467,
       "rank": 39,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 458754,
-      "num": 458754,
-      "word": "内马尔回国开派对遭批",
-      "onboard_time": 1671267808,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 457456,
@@ -539,6 +563,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 389506,
+      "num": 389506,
+      "word": "喉咙痛可以吃冰棍缓解吗",
+      "onboard_time": 1671270926,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 383934,
       "num": 383934,
       "word": "易梦玲朋友回应",
@@ -569,6 +601,14 @@
       "onboard_time": 1671243266,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 359684,
+      "num": 269157,
+      "word": "陈都灵白色立体花朵礼裙",
+      "onboard_time": 1671269249,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 355483,
@@ -675,6 +715,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 301741,
+      "num": 301741,
+      "word": "交警抱起高烧晕厥女童嘶吼狂奔",
+      "onboard_time": 1671266847,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 296694,
+      "num": 263851,
+      "word": "赵雅芝红裙",
+      "onboard_time": 1671270990,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 293716,
       "num": 293716,
       "word": "今冬疫情面临一峰三波",
@@ -715,6 +771,30 @@
       "category": "影视"
     },
     {
+      "raw_hot": 272753,
+      "num": 222896,
+      "word": "蔡文静彭冠英无效合体",
+      "onboard_time": 1671269186,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 269838,
+      "num": 221502,
+      "word": "朱正廷问谁说代购就是怨种",
+      "onboard_time": 1671271646,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 269360,
+      "num": 269360,
+      "word": "阳康后多久能产生抗体",
+      "onboard_time": 1671268766,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 268688,
       "num": 268688,
       "word": "aespaRedVelvet圣诞颂MV幕后花絮照",
@@ -753,6 +833,14 @@
       "onboard_time": 1671195154,
       "rank": 14,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 255770,
+      "num": 255770,
+      "word": "杭州市民非必要不核酸",
+      "onboard_time": 1671269429,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 248108,
@@ -875,14 +963,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 223184,
-      "num": 223184,
-      "word": "交警抱起高烧晕厥女童嘶吼狂奔",
-      "onboard_time": 1671266847,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 222811,
       "num": 222811,
       "word": "家中出现新冠感染者如何进行日常消毒",
@@ -899,12 +979,12 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 221618,
-      "num": 221618,
-      "word": "陈都灵白色立体花朵礼裙",
-      "onboard_time": 1671269249,
-      "rank": 22,
-      "category": "作品衍生"
+      "raw_hot": 220699,
+      "num": 1053364,
+      "word": "疫情期间5类人群膳食建议",
+      "onboard_time": 1671269908,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 217671,
@@ -923,20 +1003,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 215447,
-      "num": 215447,
-      "word": "阳康后多久能产生抗体",
-      "onboard_time": 1671268766,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 215092,
       "num": 215092,
       "word": "刘培钰吐槽杨蒙恩经常在冰箱里找袜子",
       "onboard_time": 1671251730,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 213816,
+      "num": 180422,
+      "word": "贺峻霖三周年相生拍摄花絮",
+      "onboard_time": 1671271827,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 209639,
@@ -961,6 +1041,14 @@
       "onboard_time": 1671263964,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 204990,
+      "num": 179156,
+      "word": "赖美云solo全开麦",
+      "onboard_time": 1671272189,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 204902,
@@ -1035,14 +1123,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 193418,
-      "num": 193418,
-      "word": "提高免疫力的正确打开方式",
-      "onboard_time": 1671268647,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 192777,
       "num": 192777,
       "word": "热心大哥在郑州街头送药不要钱",
@@ -1057,6 +1137,14 @@
       "onboard_time": 1671257366,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 190562,
+      "num": 190562,
+      "word": "研究称皮下脂肪有助保护女生大脑",
+      "onboard_time": 1671269008,
+      "rank": 48,
+      "category": "其它"
     },
     {
       "raw_hot": 190158,
@@ -1099,14 +1187,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 186126,
-      "num": 186126,
-      "word": "蔡文静彭冠英无效合体",
-      "onboard_time": 1671269186,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 185888,
       "num": 185888,
       "word": "唐长安城东市遗址发现唐代街道和房屋",
@@ -1147,12 +1227,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 181059,
+      "num": 181059,
+      "word": "世界杯",
+      "onboard_time": 1671271767,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 178382,
       "num": 178382,
       "word": "姚明连任中国篮协主席",
       "onboard_time": 1671249328,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 177903,
+      "num": 177903,
+      "word": "村医把1000片药分成百份送给村民",
+      "onboard_time": 1671271408,
+      "rank": 34,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 177367,
@@ -1193,6 +1289,14 @@
       "onboard_time": 1671266066,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 172909,
+      "num": 172909,
+      "word": "最后一次核酸或抗原阳性7天后可献血",
+      "onboard_time": 1671270569,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 170293,
@@ -1299,6 +1403,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 163858,
+      "num": 173430,
+      "word": "GQ盛典晚宴黑白大片",
+      "onboard_time": 1671270868,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 161250,
       "num": 125962,
       "word": "IVE的DanceBreak",
@@ -1387,6 +1499,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 148714,
+      "num": 148714,
+      "word": "二次感染比例究竟有多高",
+      "onboard_time": 1671271709,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 148680,
       "num": 148680,
       "word": "怎么看待所谓复阳",
@@ -1465,6 +1585,14 @@
       "onboard_time": 1671220272,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 144294,
+      "num": 144294,
+      "word": "王一博复古优雅造型花絮",
+      "onboard_time": 1671272128,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 143957,
@@ -1587,14 +1715,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 126297,
-      "num": 126297,
-      "word": "研究称皮下脂肪有助保护女生大脑",
-      "onboard_time": 1671269008,
-      "rank": 48,
-      "category": "其它"
-    },
-    {
       "raw_hot": 126091,
       "num": 126091,
       "word": "BoA李泰容李帝努合作舞台",
@@ -1609,14 +1729,6 @@
       "onboard_time": 1671268527,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 125221,
-      "num": 125221,
-      "word": "杭州市民非必要不核酸",
-      "onboard_time": 1671269429,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 124546,
@@ -1777,6 +1889,14 @@
       "onboard_time": 1671247948,
       "rank": 49,
       "category": "社会新闻,军事"
+    },
+    {
+      "raw_hot": 103436,
+      "num": 111367,
+      "word": "女子长期熬夜加班寒风一吹致面瘫",
+      "onboard_time": 1671272006,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 103340,
