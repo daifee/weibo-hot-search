@@ -1,6 +1,6 @@
 {
   "startTime": 1671207916313,
-  "endTime": 1671258918700,
+  "endTime": 1671261307488,
   "band_list": [
     {
       "raw_hot": 2621376,
@@ -9,6 +9,14 @@
       "onboard_time": 1671241887,
       "rank": 1,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 1895731,
+      "num": 637219,
+      "word": "易梦玲回应穿山寨礼服",
+      "onboard_time": 1671258863,
+      "rank": 21,
+      "category": "网红"
     },
     {
       "raw_hot": 1808400,
@@ -107,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 824861,
+      "num": 824861,
+      "word": "浙江党政机关企事业单位带头不再查验核酸",
+      "onboard_time": 1671257066,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 807124,
       "num": 807124,
       "word": "女子发烧被老妈摊一脸大饼",
@@ -195,6 +211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 590208,
+      "num": 590208,
+      "word": "女子感冒去诊所配药2元一包",
+      "onboard_time": 1671255928,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 589908,
       "num": 589908,
       "word": "米哈伊洛维奇去世",
@@ -251,20 +275,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 549858,
+      "num": 549858,
+      "word": "抗原T区颜色越深病情越重吗",
+      "onboard_time": 1671255326,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 546873,
       "num": 546873,
       "word": "刘耀文向成龙毛遂自荐",
       "onboard_time": 1671256829,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 540173,
-      "num": 540173,
-      "word": "女子感冒去诊所配药2元一包",
-      "onboard_time": 1671255928,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 534501,
@@ -307,14 +331,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 479486,
-      "num": 449392,
-      "word": "浙江党政机关企事业单位带头不再查验核酸",
-      "onboard_time": 1671257066,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 466609,
       "num": 466609,
       "word": "女子发烧叫妈被误以为鸭子在叫",
@@ -339,6 +355,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 462184,
+      "num": 462184,
+      "word": "郑州研考生须进行两次核酸检测",
+      "onboard_time": 1671259166,
+      "rank": 9,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 457456,
       "num": 457456,
       "word": "专家称阳性后浑身疼的男性居多",
@@ -352,14 +376,6 @@
       "word": "发烧时为什么不能敷面膜",
       "onboard_time": 1671233721,
       "rank": 6,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 444534,
-      "num": 444534,
-      "word": "抗原T区颜色越深病情越重吗",
-      "onboard_time": 1671255326,
-      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -401,6 +417,14 @@
       "onboard_time": 1671247649,
       "rank": 19,
       "category": "动漫,影视"
+    },
+    {
+      "raw_hot": 413724,
+      "num": 413724,
+      "word": "孩子银手镯变色意外发现汞中毒",
+      "onboard_time": 1671257427,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 408345,
@@ -491,6 +515,14 @@
       "category": "幽默,美妆"
     },
     {
+      "raw_hot": 329668,
+      "num": 329668,
+      "word": "有人在天津儿童医院卖美林一瓶2500",
+      "onboard_time": 1671259947,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 322805,
       "num": 322805,
       "word": "梅西阿根廷球衣全球售罄",
@@ -563,20 +595,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 288996,
-      "num": 288996,
-      "word": "孩子银手镯变色意外发现汞中毒",
-      "onboard_time": 1671257427,
-      "rank": 33,
+      "raw_hot": 281365,
+      "num": 281365,
+      "word": "今冬疫情面临一峰三波",
+      "onboard_time": 1671256888,
+      "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 270700,
-      "num": 270700,
-      "word": "易梦玲回应穿山寨礼服",
-      "onboard_time": 1671258863,
-      "rank": 21,
-      "category": "网红"
     },
     {
       "raw_hot": 266974,
@@ -707,14 +731,6 @@
       "category": "动漫,影视"
     },
     {
-      "raw_hot": 225184,
-      "num": 225184,
-      "word": "今冬疫情面临一峰三波",
-      "onboard_time": 1671256888,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 224775,
       "num": 224775,
       "word": "不要带长毛猫去玩雪",
@@ -769,6 +785,14 @@
       "onboard_time": 1671193651,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 208226,
+      "num": 208226,
+      "word": "开塞露救了差点被剪的蓝宝石戒指",
+      "onboard_time": 1671260246,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 204902,
@@ -891,6 +915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 182276,
+      "num": 182276,
+      "word": "龚俊晒拍的日照金山",
+      "onboard_time": 1671260127,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 178382,
       "num": 178382,
       "word": "姚明连任中国篮协主席",
@@ -979,6 +1011,14 @@
       "category": "游戏,动漫"
     },
     {
+      "raw_hot": 165114,
+      "num": 165114,
+      "word": "世界杯季军赛今晚上演",
+      "onboard_time": 1671258986,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 164694,
       "num": 164694,
       "word": "一开口就知道病情不简单",
@@ -1001,6 +1041,14 @@
       "onboard_time": 1671206249,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 158264,
+      "num": 158264,
+      "word": "球迷才懂的世界杯名场面",
+      "onboard_time": 1671260366,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 155747,
@@ -1155,12 +1203,28 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 131206,
+      "num": 131206,
+      "word": "威少好拼",
+      "onboard_time": 1671257966,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 128465,
       "num": 116379,
       "word": "月歌行是部喜剧吧",
       "onboard_time": 1671246988,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 127666,
+      "num": 127666,
+      "word": "IE将在2023年2月14日永久禁用",
+      "onboard_time": 1671259285,
+      "rank": 41,
+      "category": "科技"
     },
     {
       "raw_hot": 127514,
@@ -1195,6 +1259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 123734,
+      "num": 123734,
+      "word": "阳了要保证充足蛋白质摄入",
+      "onboard_time": 1671260845,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 121583,
       "num": 109585,
       "word": "张嘉倪羽毛抹胸裙造型",
@@ -1209,14 +1281,6 @@
       "onboard_time": 1671246928,
       "rank": 44,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 119013,
-      "num": 119013,
-      "word": "威少好拼",
-      "onboard_time": 1671257966,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 118349,
@@ -1259,12 +1323,28 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 110439,
+      "num": 110439,
+      "word": "林志为一篇发言稿改了六版",
+      "onboard_time": 1671258144,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 109167,
       "num": 109167,
       "word": "回头率满分的圣诞穿搭",
       "onboard_time": 1671247707,
       "rank": 48,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 108966,
+      "num": 108966,
+      "word": "骑行男子遇荒废别墅区挑1栋入住",
+      "onboard_time": 1671261146,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 108902,
@@ -1337,6 +1417,14 @@
       "onboard_time": 1671251607,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 101057,
+      "num": 101057,
+      "word": "蔡徐坤晒黑白侧颜照",
+      "onboard_time": 1671259886,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 99468,
@@ -1441,6 +1529,14 @@
       "onboard_time": 1671223751,
       "rank": 48,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 25153,
+      "num": 679545,
+      "word": "居家消毒的8个常见误区",
+      "onboard_time": 1671261029,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
