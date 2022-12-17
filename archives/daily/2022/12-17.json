@@ -1,7 +1,15 @@
 {
   "startTime": 1671207916313,
-  "endTime": 1671245009946,
+  "endTime": 1671247130390,
   "band_list": [
+    {
+      "raw_hot": 2382211,
+      "num": 2382211,
+      "word": "成华区",
+      "onboard_time": 1671241887,
+      "rank": 1,
+      "category": "社会负面"
+    },
     {
       "raw_hot": 1808400,
       "num": 1808400,
@@ -19,14 +27,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1595416,
-      "num": 1595416,
-      "word": "成华区",
-      "onboard_time": 1671241887,
-      "rank": 1,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 1366823,
       "num": 592791,
       "word": "张靓颖道歉",
@@ -35,8 +35,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1245476,
-      "num": 1245476,
+      "raw_hot": 1268680,
+      "num": 1268680,
       "word": "为什么咽口水像吞刀片",
       "onboard_time": 1671241167,
       "rank": 20,
@@ -49,6 +49,14 @@
       "onboard_time": 1671233117,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 929310,
+      "num": 929310,
+      "word": "官方通报网传干部发不雅信息",
+      "onboard_time": 1671243508,
+      "rank": 20,
+      "category": "社会负面"
     },
     {
       "raw_hot": 852848,
@@ -75,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 721555,
+      "num": 399238,
+      "word": "陈慧琳与儿子出车祸",
+      "onboard_time": 1671245189,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 704612,
       "num": 704612,
       "word": "感染新冠为何浑身疼",
@@ -89,6 +105,14 @@
       "onboard_time": 1671202115,
       "rank": 1,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 683370,
+      "num": 391292,
+      "word": "岳云鹏分享感染新冠后的感受",
+      "onboard_time": 1671246809,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 603027,
@@ -171,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 465543,
+      "num": 405219,
+      "word": "申有娜的腰部线条",
+      "onboard_time": 1671241467,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 457456,
       "num": 457456,
       "word": "专家称阳性后浑身疼的男性居多",
@@ -184,6 +216,14 @@
       "word": "发烧时为什么不能敷面膜",
       "onboard_time": 1671233721,
       "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 444217,
+      "num": 444217,
+      "word": "专家建议两次抗原阴性就可以返岗",
+      "onboard_time": 1671245067,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -209,22 +249,6 @@
       "onboard_time": 1671240148,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 405219,
-      "num": 405219,
-      "word": "申有娜的腰部线条",
-      "onboard_time": 1671241467,
-      "rank": 39,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 403894,
-      "num": 403894,
-      "word": "官方通报网传干部发不雅信息",
-      "onboard_time": 1671243508,
-      "rank": 20,
-      "category": "社会负面"
     },
     {
       "raw_hot": 397689,
@@ -259,6 +283,30 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 364806,
+      "num": 364806,
+      "word": "姆巴佩有多喜欢C罗",
+      "onboard_time": 1671243266,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 364625,
+      "num": 364625,
+      "word": "江苏省考",
+      "onboard_time": 1671234562,
+      "rank": 18,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 355483,
+      "num": 355483,
+      "word": "斗罗大陆",
+      "onboard_time": 1671244529,
+      "rank": 28,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 339208,
       "num": 339208,
       "word": "女子把药品分给高烧不退的快递员",
@@ -288,14 +336,6 @@
       "word": "梅西阿根廷球衣全球售罄",
       "onboard_time": 1671231917,
       "rank": 45,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 312868,
-      "num": 312868,
-      "word": "姆巴佩有多喜欢C罗",
-      "onboard_time": 1671243266,
-      "rank": 24,
       "category": "体育"
     },
     {
@@ -331,8 +371,24 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 262991,
-      "num": 262991,
+      "raw_hot": 285464,
+      "num": 285464,
+      "word": "小伙用武则天翻糖蛋糕拿下世界冠军",
+      "onboard_time": 1671244588,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 264414,
+      "num": 264414,
+      "word": "发烧女子手臂汗液在光下形成彩虹",
+      "onboard_time": 1671245727,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 264218,
+      "num": 264218,
       "word": "卡塔尔的熊猫想家了",
       "onboard_time": 1671241105,
       "rank": 33,
@@ -345,14 +401,6 @@
       "onboard_time": 1671241290,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 259528,
-      "num": 259528,
-      "word": "江苏省考",
-      "onboard_time": 1671234562,
-      "rank": 18,
-      "category": "教育"
     },
     {
       "raw_hot": 257205,
@@ -427,6 +475,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 222007,
+      "num": 222007,
+      "word": "不要带长毛猫去玩雪",
+      "onboard_time": 1671243689,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 221818,
       "num": 221818,
       "word": "外公为外孙女起名写整页笔记",
@@ -465,6 +521,14 @@
       "onboard_time": 1671206785,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 204134,
+      "num": 204134,
+      "word": "欧文绝杀猛龙",
+      "onboard_time": 1671247046,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 198946,
@@ -515,14 +579,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 190550,
-      "num": 190550,
-      "word": "斗罗大陆",
-      "onboard_time": 1671244529,
-      "rank": 28,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 190158,
       "num": 190158,
       "word": "你阳了后最想吃什么",
@@ -539,6 +595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 177367,
+      "num": 177367,
+      "word": "张元英love舞台直拍",
+      "onboard_time": 1671243809,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 175206,
       "num": 175206,
       "word": "老年人感染后要关注是否憋气",
@@ -552,6 +616,14 @@
       "word": "骗子诈骗1250万买彩票中1450万",
       "onboard_time": 1671183270,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 170293,
+      "num": 170293,
+      "word": "女孩未完成作业欲跳楼轻生",
+      "onboard_time": 1671242187,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -579,14 +651,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 166264,
-      "num": 166264,
-      "word": "张元英love舞台直拍",
-      "onboard_time": 1671243809,
-      "rank": 34,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 165567,
       "num": 165567,
       "word": "小智故事最终章",
@@ -601,14 +665,6 @@
       "onboard_time": 1671234323,
       "rank": 29,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 162352,
-      "num": 162352,
-      "word": "女孩未完成作业欲跳楼轻生",
-      "onboard_time": 1671242187,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 161250,
@@ -627,14 +683,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 154856,
-      "num": 154856,
-      "word": "不要带长毛猫去玩雪",
-      "onboard_time": 1671243689,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 153461,
       "num": 153461,
       "word": "印度一校长欲猥亵女生被数十名同学拿棍棒围殴",
@@ -649,6 +697,14 @@
       "onboard_time": 1671200615,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 148729,
+      "num": 148729,
+      "word": "女子买体温计被捆绑临期药",
+      "onboard_time": 1671245369,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 148680,
@@ -715,6 +771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 137972,
+      "num": 137972,
+      "word": "家暴纵火致死案受害者儿子发声",
+      "onboard_time": 1671245667,
+      "rank": 42,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 131467,
       "num": 131467,
       "word": "体彩部门回应男子花12万买彩票想退钱",
@@ -723,11 +787,11 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 131215,
-      "num": 131215,
-      "word": "小伙用武则天翻糖蛋糕拿下世界冠军",
-      "onboard_time": 1671244588,
-      "rank": 40,
+      "raw_hot": 131145,
+      "num": 131145,
+      "word": "银手镯为什么会变黑",
+      "onboard_time": 1671246149,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -769,6 +833,14 @@
       "onboard_time": 1671194434,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 120228,
+      "num": 120228,
+      "word": "马师就是特别怪人",
+      "onboard_time": 1671246928,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 118349,
@@ -857,6 +929,22 @@
       "onboard_time": 1671244349,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 102388,
+      "num": 102388,
+      "word": "猫在家里过着你的理想生活",
+      "onboard_time": 1671246031,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 101861,
+      "num": 101861,
+      "word": "月歌行是部喜剧吧",
+      "onboard_time": 1671246988,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 92564,
