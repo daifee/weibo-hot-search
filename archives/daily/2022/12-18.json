@@ -1,6 +1,6 @@
 {
   "startTime": 1671294199148,
-  "endTime": 1671295223835,
+  "endTime": 1671297268721,
   "band_list": [
     {
       "raw_hot": 2153870,
@@ -27,12 +27,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1189670,
+      "num": 1189670,
+      "word": "克罗地亚2比1摩洛哥",
+      "onboard_time": 1671296245,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1122553,
-      "num": 426910,
+      "num": 655888,
       "word": "惠英红说沈月的脸是老天赏饭吃",
       "onboard_time": 1671290010,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1111349,
+      "num": 1111349,
+      "word": "克罗地亚世界杯季军",
+      "onboard_time": 1671296484,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 1099701,
@@ -44,7 +60,7 @@
     },
     {
       "raw_hot": 1080884,
-      "num": 414453,
+      "num": 833683,
       "word": "宋仲基 抿嘴",
       "onboard_time": 1671291570,
       "rank": 11,
@@ -68,11 +84,19 @@
     },
     {
       "raw_hot": 940606,
-      "num": 413045,
+      "num": 598260,
       "word": "世界杯现场响起张杰的逆战",
       "onboard_time": 1671291688,
       "rank": 12,
       "category": "体育,音乐"
+    },
+    {
+      "raw_hot": 900620,
+      "num": 900620,
+      "word": "克罗地亚半场2比1摩洛哥",
+      "onboard_time": 1671292409,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 883727,
@@ -83,20 +107,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 871829,
+      "num": 871829,
+      "word": "摩洛哥围攻裁判",
+      "onboard_time": 1671296245,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 778632,
-      "num": 242282,
+      "num": 248293,
       "word": "周柯宇 谈过恋爱",
       "onboard_time": 1671283830,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 748423,
-      "num": 748423,
-      "word": "克罗地亚半场2比1摩洛哥",
-      "onboard_time": 1671292409,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 571506,
@@ -107,6 +131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 544078,
+      "num": 251217,
+      "word": "苏醒解说",
+      "onboard_time": 1671295703,
+      "rank": 20,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 526513,
       "num": 240988,
       "word": "吴镇宇 为什么摔得那么假呢",
@@ -115,8 +147,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 487961,
-      "num": 394930,
+      "raw_hot": 501682,
+      "num": 501682,
       "word": "河南一麦地现10层高楼当地避而不谈",
       "onboard_time": 1671292472,
       "rank": 14,
@@ -132,7 +164,7 @@
     },
     {
       "raw_hot": 399250,
-      "num": 314348,
+      "num": 326484,
       "word": "男孩理发店内虐待小狗被咬",
       "onboard_time": 1671290551,
       "rank": 18,
@@ -161,6 +193,22 @@
       "onboard_time": 1671287672,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 379312,
+      "num": 379312,
+      "word": "克罗地亚获得世界杯季军",
+      "onboard_time": 1671296663,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 360499,
+      "num": 360499,
+      "word": "克罗地亚摩洛哥 观赏性",
+      "onboard_time": 1671293129,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 342606,
@@ -283,11 +331,27 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 191574,
+      "num": 106577,
+      "word": "毒蛇吐信子没有脚印子",
+      "onboard_time": 1671294086,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 183087,
       "num": 183087,
       "word": "我国是布洛芬原料药最大生产国",
       "onboard_time": 1671273088,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 168560,
+      "num": 143660,
+      "word": "不再使用的核酸采样点也有大作用",
+      "onboard_time": 1671294326,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -307,20 +371,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 150366,
-      "num": 150366,
-      "word": "克罗地亚摩洛哥 观赏性",
-      "onboard_time": 1671293129,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 150110,
       "num": 150110,
       "word": "4岁儿子踩椅子给阳性妈妈做饭",
       "onboard_time": 1671286472,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 143342,
+      "num": 143342,
+      "word": "摩洛哥 黑马",
+      "onboard_time": 1671297141,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 117069,
@@ -371,14 +435,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 99398,
-      "num": 128096,
-      "word": "不再使用的核酸采样点也有大作用",
-      "onboard_time": 1671294326,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 99090,
       "num": 127679,
       "word": "医院发热门诊9成患者是阳性",
@@ -393,6 +449,14 @@
       "onboard_time": 1671285391,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 94983,
+      "num": 94983,
+      "word": "莫德里奇世界杯最后一舞",
+      "onboard_time": 1671296961,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 78790,
@@ -411,7 +475,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 70928,
+      "raw_hot": 73692,
       "num": 126813,
       "word": "XYG 状态",
       "onboard_time": 1671282629,
@@ -449,6 +513,9 @@
     },
     {
       "word": "#为全面建设社会主义现代化国家开好局起好步#"
+    },
+    {
+      "word": "#中央经济工作会议定调2023年经济工作#"
     }
   ]
 }
