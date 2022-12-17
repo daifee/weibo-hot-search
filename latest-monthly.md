@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/12/01 00:28:49 ~ 2022/12/17 13:15:20
+本榜单时间：2022/12/01 00:28:49 ~ 2022/12/17 13:33:33
 </p>
 </blockquote>
 <p>
@@ -3951,6 +3951,12 @@ C罗孙兴慜拥抱致意（热度：864038）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%8F%91%E7%83%A7%E8%B6%8540%E5%BA%A6%E8%84%B8%E9%83%A8%E5%85%A8%E6%98%AF%E6%B1%97%E8%BF%98%E5%86%92%E7%83%9F%23" target="weibo">
+男子发烧超40度脸部全是汗还冒烟（热度：863184）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%AB%E5%81%A5%E5%B1%80%E5%9B%9E%E5%BA%94%E4%B8%80%E6%96%B0%E7%94%9F%E5%A9%B4%E5%84%BF%E5%9C%A8%E5%8C%BB%E9%99%A2%E5%8E%BB%E4%B8%96%23" target="weibo">
 卫健局回应一新生婴儿在医院去世（热度：860794）
 </a>
@@ -6005,12 +6011,6 @@ ive 美（热度：655547）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%90%83%E7%81%AB%E9%94%85%E5%8A%A0%E7%83%AD3%E6%AC%A1%E8%BF%98%E6%9C%89%E8%A0%95%E5%8A%A8%E8%99%AB%E5%AD%90%23" target="weibo">
 女子吃火锅加热3次还有蠕动虫子（热度：653486）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23C919%E4%BB%8E%E4%B8%8A%E6%B5%B7%E6%B5%A6%E4%B8%9C%E9%A3%9E%E4%B8%8A%E6%B5%B7%E8%99%B9%E6%A1%A5%23" target="weibo">
-C919从上海浦东飞上海虹桥（热度：652265）
 </a>
 </li>
 
