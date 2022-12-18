@@ -1,0 +1,410 @@
+{
+  "runTime": 1671340531843,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2086266,
+        "num": 2086266,
+        "word": "她不是叫赵韩樱子吗",
+        "onboard_time": 1671335971,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1505820,
+        "num": 1505820,
+        "word": "老公阳性妻子3小时造家庭版隔离舱",
+        "onboard_time": 1671334288,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138126,
+        "num": 1222077,
+        "word": "居家防疫的六大误区",
+        "onboard_time": 1671339928,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1010701,
+        "num": 1010701,
+        "word": "水泥鼻",
+        "onboard_time": 1671331286,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 859510,
+        "num": 859510,
+        "word": "阳了症状不同取决于个体反应",
+        "onboard_time": 1671332788,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 812017,
+        "num": 812017,
+        "word": "考研",
+        "onboard_time": 1671323663,
+        "rank": 5,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 805000,
+        "num": 805000,
+        "word": "阿根廷盼了36年的冠军",
+        "onboard_time": 1671336328,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 715843,
+        "num": 715843,
+        "word": "刘畊宏在卡塔尔翻车了",
+        "onboard_time": 1671332788,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 649053,
+        "num": 649053,
+        "word": "沈月 社恐",
+        "onboard_time": 1671335670,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 566431,
+        "num": 566431,
+        "word": "KN95口罩价格暴涨9天涨价六倍",
+        "onboard_time": 1671333150,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 524126,
+        "num": 524126,
+        "word": "梅西将在决赛前发表队内讲话",
+        "onboard_time": 1671336508,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 520452,
+        "num": 520452,
+        "word": "宋茜回应假吃",
+        "onboard_time": 1671333867,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 450460,
+        "num": 450460,
+        "word": "李子维黄雨萱莫俊杰陈韵如同框",
+        "onboard_time": 1671338010,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 424228,
+        "num": 424228,
+        "word": "张文宏称即将走出疫情已成定局",
+        "onboard_time": 1671338909,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 369496,
+        "num": 369496,
+        "word": "超市大白兔奶糖标价19块5结账变24块8",
+        "onboard_time": 1671335850,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334991,
+        "num": 334991,
+        "word": "布洛芬姿势",
+        "onboard_time": 1671330386,
+        "rank": 15,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 353598,
+        "num": 329924,
+        "word": "孟子义",
+        "onboard_time": 1671323484,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 315656,
+        "num": 315656,
+        "word": "西安一药房将投放200万份抗原",
+        "onboard_time": 1671335850,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295067,
+        "num": 295067,
+        "word": "为什么有人感染后全身酸痛",
+        "onboard_time": 1671321622,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290523,
+        "num": 290523,
+        "word": "女子吃醉蟹吃出酒驾被罚",
+        "onboard_time": 1671331648,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333100,
+        "num": 290119,
+        "word": "林多美 滤镜",
+        "onboard_time": 1671335548,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 286935,
+        "num": 286935,
+        "word": "吴彤自曝被李冰冰拒绝后牙掉了",
+        "onboard_time": 1671329244,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 286735,
+        "num": 286735,
+        "word": "赵露思甜辣氛围感大片",
+        "onboard_time": 1671335428,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 262576,
+        "num": 262576,
+        "word": "布克杀疯了",
+        "onboard_time": 1671339148,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 255607,
+        "num": 255607,
+        "word": "服用镇咳糖浆半小时内不要喝水",
+        "onboard_time": 1671337649,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224625,
+        "num": 224625,
+        "word": "没想到留下来干活的是孩子",
+        "onboard_time": 1671333569,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 221288,
+        "num": 221288,
+        "word": "为何会出现幻阳症",
+        "onboard_time": 1671326247,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191331,
+        "num": 191331,
+        "word": "孙女问奶奶要嫁给爱情还是金钱",
+        "onboard_time": 1671329128,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 177241,
+        "num": 177241,
+        "word": "狗狗叼火腿肠放生病小主人枕边",
+        "onboard_time": 1671333990,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165573,
+        "num": 165573,
+        "word": "莫德里奇把小女儿举高高",
+        "onboard_time": 1671331047,
+        "rank": 29,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 261482,
+        "num": 165302,
+        "word": "虞书欣专辑",
+        "onboard_time": 1671339630,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 227601,
+        "num": 164096,
+        "word": "苏醒说自己是娱乐圈第一梅吹",
+        "onboard_time": 1671338068,
+        "rank": 31,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 206622,
+        "num": 162667,
+        "word": "想见你",
+        "onboard_time": 1671337770,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 181818,
+        "num": 162186,
+        "word": "药店老板剪开46盒退烧药送居民",
+        "onboard_time": 1671340050,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 405652,
+        "num": 161563,
+        "word": "赵樱子做的PPT",
+        "onboard_time": 1671338609,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160662,
+        "num": 160662,
+        "word": "梅西",
+        "onboard_time": 1671319576,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155876,
+        "num": 155876,
+        "word": "带80岁奶奶买鞋全家配合演戏砍价",
+        "onboard_time": 1671338609,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155816,
+        "num": 155816,
+        "word": "阳了你最难忍受哪种症状",
+        "onboard_time": 1671325946,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142248,
+        "num": 142248,
+        "word": "克罗地亚世界杯季军",
+        "onboard_time": 1671296484,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 56037,
+        "num": 131478,
+        "word": "看球过程中最担心的事",
+        "onboard_time": 1671339630,
+        "rank": 39,
+        "category": "体育,幽默"
+      },
+      {
+        "raw_hot": 180476,
+        "num": 131473,
+        "word": "斗破苍穹美杜莎的大招有多绝",
+        "onboard_time": 1671337228,
+        "rank": 40,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 171950,
+        "num": 131472,
+        "word": "龙丹妮三代男团在演唱会同框",
+        "onboard_time": 1671339809,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131461,
+        "num": 131461,
+        "word": "布克58分",
+        "onboard_time": 1671339569,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121751,
+        "num": 121751,
+        "word": "梅西说带着中国球迷的祝福战斗",
+        "onboard_time": 1671327507,
+        "rank": 43,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 117308,
+        "num": 117308,
+        "word": "饿了么",
+        "onboard_time": 1671333089,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114726,
+        "num": 114726,
+        "word": "感染新冠康复后仍要戴口罩",
+        "onboard_time": 1671330447,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112782,
+        "num": 112782,
+        "word": "猫咪鬼鬼祟祟偷虾摊主发现不驱赶",
+        "onboard_time": 1671328406,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112174,
+        "num": 112174,
+        "word": "世界杯冠军 预测",
+        "onboard_time": 1671326428,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108486,
+        "num": 108486,
+        "word": "儿童感染新冠病程是什么样",
+        "onboard_time": 1671339690,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98834,
+        "num": 98834,
+        "word": "孙女买新车爷爷默默系上铜钱保平安",
+        "onboard_time": 1671340469,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央经济工作会议定调2023年经济工作#"
+    }
+  }
+}
