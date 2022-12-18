@@ -1,6 +1,6 @@
 {
   "startTime": 1671294199148,
-  "endTime": 1671348798380,
+  "endTime": 1671351686450,
   "band_list": [
     {
       "raw_hot": 2238795,
@@ -99,6 +99,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1278291,
+      "num": 1278291,
+      "word": "沈月说我不想演",
+      "onboard_time": 1671346647,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1259413,
       "num": 1259413,
       "word": "克罗地亚世界杯季军",
@@ -136,14 +144,6 @@
       "word": "惠英红说沈月的脸是老天赏饭吃",
       "onboard_time": 1671290010,
       "rank": 10,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1114496,
-      "num": 1114496,
-      "word": "沈月说我不想演",
-      "onboard_time": 1671346647,
-      "rank": 4,
       "category": "综艺"
     },
     {
@@ -201,6 +201,14 @@
       "onboard_time": 1671291688,
       "rank": 12,
       "category": "体育,音乐"
+    },
+    {
+      "raw_hot": 920733,
+      "num": 920733,
+      "word": "吴镇宇 怪不得我们还能存在",
+      "onboard_time": 1671348149,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 908921,
@@ -283,6 +291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 754086,
+      "num": 589737,
+      "word": "儿子在校读博没药吃父亲寄6斤布洛芬",
+      "onboard_time": 1671349888,
+      "rank": 10,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 736558,
       "num": 736558,
       "word": "布洛芬姿势",
@@ -313,6 +329,14 @@
       "onboard_time": 1671283050,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 691031,
+      "num": 691031,
+      "word": "因为太胖而舔不到毛的猫咪",
+      "onboard_time": 1671346045,
+      "rank": 15,
+      "category": "幽默"
     },
     {
       "raw_hot": 663436,
@@ -355,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 598555,
+      "num": 598555,
+      "word": "如何描述目前还没得新冠的人",
+      "onboard_time": 1671344728,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 592263,
       "num": 592263,
       "word": "女子吃醉蟹吃出酒驾被罚",
@@ -363,12 +395,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 578477,
-      "num": 578477,
-      "word": "如何描述目前还没得新冠的人",
-      "onboard_time": 1671344728,
-      "rank": 34,
-      "category": "幽默"
+      "raw_hot": 576041,
+      "num": 576041,
+      "word": "以岭药业回应连花清瘟损伤肝脏",
+      "onboard_time": 1671346647,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 571506,
@@ -393,14 +425,6 @@
       "onboard_time": 1671295703,
       "rank": 20,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 547536,
-      "num": 547536,
-      "word": "因为太胖而舔不到毛的猫咪",
-      "onboard_time": 1671346045,
-      "rank": 15,
-      "category": "幽默"
     },
     {
       "raw_hot": 545688,
@@ -441,14 +465,6 @@
       "onboard_time": 1671336508,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 520104,
-      "num": 520104,
-      "word": "以岭药业回应连花清瘟损伤肝脏",
-      "onboard_time": 1671346647,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 501682,
@@ -579,8 +595,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 379683,
-      "num": 379683,
+      "raw_hot": 382920,
+      "num": 382920,
       "word": "朋友圈买到假抗原阳性检测显阴性",
       "onboard_time": 1671345689,
       "rank": 16,
@@ -755,6 +771,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 288652,
+      "num": 288652,
+      "word": "德杯 LNG",
+      "onboard_time": 1671346467,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 287245,
       "num": 165265,
       "word": "罗晋在你好星期六合拍像局外人",
@@ -803,14 +827,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 255866,
-      "num": 255866,
-      "word": "德杯 LNG",
-      "onboard_time": 1671346467,
-      "rank": 22,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 253501,
       "num": 113345,
       "word": "喜剧大赛决赛 剪",
@@ -849,14 +865,6 @@
       "onboard_time": 1671333268,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 244740,
-      "num": 244740,
-      "word": "吴镇宇 怪不得我们还能存在",
-      "onboard_time": 1671348149,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 244352,
@@ -1091,6 +1099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 182296,
+      "num": 182296,
+      "word": "小孩疑与父母吵架站高层空调外机上",
+      "onboard_time": 1671346348,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 181898,
       "num": 169754,
       "word": "小婉管乐",
@@ -1121,6 +1137,22 @@
       "onboard_time": 1671333990,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 172697,
+      "num": 172697,
+      "word": "男子为吓女友用红墨水拍割腕视频",
+      "onboard_time": 1671350665,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 169680,
+      "num": 169680,
+      "word": "苏醒相信梅西能夺冠",
+      "onboard_time": 1671350009,
+      "rank": 28,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 169484,
@@ -1155,14 +1187,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 163293,
-      "num": 163293,
-      "word": "小孩疑与父母吵架站高层空调外机上",
-      "onboard_time": 1671346348,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 163233,
       "num": 163233,
       "word": "李雪琴回应被小鲜肉追",
@@ -1177,6 +1201,14 @@
       "onboard_time": 1671292231,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 160263,
+      "num": 149724,
+      "word": "赵露思封面大片花絮视频",
+      "onboard_time": 1671349048,
+      "rank": 30,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 160157,
@@ -1209,6 +1241,14 @@
       "onboard_time": 1671286472,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147778,
+      "num": 147778,
+      "word": "嗑过的cp居然有售后",
+      "onboard_time": 1671350489,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 145982,
@@ -1257,6 +1297,14 @@
       "onboard_time": 1671301215,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 132506,
+      "num": 132506,
+      "word": "男子和老婆吵架凌晨5点回来做早餐",
+      "onboard_time": 1671349467,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 131461,
@@ -1315,6 +1363,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 125844,
+      "num": 114360,
+      "word": "直井怜手势舞",
+      "onboard_time": 1671348810,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 122864,
       "num": 122864,
       "word": "冬日限定美景冰蝴蝶",
@@ -1355,6 +1411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 114777,
+      "num": 114777,
+      "word": "财经年会2023",
+      "onboard_time": 1671351447,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 114170,
       "num": 114170,
       "word": "奥尔西奇世界波",
@@ -1393,6 +1457,14 @@
       "onboard_time": 1671326488,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 109379,
+      "num": 109379,
+      "word": "北大教授建议发一万亿消费券",
+      "onboard_time": 1671351207,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 108616,
@@ -1513,6 +1585,14 @@
       "onboard_time": 1671329966,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 84532,
+      "num": 84532,
+      "word": "配送员骑车60公里给老人送药",
+      "onboard_time": 1671350365,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 83189,
