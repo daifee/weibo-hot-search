@@ -1,6 +1,6 @@
 {
   "startTime": 1671294199148,
-  "endTime": 1671351686450,
+  "endTime": 1671352483556,
   "band_list": [
     {
       "raw_hot": 2238795,
@@ -163,6 +163,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1065878,
+      "num": 1065878,
+      "word": "吴镇宇 怪不得我们还能存在",
+      "onboard_time": 1671348149,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1021254,
+      "num": 1021254,
+      "word": "儿子在校读博没药吃父亲寄6斤布洛芬",
+      "onboard_time": 1671349888,
+      "rank": 10,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 965146,
       "num": 965146,
       "word": "老爸豪横给儿子寄3公斤布洛芬",
@@ -201,14 +217,6 @@
       "onboard_time": 1671291688,
       "rank": 12,
       "category": "体育,音乐"
-    },
-    {
-      "raw_hot": 920733,
-      "num": 920733,
-      "word": "吴镇宇 怪不得我们还能存在",
-      "onboard_time": 1671348149,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 908921,
@@ -289,14 +297,6 @@
       "onboard_time": 1671283830,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 754086,
-      "num": 589737,
-      "word": "儿子在校读博没药吃父亲寄6斤布洛芬",
-      "onboard_time": 1671349888,
-      "rank": 10,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 736558,
@@ -441,6 +441,14 @@
       "onboard_time": 1671345868,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 540461,
+      "num": 540461,
+      "word": "赵小棠买了100张虞书欣新EP",
+      "onboard_time": 1671351807,
+      "rank": 10,
+      "category": "音乐"
     },
     {
       "raw_hot": 526513,
@@ -787,6 +795,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 286615,
+      "num": 286615,
+      "word": "男子为吓女友用红墨水拍割腕视频",
+      "onboard_time": 1671350665,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 275510,
+      "num": 275510,
+      "word": "王鹤棣的时装片场live图",
+      "onboard_time": 1671351927,
+      "rank": 20,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 274155,
       "num": 274155,
       "word": "服用镇咳糖浆半小时内不要喝水",
@@ -907,6 +931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 239203,
+      "num": 239203,
+      "word": "嗑过的cp居然有售后",
+      "onboard_time": 1671350489,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 238026,
       "num": 204531,
       "word": "明星GQ盛典车窗打招呼视频",
@@ -937,6 +969,14 @@
       "onboard_time": 1671333569,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 230354,
+      "num": 230354,
+      "word": "北大教授建议发一万亿消费券",
+      "onboard_time": 1671351207,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 227601,
@@ -1139,12 +1179,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 172697,
-      "num": 172697,
-      "word": "男子为吓女友用红墨水拍割腕视频",
-      "onboard_time": 1671350665,
-      "rank": 27,
-      "category": "社会新闻"
+      "raw_hot": 176825,
+      "num": 156549,
+      "word": "Wendy黑色短发造型",
+      "onboard_time": 1671351745,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 169680,
@@ -1204,7 +1244,7 @@
     },
     {
       "raw_hot": 160263,
-      "num": 149724,
+      "num": 156384,
       "word": "赵露思封面大片花絮视频",
       "onboard_time": 1671349048,
       "rank": 30,
@@ -1217,6 +1257,14 @@
       "onboard_time": 1671284010,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 156259,
+      "num": 156259,
+      "word": "华晨宇希忘Hope歌单曝光",
+      "onboard_time": 1671352407,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 155876,
@@ -1241,14 +1289,6 @@
       "onboard_time": 1671286472,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 147778,
-      "num": 147778,
-      "word": "嗑过的cp居然有售后",
-      "onboard_time": 1671350489,
-      "rank": 31,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 145982,
@@ -1355,6 +1395,14 @@
       "category": "体育,音乐"
     },
     {
+      "raw_hot": 126422,
+      "num": 126422,
+      "word": "LNG对战WE",
+      "onboard_time": 1671351989,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 126155,
       "num": 126155,
       "word": "徐峥是懂怎样拿捏小演员的",
@@ -1459,14 +1507,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 109379,
-      "num": 109379,
-      "word": "北大教授建议发一万亿消费券",
-      "onboard_time": 1671351207,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 108616,
       "num": 108616,
       "word": "诸神黄昏是遗憾也是传承",
@@ -1496,6 +1536,14 @@
       "word": "梅西生日居然是阿根廷的节日",
       "onboard_time": 1671279268,
       "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 105633,
+      "num": 105633,
+      "word": "濛主来了世界杯末班车",
+      "onboard_time": 1671352046,
+      "rank": 43,
       "category": "体育"
     },
     {
@@ -1563,6 +1611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 95762,
+      "num": 95762,
+      "word": "穆里尼奥称期待梅西创造历史",
+      "onboard_time": 1671352286,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 92193,
       "num": 92193,
       "word": "个人防疫警惕8个误区",
@@ -1579,20 +1635,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 89875,
+      "num": 89875,
+      "word": "配送员骑车60公里给老人送药",
+      "onboard_time": 1671350365,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 87583,
       "num": 92503,
       "word": "阿根廷vs法国",
       "onboard_time": 1671329966,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 84532,
-      "num": 84532,
-      "word": "配送员骑车60公里给老人送药",
-      "onboard_time": 1671350365,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 83189,
