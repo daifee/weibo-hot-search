@@ -1,0 +1,410 @@
+{
+  "runTime": 1671333544087,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2238795,
+        "num": 2238795,
+        "word": "阳了的考研人",
+        "onboard_time": 1671331826,
+        "rank": 0,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 1231744,
+        "num": 1231744,
+        "word": "为什么有人感染后全身酸痛",
+        "onboard_time": 1671321622,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117892,
+        "num": 912820,
+        "word": "阳性居家治疗时怎样保护家人",
+        "onboard_time": 1671275548,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 900668,
+        "num": 900668,
+        "word": "吴彤自曝被李冰冰拒绝后牙掉了",
+        "onboard_time": 1671329244,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 898532,
+        "num": 898532,
+        "word": "水泥鼻",
+        "onboard_time": 1671331286,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 746540,
+        "num": 746540,
+        "word": "迪幂孟扎",
+        "onboard_time": 1671286113,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 718380,
+        "num": 718380,
+        "word": "布洛芬姿势",
+        "onboard_time": 1671330386,
+        "rank": 6,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 648036,
+        "num": 648036,
+        "word": "孙女问奶奶要嫁给爱情还是金钱",
+        "onboard_time": 1671329128,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 624684,
+        "num": 624684,
+        "word": "赵樱子说自己戏很好可是不会讲话",
+        "onboard_time": 1671327266,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 615941,
+        "num": 615941,
+        "word": "饿了么",
+        "onboard_time": 1671333089,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 951532,
+        "num": 609991,
+        "word": "刘畊宏在卡塔尔翻车了",
+        "onboard_time": 1671332788,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 628977,
+        "num": 599581,
+        "word": "孟子义",
+        "onboard_time": 1671323484,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 571935,
+        "num": 571935,
+        "word": "女子吃醉蟹吃出酒驾被罚",
+        "onboard_time": 1671331648,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 480479,
+        "num": 480479,
+        "word": "考研",
+        "onboard_time": 1671323663,
+        "rank": 13,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 422104,
+        "num": 422104,
+        "word": "为何会出现幻阳症",
+        "onboard_time": 1671326247,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 413017,
+        "num": 413017,
+        "word": "梅西说带着中国球迷的祝福战斗",
+        "onboard_time": 1671327507,
+        "rank": 15,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 362935,
+        "num": 362935,
+        "word": "克罗地亚世界杯季军",
+        "onboard_time": 1671296484,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 361407,
+        "num": 361407,
+        "word": "惠英红说沈月的脸是老天赏饭吃",
+        "onboard_time": 1671290010,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 318229,
+        "num": 318229,
+        "word": "感染新冠康复后仍要戴口罩",
+        "onboard_time": 1671330447,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301903,
+        "num": 301903,
+        "word": "月嫂临走前为雇主家宝宝缝制小床",
+        "onboard_time": 1671324985,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296775,
+        "num": 296775,
+        "word": "周杰伦演唱会唱了说爱你",
+        "onboard_time": 1671320839,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 276893,
+        "num": 276893,
+        "word": "阳了症状不同取决于个体反应",
+        "onboard_time": 1671332788,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275502,
+        "num": 275502,
+        "word": "奔驰数次插队阻碍救护车交警怒斥",
+        "onboard_time": 1671324684,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244132,
+        "num": 244132,
+        "word": "莫德里奇微笑登上领奖台",
+        "onboard_time": 1671319997,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 241324,
+        "num": 241324,
+        "word": "世界杯冠军 预测",
+        "onboard_time": 1671326428,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 229748,
+        "num": 229748,
+        "word": "刀片嗓",
+        "onboard_time": 1671324025,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229642,
+        "num": 229642,
+        "word": "猫咪鬼鬼祟祟偷虾摊主发现不驱赶",
+        "onboard_time": 1671328406,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222929,
+        "num": 222929,
+        "word": "阳了你最难忍受哪种症状",
+        "onboard_time": 1671325946,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220859,
+        "num": 220859,
+        "word": "父母摆煎饼摊孩子坐餐车还没煤气罐大",
+        "onboard_time": 1671326967,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215614,
+        "num": 215614,
+        "word": "宋仲基 抿嘴",
+        "onboard_time": 1671291570,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 203805,
+        "num": 203805,
+        "word": "阿根廷队",
+        "onboard_time": 1671318616,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197559,
+        "num": 197559,
+        "word": "决赛日饿了么十万免单",
+        "onboard_time": 1671328827,
+        "rank": 31,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 181497,
+        "num": 181497,
+        "word": "少爷和我天生一对",
+        "onboard_time": 1671322702,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179063,
+        "num": 179063,
+        "word": "某某某获喜剧大赛2第一名",
+        "onboard_time": 1671286172,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178260,
+        "num": 178260,
+        "word": "迷雾剧场全新阵容官宣",
+        "onboard_time": 1671333268,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 177107,
+        "num": 177107,
+        "word": "莫德里奇把小女儿举高高",
+        "onboard_time": 1671331047,
+        "rank": 35,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 155724,
+        "num": 155724,
+        "word": "周柯宇 谈过恋爱",
+        "onboard_time": 1671283830,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151010,
+        "num": 151010,
+        "word": "发烧了该不该盖被子",
+        "onboard_time": 1671323123,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146674,
+        "num": 146674,
+        "word": "无限超越班第一期观后感",
+        "onboard_time": 1671325705,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142422,
+        "num": 142422,
+        "word": "KN95口罩价格暴涨9天涨价六倍",
+        "onboard_time": 1671333150,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136026,
+        "num": 136026,
+        "word": "徐冬冬回应被说是给王多鱼按摩的",
+        "onboard_time": 1671330808,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 136013,
+        "num": 136013,
+        "word": "转阴后就能放飞自我吗",
+        "onboard_time": 1671326546,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135025,
+        "num": 135025,
+        "word": "东北人遛狗现状",
+        "onboard_time": 1671320720,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 134881,
+        "num": 134881,
+        "word": "男子无意刷到老婆和别人婚礼视频",
+        "onboard_time": 1671285930,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129135,
+        "num": 129135,
+        "word": "按压一个穴位缓解咳嗽咽痛",
+        "onboard_time": 1671330925,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128813,
+        "num": 128813,
+        "word": "阿凡达 要剧情有特效",
+        "onboard_time": 1671327626,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 127976,
+        "num": 127976,
+        "word": "男孩理发店内虐待小狗被咬",
+        "onboard_time": 1671290551,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125658,
+        "num": 125658,
+        "word": "提高免疫力该怎么做",
+        "onboard_time": 1671333150,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122851,
+        "num": 122851,
+        "word": "笑售文学",
+        "onboard_time": 1671333390,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 109623,
+        "num": 109623,
+        "word": "日本门将全程哭着采访",
+        "onboard_time": 1671301215,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#为全面建设社会主义现代化国家开好局起好步#"
+    }
+  }
+}
