@@ -1,6 +1,6 @@
 {
   "startTime": 1671294199148,
-  "endTime": 1671358664204,
+  "endTime": 1671359591451,
   "band_list": [
     {
       "raw_hot": 2238795,
@@ -51,6 +51,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1726605,
+      "num": 1726605,
+      "word": "喷酒精真的可以消毒吗",
+      "onboard_time": 1671352828,
+      "rank": 11,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1715848,
       "num": 1715848,
       "word": "为什么有人感染后全身酸痛",
@@ -81,14 +89,6 @@
       "onboard_time": 1671348149,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1659122,
-      "num": 1659122,
-      "word": "喷酒精真的可以消毒吗",
-      "onboard_time": 1671352828,
-      "rank": 11,
-      "category": "情感"
     },
     {
       "raw_hot": 1544156,
@@ -193,6 +193,14 @@
       "onboard_time": 1671354027,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 985865,
+      "num": 985865,
+      "word": "费曼",
+      "onboard_time": 1671357150,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 965146,
@@ -379,14 +387,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 655657,
-      "num": 655657,
-      "word": "费曼",
-      "onboard_time": 1671357150,
-      "rank": 5,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 652218,
       "num": 652218,
       "word": "刀片嗓",
@@ -531,6 +531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 502702,
+      "num": 502702,
+      "word": "新冠食疗法有多牛",
+      "onboard_time": 1671357331,
+      "rank": 18,
+      "category": "美食"
+    },
+    {
       "raw_hot": 501682,
       "num": 501682,
       "word": "河南一麦地现10层高楼当地避而不谈",
@@ -585,6 +593,14 @@
       "onboard_time": 1671342809,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 431139,
+      "num": 431139,
+      "word": "广东考研学生须于12月20日进行核酸检测",
+      "onboard_time": 1671356070,
+      "rank": 15,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 423604,
@@ -657,14 +673,6 @@
       "onboard_time": 1671288572,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 396060,
-      "num": 396060,
-      "word": "广东考研学生须于12月20日进行核酸检测",
-      "onboard_time": 1671356070,
-      "rank": 15,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 395221,
@@ -753,14 +761,6 @@
       "onboard_time": 1671293129,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 356249,
-      "num": 356249,
-      "word": "新冠食疗法有多牛",
-      "onboard_time": 1671357331,
-      "rank": 18,
-      "category": "美食"
     },
     {
       "raw_hot": 343600,
@@ -971,6 +971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 252245,
+      "num": 252245,
+      "word": "王大陆蔡卓宜的第一次双人舞",
+      "onboard_time": 1671356368,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 251155,
       "num": 232983,
       "word": "少爷和我天生一对",
@@ -1067,12 +1075,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 232371,
+      "num": 232371,
+      "word": "阿根廷教练说希望不要拖到点球大战",
+      "onboard_time": 1671353907,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 231034,
       "num": 231034,
       "word": "没想到留下来干活的是孩子",
       "onboard_time": 1671333569,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 230740,
+      "num": 230740,
+      "word": "倪虹洁哭了",
+      "onboard_time": 1671357029,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 227601,
@@ -1115,14 +1139,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 223378,
-      "num": 223378,
-      "word": "阿根廷教练说希望不要拖到点球大战",
-      "onboard_time": 1671353907,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 222992,
       "num": 222992,
       "word": "牛肉方便面里真的有牛肉了",
@@ -1139,12 +1155,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 221637,
+      "num": 190180,
+      "word": "张艺凡杨超越李子璇Poppy舞蹈挑战视频",
+      "onboard_time": 1671359249,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 221588,
       "num": 127965,
       "word": "财阀家的小儿子",
       "onboard_time": 1671288212,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 220537,
+      "num": 189188,
+      "word": "网传浪姐4拟邀嘉宾阵容",
+      "onboard_time": 1671358591,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 220149,
+      "num": 186038,
+      "word": "安宥真发现张元英不在的反应",
+      "onboard_time": 1671358411,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 217763,
@@ -1163,6 +1203,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 217015,
+      "num": 203510,
+      "word": "宋茜发布会现场哭了",
+      "onboard_time": 1671353907,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 216556,
       "num": 147533,
       "word": "电影版想见你首波预告",
@@ -1171,28 +1219,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 214383,
+      "raw_hot": 216165,
       "num": 214383,
       "word": "命韵峋环豪门夫妇氛围感视频",
       "onboard_time": 1671355109,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 213311,
-      "num": 213311,
-      "word": "倪虹洁哭了",
-      "onboard_time": 1671357029,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 213171,
-      "num": 203510,
-      "word": "宋茜发布会现场哭了",
-      "onboard_time": 1671353907,
-      "rank": 31,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 208790,
@@ -1209,6 +1241,22 @@
       "onboard_time": 1671321622,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 205547,
+      "num": 205547,
+      "word": "阳过后的生活用品不用更换",
+      "onboard_time": 1671355589,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 202029,
+      "num": 183341,
+      "word": "夫妻结伴坐地铁被误认为父女",
+      "onboard_time": 1671358949,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 198292,
@@ -1232,14 +1280,6 @@
       "word": "男子购买鱿鱼片仅有包装展示一小块",
       "onboard_time": 1671288334,
       "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 195423,
-      "num": 195423,
-      "word": "阳过后的生活用品不用更换",
-      "onboard_time": 1671355589,
-      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -1307,6 +1347,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 180408,
+      "num": 180408,
+      "word": "四川3学生捡4000元黄金交民警",
+      "onboard_time": 1671354749,
+      "rank": 47,
+      "category": "社会正能量"
+    },
+    {
+      "raw_hot": 179313,
+      "num": 179313,
+      "word": "中国球迷说梅西夺冠就飞去阿根廷",
+      "onboard_time": 1671355411,
+      "rank": 37,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 178331,
       "num": 178331,
       "word": "发烧喉咙痛如何缓解有效",
@@ -1331,14 +1387,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 172078,
-      "num": 141084,
-      "word": "王大陆蔡卓宜的第一次双人舞",
-      "onboard_time": 1671356368,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 169680,
       "num": 169680,
       "word": "苏醒相信梅西能夺冠",
@@ -1361,14 +1409,6 @@
       "onboard_time": 1671327204,
       "rank": 36,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 169093,
-      "num": 169093,
-      "word": "四川3学生捡4000元黄金交民警",
-      "onboard_time": 1671354749,
-      "rank": 47,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 166822,
@@ -1411,22 +1451,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 161772,
-      "num": 161772,
-      "word": "中国球迷说梅西夺冠就飞去阿根廷",
-      "onboard_time": 1671355411,
-      "rank": 37,
-      "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 160815,
-      "num": 142462,
-      "word": "安宥真发现张元英不在的反应",
-      "onboard_time": 1671358411,
-      "rank": 40,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 160263,
       "num": 156384,
       "word": "赵露思封面大片花絮视频",
@@ -1441,14 +1465,6 @@
       "onboard_time": 1671284010,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 157667,
-      "num": 139701,
-      "word": "网传浪姐4拟邀嘉宾阵容",
-      "onboard_time": 1671358591,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 156259,
@@ -1627,6 +1643,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 125112,
+      "num": 125112,
+      "word": "世界杯门神名场面",
+      "onboard_time": 1671358651,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 123123,
+      "num": 123123,
+      "word": "男子不信阳性难受第2天嗷嗷叫唤",
+      "onboard_time": 1671359190,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 122864,
       "num": 122864,
       "word": "冬日限定美景冰蝴蝶",
@@ -1657,14 +1689,6 @@
       "onboard_time": 1671326667,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 117598,
-      "num": 117598,
-      "word": "世界杯门神名场面",
-      "onboard_time": 1671358651,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 117069,
@@ -1705,6 +1729,14 @@
       "onboard_time": 1671292649,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 111619,
+      "num": 111619,
+      "word": "女生回乡路上发烧奶奶坚决不让走",
+      "onboard_time": 1671359068,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 111495,
@@ -1847,6 +1879,14 @@
       "num": 98834,
       "word": "孙女买新车爷爷默默系上铜钱保平安",
       "onboard_time": 1671340469,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 97755,
+      "num": 97755,
+      "word": "医生提醒4类人群慎用布洛芬",
+      "onboard_time": 1671359489,
       "rank": 49,
       "category": "社会新闻"
     },
