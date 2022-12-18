@@ -1,6 +1,6 @@
 {
   "startTime": 1670775913271,
-  "endTime": 1671320020804,
+  "endTime": 1671326774667,
   "band_list": [
     {
       "raw_hot": 7857110,
@@ -483,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2002392,
+      "num": 1389130,
+      "word": "孟子义",
+      "onboard_time": 1671323484,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1999700,
       "num": 1296711,
       "word": "周柯宇 谈过恋爱",
@@ -825,6 +833,14 @@
       "onboard_time": 1670800746,
       "rank": 30,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 1459391,
+      "num": 1459391,
+      "word": "为什么有人感染后全身酸痛",
+      "onboard_time": 1671321622,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1459316,
@@ -2795,6 +2811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 717746,
+      "num": 717746,
+      "word": "阿根廷队",
+      "onboard_time": 1671318616,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 715687,
       "num": 715687,
       "word": "河南卫生健康系统将暂时取消节假日",
@@ -4083,6 +4107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 526500,
+      "num": 526500,
+      "word": "发烧了该不该盖被子",
+      "onboard_time": 1671323123,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 525525,
       "num": 525525,
       "word": "姆巴佩",
@@ -4225,14 +4257,6 @@
       "onboard_time": 1670759597,
       "rank": 11,
       "category": "影视"
-    },
-    {
-      "raw_hot": 511299,
-      "num": 511299,
-      "word": "阿根廷队",
-      "onboard_time": 1671318616,
-      "rank": 11,
-      "category": "体育"
     },
     {
       "raw_hot": 509653,
@@ -4795,6 +4819,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 457192,
+      "num": 457192,
+      "word": "月嫂临走前为雇主家宝宝缝制小床",
+      "onboard_time": 1671324985,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 456499,
+      "num": 456499,
+      "word": "莫德里奇微笑登上领奖台",
+      "onboard_time": 1671319997,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 455991,
       "num": 455991,
       "word": "孩子确诊量体温温度涨幅肉眼可见",
@@ -4848,6 +4888,14 @@
       "word": "发烧时为什么不能敷面膜",
       "onboard_time": 1671233721,
       "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 453190,
+      "num": 453190,
+      "word": "刀片嗓",
+      "onboard_time": 1671324025,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -4912,6 +4960,14 @@
       "word": "这是北京街头外卖员的身影",
       "onboard_time": 1671198573,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 447559,
+      "num": 447559,
+      "word": "奔驰数次插队阻碍救护车交警怒斥",
+      "onboard_time": 1671324684,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -5875,6 +5931,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 375497,
+      "num": 375497,
+      "word": "周杰伦演唱会唱了说爱你",
+      "onboard_time": 1671320839,
+      "rank": 14,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 373835,
       "num": 373835,
       "word": "WBG",
@@ -6529,6 +6593,14 @@
       "onboard_time": 1671280470,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 333272,
+      "num": 333272,
+      "word": "东北人遛狗现状",
+      "onboard_time": 1671320720,
+      "rank": 17,
+      "category": "幽默"
     },
     {
       "raw_hot": 332907,
@@ -8707,6 +8779,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 241430,
+      "num": 241430,
+      "word": "丈夫记录妻子感染现状被问开美颜没",
+      "onboard_time": 1671289230,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 241398,
       "num": 241398,
       "word": "公交司机贴退烧贴吓坏乘客",
@@ -8921,14 +9001,6 @@
       "onboard_time": 1670835435,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 235362,
-      "num": 229814,
-      "word": "丈夫记录妻子感染现状被问开美颜没",
-      "onboard_time": 1671289230,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 235334,
@@ -9385,6 +9457,14 @@
       "onboard_time": 1670885828,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 220778,
+      "num": 220778,
+      "word": "少爷和我天生一对",
+      "onboard_time": 1671322702,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 220699,
@@ -9881,6 +9961,14 @@
       "onboard_time": 1670810290,
       "rank": 49,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 206697,
+      "num": 177592,
+      "word": "张哲华 相册",
+      "onboard_time": 1671321622,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 206481,
@@ -10419,6 +10507,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 193507,
+      "num": 193507,
+      "word": "山西多名保安与民工发生肢体冲突",
+      "onboard_time": 1671310814,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 193471,
       "num": 193471,
       "word": "你担心别人知道你阳过吗",
@@ -10529,6 +10625,14 @@
       "onboard_time": 1671294086,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 191527,
+      "num": 191527,
+      "word": "克罗地亚门将",
+      "onboard_time": 1671318256,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 191454,
@@ -10971,6 +11075,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 183153,
+      "num": 175300,
+      "word": "为何会出现幻阳症",
+      "onboard_time": 1671326247,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 182920,
       "num": 182920,
       "word": "OMG官宣新赛季大名单",
@@ -10985,6 +11097,14 @@
       "onboard_time": 1670819654,
       "rank": 46,
       "category": "情感,艺人"
+    },
+    {
+      "raw_hot": 182846,
+      "num": 172741,
+      "word": "阿凡达男主",
+      "onboard_time": 1671326186,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 182689,
@@ -11153,6 +11273,14 @@
       "onboard_time": 1671249328,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 178331,
+      "num": 178331,
+      "word": "发烧喉咙痛如何缓解有效",
+      "onboard_time": 1671322702,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 178312,
@@ -12187,6 +12315,14 @@
       "category": "影视,音乐"
     },
     {
+      "raw_hot": 158220,
+      "num": 158220,
+      "word": "今晚谁将成为三冠王",
+      "onboard_time": 1671324924,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 158170,
       "num": 158170,
       "word": "雪人界翘臀天花板",
@@ -12353,6 +12489,14 @@
       "onboard_time": 1670905151,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 154624,
+      "num": 154624,
+      "word": "阳了你最难忍受哪种症状",
+      "onboard_time": 1671325946,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 154199,
@@ -12587,14 +12731,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 150831,
-      "num": 77854,
-      "word": "克罗地亚门将",
-      "onboard_time": 1671318256,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 150491,
       "num": 150491,
       "word": "如何最大程度让自己不阳",
@@ -12688,14 +12824,6 @@
       "word": "怎么看待所谓复阳",
       "onboard_time": 1671242908,
       "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 148622,
-      "num": 148622,
-      "word": "山西多名保安与民工发生肢体冲突",
-      "onboard_time": 1671310814,
-      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -13275,6 +13403,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 136818,
+      "num": 136818,
+      "word": "世界杯冠军 预测",
+      "onboard_time": 1671326428,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 136672,
       "num": 136672,
       "word": "领你去看国家公园",
@@ -13707,6 +13843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 127199,
+      "num": 127199,
+      "word": "张杰说很开心逆战能在世界杯响起",
+      "onboard_time": 1671320839,
+      "rank": 44,
+      "category": "体育,音乐"
+    },
+    {
       "raw_hot": 127188,
       "num": 127188,
       "word": "NCTDREAM音中初舞台",
@@ -13987,6 +14131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 121835,
+      "num": 121835,
+      "word": "致敬魔笛",
+      "onboard_time": 1671326606,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121529,
       "num": 121529,
       "word": "黄桃罐头如何引发囤货热潮",
@@ -14035,6 +14187,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 120169,
+      "num": 120169,
+      "word": "许魏洲范世錡何与烫嘴粤语",
+      "onboard_time": 1671326667,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 119870,
       "num": 119870,
       "word": "马嘉祺听到有弦乐团的反应",
@@ -14080,6 +14240,14 @@
       "word": "欢迎乘坐春熙路直达西岭雪山的雪国巴士",
       "onboard_time": 1670851575,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 118340,
+      "num": 118340,
+      "word": "转阴后就能放飞自我吗",
+      "onboard_time": 1671326546,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -14329,6 +14497,14 @@
       "onboard_time": 1671258144,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 109799,
+      "num": 109799,
+      "word": "莫德里奇说克罗地亚是足球超级强国",
+      "onboard_time": 1671326488,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 109658,
@@ -15127,14 +15303,6 @@
       "num": 71403,
       "word": "克罗地亚踢得放松",
       "onboard_time": 1671297980,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 49071,
-      "num": 49071,
-      "word": "莫德里奇微笑登上领奖台",
-      "onboard_time": 1671319997,
       "rank": 49,
       "category": "体育"
     },
