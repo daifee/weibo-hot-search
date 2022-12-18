@@ -1,0 +1,410 @@
+{
+  "runTime": 1671377597086,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 10833579,
+        "num": 10833579,
+        "word": "阿根廷vs法国",
+        "onboard_time": 1671370298,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 8294032,
+        "num": 8294032,
+        "word": "梅西点球破门",
+        "onboard_time": 1671377133,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1950398,
+        "num": 1950398,
+        "word": "闭幕式 中国国旗",
+        "onboard_time": 1671373833,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1934175,
+        "num": 1934175,
+        "word": "鹿晗解说",
+        "onboard_time": 1671374910,
+        "rank": 3,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 2649550,
+        "num": 1873878,
+        "word": "梅西",
+        "onboard_time": 1671374434,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1497822,
+        "num": 1497822,
+        "word": "点球",
+        "onboard_time": 1671377373,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1382423,
+        "num": 1382423,
+        "word": "世界杯决赛",
+        "onboard_time": 1671361410,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1344663,
+        "num": 1344663,
+        "word": "男子确诊后舌头牙齿全变黑",
+        "onboard_time": 1671368430,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275003,
+        "num": 1341863,
+        "word": "阳过后的生活用品不用更换",
+        "onboard_time": 1671355589,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1340218,
+        "num": 1340218,
+        "word": "女子阳性婆婆老公将水果儿子全打包走",
+        "onboard_time": 1671374854,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 874169,
+        "num": 874169,
+        "word": "男孩确诊高烧39.5℃依然活力十足",
+        "onboard_time": 1671372632,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 701690,
+        "num": 701690,
+        "word": "周杰伦演唱会遭观众吐槽",
+        "onboard_time": 1671365011,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 668294,
+        "num": 668294,
+        "word": "世界杯",
+        "onboard_time": 1671357510,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 623966,
+        "num": 623966,
+        "word": "C罗支持阿根廷夺冠",
+        "onboard_time": 1671371251,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 587615,
+        "num": 587615,
+        "word": "尹正说老嫂子这种梗对女性很不尊重",
+        "onboard_time": 1671371732,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 520350,
+        "num": 520350,
+        "word": "财阀家的小儿子14",
+        "onboard_time": 1671375753,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 501382,
+        "num": 501382,
+        "word": "赵樱子四次为自己争取参演机会",
+        "onboard_time": 1671369093,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 490242,
+        "num": 490242,
+        "word": "姆巴佩",
+        "onboard_time": 1671374133,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 460060,
+        "num": 460060,
+        "word": "男孩发烧以为阳性偷偷自我隔离",
+        "onboard_time": 1671360088,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 412897,
+        "num": 412897,
+        "word": "世界杯闭幕式",
+        "onboard_time": 1671372214,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 391795,
+        "num": 391795,
+        "word": "迪马利亚首发",
+        "onboard_time": 1671376411,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 377264,
+        "num": 377264,
+        "word": "费曼",
+        "onboard_time": 1671357150,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 375704,
+        "num": 375704,
+        "word": "dreamers",
+        "onboard_time": 1671375391,
+        "rank": 22,
+        "category": "体育,音乐"
+      },
+      {
+        "raw_hot": 371888,
+        "num": 371888,
+        "word": "吴镇宇 长相可以像演技别来沾边",
+        "onboard_time": 1671370652,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 363969,
+        "num": 363969,
+        "word": "无症状感染者为什么越来越少了",
+        "onboard_time": 1671362792,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325222,
+        "num": 325222,
+        "word": "备考考研阳了怎么办",
+        "onboard_time": 1671376891,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 318759,
+        "num": 318759,
+        "word": "如果梅西夺冠会发生什么",
+        "onboard_time": 1671361651,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 314578,
+        "num": 314578,
+        "word": "久哲",
+        "onboard_time": 1671375873,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 301871,
+        "num": 301871,
+        "word": "世界杯直播",
+        "onboard_time": 1671375692,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 64313,
+        "num": 281748,
+        "word": "法国卫冕or阿根廷圆梦",
+        "onboard_time": 1671377255,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 272488,
+        "num": 272488,
+        "word": "行程卡纪念版涉嫌违规暂停服务",
+        "onboard_time": 1671375216,
+        "rank": 30,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 258071,
+        "num": 258071,
+        "word": "王蓉再唱爸爸妈妈好戳泪点",
+        "onboard_time": 1671372455,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233237,
+        "num": 233237,
+        "word": "女子自称患最优秀病株6小时痊愈",
+        "onboard_time": 1671361531,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226163,
+        "num": 226163,
+        "word": "夫妻结伴坐地铁被误认为父女",
+        "onboard_time": 1671358949,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220250,
+        "num": 220250,
+        "word": "儿子在校读博没药吃父亲寄6斤布洛芬",
+        "onboard_time": 1671349888,
+        "rank": 34,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 216356,
+        "num": 216356,
+        "word": "没有詹俊",
+        "onboard_time": 1671377011,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 200569,
+        "num": 200569,
+        "word": "药神一直都在",
+        "onboard_time": 1671370413,
+        "rank": 36,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 188626,
+        "num": 188626,
+        "word": "刘宇宁直播说明年有演唱会",
+        "onboard_time": 1671376470,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 187949,
+        "num": 187949,
+        "word": "心墙",
+        "onboard_time": 1671377255,
+        "rank": 38,
+        "category": "体育,音乐"
+      },
+      {
+        "raw_hot": 185472,
+        "num": 185472,
+        "word": "许凯说要坚定地成为好演员",
+        "onboard_time": 1671377011,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 177653,
+        "num": 177653,
+        "word": "林俊杰演唱会",
+        "onboard_time": 1671367890,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 172590,
+        "num": 172590,
+        "word": "爸爸拿体温计放儿子脖上度数飙升",
+        "onboard_time": 1671364170,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172525,
+        "num": 172525,
+        "word": "苏打绿的相信响彻世界杯决赛场",
+        "onboard_time": 1671377434,
+        "rank": 42,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 169869,
+        "num": 169869,
+        "word": "喷酒精真的可以消毒吗",
+        "onboard_time": 1671352828,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 164531,
+        "num": 164531,
+        "word": "医生提醒4类人群慎用布洛芬",
+        "onboard_time": 1671359489,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156790,
+        "num": 156790,
+        "word": "还魂",
+        "onboard_time": 1671377071,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 150236,
+        "num": 150236,
+        "word": "久哲说大家的努力是完美的",
+        "onboard_time": 1671377493,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 148203,
+        "num": 148203,
+        "word": "Hero止步世冠",
+        "onboard_time": 1671372933,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 135126,
+        "num": 135126,
+        "word": "泽连斯基称随时准备单挑普京",
+        "onboard_time": 1671370532,
+        "rank": 48,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 126126,
+        "num": 134670,
+        "word": "浙江感染人群近8成为中青年",
+        "onboard_time": 1671377555,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#一图看懂中央经济工作会议#"
+    }
+  }
+}

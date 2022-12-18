@@ -1,13 +1,29 @@
 {
   "startTime": 1671294199148,
-  "endTime": 1671376607679,
+  "endTime": 1671377597086,
   "band_list": [
     {
-      "raw_hot": 4847944,
-      "num": 4847944,
+      "raw_hot": 10833579,
+      "num": 10833579,
       "word": "阿根廷vs法国",
       "onboard_time": 1671329966,
       "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 8294032,
+      "num": 8294032,
+      "word": "梅西点球破门",
+      "onboard_time": 1671377133,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2649550,
+      "num": 1873878,
+      "word": "梅西",
+      "onboard_time": 1671319576,
+      "rank": 28,
       "category": "体育"
     },
     {
@@ -57,6 +73,22 @@
       "onboard_time": 1671323484,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1950398,
+      "num": 1950398,
+      "word": "闭幕式 中国国旗",
+      "onboard_time": 1671373833,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1934175,
+      "num": 1934175,
+      "word": "鹿晗解说",
+      "onboard_time": 1671374910,
+      "rank": 4,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 1924320,
@@ -131,22 +163,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1531692,
-      "num": 1531692,
-      "word": "闭幕式 中国国旗",
-      "onboard_time": 1671373833,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1509020,
-      "num": 1509020,
-      "word": "鹿晗解说",
-      "onboard_time": 1671374910,
-      "rank": 4,
-      "category": "体育,艺人"
-    },
-    {
       "raw_hot": 1508642,
       "num": 1508642,
       "word": "男子自称感染哭株全国罕见",
@@ -163,12 +179,36 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1497822,
+      "num": 1497822,
+      "word": "点球",
+      "onboard_time": 1671377373,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1382423,
+      "num": 1382423,
+      "word": "世界杯决赛",
+      "onboard_time": 1671318976,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1342992,
       "num": 1342992,
       "word": "这姐真的太疯了",
       "onboard_time": 1671285568,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1340218,
+      "num": 1340218,
+      "word": "女子阳性婆婆老公将水果儿子全打包走",
+      "onboard_time": 1671374854,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1299437,
@@ -209,14 +249,6 @@
       "onboard_time": 1671296245,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1176670,
-      "num": 1176670,
-      "word": "女子阳性婆婆老公将水果儿子全打包走",
-      "onboard_time": 1671374854,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1172152,
@@ -265,14 +297,6 @@
       "onboard_time": 1671291570,
       "rank": 11,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1072531,
-      "num": 1072531,
-      "word": "世界杯决赛",
-      "onboard_time": 1671318976,
-      "rank": 15,
-      "category": "体育"
     },
     {
       "raw_hot": 1027676,
@@ -329,14 +353,6 @@
       "onboard_time": 1671291688,
       "rank": 12,
       "category": "体育,音乐"
-    },
-    {
-      "raw_hot": 927251,
-      "num": 927251,
-      "word": "梅西",
-      "onboard_time": 1671319576,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 908921,
@@ -539,6 +555,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 668294,
+      "num": 668294,
+      "word": "世界杯",
+      "onboard_time": 1671271767,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 663436,
       "num": 663436,
       "word": "阳性患者用完厕所消杀半小时后再用",
@@ -723,14 +747,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 534828,
-      "num": 534828,
-      "word": "世界杯",
-      "onboard_time": 1671271767,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 526513,
       "num": 240988,
       "word": "吴镇宇 为什么摔得那么假呢",
@@ -755,6 +771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 520350,
+      "num": 520350,
+      "word": "财阀家的小儿子14",
+      "onboard_time": 1671375753,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 501682,
       "num": 501682,
       "word": "河南一麦地现10层高楼当地避而不谈",
@@ -777,14 +801,6 @@
       "onboard_time": 1671319997,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 454833,
-      "num": 454833,
-      "word": "财阀家的小儿子14",
-      "onboard_time": 1671375753,
-      "rank": 18,
-      "category": "影视"
     },
     {
       "raw_hot": 454151,
@@ -953,6 +969,14 @@
       "onboard_time": 1671372692,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 391795,
+      "num": 391795,
+      "word": "迪马利亚首发",
+      "onboard_time": 1671376411,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 391506,
@@ -1139,6 +1163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 325222,
+      "num": 325222,
+      "word": "备考考研阳了怎么办",
+      "onboard_time": 1671376891,
+      "rank": 25,
+      "category": "教育"
+    },
+    {
       "raw_hot": 324705,
       "num": 184733,
       "word": "少爷和我",
@@ -1185,6 +1217,14 @@
       "onboard_time": 1671335850,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 314578,
+      "num": 314578,
+      "word": "久哲",
+      "onboard_time": 1671375873,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 312865,
@@ -1363,6 +1403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 272488,
+      "num": 272488,
+      "word": "行程卡纪念版涉嫌违规暂停服务",
+      "onboard_time": 1671375216,
+      "rank": 32,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 271078,
       "num": 271078,
       "word": "少爷和我纯享版",
@@ -1393,14 +1441,6 @@
       "onboard_time": 1671339630,
       "rank": 30,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 261060,
-      "num": 261060,
-      "word": "久哲",
-      "onboard_time": 1671375873,
-      "rank": 30,
-      "category": "游戏"
     },
     {
       "raw_hot": 259244,
@@ -1635,14 +1675,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 221281,
-      "num": 221281,
-      "word": "行程卡纪念版涉嫌违规暂停服务",
-      "onboard_time": 1671375216,
-      "rank": 32,
-      "category": "社会新闻,科技"
-    },
-    {
       "raw_hot": 220537,
       "num": 204461,
       "word": "网传浪姐4拟邀嘉宾阵容",
@@ -1681,6 +1713,14 @@
       "onboard_time": 1671337409,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 216356,
+      "num": 216356,
+      "word": "没有詹俊",
+      "onboard_time": 1671377011,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 216165,
@@ -1803,6 +1843,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 188626,
+      "num": 188626,
+      "word": "刘宇宁直播说明年有演唱会",
+      "onboard_time": 1671376470,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 187949,
+      "num": 187949,
+      "word": "心墙",
+      "onboard_time": 1671377255,
+      "rank": 38,
+      "category": "体育,音乐"
+    },
+    {
       "raw_hot": 186633,
       "num": 174243,
       "word": "周柯宇全粤语自我介绍完整版",
@@ -1817,6 +1873,14 @@
       "onboard_time": 1671307513,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 185472,
+      "num": 185472,
+      "word": "许凯说要坚定地成为好演员",
+      "onboard_time": 1671377011,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 183087,
@@ -1939,12 +2003,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 170541,
-      "num": 170541,
-      "word": "迪马利亚首发",
-      "onboard_time": 1671376411,
-      "rank": 39,
-      "category": "体育"
+      "raw_hot": 172525,
+      "num": 172525,
+      "word": "苏打绿的相信响彻世界杯决赛场",
+      "onboard_time": 1671377434,
+      "rank": 42,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 169680,
@@ -2067,6 +2131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 156790,
+      "num": 156790,
+      "word": "还魂",
+      "onboard_time": 1671377071,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 156259,
       "num": 156259,
       "word": "华晨宇希忘Hope歌单曝光",
@@ -2123,20 +2195,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 151288,
-      "num": 151288,
-      "word": "刘宇宁直播说明年有演唱会",
-      "onboard_time": 1671376470,
-      "rank": 41,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 151070,
       "num": 151070,
       "word": "徐璐评论王佑硕你是我的妖",
       "onboard_time": 1671354989,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 150236,
+      "num": 150236,
+      "word": "久哲说大家的努力是完美的",
+      "onboard_time": 1671377493,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 150110,
@@ -2273,6 +2345,14 @@
       "onboard_time": 1671334347,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 126126,
+      "num": 134670,
+      "word": "浙江感染人群近8成为中青年",
+      "onboard_time": 1671377555,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 125844,
@@ -2659,6 +2739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 64313,
+      "num": 281748,
+      "word": "法国卫冕or阿根廷圆梦",
+      "onboard_time": 1671377255,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 63358,
       "num": 71439,
       "word": "摩洛哥失误",
@@ -2738,6 +2826,9 @@
     },
     {
       "word": "#行稳致远#"
+    },
+    {
+      "word": "#一图看懂中央经济工作会议#"
     }
   ]
 }
