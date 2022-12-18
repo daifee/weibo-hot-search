@@ -1,6 +1,6 @@
 {
   "startTime": 1671380618877,
-  "endTime": 1671399186118,
+  "endTime": 1671401768952,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -699,6 +699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 179157,
+      "num": 179157,
+      "word": "沙特是本届世界杯唯一战胜冠军的球队",
+      "onboard_time": 1671388643,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 176970,
       "num": 176970,
       "word": "伊布",
@@ -736,6 +744,14 @@
       "word": "阿根廷青春无悔",
       "onboard_time": 1671389791,
       "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 149927,
+      "num": 149927,
+      "word": "梅西实至名归",
+      "onboard_time": 1671401173,
+      "rank": 14,
       "category": "体育"
     },
     {
@@ -872,14 +888,6 @@
       "word": "法国控球率",
       "onboard_time": 1671382590,
       "rank": 47,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 51323,
-      "num": 51323,
-      "word": "沙特是本届世界杯唯一战胜冠军的球队",
-      "onboard_time": 1671388643,
-      "rank": 30,
       "category": "体育"
     },
     {
