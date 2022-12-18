@@ -1,0 +1,410 @@
+{
+  "runTime": 1671354977221,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2035762,
+        "num": 2035762,
+        "word": "儿子在校读博没药吃父亲寄6斤布洛芬",
+        "onboard_time": 1671349888,
+        "rank": 0,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1648579,
+        "num": 1648579,
+        "word": "吴镇宇 怪不得我们还能存在",
+        "onboard_time": 1671348149,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211809,
+        "num": 1149599,
+        "word": "居家防疫的六大误区",
+        "onboard_time": 1671339928,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 972898,
+        "num": 972898,
+        "word": "张文宏称此轮疫情要做好2到4个月准备",
+        "onboard_time": 1671341068,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 791028,
+        "num": 791028,
+        "word": "沈月说我不想演",
+        "onboard_time": 1671346647,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 775544,
+        "num": 775544,
+        "word": "她不是叫赵韩樱子吗",
+        "onboard_time": 1671335971,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 659247,
+        "num": 659247,
+        "word": "男子自称感染哭株全国罕见",
+        "onboard_time": 1671343588,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 537271,
+        "num": 537271,
+        "word": "阿根廷球迷卖房卖车也要见证梅西捧杯",
+        "onboard_time": 1671352526,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 447017,
+        "num": 447017,
+        "word": "如何描述目前还没得新冠的人",
+        "onboard_time": 1671344728,
+        "rank": 8,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 421817,
+        "num": 421817,
+        "word": "以岭药业回应连花清瘟损伤肝脏",
+        "onboard_time": 1671346647,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1027676,
+        "num": 419423,
+        "word": "白鹿买了200张虞书欣EP",
+        "onboard_time": 1671354027,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 698910,
+        "num": 419324,
+        "word": "喷酒精真的可以消毒吗",
+        "onboard_time": 1671352828,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 617650,
+        "num": 418518,
+        "word": "SHINee官博悼念金钟铉",
+        "onboard_time": 1671354749,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 412596,
+        "num": 412596,
+        "word": "北大教授建议发一万亿消费券",
+        "onboard_time": 1671351207,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 412080,
+        "num": 412080,
+        "word": "男子为吓女友用红墨水拍割腕视频",
+        "onboard_time": 1671350665,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 394175,
+        "num": 394175,
+        "word": "老公阳性妻子3小时造家庭版隔离舱",
+        "onboard_time": 1671334288,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 387896,
+        "num": 387896,
+        "word": "黄奕发文求助水泥封鼻怎么缓解",
+        "onboard_time": 1671353606,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 329916,
+        "num": 329916,
+        "word": "因为太胖而舔不到毛的猫咪",
+        "onboard_time": 1671346045,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 297106,
+        "num": 297106,
+        "word": "梅西将在决赛前发表队内讲话",
+        "onboard_time": 1671336508,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 260738,
+        "num": 260738,
+        "word": "阳了症状不同取决于个体反应",
+        "onboard_time": 1671332788,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365300,
+        "num": 260622,
+        "word": "嗑过的cp居然有售后",
+        "onboard_time": 1671350489,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 306893,
+        "num": 260541,
+        "word": "杨幂粉色毛绒外套造型",
+        "onboard_time": 1671353428,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 259160,
+        "num": 259160,
+        "word": "今年居民消费比2021年减少两万亿",
+        "onboard_time": 1671344368,
+        "rank": 22,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 245377,
+        "num": 245377,
+        "word": "陈飞宇罗云熙皓衣行拜堂路透视频",
+        "onboard_time": 1671345868,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 224838,
+        "num": 224838,
+        "word": "水泥鼻",
+        "onboard_time": 1671331286,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221992,
+        "num": 221992,
+        "word": "阳性患者用完厕所消杀半小时后再用",
+        "onboard_time": 1671342510,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209338,
+        "num": 209338,
+        "word": "专家称吃雪糕可帮助喉咙消肿止痛",
+        "onboard_time": 1671354210,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185350,
+        "num": 185350,
+        "word": "药店老板剪开46盒退烧药送居民",
+        "onboard_time": 1671340050,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179131,
+        "num": 179131,
+        "word": "朋友圈买到假抗原阳性检测显阴性",
+        "onboard_time": 1671345689,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167137,
+        "num": 167137,
+        "word": "阿根廷盼了36年的冠军",
+        "onboard_time": 1671336328,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 198292,
+        "num": 165523,
+        "word": "Wendy黑色短发造型",
+        "onboard_time": 1671351745,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185478,
+        "num": 165472,
+        "word": "宋茜发布会现场哭了",
+        "onboard_time": 1671353907,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 163427,
+        "num": 163427,
+        "word": "德杯",
+        "onboard_time": 1671354687,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 156694,
+        "num": 156694,
+        "word": "德杯 LNG",
+        "onboard_time": 1671346467,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 151865,
+        "num": 151865,
+        "word": "男子和老婆吵架凌晨5点回来做早餐",
+        "onboard_time": 1671349467,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148315,
+        "num": 148315,
+        "word": "刘畊宏在卡塔尔翻车了",
+        "onboard_time": 1671332788,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146051,
+        "num": 146051,
+        "word": "赵樱子做的PPT",
+        "onboard_time": 1671338609,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141555,
+        "num": 141555,
+        "word": "穆里尼奥称期待梅西创造历史",
+        "onboard_time": 1671352286,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121197,
+        "num": 121197,
+        "word": "儿童感染新冠病程是什么样",
+        "onboard_time": 1671339690,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117025,
+        "num": 117025,
+        "word": "考研",
+        "onboard_time": 1671323663,
+        "rank": 39,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 135093,
+        "num": 116708,
+        "word": "华晨宇希忘Hope歌单曝光",
+        "onboard_time": 1671352407,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 116362,
+        "num": 116362,
+        "word": "北京的医护防波堤",
+        "onboard_time": 1671353428,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114390,
+        "num": 114390,
+        "word": "LNG对战WE",
+        "onboard_time": 1671351989,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 114082,
+        "num": 114082,
+        "word": "阿根廷教练说希望不要拖到点球大战",
+        "onboard_time": 1671353907,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105172,
+        "num": 105172,
+        "word": "女子阳性发烧狗狗整夜守床边陪伴",
+        "onboard_time": 1671354448,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104560,
+        "num": 104560,
+        "word": "第一个去卡塔尔旅游的虚拟人回来了",
+        "onboard_time": 1671354210,
+        "rank": 45,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 101828,
+        "num": 101828,
+        "word": "Rookie选手LPL出道八周年",
+        "onboard_time": 1671344609,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 97607,
+        "num": 97607,
+        "word": "四川3学生捡4000元黄金交民警",
+        "onboard_time": 1671354749,
+        "rank": 47,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 94492,
+        "num": 94492,
+        "word": "林多美 滤镜",
+        "onboard_time": 1671335548,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 94336,
+        "num": 94336,
+        "word": "疑似工人急用钱跪求老板结清工资",
+        "onboard_time": 1671354809,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#明年经济工作这么干#"
+    }
+  }
+}
