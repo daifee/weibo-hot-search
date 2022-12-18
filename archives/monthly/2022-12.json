@@ -1,7 +1,15 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1671384806765,
+  "endTime": 1671387624596,
   "band_list": [
+    {
+      "raw_hot": 28665862,
+      "num": 29915862,
+      "word": "阿根廷冠军",
+      "onboard_time": 1671386257,
+      "rank": 0,
+      "category": "体育"
+    },
     {
       "raw_hot": 13790167,
       "num": 13790167,
@@ -24,6 +32,22 @@
       "word": "克罗地亚vs巴西",
       "onboard_time": 1670594060,
       "rank": 3,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 9795704,
+      "num": 9795704,
+      "word": "恭喜梅西",
+      "onboard_time": 1670112908,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 9148304,
+      "num": 8294032,
+      "word": "梅西点球破门",
+      "onboard_time": 1670960230,
+      "rank": 1,
       "category": "体育"
     },
     {
@@ -51,11 +75,11 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 8294032,
-      "num": 8294032,
-      "word": "梅西点球破门",
-      "onboard_time": 1670960230,
-      "rank": 1,
+      "raw_hot": 8106623,
+      "num": 3692005,
+      "word": "梅西 进球有效",
+      "onboard_time": 1671384984,
+      "rank": 8,
       "category": "体育"
     },
     {
@@ -91,12 +115,28 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 6662462,
+      "num": 3565029,
+      "word": "梅西",
+      "onboard_time": 1670588600,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 6453532,
       "num": 1709001,
       "word": "恒大许家印在高管群发布语音消息",
       "onboard_time": 1669963450,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 6156407,
+      "num": 6156407,
+      "word": "姆巴佩帽子戏法",
+      "onboard_time": 1671385290,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 6043465,
@@ -121,6 +161,14 @@
       "onboard_time": 1670283609,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 5360704,
+      "num": 5360704,
+      "word": "圆满了",
+      "onboard_time": 1671387278,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 4870645,
@@ -323,6 +371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3731291,
+      "num": 3731291,
+      "word": "阿根廷门将",
+      "onboard_time": 1671383372,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 3709535,
       "num": 3709535,
       "word": "新冠特效药",
@@ -355,12 +411,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 3576368,
+      "num": 3576368,
+      "word": "劳塔罗",
+      "onboard_time": 1671384506,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 3542523,
       "num": 3542523,
       "word": "华西医院通报医学生阳性病危",
       "onboard_time": 1671007636,
       "rank": 0,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 3535901,
+      "num": 3535901,
+      "word": "姆巴佩 牛",
+      "onboard_time": 1671382650,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 3532403,
@@ -531,14 +603,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 3037981,
-      "num": 3037981,
-      "word": "劳塔罗",
-      "onboard_time": 1671384506,
-      "rank": 3,
-      "category": "体育"
-    },
-    {
       "raw_hot": 3031906,
       "num": 3031906,
       "word": "郭襄",
@@ -689,14 +753,6 @@
       "onboard_time": 1670400914,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2649550,
-      "num": 1922049,
-      "word": "梅西",
-      "onboard_time": 1670588600,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 2637679,
@@ -969,14 +1025,6 @@
       "onboard_time": 1671286113,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2354485,
-      "num": 2354485,
-      "word": "姆巴佩 牛",
-      "onboard_time": 1671382650,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 2345769,
@@ -1305,6 +1353,14 @@
       "onboard_time": 1671109719,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2111745,
+      "num": 2111745,
+      "word": "鹿晗说梅西比姆巴佩更需要冠军",
+      "onboard_time": 1671384746,
+      "rank": 11,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 2104058,
@@ -2547,6 +2603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1497511,
+      "num": 1497511,
+      "word": "马拉多纳",
+      "onboard_time": 1671380787,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1493388,
       "num": 1493388,
       "word": "荷兰5比6阿根廷",
@@ -2643,14 +2707,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1459277,
-      "num": 994674,
-      "word": "恭喜梅西",
-      "onboard_time": 1670112908,
-      "rank": 1,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1458867,
       "num": 1458867,
       "word": "小米",
@@ -2713,6 +2769,14 @@
       "onboard_time": 1671112539,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1442259,
+      "num": 1442259,
+      "word": "姆巴佩本届进球数反超梅西",
+      "onboard_time": 1671383203,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 1439241,
@@ -2867,14 +2931,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1394131,
-      "num": 1394131,
-      "word": "鹿晗说梅西比姆巴佩更需要冠军",
-      "onboard_time": 1671384746,
-      "rank": 11,
-      "category": "体育,艺人"
-    },
-    {
       "raw_hot": 1393347,
       "num": 1393347,
       "word": "医院发热门诊9成患者是阳性",
@@ -3012,7 +3068,7 @@
     },
     {
       "raw_hot": 1352296,
-      "num": 1352296,
+      "num": 3592536,
       "word": "点球大战",
       "onboard_time": 1670261890,
       "rank": 7,
@@ -5099,6 +5155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 952242,
+      "num": 952242,
+      "word": "迪巴拉",
+      "onboard_time": 1671381207,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 951694,
       "num": 840692,
       "word": "佩佩为C罗出头",
@@ -6947,6 +7011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 779135,
+      "num": 157563,
+      "word": "阿根廷夺冠",
+      "onboard_time": 1671386318,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 778862,
       "num": 778862,
       "word": "佩佩 遗憾",
@@ -8409,14 +8481,6 @@
       "onboard_time": 1671091291,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 675493,
-      "num": 675493,
-      "word": "阿根廷门将",
-      "onboard_time": 1671383372,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 675301,
@@ -12995,6 +13059,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 466818,
+      "num": 466818,
+      "word": "迪马利亚为决赛而生",
+      "onboard_time": 1671381447,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 466749,
       "num": 466749,
       "word": "李子维说每一次我都会爱上你",
@@ -15865,14 +15937,6 @@
       "onboard_time": 1671276392,
       "rank": 18,
       "category": "影视"
-    },
-    {
-      "raw_hot": 390050,
-      "num": 390050,
-      "word": "姆巴佩本届进球数反超梅西",
-      "onboard_time": 1671383203,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 389944,
@@ -19851,14 +19915,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 305117,
-      "num": 305117,
-      "word": "迪马利亚为决赛而生",
-      "onboard_time": 1671381447,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 305042,
       "num": 305042,
       "word": "审判三体",
@@ -21163,6 +21219,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 281193,
+      "num": 281193,
+      "word": "法国门将",
+      "onboard_time": 1671387108,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 281150,
       "num": 816759,
       "word": "乌拉圭主帅说出局因误判点球",
@@ -21377,6 +21441,14 @@
       "onboard_time": 1670552112,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 279026,
+      "num": 279026,
+      "word": "阿根廷7比5法国",
+      "onboard_time": 1671386815,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 278876,
@@ -26465,6 +26537,14 @@
       "onboard_time": 1670843596,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 210079,
+      "num": 283093,
+      "word": "法国3比3阿根廷",
+      "onboard_time": 1671385407,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 210063,
@@ -35355,6 +35435,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 137556,
+      "num": 137556,
+      "word": "世界杯颁奖",
+      "onboard_time": 1671387511,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 137526,
       "num": 137526,
       "word": "马思纯充电完成vlog",
@@ -37523,6 +37611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 121317,
+      "num": 121317,
+      "word": "阿根廷成就三星荣耀",
+      "onboard_time": 1671386986,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121256,
       "num": 181786,
       "word": "EDGM止步世冠",
@@ -38929,6 +39025,14 @@
       "onboard_time": 1671330689,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 108258,
+      "num": 1939661,
+      "word": "阿根廷3比2法国",
+      "onboard_time": 1671384746,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 108252,
@@ -40475,6 +40579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 87992,
+      "num": 87992,
+      "word": "世界杯决赛神剧情",
+      "onboard_time": 1671387167,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 87991,
       "num": 480504,
       "word": "从海边沙漠到卡塔尔珍珠",
@@ -41961,14 +42073,6 @@
       "onboard_time": 1669985591,
       "rank": 1,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 7522,
-      "num": 1939661,
-      "word": "阿根廷3比2法国",
-      "onboard_time": 1671384746,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 5389,
