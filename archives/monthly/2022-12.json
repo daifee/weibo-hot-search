@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1671387624596,
+  "endTime": 1671388469988,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -147,6 +147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 5948401,
+      "num": 5948401,
+      "word": "圆满了",
+      "onboard_time": 1671387278,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 5877039,
       "num": 7109965,
       "word": "全国默哀3分钟",
@@ -161,14 +169,6 @@
       "onboard_time": 1670283609,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 5360704,
-      "num": 5360704,
-      "word": "圆满了",
-      "onboard_time": 1671387278,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 4870645,
@@ -569,6 +569,14 @@
       "onboard_time": 1670480294,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3106333,
+      "num": 3293346,
+      "word": "姆巴佩 金靴奖",
+      "onboard_time": 1671388222,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 3098510,
@@ -2377,6 +2385,14 @@
       "onboard_time": 1669902551,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1568875,
+      "num": 1568875,
+      "word": "世界杯颁奖",
+      "onboard_time": 1671387511,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 1556447,
@@ -5792,6 +5808,14 @@
       "word": "加维都摔绿了",
       "onboard_time": 1670348468,
       "rank": 4,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 881744,
+      "num": 881744,
+      "word": "马克龙",
+      "onboard_time": 1671376828,
+      "rank": 22,
       "category": "体育"
     },
     {
@@ -13931,14 +13955,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 439223,
-      "num": 439223,
-      "word": "马克龙",
-      "onboard_time": 1671376828,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
       "raw_hot": 439188,
       "num": 439188,
       "word": "患者胸痛1个月肺里取出1根针",
@@ -18483,6 +18499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 329625,
+      "num": 329625,
+      "word": "阿根廷7比5法国",
+      "onboard_time": 1671386815,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 329590,
       "num": 329590,
       "word": "刘耀文新歌简介",
@@ -21443,14 +21467,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 279026,
-      "num": 279026,
-      "word": "阿根廷7比5法国",
-      "onboard_time": 1671386815,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 278876,
       "num": 2025344,
       "word": "70岁奶奶网恋外国男友4年转14万",
@@ -22865,6 +22881,14 @@
       "onboard_time": 1670391672,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 257358,
+      "num": 257358,
+      "word": "蒙牛",
+      "onboard_time": 1671387866,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 257338,
@@ -24947,6 +24971,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 229286,
+      "num": 141575,
+      "word": "大力神杯",
+      "onboard_time": 1671376950,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 229239,
       "num": 229239,
       "word": "成毅获GQ年度突破艺人",
@@ -26299,6 +26331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 212943,
+      "num": 113065,
+      "word": "潘帕斯雄鹰",
+      "onboard_time": 1671381746,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 212803,
       "num": 641892,
       "word": "加纳主帅宣布辞职",
@@ -27225,6 +27265,14 @@
       "onboard_time": 1670216171,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 200625,
+      "num": 200625,
+      "word": "阿圭罗",
+      "onboard_time": 1671388044,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 200614,
@@ -29819,6 +29867,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 179543,
+      "num": 125360,
+      "word": "世界杯决赛太刺激了",
+      "onboard_time": 1671383007,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 179449,
       "num": 212823,
       "word": "多地电影院有序开放",
@@ -30176,6 +30232,14 @@
       "word": "勇士战胜凯尔特人",
       "onboard_time": 1670732892,
       "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 176970,
+      "num": 176970,
+      "word": "伊布",
+      "onboard_time": 1671388161,
+      "rank": 34,
       "category": "体育"
     },
     {
@@ -34851,6 +34915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 141755,
+      "num": 141755,
+      "word": "阿根廷成就三星荣耀",
+      "onboard_time": 1671386986,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141712,
       "num": 141712,
       "word": "国乒于何一退出国家队",
@@ -35219,6 +35291,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 139284,
+      "num": 3505844,
+      "word": "梅西 金球奖",
+      "onboard_time": 1671388461,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 139252,
       "num": 1551163,
       "word": "2022这些同框浪漫又硬核",
@@ -35435,14 +35515,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 137556,
-      "num": 137556,
-      "word": "世界杯颁奖",
-      "onboard_time": 1671387511,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 137526,
       "num": 137526,
       "word": "马思纯充电完成vlog",
@@ -35520,6 +35592,14 @@
       "word": "男子用牙啃苹果雕出梅西侧脸",
       "onboard_time": 1670685679,
       "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 137120,
+      "num": 137120,
+      "word": "阿根廷球迷",
+      "onboard_time": 1671388340,
+      "rank": 38,
       "category": "体育"
     },
     {
@@ -36843,14 +36923,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 126899,
-      "num": 105182,
-      "word": "大力神杯",
-      "onboard_time": 1671376950,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 126824,
       "num": 126824,
       "word": "阿尔瓦雷斯造点",
@@ -37089,14 +37161,6 @@
       "onboard_time": 1670895669,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 125360,
-      "num": 125360,
-      "word": "世界杯决赛太刺激了",
-      "onboard_time": 1671383007,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 125290,
@@ -37609,14 +37673,6 @@
       "onboard_time": 1670776094,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 121317,
-      "num": 121317,
-      "word": "阿根廷成就三星荣耀",
-      "onboard_time": 1671386986,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 121256,
