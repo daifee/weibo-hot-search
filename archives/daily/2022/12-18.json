@@ -1,6 +1,6 @@
 {
   "startTime": 1671294199148,
-  "endTime": 1671363196874,
+  "endTime": 1671366691332,
   "band_list": [
     {
       "raw_hot": 2238795,
@@ -41,6 +41,14 @@
       "onboard_time": 1671323484,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1924320,
+      "num": 1924320,
+      "word": "男孩发烧以为阳性偷偷自我隔离",
+      "onboard_time": 1671360088,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1810884,
@@ -171,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1130861,
+      "num": 1130861,
+      "word": "如果梅西夺冠会发生什么",
+      "onboard_time": 1671361651,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1122553,
       "num": 655888,
       "word": "惠英红说沈月的脸是老天赏饭吃",
@@ -291,12 +307,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 879018,
-      "num": 879018,
-      "word": "男孩发烧以为阳性偷偷自我隔离",
-      "onboard_time": 1671360088,
-      "rank": 11,
-      "category": "社会新闻"
+      "raw_hot": 840997,
+      "num": 840997,
+      "word": "周杰伦演唱会遭观众吐槽",
+      "onboard_time": 1671365011,
+      "rank": 4,
+      "category": "音乐"
     },
     {
       "raw_hot": 805000,
@@ -369,6 +385,14 @@
       "onboard_time": 1671356609,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 704260,
+      "num": 704260,
+      "word": "EDG",
+      "onboard_time": 1671363272,
+      "rank": 8,
+      "category": "游戏"
     },
     {
       "raw_hot": 694768,
@@ -547,6 +571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 542612,
+      "num": 542612,
+      "word": "女子自称患最优秀病株6小时痊愈",
+      "onboard_time": 1671361531,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 540461,
       "num": 540461,
       "word": "赵小棠买了100张虞书欣新EP",
@@ -579,19 +611,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 519879,
-      "num": 519879,
-      "word": "如果梅西夺冠会发生什么",
-      "onboard_time": 1671361651,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 501682,
       "num": 501682,
       "word": "河南一麦地现10层高楼当地避而不谈",
       "onboard_time": 1671292472,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 488062,
+      "num": 488062,
+      "word": "无症状感染者为什么越来越少了",
+      "onboard_time": 1671362792,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -649,6 +681,14 @@
       "onboard_time": 1671356070,
       "rank": 15,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 426252,
+      "num": 426252,
+      "word": "杨幂视频告别爱的二八定律",
+      "onboard_time": 1671364532,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 423604,
@@ -819,6 +859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 357009,
+      "num": 357009,
+      "word": "男子高烧两天脸上大块掉皮",
+      "onboard_time": 1671362011,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 354037,
       "num": 354037,
       "word": "无畏",
@@ -827,12 +875,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 346633,
-      "num": 346633,
-      "word": "女子自称患最优秀病株6小时痊愈",
-      "onboard_time": 1671361531,
-      "rank": 37,
-      "category": "社会新闻"
+      "raw_hot": 347551,
+      "num": 347551,
+      "word": "你见过最牛的朋友圈是什么样的",
+      "onboard_time": 1671363333,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 343600,
@@ -875,12 +923,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 331459,
+      "num": 331459,
+      "word": "爸爸拿体温计放儿子脖上度数飙升",
+      "onboard_time": 1671364170,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 326589,
       "num": 326589,
       "word": "布克杀疯了",
       "onboard_time": 1671339148,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 325787,
+      "num": 325787,
+      "word": "G2冠军",
+      "onboard_time": 1671366630,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 324705,
@@ -987,6 +1051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 292654,
+      "num": 292654,
+      "word": "明星谈恋爱后应该公开吗",
+      "onboard_time": 1671363450,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 290276,
       "num": 290276,
       "word": "狼队对战Hero",
@@ -1032,6 +1104,14 @@
       "word": "服用镇咳糖浆半小时内不要喝水",
       "onboard_time": 1671337649,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 272734,
+      "num": 272734,
+      "word": "西安一药店老板免费发放上万颗退烧药",
+      "onboard_time": 1671362732,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -1081,14 +1161,6 @@
       "onboard_time": 1671322702,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 249666,
-      "num": 218102,
-      "word": "男子高烧两天脸上大块掉皮",
-      "onboard_time": 1671362011,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 249041,
@@ -1177,6 +1249,14 @@
       "onboard_time": 1671275548,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 235416,
+      "num": 235416,
+      "word": "小猫咪在外面要保护好自己",
+      "onboard_time": 1671363392,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 234419,
@@ -1427,6 +1507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 185276,
+      "num": 185276,
+      "word": "你选择单身的原因是什么",
+      "onboard_time": 1671363929,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 183087,
       "num": 183087,
       "word": "我国是布洛芬原料药最大生产国",
@@ -1441,6 +1529,14 @@
       "onboard_time": 1671346348,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 181927,
+      "num": 181927,
+      "word": "scout",
+      "onboard_time": 1671366450,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 181898,
@@ -1475,6 +1571,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 178808,
+      "num": 178808,
+      "word": "世界杯期间二手物品销量暴增",
+      "onboard_time": 1671366330,
+      "rank": 40,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 178331,
       "num": 178331,
       "word": "发烧喉咙痛如何缓解有效",
@@ -1489,6 +1593,14 @@
       "onboard_time": 1671346288,
       "rank": 30,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 177366,
+      "num": 177366,
+      "word": "阿Sa晒梅西签名球衣",
+      "onboard_time": 1671364111,
+      "rank": 41,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 177241,
@@ -1563,6 +1675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161137,
+      "num": 161137,
+      "word": "坂本龙一音乐会",
+      "onboard_time": 1671365371,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 160263,
       "num": 156384,
       "word": "赵露思封面大片花絮视频",
@@ -1635,14 +1755,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 143560,
-      "num": 143560,
-      "word": "无症状感染者为什么越来越少了",
-      "onboard_time": 1671362792,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 143342,
       "num": 143342,
       "word": "摩洛哥 黑马",
@@ -1689,6 +1801,14 @@
       "onboard_time": 1671301215,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 132000,
+      "num": 234936,
+      "word": "外卖小哥暖心留言让小伙泪目",
+      "onboard_time": 1671366086,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 131461,
@@ -1747,14 +1867,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 126404,
-      "num": 126404,
-      "word": "西安一药店老板免费发放上万颗退烧药",
-      "onboard_time": 1671362732,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 126155,
       "num": 126155,
       "word": "徐峥是懂怎样拿捏小演员的",
@@ -1793,6 +1905,14 @@
       "onboard_time": 1671333390,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 122596,
+      "num": 122596,
+      "word": "有种执着叫阿根廷",
+      "onboard_time": 1671366391,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 122561,
