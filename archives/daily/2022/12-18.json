@@ -1,6 +1,6 @@
 {
   "startTime": 1671294199148,
-  "endTime": 1671367736115,
+  "endTime": 1671369610534,
   "band_list": [
     {
       "raw_hot": 2238795,
@@ -123,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1449214,
+      "num": 1449214,
+      "word": "周杰伦演唱会遭观众吐槽",
+      "onboard_time": 1671365011,
+      "rank": 4,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1342992,
       "num": 1342992,
       "word": "这姐真的太疯了",
@@ -209,14 +217,6 @@
       "onboard_time": 1671291570,
       "rank": 11,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1055649,
-      "num": 1055649,
-      "word": "周杰伦演唱会遭观众吐槽",
-      "onboard_time": 1671365011,
-      "rank": 4,
-      "category": "音乐"
     },
     {
       "raw_hot": 1027676,
@@ -323,6 +323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 801451,
+      "num": 523404,
+      "word": "男子确诊后舌头牙齿全变黑",
+      "onboard_time": 1671368430,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 797180,
       "num": 797180,
       "word": "沈月 社恐",
@@ -353,6 +361,14 @@
       "onboard_time": 1671283830,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 737381,
+      "num": 737381,
+      "word": "无症状感染者为什么越来越少了",
+      "onboard_time": 1671362792,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 736558,
@@ -491,14 +507,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 603354,
-      "num": 603354,
-      "word": "无症状感染者为什么越来越少了",
-      "onboard_time": 1671362792,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 598555,
       "num": 598555,
       "word": "如何描述目前还没得新冠的人",
@@ -601,6 +609,14 @@
       "onboard_time": 1671351807,
       "rank": 10,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 536645,
+      "num": 536645,
+      "word": "爸爸拿体温计放儿子脖上度数飙升",
+      "onboard_time": 1671364170,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 526513,
@@ -739,6 +755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 408008,
+      "num": 408008,
+      "word": "明星谈恋爱后应该公开吗",
+      "onboard_time": 1671363450,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 405652,
       "num": 328368,
       "word": "赵樱子做的PPT",
@@ -827,22 +851,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 374418,
-      "num": 374418,
-      "word": "爸爸拿体温计放儿子脖上度数飙升",
-      "onboard_time": 1671364170,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 373039,
-      "num": 373039,
-      "word": "明星谈恋爱后应该公开吗",
-      "onboard_time": 1671363450,
-      "rank": 21,
-      "category": "影视"
-    },
-    {
       "raw_hot": 369496,
       "num": 369496,
       "word": "超市大白兔奶糖标价19块5结账变24块8",
@@ -865,6 +873,14 @@
       "onboard_time": 1671360209,
       "rank": 20,
       "category": "体育,网红"
+    },
+    {
+      "raw_hot": 368596,
+      "num": 368596,
+      "word": "赵樱子四次为自己争取参演机会",
+      "onboard_time": 1671369093,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 368560,
@@ -953,6 +969,14 @@
       "onboard_time": 1671320720,
       "rank": 17,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 330897,
+      "num": 330897,
+      "word": "世界杯决赛门票炒到近10万人民币",
+      "onboard_time": 1671366931,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 326589,
@@ -1115,6 +1139,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 275990,
+      "num": 275990,
+      "word": "林俊杰演唱会",
+      "onboard_time": 1671367890,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 275510,
       "num": 275510,
       "word": "王鹤棣的时装片场live图",
@@ -1137,6 +1169,22 @@
       "onboard_time": 1671362732,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 272510,
+      "num": 272510,
+      "word": "梅西进球了先找坐骑",
+      "onboard_time": 1671367352,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 271078,
+      "num": 271078,
+      "word": "少爷和我纯享版",
+      "onboard_time": 1671369213,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 267561,
@@ -1443,6 +1491,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 212539,
+      "num": 212539,
+      "word": "郎朗晒合照为梅西加油",
+      "onboard_time": 1671369451,
+      "rank": 32,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 208790,
       "num": 208790,
       "word": "吴尊友回应新十条为什么要等三年",
@@ -1480,6 +1536,14 @@
       "word": "王源晒录音室随拍",
       "onboard_time": 1671367352,
       "rank": 37,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 203575,
+      "num": 203575,
+      "word": "还是得到现场听宋亚轩唱歌",
+      "onboard_time": 1671368850,
+      "rank": 35,
       "category": "作品衍生"
     },
     {
@@ -1635,6 +1699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 176134,
+      "num": 176134,
+      "word": "被撸会微笑的小猫咪",
+      "onboard_time": 1671369093,
+      "rank": 42,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 169680,
       "num": 169680,
       "word": "苏醒相信梅西能夺冠",
@@ -1707,6 +1779,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 160426,
+      "num": 160426,
+      "word": "康复后家里怎么消毒",
+      "onboard_time": 1671368310,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 160263,
       "num": 156384,
       "word": "赵露思封面大片花絮视频",
@@ -1721,14 +1801,6 @@
       "onboard_time": 1671284010,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 156520,
-      "num": 239260,
-      "word": "世界杯决赛门票炒到近10万人民币",
-      "onboard_time": 1671366931,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 156259,
@@ -1787,6 +1859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 144089,
+      "num": 144089,
+      "word": "男子阳了儿子送饭不料狗子抢食",
+      "onboard_time": 1671369030,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 143342,
       "num": 143342,
       "word": "摩洛哥 黑马",
@@ -1825,6 +1905,14 @@
       "onboard_time": 1671347010,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 134916,
+      "num": 143867,
+      "word": "新疆赛里木湖现冰馕奇观",
+      "onboard_time": 1671369332,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 134358,
@@ -1920,14 +2008,6 @@
       "word": "世界杯门神名场面",
       "onboard_time": 1671358651,
       "rank": 46,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 124959,
-      "num": 124959,
-      "word": "梅西进球了先找坐骑",
-      "onboard_time": 1671367352,
-      "rank": 48,
       "category": "体育"
     },
     {
