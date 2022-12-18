@@ -1,6 +1,6 @@
 {
   "startTime": 1671294199148,
-  "endTime": 1671369610534,
+  "endTime": 1671370385949,
   "band_list": [
     {
       "raw_hot": 2238795,
@@ -115,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1520243,
+      "num": 523404,
+      "word": "男子确诊后舌头牙齿全变黑",
+      "onboard_time": 1671368430,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1508642,
       "num": 1508642,
       "word": "男子自称感染哭株全国罕见",
@@ -123,8 +131,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1449214,
-      "num": 1449214,
+      "raw_hot": 1505783,
+      "num": 1505783,
       "word": "周杰伦演唱会遭观众吐槽",
       "onboard_time": 1671365011,
       "rank": 4,
@@ -315,20 +323,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 823041,
+      "num": 823041,
+      "word": "无症状感染者为什么越来越少了",
+      "onboard_time": 1671362792,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 805000,
       "num": 805000,
       "word": "阿根廷盼了36年的冠军",
       "onboard_time": 1671336328,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 801451,
-      "num": 523404,
-      "word": "男子确诊后舌头牙齿全变黑",
-      "onboard_time": 1671368430,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 797180,
@@ -361,14 +369,6 @@
       "onboard_time": 1671283830,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 737381,
-      "num": 737381,
-      "word": "无症状感染者为什么越来越少了",
-      "onboard_time": 1671362792,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 736558,
@@ -489,6 +489,14 @@
       "onboard_time": 1671338909,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 618184,
+      "num": 618184,
+      "word": "赵樱子四次为自己争取参演机会",
+      "onboard_time": 1671369093,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 617650,
@@ -875,14 +883,6 @@
       "category": "体育,网红"
     },
     {
-      "raw_hot": 368596,
-      "num": 368596,
-      "word": "赵樱子四次为自己争取参演机会",
-      "onboard_time": 1671369093,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 368560,
       "num": 368560,
       "word": "赵樱子叫迪幂孟扎的原因",
@@ -905,6 +905,14 @@
       "onboard_time": 1671350489,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 362396,
+      "num": 362396,
+      "word": "世界杯决赛门票炒到近10万人民币",
+      "onboard_time": 1671366931,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 360499,
@@ -969,14 +977,6 @@
       "onboard_time": 1671320720,
       "rank": 17,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 330897,
-      "num": 330897,
-      "word": "世界杯决赛门票炒到近10万人民币",
-      "onboard_time": 1671366931,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 326589,
@@ -1083,6 +1083,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 298131,
+      "num": 298131,
+      "word": "阿根廷vs法国",
+      "onboard_time": 1671329966,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 296625,
+      "num": 296625,
+      "word": "郎朗晒合照为梅西加油",
+      "onboard_time": 1671369451,
+      "rank": 32,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 292752,
       "num": 271595,
       "word": "无限超越班第一期观后感",
@@ -1121,6 +1137,14 @@
       "onboard_time": 1671293546,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 283243,
+      "num": 283243,
+      "word": "梅西进球了先找坐骑",
+      "onboard_time": 1671367352,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 279282,
@@ -1169,14 +1193,6 @@
       "onboard_time": 1671362732,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 272510,
-      "num": 272510,
-      "word": "梅西进球了先找坐骑",
-      "onboard_time": 1671367352,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 271078,
@@ -1491,14 +1507,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 212539,
-      "num": 212539,
-      "word": "郎朗晒合照为梅西加油",
-      "onboard_time": 1671369451,
-      "rank": 32,
-      "category": "体育,艺人"
-    },
-    {
       "raw_hot": 208790,
       "num": 208790,
       "word": "吴尊友回应新十条为什么要等三年",
@@ -1520,6 +1528,14 @@
       "word": "张哲华 相册",
       "onboard_time": 1671321622,
       "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 206643,
+      "num": 206643,
+      "word": "张歆艺说减肥不是锻炼的最终目的",
+      "onboard_time": 1671370049,
+      "rank": 32,
       "category": "综艺"
     },
     {
@@ -1601,6 +1617,14 @@
       "onboard_time": 1671318256,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 186633,
+      "num": 174243,
+      "word": "周柯宇全粤语自我介绍完整版",
+      "onboard_time": 1671369813,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 186097,
@@ -1803,6 +1827,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 157162,
+      "num": 157162,
+      "word": "莫德里奇说作为赢家告别卡塔尔",
+      "onboard_time": 1671370229,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 157139,
+      "num": 157139,
+      "word": "男子阳了儿子送饭不料狗子抢食",
+      "onboard_time": 1671369030,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 156259,
       "num": 156259,
       "word": "华晨宇希忘Hope歌单曝光",
@@ -1817,6 +1857,14 @@
       "onboard_time": 1671338609,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152899,
+      "num": 152899,
+      "word": "想防住姆巴佩有多难",
+      "onboard_time": 1671369813,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 152495,
@@ -1843,6 +1891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 151801,
+      "num": 151801,
+      "word": "星痕不知火舞好秀",
+      "onboard_time": 1671369932,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 151070,
       "num": 151070,
       "word": "徐璐评论王佑硕你是我的妖",
@@ -1856,14 +1912,6 @@
       "word": "4岁儿子踩椅子给阳性妈妈做饭",
       "onboard_time": 1671286472,
       "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 144089,
-      "num": 144089,
-      "word": "男子阳了儿子送饭不料狗子抢食",
-      "onboard_time": 1671369030,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -2313,14 +2361,6 @@
       "onboard_time": 1671350365,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 87583,
-      "num": 92503,
-      "word": "阿根廷vs法国",
-      "onboard_time": 1671329966,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 83189,
