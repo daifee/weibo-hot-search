@@ -1,6 +1,6 @@
 {
   "startTime": 1671380618877,
-  "endTime": 1671398084538,
+  "endTime": 1671399186118,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -872,6 +872,14 @@
       "word": "法国控球率",
       "onboard_time": 1671382590,
       "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 51323,
+      "num": 51323,
+      "word": "沙特是本届世界杯唯一战胜冠军的球队",
+      "onboard_time": 1671388643,
+      "rank": 30,
       "category": "体育"
     },
     {

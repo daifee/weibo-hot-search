@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1671398084538,
+  "endTime": 1671399186118,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -41752,6 +41752,14 @@
       "word": "前田大然破门",
       "onboard_time": 1670256015,
       "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 51323,
+      "num": 51323,
+      "word": "沙特是本届世界杯唯一战胜冠军的球队",
+      "onboard_time": 1671388643,
+      "rank": 30,
       "category": "体育"
     },
     {
