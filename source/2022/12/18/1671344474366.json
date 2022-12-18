@@ -1,0 +1,410 @@
+{
+  "runTime": 1671344474366,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1600153,
+        "num": 1600153,
+        "word": "她不是叫赵韩樱子吗",
+        "onboard_time": 1671335971,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1475376,
+        "num": 1475376,
+        "word": "张文宏称此轮疫情要做好2到4个月准备",
+        "onboard_time": 1671341068,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327334,
+        "num": 1217219,
+        "word": "居家防疫的六大误区",
+        "onboard_time": 1671339928,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1162803,
+        "num": 1162803,
+        "word": "老公阳性妻子3小时造家庭版隔离舱",
+        "onboard_time": 1671334288,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 793460,
+        "num": 793460,
+        "word": "药店老板剪开46盒退烧药送居民",
+        "onboard_time": 1671340050,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 592591,
+        "num": 592591,
+        "word": "考研",
+        "onboard_time": 1671323663,
+        "rank": 5,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 579054,
+        "num": 579054,
+        "word": "阳了症状不同取决于个体反应",
+        "onboard_time": 1671332788,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 551243,
+        "num": 551243,
+        "word": "张文宏称即将走出疫情已成定局",
+        "onboard_time": 1671338909,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 523777,
+        "num": 523777,
+        "word": "刘畊宏在卡塔尔翻车了",
+        "onboard_time": 1671332788,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 430538,
+        "num": 430538,
+        "word": "阿根廷盼了36年的冠军",
+        "onboard_time": 1671336328,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 555308,
+        "num": 422319,
+        "word": "阳性患者用完厕所消杀半小时后再用",
+        "onboard_time": 1671342510,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 434416,
+        "num": 414755,
+        "word": "虞书欣晒十二宫格日常随拍",
+        "onboard_time": 1671343209,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 432397,
+        "num": 407831,
+        "word": "倪虹洁踩到宋茜裙子的反应",
+        "onboard_time": 1671342809,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 398940,
+        "num": 398940,
+        "word": "男子自称感染哭株全国罕见",
+        "onboard_time": 1671343588,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 4460,
+        "num": 374990,
+        "word": "地球是我们心中的潘多拉",
+        "onboard_time": 1671343209,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 368560,
+        "num": 368560,
+        "word": "赵樱子叫迪幂孟扎的原因",
+        "onboard_time": 1671337831,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 360969,
+        "num": 360969,
+        "word": "水泥鼻",
+        "onboard_time": 1671331286,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 337025,
+        "num": 337025,
+        "word": "梅西将在决赛前发表队内讲话",
+        "onboard_time": 1671336508,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 298124,
+        "num": 298124,
+        "word": "布克杀疯了",
+        "onboard_time": 1671339148,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 288200,
+        "num": 288200,
+        "word": "KN95口罩价格暴涨9天涨价六倍",
+        "onboard_time": 1671333150,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 337462,
+        "num": 282766,
+        "word": "沈月 社恐",
+        "onboard_time": 1671335670,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 266842,
+        "num": 266842,
+        "word": "吴彤自曝被李冰冰拒绝后牙掉了",
+        "onboard_time": 1671329244,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245965,
+        "num": 245965,
+        "word": "王鹤棣时装杂志十分钟破八万",
+        "onboard_time": 1671341909,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 241679,
+        "num": 241679,
+        "word": "儿童感染新冠病程是什么样",
+        "onboard_time": 1671339690,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241280,
+        "num": 241280,
+        "word": "布洛芬姿势",
+        "onboard_time": 1671330386,
+        "rank": 24,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 239467,
+        "num": 239467,
+        "word": "饿了么",
+        "onboard_time": 1671333089,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228662,
+        "num": 228662,
+        "word": "为什么有人感染后全身酸痛",
+        "onboard_time": 1671321622,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181565,
+        "num": 181565,
+        "word": "女子吃醉蟹吃出酒驾被罚",
+        "onboard_time": 1671331648,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176929,
+        "num": 176929,
+        "word": "服用镇咳糖浆半小时内不要喝水",
+        "onboard_time": 1671337649,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154329,
+        "num": 154329,
+        "word": "梅西",
+        "onboard_time": 1671319576,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 244352,
+        "num": 153872,
+        "word": "鞠婧祎回应浴室歌手",
+        "onboard_time": 1671342747,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 240868,
+        "num": 153804,
+        "word": "李子维黄雨萱莫俊杰陈韵如同框",
+        "onboard_time": 1671338010,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 233614,
+        "num": 153123,
+        "word": "龙丹妮三代男团在演唱会同框",
+        "onboard_time": 1671339809,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200924,
+        "num": 152928,
+        "word": "林多美 滤镜",
+        "onboard_time": 1671335548,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 152495,
+        "num": 152495,
+        "word": "轮胎充气爆炸工人被炸飞1米多高",
+        "onboard_time": 1671341788,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193764,
+        "num": 151104,
+        "word": "王铮亮说终于成为冠军兄弟的感受",
+        "onboard_time": 1671343405,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146572,
+        "num": 146572,
+        "word": "老爸豪横给儿子寄3公斤布洛芬",
+        "onboard_time": 1671344127,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146100,
+        "num": 146100,
+        "word": "为何会出现幻阳症",
+        "onboard_time": 1671326247,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126322,
+        "num": 126322,
+        "word": "带80岁奶奶买鞋全家配合演戏砍价",
+        "onboard_time": 1671338609,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122465,
+        "num": 122465,
+        "word": "西安一药房将投放200万份抗原",
+        "onboard_time": 1671335850,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190813,
+        "num": 122167,
+        "word": "车保罗 真诚",
+        "onboard_time": 1671343706,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121778,
+        "num": 121778,
+        "word": "超市大白兔奶糖标价19块5结账变24块8",
+        "onboard_time": 1671335850,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119591,
+        "num": 119591,
+        "word": "没想到留下来干活的是孩子",
+        "onboard_time": 1671333569,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 117649,
+        "num": 117649,
+        "word": "孙女问奶奶要嫁给爱情还是金钱",
+        "onboard_time": 1671329128,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 115821,
+        "num": 115821,
+        "word": "狗狗叼火腿肠放生病小主人枕边",
+        "onboard_time": 1671333990,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112524,
+        "num": 112524,
+        "word": "阳了你最难忍受哪种症状",
+        "onboard_time": 1671325946,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110013,
+        "num": 110013,
+        "word": "莫德里奇把小女儿举高高",
+        "onboard_time": 1671331047,
+        "rank": 46,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 101114,
+        "num": 101114,
+        "word": "世界杯冠军 预测",
+        "onboard_time": 1671326428,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100765,
+        "num": 100765,
+        "word": "今年居民消费比2021年减少两万亿",
+        "onboard_time": 1671344368,
+        "rank": 48,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 97730,
+        "num": 97730,
+        "word": "10问了解新冠复阳和再感染",
+        "onboard_time": 1671344249,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#为全面建设社会主义现代化国家开好局起好步#"
+    }
+  }
+}
