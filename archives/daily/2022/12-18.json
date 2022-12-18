@@ -1,6 +1,6 @@
 {
   "startTime": 1671294199148,
-  "endTime": 1671366691332,
+  "endTime": 1671367736115,
   "band_list": [
     {
       "raw_hot": 2238795,
@@ -211,6 +211,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1055649,
+      "num": 1055649,
+      "word": "周杰伦演唱会遭观众吐槽",
+      "onboard_time": 1671365011,
+      "rank": 4,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1027676,
       "num": 536337,
       "word": "白鹿买了200张虞书欣EP",
@@ -304,14 +312,6 @@
       "word": "周杰伦演唱会",
       "onboard_time": 1671289588,
       "rank": 20,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 840997,
-      "num": 840997,
-      "word": "周杰伦演唱会遭观众吐槽",
-      "onboard_time": 1671365011,
-      "rank": 4,
       "category": "音乐"
     },
     {
@@ -491,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 603354,
+      "num": 603354,
+      "word": "无症状感染者为什么越来越少了",
+      "onboard_time": 1671362792,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 598555,
       "num": 598555,
       "word": "如何描述目前还没得新冠的人",
@@ -521,6 +529,14 @@
       "onboard_time": 1671289588,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 559281,
+      "num": 559281,
+      "word": "G2冠军",
+      "onboard_time": 1671366630,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 557139,
@@ -619,14 +635,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 488062,
-      "num": 488062,
-      "word": "无症状感染者为什么越来越少了",
-      "onboard_time": 1671362792,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 463693,
       "num": 463693,
       "word": "梅西说带着中国球迷的祝福战斗",
@@ -657,6 +665,14 @@
       "onboard_time": 1671338010,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 439736,
+      "num": 439736,
+      "word": "scout",
+      "onboard_time": 1671366450,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 434416,
@@ -811,11 +827,35 @@
       "category": "体育"
     },
     {
+      "raw_hot": 374418,
+      "num": 374418,
+      "word": "爸爸拿体温计放儿子脖上度数飙升",
+      "onboard_time": 1671364170,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 373039,
+      "num": 373039,
+      "word": "明星谈恋爱后应该公开吗",
+      "onboard_time": 1671363450,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 369496,
       "num": 369496,
       "word": "超市大白兔奶糖标价19块5结账变24块8",
       "onboard_time": 1671335850,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 369301,
+      "num": 369301,
+      "word": "男子高烧两天脸上大块掉皮",
+      "onboard_time": 1671362011,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -857,14 +897,6 @@
       "onboard_time": 1671293129,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 357009,
-      "num": 357009,
-      "word": "男子高烧两天脸上大块掉皮",
-      "onboard_time": 1671362011,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 354037,
@@ -923,28 +955,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 331459,
-      "num": 331459,
-      "word": "爸爸拿体温计放儿子脖上度数飙升",
-      "onboard_time": 1671364170,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 326589,
       "num": 326589,
       "word": "布克杀疯了",
       "onboard_time": 1671339148,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 325787,
-      "num": 325787,
-      "word": "G2冠军",
-      "onboard_time": 1671366630,
-      "rank": 18,
-      "category": "游戏"
     },
     {
       "raw_hot": 324705,
@@ -1051,14 +1067,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 292654,
-      "num": 292654,
-      "word": "明星谈恋爱后应该公开吗",
-      "onboard_time": 1671363450,
-      "rank": 21,
-      "category": "影视"
-    },
-    {
       "raw_hot": 290276,
       "num": 290276,
       "word": "狼队对战Hero",
@@ -1089,6 +1097,22 @@
       "onboard_time": 1671293546,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 279282,
+      "num": 279282,
+      "word": "苏醒发视频祝福梅西",
+      "onboard_time": 1671367111,
+      "rank": 22,
+      "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 276688,
+      "num": 276688,
+      "word": "小猫咪在外面要保护好自己",
+      "onboard_time": 1671363392,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 275510,
@@ -1161,6 +1185,14 @@
       "onboard_time": 1671322702,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 250149,
+      "num": 250149,
+      "word": "EDG官宣FoFo加入",
+      "onboard_time": 1671366691,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 249041,
@@ -1249,14 +1281,6 @@
       "onboard_time": 1671275548,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 235416,
-      "num": 235416,
-      "word": "小猫咪在外面要保护好自己",
-      "onboard_time": 1671363392,
-      "rank": 28,
-      "category": "幽默"
     },
     {
       "raw_hot": 234419,
@@ -1379,6 +1403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 218368,
+      "num": 218368,
+      "word": "你选择单身的原因是什么",
+      "onboard_time": 1671363929,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 217763,
       "num": 217763,
       "word": "徐冬冬回应被说是给王多鱼按摩的",
@@ -1441,6 +1473,14 @@
       "onboard_time": 1671355589,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204970,
+      "num": 204970,
+      "word": "王源晒录音室随拍",
+      "onboard_time": 1671367352,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 198292,
@@ -1507,14 +1547,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 185276,
-      "num": 185276,
-      "word": "你选择单身的原因是什么",
-      "onboard_time": 1671363929,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
       "raw_hot": 183087,
       "num": 183087,
       "word": "我国是布洛芬原料药最大生产国",
@@ -1529,14 +1561,6 @@
       "onboard_time": 1671346348,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 181927,
-      "num": 181927,
-      "word": "scout",
-      "onboard_time": 1671366450,
-      "rank": 38,
-      "category": "游戏"
     },
     {
       "raw_hot": 181898,
@@ -1697,6 +1721,14 @@
       "onboard_time": 1671284010,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 156520,
+      "num": 239260,
+      "word": "世界杯决赛门票炒到近10万人民币",
+      "onboard_time": 1671366931,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 156259,
@@ -1891,6 +1923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124959,
+      "num": 124959,
+      "word": "梅西进球了先找坐骑",
+      "onboard_time": 1671367352,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 122864,
       "num": 122864,
       "word": "冬日限定美景冰蝴蝶",
@@ -1961,6 +2001,14 @@
       "onboard_time": 1671353428,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 116233,
+      "num": 116233,
+      "word": "阿里云",
+      "onboard_time": 1671367711,
+      "rank": 49,
+      "category": "科技"
     },
     {
       "raw_hot": 115886,
@@ -2327,6 +2375,9 @@
     },
     {
       "word": "#明年经济工作这么干#"
+    },
+    {
+      "word": "#行稳致远#"
     }
   ]
 }

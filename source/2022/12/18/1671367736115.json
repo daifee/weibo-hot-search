@@ -1,0 +1,410 @@
+{
+  "runTime": 1671367736115,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1776862,
+        "num": 1776862,
+        "word": "男孩发烧以为阳性偷偷自我隔离",
+        "onboard_time": 1671360088,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1096004,
+        "num": 1096004,
+        "word": "如果梅西夺冠会发生什么",
+        "onboard_time": 1671361651,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 51327,
+        "num": 1065338,
+        "word": "提高免疫力该怎么做",
+        "onboard_time": 1671333150,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1055649,
+        "num": 1055649,
+        "word": "周杰伦演唱会遭观众吐槽",
+        "onboard_time": 1671365011,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 994179,
+        "num": 994179,
+        "word": "费曼",
+        "onboard_time": 1671357150,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 773278,
+        "num": 773278,
+        "word": "儿子在校读博没药吃父亲寄6斤布洛芬",
+        "onboard_time": 1671349888,
+        "rank": 5,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 693176,
+        "num": 693176,
+        "word": "喷酒精真的可以消毒吗",
+        "onboard_time": 1671352828,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 630907,
+        "num": 630907,
+        "word": "吴镇宇 怪不得我们还能存在",
+        "onboard_time": 1671348149,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 603354,
+        "num": 603354,
+        "word": "无症状感染者为什么越来越少了",
+        "onboard_time": 1671362792,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 574598,
+        "num": 574598,
+        "word": "EDG",
+        "onboard_time": 1671363272,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 559281,
+        "num": 559281,
+        "word": "G2冠军",
+        "onboard_time": 1671366630,
+        "rank": 10,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 527959,
+        "num": 527959,
+        "word": "女子自称患最优秀病株6小时痊愈",
+        "onboard_time": 1671361531,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 486991,
+        "num": 486991,
+        "word": "夫妻结伴坐地铁被误认为父女",
+        "onboard_time": 1671358949,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 439736,
+        "num": 439736,
+        "word": "scout",
+        "onboard_time": 1671366450,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 419538,
+        "num": 419538,
+        "word": "男子不信阳性难受第2天嗷嗷叫唤",
+        "onboard_time": 1671359190,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 374418,
+        "num": 374418,
+        "word": "爸爸拿体温计放儿子脖上度数飙升",
+        "onboard_time": 1671364170,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 373039,
+        "num": 373039,
+        "word": "明星谈恋爱后应该公开吗",
+        "onboard_time": 1671363450,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 369733,
+        "num": 369733,
+        "word": "杨幂视频告别爱的二八定律",
+        "onboard_time": 1671364532,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 369301,
+        "num": 369301,
+        "word": "男子高烧两天脸上大块掉皮",
+        "onboard_time": 1671362011,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330027,
+        "num": 330027,
+        "word": "无畏",
+        "onboard_time": 1671363029,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 314776,
+        "num": 314776,
+        "word": "阿根廷vs法国夺冠预测",
+        "onboard_time": 1671356609,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 280708,
+        "num": 280708,
+        "word": "秦岚晒澳门碎片随拍",
+        "onboard_time": 1671359671,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279282,
+        "num": 279282,
+        "word": "苏醒发视频祝福梅西",
+        "onboard_time": 1671367111,
+        "rank": 22,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 276688,
+        "num": 276688,
+        "word": "小猫咪在外面要保护好自己",
+        "onboard_time": 1671363392,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 263830,
+        "num": 263830,
+        "word": "你见过最牛的朋友圈是什么样的",
+        "onboard_time": 1671363333,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 255840,
+        "num": 255840,
+        "word": "新冠食疗法有多牛",
+        "onboard_time": 1671357331,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 252163,
+        "num": 252163,
+        "word": "白鹿买了200张虞书欣EP",
+        "onboard_time": 1671354027,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 250149,
+        "num": 250149,
+        "word": "EDG官宣FoFo加入",
+        "onboard_time": 1671366691,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 244419,
+        "num": 244419,
+        "word": "西安一药店老板免费发放上万颗退烧药",
+        "onboard_time": 1671362732,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156520,
+        "num": 239260,
+        "word": "世界杯决赛门票炒到近10万人民币",
+        "onboard_time": 1671366931,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 239226,
+        "num": 239226,
+        "word": "沈月说我不想演",
+        "onboard_time": 1671346647,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236720,
+        "num": 236720,
+        "word": "北大教授建议发一万亿消费券",
+        "onboard_time": 1671351207,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226196,
+        "num": 226196,
+        "word": "黄奕发文求助水泥封鼻怎么缓解",
+        "onboard_time": 1671353606,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222195,
+        "num": 222195,
+        "word": "医生提醒4类人群慎用布洛芬",
+        "onboard_time": 1671359489,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218368,
+        "num": 218368,
+        "word": "你选择单身的原因是什么",
+        "onboard_time": 1671363929,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 213241,
+        "num": 213241,
+        "word": "张文宏称此轮疫情要做好2到4个月准备",
+        "onboard_time": 1671341068,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211667,
+        "num": 211667,
+        "word": "安宥真发现张元英不在的反应",
+        "onboard_time": 1671358411,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 204970,
+        "num": 204970,
+        "word": "王源晒录音室随拍",
+        "onboard_time": 1671367352,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 180989,
+        "num": 180989,
+        "word": "广东考研学生须于12月20日进行核酸检测",
+        "onboard_time": 1671356070,
+        "rank": 38,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 166708,
+        "num": 166708,
+        "word": "如何描述目前还没得新冠的人",
+        "onboard_time": 1671344728,
+        "rank": 39,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 187776,
+        "num": 166046,
+        "word": "她不是叫赵韩樱子吗",
+        "onboard_time": 1671335971,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184033,
+        "num": 165920,
+        "word": "李宗伟晒与王嘉尔合影",
+        "onboard_time": 1671361708,
+        "rank": 41,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 165084,
+        "num": 165084,
+        "word": "世界杯",
+        "onboard_time": 1671357510,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157546,
+        "num": 157546,
+        "word": "女子阳性发烧狗狗整夜守床边陪伴",
+        "onboard_time": 1671354448,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141433,
+        "num": 141433,
+        "word": "世界杯决赛",
+        "onboard_time": 1671361410,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139532,
+        "num": 139532,
+        "word": "专家称吃雪糕可帮助喉咙消肿止痛",
+        "onboard_time": 1671354210,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138414,
+        "num": 138414,
+        "word": "男子发烧近40度说胡话像外语",
+        "onboard_time": 1671360511,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135378,
+        "num": 135378,
+        "word": "詹俊缺席世界杯决赛解说",
+        "onboard_time": 1671360870,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124959,
+        "num": 124959,
+        "word": "梅西进球了先找坐骑",
+        "onboard_time": 1671367352,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116233,
+        "num": 116233,
+        "word": "阿里云",
+        "onboard_time": 1671367711,
+        "rank": 49,
+        "category": "科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#行稳致远#"
+    }
+  }
+}
