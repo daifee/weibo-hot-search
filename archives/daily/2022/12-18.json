@@ -1,6 +1,6 @@
 {
   "startTime": 1671294199148,
-  "endTime": 1671328296685,
+  "endTime": 1671330974414,
   "band_list": [
     {
       "raw_hot": 2153870,
@@ -139,6 +139,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 789839,
+      "num": 789839,
+      "word": "吴彤自曝被李冰冰拒绝后牙掉了",
+      "onboard_time": 1671329244,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 778632,
       "num": 267830,
       "word": "周柯宇 谈过恋爱",
@@ -203,6 +211,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 527699,
+      "num": 527699,
+      "word": "为何会出现幻阳症",
+      "onboard_time": 1671326247,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 526513,
       "num": 240988,
       "word": "吴镇宇 为什么摔得那么假呢",
@@ -235,6 +251,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 483714,
+      "num": 483714,
+      "word": "孙女问奶奶要嫁给爱情还是金钱",
+      "onboard_time": 1671329128,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 463693,
+      "num": 463693,
+      "word": "梅西说带着中国球迷的祝福战斗",
+      "onboard_time": 1671327507,
+      "rank": 33,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 456499,
       "num": 456499,
       "word": "莫德里奇微笑登上领奖台",
@@ -251,12 +283,12 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 442827,
-      "num": 442827,
-      "word": "为何会出现幻阳症",
-      "onboard_time": 1671326247,
-      "rank": 31,
-      "category": "社会新闻"
+      "raw_hot": 401891,
+      "num": 401891,
+      "word": "周杰伦演唱会唱了说爱你",
+      "onboard_time": 1671320839,
+      "rank": 14,
+      "category": "音乐"
     },
     {
       "raw_hot": 399250,
@@ -291,12 +323,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 380940,
-      "num": 380940,
-      "word": "周杰伦演唱会唱了说爱你",
-      "onboard_time": 1671320839,
-      "rank": 14,
-      "category": "音乐"
+      "raw_hot": 388875,
+      "num": 388875,
+      "word": "父母摆煎饼摊孩子坐餐车还没煤气罐大",
+      "onboard_time": 1671326967,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 379312,
@@ -371,6 +403,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 292752,
+      "num": 271595,
+      "word": "无限超越班第一期观后感",
+      "onboard_time": 1671325705,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 292018,
+      "num": 292018,
+      "word": "世界杯冠军 预测",
+      "onboard_time": 1671326428,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 287245,
       "num": 165265,
       "word": "罗晋在你好星期六合拍像局外人",
@@ -379,20 +427,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 283159,
-      "num": 283159,
-      "word": "父母摆煎饼摊孩子坐餐车还没煤气罐大",
-      "onboard_time": 1671326967,
-      "rank": 18,
+      "raw_hot": 280227,
+      "num": 280227,
+      "word": "阳了你最难忍受哪种症状",
+      "onboard_time": 1671325946,
+      "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 280451,
-      "num": 271595,
-      "word": "无限超越班第一期观后感",
-      "onboard_time": 1671325705,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 267561,
@@ -443,20 +483,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 240189,
-      "num": 240189,
-      "word": "阳了你最难忍受哪种症状",
-      "onboard_time": 1671325946,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 237366,
       "num": 1514837,
       "word": "阳性居家治疗时怎样保护家人",
       "onboard_time": 1671275548,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 235498,
+      "num": 235498,
+      "word": "猫咪鬼鬼祟祟偷虾摊主发现不驱赶",
+      "onboard_time": 1671328406,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 222992,
@@ -475,19 +515,19 @@
       "category": "影视"
     },
     {
+      "raw_hot": 217740,
+      "num": 217740,
+      "word": "转阴后就能放飞自我吗",
+      "onboard_time": 1671326546,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 208790,
       "num": 208790,
       "word": "吴尊友回应新十条为什么要等三年",
       "onboard_time": 1671280470,
       "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 207907,
-      "num": 207907,
-      "word": "转阴后就能放飞自我吗",
-      "onboard_time": 1671326546,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -499,20 +539,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 199050,
+      "num": 183783,
+      "word": "徐冬冬回应被说是给王多鱼按摩的",
+      "onboard_time": 1671330808,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 198068,
       "num": 198068,
       "word": "2人毒杀狗被发现后不慎掉下路基",
       "onboard_time": 1671275249,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 197706,
-      "num": 197706,
-      "word": "世界杯冠军 预测",
-      "onboard_time": 1671326428,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 196497,
@@ -571,12 +611,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 169983,
-      "num": 169983,
-      "word": "梅西说带着中国球迷的祝福战斗",
-      "onboard_time": 1671327507,
-      "rank": 33,
-      "category": "体育,社会新闻"
+      "raw_hot": 174977,
+      "num": 174977,
+      "word": "感染新冠康复后仍要戴口罩",
+      "onboard_time": 1671330447,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 171047,
+      "num": 171047,
+      "word": "布洛芬姿势",
+      "onboard_time": 1671330386,
+      "rank": 36,
+      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 169190,
@@ -617,6 +665,14 @@
       "onboard_time": 1671284010,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 156048,
+      "num": 131333,
+      "word": "决赛日饿了么十万免单",
+      "onboard_time": 1671328827,
+      "rank": 39,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 150110,
@@ -667,6 +723,14 @@
       "category": "体育,音乐"
     },
     {
+      "raw_hot": 122864,
+      "num": 122864,
+      "word": "冬日限定美景冰蝴蝶",
+      "onboard_time": 1671329848,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 121835,
       "num": 121835,
       "word": "致敬魔笛",
@@ -715,6 +779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110601,
+      "num": 110601,
+      "word": "雪后黄山一秒变仙侠世界",
+      "onboard_time": 1671330747,
+      "rank": 47,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 109799,
       "num": 109799,
       "word": "莫德里奇说克罗地亚是足球超级强国",
@@ -731,12 +803,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 108270,
+      "num": 108270,
+      "word": "警犬寒夜搜山找到七旬失联老人",
+      "onboard_time": 1671330689,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 108220,
       "num": 108220,
       "word": "克罗地亚进球",
       "onboard_time": 1671290429,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 107488,
+      "num": 107488,
+      "word": "按压一个穴位缓解咳嗽咽痛",
+      "onboard_time": 1671330925,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 106358,
