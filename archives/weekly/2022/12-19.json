@@ -1,6 +1,6 @@
 {
   "startTime": 1671380618877,
-  "endTime": 1671390796592,
+  "endTime": 1671391994189,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -235,6 +235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1081113,
+      "num": 1081113,
+      "word": "哈兰德",
+      "onboard_time": 1671389669,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1034084,
       "num": 1034084,
       "word": "闭幕式 中国国旗",
@@ -323,6 +331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 809862,
+      "num": 809862,
+      "word": "阿圭罗",
+      "onboard_time": 1671388044,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 779135,
       "num": 157563,
       "word": "阿根廷夺冠",
@@ -337,22 +353,6 @@
       "onboard_time": 1671365011,
       "rank": 12,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 705079,
-      "num": 705079,
-      "word": "哈兰德",
-      "onboard_time": 1671389669,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 702993,
-      "num": 702993,
-      "word": "阿圭罗",
-      "onboard_time": 1671388044,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 693459,
@@ -417,6 +417,14 @@
       "onboard_time": 1671377614,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 460987,
+      "num": 460987,
+      "word": "贝克汉姆",
+      "onboard_time": 1671390502,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 441781,
@@ -515,6 +523,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 284480,
+      "num": 284480,
+      "word": "斯卡洛尼",
+      "onboard_time": 1671390682,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 281511,
       "num": 281511,
       "word": "男孩发烧以为阳性偷偷自我隔离",
@@ -553,6 +569,14 @@
       "onboard_time": 1671362792,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 238217,
+      "num": 258911,
+      "word": "巴蒂斯图塔",
+      "onboard_time": 1671389970,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 235799,
@@ -691,14 +715,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 158180,
-      "num": 258911,
-      "word": "巴蒂斯图塔",
-      "onboard_time": 1671389970,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 158146,
       "num": 158146,
       "word": "爸爸拿体温计放儿子脖上度数飙升",
@@ -747,6 +763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 143006,
+      "num": 256939,
+      "word": "央视解说",
+      "onboard_time": 1671390145,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141996,
       "num": 141996,
       "word": "恩佐黄牌",
@@ -763,22 +787,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 135845,
-      "num": 256939,
-      "word": "央视解说",
-      "onboard_time": 1671390145,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 125778,
-      "num": 256681,
-      "word": "斯卡洛尼",
-      "onboard_time": 1671390682,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 108258,
       "num": 1939661,
       "word": "阿根廷3比2法国",
@@ -788,7 +796,7 @@
     },
     {
       "raw_hot": 105804,
-      "num": 105804,
+      "num": 149156,
       "word": "杨迪回复粉丝叫爸爸",
       "onboard_time": 1671381387,
       "rank": 48,
@@ -801,14 +809,6 @@
       "onboard_time": 1671376470,
       "rank": 48,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 99738,
-      "num": 255890,
-      "word": "贝克汉姆",
-      "onboard_time": 1671390502,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 99271,
@@ -865,6 +865,14 @@
       "onboard_time": 1671382590,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 32981,
+      "num": 149155,
+      "word": "徐璐控泪卡点",
+      "onboard_time": 1671391636,
+      "rank": 48,
+      "category": "影视"
     }
   ],
   "hotgov_list": [
