@@ -1,6 +1,6 @@
 {
   "startTime": 1670775913271,
-  "endTime": 1671374002982,
+  "endTime": 1671376607679,
   "band_list": [
     {
       "raw_hot": 7857110,
@@ -17,6 +17,14 @@
       "onboard_time": 1670984291,
       "rank": 5,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 4847944,
+      "num": 4847944,
+      "word": "阿根廷vs法国",
+      "onboard_time": 1671329966,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 4521108,
@@ -875,6 +883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1531692,
+      "num": 1531692,
+      "word": "闭幕式 中国国旗",
+      "onboard_time": 1671373833,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1530771,
       "num": 1530771,
       "word": "婆婆给出生9天宝宝喂米糊",
@@ -905,6 +921,14 @@
       "onboard_time": 1670843236,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1509020,
+      "num": 1509020,
+      "word": "鹿晗解说",
+      "onboard_time": 1671374910,
+      "rank": 4,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 1508642,
@@ -1411,6 +1435,14 @@
       "category": "综艺,幽默"
     },
     {
+      "raw_hot": 1176670,
+      "num": 1176670,
+      "word": "女子阳性婆婆老公将水果儿子全打包走",
+      "onboard_time": 1671374854,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1172152,
       "num": 1172152,
       "word": "阳了症状不同取决于个体反应",
@@ -1531,6 +1563,14 @@
       "category": "综艺,综艺"
     },
     {
+      "raw_hot": 1122969,
+      "num": 1122969,
+      "word": "男孩确诊高烧39.5℃依然活力十足",
+      "onboard_time": 1671372632,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1122553,
       "num": 655888,
       "word": "惠英红说沈月的脸是老天赏饭吃",
@@ -1643,6 +1683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1072531,
+      "num": 1072531,
+      "word": "世界杯决赛",
+      "onboard_time": 1671178766,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1071963,
       "num": 1071963,
       "word": "17岁女孩在家中遭4人揪头发打耳光",
@@ -1697,14 +1745,6 @@
       "onboard_time": 1671195154,
       "rank": 12,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1053829,
-      "num": 1053829,
-      "word": "阿根廷vs法国",
-      "onboard_time": 1671329966,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 1053807,
@@ -2939,14 +2979,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 737960,
-      "num": 668605,
-      "word": "男孩确诊高烧39.5℃依然活力十足",
-      "onboard_time": 1671372632,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 736558,
       "num": 736558,
       "word": "布洛芬姿势",
@@ -3571,14 +3603,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 640150,
-      "num": 640150,
-      "word": "世界杯决赛",
-      "onboard_time": 1671178766,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 637265,
       "num": 637265,
       "word": "TheShy",
@@ -4057,6 +4081,14 @@
       "onboard_time": 1671346647,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 575568,
+      "num": 575568,
+      "word": "姆巴佩",
+      "onboard_time": 1671059481,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 573686,
@@ -4539,6 +4571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 534828,
+      "num": 534828,
+      "word": "世界杯",
+      "onboard_time": 1670892370,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 532574,
       "num": 532574,
       "word": "普通的卡塔尔人家里长啥样",
@@ -4609,14 +4649,6 @@
       "onboard_time": 1671323123,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 525525,
-      "num": 525525,
-      "word": "姆巴佩",
-      "onboard_time": 1671059481,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 525119,
@@ -5376,6 +5408,14 @@
       "word": "万茜县委大院康定vlog",
       "onboard_time": 1670815511,
       "rank": 12,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 454833,
+      "num": 454833,
+      "word": "财阀家的小儿子14",
+      "onboard_time": 1671375753,
+      "rank": 18,
       "category": "影视"
     },
     {
@@ -6203,6 +6243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 397857,
+      "num": 397857,
+      "word": "dreamers",
+      "onboard_time": 1671375391,
+      "rank": 21,
+      "category": "体育,音乐"
+    },
+    {
       "raw_hot": 397689,
       "num": 397689,
       "word": "世上最大圆柱体水族馆破裂鱼涌入街头",
@@ -6569,14 +6617,6 @@
       "onboard_time": 1670990174,
       "rank": 26,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 373080,
-      "num": 373080,
-      "word": "世界杯",
-      "onboard_time": 1670892370,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 372506,
@@ -7380,7 +7420,7 @@
     },
     {
       "raw_hot": 330575,
-      "num": 1097736,
+      "num": 1556338,
       "word": "阳过后的生活用品不用更换",
       "onboard_time": 1671355589,
       "rank": 41,
@@ -7569,6 +7609,14 @@
       "onboard_time": 1671160232,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 320508,
+      "num": 320508,
+      "word": "世界杯直播",
+      "onboard_time": 1671375692,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 320264,
@@ -9147,6 +9195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 261060,
+      "num": 261060,
+      "word": "久哲",
+      "onboard_time": 1671375873,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 261037,
       "num": 261037,
       "word": "吴磊叫自己游客小吴",
@@ -10561,6 +10617,14 @@
       "onboard_time": 1670825594,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 221281,
+      "num": 221281,
+      "word": "行程卡纪念版涉嫌违规暂停服务",
+      "onboard_time": 1671375216,
+      "rank": 32,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 220995,
@@ -12835,14 +12899,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 173842,
-      "num": 173842,
-      "word": "闭幕式 中国国旗",
-      "onboard_time": 1671373833,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 173406,
       "num": 173406,
       "word": "GQ盛典红毯幕后故事",
@@ -12984,6 +13040,14 @@
       "word": "姆巴佩训练游戏被罚俯卧撑",
       "onboard_time": 1670912234,
       "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 170541,
+      "num": 170541,
+      "word": "迪马利亚首发",
+      "onboard_time": 1671376411,
+      "rank": 39,
       "category": "体育"
     },
     {
@@ -13168,6 +13232,14 @@
       "word": "这是他们最后一届世界杯",
       "onboard_time": 1670803688,
       "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 167864,
+      "num": 167864,
+      "word": "闭幕式烟花",
+      "onboard_time": 1671374611,
+      "rank": 40,
       "category": "体育"
     },
     {
@@ -14121,6 +14193,14 @@
       "onboard_time": 1671245369,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 151288,
+      "num": 151288,
+      "word": "刘宇宁直播说明年有演唱会",
+      "onboard_time": 1671376470,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 151267,
@@ -16177,6 +16257,14 @@
       "onboard_time": 1671247707,
       "rank": 48,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 109154,
+      "num": 261583,
+      "word": "高校老师跳进冰河救人",
+      "onboard_time": 1671376291,
+      "rank": 29,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 109010,

@@ -1,7 +1,15 @@
 {
   "startTime": 1671294199148,
-  "endTime": 1671374002982,
+  "endTime": 1671376607679,
   "band_list": [
+    {
+      "raw_hot": 4847944,
+      "num": 4847944,
+      "word": "阿根廷vs法国",
+      "onboard_time": 1671329966,
+      "rank": 49,
+      "category": "体育"
+    },
     {
       "raw_hot": 2570707,
       "num": 2570707,
@@ -123,6 +131,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1531692,
+      "num": 1531692,
+      "word": "闭幕式 中国国旗",
+      "onboard_time": 1671373833,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1509020,
+      "num": 1509020,
+      "word": "鹿晗解说",
+      "onboard_time": 1671374910,
+      "rank": 4,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 1508642,
       "num": 1508642,
       "word": "男子自称感染哭株全国罕见",
@@ -187,6 +211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1176670,
+      "num": 1176670,
+      "word": "女子阳性婆婆老公将水果儿子全打包走",
+      "onboard_time": 1671374854,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1172152,
       "num": 1172152,
       "word": "阳了症状不同取决于个体反应",
@@ -201,6 +233,14 @@
       "onboard_time": 1671361651,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1122969,
+      "num": 1122969,
+      "word": "男孩确诊高烧39.5℃依然活力十足",
+      "onboard_time": 1671372632,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1122553,
@@ -227,11 +267,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1053829,
-      "num": 1053829,
-      "word": "阿根廷vs法国",
-      "onboard_time": 1671329966,
-      "rank": 49,
+      "raw_hot": 1072531,
+      "num": 1072531,
+      "word": "世界杯决赛",
+      "onboard_time": 1671318976,
+      "rank": 15,
       "category": "体育"
     },
     {
@@ -289,6 +329,14 @@
       "onboard_time": 1671291688,
       "rank": 12,
       "category": "体育,音乐"
+    },
+    {
+      "raw_hot": 927251,
+      "num": 927251,
+      "word": "梅西",
+      "onboard_time": 1671319576,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 908921,
@@ -393,14 +441,6 @@
       "onboard_time": 1671283830,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 737960,
-      "num": 668605,
-      "word": "男孩确诊高烧39.5℃依然活力十足",
-      "onboard_time": 1671372632,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 736558,
@@ -587,6 +627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 575568,
+      "num": 575568,
+      "word": "姆巴佩",
+      "onboard_time": 1671374133,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 571506,
       "num": 571506,
       "word": "莫德里奇",
@@ -675,6 +723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 534828,
+      "num": 534828,
+      "word": "世界杯",
+      "onboard_time": 1671271767,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 526513,
       "num": 240988,
       "word": "吴镇宇 为什么摔得那么假呢",
@@ -721,6 +777,14 @@
       "onboard_time": 1671319997,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 454833,
+      "num": 454833,
+      "word": "财阀家的小儿子14",
+      "onboard_time": 1671375753,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 454151,
@@ -873,6 +937,14 @@
       "onboard_time": 1671288572,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 397857,
+      "num": 397857,
+      "word": "dreamers",
+      "onboard_time": 1671375391,
+      "rank": 21,
+      "category": "体育,音乐"
     },
     {
       "raw_hot": 393674,
@@ -1052,7 +1124,7 @@
     },
     {
       "raw_hot": 330575,
-      "num": 1097736,
+      "num": 1556338,
       "word": "阳过后的生活用品不用更换",
       "onboard_time": 1671355589,
       "rank": 41,
@@ -1083,11 +1155,11 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 321140,
-      "num": 321140,
-      "word": "世界杯",
-      "onboard_time": 1671271767,
-      "rank": 16,
+      "raw_hot": 320508,
+      "num": 320508,
+      "word": "世界杯直播",
+      "onboard_time": 1671375692,
+      "rank": 22,
       "category": "体育"
     },
     {
@@ -1323,20 +1395,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 261060,
+      "num": 261060,
+      "word": "久哲",
+      "onboard_time": 1671375873,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 259244,
       "num": 259244,
       "word": "儿童感染新冠病程是什么样",
       "onboard_time": 1671339690,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 258310,
-      "num": 258310,
-      "word": "梅西",
-      "onboard_time": 1671319576,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 253501,
@@ -1563,6 +1635,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 221281,
+      "num": 221281,
+      "word": "行程卡纪念版涉嫌违规暂停服务",
+      "onboard_time": 1671375216,
+      "rank": 32,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 220537,
       "num": 204461,
       "word": "网传浪姐4拟邀嘉宾阵容",
@@ -1625,14 +1705,6 @@
       "onboard_time": 1671280470,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 206762,
-      "num": 206762,
-      "word": "世界杯决赛",
-      "onboard_time": 1671318976,
-      "rank": 15,
-      "category": "体育"
     },
     {
       "raw_hot": 206697,
@@ -1867,11 +1939,11 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 173842,
-      "num": 173842,
-      "word": "闭幕式 中国国旗",
-      "onboard_time": 1671373833,
-      "rank": 41,
+      "raw_hot": 170541,
+      "num": 170541,
+      "word": "迪马利亚首发",
+      "onboard_time": 1671376411,
+      "rank": 39,
       "category": "体育"
     },
     {
@@ -1897,6 +1969,14 @@
       "onboard_time": 1671327204,
       "rank": 36,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 167864,
+      "num": 167864,
+      "word": "闭幕式烟花",
+      "onboard_time": 1671374611,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 166822,
@@ -2041,6 +2121,14 @@
       "onboard_time": 1671369932,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 151288,
+      "num": 151288,
+      "word": "刘宇宁直播说明年有演唱会",
+      "onboard_time": 1671376470,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 151070,
@@ -2337,6 +2425,14 @@
       "onboard_time": 1671326488,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 109154,
+      "num": 261583,
+      "word": "高校老师跳进冰河救人",
+      "onboard_time": 1671376291,
+      "rank": 29,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 108616,

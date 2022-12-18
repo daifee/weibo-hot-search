@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1671374002982,
+  "endTime": 1671376607679,
   "band_list": [
     {
       "raw_hot": 13790167,
@@ -105,6 +105,14 @@
       "onboard_time": 1670984291,
       "rank": 5,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 4847944,
+      "num": 4847944,
+      "word": "阿根廷vs法国",
+      "onboard_time": 1671329966,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 4824396,
@@ -2331,6 +2339,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1531692,
+      "num": 1531692,
+      "word": "闭幕式 中国国旗",
+      "onboard_time": 1671373833,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1531081,
       "num": 791596,
       "word": "本届世界杯首个乌龙球",
@@ -2385,6 +2401,14 @@
       "onboard_time": 1670843236,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1509020,
+      "num": 1509020,
+      "word": "鹿晗解说",
+      "onboard_time": 1671374910,
+      "rank": 4,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 1508642,
@@ -3579,6 +3603,14 @@
       "category": "综艺,幽默"
     },
     {
+      "raw_hot": 1176670,
+      "num": 1176670,
+      "word": "女子阳性婆婆老公将水果儿子全打包走",
+      "onboard_time": 1671374854,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1175269,
       "num": 1175269,
       "word": "席琳迪翁患僵人综合征",
@@ -3867,6 +3899,14 @@
       "category": "综艺,综艺"
     },
     {
+      "raw_hot": 1122969,
+      "num": 1122969,
+      "word": "男孩确诊高烧39.5℃依然活力十足",
+      "onboard_time": 1671372632,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1122553,
       "num": 655888,
       "word": "惠英红说沈月的脸是老天赏饭吃",
@@ -4147,6 +4187,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 1072531,
+      "num": 1072531,
+      "word": "世界杯决赛",
+      "onboard_time": 1671178766,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1072345,
       "num": 1006470,
       "word": "日本成为首个击败两支冠军球队的亚洲国家",
@@ -4273,14 +4321,6 @@
       "onboard_time": 1671195154,
       "rank": 12,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1053829,
-      "num": 1053829,
-      "word": "阿根廷vs法国",
-      "onboard_time": 1671329966,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 1053807,
@@ -7187,14 +7227,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 737960,
-      "num": 668605,
-      "word": "男孩确诊高烧39.5℃依然活力十足",
-      "onboard_time": 1671372632,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 737010,
       "num": 737010,
       "word": "李兰娟称无症状感染不是疾病",
@@ -8945,14 +8977,6 @@
       "onboard_time": 1670611454,
       "rank": 7,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 640150,
-      "num": 640150,
-      "word": "世界杯决赛",
-      "onboard_time": 1671178766,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 639706,
@@ -13235,6 +13259,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 454833,
+      "num": 454833,
+      "word": "财阀家的小儿子14",
+      "onboard_time": 1671375753,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 454504,
       "num": 454504,
       "word": "TGA2022",
@@ -15329,6 +15361,14 @@
       "onboard_time": 1670941094,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 397857,
+      "num": 397857,
+      "word": "dreamers",
+      "onboard_time": 1671375391,
+      "rank": 21,
+      "category": "体育,音乐"
     },
     {
       "raw_hot": 397689,
@@ -18092,7 +18132,7 @@
     },
     {
       "raw_hot": 330575,
-      "num": 1097736,
+      "num": 1556338,
       "word": "阳过后的生活用品不用更换",
       "onboard_time": 1671355589,
       "rank": 41,
@@ -18681,6 +18721,14 @@
       "onboard_time": 1670406252,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 320508,
+      "num": 320508,
+      "word": "世界杯直播",
+      "onboard_time": 1670602338,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 320315,
@@ -22291,6 +22339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 261060,
+      "num": 261060,
+      "word": "久哲",
+      "onboard_time": 1671375873,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 261037,
       "num": 261037,
       "word": "吴磊叫自己游客小吴",
@@ -25225,6 +25281,14 @@
       "onboard_time": 1670225532,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 221281,
+      "num": 221281,
+      "word": "行程卡纪念版涉嫌违规暂停服务",
+      "onboard_time": 1671375216,
+      "rank": 32,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 221127,
@@ -30115,14 +30179,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 173842,
-      "num": 173842,
-      "word": "闭幕式 中国国旗",
-      "onboard_time": 1671373833,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 173794,
       "num": 171642,
       "word": "霍汶希GQ红毯背后群发C位卡",
@@ -30539,6 +30595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 170541,
+      "num": 170541,
+      "word": "迪马利亚首发",
+      "onboard_time": 1671376411,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 170535,
       "num": 170535,
       "word": "苏醒王铮亮看世界杯reaction",
@@ -30912,6 +30976,14 @@
       "word": "这是他们最后一届世界杯",
       "onboard_time": 1670803688,
       "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 167864,
+      "num": 167864,
+      "word": "闭幕式烟花",
+      "onboard_time": 1671374611,
+      "rank": 40,
       "category": "体育"
     },
     {
@@ -31521,14 +31593,6 @@
       "onboard_time": 1671005776,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 163654,
-      "num": 163654,
-      "word": "世界杯直播",
-      "onboard_time": 1670602338,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 163651,
@@ -33169,6 +33233,14 @@
       "onboard_time": 1670040552,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 151288,
+      "num": 151288,
+      "word": "刘宇宁直播说明年有演唱会",
+      "onboard_time": 1671376470,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 151267,
@@ -38433,6 +38505,14 @@
       "onboard_time": 1671247707,
       "rank": 48,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 109154,
+      "num": 261583,
+      "word": "高校老师跳进冰河救人",
+      "onboard_time": 1671376291,
+      "rank": 29,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 109010,
