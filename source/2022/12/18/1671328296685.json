@@ -1,0 +1,410 @@
+{
+  "runTime": 1671328296685,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1715848,
+        "num": 1715848,
+        "word": "为什么有人感染后全身酸痛",
+        "onboard_time": 1671321622,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1148506,
+        "num": 1148506,
+        "word": "迪幂孟扎",
+        "onboard_time": 1671286113,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213730,
+        "num": 987882,
+        "word": "阳性居家治疗时怎样保护家人",
+        "onboard_time": 1671275548,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1676108,
+        "num": 978144,
+        "word": "孟子义",
+        "onboard_time": 1671323484,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 893124,
+        "num": 893124,
+        "word": "赵樱子说自己戏很好可是不会讲话",
+        "onboard_time": 1671327266,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 887803,
+        "num": 887803,
+        "word": "克罗地亚世界杯季军",
+        "onboard_time": 1671296484,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 728991,
+        "num": 728991,
+        "word": "月嫂临走前为雇主家宝宝缝制小床",
+        "onboard_time": 1671324985,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 652218,
+        "num": 652218,
+        "word": "刀片嗓",
+        "onboard_time": 1671324025,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 626901,
+        "num": 626901,
+        "word": "阿根廷队",
+        "onboard_time": 1671318616,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 551432,
+        "num": 551432,
+        "word": "奔驰数次插队阻碍救护车交警怒斥",
+        "onboard_time": 1671324684,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 584104,
+        "num": 542370,
+        "word": "惠英红说沈月的脸是老天赏饭吃",
+        "onboard_time": 1671290010,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 512509,
+        "num": 512509,
+        "word": "考研",
+        "onboard_time": 1671323663,
+        "rank": 11,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 471716,
+        "num": 471716,
+        "word": "发烧了该不该盖被子",
+        "onboard_time": 1671323123,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 442827,
+        "num": 442827,
+        "word": "为何会出现幻阳症",
+        "onboard_time": 1671326247,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 409755,
+        "num": 409755,
+        "word": "莫德里奇微笑登上领奖台",
+        "onboard_time": 1671319997,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 397120,
+        "num": 397120,
+        "word": "男子无意刷到老婆和别人婚礼视频",
+        "onboard_time": 1671285930,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 380940,
+        "num": 380940,
+        "word": "周杰伦演唱会唱了说爱你",
+        "onboard_time": 1671320839,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 306259,
+        "num": 306259,
+        "word": "宋仲基 抿嘴",
+        "onboard_time": 1671291570,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 283159,
+        "num": 283159,
+        "word": "父母摆煎饼摊孩子坐餐车还没煤气罐大",
+        "onboard_time": 1671326967,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274558,
+        "num": 274558,
+        "word": "东北人遛狗现状",
+        "onboard_time": 1671320720,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 280451,
+        "num": 271595,
+        "word": "无限超越班第一期观后感",
+        "onboard_time": 1671325705,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 267830,
+        "num": 267830,
+        "word": "周柯宇 谈过恋爱",
+        "onboard_time": 1671283830,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 252117,
+        "num": 252117,
+        "word": "某某某获喜剧大赛2第一名",
+        "onboard_time": 1671286172,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 243937,
+        "num": 243937,
+        "word": "今晚谁将成为三冠王",
+        "onboard_time": 1671324924,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 240189,
+        "num": 240189,
+        "word": "阳了你最难忍受哪种症状",
+        "onboard_time": 1671325946,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251155,
+        "num": 232983,
+        "word": "少爷和我天生一对",
+        "onboard_time": 1671322702,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217806,
+        "num": 217806,
+        "word": "苏州核酸屋变身值得借鉴吗",
+        "onboard_time": 1671289172,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207907,
+        "num": 207907,
+        "word": "转阴后就能放飞自我吗",
+        "onboard_time": 1671326546,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197706,
+        "num": 197706,
+        "word": "世界杯冠军 预测",
+        "onboard_time": 1671326428,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194755,
+        "num": 194755,
+        "word": "摩洛哥围攻裁判",
+        "onboard_time": 1671296245,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 244334,
+        "num": 193845,
+        "word": "阿凡达男主",
+        "onboard_time": 1671326186,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 191770,
+        "num": 191770,
+        "word": "丈夫记录妻子感染现状被问开美颜没",
+        "onboard_time": 1671289230,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178372,
+        "num": 178372,
+        "word": "男孩理发店内虐待小狗被咬",
+        "onboard_time": 1671290551,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169983,
+        "num": 169983,
+        "word": "梅西说带着中国球迷的祝福战斗",
+        "onboard_time": 1671327507,
+        "rank": 33,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 157033,
+        "num": 157033,
+        "word": "山西多名保安与民工发生肢体冲突",
+        "onboard_time": 1671310814,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153359,
+        "num": 153359,
+        "word": "财阀家的小儿子 爷爷下线",
+        "onboard_time": 1671287672,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 169190,
+        "num": 151177,
+        "word": "苏醒说梅西魔笛是最好的10号",
+        "onboard_time": 1671327204,
+        "rank": 36,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 146129,
+        "num": 146129,
+        "word": "新疆100块钱的糕点",
+        "onboard_time": 1671285094,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 145622,
+        "num": 145622,
+        "word": "发烧喉咙痛如何缓解有效",
+        "onboard_time": 1671322702,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216994,
+        "num": 144923,
+        "word": "河南一麦地现10层高楼当地避而不谈",
+        "onboard_time": 1671292472,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151373,
+        "num": 144638,
+        "word": "张哲华 相册",
+        "onboard_time": 1671321622,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143564,
+        "num": 143564,
+        "word": "克罗地亚门将",
+        "onboard_time": 1671318256,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143414,
+        "num": 143414,
+        "word": "济南已投放110万片布洛芬",
+        "onboard_time": 1671288572,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138149,
+        "num": 138149,
+        "word": "不再使用的核酸采样点也有大作用",
+        "onboard_time": 1671294326,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134358,
+        "num": 134358,
+        "word": "日本门将全程哭着采访",
+        "onboard_time": 1671301215,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129761,
+        "num": 129761,
+        "word": "4岁儿子踩椅子给阳性妈妈做饭",
+        "onboard_time": 1671286472,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128275,
+        "num": 128275,
+        "word": "17岁女孩在家中遭4人揪头发打耳光",
+        "onboard_time": 1671274713,
+        "rank": 46,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 118133,
+        "num": 118133,
+        "word": "吃货型新冠让患者胃口大开",
+        "onboard_time": 1671307513,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113034,
+        "num": 113034,
+        "word": "吴尊友回应新十条为什么要等三年",
+        "onboard_time": 1671280470,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109418,
+        "num": 109418,
+        "word": "阿凡达 要剧情有特效",
+        "onboard_time": 1671327626,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#为全面建设社会主义现代化国家开好局起好步#"
+    }
+  }
+}
