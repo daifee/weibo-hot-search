@@ -1,6 +1,6 @@
 {
   "startTime": 1671380618877,
-  "endTime": 1671405450274,
+  "endTime": 1671406416833,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -163,8 +163,8 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 1854640,
-      "num": 1854640,
+      "raw_hot": 2018205,
+      "num": 2018205,
       "word": "阿根廷7比5法国",
       "onboard_time": 1671386815,
       "rank": 31,
@@ -363,6 +363,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 711034,
+      "num": 711034,
+      "word": "沙特是本届世界杯唯一战胜冠军的球队",
+      "onboard_time": 1671388643,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 705568,
+      "num": 705568,
+      "word": "男孩确诊高烧39.5℃依然活力十足",
+      "onboard_time": 1671372632,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 693459,
       "num": 924040,
       "word": "阿根廷2比0领先",
@@ -377,22 +393,6 @@
       "onboard_time": 1671361410,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 655850,
-      "num": 655850,
-      "word": "沙特是本届世界杯唯一战胜冠军的球队",
-      "onboard_time": 1671388643,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 599552,
-      "num": 599552,
-      "word": "男孩确诊高烧39.5℃依然活力十足",
-      "onboard_time": 1671372632,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 575592,
@@ -675,6 +675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 187468,
+      "num": 187468,
+      "word": "梅西封王",
+      "onboard_time": 1671403756,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 185266,
       "num": 258777,
       "word": "刘畊宏预测阿根廷点球夺冠",
@@ -689,6 +697,22 @@
       "onboard_time": 1671370652,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 184491,
+      "num": 184491,
+      "word": "夫妻结伴坐地铁被误认为父女",
+      "onboard_time": 1671358949,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 182285,
+      "num": 182285,
+      "word": "义乌",
+      "onboard_time": 1671405382,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 182108,
@@ -715,28 +739,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 172882,
-      "num": 172882,
-      "word": "夫妻结伴坐地铁被误认为父女",
-      "onboard_time": 1671358949,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 158146,
       "num": 158146,
       "word": "爸爸拿体温计放儿子脖上度数飙升",
       "onboard_time": 1671364170,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 156807,
-      "num": 156807,
-      "word": "梅西封王",
-      "onboard_time": 1671403756,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 156504,
@@ -875,6 +883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 79282,
+      "num": 79282,
+      "word": "国考考点",
+      "onboard_time": 1671406044,
+      "rank": 39,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 76928,
       "num": 76928,
       "word": "网友偶遇王鹤棣白鹿以爱为营剧组",
@@ -888,6 +904,22 @@
       "word": "阿根廷36年圆梦",
       "onboard_time": 1671405202,
       "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 73857,
+      "num": 73857,
+      "word": "老爷爷带瘫痪老伴街头卖橙子",
+      "onboard_time": 1671402615,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 69417,
+      "num": 57655,
+      "word": "马丁内斯神了",
+      "onboard_time": 1671405803,
+      "rank": 46,
       "category": "体育"
     },
     {
@@ -915,18 +947,10 @@
       "category": "体育"
     },
     {
-      "raw_hot": 57108,
-      "num": 57108,
-      "word": "老爷爷带瘫痪老伴街头卖橙子",
-      "onboard_time": 1671402615,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 50521,
-      "num": 50521,
-      "word": "义乌",
-      "onboard_time": 1671405382,
+      "raw_hot": 55220,
+      "num": 55220,
+      "word": "阿根廷队第三次捧起大力神杯",
+      "onboard_time": 1671406285,
       "rank": 47,
       "category": "体育"
     },

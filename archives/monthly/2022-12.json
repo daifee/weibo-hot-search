@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1671405450274,
+  "endTime": 1671406416833,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -1571,6 +1571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2018205,
+      "num": 2018205,
+      "word": "阿根廷7比5法国",
+      "onboard_time": 1671386815,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2015105,
       "num": 2015105,
       "word": "考研生赴考困难可申请借考",
@@ -1785,14 +1793,6 @@
       "onboard_time": 1670384951,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1854640,
-      "num": 1854640,
-      "word": "阿根廷7比5法国",
-      "onboard_time": 1671386815,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 1847022,
@@ -7891,6 +7891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 711034,
+      "num": 711034,
+      "word": "沙特是本届世界杯唯一战胜冠军的球队",
+      "onboard_time": 1671388643,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 710718,
       "num": 710718,
       "word": "两女生合开女子专属健身房",
@@ -9009,14 +9017,6 @@
       "onboard_time": 1670753776,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 655850,
-      "num": 655850,
-      "word": "沙特是本届世界杯唯一战胜冠军的球队",
-      "onboard_time": 1671388643,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 655562,
@@ -28923,6 +28923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 187468,
+      "num": 187468,
+      "word": "梅西封王",
+      "onboard_time": 1671403756,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 187284,
       "num": 187284,
       "word": "阿根廷首发",
@@ -29545,6 +29553,14 @@
       "onboard_time": 1671346348,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 182285,
+      "num": 182285,
+      "word": "义乌",
+      "onboard_time": 1671405382,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 182276,
@@ -32945,14 +32961,6 @@
       "onboard_time": 1671275369,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 156807,
-      "num": 156807,
-      "word": "梅西封王",
-      "onboard_time": 1671403756,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 156753,
@@ -41083,6 +41091,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 79282,
+      "num": 79282,
+      "word": "国考考点",
+      "onboard_time": 1671406044,
+      "rank": 39,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 78535,
       "num": 406273,
       "word": "网约车司机疑似长期熬夜致猝死",
@@ -41243,6 +41259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 73857,
+      "num": 73857,
+      "word": "老爷爷带瘫痪老伴街头卖橙子",
+      "onboard_time": 1671402615,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 73655,
       "num": 482790,
       "word": "汕头明润3比1四川丰谷",
@@ -41336,6 +41360,14 @@
       "word": "莱万点球破门",
       "onboard_time": 1670176451,
       "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 69417,
+      "num": 57655,
+      "word": "马丁内斯神了",
+      "onboard_time": 1671405803,
+      "rank": 46,
       "category": "体育"
     },
     {
@@ -41659,14 +41691,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 57108,
-      "num": 57108,
-      "word": "老爷爷带瘫痪老伴街头卖橙子",
-      "onboard_time": 1671402615,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 56889,
       "num": 56889,
       "word": "阿根廷球迷感谢沙特敲警钟",
@@ -41729,6 +41753,14 @@
       "onboard_time": 1671200316,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 55220,
+      "num": 55220,
+      "word": "阿根廷队第三次捧起大力神杯",
+      "onboard_time": 1671406285,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 54809,
@@ -41816,14 +41848,6 @@
       "word": "莫拉塔破门",
       "onboard_time": 1669924567,
       "rank": 17,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 50521,
-      "num": 50521,
-      "word": "义乌",
-      "onboard_time": 1671405382,
-      "rank": 47,
       "category": "体育"
     },
     {
