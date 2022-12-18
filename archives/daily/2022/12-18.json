@@ -1,6 +1,6 @@
 {
   "startTime": 1671294199148,
-  "endTime": 1671330974414,
+  "endTime": 1671331551420,
   "band_list": [
     {
       "raw_hot": 2153870,
@@ -139,8 +139,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 789839,
-      "num": 789839,
+      "raw_hot": 840694,
+      "num": 840694,
       "word": "吴彤自曝被李冰冰拒绝后牙掉了",
       "onboard_time": 1671329244,
       "rank": 4,
@@ -187,6 +187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 586592,
+      "num": 483714,
+      "word": "孙女问奶奶要嫁给爱情还是金钱",
+      "onboard_time": 1671329128,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
       "raw_hot": 571506,
       "num": 571506,
       "word": "莫德里奇",
@@ -211,8 +219,8 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 527699,
-      "num": 527699,
+      "raw_hot": 545688,
+      "num": 545688,
       "word": "为何会出现幻阳症",
       "onboard_time": 1671326247,
       "rank": 31,
@@ -249,14 +257,6 @@
       "onboard_time": 1671292472,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 483714,
-      "num": 483714,
-      "word": "孙女问奶奶要嫁给爱情还是金钱",
-      "onboard_time": 1671329128,
-      "rank": 12,
-      "category": "情感"
     },
     {
       "raw_hot": 463693,
@@ -307,6 +307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 396953,
+      "num": 396953,
+      "word": "布洛芬姿势",
+      "onboard_time": 1671330386,
+      "rank": 36,
+      "category": "幽默,社会新闻"
+    },
+    {
       "raw_hot": 391506,
       "num": 252117,
       "word": "某某某获喜剧大赛2第一名",
@@ -344,6 +352,14 @@
       "word": "克罗地亚摩洛哥 观赏性",
       "onboard_time": 1671293129,
       "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 343600,
+      "num": 343600,
+      "word": "世界杯冠军 预测",
+      "onboard_time": 1671326428,
+      "rank": 43,
       "category": "体育"
     },
     {
@@ -395,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 310401,
+      "num": 310401,
+      "word": "阳了你最难忍受哪种症状",
+      "onboard_time": 1671325946,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 307271,
       "num": 307271,
       "word": "不再使用的核酸采样点也有大作用",
@@ -411,14 +435,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 292018,
-      "num": 292018,
-      "word": "世界杯冠军 预测",
-      "onboard_time": 1671326428,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 287245,
       "num": 165265,
       "word": "罗晋在你好星期六合拍像局外人",
@@ -427,11 +443,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 280227,
-      "num": 280227,
-      "word": "阳了你最难忍受哪种症状",
-      "onboard_time": 1671325946,
-      "rank": 39,
+      "raw_hot": 270303,
+      "num": 270303,
+      "word": "感染新冠康复后仍要戴口罩",
+      "onboard_time": 1671330447,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -475,6 +491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 243225,
+      "num": 243225,
+      "word": "猫咪鬼鬼祟祟偷虾摊主发现不驱赶",
+      "onboard_time": 1671328406,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 241430,
       "num": 241430,
       "word": "丈夫记录妻子感染现状被问开美颜没",
@@ -491,11 +515,11 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 235498,
-      "num": 235498,
-      "word": "猫咪鬼鬼祟祟偷虾摊主发现不驱赶",
-      "onboard_time": 1671328406,
-      "rank": 26,
+      "raw_hot": 223474,
+      "num": 223474,
+      "word": "转阴后就能放飞自我吗",
+      "onboard_time": 1671326546,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -515,12 +539,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 217740,
-      "num": 217740,
-      "word": "转阴后就能放飞自我吗",
-      "onboard_time": 1671326546,
-      "rank": 47,
-      "category": "社会新闻"
+      "raw_hot": 217763,
+      "num": 217763,
+      "word": "徐冬冬回应被说是给王多鱼按摩的",
+      "onboard_time": 1671330808,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 208790,
@@ -537,14 +561,6 @@
       "onboard_time": 1671321622,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 199050,
-      "num": 183783,
-      "word": "徐冬冬回应被说是给王多鱼按摩的",
-      "onboard_time": 1671330808,
-      "rank": 31,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 198068,
@@ -603,28 +619,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 178946,
+      "num": 131333,
+      "word": "决赛日饿了么十万免单",
+      "onboard_time": 1671328827,
+      "rank": 39,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 178331,
       "num": 178331,
       "word": "发烧喉咙痛如何缓解有效",
       "onboard_time": 1671322702,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 174977,
-      "num": 174977,
-      "word": "感染新冠康复后仍要戴口罩",
-      "onboard_time": 1671330447,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 171047,
-      "num": 171047,
-      "word": "布洛芬姿势",
-      "onboard_time": 1671330386,
-      "rank": 36,
-      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 169190,
@@ -665,14 +673,6 @@
       "onboard_time": 1671284010,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 156048,
-      "num": 131333,
-      "word": "决赛日饿了么十万免单",
-      "onboard_time": 1671328827,
-      "rank": 39,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 150110,
@@ -755,12 +755,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 115604,
+      "num": 115604,
+      "word": "水泥鼻",
+      "onboard_time": 1671331286,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 114170,
       "num": 114170,
       "word": "奥尔西奇世界波",
       "onboard_time": 1671292649,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 113112,
+      "num": 113112,
+      "word": "莫德里奇把小女儿举高高",
+      "onboard_time": 1671331047,
+      "rank": 44,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 111495,
