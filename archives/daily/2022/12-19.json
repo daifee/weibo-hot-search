@@ -1,6 +1,6 @@
 {
   "startTime": 1671380618877,
-  "endTime": 1671402807390,
+  "endTime": 1671405450274,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -161,6 +161,14 @@
       "onboard_time": 1671384746,
       "rank": 11,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 1854640,
+      "num": 1854640,
+      "word": "阿根廷7比5法国",
+      "onboard_time": 1671386815,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 1743723,
@@ -371,11 +379,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 619856,
-      "num": 619856,
-      "word": "阿根廷7比5法国",
-      "onboard_time": 1671386815,
-      "rank": 31,
+      "raw_hot": 655850,
+      "num": 655850,
+      "word": "沙特是本届世界杯唯一战胜冠军的球队",
+      "onboard_time": 1671388643,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -571,14 +579,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 245349,
-      "num": 245349,
-      "word": "沙特是本届世界杯唯一战胜冠军的球队",
-      "onboard_time": 1671388643,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 238217,
       "num": 258911,
       "word": "巴蒂斯图塔",
@@ -731,6 +731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 156807,
+      "num": 156807,
+      "word": "梅西封王",
+      "onboard_time": 1671403756,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 156504,
       "num": 156504,
       "word": "梅西进球刘畊宏欲喊又止",
@@ -875,6 +883,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 76601,
+      "num": 76601,
+      "word": "阿根廷36年圆梦",
+      "onboard_time": 1671405202,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 62564,
       "num": 290663,
       "word": "2个动作帮你增强肺功能",
@@ -887,6 +903,30 @@
       "num": 252523,
       "word": "法国控球率",
       "onboard_time": 1671382590,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 59851,
+      "num": 59851,
+      "word": "巴萨",
+      "onboard_time": 1671405202,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 57108,
+      "num": 57108,
+      "word": "老爷爷带瘫痪老伴街头卖橙子",
+      "onboard_time": 1671402615,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 50521,
+      "num": 50521,
+      "word": "义乌",
+      "onboard_time": 1671405382,
       "rank": 47,
       "category": "体育"
     },

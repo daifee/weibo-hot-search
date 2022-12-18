@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1671402807390,
+  "endTime": 1671405450274,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -1785,6 +1785,14 @@
       "onboard_time": 1670384951,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1854640,
+      "num": 1854640,
+      "word": "阿根廷7比5法国",
+      "onboard_time": 1671386815,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 1847022,
@@ -9003,6 +9011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 655850,
+      "num": 655850,
+      "word": "沙特是本届世界杯唯一战胜冠军的球队",
+      "onboard_time": 1671388643,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 655562,
       "num": 655562,
       "word": "新疆100块钱的糕点",
@@ -9593,14 +9609,6 @@
       "onboard_time": 1671176849,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 619856,
-      "num": 619856,
-      "word": "阿根廷7比5法国",
-      "onboard_time": 1671386815,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 619734,
@@ -23835,14 +23843,6 @@
       "category": "动漫,影视"
     },
     {
-      "raw_hot": 245349,
-      "num": 245349,
-      "word": "沙特是本届世界杯唯一战胜冠军的球队",
-      "onboard_time": 1671388643,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 245292,
       "num": 245292,
       "word": "明年一定会比今年更好",
@@ -32947,6 +32947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 156807,
+      "num": 156807,
+      "word": "梅西封王",
+      "onboard_time": 1671403756,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 156753,
       "num": 156753,
       "word": "他把人生的三分之二献给了中国",
@@ -41147,6 +41155,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 76601,
+      "num": 76601,
+      "word": "阿根廷36年圆梦",
+      "onboard_time": 1671405202,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 76246,
       "num": 297345,
       "word": "男子用暖贴给流浪猫做防冻饮水箱",
@@ -41619,6 +41635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 59851,
+      "num": 59851,
+      "word": "巴萨",
+      "onboard_time": 1671405202,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 59595,
       "num": 117071,
       "word": "波兰点球",
@@ -41633,6 +41657,14 @@
       "onboard_time": 1670083094,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 57108,
+      "num": 57108,
+      "word": "老爷爷带瘫痪老伴街头卖橙子",
+      "onboard_time": 1671402615,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 56889,
@@ -41784,6 +41816,14 @@
       "word": "莫拉塔破门",
       "onboard_time": 1669924567,
       "rank": 17,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 50521,
+      "num": 50521,
+      "word": "义乌",
+      "onboard_time": 1671405382,
+      "rank": 47,
       "category": "体育"
     },
     {
