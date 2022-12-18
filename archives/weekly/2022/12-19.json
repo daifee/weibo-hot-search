@@ -1,13 +1,29 @@
 {
   "startTime": 1671380618877,
-  "endTime": 1671381641417,
+  "endTime": 1671383695502,
   "band_list": [
     {
-      "raw_hot": 9557133,
-      "num": 9557133,
+      "raw_hot": 13165514,
+      "num": 13165514,
       "word": "阿根廷vs法国",
       "onboard_time": 1671370298,
       "rank": 0,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 7821153,
+      "num": 7821153,
+      "word": "姆巴佩连进两球",
+      "onboard_time": 1671382110,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 4775579,
+      "num": 4775579,
+      "word": "法国扳平",
+      "onboard_time": 1671382169,
+      "rank": 2,
       "category": "体育"
     },
     {
@@ -27,6 +43,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2479646,
+      "num": 2479646,
+      "word": "阿根廷法国 加时赛",
+      "onboard_time": 1671383258,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2354485,
+      "num": 2354485,
+      "word": "姆巴佩 牛",
+      "onboard_time": 1671382650,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2145367,
       "num": 2145367,
       "word": "鹿晗解说",
@@ -35,11 +67,27 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 1647119,
+      "num": 767430,
+      "word": "姆巴佩",
+      "onboard_time": 1671374133,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1492001,
       "num": 1492001,
       "word": "梅西",
       "onboard_time": 1671374434,
       "rank": 4,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1477350,
+      "num": 1477350,
+      "word": "以德保罗对梅西的感情",
+      "onboard_time": 1671381325,
+      "rank": 14,
       "category": "体育"
     },
     {
@@ -67,6 +115,38 @@
       "category": "体育"
     },
     {
+      "raw_hot": 967529,
+      "num": 967529,
+      "word": "你管这叫农村自建房",
+      "onboard_time": 1671378813,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 959275,
+      "num": 959275,
+      "word": "裁判",
+      "onboard_time": 1671379075,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 941567,
+      "num": 941567,
+      "word": "德保罗",
+      "onboard_time": 1671379893,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 934097,
+      "num": 934097,
+      "word": "假摔",
+      "onboard_time": 1671379952,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 914559,
       "num": 914559,
       "word": "男子确诊后舌头牙齿全变黑",
@@ -83,12 +163,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 898943,
-      "num": 898943,
-      "word": "你管这叫农村自建房",
-      "onboard_time": 1671378813,
-      "rank": 14,
-      "category": "情感"
+      "raw_hot": 899693,
+      "num": 899693,
+      "word": "迪马利亚被换下",
+      "onboard_time": 1671381506,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 851733,
@@ -99,12 +179,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 767430,
-      "num": 767430,
-      "word": "姆巴佩",
-      "onboard_time": 1671374133,
-      "rank": 11,
-      "category": "体育"
+      "raw_hot": 811277,
+      "num": 811277,
+      "word": "多批布洛芬运达北京发往各区",
+      "onboard_time": 1671380187,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 718514,
@@ -120,14 +200,6 @@
       "word": "阿根廷2比0领先",
       "onboard_time": 1671378275,
       "rank": 7,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 615144,
-      "num": 615144,
-      "word": "以德保罗对梅西的感情",
-      "onboard_time": 1671381325,
-      "rank": 14,
       "category": "体育"
     },
     {
@@ -147,11 +219,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 538460,
-      "num": 538460,
-      "word": "德保罗",
-      "onboard_time": 1671379893,
-      "rank": 22,
+      "raw_hot": 530303,
+      "num": 530303,
+      "word": "世界杯决赛",
+      "onboard_time": 1671361410,
+      "rank": 18,
       "category": "体育"
     },
     {
@@ -171,11 +243,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 433195,
-      "num": 433195,
-      "word": "世界杯决赛",
-      "onboard_time": 1671361410,
-      "rank": 18,
+      "raw_hot": 438309,
+      "num": 438309,
+      "word": "马克龙",
+      "onboard_time": 1671376828,
+      "rank": 22,
       "category": "体育"
     },
     {
@@ -227,12 +299,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 305117,
+      "num": 305117,
+      "word": "迪马利亚为决赛而生",
+      "onboard_time": 1671381447,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 301338,
+      "num": 301338,
+      "word": "宋茜看男粉跳hotsummer的反应",
+      "onboard_time": 1671381506,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 298955,
       "num": 204078,
       "word": "登贝莱",
       "onboard_time": 1671377850,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 289660,
+      "num": 289660,
+      "word": "湖南2023年考研将分核酸阴性与阳性考场",
+      "onboard_time": 1671379660,
+      "rank": 44,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 281511,
@@ -243,28 +339,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 269167,
-      "num": 269167,
-      "word": "多批布洛芬运达北京发往各区",
-      "onboard_time": 1671380187,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 267236,
       "num": 267236,
       "word": "久哲",
       "onboard_time": 1671375873,
       "rank": 27,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 255351,
-      "num": 255351,
-      "word": "迪马利亚被换下",
-      "onboard_time": 1671381506,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 250992,
@@ -281,14 +361,6 @@
       "onboard_time": 1671367890,
       "rank": 30,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 219428,
-      "num": 219428,
-      "word": "湖南2023年考研将分核酸阴性与阳性考场",
-      "onboard_time": 1671379660,
-      "rank": 44,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 214000,
@@ -315,20 +387,20 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 204459,
+      "num": 204459,
+      "word": "小众婚纱有多美",
+      "onboard_time": 1671379014,
+      "rank": 46,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 202862,
       "num": 202862,
       "word": "王蓉再唱爸爸妈妈好戳泪点",
       "onboard_time": 1671372455,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 197794,
-      "num": 197794,
-      "word": "宋茜看男粉跳hotsummer的反应",
-      "onboard_time": 1671381506,
-      "rank": 34,
-      "category": "影视"
     },
     {
       "raw_hot": 193445,
@@ -340,11 +412,19 @@
     },
     {
       "raw_hot": 188054,
-      "num": 240400,
+      "num": 1358850,
       "word": "阳过后的生活用品不用更换",
       "onboard_time": 1671355589,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 186623,
+      "num": 186623,
+      "word": "姆巴佩本届进球数反超梅西",
+      "onboard_time": 1671383203,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 184610,
@@ -387,20 +467,20 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 149730,
+      "num": 99043,
+      "word": "心墙",
+      "onboard_time": 1671377255,
+      "rank": 49,
+      "category": "体育,音乐"
+    },
+    {
       "raw_hot": 147509,
       "num": 147509,
       "word": "李晨说赵小棠应该转行当主持人",
       "onboard_time": 1671381146,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 143837,
-      "num": 143837,
-      "word": "小众婚纱有多美",
-      "onboard_time": 1671379014,
-      "rank": 46,
-      "category": "时尚"
     },
     {
       "raw_hot": 143634,
@@ -419,11 +499,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 131513,
-      "num": 120444,
-      "word": "假摔",
-      "onboard_time": 1671379952,
-      "rank": 47,
+      "raw_hot": 139054,
+      "num": 139054,
+      "word": "阿根廷门将",
+      "onboard_time": 1671383372,
+      "rank": 37,
       "category": "体育"
     },
     {
@@ -432,6 +512,14 @@
       "word": "大力神杯",
       "onboard_time": 1671376950,
       "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 125360,
+      "num": 125360,
+      "word": "世界杯决赛太刺激了",
+      "onboard_time": 1671383007,
+      "rank": 45,
       "category": "体育"
     },
     {
@@ -451,17 +539,36 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 99271,
+      "num": 99271,
+      "word": "迪马利亚比心",
+      "onboard_time": 1671383668,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 94403,
       "num": 94403,
       "word": "心疼张彬彬陆离",
       "onboard_time": 1671380607,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 62564,
+      "num": 290663,
+      "word": "2个动作帮你增强肺功能",
+      "onboard_time": 1671383430,
+      "rank": 29,
+      "category": "体育,社会新闻"
     }
   ],
   "hotgov_list": [
     {
       "word": "#一图看懂中央经济工作会议#"
+    },
+    {
+      "word": "#行稳致远#"
     }
   ]
 }

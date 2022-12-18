@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1671381641417,
+  "endTime": 1671383695502,
   "band_list": [
     {
       "raw_hot": 13790167,
@@ -11,19 +11,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 13165514,
+      "num": 13165514,
+      "word": "阿根廷vs法国",
+      "onboard_time": 1671329966,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 11360361,
       "num": 11360361,
       "word": "克罗地亚vs巴西",
       "onboard_time": 1670594060,
       "rank": 3,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 10833579,
-      "num": 10833579,
-      "word": "阿根廷vs法国",
-      "onboard_time": 1671329966,
-      "rank": 49,
       "category": "体育"
     },
     {
@@ -65,6 +65,14 @@
       "onboard_time": 1671160589,
       "rank": 0,
       "category": "教育"
+    },
+    {
+      "raw_hot": 7821153,
+      "num": 7821153,
+      "word": "姆巴佩连进两球",
+      "onboard_time": 1671382110,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 7598442,
@@ -129,6 +137,14 @@
       "onboard_time": 1670412913,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 4775579,
+      "num": 4775579,
+      "word": "法国扳平",
+      "onboard_time": 1671382169,
+      "rank": 2,
+      "category": "体育"
     },
     {
       "raw_hot": 4708503,
@@ -795,6 +811,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 2479646,
+      "num": 2479646,
+      "word": "阿根廷法国 加时赛",
+      "onboard_time": 1671383258,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2470139,
       "num": 2470139,
       "word": "四级",
@@ -937,6 +961,14 @@
       "onboard_time": 1671286113,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2354485,
+      "num": 2354485,
+      "word": "姆巴佩 牛",
+      "onboard_time": 1671382650,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 2345769,
@@ -2083,6 +2115,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 1647119,
+      "num": 1137465,
+      "word": "姆巴佩",
+      "onboard_time": 1670166313,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1643130,
       "num": 1643130,
       "word": "男子称妻子孕肚像被蜈蚣爬满太恐怖",
@@ -2521,6 +2561,14 @@
       "onboard_time": 1670163854,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1477350,
+      "num": 1477350,
+      "word": "以德保罗对梅西的感情",
+      "onboard_time": 1671381325,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 1473001,
@@ -3835,14 +3883,6 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 1137465,
-      "num": 1137465,
-      "word": "姆巴佩",
-      "onboard_time": 1670166313,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1137013,
       "num": 242277,
       "word": "腾讯会议",
@@ -4931,6 +4971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 967529,
+      "num": 967529,
+      "word": "你管这叫农村自建房",
+      "onboard_time": 1671378813,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
       "raw_hot": 965805,
       "num": 965805,
       "word": "核酸阳性第几天会转阴",
@@ -5107,6 +5155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 941567,
+      "num": 941567,
+      "word": "德保罗",
+      "onboard_time": 1670456347,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 941245,
       "num": 941245,
       "word": "陈慧琳与儿子出车祸",
@@ -5209,6 +5265,14 @@
       "onboard_time": 1670397015,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 934097,
+      "num": 934097,
+      "word": "假摔",
+      "onboard_time": 1671379952,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 932918,
@@ -5507,20 +5571,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 899693,
+      "num": 899693,
+      "word": "迪马利亚被换下",
+      "onboard_time": 1671381506,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 899621,
       "num": 899621,
       "word": "年轻人感染奥密克戎发热一般不超3天",
       "onboard_time": 1669884791,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 898943,
-      "num": 898943,
-      "word": "你管这叫农村自建房",
-      "onboard_time": 1671378813,
-      "rank": 14,
-      "category": "情感"
     },
     {
       "raw_hot": 895201,
@@ -6384,6 +6448,14 @@
       "word": "专家辟谣长期戴口罩会致肺结节",
       "onboard_time": 1670292670,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 811277,
+      "num": 811277,
+      "word": "多批布洛芬运达北京发往各区",
+      "onboard_time": 1671380187,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -9467,14 +9539,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 615144,
-      "num": 615144,
-      "word": "以德保罗对梅西的感情",
-      "onboard_time": 1671381325,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 614750,
       "num": 614750,
       "word": "田曦薇新剧齐刘海马尾造型",
@@ -11153,14 +11217,6 @@
       "onboard_time": 1670200387,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 538460,
-      "num": 538460,
-      "word": "德保罗",
-      "onboard_time": 1670456347,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 538154,
@@ -13793,6 +13849,14 @@
       "onboard_time": 1670410933,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 438309,
+      "num": 438309,
+      "word": "马克龙",
+      "onboard_time": 1671376828,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 437873,
@@ -19755,6 +19819,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 305117,
+      "num": 305117,
+      "word": "迪马利亚为决赛而生",
+      "onboard_time": 1671381447,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 305042,
       "num": 305042,
       "word": "审判三体",
@@ -19921,6 +19993,14 @@
       "onboard_time": 1671359489,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 301338,
+      "num": 301338,
+      "word": "宋茜看男粉跳hotsummer的反应",
+      "onboard_time": 1671381506,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 301240,
@@ -20593,6 +20673,14 @@
       "onboard_time": 1671285269,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 289660,
+      "num": 289660,
+      "word": "湖南2023年考研将分核酸阴性与阳性考场",
+      "onboard_time": 1671379660,
+      "rank": 44,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 289534,
@@ -21955,14 +22043,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 269167,
-      "num": 269167,
-      "word": "多批布洛芬运达北京发往各区",
-      "onboard_time": 1671380187,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 269139,
       "num": 269139,
       "word": "长沙93岁老人捐出100万元积蓄",
@@ -22777,14 +22857,6 @@
       "onboard_time": 1670773095,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 255351,
-      "num": 255351,
-      "word": "迪马利亚被换下",
-      "onboard_time": 1671381506,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 255219,
@@ -25555,14 +25627,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 219428,
-      "num": 219428,
-      "word": "湖南2023年考研将分核酸阴性与阳性考场",
-      "onboard_time": 1671379660,
-      "rank": 44,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 219246,
       "num": 219246,
       "word": "传统卯榫结构将32块木片做成足球",
@@ -26795,6 +26859,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 204459,
+      "num": 204459,
+      "word": "小众婚纱有多美",
+      "onboard_time": 1671379014,
+      "rank": 46,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 204372,
       "num": 204372,
       "word": "优化防疫后你有出游计划吗",
@@ -27281,14 +27353,6 @@
       "onboard_time": 1671373833,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 197794,
-      "num": 197794,
-      "word": "宋茜看男粉跳hotsummer的反应",
-      "onboard_time": 1671381506,
-      "rank": 34,
-      "category": "影视"
     },
     {
       "raw_hot": 197790,
@@ -28697,6 +28761,14 @@
       "onboard_time": 1671369813,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 186623,
+      "num": 186623,
+      "word": "姆巴佩本届进球数反超梅西",
+      "onboard_time": 1671383203,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 186581,
@@ -34371,14 +34443,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 143837,
-      "num": 143837,
-      "word": "小众婚纱有多美",
-      "onboard_time": 1671379014,
-      "rank": 46,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 143736,
       "num": 143736,
       "word": "李薇说明年一定比今年更好",
@@ -35081,6 +35145,14 @@
       "onboard_time": 1670556619,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 139054,
+      "num": 139054,
+      "word": "阿根廷门将",
+      "onboard_time": 1671383372,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 138928,
@@ -36067,14 +36139,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 131513,
-      "num": 120444,
-      "word": "假摔",
-      "onboard_time": 1671379952,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 131461,
       "num": 131461,
       "word": "布克58分",
@@ -36921,6 +36985,14 @@
       "onboard_time": 1670895669,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 125360,
+      "num": 125360,
+      "word": "世界杯决赛太刺激了",
+      "onboard_time": 1671383007,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 125290,
@@ -39699,6 +39771,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 99271,
+      "num": 99271,
+      "word": "迪马利亚比心",
+      "onboard_time": 1671383668,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 98993,
       "num": 501598,
       "word": "邓弗里斯助攻梅开二度",
@@ -41129,6 +41209,14 @@
       "onboard_time": 1670517914,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 62564,
+      "num": 290663,
+      "word": "2个动作帮你增强肺功能",
+      "onboard_time": 1671383430,
+      "rank": 29,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 62255,
