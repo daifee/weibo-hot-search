@@ -1,6 +1,6 @@
 {
   "startTime": 1671380618877,
-  "endTime": 1671388469988,
+  "endTime": 1671390796592,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -83,6 +83,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 3961914,
+      "num": 3961914,
+      "word": "梅西 金球奖",
+      "onboard_time": 1671388461,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 3882485,
+      "num": 3882485,
+      "word": "姆巴佩 金靴奖",
+      "onboard_time": 1671388222,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 3841107,
       "num": 3841107,
       "word": "阿根廷法国 加时赛",
@@ -123,10 +139,10 @@
       "category": "体育"
     },
     {
-      "raw_hot": 3106333,
-      "num": 3293346,
-      "word": "姆巴佩 金靴奖",
-      "onboard_time": 1671388222,
+      "raw_hot": 2804406,
+      "num": 1491870,
+      "word": "梅西捧起大力神杯",
+      "onboard_time": 1671390324,
       "rank": 7,
       "category": "体育"
     },
@@ -283,8 +299,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 881744,
-      "num": 881744,
+      "raw_hot": 884291,
+      "num": 884291,
       "word": "马克龙",
       "onboard_time": 1671376828,
       "rank": 22,
@@ -323,6 +339,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 705079,
+      "num": 705079,
+      "word": "哈兰德",
+      "onboard_time": 1671389669,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 702993,
+      "num": 702993,
+      "word": "阿圭罗",
+      "onboard_time": 1671388044,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 693459,
       "num": 924040,
       "word": "阿根廷2比0领先",
@@ -355,6 +387,30 @@
       "category": "体育"
     },
     {
+      "raw_hot": 560886,
+      "num": 560886,
+      "word": "迪马利亚为决赛而生",
+      "onboard_time": 1671381447,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 519571,
+      "num": 519571,
+      "word": "阿根廷7比5法国",
+      "onboard_time": 1671386815,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 492419,
+      "num": 492419,
+      "word": "恩佐 最佳年轻球员",
+      "onboard_time": 1671389612,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 491810,
       "num": 491810,
       "word": "詹雯婷张远现象级合唱青鸟",
@@ -363,20 +419,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 466818,
-      "num": 466818,
-      "word": "迪马利亚为决赛而生",
-      "onboard_time": 1671381447,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 441781,
       "num": 441781,
       "word": "尹正说老嫂子这种梗对女性很不尊重",
       "onboard_time": 1671371732,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 431855,
+      "num": 431855,
+      "word": "阿根廷成就三星荣耀",
+      "onboard_time": 1671386986,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 393712,
@@ -392,6 +448,14 @@
       "word": "如果梅西夺冠会发生什么",
       "onboard_time": 1671361651,
       "rank": 20,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 346135,
+      "num": 254621,
+      "word": "梅西 奇迹",
+      "onboard_time": 1671390324,
+      "rank": 41,
       "category": "体育"
     },
     {
@@ -417,14 +481,6 @@
       "onboard_time": 1671375216,
       "rank": 24,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 329625,
-      "num": 329625,
-      "word": "阿根廷7比5法国",
-      "onboard_time": 1671386815,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 306126,
@@ -492,7 +548,7 @@
     },
     {
       "raw_hot": 250992,
-      "num": 250992,
+      "num": 255284,
       "word": "无症状感染者为什么越来越少了",
       "onboard_time": 1671362792,
       "rank": 28,
@@ -500,7 +556,7 @@
     },
     {
       "raw_hot": 235799,
-      "num": 235799,
+      "num": 253036,
       "word": "林俊杰演唱会",
       "onboard_time": 1671367890,
       "rank": 30,
@@ -508,7 +564,7 @@
     },
     {
       "raw_hot": 229286,
-      "num": 141575,
+      "num": 252276,
       "word": "大力神杯",
       "onboard_time": 1671376950,
       "rank": 49,
@@ -540,7 +596,7 @@
     },
     {
       "raw_hot": 207887,
-      "num": 207887,
+      "num": 252112,
       "word": "费曼",
       "onboard_time": 1671357150,
       "rank": 31,
@@ -571,14 +627,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 200625,
-      "num": 200625,
-      "word": "阿圭罗",
-      "onboard_time": 1671388044,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 193445,
       "num": 193445,
       "word": "女子自称患最优秀病株6小时痊愈",
@@ -593,6 +641,14 @@
       "onboard_time": 1671355589,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 185266,
+      "num": 258777,
+      "word": "刘畊宏预测阿根廷点球夺冠",
+      "onboard_time": 1671390622,
+      "rank": 30,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 184610,
@@ -635,6 +691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 158180,
+      "num": 258911,
+      "word": "巴蒂斯图塔",
+      "onboard_time": 1671389970,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 158146,
       "num": 158146,
       "word": "爸爸拿体温计放儿子脖上度数飙升",
@@ -649,6 +713,14 @@
       "onboard_time": 1671378275,
       "rank": 41,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 156203,
+      "num": 258440,
+      "word": "阿根廷青春无悔",
+      "onboard_time": 1671389791,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 149730,
@@ -683,27 +755,27 @@
       "category": "体育"
     },
     {
-      "raw_hot": 141755,
-      "num": 141755,
-      "word": "阿根廷成就三星荣耀",
-      "onboard_time": 1671386986,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 139284,
-      "num": 3505844,
-      "word": "梅西 金球奖",
-      "onboard_time": 1671388461,
-      "rank": 6,
-      "category": "体育"
-    },
-    {
       "raw_hot": 137120,
       "num": 137120,
       "word": "阿根廷球迷",
       "onboard_time": 1671388340,
       "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 135845,
+      "num": 256939,
+      "word": "央视解说",
+      "onboard_time": 1671390145,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 125778,
+      "num": 256681,
+      "word": "斯卡洛尼",
+      "onboard_time": 1671390682,
+      "rank": 36,
       "category": "体育"
     },
     {
@@ -731,6 +803,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 99738,
+      "num": 255890,
+      "word": "贝克汉姆",
+      "onboard_time": 1671390502,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 99271,
       "num": 99271,
       "word": "迪马利亚比心",
@@ -755,6 +835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 81280,
+      "num": 254598,
+      "word": "黄金矿工",
+      "onboard_time": 1671390384,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 76928,
       "num": 76928,
       "word": "网友偶遇王鹤棣白鹿以爱为营剧组",
@@ -769,6 +857,14 @@
       "onboard_time": 1671383430,
       "rank": 29,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 62446,
+      "num": 252523,
+      "word": "法国控球率",
+      "onboard_time": 1671382590,
+      "rank": 47,
+      "category": "体育"
     }
   ],
   "hotgov_list": [

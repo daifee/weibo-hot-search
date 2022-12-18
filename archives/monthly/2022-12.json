@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1671388469988,
+  "endTime": 1671390796592,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -307,12 +307,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3961914,
+      "num": 3961914,
+      "word": "梅西 金球奖",
+      "onboard_time": 1671388461,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 3920721,
       "num": 775093,
       "word": "张嘉倪 赢麻了",
       "onboard_time": 1671095251,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 3882485,
+      "num": 3882485,
+      "word": "姆巴佩 金靴奖",
+      "onboard_time": 1671388222,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 3841107,
@@ -571,14 +587,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 3106333,
-      "num": 3293346,
-      "word": "姆巴佩 金靴奖",
-      "onboard_time": 1671388222,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
       "raw_hot": 3098510,
       "num": 3098510,
       "word": "世界杯四强",
@@ -672,6 +680,14 @@
       "word": "C罗国籍被篡改为韩国",
       "onboard_time": 1670048291,
       "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2804406,
+      "num": 1491870,
+      "word": "梅西捧起大力神杯",
+      "onboard_time": 1671390324,
+      "rank": 7,
       "category": "体育"
     },
     {
@@ -5787,6 +5803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 884291,
+      "num": 884291,
+      "word": "马克龙",
+      "onboard_time": 1671376828,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 883727,
       "num": 420007,
       "word": "周杰伦演唱会",
@@ -5808,14 +5832,6 @@
       "word": "加维都摔绿了",
       "onboard_time": 1670348468,
       "rank": 4,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 881744,
-      "num": 881744,
-      "word": "马克龙",
-      "onboard_time": 1671376828,
-      "rank": 22,
       "category": "体育"
     },
     {
@@ -7971,6 +7987,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 705079,
+      "num": 705079,
+      "word": "哈兰德",
+      "onboard_time": 1671389669,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 704714,
       "num": 1945223,
       "word": "妈妈让女孩掏钱给哥哥买房引争议",
@@ -8017,6 +8041,14 @@
       "onboard_time": 1669885030,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 702993,
+      "num": 702993,
+      "word": "阿圭罗",
+      "onboard_time": 1671388044,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 702140,
@@ -10779,6 +10811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 560886,
+      "num": 560886,
+      "word": "迪马利亚为决赛而生",
+      "onboard_time": 1671381447,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 560357,
       "num": 560357,
       "word": "研究称生育会导致骨骼永久变化",
@@ -11811,6 +11851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 519571,
+      "num": 519571,
+      "word": "阿根廷7比5法国",
+      "onboard_time": 1671386815,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 518781,
       "num": 518781,
       "word": "摩洛哥点球战胜西班牙",
@@ -12393,6 +12441,14 @@
       "onboard_time": 1670556073,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 492419,
+      "num": 492419,
+      "word": "恩佐 最佳年轻球员",
+      "onboard_time": 1671389612,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 492139,
@@ -13081,14 +13137,6 @@
       "onboard_time": 1670498897,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 466818,
-      "num": 466818,
-      "word": "迪马利亚为决赛而生",
-      "onboard_time": 1671381447,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 466749,
@@ -14193,6 +14241,14 @@
       "onboard_time": 1670215295,
       "rank": 16,
       "category": "科技"
+    },
+    {
+      "raw_hot": 431855,
+      "num": 431855,
+      "word": "阿根廷成就三星荣耀",
+      "onboard_time": 1671386986,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 431812,
@@ -17683,6 +17739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 346135,
+      "num": 254621,
+      "word": "梅西 奇迹",
+      "onboard_time": 1671390324,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 346026,
       "num": 346026,
       "word": "江泽民同志治丧委员会名单",
@@ -18496,14 +18560,6 @@
       "word": "C罗从未威胁过要离开国家队",
       "onboard_time": 1670495957,
       "rank": 19,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 329625,
-      "num": 329625,
-      "word": "阿根廷7比5法国",
-      "onboard_time": 1671386815,
-      "rank": 31,
       "category": "体育"
     },
     {
@@ -24972,7 +25028,7 @@
     },
     {
       "raw_hot": 229286,
-      "num": 141575,
+      "num": 252276,
       "word": "大力神杯",
       "onboard_time": 1671376950,
       "rank": 49,
@@ -27267,14 +27323,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 200625,
-      "num": 200625,
-      "word": "阿圭罗",
-      "onboard_time": 1671388044,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 200614,
       "num": 200614,
       "word": "负责人否认影院划分阴阳场",
@@ -29153,6 +29201,14 @@
       "onboard_time": 1670836516,
       "rank": 41,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 185266,
+      "num": 258777,
+      "word": "刘畊宏预测阿根廷点球夺冠",
+      "onboard_time": 1671390622,
+      "rank": 30,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 185235,
@@ -32691,6 +32747,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 158180,
+      "num": 258911,
+      "word": "巴蒂斯图塔",
+      "onboard_time": 1671389970,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 158179,
       "num": 158179,
       "word": "何时能恢复到疫情前生活状态",
@@ -32977,6 +33041,14 @@
       "onboard_time": 1670369166,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 156203,
+      "num": 258440,
+      "word": "阿根廷青春无悔",
+      "onboard_time": 1671389791,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 156148,
@@ -34915,14 +34987,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 141755,
-      "num": 141755,
-      "word": "阿根廷成就三星荣耀",
-      "onboard_time": 1671386986,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 141712,
       "num": 141712,
       "word": "国乒于何一退出国家队",
@@ -35289,14 +35353,6 @@
       "onboard_time": 1670978052,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 139284,
-      "num": 3505844,
-      "word": "梅西 金球奖",
-      "onboard_time": 1671388461,
-      "rank": 6,
-      "category": "体育"
     },
     {
       "raw_hot": 139252,
@@ -35713,6 +35769,14 @@
       "onboard_time": 1670233453,
       "rank": 37,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 135845,
+      "num": 256939,
+      "word": "央视解说",
+      "onboard_time": 1671390145,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 135819,
@@ -37121,6 +37185,14 @@
       "onboard_time": 1670596280,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 125778,
+      "num": 256681,
+      "word": "斯卡洛尼",
+      "onboard_time": 1671390682,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 125764,
@@ -39899,6 +39971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 99738,
+      "num": 255890,
+      "word": "贝克汉姆",
+      "onboard_time": 1671390502,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 99721,
       "num": 419656,
       "word": "原帅三分大赛冠军",
@@ -40867,6 +40947,14 @@
       "category": "教育,社会正能量"
     },
     {
+      "raw_hot": 81280,
+      "num": 254598,
+      "word": "黄金矿工",
+      "onboard_time": 1671390384,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 80718,
       "num": 186368,
       "word": "信用分超550租房或可免押金",
@@ -41409,6 +41497,14 @@
       "onboard_time": 1671383430,
       "rank": 29,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 62446,
+      "num": 252523,
+      "word": "法国控球率",
+      "onboard_time": 1671382590,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 62255,
