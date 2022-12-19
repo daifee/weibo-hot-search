@@ -1,6 +1,6 @@
 {
   "startTime": 1671467268319,
-  "endTime": 1671491901964,
+  "endTime": 1671492819510,
   "band_list": [
     {
       "raw_hot": 1430219,
@@ -59,12 +59,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 427062,
+      "num": 427062,
+      "word": "阿根廷门将领奖台做不雅动作惹争议",
+      "onboard_time": 1671471795,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 425987,
       "num": 425987,
       "word": "大家的毒株真是千奇百怪",
       "onboard_time": 1671460952,
       "rank": 7,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 399328,
+      "num": 399328,
+      "word": "建议将新冠肺炎概念分为三类",
+      "onboard_time": 1671488054,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 366440,
@@ -75,12 +91,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 330185,
-      "num": 330185,
-      "word": "阿根廷门将领奖台做不雅动作惹争议",
-      "onboard_time": 1671471795,
-      "rank": 10,
-      "category": "体育"
+      "raw_hot": 347441,
+      "num": 347441,
+      "word": "上海发热门诊第一波高峰来了",
+      "onboard_time": 1671456813,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 329549,
@@ -89,14 +105,6 @@
       "onboard_time": 1671460652,
       "rank": 8,
       "category": "情感"
-    },
-    {
-      "raw_hot": 296886,
-      "num": 183809,
-      "word": "建议将新冠肺炎概念分为三类",
-      "onboard_time": 1671488054,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 280000,
@@ -121,14 +129,6 @@
       "onboard_time": 1671464548,
       "rank": 12,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 273308,
-      "num": 273308,
-      "word": "上海发热门诊第一波高峰来了",
-      "onboard_time": 1671456813,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 241769,
@@ -171,6 +171,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 193647,
+      "num": 193647,
+      "word": "郑州倡议市民参与外卖跑腿配送",
+      "onboard_time": 1671480193,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 193036,
       "num": 193036,
       "word": "专家辟谣转阴15天后才会产生抗体",
@@ -187,20 +195,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 192618,
+      "num": 192618,
+      "word": "四川警方破获特大考试作弊案",
+      "onboard_time": 1671453569,
+      "rank": 25,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 178109,
       "num": 178109,
       "word": "克罗地亚回国受震撼欢迎",
       "onboard_time": 1671448472,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 170339,
-      "num": 170339,
-      "word": "郑州倡议市民参与外卖跑腿配送",
-      "onboard_time": 1671480193,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 161968,
@@ -219,12 +227,36 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 145467,
-      "num": 145467,
-      "word": "四川警方破获特大考试作弊案",
-      "onboard_time": 1671453569,
-      "rank": 25,
+      "raw_hot": 160962,
+      "num": 81328,
+      "word": "山东考研生阳性后不需再测核酸",
+      "onboard_time": 1671491658,
+      "rank": 45,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 159956,
+      "num": 159956,
+      "word": "小米回应年底裁员",
+      "onboard_time": 1671455431,
+      "rank": 47,
+      "category": "科技,财经"
+    },
+    {
+      "raw_hot": 158678,
+      "num": 80880,
+      "word": "男生打游戏和不打游戏的区别",
+      "onboard_time": 1671491840,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 145779,
+      "num": 145779,
+      "word": "对乙酰氨基酚和布洛芬五大不同",
+      "onboard_time": 1671490695,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 144602,
@@ -251,6 +283,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 141760,
+      "num": 141760,
+      "word": "嗓子疼如何缓解",
+      "onboard_time": 1671480972,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 141488,
       "num": 141488,
       "word": "王者李白世冠新皮肤",
@@ -267,19 +307,19 @@
       "category": "科技"
     },
     {
+      "raw_hot": 135973,
+      "num": 135973,
+      "word": "北京发烧感染者数量持续高位增加",
+      "onboard_time": 1671441748,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 133722,
       "num": 133722,
       "word": "母亲临终前为儿子准备一冰箱饭菜",
       "onboard_time": 1671444870,
       "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 127965,
-      "num": 127965,
-      "word": "嗓子疼如何缓解",
-      "onboard_time": 1671480972,
-      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -299,6 +339,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 121869,
+      "num": 121869,
+      "word": "邓超说孙俪女貌啊",
+      "onboard_time": 1671460354,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 120260,
       "num": 120260,
       "word": "阳了的弟弟凌晨两点起来写试卷",
@@ -313,14 +361,6 @@
       "onboard_time": 1671452011,
       "rank": 36,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 118324,
-      "num": 118324,
-      "word": "北京发烧感染者数量持续高位增加",
-      "onboard_time": 1671441748,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 116959,
@@ -363,14 +403,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 109316,
-      "num": 109316,
-      "word": "小米回应年底裁员",
-      "onboard_time": 1671455431,
-      "rank": 47,
-      "category": "科技,财经"
-    },
-    {
       "raw_hot": 107876,
       "num": 107876,
       "word": "NewJeans新歌DittoMV",
@@ -403,20 +435,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 105021,
-      "num": 105021,
-      "word": "邓超说孙俪女貌啊",
-      "onboard_time": 1671460354,
-      "rank": 46,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 94757,
-      "num": 63732,
-      "word": "对乙酰氨基酚和布洛芬五大不同",
-      "onboard_time": 1671490695,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 90243,
+      "num": 80617,
+      "word": "10岁男孩给共享药箱送去10颗布洛芬",
+      "onboard_time": 1671492080,
+      "rank": 32,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 84124,
@@ -435,6 +459,22 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 73947,
+      "num": 73468,
+      "word": "一人一句祝福澳门",
+      "onboard_time": 1671492019,
+      "rank": 35,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 72544,
+      "num": 72544,
+      "word": "小红书成人使用美林攻略引争议",
+      "onboard_time": 1671492621,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 69490,
       "num": 69490,
       "word": "沈月说真实生活中恋爱太难谈了",
@@ -449,6 +489,22 @@
       "onboard_time": 1671386257,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 64438,
+      "num": 64438,
+      "word": "阿根廷球迷飞机上庆祝夺冠",
+      "onboard_time": 1671482531,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 63220,
+      "num": 63220,
+      "word": "宋茜跳平安舞",
+      "onboard_time": 1671492440,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 56613,
@@ -467,14 +523,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 45098,
-      "num": 45098,
-      "word": "阿根廷球迷飞机上庆祝夺冠",
-      "onboard_time": 1671482531,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 42496,
       "num": 42496,
       "word": "当我阳了后狗子们的反应",
@@ -483,23 +531,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 42156,
-      "num": 42156,
-      "word": "山东考研生阳性后不需再测核酸",
-      "onboard_time": 1671491658,
-      "rank": 45,
-      "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 37816,
-      "num": 37816,
-      "word": "男生打游戏和不打游戏的区别",
-      "onboard_time": 1671491840,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 30086,
+      "raw_hot": 34870,
       "num": 739362,
       "word": "感染新冠康复后的注意事项",
       "onboard_time": 1671432271,

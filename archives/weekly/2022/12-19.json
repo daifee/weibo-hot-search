@@ -1,6 +1,6 @@
 {
   "startTime": 1671380618877,
-  "endTime": 1671491901964,
+  "endTime": 1671492819510,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -1163,6 +1163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 427062,
+      "num": 427062,
+      "word": "阿根廷门将领奖台做不雅动作惹争议",
+      "onboard_time": 1671471795,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 420415,
       "num": 420415,
       "word": "考研",
@@ -1184,6 +1192,14 @@
       "word": "女儿阳性妈妈骑16公里来送菜",
       "onboard_time": 1671415111,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 399328,
+      "num": 399328,
+      "word": "建议将新冠肺炎概念分为三类",
+      "onboard_time": 1671488054,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -1427,14 +1443,6 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 330185,
-      "num": 330185,
-      "word": "阿根廷门将领奖台做不雅动作惹争议",
-      "onboard_time": 1671471795,
-      "rank": 10,
-      "category": "体育"
-    },
-    {
       "raw_hot": 329309,
       "num": 329309,
       "word": "财阀家的小儿子大嫂怀孕",
@@ -1553,14 +1561,6 @@
       "onboard_time": 1671377850,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 296886,
-      "num": 183809,
-      "word": "建议将新冠肺炎概念分为三类",
-      "onboard_time": 1671488054,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 296623,
@@ -2067,6 +2067,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 193647,
+      "num": 193647,
+      "word": "郑州倡议市民参与外卖跑腿配送",
+      "onboard_time": 1671480193,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 193445,
       "num": 193445,
       "word": "女子自称患最优秀病株6小时痊愈",
@@ -2315,14 +2323,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 170339,
-      "num": 170339,
-      "word": "郑州倡议市民参与外卖跑腿配送",
-      "onboard_time": 1671480193,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 170155,
       "num": 170155,
       "word": "新冠感染情况问卷调查",
@@ -2387,6 +2387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 160962,
+      "num": 81328,
+      "word": "山东考研生阳性后不需再测核酸",
+      "onboard_time": 1671491658,
+      "rank": 45,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 160703,
       "num": 160703,
       "word": "gemini 500",
@@ -2417,6 +2425,14 @@
       "onboard_time": 1671452493,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 158678,
+      "num": 80880,
+      "word": "男生打游戏和不打游戏的区别",
+      "onboard_time": 1671491840,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 158336,
@@ -2603,6 +2619,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 145779,
+      "num": 145779,
+      "word": "对乙酰氨基酚和布洛芬五大不同",
+      "onboard_time": 1671490695,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144095,
       "num": 144095,
       "word": "我在网上学到的技能",
@@ -2641,6 +2665,14 @@
       "onboard_time": 1671380305,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 141760,
+      "num": 141760,
+      "word": "嗓子疼如何缓解",
+      "onboard_time": 1671480972,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 141393,
@@ -2761,14 +2793,6 @@
       "onboard_time": 1671414089,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 127965,
-      "num": 127965,
-      "word": "嗓子疼如何缓解",
-      "onboard_time": 1671480972,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 126540,
@@ -2931,20 +2955,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 94757,
-      "num": 63732,
-      "word": "对乙酰氨基酚和布洛芬五大不同",
-      "onboard_time": 1671490695,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 94403,
       "num": 94403,
       "word": "心疼张彬彬陆离",
       "onboard_time": 1671380607,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 90243,
+      "num": 80617,
+      "word": "10岁男孩给共享药箱送去10颗布洛芬",
+      "onboard_time": 1671492080,
+      "rank": 32,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 87992,
@@ -2995,11 +3019,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 73947,
+      "num": 73468,
+      "word": "一人一句祝福澳门",
+      "onboard_time": 1671492019,
+      "rank": 35,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 73857,
       "num": 73857,
       "word": "老爷爷带瘫痪老伴街头卖橙子",
       "onboard_time": 1671402615,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 72544,
+      "num": 72544,
+      "word": "小红书成人使用美林攻略引争议",
+      "onboard_time": 1671492621,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -3009,6 +3049,22 @@
       "onboard_time": 1671405803,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 64438,
+      "num": 64438,
+      "word": "阿根廷球迷飞机上庆祝夺冠",
+      "onboard_time": 1671482531,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 63220,
+      "num": 63220,
+      "word": "宋茜跳平安舞",
+      "onboard_time": 1671492440,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 62564,
@@ -3059,34 +3115,10 @@
       "category": "美食"
     },
     {
-      "raw_hot": 45098,
-      "num": 45098,
-      "word": "阿根廷球迷飞机上庆祝夺冠",
-      "onboard_time": 1671482531,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 42496,
       "num": 42496,
       "word": "当我阳了后狗子们的反应",
       "onboard_time": 1671474555,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 42156,
-      "num": 42156,
-      "word": "山东考研生阳性后不需再测核酸",
-      "onboard_time": 1671491658,
-      "rank": 45,
-      "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 37816,
-      "num": 37816,
-      "word": "男生打游戏和不打游戏的区别",
-      "onboard_time": 1671491840,
       "rank": 49,
       "category": "幽默"
     },

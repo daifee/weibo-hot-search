@@ -1,0 +1,410 @@
+{
+  "runTime": 1671492819510,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 965183,
+        "num": 965183,
+        "word": "目前还没阳性的人的生活状态",
+        "onboard_time": 1671441388,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 716713,
+        "num": 716713,
+        "word": "梅西抱的不是母亲是阿根廷队女厨师",
+        "onboard_time": 1671464010,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34870,
+        "num": 631896,
+        "word": "感染新冠康复后的注意事项",
+        "onboard_time": 1671432271,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 602700,
+        "num": 602700,
+        "word": "布洛芬和布洛芬缓释有啥区别",
+        "onboard_time": 1671450511,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 427062,
+        "num": 427062,
+        "word": "阿根廷门将领奖台做不雅动作惹争议",
+        "onboard_time": 1671471795,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 399328,
+        "num": 399328,
+        "word": "建议将新冠肺炎概念分为三类",
+        "onboard_time": 1671488054,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347441,
+        "num": 347441,
+        "word": "上海发热门诊第一波高峰来了",
+        "onboard_time": 1671456813,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296130,
+        "num": 296130,
+        "word": "专家称橘子煮水更适合新冠用药",
+        "onboard_time": 1671447269,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274580,
+        "num": 274580,
+        "word": "得了新冠疯狂放屁的不只小岳岳",
+        "onboard_time": 1671459810,
+        "rank": 8,
+        "category": "情感,艺人"
+      },
+      {
+        "raw_hot": 272035,
+        "num": 272035,
+        "word": "大家的毒株真是千奇百怪",
+        "onboard_time": 1671460952,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 222180,
+        "num": 222180,
+        "word": "本泽马宣布退出法国国家队",
+        "onboard_time": 1671462151,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193647,
+        "num": 193647,
+        "word": "郑州倡议市民参与外卖跑腿配送",
+        "onboard_time": 1671480193,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192618,
+        "num": 192618,
+        "word": "四川警方破获特大考试作弊案",
+        "onboard_time": 1671453569,
+        "rank": 12,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 179146,
+        "num": 179146,
+        "word": "梅西夺冠穿的黑纱是什么",
+        "onboard_time": 1671444449,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159956,
+        "num": 159956,
+        "word": "小米回应年底裁员",
+        "onboard_time": 1671455431,
+        "rank": 14,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 145779,
+        "num": 145779,
+        "word": "对乙酰氨基酚和布洛芬五大不同",
+        "onboard_time": 1671490695,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143167,
+        "num": 143167,
+        "word": "得了新冠肺快咳出来了怎么办",
+        "onboard_time": 1671457170,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141760,
+        "num": 141760,
+        "word": "嗓子疼如何缓解",
+        "onboard_time": 1671480972,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135973,
+        "num": 135973,
+        "word": "北京发烧感染者数量持续高位增加",
+        "onboard_time": 1671441748,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130034,
+        "num": 130034,
+        "word": "专家辟谣转阴15天后才会产生抗体",
+        "onboard_time": 1671458070,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121869,
+        "num": 121869,
+        "word": "邓超说孙俪女貌啊",
+        "onboard_time": 1671460354,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 120239,
+        "num": 120239,
+        "word": "各地疫情走势与大数据预测基本一致",
+        "onboard_time": 1671459991,
+        "rank": 21,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 119988,
+        "num": 119988,
+        "word": "婆婆怕给媳妇寄药丢了包整床被子",
+        "onboard_time": 1671456510,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119761,
+        "num": 119761,
+        "word": "阳了的弟弟凌晨两点起来写试卷",
+        "onboard_time": 1671451769,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118486,
+        "num": 118486,
+        "word": "男子不戴口罩主动测试新冠传染性",
+        "onboard_time": 1671459154,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101009,
+        "num": 101009,
+        "word": "布洛芬之父没赚到一分钱",
+        "onboard_time": 1671449730,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98337,
+        "num": 98337,
+        "word": "你因为什么很少发朋友圈了",
+        "onboard_time": 1671460652,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 94485,
+        "num": 94485,
+        "word": "喉咙里取刀片食疗法",
+        "onboard_time": 1671450030,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 86343,
+        "num": 86343,
+        "word": "庆祝澳门回归23周年",
+        "onboard_time": 1671491298,
+        "rank": 28,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 82273,
+        "num": 82273,
+        "word": "艾尔海森",
+        "onboard_time": 1671465026,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 160962,
+        "num": 81328,
+        "word": "山东考研生阳性后不需再测核酸",
+        "onboard_time": 1671491658,
+        "rank": 30,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 158678,
+        "num": 80880,
+        "word": "男生打游戏和不打游戏的区别",
+        "onboard_time": 1671491840,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 90243,
+        "num": 80617,
+        "word": "10岁男孩给共享药箱送去10颗布洛芬",
+        "onboard_time": 1671492080,
+        "rank": 32,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 80349,
+        "num": 80349,
+        "word": "赵樱子演过倚天黄衫女",
+        "onboard_time": 1671458850,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 73790,
+        "num": 73790,
+        "word": "这个毒株应该是文曲毒株",
+        "onboard_time": 1671452791,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 73947,
+        "num": 73468,
+        "word": "一人一句祝福澳门",
+        "onboard_time": 1671492019,
+        "rank": 35,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 72544,
+        "num": 72544,
+        "word": "小红书成人使用美林攻略引争议",
+        "onboard_time": 1671492621,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66860,
+        "num": 66860,
+        "word": "县委大院肖俊学去世",
+        "onboard_time": 1671462929,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 65146,
+        "num": 65146,
+        "word": "母亲临终前为儿子准备一冰箱饭菜",
+        "onboard_time": 1671444870,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64438,
+        "num": 64438,
+        "word": "阿根廷球迷飞机上庆祝夺冠",
+        "onboard_time": 1671482531,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 63355,
+        "num": 63355,
+        "word": "真正的喜欢不会暧昧太久的",
+        "onboard_time": 1671458733,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 63232,
+        "num": 63232,
+        "word": "朴彩英是懂氛围感的",
+        "onboard_time": 1671464548,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 63220,
+        "num": 63220,
+        "word": "宋茜跳平安舞",
+        "onboard_time": 1671492440,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 61513,
+        "num": 61513,
+        "word": "王者李白世冠新皮肤",
+        "onboard_time": 1671456872,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 58361,
+        "num": 58361,
+        "word": "什么样的夫妻关系才最合拍",
+        "onboard_time": 1671465266,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 57976,
+        "num": 57976,
+        "word": "梅西冷知识",
+        "onboard_time": 1671456570,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 57381,
+        "num": 57381,
+        "word": "武艺说是沙特把阿根廷打醒了",
+        "onboard_time": 1671452011,
+        "rank": 46,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 56259,
+        "num": 56259,
+        "word": "苏醒回应昨晚哭泣",
+        "onboard_time": 1671452250,
+        "rank": 47,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 55024,
+        "num": 55024,
+        "word": "微信键盘发布正式版",
+        "onboard_time": 1671454352,
+        "rank": 48,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 51394,
+        "num": 51394,
+        "word": "为什么烤橘子能止咳化痰",
+        "onboard_time": 1671452250,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#不负嘱托更奋发#"
+    }
+  }
+}
