@@ -1,6 +1,6 @@
 {
   "startTime": 1671380618877,
-  "endTime": 1671417895393,
+  "endTime": 1671419974643,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -155,6 +155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2332650,
+      "num": 2332650,
+      "word": "C罗 遗憾",
+      "onboard_time": 1671414809,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2145367,
       "num": 2145367,
       "word": "鹿晗解说",
@@ -203,12 +211,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1553109,
-      "num": 1553109,
-      "word": "C罗 遗憾",
-      "onboard_time": 1671414809,
-      "rank": 3,
-      "category": "体育"
+      "raw_hot": 1531459,
+      "num": 1531459,
+      "word": "阳性期间身上痒千万别不当回事",
+      "onboard_time": 1671416010,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1497511,
@@ -251,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1305107,
+      "num": 1305107,
+      "word": "梅西把问路的孩子带到山顶",
+      "onboard_time": 1671416792,
+      "rank": 30,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 1280279,
       "num": 1280279,
       "word": "法国 不在状态",
@@ -265,6 +281,14 @@
       "onboard_time": 1671409349,
       "rank": 4,
       "category": "体育,网红"
+    },
+    {
+      "raw_hot": 1137922,
+      "num": 615797,
+      "word": "张若昀发文洒家这辈子值了",
+      "onboard_time": 1671418475,
+      "rank": 10,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 1081113,
@@ -443,6 +467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 694312,
+      "num": 694312,
+      "word": "马丁内斯 阿根廷门神",
+      "onboard_time": 1671414150,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 693459,
       "num": 924040,
       "word": "阿根廷2比0领先",
@@ -467,28 +499,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 657512,
-      "num": 657512,
-      "word": "马丁内斯 阿根廷门神",
-      "onboard_time": 1671414150,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 575592,
       "num": 575592,
       "word": "吉鲁被换下",
       "onboard_time": 1671378632,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 567335,
-      "num": 567335,
-      "word": "阳性期间身上痒千万别不当回事",
-      "onboard_time": 1671416010,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 560886,
@@ -499,12 +515,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 535151,
-      "num": 300420,
-      "word": "梅西把问路的孩子带到山顶",
-      "onboard_time": 1671416792,
-      "rank": 30,
-      "category": "体育,社会新闻"
+      "raw_hot": 528563,
+      "num": 528563,
+      "word": "退烧药紧缺有望元旦前缓解",
+      "onboard_time": 1671414571,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 515917,
@@ -515,12 +531,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 514783,
-      "num": 514783,
-      "word": "退烧药紧缺有望元旦前缓解",
-      "onboard_time": 1671414571,
-      "rank": 17,
-      "category": "社会新闻"
+      "raw_hot": 503624,
+      "num": 503624,
+      "word": "乃万说姆巴怎么不配",
+      "onboard_time": 1671414630,
+      "rank": 23,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 492550,
@@ -579,20 +595,20 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 415302,
+      "num": 415302,
+      "word": "泰国一载有106名官兵的军舰沉没",
+      "onboard_time": 1671417453,
+      "rank": 46,
+      "category": "军事,国外要闻"
+    },
+    {
       "raw_hot": 406130,
       "num": 406130,
       "word": "女儿阳性妈妈骑16公里来送菜",
       "onboard_time": 1671415111,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 400649,
-      "num": 400649,
-      "word": "乃万说姆巴怎么不配",
-      "onboard_time": 1671414630,
-      "rank": 23,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 393712,
@@ -617,6 +633,14 @@
       "onboard_time": 1671413189,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 349936,
+      "num": 349936,
+      "word": "东北虎被反光板里的自己帅到了",
+      "onboard_time": 1671413971,
+      "rank": 44,
+      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 346135,
@@ -667,6 +691,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 323443,
+      "num": 323443,
+      "word": "时代少年团一千零一夜下班路透",
+      "onboard_time": 1671417271,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 320282,
       "num": 320282,
       "word": "众星为阿根廷夺冠打call",
@@ -691,28 +723,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 300533,
-      "num": 300533,
-      "word": "东北虎被反光板里的自己帅到了",
-      "onboard_time": 1671413971,
-      "rank": 44,
-      "category": "幽默,社会新闻"
-    },
-    {
       "raw_hot": 298955,
       "num": 204078,
       "word": "登贝莱",
       "onboard_time": 1671377850,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 294050,
-      "num": 294050,
-      "word": "时代少年团一千零一夜下班路透",
-      "onboard_time": 1671417271,
-      "rank": 38,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 289660,
@@ -843,12 +859,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 218205,
+      "num": 218205,
+      "word": "法国助教不满阿根廷4获点球",
+      "onboard_time": 1671419192,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 214000,
       "num": 111057,
       "word": "阿根廷进球",
       "onboard_time": 1671378397,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 213804,
+      "num": 213804,
+      "word": "贺炜诗意解读足球的意义",
+      "onboard_time": 1671416611,
+      "rank": 47,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 212943,
@@ -899,12 +931,28 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 203535,
+      "num": 203535,
+      "word": "研究称锻炼越多感染新冠症状越轻",
+      "onboard_time": 1671413674,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 202862,
       "num": 202862,
       "word": "王蓉再唱爸爸妈妈好戳泪点",
       "onboard_time": 1671372455,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 198638,
+      "num": 198638,
+      "word": "吴京刘德华同频思念告白",
+      "onboard_time": 1671419075,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 193445,
@@ -987,12 +1035,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 164326,
-      "num": 164326,
-      "word": "贺炜诗意解读足球的意义",
-      "onboard_time": 1671416611,
-      "rank": 47,
-      "category": "体育,社会新闻"
+      "raw_hot": 164010,
+      "num": 164010,
+      "word": "新冠感染情况问卷调查",
+      "onboard_time": 1671417931,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 160703,
@@ -1025,6 +1073,14 @@
       "onboard_time": 1671378275,
       "rank": 41,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 156252,
+      "num": 156252,
+      "word": "徐璐片场对张彬彬说做个人吧",
+      "onboard_time": 1671419789,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 156203,
@@ -1099,14 +1155,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 141624,
-      "num": 141624,
-      "word": "泰国一载有106名官兵的军舰沉没",
-      "onboard_time": 1671417453,
-      "rank": 46,
-      "category": "军事,国外要闻"
-    },
-    {
       "raw_hot": 137120,
       "num": 137120,
       "word": "阿根廷球迷",
@@ -1115,12 +1163,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 136015,
+      "num": 136015,
+      "word": "女子手捧猪头花束给朋友庆生",
+      "onboard_time": 1671418953,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 133877,
       "num": 133877,
       "word": "勇士战胜猛龙",
       "onboard_time": 1671417754,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 128640,
+      "num": 128640,
+      "word": "丁禹兮大理寺少卿游丧服路透",
+      "onboard_time": 1671419673,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 128468,

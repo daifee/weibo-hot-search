@@ -1,0 +1,410 @@
+{
+  "runTime": 1671419974643,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2332650,
+        "num": 2332650,
+        "word": "C罗 遗憾",
+        "onboard_time": 1671414809,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1819690,
+        "num": 1819690,
+        "word": "阿根廷冠军",
+        "onboard_time": 1671386257,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120615,
+        "num": 1633921,
+        "word": "阳过后的生活用品不用更换",
+        "onboard_time": 1671355589,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1531459,
+        "num": 1531459,
+        "word": "阳性期间身上痒千万别不当回事",
+        "onboard_time": 1671416010,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1305107,
+        "num": 1305107,
+        "word": "梅西把问路的孩子带到山顶",
+        "onboard_time": 1671416792,
+        "rank": 4,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 2355385,
+        "num": 1282745,
+        "word": "北京增死亡病例2例",
+        "onboard_time": 1671414510,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 784581,
+        "num": 784581,
+        "word": "姆巴佩 金靴奖",
+        "onboard_time": 1671388222,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 990995,
+        "num": 765693,
+        "word": "梅西 金球奖",
+        "onboard_time": 1671388461,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 694312,
+        "num": 694312,
+        "word": "马丁内斯 阿根廷门神",
+        "onboard_time": 1671414150,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 630477,
+        "num": 630477,
+        "word": "王濛说看苏醒就知道阿根廷输赢",
+        "onboard_time": 1671412412,
+        "rank": 9,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 1137922,
+        "num": 615797,
+        "word": "张若昀发文洒家这辈子值了",
+        "onboard_time": 1671418475,
+        "rank": 10,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 664755,
+        "num": 606828,
+        "word": "梅西捧起大力神杯",
+        "onboard_time": 1671390324,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 592189,
+        "num": 592189,
+        "word": "圆满了",
+        "onboard_time": 1671387278,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 528563,
+        "num": 528563,
+        "word": "退烧药紧缺有望元旦前缓解",
+        "onboard_time": 1671414571,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 549384,
+        "num": 526943,
+        "word": "恭喜梅西",
+        "onboard_time": 1671386575,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 510612,
+        "num": 510612,
+        "word": "鹿晗说梅西比姆巴佩更需要冠军",
+        "onboard_time": 1671384746,
+        "rank": 15,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 503624,
+        "num": 503624,
+        "word": "乃万说姆巴怎么不配",
+        "onboard_time": 1671414630,
+        "rank": 16,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 456562,
+        "num": 456562,
+        "word": "姆巴佩 后生可畏",
+        "onboard_time": 1671411631,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 453669,
+        "num": 453669,
+        "word": "梅西",
+        "onboard_time": 1671374434,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 562884,
+        "num": 450538,
+        "word": "女子称丈夫家暴出轨起诉离婚被判不予支持",
+        "onboard_time": 1671412590,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 415512,
+        "num": 415512,
+        "word": "张元英的wave",
+        "onboard_time": 1671416253,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 415302,
+        "num": 415302,
+        "word": "泰国一载有106名官兵的军舰沉没",
+        "onboard_time": 1671417453,
+        "rank": 21,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 415191,
+        "num": 415191,
+        "word": "唐梓 毒奶",
+        "onboard_time": 1671409349,
+        "rank": 22,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 349936,
+        "num": 349936,
+        "word": "东北虎被反光板里的自己帅到了",
+        "onboard_time": 1671413971,
+        "rank": 23,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 347384,
+        "num": 347384,
+        "word": "女儿阳性妈妈骑16公里来送菜",
+        "onboard_time": 1671415111,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323443,
+        "num": 323443,
+        "word": "时代少年团一千零一夜下班路透",
+        "onboard_time": 1671417271,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 315830,
+        "num": 315830,
+        "word": "姆巴佩帽子戏法",
+        "onboard_time": 1671385290,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 315800,
+        "num": 315800,
+        "word": "财阀家的小儿子大嫂怀孕",
+        "onboard_time": 1671412051,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 263014,
+        "num": 263014,
+        "word": "多地医院报告医护减员严重",
+        "onboard_time": 1671413189,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230895,
+        "num": 230895,
+        "word": "沙特是本届世界杯唯一战胜冠军的球队",
+        "onboard_time": 1671388643,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 218205,
+        "num": 218205,
+        "word": "法国助教不满阿根廷4获点球",
+        "onboard_time": 1671419192,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213804,
+        "num": 213804,
+        "word": "贺炜诗意解读足球的意义",
+        "onboard_time": 1671416611,
+        "rank": 31,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 213142,
+        "num": 213142,
+        "word": "刀片嗓水泥鼻试试这样缓解",
+        "onboard_time": 1671410311,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204292,
+        "num": 204292,
+        "word": "这是活体亲子鉴定吧",
+        "onboard_time": 1671410611,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 203535,
+        "num": 203535,
+        "word": "研究称锻炼越多感染新冠症状越轻",
+        "onboard_time": 1671413674,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198638,
+        "num": 198638,
+        "word": "吴京刘德华同频思念告白",
+        "onboard_time": 1671419075,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 197018,
+        "num": 197018,
+        "word": "阿根廷7比5法国",
+        "onboard_time": 1671386815,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174506,
+        "num": 174506,
+        "word": "你管这叫农村自建房",
+        "onboard_time": 1671378813,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 164010,
+        "num": 164010,
+        "word": "新冠感染情况问卷调查",
+        "onboard_time": 1671417931,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160655,
+        "num": 160655,
+        "word": "贝克汉姆",
+        "onboard_time": 1671390502,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160594,
+        "num": 160594,
+        "word": "阿根廷vs法国",
+        "onboard_time": 1671370298,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156252,
+        "num": 156252,
+        "word": "徐璐片场对张彬彬说做个人吧",
+        "onboard_time": 1671419789,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 154751,
+        "num": 154751,
+        "word": "接亲路上千万别上厕所",
+        "onboard_time": 1671413431,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 146156,
+        "num": 146156,
+        "word": "男子确诊后舌头牙齿全变黑",
+        "onboard_time": 1671368430,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141586,
+        "num": 141586,
+        "word": "尹正说老嫂子这种梗对女性很不尊重",
+        "onboard_time": 1671371732,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136015,
+        "num": 136015,
+        "word": "女子手捧猪头花束给朋友庆生",
+        "onboard_time": 1671418953,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128640,
+        "num": 128640,
+        "word": "丁禹兮大理寺少卿游丧服路透",
+        "onboard_time": 1671419673,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 128021,
+        "num": 128021,
+        "word": "哈兰德",
+        "onboard_time": 1671389669,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126516,
+        "num": 126516,
+        "word": "费曼说不要误会不是说在座的各位",
+        "onboard_time": 1671411451,
+        "rank": 48,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 118997,
+        "num": 118997,
+        "word": "蔡徐坤倒立话筒唱新编曲HardToGet",
+        "onboard_time": 1671415771,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#行稳致远#"
+    }
+  }
+}
