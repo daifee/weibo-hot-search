@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1671484583617,
+  "endTime": 1671485636390,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -44251,6 +44251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 27646,
+      "num": 20175,
+      "word": "阿根廷球迷飞机上庆祝夺冠",
+      "onboard_time": 1671482531,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 26729,
       "num": 26729,
       "word": "加维反差萌",
@@ -44281,14 +44289,6 @@
       "onboard_time": 1671132073,
       "rank": 37,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 23343,
-      "num": 20175,
-      "word": "阿根廷球迷飞机上庆祝夺冠",
-      "onboard_time": 1671482531,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 22722,
@@ -44329,6 +44329,14 @@
       "onboard_time": 1670767337,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14313,
+      "num": 14313,
+      "word": "梅晓歌遇上了旅行蛤蟆",
+      "onboard_time": 1671485292,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 13504,
