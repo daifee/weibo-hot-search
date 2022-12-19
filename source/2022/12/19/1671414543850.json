@@ -1,0 +1,410 @@
+{
+  "runTime": 1671414543850,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2885362,
+        "num": 2885362,
+        "word": "阿根廷冠军",
+        "onboard_time": 1671386257,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1553918,
+        "num": 1553918,
+        "word": "姆巴佩 金靴奖",
+        "onboard_time": 1671388222,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199554,
+        "num": 1378268,
+        "word": "阳过后的生活用品不用更换",
+        "onboard_time": 1671355589,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1326599,
+        "num": 1326599,
+        "word": "阿根廷7比5法国",
+        "onboard_time": 1671386815,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1101853,
+        "num": 1101853,
+        "word": "梅西 金球奖",
+        "onboard_time": 1671388461,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1084581,
+        "num": 1084581,
+        "word": "唐梓 毒奶",
+        "onboard_time": 1671409349,
+        "rank": 5,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 985416,
+        "num": 985416,
+        "word": "姆巴佩 后生可畏",
+        "onboard_time": 1671411631,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1035916,
+        "num": 968383,
+        "word": "梅西捧起大力神杯",
+        "onboard_time": 1671390324,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 926355,
+        "num": 926355,
+        "word": "男孩确诊高烧39.5℃依然活力十足",
+        "onboard_time": 1671372632,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 874775,
+        "num": 874775,
+        "word": "这是活体亲子鉴定吧",
+        "onboard_time": 1671410611,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 834698,
+        "num": 834698,
+        "word": "女子称丈夫家暴出轨起诉离婚被判不予支持",
+        "onboard_time": 1671412590,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 741306,
+        "num": 741306,
+        "word": "王濛说看苏醒就知道阿根廷输赢",
+        "onboard_time": 1671412412,
+        "rank": 11,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 736295,
+        "num": 736295,
+        "word": "鹿晗灰蓝西装直播截图状态",
+        "onboard_time": 1671413790,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 671481,
+        "num": 671481,
+        "word": "圆满了",
+        "onboard_time": 1671387278,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 652126,
+        "num": 652126,
+        "word": "沙特是本届世界杯唯一战胜冠军的球队",
+        "onboard_time": 1671388643,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 640480,
+        "num": 640480,
+        "word": "恭喜梅西",
+        "onboard_time": 1671386575,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 583762,
+        "num": 583762,
+        "word": "闭幕式 中国国旗",
+        "onboard_time": 1671373833,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 525901,
+        "num": 525901,
+        "word": "刀片嗓水泥鼻试试这样缓解",
+        "onboard_time": 1671410311,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 589534,
+        "num": 522595,
+        "word": "梅西",
+        "onboard_time": 1671374434,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 481970,
+        "num": 481970,
+        "word": "姆巴佩帽子戏法",
+        "onboard_time": 1671385290,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 480029,
+        "num": 480029,
+        "word": "男子确诊后舌头牙齿全变黑",
+        "onboard_time": 1671368430,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 434940,
+        "num": 434940,
+        "word": "贝克汉姆",
+        "onboard_time": 1671390502,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 420415,
+        "num": 420415,
+        "word": "考研",
+        "onboard_time": 1671412892,
+        "rank": 22,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 390167,
+        "num": 390167,
+        "word": "梅西封王",
+        "onboard_time": 1671403756,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 358522,
+        "num": 358522,
+        "word": "尹正说老嫂子这种梗对女性很不尊重",
+        "onboard_time": 1671371732,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 290018,
+        "num": 290018,
+        "word": "你管这叫农村自建房",
+        "onboard_time": 1671378813,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 287370,
+        "num": 287370,
+        "word": "财阀家的小儿子大嫂怀孕",
+        "onboard_time": 1671412051,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 267827,
+        "num": 267827,
+        "word": "多地医院报告医护减员严重",
+        "onboard_time": 1671413189,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265008,
+        "num": 265008,
+        "word": "你身边有多少无症状感染者",
+        "onboard_time": 1671411331,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260356,
+        "num": 260356,
+        "word": "阿根廷vs法国",
+        "onboard_time": 1671370298,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 239402,
+        "num": 239402,
+        "word": "杨坤说马嘉祺的美丽才刚刚开始",
+        "onboard_time": 1671413073,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236677,
+        "num": 236677,
+        "word": "姆巴佩 牛",
+        "onboard_time": 1671382650,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 233362,
+        "num": 233362,
+        "word": "阿根廷门将",
+        "onboard_time": 1671383372,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 230382,
+        "num": 230382,
+        "word": "费曼说不要误会不是说在座的各位",
+        "onboard_time": 1671411451,
+        "rank": 33,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 228944,
+        "num": 228944,
+        "word": "众星为阿根廷夺冠打call",
+        "onboard_time": 1671408268,
+        "rank": 34,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 213305,
+        "num": 213305,
+        "word": "周杰伦演唱会遭观众吐槽",
+        "onboard_time": 1671365011,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 201714,
+        "num": 201714,
+        "word": "哈兰德",
+        "onboard_time": 1671389669,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 198773,
+        "num": 198773,
+        "word": "行程卡纪念版涉嫌违规暂停服务",
+        "onboard_time": 1671375216,
+        "rank": 37,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 188276,
+        "num": 188276,
+        "word": "国考考点",
+        "onboard_time": 1671406044,
+        "rank": 38,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 187300,
+        "num": 187300,
+        "word": "赵樱子四次为自己争取参演机会",
+        "onboard_time": 1671369093,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161109,
+        "num": 161109,
+        "word": "接亲路上千万别上厕所",
+        "onboard_time": 1671413431,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 158418,
+        "num": 158418,
+        "word": "马丁内斯 阿根廷门神",
+        "onboard_time": 1671414150,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148931,
+        "num": 148931,
+        "word": "九尾",
+        "onboard_time": 1671411691,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 148560,
+        "num": 148560,
+        "word": "新冠居家康复热点五问",
+        "onboard_time": 1671410972,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141825,
+        "num": 141825,
+        "word": "东北虎被反光板里的自己帅到了",
+        "onboard_time": 1671413971,
+        "rank": 44,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 182408,
+        "num": 137618,
+        "word": "义乌",
+        "onboard_time": 1671405382,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129915,
+        "num": 129915,
+        "word": "阿根廷纪录之王",
+        "onboard_time": 1671407788,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128468,
+        "num": 128468,
+        "word": "踩组 世界杯",
+        "onboard_time": 1671414089,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125993,
+        "num": 128367,
+        "word": "北京增死亡病例2例",
+        "onboard_time": 1671414510,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125563,
+        "num": 128162,
+        "word": "迪马利亚为决赛而生",
+        "onboard_time": 1671381447,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#明年经济工作这么干#"
+    }
+  }
+}

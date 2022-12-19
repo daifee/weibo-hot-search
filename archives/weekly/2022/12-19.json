@@ -1,6 +1,6 @@
 {
   "startTime": 1671380618877,
-  "endTime": 1671413050600,
+  "endTime": 1671414543850,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -275,6 +275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 985416,
+      "num": 985416,
+      "word": "姆巴佩 后生可畏",
+      "onboard_time": 1671411631,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 967529,
       "num": 967529,
       "word": "你管这叫农村自建房",
@@ -288,14 +296,6 @@
       "word": "迪巴拉",
       "onboard_time": 1671381207,
       "rank": 17,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 947447,
-      "num": 726973,
-      "word": "姆巴佩 后生可畏",
-      "onboard_time": 1671411631,
-      "rank": 10,
       "category": "体育"
     },
     {
@@ -347,12 +347,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 874775,
+      "num": 874775,
+      "word": "这是活体亲子鉴定吧",
+      "onboard_time": 1671410611,
+      "rank": 15,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 851733,
       "num": 851733,
       "word": "备考考研阳了怎么办",
       "onboard_time": 1671376891,
       "rank": 9,
       "category": "教育"
+    },
+    {
+      "raw_hot": 834698,
+      "num": 834698,
+      "word": "女子称丈夫家暴出轨起诉离婚被判不予支持",
+      "onboard_time": 1671412590,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 811277,
@@ -377,6 +393,22 @@
       "onboard_time": 1671386318,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 741306,
+      "num": 741306,
+      "word": "王濛说看苏醒就知道阿根廷输赢",
+      "onboard_time": 1671412412,
+      "rank": 25,
+      "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 736295,
+      "num": 736295,
+      "word": "鹿晗灰蓝西装直播截图状态",
+      "onboard_time": 1671413790,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 718514,
@@ -417,14 +449,6 @@
       "onboard_time": 1671410311,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 637154,
-      "num": 637154,
-      "word": "这是活体亲子鉴定吧",
-      "onboard_time": 1671410611,
-      "rank": 15,
-      "category": "幽默"
     },
     {
       "raw_hot": 575592,
@@ -491,6 +515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 420415,
+      "num": 420415,
+      "word": "考研",
+      "onboard_time": 1671412892,
+      "rank": 40,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 393712,
       "num": 393712,
       "word": "赵樱子四次为自己争取参演机会",
@@ -555,14 +587,6 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 312096,
-      "num": 312096,
-      "word": "王濛说看苏醒就知道阿根廷输赢",
-      "onboard_time": 1671412412,
-      "rank": 25,
-      "category": "体育,艺人"
-    },
-    {
       "raw_hot": 306126,
       "num": 306126,
       "word": "C罗支持阿根廷夺冠",
@@ -595,6 +619,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 287370,
+      "num": 287370,
+      "word": "财阀家的小儿子大嫂怀孕",
+      "onboard_time": 1671412051,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 284480,
       "num": 284480,
       "word": "斯卡洛尼",
@@ -619,12 +651,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 267827,
+      "num": 267827,
+      "word": "多地医院报告医护减员严重",
+      "onboard_time": 1671413189,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 267236,
       "num": 267236,
       "word": "久哲",
       "onboard_time": 1671375873,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 265008,
+      "num": 265008,
+      "word": "你身边有多少无症状感染者",
+      "onboard_time": 1671411331,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 257358,
@@ -659,12 +707,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 239239,
-      "num": 239239,
-      "word": "你身边有多少无症状感染者",
-      "onboard_time": 1671411331,
-      "rank": 31,
-      "category": "社会新闻"
+      "raw_hot": 239402,
+      "num": 239402,
+      "word": "杨坤说马嘉祺的美丽才刚刚开始",
+      "onboard_time": 1671413073,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 238217,
@@ -681,6 +729,14 @@
       "onboard_time": 1671367890,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 230382,
+      "num": 230382,
+      "word": "费曼说不要误会不是说在座的各位",
+      "onboard_time": 1671411451,
+      "rank": 33,
+      "category": "网红"
     },
     {
       "raw_hot": 229286,
@@ -705,14 +761,6 @@
       "onboard_time": 1671381746,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 211568,
-      "num": 211568,
-      "word": "费曼说不要误会不是说在座的各位",
-      "onboard_time": 1671411451,
-      "rank": 33,
-      "category": "网红"
     },
     {
       "raw_hot": 210079,
@@ -763,28 +811,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 199752,
-      "num": 199752,
-      "word": "女子称丈夫家暴出轨起诉离婚被判不予支持",
-      "onboard_time": 1671412590,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 193445,
       "num": 193445,
       "word": "女子自称患最优秀病株6小时痊愈",
       "onboard_time": 1671361531,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 191314,
-      "num": 191314,
-      "word": "财阀家的小儿子大嫂怀孕",
-      "onboard_time": 1671412051,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 185266,
@@ -851,12 +883,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 167953,
-      "num": 167953,
-      "word": "考研",
-      "onboard_time": 1671412892,
+      "raw_hot": 161109,
+      "num": 161109,
+      "word": "接亲路上千万别上厕所",
+      "onboard_time": 1671413431,
       "rank": 40,
-      "category": "教育,社会新闻"
+      "category": "幽默"
     },
     {
       "raw_hot": 160703,
@@ -865,6 +897,14 @@
       "onboard_time": 1671407247,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 158418,
+      "num": 158418,
+      "word": "马丁内斯 阿根廷门神",
+      "onboard_time": 1671414150,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 158146,
@@ -947,12 +987,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 141825,
+      "num": 141825,
+      "word": "东北虎被反光板里的自己帅到了",
+      "onboard_time": 1671413971,
+      "rank": 44,
+      "category": "幽默,社会新闻"
+    },
+    {
       "raw_hot": 137120,
       "num": 137120,
       "word": "阿根廷球迷",
       "onboard_time": 1671388340,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 128468,
+      "num": 128468,
+      "word": "踩组 世界杯",
+      "onboard_time": 1671414089,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 125993,
+      "num": 128367,
+      "word": "北京增死亡病例2例",
+      "onboard_time": 1671414510,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 124554,
