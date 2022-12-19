@@ -1,0 +1,410 @@
+{
+  "runTime": 1671435196593,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1307006,
+        "num": 1307006,
+        "word": "梅西把问路的孩子带到山顶",
+        "onboard_time": 1671416792,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1130009,
+        "num": 1130009,
+        "word": "布洛芬进价15卖50药店竟称像赌博",
+        "onboard_time": 1671432150,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218016,
+        "num": 983450,
+        "word": "阳了如何缓解症状带来的不适",
+        "onboard_time": 1671420693,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 981082,
+        "num": 981082,
+        "word": "医生建议布洛芬拆分成更小用量售卖",
+        "onboard_time": 1671425075,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 913174,
+        "num": 913174,
+        "word": "巴黎剩姆怨",
+        "onboard_time": 1671432928,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 805713,
+        "num": 805713,
+        "word": "北京增死亡病例2例",
+        "onboard_time": 1671414510,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 656865,
+        "num": 656865,
+        "word": "阿根廷夺冠男子哭着说16万的门票值了",
+        "onboard_time": 1671425675,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 635532,
+        "num": 635532,
+        "word": "胡歌发文圆满了",
+        "onboard_time": 1671422255,
+        "rank": 7,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 631926,
+        "num": 631926,
+        "word": "陈妍希发文我的青春终于圆满了",
+        "onboard_time": 1671428912,
+        "rank": 8,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 552299,
+        "num": 552299,
+        "word": "法国助教不满阿根廷4获点球",
+        "onboard_time": 1671419192,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 603829,
+        "num": 550088,
+        "word": "向太直播",
+        "onboard_time": 1671431432,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 530167,
+        "num": 530167,
+        "word": "阳性期间身上痒千万别不当回事",
+        "onboard_time": 1671416010,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 693209,
+        "num": 527037,
+        "word": "男子阳性3天后面部蜕皮布满白屑",
+        "onboard_time": 1671428076,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 514291,
+        "num": 514291,
+        "word": "00后女孩刚回家就被安排相亲",
+        "onboard_time": 1671430169,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77624,
+        "num": 466001,
+        "word": "华为影业月球大片将上映",
+        "onboard_time": 1671433230,
+        "rank": 14,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 460481,
+        "num": 460481,
+        "word": "李冰冰手抖了",
+        "onboard_time": 1671424894,
+        "rank": 15,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 452628,
+        "num": 452628,
+        "word": "男子花117万为准儿媳买编制被骗",
+        "onboard_time": 1671425793,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 450830,
+        "num": 450830,
+        "word": "阿根廷队围着大力神杯吃饭",
+        "onboard_time": 1671426875,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 427638,
+        "num": 427638,
+        "word": "阿根廷冠军",
+        "onboard_time": 1671386257,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 418811,
+        "num": 418811,
+        "word": "梅西生来为了阿根廷的冠军",
+        "onboard_time": 1671422255,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 390646,
+        "num": 390646,
+        "word": "黄晓明8年前的意难平圆满了",
+        "onboard_time": 1671428252,
+        "rank": 20,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 390067,
+        "num": 390067,
+        "word": "金钟仁李帝努柳智敏Candy舞蹈挑战",
+        "onboard_time": 1671434073,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 380868,
+        "num": 380868,
+        "word": "A股",
+        "onboard_time": 1671431370,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 377709,
+        "num": 377709,
+        "word": "布洛芬对乙酰氨基酚到底怎么服用",
+        "onboard_time": 1671429812,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 361202,
+        "num": 361202,
+        "word": "周围人全阳了他们未感染",
+        "onboard_time": 1671422130,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322656,
+        "num": 322656,
+        "word": "女子阳性后头发一夜变白脱发",
+        "onboard_time": 1671434551,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315175,
+        "num": 315175,
+        "word": "C罗 遗憾",
+        "onboard_time": 1671414809,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 313217,
+        "num": 313217,
+        "word": "重庆无症状和轻症状可正常上班",
+        "onboard_time": 1671423334,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310214,
+        "num": 310214,
+        "word": "王鹤棣的粉色小夹子",
+        "onboard_time": 1671431668,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 306183,
+        "num": 306183,
+        "word": "杨幂说演员让自己找到了热爱的职业",
+        "onboard_time": 1671433109,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 301469,
+        "num": 301469,
+        "word": "阿根廷队启程回国",
+        "onboard_time": 1671429513,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 287807,
+        "num": 287807,
+        "word": "张若昀发文洒家这辈子值了",
+        "onboard_time": 1671418475,
+        "rank": 31,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 285527,
+        "num": 285527,
+        "word": "内马尔发文恭喜梅西",
+        "onboard_time": 1671423812,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 238963,
+        "num": 238963,
+        "word": "女子开地暖晒干菜7天后全粘地砖上",
+        "onboard_time": 1671431250,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233099,
+        "num": 233099,
+        "word": "猫咪踩奶怎么像在摸牌",
+        "onboard_time": 1671428673,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 238237,
+        "num": 232955,
+        "word": "没有她梅西不会走到今天",
+        "onboard_time": 1671434851,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 228813,
+        "num": 228813,
+        "word": "毛不易李雪琴黄桃罐头神保佑东北人",
+        "onboard_time": 1671431909,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200570,
+        "num": 200570,
+        "word": "苏醒激动哭了",
+        "onboard_time": 1671433291,
+        "rank": 37,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 200104,
+        "num": 200104,
+        "word": "布洛芬原料药龙头股价暴涨超两倍",
+        "onboard_time": 1671425554,
+        "rank": 38,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 193111,
+        "num": 193111,
+        "word": "梅西 金球奖",
+        "onboard_time": 1671388461,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186666,
+        "num": 186666,
+        "word": "未定事件簿",
+        "onboard_time": 1671432210,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 184507,
+        "num": 184507,
+        "word": "再见老张",
+        "onboard_time": 1671427352,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180160,
+        "num": 180160,
+        "word": "退烧药为何多地缺货一药难求",
+        "onboard_time": 1671429214,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179701,
+        "num": 179701,
+        "word": "姆巴佩 后生可畏",
+        "onboard_time": 1671411631,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156576,
+        "num": 156576,
+        "word": "感染新冠康复后的注意事项",
+        "onboard_time": 1671432271,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155027,
+        "num": 155027,
+        "word": "女子向百户邻居赠两千粒退烧药",
+        "onboard_time": 1671428673,
+        "rank": 45,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 152363,
+        "num": 152363,
+        "word": "三星堆到底还有多少惊喜",
+        "onboard_time": 1671434610,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150239,
+        "num": 150239,
+        "word": "圆满了",
+        "onboard_time": 1671387278,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140615,
+        "num": 140615,
+        "word": "赵露思神隐蓝衣路透",
+        "onboard_time": 1671425914,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 128091,
+        "num": 128091,
+        "word": "王源唱重庆话rap明天不上班",
+        "onboard_time": 1671428733,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#行稳致远#"
+    }
+  }
+}
