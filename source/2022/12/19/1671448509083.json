@@ -1,0 +1,410 @@
+{
+  "runTime": 1671448509083,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4669896,
+        "num": 4669896,
+        "word": "目前还没阳性的人的生活状态",
+        "onboard_time": 1671441388,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 2038197,
+        "num": 2038197,
+        "word": "梅西夺冠穿的黑纱是什么",
+        "onboard_time": 1671444449,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142444,
+        "num": 1389318,
+        "word": "阳了如何缓解症状带来的不适",
+        "onboard_time": 1671420693,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1125408,
+        "num": 1125408,
+        "word": "大学生就业率低于高中生",
+        "onboard_time": 1671446068,
+        "rank": 3,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 969723,
+        "num": 969723,
+        "word": "母亲临终前为儿子准备一冰箱饭菜",
+        "onboard_time": 1671444870,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 724877,
+        "num": 724877,
+        "word": "张彬彬新剧刚下线又上线",
+        "onboard_time": 1671445890,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 710918,
+        "num": 710918,
+        "word": "布洛芬进价15卖50药店竟称像赌博",
+        "onboard_time": 1671432150,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 708010,
+        "num": 708010,
+        "word": "北京发烧感染者数量持续高位增加",
+        "onboard_time": 1671441748,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 649167,
+        "num": 649167,
+        "word": "专家称无症状居家无实际意义",
+        "onboard_time": 1671442951,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 625623,
+        "num": 625623,
+        "word": "NewJeans新歌DittoMV",
+        "onboard_time": 1671442169,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 674810,
+        "num": 611583,
+        "word": "专家称橘子煮水更适合新冠用药",
+        "onboard_time": 1671447269,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 595684,
+        "num": 595684,
+        "word": "一诺",
+        "onboard_time": 1671445471,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 442246,
+        "num": 442246,
+        "word": "谷爱凌回怼恶评",
+        "onboard_time": 1671441209,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 419475,
+        "num": 419475,
+        "word": "10片布洛芬售1块4毛4是什么体验",
+        "onboard_time": 1671441029,
+        "rank": 13,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 406397,
+        "num": 406397,
+        "word": "minji 作词",
+        "onboard_time": 1671447450,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 401134,
+        "num": 401134,
+        "word": "东北制药为何被罚款1.3亿",
+        "onboard_time": 1671435030,
+        "rank": 15,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 362704,
+        "num": 362704,
+        "word": "男子称妻子矫情阳性后却趴地上喊疼",
+        "onboard_time": 1671446670,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 356600,
+        "num": 356600,
+        "word": "电影热烈预计明年上映",
+        "onboard_time": 1671446911,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 352801,
+        "num": 352801,
+        "word": "梅西感谢郎朗祝贺",
+        "onboard_time": 1671438927,
+        "rank": 18,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 338194,
+        "num": 338194,
+        "word": "维C吃多了容易引起尿路结石",
+        "onboard_time": 1671439649,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309553,
+        "num": 309553,
+        "word": "买不到药还可以买肉",
+        "onboard_time": 1671442769,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 336446,
+        "num": 299835,
+        "word": "没有她梅西不会走到今天",
+        "onboard_time": 1671434851,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 264659,
+        "num": 264659,
+        "word": "女子变阳后开启荒野隔离田里打地铺",
+        "onboard_time": 1671446552,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258015,
+        "num": 258015,
+        "word": "陈妍希发文我的青春终于圆满了",
+        "onboard_time": 1671428912,
+        "rank": 23,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 248367,
+        "num": 248367,
+        "word": "阿Sa分享梅西球衣背影照",
+        "onboard_time": 1671446849,
+        "rank": 24,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 235848,
+        "num": 235848,
+        "word": "今年被韩国购入版权的国产剧",
+        "onboard_time": 1671437250,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 234832,
+        "num": 234832,
+        "word": "黄晓明8年前的意难平圆满了",
+        "onboard_time": 1671428252,
+        "rank": 26,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 202035,
+        "num": 202035,
+        "word": "AG对战WB",
+        "onboard_time": 1671444991,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 191243,
+        "num": 191243,
+        "word": "布洛芬对乙酰氨基酚到底怎么服用",
+        "onboard_time": 1671429812,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186134,
+        "num": 186134,
+        "word": "巴黎剩姆怨",
+        "onboard_time": 1671432928,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 234641,
+        "num": 185900,
+        "word": "赵樱子早期的采访",
+        "onboard_time": 1671437549,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 195329,
+        "num": 185038,
+        "word": "向太直播",
+        "onboard_time": 1671431432,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183693,
+        "num": 183693,
+        "word": "父子看世界杯决赛3人2种心情",
+        "onboard_time": 1671446431,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176694,
+        "num": 176694,
+        "word": "贺州卫健委回应四年级学生离世",
+        "onboard_time": 1671448110,
+        "rank": 33,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 170277,
+        "num": 170277,
+        "word": "北京阳性感染者什么情况下可返岗复工",
+        "onboard_time": 1671444690,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169838,
+        "num": 169838,
+        "word": "再见老张",
+        "onboard_time": 1671427352,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165927,
+        "num": 165927,
+        "word": "00后女孩刚回家就被安排相亲",
+        "onboard_time": 1671430169,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161994,
+        "num": 161994,
+        "word": "专家称无症状和轻型应回到岗位",
+        "onboard_time": 1671446247,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157748,
+        "num": 157748,
+        "word": "周围人全阳了他们未感染",
+        "onboard_time": 1671422130,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155924,
+        "num": 155924,
+        "word": "NewJeans新歌MV解析",
+        "onboard_time": 1671447389,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 155022,
+        "num": 155022,
+        "word": "B站6级用户找5级用户装修",
+        "onboard_time": 1671448292,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148575,
+        "num": 148575,
+        "word": "阿根廷队围着大力神杯吃饭",
+        "onboard_time": 1671426875,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143662,
+        "num": 143662,
+        "word": "刘宇宁谈骨折后生活细节",
+        "onboard_time": 1671438927,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143506,
+        "num": 143506,
+        "word": "没有感情全是病情",
+        "onboard_time": 1671437851,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 126738,
+        "num": 126738,
+        "word": "来自布宜诺斯艾利斯的狂欢",
+        "onboard_time": 1671440249,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126540,
+        "num": 126540,
+        "word": "20年后的我们教育孩子",
+        "onboard_time": 1671448411,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 125398,
+        "num": 125398,
+        "word": "阿根廷冠军",
+        "onboard_time": 1671386257,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179598,
+        "num": 125274,
+        "word": "梅西生来为了阿根廷的冠军",
+        "onboard_time": 1671422255,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125045,
+        "num": 125045,
+        "word": "林志为终于和梅晓歌说话了",
+        "onboard_time": 1671448472,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 124572,
+        "num": 124572,
+        "word": "克罗地亚回国受震感欢迎",
+        "onboard_time": 1671448472,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#一图看懂中央经济工作会议#"
+    }
+  }
+}

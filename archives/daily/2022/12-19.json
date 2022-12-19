@@ -1,6 +1,6 @@
 {
   "startTime": 1671380618877,
-  "endTime": 1671446216765,
+  "endTime": 1671448509083,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -83,8 +83,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 4634772,
-      "num": 4634772,
+      "raw_hot": 4669896,
+      "num": 4669896,
       "word": "目前还没阳性的人的生活状态",
       "onboard_time": 1671441388,
       "rank": 45,
@@ -203,19 +203,19 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 2038197,
+      "num": 2038197,
+      "word": "梅西夺冠穿的黑纱是什么",
+      "onboard_time": 1671444449,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2018205,
       "num": 2018205,
       "word": "阿根廷7比5法国",
       "onboard_time": 1671386815,
       "rank": 31,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1875001,
-      "num": 1875001,
-      "word": "梅西夺冠穿的黑纱是什么",
-      "onboard_time": 1671444449,
-      "rank": 12,
       "category": "体育"
     },
     {
@@ -371,6 +371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1125408,
+      "num": 1125408,
+      "word": "大学生就业率低于高中生",
+      "onboard_time": 1671446068,
+      "rank": 48,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1105796,
       "num": 1105796,
       "word": "周围人全阳了他们未感染",
@@ -432,6 +440,14 @@
       "word": "女子称丈夫家暴出轨起诉离婚被判不予支持",
       "onboard_time": 1671412590,
       "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 969723,
+      "num": 969723,
+      "word": "母亲临终前为儿子准备一冰箱饭菜",
+      "onboard_time": 1671444870,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -635,6 +651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 724877,
+      "num": 724877,
+      "word": "张彬彬新剧刚下线又上线",
+      "onboard_time": 1671445890,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 718514,
       "num": 718514,
       "word": "周杰伦演唱会遭观众吐槽",
@@ -691,11 +715,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 674810,
+      "num": 611583,
+      "word": "专家称橘子煮水更适合新冠用药",
+      "onboard_time": 1671447269,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 668716,
       "num": 668716,
       "word": "刀片嗓水泥鼻试试这样缓解",
       "onboard_time": 1671410311,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 649167,
+      "num": 649167,
+      "word": "专家称无症状居家无实际意义",
+      "onboard_time": 1671442951,
+      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -713,6 +753,14 @@
       "onboard_time": 1671431432,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 595684,
+      "num": 595684,
+      "word": "一诺",
+      "onboard_time": 1671445471,
+      "rank": 10,
+      "category": "游戏"
     },
     {
       "raw_hot": 575592,
@@ -859,14 +907,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 468395,
-      "num": 204107,
-      "word": "母亲临终前为儿子准备一冰箱饭菜",
-      "onboard_time": 1671444870,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 464252,
       "num": 464252,
       "word": "布洛芬原料药龙头股价暴涨超两倍",
@@ -907,14 +947,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 427932,
-      "num": 427932,
-      "word": "一诺",
-      "onboard_time": 1671445471,
-      "rank": 10,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 427666,
       "num": 427666,
       "word": "江苏卫视2023跨年演唱会官宣",
@@ -931,6 +963,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 406397,
+      "num": 406397,
+      "word": "minji 作词",
+      "onboard_time": 1671447450,
+      "rank": 14,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 406130,
       "num": 406130,
       "word": "女儿阳性妈妈骑16公里来送菜",
@@ -945,14 +985,6 @@
       "onboard_time": 1671369093,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 392001,
-      "num": 392001,
-      "word": "专家称无症状居家无实际意义",
-      "onboard_time": 1671442951,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 390067,
@@ -1001,6 +1033,22 @@
       "onboard_time": 1671442769,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 362704,
+      "num": 362704,
+      "word": "男子称妻子矫情阳性后却趴地上喊疼",
+      "onboard_time": 1671446670,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 356600,
+      "num": 356600,
+      "word": "电影热烈预计明年上映",
+      "onboard_time": 1671446911,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 354993,
@@ -1283,6 +1331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 264659,
+      "num": 264659,
+      "word": "女子变阳后开启荒野隔离田里打地铺",
+      "onboard_time": 1671446552,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 259499,
       "num": 259499,
       "word": "许光汉看世界杯的反应",
@@ -1371,6 +1427,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 248367,
+      "num": 248367,
+      "word": "阿Sa分享梅西球衣背影照",
+      "onboard_time": 1671446849,
+      "rank": 24,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 239402,
       "num": 239402,
       "word": "杨坤说马嘉祺的美丽才刚刚开始",
@@ -1449,14 +1513,6 @@
       "onboard_time": 1671439830,
       "rank": 31,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 223669,
-      "num": 223669,
-      "word": "张彬彬新剧刚下线又上线",
-      "onboard_time": 1671445890,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 219378,
@@ -1667,6 +1723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 183693,
+      "num": 183693,
+      "word": "父子看世界杯决赛3人2种心情",
+      "onboard_time": 1671446431,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 183130,
       "num": 183130,
       "word": "大力神杯能被阿根廷保存多久",
@@ -1747,6 +1811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 176694,
+      "num": 176694,
+      "word": "贺州卫健委回应四年级学生离世",
+      "onboard_time": 1671448110,
+      "rank": 33,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 174432,
       "num": 174432,
       "word": "成毅费加罗男士12月封面预告",
@@ -1811,6 +1883,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 161994,
+      "num": 161994,
+      "word": "专家称无症状和轻型应回到岗位",
+      "onboard_time": 1671446247,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 160703,
       "num": 160703,
       "word": "gemini 500",
@@ -1859,12 +1939,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 155924,
+      "num": 155924,
+      "word": "NewJeans新歌MV解析",
+      "onboard_time": 1671447389,
+      "rank": 39,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 155657,
       "num": 155657,
       "word": "吴菲是世界之巅里的邱樱",
       "onboard_time": 1671420329,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 155022,
+      "num": 155022,
+      "word": "B站6级用户找5级用户装修",
+      "onboard_time": 1671448292,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 152363,
@@ -2067,12 +2163,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 125779,
-      "num": 125779,
-      "word": "大学生就业率低于高中生",
-      "onboard_time": 1671446068,
-      "rank": 48,
-      "category": "社会新闻,教育"
+      "raw_hot": 126540,
+      "num": 126540,
+      "word": "20年后的我们教育孩子",
+      "onboard_time": 1671448411,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 125773,
@@ -2081,6 +2177,22 @@
       "onboard_time": 1671438808,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 125045,
+      "num": 125045,
+      "word": "林志为终于和梅晓歌说话了",
+      "onboard_time": 1671448472,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 124572,
+      "num": 124572,
+      "word": "克罗地亚回国受震感欢迎",
+      "onboard_time": 1671448472,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 124554,
