@@ -1,0 +1,410 @@
+{
+  "runTime": 1671460442367,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3149413,
+        "num": 3149413,
+        "word": "目前还没阳性的人的生活状态",
+        "onboard_time": 1671441388,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1542305,
+        "num": 1542305,
+        "word": "专家称橘子煮水更适合新冠用药",
+        "onboard_time": 1671447269,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84658,
+        "num": 1176737,
+        "word": "感染新冠康复后的注意事项",
+        "onboard_time": 1671432271,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1151384,
+        "num": 1151384,
+        "word": "布洛芬和布洛芬缓释有啥区别",
+        "onboard_time": 1671450511,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 923006,
+        "num": 923006,
+        "word": "得了新冠肺快咳出来了怎么办",
+        "onboard_time": 1671457170,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 801550,
+        "num": 801550,
+        "word": "梅西夺冠穿的黑纱是什么",
+        "onboard_time": 1671444449,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 761967,
+        "num": 761967,
+        "word": "贺州卫健委回应四年级学生离世",
+        "onboard_time": 1671448110,
+        "rank": 6,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 698192,
+        "num": 698192,
+        "word": "玉骨遥",
+        "onboard_time": 1671450813,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 687328,
+        "num": 687328,
+        "word": "婆婆怕给媳妇寄药丢了包整床被子",
+        "onboard_time": 1671456510,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 502546,
+        "num": 502546,
+        "word": "上海发热门诊第一波高峰来了",
+        "onboard_time": 1671456813,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 795581,
+        "num": 500046,
+        "word": "这个毒株应该是文曲毒株",
+        "onboard_time": 1671452791,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 489512,
+        "num": 489512,
+        "word": "北京天空",
+        "onboard_time": 1671454410,
+        "rank": 11,
+        "category": "自然,社会新闻"
+      },
+      {
+        "raw_hot": 439766,
+        "num": 439766,
+        "word": "专家辟谣转阴15天后才会产生抗体",
+        "onboard_time": 1671458070,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 415492,
+        "num": 415492,
+        "word": "克罗地亚回国受震撼欢迎",
+        "onboard_time": 1671448472,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 362890,
+        "num": 362890,
+        "word": "阳了的弟弟凌晨两点起来写试卷",
+        "onboard_time": 1671451769,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 359058,
+        "num": 359058,
+        "word": "赵丽颖说要珍惜每一次的用尽全力",
+        "onboard_time": 1671455249,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 351196,
+        "num": 351196,
+        "word": "AG止步世冠",
+        "onboard_time": 1671456872,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 347879,
+        "num": 347879,
+        "word": "沈月说真实生活中恋爱太难谈了",
+        "onboard_time": 1671450813,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 340456,
+        "num": 340456,
+        "word": "微信键盘发布正式版",
+        "onboard_time": 1671454352,
+        "rank": 18,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 331700,
+        "num": 331700,
+        "word": "母亲临终前为儿子准备一冰箱饭菜",
+        "onboard_time": 1671444870,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321126,
+        "num": 321126,
+        "word": "男子不戴口罩主动测试新冠传染性",
+        "onboard_time": 1671459154,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 319239,
+        "num": 319239,
+        "word": "喉咙里取刀片食疗法",
+        "onboard_time": 1671450030,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 302854,
+        "num": 302854,
+        "word": "梅西冷知识",
+        "onboard_time": 1671456570,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 288448,
+        "num": 288448,
+        "word": "布洛芬之父没赚到一分钱",
+        "onboard_time": 1671449730,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284372,
+        "num": 284372,
+        "word": "小米回应年底裁员",
+        "onboard_time": 1671455431,
+        "rank": 24,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 280389,
+        "num": 280389,
+        "word": "为什么烤橘子能止咳化痰",
+        "onboard_time": 1671452250,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 278302,
+        "num": 278302,
+        "word": "北京发烧感染者数量持续高位增加",
+        "onboard_time": 1671441748,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260064,
+        "num": 260064,
+        "word": "赵樱子演过倚天黄衫女",
+        "onboard_time": 1671458850,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 247918,
+        "num": 247918,
+        "word": "陈紫函新剧下线",
+        "onboard_time": 1671456753,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 109082,
+        "num": 244982,
+        "word": "阿根廷冠军",
+        "onboard_time": 1671386257,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 348116,
+        "num": 244593,
+        "word": "得了新冠疯狂放屁的不只小岳岳",
+        "onboard_time": 1671459810,
+        "rank": 30,
+        "category": "情感,艺人"
+      },
+      {
+        "raw_hot": 244146,
+        "num": 244146,
+        "word": "苏醒回应昨晚哭泣",
+        "onboard_time": 1671452250,
+        "rank": 31,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 237815,
+        "num": 237815,
+        "word": "四川警方破获特大考试作弊案",
+        "onboard_time": 1671453569,
+        "rank": 32,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 235890,
+        "num": 235890,
+        "word": "王者李白世冠新皮肤",
+        "onboard_time": 1671456872,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 234310,
+        "num": 234310,
+        "word": "女孩吃草莓蛋糕塔妈妈一脸嫌弃",
+        "onboard_time": 1671448770,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232047,
+        "num": 232047,
+        "word": "男子称妻子矫情阳性后却趴地上喊疼",
+        "onboard_time": 1671446670,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227377,
+        "num": 227377,
+        "word": "高校毕业生就业率低于大专中专高中",
+        "onboard_time": 1671446068,
+        "rank": 36,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 224782,
+        "num": 224782,
+        "word": "真正的喜欢不会暧昧太久的",
+        "onboard_time": 1671458733,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 212191,
+        "num": 212191,
+        "word": "hanni声音",
+        "onboard_time": 1671451172,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 212108,
+        "num": 212108,
+        "word": "NewJeans新歌DittoMV",
+        "onboard_time": 1671442169,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 186275,
+        "num": 186275,
+        "word": "专家称无症状居家无实际意义",
+        "onboard_time": 1671442951,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179470,
+        "num": 179470,
+        "word": "武艺说是沙特把阿根廷打醒了",
+        "onboard_time": 1671452011,
+        "rank": 41,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 167106,
+        "num": 167106,
+        "word": "网传东方卫视跨年嘉宾阵容",
+        "onboard_time": 1671456933,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162052,
+        "num": 162052,
+        "word": "张彬彬新剧刚下线又上线",
+        "onboard_time": 1671445890,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 155834,
+        "num": 155834,
+        "word": "林志为终于和梅晓歌说话了",
+        "onboard_time": 1671448472,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 153389,
+        "num": 153389,
+        "word": "邓超说孙俪女貌啊",
+        "onboard_time": 1671460354,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 149914,
+        "num": 149914,
+        "word": "AG对战WB",
+        "onboard_time": 1671444991,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 148661,
+        "num": 148661,
+        "word": "网传电影想见你内地定档12月24日",
+        "onboard_time": 1671459512,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 142710,
+        "num": 142710,
+        "word": "为什么解决不了痛苦",
+        "onboard_time": 1671460291,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 141513,
+        "num": 141513,
+        "word": "各地疫情走势与大数据预测基本一致",
+        "onboard_time": 1671459991,
+        "rank": 49,
+        "category": "社会新闻,科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#不负嘱托更奋发#"
+    }
+  }
+}

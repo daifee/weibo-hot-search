@@ -1,6 +1,6 @@
 {
   "startTime": 1671380618877,
-  "endTime": 1671459437406,
+  "endTime": 1671460442367,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -539,6 +539,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 923006,
+      "num": 923006,
+      "word": "得了新冠肺快咳出来了怎么办",
+      "onboard_time": 1671457170,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 914559,
       "num": 914559,
       "word": "男子确诊后舌头牙齿全变黑",
@@ -763,6 +771,14 @@
       "category": "自然,社会新闻"
     },
     {
+      "raw_hot": 687328,
+      "num": 687328,
+      "word": "婆婆怕给媳妇寄药丢了包整床被子",
+      "onboard_time": 1671456510,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 679866,
       "num": 679866,
       "word": "陈妍希发文我的青春终于圆满了",
@@ -811,28 +827,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 632374,
-      "num": 632374,
-      "word": "婆婆怕给媳妇寄药丢了包整床被子",
-      "onboard_time": 1671456510,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 629575,
       "num": 629575,
       "word": "阿根廷队围着大力神杯吃饭",
       "onboard_time": 1671426875,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 625236,
-      "num": 625236,
-      "word": "得了新冠肺快咳出来了怎么办",
-      "onboard_time": 1671457170,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 606121,
@@ -945,6 +945,14 @@
       "onboard_time": 1671414630,
       "rank": 23,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 502546,
+      "num": 502546,
+      "word": "上海发热门诊第一波高峰来了",
+      "onboard_time": 1671456813,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 492550,
@@ -1065,6 +1073,14 @@
       "onboard_time": 1671371732,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 439766,
+      "num": 439766,
+      "word": "专家辟谣转阴15天后才会产生抗体",
+      "onboard_time": 1671458070,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 439289,
@@ -1267,6 +1283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 348116,
+      "num": 244593,
+      "word": "得了新冠疯狂放屁的不只小岳岳",
+      "onboard_time": 1671459810,
+      "rank": 30,
+      "category": "情感,艺人"
+    },
+    {
       "raw_hot": 347777,
       "num": 347777,
       "word": "刘宇宁谈骨折后生活细节",
@@ -1379,20 +1403,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 321126,
+      "num": 321126,
+      "word": "男子不戴口罩主动测试新冠传染性",
+      "onboard_time": 1671459154,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 320282,
       "num": 320282,
       "word": "众星为阿根廷夺冠打call",
       "onboard_time": 1671408268,
       "rank": 24,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 318108,
-      "num": 318108,
-      "word": "专家辟谣转阴15天后才会产生抗体",
-      "onboard_time": 1671458070,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 317633,
@@ -1435,6 +1459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 302854,
+      "num": 302854,
+      "word": "梅西冷知识",
+      "onboard_time": 1671456570,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 301338,
       "num": 301338,
       "word": "宋茜看男粉跳hotsummer的反应",
@@ -1473,14 +1505,6 @@
       "onboard_time": 1671435811,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 291785,
-      "num": 291785,
-      "word": "梅西冷知识",
-      "onboard_time": 1671456570,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 290460,
@@ -1561,6 +1585,14 @@
       "onboard_time": 1671411331,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 260064,
+      "num": 260064,
+      "word": "赵樱子演过倚天黄衫女",
+      "onboard_time": 1671458850,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 259537,
@@ -1675,6 +1707,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 247918,
+      "num": 247918,
+      "word": "陈紫函新剧下线",
+      "onboard_time": 1671456753,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 239402,
       "num": 239402,
       "word": "杨坤说马嘉祺的美丽才刚刚开始",
@@ -1715,12 +1755,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 236951,
-      "num": 236951,
-      "word": "上海发热门诊第一波高峰来了",
-      "onboard_time": 1671456813,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 235890,
+      "num": 235890,
+      "word": "王者李白世冠新皮肤",
+      "onboard_time": 1671456872,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 235799,
@@ -1753,6 +1793,14 @@
       "onboard_time": 1671428673,
       "rank": 29,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 224782,
+      "num": 224782,
+      "word": "真正的喜欢不会暧昧太久的",
+      "onboard_time": 1671458733,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 224403,
@@ -2003,14 +2051,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 183004,
-      "num": 183004,
-      "word": "王者李白世冠新皮肤",
-      "onboard_time": 1671456872,
-      "rank": 37,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 182108,
       "num": 182108,
       "word": "还魂",
@@ -2179,14 +2219,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 168744,
-      "num": 168744,
-      "word": "陈紫函新剧下线",
-      "onboard_time": 1671456753,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 167709,
       "num": 167709,
       "word": "Newjeans先行曲空降",
@@ -2211,28 +2243,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 162713,
-      "num": 162713,
-      "word": "赵樱子演过倚天黄衫女",
-      "onboard_time": 1671458850,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
       "raw_hot": 161994,
       "num": 161994,
       "word": "专家称无症状和轻型应回到岗位",
       "onboard_time": 1671446247,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 161361,
-      "num": 161361,
-      "word": "真正的喜欢不会暧昧太久的",
-      "onboard_time": 1671458733,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 160703,
@@ -2331,20 +2347,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 153389,
+      "num": 153389,
+      "word": "邓超说孙俪女貌啊",
+      "onboard_time": 1671460354,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 153342,
       "num": 153342,
       "word": "张雪迎镜头下的墨白剧组",
       "onboard_time": 1671458370,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 152884,
-      "num": 152884,
-      "word": "男子不戴口罩主动测试新冠传染性",
-      "onboard_time": 1671459154,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 152363,
@@ -2392,6 +2408,14 @@
       "word": "不同人看县委大院",
       "onboard_time": 1671442828,
       "rank": 43,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 148661,
+      "num": 148661,
+      "word": "网传电影想见你内地定档12月24日",
+      "onboard_time": 1671459512,
+      "rank": 47,
       "category": "影视"
     },
     {
@@ -2459,12 +2483,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 142710,
+      "num": 142710,
+      "word": "为什么解决不了痛苦",
+      "onboard_time": 1671460291,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 141996,
       "num": 141996,
       "word": "恩佐黄牌",
       "onboard_time": 1671380305,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 141513,
+      "num": 141513,
+      "word": "各地疫情走势与大数据预测基本一致",
+      "onboard_time": 1671459991,
+      "rank": 49,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 137842,
@@ -2855,6 +2895,9 @@
     },
     {
       "word": "#2023年经济工作#"
+    },
+    {
+      "word": "#不负嘱托更奋发#"
     }
   ]
 }
