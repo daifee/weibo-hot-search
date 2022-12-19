@@ -1,6 +1,6 @@
 {
   "startTime": 1671380618877,
-  "endTime": 1671431849375,
+  "endTime": 1671434189560,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -475,6 +475,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 841760,
+      "num": 711206,
+      "word": "男子阳性3天后面部蜕皮布满白屑",
+      "onboard_time": 1671428076,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 840847,
       "num": 840847,
       "word": "王濛说看苏醒就知道阿根廷输赢",
@@ -539,20 +547,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 718324,
+      "num": 506684,
+      "word": "布洛芬进价15卖50药店竟称像赌博",
+      "onboard_time": 1671432150,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 718218,
       "num": 718218,
       "word": "沙特是本届世界杯唯一战胜冠军的球队",
       "onboard_time": 1671388643,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 711206,
-      "num": 711206,
-      "word": "男子阳性3天后面部蜕皮布满白屑",
-      "onboard_time": 1671428076,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 694312,
@@ -569,6 +577,14 @@
       "onboard_time": 1671378275,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 679866,
+      "num": 679866,
+      "word": "陈妍希发文我的青春终于圆满了",
+      "onboard_time": 1671428912,
+      "rank": 12,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 678188,
@@ -595,20 +611,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 654420,
-      "num": 620718,
-      "word": "陈妍希发文我的青春终于圆满了",
-      "onboard_time": 1671428912,
-      "rank": 12,
-      "category": "体育,艺人"
-    },
-    {
       "raw_hot": 629575,
       "num": 629575,
       "word": "阿根廷队围着大力神杯吃饭",
       "onboard_time": 1671426875,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 586203,
+      "num": 499657,
+      "word": "向太直播",
+      "onboard_time": 1671431432,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 575592,
@@ -640,6 +656,14 @@
       "word": "退烧药紧缺有望元旦前缓解",
       "onboard_time": 1671414571,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 516073,
+      "num": 516073,
+      "word": "00后女孩刚回家就被安排相亲",
+      "onboard_time": 1671430169,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -684,7 +708,7 @@
     },
     {
       "raw_hot": 490870,
-      "num": 237073,
+      "num": 277613,
       "word": "黄晓明8年前的意难平圆满了",
       "onboard_time": 1671428252,
       "rank": 30,
@@ -713,6 +737,14 @@
       "onboard_time": 1671425554,
       "rank": 31,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 452231,
+      "num": 241481,
+      "word": "男孩高烧40半夜睡不着写小升初试卷",
+      "onboard_time": 1671430591,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 441781,
@@ -761,6 +793,22 @@
       "onboard_time": 1671369093,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 389054,
+      "num": 389054,
+      "word": "A股",
+      "onboard_time": 1671431370,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 387615,
+      "num": 387615,
+      "word": "布洛芬对乙酰氨基酚到底怎么服用",
+      "onboard_time": 1671429812,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 373815,
@@ -843,6 +891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 336805,
+      "num": 336805,
+      "word": "王鹤棣的粉色小夹子",
+      "onboard_time": 1671431668,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 335244,
       "num": 178747,
       "word": "薛之谦发文庆祝梅西夺冠",
@@ -867,6 +923,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 324595,
+      "num": 324595,
+      "word": "阿根廷队启程回国",
+      "onboard_time": 1671429513,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 323443,
       "num": 323443,
       "word": "时代少年团一千零一夜下班路透",
@@ -889,22 +953,6 @@
       "onboard_time": 1671430652,
       "rank": 25,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 314729,
-      "num": 314729,
-      "word": "布洛芬对乙酰氨基酚到底怎么服用",
-      "onboard_time": 1671429812,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 310439,
-      "num": 310439,
-      "word": "王鹤棣的粉色小夹子",
-      "onboard_time": 1671431668,
-      "rank": 23,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 306126,
@@ -971,6 +1019,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 285589,
+      "num": 285589,
+      "word": "杨幂说演员让自己找到了热爱的职业",
+      "onboard_time": 1671433109,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 284480,
       "num": 284480,
       "word": "斯卡洛尼",
@@ -995,20 +1051,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 277066,
-      "num": 277066,
-      "word": "00后女孩刚回家就被安排相亲",
-      "onboard_time": 1671430169,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 267236,
       "num": 267236,
       "word": "久哲",
       "onboard_time": 1671375873,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 267149,
+      "num": 267149,
+      "word": "金钟仁李帝努柳智敏Candy舞蹈挑战",
+      "onboard_time": 1671434073,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 265008,
@@ -1091,20 +1147,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 249575,
+      "num": 249575,
+      "word": "巴黎剩姆怨",
+      "onboard_time": 1671432928,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 248377,
       "num": 242876,
       "word": "虞书欣晒双马尾十三宫格随拍",
       "onboard_time": 1671420932,
       "rank": 40,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 241481,
-      "num": 241481,
-      "word": "男孩高烧40半夜睡不着写小升初试卷",
-      "onboard_time": 1671430591,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 239402,
@@ -1129,6 +1185,14 @@
       "onboard_time": 1671413431,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 237191,
+      "num": 237191,
+      "word": "毛不易李雪琴黄桃罐头神保佑东北人",
+      "onboard_time": 1671431909,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 235799,
@@ -1163,14 +1227,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 220303,
-      "num": 220303,
-      "word": "A股",
-      "onboard_time": 1671431370,
-      "rank": 33,
-      "category": "财经"
-    },
-    {
       "raw_hot": 219378,
       "num": 219378,
       "word": "闪耀暖暖",
@@ -1179,12 +1235,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 215310,
-      "num": 215310,
-      "word": "阿根廷队启程回国",
-      "onboard_time": 1671429513,
-      "rank": 38,
-      "category": "体育"
+      "raw_hot": 216010,
+      "num": 216010,
+      "word": "女子开地暖晒干菜7天后全粘地砖上",
+      "onboard_time": 1671431250,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 214000,
@@ -1299,6 +1355,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 187879,
+      "num": 187879,
+      "word": "郎朗说圆梦了恭喜梅老板",
+      "onboard_time": 1671433891,
+      "rank": 40,
+      "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 187671,
+      "num": 187671,
+      "word": "梅西赛后给老婆拍照",
+      "onboard_time": 1671434131,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 185266,
       "num": 258777,
       "word": "刘畊宏预测阿根廷点球夺冠",
@@ -1379,6 +1451,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 176540,
+      "num": 176540,
+      "word": "感染新冠康复后的注意事项",
+      "onboard_time": 1671432271,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 175507,
+      "num": 175507,
+      "word": "未定事件簿",
+      "onboard_time": 1671432210,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 172413,
       "num": 172413,
       "word": "黄宗泽吴卓羲廉政狙击豆瓣开分7.9",
@@ -1411,12 +1499,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 167289,
-      "num": 167289,
-      "word": "向太直播",
-      "onboard_time": 1671431432,
-      "rank": 39,
-      "category": "艺人"
+      "raw_hot": 166444,
+      "num": 166444,
+      "word": "退烧药为何多地缺货一药难求",
+      "onboard_time": 1671429214,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 160703,
@@ -1473,6 +1561,14 @@
       "onboard_time": 1671420329,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 151431,
+      "num": 151431,
+      "word": "王源说演戏跟音乐相通",
+      "onboard_time": 1671432872,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 149927,
@@ -1579,14 +1675,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 134268,
-      "num": 134268,
-      "word": "退烧药为何多地缺货一药难求",
-      "onboard_time": 1671429214,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 133877,
       "num": 133877,
       "word": "勇士战胜猛龙",
@@ -1625,14 +1713,6 @@
       "onboard_time": 1671427890,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 121761,
-      "num": 121761,
-      "word": "女子开地暖晒干菜7天后全粘地砖上",
-      "onboard_time": 1671431250,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 120732,
@@ -1737,6 +1817,14 @@
       "onboard_time": 1671405803,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 63007,
+      "num": 489096,
+      "word": "华为影业月球大片将上映",
+      "onboard_time": 1671433230,
+      "rank": 14,
+      "category": "科技"
     },
     {
       "raw_hot": 62564,

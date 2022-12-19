@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/12/01 00:28:49 ~ 2022/12/19 14:37:29
+本榜单时间：2022/12/01 00:28:49 ~ 2022/12/19 15:16:29
 </p>
 </blockquote>
 <p>
@@ -4821,6 +4821,12 @@ Angelababy短发怼脸花絮视频（热度：848272）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E9%98%B3%E6%80%A73%E5%A4%A9%E5%90%8E%E9%9D%A2%E9%83%A8%E8%9C%95%E7%9A%AE%E5%B8%83%E6%BB%A1%E7%99%BD%E5%B1%91%23" target="weibo">
+男子阳性3天后面部蜕皮布满白屑（热度：841760）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E5%85%B4%E6%85%9C%E5%93%AD%E4%BA%86%23" target="weibo">
 孙兴慜哭了（热度：841581）
 </a>
@@ -5973,6 +5979,12 @@ C罗说这是不可思议的一天（热度：730413）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B8%83%E6%B4%9B%E8%8A%AC%E8%BF%9B%E4%BB%B715%E5%8D%9650%E8%8D%AF%E5%BA%97%E7%AB%9F%E7%A7%B0%E5%83%8F%E8%B5%8C%E5%8D%9A%23" target="weibo">
+布洛芬进价15卖50药店竟称像赌博（热度：718324）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%99%E7%89%B9%E6%98%AF%E6%9C%AC%E5%B1%8A%E4%B8%96%E7%95%8C%E6%9D%AF%E5%94%AF%E4%B8%80%E6%88%98%E8%83%9C%E5%86%A0%E5%86%9B%E7%9A%84%E7%90%83%E9%98%9F%23" target="weibo">
 沙特是本届世界杯唯一战胜冠军的球队（热度：718218）
 </a>
@@ -5999,18 +6011,6 @@ C罗说这是不可思议的一天（热度：730413）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E4%B8%AD%E5%BF%83%E5%9F%8E%E5%8C%BA%E5%B0%86%E9%80%90%E6%AD%A5%E6%94%BE%E5%BC%80%23" target="weibo">
 重庆中心城区将逐步放开（热度：716213）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E5%8D%AB%E7%94%9F%E5%81%A5%E5%BA%B7%E7%B3%BB%E7%BB%9F%E5%B0%86%E6%9A%82%E6%97%B6%E5%8F%96%E6%B6%88%E8%8A%82%E5%81%87%E6%97%A5%23" target="weibo">
-河南卫生健康系统将暂时取消节假日（热度：715687）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%B9%A6%E8%B1%AA%E8%A2%ABCBA%E7%BD%9A%E6%AC%BE1%E4%B8%87%E5%85%83%23" target="weibo">
-林书豪被CBA罚款1万元（热度：715380）
 </a>
 </li>
 
