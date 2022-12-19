@@ -1,6 +1,6 @@
 {
   "startTime": 1671380618877,
-  "endTime": 1671442422881,
+  "endTime": 1671445309918,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -81,6 +81,14 @@
       "onboard_time": 1671382169,
       "rank": 2,
       "category": "体育"
+    },
+    {
+      "raw_hot": 4066579,
+      "num": 4066579,
+      "word": "目前还没阳性的人的生活状态",
+      "onboard_time": 1671441388,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 3961914,
@@ -427,6 +435,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 962364,
+      "num": 407855,
+      "word": "梅西夺冠穿的黑纱是什么",
+      "onboard_time": 1671444449,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 952242,
       "num": 952242,
       "word": "迪巴拉",
@@ -460,7 +476,7 @@
     },
     {
       "raw_hot": 931473,
-      "num": 532774,
+      "num": 871781,
       "word": "NewJeans新歌DittoMV",
       "onboard_time": 1671442169,
       "rank": 10,
@@ -635,6 +651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 688594,
+      "num": 688594,
+      "word": "谷爱凌回怼恶评",
+      "onboard_time": 1671441209,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 679866,
       "num": 679866,
       "word": "陈妍希发文我的青春终于圆满了",
@@ -667,20 +691,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 649143,
+      "num": 649143,
+      "word": "北京发烧感染者数量持续高位增加",
+      "onboard_time": 1671441748,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 629575,
       "num": 629575,
       "word": "阿根廷队围着大力神杯吃饭",
       "onboard_time": 1671426875,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 625421,
-      "num": 519557,
-      "word": "目前还没阳性的人的生活状态",
-      "onboard_time": 1671441388,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 603829,
@@ -875,6 +899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 423645,
+      "num": 423645,
+      "word": "10片布洛芬售1块4毛4是什么体验",
+      "onboard_time": 1671441029,
+      "rank": 49,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 420415,
       "num": 420415,
       "word": "考研",
@@ -1059,14 +1091,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 324642,
-      "num": 231191,
-      "word": "谷爱凌回怼恶评",
-      "onboard_time": 1671441209,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 324595,
       "num": 324595,
       "word": "阿根廷队启程回国",
@@ -1203,12 +1227,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 278580,
+      "num": 278580,
+      "word": "买不到药还可以买肉",
+      "onboard_time": 1671442769,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 276188,
+      "num": 276188,
+      "word": "AG对战WB",
+      "onboard_time": 1671444991,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 267236,
       "num": 267236,
       "word": "久哲",
       "onboard_time": 1671375873,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 265353,
+      "num": 265353,
+      "word": "专家称无症状居家无实际意义",
+      "onboard_time": 1671442951,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 265008,
@@ -1531,6 +1579,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 187978,
+      "num": 187978,
+      "word": "来自布宜诺斯艾利斯的狂欢",
+      "onboard_time": 1671440249,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 187879,
       "num": 187879,
       "word": "郎朗说圆梦了恭喜梅老板",
@@ -1603,12 +1659,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 180227,
-      "num": 180227,
-      "word": "来自布宜诺斯艾利斯的狂欢",
-      "onboard_time": 1671440249,
-      "rank": 46,
-      "category": "体育"
+      "raw_hot": 180590,
+      "num": 180590,
+      "word": "北京阳性感染者什么情况下可返岗复工",
+      "onboard_time": 1671444690,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 180160,
@@ -1648,14 +1704,6 @@
       "word": "感染新冠康复后的注意事项",
       "onboard_time": 1671432271,
       "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 177760,
-      "num": 177760,
-      "word": "北京发烧感染者数量持续高位增加",
-      "onboard_time": 1671441748,
-      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -1699,12 +1747,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 169041,
+      "num": 169041,
+      "word": "沉睡的永恒之星",
+      "onboard_time": 1671444210,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 168932,
       "num": 168932,
       "word": "阿根廷纪录之王",
       "onboard_time": 1671407788,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 167709,
+      "num": 167709,
+      "word": "Newjeans先行曲空降",
+      "onboard_time": 1671444628,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 163480,
@@ -1803,6 +1867,14 @@
       "category": "体育,音乐"
     },
     {
+      "raw_hot": 149178,
+      "num": 149178,
+      "word": "不同人看县委大院",
+      "onboard_time": 1671442828,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 148228,
       "num": 178750,
       "word": "重庆进一步优化疫情防控措施",
@@ -1848,6 +1920,14 @@
       "word": "4男子阳性不忘赌球民警抓捕阳了俩",
       "onboard_time": 1671379775,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 143531,
+      "num": 143531,
+      "word": "母亲临终前为儿子准备一冰箱饭菜",
+      "onboard_time": 1671444870,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -1955,6 +2035,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 128447,
+      "num": 128447,
+      "word": "久哲久酷防护版喝奶茶",
+      "onboard_time": 1671442467,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 127190,
+      "num": 127190,
+      "word": "因为没阳而感到焦虑的人",
+      "onboard_time": 1671445049,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 125773,
       "num": 125773,
       "word": "什么声音能让你想起小时候",
@@ -1969,14 +2065,6 @@
       "onboard_time": 1671412648,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 124058,
-      "num": 124058,
-      "word": "10片布洛芬售1块4毛4是什么体验",
-      "onboard_time": 1671441029,
-      "rank": 49,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 122000,
