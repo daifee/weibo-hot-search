@@ -1,6 +1,6 @@
 {
   "startTime": 1671380618877,
-  "endTime": 1671406416833,
+  "endTime": 1671413050600,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -243,12 +243,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1265600,
+      "num": 1265600,
+      "word": "唐梓 毒奶",
+      "onboard_time": 1671409349,
+      "rank": 4,
+      "category": "体育,网红"
+    },
+    {
       "raw_hot": 1081113,
       "num": 1081113,
       "word": "哈兰德",
       "onboard_time": 1671389669,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1079863,
+      "num": 1079863,
+      "word": "男孩确诊高烧39.5℃依然活力十足",
+      "onboard_time": 1671372632,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1034084,
@@ -272,6 +288,14 @@
       "word": "迪巴拉",
       "onboard_time": 1671381207,
       "rank": 17,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 947447,
+      "num": 726973,
+      "word": "姆巴佩 后生可畏",
+      "onboard_time": 1671411631,
+      "rank": 10,
       "category": "体育"
     },
     {
@@ -363,20 +387,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 711034,
-      "num": 711034,
+      "raw_hot": 718218,
+      "num": 718218,
       "word": "沙特是本届世界杯唯一战胜冠军的球队",
       "onboard_time": 1671388643,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 705568,
-      "num": 705568,
-      "word": "男孩确诊高烧39.5℃依然活力十足",
-      "onboard_time": 1671372632,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 693459,
@@ -395,6 +411,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 668716,
+      "num": 668716,
+      "word": "刀片嗓水泥鼻试试这样缓解",
+      "onboard_time": 1671410311,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 637154,
+      "num": 637154,
+      "word": "这是活体亲子鉴定吧",
+      "onboard_time": 1671410611,
+      "rank": 15,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 575592,
       "num": 575592,
       "word": "吉鲁被换下",
@@ -408,6 +440,22 @@
       "word": "迪马利亚为决赛而生",
       "onboard_time": 1671381447,
       "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 515917,
+      "num": 515917,
+      "word": "贝克汉姆",
+      "onboard_time": 1671390502,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 492550,
+      "num": 492550,
+      "word": "梅西封王",
+      "onboard_time": 1671403756,
+      "rank": 25,
       "category": "体育"
     },
     {
@@ -425,14 +473,6 @@
       "onboard_time": 1671377614,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 482665,
-      "num": 482665,
-      "word": "贝克汉姆",
-      "onboard_time": 1671390502,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 441781,
@@ -483,6 +523,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 344858,
+      "num": 344858,
+      "word": "义乌",
+      "onboard_time": 1671405382,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 336927,
       "num": 336927,
       "word": "迪马利亚破门",
@@ -497,6 +545,22 @@
       "onboard_time": 1671375216,
       "rank": 24,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 320282,
+      "num": 320282,
+      "word": "众星为阿根廷夺冠打call",
+      "onboard_time": 1671408268,
+      "rank": 24,
+      "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 312096,
+      "num": 312096,
+      "word": "王濛说看苏醒就知道阿根廷输赢",
+      "onboard_time": 1671412412,
+      "rank": 25,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 306126,
@@ -571,11 +635,35 @@
       "category": "体育"
     },
     {
+      "raw_hot": 256788,
+      "num": 256788,
+      "word": "国考考点",
+      "onboard_time": 1671406044,
+      "rank": 39,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 250992,
       "num": 255284,
       "word": "无症状感染者为什么越来越少了",
       "onboard_time": 1671362792,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 250000,
+      "num": 2028450,
+      "word": "阳过后的生活用品不用更换",
+      "onboard_time": 1671355589,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 239239,
+      "num": 239239,
+      "word": "你身边有多少无症状感染者",
+      "onboard_time": 1671411331,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -619,12 +707,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 211568,
+      "num": 211568,
+      "word": "费曼说不要误会不是说在座的各位",
+      "onboard_time": 1671411451,
+      "rank": 33,
+      "category": "网红"
+    },
+    {
       "raw_hot": 210079,
       "num": 283093,
       "word": "法国3比3阿根廷",
       "onboard_time": 1671385407,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 209521,
+      "num": 209521,
+      "word": "九尾",
+      "onboard_time": 1671411691,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 207887,
@@ -659,6 +763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 199752,
+      "num": 199752,
+      "word": "女子称丈夫家暴出轨起诉离婚被判不予支持",
+      "onboard_time": 1671412590,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 193445,
       "num": 193445,
       "word": "女子自称患最优秀病株6小时痊愈",
@@ -667,20 +779,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 188054,
-      "num": 2028450,
-      "word": "阳过后的生活用品不用更换",
-      "onboard_time": 1671355589,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 187468,
-      "num": 187468,
-      "word": "梅西封王",
-      "onboard_time": 1671403756,
-      "rank": 25,
-      "category": "体育"
+      "raw_hot": 191314,
+      "num": 191314,
+      "word": "财阀家的小儿子大嫂怀孕",
+      "onboard_time": 1671412051,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 185266,
@@ -707,14 +811,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 182285,
-      "num": 182285,
-      "word": "义乌",
-      "onboard_time": 1671405382,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 182108,
       "num": 182108,
       "word": "还魂",
@@ -731,12 +827,44 @@
       "category": "体育"
     },
     {
+      "raw_hot": 178529,
+      "num": 178529,
+      "word": "新冠居家康复热点五问",
+      "onboard_time": 1671410972,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 176970,
       "num": 176970,
       "word": "伊布",
       "onboard_time": 1671388161,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 168932,
+      "num": 168932,
+      "word": "阿根廷纪录之王",
+      "onboard_time": 1671407788,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 167953,
+      "num": 167953,
+      "word": "考研",
+      "onboard_time": 1671412892,
+      "rank": 40,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 160703,
+      "num": 160703,
+      "word": "gemini 500",
+      "onboard_time": 1671407247,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 158146,
@@ -787,6 +915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 147155,
+      "num": 147155,
+      "word": "久酷 辅助",
+      "onboard_time": 1671410431,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 143634,
       "num": 143634,
       "word": "4男子阳性不忘赌球民警抓捕阳了俩",
@@ -819,20 +955,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124554,
+      "num": 124554,
+      "word": "马克龙拥抱安慰姆巴佩",
+      "onboard_time": 1671412648,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 120732,
+      "num": 149156,
+      "word": "杨迪回复粉丝叫爸爸",
+      "onboard_time": 1671381387,
+      "rank": 48,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 108258,
       "num": 1939661,
       "word": "阿根廷3比2法国",
       "onboard_time": 1671384746,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 105804,
-      "num": 149156,
-      "word": "杨迪回复粉丝叫爸爸",
-      "onboard_time": 1671381387,
-      "rank": 48,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 104765,
@@ -881,14 +1025,6 @@
       "onboard_time": 1671388759,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 79282,
-      "num": 79282,
-      "word": "国考考点",
-      "onboard_time": 1671406044,
-      "rank": 39,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 76928,
