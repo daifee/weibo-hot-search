@@ -1,6 +1,6 @@
 {
   "startTime": 1671380618877,
-  "endTime": 1671485636390,
+  "endTime": 1671488237855,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -2971,6 +2971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 70837,
+      "num": 70837,
+      "word": "嗓子疼如何缓解",
+      "onboard_time": 1671480972,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 69417,
       "num": 57655,
       "word": "马丁内斯神了",
@@ -3001,14 +3009,6 @@
       "onboard_time": 1671405202,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 57954,
-      "num": 57954,
-      "word": "嗓子疼如何缓解",
-      "onboard_time": 1671480972,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 56613,
@@ -3067,8 +3067,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 27646,
-      "num": 20175,
+      "raw_hot": 29782,
+      "num": 28039,
       "word": "阿根廷球迷飞机上庆祝夺冠",
       "onboard_time": 1671482531,
       "rank": 30,
@@ -3081,6 +3081,14 @@
       "onboard_time": 1671394993,
       "rank": 48,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 14524,
+      "num": 14968,
+      "word": "建议将新冠肺炎概念分为三类",
+      "onboard_time": 1671488054,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 14313,

@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1671485636390,
+  "endTime": 1671488237855,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -44195,6 +44195,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 29782,
+      "num": 28039,
+      "word": "阿根廷球迷飞机上庆祝夺冠",
+      "onboard_time": 1671482531,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 29422,
       "num": 108791,
       "word": "沙奇里破门",
@@ -44249,14 +44257,6 @@
       "onboard_time": 1671166832,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 27646,
-      "num": 20175,
-      "word": "阿根廷球迷飞机上庆祝夺冠",
-      "onboard_time": 1671482531,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 26729,
@@ -44328,6 +44328,14 @@
       "word": "有了徕卡小米成了吗",
       "onboard_time": 1670767337,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14524,
+      "num": 14968,
+      "word": "建议将新冠肺炎概念分为三类",
+      "onboard_time": 1671488054,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
