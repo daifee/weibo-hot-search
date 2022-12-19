@@ -1,6 +1,6 @@
 {
   "startTime": 1671380618877,
-  "endTime": 1671456207950,
+  "endTime": 1671456922952,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -459,6 +459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1008302,
+      "num": 500001,
+      "word": "这个毒株应该是文曲毒株",
+      "onboard_time": 1671452791,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 985416,
       "num": 985416,
       "word": "姆巴佩 后生可畏",
@@ -659,14 +667,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 745135,
-      "num": 500001,
-      "word": "这个毒株应该是文曲毒株",
-      "onboard_time": 1671452791,
-      "rank": 35,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 736295,
       "num": 736295,
       "word": "鹿晗灰蓝西装直播截图状态",
@@ -699,6 +699,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 723391,
+      "num": 723391,
+      "word": "阳了的弟弟凌晨两点起来写试卷",
+      "onboard_time": 1671451769,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 718514,
       "num": 718514,
       "word": "周杰伦演唱会遭观众吐槽",
@@ -721,14 +729,6 @@
       "onboard_time": 1671388643,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 711125,
-      "num": 711125,
-      "word": "阳了的弟弟凌晨两点起来写试卷",
-      "onboard_time": 1671451769,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 694312,
@@ -923,6 +923,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 497573,
+      "num": 497573,
+      "word": "北京天空",
+      "onboard_time": 1671454410,
+      "rank": 20,
+      "category": "自然,社会新闻"
+    },
+    {
       "raw_hot": 492550,
       "num": 492550,
       "word": "梅西封王",
@@ -968,6 +976,14 @@
       "word": "张元英的wave",
       "onboard_time": 1671416253,
       "rank": 18,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 474390,
+      "num": 474390,
+      "word": "赵丽颖说要珍惜每一次的用尽全力",
+      "onboard_time": 1671455249,
+      "rank": 14,
       "category": "作品衍生"
     },
     {
@@ -1091,14 +1107,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 395684,
-      "num": 395684,
-      "word": "赵丽颖说要珍惜每一次的用尽全力",
-      "onboard_time": 1671455249,
-      "rank": 14,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 393712,
       "num": 393712,
       "word": "赵樱子四次为自己争取参演机会",
@@ -1179,12 +1187,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 356821,
-      "num": 356821,
-      "word": "北京天空",
-      "onboard_time": 1671454410,
-      "rank": 20,
-      "category": "自然,社会新闻"
+      "raw_hot": 362536,
+      "num": 362536,
+      "word": "沈月说真实生活中恋爱太难谈了",
+      "onboard_time": 1671450813,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 356600,
@@ -1313,14 +1321,6 @@
       "onboard_time": 1671412051,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 325133,
-      "num": 325133,
-      "word": "沈月说真实生活中恋爱太难谈了",
-      "onboard_time": 1671450813,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 324595,
@@ -1467,20 +1467,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 281252,
+      "num": 281252,
+      "word": "四川警方破获特大考试作弊案",
+      "onboard_time": 1671453569,
+      "rank": 43,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 281193,
       "num": 281193,
       "word": "法国门将",
       "onboard_time": 1671387108,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 275270,
-      "num": 275270,
-      "word": "四川警方破获特大考试作弊案",
-      "onboard_time": 1671453569,
-      "rank": 43,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 267236,
@@ -1611,6 +1611,22 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 246696,
+      "num": 246696,
+      "word": "为什么烤橘子能止咳化痰",
+      "onboard_time": 1671452250,
+      "rank": 43,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 243289,
+      "num": 243289,
+      "word": "微信键盘发布正式版",
+      "onboard_time": 1671454352,
+      "rank": 49,
+      "category": "科技"
+    },
+    {
       "raw_hot": 239402,
       "num": 239402,
       "word": "杨坤说马嘉祺的美丽才刚刚开始",
@@ -1657,6 +1673,14 @@
       "onboard_time": 1671367890,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 235639,
+      "num": 235639,
+      "word": "小米回应年底裁员",
+      "onboard_time": 1671455431,
+      "rank": 43,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 230382,
@@ -1755,14 +1779,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 209292,
-      "num": 209292,
-      "word": "为什么烤橘子能止咳化痰",
-      "onboard_time": 1671452250,
-      "rank": 43,
-      "category": "美食"
-    },
-    {
       "raw_hot": 207887,
       "num": 252112,
       "word": "费曼",
@@ -1859,14 +1875,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 190947,
-      "num": 190947,
-      "word": "微信键盘发布正式版",
-      "onboard_time": 1671454352,
-      "rank": 49,
-      "category": "科技"
-    },
-    {
       "raw_hot": 188496,
       "num": 188496,
       "word": "墨白大结局",
@@ -1937,6 +1945,14 @@
       "onboard_time": 1671427475,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 183004,
+      "num": 183004,
+      "word": "王者李白世冠新皮肤",
+      "onboard_time": 1671456872,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 182108,
@@ -2107,6 +2123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 168744,
+      "num": 168744,
+      "word": "陈紫函新剧下线",
+      "onboard_time": 1671456753,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 167709,
       "num": 167709,
       "word": "Newjeans先行曲空降",
@@ -2116,7 +2140,7 @@
     },
     {
       "raw_hot": 163611,
-      "num": 149490,
+      "num": 161369,
       "word": "王鹤棣说从来不想后退的事",
       "onboard_time": 1671451950,
       "rank": 42,
@@ -2187,20 +2211,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 157575,
+      "num": 157575,
+      "word": "梅西冷知识",
+      "onboard_time": 1671456570,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 156504,
       "num": 156504,
       "word": "梅西进球刘畊宏欲喊又止",
       "onboard_time": 1671378275,
       "rank": 41,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 156396,
-      "num": 156396,
-      "word": "小米回应年底裁员",
-      "onboard_time": 1671455431,
-      "rank": 43,
-      "category": "科技,财经"
     },
     {
       "raw_hot": 156203,
@@ -2387,6 +2411,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 135070,
+      "num": 135070,
+      "word": "婆婆怕给媳妇寄药丢了包整床被子",
+      "onboard_time": 1671456510,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 134015,
       "num": 134015,
       "word": "张晚意富大龙师徒见面就互怼",
@@ -2489,6 +2521,14 @@
       "onboard_time": 1671442169,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 118318,
+      "num": 118318,
+      "word": "AG止步世冠",
+      "onboard_time": 1671456872,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 115563,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1671456922952,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3695730,
+        "num": 3695730,
+        "word": "目前还没阳性的人的生活状态",
+        "onboard_time": 1671441388,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1804402,
+        "num": 1804402,
+        "word": "专家称橘子煮水更适合新冠用药",
+        "onboard_time": 1671447269,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114489,
+        "num": 1595054,
+        "word": "感染新冠康复后的注意事项",
+        "onboard_time": 1671432271,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1461903,
+        "num": 1461903,
+        "word": "布洛芬和布洛芬缓释有啥区别",
+        "onboard_time": 1671450511,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1075685,
+        "num": 1075685,
+        "word": "玉骨遥",
+        "onboard_time": 1671450813,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1072430,
+        "num": 1072430,
+        "word": "梅西夺冠穿的黑纱是什么",
+        "onboard_time": 1671444449,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 887597,
+        "num": 887597,
+        "word": "贺州卫健委回应四年级学生离世",
+        "onboard_time": 1671448110,
+        "rank": 6,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 723391,
+        "num": 723391,
+        "word": "阳了的弟弟凌晨两点起来写试卷",
+        "onboard_time": 1671451769,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 520671,
+        "num": 520671,
+        "word": "克罗地亚回国受震撼欢迎",
+        "onboard_time": 1671448472,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 497573,
+        "num": 497573,
+        "word": "北京天空",
+        "onboard_time": 1671454410,
+        "rank": 9,
+        "category": "自然,社会新闻"
+      },
+      {
+        "raw_hot": 1008302,
+        "num": 492671,
+        "word": "这个毒株应该是文曲毒株",
+        "onboard_time": 1671452791,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 474390,
+        "num": 474390,
+        "word": "赵丽颖说要珍惜每一次的用尽全力",
+        "onboard_time": 1671455249,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 446740,
+        "num": 446740,
+        "word": "布洛芬之父没赚到一分钱",
+        "onboard_time": 1671449730,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 402180,
+        "num": 402180,
+        "word": "母亲临终前为儿子准备一冰箱饭菜",
+        "onboard_time": 1671444870,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 401582,
+        "num": 401582,
+        "word": "苏醒回应昨晚哭泣",
+        "onboard_time": 1671452250,
+        "rank": 14,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 394733,
+        "num": 394733,
+        "word": "女孩吃草莓蛋糕塔妈妈一脸嫌弃",
+        "onboard_time": 1671448770,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 387498,
+        "num": 387498,
+        "word": "北京发烧感染者数量持续高位增加",
+        "onboard_time": 1671441748,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 367048,
+        "num": 367048,
+        "word": "hanni声音",
+        "onboard_time": 1671451172,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 362536,
+        "num": 362536,
+        "word": "沈月说真实生活中恋爱太难谈了",
+        "onboard_time": 1671450813,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 356917,
+        "num": 356917,
+        "word": "武艺说是沙特把阿根廷打醒了",
+        "onboard_time": 1671452011,
+        "rank": 19,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 353416,
+        "num": 353416,
+        "word": "AG对战WB",
+        "onboard_time": 1671444991,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 347792,
+        "num": 347792,
+        "word": "喉咙里取刀片食疗法",
+        "onboard_time": 1671450030,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 312418,
+        "num": 312418,
+        "word": "莫德里奇遗憾未能夺冠",
+        "onboard_time": 1671452311,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 281252,
+        "num": 281252,
+        "word": "四川警方破获特大考试作弊案",
+        "onboard_time": 1671453569,
+        "rank": 23,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 276887,
+        "num": 276887,
+        "word": "NewJeans新歌DittoMV",
+        "onboard_time": 1671442169,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 274313,
+        "num": 274313,
+        "word": "高校毕业生就业率低于大专中专高中",
+        "onboard_time": 1671446068,
+        "rank": 25,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 261446,
+        "num": 261446,
+        "word": "男子称妻子矫情阳性后却趴地上喊疼",
+        "onboard_time": 1671446670,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246696,
+        "num": 246696,
+        "word": "为什么烤橘子能止咳化痰",
+        "onboard_time": 1671452250,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 243289,
+        "num": 243289,
+        "word": "微信键盘发布正式版",
+        "onboard_time": 1671454352,
+        "rank": 28,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 124319,
+        "num": 238019,
+        "word": "阿根廷冠军",
+        "onboard_time": 1671386257,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 235639,
+        "num": 235639,
+        "word": "小米回应年底裁员",
+        "onboard_time": 1671455431,
+        "rank": 30,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 231057,
+        "num": 231057,
+        "word": "专家称无症状居家无实际意义",
+        "onboard_time": 1671442951,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226426,
+        "num": 226426,
+        "word": "冲鸡蛋茶",
+        "onboard_time": 1671449010,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 216427,
+        "num": 216427,
+        "word": "林志为终于和梅晓歌说话了",
+        "onboard_time": 1671448472,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 215697,
+        "num": 215697,
+        "word": "一诺",
+        "onboard_time": 1671445471,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 213730,
+        "num": 213730,
+        "word": "张彬彬新剧刚下线又上线",
+        "onboard_time": 1671445890,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 199150,
+        "num": 199150,
+        "word": "陈楚生晚礼服氛围感舞台",
+        "onboard_time": 1671455552,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 183004,
+        "num": 183004,
+        "word": "王者李白世冠新皮肤",
+        "onboard_time": 1671456872,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 174902,
+        "num": 174902,
+        "word": "江苏卫视2023跨年演唱会官宣",
+        "onboard_time": 1671439230,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174590,
+        "num": 174590,
+        "word": "张雪迎毕雯珺墨白大结局太好哭了",
+        "onboard_time": 1671454232,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 168744,
+        "num": 168744,
+        "word": "陈紫函新剧下线",
+        "onboard_time": 1671456753,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 168281,
+        "num": 168281,
+        "word": "AG 极光",
+        "onboard_time": 1671451172,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 166249,
+        "num": 166249,
+        "word": "这就是喜欢梅西的原因吧",
+        "onboard_time": 1671455012,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161369,
+        "num": 161369,
+        "word": "王鹤棣说从来不想后退的事",
+        "onboard_time": 1671451950,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 160045,
+        "num": 160045,
+        "word": "维C吃多了容易引起尿路结石",
+        "onboard_time": 1671439649,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157575,
+        "num": 157575,
+        "word": "梅西冷知识",
+        "onboard_time": 1671456570,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155462,
+        "num": 155462,
+        "word": "赵樱子早期的采访",
+        "onboard_time": 1671437549,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 135070,
+        "num": 135070,
+        "word": "婆婆怕给媳妇寄药丢了包整床被子",
+        "onboard_time": 1671456510,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124842,
+        "num": 124842,
+        "word": "女子变阳后开启荒野隔离田里打地铺",
+        "onboard_time": 1671446552,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118318,
+        "num": 118318,
+        "word": "AG止步世冠",
+        "onboard_time": 1671456872,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#一图看懂中央经济工作会议#"
+    }
+  }
+}
