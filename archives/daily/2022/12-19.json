@@ -1,6 +1,6 @@
 {
   "startTime": 1671380618877,
-  "endTime": 1671424620403,
+  "endTime": 1671427003934,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -211,20 +211,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1649294,
+      "num": 1649294,
+      "word": "胡歌发文圆满了",
+      "onboard_time": 1671422255,
+      "rank": 8,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 1647119,
       "num": 767430,
       "word": "姆巴佩",
       "onboard_time": 1671374133,
       "rank": 11,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1641146,
-      "num": 1641146,
-      "word": "胡歌发文圆满了",
-      "onboard_time": 1671422255,
-      "rank": 8,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 1568875,
@@ -283,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1302000,
+      "num": 1302000,
+      "word": "梅西生来为了阿根廷的冠军",
+      "onboard_time": 1671422255,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1280279,
       "num": 1280279,
       "word": "法国 不在状态",
@@ -299,20 +307,28 @@
       "category": "体育,网红"
     },
     {
-      "raw_hot": 1174467,
-      "num": 1174467,
-      "word": "梅西生来为了阿根廷的冠军",
-      "onboard_time": 1671422255,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1145663,
       "num": 1145663,
       "word": "法国助教不满阿根廷4获点球",
       "onboard_time": 1671419192,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1107926,
+      "num": 988606,
+      "word": "医生建议布洛芬拆分成更小用量售卖",
+      "onboard_time": 1671425075,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1105796,
+      "num": 1105796,
+      "word": "周围人全阳了他们未感染",
+      "onboard_time": 1671422130,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1081113,
@@ -339,6 +355,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1033659,
+      "num": 959962,
+      "word": "李冰冰手抖了",
+      "onboard_time": 1671424894,
+      "rank": 11,
+      "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 1010074,
+      "num": 1010074,
+      "word": "内马尔发文恭喜梅西",
+      "onboard_time": 1671423812,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 985416,
       "num": 985416,
       "word": "姆巴佩 后生可畏",
@@ -361,14 +393,6 @@
       "onboard_time": 1671378813,
       "rank": 14,
       "category": "情感"
-    },
-    {
-      "raw_hot": 962209,
-      "num": 962209,
-      "word": "周围人全阳了他们未感染",
-      "onboard_time": 1671422130,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 952242,
@@ -416,14 +440,6 @@
       "word": "迪马利亚被换下",
       "onboard_time": 1671381506,
       "rank": 27,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 898280,
-      "num": 898280,
-      "word": "内马尔发文恭喜梅西",
-      "onboard_time": 1671423812,
-      "rank": 11,
       "category": "体育"
     },
     {
@@ -547,6 +563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 649095,
+      "num": 649095,
+      "word": "重庆无症状和轻症状可正常上班",
+      "onboard_time": 1671423334,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 575592,
       "num": 575592,
       "word": "吉鲁被换下",
@@ -635,6 +659,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 449445,
+      "num": 449445,
+      "word": "男子花117万为准儿媳买编制被骗",
+      "onboard_time": 1671425793,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 441781,
       "num": 441781,
       "word": "尹正说老嫂子这种梗对女性很不尊重",
@@ -681,6 +713,14 @@
       "onboard_time": 1671369093,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 375787,
+      "num": 375787,
+      "word": "阿根廷夺冠男子哭着说16万的门票值了",
+      "onboard_time": 1671425675,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 373815,
@@ -755,6 +795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 335244,
+      "num": 178747,
+      "word": "薛之谦发文庆祝梅西夺冠",
+      "onboard_time": 1671426334,
+      "rank": 46,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 333603,
       "num": 333603,
       "word": "行程卡纪念版涉嫌违规暂停服务",
@@ -769,14 +817,6 @@
       "onboard_time": 1671412051,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 325259,
-      "num": 325259,
-      "word": "重庆无症状和轻症状可正常上班",
-      "onboard_time": 1671423334,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 323443,
@@ -915,6 +955,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 255967,
+      "num": 255967,
+      "word": "四川卫视新年演唱会阵容",
+      "onboard_time": 1671426215,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 254736,
       "num": 182606,
       "word": "IVE新歌LOVEDIVE获bugs年末结算一位",
@@ -993,6 +1041,22 @@
       "onboard_time": 1671376950,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 220497,
+      "num": 215306,
+      "word": "布洛芬原料药龙头股价暴涨超两倍",
+      "onboard_time": 1671425554,
+      "rank": 31,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 219378,
+      "num": 219378,
+      "word": "闪耀暖暖",
+      "onboard_time": 1671424354,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 214000,
@@ -1123,20 +1187,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 183965,
-      "num": 183965,
-      "word": "闪耀暖暖",
-      "onboard_time": 1671424354,
-      "rank": 39,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 182108,
       "num": 182108,
       "word": "还魂",
       "onboard_time": 1671377071,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 180538,
+      "num": 180538,
+      "word": "一家7口边打吊瓶边坐三轮回家",
+      "onboard_time": 1671426875,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 179543,
@@ -1179,6 +1243,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 170985,
+      "num": 178752,
+      "word": "赵露思神隐蓝衣路透",
+      "onboard_time": 1671425914,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 170155,
       "num": 170155,
       "word": "新冠感染情况问卷调查",
@@ -1188,7 +1260,7 @@
     },
     {
       "raw_hot": 169804,
-      "num": 169804,
+      "num": 178744,
       "word": "要充分认识到房地产行业重要性",
       "onboard_time": 1671421233,
       "rank": 37,
@@ -1212,7 +1284,7 @@
     },
     {
       "raw_hot": 158336,
-      "num": 158336,
+      "num": 178740,
       "word": "新疆交警被强风刮出数米远",
       "onboard_time": 1671420390,
       "rank": 49,
@@ -1273,6 +1345,14 @@
       "onboard_time": 1671377255,
       "rank": 49,
       "category": "体育,音乐"
+    },
+    {
+      "raw_hot": 148228,
+      "num": 178750,
+      "word": "重庆进一步优化疫情防控措施",
+      "onboard_time": 1671426154,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 148192,
@@ -1353,6 +1433,14 @@
       "onboard_time": 1671419673,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 134650,
+      "num": 178745,
+      "word": "阿根廷队围着大力神杯吃饭",
+      "onboard_time": 1671426875,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 133877,
