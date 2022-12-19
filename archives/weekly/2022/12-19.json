@@ -1,6 +1,6 @@
 {
   "startTime": 1671380618877,
-  "endTime": 1671438210032,
+  "endTime": 1671439005122,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -163,8 +163,8 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 2390633,
-      "num": 2390633,
+      "raw_hot": 2472999,
+      "num": 2472999,
       "word": "女子阳性后头发一夜变白脱发",
       "onboard_time": 1671434551,
       "rank": 25,
@@ -435,6 +435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 944476,
+      "num": 944476,
+      "word": "没有她梅西不会走到今天",
+      "onboard_time": 1671434851,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 941567,
       "num": 941567,
       "word": "德保罗",
@@ -467,14 +475,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 908853,
-      "num": 908853,
-      "word": "没有她梅西不会走到今天",
-      "onboard_time": 1671434851,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 899693,
       "num": 899693,
       "word": "迪马利亚被换下",
@@ -497,6 +497,14 @@
       "onboard_time": 1671410611,
       "rank": 15,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 854811,
+      "num": 854811,
+      "word": "东北制药为何被罚款1.3亿",
+      "onboard_time": 1671435030,
+      "rank": 10,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 851733,
@@ -625,14 +633,6 @@
       "onboard_time": 1671361410,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 671877,
-      "num": 434094,
-      "word": "东北制药为何被罚款1.3亿",
-      "onboard_time": 1671435030,
-      "rank": 10,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 668716,
@@ -819,6 +819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 399902,
+      "num": 399902,
+      "word": "今年被韩国购入版权的国产剧",
+      "onboard_time": 1671437250,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 393712,
       "num": 393712,
       "word": "赵樱子四次为自己争取参演机会",
@@ -947,6 +955,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 334023,
+      "num": 334023,
+      "word": "小米个别部门裁员比例高达75%",
+      "onboard_time": 1671436590,
+      "rank": 33,
+      "category": "科技"
+    },
+    {
       "raw_hot": 333603,
       "num": 333603,
       "word": "行程卡纪念版涉嫌违规暂停服务",
@@ -1011,6 +1027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 304260,
+      "num": 304260,
+      "word": "狗狗因主人不提东西而赌气",
+      "onboard_time": 1671436290,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 301338,
       "num": 301338,
       "word": "宋茜看男粉跳hotsummer的反应",
@@ -1041,14 +1065,6 @@
       "onboard_time": 1671420632,
       "rank": 40,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 295299,
-      "num": 295299,
-      "word": "今年被韩国购入版权的国产剧",
-      "onboard_time": 1671437250,
-      "rank": 24,
-      "category": "影视"
     },
     {
       "raw_hot": 293865,
@@ -1211,6 +1227,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 241800,
+      "num": 241800,
+      "word": "梅西感谢郎朗祝贺",
+      "onboard_time": 1671438927,
+      "rank": 28,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 239402,
       "num": 239402,
       "word": "杨坤说马嘉祺的美丽才刚刚开始",
@@ -1225,6 +1249,14 @@
       "onboard_time": 1671431250,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 238931,
+      "num": 238931,
+      "word": "没有感情全是病情",
+      "onboard_time": 1671437851,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 238217,
@@ -1283,20 +1315,12 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 219731,
-      "num": 219731,
-      "word": "狗狗因主人不提东西而赌气",
-      "onboard_time": 1671436290,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 219394,
-      "num": 219394,
-      "word": "小米个别部门裁员比例高达75%",
-      "onboard_time": 1671436590,
-      "rank": 33,
-      "category": "科技"
+      "raw_hot": 221596,
+      "num": 221596,
+      "word": "赵樱子早期的采访",
+      "onboard_time": 1671437549,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 219378,
@@ -1371,6 +1395,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 206843,
+      "num": 206843,
+      "word": "如何面对分手后的戒断反应",
+      "onboard_time": 1671436771,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 205014,
       "num": 205014,
       "word": "药神一直都在",
@@ -1425,6 +1457,14 @@
       "onboard_time": 1671423994,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 188496,
+      "num": 188496,
+      "word": "墨白大结局",
+      "onboard_time": 1671438209,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 187879,
@@ -1547,14 +1587,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 174770,
-      "num": 174770,
-      "word": "赵樱子早期的采访",
-      "onboard_time": 1671437549,
-      "rank": 42,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 174432,
       "num": 174432,
       "word": "成毅费加罗男士12月封面预告",
@@ -1595,20 +1627,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 166173,
+      "num": 166173,
+      "word": "刘宇宁谈骨折后生活细节",
+      "onboard_time": 1671438927,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 160703,
       "num": 160703,
       "word": "gemini 500",
       "onboard_time": 1671407247,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 158992,
-      "num": 158992,
-      "word": "如何面对分手后的戒断反应",
-      "onboard_time": 1671436771,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 158336,
@@ -1731,14 +1763,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 143681,
-      "num": 143681,
-      "word": "没有感情全是病情",
-      "onboard_time": 1671437851,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 143634,
       "num": 143634,
       "word": "4男子阳性不忘赌球民警抓捕阳了俩",
@@ -1817,6 +1841,14 @@
       "onboard_time": 1671414089,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 125773,
+      "num": 125773,
+      "word": "什么声音能让你想起小时候",
+      "onboard_time": 1671438808,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 124554,

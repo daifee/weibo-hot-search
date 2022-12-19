@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1671438210032,
+  "endTime": 1671439005122,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -923,6 +923,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 2472999,
+      "num": 2472999,
+      "word": "女子阳性后头发一夜变白脱发",
+      "onboard_time": 1671434551,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2470139,
       "num": 2470139,
       "word": "四级",
@@ -1041,14 +1049,6 @@
       "onboard_time": 1670470273,
       "rank": 41,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 2390633,
-      "num": 2390633,
-      "word": "女子阳性后头发一夜变白脱发",
-      "onboard_time": 1671434551,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2382390,
@@ -5411,6 +5411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 944476,
+      "num": 944476,
+      "word": "没有她梅西不会走到今天",
+      "onboard_time": 1671434851,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 944072,
       "num": 788920,
       "word": "王者荣耀",
@@ -5777,14 +5785,6 @@
       "onboard_time": 1670423715,
       "rank": 10,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 908853,
-      "num": 908853,
-      "word": "没有她梅西不会走到今天",
-      "onboard_time": 1671434851,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 908115,
@@ -6281,6 +6281,14 @@
       "onboard_time": 1670068752,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 854811,
+      "num": 854811,
+      "word": "东北制药为何被罚款1.3亿",
+      "onboard_time": 1671435030,
+      "rank": 10,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 853596,
@@ -8865,14 +8873,6 @@
       "onboard_time": 1670219349,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 671877,
-      "num": 434094,
-      "word": "东北制药为何被罚款1.3亿",
-      "onboard_time": 1671435030,
-      "rank": 10,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 671702,
@@ -15987,6 +15987,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 399902,
+      "num": 399902,
+      "word": "今年被韩国购入版权的国产剧",
+      "onboard_time": 1671437250,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 399361,
       "num": 399361,
       "word": "莫德里奇吹魔笛自己笑了",
@@ -18771,6 +18779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 334023,
+      "num": 334023,
+      "word": "小米个别部门裁员比例高达75%",
+      "onboard_time": 1671436590,
+      "rank": 33,
+      "category": "科技"
+    },
+    {
       "raw_hot": 333768,
       "num": 333768,
       "word": "吉鲁倒钩 帅",
@@ -20539,6 +20555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 304260,
+      "num": 304260,
+      "word": "狗狗因主人不提东西而赌气",
+      "onboard_time": 1671436290,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 304161,
       "num": 304161,
       "word": "许佳琪跳了TOMBOY",
@@ -20985,14 +21009,6 @@
       "onboard_time": 1671100055,
       "rank": 31,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 295299,
-      "num": 295299,
-      "word": "今年被韩国购入版权的国产剧",
-      "onboard_time": 1671437250,
-      "rank": 24,
-      "category": "影视"
     },
     {
       "raw_hot": 295021,
@@ -24699,6 +24715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 241800,
+      "num": 241800,
+      "word": "梅西感谢郎朗祝贺",
+      "onboard_time": 1671438927,
+      "rank": 28,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 241791,
       "num": 241791,
       "word": "eStar对战EDGM",
@@ -24897,6 +24921,14 @@
       "onboard_time": 1671431250,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 238931,
+      "num": 238931,
+      "word": "没有感情全是病情",
+      "onboard_time": 1671437851,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 238756,
@@ -26347,6 +26379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 221596,
+      "num": 221596,
+      "word": "赵樱子早期的采访",
+      "onboard_time": 1671437549,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 221480,
       "num": 221480,
       "word": "胡歌说自己是影视圈流动人口",
@@ -26459,14 +26499,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 219731,
-      "num": 219731,
-      "word": "狗狗因主人不提东西而赌气",
-      "onboard_time": 1671436290,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 219709,
       "num": 177289,
       "word": "C罗不打算从国家队退役",
@@ -26513,14 +26545,6 @@
       "onboard_time": 1670576539,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 219394,
-      "num": 219394,
-      "word": "小米个别部门裁员比例高达75%",
-      "onboard_time": 1671436590,
-      "rank": 33,
-      "category": "科技"
     },
     {
       "raw_hot": 219378,
@@ -27657,6 +27681,14 @@
       "onboard_time": 1670810290,
       "rank": 49,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 206843,
+      "num": 206843,
+      "word": "如何面对分手后的戒断反应",
+      "onboard_time": 1671436771,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 206697,
@@ -29531,6 +29563,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 188496,
+      "num": 188496,
+      "word": "墨白大结局",
+      "onboard_time": 1671438209,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 188466,
       "num": 261826,
       "word": "董路说中国足球学不了日本",
@@ -31387,14 +31427,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 174770,
-      "num": 174770,
-      "word": "赵樱子早期的采访",
-      "onboard_time": 1671437549,
-      "rank": 42,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 174738,
       "num": 174738,
       "word": "我国成功在海上发射一箭十四星",
@@ -32635,6 +32667,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 166173,
+      "num": 166173,
+      "word": "刘宇宁谈骨折后生活细节",
+      "onboard_time": 1671438927,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 166095,
       "num": 166095,
       "word": "不懂球的女生如何看世界杯",
@@ -33537,14 +33577,6 @@
       "onboard_time": 1669879214,
       "rank": 30,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 158992,
-      "num": 158992,
-      "word": "如何面对分手后的戒断反应",
-      "onboard_time": 1671436771,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 158866,
@@ -35649,14 +35681,6 @@
       "onboard_time": 1670606836,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 143681,
-      "num": 143681,
-      "word": "没有感情全是病情",
-      "onboard_time": 1671437851,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 143634,
@@ -38201,6 +38225,14 @@
       "onboard_time": 1670596280,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 125773,
+      "num": 125773,
+      "word": "什么声音能让你想起小时候",
+      "onboard_time": 1671438808,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 125764,
