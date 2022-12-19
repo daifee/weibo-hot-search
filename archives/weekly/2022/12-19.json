@@ -1,6 +1,6 @@
 {
   "startTime": 1671380618877,
-  "endTime": 1671489194494,
+  "endTime": 1671491901964,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -1427,6 +1427,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 330185,
+      "num": 330185,
+      "word": "阿根廷门将领奖台做不雅动作惹争议",
+      "onboard_time": 1671471795,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 329309,
       "num": 329309,
       "word": "财阀家的小儿子大嫂怀孕",
@@ -1545,6 +1553,14 @@
       "onboard_time": 1671377850,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 296886,
+      "num": 183809,
+      "word": "建议将新冠肺炎概念分为三类",
+      "onboard_time": 1671488054,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 296623,
@@ -2299,6 +2315,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 170339,
+      "num": 170339,
+      "word": "郑州倡议市民参与外卖跑腿配送",
+      "onboard_time": 1671480193,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 170155,
       "num": 170155,
       "word": "新冠感染情况问卷调查",
@@ -2361,14 +2385,6 @@
       "onboard_time": 1671446247,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 161058,
-      "num": 161058,
-      "word": "阿根廷门将领奖台做不雅动作惹争议",
-      "onboard_time": 1671471795,
-      "rank": 10,
-      "category": "体育"
     },
     {
       "raw_hot": 160703,
@@ -2747,6 +2763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 127965,
+      "num": 127965,
+      "word": "嗓子疼如何缓解",
+      "onboard_time": 1671480972,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 126540,
       "num": 126540,
       "word": "20年后的我们教育孩子",
@@ -2867,6 +2891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 105204,
+      "num": 105204,
+      "word": "庆祝澳门回归23周年",
+      "onboard_time": 1671491298,
+      "rank": 20,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 104765,
       "num": 104765,
       "word": "刘宇宁直播说明年有演唱会",
@@ -2899,20 +2931,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 94757,
+      "num": 63732,
+      "word": "对乙酰氨基酚和布洛芬五大不同",
+      "onboard_time": 1671490695,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 94403,
       "num": 94403,
       "word": "心疼张彬彬陆离",
       "onboard_time": 1671380607,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 93421,
-      "num": 93421,
-      "word": "郑州倡议市民参与外卖跑腿配送",
-      "onboard_time": 1671480193,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 87992,
@@ -2963,14 +2995,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 74839,
-      "num": 74839,
-      "word": "嗓子疼如何缓解",
-      "onboard_time": 1671480972,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 73857,
       "num": 73857,
       "word": "老爷爷带瘫痪老伴街头卖橙子",
@@ -3011,14 +3035,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 56835,
-      "num": 33213,
-      "word": "建议将新冠肺炎概念分为三类",
-      "onboard_time": 1671488054,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 56613,
       "num": 56613,
       "word": "当你和广东人吃火锅",
@@ -3043,20 +3059,44 @@
       "category": "美食"
     },
     {
+      "raw_hot": 45098,
+      "num": 45098,
+      "word": "阿根廷球迷飞机上庆祝夺冠",
+      "onboard_time": 1671482531,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 42496,
+      "num": 42496,
+      "word": "当我阳了后狗子们的反应",
+      "onboard_time": 1671474555,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 42156,
+      "num": 42156,
+      "word": "山东考研生阳性后不需再测核酸",
+      "onboard_time": 1671491658,
+      "rank": 45,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 37816,
+      "num": 37816,
+      "word": "男生打游戏和不打游戏的区别",
+      "onboard_time": 1671491840,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 36449,
       "num": 36449,
       "word": "布宜诺斯艾利斯",
       "onboard_time": 1671388522,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 33376,
-      "num": 33376,
-      "word": "当我阳了后狗子们的反应",
-      "onboard_time": 1671474555,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 33061,
@@ -3073,14 +3113,6 @@
       "onboard_time": 1671391636,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 29782,
-      "num": 28039,
-      "word": "阿根廷球迷飞机上庆祝夺冠",
-      "onboard_time": 1671482531,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 18164,
