@@ -1,0 +1,410 @@
+{
+  "runTime": 1671442422881,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2074269,
+        "num": 2074269,
+        "word": "女子阳性后头发一夜变白脱发",
+        "onboard_time": 1671434551,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1163900,
+        "num": 1163900,
+        "word": "布洛芬进价15卖50药店竟称像赌博",
+        "onboard_time": 1671432150,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202243,
+        "num": 929094,
+        "word": "阳了如何缓解症状带来的不适",
+        "onboard_time": 1671420693,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 762434,
+        "num": 762434,
+        "word": "东北制药为何被罚款1.3亿",
+        "onboard_time": 1671435030,
+        "rank": 3,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 746516,
+        "num": 746516,
+        "word": "周围人全阳了他们未感染",
+        "onboard_time": 1671422130,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 733954,
+        "num": 733954,
+        "word": "维C吃多了容易引起尿路结石",
+        "onboard_time": 1671439649,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 730273,
+        "num": 730273,
+        "word": "北京疫情发布会",
+        "onboard_time": 1671439050,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 646165,
+        "num": 646165,
+        "word": "巴黎剩姆怨",
+        "onboard_time": 1671432928,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 562136,
+        "num": 562136,
+        "word": "没有她梅西不会走到今天",
+        "onboard_time": 1671434851,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 540444,
+        "num": 540444,
+        "word": "没有感情全是病情",
+        "onboard_time": 1671437851,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 931473,
+        "num": 532774,
+        "word": "NewJeans新歌DittoMV",
+        "onboard_time": 1671442169,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 625421,
+        "num": 519557,
+        "word": "目前还没阳性的人的生活状态",
+        "onboard_time": 1671441388,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 504411,
+        "num": 504411,
+        "word": "梅西感谢郎朗祝贺",
+        "onboard_time": 1671438927,
+        "rank": 12,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 474770,
+        "num": 474770,
+        "word": "今年被韩国购入版权的国产剧",
+        "onboard_time": 1671437250,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 418355,
+        "num": 418355,
+        "word": "江苏卫视2023跨年演唱会官宣",
+        "onboard_time": 1671439230,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 450828,
+        "num": 410553,
+        "word": "梅西把问路的孩子带到山顶",
+        "onboard_time": 1671416792,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 394137,
+        "num": 394137,
+        "word": "小米个别部门裁员比例高达75%",
+        "onboard_time": 1671436590,
+        "rank": 16,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 347777,
+        "num": 347777,
+        "word": "刘宇宁谈骨折后生活细节",
+        "onboard_time": 1671438927,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 339202,
+        "num": 339202,
+        "word": "狗狗因主人不提东西而赌气",
+        "onboard_time": 1671436290,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 323857,
+        "num": 323857,
+        "word": "赵樱子早期的采访",
+        "onboard_time": 1671437549,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 315582,
+        "num": 315582,
+        "word": "医生建议布洛芬拆分成更小用量售卖",
+        "onboard_time": 1671425075,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290284,
+        "num": 290284,
+        "word": "胡歌发文圆满了",
+        "onboard_time": 1671422255,
+        "rank": 21,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 286578,
+        "num": 286578,
+        "word": "梅西生来为了阿根廷的冠军",
+        "onboard_time": 1671422255,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 285862,
+        "num": 285862,
+        "word": "陈妍希发文我的青春终于圆满了",
+        "onboard_time": 1671428912,
+        "rank": 23,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 280745,
+        "num": 280745,
+        "word": "阿根廷队围着大力神杯吃饭",
+        "onboard_time": 1671426875,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 276254,
+        "num": 276254,
+        "word": "李冰冰手抖了",
+        "onboard_time": 1671424894,
+        "rank": 25,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 242237,
+        "num": 242237,
+        "word": "阿根廷冠军",
+        "onboard_time": 1671386257,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 241260,
+        "num": 241260,
+        "word": "北京增死亡病例2例",
+        "onboard_time": 1671414510,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233755,
+        "num": 233755,
+        "word": "布洛芬对乙酰氨基酚到底怎么服用",
+        "onboard_time": 1671429812,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232946,
+        "num": 232946,
+        "word": "男子花117万为准儿媳买编制被骗",
+        "onboard_time": 1671425793,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268264,
+        "num": 231665,
+        "word": "向太直播",
+        "onboard_time": 1671431432,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 324642,
+        "num": 231191,
+        "word": "谷爱凌回怼恶评",
+        "onboard_time": 1671441209,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 230149,
+        "num": 230149,
+        "word": "黄晓明8年前的意难平圆满了",
+        "onboard_time": 1671428252,
+        "rank": 32,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 212520,
+        "num": 212520,
+        "word": "00后女孩刚回家就被安排相亲",
+        "onboard_time": 1671430169,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180227,
+        "num": 180227,
+        "word": "来自布宜诺斯艾利斯的狂欢",
+        "onboard_time": 1671440249,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177760,
+        "num": 177760,
+        "word": "北京发烧感染者数量持续高位增加",
+        "onboard_time": 1671441748,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175399,
+        "num": 175399,
+        "word": "再见老张",
+        "onboard_time": 1671427352,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172889,
+        "num": 172889,
+        "word": "金钟仁李帝努柳智敏Candy舞蹈挑战",
+        "onboard_time": 1671434073,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 172472,
+        "num": 172472,
+        "word": "阿根廷夺冠男子哭着说16万的门票值了",
+        "onboard_time": 1671425675,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165529,
+        "num": 165529,
+        "word": "肖亚庆受到开除党籍政务撤职处分",
+        "onboard_time": 1671439830,
+        "rank": 39,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 162250,
+        "num": 162250,
+        "word": "内马尔发文恭喜梅西",
+        "onboard_time": 1671423812,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159568,
+        "num": 159568,
+        "word": "重庆无症状和轻症状可正常上班",
+        "onboard_time": 1671423334,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156776,
+        "num": 156776,
+        "word": "阳性期间身上痒千万别不当回事",
+        "onboard_time": 1671416010,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137599,
+        "num": 137599,
+        "word": "2022世界杯期末考试",
+        "onboard_time": 1671441511,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134015,
+        "num": 134015,
+        "word": "张晚意富大龙师徒见面就互怼",
+        "onboard_time": 1671442346,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 131956,
+        "num": 131956,
+        "word": "C罗 遗憾",
+        "onboard_time": 1671414809,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130911,
+        "num": 130911,
+        "word": "如何面对分手后的戒断反应",
+        "onboard_time": 1671436771,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 129958,
+        "num": 129958,
+        "word": "吴刚赵露思罗一舟后浪过审",
+        "onboard_time": 1671435811,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 119901,
+        "num": 119901,
+        "word": "这手法应该是开面馆的",
+        "onboard_time": 1671442169,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112167,
+        "num": 112167,
+        "word": "这歌真的非唱不可吗",
+        "onboard_time": 1671442346,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#一图看懂中央经济工作会议#"
+    }
+  }
+}

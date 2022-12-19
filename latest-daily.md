@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/12/19 00:23:38 ~ 2022/12/19 17:18:15
+本榜单时间：2022/12/19 00:23:38 ~ 2022/12/19 17:33:42
 </p>
 </blockquote>
 <p>
@@ -357,6 +357,12 @@ C罗 遗憾（热度：2332650）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23NewJeans%E6%96%B0%E6%AD%8CDittoMV%23" target="weibo">
+NewJeans新歌DittoMV（热度：931473）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%A1%AE%E8%AF%8A%E5%90%8E%E8%88%8C%E5%A4%B4%E7%89%99%E9%BD%BF%E5%85%A8%E5%8F%98%E9%BB%91%23" target="weibo">
 男子确诊后舌头牙齿全变黑（热度：914559）
 </a>
@@ -447,6 +453,18 @@ C罗 遗憾（热度：2332650）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BB%B4C%E5%90%83%E5%A4%9A%E4%BA%86%E5%AE%B9%E6%98%93%E5%BC%95%E8%B5%B7%E5%B0%BF%E8%B7%AF%E7%BB%93%E7%9F%B3%23" target="weibo">
+维C吃多了容易引起尿路结石（热度：733954）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E7%96%AB%E6%83%85%E5%8F%91%E5%B8%83%E4%BC%9A%23" target="weibo">
+北京疫情发布会（热度：730273）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E9%81%AD%E8%A7%82%E4%BC%97%E5%90%90%E6%A7%BD%23" target="weibo">
 周杰伦演唱会遭观众吐槽（热度：718514）
 </a>
@@ -501,8 +519,8 @@ C罗 遗憾（热度：2332650）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E7%96%AB%E6%83%85%E5%8F%91%E5%B8%83%E4%BC%9A%23" target="weibo">
-北京疫情发布会（热度：621411）
+<a href="https://s.weibo.com/weibo?q=%23%E7%9B%AE%E5%89%8D%E8%BF%98%E6%B2%A1%E9%98%B3%E6%80%A7%E7%9A%84%E4%BA%BA%E7%9A%84%E7%94%9F%E6%B4%BB%E7%8A%B6%E6%80%81%23" target="weibo">
+目前还没阳性的人的生活状态（热度：625421）
 </a>
 </li>
 
@@ -537,14 +555,14 @@ C罗 遗憾（热度：2332650）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%80%80%E7%83%A7%E8%8D%AF%E7%B4%A7%E7%BC%BA%E6%9C%89%E6%9C%9B%E5%85%83%E6%97%A6%E5%89%8D%E7%BC%93%E8%A7%A3%23" target="weibo">
-退烧药紧缺有望元旦前缓解（热度：528563）
+<a href="https://s.weibo.com/weibo?q=%23%E6%B2%A1%E6%9C%89%E6%84%9F%E6%83%85%E5%85%A8%E6%98%AF%E7%97%85%E6%83%85%23" target="weibo">
+没有感情全是病情（热度：540444）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B2%A1%E6%9C%89%E6%84%9F%E6%83%85%E5%85%A8%E6%98%AF%E7%97%85%E6%83%85%23" target="weibo">
-没有感情全是病情（热度：523849）
+<a href="https://s.weibo.com/weibo?q=%23%E9%80%80%E7%83%A7%E8%8D%AF%E7%B4%A7%E7%BC%BA%E6%9C%89%E6%9C%9B%E5%85%83%E6%97%A6%E5%89%8D%E7%BC%93%E8%A7%A3%23" target="weibo">
+退烧药紧缺有望元旦前缓解（热度：528563）
 </a>
 </li>
 
@@ -557,6 +575,12 @@ C罗 遗憾（热度：2332650）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B4%9D%E5%85%8B%E6%B1%89%E5%A7%86%23" target="weibo">
 贝克汉姆（热度：515917）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E6%84%9F%E8%B0%A2%E9%83%8E%E6%9C%97%E7%A5%9D%E8%B4%BA%23" target="weibo">
+梅西感谢郎朗祝贺（热度：504411）
 </a>
 </li>
 
@@ -585,12 +609,6 @@ C罗 遗憾（热度：2332650）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E6%84%9F%E8%B0%A2%E9%83%8E%E6%9C%97%E7%A5%9D%E8%B4%BA%23" target="weibo">
-梅西感谢郎朗祝贺（热度：491140）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%93%E6%98%8E8%E5%B9%B4%E5%89%8D%E7%9A%84%E6%84%8F%E9%9A%BE%E5%B9%B3%E5%9C%86%E6%BB%A1%E4%BA%86%23" target="weibo">
 黄晓明8年前的意难平圆满了（热度：490870）
 </a>
@@ -599,12 +617,6 @@ C罗 遗憾（热度：2332650）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E4%B8%80%E8%BD%BD%E6%9C%89106%E5%90%8D%E5%AE%98%E5%85%B5%E7%9A%84%E5%86%9B%E8%88%B0%E6%B2%89%E6%B2%A1%23" target="weibo">
 泰国一载有106名官兵的军舰沉没（热度：486569）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BB%B4C%E5%90%83%E5%A4%9A%E4%BA%86%E5%AE%B9%E6%98%93%E5%BC%95%E8%B5%B7%E5%B0%BF%E8%B7%AF%E7%BB%93%E7%9F%B3%23" target="weibo">
-维C吃多了容易引起尿路结石（热度：482233）
 </a>
 </li>
 
@@ -729,6 +741,12 @@ A股（热度：389054）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E8%B0%88%E9%AA%A8%E6%8A%98%E5%90%8E%E7%94%9F%E6%B4%BB%E7%BB%86%E8%8A%82%23" target="weibo">
+刘宇宁谈骨折后生活细节（热度：347777）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8B%97%E7%8B%97%E5%9B%A0%E4%B8%BB%E4%BA%BA%E4%B8%8D%E6%8F%90%E4%B8%9C%E8%A5%BF%E8%80%8C%E8%B5%8C%E6%B0%94%23" target="weibo">
 狗狗因主人不提东西而赌气（热度：347727）
 </a>
@@ -749,12 +767,6 @@ A股（热度：389054）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%89%E4%B9%8C%23" target="weibo">
 义乌（热度：344858）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E8%B0%88%E9%AA%A8%E6%8A%98%E5%90%8E%E7%94%9F%E6%B4%BB%E7%BB%86%E8%8A%82%23" target="weibo">
-刘宇宁谈骨折后生活细节（热度：342960）
 </a>
 </li>
 
@@ -791,6 +803,12 @@ A股（热度：389054）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B4%A2%E9%98%80%E5%AE%B6%E7%9A%84%E5%B0%8F%E5%84%BF%E5%AD%90%E5%A4%A7%E5%AB%82%E6%80%80%E5%AD%95%23" target="weibo">
 财阀家的小儿子大嫂怀孕（热度：329309）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E5%9B%9E%E6%80%BC%E6%81%B6%E8%AF%84%23" target="weibo">
+谷爱凌回怼恶评（热度：324642）
 </a>
 </li>
 
@@ -1197,6 +1215,12 @@ IVE新歌LOVEDIVE获bugs年末结算一位（热度：254736）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A5%E8%87%AA%E5%B8%83%E5%AE%9C%E8%AF%BA%E6%96%AF%E8%89%BE%E5%88%A9%E6%96%AF%E7%9A%84%E7%8B%82%E6%AC%A2%23" target="weibo">
+来自布宜诺斯艾利斯的狂欢（热度：180227）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%80%80%E7%83%A7%E8%8D%AF%E4%B8%BA%E4%BD%95%E5%A4%9A%E5%9C%B0%E7%BC%BA%E8%B4%A7%E4%B8%80%E8%8D%AF%E9%9A%BE%E6%B1%82%23" target="weibo">
 退烧药为何多地缺货一药难求（热度：180160）
 </a>
@@ -1223,6 +1247,12 @@ IVE新歌LOVEDIVE获bugs年末结算一位（热度：254736）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%84%9F%E6%9F%93%E6%96%B0%E5%86%A0%E5%BA%B7%E5%A4%8D%E5%90%8E%E7%9A%84%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9%23" target="weibo">
 感染新冠康复后的注意事项（热度：178442）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%8F%91%E7%83%A7%E6%84%9F%E6%9F%93%E8%80%85%E6%95%B0%E9%87%8F%E6%8C%81%E7%BB%AD%E9%AB%98%E4%BD%8D%E5%A2%9E%E5%8A%A0%23" target="weibo">
+北京发烧感染者数量持续高位增加（热度：177760）
 </a>
 </li>
 
@@ -1347,12 +1377,6 @@ gemini 500（热度：160703）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E5%9B%9E%E6%80%BC%E6%81%B6%E8%AF%84%23" target="weibo">
-谷爱凌回怼恶评（热度：147574）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%99%A8%E8%AF%B4%E8%B5%B5%E5%B0%8F%E6%A3%A0%E5%BA%94%E8%AF%A5%E8%BD%AC%E8%A1%8C%E5%BD%93%E4%B8%BB%E6%8C%81%E4%BA%BA%23" target="weibo">
 李晨说赵小棠应该转行当主持人（热度：147509）
 </a>
@@ -1389,20 +1413,14 @@ gemini 500（热度：160703）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%9B%AE%E5%89%8D%E8%BF%98%E6%B2%A1%E9%98%B3%E6%80%A7%E7%9A%84%E4%BA%BA%E7%9A%84%E7%94%9F%E6%B4%BB%E7%8A%B6%E6%80%81%23" target="weibo">
-目前还没阳性的人的生活状态（热度：141344）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A5%E8%87%AA%E5%B8%83%E5%AE%9C%E8%AF%BA%E6%96%AF%E8%89%BE%E5%88%A9%E6%96%AF%E7%9A%84%E7%8B%82%E6%AC%A2%23" target="weibo">
-来自布宜诺斯艾利斯的狂欢（热度：140281）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A7%86%E5%B7%B4%E4%BD%A9%E5%81%B7%E7%9E%84%E5%A4%A7%E5%8A%9B%E7%A5%9E%E6%9D%AF%23" target="weibo">
 姆巴佩偷瞄大力神杯（热度：137842）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%232022%E4%B8%96%E7%95%8C%E6%9D%AF%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%23" target="weibo">
+2022世界杯期末考试（热度：137599）
 </a>
 </li>
 
@@ -1421,6 +1439,12 @@ gemini 500（热度：160703）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%A6%B9%E5%85%AE%E5%A4%A7%E7%90%86%E5%AF%BA%E5%B0%91%E5%8D%BF%E6%B8%B8%E4%B8%A7%E6%9C%8D%E8%B7%AF%E9%80%8F%23" target="weibo">
 丁禹兮大理寺少卿游丧服路透（热度：135252）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%99%9A%E6%84%8F%E5%AF%8C%E5%A4%A7%E9%BE%99%E5%B8%88%E5%BE%92%E8%A7%81%E9%9D%A2%E5%B0%B1%E4%BA%92%E6%80%BC%23" target="weibo">
+张晚意富大龙师徒见面就互怼（热度：134015）
 </a>
 </li>
 
@@ -1481,6 +1505,18 @@ gemini 500（热度：160703）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E8%BF%AA%E5%9B%9E%E5%A4%8D%E7%B2%89%E4%B8%9D%E5%8F%AB%E7%88%B8%E7%88%B8%23" target="weibo">
 杨迪回复粉丝叫爸爸（热度：120732）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%89%8B%E6%B3%95%E5%BA%94%E8%AF%A5%E6%98%AF%E5%BC%80%E9%9D%A2%E9%A6%86%E7%9A%84%23" target="weibo">
+这手法应该是开面馆的（热度：119901）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%AD%8C%E7%9C%9F%E7%9A%84%E9%9D%9E%E5%94%B1%E4%B8%8D%E5%8F%AF%E5%90%97%23" target="weibo">
+这歌真的非唱不可吗（热度：112167）
 </a>
 </li>
 
