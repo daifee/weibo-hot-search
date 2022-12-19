@@ -1,6 +1,6 @@
 {
   "startTime": 1671380618877,
-  "endTime": 1671430990083,
+  "endTime": 1671431849375,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -547,6 +547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 711206,
+      "num": 711206,
+      "word": "男子阳性3天后面部蜕皮布满白屑",
+      "onboard_time": 1671428076,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 694312,
       "num": 694312,
       "word": "马丁内斯 阿根廷门神",
@@ -587,20 +595,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 627900,
-      "num": 627900,
-      "word": "阿根廷队围着大力神杯吃饭",
-      "onboard_time": 1671426875,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 610655,
-      "num": 610655,
+      "raw_hot": 654420,
+      "num": 620718,
       "word": "陈妍希发文我的青春终于圆满了",
       "onboard_time": 1671428912,
       "rank": 12,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 629575,
+      "num": 629575,
+      "word": "阿根廷队围着大力神杯吃饭",
+      "onboard_time": 1671426875,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 575592,
@@ -609,14 +617,6 @@
       "onboard_time": 1671378632,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 567816,
-      "num": 567816,
-      "word": "男子阳性3天后面部蜕皮布满白屑",
-      "onboard_time": 1671428076,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 560886,
@@ -683,6 +683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 490870,
+      "num": 237073,
+      "word": "黄晓明8年前的意难平圆满了",
+      "onboard_time": 1671428252,
+      "rank": 30,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 486569,
       "num": 486569,
       "word": "泰国一载有106名官兵的军舰沉没",
@@ -697,14 +705,6 @@
       "onboard_time": 1671416253,
       "rank": 18,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 471462,
-      "num": 205967,
-      "word": "黄晓明8年前的意难平圆满了",
-      "onboard_time": 1671428252,
-      "rank": 30,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 464252,
@@ -891,6 +891,22 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 314729,
+      "num": 314729,
+      "word": "布洛芬对乙酰氨基酚到底怎么服用",
+      "onboard_time": 1671429812,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 310439,
+      "num": 310439,
+      "word": "王鹤棣的粉色小夹子",
+      "onboard_time": 1671431668,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 306126,
       "num": 306126,
       "word": "C罗支持阿根廷夺冠",
@@ -947,8 +963,8 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 285022,
-      "num": 285022,
+      "raw_hot": 288906,
+      "num": 288906,
       "word": "猫咪踩奶怎么像在摸牌",
       "onboard_time": 1671428673,
       "rank": 26,
@@ -977,6 +993,14 @@
       "onboard_time": 1671387108,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 277066,
+      "num": 277066,
+      "word": "00后女孩刚回家就被安排相亲",
+      "onboard_time": 1671430169,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 267236,
@@ -1027,6 +1051,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 256152,
+      "num": 232597,
+      "word": "梅西挖走大力神杯了",
+      "onboard_time": 1671431668,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 255967,
       "num": 255967,
       "word": "四川卫视新年演唱会阵容",
@@ -1065,6 +1097,14 @@
       "onboard_time": 1671420932,
       "rank": 40,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 241481,
+      "num": 241481,
+      "word": "男孩高烧40半夜睡不着写小升初试卷",
+      "onboard_time": 1671430591,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 239402,
@@ -1115,12 +1155,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 223525,
-      "num": 223525,
-      "word": "布洛芬对乙酰氨基酚到底怎么服用",
-      "onboard_time": 1671429812,
-      "rank": 28,
-      "category": "社会新闻"
+      "raw_hot": 227445,
+      "num": 227445,
+      "word": "女子向百户邻居赠两千粒退烧药",
+      "onboard_time": 1671428673,
+      "rank": 29,
+      "category": "社会正能量"
+    },
+    {
+      "raw_hot": 220303,
+      "num": 220303,
+      "word": "A股",
+      "onboard_time": 1671431370,
+      "rank": 33,
+      "category": "财经"
     },
     {
       "raw_hot": 219378,
@@ -1129,6 +1177,14 @@
       "onboard_time": 1671424354,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 215310,
+      "num": 215310,
+      "word": "阿根廷队启程回国",
+      "onboard_time": 1671429513,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 214000,
@@ -1185,14 +1241,6 @@
       "onboard_time": 1671357150,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 207100,
-      "num": 207100,
-      "word": "女子向百户邻居赠两千粒退烧药",
-      "onboard_time": 1671428673,
-      "rank": 29,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 205014,
@@ -1291,6 +1339,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 180858,
+      "num": 180858,
+      "word": "赵露思神隐蓝衣路透",
+      "onboard_time": 1671425914,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 179543,
       "num": 125360,
       "word": "世界杯决赛太刺激了",
@@ -1331,14 +1387,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 170985,
-      "num": 178752,
-      "word": "赵露思神隐蓝衣路透",
-      "onboard_time": 1671425914,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 170155,
       "num": 170155,
       "word": "新冠感染情况问卷调查",
@@ -1361,6 +1409,14 @@
       "onboard_time": 1671407788,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 167289,
+      "num": 167289,
+      "word": "向太直播",
+      "onboard_time": 1671431432,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 160703,
@@ -1419,28 +1475,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 150509,
-      "num": 150509,
-      "word": "阿根廷队启程回国",
-      "onboard_time": 1671429513,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 149927,
       "num": 149927,
       "word": "梅西实至名归",
       "onboard_time": 1671401173,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 149881,
-      "num": 149881,
-      "word": "00后女孩刚回家就被安排相亲",
-      "onboard_time": 1671430169,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 149730,
@@ -1539,6 +1579,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 134268,
+      "num": 134268,
+      "word": "退烧药为何多地缺货一药难求",
+      "onboard_time": 1671429214,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 133877,
       "num": 133877,
       "word": "勇士战胜猛龙",
@@ -1579,28 +1627,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121761,
+      "num": 121761,
+      "word": "女子开地暖晒干菜7天后全粘地砖上",
+      "onboard_time": 1671431250,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120732,
       "num": 149156,
       "word": "杨迪回复粉丝叫爸爸",
       "onboard_time": 1671381387,
       "rank": 48,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 113594,
-      "num": 113594,
-      "word": "退烧药为何多地缺货一药难求",
-      "onboard_time": 1671429214,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 109047,
-      "num": 109047,
-      "word": "男孩高烧40半夜睡不着写小升初试卷",
-      "onboard_time": 1671430591,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 108737,
