@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1671467268319,
+  "endTime": 1671468338847,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -6187,6 +6187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 877450,
+      "num": 877450,
+      "word": "梅西抱的不是母亲是阿根廷队女厨师",
+      "onboard_time": 1671464010,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 876197,
       "num": 413510,
       "word": "尹峥李薇三连吻",
@@ -6288,14 +6296,6 @@
       "word": "乌拉圭或遭FIFA严惩",
       "onboard_time": 1670043372,
       "rank": 15,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 864171,
-      "num": 279603,
-      "word": "梅西抱的不是母亲是阿根廷队女厨师",
-      "onboard_time": 1671464010,
-      "rank": 46,
       "category": "体育"
     },
     {
@@ -22595,6 +22595,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 278896,
+      "num": 1200743,
+      "word": "艾尔海森",
+      "onboard_time": 1670239872,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 278876,
       "num": 2025344,
       "word": "70岁奶奶网恋外国男友4年转14万",
@@ -23369,14 +23377,6 @@
       "onboard_time": 1670287113,
       "rank": 25,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 267205,
-      "num": 1200743,
-      "word": "艾尔海森",
-      "onboard_time": 1670239872,
-      "rank": 37,
-      "category": "游戏"
     },
     {
       "raw_hot": 267187,

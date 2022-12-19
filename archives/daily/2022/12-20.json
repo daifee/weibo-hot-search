@@ -1,6 +1,6 @@
 {
   "startTime": 1671467268319,
-  "endTime": 1671467268319,
+  "endTime": 1671468338847,
   "band_list": [
     {
       "raw_hot": 1430219,
@@ -11,8 +11,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 864171,
-      "num": 279603,
+      "raw_hot": 877450,
+      "num": 877450,
       "word": "梅西抱的不是母亲是阿根廷队女厨师",
       "onboard_time": 1671464010,
       "rank": 10,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 366440,
-      "num": 278974,
+      "num": 283466,
       "word": "这个毒株应该是文曲毒株",
       "onboard_time": 1671452791,
       "rank": 11,
@@ -91,6 +91,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 278896,
+      "num": 278896,
+      "word": "艾尔海森",
+      "onboard_time": 1671465026,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 277106,
       "num": 277106,
       "word": "朴彩英是懂氛围感的",
@@ -105,14 +113,6 @@
       "onboard_time": 1671456813,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 262006,
-      "num": 262006,
-      "word": "艾尔海森",
-      "onboard_time": 1671465026,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 241769,
@@ -385,6 +385,14 @@
       "onboard_time": 1671463888,
       "rank": 49,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 69490,
+      "num": 69490,
+      "word": "沈月说真实生活中恋爱太难谈了",
+      "onboard_time": 1671450813,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 65405,
