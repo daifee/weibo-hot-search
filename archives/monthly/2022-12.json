@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1671468338847,
+  "endTime": 1671470131104,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -43803,6 +43803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 52204,
+      "num": 52204,
+      "word": "当你和广东人吃火锅",
+      "onboard_time": 1671469397,
+      "rank": 45,
+      "category": "幽默,美食"
+    },
+    {
       "raw_hot": 51917,
       "num": 26645,
       "word": "查韦斯任意球破门",
@@ -43865,6 +43873,14 @@
       "onboard_time": 1669838768,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 48916,
+      "num": 48916,
+      "word": "新疆冬天水果车长什么样子",
+      "onboard_time": 1671469579,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 48418,
