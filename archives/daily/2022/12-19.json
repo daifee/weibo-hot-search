@@ -1,6 +1,6 @@
 {
   "startTime": 1671380618877,
-  "endTime": 1671449607569,
+  "endTime": 1671453282348,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -187,6 +187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2229497,
+      "num": 2229497,
+      "word": "专家称橘子煮水更适合新冠用药",
+      "onboard_time": 1671447269,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2145367,
       "num": 2145367,
       "word": "鹿晗解说",
@@ -291,11 +299,11 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 1451047,
-      "num": 1451047,
-      "word": "专家称橘子煮水更适合新冠用药",
-      "onboard_time": 1671447269,
-      "rank": 10,
+      "raw_hot": 1447097,
+      "num": 1447097,
+      "word": "布洛芬和布洛芬缓释有啥区别",
+      "onboard_time": 1671450511,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -363,6 +371,14 @@
       "category": "体育,网红"
     },
     {
+      "raw_hot": 1240842,
+      "num": 1240842,
+      "word": "玉骨遥",
+      "onboard_time": 1671450813,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1147916,
       "num": 1147916,
       "word": "阿根廷夺冠男子哭着说16万的门票值了",
@@ -409,6 +425,14 @@
       "onboard_time": 1671372632,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1039270,
+      "num": 1039270,
+      "word": "贺州卫健委回应四年级学生离世",
+      "onboard_time": 1671448110,
+      "rank": 33,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1034084,
@@ -675,6 +699,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 718438,
+      "num": 718438,
+      "word": "女孩吃草莓蛋糕塔妈妈一脸嫌弃",
+      "onboard_time": 1671448770,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 718218,
       "num": 718218,
       "word": "沙特是本届世界杯唯一战胜冠军的球队",
@@ -731,6 +763,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 659597,
+      "num": 659597,
+      "word": "布洛芬之父没赚到一分钱",
+      "onboard_time": 1671449730,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 653533,
+      "num": 653533,
+      "word": "克罗地亚回国受震撼欢迎",
+      "onboard_time": 1671448472,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 649167,
       "num": 649167,
       "word": "专家称无症状居家无实际意义",
@@ -745,6 +793,14 @@
       "onboard_time": 1671426875,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 606121,
+      "num": 606121,
+      "word": "武艺说是沙特把阿根廷打醒了",
+      "onboard_time": 1671452011,
+      "rank": 10,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 603829,
@@ -939,6 +995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 439289,
+      "num": 439289,
+      "word": "冲鸡蛋茶",
+      "onboard_time": 1671449010,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 434488,
       "num": 434488,
       "word": "张子枫回来的女儿定档",
@@ -961,6 +1025,14 @@
       "onboard_time": 1671439230,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 420874,
+      "num": 420874,
+      "word": "苏醒回应昨晚哭泣",
+      "onboard_time": 1671452250,
+      "rank": 13,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 420415,
@@ -1019,11 +1091,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 379722,
-      "num": 379722,
-      "word": "贺州卫健委回应四年级学生离世",
-      "onboard_time": 1671448110,
-      "rank": 33,
+      "raw_hot": 384729,
+      "num": 384729,
+      "word": "喉咙里取刀片食疗法",
+      "onboard_time": 1671450030,
+      "rank": 15,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 375680,
+      "num": 375680,
+      "word": "高校毕业生就业率低于大专中专高中",
+      "onboard_time": 1671446068,
+      "rank": 16,
       "category": "社会新闻,教育"
     },
     {
@@ -1033,6 +1113,22 @@
       "onboard_time": 1671361651,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 370963,
+      "num": 370963,
+      "word": "hanni声音",
+      "onboard_time": 1671451172,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 369786,
+      "num": 369786,
+      "word": "林志为终于和梅晓歌说话了",
+      "onboard_time": 1671448472,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 369160,
@@ -1060,7 +1156,7 @@
     },
     {
       "raw_hot": 354993,
-      "num": 1762483,
+      "num": 1810439,
       "word": "阳了如何缓解症状带来的不适",
       "onboard_time": 1671420693,
       "rank": 2,
@@ -1283,6 +1379,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 291881,
+      "num": 176407,
+      "word": "阳了的弟弟凌晨两点起来写试卷",
+      "onboard_time": 1671451769,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 290460,
       "num": 290460,
       "word": "一家7口边打吊瓶边坐三轮回家",
@@ -1307,12 +1411,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 285743,
-      "num": 285743,
-      "word": "林志为终于和梅晓歌说话了",
-      "onboard_time": 1671448472,
-      "rank": 48,
-      "category": "影视"
+      "raw_hot": 287045,
+      "num": 287045,
+      "word": "沈月说真实生活中恋爱太难谈了",
+      "onboard_time": 1671450813,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 284480,
@@ -1409,6 +1513,14 @@
       "onboard_time": 1671421473,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 253414,
+      "num": 174318,
+      "word": "吴尊说梅西的精神就是传承",
+      "onboard_time": 1671452372,
+      "rank": 31,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 251305,
@@ -1609,6 +1721,14 @@
       "onboard_time": 1671433291,
       "rank": 37,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 206865,
+      "num": 206865,
+      "word": "AG 极光",
+      "onboard_time": 1671451172,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 206843,
@@ -1835,20 +1955,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 176134,
-      "num": 176134,
-      "word": "女孩吃草莓蛋糕塔妈妈一脸嫌弃",
-      "onboard_time": 1671448770,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 174432,
       "num": 174432,
       "word": "成毅费加罗男士12月封面预告",
       "onboard_time": 1671437788,
       "rank": 43,
       "category": "作品衍生,艺人"
+    },
+    {
+      "raw_hot": 172854,
+      "num": 165702,
+      "word": "梅西承载了多少人的青春",
+      "onboard_time": 1671448651,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 172413,
@@ -1907,12 +2027,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 165702,
-      "num": 165702,
-      "word": "梅西承载了多少人的青春",
-      "onboard_time": 1671448651,
-      "rank": 36,
-      "category": "体育"
+      "raw_hot": 163553,
+      "num": 163553,
+      "word": "这个毒株应该是文曲毒株",
+      "onboard_time": 1671452791,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 163480,
@@ -1945,6 +2065,14 @@
       "onboard_time": 1671448472,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 158929,
+      "num": 158929,
+      "word": "月歌行1集下线3人",
+      "onboard_time": 1671452493,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 158336,
@@ -2019,6 +2147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 152260,
+      "num": 152260,
+      "word": "非正式跨年派对",
+      "onboard_time": 1671453270,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 151431,
       "num": 151431,
       "word": "王源说演戏跟音乐相通",
@@ -2041,6 +2177,14 @@
       "onboard_time": 1671377255,
       "rank": 49,
       "category": "体育,音乐"
+    },
+    {
+      "raw_hot": 149490,
+      "num": 149490,
+      "word": "王鹤棣说从来不想后退的事",
+      "onboard_time": 1671451950,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 149178,
@@ -2091,6 +2235,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 144739,
+      "num": 144739,
+      "word": "为什么烤橘子能止咳化痰",
+      "onboard_time": 1671452250,
+      "rank": 43,
+      "category": "美食"
+    },
+    {
       "raw_hot": 143634,
       "num": 143634,
       "word": "4男子阳性不忘赌球民警抓捕阳了俩",
@@ -2112,6 +2264,14 @@
       "word": "恩佐黄牌",
       "onboard_time": 1671380305,
       "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 138713,
+      "num": 138713,
+      "word": "莫德里奇遗憾未能夺冠",
+      "onboard_time": 1671452311,
+      "rank": 45,
       "category": "体育"
     },
     {
@@ -2211,14 +2371,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 128265,
-      "num": 128265,
-      "word": "冲鸡蛋茶",
-      "onboard_time": 1671449010,
-      "rank": 47,
-      "category": "美食"
-    },
-    {
       "raw_hot": 126540,
       "num": 126540,
       "word": "20年后的我们教育孩子",
@@ -2305,6 +2457,14 @@
       "onboard_time": 1671384746,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 107012,
+      "num": 107012,
+      "word": "中华田园犬也太懂事了",
+      "onboard_time": 1671452852,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 104765,
