@@ -1,0 +1,410 @@
+{
+  "runTime": 1671464164590,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2215439,
+        "num": 2215439,
+        "word": "目前还没阳性的人的生活状态",
+        "onboard_time": 1671441388,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1221548,
+        "num": 1221548,
+        "word": "得了新冠疯狂放屁的不只小岳岳",
+        "onboard_time": 1671459810,
+        "rank": 1,
+        "category": "情感,艺人"
+      },
+      {
+        "raw_hot": 40568,
+        "num": 1039009,
+        "word": "感染新冠康复后的注意事项",
+        "onboard_time": 1671432271,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 982669,
+        "num": 982669,
+        "word": "布洛芬和布洛芬缓释有啥区别",
+        "onboard_time": 1671450511,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 919013,
+        "num": 919013,
+        "word": "专家称橘子煮水更适合新冠用药",
+        "onboard_time": 1671447269,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 889609,
+        "num": 889609,
+        "word": "本泽马宣布退出法国国家队",
+        "onboard_time": 1671462151,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 606991,
+        "num": 606991,
+        "word": "得了新冠肺快咳出来了怎么办",
+        "onboard_time": 1671457170,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 602645,
+        "num": 602645,
+        "word": "大家的毒株真是千奇百怪",
+        "onboard_time": 1671460952,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 596194,
+        "num": 596194,
+        "word": "梅西夺冠穿的黑纱是什么",
+        "onboard_time": 1671444449,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 557880,
+        "num": 557880,
+        "word": "上海发热门诊第一波高峰来了",
+        "onboard_time": 1671456813,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 573099,
+        "num": 523635,
+        "word": "这个毒株应该是文曲毒株",
+        "onboard_time": 1671452791,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 435003,
+        "num": 435003,
+        "word": "男子不戴口罩主动测试新冠传染性",
+        "onboard_time": 1671459154,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 432891,
+        "num": 432891,
+        "word": "你因为什么很少发朋友圈了",
+        "onboard_time": 1671460652,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 384207,
+        "num": 384207,
+        "word": "各地疫情走势与大数据预测基本一致",
+        "onboard_time": 1671459991,
+        "rank": 13,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 357784,
+        "num": 357784,
+        "word": "专家辟谣转阴15天后才会产生抗体",
+        "onboard_time": 1671458070,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338126,
+        "num": 338126,
+        "word": "婆婆怕给媳妇寄药丢了包整床被子",
+        "onboard_time": 1671456510,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 331143,
+        "num": 331143,
+        "word": "玉骨遥",
+        "onboard_time": 1671450813,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 327907,
+        "num": 327907,
+        "word": "真正的喜欢不会暧昧太久的",
+        "onboard_time": 1671458733,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 300995,
+        "num": 300995,
+        "word": "克罗地亚回国受震撼欢迎",
+        "onboard_time": 1671448472,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 295866,
+        "num": 295866,
+        "word": "县委大院肖俊学去世",
+        "onboard_time": 1671462929,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 263041,
+        "num": 263041,
+        "word": "陈紫函新剧下线",
+        "onboard_time": 1671456753,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 257937,
+        "num": 257937,
+        "word": "喉咙里取刀片食疗法",
+        "onboard_time": 1671450030,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 233273,
+        "num": 233273,
+        "word": "母亲临终前为儿子准备一冰箱饭菜",
+        "onboard_time": 1671444870,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221038,
+        "num": 221038,
+        "word": "布洛芬之父没赚到一分钱",
+        "onboard_time": 1671449730,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215086,
+        "num": 215086,
+        "word": "为什么烤橘子能止咳化痰",
+        "onboard_time": 1671452250,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 214488,
+        "num": 214488,
+        "word": "AG止步世冠",
+        "onboard_time": 1671456872,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 213459,
+        "num": 213459,
+        "word": "微信键盘发布正式版",
+        "onboard_time": 1671454352,
+        "rank": 26,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 209660,
+        "num": 209660,
+        "word": "梅西冷知识",
+        "onboard_time": 1671456570,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205480,
+        "num": 205480,
+        "word": "赵樱子演过倚天黄衫女",
+        "onboard_time": 1671458850,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 93727,
+        "num": 194855,
+        "word": "阿根廷冠军",
+        "onboard_time": 1671386257,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190016,
+        "num": 190016,
+        "word": "邓超说孙俪女貌啊",
+        "onboard_time": 1671460354,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 188111,
+        "num": 188111,
+        "word": "王者李白世冠新皮肤",
+        "onboard_time": 1671456872,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 186534,
+        "num": 186534,
+        "word": "高校毕业生就业率低于大专中专高中",
+        "onboard_time": 1671446068,
+        "rank": 32,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 185126,
+        "num": 185126,
+        "word": "一诺说我想自己打",
+        "onboard_time": 1671463769,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 181483,
+        "num": 181483,
+        "word": "苏醒回应昨晚哭泣",
+        "onboard_time": 1671452250,
+        "rank": 34,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 170906,
+        "num": 170906,
+        "word": "四川警方破获特大考试作弊案",
+        "onboard_time": 1671453569,
+        "rank": 35,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 166963,
+        "num": 166963,
+        "word": "武艺说是沙特把阿根廷打醒了",
+        "onboard_time": 1671452011,
+        "rank": 36,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 166066,
+        "num": 166066,
+        "word": "北京发烧感染者数量持续高位增加",
+        "onboard_time": 1671441748,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164789,
+        "num": 164789,
+        "word": "当老公突然叫你宝贝",
+        "onboard_time": 1671463769,
+        "rank": 38,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 159108,
+        "num": 159108,
+        "word": "宋仲基新剧哭戏",
+        "onboard_time": 1671461611,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 155657,
+        "num": 155657,
+        "word": "一下子解决了我三十年的困惑",
+        "onboard_time": 1671462211,
+        "rank": 40,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 152230,
+        "num": 152230,
+        "word": "北京天空",
+        "onboard_time": 1671454410,
+        "rank": 41,
+        "category": "自然,社会新闻"
+      },
+      {
+        "raw_hot": 150543,
+        "num": 150543,
+        "word": "hanni声音",
+        "onboard_time": 1671451172,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 148858,
+        "num": 148858,
+        "word": "小米回应年底裁员",
+        "onboard_time": 1671455431,
+        "rank": 43,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 148212,
+        "num": 148212,
+        "word": "阳了的弟弟凌晨两点起来写试卷",
+        "onboard_time": 1671451769,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146334,
+        "num": 146334,
+        "word": "张彬彬离不开木系属性了",
+        "onboard_time": 1671464066,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 145895,
+        "num": 145895,
+        "word": "梅西抱的不是母亲是阿根廷队女厨师",
+        "onboard_time": 1671464010,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144095,
+        "num": 144095,
+        "word": "我在网上学到的技能",
+        "onboard_time": 1671463949,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 141393,
+        "num": 141393,
+        "word": "一天前我也是这么想的",
+        "onboard_time": 1671463888,
+        "rank": 48,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 141358,
+        "num": 141358,
+        "word": "货车司机狂按喇叭救了大巴一车人",
+        "onboard_time": 1671463949,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#不负嘱托更奋发#"
+    }
+  }
+}
