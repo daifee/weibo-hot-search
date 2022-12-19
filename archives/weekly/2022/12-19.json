@@ -1,6 +1,6 @@
 {
   "startTime": 1671380618877,
-  "endTime": 1671454373197,
+  "endTime": 1671456207950,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -659,6 +659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 745135,
+      "num": 500001,
+      "word": "这个毒株应该是文曲毒株",
+      "onboard_time": 1671452791,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 736295,
       "num": 736295,
       "word": "鹿晗灰蓝西装直播截图状态",
@@ -713,6 +721,14 @@
       "onboard_time": 1671388643,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 711125,
+      "num": 711125,
+      "word": "阳了的弟弟凌晨两点起来写试卷",
+      "onboard_time": 1671451769,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 694312,
@@ -955,14 +971,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 479499,
-      "num": 479499,
-      "word": "阳了的弟弟凌晨两点起来写试卷",
-      "onboard_time": 1671451769,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 468805,
       "num": 468805,
       "word": "小米个别部门裁员比例高达75%",
@@ -1083,6 +1091,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 395684,
+      "num": 395684,
+      "word": "赵丽颖说要珍惜每一次的用尽全力",
+      "onboard_time": 1671455249,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 393712,
       "num": 393712,
       "word": "赵樱子四次为自己争取参演机会",
@@ -1113,6 +1129,14 @@
       "onboard_time": 1671429812,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 379406,
+      "num": 379406,
+      "word": "AG对战WB",
+      "onboard_time": 1671444991,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 375680,
@@ -1155,12 +1179,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 361772,
-      "num": 361772,
-      "word": "这个毒株应该是文曲毒株",
-      "onboard_time": 1671452791,
-      "rank": 35,
-      "category": "幽默"
+      "raw_hot": 356821,
+      "num": 356821,
+      "word": "北京天空",
+      "onboard_time": 1671454410,
+      "rank": 20,
+      "category": "自然,社会新闻"
     },
     {
       "raw_hot": 356600,
@@ -1291,6 +1315,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 325133,
+      "num": 325133,
+      "word": "沈月说真实生活中恋爱太难谈了",
+      "onboard_time": 1671450813,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 324595,
       "num": 324595,
       "word": "阿根廷队启程回国",
@@ -1305,6 +1337,14 @@
       "onboard_time": 1671417271,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 323381,
+      "num": 323381,
+      "word": "莫德里奇遗憾未能夺冠",
+      "onboard_time": 1671452311,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 320282,
@@ -1387,14 +1427,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 293822,
-      "num": 293822,
-      "word": "AG对战WB",
-      "onboard_time": 1671444991,
-      "rank": 19,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 290460,
       "num": 290460,
       "word": "一家7口边打吊瓶边坐三轮回家",
@@ -1417,14 +1449,6 @@
       "onboard_time": 1671428673,
       "rank": 26,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 287045,
-      "num": 287045,
-      "word": "沈月说真实生活中恋爱太难谈了",
-      "onboard_time": 1671450813,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 284480,
@@ -1451,6 +1475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 275270,
+      "num": 275270,
+      "word": "四川警方破获特大考试作弊案",
+      "onboard_time": 1671453569,
+      "rank": 43,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 267236,
       "num": 267236,
       "word": "久哲",
@@ -1465,6 +1497,14 @@
       "onboard_time": 1671411331,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 259537,
+      "num": 259537,
+      "word": "陈楚生晚礼服氛围感舞台",
+      "onboard_time": 1671455552,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 259499,
@@ -1659,14 +1699,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 218505,
-      "num": 218505,
-      "word": "莫德里奇遗憾未能夺冠",
-      "onboard_time": 1671452311,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 214000,
       "num": 111057,
       "word": "阿根廷进球",
@@ -1721,6 +1753,14 @@
       "onboard_time": 1671411691,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 209292,
+      "num": 209292,
+      "word": "为什么烤橘子能止咳化痰",
+      "onboard_time": 1671452250,
+      "rank": 43,
+      "category": "美食"
     },
     {
       "raw_hot": 207887,
@@ -1817,6 +1857,14 @@
       "onboard_time": 1671423994,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 190947,
+      "num": 190947,
+      "word": "微信键盘发布正式版",
+      "onboard_time": 1671454352,
+      "rank": 49,
+      "category": "科技"
     },
     {
       "raw_hot": 188496,
@@ -1979,20 +2027,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 174652,
+      "num": 174652,
+      "word": "这就是喜欢梅西的原因吧",
+      "onboard_time": 1671455012,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 174432,
       "num": 174432,
       "word": "成毅费加罗男士12月封面预告",
       "onboard_time": 1671437788,
       "rank": 43,
       "category": "作品衍生,艺人"
-    },
-    {
-      "raw_hot": 173364,
-      "num": 173364,
-      "word": "为什么烤橘子能止咳化痰",
-      "onboard_time": 1671452250,
-      "rank": 43,
-      "category": "美食"
     },
     {
       "raw_hot": 172854,
@@ -2147,6 +2195,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 156396,
+      "num": 156396,
+      "word": "小米回应年底裁员",
+      "onboard_time": 1671455431,
+      "rank": 43,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 156203,
       "num": 258440,
       "word": "阿根廷青春无悔",
@@ -2289,14 +2345,6 @@
       "onboard_time": 1671380305,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 141480,
-      "num": 141480,
-      "word": "四川警方破获特大考试作弊案",
-      "onboard_time": 1671453569,
-      "rank": 43,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 137842,
@@ -2491,6 +2539,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 106703,
+      "num": 106703,
+      "word": "一诺爱思射辅好配合",
+      "onboard_time": 1671456152,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 106303,
+      "num": 106303,
+      "word": "核酸检测点一点两用",
+      "onboard_time": 1671456093,
+      "rank": 49,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 104765,
       "num": 104765,
       "word": "刘宇宁直播说明年有演唱会",
@@ -2529,14 +2593,6 @@
       "onboard_time": 1671380607,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 93512,
-      "num": 93512,
-      "word": "微信键盘发布正式版",
-      "onboard_time": 1671454352,
-      "rank": 49,
-      "category": "科技"
     },
     {
       "raw_hot": 87992,
