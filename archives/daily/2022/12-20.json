@@ -1,6 +1,6 @@
 {
   "startTime": 1671467268319,
-  "endTime": 1671475014600,
+  "endTime": 1671477274699,
   "band_list": [
     {
       "raw_hot": 1430219,
@@ -195,8 +195,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 158310,
-      "num": 103446,
+      "raw_hot": 161058,
+      "num": 161058,
       "word": "阿根廷门将领奖台做不雅动作惹争议",
       "onboard_time": 1671471795,
       "rank": 10,
@@ -427,20 +427,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 28762,
+      "num": 28762,
+      "word": "当我阳了后狗子们的反应",
+      "onboard_time": 1671474555,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 22423,
       "num": 739362,
       "word": "感染新冠康复后的注意事项",
       "onboard_time": 1671432271,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 20395,
-      "num": 20395,
-      "word": "当我阳了后狗子们的反应",
-      "onboard_time": 1671474555,
-      "rank": 49,
-      "category": "幽默"
     }
   ],
   "hotgov_list": [

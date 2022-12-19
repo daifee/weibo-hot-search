@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1671475014600,
+  "endTime": 1671477274699,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -34091,6 +34091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161058,
+      "num": 161058,
+      "word": "阿根廷门将领奖台做不雅动作惹争议",
+      "onboard_time": 1671471795,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 161048,
       "num": 150160,
       "word": "海南多地放宽入琼限制",
@@ -34385,14 +34393,6 @@
       "onboard_time": 1670662939,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 158310,
-      "num": 103446,
-      "word": "阿根廷门将领奖台做不雅动作惹争议",
-      "onboard_time": 1671471795,
-      "rank": 10,
-      "category": "体育"
     },
     {
       "raw_hot": 158264,
@@ -44195,6 +44195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 28762,
+      "num": 28762,
+      "word": "当我阳了后狗子们的反应",
+      "onboard_time": 1671474555,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 28476,
       "num": 133028,
       "word": "为KPL世冠加油",
@@ -44281,14 +44289,6 @@
       "onboard_time": 1670613192,
       "rank": 49,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 20395,
-      "num": 20395,
-      "word": "当我阳了后狗子们的反应",
-      "onboard_time": 1671474555,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 19604,
