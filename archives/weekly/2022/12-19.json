@@ -1,6 +1,6 @@
 {
   "startTime": 1671380618877,
-  "endTime": 1671439005122,
+  "endTime": 1671441495184,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -651,6 +651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 621411,
+      "num": 508017,
+      "word": "北京疫情发布会",
+      "onboard_time": 1671439050,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 603829,
       "num": 550088,
       "word": "向太直播",
@@ -675,6 +683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 557892,
+      "num": 557892,
+      "word": "今年被韩国购入版权的国产剧",
+      "onboard_time": 1671437250,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 545630,
       "num": 545630,
       "word": "东北制药开盘一字涨停",
@@ -689,6 +705,14 @@
       "onboard_time": 1671414571,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 523849,
+      "num": 523849,
+      "word": "没有感情全是病情",
+      "onboard_time": 1671437851,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 516073,
@@ -739,6 +763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 491140,
+      "num": 478513,
+      "word": "梅西感谢郎朗祝贺",
+      "onboard_time": 1671438927,
+      "rank": 28,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 490870,
       "num": 390646,
       "word": "黄晓明8年前的意难平圆满了",
@@ -755,12 +787,28 @@
       "category": "军事,国外要闻"
     },
     {
+      "raw_hot": 482233,
+      "num": 482233,
+      "word": "维C吃多了容易引起尿路结石",
+      "onboard_time": 1671439649,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 480334,
       "num": 480334,
       "word": "张元英的wave",
       "onboard_time": 1671416253,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 468805,
+      "num": 468805,
+      "word": "小米个别部门裁员比例高达75%",
+      "onboard_time": 1671436590,
+      "rank": 33,
+      "category": "科技"
     },
     {
       "raw_hot": 464252,
@@ -803,6 +851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 427666,
+      "num": 427666,
+      "word": "江苏卫视2023跨年演唱会官宣",
+      "onboard_time": 1671439230,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 420415,
       "num": 420415,
       "word": "考研",
@@ -817,14 +873,6 @@
       "onboard_time": 1671415111,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 399902,
-      "num": 399902,
-      "word": "今年被韩国购入版权的国产剧",
-      "onboard_time": 1671437250,
-      "rank": 24,
-      "category": "影视"
     },
     {
       "raw_hot": 393712,
@@ -907,6 +955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 347727,
+      "num": 347727,
+      "word": "狗狗因主人不提东西而赌气",
+      "onboard_time": 1671436290,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 346135,
       "num": 254621,
       "word": "梅西 奇迹",
@@ -931,6 +987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 342960,
+      "num": 342960,
+      "word": "刘宇宁谈骨折后生活细节",
+      "onboard_time": 1671438927,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 336927,
       "num": 336927,
       "word": "迪马利亚破门",
@@ -947,20 +1011,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 335766,
+      "num": 335766,
+      "word": "赵樱子早期的采访",
+      "onboard_time": 1671437549,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 335244,
       "num": 178747,
       "word": "薛之谦发文庆祝梅西夺冠",
       "onboard_time": 1671426334,
       "rank": 46,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 334023,
-      "num": 334023,
-      "word": "小米个别部门裁员比例高达75%",
-      "onboard_time": 1671436590,
-      "rank": 33,
-      "category": "科技"
     },
     {
       "raw_hot": 333603,
@@ -1025,14 +1089,6 @@
       "onboard_time": 1671371251,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 304260,
-      "num": 304260,
-      "word": "狗狗因主人不提东西而赌气",
-      "onboard_time": 1671436290,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 301338,
@@ -1227,14 +1283,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 241800,
-      "num": 241800,
-      "word": "梅西感谢郎朗祝贺",
-      "onboard_time": 1671438927,
-      "rank": 28,
-      "category": "体育,艺人"
-    },
-    {
       "raw_hot": 239402,
       "num": 239402,
       "word": "杨坤说马嘉祺的美丽才刚刚开始",
@@ -1249,14 +1297,6 @@
       "onboard_time": 1671431250,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 238931,
-      "num": 238931,
-      "word": "没有感情全是病情",
-      "onboard_time": 1671437851,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 238217,
@@ -1315,12 +1355,12 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 221596,
-      "num": 221596,
-      "word": "赵樱子早期的采访",
-      "onboard_time": 1671437549,
-      "rank": 42,
-      "category": "作品衍生"
+      "raw_hot": 224403,
+      "num": 224403,
+      "word": "肖亚庆受到开除党籍政务撤职处分",
+      "onboard_time": 1671439830,
+      "rank": 31,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 219378,
@@ -1627,12 +1667,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 166173,
-      "num": 166173,
-      "word": "刘宇宁谈骨折后生活细节",
-      "onboard_time": 1671438927,
-      "rank": 43,
-      "category": "艺人"
+      "raw_hot": 163480,
+      "num": 163480,
+      "word": "张杰新专辑外南街1982概念片",
+      "onboard_time": 1671441209,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 160703,
@@ -1739,6 +1779,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 147574,
+      "num": 147574,
+      "word": "谷爱凌回怼恶评",
+      "onboard_time": 1671441209,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 147509,
       "num": 147509,
       "word": "李晨说赵小棠应该转行当主持人",
@@ -1787,6 +1835,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 141344,
+      "num": 141344,
+      "word": "目前还没阳性的人的生活状态",
+      "onboard_time": 1671441388,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 140281,
+      "num": 140281,
+      "word": "来自布宜诺斯艾利斯的狂欢",
+      "onboard_time": 1671440249,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 137842,
       "num": 137842,
       "word": "姆巴佩偷瞄大力神杯",
@@ -1801,6 +1865,14 @@
       "onboard_time": 1671388340,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 135809,
+      "num": 135809,
+      "word": "现在有多高兴一会就有多难过",
+      "onboard_time": 1671441269,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 135252,
@@ -1825,6 +1897,14 @@
       "onboard_time": 1671435272,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 129821,
+      "num": 129821,
+      "word": "虎扑凌晨开屏怎么了",
+      "onboard_time": 1671439109,
+      "rank": 48,
+      "category": "科技"
     },
     {
       "raw_hot": 129623,
@@ -1857,6 +1937,14 @@
       "onboard_time": 1671412648,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 124058,
+      "num": 124058,
+      "word": "10片布洛芬售1块4毛4是什么体验",
+      "onboard_time": 1671441029,
+      "rank": 49,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 122000,
