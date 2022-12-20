@@ -1,6 +1,6 @@
 {
   "startTime": 1671553616280,
-  "endTime": 1671556578811,
+  "endTime": 1671557599057,
   "band_list": [
     {
       "raw_hot": 1536458,
@@ -19,8 +19,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 899024,
-      "num": 899024,
+      "raw_hot": 953957,
+      "num": 953957,
       "word": "马来西亚立法禁止女性穿男装",
       "onboard_time": 1671553402,
       "rank": 48,
@@ -179,6 +179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 170800,
+      "num": 170800,
+      "word": "布洛芬对乙酰氨基酚产能正逐步释放",
+      "onboard_time": 1671553882,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 167454,
       "num": 167454,
       "word": "刘畊宏教卡塔尔小王子跳本草纲目",
@@ -217,14 +225,6 @@
       "onboard_time": 1671547112,
       "rank": 25,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 143542,
-      "num": 143542,
-      "word": "布洛芬对乙酰氨基酚产能正逐步释放",
-      "onboard_time": 1671553882,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 138909,
@@ -275,8 +275,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 124304,
-      "num": 124304,
+      "raw_hot": 124483,
+      "num": 124483,
       "word": "到底什么状态才适合结婚",
       "onboard_time": 1671554240,
       "rank": 44,
@@ -435,7 +435,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 74010,
+      "raw_hot": 76661,
       "num": 74010,
       "word": "赵露思说以后应该不会演校园剧了",
       "onboard_time": 1671533129,
@@ -449,6 +449,14 @@
       "onboard_time": 1671547353,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 48654,
+      "num": 48654,
+      "word": "德保罗才是梅西的定海神针",
+      "onboard_time": 1671556580,
+      "rank": 45,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
