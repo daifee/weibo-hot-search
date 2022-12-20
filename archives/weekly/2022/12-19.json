@@ -1,6 +1,6 @@
 {
   "startTime": 1671380618877,
-  "endTime": 1671554652658,
+  "endTime": 1671556578811,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -825,6 +825,14 @@
       "onboard_time": 1671381506,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 899024,
+      "num": 899024,
+      "word": "马来西亚立法禁止女性穿男装",
+      "onboard_time": 1671553402,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 895896,
@@ -2827,14 +2835,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 271991,
-      "num": 271991,
-      "word": "马来西亚立法禁止女性穿男装",
-      "onboard_time": 1671553402,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 271453,
       "num": 271453,
       "word": "关晓彤的南京遛弯路线",
@@ -4499,6 +4499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 143542,
+      "num": 143542,
+      "word": "布洛芬对乙酰氨基酚产能正逐步释放",
+      "onboard_time": 1671553882,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 143006,
       "num": 256939,
       "word": "央视解说",
@@ -4833,6 +4841,14 @@
       "onboard_time": 1671548609,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 124304,
+      "num": 124304,
+      "word": "到底什么状态才适合结婚",
+      "onboard_time": 1671554240,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 123396,
@@ -5187,6 +5203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 82102,
+      "num": 82102,
+      "word": "伊健没选拉娜约会",
+      "onboard_time": 1671555560,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 81280,
       "num": 254598,
       "word": "黄金矿工",
@@ -5241,14 +5265,6 @@
       "onboard_time": 1671402615,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 72326,
-      "num": 72326,
-      "word": "到底什么状态才适合结婚",
-      "onboard_time": 1671554240,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 69417,

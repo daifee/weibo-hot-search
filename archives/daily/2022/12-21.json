@@ -1,6 +1,6 @@
 {
   "startTime": 1671553616280,
-  "endTime": 1671554652658,
+  "endTime": 1671556578811,
   "band_list": [
     {
       "raw_hot": 1536458,
@@ -17,6 +17,14 @@
       "onboard_time": 1671549809,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 899024,
+      "num": 899024,
+      "word": "马来西亚立法禁止女性穿男装",
+      "onboard_time": 1671553402,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 897058,
@@ -112,14 +120,6 @@
       "word": "快递布洛芬竟然变衣服",
       "onboard_time": 1671525212,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 271991,
-      "num": 271991,
-      "word": "马来西亚立法禁止女性穿男装",
-      "onboard_time": 1671553402,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -219,6 +219,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 143542,
+      "num": 143542,
+      "word": "布洛芬对乙酰氨基酚产能正逐步释放",
+      "onboard_time": 1671553882,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 138909,
       "num": 902697,
       "word": "如何科学止咳",
@@ -265,6 +273,14 @@
       "onboard_time": 1671538173,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 124304,
+      "num": 124304,
+      "word": "到底什么状态才适合结婚",
+      "onboard_time": 1671554240,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 120553,
@@ -379,6 +395,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 82102,
+      "num": 82102,
+      "word": "伊健没选拉娜约会",
+      "onboard_time": 1671555560,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 81327,
       "num": 81327,
       "word": "考研前一周阳了怎么办",
@@ -411,12 +435,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 72326,
-      "num": 72326,
-      "word": "到底什么状态才适合结婚",
-      "onboard_time": 1671554240,
-      "rank": 44,
-      "category": "情感"
+      "raw_hot": 74010,
+      "num": 74010,
+      "word": "赵露思说以后应该不会演校园剧了",
+      "onboard_time": 1671533129,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 67634,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/12/01 00:28:49 ~ 2022/12/21 00:44:12
+本榜单时间：2022/12/01 00:28:49 ~ 2022/12/21 01:16:18
 </p>
 </blockquote>
 <p>
@@ -4677,6 +4677,12 @@ iG公告（热度：902975）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E7%AB%8B%E6%B3%95%E7%A6%81%E6%AD%A2%E5%A5%B3%E6%80%A7%E7%A9%BF%E7%94%B7%E8%A3%85%23" target="weibo">
+马来西亚立法禁止女性穿男装（热度：899024）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E7%9B%B4%E6%92%AD%23" target="weibo">
 王鹤棣直播（热度：895896）
 </a>
@@ -6005,12 +6011,6 @@ seventeen全员续约7年（热度：777615）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BE%AF%E5%AE%81%23" target="weibo">
 侯宁（热度：756369）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8F%AD%E4%B8%BB%E4%BB%BB%E8%87%AA%E8%B4%B9%E8%AF%B7%E5%85%A8%E7%8F%AD55%E4%BA%BA%E5%96%9D%E5%A5%B6%E8%8C%B6%23" target="weibo">
-班主任自费请全班55人喝奶茶（热度：755851）
 </a>
 </li>
 
