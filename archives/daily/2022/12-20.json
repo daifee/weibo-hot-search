@@ -1,6 +1,6 @@
 {
   "startTime": 1671467268319,
-  "endTime": 1671513408569,
+  "endTime": 1671514408967,
   "band_list": [
     {
       "raw_hot": 2854956,
@@ -27,7 +27,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1889688,
+      "raw_hot": 1980069,
       "num": 562919,
       "word": "考研女生帮熟睡邻桌测出烧39度秒懵",
       "onboard_time": 1671510569,
@@ -75,20 +75,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1218950,
+      "num": 1218950,
+      "word": "孙怡 我现在也是个体户",
+      "onboard_time": 1671512250,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1110574,
       "num": 1110574,
       "word": "阿根廷全国放假1天",
       "onboard_time": 1671495629,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1022975,
-      "num": 1022975,
-      "word": "孙怡 我现在也是个体户",
-      "onboard_time": 1671512250,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 953216,
@@ -112,6 +112,14 @@
       "word": "女子举报父亲被打死一案宣判",
       "onboard_time": 1671506728,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 796024,
+      "num": 796024,
+      "word": "抗原试剂一盒难求局面或将扭转",
+      "onboard_time": 1671510807,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -171,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 696781,
+      "num": 696781,
+      "word": "姆巴佩立誓再夺大力神杯",
+      "onboard_time": 1671511228,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 696631,
       "num": 696631,
       "word": "东方卫视跨年二次元版阵容官宣",
@@ -185,14 +201,6 @@
       "onboard_time": 1671503849,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 694855,
-      "num": 694855,
-      "word": "抗原试剂一盒难求局面或将扭转",
-      "onboard_time": 1671510807,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 664258,
@@ -235,19 +243,19 @@
       "category": "影视"
     },
     {
-      "raw_hot": 472035,
-      "num": 472035,
-      "word": "姆巴佩立誓再夺大力神杯",
-      "onboard_time": 1671511228,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 470332,
       "num": 470332,
       "word": "出现刀片嗓等症状应该如何缓解",
       "onboard_time": 1671497672,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 439588,
+      "num": 439588,
+      "word": "抗体水平较高或更会失去嗅觉或味觉",
+      "onboard_time": 1671510390,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -323,20 +331,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 375605,
-      "num": 375605,
-      "word": "抗体水平较高或更会失去嗅觉或味觉",
-      "onboard_time": 1671510390,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 366440,
       "num": 283466,
       "word": "这个毒株应该是文曲毒株",
       "onboard_time": 1671452791,
       "rank": 11,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 365490,
+      "num": 365490,
+      "word": "济南一药店回应退烧药卖1元5片",
+      "onboard_time": 1671510990,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 365450,
+      "num": 365450,
+      "word": "为什么都转阴了还咳嗽",
+      "onboard_time": 1671513032,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 353591,
@@ -395,6 +411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 339881,
+      "num": 339881,
+      "word": "女子连戴10年隐形角膜受损变色",
+      "onboard_time": 1671511953,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 338404,
       "num": 338404,
       "word": "警方通报女子称考核酸检测证没上岗就失业",
@@ -427,14 +451,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 308102,
-      "num": 308102,
-      "word": "济南一药店回应退烧药卖1元5片",
-      "onboard_time": 1671510990,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 305877,
       "num": 305877,
       "word": "男生打游戏和不打游戏的区别",
@@ -443,12 +459,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 297625,
-      "num": 297625,
+      "raw_hot": 299130,
+      "num": 299130,
       "word": "狗狗不愿穿衣主人将其关门外",
       "onboard_time": 1671511410,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 292597,
+      "num": 292597,
+      "word": "半年后的世界杯有中国队了",
+      "onboard_time": 1671512610,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 282854,
@@ -491,6 +515,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 273663,
+      "num": 273663,
+      "word": "iPhone15或重新划分机型组合",
+      "onboard_time": 1671512553,
+      "rank": 35,
+      "category": "科技"
+    },
+    {
       "raw_hot": 273314,
       "num": 273314,
       "word": "熊大熊二找到妈妈了",
@@ -515,6 +547,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 262155,
+      "num": 262155,
+      "word": "阳后还被猫给欺负了",
+      "onboard_time": 1671511291,
+      "rank": 29,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 261403,
       "num": 261403,
       "word": "阿凡达2天价影票被质疑割韭菜",
@@ -524,7 +564,7 @@
     },
     {
       "raw_hot": 255649,
-      "num": 850652,
+      "num": 960880,
       "word": "一图了解新冠康复全过程",
       "onboard_time": 1671507926,
       "rank": 2,
@@ -537,14 +577,6 @@
       "onboard_time": 1671493885,
       "rank": 19,
       "category": "情感"
-    },
-    {
-      "raw_hot": 253817,
-      "num": 253817,
-      "word": "女子连戴10年隐形角膜受损变色",
-      "onboard_time": 1671511953,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 252548,
@@ -569,14 +601,6 @@
       "onboard_time": 1671505289,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 243284,
-      "num": 243284,
-      "word": "阳后还被猫给欺负了",
-      "onboard_time": 1671511291,
-      "rank": 29,
-      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 241769,
@@ -691,14 +715,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 194439,
-      "num": 194439,
-      "word": "iPhone15或重新划分机型组合",
-      "onboard_time": 1671512553,
-      "rank": 35,
-      "category": "科技"
-    },
-    {
       "raw_hot": 194213,
       "num": 194213,
       "word": "虞书欣ohmy舞蹈挑战",
@@ -731,14 +747,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 191376,
-      "num": 191376,
-      "word": "半年后的世界杯有中国队了",
-      "onboard_time": 1671512610,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 189450,
       "num": 189450,
       "word": "恋与制作人",
@@ -747,12 +755,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 183583,
-      "num": 183583,
-      "word": "为什么都转阴了还咳嗽",
-      "onboard_time": 1671513032,
-      "rank": 40,
-      "category": "社会新闻"
+      "raw_hot": 180988,
+      "num": 180988,
+      "word": "Angel被爆料将加入RNG",
+      "onboard_time": 1671513812,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 178109,
@@ -763,8 +771,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 173353,
-      "num": 173353,
+      "raw_hot": 175876,
+      "num": 175876,
       "word": "柯佳嬿说1224电影院见",
       "onboard_time": 1671513212,
       "rank": 42,
@@ -825,6 +833,14 @@
       "onboard_time": 1671497849,
       "rank": 31,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 155680,
+      "num": 155680,
+      "word": "林志为继承了肖俊学的电动车",
+      "onboard_time": 1671513930,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 148704,
@@ -904,6 +920,14 @@
       "word": "外婆扮蜘蛛侠摆摊陪6岁外孙抗癌",
       "onboard_time": 1671513212,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 140492,
+      "num": 140492,
+      "word": "强生回应美林供不应求",
+      "onboard_time": 1671514232,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
