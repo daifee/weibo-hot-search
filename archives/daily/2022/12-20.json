@@ -1,6 +1,6 @@
 {
   "startTime": 1671467268319,
-  "endTime": 1671520592393,
+  "endTime": 1671521626817,
   "band_list": [
     {
       "raw_hot": 2854956,
@@ -27,8 +27,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2408391,
-      "num": 2408391,
+      "raw_hot": 2478916,
+      "num": 2478916,
       "word": "梅西回复苏醒",
       "onboard_time": 1671517167,
       "rank": 27,
@@ -99,6 +99,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1059827,
+      "num": 424501,
+      "word": "新冠短期内影响男性生殖功能",
+      "onboard_time": 1671520289,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 961233,
       "num": 961233,
       "word": "抗原试剂一盒难求局面或将扭转",
@@ -113,6 +121,14 @@
       "onboard_time": 1671495325,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 905748,
+      "num": 905748,
+      "word": "榜一大哥连骗7名女主播40万",
+      "onboard_time": 1671518309,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 877450,
@@ -147,14 +163,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 757400,
-      "num": 757400,
-      "word": "榜一大哥连骗7名女主播40万",
-      "onboard_time": 1671518309,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 745565,
       "num": 745565,
       "word": "夺冠后梅西的鞋去哪了",
@@ -169,6 +177,14 @@
       "onboard_time": 1671499470,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 744674,
+      "num": 744674,
+      "word": "考研",
+      "onboard_time": 1671501809,
+      "rank": 38,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 741117,
@@ -283,14 +299,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 542196,
-      "num": 542196,
-      "word": "考研",
-      "onboard_time": 1671501809,
-      "rank": 38,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 540566,
       "num": 540566,
       "word": "为什么都转阴了还咳嗽",
@@ -328,6 +336,14 @@
       "word": "抗体水平较高或更会失去嗅觉或味觉",
       "onboard_time": 1671510390,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 436579,
+      "num": 421542,
+      "word": "MH370碎片被渔民当洗衣板5年",
+      "onboard_time": 1671517410,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -371,14 +387,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 421542,
-      "num": 421542,
-      "word": "MH370碎片被渔民当洗衣板5年",
-      "onboard_time": 1671517410,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 415616,
       "num": 415616,
       "word": "新冠病毒感染者可在6个月后接种疫苗",
@@ -411,20 +419,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 392472,
+      "num": 392472,
+      "word": "想见你编剧说电影版的结束就是故事的终篇",
+      "onboard_time": 1671519630,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 388128,
       "num": 388128,
       "word": "助理分享王鹤棣片场视频",
       "onboard_time": 1671507690,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 378816,
-      "num": 378816,
-      "word": "想见你编剧说电影版的结束就是故事的终篇",
-      "onboard_time": 1671519630,
-      "rank": 15,
-      "category": "影视"
     },
     {
       "raw_hot": 366440,
@@ -441,6 +449,22 @@
       "onboard_time": 1671510990,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 361247,
+      "num": 361247,
+      "word": "阿根廷队航班接受水门礼迎接",
+      "onboard_time": 1671519569,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 357785,
+      "num": 357785,
+      "word": "朴灿烈李马克金玟庭candy舞蹈挑战",
+      "onboard_time": 1671521311,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 354892,
@@ -496,6 +520,14 @@
       "word": "时代少年团加盟2023东方卫视跨年盛典",
       "onboard_time": 1671508168,
       "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 349445,
+      "num": 349445,
+      "word": "2023东方卫视片单",
+      "onboard_time": 1671519929,
+      "rank": 31,
       "category": "综艺"
     },
     {
@@ -643,6 +675,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 274649,
+      "num": 274649,
+      "word": "赵露思加盟东方卫视跨年盛典",
+      "onboard_time": 1671519329,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 273314,
       "num": 273314,
       "word": "熊大熊二找到妈妈了",
@@ -763,20 +803,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 228952,
-      "num": 228952,
-      "word": "赵露思加盟东方卫视跨年盛典",
-      "onboard_time": 1671519329,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 224230,
       "num": 213663,
       "word": "虞书欣辣妹风造型上班路透",
       "onboard_time": 1671507749,
       "rank": 30,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 223370,
+      "num": 204697,
+      "word": "梅西险些撞上电缆",
+      "onboard_time": 1671520890,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 222943,
@@ -801,14 +841,6 @@
       "onboard_time": 1671509968,
       "rank": 35,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 217966,
-      "num": 204004,
-      "word": "阿根廷队航班接受水门礼迎接",
-      "onboard_time": 1671519569,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 212616,
@@ -840,14 +872,6 @@
       "word": "胡彦斌说卢歌的道歉是压迫式道歉",
       "onboard_time": 1671519630,
       "rank": 29,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 199988,
-      "num": 199988,
-      "word": "2023东方卫视片单",
-      "onboard_time": 1671519929,
-      "rank": 31,
       "category": "综艺"
     },
     {
@@ -939,6 +963,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 187891,
+      "num": 187891,
+      "word": "胡歌综艺首秀一路前行",
+      "onboard_time": 1671521370,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 185931,
       "num": 185931,
       "word": "许光汉想见你校服造型",
@@ -963,20 +995,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 177056,
-      "num": 177056,
-      "word": "新冠短期内影响男性生殖功能",
-      "onboard_time": 1671520289,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 175876,
       "num": 175876,
       "word": "柯佳嬿说1224电影院见",
       "onboard_time": 1671513212,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 169987,
+      "num": 169987,
+      "word": "黄子韬确诊感染新冠",
+      "onboard_time": 1671521612,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 166184,
@@ -993,6 +1025,14 @@
       "onboard_time": 1671499710,
       "rank": 31,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 164182,
+      "num": 145220,
+      "word": "王鹤棣时尚先生12月刊封面",
+      "onboard_time": 1671521612,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 163663,
@@ -1025,6 +1065,14 @@
       "onboard_time": 1671492080,
       "rank": 32,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 160938,
+      "num": 145109,
+      "word": "梅西手捧大力神杯下飞机",
+      "onboard_time": 1671521068,
+      "rank": 42,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 159956,
@@ -1235,6 +1283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 132607,
+      "num": 132607,
+      "word": "浙江兰溪药企日产3.4万盒布洛芬",
+      "onboard_time": 1671521493,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 132212,
       "num": 132212,
       "word": "男童哭着戴护具坚持要照顾阳性爸爸",
@@ -1249,6 +1305,14 @@
       "onboard_time": 1671509370,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 130051,
+      "num": 130051,
+      "word": "马刺新秀单手罚球",
+      "onboard_time": 1671521493,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 129582,
