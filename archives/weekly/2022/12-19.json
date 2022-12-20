@@ -1,6 +1,6 @@
 {
   "startTime": 1671380618877,
-  "endTime": 1671572007467,
+  "endTime": 1671574650954,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -4427,6 +4427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 147210,
+      "num": 147210,
+      "word": "为什么退烧后咳嗽会加重",
+      "onboard_time": 1671567373,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 147155,
       "num": 147155,
       "word": "久酷 辅助",
@@ -4593,14 +4601,6 @@
       "onboard_time": 1671495807,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 139528,
-      "num": 139528,
-      "word": "为什么退烧后咳嗽会加重",
-      "onboard_time": 1671567373,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 137842,
@@ -5419,8 +5419,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 20664,
-      "num": 20664,
+      "raw_hot": 22542,
+      "num": 22542,
       "word": "我和我的2022男友们",
       "onboard_time": 1671561973,
       "rank": 35,

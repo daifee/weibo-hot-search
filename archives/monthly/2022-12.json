@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1671572007467,
+  "endTime": 1671574650954,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -37835,6 +37835,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 147210,
+      "num": 147210,
+      "word": "为什么退烧后咳嗽会加重",
+      "onboard_time": 1671567373,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 147155,
       "num": 147155,
       "word": "久酷 辅助",
@@ -39033,14 +39041,6 @@
       "onboard_time": 1670553973,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 139528,
-      "num": 139528,
-      "word": "为什么退烧后咳嗽会加重",
-      "onboard_time": 1671567373,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 139520,
@@ -46595,20 +46595,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 22542,
+      "num": 22542,
+      "word": "我和我的2022男友们",
+      "onboard_time": 1671561973,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 20675,
       "num": 44299,
       "word": "中阿友好相信还会好上加好",
       "onboard_time": 1670613192,
       "rank": 49,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 20664,
-      "num": 20664,
-      "word": "我和我的2022男友们",
-      "onboard_time": 1671561973,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 19604,

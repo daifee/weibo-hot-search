@@ -1,6 +1,6 @@
 {
   "startTime": 1671553616280,
-  "endTime": 1671572007467,
+  "endTime": 1671574650954,
   "band_list": [
     {
       "raw_hot": 1536458,
@@ -219,20 +219,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 147210,
+      "num": 147210,
+      "word": "为什么退烧后咳嗽会加重",
+      "onboard_time": 1671567373,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 143653,
       "num": 143653,
       "word": "李白新皮肤念了多少诗",
       "onboard_time": 1671547112,
       "rank": 25,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 139528,
-      "num": 139528,
-      "word": "为什么退烧后咳嗽会加重",
-      "onboard_time": 1671567373,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 138909,
@@ -499,8 +499,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 20664,
-      "num": 20664,
+      "raw_hot": 22542,
+      "num": 22542,
       "word": "我和我的2022男友们",
       "onboard_time": 1671561973,
       "rank": 35,
