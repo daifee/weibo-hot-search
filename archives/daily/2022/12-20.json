@@ -1,6 +1,6 @@
 {
   "startTime": 1671467268319,
-  "endTime": 1671527905077,
+  "endTime": 1671528821467,
   "band_list": [
     {
       "raw_hot": 2854956,
@@ -91,6 +91,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1414270,
+      "num": 1414270,
+      "word": "餐饮店写拒绝阴性进店就餐引热议",
+      "onboard_time": 1671522212,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1400374,
       "num": 1400374,
       "word": "黄子韬确诊感染新冠",
@@ -99,12 +107,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1377552,
-      "num": 1377552,
-      "word": "餐饮店写拒绝阴性进店就餐引热议",
-      "onboard_time": 1671522212,
-      "rank": 4,
-      "category": "社会新闻"
+      "raw_hot": 1307526,
+      "num": 1307526,
+      "word": "我国多地已发现BQ.1和XBB分支",
+      "onboard_time": 1671524612,
+      "rank": 18,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 1265403,
@@ -123,12 +131,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1183033,
-      "num": 1183033,
-      "word": "我国多地已发现BQ.1和XBB分支",
-      "onboard_time": 1671524612,
-      "rank": 18,
-      "category": "社会新闻,科技"
+      "raw_hot": 1249236,
+      "num": 1249236,
+      "word": "快递布洛芬竟然变衣服",
+      "onboard_time": 1671525212,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1155038,
+      "num": 1155038,
+      "word": "孩子把妈妈辛苦买的20多粒布洛芬全泡水",
+      "onboard_time": 1671526052,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1110574,
@@ -155,14 +171,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 930950,
-      "num": 930950,
-      "word": "快递布洛芬竟然变衣服",
-      "onboard_time": 1671525212,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 905748,
       "num": 905748,
       "word": "榜一大哥连骗7名女主播40万",
@@ -177,14 +185,6 @@
       "onboard_time": 1671464010,
       "rank": 10,
       "category": "体育"
-    },
-    {
-      "raw_hot": 875452,
-      "num": 875452,
-      "word": "孩子把妈妈辛苦买的20多粒布洛芬全泡水",
-      "onboard_time": 1671526052,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 835144,
@@ -275,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 696685,
+      "num": 696685,
+      "word": "湖南卫视跨年晚会官宣",
+      "onboard_time": 1671527789,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 696631,
       "num": 696631,
       "word": "东方卫视跨年二次元版阵容官宣",
@@ -347,6 +355,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 589722,
+      "num": 589722,
+      "word": "极限挑战第九季回归",
+      "onboard_time": 1671526892,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 587146,
       "num": 557968,
       "word": "网传王一博将在东方卫视跨年首唱新歌",
@@ -379,12 +395,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 529111,
-      "num": 529111,
-      "word": "极限挑战第九季回归",
-      "onboard_time": 1671526892,
-      "rank": 12,
-      "category": "综艺"
+      "raw_hot": 524345,
+      "num": 524345,
+      "word": "梅西加入世界杯传奇行列",
+      "onboard_time": 1671523954,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 516566,
@@ -409,14 +425,6 @@
       "onboard_time": 1671522995,
       "rank": 16,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 453974,
-      "num": 453974,
-      "word": "梅西加入世界杯传奇行列",
-      "onboard_time": 1671523954,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 448628,
@@ -555,20 +563,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 390337,
+      "num": 372513,
+      "word": "新冠死亡的判断标准是什么",
+      "onboard_time": 1671524971,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 388128,
       "num": 388128,
       "word": "助理分享王鹤棣片场视频",
       "onboard_time": 1671507690,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 372513,
-      "num": 372513,
-      "word": "新冠死亡的判断标准是什么",
-      "onboard_time": 1671524971,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 366440,
@@ -907,6 +915,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 252896,
+      "num": 252896,
+      "word": "不主张不建议故意去感染新冠病毒",
+      "onboard_time": 1671526712,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 252548,
       "num": 252548,
       "word": "郑州倡议市民参与外卖跑腿配送",
@@ -985,14 +1001,6 @@
       "onboard_time": 1671522574,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 224614,
-      "num": 224614,
-      "word": "湖南卫视跨年晚会官宣",
-      "onboard_time": 1671527789,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 224230,
@@ -1081,14 +1089,6 @@
       "onboard_time": 1671508111,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 196872,
-      "num": 196872,
-      "word": "不主张不建议故意去感染新冠病毒",
-      "onboard_time": 1671526712,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 196473,
@@ -1203,6 +1203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 177490,
+      "num": 177490,
+      "word": "转阴后你要知道的15件事",
+      "onboard_time": 1671527610,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 176358,
       "num": 142366,
       "word": "月歌行洛歌人设",
@@ -1233,6 +1241,14 @@
       "onboard_time": 1671499710,
       "rank": 31,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 165000,
+      "num": 165000,
+      "word": "梅西个人年终总结",
+      "onboard_time": 1671527191,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 164182,
@@ -1305,6 +1321,14 @@
       "onboard_time": 1671515486,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 150879,
+      "num": 150879,
+      "word": "2个月以下婴儿发烧要及时就医",
+      "onboard_time": 1671525332,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 150027,
@@ -1385,14 +1409,6 @@
       "onboard_time": 1671517889,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 144279,
-      "num": 144279,
-      "word": "2个月以下婴儿发烧要及时就医",
-      "onboard_time": 1671525332,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 143394,
@@ -1555,14 +1571,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 126754,
-      "num": 126754,
-      "word": "转阴后你要知道的15件事",
-      "onboard_time": 1671527610,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 125449,
       "num": 125449,
       "word": "邓超说孙俪女貌啊",
@@ -1571,12 +1579,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 124135,
-      "num": 124135,
-      "word": "梅西个人年终总结",
-      "onboard_time": 1671527191,
-      "rank": 49,
-      "category": "体育"
+      "raw_hot": 123396,
+      "num": 123396,
+      "word": "捂汗时发热婴儿体温可能越来越高",
+      "onboard_time": 1671527913,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 122551,
