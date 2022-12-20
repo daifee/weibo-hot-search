@@ -1,6 +1,6 @@
 {
   "startTime": 1671380618877,
-  "endTime": 1671549639356,
+  "endTime": 1671550572170,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -971,6 +971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 777285,
+      "num": 777285,
+      "word": "车保罗",
+      "onboard_time": 1671549330,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 770899,
       "num": 770899,
       "word": "北京发烧感染者数量持续高位增加",
@@ -1441,6 +1449,14 @@
       "onboard_time": 1671437250,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 557441,
+      "num": 557441,
+      "word": "张文宏称第一批次疫苗难阻再次感染",
+      "onboard_time": 1671547829,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 551428,
@@ -1915,6 +1931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 407730,
+      "num": 407730,
+      "word": "专家称重复感染死亡风险翻倍",
+      "onboard_time": 1671548550,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 406397,
       "num": 406397,
       "word": "minji 作词",
@@ -2011,14 +2035,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 388238,
-      "num": 388238,
-      "word": "张文宏称第一批次疫苗难阻再次感染",
-      "onboard_time": 1671547829,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 388128,
       "num": 388128,
       "word": "助理分享王鹤棣片场视频",
@@ -2049,6 +2065,14 @@
       "onboard_time": 1671459991,
       "rank": 49,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 383992,
+      "num": 383992,
+      "word": "女孩是家里唯一阴性被反向隔离",
+      "onboard_time": 1671548309,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 383499,
@@ -2152,14 +2176,6 @@
       "word": "2023东方卫视开放大会",
       "onboard_time": 1671520110,
       "rank": 17,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 354449,
-      "num": 354449,
-      "word": "车保罗",
-      "onboard_time": 1671549330,
-      "rank": 16,
       "category": "综艺"
     },
     {
@@ -2467,6 +2483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 311992,
+      "num": 311992,
+      "word": "阿凡达2票房不及预期迪士尼大跌",
+      "onboard_time": 1671549928,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 311548,
       "num": 311548,
       "word": "李白新皮肤念了多少诗",
@@ -2579,6 +2603,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 295758,
+      "num": 295758,
+      "word": "Danielle新歌开头吟唱",
+      "onboard_time": 1671550229,
+      "rank": 20,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 294406,
       "num": 294406,
       "word": "华晨宇新专辑",
@@ -2672,14 +2704,6 @@
       "word": "小伙深夜街头赠药被受赠者强塞中华烟",
       "onboard_time": 1671503547,
       "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 282849,
-      "num": 282849,
-      "word": "女孩是家里唯一阴性被反向隔离",
-      "onboard_time": 1671548309,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -2803,6 +2827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 269910,
+      "num": 269910,
+      "word": "车保罗已离开无限超越班",
+      "onboard_time": 1671549809,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 267236,
       "num": 267236,
       "word": "久哲",
@@ -2857,14 +2889,6 @@
       "onboard_time": 1671542131,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 261920,
-      "num": 261920,
-      "word": "专家称重复感染死亡风险翻倍",
-      "onboard_time": 1671548550,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 261403,
@@ -3667,6 +3691,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 185051,
+      "num": 133214,
+      "word": "王鹤棣是懂真诚的",
+      "onboard_time": 1671549689,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 184610,
       "num": 184610,
       "word": "吴镇宇 长相可以像演技别来沾边",
@@ -3993,6 +4025,14 @@
       "onboard_time": 1671407788,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 168778,
+      "num": 133657,
+      "word": "只有许魏洲选了车保罗",
+      "onboard_time": 1671550169,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 167731,
@@ -5009,6 +5049,14 @@
       "onboard_time": 1671504207,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 101438,
+      "num": 101438,
+      "word": "非遗传承人在石头上敲出梅西头像",
+      "onboard_time": 1671550466,
+      "rank": 48,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 100441,
