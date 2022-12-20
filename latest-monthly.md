@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/12/01 00:28:49 ~ 2022/12/20 11:19:36
+本榜单时间：2022/12/01 00:28:49 ~ 2022/12/20 11:33:28
 </p>
 </blockquote>
 <p>
@@ -663,6 +663,12 @@ NCT4名成员发生坠落事故（热度：2753965）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E6%A6%82%E7%8E%87%E9%83%BD%E4%BC%9A%E6%84%9F%E6%9F%93%E8%B6%8A%E6%99%9A%E5%8F%98%E9%98%B3%E7%97%87%E7%8A%B6%E8%B6%8A%E8%BD%BB%23" target="weibo">
+大概率都会感染越晚变阳症状越轻（热度：2580251）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BAVIP%E5%86%8D%E6%B6%A8%E4%BB%B7%23" target="weibo">
 爱奇艺VIP再涨价（热度：2575026）
 </a>
@@ -707,12 +713,6 @@ NCT4名成员发生坠落事故（热度：2753965）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%8C%E6%AC%A1%E6%84%9F%E6%9F%93%E6%96%B0%E5%86%A0%E4%BC%9A%E6%9B%B4%E4%B8%A5%E9%87%8D%E5%90%97%23" target="weibo">
 二次感染新冠会更严重吗（热度：2493148）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E6%A6%82%E7%8E%87%E9%83%BD%E4%BC%9A%E6%84%9F%E6%9F%93%E8%B6%8A%E6%99%9A%E5%8F%98%E9%98%B3%E7%97%87%E7%8A%B6%E8%B6%8A%E8%BD%BB%23" target="weibo">
-大概率都会感染越晚变阳症状越轻（热度：2485779）
 </a>
 </li>
 
