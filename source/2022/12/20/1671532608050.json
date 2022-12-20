@@ -1,0 +1,410 @@
+{
+  "runTime": 1671532608050,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1467639,
+        "num": 1467639,
+        "word": "快递布洛芬竟然变衣服",
+        "onboard_time": 1671525212,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1127989,
+        "num": 1127989,
+        "word": "梅西回复苏醒",
+        "onboard_time": 1671517167,
+        "rank": 1,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 127141,
+        "num": 1014071,
+        "word": "一图了解新冠康复全过程",
+        "onboard_time": 1671507926,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 992735,
+        "num": 992735,
+        "word": "黄子韬确诊感染新冠",
+        "onboard_time": 1671521612,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 985452,
+        "num": 985452,
+        "word": "我国多地已发现BQ.1和XBB分支",
+        "onboard_time": 1671524612,
+        "rank": 4,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 945903,
+        "num": 945903,
+        "word": "餐饮店写拒绝阴性进店就餐引热议",
+        "onboard_time": 1671522212,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 823261,
+        "num": 823261,
+        "word": "东方卫视认证赵丽颖幸福到万家收视剧王",
+        "onboard_time": 1671530551,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 794600,
+        "num": 794600,
+        "word": "孩子把妈妈辛苦买的20多粒布洛芬全泡水",
+        "onboard_time": 1671526052,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 680045,
+        "num": 680045,
+        "word": "FPX输给主播队",
+        "onboard_time": 1671529892,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 478202,
+        "num": 478202,
+        "word": "山东婆家撒钱让新娘扫地",
+        "onboard_time": 1671530192,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2110225,
+        "num": 474621,
+        "word": "微博崩了",
+        "onboard_time": 1671530729,
+        "rank": 10,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 686670,
+        "num": 464319,
+        "word": "湖南卫视跨年晚会官宣",
+        "onboard_time": 1671527789,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 527815,
+        "num": 460547,
+        "word": "考研女生帮熟睡邻桌测出烧39度秒懵",
+        "onboard_time": 1671510569,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 453284,
+        "num": 453284,
+        "word": "极限挑战第九季回归",
+        "onboard_time": 1671526892,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 430947,
+        "num": 430947,
+        "word": "女子阳性躺厨房门口指导老公做饭",
+        "onboard_time": 1671530129,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 392936,
+        "num": 392936,
+        "word": "咽喉疼咳嗽带血怎么办",
+        "onboard_time": 1671530672,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 392760,
+        "num": 392760,
+        "word": "小红书崩了",
+        "onboard_time": 1671523115,
+        "rank": 16,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 371271,
+        "num": 371271,
+        "word": "抗原试剂一盒难求局面或将扭转",
+        "onboard_time": 1671510807,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338632,
+        "num": 338632,
+        "word": "大概率都会感染越晚变阳症状越轻",
+        "onboard_time": 1671501450,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306838,
+        "num": 306838,
+        "word": "不主张不建议故意去感染新冠病毒",
+        "onboard_time": 1671526712,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297822,
+        "num": 297822,
+        "word": "排骨焖面是来报恩的吧",
+        "onboard_time": 1671529059,
+        "rank": 20,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 297536,
+        "num": 297536,
+        "word": "梅西加入世界杯传奇行列",
+        "onboard_time": 1671523954,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 296317,
+        "num": 296317,
+        "word": "东北在做一种很新的冰糖葫芦",
+        "onboard_time": 1671529600,
+        "rank": 22,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 284357,
+        "num": 284357,
+        "word": "杨幂给华晨宇新专辑打call",
+        "onboard_time": 1671529300,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 281158,
+        "num": 281158,
+        "word": "孙怡 我现在也是个体户",
+        "onboard_time": 1671512250,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 252614,
+        "num": 252614,
+        "word": "玄彬留了胡子",
+        "onboard_time": 1671522995,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 247804,
+        "num": 247804,
+        "word": "杨紫晒超市随拍十二宫格",
+        "onboard_time": 1671526411,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235007,
+        "num": 235007,
+        "word": "猫咪偷喝杯中水宝鹃嗓主人能有多慌",
+        "onboard_time": 1671529831,
+        "rank": 27,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 234595,
+        "num": 234595,
+        "word": "考研",
+        "onboard_time": 1671501809,
+        "rank": 28,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 221559,
+        "num": 221559,
+        "word": "榜一大哥连骗7名女主播40万",
+        "onboard_time": 1671518309,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335031,
+        "num": 219344,
+        "word": "20岁女子回家发现爸妈生了二胎弟弟",
+        "onboard_time": 1671531631,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228651,
+        "num": 218569,
+        "word": "2022最惊艳的古装剧女主",
+        "onboard_time": 1671529059,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 216184,
+        "num": 216184,
+        "word": "梅西险些撞上电缆",
+        "onboard_time": 1671520890,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211174,
+        "num": 211174,
+        "word": "姨妈期杀疯了的免疫系统",
+        "onboard_time": 1671493282,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 208908,
+        "num": 208908,
+        "word": "小猫怎么还有远光灯",
+        "onboard_time": 1671531090,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 205111,
+        "num": 205111,
+        "word": "胡歌综艺首秀一路前行",
+        "onboard_time": 1671521370,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204101,
+        "num": 204101,
+        "word": "车保罗的人生经历",
+        "onboard_time": 1671529831,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194028,
+        "num": 194028,
+        "word": "复阳一般没有传染性",
+        "onboard_time": 1671531812,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191702,
+        "num": 191702,
+        "word": "阿根廷队航班接受水门礼迎接",
+        "onboard_time": 1671519569,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186541,
+        "num": 186541,
+        "word": "BLACKPINK演唱会结束后骑小车离开",
+        "onboard_time": 1671532531,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 183954,
+        "num": 183954,
+        "word": "大鹏宋茜在海边放烟花",
+        "onboard_time": 1671525872,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 178430,
+        "num": 178430,
+        "word": "iPhone15Pro概念图告别纯直边",
+        "onboard_time": 1671517410,
+        "rank": 41,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 173988,
+        "num": 173988,
+        "word": "王鹤棣说不担心大家贴标签",
+        "onboard_time": 1671530971,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 172464,
+        "num": 172464,
+        "word": "MH370碎片被渔民当洗衣板5年",
+        "onboard_time": 1671517410,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171347,
+        "num": 171347,
+        "word": "贺峻霖这精神状态在演我",
+        "onboard_time": 1671526052,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171273,
+        "num": 171273,
+        "word": "为什么都转阴了还咳嗽",
+        "onboard_time": 1671513032,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171222,
+        "num": 171222,
+        "word": "专家称南北新冠毒株毒性一样",
+        "onboard_time": 1671522754,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168849,
+        "num": 168849,
+        "word": "转阴后你要知道的15件事",
+        "onboard_time": 1671527610,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159642,
+        "num": 159642,
+        "word": "被名字耽误的高质量小说",
+        "onboard_time": 1671522574,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 129062,
+        "num": 129062,
+        "word": "阿根廷队凯旋",
+        "onboard_time": 1671515549,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#祝福澳门明天会更好#"
+    }
+  }
+}
