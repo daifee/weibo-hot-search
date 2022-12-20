@@ -1,0 +1,410 @@
+{
+  "runTime": 1671534919317,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1645082,
+        "num": 1645082,
+        "word": "快递布洛芬竟然变衣服",
+        "onboard_time": 1671525212,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 914794,
+        "num": 914794,
+        "word": "梅西回复苏醒",
+        "onboard_time": 1671517167,
+        "rank": 1,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 92711,
+        "num": 879068,
+        "word": "一图了解新冠康复全过程",
+        "onboard_time": 1671507926,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 878361,
+        "num": 878361,
+        "word": "黄子韬确诊感染新冠",
+        "onboard_time": 1671521612,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 867230,
+        "num": 867230,
+        "word": "阳了后可以洗澡吗",
+        "onboard_time": 1671533429,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 836897,
+        "num": 836897,
+        "word": "我国多地已发现BQ.1和XBB分支",
+        "onboard_time": 1671524612,
+        "rank": 5,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 737650,
+        "num": 737650,
+        "word": "东方卫视认证赵丽颖幸福到万家收视剧王",
+        "onboard_time": 1671530551,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 589761,
+        "num": 589761,
+        "word": "餐饮店写拒绝阴性进店就餐引热议",
+        "onboard_time": 1671522212,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 568135,
+        "num": 568135,
+        "word": "女子阳性躺厨房门口指导老公做饭",
+        "onboard_time": 1671530129,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 566736,
+        "num": 566736,
+        "word": "女生背考研重点背到崩溃抹眼泪坚持",
+        "onboard_time": 1671533012,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1175919,
+        "num": 563648,
+        "word": "微博崩了",
+        "onboard_time": 1671530729,
+        "rank": 10,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 559242,
+        "num": 559242,
+        "word": "湖南卫视跨年晚会官宣",
+        "onboard_time": 1671527789,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 547402,
+        "num": 547402,
+        "word": "孩子把妈妈辛苦买的20多粒布洛芬全泡水",
+        "onboard_time": 1671526052,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 536703,
+        "num": 536703,
+        "word": "FPX输给主播队",
+        "onboard_time": 1671529892,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 515965,
+        "num": 515965,
+        "word": "Lisa不做手术是为了赚钱支持艾威",
+        "onboard_time": 1671533972,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 495393,
+        "num": 495393,
+        "word": "20岁女子回家发现爸妈生了二胎弟弟",
+        "onboard_time": 1671531631,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 483593,
+        "num": 483593,
+        "word": "BLACKPINK演唱会结束后骑小车离开",
+        "onboard_time": 1671532531,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 407170,
+        "num": 407170,
+        "word": "山东婆家撒钱让新娘扫地",
+        "onboard_time": 1671530192,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 356226,
+        "num": 356226,
+        "word": "咽喉疼咳嗽带血怎么办",
+        "onboard_time": 1671530672,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 344063,
+        "num": 344063,
+        "word": "考研女生帮熟睡邻桌测出烧39度秒懵",
+        "onboard_time": 1671510569,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 474565,
+        "num": 344059,
+        "word": "赵露思说以后应该不会演校园剧了",
+        "onboard_time": 1671533129,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 342411,
+        "num": 342411,
+        "word": "张真源加盟爱乐之都2",
+        "onboard_time": 1671532833,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 291719,
+        "num": 291719,
+        "word": "东北在做一种很新的冰糖葫芦",
+        "onboard_time": 1671529600,
+        "rank": 22,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 288885,
+        "num": 288885,
+        "word": "大概率都会感染越晚变阳症状越轻",
+        "onboard_time": 1671501450,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271216,
+        "num": 271216,
+        "word": "极限挑战第九季回归",
+        "onboard_time": 1671526892,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 263219,
+        "num": 263219,
+        "word": "排骨焖面是来报恩的吧",
+        "onboard_time": 1671529059,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 240177,
+        "num": 240177,
+        "word": "抗原试剂一盒难求局面或将扭转",
+        "onboard_time": 1671510807,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228493,
+        "num": 228493,
+        "word": "梅西加入世界杯传奇行列",
+        "onboard_time": 1671523954,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 218967,
+        "num": 218967,
+        "word": "复阳一般没有传染性",
+        "onboard_time": 1671531812,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199412,
+        "num": 199412,
+        "word": "猫咪偷喝杯中水宝鹃嗓主人能有多慌",
+        "onboard_time": 1671529831,
+        "rank": 29,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 208610,
+        "num": 199347,
+        "word": "吴镇宇的嘴是抹了鹤顶红吗",
+        "onboard_time": 1671534154,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202551,
+        "num": 199279,
+        "word": "杨紫晒超市随拍十二宫格",
+        "onboard_time": 1671526411,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199131,
+        "num": 199131,
+        "word": "孙怡 我现在也是个体户",
+        "onboard_time": 1671512250,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193883,
+        "num": 193883,
+        "word": "玄彬留了胡子",
+        "onboard_time": 1671522995,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 189254,
+        "num": 189254,
+        "word": "榜一大哥连骗7名女主播40万",
+        "onboard_time": 1671518309,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193380,
+        "num": 187341,
+        "word": "2022最惊艳的古装剧女主",
+        "onboard_time": 1671529059,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 183289,
+        "num": 183289,
+        "word": "梅西险些撞上电缆",
+        "onboard_time": 1671520890,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180955,
+        "num": 180955,
+        "word": "春运以后还有一轮新的疫情",
+        "onboard_time": 1671532711,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174935,
+        "num": 174935,
+        "word": "小猫怎么还有远光灯",
+        "onboard_time": 1671531090,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 158759,
+        "num": 158759,
+        "word": "考研",
+        "onboard_time": 1671501809,
+        "rank": 39,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 191709,
+        "num": 157945,
+        "word": "华晨宇说新专辑以第一视角出发",
+        "onboard_time": 1671534872,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 170287,
+        "num": 157744,
+        "word": "女法医JD收官",
+        "onboard_time": 1671534753,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 156897,
+        "num": 156897,
+        "word": "姨妈期杀疯了的免疫系统",
+        "onboard_time": 1671493282,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 154176,
+        "num": 154176,
+        "word": "阿根廷队航班接受水门礼迎接",
+        "onboard_time": 1671519569,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143734,
+        "num": 143734,
+        "word": "不主张不建议故意去感染新冠病毒",
+        "onboard_time": 1671526712,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136987,
+        "num": 136987,
+        "word": "MH370碎片被渔民当洗衣板5年",
+        "onboard_time": 1671517410,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136546,
+        "num": 136546,
+        "word": "被名字耽误的高质量小说",
+        "onboard_time": 1671522574,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 133443,
+        "num": 133443,
+        "word": "iPhone15Pro概念图告别纯直边",
+        "onboard_time": 1671517410,
+        "rank": 47,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 123081,
+        "num": 123081,
+        "word": "小红书崩了",
+        "onboard_time": 1671523115,
+        "rank": 48,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 122369,
+        "num": 122369,
+        "word": "孩子发烧一出被窝全身烟雾缭绕",
+        "onboard_time": 1671534633,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#2022温暖你我的瞬间#"
+    }
+  }
+}

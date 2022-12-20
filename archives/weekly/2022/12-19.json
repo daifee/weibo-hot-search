@@ -1,6 +1,6 @@
 {
   "startTime": 1671380618877,
-  "endTime": 1671532608050,
+  "endTime": 1671534919317,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -252,7 +252,7 @@
     },
     {
       "raw_hot": 2110225,
-      "num": 523471,
+      "num": 563648,
       "word": "微博崩了",
       "onboard_time": 1671530729,
       "rank": 10,
@@ -339,6 +339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1645082,
+      "num": 1645082,
+      "word": "快递布洛芬竟然变衣服",
+      "onboard_time": 1671525212,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1622859,
       "num": 1622859,
       "word": "小红书成人使用美林攻略引争议",
@@ -385,14 +393,6 @@
       "onboard_time": 1671381325,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1467639,
-      "num": 1467639,
-      "word": "快递布洛芬竟然变衣服",
-      "onboard_time": 1671525212,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1452750,
@@ -785,6 +785,14 @@
       "onboard_time": 1671410611,
       "rank": 15,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 867230,
+      "num": 867230,
+      "word": "阳了后可以洗澡吗",
+      "onboard_time": 1671533429,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 854811,
@@ -1259,6 +1267,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 568135,
+      "num": 568135,
+      "word": "女子阳性躺厨房门口指导老公做饭",
+      "onboard_time": 1671530129,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 566736,
+      "num": 566736,
+      "word": "女生背考研重点背到崩溃抹眼泪坚持",
+      "onboard_time": 1671533012,
+      "rank": 9,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 560886,
       "num": 560886,
       "word": "迪马利亚为决赛而生",
@@ -1355,6 +1379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 515965,
+      "num": 515965,
+      "word": "Lisa不做手术是为了赚钱支持艾威",
+      "onboard_time": 1671533972,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 515917,
       "num": 515917,
       "word": "贝克汉姆",
@@ -1377,6 +1409,14 @@
       "onboard_time": 1671414630,
       "rank": 23,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 495393,
+      "num": 495393,
+      "word": "20岁女子回家发现爸妈生了二胎弟弟",
+      "onboard_time": 1671531631,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 492550,
@@ -1419,6 +1459,14 @@
       "category": "军事,国外要闻"
     },
     {
+      "raw_hot": 483593,
+      "num": 483593,
+      "word": "BLACKPINK演唱会结束后骑小车离开",
+      "onboard_time": 1671532531,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 480334,
       "num": 480334,
       "word": "张元英的wave",
@@ -1433,6 +1481,14 @@
       "onboard_time": 1671530192,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 474565,
+      "num": 344059,
+      "word": "赵露思说以后应该不会演校园剧了",
+      "onboard_time": 1671533129,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 474390,
@@ -1601,14 +1657,6 @@
       "onboard_time": 1671386986,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 430947,
-      "num": 430947,
-      "word": "女子阳性躺厨房门口指导老公做饭",
-      "onboard_time": 1671530129,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 430172,
@@ -2019,6 +2067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 342411,
+      "num": 342411,
+      "word": "张真源加盟爱乐之都2",
+      "onboard_time": 1671532833,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 341535,
       "num": 341535,
       "word": "不主张不建议故意去感染新冠病毒",
@@ -2073,14 +2129,6 @@
       "onboard_time": 1671426334,
       "rank": 46,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 335031,
-      "num": 219344,
-      "word": "20岁女子回家发现爸妈生了二胎弟弟",
-      "onboard_time": 1671531631,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 333603,
@@ -2875,6 +2923,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 218967,
+      "num": 218967,
+      "word": "复阳一般没有传染性",
+      "onboard_time": 1671531812,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 218959,
       "num": 218959,
       "word": "光遇",
@@ -2961,6 +3017,14 @@
       "onboard_time": 1671531090,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 208610,
+      "num": 199347,
+      "word": "吴镇宇的嘴是抹了鹤顶红吗",
+      "onboard_time": 1671534154,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 207940,
@@ -3131,14 +3195,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 194028,
-      "num": 194028,
-      "word": "复阳一般没有传染性",
-      "onboard_time": 1671531812,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 193698,
       "num": 193698,
       "word": "中国5座好吃的世界美食之都",
@@ -3169,6 +3225,14 @@
       "onboard_time": 1671519871,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 191709,
+      "num": 157945,
+      "word": "华晨宇说新专辑以第一视角出发",
+      "onboard_time": 1671534872,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 189450,
@@ -3225,14 +3289,6 @@
       "onboard_time": 1671432210,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 186541,
-      "num": 186541,
-      "word": "BLACKPINK演唱会结束后骑小车离开",
-      "onboard_time": 1671532531,
-      "rank": 39,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 185931,
@@ -3313,6 +3369,14 @@
       "onboard_time": 1671445049,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 180955,
+      "num": 180955,
+      "word": "春运以后还有一轮新的疫情",
+      "onboard_time": 1671532711,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 180858,
@@ -3473,6 +3537,14 @@
       "onboard_time": 1671462211,
       "rank": 42,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 170287,
+      "num": 157744,
+      "word": "女法医JD收官",
+      "onboard_time": 1671534753,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 170155,
@@ -4208,6 +4280,14 @@
       "word": "捂汗时发热婴儿体温可能越来越高",
       "onboard_time": 1671527913,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 122369,
+      "num": 122369,
+      "word": "孩子发烧一出被窝全身烟雾缭绕",
+      "onboard_time": 1671534633,
+      "rank": 49,
       "category": "社会新闻"
     },
     {

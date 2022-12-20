@@ -1,6 +1,6 @@
 {
   "startTime": 1671467268319,
-  "endTime": 1671532608050,
+  "endTime": 1671534919317,
   "band_list": [
     {
       "raw_hot": 2854956,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 2110225,
-      "num": 523471,
+      "num": 563648,
       "word": "微博崩了",
       "onboard_time": 1671530729,
       "rank": 10,
@@ -83,19 +83,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1645082,
+      "num": 1645082,
+      "word": "快递布洛芬竟然变衣服",
+      "onboard_time": 1671525212,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1622859,
       "num": 1622859,
       "word": "小红书成人使用美林攻略引争议",
       "onboard_time": 1671492621,
       "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1467639,
-      "num": 1467639,
-      "word": "快递布洛芬竟然变衣服",
-      "onboard_time": 1671525212,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -193,6 +193,14 @@
       "onboard_time": 1671464010,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 867230,
+      "num": 867230,
+      "word": "阳了后可以洗澡吗",
+      "onboard_time": 1671533429,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 835144,
@@ -395,6 +403,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 568135,
+      "num": 568135,
+      "word": "女子阳性躺厨房门口指导老公做饭",
+      "onboard_time": 1671530129,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 566736,
+      "num": 566736,
+      "word": "女生背考研重点背到崩溃抹眼泪坚持",
+      "onboard_time": 1671533012,
+      "rank": 9,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 551428,
       "num": 551428,
       "word": "毕雯珺孙伊涵一支MV亲了5次",
@@ -435,12 +459,44 @@
       "category": "影视"
     },
     {
+      "raw_hot": 515965,
+      "num": 515965,
+      "word": "Lisa不做手术是为了赚钱支持艾威",
+      "onboard_time": 1671533972,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 495393,
+      "num": 495393,
+      "word": "20岁女子回家发现爸妈生了二胎弟弟",
+      "onboard_time": 1671531631,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 483593,
+      "num": 483593,
+      "word": "BLACKPINK演唱会结束后骑小车离开",
+      "onboard_time": 1671532531,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 478202,
       "num": 478202,
       "word": "山东婆家撒钱让新娘扫地",
       "onboard_time": 1671530192,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 474565,
+      "num": 344059,
+      "word": "赵露思说以后应该不会演校园剧了",
+      "onboard_time": 1671533129,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 470332,
@@ -489,14 +545,6 @@
       "onboard_time": 1671519569,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 430947,
-      "num": 430947,
-      "word": "女子阳性躺厨房门口指导老公做饭",
-      "onboard_time": 1671530129,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 430172,
@@ -723,6 +771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 342411,
+      "num": 342411,
+      "word": "张真源加盟爱乐之都2",
+      "onboard_time": 1671532833,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 341535,
       "num": 341535,
       "word": "不主张不建议故意去感染新冠病毒",
@@ -743,14 +799,6 @@
       "num": 338404,
       "word": "警方通报女子称考核酸检测证没上岗就失业",
       "onboard_time": 1671498931,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 335031,
-      "num": 219344,
-      "word": "20岁女子回家发现爸妈生了二胎弟弟",
-      "onboard_time": 1671531631,
       "rank": 30,
       "category": "社会新闻"
     },
@@ -1131,6 +1179,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 218967,
+      "num": 218967,
+      "word": "复阳一般没有传染性",
+      "onboard_time": 1671531812,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 218959,
       "num": 218959,
       "word": "光遇",
@@ -1161,6 +1217,14 @@
       "onboard_time": 1671531090,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 208610,
+      "num": 199347,
+      "word": "吴镇宇的嘴是抹了鹤顶红吗",
+      "onboard_time": 1671534154,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 207940,
@@ -1243,14 +1307,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 194028,
-      "num": 194028,
-      "word": "复阳一般没有传染性",
-      "onboard_time": 1671531812,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 193698,
       "num": 193698,
       "word": "中国5座好吃的世界美食之都",
@@ -1291,6 +1347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 191709,
+      "num": 157945,
+      "word": "华晨宇说新专辑以第一视角出发",
+      "onboard_time": 1671534872,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 189450,
       "num": 189450,
       "word": "恋与制作人",
@@ -1307,14 +1371,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 186541,
-      "num": 186541,
-      "word": "BLACKPINK演唱会结束后骑小车离开",
-      "onboard_time": 1671532531,
-      "rank": 39,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 185931,
       "num": 185931,
       "word": "许光汉想见你校服造型",
@@ -1329,6 +1385,14 @@
       "onboard_time": 1671517288,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 180955,
+      "num": 180955,
+      "word": "春运以后还有一轮新的疫情",
+      "onboard_time": 1671532711,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 178109,
@@ -1369,6 +1433,14 @@
       "onboard_time": 1671530971,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 170287,
+      "num": 157744,
+      "word": "女法医JD收官",
+      "onboard_time": 1671534753,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 166184,
@@ -1745,6 +1817,14 @@
       "onboard_time": 1671458850,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 122369,
+      "num": 122369,
+      "word": "孩子发烧一出被窝全身烟雾缭绕",
+      "onboard_time": 1671534633,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 120260,
