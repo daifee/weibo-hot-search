@@ -1,0 +1,410 @@
+{
+  "runTime": 1671524594493,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2047295,
+        "num": 2047295,
+        "word": "小红书崩了",
+        "onboard_time": 1671523115,
+        "rank": 0,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1911619,
+        "num": 1911619,
+        "word": "梅西回复苏醒",
+        "onboard_time": 1671517167,
+        "rank": 1,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 193566,
+        "num": 1485406,
+        "word": "一图了解新冠康复全过程",
+        "onboard_time": 1671507926,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1400374,
+        "num": 1400374,
+        "word": "黄子韬确诊感染新冠",
+        "onboard_time": 1671521612,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 840303,
+        "num": 840303,
+        "word": "餐饮店写拒绝阴性进店就餐引热议",
+        "onboard_time": 1671522212,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 828792,
+        "num": 828792,
+        "word": "抗原试剂一盒难求局面或将扭转",
+        "onboard_time": 1671510807,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 713947,
+        "num": 713947,
+        "word": "榜一大哥连骗7名女主播40万",
+        "onboard_time": 1671518309,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2196397,
+        "num": 711296,
+        "word": "新冠短期内影响男性生殖功能",
+        "onboard_time": 1671520289,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 692688,
+        "num": 692688,
+        "word": "大概率都会感染越晚变阳症状越轻",
+        "onboard_time": 1671501450,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 678249,
+        "num": 678249,
+        "word": "胡歌综艺首秀一路前行",
+        "onboard_time": 1671521370,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 950729,
+        "num": 646724,
+        "word": "考研女生帮熟睡邻桌测出烧39度秒懵",
+        "onboard_time": 1671510569,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 596561,
+        "num": 596561,
+        "word": "孙怡 我现在也是个体户",
+        "onboard_time": 1671512250,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 557968,
+        "num": 557968,
+        "word": "网传王一博将在东方卫视跨年首唱新歌",
+        "onboard_time": 1671522934,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 538846,
+        "num": 538846,
+        "word": "梅西险些撞上电缆",
+        "onboard_time": 1671520890,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124073,
+        "num": 506804,
+        "word": "和电量焦虑说拜拜",
+        "onboard_time": 1671523233,
+        "rank": 14,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 485356,
+        "num": 485356,
+        "word": "考研",
+        "onboard_time": 1671501809,
+        "rank": 15,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 442792,
+        "num": 442792,
+        "word": "玄彬留了胡子",
+        "onboard_time": 1671522995,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 435934,
+        "num": 435934,
+        "word": "阿根廷队航班接受水门礼迎接",
+        "onboard_time": 1671519569,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 429940,
+        "num": 429940,
+        "word": "姨妈期杀疯了的免疫系统",
+        "onboard_time": 1671493282,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 378528,
+        "num": 378528,
+        "word": "专家称南北新冠毒株毒性一样",
+        "onboard_time": 1671522754,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 415844,
+        "num": 376351,
+        "word": "朴灿烈李马克金玟庭candy舞蹈挑战",
+        "onboard_time": 1671521311,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 369956,
+        "num": 369956,
+        "word": "于冬说阿凡达2不适合中国观众",
+        "onboard_time": 1671516389,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 357895,
+        "num": 357895,
+        "word": "MH370碎片被渔民当洗衣板5年",
+        "onboard_time": 1671517410,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326405,
+        "num": 326405,
+        "word": "北京增5例死亡病例",
+        "onboard_time": 1671500009,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287021,
+        "num": 287021,
+        "word": "李俊昊林允儿今年也有合作舞台",
+        "onboard_time": 1671522153,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 270534,
+        "num": 270534,
+        "word": "iPhone15Pro概念图告别纯直边",
+        "onboard_time": 1671517410,
+        "rank": 25,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 266481,
+        "num": 266481,
+        "word": "为什么都转阴了还咳嗽",
+        "onboard_time": 1671513032,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256748,
+        "num": 256748,
+        "word": "半年后的世界杯有中国队了",
+        "onboard_time": 1671512610,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 220138,
+        "num": 220138,
+        "word": "中疾控回应接种疫苗不如感染奥密克戎",
+        "onboard_time": 1671523055,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214466,
+        "num": 214466,
+        "word": "失踪数月私家车被打捞司机还在车里",
+        "onboard_time": 1671510208,
+        "rank": 29,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 271799,
+        "num": 213586,
+        "word": "想见你编剧说电影版的结束就是故事的终篇",
+        "onboard_time": 1671519630,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 249059,
+        "num": 208053,
+        "word": "2023东方卫视片单",
+        "onboard_time": 1671519929,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 241503,
+        "num": 203797,
+        "word": "刘耀文无限超越班绿色西服上班路透",
+        "onboard_time": 1671523832,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 220082,
+        "num": 202714,
+        "word": "赵露思加盟东方卫视跨年盛典",
+        "onboard_time": 1671519329,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199950,
+        "num": 199950,
+        "word": "梅西手捧大力神杯下飞机",
+        "onboard_time": 1671521068,
+        "rank": 34,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 199867,
+        "num": 199867,
+        "word": "姆巴佩立誓再夺大力神杯",
+        "onboard_time": 1671511228,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192626,
+        "num": 192626,
+        "word": "强生回应美林供不应求",
+        "onboard_time": 1671514232,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183476,
+        "num": 183476,
+        "word": "以岭药业称连花清瘟可与布洛芬联用",
+        "onboard_time": 1671500551,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178020,
+        "num": 178020,
+        "word": "女子举报父亲被打死一案宣判",
+        "onboard_time": 1671506728,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173898,
+        "num": 173898,
+        "word": "被名字耽误的高质量小说",
+        "onboard_time": 1671522574,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 196346,
+        "num": 171286,
+        "word": "吴京流浪地球2吃苹果皮",
+        "onboard_time": 1671523474,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 167041,
+        "num": 167041,
+        "word": "阿根廷队凯旋",
+        "onboard_time": 1671515549,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161550,
+        "num": 161550,
+        "word": "惊厥发作时不要往孩子嘴里塞手指",
+        "onboard_time": 1671523954,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150941,
+        "num": 150941,
+        "word": "宋慧乔黑暗荣耀发布会生图状态",
+        "onboard_time": 1671518549,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 138724,
+        "num": 138724,
+        "word": "阳后还被猫给欺负了",
+        "onboard_time": 1671511291,
+        "rank": 44,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 133908,
+        "num": 133908,
+        "word": "新冠病毒感染者可在6个月后接种疫苗",
+        "onboard_time": 1671508050,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130521,
+        "num": 130521,
+        "word": "iPhone15或重新划分机型组合",
+        "onboard_time": 1671512553,
+        "rank": 46,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 117808,
+        "num": 117808,
+        "word": "梅西加入世界杯传奇行列",
+        "onboard_time": 1671523954,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116229,
+        "num": 116229,
+        "word": "诊所开门20多人蜂拥而至占床位打点滴",
+        "onboard_time": 1671516808,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110374,
+        "num": 110374,
+        "word": "企业是否有权要求入职劳动者出示核酸检测证明",
+        "onboard_time": 1671523894,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#祝福澳门明天会更好#"
+    }
+  }
+}

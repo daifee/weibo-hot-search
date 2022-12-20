@@ -1,6 +1,6 @@
 {
   "startTime": 1671467268319,
-  "endTime": 1671521626817,
+  "endTime": 1671524594493,
   "band_list": [
     {
       "raw_hot": 2854956,
@@ -35,8 +35,24 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 2196397,
+      "num": 711296,
+      "word": "新冠短期内影响男性生殖功能",
+      "onboard_time": 1671520289,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2047295,
+      "num": 2047295,
+      "word": "小红书崩了",
+      "onboard_time": 1671523115,
+      "rank": 0,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1980069,
-      "num": 562919,
+      "num": 646724,
       "word": "考研女生帮熟睡邻桌测出烧39度秒懵",
       "onboard_time": 1671510569,
       "rank": 24,
@@ -75,6 +91,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1400374,
+      "num": 1400374,
+      "word": "黄子韬确诊感染新冠",
+      "onboard_time": 1671521612,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1265403,
       "num": 1265403,
       "word": "电影想见你官宣定档1224",
@@ -97,14 +121,6 @@
       "onboard_time": 1671495629,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1059827,
-      "num": 424501,
-      "word": "新冠短期内影响男性生殖功能",
-      "onboard_time": 1671520289,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 961233,
@@ -137,6 +153,14 @@
       "onboard_time": 1671464010,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 840303,
+      "num": 840303,
+      "word": "餐饮店写拒绝阴性进店就餐引热议",
+      "onboard_time": 1671522212,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 835144,
@@ -243,6 +267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 678249,
+      "num": 678249,
+      "word": "胡歌综艺首秀一路前行",
+      "onboard_time": 1671521370,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 664258,
       "num": 664258,
       "word": "N95口罩为何又一罩难求",
@@ -291,6 +323,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 557968,
+      "num": 557968,
+      "word": "网传王一博将在东方卫视跨年首唱新歌",
+      "onboard_time": 1671522934,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 551428,
       "num": 551428,
       "word": "毕雯珺孙伊涵一支MV亲了5次",
@@ -305,6 +345,14 @@
       "onboard_time": 1671513032,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 538846,
+      "num": 538846,
+      "word": "梅西险些撞上电缆",
+      "onboard_time": 1671520890,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 516566,
@@ -331,6 +379,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 442792,
+      "num": 442792,
+      "word": "玄彬留了胡子",
+      "onboard_time": 1671522995,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 439588,
       "num": 439588,
       "word": "抗体水平较高或更会失去嗅觉或味觉",
@@ -345,6 +401,14 @@
       "onboard_time": 1671517410,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 435934,
+      "num": 435934,
+      "word": "阿根廷队航班接受水门礼迎接",
+      "onboard_time": 1671519569,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 430143,
@@ -385,6 +449,14 @@
       "onboard_time": 1671460952,
       "rank": 7,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 415844,
+      "num": 376351,
+      "word": "朴灿烈李马克金玟庭candy舞蹈挑战",
+      "onboard_time": 1671521311,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 415616,
@@ -435,6 +507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 378528,
+      "num": 378528,
+      "word": "专家称南北新冠毒株毒性一样",
+      "onboard_time": 1671522754,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 366440,
       "num": 283466,
       "word": "这个毒株应该是文曲毒株",
@@ -449,22 +529,6 @@
       "onboard_time": 1671510990,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 361247,
-      "num": 361247,
-      "word": "阿根廷队航班接受水门礼迎接",
-      "onboard_time": 1671519569,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 357785,
-      "num": 357785,
-      "word": "朴灿烈李马克金玟庭candy舞蹈挑战",
-      "onboard_time": 1671521311,
-      "rank": 16,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 354892,
@@ -611,6 +675,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 287021,
+      "num": 287021,
+      "word": "李俊昊林允儿今年也有合作舞台",
+      "onboard_time": 1671522153,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 283324,
       "num": 283324,
       "word": "Angel被爆料将加入RNG",
@@ -732,7 +804,7 @@
     },
     {
       "raw_hot": 255649,
-      "num": 960880,
+      "num": 1485406,
       "word": "一图了解新冠康复全过程",
       "onboard_time": 1671507926,
       "rank": 2,
@@ -779,6 +851,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 241503,
+      "num": 203797,
+      "word": "刘耀文无限超越班绿色西服上班路透",
+      "onboard_time": 1671523832,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 239852,
       "num": 239852,
       "word": "长沙简直就是夜市天堂",
@@ -811,14 +891,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 223370,
-      "num": 204697,
-      "word": "梅西险些撞上电缆",
-      "onboard_time": 1671520890,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 222943,
       "num": 220212,
       "word": "张钧甯都市摩登大片",
@@ -833,6 +905,14 @@
       "onboard_time": 1671507331,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 220138,
+      "num": 220138,
+      "word": "中疾控回应接种疫苗不如感染奥密克戎",
+      "onboard_time": 1671523055,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 218959,
@@ -875,6 +955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 199950,
+      "num": 199950,
+      "word": "梅西手捧大力神杯下飞机",
+      "onboard_time": 1671521068,
+      "rank": 42,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 199145,
       "num": 199145,
       "word": "陆虎说硬照是硬要照的意思",
@@ -897,6 +985,14 @@
       "onboard_time": 1671520410,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 196346,
+      "num": 171286,
+      "word": "吴京流浪地球2吃苹果皮",
+      "onboard_time": 1671523474,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 195170,
@@ -963,14 +1059,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 187891,
-      "num": 187891,
-      "word": "胡歌综艺首秀一路前行",
-      "onboard_time": 1671521370,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 185931,
       "num": 185931,
       "word": "许光汉想见你校服造型",
@@ -1003,12 +1091,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 169987,
-      "num": 169987,
-      "word": "黄子韬确诊感染新冠",
-      "onboard_time": 1671521612,
-      "rank": 35,
-      "category": "艺人"
+      "raw_hot": 173898,
+      "num": 173898,
+      "word": "被名字耽误的高质量小说",
+      "onboard_time": 1671522574,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 166184,
@@ -1059,20 +1147,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 161550,
+      "num": 161550,
+      "word": "惊厥发作时不要往孩子嘴里塞手指",
+      "onboard_time": 1671523954,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 161023,
       "num": 161023,
       "word": "10岁男孩给共享药箱送去10颗布洛芬",
       "onboard_time": 1671492080,
       "rank": 32,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 160938,
-      "num": 145109,
-      "word": "梅西手捧大力神杯下飞机",
-      "onboard_time": 1671521068,
-      "rank": 42,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 159956,
@@ -1347,6 +1435,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 124073,
+      "num": 506804,
+      "word": "和电量焦虑说拜拜",
+      "onboard_time": 1671523233,
+      "rank": 14,
+      "category": "科技"
+    },
+    {
       "raw_hot": 122551,
       "num": 122551,
       "word": "赵樱子演过倚天黄衫女",
@@ -1377,6 +1473,14 @@
       "onboard_time": 1671509849,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 117808,
+      "num": 117808,
+      "word": "梅西加入世界杯传奇行列",
+      "onboard_time": 1671523954,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 116959,
@@ -1449,6 +1553,14 @@
       "onboard_time": 1671461611,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 110374,
+      "num": 110374,
+      "word": "企业是否有权要求入职劳动者出示核酸检测证明",
+      "onboard_time": 1671523894,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 109701,
