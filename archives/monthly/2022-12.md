@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/12/01 00:28:49 ~ 2022/12/21 06:33:21
+本榜单时间：2022/12/01 00:28:49 ~ 2022/12/21 07:18:14
 </p>
 </blockquote>
 <p>
@@ -3027,6 +3027,12 @@ A股109家新冠检测概念公司净赚854亿（热度：1290299）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E9%87%8D%E5%A4%8D%E6%84%9F%E6%9F%93%E6%AD%BB%E4%BA%A1%E9%A3%8E%E9%99%A9%E7%BF%BB%E5%80%8D%23" target="weibo">
+专家称重复感染死亡风险翻倍（热度：1193262）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%86%A0%E6%8A%97%E4%BD%93%E4%BF%9D%E6%8A%A4%E6%9C%9F%E4%B8%BA3%E5%88%B06%E4%B8%AA%E6%9C%88%23" target="weibo">
 新冠抗体保护期为3到6个月（热度：1190778）
 </a>
@@ -6005,12 +6011,6 @@ seventeen全员续约7年（热度：777615）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%91%8A%E5%8F%91%E8%BE%85%E8%AD%A6%E7%8C%A5%E4%BA%B5%E8%A2%AB%E5%85%B3%E7%B2%BE%E7%A5%9E%E7%97%85%E9%99%A2%23" target="weibo">
 女子告发辅警猥亵被关精神病院（热度：756499）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BE%AF%E5%AE%81%23" target="weibo">
-侯宁（热度：756369）
 </a>
 </li>
 

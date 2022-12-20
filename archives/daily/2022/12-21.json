@@ -1,6 +1,6 @@
 {
   "startTime": 1671553616280,
-  "endTime": 1671575601105,
+  "endTime": 1671578294832,
   "band_list": [
     {
       "raw_hot": 1536458,
@@ -9,6 +9,14 @@
       "onboard_time": 1671549330,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1193262,
+      "num": 1193262,
+      "word": "专家称重复感染死亡风险翻倍",
+      "onboard_time": 1671548550,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1150429,
@@ -41,14 +49,6 @@
       "onboard_time": 1671549928,
       "rank": 4,
       "category": "影视"
-    },
-    {
-      "raw_hot": 755474,
-      "num": 755474,
-      "word": "专家称重复感染死亡风险翻倍",
-      "onboard_time": 1671548550,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 447312,
@@ -227,6 +227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 144855,
+      "num": 69779,
+      "word": "陶昕然回应大家嗓子像安陵容",
+      "onboard_time": 1671577576,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 143653,
       "num": 143653,
       "word": "李白新皮肤念了多少诗",
@@ -273,6 +281,14 @@
       "onboard_time": 1671545011,
       "rank": 27,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 125695,
+      "num": 125695,
+      "word": "你是哪种株",
+      "onboard_time": 1671576195,
+      "rank": 14,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 124695,
@@ -331,6 +347,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 109185,
+      "num": 109185,
+      "word": "睡眠就是最好的补药",
+      "onboard_time": 1671542734,
+      "rank": 39,
+      "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 106930,
+      "num": 106930,
+      "word": "德保罗才是梅西的定海神针",
+      "onboard_time": 1671556580,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 106844,
       "num": 87772,
       "word": "王鹤棣介绍自己品牌理念",
@@ -363,14 +395,6 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 93591,
-      "num": 93591,
-      "word": "德保罗才是梅西的定海神针",
-      "onboard_time": 1671556580,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 91834,
       "num": 91834,
       "word": "再开门就是别人的青春了",
@@ -393,14 +417,6 @@
       "onboard_time": 1671534633,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 88430,
-      "num": 88430,
-      "word": "睡眠就是最好的补药",
-      "onboard_time": 1671542734,
-      "rank": 39,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 87114,
@@ -483,6 +499,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 61919,
+      "num": 61919,
+      "word": "全国现在一天消耗4亿片布洛芬",
+      "onboard_time": 1671578058,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 50021,
+      "num": 50021,
+      "word": "我和我的2022男友们",
+      "onboard_time": 1671561973,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 44565,
       "num": 40959,
       "word": "看苑琼丹治艾威好爽",
@@ -496,14 +528,6 @@
       "word": "县委大院医院院长要工资搞笑场面",
       "onboard_time": 1671559576,
       "rank": 44,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 24619,
-      "num": 24619,
-      "word": "我和我的2022男友们",
-      "onboard_time": 1671561973,
-      "rank": 35,
       "category": "影视"
     },
     {
