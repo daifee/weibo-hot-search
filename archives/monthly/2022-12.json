@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1671553616280,
+  "endTime": 1671554652658,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -2699,6 +2699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1536458,
+      "num": 1536458,
+      "word": "车保罗",
+      "onboard_time": 1671549330,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1532719,
       "num": 1532719,
       "word": "布洛芬和布洛芬缓释有啥区别",
@@ -2777,14 +2785,6 @@
       "onboard_time": 1670843236,
       "rank": 33,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1510764,
-      "num": 1510764,
-      "word": "车保罗",
-      "onboard_time": 1671549330,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 1508642,
@@ -4241,6 +4241,14 @@
       "onboard_time": 1670171832,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1150429,
+      "num": 1150429,
+      "word": "车保罗已离开无限超越班",
+      "onboard_time": 1671549809,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 1148790,
@@ -6025,14 +6033,6 @@
       "onboard_time": 1670819233,
       "rank": 39,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 921757,
-      "num": 921757,
-      "word": "车保罗已离开无限超越班",
-      "onboard_time": 1671549809,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 920013,
@@ -24299,6 +24299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 271991,
+      "num": 271991,
+      "word": "马来西亚立法禁止女性穿男装",
+      "onboard_time": 1671553402,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 271980,
       "num": 271980,
       "word": "过量服用对乙酰氨基酚感冒药可致肝衰竭",
@@ -32411,6 +32419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 183064,
+      "num": 183064,
+      "word": "capper直播",
+      "onboard_time": 1671553704,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 182965,
       "num": 510419,
       "word": "苹果新专利可实现SIM卡转换eSIM",
@@ -36131,6 +36147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 158272,
+      "num": 158272,
+      "word": "N95口罩价格为何一涨再涨",
+      "onboard_time": 1671551607,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158264,
       "num": 330815,
       "word": "球迷才懂的世界杯名场面",
@@ -37577,14 +37601,6 @@
       "onboard_time": 1670068692,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 148777,
-      "num": 148777,
-      "word": "N95口罩价格为何一涨再涨",
-      "onboard_time": 1671551607,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 148728,
@@ -44739,6 +44755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 91834,
+      "num": 91834,
+      "word": "再开门就是别人的青春了",
+      "onboard_time": 1671553043,
+      "rank": 43,
+      "category": "情感,教育"
+    },
+    {
       "raw_hot": 91821,
       "num": 233482,
       "word": "C919第一声客舱广播",
@@ -44753,6 +44777,14 @@
       "onboard_time": 1670146391,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 91432,
+      "num": 91432,
+      "word": "张杰围炉夜谈会",
+      "onboard_time": 1671553643,
+      "rank": 38,
+      "category": "音乐"
     },
     {
       "raw_hot": 91425,
@@ -45049,14 +45081,6 @@
       "onboard_time": 1670066890,
       "rank": 47,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 84223,
-      "num": 84223,
-      "word": "再开门就是别人的青春了",
-      "onboard_time": 1671553043,
-      "rank": 43,
-      "category": "情感,教育"
     },
     {
       "raw_hot": 84159,
@@ -45403,14 +45427,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 75425,
-      "num": 75425,
-      "word": "马来西亚立法禁止女性穿男装",
-      "onboard_time": 1671553402,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 75298,
       "num": 75298,
       "word": "如何评价韩剧财阀家的小儿子",
@@ -45473,6 +45489,14 @@
       "onboard_time": 1670051711,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 72326,
+      "num": 72326,
+      "word": "到底什么状态才适合结婚",
+      "onboard_time": 1671554240,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 71857,
