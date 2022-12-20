@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1671528821467,
+  "endTime": 1671531636152,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -2227,6 +2227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1708879,
+      "num": 523471,
+      "word": "微博崩了",
+      "onboard_time": 1671530729,
+      "rank": 10,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1695237,
       "num": 1181116,
       "word": "韩国队被打花了",
@@ -3467,6 +3475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1302339,
+      "num": 1302339,
+      "word": "快递布洛芬竟然变衣服",
+      "onboard_time": 1671525212,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1302000,
       "num": 1302000,
       "word": "梅西生来为了阿根廷的冠军",
@@ -3776,14 +3792,6 @@
       "word": "怀孕27周女子分享阳了后体验",
       "onboard_time": 1670806267,
       "rank": 3,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1249236,
-      "num": 1249236,
-      "word": "快递布洛芬竟然变衣服",
-      "onboard_time": 1671525212,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -6867,6 +6875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 831996,
+      "num": 831996,
+      "word": "湖南卫视跨年晚会官宣",
+      "onboard_time": 1671527789,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 831906,
       "num": 831906,
       "word": "郑州花园路",
@@ -8691,6 +8707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 700721,
+      "num": 700721,
+      "word": "FPX输给主播队",
+      "onboard_time": 1671529892,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 699959,
       "num": 699959,
       "word": "爱的二八定律",
@@ -8745,14 +8769,6 @@
       "onboard_time": 1670905151,
       "rank": 35,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 696685,
-      "num": 696685,
-      "word": "湖南卫视跨年晚会官宣",
-      "onboard_time": 1671527789,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 696631,
@@ -9793,6 +9809,14 @@
       "onboard_time": 1670152213,
       "rank": 39,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 650624,
+      "num": 513608,
+      "word": "东方卫视认证赵丽颖幸福到万家收视剧王",
+      "onboard_time": 1671530551,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 650619,
@@ -17179,6 +17203,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 392293,
+      "num": 392293,
+      "word": "山东婆家撒钱让新娘扫地",
+      "onboard_time": 1671530192,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 392122,
       "num": 392122,
       "word": "王一博GQ上班路透VSGQ下班路透",
@@ -17913,6 +17945,14 @@
       "onboard_time": 1670373729,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 372615,
+      "num": 372615,
+      "word": "杨幂给华晨宇新专辑打call",
+      "onboard_time": 1671529300,
+      "rank": 17,
+      "category": "音乐"
     },
     {
       "raw_hot": 372506,
@@ -19321,6 +19361,14 @@
       "onboard_time": 1671195752,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 341535,
+      "num": 341535,
+      "word": "不主张不建议故意去感染新冠病毒",
+      "onboard_time": 1671526712,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 341503,
@@ -22065,6 +22113,14 @@
       "onboard_time": 1671168572,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 296509,
+      "num": 296509,
+      "word": "排骨焖面是来报恩的吧",
+      "onboard_time": 1671529059,
+      "rank": 21,
+      "category": "美食"
     },
     {
       "raw_hot": 296261,
@@ -25107,14 +25163,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 252896,
-      "num": 252896,
-      "word": "不主张不建议故意去感染新冠病毒",
-      "onboard_time": 1671526712,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 252891,
       "num": 252891,
       "word": "近八成人长时间内不会重复感染奥密克戎",
@@ -26715,6 +26763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 233950,
+      "num": 233950,
+      "word": "东北在做一种很新的冰糖葫芦",
+      "onboard_time": 1671529600,
+      "rank": 26,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 233844,
       "num": 158107,
       "word": "陈飞宇希望被观众记住饰演的角色",
@@ -26907,6 +26963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 231660,
+      "num": 231660,
+      "word": "猫咪偷喝杯中水宝鹃嗓主人能有多慌",
+      "onboard_time": 1671529831,
+      "rank": 27,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 231521,
       "num": 651484,
       "word": "北京昨增384例社会面",
@@ -26919,6 +26983,14 @@
       "num": 250118,
       "word": "中国人寿客服回应新冠阳性不理赔",
       "onboard_time": 1671097233,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 231210,
+      "num": 231210,
+      "word": "咽喉疼咳嗽带血怎么办",
+      "onboard_time": 1671530672,
       "rank": 28,
       "category": "社会新闻"
     },
@@ -27033,6 +27105,14 @@
       "onboard_time": 1671255089,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 230410,
+      "num": 229991,
+      "word": "2022最惊艳的古装剧女主",
+      "onboard_time": 1671529059,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 230382,
@@ -27569,6 +27649,14 @@
       "onboard_time": 1671203550,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 223928,
+      "num": 223928,
+      "word": "车保罗的人生经历",
+      "onboard_time": 1671529831,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 223903,
@@ -28433,6 +28521,14 @@
       "onboard_time": 1671378397,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 213998,
+      "num": 213998,
+      "word": "女子阳性躺厨房门口指导老公做饭",
+      "onboard_time": 1671530129,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 213913,
@@ -29537,6 +29633,14 @@
       "onboard_time": 1670692756,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 200987,
+      "num": 170014,
+      "word": "王嘉尔的海外影响力",
+      "onboard_time": 1671530853,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 200747,
@@ -33585,6 +33689,14 @@
       "onboard_time": 1670329030,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 171325,
+      "num": 171325,
+      "word": "小猫怎么还有远光灯",
+      "onboard_time": 1671531090,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 171238,
@@ -40321,6 +40433,14 @@
       "onboard_time": 1670919372,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 125871,
+      "num": 125871,
+      "word": "贵州才是土豆星人的天堂",
+      "onboard_time": 1671529424,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 125856,

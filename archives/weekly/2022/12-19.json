@@ -1,6 +1,6 @@
 {
   "startTime": 1671380618877,
-  "endTime": 1671528821467,
+  "endTime": 1671531636152,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -299,6 +299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1708879,
+      "num": 523471,
+      "word": "微博崩了",
+      "onboard_time": 1671530729,
+      "rank": 10,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1678446,
       "num": 1678446,
       "word": "阳性期间身上痒千万别不当回事",
@@ -435,6 +443,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 1302339,
+      "num": 1302339,
+      "word": "快递布洛芬竟然变衣服",
+      "onboard_time": 1671525212,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1302000,
       "num": 1302000,
       "word": "梅西生来为了阿根廷的冠军",
@@ -496,14 +512,6 @@
       "word": "以岭药业称连花清瘟可与布洛芬联用",
       "onboard_time": 1671500551,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1249236,
-      "num": 1249236,
-      "word": "快递布洛芬竟然变衣服",
-      "onboard_time": 1671525212,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -819,6 +827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 831996,
+      "num": 831996,
+      "word": "湖南卫视跨年晚会官宣",
+      "onboard_time": 1671527789,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 811277,
       "num": 811277,
       "word": "多批布洛芬运达北京发往各区",
@@ -1003,12 +1019,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 696685,
-      "num": 696685,
-      "word": "湖南卫视跨年晚会官宣",
-      "onboard_time": 1671527789,
-      "rank": 33,
-      "category": "综艺"
+      "raw_hot": 700721,
+      "num": 700721,
+      "word": "FPX输给主播队",
+      "onboard_time": 1671529892,
+      "rank": 8,
+      "category": "游戏"
     },
     {
       "raw_hot": 696631,
@@ -1129,6 +1145,14 @@
       "onboard_time": 1671448472,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 650624,
+      "num": 513608,
+      "word": "东方卫视认证赵丽颖幸福到万家收视剧王",
+      "onboard_time": 1671530551,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 649167,
@@ -1699,6 +1723,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 392293,
+      "num": 392293,
+      "word": "山东婆家撒钱让新娘扫地",
+      "onboard_time": 1671530192,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 390337,
       "num": 372513,
       "word": "新冠死亡的判断标准是什么",
@@ -1777,6 +1809,14 @@
       "onboard_time": 1671361651,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 372615,
+      "num": 372615,
+      "word": "杨幂给华晨宇新专辑打call",
+      "onboard_time": 1671529300,
+      "rank": 17,
+      "category": "音乐"
     },
     {
       "raw_hot": 369786,
@@ -1961,6 +2001,14 @@
       "onboard_time": 1671405382,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 341535,
+      "num": 341535,
+      "word": "不主张不建议故意去感染新冠病毒",
+      "onboard_time": 1671526712,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 339941,
@@ -2185,6 +2233,14 @@
       "onboard_time": 1671420632,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 296509,
+      "num": 296509,
+      "word": "排骨焖面是来报恩的吧",
+      "onboard_time": 1671529059,
+      "rank": 21,
+      "category": "美食"
     },
     {
       "raw_hot": 296069,
@@ -2539,14 +2595,6 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 252896,
-      "num": 252896,
-      "word": "不主张不建议故意去感染新冠病毒",
-      "onboard_time": 1671526712,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 252548,
       "num": 252548,
       "word": "郑州倡议市民参与外卖跑腿配送",
@@ -2699,6 +2747,38 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 233950,
+      "num": 233950,
+      "word": "东北在做一种很新的冰糖葫芦",
+      "onboard_time": 1671529600,
+      "rank": 26,
+      "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 231660,
+      "num": 231660,
+      "word": "猫咪偷喝杯中水宝鹃嗓主人能有多慌",
+      "onboard_time": 1671529831,
+      "rank": 27,
+      "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 231210,
+      "num": 231210,
+      "word": "咽喉疼咳嗽带血怎么办",
+      "onboard_time": 1671530672,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 230410,
+      "num": 229991,
+      "word": "2022最惊艳的古装剧女主",
+      "onboard_time": 1671529059,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 230382,
       "num": 230382,
       "word": "费曼说不要误会不是说在座的各位",
@@ -2747,6 +2827,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 223928,
+      "num": 223928,
+      "word": "车保罗的人生经历",
+      "onboard_time": 1671529831,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 222943,
       "num": 220212,
       "word": "张钧甯都市摩登大片",
@@ -2793,6 +2881,14 @@
       "onboard_time": 1671378397,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 213998,
+      "num": 213998,
+      "word": "女子阳性躺厨房门口指导老公做饭",
+      "onboard_time": 1671530129,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 213804,
@@ -2929,6 +3025,14 @@
       "onboard_time": 1671372455,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 200987,
+      "num": 170014,
+      "word": "王嘉尔的海外影响力",
+      "onboard_time": 1671530853,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 199950,
@@ -3321,6 +3425,14 @@
       "onboard_time": 1671449249,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 171325,
+      "num": 171325,
+      "word": "小猫怎么还有远光灯",
+      "onboard_time": 1671531090,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 170743,
@@ -4033,6 +4145,14 @@
       "onboard_time": 1671448411,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 125871,
+      "num": 125871,
+      "word": "贵州才是土豆星人的天堂",
+      "onboard_time": 1671529424,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 125773,
