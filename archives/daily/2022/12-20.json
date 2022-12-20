@@ -1,7 +1,31 @@
 {
   "startTime": 1671467268319,
-  "endTime": 1671492819510,
+  "endTime": 1671499615952,
   "band_list": [
+    {
+      "raw_hot": 2698836,
+      "num": 1177895,
+      "word": "姨妈期杀疯了的免疫系统",
+      "onboard_time": 1671493282,
+      "rank": 3,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 1622859,
+      "num": 1622859,
+      "word": "小红书成人使用美林攻略引争议",
+      "onboard_time": 1671492621,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1516930,
+      "num": 1516930,
+      "word": "多地宣布无症状和轻症可正常上班",
+      "onboard_time": 1671496167,
+      "rank": 1,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1430219,
       "num": 1430219,
@@ -11,12 +35,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1110574,
+      "num": 1110574,
+      "word": "阿根廷全国放假1天",
+      "onboard_time": 1671495629,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 953216,
+      "num": 953216,
+      "word": "梅西飞机上晒与大力神杯合影",
+      "onboard_time": 1671495325,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 877450,
       "num": 877450,
       "word": "梅西抱的不是母亲是阿根廷队女厨师",
       "onboard_time": 1671464010,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 755311,
+      "num": 755311,
+      "word": "产妇突然临盆好在助产士多看了一眼",
+      "onboard_time": 1671496289,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 741117,
@@ -35,12 +83,28 @@
       "category": "情感,艺人"
     },
     {
+      "raw_hot": 705775,
+      "num": 705775,
+      "word": "如何区分复阳和二次感染",
+      "onboard_time": 1671494667,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 651501,
       "num": 651501,
       "word": "本泽马宣布退出法国国家队",
       "onboard_time": 1671462151,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 453612,
+      "num": 453612,
+      "word": "想见你",
+      "onboard_time": 1671499470,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 430143,
@@ -75,6 +139,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 409796,
+      "num": 409796,
+      "word": "大马丁回应庆祝动作称因为法国人嘘他",
+      "onboard_time": 1671495205,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 399328,
       "num": 399328,
       "word": "建议将新冠肺炎概念分为三类",
@@ -107,6 +179,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 322047,
+      "num": 322047,
+      "word": "山东考研生阳性后不需再测核酸",
+      "onboard_time": 1671491658,
+      "rank": 45,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 305877,
+      "num": 305877,
+      "word": "男生打游戏和不打游戏的区别",
+      "onboard_time": 1671491840,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 280000,
       "num": 280000,
       "word": "各地疫情走势与大数据预测基本一致",
@@ -129,6 +217,46 @@
       "onboard_time": 1671464548,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 273694,
+      "num": 273694,
+      "word": "出现刀片嗓等症状应该如何缓解",
+      "onboard_time": 1671497672,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 255211,
+      "num": 255211,
+      "word": "原来无毛猫也会长毛",
+      "onboard_time": 1671493885,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 253144,
+      "num": 253144,
+      "word": "阿根廷总统庆祝夺冠",
+      "onboard_time": 1671497009,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 252548,
+      "num": 252548,
+      "word": "郑州倡议市民参与外卖跑腿配送",
+      "onboard_time": 1671480193,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 249465,
+      "num": 249465,
+      "word": "王广发说一两周内会迎来重症高峰",
+      "onboard_time": 1671496228,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 241769,
@@ -171,14 +299,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 193647,
-      "num": 193647,
-      "word": "郑州倡议市民参与外卖跑腿配送",
-      "onboard_time": 1671480193,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 193036,
       "num": 193036,
       "word": "专家辟谣转阴15天后才会产生抗体",
@@ -203,12 +323,28 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 185457,
+      "num": 160127,
+      "word": "警方通报女子称考核酸检测证没上岗就失业",
+      "onboard_time": 1671498931,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 178109,
       "num": 178109,
       "word": "克罗地亚回国受震撼欢迎",
       "onboard_time": 1671448472,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 163663,
+      "num": 163663,
+      "word": "布洛芬和对乙酰氨基酚有什么区别",
+      "onboard_time": 1671497310,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 161968,
@@ -227,12 +363,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 160962,
-      "num": 81328,
-      "word": "山东考研生阳性后不需再测核酸",
-      "onboard_time": 1671491658,
-      "rank": 45,
-      "category": "教育,社会新闻"
+      "raw_hot": 161023,
+      "num": 161023,
+      "word": "10岁男孩给共享药箱送去10颗布洛芬",
+      "onboard_time": 1671492080,
+      "rank": 32,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 159956,
@@ -243,12 +379,12 @@
       "category": "科技,财经"
     },
     {
-      "raw_hot": 158678,
-      "num": 80880,
-      "word": "男生打游戏和不打游戏的区别",
-      "onboard_time": 1671491840,
-      "rank": 49,
-      "category": "幽默"
+      "raw_hot": 158951,
+      "num": 158951,
+      "word": "今天再听一次七子之歌",
+      "onboard_time": 1671497849,
+      "rank": 31,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 145779,
@@ -299,6 +435,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 140573,
+      "num": 140573,
+      "word": "长沙简直就是夜市天堂",
+      "onboard_time": 1671498570,
+      "rank": 32,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 140272,
+      "num": 140272,
+      "word": "范丞丞李铢衔打台球",
+      "onboard_time": 1671495807,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 137621,
       "num": 137621,
       "word": "微信键盘发布正式版",
@@ -313,6 +465,14 @@
       "onboard_time": 1671441748,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 134002,
+      "num": 134002,
+      "word": "平均服役27年这六位兵王把兵当到极致",
+      "onboard_time": 1671494065,
+      "rank": 37,
+      "category": "军事"
     },
     {
       "raw_hot": 133722,
@@ -331,20 +491,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 125449,
+      "num": 125449,
+      "word": "邓超说孙俪女貌啊",
+      "onboard_time": 1671460354,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 122551,
       "num": 122551,
       "word": "赵樱子演过倚天黄衫女",
       "onboard_time": 1671458850,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 121869,
-      "num": 121869,
-      "word": "邓超说孙俪女貌啊",
-      "onboard_time": 1671460354,
-      "rank": 46,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 120260,
@@ -371,12 +531,28 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 114361,
+      "num": 114361,
+      "word": "在憋笑中逐渐丧失勇气的猫",
+      "onboard_time": 1671492860,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 113745,
       "num": 113745,
       "word": "一下子解决了我三十年的困惑",
       "onboard_time": 1671462211,
       "rank": 38,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 113322,
+      "num": 113322,
+      "word": "不同姿势的布洛芬有啥区别",
+      "onboard_time": 1671496890,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 112381,
@@ -393,6 +569,14 @@
       "onboard_time": 1671451172,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 111258,
+      "num": 111258,
+      "word": "男童哭着戴护具坚持要照顾阳性爸爸",
+      "onboard_time": 1671499347,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 110607,
@@ -435,12 +619,20 @@
       "category": "美食"
     },
     {
-      "raw_hot": 90243,
-      "num": 80617,
-      "word": "10岁男孩给共享药箱送去10颗布洛芬",
-      "onboard_time": 1671492080,
-      "rank": 32,
-      "category": "社会正能量"
+      "raw_hot": 103129,
+      "num": 103129,
+      "word": "中俄将举行海上联合军演",
+      "onboard_time": 1671498331,
+      "rank": 46,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 100441,
+      "num": 100441,
+      "word": "祝福澳门明天会更好",
+      "onboard_time": 1671493644,
+      "rank": 48,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 84124,
@@ -465,14 +657,6 @@
       "onboard_time": 1671492019,
       "rank": 35,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 72544,
-      "num": 72544,
-      "word": "小红书成人使用美林攻略引争议",
-      "onboard_time": 1671492621,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 69490,
@@ -531,8 +715,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 34870,
-      "num": 739362,
+      "raw_hot": 42281,
+      "num": 1200291,
       "word": "感染新冠康复后的注意事项",
       "onboard_time": 1671432271,
       "rank": 2,
