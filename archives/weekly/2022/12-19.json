@@ -1,6 +1,6 @@
 {
   "startTime": 1671380618877,
-  "endTime": 1671578294832,
+  "endTime": 1671579225129,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -435,6 +435,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 1448700,
+      "num": 1448700,
+      "word": "专家称重复感染死亡风险翻倍",
+      "onboard_time": 1671548550,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1442259,
       "num": 1442259,
       "word": "姆巴佩本届进球数反超梅西",
@@ -553,14 +561,6 @@
       "onboard_time": 1671459810,
       "rank": 30,
       "category": "情感,艺人"
-    },
-    {
-      "raw_hot": 1193262,
-      "num": 1193262,
-      "word": "专家称重复感染死亡风险翻倍",
-      "onboard_time": 1671548550,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1161358,
@@ -1929,6 +1929,14 @@
       "onboard_time": 1671471795,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 423833,
+      "num": 217357,
+      "word": "全国现在一天消耗4亿片布洛芬",
+      "onboard_time": 1671578058,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 415844,
@@ -3307,6 +3315,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 217702,
+      "num": 217702,
+      "word": "河源地震",
+      "onboard_time": 1671578299,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 217536,
       "num": 217536,
       "word": "邓超说孙俪女貌啊",
@@ -3329,6 +3345,14 @@
       "onboard_time": 1671416611,
       "rank": 47,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 213675,
+      "num": 213675,
+      "word": "你是哪种株",
+      "onboard_time": 1671576195,
+      "rank": 14,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 213137,
@@ -4484,7 +4508,7 @@
     },
     {
       "raw_hot": 144855,
-      "num": 69779,
+      "num": 106894,
       "word": "陶昕然回应大家嗓子像安陵容",
       "onboard_time": 1671577576,
       "rank": 30,
@@ -4787,6 +4811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 128783,
+      "num": 128783,
+      "word": "德保罗才是梅西的定海神针",
+      "onboard_time": 1671556580,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 128491,
       "num": 128491,
       "word": "2022是怎样一段时光",
@@ -4841,14 +4873,6 @@
       "onboard_time": 1671438808,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 125695,
-      "num": 125695,
-      "word": "你是哪种株",
-      "onboard_time": 1671576195,
-      "rank": 14,
-      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 124554,
@@ -5043,14 +5067,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 106930,
-      "num": 106930,
-      "word": "德保罗才是梅西的定海神针",
-      "onboard_time": 1671556580,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 106844,
       "num": 87772,
       "word": "王鹤棣介绍自己品牌理念",
@@ -5113,6 +5129,14 @@
       "onboard_time": 1671376470,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 103327,
+      "num": 103327,
+      "word": "深圳震感",
+      "onboard_time": 1671578600,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 103129,
@@ -5355,14 +5379,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 61919,
-      "num": 61919,
-      "word": "全国现在一天消耗4亿片布洛芬",
-      "onboard_time": 1671578058,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 59851,
       "num": 59851,
       "word": "巴萨",
@@ -5387,20 +5403,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 53965,
+      "num": 53965,
+      "word": "我和我的2022男友们",
+      "onboard_time": 1671561973,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 51180,
       "num": 51180,
       "word": "新疆冬天水果车长什么样子",
       "onboard_time": 1671469579,
       "rank": 48,
       "category": "美食"
-    },
-    {
-      "raw_hot": 50021,
-      "num": 50021,
-      "word": "我和我的2022男友们",
-      "onboard_time": 1671561973,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 44565,

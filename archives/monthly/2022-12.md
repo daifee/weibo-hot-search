@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/12/01 00:28:49 ~ 2022/12/21 07:18:14
+本榜单时间：2022/12/01 00:28:49 ~ 2022/12/21 07:33:45
 </p>
 </blockquote>
 <p>
@@ -2259,6 +2259,12 @@ NMIXX成员JINNI退团（热度：1508200）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E9%87%8D%E5%A4%8D%E6%84%9F%E6%9F%93%E6%AD%BB%E4%BA%A1%E9%A3%8E%E9%99%A9%E7%BF%BB%E5%80%8D%23" target="weibo">
+专家称重复感染死亡风险翻倍（热度：1448700）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%A1%E5%A1%94%E5%B0%94%E5%B7%B2%E7%BB%8F%E5%BC%80%E5%A7%8B%E6%8B%86%E7%90%83%E5%9C%BA%E4%BA%86%23" target="weibo">
 卡塔尔已经开始拆球场了（热度：1447562）
 </a>
@@ -3023,12 +3029,6 @@ A股109家新冠检测概念公司净赚854亿（热度：1290299）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AA%81%E5%B0%BC%E6%96%AFvs%E6%B3%95%E5%9B%BD%23" target="weibo">
 突尼斯vs法国（热度：1199361）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E9%87%8D%E5%A4%8D%E6%84%9F%E6%9F%93%E6%AD%BB%E4%BA%A1%E9%A3%8E%E9%99%A9%E7%BF%BB%E5%80%8D%23" target="weibo">
-专家称重复感染死亡风险翻倍（热度：1193262）
 </a>
 </li>
 
