@@ -1,0 +1,410 @@
+{
+  "runTime": 1671575601105,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 567845,
+        "num": 567845,
+        "word": "专家称重复感染死亡风险翻倍",
+        "onboard_time": 1671548550,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250236,
+        "num": 250236,
+        "word": "马来西亚立法禁止女性穿男装",
+        "onboard_time": 1671553402,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47029,
+        "num": 169920,
+        "word": "如何科学止咳",
+        "onboard_time": 1671539971,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169123,
+        "num": 169123,
+        "word": "阳了的前期症状是嚣张跋扈",
+        "onboard_time": 1671542255,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141016,
+        "num": 141016,
+        "word": "车保罗已离开无限超越班",
+        "onboard_time": 1671549809,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131754,
+        "num": 131754,
+        "word": "为什么退烧后咳嗽会加重",
+        "onboard_time": 1671567373,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122412,
+        "num": 122412,
+        "word": "阳了后可以洗澡吗",
+        "onboard_time": 1671533429,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110427,
+        "num": 110427,
+        "word": "张文宏称第一批次疫苗难阻再次感染",
+        "onboard_time": 1671547829,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108111,
+        "num": 108111,
+        "word": "布洛芬对乙酰氨基酚产能正逐步释放",
+        "onboard_time": 1671553882,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96753,
+        "num": 96753,
+        "word": "N95口罩佩戴时间不要太长",
+        "onboard_time": 1671537632,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93140,
+        "num": 93140,
+        "word": "快递布洛芬竟然变衣服",
+        "onboard_time": 1671525212,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82915,
+        "num": 82915,
+        "word": "车保罗",
+        "onboard_time": 1671549330,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 81315,
+        "num": 81315,
+        "word": "女孩是家里唯一阴性被反向隔离",
+        "onboard_time": 1671548309,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71927,
+        "num": 71927,
+        "word": "韩国男子摸继女屁股引众怒",
+        "onboard_time": 1671543933,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62392,
+        "num": 62392,
+        "word": "宝妈跑多家药店买不到布洛芬女儿找到",
+        "onboard_time": 1671539672,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62285,
+        "num": 62285,
+        "word": "复阳通常发生在阳康后一个月内",
+        "onboard_time": 1671537570,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62159,
+        "num": 62159,
+        "word": "睡眠就是最好的补药",
+        "onboard_time": 1671542734,
+        "rank": 16,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 61753,
+        "num": 61753,
+        "word": "1岁女孩高烧39度警车5分钟送医",
+        "onboard_time": 1671542314,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59119,
+        "num": 59119,
+        "word": "布洛芬退烧不可连用超3天",
+        "onboard_time": 1671566772,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55350,
+        "num": 55350,
+        "word": "到底什么状态才适合结婚",
+        "onboard_time": 1671554240,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 53040,
+        "num": 53040,
+        "word": "女子告发辅警猥亵被关精神病院",
+        "onboard_time": 1671539431,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52619,
+        "num": 52619,
+        "word": "梅西睡觉都抱着大力神杯",
+        "onboard_time": 1671536852,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 52072,
+        "num": 52072,
+        "word": "20岁女子回家发现爸妈生了二胎弟弟",
+        "onboard_time": 1671531631,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51862,
+        "num": 51862,
+        "word": "阿凡达2票房不及预期迪士尼大跌",
+        "onboard_time": 1671549928,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 46691,
+        "num": 46691,
+        "word": "德保罗才是梅西的定海神针",
+        "onboard_time": 1671556580,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43294,
+        "num": 43294,
+        "word": "孩子发烧一出被窝全身烟雾缭绕",
+        "onboard_time": 1671534633,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39491,
+        "num": 39491,
+        "word": "我国多地已发现BQ.1和XBB分支",
+        "onboard_time": 1671524612,
+        "rank": 26,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 38627,
+        "num": 38627,
+        "word": "布洛芬缓释主要用于缓解疼痛",
+        "onboard_time": 1671538173,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37008,
+        "num": 37008,
+        "word": "易烊千玺拍的瑰丽山海",
+        "onboard_time": 1671544893,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35518,
+        "num": 35518,
+        "word": "刘畊宏教卡塔尔小王子跳本草纲目",
+        "onboard_time": 1671544172,
+        "rank": 29,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 34888,
+        "num": 34888,
+        "word": "N95口罩价格为何一涨再涨",
+        "onboard_time": 1671551607,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34649,
+        "num": 34649,
+        "word": "只有许魏洲选了车保罗",
+        "onboard_time": 1671550169,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33702,
+        "num": 33702,
+        "word": "宝宝把3枚钉子精准插入电门",
+        "onboard_time": 1671538050,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31450,
+        "num": 31450,
+        "word": "幼童被保姆留在电梯坠亡后的100天",
+        "onboard_time": 1671537570,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29428,
+        "num": 29428,
+        "word": "大狗咬碎苹果喂给隔辈狗宝宝",
+        "onboard_time": 1671540212,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28570,
+        "num": 28570,
+        "word": "赵露思说以后应该不会演校园剧了",
+        "onboard_time": 1671533129,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 28275,
+        "num": 28275,
+        "word": "考研前一周阳了怎么办",
+        "onboard_time": 1671539310,
+        "rank": 36,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 28019,
+        "num": 28019,
+        "word": "王一博比耶转场视频",
+        "onboard_time": 1671539553,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27550,
+        "num": 27550,
+        "word": "Lisa不做手术是为了赚钱支持艾威",
+        "onboard_time": 1671533972,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27445,
+        "num": 27445,
+        "word": "王鹤棣介绍自己品牌理念",
+        "onboard_time": 1671547771,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25703,
+        "num": 25703,
+        "word": "工作室回应范世錡没有选择鹿鼎记",
+        "onboard_time": 1671544172,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24619,
+        "num": 24619,
+        "word": "我和我的2022男友们",
+        "onboard_time": 1671561973,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 23513,
+        "num": 23513,
+        "word": "伊甸园",
+        "onboard_time": 1671546511,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23433,
+        "num": 23433,
+        "word": "女生背考研重点背到崩溃抹眼泪坚持",
+        "onboard_time": 1671533012,
+        "rank": 43,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 22329,
+        "num": 22329,
+        "word": "阳了仍得指导天选做饭人",
+        "onboard_time": 1671546511,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 21967,
+        "num": 21967,
+        "word": "2022的顶级BE美学",
+        "onboard_time": 1671557299,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 20374,
+        "num": 20374,
+        "word": "再开门就是别人的青春了",
+        "onboard_time": 1671553043,
+        "rank": 46,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 19843,
+        "num": 19843,
+        "word": "李白新皮肤念了多少诗",
+        "onboard_time": 1671547112,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 19737,
+        "num": 19737,
+        "word": "capper直播",
+        "onboard_time": 1671553704,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19609,
+        "num": 19609,
+        "word": "阴阳师臻藏新系列皮肤",
+        "onboard_time": 1671542131,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#支持香港澳门更好融入国家发展大局#"
+    }
+  }
+}
