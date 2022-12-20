@@ -1,6 +1,6 @@
 {
   "startTime": 1671380618877,
-  "endTime": 1671567556557,
+  "endTime": 1671568428738,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -5363,6 +5363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 42948,
+      "num": 42948,
+      "word": "布洛芬退烧不可连用超3天",
+      "onboard_time": 1671566772,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 42496,
       "num": 42496,
       "word": "当我阳了后狗子们的反应",
@@ -5395,20 +5403,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 32125,
+      "num": 32125,
+      "word": "为什么退烧后咳嗽会加重",
+      "onboard_time": 1671567373,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29978,
       "num": 29978,
       "word": "县委大院医院院长要工资搞笑场面",
       "onboard_time": 1671559576,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 27426,
-      "num": 27426,
-      "word": "布洛芬退烧不可连用超3天",
-      "onboard_time": 1671566772,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 20664,
@@ -5433,14 +5441,6 @@
       "onboard_time": 1671563233,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 16626,
-      "num": 16626,
-      "word": "为什么退烧后咳嗽会加重",
-      "onboard_time": 1671567373,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 14313,
