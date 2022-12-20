@@ -1,6 +1,6 @@
 {
   "startTime": 1671553616280,
-  "endTime": 1671568428738,
+  "endTime": 1671570964991,
   "band_list": [
     {
       "raw_hot": 1536458,
@@ -355,6 +355,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 95762,
+      "num": 95762,
+      "word": "为什么退烧后咳嗽会加重",
+      "onboard_time": 1671567373,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 93591,
       "num": 93591,
       "word": "德保罗才是梅西的定海神针",
@@ -459,6 +467,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 76027,
+      "num": 76027,
+      "word": "布洛芬退烧不可连用超3天",
+      "onboard_time": 1671566772,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 67634,
       "num": 67634,
       "word": "男子科三挂科后崩溃自扇耳光",
@@ -473,22 +489,6 @@
       "onboard_time": 1671560534,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 42948,
-      "num": 42948,
-      "word": "布洛芬退烧不可连用超3天",
-      "onboard_time": 1671566772,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 32125,
-      "num": 32125,
-      "word": "为什么退烧后咳嗽会加重",
-      "onboard_time": 1671567373,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 29978,
