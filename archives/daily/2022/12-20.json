@@ -1,6 +1,6 @@
 {
   "startTime": 1671467268319,
-  "endTime": 1671540772061,
+  "endTime": 1671542568627,
   "band_list": [
     {
       "raw_hot": 2854956,
@@ -107,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1547810,
+      "num": 1547810,
+      "word": "N95口罩佩戴时间不要太长",
+      "onboard_time": 1671537632,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1430219,
       "num": 1430219,
       "word": "目前还没阳性的人的生活状态",
@@ -129,14 +137,6 @@
       "onboard_time": 1671521612,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1380414,
-      "num": 1380414,
-      "word": "N95口罩佩戴时间不要太长",
-      "onboard_time": 1671537632,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1307526,
@@ -179,6 +179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1059965,
+      "num": 1059965,
+      "word": "梅西睡觉都抱着大力神杯",
+      "onboard_time": 1671536852,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1013618,
       "num": 1013618,
       "word": "Lisa不做手术是为了赚钱支持艾威",
@@ -211,20 +219,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 933566,
+      "num": 933566,
+      "word": "复阳通常发生在阳康后一个月内",
+      "onboard_time": 1671537570,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 905748,
       "num": 905748,
       "word": "榜一大哥连骗7名女主播40万",
       "onboard_time": 1671518309,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 900991,
-      "num": 900991,
-      "word": "梅西睡觉都抱着大力神杯",
-      "onboard_time": 1671536852,
-      "rank": 6,
-      "category": "体育"
     },
     {
       "raw_hot": 895896,
@@ -331,14 +339,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 740733,
-      "num": 740733,
-      "word": "复阳通常发生在阳康后一个月内",
-      "onboard_time": 1671537570,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 738909,
       "num": 738909,
       "word": "得了新冠疯狂放屁的不只小岳岳",
@@ -361,6 +361,14 @@
       "onboard_time": 1671511228,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 713649,
+      "num": 713649,
+      "word": "考研前一周阳了怎么办",
+      "onboard_time": 1671539310,
+      "rank": 43,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 706657,
@@ -403,6 +411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 692834,
+      "num": 603461,
+      "word": "宝妈跑多家药店买不到布洛芬女儿找到",
+      "onboard_time": 1671539672,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 690055,
       "num": 690055,
       "word": "吴镇宇的嘴是抹了鹤顶红吗",
@@ -417,6 +433,14 @@
       "onboard_time": 1671521370,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 675010,
+      "num": 675010,
+      "word": "女子告发辅警猥亵被关精神病院",
+      "onboard_time": 1671539431,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 664258,
@@ -539,12 +563,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 515513,
-      "num": 515513,
-      "word": "考研前一周阳了怎么办",
-      "onboard_time": 1671539310,
-      "rank": 43,
-      "category": "社会新闻,教育"
+      "raw_hot": 498989,
+      "num": 498989,
+      "word": "宝宝把3枚钉子精准插入电门",
+      "onboard_time": 1671538050,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 485388,
+      "num": 485388,
+      "word": "布洛芬缓释主要用于缓解疼痛",
+      "onboard_time": 1671538173,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 483593,
@@ -579,6 +611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 468221,
+      "num": 468221,
+      "word": "李泽言",
+      "onboard_time": 1671541113,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 467985,
       "num": 467985,
       "word": "玄彬留了胡子",
@@ -591,6 +631,14 @@
       "num": 465721,
       "word": "幼童被保姆留在电梯坠亡后的100天",
       "onboard_time": 1671537570,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 452323,
+      "num": 439010,
+      "word": "吴冠英",
+      "onboard_time": 1671541351,
       "rank": 18,
       "category": "社会新闻"
     },
@@ -609,14 +657,6 @@
       "onboard_time": 1671512553,
       "rank": 35,
       "category": "科技"
-    },
-    {
-      "raw_hot": 447651,
-      "num": 447651,
-      "word": "宝宝把3枚钉子精准插入电门",
-      "onboard_time": 1671538050,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 439588,
@@ -803,14 +843,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 364157,
-      "num": 364157,
-      "word": "女子告发辅警猥亵被关精神病院",
-      "onboard_time": 1671539431,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 354892,
       "num": 354892,
       "word": "2023东方卫视开放大会",
@@ -865,14 +897,6 @@
       "onboard_time": 1671508168,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 349603,
-      "num": 349603,
-      "word": "布洛芬缓释主要用于缓解疼痛",
-      "onboard_time": 1671538173,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 349445,
@@ -937,6 +961,14 @@
       "onboard_time": 1671517410,
       "rank": 48,
       "category": "科技"
+    },
+    {
+      "raw_hot": 323634,
+      "num": 323634,
+      "word": "陈哲远沈月合唱像开了甜蜜buff",
+      "onboard_time": 1671540514,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 322047,
@@ -1083,14 +1115,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 274675,
-      "num": 274675,
-      "word": "宝妈跑多家药店买不到布洛芬女儿找到",
-      "onboard_time": 1671539672,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 274649,
       "num": 274649,
       "word": "赵露思加盟东方卫视跨年盛典",
@@ -1211,6 +1235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 241845,
+      "num": 1206184,
+      "word": "如何科学止咳",
+      "onboard_time": 1671539971,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 241769,
       "num": 241769,
       "word": "当老公突然叫你宝贝",
@@ -1265,6 +1297,14 @@
       "onboard_time": 1671529831,
       "rank": 27,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 233243,
+      "num": 233243,
+      "word": "珠海一药厂门口市民排长队买药",
+      "onboard_time": 1671537032,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 231571,
@@ -1323,6 +1363,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 221544,
+      "num": 221544,
+      "word": "刘畊宏 不直播",
+      "onboard_time": 1671538470,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 218959,
       "num": 218959,
       "word": "光遇",
@@ -1331,12 +1379,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 212827,
-      "num": 212827,
-      "word": "陈哲远沈月合唱像开了甜蜜buff",
-      "onboard_time": 1671540514,
-      "rank": 30,
-      "category": "影视"
+      "raw_hot": 212658,
+      "num": 212658,
+      "word": "阴阳师臻藏新系列皮肤",
+      "onboard_time": 1671542131,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 212616,
@@ -1352,6 +1400,14 @@
       "word": "正确漱口洗鼻子可缓解阳后症状",
       "onboard_time": 1671505651,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 210700,
+      "num": 210700,
+      "word": "大狗咬碎苹果喂给隔辈狗宝宝",
+      "onboard_time": 1671540212,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -1425,14 +1481,6 @@
       "onboard_time": 1671523474,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 196030,
-      "num": 196030,
-      "word": "珠海一药厂门口市民排长队买药",
-      "onboard_time": 1671537032,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 195170,
@@ -1547,6 +1595,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 179127,
+      "num": 179127,
+      "word": "许光汉说电影版想见你比剧版烧脑",
+      "onboard_time": 1671540812,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 178109,
       "num": 178109,
       "word": "克罗地亚回国受震撼欢迎",
@@ -1587,6 +1643,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 174713,
+      "num": 174713,
+      "word": "不要乱给家里老人买电器",
+      "onboard_time": 1671540033,
+      "rank": 39,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 173988,
       "num": 173988,
       "word": "王鹤棣说不担心大家贴标签",
@@ -1599,6 +1663,14 @@
       "num": 173660,
       "word": "女法医JD收官",
       "onboard_time": 1671534753,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 172031,
+      "num": 157963,
+      "word": "县委大院林志为酒后吐真言",
+      "onboard_time": 1671541712,
       "rank": 41,
       "category": "影视"
     },
@@ -1875,14 +1947,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 137388,
-      "num": 137388,
-      "word": "不要乱给家里老人买电器",
-      "onboard_time": 1671540033,
-      "rank": 39,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 137153,
       "num": 140837,
       "word": "可以去跟李云龙干了",
@@ -1907,20 +1971,20 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 134386,
+      "num": 134386,
+      "word": "阳了的前期症状是嚣张跋扈",
+      "onboard_time": 1671542255,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 134002,
       "num": 134002,
       "word": "平均服役27年这六位兵王把兵当到极致",
       "onboard_time": 1671494065,
       "rank": 37,
       "category": "军事"
-    },
-    {
-      "raw_hot": 133750,
-      "num": 1206184,
-      "word": "如何科学止咳",
-      "onboard_time": 1671539971,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 133722,
@@ -1995,6 +2059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 127580,
+      "num": 127580,
+      "word": "男子花4千朋友圈买抗原称被骗",
+      "onboard_time": 1671542071,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 125871,
       "num": 125871,
       "word": "贵州才是土豆星人的天堂",
@@ -2025,6 +2097,14 @@
       "onboard_time": 1671458850,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 120493,
+      "num": 120493,
+      "word": "1岁女孩高烧39度警车5分钟送医",
+      "onboard_time": 1671542314,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 120260,
@@ -2081,14 +2161,6 @@
       "onboard_time": 1671492860,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 114286,
-      "num": 114286,
-      "word": "大狗咬碎苹果喂给隔辈狗宝宝",
-      "onboard_time": 1671540212,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 113898,
@@ -2177,6 +2249,14 @@
       "onboard_time": 1671442169,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 106789,
+      "num": 118033,
+      "word": "疾控专家回应为何要打第四针",
+      "onboard_time": 1671542131,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 105761,
