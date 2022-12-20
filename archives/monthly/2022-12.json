@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1671514408967,
+  "endTime": 1671517440623,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -2299,6 +2299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1669281,
+      "num": 1218950,
+      "word": "孙怡 我现在也是个体户",
+      "onboard_time": 1671512250,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1656900,
       "num": 1145720,
       "word": "专家称新冠防控回归乙类管理条件渐趋成熟",
@@ -3857,14 +3865,6 @@
       "onboard_time": 1671105577,
       "rank": 7,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 1218950,
-      "num": 1218950,
-      "word": "孙怡 我现在也是个体户",
-      "onboard_time": 1671512250,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 1216391,
@@ -5457,6 +5457,14 @@
       "onboard_time": 1670427374,
       "rank": 4,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 961233,
+      "num": 961233,
+      "word": "抗原试剂一盒难求局面或将扭转",
+      "onboard_time": 1671510807,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 958257,
@@ -7155,6 +7163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 798348,
+      "num": 798348,
+      "word": "阿根廷队凯旋",
+      "onboard_time": 1671515549,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 798281,
       "num": 742345,
       "word": "明起武汉地铁不再查验核酸",
@@ -7201,14 +7217,6 @@
       "onboard_time": 1670759537,
       "rank": 7,
       "category": "科技"
-    },
-    {
-      "raw_hot": 796024,
-      "num": 796024,
-      "word": "抗原试剂一盒难求局面或将扭转",
-      "onboard_time": 1671510807,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 795855,
@@ -8059,6 +8067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 732424,
+      "num": 732424,
+      "word": "姆巴佩立誓再夺大力神杯",
+      "onboard_time": 1671511228,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 732291,
       "num": 732291,
       "word": "陈梦",
@@ -8484,7 +8500,7 @@
     },
     {
       "raw_hot": 706657,
-      "num": 559324,
+      "num": 639347,
       "word": "失踪数月私家车被打捞司机还在车里",
       "onboard_time": 1671510208,
       "rank": 30,
@@ -8657,14 +8673,6 @@
       "onboard_time": 1670905151,
       "rank": 35,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 696781,
-      "num": 696781,
-      "word": "姆巴佩立誓再夺大力神杯",
-      "onboard_time": 1671511228,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 696631,
@@ -10411,6 +10419,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 612009,
+      "num": 612009,
+      "word": "陆离死的时候才23岁",
+      "onboard_time": 1671514408,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 611936,
       "num": 611936,
       "word": "女子超市拎起葡萄边抖边吃还不买",
@@ -12019,6 +12035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 540566,
+      "num": 540566,
+      "word": "为什么都转阴了还咳嗽",
+      "onboard_time": 1671513032,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 540461,
       "num": 540461,
       "word": "赵小棠买了100张虞书欣新EP",
@@ -12088,6 +12112,14 @@
       "word": "想瘦哪就瘦哪或将实现",
       "onboard_time": 1670569457,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 538885,
+      "num": 538885,
+      "word": "强生回应美林供不应求",
+      "onboard_time": 1671514232,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -12697,6 +12729,14 @@
       "onboard_time": 1671390502,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 515880,
+      "num": 515880,
+      "word": "于冬说阿凡达2不适合中国观众",
+      "onboard_time": 1671516389,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 515837,
@@ -14619,6 +14659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 448628,
+      "num": 448628,
+      "word": "iPhone15或重新划分机型组合",
+      "onboard_time": 1671512553,
+      "rank": 35,
+      "category": "科技"
+    },
+    {
       "raw_hot": 448568,
       "num": 448568,
       "word": "杨幂也在看少爷和我",
@@ -15257,6 +15305,14 @@
       "onboard_time": 1671237207,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 428385,
+      "num": 428385,
+      "word": "半年后的世界杯有中国队了",
+      "onboard_time": 1671512610,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 428058,
@@ -17987,14 +18043,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 365450,
-      "num": 365450,
-      "word": "为什么都转阴了还咳嗽",
-      "onboard_time": 1671513032,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 365427,
       "num": 834754,
       "word": "赵睿全明星MVP",
@@ -18552,6 +18600,14 @@
       "word": "又一批医疗机构不再提供社会面核酸采样服务",
       "onboard_time": 1670151014,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 354236,
+      "num": 354236,
+      "word": "女子连戴10年隐形角膜受损变色",
+      "onboard_time": 1671511953,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -19153,14 +19209,6 @@
       "onboard_time": 1671512432,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 339881,
-      "num": 339881,
-      "word": "女子连戴10年隐形角膜受损变色",
-      "onboard_time": 1671511953,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 339626,
@@ -21907,6 +21955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 294406,
+      "num": 294406,
+      "word": "华晨宇新专辑",
+      "onboard_time": 1671515250,
+      "rank": 19,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 294367,
       "num": 294367,
       "word": "金智秀韩版嘉人一月刊封面",
@@ -22033,14 +22089,6 @@
       "onboard_time": 1670148313,
       "rank": 25,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 292597,
-      "num": 292597,
-      "word": "半年后的世界杯有中国队了",
-      "onboard_time": 1671512610,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 292467,
@@ -22673,6 +22721,14 @@
       "onboard_time": 1671107376,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 283324,
+      "num": 283324,
+      "word": "Angel被爆料将加入RNG",
+      "onboard_time": 1671513812,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 283236,
@@ -23387,14 +23443,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 273663,
-      "num": 273663,
-      "word": "iPhone15或重新划分机型组合",
-      "onboard_time": 1671512553,
-      "rank": 35,
-      "category": "科技"
-    },
-    {
       "raw_hot": 273658,
       "num": 305173,
       "word": "苹果考虑在印度生产部分iPad",
@@ -23513,6 +23561,14 @@
       "onboard_time": 1670131390,
       "rank": 36,
       "category": "美食"
+    },
+    {
+      "raw_hot": 272158,
+      "num": 272158,
+      "word": "阿根廷队抱大力神杯回国",
+      "onboard_time": 1671515670,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 272096,
@@ -24825,6 +24881,14 @@
       "onboard_time": 1670629810,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 252213,
+      "num": 252213,
+      "word": "梅西回复苏醒",
+      "onboard_time": 1671517167,
+      "rank": 27,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 252145,
@@ -30987,6 +31051,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 186311,
+      "num": 186311,
+      "word": "中国5座好吃的世界美食之都",
+      "onboard_time": 1671514649,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
       "raw_hot": 186289,
       "num": 186289,
       "word": "一人之下5动画开播",
@@ -31281,6 +31353,14 @@
       "onboard_time": 1670071631,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 184610,
+      "num": 184610,
+      "word": "网传电影我抬头发现两朵一样的云主演暂定王源",
+      "onboard_time": 1671517288,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 184554,
@@ -31729,14 +31809,6 @@
       "onboard_time": 1671005656,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 180988,
-      "num": 180988,
-      "word": "Angel被爆料将加入RNG",
-      "onboard_time": 1671513812,
-      "rank": 34,
-      "category": "游戏"
     },
     {
       "raw_hot": 180858,
@@ -37083,6 +37155,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 143982,
+      "num": 143982,
+      "word": "机场铺红毯迎接阿根廷队",
+      "onboard_time": 1671515486,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 143921,
       "num": 143921,
       "word": "县委大院单人剧照",
@@ -37563,6 +37643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 140863,
+      "num": 140863,
+      "word": "AppStore被法国罚款100万美元",
+      "onboard_time": 1671516749,
+      "rank": 44,
+      "category": "科技"
+    },
+    {
       "raw_hot": 140832,
       "num": 140832,
       "word": "NBA球星看世界杯球星",
@@ -37624,14 +37712,6 @@
       "word": "多地放宽限制机票火车票预订量倍增",
       "onboard_time": 1670309590,
       "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 140492,
-      "num": 140492,
-      "word": "强生回应美林供不应求",
-      "onboard_time": 1671514232,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -40115,6 +40195,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 123126,
+      "num": 123126,
+      "word": "诊所开门20多人蜂拥而至占床位打点滴",
+      "onboard_time": 1671516808,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 123051,
       "num": 123051,
       "word": "清清的对抗路信念",
@@ -41427,6 +41515,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 112027,
+      "num": 112027,
+      "word": "iPhone15Pro概念图告别纯直边",
+      "onboard_time": 1671517410,
+      "rank": 48,
+      "category": "科技"
+    },
+    {
       "raw_hot": 112016,
       "num": 451928,
       "word": "神十五与木星同框",
@@ -41439,6 +41535,14 @@
       "num": 126520,
       "word": "新冠防疫手册",
       "onboard_time": 1670604556,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 111985,
+      "num": 111985,
+      "word": "MH370碎片被渔民当洗衣板5年",
+      "onboard_time": 1671517410,
       "rank": 49,
       "category": "社会新闻"
     },

@@ -1,0 +1,410 @@
+{
+  "runTime": 1671517440623,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1425365,
+        "num": 1425365,
+        "word": "大概率都会感染越晚变阳症状越轻",
+        "onboard_time": 1671501450,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 961233,
+        "num": 961233,
+        "word": "抗原试剂一盒难求局面或将扭转",
+        "onboard_time": 1671510807,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154440,
+        "num": 879784,
+        "word": "一图了解新冠康复全过程",
+        "onboard_time": 1671507926,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 983957,
+        "num": 858761,
+        "word": "姨妈期杀疯了的免疫系统",
+        "onboard_time": 1671493282,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 798348,
+        "num": 798348,
+        "word": "阿根廷队凯旋",
+        "onboard_time": 1671515549,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 732424,
+        "num": 732424,
+        "word": "姆巴佩立誓再夺大力神杯",
+        "onboard_time": 1671511228,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 639347,
+        "num": 639347,
+        "word": "失踪数月私家车被打捞司机还在车里",
+        "onboard_time": 1671510208,
+        "rank": 6,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 612009,
+        "num": 612009,
+        "word": "陆离死的时候才23岁",
+        "onboard_time": 1671514408,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 540566,
+        "num": 540566,
+        "word": "为什么都转阴了还咳嗽",
+        "onboard_time": 1671513032,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 538885,
+        "num": 538885,
+        "word": "强生回应美林供不应求",
+        "onboard_time": 1671514232,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1669281,
+        "num": 537762,
+        "word": "孙怡 我现在也是个体户",
+        "onboard_time": 1671512250,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1446027,
+        "num": 536654,
+        "word": "考研女生帮熟睡邻桌测出烧39度秒懵",
+        "onboard_time": 1671510569,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 532253,
+        "num": 532253,
+        "word": "北京增5例死亡病例",
+        "onboard_time": 1671500009,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 515880,
+        "num": 515880,
+        "word": "于冬说阿凡达2不适合中国观众",
+        "onboard_time": 1671516389,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 448628,
+        "num": 448628,
+        "word": "iPhone15或重新划分机型组合",
+        "onboard_time": 1671512553,
+        "rank": 14,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 428385,
+        "num": 428385,
+        "word": "半年后的世界杯有中国队了",
+        "onboard_time": 1671512610,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 409942,
+        "num": 409942,
+        "word": "以岭药业称连花清瘟可与布洛芬联用",
+        "onboard_time": 1671500551,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354236,
+        "num": 354236,
+        "word": "女子连戴10年隐形角膜受损变色",
+        "onboard_time": 1671511953,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318344,
+        "num": 318344,
+        "word": "抗体水平较高或更会失去嗅觉或味觉",
+        "onboard_time": 1671510390,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294406,
+        "num": 294406,
+        "word": "华晨宇新专辑",
+        "onboard_time": 1671515250,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 293793,
+        "num": 293793,
+        "word": "电影想见你官宣定档1224",
+        "onboard_time": 1671499649,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 292144,
+        "num": 292144,
+        "word": "女子举报父亲被打死一案宣判",
+        "onboard_time": 1671506728,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285252,
+        "num": 285252,
+        "word": "济南一药店回应退烧药卖1元5片",
+        "onboard_time": 1671510990,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283324,
+        "num": 283324,
+        "word": "Angel被爆料将加入RNG",
+        "onboard_time": 1671513812,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 272158,
+        "num": 272158,
+        "word": "阿根廷队抱大力神杯回国",
+        "onboard_time": 1671515670,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 257028,
+        "num": 257028,
+        "word": "狗狗不愿穿衣主人将其关门外",
+        "onboard_time": 1671511410,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255213,
+        "num": 255213,
+        "word": "新冠病毒感染者可在6个月后接种疫苗",
+        "onboard_time": 1671508050,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252213,
+        "num": 252213,
+        "word": "梅西回复苏醒",
+        "onboard_time": 1671517167,
+        "rank": 27,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 227281,
+        "num": 227281,
+        "word": "阳后还被猫给欺负了",
+        "onboard_time": 1671511291,
+        "rank": 28,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 225576,
+        "num": 225576,
+        "word": "毕雯珺孙伊涵一支MV亲了5次",
+        "onboard_time": 1671508469,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 250399,
+        "num": 221527,
+        "word": "夺冠后梅西的鞋去哪了",
+        "onboard_time": 1671507210,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199132,
+        "num": 199132,
+        "word": "东方卫视跨年二次元版阵容官宣",
+        "onboard_time": 1671508590,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186311,
+        "num": 186311,
+        "word": "中国5座好吃的世界美食之都",
+        "onboard_time": 1671514649,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 185137,
+        "num": 185137,
+        "word": "金世佳特别主演电影想见你",
+        "onboard_time": 1671499948,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 184610,
+        "num": 184610,
+        "word": "网传电影我抬头发现两朵一样的云主演暂定王源",
+        "onboard_time": 1671517288,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 178957,
+        "num": 178957,
+        "word": "梅西 安东内拉",
+        "onboard_time": 1671503849,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171874,
+        "num": 171874,
+        "word": "小红书成人使用美林攻略引争议",
+        "onboard_time": 1671492621,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164574,
+        "num": 164574,
+        "word": "警方通报6旬老师多次猥亵女学生",
+        "onboard_time": 1671506850,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162240,
+        "num": 162240,
+        "word": "虞书欣ohmy舞蹈挑战",
+        "onboard_time": 1671512968,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 158870,
+        "num": 158870,
+        "word": "艾薇儿加盟2022最美的夜",
+        "onboard_time": 1671512432,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154538,
+        "num": 154538,
+        "word": "梅西飞机上晒与大力神杯合影",
+        "onboard_time": 1671495325,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152105,
+        "num": 152105,
+        "word": "阿根廷全国放假1天",
+        "onboard_time": 1671495629,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143982,
+        "num": 143982,
+        "word": "机场铺红毯迎接阿根廷队",
+        "onboard_time": 1671515486,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142394,
+        "num": 142394,
+        "word": "没阳阳了阳过都该怎么办",
+        "onboard_time": 1671500669,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140863,
+        "num": 140863,
+        "word": "AppStore被法国罚款100万美元",
+        "onboard_time": 1671516749,
+        "rank": 44,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 128687,
+        "num": 128687,
+        "word": "N95口罩为何又一罩难求",
+        "onboard_time": 1671505888,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123126,
+        "num": 123126,
+        "word": "诊所开门20多人蜂拥而至占床位打点滴",
+        "onboard_time": 1671516808,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118954,
+        "num": 118954,
+        "word": "林志为继承了肖俊学的电动车",
+        "onboard_time": 1671513930,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 112027,
+        "num": 112027,
+        "word": "iPhone15Pro概念图告别纯直边",
+        "onboard_time": 1671517410,
+        "rank": 48,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 111985,
+        "num": 111985,
+        "word": "MH370碎片被渔民当洗衣板5年",
+        "onboard_time": 1671517410,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#2022温暖你我的瞬间#"
+    }
+  }
+}
