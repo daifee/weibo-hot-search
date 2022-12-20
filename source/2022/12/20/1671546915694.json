@@ -1,0 +1,410 @@
+{
+  "runTime": 1671546915694,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1406879,
+        "num": 1406879,
+        "word": "N95口罩佩戴时间不要太长",
+        "onboard_time": 1671537632,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1192305,
+        "num": 1192305,
+        "word": "阳了的前期症状是嚣张跋扈",
+        "onboard_time": 1671542255,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242978,
+        "num": 1191422,
+        "word": "如何科学止咳",
+        "onboard_time": 1671539971,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1191272,
+        "num": 1191272,
+        "word": "阳了后可以洗澡吗",
+        "onboard_time": 1671533429,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 853480,
+        "num": 853480,
+        "word": "宝妈跑多家药店买不到布洛芬女儿找到",
+        "onboard_time": 1671539672,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 727726,
+        "num": 727726,
+        "word": "1岁女孩高烧39度警车5分钟送医",
+        "onboard_time": 1671542314,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 677158,
+        "num": 677158,
+        "word": "快递布洛芬竟然变衣服",
+        "onboard_time": 1671525212,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 665414,
+        "num": 665414,
+        "word": "梅西睡觉都抱着大力神杯",
+        "onboard_time": 1671536852,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 659481,
+        "num": 659481,
+        "word": "女子告发辅警猥亵被关精神病院",
+        "onboard_time": 1671539431,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 556390,
+        "num": 556390,
+        "word": "复阳通常发生在阳康后一个月内",
+        "onboard_time": 1671537570,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 660457,
+        "num": 554633,
+        "word": "韩国男子摸继女屁股引众怒",
+        "onboard_time": 1671543933,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 500872,
+        "num": 500872,
+        "word": "湖南卫视跨年晚会官宣",
+        "onboard_time": 1671527789,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 482954,
+        "num": 482954,
+        "word": "刘畊宏教卡塔尔小王子跳本草纲目",
+        "onboard_time": 1671544172,
+        "rank": 12,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 477335,
+        "num": 477335,
+        "word": "Lisa不做手术是为了赚钱支持艾威",
+        "onboard_time": 1671533972,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 471350,
+        "num": 471350,
+        "word": "易烊千玺拍的瑰丽山海",
+        "onboard_time": 1671544893,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 433628,
+        "num": 433628,
+        "word": "吴镇宇的嘴是抹了鹤顶红吗",
+        "onboard_time": 1671534154,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 433336,
+        "num": 433336,
+        "word": "工作室回应范世錡没有选择鹿鼎记",
+        "onboard_time": 1671544172,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 409442,
+        "num": 409442,
+        "word": "李泽言",
+        "onboard_time": 1671541113,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 327934,
+        "num": 327934,
+        "word": "我国多地已发现BQ.1和XBB分支",
+        "onboard_time": 1671524612,
+        "rank": 18,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 306191,
+        "num": 321508,
+        "word": "幼童被保姆留在电梯坠亡后的100天",
+        "onboard_time": 1671537570,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 319913,
+        "num": 319913,
+        "word": "赵露思说以后应该不会演校园剧了",
+        "onboard_time": 1671533129,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 313678,
+        "num": 313678,
+        "word": "王鹤棣直播",
+        "onboard_time": 1671539252,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 311392,
+        "num": 311392,
+        "word": "王一博比耶转场视频",
+        "onboard_time": 1671539553,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 299717,
+        "num": 299717,
+        "word": "宝宝把3枚钉子精准插入电门",
+        "onboard_time": 1671538050,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292332,
+        "num": 292332,
+        "word": "考研前一周阳了怎么办",
+        "onboard_time": 1671539310,
+        "rank": 24,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 288599,
+        "num": 288599,
+        "word": "不能要求居家隔离职工休病假",
+        "onboard_time": 1671544293,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283546,
+        "num": 283546,
+        "word": "女生背考研重点背到崩溃抹眼泪坚持",
+        "onboard_time": 1671533012,
+        "rank": 26,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 263009,
+        "num": 263009,
+        "word": "咳痰有多痛苦",
+        "onboard_time": 1671545011,
+        "rank": 27,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 252723,
+        "num": 252723,
+        "word": "布洛芬缓释主要用于缓解疼痛",
+        "onboard_time": 1671538173,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233231,
+        "num": 233231,
+        "word": "20岁女子回家发现爸妈生了二胎弟弟",
+        "onboard_time": 1671531631,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269308,
+        "num": 231332,
+        "word": "伊甸园",
+        "onboard_time": 1671546511,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 242433,
+        "num": 219669,
+        "word": "陈哲远沈月合唱像开了甜蜜buff",
+        "onboard_time": 1671540514,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 202050,
+        "num": 202050,
+        "word": "阴阳师臻藏新系列皮肤",
+        "onboard_time": 1671542131,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 188555,
+        "num": 188555,
+        "word": "睡眠就是最好的补药",
+        "onboard_time": 1671542734,
+        "rank": 33,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 185532,
+        "num": 185532,
+        "word": "孩子发烧一出被窝全身烟雾缭绕",
+        "onboard_time": 1671534633,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176639,
+        "num": 176639,
+        "word": "微博崩了",
+        "onboard_time": 1671530729,
+        "rank": 35,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 171131,
+        "num": 171131,
+        "word": "400元的山东农村大席菜",
+        "onboard_time": 1671545133,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 169099,
+        "num": 169099,
+        "word": "大狗咬碎苹果喂给隔辈狗宝宝",
+        "onboard_time": 1671540212,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168558,
+        "num": 168558,
+        "word": "BLACKPINK演唱会结束后骑小车离开",
+        "onboard_time": 1671532531,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 168327,
+        "num": 168327,
+        "word": "复阳是间歇性排毒导致",
+        "onboard_time": 1671543996,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156764,
+        "num": 156764,
+        "word": "男子花4千朋友圈买抗原称被骗",
+        "onboard_time": 1671542071,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149381,
+        "num": 149381,
+        "word": "邮政局回应寄药被偷",
+        "onboard_time": 1671535592,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144187,
+        "num": 144187,
+        "word": "梅西回复苏醒",
+        "onboard_time": 1671517167,
+        "rank": 42,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 142412,
+        "num": 142412,
+        "word": "阳了仍得指导天选做饭人",
+        "onboard_time": 1671546511,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 141452,
+        "num": 141452,
+        "word": "黄子韬确诊感染新冠",
+        "onboard_time": 1671521612,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139078,
+        "num": 139078,
+        "word": "不要乱给家里老人买电器",
+        "onboard_time": 1671540033,
+        "rank": 45,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 134779,
+        "num": 134779,
+        "word": "林志为整顿酒桌文化失败",
+        "onboard_time": 1671545670,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 133918,
+        "num": 133918,
+        "word": "孩子把妈妈辛苦买的20多粒布洛芬全泡水",
+        "onboard_time": 1671526052,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127081,
+        "num": 127081,
+        "word": "年轻人为什么会对奇怪的东西上头",
+        "onboard_time": 1671544833,
+        "rank": 48,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 119231,
+        "num": 119231,
+        "word": "钓鱼小伙衣服没脱救起2名落水男孩",
+        "onboard_time": 1671546874,
+        "rank": 49,
+        "category": "社会正能量"
+      }
+    ],
+    "hotgov": {
+      "word": "#祝福澳门明天会更好#"
+    }
+  }
+}
