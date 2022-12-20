@@ -1,6 +1,6 @@
 {
   "startTime": 1671467268319,
-  "endTime": 1671536011343,
+  "endTime": 1671539686979,
   "band_list": [
     {
       "raw_hot": 2854956,
@@ -59,6 +59,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 2016631,
+      "num": 2016631,
+      "word": "阳了后可以洗澡吗",
+      "onboard_time": 1671533429,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1980069,
       "num": 646724,
       "word": "考研女生帮熟睡邻桌测出烧39度秒懵",
@@ -96,14 +104,6 @@
       "word": "小红书成人使用美林攻略引争议",
       "onboard_time": 1671492621,
       "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1555177,
-      "num": 1555177,
-      "word": "阳了后可以洗澡吗",
-      "onboard_time": 1671533429,
-      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -171,6 +171,30 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1079893,
+      "num": 1079893,
+      "word": "N95口罩佩戴时间不要太长",
+      "onboard_time": 1671537632,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1013618,
+      "num": 1013618,
+      "word": "Lisa不做手术是为了赚钱支持艾威",
+      "onboard_time": 1671533972,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1007805,
+      "num": 1007805,
+      "word": "发热门诊排队家长下跪后医生回跪",
+      "onboard_time": 1671536013,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 961233,
       "num": 961233,
       "word": "抗原试剂一盒难求局面或将扭转",
@@ -195,11 +219,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 895896,
+      "num": 682906,
+      "word": "王鹤棣直播",
+      "onboard_time": 1671539252,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 877450,
       "num": 877450,
       "word": "梅西抱的不是母亲是阿根廷队女厨师",
       "onboard_time": 1671464010,
       "rank": 10,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 866841,
+      "num": 866841,
+      "word": "梅西睡觉都抱着大力神杯",
+      "onboard_time": 1671536852,
+      "rank": 6,
       "category": "体育"
     },
     {
@@ -235,14 +275,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 803925,
-      "num": 803925,
-      "word": "Lisa不做手术是为了赚钱支持艾威",
-      "onboard_time": 1671533972,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 801347,
       "num": 801347,
       "word": "女生背考研重点背到崩溃抹眼泪坚持",
@@ -257,6 +289,14 @@
       "onboard_time": 1671496289,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 747807,
+      "num": 747807,
+      "word": "王一博比耶转场视频",
+      "onboard_time": 1671539553,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 745565,
@@ -297,6 +337,14 @@
       "onboard_time": 1671459810,
       "rank": 3,
       "category": "情感,艺人"
+    },
+    {
+      "raw_hot": 737288,
+      "num": 737288,
+      "word": "孩子发烧一出被窝全身烟雾缭绕",
+      "onboard_time": 1671534633,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 732424,
@@ -345,6 +393,14 @@
       "onboard_time": 1671503849,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 690055,
+      "num": 690055,
+      "word": "吴镇宇的嘴是抹了鹤顶红吗",
+      "onboard_time": 1671534154,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 678249,
@@ -515,6 +571,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 456596,
+      "num": 456596,
+      "word": "复阳通常发生在阳康后一个月内",
+      "onboard_time": 1671537570,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 451154,
+      "num": 451154,
+      "word": "邮政局回应寄药被偷",
+      "onboard_time": 1671535592,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 448628,
       "num": 448628,
       "word": "iPhone15或重新划分机型组合",
@@ -585,6 +657,14 @@
       "onboard_time": 1671471795,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 426528,
+      "num": 426528,
+      "word": "幼童被保姆留在电梯坠亡后的100天",
+      "onboard_time": 1671537570,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 425987,
@@ -803,12 +883,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 338375,
+      "num": 338375,
+      "word": "宝宝把3枚钉子精准插入电门",
+      "onboard_time": 1671538050,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 329549,
       "num": 329549,
       "word": "你因为什么很少发朋友圈了",
       "onboard_time": 1671460652,
       "rank": 8,
       "category": "情感"
+    },
+    {
+      "raw_hot": 328187,
+      "num": 328187,
+      "word": "全屋消杀造成损失谁来赔",
+      "onboard_time": 1671536734,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 327093,
@@ -835,28 +931,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 306751,
-      "num": 281812,
-      "word": "吴镇宇的嘴是抹了鹤顶红吗",
-      "onboard_time": 1671534154,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 305877,
       "num": 305877,
       "word": "男生打游戏和不打游戏的区别",
       "onboard_time": 1671491840,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 304729,
-      "num": 304729,
-      "word": "孩子发烧一出被窝全身烟雾缭绕",
-      "onboard_time": 1671534633,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 299130,
@@ -1033,6 +1113,14 @@
       "onboard_time": 1671503430,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 262612,
+      "num": 262612,
+      "word": "布洛芬缓释主要用于缓解疼痛",
+      "onboard_time": 1671538173,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 262155,
@@ -1435,6 +1523,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 175905,
+      "num": 175905,
+      "word": "你的恋与五周年回忆",
+      "onboard_time": 1671539072,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 175876,
       "num": 175876,
       "word": "柯佳嬿说1224电影院见",
@@ -1457,6 +1553,22 @@
       "onboard_time": 1671534753,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 171058,
+      "num": 171058,
+      "word": "梁洁说叶时蓝全身上下嘴最硬",
+      "onboard_time": 1671539192,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 169580,
+      "num": 169580,
+      "word": "珠海一药厂门口市民排长队买药",
+      "onboard_time": 1671537032,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 166184,
@@ -1611,14 +1723,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 146112,
-      "num": 143224,
-      "word": "邮政局回应寄药被偷",
-      "onboard_time": 1671535592,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 145779,
       "num": 145779,
       "word": "对乙酰氨基酚和布洛芬五大不同",
@@ -1771,6 +1875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 133676,
+      "num": 133676,
+      "word": "女子告发辅警猥亵被关精神病院",
+      "onboard_time": 1671539431,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 132607,
       "num": 132607,
       "word": "浙江兰溪药企日产3.4万盒布洛芬",
@@ -1809,6 +1921,14 @@
       "onboard_time": 1671501689,
       "rank": 36,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 129373,
+      "num": 129373,
+      "word": "考研前一周阳了怎么办",
+      "onboard_time": 1671539310,
+      "rank": 43,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 128491,
@@ -1907,6 +2027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 115647,
+      "num": 115647,
+      "word": "原来唐老鸭真的会说话",
+      "onboard_time": 1671538773,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 114361,
       "num": 114361,
       "word": "在憋笑中逐渐丧失勇气的猫",
@@ -1993,6 +2121,14 @@
       "onboard_time": 1671501929,
       "rank": 46,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 105665,
+      "num": 115600,
+      "word": "宝妈跑多家药店买不到布洛芬女儿找到",
+      "onboard_time": 1671539672,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 105260,
