@@ -1,6 +1,6 @@
 {
   "startTime": 1671467268319,
-  "endTime": 1671525407285,
+  "endTime": 1671527905077,
   "band_list": [
     {
       "raw_hot": 2854956,
@@ -99,6 +99,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1377552,
+      "num": 1377552,
+      "word": "餐饮店写拒绝阴性进店就餐引热议",
+      "onboard_time": 1671522212,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1265403,
       "num": 1265403,
       "word": "电影想见你官宣定档1224",
@@ -115,12 +123,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1140275,
-      "num": 1140275,
-      "word": "餐饮店写拒绝阴性进店就餐引热议",
-      "onboard_time": 1671522212,
-      "rank": 4,
-      "category": "社会新闻"
+      "raw_hot": 1183033,
+      "num": 1183033,
+      "word": "我国多地已发现BQ.1和XBB分支",
+      "onboard_time": 1671524612,
+      "rank": 18,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 1110574,
@@ -147,6 +155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 930950,
+      "num": 930950,
+      "word": "快递布洛芬竟然变衣服",
+      "onboard_time": 1671525212,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 905748,
       "num": 905748,
       "word": "榜一大哥连骗7名女主播40万",
@@ -161,6 +177,14 @@
       "onboard_time": 1671464010,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 875452,
+      "num": 875452,
+      "word": "孩子把妈妈辛苦买的20多粒布洛芬全泡水",
+      "onboard_time": 1671526052,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 835144,
@@ -355,6 +379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 529111,
+      "num": 529111,
+      "word": "极限挑战第九季回归",
+      "onboard_time": 1671526892,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 516566,
       "num": 516566,
       "word": "于冬说阿凡达2不适合中国观众",
@@ -377,6 +409,14 @@
       "onboard_time": 1671522995,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 453974,
+      "num": 453974,
+      "word": "梅西加入世界杯传奇行列",
+      "onboard_time": 1671523954,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 448628,
@@ -409,6 +449,14 @@
       "onboard_time": 1671519569,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 430172,
+      "num": 430172,
+      "word": "专家称南北新冠毒株毒性一样",
+      "onboard_time": 1671522754,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 430143,
@@ -451,14 +499,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 425252,
-      "num": 425252,
-      "word": "专家称南北新冠毒株毒性一样",
-      "onboard_time": 1671522754,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 415844,
       "num": 376351,
       "word": "朴灿烈李马克金玟庭candy舞蹈挑战",
@@ -475,12 +515,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 410066,
-      "num": 410066,
-      "word": "我国多地已发现BQ.1和XBB分支",
-      "onboard_time": 1671524612,
-      "rank": 18,
-      "category": "社会新闻,科技"
+      "raw_hot": 413685,
+      "num": 413685,
+      "word": "杨紫晒超市随拍十二宫格",
+      "onboard_time": 1671526411,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 409796,
@@ -521,6 +561,14 @@
       "onboard_time": 1671507690,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 372513,
+      "num": 372513,
+      "word": "新冠死亡的判断标准是什么",
+      "onboard_time": 1671524971,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 366440,
@@ -675,12 +723,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 296069,
+      "num": 296069,
+      "word": "大鹏宋茜在海边放烟花",
+      "onboard_time": 1671525872,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 294406,
       "num": 294406,
       "word": "华晨宇新专辑",
       "onboard_time": 1671515250,
       "rank": 19,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 287123,
+      "num": 227627,
+      "word": "贺峻霖这精神状态在演我",
+      "onboard_time": 1671526052,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 287021,
@@ -795,6 +859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 263999,
+      "num": 263999,
+      "word": "惊厥发作时不要往孩子嘴里塞手指",
+      "onboard_time": 1671523954,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 262708,
       "num": 262708,
       "word": "当颜控和钱控谈恋爱",
@@ -809,14 +881,6 @@
       "onboard_time": 1671511291,
       "rank": 29,
       "category": "社会新闻,幽默"
-    },
-    {
-      "raw_hot": 261752,
-      "num": 261752,
-      "word": "惊厥发作时不要往孩子嘴里塞手指",
-      "onboard_time": 1671523954,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 261403,
@@ -915,6 +979,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 227986,
+      "num": 227986,
+      "word": "被名字耽误的高质量小说",
+      "onboard_time": 1671522574,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 224614,
+      "num": 224614,
+      "word": "湖南卫视跨年晚会官宣",
+      "onboard_time": 1671527789,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 224230,
       "num": 213663,
       "word": "虞书欣辣妹风造型上班路透",
@@ -979,14 +1059,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 206827,
-      "num": 206827,
-      "word": "梅西加入世界杯传奇行列",
-      "onboard_time": 1671523954,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 199950,
       "num": 199950,
       "word": "梅西手捧大力神杯下飞机",
@@ -1009,6 +1081,14 @@
       "onboard_time": 1671508111,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 196872,
+      "num": 196872,
+      "word": "不主张不建议故意去感染新冠病毒",
+      "onboard_time": 1671526712,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 196473,
@@ -1091,6 +1171,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 189016,
+      "num": 174785,
+      "word": "网传被我弄丢两次的王斤斤主演檀健次张婧仪",
+      "onboard_time": 1671525034,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 185931,
       "num": 185931,
       "word": "许光汉想见你校服造型",
@@ -1107,14 +1195,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 181261,
-      "num": 181261,
-      "word": "被名字耽误的高质量小说",
-      "onboard_time": 1671522574,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
       "raw_hot": 178109,
       "num": 178109,
       "word": "克罗地亚回国受震撼欢迎",
@@ -1123,19 +1203,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 176358,
+      "num": 142366,
+      "word": "月歌行洛歌人设",
+      "onboard_time": 1671527610,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 175876,
       "num": 175876,
       "word": "柯佳嬿说1224电影院见",
       "onboard_time": 1671513212,
       "rank": 42,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 174785,
-      "num": 174785,
-      "word": "网传被我弄丢两次的王斤斤主演檀健次张婧仪",
-      "onboard_time": 1671525034,
-      "rank": 40,
       "category": "影视"
     },
     {
@@ -1307,6 +1387,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 144279,
+      "num": 144279,
+      "word": "2个月以下婴儿发烧要及时就医",
+      "onboard_time": 1671525332,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 143394,
       "num": 143394,
       "word": "喉咙里取刀片食疗法",
@@ -1427,14 +1515,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 132012,
-      "num": 132012,
-      "word": "快递布洛芬竟然变衣服",
-      "onboard_time": 1671525212,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 131146,
       "num": 131146,
       "word": "清明上河图中的电竞选手",
@@ -1475,19 +1555,11 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 127777,
-      "num": 127777,
-      "word": "新冠死亡的判断标准是什么",
-      "onboard_time": 1671524971,
+      "raw_hot": 126754,
+      "num": 126754,
+      "word": "转阴后你要知道的15件事",
+      "onboard_time": 1671527610,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 125648,
-      "num": 125648,
-      "word": "2个月以下婴儿发烧要及时就医",
-      "onboard_time": 1671525332,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -1497,6 +1569,14 @@
       "onboard_time": 1671460354,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 124135,
+      "num": 124135,
+      "word": "梅西个人年终总结",
+      "onboard_time": 1671527191,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 122551,
