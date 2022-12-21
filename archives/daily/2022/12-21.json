@@ -1,6 +1,6 @@
 {
   "startTime": 1671553616280,
-  "endTime": 1671590765574,
+  "endTime": 1671592778524,
   "band_list": [
     {
       "raw_hot": 2952320,
@@ -67,6 +67,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 1082558,
+      "num": 1082558,
+      "word": "快递小哥弄丢金碗哭着报警",
+      "onboard_time": 1671590008,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 953957,
       "num": 953957,
       "word": "马来西亚立法禁止女性穿男装",
@@ -115,6 +123,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 748900,
+      "num": 748900,
+      "word": "病毒变异后仍可能造成突破性感染",
+      "onboard_time": 1671589170,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 731834,
       "num": 731834,
       "word": "梅西发长文感恩世界杯夺冠",
@@ -131,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 599716,
+      "num": 599716,
+      "word": "血液中心呼吁返乡大学生就地献血",
+      "onboard_time": 1671587729,
+      "rank": 11,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 576663,
       "num": 576663,
       "word": "考研",
@@ -139,7 +163,7 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 566279,
+      "raw_hot": 569006,
       "num": 455909,
       "word": "游行中有人扔给梅西一个忍者神龟",
       "onboard_time": 1671588510,
@@ -161,14 +185,6 @@
       "onboard_time": 1671583890,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 459654,
-      "num": 459654,
-      "word": "血液中心呼吁返乡大学生就地献血",
-      "onboard_time": 1671587729,
-      "rank": 11,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 452015,
@@ -209,6 +225,22 @@
       "onboard_time": 1671582086,
       "rank": 13,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 443045,
+      "num": 443045,
+      "word": "00后用第一笔工资给爸妈买iPhone",
+      "onboard_time": 1671591269,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 426830,
+      "num": 426830,
+      "word": "海边有人喊住了王诠胜",
+      "onboard_time": 1671591030,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 423833,
@@ -259,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 345301,
+      "num": 345301,
+      "word": "虞书欣卢昱晓云之羽同框路透",
+      "onboard_time": 1671591810,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 342594,
       "num": 342594,
       "word": "大理遭遇大面积客房退单",
@@ -291,19 +331,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 316572,
+      "num": 316572,
+      "word": "江苏卫视跨年阵容AI绘画线索",
+      "onboard_time": 1671591509,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 313862,
+      "num": 313862,
+      "word": "美国的退烧药也缺货了",
+      "onboard_time": 1671592052,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 311340,
       "num": 311340,
       "word": "女孩是家里唯一阴性被反向隔离",
       "onboard_time": 1671548309,
       "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 308905,
-      "num": 308905,
-      "word": "病毒变异后仍可能造成突破性感染",
-      "onboard_time": 1671589170,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -323,6 +371,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 285968,
+      "num": 285968,
+      "word": "疫情走向将如何发展",
+      "onboard_time": 1671588209,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 283170,
+      "num": 283170,
+      "word": "hybe日本厂牌签约平手友梨奈",
+      "onboard_time": 1671590789,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 268317,
       "num": 268317,
       "word": "官方通报快递布洛芬变衣服",
@@ -331,12 +395,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 263486,
-      "num": 263486,
-      "word": "快递小哥弄丢金碗哭着报警",
-      "onboard_time": 1671590008,
-      "rank": 43,
-      "category": "社会新闻"
+      "raw_hot": 267513,
+      "num": 267513,
+      "word": "如何评价王者李白新皮肤",
+      "onboard_time": 1671589651,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 261154,
@@ -345,6 +409,14 @@
       "onboard_time": 1671585929,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 251641,
+      "num": 251641,
+      "word": "手机可拆卸电池或被迫回归",
+      "onboard_time": 1671590550,
+      "rank": 48,
+      "category": "科技"
     },
     {
       "raw_hot": 242075,
@@ -376,14 +448,6 @@
       "word": "哪些人群二次感染风险较大",
       "onboard_time": 1671583469,
       "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 233527,
-      "num": 233527,
-      "word": "疫情走向将如何发展",
-      "onboard_time": 1671588209,
-      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -499,12 +563,20 @@
       "category": "自然"
     },
     {
-      "raw_hot": 183483,
-      "num": 183483,
+      "raw_hot": 194794,
+      "num": 194794,
       "word": "被喜欢的人拒绝3次还会追下去吗",
       "onboard_time": 1671590190,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 192700,
+      "num": 192700,
+      "word": "10个月宝宝捐献角膜救2岁孩子",
+      "onboard_time": 1671589950,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 183064,
@@ -531,6 +603,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 178963,
+      "num": 178963,
+      "word": "多地政府向市民免费发放退烧药",
+      "onboard_time": 1671589291,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 175516,
       "num": 175516,
       "word": "我可能遇到了救星剧情",
@@ -539,20 +619,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 167649,
-      "num": 167649,
-      "word": "如何评价王者李白新皮肤",
-      "onboard_time": 1671589651,
-      "rank": 41,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 164432,
-      "num": 164432,
-      "word": "10个月宝宝捐献角膜救2岁孩子",
-      "onboard_time": 1671589950,
-      "rank": 46,
-      "category": "社会新闻"
+      "raw_hot": 174995,
+      "num": 174995,
+      "word": "黄雨萱所有的愿望都是李子维",
+      "onboard_time": 1671590789,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 157001,
@@ -659,14 +731,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 139543,
-      "num": 139543,
-      "word": "多地政府向市民免费发放退烧药",
-      "onboard_time": 1671589291,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 138691,
       "num": 138691,
       "word": "NewJeans的圣诞特别视频",
@@ -707,20 +771,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 130958,
+      "num": 130958,
+      "word": "罗森销售不合格口罩被罚没近10万",
+      "onboard_time": 1671591030,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 130667,
       "num": 130667,
       "word": "咳痰有多痛苦",
       "onboard_time": 1671545011,
       "rank": 27,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 128217,
-      "num": 128217,
-      "word": "手机可拆卸电池或被迫回归",
-      "onboard_time": 1671590550,
-      "rank": 48,
-      "category": "科技"
     },
     {
       "raw_hot": 125368,
@@ -745,6 +809,14 @@
       "onboard_time": 1671554240,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 123413,
+      "num": 123413,
+      "word": "各地过冬至的区别有多大",
+      "onboard_time": 1671592351,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 120553,
@@ -777,6 +849,14 @@
       "onboard_time": 1671541113,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 111578,
+      "num": 111578,
+      "word": "王嘉尔今年在2022最美的夜过跨晚",
+      "onboard_time": 1671592532,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 109253,

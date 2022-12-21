@@ -1,0 +1,410 @@
+{
+  "runTime": 1671592778524,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1615886,
+        "num": 1615886,
+        "word": "布洛芬巨头逼近跌停",
+        "onboard_time": 1671585929,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1082558,
+        "num": 1082558,
+        "word": "快递小哥弄丢金碗哭着报警",
+        "onboard_time": 1671590008,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149969,
+        "num": 900862,
+        "word": "如何科学止咳",
+        "onboard_time": 1671539971,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 810996,
+        "num": 810996,
+        "word": "济南一采血点全天仅5人献血",
+        "onboard_time": 1671585210,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 748900,
+        "num": 748900,
+        "word": "病毒变异后仍可能造成突破性感染",
+        "onboard_time": 1671589170,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 693102,
+        "num": 693102,
+        "word": "医生称幻阳症是一种自我防御",
+        "onboard_time": 1671586467,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 599716,
+        "num": 599716,
+        "word": "血液中心呼吁返乡大学生就地献血",
+        "onboard_time": 1671587729,
+        "rank": 6,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 577481,
+        "num": 577481,
+        "word": "梅西发长文感恩世界杯夺冠",
+        "onboard_time": 1671584971,
+        "rank": 7,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 559146,
+        "num": 559146,
+        "word": "考研",
+        "onboard_time": 1671586352,
+        "rank": 8,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 443045,
+        "num": 443045,
+        "word": "00后用第一笔工资给爸妈买iPhone",
+        "onboard_time": 1671591269,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1370397,
+        "num": 440542,
+        "word": "女子阳后3天没下楼家里满地垃圾",
+        "onboard_time": 1671583651,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 569006,
+        "num": 435241,
+        "word": "游行中有人扔给梅西一个忍者神龟",
+        "onboard_time": 1671588510,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 427085,
+        "num": 427085,
+        "word": "车保罗已离开无限超越班",
+        "onboard_time": 1671549809,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 426830,
+        "num": 426830,
+        "word": "海边有人喊住了王诠胜",
+        "onboard_time": 1671591030,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 384122,
+        "num": 384122,
+        "word": "11岁男孩阳性两个脸蛋体温不同",
+        "onboard_time": 1671584731,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 405503,
+        "num": 378978,
+        "word": "电影想见你六人角色预告",
+        "onboard_time": 1671588991,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 345301,
+        "num": 345301,
+        "word": "虞书欣卢昱晓云之羽同框路透",
+        "onboard_time": 1671591810,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 316572,
+        "num": 316572,
+        "word": "江苏卫视跨年阵容AI绘画线索",
+        "onboard_time": 1671591509,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 313862,
+        "num": 313862,
+        "word": "美国的退烧药也缺货了",
+        "onboard_time": 1671592052,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312295,
+        "num": 312295,
+        "word": "阿根廷冠军游行提前结束",
+        "onboard_time": 1671582867,
+        "rank": 19,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 285968,
+        "num": 285968,
+        "word": "疫情走向将如何发展",
+        "onboard_time": 1671588209,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285575,
+        "num": 285575,
+        "word": "谷爱凌再创一新世界纪录",
+        "onboard_time": 1671583170,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 283170,
+        "num": 283170,
+        "word": "hybe日本厂牌签约平手友梨奈",
+        "onboard_time": 1671590789,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272295,
+        "num": 272295,
+        "word": "阳转阴的6个认知误区",
+        "onboard_time": 1671581188,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267513,
+        "num": 267513,
+        "word": "如何评价王者李白新皮肤",
+        "onboard_time": 1671589651,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 266168,
+        "num": 266168,
+        "word": "大理遭遇大面积客房退单",
+        "onboard_time": 1671586648,
+        "rank": 25,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 251641,
+        "num": 251641,
+        "word": "手机可拆卸电池或被迫回归",
+        "onboard_time": 1671590550,
+        "rank": 26,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 227536,
+        "num": 227536,
+        "word": "阳了的前期症状是嚣张跋扈",
+        "onboard_time": 1671542255,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221422,
+        "num": 221422,
+        "word": "伊甸园 lana",
+        "onboard_time": 1671580705,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210252,
+        "num": 210252,
+        "word": "兵马俑新鲜出土",
+        "onboard_time": 1671583289,
+        "rank": 29,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 206515,
+        "num": 206515,
+        "word": "N95口罩佩戴时间不要太长",
+        "onboard_time": 1671537632,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203506,
+        "num": 203506,
+        "word": "梅西说冠军属于天堂的马拉多纳",
+        "onboard_time": 1671585929,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194794,
+        "num": 194794,
+        "word": "被喜欢的人拒绝3次还会追下去吗",
+        "onboard_time": 1671590190,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 192700,
+        "num": 192700,
+        "word": "10个月宝宝捐献角膜救2岁孩子",
+        "onboard_time": 1671589950,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192132,
+        "num": 192132,
+        "word": "马来西亚立法禁止女性穿男装",
+        "onboard_time": 1671553402,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189759,
+        "num": 189759,
+        "word": "车保罗",
+        "onboard_time": 1671549330,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178963,
+        "num": 178963,
+        "word": "多地政府向市民免费发放退烧药",
+        "onboard_time": 1671589291,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177399,
+        "num": 177399,
+        "word": "17岁少年文花臂后起诉店家获赔5800",
+        "onboard_time": 1671583890,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174995,
+        "num": 174995,
+        "word": "黄雨萱所有的愿望都是李子维",
+        "onboard_time": 1671590789,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 174698,
+        "num": 174698,
+        "word": "布洛芬对乙酰氨基酚产能正逐步释放",
+        "onboard_time": 1671553882,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167074,
+        "num": 167074,
+        "word": "才知道有胃病是不能喝粥的",
+        "onboard_time": 1671589529,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 143860,
+        "num": 143860,
+        "word": "退烧后咳个不停怎样用药",
+        "onboard_time": 1671581906,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130958,
+        "num": 130958,
+        "word": "罗森销售不合格口罩被罚没近10万",
+        "onboard_time": 1671591030,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123930,
+        "num": 123930,
+        "word": "周柯宇Gemini 直播",
+        "onboard_time": 1671580887,
+        "rank": 43,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 123413,
+        "num": 123413,
+        "word": "各地过冬至的区别有多大",
+        "onboard_time": 1671592351,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121862,
+        "num": 121862,
+        "word": "广州震感",
+        "onboard_time": 1671579924,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117849,
+        "num": 117849,
+        "word": "官方通报快递布洛芬变衣服",
+        "onboard_time": 1671584612,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117277,
+        "num": 117277,
+        "word": "只有许魏洲选了车保罗",
+        "onboard_time": 1671550169,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112734,
+        "num": 112734,
+        "word": "阿凡达2票房不及预期迪士尼大跌",
+        "onboard_time": 1671549928,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 111578,
+        "num": 111578,
+        "word": "王嘉尔今年在2022最美的夜过跨晚",
+        "onboard_time": 1671592532,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#2022温暖你我的瞬间#"
+    }
+  }
+}
