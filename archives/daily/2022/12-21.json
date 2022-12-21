@@ -1,6 +1,6 @@
 {
   "startTime": 1671553616280,
-  "endTime": 1671618932504,
+  "endTime": 1671621303836,
   "band_list": [
     {
       "raw_hot": 2952320,
@@ -83,11 +83,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1457785,
+      "num": 410283,
+      "word": "刘亦菲蓝色抹胸纱裙",
+      "onboard_time": 1671620670,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1356294,
       "num": 1356294,
       "word": "女子地铁撸下口罩狂咳嗽吓坏乘客",
       "onboard_time": 1671595832,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1354072,
+      "num": 1354072,
+      "word": "杭州无症状轻症可申请集中隔离",
+      "onboard_time": 1671615751,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -147,6 +163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1140251,
+      "num": 1140251,
+      "word": "姐姐怀孕弟弟抗原阳性立马去酒店",
+      "onboard_time": 1671617911,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1118697,
       "num": 1118697,
       "word": "阿根廷冠军游行提前结束",
@@ -155,11 +179,11 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 1105464,
-      "num": 1105464,
-      "word": "杭州无症状轻症可申请集中隔离",
-      "onboard_time": 1671615751,
-      "rank": 4,
+      "raw_hot": 1110167,
+      "num": 1110167,
+      "word": "浙大博士被妻子评为不及格丈夫",
+      "onboard_time": 1671617789,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -323,6 +347,22 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 646823,
+      "num": 646823,
+      "word": "考研人是懂出题老师的",
+      "onboard_time": 1671617971,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 644809,
+      "num": 644809,
+      "word": "这才是真的羊了",
+      "onboard_time": 1671618630,
+      "rank": 36,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 643212,
       "num": 643212,
       "word": "00后有在认真搞副业",
@@ -345,6 +385,14 @@
       "onboard_time": 1671606271,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 626587,
+      "num": 405620,
+      "word": "奶奶摸出安宫牛黄丸给孙子防新冠",
+      "onboard_time": 1671618931,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 620279,
@@ -427,19 +475,19 @@
       "category": "情感"
     },
     {
+      "raw_hot": 529518,
+      "num": 529518,
+      "word": "吴彤回应车保罗离开节目",
+      "onboard_time": 1671611432,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 521422,
-      "num": 373143,
+      "num": 387282,
       "word": "33岁宝妈辞职备考5个月考研上岸",
       "onboard_time": 1671616171,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 513185,
-      "num": 513185,
-      "word": "浙大博士被妻子评为不及格丈夫",
-      "onboard_time": 1671617789,
-      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -449,14 +497,6 @@
       "onboard_time": 1671615090,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 497170,
-      "num": 324677,
-      "word": "吴彤回应车保罗离开节目",
-      "onboard_time": 1671611432,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 483866,
@@ -481,6 +521,14 @@
       "onboard_time": 1671611311,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 476201,
+      "num": 399290,
+      "word": "梅西提醒德保罗注意安全",
+      "onboard_time": 1671617971,
+      "rank": 47,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 458102,
@@ -595,6 +643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 410316,
+      "num": 410316,
+      "word": "北京下雪",
+      "onboard_time": 1671620972,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 409985,
       "num": 409985,
       "word": "薛凯琪新歌香港的夜预告",
@@ -644,7 +700,7 @@
     },
     {
       "raw_hot": 372954,
-      "num": 271507,
+      "num": 281561,
       "word": "路人偶遇王源拍戏",
       "onboard_time": 1671616290,
       "rank": 21,
@@ -723,14 +779,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 343390,
-      "num": 343390,
-      "word": "考研人是懂出题老师的",
-      "onboard_time": 1671617971,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 342594,
       "num": 342594,
       "word": "大理遭遇大面积客房退单",
@@ -753,6 +801,22 @@
       "onboard_time": 1671618329,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 332397,
+      "num": 332397,
+      "word": "外媒称C罗希望参加2026年世界杯",
+      "onboard_time": 1671618931,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 331085,
+      "num": 191228,
+      "word": "阿根廷门将曾要求C罗主罚点球",
+      "onboard_time": 1671620312,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 330653,
@@ -851,11 +915,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 298295,
-      "num": 163748,
-      "word": "姐姐怀孕弟弟抗原阳性立马去酒店",
-      "onboard_time": 1671617911,
-      "rank": 46,
+      "raw_hot": 294980,
+      "num": 294980,
+      "word": "高烧女子敷面膜结果干在脸上撕不下来",
+      "onboard_time": 1671619350,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -948,7 +1012,7 @@
     },
     {
       "raw_hot": 270622,
-      "num": 162836,
+      "num": 167200,
       "word": "这才是喜欢一个人的意义吧",
       "onboard_time": 1671617011,
       "rank": 32,
@@ -1355,14 +1419,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 188556,
-      "num": 162471,
-      "word": "梅西提醒德保罗注意安全",
-      "onboard_time": 1671617971,
-      "rank": 47,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 188471,
       "num": 188471,
       "word": "媒体评东北制药曾因垄断被罚上亿",
@@ -1475,12 +1531,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 173265,
+      "num": 173265,
+      "word": "张彬彬秦放庄羽洛歌祖传公主抱",
+      "onboard_time": 1671621211,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 172791,
       "num": 152157,
       "word": "廉政狙击反派全员疯批",
       "onboard_time": 1671614070,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 169259,
+      "num": 169259,
+      "word": "王鹤棣是对浪漫过敏吗",
+      "onboard_time": 1671621272,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 164867,
@@ -1497,14 +1569,6 @@
       "onboard_time": 1671606509,
       "rank": 40,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 162209,
-      "num": 162209,
-      "word": "这才是真的羊了",
-      "onboard_time": 1671618630,
-      "rank": 36,
-      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 161520,
@@ -1619,6 +1683,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 148532,
+      "num": 148532,
+      "word": "阳了后如何止咳化痰",
+      "onboard_time": 1671620790,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 147504,
       "num": 131774,
       "word": "任嘉伦新歌MV造型",
@@ -1641,6 +1713,22 @@
       "onboard_time": 1671618269,
       "rank": 37,
       "category": "科技"
+    },
+    {
+      "raw_hot": 146654,
+      "num": 146654,
+      "word": "官方回应抗原为何难买",
+      "onboard_time": 1671619051,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 146337,
+      "num": 1131110,
+      "word": "坚守的医生护士们辛苦了",
+      "onboard_time": 1671616889,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 146050,
@@ -1675,20 +1763,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 143633,
+      "num": 143633,
+      "word": "男朋友从未让我羡慕过别人",
+      "onboard_time": 1671619171,
+      "rank": 44,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 141294,
       "num": 141294,
       "word": "难怪小猫要提前演练",
       "onboard_time": 1671614371,
       "rank": 45,
       "category": "社会新闻,幽默"
-    },
-    {
-      "raw_hot": 141056,
-      "num": 1131110,
-      "word": "坚守的医生护士们辛苦了",
-      "onboard_time": 1671616889,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 140823,
@@ -1755,12 +1843,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 133935,
+      "num": 133935,
+      "word": "周杰伦演唱会",
+      "onboard_time": 1671620610,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 133033,
       "num": 119094,
       "word": "吴镇宇的嘴是抹了鹤顶红吗",
       "onboard_time": 1671534154,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 131924,
+      "num": 131924,
+      "word": "女子感染新冠高烧后满脸发黑",
+      "onboard_time": 1671621092,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 130958,
@@ -1808,6 +1912,14 @@
       "word": "刺柠吉成为维C饮料新宠",
       "onboard_time": 1671605489,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 127888,
+      "num": 127888,
+      "word": "盐煮橙子真的有用吗",
+      "onboard_time": 1671621092,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -2131,12 +2243,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 40413,
+      "num": 149989,
+      "word": "2022最浪漫的网约车司机",
+      "onboard_time": 1671620853,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29978,
       "num": 29978,
       "word": "县委大院医院院长要工资搞笑场面",
       "onboard_time": 1671559576,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 25397,
+      "num": 395590,
+      "word": "厉害了秦友团",
+      "onboard_time": 1671620431,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 16700,
