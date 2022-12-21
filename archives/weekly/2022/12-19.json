@@ -1,6 +1,6 @@
 {
   "startTime": 1671380618877,
-  "endTime": 1671642981182,
+  "endTime": 1671644011193,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -7811,6 +7811,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 38590,
+      "num": 56861,
+      "word": "这猫是挺犟的",
+      "onboard_time": 1671642620,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 36455,
       "num": 162488,
       "word": "你的车有表情包吗",
@@ -7841,14 +7849,6 @@
       "onboard_time": 1671391636,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 32730,
-      "num": 56861,
-      "word": "这猫是挺犟的",
-      "onboard_time": 1671642620,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 29978,
