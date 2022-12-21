@@ -1,6 +1,6 @@
 {
   "startTime": 1671380618877,
-  "endTime": 1671646932539,
+  "endTime": 1671647796483,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -7787,6 +7787,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 50222,
+      "num": 43797,
+      "word": "BLACKPINK韩国VOGUE画报视频",
+      "onboard_time": 1671646576,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 48226,
       "num": 159060,
       "word": "2022最浪漫的网约车司机",
@@ -7801,14 +7809,6 @@
       "onboard_time": 1671560534,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 43797,
-      "num": 43797,
-      "word": "BLACKPINK韩国VOGUE画报视频",
-      "onboard_time": 1671646576,
-      "rank": 33,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 42496,

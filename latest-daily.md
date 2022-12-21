@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/12/22 00:26:35 ~ 2022/12/22 02:22:12
+本榜单时间：2022/12/22 00:26:35 ~ 2022/12/22 02:36:36
 </p>
 </blockquote>
 <p>
@@ -340,7 +340,7 @@ GAI 合照（热度：146263）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23BLACKPINK%E9%9F%A9%E5%9B%BDVOGUE%E7%94%BB%E6%8A%A5%E8%A7%86%E9%A2%91%23" target="weibo">
-BLACKPINK韩国VOGUE画报视频（热度：43797）
+BLACKPINK韩国VOGUE画报视频（热度：50222）
 </a>
 </li>
 
