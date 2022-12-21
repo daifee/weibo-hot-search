@@ -1,6 +1,6 @@
 {
   "startTime": 1671553616280,
-  "endTime": 1671606984554,
+  "endTime": 1671607996949,
   "band_list": [
     {
       "raw_hot": 2952320,
@@ -203,6 +203,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 829060,
+      "num": 829060,
+      "word": "把车保罗请回来",
+      "onboard_time": 1671603870,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 809346,
       "num": 809346,
       "word": "有请60后整顿内娱",
@@ -225,14 +233,6 @@
       "onboard_time": 1671598774,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 751197,
-      "num": 751197,
-      "word": "把车保罗请回来",
-      "onboard_time": 1671603870,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 748434,
@@ -283,12 +283,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 631072,
+      "num": 631072,
+      "word": "车保罗开通微博",
+      "onboard_time": 1671606271,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 599716,
       "num": 599716,
       "word": "血液中心呼吁返乡大学生就地献血",
       "onboard_time": 1671587729,
       "rank": 11,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 585735,
+      "num": 475568,
+      "word": "张蔷割眼袋失败喊话整容医生",
+      "onboard_time": 1671605309,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 576663,
@@ -331,14 +347,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 514724,
-      "num": 475568,
-      "word": "张蔷割眼袋失败喊话整容医生",
-      "onboard_time": 1671605309,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 483866,
       "num": 483866,
       "word": "17岁少年文花臂后起诉店家获赔5800",
@@ -355,20 +363,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 457604,
-      "num": 457604,
+      "raw_hot": 458102,
+      "num": 458102,
       "word": "阿根廷足协致歉球迷",
       "onboard_time": 1671596970,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 453958,
-      "num": 323673,
-      "word": "车保罗开通微博",
-      "onboard_time": 1671606271,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 452015,
@@ -475,6 +475,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 405964,
+      "num": 405964,
+      "word": "抗原红线深浅能代表病情轻重吗",
+      "onboard_time": 1671605251,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 378849,
       "num": 378849,
       "word": "宝妈跑多家药店买不到布洛芬女儿找到",
@@ -515,6 +523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 361217,
+      "num": 361217,
+      "word": "宿舍因床位过多通道仅留1人宽",
+      "onboard_time": 1671605909,
+      "rank": 29,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 360844,
       "num": 360844,
       "word": "吴磊不曾改变的审美",
@@ -537,6 +553,14 @@
       "onboard_time": 1671591509,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 350246,
+      "num": 350246,
+      "word": "婴儿遭月子中心月嫂失手摔地",
+      "onboard_time": 1671606028,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 349794,
@@ -577,14 +601,6 @@
       "onboard_time": 1671598951,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 332077,
-      "num": 332077,
-      "word": "抗原红线深浅能代表病情轻重吗",
-      "onboard_time": 1671605251,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 330653,
@@ -715,6 +731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 273968,
+      "num": 273968,
+      "word": "蒲熠星 带团队",
+      "onboard_time": 1671607233,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 268317,
       "num": 268317,
       "word": "官方通报快递布洛芬变衣服",
@@ -729,6 +753,14 @@
       "onboard_time": 1671589651,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 262953,
+      "num": 262953,
+      "word": "山东两地明确过年可燃放烟花爆竹",
+      "onboard_time": 1671604289,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 261154,
@@ -755,6 +787,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 255212,
+      "num": 217062,
+      "word": "安徽卫视否认明年将播出韩剧",
+      "onboard_time": 1671605850,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 253405,
       "num": 253405,
       "word": "小伙湖内找到坠落2年无人机",
@@ -768,14 +808,6 @@
       "word": "女子告发辅警猥亵被关精神病院",
       "onboard_time": 1671539431,
       "rank": 15,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 241076,
-      "num": 222014,
-      "word": "婴儿遭月子中心月嫂失手摔地",
-      "onboard_time": 1671606028,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -811,20 +843,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 229703,
-      "num": 229703,
-      "word": "山东两地明确过年可燃放烟花爆竹",
-      "onboard_time": 1671604289,
-      "rank": 43,
+      "raw_hot": 232593,
+      "num": 215006,
+      "word": "男子在缅北经历生死逃亡628天",
+      "onboard_time": 1671606989,
+      "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 228566,
-      "num": 228566,
-      "word": "宿舍因床位过多通道仅留1人宽",
-      "onboard_time": 1671605909,
-      "rank": 29,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 221420,
@@ -931,14 +955,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 207390,
-      "num": 207390,
-      "word": "安徽卫视否认明年将播出韩剧",
-      "onboard_time": 1671605850,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 206834,
       "num": 1717463,
       "word": "如何科学止咳",
@@ -977,6 +993,14 @@
       "onboard_time": 1671581248,
       "rank": 33,
       "category": "美食,情感"
+    },
+    {
+      "raw_hot": 199798,
+      "num": 888305,
+      "word": "阳了之后的7个高频问答",
+      "onboard_time": 1671605610,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 197813,
@@ -1025,6 +1049,14 @@
       "onboard_time": 1671589950,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 189650,
+      "num": 189650,
+      "word": "傅菁首张专辑主打曲MV",
+      "onboard_time": 1671607472,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 189643,
@@ -1099,6 +1131,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 182579,
+      "num": 182579,
+      "word": "女子用枇杷叶熬水止咳",
+      "onboard_time": 1671605787,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 180667,
       "num": 180667,
       "word": "N95口罩价格为何一涨再涨",
@@ -1129,14 +1169,6 @@
       "onboard_time": 1671590789,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 172313,
-      "num": 172313,
-      "word": "女子用枇杷叶熬水止咳",
-      "onboard_time": 1671605787,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 164867,
@@ -1171,6 +1203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 160316,
+      "num": 148583,
+      "word": "车保罗演过角色盘点",
+      "onboard_time": 1671607891,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 157052,
       "num": 157052,
       "word": "2023年起儿童按年龄享优惠火车票",
@@ -1185,6 +1225,14 @@
       "onboard_time": 1671537570,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 156353,
+      "num": 156353,
+      "word": "管泽元科普足球人口",
+      "onboard_time": 1671606811,
+      "rank": 38,
+      "category": "体育,游戏"
     },
     {
       "raw_hot": 155843,
@@ -1243,14 +1291,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 149200,
-      "num": 780006,
-      "word": "阳了之后的7个高频问答",
-      "onboard_time": 1671605610,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 149108,
       "num": 149108,
       "word": "任嘉伦新专辑第二支舞蹈视频",
@@ -1273,6 +1313,14 @@
       "onboard_time": 1671556580,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 145656,
+      "num": 145656,
+      "word": "北京暂缓机动车尾号限行",
+      "onboard_time": 1671607652,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 144895,
@@ -1432,6 +1480,22 @@
       "word": "20岁女子回家发现爸妈生了二胎弟弟",
       "onboard_time": 1671531631,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 120528,
+      "num": 120528,
+      "word": "长相和叫声不符的小猫咪",
+      "onboard_time": 1671607591,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 120065,
+      "num": 120065,
+      "word": "00后有在认真搞副业",
+      "onboard_time": 1671607891,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
