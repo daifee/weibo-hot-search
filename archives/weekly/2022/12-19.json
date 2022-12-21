@@ -1,6 +1,6 @@
 {
   "startTime": 1671380618877,
-  "endTime": 1671603758131,
+  "endTime": 1671604633144,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -899,6 +899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 937156,
+      "num": 937156,
+      "word": "女子照顾丈夫感染怀孕高烧被留在家",
+      "onboard_time": 1671600033,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 934097,
       "num": 934097,
       "word": "假摔",
@@ -945,14 +953,6 @@
       "onboard_time": 1671378338,
       "rank": 6,
       "category": "体育"
-    },
-    {
-      "raw_hot": 906527,
-      "num": 906527,
-      "word": "女子照顾丈夫感染怀孕高烧被留在家",
-      "onboard_time": 1671600033,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 905748,
@@ -1539,20 +1539,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 648452,
+      "num": 648452,
+      "word": "这嗓子是吞了多少个唐老鸭",
+      "onboard_time": 1671600571,
+      "rank": 49,
+      "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 641513,
+      "num": 641513,
+      "word": "于途",
+      "onboard_time": 1671602189,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 629575,
       "num": 629575,
       "word": "阿根廷队围着大力神杯吃饭",
       "onboard_time": 1671426875,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 628773,
-      "num": 593700,
-      "word": "于途",
-      "onboard_time": 1671602189,
-      "rank": 9,
-      "category": "影视"
     },
     {
       "raw_hot": 619392,
@@ -1659,14 +1667,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 586444,
-      "num": 586444,
-      "word": "这嗓子是吞了多少个唐老鸭",
-      "onboard_time": 1671600571,
-      "rank": 49,
-      "category": "社会新闻,幽默"
-    },
-    {
       "raw_hot": 580455,
       "num": 580455,
       "word": "伊甸园",
@@ -1697,6 +1697,14 @@
       "onboard_time": 1671591269,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 565166,
+      "num": 565166,
+      "word": "吴彤",
+      "onboard_time": 1671603989,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 560886,
@@ -2539,6 +2547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 360844,
+      "num": 360844,
+      "word": "吴磊不曾改变的审美",
+      "onboard_time": 1671602969,
+      "rank": 19,
+      "category": "综艺,幽默"
+    },
+    {
       "raw_hot": 359164,
       "num": 359164,
       "word": "陈紫函新剧下线",
@@ -2987,14 +3003,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 306178,
-      "num": 306178,
-      "word": "吴磊不曾改变的审美",
-      "onboard_time": 1671602969,
-      "rank": 19,
-      "category": "综艺,幽默"
-    },
-    {
       "raw_hot": 306126,
       "num": 306126,
       "word": "C罗支持阿根廷夺冠",
@@ -3019,6 +3027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 301389,
+      "num": 301389,
+      "word": "专家建议年轻人谈恋爱要真诚",
+      "onboard_time": 1671602309,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 301338,
       "num": 301338,
       "word": "宋茜看男粉跳hotsummer的反应",
@@ -3033,6 +3049,22 @@
       "onboard_time": 1671599253,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 301321,
+      "num": 301321,
+      "word": "1岁宝宝摔倒头磕大包暴风哭泣",
+      "onboard_time": 1671601235,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 300992,
+      "num": 300992,
+      "word": "把车保罗请回来",
+      "onboard_time": 1671603870,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 300302,
@@ -3379,14 +3411,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 267552,
-      "num": 267552,
-      "word": "1岁宝宝摔倒头磕大包暴风哭泣",
-      "onboard_time": 1671601235,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 267513,
       "num": 267513,
       "word": "如何评价王者李白新皮肤",
@@ -3577,6 +3601,14 @@
       "onboard_time": 1671452372,
       "rank": 31,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 253405,
+      "num": 253405,
+      "word": "小伙湖内找到坠落2年无人机",
+      "onboard_time": 1671602551,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 252548,
@@ -3899,6 +3931,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 219355,
+      "num": 219355,
+      "word": "ITZY新歌Cheshire圣诞版舞蹈挑战",
+      "onboard_time": 1671603271,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 218959,
       "num": 218959,
       "word": "光遇",
@@ -4025,6 +4065,14 @@
       "onboard_time": 1671531090,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 208203,
+      "num": 208203,
+      "word": "BLG官宣Weiwei离队",
+      "onboard_time": 1671601950,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 208064,
@@ -4163,14 +4211,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 200040,
-      "num": 200040,
-      "word": "专家建议年轻人谈恋爱要真诚",
-      "onboard_time": 1671602309,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 199950,
       "num": 199950,
       "word": "梅西手捧大力神杯下飞机",
@@ -4273,14 +4313,6 @@
       "onboard_time": 1671507270,
       "rank": 41,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 194437,
-      "num": 194437,
-      "word": "小伙湖内找到坠落2年无人机",
-      "onboard_time": 1671602551,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 194213,
@@ -4393,14 +4425,6 @@
       "onboard_time": 1671600033,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 188062,
-      "num": 188062,
-      "word": "ITZY新歌Cheshire圣诞版舞蹈挑战",
-      "onboard_time": 1671603271,
-      "rank": 33,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 187978,
@@ -4577,14 +4601,6 @@
       "onboard_time": 1671445049,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 181375,
-      "num": 181375,
-      "word": "BLG官宣Weiwei离队",
-      "onboard_time": 1671601950,
-      "rank": 37,
-      "category": "游戏"
     },
     {
       "raw_hot": 180971,
@@ -5523,6 +5539,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 140155,
+      "num": 140155,
+      "word": "血氧仪单日成交额同比增超41倍",
+      "onboard_time": 1671604468,
+      "rank": 42,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 140003,
+      "num": 140003,
+      "word": "山东两地明确过年可燃放烟花爆竹",
+      "onboard_time": 1671604289,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 138691,
       "num": 138691,
       "word": "NewJeans的圣诞特别视频",
@@ -5985,6 +6017,14 @@
       "onboard_time": 1671523894,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 110194,
+      "num": 110194,
+      "word": "独臂男孩把跳绳系在袖子上坚持练习",
+      "onboard_time": 1671603808,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 109701,

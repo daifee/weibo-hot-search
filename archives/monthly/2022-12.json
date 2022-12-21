@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1671603758131,
+  "endTime": 1671604633144,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -5963,6 +5963,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 937156,
+      "num": 937156,
+      "word": "女子照顾丈夫感染怀孕高烧被留在家",
+      "onboard_time": 1671600033,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 935962,
       "num": 935962,
       "word": "C罗乘私人飞机离开卡塔尔",
@@ -6265,14 +6273,6 @@
       "onboard_time": 1670493436,
       "rank": 5,
       "category": "影视"
-    },
-    {
-      "raw_hot": 906527,
-      "num": 906527,
-      "word": "女子照顾丈夫感染怀孕高烧被留在家",
-      "onboard_time": 1671600033,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 905748,
@@ -10235,6 +10235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 648452,
+      "num": 648452,
+      "word": "这嗓子是吞了多少个唐老鸭",
+      "onboard_time": 1671600571,
+      "rank": 49,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 648334,
       "num": 648334,
       "word": "孟美岐线下演唱会票价",
@@ -10376,6 +10384,14 @@
       "word": "张艺凡终于和井柏然合作了",
       "onboard_time": 1670555354,
       "rank": 8,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 641513,
+      "num": 641513,
+      "word": "于途",
+      "onboard_time": 1671602189,
+      "rank": 9,
       "category": "影视"
     },
     {
@@ -10577,14 +10593,6 @@
       "onboard_time": 1669888393,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 628773,
-      "num": 593700,
-      "word": "于途",
-      "onboard_time": 1671602189,
-      "rank": 9,
-      "category": "影视"
     },
     {
       "raw_hot": 628109,
@@ -11539,14 +11547,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 586444,
-      "num": 586444,
-      "word": "这嗓子是吞了多少个唐老鸭",
-      "onboard_time": 1671600571,
-      "rank": 49,
-      "category": "社会新闻,幽默"
-    },
-    {
       "raw_hot": 585992,
       "num": 452178,
       "word": "苏醒为了梅西能夺冠有多拼",
@@ -11977,6 +11977,14 @@
       "onboard_time": 1670127668,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 565166,
+      "num": 565166,
+      "word": "吴彤",
+      "onboard_time": 1671603989,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 565042,
@@ -19139,6 +19147,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 360844,
+      "num": 360844,
+      "word": "吴磊不曾改变的审美",
+      "onboard_time": 1671602969,
+      "rank": 19,
+      "category": "综艺,幽默"
+    },
+    {
       "raw_hot": 360567,
       "num": 659293,
       "word": "小猫咪真的好像个小宝宝啊",
@@ -22315,14 +22331,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 306178,
-      "num": 306178,
-      "word": "吴磊不曾改变的审美",
-      "onboard_time": 1671602969,
-      "rank": 19,
-      "category": "综艺,幽默"
-    },
-    {
       "raw_hot": 306151,
       "num": 306151,
       "word": "广州白云机场不再查验核酸健康码",
@@ -22643,6 +22651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 301389,
+      "num": 301389,
+      "word": "专家建议年轻人谈恋爱要真诚",
+      "onboard_time": 1671602309,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 301338,
       "num": 301338,
       "word": "宋茜看男粉跳hotsummer的反应",
@@ -22659,6 +22675,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 301321,
+      "num": 301321,
+      "word": "1岁宝宝摔倒头磕大包暴风哭泣",
+      "onboard_time": 1671601235,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 301240,
       "num": 301240,
       "word": "小七翻译官",
@@ -22673,6 +22697,14 @@
       "onboard_time": 1671270990,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 300992,
+      "num": 300992,
+      "word": "把车保罗请回来",
+      "onboard_time": 1671603870,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 300923,
@@ -25083,14 +25115,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 267552,
-      "num": 267552,
-      "word": "1岁宝宝摔倒头磕大包暴风哭泣",
-      "onboard_time": 1671601235,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 267513,
       "num": 267513,
       "word": "如何评价王者李白新皮肤",
@@ -26113,6 +26137,14 @@
       "onboard_time": 1670567898,
       "rank": 47,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 253405,
+      "num": 253405,
+      "word": "小伙湖内找到坠落2年无人机",
+      "onboard_time": 1671602551,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 253388,
@@ -29083,6 +29115,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 219355,
+      "num": 219355,
+      "word": "ITZY新歌Cheshire圣诞版舞蹈挑战",
+      "onboard_time": 1671603271,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 219246,
       "num": 219246,
       "word": "传统卯榫结构将32块木片做成足球",
@@ -30179,6 +30219,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 208203,
+      "num": 208203,
+      "word": "BLG官宣Weiwei离队",
+      "onboard_time": 1671601950,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 208127,
       "num": 208127,
       "word": "深圳各类公共场所不再查验核酸",
@@ -30801,14 +30849,6 @@
       "onboard_time": 1671173848,
       "rank": 31,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 200040,
-      "num": 200040,
-      "word": "专家建议年轻人谈恋爱要真诚",
-      "onboard_time": 1671602309,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 199993,
@@ -31608,14 +31648,6 @@
       "word": "视频里的消防员爸爸走了",
       "onboard_time": 1670722813,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 194437,
-      "num": 194437,
-      "word": "小伙湖内找到坠落2年无人机",
-      "onboard_time": 1671602551,
-      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -32504,14 +32536,6 @@
       "word": "白敬亭觉得尹峥格局很大",
       "onboard_time": 1671164973,
       "rank": 41,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 188062,
-      "num": 188062,
-      "word": "ITZY新歌Cheshire圣诞版舞蹈挑战",
-      "onboard_time": 1671603271,
-      "rank": 33,
       "category": "作品衍生"
     },
     {
@@ -33489,14 +33513,6 @@
       "onboard_time": 1671445049,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 181375,
-      "num": 181375,
-      "word": "BLG官宣Weiwei离队",
-      "onboard_time": 1671601950,
-      "rank": 37,
-      "category": "游戏"
     },
     {
       "raw_hot": 181365,
@@ -39851,6 +39867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 140155,
+      "num": 140155,
+      "word": "血氧仪单日成交额同比增超41倍",
+      "onboard_time": 1671604468,
+      "rank": 42,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 140085,
       "num": 145014,
       "word": "放假回家路上的离谱事",
@@ -39881,6 +39905,14 @@
       "onboard_time": 1670652798,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 140003,
+      "num": 140003,
+      "word": "山东两地明确过年可燃放烟花爆竹",
+      "onboard_time": 1671604289,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 139990,
@@ -44001,6 +44033,14 @@
       "onboard_time": 1670758036,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 110194,
+      "num": 110194,
+      "word": "独臂男孩把跳绳系在袖子上坚持练习",
+      "onboard_time": 1671603808,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 110185,

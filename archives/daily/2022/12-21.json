@@ -1,6 +1,6 @@
 {
   "startTime": 1671553616280,
-  "endTime": 1671603758131,
+  "endTime": 1671604633144,
   "band_list": [
     {
       "raw_hot": 2952320,
@@ -147,19 +147,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 937156,
+      "num": 937156,
+      "word": "女子照顾丈夫感染怀孕高烧被留在家",
+      "onboard_time": 1671600033,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 933149,
       "num": 933149,
       "word": "医生称幻阳症是一种自我防御",
       "onboard_time": 1671586467,
       "rank": 22,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 906527,
-      "num": 906527,
-      "word": "女子照顾丈夫感染怀孕高烧被留在家",
-      "onboard_time": 1671600033,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -251,8 +251,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 628773,
-      "num": 593700,
+      "raw_hot": 648452,
+      "num": 648452,
+      "word": "这嗓子是吞了多少个唐老鸭",
+      "onboard_time": 1671600571,
+      "rank": 49,
+      "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 641513,
+      "num": 641513,
       "word": "于途",
       "onboard_time": 1671602189,
       "rank": 9,
@@ -265,14 +273,6 @@
       "onboard_time": 1671587729,
       "rank": 11,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 586444,
-      "num": 586444,
-      "word": "这嗓子是吞了多少个唐老鸭",
-      "onboard_time": 1671600571,
-      "rank": 49,
-      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 576663,
@@ -289,6 +289,14 @@
       "onboard_time": 1671591269,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 565166,
+      "num": 565166,
+      "word": "吴彤",
+      "onboard_time": 1671603989,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 559022,
@@ -467,6 +475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 360844,
+      "num": 360844,
+      "word": "吴磊不曾改变的审美",
+      "onboard_time": 1671602969,
+      "rank": 19,
+      "category": "综艺,幽默"
+    },
+    {
       "raw_hot": 356874,
       "num": 356874,
       "word": "金世佳想见你演的是班长吗",
@@ -579,12 +595,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 306178,
-      "num": 306178,
-      "word": "吴磊不曾改变的审美",
-      "onboard_time": 1671602969,
-      "rank": 19,
-      "category": "综艺,幽默"
+      "raw_hot": 301389,
+      "num": 301389,
+      "word": "专家建议年轻人谈恋爱要真诚",
+      "onboard_time": 1671602309,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 301333,
@@ -593,6 +609,22 @@
       "onboard_time": 1671599253,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 301321,
+      "num": 301321,
+      "word": "1岁宝宝摔倒头磕大包暴风哭泣",
+      "onboard_time": 1671601235,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 300992,
+      "num": 300992,
+      "word": "把车保罗请回来",
+      "onboard_time": 1671603870,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 288389,
@@ -659,14 +691,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 267552,
-      "num": 267552,
-      "word": "1岁宝宝摔倒头磕大包暴风哭泣",
-      "onboard_time": 1671601235,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 267513,
       "num": 267513,
       "word": "如何评价王者李白新皮肤",
@@ -697,6 +721,14 @@
       "onboard_time": 1671600151,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 253405,
+      "num": 253405,
+      "word": "小伙湖内找到坠落2年无人机",
+      "onboard_time": 1671602551,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 242075,
@@ -745,6 +777,14 @@
       "onboard_time": 1671594933,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 219355,
+      "num": 219355,
+      "word": "ITZY新歌Cheshire圣诞版舞蹈挑战",
+      "onboard_time": 1671603271,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 217702,
@@ -811,6 +851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 208203,
+      "num": 208203,
+      "word": "BLG官宣Weiwei离队",
+      "onboard_time": 1671601950,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 208064,
       "num": 208064,
       "word": "深圳震感",
@@ -859,14 +907,6 @@
       "category": "美食,情感"
     },
     {
-      "raw_hot": 200040,
-      "num": 200040,
-      "word": "专家建议年轻人谈恋爱要真诚",
-      "onboard_time": 1671602309,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 197813,
       "num": 197813,
       "word": "刘亦菲澳门国际电影节见",
@@ -905,14 +945,6 @@
       "onboard_time": 1671590190,
       "rank": 29,
       "category": "影视"
-    },
-    {
-      "raw_hot": 194437,
-      "num": 194437,
-      "word": "小伙湖内找到坠落2年无人机",
-      "onboard_time": 1671602551,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 192700,
@@ -955,14 +987,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 188062,
-      "num": 188062,
-      "word": "ITZY新歌Cheshire圣诞版舞蹈挑战",
-      "onboard_time": 1671603271,
-      "rank": 33,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 186352,
       "num": 186352,
       "word": "为什么有越来越多陪伴型职业",
@@ -1001,14 +1025,6 @@
       "onboard_time": 1671594691,
       "rank": 36,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 181375,
-      "num": 181375,
-      "word": "BLG官宣Weiwei离队",
-      "onboard_time": 1671601950,
-      "rank": 37,
-      "category": "游戏"
     },
     {
       "raw_hot": 180667,
@@ -1179,6 +1195,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 140155,
+      "num": 140155,
+      "word": "血氧仪单日成交额同比增超41倍",
+      "onboard_time": 1671604468,
+      "rank": 42,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 140003,
+      "num": 140003,
+      "word": "山东两地明确过年可燃放烟花爆竹",
+      "onboard_time": 1671604289,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 138691,
       "num": 138691,
       "word": "NewJeans的圣诞特别视频",
@@ -1329,6 +1361,14 @@
       "onboard_time": 1671541113,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 110194,
+      "num": 110194,
+      "word": "独臂男孩把跳绳系在袖子上坚持练习",
+      "onboard_time": 1671603808,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 109253,
