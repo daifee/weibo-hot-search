@@ -1,6 +1,6 @@
 {
   "startTime": 1671380618877,
-  "endTime": 1671644011193,
+  "endTime": 1671646932539,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -7771,6 +7771,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 51448,
+      "num": 51448,
+      "word": "直井怜LOVEDIVE直拍",
+      "onboard_time": 1671644297,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 51180,
       "num": 51180,
       "word": "新疆冬天水果车长什么样子",
@@ -7795,6 +7803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 43797,
+      "num": 43797,
+      "word": "BLACKPINK韩国VOGUE画报视频",
+      "onboard_time": 1671646576,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 42496,
       "num": 42496,
       "word": "当我阳了后狗子们的反应",
@@ -7811,7 +7827,7 @@
       "category": "科技"
     },
     {
-      "raw_hot": 38590,
+      "raw_hot": 40352,
       "num": 56861,
       "word": "这猫是挺犟的",
       "onboard_time": 1671642620,
@@ -7924,6 +7940,9 @@
     },
     {
       "word": "#真理之光引领复兴之路#"
+    },
+    {
+      "word": "#跟着总书记看中国#"
     }
   ]
 }
