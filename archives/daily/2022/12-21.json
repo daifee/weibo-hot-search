@@ -1,6 +1,6 @@
 {
   "startTime": 1671553616280,
-  "endTime": 1671590180850,
+  "endTime": 1671590765574,
   "band_list": [
     {
       "raw_hot": 2952320,
@@ -19,8 +19,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1768298,
-      "num": 1768298,
+      "raw_hot": 1806639,
+      "num": 1806639,
       "word": "布洛芬巨头逼近跌停",
       "onboard_time": 1671585929,
       "rank": 11,
@@ -75,8 +75,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 930482,
-      "num": 930482,
+      "raw_hot": 933149,
+      "num": 933149,
       "word": "医生称幻阳症是一种自我防御",
       "onboard_time": 1671586467,
       "rank": 22,
@@ -131,20 +131,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 576663,
+      "num": 576663,
+      "word": "考研",
+      "onboard_time": 1671586352,
+      "rank": 17,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 566279,
+      "num": 455909,
+      "word": "游行中有人扔给梅西一个忍者神龟",
+      "onboard_time": 1671588510,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 559022,
       "num": 559022,
       "word": "伊甸园 lana",
       "onboard_time": 1671580705,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 528029,
-      "num": 528029,
-      "word": "考研",
-      "onboard_time": 1671586352,
-      "rank": 17,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 483866,
@@ -171,12 +179,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 451594,
-      "num": 451594,
-      "word": "游行中有人扔给梅西一个忍者神龟",
-      "onboard_time": 1671588510,
-      "rank": 12,
-      "category": "体育"
+      "raw_hot": 450000,
+      "num": 450000,
+      "word": "电影想见你六人角色预告",
+      "onboard_time": 1671588991,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 447312,
@@ -251,8 +259,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 341435,
-      "num": 341435,
+      "raw_hot": 342594,
+      "num": 342594,
       "word": "大理遭遇大面积客房退单",
       "onboard_time": 1671586648,
       "rank": 32,
@@ -283,19 +291,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 314078,
-      "num": 314078,
-      "word": "电影想见你六人角色预告",
-      "onboard_time": 1671588991,
-      "rank": 17,
-      "category": "影视"
-    },
-    {
       "raw_hot": 311340,
       "num": 311340,
       "word": "女孩是家里唯一阴性被反向隔离",
       "onboard_time": 1671548309,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 308905,
+      "num": 308905,
+      "word": "病毒变异后仍可能造成突破性感染",
+      "onboard_time": 1671589170,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -323,8 +331,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 256753,
-      "num": 256753,
+      "raw_hot": 263486,
+      "num": 263486,
+      "word": "快递小哥弄丢金碗哭着报警",
+      "onboard_time": 1671590008,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 261154,
+      "num": 261154,
       "word": "梅西说冠军属于天堂的马拉多纳",
       "onboard_time": 1671585929,
       "rank": 25,
@@ -363,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 233527,
+      "num": 233527,
+      "word": "疫情走向将如何发展",
+      "onboard_time": 1671588209,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 217702,
       "num": 217702,
       "word": "河源地震",
@@ -384,14 +408,6 @@
       "word": "1岁女孩高烧39度警车5分钟送医",
       "onboard_time": 1671542314,
       "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 216437,
-      "num": 216437,
-      "word": "疫情走向将如何发展",
-      "onboard_time": 1671588209,
-      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -483,6 +499,14 @@
       "category": "自然"
     },
     {
+      "raw_hot": 183483,
+      "num": 183483,
+      "word": "被喜欢的人拒绝3次还会追下去吗",
+      "onboard_time": 1671590190,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 183064,
       "num": 183064,
       "word": "capper直播",
@@ -499,12 +523,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 180219,
-      "num": 180219,
-      "word": "病毒变异后仍可能造成突破性感染",
-      "onboard_time": 1671589170,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 179439,
+      "num": 179439,
+      "word": "才知道有胃病是不能喝粥的",
+      "onboard_time": 1671589529,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 175516,
@@ -513,6 +537,22 @@
       "onboard_time": 1671588811,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 167649,
+      "num": 167649,
+      "word": "如何评价王者李白新皮肤",
+      "onboard_time": 1671589651,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 164432,
+      "num": 164432,
+      "word": "10个月宝宝捐献角膜救2岁孩子",
+      "onboard_time": 1671589950,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 157001,
@@ -539,6 +579,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 154460,
+      "num": 154460,
+      "word": "刘宇跳candy视频",
+      "onboard_time": 1671590129,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 152409,
       "num": 152409,
       "word": "多地开打第四针",
@@ -563,14 +611,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 151189,
-      "num": 151189,
-      "word": "才知道有胃病是不能喝粥的",
-      "onboard_time": 1671589529,
-      "rank": 40,
-      "category": "情感"
-    },
-    {
       "raw_hot": 147210,
       "num": 147210,
       "word": "为什么退烧后咳嗽会加重",
@@ -585,14 +625,6 @@
       "onboard_time": 1671556580,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 145754,
-      "num": 145754,
-      "word": "如何评价王者李白新皮肤",
-      "onboard_time": 1671589651,
-      "rank": 41,
-      "category": "游戏"
     },
     {
       "raw_hot": 144895,
@@ -627,20 +659,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 139379,
-      "num": 139379,
+      "raw_hot": 139543,
+      "num": 139543,
       "word": "多地政府向市民免费发放退烧药",
       "onboard_time": 1671589291,
       "rank": 42,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 136651,
-      "num": 136651,
-      "word": "快递小哥弄丢金碗哭着报警",
-      "onboard_time": 1671590008,
-      "rank": 43,
-      "category": "社会新闻"
+      "raw_hot": 138691,
+      "num": 138691,
+      "word": "NewJeans的圣诞特别视频",
+      "onboard_time": 1671587431,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 135197,
@@ -667,14 +699,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 133551,
-      "num": 133551,
-      "word": "10个月宝宝捐献角膜救2岁孩子",
-      "onboard_time": 1671589950,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 133033,
       "num": 119094,
       "word": "吴镇宇的嘴是抹了鹤顶红吗",
@@ -691,12 +715,20 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 129970,
-      "num": 129970,
-      "word": "刘宇跳candy视频",
-      "onboard_time": 1671590129,
+      "raw_hot": 128217,
+      "num": 128217,
+      "word": "手机可拆卸电池或被迫回归",
+      "onboard_time": 1671590550,
+      "rank": 48,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 125368,
+      "num": 125368,
+      "word": "Vernon新歌预告视频",
+      "onboard_time": 1671590729,
       "rank": 49,
-      "category": "作品衍生"
+      "category": "音乐"
     },
     {
       "raw_hot": 124695,
