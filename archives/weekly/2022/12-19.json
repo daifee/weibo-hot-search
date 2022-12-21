@@ -1,6 +1,6 @@
 {
   "startTime": 1671380618877,
-  "endTime": 1671658412053,
+  "endTime": 1671661041184,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -7699,8 +7699,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 64938,
-      "num": 64938,
+      "raw_hot": 65029,
+      "num": 65029,
       "word": "阳性康复居家如何全面消杀",
       "onboard_time": 1671640522,
       "rank": 47,
@@ -7769,6 +7769,14 @@
       "onboard_time": 1671561973,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 53241,
+      "num": 53241,
+      "word": "心态是战胜病毒的良药",
+      "onboard_time": 1671658271,
+      "rank": 49,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 51448,
@@ -7859,6 +7867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 35467,
+      "num": 35467,
+      "word": "章子怡获金莲花最佳女主角奖",
+      "onboard_time": 1671654492,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 33061,
       "num": 36252,
       "word": "法国队 黑人球员",
@@ -7883,16 +7899,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 28961,
-      "num": 28961,
-      "word": "章子怡获金莲花最佳女主角奖",
-      "onboard_time": 1671654492,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 27515,
-      "num": 27515,
+      "raw_hot": 29347,
+      "num": 29347,
       "word": "哪一刻发现对方不爱你了",
       "onboard_time": 1671652334,
       "rank": 40,
@@ -7929,14 +7937,6 @@
       "onboard_time": 1671485292,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 12383,
-      "num": 16314,
-      "word": "心态是战胜病毒的良药",
-      "onboard_time": 1671658271,
-      "rank": 49,
-      "category": "社会新闻,情感"
     }
   ],
   "hotgov_list": [
