@@ -1,6 +1,6 @@
 {
   "startTime": 1671553616280,
-  "endTime": 1671592778524,
+  "endTime": 1671593630452,
   "band_list": [
     {
       "raw_hot": 2952320,
@@ -51,6 +51,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1160485,
+      "num": 1160485,
+      "word": "快递小哥弄丢金碗哭着报警",
+      "onboard_time": 1671590008,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1150429,
       "num": 1150429,
       "word": "车保罗已离开无限超越班",
@@ -67,11 +75,11 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 1082558,
-      "num": 1082558,
-      "word": "快递小哥弄丢金碗哭着报警",
-      "onboard_time": 1671590008,
-      "rank": 43,
+      "raw_hot": 956694,
+      "num": 956694,
+      "word": "病毒变异后仍可能造成突破性感染",
+      "onboard_time": 1671589170,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -99,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 860073,
+      "num": 860073,
+      "word": "美国的退烧药也缺货了",
+      "onboard_time": 1671592052,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 848647,
       "num": 848647,
       "word": "谷爱凌再创一新世界纪录",
@@ -123,20 +139,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 748900,
-      "num": 748900,
-      "word": "病毒变异后仍可能造成突破性感染",
-      "onboard_time": 1671589170,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 731834,
       "num": 731834,
       "word": "梅西发长文感恩世界杯夺冠",
       "onboard_time": 1671584971,
       "rank": 31,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 695620,
+      "num": 695620,
+      "word": "游行中有人扔给梅西一个忍者神龟",
+      "onboard_time": 1671588510,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 668039,
@@ -163,12 +179,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 569006,
-      "num": 455909,
-      "word": "游行中有人扔给梅西一个忍者神龟",
-      "onboard_time": 1671588510,
-      "rank": 12,
-      "category": "体育"
+      "raw_hot": 566763,
+      "num": 566763,
+      "word": "00后用第一笔工资给爸妈买iPhone",
+      "onboard_time": 1671591269,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 559022,
@@ -227,14 +243,6 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 443045,
-      "num": 443045,
-      "word": "00后用第一笔工资给爸妈买iPhone",
-      "onboard_time": 1671591269,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 426830,
       "num": 426830,
       "word": "海边有人喊住了王诠胜",
@@ -273,6 +281,14 @@
       "onboard_time": 1671539672,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 350304,
+      "num": 350304,
+      "word": "江苏卫视跨年阵容AI绘画线索",
+      "onboard_time": 1671591509,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 349794,
@@ -323,28 +339,20 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 325032,
+      "num": 325032,
+      "word": "疫情走向将如何发展",
+      "onboard_time": 1671588209,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 324030,
       "num": 324030,
       "word": "只有许魏洲选了车保罗",
       "onboard_time": 1671550169,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 316572,
-      "num": 316572,
-      "word": "江苏卫视跨年阵容AI绘画线索",
-      "onboard_time": 1671591509,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 313862,
-      "num": 313862,
-      "word": "美国的退烧药也缺货了",
-      "onboard_time": 1671592052,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 311340,
@@ -371,12 +379,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 285968,
-      "num": 285968,
-      "word": "疫情走向将如何发展",
-      "onboard_time": 1671588209,
-      "rank": 24,
-      "category": "社会新闻"
+      "raw_hot": 283614,
+      "num": 283614,
+      "word": "手机可拆卸电池或被迫回归",
+      "onboard_time": 1671590550,
+      "rank": 48,
+      "category": "科技"
     },
     {
       "raw_hot": 283170,
@@ -409,14 +417,6 @@
       "onboard_time": 1671585929,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 251641,
-      "num": 251641,
-      "word": "手机可拆卸电池或被迫回归",
-      "onboard_time": 1671590550,
-      "rank": 48,
-      "category": "科技"
     },
     {
       "raw_hot": 242075,
@@ -563,8 +563,16 @@
       "category": "自然"
     },
     {
-      "raw_hot": 194794,
-      "num": 194794,
+      "raw_hot": 196812,
+      "num": 196812,
+      "word": "姆巴佩中场演讲激励队友",
+      "onboard_time": 1671593191,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 196289,
+      "num": 196289,
       "word": "被喜欢的人拒绝3次还会追下去吗",
       "onboard_time": 1671590190,
       "rank": 29,
@@ -579,6 +587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 188736,
+      "num": 188736,
+      "word": "多地政府向市民免费发放退烧药",
+      "onboard_time": 1671589291,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 183064,
       "num": 183064,
       "word": "capper直播",
@@ -587,27 +603,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 180667,
-      "num": 180667,
-      "word": "N95口罩价格为何一涨再涨",
-      "onboard_time": 1671551607,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 179439,
-      "num": 179439,
+      "raw_hot": 182873,
+      "num": 182873,
       "word": "才知道有胃病是不能喝粥的",
       "onboard_time": 1671589529,
       "rank": 40,
       "category": "情感"
     },
     {
-      "raw_hot": 178963,
-      "num": 178963,
-      "word": "多地政府向市民免费发放退烧药",
-      "onboard_time": 1671589291,
-      "rank": 42,
+      "raw_hot": 180667,
+      "num": 180667,
+      "word": "N95口罩价格为何一涨再涨",
+      "onboard_time": 1671551607,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -625,6 +633,22 @@
       "onboard_time": 1671590789,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 162820,
+      "num": 162820,
+      "word": "医生将退烧药贴诊所玻璃上供应急",
+      "onboard_time": 1671593070,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161520,
+      "num": 161520,
+      "word": "王嘉尔今年在2022最美的夜过跨晚",
+      "onboard_time": 1671592532,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 157001,
@@ -657,6 +681,14 @@
       "onboard_time": 1671590129,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 153248,
+      "num": 153248,
+      "word": "胡先煦直播状态",
+      "onboard_time": 1671593070,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 152409,
@@ -787,6 +819,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 130046,
+      "num": 130046,
+      "word": "墨魂停服",
+      "onboard_time": 1671592950,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 125368,
       "num": 125368,
       "word": "Vernon新歌预告视频",
@@ -827,12 +867,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 118019,
+      "num": 118019,
+      "word": "阿轲暗夜猫娘星元部件",
+      "onboard_time": 1671593254,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 117028,
       "num": 117028,
       "word": "Danielle新歌开头吟唱",
       "onboard_time": 1671550229,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 116701,
+      "num": 116701,
+      "word": "男子低血糖晕倒女店主暖心救助",
+      "onboard_time": 1671593610,
+      "rank": 49,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 113829,
@@ -849,14 +905,6 @@
       "onboard_time": 1671541113,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 111578,
-      "num": 111578,
-      "word": "王嘉尔今年在2022最美的夜过跨晚",
-      "onboard_time": 1671592532,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 109253,
