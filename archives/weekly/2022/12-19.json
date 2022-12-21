@@ -1,6 +1,6 @@
 {
   "startTime": 1671380618877,
-  "endTime": 1671657368294,
+  "endTime": 1671658412053,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -7883,8 +7883,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 27647,
-      "num": 27647,
+      "raw_hot": 28961,
+      "num": 28961,
       "word": "章子怡获金莲花最佳女主角奖",
       "onboard_time": 1671654492,
       "rank": 40,
@@ -7929,6 +7929,14 @@
       "onboard_time": 1671485292,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 12383,
+      "num": 16314,
+      "word": "心态是战胜病毒的良药",
+      "onboard_time": 1671658271,
+      "rank": 49,
+      "category": "社会新闻,情感"
     }
   ],
   "hotgov_list": [

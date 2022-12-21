@@ -1,6 +1,6 @@
 {
   "startTime": 1671639995248,
-  "endTime": 1671657368294,
+  "endTime": 1671658412053,
   "band_list": [
     {
       "raw_hot": 1846187,
@@ -459,6 +459,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 28961,
+      "num": 28961,
+      "word": "章子怡获金莲花最佳女主角奖",
+      "onboard_time": 1671654492,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 28093,
       "num": 775693,
       "word": "2023年都有啥大事",
@@ -467,20 +475,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 27647,
-      "num": 27647,
-      "word": "章子怡获金莲花最佳女主角奖",
-      "onboard_time": 1671654492,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 27515,
       "num": 27515,
       "word": "哪一刻发现对方不爱你了",
       "onboard_time": 1671652334,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 12383,
+      "num": 16314,
+      "word": "心态是战胜病毒的良药",
+      "onboard_time": 1671658271,
+      "rank": 49,
+      "category": "社会新闻,情感"
     }
   ],
   "hotgov_list": [
