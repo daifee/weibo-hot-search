@@ -1,6 +1,6 @@
 {
   "startTime": 1671553616280,
-  "endTime": 1671585838464,
+  "endTime": 1671587401622,
   "band_list": [
     {
       "raw_hot": 2952320,
@@ -11,11 +11,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1948937,
+      "raw_hot": 2051643,
       "num": 1948937,
       "word": "女子阳后3天没下楼家里满地垃圾",
       "onboard_time": 1671583651,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1619056,
+      "num": 1619056,
+      "word": "塔利班全面禁止阿富汗女性上大学",
+      "onboard_time": 1671583951,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -27,14 +35,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1175384,
-      "num": 1175384,
-      "word": "塔利班全面禁止阿富汗女性上大学",
-      "onboard_time": 1671583951,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1150429,
       "num": 1150429,
       "word": "车保罗已离开无限超越班",
@@ -43,12 +43,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1118005,
-      "num": 1118005,
+      "raw_hot": 1118697,
+      "num": 1118697,
       "word": "阿根廷冠军游行提前结束",
       "onboard_time": 1671582867,
       "rank": 3,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 1046253,
+      "num": 405367,
+      "word": "布洛芬巨头逼近跌停",
+      "onboard_time": 1671585929,
+      "rank": 11,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 1029620,
+      "num": 1029620,
+      "word": "济南一采血点全天仅5人献血",
+      "onboard_time": 1671585210,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 953957,
@@ -67,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 848647,
+      "num": 848647,
+      "word": "谷爱凌再创一新世界纪录",
+      "onboard_time": 1671583170,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 845525,
       "num": 845525,
       "word": "阳转阴的6个认知误区",
@@ -83,12 +107,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 720007,
-      "num": 720007,
-      "word": "谷爱凌再创一新世界纪录",
-      "onboard_time": 1671583170,
-      "rank": 7,
-      "category": "体育"
+      "raw_hot": 622965,
+      "num": 400845,
+      "word": "11岁男孩阳性两个脸蛋体温不同",
+      "onboard_time": 1671584731,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 562800,
+      "num": 395122,
+      "word": "梅西发长文感恩世界杯夺冠",
+      "onboard_time": 1671584971,
+      "rank": 31,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 559022,
@@ -99,8 +131,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 454112,
-      "num": 454112,
+      "raw_hot": 483866,
+      "num": 483866,
       "word": "17岁少年文花臂后起诉店家获赔5800",
       "onboard_time": 1671583890,
       "rank": 11,
@@ -112,14 +144,6 @@
       "word": "N95口罩佩戴时间不要太长",
       "onboard_time": 1671537632,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 450196,
-      "num": 208059,
-      "word": "11岁男孩阳性两个脸蛋体温不同",
-      "onboard_time": 1671584731,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -195,12 +219,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 338481,
-      "num": 208058,
-      "word": "梅西发长文感恩世界杯夺冠",
-      "onboard_time": 1671584971,
-      "rank": 31,
-      "category": "体育,社会新闻"
+      "raw_hot": 343042,
+      "num": 343042,
+      "word": "考研",
+      "onboard_time": 1671586352,
+      "rank": 17,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 330653,
@@ -235,11 +259,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 296649,
-      "num": 296649,
-      "word": "济南一采血点全天仅5人献血",
-      "onboard_time": 1671585210,
-      "rank": 21,
+      "raw_hot": 294345,
+      "num": 294345,
+      "word": "医生称幻阳症是一种自我防御",
+      "onboard_time": 1671586467,
+      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -257,6 +281,22 @@
       "onboard_time": 1671525212,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 268317,
+      "num": 268317,
+      "word": "官方通报快递布洛芬变衣服",
+      "onboard_time": 1671584612,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 256753,
+      "num": 256753,
+      "word": "梅西说冠军属于天堂的马拉多纳",
+      "onboard_time": 1671585929,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 242075,
@@ -288,14 +328,6 @@
       "word": "哪些人群二次感染风险较大",
       "onboard_time": 1671583469,
       "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 218713,
-      "num": 218713,
-      "word": "官方通报快递布洛芬变衣服",
-      "onboard_time": 1671584612,
-      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -355,6 +387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 208669,
+      "num": 208669,
+      "word": "大理遭遇大面积客房退单",
+      "onboard_time": 1671586648,
+      "rank": 32,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 208064,
       "num": 208064,
       "word": "深圳震感",
@@ -371,12 +411,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 203945,
+      "num": 203945,
+      "word": "周柯宇Gemini 直播",
+      "onboard_time": 1671580887,
+      "rank": 36,
+      "category": "游戏,艺人"
+    },
+    {
       "raw_hot": 201573,
       "num": 201573,
       "word": "东北农村饭店菜量有多大",
       "onboard_time": 1671581248,
       "rank": 33,
       "category": "美食,情感"
+    },
+    {
+      "raw_hot": 197332,
+      "num": 197332,
+      "word": "布洛芬对乙酰氨基酚产能正逐步释放",
+      "onboard_time": 1671553882,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 197298,
@@ -387,20 +443,12 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 191285,
-      "num": 191285,
-      "word": "周柯宇Gemini 直播",
-      "onboard_time": 1671580887,
-      "rank": 36,
-      "category": "游戏,艺人"
-    },
-    {
-      "raw_hot": 183898,
-      "num": 183898,
-      "word": "布洛芬对乙酰氨基酚产能正逐步释放",
-      "onboard_time": 1671553882,
-      "rank": 17,
-      "category": "社会新闻"
+      "raw_hot": 197074,
+      "num": 197074,
+      "word": "冬季星空有什么不一样",
+      "onboard_time": 1671586890,
+      "rank": 37,
+      "category": "自然"
     },
     {
       "raw_hot": 183064,
@@ -497,6 +545,22 @@
       "onboard_time": 1671585810,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 140523,
+      "num": 140523,
+      "word": "阳康人群要打第四针疫苗吗",
+      "onboard_time": 1671587130,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 135197,
+      "num": 135197,
+      "word": "女子奋不顾身将持刀男子制服",
+      "onboard_time": 1671587250,
+      "rank": 47,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 134909,
