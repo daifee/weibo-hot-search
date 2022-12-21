@@ -1,0 +1,410 @@
+{
+  "runTime": 1671590180850,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1768298,
+        "num": 1768298,
+        "word": "布洛芬巨头逼近跌停",
+        "onboard_time": 1671585929,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 930482,
+        "num": 930482,
+        "word": "医生称幻阳症是一种自我防御",
+        "onboard_time": 1671586467,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135118,
+        "num": 816485,
+        "word": "如何科学止咳",
+        "onboard_time": 1671539971,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1304798,
+        "num": 815607,
+        "word": "济南一采血点全天仅5人献血",
+        "onboard_time": 1671585210,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 731834,
+        "num": 731834,
+        "word": "梅西发长文感恩世界杯夺冠",
+        "onboard_time": 1671584971,
+        "rank": 4,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 668039,
+        "num": 668039,
+        "word": "11岁男孩阳性两个脸蛋体温不同",
+        "onboard_time": 1671584731,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 630345,
+        "num": 630345,
+        "word": "阿根廷冠军游行提前结束",
+        "onboard_time": 1671582867,
+        "rank": 6,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 553721,
+        "num": 553721,
+        "word": "车保罗已离开无限超越班",
+        "onboard_time": 1671549809,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 528029,
+        "num": 528029,
+        "word": "考研",
+        "onboard_time": 1671586352,
+        "rank": 8,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 495474,
+        "num": 495474,
+        "word": "谷爱凌再创一新世界纪录",
+        "onboard_time": 1671583170,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1706501,
+        "num": 492081,
+        "word": "女子阳后3天没下楼家里满地垃圾",
+        "onboard_time": 1671583651,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 459654,
+        "num": 459654,
+        "word": "血液中心呼吁返乡大学生就地献血",
+        "onboard_time": 1671587729,
+        "rank": 11,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 451594,
+        "num": 451594,
+        "word": "游行中有人扔给梅西一个忍者神龟",
+        "onboard_time": 1671588510,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1428865,
+        "num": 445419,
+        "word": "塔利班全面禁止阿富汗女性上大学",
+        "onboard_time": 1671583951,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 390001,
+        "num": 390001,
+        "word": "阳转阴的6个认知误区",
+        "onboard_time": 1671581188,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 341435,
+        "num": 341435,
+        "word": "大理遭遇大面积客房退单",
+        "onboard_time": 1671586648,
+        "rank": 15,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 323021,
+        "num": 323021,
+        "word": "17岁少年文花臂后起诉店家获赔5800",
+        "onboard_time": 1671583890,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314078,
+        "num": 314078,
+        "word": "电影想见你六人角色预告",
+        "onboard_time": 1671588991,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 282717,
+        "num": 282717,
+        "word": "阳了的前期症状是嚣张跋扈",
+        "onboard_time": 1671542255,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290505,
+        "num": 282212,
+        "word": "马来西亚立法禁止女性穿男装",
+        "onboard_time": 1671553402,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280040,
+        "num": 280040,
+        "word": "伊甸园 lana",
+        "onboard_time": 1671580705,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 279632,
+        "num": 279632,
+        "word": "N95口罩佩戴时间不要太长",
+        "onboard_time": 1671537632,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251271,
+        "num": 251271,
+        "word": "梅西说冠军属于天堂的马拉多纳",
+        "onboard_time": 1671585929,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 241995,
+        "num": 241995,
+        "word": "兵马俑新鲜出土",
+        "onboard_time": 1671583289,
+        "rank": 23,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 216437,
+        "num": 216437,
+        "word": "疫情走向将如何发展",
+        "onboard_time": 1671588209,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210894,
+        "num": 210894,
+        "word": "官方通报快递布洛芬变衣服",
+        "onboard_time": 1671584612,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210345,
+        "num": 210345,
+        "word": "车保罗",
+        "onboard_time": 1671549330,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208342,
+        "num": 208342,
+        "word": "退烧后咳个不停怎样用药",
+        "onboard_time": 1671581906,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196032,
+        "num": 196032,
+        "word": "匈牙利冰协已同意刘少林刘少昂更改国籍",
+        "onboard_time": 1671583651,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185075,
+        "num": 185075,
+        "word": "只有许魏洲选了车保罗",
+        "onboard_time": 1671550169,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180219,
+        "num": 180219,
+        "word": "病毒变异后仍可能造成突破性感染",
+        "onboard_time": 1671589170,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 560715,
+        "num": 178881,
+        "word": "专家称重复感染死亡风险翻倍",
+        "onboard_time": 1671548550,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176836,
+        "num": 176836,
+        "word": "布洛芬对乙酰氨基酚产能正逐步释放",
+        "onboard_time": 1671553882,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175516,
+        "num": 175516,
+        "word": "我可能遇到了救星剧情",
+        "onboard_time": 1671588811,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 162315,
+        "num": 162315,
+        "word": "李斌致歉",
+        "onboard_time": 1671582086,
+        "rank": 34,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 158589,
+        "num": 158589,
+        "word": "广州震感",
+        "onboard_time": 1671579924,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156559,
+        "num": 156559,
+        "word": "韩国男子摸继女屁股引众怒",
+        "onboard_time": 1671543933,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155843,
+        "num": 155843,
+        "word": "电影想见你预售票房突破500万",
+        "onboard_time": 1671589769,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 154088,
+        "num": 154088,
+        "word": "2023年都有啥大事",
+        "onboard_time": 1671583107,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152217,
+        "num": 152217,
+        "word": "阿凡达2票房不及预期迪士尼大跌",
+        "onboard_time": 1671549928,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 151189,
+        "num": 151189,
+        "word": "才知道有胃病是不能喝粥的",
+        "onboard_time": 1671589529,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 145754,
+        "num": 145754,
+        "word": "如何评价王者李白新皮肤",
+        "onboard_time": 1671589651,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 139379,
+        "num": 139379,
+        "word": "多地政府向市民免费发放退烧药",
+        "onboard_time": 1671589291,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136651,
+        "num": 136651,
+        "word": "快递小哥弄丢金碗哭着报警",
+        "onboard_time": 1671590008,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136224,
+        "num": 136224,
+        "word": "全国多地血库告急",
+        "onboard_time": 1671581005,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133574,
+        "num": 133574,
+        "word": "周柯宇Gemini 直播",
+        "onboard_time": 1671580887,
+        "rank": 45,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 133551,
+        "num": 133551,
+        "word": "10个月宝宝捐献角膜救2岁孩子",
+        "onboard_time": 1671589950,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132745,
+        "num": 132745,
+        "word": "哪些人群二次感染风险较大",
+        "onboard_time": 1671583469,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131678,
+        "num": 131678,
+        "word": "女子奋不顾身将持刀男子制服",
+        "onboard_time": 1671587250,
+        "rank": 48,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 129970,
+        "num": 129970,
+        "word": "刘宇跳candy视频",
+        "onboard_time": 1671590129,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#祝福澳门明天会更好#"
+    }
+  }
+}

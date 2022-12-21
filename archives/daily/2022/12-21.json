@@ -1,6 +1,6 @@
 {
   "startTime": 1671553616280,
-  "endTime": 1671587401622,
+  "endTime": 1671590180850,
   "band_list": [
     {
       "raw_hot": 2952320,
@@ -19,6 +19,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1768298,
+      "num": 1768298,
+      "word": "布洛芬巨头逼近跌停",
+      "onboard_time": 1671585929,
+      "rank": 11,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1619056,
       "num": 1619056,
       "word": "塔利班全面禁止阿富汗女性上大学",
@@ -33,6 +41,14 @@
       "onboard_time": 1671549330,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1304798,
+      "num": 1029620,
+      "word": "济南一采血点全天仅5人献血",
+      "onboard_time": 1671585210,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1150429,
@@ -51,27 +67,19 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 1046253,
-      "num": 405367,
-      "word": "布洛芬巨头逼近跌停",
-      "onboard_time": 1671585929,
-      "rank": 11,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 1029620,
-      "num": 1029620,
-      "word": "济南一采血点全天仅5人献血",
-      "onboard_time": 1671585210,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 953957,
       "num": 953957,
       "word": "马来西亚立法禁止女性穿男装",
       "onboard_time": 1671553402,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 930482,
+      "num": 930482,
+      "word": "医生称幻阳症是一种自我防御",
+      "onboard_time": 1671586467,
+      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -107,20 +115,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 622965,
-      "num": 400845,
-      "word": "11岁男孩阳性两个脸蛋体温不同",
-      "onboard_time": 1671584731,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 562800,
-      "num": 395122,
+      "raw_hot": 731834,
+      "num": 731834,
       "word": "梅西发长文感恩世界杯夺冠",
       "onboard_time": 1671584971,
       "rank": 31,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 668039,
+      "num": 668039,
+      "word": "11岁男孩阳性两个脸蛋体温不同",
+      "onboard_time": 1671584731,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 559022,
@@ -131,6 +139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 528029,
+      "num": 528029,
+      "word": "考研",
+      "onboard_time": 1671586352,
+      "rank": 17,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 483866,
       "num": 483866,
       "word": "17岁少年文花臂后起诉店家获赔5800",
@@ -139,12 +155,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 459654,
+      "num": 459654,
+      "word": "血液中心呼吁返乡大学生就地献血",
+      "onboard_time": 1671587729,
+      "rank": 11,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 452015,
       "num": 452015,
       "word": "N95口罩佩戴时间不要太长",
       "onboard_time": 1671537632,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 451594,
+      "num": 451594,
+      "word": "游行中有人扔给梅西一个忍者神龟",
+      "onboard_time": 1671588510,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 447312,
@@ -219,12 +251,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 343042,
-      "num": 343042,
-      "word": "考研",
-      "onboard_time": 1671586352,
-      "rank": 17,
-      "category": "社会新闻,教育"
+      "raw_hot": 341435,
+      "num": 341435,
+      "word": "大理遭遇大面积客房退单",
+      "onboard_time": 1671586648,
+      "rank": 32,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 330653,
@@ -251,19 +283,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 314078,
+      "num": 314078,
+      "word": "电影想见你六人角色预告",
+      "onboard_time": 1671588991,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 311340,
       "num": 311340,
       "word": "女孩是家里唯一阴性被反向隔离",
       "onboard_time": 1671548309,
       "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 294345,
-      "num": 294345,
-      "word": "医生称幻阳症是一种自我防御",
-      "onboard_time": 1671586467,
-      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -355,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 216437,
+      "num": 216437,
+      "word": "疫情走向将如何发展",
+      "onboard_time": 1671588209,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 215906,
       "num": 215906,
       "word": "Lisa不做手术是为了赚钱支持艾威",
@@ -385,14 +425,6 @@
       "onboard_time": 1671544172,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 208669,
-      "num": 208669,
-      "word": "大理遭遇大面积客房退单",
-      "onboard_time": 1671586648,
-      "rank": 32,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 208064,
@@ -467,12 +499,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 180219,
+      "num": 180219,
+      "word": "病毒变异后仍可能造成突破性感染",
+      "onboard_time": 1671589170,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 175516,
+      "num": 175516,
+      "word": "我可能遇到了救星剧情",
+      "onboard_time": 1671588811,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 157001,
       "num": 157001,
       "word": "幼童被保姆留在电梯坠亡后的100天",
       "onboard_time": 1671537570,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 155843,
+      "num": 155843,
+      "word": "电影想见你预售票房突破500万",
+      "onboard_time": 1671589769,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 155241,
@@ -507,6 +563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 151189,
+      "num": 151189,
+      "word": "才知道有胃病是不能喝粥的",
+      "onboard_time": 1671589529,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 147210,
       "num": 147210,
       "word": "为什么退烧后咳嗽会加重",
@@ -521,6 +585,14 @@
       "onboard_time": 1671556580,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 145754,
+      "num": 145754,
+      "word": "如何评价王者李白新皮肤",
+      "onboard_time": 1671589651,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 144895,
@@ -555,6 +627,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 139379,
+      "num": 139379,
+      "word": "多地政府向市民免费发放退烧药",
+      "onboard_time": 1671589291,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 136651,
+      "num": 136651,
+      "word": "快递小哥弄丢金碗哭着报警",
+      "onboard_time": 1671590008,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 135197,
       "num": 135197,
       "word": "女子奋不顾身将持刀男子制服",
@@ -579,6 +667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 133551,
+      "num": 133551,
+      "word": "10个月宝宝捐献角膜救2岁孩子",
+      "onboard_time": 1671589950,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 133033,
       "num": 119094,
       "word": "吴镇宇的嘴是抹了鹤顶红吗",
@@ -593,6 +689,14 @@
       "onboard_time": 1671545011,
       "rank": 27,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 129970,
+      "num": 129970,
+      "word": "刘宇跳candy视频",
+      "onboard_time": 1671590129,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 124695,
