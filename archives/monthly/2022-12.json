@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1671654811300,
+  "endTime": 1671657368294,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -49011,6 +49011,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 27647,
+      "num": 27647,
+      "word": "章子怡获金莲花最佳女主角奖",
+      "onboard_time": 1671654492,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 27515,
+      "num": 27515,
+      "word": "哪一刻发现对方不爱你了",
+      "onboard_time": 1671652334,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 26729,
       "num": 26729,
       "word": "加维反差萌",
@@ -49059,14 +49075,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 21129,
-      "num": 21129,
-      "word": "哪一刻发现对方不爱你了",
-      "onboard_time": 1671652334,
-      "rank": 40,
-      "category": "情感"
-    },
-    {
       "raw_hot": 20675,
       "num": 44299,
       "word": "中阿友好相信还会好上加好",
@@ -49089,14 +49097,6 @@
       "onboard_time": 1671394993,
       "rank": 48,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 16985,
-      "num": 16985,
-      "word": "章子怡获金莲花最佳女主角奖",
-      "onboard_time": 1671654492,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 16700,

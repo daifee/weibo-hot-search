@@ -1,0 +1,410 @@
+{
+  "runTime": 1671657368294,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 247710,
+        "num": 247710,
+        "word": "王劲松 妈妈被疫情带走了",
+        "onboard_time": 1671630694,
+        "rank": 0,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 237339,
+        "num": 237339,
+        "word": "女子阳后瘦8斤医生称别高兴太早",
+        "onboard_time": 1671638067,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 5120,
+        "num": 93025,
+        "word": "2023年都有啥大事",
+        "onboard_time": 1671583107,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87646,
+        "num": 87646,
+        "word": "阿根廷队拒绝会面总统",
+        "onboard_time": 1671633040,
+        "rank": 3,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 70137,
+        "num": 70137,
+        "word": "复阳和再次感染的区别",
+        "onboard_time": 1671631600,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 69110,
+        "num": 69110,
+        "word": "近期我国多位医学大家逝世",
+        "onboard_time": 1671635435,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68492,
+        "num": 68492,
+        "word": "女子客厅看电视阳性老公投屏求救",
+        "onboard_time": 1671634117,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66527,
+        "num": 66527,
+        "word": "曝药店免费发药被人抢夺无人阻拦",
+        "onboard_time": 1671627272,
+        "rank": 7,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 64411,
+        "num": 64411,
+        "word": "这才是真的羊了",
+        "onboard_time": 1671618630,
+        "rank": 8,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 62404,
+        "num": 62404,
+        "word": "姐姐怀孕弟弟抗原阳性立马去酒店",
+        "onboard_time": 1671617911,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52244,
+        "num": 52244,
+        "word": "阳了之后洗澡会让病情加重吗",
+        "onboard_time": 1671621872,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50206,
+        "num": 50206,
+        "word": "女生发高烧4只猫趴身上赖着不走",
+        "onboard_time": 1671632138,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48832,
+        "num": 48832,
+        "word": "阳性康复居家如何全面消杀",
+        "onboard_time": 1671640522,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46113,
+        "num": 46113,
+        "word": "补充维C能预防新冠吗",
+        "onboard_time": 1671634598,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41835,
+        "num": 41835,
+        "word": "魏树礼逝世",
+        "onboard_time": 1671631238,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41304,
+        "num": 41304,
+        "word": "怪兽充电一年亏了4个亿",
+        "onboard_time": 1671635316,
+        "rank": 15,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 41242,
+        "num": 41242,
+        "word": "赵樱子演的天下第一美人",
+        "onboard_time": 1671636036,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 39945,
+        "num": 39945,
+        "word": "龚俊直播换GQ没穿的睡衣",
+        "onboard_time": 1671650833,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39875,
+        "num": 39875,
+        "word": "女子感染新冠高烧后满脸发黑",
+        "onboard_time": 1671621092,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37904,
+        "num": 37904,
+        "word": "奶奶摸出安宫牛黄丸给孙子防新冠",
+        "onboard_time": 1671618931,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36726,
+        "num": 36726,
+        "word": "阳了在家自制电解质水靠谱吗",
+        "onboard_time": 1671638366,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36063,
+        "num": 36063,
+        "word": "东北小伙趁症状轻炫1天麻辣烫过瘾",
+        "onboard_time": 1671625352,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31937,
+        "num": 31937,
+        "word": "盐煮橙子真的有用吗",
+        "onboard_time": 1671621092,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31421,
+        "num": 31421,
+        "word": "阿根廷门将曾要求C罗主罚点球",
+        "onboard_time": 1671620312,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30350,
+        "num": 30350,
+        "word": "60万粉丝女网红偷衣物被抓",
+        "onboard_time": 1671623732,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28358,
+        "num": 28358,
+        "word": "杭州无症状轻症可申请集中隔离",
+        "onboard_time": 1671615751,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28226,
+        "num": 28226,
+        "word": "赵丽颖用实力证明圆脸也能当主角",
+        "onboard_time": 1671635435,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 27647,
+        "num": 27647,
+        "word": "章子怡获金莲花最佳女主角奖",
+        "onboard_time": 1671654492,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 27515,
+        "num": 27515,
+        "word": "哪一刻发现对方不爱你了",
+        "onboard_time": 1671652334,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 26657,
+        "num": 26657,
+        "word": "张子枫新剧洗澡镜头",
+        "onboard_time": 1671629734,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 25240,
+        "num": 25240,
+        "word": "刘亦菲蓝色抹胸纱裙",
+        "onboard_time": 1671620670,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 24254,
+        "num": 24254,
+        "word": "卷王姆巴佩回大巴黎训练",
+        "onboard_time": 1671626312,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23696,
+        "num": 23696,
+        "word": "张文宏否认网传音频",
+        "onboard_time": 1671625531,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23645,
+        "num": 23645,
+        "word": "小伙照顾双胞胎侄子3天变大叔",
+        "onboard_time": 1671632675,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21490,
+        "num": 21490,
+        "word": "1988剧组来中国了吗",
+        "onboard_time": 1671628473,
+        "rank": 34,
+        "category": "幽默,影视"
+      },
+      {
+        "raw_hot": 20677,
+        "num": 20677,
+        "word": "及时回应妥善解决考生急难愁盼问题",
+        "onboard_time": 1671630215,
+        "rank": 35,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 19837,
+        "num": 19837,
+        "word": "这歌突然就会唱了",
+        "onboard_time": 1671638907,
+        "rank": 36,
+        "category": "幽默,音乐"
+      },
+      {
+        "raw_hot": 19604,
+        "num": 19604,
+        "word": "浙大博士被妻子评为不及格丈夫",
+        "onboard_time": 1671617789,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18946,
+        "num": 18946,
+        "word": "卖烤土豆的老板把自己吃的满脸灰",
+        "onboard_time": 1671638668,
+        "rank": 38,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 18475,
+        "num": 18475,
+        "word": "GAI 合照",
+        "onboard_time": 1671639085,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18180,
+        "num": 18180,
+        "word": "车保罗曾参演三部金庸作品",
+        "onboard_time": 1671641780,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 17348,
+        "num": 18170,
+        "word": "武林外传演我变阳状态",
+        "onboard_time": 1671624273,
+        "rank": 41,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 16791,
+        "num": 18154,
+        "word": "何洛洛获时政英语词汇能力大赛三等奖",
+        "onboard_time": 1671641720,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16565,
+        "num": 18139,
+        "word": "回来的女儿",
+        "onboard_time": 1671626792,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 16406,
+        "num": 18132,
+        "word": "这猫是挺犟的",
+        "onboard_time": 1671642620,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 15881,
+        "num": 18106,
+        "word": "BLACKPINK韩国VOGUE画报视频",
+        "onboard_time": 1671646576,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 15767,
+        "num": 18099,
+        "word": "阿根廷球员希望冠军属于人民",
+        "onboard_time": 1671635019,
+        "rank": 46,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 15265,
+        "num": 18091,
+        "word": "一位成年人刚刚下单了",
+        "onboard_time": 1671626255,
+        "rank": 47,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 14982,
+        "num": 18063,
+        "word": "狗狗也有自己的社交圈",
+        "onboard_time": 1671636394,
+        "rank": 48,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 11835,
+        "num": 18050,
+        "word": "北京下雪",
+        "onboard_time": 1671620972,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#2022看见平凡微光#"
+    }
+  }
+}
