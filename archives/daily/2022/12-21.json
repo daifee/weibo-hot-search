@@ -1,10 +1,10 @@
 {
   "startTime": 1671553616280,
-  "endTime": 1671632213331,
+  "endTime": 1671633240840,
   "band_list": [
     {
-      "raw_hot": 7803887,
-      "num": 7803887,
+      "raw_hot": 8369428,
+      "num": 8369428,
       "word": "王劲松 妈妈被疫情带走了",
       "onboard_time": 1671630694,
       "rank": 0,
@@ -67,6 +67,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1791691,
+      "num": 1791691,
+      "word": "曝药店免费发药被人抢夺无人阻拦",
+      "onboard_time": 1671627272,
+      "rank": 10,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1658442,
       "num": 1658442,
       "word": "张富清逝世",
@@ -81,14 +89,6 @@
       "onboard_time": 1671583951,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1599562,
-      "num": 1599562,
-      "word": "曝药店免费发药被人抢夺无人阻拦",
-      "onboard_time": 1671627272,
-      "rank": 10,
-      "category": "社会负面"
     },
     {
       "raw_hot": 1596805,
@@ -523,8 +523,16 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 587461,
+      "num": 375268,
+      "word": "魏树礼逝世",
+      "onboard_time": 1671631238,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 578532,
-      "num": 261646,
+      "num": 263467,
       "word": "张子枫新剧洗澡镜头",
       "onboard_time": 1671629734,
       "rank": 20,
@@ -601,6 +609,14 @@
       "onboard_time": 1671602309,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 538176,
+      "num": 372872,
+      "word": "复阳和再次感染的区别",
+      "onboard_time": 1671631600,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 529518,
@@ -1035,6 +1051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 322717,
+      "num": 189097,
+      "word": "女生发高烧4只猫趴身上赖着不走",
+      "onboard_time": 1671632138,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 315663,
       "num": 315663,
       "word": "一位成年人刚刚下单了",
@@ -1324,7 +1348,7 @@
     },
     {
       "raw_hot": 240960,
-      "num": 240960,
+      "num": 1245633,
       "word": "2023年都有啥大事",
       "onboard_time": 1671583107,
       "rank": 24,
@@ -1345,6 +1369,14 @@
       "onboard_time": 1671538050,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 239945,
+      "num": 239945,
+      "word": "龚俊为李荣浩宣传新歌也许是爱情",
+      "onboard_time": 1671632258,
+      "rank": 24,
+      "category": "音乐"
     },
     {
       "raw_hot": 235042,
@@ -1387,6 +1419,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 224941,
+      "num": 224941,
+      "word": "英雄联盟黑色玫瑰",
+      "onboard_time": 1671630155,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 221420,
       "num": 221420,
       "word": "医生回应为防感染全身喷酒精被质疑",
@@ -1401,14 +1441,6 @@
       "onboard_time": 1671609271,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 219807,
-      "num": 201844,
-      "word": "英雄联盟黑色玫瑰",
-      "onboard_time": 1671630155,
-      "rank": 30,
-      "category": "游戏"
     },
     {
       "raw_hot": 219355,
@@ -1545,14 +1577,6 @@
       "onboard_time": 1671580887,
       "rank": 36,
       "category": "游戏,艺人"
-    },
-    {
-      "raw_hot": 203897,
-      "num": 201484,
-      "word": "复阳和再次感染的区别",
-      "onboard_time": 1671631600,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 202374,
@@ -1715,12 +1739,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 186814,
-      "num": 186814,
-      "word": "魏树礼逝世",
-      "onboard_time": 1671631238,
-      "rank": 35,
-      "category": "社会新闻"
+      "raw_hot": 187148,
+      "num": 187148,
+      "word": "沉香如屑灯塔2022网剧播放热度双冠军",
+      "onboard_time": 1671632200,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 186352,
@@ -1785,6 +1809,14 @@
       "onboard_time": 1671605787,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 181917,
+      "num": 181917,
+      "word": "郑秀晶墨绿风衣造型",
+      "onboard_time": 1671630694,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 180667,
@@ -1883,14 +1915,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 167367,
-      "num": 167367,
-      "word": "郑秀晶墨绿风衣造型",
-      "onboard_time": 1671630694,
-      "rank": 38,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 164867,
       "num": 164867,
       "word": "晨艺60公斤体重50公斤是老实",
@@ -1955,6 +1979,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 157599,
+      "num": 157599,
+      "word": "小伙照顾双胞胎侄子3天变大叔",
+      "onboard_time": 1671632675,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 157052,
       "num": 157052,
       "word": "2023年起儿童按年龄享优惠火车票",
@@ -1969,14 +2001,6 @@
       "onboard_time": 1671537570,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 156747,
-      "num": 156747,
-      "word": "沉香如屑灯塔2022网剧播放热度双冠军",
-      "onboard_time": 1671632200,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 155843,
@@ -2155,12 +2179,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 140505,
+      "num": 140505,
+      "word": "见过最黑白分明的猫",
+      "onboard_time": 1671632560,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 140155,
       "num": 140155,
       "word": "血氧仪单日成交额同比增超41倍",
       "onboard_time": 1671604468,
       "rank": 42,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 139983,
+      "num": 139983,
+      "word": "咳嗽咳痰如何应对",
+      "onboard_time": 1671632859,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 138691,
@@ -2177,6 +2217,14 @@
       "onboard_time": 1671613233,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 136629,
+      "num": 136629,
+      "word": "阿根廷队拒绝会面总统",
+      "onboard_time": 1671633040,
+      "rank": 46,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 136419,
@@ -2289,6 +2337,14 @@
       "onboard_time": 1671590729,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 124749,
+      "num": 124749,
+      "word": "男子捡到残疾母猫向父母求情收养",
+      "onboard_time": 1671633220,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 124695,
@@ -2449,14 +2505,6 @@
       "onboard_time": 1671614130,
       "rank": 49,
       "category": "社会新闻,幽默"
-    },
-    {
-      "raw_hot": 111698,
-      "num": 111698,
-      "word": "女生发高烧4只猫趴身上赖着不走",
-      "onboard_time": 1671632138,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 110360,
