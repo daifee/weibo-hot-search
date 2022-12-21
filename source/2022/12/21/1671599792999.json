@@ -1,0 +1,410 @@
+{
+  "runTime": 1671599792999,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2110955,
+        "num": 2110955,
+        "word": "女子阳性后煮葱姜水没忍住变涮肉",
+        "onboard_time": 1671594091,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1620435,
+        "num": 1620435,
+        "word": "奥密克戎专攻对新冠有免疫力的人",
+        "onboard_time": 1671593909,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66999,
+        "num": 1425883,
+        "word": "如何科学止咳",
+        "onboard_time": 1671539971,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1356294,
+        "num": 1356294,
+        "word": "女子地铁撸下口罩狂咳嗽吓坏乘客",
+        "onboard_time": 1671595832,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1325329,
+        "num": 1325329,
+        "word": "乔晶晶32岁了",
+        "onboard_time": 1671594269,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1068981,
+        "num": 1068981,
+        "word": "张富清逝世",
+        "onboard_time": 1671594933,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 888461,
+        "num": 888461,
+        "word": "布洛芬巨头逼近跌停",
+        "onboard_time": 1671585929,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 785550,
+        "num": 785550,
+        "word": "有请60后整顿内娱",
+        "onboard_time": 1671596370,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 618322,
+        "num": 618322,
+        "word": "美国的退烧药也缺货了",
+        "onboard_time": 1671592052,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 590616,
+        "num": 590616,
+        "word": "姆巴佩中场演讲激励队友",
+        "onboard_time": 1671593191,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 907470,
+        "num": 575925,
+        "word": "女子阳后3天没下楼家里满地垃圾",
+        "onboard_time": 1671583651,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 449766,
+        "num": 449766,
+        "word": "张子枫说这个家的事我会查清楚的",
+        "onboard_time": 1671597391,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 438736,
+        "num": 438736,
+        "word": "张远对苏醒说我有那么多弟弟理你干嘛",
+        "onboard_time": 1671598593,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 426586,
+        "num": 426586,
+        "word": "BLACKPINK韩版VOGUE杂志大片",
+        "onboard_time": 1671597332,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 418478,
+        "num": 418478,
+        "word": "北京协和医院蒋明教授逝世",
+        "onboard_time": 1671598114,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 409985,
+        "num": 409985,
+        "word": "薛凯琪新歌香港的夜预告",
+        "onboard_time": 1671598832,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 399911,
+        "num": 399911,
+        "word": "血液中心呼吁返乡大学生就地献血",
+        "onboard_time": 1671587729,
+        "rank": 16,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 393858,
+        "num": 393858,
+        "word": "感染新冠后168小时身体在干什么",
+        "onboard_time": 1671596911,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 388111,
+        "num": 388111,
+        "word": "梅西发长文感恩世界杯夺冠",
+        "onboard_time": 1671584971,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 365615,
+        "num": 365615,
+        "word": "阳康后再次感染新毒株的几率有多高",
+        "onboard_time": 1671594163,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 362516,
+        "num": 362516,
+        "word": "快递小哥弄丢金碗哭着报警",
+        "onboard_time": 1671590008,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300272,
+        "num": 300272,
+        "word": "爸爸辅导女儿作业气晕摔断尾椎骨",
+        "onboard_time": 1671597213,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294956,
+        "num": 294956,
+        "word": "金世佳想见你演的是班长吗",
+        "onboard_time": 1671594812,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 276337,
+        "num": 276337,
+        "word": "TVB新剧黎耀祥角色有多可爱",
+        "onboard_time": 1671598951,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 275341,
+        "num": 275341,
+        "word": "阿根廷足协致歉球迷",
+        "onboard_time": 1671596970,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 267953,
+        "num": 267953,
+        "word": "新冠发病1年后有人仍感肌无力心悸",
+        "onboard_time": 1671596734,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265542,
+        "num": 265542,
+        "word": "白鹿翻跳虞书欣的ohmy",
+        "onboard_time": 1671594992,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 263212,
+        "num": 263212,
+        "word": "虞姬星传说黛羽霜翎",
+        "onboard_time": 1671593669,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 253894,
+        "num": 253894,
+        "word": "三亚今起免费发放7万多粒退烧药",
+        "onboard_time": 1671597332,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249181,
+        "num": 249181,
+        "word": "游行中有人扔给梅西一个忍者神龟",
+        "onboard_time": 1671588510,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 346283,
+        "num": 247121,
+        "word": "金华一隔离酒店改成抗阳酒店几乎住满",
+        "onboard_time": 1671598774,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272611,
+        "num": 246753,
+        "word": "男子发现药品无人配送后注册骑手",
+        "onboard_time": 1671597633,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252439,
+        "num": 245782,
+        "word": "海边有人喊住了王诠胜",
+        "onboard_time": 1671591030,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 242554,
+        "num": 242554,
+        "word": "各大卫视2023跨年名单",
+        "onboard_time": 1671596492,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240181,
+        "num": 240181,
+        "word": "病毒变异后仍可能造成突破性感染",
+        "onboard_time": 1671589170,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236726,
+        "num": 236726,
+        "word": "医生将退烧药贴诊所玻璃上供应急",
+        "onboard_time": 1671593070,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234757,
+        "num": 234757,
+        "word": "阿根廷球迷跳大巴不慎跌落地面",
+        "onboard_time": 1671595952,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 226931,
+        "num": 226931,
+        "word": "王源晒差不多就是这样视频",
+        "onboard_time": 1671599253,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 217716,
+        "num": 217716,
+        "word": "医生称幻阳症是一种自我防御",
+        "onboard_time": 1671586467,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209772,
+        "num": 209772,
+        "word": "吉克隽逸回复网友P图也太吓人了兄弟",
+        "onboard_time": 1671597513,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204242,
+        "num": 204242,
+        "word": "原来小猫也有异地恋",
+        "onboard_time": 1671597152,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 189365,
+        "num": 189365,
+        "word": "00后用第一笔工资给爸妈买iPhone",
+        "onboard_time": 1671591269,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183101,
+        "num": 183101,
+        "word": "阳过之后生活用品需要换吗",
+        "onboard_time": 1671596432,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178155,
+        "num": 178155,
+        "word": "济南一采血点全天仅5人献血",
+        "onboard_time": 1671585210,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176528,
+        "num": 176528,
+        "word": "梅西说冠军属于天堂的马拉多纳",
+        "onboard_time": 1671585929,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170316,
+        "num": 170316,
+        "word": "医生回应为防感染全身喷酒精被质疑",
+        "onboard_time": 1671594933,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165305,
+        "num": 165305,
+        "word": "车保罗已离开无限超越班",
+        "onboard_time": 1671549809,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157751,
+        "num": 157751,
+        "word": "手机可拆卸电池或被迫回归",
+        "onboard_time": 1671590550,
+        "rank": 47,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 157249,
+        "num": 157249,
+        "word": "3少年闯入他人闲置房里过家家",
+        "onboard_time": 1671594632,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149108,
+        "num": 149108,
+        "word": "任嘉伦新专辑第二支舞蹈视频",
+        "onboard_time": 1671597695,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#支持香港澳门更好融入国家发展大局#"
+    }
+  }
+}
