@@ -1,6 +1,6 @@
 {
   "startTime": 1671639995248,
-  "endTime": 1671661041184,
+  "endTime": 1671662011488,
   "band_list": [
     {
       "raw_hot": 1846187,
@@ -355,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 93753,
+      "num": 93753,
+      "word": "心态是战胜病毒的良药",
+      "onboard_time": 1671658271,
+      "rank": 49,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 87670,
       "num": 87670,
       "word": "考研人是懂出题老师的",
@@ -387,6 +395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 82438,
+      "num": 82438,
+      "word": "阳性康复居家如何全面消杀",
+      "onboard_time": 1671640522,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 81003,
       "num": 81003,
       "word": "齐思钧说大家听我解释一下",
@@ -411,28 +427,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 65029,
-      "num": 65029,
-      "word": "阳性康复居家如何全面消杀",
-      "onboard_time": 1671640522,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 61913,
       "num": 61913,
       "word": "咳嗽咳痰如何应对",
       "onboard_time": 1671632859,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 53241,
-      "num": 53241,
-      "word": "心态是战胜病毒的良药",
-      "onboard_time": 1671658271,
-      "rank": 49,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 51448,
@@ -451,8 +451,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 46672,
-      "num": 46672,
+      "raw_hot": 49610,
+      "num": 49610,
       "word": "龚俊直播换GQ没穿的睡衣",
       "onboard_time": 1671650833,
       "rank": 23,
@@ -467,16 +467,16 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 35467,
-      "num": 35467,
+      "raw_hot": 36287,
+      "num": 36287,
       "word": "章子怡获金莲花最佳女主角奖",
       "onboard_time": 1671654492,
       "rank": 40,
       "category": "影视"
     },
     {
-      "raw_hot": 29347,
-      "num": 29347,
+      "raw_hot": 34071,
+      "num": 34071,
       "word": "哪一刻发现对方不爱你了",
       "onboard_time": 1671652334,
       "rank": 40,
@@ -489,6 +489,14 @@
       "onboard_time": 1671583107,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20014,
+      "num": 20014,
+      "word": "张俪被光偏爱的女人",
+      "onboard_time": 1671661455,
+      "rank": 43,
+      "category": "综艺"
     }
   ],
   "hotgov_list": [
