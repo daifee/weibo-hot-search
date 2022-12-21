@@ -1,6 +1,6 @@
 {
   "startTime": 1671553616280,
-  "endTime": 1671599792999,
+  "endTime": 1671600805420,
   "band_list": [
     {
       "raw_hot": 2952320,
@@ -187,8 +187,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 785550,
-      "num": 785550,
+      "raw_hot": 809346,
+      "num": 809346,
       "word": "有请60后整顿内娱",
       "onboard_time": 1671596370,
       "rank": 42,
@@ -217,6 +217,14 @@
       "onboard_time": 1671588510,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 689936,
+      "num": 503166,
+      "word": "北京协和医院蒋明教授逝世",
+      "onboard_time": 1671598114,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 668039,
@@ -257,6 +265,22 @@
       "onboard_time": 1671580705,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 547810,
+      "num": 503070,
+      "word": "金华一隔离酒店改成抗阳酒店几乎住满",
+      "onboard_time": 1671598774,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 542029,
+      "num": 542029,
+      "word": "感染新冠后168小时身体在干什么",
+      "onboard_time": 1671596911,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 483866,
@@ -355,14 +379,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 418478,
-      "num": 418478,
-      "word": "北京协和医院蒋明教授逝世",
-      "onboard_time": 1671598114,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 414058,
       "num": 414058,
       "word": "张文宏称第一批次疫苗难阻再次感染",
@@ -377,14 +393,6 @@
       "onboard_time": 1671598832,
       "rank": 15,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 393858,
-      "num": 393858,
-      "word": "感染新冠后168小时身体在干什么",
-      "onboard_time": 1671596911,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 378849,
@@ -459,14 +467,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 346283,
-      "num": 247121,
-      "word": "金华一隔离酒店改成抗阳酒店几乎住满",
-      "onboard_time": 1671598774,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 345301,
       "num": 345301,
       "word": "虞书欣卢昱晓云之羽同框路透",
@@ -483,11 +483,27 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 341018,
+      "num": 341018,
+      "word": "TVB新剧黎耀祥角色有多可爱",
+      "onboard_time": 1671598951,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 330653,
       "num": 330653,
       "word": "退烧后咳个不停怎样用药",
       "onboard_time": 1671581906,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 328834,
+      "num": 328834,
+      "word": "爸爸辅导女儿作业气晕摔断尾椎骨",
+      "onboard_time": 1671597213,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -515,6 +531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 315959,
+      "num": 258971,
+      "word": "女子照顾丈夫感染怀孕高烧被留在家",
+      "onboard_time": 1671600033,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 311340,
       "num": 311340,
       "word": "女孩是家里唯一阴性被反向隔离",
@@ -531,11 +555,35 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 300272,
-      "num": 300272,
-      "word": "爸爸辅导女儿作业气晕摔断尾椎骨",
-      "onboard_time": 1671597213,
-      "rank": 47,
+      "raw_hot": 301333,
+      "num": 301333,
+      "word": "王源晒差不多就是这样视频",
+      "onboard_time": 1671599253,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 290496,
+      "num": 290496,
+      "word": "阿根廷足协致歉球迷",
+      "onboard_time": 1671596970,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 288389,
+      "num": 288389,
+      "word": "男子发现药品无人配送后注册骑手",
+      "onboard_time": 1671597633,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 287702,
+      "num": 287702,
+      "word": "三亚今起免费发放7万多粒退烧药",
+      "onboard_time": 1671597332,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -571,27 +619,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 276337,
-      "num": 276337,
-      "word": "TVB新剧黎耀祥角色有多可爱",
-      "onboard_time": 1671598951,
-      "rank": 23,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 275341,
-      "num": 275341,
-      "word": "阿根廷足协致歉球迷",
-      "onboard_time": 1671596970,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 272611,
-      "num": 246753,
-      "word": "男子发现药品无人配送后注册骑手",
-      "onboard_time": 1671597633,
-      "rank": 31,
+      "raw_hot": 282048,
+      "num": 282048,
+      "word": "新冠发病1年后有人仍感肌无力心悸",
+      "onboard_time": 1671596734,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -600,14 +632,6 @@
       "word": "官方通报快递布洛芬变衣服",
       "onboard_time": 1671584612,
       "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 267953,
-      "num": 267953,
-      "word": "新冠发病1年后有人仍感肌无力心悸",
-      "onboard_time": 1671596734,
-      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -627,20 +651,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 253894,
-      "num": 253894,
-      "word": "三亚今起免费发放7万多粒退烧药",
-      "onboard_time": 1671597332,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 242554,
-      "num": 242554,
+      "raw_hot": 259795,
+      "num": 259795,
       "word": "各大卫视2023跨年名单",
       "onboard_time": 1671596492,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 255862,
+      "num": 255862,
+      "word": "王凯谭松韵新剧电梯贴贴花絮",
+      "onboard_time": 1671600151,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 242075,
@@ -681,14 +705,6 @@
       "onboard_time": 1671595952,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 226931,
-      "num": 226931,
-      "word": "王源晒差不多就是这样视频",
-      "onboard_time": 1671599253,
-      "rank": 37,
-      "category": "音乐"
     },
     {
       "raw_hot": 221420,
@@ -851,6 +867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 189643,
+      "num": 189643,
+      "word": "阳过之后生活用品需要换吗",
+      "onboard_time": 1671596432,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 188736,
       "num": 188736,
       "word": "多地政府向市民免费发放退烧药",
@@ -859,11 +883,27 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 183101,
-      "num": 183101,
-      "word": "阳过之后生活用品需要换吗",
-      "onboard_time": 1671596432,
-      "rank": 46,
+      "raw_hot": 188721,
+      "num": 188721,
+      "word": "回来的女儿开播",
+      "onboard_time": 1671600332,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 188471,
+      "num": 188471,
+      "word": "媒体评东北制药曾因垄断被罚上亿",
+      "onboard_time": 1671600033,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 186352,
+      "num": 186352,
+      "word": "为什么有越来越多陪伴型职业",
+      "onboard_time": 1671599794,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -907,12 +947,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 175052,
+      "num": 175052,
+      "word": "张富清生前这段话让人泪目",
+      "onboard_time": 1671600452,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 174995,
       "num": 174995,
       "word": "黄雨萱所有的愿望都是李子维",
       "onboard_time": 1671590789,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 166725,
+      "num": 166725,
+      "word": "这嗓子是吞了多少个唐老鸭",
+      "onboard_time": 1671600571,
+      "rank": 49,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 161520,
