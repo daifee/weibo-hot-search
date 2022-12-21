@@ -1,6 +1,6 @@
 {
   "startTime": 1671553616280,
-  "endTime": 1671614281406,
+  "endTime": 1671615213727,
   "band_list": [
     {
       "raw_hot": 2952320,
@@ -147,6 +147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1016417,
+      "num": 734583,
+      "word": "刘亦菲 澳门国际电影节",
+      "onboard_time": 1671613290,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 956694,
       "num": 956694,
       "word": "病毒变异后仍可能造成突破性感染",
@@ -283,14 +291,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 669641,
-      "num": 669641,
-      "word": "刘亦菲 澳门国际电影节",
-      "onboard_time": 1671613290,
-      "rank": 5,
-      "category": "影视"
-    },
-    {
       "raw_hot": 668039,
       "num": 668039,
       "word": "11岁男孩阳性两个脸蛋体温不同",
@@ -329,6 +329,14 @@
       "onboard_time": 1671606271,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 620279,
+      "num": 434353,
+      "word": "车保罗说很开心还有人还记得我",
+      "onboard_time": 1671612632,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 603949,
@@ -411,6 +419,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 480473,
+      "num": 480473,
+      "word": "弟弟放假回家被姐夫拦楼下做抗原",
+      "onboard_time": 1671611669,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 477572,
+      "num": 264352,
+      "word": "车保罗曾在市场接受影帝提名采访",
+      "onboard_time": 1671611311,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 458102,
       "num": 458102,
       "word": "阿根廷足协致歉球迷",
@@ -473,14 +497,6 @@
       "onboard_time": 1671598593,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 432286,
-      "num": 432286,
-      "word": "弟弟放假回家被姐夫拦楼下做抗原",
-      "onboard_time": 1671611669,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 426830,
@@ -547,6 +563,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 401737,
+      "num": 271875,
+      "word": "吴彤回应车保罗离开节目",
+      "onboard_time": 1671611432,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 396301,
+      "num": 396301,
+      "word": "假Steam起诉自媒体索赔百万败诉",
+      "onboard_time": 1671612151,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 378849,
       "num": 378849,
       "word": "宝妈跑多家药店买不到布洛芬女儿找到",
@@ -593,14 +625,6 @@
       "onboard_time": 1671602969,
       "rank": 19,
       "category": "综艺,幽默"
-    },
-    {
-      "raw_hot": 359864,
-      "num": 359864,
-      "word": "假Steam起诉自媒体索赔百万败诉",
-      "onboard_time": 1671612151,
-      "rank": 17,
-      "category": "游戏"
     },
     {
       "raw_hot": 356874,
@@ -763,6 +787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 290661,
+      "num": 290661,
+      "word": "当朋友全阳了之后",
+      "onboard_time": 1671614249,
+      "rank": 46,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 288389,
       "num": 288389,
       "word": "男子发现药品无人配送后注册骑手",
@@ -835,14 +867,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 271875,
-      "num": 271875,
-      "word": "吴彤回应车保罗离开节目",
-      "onboard_time": 1671611432,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 268317,
       "num": 268317,
       "word": "官方通报快递布洛芬变衣服",
@@ -897,6 +921,14 @@
       "onboard_time": 1671600151,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 253443,
+      "num": 253443,
+      "word": "付豪50分",
+      "onboard_time": 1671613890,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 253405,
@@ -1179,8 +1211,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 193172,
-      "num": 193172,
+      "raw_hot": 195479,
+      "num": 195479,
       "word": "胡歌重返上美影纪念曲是周深唱的",
       "onboard_time": 1671613950,
       "rank": 31,
@@ -1201,14 +1233,6 @@
       "onboard_time": 1671589950,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 191922,
-      "num": 191922,
-      "word": "车保罗曾在市场接受影帝提名采访",
-      "onboard_time": 1671611311,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 189650,
@@ -1355,6 +1379,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 172791,
+      "num": 152157,
+      "word": "廉政狙击反派全员疯批",
+      "onboard_time": 1671614070,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 164867,
       "num": 164867,
       "word": "晨艺60公斤体重50公斤是老实",
@@ -1441,6 +1473,14 @@
       "onboard_time": 1671590129,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 153942,
+      "num": 153942,
+      "word": "原来狗狗也爱小猫",
+      "onboard_time": 1671614549,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 153248,
@@ -1555,14 +1595,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 138544,
-      "num": 138544,
-      "word": "廉政狙击反派全员疯批",
-      "onboard_time": 1671614070,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 136985,
       "num": 136985,
       "word": "和李白一起为世冠打call",
@@ -1603,6 +1635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 131756,
+      "num": 131756,
+      "word": "难怪小猫要提前演练",
+      "onboard_time": 1671614371,
+      "rank": 45,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 130958,
       "num": 130958,
       "word": "罗森销售不合格口罩被罚没近10万",
@@ -1635,20 +1675,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 129141,
+      "num": 129141,
+      "word": "光头爷爷照着镜子沉浸式梳头",
+      "onboard_time": 1671614008,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127929,
       "num": 479396,
       "word": "刺柠吉成为维C饮料新宠",
       "onboard_time": 1671605489,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 127333,
-      "num": 127333,
-      "word": "付豪50分",
-      "onboard_time": 1671613890,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 125368,
@@ -1683,12 +1723,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 124199,
+      "num": 124199,
+      "word": "张家港现震撼潮汐树似大地之脉",
+      "onboard_time": 1671615209,
+      "rank": 48,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 123413,
       "num": 123413,
       "word": "各地过冬至的区别有多大",
       "onboard_time": 1671592351,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 122355,
+      "num": 122355,
+      "word": "满洲里寒夜光柱如同特效",
+      "onboard_time": 1671615032,
+      "rank": 49,
+      "category": "自然"
     },
     {
       "raw_hot": 120553,
@@ -1737,14 +1793,6 @@
       "onboard_time": 1671593610,
       "rank": 49,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 116183,
-      "num": 116183,
-      "word": "当朋友全阳了之后",
-      "onboard_time": 1671614249,
-      "rank": 46,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 115797,
