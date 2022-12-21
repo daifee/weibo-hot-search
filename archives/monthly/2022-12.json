@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1671641049355,
+  "endTime": 1671642981182,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -47443,6 +47443,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 85691,
+      "num": 85691,
+      "word": "车保罗曾参演三部金庸作品",
+      "onboard_time": 1671641780,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 85659,
       "num": 85659,
       "word": "警方回应男子爬行拦车哭着说不活了",
@@ -47473,6 +47481,14 @@
       "onboard_time": 1670714468,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 85072,
+      "num": 85072,
+      "word": "何洛洛获时政英语词汇能力大赛三等奖",
+      "onboard_time": 1671641720,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 85006,
@@ -48849,6 +48865,14 @@
       "onboard_time": 1670523192,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 32730,
+      "num": 56861,
+      "word": "这猫是挺犟的",
+      "onboard_time": 1671642620,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 32360,
