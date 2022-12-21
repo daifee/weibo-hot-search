@@ -1,6 +1,6 @@
 {
   "startTime": 1671380618877,
-  "endTime": 1671627178243,
+  "endTime": 1671628982644,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -1459,6 +1459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 725567,
+      "num": 725567,
+      "word": "60万粉丝女网红偷衣物被抓",
+      "onboard_time": 1671623732,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 725096,
       "num": 725096,
       "word": "奶奶摸出安宫牛黄丸给孙子防新冠",
@@ -1481,6 +1489,14 @@
       "onboard_time": 1671451769,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 721873,
+      "num": 571524,
+      "word": "曝药店免费发药被人抢夺无人阻拦",
+      "onboard_time": 1671627272,
+      "rank": 10,
+      "category": "社会负面"
     },
     {
       "raw_hot": 718514,
@@ -1521,14 +1537,6 @@
       "onboard_time": 1671510208,
       "rank": 30,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 705952,
-      "num": 705952,
-      "word": "60万粉丝女网红偷衣物被抓",
-      "onboard_time": 1671623732,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 705775,
@@ -1739,6 +1747,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 636498,
+      "num": 636498,
+      "word": "张文宏否认网传音频",
+      "onboard_time": 1671625531,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 631072,
       "num": 631072,
       "word": "车保罗开通微博",
@@ -1873,6 +1889,14 @@
       "onboard_time": 1671522934,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 581460,
+      "num": 549580,
+      "word": "卷王姆巴佩回大巴黎训练",
+      "onboard_time": 1671626312,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 580455,
@@ -2099,6 +2123,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 516260,
+      "num": 516260,
+      "word": "武林外传演我变阳状态",
+      "onboard_time": 1671624273,
+      "rank": 15,
+      "category": "社会新闻,影视"
+    },
+    {
       "raw_hot": 516073,
       "num": 516073,
       "word": "00后女孩刚回家就被安排相亲",
@@ -2289,14 +2321,6 @@
       "onboard_time": 1671497672,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 469812,
-      "num": 469812,
-      "word": "武林外传演我变阳状态",
-      "onboard_time": 1671624273,
-      "rank": 15,
-      "category": "社会新闻,影视"
     },
     {
       "raw_hot": 468805,
@@ -2571,6 +2595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 419200,
+      "num": 419200,
+      "word": "张子枫第二集身份就被发现",
+      "onboard_time": 1671627152,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 415844,
       "num": 376351,
       "word": "朴灿烈李马克金玟庭candy舞蹈挑战",
@@ -2747,14 +2779,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 386146,
-      "num": 386146,
-      "word": "张文宏否认网传音频",
-      "onboard_time": 1671625531,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 385038,
       "num": 385038,
       "word": "全屋消杀造成损失谁来赔",
@@ -2785,6 +2809,22 @@
       "onboard_time": 1671450813,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 381026,
+      "num": 381026,
+      "word": "1988剧组来中国了吗",
+      "onboard_time": 1671628473,
+      "rank": 16,
+      "category": "幽默,影视"
+    },
+    {
+      "raw_hot": 379737,
+      "num": 379737,
+      "word": "章子怡黑色开叉长裙造型",
+      "onboard_time": 1671626853,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 379406,
@@ -3193,14 +3233,6 @@
       "onboard_time": 1671426334,
       "rank": 46,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 335154,
-      "num": 209823,
-      "word": "卷王姆巴佩回大巴黎训练",
-      "onboard_time": 1671626312,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 333603,
@@ -3803,11 +3835,27 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 275732,
+      "num": 275732,
+      "word": "东北小伙趁症状轻炫1天麻辣烫过瘾",
+      "onboard_time": 1671625352,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 275086,
       "num": 1717463,
       "word": "如何科学止咳",
       "onboard_time": 1671539971,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 274792,
+      "num": 274792,
+      "word": "妻子发烧丈夫用玩具遥控车送饭",
+      "onboard_time": 1671625173,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -3907,6 +3955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 266318,
+      "num": 266318,
+      "word": "徐璐拿王佑硕一寸照屏保挡伤害",
+      "onboard_time": 1671628353,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 265783,
       "num": 265783,
       "word": "龚俊包饺子直播",
@@ -3929,6 +3985,14 @@
       "onboard_time": 1671411331,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 264997,
+      "num": 264997,
+      "word": "一位成年人刚刚下单了",
+      "onboard_time": 1671626255,
+      "rank": 37,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 263999,
@@ -4163,14 +4227,6 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 246640,
-      "num": 246640,
-      "word": "妻子发烧丈夫用玩具遥控车送饭",
-      "onboard_time": 1671625173,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 244841,
       "num": 234897,
       "word": "黄仁俊朴志晟Giselle宁艺卓candy舞蹈挑战",
@@ -4225,14 +4281,6 @@
       "onboard_time": 1671622170,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 240621,
-      "num": 240621,
-      "word": "东北小伙趁症状轻炫1天麻辣烫过瘾",
-      "onboard_time": 1671625352,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 239852,
@@ -4393,6 +4441,14 @@
       "onboard_time": 1671428673,
       "rank": 29,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 226131,
+      "num": 226131,
+      "word": "一生要强的免疫系统",
+      "onboard_time": 1671624273,
+      "rank": 38,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 224403,
@@ -4635,14 +4691,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 208341,
-      "num": 208341,
-      "word": "章子怡黑色开叉长裙造型",
-      "onboard_time": 1671626853,
-      "rank": 33,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 208064,
       "num": 208064,
       "word": "深圳震感",
@@ -4825,14 +4873,6 @@
       "onboard_time": 1671602252,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 197482,
-      "num": 197482,
-      "word": "一生要强的免疫系统",
-      "onboard_time": 1671624273,
-      "rank": 38,
-      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 197332,
@@ -5121,14 +5161,6 @@
       "onboard_time": 1671463769,
       "rank": 33,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 185052,
-      "num": 185052,
-      "word": "一位成年人刚刚下单了",
-      "onboard_time": 1671626255,
-      "rank": 37,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 185051,
@@ -6011,14 +6043,6 @@
       "category": "体育,音乐"
     },
     {
-      "raw_hot": 149682,
-      "num": 149682,
-      "word": "张子枫第二集身份就被发现",
-      "onboard_time": 1671627152,
-      "rank": 43,
-      "category": "影视"
-    },
-    {
       "raw_hot": 149295,
       "num": 149295,
       "word": "走路有些着急的狗狗",
@@ -6827,6 +6851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 117128,
+      "num": 117128,
+      "word": "青岛人是懂喝梨汤的",
+      "onboard_time": 1671627213,
+      "rank": 47,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 116701,
       "num": 116701,
       "word": "男子低血糖晕倒女店主暖心救助",
@@ -6897,6 +6929,14 @@
       "onboard_time": 1671504029,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 113442,
+      "num": 113442,
+      "word": "小羊是真的很会卖萌",
+      "onboard_time": 1671628294,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 113322,
@@ -7001,6 +7041,14 @@
       "onboard_time": 1671452852,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 106905,
+      "num": 106905,
+      "word": "被亲到震惊的猫咪",
+      "onboard_time": 1671628773,
+      "rank": 49,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 106844,
@@ -7379,6 +7427,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 40061,
+      "num": 419706,
+      "word": "双电机锐歌零百加速4.6S",
+      "onboard_time": 1671627633,
+      "rank": 14,
+      "category": "科技"
+    },
+    {
       "raw_hot": 36449,
       "num": 36449,
       "word": "布宜诺斯艾利斯",
@@ -7401,6 +7457,14 @@
       "onboard_time": 1671391636,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 32447,
+      "num": 162488,
+      "word": "你的车有表情包吗",
+      "onboard_time": 1671627633,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 29978,
