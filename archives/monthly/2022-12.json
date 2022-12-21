@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1671651200507,
+  "endTime": 1671653927295,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -48675,6 +48675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 46672,
+      "num": 46672,
+      "word": "龚俊直播换GQ没穿的睡衣",
+      "onboard_time": 1671650833,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 46423,
       "num": 46423,
       "word": "黄宗泽从法证忙到廉政",
@@ -48809,14 +48817,6 @@
       "onboard_time": 1670727618,
       "rank": 14,
       "category": "体育,情感"
-    },
-    {
-      "raw_hot": 37312,
-      "num": 37312,
-      "word": "龚俊直播换GQ没穿的睡衣",
-      "onboard_time": 1671650833,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 37157,
@@ -49081,6 +49081,14 @@
       "onboard_time": 1671394993,
       "rank": 48,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 17304,
+      "num": 17304,
+      "word": "哪一刻发现对方不爱你了",
+      "onboard_time": 1671652334,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 16700,

@@ -1,6 +1,6 @@
 {
   "startTime": 1671639995248,
-  "endTime": 1671651200507,
+  "endTime": 1671653927295,
   "band_list": [
     {
       "raw_hot": 1846187,
@@ -443,6 +443,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 46672,
+      "num": 46672,
+      "word": "龚俊直播换GQ没穿的睡衣",
+      "onboard_time": 1671650833,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 40352,
       "num": 56861,
       "word": "这猫是挺犟的",
@@ -451,20 +459,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 37312,
-      "num": 37312,
-      "word": "龚俊直播换GQ没穿的睡衣",
-      "onboard_time": 1671650833,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 28093,
       "num": 775693,
       "word": "2023年都有啥大事",
       "onboard_time": 1671583107,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17304,
+      "num": 17304,
+      "word": "哪一刻发现对方不爱你了",
+      "onboard_time": 1671652334,
+      "rank": 40,
+      "category": "情感"
     }
   ],
   "hotgov_list": [
