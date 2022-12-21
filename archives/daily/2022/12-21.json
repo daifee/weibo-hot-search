@@ -1,6 +1,6 @@
 {
   "startTime": 1671553616280,
-  "endTime": 1671607996949,
+  "endTime": 1671611020541,
   "band_list": [
     {
       "raw_hot": 2952320,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 1303603,
-      "num": 779712,
+      "num": 943825,
       "word": "吴彤",
       "onboard_time": 1671603989,
       "rank": 11,
@@ -153,6 +153,14 @@
       "onboard_time": 1671553402,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 945008,
+      "num": 517506,
+      "word": "张蔷割眼袋失败喊话整容医生",
+      "onboard_time": 1671605309,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 937156,
@@ -259,6 +267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 686644,
+      "num": 686644,
+      "word": "婴儿遭月子中心月嫂失手摔地",
+      "onboard_time": 1671606028,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 668039,
       "num": 668039,
       "word": "11岁男孩阳性两个脸蛋体温不同",
@@ -291,20 +307,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 603949,
+      "num": 603949,
+      "word": "宿舍因床位过多通道仅留1人宽",
+      "onboard_time": 1671605909,
+      "rank": 29,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 599716,
       "num": 599716,
       "word": "血液中心呼吁返乡大学生就地献血",
       "onboard_time": 1671587729,
       "rank": 11,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 585735,
-      "num": 475568,
-      "word": "张蔷割眼袋失败喊话整容医生",
-      "onboard_time": 1671605309,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 576663,
@@ -331,6 +347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 551884,
+      "num": 551884,
+      "word": "我的微博播报",
+      "onboard_time": 1671605251,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
       "raw_hot": 542029,
       "num": 542029,
       "word": "感染新冠后168小时身体在干什么",
@@ -347,20 +371,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 518115,
+      "num": 518115,
+      "word": "男子在缅北经历生死逃亡628天",
+      "onboard_time": 1671606989,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 516691,
+      "num": 516691,
+      "word": "00后有在认真搞副业",
+      "onboard_time": 1671607891,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 483866,
       "num": 483866,
       "word": "17岁少年文花臂后起诉店家获赔5800",
       "onboard_time": 1671583890,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 475802,
-      "num": 475802,
-      "word": "我的微博播报",
-      "onboard_time": 1671605251,
-      "rank": 9,
-      "category": "情感"
     },
     {
       "raw_hot": 458102,
@@ -523,14 +555,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 361217,
-      "num": 361217,
-      "word": "宿舍因床位过多通道仅留1人宽",
-      "onboard_time": 1671605909,
-      "rank": 29,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 360844,
       "num": 360844,
       "word": "吴磊不曾改变的审美",
@@ -555,14 +579,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 350246,
-      "num": 350246,
-      "word": "婴儿遭月子中心月嫂失手摔地",
-      "onboard_time": 1671606028,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 349794,
       "num": 349794,
       "word": "匈牙利冰协已同意刘少林刘少昂更改国籍",
@@ -577,6 +593,14 @@
       "onboard_time": 1671543933,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 345313,
+      "num": 304006,
+      "word": "蒲熠星 带团队",
+      "onboard_time": 1671607233,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 345301,
@@ -691,6 +715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 287457,
+      "num": 975100,
+      "word": "阳了之后的7个高频问答",
+      "onboard_time": 1671605610,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 287196,
       "num": 287196,
       "word": "广州震感",
@@ -731,12 +763,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 273968,
-      "num": 273968,
-      "word": "蒲熠星 带团队",
-      "onboard_time": 1671607233,
-      "rank": 24,
-      "category": "综艺"
+      "raw_hot": 272402,
+      "num": 272402,
+      "word": "安徽卫视否认明年将播出韩剧",
+      "onboard_time": 1671605850,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 268317,
@@ -753,6 +785,14 @@
       "onboard_time": 1671589651,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 267367,
+      "num": 267367,
+      "word": "吴卓羲被食客喊钟立文梦回学警雄心",
+      "onboard_time": 1671609090,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 262953,
@@ -784,14 +824,6 @@
       "word": "王凯谭松韵新剧电梯贴贴花絮",
       "onboard_time": 1671600151,
       "rank": 31,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 255212,
-      "num": 217062,
-      "word": "安徽卫视否认明年将播出韩剧",
-      "onboard_time": 1671605850,
-      "rank": 33,
       "category": "影视"
     },
     {
@@ -843,11 +875,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 232593,
-      "num": 215006,
-      "word": "男子在缅北经历生死逃亡628天",
-      "onboard_time": 1671606989,
-      "rank": 32,
+      "raw_hot": 230969,
+      "num": 230969,
+      "word": "管泽元科普足球人口",
+      "onboard_time": 1671606811,
+      "rank": 38,
+      "category": "体育,游戏"
+    },
+    {
+      "raw_hot": 229648,
+      "num": 229648,
+      "word": "南昌警方通报辅警猥亵女子",
+      "onboard_time": 1671609210,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -963,6 +1003,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 204684,
+      "num": 204684,
+      "word": "年轻夫妻倾其所有买房只想有个家",
+      "onboard_time": 1671609869,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204467,
+      "num": 204467,
+      "word": "长相和叫声不符的小猫咪",
+      "onboard_time": 1671607591,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 204242,
       "num": 204242,
       "word": "原来小猫也有异地恋",
@@ -993,14 +1049,6 @@
       "onboard_time": 1671581248,
       "rank": 33,
       "category": "美食,情感"
-    },
-    {
-      "raw_hot": 199798,
-      "num": 888305,
-      "word": "阳了之后的7个高频问答",
-      "onboard_time": 1671605610,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 197813,
@@ -1041,6 +1089,14 @@
       "onboard_time": 1671590190,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 192986,
+      "num": 192986,
+      "word": "狗妈表示很无奈",
+      "onboard_time": 1671608550,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 192700,
@@ -1147,6 +1203,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 179319,
+      "num": 179319,
+      "word": "林志为参加饭局好像在演我",
+      "onboard_time": 1671609569,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 177325,
+      "num": 177325,
+      "word": "百分百开麦预告",
+      "onboard_time": 1671610532,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 175516,
       "num": 175516,
       "word": "我可能遇到了救星剧情",
@@ -1169,6 +1241,14 @@
       "onboard_time": 1671590789,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 168264,
+      "num": 168264,
+      "word": "狗狗正骨后的反应",
+      "onboard_time": 1671609271,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 164867,
@@ -1225,14 +1305,6 @@
       "onboard_time": 1671537570,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 156353,
-      "num": 156353,
-      "word": "管泽元科普足球人口",
-      "onboard_time": 1671606811,
-      "rank": 38,
-      "category": "体育,游戏"
     },
     {
       "raw_hot": 155843,
@@ -1371,6 +1443,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 135340,
+      "num": 135340,
+      "word": "电解质水应该在什么时候喝才有效",
+      "onboard_time": 1671609989,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 135197,
       "num": 135197,
       "word": "女子奋不顾身将持刀男子制服",
@@ -1436,7 +1516,7 @@
     },
     {
       "raw_hot": 127929,
-      "num": 127929,
+      "num": 462622,
       "word": "刺柠吉成为维C饮料新宠",
       "onboard_time": 1671605489,
       "rank": 46,
@@ -1483,20 +1563,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 120528,
-      "num": 120528,
-      "word": "长相和叫声不符的小猫咪",
-      "onboard_time": 1671607591,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 120065,
-      "num": 120065,
-      "word": "00后有在认真搞副业",
-      "onboard_time": 1671607891,
-      "rank": 47,
-      "category": "社会新闻"
+      "raw_hot": 119162,
+      "num": 119162,
+      "word": "特斯拉市值跌至埃克森美孚之下",
+      "onboard_time": 1671611011,
+      "rank": 48,
+      "category": "科技"
     },
     {
       "raw_hot": 118019,
