@@ -1,6 +1,6 @@
 {
   "startTime": 1671553616280,
-  "endTime": 1671604633144,
+  "endTime": 1671606984554,
   "band_list": [
     {
       "raw_hot": 2952320,
@@ -97,6 +97,14 @@
       "onboard_time": 1671585210,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1303603,
+      "num": 779712,
+      "word": "吴彤",
+      "onboard_time": 1671603989,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 1236646,
@@ -219,6 +227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 751197,
+      "num": 751197,
+      "word": "把车保罗请回来",
+      "onboard_time": 1671603870,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 748434,
       "num": 748434,
       "word": "姆巴佩中场演讲激励队友",
@@ -291,14 +307,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 565166,
-      "num": 565166,
-      "word": "吴彤",
-      "onboard_time": 1671603989,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 559022,
       "num": 559022,
       "word": "伊甸园 lana",
@@ -315,6 +323,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 538441,
+      "num": 538441,
+      "word": "专家建议年轻人谈恋爱要真诚",
+      "onboard_time": 1671602309,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 514724,
+      "num": 475568,
+      "word": "张蔷割眼袋失败喊话整容医生",
+      "onboard_time": 1671605309,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 483866,
       "num": 483866,
       "word": "17岁少年文花臂后起诉店家获赔5800",
@@ -323,12 +347,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 454626,
-      "num": 454626,
+      "raw_hot": 475802,
+      "num": 475802,
+      "word": "我的微博播报",
+      "onboard_time": 1671605251,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 457604,
+      "num": 457604,
       "word": "阿根廷足协致歉球迷",
       "onboard_time": 1671596970,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 453958,
+      "num": 323673,
+      "word": "车保罗开通微博",
+      "onboard_time": 1671606271,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 452015,
@@ -539,6 +579,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 332077,
+      "num": 332077,
+      "word": "抗原红线深浅能代表病情轻重吗",
+      "onboard_time": 1671605251,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 330653,
       "num": 330653,
       "word": "退烧后咳个不停怎样用药",
@@ -595,14 +643,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 301389,
-      "num": 301389,
-      "word": "专家建议年轻人谈恋爱要真诚",
-      "onboard_time": 1671602309,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 301333,
       "num": 301333,
       "word": "王源晒差不多就是这样视频",
@@ -617,14 +657,6 @@
       "onboard_time": 1671601235,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 300992,
-      "num": 300992,
-      "word": "把车保罗请回来",
-      "onboard_time": 1671603870,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 288389,
@@ -739,6 +771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 241076,
+      "num": 222014,
+      "word": "婴儿遭月子中心月嫂失手摔地",
+      "onboard_time": 1671606028,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 240960,
       "num": 240960,
       "word": "2023年都有啥大事",
@@ -769,6 +809,22 @@
       "onboard_time": 1671595952,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 229703,
+      "num": 229703,
+      "word": "山东两地明确过年可燃放烟花爆竹",
+      "onboard_time": 1671604289,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 228566,
+      "num": 228566,
+      "word": "宿舍因床位过多通道仅留1人宽",
+      "onboard_time": 1671605909,
+      "rank": 29,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 221420,
@@ -819,6 +875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 214762,
+      "num": 214762,
+      "word": "文韬 单线任务",
+      "onboard_time": 1671605070,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 213675,
       "num": 213675,
       "word": "你是哪种株",
@@ -851,8 +915,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 208203,
-      "num": 208203,
+      "raw_hot": 209074,
+      "num": 209074,
       "word": "BLG官宣Weiwei离队",
       "onboard_time": 1671601950,
       "rank": 37,
@@ -865,6 +929,14 @@
       "onboard_time": 1671578600,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 207390,
+      "num": 207390,
+      "word": "安徽卫视否认明年将播出韩剧",
+      "onboard_time": 1671605850,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 206834,
@@ -1059,6 +1131,30 @@
       "category": "影视"
     },
     {
+      "raw_hot": 172313,
+      "num": 172313,
+      "word": "女子用枇杷叶熬水止咳",
+      "onboard_time": 1671605787,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 164867,
+      "num": 164867,
+      "word": "晨艺60公斤体重50公斤是老实",
+      "onboard_time": 1671606212,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 164602,
+      "num": 159188,
+      "word": "林娜琏孙彩瑛手势舞视频",
+      "onboard_time": 1671606509,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 161520,
       "num": 161520,
       "word": "王嘉尔今年在2022最美的夜过跨晚",
@@ -1073,6 +1169,14 @@
       "onboard_time": 1671596550,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 157052,
+      "num": 157052,
+      "word": "2023年起儿童按年龄享优惠火车票",
+      "onboard_time": 1671606271,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 157001,
@@ -1139,6 +1243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 149200,
+      "num": 780006,
+      "word": "阳了之后的7个高频问答",
+      "onboard_time": 1671605610,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 149108,
       "num": 149108,
       "word": "任嘉伦新专辑第二支舞蹈视频",
@@ -1201,14 +1313,6 @@
       "onboard_time": 1671604468,
       "rank": 42,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 140003,
-      "num": 140003,
-      "word": "山东两地明确过年可燃放烟花爆竹",
-      "onboard_time": 1671604289,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 138691,
@@ -1281,6 +1385,14 @@
       "onboard_time": 1671592950,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 127929,
+      "num": 127929,
+      "word": "刺柠吉成为维C饮料新宠",
+      "onboard_time": 1671605489,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 125368,
@@ -1559,6 +1671,9 @@
     },
     {
       "word": "#2022看见平凡微光#"
+    },
+    {
+      "word": "#为中国这项世界之最点赞#"
     }
   ]
 }
