@@ -1,6 +1,6 @@
 {
   "startTime": 1671726339693,
-  "endTime": 1671733361505,
+  "endTime": 1671734222318,
   "band_list": [
     {
       "raw_hot": 1902630,
@@ -315,6 +315,14 @@
       "category": "作品衍生,情感"
     },
     {
+      "raw_hot": 96614,
+      "num": 84673,
+      "word": "黑龙江被抢药店老板已暂停免费发药",
+      "onboard_time": 1671730456,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 96564,
       "num": 96564,
       "word": "研究生夜跑跳入刺骨河水救人",
@@ -345,14 +353,6 @@
       "onboard_time": 1671726562,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 89879,
-      "num": 84673,
-      "word": "黑龙江被抢药店老板已暂停免费发药",
-      "onboard_time": 1671730456,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 87096,
@@ -419,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 59726,
+      "num": 43220,
+      "word": "杨紫说最近不会接综艺",
+      "onboard_time": 1671732674,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 59602,
       "num": 91742,
       "word": "新冠缺药有哪些求助方式",
@@ -433,14 +441,6 @@
       "onboard_time": 1671726324,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 57172,
-      "num": 36268,
-      "word": "杨紫说最近不会接综艺",
-      "onboard_time": 1671732674,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 56989,
