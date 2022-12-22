@@ -1,6 +1,6 @@
 {
   "startTime": 1671380618877,
-  "endTime": 1671680025617,
+  "endTime": 1671682929824,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -1651,6 +1651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 716288,
+      "num": 716288,
+      "word": "南北方毒株致病力没有太大区别",
+      "onboard_time": 1671679712,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 713649,
       "num": 713649,
       "word": "考研前一周阳了怎么办",
@@ -1793,6 +1801,14 @@
       "onboard_time": 1671676472,
       "rank": 41,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 679977,
+      "num": 679977,
+      "word": "光遇",
+      "onboard_time": 1671509968,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 679866,
@@ -2297,6 +2313,14 @@
       "onboard_time": 1671668489,
       "rank": 11,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 526049,
+      "num": 526049,
+      "word": "法官称律师说话太快像放屁",
+      "onboard_time": 1671678150,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 524345,
@@ -3227,6 +3251,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 362968,
+      "num": 362968,
+      "word": "阳了后浑身疼痛怎么办",
+      "onboard_time": 1671680131,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 361557,
+      "num": 361557,
+      "word": "饿了么免单",
+      "onboard_time": 1671681390,
+      "rank": 17,
+      "category": "科技"
+    },
+    {
       "raw_hot": 360844,
       "num": 360844,
       "word": "吴磊不曾改变的审美",
@@ -3363,14 +3403,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 349589,
-      "num": 349589,
-      "word": "法官称律师说话太快像放屁",
-      "onboard_time": 1671678150,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 349445,
       "num": 349445,
       "word": "2023东方卫视片单",
@@ -3401,6 +3433,14 @@
       "onboard_time": 1671436290,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 346807,
+      "num": 346807,
+      "word": "张若昀说自信到了球没到",
+      "onboard_time": 1671680671,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 346135,
@@ -3697,6 +3737,14 @@
       "onboard_time": 1671491658,
       "rank": 45,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 321078,
+      "num": 321078,
+      "word": "92岁曾祖母掏百岁钱欲救重病曾孙",
+      "onboard_time": 1671681271,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 320716,
@@ -4324,7 +4372,7 @@
     },
     {
       "raw_hot": 272194,
-      "num": 216306,
+      "num": 220316,
       "word": "安崎签约索尼音乐",
       "onboard_time": 1671679833,
       "rank": 30,
@@ -4361,6 +4409,14 @@
       "onboard_time": 1671617011,
       "rank": 32,
       "category": "影视,情感"
+    },
+    {
+      "raw_hot": 269843,
+      "num": 269843,
+      "word": "2023央视春晚标识官宣",
+      "onboard_time": 1671681092,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 268317,
@@ -4601,6 +4657,14 @@
       "onboard_time": 1671421473,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 254277,
+      "num": 220353,
+      "word": "浮图缘",
+      "onboard_time": 1671681271,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 254250,
@@ -5011,12 +5075,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 220555,
+      "num": 220555,
+      "word": "被妈妈拖回去吃饭的小奶狗",
+      "onboard_time": 1671680310,
+      "rank": 28,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 220275,
       "num": 220275,
       "word": "狗狗正骨后的反应",
       "onboard_time": 1671609271,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 220275,
+      "num": 220275,
+      "word": "许晴如梦之梦候场花絮视频",
+      "onboard_time": 1671682654,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 219378,
@@ -5035,14 +5115,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 218959,
-      "num": 218959,
-      "word": "光遇",
-      "onboard_time": 1671509968,
-      "rank": 35,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 217702,
       "num": 217702,
       "word": "河源地震",
@@ -5057,6 +5129,14 @@
       "onboard_time": 1671460354,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 216383,
+      "num": 216383,
+      "word": "妻子重病丈夫拒付医药费被判刑",
+      "onboard_time": 1671680070,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 214762,
@@ -5217,6 +5297,14 @@
       "onboard_time": 1671465266,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 207899,
+      "num": 160916,
+      "word": "县委大院",
+      "onboard_time": 1671682772,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 207887,
@@ -6051,6 +6139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 177046,
+      "num": 177046,
+      "word": "篮网30分大胜勇士",
+      "onboard_time": 1671681390,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 176970,
       "num": 176970,
       "word": "伊布",
@@ -6369,14 +6465,6 @@
       "onboard_time": 1671521612,
       "rank": 40,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 163771,
-      "num": 163771,
-      "word": "南北方毒株致病力没有太大区别",
-      "onboard_time": 1671679712,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 163663,
@@ -7083,6 +7171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 141746,
+      "num": 141746,
+      "word": "女子高烧误将脱毛纸当退烧贴",
+      "onboard_time": 1671682589,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 141522,
       "num": 141522,
       "word": "胡歌花絮勇斗蛤蟆",
@@ -7347,6 +7443,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 132894,
+      "num": 132894,
+      "word": "消防凌晨遇独自步行女孩暖心送家",
+      "onboard_time": 1671682772,
+      "rank": 47,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 132607,
       "num": 132607,
       "word": "浙江兰溪药企日产3.4万盒布洛芬",
@@ -7473,6 +7577,14 @@
       "onboard_time": 1671548071,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 128691,
+      "num": 128691,
+      "word": "苹果CarPlay真的好用吗",
+      "onboard_time": 1671682892,
+      "rank": 49,
+      "category": "科技"
     },
     {
       "raw_hot": 128491,
@@ -8449,6 +8561,14 @@
       "onboard_time": 1671642620,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 39445,
+      "num": 367651,
+      "word": "电影导演的想象力有多野",
+      "onboard_time": 1671682412,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 36455,

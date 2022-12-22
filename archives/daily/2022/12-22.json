@@ -1,6 +1,6 @@
 {
   "startTime": 1671639995248,
-  "endTime": 1671680025617,
+  "endTime": 1671682929824,
   "band_list": [
     {
       "raw_hot": 3312636,
@@ -107,6 +107,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 716288,
+      "num": 716288,
+      "word": "南北方毒株致病力没有太大区别",
+      "onboard_time": 1671679712,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 710446,
       "num": 710446,
       "word": "春晚兔圆圆",
@@ -129,6 +137,14 @@
       "onboard_time": 1671676472,
       "rank": 41,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 679977,
+      "num": 679977,
+      "word": "光遇",
+      "onboard_time": 1671681990,
+      "rank": 6,
+      "category": "游戏"
     },
     {
       "raw_hot": 665131,
@@ -177,6 +193,14 @@
       "onboard_time": 1671668489,
       "rank": 11,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 526049,
+      "num": 526049,
+      "word": "法官称律师说话太快像放屁",
+      "onboard_time": 1671678150,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 513331,
@@ -291,12 +315,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 349589,
-      "num": 349589,
-      "word": "法官称律师说话太快像放屁",
-      "onboard_time": 1671678150,
-      "rank": 29,
+      "raw_hot": 362968,
+      "num": 362968,
+      "word": "阳了后浑身疼痛怎么办",
+      "onboard_time": 1671680131,
+      "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 361557,
+      "num": 361557,
+      "word": "饿了么免单",
+      "onboard_time": 1671681390,
+      "rank": 17,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 346807,
+      "num": 346807,
+      "word": "张若昀说自信到了球没到",
+      "onboard_time": 1671680671,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 338047,
@@ -321,6 +361,14 @@
       "onboard_time": 1671674369,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 321078,
+      "num": 321078,
+      "word": "92岁曾祖母掏百岁钱欲救重病曾孙",
+      "onboard_time": 1671681271,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 314617,
@@ -404,11 +452,19 @@
     },
     {
       "raw_hot": 272194,
-      "num": 216306,
+      "num": 220316,
       "word": "安崎签约索尼音乐",
       "onboard_time": 1671679833,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 269843,
+      "num": 269843,
+      "word": "2023央视春晚标识官宣",
+      "onboard_time": 1671681092,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 267516,
@@ -433,6 +489,14 @@
       "onboard_time": 1671634598,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 254277,
+      "num": 220353,
+      "word": "浮图缘",
+      "onboard_time": 1671681271,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 254250,
@@ -507,6 +571,30 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 220555,
+      "num": 220555,
+      "word": "被妈妈拖回去吃饭的小奶狗",
+      "onboard_time": 1671680310,
+      "rank": 28,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 220275,
+      "num": 220275,
+      "word": "许晴如梦之梦候场花絮视频",
+      "onboard_time": 1671682654,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 216383,
+      "num": 216383,
+      "word": "妻子重病丈夫拒付医药费被判刑",
+      "onboard_time": 1671680070,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 214896,
       "num": 214896,
       "word": "卷王姆巴佩回大巴黎训练",
@@ -521,6 +609,14 @@
       "onboard_time": 1671640522,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 207899,
+      "num": 160916,
+      "word": "县委大院",
+      "onboard_time": 1671682772,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 206351,
@@ -603,6 +699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 177046,
+      "num": 177046,
+      "word": "篮网30分大胜勇士",
+      "onboard_time": 1671681390,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 174978,
       "num": 174978,
       "word": "女子送邻居退烧药意外收到鲜花",
@@ -648,14 +752,6 @@
       "word": "奶奶摸出安宫牛黄丸给孙子防新冠",
       "onboard_time": 1671618931,
       "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 163771,
-      "num": 163771,
-      "word": "南北方毒株致病力没有太大区别",
-      "onboard_time": 1671679712,
-      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -755,6 +851,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 141746,
+      "num": 141746,
+      "word": "女子高烧误将脱毛纸当退烧贴",
+      "onboard_time": 1671682589,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 141372,
       "num": 141372,
       "word": "亿企加油 全力以复",
@@ -811,6 +915,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 132894,
+      "num": 132894,
+      "word": "消防凌晨遇独自步行女孩暖心送家",
+      "onboard_time": 1671682772,
+      "rank": 47,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 131929,
       "num": 131929,
       "word": "武林外传演我变阳状态",
@@ -833,6 +945,14 @@
       "onboard_time": 1671636990,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 128691,
+      "num": 128691,
+      "word": "苹果CarPlay真的好用吗",
+      "onboard_time": 1671682892,
+      "rank": 49,
+      "category": "科技"
     },
     {
       "raw_hot": 127623,
@@ -1073,6 +1193,14 @@
       "onboard_time": 1671642620,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 39445,
+      "num": 367651,
+      "word": "电影导演的想象力有多野",
+      "onboard_time": 1671682412,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 36925,
