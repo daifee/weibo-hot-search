@@ -1,0 +1,410 @@
+{
+  "runTime": 1671752015155,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1191815,
+        "num": 1191815,
+        "word": "决赛圈",
+        "onboard_time": 1671712410,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 799498,
+        "num": 799498,
+        "word": "给还没羊的人留一句经验",
+        "onboard_time": 1671750737,
+        "rank": 1,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 9785,
+        "num": 524218,
+        "word": "关于孩子发烧17个热点问答",
+        "onboard_time": 1671693391,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 511583,
+        "num": 511583,
+        "word": "编剧倪震去世",
+        "onboard_time": 1671723566,
+        "rank": 3,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 500277,
+        "num": 500277,
+        "word": "妈妈阳后第3天就坚持做饭",
+        "onboard_time": 1671740471,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 401550,
+        "num": 401550,
+        "word": "黑龙江被抢药店老板已暂停免费发药",
+        "onboard_time": 1671730456,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220060,
+        "num": 220060,
+        "word": "才知道布洛芬不适合我",
+        "onboard_time": 1671722069,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 211781,
+        "num": 211781,
+        "word": "挺进决赛圈的人有多嚣张",
+        "onboard_time": 1671714215,
+        "rank": 7,
+        "category": "游戏,幽默"
+      },
+      {
+        "raw_hot": 191505,
+        "num": 191505,
+        "word": "张文宏建议老年人每天吃2个鸡蛋",
+        "onboard_time": 1671720512,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180930,
+        "num": 180930,
+        "word": "阳了你有腰疼的症状吗",
+        "onboard_time": 1671721948,
+        "rank": 9,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 252223,
+        "num": 179097,
+        "word": "阿根廷获批在成都设立总领事馆",
+        "onboard_time": 1671746652,
+        "rank": 10,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 205006,
+        "num": 177628,
+        "word": "华少没礼貌名场面",
+        "onboard_time": 1671712052,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 164491,
+        "num": 164491,
+        "word": "过敏体质不易感染是真的吗",
+        "onboard_time": 1671738553,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161055,
+        "num": 161055,
+        "word": "网传十大新冠偏方全是谣言",
+        "onboard_time": 1671723566,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156739,
+        "num": 156739,
+        "word": "马化腾称整个腾讯新闻砍掉都可以",
+        "onboard_time": 1671705212,
+        "rank": 14,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 156414,
+        "num": 156414,
+        "word": "网友称考研民宿房费暴涨近20倍",
+        "onboard_time": 1671728539,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146676,
+        "num": 146676,
+        "word": "小时候让你审美启蒙的女明星",
+        "onboard_time": 1671730216,
+        "rank": 16,
+        "category": "作品衍生,情感"
+      },
+      {
+        "raw_hot": 146052,
+        "num": 146052,
+        "word": "杨紫说最近不会接综艺",
+        "onboard_time": 1671732674,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140597,
+        "num": 140597,
+        "word": "被任贤齐关心孔雪儿暖到了",
+        "onboard_time": 1671723206,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139856,
+        "num": 139856,
+        "word": "李晨问杨颖做美甲后怎么开易拉罐",
+        "onboard_time": 1671722069,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135397,
+        "num": 135397,
+        "word": "高盛称A股牛市就要到来",
+        "onboard_time": 1671750317,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 125537,
+        "num": 125537,
+        "word": "阳后出现不典型症状究竟是什么原因",
+        "onboard_time": 1671741672,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124209,
+        "num": 124209,
+        "word": "长沙某火锅店强制顾客餐后漱口",
+        "onboard_time": 1671725365,
+        "rank": 22,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 102596,
+        "num": 102596,
+        "word": "71岁张纪中感染新冠",
+        "onboard_time": 1671717031,
+        "rank": 23,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 101410,
+        "num": 101410,
+        "word": "快递包裹破了个洞美林却不翼而飞",
+        "onboard_time": 1671711754,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100260,
+        "num": 100260,
+        "word": "县委大院刘昊然上线",
+        "onboard_time": 1671718412,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 98159,
+        "num": 98159,
+        "word": "你接受结婚不办婚礼吗",
+        "onboard_time": 1671722608,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95219,
+        "num": 95219,
+        "word": "睡觉要盖被子睡枕头的小狗",
+        "onboard_time": 1671714874,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 85805,
+        "num": 85805,
+        "word": "为什么朋友圈秀恩爱的少了",
+        "onboard_time": 1671712170,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 78188,
+        "num": 84972,
+        "word": "阳了为什么会腰疼",
+        "onboard_time": 1671702148,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84819,
+        "num": 84819,
+        "word": "你觉得长歌行好看吗",
+        "onboard_time": 1671712650,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 84669,
+        "num": 84669,
+        "word": "为2023考研人加油",
+        "onboard_time": 1671722670,
+        "rank": 31,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 80028,
+        "num": 80028,
+        "word": "张文宏称北方有症状比例比南方高很多",
+        "onboard_time": 1671694053,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78479,
+        "num": 78479,
+        "word": "药店回应6片布洛芬卖48元",
+        "onboard_time": 1671705092,
+        "rank": 33,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 68618,
+        "num": 68618,
+        "word": "男孩高烧近40度不让写作业就哭",
+        "onboard_time": 1671709772,
+        "rank": 34,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 67516,
+        "num": 67516,
+        "word": "3狗崽零下34度雪地玩耍被狗妈叼回",
+        "onboard_time": 1671711269,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66282,
+        "num": 66282,
+        "word": "研究生夜跑跳入刺骨河水救人",
+        "onboard_time": 1671707073,
+        "rank": 36,
+        "category": "社会正能量,教育"
+      },
+      {
+        "raw_hot": 63834,
+        "num": 63834,
+        "word": "曼城3比2利物浦",
+        "onboard_time": 1671751940,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 63627,
+        "num": 63627,
+        "word": "妈妈晕倒3孩子淡然当事人删视频",
+        "onboard_time": 1671698911,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62155,
+        "num": 62155,
+        "word": "孙子和孙女不同起床待遇",
+        "onboard_time": 1671718653,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60607,
+        "num": 60607,
+        "word": "陈乔恩苗苗谈不办婚礼的原因",
+        "onboard_time": 1671709593,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 59200,
+        "num": 59200,
+        "word": "杨幂芭莎蕾丝纱裙造型",
+        "onboard_time": 1671701849,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 53430,
+        "num": 53430,
+        "word": "女子称买儿童退烧药收到空包裹",
+        "onboard_time": 1671726741,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52914,
+        "num": 52914,
+        "word": "布洛芬和对乙酰氨基酚选哪个",
+        "onboard_time": 1671698370,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51559,
+        "num": 51559,
+        "word": "回来的女儿",
+        "onboard_time": 1671714754,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 48696,
+        "num": 48696,
+        "word": "买Chanel耳钉顺丰运掉五颗珍珠",
+        "onboard_time": 1671703771,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43754,
+        "num": 43754,
+        "word": "没想到尔冬升也逃不出养成系",
+        "onboard_time": 1671715712,
+        "rank": 46,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 42198,
+        "num": 42198,
+        "word": "新冠科学排痰姿势",
+        "onboard_time": 1671728060,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39832,
+        "num": 39832,
+        "word": "姜云升直播",
+        "onboard_time": 1671726562,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37370,
+        "num": 37370,
+        "word": "猫咪不喜欢狗的原因找到了",
+        "onboard_time": 1671720330,
+        "rank": 49,
+        "category": "幽默,情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见梅德韦杰夫#"
+    }
+  }
+}
