@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1671743753086,
+  "endTime": 1671744813513,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -48523,6 +48523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 103151,
+      "num": 46025,
+      "word": "妈妈阳后第3天就坚持做饭",
+      "onboard_time": 1671740471,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 103129,
       "num": 103129,
       "word": "中俄将举行海上联合军演",
@@ -49064,14 +49072,6 @@
       "word": "男子疑似碰瓷连同伴都看不下去",
       "onboard_time": 1669898111,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 97522,
-      "num": 46025,
-      "word": "妈妈阳后第3天就坚持做饭",
-      "onboard_time": 1671740471,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -50419,6 +50419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 69248,
+      "num": 69248,
+      "word": "过敏体质不易感染是真的吗",
+      "onboard_time": 1671738553,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 69194,
       "num": 144335,
       "word": "塞尔维亚vs瑞士",
@@ -50529,14 +50537,6 @@
       "onboard_time": 1670282828,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 66088,
-      "num": 66088,
-      "word": "过敏体质不易感染是真的吗",
-      "onboard_time": 1671738553,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 66040,
@@ -50859,6 +50859,14 @@
       "category": "体育,幽默"
     },
     {
+      "raw_hot": 55985,
+      "num": 44212,
+      "word": "阳后出现不典型症状究竟是什么原因",
+      "onboard_time": 1671741672,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 55955,
       "num": 55955,
       "word": "新冠科学排痰姿势",
@@ -51161,14 +51169,6 @@
       "onboard_time": 1671560534,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 44212,
-      "num": 44212,
-      "word": "阳后出现不典型症状究竟是什么原因",
-      "onboard_time": 1671741672,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 43444,
@@ -51563,6 +51563,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 18269,
+      "num": 16973,
+      "word": "兔年春晚logo是卯字",
+      "onboard_time": 1671741073,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 18164,
       "num": 36191,
       "word": "管泽元约徐志胜呼兰立冠军flag",
@@ -51585,14 +51593,6 @@
       "onboard_time": 1670767337,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 15539,
-      "num": 15835,
-      "word": "兔年春晚logo是卯字",
-      "onboard_time": 1671741073,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 14313,
