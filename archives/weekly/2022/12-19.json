@@ -1,6 +1,6 @@
 {
   "startTime": 1671380618877,
-  "endTime": 1671716123545,
+  "endTime": 1671718602924,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -1291,6 +1291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 919740,
+      "num": 919740,
+      "word": "为什么朋友圈秀恩爱的少了",
+      "onboard_time": 1671712170,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 914559,
       "num": 914559,
       "word": "男子确诊后舌头牙齿全变黑",
@@ -1387,6 +1395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 869235,
+      "num": 368057,
+      "word": "71岁张纪中感染新冠",
+      "onboard_time": 1671717031,
+      "rank": 11,
+      "category": "艺人,社会新闻"
+    },
+    {
       "raw_hot": 868609,
       "num": 868609,
       "word": "六公主评价赵丽颖风吹半夏",
@@ -1441,14 +1457,6 @@
       "onboard_time": 1671581188,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 843540,
-      "num": 843540,
-      "word": "为什么朋友圈秀恩爱的少了",
-      "onboard_time": 1671712170,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 841760,
@@ -2091,6 +2099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 664231,
+      "num": 664231,
+      "word": "挺进决赛圈的人有多嚣张",
+      "onboard_time": 1671714215,
+      "rank": 27,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 659552,
       "num": 659552,
       "word": "遇害女大学生父亲回应带货",
@@ -2153,6 +2169,14 @@
       "onboard_time": 1671617971,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 644651,
+      "num": 359880,
+      "word": "没想到尔冬升也逃不出养成系",
+      "onboard_time": 1671715712,
+      "rank": 30,
+      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 643212,
@@ -2737,6 +2761,14 @@
       "onboard_time": 1671615090,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 494896,
+      "num": 494896,
+      "word": "赵睿",
+      "onboard_time": 1671716192,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 494297,
@@ -3779,14 +3811,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 358405,
-      "num": 358405,
-      "word": "挺进决赛圈的人有多嚣张",
-      "onboard_time": 1671714215,
-      "rank": 27,
-      "category": "社会新闻,幽默"
-    },
-    {
       "raw_hot": 357509,
       "num": 357509,
       "word": "圣诞写真拍成这样可以退款吗",
@@ -4683,6 +4707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 294735,
+      "num": 260758,
+      "word": "县委大院",
+      "onboard_time": 1671682772,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 294406,
       "num": 294406,
       "word": "华晨宇新专辑",
@@ -4697,14 +4729,6 @@
       "onboard_time": 1671435811,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 293189,
-      "num": 196466,
-      "word": "没想到尔冬升也逃不出养成系",
-      "onboard_time": 1671715712,
-      "rank": 30,
-      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 292878,
@@ -4729,6 +4753,14 @@
       "onboard_time": 1671607891,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 290811,
+      "num": 290811,
+      "word": "睡觉要盖被子睡枕头的小狗",
+      "onboard_time": 1671714874,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 290460,
@@ -5659,6 +5691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 236493,
+      "num": 167195,
+      "word": "县委大院刘昊然上线",
+      "onboard_time": 1671718412,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 236169,
       "num": 236169,
       "word": "复阳一般没有传染性",
@@ -5713,6 +5753,14 @@
       "onboard_time": 1671595952,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 234346,
+      "num": 234346,
+      "word": "原来好的恋爱会让人变好看",
+      "onboard_time": 1671715416,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 233243,
@@ -6160,14 +6208,6 @@
       "word": "代旭看回来的女儿划重点",
       "onboard_time": 1671714695,
       "rank": 33,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 207899,
-      "num": 168610,
-      "word": "县委大院",
-      "onboard_time": 1671682772,
-      "rank": 41,
       "category": "影视"
     },
     {
@@ -6819,6 +6859,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 184709,
+      "num": 116185,
+      "word": "张子枫说和梅婷对戏起鸡皮疙瘩",
+      "onboard_time": 1671716252,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 184610,
       "num": 184610,
       "word": "吴镇宇 长相可以像演技别来沾边",
@@ -6849,14 +6897,6 @@
       "onboard_time": 1671630875,
       "rank": 28,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 183651,
-      "num": 183651,
-      "word": "睡觉要盖被子睡枕头的小狗",
-      "onboard_time": 1671714874,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 183489,
@@ -6945,6 +6985,14 @@
       "onboard_time": 1671445049,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 181402,
+      "num": 116030,
+      "word": "威神V新歌DiamondsOnly",
+      "onboard_time": 1671716854,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 180971,
@@ -7073,6 +7121,14 @@
       "onboard_time": 1671679232,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 178289,
+      "num": 178289,
+      "word": "初一女生冬至买80斤饺子送环卫工",
+      "onboard_time": 1671716433,
+      "rank": 28,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 178218,
@@ -8547,14 +8603,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 134095,
-      "num": 134095,
-      "word": "原来好的恋爱会让人变好看",
-      "onboard_time": 1671715416,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
       "raw_hot": 134087,
       "num": 134087,
       "word": "武大靖泼水成冰",
@@ -8833,6 +8881,14 @@
       "onboard_time": 1671448411,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 126239,
+      "num": 126239,
+      "word": "广东男篮终结浙江15连胜",
+      "onboard_time": 1671718111,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 126170,
@@ -9521,6 +9577,14 @@
       "onboard_time": 1671550466,
       "rank": 48,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 101253,
+      "num": 101253,
+      "word": "干饭专用手机壳",
+      "onboard_time": 1671717992,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 100441,

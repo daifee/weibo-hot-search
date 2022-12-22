@@ -1,6 +1,6 @@
 {
   "startTime": 1671639995248,
-  "endTime": 1671716123545,
+  "endTime": 1671718602924,
   "band_list": [
     {
       "raw_hot": 3938780,
@@ -227,6 +227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 919740,
+      "num": 919740,
+      "word": "为什么朋友圈秀恩爱的少了",
+      "onboard_time": 1671712170,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 908072,
       "num": 908072,
       "word": "陈乔恩说别理陆毅他懂个屁",
@@ -243,20 +251,20 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 869235,
+      "num": 368057,
+      "word": "71岁张纪中感染新冠",
+      "onboard_time": 1671717031,
+      "rank": 11,
+      "category": "艺人,社会新闻"
+    },
+    {
       "raw_hot": 866752,
       "num": 866752,
       "word": "研究生夜跑跳入刺骨河水救人",
       "onboard_time": 1671707073,
       "rank": 39,
       "category": "社会正能量,教育"
-    },
-    {
-      "raw_hot": 843540,
-      "num": 843540,
-      "word": "为什么朋友圈秀恩爱的少了",
-      "onboard_time": 1671712170,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 819477,
@@ -371,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 664231,
+      "num": 664231,
+      "word": "挺进决赛圈的人有多嚣张",
+      "onboard_time": 1671714215,
+      "rank": 27,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 659552,
       "num": 659552,
       "word": "遇害女大学生父亲回应带货",
@@ -393,6 +409,14 @@
       "onboard_time": 1671666325,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 644651,
+      "num": 359880,
+      "word": "没想到尔冬升也逃不出养成系",
+      "onboard_time": 1671715712,
+      "rank": 30,
+      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 619095,
@@ -529,6 +553,14 @@
       "onboard_time": 1671696391,
       "rank": 27,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 494896,
+      "num": 494896,
+      "word": "赵睿",
+      "onboard_time": 1671716192,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 494297,
@@ -819,14 +851,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 358405,
-      "num": 358405,
-      "word": "挺进决赛圈的人有多嚣张",
-      "onboard_time": 1671714215,
-      "rank": 27,
-      "category": "社会新闻,幽默"
-    },
-    {
       "raw_hot": 357509,
       "num": 357509,
       "word": "圣诞写真拍成这样可以退款吗",
@@ -1075,12 +1099,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 293189,
-      "num": 196466,
-      "word": "没想到尔冬升也逃不出养成系",
-      "onboard_time": 1671715712,
-      "rank": 30,
-      "category": "作品衍生,幽默"
+      "raw_hot": 294735,
+      "num": 260758,
+      "word": "县委大院",
+      "onboard_time": 1671682772,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 292572,
@@ -1089,6 +1113,14 @@
       "onboard_time": 1671684088,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 290811,
+      "num": 290811,
+      "word": "睡觉要盖被子睡枕头的小狗",
+      "onboard_time": 1671714874,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 287955,
@@ -1347,12 +1379,28 @@
       "category": "幽默,影视"
     },
     {
+      "raw_hot": 236493,
+      "num": 167195,
+      "word": "县委大院刘昊然上线",
+      "onboard_time": 1671718412,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 236054,
       "num": 211154,
       "word": "赵丽颖沈璃片场包饺子",
       "onboard_time": 1671708632,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 234346,
+      "num": 234346,
+      "word": "原来好的恋爱会让人变好看",
+      "onboard_time": 1671715416,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 233223,
@@ -1480,14 +1528,6 @@
       "word": "代旭看回来的女儿划重点",
       "onboard_time": 1671714695,
       "rank": 33,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 207899,
-      "num": 168610,
-      "word": "县委大院",
-      "onboard_time": 1671682772,
-      "rank": 41,
       "category": "影视"
     },
     {
@@ -1635,12 +1675,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 183651,
-      "num": 183651,
-      "word": "睡觉要盖被子睡枕头的小狗",
-      "onboard_time": 1671714874,
-      "rank": 44,
-      "category": "幽默"
+      "raw_hot": 184709,
+      "num": 116185,
+      "word": "张子枫说和梅婷对戏起鸡皮疙瘩",
+      "onboard_time": 1671716252,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 182809,
@@ -1649,6 +1689,14 @@
       "onboard_time": 1671623732,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 181402,
+      "num": 116030,
+      "word": "威神V新歌DiamondsOnly",
+      "onboard_time": 1671716854,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 179935,
@@ -1665,6 +1713,14 @@
       "onboard_time": 1671679232,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 178289,
+      "num": 178289,
+      "word": "初一女生冬至买80斤饺子送环卫工",
+      "onboard_time": 1671716433,
+      "rank": 28,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 177046,
@@ -2059,14 +2115,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 134095,
-      "num": 134095,
-      "word": "原来好的恋爱会让人变好看",
-      "onboard_time": 1671715416,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
       "raw_hot": 134087,
       "num": 134087,
       "word": "武大靖泼水成冰",
@@ -2161,6 +2209,14 @@
       "onboard_time": 1671658271,
       "rank": 49,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 126239,
+      "num": 126239,
+      "word": "广东男篮终结浙江15连胜",
+      "onboard_time": 1671718111,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 126170,
@@ -2401,6 +2457,14 @@
       "onboard_time": 1671694413,
       "rank": 49,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 101253,
+      "num": 101253,
+      "word": "干饭专用手机壳",
+      "onboard_time": 1671717992,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 98917,
