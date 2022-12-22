@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1671713573890,
+  "endTime": 1671715409678,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -473,6 +473,14 @@
       "onboard_time": 1671378156,
       "rank": 2,
       "category": "体育"
+    },
+    {
+      "raw_hot": 3522989,
+      "num": 3522989,
+      "word": "决赛圈",
+      "onboard_time": 1671712410,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 3520566,
@@ -3379,14 +3387,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1408046,
-      "num": 1408046,
-      "word": "决赛圈",
-      "onboard_time": 1671712410,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 1405280,
       "num": 1405280,
       "word": "宁艺卓 杀疯了",
@@ -3529,6 +3529,14 @@
       "onboard_time": 1671152852,
       "rank": 10,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 1367257,
+      "num": 490079,
+      "word": "华少没礼貌名场面",
+      "onboard_time": 1671712052,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1366877,
@@ -4137,14 +4145,6 @@
       "onboard_time": 1670515098,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1247193,
-      "num": 490079,
-      "word": "华少没礼貌名场面",
-      "onboard_time": 1671712052,
-      "rank": 12,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1246879,
@@ -6043,6 +6043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 959882,
+      "num": 959882,
+      "word": "杨紫直播",
+      "onboard_time": 1671710554,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 958257,
       "num": 303308,
       "word": "梅西错失点球",
@@ -6793,14 +6801,6 @@
       "onboard_time": 1671248130,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 890991,
-      "num": 890991,
-      "word": "杨紫直播",
-      "onboard_time": 1671710554,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 890236,
@@ -8449,6 +8449,14 @@
       "onboard_time": 1670596280,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 768918,
+      "num": 768918,
+      "word": "为什么朋友圈秀恩爱的少了",
+      "onboard_time": 1671712170,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 768891,
@@ -16027,6 +16035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 457389,
+      "num": 457389,
+      "word": "快递包裹破了个洞美林却不翼而飞",
+      "onboard_time": 1671711754,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 456870,
       "num": 456870,
       "word": "北京协和医院科普新冠备药",
@@ -17651,6 +17667,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 415866,
+      "num": 415866,
+      "word": "NewJeans新歌Ditto舞蹈版",
+      "onboard_time": 1671714754,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 415844,
       "num": 376351,
       "word": "朴灿烈李马克金玟庭candy舞蹈挑战",
@@ -18155,6 +18179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 406893,
+      "num": 287003,
+      "word": "王俊凯黑色工装造型",
+      "onboard_time": 1671714033,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 406829,
       "num": 406829,
       "word": "葡萄牙vs瑞士",
@@ -18425,14 +18457,6 @@
       "onboard_time": 1670818513,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 402065,
-      "num": 402065,
-      "word": "为什么朋友圈秀恩爱的少了",
-      "onboard_time": 1671712170,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 401891,
@@ -22123,6 +22147,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 330365,
+      "num": 286184,
+      "word": "回来的女儿",
+      "onboard_time": 1671626792,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 330223,
       "num": 329380,
       "word": "护士做泪道冲洗拿自己练手",
@@ -24139,6 +24171,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 301225,
+      "num": 285626,
+      "word": "你觉得长歌行好看吗",
+      "onboard_time": 1671712650,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 301144,
       "num": 263851,
       "word": "赵雅芝红裙",
@@ -24297,14 +24337,6 @@
       "onboard_time": 1671377850,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 298936,
-      "num": 298936,
-      "word": "快递包裹破了个洞美林却不翼而飞",
-      "onboard_time": 1671711754,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 298886,
@@ -25379,14 +25411,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 285151,
-      "num": 285151,
-      "word": "回来的女儿",
-      "onboard_time": 1671626792,
-      "rank": 22,
-      "category": "影视"
-    },
-    {
       "raw_hot": 285141,
       "num": 752046,
       "word": "你舍不得删的那条短信",
@@ -25859,6 +25883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 279179,
+      "num": 279179,
+      "word": "3狗崽零下34度雪地玩耍被狗妈叼回",
+      "onboard_time": 1671711269,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 279135,
       "num": 279135,
       "word": "十年后马丽还是治得了大鹏",
@@ -26211,6 +26243,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 274804,
+      "num": 274804,
+      "word": "挺进决赛圈的人有多嚣张",
+      "onboard_time": 1671714215,
+      "rank": 27,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 274792,
       "num": 274792,
       "word": "妻子发烧丈夫用玩具遥控车送饭",
@@ -26425,6 +26465,14 @@
       "onboard_time": 1671362732,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 272670,
+      "num": 272670,
+      "word": "小兽",
+      "onboard_time": 1671713731,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 272578,
@@ -28443,14 +28491,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 247025,
-      "num": 247025,
-      "word": "你觉得长歌行好看吗",
-      "onboard_time": 1671712650,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
       "raw_hot": 246997,
       "num": 246997,
       "word": "Irene人歌Birthday直拍",
@@ -28907,6 +28947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 242133,
+      "num": 226364,
+      "word": "县委大院林志为官司胜诉",
+      "onboard_time": 1671713192,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 242092,
       "num": 134287,
       "word": "陆虎一口东北饭包都不给张远",
@@ -29129,6 +29177,14 @@
       "onboard_time": 1670648355,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 239306,
+      "num": 195204,
+      "word": "光明县有梅晓歌了不起",
+      "onboard_time": 1671710133,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 239113,
@@ -33675,14 +33731,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 195136,
-      "num": 195136,
-      "word": "3狗崽零下34度雪地玩耍被狗妈叼回",
-      "onboard_time": 1671711269,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 195012,
       "num": 825995,
       "word": "周恺",
@@ -35387,14 +35435,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 183794,
-      "num": 183794,
-      "word": "光明县有梅晓歌了不起",
-      "onboard_time": 1671710133,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 183724,
       "num": 183724,
       "word": "谁是憋气冠军",
@@ -36977,14 +37017,6 @@
       "onboard_time": 1670666779,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 174577,
-      "num": 174577,
-      "word": "县委大院林志为官司胜诉",
-      "onboard_time": 1671713192,
-      "rank": 37,
-      "category": "影视"
     },
     {
       "raw_hot": 174514,
@@ -42035,6 +42067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 143125,
+      "num": 143125,
+      "word": "腾讯的下一个风口在哪里",
+      "onboard_time": 1671715233,
+      "rank": 39,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 143064,
       "num": 606641,
       "word": "苹果又两名高管离职",
@@ -42953,6 +42993,14 @@
       "onboard_time": 1670397734,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 138270,
+      "num": 138270,
+      "word": "睡觉要盖被子睡枕头的小狗",
+      "onboard_time": 1671714874,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 138187,
@@ -45529,6 +45577,14 @@
       "onboard_time": 1670742854,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 122671,
+      "num": 122671,
+      "word": "伸手想要抓住阳光的猫猫",
+      "onboard_time": 1671714454,
+      "rank": 48,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 122631,
@@ -49969,6 +50025,14 @@
       "onboard_time": 1670946672,
       "rank": 42,
       "category": "美食"
+    },
+    {
+      "raw_hot": 69071,
+      "num": 418821,
+      "word": "百万博主的打光神器",
+      "onboard_time": 1671714033,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 68833,

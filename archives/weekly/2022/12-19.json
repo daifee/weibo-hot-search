@@ -1,6 +1,6 @@
 {
   "startTime": 1671380618877,
-  "endTime": 1671713573890,
+  "endTime": 1671715409678,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -153,6 +153,14 @@
       "onboard_time": 1671378156,
       "rank": 2,
       "category": "体育"
+    },
+    {
+      "raw_hot": 3522989,
+      "num": 3522989,
+      "word": "决赛圈",
+      "onboard_time": 1671712410,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 3312636,
@@ -667,14 +675,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1408046,
-      "num": 1408046,
-      "word": "决赛圈",
-      "onboard_time": 1671712410,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 1401020,
       "num": 1401020,
       "word": "龚俊感染新冠已康复",
@@ -697,6 +697,14 @@
       "onboard_time": 1671688409,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1367257,
+      "num": 490079,
+      "word": "华少没礼貌名场面",
+      "onboard_time": 1671712052,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1356294,
@@ -849,14 +857,6 @@
       "onboard_time": 1671500551,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1247193,
-      "num": 490079,
-      "word": "华少没礼貌名场面",
-      "onboard_time": 1671712052,
-      "rank": 12,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1236646,
@@ -1171,6 +1171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 959882,
+      "num": 959882,
+      "word": "杨紫直播",
+      "onboard_time": 1671710554,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 956694,
       "num": 956694,
       "word": "病毒变异后仍可能造成突破性感染",
@@ -1327,14 +1335,6 @@
       "num": 682906,
       "word": "王鹤棣直播",
       "onboard_time": 1671539252,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 890991,
-      "num": 890991,
-      "word": "杨紫直播",
-      "onboard_time": 1671710554,
       "rank": 10,
       "category": "艺人"
     },
@@ -1625,6 +1625,14 @@
       "onboard_time": 1671441748,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 768918,
+      "num": 768918,
+      "word": "为什么朋友圈秀恩爱的少了",
+      "onboard_time": 1671712170,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 764718,
@@ -2979,6 +2987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 457389,
+      "num": 457389,
+      "word": "快递包裹破了个洞美林却不翼而飞",
+      "onboard_time": 1671711754,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 452231,
       "num": 241481,
       "word": "男孩高烧40半夜睡不着写小升初试卷",
@@ -3275,6 +3291,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 415866,
+      "num": 415866,
+      "word": "NewJeans新歌Ditto舞蹈版",
+      "onboard_time": 1671714754,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 415844,
       "num": 376351,
       "word": "朴灿烈李马克金玟庭candy舞蹈挑战",
@@ -3339,6 +3363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 406893,
+      "num": 287003,
+      "word": "王俊凯黑色工装造型",
+      "onboard_time": 1671714033,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 406544,
       "num": 406544,
       "word": "龚俊直播换GQ没穿的睡衣",
@@ -3369,14 +3401,6 @@
       "onboard_time": 1671605251,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 402065,
-      "num": 402065,
-      "word": "为什么朋友圈秀恩爱的少了",
-      "onboard_time": 1671712170,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 399328,
@@ -4131,6 +4155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 330365,
+      "num": 286184,
+      "word": "回来的女儿",
+      "onboard_time": 1671626792,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 329833,
       "num": 329833,
       "word": "男子回应疑似在无人区感染新冠",
@@ -4507,6 +4539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 301225,
+      "num": 285626,
+      "word": "你觉得长歌行好看吗",
+      "onboard_time": 1671712650,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 301034,
       "num": 301034,
       "word": "魏大勋直播",
@@ -4561,14 +4601,6 @@
       "onboard_time": 1671377850,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 298936,
-      "num": 298936,
-      "word": "快递包裹破了个洞美林却不翼而飞",
-      "onboard_time": 1671711754,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 298886,
@@ -4779,14 +4811,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 285151,
-      "num": 285151,
-      "word": "回来的女儿",
-      "onboard_time": 1671626792,
-      "rank": 22,
-      "category": "影视"
-    },
-    {
       "raw_hot": 284862,
       "num": 284862,
       "word": "王源官宣加盟江苏卫视跨年",
@@ -4939,6 +4963,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 279179,
+      "num": 279179,
+      "word": "3狗崽零下34度雪地玩耍被狗妈叼回",
+      "onboard_time": 1671711269,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 278896,
       "num": 278896,
       "word": "艾尔海森",
@@ -4987,6 +5019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 274804,
+      "num": 274804,
+      "word": "挺进决赛圈的人有多嚣张",
+      "onboard_time": 1671714215,
+      "rank": 27,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 274792,
       "num": 274792,
       "word": "妻子发烧丈夫用玩具遥控车送饭",
@@ -5009,6 +5049,14 @@
       "onboard_time": 1671507869,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 272670,
+      "num": 272670,
+      "word": "小兽",
+      "onboard_time": 1671713731,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 272402,
@@ -5443,14 +5491,6 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 247025,
-      "num": 247025,
-      "word": "你觉得长歌行好看吗",
-      "onboard_time": 1671712650,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
       "raw_hot": 246497,
       "num": 246497,
       "word": "怪兽充电一年亏了4个亿",
@@ -5481,6 +5521,14 @@
       "onboard_time": 1671674429,
       "rank": 28,
       "category": "科技"
+    },
+    {
+      "raw_hot": 242133,
+      "num": 226364,
+      "word": "县委大院林志为官司胜诉",
+      "onboard_time": 1671713192,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 241769,
@@ -5545,6 +5593,14 @@
       "onboard_time": 1671413073,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 239306,
+      "num": 195204,
+      "word": "光明县有梅晓歌了不起",
+      "onboard_time": 1671710133,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 238963,
@@ -6467,14 +6523,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 195136,
-      "num": 195136,
-      "word": "3狗崽零下34度雪地玩耍被狗妈叼回",
-      "onboard_time": 1671711269,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 194213,
       "num": 194213,
       "word": "虞书欣ohmy舞蹈挑战",
@@ -6785,14 +6833,6 @@
       "onboard_time": 1671630875,
       "rank": 28,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 183794,
-      "num": 183794,
-      "word": "光明县有梅晓歌了不起",
-      "onboard_time": 1671710133,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 183489,
@@ -7161,14 +7201,6 @@
       "onboard_time": 1671455012,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 174577,
-      "num": 174577,
-      "word": "县委大院林志为官司胜诉",
-      "onboard_time": 1671713192,
-      "rank": 37,
-      "category": "影视"
     },
     {
       "raw_hot": 174432,
@@ -8171,6 +8203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 143125,
+      "num": 143125,
+      "word": "腾讯的下一个风口在哪里",
+      "onboard_time": 1671715233,
+      "rank": 39,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 143006,
       "num": 256939,
       "word": "央视解说",
@@ -8361,6 +8401,14 @@
       "onboard_time": 1671700171,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 138270,
+      "num": 138270,
+      "word": "睡觉要盖被子睡枕头的小狗",
+      "onboard_time": 1671714874,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 137842,
@@ -8905,6 +8953,14 @@
       "onboard_time": 1671674129,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 122671,
+      "num": 122671,
+      "word": "伸手想要抓住阳光的猫猫",
+      "onboard_time": 1671714454,
+      "rank": 48,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 122355,
@@ -9657,6 +9713,14 @@
       "onboard_time": 1671405803,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 69071,
+      "num": 418821,
+      "word": "百万博主的打光神器",
+      "onboard_time": 1671714033,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 67820,

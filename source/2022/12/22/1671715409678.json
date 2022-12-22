@@ -1,0 +1,410 @@
+{
+  "runTime": 1671715409678,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3522989,
+        "num": 3522989,
+        "word": "决赛圈",
+        "onboard_time": 1671712410,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 959882,
+        "num": 959882,
+        "word": "杨紫直播",
+        "onboard_time": 1671710554,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 59187,
+        "num": 937287,
+        "word": "关于孩子发烧17个热点问答",
+        "onboard_time": 1671693391,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 924793,
+        "num": 924793,
+        "word": "阳了为什么会腰疼",
+        "onboard_time": 1671702148,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 768918,
+        "num": 768918,
+        "word": "为什么朋友圈秀恩爱的少了",
+        "onboard_time": 1671712170,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 512332,
+        "num": 512332,
+        "word": "陈乔恩苗苗谈不办婚礼的原因",
+        "onboard_time": 1671709593,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 497355,
+        "num": 497355,
+        "word": "买Chanel耳钉顺丰运掉五颗珍珠",
+        "onboard_time": 1671703771,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 492872,
+        "num": 492872,
+        "word": "女子验孕试纸和抗原同时呈阳性",
+        "onboard_time": 1671696033,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 467502,
+        "num": 467502,
+        "word": "男孩高烧近40度不让写作业就哭",
+        "onboard_time": 1671709772,
+        "rank": 8,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 457389,
+        "num": 457389,
+        "word": "快递包裹破了个洞美林却不翼而飞",
+        "onboard_time": 1671711754,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1367257,
+        "num": 449959,
+        "word": "华少没礼貌名场面",
+        "onboard_time": 1671712052,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 604436,
+        "num": 449501,
+        "word": "马化腾称整个腾讯新闻砍掉都可以",
+        "onboard_time": 1671705212,
+        "rank": 11,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 535629,
+        "num": 447153,
+        "word": "杨幂芭莎蕾丝纱裙造型",
+        "onboard_time": 1671701849,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 440402,
+        "num": 440402,
+        "word": "孔雪儿回应鱼子酱事件",
+        "onboard_time": 1671693514,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 69071,
+        "num": 418821,
+        "word": "百万博主的打光神器",
+        "onboard_time": 1671714033,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 415866,
+        "num": 415866,
+        "word": "NewJeans新歌Ditto舞蹈版",
+        "onboard_time": 1671714754,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 362030,
+        "num": 362030,
+        "word": "转阴后咳嗽是一个打扫战场过程",
+        "onboard_time": 1671673828,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 355745,
+        "num": 355745,
+        "word": "研究生夜跑跳入刺骨河水救人",
+        "onboard_time": 1671707073,
+        "rank": 17,
+        "category": "社会正能量,教育"
+      },
+      {
+        "raw_hot": 295624,
+        "num": 295624,
+        "word": "张文宏称北方有症状比例比南方高很多",
+        "onboard_time": 1671694053,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287053,
+        "num": 287053,
+        "word": "药店回应6片布洛芬卖48元",
+        "onboard_time": 1671705092,
+        "rank": 19,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 406893,
+        "num": 287003,
+        "word": "王俊凯黑色工装造型",
+        "onboard_time": 1671714033,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 494971,
+        "num": 286492,
+        "word": "妈妈晕倒3孩子淡然当事人删视频",
+        "onboard_time": 1671698911,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330365,
+        "num": 286184,
+        "word": "回来的女儿",
+        "onboard_time": 1671714754,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 301225,
+        "num": 285626,
+        "word": "你觉得长歌行好看吗",
+        "onboard_time": 1671712650,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 285480,
+        "num": 285480,
+        "word": "蔡徐坤冬至晒蓝色玫瑰",
+        "onboard_time": 1671710790,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279179,
+        "num": 279179,
+        "word": "3狗崽零下34度雪地玩耍被狗妈叼回",
+        "onboard_time": 1671711269,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275723,
+        "num": 275723,
+        "word": "布洛芬和对乙酰氨基酚选哪个",
+        "onboard_time": 1671698370,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274804,
+        "num": 274804,
+        "word": "挺进决赛圈的人有多嚣张",
+        "onboard_time": 1671714215,
+        "rank": 27,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 272670,
+        "num": 272670,
+        "word": "小兽",
+        "onboard_time": 1671713731,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 232405,
+        "num": 232405,
+        "word": "外卖小哥高烧39℃送完餐瘫倒在地",
+        "onboard_time": 1671688409,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242133,
+        "num": 226364,
+        "word": "县委大院林志为官司胜诉",
+        "onboard_time": 1671713192,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 195600,
+        "num": 195600,
+        "word": "阳后7天是否就没传染性了",
+        "onboard_time": 1671690808,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239306,
+        "num": 195204,
+        "word": "光明县有梅晓歌了不起",
+        "onboard_time": 1671710133,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 194401,
+        "num": 194401,
+        "word": "女子称求职被HR问能否同睡一张床",
+        "onboard_time": 1671708813,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216136,
+        "num": 192336,
+        "word": "县委大院还有吻戏",
+        "onboard_time": 1671706411,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 188500,
+        "num": 188500,
+        "word": "女子远嫁6年弟弟第一次来累倒了",
+        "onboard_time": 1671697951,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184943,
+        "num": 184943,
+        "word": "狗狗串门被告知狗友不在秒懂离开",
+        "onboard_time": 1671707253,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169291,
+        "num": 169291,
+        "word": "女生阳性狗狗3天不吃不喝守床边",
+        "onboard_time": 1671698610,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156690,
+        "num": 156690,
+        "word": "小米卢伟冰任总裁",
+        "onboard_time": 1671708511,
+        "rank": 38,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 143125,
+        "num": 143125,
+        "word": "腾讯的下一个风口在哪里",
+        "onboard_time": 1671715233,
+        "rank": 39,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 212017,
+        "num": 142726,
+        "word": "车保罗问大家都吃饺子了吗",
+        "onboard_time": 1671706892,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190146,
+        "num": 142379,
+        "word": "章子怡曾黎同框合照",
+        "onboard_time": 1671708450,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141895,
+        "num": 141895,
+        "word": "不知火典藏皮肤预告",
+        "onboard_time": 1671701491,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 139026,
+        "num": 139026,
+        "word": "QQ音乐上线耳鸣舒缓功能",
+        "onboard_time": 1671711632,
+        "rank": 43,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 138270,
+        "num": 138270,
+        "word": "睡觉要盖被子睡枕头的小狗",
+        "onboard_time": 1671714874,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 135344,
+        "num": 135344,
+        "word": "清醒的恋爱脑其实更痛苦",
+        "onboard_time": 1671707851,
+        "rank": 45,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 132554,
+        "num": 132554,
+        "word": "富含维C的水果为何不建议做熟后吃",
+        "onboard_time": 1671696929,
+        "rank": 46,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 125932,
+        "num": 125932,
+        "word": "感染后排气多是为什么",
+        "onboard_time": 1671701491,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122671,
+        "num": 122671,
+        "word": "伸手想要抓住阳光的猫猫",
+        "onboard_time": 1671714454,
+        "rank": 48,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 122577,
+        "num": 122577,
+        "word": "张文宏预期上海一周内达到感染峰值",
+        "onboard_time": 1671704551,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#以新气象新作为推动高质量发展取得新成效#"
+    }
+  }
+}
