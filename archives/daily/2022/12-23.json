@@ -1,6 +1,6 @@
 {
   "startTime": 1671726339693,
-  "endTime": 1671736456415,
+  "endTime": 1671737608490,
   "band_list": [
     {
       "raw_hot": 1902630,
@@ -403,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 70526,
+      "num": 47859,
+      "word": "杨紫说最近不会接综艺",
+      "onboard_time": 1671732674,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 62995,
       "num": 52762,
       "word": "日式咖喱饭",
@@ -417,14 +425,6 @@
       "onboard_time": 1671711269,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 59726,
-      "num": 47528,
-      "word": "杨紫说最近不会接综艺",
-      "onboard_time": 1671732674,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 59602,

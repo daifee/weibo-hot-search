@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1671736456415,
+  "endTime": 1671737608490,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -50355,6 +50355,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 70526,
+      "num": 47859,
+      "word": "杨紫说最近不会接综艺",
+      "onboard_time": 1671732674,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 70402,
       "num": 70402,
       "word": "萨卡",
@@ -50753,14 +50761,6 @@
       "onboard_time": 1671405202,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 59726,
-      "num": 47528,
-      "word": "杨紫说最近不会接综艺",
-      "onboard_time": 1671732674,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 59595,
