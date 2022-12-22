@@ -1,6 +1,6 @@
 {
   "startTime": 1671639995248,
-  "endTime": 1671690200140,
+  "endTime": 1671691075062,
   "band_list": [
     {
       "raw_hot": 3312636,
@@ -35,6 +35,14 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 1634518,
+      "num": 1155390,
+      "word": "男子阳性发烧倒地妻子不管不顾",
+      "onboard_time": 1671687210,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1588611,
       "num": 1588611,
       "word": "梅西率阿根廷队唱歌侮辱记者是妓女",
@@ -51,14 +59,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1454447,
-      "num": 936436,
-      "word": "男子阳性发烧倒地妻子不管不顾",
-      "onboard_time": 1671687210,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1425027,
       "num": 1425027,
       "word": "新冠痊愈多久没有传染性",
@@ -73,6 +73,14 @@
       "onboard_time": 1671638067,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1150547,
+      "num": 1150547,
+      "word": "刘芸郑钧补办婚礼的原因",
+      "onboard_time": 1671689551,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 1066847,
@@ -96,6 +104,14 @@
       "word": "男子地铁上拒戴口罩称阳过不用戴",
       "onboard_time": 1671668188,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 929075,
+      "num": 929075,
+      "word": "外卖小哥高烧39℃送完餐瘫倒在地",
+      "onboard_time": 1671688409,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -129,14 +145,6 @@
       "onboard_time": 1671668007,
       "rank": 7,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 744029,
-      "num": 414009,
-      "word": "外卖小哥高烧39℃送完餐瘫倒在地",
-      "onboard_time": 1671688409,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 741996,
@@ -195,14 +203,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 659207,
-      "num": 659207,
-      "word": "刘芸郑钧补办婚礼的原因",
-      "onboard_time": 1671689551,
-      "rank": 6,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 652716,
       "num": 652716,
       "word": "赵樱子演的天下第一美人",
@@ -216,6 +216,14 @@
       "word": "你家冬至这天吃什么",
       "onboard_time": 1671666325,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 644301,
+      "num": 531820,
+      "word": "女子用奶茶杯伪装给朋友寄布洛芬",
+      "onboard_time": 1671689551,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -243,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 555400,
+      "num": 555400,
+      "word": "羊被冻死牧羊犬试图唤醒贴身取暖",
+      "onboard_time": 1671686073,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 541566,
       "num": 541566,
       "word": "员工因漏打卡11次被公司辞退",
@@ -267,12 +283,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 524523,
-      "num": 414006,
-      "word": "羊被冻死牧羊犬试图唤醒贴身取暖",
-      "onboard_time": 1671686073,
-      "rank": 43,
-      "category": "社会新闻"
+      "raw_hot": 516571,
+      "num": 516571,
+      "word": "美国宣布向乌克兰提供爱国者导弹",
+      "onboard_time": 1671689131,
+      "rank": 21,
+      "category": "军事,国外要闻"
     },
     {
       "raw_hot": 513331,
@@ -395,12 +411,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 408714,
+      "num": 408714,
+      "word": "杭州街头出现一只4米高的巨大落叶兔",
+      "onboard_time": 1671688171,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 406544,
       "num": 406544,
       "word": "龚俊直播换GQ没穿的睡衣",
       "onboard_time": 1671650833,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 402662,
+      "num": 402662,
+      "word": "陈乔恩说别理陆毅他懂个屁",
+      "onboard_time": 1671690513,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 396167,
@@ -459,6 +491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 352405,
+      "num": 352405,
+      "word": "自称遭辅警猥亵女子回应警方通报",
+      "onboard_time": 1671686971,
+      "rank": 48,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 346807,
       "num": 346807,
       "word": "张若昀说自信到了球没到",
@@ -499,14 +539,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 332535,
-      "num": 332535,
-      "word": "杭州街头出现一只4米高的巨大落叶兔",
-      "onboard_time": 1671688171,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 327861,
       "num": 327861,
       "word": "篮网半场91分",
@@ -537,14 +569,6 @@
       "onboard_time": 1671672869,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 306070,
-      "num": 306070,
-      "word": "自称遭辅警猥亵女子回应警方通报",
-      "onboard_time": 1671686971,
-      "rank": 48,
-      "category": "社会负面"
     },
     {
       "raw_hot": 303274,
@@ -625,14 +649,6 @@
       "onboard_time": 1671668848,
       "rank": 21,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 277059,
-      "num": 277059,
-      "word": "美国宣布向乌克兰提供爱国者导弹",
-      "onboard_time": 1671689131,
-      "rank": 21,
-      "category": "军事,国外要闻"
     },
     {
       "raw_hot": 273100,
@@ -737,14 +753,6 @@
       "onboard_time": 1671628473,
       "rank": 18,
       "category": "幽默,影视"
-    },
-    {
-      "raw_hot": 234424,
-      "num": 234424,
-      "word": "女子用奶茶杯伪装给朋友寄布洛芬",
-      "onboard_time": 1671689551,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 233223,
@@ -939,12 +947,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 172022,
+      "num": 172022,
+      "word": "当你的孩子比你提前康复",
+      "onboard_time": 1671689671,
+      "rank": 39,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 171879,
       "num": 171879,
       "word": "国漫出路在哪里",
       "onboard_time": 1671674971,
       "rank": 37,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 171672,
+      "num": 171672,
+      "word": "阳后7天是否就没传染性了",
+      "onboard_time": 1671690808,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 167953,
@@ -961,6 +985,14 @@
       "onboard_time": 1671668967,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 164722,
+      "num": 164722,
+      "word": "阳了洗澡要注意什么",
+      "onboard_time": 1671689727,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 163897,
@@ -1163,6 +1195,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 132363,
+      "num": 132363,
+      "word": "为什么猫咪的颜值忽高忽低",
+      "onboard_time": 1671689431,
+      "rank": 49,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 131929,
       "num": 131929,
       "word": "武林外传演我变阳状态",
@@ -1179,6 +1219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 130521,
+      "num": 130521,
+      "word": "打工人真的需要年终彩蛋",
+      "onboard_time": 1671690870,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 129977,
       "num": 129977,
       "word": "原来女明星配音也这么优秀",
@@ -1187,19 +1235,27 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 128865,
-      "num": 128865,
-      "word": "当你的孩子比你提前康复",
-      "onboard_time": 1671689671,
-      "rank": 39,
-      "category": "社会新闻,幽默"
-    },
-    {
       "raw_hot": 128691,
       "num": 128691,
       "word": "苹果CarPlay真的好用吗",
       "onboard_time": 1671682892,
       "rank": 49,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 128413,
+      "num": 128413,
+      "word": "BOYSTORY翻跳名场面",
+      "onboard_time": 1671690691,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 128350,
+      "num": 128350,
+      "word": "马化腾称留给某些业务的时间不多了",
+      "onboard_time": 1671690691,
+      "rank": 41,
       "category": "科技"
     },
     {
@@ -1256,14 +1312,6 @@
       "word": "东北小伙趁症状轻炫1天麻辣烫过瘾",
       "onboard_time": 1671625352,
       "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 117437,
-      "num": 117437,
-      "word": "阳了洗澡要注意什么",
-      "onboard_time": 1671689727,
-      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -1385,14 +1433,6 @@
       "onboard_time": 1671617789,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 91786,
-      "num": 105388,
-      "word": "为什么猫咪的颜值忽高忽低",
-      "onboard_time": 1671689431,
-      "rank": 49,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 87739,

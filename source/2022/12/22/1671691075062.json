@@ -1,0 +1,410 @@
+{
+  "runTime": 1671691075062,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1270780,
+        "num": 1270780,
+        "word": "费启鸣向孔雪儿道歉",
+        "onboard_time": 1671674792,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1188387,
+        "num": 1188387,
+        "word": "转阴后咳嗽是一个打扫战场过程",
+        "onboard_time": 1671673828,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21022,
+        "num": 1157812,
+        "word": "2023年都有啥大事",
+        "onboard_time": 1671583107,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1634518,
+        "num": 1155390,
+        "word": "男子阳性发烧倒地妻子不管不顾",
+        "onboard_time": 1671687210,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1150547,
+        "num": 1150547,
+        "word": "刘芸郑钧补办婚礼的原因",
+        "onboard_time": 1671689551,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 929075,
+        "num": 929075,
+        "word": "外卖小哥高烧39℃送完餐瘫倒在地",
+        "onboard_time": 1671688409,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 723037,
+        "num": 723037,
+        "word": "新冠痊愈多久没有传染性",
+        "onboard_time": 1671676050,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 590958,
+        "num": 590958,
+        "word": "女子高烧误将脱毛纸当退烧贴",
+        "onboard_time": 1671682589,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 555400,
+        "num": 555400,
+        "word": "羊被冻死牧羊犬试图唤醒贴身取暖",
+        "onboard_time": 1671686073,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 536368,
+        "num": 536368,
+        "word": "遇害女大学生父亲回应带货",
+        "onboard_time": 1671685830,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 644301,
+        "num": 531820,
+        "word": "女子用奶茶杯伪装给朋友寄布洛芬",
+        "onboard_time": 1671689551,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 516571,
+        "num": 516571,
+        "word": "美国宣布向乌克兰提供爱国者导弹",
+        "onboard_time": 1671689131,
+        "rank": 11,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 410531,
+        "num": 410531,
+        "word": "上海市民咨询当骑手17人中仅1人入职",
+        "onboard_time": 1671685412,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 408714,
+        "num": 408714,
+        "word": "杭州街头出现一只4米高的巨大落叶兔",
+        "onboard_time": 1671688171,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 402662,
+        "num": 402662,
+        "word": "陈乔恩说别理陆毅他懂个屁",
+        "onboard_time": 1671690513,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 357537,
+        "num": 357537,
+        "word": "骗子通话20分钟大妈只听懂1句",
+        "onboard_time": 1671687331,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352405,
+        "num": 352405,
+        "word": "自称遭辅警猥亵女子回应警方通报",
+        "onboard_time": 1671686971,
+        "rank": 16,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 334347,
+        "num": 334347,
+        "word": "肖战冬至竹林大片",
+        "onboard_time": 1671684631,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 298338,
+        "num": 298338,
+        "word": "县委大院今晚大结局",
+        "onboard_time": 1671688230,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 291144,
+        "num": 291144,
+        "word": "连花清瘟进价11.5元卖85元",
+        "onboard_time": 1671684212,
+        "rank": 19,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 271731,
+        "num": 271731,
+        "word": "南北方毒株致病力没有太大区别",
+        "onboard_time": 1671679712,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256285,
+        "num": 256285,
+        "word": "龚俊直播美白开到100",
+        "onboard_time": 1671684453,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255490,
+        "num": 255490,
+        "word": "王劲松呼吁医疗资源先留给儿童和老人",
+        "onboard_time": 1671669092,
+        "rank": 22,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 220712,
+        "num": 220712,
+        "word": "曝C罗决定加盟沙特豪门",
+        "onboard_time": 1671675329,
+        "rank": 23,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 210103,
+        "num": 210103,
+        "word": "员工因漏打卡11次被公司辞退",
+        "onboard_time": 1671683012,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191054,
+        "num": 191054,
+        "word": "王一博祝大家年年如意福气多多",
+        "onboard_time": 1671687692,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184626,
+        "num": 184626,
+        "word": "秦霄贤对徐梦洁说我不聪明你不奸",
+        "onboard_time": 1671685715,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174699,
+        "num": 174699,
+        "word": "男子吃饭时不适老板一测39.2度",
+        "onboard_time": 1671684212,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173327,
+        "num": 173327,
+        "word": "男子酒吧内多次掀开女子衣服引群殴",
+        "onboard_time": 1671673710,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172816,
+        "num": 172816,
+        "word": "为什么阳了之后建议发朋友圈",
+        "onboard_time": 1671664279,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 172022,
+        "num": 172022,
+        "word": "当你的孩子比你提前康复",
+        "onboard_time": 1671689671,
+        "rank": 30,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 171672,
+        "num": 171672,
+        "word": "阳后7天是否就没传染性了",
+        "onboard_time": 1671690808,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166561,
+        "num": 166561,
+        "word": "阳了后浑身疼痛怎么办",
+        "onboard_time": 1671680131,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164722,
+        "num": 164722,
+        "word": "阳了洗澡要注意什么",
+        "onboard_time": 1671689727,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161079,
+        "num": 161079,
+        "word": "冬至",
+        "onboard_time": 1671664098,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159225,
+        "num": 159225,
+        "word": "法官称律师说话太快像放屁",
+        "onboard_time": 1671678150,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136592,
+        "num": 136592,
+        "word": "2023央视春晚标识官宣",
+        "onboard_time": 1671681092,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134753,
+        "num": 134753,
+        "word": "92岁曾祖母掏百岁钱欲救重病曾孙",
+        "onboard_time": 1671681271,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132363,
+        "num": 132363,
+        "word": "为什么猫咪的颜值忽高忽低",
+        "onboard_time": 1671689431,
+        "rank": 38,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 130521,
+        "num": 130521,
+        "word": "打工人真的需要年终彩蛋",
+        "onboard_time": 1671690870,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 128413,
+        "num": 128413,
+        "word": "BOYSTORY翻跳名场面",
+        "onboard_time": 1671690691,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128350,
+        "num": 128350,
+        "word": "马化腾称留给某些业务的时间不多了",
+        "onboard_time": 1671690691,
+        "rank": 41,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 122760,
+        "num": 122760,
+        "word": "安七炫安胜浩Candy舞蹈挑战",
+        "onboard_time": 1671689969,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 120760,
+        "num": 120760,
+        "word": "胡歌刘昊然县委大院跨时空对话",
+        "onboard_time": 1671685171,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 116500,
+        "num": 116500,
+        "word": "范丞丞说今年在剧组过年",
+        "onboard_time": 1671688891,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110349,
+        "num": 110349,
+        "word": "要求加强研考考场防疫管理",
+        "onboard_time": 1671668007,
+        "rank": 45,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 110347,
+        "num": 110347,
+        "word": "全球多地退烧药短缺",
+        "onboard_time": 1671689189,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108621,
+        "num": 108621,
+        "word": "多地血库发布无偿献血倡议书",
+        "onboard_time": 1671684750,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106951,
+        "num": 106951,
+        "word": "浮图缘",
+        "onboard_time": 1671681271,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 103375,
+        "num": 103375,
+        "word": "你家冬至这天吃什么",
+        "onboard_time": 1671666325,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#真理之光引领复兴之路#"
+    }
+  }
+}
