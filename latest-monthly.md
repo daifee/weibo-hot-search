@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/12/01 00:28:49 ~ 2022/12/22 19:33:26
+本榜单时间：2022/12/01 00:28:49 ~ 2022/12/22 20:34:47
 </p>
 </blockquote>
 <p>
@@ -5295,6 +5295,12 @@ iG公告（热度：902975）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A0%94%E7%A9%B6%E7%94%9F%E5%A4%9C%E8%B7%91%E8%B7%B3%E5%85%A5%E5%88%BA%E9%AA%A8%E6%B2%B3%E6%B0%B4%E6%95%91%E4%BA%BA%23" target="weibo">
+研究生夜跑跳入刺骨河水救人（热度：866752）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B6%E6%AF%8D%E9%98%B3%E6%80%A73%E5%B2%81%E5%8D%8A%E5%AE%9D%E5%AE%9D%E7%8B%AC%E8%87%AA%E5%AE%A2%E5%8E%85%E7%94%9F%E6%B4%BB%23" target="weibo">
 父母阳性3岁半宝宝独自客厅生活（热度：864630）
 </a>
@@ -6005,12 +6011,6 @@ Ruler加入JDG（热度：800521）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%81%B6%E9%81%87%E9%85%B7%E4%BC%BC%E5%B7%B2%E6%95%85%E5%84%BF%E5%AD%90%E7%9A%84%E5%B0%8F%E4%BC%99%23" target="weibo">
 女子偶遇酷似已故儿子的小伙（热度：796227）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B313%23" target="weibo">
-小米13（热度：796039）
 </a>
 </li>
 

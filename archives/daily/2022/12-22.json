@@ -1,6 +1,6 @@
 {
   "startTime": 1671639995248,
-  "endTime": 1671708806645,
+  "endTime": 1671712487882,
   "band_list": [
     {
       "raw_hot": 3312636,
@@ -219,6 +219,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 866752,
+      "num": 866752,
+      "word": "研究生夜跑跳入刺骨河水救人",
+      "onboard_time": 1671707073,
+      "rank": 39,
+      "category": "社会正能量,教育"
+    },
+    {
       "raw_hot": 819477,
       "num": 819477,
       "word": "南北方毒株致病力没有太大区别",
@@ -243,6 +251,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 784429,
+      "num": 411081,
+      "word": "杨紫直播",
+      "onboard_time": 1671710554,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 776000,
       "num": 776000,
       "word": "美国宣布向乌克兰提供爱国者导弹",
@@ -257,6 +273,22 @@
       "onboard_time": 1671627272,
       "rank": 1,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 738256,
+      "num": 442767,
+      "word": "马化腾称整个腾讯新闻砍掉都可以",
+      "onboard_time": 1671705212,
+      "rank": 43,
+      "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 736479,
+      "num": 405607,
+      "word": "华少没礼貌名场面",
+      "onboard_time": 1671712052,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 710446,
@@ -363,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 601521,
+      "num": 601521,
+      "word": "陈乔恩苗苗谈不办婚礼的原因",
+      "onboard_time": 1671709593,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 591048,
       "num": 591048,
       "word": "龚俊感染新冠已康复",
@@ -385,14 +425,6 @@
       "onboard_time": 1671671969,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 574035,
-      "num": 442767,
-      "word": "马化腾称整个腾讯新闻砍掉都可以",
-      "onboard_time": 1671705212,
-      "rank": 43,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 563917,
@@ -465,14 +497,6 @@
       "onboard_time": 1671696391,
       "rank": 27,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 494362,
-      "num": 494362,
-      "word": "研究生夜跑跳入刺骨河水救人",
-      "onboard_time": 1671707073,
-      "rank": 39,
-      "category": "社会正能量,教育"
     },
     {
       "raw_hot": 494297,
@@ -611,12 +635,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 415751,
+      "num": 401350,
+      "word": "男孩高烧近40度不让写作业就哭",
+      "onboard_time": 1671709772,
+      "rank": 14,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 413549,
       "num": 413549,
       "word": "男生10天花280元乘公交从上海抵京",
       "onboard_time": 1671699209,
       "rank": 29,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 413458,
+      "num": 413458,
+      "word": "女子称求职被HR问能否同睡一张床",
+      "onboard_time": 1671708813,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 411777,
@@ -651,11 +691,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 392840,
+      "num": 392840,
+      "word": "蔡徐坤冬至晒蓝色玫瑰",
+      "onboard_time": 1671710790,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 386263,
       "num": 386263,
       "word": "骗子通话20分钟大妈只听懂1句",
       "onboard_time": 1671687331,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 381515,
+      "num": 381515,
+      "word": "狗狗串门被告知狗友不在秒懂离开",
+      "onboard_time": 1671707253,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -696,6 +752,14 @@
       "word": "何洛洛成功追星张杰",
       "onboard_time": 1671691471,
       "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 361951,
+      "num": 294925,
+      "word": "车保罗问大家都吃饺子了吗",
+      "onboard_time": 1671706892,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -849,14 +913,6 @@
       "onboard_time": 1671674669,
       "rank": 19,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 311665,
-      "num": 294925,
-      "word": "车保罗问大家都吃饺子了吗",
-      "onboard_time": 1671706892,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 310773,
@@ -1027,14 +1083,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 270842,
-      "num": 270842,
-      "word": "狗狗串门被告知狗友不在秒懂离开",
-      "onboard_time": 1671707253,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 267516,
       "num": 215084,
       "word": "丁禹兮大理寺少卿游打戏镜头",
@@ -1091,6 +1139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 255046,
+      "num": 255046,
+      "word": "县委大院还有吻戏",
+      "onboard_time": 1671706411,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 254277,
       "num": 220353,
       "word": "浮图缘",
@@ -1113,6 +1169,14 @@
       "onboard_time": 1671620670,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 253520,
+      "num": 253520,
+      "word": "章子怡曾黎同框合照",
+      "onboard_time": 1671708450,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 252606,
@@ -1155,6 +1219,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 238654,
+      "num": 238654,
+      "word": "小米卢伟冰任总裁",
+      "onboard_time": 1671708511,
+      "rank": 46,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 237837,
       "num": 237837,
       "word": "梦奇赛年皮肤",
@@ -1169,6 +1241,14 @@
       "onboard_time": 1671628473,
       "rank": 18,
       "category": "幽默,影视"
+    },
+    {
+      "raw_hot": 236054,
+      "num": 205082,
+      "word": "赵丽颖沈璃片场包饺子",
+      "onboard_time": 1671708632,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 233223,
@@ -1251,6 +1331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 215334,
+      "num": 215334,
+      "word": "清醒的恋爱脑其实更痛苦",
+      "onboard_time": 1671707851,
+      "rank": 43,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 214896,
       "num": 214896,
       "word": "卷王姆巴佩回大巴黎训练",
@@ -1299,6 +1387,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 207364,
+      "num": 207364,
+      "word": "浙江男篮vs广东男篮",
+      "onboard_time": 1671711991,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 206589,
       "num": 206589,
       "word": "山东一地120和119到路口秒变绿灯",
@@ -1329,14 +1425,6 @@
       "onboard_time": 1671677252,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 204152,
-      "num": 200359,
-      "word": "赵丽颖沈璃片场包饺子",
-      "onboard_time": 1671708632,
-      "rank": 32,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 202946,
@@ -1395,14 +1483,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 194392,
-      "num": 194392,
-      "word": "县委大院还有吻戏",
-      "onboard_time": 1671706411,
-      "rank": 34,
-      "category": "影视"
-    },
-    {
       "raw_hot": 193711,
       "num": 193711,
       "word": "梅晓歌坚决关停污染企业",
@@ -1443,20 +1523,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 183794,
+      "num": 183794,
+      "word": "光明县有梅晓歌了不起",
+      "onboard_time": 1671710133,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 182809,
       "num": 182809,
       "word": "60万粉丝女网红偷衣物被抓",
       "onboard_time": 1671623732,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 182237,
-      "num": 158793,
-      "word": "章子怡曾黎同框合照",
-      "onboard_time": 1671708450,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 179935,
@@ -1563,6 +1643,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 168312,
+      "num": 168312,
+      "word": "QQ音乐上线耳鸣舒缓功能",
+      "onboard_time": 1671711632,
+      "rank": 37,
+      "category": "科技"
+    },
+    {
       "raw_hot": 167953,
       "num": 167953,
       "word": "数九寒天到来",
@@ -1577,6 +1665,14 @@
       "onboard_time": 1671668967,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 165099,
+      "num": 152774,
+      "word": "华晨宇冬至打油诗",
+      "onboard_time": 1671712111,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 163897,
@@ -1643,6 +1739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 155550,
+      "num": 155550,
+      "word": "3狗崽零下34度雪地玩耍被狗妈叼回",
+      "onboard_time": 1671711269,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 155143,
       "num": 155143,
       "word": "杭州限购退热类药品",
@@ -1681,14 +1785,6 @@
       "onboard_time": 1671699808,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 150118,
-      "num": 150118,
-      "word": "清醒的恋爱脑其实更痛苦",
-      "onboard_time": 1671707851,
-      "rank": 43,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 149144,
@@ -1731,14 +1827,6 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 145808,
-      "num": 145808,
-      "word": "小米卢伟冰任总裁",
-      "onboard_time": 1671708511,
-      "rank": 46,
-      "category": "科技,财经"
-    },
-    {
       "raw_hot": 145028,
       "num": 145028,
       "word": "阿根廷球员希望冠军属于人民",
@@ -1753,6 +1841,14 @@
       "onboard_time": 1671703470,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 143773,
+      "num": 143773,
+      "word": "为什么朋友圈秀恩爱的少了",
+      "onboard_time": 1671712170,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 141372,
@@ -1785,6 +1881,14 @@
       "onboard_time": 1671688891,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 138935,
+      "num": 138935,
+      "word": "快递包裹破了个洞美林却不翼而飞",
+      "onboard_time": 1671711754,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 138791,
@@ -1977,6 +2081,14 @@
       "onboard_time": 1671671253,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 124019,
+      "num": 124019,
+      "word": "决赛圈",
+      "onboard_time": 1671712410,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 123536,
@@ -2321,6 +2433,14 @@
       "onboard_time": 1671652334,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 31102,
+      "num": 152877,
+      "word": "vivoS16发布会",
+      "onboard_time": 1671710431,
+      "rank": 39,
+      "category": "科技"
     },
     {
       "raw_hot": 20014,
