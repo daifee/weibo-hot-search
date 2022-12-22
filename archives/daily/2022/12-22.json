@@ -1,6 +1,6 @@
 {
   "startTime": 1671639995248,
-  "endTime": 1671682929824,
+  "endTime": 1671683834142,
   "band_list": [
     {
       "raw_hot": 3312636,
@@ -83,6 +83,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 819477,
+      "num": 819477,
+      "word": "南北方毒株致病力没有太大区别",
+      "onboard_time": 1671679712,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 810697,
       "num": 810697,
       "word": "美动物园宣布归还大熊猫丫丫和乐乐",
@@ -105,14 +113,6 @@
       "onboard_time": 1671627272,
       "rank": 1,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 716288,
-      "num": 716288,
-      "word": "南北方毒株致病力没有太大区别",
-      "onboard_time": 1671679712,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 710446,
@@ -219,12 +219,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 480840,
+      "num": 480840,
+      "word": "女子高烧误将脱毛纸当退烧贴",
+      "onboard_time": 1671682589,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 472792,
       "num": 472792,
       "word": "长相思全员飘雪故事感",
       "onboard_time": 1671678631,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 466955,
+      "num": 466955,
+      "word": "饿了么免单",
+      "onboard_time": 1671681390,
+      "rank": 17,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 431910,
+      "num": 431910,
+      "word": "92岁曾祖母掏百岁钱欲救重病曾孙",
+      "onboard_time": 1671681271,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 426553,
@@ -299,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 380504,
+      "num": 380504,
+      "word": "阳了后浑身疼痛怎么办",
+      "onboard_time": 1671680131,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 371382,
       "num": 371382,
       "word": "把宝宝烧的都开口说话了",
@@ -315,28 +347,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 362968,
-      "num": 362968,
-      "word": "阳了后浑身疼痛怎么办",
-      "onboard_time": 1671680131,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 361557,
-      "num": 361557,
-      "word": "饿了么免单",
-      "onboard_time": 1671681390,
-      "rank": 17,
-      "category": "科技"
-    },
-    {
       "raw_hot": 346807,
       "num": 346807,
       "word": "张若昀说自信到了球没到",
       "onboard_time": 1671680671,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 339427,
+      "num": 339427,
+      "word": "许晴如梦之梦候场花絮视频",
+      "onboard_time": 1671682654,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 338047,
@@ -361,14 +385,6 @@
       "onboard_time": 1671674369,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 321078,
-      "num": 321078,
-      "word": "92岁曾祖母掏百岁钱欲救重病曾孙",
-      "onboard_time": 1671681271,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 314617,
@@ -419,11 +435,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 287955,
+      "num": 287955,
+      "word": "王源用掌纹比喻彩胶的独特",
+      "onboard_time": 1671683494,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 284862,
       "num": 284862,
       "word": "王源官宣加盟江苏卫视跨年",
       "onboard_time": 1671674129,
       "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 281350,
+      "num": 281350,
+      "word": "2023央视春晚标识官宣",
+      "onboard_time": 1671681092,
+      "rank": 22,
       "category": "综艺"
     },
     {
@@ -452,19 +484,11 @@
     },
     {
       "raw_hot": 272194,
-      "num": 220316,
+      "num": 245956,
       "word": "安崎签约索尼音乐",
       "onboard_time": 1671679833,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 269843,
-      "num": 269843,
-      "word": "2023央视春晚标识官宣",
-      "onboard_time": 1671681092,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 267516,
@@ -555,6 +579,14 @@
       "category": "幽默,影视"
     },
     {
+      "raw_hot": 226891,
+      "num": 226891,
+      "word": "被妈妈拖回去吃饭的小奶狗",
+      "onboard_time": 1671680310,
+      "rank": 28,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 225854,
       "num": 225854,
       "word": "阿根廷门将曾要求C罗主罚点球",
@@ -569,22 +601,6 @@
       "onboard_time": 1671678991,
       "rank": 42,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 220555,
-      "num": 220555,
-      "word": "被妈妈拖回去吃饭的小奶狗",
-      "onboard_time": 1671680310,
-      "rank": 28,
-      "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 220275,
-      "num": 220275,
-      "word": "许晴如梦之梦候场花絮视频",
-      "onboard_time": 1671682654,
-      "rank": 33,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 216383,
@@ -612,7 +628,7 @@
     },
     {
       "raw_hot": 207899,
-      "num": 160916,
+      "num": 168610,
       "word": "县委大院",
       "onboard_time": 1671682772,
       "rank": 41,
@@ -707,6 +723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 176902,
+      "num": 168197,
+      "word": "电影想见你终极预告",
+      "onboard_time": 1671682051,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 174978,
       "num": 174978,
       "word": "女子送邻居退烧药意外收到鲜花",
@@ -723,12 +747,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 172283,
+      "num": 172283,
+      "word": "梅西率阿根廷队唱歌侮辱记者是妓女",
+      "onboard_time": 1671683611,
+      "rank": 37,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 171879,
       "num": 171879,
       "word": "国漫出路在哪里",
       "onboard_time": 1671674971,
       "rank": 37,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 170240,
+      "num": 170240,
+      "word": "员工因漏打卡11次被公司辞退",
+      "onboard_time": 1671683012,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 167953,
@@ -851,14 +891,6 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 141746,
-      "num": 141746,
-      "word": "女子高烧误将脱毛纸当退烧贴",
-      "onboard_time": 1671682589,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 141372,
       "num": 141372,
       "word": "亿企加油 全力以复",
@@ -961,6 +993,22 @@
       "onboard_time": 1671658271,
       "rank": 49,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 126170,
+      "num": 126170,
+      "word": "骑手骑行58公里为独居老人送药",
+      "onboard_time": 1671683132,
+      "rank": 48,
+      "category": "社会正能量"
+    },
+    {
+      "raw_hot": 125767,
+      "num": 125767,
+      "word": "萌娃路边埋头干饭摇头晃脑太欢乐",
+      "onboard_time": 1671683374,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 124470,
@@ -1155,6 +1203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 67820,
+      "num": 441333,
+      "word": "电影导演的想象力有多野",
+      "onboard_time": 1671682412,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 61913,
       "num": 61913,
       "word": "咳嗽咳痰如何应对",
@@ -1193,14 +1249,6 @@
       "onboard_time": 1671642620,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 39445,
-      "num": 367651,
-      "word": "电影导演的想象力有多野",
-      "onboard_time": 1671682412,
-      "rank": 14,
-      "category": "影视"
     },
     {
       "raw_hot": 36925,

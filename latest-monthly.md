@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/12/01 00:28:49 ~ 2022/12/22 12:22:09
+本榜单时间：2022/12/01 00:28:49 ~ 2022/12/22 12:37:14
 </p>
 </blockquote>
 <p>
@@ -5631,6 +5631,12 @@ C罗连续31场首发纪录终结（热度：839597）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E5%8C%97%E6%96%B9%E6%AF%92%E6%A0%AA%E8%87%B4%E7%97%85%E5%8A%9B%E6%B2%A1%E6%9C%89%E5%A4%AA%E5%A4%A7%E5%8C%BA%E5%88%AB%23" target="weibo">
+南北方毒株致病力没有太大区别（热度：819477）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E5%89%8D%E5%BE%80%E5%86%85%E5%9C%B0%E5%92%8C%E6%BE%B3%E9%97%A8%E6%97%A0%E9%A1%BB%E5%9C%A8%E5%8F%A3%E5%B2%B8%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%23" target="weibo">
 香港前往内地和澳门无须在口岸核酸检测（热度：819050）
 </a>
@@ -6005,12 +6011,6 @@ Ruler加入JDG（热度：800521）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E6%96%B0%E5%86%A0%E8%82%BA%E7%82%8E%E6%9C%80%E7%BB%88%E4%BC%9A%E9%99%8D%E4%B8%BA%E4%B8%99%E7%B1%BB%E4%B8%99%E7%AE%A1%23" target="weibo">
 专家称新冠肺炎最终会降为丙类丙管（热度：786665）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%BA%8C%E8%83%8E%E6%80%803%E8%83%9E%E8%83%8E%E5%87%BA%E8%A1%8C%E8%A6%81%E9%9D%A0%E8%BD%AE%E6%A4%85%23" target="weibo">
-女子二胎怀3胞胎出行要靠轮椅（热度：786430）
 </a>
 </li>
 
