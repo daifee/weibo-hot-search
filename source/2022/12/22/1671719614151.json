@@ -1,0 +1,410 @@
+{
+  "runTime": 1671719614151,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3573790,
+        "num": 3573790,
+        "word": "决赛圈",
+        "onboard_time": 1671712410,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1218556,
+        "num": 1218556,
+        "word": "71岁张纪中感染新冠",
+        "onboard_time": 1671717031,
+        "rank": 1,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 46988,
+        "num": 893688,
+        "word": "关于孩子发烧17个热点问答",
+        "onboard_time": 1671693391,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 773796,
+        "num": 773796,
+        "word": "挺进决赛圈的人有多嚣张",
+        "onboard_time": 1671714215,
+        "rank": 3,
+        "category": "游戏,幽默"
+      },
+      {
+        "raw_hot": 719252,
+        "num": 719252,
+        "word": "为什么朋友圈秀恩爱的少了",
+        "onboard_time": 1671712170,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 542347,
+        "num": 542347,
+        "word": "阳了为什么会腰疼",
+        "onboard_time": 1671702148,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 420624,
+        "num": 420624,
+        "word": "快递包裹破了个洞美林却不翼而飞",
+        "onboard_time": 1671711754,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 380353,
+        "num": 380353,
+        "word": "赵睿",
+        "onboard_time": 1671716192,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 358912,
+        "num": 358912,
+        "word": "女子验孕试纸和抗原同时呈阳性",
+        "onboard_time": 1671696033,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348563,
+        "num": 348563,
+        "word": "睡觉要盖被子睡枕头的小狗",
+        "onboard_time": 1671714874,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 907748,
+        "num": 348396,
+        "word": "华少没礼貌名场面",
+        "onboard_time": 1671712052,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 707651,
+        "num": 347804,
+        "word": "没想到尔冬升也逃不出养成系",
+        "onboard_time": 1671715712,
+        "rank": 11,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 528447,
+        "num": 347140,
+        "word": "杨紫说长相思是很真实的一个戏",
+        "onboard_time": 1671718953,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 522476,
+        "num": 346688,
+        "word": "马化腾称整个腾讯新闻砍掉都可以",
+        "onboard_time": 1671705212,
+        "rank": 13,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 346220,
+        "num": 346220,
+        "word": "孔雪儿回应鱼子酱事件",
+        "onboard_time": 1671693514,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 510940,
+        "num": 319697,
+        "word": "杨幂芭莎蕾丝纱裙造型",
+        "onboard_time": 1671701849,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 486909,
+        "num": 318288,
+        "word": "县委大院刘昊然上线",
+        "onboard_time": 1671718412,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 287032,
+        "num": 287032,
+        "word": "买Chanel耳钉顺丰运掉五颗珍珠",
+        "onboard_time": 1671703771,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258447,
+        "num": 258447,
+        "word": "小兽",
+        "onboard_time": 1671713731,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 257408,
+        "num": 257408,
+        "word": "张文宏称北方有症状比例比南方高很多",
+        "onboard_time": 1671694053,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 440422,
+        "num": 256105,
+        "word": "妈妈晕倒3孩子淡然当事人删视频",
+        "onboard_time": 1671698911,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266897,
+        "num": 254850,
+        "word": "你觉得长歌行好看吗",
+        "onboard_time": 1671712650,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 258345,
+        "num": 253254,
+        "word": "回来的女儿",
+        "onboard_time": 1671714754,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 250429,
+        "num": 250429,
+        "word": "布洛芬和对乙酰氨基酚选哪个",
+        "onboard_time": 1671698370,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249358,
+        "num": 249358,
+        "word": "原来好的恋爱会让人变好看",
+        "onboard_time": 1671715416,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 208887,
+        "num": 208887,
+        "word": "男孩高烧近40度不让写作业就哭",
+        "onboard_time": 1671709772,
+        "rank": 25,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 208872,
+        "num": 208872,
+        "word": "研究生夜跑跳入刺骨河水救人",
+        "onboard_time": 1671707073,
+        "rank": 26,
+        "category": "社会正能量,教育"
+      },
+      {
+        "raw_hot": 208200,
+        "num": 208200,
+        "word": "孙子和孙女不同起床待遇",
+        "onboard_time": 1671718653,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186171,
+        "num": 186171,
+        "word": "冬至踩小人",
+        "onboard_time": 1671719252,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 179760,
+        "num": 179760,
+        "word": "初一女生冬至买80斤饺子送环卫工",
+        "onboard_time": 1671716433,
+        "rank": 29,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 232647,
+        "num": 179654,
+        "word": "张子枫说和梅婷对戏起鸡皮疙瘩",
+        "onboard_time": 1671716252,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 224215,
+        "num": 179545,
+        "word": "县委大院还有吻戏",
+        "onboard_time": 1671706411,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 209099,
+        "num": 179437,
+        "word": "NewJeans新歌Ditto舞蹈版",
+        "onboard_time": 1671714754,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 200250,
+        "num": 179399,
+        "word": "舍不得胡歌演的梅晓歌",
+        "onboard_time": 1671719433,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 179280,
+        "num": 179280,
+        "word": "药店回应6片布洛芬卖48元",
+        "onboard_time": 1671705092,
+        "rank": 34,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 194595,
+        "num": 176736,
+        "word": "王俊凯黑色工装造型",
+        "onboard_time": 1671714033,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 153612,
+        "num": 153612,
+        "word": "广东男篮终结浙江15连胜",
+        "onboard_time": 1671718111,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150637,
+        "num": 150637,
+        "word": "外卖小哥高烧39℃送完餐瘫倒在地",
+        "onboard_time": 1671688409,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150248,
+        "num": 150248,
+        "word": "3狗崽零下34度雪地玩耍被狗妈叼回",
+        "onboard_time": 1671711269,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134682,
+        "num": 134682,
+        "word": "腾讯的下一个风口在哪里",
+        "onboard_time": 1671715233,
+        "rank": 39,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 195329,
+        "num": 134262,
+        "word": "回来的女儿录像带大反转",
+        "onboard_time": 1671719252,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 130481,
+        "num": 130481,
+        "word": "女子远嫁6年弟弟第一次来累倒了",
+        "onboard_time": 1671697951,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124008,
+        "num": 124008,
+        "word": "女生阳性狗狗3天不吃不喝守床边",
+        "onboard_time": 1671698610,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121052,
+        "num": 121052,
+        "word": "干饭专用手机壳",
+        "onboard_time": 1671717992,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 120542,
+        "num": 120542,
+        "word": "阳后7天是否就没传染性了",
+        "onboard_time": 1671690808,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108615,
+        "num": 108615,
+        "word": "转阴后咳嗽是一个打扫战场过程",
+        "onboard_time": 1671673828,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107911,
+        "num": 107911,
+        "word": "不知火典藏皮肤预告",
+        "onboard_time": 1671701491,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 103288,
+        "num": 103288,
+        "word": "小米卢伟冰任总裁",
+        "onboard_time": 1671708511,
+        "rank": 47,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 103031,
+        "num": 103031,
+        "word": "狗狗串门被告知狗友不在秒懂离开",
+        "onboard_time": 1671707253,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79131,
+        "num": 103027,
+        "word": "女子称求职被HR问能否同睡一张床",
+        "onboard_time": 1671708813,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见梅德韦杰夫#"
+    }
+  }
+}

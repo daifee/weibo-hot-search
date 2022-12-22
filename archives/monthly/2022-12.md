@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/12/01 00:28:49 ~ 2022/12/22 22:16:42
+本榜单时间：2022/12/01 00:28:49 ~ 2022/12/22 22:33:34
 </p>
 </blockquote>
 <p>
@@ -3225,6 +3225,12 @@ A股109家新冠检测概念公司净赚854亿（热度：1290299）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2371%E5%B2%81%E5%BC%A0%E7%BA%AA%E4%B8%AD%E6%84%9F%E6%9F%93%E6%96%B0%E5%86%A0%23" target="weibo">
+71岁张纪中感染新冠（热度：1218556）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%84%9F%E6%9F%93HIV%E4%B8%8D%E7%AD%89%E4%BA%8E%E5%BE%97%E8%89%BE%E6%BB%8B%E7%97%85%23" target="weibo">
 感染HIV不等于得艾滋病（热度：1216391）
 </a>
@@ -5303,12 +5309,6 @@ iG公告（热度：902975）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B4%A5%E7%BD%91%E5%8F%8B%E6%9B%9D%E6%9F%A0%E6%AA%AC%E9%81%AD%E5%93%84%E6%8A%A2%23" target="weibo">
 天津网友曝柠檬遭哄抢（热度：869663）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2371%E5%B2%81%E5%BC%A0%E7%BA%AA%E4%B8%AD%E6%84%9F%E6%9F%93%E6%96%B0%E5%86%A0%23" target="weibo">
-71岁张纪中感染新冠（热度：869235）
 </a>
 </li>
 
