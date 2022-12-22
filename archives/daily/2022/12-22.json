@@ -1,6 +1,6 @@
 {
   "startTime": 1671639995248,
-  "endTime": 1671712487882,
+  "endTime": 1671713573890,
   "band_list": [
     {
       "raw_hot": 3312636,
@@ -99,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1408046,
+      "num": 1408046,
+      "word": "决赛圈",
+      "onboard_time": 1671712410,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1372735,
       "num": 1372735,
       "word": "外卖小哥高烧39℃送完餐瘫倒在地",
@@ -129,6 +137,14 @@
       "onboard_time": 1671701849,
       "rank": 10,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 1247193,
+      "num": 490079,
+      "word": "华少没礼貌名场面",
+      "onboard_time": 1671712052,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1213375,
@@ -211,6 +227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 890991,
+      "num": 890991,
+      "word": "杨紫直播",
+      "onboard_time": 1671710554,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 886630,
       "num": 886630,
       "word": "曝C罗决定加盟沙特豪门",
@@ -251,14 +275,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 784429,
-      "num": 411081,
-      "word": "杨紫直播",
-      "onboard_time": 1671710554,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 776000,
       "num": 776000,
       "word": "美国宣布向乌克兰提供爱国者导弹",
@@ -276,19 +292,11 @@
     },
     {
       "raw_hot": 738256,
-      "num": 442767,
+      "num": 483343,
       "word": "马化腾称整个腾讯新闻砍掉都可以",
       "onboard_time": 1671705212,
       "rank": 43,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 736479,
-      "num": 405607,
-      "word": "华少没礼貌名场面",
-      "onboard_time": 1671712052,
-      "rank": 12,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 710446,
@@ -297,6 +305,14 @@
       "onboard_time": 1671672329,
       "rank": 29,
       "category": "综艺,社会新闻"
+    },
+    {
+      "raw_hot": 699562,
+      "num": 699562,
+      "word": "陈乔恩苗苗谈不办婚礼的原因",
+      "onboard_time": 1671709593,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 690818,
@@ -395,14 +411,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 601521,
-      "num": 601521,
-      "word": "陈乔恩苗苗谈不办婚礼的原因",
-      "onboard_time": 1671709593,
-      "rank": 6,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 591048,
       "num": 591048,
       "word": "龚俊感染新冠已康复",
@@ -473,6 +481,14 @@
       "onboard_time": 1671678150,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 515380,
+      "num": 515380,
+      "word": "男孩高烧近40度不让写作业就哭",
+      "onboard_time": 1671709772,
+      "rank": 14,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 514034,
@@ -635,14 +651,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 415751,
-      "num": 401350,
-      "word": "男孩高烧近40度不让写作业就哭",
-      "onboard_time": 1671709772,
-      "rank": 14,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 413549,
       "num": 413549,
       "word": "男生10天花280元乘公交从上海抵京",
@@ -673,6 +681,14 @@
       "onboard_time": 1671650833,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 402065,
+      "num": 402065,
+      "word": "为什么朋友圈秀恩爱的少了",
+      "onboard_time": 1671712170,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 396167,
@@ -1003,6 +1019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 298936,
+      "num": 298936,
+      "word": "快递包裹破了个洞美林却不翼而飞",
+      "onboard_time": 1671711754,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 292572,
       "num": 292572,
       "word": "王凯谭松韵新剧MV好多抱姿",
@@ -1083,6 +1107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 270227,
+      "num": 270227,
+      "word": "县委大院还有吻戏",
+      "onboard_time": 1671706411,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 267516,
       "num": 215084,
       "word": "丁禹兮大理寺少卿游打戏镜头",
@@ -1139,14 +1171,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 255046,
-      "num": 255046,
-      "word": "县委大院还有吻戏",
-      "onboard_time": 1671706411,
-      "rank": 34,
-      "category": "影视"
-    },
-    {
       "raw_hot": 254277,
       "num": 220353,
       "word": "浮图缘",
@@ -1193,6 +1217,14 @@
       "onboard_time": 1671691232,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 247025,
+      "num": 247025,
+      "word": "你觉得长歌行好看吗",
+      "onboard_time": 1671712650,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 246497,
@@ -1244,7 +1276,7 @@
     },
     {
       "raw_hot": 236054,
-      "num": 205082,
+      "num": 211154,
       "word": "赵丽颖沈璃片场包饺子",
       "onboard_time": 1671708632,
       "rank": 32,
@@ -1483,6 +1515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 195136,
+      "num": 195136,
+      "word": "3狗崽零下34度雪地玩耍被狗妈叼回",
+      "onboard_time": 1671711269,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 193711,
       "num": 193711,
       "word": "梅晓歌坚决关停污染企业",
@@ -1579,6 +1619,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 175639,
+      "num": 175639,
+      "word": "QQ音乐上线耳鸣舒缓功能",
+      "onboard_time": 1671711632,
+      "rank": 37,
+      "category": "科技"
+    },
+    {
       "raw_hot": 174978,
       "num": 174978,
       "word": "女子送邻居退烧药意外收到鲜花",
@@ -1601,6 +1649,14 @@
       "onboard_time": 1671699808,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 174577,
+      "num": 174577,
+      "word": "县委大院林志为官司胜诉",
+      "onboard_time": 1671713192,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 172956,
@@ -1641,14 +1697,6 @@
       "onboard_time": 1671700949,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 168312,
-      "num": 168312,
-      "word": "QQ音乐上线耳鸣舒缓功能",
-      "onboard_time": 1671711632,
-      "rank": 37,
-      "category": "科技"
     },
     {
       "raw_hot": 167953,
@@ -1736,14 +1784,6 @@
       "word": "多地血库发布无偿献血倡议书",
       "onboard_time": 1671684750,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 155550,
-      "num": 155550,
-      "word": "3狗崽零下34度雪地玩耍被狗妈叼回",
-      "onboard_time": 1671711269,
-      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -1843,20 +1883,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 143773,
-      "num": 143773,
-      "word": "为什么朋友圈秀恩爱的少了",
-      "onboard_time": 1671712170,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
       "raw_hot": 141372,
       "num": 141372,
       "word": "亿企加油 全力以复",
       "onboard_time": 1671679172,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 140538,
+      "num": 140538,
+      "word": "CBA",
+      "onboard_time": 1671712772,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 139896,
@@ -1881,14 +1921,6 @@
       "onboard_time": 1671688891,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 138935,
-      "num": 138935,
-      "word": "快递包裹破了个洞美林却不翼而飞",
-      "onboard_time": 1671711754,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 138791,
@@ -2083,14 +2115,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 124019,
-      "num": 124019,
-      "word": "决赛圈",
-      "onboard_time": 1671712410,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 123536,
       "num": 123536,
       "word": "2022十大BGM",
@@ -2225,6 +2249,14 @@
       "onboard_time": 1671689250,
       "rank": 48,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 105300,
+      "num": 105300,
+      "word": "孩子烧到多少度要用退烧药",
+      "onboard_time": 1671713372,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 105075,
