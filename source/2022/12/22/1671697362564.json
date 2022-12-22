@@ -1,0 +1,410 @@
+{
+  "runTime": 1671697362564,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2437000,
+        "num": 2437000,
+        "word": "华少道歉",
+        "onboard_time": 1671694292,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1581920,
+        "num": 1581920,
+        "word": "抗原试剂盒的钱都被谁赚了",
+        "onboard_time": 1671693809,
+        "rank": 1,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 145991,
+        "num": 1297538,
+        "word": "关于孩子发烧17个热点问答",
+        "onboard_time": 1671693391,
+        "rank": 2,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 2015516,
+        "num": 1247706,
+        "word": "孔雪儿回应鱼子酱事件",
+        "onboard_time": 1671693514,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1103201,
+        "num": 1103201,
+        "word": "张文宏称北方有症状比例比南方高很多",
+        "onboard_time": 1671694053,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 742474,
+        "num": 742474,
+        "word": "女子用奶茶杯伪装给朋友寄布洛芬",
+        "onboard_time": 1671689551,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 714766,
+        "num": 714766,
+        "word": "转阴后咳嗽是一个打扫战场过程",
+        "onboard_time": 1671673828,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 698884,
+        "num": 698884,
+        "word": "陈乔恩说别理陆毅他懂个屁",
+        "onboard_time": 1671690513,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 485296,
+        "num": 485296,
+        "word": "杭州街头出现一只4米高的巨大落叶兔",
+        "onboard_time": 1671688171,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 423064,
+        "num": 423064,
+        "word": "阳后7天是否就没传染性了",
+        "onboard_time": 1671690808,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 631176,
+        "num": 421024,
+        "word": "女子验孕试纸和抗原同时呈阳性",
+        "onboard_time": 1671696033,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 630709,
+        "num": 419693,
+        "word": "易烊千玺说在忙新作品的准备",
+        "onboard_time": 1671691471,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1033365,
+        "num": 416316,
+        "word": "外卖小哥高烧39℃送完餐瘫倒在地",
+        "onboard_time": 1671688409,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 502816,
+        "num": 415047,
+        "word": "内娱就该百花齐放",
+        "onboard_time": 1671693150,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 413660,
+        "num": 413660,
+        "word": "刘芸郑钧补办婚礼的原因",
+        "onboard_time": 1671689551,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 404505,
+        "num": 404505,
+        "word": "美国宣布向乌克兰提供爱国者导弹",
+        "onboard_time": 1671689131,
+        "rank": 15,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 384686,
+        "num": 384686,
+        "word": "阳康女子出门复工受风寒成重感冒",
+        "onboard_time": 1671693632,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 379798,
+        "num": 379798,
+        "word": "新冠痊愈多久没有传染性",
+        "onboard_time": 1671676050,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317255,
+        "num": 317255,
+        "word": "男子把饺子放室外冰冻被狗子全干完",
+        "onboard_time": 1671692969,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265717,
+        "num": 265717,
+        "word": "温州一药店超成本价100倍卖布洛芬",
+        "onboard_time": 1671692190,
+        "rank": 19,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 302916,
+        "num": 265274,
+        "word": "孟美岐加盟为了我们的荣耀",
+        "onboard_time": 1671692432,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301971,
+        "num": 261224,
+        "word": "王鹤棣说该和想见的人相见了",
+        "onboard_time": 1671694712,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 273383,
+        "num": 259821,
+        "word": "一口气炫完三集回来的女儿",
+        "onboard_time": 1671693931,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 255882,
+        "num": 255882,
+        "word": "男子回应疑似在无人区感染新冠",
+        "onboard_time": 1671691348,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255697,
+        "num": 255697,
+        "word": "这届年轻人开始玩玉了",
+        "onboard_time": 1671695009,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237837,
+        "num": 237837,
+        "word": "梦奇赛年皮肤",
+        "onboard_time": 1671694292,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 230896,
+        "num": 230896,
+        "word": "社保局被指让市民在室外排队受冻",
+        "onboard_time": 1671691232,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200780,
+        "num": 200780,
+        "word": "马化腾称腾讯内部贪腐问题触目惊心",
+        "onboard_time": 1671696391,
+        "rank": 27,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 190848,
+        "num": 190848,
+        "word": "马化腾称短视频会侵蚀游戏时间",
+        "onboard_time": 1671696391,
+        "rank": 28,
+        "category": "游戏,科技"
+      },
+      {
+        "raw_hot": 181889,
+        "num": 181889,
+        "word": "骗子通话20分钟大妈只听懂1句",
+        "onboard_time": 1671687331,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210287,
+        "num": 181489,
+        "word": "如梦之梦",
+        "onboard_time": 1671693030,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 208073,
+        "num": 181328,
+        "word": "张婧仪晒冬至十二宫格随拍",
+        "onboard_time": 1671691410,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179935,
+        "num": 179935,
+        "word": "NCTDREAM朴秀荣Candy的舞蹈挑战",
+        "onboard_time": 1671696572,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 207014,
+        "num": 178369,
+        "word": "肖战冬至竹林大片",
+        "onboard_time": 1671684631,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 175615,
+        "num": 175615,
+        "word": "谁能拒绝主动牵手的小猫咪",
+        "onboard_time": 1671695312,
+        "rank": 34,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 165803,
+        "num": 165803,
+        "word": "自称遭辅警猥亵女子回应警方通报",
+        "onboard_time": 1671686971,
+        "rank": 35,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 158606,
+        "num": 158606,
+        "word": "女子高烧误将脱毛纸当退烧贴",
+        "onboard_time": 1671682589,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157211,
+        "num": 157211,
+        "word": "遇害女大学生父亲回应带货",
+        "onboard_time": 1671685830,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154027,
+        "num": 154027,
+        "word": "阳了洗澡要注意什么",
+        "onboard_time": 1671689727,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132521,
+        "num": 132521,
+        "word": "武大靖泼水成冰",
+        "onboard_time": 1671695372,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170804,
+        "num": 132509,
+        "word": "县委大院今晚大结局",
+        "onboard_time": 1671688230,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 169733,
+        "num": 131995,
+        "word": "何洛洛成功追星张杰",
+        "onboard_time": 1671691471,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128418,
+        "num": 128418,
+        "word": "上海市民咨询当骑手17人中仅1人入职",
+        "onboard_time": 1671685412,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128366,
+        "num": 128366,
+        "word": "富含维C的水果为何不建议做熟后吃",
+        "onboard_time": 1671696929,
+        "rank": 43,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 124228,
+        "num": 124228,
+        "word": "当你的孩子比你提前康复",
+        "onboard_time": 1671689671,
+        "rank": 44,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 124075,
+        "num": 124075,
+        "word": "南北方毒株致病力没有太大区别",
+        "onboard_time": 1671679712,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116331,
+        "num": 116331,
+        "word": "科学家发现被吓懵的原因",
+        "onboard_time": 1671697172,
+        "rank": 46,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 116119,
+        "num": 116119,
+        "word": "曝C罗决定加盟沙特豪门",
+        "onboard_time": 1671675329,
+        "rank": 47,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 115121,
+        "num": 115121,
+        "word": "如何评价顽趣系列皮肤",
+        "onboard_time": 1671697110,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 96088,
+        "num": 105725,
+        "word": "网友拍摄新冠毒株概念模型",
+        "onboard_time": 1671697289,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见梅德韦杰夫#"
+    }
+  }
+}
