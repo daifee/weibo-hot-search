@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/12/01 00:28:49 ~ 2022/12/22 12:37:14
+本榜单时间：2022/12/01 00:28:49 ~ 2022/12/22 13:16:36
 </p>
 </blockquote>
 <p>
@@ -2051,6 +2051,12 @@ C罗 双眼皮贴（热度：1572721）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A2%81%E5%A5%96%23" target="weibo">
 世界杯颁奖（热度：1568875）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E7%8E%87%E9%98%BF%E6%A0%B9%E5%BB%B7%E9%98%9F%E5%94%B1%E6%AD%8C%E4%BE%AE%E8%BE%B1%E8%AE%B0%E8%80%85%E6%98%AF%E5%A6%93%E5%A5%B3%23" target="weibo">
+梅西率阿根廷队唱歌侮辱记者是妓女（热度：1559883）
 </a>
 </li>
 
@@ -4215,6 +4221,12 @@ GQ盛典（热度：1006107）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E9%AB%98%E7%83%A7%E8%AF%AF%E5%B0%86%E8%84%B1%E6%AF%9B%E7%BA%B8%E5%BD%93%E9%80%80%E7%83%A7%E8%B4%B4%23" target="weibo">
+女子高烧误将脱毛纸当退烧贴（热度：995120）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%20%E5%9C%A8%E9%80%83%E5%85%AC%E4%B8%BB%23" target="weibo">
 白鹿 在逃公主（热度：994200）
 </a>
@@ -5999,18 +6011,6 @@ Ruler加入JDG（热度：800521）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%A5%BF%E4%B8%80%E8%8D%AF%E5%BA%97%E8%BF%9E%E8%8A%B1%E6%B8%85%E7%98%9F%E6%B6%A812%E5%85%83%E8%A2%AB%E9%A1%B6%E6%A0%BC%E5%A4%84%E7%BD%9A%23" target="weibo">
 江西一药店连花清瘟涨12元被顶格处罚（热度：787552）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%82%98%E5%87%BB%E7%8C%A5%E4%BA%B5%E8%80%85%E9%81%AD%E5%AF%B9%E6%96%B9%E5%90%8C%E8%A1%8C%E4%BA%BA%E6%8E%A8%E6%90%A1%23" target="weibo">
-女子肘击猥亵者遭对方同行人推搡（热度：786705）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E6%96%B0%E5%86%A0%E8%82%BA%E7%82%8E%E6%9C%80%E7%BB%88%E4%BC%9A%E9%99%8D%E4%B8%BA%E4%B8%99%E7%B1%BB%E4%B8%99%E7%AE%A1%23" target="weibo">
-专家称新冠肺炎最终会降为丙类丙管（热度：786665）
 </a>
 </li>
 
