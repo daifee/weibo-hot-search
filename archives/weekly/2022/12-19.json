@@ -1,6 +1,6 @@
 {
   "startTime": 1671380618877,
-  "endTime": 1671740349146,
+  "endTime": 1671741210843,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -10235,6 +10235,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 51993,
+      "num": 51993,
+      "word": "过敏体质不易感染是真的吗",
+      "onboard_time": 1671738553,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 51448,
       "num": 51448,
       "word": "直井怜LOVEDIVE直拍",
@@ -10297,14 +10305,6 @@
       "onboard_time": 1671627633,
       "rank": 14,
       "category": "科技"
-    },
-    {
-      "raw_hot": 40542,
-      "num": 40542,
-      "word": "过敏体质不易感染是真的吗",
-      "onboard_time": 1671738553,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 40352,
@@ -10379,6 +10379,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 28603,
+      "num": 22584,
+      "word": "妈妈阳后第3天就坚持做饭",
+      "onboard_time": 1671740471,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 25397,
       "num": 490982,
       "word": "厉害了秦友团",
@@ -10409,6 +10417,14 @@
       "onboard_time": 1671563233,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 15539,
+      "num": 15539,
+      "word": "兔年春晚logo是卯字",
+      "onboard_time": 1671741073,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 14313,
