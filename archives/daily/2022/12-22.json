@@ -1,6 +1,6 @@
 {
   "startTime": 1671639995248,
-  "endTime": 1671677308787,
+  "endTime": 1671679177931,
   "band_list": [
     {
       "raw_hot": 3312636,
@@ -19,8 +19,8 @@
       "category": "艺人,社会新闻"
     },
     {
-      "raw_hot": 2426687,
-      "num": 2426687,
+      "raw_hot": 2447050,
+      "num": 2447050,
       "word": "转阴后咳嗽是一个打扫战场过程",
       "onboard_time": 1671673828,
       "rank": 46,
@@ -41,6 +41,14 @@
       "onboard_time": 1671664279,
       "rank": 10,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1290957,
+      "num": 1290957,
+      "word": "新冠痊愈多久没有传染性",
+      "onboard_time": 1671676050,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1158453,
@@ -67,8 +75,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 813808,
-      "num": 813808,
+      "raw_hot": 886630,
+      "num": 886630,
       "word": "曝C罗决定加盟沙特豪门",
       "onboard_time": 1671675329,
       "rank": 10,
@@ -89,14 +97,6 @@
       "onboard_time": 1671668007,
       "rank": 7,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 744891,
-      "num": 744891,
-      "word": "新冠痊愈多久没有传染性",
-      "onboard_time": 1671676050,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 741996,
@@ -120,6 +120,14 @@
       "word": "奶奶不慎将梯子踢倒被挂大门横梁",
       "onboard_time": 1671668066,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 665131,
+      "num": 665131,
+      "word": "男子酒吧内多次掀开女子衣服引群殴",
+      "onboard_time": 1671673710,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -147,20 +155,20 @@
       "category": "艺人,社会新闻"
     },
     {
-      "raw_hot": 586223,
-      "num": 586223,
-      "word": "男子酒吧内多次掀开女子衣服引群殴",
-      "onboard_time": 1671673710,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 579604,
       "num": 579604,
       "word": "网传连花清瘟防疫方消息不实",
       "onboard_time": 1671671969,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 565078,
+      "num": 565078,
+      "word": "员工阳了公司能辞退吗",
+      "onboard_time": 1671676472,
+      "rank": 41,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 526080,
@@ -176,6 +184,14 @@
       "word": "近期我国多位医学大家逝世",
       "onboard_time": 1671635435,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 492725,
+      "num": 492725,
+      "word": "青海玛多5.0级地震",
+      "onboard_time": 1671678451,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -219,12 +235,36 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 411777,
+      "num": 411777,
+      "word": "王源说我在江苏卫视2023跨年演唱会等你",
+      "onboard_time": 1671678271,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 408817,
+      "num": 408817,
+      "word": "黄雨萱李子维双向奔赴",
+      "onboard_time": 1671677072,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 406544,
       "num": 406544,
       "word": "龚俊直播换GQ没穿的睡衣",
       "onboard_time": 1671650833,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 405779,
+      "num": 405779,
+      "word": "长相思全员飘雪故事感",
+      "onboard_time": 1671678631,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 393347,
@@ -241,6 +281,22 @@
       "onboard_time": 1671632138,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 355494,
+      "num": 355494,
+      "word": "把宝宝烧的都开口说话了",
+      "onboard_time": 1671673710,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 338047,
+      "num": 320536,
+      "word": "刘昊然县委大院四宫格剧照",
+      "onboard_time": 1671677192,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 334472,
@@ -323,20 +379,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 276475,
-      "num": 276475,
-      "word": "把宝宝烧的都开口说话了",
-      "onboard_time": 1671673710,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
       "raw_hot": 273100,
       "num": 273100,
       "word": "姐姐怀孕弟弟抗原阳性立马去酒店",
       "onboard_time": 1671617911,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 257186,
+      "num": 257186,
+      "word": "张艺兴新歌没什么能给你",
+      "onboard_time": 1671676772,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 257060,
@@ -403,12 +459,28 @@
       "category": "幽默,影视"
     },
     {
+      "raw_hot": 232215,
+      "num": 215084,
+      "word": "丁禹兮大理寺少卿游打戏镜头",
+      "onboard_time": 1671678333,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 225854,
       "num": 225854,
       "word": "阿根廷门将曾要求C罗主罚点球",
       "onboard_time": 1671620312,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 215429,
+      "num": 215429,
+      "word": "法官称律师说话太快像放屁",
+      "onboard_time": 1671678150,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 214896,
@@ -427,14 +499,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 207012,
-      "num": 207012,
-      "word": "张艺兴新歌没什么能给你",
-      "onboard_time": 1671676772,
-      "rank": 30,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 206351,
       "num": 206351,
       "word": "魏树礼逝世",
@@ -443,12 +507,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 201979,
-      "num": 201979,
-      "word": "员工阳了公司能辞退吗",
-      "onboard_time": 1671676472,
-      "rank": 41,
-      "category": "社会新闻,财经"
+      "raw_hot": 205917,
+      "num": 205917,
+      "word": "影视剧雪景封神名场面",
+      "onboard_time": 1671677252,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 200153,
@@ -483,6 +547,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 192369,
+      "num": 192369,
+      "word": "贝利病情出现恶化",
+      "onboard_time": 1671677730,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 188056,
       "num": 188056,
       "word": "春晚吉祥物一处设计来源最早兔形动物",
@@ -505,14 +577,6 @@
       "onboard_time": 1671671311,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 173066,
-      "num": 173066,
-      "word": "黄雨萱李子维双向奔赴",
-      "onboard_time": 1671677072,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 172956,
@@ -555,6 +619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 162992,
+      "num": 162992,
+      "word": "刘宇宁向风而行引力MV",
+      "onboard_time": 1671678933,
+      "rank": 39,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 162156,
       "num": 162156,
       "word": "其实身体比你想象中更爱你",
@@ -569,6 +641,22 @@
       "onboard_time": 1671626255,
       "rank": 26,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 159249,
+      "num": 159249,
+      "word": "饺子",
+      "onboard_time": 1671677312,
+      "rank": 41,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 158328,
+      "num": 158328,
+      "word": "成都幼儿园小学等12月30日后开始放假",
+      "onboard_time": 1671678991,
+      "rank": 42,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 155143,
@@ -611,6 +699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 145856,
+      "num": 145856,
+      "word": "北斗女神说上班路上用了25颗卫星",
+      "onboard_time": 1671677131,
+      "rank": 45,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 145028,
       "num": 145028,
       "word": "阿根廷球员希望冠军属于人民",
@@ -619,12 +715,12 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 144351,
-      "num": 144351,
-      "word": "影视剧雪景封神名场面",
-      "onboard_time": 1671677252,
-      "rank": 40,
-      "category": "影视"
+      "raw_hot": 141372,
+      "num": 141372,
+      "word": "亿企加油 全力以复",
+      "onboard_time": 1671679172,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 139312,
@@ -707,14 +803,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 124276,
-      "num": 124276,
-      "word": "刘昊然县委大院四宫格剧照",
-      "onboard_time": 1671677192,
-      "rank": 43,
-      "category": "影视"
-    },
-    {
       "raw_hot": 123536,
       "num": 123536,
       "word": "2022十大BGM",
@@ -761,14 +849,6 @@
       "onboard_time": 1671676169,
       "rank": 43,
       "category": "美食,社会新闻"
-    },
-    {
-      "raw_hot": 115168,
-      "num": 115168,
-      "word": "北斗女神说上班路上用了25颗卫星",
-      "onboard_time": 1671677131,
-      "rank": 45,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 111760,
@@ -948,7 +1028,7 @@
     },
     {
       "raw_hot": 36925,
-      "num": 1588468,
+      "num": 1796120,
       "word": "2023年都有啥大事",
       "onboard_time": 1671583107,
       "rank": 2,
