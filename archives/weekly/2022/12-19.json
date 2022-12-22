@@ -1,6 +1,6 @@
 {
   "startTime": 1671380618877,
-  "endTime": 1671722380275,
+  "endTime": 1671723294041,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -3067,6 +3067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 451443,
+      "num": 212626,
+      "word": "才知道布洛芬不适合我",
+      "onboard_time": 1671722069,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 451154,
       "num": 451154,
       "word": "邮政局回应寄药被偷",
@@ -3472,6 +3480,14 @@
       "word": "抗原红线深浅能代表病情轻重吗",
       "onboard_time": 1671605251,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 401486,
+      "num": 401486,
+      "word": "张文宏建议老年人每天吃2个鸡蛋",
+      "onboard_time": 1671720512,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -4699,14 +4715,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 298796,
-      "num": 298796,
-      "word": "张文宏建议老年人每天吃2个鸡蛋",
-      "onboard_time": 1671720512,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 297822,
       "num": 297822,
       "word": "排骨焖面是来报恩的吧",
@@ -4945,6 +4953,14 @@
       "onboard_time": 1671590550,
       "rank": 48,
       "category": "科技"
+    },
+    {
+      "raw_hot": 283372,
+      "num": 283372,
+      "word": "李晨问杨颖做美甲后怎么开易拉罐",
+      "onboard_time": 1671722069,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 283324,
@@ -6443,20 +6459,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 202748,
+      "num": 202748,
+      "word": "阳了你有腰疼的症状吗",
+      "onboard_time": 1671721948,
+      "rank": 43,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 202374,
       "num": 202374,
       "word": "3少年闯入他人闲置房里过家家",
       "onboard_time": 1671594632,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 202236,
-      "num": 202236,
-      "word": "李晨问杨颖做美甲后怎么开易拉罐",
-      "onboard_time": 1671722069,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 201573,
@@ -6689,6 +6705,14 @@
       "onboard_time": 1671514649,
       "rank": 32,
       "category": "美食"
+    },
+    {
+      "raw_hot": 193634,
+      "num": 154045,
+      "word": "县委大院有第二部吗",
+      "onboard_time": 1671718893,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 193445,
@@ -7017,14 +7041,6 @@
       "onboard_time": 1671553704,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 182980,
-      "num": 154045,
-      "word": "县委大院有第二部吗",
-      "onboard_time": 1671718893,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 182873,
@@ -7617,6 +7633,14 @@
       "onboard_time": 1671499710,
       "rank": 31,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 165237,
+      "num": 139032,
+      "word": "被任贤齐关心孔雪儿暖到了",
+      "onboard_time": 1671723206,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 165099,
@@ -8659,6 +8683,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 136700,
+      "num": 103930,
+      "word": "你接受结婚不办婚礼吗",
+      "onboard_time": 1671722608,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 136419,
       "num": 136419,
       "word": "周杰伦演唱会",
@@ -8761,6 +8793,14 @@
       "onboard_time": 1671435272,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 133525,
+      "num": 103593,
+      "word": "张艺兴冬至直播听歌",
+      "onboard_time": 1671720812,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 133060,
@@ -9115,6 +9155,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 123927,
+      "num": 123927,
+      "word": "新冠缺药有哪些求助方式",
+      "onboard_time": 1671722906,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 123536,
       "num": 123536,
       "word": "2022十大BGM",
@@ -9187,6 +9235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121963,
+      "num": 121963,
+      "word": "为2023考研人加油",
+      "onboard_time": 1671722670,
+      "rank": 37,
+      "category": "情感,教育"
+    },
+    {
       "raw_hot": 121052,
       "num": 121052,
       "word": "干饭专用手机壳",
@@ -9225,14 +9281,6 @@
       "onboard_time": 1671611011,
       "rank": 48,
       "category": "科技"
-    },
-    {
-      "raw_hot": 118473,
-      "num": 118473,
-      "word": "才知道布洛芬不适合我",
-      "onboard_time": 1671722069,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 118186,
@@ -9491,14 +9539,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 109180,
-      "num": 109180,
-      "word": "阳了你有腰疼的症状吗",
-      "onboard_time": 1671721948,
-      "rank": 43,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 108737,
       "num": 108737,
       "word": "阳性了怎么避免传染家人",
@@ -9659,6 +9699,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 104063,
+      "num": 104063,
+      "word": "我承认是我草率了",
+      "onboard_time": 1671721529,
+      "rank": 46,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 103346,
       "num": 103346,
       "word": "原来边界感强的人是这样的",
@@ -9713,6 +9761,14 @@
       "onboard_time": 1671550466,
       "rank": 48,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 100916,
+      "num": 100916,
+      "word": "还以为真的看到价格了",
+      "onboard_time": 1671722310,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 100441,
@@ -9803,28 +9859,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 91420,
-      "num": 91420,
-      "word": "我承认是我草率了",
-      "onboard_time": 1671721529,
-      "rank": 46,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 90832,
       "num": 90832,
       "word": "空军首批双学籍女飞学员完成单飞",
       "onboard_time": 1671507029,
       "rank": 49,
       "category": "军事"
-    },
-    {
-      "raw_hot": 88570,
-      "num": 88570,
-      "word": "还以为真的看到价格了",
-      "onboard_time": 1671722310,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 87992,
