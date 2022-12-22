@@ -1,0 +1,410 @@
+{
+  "runTime": 1671727412482,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1570371,
+        "num": 1570371,
+        "word": "决赛圈",
+        "onboard_time": 1671712410,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1131911,
+        "num": 1131911,
+        "word": "编剧倪震去世",
+        "onboard_time": 1671723566,
+        "rank": 1,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 8000,
+        "num": 645170,
+        "word": "关于孩子发烧17个热点问答",
+        "onboard_time": 1671693391,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 460567,
+        "num": 460567,
+        "word": "才知道布洛芬不适合我",
+        "onboard_time": 1671722069,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 324022,
+        "num": 324022,
+        "word": "阳了你有腰疼的症状吗",
+        "onboard_time": 1671721948,
+        "rank": 4,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 307803,
+        "num": 307803,
+        "word": "被任贤齐关心孔雪儿暖到了",
+        "onboard_time": 1671723206,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 306938,
+        "num": 306938,
+        "word": "李晨问杨颖做美甲后怎么开易拉罐",
+        "onboard_time": 1671722069,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 260064,
+        "num": 260064,
+        "word": "阳了为什么会腰疼",
+        "onboard_time": 1671702148,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246472,
+        "num": 246472,
+        "word": "挺进决赛圈的人有多嚣张",
+        "onboard_time": 1671714215,
+        "rank": 8,
+        "category": "游戏,幽默"
+      },
+      {
+        "raw_hot": 232399,
+        "num": 232399,
+        "word": "为2023考研人加油",
+        "onboard_time": 1671722670,
+        "rank": 9,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 371434,
+        "num": 231664,
+        "word": "华少没礼貌名场面",
+        "onboard_time": 1671712052,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 280562,
+        "num": 231088,
+        "word": "马化腾称整个腾讯新闻砍掉都可以",
+        "onboard_time": 1671705212,
+        "rank": 11,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 237415,
+        "num": 230603,
+        "word": "杨紫说她现在已经进组了",
+        "onboard_time": 1671719971,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 235267,
+        "num": 229171,
+        "word": "杨幂芭莎蕾丝纱裙造型",
+        "onboard_time": 1671701849,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 229042,
+        "num": 229042,
+        "word": "长沙某火锅店强制顾客餐后漱口",
+        "onboard_time": 1671725365,
+        "rank": 14,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 206492,
+        "num": 206492,
+        "word": "为什么朋友圈秀恩爱的少了",
+        "onboard_time": 1671712170,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 204031,
+        "num": 204031,
+        "word": "张文宏建议老年人每天吃2个鸡蛋",
+        "onboard_time": 1671720512,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173967,
+        "num": 173967,
+        "word": "网传十大新冠偏方全是谣言",
+        "onboard_time": 1671723566,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124137,
+        "num": 124137,
+        "word": "快递包裹破了个洞美林却不翼而飞",
+        "onboard_time": 1671711754,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123804,
+        "num": 123804,
+        "word": "孙子和孙女不同起床待遇",
+        "onboard_time": 1671718653,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204437,
+        "num": 123726,
+        "word": "71岁张纪中感染新冠",
+        "onboard_time": 1671717031,
+        "rank": 20,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 171958,
+        "num": 123371,
+        "word": "县委大院刘昊然上线",
+        "onboard_time": 1671718412,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 164986,
+        "num": 123228,
+        "word": "你接受结婚不办婚礼吗",
+        "onboard_time": 1671722608,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122646,
+        "num": 122646,
+        "word": "妈妈晕倒3孩子淡然当事人删视频",
+        "onboard_time": 1671698911,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107271,
+        "num": 107271,
+        "word": "买Chanel耳钉顺丰运掉五颗珍珠",
+        "onboard_time": 1671703771,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98036,
+        "num": 98036,
+        "word": "还以为真的看到价格了",
+        "onboard_time": 1671722310,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 95366,
+        "num": 95366,
+        "word": "张文宏称北方有症状比例比南方高很多",
+        "onboard_time": 1671694053,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93860,
+        "num": 93860,
+        "word": "原来好的恋爱会让人变好看",
+        "onboard_time": 1671715416,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 82127,
+        "num": 82127,
+        "word": "睡觉要盖被子睡枕头的小狗",
+        "onboard_time": 1671714874,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 79377,
+        "num": 79377,
+        "word": "药店回应6片布洛芬卖48元",
+        "onboard_time": 1671705092,
+        "rank": 29,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 107156,
+        "num": 79304,
+        "word": "二刷想见你",
+        "onboard_time": 1671726203,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 100644,
+        "num": 79100,
+        "word": "县委大院有第二部吗",
+        "onboard_time": 1671718893,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 99379,
+        "num": 78999,
+        "word": "没想到尔冬升也逃不出养成系",
+        "onboard_time": 1671715712,
+        "rank": 32,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 99341,
+        "num": 78808,
+        "word": "回来的女儿",
+        "onboard_time": 1671714754,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 78667,
+        "num": 78667,
+        "word": "男孩高烧近40度不让写作业就哭",
+        "onboard_time": 1671709772,
+        "rank": 34,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 70482,
+        "num": 70482,
+        "word": "冬至晒饺子大赛",
+        "onboard_time": 1671725664,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 68870,
+        "num": 68870,
+        "word": "小兽",
+        "onboard_time": 1671713731,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 67691,
+        "num": 67691,
+        "word": "研究生夜跑跳入刺骨河水救人",
+        "onboard_time": 1671707073,
+        "rank": 37,
+        "category": "社会正能量,教育"
+      },
+      {
+        "raw_hot": 65808,
+        "num": 65808,
+        "word": "猫咪不喜欢狗的原因找到了",
+        "onboard_time": 1671720330,
+        "rank": 38,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 64778,
+        "num": 64778,
+        "word": "布洛芬和对乙酰氨基酚选哪个",
+        "onboard_time": 1671698370,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86475,
+        "num": 64760,
+        "word": "张艺兴冬至直播听歌",
+        "onboard_time": 1671720812,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91181,
+        "num": 64568,
+        "word": "你觉得长歌行好看吗",
+        "onboard_time": 1671712650,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 91085,
+        "num": 64341,
+        "word": "姜云升直播",
+        "onboard_time": 1671726562,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 59363,
+        "num": 64145,
+        "word": "外卖小哥高烧39℃送完餐瘫倒在地",
+        "onboard_time": 1671688409,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56123,
+        "num": 64064,
+        "word": "女子称买儿童退烧药收到空包裹",
+        "onboard_time": 1671726741,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54798,
+        "num": 63863,
+        "word": "3狗崽零下34度雪地玩耍被狗妈叼回",
+        "onboard_time": 1671711269,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52842,
+        "num": 63578,
+        "word": "新冠缺药有哪些求助方式",
+        "onboard_time": 1671722906,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48310,
+        "num": 63539,
+        "word": "赵睿手臂出血",
+        "onboard_time": 1671725427,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 47807,
+        "num": 63256,
+        "word": "女子验孕试纸和抗原同时呈阳性",
+        "onboard_time": 1671696033,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46732,
+        "num": 63057,
+        "word": "当去你去买奢侈品",
+        "onboard_time": 1671726324,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#以新气象新作为推动高质量发展取得新成效#"
+    }
+  }
+}
