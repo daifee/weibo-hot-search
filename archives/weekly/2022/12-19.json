@@ -1,6 +1,6 @@
 {
   "startTime": 1671380618877,
-  "endTime": 1671737608490,
+  "endTime": 1671740349146,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -10297,6 +10297,14 @@
       "onboard_time": 1671627633,
       "rank": 14,
       "category": "科技"
+    },
+    {
+      "raw_hot": 40542,
+      "num": 40542,
+      "word": "过敏体质不易感染是真的吗",
+      "onboard_time": 1671738553,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 40352,
