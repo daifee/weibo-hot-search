@@ -1,6 +1,6 @@
 {
   "startTime": 1671639995248,
-  "endTime": 1671691075062,
+  "endTime": 1671693372467,
   "band_list": [
     {
       "raw_hot": 3312636,
@@ -67,20 +67,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1182427,
+      "num": 1182427,
+      "word": "外卖小哥高烧39℃送完餐瘫倒在地",
+      "onboard_time": 1671688409,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1172477,
+      "num": 1172477,
+      "word": "刘芸郑钧补办婚礼的原因",
+      "onboard_time": 1671689551,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1158453,
       "num": 1158453,
       "word": "女子阳后瘦8斤医生称别高兴太早",
       "onboard_time": 1671638067,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1150547,
-      "num": 1150547,
-      "word": "刘芸郑钧补办婚礼的原因",
-      "onboard_time": 1671689551,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 1066847,
@@ -107,11 +115,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 929075,
-      "num": 929075,
-      "word": "外卖小哥高烧39℃送完餐瘫倒在地",
-      "onboard_time": 1671688409,
-      "rank": 10,
+      "raw_hot": 946049,
+      "num": 946049,
+      "word": "女子用奶茶杯伪装给朋友寄布洛芬",
+      "onboard_time": 1671689551,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -121,6 +129,14 @@
       "onboard_time": 1671675329,
       "rank": 10,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 864952,
+      "num": 440266,
+      "word": "易烊千玺说在忙新作品的准备",
+      "onboard_time": 1671691471,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 819477,
@@ -145,6 +161,22 @@
       "onboard_time": 1671668007,
       "rank": 7,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 775652,
+      "num": 775652,
+      "word": "美国宣布向乌克兰提供爱国者导弹",
+      "onboard_time": 1671689131,
+      "rank": 21,
+      "category": "军事,国外要闻"
+    },
+    {
+      "raw_hot": 768769,
+      "num": 768769,
+      "word": "陈乔恩说别理陆毅他懂个屁",
+      "onboard_time": 1671690513,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 741996,
@@ -219,14 +251,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 644301,
-      "num": 531820,
-      "word": "女子用奶茶杯伪装给朋友寄布洛芬",
-      "onboard_time": 1671689551,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 619095,
       "num": 420158,
       "word": "肖战冬至竹林大片",
@@ -259,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 547458,
+      "num": 547458,
+      "word": "杭州街头出现一只4米高的巨大落叶兔",
+      "onboard_time": 1671688171,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 541566,
       "num": 541566,
       "word": "员工因漏打卡11次被公司辞退",
@@ -283,19 +315,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 516571,
-      "num": 516571,
-      "word": "美国宣布向乌克兰提供爱国者导弹",
-      "onboard_time": 1671689131,
-      "rank": 21,
-      "category": "军事,国外要闻"
-    },
-    {
       "raw_hot": 513331,
       "num": 513331,
       "word": "近期我国多位医学大家逝世",
       "onboard_time": 1671635435,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 506439,
+      "num": 506439,
+      "word": "阳后7天是否就没传染性了",
+      "onboard_time": 1671690808,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -411,28 +443,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 408714,
-      "num": 408714,
-      "word": "杭州街头出现一只4米高的巨大落叶兔",
-      "onboard_time": 1671688171,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 406544,
       "num": 406544,
       "word": "龚俊直播换GQ没穿的睡衣",
       "onboard_time": 1671650833,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 402662,
-      "num": 402662,
-      "word": "陈乔恩说别理陆毅他懂个屁",
-      "onboard_time": 1671690513,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 396167,
@@ -481,6 +497,14 @@
       "onboard_time": 1671684212,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 362302,
+      "num": 362302,
+      "word": "何洛洛成功追星张杰",
+      "onboard_time": 1671691471,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 359061,
@@ -547,12 +571,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 320447,
+      "num": 320447,
+      "word": "张婧仪晒冬至十二宫格随拍",
+      "onboard_time": 1671691410,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 314617,
       "num": 314617,
       "word": "符合什么标准才算新冠痊愈",
       "onboard_time": 1671674669,
       "rank": 19,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 311561,
+      "num": 311561,
+      "word": "马化腾称留给某些业务的时间不多了",
+      "onboard_time": 1671690691,
+      "rank": 41,
+      "category": "科技"
     },
     {
       "raw_hot": 309357,
@@ -609,6 +649,14 @@
       "onboard_time": 1671684088,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 291012,
+      "num": 291012,
+      "word": "圣诞写真拍成这样可以退款吗",
+      "onboard_time": 1671692610,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 287955,
@@ -731,6 +779,14 @@
       "category": "财经,科技"
     },
     {
+      "raw_hot": 245520,
+      "num": 245520,
+      "word": "男子回应疑似在无人区感染新冠",
+      "onboard_time": 1671691348,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 242197,
       "num": 242197,
       "word": "微信冬至限时状态",
@@ -777,6 +833,14 @@
       "onboard_time": 1671620312,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 223451,
+      "num": 223451,
+      "word": "张云龙说男人对女人最大的赞美是求婚",
+      "onboard_time": 1671692070,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 221870,
@@ -843,12 +907,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 204183,
+      "num": 204183,
+      "word": "社保局被指让市民在室外排队受冻",
+      "onboard_time": 1671691232,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 203924,
+      "num": 203924,
+      "word": "阳了洗澡要注意什么",
+      "onboard_time": 1671689727,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 200153,
       "num": 200153,
       "word": "张子枫新剧洗澡镜头",
       "onboard_time": 1671629734,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 198414,
+      "num": 198414,
+      "word": "孟美岐加盟为了我们的荣耀",
+      "onboard_time": 1671692432,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 197633,
@@ -883,6 +971,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 193268,
+      "num": 193268,
+      "word": "内娱就该百花齐放",
+      "onboard_time": 1671693150,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 192369,
       "num": 192369,
       "word": "贝利病情出现恶化",
@@ -905,6 +1001,14 @@
       "onboard_time": 1671623732,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 182806,
+      "num": 182806,
+      "word": "如梦之梦",
+      "onboard_time": 1671693030,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 178379,
@@ -963,14 +1067,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 171672,
-      "num": 171672,
-      "word": "阳后7天是否就没传染性了",
-      "onboard_time": 1671690808,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 167953,
       "num": 167953,
       "word": "数九寒天到来",
@@ -985,14 +1081,6 @@
       "onboard_time": 1671668967,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 164722,
-      "num": 164722,
-      "word": "阳了洗澡要注意什么",
-      "onboard_time": 1671689727,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 163897,
@@ -1171,6 +1259,14 @@
       "category": "幽默,音乐"
     },
     {
+      "raw_hot": 135912,
+      "num": 135912,
+      "word": "温州一药店超成本价100倍卖布洛芬",
+      "onboard_time": 1671692190,
+      "rank": 38,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 135747,
       "num": 135747,
       "word": "北京下雪",
@@ -1249,14 +1345,6 @@
       "onboard_time": 1671690691,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 128350,
-      "num": 128350,
-      "word": "马化腾称留给某些业务的时间不多了",
-      "onboard_time": 1671690691,
-      "rank": 41,
-      "category": "科技"
     },
     {
       "raw_hot": 127623,
@@ -1339,6 +1427,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 115629,
+      "num": 115629,
+      "word": "男子把饺子放室外冰冻被狗子全干完",
+      "onboard_time": 1671692969,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 115531,
       "num": 115531,
       "word": "全球多地退烧药短缺",
@@ -1371,12 +1467,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 111123,
+      "num": 111123,
+      "word": "全新赛年奇迹之海",
+      "onboard_time": 1671693331,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 108525,
       "num": 108525,
       "word": "光盘的正确打开方式",
       "onboard_time": 1671687151,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 107656,
+      "num": 107656,
+      "word": "河南周口为市民免费发布洛芬",
+      "onboard_time": 1671692790,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 107366,
@@ -1577,6 +1689,14 @@
       "onboard_time": 1671661455,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 19632,
+      "num": 328761,
+      "word": "你记忆里的家的味道",
+      "onboard_time": 1671692432,
+      "rank": 14,
+      "category": "影视,美食"
     }
   ],
   "hotgov_list": [
