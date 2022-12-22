@@ -1,6 +1,6 @@
 {
   "startTime": 1671380618877,
-  "endTime": 1671727412482,
+  "endTime": 1671729383944,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -3267,6 +3267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 428916,
+      "num": 428916,
+      "word": "长沙某火锅店强制顾客餐后漱口",
+      "onboard_time": 1671725365,
+      "rank": 24,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 428385,
       "num": 428385,
       "word": "半年后的世界杯有中国队了",
@@ -5923,14 +5931,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 229042,
-      "num": 229042,
-      "word": "长沙某火锅店强制顾客餐后漱口",
-      "onboard_time": 1671725365,
-      "rank": 24,
-      "category": "社会新闻,美食"
-    },
-    {
       "raw_hot": 228049,
       "num": 201735,
       "word": "国家一级美术师王希钟去世",
@@ -7208,6 +7208,14 @@
       "word": "NCTDREAM朴秀荣Candy的舞蹈挑战",
       "onboard_time": 1671696572,
       "rank": 32,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 179810,
+      "num": 151909,
+      "word": "戴燕妮竹林绿意古装造型",
+      "onboard_time": 1671729078,
+      "rank": 12,
       "category": "作品衍生"
     },
     {
@@ -9891,6 +9899,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 92324,
+      "num": 64341,
+      "word": "姜云升直播",
+      "onboard_time": 1671726562,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 91834,
       "num": 91834,
       "word": "再开门就是别人的青春了",
@@ -9905,14 +9921,6 @@
       "onboard_time": 1671553643,
       "rank": 38,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 91085,
-      "num": 64341,
-      "word": "姜云升直播",
-      "onboard_time": 1671726562,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 90832,
@@ -10043,6 +10051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 74515,
+      "num": 74515,
+      "word": "女子称买儿童退烧药收到空包裹",
+      "onboard_time": 1671726741,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 73947,
       "num": 73468,
       "word": "一人一句祝福澳门",
@@ -10107,6 +10123,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 62995,
+      "num": 52762,
+      "word": "日式咖喱饭",
+      "onboard_time": 1671724706,
+      "rank": 34,
+      "category": "美食"
+    },
+    {
       "raw_hot": 62564,
       "num": 290663,
       "word": "2个动作帮你增强肺功能",
@@ -10139,12 +10163,12 @@
       "category": "幽默,美食"
     },
     {
-      "raw_hot": 56123,
-      "num": 64064,
-      "word": "女子称买儿童退烧药收到空包裹",
-      "onboard_time": 1671726741,
-      "rank": 44,
-      "category": "社会新闻"
+      "raw_hot": 56380,
+      "num": 90954,
+      "word": "当去你去买奢侈品",
+      "onboard_time": 1671726324,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 55220,
@@ -10161,6 +10185,14 @@
       "onboard_time": 1671561973,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 52064,
+      "num": 52064,
+      "word": "新冠科学排痰姿势",
+      "onboard_time": 1671728060,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 51448,
@@ -10203,12 +10235,12 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 46732,
-      "num": 90954,
-      "word": "当去你去买奢侈品",
-      "onboard_time": 1671726324,
-      "rank": 49,
-      "category": "幽默"
+      "raw_hot": 45072,
+      "num": 45072,
+      "word": "网友称考研民宿房费暴涨近20倍",
+      "onboard_time": 1671728539,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 44565,
