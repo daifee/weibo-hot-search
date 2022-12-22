@@ -1,0 +1,410 @@
+{
+  "runTime": 1671677308787,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3312636,
+        "num": 3312636,
+        "word": "费启鸣向孔雪儿道歉",
+        "onboard_time": 1671674792,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2426687,
+        "num": 2426687,
+        "word": "转阴后咳嗽是一个打扫战场过程",
+        "onboard_time": 1671673828,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26567,
+        "num": 1512381,
+        "word": "2023年都有啥大事",
+        "onboard_time": 1671583107,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1237805,
+        "num": 1237805,
+        "word": "王劲松呼吁医疗资源先留给儿童和老人",
+        "onboard_time": 1671669092,
+        "rank": 3,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 917332,
+        "num": 917332,
+        "word": "为什么阳了之后建议发朋友圈",
+        "onboard_time": 1671664279,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 813808,
+        "num": 813808,
+        "word": "曝C罗决定加盟沙特豪门",
+        "onboard_time": 1671675329,
+        "rank": 5,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 744891,
+        "num": 744891,
+        "word": "新冠痊愈多久没有传染性",
+        "onboard_time": 1671676050,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 710292,
+        "num": 710292,
+        "word": "冬至",
+        "onboard_time": 1671664098,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 682815,
+        "num": 682815,
+        "word": "女子阳后瘦8斤医生称别高兴太早",
+        "onboard_time": 1671638067,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 634725,
+        "num": 634725,
+        "word": "春晚兔圆圆",
+        "onboard_time": 1671672329,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 586223,
+        "num": 586223,
+        "word": "男子酒吧内多次掀开女子衣服引群殴",
+        "onboard_time": 1671673710,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 515179,
+        "num": 515179,
+        "word": "网传连花清瘟防疫方消息不实",
+        "onboard_time": 1671671969,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 441376,
+        "num": 441376,
+        "word": "你家冬至这天吃什么",
+        "onboard_time": 1671666325,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 422718,
+        "num": 422718,
+        "word": "男子地铁上拒戴口罩称阳过不用戴",
+        "onboard_time": 1671668188,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 397035,
+        "num": 397035,
+        "word": "美动物园宣布归还大熊猫丫丫和乐乐",
+        "onboard_time": 1671666804,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 385460,
+        "num": 385460,
+        "word": "赵樱子演的天下第一美人",
+        "onboard_time": 1671636036,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 359612,
+        "num": 359612,
+        "word": "医护哑到几乎失声暖心病人安慰慢慢说",
+        "onboard_time": 1671671969,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 340187,
+        "num": 340187,
+        "word": "真是辛苦了我的免疫系统",
+        "onboard_time": 1671668489,
+        "rank": 17,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 332910,
+        "num": 332910,
+        "word": "要求加强研考考场防疫管理",
+        "onboard_time": 1671668007,
+        "rank": 18,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 303460,
+        "num": 303460,
+        "word": "符合什么标准才算新冠痊愈",
+        "onboard_time": 1671674669,
+        "rank": 19,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 294014,
+        "num": 294014,
+        "word": "篮网半场91分",
+        "onboard_time": 1671674369,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 284518,
+        "num": 284518,
+        "word": "张文宏称基层医院提升救治能力很关键",
+        "onboard_time": 1671672869,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276475,
+        "num": 276475,
+        "word": "把宝宝烧的都开口说话了",
+        "onboard_time": 1671673710,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 271769,
+        "num": 271769,
+        "word": "曝药店免费发药被人抢夺无人阻拦",
+        "onboard_time": 1671627272,
+        "rank": 23,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 266060,
+        "num": 266060,
+        "word": "奶奶不慎将梯子踢倒被挂大门横梁",
+        "onboard_time": 1671668066,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263890,
+        "num": 263890,
+        "word": "王源官宣加盟江苏卫视跨年",
+        "onboard_time": 1671674129,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 242197,
+        "num": 242197,
+        "word": "微信冬至限时状态",
+        "onboard_time": 1671674429,
+        "rank": 26,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 222790,
+        "num": 222790,
+        "word": "药店布洛芬拆零卖涨价近18倍",
+        "onboard_time": 1671671911,
+        "rank": 27,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 210254,
+        "num": 210254,
+        "word": "龚俊直播换GQ没穿的睡衣",
+        "onboard_time": 1671650833,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209158,
+        "num": 209158,
+        "word": "女生发高烧4只猫趴身上赖着不走",
+        "onboard_time": 1671632138,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207012,
+        "num": 207012,
+        "word": "张艺兴新歌没什么能给你",
+        "onboard_time": 1671676772,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 203723,
+        "num": 203723,
+        "word": "研究者回应过敏体质不易感染",
+        "onboard_time": 1671671430,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201979,
+        "num": 201979,
+        "word": "员工阳了公司能辞退吗",
+        "onboard_time": 1671676472,
+        "rank": 32,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 173066,
+        "num": 173066,
+        "word": "黄雨萱李子维双向奔赴",
+        "onboard_time": 1671677072,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 171879,
+        "num": 171879,
+        "word": "国漫出路在哪里",
+        "onboard_time": 1671674971,
+        "rank": 34,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 170192,
+        "num": 170192,
+        "word": "女子客厅看电视阳性老公投屏求救",
+        "onboard_time": 1671634117,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168112,
+        "num": 168112,
+        "word": "春晚吉祥物一处设计来源最早兔形动物",
+        "onboard_time": 1671673349,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 165408,
+        "num": 165408,
+        "word": "新冠感染者食养建议菜谱",
+        "onboard_time": 1671670292,
+        "rank": 37,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 158369,
+        "num": 158369,
+        "word": "阿根廷队拒绝会面总统",
+        "onboard_time": 1671633040,
+        "rank": 38,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 152415,
+        "num": 152415,
+        "word": "赵丽颖用实力证明圆脸也能当主角",
+        "onboard_time": 1671635435,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 144351,
+        "num": 144351,
+        "word": "影视剧雪景封神名场面",
+        "onboard_time": 1671677252,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 142523,
+        "num": 142523,
+        "word": "这才是真的羊了",
+        "onboard_time": 1671618630,
+        "rank": 41,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 133269,
+        "num": 133269,
+        "word": "篮网半场领先勇士40分",
+        "onboard_time": 1671675513,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124276,
+        "num": 124276,
+        "word": "刘昊然县委大院四宫格剧照",
+        "onboard_time": 1671677192,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 119067,
+        "num": 119067,
+        "word": "朴志晟的核心力量",
+        "onboard_time": 1671674129,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 115168,
+        "num": 115168,
+        "word": "北斗女神说上班路上用了25颗卫星",
+        "onboard_time": 1671677131,
+        "rank": 45,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 104528,
+        "num": 113086,
+        "word": "40万豪华纯电SUV什么样",
+        "onboard_time": 1671676952,
+        "rank": 46,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 108455,
+        "num": 108455,
+        "word": "章子怡获金莲花最佳女主角奖",
+        "onboard_time": 1671654492,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 103966,
+        "num": 103966,
+        "word": "泽连斯基与拜登举行会晤",
+        "onboard_time": 1671666203,
+        "rank": 48,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 103840,
+        "num": 103840,
+        "word": "朋友阳后我帮她带了5天孩子",
+        "onboard_time": 1671663978,
+        "rank": 49,
+        "category": "社会新闻,幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#2022看见平凡微光#"
+    }
+  }
+}

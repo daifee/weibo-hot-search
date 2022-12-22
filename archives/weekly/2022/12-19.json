@@ -1,6 +1,6 @@
 {
   "startTime": 1671380618877,
-  "endTime": 1671676696096,
+  "endTime": 1671677308787,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -155,8 +155,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 3282006,
-      "num": 3282006,
+      "raw_hot": 3312636,
+      "num": 3312636,
       "word": "费启鸣向孔雪儿道歉",
       "onboard_time": 1671674792,
       "rank": 0,
@@ -243,6 +243,14 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 2426687,
+      "num": 2426687,
+      "word": "转阴后咳嗽是一个打扫战场过程",
+      "onboard_time": 1671673828,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2332650,
       "num": 2332650,
       "word": "C罗 遗憾",
@@ -273,14 +281,6 @@
       "onboard_time": 1671618630,
       "rank": 36,
       "category": "社会新闻,幽默"
-    },
-    {
-      "raw_hot": 2147126,
-      "num": 2147126,
-      "word": "转阴后咳嗽是一个打扫战场过程",
-      "onboard_time": 1671673828,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2145367,
@@ -1315,6 +1315,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 813808,
+      "num": 813808,
+      "word": "曝C罗决定加盟沙特豪门",
+      "onboard_time": 1671675329,
+      "rank": 10,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 811277,
       "num": 811277,
       "word": "多批布洛芬运达北京发往各区",
@@ -1513,6 +1521,14 @@
       "onboard_time": 1671499470,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 744891,
+      "num": 744891,
+      "word": "新冠痊愈多久没有传染性",
+      "onboard_time": 1671676050,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 744674,
@@ -1819,14 +1835,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 667428,
-      "num": 535744,
-      "word": "曝C罗决定加盟沙特豪门",
-      "onboard_time": 1671675329,
-      "rank": 10,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 664258,
       "num": 664258,
       "word": "N95口罩为何又一罩难求",
@@ -2067,6 +2075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 586223,
+      "num": 586223,
+      "word": "男子酒吧内多次掀开女子衣服引群殴",
+      "onboard_time": 1671673710,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 580455,
       "num": 580455,
       "word": "伊甸园",
@@ -2177,14 +2193,6 @@
       "onboard_time": 1671508469,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 550526,
-      "num": 550526,
-      "word": "男子酒吧内多次掀开女子衣服引群殴",
-      "onboard_time": 1671673710,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 546059,
@@ -3683,14 +3691,6 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 312714,
-      "num": 312714,
-      "word": "新冠痊愈多久没有传染性",
-      "onboard_time": 1671676050,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 312065,
       "num": 312065,
       "word": "江苏卫视跨年VR绘画阵容猜想",
@@ -4211,6 +4211,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 276475,
+      "num": 276475,
+      "word": "把宝宝烧的都开口说话了",
+      "onboard_time": 1671673710,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 275086,
       "num": 1717463,
       "word": "如何科学止咳",
@@ -4587,14 +4595,6 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 247446,
-      "num": 247446,
-      "word": "把宝宝烧的都开口说话了",
-      "onboard_time": 1671673710,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
       "raw_hot": 246497,
       "num": 246497,
       "word": "怪兽充电一年亏了4个亿",
@@ -4617,6 +4617,14 @@
       "onboard_time": 1671505289,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 242197,
+      "num": 242197,
+      "word": "微信冬至限时状态",
+      "onboard_time": 1671674429,
+      "rank": 28,
+      "category": "科技"
     },
     {
       "raw_hot": 241769,
@@ -4713,14 +4721,6 @@
       "onboard_time": 1671431909,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 237021,
-      "num": 237021,
-      "word": "微信冬至限时状态",
-      "onboard_time": 1671674429,
-      "rank": 28,
-      "category": "科技"
     },
     {
       "raw_hot": 236169,
@@ -5147,6 +5147,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 207012,
+      "num": 207012,
+      "word": "张艺兴新歌没什么能给你",
+      "onboard_time": 1671676772,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 206865,
       "num": 206865,
       "word": "AG 极光",
@@ -5249,6 +5257,14 @@
       "onboard_time": 1671594632,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 201979,
+      "num": 201979,
+      "word": "员工阳了公司能辞退吗",
+      "onboard_time": 1671676472,
+      "rank": 41,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 201573,
@@ -6043,6 +6059,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 173066,
+      "num": 173066,
+      "word": "黄雨萱李子维双向奔赴",
+      "onboard_time": 1671677072,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 172854,
       "num": 165702,
       "word": "梅西承载了多少人的青春",
@@ -6089,6 +6113,14 @@
       "onboard_time": 1671449249,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 171879,
+      "num": 171879,
+      "word": "国漫出路在哪里",
+      "onboard_time": 1671674971,
+      "rank": 37,
+      "category": "动漫"
     },
     {
       "raw_hot": 171058,
@@ -6401,14 +6433,6 @@
       "onboard_time": 1671420390,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 158313,
-      "num": 158313,
-      "word": "国漫出路在哪里",
-      "onboard_time": 1671674971,
-      "rank": 37,
-      "category": "动漫"
     },
     {
       "raw_hot": 158254,
@@ -6857,6 +6881,14 @@
       "onboard_time": 1671580586,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 144351,
+      "num": 144351,
+      "word": "影视剧雪景封神名场面",
+      "onboard_time": 1671677252,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 144279,
@@ -7443,6 +7475,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 124276,
+      "num": 124276,
+      "word": "刘昊然县委大院四宫格剧照",
+      "onboard_time": 1671677192,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 124199,
       "num": 124199,
       "word": "张家港现震撼潮汐树似大地之脉",
@@ -7505,14 +7545,6 @@
       "onboard_time": 1671381387,
       "rank": 48,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 120516,
-      "num": 120516,
-      "word": "员工阳了公司能辞退吗",
-      "onboard_time": 1671676472,
-      "rank": 41,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 119901,
@@ -7633,6 +7665,14 @@
       "onboard_time": 1671449551,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 115168,
+      "num": 115168,
+      "word": "北斗女神说上班路上用了25颗卫星",
+      "onboard_time": 1671677131,
+      "rank": 45,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 114361,
@@ -7873,6 +7913,14 @@
       "onboard_time": 1671629196,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 104528,
+      "num": 113086,
+      "word": "40万豪华纯电SUV什么样",
+      "onboard_time": 1671676952,
+      "rank": 46,
+      "category": "科技"
     },
     {
       "raw_hot": 103346,
