@@ -1,0 +1,410 @@
+{
+  "runTime": 1671673934707,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1520080,
+        "num": 1520080,
+        "word": "为什么阳了之后建议发朋友圈",
+        "onboard_time": 1671664279,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1029292,
+        "num": 1029292,
+        "word": "男子地铁上拒戴口罩称阳过不用戴",
+        "onboard_time": 1671668188,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33867,
+        "num": 988163,
+        "word": "2023年都有啥大事",
+        "onboard_time": 1671583107,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1998040,
+        "num": 976987,
+        "word": "王劲松呼吁医疗资源先留给儿童和老人",
+        "onboard_time": 1671669092,
+        "rank": 3,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 951351,
+        "num": 951351,
+        "word": "冬至",
+        "onboard_time": 1671664098,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 881850,
+        "num": 881850,
+        "word": "女子阳后瘦8斤医生称别高兴太早",
+        "onboard_time": 1671638067,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 710446,
+        "num": 710446,
+        "word": "春晚兔圆圆",
+        "onboard_time": 1671672329,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 692379,
+        "num": 692379,
+        "word": "美动物园宣布归还大熊猫丫丫和乐乐",
+        "onboard_time": 1671666804,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 652716,
+        "num": 652716,
+        "word": "赵樱子演的天下第一美人",
+        "onboard_time": 1671636036,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 646725,
+        "num": 646725,
+        "word": "要求加强研考考场防疫管理",
+        "onboard_time": 1671668007,
+        "rank": 9,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 604324,
+        "num": 604324,
+        "word": "奶奶不慎将梯子踢倒被挂大门横梁",
+        "onboard_time": 1671668066,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 549719,
+        "num": 549719,
+        "word": "网传连花清瘟防疫方消息不实",
+        "onboard_time": 1671671969,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 543432,
+        "num": 543432,
+        "word": "你家冬至这天吃什么",
+        "onboard_time": 1671666325,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 526080,
+        "num": 526080,
+        "word": "真是辛苦了我的免疫系统",
+        "onboard_time": 1671668489,
+        "rank": 13,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 418262,
+        "num": 418262,
+        "word": "新冠感染者食养建议菜谱",
+        "onboard_time": 1671670292,
+        "rank": 14,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 403889,
+        "num": 403889,
+        "word": "龚俊直播换GQ没穿的睡衣",
+        "onboard_time": 1671650833,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 357708,
+        "num": 357708,
+        "word": "女生发高烧4只猫趴身上赖着不走",
+        "onboard_time": 1671632138,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345475,
+        "num": 345475,
+        "word": "医护哑到几乎失声暖心病人安慰慢慢说",
+        "onboard_time": 1671671969,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334700,
+        "num": 334700,
+        "word": "这才是真的羊了",
+        "onboard_time": 1671618630,
+        "rank": 18,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 309357,
+        "num": 309357,
+        "word": "药店布洛芬拆零卖涨价近18倍",
+        "onboard_time": 1671671911,
+        "rank": 19,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 412559,
+        "num": 308840,
+        "word": "曝药店免费发药被人抢夺无人阻拦",
+        "onboard_time": 1671627272,
+        "rank": 20,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 307687,
+        "num": 307687,
+        "word": "阿根廷队拒绝会面总统",
+        "onboard_time": 1671633040,
+        "rank": 21,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 258028,
+        "num": 258028,
+        "word": "冬至是大吉之日",
+        "onboard_time": 1671668308,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254250,
+        "num": 254250,
+        "word": "研究者回应过敏体质不易感染",
+        "onboard_time": 1671671430,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248046,
+        "num": 248046,
+        "word": "这葱姜水怎么跟别人不一样啊",
+        "onboard_time": 1671668848,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 235209,
+        "num": 235209,
+        "word": "赵丽颖用实力证明圆脸也能当主角",
+        "onboard_time": 1671635435,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 201756,
+        "num": 201756,
+        "word": "泽连斯基与拜登举行会晤",
+        "onboard_time": 1671666203,
+        "rank": 26,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 198012,
+        "num": 198012,
+        "word": "张文宏称基层医院提升救治能力很关键",
+        "onboard_time": 1671672869,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197633,
+        "num": 197633,
+        "word": "勇士vs篮网",
+        "onboard_time": 1671669690,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195866,
+        "num": 195866,
+        "word": "朋友阳后我帮她带了5天孩子",
+        "onboard_time": 1671663978,
+        "rank": 29,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 189593,
+        "num": 189593,
+        "word": "女子感染新冠高烧后满脸发黑",
+        "onboard_time": 1671621092,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188772,
+        "num": 188772,
+        "word": "复阳和再次感染的区别",
+        "onboard_time": 1671631600,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183105,
+        "num": 183105,
+        "word": "春晚吉祥物一处设计来源最早兔形动物",
+        "onboard_time": 1671673349,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 171848,
+        "num": 171848,
+        "word": "女子送邻居退烧药意外收到鲜花",
+        "onboard_time": 1671671311,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165410,
+        "num": 165410,
+        "word": "车保罗的演技名场面",
+        "onboard_time": 1671668967,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 163080,
+        "num": 163080,
+        "word": "梅晓歌坚决关停污染企业",
+        "onboard_time": 1671667946,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 160127,
+        "num": 160127,
+        "word": "张子枫陈佑希遭猴脸男袭击",
+        "onboard_time": 1671662294,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 155146,
+        "num": 155146,
+        "word": "阳了之后洗澡会让病情加重吗",
+        "onboard_time": 1671621872,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151073,
+        "num": 151073,
+        "word": "姐姐怀孕弟弟抗原阳性立马去酒店",
+        "onboard_time": 1671617911,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146222,
+        "num": 146222,
+        "word": "男子酒吧内多次掀开女子衣服引群殴",
+        "onboard_time": 1671673710,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143677,
+        "num": 143677,
+        "word": "近期我国多位医学大家逝世",
+        "onboard_time": 1671635435,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138453,
+        "num": 138453,
+        "word": "章子怡获金莲花最佳女主角奖",
+        "onboard_time": 1671654492,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 136549,
+        "num": 136549,
+        "word": "女子客厅看电视阳性老公投屏求救",
+        "onboard_time": 1671634117,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135281,
+        "num": 135281,
+        "word": "莱万荣膺金足奖",
+        "onboard_time": 1671671008,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126825,
+        "num": 126825,
+        "word": "把宝宝烧的都开口说话了",
+        "onboard_time": 1671673710,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 125561,
+        "num": 125561,
+        "word": "卷王姆巴佩回大巴黎训练",
+        "onboard_time": 1671626312,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125209,
+        "num": 125209,
+        "word": "转阴后咳嗽是一个打扫战场过程",
+        "onboard_time": 1671673828,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123536,
+        "num": 123536,
+        "word": "2022十大BGM",
+        "onboard_time": 1671669027,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 122957,
+        "num": 122957,
+        "word": "重庆嘉陵江现梦幻云海列车",
+        "onboard_time": 1671665962,
+        "rank": 48,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 121293,
+        "num": 121293,
+        "word": "刘亦菲蓝色抹胸纱裙",
+        "onboard_time": 1671620670,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记看中国#"
+    }
+  }
+}

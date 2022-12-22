@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/12/01 00:28:49 ~ 2022/12/22 09:27:01
+本榜单时间：2022/12/01 00:28:49 ~ 2022/12/22 09:52:14
 </p>
 </blockquote>
 <p>
@@ -4011,6 +4011,12 @@ C罗背影（热度：1040351）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%9C%B0%E9%93%81%E4%B8%8A%E6%8B%92%E6%88%B4%E5%8F%A3%E7%BD%A9%E7%A7%B0%E9%98%B3%E8%BF%87%E4%B8%8D%E7%94%A8%E6%88%B4%23" target="weibo">
+男子地铁上拒戴口罩称阳过不用戴（热度：1029292）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E4%B9%B0%E4%BA%86200%E5%BC%A0%E8%99%9E%E4%B9%A6%E6%AC%A3EP%23" target="weibo">
 白鹿买了200张虞书欣EP（热度：1027676）
 </a>
@@ -4607,12 +4613,6 @@ N95口罩搜索暴涨715%（热度：940535）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A8%8B%E5%BA%8F%E5%91%98%E4%B8%BA%E6%B3%84%E6%84%A4%E7%A6%BB%E8%81%8C%E5%90%8E%E9%94%81%E5%85%AC%E5%8F%B8%E7%A1%AC%E7%9B%98%23" target="weibo">
 程序员为泄愤离职后锁公司硬盘（热度：938663）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%9C%B0%E9%93%81%E4%B8%8A%E6%8B%92%E6%88%B4%E5%8F%A3%E7%BD%A9%E7%A7%B0%E9%98%B3%E8%BF%87%E4%B8%8D%E7%94%A8%E6%88%B4%23" target="weibo">
-男子地铁上拒戴口罩称阳过不用戴（热度：937164）
 </a>
 </li>
 

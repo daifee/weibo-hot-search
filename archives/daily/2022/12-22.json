@@ -1,6 +1,6 @@
 {
   "startTime": 1671639995248,
-  "endTime": 1671672421942,
+  "endTime": 1671673934707,
   "band_list": [
     {
       "raw_hot": 2449033,
@@ -43,8 +43,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 937164,
-      "num": 937164,
+      "raw_hot": 1029292,
+      "num": 1029292,
       "word": "男子地铁上拒戴口罩称阳过不用戴",
       "onboard_time": 1671668188,
       "rank": 5,
@@ -75,12 +75,28 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 710446,
+      "num": 710446,
+      "word": "春晚兔圆圆",
+      "onboard_time": 1671672329,
+      "rank": 29,
+      "category": "综艺,社会新闻"
+    },
+    {
       "raw_hot": 690818,
       "num": 690818,
       "word": "奶奶不慎将梯子踢倒被挂大门横梁",
       "onboard_time": 1671668066,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 652716,
+      "num": 652716,
+      "word": "赵樱子演的天下第一美人",
+      "onboard_time": 1671636036,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 651212,
@@ -91,14 +107,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 612360,
-      "num": 612360,
-      "word": "赵樱子演的天下第一美人",
-      "onboard_time": 1671636036,
-      "rank": 3,
-      "category": "影视"
-    },
-    {
       "raw_hot": 591048,
       "num": 591048,
       "word": "龚俊感染新冠已康复",
@@ -107,20 +115,28 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 549719,
+      "num": 549719,
+      "word": "网传连花清瘟防疫方消息不实",
+      "onboard_time": 1671671969,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 526080,
+      "num": 526080,
+      "word": "真是辛苦了我的免疫系统",
+      "onboard_time": 1671668489,
+      "rank": 11,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 513331,
       "num": 513331,
       "word": "近期我国多位医学大家逝世",
       "onboard_time": 1671635435,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 469676,
-      "num": 469676,
-      "word": "真是辛苦了我的免疫系统",
-      "onboard_time": 1671668489,
-      "rank": 11,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 426553,
@@ -147,6 +163,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 418262,
+      "num": 418262,
+      "word": "新冠感染者食养建议菜谱",
+      "onboard_time": 1671670292,
+      "rank": 14,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 406544,
       "num": 406544,
       "word": "龚俊直播换GQ没穿的睡衣",
@@ -171,12 +195,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 360126,
-      "num": 360126,
-      "word": "新冠感染者食养建议菜谱",
-      "onboard_time": 1671670292,
-      "rank": 14,
-      "category": "社会新闻,美食"
+      "raw_hot": 345475,
+      "num": 345475,
+      "word": "医护哑到几乎失声暖心病人安慰慢慢说",
+      "onboard_time": 1671671969,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 334472,
@@ -185,6 +209,14 @@
       "onboard_time": 1671663978,
       "rank": 11,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 309357,
+      "num": 309357,
+      "word": "药店布洛芬拆零卖涨价近18倍",
+      "onboard_time": 1671671911,
+      "rank": 35,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 301034,
@@ -232,6 +264,14 @@
       "word": "补充维C能预防新冠吗",
       "onboard_time": 1671634598,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 254250,
+      "num": 254250,
+      "word": "研究者回应过敏体质不易感染",
+      "onboard_time": 1671671430,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -307,20 +347,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 204467,
-      "num": 175648,
-      "word": "研究者回应过敏体质不易感染",
-      "onboard_time": 1671671430,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 200153,
       "num": 200153,
       "word": "张子枫新剧洗澡镜头",
       "onboard_time": 1671629734,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 198012,
+      "num": 198012,
+      "word": "张文宏称基层医院提升救治能力很关键",
+      "onboard_time": 1671672869,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 197633,
+      "num": 197633,
+      "word": "勇士vs篮网",
+      "onboard_time": 1671669690,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 197193,
@@ -339,28 +387,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 183105,
+      "num": 183105,
+      "word": "春晚吉祥物一处设计来源最早兔形动物",
+      "onboard_time": 1671673349,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 182809,
       "num": 182809,
       "word": "60万粉丝女网红偷衣物被抓",
       "onboard_time": 1671623732,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 182066,
-      "num": 175616,
-      "word": "网传连花清瘟防疫方消息不实",
-      "onboard_time": 1671671969,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 176087,
-      "num": 176087,
-      "word": "春晚兔圆圆",
-      "onboard_time": 1671672329,
-      "rank": 29,
-      "category": "综艺,社会新闻"
     },
     {
       "raw_hot": 174978,
@@ -387,12 +427,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 166516,
-      "num": 166516,
-      "word": "药店布洛芬拆零卖涨价近18倍",
-      "onboard_time": 1671671911,
-      "rank": 35,
-      "category": "社会新闻,财经"
+      "raw_hot": 165410,
+      "num": 165410,
+      "word": "车保罗的演技名场面",
+      "onboard_time": 1671668967,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 163897,
@@ -409,14 +449,6 @@
       "onboard_time": 1671626255,
       "rank": 26,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 156780,
-      "num": 156780,
-      "word": "勇士vs篮网",
-      "onboard_time": 1671669690,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 155143,
@@ -451,6 +483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 146222,
+      "num": 146222,
+      "word": "男子酒吧内多次掀开女子衣服引群殴",
+      "onboard_time": 1671673710,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145028,
       "num": 145028,
       "word": "阿根廷球员希望冠军属于人民",
@@ -467,8 +507,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 137840,
-      "num": 137840,
+      "raw_hot": 138453,
+      "num": 138453,
       "word": "章子怡获金莲花最佳女主角奖",
       "onboard_time": 1671654492,
       "rank": 40,
@@ -523,14 +563,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 129374,
-      "num": 129374,
-      "word": "医护哑到几乎失声暖心病人安慰慢慢说",
-      "onboard_time": 1671671969,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 127623,
       "num": 127623,
       "word": "心态是战胜病毒的良药",
@@ -539,12 +571,36 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 126825,
+      "num": 126825,
+      "word": "把宝宝烧的都开口说话了",
+      "onboard_time": 1671673710,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 125209,
+      "num": 125209,
+      "word": "转阴后咳嗽是一个打扫战场过程",
+      "onboard_time": 1671673828,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124470,
       "num": 124470,
       "word": "冬至快乐",
       "onboard_time": 1671671253,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 123536,
+      "num": 123536,
+      "word": "2022十大BGM",
+      "onboard_time": 1671669027,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 121400,
@@ -569,14 +625,6 @@
       "onboard_time": 1671638668,
       "rank": 43,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 116726,
-      "num": 116726,
-      "word": "车保罗的演技名场面",
-      "onboard_time": 1671668967,
-      "rank": 48,
-      "category": "影视"
     },
     {
       "raw_hot": 111760,
