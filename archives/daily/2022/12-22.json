@@ -1,6 +1,6 @@
 {
   "startTime": 1671639995248,
-  "endTime": 1671679177931,
+  "endTime": 1671680025617,
   "band_list": [
     {
       "raw_hot": 3312636,
@@ -43,8 +43,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1290957,
-      "num": 1290957,
+      "raw_hot": 1425027,
+      "num": 1425027,
       "word": "新冠痊愈多久没有传染性",
       "onboard_time": 1671676050,
       "rank": 20,
@@ -123,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 686596,
+      "num": 686596,
+      "word": "员工阳了公司能辞退吗",
+      "onboard_time": 1671676472,
+      "rank": 41,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 665131,
       "num": 665131,
       "word": "男子酒吧内多次掀开女子衣服引群殴",
@@ -163,14 +171,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 565078,
-      "num": 565078,
-      "word": "员工阳了公司能辞退吗",
-      "onboard_time": 1671676472,
-      "rank": 41,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 526080,
       "num": 526080,
       "word": "真是辛苦了我的免疫系统",
@@ -193,6 +193,14 @@
       "onboard_time": 1671678451,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 472792,
+      "num": 472792,
+      "word": "长相思全员飘雪故事感",
+      "onboard_time": 1671678631,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 426553,
@@ -235,20 +243,20 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 416766,
+      "num": 416766,
+      "word": "黄雨萱李子维双向奔赴",
+      "onboard_time": 1671677072,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 411777,
       "num": 411777,
       "word": "王源说我在江苏卫视2023跨年演唱会等你",
       "onboard_time": 1671678271,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 408817,
-      "num": 408817,
-      "word": "黄雨萱李子维双向奔赴",
-      "onboard_time": 1671677072,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 406544,
@@ -259,20 +267,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 405779,
-      "num": 405779,
-      "word": "长相思全员飘雪故事感",
-      "onboard_time": 1671678631,
-      "rank": 16,
-      "category": "影视"
-    },
-    {
       "raw_hot": 393347,
       "num": 393347,
       "word": "女子客厅看电视阳性老公投屏求救",
       "onboard_time": 1671634117,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 371382,
+      "num": 371382,
+      "word": "把宝宝烧的都开口说话了",
+      "onboard_time": 1671673710,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 368391,
@@ -283,12 +291,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 355494,
-      "num": 355494,
-      "word": "把宝宝烧的都开口说话了",
-      "onboard_time": 1671673710,
-      "rank": 44,
-      "category": "情感"
+      "raw_hot": 349589,
+      "num": 349589,
+      "word": "法官称律师说话太快像放屁",
+      "onboard_time": 1671678150,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 338047,
@@ -339,6 +347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 302164,
+      "num": 302164,
+      "word": "王鹤棣陈钰琪浮图缘新海报",
+      "onboard_time": 1671679950,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 301034,
       "num": 301034,
       "word": "魏大勋直播",
@@ -385,6 +401,22 @@
       "onboard_time": 1671617911,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 272194,
+      "num": 216306,
+      "word": "安崎签约索尼音乐",
+      "onboard_time": 1671679833,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 267516,
+      "num": 215084,
+      "word": "丁禹兮大理寺少卿游打戏镜头",
+      "onboard_time": 1671678333,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 257186,
@@ -459,14 +491,6 @@
       "category": "幽默,影视"
     },
     {
-      "raw_hot": 232215,
-      "num": 215084,
-      "word": "丁禹兮大理寺少卿游打戏镜头",
-      "onboard_time": 1671678333,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 225854,
       "num": 225854,
       "word": "阿根廷门将曾要求C罗主罚点球",
@@ -475,12 +499,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 215429,
-      "num": 215429,
-      "word": "法官称律师说话太快像放屁",
-      "onboard_time": 1671678150,
-      "rank": 29,
-      "category": "社会新闻"
+      "raw_hot": 221870,
+      "num": 221870,
+      "word": "成都幼儿园小学等12月30日后开始放假",
+      "onboard_time": 1671678991,
+      "rank": 42,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 214896,
@@ -571,6 +595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 178379,
+      "num": 178379,
+      "word": "一直咳嗽咳痰怎么办",
+      "onboard_time": 1671679232,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 174978,
       "num": 174978,
       "word": "女子送邻居退烧药意外收到鲜花",
@@ -619,6 +651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 163771,
+      "num": 163771,
+      "word": "南北方毒株致病力没有太大区别",
+      "onboard_time": 1671679712,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162992,
       "num": 162992,
       "word": "刘宇宁向风而行引力MV",
@@ -635,6 +675,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 160263,
+      "num": 160263,
+      "word": "江苏卫视跨年首波阵容官宣",
+      "onboard_time": 1671679591,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 159805,
       "num": 159805,
       "word": "一位成年人刚刚下单了",
@@ -649,14 +697,6 @@
       "onboard_time": 1671677312,
       "rank": 41,
       "category": "美食"
-    },
-    {
-      "raw_hot": 158328,
-      "num": 158328,
-      "word": "成都幼儿园小学等12月30日后开始放假",
-      "onboard_time": 1671678991,
-      "rank": 42,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 155143,
@@ -721,6 +761,14 @@
       "onboard_time": 1671679172,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 139896,
+      "num": 139896,
+      "word": "闪耀暖暖",
+      "onboard_time": 1671679531,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 139312,

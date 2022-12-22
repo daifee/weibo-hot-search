@@ -1,0 +1,410 @@
+{
+  "runTime": 1671680025617,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2588547,
+        "num": 2588547,
+        "word": "费启鸣向孔雪儿道歉",
+        "onboard_time": 1671674792,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2329299,
+        "num": 2329299,
+        "word": "转阴后咳嗽是一个打扫战场过程",
+        "onboard_time": 1671673828,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23297,
+        "num": 1624257,
+        "word": "2023年都有啥大事",
+        "onboard_time": 1671583107,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1425027,
+        "num": 1425027,
+        "word": "新冠痊愈多久没有传染性",
+        "onboard_time": 1671676050,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 909992,
+        "num": 909992,
+        "word": "王劲松呼吁医疗资源先留给儿童和老人",
+        "onboard_time": 1671669092,
+        "rank": 4,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 857360,
+        "num": 857360,
+        "word": "曝C罗决定加盟沙特豪门",
+        "onboard_time": 1671675329,
+        "rank": 5,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 721332,
+        "num": 721332,
+        "word": "为什么阳了之后建议发朋友圈",
+        "onboard_time": 1671664279,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 686596,
+        "num": 686596,
+        "word": "员工阳了公司能辞退吗",
+        "onboard_time": 1671676472,
+        "rank": 7,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 632640,
+        "num": 632640,
+        "word": "冬至",
+        "onboard_time": 1671664098,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 572470,
+        "num": 572470,
+        "word": "男子酒吧内多次掀开女子衣服引群殴",
+        "onboard_time": 1671673710,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 495491,
+        "num": 495491,
+        "word": "女子阳后瘦8斤医生称别高兴太早",
+        "onboard_time": 1671638067,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 472792,
+        "num": 472792,
+        "word": "长相思全员飘雪故事感",
+        "onboard_time": 1671678631,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 416766,
+        "num": 416766,
+        "word": "黄雨萱李子维双向奔赴",
+        "onboard_time": 1671677072,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 393854,
+        "num": 393854,
+        "word": "春晚兔圆圆",
+        "onboard_time": 1671672329,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 383082,
+        "num": 383082,
+        "word": "王源说我在江苏卫视2023跨年演唱会等你",
+        "onboard_time": 1671678271,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 376124,
+        "num": 376124,
+        "word": "你家冬至这天吃什么",
+        "onboard_time": 1671666325,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371382,
+        "num": 371382,
+        "word": "把宝宝烧的都开口说话了",
+        "onboard_time": 1671673710,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 354349,
+        "num": 354349,
+        "word": "青海玛多5.0级地震",
+        "onboard_time": 1671678451,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 349589,
+        "num": 349589,
+        "word": "法官称律师说话太快像放屁",
+        "onboard_time": 1671678150,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317299,
+        "num": 317299,
+        "word": "美动物园宣布归还大熊猫丫丫和乐乐",
+        "onboard_time": 1671666804,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335703,
+        "num": 313050,
+        "word": "刘昊然县委大院四宫格剧照",
+        "onboard_time": 1671677192,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 302164,
+        "num": 302164,
+        "word": "王鹤棣陈钰琪浮图缘新海报",
+        "onboard_time": 1671679950,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 288233,
+        "num": 288233,
+        "word": "赵樱子演的天下第一美人",
+        "onboard_time": 1671636036,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 281081,
+        "num": 281081,
+        "word": "真是辛苦了我的免疫系统",
+        "onboard_time": 1671668489,
+        "rank": 23,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 269380,
+        "num": 269380,
+        "word": "网传连花清瘟防疫方消息不实",
+        "onboard_time": 1671671969,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269243,
+        "num": 269243,
+        "word": "男子地铁上拒戴口罩称阳过不用戴",
+        "onboard_time": 1671668188,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264828,
+        "num": 264828,
+        "word": "要求加强研考考场防疫管理",
+        "onboard_time": 1671668007,
+        "rank": 26,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 255557,
+        "num": 255557,
+        "word": "符合什么标准才算新冠痊愈",
+        "onboard_time": 1671674669,
+        "rank": 27,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 239087,
+        "num": 239087,
+        "word": "篮网半场91分",
+        "onboard_time": 1671674369,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221870,
+        "num": 221870,
+        "word": "成都幼儿园小学等12月30日后开始放假",
+        "onboard_time": 1671678991,
+        "rank": 29,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 272194,
+        "num": 216306,
+        "word": "安崎签约索尼音乐",
+        "onboard_time": 1671679833,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267516,
+        "num": 209907,
+        "word": "丁禹兮大理寺少卿游打戏镜头",
+        "onboard_time": 1671678333,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 234215,
+        "num": 209271,
+        "word": "张艺兴新歌没什么能给你",
+        "onboard_time": 1671676772,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 200871,
+        "num": 200871,
+        "word": "奶奶不慎将梯子踢倒被挂大门横梁",
+        "onboard_time": 1671668066,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178379,
+        "num": 178379,
+        "word": "一直咳嗽咳痰怎么办",
+        "onboard_time": 1671679232,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178175,
+        "num": 178175,
+        "word": "贝利病情出现恶化",
+        "onboard_time": 1671677730,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177032,
+        "num": 177032,
+        "word": "影视剧雪景封神名场面",
+        "onboard_time": 1671677252,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 175197,
+        "num": 175197,
+        "word": "医护哑到几乎失声暖心病人安慰慢慢说",
+        "onboard_time": 1671671969,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175116,
+        "num": 175116,
+        "word": "张文宏称基层医院提升救治能力很关键",
+        "onboard_time": 1671672869,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172245,
+        "num": 172245,
+        "word": "曝药店免费发药被人抢夺无人阻拦",
+        "onboard_time": 1671627272,
+        "rank": 39,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 166922,
+        "num": 166922,
+        "word": "女生发高烧4只猫趴身上赖着不走",
+        "onboard_time": 1671632138,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163771,
+        "num": 163771,
+        "word": "南北方毒株致病力没有太大区别",
+        "onboard_time": 1671679712,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162797,
+        "num": 162797,
+        "word": "微信冬至限时状态",
+        "onboard_time": 1671674429,
+        "rank": 42,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 160263,
+        "num": 160263,
+        "word": "江苏卫视跨年首波阵容官宣",
+        "onboard_time": 1671679591,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158592,
+        "num": 158592,
+        "word": "国漫出路在哪里",
+        "onboard_time": 1671674971,
+        "rank": 44,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 146984,
+        "num": 146984,
+        "word": "女子客厅看电视阳性老公投屏求救",
+        "onboard_time": 1671634117,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145297,
+        "num": 145297,
+        "word": "龚俊直播换GQ没穿的睡衣",
+        "onboard_time": 1671650833,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143480,
+        "num": 143480,
+        "word": "北斗女神说上班路上用了25颗卫星",
+        "onboard_time": 1671677131,
+        "rank": 47,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 143257,
+        "num": 143257,
+        "word": "药店布洛芬拆零卖涨价近18倍",
+        "onboard_time": 1671671911,
+        "rank": 48,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 139896,
+        "num": 139896,
+        "word": "闪耀暖暖",
+        "onboard_time": 1671679531,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记看中国#"
+    }
+  }
+}
