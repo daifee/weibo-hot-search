@@ -1,6 +1,6 @@
 {
   "startTime": 1671726339693,
-  "endTime": 1671804962251,
+  "endTime": 1671805999811,
   "band_list": [
     {
       "raw_hot": 3022259,
@@ -139,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1128489,
+      "num": 1128489,
+      "word": "吃维生素C可防治新冠吗",
+      "onboard_time": 1671800433,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1090989,
       "num": 1090989,
       "word": "大马丁连续侮辱姆巴佩被投诉",
@@ -153,14 +161,6 @@
       "onboard_time": 1671788848,
       "rank": 3,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 1060268,
-      "num": 1060268,
-      "word": "吃维生素C可防治新冠吗",
-      "onboard_time": 1671800433,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1039974,
@@ -211,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 931079,
+      "num": 931079,
+      "word": "东北一小伙靠一条视频赚了100万",
+      "onboard_time": 1671803552,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 921832,
       "num": 921832,
       "word": "顺丰回应包裹破洞美林不翼而飞",
@@ -241,6 +249,14 @@
       "onboard_time": 1671782548,
       "rank": 11,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 780241,
+      "num": 780241,
+      "word": "上海优化调整阳性感染者解除居家隔离标准",
+      "onboard_time": 1671802893,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 772609,
@@ -291,14 +307,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 727285,
-      "num": 727285,
-      "word": "上海优化调整阳性感染者解除居家隔离标准",
-      "onboard_time": 1671802893,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 724095,
       "num": 724095,
       "word": "谷爱凌收入排名女运动员第三位",
@@ -321,14 +329,6 @@
       "onboard_time": 1671761189,
       "rank": 6,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 715047,
-      "num": 715047,
-      "word": "东北一小伙靠一条视频赚了100万",
-      "onboard_time": 1671803552,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 710593,
@@ -723,6 +723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 392476,
+      "num": 392476,
+      "word": "考研加油",
+      "onboard_time": 1671803908,
+      "rank": 15,
+      "category": "教育"
+    },
+    {
       "raw_hot": 383792,
       "num": 289124,
       "word": "杨紫说她现在已经进组了",
@@ -788,7 +796,7 @@
     },
     {
       "raw_hot": 355731,
-      "num": 981198,
+      "num": 1022994,
       "word": "老人出现这六种情况应及时就诊",
       "onboard_time": 1671798870,
       "rank": 2,
@@ -963,6 +971,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 298207,
+      "num": 298207,
+      "word": "发烧时要少吃高蛋白食物",
+      "onboard_time": 1671805170,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 296216,
       "num": 296216,
       "word": "徐璐片场烤肠诱惑张彬彬郑合惠子",
@@ -987,14 +1003,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 293642,
-      "num": 293642,
-      "word": "考研加油",
-      "onboard_time": 1671803908,
-      "rank": 15,
-      "category": "教育"
-    },
-    {
       "raw_hot": 293005,
       "num": 293005,
       "word": "张文宏建议老年人每天吃2个鸡蛋",
@@ -1017,6 +1025,22 @@
       "onboard_time": 1671761251,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 287340,
+      "num": 287340,
+      "word": "成都蓉城1比0武汉三镇",
+      "onboard_time": 1671804811,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 280578,
+      "num": 280578,
+      "word": "男子怕复阳自制斗篷坐地铁",
+      "onboard_time": 1671801811,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 279369,
@@ -1059,6 +1083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 266484,
+      "num": 266484,
+      "word": "杨超越演的方向是懂拿捏的",
+      "onboard_time": 1671805409,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 264911,
       "num": 239505,
       "word": "马嘉祺今日直播状态",
@@ -1097,6 +1129,14 @@
       "onboard_time": 1671751940,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 258327,
+      "num": 256737,
+      "word": "家有姐妹",
+      "onboard_time": 1671804932,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 258279,
@@ -1195,6 +1235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 239305,
+      "num": 239305,
+      "word": "孙悦28年后再唱祝你平安",
+      "onboard_time": 1671805233,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 238198,
       "num": 238198,
       "word": "张艺兴时隔三年再发苦情歌",
@@ -1288,14 +1336,6 @@
       "word": "阳了洗鼻也能缓解症状",
       "onboard_time": 1671768448,
       "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 223105,
-      "num": 223105,
-      "word": "男子怕复阳自制斗篷坐地铁",
-      "onboard_time": 1671801811,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -1563,6 +1603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 194532,
+      "num": 194532,
+      "word": "一战成硕",
+      "onboard_time": 1671805051,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
       "raw_hot": 193589,
       "num": 193589,
       "word": "县委大院",
@@ -1625,6 +1673,22 @@
       "onboard_time": 1671728060,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 186312,
+      "num": 186312,
+      "word": "孤独的野兽",
+      "onboard_time": 1671805109,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 186199,
+      "num": 194939,
+      "word": "中超联赛",
+      "onboard_time": 1671802650,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 186058,
@@ -1739,14 +1803,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 178689,
-      "num": 194939,
-      "word": "中超联赛",
-      "onboard_time": 1671802650,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 176899,
       "num": 176899,
       "word": "当我学会用辩证法看待考研",
@@ -1764,7 +1820,7 @@
     },
     {
       "raw_hot": 175045,
-      "num": 144142,
+      "num": 152168,
       "word": "廖穗芳好可怕",
       "onboard_time": 1671803432,
       "rank": 41,
@@ -1841,6 +1897,14 @@
       "onboard_time": 1671765509,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 172879,
+      "num": 152403,
+      "word": "文俊辉和粉丝的雪天约定",
+      "onboard_time": 1671805233,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 172787,
@@ -2043,14 +2107,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 158925,
-      "num": 143950,
-      "word": "家有姐妹",
-      "onboard_time": 1671804932,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 158533,
       "num": 155946,
       "word": "Vernon新歌MV",
@@ -2065,6 +2121,14 @@
       "onboard_time": 1671794310,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 156492,
+      "num": 156492,
+      "word": "一研为定",
+      "onboard_time": 1671805648,
+      "rank": 38,
+      "category": "教育"
     },
     {
       "raw_hot": 156414,
@@ -2153,14 +2217,6 @@
       "onboard_time": 1671741073,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 145333,
-      "num": 145333,
-      "word": "成都蓉城1比0武汉三镇",
-      "onboard_time": 1671804811,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 145160,
@@ -2475,6 +2531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 105921,
+      "num": 105921,
+      "word": "小猫的杀手锏是可爱吧",
+      "onboard_time": 1671805889,
+      "rank": 48,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 105614,
       "num": 105614,
       "word": "它看上去有点不服气",
@@ -2489,6 +2553,14 @@
       "onboard_time": 1671799292,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 105087,
+      "num": 105087,
+      "word": "上海海港vs山东泰山",
+      "onboard_time": 1671805889,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 104916,
