@@ -1,6 +1,6 @@
 {
   "startTime": 1671812678291,
-  "endTime": 1671819703533,
+  "endTime": 1671820577325,
   "band_list": [
     {
       "raw_hot": 985400,
@@ -243,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 153452,
+      "num": 72173,
+      "word": "学校回应疑教师上网课现不雅聊天",
+      "onboard_time": 1671815778,
+      "rank": 43,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 152325,
       "num": 127403,
       "word": "妈妈阳性宝宝生下来就发烧",
@@ -297,14 +305,6 @@
       "onboard_time": 1671788848,
       "rank": 40,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 132811,
-      "num": 49762,
-      "word": "学校回应疑教师上网课现不雅聊天",
-      "onboard_time": 1671815778,
-      "rank": 43,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 128472,
@@ -419,6 +419,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 51080,
+      "num": 51080,
+      "word": "阳了之后你会失眠吗",
+      "onboard_time": 1671818594,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 47676,
       "num": 63397,
       "word": "肩颈一下就展开了",
@@ -443,12 +451,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 35101,
-      "num": 35101,
-      "word": "阳了之后你会失眠吗",
-      "onboard_time": 1671818594,
-      "rank": 39,
-      "category": "社会新闻"
+      "raw_hot": 22287,
+      "num": 22287,
+      "word": "这一切没有想象的那么糟",
+      "onboard_time": 1671820514,
+      "rank": 48,
+      "category": "综艺"
     }
   ],
   "hotgov_list": [

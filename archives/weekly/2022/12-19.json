@@ -1,6 +1,6 @@
 {
   "startTime": 1671380618877,
-  "endTime": 1671819703533,
+  "endTime": 1671820577325,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -10179,6 +10179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 153452,
+      "num": 72173,
+      "word": "学校回应疑教师上网课现不雅聊天",
+      "onboard_time": 1671815778,
+      "rank": 43,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 153342,
       "num": 153342,
       "word": "张雪迎镜头下的墨白剧组",
@@ -11049,14 +11057,6 @@
       "onboard_time": 1671682772,
       "rank": 47,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 132811,
-      "num": 49762,
-      "word": "学校回应疑教师上网课现不雅聊天",
-      "onboard_time": 1671815778,
-      "rank": 43,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 132607,
@@ -12747,6 +12747,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 51080,
+      "num": 51080,
+      "word": "阳了之后你会失眠吗",
+      "onboard_time": 1671818594,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 50222,
       "num": 43797,
       "word": "BLACKPINK韩国VOGUE画报视频",
@@ -12827,14 +12835,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 35101,
-      "num": 35101,
-      "word": "阳了之后你会失眠吗",
-      "onboard_time": 1671818594,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 34239,
       "num": 369819,
       "word": "你记忆里的家的味道",
@@ -12897,6 +12897,14 @@
       "onboard_time": 1671620431,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 22287,
+      "num": 22287,
+      "word": "这一切没有想象的那么糟",
+      "onboard_time": 1671820514,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 20014,
