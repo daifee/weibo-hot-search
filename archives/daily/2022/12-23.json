@@ -1,6 +1,6 @@
 {
   "startTime": 1671726339693,
-  "endTime": 1671801767260,
+  "endTime": 1671802467554,
   "band_list": [
     {
       "raw_hot": 3022259,
@@ -235,6 +235,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 769792,
+      "num": 769792,
+      "word": "男子自以为阳了约朋友喝酒杀毒",
+      "onboard_time": 1671796049,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 764801,
       "num": 764801,
       "word": "浮图缘",
@@ -243,12 +251,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 747629,
-      "num": 747629,
-      "word": "男子自以为阳了约朋友喝酒杀毒",
-      "onboard_time": 1671796049,
+      "raw_hot": 754877,
+      "num": 754877,
+      "word": "田震说周深唱歌把她整蒙了",
+      "onboard_time": 1671801511,
       "rank": 13,
-      "category": "社会新闻"
+      "category": "综艺"
     },
     {
       "raw_hot": 745603,
@@ -393,6 +401,14 @@
       "onboard_time": 1671765328,
       "rank": 49,
       "category": "教育"
+    },
+    {
+      "raw_hot": 565853,
+      "num": 565853,
+      "word": "徐志胜把李宇春认成粉丝",
+      "onboard_time": 1671801511,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 557773,
@@ -547,28 +563,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 458104,
+      "num": 458104,
+      "word": "回来的女儿第5集太费心脏了",
+      "onboard_time": 1671799231,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 457067,
       "num": 457067,
       "word": "考研时间",
       "onboard_time": 1671758369,
       "rank": 29,
       "category": "教育"
-    },
-    {
-      "raw_hot": 456098,
-      "num": 450975,
-      "word": "田震说周深唱歌把她整蒙了",
-      "onboard_time": 1671801511,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 453442,
-      "num": 453442,
-      "word": "回来的女儿第5集太费心脏了",
-      "onboard_time": 1671799231,
-      "rank": 23,
-      "category": "影视"
     },
     {
       "raw_hot": 445364,
@@ -667,6 +675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 397676,
+      "num": 397676,
+      "word": "吃维生素C可防治新冠吗",
+      "onboard_time": 1671800433,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 397398,
       "num": 397398,
       "word": "女儿吃邻居家药痊愈后宝妈满城送药",
@@ -715,6 +731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 371894,
+      "num": 241795,
+      "word": "TraineeA确认出道组解散",
+      "onboard_time": 1671801871,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 363204,
       "num": 363204,
       "word": "谢娜做童年蛋黄小饼干vlog",
@@ -736,6 +760,14 @@
       "word": "中方对余茂春等2人采取反制裁措施",
       "onboard_time": 1671763230,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 355731,
+      "num": 981198,
+      "word": "老人出现这六种情况应及时就诊",
+      "onboard_time": 1671798870,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -811,14 +843,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 334379,
-      "num": 334379,
-      "word": "徐志胜把李宇春认成粉丝",
-      "onboard_time": 1671801511,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 330810,
       "num": 330810,
       "word": "阳康后不用继续服药巩固疗效",
@@ -849,14 +873,6 @@
       "onboard_time": 1671705212,
       "rank": 12,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 312446,
-      "num": 981198,
-      "word": "老人出现这六种情况应及时就诊",
-      "onboard_time": 1671798870,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 311934,
@@ -1235,14 +1251,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 222801,
-      "num": 222801,
-      "word": "吃维生素C可防治新冠吗",
-      "onboard_time": 1671800433,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 222242,
       "num": 222242,
       "word": "爷爷为让孙子安心上学凌晨抱狗求医",
@@ -1481,6 +1489,14 @@
       "onboard_time": 1671791610,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 195702,
+      "num": 158091,
+      "word": "时光音乐会",
+      "onboard_time": 1671801991,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 194714,
@@ -1876,7 +1892,7 @@
     },
     {
       "raw_hot": 162891,
-      "num": 105487,
+      "num": 115962,
       "word": "乔振宇新剧扮女装",
       "onboard_time": 1671801151,
       "rank": 41,
@@ -1929,6 +1945,14 @@
       "onboard_time": 1671768028,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 159854,
+      "num": 159854,
+      "word": "赌气不吃饭的小猫",
+      "onboard_time": 1671798389,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 158533,
@@ -2025,14 +2049,6 @@
       "onboard_time": 1671794728,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 145948,
-      "num": 145948,
-      "word": "赌气不吃饭的小猫",
-      "onboard_time": 1671798389,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 145833,
@@ -2243,6 +2259,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 116342,
+      "num": 116342,
+      "word": "高校师生自制抗原试剂供全校使用",
+      "onboard_time": 1671801690,
+      "rank": 49,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 115035,
+      "num": 115035,
+      "word": "狗狗第一次来到家里的样子",
+      "onboard_time": 1671798932,
+      "rank": 49,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 112101,
       "num": 112101,
       "word": "阳康后应注意什么",
@@ -2329,14 +2361,6 @@
       "onboard_time": 1671777449,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 105780,
-      "num": 105780,
-      "word": "狗狗第一次来到家里的样子",
-      "onboard_time": 1671798932,
-      "rank": 49,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 105332,
@@ -2443,6 +2467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 86420,
+      "num": 86420,
+      "word": "男子怕复阳自制斗篷坐地铁",
+      "onboard_time": 1671801811,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 85473,
       "num": 85473,
       "word": "高龄独居老人如何应对感染高峰",
@@ -2473,14 +2505,6 @@
       "onboard_time": 1671801449,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 82856,
-      "num": 82856,
-      "word": "高校师生自制抗原试剂供全校使用",
-      "onboard_time": 1671801690,
-      "rank": 49,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 82553,
