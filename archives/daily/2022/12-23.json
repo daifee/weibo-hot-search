@@ -1,6 +1,6 @@
 {
   "startTime": 1671726339693,
-  "endTime": 1671783761344,
+  "endTime": 1671784567083,
   "band_list": [
     {
       "raw_hot": 3022259,
@@ -163,12 +163,44 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 693819,
+      "num": 370534,
+      "word": "女孩高烧40度自然卷变成直发",
+      "onboard_time": 1671783086,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 684504,
+      "num": 684504,
+      "word": "抗原红线深浅是否代表病毒载荷多少",
+      "onboard_time": 1671780988,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 666496,
+      "num": 666496,
+      "word": "谷爱凌年收入1.4亿",
+      "onboard_time": 1671780569,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 666116,
       "num": 666116,
       "word": "妈妈晒娃被网友提醒嘴唇发紫快送医",
       "onboard_time": 1671766169,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 664866,
+      "num": 430396,
+      "word": "今年考研到底有多卷",
+      "onboard_time": 1671782548,
+      "rank": 11,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 661954,
@@ -193,14 +225,6 @@
       "onboard_time": 1671759689,
       "rank": 7,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 623551,
-      "num": 623551,
-      "word": "抗原红线深浅是否代表病毒载荷多少",
-      "onboard_time": 1671780988,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 617027,
@@ -243,14 +267,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 555548,
-      "num": 555548,
-      "word": "谷爱凌年收入1.4亿",
-      "onboard_time": 1671780569,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 553572,
       "num": 553572,
       "word": "阳了后的疼疼疼",
@@ -283,20 +299,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 538921,
+      "num": 538921,
+      "word": "许光汉 帅",
+      "onboard_time": 1671782848,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 521052,
       "num": 521052,
       "word": "这可能就是结婚的意义吧",
       "onboard_time": 1671774570,
       "rank": 15,
       "category": "情感"
-    },
-    {
-      "raw_hot": 513147,
-      "num": 513147,
-      "word": "许光汉 帅",
-      "onboard_time": 1671782848,
-      "rank": 6,
-      "category": "影视"
     },
     {
       "raw_hot": 502415,
@@ -385,14 +401,6 @@
       "onboard_time": 1671773970,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 430396,
-      "num": 430396,
-      "word": "今年考研到底有多卷",
-      "onboard_time": 1671782548,
-      "rank": 11,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 429369,
@@ -491,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 353364,
+      "num": 353364,
+      "word": "电影想见你点映口碑",
+      "onboard_time": 1671781408,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 352860,
       "num": 352860,
       "word": "张天爱听到于文文说她最美的反应",
@@ -579,28 +595,12 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 311989,
-      "num": 201198,
-      "word": "女孩高烧40度自然卷变成直发",
-      "onboard_time": 1671783086,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 311934,
       "num": 311934,
       "word": "老年人感染新冠后或发生沉默性缺氧",
       "onboard_time": 1671759026,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 310053,
-      "num": 310053,
-      "word": "电影想见你点映口碑",
-      "onboard_time": 1671781408,
-      "rank": 14,
-      "category": "影视"
     },
     {
       "raw_hot": 310004,
@@ -627,20 +627,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 305856,
+      "num": 305856,
+      "word": "我们的客栈",
+      "onboard_time": 1671780270,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 305289,
       "num": 305289,
       "word": "71岁张纪中感染新冠",
       "onboard_time": 1671717031,
       "rank": 7,
       "category": "艺人,社会新闻"
-    },
-    {
-      "raw_hot": 303725,
-      "num": 303725,
-      "word": "我们的客栈",
-      "onboard_time": 1671780270,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 300695,
@@ -843,6 +843,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 232053,
+      "num": 232053,
+      "word": "羊圈里叫的都没这么标准",
+      "onboard_time": 1671781288,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 228096,
       "num": 228096,
       "word": "高盛称A股牛市就要到来",
@@ -881,14 +889,6 @@
       "onboard_time": 1671768448,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 223587,
-      "num": 223587,
-      "word": "羊圈里叫的都没这么标准",
-      "onboard_time": 1671781288,
-      "rank": 25,
-      "category": "幽默"
     },
     {
       "raw_hot": 223013,
@@ -1147,6 +1147,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 183044,
+      "num": 183044,
+      "word": "退烧药需求逐渐退烧",
+      "onboard_time": 1671783747,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 182786,
       "num": 167356,
       "word": "快乐再出发",
@@ -1233,6 +1241,14 @@
       "onboard_time": 1671779668,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 173908,
+      "num": 173908,
+      "word": "微博跨年开幕官时代少年团",
+      "onboard_time": 1671784408,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 173274,
@@ -1451,6 +1467,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 143550,
+      "num": 143550,
+      "word": "一诺的心愿便利贴",
+      "onboard_time": 1671784348,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 136535,
+      "num": 136535,
+      "word": "深圳产业链有多强",
+      "onboard_time": 1671783630,
+      "rank": 49,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 135841,
       "num": 135841,
       "word": "兵哥哥单杠上敬礼太帅了",
@@ -1483,12 +1515,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 127347,
-      "num": 127347,
-      "word": "退烧药需求逐渐退烧",
-      "onboard_time": 1671783747,
-      "rank": 46,
-      "category": "社会新闻"
+      "raw_hot": 127625,
+      "num": 127625,
+      "word": "一条毛巾可以帮助改善驼背",
+      "onboard_time": 1671783987,
+      "rank": 45,
+      "category": "其它"
     },
     {
       "raw_hot": 126276,
@@ -1579,14 +1611,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 116172,
-      "num": 116172,
-      "word": "深圳产业链有多强",
-      "onboard_time": 1671783630,
-      "rank": 49,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 112101,
       "num": 112101,
       "word": "阳康后应注意什么",
@@ -1624,6 +1648,14 @@
       "word": "看大熊猫干饭居然也很治愈",
       "onboard_time": 1671780088,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 108922,
+      "num": 108922,
+      "word": "8岁哥哥轻车熟路哄睡弟弟",
+      "onboard_time": 1671783869,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
