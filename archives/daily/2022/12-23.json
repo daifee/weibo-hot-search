@@ -1,6 +1,6 @@
 {
   "startTime": 1671726339693,
-  "endTime": 1671770243386,
+  "endTime": 1671772599795,
   "band_list": [
     {
       "raw_hot": 3022259,
@@ -25,6 +25,14 @@
       "onboard_time": 1671712410,
       "rank": 0,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1750004,
+      "num": 1750004,
+      "word": "男子阳性后仍和俩孩子同桌吃饭被吐槽",
+      "onboard_time": 1671770130,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1488929,
@@ -67,6 +75,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 994976,
+      "num": 994976,
+      "word": "大马丁连续侮辱姆巴佩被投诉",
+      "onboard_time": 1671770668,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 936079,
       "num": 936079,
       "word": "布洛芬退烧不能连吃超3天",
@@ -99,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 666116,
+      "num": 666116,
+      "word": "妈妈晒娃被网友提醒嘴唇发紫快送医",
+      "onboard_time": 1671766169,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 661954,
       "num": 496402,
       "word": "黄子韬徐艺洋综艺名场面",
@@ -107,20 +131,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 652195,
-      "num": 505519,
-      "word": "妈妈晒娃被网友提醒嘴唇发紫快送医",
-      "onboard_time": 1671766169,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 626005,
       "num": 501373,
       "word": "BLACKPINK演唱会圣诞裙造型",
       "onboard_time": 1671759689,
       "rank": 7,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 617027,
+      "num": 617027,
+      "word": "李晨说自己最怕失去的人是金钟国",
+      "onboard_time": 1671767848,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 586440,
@@ -163,19 +187,19 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 546195,
+      "num": 546195,
+      "word": "曾光称第4针一定要变换疫苗",
+      "onboard_time": 1671767309,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 540393,
       "num": 540393,
       "word": "妈妈阳后第3天就坚持做饭",
       "onboard_time": 1671740471,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 514141,
-      "num": 514141,
-      "word": "曾光称第4针一定要变换疫苗",
-      "onboard_time": 1671767309,
-      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -201,6 +225,14 @@
       "onboard_time": 1671765628,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 478548,
+      "num": 478548,
+      "word": "汽车4S店或退出历史舞台",
+      "onboard_time": 1671769349,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 462478,
@@ -275,12 +307,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 382037,
-      "num": 382037,
-      "word": "李晨说自己最怕失去的人是金钟国",
-      "onboard_time": 1671767848,
-      "rank": 32,
-      "category": "综艺"
+      "raw_hot": 364227,
+      "num": 364227,
+      "word": "宝妈为让2娃不阳撑充气城堡不外出",
+      "onboard_time": 1671771149,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 362025,
@@ -323,6 +355,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 335153,
+      "num": 335153,
+      "word": "阳了吃消炎药管用吗",
+      "onboard_time": 1671768629,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 330810,
       "num": 330810,
       "word": "阳康后不用继续服药巩固疗效",
@@ -337,6 +377,14 @@
       "onboard_time": 1671702148,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 315519,
+      "num": 315519,
+      "word": "胡歌替梅晓歌补拍合照",
+      "onboard_time": 1671767911,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 314101,
@@ -419,6 +467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 291357,
+      "num": 291357,
+      "word": "浮图缘吻戏镜头",
+      "onboard_time": 1671769888,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 290068,
       "num": 290068,
       "word": "FIFA年终排名国足第80名",
@@ -427,20 +483,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 287757,
-      "num": 287757,
-      "word": "阳了吃消炎药管用吗",
-      "onboard_time": 1671768629,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 278311,
       "num": 278311,
       "word": "为2023考研人加油",
       "onboard_time": 1671722670,
       "rank": 14,
       "category": "情感,教育"
+    },
+    {
+      "raw_hot": 273552,
+      "num": 273552,
+      "word": "原来是你定档1225",
+      "onboard_time": 1671772172,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 264700,
@@ -473,14 +529,6 @@
       "onboard_time": 1671712170,
       "rank": 15,
       "category": "情感"
-    },
-    {
-      "raw_hot": 256732,
-      "num": 188106,
-      "word": "浮图缘吻戏镜头",
-      "onboard_time": 1671769888,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 255108,
@@ -563,12 +611,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 227144,
-      "num": 227144,
-      "word": "汽车4S店或退出历史舞台",
-      "onboard_time": 1671769349,
-      "rank": 24,
-      "category": "财经"
+      "raw_hot": 227212,
+      "num": 1148719,
+      "word": "阳过能接种第二剂加强针吗",
+      "onboard_time": 1671769769,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 226560,
@@ -619,6 +667,30 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 217282,
+      "num": 200639,
+      "word": "王鹤棣肖铎单人海报奏折上全是端太妃",
+      "onboard_time": 1671772051,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 215439,
+      "num": 208321,
+      "word": "吕小军说干干净净赢得几乎所有荣誉",
+      "onboard_time": 1671767127,
+      "rank": 39,
+      "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 213771,
+      "num": 213771,
+      "word": "如何评价王者S30战令皮肤",
+      "onboard_time": 1671767848,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 213264,
       "num": 213264,
       "word": "月光族精神状态",
@@ -635,14 +707,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 211818,
-      "num": 179424,
-      "word": "胡歌替梅晓歌补拍合照",
-      "onboard_time": 1671767911,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 210440,
       "num": 210440,
       "word": "林巧稚曾亲手接生了袁隆平",
@@ -651,12 +715,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 208321,
-      "num": 208321,
-      "word": "吕小军说干干净净赢得几乎所有荣誉",
-      "onboard_time": 1671767127,
-      "rank": 39,
-      "category": "体育,社会新闻"
+      "raw_hot": 209103,
+      "num": 209103,
+      "word": "对自己身高有误解的狗狗",
+      "onboard_time": 1671765928,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 203720,
@@ -665,6 +729,14 @@
       "onboard_time": 1671758189,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 197430,
+      "num": 197430,
+      "word": "阳康后如何恢复体力",
+      "onboard_time": 1671768088,
+      "rank": 36,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 196826,
@@ -697,14 +769,6 @@
       "onboard_time": 1671765692,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 193272,
-      "num": 193272,
-      "word": "阳康后如何恢复体力",
-      "onboard_time": 1671768088,
-      "rank": 36,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 192974,
@@ -779,20 +843,20 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 180041,
+      "num": 180041,
+      "word": "其实我有点舍不得2022",
+      "onboard_time": 1671771392,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 179810,
       "num": 151909,
       "word": "戴燕妮竹林绿意古装造型",
       "onboard_time": 1671729078,
       "rank": 12,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 175289,
-      "num": 175289,
-      "word": "如何评价王者S30战令皮肤",
-      "onboard_time": 1671767848,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 174346,
@@ -809,6 +873,14 @@
       "onboard_time": 1671761970,
       "rank": 43,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 173720,
+      "num": 173720,
+      "word": "老外看中国电竞的奇妙比喻",
+      "onboard_time": 1671770250,
+      "rank": 37,
+      "category": "游戏,幽默"
     },
     {
       "raw_hot": 173274,
@@ -859,20 +931,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 165919,
-      "num": 165919,
-      "word": "对自己身高有误解的狗狗",
-      "onboard_time": 1671765928,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 162671,
       "num": 162671,
       "word": "杨紫说最近不会接综艺",
       "onboard_time": 1671732674,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 161553,
+      "num": 148126,
+      "word": "年度最值得二刷的TVB剧",
+      "onboard_time": 1671772531,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 160137,
@@ -923,14 +995,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 140790,
-      "num": 140790,
-      "word": "男子阳性后仍和俩孩子同桌吃饭被吐槽",
-      "onboard_time": 1671770130,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 135841,
       "num": 135841,
       "word": "兵哥哥单杠上敬礼太帅了",
@@ -945,6 +1009,14 @@
       "onboard_time": 1671758007,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 134289,
+      "num": 134289,
+      "word": "保姆粗暴对待6月大婴儿",
+      "onboard_time": 1671771931,
+      "rank": 43,
+      "category": "社会负面"
     },
     {
       "raw_hot": 126276,
@@ -1016,6 +1088,14 @@
       "word": "买Chanel耳钉顺丰运掉五颗珍珠",
       "onboard_time": 1671703771,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 115541,
+      "num": 115541,
+      "word": "缺药缺人的农村如何应对疫情",
+      "onboard_time": 1671772410,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -1249,14 +1329,6 @@
       "onboard_time": 1671721529,
       "rank": 47,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 52274,
-      "num": 1082531,
-      "word": "阳过能接种第二剂加强针吗",
-      "onboard_time": 1671769769,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 50062,

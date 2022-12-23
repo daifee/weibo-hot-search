@@ -1,6 +1,6 @@
 {
   "startTime": 1671380618877,
-  "endTime": 1671770243386,
+  "endTime": 1671772599795,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -449,6 +449,14 @@
       "onboard_time": 1671627272,
       "rank": 10,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 1750004,
+      "num": 1750004,
+      "word": "男子阳性后仍和俩孩子同桌吃饭被吐槽",
+      "onboard_time": 1671770130,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1743723,
@@ -1185,6 +1193,14 @@
       "onboard_time": 1671537570,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 994976,
+      "num": 994976,
+      "word": "大马丁连续侮辱姆巴佩被投诉",
+      "onboard_time": 1671770668,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 991890,
@@ -2195,6 +2211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 666116,
+      "num": 666116,
+      "word": "妈妈晒娃被网友提醒嘴唇发紫快送医",
+      "onboard_time": 1671766169,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 665131,
       "num": 665131,
       "word": "男子酒吧内多次掀开女子衣服引群殴",
@@ -2249,14 +2273,6 @@
       "onboard_time": 1671636036,
       "rank": 14,
       "category": "影视"
-    },
-    {
-      "raw_hot": 652195,
-      "num": 505519,
-      "word": "妈妈晒娃被网友提醒嘴唇发紫快送医",
-      "onboard_time": 1671766169,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 651212,
@@ -2361,6 +2377,14 @@
       "onboard_time": 1671684631,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 617027,
+      "num": 617027,
+      "word": "李晨说自己最怕失去的人是金钟国",
+      "onboard_time": 1671767848,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 612387,
@@ -2675,6 +2699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 546195,
+      "num": 546195,
+      "word": "曾光称第4针一定要变换疫苗",
+      "onboard_time": 1671767309,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 546059,
       "num": 546059,
       "word": "梅西提醒德保罗注意安全",
@@ -2899,14 +2931,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 514141,
-      "num": 514141,
-      "word": "曾光称第4针一定要变换疫苗",
-      "onboard_time": 1671767309,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 514034,
       "num": 415047,
       "word": "内娱就该百花齐放",
@@ -3113,6 +3137,14 @@
       "onboard_time": 1671416253,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 478548,
+      "num": 478548,
+      "word": "汽车4S店或退出历史舞台",
+      "onboard_time": 1671769349,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 478202,
@@ -3891,14 +3923,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 382037,
-      "num": 382037,
-      "word": "李晨说自己最怕失去的人是金钟国",
-      "onboard_time": 1671767848,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 381515,
       "num": 381515,
       "word": "狗狗串门被告知狗友不在秒懂离开",
@@ -4056,6 +4080,14 @@
       "word": "买不到药还可以买肉",
       "onboard_time": 1671442769,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 364227,
+      "num": 364227,
+      "word": "宝妈为让2娃不阳撑充气城堡不外出",
+      "onboard_time": 1671771149,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -4499,6 +4531,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 335153,
+      "num": 335153,
+      "word": "阳了吃消炎药管用吗",
+      "onboard_time": 1671768629,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 334472,
       "num": 334472,
       "word": "朋友阳后我帮她带了5天孩子",
@@ -4777,6 +4817,14 @@
       "onboard_time": 1671626255,
       "rank": 37,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 315519,
+      "num": 315519,
+      "word": "胡歌替梅晓歌补拍合照",
+      "onboard_time": 1671767911,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 314617,
@@ -5155,6 +5203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 291357,
+      "num": 291357,
+      "word": "浮图缘吻戏镜头",
+      "onboard_time": 1671769888,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 290460,
       "num": 290460,
       "word": "一家7口边打吊瓶边坐三轮回家",
@@ -5217,14 +5273,6 @@
       "onboard_time": 1671683494,
       "rank": 22,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 287757,
-      "num": 287757,
-      "word": "阳了吃消炎药管用吗",
-      "onboard_time": 1671768629,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 287702,
@@ -5505,6 +5553,14 @@
       "onboard_time": 1671519329,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 273552,
+      "num": 273552,
+      "word": "原来是你定档1225",
+      "onboard_time": 1671772172,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 273314,
@@ -5801,14 +5857,6 @@
       "onboard_time": 1671406044,
       "rank": 39,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 256732,
-      "num": 188106,
-      "word": "浮图缘吻戏镜头",
-      "onboard_time": 1671769888,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 256388,
@@ -6355,12 +6403,12 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 227144,
-      "num": 227144,
-      "word": "汽车4S店或退出历史舞台",
-      "onboard_time": 1671769349,
-      "rank": 24,
-      "category": "财经"
+      "raw_hot": 227212,
+      "num": 1148719,
+      "word": "阳过能接种第二剂加强针吗",
+      "onboard_time": 1671769769,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 226891,
@@ -6563,12 +6611,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 217282,
+      "num": 200639,
+      "word": "王鹤棣肖铎单人海报奏折上全是端太妃",
+      "onboard_time": 1671772051,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 216383,
       "num": 216383,
       "word": "妻子重病丈夫拒付医药费被判刑",
       "onboard_time": 1671680070,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 215439,
+      "num": 208321,
+      "word": "吕小军说干干净净赢得几乎所有荣誉",
+      "onboard_time": 1671767127,
+      "rank": 39,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 215334,
@@ -6601,6 +6665,14 @@
       "onboard_time": 1671416611,
       "rank": 47,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 213771,
+      "num": 213771,
+      "word": "如何评价王者S30战令皮肤",
+      "onboard_time": 1671767848,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 213675,
@@ -6665,14 +6737,6 @@
       "onboard_time": 1671547771,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 211818,
-      "num": 179424,
-      "word": "胡歌替梅晓歌补拍合照",
-      "onboard_time": 1671767911,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 211355,
@@ -6747,6 +6811,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 209103,
+      "num": 209103,
+      "word": "对自己身高有误解的狗狗",
+      "onboard_time": 1671765928,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 209074,
       "num": 209074,
       "word": "BLG官宣Weiwei离队",
@@ -6769,14 +6841,6 @@
       "onboard_time": 1671611609,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 208321,
-      "num": 208321,
-      "word": "吕小军说干干净净赢得几乎所有荣誉",
-      "onboard_time": 1671767127,
-      "rank": 39,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 208064,
@@ -7091,6 +7155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 197430,
+      "num": 197430,
+      "word": "阳康后如何恢复体力",
+      "onboard_time": 1671768088,
+      "rank": 36,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 197332,
       "num": 197332,
       "word": "布洛芬对乙酰氨基酚产能正逐步释放",
@@ -7265,14 +7337,6 @@
       "onboard_time": 1671423994,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 193272,
-      "num": 193272,
-      "word": "阳康后如何恢复体力",
-      "onboard_time": 1671768088,
-      "rank": 36,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 192986,
@@ -7771,6 +7835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 180041,
+      "num": 180041,
+      "word": "其实我有点舍不得2022",
+      "onboard_time": 1671771392,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 179935,
       "num": 179935,
       "word": "NCTDREAM朴秀荣Candy的舞蹈挑战",
@@ -7963,14 +8035,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 175289,
-      "num": 175289,
-      "word": "如何评价王者S30战令皮肤",
-      "onboard_time": 1671767848,
-      "rank": 47,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 175112,
       "num": 175112,
       "word": "复阳是间歇性排毒导致",
@@ -8057,6 +8121,14 @@
       "onboard_time": 1671530971,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 173720,
+      "num": 173720,
+      "word": "老外看中国电竞的奇妙比喻",
+      "onboard_time": 1671770250,
+      "rank": 37,
+      "category": "游戏,幽默"
     },
     {
       "raw_hot": 173660,
@@ -8299,14 +8371,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 165919,
-      "num": 165919,
-      "word": "对自己身高有误解的狗狗",
-      "onboard_time": 1671765928,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 165410,
       "num": 165410,
       "word": "车保罗的演技名场面",
@@ -8449,6 +8513,14 @@
       "onboard_time": 1671446247,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161553,
+      "num": 148126,
+      "word": "年度最值得二刷的TVB剧",
+      "onboard_time": 1671772531,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 161520,
@@ -9267,14 +9339,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 140790,
-      "num": 140790,
-      "word": "男子阳性后仍和俩孩子同桌吃饭被吐槽",
-      "onboard_time": 1671770130,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 140705,
       "num": 140705,
       "word": "男子钓鱼时在冰下发现沉车",
@@ -9505,6 +9569,14 @@
       "onboard_time": 1671708271,
       "rank": 47,
       "category": "科技"
+    },
+    {
+      "raw_hot": 134289,
+      "num": 134289,
+      "word": "保姆粗暴对待6月大婴儿",
+      "onboard_time": 1671771931,
+      "rank": 43,
+      "category": "社会负面"
     },
     {
       "raw_hot": 134087,
@@ -10153,6 +10225,14 @@
       "onboard_time": 1671449551,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 115541,
+      "num": 115541,
+      "word": "缺药缺人的农村如何应对疫情",
+      "onboard_time": 1671772410,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 115531,
@@ -10969,14 +11049,6 @@
       "onboard_time": 1671561973,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 52274,
-      "num": 1082531,
-      "word": "阳过能接种第二剂加强针吗",
-      "onboard_time": 1671769769,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 51448,
