@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/12/01 00:28:49 ~ 2022/12/23 16:36:07
+本榜单时间：2022/12/01 00:28:49 ~ 2022/12/23 17:17:15
 </p>
 </blockquote>
 <p>
@@ -2093,6 +2093,12 @@ N95口罩佩戴时间不要太长（热度：1673170）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E8%AF%B4%E5%9C%A8%E5%AE%B6%E8%87%AA%E8%A1%8C%E5%90%83%E8%8D%AF%E6%88%96%E8%80%BD%E8%AF%AF%E6%B2%BB%E7%96%97%23" target="weibo">
 专家说在家自行吃药或耽误治疗（热度：1585806）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E9%AB%98%E7%83%A740%E5%BA%A6%E8%87%AA%E7%84%B6%E5%8D%B7%E5%8F%98%E6%88%90%E7%9B%B4%E5%8F%91%23" target="weibo">
+女孩高烧40度自然卷变成直发（热度：1580158）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ candy（热度：809942）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E4%B8%8B%E9%9B%AA%23" target="weibo">
 北京下雪（热度：805783）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E6%83%B3%E5%92%8CC%E7%BD%97%E6%A2%85%E8%A5%BF%E8%B8%A2%E5%9C%BA%E7%90%83%23" target="weibo">
-鹿晗想和C罗梅西踢场球（热度：805306）
 </a>
 </li>
 
