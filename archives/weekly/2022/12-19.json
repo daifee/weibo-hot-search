@@ -1,6 +1,6 @@
 {
   "startTime": 1671380618877,
-  "endTime": 1671833816533,
+  "endTime": 1671834797893,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -9803,6 +9803,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 162310,
+      "num": 141864,
+      "word": "学校回应疑教师上网课现不雅聊天",
+      "onboard_time": 1671815778,
+      "rank": 43,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 162156,
       "num": 162156,
       "word": "其实身体比你想象中更爱你",
@@ -10185,14 +10193,6 @@
       "onboard_time": 1671800313,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 153452,
-      "num": 139096,
-      "word": "学校回应疑教师上网课现不雅聊天",
-      "onboard_time": 1671815778,
-      "rank": 43,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 153342,
@@ -10801,6 +10801,14 @@
       "onboard_time": 1671604468,
       "rank": 42,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 140128,
+      "num": 140128,
+      "word": "退烧药一次能不能吃两粒",
+      "onboard_time": 1671832033,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 139983,
@@ -11643,6 +11651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 118146,
+      "num": 57791,
+      "word": "鹤岗原市长梁成军被判死缓",
+      "onboard_time": 1671828191,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 118051,
       "num": 118051,
       "word": "当你有个帅哥情敌",
@@ -11819,14 +11835,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 113394,
-      "num": 50702,
-      "word": "鹤岗原市长梁成军被判死缓",
-      "onboard_time": 1671828191,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 113322,
       "num": 113322,
       "word": "不同姿势的布洛芬有啥区别",
@@ -11889,6 +11897,14 @@
       "onboard_time": 1671539911,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 111134,
+      "num": 111134,
+      "word": "考研政治",
+      "onboard_time": 1671832511,
+      "rank": 7,
+      "category": "教育"
     },
     {
       "raw_hot": 111123,
@@ -12547,14 +12563,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 80881,
-      "num": 80881,
-      "word": "退烧药一次能不能吃两粒",
-      "onboard_time": 1671832033,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 80562,
       "num": 80562,
       "word": "00后领导力有多强",
@@ -12651,20 +12659,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 67669,
-      "num": 67669,
-      "word": "考研政治",
-      "onboard_time": 1671832511,
-      "rank": 7,
-      "category": "教育"
-    },
-    {
       "raw_hot": 65359,
       "num": 84201,
       "word": "秋冬外套分享",
       "onboard_time": 1671812182,
       "rank": 49,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 65089,
+      "num": 32550,
+      "word": "美国不能一边谈合作一边捅刀子",
+      "onboard_time": 1671830772,
+      "rank": 47,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 64438,
@@ -12761,14 +12769,6 @@
       "onboard_time": 1671561973,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 51738,
-      "num": 27301,
-      "word": "美国不能一边谈合作一边捅刀子",
-      "onboard_time": 1671830772,
-      "rank": 47,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 51448,
@@ -12948,7 +12948,7 @@
     },
     {
       "raw_hot": 18602,
-      "num": 18602,
+      "num": 20033,
       "word": "仙侠剧特效能有多精致",
       "onboard_time": 1671818116,
       "rank": 48,
@@ -12977,6 +12977,14 @@
       "onboard_time": 1671563233,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 15172,
+      "num": 20026,
+      "word": "陈佑希身份曝光",
+      "onboard_time": 1671834494,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 14313,
