@@ -1,6 +1,6 @@
 {
   "startTime": 1671726339693,
-  "endTime": 1671795190546,
+  "endTime": 1671798799529,
   "band_list": [
     {
       "raw_hot": 3022259,
@@ -19,7 +19,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2208762,
+      "raw_hot": 2248342,
       "num": 2208762,
       "word": "卖退烧药45天赚近60亿",
       "onboard_time": 1671791970,
@@ -104,6 +104,14 @@
       "word": "共和国三天内痛失六位院士",
       "onboard_time": 1671789270,
       "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1176762,
+      "num": 1176762,
+      "word": "男子每月往家打8千妻子仍说没钱",
+      "onboard_time": 1671795631,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -203,6 +211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 770458,
+      "num": 447021,
+      "word": "沈月画的车保罗",
+      "onboard_time": 1671797070,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 764801,
       "num": 764801,
       "word": "浮图缘",
@@ -233,6 +249,14 @@
       "onboard_time": 1671775350,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 722192,
+      "num": 722192,
+      "word": "青壮年感冒后要谨防心肌炎",
+      "onboard_time": 1671792450,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 720853,
@@ -315,20 +339,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 603022,
-      "num": 603022,
-      "word": "青壮年感冒后要谨防心肌炎",
-      "onboard_time": 1671792450,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 586440,
       "num": 586440,
       "word": "才知道布洛芬不适合我",
       "onboard_time": 1671722069,
       "rank": 3,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 585305,
+      "num": 585305,
+      "word": "彩礼在结婚中真的很重要吗",
+      "onboard_time": 1671795211,
+      "rank": 6,
+      "category": "情感"
     },
     {
       "raw_hot": 572838,
@@ -411,6 +435,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 512052,
+      "num": 446484,
+      "word": "肖战浅蓝色衬衫直播造型",
+      "onboard_time": 1671797011,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 504083,
       "num": 504083,
       "word": "退烧药需求逐渐退烧",
@@ -459,12 +491,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 476407,
+      "num": 445932,
+      "word": "男子自以为阳了约朋友喝酒杀毒",
+      "onboard_time": 1671796049,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 474833,
       "num": 474833,
       "word": "沈月陈哲远奔跑吧合体",
       "onboard_time": 1671779789,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 469366,
+      "num": 469366,
+      "word": "腿姐",
+      "onboard_time": 1671797791,
+      "rank": 8,
+      "category": "教育"
     },
     {
       "raw_hot": 462478,
@@ -576,6 +624,14 @@
       "word": "女儿吃邻居家药痊愈后宝妈满城送药",
       "onboard_time": 1671773851,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 385729,
+      "num": 385729,
+      "word": "不要听网上那帮人胡咧咧",
+      "onboard_time": 1671795452,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -795,6 +851,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 297776,
+      "num": 297776,
+      "word": "大马丁嘲讽姆巴佩被投诉你怎么看",
+      "onboard_time": 1671794550,
+      "rank": 45,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 296216,
       "num": 296216,
       "word": "徐璐片场烤肠诱惑张彬彬郑合惠子",
@@ -841,6 +905,14 @@
       "onboard_time": 1671761251,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 286762,
+      "num": 286762,
+      "word": "阳康后该如何避免再感染",
+      "onboard_time": 1671794850,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 279369,
@@ -947,6 +1019,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 251341,
+      "num": 251341,
+      "word": "周深把过年BGM提前安排上了",
+      "onboard_time": 1671798751,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 246627,
       "num": 246627,
       "word": "原来小熊猫也是可以被认养的",
@@ -985,6 +1065,14 @@
       "onboard_time": 1671791970,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 240866,
+      "num": 240866,
+      "word": "奔跑吧今晚是情侣旅行特辑",
+      "onboard_time": 1671797431,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 240505,
@@ -1113,6 +1201,14 @@
       "onboard_time": 1671785128,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 217466,
+      "num": 217466,
+      "word": "王源翻唱林俊杰翅膀",
+      "onboard_time": 1671797971,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 217408,
@@ -1291,6 +1387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 196602,
+      "num": 171034,
+      "word": "去有风的地方暂定1月3日开播",
+      "onboard_time": 1671798509,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 195945,
       "num": 176192,
       "word": "宋亚轩新年祝大家健康",
@@ -1353,6 +1457,14 @@
       "onboard_time": 1671766050,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 188286,
+      "num": 170782,
+      "word": "彭小苒角色跨度",
+      "onboard_time": 1671798268,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 186772,
@@ -1561,6 +1673,14 @@
       "onboard_time": 1671793650,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 171862,
+      "num": 171862,
+      "word": "被主人气到不停跺脚的狗狗",
+      "onboard_time": 1671795930,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 170567,
@@ -1819,20 +1939,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 144567,
+      "num": 144567,
+      "word": "男子怀疑妻子被唆使离婚殴打邻居",
+      "onboard_time": 1671797310,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 143550,
       "num": 143550,
       "word": "一诺的心愿便利贴",
       "onboard_time": 1671784348,
       "rank": 41,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 141228,
-      "num": 141228,
-      "word": "阳康后该如何避免再感染",
-      "onboard_time": 1671794850,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 136535,
@@ -1849,6 +1969,14 @@
       "onboard_time": 1671769290,
       "rank": 48,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 135100,
+      "num": 112409,
+      "word": "王冰冰挑战北京明白的工作",
+      "onboard_time": 1671794310,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 134734,
@@ -1971,6 +2099,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 120065,
+      "num": 120065,
+      "word": "转阴后要知道的10件事",
+      "onboard_time": 1671798210,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 119735,
       "num": 119735,
       "word": "AI绘画你是懂节日氛围感的",
@@ -2059,14 +2195,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 108826,
-      "num": 108826,
-      "word": "大马丁嘲讽姆巴佩被投诉你怎么看",
-      "onboard_time": 1671794550,
-      "rank": 45,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 108170,
       "num": 108170,
       "word": "西藏那曲的雪山脚下有一群足球少年",
@@ -2145,6 +2273,22 @@
       "onboard_time": 1671707073,
       "rank": 34,
       "category": "社会正能量,教育"
+    },
+    {
+      "raw_hot": 96557,
+      "num": 96557,
+      "word": "这猫咪看着就没心眼",
+      "onboard_time": 1671796411,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 96104,
+      "num": 96104,
+      "word": "赌气不吃饭的小猫",
+      "onboard_time": 1671798389,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 94277,
