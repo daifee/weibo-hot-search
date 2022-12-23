@@ -1,6 +1,6 @@
 {
   "startTime": 1671726339693,
-  "endTime": 1671802467554,
+  "endTime": 1671804962251,
   "band_list": [
     {
       "raw_hot": 3022259,
@@ -123,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1165225,
+      "num": 1165225,
+      "word": "田震说周深唱歌把她整蒙了",
+      "onboard_time": 1671801511,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1156869,
       "num": 1156869,
       "word": "三次抗原检测可代替两次核酸检测",
@@ -145,6 +153,14 @@
       "onboard_time": 1671788848,
       "rank": 3,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 1060268,
+      "num": 1060268,
+      "word": "吃维生素C可防治新冠吗",
+      "onboard_time": 1671800433,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1039974,
@@ -211,6 +227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 795812,
+      "num": 795812,
+      "word": "徐志胜把李宇春认成粉丝",
+      "onboard_time": 1671801511,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 787415,
       "num": 787415,
       "word": "今年考研到底有多卷",
@@ -251,14 +275,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 754877,
-      "num": 754877,
-      "word": "田震说周深唱歌把她整蒙了",
-      "onboard_time": 1671801511,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 745603,
       "num": 745603,
       "word": "背肖四",
@@ -272,6 +288,14 @@
       "word": "印度准备增加对华退烧药出口",
       "onboard_time": 1671773312,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 727285,
+      "num": 727285,
+      "word": "上海优化调整阳性感染者解除居家隔离标准",
+      "onboard_time": 1671802893,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -297,6 +321,14 @@
       "onboard_time": 1671761189,
       "rank": 6,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 715047,
+      "num": 715047,
+      "word": "东北一小伙靠一条视频赚了100万",
+      "onboard_time": 1671803552,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 710593,
@@ -403,14 +435,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 565853,
-      "num": 565853,
-      "word": "徐志胜把李宇春认成粉丝",
-      "onboard_time": 1671801511,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 557773,
       "num": 557773,
       "word": "保姆粗暴对待6月大婴儿",
@@ -433,6 +457,14 @@
       "onboard_time": 1671754044,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 549783,
+      "num": 549783,
+      "word": "白鹿说希望横店早日通高铁",
+      "onboard_time": 1671802952,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 549705,
@@ -563,6 +595,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 459217,
+      "num": 394684,
+      "word": "TraineeA确认出道组解散",
+      "onboard_time": 1671801871,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 458104,
       "num": 458104,
       "word": "回来的女儿第5集太费心脏了",
@@ -675,14 +715,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 397676,
-      "num": 397676,
-      "word": "吃维生素C可防治新冠吗",
-      "onboard_time": 1671800433,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 397398,
       "num": 397398,
       "word": "女儿吃邻居家药痊愈后宝妈满城送药",
@@ -729,14 +761,6 @@
       "onboard_time": 1671791790,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 371894,
-      "num": 241795,
-      "word": "TraineeA确认出道组解散",
-      "onboard_time": 1671801871,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 363204,
@@ -963,6 +987,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 293642,
+      "num": 293642,
+      "word": "考研加油",
+      "onboard_time": 1671803908,
+      "rank": 15,
+      "category": "教育"
+    },
+    {
       "raw_hot": 293005,
       "num": 293005,
       "word": "张文宏建议老年人每天吃2个鸡蛋",
@@ -1147,6 +1179,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 241196,
+      "num": 241196,
+      "word": "高校师生自制抗原试剂供全校使用",
+      "onboard_time": 1671801690,
+      "rank": 49,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 240505,
       "num": 240505,
       "word": "蔡徐坤年度十大巅峰艺人",
@@ -1235,11 +1275,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 226528,
+      "num": 226528,
+      "word": "华晨宇发文谈小镇里的花创作立意",
+      "onboard_time": 1671804689,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 225186,
       "num": 225186,
       "word": "阳了洗鼻也能缓解症状",
       "onboard_time": 1671768448,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 223105,
+      "num": 223105,
+      "word": "男子怕复阳自制斗篷坐地铁",
+      "onboard_time": 1671801811,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -1539,6 +1595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 189944,
+      "num": 189944,
+      "word": "我们民谣",
+      "onboard_time": 1671804211,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 188348,
       "num": 188348,
       "word": "G2官宣2023阵容",
@@ -1619,6 +1683,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 182578,
+      "num": 182578,
+      "word": "金道英郑在玹金廷祐圣诞颂",
+      "onboard_time": 1671803908,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 181626,
       "num": 181626,
       "word": "被主人气到不停跺脚的狗狗",
@@ -1667,6 +1739,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 178689,
+      "num": 194939,
+      "word": "中超联赛",
+      "onboard_time": 1671802650,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 176899,
       "num": 176899,
       "word": "当我学会用辩证法看待考研",
@@ -1681,6 +1761,14 @@
       "onboard_time": 1671790529,
       "rank": 46,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 175045,
+      "num": 144142,
+      "word": "廖穗芳好可怕",
+      "onboard_time": 1671803432,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 174469,
@@ -1955,6 +2043,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 158925,
+      "num": 143950,
+      "word": "家有姐妹",
+      "onboard_time": 1671804932,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 158533,
       "num": 155946,
       "word": "Vernon新歌MV",
@@ -2059,12 +2155,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 145333,
+      "num": 145333,
+      "word": "成都蓉城1比0武汉三镇",
+      "onboard_time": 1671804811,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 145160,
       "num": 145160,
       "word": "LOL手游花火绽春",
       "onboard_time": 1671777028,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 145122,
+      "num": 145122,
+      "word": "观众朋友们 我想死你们了",
+      "onboard_time": 1671803668,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 143550,
@@ -2121,6 +2233,14 @@
       "onboard_time": 1671795149,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 130118,
+      "num": 130118,
+      "word": "晚安计划",
+      "onboard_time": 1671802952,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 129753,
@@ -2259,14 +2379,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 116342,
-      "num": 116342,
-      "word": "高校师生自制抗原试剂供全校使用",
-      "onboard_time": 1671801690,
-      "rank": 49,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 115035,
       "num": 115035,
       "word": "狗狗第一次来到家里的样子",
@@ -2361,6 +2473,14 @@
       "onboard_time": 1671777449,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 105614,
+      "num": 105614,
+      "word": "它看上去有点不服气",
+      "onboard_time": 1671804451,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 105332,
@@ -2464,14 +2584,6 @@
       "word": "3狗崽零下34度雪地玩耍被狗妈叼回",
       "onboard_time": 1671711269,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 86420,
-      "num": 86420,
-      "word": "男子怕复阳自制斗篷坐地铁",
-      "onboard_time": 1671801811,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
