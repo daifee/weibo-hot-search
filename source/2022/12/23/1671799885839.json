@@ -1,0 +1,410 @@
+{
+  "runTime": 1671799885839,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1514725,
+        "num": 1514725,
+        "word": "男子每月往家打8千妻子仍说没钱",
+        "onboard_time": 1671795631,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 988328,
+        "num": 988328,
+        "word": "腿姐",
+        "onboard_time": 1671797791,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 185335,
+        "num": 981198,
+        "word": "老人出现这六种情况应及时就诊",
+        "onboard_time": 1671798870,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 980241,
+        "num": 980241,
+        "word": "第一波北京阳康坐飞机都去哪儿了",
+        "onboard_time": 1671791069,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 707486,
+        "num": 707486,
+        "word": "青壮年感冒后要谨防心肌炎",
+        "onboard_time": 1671792450,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 649644,
+        "num": 649644,
+        "word": "彩礼在结婚中真的很重要吗",
+        "onboard_time": 1671795211,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 635551,
+        "num": 635551,
+        "word": "男子自以为阳了约朋友喝酒杀毒",
+        "onboard_time": 1671796049,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 637391,
+        "num": 593682,
+        "word": "共和国三天内痛失六位院士",
+        "onboard_time": 1671789270,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 518133,
+        "num": 518133,
+        "word": "男子卖橘子下意识反应令人心疼",
+        "onboard_time": 1671791130,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 496082,
+        "num": 496082,
+        "word": "不要听网上那帮人胡咧咧",
+        "onboard_time": 1671795452,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1741841,
+        "num": 493990,
+        "word": "卖退烧药45天赚近60亿",
+        "onboard_time": 1671791970,
+        "rank": 10,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 658652,
+        "num": 489291,
+        "word": "沈月画的车保罗",
+        "onboard_time": 1671797070,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 636351,
+        "num": 482165,
+        "word": "肖战直播",
+        "onboard_time": 1671799834,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 564395,
+        "num": 474212,
+        "word": "苗苗在张云龙面前提钟楚曦",
+        "onboard_time": 1671788129,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 496880,
+        "num": 468020,
+        "word": "女孩高烧40度自然卷变成直发",
+        "onboard_time": 1671783086,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 463425,
+        "num": 463425,
+        "word": "妈妈阳性宝宝生下来就发烧",
+        "onboard_time": 1671786447,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 408804,
+        "num": 408804,
+        "word": "大马丁嘲讽姆巴佩被投诉你怎么看",
+        "onboard_time": 1671794550,
+        "rank": 16,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 362421,
+        "num": 362421,
+        "word": "涉赌主播吸金1.2亿获刑6年",
+        "onboard_time": 1671788848,
+        "rank": 17,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 323200,
+        "num": 323200,
+        "word": "奥密克戎不会放过嘴硬的人",
+        "onboard_time": 1671791369,
+        "rank": 18,
+        "category": "游戏,社会新闻"
+      },
+      {
+        "raw_hot": 310582,
+        "num": 310582,
+        "word": "阳康后该如何避免再感染",
+        "onboard_time": 1671794850,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297713,
+        "num": 297713,
+        "word": "发烧传染全家竟是为了照顾女同学",
+        "onboard_time": 1671779009,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277813,
+        "num": 277813,
+        "word": "顺丰回应包裹破洞美林不翼而飞",
+        "onboard_time": 1671786388,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277285,
+        "num": 277285,
+        "word": "周深把过年BGM提前安排上了",
+        "onboard_time": 1671798751,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 275838,
+        "num": 275838,
+        "word": "回来的女儿第5集太费心脏了",
+        "onboard_time": 1671799231,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 254163,
+        "num": 254163,
+        "word": "电影想见你点映口碑",
+        "onboard_time": 1671781408,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 243646,
+        "num": 243646,
+        "word": "奔跑吧今晚是情侣旅行特辑",
+        "onboard_time": 1671797431,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248557,
+        "num": 240319,
+        "word": "许光汉 帅",
+        "onboard_time": 1671782848,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 212847,
+        "num": 212847,
+        "word": "女子分手没争到抚养权凌晨偷狗",
+        "onboard_time": 1671791790,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210125,
+        "num": 210125,
+        "word": "男子怀疑妻子被唆使离婚殴打邻居",
+        "onboard_time": 1671797310,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197695,
+        "num": 197695,
+        "word": "转阴后要知道的10件事",
+        "onboard_time": 1671798210,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214119,
+        "num": 192234,
+        "word": "王源翻唱林俊杰翅膀",
+        "onboard_time": 1671797971,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 203204,
+        "num": 191228,
+        "word": "财阀家的小儿子",
+        "onboard_time": 1671798870,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 186264,
+        "num": 186264,
+        "word": "县委大院豆瓣7.1",
+        "onboard_time": 1671788669,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 181626,
+        "num": 181626,
+        "word": "被主人气到不停跺脚的狗狗",
+        "onboard_time": 1671795930,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 157692,
+        "num": 157692,
+        "word": "王冰冰挑战北京明白的工作",
+        "onboard_time": 1671794310,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146588,
+        "num": 146588,
+        "word": "猫猫也有鸭绒被啦",
+        "onboard_time": 1671793052,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 137505,
+        "num": 137505,
+        "word": "妻子阳后老公照顾离婚冷静期和好",
+        "onboard_time": 1671789928,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131154,
+        "num": 131154,
+        "word": "赌气不吃饭的小猫",
+        "onboard_time": 1671798389,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 125596,
+        "num": 125596,
+        "word": "国务院向云南调运100万人份抗原",
+        "onboard_time": 1671786747,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121541,
+        "num": 121541,
+        "word": "谷爱凌年收入1.4亿",
+        "onboard_time": 1671780569,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146021,
+        "num": 120928,
+        "word": "想见你",
+        "onboard_time": 1671763049,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 133016,
+        "num": 120734,
+        "word": "去有风的地方暂定1月3日开播",
+        "onboard_time": 1671798509,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 119644,
+        "num": 119644,
+        "word": "退烧药需求逐渐退烧",
+        "onboard_time": 1671783747,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117368,
+        "num": 117368,
+        "word": "2022你心中的古装美人",
+        "onboard_time": 1671799834,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 108532,
+        "num": 108532,
+        "word": "2022年度国民外卖盘点",
+        "onboard_time": 1671799410,
+        "rank": 44,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 105332,
+        "num": 105332,
+        "word": "siri是懂韩式英语的",
+        "onboard_time": 1671799292,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 104590,
+        "num": 104590,
+        "word": "创可贴上滴风油精贴喉咙可缓解咳嗽",
+        "onboard_time": 1671794970,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103183,
+        "num": 103183,
+        "word": "布洛芬退烧不能连吃超3天",
+        "onboard_time": 1671764727,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100765,
+        "num": 100765,
+        "word": "1岁半外孙见外婆摔倒跑去喊人扶起",
+        "onboard_time": 1671789389,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97225,
+        "num": 97225,
+        "word": "狗狗第一次来到家里的样子",
+        "onboard_time": 1671798932,
+        "rank": 49,
+        "category": "幽默,情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#2022那些对于热爱的回答#"
+    }
+  }
+}
