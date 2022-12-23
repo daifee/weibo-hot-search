@@ -1,6 +1,6 @@
 {
   "startTime": 1671380618877,
-  "endTime": 1671780807802,
+  "endTime": 1671783761344,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -441,6 +441,14 @@
       "onboard_time": 1671693809,
       "rank": 28,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 1818254,
+      "num": 1818254,
+      "word": "发烧传染全家竟是为了照顾女同学",
+      "onboard_time": 1671779009,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1806639,
@@ -1377,14 +1385,6 @@
       "onboard_time": 1671442169,
       "rank": 10,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 924339,
-      "num": 924339,
-      "word": "发烧传染全家竟是为了照顾女同学",
-      "onboard_time": 1671779009,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 923006,
@@ -2403,6 +2403,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 623551,
+      "num": 623551,
+      "word": "抗原红线深浅是否代表病毒载荷多少",
+      "onboard_time": 1671780988,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 620279,
       "num": 434353,
       "word": "车保罗说很开心还有人还记得我",
@@ -2715,6 +2723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 555548,
+      "num": 555548,
+      "word": "谷爱凌年收入1.4亿",
+      "onboard_time": 1671780569,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 555400,
       "num": 555400,
       "word": "羊被冻死牧羊犬试图唤醒贴身取暖",
@@ -3009,6 +3025,14 @@
       "onboard_time": 1671635435,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 513147,
+      "num": 513147,
+      "word": "许光汉 帅",
+      "onboard_time": 1671782848,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 504411,
@@ -3569,6 +3593,14 @@
       "onboard_time": 1671773970,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 430396,
+      "num": 430396,
+      "word": "今年考研到底有多卷",
+      "onboard_time": 1671782548,
+      "rank": 11,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 430172,
@@ -4987,6 +5019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 311989,
+      "num": 201198,
+      "word": "女孩高烧40度自然卷变成直发",
+      "onboard_time": 1671783086,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 311934,
       "num": 311934,
       "word": "老年人感染新冠后或发生沉默性缺氧",
@@ -5008,6 +5048,14 @@
       "word": "梅晓歌乔麦孩子颜值",
       "onboard_time": 1671701729,
       "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 310053,
+      "num": 310053,
+      "word": "电影想见你点映口碑",
+      "onboard_time": 1671781408,
+      "rank": 14,
       "category": "影视"
     },
     {
@@ -5097,6 +5145,14 @@
       "onboard_time": 1671491840,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 303725,
+      "num": 303725,
+      "word": "我们的客栈",
+      "onboard_time": 1671780270,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 303274,
@@ -5947,14 +6003,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 260819,
-      "num": 156788,
-      "word": "我们的客栈",
-      "onboard_time": 1671780270,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 260064,
       "num": 260064,
       "word": "赵樱子演过倚天黄衫女",
@@ -6201,6 +6249,14 @@
       "onboard_time": 1671446849,
       "rank": 24,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 246627,
+      "num": 246627,
+      "word": "原来小熊猫也是可以被认养的",
+      "onboard_time": 1671781468,
+      "rank": 19,
+      "category": "幽默"
     },
     {
       "raw_hot": 246497,
@@ -6675,6 +6731,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 223587,
+      "num": 223587,
+      "word": "羊圈里叫的都没这么标准",
+      "onboard_time": 1671781288,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 223451,
       "num": 223451,
       "word": "张云龙说男人对女人最大的赞美是求婚",
@@ -7051,6 +7115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 208440,
+      "num": 208440,
+      "word": "与杨紫共闻文成公主的传奇故事",
+      "onboard_time": 1671780808,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 208064,
       "num": 208064,
       "word": "深圳震感",
@@ -7113,6 +7185,14 @@
       "onboard_time": 1671711991,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 207345,
+      "num": 195898,
+      "word": "魅族发布会",
+      "onboard_time": 1671781710,
+      "rank": 32,
+      "category": "科技"
     },
     {
       "raw_hot": 207254,
@@ -7795,6 +7875,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 186058,
+      "num": 186058,
+      "word": "Lisa世巡solo舞台",
+      "onboard_time": 1671781049,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 186050,
       "num": 163004,
       "word": "王源黑胶空白碟面可以DIY",
@@ -7809,6 +7897,14 @@
       "onboard_time": 1671519447,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 185758,
+      "num": 202639,
+      "word": "布洛芬龙头新华制药跌近8%",
+      "onboard_time": 1671781468,
+      "rank": 29,
+      "category": "财经"
     },
     {
       "raw_hot": 185697,
@@ -8225,6 +8321,14 @@
       "onboard_time": 1671682051,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 176899,
+      "num": 176899,
+      "word": "当我学会用辩证法看待考研",
+      "onboard_time": 1671783266,
+      "rank": 35,
+      "category": "幽默,教育"
     },
     {
       "raw_hot": 176358,
@@ -8865,6 +8969,14 @@
       "onboard_time": 1671611910,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161214,
+      "num": 157579,
+      "word": "时代少年团绝配年度十大金曲",
+      "onboard_time": 1671781468,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 161023,
@@ -9915,6 +10027,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 134336,
+      "num": 134336,
+      "word": "长新冠是伪命题吗",
+      "onboard_time": 1671777808,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 134087,
       "num": 134087,
       "word": "武大靖泼水成冰",
@@ -10123,14 +10243,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 128843,
-      "num": 128843,
-      "word": "长新冠是伪命题吗",
-      "onboard_time": 1671777808,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 128809,
       "num": 128809,
       "word": "关晓彤问健身这件事你是钢卷尺还是皮卷尺",
@@ -10209,6 +10321,14 @@
       "onboard_time": 1671658271,
       "rank": 49,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 127347,
+      "num": 127347,
+      "word": "退烧药需求逐渐退烧",
+      "onboard_time": 1671783747,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 126540,
@@ -10451,6 +10571,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 119735,
+      "num": 119735,
+      "word": "AI绘画你是懂节日氛围感的",
+      "onboard_time": 1671782667,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 119231,
       "num": 119231,
       "word": "钓鱼小伙衣服没脱救起2名落水男孩",
@@ -10555,6 +10683,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 116172,
+      "num": 116172,
+      "word": "深圳产业链有多强",
+      "onboard_time": 1671783630,
+      "rank": 49,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 116042,
       "num": 116042,
       "word": "四川人冬至吃羊肉汤还惦记辣椒面",
@@ -10649,14 +10785,6 @@
       "onboard_time": 1671496890,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 113159,
-      "num": 113159,
-      "word": "谷爱凌年收入1.4亿",
-      "onboard_time": 1671780569,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 112349,

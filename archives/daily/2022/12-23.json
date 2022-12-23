@@ -1,6 +1,6 @@
 {
   "startTime": 1671726339693,
-  "endTime": 1671780807802,
+  "endTime": 1671783761344,
   "band_list": [
     {
       "raw_hot": 3022259,
@@ -33,6 +33,14 @@
       "onboard_time": 1671712410,
       "rank": 0,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1818254,
+      "num": 1818254,
+      "word": "发烧传染全家竟是为了照顾女同学",
+      "onboard_time": 1671779009,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1488929,
@@ -96,14 +104,6 @@
       "word": "布洛芬退烧不能连吃超3天",
       "onboard_time": 1671764727,
       "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 924339,
-      "num": 924339,
-      "word": "发烧传染全家竟是为了照顾女同学",
-      "onboard_time": 1671779009,
-      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -195,6 +195,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 623551,
+      "num": 623551,
+      "word": "抗原红线深浅是否代表病毒载荷多少",
+      "onboard_time": 1671780988,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 617027,
       "num": 617027,
       "word": "李晨说自己最怕失去的人是金钟国",
@@ -235,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 555548,
+      "num": 555548,
+      "word": "谷爱凌年收入1.4亿",
+      "onboard_time": 1671780569,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 553572,
       "num": 553572,
       "word": "阳了后的疼疼疼",
@@ -273,6 +289,14 @@
       "onboard_time": 1671774570,
       "rank": 15,
       "category": "情感"
+    },
+    {
+      "raw_hot": 513147,
+      "num": 513147,
+      "word": "许光汉 帅",
+      "onboard_time": 1671782848,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 502415,
@@ -361,6 +385,14 @@
       "onboard_time": 1671773970,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 430396,
+      "num": 430396,
+      "word": "今年考研到底有多卷",
+      "onboard_time": 1671782548,
+      "rank": 11,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 429369,
@@ -547,12 +579,28 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 311989,
+      "num": 201198,
+      "word": "女孩高烧40度自然卷变成直发",
+      "onboard_time": 1671783086,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 311934,
       "num": 311934,
       "word": "老年人感染新冠后或发生沉默性缺氧",
       "onboard_time": 1671759026,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 310053,
+      "num": 310053,
+      "word": "电影想见你点映口碑",
+      "onboard_time": 1671781408,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 310004,
@@ -585,6 +633,14 @@
       "onboard_time": 1671717031,
       "rank": 7,
       "category": "艺人,社会新闻"
+    },
+    {
+      "raw_hot": 303725,
+      "num": 303725,
+      "word": "我们的客栈",
+      "onboard_time": 1671780270,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 300695,
@@ -675,14 +731,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 260819,
-      "num": 156788,
-      "word": "我们的客栈",
-      "onboard_time": 1671780270,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 258974,
       "num": 258974,
       "word": "曼城3比2利物浦",
@@ -721,6 +769,14 @@
       "onboard_time": 1671746652,
       "rank": 32,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 246627,
+      "num": 246627,
+      "word": "原来小熊猫也是可以被认养的",
+      "onboard_time": 1671781468,
+      "rank": 19,
+      "category": "幽默"
     },
     {
       "raw_hot": 246174,
@@ -827,6 +883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 223587,
+      "num": 223587,
+      "word": "羊圈里叫的都没这么标准",
+      "onboard_time": 1671781288,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 223013,
       "num": 223013,
       "word": "樊登",
@@ -931,6 +995,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 208440,
+      "num": 208440,
+      "word": "与杨紫共闻文成公主的传奇故事",
+      "onboard_time": 1671780808,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 207345,
+      "num": 195898,
+      "word": "魅族发布会",
+      "onboard_time": 1671781710,
+      "rank": 32,
+      "category": "科技"
+    },
+    {
       "raw_hot": 205483,
       "num": 166034,
       "word": "阿凡达2全球票房破6亿美元",
@@ -1027,12 +1107,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 186058,
+      "num": 186058,
+      "word": "Lisa世巡solo舞台",
+      "onboard_time": 1671781049,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 186050,
       "num": 163004,
       "word": "王源黑胶空白碟面可以DIY",
       "onboard_time": 1671768210,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 185758,
+      "num": 202639,
+      "word": "布洛芬龙头新华制药跌近8%",
+      "onboard_time": 1671781468,
+      "rank": 29,
+      "category": "财经"
     },
     {
       "raw_hot": 185697,
@@ -1105,6 +1201,14 @@
       "onboard_time": 1671729078,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 176899,
+      "num": 176899,
+      "word": "当我学会用辩证法看待考研",
+      "onboard_time": 1671783266,
+      "rank": 35,
+      "category": "幽默,教育"
     },
     {
       "raw_hot": 174346,
@@ -1275,6 +1379,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 161214,
+      "num": 157579,
+      "word": "时代少年团绝配年度十大金曲",
+      "onboard_time": 1671781468,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 160137,
       "num": 434792,
       "word": "一种很新的穿搭方式",
@@ -1355,6 +1467,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 134336,
+      "num": 134336,
+      "word": "长新冠是伪命题吗",
+      "onboard_time": 1671777808,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 129753,
       "num": 129753,
       "word": "医药人士称印度仿制药存在诸多风险",
@@ -1363,11 +1483,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 128843,
-      "num": 128843,
-      "word": "长新冠是伪命题吗",
-      "onboard_time": 1671777808,
-      "rank": 48,
+      "raw_hot": 127347,
+      "num": 127347,
+      "word": "退烧药需求逐渐退烧",
+      "onboard_time": 1671783747,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -1427,6 +1547,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 119735,
+      "num": 119735,
+      "word": "AI绘画你是懂节日氛围感的",
+      "onboard_time": 1671782667,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 118707,
       "num": 118707,
       "word": "还以为真的看到价格了",
@@ -1451,12 +1579,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 113159,
-      "num": 113159,
-      "word": "谷爱凌年收入1.4亿",
-      "onboard_time": 1671780569,
-      "rank": 46,
-      "category": "体育"
+      "raw_hot": 116172,
+      "num": 116172,
+      "word": "深圳产业链有多强",
+      "onboard_time": 1671783630,
+      "rank": 49,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 112101,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1671783761344,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1818254,
+        "num": 1818254,
+        "word": "发烧传染全家竟是为了照顾女同学",
+        "onboard_time": 1671779009,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1189636,
+        "num": 1189636,
+        "word": "男子阳性后仍和俩孩子同桌吃饭被吐槽",
+        "onboard_time": 1671770130,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167552,
+        "num": 817426,
+        "word": "阳过能接种第二剂加强针吗",
+        "onboard_time": 1671769769,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 623551,
+        "num": 623551,
+        "word": "抗原红线深浅是否代表病毒载荷多少",
+        "onboard_time": 1671780988,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 558289,
+        "num": 558289,
+        "word": "想见你",
+        "onboard_time": 1671763049,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 555548,
+        "num": 555548,
+        "word": "谷爱凌年收入1.4亿",
+        "onboard_time": 1671780569,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 513147,
+        "num": 513147,
+        "word": "许光汉 帅",
+        "onboard_time": 1671782848,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 483606,
+        "num": 483606,
+        "word": "给还没羊的人留一句经验",
+        "onboard_time": 1671750737,
+        "rank": 7,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 481507,
+        "num": 481507,
+        "word": "布洛芬短期供需错配长期或供过于求",
+        "onboard_time": 1671776369,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 466677,
+        "num": 466677,
+        "word": "大马丁连续侮辱姆巴佩被投诉",
+        "onboard_time": 1671770668,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 465412,
+        "num": 465412,
+        "word": "钟楚曦给张云龙披荆斩棘打call视频",
+        "onboard_time": 1671778048,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 430396,
+        "num": 430396,
+        "word": "今年考研到底有多卷",
+        "onboard_time": 1671782548,
+        "rank": 11,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 333301,
+        "num": 333301,
+        "word": "沈月陈哲远奔跑吧合体",
+        "onboard_time": 1671779789,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 329489,
+        "num": 329489,
+        "word": "布洛芬退烧不能连吃超3天",
+        "onboard_time": 1671764727,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310053,
+        "num": 310053,
+        "word": "电影想见你点映口碑",
+        "onboard_time": 1671781408,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 304237,
+        "num": 304237,
+        "word": "印度准备增加对华退烧药出口",
+        "onboard_time": 1671773312,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303725,
+        "num": 303725,
+        "word": "我们的客栈",
+        "onboard_time": 1671780270,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 294570,
+        "num": 294570,
+        "word": "男子货架上找快递不是自己的全扔地上",
+        "onboard_time": 1671777267,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273086,
+        "num": 273086,
+        "word": "女子将布洛芬藏茶包里压最底层寄出",
+        "onboard_time": 1671758849,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246627,
+        "num": 246627,
+        "word": "原来小熊猫也是可以被认养的",
+        "onboard_time": 1671781468,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 237419,
+        "num": 237419,
+        "word": "肖战电视剧十大之最VCR视频",
+        "onboard_time": 1671776968,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 234744,
+        "num": 234744,
+        "word": "这猫是又菜又爱玩啊",
+        "onboard_time": 1671778649,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 233958,
+        "num": 233958,
+        "word": "唐嫣新综艺路透状态",
+        "onboard_time": 1671775350,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 232925,
+        "num": 232925,
+        "word": "谷爱凌收入排名女运动员第三位",
+        "onboard_time": 1671775350,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 229415,
+        "num": 229415,
+        "word": "龙驭球院士逝世",
+        "onboard_time": 1671773009,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223587,
+        "num": 223587,
+        "word": "羊圈里叫的都没这么标准",
+        "onboard_time": 1671781288,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 216221,
+        "num": 216221,
+        "word": "这可能就是结婚的意义吧",
+        "onboard_time": 1671774570,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 215677,
+        "num": 215677,
+        "word": "妈妈晒娃被网友提醒嘴唇发紫快送医",
+        "onboard_time": 1671766169,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208440,
+        "num": 208440,
+        "word": "与杨紫共闻文成公主的传奇故事",
+        "onboard_time": 1671780808,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185758,
+        "num": 202639,
+        "word": "布洛芬龙头新华制药跌近8%",
+        "onboard_time": 1671781468,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 311989,
+        "num": 201198,
+        "word": "女孩高烧40度自然卷变成直发",
+        "onboard_time": 1671783086,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196920,
+        "num": 196920,
+        "word": "张天爱听到于文文说她最美的反应",
+        "onboard_time": 1671779489,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207345,
+        "num": 195898,
+        "word": "魅族发布会",
+        "onboard_time": 1671781710,
+        "rank": 32,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 186058,
+        "num": 186058,
+        "word": "Lisa世巡solo舞台",
+        "onboard_time": 1671781049,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 182074,
+        "num": 182074,
+        "word": "樊登",
+        "onboard_time": 1671772890,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176899,
+        "num": 176899,
+        "word": "当我学会用辩证法看待考研",
+        "onboard_time": 1671783266,
+        "rank": 35,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 176556,
+        "num": 176556,
+        "word": "Hyein新歌ditto开头吟唱",
+        "onboard_time": 1671777567,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 164735,
+        "num": 164735,
+        "word": "李晨说自己最怕失去的人是金钟国",
+        "onboard_time": 1671767848,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162797,
+        "num": 162797,
+        "word": "保姆粗暴对待6月大婴儿",
+        "onboard_time": 1671771931,
+        "rank": 38,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 159676,
+        "num": 159676,
+        "word": "汽车4S店或退出历史舞台",
+        "onboard_time": 1671769349,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 161214,
+        "num": 157579,
+        "word": "时代少年团绝配年度十大金曲",
+        "onboard_time": 1671781468,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 154928,
+        "num": 154928,
+        "word": "这猫高低得是个王者",
+        "onboard_time": 1671779668,
+        "rank": 41,
+        "category": "游戏,幽默"
+      },
+      {
+        "raw_hot": 154312,
+        "num": 154312,
+        "word": "女儿吃邻居家药痊愈后宝妈满城送药",
+        "onboard_time": 1671773851,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140114,
+        "num": 140114,
+        "word": "考研",
+        "onboard_time": 1671754827,
+        "rank": 43,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 134336,
+        "num": 134336,
+        "word": "长新冠是伪命题吗",
+        "onboard_time": 1671777808,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128556,
+        "num": 128556,
+        "word": "谢娜做童年蛋黄小饼干vlog",
+        "onboard_time": 1671778889,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127347,
+        "num": 127347,
+        "word": "退烧药需求逐渐退烧",
+        "onboard_time": 1671783747,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125497,
+        "num": 125497,
+        "word": "蔡徐坤年度十大巅峰艺人",
+        "onboard_time": 1671778289,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 119735,
+        "num": 119735,
+        "word": "AI绘画你是懂节日氛围感的",
+        "onboard_time": 1671782667,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 116172,
+        "num": 116172,
+        "word": "深圳产业链有多强",
+        "onboard_time": 1671783630,
+        "rank": 49,
+        "category": "财经,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#2022那些对于热爱的回答#"
+    }
+  }
+}
