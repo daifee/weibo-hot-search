@@ -1,6 +1,6 @@
 {
   "startTime": 1671726339693,
-  "endTime": 1671763757138,
+  "endTime": 1671765593954,
   "band_list": [
     {
       "raw_hot": 3022259,
@@ -11,8 +11,8 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 2258865,
-      "num": 2258865,
+      "raw_hot": 2300855,
+      "num": 2300855,
       "word": "女子将布洛芬藏茶包里压最底层寄出",
       "onboard_time": 1671758849,
       "rank": 3,
@@ -67,6 +67,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 652583,
+      "num": 652583,
+      "word": "塔利班回应女性上大学禁令",
+      "onboard_time": 1671761788,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 626005,
       "num": 501373,
       "word": "BLACKPINK演唱会圣诞裙造型",
@@ -115,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 502415,
+      "num": 502415,
+      "word": "阿姨用0.19毫米银丝做出能动的小鱼",
+      "onboard_time": 1671761067,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 457067,
       "num": 457067,
       "word": "考研时间",
@@ -123,11 +139,11 @@
       "category": "教育"
     },
     {
-      "raw_hot": 447173,
-      "num": 395916,
-      "word": "塔利班回应女性上大学禁令",
-      "onboard_time": 1671761788,
-      "rank": 30,
+      "raw_hot": 440995,
+      "num": 410750,
+      "word": "87岁妻子在张富清灵前痛哭久久不愿离去",
+      "onboard_time": 1671764010,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -136,6 +152,14 @@
       "word": "华少没礼貌名场面",
       "onboard_time": 1671712052,
       "rank": 10,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 429904,
+      "num": 429904,
+      "word": "肖战如梦之梦中场休息视频",
+      "onboard_time": 1671763888,
+      "rank": 9,
       "category": "作品衍生"
     },
     {
@@ -187,19 +211,19 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 362767,
-      "num": 362767,
-      "word": "阿姨用0.19毫米银丝做出能动的小鱼",
-      "onboard_time": 1671761067,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 362025,
       "num": 362025,
       "word": "14岁女生用零花钱连续6年免费送水饺",
       "onboard_time": 1671760229,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 358505,
+      "num": 358505,
+      "word": "中方对余茂春等2人采取反制裁措施",
+      "onboard_time": 1671763230,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -251,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 310004,
+      "num": 310004,
+      "word": "1岁宝宝照顾发烧妈妈递水盖被",
+      "onboard_time": 1671762568,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 308222,
       "num": 308222,
       "word": "陆虎 送你们三千万",
@@ -275,12 +307,28 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 305115,
+      "num": 305115,
+      "word": "布洛芬退烧不能连吃超3天",
+      "onboard_time": 1671764727,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 295298,
       "num": 295298,
       "word": "挺进决赛圈的人有多嚣张",
       "onboard_time": 1671714215,
       "rank": 8,
       "category": "游戏,幽默"
+    },
+    {
+      "raw_hot": 294774,
+      "num": 294774,
+      "word": "部分iPhone14Pro被曝开机闪现水平线",
+      "onboard_time": 1671762630,
+      "rank": 47,
+      "category": "科技"
     },
     {
       "raw_hot": 293005,
@@ -297,6 +345,14 @@
       "onboard_time": 1671722670,
       "rank": 14,
       "category": "情感,教育"
+    },
+    {
+      "raw_hot": 267128,
+      "num": 267128,
+      "word": "FIFA年终排名国足第80名",
+      "onboard_time": 1671761251,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 264700,
@@ -363,12 +419,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 237346,
-      "num": 203277,
-      "word": "中方对余茂春等2人采取反制裁措施",
-      "onboard_time": 1671763230,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 237325,
+      "num": 237325,
+      "word": "暃S30战令皮肤",
+      "onboard_time": 1671762450,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 237028,
@@ -387,14 +443,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 230776,
-      "num": 230776,
-      "word": "FIFA年终排名国足第80名",
-      "onboard_time": 1671761251,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 228096,
       "num": 228096,
       "word": "高盛称A股牛市就要到来",
@@ -403,20 +451,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 227592,
+      "num": 227592,
+      "word": "SMTOWN冬专EXO预告照",
+      "onboard_time": 1671764129,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 226560,
       "num": 215749,
       "word": "县委大院大结局收视战报",
       "onboard_time": 1671759689,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 223320,
-      "num": 223320,
-      "word": "暃S30战令皮肤",
-      "onboard_time": 1671762450,
-      "rank": 39,
-      "category": "游戏"
     },
     {
       "raw_hot": 222242,
@@ -441,6 +489,14 @@
       "onboard_time": 1671760348,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 213264,
+      "num": 213264,
+      "word": "月光族精神状态",
+      "onboard_time": 1671764911,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 212608,
@@ -496,6 +552,14 @@
       "word": "快递包裹破了个洞美林却不翼而飞",
       "onboard_time": 1671711754,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192974,
+      "num": 192974,
+      "word": "这个好消息多希望袁爷爷能听到",
+      "onboard_time": 1671763291,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -555,12 +619,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 174236,
+      "num": 174236,
+      "word": "药店回应限售抗原为囤货质疑",
+      "onboard_time": 1671761970,
+      "rank": 43,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 170179,
       "num": 170179,
       "word": "孙子和孙女不同起床待遇",
       "onboard_time": 1671718653,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 169942,
+      "num": 169942,
+      "word": "安崎新歌fire",
+      "onboard_time": 1671765210,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 167285,
@@ -579,30 +659,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 165775,
-      "num": 165775,
-      "word": "药店回应限售抗原为囤货质疑",
-      "onboard_time": 1671761970,
-      "rank": 43,
-      "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 164320,
-      "num": 164320,
-      "word": "1岁宝宝照顾发烧妈妈递水盖被",
-      "onboard_time": 1671762568,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 163200,
-      "num": 163200,
-      "word": "部分iPhone14Pro被曝开机闪现水平线",
-      "onboard_time": 1671762630,
-      "rank": 47,
-      "category": "科技"
-    },
-    {
       "raw_hot": 162671,
       "num": 162671,
       "word": "杨紫说最近不会接综艺",
@@ -616,14 +672,6 @@
       "word": "网友称考研民宿房费暴涨近20倍",
       "onboard_time": 1671728539,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 152831,
-      "num": 152831,
-      "word": "这个好消息多希望袁爷爷能听到",
-      "onboard_time": 1671763291,
-      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -649,6 +697,14 @@
       "onboard_time": 1671758007,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 132785,
+      "num": 150629,
+      "word": "这就是小猫剃须刀吧",
+      "onboard_time": 1671765031,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 126276,
@@ -739,6 +795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 111107,
+      "num": 148797,
+      "word": "部分血氧仪卖断货",
+      "onboard_time": 1671765509,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 110267,
       "num": 110267,
       "word": "原来好的恋爱会让人变好看",
@@ -753,6 +817,14 @@
       "onboard_time": 1671763708,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 108529,
+      "num": 148528,
+      "word": "你的奖学金买了啥",
+      "onboard_time": 1671765328,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 108170,
