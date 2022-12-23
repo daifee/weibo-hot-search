@@ -1,6 +1,6 @@
 {
   "startTime": 1671726339693,
-  "endTime": 1671788020393,
+  "endTime": 1671790789022,
   "band_list": [
     {
       "raw_hot": 3022259,
@@ -67,6 +67,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1313879,
+      "num": 1313879,
+      "word": "妈妈阳性宝宝生下来就发烧",
+      "onboard_time": 1671786447,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1281562,
       "num": 1281562,
       "word": "编剧倪震去世",
@@ -89,6 +97,22 @@
       "onboard_time": 1671770668,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1079051,
+      "num": 1079051,
+      "word": "涉赌主播吸金1.2亿获刑6年",
+      "onboard_time": 1671788848,
+      "rank": 3,
+      "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 1016299,
+      "num": 383024,
+      "word": "苗苗在张云龙面前提钟楚曦",
+      "onboard_time": 1671788129,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 999820,
@@ -115,19 +139,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 921832,
+      "num": 921832,
+      "word": "顺丰回应包裹破洞美林不翼而飞",
+      "onboard_time": 1671786388,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 853197,
+      "num": 853197,
+      "word": "共和国三天内痛失六位院士",
+      "onboard_time": 1671789270,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 814052,
       "num": 814052,
       "word": "布洛芬短期供需错配长期或供过于求",
       "onboard_time": 1671776369,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 806213,
-      "num": 806213,
-      "word": "顺丰回应包裹破洞美林不翼而飞",
-      "onboard_time": 1671786388,
-      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -179,6 +211,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 718673,
+      "num": 718673,
+      "word": "背肖四",
+      "onboard_time": 1671788788,
+      "rank": 7,
+      "category": "教育"
+    },
+    {
       "raw_hot": 710593,
       "num": 710593,
       "word": "塔利班回应女性上大学禁令",
@@ -187,11 +227,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 688327,
-      "num": 688327,
-      "word": "妈妈阳性宝宝生下来就发烧",
-      "onboard_time": 1671786447,
-      "rank": 21,
+      "raw_hot": 686637,
+      "num": 686637,
+      "word": "国务院向云南调运100万人份抗原",
+      "onboard_time": 1671786747,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -763,6 +803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 264911,
+      "num": 239505,
+      "word": "马嘉祺今日直播状态",
+      "onboard_time": 1671788069,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 264700,
       "num": 229171,
       "word": "杨幂芭莎蕾丝纱裙造型",
@@ -777,6 +825,14 @@
       "onboard_time": 1671722608,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 261470,
+      "num": 239504,
+      "word": "县委大院豆瓣7.1",
+      "onboard_time": 1671788669,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 258974,
@@ -907,14 +963,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 227773,
-      "num": 227773,
-      "word": "国务院向云南调运100万人份抗原",
-      "onboard_time": 1671786747,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 227592,
       "num": 227592,
       "word": "SMTOWN冬专EXO预告照",
@@ -924,7 +972,7 @@
     },
     {
       "raw_hot": 227212,
-      "num": 1148719,
+      "num": 1192346,
       "word": "阳过能接种第二剂加强针吗",
       "onboard_time": 1671769769,
       "rank": 2,
@@ -945,6 +993,14 @@
       "onboard_time": 1671768448,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 224069,
+      "num": 160606,
+      "word": "浮图缘连更17天",
+      "onboard_time": 1671789572,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 223013,
@@ -1067,6 +1123,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 208485,
+      "num": 208485,
+      "word": "想一起烤火的小猫",
+      "onboard_time": 1671787230,
+      "rank": 37,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 208440,
       "num": 208440,
       "word": "与杨紫共闻文成公主的传奇故事",
@@ -1097,6 +1161,22 @@
       "onboard_time": 1671758189,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 199877,
+      "num": 199877,
+      "word": "妻子阳后老公照顾离婚冷静期和好",
+      "onboard_time": 1671789928,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 197485,
+      "num": 197485,
+      "word": "MOJ对战EDG",
+      "onboard_time": 1671789210,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 197430,
@@ -1209,6 +1289,14 @@
       "onboard_time": 1671730216,
       "rank": 32,
       "category": "作品衍生,情感"
+    },
+    {
+      "raw_hot": 185648,
+      "num": 185648,
+      "word": "别同时对两个单身的人催婚",
+      "onboard_time": 1671788249,
+      "rank": 27,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 185079,
@@ -1467,6 +1555,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 161472,
+      "num": 161472,
+      "word": "炉石制作人给国服玩家留言",
+      "onboard_time": 1671788548,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 161214,
       "num": 157579,
       "word": "时代少年团绝配年度十大金曲",
@@ -1523,8 +1619,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 147376,
-      "num": 147376,
+      "raw_hot": 148666,
+      "num": 148666,
       "word": "春运将从1月7日开始",
       "onboard_time": 1671786089,
       "rank": 34,
@@ -1545,6 +1641,14 @@
       "onboard_time": 1671741073,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 145720,
+      "num": 145720,
+      "word": "1岁半外孙见外婆摔倒跑去喊人扶起",
+      "onboard_time": 1671789389,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 145160,
@@ -1627,20 +1731,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 125736,
-      "num": 125736,
-      "word": "想一起烤火的小猫",
-      "onboard_time": 1671787230,
-      "rank": 37,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 125537,
       "num": 125537,
       "word": "阳后出现不典型症状究竟是什么原因",
       "onboard_time": 1671741672,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 125010,
+      "num": 157335,
+      "word": "你永远不知道监控下会发生啥",
+      "onboard_time": 1671790049,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 123457,
@@ -1721,6 +1825,22 @@
       "onboard_time": 1671778409,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 118337,
+      "num": 118337,
+      "word": "郭艾伦复出",
+      "onboard_time": 1671789869,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 114110,
+      "num": 114110,
+      "word": "差点就要愧疚一辈子了",
+      "onboard_time": 1671790171,
+      "rank": 44,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 112101,
@@ -1811,6 +1931,22 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 102048,
+      "num": 102048,
+      "word": "美国特别委会建议禁止特朗普参选",
+      "onboard_time": 1671790529,
+      "rank": 46,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 97154,
+      "num": 97154,
+      "word": "女子发烧40度醒来后变呱呱音",
+      "onboard_time": 1671790349,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 96564,
       "num": 96564,
       "word": "研究生夜跑跳入刺骨河水救人",
@@ -1891,6 +2027,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 80885,
+      "num": 94335,
+      "word": "2022德玛西亚杯",
+      "onboard_time": 1671790650,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 77289,
       "num": 92959,
       "word": "猫咪不喜欢狗的原因找到了",
@@ -1929,6 +2073,14 @@
       "onboard_time": 1671688409,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 71133,
+      "num": 288108,
+      "word": "张天爱练瑜伽好稳",
+      "onboard_time": 1671789632,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 62995,
