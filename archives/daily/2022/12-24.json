@@ -1,6 +1,6 @@
 {
   "startTime": 1671812678291,
-  "endTime": 1671816798049,
+  "endTime": 1671819703533,
   "band_list": [
     {
       "raw_hot": 985400,
@@ -299,6 +299,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 132811,
+      "num": 49762,
+      "word": "学校回应疑教师上网课现不雅聊天",
+      "onboard_time": 1671815778,
+      "rank": 43,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 128472,
       "num": 128472,
       "word": "彩礼在结婚中真的很重要吗",
@@ -411,14 +419,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 49762,
-      "num": 49762,
-      "word": "学校回应疑教师上网课现不雅聊天",
-      "onboard_time": 1671815778,
-      "rank": 43,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 47676,
       "num": 63397,
       "word": "肩颈一下就展开了",
@@ -441,6 +441,14 @@
       "onboard_time": 1671815239,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 35101,
+      "num": 35101,
+      "word": "阳了之后你会失眠吗",
+      "onboard_time": 1671818594,
+      "rank": 39,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
