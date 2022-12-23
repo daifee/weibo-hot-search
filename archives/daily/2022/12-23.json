@@ -1,6 +1,6 @@
 {
   "startTime": 1671726339693,
-  "endTime": 1671765593954,
+  "endTime": 1671766435412,
   "band_list": [
     {
       "raw_hot": 3022259,
@@ -59,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 764801,
+      "num": 764801,
+      "word": "浮图缘",
+      "onboard_time": 1671761908,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 720853,
       "num": 613348,
       "word": "吕小军回应被禁赛",
@@ -67,11 +75,19 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 652583,
-      "num": 652583,
+      "raw_hot": 710593,
+      "num": 710593,
       "word": "塔利班回应女性上大学禁令",
       "onboard_time": 1671761788,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 672893,
+      "num": 672893,
+      "word": "布洛芬退烧不能连吃超3天",
+      "onboard_time": 1671764727,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -83,20 +99,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 592105,
-      "num": 592105,
-      "word": "浮图缘",
-      "onboard_time": 1671761908,
-      "rank": 7,
-      "category": "影视"
-    },
-    {
       "raw_hot": 586440,
       "num": 586440,
       "word": "才知道布洛芬不适合我",
       "onboard_time": 1671722069,
       "rank": 3,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 556267,
+      "num": 452236,
+      "word": "87岁妻子在张富清灵前痛哭久久不愿离去",
+      "onboard_time": 1671764010,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 553572,
@@ -131,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 462478,
+      "num": 462478,
+      "word": "肖战如梦之梦中场休息视频",
+      "onboard_time": 1671763888,
+      "rank": 9,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 457067,
       "num": 457067,
       "word": "考研时间",
@@ -139,27 +163,11 @@
       "category": "教育"
     },
     {
-      "raw_hot": 440995,
-      "num": 410750,
-      "word": "87岁妻子在张富清灵前痛哭久久不愿离去",
-      "onboard_time": 1671764010,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 433824,
       "num": 291719,
       "word": "华少没礼貌名场面",
       "onboard_time": 1671712052,
       "rank": 10,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 429904,
-      "num": 429904,
-      "word": "肖战如梦之梦中场休息视频",
-      "onboard_time": 1671763888,
-      "rank": 9,
       "category": "作品衍生"
     },
     {
@@ -235,6 +243,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 351319,
+      "num": 351319,
+      "word": "田曦薇推荐种田文",
+      "onboard_time": 1671765990,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 344499,
       "num": 344499,
       "word": "王者2023年度版本开航",
@@ -307,12 +323,12 @@
       "category": "艺人,社会新闻"
     },
     {
-      "raw_hot": 305115,
-      "num": 305115,
-      "word": "布洛芬退烧不能连吃超3天",
-      "onboard_time": 1671764727,
-      "rank": 17,
-      "category": "社会新闻"
+      "raw_hot": 300695,
+      "num": 300695,
+      "word": "虞书欣王鹤棣苍兰诀德塔文卓越景气奖",
+      "onboard_time": 1671765747,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 295298,
@@ -339,20 +355,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 290068,
+      "num": 290068,
+      "word": "FIFA年终排名国足第80名",
+      "onboard_time": 1671761251,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 278311,
       "num": 278311,
       "word": "为2023考研人加油",
       "onboard_time": 1671722670,
       "rank": 14,
       "category": "情感,教育"
-    },
-    {
-      "raw_hot": 267128,
-      "num": 267128,
-      "word": "FIFA年终排名国足第80名",
-      "onboard_time": 1671761251,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 264700,
@@ -417,6 +433,14 @@
       "onboard_time": 1671762630,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 238198,
+      "num": 238198,
+      "word": "张艺兴时隔三年再发苦情歌",
+      "onboard_time": 1671765692,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 237325,
@@ -555,6 +579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 193589,
+      "num": 193589,
+      "word": "县委大院",
+      "onboard_time": 1671765692,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 192974,
       "num": 192974,
       "word": "这个好消息多希望袁爷爷能听到",
@@ -627,6 +659,22 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 173388,
+      "num": 173388,
+      "word": "你的奖学金买了啥",
+      "onboard_time": 1671765328,
+      "rank": 49,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 173274,
+      "num": 173274,
+      "word": "这就是小猫剃须刀吧",
+      "onboard_time": 1671765031,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 170179,
       "num": 170179,
       "word": "孙子和孙女不同起床待遇",
@@ -659,12 +707,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 165011,
+      "num": 165011,
+      "word": "妻子回应张纪中感染新冠",
+      "onboard_time": 1671764911,
+      "rank": 42,
+      "category": "艺人,社会新闻"
+    },
+    {
+      "raw_hot": 163871,
+      "num": 163871,
+      "word": "看病老人偷发热门诊护士的手机",
+      "onboard_time": 1671765628,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162671,
       "num": 162671,
       "word": "杨紫说最近不会接综艺",
       "onboard_time": 1671732674,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 160958,
+      "num": 160958,
+      "word": "部分血氧仪卖断货",
+      "onboard_time": 1671765509,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 156414,
@@ -683,6 +755,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 147036,
+      "num": 147036,
+      "word": "穿靴子的猫2今日上映",
+      "onboard_time": 1671766411,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 146338,
+      "num": 146338,
+      "word": "G2官宣2023阵容",
+      "onboard_time": 1671766050,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 145833,
       "num": 103934,
       "word": "兔年春晚logo是卯字",
@@ -691,20 +779,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 139960,
+      "num": 139960,
+      "word": "妈妈晒娃被网友提醒嘴唇发紫快送医",
+      "onboard_time": 1671766169,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 134799,
+      "num": 134799,
+      "word": "对自己身高有误解的狗狗",
+      "onboard_time": 1671765928,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 134734,
       "num": 103927,
       "word": "杨紫清唱说爱你",
       "onboard_time": 1671758007,
       "rank": 41,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 132785,
-      "num": 150629,
-      "word": "这就是小猫剃须刀吧",
-      "onboard_time": 1671765031,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 126276,
@@ -795,14 +891,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 111107,
-      "num": 148797,
-      "word": "部分血氧仪卖断货",
-      "onboard_time": 1671765509,
-      "rank": 48,
-      "category": "财经"
-    },
-    {
       "raw_hot": 110267,
       "num": 110267,
       "word": "原来好的恋爱会让人变好看",
@@ -817,14 +905,6 @@
       "onboard_time": 1671763708,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 108529,
-      "num": 148528,
-      "word": "你的奖学金买了啥",
-      "onboard_time": 1671765328,
-      "rank": 49,
-      "category": "教育"
     },
     {
       "raw_hot": 108170,
