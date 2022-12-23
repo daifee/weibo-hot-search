@@ -1,6 +1,6 @@
 {
   "startTime": 1671726339693,
-  "endTime": 1671805999811,
+  "endTime": 1671808699709,
   "band_list": [
     {
       "raw_hot": 3022259,
@@ -75,6 +75,14 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 1487320,
+      "num": 1487320,
+      "word": "发烧时要少吃高蛋白食物",
+      "onboard_time": 1671805170,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1446190,
       "num": 564510,
       "word": "奥运冠军吕小军被临时禁赛",
@@ -120,6 +128,14 @@
       "word": "共和国三天内痛失六位院士",
       "onboard_time": 1671789270,
       "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1189773,
+      "num": 1189773,
+      "word": "青岛目前每日新增感染50万人左右",
+      "onboard_time": 1671807270,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -507,6 +523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 532411,
+      "num": 532411,
+      "word": "梅婷演技 绝",
+      "onboard_time": 1671807148,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 521052,
       "num": 521052,
       "word": "这可能就是结婚的意义吧",
@@ -723,6 +747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 393871,
+      "num": 393871,
+      "word": "折腰",
+      "onboard_time": 1671806851,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 392476,
       "num": 392476,
       "word": "考研加油",
@@ -785,6 +817,14 @@
       "onboard_time": 1671760229,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 361041,
+      "num": 361041,
+      "word": "李子维为了见黄雨萱每天喝奶茶",
+      "onboard_time": 1671806432,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 358505,
@@ -907,6 +947,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 313145,
+      "num": 313145,
+      "word": "一战成硕",
+      "onboard_time": 1671805051,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
       "raw_hot": 311934,
       "num": 311934,
       "word": "老年人感染新冠后或发生沉默性缺氧",
@@ -963,20 +1011,20 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 304631,
+      "num": 304631,
+      "word": "女子发烧出汗浸湿被子晾晒后被吹跑",
+      "onboard_time": 1671805648,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 300695,
       "num": 300695,
       "word": "虞书欣王鹤棣苍兰诀德塔文卓越景气奖",
       "onboard_time": 1671765747,
       "rank": 16,
       "category": "影视"
-    },
-    {
-      "raw_hot": 298207,
-      "num": 298207,
-      "word": "发烧时要少吃高蛋白食物",
-      "onboard_time": 1671805170,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 296216,
@@ -1507,6 +1555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 208009,
+      "num": 208009,
+      "word": "感冒和新冠会同时得吗",
+      "onboard_time": 1671806370,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 207345,
       "num": 195898,
       "word": "魅族发布会",
@@ -1529,6 +1585,14 @@
       "onboard_time": 1671758189,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 203651,
+      "num": 203651,
+      "word": "观众朋友们 我想死你们了",
+      "onboard_time": 1671803668,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 200696,
@@ -1603,20 +1667,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 194532,
-      "num": 194532,
-      "word": "一战成硕",
-      "onboard_time": 1671805051,
-      "rank": 34,
-      "category": "教育"
-    },
-    {
       "raw_hot": 193589,
       "num": 193589,
       "word": "县委大院",
       "onboard_time": 1671765692,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 193055,
+      "num": 165713,
+      "word": "校服全智贤和Ditto的适配度",
+      "onboard_time": 1671807991,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 192974,
@@ -1923,6 +1987,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 171249,
+      "num": 136414,
+      "word": "陈哲远是懂抽卡的快乐的",
+      "onboard_time": 1671808349,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 170567,
       "num": 170567,
       "word": "猫猫也有鸭绒被啦",
@@ -2001,6 +2073,14 @@
       "onboard_time": 1671776369,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 166158,
+      "num": 135917,
+      "word": "家有姐妹好看吗",
+      "onboard_time": 1671808349,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 165333,
@@ -2227,14 +2307,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 145122,
-      "num": 145122,
-      "word": "观众朋友们 我想死你们了",
-      "onboard_time": 1671803668,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 143550,
       "num": 143550,
       "word": "一诺的心愿便利贴",
@@ -2435,6 +2507,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 115347,
+      "num": 115347,
+      "word": "小猫的杀手锏是可爱吧",
+      "onboard_time": 1671805889,
+      "rank": 48,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 115035,
       "num": 115035,
       "word": "狗狗第一次来到家里的样子",
@@ -2457,6 +2537,14 @@
       "onboard_time": 1671694053,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 110559,
+      "num": 110559,
+      "word": "这猫烟瘾挺大啊",
+      "onboard_time": 1671807933,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 110267,
@@ -2531,12 +2619,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 105921,
-      "num": 105921,
-      "word": "小猫的杀手锏是可爱吧",
-      "onboard_time": 1671805889,
-      "rank": 48,
-      "category": "幽默,情感"
+      "raw_hot": 106052,
+      "num": 106052,
+      "word": "肩颈一下就展开了",
+      "onboard_time": 1671808650,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 105614,
