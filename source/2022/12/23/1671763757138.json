@@ -1,0 +1,410 @@
+{
+  "runTime": 1671763757138,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2312496,
+        "num": 2312496,
+        "word": "给还没羊的人留一句经验",
+        "onboard_time": 1671750737,
+        "rank": 0,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 2202336,
+        "num": 2202336,
+        "word": "女子将布洛芬藏茶包里压最底层寄出",
+        "onboard_time": 1671758849,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 10614,
+        "num": 1107825,
+        "word": "关于孩子发烧17个热点问答",
+        "onboard_time": 1671693391,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 844632,
+        "num": 844632,
+        "word": "决赛圈",
+        "onboard_time": 1671712410,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 806077,
+        "num": 806077,
+        "word": "黄磊感染新冠",
+        "onboard_time": 1671754886,
+        "rank": 4,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 611414,
+        "num": 611414,
+        "word": "三次抗原检测可代替两次核酸检测",
+        "onboard_time": 1671756329,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 720853,
+        "num": 603199,
+        "word": "吕小军回应被禁赛",
+        "onboard_time": 1671761189,
+        "rank": 6,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 592105,
+        "num": 592105,
+        "word": "浮图缘",
+        "onboard_time": 1671761908,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 443847,
+        "num": 443847,
+        "word": "考研时间",
+        "onboard_time": 1671758369,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 425360,
+        "num": 425360,
+        "word": "里沙利松倒钩当选世界杯最佳进球",
+        "onboard_time": 1671759147,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 626005,
+        "num": 410226,
+        "word": "BLACKPINK演唱会圣诞裙造型",
+        "onboard_time": 1671759689,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 447173,
+        "num": 395916,
+        "word": "塔利班回应女性上大学禁令",
+        "onboard_time": 1671761788,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 362767,
+        "num": 362767,
+        "word": "阿姨用0.19毫米银丝做出能动的小鱼",
+        "onboard_time": 1671761067,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 362025,
+        "num": 362025,
+        "word": "14岁女生用零花钱连续6年免费送水饺",
+        "onboard_time": 1671760229,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 344499,
+        "num": 344499,
+        "word": "王者2023年度版本开航",
+        "onboard_time": 1671760529,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1270088,
+        "num": 336447,
+        "word": "奥运冠军吕小军被临时禁赛",
+        "onboard_time": 1671760348,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 322695,
+        "num": 322695,
+        "word": "吕小军",
+        "onboard_time": 1671760646,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 314064,
+        "num": 314064,
+        "word": "妈妈阳后第3天就坚持做饭",
+        "onboard_time": 1671740471,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311934,
+        "num": 311934,
+        "word": "老年人感染新冠后或发生沉默性缺氧",
+        "onboard_time": 1671759026,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256770,
+        "num": 256770,
+        "word": "陆虎 送你们三千万",
+        "onboard_time": 1671755369,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 253483,
+        "num": 253483,
+        "word": "阳了后的疼疼疼",
+        "onboard_time": 1671754044,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252240,
+        "num": 252240,
+        "word": "李晨问杨颖做美甲后怎么开易拉罐",
+        "onboard_time": 1671722069,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 243622,
+        "num": 243622,
+        "word": "编剧倪震去世",
+        "onboard_time": 1671723566,
+        "rank": 22,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 232500,
+        "num": 232500,
+        "word": "江苏卫视跨年第二波阵容官宣",
+        "onboard_time": 1671760348,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230776,
+        "num": 230776,
+        "word": "FIFA年终排名国足第80名",
+        "onboard_time": 1671761251,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 223320,
+        "num": 223320,
+        "word": "暃S30战令皮肤",
+        "onboard_time": 1671762450,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 221940,
+        "num": 221940,
+        "word": "考研",
+        "onboard_time": 1671754827,
+        "rank": 26,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 214658,
+        "num": 214658,
+        "word": "王鹤棣浮图缘海外版预告",
+        "onboard_time": 1671762630,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 207719,
+        "num": 207719,
+        "word": "想见你",
+        "onboard_time": 1671763049,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 203463,
+        "num": 203463,
+        "word": "爷爷为让孙子安心上学凌晨抱狗求医",
+        "onboard_time": 1671758609,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237346,
+        "num": 203277,
+        "word": "中方对余茂春等2人采取反制裁措施",
+        "onboard_time": 1671763230,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198460,
+        "num": 198460,
+        "word": "RedVelvetPsycho发行三周年",
+        "onboard_time": 1671760348,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 197414,
+        "num": 197414,
+        "word": "杨迪用备忘录记录各种梗和包袱",
+        "onboard_time": 1671762029,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195806,
+        "num": 195806,
+        "word": "回来的女儿",
+        "onboard_time": 1671763291,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 191937,
+        "num": 191937,
+        "word": "你接受结婚不办婚礼吗",
+        "onboard_time": 1671722608,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178270,
+        "num": 178270,
+        "word": "林巧稚曾亲手接生了袁隆平",
+        "onboard_time": 1671758909,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168117,
+        "num": 168117,
+        "word": "满足什么条件可以返岗复工",
+        "onboard_time": 1671758189,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165775,
+        "num": 165775,
+        "word": "药店回应限售抗原为囤货质疑",
+        "onboard_time": 1671761970,
+        "rank": 37,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 164320,
+        "num": 164320,
+        "word": "1岁宝宝照顾发烧妈妈递水盖被",
+        "onboard_time": 1671762568,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163200,
+        "num": 163200,
+        "word": "部分iPhone14Pro被曝开机闪现水平线",
+        "onboard_time": 1671762630,
+        "rank": 39,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 189295,
+        "num": 162518,
+        "word": "王冰冰土法烤红薯",
+        "onboard_time": 1671755907,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176685,
+        "num": 161507,
+        "word": "刘宇宁官宣加盟江苏卫视跨年",
+        "onboard_time": 1671762148,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159460,
+        "num": 159460,
+        "word": "张文宏建议老年人每天吃2个鸡蛋",
+        "onboard_time": 1671720512,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152831,
+        "num": 152831,
+        "word": "这个好消息多希望袁爷爷能听到",
+        "onboard_time": 1671763291,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144814,
+        "num": 144814,
+        "word": "快递包裹破了个洞美林却不翼而飞",
+        "onboard_time": 1671711754,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144720,
+        "num": 144720,
+        "word": "黑龙江被抢药店老板已暂停免费发药",
+        "onboard_time": 1671730456,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140904,
+        "num": 140904,
+        "word": "长沙某火锅店强制顾客餐后漱口",
+        "onboard_time": 1671725365,
+        "rank": 46,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 136227,
+        "num": 136227,
+        "word": "曼城3比2利物浦",
+        "onboard_time": 1671751940,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126276,
+        "num": 126276,
+        "word": "爸爸跟宝宝玩藏猫猫摔倒趴地上缓半天",
+        "onboard_time": 1671762210,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109805,
+        "num": 124647,
+        "word": "这游戏太考验脑子了",
+        "onboard_time": 1671763708,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#以新气象新作为推动高质量发展取得新成效#"
+    }
+  }
+}

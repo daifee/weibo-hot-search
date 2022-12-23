@@ -1,6 +1,6 @@
 {
   "startTime": 1671726339693,
-  "endTime": 1671763136650,
+  "endTime": 1671763757138,
   "band_list": [
     {
       "raw_hot": 3022259,
@@ -59,7 +59,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 699008,
+      "raw_hot": 720853,
       "num": 613348,
       "word": "吕小军回应被禁赛",
       "onboard_time": 1671761189,
@@ -67,12 +67,20 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 619120,
+      "raw_hot": 626005,
       "num": 501373,
       "word": "BLACKPINK演唱会圣诞裙造型",
       "onboard_time": 1671759689,
       "rank": 7,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 592105,
+      "num": 592105,
+      "word": "浮图缘",
+      "onboard_time": 1671761908,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 586440,
@@ -81,14 +89,6 @@
       "onboard_time": 1671722069,
       "rank": 3,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 573080,
-      "num": 573080,
-      "word": "浮图缘",
-      "onboard_time": 1671761908,
-      "rank": 7,
-      "category": "影视"
     },
     {
       "raw_hot": 553572,
@@ -123,6 +123,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 447173,
+      "num": 395916,
+      "word": "塔利班回应女性上大学禁令",
+      "onboard_time": 1671761788,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 433824,
       "num": 291719,
       "word": "华少没礼貌名场面",
@@ -155,20 +163,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 425360,
+      "num": 425360,
+      "word": "里沙利松倒钩当选世界杯最佳进球",
+      "onboard_time": 1671759147,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 401550,
       "num": 401550,
       "word": "黑龙江被抢药店老板已暂停免费发药",
       "onboard_time": 1671730456,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 385687,
-      "num": 385687,
-      "word": "里沙利松倒钩当选世界杯最佳进球",
-      "onboard_time": 1671759147,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 383792,
@@ -179,8 +187,16 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 358422,
-      "num": 358422,
+      "raw_hot": 362767,
+      "num": 362767,
+      "word": "阿姨用0.19毫米银丝做出能动的小鱼",
+      "onboard_time": 1671761067,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 362025,
+      "num": 362025,
       "word": "14岁女生用零花钱连续6年免费送水饺",
       "onboard_time": 1671760229,
       "rank": 48,
@@ -195,12 +211,12 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 339899,
-      "num": 176601,
-      "word": "塔利班回应女性上大学禁令",
-      "onboard_time": 1671761788,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 344499,
+      "num": 344499,
+      "word": "王者2023年度版本开航",
+      "onboard_time": 1671760529,
+      "rank": 15,
+      "category": "游戏"
     },
     {
       "raw_hot": 330810,
@@ -209,14 +225,6 @@
       "onboard_time": 1671754405,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 316770,
-      "num": 316770,
-      "word": "王者2023年度版本开航",
-      "onboard_time": 1671760529,
-      "rank": 15,
-      "category": "游戏"
     },
     {
       "raw_hot": 315960,
@@ -233,6 +241,14 @@
       "onboard_time": 1671705212,
       "rank": 12,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 311934,
+      "num": 311934,
+      "word": "老年人感染新冠后或发生沉默性缺氧",
+      "onboard_time": 1671759026,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 308222,
@@ -257,22 +273,6 @@
       "onboard_time": 1671717031,
       "rank": 7,
       "category": "艺人,社会新闻"
-    },
-    {
-      "raw_hot": 303607,
-      "num": 303607,
-      "word": "老年人感染新冠后或发生沉默性缺氧",
-      "onboard_time": 1671759026,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 299582,
-      "num": 299582,
-      "word": "阿姨用0.19毫米银丝做出能动的小鱼",
-      "onboard_time": 1671761067,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 295298,
@@ -363,6 +363,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 237346,
+      "num": 203277,
+      "word": "中方对余茂春等2人采取反制裁措施",
+      "onboard_time": 1671763230,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 237028,
       "num": 216119,
       "word": "王冰冰土法烤红薯",
@@ -379,6 +387,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 230776,
+      "num": 230776,
+      "word": "FIFA年终排名国足第80名",
+      "onboard_time": 1671761251,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 228096,
       "num": 228096,
       "word": "高盛称A股牛市就要到来",
@@ -393,6 +409,14 @@
       "onboard_time": 1671759689,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 223320,
+      "num": 223320,
+      "word": "暃S30战令皮肤",
+      "onboard_time": 1671762450,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 222242,
@@ -412,7 +436,7 @@
     },
     {
       "raw_hot": 217325,
-      "num": 173210,
+      "num": 198460,
       "word": "RedVelvetPsycho发行三周年",
       "onboard_time": 1671760348,
       "rank": 31,
@@ -435,6 +459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 207719,
+      "num": 207719,
+      "word": "想见你",
+      "onboard_time": 1671763049,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 203720,
       "num": 203720,
       "word": "满足什么条件可以返岗复工",
@@ -443,20 +475,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 199503,
-      "num": 199503,
-      "word": "FIFA年终排名国足第80名",
-      "onboard_time": 1671761251,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 196826,
       "num": 170616,
       "word": "接梗还是得看苏有朋",
       "onboard_time": 1671758249,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 195806,
+      "num": 195806,
+      "word": "回来的女儿",
+      "onboard_time": 1671714754,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 194714,
@@ -523,14 +555,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 173462,
-      "num": 150361,
-      "word": "想见你",
-      "onboard_time": 1671763049,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
       "raw_hot": 170179,
       "num": 170179,
       "word": "孙子和孙女不同起床待遇",
@@ -555,6 +579,30 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 165775,
+      "num": 165775,
+      "word": "药店回应限售抗原为囤货质疑",
+      "onboard_time": 1671761970,
+      "rank": 43,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 164320,
+      "num": 164320,
+      "word": "1岁宝宝照顾发烧妈妈递水盖被",
+      "onboard_time": 1671762568,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 163200,
+      "num": 163200,
+      "word": "部分iPhone14Pro被曝开机闪现水平线",
+      "onboard_time": 1671762630,
+      "rank": 47,
+      "category": "科技"
+    },
+    {
       "raw_hot": 162671,
       "num": 162671,
       "word": "杨紫说最近不会接综艺",
@@ -571,12 +619,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 151022,
-      "num": 151022,
-      "word": "暃S30战令皮肤",
-      "onboard_time": 1671762450,
-      "rank": 39,
-      "category": "游戏"
+      "raw_hot": 152831,
+      "num": 152831,
+      "word": "这个好消息多希望袁爷爷能听到",
+      "onboard_time": 1671763291,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 149162,
@@ -595,20 +643,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 136518,
-      "num": 136518,
-      "word": "药店回应限售抗原为囤货质疑",
-      "onboard_time": 1671761970,
-      "rank": 43,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 134734,
       "num": 103927,
       "word": "杨紫清唱说爱你",
       "onboard_time": 1671758007,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 126276,
+      "num": 126276,
+      "word": "爸爸跟宝宝玩藏猫猫摔倒趴地上缓半天",
+      "onboard_time": 1671762210,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 125886,
@@ -624,14 +672,6 @@
       "word": "阳后出现不典型症状究竟是什么原因",
       "onboard_time": 1671741672,
       "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 124529,
-      "num": 124529,
-      "word": "爸爸跟宝宝玩藏猫猫摔倒趴地上缓半天",
-      "onboard_time": 1671762210,
-      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -659,14 +699,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 120659,
-      "num": 92742,
-      "word": "回来的女儿",
-      "onboard_time": 1671714754,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 120167,
       "num": 95877,
       "word": "你觉得长歌行好看吗",
@@ -689,14 +721,6 @@
       "onboard_time": 1671703771,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 114937,
-      "num": 114937,
-      "word": "部分iPhone14Pro被曝开机闪现水平线",
-      "onboard_time": 1671762630,
-      "rank": 47,
-      "category": "科技"
     },
     {
       "raw_hot": 112101,
@@ -723,20 +747,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 109805,
+      "num": 124647,
+      "word": "这游戏太考验脑子了",
+      "onboard_time": 1671763708,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 108170,
       "num": 108170,
       "word": "西藏那曲的雪山脚下有一群足球少年",
       "onboard_time": 1671759448,
       "rank": 43,
       "category": "社会新闻,幽默"
-    },
-    {
-      "raw_hot": 108014,
-      "num": 108014,
-      "word": "1岁宝宝照顾发烧妈妈递水盖被",
-      "onboard_time": 1671762568,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 107156,

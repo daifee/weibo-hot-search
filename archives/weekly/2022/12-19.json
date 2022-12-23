@@ -1,6 +1,6 @@
 {
   "startTime": 1671380618877,
-  "endTime": 1671763136650,
+  "endTime": 1671763757138,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -1899,6 +1899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 720853,
+      "num": 613348,
+      "word": "吕小军回应被禁赛",
+      "onboard_time": 1671761189,
+      "rank": 6,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 718514,
       "num": 718514,
       "word": "周杰伦演唱会遭观众吐槽",
@@ -1985,14 +1993,6 @@
       "onboard_time": 1671709593,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 699008,
-      "num": 613348,
-      "word": "吕小军回应被禁赛",
-      "onboard_time": 1671761189,
-      "rank": 6,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 696631,
@@ -2283,6 +2283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 626005,
+      "num": 501373,
+      "word": "BLACKPINK演唱会圣诞裙造型",
+      "onboard_time": 1671759689,
+      "rank": 7,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 620279,
       "num": 434353,
       "word": "车保罗说很开心还有人还记得我",
@@ -2297,14 +2305,6 @@
       "onboard_time": 1671514232,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 619120,
-      "num": 501373,
-      "word": "BLACKPINK演唱会圣诞裙造型",
-      "onboard_time": 1671759689,
-      "rank": 7,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 619095,
@@ -2427,6 +2427,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 592105,
+      "num": 592105,
+      "word": "浮图缘",
+      "onboard_time": 1671681271,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 589722,
       "num": 589722,
       "word": "极限挑战第九季回归",
@@ -2505,14 +2513,6 @@
       "onboard_time": 1671621092,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 573080,
-      "num": 573080,
-      "word": "浮图缘",
-      "onboard_time": 1671681271,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 568135,
@@ -3211,6 +3211,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 447173,
+      "num": 395916,
+      "word": "塔利班回应女性上大学禁令",
+      "onboard_time": 1671761788,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 445468,
       "num": 352277,
       "word": "王鹤棣候场被冻出wink",
@@ -3417,6 +3425,14 @@
       "onboard_time": 1671722069,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 425360,
+      "num": 425360,
+      "word": "里沙利松倒钩当选世界杯最佳进球",
+      "onboard_time": 1671759147,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 423873,
@@ -3755,14 +3771,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 385687,
-      "num": 385687,
-      "word": "里沙利松倒钩当选世界杯最佳进球",
-      "onboard_time": 1671759147,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
       "raw_hot": 385038,
       "num": 385038,
       "word": "全屋消杀造成损失谁来赔",
@@ -3955,12 +3963,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 362767,
+      "num": 362767,
+      "word": "阿姨用0.19毫米银丝做出能动的小鱼",
+      "onboard_time": 1671761067,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 362302,
       "num": 362302,
       "word": "何洛洛成功追星张杰",
       "onboard_time": 1671691471,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 362025,
+      "num": 362025,
+      "word": "14岁女生用零花钱连续6年免费送水饺",
+      "onboard_time": 1671760229,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 361951,
@@ -4001,14 +4025,6 @@
       "onboard_time": 1671625474,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 358422,
-      "num": 358422,
-      "word": "14岁女生用零花钱连续6年免费送水饺",
-      "onboard_time": 1671760229,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 357509,
@@ -4259,6 +4275,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 344499,
+      "num": 344499,
+      "word": "王者2023年度版本开航",
+      "onboard_time": 1671760529,
+      "rank": 15,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 343625,
       "num": 343625,
       "word": "马化腾称留给某些业务的时间不多了",
@@ -4313,14 +4337,6 @@
       "onboard_time": 1671512432,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 339899,
-      "num": 176601,
-      "word": "塔利班回应女性上大学禁令",
-      "onboard_time": 1671761788,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 339427,
@@ -4643,14 +4659,6 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 316770,
-      "num": 316770,
-      "word": "王者2023年度版本开航",
-      "onboard_time": 1671760529,
-      "rank": 15,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 316095,
       "num": 316095,
       "word": "女子变阳后开启荒野隔离田里打地铺",
@@ -4681,6 +4689,14 @@
       "onboard_time": 1671505948,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 311934,
+      "num": 311934,
+      "word": "老年人感染新冠后或发生沉默性缺氧",
+      "onboard_time": 1671759026,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 311548,
@@ -4777,14 +4793,6 @@
       "onboard_time": 1671491840,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 303607,
-      "num": 303607,
-      "word": "老年人感染新冠后或发生沉默性缺氧",
-      "onboard_time": 1671759026,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 303274,
@@ -4889,14 +4897,6 @@
       "onboard_time": 1671699512,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 299582,
-      "num": 299582,
-      "word": "阿姨用0.19毫米银丝做出能动的小鱼",
-      "onboard_time": 1671761067,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 299130,
@@ -5995,6 +5995,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 237346,
+      "num": 203277,
+      "word": "中方对余茂春等2人采取反制裁措施",
+      "onboard_time": 1671763230,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 237289,
       "num": 237289,
       "word": "接亲路上千万别上厕所",
@@ -6105,6 +6113,14 @@
       "onboard_time": 1671606811,
       "rank": 38,
       "category": "体育,游戏"
+    },
+    {
+      "raw_hot": 230776,
+      "num": 230776,
+      "word": "FIFA年终排名国足第80名",
+      "onboard_time": 1671761251,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 230410,
@@ -6259,6 +6275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 223320,
+      "num": 223320,
+      "word": "暃S30战令皮肤",
+      "onboard_time": 1671762450,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 222943,
       "num": 220212,
       "word": "张钧甯都市摩登大片",
@@ -6364,7 +6388,7 @@
     },
     {
       "raw_hot": 217325,
-      "num": 173210,
+      "num": 198460,
       "word": "RedVelvetPsycho发行三周年",
       "onboard_time": 1671760348,
       "rank": 31,
@@ -6825,14 +6849,6 @@
       "onboard_time": 1671521068,
       "rank": 42,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 199503,
-      "num": 199503,
-      "word": "FIFA年终排名国足第80名",
-      "onboard_time": 1671761251,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 199145,
@@ -8011,6 +8027,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 165775,
+      "num": 165775,
+      "word": "药店回应限售抗原为囤货质疑",
+      "onboard_time": 1671761970,
+      "rank": 43,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 165410,
       "num": 165410,
       "word": "车保罗的演技名场面",
@@ -8059,6 +8083,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 164320,
+      "num": 164320,
+      "word": "1岁宝宝照顾发烧妈妈递水盖被",
+      "onboard_time": 1671762568,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 164182,
       "num": 145220,
       "word": "王鹤棣时尚先生12月刊封面",
@@ -8089,6 +8121,14 @@
       "onboard_time": 1671441209,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 163200,
+      "num": 163200,
+      "word": "部分iPhone14Pro被曝开机闪现水平线",
+      "onboard_time": 1671762630,
+      "rank": 47,
+      "category": "科技"
     },
     {
       "raw_hot": 163106,
@@ -8467,6 +8507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 152831,
+      "num": 152831,
+      "word": "这个好消息多希望袁爷爷能听到",
+      "onboard_time": 1671763291,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 152633,
       "num": 152633,
       "word": "重庆嘉陵江现梦幻云海列车",
@@ -8521,14 +8569,6 @@
       "onboard_time": 1671577576,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 151022,
-      "num": 151022,
-      "word": "暃S30战令皮肤",
-      "onboard_time": 1671762450,
-      "rank": 39,
-      "category": "游戏"
     },
     {
       "raw_hot": 150986,
@@ -9107,14 +9147,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 136518,
-      "num": 136518,
-      "word": "药店回应限售抗原为囤货质疑",
-      "onboard_time": 1671761970,
-      "rank": 43,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 136419,
       "num": 136419,
       "word": "周杰伦演唱会",
@@ -9475,6 +9507,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 126276,
+      "num": 126276,
+      "word": "爸爸跟宝宝玩藏猫猫摔倒趴地上缓半天",
+      "onboard_time": 1671762210,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 126170,
       "num": 126170,
       "word": "骑手骑行58公里为独居老人送药",
@@ -9553,14 +9593,6 @@
       "onboard_time": 1671412648,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 124529,
-      "num": 124529,
-      "word": "爸爸跟宝宝玩藏猫猫摔倒趴地上缓半天",
-      "onboard_time": 1671762210,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 124492,
@@ -9851,14 +9883,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 114937,
-      "num": 114937,
-      "word": "部分iPhone14Pro被曝开机闪现水平线",
-      "onboard_time": 1671762630,
-      "rank": 47,
-      "category": "科技"
-    },
-    {
       "raw_hot": 114361,
       "num": 114361,
       "word": "在憋笑中逐渐丧失勇气的猫",
@@ -9995,6 +10019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 109805,
+      "num": 124647,
+      "word": "这游戏太考验脑子了",
+      "onboard_time": 1671763708,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 109701,
       "num": 109701,
       "word": "那些陪伴了我们整个青春的球星",
@@ -10033,14 +10065,6 @@
       "onboard_time": 1671759448,
       "rank": 43,
       "category": "社会新闻,幽默"
-    },
-    {
-      "raw_hot": 108014,
-      "num": 108014,
-      "word": "1岁宝宝照顾发烧妈妈递水盖被",
-      "onboard_time": 1671762568,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 107656,
