@@ -1,6 +1,6 @@
 {
   "startTime": 1671812678291,
-  "endTime": 1671827599901,
+  "endTime": 1671830127169,
   "band_list": [
     {
       "raw_hot": 985400,
@@ -449,6 +449,14 @@
       "onboard_time": 1671815239,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 39129,
+      "num": 21154,
+      "word": "鹤岗原市长梁成军被判死缓",
+      "onboard_time": 1671828191,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 22287,
