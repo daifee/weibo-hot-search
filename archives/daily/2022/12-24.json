@@ -1,6 +1,6 @@
 {
   "startTime": 1671812678291,
-  "endTime": 1671834797893,
+  "endTime": 1671837477828,
   "band_list": [
     {
       "raw_hot": 985400,
@@ -91,6 +91,30 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 290830,
+      "num": 290830,
+      "word": "退烧药一次能不能吃两粒",
+      "onboard_time": 1671832033,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 286621,
+      "num": 286621,
+      "word": "学校回应疑教师上网课现不雅聊天",
+      "onboard_time": 1671815778,
+      "rank": 43,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 259654,
+      "num": 259654,
+      "word": "考研政治",
+      "onboard_time": 1671832511,
+      "rank": 7,
+      "category": "教育"
+    },
+    {
       "raw_hot": 258450,
       "num": 258450,
       "word": "东北一小伙靠一条视频赚了100万",
@@ -155,6 +179,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 204189,
+      "num": 117368,
+      "word": "鹤岗原市长梁成军被判死缓",
+      "onboard_time": 1671828191,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 200597,
       "num": 200597,
       "word": "李子维为了见黄雨萱每天喝奶茶",
@@ -177,6 +209,14 @@
       "onboard_time": 1671802952,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 188526,
+      "num": 188526,
+      "word": "考研",
+      "onboard_time": 1671837376,
+      "rank": 6,
+      "category": "教育"
     },
     {
       "raw_hot": 183317,
@@ -219,6 +259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 172546,
+      "num": 116638,
+      "word": "如何判断肺功能下降",
+      "onboard_time": 1671836595,
+      "rank": 11,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 168711,
       "num": 168711,
       "word": "青壮年感冒后要谨防心肌炎",
@@ -235,12 +283,20 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 162310,
-      "num": 141864,
-      "word": "学校回应疑教师上网课现不雅聊天",
-      "onboard_time": 1671815778,
-      "rank": 43,
-      "category": "社会新闻,教育"
+      "raw_hot": 164587,
+      "num": 62849,
+      "word": "县委大院喷饭式结婚照",
+      "onboard_time": 1671836595,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 158151,
+      "num": 112419,
+      "word": "让红包飞",
+      "onboard_time": 1671836776,
+      "rank": 12,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 157084,
@@ -307,14 +363,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 140128,
-      "num": 140128,
-      "word": "退烧药一次能不能吃两粒",
-      "onboard_time": 1671832033,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 139548,
       "num": 111687,
       "word": "涉赌主播吸金1.2亿获刑6年",
@@ -347,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 121043,
+      "num": 111817,
+      "word": "美国不能一边谈合作一边捅刀子",
+      "onboard_time": 1671830772,
+      "rank": 47,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 119511,
       "num": 101561,
       "word": "杨超越家有姐妹演技",
@@ -355,28 +411,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 118146,
-      "num": 57791,
-      "word": "鹤岗原市长梁成军被判死缓",
-      "onboard_time": 1671828191,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 111963,
       "num": 111963,
       "word": "男子自以为阳了约朋友喝酒杀毒",
       "onboard_time": 1671796049,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 111134,
-      "num": 111134,
-      "word": "考研政治",
-      "onboard_time": 1671832511,
-      "rank": 7,
-      "category": "教育"
     },
     {
       "raw_hot": 108218,
@@ -427,6 +467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 77048,
+      "num": 77048,
+      "word": "武汉血库A型血o型血仅剩2天用量",
+      "onboard_time": 1671836717,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 74912,
       "num": 85793,
       "word": "妻子阳后老公照顾离婚冷静期和好",
@@ -451,12 +499,12 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 65089,
-      "num": 32550,
-      "word": "美国不能一边谈合作一边捅刀子",
-      "onboard_time": 1671830772,
-      "rank": 47,
-      "category": "国外要闻"
+      "raw_hot": 53751,
+      "num": 53751,
+      "word": "杨超越说快来看看孩子吧",
+      "onboard_time": 1671836595,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 47676,
