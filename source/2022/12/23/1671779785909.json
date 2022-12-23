@@ -1,0 +1,410 @@
+{
+  "runTime": 1671779785909,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1709629,
+        "num": 1709629,
+        "word": "男子阳性后仍和俩孩子同桌吃饭被吐槽",
+        "onboard_time": 1671770130,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 727662,
+        "num": 727662,
+        "word": "大马丁连续侮辱姆巴佩被投诉",
+        "onboard_time": 1671770668,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185861,
+        "num": 725734,
+        "word": "阳过能接种第二剂加强针吗",
+        "onboard_time": 1671769769,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 724095,
+        "num": 724095,
+        "word": "谷爱凌收入排名女运动员第三位",
+        "onboard_time": 1671775350,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 703954,
+        "num": 703954,
+        "word": "给还没羊的人留一句经验",
+        "onboard_time": 1671750737,
+        "rank": 4,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 661965,
+        "num": 661965,
+        "word": "布洛芬短期供需错配长期或供过于求",
+        "onboard_time": 1671776369,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 642420,
+        "num": 642420,
+        "word": "想见你",
+        "onboard_time": 1671763049,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 606598,
+        "num": 606598,
+        "word": "印度准备增加对华退烧药出口",
+        "onboard_time": 1671773312,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 604525,
+        "num": 604525,
+        "word": "唐嫣新综艺路透状态",
+        "onboard_time": 1671775350,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 521052,
+        "num": 521052,
+        "word": "这可能就是结婚的意义吧",
+        "onboard_time": 1671774570,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 772609,
+        "num": 517346,
+        "word": "钟楚曦给张云龙披荆斩棘打call视频",
+        "onboard_time": 1671778048,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 501114,
+        "num": 501114,
+        "word": "布洛芬退烧不能连吃超3天",
+        "onboard_time": 1671764727,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 406690,
+        "num": 406690,
+        "word": "肖战电视剧十大之最VCR视频",
+        "onboard_time": 1671776968,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 396022,
+        "num": 396022,
+        "word": "李晨说自己最怕失去的人是金钟国",
+        "onboard_time": 1671767848,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 363204,
+        "num": 363204,
+        "word": "谢娜做童年蛋黄小饼干vlog",
+        "onboard_time": 1671778889,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 348534,
+        "num": 348534,
+        "word": "女子将布洛芬藏茶包里压最底层寄出",
+        "onboard_time": 1671758849,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333738,
+        "num": 333738,
+        "word": "女儿吃邻居家药痊愈后宝妈满城送药",
+        "onboard_time": 1671773851,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 332044,
+        "num": 332044,
+        "word": "男子货架上找快递不是自己的全扔地上",
+        "onboard_time": 1671777267,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316885,
+        "num": 316885,
+        "word": "妈妈晒娃被网友提醒嘴唇发紫快送医",
+        "onboard_time": 1671766169,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310467,
+        "num": 310467,
+        "word": "龙驭球院士逝世",
+        "onboard_time": 1671773009,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352290,
+        "num": 308388,
+        "word": "Hyein新歌ditto开头吟唱",
+        "onboard_time": 1671777567,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 302538,
+        "num": 302538,
+        "word": "张天爱听到于文文说她最美的反应",
+        "onboard_time": 1671779489,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 274109,
+        "num": 274109,
+        "word": "保姆粗暴对待6月大婴儿",
+        "onboard_time": 1671771931,
+        "rank": 22,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 252952,
+        "num": 252952,
+        "word": "发烧传染全家竟是为了照顾女同学",
+        "onboard_time": 1671779009,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240505,
+        "num": 240505,
+        "word": "蔡徐坤年度十大巅峰艺人",
+        "onboard_time": 1671778289,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219443,
+        "num": 219443,
+        "word": "汽车4S店或退出历史舞台",
+        "onboard_time": 1671769349,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 216098,
+        "num": 216098,
+        "word": "樊登",
+        "onboard_time": 1671772890,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197962,
+        "num": 197962,
+        "word": "宝妈为让2娃不阳撑充气城堡不外出",
+        "onboard_time": 1671771149,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191930,
+        "num": 191930,
+        "word": "缺药缺人的农村如何应对疫情",
+        "onboard_time": 1671772410,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174030,
+        "num": 174030,
+        "word": "这猫高低得是个王者",
+        "onboard_time": 1671779668,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 222169,
+        "num": 173851,
+        "word": "王栎鑫的烟嗓",
+        "onboard_time": 1671774866,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205483,
+        "num": 166034,
+        "word": "阿凡达2全球票房破6亿美元",
+        "onboard_time": 1671777267,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 222040,
+        "num": 164991,
+        "word": "朝阳打歌中心",
+        "onboard_time": 1671777870,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182658,
+        "num": 160208,
+        "word": "成毅费加罗男士十二月刊封面",
+        "onboard_time": 1671778110,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 157234,
+        "num": 157234,
+        "word": "一招有效缓解水泥鼻",
+        "onboard_time": 1671773189,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154137,
+        "num": 154137,
+        "word": "阳性物业管家在业主门口吐痰",
+        "onboard_time": 1671776369,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150094,
+        "num": 150094,
+        "word": "这猫是又菜又爱玩啊",
+        "onboard_time": 1671778649,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 149684,
+        "num": 149684,
+        "word": "考研",
+        "onboard_time": 1671754827,
+        "rank": 37,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 146386,
+        "num": 146386,
+        "word": "阳康后如何恢复体力",
+        "onboard_time": 1671768088,
+        "rank": 38,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 146337,
+        "num": 146337,
+        "word": "曾光称第4针一定要变换疫苗",
+        "onboard_time": 1671767309,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166653,
+        "num": 146141,
+        "word": "王子璇初恋感六宫格随拍",
+        "onboard_time": 1671779190,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162409,
+        "num": 146131,
+        "word": "中泰合拍家庭神剧",
+        "onboard_time": 1671777390,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 145933,
+        "num": 145933,
+        "word": "塔利班回应女性上大学禁令",
+        "onboard_time": 1671761788,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145160,
+        "num": 145160,
+        "word": "LOL手游花火绽春",
+        "onboard_time": 1671777028,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 130455,
+        "num": 130455,
+        "word": "你的奖学金买了啥",
+        "onboard_time": 1671765328,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 129753,
+        "num": 129753,
+        "word": "医药人士称印度仿制药存在诸多风险",
+        "onboard_time": 1671777449,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127903,
+        "num": 127903,
+        "word": "阳了吃消炎药管用吗",
+        "onboard_time": 1671768629,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118454,
+        "num": 118454,
+        "word": "2022那些坚持的力量",
+        "onboard_time": 1671778409,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117660,
+        "num": 117660,
+        "word": "长新冠是伪命题吗",
+        "onboard_time": 1671777808,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117587,
+        "num": 117587,
+        "word": "87岁妻子在张富清灵前痛哭久久不愿离去",
+        "onboard_time": 1671764010,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#新时代新征程新伟业#"
+    }
+  }
+}
