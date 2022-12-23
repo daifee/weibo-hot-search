@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1671815775881,
+  "endTime": 1671816798049,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -53497,6 +53497,14 @@
       "onboard_time": 1669838768,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 49762,
+      "num": 49762,
+      "word": "学校回应疑教师上网课现不雅聊天",
+      "onboard_time": 1671815778,
+      "rank": 43,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 48418,
