@@ -1,6 +1,6 @@
 {
   "startTime": 1671812678291,
-  "endTime": 1671837477828,
+  "endTime": 1671838419146,
   "band_list": [
     {
       "raw_hot": 985400,
@@ -33,6 +33,14 @@
       "onboard_time": 1671801511,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 432413,
+      "num": 432413,
+      "word": "考研",
+      "onboard_time": 1671837376,
+      "rank": 6,
+      "category": "教育"
     },
     {
       "raw_hot": 345004,
@@ -107,6 +115,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 259751,
+      "num": 152054,
+      "word": "武汉血库A型血o型血仅剩2天用量",
+      "onboard_time": 1671836717,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 259654,
       "num": 259654,
       "word": "考研政治",
@@ -123,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 245512,
+      "num": 245512,
+      "word": "如何判断肺功能下降",
+      "onboard_time": 1671836595,
+      "rank": 11,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 235048,
       "num": 235048,
       "word": "感冒和新冠会同时得吗",
@@ -136,6 +160,14 @@
       "word": "上海优化调整阳性感染者解除居家隔离标准",
       "onboard_time": 1671802893,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 228991,
+      "num": 149853,
+      "word": "鹤岗原市长梁成军被判死缓",
+      "onboard_time": 1671828191,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -179,14 +211,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 204189,
-      "num": 117368,
-      "word": "鹤岗原市长梁成军被判死缓",
-      "onboard_time": 1671828191,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 200597,
       "num": 200597,
       "word": "李子维为了见黄雨萱每天喝奶茶",
@@ -209,14 +233,6 @@
       "onboard_time": 1671802952,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 188526,
-      "num": 188526,
-      "word": "考研",
-      "onboard_time": 1671837376,
-      "rank": 6,
-      "category": "教育"
     },
     {
       "raw_hot": 183317,
@@ -259,14 +275,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 172546,
-      "num": 116638,
-      "word": "如何判断肺功能下降",
-      "onboard_time": 1671836595,
-      "rank": 11,
-      "category": "社会议题"
-    },
-    {
       "raw_hot": 168711,
       "num": 168711,
       "word": "青壮年感冒后要谨防心肌炎",
@@ -284,7 +292,7 @@
     },
     {
       "raw_hot": 164587,
-      "num": 62849,
+      "num": 72313,
       "word": "县委大院喷饭式结婚照",
       "onboard_time": 1671836595,
       "rank": 30,
@@ -387,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 125292,
+      "num": 125292,
+      "word": "美国不能一边谈合作一边捅刀子",
+      "onboard_time": 1671830772,
+      "rank": 47,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 123150,
       "num": 123150,
       "word": "女子发烧出汗浸湿被子晾晒后被吹跑",
@@ -395,20 +411,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 121043,
-      "num": 111817,
-      "word": "美国不能一边谈合作一边捅刀子",
-      "onboard_time": 1671830772,
-      "rank": 47,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 119511,
       "num": 101561,
       "word": "杨超越家有姐妹演技",
       "onboard_time": 1671810207,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 113273,
+      "num": 113273,
+      "word": "平安夜",
+      "onboard_time": 1671837737,
+      "rank": 16,
+      "category": "情感"
     },
     {
       "raw_hot": 111963,
@@ -467,12 +483,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 77048,
-      "num": 77048,
-      "word": "武汉血库A型血o型血仅剩2天用量",
-      "onboard_time": 1671836717,
-      "rank": 23,
-      "category": "社会新闻"
+      "raw_hot": 77580,
+      "num": 85174,
+      "word": "高校师生自制抗原试剂供全校使用",
+      "onboard_time": 1671801690,
+      "rank": 48,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 74912,
@@ -483,12 +499,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 72667,
-      "num": 85174,
-      "word": "高校师生自制抗原试剂供全校使用",
-      "onboard_time": 1671801690,
-      "rank": 48,
-      "category": "社会新闻,教育"
+      "raw_hot": 71728,
+      "num": 71728,
+      "word": "杨超越说快来看看孩子吧",
+      "onboard_time": 1671836595,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 65359,
@@ -499,14 +515,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 53751,
-      "num": 53751,
-      "word": "杨超越说快来看看孩子吧",
-      "onboard_time": 1671836595,
-      "rank": 34,
-      "category": "影视"
-    },
-    {
       "raw_hot": 47676,
       "num": 63397,
       "word": "肩颈一下就展开了",
@@ -515,12 +523,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 47474,
+      "num": 47474,
+      "word": "黄河壶口瀑布流凌封河",
+      "onboard_time": 1671837916,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 46455,
       "num": 62812,
       "word": "中超联赛",
       "onboard_time": 1671802650,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 42860,
+      "num": 42860,
+      "word": "考研政治字数就是分数",
+      "onboard_time": 1671838398,
+      "rank": 49,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 40533,
