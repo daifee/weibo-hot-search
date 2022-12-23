@@ -1,6 +1,6 @@
 {
   "startTime": 1671726339693,
-  "endTime": 1671791717226,
+  "endTime": 1671794114596,
   "band_list": [
     {
       "raw_hot": 3022259,
@@ -83,19 +83,27 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 1207170,
+      "num": 1207170,
+      "word": "共和国三天内痛失六位院士",
+      "onboard_time": 1671789270,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1184776,
+      "num": 1184776,
+      "word": "卖退烧药45天赚近60亿",
+      "onboard_time": 1671791970,
+      "rank": 1,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 1156869,
       "num": 1156869,
       "word": "三次抗原检测可代替两次核酸检测",
       "onboard_time": 1671756329,
       "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1120989,
-      "num": 1120989,
-      "word": "共和国三天内痛失六位院士",
-      "onboard_time": 1671789270,
-      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -115,8 +123,16 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 1060366,
+      "num": 1060366,
+      "word": "第一波北京阳康坐飞机都去哪儿了",
+      "onboard_time": 1671791069,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1016299,
-      "num": 383024,
+      "num": 560580,
       "word": "苗苗在张云龙面前提钟楚曦",
       "onboard_time": 1671788129,
       "rank": 10,
@@ -185,6 +201,14 @@
       "onboard_time": 1671761908,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 755606,
+      "num": 755606,
+      "word": "男子卖橘子下意识反应令人心疼",
+      "onboard_time": 1671791130,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 745603,
@@ -451,6 +475,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 437753,
+      "num": 437753,
+      "word": "奥密克戎不会放过嘴硬的人",
+      "onboard_time": 1671791369,
+      "rank": 48,
+      "category": "游戏,社会新闻"
+    },
+    {
       "raw_hot": 434386,
       "num": 434386,
       "word": "龙驭球院士逝世",
@@ -528,6 +560,14 @@
       "word": "黑龙江被抢药店老板已暂停免费发药",
       "onboard_time": 1671730456,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 400958,
+      "num": 400958,
+      "word": "青壮年感冒后要谨防心肌炎",
+      "onboard_time": 1671792450,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -667,6 +707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 317809,
+      "num": 317809,
+      "word": "女子分手没争到抚养权凌晨偷狗",
+      "onboard_time": 1671791790,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 315960,
       "num": 315960,
       "word": "阳了为什么会腰疼",
@@ -795,20 +843,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 279369,
+      "num": 279369,
+      "word": "县委大院豆瓣7.1",
+      "onboard_time": 1671788669,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 278311,
       "num": 278311,
       "word": "为2023考研人加油",
       "onboard_time": 1671722670,
       "rank": 14,
       "category": "情感,教育"
-    },
-    {
-      "raw_hot": 275085,
-      "num": 275085,
-      "word": "县委大院豆瓣7.1",
-      "onboard_time": 1671788669,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 273552,
@@ -849,6 +897,14 @@
       "onboard_time": 1671722608,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 263095,
+      "num": 263095,
+      "word": "浮图缘连更17天",
+      "onboard_time": 1671789572,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 258974,
@@ -923,20 +979,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 242449,
+      "num": 242449,
+      "word": "吴磊在送一种很新的礼物",
+      "onboard_time": 1671791970,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 240505,
       "num": 240505,
       "word": "蔡徐坤年度十大巅峰艺人",
       "onboard_time": 1671778289,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 239253,
-      "num": 213778,
-      "word": "浮图缘连更17天",
-      "onboard_time": 1671789572,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 238198,
@@ -1139,6 +1195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 210129,
+      "num": 210129,
+      "word": "1岁半外孙见外婆摔倒跑去喊人扶起",
+      "onboard_time": 1671789389,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 209103,
       "num": 209103,
       "word": "对自己身高有误解的狗狗",
@@ -1185,6 +1249,14 @@
       "onboard_time": 1671758189,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 200696,
+      "num": 200696,
+      "word": "0713为王栎鑫新剧浮图缘打call",
+      "onboard_time": 1671791910,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 197485,
@@ -1379,14 +1451,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 178590,
-      "num": 178590,
-      "word": "1岁半外孙见外婆摔倒跑去喊人扶起",
-      "onboard_time": 1671789389,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 176899,
       "num": 176899,
       "word": "当我学会用辩证法看待考研",
@@ -1451,6 +1515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 173855,
+      "num": 166141,
+      "word": "想见你电影",
+      "onboard_time": 1671792331,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 173274,
       "num": 173274,
       "word": "这就是小猫剃须刀吧",
@@ -1475,12 +1547,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 172441,
-      "num": 172441,
-      "word": "第一波北京阳康坐飞机都去哪儿了",
-      "onboard_time": 1671791069,
-      "rank": 34,
-      "category": "社会新闻"
+      "raw_hot": 171934,
+      "num": 164328,
+      "word": "心疼朱正廷演的翼无忧",
+      "onboard_time": 1671793650,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 170179,
@@ -1635,6 +1707,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 159789,
+      "num": 159789,
+      "word": "猫猫也有鸭绒被啦",
+      "onboard_time": 1671793052,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 158533,
       "num": 155946,
       "word": "Vernon新歌MV",
@@ -1723,14 +1803,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 144988,
-      "num": 144988,
-      "word": "男子卖橘子下意识反应令人心疼",
-      "onboard_time": 1671791130,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 143550,
       "num": 143550,
       "word": "一诺的心愿便利贴",
@@ -1769,6 +1841,14 @@
       "onboard_time": 1671777808,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 131054,
+      "num": 131054,
+      "word": "沙溢不记得和乔欣录过节目",
+      "onboard_time": 1671793109,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 129753,
@@ -1971,12 +2051,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 105064,
-      "num": 105064,
-      "word": "奥密克戎不会放过嘴硬的人",
-      "onboard_time": 1671791369,
-      "rank": 48,
-      "category": "游戏,社会新闻"
+      "raw_hot": 104916,
+      "num": 104916,
+      "word": "3岁女孩单挑两只大鹅轻松拿捏",
+      "onboard_time": 1671792450,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 103859,
@@ -1993,6 +2073,14 @@
       "onboard_time": 1671709772,
       "rank": 29,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 102234,
+      "num": 102234,
+      "word": "霸总猫咪是怎样踩奶的",
+      "onboard_time": 1671793650,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 101260,
