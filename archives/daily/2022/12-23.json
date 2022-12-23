@@ -1,6 +1,6 @@
 {
   "startTime": 1671726339693,
-  "endTime": 1671799885839,
+  "endTime": 1671801767260,
   "band_list": [
     {
       "raw_hot": 3022259,
@@ -59,7 +59,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1514725,
+      "raw_hot": 1586360,
       "num": 1514725,
       "word": "男子每月往家打8千妻子仍说没钱",
       "onboard_time": 1671795631,
@@ -107,6 +107,14 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 1219309,
+      "num": 988328,
+      "word": "腿姐",
+      "onboard_time": 1671797791,
+      "rank": 8,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1207170,
       "num": 1207170,
       "word": "共和国三天内痛失六位院士",
@@ -139,6 +147,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 1039974,
+      "num": 482165,
+      "word": "肖战直播",
+      "onboard_time": 1671799834,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1016299,
       "num": 560580,
       "word": "苗苗在张云龙面前提钟楚曦",
@@ -153,14 +169,6 @@
       "onboard_time": 1671768808,
       "rank": 8,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 988328,
-      "num": 988328,
-      "word": "腿姐",
-      "onboard_time": 1671797791,
-      "rank": 8,
-      "category": "教育"
     },
     {
       "raw_hot": 957863,
@@ -233,6 +241,14 @@
       "onboard_time": 1671761908,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 747629,
+      "num": 747629,
+      "word": "男子自以为阳了约朋友喝酒杀毒",
+      "onboard_time": 1671796049,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 745603,
@@ -339,22 +355,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 636351,
-      "num": 482165,
-      "word": "肖战直播",
-      "onboard_time": 1671799834,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 635551,
-      "num": 635551,
-      "word": "男子自以为阳了约朋友喝酒杀毒",
-      "onboard_time": 1671796049,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 626005,
       "num": 501373,
       "word": "BLACKPINK演唱会圣诞裙造型",
@@ -451,6 +451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 533672,
+      "num": 533672,
+      "word": "不要听网上那帮人胡咧咧",
+      "onboard_time": 1671795452,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 521052,
       "num": 521052,
       "word": "这可能就是结婚的意义吧",
@@ -491,12 +499,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 496082,
-      "num": 496082,
-      "word": "不要听网上那帮人胡咧咧",
-      "onboard_time": 1671795452,
-      "rank": 17,
-      "category": "社会新闻"
+      "raw_hot": 498175,
+      "num": 498175,
+      "word": "大马丁嘲讽姆巴佩被投诉你怎么看",
+      "onboard_time": 1671794550,
+      "rank": 45,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 488366,
@@ -545,6 +553,22 @@
       "onboard_time": 1671758369,
       "rank": 29,
       "category": "教育"
+    },
+    {
+      "raw_hot": 456098,
+      "num": 450975,
+      "word": "田震说周深唱歌把她整蒙了",
+      "onboard_time": 1671801511,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 453442,
+      "num": 453442,
+      "word": "回来的女儿第5集太费心脏了",
+      "onboard_time": 1671799231,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 445364,
@@ -611,12 +635,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 408804,
-      "num": 408804,
-      "word": "大马丁嘲讽姆巴佩被投诉你怎么看",
-      "onboard_time": 1671794550,
-      "rank": 45,
-      "category": "体育,社会新闻"
+      "raw_hot": 414351,
+      "num": 414351,
+      "word": "回来的女儿",
+      "onboard_time": 1671714754,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 406690,
@@ -672,6 +696,14 @@
       "word": "电影想见你点映口碑",
       "onboard_time": 1671781408,
       "rank": 14,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 373988,
+      "num": 373988,
+      "word": "财阀家的小儿子",
+      "onboard_time": 1671798870,
+      "rank": 31,
       "category": "影视"
     },
     {
@@ -779,6 +811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 334379,
+      "num": 334379,
+      "word": "徐志胜把李宇春认成粉丝",
+      "onboard_time": 1671801511,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 330810,
       "num": 330810,
       "word": "阳康后不用继续服药巩固疗效",
@@ -809,6 +849,14 @@
       "onboard_time": 1671705212,
       "rank": 12,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 312446,
+      "num": 981198,
+      "word": "老人出现这六种情况应及时就诊",
+      "onboard_time": 1671798870,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 311934,
@@ -945,14 +993,6 @@
       "onboard_time": 1671798751,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 275838,
-      "num": 275838,
-      "word": "回来的女儿第5集太费心脏了",
-      "onboard_time": 1671799231,
-      "rank": 23,
-      "category": "影视"
     },
     {
       "raw_hot": 273552,
@@ -1131,6 +1171,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 232615,
+      "num": 232615,
+      "word": "男子怀疑妻子被唆使离婚殴打邻居",
+      "onboard_time": 1671797310,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 232053,
       "num": 232053,
       "word": "羊圈里叫的都没这么标准",
@@ -1184,6 +1232,14 @@
       "word": "樊登",
       "onboard_time": 1671772890,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 222801,
+      "num": 222801,
+      "word": "吃维生素C可防治新冠吗",
+      "onboard_time": 1671800433,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -1323,14 +1379,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 210125,
-      "num": 210125,
-      "word": "男子怀疑妻子被唆使离婚殴打邻居",
-      "onboard_time": 1671797310,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 209103,
       "num": 209103,
       "word": "对自己身高有误解的狗狗",
@@ -1377,14 +1425,6 @@
       "onboard_time": 1671758189,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 203204,
-      "num": 191228,
-      "word": "财阀家的小儿子",
-      "onboard_time": 1671798870,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 200696,
@@ -1441,14 +1481,6 @@
       "onboard_time": 1671791610,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 195806,
-      "num": 195806,
-      "word": "回来的女儿",
-      "onboard_time": 1671714754,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 194714,
@@ -1545,14 +1577,6 @@
       "onboard_time": 1671730216,
       "rank": 32,
       "category": "作品衍生,情感"
-    },
-    {
-      "raw_hot": 185335,
-      "num": 981198,
-      "word": "老人出现这六种情况应及时就诊",
-      "onboard_time": 1671798870,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 185079,
@@ -1795,6 +1819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 166458,
+      "num": 166458,
+      "word": "陈佑希发现小秀的绿指甲",
+      "onboard_time": 1671799948,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 166387,
       "num": 166387,
       "word": "阳性物业管家在业主门口吐痰",
@@ -1841,6 +1873,14 @@
       "onboard_time": 1671790171,
       "rank": 44,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 162891,
+      "num": 105487,
+      "word": "乔振宇新剧扮女装",
+      "onboard_time": 1671801151,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 162671,
@@ -1923,6 +1963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 153503,
+      "num": 153503,
+      "word": "阳康后不要急于剧烈运动",
+      "onboard_time": 1671800313,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 152924,
       "num": 152924,
       "word": "重温想见你名场面",
@@ -1979,6 +2027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 145948,
+      "num": 145948,
+      "word": "赌气不吃饭的小猫",
+      "onboard_time": 1671798389,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 145833,
       "num": 103934,
       "word": "兔年春晚logo是卯字",
@@ -2033,14 +2089,6 @@
       "onboard_time": 1671777808,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 131154,
-      "num": 131154,
-      "word": "赌气不吃饭的小猫",
-      "onboard_time": 1671798389,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 131054,
@@ -2283,6 +2331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 105780,
+      "num": 105780,
+      "word": "狗狗第一次来到家里的样子",
+      "onboard_time": 1671798932,
+      "rank": 49,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 105332,
       "num": 105332,
       "word": "siri是懂韩式英语的",
@@ -2329,14 +2385,6 @@
       "onboard_time": 1671789632,
       "rank": 14,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 97225,
-      "num": 97225,
-      "word": "狗狗第一次来到家里的样子",
-      "onboard_time": 1671798932,
-      "rank": 49,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 96564,
@@ -2417,6 +2465,22 @@
       "onboard_time": 1671758547,
       "rank": 48,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 83232,
+      "num": 83232,
+      "word": "医院回应7旬医生打吊瓶给孩子扎针",
+      "onboard_time": 1671801449,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 82856,
+      "num": 82856,
+      "word": "高校师生自制抗原试剂供全校使用",
+      "onboard_time": 1671801690,
+      "rank": 49,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 82553,
@@ -2583,6 +2647,9 @@
     },
     {
       "word": "#新时代新征程新伟业#"
+    },
+    {
+      "word": "#坚持系统观念守正创新#"
     }
   ]
 }
