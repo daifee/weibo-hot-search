@@ -1,0 +1,410 @@
+{
+  "runTime": 1671831222164,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 156542,
+        "num": 156542,
+        "word": "阳了之后你会失眠吗",
+        "onboard_time": 1671818594,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140409,
+        "num": 140409,
+        "word": "发烧时要少吃高蛋白食物",
+        "onboard_time": 1671805170,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29607,
+        "num": 94451,
+        "word": "老人出现这六种情况应及时就诊",
+        "onboard_time": 1671798870,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63131,
+        "num": 63131,
+        "word": "上海优化调整阳性感染者解除居家隔离标准",
+        "onboard_time": 1671802893,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56848,
+        "num": 56848,
+        "word": "6岁娃40度高烧流利背诵滕王阁序",
+        "onboard_time": 1671810446,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49654,
+        "num": 49654,
+        "word": "田震说周深唱歌把她整蒙了",
+        "onboard_time": 1671801511,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44655,
+        "num": 44655,
+        "word": "吃维生素C可防治新冠吗",
+        "onboard_time": 1671800433,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43709,
+        "num": 43709,
+        "word": "感冒和新冠会同时得吗",
+        "onboard_time": 1671806370,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41989,
+        "num": 41989,
+        "word": "东北一小伙靠一条视频赚了100万",
+        "onboard_time": 1671803552,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41217,
+        "num": 41217,
+        "word": "大马丁嘲讽姆巴佩被投诉你怎么看",
+        "onboard_time": 1671794550,
+        "rank": 9,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 102659,
+        "num": 41192,
+        "word": "学校回应疑教师上网课现不雅聊天",
+        "onboard_time": 1671815778,
+        "rank": 10,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 40390,
+        "num": 40390,
+        "word": "第一波北京阳康坐飞机都去哪儿了",
+        "onboard_time": 1671791069,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38315,
+        "num": 38315,
+        "word": "一战成硕",
+        "onboard_time": 1671805051,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 34404,
+        "num": 34404,
+        "word": "梅婷演技 绝",
+        "onboard_time": 1671807148,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 33998,
+        "num": 33998,
+        "word": "女子连环屁像放鞭炮熏跑丈夫",
+        "onboard_time": 1671809006,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33569,
+        "num": 33569,
+        "word": "吴镇宇刘耀文对戏是真打",
+        "onboard_time": 1671815178,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30130,
+        "num": 30130,
+        "word": "白鹿说希望横店早日通高铁",
+        "onboard_time": 1671802952,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29089,
+        "num": 29089,
+        "word": "不要听网上那帮人胡咧咧",
+        "onboard_time": 1671795452,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28854,
+        "num": 28854,
+        "word": "回来的女儿",
+        "onboard_time": 1671800729,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 25809,
+        "num": 25809,
+        "word": "女子发烧出汗浸湿被子晾晒后被吹跑",
+        "onboard_time": 1671805648,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39788,
+        "num": 25747,
+        "word": "共和国三天内痛失六位院士",
+        "onboard_time": 1671789270,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25593,
+        "num": 25593,
+        "word": "青壮年感冒后要谨防心肌炎",
+        "onboard_time": 1671792450,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25177,
+        "num": 25177,
+        "word": "涉赌主播吸金1.2亿获刑6年",
+        "onboard_time": 1671788848,
+        "rank": 22,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 25126,
+        "num": 25126,
+        "word": "新疆学生扭脖子技能惊呆支教老师",
+        "onboard_time": 1671811283,
+        "rank": 23,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 24668,
+        "num": 24668,
+        "word": "阳康后该如何避免再感染",
+        "onboard_time": 1671794850,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24618,
+        "num": 24618,
+        "word": "观众朋友们 我想死你们了",
+        "onboard_time": 1671803668,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 23142,
+        "num": 23142,
+        "word": "男子自以为阳了约朋友喝酒杀毒",
+        "onboard_time": 1671796049,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22990,
+        "num": 22990,
+        "word": "妻子阳后老公照顾离婚冷静期和好",
+        "onboard_time": 1671789928,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21837,
+        "num": 21837,
+        "word": "肩颈一下就展开了",
+        "onboard_time": 1671808650,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20779,
+        "num": 20779,
+        "word": "高校师生自制抗原试剂供全校使用",
+        "onboard_time": 1671801690,
+        "rank": 29,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 61912,
+        "num": 20774,
+        "word": "鹤岗原市长梁成军被判死缓",
+        "onboard_time": 1671828191,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28816,
+        "num": 20763,
+        "word": "女孩高烧40度自然卷变成直发",
+        "onboard_time": 1671783086,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25700,
+        "num": 20758,
+        "word": "妈妈阳性宝宝生下来就发烧",
+        "onboard_time": 1671786447,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20741,
+        "num": 20741,
+        "word": "这猫烟瘾挺大啊",
+        "onboard_time": 1671807933,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 20462,
+        "num": 20462,
+        "word": "转阴后要知道的10件事",
+        "onboard_time": 1671798210,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19849,
+        "num": 19849,
+        "word": "考研加油",
+        "onboard_time": 1671803908,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 19535,
+        "num": 19535,
+        "word": "校服全智贤和Ditto的适配度",
+        "onboard_time": 1671807991,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 19179,
+        "num": 19179,
+        "word": "李子维为了见黄雨萱每天喝奶茶",
+        "onboard_time": 1671806432,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 19001,
+        "num": 19001,
+        "word": "浙江加工资发补助关爱医务人员",
+        "onboard_time": 1671810207,
+        "rank": 38,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 18993,
+        "num": 18993,
+        "word": "想见你穿婚纱的是黄雨萱还是陈韵如",
+        "onboard_time": 1671809130,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 18421,
+        "num": 18421,
+        "word": "顺丰回应包裹破洞美林不翼而飞",
+        "onboard_time": 1671786388,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18144,
+        "num": 18144,
+        "word": "男子卖橘子下意识反应令人心疼",
+        "onboard_time": 1671791130,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17846,
+        "num": 17846,
+        "word": "折腰",
+        "onboard_time": 1671806851,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 16780,
+        "num": 17839,
+        "word": "沈月画的车保罗",
+        "onboard_time": 1671797070,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 16020,
+        "num": 17834,
+        "word": "彩礼在结婚中真的很重要吗",
+        "onboard_time": 1671795211,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 15913,
+        "num": 17824,
+        "word": "TraineeA确认出道组解散",
+        "onboard_time": 1671801871,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14534,
+        "num": 17817,
+        "word": "丈夫开车打滑妻子冷静指挥化险为夷",
+        "onboard_time": 1671809489,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14403,
+        "num": 17813,
+        "word": "美国不能一边谈合作一边捅刀子",
+        "onboard_time": 1671830772,
+        "rank": 47,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 14315,
+        "num": 17804,
+        "word": "小鬼ID朋克小兔兔兔",
+        "onboard_time": 1671812604,
+        "rank": 48,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 14133,
+        "num": 17801,
+        "word": "徐志胜把李宇春认成粉丝",
+        "onboard_time": 1671801511,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚持系统观念守正创新#"
+    }
+  }
+}
