@@ -1,6 +1,6 @@
 {
   "startTime": 1671726339693,
-  "endTime": 1671808699709,
+  "endTime": 1671809606145,
   "band_list": [
     {
       "raw_hot": 3022259,
@@ -59,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1600899,
+      "num": 1600899,
+      "word": "发烧时要少吃高蛋白食物",
+      "onboard_time": 1671805170,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1586360,
       "num": 1514725,
       "word": "男子每月往家打8千妻子仍说没钱",
@@ -75,20 +83,20 @@
       "category": "艺人,社会新闻"
     },
     {
-      "raw_hot": 1487320,
-      "num": 1487320,
-      "word": "发烧时要少吃高蛋白食物",
-      "onboard_time": 1671805170,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1446190,
       "num": 564510,
       "word": "奥运冠军吕小军被临时禁赛",
       "onboard_time": 1671760348,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1327774,
+      "num": 1327774,
+      "word": "青岛目前每日新增感染50万人左右",
+      "onboard_time": 1671807270,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1324197,
@@ -128,14 +136,6 @@
       "word": "共和国三天内痛失六位院士",
       "onboard_time": 1671789270,
       "rank": 6,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1189773,
-      "num": 1189773,
-      "word": "青岛目前每日新增感染50万人左右",
-      "onboard_time": 1671807270,
-      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -427,6 +427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 591941,
+      "num": 591941,
+      "word": "梅婷演技 绝",
+      "onboard_time": 1671807148,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 586440,
       "num": 586440,
       "word": "才知道布洛芬不适合我",
@@ -521,14 +529,6 @@
       "onboard_time": 1671795452,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 532411,
-      "num": 532411,
-      "word": "梅婷演技 绝",
-      "onboard_time": 1671807148,
-      "rank": 7,
-      "category": "影视"
     },
     {
       "raw_hot": 521052,
@@ -715,6 +715,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 409458,
+      "num": 409458,
+      "word": "折腰",
+      "onboard_time": 1671806851,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 406690,
       "num": 406690,
       "word": "肖战电视剧十大之最VCR视频",
@@ -745,14 +753,6 @@
       "onboard_time": 1671773851,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 393871,
-      "num": 393871,
-      "word": "折腰",
-      "onboard_time": 1671806851,
-      "rank": 11,
-      "category": "影视"
     },
     {
       "raw_hot": 392476,
@@ -891,6 +891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 345802,
+      "num": 345802,
+      "word": "一战成硕",
+      "onboard_time": 1671805051,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
       "raw_hot": 344499,
       "num": 344499,
       "word": "王者2023年度版本开航",
@@ -945,14 +953,6 @@
       "onboard_time": 1671705212,
       "rank": 12,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 313145,
-      "num": 313145,
-      "word": "一战成硕",
-      "onboard_time": 1671805051,
-      "rank": 34,
-      "category": "教育"
     },
     {
       "raw_hot": 311934,
@@ -1323,6 +1323,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 233803,
+      "num": 233803,
+      "word": "感冒和新冠会同时得吗",
+      "onboard_time": 1671806370,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 232615,
       "num": 232615,
       "word": "男子怀疑妻子被唆使离婚殴打邻居",
@@ -1393,6 +1401,14 @@
       "onboard_time": 1671772890,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 222925,
+      "num": 222925,
+      "word": "校服全智贤和Ditto的适配度",
+      "onboard_time": 1671807991,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 222242,
@@ -1555,14 +1571,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 208009,
-      "num": 208009,
-      "word": "感冒和新冠会同时得吗",
-      "onboard_time": 1671806370,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 207345,
       "num": 195898,
       "word": "魅族发布会",
@@ -1579,20 +1587,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 204187,
+      "num": 219434,
+      "word": "观众朋友们 我想死你们了",
+      "onboard_time": 1671803668,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 203720,
       "num": 203720,
       "word": "满足什么条件可以返岗复工",
       "onboard_time": 1671758189,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 203651,
-      "num": 203651,
-      "word": "观众朋友们 我想死你们了",
-      "onboard_time": 1671803668,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 200696,
@@ -1604,7 +1612,7 @@
     },
     {
       "raw_hot": 197695,
-      "num": 197695,
+      "num": 213248,
       "word": "转阴后要知道的10件事",
       "onboard_time": 1671798210,
       "rank": 39,
@@ -1673,14 +1681,6 @@
       "onboard_time": 1671765692,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 193055,
-      "num": 165713,
-      "word": "校服全智贤和Ditto的适配度",
-      "onboard_time": 1671807991,
-      "rank": 35,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 192974,
@@ -1955,6 +1955,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 173241,
+      "num": 173241,
+      "word": "这猫烟瘾挺大啊",
+      "onboard_time": 1671807933,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 173201,
       "num": 173201,
       "word": "部分血氧仪卖断货",
@@ -2035,6 +2043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 168297,
+      "num": 168297,
+      "word": "家有姐妹好看吗",
+      "onboard_time": 1671808349,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 167285,
       "num": 167285,
       "word": "冬至晒饺子大赛",
@@ -2059,6 +2075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 166593,
+      "num": 124478,
+      "word": "想见你穿婚纱的是黄雨萱还是陈韵如",
+      "onboard_time": 1671809130,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 166458,
       "num": 166458,
       "word": "陈佑希发现小秀的绿指甲",
@@ -2073,14 +2097,6 @@
       "onboard_time": 1671776369,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 166158,
-      "num": 135917,
-      "word": "家有姐妹好看吗",
-      "onboard_time": 1671808349,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 165333,
@@ -2539,12 +2555,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 110559,
-      "num": 110559,
-      "word": "这猫烟瘾挺大啊",
-      "onboard_time": 1671807933,
-      "rank": 47,
-      "category": "幽默"
+      "raw_hot": 110697,
+      "num": 110697,
+      "word": "打干扰素不可防治奥密克戎",
+      "onboard_time": 1671809246,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 110267,
@@ -2585,6 +2601,14 @@
       "onboard_time": 1671799410,
       "rank": 44,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 108500,
+      "num": 108500,
+      "word": "女子连环屁像放鞭炮熏跑丈夫",
+      "onboard_time": 1671809006,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 108170,
@@ -2713,6 +2737,14 @@
       "onboard_time": 1671705092,
       "rank": 36,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 92899,
+      "num": 97351,
+      "word": "丈夫开车打滑妻子冷静指挥化险为夷",
+      "onboard_time": 1671809489,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 92324,

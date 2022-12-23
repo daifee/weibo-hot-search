@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1671808699709,
+  "endTime": 1671809606145,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -2715,6 +2715,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 1600899,
+      "num": 1600899,
+      "word": "发烧时要少吃高蛋白食物",
+      "onboard_time": 1671805170,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1598358,
       "num": 1130505,
       "word": "丁俊晖怒喷世界台联",
@@ -3145,14 +3153,6 @@
       "onboard_time": 1671754886,
       "rank": 3,
       "category": "艺人,社会新闻"
-    },
-    {
-      "raw_hot": 1487320,
-      "num": 1487320,
-      "word": "发烧时要少吃高蛋白食物",
-      "onboard_time": 1671805170,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1484993,
@@ -3753,6 +3753,14 @@
       "onboard_time": 1670766915,
       "rank": 3,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1327774,
+      "num": 1327774,
+      "word": "青岛目前每日新增感染50万人左右",
+      "onboard_time": 1671807270,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1327622,
@@ -4497,14 +4505,6 @@
       "onboard_time": 1670338390,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1189773,
-      "num": 1189773,
-      "word": "青岛目前每日新增感染50万人左右",
-      "onboard_time": 1671807270,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1189670,
@@ -12507,6 +12507,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 591941,
+      "num": 591941,
+      "word": "梅婷演技 绝",
+      "onboard_time": 1671807148,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 591761,
       "num": 591761,
       "word": "剪秋本宫的头好痛",
@@ -14225,14 +14233,6 @@
       "onboard_time": 1670822234,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 532411,
-      "num": 532411,
-      "word": "梅婷演技 绝",
-      "onboard_time": 1671807148,
-      "rank": 7,
-      "category": "影视"
     },
     {
       "raw_hot": 532361,
@@ -18787,6 +18787,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 409458,
+      "num": 409458,
+      "word": "折腰",
+      "onboard_time": 1671806851,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 409365,
       "num": 409365,
       "word": "秦岚晒澳门碎片随拍",
@@ -19625,14 +19633,6 @@
       "onboard_time": 1669816695,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 393871,
-      "num": 393871,
-      "word": "折腰",
-      "onboard_time": 1671806851,
-      "rank": 11,
-      "category": "影视"
     },
     {
       "raw_hot": 393803,
@@ -22147,6 +22147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 345802,
+      "num": 345802,
+      "word": "一战成硕",
+      "onboard_time": 1671805051,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
       "raw_hot": 345397,
       "num": 345397,
       "word": "2023LCK",
@@ -24297,14 +24305,6 @@
       "onboard_time": 1671195572,
       "rank": 32,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 313145,
-      "num": 313145,
-      "word": "一战成硕",
-      "onboard_time": 1671805051,
-      "rank": 34,
-      "category": "教育"
     },
     {
       "raw_hot": 313051,
@@ -31003,6 +31003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 233803,
+      "num": 233803,
+      "word": "感冒和新冠会同时得吗",
+      "onboard_time": 1671806370,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 233759,
       "num": 233759,
       "word": "LESSERAFIM2022MMA表演舞台练习室版",
@@ -32113,6 +32121,14 @@
       "onboard_time": 1670988852,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 222925,
+      "num": 222925,
+      "word": "校服全智贤和Ditto的适配度",
+      "onboard_time": 1671807991,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 222887,
@@ -33827,14 +33843,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 208009,
-      "num": 208009,
-      "word": "感冒和新冠会同时得吗",
-      "onboard_time": 1671806370,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 207940,
       "num": 207940,
       "word": "什么样的夫妻关系才最合拍",
@@ -34235,6 +34243,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 204187,
+      "num": 219434,
+      "word": "观众朋友们 我想死你们了",
+      "onboard_time": 1671803668,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 204156,
       "num": 159103,
       "word": "刘畊宏感谢周深陪他从教练变回歌手",
@@ -34281,14 +34297,6 @@
       "onboard_time": 1671758189,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 203651,
-      "num": 203651,
-      "word": "观众朋友们 我想死你们了",
-      "onboard_time": 1671803668,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 203575,
@@ -34852,7 +34860,7 @@
     },
     {
       "raw_hot": 197695,
-      "num": 197695,
+      "num": 213248,
       "word": "转阴后要知道的10件事",
       "onboard_time": 1671798210,
       "rank": 39,
@@ -35689,14 +35697,6 @@
       "onboard_time": 1671423994,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 193055,
-      "num": 165713,
-      "word": "校服全智贤和Ditto的适配度",
-      "onboard_time": 1671807991,
-      "rank": 35,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 192986,
@@ -39155,6 +39155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 173241,
+      "num": 173241,
+      "word": "这猫烟瘾挺大啊",
+      "onboard_time": 1671807933,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 173237,
       "num": 245726,
       "word": "专家释疑为何感觉身边无症状很少",
@@ -40035,6 +40043,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 168297,
+      "num": 168297,
+      "word": "家有姐妹好看吗",
+      "onboard_time": 1671808349,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 168271,
       "num": 168271,
       "word": "梁洁说今晚上班",
@@ -40355,6 +40371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 166593,
+      "num": 124478,
+      "word": "想见你穿婚纱的是黄雨萱还是陈韵如",
+      "onboard_time": 1671809130,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 166584,
       "num": 166584,
       "word": "摩洛哥球迷",
@@ -40457,14 +40481,6 @@
       "onboard_time": 1671518549,
       "rank": 42,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 166158,
-      "num": 135917,
-      "word": "家有姐妹好看吗",
-      "onboard_time": 1671808349,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 166095,
@@ -49675,6 +49691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110697,
+      "num": 110697,
+      "word": "打干扰素不可防治奥密克戎",
+      "onboard_time": 1671809246,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 110651,
       "num": 110651,
       "word": "王濛给周洋安利英格兰队",
@@ -49697,14 +49721,6 @@
       "onboard_time": 1671330747,
       "rank": 47,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 110559,
-      "num": 110559,
-      "word": "这猫烟瘾挺大啊",
-      "onboard_time": 1671807933,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 110474,
@@ -50041,6 +50057,14 @@
       "onboard_time": 1671687151,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 108500,
+      "num": 108500,
+      "word": "女子连环屁像放鞭炮熏跑丈夫",
+      "onboard_time": 1671809006,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 108444,
@@ -51703,6 +51727,14 @@
       "num": 115478,
       "word": "布洛芬和退烧药不建议联合使用",
       "onboard_time": 1671093387,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 92899,
+      "num": 97351,
+      "word": "丈夫开车打滑妻子冷静指挥化险为夷",
+      "onboard_time": 1671809489,
       "rank": 49,
       "category": "社会新闻"
     },
