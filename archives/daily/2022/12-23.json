@@ -1,6 +1,6 @@
 {
   "startTime": 1671726339693,
-  "endTime": 1671790789022,
+  "endTime": 1671791717226,
   "band_list": [
     {
       "raw_hot": 3022259,
@@ -91,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1120989,
+      "num": 1120989,
+      "word": "共和国三天内痛失六位院士",
+      "onboard_time": 1671789270,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1090989,
       "num": 1090989,
       "word": "大马丁连续侮辱姆巴佩被投诉",
@@ -147,14 +155,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 853197,
-      "num": 853197,
-      "word": "共和国三天内痛失六位院士",
-      "onboard_time": 1671789270,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 814052,
       "num": 814052,
       "word": "布洛芬短期供需错配长期或供过于求",
@@ -187,6 +187,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 745603,
+      "num": 745603,
+      "word": "背肖四",
+      "onboard_time": 1671788788,
+      "rank": 7,
+      "category": "教育"
+    },
+    {
       "raw_hot": 729904,
       "num": 729904,
       "word": "印度准备增加对华退烧药出口",
@@ -209,14 +217,6 @@
       "onboard_time": 1671761189,
       "rank": 6,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 718673,
-      "num": 718673,
-      "word": "背肖四",
-      "onboard_time": 1671788788,
-      "rank": 7,
-      "category": "教育"
     },
     {
       "raw_hot": 710593,
@@ -547,6 +547,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 381779,
+      "num": 361987,
+      "word": "杨超越和草莓杠上了视频",
+      "onboard_time": 1671791669,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 377910,
       "num": 377910,
       "word": "电影想见你点映口碑",
@@ -609,6 +617,14 @@
       "onboard_time": 1671767127,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 347831,
+      "num": 347831,
+      "word": "妻子阳后老公照顾离婚冷静期和好",
+      "onboard_time": 1671789928,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 346885,
@@ -787,6 +803,14 @@
       "category": "情感,教育"
     },
     {
+      "raw_hot": 275085,
+      "num": 275085,
+      "word": "县委大院豆瓣7.1",
+      "onboard_time": 1671788669,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 273552,
       "num": 273552,
       "word": "原来是你定档1225",
@@ -825,14 +849,6 @@
       "onboard_time": 1671722608,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 261470,
-      "num": 239504,
-      "word": "县委大院豆瓣7.1",
-      "onboard_time": 1671788669,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 258974,
@@ -915,6 +931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 239253,
+      "num": 213778,
+      "word": "浮图缘连更17天",
+      "onboard_time": 1671789572,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 238198,
       "num": 238198,
       "word": "张艺兴时隔三年再发苦情歌",
@@ -993,14 +1017,6 @@
       "onboard_time": 1671768448,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 224069,
-      "num": 160606,
-      "word": "浮图缘连更17天",
-      "onboard_time": 1671789572,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 223013,
@@ -1107,6 +1123,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 211019,
+      "num": 211019,
+      "word": "别同时对两个单身的人催婚",
+      "onboard_time": 1671788249,
+      "rank": 27,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 210440,
       "num": 210440,
       "word": "林巧稚曾亲手接生了袁隆平",
@@ -1163,14 +1187,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 199877,
-      "num": 199877,
-      "word": "妻子阳后老公照顾离婚冷静期和好",
-      "onboard_time": 1671789928,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 197485,
       "num": 197485,
       "word": "MOJ对战EDG",
@@ -1192,6 +1208,14 @@
       "word": "接梗还是得看苏有朋",
       "onboard_time": 1671758249,
       "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 195945,
+      "num": 176192,
+      "word": "宋亚轩新年祝大家健康",
+      "onboard_time": 1671791610,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -1291,14 +1315,6 @@
       "category": "作品衍生,情感"
     },
     {
-      "raw_hot": 185648,
-      "num": 185648,
-      "word": "别同时对两个单身的人催婚",
-      "onboard_time": 1671788249,
-      "rank": 27,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 185079,
       "num": 156510,
       "word": "王鹤棣肖铎的单手抱",
@@ -1363,12 +1379,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 178590,
+      "num": 178590,
+      "word": "1岁半外孙见外婆摔倒跑去喊人扶起",
+      "onboard_time": 1671789389,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 176899,
       "num": 176899,
       "word": "当我学会用辩证法看待考研",
       "onboard_time": 1671783266,
       "rank": 35,
       "category": "幽默,教育"
+    },
+    {
+      "raw_hot": 176483,
+      "num": 176483,
+      "word": "美国特别委会建议禁止特朗普参选",
+      "onboard_time": 1671790529,
+      "rank": 46,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 174469,
@@ -1393,6 +1425,14 @@
       "onboard_time": 1671761970,
       "rank": 43,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 174189,
+      "num": 173333,
+      "word": "炉石制作人给国服玩家留言",
+      "onboard_time": 1671788548,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 174030,
@@ -1435,6 +1475,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 172441,
+      "num": 172441,
+      "word": "第一波北京阳康坐飞机都去哪儿了",
+      "onboard_time": 1671791069,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 170179,
       "num": 170179,
       "word": "孙子和孙女不同起床待遇",
@@ -1449,6 +1497,14 @@
       "onboard_time": 1671765210,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 169663,
+      "num": 169663,
+      "word": "女子发烧40度醒来后变呱呱音",
+      "onboard_time": 1671790349,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 169583,
@@ -1523,6 +1579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 163597,
+      "num": 163597,
+      "word": "差点就要愧疚一辈子了",
+      "onboard_time": 1671790171,
+      "rank": 44,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 162671,
       "num": 162671,
       "word": "杨紫说最近不会接综艺",
@@ -1553,14 +1617,6 @@
       "onboard_time": 1671772531,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 161472,
-      "num": 161472,
-      "word": "炉石制作人给国服玩家留言",
-      "onboard_time": 1671788548,
-      "rank": 28,
-      "category": "游戏"
     },
     {
       "raw_hot": 161214,
@@ -1595,12 +1651,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 155826,
+      "num": 155826,
+      "word": "芒果综艺联名跨年",
+      "onboard_time": 1671791008,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 152924,
       "num": 152924,
       "word": "重温想见你名场面",
       "onboard_time": 1671787588,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 150494,
+      "num": 150494,
+      "word": "春运将从1月7日开始",
+      "onboard_time": 1671786089,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 150438,
@@ -1611,20 +1683,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 149800,
+      "num": 149800,
+      "word": "郭艾伦复出",
+      "onboard_time": 1671789869,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 149162,
       "num": 133947,
       "word": "张远埋汰的歌词三兄弟认领",
       "onboard_time": 1671758309,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 148666,
-      "num": 148666,
-      "word": "春运将从1月7日开始",
-      "onboard_time": 1671786089,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 147036,
@@ -1643,20 +1715,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 145720,
-      "num": 145720,
-      "word": "1岁半外孙见外婆摔倒跑去喊人扶起",
-      "onboard_time": 1671789389,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 145160,
       "num": 145160,
       "word": "LOL手游花火绽春",
       "onboard_time": 1671777028,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 144988,
+      "num": 144988,
+      "word": "男子卖橘子下意识反应令人心疼",
+      "onboard_time": 1671791130,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 143550,
@@ -1827,22 +1899,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 118337,
-      "num": 118337,
-      "word": "郭艾伦复出",
-      "onboard_time": 1671789869,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 114110,
-      "num": 114110,
-      "word": "差点就要愧疚一辈子了",
-      "onboard_time": 1671790171,
-      "rank": 44,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 112101,
       "num": 112101,
       "word": "阳康后应注意什么",
@@ -1915,6 +1971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 105064,
+      "num": 105064,
+      "word": "奥密克戎不会放过嘴硬的人",
+      "onboard_time": 1671791369,
+      "rank": 48,
+      "category": "游戏,社会新闻"
+    },
+    {
       "raw_hot": 103859,
       "num": 103859,
       "word": "林巧稚诞辰121周年",
@@ -1931,20 +1995,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 102048,
-      "num": 102048,
-      "word": "美国特别委会建议禁止特朗普参选",
-      "onboard_time": 1671790529,
-      "rank": 46,
-      "category": "国外要闻"
-    },
-    {
-      "raw_hot": 97154,
-      "num": 97154,
-      "word": "女子发烧40度醒来后变呱呱音",
-      "onboard_time": 1671790349,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 101260,
+      "num": 323412,
+      "word": "张天爱练瑜伽好稳",
+      "onboard_time": 1671789632,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 96564,
@@ -2073,14 +2129,6 @@
       "onboard_time": 1671688409,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 71133,
-      "num": 288108,
-      "word": "张天爱练瑜伽好稳",
-      "onboard_time": 1671789632,
-      "rank": 14,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 62995,
