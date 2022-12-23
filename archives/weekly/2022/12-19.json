@@ -1,6 +1,6 @@
 {
   "startTime": 1671380618877,
-  "endTime": 1671822858147,
+  "endTime": 1671823992947,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -5611,6 +5611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 301303,
+      "num": 301303,
+      "word": "阳了之后你会失眠吗",
+      "onboard_time": 1671818594,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 301034,
       "num": 301034,
       "word": "魏大勋直播",
@@ -6912,14 +6920,6 @@
       "word": "女子开地暖晒干菜7天后全粘地砖上",
       "onboard_time": 1671431250,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 238689,
-      "num": 238689,
-      "word": "阳了之后你会失眠吗",
-      "onboard_time": 1671818594,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -12915,20 +12915,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 18602,
+      "num": 18602,
+      "word": "仙侠剧特效能有多精致",
+      "onboard_time": 1671818116,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 18164,
       "num": 36191,
       "word": "管泽元约徐志胜呼兰立冠军flag",
       "onboard_time": 1671394993,
       "rank": 48,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 18100,
-      "num": 18100,
-      "word": "仙侠剧特效能有多精致",
-      "onboard_time": 1671818116,
-      "rank": 48,
-      "category": "影视"
     },
     {
       "raw_hot": 17758,
