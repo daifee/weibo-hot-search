@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/12/01 00:28:49 ~ 2022/12/23 11:33:55
+本榜单时间：2022/12/01 00:28:49 ~ 2022/12/23 12:22:01
 </p>
 </blockquote>
 <p>
@@ -4797,6 +4797,12 @@ N95口罩搜索暴涨715%（热度：940535）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B8%83%E6%B4%9B%E8%8A%AC%E9%80%80%E7%83%A7%E4%B8%8D%E8%83%BD%E8%BF%9E%E5%90%83%E8%B6%853%E5%A4%A9%23" target="weibo">
+布洛芬退烧不能连吃超3天（热度：936079）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23C%E7%BD%97%E4%B9%98%E7%A7%81%E4%BA%BA%E9%A3%9E%E6%9C%BA%E7%A6%BB%E5%BC%80%E5%8D%A1%E5%A1%94%E5%B0%94%23" target="weibo">
 C罗乘私人飞机离开卡塔尔（热度：935962）
 </a>
@@ -6005,12 +6011,6 @@ candy（热度：809942）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A9%B4%E5%84%BF%E9%81%AD%E6%9C%88%E5%AD%90%E4%B8%AD%E5%BF%83%E6%9C%88%E5%AB%82%E5%A4%B1%E6%89%8B%E6%91%94%E5%9C%B0%23" target="weibo">
 婴儿遭月子中心月嫂失手摔地（热度：802590）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E8%83%8C%E8%80%83%E7%A0%94%E9%87%8D%E7%82%B9%E8%83%8C%E5%88%B0%E5%B4%A9%E6%BA%83%E6%8A%B9%E7%9C%BC%E6%B3%AA%E5%9D%9A%E6%8C%81%23" target="weibo">
-女生背考研重点背到崩溃抹眼泪坚持（热度：801347）
 </a>
 </li>
 

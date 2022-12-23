@@ -1,0 +1,410 @@
+{
+  "runTime": 1671769321008,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1629515,
+        "num": 1629515,
+        "word": "女子将布洛芬藏茶包里压最底层寄出",
+        "onboard_time": 1671758849,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1483610,
+        "num": 1483610,
+        "word": "给还没羊的人留一句经验",
+        "onboard_time": 1671750737,
+        "rank": 1,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 9960,
+        "num": 1137024,
+        "word": "关于孩子发烧17个热点问答",
+        "onboard_time": 1671693391,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 936079,
+        "num": 936079,
+        "word": "布洛芬退烧不能连吃超3天",
+        "onboard_time": 1671764727,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 697373,
+        "num": 697373,
+        "word": "决赛圈",
+        "onboard_time": 1671712410,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 580556,
+        "num": 580556,
+        "word": "塔利班回应女性上大学禁令",
+        "onboard_time": 1671761788,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 566795,
+        "num": 566795,
+        "word": "你的奖学金买了啥",
+        "onboard_time": 1671765328,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 556921,
+        "num": 556921,
+        "word": "浮图缘",
+        "onboard_time": 1671761908,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 484979,
+        "num": 484979,
+        "word": "QQ音乐",
+        "onboard_time": 1671768808,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 480822,
+        "num": 480822,
+        "word": "看病老人偷发热门诊护士的手机",
+        "onboard_time": 1671765628,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 661954,
+        "num": 464936,
+        "word": "黄子韬徐艺洋综艺名场面",
+        "onboard_time": 1671766589,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 609608,
+        "num": 456358,
+        "word": "妈妈晒娃被网友提醒嘴唇发紫快送医",
+        "onboard_time": 1671766169,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 510167,
+        "num": 431859,
+        "word": "87岁妻子在张富清灵前痛哭久久不愿离去",
+        "onboard_time": 1671764010,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 501079,
+        "num": 420457,
+        "word": "田曦薇推荐种田文",
+        "onboard_time": 1671765990,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 125141,
+        "num": 413208,
+        "word": "一种很新的穿搭方式",
+        "onboard_time": 1671768028,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 398624,
+        "num": 398624,
+        "word": "曾光称第4针一定要变换疫苗",
+        "onboard_time": 1671767309,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 349392,
+        "num": 349392,
+        "word": "2022电视剧十大之最",
+        "onboard_time": 1671767127,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 296085,
+        "num": 296085,
+        "word": "三次抗原检测可代替两次核酸检测",
+        "onboard_time": 1671756329,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253340,
+        "num": 253340,
+        "word": "里沙利松倒钩当选世界杯最佳进球",
+        "onboard_time": 1671759147,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 231329,
+        "num": 231329,
+        "word": "阿姨用0.19毫米银丝做出能动的小鱼",
+        "onboard_time": 1671761067,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 658057,
+        "num": 229850,
+        "word": "奥运冠军吕小军被临时禁赛",
+        "onboard_time": 1671760348,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 340333,
+        "num": 227782,
+        "word": "肖战如梦之梦中场休息视频",
+        "onboard_time": 1671763888,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 323409,
+        "num": 227033,
+        "word": "黄磊感染新冠",
+        "onboard_time": 1671754886,
+        "rank": 22,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 300973,
+        "num": 223646,
+        "word": "BLACKPINK演唱会圣诞裙造型",
+        "onboard_time": 1671759689,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 222832,
+        "num": 222832,
+        "word": "中方对余茂春等2人采取反制裁措施",
+        "onboard_time": 1671763230,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201636,
+        "num": 201636,
+        "word": "阳了洗鼻也能缓解症状",
+        "onboard_time": 1671768448,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188348,
+        "num": 188348,
+        "word": "G2官宣2023阵容",
+        "onboard_time": 1671766050,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 186789,
+        "num": 186789,
+        "word": "FIFA年终排名国足第80名",
+        "onboard_time": 1671761251,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183473,
+        "num": 183473,
+        "word": "部分iPhone14Pro被曝开机闪现水平线",
+        "onboard_time": 1671762630,
+        "rank": 28,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 176150,
+        "num": 176150,
+        "word": "1岁宝宝照顾发烧妈妈递水盖被",
+        "onboard_time": 1671762568,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227377,
+        "num": 175424,
+        "word": "虞书欣王鹤棣苍兰诀德塔文卓越景气奖",
+        "onboard_time": 1671765747,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 220694,
+        "num": 174569,
+        "word": "想见你",
+        "onboard_time": 1671763049,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 214452,
+        "num": 173781,
+        "word": "李晨说自己最怕失去的人是金钟国",
+        "onboard_time": 1671767848,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211818,
+        "num": 172555,
+        "word": "胡歌替梅晓歌补拍合照",
+        "onboard_time": 1671767911,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 171687,
+        "num": 171687,
+        "word": "阳了后的疼疼疼",
+        "onboard_time": 1671754044,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170572,
+        "num": 170572,
+        "word": "阳了吃消炎药管用吗",
+        "onboard_time": 1671768629,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168107,
+        "num": 168107,
+        "word": "阳康后如何恢复体力",
+        "onboard_time": 1671768088,
+        "rank": 36,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 166999,
+        "num": 166999,
+        "word": "部分血氧仪卖断货",
+        "onboard_time": 1671765509,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 165919,
+        "num": 165919,
+        "word": "对自己身高有误解的狗狗",
+        "onboard_time": 1671765928,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 164827,
+        "num": 164827,
+        "word": "吕小军说干干净净赢得几乎所有荣誉",
+        "onboard_time": 1671767127,
+        "rank": 39,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 186050,
+        "num": 163004,
+        "word": "王源黑胶空白碟面可以DIY",
+        "onboard_time": 1671768210,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 180323,
+        "num": 161853,
+        "word": "妻子回应张纪中感染新冠",
+        "onboard_time": 1671764911,
+        "rank": 41,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 159200,
+        "num": 159200,
+        "word": "妈妈阳后第3天就坚持做饭",
+        "onboard_time": 1671740471,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153160,
+        "num": 153160,
+        "word": "这就是小猫剃须刀吧",
+        "onboard_time": 1671765031,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 152462,
+        "num": 152462,
+        "word": "暃S30战令皮肤",
+        "onboard_time": 1671762450,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 148746,
+        "num": 148746,
+        "word": "周五花式晒美食大赛",
+        "onboard_time": 1671769048,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 147181,
+        "num": 147181,
+        "word": "考研",
+        "onboard_time": 1671754827,
+        "rank": 46,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 141757,
+        "num": 141757,
+        "word": "如何评价王者S30战令皮肤",
+        "onboard_time": 1671767848,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 135841,
+        "num": 135841,
+        "word": "兵哥哥单杠上敬礼太帅了",
+        "onboard_time": 1671769290,
+        "rank": 48,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 131478,
+        "num": 131478,
+        "word": "王者2023年度版本开航",
+        "onboard_time": 1671760529,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#以新气象新作为推动高质量发展取得新成效#"
+    }
+  }
+}

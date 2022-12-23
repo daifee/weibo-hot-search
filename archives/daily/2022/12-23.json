@@ -1,6 +1,6 @@
 {
   "startTime": 1671726339693,
-  "endTime": 1671766435412,
+  "endTime": 1671769321008,
   "band_list": [
     {
       "raw_hot": 3022259,
@@ -59,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 936079,
+      "num": 936079,
+      "word": "布洛芬退烧不能连吃超3天",
+      "onboard_time": 1671764727,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 764801,
       "num": 764801,
       "word": "浮图缘",
@@ -83,12 +91,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 672893,
-      "num": 672893,
-      "word": "布洛芬退烧不能连吃超3天",
-      "onboard_time": 1671764727,
-      "rank": 17,
-      "category": "社会新闻"
+      "raw_hot": 661954,
+      "num": 464936,
+      "word": "黄子韬徐艺洋综艺名场面",
+      "onboard_time": 1671766589,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 626005,
@@ -99,12 +107,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 609608,
+      "num": 456358,
+      "word": "妈妈晒娃被网友提醒嘴唇发紫快送医",
+      "onboard_time": 1671766169,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 586440,
       "num": 586440,
       "word": "才知道布洛芬不适合我",
       "onboard_time": 1671722069,
       "rank": 3,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 566795,
+      "num": 566795,
+      "word": "你的奖学金买了啥",
+      "onboard_time": 1671765328,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 556267,
@@ -144,6 +168,30 @@
       "word": "阿姨用0.19毫米银丝做出能动的小鱼",
       "onboard_time": 1671761067,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 501079,
+      "num": 420457,
+      "word": "田曦薇推荐种田文",
+      "onboard_time": 1671765990,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 484979,
+      "num": 484979,
+      "word": "QQ音乐",
+      "onboard_time": 1671768808,
+      "rank": 8,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 480822,
+      "num": 480822,
+      "word": "看病老人偷发热门诊护士的手机",
+      "onboard_time": 1671765628,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -211,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 398624,
+      "num": 398624,
+      "word": "曾光称第4针一定要变换疫苗",
+      "onboard_time": 1671767309,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 383792,
       "num": 289124,
       "word": "杨紫说她现在已经进组了",
@@ -243,12 +299,12 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 351319,
-      "num": 351319,
-      "word": "田曦薇推荐种田文",
-      "onboard_time": 1671765990,
-      "rank": 13,
-      "category": "作品衍生"
+      "raw_hot": 349392,
+      "num": 349392,
+      "word": "2022电视剧十大之最",
+      "onboard_time": 1671767127,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 344499,
@@ -507,12 +563,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 220694,
+      "num": 207719,
+      "word": "想见你",
+      "onboard_time": 1671763049,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 217325,
       "num": 198460,
       "word": "RedVelvetPsycho发行三周年",
       "onboard_time": 1671760348,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 214452,
+      "num": 173781,
+      "word": "李晨说自己最怕失去的人是金钟国",
+      "onboard_time": 1671767848,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 213264,
@@ -531,6 +603,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 211818,
+      "num": 172555,
+      "word": "胡歌替梅晓歌补拍合照",
+      "onboard_time": 1671767911,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 210440,
       "num": 210440,
       "word": "林巧稚曾亲手接生了袁隆平",
@@ -539,19 +619,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 207719,
-      "num": 207719,
-      "word": "想见你",
-      "onboard_time": 1671763049,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
       "raw_hot": 203720,
       "num": 203720,
       "word": "满足什么条件可以返岗复工",
       "onboard_time": 1671758189,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 201636,
+      "num": 201636,
+      "word": "阳了洗鼻也能缓解症状",
+      "onboard_time": 1671768448,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -603,12 +683,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 188348,
+      "num": 188348,
+      "word": "G2官宣2023阵容",
+      "onboard_time": 1671766050,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 186772,
       "num": 186772,
       "word": "新冠科学排痰姿势",
       "onboard_time": 1671728060,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 186050,
+      "num": 163004,
+      "word": "王源黑胶空白碟面可以DIY",
+      "onboard_time": 1671768210,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 185697,
@@ -635,6 +731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 180323,
+      "num": 165011,
+      "word": "妻子回应张纪中感染新冠",
+      "onboard_time": 1671764911,
+      "rank": 42,
+      "category": "艺人,社会新闻"
+    },
+    {
       "raw_hot": 179810,
       "num": 151909,
       "word": "戴燕妮竹林绿意古装造型",
@@ -659,20 +763,20 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 173388,
-      "num": 173388,
-      "word": "你的奖学金买了啥",
-      "onboard_time": 1671765328,
-      "rank": 49,
-      "category": "教育"
-    },
-    {
       "raw_hot": 173274,
       "num": 173274,
       "word": "这就是小猫剃须刀吧",
       "onboard_time": 1671765031,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 170572,
+      "num": 170572,
+      "word": "阳了吃消炎药管用吗",
+      "onboard_time": 1671768629,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 170179,
@@ -691,12 +795,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 168107,
+      "num": 168107,
+      "word": "阳康后如何恢复体力",
+      "onboard_time": 1671768088,
+      "rank": 36,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 167285,
       "num": 167285,
       "word": "冬至晒饺子大赛",
       "onboard_time": 1671725664,
       "rank": 17,
       "category": "美食"
+    },
+    {
+      "raw_hot": 166999,
+      "num": 166999,
+      "word": "部分血氧仪卖断货",
+      "onboard_time": 1671765509,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 166760,
@@ -707,20 +827,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 165011,
-      "num": 165011,
-      "word": "妻子回应张纪中感染新冠",
-      "onboard_time": 1671764911,
-      "rank": 42,
-      "category": "艺人,社会新闻"
+      "raw_hot": 165919,
+      "num": 165919,
+      "word": "对自己身高有误解的狗狗",
+      "onboard_time": 1671765928,
+      "rank": 48,
+      "category": "幽默"
     },
     {
-      "raw_hot": 163871,
-      "num": 163871,
-      "word": "看病老人偷发热门诊护士的手机",
-      "onboard_time": 1671765628,
-      "rank": 43,
-      "category": "社会新闻"
+      "raw_hot": 164827,
+      "num": 164827,
+      "word": "吕小军说干干净净赢得几乎所有荣誉",
+      "onboard_time": 1671767127,
+      "rank": 39,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 162671,
@@ -729,14 +849,6 @@
       "onboard_time": 1671732674,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 160958,
-      "num": 160958,
-      "word": "部分血氧仪卖断货",
-      "onboard_time": 1671765509,
-      "rank": 48,
-      "category": "财经"
     },
     {
       "raw_hot": 156414,
@@ -755,20 +867,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 148746,
+      "num": 148746,
+      "word": "周五花式晒美食大赛",
+      "onboard_time": 1671769048,
+      "rank": 45,
+      "category": "美食"
+    },
+    {
       "raw_hot": 147036,
       "num": 147036,
       "word": "穿靴子的猫2今日上映",
       "onboard_time": 1671766411,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 146338,
-      "num": 146338,
-      "word": "G2官宣2023阵容",
-      "onboard_time": 1671766050,
-      "rank": 46,
-      "category": "游戏"
     },
     {
       "raw_hot": 145833,
@@ -779,20 +891,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 139960,
-      "num": 139960,
-      "word": "妈妈晒娃被网友提醒嘴唇发紫快送医",
-      "onboard_time": 1671766169,
+      "raw_hot": 141757,
+      "num": 141757,
+      "word": "如何评价王者S30战令皮肤",
+      "onboard_time": 1671767848,
       "rank": 47,
-      "category": "社会新闻"
+      "category": "游戏"
     },
     {
-      "raw_hot": 134799,
-      "num": 134799,
-      "word": "对自己身高有误解的狗狗",
-      "onboard_time": 1671765928,
+      "raw_hot": 135841,
+      "num": 135841,
+      "word": "兵哥哥单杠上敬礼太帅了",
+      "onboard_time": 1671769290,
       "rank": 48,
-      "category": "幽默"
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 134734,
@@ -825,6 +937,14 @@
       "onboard_time": 1671741672,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 125141,
+      "num": 413208,
+      "word": "一种很新的穿搭方式",
+      "onboard_time": 1671768028,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 123457,
