@@ -1,6 +1,6 @@
 {
   "startTime": 1671726339693,
-  "endTime": 1671760339254,
+  "endTime": 1671763136650,
   "band_list": [
     {
       "raw_hot": 3022259,
@@ -9,6 +9,14 @@
       "onboard_time": 1671750737,
       "rank": 20,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 2258865,
+      "num": 2258865,
+      "word": "女子将布洛芬藏茶包里压最底层寄出",
+      "onboard_time": 1671758849,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1902630,
@@ -27,20 +35,20 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 1446190,
+      "num": 564510,
+      "word": "奥运冠军吕小军被临时禁赛",
+      "onboard_time": 1671760348,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1281562,
       "num": 1281562,
       "word": "编剧倪震去世",
       "onboard_time": 1671723566,
       "rank": 1,
       "category": "艺人,社会新闻"
-    },
-    {
-      "raw_hot": 1237607,
-      "num": 1237607,
-      "word": "女子将布洛芬藏茶包里压最底层寄出",
-      "onboard_time": 1671758849,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1156869,
@@ -51,12 +59,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 699008,
+      "num": 613348,
+      "word": "吕小军回应被禁赛",
+      "onboard_time": 1671761189,
+      "rank": 6,
+      "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 619120,
+      "num": 501373,
+      "word": "BLACKPINK演唱会圣诞裙造型",
+      "onboard_time": 1671759689,
+      "rank": 7,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 586440,
       "num": 586440,
       "word": "才知道布洛芬不适合我",
       "onboard_time": 1671722069,
       "rank": 3,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 573080,
+      "num": 573080,
+      "word": "浮图缘",
+      "onboard_time": 1671761908,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 553572,
@@ -83,12 +115,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 501373,
-      "num": 501373,
-      "word": "BLACKPINK演唱会圣诞裙造型",
-      "onboard_time": 1671759689,
-      "rank": 7,
-      "category": "作品衍生"
+      "raw_hot": 457067,
+      "num": 457067,
+      "word": "考研时间",
+      "onboard_time": 1671758369,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 433824,
@@ -97,6 +129,14 @@
       "onboard_time": 1671712052,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 429369,
+      "num": 429369,
+      "word": "吕小军",
+      "onboard_time": 1671760646,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 428916,
@@ -123,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 385687,
+      "num": 385687,
+      "word": "里沙利松倒钩当选世界杯最佳进球",
+      "onboard_time": 1671759147,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 383792,
       "num": 289124,
       "word": "杨紫说她现在已经进组了",
@@ -131,12 +179,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 382146,
-      "num": 382146,
-      "word": "考研时间",
-      "onboard_time": 1671758369,
-      "rank": 29,
-      "category": "教育"
+      "raw_hot": 358422,
+      "num": 358422,
+      "word": "14岁女生用零花钱连续6年免费送水饺",
+      "onboard_time": 1671760229,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 351400,
@@ -147,12 +195,28 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 339899,
+      "num": 176601,
+      "word": "塔利班回应女性上大学禁令",
+      "onboard_time": 1671761788,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 330810,
       "num": 330810,
       "word": "阳康后不用继续服药巩固疗效",
       "onboard_time": 1671754405,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 316770,
+      "num": 316770,
+      "word": "王者2023年度版本开航",
+      "onboard_time": 1671760529,
+      "rank": 15,
+      "category": "游戏"
     },
     {
       "raw_hot": 315960,
@@ -193,6 +257,22 @@
       "onboard_time": 1671717031,
       "rank": 7,
       "category": "艺人,社会新闻"
+    },
+    {
+      "raw_hot": 303607,
+      "num": 303607,
+      "word": "老年人感染新冠后或发生沉默性缺氧",
+      "onboard_time": 1671759026,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 299582,
+      "num": 299582,
+      "word": "阿姨用0.19毫米银丝做出能动的小鱼",
+      "onboard_time": 1671761067,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 295298,
@@ -251,6 +331,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 255108,
+      "num": 255108,
+      "word": "江苏卫视跨年第二波阵容官宣",
+      "onboard_time": 1671760348,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 252223,
       "num": 216890,
       "word": "阿根廷获批在成都设立总领事馆",
@@ -265,6 +353,14 @@
       "onboard_time": 1671738553,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 243738,
+      "num": 243738,
+      "word": "王鹤棣浮图缘海外版预告",
+      "onboard_time": 1671762630,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 237028,
@@ -299,20 +395,28 @@
       "category": "影视"
     },
     {
-      "raw_hot": 216784,
-      "num": 216784,
+      "raw_hot": 222242,
+      "num": 222242,
       "word": "爷爷为让孙子安心上学凌晨抱狗求医",
       "onboard_time": 1671758609,
       "rank": 47,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 214761,
-      "num": 214761,
-      "word": "里沙利松倒钩当选世界杯最佳进球",
-      "onboard_time": 1671759147,
-      "rank": 22,
-      "category": "体育"
+      "raw_hot": 221477,
+      "num": 221477,
+      "word": "杨迪用备忘录记录各种梗和包袱",
+      "onboard_time": 1671762029,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 217325,
+      "num": 173210,
+      "word": "RedVelvetPsycho发行三周年",
+      "onboard_time": 1671760348,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 212608,
@@ -323,12 +427,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 210440,
+      "num": 210440,
+      "word": "林巧稚曾亲手接生了袁隆平",
+      "onboard_time": 1671758909,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 203720,
       "num": 203720,
       "word": "满足什么条件可以返岗复工",
       "onboard_time": 1671758189,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 199503,
+      "num": 199503,
+      "word": "FIFA年终排名国足第80名",
+      "onboard_time": 1671761251,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 196826,
@@ -345,6 +465,14 @@
       "onboard_time": 1671711754,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 190499,
+      "num": 168141,
+      "word": "刘宇宁官宣加盟江苏卫视跨年",
+      "onboard_time": 1671762148,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 186772,
@@ -387,20 +515,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 176622,
-      "num": 176622,
-      "word": "老年人感染新冠后或发生沉默性缺氧",
-      "onboard_time": 1671759026,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 174346,
       "num": 174346,
       "word": "网传十大新冠偏方全是谣言",
       "onboard_time": 1671723566,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 173462,
+      "num": 150361,
+      "word": "想见你",
+      "onboard_time": 1671763049,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 170179,
@@ -427,14 +555,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 162876,
-      "num": 162876,
-      "word": "林巧稚曾亲手接生了袁隆平",
-      "onboard_time": 1671758909,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 162671,
       "num": 162671,
       "word": "杨紫说最近不会接综艺",
@@ -451,6 +571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 151022,
+      "num": 151022,
+      "word": "暃S30战令皮肤",
+      "onboard_time": 1671762450,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 149162,
       "num": 133947,
       "word": "张远埋汰的歌词三兄弟认领",
@@ -465,6 +593,14 @@
       "onboard_time": 1671741073,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 136518,
+      "num": 136518,
+      "word": "药店回应限售抗原为囤货质疑",
+      "onboard_time": 1671761970,
+      "rank": 43,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 134734,
@@ -488,6 +624,14 @@
       "word": "阳后出现不典型症状究竟是什么原因",
       "onboard_time": 1671741672,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 124529,
+      "num": 124529,
+      "word": "爸爸跟宝宝玩藏猫猫摔倒趴地上缓半天",
+      "onboard_time": 1671762210,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -547,6 +691,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 114937,
+      "num": 114937,
+      "word": "部分iPhone14Pro被曝开机闪现水平线",
+      "onboard_time": 1671762630,
+      "rank": 47,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 112101,
+      "num": 112101,
+      "word": "阳康后应注意什么",
+      "onboard_time": 1671761970,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 111835,
       "num": 111835,
       "word": "张文宏称北方有症状比例比南方高很多",
@@ -569,6 +729,14 @@
       "onboard_time": 1671759448,
       "rank": 43,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 108014,
+      "num": 108014,
+      "word": "1岁宝宝照顾发烧妈妈递水盖被",
+      "onboard_time": 1671762568,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 107156,
@@ -665,14 +833,6 @@
       "onboard_time": 1671759930,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 79794,
-      "num": 79794,
-      "word": "14岁女生用零花钱连续6年免费送水饺",
-      "onboard_time": 1671760229,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 77289,
