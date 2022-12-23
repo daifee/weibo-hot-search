@@ -1,0 +1,410 @@
+{
+  "runTime": 1671795190546,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2208762,
+        "num": 2208762,
+        "word": "卖退烧药45天赚近60亿",
+        "onboard_time": 1671791970,
+        "rank": 0,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 1324197,
+        "num": 1324197,
+        "word": "第一波北京阳康坐飞机都去哪儿了",
+        "onboard_time": 1671791069,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49788,
+        "num": 981408,
+        "word": "阳过能接种第二剂加强针吗",
+        "onboard_time": 1671769769,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 935347,
+        "num": 935347,
+        "word": "男子卖橘子下意识反应令人心疼",
+        "onboard_time": 1671791130,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 863983,
+        "num": 863983,
+        "word": "共和国三天内痛失六位院士",
+        "onboard_time": 1671789270,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 728974,
+        "num": 728974,
+        "word": "涉赌主播吸金1.2亿获刑6年",
+        "onboard_time": 1671788848,
+        "rank": 5,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 603022,
+        "num": 603022,
+        "word": "青壮年感冒后要谨防心肌炎",
+        "onboard_time": 1671792450,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 572838,
+        "num": 572838,
+        "word": "奥密克戎不会放过嘴硬的人",
+        "onboard_time": 1671791369,
+        "rank": 7,
+        "category": "游戏,社会新闻"
+      },
+      {
+        "raw_hot": 378249,
+        "num": 378249,
+        "word": "顺丰回应包裹破洞美林不翼而飞",
+        "onboard_time": 1671786388,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 998813,
+        "num": 378238,
+        "word": "女孩高烧40度自然卷变成直发",
+        "onboard_time": 1671783086,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 726623,
+        "num": 375319,
+        "word": "苗苗在张云龙面前提钟楚曦",
+        "onboard_time": 1671788129,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 682088,
+        "num": 375002,
+        "word": "妈妈阳性宝宝生下来就发烧",
+        "onboard_time": 1671786447,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 611212,
+        "num": 373392,
+        "word": "发烧传染全家竟是为了照顾女同学",
+        "onboard_time": 1671779009,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 372274,
+        "num": 372274,
+        "word": "女子分手没争到抚养权凌晨偷狗",
+        "onboard_time": 1671791790,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309190,
+        "num": 309190,
+        "word": "国务院向云南调运100万人份抗原",
+        "onboard_time": 1671786747,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305763,
+        "num": 305763,
+        "word": "电影想见你点映口碑",
+        "onboard_time": 1671781408,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 276555,
+        "num": 276555,
+        "word": "妻子阳后老公照顾离婚冷静期和好",
+        "onboard_time": 1671789928,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269113,
+        "num": 269113,
+        "word": "县委大院豆瓣7.1",
+        "onboard_time": 1671788669,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 246952,
+        "num": 246952,
+        "word": "浮图缘连更17天",
+        "onboard_time": 1671789572,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 218417,
+        "num": 218417,
+        "word": "吴磊在送一种很新的礼物",
+        "onboard_time": 1671791970,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 217730,
+        "num": 217730,
+        "word": "杨超越和草莓杠上了视频",
+        "onboard_time": 1671791669,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217408,
+        "num": 217408,
+        "word": "奔跑吧",
+        "onboard_time": 1671794550,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210773,
+        "num": 210773,
+        "word": "想见你",
+        "onboard_time": 1671763049,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 209986,
+        "num": 209986,
+        "word": "男子阳性后仍和俩孩子同桌吃饭被吐槽",
+        "onboard_time": 1671770130,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204216,
+        "num": 204216,
+        "word": "谷爱凌年收入1.4亿",
+        "onboard_time": 1671780569,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170800,
+        "num": 170800,
+        "word": "1岁半外孙见外婆摔倒跑去喊人扶起",
+        "onboard_time": 1671789389,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170567,
+        "num": 170567,
+        "word": "猫猫也有鸭绒被啦",
+        "onboard_time": 1671793052,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 163425,
+        "num": 163425,
+        "word": "退烧药需求逐渐退烧",
+        "onboard_time": 1671783747,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154661,
+        "num": 154661,
+        "word": "女子发烧40度醒来后变呱呱音",
+        "onboard_time": 1671790349,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151081,
+        "num": 151081,
+        "word": "布洛芬退烧不能连吃超3天",
+        "onboard_time": 1671764727,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174606,
+        "num": 150975,
+        "word": "0713为王栎鑫新剧浮图缘打call",
+        "onboard_time": 1671791910,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 162591,
+        "num": 150896,
+        "word": "许光汉 帅",
+        "onboard_time": 1671782848,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 153327,
+        "num": 150732,
+        "word": "我们的客栈",
+        "onboard_time": 1671780270,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157454,
+        "num": 150643,
+        "word": "想见你电影",
+        "onboard_time": 1671792331,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 150514,
+        "num": 150514,
+        "word": "想一起烤火的小猫",
+        "onboard_time": 1671787230,
+        "rank": 34,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 141228,
+        "num": 141228,
+        "word": "阳康后该如何避免再感染",
+        "onboard_time": 1671794850,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124888,
+        "num": 124888,
+        "word": "大马丁连续侮辱姆巴佩被投诉",
+        "onboard_time": 1671770668,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118445,
+        "num": 118445,
+        "word": "抗原红线深浅是否代表病毒载荷多少",
+        "onboard_time": 1671780988,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118060,
+        "num": 118060,
+        "word": "MOJ对战EDG",
+        "onboard_time": 1671789210,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 115523,
+        "num": 115523,
+        "word": "考研",
+        "onboard_time": 1671754827,
+        "rank": 39,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 461854,
+        "num": 113592,
+        "word": "背肖四",
+        "onboard_time": 1671788788,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 146630,
+        "num": 113143,
+        "word": "高卿尘说INTO1现在没面子了",
+        "onboard_time": 1671794728,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131009,
+        "num": 111628,
+        "word": "星河长明大结局你会追吗",
+        "onboard_time": 1671795149,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 109688,
+        "num": 109688,
+        "word": "炉石制作人给国服玩家留言",
+        "onboard_time": 1671788548,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 109520,
+        "num": 109520,
+        "word": "别同时对两个单身的人催婚",
+        "onboard_time": 1671788249,
+        "rank": 44,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 108826,
+        "num": 108826,
+        "word": "大马丁嘲讽姆巴佩被投诉你怎么看",
+        "onboard_time": 1671794550,
+        "rank": 45,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 107911,
+        "num": 107911,
+        "word": "创可贴上滴风油精贴喉咙可缓解咳嗽",
+        "onboard_time": 1671794970,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104046,
+        "num": 104046,
+        "word": "千万不要对着猫咳嗽",
+        "onboard_time": 1671784648,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100265,
+        "num": 100265,
+        "word": "美国特别委会建议禁止特朗普参选",
+        "onboard_time": 1671790529,
+        "rank": 48,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 98449,
+        "num": 98449,
+        "word": "3岁女孩单挑两只大鹅轻松拿捏",
+        "onboard_time": 1671792450,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#2022那些对于热爱的回答#"
+    }
+  }
+}

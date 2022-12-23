@@ -1,6 +1,6 @@
 {
   "startTime": 1671726339693,
-  "endTime": 1671794114596,
+  "endTime": 1671795190546,
   "band_list": [
     {
       "raw_hot": 3022259,
@@ -17,6 +17,14 @@
       "onboard_time": 1671758849,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2208762,
+      "num": 2208762,
+      "word": "卖退烧药45天赚近60亿",
+      "onboard_time": 1671791970,
+      "rank": 1,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 2065520,
@@ -67,6 +75,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1324197,
+      "num": 1324197,
+      "word": "第一波北京阳康坐飞机都去哪儿了",
+      "onboard_time": 1671791069,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1313879,
       "num": 1313879,
       "word": "妈妈阳性宝宝生下来就发烧",
@@ -91,14 +107,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1184776,
-      "num": 1184776,
-      "word": "卖退烧药45天赚近60亿",
-      "onboard_time": 1671791970,
-      "rank": 1,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 1156869,
       "num": 1156869,
       "word": "三次抗原检测可代替两次核酸检测",
@@ -121,14 +129,6 @@
       "onboard_time": 1671788848,
       "rank": 3,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 1060366,
-      "num": 1060366,
-      "word": "第一波北京阳康坐飞机都去哪儿了",
-      "onboard_time": 1671791069,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1016299,
@@ -160,6 +160,14 @@
       "word": "布洛芬退烧不能连吃超3天",
       "onboard_time": 1671764727,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 935347,
+      "num": 935347,
+      "word": "男子卖橘子下意识反应令人心疼",
+      "onboard_time": 1671791130,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -201,14 +209,6 @@
       "onboard_time": 1671761908,
       "rank": 7,
       "category": "影视"
-    },
-    {
-      "raw_hot": 755606,
-      "num": 755606,
-      "word": "男子卖橘子下意识反应令人心疼",
-      "onboard_time": 1671791130,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 745603,
@@ -315,12 +315,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 603022,
+      "num": 603022,
+      "word": "青壮年感冒后要谨防心肌炎",
+      "onboard_time": 1671792450,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 586440,
       "num": 586440,
       "word": "才知道布洛芬不适合我",
       "onboard_time": 1671722069,
       "rank": 3,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 572838,
+      "num": 572838,
+      "word": "奥密克戎不会放过嘴硬的人",
+      "onboard_time": 1671791369,
+      "rank": 48,
+      "category": "游戏,社会新闻"
     },
     {
       "raw_hot": 566968,
@@ -475,14 +491,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 437753,
-      "num": 437753,
-      "word": "奥密克戎不会放过嘴硬的人",
-      "onboard_time": 1671791369,
-      "rank": 48,
-      "category": "游戏,社会新闻"
-    },
-    {
       "raw_hot": 434386,
       "num": 434386,
       "word": "龙驭球院士逝世",
@@ -563,14 +571,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 400958,
-      "num": 400958,
-      "word": "青壮年感冒后要谨防心肌炎",
-      "onboard_time": 1671792450,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 397398,
       "num": 397398,
       "word": "女儿吃邻居家药痊愈后宝妈满城送药",
@@ -601,6 +601,14 @@
       "onboard_time": 1671781408,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 372274,
+      "num": 372274,
+      "word": "女子分手没争到抚养权凌晨偷狗",
+      "onboard_time": 1671791790,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 363204,
@@ -704,14 +712,6 @@
       "word": "阳康后不用继续服药巩固疗效",
       "onboard_time": 1671754405,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 317809,
-      "num": 317809,
-      "word": "女子分手没争到抚养权凌晨偷狗",
-      "onboard_time": 1671791790,
-      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -1113,6 +1113,14 @@
       "onboard_time": 1671785128,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 217408,
+      "num": 217408,
+      "word": "奔跑吧",
+      "onboard_time": 1671794550,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 217325,
@@ -1555,6 +1563,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 170567,
+      "num": 170567,
+      "word": "猫猫也有鸭绒被啦",
+      "onboard_time": 1671793052,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 170179,
       "num": 170179,
       "word": "孙子和孙女不同起床待遇",
@@ -1707,14 +1723,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 159789,
-      "num": 159789,
-      "word": "猫猫也有鸭绒被啦",
-      "onboard_time": 1671793052,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 158533,
       "num": 155946,
       "word": "Vernon新歌MV",
@@ -1787,6 +1795,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 146630,
+      "num": 113143,
+      "word": "高卿尘说INTO1现在没面子了",
+      "onboard_time": 1671794728,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 145833,
       "num": 103934,
       "word": "兔年春晚logo是卯字",
@@ -1809,6 +1825,14 @@
       "onboard_time": 1671784348,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 141228,
+      "num": 141228,
+      "word": "阳康后该如何避免再感染",
+      "onboard_time": 1671794850,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 136535,
@@ -1849,6 +1873,14 @@
       "onboard_time": 1671793109,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 131009,
+      "num": 111628,
+      "word": "星河长明大结局你会追吗",
+      "onboard_time": 1671795149,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 129753,
@@ -2027,12 +2059,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 108826,
+      "num": 108826,
+      "word": "大马丁嘲讽姆巴佩被投诉你怎么看",
+      "onboard_time": 1671794550,
+      "rank": 45,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 108170,
       "num": 108170,
       "word": "西藏那曲的雪山脚下有一群足球少年",
       "onboard_time": 1671759448,
       "rank": 43,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 107911,
+      "num": 107911,
+      "word": "创可贴上滴风油精贴喉咙可缓解咳嗽",
+      "onboard_time": 1671794970,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 107156,
