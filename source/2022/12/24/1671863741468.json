@@ -1,0 +1,410 @@
+{
+  "runTime": 1671863741468,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1186241,
+        "num": 1186241,
+        "word": "转阴后咳嗽要多久才能恢复",
+        "onboard_time": 1671848187,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1131846,
+        "num": 1131846,
+        "word": "梅西身价",
+        "onboard_time": 1671859171,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156262,
+        "num": 1007286,
+        "word": "家有老人面对新冠要知道的事",
+        "onboard_time": 1671842843,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 923032,
+        "num": 923032,
+        "word": "新冠咳嗽不止痰中带血怎么办",
+        "onboard_time": 1671859108,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 672860,
+        "num": 672860,
+        "word": "男子说邻居家雪人不像阳间东西",
+        "onboard_time": 1671859891,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 661926,
+        "num": 661926,
+        "word": "杭州一学校宣布暂停网课",
+        "onboard_time": 1671856532,
+        "rank": 5,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 621099,
+        "num": 621099,
+        "word": "生个病生成了那英",
+        "onboard_time": 1671861868,
+        "rank": 6,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 600417,
+        "num": 600417,
+        "word": "恋爱1个月女友瘫痪男友照顾她30年",
+        "onboard_time": 1671852632,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 593377,
+        "num": 593377,
+        "word": "美国的险恶用心中国人民看得很清楚",
+        "onboard_time": 1671861207,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 401404,
+        "num": 401404,
+        "word": "SBS歌谣大战",
+        "onboard_time": 1671859290,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 792142,
+        "num": 399839,
+        "word": "车保罗回复郭靖宇沈月杨紫",
+        "onboard_time": 1671860970,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 392764,
+        "num": 392764,
+        "word": "秦岚现身2023年央视春晚彩排",
+        "onboard_time": 1671862527,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 331010,
+        "num": 331010,
+        "word": "考研政治",
+        "onboard_time": 1671852030,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 323237,
+        "num": 323237,
+        "word": "今年考研人数比去年多17万",
+        "onboard_time": 1671862226,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 307907,
+        "num": 307907,
+        "word": "三体",
+        "onboard_time": 1671858870,
+        "rank": 14,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 307123,
+        "num": 307123,
+        "word": "27岁考研生为按时吃饭注册骑手接单",
+        "onboard_time": 1671849747,
+        "rank": 15,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 303322,
+        "num": 303322,
+        "word": "姆巴佩身价1.8亿欧全球第1",
+        "onboard_time": 1671849387,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 298519,
+        "num": 298519,
+        "word": "女子网购25个N95口罩变眼罩",
+        "onboard_time": 1671849988,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294318,
+        "num": 294318,
+        "word": "Angelababy加盟浙江卫视美好跨年夜",
+        "onboard_time": 1671858990,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 282586,
+        "num": 282586,
+        "word": "张婧仪圣诞街头随拍",
+        "onboard_time": 1671858751,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276044,
+        "num": 276044,
+        "word": "王鹤棣变身东方青苍视频",
+        "onboard_time": 1671860189,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 257066,
+        "num": 257066,
+        "word": "政治选择 难",
+        "onboard_time": 1671856832,
+        "rank": 21,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 229885,
+        "num": 229885,
+        "word": "著名药学家蒋华良逝世终年57岁",
+        "onboard_time": 1671847827,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209677,
+        "num": 209677,
+        "word": "转阴后还需要一直戴口罩吗",
+        "onboard_time": 1671839541,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207652,
+        "num": 207652,
+        "word": "水木年华一生有你引发全场合唱",
+        "onboard_time": 1671860368,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195054,
+        "num": 195054,
+        "word": "越前龙马",
+        "onboard_time": 1671850530,
+        "rank": 25,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 193550,
+        "num": 193550,
+        "word": "服用止咳糖浆半小时内不要喝水",
+        "onboard_time": 1671852149,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187597,
+        "num": 187597,
+        "word": "3人制售百万只假口罩被罚千万",
+        "onboard_time": 1671861807,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176170,
+        "num": 176170,
+        "word": "新冠冲击波下的乡村",
+        "onboard_time": 1671846748,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173332,
+        "num": 173332,
+        "word": "28岁的李子维和17岁的黄雨萱",
+        "onboard_time": 1671851311,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 168627,
+        "num": 168627,
+        "word": "哈兰德",
+        "onboard_time": 1671854191,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156022,
+        "num": 156022,
+        "word": "沉默性缺氧有多可怕",
+        "onboard_time": 1671861507,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152594,
+        "num": 152594,
+        "word": "放过罗辑",
+        "onboard_time": 1671862046,
+        "rank": 32,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 149585,
+        "num": 149585,
+        "word": "杨超越方向真猜中了彩票",
+        "onboard_time": 1671841163,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 146584,
+        "num": 146584,
+        "word": "字节员工违规获取美国用户数据",
+        "onboard_time": 1671853769,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134457,
+        "num": 134457,
+        "word": "张彬彬只要我不出声没人看得见我",
+        "onboard_time": 1671863668,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122050,
+        "num": 122050,
+        "word": "迪马利亚夺冠后决定不退役了",
+        "onboard_time": 1671846266,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121550,
+        "num": 121550,
+        "word": "姚琛说寄雪给尼坤",
+        "onboard_time": 1671857971,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 117860,
+        "num": 117860,
+        "word": "观众朋友们 我想死你们了",
+        "onboard_time": 1671803668,
+        "rank": 38,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 112781,
+        "num": 112781,
+        "word": "考研",
+        "onboard_time": 1671837376,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 115950,
+        "num": 112157,
+        "word": "佘诗曼说董佳尔淳回来了",
+        "onboard_time": 1671851010,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155678,
+        "num": 111968,
+        "word": "徐涛",
+        "onboard_time": 1671856051,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 113504,
+        "num": 111654,
+        "word": "想见你",
+        "onboard_time": 1671851010,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 110912,
+        "num": 110912,
+        "word": "太原120一天被呼叫4800次",
+        "onboard_time": 1671844048,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110124,
+        "num": 110124,
+        "word": "姐姐刀片嗓用软件人工喊话8岁妹妹",
+        "onboard_time": 1671863368,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106998,
+        "num": 106998,
+        "word": "新冠康复后别着急做这些事",
+        "onboard_time": 1671854496,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100847,
+        "num": 100847,
+        "word": "管综",
+        "onboard_time": 1671853351,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 96901,
+        "num": 96901,
+        "word": "元旦春节返乡如何防护",
+        "onboard_time": 1671862468,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87887,
+        "num": 87887,
+        "word": "圣诞穿搭",
+        "onboard_time": 1671863729,
+        "rank": 48,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 85771,
+        "num": 87707,
+        "word": "阴了身体就痊愈了吗",
+        "onboard_time": 1671863729,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#纵览2022那些国之重器#"
+    }
+  }
+}
