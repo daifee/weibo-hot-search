@@ -1,0 +1,410 @@
+{
+  "runTime": 1671886143297,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1987980,
+        "num": 1987980,
+        "word": "不懂内娱到底在高贵什么",
+        "onboard_time": 1671873094,
+        "rank": 0,
+        "category": "综艺,幽默"
+      },
+      {
+        "raw_hot": 1860337,
+        "num": 1860337,
+        "word": "康复后二次感染比例有多高",
+        "onboard_time": 1671872431,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79688,
+        "num": 1757018,
+        "word": "元旦春节返乡如何防护",
+        "onboard_time": 1671862468,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1752758,
+        "num": 1752758,
+        "word": "2岁男童尿道下裂被父母误当女孩养",
+        "onboard_time": 1671881372,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1681097,
+        "num": 1681097,
+        "word": "袁娅维道歉",
+        "onboard_time": 1671884073,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1359156,
+        "num": 1359156,
+        "word": "研究生考试弃考不应该被看不起",
+        "onboard_time": 1671884253,
+        "rank": 5,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1302794,
+        "num": 1302794,
+        "word": "点外卖备注阳了收到4粒退烧药",
+        "onboard_time": 1671882096,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 900353,
+        "num": 900353,
+        "word": "英语一 难",
+        "onboard_time": 1671873094,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 812697,
+        "num": 812697,
+        "word": "年轻博士居家隔离时高烧昏厥去世",
+        "onboard_time": 1671878671,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 741086,
+        "num": 741086,
+        "word": "春晚",
+        "onboard_time": 1671868407,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 676002,
+        "num": 676002,
+        "word": "平安夜",
+        "onboard_time": 1671876211,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 570577,
+        "num": 570577,
+        "word": "hot 歌谣大战",
+        "onboard_time": 1671884674,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 545494,
+        "num": 545494,
+        "word": "英语二",
+        "onboard_time": 1671873094,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 545296,
+        "num": 545296,
+        "word": "18岁女生因焦虑2个月减25斤成95斤",
+        "onboard_time": 1671883293,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 533675,
+        "num": 533675,
+        "word": "狼队 状态",
+        "onboard_time": 1671882873,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 493377,
+        "num": 493377,
+        "word": "王鹤棣九尾直播",
+        "onboard_time": 1671882933,
+        "rank": 15,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 486585,
+        "num": 486585,
+        "word": "eStar晋级世冠总决赛",
+        "onboard_time": 1671885274,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 476251,
+        "num": 476251,
+        "word": "车银优 帅",
+        "onboard_time": 1671878133,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 388989,
+        "num": 388989,
+        "word": "怎样评价今年考研英语",
+        "onboard_time": 1671878671,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 380932,
+        "num": 380932,
+        "word": "社区回应下意识逃走的卖橘男称没低保一事",
+        "onboard_time": 1671882573,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 465781,
+        "num": 379358,
+        "word": "无限超越班",
+        "onboard_time": 1671885573,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 424607,
+        "num": 378395,
+        "word": "金道英宁艺卓歌谣大战合作舞台",
+        "onboard_time": 1671884073,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 376395,
+        "num": 376395,
+        "word": "女子给邻居赠药因头晕延误被踹门辱骂",
+        "onboard_time": 1671863906,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 374942,
+        "num": 374942,
+        "word": "陈佑希被送进精神病院",
+        "onboard_time": 1671881372,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 356900,
+        "num": 356900,
+        "word": "新疆伊宁发生井下坍塌事故18人被困",
+        "onboard_time": 1671884852,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 337896,
+        "num": 337896,
+        "word": "男子第一次带女朋友回家被围观",
+        "onboard_time": 1671879453,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322334,
+        "num": 322334,
+        "word": "英语二答案",
+        "onboard_time": 1671874354,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 309779,
+        "num": 309779,
+        "word": "圆通延误致1400元药损坏只赔10元",
+        "onboard_time": 1671873995,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303579,
+        "num": 303579,
+        "word": "蔚来",
+        "onboard_time": 1671885452,
+        "rank": 28,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 295884,
+        "num": 295884,
+        "word": "香港与内地争取明年1月中前通关",
+        "onboard_time": 1671874834,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 370703,
+        "num": 294652,
+        "word": "回来的女儿",
+        "onboard_time": 1671885635,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 361095,
+        "num": 294174,
+        "word": "林俊杰直播",
+        "onboard_time": 1671885394,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 308827,
+        "num": 294130,
+        "word": "宮脇咲良SBS歌谣大战直拍",
+        "onboard_time": 1671885035,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 292959,
+        "num": 292959,
+        "word": "考研英语一答案",
+        "onboard_time": 1671876754,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 291669,
+        "num": 291669,
+        "word": "对新冠过敏是什么体验",
+        "onboard_time": 1671882695,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291179,
+        "num": 291179,
+        "word": "梅婷回复刘琳美甲只美绿指甲",
+        "onboard_time": 1671870808,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 264175,
+        "num": 264175,
+        "word": "eStar对战狼队",
+        "onboard_time": 1671879033,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 255496,
+        "num": 255496,
+        "word": "圣诞树",
+        "onboard_time": 1671879931,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 227434,
+        "num": 227434,
+        "word": "美国数千名囚犯被当成医学实验对象",
+        "onboard_time": 1671874234,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219366,
+        "num": 219366,
+        "word": "黄牛在医院门前倒卖布洛芬1瓶3000元",
+        "onboard_time": 1671870328,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267133,
+        "num": 218177,
+        "word": "唐嫣cos佟湘玉",
+        "onboard_time": 1671872912,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245373,
+        "num": 208367,
+        "word": "SBS直播",
+        "onboard_time": 1671878671,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 198381,
+        "num": 198381,
+        "word": "县委书记倒卖防疫物资出镜忏悔",
+        "onboard_time": 1671870446,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190661,
+        "num": 190661,
+        "word": "考研第一晚如何调整状态",
+        "onboard_time": 1671880832,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 181407,
+        "num": 181407,
+        "word": "英语二 威廉",
+        "onboard_time": 1671874474,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 175416,
+        "num": 175416,
+        "word": "妈妈给姐弟俩分零食橘子都要掰开",
+        "onboard_time": 1671880173,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172008,
+        "num": 172008,
+        "word": "刚出生的宝宝不慎发烧浑身通红",
+        "onboard_time": 1671885332,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170984,
+        "num": 170984,
+        "word": "广东省运会假球事件16人被处理",
+        "onboard_time": 1671885933,
+        "rank": 47,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 158312,
+        "num": 158312,
+        "word": "买到新出厂黄桃罐头桃硬没泡入味",
+        "onboard_time": 1671886055,
+        "rank": 48,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 149320,
+        "num": 149320,
+        "word": "父母阳了戴装备和女儿同桌打麻将",
+        "onboard_time": 1671874653,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#新时代新征程新伟业#"
+    }
+  }
+}
