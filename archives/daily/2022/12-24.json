@@ -1,6 +1,6 @@
 {
   "startTime": 1671812678291,
-  "endTime": 1671881604699,
+  "endTime": 1671885083822,
   "band_list": [
     {
       "raw_hot": 5095182,
@@ -83,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1853176,
+      "num": 1853176,
+      "word": "2岁男童尿道下裂被父母误当女孩养",
+      "onboard_time": 1671881372,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1815979,
       "num": 1815979,
       "word": "考研英语70分意味着什么",
@@ -123,6 +131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1289452,
+      "num": 1289452,
+      "word": "点外卖备注阳了收到4粒退烧药",
+      "onboard_time": 1671882096,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1240030,
       "num": 1240030,
       "word": "16岁男生遭学生会体罚后从4楼跳下",
@@ -145,6 +161,14 @@
       "onboard_time": 1671859171,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1192930,
+      "num": 1192930,
+      "word": "袁娅维道歉",
+      "onboard_time": 1671884073,
+      "rank": 5,
+      "category": "音乐"
     },
     {
       "raw_hot": 1145487,
@@ -243,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 958697,
+      "num": 958697,
+      "word": "年轻博士居家隔离时高烧昏厥去世",
+      "onboard_time": 1671878671,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 949714,
       "num": 949714,
       "word": "好丽友回应关闭天猫旗舰店",
@@ -272,14 +304,6 @@
       "word": "著名药学家蒋华良逝世终年57岁",
       "onboard_time": 1671847827,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 879249,
-      "num": 879249,
-      "word": "年轻博士居家隔离时高烧昏厥去世",
-      "onboard_time": 1671878671,
-      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -395,6 +419,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 691111,
+      "num": 653032,
+      "word": "王鹤棣九尾直播",
+      "onboard_time": 1671882933,
+      "rank": 10,
+      "category": "游戏,艺人"
+    },
+    {
       "raw_hot": 688906,
       "num": 688906,
       "word": "怎样评价今年考研英语",
@@ -473,6 +505,14 @@
       "onboard_time": 1671874354,
       "rank": 26,
       "category": "教育"
+    },
+    {
+      "raw_hot": 595512,
+      "num": 595512,
+      "word": "狼队 状态",
+      "onboard_time": 1671882873,
+      "rank": 13,
+      "category": "游戏"
     },
     {
       "raw_hot": 590462,
@@ -595,12 +635,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 469791,
+      "num": 469791,
+      "word": "18岁女生因焦虑2个月减25斤成95斤",
+      "onboard_time": 1671883293,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 468630,
       "num": 468630,
       "word": "秦岚现身2023年央视春晚彩排",
       "onboard_time": 1671862527,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 453480,
+      "num": 453480,
+      "word": "男子第一次带女朋友回家被围观",
+      "onboard_time": 1671879453,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 448226,
@@ -633,6 +689,14 @@
       "onboard_time": 1671863368,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 439480,
+      "num": 439480,
+      "word": "金道英宁艺卓歌谣大战合作舞台",
+      "onboard_time": 1671884073,
+      "rank": 17,
+      "category": "音乐"
     },
     {
       "raw_hot": 437305,
@@ -699,6 +763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 424553,
+      "num": 400292,
+      "word": "陈佑希被送进精神病院",
+      "onboard_time": 1671881372,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 420104,
       "num": 420104,
       "word": "阴了身体就痊愈了吗",
@@ -715,12 +787,36 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 401870,
+      "num": 401870,
+      "word": "eStar对战狼队",
+      "onboard_time": 1671879033,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 384645,
+      "num": 384645,
+      "word": "hot 歌谣大战",
+      "onboard_time": 1671884674,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 384124,
       "num": 384124,
       "word": "张俪白色抹胸高开叉长裙",
       "onboard_time": 1671879272,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 381563,
+      "num": 381563,
+      "word": "研究生考试弃考不应该被看不起",
+      "onboard_time": 1671884253,
+      "rank": 23,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 380816,
@@ -737,6 +833,14 @@
       "onboard_time": 1671848666,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 366613,
+      "num": 366613,
+      "word": "圣诞树",
+      "onboard_time": 1671879931,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 364756,
@@ -835,14 +939,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 329435,
-      "num": 329435,
-      "word": "圣诞树",
-      "onboard_time": 1671879931,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
       "raw_hot": 326731,
       "num": 326731,
       "word": "著名粤语相声大师杨达辞世",
@@ -915,14 +1011,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 303840,
-      "num": 303840,
-      "word": "eStar对战狼队",
-      "onboard_time": 1671879033,
-      "rank": 28,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 301303,
       "num": 301303,
       "word": "阳了之后你会失眠吗",
@@ -971,6 +1059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 288668,
+      "num": 288668,
+      "word": "社区回应下意识逃走的卖橘男称没低保一事",
+      "onboard_time": 1671882573,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 284840,
       "num": 284840,
       "word": "Smtown官方宣传张艺兴新歌",
@@ -979,11 +1075,11 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 278287,
-      "num": 278287,
-      "word": "男子第一次带女朋友回家被围观",
-      "onboard_time": 1671879453,
-      "rank": 38,
+      "raw_hot": 280365,
+      "num": 280365,
+      "word": "对新冠过敏是什么体验",
+      "onboard_time": 1671882695,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -1059,14 +1155,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 262437,
-      "num": 262437,
-      "word": "陈佑希被送进精神病院",
-      "onboard_time": 1671881372,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 258450,
       "num": 258450,
       "word": "东北一小伙靠一条视频赚了100万",
@@ -1113,6 +1201,14 @@
       "onboard_time": 1671851188,
       "rank": 46,
       "category": "教育,社会议题"
+    },
+    {
+      "raw_hot": 247695,
+      "num": 247695,
+      "word": "考研第一晚如何调整状态",
+      "onboard_time": 1671880832,
+      "rank": 46,
+      "category": "教育"
     },
     {
       "raw_hot": 245753,
@@ -1171,6 +1267,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 231213,
+      "num": 231213,
+      "word": "薛之谦海口演唱会",
+      "onboard_time": 1671870748,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 230661,
       "num": 230661,
       "word": "上海优化调整阳性感染者解除居家隔离标准",
@@ -1209,6 +1313,14 @@
       "onboard_time": 1671789270,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 223177,
+      "num": 223177,
+      "word": "宮脇咲良SBS歌谣大战直拍",
+      "onboard_time": 1671885035,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 221194,
@@ -1467,6 +1579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 175885,
+      "num": 175885,
+      "word": "新疆伊宁发生井下坍塌事故18人被困",
+      "onboard_time": 1671884852,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173934,
       "num": 173934,
       "word": "吃维生素C可防治新冠吗",
@@ -1531,14 +1651,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 166087,
-      "num": 166087,
-      "word": "2岁男童尿道下裂被父母误当女孩养",
-      "onboard_time": 1671881372,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 164864,
       "num": 164864,
       "word": "王凯谭松韵向风而行定档1226",
@@ -1553,14 +1665,6 @@
       "onboard_time": 1671857190,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 160350,
-      "num": 160350,
-      "word": "考研第一晚如何调整状态",
-      "onboard_time": 1671880832,
-      "rank": 46,
-      "category": "教育"
     },
     {
       "raw_hot": 158590,
@@ -1633,14 +1737,6 @@
       "onboard_time": 1671862468,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 153802,
-      "num": 153802,
-      "word": "薛之谦海口演唱会",
-      "onboard_time": 1671870748,
-      "rank": 37,
-      "category": "音乐"
     },
     {
       "raw_hot": 153742,
@@ -1779,12 +1875,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 142592,
+      "num": 142592,
+      "word": "樊振东孙颖莎送圣诞祝福",
+      "onboard_time": 1671884972,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141898,
       "num": 125743,
       "word": "回来的女儿",
       "onboard_time": 1671800729,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 140281,
+      "num": 140281,
+      "word": "张厚粲",
+      "onboard_time": 1671881913,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 139548,
