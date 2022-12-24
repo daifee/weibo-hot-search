@@ -1,6 +1,6 @@
 {
   "startTime": 1671812678291,
-  "endTime": 1671880437558,
+  "endTime": 1671881604699,
   "band_list": [
     {
       "raw_hot": 5095182,
@@ -67,8 +67,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 1999164,
-      "num": 1999164,
+      "raw_hot": 2191278,
+      "num": 2191278,
       "word": "康复后二次感染比例有多高",
       "onboard_time": 1671872431,
       "rank": 24,
@@ -275,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 879249,
+      "num": 879249,
+      "word": "年轻博士居家隔离时高烧昏厥去世",
+      "onboard_time": 1671878671,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 873881,
       "num": 873881,
       "word": "黄牛在医院门前倒卖布洛芬1瓶3000元",
@@ -387,12 +395,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 699583,
-      "num": 699583,
-      "word": "年轻博士居家隔离时高烧昏厥去世",
+      "raw_hot": 688906,
+      "num": 688906,
+      "word": "怎样评价今年考研英语",
       "onboard_time": 1671878671,
-      "rank": 12,
-      "category": "社会新闻"
+      "rank": 14,
+      "category": "教育"
     },
     {
       "raw_hot": 676581,
@@ -555,14 +563,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 486061,
-      "num": 486061,
-      "word": "怎样评价今年考研英语",
-      "onboard_time": 1671878671,
-      "rank": 14,
-      "category": "教育"
-    },
-    {
       "raw_hot": 483209,
       "num": 483209,
       "word": "89岁游本昌台词感染力",
@@ -707,6 +707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 407067,
+      "num": 407067,
+      "word": "SBS直播",
+      "onboard_time": 1671878671,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 384124,
       "num": 384124,
       "word": "张俪白色抹胸高开叉长裙",
@@ -739,12 +747,12 @@
       "category": "音乐,时尚"
     },
     {
-      "raw_hot": 356007,
-      "num": 343739,
-      "word": "SBS直播",
-      "onboard_time": 1671878671,
-      "rank": 23,
-      "category": "音乐"
+      "raw_hot": 350438,
+      "num": 350438,
+      "word": "前有张东升爬山后有李承天钓鱼",
+      "onboard_time": 1671878972,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 345004,
@@ -827,6 +835,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 329435,
+      "num": 329435,
+      "word": "圣诞树",
+      "onboard_time": 1671879931,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 326731,
       "num": 326731,
       "word": "著名粤语相声大师杨达辞世",
@@ -875,20 +891,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 310762,
-      "num": 310762,
-      "word": "前有张东升爬山后有李承天钓鱼",
-      "onboard_time": 1671878972,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
       "raw_hot": 307461,
       "num": 307461,
       "word": "专家说防疫VC补充是关键",
       "onboard_time": 1671864505,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 304188,
+      "num": 304188,
+      "word": "张元英小香风造型",
+      "onboard_time": 1671880231,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 303958,
@@ -939,6 +955,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 290907,
+      "num": 303061,
+      "word": "哪些水果富含维生素C",
+      "onboard_time": 1671878671,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 290830,
       "num": 290830,
       "word": "退烧药一次能不能吃两粒",
@@ -953,6 +977,14 @@
       "onboard_time": 1671847107,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 278287,
+      "num": 278287,
+      "word": "男子第一次带女朋友回家被围观",
+      "onboard_time": 1671879453,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 275794,
@@ -976,6 +1008,22 @@
       "word": "家有老人面对新冠要知道的事",
       "onboard_time": 1671842843,
       "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 274103,
+      "num": 274103,
+      "word": "太上老君回仙界了",
+      "onboard_time": 1671880534,
+      "rank": 31,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 271945,
+      "num": 271945,
+      "word": "妈妈给姐弟俩分零食橘子都要掰开",
+      "onboard_time": 1671880173,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -1003,14 +1051,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 266626,
-      "num": 303061,
-      "word": "哪些水果富含维生素C",
-      "onboard_time": 1671878671,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 264195,
       "num": 264195,
       "word": "退役军人拆300瓶退烧药送7000人",
@@ -1019,20 +1059,20 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 262437,
+      "num": 262437,
+      "word": "陈佑希被送进精神病院",
+      "onboard_time": 1671881372,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 258450,
       "num": 258450,
       "word": "东北一小伙靠一条视频赚了100万",
       "onboard_time": 1671803552,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 257312,
-      "num": 257312,
-      "word": "张元英小香风造型",
-      "onboard_time": 1671880231,
-      "rank": 33,
-      "category": "音乐"
     },
     {
       "raw_hot": 256753,
@@ -1179,6 +1219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 219375,
+      "num": 189276,
+      "word": "杨超越版高粱模特队",
+      "onboard_time": 1671881551,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 217253,
       "num": 217253,
       "word": "范世琦说很高兴能有机会演绎使徒行者",
@@ -1241,14 +1289,6 @@
       "onboard_time": 1671876934,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 207137,
-      "num": 207137,
-      "word": "男子第一次带女朋友回家被围观",
-      "onboard_time": 1671879453,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 205642,
@@ -1321,14 +1361,6 @@
       "onboard_time": 1671873814,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 192958,
-      "num": 192958,
-      "word": "圣诞树",
-      "onboard_time": 1671879931,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 191494,
@@ -1499,6 +1531,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 166087,
+      "num": 166087,
+      "word": "2岁男童尿道下裂被父母误当女孩养",
+      "onboard_time": 1671881372,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 164864,
       "num": 164864,
       "word": "王凯谭松韵向风而行定档1226",
@@ -1513,6 +1553,14 @@
       "onboard_time": 1671857190,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 160350,
+      "num": 160350,
+      "word": "考研第一晚如何调整状态",
+      "onboard_time": 1671880832,
+      "rank": 46,
+      "category": "教育"
     },
     {
       "raw_hot": 158590,
@@ -1632,14 +1680,6 @@
       "word": "妈妈阳性宝宝生下来就发烧",
       "onboard_time": 1671786447,
       "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 150125,
-      "num": 150125,
-      "word": "妈妈给姐弟俩分零食橘子都要掰开",
-      "onboard_time": 1671880173,
-      "rank": 49,
       "category": "社会新闻"
     },
     {

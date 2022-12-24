@@ -1,0 +1,410 @@
+{
+  "runTime": 1671881604699,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2727307,
+        "num": 2727307,
+        "word": "不懂内娱到底在高贵什么",
+        "onboard_time": 1671873094,
+        "rank": 0,
+        "category": "综艺,幽默"
+      },
+      {
+        "raw_hot": 2191278,
+        "num": 2191278,
+        "word": "康复后二次感染比例有多高",
+        "onboard_time": 1671872431,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123505,
+        "num": 1902285,
+        "word": "元旦春节返乡如何防护",
+        "onboard_time": 1671862468,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1717789,
+        "num": 1717789,
+        "word": "英语一 难",
+        "onboard_time": 1671873094,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1273310,
+        "num": 1273310,
+        "word": "春晚",
+        "onboard_time": 1671868407,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 943027,
+        "num": 943027,
+        "word": "英语二",
+        "onboard_time": 1671873094,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 894757,
+        "num": 894757,
+        "word": "圆通延误致1400元药损坏只赔10元",
+        "onboard_time": 1671873995,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 879249,
+        "num": 879249,
+        "word": "年轻博士居家隔离时高烧昏厥去世",
+        "onboard_time": 1671878671,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 699421,
+        "num": 699421,
+        "word": "平安夜",
+        "onboard_time": 1671876211,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 688906,
+        "num": 688906,
+        "word": "怎样评价今年考研英语",
+        "onboard_time": 1671878671,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 983198,
+        "num": 688863,
+        "word": "车银优 帅",
+        "onboard_time": 1671878133,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 760627,
+        "num": 688664,
+        "word": "女子给邻居赠药因头晕延误被踹门辱骂",
+        "onboard_time": 1671863906,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 687893,
+        "num": 687893,
+        "word": "英语二 威廉",
+        "onboard_time": 1671874474,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 685945,
+        "num": 685945,
+        "word": "香港与内地争取明年1月中前通关",
+        "onboard_time": 1671874834,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 525801,
+        "num": 525801,
+        "word": "英语二答案",
+        "onboard_time": 1671874354,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 414202,
+        "num": 414202,
+        "word": "美国数千名囚犯被当成医学实验对象",
+        "onboard_time": 1671874234,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 407067,
+        "num": 407067,
+        "word": "SBS直播",
+        "onboard_time": 1671878671,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 386740,
+        "num": 386740,
+        "word": "考研英语一答案",
+        "onboard_time": 1671876754,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 350438,
+        "num": 350438,
+        "word": "前有张东升爬山后有李承天钓鱼",
+        "onboard_time": 1671878972,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 343794,
+        "num": 343794,
+        "word": "唐嫣cos佟湘玉",
+        "onboard_time": 1671872912,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 341660,
+        "num": 341660,
+        "word": "父母阳了戴装备和女儿同桌打麻将",
+        "onboard_time": 1671874653,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339208,
+        "num": 339208,
+        "word": "张俪白色抹胸高开叉长裙",
+        "onboard_time": 1671879272,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 336169,
+        "num": 336169,
+        "word": "SBS歌谣大战",
+        "onboard_time": 1671859290,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 329435,
+        "num": 329435,
+        "word": "圣诞树",
+        "onboard_time": 1671879931,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 309540,
+        "num": 309540,
+        "word": "黄牛在医院门前倒卖布洛芬1瓶3000元",
+        "onboard_time": 1671870328,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308470,
+        "num": 308470,
+        "word": "县委书记倒卖防疫物资出镜忏悔",
+        "onboard_time": 1671870446,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304188,
+        "num": 304188,
+        "word": "张元英小香风造型",
+        "onboard_time": 1671880231,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 290907,
+        "num": 290907,
+        "word": "哪些水果富含维生素C",
+        "onboard_time": 1671878671,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278287,
+        "num": 278287,
+        "word": "男子第一次带女朋友回家被围观",
+        "onboard_time": 1671879453,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276180,
+        "num": 276180,
+        "word": "考研英语答案",
+        "onboard_time": 1671873514,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 297011,
+        "num": 275711,
+        "word": "梅婷回复刘琳美甲只美绿指甲",
+        "onboard_time": 1671870808,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 274103,
+        "num": 274103,
+        "word": "太上老君回仙界了",
+        "onboard_time": 1671880534,
+        "rank": 31,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 271945,
+        "num": 271945,
+        "word": "妈妈给姐弟俩分零食橘子都要掰开",
+        "onboard_time": 1671880173,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262437,
+        "num": 262437,
+        "word": "陈佑希被送进精神病院",
+        "onboard_time": 1671881372,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 256495,
+        "num": 256495,
+        "word": "考研英语70分意味着什么",
+        "onboard_time": 1671867868,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 261526,
+        "num": 250975,
+        "word": "蔡根花宝贝好吓人",
+        "onboard_time": 1671871168,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 222763,
+        "num": 222763,
+        "word": "今年考研人数比去年多17万",
+        "onboard_time": 1671862226,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 222121,
+        "num": 222121,
+        "word": "阴了身体就痊愈了吗",
+        "onboard_time": 1671863729,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205849,
+        "num": 205849,
+        "word": "新冠咳嗽不止痰中带血怎么办",
+        "onboard_time": 1671859108,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196534,
+        "num": 196534,
+        "word": "eStar对战狼队",
+        "onboard_time": 1671879033,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 247149,
+        "num": 193776,
+        "word": "ive红毯",
+        "onboard_time": 1671877351,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 250068,
+        "num": 192908,
+        "word": "肖战如梦之梦请工作人员吃冰淇淋蛋糕",
+        "onboard_time": 1671878072,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 219375,
+        "num": 189276,
+        "word": "杨超越版高粱模特队",
+        "onboard_time": 1671881551,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 183132,
+        "num": 183132,
+        "word": "好丽友回应关闭天猫旗舰店",
+        "onboard_time": 1671870029,
+        "rank": 43,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 170886,
+        "num": 170886,
+        "word": "梅西身价",
+        "onboard_time": 1671859171,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166087,
+        "num": 166087,
+        "word": "2岁男童尿道下裂被父母误当女孩养",
+        "onboard_time": 1671881372,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160350,
+        "num": 160350,
+        "word": "考研第一晚如何调整状态",
+        "onboard_time": 1671880832,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 154752,
+        "num": 154752,
+        "word": "感染后体内抗体能维持多久",
+        "onboard_time": 1671869787,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145072,
+        "num": 145072,
+        "word": "平安果",
+        "onboard_time": 1671879569,
+        "rank": 48,
+        "category": "情感,美食"
+      },
+      {
+        "raw_hot": 133190,
+        "num": 144995,
+        "word": "马哲理论是懂考研的",
+        "onboard_time": 1671874115,
+        "rank": 49,
+        "category": "教育,幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#纵览2022那些国之重器#"
+    }
+  }
+}
