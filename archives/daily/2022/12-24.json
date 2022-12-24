@@ -1,10 +1,10 @@
 {
   "startTime": 1671812678291,
-  "endTime": 1671844837684,
+  "endTime": 1671846378248,
   "band_list": [
     {
-      "raw_hot": 1541287,
-      "num": 1541287,
+      "raw_hot": 1734823,
+      "num": 1734823,
       "word": "转阴后还需要一直戴口罩吗",
       "onboard_time": 1671839541,
       "rank": 0,
@@ -27,20 +27,36 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 687234,
-      "num": 687234,
+      "raw_hot": 856583,
+      "num": 856583,
       "word": "杨超越方向真猜中了彩票",
       "onboard_time": 1671841163,
       "rank": 3,
       "category": "影视"
     },
     {
-      "raw_hot": 633376,
-      "num": 633376,
+      "raw_hot": 733961,
+      "num": 733961,
+      "word": "太原120一天被呼叫4800次",
+      "onboard_time": 1671844048,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 634213,
+      "num": 634213,
       "word": "医院准备好迎接疫情冲击了吗",
       "onboard_time": 1671840381,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 528198,
+      "num": 528198,
+      "word": "阳之前与阳之后的你对比",
+      "onboard_time": 1671842486,
+      "rank": 10,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 482366,
@@ -59,6 +75,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 461048,
+      "num": 461048,
+      "word": "观众朋友们 我想死你们了",
+      "onboard_time": 1671803668,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 459722,
+      "num": 459722,
+      "word": "王诠胜",
+      "onboard_time": 1671845004,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 448226,
+      "num": 433256,
+      "word": "肖战如梦之梦央华官方后台直播",
+      "onboard_time": 1671844107,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 437305,
       "num": 437305,
       "word": "梅婷演技 绝",
@@ -73,14 +113,6 @@
       "onboard_time": 1671801511,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 432649,
-      "num": 432649,
-      "word": "观众朋友们 我想死你们了",
-      "onboard_time": 1671803668,
-      "rank": 14,
-      "category": "幽默"
     },
     {
       "raw_hot": 380816,
@@ -99,11 +131,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 341678,
-      "num": 341678,
-      "word": "肖战如梦之梦央华官方后台直播",
-      "onboard_time": 1671844107,
-      "rank": 9,
+      "raw_hot": 334356,
+      "num": 334356,
+      "word": "柯佳嬿演技",
+      "onboard_time": 1671841404,
+      "rank": 15,
       "category": "影视"
     },
     {
@@ -121,14 +153,6 @@
       "onboard_time": 1671806851,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 330869,
-      "num": 330869,
-      "word": "阳之前与阳之后的你对比",
-      "onboard_time": 1671842486,
-      "rank": 10,
-      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 322212,
@@ -179,6 +203,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 294369,
+      "num": 294369,
+      "word": "车主维权半年后故意推倒摩托老人被捕",
+      "onboard_time": 1671845307,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 290830,
       "num": 290830,
       "word": "退烧药一次能不能吃两粒",
@@ -219,14 +251,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 252273,
-      "num": 130165,
-      "word": "太原120一天被呼叫4800次",
-      "onboard_time": 1671844048,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 235048,
       "num": 235048,
       "word": "感冒和新冠会同时得吗",
@@ -257,14 +281,6 @@
       "onboard_time": 1671789270,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 217575,
-      "num": 217575,
-      "word": "柯佳嬿演技",
-      "onboard_time": 1671841404,
-      "rank": 15,
-      "category": "影视"
     },
     {
       "raw_hot": 212383,
@@ -411,6 +427,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 157499,
+      "num": 157499,
+      "word": "情绪价值在恋爱里有多重要",
+      "onboard_time": 1671841644,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 157084,
       "num": 127446,
       "word": "校服全智贤和Ditto的适配度",
@@ -420,7 +444,7 @@
     },
     {
       "raw_hot": 153742,
-      "num": 711633,
+      "num": 786414,
       "word": "老人出现这六种情况应及时就诊",
       "onboard_time": 1671798870,
       "rank": 2,
@@ -433,14 +457,6 @@
       "onboard_time": 1671786447,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 150507,
-      "num": 150507,
-      "word": "情绪价值在恋爱里有多重要",
-      "onboard_time": 1671841644,
-      "rank": 25,
-      "category": "情感"
     },
     {
       "raw_hot": 149483,
@@ -499,6 +515,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 141292,
+      "num": 131167,
+      "word": "时光音乐会下期有刘宪华",
+      "onboard_time": 1671844528,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 139548,
       "num": 111687,
       "word": "涉赌主播吸金1.2亿获刑6年",
@@ -513,6 +537,14 @@
       "onboard_time": 1671801690,
       "rank": 48,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 135134,
+      "num": 135134,
+      "word": "提高免疫力",
+      "onboard_time": 1671844707,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 128472,
@@ -563,20 +595,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 114409,
-      "num": 114409,
-      "word": "时光音乐会下期有刘宪华",
-      "onboard_time": 1671844528,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 110664,
       "num": 110664,
       "word": "制氧机多款产品被买光下架",
       "onboard_time": 1671843565,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 110383,
+      "num": 110383,
+      "word": "考研顺学业吉",
+      "onboard_time": 1671846147,
+      "rank": 38,
+      "category": "教育"
     },
     {
       "raw_hot": 108808,
@@ -595,19 +627,35 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 97988,
-      "num": 97988,
-      "word": "提高免疫力",
-      "onboard_time": 1671844707,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 95465,
       "num": 95465,
       "word": "转阴后要知道的10件事",
       "onboard_time": 1671798210,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 94116,
+      "num": 94116,
+      "word": "迪马利亚夺冠后决定不退役了",
+      "onboard_time": 1671846266,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 93248,
+      "num": 93248,
+      "word": "雄鹿vs篮网",
+      "onboard_time": 1671843925,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 91784,
+      "num": 91784,
+      "word": "公婆早起为上班儿媳铲过膝雪开路",
+      "onboard_time": 1671846206,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -617,14 +665,6 @@
       "onboard_time": 1671811405,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 90583,
-      "num": 90583,
-      "word": "雄鹿vs篮网",
-      "onboard_time": 1671843925,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 89278,
