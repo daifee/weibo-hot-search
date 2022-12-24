@@ -1,10 +1,10 @@
 {
   "startTime": 1671812678291,
-  "endTime": 1671855705251,
+  "endTime": 1671856607707,
   "band_list": [
     {
-      "raw_hot": 2963329,
-      "num": 2963329,
+      "raw_hot": 3021608,
+      "num": 3021608,
       "word": "考研政治",
       "onboard_time": 1671832511,
       "rank": 7,
@@ -51,6 +51,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1240030,
+      "num": 1240030,
+      "word": "16岁男生遭学生会体罚后从4楼跳下",
+      "onboard_time": 1671853049,
+      "rank": 6,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1145487,
       "num": 1145487,
       "word": "考研",
@@ -59,12 +67,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 1025749,
-      "num": 1025749,
-      "word": "16岁男生遭学生会体罚后从4楼跳下",
-      "onboard_time": 1671853049,
-      "rank": 6,
-      "category": "社会负面"
+      "raw_hot": 1054691,
+      "num": 1054691,
+      "word": "考研政治答案",
+      "onboard_time": 1671854672,
+      "rank": 9,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 1021180,
+      "num": 1021180,
+      "word": "恋爱1个月女友瘫痪男友照顾她30年",
+      "onboard_time": 1671852632,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1006149,
@@ -83,14 +99,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 943594,
-      "num": 943594,
-      "word": "考研政治答案",
-      "onboard_time": 1671854672,
-      "rank": 9,
-      "category": "教育"
-    },
-    {
       "raw_hot": 900759,
       "num": 900759,
       "word": "青岛目前每日新增感染50万人左右",
@@ -104,14 +112,6 @@
       "word": "著名药学家蒋华良逝世终年57岁",
       "onboard_time": 1671847827,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 865503,
-      "num": 865503,
-      "word": "恋爱1个月女友瘫痪男友照顾她30年",
-      "onboard_time": 1671852632,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -172,7 +172,7 @@
     },
     {
       "raw_hot": 631076,
-      "num": 501581,
+      "num": 504917,
       "word": "27岁考研生为按时吃饭注册骑手接单",
       "onboard_time": 1671849747,
       "rank": 47,
@@ -185,6 +185,14 @@
       "onboard_time": 1671845004,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 576824,
+      "num": 576824,
+      "word": "哈兰德",
+      "onboard_time": 1671854191,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 566989,
@@ -203,14 +211,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 537299,
-      "num": 537299,
-      "word": "哈兰德",
-      "onboard_time": 1671854191,
-      "rank": 13,
-      "category": "体育"
-    },
-    {
       "raw_hot": 534089,
       "num": 534089,
       "word": "越前龙马",
@@ -225,6 +225,22 @@
       "onboard_time": 1671842486,
       "rank": 10,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 525599,
+      "num": 525599,
+      "word": "服用止咳糖浆半小时内不要喝水",
+      "onboard_time": 1671852149,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 522909,
+      "num": 522909,
+      "word": "考研英语",
+      "onboard_time": 1671854972,
+      "rank": 20,
+      "category": "教育"
     },
     {
       "raw_hot": 501018,
@@ -248,14 +264,6 @@
       "word": "武汉血库A型血o型血仅剩2天用量",
       "onboard_time": 1671836717,
       "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 470182,
-      "num": 470182,
-      "word": "服用止咳糖浆半小时内不要喝水",
-      "onboard_time": 1671852149,
-      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -297,14 +305,6 @@
       "onboard_time": 1671851010,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 404317,
-      "num": 404317,
-      "word": "考研英语",
-      "onboard_time": 1671854972,
-      "rank": 20,
-      "category": "教育"
     },
     {
       "raw_hot": 380816,
@@ -379,6 +379,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 315929,
+      "num": 315929,
+      "word": "徐涛",
+      "onboard_time": 1671856051,
+      "rank": 22,
+      "category": "教育"
+    },
+    {
       "raw_hot": 313015,
       "num": 313015,
       "word": "吴镇宇刘耀文对戏是真打",
@@ -392,6 +400,14 @@
       "word": "第一波北京阳康坐飞机都去哪儿了",
       "onboard_time": 1671791069,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 309432,
+      "num": 309432,
+      "word": "字节员工违规获取美国用户数据",
+      "onboard_time": 1671853769,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -427,14 +443,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 288208,
-      "num": 288208,
-      "word": "字节员工违规获取美国用户数据",
-      "onboard_time": 1671853769,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 284840,
       "num": 284840,
       "word": "Smtown官方宣传张艺兴新歌",
@@ -457,6 +465,14 @@
       "onboard_time": 1671851010,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 274588,
+      "num": 1880981,
+      "word": "家有老人面对新冠要知道的事",
+      "onboard_time": 1671842843,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 271660,
@@ -491,19 +507,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 248166,
+      "num": 248166,
+      "word": "如何看待考研人数增长放缓",
+      "onboard_time": 1671851188,
+      "rank": 46,
+      "category": "教育,社会议题"
+    },
+    {
       "raw_hot": 235048,
       "num": 235048,
       "word": "感冒和新冠会同时得吗",
       "onboard_time": 1671806370,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 234760,
-      "num": 1880981,
-      "word": "家有老人面对新冠要知道的事",
-      "onboard_time": 1671842843,
-      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -513,14 +529,6 @@
       "onboard_time": 1671846206,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 232283,
-      "num": 232283,
-      "word": "如何看待考研人数增长放缓",
-      "onboard_time": 1671851188,
-      "rank": 46,
-      "category": "教育,社会议题"
     },
     {
       "raw_hot": 230661,
@@ -564,7 +572,7 @@
     },
     {
       "raw_hot": 215811,
-      "num": 196472,
+      "num": 205988,
       "word": "28岁的李子维和17岁的黄雨萱",
       "onboard_time": 1671851311,
       "rank": 40,
@@ -576,6 +584,14 @@
       "word": "新冠康复期要保持规律作息",
       "onboard_time": 1671849089,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 214418,
+      "num": 214418,
+      "word": "新冠康复后别着急做这些事",
+      "onboard_time": 1671854496,
+      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -651,6 +667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 191494,
+      "num": 191494,
+      "word": "少年歌行",
+      "onboard_time": 1671856112,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 191339,
       "num": 191339,
       "word": "贾樟柯",
@@ -707,6 +731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 177024,
+      "num": 177024,
+      "word": "许光汉说柯佳嬿有两座金钟奖",
+      "onboard_time": 1671855752,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 176539,
       "num": 169061,
       "word": "TraineeA确认出道组解散",
@@ -745,14 +777,6 @@
       "onboard_time": 1671810207,
       "rank": 25,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 167523,
-      "num": 167523,
-      "word": "新冠康复后别着急做这些事",
-      "onboard_time": 1671854496,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 167165,
@@ -985,6 +1009,14 @@
       "onboard_time": 1671849148,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 121118,
+      "num": 121118,
+      "word": "杭州一学校宣布暂停网课",
+      "onboard_time": 1671856532,
+      "rank": 49,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 120332,

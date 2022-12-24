@@ -1,0 +1,410 @@
+{
+  "runTime": 1671856607707,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3021608,
+        "num": 3021608,
+        "word": "考研政治",
+        "onboard_time": 1671852030,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 2358987,
+        "num": 2358987,
+        "word": "肖秀荣",
+        "onboard_time": 1671853534,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 274588,
+        "num": 1781905,
+        "word": "家有老人面对新冠要知道的事",
+        "onboard_time": 1671842843,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1403194,
+        "num": 1403194,
+        "word": "转阴后咳嗽要多久才能恢复",
+        "onboard_time": 1671848187,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1240030,
+        "num": 1240030,
+        "word": "16岁男生遭学生会体罚后从4楼跳下",
+        "onboard_time": 1671853049,
+        "rank": 4,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1205900,
+        "num": 1205900,
+        "word": "管综",
+        "onboard_time": 1671853351,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1054691,
+        "num": 1054691,
+        "word": "考研政治答案",
+        "onboard_time": 1671854672,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1021180,
+        "num": 1021180,
+        "word": "恋爱1个月女友瘫痪男友照顾她30年",
+        "onboard_time": 1671852632,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 870392,
+        "num": 870392,
+        "word": "班主任猥亵2女学生被判终身禁业",
+        "onboard_time": 1671851610,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 829781,
+        "num": 829781,
+        "word": "姆巴佩身价1.8亿欧全球第1",
+        "onboard_time": 1671849387,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 785271,
+        "num": 785271,
+        "word": "考研",
+        "onboard_time": 1671837376,
+        "rank": 10,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 611563,
+        "num": 611563,
+        "word": "王鹤棣把和小兰花灵魂互换猜成了亲亲",
+        "onboard_time": 1671850768,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 576824,
+        "num": 576824,
+        "word": "哈兰德",
+        "onboard_time": 1671854191,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 533515,
+        "num": 533515,
+        "word": "女子网购25个N95口罩变眼罩",
+        "onboard_time": 1671849988,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 525599,
+        "num": 525599,
+        "word": "服用止咳糖浆半小时内不要喝水",
+        "onboard_time": 1671852149,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 522909,
+        "num": 522909,
+        "word": "考研英语",
+        "onboard_time": 1671854972,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 504917,
+        "num": 504917,
+        "word": "27岁考研生为按时吃饭注册骑手接单",
+        "onboard_time": 1671849747,
+        "rank": 16,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 475180,
+        "num": 475180,
+        "word": "越前龙马",
+        "onboard_time": 1671850530,
+        "rank": 17,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 447035,
+        "num": 447035,
+        "word": "杨超越方向真猜中了彩票",
+        "onboard_time": 1671841163,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 442761,
+        "num": 442761,
+        "word": "著名药学家蒋华良逝世终年57岁",
+        "onboard_time": 1671847827,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 417723,
+        "num": 417723,
+        "word": "2023考研报考人数474万",
+        "onboard_time": 1671846807,
+        "rank": 20,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 352601,
+        "num": 352601,
+        "word": "转阴后还需要一直戴口罩吗",
+        "onboard_time": 1671839541,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315929,
+        "num": 315929,
+        "word": "徐涛",
+        "onboard_time": 1671856051,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 309432,
+        "num": 309432,
+        "word": "字节员工违规获取美国用户数据",
+        "onboard_time": 1671853769,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293270,
+        "num": 293270,
+        "word": "新冠冲击波下的乡村",
+        "onboard_time": 1671846748,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265510,
+        "num": 265510,
+        "word": "迪马利亚夺冠后决定不退役了",
+        "onboard_time": 1671846266,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 262951,
+        "num": 262951,
+        "word": "佘诗曼说董佳尔淳回来了",
+        "onboard_time": 1671851010,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 257671,
+        "num": 257671,
+        "word": "观众朋友们 我想死你们了",
+        "onboard_time": 1671803668,
+        "rank": 27,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 248166,
+        "num": 248166,
+        "word": "如何看待考研人数增长放缓",
+        "onboard_time": 1671851188,
+        "rank": 28,
+        "category": "教育,社会议题"
+      },
+      {
+        "raw_hot": 227308,
+        "num": 227308,
+        "word": "想见你",
+        "onboard_time": 1671851010,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 214418,
+        "num": 214418,
+        "word": "新冠康复后别着急做这些事",
+        "onboard_time": 1671854496,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208448,
+        "num": 208448,
+        "word": "车主维权半年后故意推倒摩托老人被捕",
+        "onboard_time": 1671845307,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205988,
+        "num": 205988,
+        "word": "28岁的李子维和17岁的黄雨萱",
+        "onboard_time": 1671851311,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 191494,
+        "num": 191494,
+        "word": "少年歌行",
+        "onboard_time": 1671856112,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 184411,
+        "num": 184411,
+        "word": "太原120一天被呼叫4800次",
+        "onboard_time": 1671844048,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183917,
+        "num": 183917,
+        "word": "发烧时要少吃高蛋白食物",
+        "onboard_time": 1671805170,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181328,
+        "num": 181328,
+        "word": "Smtown官方宣传张艺兴新歌",
+        "onboard_time": 1671847107,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 177024,
+        "num": 177024,
+        "word": "许光汉说柯佳嬿有两座金钟奖",
+        "onboard_time": 1671855752,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 164958,
+        "num": 164958,
+        "word": "李宇春说听房猫的歌一下子共情了",
+        "onboard_time": 1671851069,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172813,
+        "num": 164830,
+        "word": "王诠胜",
+        "onboard_time": 1671845004,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 164356,
+        "num": 164356,
+        "word": "肖战如梦之梦央华官方后台直播",
+        "onboard_time": 1671844107,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 161590,
+        "num": 161590,
+        "word": "刘耀文无限超越班哭戏",
+        "onboard_time": 1671848666,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155659,
+        "num": 155659,
+        "word": "考研时间",
+        "onboard_time": 1671850649,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 155516,
+        "num": 155516,
+        "word": "你好星期六苍盐海三巨头今晚见",
+        "onboard_time": 1671854374,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154371,
+        "num": 154371,
+        "word": "王源黑胶唱片今日预售",
+        "onboard_time": 1671852089,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 147092,
+        "num": 147092,
+        "word": "高清镜头看布洛芬释放过程",
+        "onboard_time": 1671847107,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144847,
+        "num": 144847,
+        "word": "平安夜",
+        "onboard_time": 1671837737,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 144270,
+        "num": 144270,
+        "word": "阳之前与阳之后的你对比",
+        "onboard_time": 1671842486,
+        "rank": 47,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 131465,
+        "num": 131465,
+        "word": "新冠康复期要保持规律作息",
+        "onboard_time": 1671849089,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121118,
+        "num": 121118,
+        "word": "杭州一学校宣布暂停网课",
+        "onboard_time": 1671856532,
+        "rank": 49,
+        "category": "教育,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚持系统观念守正创新#"
+    }
+  }
+}
