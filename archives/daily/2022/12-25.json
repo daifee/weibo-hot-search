@@ -1,6 +1,6 @@
 {
   "startTime": 1671899049163,
-  "endTime": 1671917609023,
+  "endTime": 1671920177262,
   "band_list": [
     {
       "raw_hot": 2934630,
@@ -395,6 +395,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 96146,
+      "num": 96146,
+      "word": "专家分析北京目前感染率未到70%",
+      "onboard_time": 1671917831,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 93022,
       "num": 93022,
       "word": "车主路边掉头意外顺走3块腊肉",
@@ -443,6 +451,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 64255,
+      "num": 64255,
+      "word": "何凯文 英语",
+      "onboard_time": 1671919392,
+      "rank": 13,
+      "category": "教育"
+    },
+    {
       "raw_hot": 63376,
       "num": 850329,
       "word": "全球首架C919自12月26日起验证飞行",
@@ -467,6 +483,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 42711,
+      "num": 42711,
+      "word": "小学生喝个水舌头被卡进保温杯盖",
+      "onboard_time": 1671914713,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 40760,
       "num": 40760,
       "word": "Lia扶李彩领退场",
@@ -483,20 +507,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 26857,
-      "num": 26857,
-      "word": "小学生喝个水舌头被卡进保温杯盖",
-      "onboard_time": 1671914713,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 19207,
       "num": 19207,
       "word": "还魂",
       "onboard_time": 1671914111,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 15468,
+      "num": 15468,
+      "word": "2022贺岁档票房破10亿",
+      "onboard_time": 1671919453,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 14306,
+      "num": 14306,
+      "word": "军医一针止血挽救大动脉破裂战士",
+      "onboard_time": 1671920052,
+      "rank": 49,
+      "category": "社会新闻,军事"
     },
     {
       "raw_hot": 13158,
