@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1671909202261,
+  "endTime": 1671910388788,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -56408,6 +56408,14 @@
       "word": "OPPO发布第二颗自研芯片",
       "onboard_time": 1671015625,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 13158,
+      "num": 17517,
+      "word": "没有警察叔叔找不到的丢书学生",
+      "onboard_time": 1671910213,
+      "rank": 49,
       "category": "社会新闻"
     },
     {

@@ -1,6 +1,6 @@
 {
   "startTime": 1671380618877,
-  "endTime": 1671909202261,
+  "endTime": 1671910388788,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -15305,6 +15305,14 @@
       "onboard_time": 1671485292,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 13158,
+      "num": 17517,
+      "word": "没有警察叔叔找不到的丢书学生",
+      "onboard_time": 1671910213,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 12702,
