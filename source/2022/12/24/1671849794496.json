@@ -1,0 +1,410 @@
+{
+  "runTime": 1671849794496,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1467953,
+        "num": 1467953,
+        "word": "转阴后还需要一直戴口罩吗",
+        "onboard_time": 1671839541,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 907573,
+        "num": 907573,
+        "word": "转阴后咳嗽要多久才能恢复",
+        "onboard_time": 1671848187,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98992,
+        "num": 796462,
+        "word": "老人出现这六种情况应及时就诊",
+        "onboard_time": 1671798870,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 743257,
+        "num": 743257,
+        "word": "迪马利亚夺冠后决定不退役了",
+        "onboard_time": 1671846266,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 725367,
+        "num": 725367,
+        "word": "杨超越方向真猜中了彩票",
+        "onboard_time": 1671841163,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 651193,
+        "num": 651193,
+        "word": "太原120一天被呼叫4800次",
+        "onboard_time": 1671844048,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 639057,
+        "num": 639057,
+        "word": "车主维权半年后故意推倒摩托老人被捕",
+        "onboard_time": 1671845307,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 608089,
+        "num": 608089,
+        "word": "王诠胜",
+        "onboard_time": 1671845004,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 565574,
+        "num": 565574,
+        "word": "2023考研报考人数474万",
+        "onboard_time": 1671846807,
+        "rank": 8,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 478624,
+        "num": 478624,
+        "word": "高清镜头看布洛芬释放过程",
+        "onboard_time": 1671847107,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 875878,
+        "num": 476038,
+        "word": "著名药学家蒋华良逝世终年57岁",
+        "onboard_time": 1671847827,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 454617,
+        "num": 454617,
+        "word": "观众朋友们 我想死你们了",
+        "onboard_time": 1671803668,
+        "rank": 11,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 409574,
+        "num": 409574,
+        "word": "新冠冲击波下的乡村",
+        "onboard_time": 1671846748,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 406238,
+        "num": 406238,
+        "word": "发烧时要少吃高蛋白食物",
+        "onboard_time": 1671805170,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352431,
+        "num": 352431,
+        "word": "阳之前与阳之后的你对比",
+        "onboard_time": 1671842486,
+        "rank": 14,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 351881,
+        "num": 351881,
+        "word": "少年歌行定档1226",
+        "onboard_time": 1671847827,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 346229,
+        "num": 346229,
+        "word": "刘耀文无限超越班哭戏",
+        "onboard_time": 1671848666,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 297647,
+        "num": 297647,
+        "word": "武汉血库A型血o型血仅剩2天用量",
+        "onboard_time": 1671836717,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289171,
+        "num": 289171,
+        "word": "肖战如梦之梦央华官方后台直播",
+        "onboard_time": 1671844107,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 264195,
+        "num": 264195,
+        "word": "退役军人拆300瓶退烧药送7000人",
+        "onboard_time": 1671847527,
+        "rank": 19,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 283620,
+        "num": 261100,
+        "word": "Smtown官方宣传张艺兴新歌",
+        "onboard_time": 1671847107,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 253372,
+        "num": 253372,
+        "word": "医院准备好迎接疫情冲击了吗",
+        "onboard_time": 1671840381,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233951,
+        "num": 233951,
+        "word": "公婆早起为上班儿媳铲过膝雪开路",
+        "onboard_time": 1671846206,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233116,
+        "num": 233116,
+        "word": "狗狗的饭没有一口是白吃的",
+        "onboard_time": 1671846449,
+        "rank": 23,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 229960,
+        "num": 229960,
+        "word": "杨幂暖阳与风雪拍摄花絮视频",
+        "onboard_time": 1671849568,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 217774,
+        "num": 217774,
+        "word": "平安夜",
+        "onboard_time": 1671837737,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 217544,
+        "num": 217544,
+        "word": "梅婷演技 绝",
+        "onboard_time": 1671807148,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 210162,
+        "num": 210162,
+        "word": "护士高烧晕倒醒来担心无人上班",
+        "onboard_time": 1671847769,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204585,
+        "num": 204585,
+        "word": "如何判断肺功能下降",
+        "onboard_time": 1671836595,
+        "rank": 28,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 186969,
+        "num": 186969,
+        "word": "提高免疫力",
+        "onboard_time": 1671844707,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182293,
+        "num": 182293,
+        "word": "姆巴佩身价1.8亿欧全球第1",
+        "onboard_time": 1671849387,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178067,
+        "num": 178067,
+        "word": "学校回应疑教师上网课现不雅聊天",
+        "onboard_time": 1671815778,
+        "rank": 31,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 172700,
+        "num": 172700,
+        "word": "柯佳嬿演技",
+        "onboard_time": 1671841404,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 148833,
+        "num": 148833,
+        "word": "大学生兼职送外卖委屈向顾客哭诉",
+        "onboard_time": 1671848666,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145063,
+        "num": 145063,
+        "word": "张子枫新剧的演技",
+        "onboard_time": 1671839120,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 139578,
+        "num": 139578,
+        "word": "画家把张智霖画在卫生纸上",
+        "onboard_time": 1671809727,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137761,
+        "num": 137761,
+        "word": "按压2个穴位拯救水泥鼻",
+        "onboard_time": 1671849508,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134422,
+        "num": 134422,
+        "word": "6旬大爷花40年收藏670辆老爷车",
+        "onboard_time": 1671848666,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133547,
+        "num": 133547,
+        "word": "阳了之后要警惕这些误区",
+        "onboard_time": 1671839781,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133498,
+        "num": 133498,
+        "word": "考研",
+        "onboard_time": 1671837376,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 132203,
+        "num": 132203,
+        "word": "马图伊迪宣布退役",
+        "onboard_time": 1671847347,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132080,
+        "num": 132080,
+        "word": "时光音乐会下期有刘宪华",
+        "onboard_time": 1671844528,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130881,
+        "num": 130881,
+        "word": "新冠康复期要保持规律作息",
+        "onboard_time": 1671849089,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122662,
+        "num": 122662,
+        "word": "向风而行12月26日播出",
+        "onboard_time": 1671849148,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 111053,
+        "num": 111053,
+        "word": "诊所向居民免费发放退烧药",
+        "onboard_time": 1671848787,
+        "rank": 44,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 114013,
+        "num": 107145,
+        "word": "王凯谭松韵向风而行定档1226",
+        "onboard_time": 1671848248,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 103138,
+        "num": 103138,
+        "word": "鹤岗原市长梁成军被判死缓",
+        "onboard_time": 1671828191,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102514,
+        "num": 102514,
+        "word": "27岁考研生为按时吃饭注册骑手接单",
+        "onboard_time": 1671849747,
+        "rank": 47,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 102287,
+        "num": 102287,
+        "word": "6岁娃40度高烧流利背诵滕王阁序",
+        "onboard_time": 1671810446,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101300,
+        "num": 101300,
+        "word": "阳康后你有出游计划吗",
+        "onboard_time": 1671838759,
+        "rank": 49,
+        "category": "社会新闻,旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚持系统观念守正创新#"
+    }
+  }
+}
