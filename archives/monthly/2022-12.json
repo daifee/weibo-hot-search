@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1671900073513,
+  "endTime": 1671902100455,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -47691,6 +47691,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 136472,
+      "num": 136472,
+      "word": "MINJI歌谣大战怼脸镜头",
+      "onboard_time": 1671897206,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 136440,
       "num": 136440,
       "word": "70岁老人感染新冠后的治疗过程",
@@ -48929,6 +48937,14 @@
       "onboard_time": 1670419994,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 129476,
+      "num": 84704,
+      "word": "电影想见你为什么很动人",
+      "onboard_time": 1671900980,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 129464,
@@ -50633,6 +50649,14 @@
       "onboard_time": 1671442169,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 119871,
+      "num": 119871,
+      "word": "圣诞节把恋爱氛围拿捏了",
+      "onboard_time": 1671899122,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 119870,
@@ -53459,6 +53483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 99754,
+      "num": 99754,
+      "word": "疫情叠加返乡该怎么应对",
+      "onboard_time": 1671898104,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 99721,
       "num": 419656,
       "word": "原帅三分大赛冠军",
@@ -53657,14 +53689,6 @@
       "onboard_time": 1670140691,
       "rank": 44,
       "category": "美食,幽默"
-    },
-    {
-      "raw_hot": 97255,
-      "num": 97255,
-      "word": "疫情叠加返乡该怎么应对",
-      "onboard_time": 1671898104,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 97204,
@@ -55227,14 +55251,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 66933,
-      "num": 66933,
-      "word": "圣诞节把恋爱氛围拿捏了",
-      "onboard_time": 1671899122,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 66040,
       "num": 66040,
       "word": "英格兰vs法国首发",
@@ -55449,6 +55465,14 @@
       "onboard_time": 1671230475,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 60831,
+      "num": 60831,
+      "word": "已婚男伪造离婚证表白情人被判6月",
+      "onboard_time": 1671900320,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 60690,
@@ -56009,6 +56033,14 @@
       "onboard_time": 1671388522,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 36277,
+      "num": 49032,
+      "word": "护士接待患者嗓音沙哑令人心疼",
+      "onboard_time": 1671900681,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 35839,

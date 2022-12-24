@@ -1,6 +1,6 @@
 {
   "startTime": 1671380618877,
-  "endTime": 1671900073513,
+  "endTime": 1671902100455,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -12931,6 +12931,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 136472,
+      "num": 136472,
+      "word": "MINJI歌谣大战怼脸镜头",
+      "onboard_time": 1671897206,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 136419,
       "num": 136419,
       "word": "周杰伦演唱会",
@@ -13257,6 +13265,14 @@
       "onboard_time": 1671501689,
       "rank": 36,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 129476,
+      "num": 84704,
+      "word": "电影想见你为什么很动人",
+      "onboard_time": 1671900980,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 129398,
@@ -13705,6 +13721,14 @@
       "onboard_time": 1671442169,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 119871,
+      "num": 119871,
+      "word": "圣诞节把恋爱氛围拿捏了",
+      "onboard_time": 1671899122,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 119735,
@@ -14499,6 +14523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 99754,
+      "num": 99754,
+      "word": "疫情叠加返乡该怎么应对",
+      "onboard_time": 1671898104,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 99573,
       "num": 99573,
       "word": "黄仁俊直播状态",
@@ -14529,14 +14561,6 @@
       "onboard_time": 1671851909,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 97255,
-      "num": 97255,
-      "word": "疫情叠加返乡该怎么应对",
-      "onboard_time": 1671898104,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 96933,
@@ -14739,6 +14763,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 83308,
+      "num": 65826,
+      "word": "阿凡达",
+      "onboard_time": 1671897027,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 83232,
       "num": 83232,
       "word": "医院回应7旬医生打吊瓶给孩子扎针",
@@ -14891,14 +14923,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 66933,
-      "num": 66933,
-      "word": "圣诞节把恋爱氛围拿捏了",
-      "onboard_time": 1671899122,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 65359,
       "num": 84201,
       "word": "秋冬外套分享",
@@ -14953,6 +14977,14 @@
       "onboard_time": 1671382590,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 60831,
+      "num": 60831,
+      "word": "已婚男伪造离婚证表白情人被判6月",
+      "onboard_time": 1671900320,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 59885,
@@ -15113,6 +15145,14 @@
       "onboard_time": 1671388522,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 36277,
+      "num": 49032,
+      "word": "护士接待患者嗓音沙哑令人心疼",
+      "onboard_time": 1671900681,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 34239,
