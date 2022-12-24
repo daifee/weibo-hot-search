@@ -1,0 +1,410 @@
+{
+  "runTime": 1671852806342,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1950872,
+        "num": 1950872,
+        "word": "转阴后咳嗽要多久才能恢复",
+        "onboard_time": 1671848187,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1420097,
+        "num": 1420097,
+        "word": "姆巴佩身价1.8亿欧全球第1",
+        "onboard_time": 1671849387,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 873917,
+        "num": 873917,
+        "word": "考研",
+        "onboard_time": 1671837376,
+        "rank": 2,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 866969,
+        "num": 866969,
+        "word": "著名药学家蒋华良逝世终年57岁",
+        "onboard_time": 1671847827,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 808557,
+        "num": 808557,
+        "word": "女子网购25个N95口罩变眼罩",
+        "onboard_time": 1671849988,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 779101,
+        "num": 779101,
+        "word": "考研政治",
+        "onboard_time": 1671852030,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 625073,
+        "num": 625073,
+        "word": "转阴后还需要一直戴口罩吗",
+        "onboard_time": 1671839541,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 69631,
+        "num": 565692,
+        "word": "老人出现这六种情况应及时就诊",
+        "onboard_time": 1671798870,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 561640,
+        "num": 561640,
+        "word": "杨超越方向真猜中了彩票",
+        "onboard_time": 1671841163,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 521678,
+        "num": 521678,
+        "word": "新冠冲击波下的乡村",
+        "onboard_time": 1671846748,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 575979,
+        "num": 506554,
+        "word": "班主任猥亵2女学生被判终身禁业",
+        "onboard_time": 1671851610,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 489948,
+        "num": 489948,
+        "word": "越前龙马",
+        "onboard_time": 1671850530,
+        "rank": 11,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 480228,
+        "num": 480228,
+        "word": "迪马利亚夺冠后决定不退役了",
+        "onboard_time": 1671846266,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 452804,
+        "num": 452804,
+        "word": "2023考研报考人数474万",
+        "onboard_time": 1671846807,
+        "rank": 13,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 376492,
+        "num": 376492,
+        "word": "佘诗曼说董佳尔淳回来了",
+        "onboard_time": 1671851010,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 341771,
+        "num": 341771,
+        "word": "王鹤棣把和小兰花灵魂互换猜成了亲亲",
+        "onboard_time": 1671850768,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 335202,
+        "num": 335202,
+        "word": "王源黑胶唱片今日预售",
+        "onboard_time": 1671852089,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 332214,
+        "num": 332214,
+        "word": "车主维权半年后故意推倒摩托老人被捕",
+        "onboard_time": 1671845307,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321043,
+        "num": 321043,
+        "word": "观众朋友们 我想死你们了",
+        "onboard_time": 1671803668,
+        "rank": 18,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 303958,
+        "num": 303958,
+        "word": "李宇春说听房猫的歌一下子共情了",
+        "onboard_time": 1671851069,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 300449,
+        "num": 300449,
+        "word": "王诠胜",
+        "onboard_time": 1671845004,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 297129,
+        "num": 297129,
+        "word": "高清镜头看布洛芬释放过程",
+        "onboard_time": 1671847107,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264926,
+        "num": 264926,
+        "word": "想见你",
+        "onboard_time": 1671851010,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 264063,
+        "num": 264063,
+        "word": "发烧时要少吃高蛋白食物",
+        "onboard_time": 1671805170,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263102,
+        "num": 263102,
+        "word": "太原120一天被呼叫4800次",
+        "onboard_time": 1671844048,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258949,
+        "num": 258949,
+        "word": "Smtown官方宣传张艺兴新歌",
+        "onboard_time": 1671847107,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 217586,
+        "num": 217586,
+        "word": "武汉血库A型血o型血仅剩2天用量",
+        "onboard_time": 1671836717,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214997,
+        "num": 214997,
+        "word": "新冠康复期要保持规律作息",
+        "onboard_time": 1671849089,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202057,
+        "num": 202057,
+        "word": "护士高烧晕倒醒来担心无人上班",
+        "onboard_time": 1671847769,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198334,
+        "num": 198334,
+        "word": "狗狗的饭没有一口是白吃的",
+        "onboard_time": 1671846449,
+        "rank": 29,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 631076,
+        "num": 196634,
+        "word": "27岁考研生为按时吃饭注册骑手接单",
+        "onboard_time": 1671849747,
+        "rank": 30,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 231163,
+        "num": 196537,
+        "word": "刘耀文无限超越班哭戏",
+        "onboard_time": 1671848666,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215811,
+        "num": 196472,
+        "word": "28岁的李子维和17岁的黄雨萱",
+        "onboard_time": 1671851311,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 194859,
+        "num": 194859,
+        "word": "阳之前与阳之后的你对比",
+        "onboard_time": 1671842486,
+        "rank": 33,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 194191,
+        "num": 194191,
+        "word": "肖战如梦之梦央华官方后台直播",
+        "onboard_time": 1671844107,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 185470,
+        "num": 185470,
+        "word": "哈登21次助攻生涯新高",
+        "onboard_time": 1671850890,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184916,
+        "num": 184916,
+        "word": "梅婷演技 绝",
+        "onboard_time": 1671807148,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 171520,
+        "num": 171520,
+        "word": "平安夜",
+        "onboard_time": 1671837737,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 169901,
+        "num": 169901,
+        "word": "大学生兼职送外卖委屈向顾客哭诉",
+        "onboard_time": 1671848666,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164973,
+        "num": 164973,
+        "word": "退役军人拆300瓶退烧药送7000人",
+        "onboard_time": 1671847527,
+        "rank": 39,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 182652,
+        "num": 164835,
+        "word": "少年歌行定档1226",
+        "onboard_time": 1671847827,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 164520,
+        "num": 164520,
+        "word": "如何看待考研人数增长放缓",
+        "onboard_time": 1671851188,
+        "rank": 41,
+        "category": "教育,社会议题"
+      },
+      {
+        "raw_hot": 148150,
+        "num": 148150,
+        "word": "如何判断肺功能下降",
+        "onboard_time": 1671836595,
+        "rank": 42,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 146281,
+        "num": 146281,
+        "word": "服用止咳糖浆半小时内不要喝水",
+        "onboard_time": 1671852149,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140102,
+        "num": 140102,
+        "word": "画家把张智霖画在卫生纸上",
+        "onboard_time": 1671809727,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137985,
+        "num": 137985,
+        "word": "6旬大爷花40年收藏670辆老爷车",
+        "onboard_time": 1671848666,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131380,
+        "num": 131380,
+        "word": "公婆早起为上班儿媳铲过膝雪开路",
+        "onboard_time": 1671846206,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117779,
+        "num": 117779,
+        "word": "恋爱1个月女友瘫痪男友照顾她30年",
+        "onboard_time": 1671852632,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115852,
+        "num": 115852,
+        "word": "医院准备好迎接疫情冲击了吗",
+        "onboard_time": 1671840381,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112221,
+        "num": 112221,
+        "word": "志愿军老战士讲述血战长津湖真实场景",
+        "onboard_time": 1671852450,
+        "rank": 49,
+        "category": "军事,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚持系统观念守正创新#"
+    }
+  }
+}

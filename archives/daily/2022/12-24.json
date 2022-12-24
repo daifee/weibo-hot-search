@@ -1,10 +1,10 @@
 {
   "startTime": 1671812678291,
-  "endTime": 1671851952796,
+  "endTime": 1671852806342,
   "band_list": [
     {
-      "raw_hot": 1817699,
-      "num": 1817699,
+      "raw_hot": 1950872,
+      "num": 1950872,
       "word": "转阴后咳嗽要多久才能恢复",
       "onboard_time": 1671848187,
       "rank": 11,
@@ -19,8 +19,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1215806,
-      "num": 1215806,
+      "raw_hot": 1420097,
+      "num": 1420097,
       "word": "姆巴佩身价1.8亿欧全球第1",
       "onboard_time": 1671849387,
       "rank": 30,
@@ -51,12 +51,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 873917,
+      "num": 873917,
+      "word": "考研",
+      "onboard_time": 1671837376,
+      "rank": 6,
+      "category": "教育"
+    },
+    {
       "raw_hot": 856583,
       "num": 856583,
       "word": "杨超越方向真猜中了彩票",
       "onboard_time": 1671841163,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 808557,
+      "num": 808557,
+      "word": "女子网购25个N95口罩变眼罩",
+      "onboard_time": 1671849988,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 779101,
+      "num": 779101,
+      "word": "考研政治",
+      "onboard_time": 1671832511,
+      "rank": 7,
+      "category": "教育"
     },
     {
       "raw_hot": 772601,
@@ -91,12 +115,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 623578,
-      "num": 455162,
-      "word": "女子网购25个N95口罩变眼罩",
-      "onboard_time": 1671849988,
-      "rank": 10,
-      "category": "社会新闻"
+      "raw_hot": 631076,
+      "num": 207677,
+      "word": "27岁考研生为按时吃饭注册骑手接单",
+      "onboard_time": 1671849747,
+      "rank": 47,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 608089,
@@ -105,6 +129,14 @@
       "onboard_time": 1671845004,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 575979,
+      "num": 506554,
+      "word": "班主任猥亵2女学生被判终身禁业",
+      "onboard_time": 1671851610,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 566989,
@@ -121,14 +153,6 @@
       "onboard_time": 1671846748,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 541922,
-      "num": 207677,
-      "word": "27岁考研生为按时吃饭注册骑手接单",
-      "onboard_time": 1671849747,
-      "rank": 47,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 528198,
@@ -155,12 +179,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 482366,
-      "num": 482366,
-      "word": "考研",
-      "onboard_time": 1671837376,
-      "rank": 6,
-      "category": "教育"
+      "raw_hot": 489948,
+      "num": 489948,
+      "word": "越前龙马",
+      "onboard_time": 1671850530,
+      "rank": 13,
+      "category": "动漫"
     },
     {
       "raw_hot": 473515,
@@ -227,20 +251,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 367246,
-      "num": 367246,
-      "word": "越前龙马",
-      "onboard_time": 1671850530,
-      "rank": 13,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 345004,
       "num": 345004,
       "word": "6岁娃40度高烧流利背诵滕王阁序",
       "onboard_time": 1671810446,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 341771,
+      "num": 341771,
+      "word": "王鹤棣把和小兰花灵魂互换猜成了亲亲",
+      "onboard_time": 1671850768,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 335202,
+      "num": 335202,
+      "word": "王源黑胶唱片今日预售",
+      "onboard_time": 1671852089,
+      "rank": 16,
+      "category": "音乐"
     },
     {
       "raw_hot": 334356,
@@ -299,6 +331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 303958,
+      "num": 303958,
+      "word": "李宇春说听房猫的歌一下子共情了",
+      "onboard_time": 1671851069,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 301303,
       "num": 301303,
       "word": "阳了之后你会失眠吗",
@@ -313,14 +353,6 @@
       "onboard_time": 1671811283,
       "rank": 26,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 291710,
-      "num": 291710,
-      "word": "李宇春说听房猫的歌一下子共情了",
-      "onboard_time": 1671851069,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 290830,
@@ -379,28 +411,12 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 259654,
-      "num": 259654,
-      "word": "考研政治",
-      "onboard_time": 1671832511,
-      "rank": 7,
-      "category": "教育"
-    },
-    {
       "raw_hot": 258450,
       "num": 258450,
       "word": "东北一小伙靠一条视频赚了100万",
       "onboard_time": 1671803552,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 253397,
-      "num": 253397,
-      "word": "王鹤棣把和小兰花灵魂互换猜成了亲亲",
-      "onboard_time": 1671850768,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 235048,
@@ -456,6 +472,22 @@
       "word": "护士高烧晕倒醒来担心无人上班",
       "onboard_time": 1671847769,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 215811,
+      "num": 196472,
+      "word": "28岁的李子维和17岁的黄雨萱",
+      "onboard_time": 1671851311,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 214997,
+      "num": 214997,
+      "word": "新冠康复期要保持规律作息",
+      "onboard_time": 1671849089,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -531,14 +563,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 192788,
-      "num": 192788,
-      "word": "新冠康复期要保持规律作息",
-      "onboard_time": 1671849089,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 191339,
       "num": 191339,
       "word": "贾樟柯",
@@ -563,12 +587,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 188781,
-      "num": 154879,
-      "word": "28岁的李子维和17岁的黄雨萱",
-      "onboard_time": 1671851311,
-      "rank": 40,
-      "category": "影视"
+      "raw_hot": 185470,
+      "num": 185470,
+      "word": "哈登21次助攻生涯新高",
+      "onboard_time": 1671850890,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 183317,
@@ -643,12 +667,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 158603,
-      "num": 158603,
-      "word": "哈登21次助攻生涯新高",
-      "onboard_time": 1671850890,
-      "rank": 39,
-      "category": "体育"
+      "raw_hot": 164520,
+      "num": 164520,
+      "word": "如何看待考研人数增长放缓",
+      "onboard_time": 1671851188,
+      "rank": 46,
+      "category": "教育,社会议题"
     },
     {
       "raw_hot": 158590,
@@ -739,6 +763,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 146281,
+      "num": 146281,
+      "word": "服用止咳糖浆半小时内不要喝水",
+      "onboard_time": 1671852149,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145616,
       "num": 145616,
       "word": "马图伊迪宣布退役",
@@ -760,14 +792,6 @@
       "word": "不要听网上那帮人胡咧咧",
       "onboard_time": 1671795452,
       "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 143230,
-      "num": 143230,
-      "word": "班主任猥亵2女学生被判终身禁业",
-      "onboard_time": 1671851610,
-      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -801,14 +825,6 @@
       "onboard_time": 1671801690,
       "rank": 48,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 133907,
-      "num": 133907,
-      "word": "如何看待考研人数增长放缓",
-      "onboard_time": 1671851188,
-      "rank": 46,
-      "category": "教育,社会议题"
     },
     {
       "raw_hot": 128472,
@@ -867,12 +883,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 117779,
+      "num": 117779,
+      "word": "恋爱1个月女友瘫痪男友照顾她30年",
+      "onboard_time": 1671852632,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 112400,
       "num": 112400,
       "word": "诊所向居民免费发放退烧药",
       "onboard_time": 1671848787,
       "rank": 42,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 112221,
+      "num": 112221,
+      "word": "志愿军老战士讲述血战长津湖真实场景",
+      "onboard_time": 1671852450,
+      "rank": 49,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 111382,
