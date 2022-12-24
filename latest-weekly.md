@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/12/19 00:23:38 ~ 2022/12/25 05:14:51
+本榜单时间：2022/12/19 00:23:38 ~ 2022/12/25 05:33:29
 </p>
 </blockquote>
 <p>
@@ -11439,6 +11439,12 @@ vivoS16发布会（热度：31102）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A6%E7%94%9F%E5%96%9D%E4%B8%AA%E6%B0%B4%E8%88%8C%E5%A4%B4%E8%A2%AB%E5%8D%A1%E8%BF%9B%E4%BF%9D%E6%B8%A9%E6%9D%AF%E7%9B%96%23" target="weibo">
+小学生喝个水舌头被卡进保温杯盖（热度：26857）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%89%E5%AE%B3%E4%BA%86%E7%A7%A6%E5%8F%8B%E5%9B%A2%23" target="weibo">
 厉害了秦友团（热度：25397）
 </a>
@@ -11471,12 +11477,6 @@ vivoS16发布会（热度：31102）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E4%B9%9F%E6%B2%A1%E6%9C%89%E4%B8%80%E5%A4%B4%E7%BE%8A%E8%83%BD%E7%A6%BB%E5%BC%80%E6%88%90%E9%83%BD%23" target="weibo">
 原来也没有一头羊能离开成都（热度：17758）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A6%E7%94%9F%E5%96%9D%E4%B8%AA%E6%B0%B4%E8%88%8C%E5%A4%B4%E8%A2%AB%E5%8D%A1%E8%BF%9B%E4%BF%9D%E6%B8%A9%E6%9D%AF%E7%9B%96%23" target="weibo">
-小学生喝个水舌头被卡进保温杯盖（热度：17144）
 </a>
 </li>
 
