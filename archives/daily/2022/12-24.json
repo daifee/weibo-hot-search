@@ -1,6 +1,6 @@
 {
   "startTime": 1671812678291,
-  "endTime": 1671846378248,
+  "endTime": 1671849189700,
   "band_list": [
     {
       "raw_hot": 1734823,
@@ -35,11 +35,27 @@
       "category": "影视"
     },
     {
-      "raw_hot": 733961,
-      "num": 733961,
+      "raw_hot": 772601,
+      "num": 772601,
       "word": "太原120一天被呼叫4800次",
       "onboard_time": 1671844048,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 731343,
+      "num": 731343,
+      "word": "迪马利亚夺冠后决定不退役了",
+      "onboard_time": 1671846266,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 650256,
+      "num": 650256,
+      "word": "车主维权半年后故意推倒摩托老人被捕",
+      "onboard_time": 1671845307,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -51,12 +67,60 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 624915,
+      "num": 472565,
+      "word": "著名药学家蒋华良逝世终年57岁",
+      "onboard_time": 1671847827,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 600430,
+      "num": 600430,
+      "word": "王诠胜",
+      "onboard_time": 1671845004,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 566989,
+      "num": 566989,
+      "word": "2023考研报考人数474万",
+      "onboard_time": 1671846807,
+      "rank": 7,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 528198,
       "num": 528198,
       "word": "阳之前与阳之后的你对比",
       "onboard_time": 1671842486,
       "rank": 10,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 505052,
+      "num": 472116,
+      "word": "转阴后咳嗽要多久才能恢复",
+      "onboard_time": 1671848187,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 501018,
+      "num": 501018,
+      "word": "观众朋友们 我想死你们了",
+      "onboard_time": 1671803668,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 489981,
+      "num": 489981,
+      "word": "高清镜头看布洛芬释放过程",
+      "onboard_time": 1671847107,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 482366,
@@ -73,22 +137,6 @@
       "onboard_time": 1671836717,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 461048,
-      "num": 461048,
-      "word": "观众朋友们 我想死你们了",
-      "onboard_time": 1671803668,
-      "rank": 14,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 459722,
-      "num": 459722,
-      "word": "王诠胜",
-      "onboard_time": 1671845004,
-      "rank": 8,
-      "category": "影视"
     },
     {
       "raw_hot": 448226,
@@ -115,12 +163,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 428538,
+      "num": 428538,
+      "word": "少年歌行定档1226",
+      "onboard_time": 1671847827,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 391019,
+      "num": 391019,
+      "word": "新冠冲击波下的乡村",
+      "onboard_time": 1671846748,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 380816,
       "num": 380816,
       "word": "阳了之后要警惕这些误区",
       "onboard_time": 1671839781,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 373701,
+      "num": 373701,
+      "word": "刘耀文无限超越班哭戏",
+      "onboard_time": 1671848666,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 345004,
@@ -203,14 +275,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 294369,
-      "num": 294369,
-      "word": "车主维权半年后故意推倒摩托老人被捕",
-      "onboard_time": 1671845307,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 290830,
       "num": 290830,
       "word": "退烧药一次能不能吃两粒",
@@ -251,6 +315,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 242185,
+      "num": 242185,
+      "word": "退役军人拆300瓶退烧药送7000人",
+      "onboard_time": 1671847527,
+      "rank": 20,
+      "category": "社会正能量"
+    },
+    {
+      "raw_hot": 237120,
+      "num": 237120,
+      "word": "狗狗的饭没有一口是白吃的",
+      "onboard_time": 1671846449,
+      "rank": 21,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 235202,
+      "num": 235202,
+      "word": "Smtown官方宣传张艺兴新歌",
+      "onboard_time": 1671847107,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 235048,
       "num": 235048,
       "word": "感冒和新冠会同时得吗",
@@ -264,6 +352,14 @@
       "word": "上海优化调整阳性感染者解除居家隔离标准",
       "onboard_time": 1671802893,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 227375,
+      "num": 227375,
+      "word": "公婆早起为上班儿媳铲过膝雪开路",
+      "onboard_time": 1671846206,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -331,12 +427,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 199416,
+      "num": 199416,
+      "word": "6旬大爷花40年收藏670辆老爷车",
+      "onboard_time": 1671848666,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 191339,
       "num": 191339,
       "word": "贾樟柯",
       "onboard_time": 1671809606,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 190769,
+      "num": 190769,
+      "word": "提高免疫力",
+      "onboard_time": 1671844707,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 189973,
@@ -380,7 +492,7 @@
     },
     {
       "raw_hot": 173242,
-      "num": 128211,
+      "num": 151786,
       "word": "画家把张智霖画在卫生纸上",
       "onboard_time": 1671809727,
       "rank": 30,
@@ -409,6 +521,22 @@
       "onboard_time": 1671836595,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 164864,
+      "num": 164864,
+      "word": "王凯谭松韵向风而行定档1226",
+      "onboard_time": 1671848248,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 159740,
+      "num": 159740,
+      "word": "护士高烧晕倒醒来担心无人上班",
+      "onboard_time": 1671847769,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 158590,
@@ -444,7 +572,7 @@
     },
     {
       "raw_hot": 153742,
-      "num": 786414,
+      "num": 796359,
       "word": "老人出现这六种情况应及时就诊",
       "onboard_time": 1671798870,
       "rank": 2,
@@ -465,6 +593,14 @@
       "onboard_time": 1671803908,
       "rank": 27,
       "category": "教育"
+    },
+    {
+      "raw_hot": 149440,
+      "num": 149440,
+      "word": "时光音乐会下期有刘宪华",
+      "onboard_time": 1671844528,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 149433,
@@ -491,6 +627,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 145616,
+      "num": 145616,
+      "word": "马图伊迪宣布退役",
+      "onboard_time": 1671847347,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 144925,
       "num": 126133,
       "word": "男子卖橘子下意识反应令人心疼",
@@ -515,14 +659,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 141292,
-      "num": 131167,
-      "word": "时光音乐会下期有刘宪华",
-      "onboard_time": 1671844528,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 139548,
       "num": 111687,
       "word": "涉赌主播吸金1.2亿获刑6年",
@@ -537,14 +673,6 @@
       "onboard_time": 1671801690,
       "rank": 48,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 135134,
-      "num": 135134,
-      "word": "提高免疫力",
-      "onboard_time": 1671844707,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 128472,
@@ -595,6 +723,30 @@
       "category": "影视"
     },
     {
+      "raw_hot": 112400,
+      "num": 112400,
+      "word": "诊所向居民免费发放退烧药",
+      "onboard_time": 1671848787,
+      "rank": 42,
+      "category": "社会正能量"
+    },
+    {
+      "raw_hot": 111382,
+      "num": 111382,
+      "word": "崂山雪景太绝了",
+      "onboard_time": 1671847230,
+      "rank": 43,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 110887,
+      "num": 110887,
+      "word": "向风而行12月26日播出",
+      "onboard_time": 1671849148,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 110664,
       "num": 110664,
       "word": "制氧机多款产品被买光下架",
@@ -627,6 +779,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 105626,
+      "num": 105626,
+      "word": "大学生兼职送外卖委屈向顾客哭诉",
+      "onboard_time": 1671848666,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 103291,
+      "num": 103291,
+      "word": "新冠康复期要保持规律作息",
+      "onboard_time": 1671849089,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 95465,
       "num": 95465,
       "word": "转阴后要知道的10件事",
@@ -635,28 +803,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 94116,
-      "num": 94116,
-      "word": "迪马利亚夺冠后决定不退役了",
-      "onboard_time": 1671846266,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 93248,
       "num": 93248,
       "word": "雄鹿vs篮网",
       "onboard_time": 1671843925,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 91784,
-      "num": 91784,
-      "word": "公婆早起为上班儿媳铲过膝雪开路",
-      "onboard_time": 1671846206,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 91285,
