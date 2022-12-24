@@ -1,6 +1,6 @@
 {
   "startTime": 1671899049163,
-  "endTime": 1671914018884,
+  "endTime": 1671916491655,
   "band_list": [
     {
       "raw_hot": 2934630,
@@ -480,6 +480,22 @@
       "word": "护士接待患者嗓音沙哑令人心疼",
       "onboard_time": 1671900681,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 19207,
+      "num": 19207,
+      "word": "还魂",
+      "onboard_time": 1671914111,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 17144,
+      "num": 17144,
+      "word": "小学生喝个水舌头被卡进保温杯盖",
+      "onboard_time": 1671914713,
+      "rank": 39,
       "category": "社会新闻"
     },
     {

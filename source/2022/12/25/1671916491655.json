@@ -1,0 +1,410 @@
+{
+  "runTime": 1671916491655,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 399431,
+        "num": 399431,
+        "word": "肺炎",
+        "onboard_time": 1671891212,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147696,
+        "num": 147696,
+        "word": "康复后二次感染比例有多高",
+        "onboard_time": 1671872431,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14959,
+        "num": 117921,
+        "word": "全球首架C919自12月26日起验证飞行",
+        "onboard_time": 1671890373,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 89815,
+        "num": 89815,
+        "word": "小孩急需美林小姨缝衣服里寄出",
+        "onboard_time": 1671895289,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80767,
+        "num": 80767,
+        "word": "北京要求千方百计降低病亡率",
+        "onboard_time": 1671894632,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78823,
+        "num": 78823,
+        "word": "血氧饱和度是判断重症的重要依据",
+        "onboard_time": 1671895289,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76607,
+        "num": 76607,
+        "word": "尔冬升点评沈月演技",
+        "onboard_time": 1671896963,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 72338,
+        "num": 72338,
+        "word": "警方回应女子高烧连打三针后死亡",
+        "onboard_time": 1671886950,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63264,
+        "num": 63264,
+        "word": "不懂内娱到底在高贵什么",
+        "onboard_time": 1671873094,
+        "rank": 8,
+        "category": "综艺,幽默"
+      },
+      {
+        "raw_hot": 55464,
+        "num": 55464,
+        "word": "袁娅维道歉",
+        "onboard_time": 1671884073,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 85135,
+        "num": 55265,
+        "word": "两次感染新冠病毒的武汉医生发声",
+        "onboard_time": 1671892415,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53625,
+        "num": 53625,
+        "word": "市民购买退烧药后免费赠送被查",
+        "onboard_time": 1671904395,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48100,
+        "num": 48100,
+        "word": "2岁男童尿道下裂被父母误当女孩养",
+        "onboard_time": 1671881372,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46850,
+        "num": 46850,
+        "word": "退热贴是智商税吗",
+        "onboard_time": 1671895587,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39587,
+        "num": 39587,
+        "word": "年轻博士居家隔离时高烧昏厥去世",
+        "onboard_time": 1671878671,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39421,
+        "num": 39421,
+        "word": "宝宝凌晨惊厥抽搐宝妈无助大哭",
+        "onboard_time": 1671889174,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39217,
+        "num": 39217,
+        "word": "杨蓉41岁生图状态",
+        "onboard_time": 1671886713,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 35525,
+        "num": 35525,
+        "word": "买到新出厂黄桃罐头桃硬没泡入味",
+        "onboard_time": 1671886055,
+        "rank": 17,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 33775,
+        "num": 33775,
+        "word": "18岁女生因焦虑2个月减25斤成95斤",
+        "onboard_time": 1671883293,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30307,
+        "num": 30307,
+        "word": "刚出生的宝宝不慎发烧浑身通红",
+        "onboard_time": 1671885332,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29638,
+        "num": 29638,
+        "word": "阴性老公向媳妇抱怨申请罢工",
+        "onboard_time": 1671890251,
+        "rank": 20,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 29624,
+        "num": 29624,
+        "word": "女子高压锅炖牛肉锅盖炸入天花板",
+        "onboard_time": 1671896010,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29270,
+        "num": 29270,
+        "word": "回来的女儿 全员恶人",
+        "onboard_time": 1671897145,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 27373,
+        "num": 27373,
+        "word": "已婚男伪造离婚证表白情人被判6月",
+        "onboard_time": 1671900320,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27149,
+        "num": 27149,
+        "word": "范世錡 使徒行者",
+        "onboard_time": 1671892832,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26822,
+        "num": 26822,
+        "word": "回来的女儿",
+        "onboard_time": 1671885635,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 25844,
+        "num": 25844,
+        "word": "疫情叠加返乡该怎么应对",
+        "onboard_time": 1671898104,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23270,
+        "num": 23270,
+        "word": "电影想见你为什么很动人",
+        "onboard_time": 1671900980,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 23057,
+        "num": 23057,
+        "word": "点外卖备注阳了收到4粒退烧药",
+        "onboard_time": 1671882096,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21757,
+        "num": 21757,
+        "word": "肖战五号病人90度鞠躬谢幕",
+        "onboard_time": 1671889410,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 20733,
+        "num": 20733,
+        "word": "广东省运会假球事件16人被处理",
+        "onboard_time": 1671885933,
+        "rank": 30,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 20206,
+        "num": 20206,
+        "word": "社区回应下意识逃走的卖橘男称没低保一事",
+        "onboard_time": 1671882573,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19958,
+        "num": 19958,
+        "word": "怎样评价今年考研英语",
+        "onboard_time": 1671878671,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 19852,
+        "num": 19852,
+        "word": "羽生结弦",
+        "onboard_time": 1671888634,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19755,
+        "num": 19755,
+        "word": "英语一 难",
+        "onboard_time": 1671873094,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 19207,
+        "num": 19207,
+        "word": "还魂",
+        "onboard_time": 1671914111,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 18603,
+        "num": 18603,
+        "word": "金枝欲孽",
+        "onboard_time": 1671893730,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17835,
+        "num": 17835,
+        "word": "王鹤棣把刘亦菲的王语嫣认成赵灵儿",
+        "onboard_time": 1671888513,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17261,
+        "num": 17261,
+        "word": "Lia扶李彩领退场",
+        "onboard_time": 1671909015,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 17144,
+        "num": 17144,
+        "word": "小学生喝个水舌头被卡进保温杯盖",
+        "onboard_time": 1671914713,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17087,
+        "num": 17087,
+        "word": "罗渽民黄仁俊candy舞台互动",
+        "onboard_time": 1671896129,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 16707,
+        "num": 16707,
+        "word": "英语二",
+        "onboard_time": 1671873094,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 16173,
+        "num": 16173,
+        "word": "圣诞快乐",
+        "onboard_time": 1671895111,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 15910,
+        "num": 15910,
+        "word": "Fly哭了",
+        "onboard_time": 1671888214,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 15891,
+        "num": 15891,
+        "word": "圣诞树",
+        "onboard_time": 1671879931,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 15888,
+        "num": 15888,
+        "word": "刘耀文问许绍雄有退休计划了吗",
+        "onboard_time": 1671898943,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15748,
+        "num": 15748,
+        "word": "车主路边掉头意外顺走3块腊肉",
+        "onboard_time": 1671893911,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15128,
+        "num": 15128,
+        "word": "圣诞节把恋爱氛围拿捏了",
+        "onboard_time": 1671899122,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 14950,
+        "num": 14950,
+        "word": "对新冠过敏是什么体验",
+        "onboard_time": 1671882695,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14004,
+        "num": 14004,
+        "word": "平安夜",
+        "onboard_time": 1671876211,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#纵览2022那些国之重器#"
+    }
+  }
+}

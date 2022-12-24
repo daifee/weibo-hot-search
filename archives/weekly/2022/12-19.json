@@ -1,6 +1,6 @@
 {
   "startTime": 1671380618877,
-  "endTime": 1671914018884,
+  "endTime": 1671916491655,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -15281,6 +15281,14 @@
       "onboard_time": 1671738132,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 17144,
+      "num": 17144,
+      "word": "小学生喝个水舌头被卡进保温杯盖",
+      "onboard_time": 1671914713,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 16700,
