@@ -1,6 +1,6 @@
 {
   "startTime": 1671812678291,
-  "endTime": 1671892419425,
+  "endTime": 1671895037151,
   "band_list": [
     {
       "raw_hot": 5095182,
@@ -9,6 +9,14 @@
       "onboard_time": 1671873094,
       "rank": 6,
       "category": "教育"
+    },
+    {
+      "raw_hot": 3655521,
+      "num": 3655521,
+      "word": "肺炎",
+      "onboard_time": 1671891212,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3634947,
@@ -113,14 +121,6 @@
       "onboard_time": 1671867868,
       "rank": 4,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1746195,
-      "num": 1746195,
-      "word": "肺炎",
-      "onboard_time": 1671891212,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1734823,
@@ -603,6 +603,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 601829,
+      "num": 468093,
+      "word": "吴彤邀请刘耀文参加节目的原因",
+      "onboard_time": 1671894571,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 595512,
       "num": 595512,
       "word": "狼队 状态",
@@ -633,6 +641,14 @@
       "onboard_time": 1671854191,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 572681,
+      "num": 572681,
+      "word": "阴性老公向媳妇抱怨申请罢工",
+      "onboard_time": 1671890251,
+      "rank": 28,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 571918,
@@ -939,6 +955,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 422246,
+      "num": 244292,
+      "word": "minji声音",
+      "onboard_time": 1671893493,
+      "rank": 20,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 420104,
       "num": 420104,
       "word": "阴了身体就痊愈了吗",
@@ -977,6 +1001,14 @@
       "onboard_time": 1671879033,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 390636,
+      "num": 240451,
+      "word": "金枝欲孽",
+      "onboard_time": 1671893730,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 384124,
@@ -1035,6 +1067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 353492,
+      "num": 172660,
+      "word": "范世錡 使徒行者",
+      "onboard_time": 1671892832,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 350438,
       "num": 350438,
       "word": "前有张东升爬山后有李承天钓鱼",
@@ -1059,12 +1099,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 342130,
-      "num": 342130,
-      "word": "阴性老公向媳妇抱怨申请罢工",
-      "onboard_time": 1671890251,
-      "rank": 28,
-      "category": "社会新闻,情感"
+      "raw_hot": 344346,
+      "num": 170233,
+      "word": "两次感染新冠病毒的武汉医生发声",
+      "onboard_time": 1671892415,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 340213,
@@ -1491,6 +1531,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 239001,
+      "num": 161695,
+      "word": "NCT127开麦",
+      "onboard_time": 1671894032,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 235048,
       "num": 235048,
       "word": "感冒和新冠会同时得吗",
@@ -1819,6 +1867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 178013,
+      "num": 178013,
+      "word": "这只狗狗走路有点费脸",
+      "onboard_time": 1671890913,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 177531,
       "num": 177531,
       "word": "老人应闭门不出谢绝访客",
@@ -1905,14 +1961,6 @@
       "onboard_time": 1671836595,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 166133,
-      "num": 166133,
-      "word": "这只狗狗走路有点费脸",
-      "onboard_time": 1671890913,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 164864,
@@ -2003,6 +2051,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 155557,
+      "num": 155557,
+      "word": "东北的街边盒饭有多实惠",
+      "onboard_time": 1671892593,
+      "rank": 37,
+      "category": "美食"
+    },
+    {
       "raw_hot": 155318,
       "num": 2711367,
       "word": "元旦春节返乡如何防护",
@@ -2089,6 +2145,14 @@
       "onboard_time": 1671838759,
       "rank": 26,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 149020,
+      "num": 149020,
+      "word": "北京要求千方百计降低病亡率",
+      "onboard_time": 1671894632,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 148473,
@@ -2211,6 +2275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 137648,
+      "num": 1439234,
+      "word": "全球首架C919自12月26日起验证飞行",
+      "onboard_time": 1671890373,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 137255,
       "num": 137255,
       "word": "浮图缘全员切换宫廷模式",
@@ -2283,12 +2355,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 126821,
-      "num": 1439234,
-      "word": "全球首架C919自12月26日起验证飞行",
-      "onboard_time": 1671890373,
-      "rank": 2,
-      "category": "国内要闻"
+      "raw_hot": 127054,
+      "num": 127054,
+      "word": "不被情绪裹挟才自由",
+      "onboard_time": 1671894511,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 126718,
@@ -2355,6 +2427,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 121027,
+      "num": 121027,
+      "word": "车主路边掉头意外顺走3块腊肉",
+      "onboard_time": 1671893911,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120332,
       "num": 120332,
       "word": "丈夫开车打滑妻子冷静指挥化险为夷",
@@ -2369,6 +2449,14 @@
       "onboard_time": 1671810207,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 118221,
+      "num": 118221,
+      "word": "羽生结弦的圣诞礼物",
+      "onboard_time": 1671893373,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 112400,
