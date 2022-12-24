@@ -1,7 +1,23 @@
 {
   "startTime": 1671812678291,
-  "endTime": 1671852806342,
+  "endTime": 1671855705251,
   "band_list": [
+    {
+      "raw_hot": 2963329,
+      "num": 2963329,
+      "word": "考研政治",
+      "onboard_time": 1671832511,
+      "rank": 7,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 2698905,
+      "num": 2698905,
+      "word": "肖秀荣",
+      "onboard_time": 1671853534,
+      "rank": 1,
+      "category": "教育"
+    },
     {
       "raw_hot": 1950872,
       "num": 1950872,
@@ -19,6 +35,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1454473,
+      "num": 1454473,
+      "word": "管综",
+      "onboard_time": 1671853351,
+      "rank": 4,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1420097,
       "num": 1420097,
       "word": "姆巴佩身价1.8亿欧全球第1",
@@ -27,12 +51,44 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1145487,
+      "num": 1145487,
+      "word": "考研",
+      "onboard_time": 1671837376,
+      "rank": 6,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 1025749,
+      "num": 1025749,
+      "word": "16岁男生遭学生会体罚后从4楼跳下",
+      "onboard_time": 1671853049,
+      "rank": 6,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 1006149,
+      "num": 1006149,
+      "word": "班主任猥亵2女学生被判终身禁业",
+      "onboard_time": 1671851610,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 985400,
       "num": 985400,
       "word": "发烧时要少吃高蛋白食物",
       "onboard_time": 1671805170,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 943594,
+      "num": 943594,
+      "word": "考研政治答案",
+      "onboard_time": 1671854672,
+      "rank": 9,
+      "category": "教育"
     },
     {
       "raw_hot": 900759,
@@ -51,12 +107,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 873917,
-      "num": 873917,
-      "word": "考研",
-      "onboard_time": 1671837376,
-      "rank": 6,
-      "category": "教育"
+      "raw_hot": 865503,
+      "num": 865503,
+      "word": "恋爱1个月女友瘫痪男友照顾她30年",
+      "onboard_time": 1671852632,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 856583,
@@ -75,14 +131,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 779101,
-      "num": 779101,
-      "word": "考研政治",
-      "onboard_time": 1671832511,
-      "rank": 7,
-      "category": "教育"
-    },
-    {
       "raw_hot": 772601,
       "num": 772601,
       "word": "太原120一天被呼叫4800次",
@@ -97,6 +145,14 @@
       "onboard_time": 1671846266,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 660290,
+      "num": 660290,
+      "word": "王鹤棣把和小兰花灵魂互换猜成了亲亲",
+      "onboard_time": 1671850768,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 650256,
@@ -116,7 +172,7 @@
     },
     {
       "raw_hot": 631076,
-      "num": 207677,
+      "num": 501581,
       "word": "27岁考研生为按时吃饭注册骑手接单",
       "onboard_time": 1671849747,
       "rank": 47,
@@ -129,14 +185,6 @@
       "onboard_time": 1671845004,
       "rank": 8,
       "category": "影视"
-    },
-    {
-      "raw_hot": 575979,
-      "num": 506554,
-      "word": "班主任猥亵2女学生被判终身禁业",
-      "onboard_time": 1671851610,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 566989,
@@ -153,6 +201,22 @@
       "onboard_time": 1671846748,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 537299,
+      "num": 537299,
+      "word": "哈兰德",
+      "onboard_time": 1671854191,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 534089,
+      "num": 534089,
+      "word": "越前龙马",
+      "onboard_time": 1671850530,
+      "rank": 13,
+      "category": "动漫"
     },
     {
       "raw_hot": 528198,
@@ -179,19 +243,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 489948,
-      "num": 489948,
-      "word": "越前龙马",
-      "onboard_time": 1671850530,
-      "rank": 13,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 473515,
       "num": 473515,
       "word": "武汉血库A型血o型血仅剩2天用量",
       "onboard_time": 1671836717,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 470182,
+      "num": 470182,
+      "word": "服用止咳糖浆半小时内不要喝水",
+      "onboard_time": 1671852149,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -235,6 +299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 404317,
+      "num": 404317,
+      "word": "考研英语",
+      "onboard_time": 1671854972,
+      "rank": 20,
+      "category": "教育"
+    },
+    {
       "raw_hot": 380816,
       "num": 380816,
       "word": "阳了之后要警惕这些误区",
@@ -257,14 +329,6 @@
       "onboard_time": 1671810446,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 341771,
-      "num": 341771,
-      "word": "王鹤棣把和小兰花灵魂互换猜成了亲亲",
-      "onboard_time": 1671850768,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 335202,
@@ -363,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 288208,
+      "num": 288208,
+      "word": "字节员工违规获取美国用户数据",
+      "onboard_time": 1671853769,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 284840,
       "num": 284840,
       "word": "Smtown官方宣传张艺兴新歌",
@@ -427,12 +499,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 234760,
+      "num": 1880981,
+      "word": "家有老人面对新冠要知道的事",
+      "onboard_time": 1671842843,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 233951,
       "num": 233951,
       "word": "公婆早起为上班儿媳铲过膝雪开路",
       "onboard_time": 1671846206,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 232283,
+      "num": 232283,
+      "word": "如何看待考研人数增长放缓",
+      "onboard_time": 1671851188,
+      "rank": 46,
+      "category": "教育,社会议题"
     },
     {
       "raw_hot": 230661,
@@ -611,6 +699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 180933,
+      "num": 180933,
+      "word": "你好星期六苍盐海三巨头今晚见",
+      "onboard_time": 1671854374,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 176539,
       "num": 169061,
       "word": "TraineeA确认出道组解散",
@@ -651,6 +747,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 167523,
+      "num": 167523,
+      "word": "新冠康复后别着急做这些事",
+      "onboard_time": 1671854496,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 167165,
       "num": 167165,
       "word": "县委大院喷饭式结婚照",
@@ -667,12 +771,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 164520,
-      "num": 164520,
-      "word": "如何看待考研人数增长放缓",
-      "onboard_time": 1671851188,
-      "rank": 46,
-      "category": "教育,社会议题"
+      "raw_hot": 162672,
+      "num": 162672,
+      "word": "考研时间",
+      "onboard_time": 1671850649,
+      "rank": 48,
+      "category": "教育"
     },
     {
       "raw_hot": 158590,
@@ -681,6 +785,14 @@
       "onboard_time": 1671841044,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 158405,
+      "num": 158405,
+      "word": "沉默性缺氧这些症状需注意",
+      "onboard_time": 1671855390,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 158151,
@@ -763,14 +875,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 146281,
-      "num": 146281,
-      "word": "服用止咳糖浆半小时内不要喝水",
-      "onboard_time": 1671852149,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 145616,
       "num": 145616,
       "word": "马图伊迪宣布退役",
@@ -819,6 +923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 137255,
+      "num": 137255,
+      "word": "浮图缘全员切换宫廷模式",
+      "onboard_time": 1671853234,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 135959,
       "num": 135959,
       "word": "高校师生自制抗原试剂供全校使用",
@@ -851,6 +963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 125022,
+      "num": 125022,
+      "word": "电影想见你结局HE",
+      "onboard_time": 1671853893,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 123150,
       "num": 123150,
       "word": "女子发烧出汗浸湿被子晾晒后被吹跑",
@@ -881,14 +1001,6 @@
       "onboard_time": 1671810207,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 117779,
-      "num": 117779,
-      "word": "恋爱1个月女友瘫痪男友照顾她30年",
-      "onboard_time": 1671852632,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 112400,
@@ -931,28 +1043,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 108808,
-      "num": 108808,
-      "word": "家有老人面对新冠要知道的事",
-      "onboard_time": 1671842843,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 108218,
       "num": 108218,
       "word": "顺丰回应包裹破洞美林不翼而飞",
       "onboard_time": 1671786388,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 101242,
-      "num": 101242,
-      "word": "考研时间",
-      "onboard_time": 1671850649,
-      "rank": 48,
-      "category": "教育"
     },
     {
       "raw_hot": 97425,
