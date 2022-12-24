@@ -1,6 +1,6 @@
 {
   "startTime": 1671812678291,
-  "endTime": 1671874407894,
+  "endTime": 1671877075377,
   "band_list": [
     {
       "raw_hot": 5095182,
@@ -9,6 +9,14 @@
       "onboard_time": 1671873094,
       "rank": 6,
       "category": "教育"
+    },
+    {
+      "raw_hot": 3634947,
+      "num": 3634947,
+      "word": "不懂内娱到底在高贵什么",
+      "onboard_time": 1671873094,
+      "rank": 11,
+      "category": "综艺,幽默"
     },
     {
       "raw_hot": 3402054,
@@ -59,14 +67,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 2358493,
-      "num": 2358493,
-      "word": "不懂内娱到底在高贵什么",
-      "onboard_time": 1671873094,
-      "rank": 11,
-      "category": "综艺,幽默"
-    },
-    {
       "raw_hot": 1950872,
       "num": 1950872,
       "word": "转阴后咳嗽要多久才能恢复",
@@ -89,6 +89,22 @@
       "onboard_time": 1671839541,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1705054,
+      "num": 1705054,
+      "word": "康复后二次感染比例有多高",
+      "onboard_time": 1671872431,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1465587,
+      "num": 1465587,
+      "word": "英语二 威廉",
+      "onboard_time": 1671874474,
+      "rank": 5,
+      "category": "教育"
     },
     {
       "raw_hot": 1454473,
@@ -155,6 +171,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1022973,
+      "num": 1022973,
+      "word": "考研英语答案",
+      "onboard_time": 1671873514,
+      "rank": 8,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1021180,
       "num": 1021180,
       "word": "恋爱1个月女友瘫痪男友照顾她30年",
@@ -195,20 +219,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 979185,
-      "num": 979185,
-      "word": "考研英语答案",
-      "onboard_time": 1671873514,
-      "rank": 8,
-      "category": "教育"
-    },
-    {
       "raw_hot": 949714,
       "num": 949714,
       "word": "好丽友回应关闭天猫旗舰店",
       "onboard_time": 1671870029,
       "rank": 44,
       "category": "科技"
+    },
+    {
+      "raw_hot": 934888,
+      "num": 934888,
+      "word": "圆通延误致1400元药损坏只赔10元",
+      "onboard_time": 1671873995,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 923032,
@@ -235,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 885409,
+      "num": 885409,
+      "word": "香港与内地争取明年1月中前通关",
+      "onboard_time": 1671874834,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 873881,
       "num": 873881,
       "word": "黄牛在医院门前倒卖布洛芬1瓶3000元",
@@ -257,14 +289,6 @@
       "onboard_time": 1671841163,
       "rank": 3,
       "category": "影视"
-    },
-    {
-      "raw_hot": 844342,
-      "num": 844342,
-      "word": "康复后二次感染比例有多高",
-      "onboard_time": 1671872431,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 844245,
@@ -347,6 +371,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 684650,
+      "num": 684650,
+      "word": "平安夜",
+      "onboard_time": 1671837737,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
       "raw_hot": 676581,
       "num": 676581,
       "word": "男子说邻居家雪人不像阳间东西",
@@ -412,11 +444,19 @@
     },
     {
       "raw_hot": 590462,
-      "num": 390288,
+      "num": 393762,
       "word": "蔡根花宝贝好吓人",
       "onboard_time": 1671871168,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 577168,
+      "num": 577168,
+      "word": "英语二答案",
+      "onboard_time": 1671874354,
+      "rank": 26,
+      "category": "教育"
     },
     {
       "raw_hot": 576824,
@@ -627,6 +667,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 370554,
+      "num": 370554,
+      "word": "考研英语一答案",
+      "onboard_time": 1671876754,
+      "rank": 22,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 364756,
+      "num": 364756,
+      "word": "宋雨琦白色花苞裙小鹿造型",
+      "onboard_time": 1671876334,
+      "rank": 23,
+      "category": "音乐,时尚"
+    },
+    {
       "raw_hot": 345004,
       "num": 345004,
       "word": "6岁娃40度高烧流利背诵滕王阁序",
@@ -755,6 +811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 306442,
+      "num": 306442,
+      "word": "父母阳了戴装备和女儿同桌打麻将",
+      "onboard_time": 1671874653,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 303958,
       "num": 303958,
       "word": "李宇春说听房猫的歌一下子共情了",
@@ -843,16 +907,8 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 271118,
-      "num": 271118,
-      "word": "平安夜",
-      "onboard_time": 1671837737,
-      "rank": 16,
-      "category": "情感"
-    },
-    {
       "raw_hot": 266826,
-      "num": 201210,
+      "num": 257448,
       "word": "绿指甲",
       "onboard_time": 1671872188,
       "rank": 31,
@@ -865,6 +921,14 @@
       "onboard_time": 1671847527,
       "rank": 20,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 262495,
+      "num": 262495,
+      "word": "马哲理论是懂考研的",
+      "onboard_time": 1671874115,
+      "rank": 47,
+      "category": "教育,幽默"
     },
     {
       "raw_hot": 258450,
@@ -905,14 +969,6 @@
       "onboard_time": 1671851188,
       "rank": 46,
       "category": "教育,社会议题"
-    },
-    {
-      "raw_hot": 247735,
-      "num": 247735,
-      "word": "英语二答案",
-      "onboard_time": 1671874354,
-      "rank": 26,
-      "category": "教育"
     },
     {
       "raw_hot": 245753,
@@ -960,6 +1016,14 @@
       "word": "公婆早起为上班儿媳铲过膝雪开路",
       "onboard_time": 1671846206,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 233900,
+      "num": 233900,
+      "word": "美国数千名囚犯被当成医学实验对象",
+      "onboard_time": 1671874234,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -1075,6 +1139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 208455,
+      "num": 208455,
+      "word": "去爱去失去 要不负相遇",
+      "onboard_time": 1671876934,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 205642,
       "num": 205642,
       "word": "一战成硕",
@@ -1121,6 +1193,14 @@
       "onboard_time": 1671848666,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 198526,
+      "num": 198526,
+      "word": "和Hero交换特别礼物吧",
+      "onboard_time": 1671875253,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 197762,
@@ -1299,14 +1379,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 165435,
-      "num": 165435,
-      "word": "圆通延误致1400元药损坏只赔10元",
-      "onboard_time": 1671873995,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 164864,
       "num": 164864,
       "word": "王凯谭松韵向风而行定档1226",
@@ -1347,6 +1419,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 157816,
+      "num": 157816,
+      "word": "英语作文",
+      "onboard_time": 1671874115,
+      "rank": 44,
+      "category": "教育"
+    },
+    {
       "raw_hot": 157499,
       "num": 157499,
       "word": "情绪价值在恋爱里有多重要",
@@ -1371,12 +1451,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 156305,
-      "num": 156305,
-      "word": "英语作文",
-      "onboard_time": 1671874115,
-      "rank": 44,
-      "category": "教育"
+      "raw_hot": 155318,
+      "num": 2711367,
+      "word": "元旦春节返乡如何防护",
+      "onboard_time": 1671862468,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 154842,
+      "num": 154842,
+      "word": "新疆村民屋顶打雪如瀑布倾泻而下",
+      "onboard_time": 1671876393,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 153802,
@@ -1507,12 +1595,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 143851,
-      "num": 143851,
-      "word": "马哲理论是懂考研的",
-      "onboard_time": 1671874115,
-      "rank": 47,
-      "category": "教育,幽默"
+      "raw_hot": 144016,
+      "num": 144016,
+      "word": "狗和大叔在夸奖中迷失自我",
+      "onboard_time": 1671871228,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 142946,
@@ -1521,14 +1609,6 @@
       "onboard_time": 1671873514,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 142656,
-      "num": 142656,
-      "word": "狗和大叔在夸奖中迷失自我",
-      "onboard_time": 1671871228,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 141898,
@@ -1705,14 +1785,6 @@
       "onboard_time": 1671810207,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 113949,
-      "num": 2438738,
-      "word": "元旦春节返乡如何防护",
-      "onboard_time": 1671862468,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 112400,
