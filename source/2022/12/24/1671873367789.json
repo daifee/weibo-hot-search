@@ -1,0 +1,410 @@
+{
+  "runTime": 1671873367789,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1977860,
+        "num": 1977860,
+        "word": "考研英语",
+        "onboard_time": 1671854972,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1815979,
+        "num": 1815979,
+        "word": "考研英语70分意味着什么",
+        "onboard_time": 1671867868,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 49205,
+        "num": 1627082,
+        "word": "元旦春节返乡如何防护",
+        "onboard_time": 1671862468,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1611436,
+        "num": 1611436,
+        "word": "春晚",
+        "onboard_time": 1671868407,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1025857,
+        "num": 1025857,
+        "word": "梅婷回复刘琳美甲只美绿指甲",
+        "onboard_time": 1671870808,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 949714,
+        "num": 949714,
+        "word": "好丽友回应关闭天猫旗舰店",
+        "onboard_time": 1671870029,
+        "rank": 5,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 874478,
+        "num": 874478,
+        "word": "英语一 难",
+        "onboard_time": 1671873094,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 844245,
+        "num": 844245,
+        "word": "86版西游记太上老君扮演者郑榕去世",
+        "onboard_time": 1671870866,
+        "rank": 7,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 817661,
+        "num": 817661,
+        "word": "黄牛在医院门前倒卖布洛芬1瓶3000元",
+        "onboard_time": 1671870328,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 685371,
+        "num": 685371,
+        "word": "感染后体内抗体能维持多久",
+        "onboard_time": 1671869787,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1543303,
+        "num": 684056,
+        "word": "女子给邻居赠药因头晕延误被踹门辱骂",
+        "onboard_time": 1671863906,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 673539,
+        "num": 673539,
+        "word": "不懂内娱到底在高贵什么",
+        "onboard_time": 1671873094,
+        "rank": 11,
+        "category": "综艺,幽默"
+      },
+      {
+        "raw_hot": 667840,
+        "num": 667840,
+        "word": "英语二",
+        "onboard_time": 1671873094,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 649362,
+        "num": 649362,
+        "word": "县委书记倒卖防疫物资出镜忏悔",
+        "onboard_time": 1671870446,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 602473,
+        "num": 602473,
+        "word": "转阴后咳嗽要多久才能恢复",
+        "onboard_time": 1671848187,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 565948,
+        "num": 565948,
+        "word": "唐嫣cos佟湘玉",
+        "onboard_time": 1671872912,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 452507,
+        "num": 452507,
+        "word": "生个病生成了那英",
+        "onboard_time": 1671861868,
+        "rank": 16,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 376749,
+        "num": 376749,
+        "word": "美国的险恶用心中国人民看得很清楚",
+        "onboard_time": 1671861207,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 376488,
+        "num": 376488,
+        "word": "新冠咳嗽不止痰中带血怎么办",
+        "onboard_time": 1671859108,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350526,
+        "num": 350526,
+        "word": "今年考研人数比去年多17万",
+        "onboard_time": 1671862226,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 375027,
+        "num": 349729,
+        "word": "蔡根花宝贝好吓人",
+        "onboard_time": 1671871168,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 345489,
+        "num": 345489,
+        "word": "梅西身价",
+        "onboard_time": 1671859171,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 340213,
+        "num": 340213,
+        "word": "我们的客栈全员古装造型路透",
+        "onboard_time": 1671872851,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 295193,
+        "num": 295193,
+        "word": "SBS歌谣大战节目单",
+        "onboard_time": 1671866608,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 277004,
+        "num": 277004,
+        "word": "康复后二次感染比例有多高",
+        "onboard_time": 1671872431,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256815,
+        "num": 256815,
+        "word": "男子投诉快递员以阳了为由拒配送",
+        "onboard_time": 1671865347,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228574,
+        "num": 228574,
+        "word": "阴了身体就痊愈了吗",
+        "onboard_time": 1671863729,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218657,
+        "num": 218657,
+        "word": "司机把男孩落湖南到广东才发觉",
+        "onboard_time": 1671865827,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204791,
+        "num": 204791,
+        "word": "考研时间",
+        "onboard_time": 1671872369,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 196010,
+        "num": 196010,
+        "word": "男子说邻居家雪人不像阳间东西",
+        "onboard_time": 1671859891,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283067,
+        "num": 194366,
+        "word": "SBS歌谣大战",
+        "onboard_time": 1671859290,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 266826,
+        "num": 192386,
+        "word": "绿指甲",
+        "onboard_time": 1671872188,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 258759,
+        "num": 190927,
+        "word": "想见你",
+        "onboard_time": 1671851010,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 256753,
+        "num": 186473,
+        "word": "鬼吹灯系列电影又双叒叕上新了",
+        "onboard_time": 1671871528,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 186409,
+        "num": 186409,
+        "word": "这只小鸟给自己盖了一座花园洋房",
+        "onboard_time": 1671867089,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256374,
+        "num": 185223,
+        "word": "陈佑希被电击",
+        "onboard_time": 1671868766,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 175437,
+        "num": 175437,
+        "word": "恋爱1个月女友瘫痪男友照顾她30年",
+        "onboard_time": 1671852632,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167433,
+        "num": 167433,
+        "word": "次氯酸消毒剂是智商税吗",
+        "onboard_time": 1671871949,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163999,
+        "num": 163999,
+        "word": "著名粤语相声大师杨达辞世",
+        "onboard_time": 1671866548,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159726,
+        "num": 159726,
+        "word": "老人应闭门不出谢绝访客",
+        "onboard_time": 1671868766,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237617,
+        "num": 158705,
+        "word": "袁娅维演出取消",
+        "onboard_time": 1671868105,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 152433,
+        "num": 152433,
+        "word": "专家说防疫VC补充是关键",
+        "onboard_time": 1671864505,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59415,
+        "num": 144928,
+        "word": "家有老人面对新冠要知道的事",
+        "onboard_time": 1671842843,
+        "rank": 42,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 142251,
+        "num": 142251,
+        "word": "狗和大叔在夸奖中迷失自我",
+        "onboard_time": 1671871228,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 137481,
+        "num": 137481,
+        "word": "政治选择 难",
+        "onboard_time": 1671856832,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 136991,
+        "num": 136991,
+        "word": "考研",
+        "onboard_time": 1671837376,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 133553,
+        "num": 133553,
+        "word": "戴N95口罩怎样做到不漏气",
+        "onboard_time": 1671866666,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129768,
+        "num": 129768,
+        "word": "杭州一学校宣布暂停网课",
+        "onboard_time": 1671856532,
+        "rank": 47,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 129356,
+        "num": 129356,
+        "word": "考研政治",
+        "onboard_time": 1671852030,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 125025,
+        "num": 125025,
+        "word": "姐姐刀片嗓用软件人工喊话8岁妹妹",
+        "onboard_time": 1671863368,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#纵览2022那些国之重器#"
+    }
+  }
+}

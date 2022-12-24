@@ -1,6 +1,6 @@
 {
   "startTime": 1671812678291,
-  "endTime": 1671870905961,
+  "endTime": 1671873367789,
   "band_list": [
     {
       "raw_hot": 3402054,
@@ -35,12 +35,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1977860,
+      "num": 1977860,
+      "word": "考研英语",
+      "onboard_time": 1671854972,
+      "rank": 20,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1950872,
       "num": 1950872,
       "word": "转阴后咳嗽要多久才能恢复",
       "onboard_time": 1671848187,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1815979,
+      "num": 1815979,
+      "word": "考研英语70分意味着什么",
+      "onboard_time": 1671867868,
+      "rank": 4,
+      "category": "教育"
     },
     {
       "raw_hot": 1734823,
@@ -107,20 +123,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1025857,
+      "num": 1025857,
+      "word": "梅婷回复刘琳美甲只美绿指甲",
+      "onboard_time": 1671870808,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1021180,
       "num": 1021180,
       "word": "恋爱1个月女友瘫痪男友照顾她30年",
       "onboard_time": 1671852632,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1020162,
-      "num": 1020162,
-      "word": "考研英语70分意味着什么",
-      "onboard_time": 1671867868,
-      "rank": 4,
-      "category": "教育"
     },
     {
       "raw_hot": 1017207,
@@ -155,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 949714,
+      "num": 949714,
+      "word": "好丽友回应关闭天猫旗舰店",
+      "onboard_time": 1671870029,
+      "rank": 44,
+      "category": "科技"
+    },
+    {
       "raw_hot": 923032,
       "num": 923032,
       "word": "新冠咳嗽不止痰中带血怎么办",
@@ -179,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 874478,
+      "num": 874478,
+      "word": "英语一 难",
+      "onboard_time": 1671873094,
+      "rank": 6,
+      "category": "教育"
+    },
+    {
       "raw_hot": 865775,
       "num": 553836,
       "word": "张婧仪圣诞街头随拍",
@@ -193,6 +225,22 @@
       "onboard_time": 1671841163,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 844245,
+      "num": 844245,
+      "word": "86版西游记太上老君扮演者郑榕去世",
+      "onboard_time": 1671870866,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 817661,
+      "num": 817661,
+      "word": "黄牛在医院门前倒卖布洛芬1瓶3000元",
+      "onboard_time": 1671870328,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 808557,
@@ -243,12 +291,36 @@
       "category": "教育"
     },
     {
+      "raw_hot": 685371,
+      "num": 685371,
+      "word": "感染后体内抗体能维持多久",
+      "onboard_time": 1671869787,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 676581,
       "num": 676581,
       "word": "男子说邻居家雪人不像阳间东西",
       "onboard_time": 1671859891,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 673539,
+      "num": 673539,
+      "word": "不懂内娱到底在高贵什么",
+      "onboard_time": 1671873094,
+      "rank": 11,
+      "category": "综艺,幽默"
+    },
+    {
+      "raw_hot": 667840,
+      "num": 667840,
+      "word": "英语二",
+      "onboard_time": 1671873094,
+      "rank": 12,
+      "category": "教育"
     },
     {
       "raw_hot": 660290,
@@ -272,6 +344,14 @@
       "word": "车主维权半年后故意推倒摩托老人被捕",
       "onboard_time": 1671845307,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 649362,
+      "num": 649362,
+      "word": "县委书记倒卖防疫物资出镜忏悔",
+      "onboard_time": 1671870446,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -315,6 +395,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 565948,
+      "num": 565948,
+      "word": "唐嫣cos佟湘玉",
+      "onboard_time": 1671872912,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 554662,
       "num": 554662,
       "word": "新冠冲击波下的乡村",
@@ -345,14 +433,6 @@
       "onboard_time": 1671852149,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 522909,
-      "num": 522909,
-      "word": "考研英语",
-      "onboard_time": 1671854972,
-      "rank": 20,
-      "category": "教育"
     },
     {
       "raw_hot": 507216,
@@ -451,14 +531,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 435092,
-      "num": 435092,
-      "word": "好丽友回应关闭天猫旗舰店",
-      "onboard_time": 1671870029,
-      "rank": 44,
-      "category": "科技"
-    },
-    {
       "raw_hot": 428645,
       "num": 428645,
       "word": "SBS歌谣大战",
@@ -507,6 +579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 375027,
+      "num": 349729,
+      "word": "蔡根花宝贝好吓人",
+      "onboard_time": 1671871168,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 373701,
       "num": 373701,
       "word": "刘耀文无限超越班哭戏",
@@ -521,6 +601,14 @@
       "onboard_time": 1671810446,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 340213,
+      "num": 340213,
+      "word": "我们的客栈全员古装造型路透",
+      "onboard_time": 1671872851,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 339333,
@@ -552,14 +640,6 @@
       "word": "柯佳嬿演技",
       "onboard_time": 1671841404,
       "rank": 15,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 333579,
-      "num": 333579,
-      "word": "梅婷回复刘琳美甲只美绿指甲",
-      "onboard_time": 1671870808,
-      "rank": 14,
       "category": "影视"
     },
     {
@@ -667,14 +747,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 300012,
-      "num": 198949,
-      "word": "感染后体内抗体能维持多久",
-      "onboard_time": 1671869787,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 299511,
       "num": 299511,
       "word": "王鹤棣变身东方青苍视频",
@@ -705,6 +777,14 @@
       "onboard_time": 1671847107,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 277004,
+      "num": 277004,
+      "word": "康复后二次感染比例有多高",
+      "onboard_time": 1671872431,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 275794,
@@ -747,6 +827,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 266826,
+      "num": 192386,
+      "word": "绿指甲",
+      "onboard_time": 1671872188,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 264195,
       "num": 264195,
       "word": "退役军人拆300瓶退烧药送7000人",
@@ -761,6 +849,22 @@
       "onboard_time": 1671803552,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 256753,
+      "num": 186473,
+      "word": "鬼吹灯系列电影又双叒叕上新了",
+      "onboard_time": 1671871528,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 256374,
+      "num": 226465,
+      "word": "陈佑希被电击",
+      "onboard_time": 1671868766,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 253915,
@@ -849,14 +953,6 @@
       "onboard_time": 1671849568,
       "rank": 24,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 226465,
-      "num": 226465,
-      "word": "陈佑希被电击",
-      "onboard_time": 1671868766,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 226070,
@@ -955,6 +1051,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 204791,
+      "num": 204791,
+      "word": "考研时间",
+      "onboard_time": 1671850649,
+      "rank": 48,
+      "category": "教育"
+    },
+    {
       "raw_hot": 201714,
       "num": 201714,
       "word": "你好星期六苍盐海三巨头今晚见",
@@ -992,14 +1096,6 @@
       "word": "大学生兼职送外卖委屈向顾客哭诉",
       "onboard_time": 1671848666,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 194294,
-      "num": 194294,
-      "word": "黄牛在医院门前倒卖布洛芬1瓶3000元",
-      "onboard_time": 1671870328,
-      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -1147,6 +1243,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 167433,
+      "num": 167433,
+      "word": "次氯酸消毒剂是智商税吗",
+      "onboard_time": 1671871949,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 167165,
       "num": 167165,
       "word": "县委大院喷饭式结婚照",
@@ -1161,14 +1265,6 @@
       "onboard_time": 1671848248,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 162672,
-      "num": 162672,
-      "word": "考研时间",
-      "onboard_time": 1671850649,
-      "rank": 48,
-      "category": "教育"
     },
     {
       "raw_hot": 160395,
@@ -1355,12 +1451,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 142005,
-      "num": 142005,
-      "word": "86版西游记太上老君扮演者郑榕去世",
-      "onboard_time": 1671870866,
-      "rank": 38,
-      "category": "社会新闻"
+      "raw_hot": 142251,
+      "num": 142251,
+      "word": "狗和大叔在夸奖中迷失自我",
+      "onboard_time": 1671871228,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 141898,
@@ -1473,14 +1569,6 @@
       "onboard_time": 1671830772,
       "rank": 47,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 125985,
-      "num": 125985,
-      "word": "县委书记倒卖防疫物资出镜忏悔",
-      "onboard_time": 1671870446,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 125855,
@@ -1612,7 +1700,7 @@
     },
     {
       "raw_hot": 100114,
-      "num": 100114,
+      "num": 1627082,
       "word": "元旦春节返乡如何防护",
       "onboard_time": 1671862468,
       "rank": 49,
