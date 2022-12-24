@@ -1,6 +1,6 @@
 {
   "startTime": 1671899049163,
-  "endTime": 1671921205785,
+  "endTime": 1671923845925,
   "band_list": [
     {
       "raw_hot": 2934630,
@@ -139,6 +139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 264479,
+      "num": 119318,
+      "word": "何凯文 英语",
+      "onboard_time": 1671919392,
+      "rank": 13,
+      "category": "教育"
+    },
+    {
       "raw_hot": 262812,
       "num": 183871,
       "word": "范世錡 使徒行者",
@@ -152,6 +160,14 @@
       "word": "宝宝凌晨惊厥抽搐宝妈无助大哭",
       "onboard_time": 1671889174,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 239343,
+      "num": 239343,
+      "word": "专家分析北京目前感染率未到70%",
+      "onboard_time": 1671917831,
+      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -177,6 +193,14 @@
       "onboard_time": 1671885635,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 222301,
+      "num": 222301,
+      "word": "市民购买退烧药后免费赠送被查",
+      "onboard_time": 1671904395,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 220485,
@@ -219,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 174481,
+      "num": 63324,
+      "word": "你身边有二次感染的人吗",
+      "onboard_time": 1671923297,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 172495,
       "num": 172495,
       "word": "18岁女生因焦虑2个月减25斤成95斤",
@@ -227,19 +259,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 165113,
+      "num": 94748,
+      "word": "沈月说自己上不了台面",
+      "onboard_time": 1671888932,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 158803,
       "num": 158803,
       "word": "英语一 难",
       "onboard_time": 1671873094,
       "rank": 28,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 156603,
-      "num": 79810,
-      "word": "何凯文 英语",
-      "onboard_time": 1671919392,
-      "rank": 13,
       "category": "教育"
     },
     {
@@ -273,14 +305,6 @@
       "onboard_time": 1671895111,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 140026,
-      "num": 140026,
-      "word": "专家分析北京目前感染率未到70%",
-      "onboard_time": 1671917831,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 138176,
@@ -355,6 +379,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 115771,
+      "num": 115771,
+      "word": "尔冬升在范世錡眼睛里看到骄",
+      "onboard_time": 1671922934,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 109839,
       "num": 109839,
       "word": "社区回应下意识逃走的卖橘男称没低保一事",
@@ -371,12 +403,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 107644,
-      "num": 91029,
-      "word": "市民购买退烧药后免费赠送被查",
-      "onboard_time": 1671904395,
-      "rank": 32,
-      "category": "社会新闻"
+      "raw_hot": 104634,
+      "num": 104634,
+      "word": "怎样评价今年考研英语",
+      "onboard_time": 1671878671,
+      "rank": 47,
+      "category": "教育"
     },
     {
       "raw_hot": 103862,
@@ -393,6 +425,14 @@
       "onboard_time": 1671898104,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 99744,
+      "num": 99744,
+      "word": "车保罗时隔24年再演鹿鼎记胖头坨",
+      "onboard_time": 1671922515,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 99218,
@@ -435,12 +475,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 81123,
-      "num": 81123,
-      "word": "怎样评价今年考研英语",
-      "onboard_time": 1671878671,
-      "rank": 47,
-      "category": "教育"
+      "raw_hot": 80655,
+      "num": 62841,
+      "word": "军医一针止血挽救大动脉破裂战士",
+      "onboard_time": 1671920052,
+      "rank": 49,
+      "category": "社会新闻,军事"
     },
     {
       "raw_hot": 77239,
@@ -457,6 +497,22 @@
       "onboard_time": 1671890913,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 70543,
+      "num": 70543,
+      "word": "使徒行者",
+      "onboard_time": 1671923776,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 67976,
+      "num": 67976,
+      "word": "圣诞节",
+      "onboard_time": 1671923297,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 63376,
@@ -491,6 +547,46 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 58176,
+      "num": 58176,
+      "word": "盘点布洛芬大佬刘益谦的资本版图",
+      "onboard_time": 1671922635,
+      "rank": 34,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 57102,
+      "num": 57102,
+      "word": "邓萃雯拍金枝欲孽第三天就哭了",
+      "onboard_time": 1671922515,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 52922,
+      "num": 52922,
+      "word": "一句话评价今年的考研英语",
+      "onboard_time": 1671923415,
+      "rank": 37,
+      "category": "教育,情感"
+    },
+    {
+      "raw_hot": 47915,
+      "num": 47915,
+      "word": "财阀家的小儿子",
+      "onboard_time": 1671923596,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 43998,
+      "num": 43998,
+      "word": "陈佑希被送进精神病院",
+      "onboard_time": 1671881372,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 40760,
       "num": 40760,
       "word": "Lia扶李彩领退场",
@@ -505,14 +601,6 @@
       "onboard_time": 1671900681,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 35335,
-      "num": 32554,
-      "word": "军医一针止血挽救大动脉破裂战士",
-      "onboard_time": 1671920052,
-      "rank": 49,
-      "category": "社会新闻,军事"
     },
     {
       "raw_hot": 19207,
