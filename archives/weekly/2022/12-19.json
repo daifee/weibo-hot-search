@@ -1,6 +1,6 @@
 {
   "startTime": 1671380618877,
-  "endTime": 1671838419146,
+  "endTime": 1671844837684,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -625,6 +625,14 @@
       "onboard_time": 1671620670,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1541287,
+      "num": 1541287,
+      "word": "转阴后还需要一直戴口罩吗",
+      "onboard_time": 1671839541,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1538387,
@@ -2371,6 +2379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 687234,
+      "num": 687234,
+      "word": "杨超越方向真猜中了彩票",
+      "onboard_time": 1671841163,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 686637,
       "num": 686637,
       "word": "国务院向云南调运100万人份抗原",
@@ -2593,6 +2609,14 @@
       "onboard_time": 1671602189,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 633376,
+      "num": 633376,
+      "word": "医院准备好迎接疫情冲击了吗",
+      "onboard_time": 1671840381,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 631296,
@@ -3555,6 +3579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 473515,
+      "num": 473515,
+      "word": "武汉血库A型血o型血仅剩2天用量",
+      "onboard_time": 1671836717,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 472792,
       "num": 472792,
       "word": "长相思全员飘雪故事感",
@@ -3857,6 +3889,14 @@
       "onboard_time": 1671460652,
       "rank": 15,
       "category": "情感"
+    },
+    {
+      "raw_hot": 432649,
+      "num": 432649,
+      "word": "观众朋友们 我想死你们了",
+      "onboard_time": 1671803668,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 431910,
@@ -4392,6 +4432,14 @@
       "word": "狗狗串门被告知狗友不在秒懂离开",
       "onboard_time": 1671707253,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 380816,
+      "num": 380816,
+      "word": "阳了之后要警惕这些误区",
+      "onboard_time": 1671839781,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -4995,6 +5043,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 341678,
+      "num": 341678,
+      "word": "肖战如梦之梦央华官方后台直播",
+      "onboard_time": 1671844107,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 341535,
       "num": 341535,
       "word": "不主张不建议故意去感染新冠病毒",
@@ -5145,6 +5201,14 @@
       "onboard_time": 1671712650,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 330869,
+      "num": 330869,
+      "word": "阳之前与阳之后的你对比",
+      "onboard_time": 1671842486,
+      "rank": 10,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 330810,
@@ -5299,6 +5363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 322212,
+      "num": 322212,
+      "word": "如何判断肺功能下降",
+      "onboard_time": 1671836595,
+      "rank": 11,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 322047,
       "num": 322047,
       "word": "山东考研生阳性后不需再测核酸",
@@ -5337,6 +5409,14 @@
       "onboard_time": 1671408268,
       "rank": 24,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 319814,
+      "num": 319814,
+      "word": "学校回应疑教师上网课现不雅聊天",
+      "onboard_time": 1671815778,
+      "rank": 43,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 318866,
@@ -5955,14 +6035,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 286621,
-      "num": 286621,
-      "word": "学校回应疑教师上网课现不雅聊天",
-      "onboard_time": 1671815778,
-      "rank": 43,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 284862,
       "num": 284862,
       "word": "王源官宣加盟江苏卫视跨年",
@@ -6195,6 +6267,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 275794,
+      "num": 275794,
+      "word": "鹤岗原市长梁成军被判死缓",
+      "onboard_time": 1671828191,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 275086,
       "num": 1717463,
       "word": "如何科学止咳",
@@ -6265,6 +6345,14 @@
       "onboard_time": 1671503370,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 271118,
+      "num": 271118,
+      "word": "平安夜",
+      "onboard_time": 1671837737,
+      "rank": 16,
+      "category": "情感"
     },
     {
       "raw_hot": 270879,
@@ -6507,14 +6595,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 259751,
-      "num": 152054,
-      "word": "武汉血库A型血o型血仅剩2天用量",
-      "onboard_time": 1671836717,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 259654,
       "num": 259654,
       "word": "考研政治",
@@ -6691,6 +6771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 252273,
+      "num": 130165,
+      "word": "太原120一天被呼叫4800次",
+      "onboard_time": 1671844048,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 252223,
       "num": 216890,
       "word": "阿根廷获批在成都设立总领事馆",
@@ -6785,14 +6873,6 @@
       "onboard_time": 1671772410,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 245512,
-      "num": 245512,
-      "word": "如何判断肺功能下降",
-      "onboard_time": 1671836595,
-      "rank": 11,
-      "category": "社会议题"
     },
     {
       "raw_hot": 244841,
@@ -7179,14 +7259,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 228991,
-      "num": 149853,
-      "word": "鹤岗原市长梁成军被判死缓",
-      "onboard_time": 1671828191,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 228096,
       "num": 228096,
       "word": "高盛称A股牛市就要到来",
@@ -7459,6 +7531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 217575,
+      "num": 217575,
+      "word": "柯佳嬿演技",
+      "onboard_time": 1671841404,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 217536,
       "num": 217536,
       "word": "邓超说孙俪女貌啊",
@@ -7633,6 +7713,14 @@
       "onboard_time": 1671547771,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 211720,
+      "num": 211720,
+      "word": "张子枫新剧的演技",
+      "onboard_time": 1671839120,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 211355,
@@ -7859,14 +7947,6 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 207035,
-      "num": 219434,
-      "word": "观众朋友们 我想死你们了",
-      "onboard_time": 1671803668,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 206865,
       "num": 206865,
       "word": "AG 极光",
@@ -8041,6 +8121,14 @@
       "onboard_time": 1671707553,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 201117,
+      "num": 201117,
+      "word": "如何看待顺丰回应包裹丢药",
+      "onboard_time": 1671838638,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 200987,
@@ -9611,6 +9699,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 167165,
+      "num": 167165,
+      "word": "县委大院喷饭式结婚照",
+      "onboard_time": 1671836595,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 166760,
       "num": 101360,
       "word": "詹秋怡说让李金颐杨希言pk太残忍",
@@ -9729,14 +9825,6 @@
       "onboard_time": 1671606509,
       "rank": 40,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 164587,
-      "num": 72313,
-      "word": "县委大院喷饭式结婚照",
-      "onboard_time": 1671836595,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 164182,
@@ -10017,6 +10105,14 @@
       "onboard_time": 1671619171,
       "rank": 44,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 158590,
+      "num": 158590,
+      "word": "浓眉右脚应力性损伤",
+      "onboard_time": 1671841044,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 158533,
@@ -10347,6 +10443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 150507,
+      "num": 150507,
+      "word": "情绪价值在恋爱里有多重要",
+      "onboard_time": 1671841644,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 150494,
       "num": 150494,
       "word": "春运将从1月7日开始",
@@ -10401,6 +10505,14 @@
       "onboard_time": 1671377255,
       "rank": 49,
       "category": "体育,音乐"
+    },
+    {
+      "raw_hot": 149433,
+      "num": 149433,
+      "word": "阳康后你有出游计划吗",
+      "onboard_time": 1671838759,
+      "rank": 26,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 149295,
@@ -10545,6 +10657,14 @@
       "onboard_time": 1671618269,
       "rank": 37,
       "category": "科技"
+    },
+    {
+      "raw_hot": 146810,
+      "num": 146810,
+      "word": "考研政治字数就是分数",
+      "onboard_time": 1671838398,
+      "rank": 49,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 146725,
@@ -11379,6 +11499,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 126718,
+      "num": 126718,
+      "word": "美国不能一边谈合作一边捅刀子",
+      "onboard_time": 1671830772,
+      "rank": 47,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 126540,
       "num": 126540,
       "word": "20年后的我们教育孩子",
@@ -11457,14 +11585,6 @@
       "onboard_time": 1671590729,
       "rank": 49,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 125292,
-      "num": 125292,
-      "word": "美国不能一边谈合作一边捅刀子",
-      "onboard_time": 1671830772,
-      "rank": 47,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 125010,
@@ -11633,6 +11753,14 @@
       "onboard_time": 1671381387,
       "rank": 48,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 120332,
+      "num": 120332,
+      "word": "丈夫开车打滑妻子冷静指挥化险为夷",
+      "onboard_time": 1671809489,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 119901,
@@ -11843,6 +11971,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 114409,
+      "num": 114409,
+      "word": "时光音乐会下期有刘宪华",
+      "onboard_time": 1671844528,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 114361,
       "num": 114361,
       "word": "在憋笑中逐渐丧失勇气的猫",
@@ -11889,14 +12025,6 @@
       "onboard_time": 1671496890,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 113273,
-      "num": 113273,
-      "word": "平安夜",
-      "onboard_time": 1671837737,
-      "rank": 16,
-      "category": "情感"
     },
     {
       "raw_hot": 112349,
@@ -11971,6 +12099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 110664,
+      "num": 110664,
+      "word": "制氧机多款产品被买光下架",
+      "onboard_time": 1671843565,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 110374,
       "num": 110374,
       "word": "企业是否有权要求入职劳动者出示核酸检测证明",
@@ -12024,6 +12160,14 @@
       "word": "8岁哥哥轻车熟路哄睡弟弟",
       "onboard_time": 1671783869,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 108808,
+      "num": 108808,
+      "word": "家有老人面对新冠要知道的事",
+      "onboard_time": 1671842843,
+      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -12387,20 +12531,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 98680,
-      "num": 98680,
-      "word": "丈夫开车打滑妻子冷静指挥化险为夷",
-      "onboard_time": 1671809489,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 98299,
       "num": 98299,
       "word": "张杰新专辑外南街1982简介",
       "onboard_time": 1671499649,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 97988,
+      "num": 97988,
+      "word": "提高免疫力",
+      "onboard_time": 1671844707,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 96933,
@@ -12483,12 +12627,28 @@
       "category": "军事"
     },
     {
+      "raw_hot": 90583,
+      "num": 90583,
+      "word": "雄鹿vs篮网",
+      "onboard_time": 1671843925,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 89582,
       "num": 89582,
       "word": "驴友进山看夜景被困1500米雪山",
       "onboard_time": 1671788010,
       "rank": 49,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 88056,
+      "num": 88056,
+      "word": "NCTDREAM新歌Graduation特别视频",
+      "onboard_time": 1671838820,
+      "rank": 48,
+      "category": "音乐"
     },
     {
       "raw_hot": 87992,
@@ -12529,6 +12689,14 @@
       "onboard_time": 1671641780,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 85529,
+      "num": 85529,
+      "word": "全球最大私人博物馆",
+      "onboard_time": 1671844826,
+      "rank": 49,
+      "category": "其它"
     },
     {
       "raw_hot": 85473,
@@ -12873,14 +13041,6 @@
       "onboard_time": 1671560534,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 42860,
-      "num": 42860,
-      "word": "考研政治字数就是分数",
-      "onboard_time": 1671838398,
-      "rank": 49,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 42496,
