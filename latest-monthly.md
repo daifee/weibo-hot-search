@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/12/01 00:28:49 ~ 2022/12/24 16:21:49
+本榜单时间：2022/12/01 00:28:49 ~ 2022/12/24 16:35:05
 </p>
 </blockquote>
 <p>
@@ -4419,6 +4419,12 @@ C罗让韩国球员闭嘴（热度：1021321）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD70%E5%88%86%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88%23" target="weibo">
+考研英语70分意味着什么（热度：1020162）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8A%A0%E7%BB%B4%20%E5%B8%85%23" target="weibo">
 加维 帅（热度：1018644）
 </a>
@@ -6005,12 +6011,6 @@ C罗连续31场首发纪录终结（热度：839597）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%94%A6%E5%B7%9E%E7%96%AB%E6%83%85%E9%98%B2%E6%8E%A7%E6%8E%AA%E6%96%BD14%E5%B0%8F%E6%97%B6%E5%86%85%E5%A4%A7%E8%BD%AC%E5%BC%AF%23" target="weibo">
 锦州疫情防控措施14小时内大转弯（热度：827512）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E5%8F%96%E6%B6%88%E5%B8%B8%E6%80%81%E5%8C%96%E6%A0%B8%E9%85%B8%E7%B3%BB%E8%B0%A3%E8%A8%80%23" target="weibo">
-深圳取消常态化核酸系谣言（热度：826375）
 </a>
 </li>
 
