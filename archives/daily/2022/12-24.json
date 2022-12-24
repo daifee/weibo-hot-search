@@ -1,6 +1,6 @@
 {
   "startTime": 1671812678291,
-  "endTime": 1671877075377,
+  "endTime": 1671877990145,
   "band_list": [
     {
       "raw_hot": 5095182,
@@ -83,6 +83,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1792160,
+      "num": 1792160,
+      "word": "康复后二次感染比例有多高",
+      "onboard_time": 1671872431,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1734823,
       "num": 1734823,
       "word": "转阴后还需要一直戴口罩吗",
@@ -91,16 +99,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1705054,
-      "num": 1705054,
-      "word": "康复后二次感染比例有多高",
-      "onboard_time": 1671872431,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1465587,
-      "num": 1465587,
+      "raw_hot": 1587006,
+      "num": 1587006,
       "word": "英语二 威廉",
       "onboard_time": 1671874474,
       "rank": 5,
@@ -129,6 +129,14 @@
       "onboard_time": 1671853049,
       "rank": 6,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 1218762,
+      "num": 1218762,
+      "word": "圆通延误致1400元药损坏只赔10元",
+      "onboard_time": 1671873995,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1202534,
@@ -211,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 999232,
+      "num": 999232,
+      "word": "香港与内地争取明年1月中前通关",
+      "onboard_time": 1671874834,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 985400,
       "num": 985400,
       "word": "发烧时要少吃高蛋白食物",
@@ -225,14 +241,6 @@
       "onboard_time": 1671870029,
       "rank": 44,
       "category": "科技"
-    },
-    {
-      "raw_hot": 934888,
-      "num": 934888,
-      "word": "圆通延误致1400元药损坏只赔10元",
-      "onboard_time": 1671873995,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 923032,
@@ -255,14 +263,6 @@
       "num": 899853,
       "word": "著名药学家蒋华良逝世终年57岁",
       "onboard_time": 1671847827,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 885409,
-      "num": 885409,
-      "word": "香港与内地争取明年1月中前通关",
-      "onboard_time": 1671874834,
       "rank": 10,
       "category": "社会新闻"
     },
@@ -363,20 +363,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 725311,
+      "num": 725311,
+      "word": "平安夜",
+      "onboard_time": 1671837737,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
       "raw_hot": 716307,
       "num": 716307,
       "word": "徐涛",
       "onboard_time": 1671856051,
       "rank": 22,
       "category": "教育"
-    },
-    {
-      "raw_hot": 684650,
-      "num": 684650,
-      "word": "平安夜",
-      "onboard_time": 1671837737,
-      "rank": 16,
-      "category": "情感"
     },
     {
       "raw_hot": 676581,
@@ -443,20 +443,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 605078,
+      "num": 605078,
+      "word": "英语二答案",
+      "onboard_time": 1671874354,
+      "rank": 26,
+      "category": "教育"
+    },
+    {
       "raw_hot": 590462,
       "num": 393762,
       "word": "蔡根花宝贝好吓人",
       "onboard_time": 1671871168,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 577168,
-      "num": 577168,
-      "word": "英语二答案",
-      "onboard_time": 1671874354,
-      "rank": 26,
-      "category": "教育"
     },
     {
       "raw_hot": 576824,
@@ -571,6 +571,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 446023,
+      "num": 446023,
+      "word": "ive红毯",
+      "onboard_time": 1671877351,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 442066,
       "num": 379616,
       "word": "aespaSBS歌谣大战红毯生图",
@@ -635,6 +643,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 426595,
+      "num": 426595,
+      "word": "考研英语一答案",
+      "onboard_time": 1671876754,
+      "rank": 22,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 425790,
+      "num": 425790,
+      "word": "父母阳了戴装备和女儿同桌打麻将",
+      "onboard_time": 1671874653,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 424874,
       "num": 424874,
       "word": "佘诗曼说董佳尔淳回来了",
@@ -667,20 +691,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 370554,
-      "num": 370554,
-      "word": "考研英语一答案",
-      "onboard_time": 1671876754,
-      "rank": 22,
-      "category": "教育"
-    },
-    {
       "raw_hot": 364756,
       "num": 364756,
       "word": "宋雨琦白色花苞裙小鹿造型",
       "onboard_time": 1671876334,
       "rank": 23,
       "category": "音乐,时尚"
+    },
+    {
+      "raw_hot": 353041,
+      "num": 353041,
+      "word": "美国数千名囚犯被当成医学实验对象",
+      "onboard_time": 1671874234,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 345004,
@@ -697,6 +721,14 @@
       "onboard_time": 1671872851,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 339596,
+      "num": 273484,
+      "word": "马哲理论是懂考研的",
+      "onboard_time": 1671874115,
+      "rank": 47,
+      "category": "教育,幽默"
     },
     {
       "raw_hot": 339333,
@@ -811,14 +843,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 306442,
-      "num": 306442,
-      "word": "父母阳了戴装备和女儿同桌打麻将",
-      "onboard_time": 1671874653,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 303958,
       "num": 303958,
       "word": "李宇春说听房猫的歌一下子共情了",
@@ -923,14 +947,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 262495,
-      "num": 262495,
-      "word": "马哲理论是懂考研的",
-      "onboard_time": 1671874115,
-      "rank": 47,
-      "category": "教育,幽默"
-    },
-    {
       "raw_hot": 258450,
       "num": 258450,
       "word": "东北一小伙靠一条视频赚了100万",
@@ -961,6 +977,14 @@
       "onboard_time": 1671867089,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 253108,
+      "num": 253108,
+      "word": "TXTSBS歌谣大战红毯生图",
+      "onboard_time": 1671877174,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 248166,
@@ -1016,14 +1040,6 @@
       "word": "公婆早起为上班儿媳铲过膝雪开路",
       "onboard_time": 1671846206,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 233900,
-      "num": 233900,
-      "word": "美国数千名囚犯被当成医学实验对象",
-      "onboard_time": 1671874234,
-      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -1364,7 +1380,7 @@
     },
     {
       "raw_hot": 167433,
-      "num": 167433,
+      "num": 182816,
       "word": "次氯酸消毒剂是智商税吗",
       "onboard_time": 1671871949,
       "rank": 37,
@@ -1411,6 +1427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 158335,
+      "num": 182995,
+      "word": "新疆村民屋顶打雪如瀑布倾泻而下",
+      "onboard_time": 1671876393,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158151,
       "num": 112419,
       "word": "让红包飞",
@@ -1420,7 +1444,7 @@
     },
     {
       "raw_hot": 157816,
-      "num": 157816,
+      "num": 182322,
       "word": "英语作文",
       "onboard_time": 1671874115,
       "rank": 44,
@@ -1456,14 +1480,6 @@
       "word": "元旦春节返乡如何防护",
       "onboard_time": 1671862468,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 154842,
-      "num": 154842,
-      "word": "新疆村民屋顶打雪如瀑布倾泻而下",
-      "onboard_time": 1671876393,
-      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -1596,7 +1612,7 @@
     },
     {
       "raw_hot": 144016,
-      "num": 144016,
+      "num": 182678,
       "word": "狗和大叔在夸奖中迷失自我",
       "onboard_time": 1671871228,
       "rank": 43,
@@ -1912,6 +1928,14 @@
       "word": "阳康后该如何避免再感染",
       "onboard_time": 1671794850,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 85745,
+      "num": 182249,
+      "word": "2岁娃向电动车充电口塞硬币",
+      "onboard_time": 1671877952,
+      "rank": 49,
       "category": "社会新闻"
     },
     {

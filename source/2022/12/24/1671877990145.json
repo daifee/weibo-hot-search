@@ -1,0 +1,410 @@
+{
+  "runTime": 1671877990145,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3811480,
+        "num": 3811480,
+        "word": "英语一 难",
+        "onboard_time": 1671873094,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 3445005,
+        "num": 3445005,
+        "word": "不懂内娱到底在高贵什么",
+        "onboard_time": 1671873094,
+        "rank": 1,
+        "category": "综艺,幽默"
+      },
+      {
+        "raw_hot": 149131,
+        "num": 2086926,
+        "word": "元旦春节返乡如何防护",
+        "onboard_time": 1671862468,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1792160,
+        "num": 1792160,
+        "word": "康复后二次感染比例有多高",
+        "onboard_time": 1671872431,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1615716,
+        "num": 1615716,
+        "word": "英语二",
+        "onboard_time": 1671873094,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1587006,
+        "num": 1587006,
+        "word": "英语二 威廉",
+        "onboard_time": 1671874474,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1473571,
+        "num": 1473571,
+        "word": "春晚",
+        "onboard_time": 1671868407,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1218762,
+        "num": 1218762,
+        "word": "圆通延误致1400元药损坏只赔10元",
+        "onboard_time": 1671873995,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 999232,
+        "num": 999232,
+        "word": "香港与内地争取明年1月中前通关",
+        "onboard_time": 1671874834,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 812898,
+        "num": 812898,
+        "word": "考研英语答案",
+        "onboard_time": 1671873514,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 893880,
+        "num": 806116,
+        "word": "女子给邻居赠药因头晕延误被踹门辱骂",
+        "onboard_time": 1671863906,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 725311,
+        "num": 725311,
+        "word": "平安夜",
+        "onboard_time": 1671876211,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 605078,
+        "num": 605078,
+        "word": "英语二答案",
+        "onboard_time": 1671874354,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 598235,
+        "num": 598235,
+        "word": "考研英语70分意味着什么",
+        "onboard_time": 1671867868,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 527781,
+        "num": 527781,
+        "word": "唐嫣cos佟湘玉",
+        "onboard_time": 1671872912,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 496484,
+        "num": 496484,
+        "word": "县委书记倒卖防疫物资出镜忏悔",
+        "onboard_time": 1671870446,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 467166,
+        "num": 467166,
+        "word": "黄牛在医院门前倒卖布洛芬1瓶3000元",
+        "onboard_time": 1671870328,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 446023,
+        "num": 446023,
+        "word": "ive红毯",
+        "onboard_time": 1671877351,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 440585,
+        "num": 440585,
+        "word": "梅婷回复刘琳美甲只美绿指甲",
+        "onboard_time": 1671870808,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 426595,
+        "num": 426595,
+        "word": "考研英语一答案",
+        "onboard_time": 1671876754,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 425790,
+        "num": 425790,
+        "word": "父母阳了戴装备和女儿同桌打麻将",
+        "onboard_time": 1671874653,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 366311,
+        "num": 366311,
+        "word": "感染后体内抗体能维持多久",
+        "onboard_time": 1671869787,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 360326,
+        "num": 360326,
+        "word": "宋雨琦白色花苞裙小鹿造型",
+        "onboard_time": 1671876334,
+        "rank": 22,
+        "category": "音乐,时尚"
+      },
+      {
+        "raw_hot": 353041,
+        "num": 353041,
+        "word": "美国数千名囚犯被当成医学实验对象",
+        "onboard_time": 1671874234,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 332744,
+        "num": 332744,
+        "word": "今年考研人数比去年多17万",
+        "onboard_time": 1671862226,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 329508,
+        "num": 329508,
+        "word": "SBS歌谣大战",
+        "onboard_time": 1671859290,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 299475,
+        "num": 299475,
+        "word": "考研英语",
+        "onboard_time": 1671854972,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 297604,
+        "num": 297604,
+        "word": "好丽友回应关闭天猫旗舰店",
+        "onboard_time": 1671870029,
+        "rank": 27,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 287915,
+        "num": 287915,
+        "word": "aespaSBS歌谣大战红毯生图",
+        "onboard_time": 1671873451,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 277113,
+        "num": 277113,
+        "word": "蔡根花宝贝好吓人",
+        "onboard_time": 1671871168,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 339596,
+        "num": 273484,
+        "word": "马哲理论是懂考研的",
+        "onboard_time": 1671874115,
+        "rank": 30,
+        "category": "教育,幽默"
+      },
+      {
+        "raw_hot": 259356,
+        "num": 259356,
+        "word": "86版西游记太上老君扮演者郑榕去世",
+        "onboard_time": 1671870866,
+        "rank": 31,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 253108,
+        "num": 253108,
+        "word": "TXTSBS歌谣大战红毯生图",
+        "onboard_time": 1671877174,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 248367,
+        "num": 248367,
+        "word": "绿指甲",
+        "onboard_time": 1671872188,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 246405,
+        "num": 246405,
+        "word": "梅西身价",
+        "onboard_time": 1671859171,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 246380,
+        "num": 246380,
+        "word": "转阴后咳嗽要多久才能恢复",
+        "onboard_time": 1671848187,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245968,
+        "num": 245968,
+        "word": "孔雪儿乔欣张婧仪圣诞营业照",
+        "onboard_time": 1671873755,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238440,
+        "num": 238440,
+        "word": "新冠咳嗽不止痰中带血怎么办",
+        "onboard_time": 1671859108,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235055,
+        "num": 235055,
+        "word": "阴了身体就痊愈了吗",
+        "onboard_time": 1671863729,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223545,
+        "num": 223545,
+        "word": "考研政治",
+        "onboard_time": 1671852030,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 223934,
+        "num": 219069,
+        "word": "袁娅维演出取消",
+        "onboard_time": 1671868105,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 206728,
+        "num": 206728,
+        "word": "想见你",
+        "onboard_time": 1671851010,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 184086,
+        "num": 184086,
+        "word": "美国的险恶用心中国人民看得很清楚",
+        "onboard_time": 1671861207,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183126,
+        "num": 183126,
+        "word": "和Hero交换特别礼物吧",
+        "onboard_time": 1671875253,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 158335,
+        "num": 182995,
+        "word": "新疆村民屋顶打雪如瀑布倾泻而下",
+        "onboard_time": 1671876393,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152224,
+        "num": 182816,
+        "word": "次氯酸消毒剂是智商税吗",
+        "onboard_time": 1671871949,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120477,
+        "num": 182678,
+        "word": "狗和大叔在夸奖中迷失自我",
+        "onboard_time": 1671871228,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 117724,
+        "num": 182489,
+        "word": "考研时间",
+        "onboard_time": 1671872369,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 113335,
+        "num": 182322,
+        "word": "英语作文",
+        "onboard_time": 1671874115,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 85745,
+        "num": 182249,
+        "word": "2岁娃向电动车充电口塞硬币",
+        "onboard_time": 1671877952,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见来京述职的李家超#"
+    }
+  }
+}
