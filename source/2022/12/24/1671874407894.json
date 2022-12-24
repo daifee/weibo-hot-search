@@ -1,0 +1,410 @@
+{
+  "runTime": 1671874407894,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5095182,
+        "num": 5095182,
+        "word": "英语一 难",
+        "onboard_time": 1671873094,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 2574151,
+        "num": 2574151,
+        "word": "英语二",
+        "onboard_time": 1671873094,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 113949,
+        "num": 2438738,
+        "word": "元旦春节返乡如何防护",
+        "onboard_time": 1671862468,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2361826,
+        "num": 2361826,
+        "word": "考研英语",
+        "onboard_time": 1671854972,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 2358493,
+        "num": 2358493,
+        "word": "不懂内娱到底在高贵什么",
+        "onboard_time": 1671873094,
+        "rank": 4,
+        "category": "综艺,幽默"
+      },
+      {
+        "raw_hot": 1774891,
+        "num": 1774891,
+        "word": "考研英语70分意味着什么",
+        "onboard_time": 1671867868,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1454491,
+        "num": 1454491,
+        "word": "春晚",
+        "onboard_time": 1671868407,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1102735,
+        "num": 1102735,
+        "word": "梅婷回复刘琳美甲只美绿指甲",
+        "onboard_time": 1671870808,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 979185,
+        "num": 979185,
+        "word": "考研英语答案",
+        "onboard_time": 1671873514,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 873881,
+        "num": 873881,
+        "word": "黄牛在医院门前倒卖布洛芬1瓶3000元",
+        "onboard_time": 1671870328,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1128619,
+        "num": 869120,
+        "word": "女子给邻居赠药因头晕延误被踹门辱骂",
+        "onboard_time": 1671863906,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 844671,
+        "num": 844671,
+        "word": "好丽友回应关闭天猫旗舰店",
+        "onboard_time": 1671870029,
+        "rank": 11,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 844342,
+        "num": 844342,
+        "word": "康复后二次感染比例有多高",
+        "onboard_time": 1671872431,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 785675,
+        "num": 785675,
+        "word": "感染后体内抗体能维持多久",
+        "onboard_time": 1671869787,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 760941,
+        "num": 760941,
+        "word": "县委书记倒卖防疫物资出镜忏悔",
+        "onboard_time": 1671870446,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 733135,
+        "num": 733135,
+        "word": "孔雪儿乔欣张婧仪圣诞营业照",
+        "onboard_time": 1671873755,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 634325,
+        "num": 634325,
+        "word": "86版西游记太上老君扮演者郑榕去世",
+        "onboard_time": 1671870866,
+        "rank": 16,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 617002,
+        "num": 617002,
+        "word": "唐嫣cos佟湘玉",
+        "onboard_time": 1671872912,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 566188,
+        "num": 566188,
+        "word": "转阴后咳嗽要多久才能恢复",
+        "onboard_time": 1671848187,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 390996,
+        "num": 390996,
+        "word": "今年考研人数比去年多17万",
+        "onboard_time": 1671862226,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 590462,
+        "num": 390288,
+        "word": "蔡根花宝贝好吓人",
+        "onboard_time": 1671871168,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 442066,
+        "num": 379616,
+        "word": "aespaSBS歌谣大战红毯生图",
+        "onboard_time": 1671873451,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 335737,
+        "num": 335737,
+        "word": "新冠咳嗽不止痰中带血怎么办",
+        "onboard_time": 1671859108,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309636,
+        "num": 309636,
+        "word": "美国的险恶用心中国人民看得很清楚",
+        "onboard_time": 1671861207,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307081,
+        "num": 307081,
+        "word": "生个病生成了那英",
+        "onboard_time": 1671861868,
+        "rank": 24,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 305157,
+        "num": 305157,
+        "word": "梅西身价",
+        "onboard_time": 1671859171,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 247735,
+        "num": 247735,
+        "word": "英语二答案",
+        "onboard_time": 1671874354,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 220871,
+        "num": 220871,
+        "word": "考研政治",
+        "onboard_time": 1671852030,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 209943,
+        "num": 209943,
+        "word": "阴了身体就痊愈了吗",
+        "onboard_time": 1671863729,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207689,
+        "num": 207689,
+        "word": "男子投诉快递员以阳了为由拒配送",
+        "onboard_time": 1671865347,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306501,
+        "num": 205017,
+        "word": "SBS歌谣大战",
+        "onboard_time": 1671859290,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 259848,
+        "num": 201210,
+        "word": "绿指甲",
+        "onboard_time": 1671872188,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 268589,
+        "num": 200170,
+        "word": "SBS歌谣大战节目单",
+        "onboard_time": 1671866608,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 255039,
+        "num": 196491,
+        "word": "袁娅维演出取消",
+        "onboard_time": 1671868105,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 194287,
+        "num": 194287,
+        "word": "考研时间",
+        "onboard_time": 1671872369,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 197188,
+        "num": 190786,
+        "word": "好丽友曾涉价格配料双标争议",
+        "onboard_time": 1671873814,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182672,
+        "num": 182672,
+        "word": "男子说邻居家雪人不像阳间东西",
+        "onboard_time": 1671859891,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179355,
+        "num": 179355,
+        "word": "司机把男孩落湖南到广东才发觉",
+        "onboard_time": 1671865827,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174546,
+        "num": 174546,
+        "word": "政治选择 难",
+        "onboard_time": 1671856832,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 165435,
+        "num": 165435,
+        "word": "圆通延误致1400元药损坏只赔10元",
+        "onboard_time": 1671873995,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251685,
+        "num": 164827,
+        "word": "想见你",
+        "onboard_time": 1671851010,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 225122,
+        "num": 164599,
+        "word": "陈佑希被电击",
+        "onboard_time": 1671868766,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 161485,
+        "num": 161485,
+        "word": "次氯酸消毒剂是智商税吗",
+        "onboard_time": 1671871949,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155904,
+        "num": 157542,
+        "word": "这只小鸟给自己盖了一座花园洋房",
+        "onboard_time": 1671867089,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156305,
+        "num": 156305,
+        "word": "英语作文",
+        "onboard_time": 1671874115,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 149386,
+        "num": 149386,
+        "word": "老人应闭门不出谢绝访客",
+        "onboard_time": 1671868766,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148416,
+        "num": 148416,
+        "word": "恋爱1个月女友瘫痪男友照顾她30年",
+        "onboard_time": 1671852632,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143851,
+        "num": 143851,
+        "word": "马哲理论是懂考研的",
+        "onboard_time": 1671874115,
+        "rank": 47,
+        "category": "教育,幽默"
+      },
+      {
+        "raw_hot": 142946,
+        "num": 142946,
+        "word": "普及儿童的安全意识有多重要",
+        "onboard_time": 1671873514,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142656,
+        "num": 142656,
+        "word": "狗和大叔在夸奖中迷失自我",
+        "onboard_time": 1671871228,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#纵览2022那些国之重器#"
+    }
+  }
+}
