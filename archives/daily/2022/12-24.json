@@ -1,6 +1,6 @@
 {
   "startTime": 1671812678291,
-  "endTime": 1671891282663,
+  "endTime": 1671892419425,
   "band_list": [
     {
       "raw_hot": 5095182,
@@ -115,6 +115,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1746195,
+      "num": 1746195,
+      "word": "肺炎",
+      "onboard_time": 1671891212,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1734823,
       "num": 1734823,
       "word": "转阴后还需要一直戴口罩吗",
@@ -171,6 +179,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 1238256,
+      "num": 1238256,
+      "word": "沈月说自己上不了台面",
+      "onboard_time": 1671888932,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1218762,
       "num": 1218762,
       "word": "圆通延误致1400元药损坏只赔10元",
@@ -193,14 +209,6 @@
       "onboard_time": 1671837376,
       "rank": 6,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1126914,
-      "num": 1126914,
-      "word": "沈月说自己上不了台面",
-      "onboard_time": 1671888932,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 1115263,
@@ -475,6 +483,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 701795,
+      "num": 669196,
+      "word": "李彩领",
+      "onboard_time": 1671891212,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 695192,
+      "num": 695192,
+      "word": "羽生结弦",
+      "onboard_time": 1671888634,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 691111,
       "num": 653032,
       "word": "王鹤棣九尾直播",
@@ -505,14 +529,6 @@
       "onboard_time": 1671859891,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 674139,
-      "num": 674139,
-      "word": "羽生结弦",
-      "onboard_time": 1671888634,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 660290,
@@ -683,14 +699,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 516029,
-      "num": 324397,
-      "word": "李彩领",
-      "onboard_time": 1671891212,
-      "rank": 23,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 507216,
       "num": 507216,
       "word": "男子投诉快递员以阳了为由拒配送",
@@ -795,6 +803,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 459753,
+      "num": 459753,
+      "word": "宝宝凌晨惊厥抽搐宝妈无助大哭",
+      "onboard_time": 1671889174,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 458132,
       "num": 458132,
       "word": "社区回应下意识逃走的卖橘男称没低保一事",
@@ -896,14 +912,6 @@
       "word": "司机把男孩落湖南到广东才发觉",
       "onboard_time": 1671865827,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 428049,
-      "num": 428049,
-      "word": "宝宝凌晨惊厥抽搐宝妈无助大哭",
-      "onboard_time": 1671889174,
-      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -1035,12 +1043,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 347840,
+      "num": 198205,
+      "word": "NewJeans的dancebreak",
+      "onboard_time": 1671891752,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 345004,
       "num": 345004,
       "word": "6岁娃40度高烧流利背诵滕王阁序",
       "onboard_time": 1671810446,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 342130,
+      "num": 342130,
+      "word": "阴性老公向媳妇抱怨申请罢工",
+      "onboard_time": 1671890251,
+      "rank": 28,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 340213,
@@ -1571,14 +1595,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 214104,
-      "num": 214104,
-      "word": "阴性老公向媳妇抱怨申请罢工",
-      "onboard_time": 1671890251,
-      "rank": 28,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 212383,
       "num": 212383,
       "word": "男子自以为阳了约朋友喝酒杀毒",
@@ -1641,14 +1657,6 @@
       "onboard_time": 1671805051,
       "rank": 15,
       "category": "教育"
-    },
-    {
-      "raw_hot": 205508,
-      "num": 205508,
-      "word": "肺炎",
-      "onboard_time": 1671891212,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 204791,
@@ -1899,6 +1907,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 166133,
+      "num": 166133,
+      "word": "这只狗狗走路有点费脸",
+      "onboard_time": 1671890913,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 164864,
       "num": 164864,
       "word": "王凯谭松韵向风而行定档1226",
@@ -2123,14 +2139,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 145231,
-      "num": 145231,
-      "word": "这只狗狗走路有点费脸",
-      "onboard_time": 1671890913,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 144925,
       "num": 126133,
       "word": "男子卖橘子下意识反应令人心疼",
@@ -2275,6 +2283,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 126821,
+      "num": 1439234,
+      "word": "全球首架C919自12月26日起验证飞行",
+      "onboard_time": 1671890373,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 126718,
       "num": 126718,
       "word": "美国不能一边谈合作一边捅刀子",
@@ -2305,6 +2321,14 @@
       "onboard_time": 1671853893,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 124046,
+      "num": 124046,
+      "word": "二哈跑到邻居家炫光一盘鱿鱼",
+      "onboard_time": 1671892292,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 123150,
@@ -2489,14 +2513,6 @@
       "onboard_time": 1671844826,
       "rank": 49,
       "category": "其它"
-    },
-    {
-      "raw_hot": 81489,
-      "num": 1294413,
-      "word": "全球首架C919自12月26日起验证飞行",
-      "onboard_time": 1671890373,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 74912,
