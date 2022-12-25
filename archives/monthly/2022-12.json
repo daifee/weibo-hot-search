@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1672000413852,
+  "endTime": 1672002900838,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -58515,6 +58515,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 36456,
+      "num": 36456,
+      "word": "北京部分医院发热门诊现状",
+      "onboard_time": 1672000213,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36455,
       "num": 162488,
       "word": "你的车有表情包吗",
@@ -58569,6 +58577,14 @@
       "onboard_time": 1671692432,
       "rank": 14,
       "category": "影视,美食"
+    },
+    {
+      "raw_hot": 34118,
+      "num": 34118,
+      "word": "你身边还有多少人没感染",
+      "onboard_time": 1671999911,
+      "rank": 46,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 34071,
@@ -58897,14 +58913,6 @@
       "onboard_time": 1671485292,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 13939,
-      "num": 13939,
-      "word": "你身边还有多少人没感染",
-      "onboard_time": 1671999911,
-      "rank": 46,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 13504,
