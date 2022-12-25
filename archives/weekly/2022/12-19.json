@@ -1,6 +1,6 @@
 {
   "startTime": 1671380618877,
-  "endTime": 1671981435735,
+  "endTime": 1671982402168,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -2099,6 +2099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 932364,
+      "num": 932364,
+      "word": "男子为节省抗原将试纸剪开分两次用",
+      "onboard_time": 1671977912,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 931473,
       "num": 871781,
       "word": "NewJeans新歌DittoMV",
@@ -2195,14 +2203,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 903495,
-      "num": 903495,
-      "word": "男子为节省抗原将试纸剪开分两次用",
-      "onboard_time": 1671977912,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 899853,
       "num": 899853,
       "word": "著名药学家蒋华良逝世终年57岁",
@@ -2225,6 +2225,14 @@
       "onboard_time": 1671539252,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 890615,
+      "num": 890615,
+      "word": "阳过后你有心肌炎症状吗",
+      "onboard_time": 1671980010,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 889609,
@@ -2795,6 +2803,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 752148,
+      "num": 752148,
+      "word": "就当是一场梦 醒来还是很感动",
+      "onboard_time": 1671980905,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 748434,
       "num": 748434,
       "word": "姆巴佩中场演讲激励队友",
@@ -3001,6 +3017,14 @@
       "onboard_time": 1671445890,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 724538,
+      "num": 495471,
+      "word": "王铮亮和他五个没上过春晚的兄弟",
+      "onboard_time": 1671980190,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 724095,
@@ -3627,14 +3651,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 641314,
-      "num": 495471,
-      "word": "王铮亮和他五个没上过春晚的兄弟",
-      "onboard_time": 1671980190,
-      "rank": 13,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 634213,
       "num": 634213,
       "word": "医院准备好迎接疫情冲击了吗",
@@ -3721,6 +3737,14 @@
       "onboard_time": 1671872912,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 615046,
+      "num": 615046,
+      "word": "阳了以后洗澡时间一定要短",
+      "onboard_time": 1671978509,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 612387,
@@ -3848,14 +3872,6 @@
       "word": "杭州警方通报女子送药被踹门",
       "onboard_time": 1671978330,
       "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 597662,
-      "num": 473251,
-      "word": "阳过后你有心肌炎症状吗",
-      "onboard_time": 1671980010,
-      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -3993,14 +4009,6 @@
       "onboard_time": 1671629734,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 578487,
-      "num": 578487,
-      "word": "阳了以后洗澡时间一定要短",
-      "onboard_time": 1671978509,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 576502,
@@ -5691,14 +5699,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 423052,
-      "num": 343764,
-      "word": "就当是一场梦 醒来还是很感动",
-      "onboard_time": 1671980905,
-      "rank": 21,
-      "category": "影视"
-    },
-    {
       "raw_hot": 422246,
       "num": 320594,
       "word": "minji声音",
@@ -5785,6 +5785,14 @@
       "onboard_time": 1671677072,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 416683,
+      "num": 270034,
+      "word": "快乐再出发2豆瓣开分9.3",
+      "onboard_time": 1671981748,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 416354,
@@ -8619,6 +8627,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 277479,
+      "num": 168230,
+      "word": "春晚彩排有你想看到的艺人吗",
+      "onboard_time": 1671981807,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 277477,
       "num": 277477,
       "word": "王一博滑板运动推广大使VCR",
@@ -10713,6 +10729,14 @@
       "onboard_time": 1671945152,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 209890,
+      "num": 485234,
+      "word": "新冠感染情况问卷调查",
+      "onboard_time": 1671417931,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 209772,
@@ -12897,14 +12921,6 @@
       "onboard_time": 1671793052,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 170155,
-      "num": 485234,
-      "word": "新冠感染情况问卷调查",
-      "onboard_time": 1671417931,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 169942,
@@ -16211,6 +16227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 111566,
+      "num": 111566,
+      "word": "有基础病人群阳后要注意什么",
+      "onboard_time": 1671981748,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 111382,
       "num": 111382,
       "word": "崂山雪景太绝了",
@@ -16795,6 +16819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 97668,
+      "num": 97668,
+      "word": "花楼哭了",
+      "onboard_time": 1671981688,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 97425,
       "num": 97425,
       "word": "李白来到世冠舞台",
@@ -16907,6 +16939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 91052,
+      "num": 91052,
+      "word": "医院回应挂喜报祝贺急诊人次破200万",
+      "onboard_time": 1671982349,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 90832,
       "num": 90832,
       "word": "空军首批双学籍女飞学员完成单飞",
@@ -16915,12 +16955,36 @@
       "category": "军事"
     },
     {
+      "raw_hot": 90394,
+      "num": 90394,
+      "word": "从表情可以看出猫咪很烦了",
+      "onboard_time": 1671982108,
+      "rank": 47,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 90095,
+      "num": 90095,
+      "word": "圣诞当然不能少了甜品",
+      "onboard_time": 1671982349,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 89582,
       "num": 89582,
       "word": "驴友进山看夜景被困1500米雪山",
       "onboard_time": 1671788010,
       "rank": 49,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 89576,
+      "num": 89576,
+      "word": "还以为看到大猩猩了",
+      "onboard_time": 1671981508,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 88351,
