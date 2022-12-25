@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1671995635895,
+  "endTime": 1671996780662,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -58603,6 +58603,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 32888,
+      "num": 32888,
+      "word": "新冠疫情冲击波抵达三四线城市",
+      "onboard_time": 1671994813,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32360,
       "num": 1405483,
       "word": "源力使者 聚光向前",
@@ -58811,20 +58819,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 18873,
+      "num": 24878,
+      "word": "一起回顾考研这一年",
+      "onboard_time": 1671992714,
+      "rank": 49,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 18602,
       "num": 20033,
       "word": "仙侠剧特效能有多精致",
       "onboard_time": 1671818116,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 18249,
-      "num": 24878,
-      "word": "一起回顾考研这一年",
-      "onboard_time": 1671992714,
-      "rank": 49,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 18164,
@@ -58841,14 +58849,6 @@
       "onboard_time": 1671738132,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 17609,
-      "num": 17609,
-      "word": "新冠疫情冲击波抵达三四线城市",
-      "onboard_time": 1671994813,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 16700,
@@ -58881,6 +58881,14 @@
       "onboard_time": 1671834494,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 14852,
+      "num": 14852,
+      "word": "原神3.3版本",
+      "onboard_time": 1671995772,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 14313,
