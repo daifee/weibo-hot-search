@@ -1,6 +1,6 @@
 {
   "startTime": 1671380618877,
-  "endTime": 1671960802568,
+  "endTime": 1671963489596,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -1003,6 +1003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1413947,
+      "num": 478833,
+      "word": "男孩阳性5天没发烧突然抽搐不停",
+      "onboard_time": 1671961530,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1401020,
       "num": 1401020,
       "word": "龚俊感染新冠已康复",
@@ -1025,6 +1033,14 @@
       "onboard_time": 1671936151,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1381077,
+      "num": 1381077,
+      "word": "408",
+      "onboard_time": 1671960810,
+      "rank": 1,
+      "category": "教育"
     },
     {
       "raw_hot": 1372735,
@@ -1057,6 +1073,14 @@
       "onboard_time": 1671615751,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1341239,
+      "num": 1341239,
+      "word": "在考一种很新的研",
+      "onboard_time": 1671960030,
+      "rank": 13,
+      "category": "教育"
     },
     {
       "raw_hot": 1332402,
@@ -1401,6 +1425,14 @@
       "onboard_time": 1671590008,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1160333,
+      "num": 1160333,
+      "word": "主持人涂磊自爆感染新冠经历",
+      "onboard_time": 1671957388,
+      "rank": 10,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1158453,
@@ -2721,14 +2753,6 @@
       "onboard_time": 1671846266,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 741018,
-      "num": 741018,
-      "word": "主持人涂磊自爆感染新冠经历",
-      "onboard_time": 1671957388,
-      "rank": 10,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 738256,
@@ -4163,6 +4187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 528738,
+      "num": 471589,
+      "word": "赵丽颖百花迎春上班路透图",
+      "onboard_time": 1671962370,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 528563,
       "num": 528563,
       "word": "退烧药紧缺有望元旦前缓解",
@@ -4435,6 +4467,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 499227,
+      "num": 466695,
+      "word": "男子高烧发视频被多个殡葬商家关注",
+      "onboard_time": 1671961950,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 498567,
       "num": 498567,
       "word": "马化腾称腾讯内部贪腐问题触目惊心",
@@ -4561,6 +4601,14 @@
       "onboard_time": 1671771149,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 488241,
+      "num": 488241,
+      "word": "好像理解宛瑜要的自由了",
+      "onboard_time": 1671961589,
+      "rank": 9,
+      "category": "情感"
     },
     {
       "raw_hot": 487755,
@@ -5379,6 +5427,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 421926,
+      "num": 421926,
+      "word": "王一博新歌落雨版预告海报",
+      "onboard_time": 1671960866,
+      "rank": 14,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 421820,
       "num": 421820,
       "word": "医护哑到几乎失声暖心病人安慰慢慢说",
@@ -5505,14 +5561,6 @@
       "onboard_time": 1671708813,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 411966,
-      "num": 411966,
-      "word": "在考一种很新的研",
-      "onboard_time": 1671960030,
-      "rank": 13,
-      "category": "教育"
     },
     {
       "raw_hot": 411777,
@@ -6131,6 +6179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 362914,
+      "num": 294910,
+      "word": "朱一龙文咏珊消失的她演夫妻",
+      "onboard_time": 1671961167,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 362302,
       "num": 362302,
       "word": "何洛洛成功追星张杰",
@@ -6675,6 +6731,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 340923,
+      "num": 286960,
+      "word": "徐志胜一直插不进袖子的手",
+      "onboard_time": 1671961409,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 340213,
       "num": 340213,
       "word": "我们的客栈全员古装造型路透",
@@ -6745,6 +6809,14 @@
       "onboard_time": 1671677192,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 337624,
+      "num": 286728,
+      "word": "Last Christmas",
+      "onboard_time": 1671962911,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 336927,
@@ -7457,6 +7529,14 @@
       "onboard_time": 1671679950,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 302050,
+      "num": 302050,
+      "word": "考研结束后最想干什么",
+      "onboard_time": 1671960388,
+      "rank": 27,
+      "category": "教育"
     },
     {
       "raw_hot": 301764,
@@ -8251,6 +8331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 271718,
+      "num": 271718,
+      "word": "河南一景区人山人海水泄不通",
+      "onboard_time": 1671962610,
+      "rank": 23,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 271660,
       "num": 271660,
       "word": "狗狗的饭没有一口是白吃的",
@@ -8499,6 +8587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 263127,
+      "num": 263127,
+      "word": "重庆9岁男孩一把抱住晕倒的妈妈",
+      "onboard_time": 1671960570,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 263095,
       "num": 263095,
       "word": "浮图缘连更17天",
@@ -8609,6 +8705,14 @@
       "onboard_time": 1671751940,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 258587,
+      "num": 207536,
+      "word": "刘耀文 红卡",
+      "onboard_time": 1671963093,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 258327,
@@ -9507,6 +9611,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 225963,
+      "num": 205409,
+      "word": "我爸的假发和女人的友情",
+      "onboard_time": 1671962668,
+      "rank": 31,
+      "category": "网红"
+    },
+    {
       "raw_hot": 225325,
       "num": 195303,
       "word": "吴彤说要给时代少年团做荒岛求生",
@@ -9553,6 +9665,14 @@
       "onboard_time": 1671507749,
       "rank": 30,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 224189,
+      "num": 224189,
+      "word": "wbg线下派对",
+      "onboard_time": 1671961890,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 223928,
@@ -10025,6 +10145,14 @@
       "onboard_time": 1671413674,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 210575,
+      "num": 204347,
+      "word": "白鹿以爱为营上班戴鹿角耳罩",
+      "onboard_time": 1671961409,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 210440,
@@ -10531,6 +10659,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 198419,
+      "num": 198419,
+      "word": "高难度喝水的小猫",
+      "onboard_time": 1671959970,
+      "rank": 37,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 198302,
       "num": 198302,
       "word": "你好昨天的郭富成",
@@ -10931,6 +11067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 191588,
+      "num": 164836,
+      "word": "回来的女儿没有一天是不致郁的",
+      "onboard_time": 1671963450,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 191494,
       "num": 191494,
       "word": "少年歌行",
@@ -11033,14 +11177,6 @@
       "onboard_time": 1671508891,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 189331,
-      "num": 189331,
-      "word": "考研结束后最想干什么",
-      "onboard_time": 1671960388,
-      "rank": 27,
-      "category": "教育"
     },
     {
       "raw_hot": 189192,
@@ -11177,6 +11313,14 @@
       "onboard_time": 1671728060,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 186763,
+      "num": 167344,
+      "word": "梁洁文联春晚录制上班路透",
+      "onboard_time": 1671961950,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 186666,
@@ -11769,6 +11913,14 @@
       "onboard_time": 1671941911,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 176250,
+      "num": 176250,
+      "word": "新华社评出2022年中国十佳运动员",
+      "onboard_time": 1671961650,
+      "rank": 37,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 175905,
@@ -12979,6 +13131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 157168,
+      "num": 157168,
+      "word": "考研答案",
+      "onboard_time": 1671963271,
+      "rank": 43,
+      "category": "教育"
+    },
+    {
       "raw_hot": 157052,
       "num": 157052,
       "word": "2023年起儿童按年龄享优惠火车票",
@@ -13129,14 +13289,6 @@
       "onboard_time": 1671954087,
       "rank": 35,
       "category": "教育"
-    },
-    {
-      "raw_hot": 154626,
-      "num": 154626,
-      "word": "高难度喝水的小猫",
-      "onboard_time": 1671959970,
-      "rank": 37,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 154537,
@@ -13603,6 +13755,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 146983,
+      "num": 146983,
+      "word": "转阴后为啥还会咳嗽",
+      "onboard_time": 1671959847,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 146824,
       "num": 156945,
       "word": "冬季电车续航你会焦虑吗",
@@ -13865,6 +14025,14 @@
       "onboard_time": 1671380305,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 141825,
+      "num": 141825,
+      "word": "学生时代会一眼动心的长相",
+      "onboard_time": 1671959490,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 141809,
@@ -14347,14 +14515,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 133557,
-      "num": 133557,
-      "word": "学生时代会一眼动心的长相",
-      "onboard_time": 1671959490,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
       "raw_hot": 133525,
       "num": 103593,
       "word": "张艺兴冬至直播听歌",
@@ -14457,6 +14617,14 @@
       "onboard_time": 1671621934,
       "rank": 47,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 130738,
+      "num": 130738,
+      "word": "研究生考试结束别忘记谢谢自己",
+      "onboard_time": 1671962971,
+      "rank": 48,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 130521,
@@ -14739,6 +14907,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 125923,
+      "num": 125923,
+      "word": "大雪过后男子车上多了一堆小鸭子",
+      "onboard_time": 1671963271,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 125871,
       "num": 125871,
       "word": "贵州才是土豆星人的天堂",
@@ -15001,14 +15177,6 @@
       "onboard_time": 1671381387,
       "rank": 48,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 120717,
-      "num": 120717,
-      "word": "转阴后为啥还会咳嗽",
-      "onboard_time": 1671959847,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 120332,
