@@ -1,0 +1,410 @@
+{
+  "runTime": 1671981435735,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1559387,
+        "num": 1559387,
+        "word": "财阀家的小儿子",
+        "onboard_time": 1671976653,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 997747,
+        "num": 997747,
+        "word": "男孩阳性5天没发烧突然抽搐不停",
+        "onboard_time": 1671961530,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306825,
+        "num": 916188,
+        "word": "再次感染奥密克戎变异毒株几率高吗",
+        "onboard_time": 1671964232,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1124284,
+        "num": 910161,
+        "word": "财阀家的小儿子 烂尾",
+        "onboard_time": 1671979472,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 903495,
+        "num": 903495,
+        "word": "男子为节省抗原将试纸剪开分两次用",
+        "onboard_time": 1671977912,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 687093,
+        "num": 687093,
+        "word": "财阀家的小儿子大结局",
+        "onboard_time": 1671979232,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 618329,
+        "num": 618329,
+        "word": "转阴后为什么还是觉得累",
+        "onboard_time": 1671974972,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 599700,
+        "num": 599700,
+        "word": "杭州警方通报女子送药被踹门",
+        "onboard_time": 1671978330,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 578487,
+        "num": 578487,
+        "word": "阳了以后洗澡时间一定要短",
+        "onboard_time": 1671978509,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 524333,
+        "num": 524333,
+        "word": "梦岚偷家",
+        "onboard_time": 1671979232,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1080267,
+        "num": 519170,
+        "word": "首波新冠感染高峰冲击下的医院",
+        "onboard_time": 1671976592,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 673116,
+        "num": 513104,
+        "word": "王栎鑫红发",
+        "onboard_time": 1671977850,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 652617,
+        "num": 503241,
+        "word": "好像理解宛瑜要的自由了",
+        "onboard_time": 1671961589,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 641314,
+        "num": 495471,
+        "word": "王铮亮和他五个没上过春晚的兄弟",
+        "onboard_time": 1671980190,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 131175,
+        "num": 485234,
+        "word": "新冠感染情况问卷调查",
+        "onboard_time": 1671980489,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 597662,
+        "num": 473251,
+        "word": "阳过后你有心肌炎症状吗",
+        "onboard_time": 1671980010,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 469790,
+        "num": 469790,
+        "word": "WB遗憾止步四强",
+        "onboard_time": 1671980251,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 412601,
+        "num": 412601,
+        "word": "你后悔参加23考研吗",
+        "onboard_time": 1671969148,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 403979,
+        "num": 403979,
+        "word": "出现这些症状当心病毒性心肌炎",
+        "onboard_time": 1671966092,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 361230,
+        "num": 361230,
+        "word": "女子四天没洗头当猫咪闻过之后",
+        "onboard_time": 1671967051,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 425245,
+        "num": 348556,
+        "word": "边伯贤更新",
+        "onboard_time": 1671981386,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 423052,
+        "num": 343764,
+        "word": "就当是一场梦 醒来还是很感动",
+        "onboard_time": 1671980905,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 395276,
+        "num": 331251,
+        "word": "长月烬明",
+        "onboard_time": 1671972330,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 315358,
+        "num": 315358,
+        "word": "梅西晒安东内拉跳舞视频",
+        "onboard_time": 1671973050,
+        "rank": 23,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 302469,
+        "num": 302469,
+        "word": "男生考研分到高中母校被班主任监考",
+        "onboard_time": 1671968071,
+        "rank": 24,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 308893,
+        "num": 300104,
+        "word": "Last Christmas",
+        "onboard_time": 1671962911,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 296358,
+        "num": 296358,
+        "word": "KN95和N95口罩有什么区别",
+        "onboard_time": 1671963632,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283262,
+        "num": 283262,
+        "word": "这就是女生努力的意义",
+        "onboard_time": 1671969391,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 272605,
+        "num": 272605,
+        "word": "GK对战WB",
+        "onboard_time": 1671977610,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 245917,
+        "num": 245917,
+        "word": "WB 花楼",
+        "onboard_time": 1671980190,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 294862,
+        "num": 244828,
+        "word": "想见你",
+        "onboard_time": 1671973593,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 264531,
+        "num": 236644,
+        "word": "财阀家的小儿子 编剧",
+        "onboard_time": 1671981089,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 251062,
+        "num": 231438,
+        "word": "回来的女儿",
+        "onboard_time": 1671968071,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 216789,
+        "num": 216789,
+        "word": "阳过后小心病毒性心肌炎",
+        "onboard_time": 1671941132,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193804,
+        "num": 193804,
+        "word": "民政局回应下意识逃走残疾摊主没低保",
+        "onboard_time": 1671964892,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220520,
+        "num": 193604,
+        "word": "武庚纪",
+        "onboard_time": 1671977672,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 191872,
+        "num": 191872,
+        "word": "考研结束后才知道的道理",
+        "onboard_time": 1671967350,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 185120,
+        "num": 185120,
+        "word": "女子分享吸入式疫苗接种体验",
+        "onboard_time": 1671975511,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167890,
+        "num": 167890,
+        "word": "男子高烧发视频被多个殡葬商家关注",
+        "onboard_time": 1671961950,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164626,
+        "num": 164626,
+        "word": "刚转阴生活工作节奏宜稍微放缓",
+        "onboard_time": 1671972509,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223181,
+        "num": 159302,
+        "word": "请回答1988 超长花絮",
+        "onboard_time": 1671971133,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 149968,
+        "num": 149968,
+        "word": "WB 巅峰",
+        "onboard_time": 1671976950,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 143557,
+        "num": 143557,
+        "word": "WB可惜",
+        "onboard_time": 1671980190,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 142407,
+        "num": 142407,
+        "word": "姐姐给被拐30年的弟弟补过生日",
+        "onboard_time": 1671974072,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136260,
+        "num": 136260,
+        "word": "梦岚 公孙离",
+        "onboard_time": 1671979232,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 136039,
+        "num": 136039,
+        "word": "猫咪真的好会和老人相处",
+        "onboard_time": 1671973650,
+        "rank": 45,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 127553,
+        "num": 127553,
+        "word": "GK晋级世冠总决赛",
+        "onboard_time": 1671979232,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 119261,
+        "num": 119261,
+        "word": "408",
+        "onboard_time": 1671960810,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 118821,
+        "num": 118821,
+        "word": "已经开始迎接兔年了",
+        "onboard_time": 1671980730,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 111291,
+        "num": 111291,
+        "word": "湖南一小区分阴阳电梯",
+        "onboard_time": 1671970050,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#建设农业强国要抓好的头等大事#"
+    }
+  }
+}
