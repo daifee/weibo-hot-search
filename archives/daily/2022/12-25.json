@@ -1,6 +1,6 @@
 {
   "startTime": 1671899049163,
-  "endTime": 1671963489596,
+  "endTime": 1671964409191,
   "band_list": [
     {
       "raw_hot": 2934630,
@@ -51,6 +51,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2031478,
+      "num": 2031478,
+      "word": "男孩阳性5天没发烧突然抽搐不停",
+      "onboard_time": 1671961530,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2027798,
       "num": 2027798,
       "word": "396",
@@ -72,6 +80,14 @@
       "word": "考研数学",
       "onboard_time": 1671926120,
       "rank": 16,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 1771774,
+      "num": 1771774,
+      "word": "408",
+      "onboard_time": 1671960810,
+      "rank": 1,
       "category": "教育"
     },
     {
@@ -107,28 +123,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 1413947,
-      "num": 478833,
-      "word": "男孩阳性5天没发烧突然抽搐不停",
-      "onboard_time": 1671961530,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1384444,
       "num": 1384444,
       "word": "电影前任4英年早婚开机",
       "onboard_time": 1671936151,
       "rank": 9,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1381077,
-      "num": 1381077,
-      "word": "408",
-      "onboard_time": 1671960810,
-      "rank": 1,
-      "category": "教育"
     },
     {
       "raw_hot": 1341239,
@@ -315,6 +315,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 727049,
+      "num": 727049,
+      "word": "男子高烧发视频被多个殡葬商家关注",
+      "onboard_time": 1671961950,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 718456,
       "num": 718456,
       "word": "小亮",
@@ -363,6 +371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 587775,
+      "num": 587775,
+      "word": "Last Christmas",
+      "onboard_time": 1671962911,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 585317,
       "num": 585317,
       "word": "中国足协对六人终身禁赛",
@@ -377,6 +393,14 @@
       "onboard_time": 1671895289,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 577213,
+      "num": 577213,
+      "word": "好像理解宛瑜要的自由了",
+      "onboard_time": 1671961589,
+      "rank": 9,
+      "category": "情感"
     },
     {
       "raw_hot": 576502,
@@ -412,7 +436,7 @@
     },
     {
       "raw_hot": 528738,
-      "num": 471589,
+      "num": 495170,
       "word": "赵丽颖百花迎春上班路透图",
       "onboard_time": 1671962370,
       "rank": 11,
@@ -475,14 +499,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 499227,
-      "num": 466695,
-      "word": "男子高烧发视频被多个殡葬商家关注",
-      "onboard_time": 1671961950,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 488675,
       "num": 488675,
       "word": "止咳药千万不要随咳随用",
@@ -491,12 +507,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 488241,
-      "num": 488241,
-      "word": "好像理解宛瑜要的自由了",
-      "onboard_time": 1671961589,
-      "rank": 9,
-      "category": "情感"
+      "raw_hot": 483686,
+      "num": 483686,
+      "word": "河南一景区人山人海水泄不通",
+      "onboard_time": 1671962610,
+      "rank": 23,
+      "category": "旅游"
     },
     {
       "raw_hot": 481097,
@@ -569,6 +585,14 @@
       "onboard_time": 1671960866,
       "rank": 14,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 417745,
+      "num": 371848,
+      "word": "徐志胜一直插不进袖子的手",
+      "onboard_time": 1671961409,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 417390,
@@ -676,7 +700,7 @@
     },
     {
       "raw_hot": 362914,
-      "num": 294910,
+      "num": 309789,
       "word": "朱一龙文咏珊消失的她演夫妻",
       "onboard_time": 1671961167,
       "rank": 20,
@@ -739,14 +763,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 340923,
-      "num": 286960,
-      "word": "徐志胜一直插不进袖子的手",
-      "onboard_time": 1671961409,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 338871,
       "num": 338871,
       "word": "女子高压锅炖牛肉锅盖炸入天花板",
@@ -755,20 +771,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 337624,
-      "num": 286728,
-      "word": "Last Christmas",
-      "onboard_time": 1671962911,
-      "rank": 22,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 336149,
       "num": 336149,
       "word": "消失的她",
       "onboard_time": 1671945451,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 333198,
+      "num": 333198,
+      "word": "考研答案",
+      "onboard_time": 1671963271,
+      "rank": 43,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 327472,
+      "num": 304958,
+      "word": "刘耀文 红卡",
+      "onboard_time": 1671963093,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 323950,
@@ -801,6 +825,14 @@
       "onboard_time": 1671939090,
       "rank": 40,
       "category": "游戏,艺人"
+    },
+    {
+      "raw_hot": 314341,
+      "num": 314341,
+      "word": "KN95和N95口罩有什么区别",
+      "onboard_time": 1671963632,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 309643,
@@ -883,6 +915,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 286380,
+      "num": 286380,
+      "word": "重庆9岁男孩一把抱住晕倒的妈妈",
+      "onboard_time": 1671960570,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 283414,
       "num": 283414,
       "word": "宁艺卓untouchable舞蹈挑战播放量",
@@ -891,12 +931,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 271718,
-      "num": 271718,
-      "word": "河南一景区人山人海水泄不通",
-      "onboard_time": 1671962610,
-      "rank": 23,
-      "category": "旅游"
+      "raw_hot": 273884,
+      "num": 202173,
+      "word": "迪丽热巴歌声",
+      "onboard_time": 1671964050,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 272543,
+      "num": 200876,
+      "word": "回来的女儿没有一天是不致郁的",
+      "onboard_time": 1671963450,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 271369,
@@ -947,14 +995,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 263127,
-      "num": 263127,
-      "word": "重庆9岁男孩一把抱住晕倒的妈妈",
-      "onboard_time": 1671960570,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 262812,
       "num": 183871,
       "word": "范世錡 使徒行者",
@@ -969,14 +1009,6 @@
       "onboard_time": 1671935665,
       "rank": 45,
       "category": "体育,情感"
-    },
-    {
-      "raw_hot": 258587,
-      "num": 207536,
-      "word": "刘耀文 红卡",
-      "onboard_time": 1671963093,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 254680,
@@ -1075,6 +1107,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 226869,
+      "num": 204347,
+      "word": "白鹿以爱为营上班戴鹿角耳罩",
+      "onboard_time": 1671961409,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 225963,
       "num": 205409,
       "word": "我爸的假发和女人的友情",
@@ -1153,14 +1193,6 @@
       "onboard_time": 1671937888,
       "rank": 43,
       "category": "军事"
-    },
-    {
-      "raw_hot": 210575,
-      "num": 204347,
-      "word": "白鹿以爱为营上班戴鹿角耳罩",
-      "onboard_time": 1671961409,
-      "rank": 32,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 209997,
@@ -1259,20 +1291,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 191588,
-      "num": 164836,
-      "word": "回来的女儿没有一天是不致郁的",
-      "onboard_time": 1671963450,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 190963,
       "num": 190963,
       "word": "点外卖备注阳了收到4粒退烧药",
       "onboard_time": 1671882096,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 190176,
+      "num": 190176,
+      "word": "研究生考试结束别忘记谢谢自己",
+      "onboard_time": 1671962971,
+      "rank": 48,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 189963,
@@ -1539,14 +1571,6 @@
       "category": "社会新闻,体育"
     },
     {
-      "raw_hot": 157168,
-      "num": 157168,
-      "word": "考研答案",
-      "onboard_time": 1671963271,
-      "rank": 43,
-      "category": "教育"
-    },
-    {
       "raw_hot": 156241,
       "num": 154791,
       "word": "无限超越班第二期观后感",
@@ -1753,14 +1777,6 @@
       "onboard_time": 1671889410,
       "rank": 34,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 130738,
-      "num": 130738,
-      "word": "研究生考试结束别忘记谢谢自己",
-      "onboard_time": 1671962971,
-      "rank": 48,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 130520,
@@ -2145,6 +2161,14 @@
       "onboard_time": 1671914111,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 15597,
+      "num": 1441931,
+      "word": "再次感染奥密克戎变异毒株几率高吗",
+      "onboard_time": 1671964232,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 15550,
