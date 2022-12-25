@@ -1,6 +1,6 @@
 {
   "startTime": 1671899049163,
-  "endTime": 1671945350610,
+  "endTime": 1671946404779,
   "band_list": [
     {
       "raw_hot": 2934630,
@@ -51,20 +51,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1992491,
+      "num": 1992491,
+      "word": "水银体温计1支22元男子手机取证",
+      "onboard_time": 1671942872,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1959612,
       "num": 1959612,
       "word": "考研数学",
       "onboard_time": 1671926120,
       "rank": 16,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1741078,
-      "num": 1741078,
-      "word": "水银体温计1支22元男子手机取证",
-      "onboard_time": 1671942872,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1635847,
@@ -177,6 +177,14 @@
       "onboard_time": 1671896963,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 770506,
+      "num": 432623,
+      "word": "阳康们涌向海南三亚",
+      "onboard_time": 1671944731,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 768008,
@@ -363,6 +371,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 396291,
+      "num": 396291,
+      "word": "张宇",
+      "onboard_time": 1671943292,
+      "rank": 19,
+      "category": "教育"
+    },
+    {
       "raw_hot": 395899,
       "num": 395899,
       "word": "警方回应女子高烧连打三针后死亡",
@@ -451,6 +467,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 319308,
+      "num": 319308,
+      "word": "消失的她",
+      "onboard_time": 1671945451,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 318583,
       "num": 318583,
       "word": "王鹤棣游戏ID野区王路飞",
@@ -483,14 +507,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 307680,
-      "num": 307680,
-      "word": "张宇",
-      "onboard_time": 1671943292,
-      "rank": 19,
-      "category": "教育"
-    },
-    {
       "raw_hot": 306655,
       "num": 306655,
       "word": "这期没有郭晓婷",
@@ -513,6 +529,14 @@
       "onboard_time": 1671891212,
       "rank": 20,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 299644,
+      "num": 299644,
+      "word": "学生发烧求助外卖店家获赠葱姜汤",
+      "onboard_time": 1671944432,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 295585,
@@ -593,14 +617,6 @@
       "onboard_time": 1671935665,
       "rank": 45,
       "category": "体育,情感"
-    },
-    {
-      "raw_hot": 257485,
-      "num": 210491,
-      "word": "阳康们涌向海南三亚",
-      "onboard_time": 1671944731,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 254680,
@@ -715,6 +731,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 217063,
+      "num": 217063,
+      "word": "越南和柬埔寨现超级蚊子",
+      "onboard_time": 1671945391,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 212807,
       "num": 212807,
       "word": "东北爸爸为孩子挖3米深雪屋",
@@ -816,14 +840,6 @@
       "word": "一直咳嗽会引发肺炎吗",
       "onboard_time": 1671941308,
       "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 188100,
-      "num": 188100,
-      "word": "学生发烧求助外卖店家获赠葱姜汤",
-      "onboard_time": 1671944432,
-      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -1011,6 +1027,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 152247,
+      "num": 152247,
+      "word": "上海男生时隔半年再次感染新冠",
+      "onboard_time": 1671946049,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 149002,
+      "num": 149002,
+      "word": "拾荒大爷雪天住楼梯间整栋楼人守护",
+      "onboard_time": 1671945807,
+      "rank": 42,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 148996,
       "num": 148996,
       "word": "阳了以后怎么吃",
@@ -1032,6 +1064,14 @@
       "word": "你好星期六下期金曲之夜爷青回",
       "onboard_time": 1671898884,
       "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 142930,
+      "num": 142930,
+      "word": "北京卫视跨年首波阵容",
+      "onboard_time": 1671946351,
+      "rank": 44,
       "category": "综艺"
     },
     {

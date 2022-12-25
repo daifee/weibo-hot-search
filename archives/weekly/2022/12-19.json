@@ -1,6 +1,6 @@
 {
   "startTime": 1671380618877,
-  "endTime": 1671945350610,
+  "endTime": 1671946404779,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -555,6 +555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1992491,
+      "num": 1992491,
+      "word": "水银体温计1支22元男子手机取证",
+      "onboard_time": 1671942872,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1980069,
       "num": 646724,
       "word": "考研女生帮熟睡邻桌测出烧39度秒懵",
@@ -657,14 +665,6 @@
       "onboard_time": 1671379075,
       "rank": 12,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1741078,
-      "num": 1741078,
-      "word": "水银体温计1支22元男子手机取证",
-      "onboard_time": 1671942872,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1734823,
@@ -2496,6 +2496,14 @@
       "word": "北京发烧感染者数量持续高位增加",
       "onboard_time": 1671441748,
       "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 770506,
+      "num": 432623,
+      "word": "阳康们涌向海南三亚",
+      "onboard_time": 1671944731,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -5499,6 +5507,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 396291,
+      "num": 396291,
+      "word": "张宇",
+      "onboard_time": 1671943292,
+      "rank": 19,
+      "category": "教育"
+    },
+    {
       "raw_hot": 396167,
       "num": 396167,
       "word": "阳了后浑身疼痛怎么办",
@@ -6851,6 +6867,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 319308,
+      "num": 319308,
+      "word": "消失的她",
+      "onboard_time": 1671945451,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 319179,
       "num": 319179,
       "word": "蔚来",
@@ -7067,14 +7091,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 307680,
-      "num": 307680,
-      "word": "张宇",
-      "onboard_time": 1671943292,
-      "rank": 19,
-      "category": "教育"
-    },
-    {
       "raw_hot": 307461,
       "num": 307461,
       "word": "专家说防疫VC补充是关键",
@@ -7289,6 +7305,14 @@
       "onboard_time": 1671699512,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 299644,
+      "num": 299644,
+      "word": "学生发烧求助外卖店家获赠葱姜汤",
+      "onboard_time": 1671944432,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 299511,
@@ -8345,14 +8369,6 @@
       "onboard_time": 1671778649,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 257485,
-      "num": 210491,
-      "word": "阳康们涌向海南三亚",
-      "onboard_time": 1671944731,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 257358,
@@ -9505,6 +9521,14 @@
       "onboard_time": 1671865892,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 217063,
+      "num": 217063,
+      "word": "越南和柬埔寨现超级蚊子",
+      "onboard_time": 1671945391,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 216383,
@@ -10777,14 +10801,6 @@
       "onboard_time": 1671798268,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 188100,
-      "num": 188100,
-      "word": "学生发烧求助外卖店家获赠葱姜汤",
-      "onboard_time": 1671944432,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 188056,
@@ -12875,6 +12891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 152247,
+      "num": 152247,
+      "word": "上海男生时隔半年再次感染新冠",
+      "onboard_time": 1671946049,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 151431,
       "num": 151431,
       "word": "王源说演戏跟音乐相通",
@@ -13033,6 +13057,14 @@
       "onboard_time": 1671597695,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 149002,
+      "num": 149002,
+      "word": "拾荒大爷雪天住楼梯间整栋楼人守护",
+      "onboard_time": 1671945807,
+      "rank": 42,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 148996,
@@ -13393,6 +13425,14 @@
       "onboard_time": 1671873514,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 142930,
+      "num": 142930,
+      "word": "北京卫视跨年首波阵容",
+      "onboard_time": 1671946351,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 142710,

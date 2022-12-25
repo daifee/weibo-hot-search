@@ -1,0 +1,410 @@
+{
+  "runTime": 1671946404779,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2098064,
+        "num": 2098064,
+        "word": "阳过后小心病毒性心肌炎",
+        "onboard_time": 1671941132,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1992491,
+        "num": 1992491,
+        "word": "水银体温计1支22元男子手机取证",
+        "onboard_time": 1671942872,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148765,
+        "num": 1644807,
+        "word": "80张照片致我们拼过的春夏秋冬",
+        "onboard_time": 1671942391,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1439603,
+        "num": 1439603,
+        "word": "396",
+        "onboard_time": 1671940110,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 852012,
+        "num": 852012,
+        "word": "1米88女生与2米03男友恋爱",
+        "onboard_time": 1671939508,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 826509,
+        "num": 826509,
+        "word": "儿子4年没碰琴阳了每天练琴",
+        "onboard_time": 1671935067,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 796798,
+        "num": 796798,
+        "word": "数二",
+        "onboard_time": 1671939991,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 604239,
+        "num": 604239,
+        "word": "费曼回应吴镇宇叫刘耀文宝贝",
+        "onboard_time": 1671939629,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 442309,
+        "num": 442309,
+        "word": "333",
+        "onboard_time": 1671941431,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 433270,
+        "num": 433270,
+        "word": "韩庚说兄弟结婚真好祝你成功",
+        "onboard_time": 1671936867,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 770506,
+        "num": 432623,
+        "word": "阳康们涌向海南三亚",
+        "onboard_time": 1671944731,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 428908,
+        "num": 428908,
+        "word": "中国足协对六人终身禁赛",
+        "onboard_time": 1671937349,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 426723,
+        "num": 426723,
+        "word": "尔冬升问沈月演了几年戏",
+        "onboard_time": 1671940713,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 396291,
+        "num": 396291,
+        "word": "张宇",
+        "onboard_time": 1671943292,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 371546,
+        "num": 371546,
+        "word": "遇到其他毒株二次感染风险有多大",
+        "onboard_time": 1671937349,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 367365,
+        "num": 367365,
+        "word": "Kpop里果然不缺搞笑人",
+        "onboard_time": 1671941792,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 359117,
+        "num": 359117,
+        "word": "考研数学",
+        "onboard_time": 1671926120,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 323481,
+        "num": 323481,
+        "word": "感染后咳嗽什么程度应该警惕",
+        "onboard_time": 1671925459,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 319308,
+        "num": 319308,
+        "word": "消失的她",
+        "onboard_time": 1671945451,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 304955,
+        "num": 304955,
+        "word": "回来的女儿原来猴脸是爸爸",
+        "onboard_time": 1671939748,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 303881,
+        "num": 303881,
+        "word": "电影前任4英年早婚开机",
+        "onboard_time": 1671936151,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 299644,
+        "num": 299644,
+        "word": "学生发烧求助外卖店家获赠葱姜汤",
+        "onboard_time": 1671944432,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297580,
+        "num": 297580,
+        "word": "数学一",
+        "onboard_time": 1671940351,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 257818,
+        "num": 257818,
+        "word": "宁艺卓untouchable舞蹈挑战播放量",
+        "onboard_time": 1671943832,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 256994,
+        "num": 256994,
+        "word": "即日起不再发布每日疫情信息",
+        "onboard_time": 1671932843,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255772,
+        "num": 255772,
+        "word": "法国出现重踢世界杯决赛请愿",
+        "onboard_time": 1671932667,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 254590,
+        "num": 254590,
+        "word": "你还在咳咳咳吗",
+        "onboard_time": 1671930986,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247693,
+        "num": 247693,
+        "word": "感染了到底能不能洗澡",
+        "onboard_time": 1671926361,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217063,
+        "num": 217063,
+        "word": "越南和柬埔寨现超级蚊子",
+        "onboard_time": 1671945391,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207604,
+        "num": 207604,
+        "word": "佘诗曼带围脖秒变尔淳",
+        "onboard_time": 1671944913,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 205014,
+        "num": 205014,
+        "word": "止咳药千万不要随咳随用",
+        "onboard_time": 1671933868,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198331,
+        "num": 198331,
+        "word": "遭嫌疑人开车碾压经3次开颅民警醒了",
+        "onboard_time": 1671933086,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196438,
+        "num": 196438,
+        "word": "电影想见你豆瓣6.8分",
+        "onboard_time": 1671936387,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 190596,
+        "num": 190596,
+        "word": "你会害怕和父母越来越像吗",
+        "onboard_time": 1671941611,
+        "rank": 33,
+        "category": "综艺,情感"
+      },
+      {
+        "raw_hot": 168290,
+        "num": 168290,
+        "word": "数三",
+        "onboard_time": 1671940351,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 160693,
+        "num": 160693,
+        "word": "一直咳嗽会引发肺炎吗",
+        "onboard_time": 1671941308,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160395,
+        "num": 160395,
+        "word": "李宏毅刘学义少年歌行明天见",
+        "onboard_time": 1671944913,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 160089,
+        "num": 160089,
+        "word": "江苏一医院员工献血37000毫升",
+        "onboard_time": 1671937530,
+        "rank": 37,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 158720,
+        "num": 158720,
+        "word": "法硕",
+        "onboard_time": 1671939570,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 156646,
+        "num": 156646,
+        "word": "西综",
+        "onboard_time": 1671940531,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 154722,
+        "num": 154722,
+        "word": "香港内地恢复通关后你打算去吗",
+        "onboard_time": 1671924979,
+        "rank": 40,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 152247,
+        "num": 152247,
+        "word": "上海男生时隔半年再次感染新冠",
+        "onboard_time": 1671946049,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149002,
+        "num": 149002,
+        "word": "拾荒大爷雪天住楼梯间整栋楼人守护",
+        "onboard_time": 1671945807,
+        "rank": 42,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 143817,
+        "num": 143817,
+        "word": "这期没有郭晓婷",
+        "onboard_time": 1671926780,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142930,
+        "num": 142930,
+        "word": "北京卫视跨年首波阵容",
+        "onboard_time": 1671946351,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142155,
+        "num": 142155,
+        "word": "你好昨天",
+        "onboard_time": 1671943469,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 138994,
+        "num": 138994,
+        "word": "阿根廷人最珍贵的圣诞礼物",
+        "onboard_time": 1671935665,
+        "rank": 46,
+        "category": "体育,情感"
+      },
+      {
+        "raw_hot": 133613,
+        "num": 133613,
+        "word": "男子花16万看球曝光总开销",
+        "onboard_time": 1671930205,
+        "rank": 47,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 128921,
+        "num": 128921,
+        "word": "数二答案",
+        "onboard_time": 1671942391,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 121208,
+        "num": 121208,
+        "word": "考研数学答案",
+        "onboard_time": 1671940770,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#锚定建设农业强国目标#"
+    }
+  }
+}
