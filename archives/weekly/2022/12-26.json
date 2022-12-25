@@ -1,6 +1,6 @@
 {
   "startTime": 1671985442345,
-  "endTime": 1671993291018,
+  "endTime": 1671995635895,
   "band_list": [
     {
       "raw_hot": 1079246,
@@ -467,12 +467,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 18034,
+      "raw_hot": 18249,
       "num": 24878,
       "word": "一起回顾考研这一年",
       "onboard_time": 1671992714,
       "rank": 49,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 17609,
+      "num": 17609,
+      "word": "新冠疫情冲击波抵达三四线城市",
+      "onboard_time": 1671994813,
+      "rank": 45,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
