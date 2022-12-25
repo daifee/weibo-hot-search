@@ -1,6 +1,6 @@
 {
   "startTime": 1671899049163,
-  "endTime": 1671932166448,
+  "endTime": 1671933320741,
   "band_list": [
     {
       "raw_hot": 2934630,
@@ -35,6 +35,14 @@
       "category": "综艺,幽默"
     },
     {
+      "raw_hot": 863574,
+      "num": 863574,
+      "word": "男子花16万看球曝光总开销",
+      "onboard_time": 1671930205,
+      "rank": 10,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 830114,
       "num": 830114,
       "word": "尔冬升点评沈月演技",
@@ -51,12 +59,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 684807,
-      "num": 355959,
-      "word": "男子花16万看球曝光总开销",
-      "onboard_time": 1671930205,
-      "rank": 10,
-      "category": "体育,社会新闻"
+      "raw_hot": 688612,
+      "num": 688612,
+      "word": "你还在咳咳咳吗",
+      "onboard_time": 1671930986,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 673295,
@@ -83,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 576502,
+      "num": 576502,
+      "word": "专家解答为什么不出门也感染",
+      "onboard_time": 1671929723,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 552780,
       "num": 552780,
       "word": "北京要求千方百计降低病亡率",
@@ -91,20 +107,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 511274,
-      "num": 511274,
+      "raw_hot": 519992,
+      "num": 519992,
       "word": "刘耀文不知道无限超越班要演戏",
       "onboard_time": 1671928041,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 501115,
-      "num": 501115,
-      "word": "专家解答为什么不出门也感染",
-      "onboard_time": 1671929723,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 447621,
@@ -113,6 +121,14 @@
       "onboard_time": 1671881372,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 402695,
+      "num": 402695,
+      "word": "梅婷演技 吓人",
+      "onboard_time": 1671931766,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 395899,
@@ -129,6 +145,14 @@
       "onboard_time": 1671884073,
       "rank": 10,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 359210,
+      "num": 359210,
+      "word": "法国出现重踢世界杯决赛请愿",
+      "onboard_time": 1671932667,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 356111,
@@ -195,6 +219,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 318900,
+      "num": 318900,
+      "word": "王嘉尔演唱会翻栏杆保镖后面追",
+      "onboard_time": 1671932125,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 308646,
       "num": 305881,
       "word": "你身边有二次感染的人吗",
@@ -203,20 +235,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 306655,
+      "num": 306655,
+      "word": "这期没有郭晓婷",
+      "onboard_time": 1671926780,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 305607,
       "num": 245348,
       "word": "李彩领",
       "onboard_time": 1671891212,
       "rank": 20,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 301804,
-      "num": 301804,
-      "word": "你还在咳咳咳吗",
-      "onboard_time": 1671930986,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 295585,
@@ -235,12 +267,36 @@
       "category": "教育"
     },
     {
+      "raw_hot": 281732,
+      "num": 263546,
+      "word": "红卡 标准",
+      "onboard_time": 1671932186,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 267299,
       "num": 185059,
       "word": "刘耀文问许绍雄有退休计划了吗",
       "onboard_time": 1671898943,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 264715,
+      "num": 264715,
+      "word": "专家分析北京目前感染率未到70%",
+      "onboard_time": 1671917831,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 264520,
+      "num": 264520,
+      "word": "圣诞节",
+      "onboard_time": 1671923297,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 264479,
@@ -259,27 +315,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 260848,
-      "num": 260848,
-      "word": "这期没有郭晓婷",
-      "onboard_time": 1671926780,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 257195,
-      "num": 257195,
-      "word": "圣诞节",
-      "onboard_time": 1671923297,
+      "raw_hot": 254680,
+      "num": 254680,
+      "word": "专家详解奥密克戎BQ.1和XBB变异毒株",
+      "onboard_time": 1671930864,
       "rank": 28,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 253887,
-      "num": 253887,
-      "word": "专家分析北京目前感染率未到70%",
-      "onboard_time": 1671917831,
-      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -313,6 +353,14 @@
       "onboard_time": 1671886055,
       "rank": 17,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 227065,
+      "num": 227065,
+      "word": "即日起不再发布每日疫情信息",
+      "onboard_time": 1671932843,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 223666,
@@ -371,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 184809,
+      "num": 184809,
+      "word": "24元的自助餐长啥样",
+      "onboard_time": 1671926539,
+      "rank": 34,
+      "category": "美食"
+    },
+    {
       "raw_hot": 181448,
       "num": 181448,
       "word": "羽生结弦",
@@ -403,11 +459,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 173847,
-      "num": 173847,
-      "word": "专家详解奥密克戎BQ.1和XBB变异毒株",
-      "onboard_time": 1671930864,
-      "rank": 28,
+      "raw_hot": 175228,
+      "num": 175228,
+      "word": "遭嫌疑人开车碾压经3次开颅民警醒了",
+      "onboard_time": 1671933086,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -427,12 +483,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 170181,
-      "num": 159077,
-      "word": "梅婷演技 吓人",
-      "onboard_time": 1671931766,
-      "rank": 33,
-      "category": "影视"
+      "raw_hot": 168807,
+      "num": 168807,
+      "word": "epic",
+      "onboard_time": 1671928041,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 165113,
@@ -443,6 +499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 163949,
+      "num": 163949,
+      "word": "谭松韵演唱向风而行人物主题曲",
+      "onboard_time": 1671932004,
+      "rank": 41,
+      "category": "影视,音乐"
+    },
+    {
       "raw_hot": 158803,
       "num": 158803,
       "word": "英语一 难",
@@ -451,20 +515,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 157356,
-      "num": 157356,
-      "word": "24元的自助餐长啥样",
-      "onboard_time": 1671926539,
-      "rank": 34,
-      "category": "美食"
-    },
-    {
       "raw_hot": 156542,
       "num": 156542,
       "word": "张元英PrettyGirl手势舞视频",
       "onboard_time": 1671926301,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 156241,
+      "num": 154791,
+      "word": "无限超越班第二期观后感",
+      "onboard_time": 1671933148,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 153746,
@@ -563,20 +627,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 130846,
-      "num": 124026,
-      "word": "王嘉尔演唱会翻栏杆保镖后面追",
-      "onboard_time": 1671932125,
-      "rank": 40,
-      "category": "音乐"
+      "raw_hot": 126830,
+      "num": 126830,
+      "word": "阳后你的症状持续了多久",
+      "onboard_time": 1671928764,
+      "rank": 46,
+      "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 125251,
-      "num": 125251,
-      "word": "epic",
-      "onboard_time": 1671928041,
-      "rank": 39,
-      "category": "游戏"
+      "raw_hot": 126169,
+      "num": 126169,
+      "word": "张朝阳称力学无时不在保护我们的安全",
+      "onboard_time": 1671933086,
+      "rank": 45,
+      "category": "教育"
     },
     {
       "raw_hot": 124784,
@@ -593,14 +657,6 @@
       "onboard_time": 1671878133,
       "rank": 40,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 122106,
-      "num": 122106,
-      "word": "谭松韵演唱向风而行人物主题曲",
-      "onboard_time": 1671932004,
-      "rank": 41,
-      "category": "影视,音乐"
     },
     {
       "raw_hot": 121045,
@@ -641,14 +697,6 @@
       "onboard_time": 1671878671,
       "rank": 47,
       "category": "教育"
-    },
-    {
-      "raw_hot": 109953,
-      "num": 109953,
-      "word": "阳后你的症状持续了多久",
-      "onboard_time": 1671928764,
-      "rank": 46,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 109839,
@@ -764,7 +812,7 @@
     },
     {
       "raw_hot": 63376,
-      "num": 850329,
+      "num": 875028,
       "word": "全球首架C919自12月26日起验证飞行",
       "onboard_time": 1671890373,
       "rank": 2,
