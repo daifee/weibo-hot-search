@@ -1,6 +1,6 @@
 {
   "startTime": 1671985442345,
-  "endTime": 1672007605385,
+  "endTime": 1672010290685,
   "band_list": [
     {
       "raw_hot": 1079246,
@@ -155,6 +155,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 225555,
+      "num": 225555,
+      "word": "你身边还有多少人没感染",
+      "onboard_time": 1671999911,
+      "rank": 46,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 217502,
       "num": 191435,
       "word": "快乐再出发2豆瓣开分9.3",
@@ -203,6 +211,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 189321,
+      "num": 914999,
+      "word": "再次感染奥密克戎变异毒株几率高吗",
+      "onboard_time": 1671964232,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 188023,
       "num": 144815,
       "word": "Last Christmas",
@@ -211,19 +227,19 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 185723,
-      "num": 914999,
-      "word": "再次感染奥密克戎变异毒株几率高吗",
-      "onboard_time": 1671964232,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 180255,
       "num": 180255,
       "word": "KN95和N95口罩有什么区别",
       "onboard_time": 1671963632,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 169829,
+      "num": 169829,
+      "word": "出现这些症状当心病毒性心肌炎",
+      "onboard_time": 1671966092,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -283,6 +299,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 153283,
+      "num": 153283,
+      "word": "为什么转阴后仍感到虚弱",
+      "onboard_time": 1672006151,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 148869,
       "num": 148869,
       "word": "WB遗憾止步四强",
@@ -299,20 +323,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 141899,
-      "num": 141899,
-      "word": "出现这些症状当心病毒性心肌炎",
-      "onboard_time": 1671966092,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 134398,
       "num": 114744,
       "word": "李文卓不是真的李文卓",
       "onboard_time": 1671976111,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 132543,
+      "num": 132543,
+      "word": "新冠疫情冲击波抵达三四线城市",
+      "onboard_time": 1671994813,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 128911,
@@ -328,6 +352,22 @@
       "word": "北京部分医院发热门诊现状",
       "onboard_time": 1672000213,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 110420,
+      "num": 110420,
+      "word": "智能手表能否平替血氧仪",
+      "onboard_time": 1672005671,
+      "rank": 35,
+      "category": "科技,社会议题"
+    },
+    {
+      "raw_hot": 108321,
+      "num": 108321,
+      "word": "药店回应市民排队免费领药被举报",
+      "onboard_time": 1671988400,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -355,14 +395,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 89253,
-      "num": 89253,
-      "word": "你身边还有多少人没感染",
-      "onboard_time": 1671999911,
-      "rank": 46,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 87168,
       "num": 87168,
       "word": "猫咪真的好会和老人相处",
@@ -379,27 +411,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 83268,
-      "num": 83268,
-      "word": "新冠疫情冲击波抵达三四线城市",
-      "onboard_time": 1671994813,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 82226,
       "num": 82226,
       "word": "男子高烧发视频被多个殡葬商家关注",
       "onboard_time": 1671961950,
       "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 77889,
-      "num": 77889,
-      "word": "药店回应市民排队免费领药被举报",
-      "onboard_time": 1671988400,
-      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -416,6 +432,14 @@
       "word": "GK对战WB",
       "onboard_time": 1671977610,
       "rank": 45,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 72906,
+      "num": 72906,
+      "word": "Epic免费送死亡搁浅",
+      "onboard_time": 1672009877,
+      "rank": 26,
       "category": "游戏"
     },
     {
@@ -451,12 +475,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 62327,
+      "num": 62327,
+      "word": "王宝强陈思诚李晨再同框",
+      "onboard_time": 1671974010,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 61133,
       "num": 70551,
       "word": "阳过后小心病毒性心肌炎",
       "onboard_time": 1671941132,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 59357,
+      "num": 59357,
+      "word": "阳了之后你瘦了没",
+      "onboard_time": 1672006692,
+      "rank": 36,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 58090,
@@ -483,36 +523,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 40974,
+      "num": 40974,
+      "word": "NBA圣诞大战",
+      "onboard_time": 1672010178,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 40100,
       "num": 40100,
       "word": "DOTA2互联网杯",
       "onboard_time": 1671986600,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 36843,
-      "num": 30273,
-      "word": "智能手表能否平替血氧仪",
-      "onboard_time": 1672005671,
-      "rank": 35,
-      "category": "科技,社会议题"
-    },
-    {
-      "raw_hot": 31545,
-      "num": 30057,
-      "word": "为什么转阴后仍感到虚弱",
-      "onboard_time": 1672006151,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 24783,
-      "num": 24783,
-      "word": "阳了之后你瘦了没",
-      "onboard_time": 1672006692,
-      "rank": 36,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 18873,
