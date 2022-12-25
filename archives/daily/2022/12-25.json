@@ -1,6 +1,6 @@
 {
   "startTime": 1671899049163,
-  "endTime": 1671972562149,
+  "endTime": 1671974432323,
   "band_list": [
     {
       "raw_hot": 2934630,
@@ -235,6 +235,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1001136,
+      "num": 1001136,
+      "word": "长月烬明",
+      "onboard_time": 1671972330,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 965495,
       "num": 965495,
       "word": "梅婷演技 吓人",
@@ -379,12 +387,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 715945,
+      "num": 715945,
+      "word": "这就是女生努力的意义",
+      "onboard_time": 1671969391,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
       "raw_hot": 714911,
       "num": 714911,
       "word": "浙江疫情在元旦前后进入高位平台期",
       "onboard_time": 1671951628,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 693550,
+      "num": 693550,
+      "word": "你后悔参加23考研吗",
+      "onboard_time": 1671969148,
+      "rank": 18,
+      "category": "教育"
     },
     {
       "raw_hot": 688612,
@@ -417,14 +441,6 @@
       "onboard_time": 1671962610,
       "rank": 23,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 616611,
-      "num": 616611,
-      "word": "这就是女生努力的意义",
-      "onboard_time": 1671969391,
-      "rank": 9,
-      "category": "情感"
     },
     {
       "raw_hot": 606317,
@@ -555,12 +571,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 489288,
-      "num": 489288,
-      "word": "你后悔参加23考研吗",
-      "onboard_time": 1671969148,
-      "rank": 18,
-      "category": "教育"
+      "raw_hot": 493539,
+      "num": 493539,
+      "word": "张远现场",
+      "onboard_time": 1671972570,
+      "rank": 10,
+      "category": "音乐"
     },
     {
       "raw_hot": 488675,
@@ -715,6 +731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 405774,
+      "num": 405774,
+      "word": "回来的女儿",
+      "onboard_time": 1671885635,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 402426,
       "num": 402426,
       "word": "塔利班禁止妇女在国内和国际非政府组织工作",
@@ -803,6 +827,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 384901,
+      "num": 296710,
+      "word": "肖战如梦之梦后台视频",
+      "onboard_time": 1671974072,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 382592,
       "num": 382592,
       "word": "袁娅维道歉",
@@ -827,12 +859,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 368833,
-      "num": 368833,
-      "word": "回来的女儿",
-      "onboard_time": 1671885635,
-      "rank": 30,
-      "category": "影视"
+      "raw_hot": 367915,
+      "num": 367915,
+      "word": "梅西晒安东内拉跳舞视频",
+      "onboard_time": 1671973050,
+      "rank": 17,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 362914,
@@ -867,6 +899,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 350949,
+      "num": 296569,
+      "word": "王宝强陈思诚李晨再同框",
+      "onboard_time": 1671974010,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 347072,
       "num": 347072,
       "word": "市民购买退烧药后免费赠送被查",
@@ -891,6 +931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 344016,
+      "num": 295061,
+      "word": "佟丽娅献唱海南岛电影节闭幕式",
+      "onboard_time": 1671973830,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 341581,
       "num": 341581,
       "word": "汪苏泷现身2023春晚彩排现场",
@@ -912,14 +960,6 @@
       "word": "消失的她",
       "onboard_time": 1671945451,
       "rank": 18,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 327813,
-      "num": 291618,
-      "word": "长月烬明",
-      "onboard_time": 1671972330,
-      "rank": 22,
       "category": "影视"
     },
     {
@@ -1043,6 +1083,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 296741,
+      "num": 296741,
+      "word": "刚转阴生活工作节奏宜稍微放缓",
+      "onboard_time": 1671972509,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 296167,
+      "num": 296167,
+      "word": "湖南一小区分阴阳电梯",
+      "onboard_time": 1671970050,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 295585,
       "num": 295585,
       "word": "年轻博士居家隔离时高烧昏厥去世",
@@ -1059,6 +1115,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 293747,
+      "num": 293747,
+      "word": "胃肠道疾病患者不建议使用布洛芬",
+      "onboard_time": 1671970831,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 286380,
       "num": 286380,
       "word": "重庆9岁男孩一把抱住晕倒的妈妈",
@@ -1073,6 +1137,14 @@
       "onboard_time": 1671943832,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 272657,
+      "num": 168661,
+      "word": "李承天彻底黑化",
+      "onboard_time": 1671972390,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 272543,
@@ -1243,14 +1315,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 234015,
-      "num": 234015,
-      "word": "胃肠道疾病患者不建议使用布洛芬",
-      "onboard_time": 1671970831,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 233528,
       "num": 178222,
       "word": "张元英SBS歌谣大战直拍",
@@ -1299,20 +1363,20 @@
       "category": "网红"
     },
     {
+      "raw_hot": 225298,
+      "num": 125530,
+      "word": "第九节课",
+      "onboard_time": 1671973291,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 224189,
       "num": 224189,
       "word": "wbg线下派对",
       "onboard_time": 1671961890,
       "rank": 28,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 221629,
-      "num": 168661,
-      "word": "李承天彻底黑化",
-      "onboard_time": 1671972390,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 221067,
@@ -1513,6 +1577,14 @@
       "onboard_time": 1671948566,
       "rank": 41,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 188932,
+      "num": 153173,
+      "word": "女婿救人过程被岳母意外拍下",
+      "onboard_time": 1671973111,
+      "rank": 35,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 188496,
@@ -1971,14 +2043,6 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 137259,
-      "num": 137259,
-      "word": "湖南一小区分阴阳电梯",
-      "onboard_time": 1671970050,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 137011,
       "num": 135870,
       "word": "柯佳嬿施柏宇说陈韵如莫俊杰是慢热",
@@ -2179,11 +2243,27 @@
       "category": "情感"
     },
     {
+      "raw_hot": 110242,
+      "num": 110242,
+      "word": "圣诞节文案",
+      "onboard_time": 1671972931,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 109839,
       "num": 109839,
       "word": "社区回应下意识逃走的卖橘男称没低保一事",
       "onboard_time": 1671882573,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 109254,
+      "num": 109254,
+      "word": "姐姐给被拐30年的弟弟补过生日",
+      "onboard_time": 1671974072,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -2227,6 +2307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 102947,
+      "num": 102947,
+      "word": "猫咪真的好会和老人相处",
+      "onboard_time": 1671973650,
+      "rank": 49,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 101536,
       "num": 109662,
       "word": "李斌称蔚来明年超雷克萨斯",
@@ -2241,14 +2329,6 @@
       "onboard_time": 1671922635,
       "rank": 34,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 100663,
-      "num": 100663,
-      "word": "刚转阴生活工作节奏宜稍微放缓",
-      "onboard_time": 1671972509,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 99754,
