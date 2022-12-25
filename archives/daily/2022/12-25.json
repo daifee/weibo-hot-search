@@ -1,6 +1,6 @@
 {
   "startTime": 1671899049163,
-  "endTime": 1671950146159,
+  "endTime": 1671952516106,
   "band_list": [
     {
       "raw_hot": 2934630,
@@ -115,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1149974,
+      "num": 1149974,
+      "word": "康辉是天选打工人吧",
+      "onboard_time": 1671949169,
+      "rank": 48,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 1132792,
       "num": 1132792,
       "word": "感染了到底能不能洗澡",
@@ -163,6 +171,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 927757,
+      "num": 927757,
+      "word": "男子凌晨发现狗在床上生了4只崽",
+      "onboard_time": 1671948149,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 899336,
+      "num": 476331,
+      "word": "我说的是中文啊",
+      "onboard_time": 1671949648,
+      "rank": 17,
+      "category": "作品衍生,幽默"
+    },
+    {
       "raw_hot": 887113,
       "num": 887113,
       "word": "遇到其他毒株二次感染风险有多大",
@@ -185,14 +209,6 @@
       "onboard_time": 1671930205,
       "rank": 10,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 838896,
-      "num": 497009,
-      "word": "男子凌晨发现狗在床上生了4只崽",
-      "onboard_time": 1671948149,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 830114,
@@ -243,6 +259,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 718456,
+      "num": 718456,
+      "word": "小亮",
+      "onboard_time": 1671949049,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 688612,
       "num": 688612,
       "word": "你还在咳咳咳吗",
@@ -265,14 +289,6 @@
       "onboard_time": 1671895289,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 586408,
-      "num": 586408,
-      "word": "小亮",
-      "onboard_time": 1671949049,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 585317,
@@ -331,6 +347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 520578,
+      "num": 520578,
+      "word": "于文文说五年后林佳的婚姻也会体面的",
+      "onboard_time": 1671950246,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 519992,
       "num": 519992,
       "word": "刘耀文不知道无限超越班要演戏",
@@ -371,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 466734,
+      "num": 466734,
+      "word": "专家辟谣二次感染症状会更重",
+      "onboard_time": 1671946707,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 451780,
       "num": 451780,
       "word": "红卡 标准",
@@ -401,6 +433,14 @@
       "onboard_time": 1671940713,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 417390,
+      "num": 417390,
+      "word": "特斯拉上海工厂被曝已停产",
+      "onboard_time": 1671948389,
+      "rank": 30,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 416354,
@@ -443,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 395899,
+      "num": 395899,
+      "word": "杨紫圣诞节vlog",
+      "onboard_time": 1671952347,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 390170,
       "num": 390170,
       "word": "西综",
@@ -451,20 +499,28 @@
       "category": "教育"
     },
     {
-      "raw_hot": 389111,
-      "num": 389111,
-      "word": "特斯拉上海工厂被曝已停产",
-      "onboard_time": 1671948389,
-      "rank": 30,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 382592,
       "num": 382592,
       "word": "袁娅维道歉",
       "onboard_time": 1671884073,
       "rank": 10,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 379578,
+      "num": 379578,
+      "word": "2023央视春晚彩排路透",
+      "onboard_time": 1671952227,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 359832,
+      "num": 296421,
+      "word": "王铮亮现身2023春晚彩排现场",
+      "onboard_time": 1671951388,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 356111,
@@ -539,28 +595,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 333655,
-      "num": 333655,
-      "word": "我说的是中文啊",
-      "onboard_time": 1671949648,
-      "rank": 17,
-      "category": "作品衍生,幽默"
-    },
-    {
       "raw_hot": 323950,
       "num": 323950,
       "word": "吴镇宇演技",
       "onboard_time": 1671927201,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 320727,
-      "num": 320727,
-      "word": "专家辟谣二次感染症状会更重",
-      "onboard_time": 1671946707,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 320594,
@@ -577,6 +617,14 @@
       "onboard_time": 1671939090,
       "rank": 40,
       "category": "游戏,艺人"
+    },
+    {
+      "raw_hot": 317339,
+      "num": 317339,
+      "word": "塔利班禁止妇女在国内和国际非政府组织工作",
+      "onboard_time": 1671950428,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 309643,
@@ -763,6 +811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 240720,
+      "num": 159090,
+      "word": "杭州第六十次疫情发布会",
+      "onboard_time": 1671951088,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 239578,
       "num": 209831,
       "word": "我可能遇到了救星 好看",
@@ -795,12 +851,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 237926,
-      "num": 237926,
-      "word": "康辉是天选打工人吧",
-      "onboard_time": 1671949169,
-      "rank": 48,
-      "category": "社会新闻,幽默"
+      "raw_hot": 233528,
+      "num": 158928,
+      "word": "张元英SBS歌谣大战直拍",
+      "onboard_time": 1671952165,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 229627,
@@ -857,6 +913,14 @@
       "onboard_time": 1671945152,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 207864,
+      "num": 207864,
+      "word": "妈妈30年前照与女儿同框如双胞胎",
+      "onboard_time": 1671949887,
+      "rank": 49,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 201188,
@@ -937,6 +1001,14 @@
       "onboard_time": 1671941308,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 187875,
+      "num": 130041,
+      "word": "水木年华新成员落泪镜头破碎感",
+      "onboard_time": 1671952468,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 184809,
@@ -1107,6 +1179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 159458,
+      "num": 159458,
+      "word": "男子偷割他人麦苗喂羊",
+      "onboard_time": 1671948928,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158803,
       "num": 158803,
       "word": "英语一 难",
@@ -1129,6 +1209,14 @@
       "onboard_time": 1671933148,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 156186,
+      "num": 156186,
+      "word": "浙江疫情在元旦前后进入高位平台期",
+      "onboard_time": 1671951628,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 153746,
@@ -1307,6 +1395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 128874,
+      "num": 128874,
+      "word": "如何看待女子因赠药被踹门辱骂",
+      "onboard_time": 1671948566,
+      "rank": 41,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 126830,
       "num": 126830,
       "word": "阳后你的症状持续了多久",
@@ -1329,14 +1425,6 @@
       "onboard_time": 1671878133,
       "rank": 40,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 121946,
-      "num": 121946,
-      "word": "男子偷割他人麦苗喂羊",
-      "onboard_time": 1671948928,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 121045,
@@ -1400,6 +1488,22 @@
       "word": "社区回应下意识逃走的卖橘男称没低保一事",
       "onboard_time": 1671882573,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 105374,
+      "num": 105374,
+      "word": "饲养员用障眼法逃脱熊猫纠缠",
+      "onboard_time": 1671952227,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 104864,
+      "num": 104864,
+      "word": "小伙一路垫草助雪天爬坡司机脱困",
+      "onboard_time": 1671951687,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -1481,14 +1585,6 @@
       "onboard_time": 1671938429,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 97465,
-      "num": 97465,
-      "word": "妈妈30年前照与女儿同框如双胞胎",
-      "onboard_time": 1671949887,
-      "rank": 49,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 91832,
