@@ -1,6 +1,6 @@
 {
   "startTime": 1671899049163,
-  "endTime": 1671924820330,
+  "endTime": 1671932166448,
   "band_list": [
     {
       "raw_hot": 2934630,
@@ -8,6 +8,22 @@
       "word": "肺炎",
       "onboard_time": 1671891212,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1439404,
+      "num": 1439404,
+      "word": "感染后咳嗽什么程度应该警惕",
+      "onboard_time": 1671925459,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1132792,
+      "num": 1132792,
+      "word": "感染了到底能不能洗澡",
+      "onboard_time": 1671926361,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -35,6 +51,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 684807,
+      "num": 355959,
+      "word": "男子花16万看球曝光总开销",
+      "onboard_time": 1671930205,
+      "rank": 10,
+      "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 673295,
+      "num": 673295,
+      "word": "香港内地恢复通关后你打算去吗",
+      "onboard_time": 1671924979,
+      "rank": 3,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 606317,
       "num": 606317,
       "word": "小孩急需美林小姨缝衣服里寄出",
@@ -55,6 +87,22 @@
       "num": 552780,
       "word": "北京要求千方百计降低病亡率",
       "onboard_time": 1671894632,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 511274,
+      "num": 511274,
+      "word": "刘耀文不知道无限超越班要演戏",
+      "onboard_time": 1671928041,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 501115,
+      "num": 501115,
+      "word": "专家解答为什么不出门也感染",
+      "onboard_time": 1671929723,
       "rank": 7,
       "category": "社会新闻"
     },
@@ -99,6 +147,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 352121,
+      "num": 352121,
+      "word": "薛之谦巡演跪地感谢歌迷",
+      "onboard_time": 1671930808,
+      "rank": 11,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 347072,
       "num": 347072,
       "word": "市民购买退烧药后免费赠送被查",
@@ -107,12 +163,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 345065,
+      "num": 345065,
+      "word": "尹炫优杀了陈导俊",
+      "onboard_time": 1671924138,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 338871,
       "num": 338871,
       "word": "女子高压锅炖牛肉锅盖炸入天花板",
       "onboard_time": 1671896010,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 323950,
+      "num": 323950,
+      "word": "吴镇宇演技",
+      "onboard_time": 1671927201,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 320594,
@@ -124,7 +196,7 @@
     },
     {
       "raw_hot": 308646,
-      "num": 71395,
+      "num": 305881,
       "word": "你身边有二次感染的人吗",
       "onboard_time": 1671923297,
       "rank": 30,
@@ -139,12 +211,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 301804,
+      "num": 301804,
+      "word": "你还在咳咳咳吗",
+      "onboard_time": 1671930986,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 295585,
       "num": 295585,
       "word": "年轻博士居家隔离时高烧昏厥去世",
       "onboard_time": 1671878671,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 292077,
+      "num": 292077,
+      "word": "考研数学",
+      "onboard_time": 1671926120,
+      "rank": 16,
+      "category": "教育"
     },
     {
       "raw_hot": 267299,
@@ -171,19 +259,35 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 260848,
+      "num": 260848,
+      "word": "这期没有郭晓婷",
+      "onboard_time": 1671926780,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 257195,
+      "num": 257195,
+      "word": "圣诞节",
+      "onboard_time": 1671923297,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 253887,
+      "num": 253887,
+      "word": "专家分析北京目前感染率未到70%",
+      "onboard_time": 1671917831,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 245463,
       "num": 245463,
       "word": "宝宝凌晨惊厥抽搐宝妈无助大哭",
       "onboard_time": 1671889174,
       "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 239343,
-      "num": 239343,
-      "word": "专家分析北京目前感染率未到70%",
-      "onboard_time": 1671917831,
-      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -193,6 +297,14 @@
       "onboard_time": 1671893730,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 238419,
+      "num": 238419,
+      "word": "元旦春节你打算返乡吗",
+      "onboard_time": 1671925700,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 229627,
@@ -219,6 +331,38 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 219661,
+      "num": 219661,
+      "word": "袁娅维方将全额补偿歌迷损失",
+      "onboard_time": 1671925579,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 200284,
+      "num": 200284,
+      "word": "财阀家的小儿子16",
+      "onboard_time": 1671928583,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 197883,
+      "num": 197883,
+      "word": "狗子真的尽力了",
+      "onboard_time": 1671927261,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 193138,
+      "num": 167660,
+      "word": "今年春晚你想看什么",
+      "onboard_time": 1671926301,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 190963,
       "num": 190963,
       "word": "点外卖备注阳了收到4粒退烧药",
@@ -233,6 +377,14 @@
       "onboard_time": 1671888634,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 179993,
+      "num": 165064,
+      "word": "回来的女儿 窒息",
+      "onboard_time": 1671921974,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 179292,
@@ -251,12 +403,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 173847,
+      "num": 173847,
+      "word": "专家详解奥密克戎BQ.1和XBB变异毒株",
+      "onboard_time": 1671930864,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 172495,
       "num": 172495,
       "word": "18岁女生因焦虑2个月减25斤成95斤",
       "onboard_time": 1671883293,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 170622,
+      "num": 170622,
+      "word": "已婚男伪造离婚证表白情人被判6月",
+      "onboard_time": 1671900320,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 170181,
+      "num": 159077,
+      "word": "梅婷演技 吓人",
+      "onboard_time": 1671931766,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 165113,
@@ -267,20 +443,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 163008,
-      "num": 143659,
-      "word": "尹炫优杀了陈导俊",
-      "onboard_time": 1671924138,
-      "rank": 11,
-      "category": "影视"
-    },
-    {
       "raw_hot": 158803,
       "num": 158803,
       "word": "英语一 难",
       "onboard_time": 1671873094,
       "rank": 28,
       "category": "教育"
+    },
+    {
+      "raw_hot": 157356,
+      "num": 157356,
+      "word": "24元的自助餐长啥样",
+      "onboard_time": 1671926539,
+      "rank": 34,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 156542,
+      "num": 156542,
+      "word": "张元英PrettyGirl手势舞视频",
+      "onboard_time": 1671926301,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 153746,
@@ -299,12 +483,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 148996,
+      "num": 148996,
+      "word": "阳了以后怎么吃",
+      "onboard_time": 1671927322,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145439,
       "num": 113719,
       "word": "你好星期六下期金曲之夜爷青回",
       "onboard_time": 1671898884,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 141375,
+      "num": 141375,
+      "word": "车主路边掉头意外顺走3块腊肉",
+      "onboard_time": 1671893911,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 141070,
@@ -363,6 +563,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 130846,
+      "num": 124026,
+      "word": "王嘉尔演唱会翻栏杆保镖后面追",
+      "onboard_time": 1671932125,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 125251,
+      "num": 125251,
+      "word": "epic",
+      "onboard_time": 1671928041,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 124784,
       "num": 124784,
       "word": "Fly哭了",
@@ -377,6 +593,14 @@
       "onboard_time": 1671878133,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 122106,
+      "num": 122106,
+      "word": "谭松韵演唱向风而行人物主题曲",
+      "onboard_time": 1671932004,
+      "rank": 41,
+      "category": "影视,音乐"
     },
     {
       "raw_hot": 121045,
@@ -419,6 +643,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 109953,
+      "num": 109953,
+      "word": "阳后你的症状持续了多久",
+      "onboard_time": 1671928764,
+      "rank": 46,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 109839,
       "num": 109839,
       "word": "社区回应下意识逃走的卖橘男称没低保一事",
@@ -427,11 +659,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 109216,
-      "num": 109216,
-      "word": "已婚男伪造离婚证表白情人被判6月",
-      "onboard_time": 1671900320,
-      "rank": 42,
+      "raw_hot": 104244,
+      "num": 104244,
+      "word": "一个人有可能多次感染吗",
+      "onboard_time": 1671931463,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -443,12 +675,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 103380,
-      "num": 103380,
-      "word": "圣诞节",
-      "onboard_time": 1671923297,
-      "rank": 28,
-      "category": "情感"
+      "raw_hot": 101375,
+      "num": 101375,
+      "word": "盘点布洛芬大佬刘益谦的资本版图",
+      "onboard_time": 1671922635,
+      "rank": 34,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 99754,
@@ -481,22 +713,6 @@
       "onboard_time": 1671873094,
       "rank": 43,
       "category": "教育"
-    },
-    {
-      "raw_hot": 95965,
-      "num": 95965,
-      "word": "盘点布洛芬大佬刘益谦的资本版图",
-      "onboard_time": 1671922635,
-      "rank": 34,
-      "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 93022,
-      "num": 93022,
-      "word": "车主路边掉头意外顺走3块腊肉",
-      "onboard_time": 1671893911,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 88351,
@@ -649,6 +865,9 @@
     },
     {
       "word": "#新时代新征程新伟业#"
+    },
+    {
+      "word": "#锚定建设农业强国目标#"
     }
   ]
 }
