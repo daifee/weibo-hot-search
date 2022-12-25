@@ -1,6 +1,6 @@
 {
   "startTime": 1671899049163,
-  "endTime": 1671964409191,
+  "endTime": 1671966843700,
   "band_list": [
     {
       "raw_hot": 2934630,
@@ -8,6 +8,14 @@
       "word": "肺炎",
       "onboard_time": 1671891212,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2493564,
+      "num": 2493564,
+      "word": "男孩阳性5天没发烧突然抽搐不停",
+      "onboard_time": 1671961530,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -48,14 +56,6 @@
       "word": "赠药反被邻居踹门辱骂当事女子回应",
       "onboard_time": 1671935006,
       "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2031478,
-      "num": 2031478,
-      "word": "男孩阳性5天没发烧突然抽搐不停",
-      "onboard_time": 1671961530,
-      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -195,6 +195,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1099113,
+      "num": 1099113,
+      "word": "KN95和N95口罩有什么区别",
+      "onboard_time": 1671963632,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1056134,
       "num": 1056134,
       "word": "不懂内娱到底在高贵什么",
@@ -275,6 +283,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 805326,
+      "num": 805326,
+      "word": "男子高烧发视频被多个殡葬商家关注",
+      "onboard_time": 1671961950,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 801044,
+      "num": 801044,
+      "word": "Last Christmas",
+      "onboard_time": 1671962911,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 768008,
       "num": 768008,
       "word": "费曼回应吴镇宇叫刘耀文宝贝",
@@ -313,14 +337,6 @@
       "onboard_time": 1671941431,
       "rank": 18,
       "category": "教育"
-    },
-    {
-      "raw_hot": 727049,
-      "num": 727049,
-      "word": "男子高烧发视频被多个殡葬商家关注",
-      "onboard_time": 1671961950,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 718456,
@@ -363,20 +379,36 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 666926,
+      "num": 646750,
+      "word": "民政局回应下意识逃走残疾摊主没低保",
+      "onboard_time": 1671964892,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 647304,
+      "num": 647304,
+      "word": "好像理解宛瑜要的自由了",
+      "onboard_time": 1671961589,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 644168,
+      "num": 644168,
+      "word": "河南一景区人山人海水泄不通",
+      "onboard_time": 1671962610,
+      "rank": 23,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 606317,
       "num": 606317,
       "word": "小孩急需美林小姨缝衣服里寄出",
       "onboard_time": 1671895289,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 587775,
-      "num": 587775,
-      "word": "Last Christmas",
-      "onboard_time": 1671962911,
-      "rank": 22,
-      "category": "音乐"
     },
     {
       "raw_hot": 585317,
@@ -393,14 +425,6 @@
       "onboard_time": 1671895289,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 577213,
-      "num": 577213,
-      "word": "好像理解宛瑜要的自由了",
-      "onboard_time": 1671961589,
-      "rank": 9,
-      "category": "情感"
     },
     {
       "raw_hot": 576502,
@@ -507,12 +531,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 483686,
-      "num": 483686,
-      "word": "河南一景区人山人海水泄不通",
-      "onboard_time": 1671962610,
-      "rank": 23,
-      "category": "旅游"
+      "raw_hot": 485387,
+      "num": 485387,
+      "word": "研究生考试结束别忘记谢谢自己",
+      "onboard_time": 1671962971,
+      "rank": 48,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 481097,
@@ -529,6 +553,14 @@
       "onboard_time": 1671946707,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 465058,
+      "num": 465058,
+      "word": "迪丽热巴歌声",
+      "onboard_time": 1671964050,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 451780,
@@ -561,6 +593,14 @@
       "onboard_time": 1671940713,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 432742,
+      "num": 1441931,
+      "word": "再次感染奥密克戎变异毒株几率高吗",
+      "onboard_time": 1671964232,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 431945,
@@ -691,6 +731,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 375751,
+      "num": 375751,
+      "word": "考研答案",
+      "onboard_time": 1671963271,
+      "rank": 43,
+      "category": "教育"
+    },
+    {
       "raw_hot": 369374,
       "num": 369374,
       "word": "王铮亮现身2023春晚彩排现场",
@@ -779,16 +827,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 333198,
-      "num": 333198,
-      "word": "考研答案",
-      "onboard_time": 1671963271,
-      "rank": 43,
-      "category": "教育"
-    },
-    {
       "raw_hot": 327472,
-      "num": 304958,
+      "num": 306734,
       "word": "刘耀文 红卡",
       "onboard_time": 1671963093,
       "rank": 30,
@@ -825,14 +865,6 @@
       "onboard_time": 1671939090,
       "rank": 40,
       "category": "游戏,艺人"
-    },
-    {
-      "raw_hot": 314341,
-      "num": 314341,
-      "word": "KN95和N95口罩有什么区别",
-      "onboard_time": 1671963632,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 309643,
@@ -929,14 +961,6 @@
       "onboard_time": 1671943832,
       "rank": 22,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 273884,
-      "num": 202173,
-      "word": "迪丽热巴歌声",
-      "onboard_time": 1671964050,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 272543,
@@ -1091,6 +1115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 233637,
+      "num": 186196,
+      "word": "陈佑希是来拆散这个家的吧",
+      "onboard_time": 1671965551,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 233528,
       "num": 178222,
       "word": "张元英SBS歌谣大战直拍",
@@ -1187,6 +1219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 212466,
+      "num": 212466,
+      "word": "张朝阳称喝盐水能缓解刀片嗓",
+      "onboard_time": 1671965792,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 210980,
       "num": 210980,
       "word": "两弹一星元勋中最后被解密的是朱光亚",
@@ -1201,6 +1241,14 @@
       "onboard_time": 1671945152,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 204295,
+      "num": 204295,
+      "word": "盲人母亲给脑瘫儿做猪头肉",
+      "onboard_time": 1671964711,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 201611,
@@ -1299,14 +1347,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 190176,
-      "num": 190176,
-      "word": "研究生考试结束别忘记谢谢自己",
-      "onboard_time": 1671962971,
-      "rank": 48,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 189963,
       "num": 189963,
       "word": "如何看待女子因赠药被踹门辱骂",
@@ -1353,6 +1393,22 @@
       "onboard_time": 1671888634,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 181399,
+      "num": 181399,
+      "word": "AG圣诞树使用说明",
+      "onboard_time": 1671966813,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 180081,
+      "num": 180081,
+      "word": "广州足球俱乐部董事长被恒大集团开除",
+      "onboard_time": 1671965372,
+      "rank": 36,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 179993,
@@ -1539,6 +1595,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 160134,
+      "num": 160134,
+      "word": "世界杯前后的卡塔尔",
+      "onboard_time": 1671964532,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 160037,
       "num": 160037,
       "word": "最美的夜有六十多个IP",
@@ -1569,6 +1633,14 @@
       "onboard_time": 1671956246,
       "rank": 46,
       "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 156509,
+      "num": 156509,
+      "word": "出现这些症状当心病毒性心肌炎",
+      "onboard_time": 1671966092,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 156241,
@@ -1755,6 +1827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 133853,
+      "num": 133853,
+      "word": "BLG对战RNG",
+      "onboard_time": 1671966392,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 133159,
       "num": 133159,
       "word": "刚出生的宝宝不慎发烧浑身通红",
@@ -1793,6 +1873,14 @@
       "onboard_time": 1671936027,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 128913,
+      "num": 128913,
+      "word": "冰面破裂男子飞奔救起两落水儿童",
+      "onboard_time": 1671966513,
+      "rank": 46,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 126830,
@@ -2163,14 +2251,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 15597,
-      "num": 1441931,
-      "word": "再次感染奥密克戎变异毒株几率高吗",
-      "onboard_time": 1671964232,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 15550,
       "num": 15550,
       "word": "2022贺岁档票房破10亿",
@@ -2202,6 +2282,9 @@
     },
     {
       "word": "#建设农业强国要抓好的头等大事#"
+    },
+    {
+      "word": "#2022那些治愈瞬间#"
     }
   ]
 }
