@@ -1,6 +1,6 @@
 {
   "startTime": 1671899049163,
-  "endTime": 1671977708271,
+  "endTime": 1671978801714,
   "band_list": [
     {
       "raw_hot": 2934630,
@@ -155,6 +155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1256983,
+      "num": 1256983,
+      "word": "财阀家的小儿子",
+      "onboard_time": 1671923596,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1232700,
       "num": 1232700,
       "word": "使徒行者 尬",
@@ -241,6 +249,14 @@
       "onboard_time": 1671936867,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1001279,
+      "num": 553512,
+      "word": "王栎鑫红发",
+      "onboard_time": 1671977850,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 965495,
@@ -339,6 +355,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 799487,
+      "num": 799487,
+      "word": "转阴后为什么还是觉得累",
+      "onboard_time": 1671974972,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 768008,
       "num": 768008,
       "word": "费曼回应吴镇宇叫刘耀文宝贝",
@@ -353,14 +377,6 @@
       "onboard_time": 1671946049,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 760689,
-      "num": 760689,
-      "word": "财阀家的小儿子",
-      "onboard_time": 1671923596,
-      "rank": 38,
-      "category": "影视"
     },
     {
       "raw_hot": 753862,
@@ -451,6 +467,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 650539,
+      "num": 650539,
+      "word": "GK对战WB",
+      "onboard_time": 1671977610,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 644168,
       "num": 644168,
       "word": "河南一景区人山人海水泄不通",
@@ -459,8 +483,8 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 639754,
-      "num": 639754,
+      "raw_hot": 643032,
+      "num": 643032,
       "word": "出现这些症状当心病毒性心肌炎",
       "onboard_time": 1671966092,
       "rank": 38,
@@ -472,14 +496,6 @@
       "word": "小孩急需美林小姨缝衣服里寄出",
       "onboard_time": 1671895289,
       "rank": 5,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 602468,
-      "num": 602468,
-      "word": "转阴后为什么还是觉得累",
-      "onboard_time": 1671974972,
-      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -528,6 +544,14 @@
       "word": "刚转阴生活工作节奏宜稍微放缓",
       "onboard_time": 1671972509,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 543813,
+      "num": 543813,
+      "word": "首波新冠感染高峰冲击下的医院",
+      "onboard_time": 1671976592,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -779,6 +803,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 403427,
+      "num": 403427,
+      "word": "WB 巅峰",
+      "onboard_time": 1671976950,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 402426,
       "num": 402426,
       "word": "塔利班禁止妇女在国内和国际非政府组织工作",
@@ -889,14 +921,6 @@
       "onboard_time": 1671963271,
       "rank": 43,
       "category": "教育"
-    },
-    {
-      "raw_hot": 371975,
-      "num": 371975,
-      "word": "GK对战WB",
-      "onboard_time": 1671977610,
-      "rank": 16,
-      "category": "游戏"
     },
     {
       "raw_hot": 369374,
@@ -1011,12 +1035,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 324281,
+      "num": 324281,
+      "word": "武庚纪",
+      "onboard_time": 1671977672,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 323950,
       "num": 323950,
       "word": "吴镇宇演技",
       "onboard_time": 1671927201,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 323934,
+      "num": 323934,
+      "word": "想见你",
+      "onboard_time": 1671973593,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 322097,
@@ -1147,6 +1187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 296020,
+      "num": 296020,
+      "word": "女子分享吸入式疫苗接种体验",
+      "onboard_time": 1671975511,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 295585,
       "num": 295585,
       "word": "年轻博士居家隔离时高烧昏厥去世",
@@ -1171,20 +1219,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 290182,
-      "num": 290182,
-      "word": "女子分享吸入式疫苗接种体验",
-      "onboard_time": 1671975511,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 286380,
       "num": 286380,
       "word": "重庆9岁男孩一把抱住晕倒的妈妈",
       "onboard_time": 1671960570,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 285442,
+      "num": 285442,
+      "word": "巅峰对决",
+      "onboard_time": 1671977912,
+      "rank": 32,
+      "category": "游戏,综艺"
     },
     {
       "raw_hot": 283414,
@@ -1291,12 +1339,12 @@
       "category": "体育,情感"
     },
     {
-      "raw_hot": 259433,
-      "num": 208007,
-      "word": "想见你",
-      "onboard_time": 1671973593,
-      "rank": 34,
-      "category": "影视"
+      "raw_hot": 256932,
+      "num": 285986,
+      "word": "男子为节省抗原将试纸剪开分两次用",
+      "onboard_time": 1671977912,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 254680,
@@ -1363,20 +1411,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 246603,
+      "num": 183711,
+      "word": "王大陆蔡卓宜一起跳绳毫无默契",
+      "onboard_time": 1671978271,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 245463,
       "num": 245463,
       "word": "宝宝凌晨惊厥抽搐宝妈无助大哭",
       "onboard_time": 1671889174,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 242624,
-      "num": 144364,
-      "word": "武庚纪",
-      "onboard_time": 1671977672,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 239578,
@@ -1531,14 +1579,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 211326,
-      "num": 211326,
-      "word": "首波新冠感染高峰冲击下的医院",
-      "onboard_time": 1671976592,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 211151,
       "num": 138423,
       "word": "李光洁鸭太太马甲掉了",
@@ -1553,6 +1593,14 @@
       "onboard_time": 1671937888,
       "rank": 43,
       "category": "军事"
+    },
+    {
+      "raw_hot": 210664,
+      "num": 210664,
+      "word": "杭州警方通报女子送药被踹门",
+      "onboard_time": 1671978330,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 209997,
@@ -2027,6 +2075,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 149516,
+      "num": 149516,
+      "word": "阳康后为什么不要急着剧烈运动",
+      "onboard_time": 1671978034,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 148996,
       "num": 148996,
       "word": "阳了以后怎么吃",
@@ -2147,14 +2203,6 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 137375,
-      "num": 137375,
-      "word": "WB 巅峰",
-      "onboard_time": 1671976950,
-      "rank": 43,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 137011,
       "num": 135870,
       "word": "柯佳嬿施柏宇说陈韵如莫俊杰是慢热",
@@ -2169,6 +2217,14 @@
       "onboard_time": 1671897206,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 135523,
+      "num": 135523,
+      "word": "阳了以后洗澡时间一定要短",
+      "onboard_time": 1671978509,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 134758,
