@@ -1,6 +1,6 @@
 {
   "startTime": 1671985442345,
-  "endTime": 1672006582710,
+  "endTime": 1672007605385,
   "band_list": [
     {
       "raw_hot": 1079246,
@@ -323,6 +323,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 113607,
+      "num": 87087,
+      "word": "北京部分医院发热门诊现状",
+      "onboard_time": 1672000213,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 103824,
       "num": 103824,
       "word": "如何用四大名著诠释阳了",
@@ -339,20 +347,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 102307,
-      "num": 64128,
-      "word": "北京部分医院发热门诊现状",
-      "onboard_time": 1672000213,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 99003,
       "num": 99003,
       "word": "WB 花楼",
       "onboard_time": 1671980190,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 89253,
+      "num": 89253,
+      "word": "你身边还有多少人没感染",
+      "onboard_time": 1671999911,
+      "rank": 46,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 87168,
@@ -443,14 +451,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 64174,
-      "num": 64174,
-      "word": "你身边还有多少人没感染",
-      "onboard_time": 1671999911,
-      "rank": 46,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 61133,
       "num": 70551,
       "word": "阳过后小心病毒性心肌炎",
@@ -491,12 +491,28 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 21712,
-      "num": 21712,
+      "raw_hot": 36843,
+      "num": 30273,
       "word": "智能手表能否平替血氧仪",
       "onboard_time": 1672005671,
       "rank": 35,
       "category": "科技,社会议题"
+    },
+    {
+      "raw_hot": 31545,
+      "num": 30057,
+      "word": "为什么转阴后仍感到虚弱",
+      "onboard_time": 1672006151,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 24783,
+      "num": 24783,
+      "word": "阳了之后你瘦了没",
+      "onboard_time": 1672006692,
+      "rank": 36,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 18873,
@@ -515,12 +531,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 15943,
-      "num": 15943,
-      "word": "为什么转阴后仍感到虚弱",
-      "onboard_time": 1672006151,
-      "rank": 45,
-      "category": "社会新闻"
+      "raw_hot": 17225,
+      "num": 17225,
+      "word": "被慢综艺治愈的2022",
+      "onboard_time": 1672006093,
+      "rank": 47,
+      "category": "综艺"
     }
   ],
   "hotgov_list": [
