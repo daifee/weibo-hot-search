@@ -1,6 +1,6 @@
 {
   "startTime": 1671899049163,
-  "endTime": 1671935985542,
+  "endTime": 1671936589542,
   "band_list": [
     {
       "raw_hot": 2934630,
@@ -11,16 +11,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2225126,
-      "num": 2225126,
+      "raw_hot": 2262747,
+      "num": 2262747,
       "word": "即日起不再发布每日疫情信息",
       "onboard_time": 1671932843,
       "rank": 24,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1551598,
-      "num": 1551598,
+      "raw_hot": 1635847,
+      "num": 1635847,
       "word": "法国出现重踢世界杯决赛请愿",
       "onboard_time": 1671932667,
       "rank": 12,
@@ -51,12 +51,20 @@
       "category": "综艺,幽默"
     },
     {
-      "raw_hot": 892576,
-      "num": 892576,
+      "raw_hot": 936912,
+      "num": 936912,
       "word": "梅婷演技 吓人",
       "onboard_time": 1671931766,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 869394,
+      "num": 569843,
+      "word": "儿子4年没碰琴阳了每天练琴",
+      "onboard_time": 1671935067,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 863574,
@@ -73,6 +81,14 @@
       "onboard_time": 1671896963,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 770343,
+      "num": 770343,
+      "word": "赠药反被邻居踹门辱骂当事女子回应",
+      "onboard_time": 1671935006,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 753862,
@@ -131,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 571482,
+      "num": 571482,
+      "word": "电影前任4英年早婚开机",
+      "onboard_time": 1671936151,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 552780,
       "num": 552780,
       "word": "北京要求千方百计降低病亡率",
@@ -147,36 +171,36 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 509111,
-      "num": 183883,
-      "word": "儿子4年没碰琴阳了每天练琴",
-      "onboard_time": 1671935067,
-      "rank": 30,
+      "raw_hot": 509808,
+      "num": 509808,
+      "word": "媳妇染新冠嗓子疼投屏喊老公倒水",
+      "onboard_time": 1671933806,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 501406,
-      "num": 501406,
+      "raw_hot": 501954,
+      "num": 501954,
       "word": "王嘉尔演唱会翻栏杆保镖后面追",
       "onboard_time": 1671932125,
       "rank": 40,
       "category": "音乐"
     },
     {
-      "raw_hot": 483714,
-      "num": 483714,
+      "raw_hot": 488675,
+      "num": 488675,
       "word": "止咳药千万不要随咳随用",
       "onboard_time": 1671933868,
       "rank": 10,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 450939,
-      "num": 450939,
-      "word": "媳妇染新冠嗓子疼投屏喊老公倒水",
-      "onboard_time": 1671933806,
-      "rank": 12,
-      "category": "社会新闻"
+      "raw_hot": 451780,
+      "num": 451780,
+      "word": "红卡 标准",
+      "onboard_time": 1671932186,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 447621,
@@ -187,28 +211,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 444692,
-      "num": 444692,
-      "word": "红卡 标准",
-      "onboard_time": 1671932186,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 406088,
       "num": 406088,
       "word": "沈月说自己上不了台面",
       "onboard_time": 1671888932,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 396753,
-      "num": 396753,
-      "word": "赠药反被邻居踹门辱骂当事女子回应",
-      "onboard_time": 1671935006,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 395899,
@@ -331,6 +339,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 268443,
+      "num": 268443,
+      "word": "猴子面具",
+      "onboard_time": 1671933386,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 267299,
       "num": 185059,
       "word": "刘耀文问许绍雄有退休计划了吗",
@@ -387,14 +403,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 247895,
-      "num": 247895,
-      "word": "猴子面具",
-      "onboard_time": 1671933386,
-      "rank": 23,
-      "category": "影视"
-    },
-    {
       "raw_hot": 245463,
       "num": 245463,
       "word": "宝宝凌晨惊厥抽搐宝妈无助大哭",
@@ -427,6 +435,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 225677,
+      "num": 182508,
+      "word": "我可能遇到了救星 好看",
+      "onboard_time": 1671935006,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 223666,
       "num": 138152,
       "word": "回来的女儿",
@@ -449,14 +465,6 @@
       "onboard_time": 1671925579,
       "rank": 22,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 207440,
-      "num": 182508,
-      "word": "我可能遇到了救星 好看",
-      "onboard_time": 1671935006,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 200284,
@@ -505,6 +513,14 @@
       "onboard_time": 1671926539,
       "rank": 34,
       "category": "美食"
+    },
+    {
+      "raw_hot": 184704,
+      "num": 168092,
+      "word": "电影想见你豆瓣6.8分",
+      "onboard_time": 1671936387,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 181448,
@@ -563,6 +579,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 164789,
+      "num": 164789,
+      "word": "四川人歌里都是中国速度",
+      "onboard_time": 1671936569,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 164623,
+      "num": 164623,
+      "word": "张元英PrettyGirl手势舞视频",
+      "onboard_time": 1671926301,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 163949,
       "num": 163949,
       "word": "谭松韵演唱向风而行人物主题曲",
@@ -571,20 +603,28 @@
       "category": "影视,音乐"
     },
     {
-      "raw_hot": 162156,
-      "num": 162156,
-      "word": "张元英PrettyGirl手势舞视频",
-      "onboard_time": 1671926301,
-      "rank": 35,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 158803,
       "num": 158803,
       "word": "英语一 难",
       "onboard_time": 1671873094,
       "rank": 28,
       "category": "教育"
+    },
+    {
+      "raw_hot": 158187,
+      "num": 158187,
+      "word": "为啥天然VC突然爆火",
+      "onboard_time": 1671933386,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 157234,
+      "num": 157234,
+      "word": "阿根廷人最珍贵的圣诞礼物",
+      "onboard_time": 1671935665,
+      "rank": 45,
+      "category": "体育,情感"
     },
     {
       "raw_hot": 156241,
@@ -616,14 +656,6 @@
       "word": "阳了以后怎么吃",
       "onboard_time": 1671927322,
       "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 148456,
-      "num": 148456,
-      "word": "为啥天然VC突然爆火",
-      "onboard_time": 1671933386,
-      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -707,6 +739,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 129915,
+      "num": 129915,
+      "word": "王俊凯百花迎春上班路透",
+      "onboard_time": 1671936027,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 126830,
       "num": 126830,
       "word": "阳后你的症状持续了多久",
@@ -779,14 +819,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 111375,
-      "num": 111375,
-      "word": "阿根廷人最珍贵的圣诞礼物",
-      "onboard_time": 1671935665,
-      "rank": 45,
-      "category": "体育,情感"
-    },
-    {
       "raw_hot": 109839,
       "num": 109839,
       "word": "社区回应下意识逃走的卖橘男称没低保一事",
@@ -809,6 +841,14 @@
       "onboard_time": 1671882695,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 101536,
+      "num": 109662,
+      "word": "李斌称蔚来明年超雷克萨斯",
+      "onboard_time": 1671936151,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 101375,
