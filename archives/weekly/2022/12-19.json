@@ -1,6 +1,6 @@
 {
   "startTime": 1671380618877,
-  "endTime": 1671946404779,
+  "endTime": 1671949288897,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -1483,6 +1483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1109217,
+      "num": 489789,
+      "word": "米奇妙妙屋",
+      "onboard_time": 1671946707,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1106370,
       "num": 1106370,
       "word": "警方回应女子高烧连打三针后死亡",
@@ -1793,6 +1801,14 @@
       "onboard_time": 1671931766,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 963456,
+      "num": 963456,
+      "word": "阳康们涌向海南三亚",
+      "onboard_time": 1671944731,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 961233,
@@ -2499,14 +2515,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 770506,
-      "num": 432623,
-      "word": "阳康们涌向海南三亚",
-      "onboard_time": 1671944731,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 770458,
       "num": 489291,
       "word": "沈月画的车保罗",
@@ -2865,6 +2873,14 @@
       "onboard_time": 1671539310,
       "rank": 43,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 711857,
+      "num": 711857,
+      "word": "上海男生时隔半年再次感染新冠",
+      "onboard_time": 1671946049,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 710593,
@@ -4019,6 +4035,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 537142,
+      "num": 537142,
+      "word": "刘诗诗任如意舞扇喝酒路透",
+      "onboard_time": 1671948268,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 534089,
       "num": 534089,
       "word": "越前龙马",
@@ -4329,6 +4353,14 @@
       "onboard_time": 1671716192,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 494752,
+      "num": 494752,
+      "word": "越南和柬埔寨现超级蚊子",
+      "onboard_time": 1671945391,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 494297,
@@ -4659,6 +4691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 468104,
+      "num": 468104,
+      "word": "男子凌晨发现狗在床上生了4只崽",
+      "onboard_time": 1671948149,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 467985,
       "num": 467985,
       "word": "玄彬留了胡子",
@@ -4689,6 +4729,14 @@
       "onboard_time": 1671701491,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 465276,
+      "num": 465276,
+      "word": "阳了为啥会瘦",
+      "onboard_time": 1671946467,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 464252,
@@ -4897,6 +4945,14 @@
       "onboard_time": 1671582086,
       "rank": 13,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 443657,
+      "num": 443657,
+      "word": "小亮",
+      "onboard_time": 1671949049,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 442066,
@@ -6355,6 +6411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 344774,
+      "num": 344774,
+      "word": "姜云升 红包",
+      "onboard_time": 1671946828,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 344572,
       "num": 344572,
       "word": "小兽",
@@ -6521,6 +6585,14 @@
       "onboard_time": 1671431668,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 336149,
+      "num": 336149,
+      "word": "消失的她",
+      "onboard_time": 1671945451,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 335766,
@@ -6865,14 +6937,6 @@
       "onboard_time": 1671815778,
       "rank": 43,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 319308,
-      "num": 319308,
-      "word": "消失的她",
-      "onboard_time": 1671945451,
-      "rank": 18,
-      "category": "影视"
     },
     {
       "raw_hot": 319179,
@@ -8267,6 +8331,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 262430,
+      "num": 161397,
+      "word": "特斯拉上海工厂被曝已停产",
+      "onboard_time": 1671948389,
+      "rank": 30,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 262155,
       "num": 262155,
       "word": "阳后还被猫给欺负了",
@@ -8697,6 +8769,14 @@
       "onboard_time": 1671867028,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 245200,
+      "num": 245200,
+      "word": "专家辟谣二次感染症状会更重",
+      "onboard_time": 1671946707,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 244991,
@@ -9521,14 +9601,6 @@
       "onboard_time": 1671865892,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 217063,
-      "num": 217063,
-      "word": "越南和柬埔寨现超级蚊子",
-      "onboard_time": 1671945391,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 216383,
@@ -11747,6 +11819,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 172040,
+      "num": 159002,
+      "word": "财阀家的小儿子今晚大结局",
+      "onboard_time": 1671947907,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 172022,
       "num": 172022,
       "word": "当你的孩子比你提前康复",
@@ -12097,6 +12177,14 @@
       "onboard_time": 1671712111,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 165066,
+      "num": 137037,
+      "word": "李星辰 搞笑",
+      "onboard_time": 1671947129,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 165000,
@@ -12811,6 +12899,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 153385,
+      "num": 153385,
+      "word": "这哈士奇一看就很纯",
+      "onboard_time": 1671947487,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 153362,
       "num": 153362,
       "word": "金泰亨圣诞cover曲",
@@ -12891,12 +12987,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 152247,
-      "num": 152247,
-      "word": "上海男生时隔半年再次感染新冠",
-      "onboard_time": 1671946049,
-      "rank": 41,
-      "category": "社会新闻"
+      "raw_hot": 152011,
+      "num": 152011,
+      "word": "拾荒大爷雪天住楼梯间整栋楼人守护",
+      "onboard_time": 1671945807,
+      "rank": 42,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 151431,
@@ -13057,14 +13153,6 @@
       "onboard_time": 1671597695,
       "rank": 49,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 149002,
-      "num": 149002,
-      "word": "拾荒大爷雪天住楼梯间整栋楼人守护",
-      "onboard_time": 1671945807,
-      "rank": 42,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 148996,
@@ -13563,6 +13651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 140663,
+      "num": 140663,
+      "word": "年终欢乐大作战",
+      "onboard_time": 1671948866,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 140657,
       "num": 140657,
       "word": "雪中大熊猫太像芝麻团子裹椰蓉",
@@ -14033,6 +14129,14 @@
       "onboard_time": 1671690870,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 130520,
+      "num": 130520,
+      "word": "转阴了仍然腰疼怎么办",
+      "onboard_time": 1671948627,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 130366,
@@ -14851,6 +14955,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 113554,
+      "num": 113554,
+      "word": "康辉是天选打工人吧",
+      "onboard_time": 1671949169,
+      "rank": 48,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 113442,
       "num": 113442,
       "word": "小羊是真的很会卖萌",
@@ -15031,6 +15143,14 @@
       "num": 109672,
       "word": "看大熊猫干饭居然也很治愈",
       "onboard_time": 1671780088,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 109339,
+      "num": 113385,
+      "word": "男子偷割他人麦苗喂羊",
+      "onboard_time": 1671948928,
       "rank": 49,
       "category": "社会新闻"
     },
