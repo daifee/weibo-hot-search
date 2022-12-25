@@ -1,6 +1,6 @@
 {
   "startTime": 1671899049163,
-  "endTime": 1671933320741,
+  "endTime": 1671935985542,
   "band_list": [
     {
       "raw_hot": 2934630,
@@ -9,6 +9,22 @@
       "onboard_time": 1671891212,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2225126,
+      "num": 2225126,
+      "word": "即日起不再发布每日疫情信息",
+      "onboard_time": 1671932843,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1551598,
+      "num": 1551598,
+      "word": "法国出现重踢世界杯决赛请愿",
+      "onboard_time": 1671932667,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 1439404,
@@ -35,6 +51,14 @@
       "category": "综艺,幽默"
     },
     {
+      "raw_hot": 892576,
+      "num": 892576,
+      "word": "梅婷演技 吓人",
+      "onboard_time": 1671931766,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 863574,
       "num": 863574,
       "word": "男子花16万看球曝光总开销",
@@ -56,6 +80,14 @@
       "word": "康复后二次感染比例有多高",
       "onboard_time": 1671872431,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 746012,
+      "num": 746012,
+      "word": "遭嫌疑人开车碾压经3次开颅民警醒了",
+      "onboard_time": 1671933086,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -115,6 +147,38 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 509111,
+      "num": 183883,
+      "word": "儿子4年没碰琴阳了每天练琴",
+      "onboard_time": 1671935067,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 501406,
+      "num": 501406,
+      "word": "王嘉尔演唱会翻栏杆保镖后面追",
+      "onboard_time": 1671932125,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 483714,
+      "num": 483714,
+      "word": "止咳药千万不要随咳随用",
+      "onboard_time": 1671933868,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 450939,
+      "num": 450939,
+      "word": "媳妇染新冠嗓子疼投屏喊老公倒水",
+      "onboard_time": 1671933806,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 447621,
       "num": 447621,
       "word": "2岁男童尿道下裂被父母误当女孩养",
@@ -123,12 +187,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 402695,
-      "num": 402695,
-      "word": "梅婷演技 吓人",
-      "onboard_time": 1671931766,
-      "rank": 33,
-      "category": "影视"
+      "raw_hot": 444692,
+      "num": 444692,
+      "word": "红卡 标准",
+      "onboard_time": 1671932186,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 406088,
+      "num": 406088,
+      "word": "沈月说自己上不了台面",
+      "onboard_time": 1671888932,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 396753,
+      "num": 396753,
+      "word": "赠药反被邻居踹门辱骂当事女子回应",
+      "onboard_time": 1671935006,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 395899,
@@ -145,14 +225,6 @@
       "onboard_time": 1671884073,
       "rank": 10,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 359210,
-      "num": 359210,
-      "word": "法国出现重踢世界杯决赛请愿",
-      "onboard_time": 1671932667,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 356111,
@@ -219,14 +291,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 318900,
-      "num": 318900,
-      "word": "王嘉尔演唱会翻栏杆保镖后面追",
-      "onboard_time": 1671932125,
-      "rank": 40,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 308646,
       "num": 305881,
       "word": "你身边有二次感染的人吗",
@@ -265,14 +329,6 @@
       "onboard_time": 1671926120,
       "rank": 16,
       "category": "教育"
-    },
-    {
-      "raw_hot": 281732,
-      "num": 263546,
-      "word": "红卡 标准",
-      "onboard_time": 1671932186,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 267299,
@@ -323,6 +379,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 253019,
+      "num": 253019,
+      "word": "目击者拍救人英雄一看竟是自家女婿",
+      "onboard_time": 1671933386,
+      "rank": 22,
+      "category": "社会正能量"
+    },
+    {
+      "raw_hot": 247895,
+      "num": 247895,
+      "word": "猴子面具",
+      "onboard_time": 1671933386,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 245463,
       "num": 245463,
       "word": "宝宝凌晨惊厥抽搐宝妈无助大哭",
@@ -355,14 +427,6 @@
       "category": "社会新闻,美食"
     },
     {
-      "raw_hot": 227065,
-      "num": 227065,
-      "word": "即日起不再发布每日疫情信息",
-      "onboard_time": 1671932843,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 223666,
       "num": 138152,
       "word": "回来的女儿",
@@ -387,12 +451,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 207440,
+      "num": 182508,
+      "word": "我可能遇到了救星 好看",
+      "onboard_time": 1671935006,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 200284,
       "num": 200284,
       "word": "财阀家的小儿子16",
       "onboard_time": 1671928583,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 198084,
+      "num": 198084,
+      "word": "张朝阳称力学无时不在保护我们的安全",
+      "onboard_time": 1671933086,
+      "rank": 45,
+      "category": "教育"
     },
     {
       "raw_hot": 197883,
@@ -459,14 +539,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 175228,
-      "num": 175228,
-      "word": "遭嫌疑人开车碾压经3次开颅民警醒了",
-      "onboard_time": 1671933086,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 172495,
       "num": 172495,
       "word": "18岁女生因焦虑2个月减25斤成95斤",
@@ -491,14 +563,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 165113,
-      "num": 94748,
-      "word": "沈月说自己上不了台面",
-      "onboard_time": 1671888932,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 163949,
       "num": 163949,
       "word": "谭松韵演唱向风而行人物主题曲",
@@ -507,20 +571,20 @@
       "category": "影视,音乐"
     },
     {
+      "raw_hot": 162156,
+      "num": 162156,
+      "word": "张元英PrettyGirl手势舞视频",
+      "onboard_time": 1671926301,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 158803,
       "num": 158803,
       "word": "英语一 难",
       "onboard_time": 1671873094,
       "rank": 28,
       "category": "教育"
-    },
-    {
-      "raw_hot": 156542,
-      "num": 156542,
-      "word": "张元英PrettyGirl手势舞视频",
-      "onboard_time": 1671926301,
-      "rank": 35,
-      "category": "音乐"
     },
     {
       "raw_hot": 156241,
@@ -555,11 +619,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 148456,
+      "num": 148456,
+      "word": "为啥天然VC突然爆火",
+      "onboard_time": 1671933386,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145439,
       "num": 113719,
       "word": "你好星期六下期金曲之夜爷青回",
       "onboard_time": 1671898884,
       "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 141809,
+      "num": 141809,
+      "word": "车保罗说不介意有名字没名字",
+      "onboard_time": 1671935427,
+      "rank": 37,
       "category": "综艺"
     },
     {
@@ -635,14 +715,6 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 126169,
-      "num": 126169,
-      "word": "张朝阳称力学无时不在保护我们的安全",
-      "onboard_time": 1671933086,
-      "rank": 45,
-      "category": "教育"
-    },
-    {
       "raw_hot": 124784,
       "num": 124784,
       "word": "Fly哭了",
@@ -675,6 +747,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 118127,
+      "num": 118127,
+      "word": "辞职护士主动重返医院支援发热门诊",
+      "onboard_time": 1671935188,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 116911,
       "num": 98929,
       "word": "罗渽民黄仁俊candy舞台互动",
@@ -697,6 +777,14 @@
       "onboard_time": 1671878671,
       "rank": 47,
       "category": "教育"
+    },
+    {
+      "raw_hot": 111375,
+      "num": 111375,
+      "word": "阿根廷人最珍贵的圣诞礼物",
+      "onboard_time": 1671935665,
+      "rank": 45,
+      "category": "体育,情感"
     },
     {
       "raw_hot": 109839,
@@ -763,6 +851,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 91832,
+      "num": 91832,
+      "word": "如何判断症状加重需尽快就医",
+      "onboard_time": 1671935307,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 88351,
       "num": 71394,
       "word": "军医一针止血挽救大动脉破裂战士",
@@ -812,7 +908,7 @@
     },
     {
       "raw_hot": 63376,
-      "num": 875028,
+      "num": 1144936,
       "word": "全球首架C919自12月26日起验证飞行",
       "onboard_time": 1671890373,
       "rank": 2,

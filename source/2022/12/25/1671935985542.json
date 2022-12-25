@@ -1,0 +1,410 @@
+{
+  "runTime": 1671935985542,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2225126,
+        "num": 2225126,
+        "word": "即日起不再发布每日疫情信息",
+        "onboard_time": 1671932843,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1551598,
+        "num": 1551598,
+        "word": "法国出现重踢世界杯决赛请愿",
+        "onboard_time": 1671932667,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 39369,
+        "num": 1144936,
+        "word": "全球首架C919自12月26日起验证飞行",
+        "onboard_time": 1671890373,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1138770,
+        "num": 1138770,
+        "word": "感染后咳嗽什么程度应该警惕",
+        "onboard_time": 1671925459,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 892576,
+        "num": 892576,
+        "word": "梅婷演技 吓人",
+        "onboard_time": 1671931766,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 746012,
+        "num": 746012,
+        "word": "遭嫌疑人开车碾压经3次开颅民警醒了",
+        "onboard_time": 1671933086,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 724796,
+        "num": 724796,
+        "word": "感染了到底能不能洗澡",
+        "onboard_time": 1671926361,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 625395,
+        "num": 625395,
+        "word": "男子花16万看球曝光总开销",
+        "onboard_time": 1671930205,
+        "rank": 7,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 595634,
+        "num": 595634,
+        "word": "你还在咳咳咳吗",
+        "onboard_time": 1671930986,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 501406,
+        "num": 501406,
+        "word": "王嘉尔演唱会翻栏杆保镖后面追",
+        "onboard_time": 1671932125,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 483714,
+        "num": 483714,
+        "word": "止咳药千万不要随咳随用",
+        "onboard_time": 1671933868,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 467990,
+        "num": 467990,
+        "word": "专家解答为什么不出门也感染",
+        "onboard_time": 1671929723,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 450939,
+        "num": 450939,
+        "word": "媳妇染新冠嗓子疼投屏喊老公倒水",
+        "onboard_time": 1671933806,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 449618,
+        "num": 449618,
+        "word": "刘耀文不知道无限超越班要演戏",
+        "onboard_time": 1671928041,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 444692,
+        "num": 444692,
+        "word": "红卡 标准",
+        "onboard_time": 1671932186,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 406088,
+        "num": 406088,
+        "word": "沈月说自己上不了台面",
+        "onboard_time": 1671888932,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 396753,
+        "num": 396753,
+        "word": "赠药反被邻居踹门辱骂当事女子回应",
+        "onboard_time": 1671935006,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 374474,
+        "num": 374474,
+        "word": "香港内地恢复通关后你打算去吗",
+        "onboard_time": 1671924979,
+        "rank": 17,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 297817,
+        "num": 297817,
+        "word": "康复后二次感染比例有多高",
+        "onboard_time": 1671872431,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292587,
+        "num": 292587,
+        "word": "薛之谦巡演跪地感谢歌迷",
+        "onboard_time": 1671930808,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 280868,
+        "num": 280868,
+        "word": "考研数学",
+        "onboard_time": 1671926120,
+        "rank": 20,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 267648,
+        "num": 267648,
+        "word": "小孩急需美林小姨缝衣服里寄出",
+        "onboard_time": 1671895289,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253019,
+        "num": 253019,
+        "word": "目击者拍救人英雄一看竟是自家女婿",
+        "onboard_time": 1671933386,
+        "rank": 22,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 247895,
+        "num": 247895,
+        "word": "猴子面具",
+        "onboard_time": 1671933386,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 241614,
+        "num": 241614,
+        "word": "圣诞节",
+        "onboard_time": 1671923297,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 234544,
+        "num": 234544,
+        "word": "这期没有郭晓婷",
+        "onboard_time": 1671926780,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 224477,
+        "num": 224477,
+        "word": "专家详解奥密克戎BQ.1和XBB变异毒株",
+        "onboard_time": 1671930864,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217138,
+        "num": 217138,
+        "word": "尹炫优杀了陈导俊",
+        "onboard_time": 1671924138,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 198084,
+        "num": 198084,
+        "word": "张朝阳称力学无时不在保护我们的安全",
+        "onboard_time": 1671933086,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 193193,
+        "num": 193193,
+        "word": "北京要求千方百计降低病亡率",
+        "onboard_time": 1671894632,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 509111,
+        "num": 183883,
+        "word": "儿子4年没碰琴阳了每天练琴",
+        "onboard_time": 1671935067,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207440,
+        "num": 182508,
+        "word": "我可能遇到了救星 好看",
+        "onboard_time": 1671935006,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 164626,
+        "num": 164626,
+        "word": "女子高压锅炖牛肉锅盖炸入天花板",
+        "onboard_time": 1671896010,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162156,
+        "num": 162156,
+        "word": "张元英PrettyGirl手势舞视频",
+        "onboard_time": 1671926301,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 155021,
+        "num": 155021,
+        "word": "专家分析北京目前感染率未到70%",
+        "onboard_time": 1671917831,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150368,
+        "num": 150368,
+        "word": "血氧饱和度是判断重症的重要依据",
+        "onboard_time": 1671895289,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148456,
+        "num": 148456,
+        "word": "为啥天然VC突然爆火",
+        "onboard_time": 1671933386,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141809,
+        "num": 141809,
+        "word": "车保罗说不介意有名字没名字",
+        "onboard_time": 1671935427,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141650,
+        "num": 141650,
+        "word": "不懂内娱到底在高贵什么",
+        "onboard_time": 1671873094,
+        "rank": 38,
+        "category": "综艺,幽默"
+      },
+      {
+        "raw_hot": 118480,
+        "num": 118480,
+        "word": "狗子真的尽力了",
+        "onboard_time": 1671927261,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 126734,
+        "num": 118466,
+        "word": "财阀家的小儿子16",
+        "onboard_time": 1671928583,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 118127,
+        "num": 118127,
+        "word": "辞职护士主动重返医院支援发热门诊",
+        "onboard_time": 1671935188,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117940,
+        "num": 117940,
+        "word": "你身边有二次感染的人吗",
+        "onboard_time": 1671923297,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116434,
+        "num": 116434,
+        "word": "epic",
+        "onboard_time": 1671928041,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 113472,
+        "num": 113472,
+        "word": "已婚男伪造离婚证表白情人被判6月",
+        "onboard_time": 1671900320,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111375,
+        "num": 111375,
+        "word": "阿根廷人最珍贵的圣诞礼物",
+        "onboard_time": 1671935665,
+        "rank": 45,
+        "category": "体育,情感"
+      },
+      {
+        "raw_hot": 109927,
+        "num": 109927,
+        "word": "袁娅维方将全额补偿歌迷损失",
+        "onboard_time": 1671925579,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 103432,
+        "num": 103432,
+        "word": "市民购买退烧药后免费赠送被查",
+        "onboard_time": 1671904395,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99227,
+        "num": 99227,
+        "word": "阳后你的症状持续了多久",
+        "onboard_time": 1671928764,
+        "rank": 48,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 91832,
+        "num": 91832,
+        "word": "如何判断症状加重需尽快就医",
+        "onboard_time": 1671935307,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#纵览2022那些国之重器#"
+    }
+  }
+}
