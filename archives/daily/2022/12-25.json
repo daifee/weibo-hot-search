@@ -1,6 +1,6 @@
 {
   "startTime": 1671899049163,
-  "endTime": 1671942090535,
+  "endTime": 1671942994999,
   "band_list": [
     {
       "raw_hot": 2934630,
@@ -19,6 +19,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2096838,
+      "num": 2096838,
+      "word": "数二",
+      "onboard_time": 1671939991,
+      "rank": 1,
+      "category": "教育"
+    },
+    {
       "raw_hot": 2050240,
       "num": 2050240,
       "word": "赠药反被邻居踹门辱骂当事女子回应",
@@ -27,27 +35,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2027798,
+      "num": 2027798,
+      "word": "396",
+      "onboard_time": 1671940110,
+      "rank": 3,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1959612,
       "num": 1959612,
       "word": "考研数学",
       "onboard_time": 1671926120,
       "rank": 16,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 1934971,
-      "num": 1934971,
-      "word": "数二",
-      "onboard_time": 1671939991,
-      "rank": 1,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 1828203,
-      "num": 1828203,
-      "word": "396",
-      "onboard_time": 1671940110,
-      "rank": 3,
       "category": "教育"
     },
     {
@@ -91,11 +91,19 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1238535,
-      "num": 1238535,
+      "raw_hot": 1313877,
+      "num": 1313877,
       "word": "1米88女生与2米03男友恋爱",
       "onboard_time": 1671939508,
       "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1193305,
+      "num": 1193305,
+      "word": "阳过后小心病毒性心肌炎",
+      "onboard_time": 1671941132,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -187,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 737311,
+      "num": 737311,
+      "word": "333",
+      "onboard_time": 1671941431,
+      "rank": 18,
+      "category": "教育"
+    },
+    {
       "raw_hot": 688612,
       "num": 688612,
       "word": "你还在咳咳咳吗",
@@ -249,22 +265,6 @@
       "onboard_time": 1671894632,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 526302,
-      "num": 526302,
-      "word": "阳过后小心病毒性心肌炎",
-      "onboard_time": 1671941132,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 525418,
-      "num": 525418,
-      "word": "333",
-      "onboard_time": 1671941431,
-      "rank": 18,
-      "category": "教育"
     },
     {
       "raw_hot": 519992,
@@ -337,6 +337,14 @@
       "onboard_time": 1671888932,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 396646,
+      "num": 396646,
+      "word": "Kpop里果然不缺搞笑人",
+      "onboard_time": 1671941792,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 395899,
@@ -427,12 +435,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 315980,
-      "num": 315980,
+      "raw_hot": 318583,
+      "num": 318583,
       "word": "王鹤棣游戏ID野区王路飞",
       "onboard_time": 1671939090,
       "rank": 40,
       "category": "游戏,艺人"
+    },
+    {
+      "raw_hot": 309643,
+      "num": 309643,
+      "word": "你会害怕和父母越来越像吗",
+      "onboard_time": 1671941611,
+      "rank": 32,
+      "category": "综艺,情感"
     },
     {
       "raw_hot": 308646,
@@ -473,6 +489,14 @@
       "onboard_time": 1671878671,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 294135,
+      "num": 294135,
+      "word": "数二答案",
+      "onboard_time": 1671942391,
+      "rank": 28,
+      "category": "教育"
     },
     {
       "raw_hot": 271369,
@@ -531,20 +555,20 @@
       "category": "体育,情感"
     },
     {
-      "raw_hot": 259306,
-      "num": 259306,
+      "raw_hot": 259669,
+      "num": 259669,
       "word": "回来的女儿原来猴脸是爸爸",
       "onboard_time": 1671939748,
       "rank": 27,
       "category": "影视"
     },
     {
-      "raw_hot": 256154,
-      "num": 256154,
-      "word": "Kpop里果然不缺搞笑人",
-      "onboard_time": 1671941792,
-      "rank": 28,
-      "category": "作品衍生"
+      "raw_hot": 256717,
+      "num": 256717,
+      "word": "尔冬升问沈月演了几年戏",
+      "onboard_time": 1671940713,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 254680,
@@ -619,14 +643,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 236160,
-      "num": 236160,
-      "word": "你会害怕和父母越来越像吗",
-      "onboard_time": 1671941611,
-      "rank": 32,
-      "category": "综艺,情感"
-    },
-    {
       "raw_hot": 229627,
       "num": 229627,
       "word": "买到新出厂黄桃罐头桃硬没泡入味",
@@ -667,12 +683,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 203976,
-      "num": 203976,
+      "raw_hot": 210980,
+      "num": 210980,
       "word": "两弹一星元勋中最后被解密的是朱光亚",
       "onboard_time": 1671937888,
       "rank": 43,
       "category": "军事"
+    },
+    {
+      "raw_hot": 201188,
+      "num": 201188,
+      "word": "311",
+      "onboard_time": 1671942450,
+      "rank": 39,
+      "category": "教育"
     },
     {
       "raw_hot": 200284,
@@ -739,20 +763,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 188496,
+      "num": 188496,
+      "word": "一直咳嗽会引发肺炎吗",
+      "onboard_time": 1671941308,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 184809,
       "num": 184809,
       "word": "24元的自助餐长啥样",
       "onboard_time": 1671926539,
       "rank": 34,
       "category": "美食"
-    },
-    {
-      "raw_hot": 182136,
-      "num": 182136,
-      "word": "一直咳嗽会引发肺炎吗",
-      "onboard_time": 1671941308,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 181448,
@@ -793,14 +817,6 @@
       "onboard_time": 1671941911,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 175614,
-      "num": 175614,
-      "word": "尔冬升问沈月演了几年戏",
-      "onboard_time": 1671940713,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 172495,
@@ -859,6 +875,22 @@
       "category": "影视,音乐"
     },
     {
+      "raw_hot": 160168,
+      "num": 160168,
+      "word": "SBS 套曲cover",
+      "onboard_time": 1671942991,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 160037,
+      "num": 160037,
+      "word": "最美的夜有六十多个IP",
+      "onboard_time": 1671941792,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 158803,
       "num": 158803,
       "word": "英语一 难",
@@ -897,6 +929,14 @@
       "onboard_time": 1671900980,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 152732,
+      "num": 152732,
+      "word": "水银体温计1支22元男子手机取证",
+      "onboard_time": 1671942872,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 148996,
@@ -1097,6 +1137,14 @@
       "onboard_time": 1671882573,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 104928,
+      "num": 1557750,
+      "word": "80张照片致我们拼过的春夏秋冬",
+      "onboard_time": 1671942391,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 104502,

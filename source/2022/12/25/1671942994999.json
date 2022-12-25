@@ -1,0 +1,410 @@
+{
+  "runTime": 1671942994999,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2096838,
+        "num": 2096838,
+        "word": "数二",
+        "onboard_time": 1671939991,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 2027798,
+        "num": 2027798,
+        "word": "396",
+        "onboard_time": 1671940110,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 104928,
+        "num": 1557750,
+        "word": "80张照片致我们拼过的春夏秋冬",
+        "onboard_time": 1671942391,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1313877,
+        "num": 1313877,
+        "word": "1米88女生与2米03男友恋爱",
+        "onboard_time": 1671939508,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1302846,
+        "num": 1302846,
+        "word": "考研数学",
+        "onboard_time": 1671926120,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1271795,
+        "num": 1271795,
+        "word": "儿子4年没碰琴阳了每天练琴",
+        "onboard_time": 1671935067,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1193305,
+        "num": 1193305,
+        "word": "阳过后小心病毒性心肌炎",
+        "onboard_time": 1671941132,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1011300,
+        "num": 1011300,
+        "word": "数学一",
+        "onboard_time": 1671940351,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 884690,
+        "num": 884690,
+        "word": "遇到其他毒株二次感染风险有多大",
+        "onboard_time": 1671937349,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 738402,
+        "num": 738402,
+        "word": "韩庚说兄弟结婚真好祝你成功",
+        "onboard_time": 1671936867,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 737311,
+        "num": 737311,
+        "word": "333",
+        "onboard_time": 1671941431,
+        "rank": 10,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 691466,
+        "num": 691466,
+        "word": "费曼回应吴镇宇叫刘耀文宝贝",
+        "onboard_time": 1671939629,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 589419,
+        "num": 589419,
+        "word": "数三",
+        "onboard_time": 1671940351,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 587355,
+        "num": 587355,
+        "word": "电影前任4英年早婚开机",
+        "onboard_time": 1671936151,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 569350,
+        "num": 569350,
+        "word": "中国足协对六人终身禁赛",
+        "onboard_time": 1671937349,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 500954,
+        "num": 500954,
+        "word": "法国出现重踢世界杯决赛请愿",
+        "onboard_time": 1671932667,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 485821,
+        "num": 485821,
+        "word": "感染后咳嗽什么程度应该警惕",
+        "onboard_time": 1671925459,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 474851,
+        "num": 474851,
+        "word": "即日起不再发布每日疫情信息",
+        "onboard_time": 1671932843,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 417583,
+        "num": 417583,
+        "word": "法硕",
+        "onboard_time": 1671939570,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 396646,
+        "num": 396646,
+        "word": "Kpop里果然不缺搞笑人",
+        "onboard_time": 1671941792,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 392153,
+        "num": 392153,
+        "word": "梅婷演技 吓人",
+        "onboard_time": 1671931766,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 379592,
+        "num": 379592,
+        "word": "感染了到底能不能洗澡",
+        "onboard_time": 1671926361,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348511,
+        "num": 348511,
+        "word": "西综",
+        "onboard_time": 1671940531,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 346048,
+        "num": 346048,
+        "word": "考研数学答案",
+        "onboard_time": 1671940770,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 325190,
+        "num": 325190,
+        "word": "电影想见你豆瓣6.8分",
+        "onboard_time": 1671936387,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 318583,
+        "num": 318583,
+        "word": "王鹤棣游戏ID野区王路飞",
+        "onboard_time": 1671939090,
+        "rank": 25,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 309643,
+        "num": 309643,
+        "word": "你会害怕和父母越来越像吗",
+        "onboard_time": 1671941611,
+        "rank": 26,
+        "category": "综艺,情感"
+      },
+      {
+        "raw_hot": 294159,
+        "num": 294159,
+        "word": "你还在咳咳咳吗",
+        "onboard_time": 1671930986,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294135,
+        "num": 294135,
+        "word": "数二答案",
+        "onboard_time": 1671942391,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 291839,
+        "num": 291839,
+        "word": "江苏一医院员工献血37000毫升",
+        "onboard_time": 1671937530,
+        "rank": 29,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 259669,
+        "num": 259669,
+        "word": "回来的女儿原来猴脸是爸爸",
+        "onboard_time": 1671939748,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 256717,
+        "num": 256717,
+        "word": "尔冬升问沈月演了几年戏",
+        "onboard_time": 1671940713,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229436,
+        "num": 229436,
+        "word": "香港内地恢复通关后你打算去吗",
+        "onboard_time": 1671924979,
+        "rank": 32,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 223804,
+        "num": 223804,
+        "word": "一句话评价今年考研数学",
+        "onboard_time": 1671940649,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 211968,
+        "num": 211968,
+        "word": "遭嫌疑人开车碾压经3次开颅民警醒了",
+        "onboard_time": 1671933086,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210980,
+        "num": 210980,
+        "word": "两弹一星元勋中最后被解密的是朱光亚",
+        "onboard_time": 1671937888,
+        "rank": 35,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 204198,
+        "num": 204198,
+        "word": "止咳药千万不要随咳随用",
+        "onboard_time": 1671933868,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203003,
+        "num": 203003,
+        "word": "王嘉尔演唱会翻栏杆保镖后面追",
+        "onboard_time": 1671932125,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 201275,
+        "num": 201275,
+        "word": "媳妇染新冠嗓子疼投屏喊老公倒水",
+        "onboard_time": 1671933806,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201188,
+        "num": 201188,
+        "word": "311",
+        "onboard_time": 1671942450,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 197775,
+        "num": 197775,
+        "word": "你好昨天的郭富成",
+        "onboard_time": 1671941971,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 193816,
+        "num": 193816,
+        "word": "阿根廷人最珍贵的圣诞礼物",
+        "onboard_time": 1671935665,
+        "rank": 41,
+        "category": "体育,情感"
+      },
+      {
+        "raw_hot": 188496,
+        "num": 188496,
+        "word": "一直咳嗽会引发肺炎吗",
+        "onboard_time": 1671941308,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175841,
+        "num": 175841,
+        "word": "男子花16万看球曝光总开销",
+        "onboard_time": 1671930205,
+        "rank": 43,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 166115,
+        "num": 166115,
+        "word": "郑恺说我余飞又回来了",
+        "onboard_time": 1671936986,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 160168,
+        "num": 160168,
+        "word": "SBS 套曲cover",
+        "onboard_time": 1671942991,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 160037,
+        "num": 160037,
+        "word": "最美的夜有六十多个IP",
+        "onboard_time": 1671941792,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159622,
+        "num": 159622,
+        "word": "圣诞节",
+        "onboard_time": 1671923297,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 152732,
+        "num": 152732,
+        "word": "水银体温计1支22元男子手机取证",
+        "onboard_time": 1671942872,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134048,
+        "num": 134048,
+        "word": "咳嗽严重时可以平躺吗",
+        "onboard_time": 1671938551,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#新时代新征程新伟业#"
+    }
+  }
+}
