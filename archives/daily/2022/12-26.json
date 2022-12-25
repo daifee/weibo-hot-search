@@ -1,6 +1,6 @@
 {
   "startTime": 1671985442345,
-  "endTime": 1671989592213,
+  "endTime": 1671992447951,
   "band_list": [
     {
       "raw_hot": 1079246,
@@ -371,6 +371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 77889,
+      "num": 77889,
+      "word": "药店回应市民排队免费领药被举报",
+      "onboard_time": 1671988400,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 76933,
       "num": 76933,
       "word": "花楼哭了",
@@ -427,6 +435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 58090,
+      "num": 58090,
+      "word": "2022有真正的爆款剧吗",
+      "onboard_time": 1671990076,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 54648,
       "num": 54648,
       "word": "梦岚 公孙离",
@@ -435,12 +451,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 44537,
-      "num": 44537,
-      "word": "药店回应市民排队免费领药被举报",
-      "onboard_time": 1671988400,
-      "rank": 42,
-      "category": "社会新闻"
+      "raw_hot": 47977,
+      "num": 41078,
+      "word": "电影想见你豆瓣6.8分你怎么看",
+      "onboard_time": 1671991514,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 40100,
