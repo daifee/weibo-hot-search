@@ -1,6 +1,6 @@
 {
   "startTime": 1671985442345,
-  "endTime": 1671999467122,
+  "endTime": 1672000413852,
   "band_list": [
     {
       "raw_hot": 1079246,
@@ -363,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 83268,
+      "num": 83268,
+      "word": "新冠疫情冲击波抵达三四线城市",
+      "onboard_time": 1671994813,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 82226,
       "num": 82226,
       "word": "男子高烧发视频被多个殡葬商家关注",
@@ -408,14 +416,6 @@
       "word": "刚转阴生活工作节奏宜稍微放缓",
       "onboard_time": 1671972509,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 70836,
-      "num": 70836,
-      "word": "新冠疫情冲击波抵达三四线城市",
-      "onboard_time": 1671994813,
-      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -489,6 +489,14 @@
       "onboard_time": 1671995772,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 13939,
+      "num": 13939,
+      "word": "你身边还有多少人没感染",
+      "onboard_time": 1671999911,
+      "rank": 46,
+      "category": "社会新闻,情感"
     }
   ],
   "hotgov_list": [
