@@ -1,6 +1,6 @@
 {
   "startTime": 1671985442345,
-  "endTime": 1671985442345,
+  "endTime": 1671986472899,
   "band_list": [
     {
       "raw_hot": 1079246,
@@ -43,7 +43,7 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 518944,
+      "raw_hot": 561458,
       "num": 332724,
       "word": "中国工程院院士王仲奇离世",
       "onboard_time": 1671983066,
@@ -64,6 +64,14 @@
       "word": "男子为节省抗原将试纸剪开分两次用",
       "onboard_time": 1671977912,
       "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 463519,
+      "num": 323453,
+      "word": "姐姐打翻汤锅5岁妹妹双腿被烫伤",
+      "onboard_time": 1671983966,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -99,14 +107,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 323453,
-      "num": 323453,
-      "word": "姐姐打翻汤锅5岁妹妹双腿被烫伤",
-      "onboard_time": 1671983966,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 311739,
       "num": 311739,
       "word": "春晚彩排有你想看到的艺人吗",
@@ -137,6 +137,14 @@
       "onboard_time": 1671976653,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 240967,
+      "num": 240967,
+      "word": "阳了几天后的发型",
+      "onboard_time": 1671983486,
+      "rank": 24,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 217502,
@@ -185,14 +193,6 @@
       "onboard_time": 1671979232,
       "rank": 19,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 190312,
-      "num": 190312,
-      "word": "阳了几天后的发型",
-      "onboard_time": 1671983486,
-      "rank": 24,
-      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 188023,
@@ -244,7 +244,7 @@
     },
     {
       "raw_hot": 160461,
-      "num": 95775,
+      "num": 150852,
       "word": "想见你",
       "onboard_time": 1671973593,
       "rank": 40,
@@ -297,6 +297,22 @@
       "onboard_time": 1671966092,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 134398,
+      "num": 110934,
+      "word": "李文卓不是真的李文卓",
+      "onboard_time": 1671976111,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 131605,
+      "num": 110257,
+      "word": "法国20万人请愿重踢决赛你怎么看",
+      "onboard_time": 1671985523,
+      "rank": 33,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 128911,
@@ -401,11 +417,22 @@
       "onboard_time": 1671941132,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 54648,
+      "num": 54648,
+      "word": "梦岚 公孙离",
+      "onboard_time": 1671979232,
+      "rank": 49,
+      "category": "游戏"
     }
   ],
   "hotgov_list": [
     {
       "word": "#建设农业强国要抓好的头等大事#"
+    },
+    {
+      "word": "#2022那些治愈瞬间#"
     }
   ]
 }
