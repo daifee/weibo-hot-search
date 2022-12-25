@@ -1,6 +1,6 @@
 {
   "startTime": 1671899049163,
-  "endTime": 1671953608077,
+  "endTime": 1671956497161,
   "band_list": [
     {
       "raw_hot": 2934630,
@@ -123,20 +123,20 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 1176259,
+      "num": 1176259,
+      "word": "2023央视春晚彩排路透",
+      "onboard_time": 1671952227,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1132792,
       "num": 1132792,
       "word": "感染了到底能不能洗澡",
       "onboard_time": 1671926361,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1109222,
-      "num": 1109222,
-      "word": "2023央视春晚彩排路透",
-      "onboard_time": 1671952227,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 1109217,
@@ -275,6 +275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 714911,
+      "num": 714911,
+      "word": "浙江疫情在元旦前后进入高位平台期",
+      "onboard_time": 1671951628,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 688612,
       "num": 688612,
       "word": "你还在咳咳咳吗",
@@ -289,14 +297,6 @@
       "onboard_time": 1671924979,
       "rank": 3,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 626119,
-      "num": 391647,
-      "word": "浙江疫情在元旦前后进入高位平台期",
-      "onboard_time": 1671951628,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 606317,
@@ -343,6 +343,14 @@
       "num": 552780,
       "word": "北京要求千方百计降低病亡率",
       "onboard_time": 1671894632,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 537362,
+      "num": 537362,
+      "word": "女子上班怕感染用袋子套身上办公",
+      "onboard_time": 1671953846,
       "rank": 7,
       "category": "社会新闻"
     },
@@ -475,6 +483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 402426,
+      "num": 402426,
+      "word": "塔利班禁止妇女在国内和国际非政府组织工作",
+      "onboard_time": 1671950428,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 396646,
       "num": 396646,
       "word": "Kpop里果然不缺搞笑人",
@@ -523,12 +539,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 380185,
-      "num": 380185,
-      "word": "塔利班禁止妇女在国内和国际非政府组织工作",
-      "onboard_time": 1671950428,
-      "rank": 18,
-      "category": "社会新闻"
+      "raw_hot": 370176,
+      "num": 370176,
+      "word": "梁洁回应剧本选择问题",
+      "onboard_time": 1671953668,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 369374,
@@ -545,6 +561,14 @@
       "onboard_time": 1671886713,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 354970,
+      "num": 354970,
+      "word": "全山东都在眼巴巴看威海下雪",
+      "onboard_time": 1671953548,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 354473,
@@ -643,6 +667,14 @@
       "category": "游戏,艺人"
     },
     {
+      "raw_hot": 313361,
+      "num": 313361,
+      "word": "西蓝花cp",
+      "onboard_time": 1671955167,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 309643,
       "num": 309643,
       "word": "你会害怕和父母越来越像吗",
@@ -729,6 +761,14 @@
       "onboard_time": 1671933386,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 267495,
+      "num": 267495,
+      "word": "美国女子踢打丈夫后因家暴罪被捕",
+      "onboard_time": 1671952829,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 267299,
@@ -867,6 +907,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 230570,
+      "num": 230570,
+      "word": "使徒行者 尬",
+      "onboard_time": 1671956127,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 229627,
       "num": 229627,
       "word": "买到新出厂黄桃罐头桃硬没泡入味",
@@ -889,6 +937,14 @@
       "onboard_time": 1671895587,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 220438,
+      "num": 220438,
+      "word": "NCT127将1月30日回归",
+      "onboard_time": 1671955887,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 219661,
@@ -1019,6 +1075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 189963,
+      "num": 189963,
+      "word": "如何看待女子因赠药被踹门辱骂",
+      "onboard_time": 1671948566,
+      "rank": 41,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 188496,
       "num": 188496,
       "word": "一直咳嗽会引发肺炎吗",
@@ -1067,14 +1131,6 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 177345,
-      "num": 177345,
-      "word": "如何看待女子因赠药被踹门辱骂",
-      "onboard_time": 1671948566,
-      "rank": 41,
-      "category": "社会议题"
-    },
-    {
       "raw_hot": 176893,
       "num": 176893,
       "word": "两次感染新冠病毒的武汉医生发声",
@@ -1097,6 +1153,14 @@
       "onboard_time": 1671943469,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 172576,
+      "num": 156618,
+      "word": "毛不易现身2023年央视春晚彩排",
+      "onboard_time": 1671955466,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 172495,
@@ -1153,6 +1217,14 @@
       "onboard_time": 1671928041,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 168403,
+      "num": 124202,
+      "word": "宋轶现身2023年央视春晚彩排",
+      "onboard_time": 1671955228,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 168272,
@@ -1241,6 +1313,14 @@
       "onboard_time": 1671933148,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 154893,
+      "num": 154893,
+      "word": "考研数学一二三区别",
+      "onboard_time": 1671954087,
+      "rank": 35,
+      "category": "教育"
     },
     {
       "raw_hot": 153746,
@@ -1395,6 +1475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 132379,
+      "num": 132379,
+      "word": "杭州新冠在院病例1637例",
+      "onboard_time": 1671955645,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 131861,
       "num": 131861,
       "word": "肖战五号病人90度鞠躬谢幕",
@@ -1497,6 +1585,14 @@
       "onboard_time": 1671938008,
       "rank": 45,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 110718,
+      "num": 110718,
+      "word": "对主人有些无语的猫咪",
+      "onboard_time": 1671954805,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 109839,
@@ -1627,6 +1723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 83700,
+      "num": 90432,
+      "word": "国羽功勋教练王文教病逝",
+      "onboard_time": 1671956246,
+      "rank": 46,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 83308,
       "num": 72558,
       "word": "阿凡达",
@@ -1641,14 +1745,6 @@
       "onboard_time": 1671892593,
       "rank": 46,
       "category": "美食"
-    },
-    {
-      "raw_hot": 77249,
-      "num": 77249,
-      "word": "美国女子踢打丈夫后因家暴罪被捕",
-      "onboard_time": 1671952829,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 77239,
@@ -1667,20 +1763,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 75756,
-      "num": 75756,
-      "word": "全山东都在眼巴巴看威海下雪",
-      "onboard_time": 1671953548,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 71392,
       "num": 71392,
       "word": "一句话评价今年的考研英语",
       "onboard_time": 1671923415,
       "rank": 37,
       "category": "教育,情感"
+    },
+    {
+      "raw_hot": 71060,
+      "num": 89719,
+      "word": "蔚来全新ES8上市",
+      "onboard_time": 1671955288,
+      "rank": 49,
+      "category": "科技"
     },
     {
       "raw_hot": 63376,
