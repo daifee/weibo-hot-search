@@ -1,6 +1,6 @@
 {
   "startTime": 1671899049163,
-  "endTime": 1671936589542,
+  "endTime": 1671938352645,
   "band_list": [
     {
       "raw_hot": 2934630,
@@ -27,11 +27,35 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1572016,
+      "num": 1572016,
+      "word": "赠药反被邻居踹门辱骂当事女子回应",
+      "onboard_time": 1671935006,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1439404,
       "num": 1439404,
       "word": "感染后咳嗽什么程度应该警惕",
       "onboard_time": 1671925459,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1384444,
+      "num": 1384444,
+      "word": "电影前任4英年早婚开机",
+      "onboard_time": 1671936151,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1248703,
+      "num": 1248703,
+      "word": "儿子4年没碰琴阳了每天练琴",
+      "onboard_time": 1671935067,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -51,20 +75,20 @@
       "category": "综艺,幽默"
     },
     {
-      "raw_hot": 936912,
-      "num": 936912,
+      "raw_hot": 965495,
+      "num": 965495,
       "word": "梅婷演技 吓人",
       "onboard_time": 1671931766,
       "rank": 33,
       "category": "影视"
     },
     {
-      "raw_hot": 869394,
-      "num": 569843,
-      "word": "儿子4年没碰琴阳了每天练琴",
-      "onboard_time": 1671935067,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 924574,
+      "num": 507907,
+      "word": "韩庚说兄弟结婚真好祝你成功",
+      "onboard_time": 1671936867,
+      "rank": 10,
+      "category": "影视"
     },
     {
       "raw_hot": 863574,
@@ -81,14 +105,6 @@
       "onboard_time": 1671896963,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 770343,
-      "num": 770343,
-      "word": "赠药反被邻居踹门辱骂当事女子回应",
-      "onboard_time": 1671935006,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 753862,
@@ -147,14 +163,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 571482,
-      "num": 571482,
-      "word": "电影前任4英年早婚开机",
-      "onboard_time": 1671936151,
-      "rank": 9,
-      "category": "影视"
-    },
-    {
       "raw_hot": 552780,
       "num": 552780,
       "word": "北京要求千方百计降低病亡率",
@@ -211,6 +219,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 444836,
+      "num": 444836,
+      "word": "考研数学",
+      "onboard_time": 1671926120,
+      "rank": 16,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 422984,
+      "num": 422984,
+      "word": "电影想见你豆瓣6.8分",
+      "onboard_time": 1671936387,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 406088,
       "num": 406088,
       "word": "沈月说自己上不了台面",
@@ -225,6 +249,14 @@
       "onboard_time": 1671886950,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 386936,
+      "num": 386936,
+      "word": "中国足协对六人终身禁赛",
+      "onboard_time": 1671937349,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 382592,
@@ -331,16 +363,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 292077,
-      "num": 292077,
-      "word": "考研数学",
-      "onboard_time": 1671926120,
-      "rank": 16,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 268443,
-      "num": 268443,
+      "raw_hot": 271369,
+      "num": 271369,
       "word": "猴子面具",
       "onboard_time": 1671933386,
       "rank": 23,
@@ -403,6 +427,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 251173,
+      "num": 251173,
+      "word": "郑恺说我余飞又回来了",
+      "onboard_time": 1671936986,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 245463,
       "num": 245463,
       "word": "宝宝凌晨惊厥抽搐宝妈无助大哭",
@@ -424,6 +456,14 @@
       "word": "元旦春节你打算返乡吗",
       "onboard_time": 1671925700,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 231274,
+      "num": 231274,
+      "word": "遇到其他毒株二次感染风险有多大",
+      "onboard_time": 1671937349,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -465,6 +505,14 @@
       "onboard_time": 1671925579,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 219258,
+      "num": 204012,
+      "word": "阿根廷人最珍贵的圣诞礼物",
+      "onboard_time": 1671935665,
+      "rank": 45,
+      "category": "体育,情感"
     },
     {
       "raw_hot": 200284,
@@ -513,14 +561,6 @@
       "onboard_time": 1671926539,
       "rank": 34,
       "category": "美食"
-    },
-    {
-      "raw_hot": 184704,
-      "num": 168092,
-      "word": "电影想见你豆瓣6.8分",
-      "onboard_time": 1671936387,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 181448,
@@ -619,14 +659,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 157234,
-      "num": 157234,
-      "word": "阿根廷人最珍贵的圣诞礼物",
-      "onboard_time": 1671935665,
-      "rank": 45,
-      "category": "体育,情感"
-    },
-    {
       "raw_hot": 156241,
       "num": 154791,
       "word": "无限超越班第二期观后感",
@@ -651,6 +683,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 149306,
+      "num": 149306,
+      "word": "江苏一医院员工献血37000毫升",
+      "onboard_time": 1671937530,
+      "rank": 36,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 148996,
       "num": 148996,
       "word": "阳了以后怎么吃",
@@ -673,6 +713,14 @@
       "onboard_time": 1671935427,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 141712,
+      "num": 141712,
+      "word": "东北爸爸为孩子挖3米深雪屋",
+      "onboard_time": 1671937589,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 141375,
@@ -713,6 +761,14 @@
       "onboard_time": 1671897206,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 135641,
+      "num": 120350,
+      "word": "王凯谭松韵向风而行明天见",
+      "onboard_time": 1671937829,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 133159,
@@ -787,12 +843,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 118682,
+      "num": 118682,
+      "word": "暂停广州足协会员资格2年",
+      "onboard_time": 1671937589,
+      "rank": 42,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 118127,
       "num": 118127,
       "word": "辞职护士主动重返医院支援发热门诊",
       "onboard_time": 1671935188,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 117787,
+      "num": 117787,
+      "word": "两弹一星元勋中最后被解密的是朱光亚",
+      "onboard_time": 1671937888,
+      "rank": 43,
+      "category": "军事"
     },
     {
       "raw_hot": 116911,
@@ -817,6 +889,14 @@
       "onboard_time": 1671878671,
       "rank": 47,
       "category": "教育"
+    },
+    {
+      "raw_hot": 112416,
+      "num": 112416,
+      "word": "雪天货车上坡困难好心人拔草相助",
+      "onboard_time": 1671938008,
+      "rank": 45,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 109839,
@@ -948,7 +1028,7 @@
     },
     {
       "raw_hot": 63376,
-      "num": 1144936,
+      "num": 1528049,
       "word": "全球首架C919自12月26日起验证飞行",
       "onboard_time": 1671890373,
       "rank": 2,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1671938352645,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1884922,
+        "num": 1884922,
+        "word": "即日起不再发布每日疫情信息",
+        "onboard_time": 1671932843,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1572016,
+        "num": 1572016,
+        "word": "赠药反被邻居踹门辱骂当事女子回应",
+        "onboard_time": 1671935006,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32596,
+        "num": 1528049,
+        "word": "全球首架C919自12月26日起验证飞行",
+        "onboard_time": 1671890373,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1503593,
+        "num": 1503593,
+        "word": "法国出现重踢世界杯决赛请愿",
+        "onboard_time": 1671932667,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1384444,
+        "num": 1384444,
+        "word": "电影前任4英年早婚开机",
+        "onboard_time": 1671936151,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1248703,
+        "num": 1248703,
+        "word": "儿子4年没碰琴阳了每天练琴",
+        "onboard_time": 1671935067,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 965495,
+        "num": 965495,
+        "word": "梅婷演技 吓人",
+        "onboard_time": 1671931766,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 723054,
+        "num": 723054,
+        "word": "感染后咳嗽什么程度应该警惕",
+        "onboard_time": 1671925459,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 541034,
+        "num": 541034,
+        "word": "遭嫌疑人开车碾压经3次开颅民警醒了",
+        "onboard_time": 1671933086,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 520592,
+        "num": 520592,
+        "word": "感染了到底能不能洗澡",
+        "onboard_time": 1671926361,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 924574,
+        "num": 507907,
+        "word": "韩庚说兄弟结婚真好祝你成功",
+        "onboard_time": 1671936867,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 483231,
+        "num": 483231,
+        "word": "媳妇染新冠嗓子疼投屏喊老公倒水",
+        "onboard_time": 1671933806,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 462730,
+        "num": 462730,
+        "word": "止咳药千万不要随咳随用",
+        "onboard_time": 1671933868,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 444836,
+        "num": 444836,
+        "word": "考研数学",
+        "onboard_time": 1671926120,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 422984,
+        "num": 422984,
+        "word": "电影想见你豆瓣6.8分",
+        "onboard_time": 1671936387,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 390598,
+        "num": 390598,
+        "word": "刘耀文不知道无限超越班要演戏",
+        "onboard_time": 1671928041,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 386936,
+        "num": 386936,
+        "word": "中国足协对六人终身禁赛",
+        "onboard_time": 1671937349,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 373493,
+        "num": 373493,
+        "word": "你还在咳咳咳吗",
+        "onboard_time": 1671930986,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 358206,
+        "num": 358206,
+        "word": "王嘉尔演唱会翻栏杆保镖后面追",
+        "onboard_time": 1671932125,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 333065,
+        "num": 333065,
+        "word": "男子花16万看球曝光总开销",
+        "onboard_time": 1671930205,
+        "rank": 19,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 318997,
+        "num": 318997,
+        "word": "红卡 标准",
+        "onboard_time": 1671932186,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 301280,
+        "num": 301280,
+        "word": "香港内地恢复通关后你打算去吗",
+        "onboard_time": 1671924979,
+        "rank": 21,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 293850,
+        "num": 293850,
+        "word": "专家解答为什么不出门也感染",
+        "onboard_time": 1671929723,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271369,
+        "num": 271369,
+        "word": "猴子面具",
+        "onboard_time": 1671933386,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 251173,
+        "num": 251173,
+        "word": "郑恺说我余飞又回来了",
+        "onboard_time": 1671936986,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 231274,
+        "num": 231274,
+        "word": "遇到其他毒株二次感染风险有多大",
+        "onboard_time": 1671937349,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227321,
+        "num": 227321,
+        "word": "圣诞节",
+        "onboard_time": 1671923297,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 218128,
+        "num": 218128,
+        "word": "目击者拍救人英雄一看竟是自家女婿",
+        "onboard_time": 1671933386,
+        "rank": 27,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 219258,
+        "num": 204012,
+        "word": "阿根廷人最珍贵的圣诞礼物",
+        "onboard_time": 1671935665,
+        "rank": 28,
+        "category": "体育,情感"
+      },
+      {
+        "raw_hot": 178666,
+        "num": 178666,
+        "word": "康复后二次感染比例有多高",
+        "onboard_time": 1671872431,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225135,
+        "num": 178495,
+        "word": "我可能遇到了救星 好看",
+        "onboard_time": 1671935006,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 200381,
+        "num": 177373,
+        "word": "沈月说自己上不了台面",
+        "onboard_time": 1671888932,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190896,
+        "num": 176941,
+        "word": "这期没有郭晓婷",
+        "onboard_time": 1671926780,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173519,
+        "num": 173519,
+        "word": "小孩急需美林小姨缝衣服里寄出",
+        "onboard_time": 1671895289,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167041,
+        "num": 167041,
+        "word": "薛之谦巡演跪地感谢歌迷",
+        "onboard_time": 1671930808,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 161341,
+        "num": 161341,
+        "word": "专家详解奥密克戎BQ.1和XBB变异毒株",
+        "onboard_time": 1671930864,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149306,
+        "num": 149306,
+        "word": "江苏一医院员工献血37000毫升",
+        "onboard_time": 1671937530,
+        "rank": 36,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 148093,
+        "num": 148093,
+        "word": "北京要求千方百计降低病亡率",
+        "onboard_time": 1671894632,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141712,
+        "num": 141712,
+        "word": "东北爸爸为孩子挖3米深雪屋",
+        "onboard_time": 1671937589,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121831,
+        "num": 121831,
+        "word": "女子高压锅炖牛肉锅盖炸入天花板",
+        "onboard_time": 1671896010,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158293,
+        "num": 120591,
+        "word": "尹炫优杀了陈导俊",
+        "onboard_time": 1671924138,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 135641,
+        "num": 120350,
+        "word": "王凯谭松韵向风而行明天见",
+        "onboard_time": 1671937829,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 118682,
+        "num": 118682,
+        "word": "暂停广州足协会员资格2年",
+        "onboard_time": 1671937589,
+        "rank": 42,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 117787,
+        "num": 117787,
+        "word": "两弹一星元勋中最后被解密的是朱光亚",
+        "onboard_time": 1671937888,
+        "rank": 43,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 115270,
+        "num": 115270,
+        "word": "血氧饱和度是判断重症的重要依据",
+        "onboard_time": 1671895289,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112416,
+        "num": 112416,
+        "word": "雪天货车上坡困难好心人拔草相助",
+        "onboard_time": 1671938008,
+        "rank": 45,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 110048,
+        "num": 110048,
+        "word": "epic",
+        "onboard_time": 1671928041,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 109107,
+        "num": 109107,
+        "word": "张朝阳称力学无时不在保护我们的安全",
+        "onboard_time": 1671933086,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 91765,
+        "num": 91765,
+        "word": "为啥天然VC突然爆火",
+        "onboard_time": 1671933386,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88095,
+        "num": 88095,
+        "word": "阳后你的症状持续了多久",
+        "onboard_time": 1671928764,
+        "rank": 49,
+        "category": "社会新闻,情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#锚定建设农业强国目标#"
+    }
+  }
+}
