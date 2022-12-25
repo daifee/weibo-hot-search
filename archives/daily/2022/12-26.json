@@ -1,6 +1,6 @@
 {
   "startTime": 1671985442345,
-  "endTime": 1671992447951,
+  "endTime": 1671993291018,
   "band_list": [
     {
       "raw_hot": 1079246,
@@ -451,8 +451,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 47977,
-      "num": 41078,
+      "raw_hot": 52765,
+      "num": 52765,
       "word": "电影想见你豆瓣6.8分你怎么看",
       "onboard_time": 1671991514,
       "rank": 33,
@@ -465,6 +465,14 @@
       "onboard_time": 1671986600,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 18034,
+      "num": 24878,
+      "word": "一起回顾考研这一年",
+      "onboard_time": 1671992714,
+      "rank": 49,
+      "category": "社会新闻,教育"
     }
   ],
   "hotgov_list": [
