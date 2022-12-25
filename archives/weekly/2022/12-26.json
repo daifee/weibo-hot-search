@@ -1,6 +1,6 @@
 {
   "startTime": 1671985442345,
-  "endTime": 1672002900838,
+  "endTime": 1672004005279,
   "band_list": [
     {
       "raw_hot": 1079246,
@@ -451,6 +451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 57522,
+      "num": 57522,
+      "word": "北京部分医院发热门诊现状",
+      "onboard_time": 1672000213,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 54648,
       "num": 54648,
       "word": "梦岚 公孙离",
@@ -467,28 +475,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 42486,
+      "num": 42486,
+      "word": "你身边还有多少人没感染",
+      "onboard_time": 1671999911,
+      "rank": 46,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 40100,
       "num": 40100,
       "word": "DOTA2互联网杯",
       "onboard_time": 1671986600,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 36456,
-      "num": 36456,
-      "word": "北京部分医院发热门诊现状",
-      "onboard_time": 1672000213,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 34118,
-      "num": 34118,
-      "word": "你身边还有多少人没感染",
-      "onboard_time": 1671999911,
-      "rank": 46,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 18873,
