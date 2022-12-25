@@ -1,0 +1,410 @@
+{
+  "runTime": 1671953608077,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1625483,
+        "num": 1625483,
+        "word": "阳过后小心病毒性心肌炎",
+        "onboard_time": 1671941132,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1310994,
+        "num": 1310994,
+        "word": "水银体温计1支22元男子手机取证",
+        "onboard_time": 1671942872,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83416,
+        "num": 1213858,
+        "word": "80张照片致我们拼过的春夏秋冬",
+        "onboard_time": 1671942391,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1199343,
+        "num": 1199343,
+        "word": "康辉是天选打工人吧",
+        "onboard_time": 1671949169,
+        "rank": 3,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 1109222,
+        "num": 1109222,
+        "word": "2023央视春晚彩排路透",
+        "onboard_time": 1671952227,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 896329,
+        "num": 896329,
+        "word": "男子凌晨发现狗在床上生了4只崽",
+        "onboard_time": 1671948149,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 698230,
+        "num": 698230,
+        "word": "小亮",
+        "onboard_time": 1671949049,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 594129,
+        "num": 594129,
+        "word": "上海男生时隔半年再次感染新冠",
+        "onboard_time": 1671946049,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 450208,
+        "num": 450208,
+        "word": "阳康们涌向海南三亚",
+        "onboard_time": 1671944731,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 392188,
+        "num": 392188,
+        "word": "专家辟谣二次感染症状会更重",
+        "onboard_time": 1671946707,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 959521,
+        "num": 392145,
+        "word": "我说的是中文啊",
+        "onboard_time": 1671949648,
+        "rank": 10,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 626119,
+        "num": 391647,
+        "word": "浙江疫情在元旦前后进入高位平台期",
+        "onboard_time": 1671951628,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 587020,
+        "num": 390191,
+        "word": "米奇妙妙屋",
+        "onboard_time": 1671946707,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 387644,
+        "num": 387644,
+        "word": "阳了为啥会瘦",
+        "onboard_time": 1671946467,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 380352,
+        "num": 380352,
+        "word": "特斯拉上海工厂被曝已停产",
+        "onboard_time": 1671948389,
+        "rank": 14,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 380185,
+        "num": 380185,
+        "word": "塔利班禁止妇女在国内和国际非政府组织工作",
+        "onboard_time": 1671950428,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 369374,
+        "num": 369374,
+        "word": "王铮亮现身2023春晚彩排现场",
+        "onboard_time": 1671951388,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 333135,
+        "num": 333135,
+        "word": "杨紫圣诞节vlog",
+        "onboard_time": 1671952347,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 322097,
+        "num": 322097,
+        "word": "杭州第六十次疫情发布会",
+        "onboard_time": 1671951088,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313434,
+        "num": 313434,
+        "word": "1米88女生与2米03男友恋爱",
+        "onboard_time": 1671939508,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312222,
+        "num": 312222,
+        "word": "于文文说五年后林佳的婚姻也会体面的",
+        "onboard_time": 1671950246,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 277354,
+        "num": 277354,
+        "word": "儿子4年没碰琴阳了每天练琴",
+        "onboard_time": 1671935067,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254490,
+        "num": 254490,
+        "word": "越南和柬埔寨现超级蚊子",
+        "onboard_time": 1671945391,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251589,
+        "num": 251589,
+        "word": "费曼回应吴镇宇叫刘耀文宝贝",
+        "onboard_time": 1671939629,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221514,
+        "num": 221514,
+        "word": "回来的女儿原来猴脸是爸爸",
+        "onboard_time": 1671939748,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 216833,
+        "num": 216833,
+        "word": "妈妈30年前照与女儿同框如双胞胎",
+        "onboard_time": 1671949887,
+        "rank": 25,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 215816,
+        "num": 215816,
+        "word": "韩庚说兄弟结婚真好祝你成功",
+        "onboard_time": 1671936867,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204221,
+        "num": 204221,
+        "word": "遇到其他毒株二次感染风险有多大",
+        "onboard_time": 1671937349,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184785,
+        "num": 184785,
+        "word": "396",
+        "onboard_time": 1671940110,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 179089,
+        "num": 179089,
+        "word": "你还在咳咳咳吗",
+        "onboard_time": 1671930986,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219724,
+        "num": 178222,
+        "word": "张元英SBS歌谣大战直拍",
+        "onboard_time": 1671952165,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 210051,
+        "num": 178037,
+        "word": "刘诗诗任如意舞扇喝酒路透",
+        "onboard_time": 1671948268,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 205823,
+        "num": 177898,
+        "word": "姜云升 红包",
+        "onboard_time": 1671946828,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177345,
+        "num": 177345,
+        "word": "如何看待女子因赠药被踹门辱骂",
+        "onboard_time": 1671948566,
+        "rank": 33,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 168885,
+        "num": 168885,
+        "word": "男子偷割他人麦苗喂羊",
+        "onboard_time": 1671948928,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165051,
+        "num": 165051,
+        "word": "考研数学",
+        "onboard_time": 1671926120,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 157580,
+        "num": 157580,
+        "word": "止咳药千万不要随咳随用",
+        "onboard_time": 1671933868,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140405,
+        "num": 140405,
+        "word": "中国足协对六人终身禁赛",
+        "onboard_time": 1671937349,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125513,
+        "num": 125513,
+        "word": "西综",
+        "onboard_time": 1671940531,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 119963,
+        "num": 119963,
+        "word": "感染了到底能不能洗澡",
+        "onboard_time": 1671926361,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201611,
+        "num": 119639,
+        "word": "严浩翔说拍的时候我觉得自己每张都笑了",
+        "onboard_time": 1671952708,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199735,
+        "num": 113198,
+        "word": "梅婷演技 吓人",
+        "onboard_time": 1671931766,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 193377,
+        "num": 109964,
+        "word": "陈奕迅演唱会清唱平安夜",
+        "onboard_time": 1671953427,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 100221,
+        "num": 100221,
+        "word": "这哈士奇一看就很纯",
+        "onboard_time": 1671947487,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 97345,
+        "num": 97345,
+        "word": "法国出现重踢世界杯决赛请愿",
+        "onboard_time": 1671932667,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87321,
+        "num": 87321,
+        "word": "男子连续15年带陌生残疾兄弟去旅游",
+        "onboard_time": 1671953067,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83738,
+        "num": 83738,
+        "word": "即日起不再发布每日疫情信息",
+        "onboard_time": 1671932843,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77633,
+        "num": 77633,
+        "word": "饲养员用障眼法逃脱熊猫纠缠",
+        "onboard_time": 1671952227,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77249,
+        "num": 77249,
+        "word": "美国女子踢打丈夫后因家暴罪被捕",
+        "onboard_time": 1671952829,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75756,
+        "num": 75756,
+        "word": "全山东都在眼巴巴看威海下雪",
+        "onboard_time": 1671953548,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#解读中央农村工作会议#"
+    }
+  }
+}
