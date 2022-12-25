@@ -1,6 +1,6 @@
 {
   "startTime": 1671899049163,
-  "endTime": 1671938352645,
+  "endTime": 1671939211401,
   "band_list": [
     {
       "raw_hot": 2934630,
@@ -19,6 +19,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2050240,
+      "num": 2050240,
+      "word": "赠药反被邻居踹门辱骂当事女子回应",
+      "onboard_time": 1671935006,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1635847,
       "num": 1635847,
       "word": "法国出现重踢世界杯决赛请愿",
@@ -27,11 +35,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1572016,
-      "num": 1572016,
-      "word": "赠药反被邻居踹门辱骂当事女子回应",
-      "onboard_time": 1671935006,
-      "rank": 16,
+      "raw_hot": 1448914,
+      "num": 1448914,
+      "word": "儿子4年没碰琴阳了每天练琴",
+      "onboard_time": 1671935067,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -51,14 +59,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1248703,
-      "num": 1248703,
-      "word": "儿子4年没碰琴阳了每天练琴",
-      "onboard_time": 1671935067,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1132792,
       "num": 1132792,
       "word": "感染了到底能不能洗澡",
@@ -75,19 +75,19 @@
       "category": "综艺,幽默"
     },
     {
+      "raw_hot": 1023068,
+      "num": 1023068,
+      "word": "韩庚说兄弟结婚真好祝你成功",
+      "onboard_time": 1671936867,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 965495,
       "num": 965495,
       "word": "梅婷演技 吓人",
       "onboard_time": 1671931766,
       "rank": 33,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 924574,
-      "num": 507907,
-      "word": "韩庚说兄弟结婚真好祝你成功",
-      "onboard_time": 1671936867,
-      "rank": 10,
       "category": "影视"
     },
     {
@@ -131,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 674985,
+      "num": 674985,
+      "word": "考研数学",
+      "onboard_time": 1671926120,
+      "rank": 16,
+      "category": "教育"
+    },
+    {
       "raw_hot": 673295,
       "num": 673295,
       "word": "香港内地恢复通关后你打算去吗",
@@ -163,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 556333,
+      "num": 556333,
+      "word": "中国足协对六人终身禁赛",
+      "onboard_time": 1671937349,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 552780,
       "num": 552780,
       "word": "北京要求千方百计降低病亡率",
@@ -184,6 +200,14 @@
       "word": "媳妇染新冠嗓子疼投屏喊老公倒水",
       "onboard_time": 1671933806,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 507834,
+      "num": 507834,
+      "word": "遇到其他毒株二次感染风险有多大",
+      "onboard_time": 1671937349,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -211,28 +235,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 448436,
+      "num": 448436,
+      "word": "电影想见你豆瓣6.8分",
+      "onboard_time": 1671936387,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 447621,
       "num": 447621,
       "word": "2岁男童尿道下裂被父母误当女孩养",
       "onboard_time": 1671881372,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 444836,
-      "num": 444836,
-      "word": "考研数学",
-      "onboard_time": 1671926120,
-      "rank": 16,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 422984,
-      "num": 422984,
-      "word": "电影想见你豆瓣6.8分",
-      "onboard_time": 1671936387,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 406088,
@@ -249,14 +265,6 @@
       "onboard_time": 1671886950,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 386936,
-      "num": 386936,
-      "word": "中国足协对六人终身禁赛",
-      "onboard_time": 1671937349,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 382592,
@@ -411,6 +419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 260648,
+      "num": 260648,
+      "word": "阿根廷人最珍贵的圣诞礼物",
+      "onboard_time": 1671935665,
+      "rank": 45,
+      "category": "体育,情感"
+    },
+    {
       "raw_hot": 254680,
       "num": 254680,
       "word": "专家详解奥密克戎BQ.1和XBB变异毒株",
@@ -435,12 +451,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 250231,
+      "num": 250231,
+      "word": "粉笔模考",
+      "onboard_time": 1671938666,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
       "raw_hot": 245463,
       "num": 245463,
       "word": "宝宝凌晨惊厥抽搐宝妈无助大哭",
       "onboard_time": 1671889174,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 239578,
+      "num": 209831,
+      "word": "我可能遇到了救星 好看",
+      "onboard_time": 1671935006,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 238591,
@@ -459,12 +491,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 231274,
-      "num": 231274,
-      "word": "遇到其他毒株二次感染风险有多大",
-      "onboard_time": 1671937349,
-      "rank": 25,
-      "category": "社会新闻"
+      "raw_hot": 232653,
+      "num": 232653,
+      "word": "江苏一医院员工献血37000毫升",
+      "onboard_time": 1671937530,
+      "rank": 36,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 229627,
@@ -473,14 +505,6 @@
       "onboard_time": 1671886055,
       "rank": 17,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 225677,
-      "num": 182508,
-      "word": "我可能遇到了救星 好看",
-      "onboard_time": 1671935006,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 223666,
@@ -507,12 +531,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 219258,
-      "num": 204012,
-      "word": "阿根廷人最珍贵的圣诞礼物",
-      "onboard_time": 1671935665,
-      "rank": 45,
-      "category": "体育,情感"
+      "raw_hot": 212807,
+      "num": 212807,
+      "word": "东北爸爸为孩子挖3米深雪屋",
+      "onboard_time": 1671937589,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 200284,
@@ -539,12 +563,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 193707,
+      "num": 193707,
+      "word": "廖穗芳被高梅威胁",
+      "onboard_time": 1671938551,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 193138,
       "num": 167660,
       "word": "今年春晚你想看什么",
       "onboard_time": 1671926301,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 192762,
+      "num": 192762,
+      "word": "消失的她无台词预告",
+      "onboard_time": 1671938429,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 190963,
@@ -675,6 +715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 153438,
+      "num": 153438,
+      "word": "两弹一星元勋中最后被解密的是朱光亚",
+      "onboard_time": 1671937888,
+      "rank": 43,
+      "category": "军事"
+    },
+    {
       "raw_hot": 153424,
       "num": 153424,
       "word": "电影想见你为什么很动人",
@@ -683,20 +731,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 149306,
-      "num": 149306,
-      "word": "江苏一医院员工献血37000毫升",
-      "onboard_time": 1671937530,
-      "rank": 36,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 148996,
       "num": 148996,
       "word": "阳了以后怎么吃",
       "onboard_time": 1671927322,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147592,
+      "num": 147592,
+      "word": "暂停广州足协会员资格2年",
+      "onboard_time": 1671937589,
+      "rank": 42,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 145439,
@@ -715,14 +763,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 141712,
-      "num": 141712,
-      "word": "东北爸爸为孩子挖3米深雪屋",
-      "onboard_time": 1671937589,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 141375,
       "num": 141375,
       "word": "车主路边掉头意外顺走3块腊肉",
@@ -737,6 +777,22 @@
       "onboard_time": 1671895111,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 139680,
+      "num": 139680,
+      "word": "王鹤棣游戏ID野区王路飞",
+      "onboard_time": 1671939090,
+      "rank": 40,
+      "category": "游戏,艺人"
+    },
+    {
+      "raw_hot": 138277,
+      "num": 138277,
+      "word": "王凯谭松韵向风而行明天见",
+      "onboard_time": 1671937829,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 138176,
@@ -761,14 +817,6 @@
       "onboard_time": 1671897206,
       "rank": 21,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 135641,
-      "num": 120350,
-      "word": "王凯谭松韵向风而行明天见",
-      "onboard_time": 1671937829,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 133159,
@@ -843,28 +891,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 118682,
-      "num": 118682,
-      "word": "暂停广州足协会员资格2年",
-      "onboard_time": 1671937589,
-      "rank": 42,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 118127,
       "num": 118127,
       "word": "辞职护士主动重返医院支援发热门诊",
       "onboard_time": 1671935188,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 117787,
-      "num": 117787,
-      "word": "两弹一星元勋中最后被解密的是朱光亚",
-      "onboard_time": 1671937888,
-      "rank": 43,
-      "category": "军事"
     },
     {
       "raw_hot": 116911,
@@ -881,6 +913,14 @@
       "onboard_time": 1671922934,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 115050,
+      "num": 115050,
+      "word": "咳嗽严重时可以平躺吗",
+      "onboard_time": 1671938551,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 114330,
@@ -904,6 +944,14 @@
       "word": "社区回应下意识逃走的卖橘男称没低保一事",
       "onboard_time": 1671882573,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 104502,
+      "num": 104502,
+      "word": "妈妈假装晕倒儿女立即冲上前安慰",
+      "onboard_time": 1671938969,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -969,6 +1017,14 @@
       "onboard_time": 1671873094,
       "rank": 43,
       "category": "教育"
+    },
+    {
+      "raw_hot": 98027,
+      "num": 98027,
+      "word": "妈妈高烧6岁娃做柠檬水贴身照顾",
+      "onboard_time": 1671938429,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 91832,
