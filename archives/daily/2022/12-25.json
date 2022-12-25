@@ -1,6 +1,6 @@
 {
   "startTime": 1671899049163,
-  "endTime": 1671974432323,
+  "endTime": 1671975192398,
   "band_list": [
     {
       "raw_hot": 2934630,
@@ -179,6 +179,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 1183391,
+      "num": 1183391,
+      "word": "长月烬明",
+      "onboard_time": 1671972330,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1160333,
       "num": 1160333,
       "word": "主持人涂磊自爆感染新冠经历",
@@ -232,14 +240,6 @@
       "word": "韩庚说兄弟结婚真好祝你成功",
       "onboard_time": 1671936867,
       "rank": 10,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 1001136,
-      "num": 1001136,
-      "word": "长月烬明",
-      "onboard_time": 1671972330,
-      "rank": 22,
       "category": "影视"
     },
     {
@@ -539,12 +539,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 518302,
+      "num": 518302,
+      "word": "出现这些症状当心病毒性心肌炎",
+      "onboard_time": 1671966092,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 509808,
       "num": 509808,
       "word": "媳妇染新冠嗓子疼投屏喊老公倒水",
       "onboard_time": 1671933806,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 507418,
+      "num": 507418,
+      "word": "肖战如梦之梦后台视频",
+      "onboard_time": 1671974072,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 503986,
@@ -571,6 +587,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 501779,
+      "num": 501779,
+      "word": "梅西晒安东内拉跳舞视频",
+      "onboard_time": 1671973050,
+      "rank": 17,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 493539,
       "num": 493539,
       "word": "张远现场",
@@ -593,14 +617,6 @@
       "onboard_time": 1671962971,
       "rank": 48,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 482356,
-      "num": 482356,
-      "word": "出现这些症状当心病毒性心肌炎",
-      "onboard_time": 1671966092,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 481097,
@@ -827,14 +843,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 384901,
-      "num": 296710,
-      "word": "肖战如梦之梦后台视频",
-      "onboard_time": 1671974072,
-      "rank": 20,
-      "category": "影视"
-    },
-    {
       "raw_hot": 382592,
       "num": 382592,
       "word": "袁娅维道歉",
@@ -859,12 +867,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 367915,
-      "num": 367915,
-      "word": "梅西晒安东内拉跳舞视频",
-      "onboard_time": 1671973050,
-      "rank": 17,
-      "category": "体育,社会新闻"
+      "raw_hot": 365188,
+      "num": 335232,
+      "word": "王宝强陈思诚李晨再同框",
+      "onboard_time": 1671974010,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 362914,
@@ -899,14 +907,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 350949,
-      "num": 296569,
-      "word": "王宝强陈思诚李晨再同框",
-      "onboard_time": 1671974010,
-      "rank": 21,
-      "category": "影视"
-    },
-    {
       "raw_hot": 347072,
       "num": 347072,
       "word": "市民购买退烧药后免费赠送被查",
@@ -929,6 +929,14 @@
       "onboard_time": 1671946828,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 344733,
+      "num": 344733,
+      "word": "刚转阴生活工作节奏宜稍微放缓",
+      "onboard_time": 1671972509,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 344016,
@@ -1075,20 +1083,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 298907,
+      "num": 298907,
+      "word": "胃肠道疾病患者不建议使用布洛芬",
+      "onboard_time": 1671970831,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 296755,
       "num": 285362,
       "word": "百花迎春",
       "onboard_time": 1671967111,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 296741,
-      "num": 296741,
-      "word": "刚转阴生活工作节奏宜稍微放缓",
-      "onboard_time": 1671972509,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 296167,
@@ -1113,14 +1121,6 @@
       "onboard_time": 1671942391,
       "rank": 28,
       "category": "教育"
-    },
-    {
-      "raw_hot": 293747,
-      "num": 293747,
-      "word": "胃肠道疾病患者不建议使用布洛芬",
-      "onboard_time": 1671970831,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 286380,
@@ -1169,6 +1169,14 @@
       "onboard_time": 1671952829,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 267396,
+      "num": 158174,
+      "word": "女婿救人过程被岳母意外拍下",
+      "onboard_time": 1671973111,
+      "rank": 35,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 267299,
@@ -1315,6 +1323,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 236261,
+      "num": 157608,
+      "word": "第九节课",
+      "onboard_time": 1671973291,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 234488,
+      "num": 157528,
+      "word": "想见你",
+      "onboard_time": 1671973593,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 233528,
       "num": 178222,
       "word": "张元英SBS歌谣大战直拍",
@@ -1355,20 +1379,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 226125,
+      "num": 226125,
+      "word": "江苏盐城东台市3.0级地震",
+      "onboard_time": 1671974493,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 225963,
       "num": 205409,
       "word": "我爸的假发和女人的友情",
       "onboard_time": 1671962668,
       "rank": 31,
       "category": "网红"
-    },
-    {
-      "raw_hot": 225298,
-      "num": 125530,
-      "word": "第九节课",
-      "onboard_time": 1671973291,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 224189,
@@ -1577,14 +1601,6 @@
       "onboard_time": 1671948566,
       "rank": 41,
       "category": "社会议题"
-    },
-    {
-      "raw_hot": 188932,
-      "num": 153173,
-      "word": "女婿救人过程被岳母意外拍下",
-      "onboard_time": 1671973111,
-      "rank": 35,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 188496,
@@ -1859,6 +1875,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 158408,
+      "num": 158408,
+      "word": "姐姐给被拐30年的弟弟补过生日",
+      "onboard_time": 1671974072,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158187,
       "num": 158187,
       "word": "为啥天然VC突然爆火",
@@ -1921,6 +1945,14 @@
       "onboard_time": 1671945807,
       "rank": 42,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 149799,
+      "num": 149799,
+      "word": "猫咪真的好会和老人相处",
+      "onboard_time": 1671973650,
+      "rank": 49,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 148996,
@@ -2115,6 +2147,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 128166,
+      "num": 128166,
+      "word": "转阴后为什么还是觉得累",
+      "onboard_time": 1671974972,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 126830,
       "num": 126830,
       "word": "阳后你的症状持续了多久",
@@ -2177,6 +2217,14 @@
       "onboard_time": 1671960630,
       "rank": 48,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 118839,
+      "num": 118839,
+      "word": "体验当一天的盲人",
+      "onboard_time": 1671974852,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 118127,
@@ -2259,12 +2307,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 109254,
-      "num": 109254,
-      "word": "姐姐给被拐30年的弟弟补过生日",
-      "onboard_time": 1671974072,
-      "rank": 47,
-      "category": "社会新闻"
+      "raw_hot": 108678,
+      "num": 108678,
+      "word": "这舞是非跳不可吗",
+      "onboard_time": 1671974972,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 105374,
@@ -2305,14 +2353,6 @@
       "onboard_time": 1671882695,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 102947,
-      "num": 102947,
-      "word": "猫咪真的好会和老人相处",
-      "onboard_time": 1671973650,
-      "rank": 49,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 101536,
