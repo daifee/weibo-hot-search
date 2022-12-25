@@ -1,6 +1,6 @@
 {
   "startTime": 1671380618877,
-  "endTime": 1671939211401,
+  "endTime": 1671942090535,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -539,12 +539,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1959612,
+      "num": 1959612,
+      "word": "考研数学",
+      "onboard_time": 1671926120,
+      "rank": 16,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1950872,
       "num": 1950872,
       "word": "转阴后咳嗽要多久才能恢复",
       "onboard_time": 1671848187,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1934971,
+      "num": 1934971,
+      "word": "数二",
+      "onboard_time": 1671939991,
+      "rank": 1,
+      "category": "教育"
     },
     {
       "raw_hot": 1887461,
@@ -585,6 +601,14 @@
       "onboard_time": 1671783086,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1828203,
+      "num": 1828203,
+      "word": "396",
+      "onboard_time": 1671940110,
+      "rank": 3,
+      "category": "教育"
     },
     {
       "raw_hot": 1818254,
@@ -939,6 +963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1419218,
+      "num": 1419218,
+      "word": "数学一",
+      "onboard_time": 1671940351,
+      "rank": 4,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1414270,
       "num": 1414270,
       "word": "餐饮店写拒绝阴性进店就餐引热议",
@@ -1193,6 +1225,14 @@
       "onboard_time": 1671853049,
       "rank": 6,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 1238535,
+      "num": 1238535,
+      "word": "1米88女生与2米03男友恋爱",
+      "onboard_time": 1671939508,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1238256,
@@ -2003,6 +2043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 887113,
+      "num": 887113,
+      "word": "遇到其他毒株二次感染风险有多大",
+      "onboard_time": 1671937349,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 886630,
       "num": 886630,
       "word": "曝C罗决定加盟沙特豪门",
@@ -2025,6 +2073,14 @@
       "onboard_time": 1671464010,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 877106,
+      "num": 877106,
+      "word": "数三",
+      "onboard_time": 1671940351,
+      "rank": 8,
+      "category": "教育"
     },
     {
       "raw_hot": 874775,
@@ -2441,6 +2497,14 @@
       "onboard_time": 1671796049,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 768008,
+      "num": 768008,
+      "word": "费曼回应吴镇宇叫刘耀文宝贝",
+      "onboard_time": 1671939629,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 764801,
@@ -3043,14 +3107,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 674985,
-      "num": 674985,
-      "word": "考研数学",
-      "onboard_time": 1671926120,
-      "rank": 16,
-      "category": "教育"
-    },
-    {
       "raw_hot": 673295,
       "num": 673295,
       "word": "香港内地恢复通关后你打算去吗",
@@ -3555,6 +3611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 585317,
+      "num": 585317,
+      "word": "中国足协对六人终身禁赛",
+      "onboard_time": 1671937349,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 580455,
       "num": 580455,
       "word": "伊甸园",
@@ -3675,6 +3739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 565933,
+      "num": 565933,
+      "word": "法硕",
+      "onboard_time": 1671939570,
+      "rank": 15,
+      "category": "教育"
+    },
+    {
       "raw_hot": 565632,
       "num": 565632,
       "word": "男子在缅北经历生死逃亡628天",
@@ -3737,14 +3809,6 @@
       "onboard_time": 1671547829,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 556333,
-      "num": 556333,
-      "word": "中国足协对六人终身禁赛",
-      "onboard_time": 1671937349,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 556267,
@@ -3987,6 +4051,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 526302,
+      "num": 526302,
+      "word": "阳过后小心病毒性心肌炎",
+      "onboard_time": 1671941132,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 526080,
       "num": 526080,
       "word": "真是辛苦了我的免疫系统",
@@ -4009,6 +4081,14 @@
       "onboard_time": 1671852149,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 525418,
+      "num": 525418,
+      "word": "333",
+      "onboard_time": 1671941431,
+      "rank": 18,
+      "category": "教育"
     },
     {
       "raw_hot": 524495,
@@ -4136,14 +4216,6 @@
       "word": "媳妇染新冠嗓子疼投屏喊老公倒水",
       "onboard_time": 1671933806,
       "rank": 12,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 507834,
-      "num": 507834,
-      "word": "遇到其他毒株二次感染风险有多大",
-      "onboard_time": 1671937349,
-      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -5171,6 +5243,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 416354,
+      "num": 416354,
+      "word": "考研数学答案",
+      "onboard_time": 1671940770,
+      "rank": 19,
+      "category": "教育"
+    },
+    {
       "raw_hot": 415866,
       "num": 415866,
       "word": "NewJeans新歌Ditto舞蹈版",
@@ -5465,6 +5545,14 @@
       "onboard_time": 1671524971,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 390170,
+      "num": 390170,
+      "word": "西综",
+      "onboard_time": 1671940531,
+      "rank": 21,
+      "category": "教育"
     },
     {
       "raw_hot": 390067,
@@ -6779,6 +6867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 315980,
+      "num": 315980,
+      "word": "王鹤棣游戏ID野区王路飞",
+      "onboard_time": 1671939090,
+      "rank": 40,
+      "category": "游戏,艺人"
+    },
+    {
       "raw_hot": 315663,
       "num": 315663,
       "word": "一位成年人刚刚下单了",
@@ -6929,6 +7025,14 @@
       "onboard_time": 1671613529,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 307701,
+      "num": 307701,
+      "word": "江苏一医院员工献血37000毫升",
+      "onboard_time": 1671937530,
+      "rank": 36,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 307461,
@@ -8155,6 +8259,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 259306,
+      "num": 259306,
+      "word": "回来的女儿原来猴脸是爸爸",
+      "onboard_time": 1671939748,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 258974,
       "num": 258974,
       "word": "曼城3比2利物浦",
@@ -8225,6 +8337,14 @@
       "onboard_time": 1671868766,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 256154,
+      "num": 256154,
+      "word": "Kpop里果然不缺搞笑人",
+      "onboard_time": 1671941792,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 256152,
@@ -8699,6 +8819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 238929,
+      "num": 238929,
+      "word": "一句话评价今年考研数学",
+      "onboard_time": 1671940649,
+      "rank": 31,
+      "category": "教育"
+    },
+    {
       "raw_hot": 238654,
       "num": 238654,
       "word": "小米卢伟冰任总裁",
@@ -8777,6 +8905,14 @@
       "onboard_time": 1671531812,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 236160,
+      "num": 236160,
+      "word": "你会害怕和父母越来越像吗",
+      "onboard_time": 1671941611,
+      "rank": 32,
+      "category": "综艺,情感"
     },
     {
       "raw_hot": 236054,
@@ -8865,14 +9001,6 @@
       "onboard_time": 1671683971,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 232653,
-      "num": 232653,
-      "word": "江苏一医院员工献血37000毫升",
-      "onboard_time": 1671937530,
-      "rank": 36,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 232647,
@@ -9851,6 +9979,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 203976,
+      "num": 203976,
+      "word": "两弹一星元勋中最后被解密的是朱光亚",
+      "onboard_time": 1671937888,
+      "rank": 43,
+      "category": "军事"
+    },
+    {
       "raw_hot": 203945,
       "num": 203945,
       "word": "周柯宇Gemini 直播",
@@ -10009,6 +10145,14 @@
       "onboard_time": 1671875253,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 198302,
+      "num": 198302,
+      "word": "你好昨天的郭富成",
+      "onboard_time": 1671941971,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 198084,
@@ -10875,6 +11019,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 182136,
+      "num": 182136,
+      "word": "一直咳嗽会引发肺炎吗",
+      "onboard_time": 1671941308,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 182108,
       "num": 182108,
       "word": "还魂",
@@ -11195,6 +11347,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 176304,
+      "num": 176304,
+      "word": "谭松韵程霄飞行制服变装视频",
+      "onboard_time": 1671941911,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 175905,
       "num": 175905,
       "word": "你的恋与五周年回忆",
@@ -11233,6 +11393,14 @@
       "onboard_time": 1671711632,
       "rank": 37,
       "category": "科技"
+    },
+    {
+      "raw_hot": 175614,
+      "num": 175614,
+      "word": "尔冬升问沈月演了几年戏",
+      "onboard_time": 1671940713,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 175516,
@@ -11625,6 +11793,14 @@
       "onboard_time": 1671621272,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 169172,
+      "num": 169172,
+      "word": "咳嗽严重时可以平躺吗",
+      "onboard_time": 1671938551,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 169041,
@@ -12499,14 +12675,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 153438,
-      "num": 153438,
-      "word": "两弹一星元勋中最后被解密的是朱光亚",
-      "onboard_time": 1671937888,
-      "rank": 43,
-      "category": "军事"
-    },
-    {
       "raw_hot": 153424,
       "num": 153424,
       "word": "电影想见你为什么很动人",
@@ -13299,14 +13467,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 139680,
-      "num": 139680,
-      "word": "王鹤棣游戏ID野区王路飞",
-      "onboard_time": 1671939090,
-      "rank": 40,
-      "category": "游戏,艺人"
-    },
-    {
       "raw_hot": 138958,
       "num": 138958,
       "word": "范丞丞说今年在剧组过年",
@@ -13380,7 +13540,7 @@
     },
     {
       "raw_hot": 137648,
-      "num": 1528049,
+      "num": 1833377,
       "word": "全球首架C919自12月26日起验证飞行",
       "onboard_time": 1671890373,
       "rank": 2,
@@ -14489,14 +14649,6 @@
       "onboard_time": 1671697110,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 115050,
-      "num": 115050,
-      "word": "咳嗽严重时可以平躺吗",
-      "onboard_time": 1671938551,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 115035,
@@ -16039,6 +16191,9 @@
     },
     {
       "word": "#锚定建设农业强国目标#"
+    },
+    {
+      "word": "#解读中央农村工作会议#"
     }
   ]
 }
