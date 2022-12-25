@@ -1,6 +1,6 @@
 {
   "startTime": 1671985442345,
-  "endTime": 1671988496878,
+  "endTime": 1671989592213,
   "band_list": [
     {
       "raw_hot": 1079246,
@@ -19,20 +19,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 866809,
+      "num": 866809,
+      "word": "法国20万人请愿重踢决赛你怎么看",
+      "onboard_time": 1671985523,
+      "rank": 33,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 835254,
       "num": 835254,
       "word": "医院回应挂喜报祝贺急诊人次破200万",
       "onboard_time": 1671982349,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 714232,
-      "num": 714232,
-      "word": "法国20万人请愿重踢决赛你怎么看",
-      "onboard_time": 1671985523,
-      "rank": 33,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 703174,
@@ -433,6 +433,14 @@
       "onboard_time": 1671979232,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 44537,
+      "num": 44537,
+      "word": "药店回应市民排队免费领药被举报",
+      "onboard_time": 1671988400,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 40100,
