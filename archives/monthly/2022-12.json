@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1672086816664,
+  "endTime": 1672089313411,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -61105,6 +61105,14 @@
       "onboard_time": 1670673628,
       "rank": 14,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 30217,
+      "num": 30217,
+      "word": "阳了后为什么会眼睛痛",
+      "onboard_time": 1672086553,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 29978,
