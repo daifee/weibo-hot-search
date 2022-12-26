@@ -1,6 +1,6 @@
 {
   "startTime": 1671985442345,
-  "endTime": 1672049943375,
+  "endTime": 1672050875970,
   "band_list": [
     {
       "raw_hot": 3620426,
@@ -11,8 +11,8 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 2455466,
-      "num": 385384,
+      "raw_hot": 2458698,
+      "num": 423942,
       "word": "刘强东痛批京东中高层拿PPT欺骗自己",
       "onboard_time": 1672046910,
       "rank": 22,
@@ -25,6 +25,14 @@
       "onboard_time": 1672034430,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1662452,
+      "num": 1662452,
+      "word": "阳后有必要拍肺部CT吗",
+      "onboard_time": 1672046793,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1621664,
@@ -40,14 +48,6 @@
       "word": "被赠药踹门辱骂女邻居当事男子道歉",
       "onboard_time": 1672022188,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1557371,
-      "num": 1557371,
-      "word": "阳后有必要拍肺部CT吗",
-      "onboard_time": 1672046793,
-      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -387,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 578180,
+      "num": 578180,
+      "word": "护士手术中晕倒醒来后拒摘口罩",
+      "onboard_time": 1672047453,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 573557,
       "num": 573557,
       "word": "黄明昊嗑cp嗑到正主面前",
@@ -483,14 +491,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 496365,
-      "num": 381907,
-      "word": "护士手术中晕倒醒来后拒摘口罩",
-      "onboard_time": 1672047453,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 482208,
       "num": 482208,
       "word": "金钟仁姜涩琪李帝努柳智敏合作曲公开",
@@ -585,6 +585,14 @@
       "onboard_time": 1672032511,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 406727,
+      "num": 406727,
+      "word": "北京医保局称辉瑞新冠药按甲类报销",
+      "onboard_time": 1672048773,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 406034,
@@ -811,12 +819,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 313365,
+      "num": 171176,
+      "word": "于正感染新冠两天后转阴",
+      "onboard_time": 1672049973,
+      "rank": 31,
+      "category": "艺人,社会新闻"
+    },
+    {
       "raw_hot": 312257,
       "num": 225085,
       "word": "肖战如梦之梦唱十年花絮照",
       "onboard_time": 1672022490,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 312243,
+      "num": 312243,
+      "word": "阳后有这些症状可能正在转重症",
+      "onboard_time": 1672049071,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 311739,
@@ -955,12 +979,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 248300,
+      "num": 248300,
+      "word": "洛歌受刑",
+      "onboard_time": 1672049071,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 247882,
       "num": 247882,
       "word": "老板请困难老人吃粉被质疑不送钱",
       "onboard_time": 1672039591,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 246945,
+      "num": 246945,
+      "word": "赵丽颖双剧登爱奇艺2022经典榜",
+      "onboard_time": 1672050213,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 241827,
@@ -971,12 +1011,12 @@
       "category": "社会新闻,幽默"
     },
     {
-      "raw_hot": 240889,
-      "num": 240889,
-      "word": "北京医保局称辉瑞新冠药按甲类报销",
-      "onboard_time": 1672048773,
-      "rank": 21,
-      "category": "社会新闻"
+      "raw_hot": 241704,
+      "num": 169946,
+      "word": "各大卫视2023跨年阵容官宣",
+      "onboard_time": 1672050572,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 236672,
@@ -1009,6 +1049,14 @@
       "onboard_time": 1672046495,
       "rank": 37,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 227451,
+      "num": 227451,
+      "word": "妹妹的笑容不会消失只会转移",
+      "onboard_time": 1672048834,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 226941,
@@ -1107,14 +1155,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 217317,
-      "num": 190575,
-      "word": "阳后有这些症状可能正在转重症",
-      "onboard_time": 1672049071,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 214095,
       "num": 214095,
       "word": "疫情第一波过后你关心哪些数据",
@@ -1129,6 +1169,14 @@
       "onboard_time": 1671974972,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 209615,
+      "num": 167774,
+      "word": "SMTOWN冬专全专音频视频",
+      "onboard_time": 1672050750,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 203524,
@@ -1184,6 +1232,14 @@
       "word": "马嘉祺说最快乐的事情之一就是弹钢琴",
       "onboard_time": 1672042112,
       "rank": 36,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 198085,
+      "num": 150821,
+      "word": "孙怡威海上班路透",
+      "onboard_time": 1672050813,
+      "rank": 40,
       "category": "作品衍生"
     },
     {
@@ -1248,14 +1304,6 @@
       "word": "尹炫优夺走顺洋",
       "onboard_time": 1672024170,
       "rank": 32,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 190076,
-      "num": 190076,
-      "word": "洛歌受刑",
-      "onboard_time": 1672049071,
-      "rank": 34,
       "category": "影视"
     },
     {
@@ -1371,14 +1419,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 172120,
-      "num": 172120,
-      "word": "妹妹的笑容不会消失只会转移",
-      "onboard_time": 1672048834,
-      "rank": 40,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 171505,
       "num": 171505,
       "word": "刘耀文察觉到自己懂事的瞬间",
@@ -1417,6 +1457,14 @@
       "onboard_time": 1672036588,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 165327,
+      "num": 165327,
+      "word": "男子喂海鸥头发被当成鸟窝不停被啄",
+      "onboard_time": 1672048891,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 164598,
@@ -1587,6 +1635,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 147500,
+      "num": 147500,
+      "word": "年度国产动画",
+      "onboard_time": 1672050511,
+      "rank": 41,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 146545,
       "num": 146545,
       "word": "给2023的自己捎句话",
@@ -1635,6 +1691,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 141063,
+      "num": 141063,
+      "word": "02年小伙疫情3年打6份工买车",
+      "onboard_time": 1672050030,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 141020,
       "num": 141020,
       "word": "160秒回看2022的酸甜苦辣",
@@ -1681,14 +1745,6 @@
       "onboard_time": 1672030831,
       "rank": 14,
       "category": "情感"
-    },
-    {
-      "raw_hot": 132602,
-      "num": 132602,
-      "word": "男子喂海鸥头发被当成鸟窝不停被啄",
-      "onboard_time": 1672048891,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 132566,
@@ -1931,19 +1987,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 86588,
+      "num": 877849,
+      "word": "关于儿童退烧药10个热点问答",
+      "onboard_time": 1672048353,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 82226,
       "num": 82226,
       "word": "男子高烧发视频被多个殡葬商家关注",
       "onboard_time": 1671961950,
       "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 78279,
-      "num": 877849,
-      "word": "关于儿童退烧药10个热点问答",
-      "onboard_time": 1672048353,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
