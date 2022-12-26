@@ -1,6 +1,6 @@
 {
   "startTime": 1671985442345,
-  "endTime": 1672061618660,
+  "endTime": 1672064156990,
   "band_list": [
     {
       "raw_hot": 3825549,
@@ -25,6 +25,22 @@
       "onboard_time": 1672038390,
       "rank": 31,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 2786673,
+      "num": 2786673,
+      "word": "专家回应奥密克戎是否会导致白肺现象",
+      "onboard_time": 1672059454,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2505927,
+      "num": 2505927,
+      "word": "xbb",
+      "onboard_time": 1672057475,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2458698,
@@ -83,6 +99,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1441673,
+      "num": 1441673,
+      "word": "王重江死了",
+      "onboard_time": 1672060176,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1438181,
       "num": 1438181,
       "word": "阴性女子去剪发被理发师劝走",
@@ -121,6 +145,14 @@
       "onboard_time": 1672022369,
       "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1222582,
+      "num": 1222582,
+      "word": "咳嗽出现这些症状要警惕肺炎",
+      "onboard_time": 1672061017,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1208396,
@@ -179,14 +211,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 961686,
-      "num": 961686,
-      "word": "王重江死了",
-      "onboard_time": 1672060176,
-      "rank": 7,
-      "category": "影视"
-    },
-    {
       "raw_hot": 938582,
       "num": 938582,
       "word": "男子进店乞讨发现店员全是阳性",
@@ -208,14 +232,6 @@
       "word": "满足四个标准才算新冠痊愈",
       "onboard_time": 1672054712,
       "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 922452,
-      "num": 922452,
-      "word": "xbb",
-      "onboard_time": 1672057475,
-      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -555,6 +571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 572567,
+      "num": 572567,
+      "word": "乔治娜圣诞礼物送C罗劳斯莱斯",
+      "onboard_time": 1672058373,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 568636,
       "num": 568636,
       "word": "阳了一直咳会不会得肺炎",
@@ -619,16 +643,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 516698,
-      "num": 516698,
-      "word": "乔治娜圣诞礼物送C罗劳斯莱斯",
-      "onboard_time": 1672058373,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 510254,
-      "num": 510254,
+      "raw_hot": 522672,
+      "num": 522672,
       "word": "王凯 演技",
       "onboard_time": 1672060476,
       "rank": 22,
@@ -683,6 +699,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 478886,
+      "num": 478886,
+      "word": "白敬亭荣获豆瓣2022年度年度最受关注演员",
+      "onboard_time": 1672063832,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 472353,
       "num": 472353,
       "word": "男子为节省抗原将试纸剪开分两次用",
@@ -723,6 +747,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 461778,
+      "num": 249021,
+      "word": "小S蔡康永再合体主持节目",
+      "onboard_time": 1672062752,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 440564,
       "num": 440564,
       "word": "男子连喝2顿药发现误吞胶囊塑料壳",
@@ -755,12 +787,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 427325,
+      "num": 427325,
+      "word": "骚白",
+      "onboard_time": 1672063237,
+      "rank": 13,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 424236,
       "num": 424236,
       "word": "Rookie给小钰送牌匾",
       "onboard_time": 1672036168,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 423901,
+      "num": 423901,
+      "word": "阳了后医生不建议做的10件事",
+      "onboard_time": 1672061077,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 423855,
@@ -824,6 +872,14 @@
       "word": "为什么转阴后仍感到虚弱",
       "onboard_time": 1672006151,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 382864,
+      "num": 382864,
+      "word": "宁夏14岁初中生失踪超1个月",
+      "onboard_time": 1672062214,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -905,6 +961,14 @@
       "onboard_time": 1672011260,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 351312,
+      "num": 351312,
+      "word": "晚安计划",
+      "onboard_time": 1672062876,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 345188,
@@ -1027,6 +1091,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 314629,
+      "num": 314629,
+      "word": "热刺 中场",
+      "onboard_time": 1672061676,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 312257,
       "num": 225085,
       "word": "肖战如梦之梦唱十年花絮照",
@@ -1105,6 +1177,14 @@
       "onboard_time": 1672038631,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 285242,
+      "num": 285242,
+      "word": "金菊花国产烂片颁奖典礼",
+      "onboard_time": 1672057712,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 284947,
@@ -1232,14 +1312,6 @@
       "word": "今天好多剧开播",
       "onboard_time": 1672056272,
       "rank": 32,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 250438,
-      "num": 250438,
-      "word": "金菊花国产烂片颁奖典礼",
-      "onboard_time": 1672057712,
-      "rank": 34,
       "category": "影视"
     },
     {
@@ -1443,12 +1515,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 214467,
+      "num": 214467,
+      "word": "苏有朋2023央视春晚首次联排",
+      "onboard_time": 1672061017,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 214095,
       "num": 214095,
       "word": "疫情第一波过后你关心哪些数据",
       "onboard_time": 1672047812,
       "rank": 26,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 213875,
+      "num": 213875,
+      "word": "不刻意的恋爱有多幸福",
+      "onboard_time": 1672060176,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 212698,
@@ -1459,28 +1547,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 211921,
-      "num": 211921,
-      "word": "咳嗽出现这些症状要警惕肺炎",
-      "onboard_time": 1672061017,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 210669,
       "num": 210669,
       "word": "腰腹赘肉算是有克星了",
       "onboard_time": 1672056094,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 210536,
-      "num": 210536,
-      "word": "苏有朋2023央视春晚首次联排",
-      "onboard_time": 1672061017,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 210088,
@@ -1577,6 +1649,14 @@
       "onboard_time": 1672050813,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 197706,
+      "num": 197706,
+      "word": "武汉街头的车方向盘会自己转",
+      "onboard_time": 1672060656,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 197160,
@@ -1707,14 +1787,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 186239,
-      "num": 186239,
-      "word": "阳了后医生不建议做的10件事",
-      "onboard_time": 1672061077,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 184870,
       "num": 175088,
       "word": "廖穗芳觉得李承天可怕",
@@ -1795,6 +1867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 176068,
+      "num": 1736614,
+      "word": "感染者出现哪些症状应及时就诊",
+      "onboard_time": 1672062693,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 174588,
       "num": 174588,
       "word": "王鹤棣说肖铎十分男人",
@@ -1835,6 +1915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 171095,
+      "num": 171095,
+      "word": "如何自我改善肺功能",
+      "onboard_time": 1672059333,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 171059,
       "num": 171059,
       "word": "李文卓不是真的李文卓",
@@ -1857,14 +1945,6 @@
       "onboard_time": 1672036588,
       "rank": 41,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 165093,
-      "num": 165093,
-      "word": "武汉街头的车方向盘会自己转",
-      "onboard_time": 1672060656,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 164836,
@@ -1939,6 +2019,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 158646,
+      "num": 158646,
+      "word": "什么样的咳嗽应该重视",
+      "onboard_time": 1672063534,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158383,
       "num": 158383,
       "word": "浮图缘全阵容翻牌",
@@ -1955,6 +2043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 157322,
+      "num": 157322,
+      "word": "回来的女儿真相到底是什么",
+      "onboard_time": 1672063295,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 156634,
       "num": 156634,
       "word": "女子四天没洗头当猫咪闻过之后",
@@ -1969,14 +2065,6 @@
       "onboard_time": 1672017267,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 155749,
-      "num": 155749,
-      "word": "如何自我改善肺功能",
-      "onboard_time": 1672059333,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 155273,
@@ -2035,6 +2123,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 149469,
+      "num": 149469,
+      "word": "少年歌行会成为黑马吗",
+      "onboard_time": 1672062635,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 148869,
       "num": 148869,
       "word": "WB遗憾止步四强",
@@ -2057,14 +2153,6 @@
       "onboard_time": 1672017987,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 145301,
-      "num": 145301,
-      "word": "不刻意的恋爱有多幸福",
-      "onboard_time": 1672060176,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 145105,
@@ -2209,6 +2297,14 @@
       "onboard_time": 1672033409,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 130180,
+      "num": 142756,
+      "word": "2022第一条晚安短信",
+      "onboard_time": 1672064015,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 128911,
