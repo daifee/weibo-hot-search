@@ -1,6 +1,6 @@
 {
   "startTime": 1671985442345,
-  "endTime": 1672054405668,
+  "endTime": 1672057988268,
   "band_list": [
     {
       "raw_hot": 3620426,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2458698,
-      "num": 423942,
+      "num": 465633,
       "word": "刘强东痛批京东中高层拿PPT欺骗自己",
       "onboard_time": 1672046910,
       "rank": 22,
@@ -25,6 +25,14 @@
       "onboard_time": 1672034430,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1742312,
+      "num": 850598,
+      "word": "13岁女孩被16岁男孩性侵宾馆判赔5000元",
+      "onboard_time": 1672054111,
+      "rank": 28,
+      "category": "社会负面"
     },
     {
       "raw_hot": 1662452,
@@ -155,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 932481,
+      "num": 932481,
+      "word": "女子切肉切出1根大针头",
+      "onboard_time": 1672052913,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 888016,
       "num": 888016,
       "word": "药房连花清瘟进价18卖118被罚30万",
@@ -216,6 +232,14 @@
       "word": "76岁老人感染新冠一周后去世",
       "onboard_time": 1672038631,
       "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 814333,
+      "num": 814333,
+      "word": "满足四个标准才算新冠痊愈",
+      "onboard_time": 1672054712,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -292,7 +316,7 @@
     },
     {
       "raw_hot": 702850,
-      "num": 343067,
+      "num": 493692,
       "word": "姜大声离开YG娱乐",
       "onboard_time": 1672051112,
       "rank": 12,
@@ -339,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 668130,
+      "num": 463468,
+      "word": "杨幂维密新年写真",
+      "onboard_time": 1672055852,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 657359,
       "num": 657359,
       "word": "8岁女孩吃布洛芬过敏肿成香肠嘴",
@@ -361,6 +393,22 @@
       "onboard_time": 1672044031,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 644467,
+      "num": 456747,
+      "word": "广西一老人烧甘蔗叶时不幸身亡",
+      "onboard_time": 1672053932,
+      "rank": 31,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 642247,
+      "num": 642247,
+      "word": "转阴多久没有传染性",
+      "onboard_time": 1672055072,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 638394,
@@ -435,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 574617,
+      "num": 449887,
+      "word": "吴磊直播",
+      "onboard_time": 1672057232,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 573557,
       "num": 573557,
       "word": "黄明昊嗑cp嗑到正主面前",
@@ -491,6 +547,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 530453,
+      "num": 530453,
+      "word": "EDG 上野",
+      "onboard_time": 1672055791,
+      "rank": 7,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 528890,
       "num": 528890,
       "word": "北京计划在各社区医院配置辉瑞Paxlovid",
@@ -539,6 +603,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 472676,
+      "num": 472676,
+      "word": "回来的女儿",
+      "onboard_time": 1671968071,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 472353,
       "num": 472353,
       "word": "男子为节省抗原将试纸剪开分两次用",
@@ -579,6 +651,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 440564,
+      "num": 440564,
+      "word": "男子连喝2顿药发现误吞胶囊塑料壳",
+      "onboard_time": 1672054411,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 440158,
       "num": 440158,
       "word": "阳了能不能洗澡因人而异",
@@ -603,14 +683,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 426257,
-      "num": 316138,
-      "word": "女子切肉切出1根大针头",
-      "onboard_time": 1672052913,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 424236,
       "num": 424236,
       "word": "Rookie给小钰送牌匾",
@@ -625,6 +697,14 @@
       "onboard_time": 1672034970,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 423146,
+      "num": 423146,
+      "word": "一诺 直播",
+      "onboard_time": 1672056390,
+      "rank": 16,
+      "category": "游戏"
     },
     {
       "raw_hot": 414127,
@@ -643,6 +723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 400372,
+      "num": 400372,
+      "word": "食堂阿姨请病假HR临上阵掌勺做饭",
+      "onboard_time": 1672052672,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 399846,
       "num": 381402,
       "word": "TangoZ是懂kpop人的",
@@ -657,6 +745,14 @@
       "onboard_time": 1672030231,
       "rank": 16,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 391593,
+      "num": 391593,
+      "word": "普京称俄将100%摧毁美承诺援乌的爱国者",
+      "onboard_time": 1672055493,
+      "rank": 18,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 385639,
@@ -747,12 +843,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 353395,
-      "num": 302114,
-      "word": "食堂阿姨请病假HR临上阵掌勺做饭",
-      "onboard_time": 1672052672,
-      "rank": 36,
-      "category": "社会新闻"
+      "raw_hot": 353631,
+      "num": 353631,
+      "word": "女子曝9岁女儿被14岁男孩持刀砍伤",
+      "onboard_time": 1672057111,
+      "rank": 20,
+      "category": "社会负面"
     },
     {
       "raw_hot": 345188,
@@ -923,6 +1019,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 286848,
+      "num": 286848,
+      "word": "浮图缘",
+      "onboard_time": 1672056390,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 286082,
       "num": 203374,
       "word": "张若昀2023央视春晚首次联排",
@@ -947,12 +1051,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 281926,
+      "num": 281926,
+      "word": "山东多地倡议市民加入外卖跑腿配送",
+      "onboard_time": 1672054833,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 280732,
       "num": 280732,
       "word": "肖战如梦之梦北京场谢幕直播",
       "onboard_time": 1672016969,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 280573,
+      "num": 280573,
+      "word": "男子回应厕所炒菜被质疑卫生问题",
+      "onboard_time": 1672053570,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 278622,
@@ -1008,6 +1128,14 @@
       "word": "出现这些症状当心病毒性心肌炎",
       "onboard_time": 1671966092,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 255053,
+      "num": 255053,
+      "word": "女子用冰冻鱼敷额头为丈夫退热",
+      "onboard_time": 1672055311,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -1091,6 +1219,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 232449,
+      "num": 232449,
+      "word": "xbb",
+      "onboard_time": 1672057475,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 232107,
+      "num": 232107,
+      "word": "女孩车祸失去双腿贴心照料发烧妈妈",
+      "onboard_time": 1672056152,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 229638,
       "num": 196004,
       "word": "丁程鑫表演课演少年周楠",
@@ -1121,6 +1265,14 @@
       "onboard_time": 1672033470,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 225912,
+      "num": 225912,
+      "word": "爷爷一人带3孙子小心翼翼不敢动",
+      "onboard_time": 1672057053,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 225555,
@@ -1155,6 +1307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 223582,
+      "num": 223582,
+      "word": "NewJeans新歌Ditto舞蹈练习室",
+      "onboard_time": 1672056272,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 221421,
       "num": 221421,
       "word": "周深风起西州主题曲古典美",
@@ -1169,6 +1329,14 @@
       "onboard_time": 1672021768,
       "rank": 20,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 221104,
+      "num": 221104,
+      "word": "今天好多剧开播",
+      "onboard_time": 1672056272,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 220655,
@@ -1195,14 +1363,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 219339,
-      "num": 175992,
-      "word": "广西一老人烧甘蔗叶时不幸身亡",
-      "onboard_time": 1672053932,
-      "rank": 31,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 218654,
       "num": 209530,
       "word": "武庚纪女主是邢菲",
@@ -1225,6 +1385,14 @@
       "onboard_time": 1672047812,
       "rank": 26,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 213480,
+      "num": 213480,
+      "word": "金菊花国产烂片颁奖典礼",
+      "onboard_time": 1672057712,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 212698,
@@ -1251,12 +1419,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 204638,
-      "num": 204638,
-      "word": "男子回应厕所炒菜被质疑卫生问题",
-      "onboard_time": 1672053570,
-      "rank": 25,
-      "category": "社会新闻"
+      "raw_hot": 204995,
+      "num": 204995,
+      "word": "异地恋情侣跨年要见面吗",
+      "onboard_time": 1672051832,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 203524,
@@ -1331,14 +1499,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 196834,
-      "num": 196834,
-      "word": "13岁女孩被16岁男孩性侵宾馆判赔5000元",
-      "onboard_time": 1672054111,
-      "rank": 28,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 196435,
       "num": 196435,
       "word": "NBA圣诞大战",
@@ -1393,6 +1553,14 @@
       "onboard_time": 1671994813,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 191124,
+      "num": 191124,
+      "word": "腰腹赘肉算是有克星了",
+      "onboard_time": 1672056094,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 190472,
@@ -1555,6 +1723,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 164836,
+      "num": 164836,
+      "word": "jet",
+      "onboard_time": 1672056094,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 164598,
       "num": 164598,
       "word": "克洛普说梅西是足坛GOAT",
@@ -1579,20 +1755,20 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 161705,
+      "num": 161705,
+      "word": "当你养的小猫是个学人精",
+      "onboard_time": 1672057593,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 160818,
       "num": 160818,
       "word": "杭州亚残运会宣传曲上线",
       "onboard_time": 1672046015,
       "rank": 42,
       "category": "体育,音乐"
-    },
-    {
-      "raw_hot": 160745,
-      "num": 142859,
-      "word": "回来的女儿",
-      "onboard_time": 1671968071,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 160462,
@@ -1723,6 +1899,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 148093,
+      "num": 148093,
+      "word": "田柾国新歌MV花絮视频",
+      "onboard_time": 1672055430,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 146545,
       "num": 146545,
       "word": "给2023的自己捎句话",
@@ -1827,12 +2011,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 132860,
-      "num": 132860,
-      "word": "异地恋情侣跨年要见面吗",
-      "onboard_time": 1672051832,
-      "rank": 44,
-      "category": "情感"
+      "raw_hot": 134969,
+      "num": 134969,
+      "word": "新冠口服药阿兹夫定进社区医院",
+      "onboard_time": 1672057832,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132566,
@@ -1875,20 +2059,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 125511,
+      "num": 125511,
+      "word": "2023刘强东可能会参与更多日常工作",
+      "onboard_time": 1672054111,
+      "rank": 44,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 125033,
+      "num": 125033,
+      "word": "第一次聚会可以多上头",
+      "onboard_time": 1672055970,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 124715,
       "num": 124715,
       "word": "我想对21岁的一诺说",
       "onboard_time": 1672039952,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 122311,
-      "num": 122311,
-      "word": "2023刘强东可能会参与更多日常工作",
-      "onboard_time": 1672054111,
-      "rank": 44,
-      "category": "科技"
     },
     {
       "raw_hot": 120671,
