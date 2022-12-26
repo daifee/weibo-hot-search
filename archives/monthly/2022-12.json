@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1672083184198,
+  "endTime": 1672085897962,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -61211,12 +61211,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 23888,
+      "num": 23888,
+      "word": "栓Q哥成名后有老板为签约喂他吃饭",
+      "onboard_time": 1672082952,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 23439,
       "num": 23439,
       "word": "韩乔生说梅西距球王只差一场胜利",
       "onboard_time": 1671132073,
       "rank": 37,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 22888,
+      "num": 22888,
+      "word": "王凯谭松韵新剧首播收视率第一",
+      "onboard_time": 1672085292,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 22722,
@@ -61337,14 +61353,6 @@
       "onboard_time": 1671834494,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 14862,
-      "num": 19138,
-      "word": "栓Q哥成名后有老板为签约喂他吃饭",
-      "onboard_time": 1672082952,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 14313,
