@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1672074942390,
+  "endTime": 1672076011702,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -54155,6 +54155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125098,
+      "num": 125098,
+      "word": "没想到感染毒株也能社死",
+      "onboard_time": 1672072467,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 125087,
       "num": 287935,
       "word": "球迷骨折未愈坚持到现场看梅西",
@@ -57739,6 +57747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 103136,
+      "num": 103136,
+      "word": "苹果iPhone15或复活mini产品线",
+      "onboard_time": 1672074380,
+      "rank": 47,
+      "category": "科技"
+    },
+    {
       "raw_hot": 103129,
       "num": 103129,
       "word": "中俄将举行海上联合军演",
@@ -58417,14 +58433,6 @@
       "onboard_time": 1670148972,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 96682,
-      "num": 96682,
-      "word": "没想到感染毒株也能社死",
-      "onboard_time": 1672072467,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 96608,
@@ -60339,14 +60347,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 59955,
-      "num": 59955,
-      "word": "苹果iPhone15或复活mini产品线",
-      "onboard_time": 1672074380,
-      "rank": 47,
-      "category": "科技"
-    },
-    {
       "raw_hot": 59916,
       "num": 255345,
       "word": "劳塔罗吐饼",
@@ -60579,6 +60579,14 @@
       "category": "影视,情感"
     },
     {
+      "raw_hot": 51490,
+      "num": 51490,
+      "word": "顾客吐槽看阿凡达需30元购3D眼镜",
+      "onboard_time": 1672075698,
+      "rank": 45,
+      "category": "影视,社会新闻"
+    },
+    {
       "raw_hot": 51486,
       "num": 51486,
       "word": "前田大然破门",
@@ -60721,6 +60729,14 @@
       "onboard_time": 1671665181,
       "rank": 47,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 47330,
+      "num": 47330,
+      "word": "山东多地迎今冬初雪",
+      "onboard_time": 1672075458,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 47294,

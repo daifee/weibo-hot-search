@@ -1,6 +1,6 @@
 {
   "startTime": 1671985442345,
-  "endTime": 1672074942390,
+  "endTime": 1672076011702,
   "band_list": [
     {
       "raw_hot": 8035343,
@@ -2603,6 +2603,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 125098,
+      "num": 125098,
+      "word": "没想到感染毒株也能社死",
+      "onboard_time": 1672072467,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124715,
       "num": 124715,
       "word": "我想对21岁的一诺说",
@@ -2739,6 +2747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 103136,
+      "num": 103136,
+      "word": "苹果iPhone15或复活mini产品线",
+      "onboard_time": 1672074380,
+      "rank": 47,
+      "category": "科技"
+    },
+    {
       "raw_hot": 102846,
       "num": 102846,
       "word": "王大陆蔡卓宜一起跳绳毫无默契",
@@ -2792,14 +2808,6 @@
       "word": "毛主席诞辰129周年",
       "onboard_time": 1672013606,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 96682,
-      "num": 96682,
-      "word": "没想到感染毒株也能社死",
-      "onboard_time": 1672072467,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -2931,14 +2939,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 59955,
-      "num": 59955,
-      "word": "苹果iPhone15或复活mini产品线",
-      "onboard_time": 1672074380,
-      "rank": 47,
-      "category": "科技"
-    },
-    {
       "raw_hot": 54648,
       "num": 54648,
       "word": "梦岚 公孙离",
@@ -2961,6 +2961,22 @@
       "onboard_time": 1672074319,
       "rank": 49,
       "category": "影视,情感"
+    },
+    {
+      "raw_hot": 51490,
+      "num": 51490,
+      "word": "顾客吐槽看阿凡达需30元购3D眼镜",
+      "onboard_time": 1672075698,
+      "rank": 45,
+      "category": "影视,社会新闻"
+    },
+    {
+      "raw_hot": 47330,
+      "num": 47330,
+      "word": "山东多地迎今冬初雪",
+      "onboard_time": 1672075458,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 40100,

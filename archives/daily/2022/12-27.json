@@ -1,6 +1,6 @@
 {
   "startTime": 1672071862986,
-  "endTime": 1672074942390,
+  "endTime": 1672076011702,
   "band_list": [
     {
       "raw_hot": 6477642,
@@ -347,6 +347,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 125098,
+      "num": 125098,
+      "word": "没想到感染毒株也能社死",
+      "onboard_time": 1672072467,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 123776,
       "num": 123776,
       "word": "上海一车主5次倒车撞击后车",
@@ -403,20 +411,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 103136,
+      "num": 103136,
+      "word": "苹果iPhone15或复活mini产品线",
+      "onboard_time": 1672074380,
+      "rank": 47,
+      "category": "科技"
+    },
+    {
       "raw_hot": 98506,
       "num": 98506,
       "word": "普京称俄将100%摧毁美承诺援乌的爱国者",
       "onboard_time": 1672055493,
       "rank": 49,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 96682,
-      "num": 96682,
-      "word": "没想到感染毒株也能社死",
-      "onboard_time": 1672072467,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 77510,
@@ -427,20 +435,28 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 59955,
-      "num": 59955,
-      "word": "苹果iPhone15或复活mini产品线",
-      "onboard_time": 1672074380,
-      "rank": 47,
-      "category": "科技"
-    },
-    {
       "raw_hot": 51734,
       "num": 51734,
       "word": "你看过最难释怀的烂剧",
       "onboard_time": 1672074319,
       "rank": 49,
       "category": "影视,情感"
+    },
+    {
+      "raw_hot": 51490,
+      "num": 51490,
+      "word": "顾客吐槽看阿凡达需30元购3D眼镜",
+      "onboard_time": 1672075698,
+      "rank": 45,
+      "category": "影视,社会新闻"
+    },
+    {
+      "raw_hot": 47330,
+      "num": 47330,
+      "word": "山东多地迎今冬初雪",
+      "onboard_time": 1672075458,
+      "rank": 46,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
