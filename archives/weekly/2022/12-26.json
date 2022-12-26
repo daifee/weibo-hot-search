@@ -1,6 +1,6 @@
 {
   "startTime": 1671985442345,
-  "endTime": 1672068817628,
+  "endTime": 1672071862986,
   "band_list": [
     {
       "raw_hot": 8035343,
@@ -73,6 +73,22 @@
       "onboard_time": 1672065394,
       "rank": 1,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 2072509,
+      "num": 2072509,
+      "word": "章泽天发朋友圈介绍如何购买辉瑞新冠药",
+      "onboard_time": 1672068813,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1853950,
+      "num": 1853950,
+      "word": "取消入境后全员核酸检测和集中隔离",
+      "onboard_time": 1672068215,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1742312,
@@ -171,14 +187,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1292141,
-      "num": 1292141,
-      "word": "取消入境后全员核酸检测和集中隔离",
-      "onboard_time": 1672068215,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1266427,
       "num": 1266427,
       "word": "任嘉伦邢菲二搭",
@@ -236,7 +244,7 @@
     },
     {
       "raw_hot": 990126,
-      "num": 861798,
+      "num": 890449,
       "word": "大二女生吃药一年得知被误诊艾滋病",
       "onboard_time": 1672067433,
       "rank": 30,
@@ -947,6 +955,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 395545,
+      "num": 395545,
+      "word": "妈妈偷订外卖忘记孩子识字被发现",
+      "onboard_time": 1672068756,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 386544,
       "num": 386544,
       "word": "陈飞宇上线换头像",
@@ -1051,12 +1067,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 352092,
+      "num": 352092,
+      "word": "吴磊担心车被偷走",
+      "onboard_time": 1672069593,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 351312,
       "num": 351312,
       "word": "晚安计划",
       "onboard_time": 1672062876,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 347130,
+      "num": 347130,
+      "word": "京东健康辉瑞新冠药已断货",
+      "onboard_time": 1672069234,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 345188,
@@ -1347,6 +1379,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 268704,
+      "num": 268704,
+      "word": "25岁老总挪用公款打赏女主播50万",
+      "onboard_time": 1672069054,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 267969,
       "num": 267969,
       "word": "中午吃火锅晚上吃米线",
@@ -1369,6 +1409,14 @@
       "onboard_time": 1671964232,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 263552,
+      "num": 263552,
+      "word": "有序恢复中国公民出境旅游",
+      "onboard_time": 1672070789,
+      "rank": 19,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 263530,
@@ -1419,11 +1467,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 251703,
+      "num": 251703,
+      "word": "iPhoneXR掉地后冒烟炸开",
+      "onboard_time": 1672067314,
+      "rank": 47,
+      "category": "科技"
+    },
+    {
       "raw_hot": 249671,
       "num": 249671,
       "word": "什么样的咳嗽应该重视",
       "onboard_time": 1672063534,
       "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 248637,
+      "num": 248637,
+      "word": "国家卫健委公告",
+      "onboard_time": 1672069174,
+      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -1699,14 +1763,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 209806,
-      "num": 209806,
-      "word": "iPhoneXR掉地后冒烟炸开",
-      "onboard_time": 1672067314,
-      "rank": 47,
-      "category": "科技"
-    },
-    {
       "raw_hot": 209615,
       "num": 173202,
       "word": "SMTOWN冬专全专音频视频",
@@ -1931,11 +1987,27 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 186113,
+      "num": 186113,
+      "word": "期待2023",
+      "onboard_time": 1672070971,
+      "rank": 26,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 184870,
       "num": 175088,
       "word": "廖穗芳觉得李承天可怕",
       "onboard_time": 1672060234,
       "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 183651,
+      "num": 183651,
+      "word": "廖穗芳的两个孩子都患有精神病",
+      "onboard_time": 1672071326,
+      "rank": 27,
       "category": "影视"
     },
     {
@@ -1968,6 +2040,14 @@
       "word": "压力大真的会伤心",
       "onboard_time": 1672020445,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 181787,
+      "num": 181787,
+      "word": "乙类乙管后有哪些应对措施",
+      "onboard_time": 1672069771,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -2387,6 +2467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 139785,
+      "num": 139785,
+      "word": "李宏毅少年歌行好看吗",
+      "onboard_time": 1672070789,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 138917,
       "num": 138917,
       "word": "小鱼嘴怼食管狂炫饭肉眼可见变圆",
@@ -2441,14 +2529,6 @@
       "onboard_time": 1672064734,
       "rank": 47,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 133520,
-      "num": 133520,
-      "word": "妈妈偷订外卖忘记孩子识字被发现",
-      "onboard_time": 1672068756,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 132566,
@@ -2579,6 +2659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 109669,
+      "num": 109669,
+      "word": "男子开车与救护车碰撞后落水溺亡",
+      "onboard_time": 1672068451,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 108940,
       "num": 108940,
       "word": "你有哪些年终总结小技巧",
@@ -2593,6 +2681,14 @@
       "onboard_time": 1672049912,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 107698,
+      "num": 107698,
+      "word": "120闯红灯撞车后被指见死不救",
+      "onboard_time": 1672071565,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 107436,
