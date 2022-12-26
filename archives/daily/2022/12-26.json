@@ -1,6 +1,6 @@
 {
   "startTime": 1671985442345,
-  "endTime": 1672064156990,
+  "endTime": 1672065199797,
   "band_list": [
     {
       "raw_hot": 3825549,
@@ -8,6 +8,14 @@
       "word": "白肺",
       "onboard_time": 1672059454,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3821130,
+      "num": 3821130,
+      "word": "xbb",
+      "onboard_time": 1672057475,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -32,14 +40,6 @@
       "word": "专家回应奥密克戎是否会导致白肺现象",
       "onboard_time": 1672059454,
       "rank": 0,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2505927,
-      "num": 2505927,
-      "word": "xbb",
-      "onboard_time": 1672057475,
-      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -131,6 +131,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1356132,
+      "num": 1356132,
+      "word": "咳嗽出现这些症状要警惕肺炎",
+      "onboard_time": 1672061017,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1313278,
       "num": 1313278,
       "word": "郑州一商场一天涌进十万人",
@@ -145,14 +153,6 @@
       "onboard_time": 1672022369,
       "rank": 5,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1222582,
-      "num": 1222582,
-      "word": "咳嗽出现这些症状要警惕肺炎",
-      "onboard_time": 1672061017,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1208396,
@@ -241,6 +241,14 @@
       "onboard_time": 1672026450,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 883757,
+      "num": 883757,
+      "word": "骚白",
+      "onboard_time": 1672063237,
+      "rank": 13,
+      "category": "游戏"
     },
     {
       "raw_hot": 872655,
@@ -587,6 +595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 566693,
+      "num": 566693,
+      "word": "宁艺卓TimeAfterTime高音",
+      "onboard_time": 1672064915,
+      "rank": 9,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 561458,
       "num": 454731,
       "word": "中国工程院院士王仲奇离世",
@@ -643,12 +659,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 524968,
+      "num": 524968,
+      "word": "白敬亭荣获豆瓣2022年度年度最受关注演员",
+      "onboard_time": 1672063832,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 522672,
       "num": 522672,
       "word": "王凯 演技",
       "onboard_time": 1672060476,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 516124,
+      "num": 516124,
+      "word": "宁夏14岁初中生失踪超1个月",
+      "onboard_time": 1672062214,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 507930,
@@ -697,14 +729,6 @@
       "onboard_time": 1672047514,
       "rank": 8,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 478886,
-      "num": 478886,
-      "word": "白敬亭荣获豆瓣2022年度年度最受关注演员",
-      "onboard_time": 1672063832,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 472353,
@@ -787,14 +811,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 427325,
-      "num": 427325,
-      "word": "骚白",
-      "onboard_time": 1672063237,
-      "rank": 13,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 424236,
       "num": 424236,
       "word": "Rookie给小钰送牌匾",
@@ -872,14 +888,6 @@
       "word": "为什么转阴后仍感到虚弱",
       "onboard_time": 1672006151,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 382864,
-      "num": 382864,
-      "word": "宁夏14岁初中生失踪超1个月",
-      "onboard_time": 1672062214,
-      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -1315,6 +1323,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 249671,
+      "num": 249671,
+      "word": "什么样的咳嗽应该重视",
+      "onboard_time": 1672063534,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 248300,
       "num": 248300,
       "word": "洛歌受刑",
@@ -1483,6 +1499,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 220613,
+      "num": 220613,
+      "word": "不刻意的恋爱有多幸福",
+      "onboard_time": 1672060176,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 219612,
       "num": 219612,
       "word": "光明日报评退烧药拆零销售",
@@ -1529,14 +1553,6 @@
       "onboard_time": 1672047812,
       "rank": 26,
       "category": "社会议题"
-    },
-    {
-      "raw_hot": 213875,
-      "num": 213875,
-      "word": "不刻意的恋爱有多幸福",
-      "onboard_time": 1672060176,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 212698,
@@ -1609,6 +1625,14 @@
       "onboard_time": 1671969391,
       "rank": 17,
       "category": "情感"
+    },
+    {
+      "raw_hot": 200722,
+      "num": 1736614,
+      "word": "感染者出现哪些症状应及时就诊",
+      "onboard_time": 1672062693,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 199935,
@@ -1867,14 +1891,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 176068,
-      "num": 1736614,
-      "word": "感染者出现哪些症状应及时就诊",
-      "onboard_time": 1672062693,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 174588,
       "num": 174588,
       "word": "王鹤棣说肖铎十分男人",
@@ -1971,6 +1987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 163003,
+      "num": 163003,
+      "word": "少年歌行会成为黑马吗",
+      "onboard_time": 1672062635,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 162348,
       "num": 162348,
       "word": "东莞全域放开住房限购",
@@ -2017,14 +2041,6 @@
       "onboard_time": 1672014265,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 158646,
-      "num": 158646,
-      "word": "什么样的咳嗽应该重视",
-      "onboard_time": 1672063534,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 158383,
@@ -2121,14 +2137,6 @@
       "onboard_time": 1672042472,
       "rank": 43,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 149469,
-      "num": 149469,
-      "word": "少年歌行会成为黑马吗",
-      "onboard_time": 1672062635,
-      "rank": 45,
-      "category": "影视"
     },
     {
       "raw_hot": 148869,
@@ -2283,6 +2291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 134937,
+      "num": 134937,
+      "word": "宜宾一出租车与货车相撞致4死1伤",
+      "onboard_time": 1672064734,
+      "rank": 47,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 132566,
       "num": 132566,
       "word": "查干湖现冰湖腾鱼盛景",
@@ -2303,6 +2319,14 @@
       "num": 142756,
       "word": "2022第一条晚安短信",
       "onboard_time": 1672064015,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 129743,
+      "num": 129743,
+      "word": "咸鱼干杯",
+      "onboard_time": 1672065096,
       "rank": 49,
       "category": "情感"
     },
@@ -2701,6 +2725,9 @@
     },
     {
       "word": "#2022中国色彩之美#"
+    },
+    {
+      "word": "#22张海报回顾2022#"
     }
   ]
 }

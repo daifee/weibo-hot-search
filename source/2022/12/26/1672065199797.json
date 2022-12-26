@@ -1,0 +1,410 @@
+{
+  "runTime": 1672065199797,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3821130,
+        "num": 3821130,
+        "word": "xbb",
+        "onboard_time": 1672057475,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2096313,
+        "num": 2096313,
+        "word": "专家回应奥密克戎是否会导致白肺现象",
+        "onboard_time": 1672059454,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200722,
+        "num": 1544744,
+        "word": "感染者出现哪些症状应及时就诊",
+        "onboard_time": 1672062693,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1356132,
+        "num": 1356132,
+        "word": "咳嗽出现这些症状要警惕肺炎",
+        "onboard_time": 1672061017,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1162840,
+        "num": 1162840,
+        "word": "王重江死了",
+        "onboard_time": 1672060176,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 883757,
+        "num": 883757,
+        "word": "骚白",
+        "onboard_time": 1672063237,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 696735,
+        "num": 696735,
+        "word": "阳后有必要拍肺部CT吗",
+        "onboard_time": 1672046793,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 654491,
+        "num": 654491,
+        "word": "满足四个标准才算新冠痊愈",
+        "onboard_time": 1672054712,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 636385,
+        "num": 636385,
+        "word": "吴磊直播",
+        "onboard_time": 1672057232,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 566693,
+        "num": 566693,
+        "word": "宁艺卓TimeAfterTime高音",
+        "onboard_time": 1672064915,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 920543,
+        "num": 552057,
+        "word": "刘强东痛批京东中高层拿PPT欺骗自己",
+        "onboard_time": 1672046910,
+        "rank": 10,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 524968,
+        "num": 524968,
+        "word": "白敬亭荣获豆瓣2022年度年度最受关注演员",
+        "onboard_time": 1672063832,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 516124,
+        "num": 516124,
+        "word": "宁夏14岁初中生失踪超1个月",
+        "onboard_time": 1672062214,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 498300,
+        "num": 498300,
+        "word": "乔治娜圣诞礼物送C罗劳斯莱斯",
+        "onboard_time": 1672058373,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 484657,
+        "num": 484657,
+        "word": "王凯 演技",
+        "onboard_time": 1672060476,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 421922,
+        "num": 421922,
+        "word": "转阴多久没有传染性",
+        "onboard_time": 1672055072,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 398201,
+        "num": 398201,
+        "word": "广西一老人烧甘蔗叶时不幸身亡",
+        "onboard_time": 1672053932,
+        "rank": 16,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 367576,
+        "num": 367576,
+        "word": "阳了后医生不建议做的10件事",
+        "onboard_time": 1672061077,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345661,
+        "num": 345661,
+        "word": "杨幂维密新年写真",
+        "onboard_time": 1672055852,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 291650,
+        "num": 291650,
+        "word": "热刺 中场",
+        "onboard_time": 1672061676,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 319940,
+        "num": 291636,
+        "word": "姜大声离开YG娱乐",
+        "onboard_time": 1672051112,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291599,
+        "num": 291599,
+        "word": "肖战朗读落花生",
+        "onboard_time": 1672060115,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 279908,
+        "num": 279908,
+        "word": "阳后有这些症状可能正在转重症",
+        "onboard_time": 1672049071,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276236,
+        "num": 276236,
+        "word": "女子切肉切出1根大针头",
+        "onboard_time": 1672052913,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271195,
+        "num": 271195,
+        "word": "爷爷一人带3孙子小心翼翼不敢动",
+        "onboard_time": 1672057053,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266900,
+        "num": 266900,
+        "word": "普京称俄将100%摧毁美承诺援乌的爱国者",
+        "onboard_time": 1672055493,
+        "rank": 25,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 257745,
+        "num": 257745,
+        "word": "男子连喝2顿药发现误吞胶囊塑料壳",
+        "onboard_time": 1672054411,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256682,
+        "num": 256682,
+        "word": "金菊花国产烂片颁奖典礼",
+        "onboard_time": 1672057712,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 249671,
+        "num": 249671,
+        "word": "什么样的咳嗽应该重视",
+        "onboard_time": 1672063534,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237574,
+        "num": 237574,
+        "word": "晚安计划",
+        "onboard_time": 1672062876,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 246670,
+        "num": 230335,
+        "word": "回来的女儿",
+        "onboard_time": 1672056272,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 220613,
+        "num": 220613,
+        "word": "不刻意的恋爱有多幸福",
+        "onboard_time": 1672060176,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 208255,
+        "num": 208255,
+        "word": "运动员王一博去世",
+        "onboard_time": 1672038390,
+        "rank": 32,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 208189,
+        "num": 208189,
+        "word": "苏有朋2023央视春晚首次联排",
+        "onboard_time": 1672061017,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182859,
+        "num": 182859,
+        "word": "食堂阿姨请病假HR临上阵掌勺做饭",
+        "onboard_time": 1672052672,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182006,
+        "num": 182006,
+        "word": "武汉街头的车方向盘会自己转",
+        "onboard_time": 1672060656,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176494,
+        "num": 176494,
+        "word": "腰腹赘肉算是有克星了",
+        "onboard_time": 1672056094,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165925,
+        "num": 165925,
+        "word": "EDG 上野",
+        "onboard_time": 1672055791,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 163003,
+        "num": 163003,
+        "word": "少年歌行会成为黑马吗",
+        "onboard_time": 1672062635,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 155591,
+        "num": 155591,
+        "word": "廖穗芳觉得李承天可怕",
+        "onboard_time": 1672060234,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 154453,
+        "num": 154453,
+        "word": "男子回应厕所炒菜被质疑卫生问题",
+        "onboard_time": 1672053570,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151566,
+        "num": 151566,
+        "word": "今天好多剧开播",
+        "onboard_time": 1672056272,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 143196,
+        "num": 143196,
+        "word": "易建联常规赛10000分",
+        "onboard_time": 1672058851,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142633,
+        "num": 142633,
+        "word": "回来的女儿真相到底是什么",
+        "onboard_time": 1672063295,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 140496,
+        "num": 140496,
+        "word": "一诺 直播",
+        "onboard_time": 1672056390,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 138896,
+        "num": 138896,
+        "word": "山东多地倡议市民加入外卖跑腿配送",
+        "onboard_time": 1672054833,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138343,
+        "num": 138343,
+        "word": "当你养的小猫是个学人精",
+        "onboard_time": 1672057593,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 134937,
+        "num": 134937,
+        "word": "宜宾一出租车与货车相撞致4死1伤",
+        "onboard_time": 1672064734,
+        "rank": 47,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 133347,
+        "num": 133347,
+        "word": "如何自我改善肺功能",
+        "onboard_time": 1672059333,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129743,
+        "num": 129743,
+        "word": "咸鱼干杯",
+        "onboard_time": 1672065096,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#22张海报回顾2022#"
+    }
+  }
+}
