@@ -1,6 +1,6 @@
 {
   "startTime": 1671985442345,
-  "endTime": 1672057988268,
+  "endTime": 1672059050649,
   "band_list": [
     {
       "raw_hot": 3620426,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2458698,
-      "num": 465633,
+      "num": 592795,
       "word": "刘强东痛批京东中高层拿PPT欺骗自己",
       "onboard_time": 1672046910,
       "rank": 22,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1742312,
-      "num": 850598,
+      "num": 877966,
       "word": "13岁女孩被16岁男孩性侵宾馆判赔5000元",
       "onboard_time": 1672054111,
       "rank": 28,
@@ -155,6 +155,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 969429,
+      "num": 877459,
+      "word": "吴磊直播",
+      "onboard_time": 1672057232,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 938582,
       "num": 938582,
       "word": "男子进店乞讨发现店员全是阳性",
@@ -168,6 +176,14 @@
       "word": "女子切肉切出1根大针头",
       "onboard_time": 1672052913,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 929739,
+      "num": 929739,
+      "word": "满足四个标准才算新冠痊愈",
+      "onboard_time": 1672054712,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -232,14 +248,6 @@
       "word": "76岁老人感染新冠一周后去世",
       "onboard_time": 1672038631,
       "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 814333,
-      "num": 814333,
-      "word": "满足四个标准才算新冠痊愈",
-      "onboard_time": 1672054712,
-      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -323,6 +331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 690849,
+      "num": 690849,
+      "word": "转阴多久没有传染性",
+      "onboard_time": 1672055072,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 681856,
       "num": 681856,
       "word": "潘粤明方道歉",
@@ -364,7 +380,7 @@
     },
     {
       "raw_hot": 668130,
-      "num": 463468,
+      "num": 584551,
       "word": "杨幂维密新年写真",
       "onboard_time": 1672055852,
       "rank": 11,
@@ -377,6 +393,14 @@
       "onboard_time": 1672028008,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 656828,
+      "num": 589933,
+      "word": "女子曝9岁女儿被14岁男孩持刀砍伤",
+      "onboard_time": 1672057111,
+      "rank": 20,
+      "category": "社会负面"
     },
     {
       "raw_hot": 654654,
@@ -396,19 +420,11 @@
     },
     {
       "raw_hot": 644467,
-      "num": 456747,
+      "num": 600876,
       "word": "广西一老人烧甘蔗叶时不幸身亡",
       "onboard_time": 1672053932,
       "rank": 31,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 642247,
-      "num": 642247,
-      "word": "转阴多久没有传染性",
-      "onboard_time": 1672055072,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 638394,
@@ -416,6 +432,14 @@
       "word": "不浪费抗原的正确使用方法",
       "onboard_time": 1672027830,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 637097,
+      "num": 637097,
+      "word": "xbb",
+      "onboard_time": 1672057475,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -433,6 +457,14 @@
       "onboard_time": 1672040494,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 616727,
+      "num": 616727,
+      "word": "原始毒株",
+      "onboard_time": 1672058131,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 610901,
@@ -483,12 +515,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 574617,
-      "num": 449887,
-      "word": "吴磊直播",
-      "onboard_time": 1672057232,
-      "rank": 13,
-      "category": "艺人"
+      "raw_hot": 577041,
+      "num": 577041,
+      "word": "回来的女儿",
+      "onboard_time": 1671968071,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 573557,
@@ -595,20 +627,20 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 497506,
+      "num": 497506,
+      "word": "普京称俄将100%摧毁美承诺援乌的爱国者",
+      "onboard_time": 1672055493,
+      "rank": 18,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 482208,
       "num": 482208,
       "word": "金钟仁姜涩琪李帝努柳智敏合作曲公开",
       "onboard_time": 1672047514,
       "rank": 8,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 472676,
-      "num": 472676,
-      "word": "回来的女儿",
-      "onboard_time": 1671968071,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 472353,
@@ -747,14 +779,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 391593,
-      "num": 391593,
-      "word": "普京称俄将100%摧毁美承诺援乌的爱国者",
-      "onboard_time": 1672055493,
-      "rank": 18,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 385639,
       "num": 385639,
       "word": "为什么转阴后仍感到虚弱",
@@ -843,14 +867,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 353631,
-      "num": 353631,
-      "word": "女子曝9岁女儿被14岁男孩持刀砍伤",
-      "onboard_time": 1672057111,
-      "rank": 20,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 345188,
       "num": 345188,
       "word": "四川省考",
@@ -865,6 +881,14 @@
       "onboard_time": 1672012763,
       "rank": 11,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 342069,
+      "num": 342069,
+      "word": "爷爷一人带3孙子小心翼翼不敢动",
+      "onboard_time": 1672057053,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 340956,
@@ -1043,20 +1067,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 284947,
+      "num": 284947,
+      "word": "山东多地倡议市民加入外卖跑腿配送",
+      "onboard_time": 1672054833,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 283505,
       "num": 224355,
       "word": "烈焰之武庚纪主演官宣",
       "onboard_time": 1672022429,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 281926,
-      "num": 281926,
-      "word": "山东多地倡议市民加入外卖跑腿配送",
-      "onboard_time": 1672054833,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 280732,
@@ -1147,6 +1171,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 253999,
+      "num": 253999,
+      "word": "当你养的小猫是个学人精",
+      "onboard_time": 1672057593,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 253127,
       "num": 192795,
       "word": "财阀家的小儿子",
@@ -1176,6 +1208,14 @@
       "word": "赵丽颖双剧登爱奇艺2022经典榜",
       "onboard_time": 1672050213,
       "rank": 23,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 242580,
+      "num": 242580,
+      "word": "金菊花国产烂片颁奖典礼",
+      "onboard_time": 1672057712,
+      "rank": 34,
       "category": "影视"
     },
     {
@@ -1219,12 +1259,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 232449,
-      "num": 232449,
-      "word": "xbb",
-      "onboard_time": 1672057475,
-      "rank": 28,
-      "category": "社会新闻"
+      "raw_hot": 235591,
+      "num": 235591,
+      "word": "今天好多剧开播",
+      "onboard_time": 1672056272,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 232107,
@@ -1265,14 +1305,6 @@
       "onboard_time": 1672033470,
       "rank": 30,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 225912,
-      "num": 225912,
-      "word": "爷爷一人带3孙子小心翼翼不敢动",
-      "onboard_time": 1672057053,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 225555,
@@ -1331,20 +1363,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 221104,
-      "num": 221104,
-      "word": "今天好多剧开播",
-      "onboard_time": 1672056272,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 220655,
       "num": 211988,
       "word": "程威居然是蓝景仪",
       "onboard_time": 1672023629,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 220572,
+      "num": 220572,
+      "word": "乔治娜圣诞礼物送C罗劳斯莱斯",
+      "onboard_time": 1672058373,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 219612,
@@ -1385,14 +1417,6 @@
       "onboard_time": 1672047812,
       "rank": 26,
       "category": "社会议题"
-    },
-    {
-      "raw_hot": 213480,
-      "num": 213480,
-      "word": "金菊花国产烂片颁奖典礼",
-      "onboard_time": 1672057712,
-      "rank": 34,
-      "category": "影视"
     },
     {
       "raw_hot": 212698,
@@ -1449,6 +1473,14 @@
       "onboard_time": 1671969391,
       "rank": 17,
       "category": "情感"
+    },
+    {
+      "raw_hot": 200406,
+      "num": 200406,
+      "word": "腰腹赘肉算是有克星了",
+      "onboard_time": 1672056094,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 199935,
@@ -1555,14 +1587,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 191124,
-      "num": 191124,
-      "word": "腰腹赘肉算是有克星了",
-      "onboard_time": 1672056094,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 190472,
       "num": 152779,
       "word": "尹炫优夺走顺洋",
@@ -1651,6 +1675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 180166,
+      "num": 180166,
+      "word": "2022微盘点",
+      "onboard_time": 1672059034,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 178507,
       "num": 178507,
       "word": "回来的女儿 上头",
@@ -1673,6 +1705,14 @@
       "onboard_time": 1672044031,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 174361,
+      "num": 174361,
+      "word": "张杰新专辑第二波歌曲概念片",
+      "onboard_time": 1672058432,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 173816,
@@ -1753,14 +1793,6 @@
       "onboard_time": 1672034970,
       "rank": 44,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 161705,
-      "num": 161705,
-      "word": "当你养的小猫是个学人精",
-      "onboard_time": 1672057593,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 160818,
@@ -1931,6 +1963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 144929,
+      "num": 144929,
+      "word": "顾南亭程霄cp名叫南得霄停",
+      "onboard_time": 1672058972,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 143391,
       "num": 143391,
       "word": "阴阳师",
@@ -1985,6 +2025,14 @@
       "onboard_time": 1672029510,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 138512,
+      "num": 138512,
+      "word": "第一次聚会可以多上头",
+      "onboard_time": 1672055970,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 136417,
@@ -2051,6 +2099,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 127697,
+      "num": 127697,
+      "word": "易建联常规赛10000分",
+      "onboard_time": 1672058851,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 126909,
       "num": 126909,
       "word": "接到推销电话后男子反手将其起诉",
@@ -2065,14 +2121,6 @@
       "onboard_time": 1672054111,
       "rank": 44,
       "category": "科技"
-    },
-    {
-      "raw_hot": 125033,
-      "num": 125033,
-      "word": "第一次聚会可以多上头",
-      "onboard_time": 1672055970,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 124715,
@@ -2252,7 +2300,7 @@
     },
     {
       "raw_hot": 91246,
-      "num": 877849,
+      "num": 890657,
       "word": "关于儿童退烧药10个热点问答",
       "onboard_time": 1672048353,
       "rank": 2,
