@@ -1,10 +1,26 @@
 {
   "startTime": 1671985442345,
-  "endTime": 1672011207479,
+  "endTime": 1672018022625,
   "band_list": [
     {
-      "raw_hot": 1079246,
-      "num": 1079246,
+      "raw_hot": 1208396,
+      "num": 1208396,
+      "word": "潘粤明代言违法保健品广告被罚",
+      "onboard_time": 1672012282,
+      "rank": 0,
+      "category": "艺人,社会新闻"
+    },
+    {
+      "raw_hot": 1176073,
+      "num": 1176073,
+      "word": "毛泽东多个重要场合讲话原声",
+      "onboard_time": 1672013304,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1126720,
+      "num": 1126720,
       "word": "阳过后你有心肌炎症状吗",
       "onboard_time": 1671980010,
       "rank": 0,
@@ -35,6 +51,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 708127,
+      "num": 708127,
+      "word": "农村能否平稳经受春节防疫大考",
+      "onboard_time": 1672014027,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 703174,
       "num": 703174,
       "word": "就当是一场梦 醒来还是很感动",
@@ -44,7 +68,7 @@
     },
     {
       "raw_hot": 630637,
-      "num": 332749,
+      "num": 354842,
       "word": "王铮亮和他五个没上过春晚的兄弟",
       "onboard_time": 1671980190,
       "rank": 10,
@@ -56,6 +80,14 @@
       "word": "中国工程院院士王仲奇离世",
       "onboard_time": 1671983066,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 549164,
+      "num": 549164,
+      "word": "阳了以后洗澡时间一定要短",
+      "onboard_time": 1671978509,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -91,12 +123,28 @@
       "category": "影视"
     },
     {
-      "raw_hot": 383400,
-      "num": 383400,
-      "word": "阳了以后洗澡时间一定要短",
-      "onboard_time": 1671978509,
-      "rank": 8,
+      "raw_hot": 385639,
+      "num": 385639,
+      "word": "为什么转阴后仍感到虚弱",
+      "onboard_time": 1672006151,
+      "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 355200,
+      "num": 355200,
+      "word": "免费赠药需要写免责声明吗",
+      "onboard_time": 1672011260,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 343975,
+      "num": 343975,
+      "word": "零下14度的新疆大集有多好逛",
+      "onboard_time": 1672012763,
+      "rank": 11,
+      "category": "旅游"
     },
     {
       "raw_hot": 340956,
@@ -139,19 +187,35 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 286624,
+      "num": 286624,
+      "word": "Epic免费送死亡搁浅",
+      "onboard_time": 1672009877,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 280732,
+      "num": 280732,
+      "word": "肖战如梦之梦北京场谢幕直播",
+      "onboard_time": 1672016969,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 266496,
+      "num": 1132969,
+      "word": "再次感染奥密克戎变异毒株几率高吗",
+      "onboard_time": 1671964232,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 263530,
       "num": 263530,
       "word": "出现这些症状当心病毒性心肌炎",
       "onboard_time": 1671966092,
       "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 260915,
-      "num": 260915,
-      "word": "为什么转阴后仍感到虚弱",
-      "onboard_time": 1672006151,
-      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -177,14 +241,6 @@
       "onboard_time": 1671999911,
       "rank": 46,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 217979,
-      "num": 914999,
-      "word": "再次感染奥密克戎变异毒株几率高吗",
-      "onboard_time": 1671964232,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 217502,
@@ -219,6 +275,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 196435,
+      "num": 196435,
+      "word": "NBA圣诞大战",
+      "onboard_time": 1672010178,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 196089,
+      "num": 196089,
+      "word": "朱孝天感谢韩雯雯勇敢坚持在一起",
+      "onboard_time": 1672013064,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 195557,
       "num": 195557,
       "word": "考研结束后才知道的道理",
@@ -233,6 +305,22 @@
       "onboard_time": 1671979232,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 193349,
+      "num": 193349,
+      "word": "新冠疫情冲击波抵达三四线城市",
+      "onboard_time": 1671994813,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 190476,
+      "num": 190476,
+      "word": "湖人 五后卫",
+      "onboard_time": 1672016248,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 188023,
@@ -251,12 +339,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 172841,
-      "num": 172841,
-      "word": "新冠疫情冲击波抵达三四线城市",
-      "onboard_time": 1671994813,
-      "rank": 45,
-      "category": "社会新闻"
+      "raw_hot": 171059,
+      "num": 171059,
+      "word": "李文卓不是真的李文卓",
+      "onboard_time": 1671976111,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 168590,
@@ -267,12 +355,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 162927,
-      "num": 162927,
-      "word": "Epic免费送死亡搁浅",
-      "onboard_time": 1672009877,
-      "rank": 26,
-      "category": "游戏"
+      "raw_hot": 163983,
+      "num": 163983,
+      "word": "北京部分医院发热门诊现状",
+      "onboard_time": 1672000213,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 160745,
@@ -315,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 156317,
+      "num": 156317,
+      "word": "告别2022",
+      "onboard_time": 1672017267,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 153400,
       "num": 153400,
       "word": "梅西晒安东内拉跳舞视频",
@@ -331,12 +427,28 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 147921,
-      "num": 147921,
-      "word": "NBA圣诞大战",
-      "onboard_time": 1672010178,
-      "rank": 45,
-      "category": "体育"
+      "raw_hot": 146545,
+      "num": 146545,
+      "word": "给2023的自己捎句话",
+      "onboard_time": 1672017987,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 146347,
+      "num": 146347,
+      "word": "2022有真正的爆款剧吗",
+      "onboard_time": 1671990076,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 145495,
+      "num": 145495,
+      "word": "这狗子是在美黑吧",
+      "onboard_time": 1672014265,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 144955,
@@ -347,12 +459,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 134398,
-      "num": 131723,
-      "word": "李文卓不是真的李文卓",
-      "onboard_time": 1671976111,
-      "rank": 32,
-      "category": "影视"
+      "raw_hot": 143285,
+      "num": 143285,
+      "word": "孩子发热抽搐不要往嘴里塞东西",
+      "onboard_time": 1672015586,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 128911,
@@ -371,14 +483,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 113607,
-      "num": 97231,
-      "word": "北京部分医院发热门诊现状",
-      "onboard_time": 1672000213,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 111011,
       "num": 111011,
       "word": "智能手表能否平替血氧仪",
@@ -387,12 +491,52 @@
       "category": "科技,社会议题"
     },
     {
+      "raw_hot": 107436,
+      "num": 107436,
+      "word": "1个火星年有多长",
+      "onboard_time": 1672017748,
+      "rank": 45,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 105970,
+      "num": 105970,
+      "word": "詹姆斯38分",
+      "onboard_time": 1672010418,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 104551,
+      "num": 104551,
+      "word": "康复期如何快速恢复健康",
+      "onboard_time": 1672015107,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 103824,
       "num": 103824,
       "word": "如何用四大名著诠释阳了",
       "onboard_time": 1671982526,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 102846,
+      "num": 102846,
+      "word": "王大陆蔡卓宜一起跳绳毫无默契",
+      "onboard_time": 1671978271,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 102845,
+      "num": 102845,
+      "word": "塔图姆隔扣字母哥",
+      "onboard_time": 1672015168,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 102816,
@@ -433,14 +577,6 @@
       "onboard_time": 1671981748,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 86422,
-      "num": 86422,
-      "word": "詹姆斯38分",
-      "onboard_time": 1672010418,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 82226,
@@ -523,14 +659,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 58090,
-      "num": 58090,
-      "word": "2022有真正的爆款剧吗",
-      "onboard_time": 1671990076,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
       "raw_hot": 54648,
       "num": 54648,
       "word": "梦岚 公孙离",
@@ -545,14 +673,6 @@
       "onboard_time": 1671991514,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 50579,
-      "num": 50579,
-      "word": "王大陆蔡卓宜一起跳绳毫无默契",
-      "onboard_time": 1671978271,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 40100,

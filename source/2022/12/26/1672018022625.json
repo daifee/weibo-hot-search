@@ -1,0 +1,410 @@
+{
+  "runTime": 1672018022625,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1208396,
+        "num": 1208396,
+        "word": "潘粤明代言违法保健品广告被罚",
+        "onboard_time": 1672012282,
+        "rank": 0,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 1176073,
+        "num": 1176073,
+        "word": "毛泽东多个重要场合讲话原声",
+        "onboard_time": 1672013304,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266496,
+        "num": 1132969,
+        "word": "再次感染奥密克戎变异毒株几率高吗",
+        "onboard_time": 1671964232,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1126720,
+        "num": 1126720,
+        "word": "阳过后你有心肌炎症状吗",
+        "onboard_time": 1671980010,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 708127,
+        "num": 708127,
+        "word": "农村能否平稳经受春节防疫大考",
+        "onboard_time": 1672014027,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 549164,
+        "num": 549164,
+        "word": "阳了以后洗澡时间一定要短",
+        "onboard_time": 1671978509,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 470515,
+        "num": 470515,
+        "word": "财阀家的小儿子 烂尾",
+        "onboard_time": 1671979472,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 415081,
+        "num": 415081,
+        "word": "法国20万人请愿重踢决赛你怎么看",
+        "onboard_time": 1671985523,
+        "rank": 7,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 385639,
+        "num": 385639,
+        "word": "为什么转阴后仍感到虚弱",
+        "onboard_time": 1672006151,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 355200,
+        "num": 355200,
+        "word": "免费赠药需要写免责声明吗",
+        "onboard_time": 1672011260,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 489103,
+        "num": 354842,
+        "word": "王铮亮和他五个没上过春晚的兄弟",
+        "onboard_time": 1671980190,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 343975,
+        "num": 343975,
+        "word": "零下14度的新疆大集有多好逛",
+        "onboard_time": 1672012763,
+        "rank": 11,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 339409,
+        "num": 339409,
+        "word": "男孩阳性5天没发烧突然抽搐不停",
+        "onboard_time": 1671961530,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286624,
+        "num": 286624,
+        "word": "Epic免费送死亡搁浅",
+        "onboard_time": 1672009877,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 284969,
+        "num": 284969,
+        "word": "姐姐打翻汤锅5岁妹妹双腿被烫伤",
+        "onboard_time": 1671983966,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280732,
+        "num": 280732,
+        "word": "肖战如梦之梦北京场谢幕直播",
+        "onboard_time": 1672016969,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 266139,
+        "num": 266139,
+        "word": "就当是一场梦 醒来还是很感动",
+        "onboard_time": 1671980905,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 210816,
+        "num": 210816,
+        "word": "春晚彩排有你想看到的艺人吗",
+        "onboard_time": 1671981807,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208251,
+        "num": 208251,
+        "word": "中国工程院院士王仲奇离世",
+        "onboard_time": 1671983066,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196435,
+        "num": 196435,
+        "word": "NBA圣诞大战",
+        "onboard_time": 1672010178,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196089,
+        "num": 196089,
+        "word": "朱孝天感谢韩雯雯勇敢坚持在一起",
+        "onboard_time": 1672013064,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194141,
+        "num": 194141,
+        "word": "出现这些症状当心病毒性心肌炎",
+        "onboard_time": 1671966092,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193349,
+        "num": 193349,
+        "word": "新冠疫情冲击波抵达三四线城市",
+        "onboard_time": 1671994813,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190476,
+        "num": 190476,
+        "word": "湖人 五后卫",
+        "onboard_time": 1672016248,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189304,
+        "num": 189304,
+        "word": "杭州警方通报女子送药被踹门",
+        "onboard_time": 1671978330,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185442,
+        "num": 185442,
+        "word": "转阴后为什么还是觉得累",
+        "onboard_time": 1671974972,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182307,
+        "num": 182307,
+        "word": "阳了几天后的发型",
+        "onboard_time": 1671983486,
+        "rank": 26,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 175120,
+        "num": 175120,
+        "word": "快乐再出发2豆瓣开分9.3",
+        "onboard_time": 1671981748,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171059,
+        "num": 171059,
+        "word": "李文卓不是真的李文卓",
+        "onboard_time": 1671976111,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 167277,
+        "num": 167277,
+        "word": "首波新冠感染高峰冲击下的医院",
+        "onboard_time": 1671976592,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163983,
+        "num": 163983,
+        "word": "北京部分医院发热门诊现状",
+        "onboard_time": 1672000213,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160200,
+        "num": 160200,
+        "word": "这就是女生努力的意义",
+        "onboard_time": 1671969391,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 156317,
+        "num": 156317,
+        "word": "告别2022",
+        "onboard_time": 1672017267,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 152346,
+        "num": 152346,
+        "word": "男子为节省抗原将试纸剪开分两次用",
+        "onboard_time": 1671977912,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146545,
+        "num": 146545,
+        "word": "给2023的自己捎句话",
+        "onboard_time": 1672017987,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146347,
+        "num": 146347,
+        "word": "2022有真正的爆款剧吗",
+        "onboard_time": 1671990076,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 145495,
+        "num": 145495,
+        "word": "这狗子是在美黑吧",
+        "onboard_time": 1672014265,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 143285,
+        "num": 143285,
+        "word": "孩子发热抽搐不要往嘴里塞东西",
+        "onboard_time": 1672015586,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138183,
+        "num": 138183,
+        "word": "王栎鑫红发",
+        "onboard_time": 1671977850,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 135443,
+        "num": 135443,
+        "word": "财阀家的小儿子大结局",
+        "onboard_time": 1671979232,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 124443,
+        "num": 124443,
+        "word": "你身边还有多少人没感染",
+        "onboard_time": 1671999911,
+        "rank": 40,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 123580,
+        "num": 123580,
+        "word": "导俊白干了",
+        "onboard_time": 1671983545,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 122439,
+        "num": 122439,
+        "word": "考研结束后才知道的道理",
+        "onboard_time": 1671967350,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 116697,
+        "num": 116697,
+        "word": "边伯贤更新",
+        "onboard_time": 1671981386,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109240,
+        "num": 109240,
+        "word": "WB遗憾止步四强",
+        "onboard_time": 1671980251,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 107436,
+        "num": 107436,
+        "word": "1个火星年有多长",
+        "onboard_time": 1672017748,
+        "rank": 45,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 105970,
+        "num": 105970,
+        "word": "詹姆斯38分",
+        "onboard_time": 1672010418,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104551,
+        "num": 104551,
+        "word": "康复期如何快速恢复健康",
+        "onboard_time": 1672015107,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102846,
+        "num": 102846,
+        "word": "王大陆蔡卓宜一起跳绳毫无默契",
+        "onboard_time": 1671978271,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102845,
+        "num": 102845,
+        "word": "塔图姆隔扣字母哥",
+        "onboard_time": 1672015168,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#建设农业强国要抓好的头等大事#"
+    }
+  }
+}
