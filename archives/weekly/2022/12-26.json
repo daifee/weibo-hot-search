@@ -1,6 +1,6 @@
 {
   "startTime": 1671985442345,
-  "endTime": 1672072880050,
+  "endTime": 1672074942390,
   "band_list": [
     {
       "raw_hot": 8035343,
@@ -731,6 +731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 524509,
+      "num": 524509,
+      "word": "有序恢复中国公民出境旅游",
+      "onboard_time": 1672070789,
+      "rank": 19,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 523819,
       "num": 523819,
       "word": "刘亦菲逛街随拍",
@@ -841,14 +849,6 @@
       "onboard_time": 1672031789,
       "rank": 12,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 463131,
-      "num": 463131,
-      "word": "有序恢复中国公民出境旅游",
-      "onboard_time": 1672070789,
-      "rank": 19,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 461778,
@@ -2555,6 +2555,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 130046,
+      "num": 92424,
+      "word": "职场中哪方面能力最重要",
+      "onboard_time": 1672073244,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 129743,
       "num": 129743,
       "word": "咸鱼干杯",
@@ -2608,6 +2616,14 @@
       "word": "药店回应市民排队免费领药被举报",
       "onboard_time": 1671988400,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 120126,
+      "num": 120126,
+      "word": "120闯红灯撞车后被指见死不救",
+      "onboard_time": 1672071565,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -2681,14 +2697,6 @@
       "onboard_time": 1672049912,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 107698,
-      "num": 107698,
-      "word": "120闯红灯撞车后被指见死不救",
-      "onboard_time": 1672071565,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 107436,
@@ -2787,6 +2795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 96682,
+      "num": 96682,
+      "word": "没想到感染毒株也能社死",
+      "onboard_time": 1672072467,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 91246,
       "num": 1750440,
       "word": "关于儿童退烧药10个热点问答",
@@ -2827,20 +2843,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 78594,
-      "num": 78594,
-      "word": "没想到感染毒株也能社死",
-      "onboard_time": 1672072467,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 77618,
       "num": 77618,
       "word": "高铁列车化身钢铁穿山甲",
       "onboard_time": 1672025549,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 77510,
+      "num": 77510,
+      "word": "崔然竣歌谣大战直拍",
+      "onboard_time": 1672073902,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 76933,
@@ -2915,6 +2931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 59955,
+      "num": 59955,
+      "word": "苹果iPhone15或复活mini产品线",
+      "onboard_time": 1672074380,
+      "rank": 47,
+      "category": "科技"
+    },
+    {
       "raw_hot": 54648,
       "num": 54648,
       "word": "梦岚 公孙离",
@@ -2929,6 +2953,14 @@
       "onboard_time": 1671991514,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 51734,
+      "num": 51734,
+      "word": "你看过最难释怀的烂剧",
+      "onboard_time": 1672074319,
+      "rank": 49,
+      "category": "影视,情感"
     },
     {
       "raw_hot": 40100,

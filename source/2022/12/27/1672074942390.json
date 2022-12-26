@@ -1,0 +1,410 @@
+{
+  "runTime": 1672074942390,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1602505,
+        "num": 1602505,
+        "word": "新冠肺炎更名为新冠感染",
+        "onboard_time": 1672067493,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1470911,
+        "num": 1470911,
+        "word": "章泽天发朋友圈介绍如何购买辉瑞新冠药",
+        "onboard_time": 1672068813,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70691,
+        "num": 1138034,
+        "word": "感染者出现哪些症状应及时就诊",
+        "onboard_time": 1672062693,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 917777,
+        "num": 917777,
+        "word": "xbb",
+        "onboard_time": 1672057475,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 735864,
+        "num": 735864,
+        "word": "取消入境后全员核酸检测和集中隔离",
+        "onboard_time": 1672068215,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 524509,
+        "num": 524509,
+        "word": "有序恢复中国公民出境旅游",
+        "onboard_time": 1672070789,
+        "rank": 5,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 479975,
+        "num": 479975,
+        "word": "谷爱凌说自己不知道的事情请不要说了",
+        "onboard_time": 1672065277,
+        "rank": 6,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 455025,
+        "num": 455025,
+        "word": "大二女生吃药一年得知被误诊艾滋病",
+        "onboard_time": 1672067433,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 388785,
+        "num": 388785,
+        "word": "专家回应奥密克戎是否会导致白肺现象",
+        "onboard_time": 1672059454,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298523,
+        "num": 298523,
+        "word": "妈妈偷订外卖忘记孩子识字被发现",
+        "onboard_time": 1672068756,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265953,
+        "num": 265953,
+        "word": "葛优母亲施文心去世",
+        "onboard_time": 1672065394,
+        "rank": 10,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 256864,
+        "num": 256864,
+        "word": "京东健康辉瑞新冠药已断货",
+        "onboard_time": 1672069234,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230528,
+        "num": 230528,
+        "word": "25岁老总挪用公款打赏女主播50万",
+        "onboard_time": 1672069054,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175372,
+        "num": 175372,
+        "word": "咳嗽出现这些症状要警惕肺炎",
+        "onboard_time": 1672061017,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203793,
+        "num": 174812,
+        "word": "刘强东痛批京东中高层拿PPT欺骗自己",
+        "onboard_time": 1672046910,
+        "rank": 14,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 172010,
+        "num": 172010,
+        "word": "王重江死了",
+        "onboard_time": 1672060176,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 167422,
+        "num": 167422,
+        "word": "满足四个标准才算新冠痊愈",
+        "onboard_time": 1672054712,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150325,
+        "num": 150325,
+        "word": "阳后有必要拍肺部CT吗",
+        "onboard_time": 1672046793,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132528,
+        "num": 132528,
+        "word": "转阴多久没有传染性",
+        "onboard_time": 1672055072,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123332,
+        "num": 123332,
+        "word": "国家卫健委公告",
+        "onboard_time": 1672069174,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120126,
+        "num": 120126,
+        "word": "120闯红灯撞车后被指见死不救",
+        "onboard_time": 1672071565,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118983,
+        "num": 118983,
+        "word": "iPhoneXR掉地后冒烟炸开",
+        "onboard_time": 1672067314,
+        "rank": 21,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 117978,
+        "num": 117978,
+        "word": "骚白",
+        "onboard_time": 1672063237,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 116538,
+        "num": 116538,
+        "word": "乙类乙管后有哪些应对措施",
+        "onboard_time": 1672069771,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114518,
+        "num": 114518,
+        "word": "姜大声离开YG娱乐",
+        "onboard_time": 1672051112,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106327,
+        "num": 106327,
+        "word": "刘亦菲逛街随拍",
+        "onboard_time": 1672067014,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104551,
+        "num": 104551,
+        "word": "李宏毅少年歌行好看吗",
+        "onboard_time": 1672070789,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 96682,
+        "num": 96682,
+        "word": "没想到感染毒株也能社死",
+        "onboard_time": 1672072467,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93727,
+        "num": 93727,
+        "word": "廖穗芳的两个孩子都患有精神病",
+        "onboard_time": 1672071326,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 92936,
+        "num": 92936,
+        "word": "乔治娜圣诞礼物送C罗劳斯莱斯",
+        "onboard_time": 1672058373,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130046,
+        "num": 92424,
+        "word": "职场中哪方面能力最重要",
+        "onboard_time": 1672073244,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90658,
+        "num": 90658,
+        "word": "杨幂维密新年写真",
+        "onboard_time": 1672055852,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 87819,
+        "num": 87819,
+        "word": "王凯 演技",
+        "onboard_time": 1672060476,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 85423,
+        "num": 85423,
+        "word": "金菊花国产烂片颁奖典礼",
+        "onboard_time": 1672057712,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 84287,
+        "num": 84287,
+        "word": "宁夏14岁初中生失踪超1个月",
+        "onboard_time": 1672062214,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83038,
+        "num": 83038,
+        "word": "回来的女儿猴脸男是小卖部老板",
+        "onboard_time": 1672065753,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 81653,
+        "num": 81653,
+        "word": "心肌炎症状有哪些",
+        "onboard_time": 1672065875,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80825,
+        "num": 80825,
+        "word": "EDG 上野",
+        "onboard_time": 1672055791,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 79200,
+        "num": 79200,
+        "word": "广西一老人烧甘蔗叶时不幸身亡",
+        "onboard_time": 1672053932,
+        "rank": 38,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 77581,
+        "num": 77581,
+        "word": "男子开车与救护车碰撞后落水溺亡",
+        "onboard_time": 1672068451,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77510,
+        "num": 77510,
+        "word": "崔然竣歌谣大战直拍",
+        "onboard_time": 1672073902,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 74355,
+        "num": 74355,
+        "word": "回来的女儿",
+        "onboard_time": 1672056272,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 73286,
+        "num": 73286,
+        "word": "陈飞宇上线换头像",
+        "onboard_time": 1672067676,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 68050,
+        "num": 68050,
+        "word": "解除对新冠感染的甲类传染病防控措施",
+        "onboard_time": 1672067736,
+        "rank": 43,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 67423,
+        "num": 67423,
+        "word": "新冠病毒感染调整为乙类乙管",
+        "onboard_time": 1672067854,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66477,
+        "num": 66477,
+        "word": "这算是跨年失败了",
+        "onboard_time": 1672066356,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 63698,
+        "num": 63698,
+        "word": "阳了后医生不建议做的10件事",
+        "onboard_time": 1672061077,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59955,
+        "num": 59955,
+        "word": "苹果iPhone15或复活mini产品线",
+        "onboard_time": 1672074380,
+        "rank": 47,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 55286,
+        "num": 55286,
+        "word": "上海一车主5次倒车撞击后车",
+        "onboard_time": 1672065695,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51734,
+        "num": 51734,
+        "word": "你看过最难释怀的烂剧",
+        "onboard_time": 1672074319,
+        "rank": 49,
+        "category": "影视,情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#22张海报回顾2022#"
+    }
+  }
+}

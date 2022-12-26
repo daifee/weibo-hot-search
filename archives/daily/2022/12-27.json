@@ -1,6 +1,6 @@
 {
   "startTime": 1672071862986,
-  "endTime": 1672072880050,
+  "endTime": 1672074942390,
   "band_list": [
     {
       "raw_hot": 6477642,
@@ -75,8 +75,8 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 463131,
-      "num": 463131,
+      "raw_hot": 524509,
+      "num": 524509,
       "word": "有序恢复中国公民出境旅游",
       "onboard_time": 1672070789,
       "rank": 19,
@@ -315,6 +315,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 130046,
+      "num": 92424,
+      "word": "职场中哪方面能力最重要",
+      "onboard_time": 1672073244,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127734,
       "num": 127734,
       "word": "宁夏14岁初中生失踪超1个月",
@@ -363,6 +371,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 120126,
+      "num": 120126,
+      "word": "120闯红灯撞车后被指见死不救",
+      "onboard_time": 1672071565,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 113492,
       "num": 113492,
       "word": "EDG 上野",
@@ -376,14 +392,6 @@
       "word": "男子开车与救护车碰撞后落水溺亡",
       "onboard_time": 1672068451,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 107698,
-      "num": 107698,
-      "word": "120闯红灯撞车后被指见死不救",
-      "onboard_time": 1672071565,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -403,12 +411,36 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 78594,
-      "num": 78594,
+      "raw_hot": 96682,
+      "num": 96682,
       "word": "没想到感染毒株也能社死",
       "onboard_time": 1672072467,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 77510,
+      "num": 77510,
+      "word": "崔然竣歌谣大战直拍",
+      "onboard_time": 1672073902,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 59955,
+      "num": 59955,
+      "word": "苹果iPhone15或复活mini产品线",
+      "onboard_time": 1672074380,
+      "rank": 47,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 51734,
+      "num": 51734,
+      "word": "你看过最难释怀的烂剧",
+      "onboard_time": 1672074319,
+      "rank": 49,
+      "category": "影视,情感"
     }
   ],
   "hotgov_list": [
