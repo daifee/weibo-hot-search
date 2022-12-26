@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/12/01 00:28:49 ~ 2022/12/26 12:37:09
+本榜单时间：2022/12/01 00:28:49 ~ 2022/12/26 13:16:52
 </p>
 </blockquote>
 <p>
@@ -2963,6 +2963,12 @@ GQ 盛典（热度：1391112）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%96%87%E5%AE%8F%E7%A7%B0%E6%9C%AA%E6%9D%A5%E5%AF%B9%E6%96%B0%E5%86%A0%E6%8E%A7%E5%88%B6%E6%98%AF%E9%99%8D%E4%BD%8E%E8%87%B4%E7%97%85%E7%8E%87%23" target="weibo">
 张文宏称未来对新冠控制是降低致病率（热度：1363517）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%98%B4%E6%80%A7%E5%A5%B3%E5%AD%90%E5%8E%BB%E5%89%AA%E5%8F%91%E8%A2%AB%E7%90%86%E5%8F%91%E5%B8%88%E5%8A%9D%E8%B5%B0%23" target="weibo">
+阴性女子去剪发被理发师劝走（热度：1362632）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ iG公告（热度：902975）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%A0%B8%E9%85%B8%E5%8F%96%E6%B6%88%E5%90%8E%E6%84%9F%E6%9F%93%E4%BA%BA%E6%95%B0%E5%A6%82%E4%BD%95%E9%A2%84%E4%BC%B0%23" target="weibo">
 大规模核酸取消后感染人数如何预估（热度：871610）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E6%8A%97%E6%96%B0%E5%86%A0%E4%B8%AD%E8%8D%AF%E6%96%B9%E7%81%AB%E4%BA%86%23" target="weibo">
-杭州抗新冠中药方火了（热度：871004）
 </a>
 </li>
 
