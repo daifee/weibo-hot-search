@@ -1,6 +1,6 @@
 {
   "startTime": 1671985442345,
-  "endTime": 1672078886558,
+  "endTime": 1672079738977,
   "band_list": [
     {
       "raw_hot": 8035343,
@@ -2939,6 +2939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 55595,
+      "num": 55595,
+      "word": "孟子义在线追星张嘉佳",
+      "onboard_time": 1672076416,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 54648,
       "num": 54648,
       "word": "梦岚 公孙离",
@@ -2979,14 +2987,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 40853,
-      "num": 40853,
-      "word": "孟子义在线追星张嘉佳",
-      "onboard_time": 1672076416,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 40100,
       "num": 40100,
       "word": "DOTA2互联网杯",
@@ -2995,8 +2995,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 32055,
-      "num": 32055,
+      "raw_hot": 39192,
+      "num": 39192,
       "word": "中国海军驱离海盗真实影像",
       "onboard_time": 1672076777,
       "rank": 45,

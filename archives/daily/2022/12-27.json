@@ -1,6 +1,6 @@
 {
   "startTime": 1672071862986,
-  "endTime": 1672078886558,
+  "endTime": 1672079738977,
   "band_list": [
     {
       "raw_hot": 6477642,
@@ -435,6 +435,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 55595,
+      "num": 55595,
+      "word": "孟子义在线追星张嘉佳",
+      "onboard_time": 1672076416,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 51734,
       "num": 51734,
       "word": "你看过最难释怀的烂剧",
@@ -459,12 +467,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 40853,
-      "num": 40853,
-      "word": "孟子义在线追星张嘉佳",
-      "onboard_time": 1672076416,
-      "rank": 36,
-      "category": "综艺"
+      "raw_hot": 39192,
+      "num": 39192,
+      "word": "中国海军驱离海盗真实影像",
+      "onboard_time": 1672076777,
+      "rank": 45,
+      "category": "军事"
     },
     {
       "raw_hot": 32085,
@@ -473,14 +481,6 @@
       "onboard_time": 1672056094,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 32055,
-      "num": 32055,
-      "word": "中国海军驱离海盗真实影像",
-      "onboard_time": 1672076777,
-      "rank": 45,
-      "category": "军事"
     }
   ],
   "hotgov_list": [
