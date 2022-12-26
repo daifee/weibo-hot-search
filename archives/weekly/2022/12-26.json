@@ -1,10 +1,10 @@
 {
   "startTime": 1671985442345,
-  "endTime": 1672036652046,
+  "endTime": 1672038981605,
   "band_list": [
     {
-      "raw_hot": 1726965,
-      "num": 1726965,
+      "raw_hot": 2387565,
+      "num": 2387565,
       "word": "谷爱凌斯坦福所有课程全部满分",
       "onboard_time": 1672034430,
       "rank": 1,
@@ -48,6 +48,14 @@
       "word": "专家称转阴后身体约2到3周才能恢复",
       "onboard_time": 1672018587,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1296126,
+      "num": 1296126,
+      "word": "郑州一商场一天涌进十万人",
+      "onboard_time": 1672035690,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -129,6 +137,14 @@
       "onboard_time": 1672029033,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 836313,
+      "num": 836313,
+      "word": "杨紫春晚联排公主头造型路透",
+      "onboard_time": 1672037429,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 835254,
@@ -307,6 +323,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 499692,
+      "num": 412884,
+      "word": "主人高烧嫌狗子太吵捏嘴手动闭麦",
+      "onboard_time": 1672036831,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 480025,
+      "num": 408703,
+      "word": "保洁阿姨用唾沫反复擦电梯按键",
+      "onboard_time": 1672036471,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 472353,
       "num": 472353,
       "word": "男子为节省抗原将试纸剪开分两次用",
@@ -355,12 +387,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 433691,
+      "num": 402141,
+      "word": "北京32岁女子一年相亲上百人",
+      "onboard_time": 1672037491,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 432393,
       "num": 432393,
       "word": "女孩用18年考上帮扶人学校研究生",
       "onboard_time": 1672022308,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 429264,
+      "num": 205783,
+      "word": "运动员王一博去世",
+      "onboard_time": 1672038390,
+      "rank": 31,
+      "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 424236,
+      "num": 424236,
+      "word": "Rookie给小钰送牌匾",
+      "onboard_time": 1672036168,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 423855,
@@ -377,14 +433,6 @@
       "onboard_time": 1672032511,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 411821,
-      "num": 411821,
-      "word": "郑州一商场一天涌进十万人",
-      "onboard_time": 1672035690,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 406034,
@@ -441,6 +489,14 @@
       "onboard_time": 1672021949,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 365973,
+      "num": 276568,
+      "word": "无尽夏开箱",
+      "onboard_time": 1672036049,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 359707,
@@ -571,6 +627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 300859,
+      "num": 272838,
+      "word": "严浩翔尾号6208歌名意义",
+      "onboard_time": 1672038631,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 300599,
       "num": 300599,
       "word": "怪不得猫不喜欢和狗玩",
@@ -619,6 +683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 278469,
+      "num": 278469,
+      "word": "专家呼吁尽快披露重症患者数据",
+      "onboard_time": 1672029151,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 274496,
       "num": 274496,
       "word": "北京多家社区卫生中心收到辉瑞新冠药培训通知",
@@ -659,20 +731,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 253201,
+      "num": 253201,
+      "word": "阳了一直咳会不会得肺炎",
+      "onboard_time": 1672037847,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 253127,
       "num": 192795,
       "word": "财阀家的小儿子",
       "onboard_time": 1671976653,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 246941,
-      "num": 246941,
-      "word": "无尽夏开箱",
-      "onboard_time": 1672036049,
-      "rank": 24,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 241827,
@@ -691,12 +763,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 231172,
-      "num": 231172,
-      "word": "专家呼吁尽快披露重症患者数据",
-      "onboard_time": 1672029151,
-      "rank": 44,
-      "category": "社会新闻"
+      "raw_hot": 229638,
+      "num": 196004,
+      "word": "丁程鑫表演课演少年周楠",
+      "onboard_time": 1672037250,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 226941,
@@ -705,6 +777,14 @@
       "onboard_time": 1672033470,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 225952,
+      "num": 193828,
+      "word": "76岁老人感染新冠一周后去世",
+      "onboard_time": 1672038631,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 225555,
@@ -779,6 +859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 214315,
+      "num": 154470,
+      "word": "2023年央视春晚第一次大联排",
+      "onboard_time": 1672038331,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 212698,
       "num": 212698,
       "word": "转阴后为什么还是觉得累",
@@ -793,6 +881,14 @@
       "onboard_time": 1672027951,
       "rank": 37,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 203320,
+      "num": 154267,
+      "word": "贺峻霖学播音的原因",
+      "onboard_time": 1672037730,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 202326,
@@ -1027,6 +1123,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 159086,
+      "num": 159086,
+      "word": "蛋仔派对",
+      "onboard_time": 1672038631,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 158736,
       "num": 158736,
       "word": "这狗子是在美黑吧",
@@ -1075,6 +1179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 153468,
+      "num": 153468,
+      "word": "维C饮料刺柠吉多地热卖",
+      "onboard_time": 1672037607,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 153400,
       "num": 153400,
       "word": "梅西晒安东内拉跳舞视频",
@@ -1089,14 +1201,6 @@
       "onboard_time": 1671990076,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 153106,
-      "num": 153106,
-      "word": "Rookie给小钰送牌匾",
-      "onboard_time": 1672036168,
-      "rank": 42,
-      "category": "游戏"
     },
     {
       "raw_hot": 149966,
@@ -1219,14 +1323,6 @@
       "category": "科技,情感"
     },
     {
-      "raw_hot": 117887,
-      "num": 117887,
-      "word": "保洁阿姨用唾沫反复擦电梯按键",
-      "onboard_time": 1672036471,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 116096,
       "num": 116096,
       "word": "灰熊vs勇士",
@@ -1249,6 +1345,14 @@
       "onboard_time": 1672005671,
       "rank": 35,
       "category": "科技,社会议题"
+    },
+    {
+      "raw_hot": 110457,
+      "num": 110457,
+      "word": "女子雪天投喂窗台上数十只麻雀",
+      "onboard_time": 1672038871,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 108940,
