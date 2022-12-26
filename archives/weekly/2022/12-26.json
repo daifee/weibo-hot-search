@@ -1,10 +1,18 @@
 {
   "startTime": 1671985442345,
-  "endTime": 1672035797085,
+  "endTime": 1672036652046,
   "band_list": [
     {
-      "raw_hot": 1620529,
-      "num": 1620529,
+      "raw_hot": 1726965,
+      "num": 1726965,
+      "word": "谷爱凌斯坦福所有课程全部满分",
+      "onboard_time": 1672034430,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1621664,
+      "num": 1621664,
       "word": "科华生物创始人唐伟国感染新冠后逝世",
       "onboard_time": 1672031731,
       "rank": 48,
@@ -59,14 +67,6 @@
       "category": "艺人,社会新闻"
     },
     {
-      "raw_hot": 1204764,
-      "num": 1204764,
-      "word": "谷爱凌斯坦福所有课程全部满分",
-      "onboard_time": 1672034430,
-      "rank": 1,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1176073,
       "num": 1176073,
       "word": "毛泽东多个重要场合讲话原声",
@@ -91,20 +91,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1035787,
+      "num": 1035787,
+      "word": "严定宪去世",
+      "onboard_time": 1672032031,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 997140,
       "num": 997140,
       "word": "财阀家的小儿子 烂尾",
       "onboard_time": 1671979472,
       "rank": 1,
       "category": "影视"
-    },
-    {
-      "raw_hot": 984907,
-      "num": 984907,
-      "word": "严定宪去世",
-      "onboard_time": 1672032031,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 888016,
@@ -137,6 +137,14 @@
       "onboard_time": 1671982349,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 799051,
+      "num": 799051,
+      "word": "俄将尽力避免第三次世界大战",
+      "onboard_time": 1672033291,
+      "rank": 10,
+      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 717835,
@@ -227,14 +235,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 623093,
-      "num": 500286,
-      "word": "俄将尽力避免第三次世界大战",
-      "onboard_time": 1672033291,
-      "rank": 10,
-      "category": "国外要闻,军事"
-    },
-    {
       "raw_hot": 599580,
       "num": 599580,
       "word": "父亲深夜摆摊欲卖25万份菠萝蜜救女",
@@ -315,6 +315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 470575,
+      "num": 470575,
+      "word": "抗原啥时候测才准",
+      "onboard_time": 1672032270,
+      "rank": 42,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 465539,
       "num": 465539,
       "word": "姐姐打翻汤锅5岁妹妹双腿被烫伤",
@@ -355,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 423855,
+      "num": 423855,
+      "word": "春晚",
+      "onboard_time": 1672034970,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 414127,
       "num": 414127,
       "word": "太阳转入YG旗下厂牌",
@@ -363,20 +379,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 411821,
+      "num": 411821,
+      "word": "郑州一商场一天涌进十万人",
+      "onboard_time": 1672035690,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 406034,
       "num": 406034,
       "word": "薛之谦官宣加盟江苏卫视跨年",
       "onboard_time": 1672027890,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 399533,
-      "num": 399533,
-      "word": "抗原啥时候测才准",
-      "onboard_time": 1672032270,
-      "rank": 42,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 397946,
@@ -425,14 +441,6 @@
       "onboard_time": 1672021949,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 361911,
-      "num": 361911,
-      "word": "春晚",
-      "onboard_time": 1672034970,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 359707,
@@ -563,6 +571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 300599,
+      "num": 300599,
+      "word": "怪不得猫不喜欢和狗玩",
+      "onboard_time": 1672033711,
+      "rank": 19,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 300071,
       "num": 300071,
       "word": "杭州警方通报女子送药被踹门",
@@ -603,12 +619,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 276866,
-      "num": 276866,
-      "word": "怪不得猫不喜欢和狗玩",
-      "onboard_time": 1672033711,
-      "rank": 19,
-      "category": "幽默,情感"
+      "raw_hot": 274496,
+      "num": 274496,
+      "word": "北京多家社区卫生中心收到辉瑞新冠药培训通知",
+      "onboard_time": 1672032691,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 267969,
@@ -635,14 +651,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 255300,
-      "num": 255300,
-      "word": "北京多家社区卫生中心收到辉瑞新冠药培训通知",
-      "onboard_time": 1672032691,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 254538,
       "num": 222956,
       "word": "五月天邓紫棋合唱为你写下这首情歌",
@@ -659,6 +667,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 246941,
+      "num": 246941,
+      "word": "无尽夏开箱",
+      "onboard_time": 1672036049,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 241827,
       "num": 241827,
       "word": "阳了几天后的发型",
@@ -671,6 +687,14 @@
       "num": 235792,
       "word": "村医每晚在诊所门上贴满退烧药",
       "onboard_time": 1672031370,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 231172,
+      "num": 231172,
+      "word": "专家呼吁尽快披露重症患者数据",
+      "onboard_time": 1672029151,
       "rank": 44,
       "category": "社会新闻"
     },
@@ -699,12 +723,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 223059,
-      "num": 223059,
-      "word": "专家呼吁尽快披露重症患者数据",
-      "onboard_time": 1672029151,
-      "rank": 44,
-      "category": "社会新闻"
+      "raw_hot": 224210,
+      "num": 224210,
+      "word": "Mystic回归微博",
+      "onboard_time": 1672034008,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 221421,
@@ -739,12 +763,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 217969,
-      "num": 217969,
-      "word": "Mystic回归微博",
-      "onboard_time": 1672034008,
-      "rank": 31,
-      "category": "游戏"
+      "raw_hot": 218654,
+      "num": 209530,
+      "word": "武庚纪女主是邢菲",
+      "onboard_time": 1672034550,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 217502,
@@ -761,14 +785,6 @@
       "onboard_time": 1671974972,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 209530,
-      "num": 209530,
-      "word": "武庚纪女主是邢菲",
-      "onboard_time": 1672034550,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 203524,
@@ -947,6 +963,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 166860,
+      "num": 156059,
+      "word": "蔡徐坤hugme2022年度十大歌曲",
+      "onboard_time": 1672036588,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 164598,
       "num": 164598,
       "word": "克洛普说梅西是足坛GOAT",
@@ -961,6 +985,14 @@
       "onboard_time": 1672000213,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 162348,
+      "num": 162348,
+      "word": "东莞全域放开住房限购",
+      "onboard_time": 1672034970,
+      "rank": 44,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 160745,
@@ -1059,6 +1091,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 153106,
+      "num": 153106,
+      "word": "Rookie给小钰送牌匾",
+      "onboard_time": 1672036168,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 149966,
       "num": 149966,
       "word": "欧阳娜娜MV概念海报",
@@ -1073,14 +1113,6 @@
       "onboard_time": 1671980251,
       "rank": 28,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 148651,
-      "num": 148651,
-      "word": "东莞全域放开住房限购",
-      "onboard_time": 1672034970,
-      "rank": 44,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 146545,
@@ -1171,14 +1203,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 124137,
-      "num": 124137,
-      "word": "郑州一商场一天涌进十万人",
-      "onboard_time": 1672035690,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 120671,
       "num": 120671,
       "word": "药店回应市民排队免费领药被举报",
@@ -1195,12 +1219,28 @@
       "category": "科技,情感"
     },
     {
+      "raw_hot": 117887,
+      "num": 117887,
+      "word": "保洁阿姨用唾沫反复擦电梯按键",
+      "onboard_time": 1672036471,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 116096,
       "num": 116096,
       "word": "灰熊vs勇士",
       "onboard_time": 1672020028,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 111854,
+      "num": 111854,
+      "word": "苹果A系列芯片性能或被高通骁龙超越",
+      "onboard_time": 1672036588,
+      "rank": 49,
+      "category": "科技"
     },
     {
       "raw_hot": 111011,
