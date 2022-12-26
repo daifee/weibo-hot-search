@@ -1,6 +1,6 @@
 {
   "startTime": 1671985442345,
-  "endTime": 1672043763492,
+  "endTime": 1672046258975,
   "band_list": [
     {
       "raw_hot": 3620426,
@@ -131,6 +131,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 938582,
+      "num": 938582,
+      "word": "男子进店乞讨发现店员全是阳性",
+      "onboard_time": 1672041513,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 888016,
       "num": 888016,
       "word": "药房连花清瘟进价18卖118被罚30万",
@@ -195,6 +203,14 @@
       "category": "国外要闻,军事"
     },
     {
+      "raw_hot": 772633,
+      "num": 772633,
+      "word": "知网",
+      "onboard_time": 1672043432,
+      "rank": 23,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 766008,
       "num": 766008,
       "word": "北京32岁女子一年相亲上百人",
@@ -225,14 +241,6 @@
       "onboard_time": 1671980905,
       "rank": 4,
       "category": "影视"
-    },
-    {
-      "raw_hot": 696640,
-      "num": 542119,
-      "word": "男子进店乞讨发现店员全是阳性",
-      "onboard_time": 1672041513,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 681856,
@@ -281,6 +289,14 @@
       "onboard_time": 1672028671,
       "rank": 6,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 651738,
+      "num": 651738,
+      "word": "蒋龙张弛2023央视春晚首次联排",
+      "onboard_time": 1672044031,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 638394,
@@ -411,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 507844,
+      "num": 471805,
+      "word": "肖战2023新年祝福视频",
+      "onboard_time": 1672044873,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 505044,
       "num": 416782,
       "word": "蒋欣心月葵登场",
@@ -457,6 +481,14 @@
       "onboard_time": 1671983966,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 465292,
+      "num": 465292,
+      "word": "知网涉嫌垄断被罚8760万",
+      "onboard_time": 1672042774,
+      "rank": 42,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 463159,
@@ -683,20 +715,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 317935,
+      "num": 301018,
+      "word": "周深2023央视春晚首次联排",
+      "onboard_time": 1672044153,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 317506,
       "num": 317506,
       "word": "女孩滑雪场坐缆车捡手机时被挂半空",
       "onboard_time": 1672020208,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 316633,
-      "num": 316633,
-      "word": "知网",
-      "onboard_time": 1672043432,
-      "rank": 23,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 315950,
@@ -737,6 +769,14 @@
       "onboard_time": 1672039771,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 302022,
+      "num": 302022,
+      "word": "知网回应被罚",
+      "onboard_time": 1672045294,
+      "rank": 19,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 300599,
@@ -867,6 +907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 243094,
+      "num": 216321,
+      "word": "共和国5天痛失13位院士",
+      "onboard_time": 1672045531,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 241827,
       "num": 241827,
       "word": "阳了几天后的发型",
@@ -960,6 +1008,14 @@
       "word": "光明日报评退烧药拆零销售",
       "onboard_time": 1672030171,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 219339,
+      "num": 219339,
+      "word": "客厅起火2岁女童及时发现提醒家人",
+      "onboard_time": 1672042472,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -1075,14 +1131,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 194038,
-      "num": 194038,
-      "word": "知网涉嫌垄断被罚8760万",
-      "onboard_time": 1672042774,
-      "rank": 42,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 193835,
       "num": 193835,
       "word": "梦岚偷家",
@@ -1147,6 +1195,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 186831,
+      "num": 186831,
+      "word": "李文卓 双重人格",
+      "onboard_time": 1672045652,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 182714,
       "num": 182714,
       "word": "压力大真的会伤心",
@@ -1171,28 +1227,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 173816,
-      "num": 156586,
-      "word": "马嘉祺谈大学生活",
-      "onboard_time": 1672035750,
-      "rank": 41,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 173765,
-      "num": 173765,
+      "raw_hot": 176836,
+      "num": 176836,
       "word": "戈登 隔扣",
       "onboard_time": 1672043012,
       "rank": 40,
       "category": "体育"
     },
     {
-      "raw_hot": 172516,
-      "num": 172516,
-      "word": "客厅起火2岁女童及时发现提醒家人",
-      "onboard_time": 1672042472,
-      "rank": 39,
-      "category": "社会新闻"
+      "raw_hot": 174588,
+      "num": 174588,
+      "word": "王鹤棣说肖铎十分男人",
+      "onboard_time": 1672044031,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 173816,
+      "num": 156586,
+      "word": "马嘉祺谈大学生活",
+      "onboard_time": 1672035750,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 171505,
@@ -1216,6 +1272,14 @@
       "word": "李文卓不是真的李文卓",
       "onboard_time": 1671976111,
       "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 170660,
+      "num": 170660,
+      "word": "回来的女儿 上头",
+      "onboard_time": 1672044572,
+      "rank": 41,
       "category": "影视"
     },
     {
@@ -1257,6 +1321,14 @@
       "onboard_time": 1672034970,
       "rank": 44,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 160818,
+      "num": 160818,
+      "word": "杭州亚残运会宣传曲上线",
+      "onboard_time": 1672046015,
+      "rank": 42,
+      "category": "体育,音乐"
     },
     {
       "raw_hot": 160745,
@@ -1363,6 +1435,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 152502,
+      "num": 152502,
+      "word": "知网整改方案",
+      "onboard_time": 1672045834,
+      "rank": 44,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 149966,
       "num": 149966,
       "word": "欧阳娜娜MV概念海报",
@@ -1417,6 +1497,14 @@
       "onboard_time": 1672039293,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 142876,
+      "num": 142876,
+      "word": "男子想秀恩爱下一秒翻车了",
+      "onboard_time": 1672044153,
+      "rank": 46,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 141020,
