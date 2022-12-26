@@ -1,0 +1,410 @@
+{
+  "runTime": 1672042985970,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3620426,
+        "num": 3620426,
+        "word": "运动员王一博去世",
+        "onboard_time": 1672038390,
+        "rank": 0,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 1966025,
+        "num": 1966025,
+        "word": "谷爱凌斯坦福所有课程全部满分",
+        "onboard_time": 1672034430,
+        "rank": 1,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 79023,
+        "num": 892429,
+        "word": "康复期如何快速恢复健康",
+        "onboard_time": 1672015107,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 842779,
+        "num": 842779,
+        "word": "郑州一商场一天涌进十万人",
+        "onboard_time": 1672035690,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 821882,
+        "num": 821882,
+        "word": "2023年央视春晚第一次大联排",
+        "onboard_time": 1672038331,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 766008,
+        "num": 766008,
+        "word": "北京32岁女子一年相亲上百人",
+        "onboard_time": 1672037491,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 728075,
+        "num": 728075,
+        "word": "76岁老人感染新冠一周后去世",
+        "onboard_time": 1672038631,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 585144,
+        "num": 585144,
+        "word": "主人高烧嫌狗子太吵捏嘴手动闭麦",
+        "onboard_time": 1672036831,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1258695,
+        "num": 577245,
+        "word": "张真源英语考120多分找老师道歉",
+        "onboard_time": 1672039654,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 568636,
+        "num": 568636,
+        "word": "阳了一直咳会不会得肺炎",
+        "onboard_time": 1672037847,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 625950,
+        "num": 568338,
+        "word": "肖战李沁梦中的那片海下证",
+        "onboard_time": 1672040494,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 566948,
+        "num": 566948,
+        "word": "台军通报解放军71架战机抵近台湾",
+        "onboard_time": 1672039534,
+        "rank": 11,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 562997,
+        "num": 562997,
+        "word": "杨紫春晚联排公主头造型路透",
+        "onboard_time": 1672037429,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 537113,
+        "num": 537113,
+        "word": "节奏大师",
+        "onboard_time": 1672040311,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 126311,
+        "num": 535284,
+        "word": "维C饮料刺柠吉多地热卖",
+        "onboard_time": 1672041635,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 533722,
+        "num": 533722,
+        "word": "男子进店乞讨发现店员全是阳性",
+        "onboard_time": 1672041513,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 463070,
+        "num": 463070,
+        "word": "孙颖莎称自己的高光时刻还没到来",
+        "onboard_time": 1672040554,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 448282,
+        "num": 448282,
+        "word": "保洁阿姨用唾沫反复擦电梯按键",
+        "onboard_time": 1672036471,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 438948,
+        "num": 438948,
+        "word": "科华生物创始人唐伟国感染新冠后逝世",
+        "onboard_time": 1672031731,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 381820,
+        "num": 381820,
+        "word": "俄将尽力避免第三次世界大战",
+        "onboard_time": 1672033291,
+        "rank": 19,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 365356,
+        "num": 365356,
+        "word": "严定宪去世",
+        "onboard_time": 1672032031,
+        "rank": 20,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 358249,
+        "num": 358249,
+        "word": "知网滥用市场支配地位被罚",
+        "onboard_time": 1672042233,
+        "rank": 21,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 307593,
+        "num": 307593,
+        "word": "沈腾马丽2023央视春晚首次联排",
+        "onboard_time": 1672031191,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 306906,
+        "num": 306906,
+        "word": "男子地铁偷拍裙底陌生女孩大声呵止",
+        "onboard_time": 1672039534,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302798,
+        "num": 302798,
+        "word": "官方回应青岛莱西湖附近偶遇老虎",
+        "onboard_time": 1672039771,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299888,
+        "num": 299888,
+        "word": "阴性女子去剪发被理发师劝走",
+        "onboard_time": 1672027591,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282180,
+        "num": 282180,
+        "word": "抗原啥时候测才准",
+        "onboard_time": 1672032270,
+        "rank": 26,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 267465,
+        "num": 267465,
+        "word": "蛋仔派对",
+        "onboard_time": 1672038631,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 256833,
+        "num": 256833,
+        "word": "王一博正式官宣东方卫视跨年",
+        "onboard_time": 1672024049,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245113,
+        "num": 245113,
+        "word": "专家呼吁尽快披露重症患者数据",
+        "onboard_time": 1672029151,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239202,
+        "num": 239202,
+        "word": "老板请困难老人吃粉被质疑不送钱",
+        "onboard_time": 1672039591,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236553,
+        "num": 236553,
+        "word": "Rookie给小钰送牌匾",
+        "onboard_time": 1672036168,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 232327,
+        "num": 232327,
+        "word": "潘粤明方道歉",
+        "onboard_time": 1672032931,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224059,
+        "num": 224059,
+        "word": "许嵩2023央视春晚首次联排",
+        "onboard_time": 1672039771,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206089,
+        "num": 206089,
+        "word": "8岁女孩吃布洛芬过敏肿成香肠嘴",
+        "onboard_time": 1672028008,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201771,
+        "num": 201771,
+        "word": "严浩翔尾号6208歌名意义",
+        "onboard_time": 1672038631,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 198343,
+        "num": 198343,
+        "word": "马嘉祺说最快乐的事情之一就是弹钢琴",
+        "onboard_time": 1672042112,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 189932,
+        "num": 189932,
+        "word": "张紫宁说不想被骂就不要犯错",
+        "onboard_time": 1672041513,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184332,
+        "num": 184332,
+        "word": "大部分心肌炎患者通过休息能痊愈",
+        "onboard_time": 1672019966,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169187,
+        "num": 169187,
+        "word": "客厅起火2岁女童及时发现提醒家人",
+        "onboard_time": 1672042472,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176620,
+        "num": 168527,
+        "word": "王凯谭松韵新剧停职停飞处分",
+        "onboard_time": 1672029033,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 165472,
+        "num": 165472,
+        "word": "无尽夏开箱",
+        "onboard_time": 1672036049,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 160439,
+        "num": 160439,
+        "word": "知网涉嫌垄断被罚8760万",
+        "onboard_time": 1672042774,
+        "rank": 42,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 149750,
+        "num": 149750,
+        "word": "这些拥抱温暖了2022",
+        "onboard_time": 1672042472,
+        "rank": 43,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 149557,
+        "num": 149557,
+        "word": "Epic道歉",
+        "onboard_time": 1672027412,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 147698,
+        "num": 147698,
+        "word": "专家称转阴后身体约2到3周才能恢复",
+        "onboard_time": 1672018587,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143597,
+        "num": 143597,
+        "word": "男子哄4岁女儿签20年不交男友合约",
+        "onboard_time": 1672027167,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139720,
+        "num": 139720,
+        "word": "父亲深夜摆摊欲卖25万份菠萝蜜救女",
+        "onboard_time": 1672031312,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128679,
+        "num": 128679,
+        "word": "谷爱凌回顾2022",
+        "onboard_time": 1672034850,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128154,
+        "num": 128154,
+        "word": "大妈买早餐突然后仰小伙一把扶住",
+        "onboard_time": 1672031010,
+        "rank": 49,
+        "category": "社会正能量"
+      }
+    ],
+    "hotgov": {
+      "word": "#新冠感染情况问卷调查#"
+    }
+  }
+}
