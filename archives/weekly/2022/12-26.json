@@ -1,6 +1,6 @@
 {
   "startTime": 1671985442345,
-  "endTime": 1672093985130,
+  "endTime": 1672096667346,
   "band_list": [
     {
       "raw_hot": 8035343,
@@ -1851,6 +1851,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 197715,
+      "num": 187651,
+      "word": "120闯红灯撞车后被指见死不救",
+      "onboard_time": 1672071565,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 197706,
       "num": 197706,
       "word": "武汉街头的车方向盘会自己转",
@@ -1928,6 +1936,14 @@
       "word": "新冠疫情冲击波抵达三四线城市",
       "onboard_time": 1671994813,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 190685,
+      "num": 190685,
+      "word": "阳过还用接种新冠第四针吗",
+      "onboard_time": 1672091592,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -2339,6 +2355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 150048,
+      "num": 150048,
+      "word": "阳了后为什么会眼睛痛",
+      "onboard_time": 1672086553,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 149966,
       "num": 149966,
       "word": "欧阳娜娜MV概念海报",
@@ -2627,14 +2651,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 120126,
-      "num": 120126,
-      "word": "120闯红灯撞车后被指见死不救",
-      "onboard_time": 1672071565,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 119955,
       "num": 119955,
       "word": "一年一度微博表情大赛",
@@ -2851,12 +2867,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 81193,
-      "num": 81193,
-      "word": "阳了后为什么会眼睛痛",
-      "onboard_time": 1672086553,
-      "rank": 21,
-      "category": "社会新闻"
+      "raw_hot": 77874,
+      "num": 77874,
+      "word": "Giselle合作曲part只有3秒",
+      "onboard_time": 1672095918,
+      "rank": 29,
+      "category": "音乐"
     },
     {
       "raw_hot": 77618,
@@ -2963,12 +2979,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 52781,
-      "num": 52781,
-      "word": "阳过还用接种新冠第四针吗",
-      "onboard_time": 1672091592,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 54472,
+      "num": 54472,
+      "word": "顾客吐槽看阿凡达需30元购3D眼镜",
+      "onboard_time": 1672075698,
+      "rank": 45,
+      "category": "影视,社会新闻"
     },
     {
       "raw_hot": 52765,
@@ -2987,12 +3003,12 @@
       "category": "影视,情感"
     },
     {
-      "raw_hot": 51490,
-      "num": 51490,
-      "word": "顾客吐槽看阿凡达需30元购3D眼镜",
-      "onboard_time": 1672075698,
-      "rank": 45,
-      "category": "影视,社会新闻"
+      "raw_hot": 50609,
+      "num": 50609,
+      "word": "王凯谭松韵新剧首播收视率第一",
+      "onboard_time": 1672085292,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 47330,
@@ -3019,20 +3035,20 @@
       "category": "军事"
     },
     {
+      "raw_hot": 38036,
+      "num": 38036,
+      "word": "赵德馨教授回应知网被罚8760万",
+      "onboard_time": 1672095196,
+      "rank": 49,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 28455,
       "num": 28455,
       "word": "栓Q哥成名后有老板为签约喂他吃饭",
       "onboard_time": 1672082952,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 25597,
-      "num": 25597,
-      "word": "王凯谭松韵新剧首播收视率第一",
-      "onboard_time": 1672085292,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 18873,

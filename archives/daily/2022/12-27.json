@@ -1,6 +1,6 @@
 {
   "startTime": 1672071862986,
-  "endTime": 1672093985130,
+  "endTime": 1672096667346,
   "band_list": [
     {
       "raw_hot": 6477642,
@@ -203,6 +203,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 197715,
+      "num": 187651,
+      "word": "120闯红灯撞车后被指见死不救",
+      "onboard_time": 1672071565,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 190685,
+      "num": 190685,
+      "word": "阳过还用接种新冠第四针吗",
+      "onboard_time": 1672091592,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 186113,
       "num": 186113,
       "word": "期待2023",
@@ -273,6 +289,14 @@
       "onboard_time": 1672055852,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 150048,
+      "num": 150048,
+      "word": "阳了后为什么会眼睛痛",
+      "onboard_time": 1672086553,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 145817,
@@ -379,14 +403,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 120126,
-      "num": 120126,
-      "word": "120闯红灯撞车后被指见死不救",
-      "onboard_time": 1672071565,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 114666,
       "num": 114666,
       "word": "苹果iPhone15或复活mini产品线",
@@ -427,12 +443,12 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 81193,
-      "num": 81193,
-      "word": "阳了后为什么会眼睛痛",
-      "onboard_time": 1672086553,
-      "rank": 21,
-      "category": "社会新闻"
+      "raw_hot": 77874,
+      "num": 77874,
+      "word": "Giselle合作曲part只有3秒",
+      "onboard_time": 1672095918,
+      "rank": 29,
+      "category": "音乐"
     },
     {
       "raw_hot": 77510,
@@ -443,6 +459,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 63614,
+      "num": 63614,
+      "word": "腰腹赘肉算是有克星了",
+      "onboard_time": 1672056094,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 55595,
       "num": 55595,
       "word": "孟子义在线追星张嘉佳",
@@ -451,12 +475,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 52781,
-      "num": 52781,
-      "word": "阳过还用接种新冠第四针吗",
-      "onboard_time": 1672091592,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 54472,
+      "num": 54472,
+      "word": "顾客吐槽看阿凡达需30元购3D眼镜",
+      "onboard_time": 1672075698,
+      "rank": 45,
+      "category": "影视,社会新闻"
     },
     {
       "raw_hot": 51734,
@@ -467,12 +491,12 @@
       "category": "影视,情感"
     },
     {
-      "raw_hot": 51490,
-      "num": 51490,
-      "word": "顾客吐槽看阿凡达需30元购3D眼镜",
-      "onboard_time": 1672075698,
-      "rank": 45,
-      "category": "影视,社会新闻"
+      "raw_hot": 50609,
+      "num": 50609,
+      "word": "王凯谭松韵新剧首播收视率第一",
+      "onboard_time": 1672085292,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 47330,
@@ -483,14 +507,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 46929,
-      "num": 46929,
-      "word": "腰腹赘肉算是有克星了",
-      "onboard_time": 1672056094,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 39192,
       "num": 39192,
       "word": "中国海军驱离海盗真实影像",
@@ -499,20 +515,20 @@
       "category": "军事"
     },
     {
+      "raw_hot": 38036,
+      "num": 38036,
+      "word": "赵德馨教授回应知网被罚8760万",
+      "onboard_time": 1672095196,
+      "rank": 49,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 28455,
       "num": 28455,
       "word": "栓Q哥成名后有老板为签约喂他吃饭",
       "onboard_time": 1672082952,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 25597,
-      "num": 25597,
-      "word": "王凯谭松韵新剧首播收视率第一",
-      "onboard_time": 1672085292,
-      "rank": 32,
-      "category": "影视"
     }
   ],
   "hotgov_list": [
