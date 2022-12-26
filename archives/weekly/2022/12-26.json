@@ -1,6 +1,6 @@
 {
   "startTime": 1671985442345,
-  "endTime": 1672018022625,
+  "endTime": 1672019578180,
   "band_list": [
     {
       "raw_hot": 1208396,
@@ -115,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 444997,
+      "num": 310907,
+      "word": "专家称转阴后身体约2到3周才能恢复",
+      "onboard_time": 1672018587,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 436635,
       "num": 436635,
       "word": "导俊白干了",
@@ -163,6 +171,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 315772,
+      "num": 315772,
+      "word": "Epic免费送死亡搁浅",
+      "onboard_time": 1672009877,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 311739,
       "num": 311739,
       "word": "春晚彩排有你想看到的艺人吗",
@@ -187,20 +203,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 286624,
-      "num": 286624,
-      "word": "Epic免费送死亡搁浅",
-      "onboard_time": 1672009877,
-      "rank": 26,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 280732,
       "num": 280732,
       "word": "肖战如梦之梦北京场谢幕直播",
       "onboard_time": 1672016969,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 280255,
+      "num": 280255,
+      "word": "阳了能不能洗澡因人而异",
+      "onboard_time": 1672018048,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 266496,
@@ -227,8 +243,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 240967,
-      "num": 240967,
+      "raw_hot": 241827,
+      "num": 241827,
       "word": "阳了几天后的发型",
       "onboard_time": 1671983486,
       "rank": 24,
@@ -241,6 +257,14 @@
       "onboard_time": 1671999911,
       "rank": 46,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 225382,
+      "num": 225382,
+      "word": "湖人 五后卫",
+      "onboard_time": 1672016248,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 217502,
@@ -315,14 +339,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 190476,
-      "num": 190476,
-      "word": "湖人 五后卫",
-      "onboard_time": 1672016248,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 188023,
       "num": 144815,
       "word": "Last Christmas",
@@ -395,6 +411,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 158736,
+      "num": 158736,
+      "word": "这狗子是在美黑吧",
+      "onboard_time": 1672014265,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 157730,
+      "num": 157730,
+      "word": "新成昆铁路全线通车",
+      "onboard_time": 1672018348,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 156634,
       "num": 156634,
       "word": "女子四天没洗头当猫咪闻过之后",
@@ -419,6 +451,22 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 153303,
+      "num": 153303,
+      "word": "2022有真正的爆款剧吗",
+      "onboard_time": 1671990076,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 149363,
+      "num": 149363,
+      "word": "感冒和新冠会同时得吗",
+      "onboard_time": 1672019008,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 148869,
       "num": 148869,
       "word": "WB遗憾止步四强",
@@ -435,20 +483,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 146347,
-      "num": 146347,
-      "word": "2022有真正的爆款剧吗",
-      "onboard_time": 1671990076,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 145495,
-      "num": 145495,
-      "word": "这狗子是在美黑吧",
-      "onboard_time": 1672014265,
+      "raw_hot": 145081,
+      "num": 145081,
+      "word": "黄明昊嗑cp嗑到正主面前",
+      "onboard_time": 1672019426,
       "rank": 36,
-      "category": "幽默"
+      "category": "综艺"
     },
     {
       "raw_hot": 144955,
@@ -491,6 +531,14 @@
       "category": "科技,社会议题"
     },
     {
+      "raw_hot": 108940,
+      "num": 108940,
+      "word": "你有哪些年终总结小技巧",
+      "onboard_time": 1672018947,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 107436,
       "num": 107436,
       "word": "1个火星年有多长",
@@ -521,6 +569,14 @@
       "onboard_time": 1671982526,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 103511,
+      "num": 103511,
+      "word": "凯尔特人战胜雄鹿",
+      "onboard_time": 1672018587,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 102846,
@@ -561,6 +617,14 @@
       "onboard_time": 1671980190,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 98693,
+      "num": 98693,
+      "word": "毛主席诞辰129周年",
+      "onboard_time": 1672013606,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 87168,
