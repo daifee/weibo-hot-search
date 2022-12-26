@@ -1,6 +1,6 @@
 {
   "startTime": 1671985442345,
-  "endTime": 1672047208218,
+  "endTime": 1672049943375,
   "band_list": [
     {
       "raw_hot": 3620426,
@@ -9,6 +9,14 @@
       "onboard_time": 1672038390,
       "rank": 31,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 2455466,
+      "num": 385384,
+      "word": "刘强东痛批京东中高层拿PPT欺骗自己",
+      "onboard_time": 1672046910,
+      "rank": 22,
+      "category": "科技"
     },
     {
       "raw_hot": 2387565,
@@ -32,6 +40,14 @@
       "word": "被赠药踹门辱骂女邻居当事男子道歉",
       "onboard_time": 1672022188,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1557371,
+      "num": 1557371,
+      "word": "阳后有必要拍肺部CT吗",
+      "onboard_time": 1672046793,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -235,6 +251,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 717620,
+      "num": 717620,
+      "word": "共和国5天痛失13位院士",
+      "onboard_time": 1672045531,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 708127,
       "num": 708127,
       "word": "农村能否平稳经受春节防疫大考",
@@ -427,14 +451,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 508865,
-      "num": 445451,
-      "word": "共和国5天痛失13位院士",
-      "onboard_time": 1672045531,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 507930,
       "num": 507930,
       "word": "男孩阳性5天没发烧突然抽搐不停",
@@ -465,6 +481,22 @@
       "onboard_time": 1672042233,
       "rank": 21,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 496365,
+      "num": 381907,
+      "word": "护士手术中晕倒醒来后拒摘口罩",
+      "onboard_time": 1672047453,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 482208,
+      "num": 482208,
+      "word": "金钟仁姜涩琪李帝努柳智敏合作曲公开",
+      "onboard_time": 1672047514,
+      "rank": 8,
+      "category": "音乐"
     },
     {
       "raw_hot": 472353,
@@ -563,6 +595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 399846,
+      "num": 381402,
+      "word": "TangoZ是懂kpop人的",
+      "onboard_time": 1672047571,
+      "rank": 12,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 397946,
       "num": 397946,
       "word": "EXO顺其自然发行五周年",
@@ -577,6 +617,14 @@
       "onboard_time": 1672006151,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 377337,
+      "num": 377337,
+      "word": "李文卓 双重人格",
+      "onboard_time": 1672045652,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 377316,
@@ -811,14 +859,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 291714,
-      "num": 291714,
-      "word": "李文卓 双重人格",
-      "onboard_time": 1672045652,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 286082,
       "num": 203374,
       "word": "张若昀2023央视春晚首次联排",
@@ -865,14 +905,6 @@
       "onboard_time": 1672029151,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 278198,
-      "num": 278198,
-      "word": "刘强东痛批京东中高层拿PPT欺骗自己",
-      "onboard_time": 1672046910,
-      "rank": 22,
-      "category": "科技"
     },
     {
       "raw_hot": 274496,
@@ -939,6 +971,22 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 240889,
+      "num": 240889,
+      "word": "北京医保局称辉瑞新冠药按甲类报销",
+      "onboard_time": 1672048773,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 236672,
+      "num": 228814,
+      "word": "沈腾今年春晚彩排瘦了",
+      "onboard_time": 1672047692,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 235792,
       "num": 235792,
       "word": "村医每晚在诊所门上贴满退烧药",
@@ -953,6 +1001,14 @@
       "onboard_time": 1672037250,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 228826,
+      "num": 228826,
+      "word": "同济大学餐食案生产商被罚近30万",
+      "onboard_time": 1672046495,
+      "rank": 37,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 226941,
@@ -1051,12 +1107,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 213685,
-      "num": 213685,
-      "word": "阳后有必要拍肺部CT吗",
-      "onboard_time": 1672046793,
-      "rank": 33,
+      "raw_hot": 217317,
+      "num": 190575,
+      "word": "阳后有这些症状可能正在转重症",
+      "onboard_time": 1672049071,
+      "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 214095,
+      "num": 214095,
+      "word": "疫情第一波过后你关心哪些数据",
+      "onboard_time": 1672047812,
+      "rank": 26,
+      "category": "社会议题"
     },
     {
       "raw_hot": 212698,
@@ -1105,6 +1169,14 @@
       "onboard_time": 1671977850,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 198440,
+      "num": 190214,
+      "word": "2022我想对你说",
+      "onboard_time": 1672049912,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 198343,
@@ -1179,6 +1251,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 190076,
+      "num": 190076,
+      "word": "洛歌受刑",
+      "onboard_time": 1672049071,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 189932,
       "num": 189932,
       "word": "张紫宁说不想被骂就不要犯错",
@@ -1203,6 +1283,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 188004,
+      "num": 188004,
+      "word": "东方卫视跨年晚会官宣阵容",
+      "onboard_time": 1672046793,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 187631,
       "num": 187631,
       "word": "跨年晚会cp合唱名场面",
@@ -1219,12 +1307,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 186087,
-      "num": 186087,
-      "word": "东方卫视跨年晚会官宣阵容",
-      "onboard_time": 1672046793,
+      "raw_hot": 186359,
+      "num": 186359,
+      "word": "少年歌行",
+      "onboard_time": 1672047273,
       "rank": 36,
-      "category": "综艺"
+      "category": "影视"
     },
     {
       "raw_hot": 182714,
@@ -1233,14 +1321,6 @@
       "onboard_time": 1672020445,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 180704,
-      "num": 180704,
-      "word": "同济大学餐食案生产商被罚近30万",
-      "onboard_time": 1672046495,
-      "rank": 37,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 180475,
@@ -1289,6 +1369,14 @@
       "onboard_time": 1672035750,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 172120,
+      "num": 172120,
+      "word": "妹妹的笑容不会消失只会转移",
+      "onboard_time": 1672048834,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 171505,
@@ -1507,6 +1595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 145105,
+      "num": 145105,
+      "word": "他带队8年修缮2万多米长城",
+      "onboard_time": 1672049553,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144955,
       "num": 144955,
       "word": "新冠感染情况问卷调查",
@@ -1585,6 +1681,14 @@
       "onboard_time": 1672030831,
       "rank": 14,
       "category": "情感"
+    },
+    {
+      "raw_hot": 132602,
+      "num": 132602,
+      "word": "男子喂海鸥头发被当成鸟窝不停被啄",
+      "onboard_time": 1672048891,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132566,
@@ -1697,6 +1801,14 @@
       "onboard_time": 1672018947,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 107809,
+      "num": 107809,
+      "word": "看得出猫猫真的很急了",
+      "onboard_time": 1672049912,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 107436,
@@ -1824,6 +1936,14 @@
       "word": "男子高烧发视频被多个殡葬商家关注",
       "onboard_time": 1671961950,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 78279,
+      "num": 877849,
+      "word": "关于儿童退烧药10个热点问答",
+      "onboard_time": 1672048353,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -1970,6 +2090,9 @@
     },
     {
       "word": "#新冠感染情况问卷调查#"
+    },
+    {
+      "word": "#2022中国色彩之美#"
     }
   ]
 }
