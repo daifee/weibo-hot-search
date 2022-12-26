@@ -1,6 +1,6 @@
 {
   "startTime": 1672071862986,
-  "endTime": 1672096667346,
+  "endTime": 1672097614583,
   "band_list": [
     {
       "raw_hot": 6477642,
@@ -171,8 +171,8 @@
       "category": "科技"
     },
     {
-      "raw_hot": 248637,
-      "num": 248637,
+      "raw_hot": 251253,
+      "num": 251253,
       "word": "国家卫健委公告",
       "onboard_time": 1672069174,
       "rank": 22,
@@ -195,6 +195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 225069,
+      "num": 225069,
+      "word": "阳过还用接种新冠第四针吗",
+      "onboard_time": 1672091592,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 203996,
       "num": 203996,
       "word": "骚白",
@@ -203,19 +211,19 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 200978,
+      "num": 200978,
+      "word": "阳了后为什么会眼睛痛",
+      "onboard_time": 1672086553,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 197715,
       "num": 187651,
       "word": "120闯红灯撞车后被指见死不救",
       "onboard_time": 1672071565,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 190685,
-      "num": 190685,
-      "word": "阳过还用接种新冠第四针吗",
-      "onboard_time": 1672091592,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -291,12 +299,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 150048,
-      "num": 150048,
-      "word": "阳了后为什么会眼睛痛",
-      "onboard_time": 1672086553,
-      "rank": 21,
-      "category": "社会新闻"
+      "raw_hot": 154180,
+      "num": 154180,
+      "word": "金菊花国产烂片颁奖典礼",
+      "onboard_time": 1672057712,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 145817,
@@ -323,14 +331,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 134623,
-      "num": 134623,
-      "word": "金菊花国产烂片颁奖典礼",
-      "onboard_time": 1672057712,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
       "raw_hot": 130069,
       "num": 130069,
       "word": "王凯 演技",
@@ -353,6 +353,14 @@
       "onboard_time": 1672062214,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 126744,
+      "num": 126744,
+      "word": "梁洁有多喜欢这件粉色毛绒大衣",
+      "onboard_time": 1672096878,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 126065,
@@ -427,12 +435,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 110339,
+      "num": 110339,
+      "word": "Giselle合作曲part只有3秒",
+      "onboard_time": 1672095918,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 106527,
       "num": 106527,
       "word": "猫咪把自己烤糊了是什么体验",
       "onboard_time": 1672066891,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 105354,
+      "num": 89204,
+      "word": "李文文到底是失踪了还是死了呢",
+      "onboard_time": 1672096820,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 98506,
@@ -443,12 +467,28 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 77874,
-      "num": 77874,
-      "word": "Giselle合作曲part只有3秒",
-      "onboard_time": 1672095918,
-      "rank": 29,
-      "category": "音乐"
+      "raw_hot": 89634,
+      "num": 89634,
+      "word": "腰腹赘肉算是有克星了",
+      "onboard_time": 1672056094,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 82520,
+      "num": 82520,
+      "word": "宋祖儿春晚彩排",
+      "onboard_time": 1672097180,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 81986,
+      "num": 81986,
+      "word": "顾客吐槽看阿凡达需30元购3D眼镜",
+      "onboard_time": 1672075698,
+      "rank": 45,
+      "category": "影视,社会新闻"
     },
     {
       "raw_hot": 77510,
@@ -459,12 +499,28 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 63614,
-      "num": 63614,
-      "word": "腰腹赘肉算是有克星了",
-      "onboard_time": 1672056094,
-      "rank": 44,
+      "raw_hot": 72604,
+      "num": 72604,
+      "word": "你看过最难释怀的烂剧",
+      "onboard_time": 1672074319,
+      "rank": 49,
+      "category": "影视,情感"
+    },
+    {
+      "raw_hot": 69629,
+      "num": 69629,
+      "word": "阿森纳3比1西汉姆联",
+      "onboard_time": 1672096761,
+      "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 66124,
+      "num": 66124,
+      "word": "王凯谭松韵新剧首播收视率第一",
+      "onboard_time": 1672085292,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 55595,
@@ -475,28 +531,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 54472,
-      "num": 54472,
-      "word": "顾客吐槽看阿凡达需30元购3D眼镜",
-      "onboard_time": 1672075698,
-      "rank": 45,
-      "category": "影视,社会新闻"
-    },
-    {
-      "raw_hot": 51734,
-      "num": 51734,
-      "word": "你看过最难释怀的烂剧",
-      "onboard_time": 1672074319,
+      "raw_hot": 53404,
+      "num": 53404,
+      "word": "年末川渝男人的统一着装",
+      "onboard_time": 1672097481,
       "rank": 49,
-      "category": "影视,情感"
-    },
-    {
-      "raw_hot": 50609,
-      "num": 50609,
-      "word": "王凯谭松韵新剧首播收视率第一",
-      "onboard_time": 1672085292,
-      "rank": 32,
-      "category": "影视"
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 47330,

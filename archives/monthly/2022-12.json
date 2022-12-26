@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1672096667346,
+  "endTime": 1672097614583,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -33315,6 +33315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 251253,
+      "num": 251253,
+      "word": "国家卫健委公告",
+      "onboard_time": 1672069174,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 251198,
       "num": 718142,
       "word": "林高远",
@@ -33633,14 +33641,6 @@
       "onboard_time": 1670842637,
       "rank": 42,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 248637,
-      "num": 248637,
-      "word": "国家卫健委公告",
-      "onboard_time": 1672069174,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 248571,
@@ -36273,6 +36273,14 @@
       "onboard_time": 1670601739,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 225069,
+      "num": 225069,
+      "word": "阳过还用接种新冠第四针吗",
+      "onboard_time": 1672091592,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 225017,
@@ -39299,6 +39307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 200978,
+      "num": 200978,
+      "word": "阳了后为什么会眼睛痛",
+      "onboard_time": 1672086553,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 200747,
       "num": 200747,
       "word": "男子床上放火盆取暖引燃被褥烧家",
@@ -41064,14 +41080,6 @@
       "word": "提高免疫力",
       "onboard_time": 1671844707,
       "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 190685,
-      "num": 190685,
-      "word": "阳过还用接种新冠第四针吗",
-      "onboard_time": 1672091592,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -49171,14 +49179,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 150048,
-      "num": 150048,
-      "word": "阳了后为什么会眼睛痛",
-      "onboard_time": 1672086553,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 150027,
       "num": 506804,
       "word": "和电量焦虑说拜拜",
@@ -53779,6 +53779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 126744,
+      "num": 126744,
+      "word": "梁洁有多喜欢这件粉色毛绒大衣",
+      "onboard_time": 1672096878,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 126730,
       "num": 126730,
       "word": "2022年全国粮食总产量",
@@ -56603,6 +56611,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 110339,
+      "num": 110339,
+      "word": "Giselle合作曲part只有3秒",
+      "onboard_time": 1672095918,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 110242,
       "num": 110242,
       "word": "圣诞节文案",
@@ -57441,6 +57457,14 @@
       "onboard_time": 1671952227,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 105354,
+      "num": 89204,
+      "word": "李文文到底是失踪了还是死了呢",
+      "onboard_time": 1672096820,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 105344,
@@ -59451,6 +59475,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 82520,
+      "num": 82520,
+      "word": "宋祖儿春晚彩排",
+      "onboard_time": 1672097180,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 82492,
       "num": 528640,
       "word": "重庆无疫小区实行常态化防控",
@@ -59481,6 +59513,14 @@
       "onboard_time": 1671555560,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 81986,
+      "num": 81986,
+      "word": "顾客吐槽看阿凡达需30元购3D眼镜",
+      "onboard_time": 1672075698,
+      "rank": 45,
+      "category": "影视,社会新闻"
     },
     {
       "raw_hot": 81808,
@@ -59649,14 +59689,6 @@
       "onboard_time": 1670339830,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 77874,
-      "num": 77874,
-      "word": "Giselle合作曲part只有3秒",
-      "onboard_time": 1672095918,
-      "rank": 29,
-      "category": "音乐"
     },
     {
       "raw_hot": 77819,
@@ -59875,6 +59907,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 72604,
+      "num": 72604,
+      "word": "你看过最难释怀的烂剧",
+      "onboard_time": 1672074319,
+      "rank": 49,
+      "category": "影视,情感"
+    },
+    {
       "raw_hot": 71857,
       "num": 71857,
       "word": "梅西又双叒被撞脸",
@@ -59985,6 +60025,14 @@
       "onboard_time": 1669903392,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 69629,
+      "num": 69629,
+      "word": "阿森纳3比1西汉姆联",
+      "onboard_time": 1672096761,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 69509,
@@ -60121,6 +60169,14 @@
       "onboard_time": 1670282828,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 66124,
+      "num": 66124,
+      "word": "王凯谭松韵新剧首播收视率第一",
+      "onboard_time": 1672085292,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 66040,
@@ -60531,14 +60587,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 54472,
-      "num": 54472,
-      "word": "顾客吐槽看阿凡达需30元购3D眼镜",
-      "onboard_time": 1672075698,
-      "rank": 45,
-      "category": "影视,社会新闻"
-    },
-    {
       "raw_hot": 54355,
       "num": 184923,
       "word": "老师撒娇说手冷萌娃放怀里暖",
@@ -60569,6 +60617,14 @@
       "onboard_time": 1670487977,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 53404,
+      "num": 53404,
+      "word": "年末川渝男人的统一着装",
+      "onboard_time": 1672097481,
+      "rank": 49,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 53261,
@@ -60611,14 +60667,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 51734,
-      "num": 51734,
-      "word": "你看过最难释怀的烂剧",
-      "onboard_time": 1672074319,
-      "rank": 49,
-      "category": "影视,情感"
-    },
-    {
       "raw_hot": 51486,
       "num": 51486,
       "word": "前田大然破门",
@@ -60657,14 +60705,6 @@
       "onboard_time": 1669924567,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 50609,
-      "num": 50609,
-      "word": "王凯谭松韵新剧首播收视率第一",
-      "onboard_time": 1672085292,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 50448,
