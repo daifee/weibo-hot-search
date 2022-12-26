@@ -1,6 +1,6 @@
 {
   "startTime": 1671985442345,
-  "endTime": 1672046258975,
+  "endTime": 1672047208218,
   "band_list": [
     {
       "raw_hot": 3620426,
@@ -171,6 +171,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 842582,
+      "num": 842582,
+      "word": "知网涉嫌垄断被罚8760万",
+      "onboard_time": 1672042774,
+      "rank": 42,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 836313,
       "num": 836313,
       "word": "杨紫春晚联排公主头造型路透",
@@ -291,8 +299,8 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 651738,
-      "num": 651738,
+      "raw_hot": 653468,
+      "num": 653468,
       "word": "蒋龙张弛2023央视春晚首次联排",
       "onboard_time": 1672044031,
       "rank": 5,
@@ -419,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 508865,
+      "num": 445451,
+      "word": "共和国5天痛失13位院士",
+      "onboard_time": 1672045531,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 507930,
       "num": 507930,
       "word": "男孩阳性5天没发烧突然抽搐不停",
@@ -481,14 +497,6 @@
       "onboard_time": 1671983966,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 465292,
-      "num": 465292,
-      "word": "知网涉嫌垄断被罚8760万",
-      "onboard_time": 1672042774,
-      "rank": 42,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 463159,
@@ -691,6 +699,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 327928,
+      "num": 327928,
+      "word": "知网回应被罚",
+      "onboard_time": 1672045294,
+      "rank": 19,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 326535,
       "num": 326535,
       "word": "男子地铁偷拍裙底陌生女孩大声呵止",
@@ -715,8 +731,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 317935,
-      "num": 301018,
+      "raw_hot": 320276,
+      "num": 320276,
       "word": "周深2023央视春晚首次联排",
       "onboard_time": 1672044153,
       "rank": 20,
@@ -771,14 +787,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 302022,
-      "num": 302022,
-      "word": "知网回应被罚",
-      "onboard_time": 1672045294,
-      "rank": 19,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 300599,
       "num": 300599,
       "word": "怪不得猫不喜欢和狗玩",
@@ -801,6 +809,14 @@
       "onboard_time": 1671976592,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 291714,
+      "num": 291714,
+      "word": "李文卓 双重人格",
+      "onboard_time": 1672045652,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 286082,
@@ -849,6 +865,14 @@
       "onboard_time": 1672029151,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 278198,
+      "num": 278198,
+      "word": "刘强东痛批京东中高层拿PPT欺骗自己",
+      "onboard_time": 1672046910,
+      "rank": 22,
+      "category": "科技"
     },
     {
       "raw_hot": 274496,
@@ -904,14 +928,6 @@
       "word": "老板请困难老人吃粉被质疑不送钱",
       "onboard_time": 1672039591,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 243094,
-      "num": 216321,
-      "word": "共和国5天痛失13位院士",
-      "onboard_time": 1672045531,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -1033,6 +1049,14 @@
       "onboard_time": 1671981748,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 213685,
+      "num": 213685,
+      "word": "阳后有必要拍肺部CT吗",
+      "onboard_time": 1672046793,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 212698,
@@ -1195,12 +1219,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 186831,
-      "num": 186831,
-      "word": "李文卓 双重人格",
-      "onboard_time": 1672045652,
+      "raw_hot": 186087,
+      "num": 186087,
+      "word": "东方卫视跨年晚会官宣阵容",
+      "onboard_time": 1672046793,
       "rank": 36,
-      "category": "影视"
+      "category": "综艺"
     },
     {
       "raw_hot": 182714,
@@ -1209,6 +1233,14 @@
       "onboard_time": 1672020445,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 180704,
+      "num": 180704,
+      "word": "同济大学餐食案生产商被罚近30万",
+      "onboard_time": 1672046495,
+      "rank": 37,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 180475,
@@ -1225,6 +1257,14 @@
       "onboard_time": 1671963632,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 178507,
+      "num": 178507,
+      "word": "回来的女儿 上头",
+      "onboard_time": 1672044572,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 176836,
@@ -1272,14 +1312,6 @@
       "word": "李文卓不是真的李文卓",
       "onboard_time": 1671976111,
       "rank": 32,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 170660,
-      "num": 170660,
-      "word": "回来的女儿 上头",
-      "onboard_time": 1672044572,
-      "rank": 41,
       "category": "影视"
     },
     {
@@ -1513,6 +1545,14 @@
       "onboard_time": 1672024890,
       "rank": 37,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 140950,
+      "num": 140950,
+      "word": "嘻哈女团的画风有多反差",
+      "onboard_time": 1672047150,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 140802,
