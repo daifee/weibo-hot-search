@@ -1,6 +1,6 @@
 {
   "startTime": 1671985442345,
-  "endTime": 1672050875970,
+  "endTime": 1672053279995,
   "band_list": [
     {
       "raw_hot": 3620426,
@@ -243,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 727856,
+      "num": 727856,
+      "word": "于正感染新冠两天后转阴",
+      "onboard_time": 1672049973,
+      "rank": 31,
+      "category": "艺人,社会新闻"
+    },
+    {
       "raw_hot": 717835,
       "num": 717835,
       "word": "Epic道歉",
@@ -267,12 +275,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 707997,
+      "num": 406727,
+      "word": "北京医保局称辉瑞新冠药按甲类报销",
+      "onboard_time": 1672048773,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 703174,
       "num": 703174,
       "word": "就当是一场梦 醒来还是很感动",
       "onboard_time": 1671980905,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 702850,
+      "num": 343067,
+      "word": "姜大声离开YG娱乐",
+      "onboard_time": 1672051112,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 681856,
@@ -360,6 +384,14 @@
       "word": "父亲深夜摆摊欲卖25万份菠萝蜜救女",
       "onboard_time": 1672031312,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 592750,
+      "num": 592750,
+      "word": "02年小伙疫情3年打6份工买车",
+      "onboard_time": 1672050030,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -456,6 +488,14 @@
       "word": "北京计划在各社区医院配置辉瑞Paxlovid",
       "onboard_time": 1672026691,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 507995,
+      "num": 507995,
+      "word": "阳后有这些症状可能正在转重症",
+      "onboard_time": 1672049071,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -585,14 +625,6 @@
       "onboard_time": 1672032511,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 406727,
-      "num": 406727,
-      "word": "北京医保局称辉瑞新冠药按甲类报销",
-      "onboard_time": 1672048773,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 406034,
@@ -819,28 +851,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 313365,
-      "num": 171176,
-      "word": "于正感染新冠两天后转阴",
-      "onboard_time": 1672049973,
-      "rank": 31,
-      "category": "艺人,社会新闻"
-    },
-    {
       "raw_hot": 312257,
       "num": 225085,
       "word": "肖战如梦之梦唱十年花絮照",
       "onboard_time": 1672022490,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 312243,
-      "num": 312243,
-      "word": "阳后有这些症状可能正在转重症",
-      "onboard_time": 1672049071,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 311739,
@@ -939,6 +955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 273104,
+      "num": 273104,
+      "word": "姜涩琪柳智敏双人舞",
+      "onboard_time": 1672051706,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 267969,
       "num": 267969,
       "word": "中午吃火锅晚上吃米线",
@@ -1012,7 +1036,7 @@
     },
     {
       "raw_hot": 241704,
-      "num": 169946,
+      "num": 221007,
       "word": "各大卫视2023跨年阵容官宣",
       "onboard_time": 1672050572,
       "rank": 32,
@@ -1049,6 +1073,14 @@
       "onboard_time": 1672046495,
       "rank": 37,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 228347,
+      "num": 228347,
+      "word": "男子喂海鸥头发被当成鸟窝不停被啄",
+      "onboard_time": 1672048891,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 227451,
@@ -1172,11 +1204,19 @@
     },
     {
       "raw_hot": 209615,
-      "num": 167774,
+      "num": 173202,
       "word": "SMTOWN冬专全专音频视频",
       "onboard_time": 1672050750,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 206569,
+      "num": 206569,
+      "word": "少年歌行",
+      "onboard_time": 1672047273,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 203524,
@@ -1275,6 +1315,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 195081,
+      "num": 195081,
+      "word": "微博最受欢迎声优",
+      "onboard_time": 1672053270,
+      "rank": 27,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 194880,
       "num": 194880,
       "word": "王鹤棣陈钰琪浮图缘明天见",
@@ -1355,12 +1403,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 186359,
-      "num": 186359,
-      "word": "少年歌行",
-      "onboard_time": 1672047273,
+      "raw_hot": 185774,
+      "num": 171651,
+      "word": "食堂阿姨请病假HR临上阵掌勺做饭",
+      "onboard_time": 1672052672,
       "rank": 36,
-      "category": "影视"
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 183630,
+      "num": 183630,
+      "word": "年度国产动画",
+      "onboard_time": 1672050511,
+      "rank": 41,
+      "category": "动漫"
     },
     {
       "raw_hot": 182714,
@@ -1457,14 +1513,6 @@
       "onboard_time": 1672036588,
       "rank": 41,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 165327,
-      "num": 165327,
-      "word": "男子喂海鸥头发被当成鸟窝不停被啄",
-      "onboard_time": 1672048891,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 164598,
@@ -1635,12 +1683,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 147500,
-      "num": 147500,
-      "word": "年度国产动画",
-      "onboard_time": 1672050511,
+      "raw_hot": 148272,
+      "num": 148272,
+      "word": "女子切肉切出1根大针头",
+      "onboard_time": 1672052913,
       "rank": 41,
-      "category": "动漫"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 146545,
@@ -1667,6 +1715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 143391,
+      "num": 143391,
+      "word": "阴阳师",
+      "onboard_time": 1672051351,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 143285,
       "num": 143285,
       "word": "孩子发热抽搐不要往嘴里塞东西",
@@ -1689,14 +1745,6 @@
       "onboard_time": 1672044153,
       "rank": 46,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 141063,
-      "num": 141063,
-      "word": "02年小伙疫情3年打6份工买车",
-      "onboard_time": 1672050030,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 141020,
@@ -1744,6 +1792,14 @@
       "word": "新年发财要积极",
       "onboard_time": 1672030831,
       "rank": 14,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 132860,
+      "num": 132860,
+      "word": "异地恋情侣跨年要见面吗",
+      "onboard_time": 1672051832,
+      "rank": 44,
       "category": "情感"
     },
     {
