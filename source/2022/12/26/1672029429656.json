@@ -1,0 +1,410 @@
+{
+  "runTime": 1672029429656,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 959068,
+        "num": 959068,
+        "word": "专家称转阴后身体约2到3周才能恢复",
+        "onboard_time": 1672018587,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 804712,
+        "num": 804712,
+        "word": "药房连花清瘟进价18卖118被罚30万",
+        "onboard_time": 1672026450,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139508,
+        "num": 747120,
+        "word": "康复期如何快速恢复健康",
+        "onboard_time": 1672015107,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 717835,
+        "num": 717835,
+        "word": "Epic道歉",
+        "onboard_time": 1672027412,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 671449,
+        "num": 671449,
+        "word": "男子哄4岁女儿签20年不交男友合约",
+        "onboard_time": 1672027167,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 657234,
+        "num": 657234,
+        "word": "阳过后你有心肌炎症状吗",
+        "onboard_time": 1671980010,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 654654,
+        "num": 654654,
+        "word": "时代少年团撞色玩趣时装大片",
+        "onboard_time": 1672028671,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 646160,
+        "num": 646160,
+        "word": "今年烂尾的韩剧",
+        "onboard_time": 1672025608,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 571621,
+        "num": 571621,
+        "word": "曾供应全世界的抗原国内为何一盒难求",
+        "onboard_time": 1672021526,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 506748,
+        "num": 506748,
+        "word": "不浪费抗原的正确使用方法",
+        "onboard_time": 1672027830,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 854743,
+        "num": 473573,
+        "word": "王一博正式官宣东方卫视跨年",
+        "onboard_time": 1672024049,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 591400,
+        "num": 455094,
+        "word": "阴性女子去剪发被理发师劝走",
+        "onboard_time": 1672027591,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 547726,
+        "num": 444946,
+        "word": "8岁女孩吃布洛芬过敏肿成香肠嘴",
+        "onboard_time": 1672028008,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 426039,
+        "num": 426039,
+        "word": "北京计划在各社区医院配置辉瑞Paxlovid",
+        "onboard_time": 1672026691,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 416782,
+        "num": 416782,
+        "word": "蒋欣心月葵登场",
+        "onboard_time": 1672026331,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 406034,
+        "num": 406034,
+        "word": "薛之谦官宣加盟江苏卫视跨年",
+        "onboard_time": 1672027890,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 514414,
+        "num": 381173,
+        "word": "任嘉伦邢菲二搭",
+        "onboard_time": 1672022369,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 953107,
+        "num": 370317,
+        "word": "被赠药踹门辱骂女邻居当事男子道歉",
+        "onboard_time": 1672022188,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322047,
+        "num": 322047,
+        "word": "大部分心肌炎患者通过休息能痊愈",
+        "onboard_time": 1672019966,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315950,
+        "num": 315950,
+        "word": "广州队无人过问",
+        "onboard_time": 1672026150,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 393789,
+        "num": 313173,
+        "word": "王凯谭松韵新剧停职停飞处分",
+        "onboard_time": 1672029033,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 359707,
+        "num": 306904,
+        "word": "赵露思说我在东方卫视等你",
+        "onboard_time": 1672028131,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 329218,
+        "num": 292129,
+        "word": "再就业男团在东方跨年团建",
+        "onboard_time": 1672028671,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 264337,
+        "num": 264337,
+        "word": "毛泽东多个重要场合讲话原声",
+        "onboard_time": 1672013304,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260418,
+        "num": 260418,
+        "word": "梦岚 梦泪",
+        "onboard_time": 1672023870,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 318358,
+        "num": 258464,
+        "word": "著名歌唱家张目去世",
+        "onboard_time": 1672023933,
+        "rank": 25,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 249260,
+        "num": 249260,
+        "word": "女孩用18年考上帮扶人学校研究生",
+        "onboard_time": 1672022308,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224415,
+        "num": 224415,
+        "word": "东部战区位台岛周边演练现场原声",
+        "onboard_time": 1672022846,
+        "rank": 27,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 200221,
+        "num": 200221,
+        "word": "中午吃火锅晚上吃米线",
+        "onboard_time": 1672023269,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174020,
+        "num": 174020,
+        "word": "农村能否平稳经受春节防疫大考",
+        "onboard_time": 1672014027,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273881,
+        "num": 173140,
+        "word": "黄明昊嗑cp嗑到正主面前",
+        "onboard_time": 1672019426,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220643,
+        "num": 172599,
+        "word": "潘粤明代言违法保健品广告被罚",
+        "onboard_time": 1672012282,
+        "rank": 31,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 199955,
+        "num": 172165,
+        "word": "程威居然是蓝景仪",
+        "onboard_time": 1672023629,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 171708,
+        "num": 171708,
+        "word": "Epic免费送死亡搁浅",
+        "onboard_time": 1672009877,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 171452,
+        "num": 171452,
+        "word": "勇士战胜灰熊",
+        "onboard_time": 1672027830,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155784,
+        "num": 155784,
+        "word": "阳了几天后的发型",
+        "onboard_time": 1671983486,
+        "rank": 35,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 154202,
+        "num": 154202,
+        "word": "多地感染高峰将至",
+        "onboard_time": 1672028970,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153279,
+        "num": 153279,
+        "word": "云南女子取快递发现包裹长菌子",
+        "onboard_time": 1672028792,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136217,
+        "num": 136217,
+        "word": "星辰变",
+        "onboard_time": 1672028495,
+        "rank": 38,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 125627,
+        "num": 125627,
+        "word": "女孩滑雪场坐缆车捡手机时被挂半空",
+        "onboard_time": 1672020208,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189613,
+        "num": 125194,
+        "word": "董璇智族深V背头造型",
+        "onboard_time": 1672028551,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 182198,
+        "num": 124734,
+        "word": "少年歌行今晚开播",
+        "onboard_time": 1672021288,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 123010,
+        "num": 123010,
+        "word": "压力大真的会伤心",
+        "onboard_time": 1672020445,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120974,
+        "num": 120974,
+        "word": "法国20万人请愿重踢决赛你怎么看",
+        "onboard_time": 1671985523,
+        "rank": 43,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 120892,
+        "num": 120892,
+        "word": "专家呼吁尽快披露重症患者数据",
+        "onboard_time": 1672029151,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108016,
+        "num": 108016,
+        "word": "阳了以后洗澡时间一定要短",
+        "onboard_time": 1671978509,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106679,
+        "num": 106679,
+        "word": "姐姐打翻汤锅5岁妹妹双腿被烫伤",
+        "onboard_time": 1671983966,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105499,
+        "num": 105499,
+        "word": "四川省考",
+        "onboard_time": 1672020086,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105433,
+        "num": 105433,
+        "word": "阳了能不能洗澡因人而异",
+        "onboard_time": 1672018048,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97251,
+        "num": 97251,
+        "word": "零下14度的新疆大集有多好逛",
+        "onboard_time": 1672012763,
+        "rank": 49,
+        "category": "旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#新冠感染情况问卷调查#"
+    }
+  }
+}
