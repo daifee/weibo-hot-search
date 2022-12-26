@@ -1,6 +1,6 @@
 {
   "startTime": 1671985442345,
-  "endTime": 1672092992146,
+  "endTime": 1672093985130,
   "band_list": [
     {
       "raw_hot": 8035343,
@@ -2963,6 +2963,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 52781,
+      "num": 52781,
+      "word": "阳过还用接种新冠第四针吗",
+      "onboard_time": 1672091592,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 52765,
       "num": 52765,
       "word": "电影想见你豆瓣6.8分你怎么看",
@@ -3009,14 +3017,6 @@
       "onboard_time": 1672076777,
       "rank": 45,
       "category": "军事"
-    },
-    {
-      "raw_hot": 30496,
-      "num": 30496,
-      "word": "阳过还用接种新冠第四针吗",
-      "onboard_time": 1672091592,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 28455,
