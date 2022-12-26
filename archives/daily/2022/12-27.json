@@ -1,6 +1,6 @@
 {
   "startTime": 1672071862986,
-  "endTime": 1672090412749,
+  "endTime": 1672092992146,
   "band_list": [
     {
       "raw_hot": 6477642,
@@ -427,6 +427,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 81193,
+      "num": 81193,
+      "word": "阳了后为什么会眼睛痛",
+      "onboard_time": 1672086553,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 77510,
       "num": 77510,
       "word": "崔然竣歌谣大战直拍",
@@ -459,14 +467,6 @@
       "category": "影视,社会新闻"
     },
     {
-      "raw_hot": 49282,
-      "num": 49282,
-      "word": "阳了后为什么会眼睛痛",
-      "onboard_time": 1672086553,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 47330,
       "num": 47330,
       "word": "山东多地迎今冬初雪",
@@ -483,12 +483,20 @@
       "category": "军事"
     },
     {
-      "raw_hot": 32085,
-      "num": 32085,
+      "raw_hot": 32999,
+      "num": 32999,
       "word": "腰腹赘肉算是有克星了",
       "onboard_time": 1672056094,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 30496,
+      "num": 30496,
+      "word": "阳过还用接种新冠第四针吗",
+      "onboard_time": 1672091592,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 28455,
