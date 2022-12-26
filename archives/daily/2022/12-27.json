@@ -1,6 +1,6 @@
 {
   "startTime": 1672071862986,
-  "endTime": 1672076011702,
+  "endTime": 1672078886558,
   "band_list": [
     {
       "raw_hot": 6477642,
@@ -387,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 114666,
+      "num": 114666,
+      "word": "苹果iPhone15或复活mini产品线",
+      "onboard_time": 1672074380,
+      "rank": 47,
+      "category": "科技"
+    },
+    {
       "raw_hot": 113492,
       "num": 113492,
       "word": "EDG 上野",
@@ -409,14 +417,6 @@
       "onboard_time": 1672066891,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 103136,
-      "num": 103136,
-      "word": "苹果iPhone15或复活mini产品线",
-      "onboard_time": 1672074380,
-      "rank": 47,
-      "category": "科技"
     },
     {
       "raw_hot": 98506,
@@ -457,6 +457,30 @@
       "onboard_time": 1672075458,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 40853,
+      "num": 40853,
+      "word": "孟子义在线追星张嘉佳",
+      "onboard_time": 1672076416,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 32085,
+      "num": 32085,
+      "word": "腰腹赘肉算是有克星了",
+      "onboard_time": 1672056094,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 32055,
+      "num": 32055,
+      "word": "中国海军驱离海盗真实影像",
+      "onboard_time": 1672076777,
+      "rank": 45,
+      "category": "军事"
     }
   ],
   "hotgov_list": [

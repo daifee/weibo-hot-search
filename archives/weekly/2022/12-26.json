@@ -1,6 +1,6 @@
 {
   "startTime": 1671985442345,
-  "endTime": 1672076011702,
+  "endTime": 1672078886558,
   "band_list": [
     {
       "raw_hot": 8035343,
@@ -2659,6 +2659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 114666,
+      "num": 114666,
+      "word": "苹果iPhone15或复活mini产品线",
+      "onboard_time": 1672074380,
+      "rank": 47,
+      "category": "科技"
+    },
+    {
       "raw_hot": 112899,
       "num": 112899,
       "word": "男子开车与救护车碰撞后落水溺亡",
@@ -2745,14 +2753,6 @@
       "onboard_time": 1672018587,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 103136,
-      "num": 103136,
-      "word": "苹果iPhone15或复活mini产品线",
-      "onboard_time": 1672074380,
-      "rank": 47,
-      "category": "科技"
     },
     {
       "raw_hot": 102846,
@@ -2979,12 +2979,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 40853,
+      "num": 40853,
+      "word": "孟子义在线追星张嘉佳",
+      "onboard_time": 1672076416,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 40100,
       "num": 40100,
       "word": "DOTA2互联网杯",
       "onboard_time": 1671986600,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 32055,
+      "num": 32055,
+      "word": "中国海军驱离海盗真实影像",
+      "onboard_time": 1672076777,
+      "rank": 45,
+      "category": "军事"
     },
     {
       "raw_hot": 18873,

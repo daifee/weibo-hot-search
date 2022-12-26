@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1672076011702,
+  "endTime": 1672078886558,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -55907,6 +55907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 114666,
+      "num": 114666,
+      "word": "苹果iPhone15或复活mini产品线",
+      "onboard_time": 1672074380,
+      "rank": 47,
+      "category": "科技"
+    },
+    {
       "raw_hot": 114517,
       "num": 237699,
       "word": "重庆疫情走势处于下降期",
@@ -57745,14 +57753,6 @@
       "onboard_time": 1671258027,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 103136,
-      "num": 103136,
-      "word": "苹果iPhone15或复活mini产品线",
-      "onboard_time": 1672074380,
-      "rank": 47,
-      "category": "科技"
     },
     {
       "raw_hot": 103129,
@@ -60859,6 +60859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 40853,
+      "num": 40853,
+      "word": "孟子义在线追星张嘉佳",
+      "onboard_time": 1672076416,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 40760,
       "num": 40760,
       "word": "Lia扶李彩领退场",
@@ -61057,6 +61065,14 @@
       "onboard_time": 1670537650,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 32055,
+      "num": 32055,
+      "word": "中国海军驱离海盗真实影像",
+      "onboard_time": 1672076777,
+      "rank": 45,
+      "category": "军事"
     },
     {
       "raw_hot": 31990,
