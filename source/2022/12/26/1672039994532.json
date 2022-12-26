@@ -1,0 +1,410 @@
+{
+  "runTime": 1672039994532,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3020982,
+        "num": 3020982,
+        "word": "运动员王一博去世",
+        "onboard_time": 1672038390,
+        "rank": 0,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 2058802,
+        "num": 2058802,
+        "word": "谷爱凌斯坦福所有课程全部满分",
+        "onboard_time": 1672034430,
+        "rank": 1,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 93301,
+        "num": 1366036,
+        "word": "康复期如何快速恢复健康",
+        "onboard_time": 1672015107,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1313278,
+        "num": 1313278,
+        "word": "郑州一商场一天涌进十万人",
+        "onboard_time": 1672035690,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 774533,
+        "num": 774533,
+        "word": "杨紫春晚联排公主头造型路透",
+        "onboard_time": 1672037429,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 889033,
+        "num": 720555,
+        "word": "科华生物创始人唐伟国感染新冠后逝世",
+        "onboard_time": 1672031731,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 648209,
+        "num": 648209,
+        "word": "北京32岁女子一年相亲上百人",
+        "onboard_time": 1672037491,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 608686,
+        "num": 608686,
+        "word": "俄将尽力避免第三次世界大战",
+        "onboard_time": 1672033291,
+        "rank": 7,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 578656,
+        "num": 578656,
+        "word": "严定宪去世",
+        "onboard_time": 1672032031,
+        "rank": 8,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 548328,
+        "num": 548328,
+        "word": "保洁阿姨用唾沫反复擦电梯按键",
+        "onboard_time": 1672036471,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 544844,
+        "num": 544844,
+        "word": "阴性女子去剪发被理发师劝走",
+        "onboard_time": 1672027591,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 544087,
+        "num": 544087,
+        "word": "主人高烧嫌狗子太吵捏嘴手动闭麦",
+        "onboard_time": 1672036831,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 510686,
+        "num": 510686,
+        "word": "76岁老人感染新冠一周后去世",
+        "onboard_time": 1672038631,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 476458,
+        "num": 476458,
+        "word": "沈腾马丽2023央视春晚首次联排",
+        "onboard_time": 1672031191,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 418420,
+        "num": 418420,
+        "word": "Rookie给小钰送牌匾",
+        "onboard_time": 1672036168,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 390228,
+        "num": 390228,
+        "word": "阳了一直咳会不会得肺炎",
+        "onboard_time": 1672037847,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 388139,
+        "num": 388139,
+        "word": "王一博正式官宣东方卫视跨年",
+        "onboard_time": 1672024049,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 371228,
+        "num": 371228,
+        "word": "2023年央视春晚第一次大联排",
+        "onboard_time": 1672038331,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 371200,
+        "num": 371200,
+        "word": "抗原啥时候测才准",
+        "onboard_time": 1672032270,
+        "rank": 18,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 275812,
+        "num": 275812,
+        "word": "专家呼吁尽快披露重症患者数据",
+        "onboard_time": 1672029151,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 364365,
+        "num": 275336,
+        "word": "严浩翔尾号6208歌名意义",
+        "onboard_time": 1672038631,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 350423,
+        "num": 274915,
+        "word": "张真源英语考120多分找老师道歉",
+        "onboard_time": 1672039654,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 331211,
+        "num": 273557,
+        "word": "潘粤明方道歉",
+        "onboard_time": 1672032931,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270584,
+        "num": 270584,
+        "word": "专家称转阴后身体约2到3周才能恢复",
+        "onboard_time": 1672018587,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268783,
+        "num": 268783,
+        "word": "父亲深夜摆摊欲卖25万份菠萝蜜救女",
+        "onboard_time": 1672031312,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296858,
+        "num": 253249,
+        "word": "无尽夏开箱",
+        "onboard_time": 1672036049,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 233244,
+        "num": 233244,
+        "word": "蛋仔派对",
+        "onboard_time": 1672038631,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 222089,
+        "num": 222089,
+        "word": "8岁女孩吃布洛芬过敏肿成香肠嘴",
+        "onboard_time": 1672028008,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209693,
+        "num": 209693,
+        "word": "怪不得猫不喜欢和狗玩",
+        "onboard_time": 1672033711,
+        "rank": 28,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 205933,
+        "num": 205933,
+        "word": "Epic道歉",
+        "onboard_time": 1672027412,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 286082,
+        "num": 203374,
+        "word": "张若昀2023央视春晚首次联排",
+        "onboard_time": 1672039052,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234676,
+        "num": 201394,
+        "word": "王凯谭松韵新剧停职停飞处分",
+        "onboard_time": 1672029033,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 213325,
+        "num": 200535,
+        "word": "春晚",
+        "onboard_time": 1672034970,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199090,
+        "num": 199090,
+        "word": "北京多家社区卫生中心收到辉瑞新冠药培训通知",
+        "onboard_time": 1672032691,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196503,
+        "num": 196503,
+        "word": "大妈买早餐突然后仰小伙一把扶住",
+        "onboard_time": 1672031010,
+        "rank": 34,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 194580,
+        "num": 194580,
+        "word": "台军通报解放军71架战机抵近台湾",
+        "onboard_time": 1672039534,
+        "rank": 35,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 184769,
+        "num": 184769,
+        "word": "男子哄4岁女儿签20年不交男友合约",
+        "onboard_time": 1672027167,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254696,
+        "num": 183542,
+        "word": "被赠药踹门辱骂女邻居当事男子道歉",
+        "onboard_time": 1672022188,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182067,
+        "num": 182067,
+        "word": "大部分心肌炎患者通过休息能痊愈",
+        "onboard_time": 1672019966,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167388,
+        "num": 167388,
+        "word": "多地感染高峰将至",
+        "onboard_time": 1672028970,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209649,
+        "num": 164739,
+        "word": "太阳转入YG旗下厂牌",
+        "onboard_time": 1672032511,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208896,
+        "num": 160219,
+        "word": "今年烂尾的韩剧",
+        "onboard_time": 1672025608,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 154123,
+        "num": 154123,
+        "word": "Mystic回归微博",
+        "onboard_time": 1672034008,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 146551,
+        "num": 146551,
+        "word": "男子地铁偷拍裙底陌生女孩大声呵止",
+        "onboard_time": 1672039534,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145885,
+        "num": 145885,
+        "word": "东莞全域放开住房限购",
+        "onboard_time": 1672034970,
+        "rank": 44,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 143029,
+        "num": 143029,
+        "word": "感染高峰如何保护老人",
+        "onboard_time": 1672039293,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141209,
+        "num": 141209,
+        "word": "老板请困难老人吃粉被质疑不送钱",
+        "onboard_time": 1672039591,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139634,
+        "num": 139634,
+        "word": "官方回应青岛莱西湖附近偶遇老虎",
+        "onboard_time": 1672039771,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136417,
+        "num": 136417,
+        "word": "让小孩不哭的办法找到了",
+        "onboard_time": 1672039112,
+        "rank": 48,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 124715,
+        "num": 124715,
+        "word": "我想对21岁的一诺说",
+        "onboard_time": 1672039952,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#新冠感染情况问卷调查#"
+    }
+  }
+}
