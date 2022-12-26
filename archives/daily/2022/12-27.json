@@ -1,6 +1,6 @@
 {
   "startTime": 1672071862986,
-  "endTime": 1672071862986,
+  "endTime": 1672072880050,
   "band_list": [
     {
       "raw_hot": 6477642,
@@ -11,19 +11,19 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 2227798,
+      "num": 2227798,
+      "word": "章泽天发朋友圈介绍如何购买辉瑞新冠药",
+      "onboard_time": 1672068813,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2226005,
       "num": 2226005,
       "word": "xbb",
       "onboard_time": 1672057475,
       "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2072509,
-      "num": 2072509,
-      "word": "章泽天发朋友圈介绍如何购买辉瑞新冠药",
-      "onboard_time": 1672068813,
-      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -75,6 +75,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 463131,
+      "num": 463131,
+      "word": "有序恢复中国公民出境旅游",
+      "onboard_time": 1672070789,
+      "rank": 19,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 438487,
       "num": 438487,
       "word": "新冠病毒感染调整为乙类乙管",
@@ -83,11 +91,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 395545,
-      "num": 395545,
+      "raw_hot": 433034,
+      "num": 433034,
       "word": "妈妈偷订外卖忘记孩子识字被发现",
       "onboard_time": 1672068756,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 385289,
+      "num": 385289,
+      "word": "京东健康辉瑞新冠药已断货",
+      "onboard_time": 1672069234,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -97,14 +113,6 @@
       "onboard_time": 1672069593,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 347130,
-      "num": 347130,
-      "word": "京东健康辉瑞新冠药已断货",
-      "onboard_time": 1672069234,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 343424,
@@ -131,28 +139,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 284510,
-      "num": 284510,
-      "word": "阳后有必要拍肺部CT吗",
-      "onboard_time": 1672046793,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 268704,
-      "num": 268704,
+      "raw_hot": 290385,
+      "num": 290385,
       "word": "25岁老总挪用公款打赏女主播50万",
       "onboard_time": 1672069054,
       "rank": 18,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 263552,
-      "num": 263552,
-      "word": "有序恢复中国公民出境旅游",
-      "onboard_time": 1672070789,
-      "rank": 19,
-      "category": "社会新闻,旅游"
+      "raw_hot": 284510,
+      "num": 284510,
+      "word": "阳后有必要拍肺部CT吗",
+      "onboard_time": 1672046793,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 259612,
@@ -275,8 +275,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 139785,
-      "num": 139785,
+      "raw_hot": 145817,
+      "num": 145817,
       "word": "李宏毅少年歌行好看吗",
       "onboard_time": 1672070789,
       "rank": 34,
@@ -363,8 +363,16 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 109669,
-      "num": 109669,
+      "raw_hot": 113492,
+      "num": 113492,
+      "word": "EDG 上野",
+      "onboard_time": 1672055791,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 112899,
+      "num": 112899,
       "word": "男子开车与救护车碰撞后落水溺亡",
       "onboard_time": 1672068451,
       "rank": 45,
@@ -387,25 +395,28 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 99795,
-      "num": 99795,
-      "word": "EDG 上野",
-      "onboard_time": 1672055791,
-      "rank": 48,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 98506,
       "num": 98506,
       "word": "普京称俄将100%摧毁美承诺援乌的爱国者",
       "onboard_time": 1672055493,
       "rank": 49,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 78594,
+      "num": 78594,
+      "word": "没想到感染毒株也能社死",
+      "onboard_time": 1672072467,
+      "rank": 48,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
     {
       "word": "#新冠感染情况问卷调查#"
+    },
+    {
+      "word": "#22张海报回顾2022#"
     }
   ]
 }
