@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1672065199797,
+  "endTime": 1672067901189,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -185,6 +185,14 @@
       "onboard_time": 1671873094,
       "rank": 6,
       "category": "教育"
+    },
+    {
+      "raw_hot": 4968469,
+      "num": 4968469,
+      "word": "xbb",
+      "onboard_time": 1670487977,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 4870645,
@@ -376,14 +384,6 @@
       "word": "白肺",
       "onboard_time": 1672059454,
       "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 3821130,
-      "num": 3821130,
-      "word": "xbb",
-      "onboard_time": 1670487977,
-      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -1625,6 +1625,14 @@
       "onboard_time": 1671008295,
       "rank": 10,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 2168656,
+      "num": 2168656,
+      "word": "葛优母亲施文心去世",
+      "onboard_time": 1672065394,
+      "rank": 1,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 2164547,
@@ -3873,6 +3881,14 @@
       "onboard_time": 1671002956,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1400808,
+      "num": 1400808,
+      "word": "新冠肺炎更名为新冠感染",
+      "onboard_time": 1672067493,
+      "rank": 3,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 1400374,
@@ -6737,6 +6753,14 @@
       "onboard_time": 1669955412,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 988882,
+      "num": 988882,
+      "word": "谷爱凌说自己不知道的事情请不要说了",
+      "onboard_time": 1672065277,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 988376,
@@ -16379,6 +16403,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 523819,
+      "num": 523819,
+      "word": "刘亦菲逛街随拍",
+      "onboard_time": 1672067014,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 523697,
       "num": 523697,
       "word": "小智故事最终章",
@@ -22723,6 +22755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 386544,
+      "num": 386544,
+      "word": "陈飞宇上线换头像",
+      "onboard_time": 1672067676,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 386409,
       "num": 341995,
       "word": "神奇女侠3被取消",
@@ -23016,6 +23056,14 @@
       "word": "阳了之后要警惕这些误区",
       "onboard_time": 1671839781,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 380470,
+      "num": 380470,
+      "word": "上海一车主5次倒车撞击后车",
+      "onboard_time": 1672065695,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -25849,6 +25897,14 @@
       "onboard_time": 1671018795,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 334970,
+      "num": 334970,
+      "word": "解除对新冠感染的甲类传染病防控措施",
+      "onboard_time": 1672067736,
+      "rank": 19,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 334947,
@@ -29033,6 +29089,14 @@
       "onboard_time": 1671550229,
       "rank": 20,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 295665,
+      "num": 295665,
+      "word": "心肌炎症状有哪些",
+      "onboard_time": 1672065875,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 295590,
@@ -32635,6 +32699,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 257104,
+      "num": 226797,
+      "word": "大二女生吃药一年得知被误诊艾滋病",
+      "onboard_time": 1672067433,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 257052,
       "num": 257052,
       "word": "上海现60岁以上老人打疫苗1针奖500",
@@ -32664,6 +32736,14 @@
       "word": "鬼吹灯系列电影又双叒叕上新了",
       "onboard_time": 1671871528,
       "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 256717,
+      "num": 256717,
+      "word": "回来的女儿猴脸男是小卖部老板",
+      "onboard_time": 1672065753,
+      "rank": 25,
       "category": "影视"
     },
     {
@@ -33952,6 +34032,14 @@
       "word": "00后地理学霸给学弟学妹讲题走红",
       "onboard_time": 1671505289,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 244614,
+      "num": 1736614,
+      "word": "感染者出现哪些症状应及时就诊",
+      "onboard_time": 1672062693,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -36179,6 +36267,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 224351,
+      "num": 224351,
+      "word": "这算是跨年失败了",
+      "onboard_time": 1672066356,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 224304,
       "num": 224304,
       "word": "决赛日饿了么十万免单",
@@ -36305,6 +36401,14 @@
       "onboard_time": 1671692070,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 223376,
+      "num": 223376,
+      "word": "任嘉伦武庚纪开机烟花应援",
+      "onboard_time": 1672065212,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 223322,
@@ -39131,14 +39235,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 200722,
-      "num": 1736614,
-      "word": "感染者出现哪些症状应及时就诊",
-      "onboard_time": 1672062693,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 200696,
       "num": 200696,
       "word": "0713为王栎鑫新剧浮图缘打call",
@@ -40479,6 +40575,14 @@
       "num": 193317,
       "word": "299元病毒防御卡号称2米范围变净土",
       "onboard_time": 1671423994,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 193177,
+      "num": 193177,
+      "word": "新冠病毒感染调整为乙类乙管",
+      "onboard_time": 1672067854,
       "rank": 37,
       "category": "社会新闻"
     },
@@ -47451,6 +47555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 157532,
+      "num": 157532,
+      "word": "猫咪把自己烤糊了是什么体验",
+      "onboard_time": 1672066891,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 157529,
       "num": 613837,
       "word": "捐出百万积蓄的93岁老人离世",
@@ -48699,6 +48811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 151271,
+      "num": 151271,
+      "word": "英超",
+      "onboard_time": 1672065394,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 151267,
       "num": 151267,
       "word": "进球大战",
@@ -49857,6 +49977,14 @@
       "onboard_time": 1670313189,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 145696,
+      "num": 145696,
+      "word": "iPhoneXR掉地后冒烟炸开",
+      "onboard_time": 1672067314,
+      "rank": 47,
+      "category": "科技"
     },
     {
       "raw_hot": 145656,
