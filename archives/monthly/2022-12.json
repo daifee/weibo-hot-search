@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1672082027369,
+  "endTime": 1672083184198,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -61337,6 +61337,14 @@
       "onboard_time": 1671834494,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 14862,
+      "num": 19138,
+      "word": "栓Q哥成名后有老板为签约喂他吃饭",
+      "onboard_time": 1672082952,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 14313,
