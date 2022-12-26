@@ -1,6 +1,6 @@
 {
   "startTime": 1669825729614,
-  "endTime": 1672089313411,
+  "endTime": 1672090412749,
   "band_list": [
     {
       "raw_hot": 28665862,
@@ -60675,6 +60675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 49282,
+      "num": 49282,
+      "word": "阳了后为什么会眼睛痛",
+      "onboard_time": 1672086553,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 48418,
       "num": 576792,
       "word": "Find N2",
@@ -61107,14 +61115,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 30217,
-      "num": 30217,
-      "word": "阳了后为什么会眼睛痛",
-      "onboard_time": 1672086553,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 29978,
       "num": 29978,
       "word": "县委大院医院院长要工资搞笑场面",
@@ -61219,20 +61219,20 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 25597,
+      "num": 25597,
+      "word": "王凯谭松韵新剧首播收视率第一",
+      "onboard_time": 1672085292,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 25397,
       "num": 490982,
       "word": "厉害了秦友团",
       "onboard_time": 1671620431,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 25208,
-      "num": 25208,
-      "word": "王凯谭松韵新剧首播收视率第一",
-      "onboard_time": 1672085292,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 23439,
